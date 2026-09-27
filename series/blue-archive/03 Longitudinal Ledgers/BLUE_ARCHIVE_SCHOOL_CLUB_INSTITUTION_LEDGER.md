@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–016; BA:main:003:003:017 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–017; BA:main:003:003:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -839,3 +839,7 @@ Seia describes the Eden Treaty as a mutual promise to stop hatred that has becom
 ## V003 C003 E016 institutional delta — rescue amid a Pater power grab
 
 Seia now reports the E014 device detonated: Saori's halo intact, Atsuko shields her and lives, but is hurt; Justina manifestation weakens. Maestro senses reduced royal blood and plans around an opaque prior preparation, not a verifiable technical repair. Seia says Trinity assault still unachieved. Gehenna Emergency Medicine directly organizes rescues; a member reports Makoto/delegates rescued from a lake airship, Hina badly hurt/unconscious and Ako coordinating Prefects. Scene 2 shows Hina missing from her infirmary bed. Sisterhood officials report Tsurugi badly hurt, Hasumi/Sakurako critically ill, Nagisa still sought, Rescue Knights' room full and a Justice–Sister clash; no final census or ceasefire. Pater prepares war text, orders Hanako seized, claims Filius/Sanctus detention and intends Mika-backed Gehenna war. Its Sisterhood–Arius collusion theory uses claimed launch-site jurisdiction, not perpetrator evidence. Mika is approached outside prison/declared free but declines the war order; no declaration, lawful host validation or office restoration. Justice member explicitly says Koharu may not yet return formally, even as she later protects Mika. Sensei awakens at Rescue Knights care, with Hanae warning against movement; no discharge.
+
+## V003 C003 E017 institutional delta — local stand-down, formal questions open
+
+At the prison confrontation, Koharu refuses Pater militants' attack on Mika and Sensei directly requests nonviolence; the militants withdraw from that encounter. No text retracts Pater's proposed war, releases claimed rival detainees or restores Tea Party order. Sensei's praise of Koharu as a Justice elite is an ethical/social appraisal, not a formal reversal of E016's explicit membership restriction. Mika's apparent earlier Arius-reconciliation proposal and later anti-Gehenna host rationale are retrospective, with no implemented outreach or verified exact founding motive. Seia's personal forgiveness is crosscut and not an institutional amnesty. Tea Party, Sisterhood and Justice representatives recognize Sensei's return; no coordinated plan or treaty instrument appears. Nagisa's voice in the unmarked recollection does not locate her in the present.

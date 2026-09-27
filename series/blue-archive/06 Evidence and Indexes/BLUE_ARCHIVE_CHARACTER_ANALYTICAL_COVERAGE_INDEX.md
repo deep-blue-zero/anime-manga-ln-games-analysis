@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_CHECKPOINTS_PLUS_C003_E001_E016
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_CHECKPOINTS_PLUS_C003_E001_E017
 generation: V1
-version: "2.02"
+version: "2.03"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C002 through checkpoints, then BA:main:003:003:001–016 provisionally; 140/310 main units; side-source classes unreviewed; BA:main:003:003:017 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C002 through checkpoints, then BA:main:003:003:001–017 provisionally; 141/310 main units; side-source classes unreviewed; BA:main:003:003:018 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:003:003:017
+next_unopened_main_unit: BA:main:003:003:018
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:003:017
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V003_C003_E016` provisional boundary, inheriting canonical `MAIN_V003_C002`:
+This index answers four questions at the `MAIN_V003_C003_E017` provisional boundary, inheriting canonical `MAIN_V003_C002`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020 and V003 C003 E001-E016;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020 and V003 C003 E001-E017;
 - current checkpoint: `MAIN_V003_C002`; prior C001 and recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5` remain lineage;
-- main-story coverage: `140 / 310` canonical units;
+- main-story coverage: `141 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:003:003:017`.
+- next unopened main unit: `BA:main:003:003:018`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,12 +74,12 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` through C003 E016; opens eyes/sits up, Serina confirms waking; movement/recovery open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Seia | `ANALYZED` through C003 E016; interprets blast/fragmented crisis, still no physical waking shown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Koharu | `ANALYZED` through C003 E016; Justice member says return not yet allowed; she protects Mika | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` through C003 E017; arrives, asks Pater militants to stop and checks Mika; general solution open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Seia | `ANALYZED` through C003 E017; admits Mika was not fully known, voices personal forgiveness in crosscut | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Koharu | `ANALYZED` through C003 E017; blocks militants and receives Sensei praise, no formal Justice return | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hanako | `ANALYZED` through C003 E016; contests Pater war/collusion claims, ordered seized but custody unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Azusa | `ANALYZED` through C003 E016; bomb outcome survivors, still searches for way to stop Saori | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Mika | `ANALYZED` through C003 E016; rejects Pater war order without denying own Gehenna dislike; Koharu intervenes | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Mika | `ANALYZED` through C003 E017; apparent Arius-outreach recollection, doubted war rationale, apology/wishes | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Marie | `ANALYZED` through C003 E012; receives Hanako's tentative Justina/catastrophe synthesis | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hinata | `ANALYZED` through C003 E008; joins rear guard after identifying mimesis-looking foes | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sakurako | `ANALYZED` through C003 E002; offers Sisterhood guarantee and declares Azusa's Trinity papers official | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -1188,3 +1188,9 @@ Routing: [V003 C003 E015 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 E014's plush bomb detonates. Seia says Saori is badly hurt but her halo intact and Atsuko shielded her; Atsuko nods and Seia says she is alive. Seia's claim that an unnamed someone protects Atsuko's halo and Maestro's “royal blood”/prepared-woman remarks remain unverified technical interpretations. Seia says Trinity assault is delayed and Justina weakened; Azusa sees both survivors and still seeks a way to stop Saori. Gehenna Emergency Medicine begins broad rescue; a member reports Makoto rescued from a lake airship, Hina badly hurt/unconscious and Ako coordinating Prefects. Then Ako directly finds Hina missing from her infirmary bed, with no destination or recovery shown. Sisterhood reports Tsurugi/Hasumi/Sakurako critically hurt, Nagisa sought, a full Rescue Knights room and local Justice–Sister clashes. Pater prepares war text, orders Hanako seized, claims it detained Filius/Sanctus and conjectures Sisterhood–Arius collusion from claimed launch-site jurisdiction; no signed war or verified conspiracy. Mika is approached as freed, acknowledges personal Gehenna dislike but refuses to command war for militants, who turn hostile. A Justice member explicitly says Koharu may not yet return, yet she intervenes to defend Mika; `u:0110` is likely label-inverted. Sensei opens eyes and sits up, confirmed by Serina while Hanae warns against movement. This is real waking, not healed/discharged intervention; Seia's voice remains crosscut, not bodily return. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). E017 unopened.
 
 Routing: [V003 C003 E016 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E016_DEEP_READING.md) → `BA:main:003:003:016`, three scenes, 199 visible numbered units and one singleton Sensei choice. Coverage is **140 / 310**.
+
+## 112. V003 C003 E017 provisional coverage delta
+
+Koharu resists Pater militants' attack on Mika despite admitting she does not grasp the whole crisis. Sensei arrives after E016 waking, asks for nonviolence, and militants leave this local confrontation; broader war preparations remain unrevoked. Sensei praises Koharu as a Justice elite, a social judgment not formal reinstatement against E016's explicit restriction. Mika still dislikes Gehenna but cannot explain her current refusal to lead war. An unmarked apparent recollection shows a simple Arius outreach/tea proposal, Nagisa/Seia pressing feasibility and political gain, Mika considering anti-Gehenna power, an Arius/Squad exchange and inward shock at believed Seia death. Mika reconstructs the host/anti-treaty rationale for ordering Seia attacked but ends in doubt, apologizes and wants to see Seia/Nagisa; this neither proves Hanako's abduction theory nor reconciles the friends. Seia voices personal forgiveness and admits she never fully knew Mika, in a crosscut not proved heard by her or a legal pardon. Tea Party, Sisterhood and Justice representatives recognize Sensei, who inwardly accepts what comes next; no detailed plan or systemic outcome yet. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). E018 unopened.
+
+Routing: [V003 C003 E017 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E017_DEEP_READING.md) → `BA:main:003:003:017`, one scene, 110 numbered units and six singleton Sensei choices. Coverage is **141 / 310**.

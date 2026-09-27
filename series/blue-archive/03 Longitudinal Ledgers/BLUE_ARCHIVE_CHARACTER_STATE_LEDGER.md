@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–016; BA:main:003:003:017 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–017; BA:main:003:003:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E017 character-state delta — the motive account stays plural
+
+- **Koharu:** refuses to let Pater militants attack Mika despite calling herself stupid/uninformed, then receives Sensei's direct praise. This is protective agency without formal Justice reinstatement. `UNMODELED`.
+- **Sensei:** arrives at the prison confrontation after waking, asks militants to cease violence, praises Koharu, checks Mika and is recognized by Tea Party/Sisterhood/Justice voices. No medical clearance, broader plan or completed peace action. `PARTIAL_MODEL`.
+- **Mika:** retains Gehenna dislike but cannot explain her present refusal to command war. An apparent recollection shows a simple Arius outreach wish, later war/host rationalization and inward distress over believed Seia death. She apologizes to Seia and wants to see her/Nagisa, without delivered reconciliation or exoneration. `UNMODELED`.
+- **Seia:** revisits harsh judgment of Mika, infers a search for reasons behind dislike, admits she still knows too little, and says she forgives Mika/may need forgiveness herself. Crosscut speech is not proven heard by Mika or a legal pardon. `UNMODELED`.
+- **Nagisa/Hanako/Marie:** Nagisa speaks only in apparent recollection, not as located present survivor. Hanako/Marie react to Sensei's reappearance without new command outcome. All `UNMODELED`.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E016 character-state delta — survival, factional refusal and waking
 

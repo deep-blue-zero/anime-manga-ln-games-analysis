@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–016; BA:main:003:003:017 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–017; BA:main:003:003:018 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E016 active provisional; E017 unopened
+current_sequential_boundary: MAIN_V003_C003_E017 active provisional; E018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2045,3 +2045,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E017 unopened.
+
+## V003 C003 E017 claim delta — local adult intervention and incomplete inner truth
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei's physical presence stops one militant confrontation and publicly affirms Koharu's stand, but this does not restore her formal Justice post, establish medical clearance or settle factional crisis. Student initiative precedes the adult request.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Mika's apparent retrospective Arius friendship wish, later Gehenna-war rationalization, present dislike/refusal and apology complicate a single-motive model. Seia's personal forgiveness and admitted ignorance do not confirm Hanako's abduction hypothesis, deliver reconciliation or cancel responsibility. Nagisa in the apparent recollection is not located in the present.
+- **BA-C008 — STRENGTHEN:** an unmarked retrospective sequence, Mika's inward thought, Seia's crosscut interpretation, direct Koharu stand, Sensei's local intervention and wider reappearance are not interchangeable evidence. The militants' local departure is not a global stand-down.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E018 unopened.

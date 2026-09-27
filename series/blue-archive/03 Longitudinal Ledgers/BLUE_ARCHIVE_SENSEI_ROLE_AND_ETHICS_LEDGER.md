@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–016; BA:main:003:003:017 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–017; BA:main:003:003:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -929,3 +929,7 @@ In the dream-framed Seia exchange, Sensei asks whether her catastrophic “endin
 ## V003 C003 E016 delta — waking amid distributed care
 
 Sensei opens eyes and sits up, directly recognized by Serina, while Hanae warns not to move. This is observed waking after E012 unconsciousness, not full healing or permission to leave. Their earlier dream-frame resolve to help students becomes bodily possible but remains unexecuted; the singleton choice affirms students' right to remain students and the inward final line intends to face accumulated hate/distrust. Simultaneously Sena's staff rescues wounded, Hanako contests war and Koharu intervenes for Mika without Sensei directing them. Adult answerability coexists with student agency and medical constraints, not a sole-savior completion. Seia's crosscut speech does not prove her waking or direct contact. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E017 delta — first post-waking intervention
+
+Sensei physically arrives at the Pater/Mika confrontation and asks for violence to stop; militants hesitate and leave locally. This is an achieved, narrow adult de-escalation, not general peace. Koharu had already refused abuse, and Sensei praises her conduct while she remains formally barred from Justice return, preserving agency without making the teacher a registrar. Sensei checks Mika, hears her uncertainty and later is recognized by multiple institutional parties; the final inward “leave it to me” accepts future burden without specifying or completing a plan. The source does not show medical clearance after E016, travel details, reconciliation of Mika/Seia/Nagisa or resolution of Pater's war drive. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

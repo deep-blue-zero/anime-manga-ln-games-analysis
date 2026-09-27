@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–016; BA:main:003:003:017 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–017; BA:main:003:003:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1017,3 +1017,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **KOHARU ↔ MIKA/JUSTICE:** a Justice member says Koharu may not yet return formally but sends her toward prison; she intervenes against group assault on Mika. Moral choice is direct, official reinstatement absent.
 - **HANAKO ↔ PATER/SISTERHOOD:** Hanako challenges the faction's collusion theory and war procedure, and they order her seized; custody unshown. Marie learns Sakurako is gravely ill by report, no contact.
 - **SENSEI ↔ SERINA/HANAE/SEIA:** Serina/Hanae address awakened Sensei and Hanae opposes movement for medical reasons. Seia's questions accompany the crosscut, without proof of physical contact or waking recovery for her.
+
+## V003 C003 E017 relationship delta — indirect repair, direct protection
+
+- **KOHARU ↔ MIKA/SENSEI:** Koharu defends Mika despite uncertainty and receives Sensei's direct praise; Mika witnesses. No formal Justice reinstatement or durable Mika–Koharu alliance is established.
+- **SENSEI ↔ MIKA:** Sensei checks her wellbeing and listens while she struggles to explain her refusal, then inwardly promises help. No confession hearing, absolution or medical rest clearance.
+- **MIKA ↔ SEIA/NAGISA:** Mika apologizes to Seia and wants to meet both friends; Seia, in crosscut, admits she underestimated Mika and says she forgives her. This is not a delivered bilateral exchange or Nagisa's reconciliation.
+- **MIKA ↔ ARIUS/GEHENNA:** apparent recollection supplies an initial tea/friendship proposal for Arius, later possible anti-Gehenna instrumentalization and host rationale. Her present hatred remains but she declines militants' proxy command; neither feeling nor faction loyalty is settled.
+- **SENSEI ↔ TRINITY PARTIES:** Tea Party/Sisterhood/Justice voices recognize Sensei's reappearance, while Hanako/Marie/Koharu respond; their willingness to rely on Sensei is not a completed joint plan.

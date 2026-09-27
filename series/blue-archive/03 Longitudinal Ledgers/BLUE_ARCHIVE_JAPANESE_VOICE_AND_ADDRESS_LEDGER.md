@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–016; BA:main:003:003:017 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–017; BA:main:003:003:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1420,3 +1420,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Gehenna/Sisterhood members' `とのこと` and `情報によると` mark rescue and leader-health reports; Hina's later empty infirmary bed is a separate observed change, not a recovered-health certificate.
 - Pater `アリウスとシスターフッドが…線は？` is a conspiratorial question, whereas `既に身柄を拘束` is its own detention claim. Mika's `私はゲヘナが嫌い` alongside `今の私は…そういう気分じゃない` distinguishes retained personal dislike from refusal to supply a collective war order.
 - Scene 3 `u:0065-0071` command/answer labels around return to the cathedral are suspect. `u:0110` Koharu-tagged “who are you?” follows her own interruption and likely belongs to another speaker; quarantine exact voice. Sensei `目を開ける`/`身体を起こす` is inward but corroborated by Serina's direct `目が覚めた`. One singleton Sensei choice; `u:0124` is E017 title only.
+
+## V003 C003 E017 delta — unmarked recollection and a voice of forgiveness
+
+- Koharu `私はバカだから…分からない` concedes limited knowledge, not ethical incapacity; `これは違う` is a firm anti-abuse judgment. Sensei `心の声` at `u:0011` seems answered by Koharu, another inward/direct-response anomaly, but arrival is supported by everyone's reactions and the choice exchange.
+- Six `先生（選択肢）` groups are singleton. Choice 002's `正義実現委員会のエリート` is praise, not an administrative status declaration against E016's direct restriction.
+- `u:0036-0074` moves into apparent earlier Tea Party/Arius speech without a scene header; `セイアちゃんはここにいる`/`病院にでも` and Mika's inward believed-death reaction are not present-day body evidence. The exact flashback cut and speaker audience remain unmarked.
+- Mika `嫌いなものは嫌い` in E016 and `今でも嫌い` here coexist with `よく分かんない` about refusing a war order. Her `そうだった、はずなのに` marks doubt about her own rationalization rather than total motive certainty.
+- Seia `私は君のことを、分かったつもり` and `まだ…知らない` bracket her `君を許そう` as personal, tentative moral repair. The crosscut does not prove Mika hears it. Sensei `ここから先は、私に任せて` is inward future assumption of burden, not completed institutional order; `u:0110` is E018 title only.
