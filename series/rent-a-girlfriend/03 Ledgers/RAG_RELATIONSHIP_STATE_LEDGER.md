@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.33"
+version: "1.34"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; inspected and closed through V033."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; inspected and closed through V034."
 ---
 
 # Directed relationship state ledger
@@ -224,3 +224,6 @@ state: CURRENT_THROUGH_V033
 | RAG-REL-180 | Umi → Chizuru | Acting friend and direct suitor | Visits Sayuri's altar, says he likes Chizuru, and postpones hearing her answer after an earlier confession. | Romantic interest is explicit; the prior V032 cafe companion is identified. | Bereavement respect and confession do not imply Chizuru's acceptance; RAG-E-V033-005 through RAG-E-V033-008. |
 | RAG-REL-181 | Chizuru → Umi | Recipient of renewed direct proposal | Begins to respond and apologizes before Umi says he does not want to hear an answer yet. | Her reply remains incomplete because he postpones hearing it. | Her intended answer is unshown; his delay is not her assent, rejection, or stated boundary; RAG-E-V033-008. |
 | RAG-REL-182 | Chizuru ↔ Kazuya | Temporary housemates with a newly proposed date | Chizuru invites him out, explicitly calls it a date, says she wants to go together, and begins discussing a destination. | Chosen unpriced access moves from incidental errands to a named prospective date. | The date has not occurred and the pair have not agreed they are boyfriend and girlfriend; RAG-E-V033-010 through RAG-E-V033-012. |
+| RAG-REL-183 | Chizuru ↔ Kazuya | Temporary housemates with a date proposal redirected by an older obligation | Chizuru joins his nursery visit, sees his care, helps a child, and says she enjoyed the day. | Voluntary two-person time reaches a family/work context. | The aquarium date, inquiry verdict, and mutual partnership remain unshown; RAG-E-V034-001 through RAG-E-V034-005. |
+| RAG-REL-184 | Harumi ↔ Kazuya and Chizuru | Mother and nursery worker receiving her son's housemate | Harumi welcomes Chizuru and gives a specific positive account of Kazuya's conduct with children. | Chizuru hears family testimony in the same setting as observable behavior. | Maternal approval cannot certify Chizuru's feeling or the couple status; RAG-E-V034-002 through RAG-E-V034-005. |
+| RAG-REL-185 | Chizuru ↔ Kazuya ↔ Mini | Three temporary housemates navigating shared use | Soap and laundry incidents expose truth and privacy friction; Mini later organizes a shared television/game evening. | Ordinary living together continues with local boundary corrections. | Game cards and household familiarity do not confer sexual access or relationship status; RAG-E-V034-007 through RAG-E-V034-010. |

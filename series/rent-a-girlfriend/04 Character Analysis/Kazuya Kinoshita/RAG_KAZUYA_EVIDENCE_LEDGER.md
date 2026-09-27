@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.34"
+version: "1.35"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; character evidence inspected through V033."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; character evidence inspected through V034."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V033
+inspected_through_volume: V034
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -201,6 +201,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E161 | KAZ-S035 | RAG-E-V033-001 through RAG-E-V033-004 | Dream, game, and consent anxiety | Wakes from a fantasy confession, worries over the May 13 clock, accepts Mini's Twister game, and struggles not to overread physical contact. | Can remain within a game despite strong desire and uncertainty. | Dream and poses are not Chizuru's answer or sexual permission; RAG-KAZ-R002, RAG-KAZ-R005, RAG-KAZ-R024. |
 | RAG-KAZ-E162 | KAZ-S035 | RAG-E-V033-005 through RAG-E-V033-009 | Overheard rival confession | Hears Umi say he likes Chizuru and then postpone hearing her interrupted reply; spirals over comparative worth. | A real rival speech intensifies an established anxious forecast pattern. | His fear does not report her intended answer; hidden listening is not direct disclosure; RAG-KAZ-R002, RAG-KAZ-R003, RAG-KAZ-R024. |
 | RAG-KAZ-E163 | KAZ-S035 | RAG-E-V033-010 through RAG-E-V033-012 | Receiving a chosen date proposal | Almost raises the overheard exchange, accepts Chizuru's invitation, searches for a destination, and takes a family call about a prior commitment. | Can act on her explicit initiative while practical obligations re-enter the plan. | The date has not occurred and his enthusiasm does not make them an agreed couple; RAG-KAZ-R005, RAG-KAZ-R024. |
+| RAG-KAZ-E164 | KAZ-S036 | RAG-E-V034-001 through RAG-E-V034-005 | Kept childcare promise and ordinary competence | Helps at Harumi's nursery, knows the children, plays and teaches kendama, and receives his mother's specific praise while Chizuru observes. | Extends competence beyond crisis-driven protection into repeated child care. | One witnessed day and a mother's testimony do not establish future fatherhood or Chizuru's romantic verdict; RAG-KAZ-R005, RAG-KAZ-R024. |
+| RAG-KAZ-E165 | KAZ-S036 | RAG-E-V034-006, RAG-E-V034-007 | Domestic idealization and minor lie | Imagines married life during breakfast and falsely claims to use shared body soap before admitting the fact under Chizuru's questioning. | His wish for favorable appraisal can still generate avoidant falsehood over a trivial matter. | The correction is reactive and the imagined marriage is not shared speech; RAG-KAZ-R002, RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E166 | KAZ-S036 | RAG-E-V034-008 | Accidental privacy breach and partial disclosure | Opens the communal washer, sees intimate garments, panics, tries to explain, and is interrupted by Mini's own laundry admission. | A concrete privacy problem exposes his shame and imperfect attempt at candor. | The encounter is not shown as intentional searching, and his relief does not prove full disclosure; RAG-KAZ-R003, RAG-KAZ-R005. |
+| RAG-KAZ-E167 | KAZ-S036 | RAG-E-V034-009, RAG-E-V034-010 | Shared game and self-scoring | Joins Mini's `ito` game, draws 56, and privately treats the number as an analogue of his modest self-worth. | Repeats anxious quantification despite Chizuru's stated need for honesty. | A randomized card does not measure his value or her opinion; RAG-KAZ-R002, RAG-KAZ-R024. |
 
 ## State-change summary
 
@@ -238,6 +242,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **KAZ-S032 — anxious housemate under explicit limits and new concealment:** takes a key and separate room, overreads ordinary proximity, hides residence from Ruka and Nagomi, apologizes to Mami, and receives Sumi's aid and counsel about Chizuru's no-present request without completing a birthday gesture.
 - **KAZ-S033 — birthday helper under an expiring household clock:** attends Chizuru's performance, accepts correction of his no-present inference, offers an accepted service coupon, and worries about the May 13 move without receiving her romantic answer.
 - **KAZ-S034 — practical housemate revising an idealized view:** helps clear possessions, respects a local storeroom limit, joins ordinary shopping and a night errand, and internally reaffirms affection without telling Chizuru in that scene or receiving her answer.
+- **KAZ-S035 — anxious listener receiving chosen date access:** contains himself during a game, hears Umi's confession from concealment, fears a rival verdict, then accepts Chizuru's explicit date proposal before remembering an older family promise.
+- **KAZ-S036 — capable caregiver with minor domestic avoidance:** keeps the nursery promise and is visibly at ease with children, then lies about body soap, fumbles an accidental laundry disclosure, and quantifies his worth through a game card.
 
 These are evidence configurations, not diagnoses or claims of wholesale personality change.
 

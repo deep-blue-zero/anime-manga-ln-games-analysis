@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V033; character evidence inspected through V033, with no material V021-V026 conduct."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V034; character evidence inspected through V034, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 八重森みに
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V033
+inspected_through_volume: V034
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -68,6 +68,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MIN-E028 | MIN-S010 | RAG-E-V032-004 through RAG-E-V032-008 | Shopping participant and quick interpreter | Notices post-storeroom awkwardness, joins the replacement trip, makes date-like and appearance comments, and helps compare goods. | Practical help and intrusive romantic labeling remain intertwined. | Her labels cannot decide the principals' status or authorize proximity; RAG-MIN-R001, RAG-MIN-R003, RAG-MIN-R006. |
 | RAG-MIN-E029 | MIN-S011 | RAG-E-V033-002 through RAG-E-V033-004 | Belated birthday and game staging | Says she turned twenty on April 8, proposes Twister as romantic rehearsal, runs the spinner, and asks for a group photograph. | Creates a pleasant memento while trying to engineer closeness. | Chizuru's participation and photo do not validate Mini's test theory; RAG-MIN-R001, RAG-MIN-R002, RAG-MIN-R006. |
 | RAG-MIN-E030 | MIN-S011 | RAG-E-V033-006 through RAG-E-V033-009 | Overhearing and rival interpretation | Hides with Kazuya, hears Umi's confession and his decision to postpone hearing Chizuru's answer, then urges Kazuya to act rather than concede. | Supplies encouragement after a real new information event. | She does not know Chizuru's intended answer and has not gained permission to share the overheard exchange; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E031 | MIN-S012 | RAG-E-V034-008 | Forgotten laundry and third-party interruption | Arrives at the washer after Kazuya's accidental discovery, says she too forgot laundry, and teases the embarrassed residents. | Her timing changes how an awkward privacy incident is handled. | The page does not establish a calculated setup or ownership of every garment; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E032 | MIN-S012 | RAG-E-V034-009, RAG-E-V034-010 | Television invitation and themed card-game staging | Invites the housemates to watch comedy and proposes `ito`, selecting a romantic-partner desirability prompt. | Again supplies a low-stakes group activity with potential diagnostic pressure. | Game participation and assigned numbers cannot certify anyone's romantic feeling; RAG-MIN-R001, RAG-MIN-R003, RAG-MIN-R006. |
 
 ## State-change summary
 
@@ -81,6 +83,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - MIN-S008 — active third resident and informal interpreter: moves into the family house, participates in facility coordination, and comments on Kazuya's anxious reading without acquiring authority over Chizuru's answer.
 - MIN-S009 — birthday organizer and intrusive progress witness: helps welcome Chizuru, presses Kazuya for milestones, enters Chizuru's bath, and receives a request for her view of Kazuya.
 - MIN-S010 — requested witness and practical shopping companion: answers Chizuru's question and helps with goods while still interpreting the principals through her romance theory.
+- MIN-S011 — birthday-game organizer and rival-interpreter: stages Twister as an intimacy rehearsal, secures a group photo, then overhears Umi's confession and encourages Kazuya without knowing Chizuru's intended reply.
+- MIN-S012 — household interrupter and game host: arrives during a laundry privacy mishap with her own forgotten clothes, then organizes television and an `ito` round whose romantic theme cannot decide the principals' feeling.
 
 ## Written-speech and ordinary-conduct notes
 

@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.33"
+version: "1.34"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; inspected and closed through V033."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; inspected and closed through V034."
 ---
 
 # Repetition and visual form ledger
@@ -226,3 +226,7 @@ state: CURRENT_THROUGH_V033
 | RAG-FRM-182 | Twister's mat and bent poses echo prior cramped proximity, then a three-person photograph closes the scene. | The form tests discomfort and turns it into a group memento. | Spoken adjustments and the game stop determine the contact's scope. | An eroticized pose or photograph cannot establish intimacy or a couple; RAG-E-V033-002 through RAG-E-V033-004. |
 | RAG-FRM-183 | The altar interior gives way to a long street sight line, a parked-car hiding place, and silent reaction faces during Umi's confession. | The reader and eavesdroppers gain a speech event Chizuru does not know they heard. | Direct words identify Umi's interest; faces do not identify her private feeling. | Do not transform overhearing into a shared conversation or read a response from silence; RAG-E-V033-006 through RAG-E-V033-009. |
 | RAG-FRM-184 | Chizuru's explicit date word is enlarged through Kazuya's panicked focalization, then ordinary destination and phone-call panels resume. | Formal excitement marks the invitation's significance while postponing its execution. | Her actual invitation is direct, and his internal certainty is separate. | The volume ends before the date, regardless of the visual climax; RAG-E-V033-010 through RAG-E-V033-012. |
+| RAG-FRM-185 | Crowded nursery play panels move into a quiet nap scene and Harumi's measured account. | Direct action, Chizuru's own child care, and third-party testimony cross-check an ordinary skill. | Spoken and shown acts are stronger than Kazuya's future-family fantasy. | A child's question and his maternal image do not forecast parenthood; RAG-E-V034-002 through RAG-E-V034-005. |
+| RAG-FRM-186 | Extreme faces and the enlarged soap bottle turn a minor supply discrepancy into a crisis in Kazuya's focalization. | His fear of evaluation is made visible against Chizuru's simple truth request. | The first answer and correction are both explicit speech acts. | Comic disproportion does not make the lie imaginary or a relationship verdict; RAG-E-V034-007. |
+| RAG-FRM-187 | Intimate laundry and Kazuya's clenched hand are magnified before Mini's arrival breaks the feared two-person confrontation. | The panel sequence dramatizes privacy uncertainty and defensive overinterpretation. | The washer event is accidental as presented; Chizuru's embarrassment is visible. | Neither a garment close-up nor Mini's tease proves consent or total ownership; RAG-E-V034-008. |
+| RAG-FRM-188 | `ito` card close-ups show 56 and 100 while Chizuru's face remains wordless at the final cut. | Numerical certainty is offered as a visual lure, then interpretive completion is withheld. | Rules make these assigned game values, not interpersonal grades. | The silent close-up cannot answer her investigation; RAG-E-V034-009, RAG-E-V034-010. |

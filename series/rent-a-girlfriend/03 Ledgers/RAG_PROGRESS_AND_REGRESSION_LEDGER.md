@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.33"
+version: "1.34"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; inspected and closed through V033."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; inspected and closed through V034."
 ---
 
 # Progress and regression ledger
@@ -226,3 +226,7 @@ state: CURRENT_THROUGH_V033
 | RAG-PRG-182 | Rival and information | EXPLICIT_PROPOSAL_WITH_INTERRUPTED_REPLY — Umi visits and renews his confession; Chizuru begins to respond, but he postpones hearing her answer. | Rival interest and Umi's chosen delay become explicit, with hidden listeners. | Chizuru's intended answer and the full prior cafe exchange remain omitted. | RAG-E-V033-005 through RAG-E-V033-009 |
 | RAG-PRG-183 | Investigation and access | CHOSEN_DATE_PROPOSAL — Chizuru directly invites Kazuya and names a date. | The inquiry gains a specific, unpriced two-person prospective setting. | No date outcome, final feeling classification, or truthful public status is established. | RAG-E-V033-010 through RAG-E-V033-012 |
 | RAG-PRG-184 | Household deadline | STATED_PRESSURE_WITH_UNCHANGED_TERM — Kazuya counts remaining residence time and fears the answer may not arrive before moving. | May 13 continues to shape his decisions. | V033 shows no amended residence term or completed exit. | RAG-E-V033-001, RAG-E-V033-009 |
+| RAG-PRG-185 | Investigation and chosen access | REVISED_OUTING_WITH_FAMILY_EVIDENCE — Chizuru accompanies Kazuya to Harumi's nursery, observes him, and says she enjoyed it. | Her inquiry receives direct ordinary-behavior evidence and family testimony. | No aquarium date or final classification is shown. | RAG-E-V034-001 through RAG-E-V034-005 |
+| RAG-PRG-186 | Household honesty | SMALL_LIE_CORRECTED_AFTER_CHALLENGE — Kazuya misstates his soap use, then acknowledges the lie when asked. | Chizuru articulates a truth norm for the ongoing investigation. | The initial lie remains a regression; no broad correction follows. | RAG-E-V034-007 |
+| RAG-PRG-187 | Privacy and routine | ACCIDENTAL_LAUNDRY_ACCESS — an open washer exposes intimate garments, Kazuya tries to disclose the incident, and Mini's arrival changes the scene. | Shared-house privacy receives a concrete stress test. | Embarrassment is not sexual permission or a final rupture. | RAG-E-V034-008 |
+| RAG-PRG-188 | Third-party staging | GAME_QUESTION_UNRESOLVED — Mini's `ito` rules and romantic theme yield number cards before a cut. | Another staged prompt reaches the principals. | A random card cannot stand in for Chizuru's spoken answer. | RAG-E-V034-009, RAG-E-V034-010 |

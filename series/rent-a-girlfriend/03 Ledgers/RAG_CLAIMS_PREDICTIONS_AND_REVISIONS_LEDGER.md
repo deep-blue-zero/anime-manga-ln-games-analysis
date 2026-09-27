@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.38"
+version: "1.39"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033 inspected and closed; V034 entering predictions frozen before narrative inspection."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034 inspected and closed; V035 entering predictions frozen before narrative inspection."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -654,6 +654,26 @@ These tests are written after V033 was closed and before inspecting any V034 nar
 | RAG-PRED-130 | Kazuya's family call and forgotten childcare commitment produce a direct conversation, scheduling conflict, attendance decision, or explanation to Chizuru. | RAG-E-V033-012 | V034 supplies no continuation or consequence of the call and commitment. |
 | RAG-PRED-131 | Umi's renewed confession and his decision not to hear Chizuru's answer yet produce a further question, information management, direct disclosure, changed contact, or stated boundary involving Chizuru, Kazuya, Mini, or Umi. | RAG-E-V033-006 through RAG-E-V033-009 | V034 gives no observable response or information consequence of the confession. |
 | RAG-PRED-132 | The May 13 residence endpoint and Kazuya's increased urgency produce a move preparation, deadline discussion, changed term, or explicit pressure in the next stage of their inquiry. | RAG-E-V033-001, RAG-E-V033-009 through RAG-E-V033-011 | V034 contains no practical or stated consequence of the approaching exit. |
+
+## Adjudicated predictions from the V033 boundary
+
+| Prediction ID | Adjudication | V034 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-129 | SUPPORTED, revised setting | Chizuru opts to accompany Kazuya to his promised nursery shift; they spend that outing together; RAG-E-V034-001 through RAG-E-V034-005. | The previously discussed aquarium date is not shown. |
+| RAG-PRED-130 | SUPPORTED | Kazuya explains and attends Harumi's nursery commitment, with Chizuru joining voluntarily; RAG-E-V034-001, RAG-E-V034-002. | Her attendance is not evidence of a formal family role. |
+| RAG-PRED-131 | DISCONFIRMED IN V034 | No Umi contact, disclosure of the eavesdropping, or explicit response to his postponed confession appears in main continuity. | Umi's unanswered proposal remains open. |
+| RAG-PRED-132 | DISCONFIRMED IN V034 | Ordinary cohabitation continues, but no further May 13 pressure, preparation, discussion, or changed residence term is shown. | The prior endpoint remains unresolved. |
+
+## Frozen predictions for V035
+
+These tests are written after V034 was closed and before inspecting any V035 narrative image. They use only the V034 boundary and carry no claim about V035's cover, contents, preview, or later events.
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-133 | The interrupted `ito` game produces a spoken analogy, group ordering, correction, refusal, or other observable interpretation of the romantic-partner theme. | RAG-E-V034-009, RAG-E-V034-010 | V035 provides no continuation or consequence of the unresolved game prompt. |
+| RAG-PRED-134 | Chizuru's explicit request for honesty during her investigation produces a later direct clarification, confession of an embarrassing fact, repeated concealment, or stated truth boundary. | RAG-E-V034-007, RAG-E-V034-008 | V035 shows no relevant honesty or concealment consequence. |
+| RAG-PRED-135 | The nursery day's positive observation produces another reference, question, chosen contact, changed appraisal, or stated limit involving Kazuya's family/childcare role. | RAG-E-V034-001 through RAG-E-V034-005 | V035 supplies no observable consequence of the nursery visit. |
+| RAG-PRED-136 | The continuing one-month household or previously proposed date produces a scheduling, privacy, move, outing, or explicit inquiry-status decision. | RAG-E-V033-011, RAG-E-V034-006 through RAG-E-V034-009 | V035 contains no practical or stated consequence for the residence or planned date. |
 
 ## Open evidence questions
 

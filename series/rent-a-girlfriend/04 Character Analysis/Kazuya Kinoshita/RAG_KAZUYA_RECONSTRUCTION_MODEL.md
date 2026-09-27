@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.34"
+version: "1.35"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V033."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V034."
 ---
 
 # Kazuya Kinoshita reconstruction model
@@ -60,13 +60,14 @@ model_basis:
     - RAG-JP-EPUB-V031
     - RAG-JP-EPUB-V032
     - RAG-JP-EPUB-V033
-  admitted_through_volume: V033
-  narrative_time_boundary: "after overhearing Umi's renewed confession, receiving Chizuru's date invitation, and a family scheduling call"
+    - RAG-JP-EPUB-V034
+  admitted_through_volume: V034
+  narrative_time_boundary: "after the nursery outing, minor household truth and privacy incidents, and an unresolved card game"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.34"
+  model_revision: "1.35"
   prior_knowledge_limitations:
-    - "No post-V033 narrative evidence is admitted."
+    - "No post-V034 narrative evidence is admitted."
     - "Kazuya knows Chizuru's stated reason for avoidance, her investigation commitment, and her mother's portrait, but not the inquiry result or final romantic classification."
 coverage:
   observed_contexts:
@@ -1999,7 +2000,7 @@ Use Japanese manga speech only. Under low control, expect fragments, repeated qu
 
 Supported with caution: a sudden family question; a peer insulting Chizuru; Mami challenging the rental system; Chizuru restating a known boundary; Ruka claiming priority; an opportunity for bounded friend repair; a shy provider needing a cooperative client; emotional support offered through a constrained communication style; a concrete film task requiring research or coordination.
 
-Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, mutual romantic classification, the exact pre-drop screen preparation, workable post-breakup boundaries with Ruka, durable cohabitation beyond the one-month arrangement, the proposed date's outcome, or any post-V033 knowledge.
+Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, mutual romantic classification, the exact pre-drop screen preparation, workable post-breakup boundaries with Ruka, durable cohabitation beyond the one-month arrangement, the proposed date's outcome, or any post-V034 knowledge.
 
 Abstain when the outcome depends on Chizuru's hidden feeling, Mami's hidden goal, or a later developmental state. Generated scenarios may test rule clarity but cannot validate the model as canon evidence.
 
@@ -2016,5 +2017,7 @@ V031 tests the birthday constraint in action. Kazuya watches the play, sees the 
 V032 tests whether ordinary proximity changes his interpretive pattern. He assists in family-house clearing, stays within Chizuru's local storeroom instruction, and attends to her budgeting and everyday preferences during three-person shopping. His large apparent love declaration in the shopping passage is private thought, not speech to her; earlier first-person remarks by Chizuru are replayed memory. He accepts a small task and her night invitation without invoking the coupon (RAG-E-V032-001 through RAG-E-V032-011). The model gains a concrete restraint and less idealized appraisal instance while preserving anxious overreading, the May 13 exit, and an unanswered inquiry.
 
 V033 tests whether an actual outside confession collapses that partial restraint. Kazuya hears Umi tell Chizuru he likes her and then stop her attempted response because he does not want to hear an answer yet. Kazuya interprets the event through jealousy and inferiority. Mini's encouragement helps him consider direct action, but Chizuru preempts it with her own date invitation. He accepts and begins planning while a forgotten family commitment re-enters the schedule (RAG-E-V033-005 through RAG-E-V033-012). The model predicts anxious amplification of incomplete facts and strong response to explicit chosen access; it must not convert his overheard information into Chizuru's disclosed feeling or treat the proposed date as completed.
+
+V034 adds a discriminating ordinary-competence case: Kazuya keeps his nursery commitment and behaves naturally and skillfully with children under Chizuru's direct observation and Harumi's independent appraisal (RAG-E-V034-001 through RAG-E-V034-005). This narrows the previous gap in noncrisis care, without granting general parenting competence. The later soap scene also shows that favorable-appraisal pressure can trigger even a trivial lie; Chizuru must press before he corrects it. His accidental laundry discovery produces an imperfect attempt at disclosure, and the `ito` card 56 activates self-deprecating scoring (RAG-E-V034-006 through RAG-E-V034-010). The rule is conditional competence alongside persistent shame-driven avoidance, not a uniform virtue or a fixed inability to tell the truth. The game remains unresolved and gives no access to Chizuru's answer.
 
 The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within named family-pressure, support, embarrassment, repair, and consent-boundary domains. It assigns no global capability grade and no whole-person validation.

@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V013-V033, with no material V021-V026 conduct."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V013-V034, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori reconstruction model
@@ -48,13 +48,14 @@ model_basis:
     - RAG-JP-EPUB-V031
     - RAG-JP-EPUB-V032
     - RAG-JP-EPUB-V033
-  admitted_through_volume: V033
-  narrative_time_boundary: "after Twister birthday play and secretly overhearing Umi's renewed confession with Kazuya"
+    - RAG-JP-EPUB-V034
+  admitted_through_volume: V034
+  narrative_time_boundary: "after a laundry interruption and a newly proposed three-person card game"
   basis_checkpoint: RAG_CP_V020
   basis_commit: 940f1b3050e41ff0fac8a79fcdbb8260b0f0ca06
-  model_revision: "1.7"
+  model_revision: "1.8"
   prior_knowledge_limitations:
-    - "No post-V033 narrative evidence is admitted."
+    - "No post-V034 narrative evidence is admitted."
     - "Mini does not witness the V028 paid-date conversation and learns only Kazuya's summary that investigation will follow."
     - "Her romantic readings are interested interpretations rather than privileged narrative truth."
 coverage:
@@ -514,7 +515,7 @@ Use Japanese manga written speech only. Mini tends toward explicit labels, enthu
 
 Supported with caution: a stalled measurable group project; a concealed collaboration she accidentally discovers; Kazuya and Chizuru separately giving her incomplete accounts; an opportunity to create private access; direct challenge to a logistical deception; a peer encounter in which her supporter identity is visible.
 
-Require extra assumptions: creator income and scale, family response, intimate preferences, conduct after a firm stop request, permission for the V027 relay, handling of a confidence whose disclosure would cause direct harm, Chizuru's final investigation method, or any post-V033 relationship result.
+Require extra assumptions: creator income and scale, family response, intimate preferences, conduct after a firm stop request, permission for the V027 relay, handling of a confidence whose disclosure would cause direct harm, Chizuru's final investigation method, or any post-V034 relationship result.
 
 Abstain whenever the outcome requires treating Mini's romantic theory as fact, granting permission she was not given, or converting a useful campaign intervention into general moral or professional reliability. Generated scenarios cannot become canon evidence.
 
@@ -531,3 +532,5 @@ V031 separates successful birthday organization from intrusive romantic engineer
 V032 supplies a directly requested testimony instance: Mini answers Chizuru's question about Kazuya and later tells him of it. She also joins the practical replacement trip, helps compare goods, and supplies date-like interpretations alongside intrusive comments (RAG-E-V032-001, RAG-E-V032-004 through RAG-E-V032-008). The model can anticipate active logistical help and rapid labeling, but cannot treat her romance diagnosis as validated by Chizuru's continued inquiry. Readiness remains PARTIAL_MODEL.
 
 V033 gives another mixed test. Mini turns her belated birthday into a Twister game framed as romantic rehearsal and secures a three-person photo; after secretly hearing Umi's confession, she urges Kazuya to act rather than assume defeat (RAG-E-V033-002 through RAG-E-V033-004, RAG-E-V033-006 through RAG-E-V033-009). Her intervention pattern and capacity to comfort recur, but neither the game nor her rival analysis certifies Chizuru's feeling. Readiness remains PARTIAL_MODEL, with confidentiality and restraint under a firm stop still underobserved.
+
+V034 repeats Mini's habit of making shared-house moments into socially charged tests. She arrives during an awkward laundry discovery with her own forgotten clothes and teases the principals; later she organizes a television evening and `ito` with a romantic-partner prompt (RAG-E-V034-008 through RAG-E-V034-010). These actions show initiative and familiarity with group play, not a proven plan behind the laundry timing or reliable insight into Chizuru's answer. Readiness remains PARTIAL_MODEL; the unresolved game and lack of a firm stop request cannot validate her interpretive authority or restraint.

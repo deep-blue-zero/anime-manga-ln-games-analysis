@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.33"
+version: "1.34"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; inspected and closed through V033."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; inspected and closed through V034."
 ---
 
 # Transaction and intimacy ledger
@@ -210,3 +210,7 @@ state: CURRENT_THROUGH_V033
 | RAG-TXN-166 | Umi's family-altar access | Chizuru lets an acting friend and suitor offer incense for Sayuri. | She controls entry and may see him off; he may express grief and ask to speak. | House access and bereavement respect do not purchase a romantic answer. | The altar visit is real, followed by a separate confession outside; RAG-E-V033-005 through RAG-E-V033-008. |
 | RAG-TXN-167 | Umi's renewed confession | Umi says he likes Chizuru and says an immediate answer is not required. | Chizuru may answer or refuse; Umi chooses not to hear her answer after she starts to respond. | Prior closeness, friendship, and waiting create no claim to a favorable answer. | Her intended answer remains unspoken; RAG-E-V033-007, RAG-E-V033-008. |
 | RAG-TXN-168 | Chizuru's proposed date with Kazuya | She asks for chosen, unpriced two-person time and explicitly calls it a date. | Both may plan, adjust for existing commitments, or later decline; no rental booking or coupon redemption is shown. | The invitation does not erase Ruka, the family lie, or Chizuru's right to decide her feeling. | They start choosing a place before an unrelated family call interrupts; RAG-E-V033-010 through RAG-E-V033-012. |
+| RAG-TXN-169 | The revised nursery outing | Chizuru voluntarily accompanies Kazuya while he keeps a family volunteer promise. | She may watch and participate; Harumi may welcome her; no fee or rental booking appears. | Attendance does not obligate an answer, family role, or future childcare. | Both perform care, and she says she enjoyed it; RAG-E-V034-001 through RAG-E-V034-005. |
+| RAG-TXN-170 | Shared body soap | A common household supply raises a question about use and replenishment. | Chizuru may ask; Kazuya may clarify his actual use. | Material sharing is no basis for deception or romantic scoring. | His initial false answer is corrected under her direct truth request; RAG-E-V034-007. |
+| RAG-TXN-171 | Shared washer and private clothing | The washer is communal; intimate garments remain inside when Kazuya opens it. | Accidental encounter should be disclosed and items left to their owners. | Communal machine access grants no right to inspect personal clothing. | He panics and tries to tell Chizuru; Mini arrives with her own forgotten laundry; RAG-E-V034-008. |
+| RAG-TXN-172 | Mini's television invitation and `ito` game | The housemates agree to a shared entertainment activity and a themed card game. | Each may join, stop, and choose how to describe a private number under rules. | The game cannot force a truthful confession or romantic verdict. | A desirability theme and cards appear, but explanations remain incomplete; RAG-E-V034-009, RAG-E-V034-010. |

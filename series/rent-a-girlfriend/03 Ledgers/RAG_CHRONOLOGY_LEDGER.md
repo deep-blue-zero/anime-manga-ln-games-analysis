@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.33"
+version: "1.34"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; inspected and closed through V033."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; inspected and closed through V034."
 ---
 
 # Chronology ledger
@@ -192,3 +192,6 @@ state: CURRENT_THROUGH_V033
 | RAG-CHR-148 | RAG-E-V033-005 through RAG-E-V033-008 | Umi arrives at Sayuri's house, offers incense, then speaks with Chizuru outside and renews his confession; she begins to respond and apologizes before he says he does not want to hear her answer yet. | The house visit and street conversation are continuous. | The full prior cafe talk, her intended answer, and exact elapsed interval are omitted. |
 | RAG-CHR-149 | RAG-E-V033-009 through RAG-E-V033-011 | After Umi leaves, Kazuya and Mini process what they overheard; later Chizuru borrows a book and asks Kazuya on a date. | His shock precedes her direct invitation. | Neither event reveals her final inquiry result. |
 | RAG-CHR-150 | RAG-E-V033-011, RAG-E-V033-012 | The pair begin discussing their proposed date before a family call recalls Kazuya's prior childcare commitment. | Destination talk precedes the interruption and volume cut. | The date and volunteer commitment have not yet been shown occurring. |
+| RAG-CHR-151 | RAG-E-V034-001 through RAG-E-V034-005 | The childcare commitment redirects the proposed date to Harumi's nursery; Chizuru volunteers to join, watches Kazuya work, comforts a child, and hears Harumi's appraisal. | This is the next shared outing after the family call. | The exact date and a later aquarium outing are not established. |
+| RAG-CHR-152 | RAG-E-V034-006 through RAG-E-V034-008 | Later household breakfast, a rainy-evening soap conversation, and a separate laundry accident occur during continuing cohabitation. | The presented scenes progress from routine to two privacy/truth incidents. | Their exact dates and intervals are unstated. |
+| RAG-CHR-153 | RAG-E-V034-009, RAG-E-V034-010 | Mini proposes a shared television evening and then a game of `ito`; the romantic-partner theme and number cards appear before the chapter cut. | Game rules precede the visible cards and Chizuru's silent reaction. | The ordering result and her stated interpretation are deferred. |

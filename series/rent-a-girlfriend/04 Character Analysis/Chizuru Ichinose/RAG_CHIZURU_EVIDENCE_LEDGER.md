@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.34"
+version: "1.35"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; character evidence inspected through V033."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; character evidence inspected through V034."
 ---
 
 # Chizuru Ichinose evidence ledger
@@ -28,7 +28,7 @@ verified_aliases:
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V033
+inspected_through_volume: V034
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -197,6 +197,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-CHI-E155 | CHI-S035 | RAG-E-V033-002 through RAG-E-V033-004 | Group game and local boundary | Accepts Mini's belated-birthday Twister game, changes into shorts, names awkward closeness, ends play, and joins a photograph. | Can participate while actively regulating comfort and contact. | Mini's rehearsal theory and physical proximity do not establish her romantic verdict; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
 | RAG-CHI-E156 | CHI-S035 | RAG-E-V033-005 through RAG-E-V033-008 | Umi's visit and interrupted response | Recognizes Umi, admits a missed reply, permits incense at Sayuri's altar, begins to respond to his renewed confession, and apologizes before he says he does not want to hear her answer yet. | Allows bereavement access and attempts speech in a separate suitor's proposal. | Umi, not Chizuru, postpones hearing the answer; its content is unknown, and Kazuya's hidden listening is not shown known to her; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
 | RAG-CHI-E157 | CHI-S035 | RAG-E-V033-010 through RAG-E-V033-012 | Named date initiative | Asks Kazuya to go out, explicitly calls it a date, says she wants to go together, and begins planning while respecting his prior commitment. | Moves beyond incidental errands to a chosen two-person prospective setting. | Date is not enacted, and her final feeling, motive, and public status remain open; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E158 | CHI-S036 | RAG-E-V034-001 through RAG-E-V034-005 | Revised outing and real-name family access | Elects to accompany Kazuya to Harumi's nursery, introduces herself to the children by Ichinose name, watches his care, comforts an anxious child, and says she enjoyed the visit. | Extends her inquiry into ordinary family/work practice while displaying her own care. | Neither children's questions nor Kazuya's maternal fantasy defines her future role or romantic answer; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E159 | CHI-S036 | RAG-E-V034-006, RAG-E-V034-007 | Shared routine and truth boundary | Prepares breakfast and later challenges Kazuya's false answer about body soap, saying honesty matters during her investigation. | Makes a practical norm of truthful ordinary interaction explicit. | She does not declare the inquiry complete or a romantic penalty; RAG-CHI-R002, RAG-CHI-R016, RAG-CHI-R024. |
+| RAG-CHI-E160 | CHI-S036 | RAG-E-V034-008 | Washer privacy reaction | Encounters Kazuya holding an intimate garment after his accidental washer opening; she appears embarrassed as Mini arrives with her own forgotten laundry. | Shows a local bodily-privacy limit within continued cohabitation. | Do not infer permission, final rupture, or ownership of every garment solely from Kazuya's guess; RAG-CHI-R002, RAG-CHI-R016. |
+| RAG-CHI-E161 | CHI-S036 | RAG-E-V034-009, RAG-E-V034-010 | Chosen game participation and silent card reaction | Agrees to a television/game evening, says two-person company would also be acceptable while Mini is away, and holds a 100 card under a romantic-partner theme before the cut. | Accepts a bounded social setting while the narrative withholds her interpretation. | The game number and facial reaction are not a spoken evaluation of Kazuya; RAG-CHI-R016, RAG-CHI-R024. |
 
 ## State-change summary
 
@@ -234,6 +238,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - **CHI-S032 — temporary host governing ordinary observation:** implements a separate room, key, facility and expense terms for a three-person month, continues ordinary interaction and inherited household care, and specifies a no-present birthday limit without giving an investigation answer.
 - **CHI-S033 — birthday recipient and explicit investigator:** accepts plural care, clarifies the gift request, tells Sumi her feeling is unclassified, and asks Mini for testimony while resisting a simple progress metric.
 - **CHI-S034 — household decision maker in widening ordinary contact:** receives Mini's testimony, directs clearing and purchases, bounds accidental proximity, and initiates an unpriced night errand; her current feeling remains unclassified on page.
+- **CHI-S035 — local boundary setter and named-date initiator:** regulates a group game, receives Umi's confession without completing her interrupted reply, and asks Kazuya on a date of her own initiative.
+- **CHI-S036 — voluntary family observer and explicit truth requester:** joins the nursery shift, meets children under her personal name, comforts one child, voices enjoyment, and later makes ordinary honesty a stated condition of investigation while retaining household privacy limits.
 
 The transitions are primarily context, knowledge, relationship, and vocational changes. V001-V012 do not establish a disposition change or romantic self-recognition.
 

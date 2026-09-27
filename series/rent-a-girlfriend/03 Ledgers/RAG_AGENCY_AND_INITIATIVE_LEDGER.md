@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.33"
+version: "1.34"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; inspected and closed through V033."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; inspected and closed through V034."
 ---
 
 # Agency and initiative ledger
@@ -255,3 +255,7 @@ state: CURRENT_THROUGH_V033
 | RAG-AGY-211 | Umi | Keep romantic interest implicit or speak directly. | Visits Sayuri's altar and renews his confession outside; when Chizuru begins to respond, he says he does not want to hear her answer yet. | Makes his proposal explicit and chooses to postpone hearing a potentially unfavorable answer. | His choice does not establish her intended reply or authority over her decision; RAG-E-V033-006 through RAG-E-V033-008. |
 | RAG-AGY-212 | Chizuru | Respond to Umi and choose how to approach Kazuya. | Begins to respond to Umi and apologizes before he interrupts; later asks Kazuya on a date. | Initiates a distinct voluntary access route with Kazuya. | The date invitation does not retroactively answer Umi or settle her private classification; RAG-E-V033-008, RAG-E-V033-010, RAG-E-V033-011. |
 | RAG-AGY-213 | Kazuya | Confront Chizuru about overheard speech or manage his own uncertainty. | Panics, listens to Mini, does not disclose the overhearing, and accepts Chizuru's date proposal while beginning to plan. | His agency remains mixed: he can accept direct initiative but has not resolved the information asymmetry. | His inner certainty is not Chizuru's commitment; RAG-E-V033-009 through RAG-E-V033-012. |
+| RAG-AGY-214 | Chizuru | Treat Kazuya's forgotten promise as an obstacle or choose a revised shared outing. | Encourages him to keep the nursery commitment and voluntarily accompanies him. | Turns a scheduling conflict into firsthand family-domain observation. | Her private romantic classification remains unspoken; RAG-E-V034-001 through RAG-E-V034-005. |
+| RAG-AGY-215 | Kazuya and Chizuru | Act in a setting neither controls as a couple. | He capably plays with and attends to children; she perseveres with kendama and comforts an anxious child. | Care and competence become directly observable to each other. | Do not infer future parenthood or mutual status from the children’s questions; RAG-E-V034-002 through RAG-E-V034-005. |
+| RAG-AGY-216 | Chizuru and Kazuya | Conceal a minor household discrepancy or ask and answer plainly. | Chizuru asks about soap use; Kazuya initially lies, then admits it after she presses him. | She explicitly makes honesty part of the investigation's terms. | His correction is reactive, not evidence of consistent transparency; RAG-E-V034-007. |
+| RAG-AGY-217 | Mini | Let ordinary shared time occur or create a game with diagnostic overtones. | Invites the residents to watch television and then introduces `ito` with a romantic-partner theme. | Supplies a third-party frame while the principals choose to play. | Her selected theme cannot dictate Chizuru's answer; RAG-E-V034-009, RAG-E-V034-010. |

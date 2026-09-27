@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.33"
+version: "1.34"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V033; inspected and closed through V033."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V034; inspected and closed through V034."
 ---
 
 # Information and deception ledger
@@ -232,3 +232,7 @@ state: CURRENT_THROUGH_V033
 | RAG-INF-188 | Umi directly states that he likes Chizuru; she begins to respond and apologizes before he says he does not want to hear an answer yet; Kazuya and Mini overhear from concealment. | The speaker and recipient know the direct exchange, while the listeners receive it without disclosing their presence. | An explicit proposal and Umi's postponement enter the two housemates' information states. | Chizuru is not shown knowing they heard; neither listener learns her intended reply; RAG-E-V033-006 through RAG-E-V033-009. |
 | RAG-INF-189 | Mini interprets Umi's proposal as a threat and urges Kazuya to act while he replays earlier rival moments. | Their discussion occurs apart from Chizuru, who has not supplied them an answer about Umi or Kazuya. | A new fact is amplified by competing interpretation. | Mini's confidence and Kazuya's fear are not Chizuru's self-report; RAG-E-V033-009. |
 | RAG-INF-190 | Chizuru tells Kazuya she wants a date; he has not told her that he overheard Umi. | They share the prospective invitation and destination discussion but not the street-listening fact. | Direct access grows alongside a residual private information asymmetry. | An invitation is not a completed date or full truth correction; RAG-E-V033-010 through RAG-E-V033-012. |
+| RAG-INF-191 | Harumi's appraisal of Kazuya's childcare and Chizuru's direct nursery observation. | Chizuru sees his activity and hears his mother describe it; Kazuya does not deliver a self-advertising speech. | A third-party testimony can be checked against directly shown behavior. | Harumi is his mother and the day does not supply an inquiry verdict; RAG-E-V034-002 through RAG-E-V034-005. |
+| RAG-INF-192 | Kazuya gives a false answer about shared body soap before correcting it. | Chizuru notices the supply discrepancy and asks him directly; he fears a negative inference. | She states that lying is incompatible with her ongoing investigation even over a small fact. | The correction does not erase the first lie or reveal a final answer; RAG-E-V034-007. |
+| RAG-INF-193 | Kazuya encounters intimate laundry by accident and tries to report it; Mini supplies her own forgotten-laundry fact. | Each resident has partial knowledge of whose items were left in the shared machine. | A privacy mishap and disclosure are partly clarified through group presence. | Do not assign ownership of every garment from Kazuya's guess or infer deliberate voyeurism; RAG-E-V034-008. |
+| RAG-INF-194 | An `ito` game assigns hidden numbers and a romantic desirability topic. | Players know their own card; others must infer relative values from stated analogies. | The game creates a structured information gap at the volume boundary. | Kazuya's 56 and Chizuru's 100 are game cards, not reciprocal relationship scores; RAG-E-V034-009, RAG-E-V034-010. |
