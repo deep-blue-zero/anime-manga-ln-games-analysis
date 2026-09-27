@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.35"
+version: "1.36"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; inspected and closed through V035."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; inspected and closed through V036."
 ---
 
 # Progress and regression ledger
@@ -237,3 +237,11 @@ state: CURRENT_THROUGH_V033
 | RAG-PRG-190 | Kazuya's ordinary care | BOUNDED_PROGRESS | Cooks for Chizuru during her period and responds to a concrete sweet request after she grants room entry. | Care is real, while internet stereotypes and overinterpretation remain active; RAG-E-V035-005 through RAG-E-V035-008. |
 | RAG-PRG-191 | Family truth | PRESSURE_INCREASED | Nagomi repairs part of her professional prejudice but continues to imagine a wedding; Chizuru feels the unresolved deception and tells Kazuya of the booking. | Partial repair makes the remaining false couple status more salient, not corrected; RAG-E-V035-010 through RAG-E-V035-012. |
 | RAG-PRG-192 | Housing clock | UNCERTAIN_REVISION | Kazuya gives a tentative later move estimate when Chizuru asks. | May 13 should no longer be repeated as an unquestioned exact deadline; no new fixed date exists; RAG-E-V035-002. |
+
+## V036 close additions
+
+| RAG-PRG-193 | Sumi's witness position | LIMITED_DEVELOPMENT | Thinks privately about the V035 arcade sighting and the pair's proximity. | No new testimony or contact; RAG-E-V036-001. |
+| RAG-PRG-194 | Family truth | UNCORRECTED | Kazuya and Nagomi discuss the paid outing by phone while continuing to presume a relationship. | Booking fact travels, couple-status error remains; RAG-E-V036-002. |
+| RAG-PRG-195 | Housing clock | FIXED_FUTURE_DATE | A rental contract gives May 18 as Kazuya's move-in day. | Replaces V035 tentative estimate as a plan, not a completed exit; RAG-E-V036-006. |
+| RAG-PRG-196 | Chizuru's inquiry and private time | SCHEDULED_PROGRESS | Kazuya asks for an unpaid date; Chizuru offers May 17 and calendars it. | Mutual plan advances; investigation and outing are unfinished; RAG-E-V036-008 through RAG-E-V036-010. |
+| RAG-PRG-197 | Kazuya's gaze and conduct | MIXED | He voices a clear invitation but later sexualizes a routine kitchen incident while trying to help. | Neither private desire nor comic panic nullifies the agreed date or proves access; RAG-E-V036-008, RAG-E-V036-012. |

@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V013-V035, with no material V021-V026 conduct."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V013-V036, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori reconstruction model
@@ -50,13 +50,14 @@ model_basis:
     - RAG-JP-EPUB-V033
     - RAG-JP-EPUB-V034
     - RAG-JP-EPUB-V035
-  admitted_through_volume: V035
+    - RAG-JP-EPUB-V036
+  admitted_through_volume: V036
   narrative_time_boundary: "after a laundry interruption and a newly proposed three-person card game"
   basis_checkpoint: RAG_CP_V020
   basis_commit: 940f1b3050e41ff0fac8a79fcdbb8260b0f0ca06
   model_revision: "1.8"
   prior_knowledge_limitations:
-    - "No post-V035 narrative evidence is admitted."
+    - "No post-V036 narrative evidence is admitted."
     - "Mini does not witness the V028 paid-date conversation and learns only Kazuya's summary that investigation will follow."
     - "Her romantic readings are interested interpretations rather than privileged narrative truth."
 coverage:
@@ -539,3 +540,7 @@ V034 repeats Mini's habit of making shared-house moments into socially charged t
 ## V035 local validation
 
 V035 continues Mini's pattern of turning group and household moments into prompts for the principals. She reads Chizuru's game answer as a possible clue and teases Kazuya during and after the care episode, but Chizuru herself grants room access and defines her own needs (RAG-E-V035-001, RAG-E-V035-002, RAG-E-V035-006, RAG-E-V035-008). This supports initiative and imperfect calibration, not interpretive authority or a new readiness grade.
+
+## V036 local validation
+
+V036 extends Mini's task-generating support through her cosplay stall and celebration of the agreed date. She creates an occasion for the principals and urges planning, while Chizuru independently controls her appointment and date acceptance. Mini's later disclosure of a private mole illustrates poor boundary calibration; she is not an authority over Chizuru's body or romantic answer (RAG-E-V036-003 through RAG-E-V036-005, RAG-E-V036-011, RAG-E-V036-012).

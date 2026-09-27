@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.36"
+version: "1.37"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; character evidence inspected through V034."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; character evidence inspected through V034."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V035
+inspected_through_volume: V036
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -208,6 +208,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E168 | KAZ-S037 | RAG-E-V035-001 through RAG-E-V035-003 | Game interpretation and housing forecast | Interprets his 56 card through self-worth, listens to Chizuru distinguish a 100-point proposal from her own desire, and tentatively names the following month's 18th or 19th for moving. | His anxious comparison continues even after her spoken qualifier. | The number is random, her loved person's identity unstated, and the exit date tentative; RAG-KAZ-R002, RAG-KAZ-R024. |
 | RAG-KAZ-E169 | KAZ-S037 | RAG-E-V035-005 through RAG-E-V035-007 | Bounded physical care | Misidentifies Chizuru's discomfort at first, then buys supplies, cooks a meal, enters only when she permits it, and offers future help. | Practical care becomes possible without purchase or public performance. | Internet assumptions and indirect questioning still hamper calibration; room access and gratitude do not grant bodily or romantic access; RAG-KAZ-R003, RAG-KAZ-R005, RAG-KAZ-R024. |
 | RAG-KAZ-E170 | KAZ-S037 | RAG-E-V035-008, RAG-E-V035-012 | Care acknowledgment and received family fact | Tells Chizuru he wanted to help and later hears that Nagomi rented her. | Receives a new fact bearing on the shared family deception. | No correction to Nagomi or completed relationship discussion is shown; RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E171 | KAZ-S038 | RAG-E-V036-002 | Family call and partial knowledge | Speaks with Nagomi about her rental outing after Chizuru told him. | Receives and reacts to a family consequence he did not arrange. | No status correction follows; RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E172 | KAZ-S038 | RAG-E-V036-003 through RAG-E-V036-005 | Cosplay labor and direct praise | Helps Mini's booth, carries stock, then tells Chizuru she looked cutest to him there after she asks. | Moves from private admiration to a bounded direct evaluation. | Event comparison is not universal ranking or dating status; RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E173 | KAZ-S038 | RAG-E-V036-006 through RAG-E-V036-011 | Fixed move and unpaid invitation | Sees May 18 lease date, rehearses and finally asks Chizuru aloud for a non-rental date; accepts her May 17 proposal and tells Mini. | Executes a direct request before leaving the house. | Her consent is to the future date, not a completed inquiry or guaranteed result; RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E174 | KAZ-S038 | RAG-E-V036-012 | Kitchen gaze and embarrassment | Tries to help pick up spilled beans while sexualizing Chizuru's clothes and body in his interior narration. | Practical assistance remains mixed with anxious objectification. | Private desire does not grant observation rights or alter her stated boundaries; RAG-KAZ-R003, RAG-KAZ-R005. |
 
 ## State-change summary
 

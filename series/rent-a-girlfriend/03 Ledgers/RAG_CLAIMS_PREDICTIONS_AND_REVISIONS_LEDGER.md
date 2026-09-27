@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.40"
+version: "1.41"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035 inspected and closed; V036 entering predictions frozen before narrative inspection."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036 inspected and closed; V037 entering predictions frozen before narrative inspection."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -720,3 +720,23 @@ These tests were written after V035 was closed and before inspecting any V036 na
 | RAG-PRED-138 | Nagomi's apology and still-present bridal expectation produce a further reflection, response, correction attempt, or contact involving Chizuru or the Kinoshita family. | RAG-E-V035-011, RAG-E-V035-012 | V036 supplies no observable consequence of Nagomi's revised but incomplete understanding. |
 | RAG-PRED-139 | Sumi's silent arcade sighting produces a direct meeting, message, question, decision to withhold, or observable consequence for her information state. | RAG-E-V035-011 | V036 leaves Sumi's sighting without an observable consequence. |
 | RAG-PRED-140 | The ongoing inquiry and tentative later move estimate produce a practical date, residence, work, or relationship-status question, choice, or stated boundary. | RAG-E-V035-002, RAG-E-V035-004, RAG-E-V035-008, RAG-E-V035-009 | V036 contains no observable consequence for the inquiry, work, or housing horizon. |
+
+## Adjudicated predictions from the V035 boundary
+
+| Prediction ID | Adjudication | V036 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-137 | SUPPORTED, narrow | Nagomi and Kazuya discuss the outing by phone after Chizuru's disclosure, and he knows of the booking only after the fact; RAG-E-V036-001, RAG-E-V036-002. | No couple-status correction or comprehensive discussion occurs. |
+| RAG-PRED-138 | SUPPORTED, narrow | Their phone exchange is a further contact concerning the outing; RAG-E-V036-002. | Her professional apology and bridal hope are not substantively revisited. |
+| RAG-PRED-139 | SUPPORTED, limited | Sumi privately reflects on the sighting and what she knows of the pair; RAG-E-V036-001. | She makes no direct contact and learns no paid context. |
+| RAG-PRED-140 | SUPPORTED | A rental contract fixes May 18 and both principals agree to a May 17 unpaid date within the inquiry; RAG-E-V036-006 through RAG-E-V036-010. | Neither the move nor the date has happened; no verdict. |
+
+## Frozen predictions for V037
+
+These tests were written after V036 was closed and before inspecting any V037 narrative image. They use only the V036 boundary and carry no claim about V037's cover, contents, preview, or later events.
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-141 | Kazuya or Chizuru makes a concrete decision about the May 17 outing's venue, activity, timing, or conditions, beyond the agreed date. | RAG-E-V036-008 through RAG-E-V036-011 | V037 adds no observable planning or conduct for the agreed outing. |
+| RAG-PRED-142 | The May 18 housing deadline prompts packing, lease, logistics, a move-status conversation, or a changed plan. | RAG-E-V036-006, RAG-E-V036-009 | V037 leaves the documented move horizon without observable consequence. |
+| RAG-PRED-143 | Chizuru's still-open inquiry receives a direct question, boundary, self-reflection, or response related to the agreed private date. | RAG-E-V036-009, RAG-E-V036-010 | V037 does not connect the inquiry to the scheduled outing or her own agency. |
+| RAG-PRED-144 | The continuing family misconception, Sumi's concern, or Mini's role produces a direct contact, withholding decision, or pressure on the principals. | RAG-E-V036-001, RAG-E-V036-002, RAG-E-V036-011 | V037 shows no observable consequence for any of these third-party positions. |

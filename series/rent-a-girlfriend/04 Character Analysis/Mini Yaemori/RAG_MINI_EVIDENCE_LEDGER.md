@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V035; character evidence inspected through V034, with no material V021-V026 conduct."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V036; character evidence inspected through V034, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 八重森みに
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V035
+inspected_through_volume: V036
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -72,6 +72,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MIN-E032 | MIN-S012 | RAG-E-V034-009, RAG-E-V034-010 | Television invitation and themed card-game staging | Invites the housemates to watch comedy and proposes `ito`, selecting a romantic-partner desirability prompt. | Again supplies a low-stakes group activity with potential diagnostic pressure. | Game participation and assigned numbers cannot certify anyone's romantic feeling; RAG-MIN-R001, RAG-MIN-R003, RAG-MIN-R006. |
 | RAG-MIN-E033 | MIN-S013 | RAG-E-V035-001, RAG-E-V035-002 | Game interpretation and pressure | Participates in resolving the `ito` rankings and treats Chizuru's conditional example as a possible romantic clue. | Repeats her third-party interpretive role. | Chizuru expressly keeps the elaborate example separate from her personal requirement; Mini's reading is not Chizuru's answer; RAG-MIN-R001, RAG-MIN-R003. |
 | RAG-MIN-E034 | MIN-S013 | RAG-E-V035-006, RAG-E-V035-008 | Household intermediary | Learns of Chizuru's period, teases Kazuya's secrecy, and later comments on the pair's care episode. | Makes a private household moment socially legible while encouraging action. | She does not grant room access or know Chizuru's final romantic classification; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E035 | MIN-S014 | RAG-E-V036-003 through RAG-E-V036-005 | Cosplay sales and intermediary pressure | Recruits help for her goods stall, offers Chizuru a costume, and teases Kazuya and Chizuru after their compliment exchange. | Creates a shared public task and highlights their awkwardness. | Chizuru reschedules voluntarily and Mini cannot decide her feeling; RAG-MIN-R001, RAG-MIN-R003. |
+| RAG-MIN-E036 | MIN-S014 | RAG-E-V036-011, RAG-E-V036-012 | Date advice and bodily information | Celebrates the agreed date, urges high-effort planning, and later mentions a mole she saw on Chizuru's thigh. | Continues social coaching but also crosses into a private bodily topic. | Her optimism and observation are not Chizuru's consent or verdict; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
 
 ## State-change summary
 

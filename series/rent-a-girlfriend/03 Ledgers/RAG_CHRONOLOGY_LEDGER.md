@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.35"
+version: "1.36"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; inspected and closed through V035."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; inspected and closed through V036."
 ---
 
 # Chronology ledger
@@ -202,3 +202,11 @@ state: CURRENT_THROUGH_V033
 | RAG-CHR-155 | RAG-E-V035-003, RAG-E-V035-004 | On April 27 Chizuru asks Kibe for a private appraisal of Kazuya; Kibe asks about her feeling but receives no stated answer. | A dated external consultation follows the card game. | The precise duration of the cafe exchange is not material. |
 | RAG-CHR-156 | RAG-E-V035-005 through RAG-E-V035-008 | During a following two-day menstrual-pain episode, Kazuya buys supplies, cooks, enters by permission, and Chizuru asks for a childhood sweet before resting; they discuss it the next morning. | The care episode spans a night and morning. | Exact calendar date is not printed in the cited sequence. |
 | RAG-CHR-157 | RAG-E-V035-009 through RAG-E-V035-012 | Chizuru later performs rental work for Nagomi in Shinjuku; Sumi sees the pair at an arcade; Chizuru then tells Kazuya of the booking. | Paid outing, silent sighting, and household disclosure occur in that order. | No full relationship correction occurs before the V035 cut. |
+
+## V036 close additions
+
+| RAG-CHR-158 | RAG-E-V036-001, RAG-E-V036-002 | After the arcade outing Sumi thinks about her sighting and Kazuya and Nagomi discuss her rental booking by phone. | Follows the V035 cut without establishing a family correction. | Exact date of the call is not printed in the cited pages. |
+| RAG-CHR-159 | RAG-E-V036-003 through RAG-E-V036-005 | Mini's cosplay sales event includes Chizuru's voluntarily rescheduled appointment, booth assistance, photographs, and a post-event compliment exchange. | Event precedes the May 2 housing review. | Kazuya's ranking is event-specific. |
+| RAG-CHR-160 | RAG-E-V036-006 | On May 2 Kazuya reviews the rental contract with May 18 move-in. | Fixes the current exit plan after V035's tentative estimate. | A planned date is not an accomplished move. |
+| RAG-CHR-161 | RAG-E-V036-007 through RAG-E-V036-010 | After the lease review, Chizuru's late-night schedule talk leads to a verbal May 17 unpaid date agreement; she later enters it in her calendar. | May 17 is the day before planned move-in. | No actual outing has occurred. |
+| RAG-CHR-162 | RAG-E-V036-011, RAG-E-V036-012 | Kazuya tells Mini about the agreement; later a small red-bean kitchen mishap occurs during cohabitation. | The household episode follows the scheduled date. | Its exact calendar day is not established. |

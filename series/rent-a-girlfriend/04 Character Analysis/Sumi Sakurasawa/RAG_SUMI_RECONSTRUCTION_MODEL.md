@@ -4,13 +4,13 @@ artifact_id: RAG_SUMI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V005-V031, with long V019-V027 and V029 negative-evidence intervals."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V005-V036, with long V019-V027 and V029 negative-evidence intervals."
 ---
 
 # Sumi Sakurasawa reconstruction model
@@ -54,13 +54,14 @@ model_basis:
     - RAG-JP-EPUB-V029
     - RAG-JP-EPUB-V030
     - RAG-JP-EPUB-V031
-  admitted_through_volume: V031
+    - RAG-JP-EPUB-V036
+  admitted_through_volume: V036
   narrative_time_boundary: "after bringing a birthday cake and sweater to Chizuru, learning the active household, and hearing Chizuru's uncertainty directly"
   basis_checkpoint: RAG_CP_V020
   basis_commit: 940f1b3050e41ff0fac8a79fcdbb8260b0f0ca06
   model_revision: "1.2"
   prior_knowledge_limitations:
-    - "No post-V031 narrative evidence is admitted."
+    - "No post-V036 narrative evidence is admitted."
     - "Kazuya does not hear Sumi's V012 confession."
     - "No precise diagnosis for Sumi's severe communication difficulty is established."
     - "V013-V016 and V019-V020 contain no material observed Sumi conduct."
@@ -461,3 +462,7 @@ The model is admitted as `PARTIAL_MODEL`. Channel substitution, preparation, car
 V030 adds direct conduct after the gap: Sumi visits, treats Kazuya's cut, and listens to his specific birthday boundary concern (RAG-E-V030-008). The small care route recurs in a less formally prepared setting, but one instance does not validate broad spontaneous competence, a romantic outcome, or authority to override Chizuru's request. The local readiness remains PARTIAL_MODEL.
 
 V031 extends the prepared-care pattern from helping Kazuya to direct friendship with Chizuru. Sumi brings a separate cake and sweater, offers a hug, and listens while Chizuru explains Kazuya's importance and her inability to classify it as love (RAG-E-V031-002 through RAG-E-V031-006). She learns the actual household arrangement, but does not become an omniscient interpreter or answer-giver. Her capacity for low-pressure one-to-one support is better evidenced; independent goals and broad spontaneous conflict remain sparse, so readiness stays PARTIAL_MODEL.
+
+## V036 local validation
+
+V036 gives Sumi private reflection on the V035 sighting: she connects it to what Chizuru told her about uncertainty and to her knowledge of shared residence, while withholding contact and any claim of certainty. This is a limited information-state development, consistent with a quiet listening role rather than proof of romance or the rental booking context (RAG-E-V036-001).

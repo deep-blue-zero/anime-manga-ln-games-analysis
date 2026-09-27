@@ -4,13 +4,13 @@ artifact_id: RAG_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: corpus_map
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.59"
+version: "1.60"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga EPUB inventory V001-V047; V001-V035 inspected and closed; V036 admitted with its entering predictions frozen before narrative inspection."
+source_boundary: "Japanese manga EPUB inventory V001-V047; V001-V036 inspected and closed; V037 admitted with its entering predictions frozen before narrative inspection."
 ---
 
 # Rent-a-Girlfriend — current state and corpus map
@@ -23,7 +23,7 @@ This is the canonical first-read surface for the Git analytical corpus. Primary 
 project_initialization:
   status: canonical
   architecture_lifecycle: INITIAL
-  analytical_phase: V036_ENTERING_FREEZE_RECORDED
+  analytical_phase: V037_ENTERING_FREEZE_RECORDED
   source_reconnaissance_complete: true
   governing_method: "00 Frameworks and Methods/RAG_ANALYTICAL_METHOD.md"
   method_status: canonical
@@ -45,7 +45,7 @@ project_initialization:
   sequential_analysis_lock: OPEN
 ```
 
-The V021-V030 sequential run is closed at V030. The V030 checkpoint, local reconstruction audit, and character-home promotion audit remain the latest full recovery boundary. The owner's instruction authorizes sequential analysis through V040 and publication to the remote series branch after the block is complete. All 204 ordered spine images in each of V031-V035 have been directly inspected, and their readings and ledgers are synchronized. V036 is admitted with its entering freeze recorded in the claims/predictions ledger; no V036 narrative image has been inspected.
+The V021-V030 sequential run is closed at V030. The V030 checkpoint, local reconstruction audit, and character-home promotion audit remain the latest full recovery boundary. The owner's instruction authorizes sequential analysis through V040 and publication to the remote series branch after the block is complete. All 204 ordered spine images in each of V031-V036 have been directly inspected, and their readings and ledgers are synchronized. V037 is admitted with its entering freeze recorded in the claims/predictions ledger; no V037 narrative image has been inspected.
 
 ## Active sequential authorization
 
@@ -55,18 +55,18 @@ sequential_execution:
   unit_type: volume
   authorized_start: V001
   terminal_boundary: V040
-  committed_high_water_mark: V035
-  next_candidate_operation: INSPECT_AND_CLOSE_V036
+  committed_high_water_mark: V036
+  next_candidate_operation: INSPECT_AND_CLOSE_V037
   confirmation_between_units: false
-  run_state: active_V031_to_V040__V036_freeze_recorded
+  run_state: active_V031_to_V040__V037_freeze_recorded
 ```
 
-V001-V035 were admitted and inspected in order. V035 is closed. The V031-V040 run is authorized; each volume must be inspected and closed in order, with the V040 checkpoint and audits completed before remote publication.
+V001-V036 were admitted and inspected in order. V036 is closed. The V031-V040 run is authorized; each volume must be inspected and closed in order, with the V040 checkpoint and audits completed before remote publication.
 
 ## Source boundary
 
 - Available inventory: 47 Japanese collected-volume EPUB witnesses, numbered V001-V047 without gaps.
-- Active admitted boundary: V001-V036; V001-V035 inspected and closed, V036 authorized and frozen before inspection. V037-V040 are authorized as later sequential units but not yet narratively admitted.
+- Active admitted boundary: V001-V037; V001-V036 inspected and closed, V037 authorized and frozen before inspection. V038-V040 are authorized as later sequential units but not yet narratively admitted.
 - Primary continuity: main manga.
 - Excluded unless separately admitted: anime, spin-offs, alternate translations, interviews, reception, fan material, and future releases.
 - Exact hashes, package metadata, page-spine counts, anomaly notes, and inspection state live in [RAG_SOURCE_AND_SCOPE_MAP.md](00%20Frameworks%20and%20Methods/RAG_SOURCE_AND_SCOPE_MAP.md).
@@ -85,15 +85,15 @@ V001-V035 were admitted and inspected in order. V035 is closed. The V031-V040 ru
 | Responsibility | State |
 |---|---|
 | Foundation method, architecture, reconstruction specification | Canonical and adopted |
-| Source map and next inspection route | V001-V035 closed; V036 admitted for ordered inspection |
-| Longitudinal ledgers | Synchronized through V035; predictions through V035 adjudicated, V036 entering freeze recorded |
-| Character evidence ledgers | Thirteen homes are routed; Kazuya, Chizuru, Mini, Kibe, Nagomi, and Sumi updated at V035, other unaffected homes retain their last material boundary |
+| Source map and next inspection route | V001-V036 closed; V037 admitted for ordered inspection |
+| Longitudinal ledgers | Synchronized through V036; predictions through V036 adjudicated, V037 entering freeze recorded |
+| Character evidence ledgers | Thirteen homes are routed; Kazuya, Chizuru, Mini, Nagomi, and Sumi updated at V036, other unaffected homes retain their last material boundary |
 | Reconstruction models | Kazuya and Chizuru `OPERATIONAL_CANDIDATE`; Ruka, Mami, Mini, and Sumi `PARTIAL_MODEL`; all other cast rows remain `UNMODELED` |
-| Sequential deep readings | V001-V035 closed |
+| Sequential deep readings | V001-V036 closed |
 | Latest checkpoint | `02 Block Syntheses/RAG_CP_V030.md` complete for V021-V030, cumulative through V030 |
 | Reconstruction audit | `07 Audits and Handoffs/RAG_RECONSTRUCTION_AUDIT_V030.md` complete for six models at the frozen V030 closing commit |
 | Character-home promotion audit | `07 Audits and Handoffs/RAG_CHARACTER_ANALYSIS_PROMOTION_AUDIT_V030.md` complete for fourteen rows; thirteen evidence homes, six models, no new promotion or monograph |
-| Repository publication | Stable branch `series/rent-a-girlfriend`; V030 block published; V031-V035 work remains local until the completed V031-V040 block is ready for remote publication |
+| Repository publication | Stable branch `series/rent-a-girlfriend`; V030 block published; V031-V036 work remains local until the completed V031-V040 block is ready for remote publication |
 
 ## Execution profile
 
@@ -102,7 +102,7 @@ execution_profile:
   product_surface: Codex desktop
   tool_runtime_location: owner-controlled local runtime
   observation_date: "2026-09-27"
-  capability_scope: "Japanese image-based EPUB manga; V001-V035 direct page inspection"
+  capability_scope: "Japanese image-based EPUB manga; V001-V036 direct page inspection"
   source_transport: owner-authorized local evidence path
   filesystem_read: VERIFIED
   filesystem_write: VERIFIED
@@ -115,12 +115,12 @@ execution_profile:
 
 ## Next operation
 
-Inspect V036 in order against the frozen V035 boundary, then close its full reading and synchronized ledgers before opening V037. Continue volume by volume through V040, complete the block checkpoint and required audits, then publish the completed block to the remote series branch.
+Inspect V037 in order against the frozen V036 boundary, then close its full reading and synchronized ledgers before opening V038. Continue volume by volume through V040, complete the block checkpoint and required audits, then publish the completed block to the remote series branch.
 
 ## Current analytical routes
 
-- Latest closed reading: [RAG_V035_DEEP_READING.md](01%20Sequential%20Readings/Volumes%20031-040/RAG_V035_DEEP_READING.md)
-- Current claims and adjudicated predictions through V035: [RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md](03%20Ledgers/RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md)
+- Latest closed reading: [RAG_V036_DEEP_READING.md](01%20Sequential%20Readings/Volumes%20031-040/RAG_V036_DEEP_READING.md)
+- Current claims and adjudicated predictions through V036: [RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md](03%20Ledgers/RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md)
 - Latest checkpoint: [RAG_CP_V030.md](02%20Block%20Syntheses/RAG_CP_V030.md)
 - V030 local reconstruction audit: [RAG_RECONSTRUCTION_AUDIT_V030.md](07%20Audits%20and%20Handoffs/RAG_RECONSTRUCTION_AUDIT_V030.md)
 - V030 character-analysis promotion audit: [RAG_CHARACTER_ANALYSIS_PROMOTION_AUDIT_V030.md](07%20Audits%20and%20Handoffs/RAG_CHARACTER_ANALYSIS_PROMOTION_AUDIT_V030.md)
@@ -130,4 +130,4 @@ Inspect V036 in order against the frozen V035 boundary, then close its full read
 - Ruka evidence/model: [evidence ledger](04%20Character%20Analysis/Ruka%20Sarashina/RAG_RUKA_EVIDENCE_LEDGER.md), [reconstruction model](04%20Character%20Analysis/Ruka%20Sarashina/RAG_RUKA_RECONSTRUCTION_MODEL.md)
 - Partial models initially promoted at V020: [Mami](04%20Character%20Analysis/Mami%20Nanami/RAG_MAMI_RECONSTRUCTION_MODEL.md), [Mini](04%20Character%20Analysis/Mini%20Yaemori/RAG_MINI_RECONSTRUCTION_MODEL.md), and [Sumi](04%20Character%20Analysis/Sumi%20Sakurasawa/RAG_SUMI_RECONSTRUCTION_MODEL.md)
 - Evidence-only homes: [Nagomi](04%20Character%20Analysis/Nagomi%20Kinoshita/RAG_NAGOMI_EVIDENCE_LEDGER.md), [Sayuri](04%20Character%20Analysis/Sayuri%20Ichinose/RAG_SAYURI_EVIDENCE_LEDGER.md), [Katsuhito](04%20Character%20Analysis/Katsuhito%20Ichinose/RAG_KATSUHITO_EVIDENCE_LEDGER.md), [Harumi](04%20Character%20Analysis/Harumi%20Kinoshita/RAG_HARUMI_EVIDENCE_LEDGER.md), [Kibe](04%20Character%20Analysis/Kibe/RAG_KIBE_EVIDENCE_LEDGER.md), [Kuribayashi](04%20Character%20Analysis/Kuribayashi/RAG_KURIBAYASHI_EVIDENCE_LEDGER.md), and [Umi](04%20Character%20Analysis/Umi/RAG_UMI_EVIDENCE_LEDGER.md)
-- The V021-V030 sequence, checkpoint, and local audits are closed; V031-V035 are closed within the new run, and V036 is the only further unit presently admitted for narrative inspection.
+- The V021-V030 sequence, checkpoint, and local audits are closed; V031-V036 are closed within the new run, and V037 is the only further unit presently admitted for narrative inspection.

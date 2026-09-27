@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.35"
+version: "1.36"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; inspected and closed through V035."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; inspected and closed through V036."
 ---
 
 # Agency and initiative ledger
@@ -267,3 +267,11 @@ state: CURRENT_THROUGH_V033
 | RAG-AGY-220 | Chizuru and Kazuya | Hide pain or negotiate local care and privacy. | She tells him her period is difficult, grants room entry, accepts food and a requested sweet; he cooks and offers help. | Bodily vulnerability produces bounded, unpriced cooperation. | No general room access or relationship outcome follows; RAG-E-V035-005 through RAG-E-V035-008. |
 | RAG-AGY-221 | Nagomi | Retain a professional prejudice or revise it in direct speech. | Books Chizuru, spends an outing with her, apologizes for judging rental work, and voices a hoped-for bridal future. | Combines genuine repair with continuing family expectation. | She still lacks the corrected couple status; RAG-E-V035-010 through RAG-E-V035-012. |
 | RAG-AGY-222 | Chizuru | Let Nagomi's outing stay private or tell Kazuya. | Returns and directly says Nagomi rented her. | Begins sharing a consequential family/professional encounter. | The disclosure stops before the family truth or inquiry is resolved; RAG-E-V035-012. |
+
+## V036 close additions
+
+| RAG-AGY-223 | Sumi | Interpret a visual sighting or seek clarification. | Privately reflects on seeing Chizuru with Nagomi and her prior knowledge of the shared house. | Her information changes only through her own thought, not contact. | She does not learn the booking context; RAG-E-V036-001. |
+| RAG-AGY-224 | Nagomi and Kazuya | Discuss the rental outing or correct the dating premise. | They discuss the booking by phone; Kazuya objects to not being told, while Nagomi defends her wish to see Chizuru work. He was unaware until Chizuru told him. | Adds a direct family consequence but leaves their false status intact. | No corrective disclosure; RAG-E-V036-002. |
+| RAG-AGY-225 | Chizuru | Accept or refuse a public event role and its local visibility. | Reschedules her nail appointment herself, helps Mini sell in costume, consents to event photographs, and asks Kazuya for his own assessment. | Exercises local choice amid commercial/public display. | This is no unlimited bodily or romantic permission; RAG-E-V036-003 through RAG-E-V036-005. |
+| RAG-AGY-226 | Kazuya and Chizuru | Wait for the housing deadline or directly schedule private time. | He asks aloud for a non-rental date; she offers May 17 and enters it in her calendar. | Both exercise initiative toward a bounded inquiry occasion. | Date and verdict remain future; RAG-E-V036-006 through RAG-E-V036-010. |
+| RAG-AGY-227 | Kazuya | Attend to a kitchen mishap while controlling his gaze. | Helps with spilled beans while privately panicking over Chizuru's clothes and body. | Practical action and sexualized interiority coexist. | His desire grants no access; RAG-E-V036-012. |

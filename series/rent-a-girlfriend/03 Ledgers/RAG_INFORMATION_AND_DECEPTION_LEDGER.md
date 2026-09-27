@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.35"
+version: "1.36"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; inspected and closed through V035."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; inspected and closed through V036."
 ---
 
 # Information and deception ledger
@@ -245,3 +245,11 @@ state: CURRENT_THROUGH_V033
 | RAG-INF-198 | Nagomi books a rental outing and apologizes for professional prejudice while still speaking as if Chizuru will marry Kazuya. | Nagomi understands the occupation but not the residual false dating premise; Chizuru recognizes the remaining deception. | A partial truth can support sincere apology while leaving a pivotal false inference intact. | No correction occurs in the outing; RAG-E-V035-010 through RAG-E-V035-012. |
 | RAG-INF-199 | Sumi sees Chizuru and Nagomi together at an arcade, without shown conversation or knowledge of the booking. | Sumi gains a visual observation only. | Keeps a possible future witness distinct from an informed participant. | Do not assign identities, motive, or paid context to Sumi; RAG-E-V035-011. |
 | RAG-INF-200 | Chizuru tells Kazuya that Nagomi rented her after returning home. | Kazuya gains the booking fact. | Opens an opportunity for a more complete family discussion. | The volume cuts before his response or a correction; RAG-E-V035-012. |
+
+## V036 close additions
+
+| RAG-INF-201 | Sumi privately connects an arcade sighting to what she knows of the pair's cohabitation and Chizuru's uncertainty. | Only Sumi hears her thoughts; the pair receive no message from her. | Sighting has a cognitive consequence without contact. | Booking basis and Nagomi's words remain unknown to her; RAG-E-V036-001. |
+| RAG-INF-202 | Kazuya and Nagomi discuss her rental outing by phone; he objects to having been kept uninformed. | Kazuya had learned the booking only from Chizuru after it happened; Nagomi still lacks a correction of couple status. | A partial disclosure opens a conversation but not the core truth. | No new family agreement; RAG-E-V036-002. |
+| RAG-INF-203 | Chizuru hears Kazuya's event-specific judgment that she was cutest and answers conditionally that she is happy if it is true. | Both principals share the exchange; Mini observes and later teases. | First-person words outrank Kazuya's silent gaze and Mini's reading. | No love declaration; RAG-E-V036-005. |
+| RAG-INF-204 | Kazuya directly asks for a date outside rental; Chizuru proposes May 17 and enters `デート` in her private calendar. | Both know the spoken arrangement; the calendar independently confirms her intention for the reader. | The old paid-date frame is explicitly separated from a new shared plan. | The investigation and actual date remain open; RAG-E-V036-008 through RAG-E-V036-010. |
+| RAG-INF-205 | Mini tells Kazuya of a mole on Chizuru's inner thigh, then he struggles not to look during a kitchen chore. | Mini claims prior visual knowledge; Kazuya's direct knowledge and Chizuru's knowledge of the conversation differ. | Creates an information imbalance around bodily privacy. | It is not permission to inspect or broadcast her body; RAG-E-V036-012. |

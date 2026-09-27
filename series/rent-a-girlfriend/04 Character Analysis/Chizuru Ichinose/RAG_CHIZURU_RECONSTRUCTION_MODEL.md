@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.36"
+version: "1.37"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V035."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V036."
 ---
 
 # Chizuru Ichinose reconstruction model
@@ -62,13 +62,14 @@ model_basis:
     - RAG-JP-EPUB-V033
     - RAG-JP-EPUB-V034
     - RAG-JP-EPUB-V035
-  admitted_through_volume: V035
+    - RAG-JP-EPUB-V036
+  admitted_through_volume: V036
   narrative_time_boundary: "after the nursery outing, her household honesty request, and an unresolved card game"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
   model_revision: "1.35"
   prior_knowledge_limitations:
-    - "No post-V035 narrative evidence is admitted."
+    - "No post-V036 narrative evidence is admitted."
     - "Interiority is sparse; motives are modeled at minimum warranted strength."
     - "Chizuru has directly explained the silence and operationalized inquiry, but its result and any final mutual classification remain unavailable."
 coverage:
@@ -2010,3 +2011,7 @@ The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within 
 ## V035 local validation
 
 V035 extends the inquiry through Kibe's friendship testimony, but Chizuru does not answer his direct feeling question aloud. She grants Kazuya task-specific access during a difficult period, accepts care, and thanks him; later Nagomi's booking and apology expose the unresolved family lie. Her conditional statement about a simple proposal from someone she loves does not identify that person (RAG-E-V035-001 through RAG-E-V035-012). The model retains an open investigation and bounded access rather than a completed romantic verdict.
+
+## V036 local validation
+
+V036 shows locally chosen public help at Mini's booth, an explicit request for Kazuya's evaluation, and an independently proposed May 17 date after his non-rental invitation. Her private calendar entry corroborates deliberate scheduling and her statement that she needs a step toward an answer. None of these actions completes the investigation or licenses interpretation of her body during the later kitchen scene (RAG-E-V036-003 through RAG-E-V036-012).

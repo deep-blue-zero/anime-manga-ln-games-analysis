@@ -4,13 +4,13 @@ artifact_id: RAG_NAGOMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; character evidence inspected through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; character evidence inspected through V030."
 ---
 
 # Nagomi Kinoshita evidence ledger
@@ -69,6 +69,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-NAG-E029 | NAG-S014 | RAG-E-V035-010 | Rental booking and shared outing | Books Chizuru professionally, meets her at Shinjuku, and spends time shopping and at an arcade. | Chooses paid access to learn about Chizuru's work and spend time with her. | Booking does not convert the relationship or give Nagomi its full history; none; model withheld. |
 | RAG-NAG-E030 | NAG-S014 | RAG-E-V035-011 | Prejudice acknowledged and apology | Says she looked down on the rental profession after the exposure, describes Sayuri's hospital testimony, and apologizes to Chizuru. | Revises an expressed judgment through direct conversation and remembered testimony. | Apology does not establish corrected knowledge of the residual dating lie; none; model withheld. |
 | RAG-NAG-E031 | NAG-S014 | RAG-E-V035-012 | Bridal hope under incomplete facts | Says she hopes to see Chizuru as Kazuya's bride. | Her family expectation remains active even after professional respect improves. | This is Nagomi's hope, not Chizuru's assent or evidence that the couple is genuine; none; model withheld. |
+| RAG-NAG-E032 | NAG-S015 | RAG-E-V036-002 | Post-booking phone defense | Discusses the rental outing with Kazuya and says she wanted to see Chizuru at work and spend time with her. | Defends her own initiative after the fact. | She still has not heard the corrected couple status; none; model withheld. |
 
 ## State-change summary
 

@@ -4,13 +4,13 @@ artifact_id: RAG_SUMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V005-V035; direct conduct through V031 after a silent V028 appearance."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V005-V036; direct conduct through V031 after a silent V028 appearance."
 ---
 
 # Sumi Sakurasawa evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 桜沢墨
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V035
+inspected_through_volume: V036
 last_direct_conduct_volume: V031
 local_readiness: PARTIAL_MODEL
 ~~~
@@ -66,6 +66,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-SUM-E025 | SUM-S007 | RAG-E-V031-002, RAG-E-V031-003, RAG-E-V031-005, RAG-E-V031-006 | Birthday visit and gift | Brings a second cake, learns the house arrangement, joins the surprise, and gives Chizuru a bear sweater. | Prepared care reaches Chizuru directly in a friend setting. | Sumi does not own Chizuru's response to Kazuya; RAG-SUM-R002, RAG-SUM-R003, RAG-SUM-R006. |
 | RAG-SUM-E026 | SUM-S007 | RAG-E-V031-003, RAG-E-V031-004 | Private listening after bereavement | Hugs Chizuru, asks about the person who supported her, and listens as Chizuru distinguishes care from an unclassified love feeling. | Low-pressure inquiry and physical comfort provide a direct confidant route. | Sumi hears uncertainty, not a secret completed answer; RAG-SUM-R002, RAG-SUM-R003. |
 | RAG-SUM-E027 | SUM-S007 | RAG-E-V035-011 | Distant arcade sighting | Notices Chizuru with Nagomi during their outing but does not approach them. | Adds a limited visual observation to her information position. | She does not hear the booking terms, apology, bridal hope, or Chizuru's later conversation; RAG-SUM-R002, RAG-SUM-R003. |
+| RAG-SUM-E028 | SUM-S008 | RAG-E-V036-001 | Private reflection on sighting | Recalls seeing Chizuru with Nagomi, the cohabitation fact, and Chizuru's unclassified feeling; wonders whether the pair may truly become a couple. | Turns a limited observation into a carefully withheld question. | Her supposition is not knowledge of the booking or current couple status; RAG-SUM-R002, RAG-SUM-R003. |
 
 ## State-change summary
 

@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.35"
+version: "1.36"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; inspected and closed through V035."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; inspected and closed through V036."
 ---
 
 # Repetition and visual form ledger
@@ -238,3 +238,10 @@ state: CURRENT_THROUGH_V033
 | RAG-FRM-191 | Kazuya's internet snippets and alarmed faces contrast with Chizuru's plain bodily explanation, bowl, sweet, and quiet doorway. | Comic overthinking is set against local, practical acts. | Chizuru's request and permission, not Kazuya's web theory, govern care. | Physical vulnerability is not a romance certificate; RAG-E-V035-005 through RAG-E-V035-008. |
 | RAG-FRM-192 | Fashion displays and arcade machines precede Nagomi's serious apology and wedding image. | Consumer brightness carries a paid date into family expectation. | The rental frame and elder's subjective hope remain separately legible. | A bridal mental picture is not an actual marriage plan; RAG-E-V035-010 through RAG-E-V035-012. |
 | RAG-FRM-193 | Sumi appears across an arcade sightline rather than in the women's conversational frame. | Visual presence creates audience asymmetry without dialogue. | The scene shows seeing, not hearing. | No witness report or confrontation occurs; RAG-E-V035-011. |
+
+## V036 close additions
+
+| RAG-FRM-194 | Sumi's isolated reflection panels follow the V035 arcade sightline. | A silent witness gains interior continuity without confrontation. | Her questions remain hers. | No knowledge of booking context is implied; RAG-E-V036-001. |
+| RAG-FRM-195 | Bear hood, bunny costume, sales goods, and camera frames mark the cosplay event. | Public spectacle and labor share a visual field. | Chizuru's own rescheduling and photo assent define local participation. | Posing does not settle private feelings; RAG-E-V036-003 through RAG-E-V036-005. |
+| RAG-FRM-196 | A lease date, unsent phone drafts, and later a `デート` calendar entry contrast possible and enacted plans. | Documents render the move and agreed date unusually concrete. | The spoken invitation and answer sit between rehearsal and calendar. | No completed outing or move appears; RAG-E-V036-006 through RAG-E-V036-010. |
+| RAG-FRM-197 | Repeated close-ups of shorts, leg, and Kazuya's panic surround a spilled bowl of beans. | Comic subjective gaze inflates a household accident. | Chizuru's dialogue remains about clothes and cleanup. | The framing is not sexual permission or her inner verdict; RAG-E-V036-012. |

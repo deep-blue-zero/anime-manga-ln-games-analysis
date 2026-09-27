@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.35"
+version: "1.36"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; inspected and closed through V035."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; inspected and closed through V036."
 ---
 
 # Directed relationship state ledger
@@ -235,3 +235,11 @@ state: CURRENT_THROUGH_V033
 | RAG-REL-188 | Chizuru ↔ Kazuya | Temporary housemates with local illness-care trust | She discloses difficult menstrual days, permits him into her room, eats his meal, requests a sweet, and thanks him. | Unpriced care and first-person bodily disclosure increase ordinary trust. | No permanent room access or truthful couple status is established; RAG-E-V035-005 through RAG-E-V035-008. |
 | RAG-REL-189 | Chizuru ↔ Nagomi | Rental provider and family elder with partial truth | Nagomi books Chizuru, apologizes for professional judgment, and voices a bridal hope. | Their relation gains a paid but personally consequential outing. | Nagomi still assumes a genuine couple; Chizuru has not promised marriage; RAG-E-V035-010 through RAG-E-V035-012. |
 | RAG-REL-190 | Sumi → Chizuru / Nagomi | Distant observer | Sumi sees the women at the arcade. | Possible future contact context is visually seeded. | No interaction or informed conclusion is shown; RAG-E-V035-011. |
+
+## V036 close additions
+
+| RAG-REL-191 | Sumi → Chizuru / Kazuya | Confidentially informed house visitor and distant observer | Revisits her arcade sighting in private thought. | Her concern is newly visible to the reader. | She does not speak to them or learn paid context; RAG-E-V036-001. |
+| RAG-REL-192 | Nagomi ↔ Kazuya / Chizuru | Family elder and rental client under partial truth | Discusses her booking with Kazuya by phone after Chizuru disclosed it. | Direct family consequence of the V035 outing. | Genuine-couple presumption persists; RAG-E-V036-002. |
+| RAG-REL-193 | Chizuru ↔ Mini / Kazuya | Housemates in Mini's sales event | Chizuru chooses to help in costume; Kazuya works the booth and tells her she was cutest there. | Shared unpaid labor and direct personal praise. | Event photos and conditional happiness do not create couple status; RAG-E-V036-003 through RAG-E-V036-005. |
+| RAG-REL-194 | Chizuru ↔ Kazuya | Temporary housemates, inquiry open | He asks for a non-rental date; she proposes May 17 and calendars it; his planned move is May 18. | New mutually scheduled private outing before an explicit housing boundary. | The date is future and no verdict has been given; RAG-E-V036-006 through RAG-E-V036-010. |
+| RAG-REL-195 | Chizuru ↔ Kazuya / Mini | Housemates with unequal bodily information | Mini raises a private physical observation; Kazuya becomes flustered during an ordinary kitchen spill. | Shows continued intimacy pressure and privacy difference in shared space. | Chizuru's presence is not consent to inspection; RAG-E-V036-012. |

@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.35"
+version: "1.36"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V035; inspected and closed through V035."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; inspected and closed through V036."
 ---
 
 # Transaction and intimacy ledger
@@ -220,3 +220,9 @@ state: CURRENT_THROUGH_V033
 | RAG-TXN-173 | Resolved `ito` romantic theme | Three housemates use assigned values to make game analogies. | Chizuru can clarify what her example does and does not mean. | No assigned number or ideal scenario can bind her to a proposal requirement. | Cards are revealed and she disclaims personal desire for extravagance; RAG-E-V035-001, RAG-E-V035-002. |
 | RAG-TXN-174 | Menstrual-pain care in a shared house | Chizuru tells Kazuya of difficult first days; he buys supplies, cooks, and offers help. | She controls room entry and can accept or decline each act; she requests a familiar sweet. | Practical care grants no wider bodily access, debt, or romantic result. | She eats and thanks him under local permission; RAG-E-V035-005 through RAG-E-V035-008. |
 | RAG-TXN-175 | Nagomi's rental booking | An elder who knows the occupation pays for Chizuru's professional time. | Chizuru accepts the booked outing and explains work features; Nagomi chooses to apologize and shop. | Payment neither corrects the family lie nor buys a bridal commitment. | They spend time together, with unresolved genuine-couple belief; RAG-E-V035-009 through RAG-E-V035-012. |
+
+## V036 close additions
+
+| RAG-TXN-176 | Mini's cosplay sales stall | Mini sells goods; Kazuya and Chizuru help, the latter changing an appointment and agreeing to event photos. | Chizuru chooses local costume participation while retaining her own schedule and words. | Commercial setting and public photography buy no private bodily or romantic access. | Event ends with an event-specific compliment exchange; RAG-E-V036-003 through RAG-E-V036-005. |
+| RAG-TXN-177 | Proposed private date | Kazuya explicitly distinguishes his invitation from the rental service; Chizuru offers May 17. | Both can accept, negotiate, or decline the future outing without a paid booking. | Agreement to attend is not an answer to the inquiry or permission for physical intimacy. | Both agree, and she calendars it; RAG-E-V036-008 through RAG-E-V036-010. |
+| RAG-TXN-178 | Shared-house kitchen chore | Chizuru works with food and laundry; Kazuya offers help amid private desire and embarrassment. | Ordinary cohabitation demands practical coordination and respect for bodily privacy. | A short outfit or spill is not a transaction or invitation. | He stumbles and spills beans; no new intimacy is granted; RAG-E-V036-012. |
