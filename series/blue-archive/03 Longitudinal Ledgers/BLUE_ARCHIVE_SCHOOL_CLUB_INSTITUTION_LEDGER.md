@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–022; BA:main:003:003:023 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–023; BA:main:003:003:024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -863,3 +863,7 @@ Ako says she analyzed opponent information and will send it to Abydos; Ayane rec
 ## V003 C003 E022 institutional delta — reported Justina degradation
 
 Hiyori says a second ETO has made the Justina precepts lose meaning, reports the remaining Saints and Ambrosius offer no usable card, and concludes Arius Squad has lost. This is her tactical/technical assessment, not verified constitutional effect, complete force accounting or final battle adjudication. Koharu invokes the four students' actual exam pass and work, but no formal Remedial Club closure, Justice reinstatement or separate grade order is printed. Saori threatens Azusa's Trinity-acquired life, not a valid student-status revocation.
+
+## V003 C003 E023 institutional delta — underground means remain unnamed
+
+Saori alludes to “that” beneath the old cathedral after the Squad's E022 no-cards assessment; Hanako infers some means remains and urges pursuit. The text neither identifies the object nor verifies a functioning Arius/Gematria resource, a completed underground transfer or a new ETO/Justina mechanism. Saori's “last battle” is a declared plan, not an institutional defeat or treaty settlement. Hifumi's injury is stated by Azusa, not clinically documented; no Remedial Club or Justice disposition changes.

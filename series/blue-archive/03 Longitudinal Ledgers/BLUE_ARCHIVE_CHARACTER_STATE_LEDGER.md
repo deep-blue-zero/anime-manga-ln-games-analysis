@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–022; BA:main:003:003:023 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–023; BA:main:003:003:024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,14 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E023 character-state delta — accompanied stand, uninspected reserve
+
+- **Saori/Misaki/Hiyori:** Misaki briefly says “not yet” after near-ending talk; Saori alludes to an unnamed thing beneath the old cathedral and proposes a last battle. Neither resource nor outcome is printed. All `UNMODELED`.
+- **Azusa/Hifumi/Hanako/Koharu:** Azusa chooses pursuit, sends Hifumi to rest because of injury, names her three friends in farewell and tells Saori she is not alone. Hifumi wants to accompany but accepts the sendoff; Hanako infers an underground means and Koharu wishes safety. None demonstrates a guaranteed return or final victory. Azusa/Hanako/Koharu `UNMODELED`, Hifumi `PARTIAL_MODEL`.
+- **Sensei:** a singleton choice to accompany Azusa is direct; subsequent “let's go” lines are inward. No new intervention result or legal ETO audit. `PARTIAL_MODEL`.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E022 character-state delta — Saori's grievance and Azusa's resolve
 

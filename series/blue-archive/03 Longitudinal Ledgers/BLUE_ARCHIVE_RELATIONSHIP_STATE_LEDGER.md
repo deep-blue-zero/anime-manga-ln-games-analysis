@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–022; BA:main:003:003:023 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–023; BA:main:003:003:024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1062,3 +1062,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **HANAKO/KOHARU ↔ AZUSA:** both answer Saori on the validity of Azusa's acquired life, with Koharu anchoring it in the group's pass/effort. This is direct peer defense, not proof they can ensure Azusa's safety.
 - **HIYORI/MISAKI ↔ SAORI:** they address their leader; Hiyori states their means are exhausted and they have lost. No Saori assent or Arius institutional capitulation.
 - **SENSEI/HIFUMI ↔ AZUSA:** no new speech in this short unit; E019 contact remains the last direct relational step.
+
+## V003 C003 E023 relationship delta — farewell and accompanied confrontation
+
+- **AZUSA ↔ HIFUMI/HANAKO/KOHARU:** Hifumi wants to follow, but Azusa asks her to rest because of injury; Azusa addresses all three by name, receives their care and says she will return. The farewell directly supports peer belonging, not guaranteed return or Hifumi's medical clearance.
+- **AZUSA ↔ SENSEI:** Sensei's singleton choice to come elicits Azusa's thanks; later inward cues are not additional dialogue. Accompaniment is chosen after Azusa elects pursuit, so neither party's agency is erased.
+- **AZUSA ↔ SAORI:** Azusa proposes ending it, Saori demands a last battle and challenges a one-on-one win, Azusa says she is not alone, and Saori identifies Sensei as the adult ally. The pair remain adversarial without completed duel or reconciliation.
+- **MISAKI/HIYORI ↔ SAORI:** their near-ending assessment is interrupted by Misaki's “not yet” and Saori's underground allusion; no shared plan's substance is printed.

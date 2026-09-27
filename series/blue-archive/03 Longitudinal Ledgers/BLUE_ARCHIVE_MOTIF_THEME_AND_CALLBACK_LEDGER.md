@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–022; BA:main:003:003:023 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–023; BA:main:003:003:024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1220,3 +1220,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **The passed exam as fact:** Koharu's answer makes E019's certified group pass and work a concrete history Saori cannot retroactively undo, without implying formal club/Justice dispositions are resolved.
 - **Blue sky and differentiated future:** Saori envies Azusa under `青空` after shared suffering; this casts C002 Seia's contingent student futures as contested, not magically equal.
 - **Tactical depletion is not a full ending:** Hiyori's no-cards line narrows Arius options in her view but the duel and E023 underground story remain unopened.
+
+## V003 C003 E023 motif / callback delta — apparent end becomes final challenge
+
+- **“No cards” revised:** E022's defeat assessment meets Saori's unnamed underground reserve; the story refuses premature closure without yet proving the reserve works.
+- **Not alone:** Azusa's direct answer to Saori reuses the recent friendship/coalition motif at a personal scale, while her own decision and friends' farewell stay distinct from Sensei accompaniment.
+- **Care and promise:** Azusa keeps injured Hifumi out of the pursuit and promises return. The promise is an ethical/relational orientation, not guaranteed future.
+- **Futility rhetoric persists:** Saori repeats the empty-world claim at the threshold of a proposed last battle; no philosophical or military endpoint follows in this unit.

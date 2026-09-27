@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–022; BA:main:003:003:023 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–023; BA:main:003:003:024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -953,3 +953,7 @@ Sensei has no new direct speech or action while Ako offers tactical data, Chinat
 ## V003 C003 E022 delta — students defend the record of their own work
 
 Sensei has no printed speech, choice or action. Hanako and Koharu reject Saori's attempt to deny Azusa's Trinity experience, and Azusa vows to keep struggling even under a possible futility premise. Koharu's evidence is the independently certified group pass and effort, not a new adult pronouncement. Hiyori's reported Arius defeat does not prove Sensei's ETO authority or the duel's final outcome. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E023 delta — chosen accompaniment after student decision
+
+Azusa elects to pursue Saori and asks injured Hifumi to rest before Sensei's singleton `私も行くよ` choice. Azusa thanks the adult, takes leave of her three friends and later says she is not alone when Saori asks about a one-on-one fight. Sensei's subsequent cues are explicitly inward. This is a bounded accompaniment that answers Azusa's chosen plan, not an adult-only victory or proof their presence can neutralize Saori's unnamed reserve. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

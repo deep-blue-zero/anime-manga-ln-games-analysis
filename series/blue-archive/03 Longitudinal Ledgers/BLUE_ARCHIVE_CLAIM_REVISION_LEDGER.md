@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–022; BA:main:003:003:023 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–023; BA:main:003:003:024 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E022 active provisional; E023 unopened
+current_sequential_boundary: MAIN_V003_C003_E023 active provisional; E024 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2099,3 +2099,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E023 unopened.
+
+## V003 C003 E023 claim delta — an alleged remaining underground means
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Saori's “that” beneath the old cathedral and last-battle declaration revise Hiyori/Misaki's near-ending assessment, without identifying or verifying a weapon, mechanism or result.
+- **BA-C001/C016 — QUALIFY:** Azusa decides to go, protects injured Hifumi from joining and relies on Sensei's chosen accompaniment plus her friends' support. This is neither lone adult rescue nor achieved safety.
+- **BA-C008 — STRENGTHEN:** distinguish Saori's unnamed allusion, Hanako's inference, Azusa's promised return, printed Sensei choice and later inward voice.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E024 unopened.
