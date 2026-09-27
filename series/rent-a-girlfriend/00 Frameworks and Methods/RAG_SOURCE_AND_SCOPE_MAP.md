@@ -4,14 +4,14 @@ artifact_id: RAG_SOURCE_AND_SCOPE_MAP
 artifact_type: source_inventory_and_scope_map
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.51"
+version: "1.52"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
 inventory_date: "2026-09-19"
-source_boundary: "Owner-authorized Japanese collected-volume EPUB witnesses V001-V047; V001-V030 inspected and closed; V031+ inventory only."
+source_boundary: "Owner-authorized Japanese collected-volume EPUB witnesses V001-V047; V001-V030 inspected and closed; V031 admitted for ordered inspection; V032+ inventory only."
 ---
 
 # Source and scope map
@@ -56,7 +56,7 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 | V028 | RAG-JP-EPUB-V028 | 100649795 | `3f9ac4561313e237c854f7402c4b44e8f58f77d2a0cb4f524368a49f22710061` | 彼女、お借りします（２８） | `ja` | 204 | 205 | INSPECTED__CLOSED |
 | V029 | RAG-JP-EPUB-V029 | 103145031 | `a10f53fbb7642d481d22f5be85762905d5827049e22c079a02dc7c95f91d33b4` | 彼女、お借りします（２９） | `ja` | 204 | 205 | INSPECTED__CLOSED |
 | V030 | RAG-JP-EPUB-V030 | 100029160 | `23d6fbf306db55dee1c982907b1f65b9f3c3f6fa53f7a29fdc312c4bfe3f5004` | 彼女、お借りします（３０） | `ja` | 204 | 205 | INSPECTED__CLOSED |
-| V031 | RAG-JP-EPUB-V031 | 65400483 | `d3acd779ec38b5e48ff2e4b2f319f46d989e7b7ad738418f6fced4aceffcce59` | 彼女、お借りします（３１） | `en` | 204 | 204 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
+| V031 | RAG-JP-EPUB-V031 | 65400483 | `d3acd779ec38b5e48ff2e4b2f319f46d989e7b7ad738418f6fced4aceffcce59` | 彼女、お借りします（３１） | `en` | 204 | 204 | VERIFIED__ADMITTED__PENDING_INSPECTION |
 | V032 | RAG-JP-EPUB-V032 | 103379452 | `67d88ed8538b4cbe77dfe44126d8c4a2af27d102a514c8efc187a0e107e08d00` | 彼女、お借りします（３２） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
 | V033 | RAG-JP-EPUB-V033 | 96385640 | `115830b31bf72abaf25e6191b9088dddc365c79c992847fa017c7d2df39bb7f3` | 彼女、お借りします（３３） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
 | V034 | RAG-JP-EPUB-V034 | 91958318 | `b36d66e3583c63dab2a117d68a763cbbf0cb6641a48a9eb7bac14a7c04c22633` | 彼女、お借りします（３４） | `ja` | 204 | 205 | INVENTORIED__OUTSIDE_ACTIVE_RUN |
@@ -120,7 +120,7 @@ The pre-existing local audit dated 2026-09-12 reported all 47 ZIP CRC checks, EP
 - `INSPECTED` means the full declared narrative coverage was actually read.
 - `CLOSED` means the volume transaction and synchronized analytical state were validated and committed.
 
-V001-V030 are inspected, closed, checkpointed, and locally audited, with V021-V030 synthesized in `02 Block Syntheses/RAG_CP_V030.md`. V031-V047 remain filename- and metadata-visible only, and their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
+V001-V030 are inspected, closed, checkpointed, and locally audited, with V021-V030 synthesized in `02 Block Syntheses/RAG_CP_V030.md`. V031 is authorized and admitted with a recorded entering freeze; its recorded SHA-256 matches the local witness and ZIP CRC integrity passes, but no narrative page has yet been inspected. Its `en` OPF language field still requires direct visual verification. V032-V047 remain filename- and metadata-visible only; their narrative pages, previews, chapter labels, and story-bearing paratext are not admitted.
 
 ## Locator convention
 

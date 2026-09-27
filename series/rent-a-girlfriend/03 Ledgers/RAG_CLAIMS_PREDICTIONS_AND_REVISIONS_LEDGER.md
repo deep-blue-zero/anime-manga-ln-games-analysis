@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.34"
+version: "1.35"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030; no V031 narrative prediction frozen."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030 inspected and closed; V031 entering predictions frozen before narrative inspection."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -35,8 +35,8 @@ Update after each eligible volume only when inspected evidence materially affect
 initialized: true
 inspected_through_volume: V030
 current_claim_count: 114
-frozen_prediction_count: 0
-state: CURRENT_THROUGH_V030__BLOCK_CLOSE
+frozen_prediction_count: 4
+state: CURRENT_THROUGH_V030__V031_ENTERING_FREEZE
 ```
 
 ## Current claims
@@ -569,7 +569,18 @@ At the V020 close, no predictions were frozen for V021 because the then-authoriz
 | RAG-PRED-115 | SUPPORTED | Kazuya conceals the Chizuru-house destination when Ruka asks about his move; RAG-E-V030-001. | No informed reaction or separation. |
 | RAG-PRED-116 | SUPPORTED | Displacement shapes practical room/cost terms and the incomplete Ruka/Nagomi accounts; RAG-E-V030-001, RAG-E-V030-002. | Sale and audience correction remain open. |
 
-The V021-V030 block ends here. No V031 prediction is frozen or narrative source admitted at this boundary.
+The V021-V030 block ended at the V030 checkpoint. The following V031 predictions were recorded after the owner's V031-V040 authorization and before any V031 narrative image was inspected. They inherit only the closed V030 evidence boundary, not the V031 cover, contents, preview, or later summaries.
+
+## Frozen predictions for V031
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-117 | The imminent April 19 birthday and Chizuru's no-present request produce a concrete attempted acknowledgment, renewed boundary negotiation, or her observable response to Kazuya's intended gesture. | RAG-E-V030-006, RAG-E-V030-008 | V031 supplies no birthday acknowledgment, attempt, or response. |
+| RAG-PRED-118 | The one-month shared household produces an operating privacy, room-access, cost, chore, scheduling, or exit consequence beyond the initial rules. | RAG-E-V030-002 through RAG-E-V030-005 | V031 treats cohabitation only as background without a new practical consequence. |
+| RAG-PRED-119 | Kazuya's concealed residence and Ruka's continuing disputed claim produce an additional concealment act, disclosure, status discussion, changed access, or confrontation. | RAG-E-V030-001 | V031 gives no further Ruka-related accounting or consequence. |
+| RAG-PRED-120 | Mami's renewed meeting and unfinished response to Kazuya's apology produce an observable follow-up, reframing, or access decision by either participant. | RAG-E-V030-007 | V031 supplies no further consequence of their meeting. |
+
+The entering state is a bounded three-person residence in Chizuru's inherited house, not an established dating relationship. Her investigation has ordinary observation but no final answer. Ruka lacks the true residence location; Nagomi retains a false couple premise. Chizuru's birthday, Mami's renewed contact, and the eventual house disposition remain unresolved. These predictions are prospective tests, not claims that any event occurs in V031.
 
 ## Open evidence questions
 
