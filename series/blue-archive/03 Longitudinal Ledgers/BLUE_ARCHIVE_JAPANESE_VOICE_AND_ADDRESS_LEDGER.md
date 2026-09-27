@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:018; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:019 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:019; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1276,3 +1276,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Mika's `多分、事故だった` and Seia frailty assertion are hedged self-exculpation. Hanako's `無事` is immediately qualified by `傷が治らなくて、まだ目が覚めていない`: alive does not mean healed. Hanako cuts off `助けてくれたのは` and asks that the rescuer speak directly, so no identity inference.
 - Mika `降参` is direct surrender, not formal processed arrest. `et omnia vanitas` is Mika's variant invocation in a threat about Saori; Azusa `それでも…足掻いて` directly rejects passive fatalism.
 - Sensei `u:0046` and `u:0050` are `心の声`. Mika `あの言葉を聞いた時` refers to having heard a supportive line earlier, not to hearing `u:0050` now. One singleton choice in scene 2; `u:0055` forward title only.
+## V003 C002 E019 delta — official result versus rehearsal recap
+
+- Narrator `第1次特別学力試験`, `第2次特別学力試験` and `第3次特別学力試験` are formal exam headings; `補習授業部模試` 1–6 are local mocks. `試験用紙紛失（不合格）` still names the second official procedural outcome, not numerical underperformance. Mock 4 explicitly says `ボーダーライン上昇`.
+- The decisive `第3次特別学力試験` line at `u:0082` is followed by Hanako `100`, Azusa `97`, Koharu `91` and Hifumi `94`, each `合格`, then `補習授業部ー全員合格`. These are new narrator facts; the prior recap lines repeat earlier scores and cannot be counted as newly taken tests.
+- Koharu's `満点取る` is a pledge; 91 is pass but not 100. Azusa's `どんな結果であれ…決まる` is participant stakes language, with no specific printed administrative decree. Hasumi's `頑張ってください`/`力になれなくてごめんなさい` are transmitted by a Justice member, not Hasumi's present speech; `いつか必ず` is a future promise.
+- Sensei's two choices are singleton spoken encouragement/entry cues. `u:0041` is `先生（心の声）`, so “exam start” is not a shown audible invigilation order. `u:0088` is next-title card.

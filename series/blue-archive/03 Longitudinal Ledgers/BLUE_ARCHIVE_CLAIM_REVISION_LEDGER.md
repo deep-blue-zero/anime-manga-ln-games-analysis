@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:018; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:019 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:019; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:020 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E018 active provisional; E019 unopened
+current_sequential_boundary: MAIN_V003_C002_E019 active provisional; E020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1880,3 +1880,11 @@ No new durable claim ID, subject, standalone model, frozen prediction or side-so
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 Hinata and Sakurako join the index as narrow `UNMODELED` subjects; Mine is mention-only. **21 partial / 47 unmodeled across 68**, no operational/validated model. No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; pact terms, rescuer, custody, Nagisa and exam remain OPEN.
+## V003 C002 E019 claim delta — final official academic success
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei accompanies and gives singleton encouragement/entry prompts, but the exam start cue is inward and the scorecard cannot isolate adult instruction as cause. E009's pass-oriented branch is fulfilled in outcome, not necessarily by a method printed here.
+- **BA-C002–C004/C007/C010–C011/C021 — RESOLVE narrow academic test:** narrator gives third special exam Hanako 100, Azusa 97, Koharu 91, Hifumi 94, all `合格`, followed by `補習授業部ー全員合格`. The simultaneous all-four requirement from E006 is met. The prior second official `試験用紙紛失` remains a distinct procedural failure, not a retroactive scored ability test. Mocks 1–6 and the first official result are retrospective recap, not fresh sittings or comparable-form data. No formal club exit, Koharu Justice reinstatement, institutional liability, sanction paper or treaty settlement appears.
+- **BA-C008 — STRENGTHEN:** direct venue welcome by Justice member qualifies E014's no-entry forecast without revealing how the cordon changed; Hasumi's encouragement/apology is relayed, not direct dialogue. 7:50 departure and arrival imply time to sit, not an exact arrival timestamp. Sensei `u:0041` is inward.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; administrative status, Nagisa, Mika, treaty and Azusa safety remain OPEN.

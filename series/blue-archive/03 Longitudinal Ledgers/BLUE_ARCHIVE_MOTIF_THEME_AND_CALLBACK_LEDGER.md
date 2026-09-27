@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:018; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:019 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:019; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1027,3 +1027,10 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **Seia alive, not recovered:** Hanako says the supposed lost friend is alive but wounded/unconscious under guard outside Trinity. Mika's relief and surrender follow, yet surviving is not equivalent to healed, cleared or reconciled. The rescuer's withheld name resists premature closure.
 - **Vanitas and resistance recur:** Mika warns Azusa of endless pursuit and says `et omnia vanitas`; Azusa answers with `それでも` and continued struggle. The chapter's title and E014 maxim now become a live future-oriented choice without guaranteed safety.
 - **Support remembered, not magically transmitted:** Mika recalls a prior Sensei ally-line after an inward echo, then says goodbye. Ethical standing for a student can remain emotionally salient even while her acts demand accountability; the scene shows neither acquittal nor sentence.
+## V003 C002 E019 motif / callback delta — effort counted at last
+
+- **The academic ledger closes narrowly:** the retrospective montage revisits first official failure, mock volatility and lost second papers before giving four official third-pass marks. This at last attaches a valid score outcome to students' work under the 90 line, without pretending the earlier paper loss was their academic fault.
+- **Threshold versus perfection:** Koharu insists on 100 yet passes at 91. The episode rejects her E012 incapacity despair without requiring perfection; Hifumi's sixth mock 89 similarly does not foretell failure.
+- **Access no longer blocked in fact:** after E014's predicted isolation, the party runs to the venue and a Justice member welcomes them. The narrative does not erase the earlier coercive design or explain the perimeter; it simply shows that an assumed impossible route was traversed.
+- **Hasumi's deferred repair:** her encouragement/apology travels through a committee member, preserving Koharu's Justice bond while leaving actual reconciliation/reinstatement future.
+- **“Nevertheless” made measurable:** Azusa's resistance maxim becomes both battlefield defection and a 97-point formal pass; Hanako explicitly credits Azusa for that stance. Causal teaching mechanism and long-term safety remain separate.

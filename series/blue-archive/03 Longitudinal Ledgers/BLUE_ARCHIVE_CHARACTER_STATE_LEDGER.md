@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:018; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:019 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:019; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1090,3 +1090,13 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across
 - **Seia/Mine:** Hanako says Seia alive but not awake, with unhealed wounds, guarded outside Trinity by Rescue Knights head Mine. Seia does not speak; Mine is mentioned only, not a newly represented index subject.
 
 Readiness: **21 `PARTIAL_MODEL` / 47 `UNMODELED` across 68**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E019 character-state delta — official simultaneous pass
+
+- **Hanako:** final third special exam **100/pass** after prior mock 100/100/100; credits Azusa's influence in not giving up. This confirms academic performance under the raised bar, not an external audit of E014 elite-seat history. `UNMODELED`.
+- **Azusa:** drives the group onward at 7:50 despite exhaustion, says not to give up and scores **97/pass**. Her academic success does not solve Saori threat, forged-paper status or Seia history. `UNMODELED`.
+- **Koharu:** visibly exhausted after all-night movement/week of little sleep, hopes for 100 and scores **91/pass**. Her E012 “stupid” cry is not a valid ability conclusion. Member relays Hasumi's encouragement/apology, but no direct reinstatement. `UNMODELED`.
+- **Hifumi:** exhausted, steadies Koharu, urges effort and scores **94/pass**. Her E013 sixth mock 89/fail did not predict official failure. `PARTIAL_MODEL`.
+- **Sensei:** accompanies group to venue, offers two singleton entry/last-test cues, with exam-start line inward. No exclusive teaching effect or formal administrative ruling shown. `PARTIAL_MODEL`.
+- **Hasumi:** Justice member relays supportive message, apology and future repair promise. Hasumi does not directly appear and reason she could not help remains unknown. `UNMODELED`.
+
+All four narrator-marked third official passes confirm the local academic condition. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 47 `UNMODELED` across 68**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:018; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:019 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:019; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -764,3 +764,6 @@ Azusa says the first Arius camp group is wholly combat-incapacitated, with Hifum
 ## V003 C002 E018 institutional delta — Sisterhood intervention and surrender
 
 Marie and Hinata appear from the cathedral side, and Sisterhood declares intervention in Tea Party infighting despite custom, announcing custody of Mika for incitement and attempted injury to fellow Tea Party members. The official lines are tagged Marie although Mika addresses Sakurako, so exact named speaker/authority is uncertain; the organizational intervention is direct. Hanako says she made a “small promise” but its terms are withheld. Mika threatens to fight/clean the cathedral, then after an unprinted turn admits defeat and surrenders. No completed detention, hearing or sanction is shown. Hanako reports Seia alive but with unhealed injuries and still unconscious, hidden outside Trinity under Rescue Knights head Mine's guard. This is an important participant status report, not direct medical verification; the person who saved Seia is expressly withheld. Mika's accident/frailty explanation is self-serving and uncertain. Mika credits Sensei as overlooked cause but the shown resistance also includes students and Sisterhood. Hinata and Sakurako are newly tracked `UNMODELED`, Sakurako's official voice cautioned; Mine is mention-only. Nagisa condition, Justice response, treaty process, third exam and Azusa status remain unadjudicated.
+## V003 C002 E019 institutional delta — third official four-pass result
+
+At 7:50 a.m. Azusa pushes the fatigued club toward the announced venue. They arrive and a Justice Realization member welcomes them, relaying Hasumi's encouragement/apology; no direct Hasumi order or perimeter revision is printed. This defeats Hanako's E014 prediction of inevitable physical exclusion at the moment of entry, but does not explain the reported document-protection cordon or the committee's authority. The narrator's retrospective scorecard separates first official, local mocks 1–6 and second official paper-loss failure. The **third official special exam** yields **Hanako 100, Azusa 97, Koharu 91, Hifumi 94—all pass**, with explicit `補習授業部ー全員合格`. E006's all-four simultaneous academic condition is met under the raised 90-point line. No formal expulsion order can now be inferred from academic failure, but administrative exit, Koharu's Justice reinstatement, consequences of earlier paper loss, Nagisa's authority, treaty status and grade correction are not separately narrated.

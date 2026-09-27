@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:018; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:019 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:019; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -854,3 +854,6 @@ Hifumi directly says Sensei's direction helped the group incapacitate the first 
 ## V003 C002 E018 delta — cause ascribed to Schale, standing extended to an adversary
 
 Sensei's only choice is silent. Mika, after an unprinted loss sequence and Sisterhood's arrival, says bringing Schale was her largest mistake and identifies Sensei as the overlooked variable. This confirms her experienced resistance, not sole causation: Hanako, Azusa, the club and autonomous Sisterhood have visible roles. The two `心の声` lines about Mika cannot be treated as current speech; Mika says an earlier supportive utterance made her happy, consistent with support that need not waive accountability. Mika declines hearing Sensei now and surrenders, while Seia remains injured/unconscious by Hanako's report, Nagisa's medical status unknown and exam unresolved. No adult custody decision or legal intervention is shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E019 delta — pass outcome without sole-author rescue
+
+Sensei joins the exhausted club at the venue and gives singleton prompts to enter and face the last test; the `第3次特別学力試験……開始！` at `u:0041` is inward, not a public proctor command. Narrator certifies all four formal passes at 100/97/91/94. This fulfills the result named in E009's pass-oriented choice and is consistent with sustained adult support, but E019 does not isolate Sensei's causal contribution from Hifumi/Hanako teaching, Azusa/Koharu effort, and changed access conditions. The second official paper-loss failure and E015 Nagisa gunfire remain ethical/institutional questions; no Schale appeal, treatment or formal exoneration is shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

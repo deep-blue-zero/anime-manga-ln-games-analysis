@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:018; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:019 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:019; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -878,3 +878,9 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **MIKA ↔ SENSEI/CLUB:** after defeat Mika calls Sensei the overlooked variable, says inviting Schale was her mistake, surrenders and recalls genuine happiness at a prior supportive sentence. Sensei's current echoes are inward; Mika declines current dialogue. Surrender does not repair Nagisa/Seia/club harm.
 - **MIKA ↔ AZUSA/SAORI:** Mika warns Azusa of Trinity nonprotection and Saori pursuit; Azusa acknowledges risk and vows to resist. Threat is unproven future, not an accomplished estrangement or capture.
 - **SISTERHOOD ↔ TEA PARTY:** the declaration explicitly calls intervention in Tea Party infighting contrary to prior custom. Its institutional independence is exercised here, but legal authority, arrest completion and future relation are open.
+## V003 C002 E019 relationship delta — shared academic vindication
+
+- **FOUR REMEDIAL STUDENTS ↔ EACH OTHER:** after night-long strain, Azusa pushes the group to the venue; Hifumi steadies Koharu, and all pledge to persist. Narrator certifies all four third official passes. This is joint academic success, not proof of identical study contribution or future permanent club identity.
+- **KOHARU ↔ HASUMI/JUSTICE:** a Justice member welcomes the group and relays Hasumi's encouragement, apology and promise of later repair. Hasumi's direct knowledge/action and Koharu's grade-based return remain unprinted.
+- **SENSEI ↔ CLUB:** Sensei accompanies and offers two singleton prompts. The result fulfills a pass-oriented promise in outcome, but neither exclusive adult causation nor formal disciplinary settlement is shown.
+- **HANAKO ↔ AZUSA:** Hanako says Azusa taught her not to give up, reversing E013's teacher-credit direction. It marks mutual influence without resolving their distinct Arius/elite-track futures.
