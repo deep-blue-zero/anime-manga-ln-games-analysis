@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:016; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:017 unopened
-checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001_E016 active provisional; E017 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:017; MAIN_V003_C001 is latest canonical checkpoint; BA:main:003:002:001 unopened
+checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
+current_sequential_boundary: MAIN_V003_C001 checkpoint canonical; V003 C002 E001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1714,3 +1714,13 @@ No new durable claim ID, standalone model, frozen prediction or side-source admi
 - **Other families:** no direct global test.
 
 No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Hanako motive, old-rule provenance, Azusa/Seia link, Mika purpose and exam outcome remain OPEN.
+
+## V003 C001 E017 claim delta and canonical checkpoint transition
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei explicitly refuses Nagisa's traitor hunt as outside their role and declares `生徒たちの味方`, including Mika. This sharpens E009 `私のやり方` but does not complete Hifumi's requested protection or resolve student-interest conflicts; E015's admitted misleading pretext complicates simple transparency.
+- **BA-C002–C004/C007/C010–C011 — REVISE locally:** Mika says she arranged the teacher invitation for a third party and names Azusa as Nagisa's target. Her “Nagisa told you nothing” inference conflicts with the E009 disclosed rationale, though Nagisa supplied no evidence/identity. Arius origin is Mika's account, not a verified school record. The procedural bypass and treaty intelligence remain unreviewed.
+- **BA-C008 — STRENGTHEN:** Mika's actor report, E009 conversation, Sensei silence/refusal, E017's unlocated intercut with unknown voices, and next-title card must remain separate. Azusa's `計画通り` establishes an undisclosed plan, not its content or guilt.
+- **BA-C021 — STRENGTHEN, CHAPTER-LOCAL OPEN:** Nagisa's professed support-as-disposal design is corroborated as a pressure structure by Hifumi's parallel coercive task and Mika's named target. Actual traitor, legality, exam manipulation and expulsion remain open; no collective-guilt judgment is canonical.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test; other families receive no global adjudication.
+
+`BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md` is now the canonical chapter synthesis. No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; V003 C002 E001 unopened.

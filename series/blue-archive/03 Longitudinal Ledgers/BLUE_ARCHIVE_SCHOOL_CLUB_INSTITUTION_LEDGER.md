@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:016; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:017 unopened
+checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:003:001:017; MAIN_V003_C001 is latest canonical checkpoint; BA:main:003:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:016` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:017` and the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -694,3 +694,7 @@ Koharu and Sensei reach Justice Realization's confiscated-items room; Koharu's `
 ## V003 C001 E016 institutional delta — archival exam discrepancy, no disciplinary result
 
 Hifumi reports finding Hanako's prior-year answer sheets for all first–third-year tests, all perfect even on difficult advanced material. The papers themselves are not displayed or independently audited; Hifumi says she saw them while collecting model answers and calls it peeking. This greatly sharpens the academic discrepancy with current official/mocked failures but does not establish intentional failure or its institutional cause. Azusa recalls an approximate fifth of reportedly seven old Kivotos rules about proving paradise-arrival truth; no source text or binding school rule is inspected. Seia is mentioned, not present. The pool is now water-filled when Mika sees it; no swim or official second exam, expulsion, treaty act or traitor identification occurs. Mika checks on Sensei but states no public institutional business.
+
+## V003 C001 E017 institutional delta and canonical checkpoint
+
+Mika says she arranged Sensei's remedial teacher invitation over Nagisa's objection because she wanted a Trinity/Gehenna-external party; that is her actor account, not an inspected delegation file. She names Azusa as Nagisa's suspected traitor and claims Arius-branch origin, a politically charged provenance not yet verified by records. She asks protection, not expulsion. Azusa's unlocated `計画通り` line shows a plan but not its content or relation to treaty security. Sensei explicitly refuses Nagisa's investigative request. The annex, club, first official failure and mock remain as previously recorded; no second official examination, procedure audit, lawful expulsion, treaty signature or student-status adjudication occurs. The V003 C001 checkpoint now governs the chapter's institution synthesis; V003 C002 is unopened.

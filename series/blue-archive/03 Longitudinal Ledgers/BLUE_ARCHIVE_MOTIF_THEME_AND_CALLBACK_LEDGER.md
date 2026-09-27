@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:016; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:017 unopened
+checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:003:001:017; MAIN_V003_C001 is latest canonical checkpoint; BA:main:003:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:016` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:017` and the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -888,3 +888,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **Provable truth:** Hanako turns swimsuit/underwear uncertainty into `証明できない真実`, eliciting Azusa's tentative fifth old-rule question about proving a paradise-arriver's truth. This echoes E001's paradise framing without establishing a shared text, factual cosmology or Azusa–Seia meeting.
 - **Past mastery/present scores:** Hifumi's reported perfect old papers intensify the discrepancy with Hanako's official 2 and mock 4, but a discrepancy is not a proved motive, traitor identity or exam manipulation. Her privacy admission makes evidence access itself an ethical question.
 - **Filled pool/missed play:** E011's pool filling is now visible to Mika, who asks about swimming/party; neither occurs. The site hosts a private Sensei–Mika check-in while Hifumi notices Sensei absent, a small knowledge gap rather than a revealed conspiracy.
+
+## V003 C001 E017 motif / callback and checkpoint delta — third-party protection
+
+- **Care versus suspect sorting:** Mika tries to translate Nagisa's requested “traitor” search into a protection request for the named target; Sensei's student-side answer refuses the binary of Trinity/Gehenna/GSC allegiance but has not solved incompatible student claims. Hifumi's E012 resistance to peer spying remains a distinct act.
+- **Container and outside:** Nagisa's disposable `箱` and proposed Schale `蓋` meet Mika's desire for a third party outside Trinity/Gehenna. An external position can reject institutional capture, but it does not grant omniscient neutrality or automatic safety.
+- **Proof/paradise and accusation:** E001/E016's proof question gains an immediate epistemic test: Mika names Azusa, and an intercut confirms Azusa has a plan, while its aim remains unseen. Neither name nor “plan” proves betrayal. The Chapter 2 card defers adjudication.
+
+The V003 C001 checkpoint preserves these as chapter-local motifs, not settled full-series axioms.

@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:016; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:017 unopened
+checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:003:001:017; MAIN_V003_C001 is latest canonical checkpoint; BA:main:003:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:016` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:017` and the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
 
 ### Structural Sensei
 
@@ -784,3 +784,7 @@ Sensei's singleton choices include suggesting Koharu hide contraband better, pre
 ## V003 C001 E016 delta — receiving evidence, not yet acting on it
 
 Hifumi privately reports to Sensei that Hanako apparently achieved perfect results on prior-year tests across three grade levels, while admitting she inspected the papers by peeking. Sensei's third singleton choice makes the “should solve anything” inference; Hifumi goes further to infer deliberate failing. The adult neither audits the source, queries Hanako nor addresses privacy in the printed scene, so no diagnosis, fair educational plan or proof of sabotage is established. Later Hifumi misses Sensei at the annex, while the text shows Sensei meeting Mika at the pool; the singleton choice asks Mika's purpose and gets only a personal check-in answer. No protective Nagisa intervention, treaty action or actual teaching result occurs. Four singleton choices are not alternative paths. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E017 delta and canonical checkpoint — student-side refusal
+
+Sensei tells Mika they refused Nagisa's traitor-search request because it differs from their role, making the E009 self-directed answer explicit. They claim to side with students in general and Mika in particular, then ask why Mika reveals Azusa's name. Mika says this assurance pleases her but tests whether it can mean anything when students/institutions conflict. No agreement to a particular transaction, investigative standard, physical protection, academic remedy or treaty intervention is printed. The unlocated Azusa-plan line does not make her guilty. E015's misleading Hasumi pretext remains a counterweight to a clean procedural reading of adult care. Eleven singleton choices include silence, not branching authority. The canonical V003 C001 checkpoint treats this as an **unfulfilled but explicit role commitment**, with held-out response and operational capability untested (`NO_DIAGNOSTIC_OPPORTUNITY`).

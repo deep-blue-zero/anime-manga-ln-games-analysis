@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:016; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:017 unopened
+checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:003:001:017; MAIN_V003_C001 is latest canonical checkpoint; BA:main:003:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ Track only relationships or ensembles with actual narrative state. Co-occurrence
 
 ## Current boundary
 
-Through `BA:main:003:001:016` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:017` and the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
 
 | Relationship / ensemble | Current state | Last material transition | Confidence | Evidence |
 |---|---|---|---|---|
@@ -739,3 +739,12 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **HANAKO ↔ AZUSA:** Hanako recognizes Azusa's tentative fifth-rule recollection and asks whether she met Seia; Azusa says she only recalls hearing it. Hanako's `vanitas`/transfer thought remains unfinished, so neither contact nor hidden provenance is established. Their lobby watch exchange remains sparse.
 - **HIFUMI ↔ SENSEI/HANAKO:** Hifumi privately shares the discovered paper bundle with Sensei, infers deliberate failures and wonders why; Hanako is not present to answer. Hifumi's notice of Sensei's morning absence does not tell her about Mika.
 - **MIKA ↔ SENSEI:** Mika meets Sensei at the filled pool and says she wondered how they were doing. This is a check-in, not evidence of a new disclosure about Nagisa, Seia or the alleged traitor.
+
+## V003 C001 E017 relationship and checkpoint delta — allegiance tested
+
+- **MIKA ↔ SENSEI:** Mika says she independently came, reports initiating Sensei's teacher invitation and probes whether they accepted Nagisa's traitor request. Sensei refuses the hunt and declares alliance with students including Mika; she feels pleased yet questions whether “all students” makes concrete allegiance empty. Her Azusa-protection request has no printed acceptance or plan.
+- **MIKA ↔ NAGISA/AZUSA:** Mika says Nagisa opposed her invitation and does not know of this visit; she identifies Azusa as Nagisa's suspected target while wanting protection. This is an interested triangular account, not confirmed Nagisa knowledge or Mika–Azusa prior interaction.
+- **AZUSA ↔ SAORI/UNKNOWN:** an unlocated intercut shows silent named Saori, unknown voices asking about progress and Azusa saying the plan proceeds. No secure voice assignment to Saori, relationship type, plan content or chronology is supplied.
+- **HIFUMI ↔ GROUP:** absent from this scene; her E012 refusal to suspect classmates and E013–E016 study work remain intact, not knowledge of Mika's disclosure.
+
+The V003 C001 checkpoint is the canonical relationship synthesis. Readiness becomes 21 partial / 34 unmodeled across 55 with Saori's new minimal row.

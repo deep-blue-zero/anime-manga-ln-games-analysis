@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:016; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:017 unopened
+checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
+source_boundary: Sequential main-story reading through BA:main:003:001:017; MAIN_V003_C001 is latest canonical checkpoint; BA:main:003:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 ## Current boundary
 
-Through `BA:main:003:001:016` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:017` and the canonical `BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas.
 
 | Entity | Current state | Material evidence / transition | Confidence | Source |
 |---|---|---|---|---|
@@ -837,6 +837,15 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across
 - **Sensei/Mika:** Sensei hears the report and later meets Mika at the filled pool; Mika says she came to check how Sensei is doing. No intervention, swim or treaty intelligence yet.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Scene-1 labels conflict around the old-rule transition.
+
+## V003 C001 E017 character-state delta — Azusa named, protection asked
+
+- **Sensei:** explicitly rejects Nagisa's suspect-hunting proposal as outside their role, says they side with students including Mika, and asks her reason for naming Azusa. No actual protection method, exam intervention or proved neutral position under conflicting interests.
+- **Mika:** says Nagisa does not know her independent visit, claims she advocated Sensei's teacher invitation to secure a third party, names Azusa as Nagisa's purported traitor and asks Sensei to protect her. These are actor testimony, not independent facts about intelligence, Arius or her full motive.
+- **Azusa/Saori:** Azusa answers an unlocated unknown-speaker query that a plan is proceeding so far; the plan's aim, timing, relation to treaty and speaker identity remain unknown. Saori has a named silent cue and is newly tracked `UNMODELED`, not proven speaker of the `？？？` lines. Azusa's prior study/peer conduct remains real and guilt is unproved.
+- **Nagisa/Hifumi/Hanako/Koharu:** no direct appearance in the pool conversation/intercut (apart from Mika's references). Hifumi's own Nagisa directive, Hanako's score puzzle and Koharu's Hasumi claim remain separate.
+
+The canonical V003 C001 checkpoint reconciles these seventeen units without a traitor verdict or official second-exam outcome. Readiness: **21 `PARTIAL_MODEL` / 34 `UNMODELED` across 55**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C001 E015 character-state delta — Koharu's claimed mission and Hasumi's private call
 
