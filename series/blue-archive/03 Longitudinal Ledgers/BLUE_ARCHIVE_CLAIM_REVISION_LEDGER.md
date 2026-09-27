@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–009; BA:main:004:001:010 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–010; BA:main:004:001:011 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V004_C001_E009 active provisional; C001 E010 unopened
+current_sequential_boundary: MAIN_V004_C001_E010 active provisional; C001 E011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2409,3 +2409,7 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 ## V004 C001 E009 claim delta — rumor versus narrated incapacitation
 
 **BA-C001/C016 — QUALIFY:** Sensei's market reassurance to Kirino is choice-conditioned/incomplete, and an unknown smoker later incapacitates them; no attacker identity or wider protective-role conclusion follows. **BA-C008 — STRENGTHEN method:** Kirino's armed-wanderer theft story and schoolwide budget/munition shortage are reports; Sensei's `麻酔` is conjecture, whereas smoke inhalation and loss of consciousness are narrated. Do not equate the two `？？？` stretches or identify the late actor with the E008 leader. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No new tracked subject/readiness change: **21 partial / 75 unmodeled across 96**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E010 unopened.
+
+## V004 C001 E010 claim delta — captivity, deception and contested goods
+
+**BA-C001/C016 — REVISE/QUALIFY:** Sensei denies being RABBIT's commander but falsely advertises a wagyu bento to summon them; the supply purchase is one of two choice alternatives, not an enacted universal rescue ethic. **BA-C008 — STRENGTHEN method:** Decartes's food entitlement and property claim, Miyako's warning-shot/restitution account, and post-clash squad reports must remain distinct from narrated flight, apparent injury-free withdrawal and actual failure to take goods. The E009 smoker is still unidentified; the E008 leader link is contextual. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** Decartes enters narrow UNMODELED coverage: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E011 unopened.

@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–009; BA:main:004:001:010 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–010; BA:main:004:001:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1685,3 +1685,9 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Kirino:** combines actual patrol talk with local food-stall enthusiasm, asks whether RABBIT harmed Sensei, offers ongoing Valkyrie help, relays armed-wanderer/scrap-theft rumor and school budget strain. Transfer to Security remains a hope.
 - **Sensei:** gives choice-conditioned reassurance to Kirino, finishes shopping, is confronted by a distinct unidentified speaker, inhales smoke and loses consciousness by narration. The `麻酔` thought is a conjecture; captor, destination and medical condition beyond unconsciousness are unknown.
 - **RABBIT / unidentified alley group:** neither appears directly. Rumor and chronological proximity to E008 do not identify the armed wanderers or smoker with either group.
+
+## V004 C001 E010 character-state delta — Decartes, lure, withdrawal
+
+- **Decartes:** self-identifies as 所確幸 leader, claims RABBIT depleted discarded meals, holds Sensei, demands future yakiniku boxes and mobilizes armed associates. After a skipped clash, reports burned possessions and protests taking supplies despite non-possession doctrine. The E008 alley leader connection is strong but not directly self-cross-referenced; E009's individual smoker remains unidentified.
+- **Sensei:** explicitly rejects Decartes's subordinate framing for RABBIT, uses a nonexistent wagyu bento as a rescue lure, and later has mutually exclusive supply-purchase / leave-goods choice text. Declines Decartes's invitation.
+- **Miyako / Saki / Miyu / Moe:** answer the food lure, coordinate and survive the local clash by their report; Miyako considers goods as compensation, then directs departure without taking them. Saki and Miyu choose withdrawal, Moe is disappointed by the false meal. Injury and property audits remain absent.

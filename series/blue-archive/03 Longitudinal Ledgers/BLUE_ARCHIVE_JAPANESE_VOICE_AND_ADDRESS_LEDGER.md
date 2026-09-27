@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–009; BA:main:004:001:010 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–010; BA:main:004:001:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1718,3 +1718,9 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 - Opening `？？？` at `scene:001:u:0003` resolves immediately to Kirino. Her `本官` civic formality coexists with detailed cutlet/croquette enthusiasm and a cut-off `グル……` before correcting to `パトロール` (`u:0004-0010/0038-0040`). Do not over-read a complete food-tour confession.
 - Her `噂` about `武装した放浪者集団` and alleged bay scrap theft is explicitly secondhand (`u:0022-0027`); Sensei's `多分違うはず` does not identify the true referent. `警備局に転科できるかもしれません` is hope, not granted status (`u:0030-0037`).
 - Late `？？？` addresses Sensei formally and asks them to follow; Sensei's `これ、麻酔……！？` is inward guess, while narrator describes smoke inhalation and consciousness loss (`u:0042-0050`). The opening Kirino `？？？` must not be conflated with this speaker. No performed voice admitted.
+
+## V004 C001 E010 voice delta — non-possession rhetoric and attribution anomaly
+
+- Decartes supplies the full name `所有せずとも確かな幸せを探す集い` / `所確幸`; `無所有` rhetoric and desire for rare yakiniku boxes coexist rather than harmonize. The formal claim of Sensei as an outside-Kivotos guest is a speaker claim (`scene:001:u:0001-0033`).
+- Sensei's paired `scene:001:choice:008` denies `部下` and frames RABBIT as students; Decartes persists in assuming teacher command. The wagyu-bento phone line is a deliberate false lure confirmed after arrival (`u:0052-0071`).
+- `scene:002:u:0037` is tagged Decartes yet reads `私たちは傭兵ではなく、SRTですから`, semantically in RABBIT's voice. Preserve the source tag and quarantine exact attribution. Paired `scene:002:choice:004` alternatives are not both enacted. No performed voice admitted.

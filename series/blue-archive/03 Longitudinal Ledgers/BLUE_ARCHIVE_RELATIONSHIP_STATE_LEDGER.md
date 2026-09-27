@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–009; BA:main:004:001:010 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–010; BA:main:004:001:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1311,3 +1311,7 @@ Saki attacks Miyako's federally appointed captaincy, takes temporary command and
 ## V004 C001 E009 relationship delta — Kirino offers help, unknown actor intervenes
 
 Kirino checks whether released RABBIT students have harmed Sensei and offers 24-hour Valkyrie contact if needed; she admires Sensei on the basis of their constrained reassurance. The four students do not speak and no relationship repair is shown. A later unknown speaker targets Sensei by name and releases smoke; this establishes an adversarial contact but not their relation to RABBIT, the E008 neighbors or Kirino. Sensei is unconscious at the cut; no ally response is printed.
+
+## V004 C001 E010 relationship delta — coercion, coordination, refusal
+
+Decartes treats Sensei as an instrument to control RABBIT, while Sensei says the students are not subordinates. Miyako and Saki initially dismiss a stranger's phone claim, then the food lure brings the squad; this does not prove foreknowledge of Sensei's safety. The squad coordinates under threat and reports no injuries. Miyako initially seeks compensation in goods, but Saki/Miyu opt to leave and Miyako orders no spoils. Sensei's offered purchase is choice-conditioned and declined; RABBIT's resistance to adult financial support remains local and unresolved. Decartes's invitation is refused.

@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–009; BA:main:004:001:010 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–010; BA:main:004:001:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1117,3 +1117,7 @@ Sensei accompanies the port attempt, questions taking drums rather than asking, 
 ## V004 C001 E009 delta — reassurance amid imperfect knowledge
 
 Sensei meets Kirino while shopping and gives either hesitant `大丈夫` or `みんな良い子` reassurance about RABBIT, then explicitly says not everything is going well (`scene:001:choice:003-004`). This does not resolve E008's privacy breach, mine risk or port conflict; Kirino's praise is her appraisal. Sensei hesitates over a separate armed-wanderer rumor without securely identifying its referent. After leaving, an unknown actor's smoke causes narrated unconsciousness (`u:0041-0049`). Adult vulnerability is direct, but no rescue or causal tie to a known group is shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E010 unopened.
+
+## V004 C001 E010 delta — resisting command framing, using a false lure
+
+Sensei is Decartes's hostage and explicitly distinguishes RABBIT students from subordinates (`scene:001:choice:008`). With the squad dismissing the captor's call, Sensei knowingly claims a nonexistent wagyu-steak bento and draws them into armed contact (`scene:001:u:0039-0090`). This is a local tactical deception with risks, not transparent protection. After combat, the choices offer either personal purchase of sheets or an instruction to leave goods; they are alternatives, not jointly enacted. Miyako refuses help and the squad leaves without spoils (`scene:002:choice:004;u:0045-0058`). Sensei declines Decartes's invitation. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E011 unopened.

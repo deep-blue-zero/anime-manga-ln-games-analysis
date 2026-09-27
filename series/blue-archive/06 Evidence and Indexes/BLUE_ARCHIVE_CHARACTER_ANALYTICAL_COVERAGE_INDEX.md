@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_E001_E009
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_E001_E010
 generation: V1
-version: "2.49"
+version: "2.50"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C004 through checkpoints, then BA:main:004:001:001–009 provisionally; 185/310 main units; side-source classes unreviewed; BA:main:004:001:010 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C004 through checkpoints, then BA:main:004:001:001–010 provisionally; 186/310 main units; side-source classes unreviewed; BA:main:004:001:011 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:004:001:010
+next_unopened_main_unit: BA:main:004:001:011
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:004:001:010
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V004_C001_E009` provisional boundary, inheriting canonical `MAIN_V003_C004`:
+This index answers four questions at the `MAIN_V004_C001_E010` provisional boundary, inheriting canonical `MAIN_V003_C004`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025, V003 C004 E001-E027 and V004 C001 E001-E009;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025, V003 C004 E001-E027 and V004 C001 E001-E010;
 - current checkpoint: `MAIN_V003_C004`; prior C001/C002/C003 checkpoint basis remains lineage;
-- main-story coverage: `185 / 310` canonical units;
+- main-story coverage: `186 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:004:001:010`.
+- next unopened main unit: `BA:main:004:001:011`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,16 +74,17 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` through V004 C001 E009; Kirino reassurance then smoke-induced unconsciousness, assailant unknown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` through V004 C001 E010; Decartes hostage, student-not-subordinate distinction, false food lure and choice-conditioned supply offer | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Decartes | `ANALYZED` in V004 C001 E010; names 所確幸, claims food loss, holds Sensei and contests goods after battle | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sora | `ANALYZED` in V004 C001 E006; receives squad at Schale and describes discarded-food disposal arrangement | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kaya | `ANALYZED` through V004 C001 E004; describes federal structure/SRT history and offers conditional RABBIT discretion | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kanna | `ANALYZED` through V004 C001 E003; Public Security command and GSC sanction forecast, no decision | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kirino | `ANALYZED` through V004 C001 E009; market patrol, food interest, armed-wanderer rumor and budget report | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Fubuki | `ANALYZED` through V004 C001 E003; Miyu interviewer; fears clarified, Life Safety suggestion declined | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Saki | `ANALYZED` through V004 C001 E008; takes command, rescues Miyu and returns under fire, theory gap visible | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Moe | `ANALYZED` through V004 C001 E008; monitors port and readies bath, receives unexecuted missile order | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Miyako | `ANALYZED` through V004 C001 E008; cedes command, rescues Miyu, completes bath and objects to Sensei | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Miyu | `ANALYZED` through V004 C001 E008; isolated on crane, directly rescued, bath completed | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Saki | `ANALYZED` through V004 C001 E010; coordinates armed encounter, reports suppression and opts to leave goods | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Moe | `ANALYZED` through V004 C001 E010; reports phone trace, answers false food lure and requests vehicle | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Miyako | `ANALYZED` through V004 C001 E010; faces Decartes, proposes compensation then orders withdrawal without goods | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Miyu | `ANALYZED` through V004 C001 E010; notes opposing weapons, reports snipers neutralized and finds camp gear | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Seia | `ANALYZED` through C004 E027; reports prophetic-dream loss as deal price, last vision withheld | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Koharu | `ANALYZED` through C004 E026; quietly sends preserved Mika accessories via Ichika | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hanako | `ANALYZED` through C004 E026; finds damaged ancient catacomb map with Ui, restoration unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -178,6 +179,7 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | Subject | State / development | Decision path | Directed relationships | Institution / role | Ordinary life | Written Japanese | Crisis / pressure | Negative constraints |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | Sensei | H for structural changes; private biography GAP | H within declared choice families | M | H | L | SPECIAL | H | H |
+| Decartes | L; one captor-to-defeated-leader sequence | M; hostage demand, armed order, ownership protest | L; Sensei and RABBIT as opponents | L; claims 所確幸 leadership, membership not audited | L; discarded-food preference | M; formal non-possession rhetoric under material desire | M; hostage and local defeat | H; E008 identity link contextual, E009 smoker unknown, legal title and private baseline absent |
 | Sora | L; welcoming contact and waste-handling explanation | L; offers collected goods, seeks clarification | L; Sensei by report, RABBIT in person | L; Schale office service role, title unaudited | L; low traffic and disposal routine | L; polite service register | L; notices Moe's condition | H; role scope, food safety, private baseline and repeated decisions absent |
 | Kaya | L; institutional briefing and policy pivot | M; asks transfer then offers Sensei discretion | L; Sensei/Kanna, Rin by report | M; GSC Defense Office, actual remit unaudited | GAP | M; formal exposition/casual principle dismissal | M; pending sanction | H; underlying records, formal authority, implementation and private baseline absent |
 | Kanna | L; dismissive-to-thanking arc, now forecasts sanction | M; changes local command choice, questions Saki | L; Sensei/Life Safety/Saki | M; Public Security command, GSC remit reported | GAP | M; threat/formal register | M; command and interview | H; actual award, sanction, law and private baseline unverified |
@@ -281,6 +283,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Subject | Knowledge/state clarity | Public/private and relationship breadth | Humor/play coverage | Diagnostic current routes |
 |---|---|---|---|---|
 | Sensei | structural choice/`心の声` distinction persists; C003 E003 hypothetical motives and two-option trust choice do not verify Mika's heart | Hifumi credits local command; Mika reports refused visits; trust is future-facing; E008 bath presence breaches explicit privacy boundary | Care/play, ethical objection, club-protection and responsibility under uncertainty | P; C1 E005/E013; C2 E012/E016/E017/E020; V002 C1 E010/E012/E013/E019; V002 C2 E002-E003/E009-E012; V003 C002 E007-E019; C003 E001-E003 |
+| Decartes | Names 所確幸 and says RABBIT consumed its meal supply; neither claim proves entitlement | Sensei/RABBIT only as adversaries; group relation asserted | Rhetorical contradiction is not a full comic or private profile | V004 C001 E010 `scene:001:u:0001-0090`; `scene:002:u:0001-0067` |
 | Sora | Expects Sensei-referred disposal helpers and notices Moe looks unwell | Only one RABBIT encounter, Sensei off-page | No hobby/private humor beyond service exchange | V004 C001 E006 `scene:002:u:0118-0134` |
 | Kaya | Gives Administrative Committee/`統括室` map, FOX account and SRT exception | Courts Sensei's assistance; RABBIT students absent | `u:0057` self-address and response to inward thought limit exact dialogue | V004 C001 E003; E004 `scene:001:u:0001-0068` |
 | Kanna | Kanna reads claimed GSC scores, closure and sanction route; no files shown | Sensei cooperation; Saki interrogation, Life Safety revised judgment | `狂犬` is self-invoked reputation, not verified conduct | V004 C001 E002; E003 `scene:002:u:0002-0033`; `scene:003:u:0002-0010` |
@@ -382,6 +385,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Subject | Current readiness | Standalone model | Strongest currently supported use | Material blockers |
 |---|---|---|---|---|
 | Sensei | `PARTIAL_MODEL` | `NONE` | local support and choice-conditioned help, with E008 privacy counterexample | Teaching causality, consent/privacy boundaries, accountability handling and broader protection open. |
+| Decartes | `UNMODELED` | `NONE` | situated non-possession rhetoric, hostage coercion and ownership objection | One conflict, no independent entitlement audit, private or ordinary baseline, and exact E008/E009 identity split unresolved. |
 | Sora | `UNMODELED` | `NONE` | one Schale food-disposal/service interaction | Food safety, service authority, recurring conduct and private baseline unverified. |
 | Kaya | `UNMODELED` | `NONE` | federal briefing and conditional disposition offer | No inspected mandate, FOX file, formal order, decision outcome or private baseline. |
 | Kanna | `UNMODELED` | `NONE` | field command, rank appraisal and local reversal | Official file, sustained judgment, private baseline and custody outcome absent. |
@@ -487,6 +491,7 @@ The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Mo
 | Subject | Institutional / professional | Familiar ordinary interaction | Friendship / care in evidenced relations | Conflict / high-stakes decisions | Written-register constraints |
 |---|---|---|---|---|---|
 | Sensei | P (structural) | U | P (structural) | P (choice-conditioned) | U (persona space requires separation) |
+| Decartes | U | U | U | U | U |
 | Sora | U | U | U | U | U |
 | Kaya | U | U | U | U | U |
 | Kanna | U | U | U | U | U |
@@ -1538,3 +1543,9 @@ Routing: [V004 C001 E008 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_
 Kirino gains one ordinary food-stall/patrol sample and describes a secondhand armed-wanderer/bay-scrap rumor plus Valkyrie funding strain; none is a verified suspect or budget record. Her hope of Security transfer is still not an award. Sensei's paired reassurance about RABBIT is bounded, and a **different unidentified speaker** later releases smoke; narration confirms Sensei loses consciousness, while `麻酔` is only Sensei's inward guess. No new named subject/readiness promotion: **21 `PARTIAL_MODEL` / 75 `UNMODELED` across 96**, none operational/validated. No standalone model, frozen prediction, new durable claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E010 unopened.
 
 Routing: [V004 C001 E009 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E009_DEEP_READING.md) → `BA:main:004:001:009`, one scene, 49 visible numbered units and ten Sensei choice groups (two paired). Coverage is **185 / 310**.
+
+## 159. V004 C001 E010 provisional coverage delta
+
+Decartes names the 所確幸 group and claims RABBIT depleted its discarded meals, then treats Sensei as a hostage to extract promised yakiniku boxes. The E008 alley leader connection is contextual; the E009 smoke releaser remains unidentified. Sensei denies command over the students but knowingly uses a nonexistent wagyu bento to summon them. After a skipped fight, participant reports describe opposition suppressed or fled and RABBIT unharmed; the fire cause, casualties, initial warning shots and ownership are not independently verified. The squad considers taking supplies, then leaves without them. The purchase/no-seizure choice alternatives must remain distinct. Decartes enters narrow `UNMODELED` coverage: **21 `PARTIAL_MODEL` / 76 `UNMODELED` across 97**, none operational/validated. No standalone model, frozen prediction, new durable claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E011 unopened.
+
+Routing: [V004 C001 E010 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E010_DEEP_READING.md) → `BA:main:004:001:010`, two scenes, 157 visible numbered units and 22 Sensei choice groups (four paired). Coverage is **186 / 310**.

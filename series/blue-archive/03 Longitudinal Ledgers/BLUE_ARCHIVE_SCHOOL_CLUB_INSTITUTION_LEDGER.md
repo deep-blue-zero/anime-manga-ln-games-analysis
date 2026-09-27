@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–009; BA:main:004:001:010 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–010; BA:main:004:001:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1027,3 +1027,7 @@ The squad reaches D.U. port after monitoring shifts and claims scheduled-disposa
 ## V004 C001 E009 institutional delta — policing rumor and resource report
 
 Kirino says Valkyrie left RABBIT follow-up to Schale, consistent with E004–E005 local disposition but still her report rather than the written order. She patrols a market, relays citizen worries about armed itinerants and an alleged bay scrap theft; no arrest, identity or audited complaint follows. She reports Valkyrie financial strain even for ammunition and notes Life Safety's ordinary remit does not include criminal suppression; the budget/remit documents are not inspected. Her Security transfer remains unawarded. An unknown smoke attack incapacitates Sensei outside the public conversation, with no jurisdictional handoff yet.
+
+## V004 C001 E010 institutional delta — 所確幸's resource and property claims
+
+Decartes names a non-possession group, claims RABBIT has depleted its discarded meals and demands reserved yakiniku bento. This identifies an organized local competitor, not a verified allocation regime. Decartes holds Sensei and deploys armed members; after unshown combat, participants report suppressed snipers, fleeing members and a burned hideout, without casualty or fire-cause audit. RABBIT discovers stored expensive tins and camp gear, briefly proposes seizure as compensation, then leaves without goods. Miyako's first-warning-shots account is retrospective; legal ownership, restitution and food access remain unsettled. The SRT-versus-mercenary line has suspect speaker attribution.
