@@ -4,7 +4,7 @@ artifact_id: MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V09 only; prior history preserved, V09 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V10 only; prior history preserved, V10 updates; publication/audit separate."
 ---
 
 # Chronology and knowledge ledger
@@ -307,3 +307,44 @@ Prior V01–V08 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-K-106` Morning accounts | Rudy reports recovery and inadequate care; Sylphiette reports pain, happiness and useful support but uncertain equality. |029/032; distinct dimensions, no long-term clinical/ethical certification. |
 | `MT-K-107` Earlier rescue | Sylphiette retrospectively confirms accidental garment fall, initial expectation of competence and later intervention. |031; deliberate resilience-test description unwarranted. |
 | `MT-K-108` Eris/Nina | Eris's Rudy ideal persists; Nina misreads students and duel conditions but changes practice. |033–035; Eris not shown knowing his rejection story; future rivalry not achieved now. |
+
+
+## V10 updates — 2026-09-26 UTC
+
+Prior V01–V09 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V10; immutable input audited V09 `40018b5caedfba456da199ed2fea613ec991015a`. Observation suffixes resolve in [V10](../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V10-`. The [V01–V10 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) owns cumulative review. Revealed earlier events, present changes and explicit prolepsis retain different times. Draft acceptance, publication/audit and main integration remain separate.
+
+| Chronology | Order / anchor | V10 observation and limit |
+| --- | --- | --- |
+| `MT-T-053` | Recovery resolve → Ariel audience/marriage declaration → house investigation/renovation; Rudy states sixteen second-life years; roughly three weeks to household discussion. |001–008; age/history distinct, surprise framing does not replace event order. |
+| `MT-T-054` | Reception/kinship/duel → two months married and new school year, Rudy second year; Juli roughly one year since purchase. |011–016; explicit relative markers, no forced reconciliation of all earlier school intervals. |
+| `MT-T-055` | Letter received → a month later major experiment → roughly week of care → redesign and later successful test. |017–021; no precise calendar constructed by adding every summary. |
+| `MT-T-056` | Celebration → sisters arrive that night, about a month after letter and earlier than forecast → next-day escort departure. |022–026; actual arrival overrides expectation, not retroactive certainty at sending. |
+| `MT-T-057` | Extra returns roughly one year before Rudy receives letter, to East Port delegation/escort origin. |030–034; sisters nine at letter sending, anticipated ten; Rudy fifteen at sending and predicted16/17 at receipt are Paul's time-relative claims, not uniform present ages. |
+| `MT-T-058` | Eris interlude: half-year solitary routine and three-year separation references; narrator announces North Saint recognition one year later. |027–029; future fact explicitly narrated in V10, separate from main present and character knowledge. |
+| `MT-T-059` | Edition paratext: electronic2016-03-25, print-basis2016-03-31; OPF literal2016-03-25T04:00:00+00:00. |Reading A/C, colophon spine27p5–9; publication timing is not story chronology or independent WN admission. |
+
+| Knowledge | Holder and change | V10 observation / provenance limit |
+| --- | --- | --- |
+| `MT-K-109` Marriage/service | Rudy declares marriage, Sylphie accepts while retaining Ariel service; patronage replaces formal subordination. |002; no automatic agreement to later protective plans. |
+| `MT-K-110` House/response | Rudy consults friends but avoids future wife, imagines anger; external sentence gives anticipation, she later reveals already knowing surprise. |003/007; his imagined response not her actual state. |
+| `MT-K-111` Automaton | Team reclassifies attacker after actual spell/attack results; workshop supports layered mechanism inquiry. Former-owner account remains hypothesis. |004–006; later quiet establishes operational result, not all reconstructed history. |
+| `MT-K-112` Performed narration | Renovation account with apparently external ascriptions is revealed as Rudy performance. |007; do not elevate that segment's every thought attribution to independent omniscience. |
+| `MT-K-113` Known boundaries/harm | Sylphie states public-touch limit, Rudy apologizes then repeats; his first-night reappraisal expressly acknowledges serious harm. |007–010/015/018; knowledge available without consistently governing action; V09 freeze unchanged. |
+| `MT-K-114` Former world | Sylphie asks about earlier world; Nanahoshi supplies false explanation, Rudy avoids full clarification. |011; no informed spouse knowledge inferred from the question or later affection. |
+| `MT-K-115` Kinship/history | Sylphie recognizes grandmother from family testimony; Elinalise later reports stigma, raising/withdrawal history. |012; private exchange unheard, self-blame not deserved persecution. |
+| `MT-K-116` Duel/protection | Safety terms disclosed but purpose initially withheld; Ariel/Luke care interpretation displaces Rudy's rivalry assumption. Ariel prevention plan discussed without Sylphie. |013; later explanation not prior shared purpose, Rudy counterplan remains private. |
+| `MT-K-117` Cliff appraisal/theory | Rudy expects rejection after kinship disclosure; Cliff instead renews care/research, proposes curse/item analogy. |014; imagined rejection false as observed outcome, theory not cure. |
+| `MT-K-118` Reciprocal learning | Partial disruption learning and Rudy healing failure observed; explanation through missing recipient sensation is his hypothesis. |016; no established universal reincarnation limit or complete mastery. |
+| `MT-K-119` Family letter | Rudy learns planned sister transfer, risk reasoning and rescue prospects; shares letter/asks Sylphie household agreement. |017–018; unlocated escort initially guessed, Zenith not rescued by receiving news. |
+| `MT-K-120` Failure/safety | Nanahoshi safety theory given, Rudy cannot assess; actual experiment fails, she initially concludes return impossible. |019; failure, safety-trigger explanation and universal impossibility have different warrant. |
+| `MT-K-121` Care/interpretation | Rudy guesses resilience/solitude needs; friends supply different practical observations; Zanoba admits not fully understanding. |020; no professional diagnosis or universal care prescription. |
+| `MT-K-122` Design revision/result | Known gap disclosed; several contributors produce layered circle; PET bottle appears. |021; successful material test not human transfer, catastrophe solution or all safety proven. |
+| `MT-K-123` Celebration | Intoxicated Sylphie speech interpreted by Rudy; Nanahoshi complaint interrupted and intended thanks guessed. |022; alcohol not truth guarantee or established mental-health remedy; complaint not completed resolution. |
+| `MT-K-124` Eris explanation | Ruijerd tentatively proposes misunderstanding; Rudy now imagines intended training but lacks confirmation. |023; reader already knew more, possibility not received actual Eris message. |
+| `MT-K-125` Arrival/capacity | Rudy learns Aisha overnight planning after initially reading laziness; girls exhausted, Ruijerd contribution causal. |024; cleverness not complete self-care; Roxy fear here reported, direct access follows extra. |
+| `MT-K-126` Old tension | Ruijerd discomfort and Badigadi encounter prompt detailed Rudy conjecture; direct facts remain sparse. |025; no invented revenge/atrocity history or definite Eris cause. |
+| `MT-K-127` Norn trust | Ruijerd says she heard/understood Rudy hardships, yet she states distrust; extra supplies feared loss of father and learned alcohol fear. |026/030–032; no violence by Paul against Norn claimed; child/father exception remains her appraisal. |
+| `MT-K-128` Roxy correction | Previously heard escort information initially fails to guide feared-identity appraisal; Lilia connection enables recognized mistake. |033–034; fear persists after factual correction, duty acts despite it. |
+| `MT-K-129` Historical access/prolepsis | Ruijerd reflects on son with explicitly unknown method; Paul weighs reports and Norn visible reliance; Gal explains curriculum and narrator supplies future certification. |029/032/034; conjecture, direct interiority, testimony and narrated future kept distinct; none automatically Rudy knowledge. |
+
+Preserve earlier interval tensions and the distinction between physical age, remembered biography, social treatment and demonstrated judgment. No later witness is needed to record V10's own explicit prolepsis. Its future time does not make the announced result a current capability.

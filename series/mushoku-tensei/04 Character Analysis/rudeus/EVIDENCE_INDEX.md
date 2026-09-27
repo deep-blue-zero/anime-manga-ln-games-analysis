@@ -1,18 +1,18 @@
 ---
-title: "Rudeus — reconstruction evidence routes through V09"
+title: "Rudeus — reconstruction evidence routes through V10"
 artifact_id: MT_RUDEUS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "210894fd2b5894b7e499bab80251e8f5ea761138"
-source_boundary: "Japanese LN through V09; preserved history and V09 revision 1.6; publication/audit separate."
+basis_commit: "40018b5caedfba456da199ed2fea613ec991015a"
+source_boundary: "Japanese LN V01–V10; V10 revision 1.7, historical routes preserved."
 ---
 
 # Evidence routes for the bounded Rudeus model
@@ -33,7 +33,7 @@ This index maps rules to canonical observations; it owns no source transcript or
 
 Full meanings and revision histories reside in the [claims](../../03%20Longitudinal%20Ledgers/MT_CLAIMS_AND_REVISIONS_LEDGER.md), [state](../../03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md), [relationship](../../03%20Longitudinal%20Ledgers/MT_RELATIONSHIP_AND_AGENCY_LEDGER.md), [normative](../../03%20Longitudinal%20Ledgers/MT_NORMATIVE_FRAMING_LEDGER.md), [knowledge](../../03%20Longitudinal%20Ledgers/MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER.md) and [form](../../03%20Longitudinal%20Ledgers/MT_FORM_THEMES_AND_WORLD_LEDGER.md) ledgers. Source hashes, paragraph-map identity and coverage are owned by the [source lock](../../01%20Source%20Lock%20and%20Inventory/MT_SOURCE_LOCK_AND_INVENTORY.md).
 
-No claimed holdout is clean of prior franchise exposure. V03 observations are newly inspected primary evidence, but the model is fitted after inspection. Generated examples, future identities and external summaries are excluded. Monograph and optional focused state history are not yet created; the shared ledger remains the sole owner of observed state chronology.
+No claimed holdout is clean of prior franchise exposure. V03 observations are newly inspected primary evidence, but the model is fitted after inspection. Generated examples, future identities and external summaries are excluded. The [V01–V10 monograph](CHARACTER_MONOGRAPH.md) now owns the cumulative character argument. Optional separate state history remains unnecessary; the shared ledger remains the sole owner of observed state chronology.
 
 ## V04 additions for revision1.1
 
@@ -124,3 +124,7 @@ New selectors ST21–26 map to shared S098–103. Prior test IDs V01–30 and ea
 | RM-V45 / absent exact triggers | V09 contains no counterpart of V03 trapped Eris-return flood or a new shared Ruijerd decision. | 006/007 UNTESTED; recollected influence cannot be scored as a new interaction. |
 
 New selectors: ST27 (S114), ST28 (S115), ST29 (S116), ST30 (S117), ST31 (S118), ST32 (S119), ST33 (S120). Prior test/evidence routes remain historical. No DOMAIN_READY or global registry change.
+
+## V10 additions — revision 1.7
+
+[V10 observations](../../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings) `001–010/013/015–026` support new selectors ST34, ST35, ST36, ST37 / shared S134–136 and tests V46, V47, V48, V49, V50, V51, V52. Current rule/state/test counts are in the model; earlier counts above are historical. The [cumulative checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) assesses narrow untested triggers, countercases and activation. No global enrollment or clean holdout.

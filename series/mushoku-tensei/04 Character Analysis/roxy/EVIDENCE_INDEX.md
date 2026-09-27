@@ -1,18 +1,18 @@
 ---
-title: "Roxy — reconstruction evidence routes through V06"
+title: "Roxy — reconstruction evidence routes through V10"
 artifact_id: MT_ROXY_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "3dc6b173b044abdafc013dc989bd96914620d13d"
-source_boundary: "Japanese LN V01–V06; preserved history with V06 revision 1.1; publication/audit separate."
+basis_commit: "40018b5caedfba456da199ed2fea613ec991015a"
+source_boundary: "Japanese LN V01–V10; preserved history and V10 revision 1.2; publication/audit separate."
 ---
 
 # Roxy evidence routes
@@ -38,3 +38,7 @@ Initial tests are retrospective fitting, no clean holdout; no DOMAIN_READY, matu
 New source-owned observations resolve in [V06](../../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings): `007,009,027–028`. The [disclosure checkpoint](../../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) records changed knowledge premises. Operational tests `V06–08; state ST05/S075` are in the model's V06 section; its rule-specific rows give supporting observations and countercases. Earlier routes and tests remain historical, not a current evidence ceiling.
 
 The new source is read after the prior fixed rules, but selection and franchise familiarity prevent a clean holdout claim. Attributed claims, retrospective motives and current actions remain separate; no generated scenario enters evidence. All readiness stays BOUNDED_PROVISIONAL, with no global enrollment or mature monograph.
+
+## V10 additions for revision 1.2
+
+Source-owned observations in [V10](../../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings): `030,033–034`. The [V01–V10 checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) separates new source access from event time. New selectors ST06 and tests V09, V10, V11 reside in the model; shared states S152 own the longitudinal changes. Rule-specific applicability and untested triggers are stated there. Earlier routes/tests remain preserved. BOUNDED_PROVISIONAL; no clean holdout or global enrollment.

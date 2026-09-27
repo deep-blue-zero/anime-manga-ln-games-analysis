@@ -4,7 +4,7 @@ artifact_id: MT_FORM_THEMES_AND_WORLD_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V09 only; prior history preserved, V09 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V10 only; prior history preserved, V10 updates; publication/audit separate."
 ---
 
 # Form, themes, and world ledger
@@ -261,3 +261,30 @@ Prior V01–V08 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-W-022` NEW |Sword Sanctuary practical doctrine challenges ritual prerequisites and awards rank by demonstrated outcome.|033–035; formal status does not certify every technique or moral restraint. |
 
 V09 requires the targeted disclosure/recovery checkpoint; the cumulative V01–V10 review remains due only after V10 reading. Existing six-ledger architecture suffices. No adaptation, WN, external science or reception lane is admitted.
+
+
+## V10 updates — 2026-09-26 UTC
+
+Prior V01–V09 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V10; immutable input audited V09 `40018b5caedfba456da199ed2fea613ec991015a`. Observation suffixes resolve in [V10](../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V10-`. The [V01–V10 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) owns cumulative review. Revealed earlier events, present changes and explicit prolepsis retain different times. Draft acceptance, publication/audit and main integration remain separate.
+
+| Stable record / disposition | V10 mechanism and variation | Observations / evidential limit |
+| --- | --- | --- |
+| `MT-F-001/009/016/024` REVISE | Rudy's imagined disappointed fiancée is externally corrected; his former-world explanation conceals relevant information; the late extra gives Norn and Roxy access absent from his reunion account. |003/011/023/026/030–034. Independent access corrects particular propositions, not every focalizer's belief. |
+| `MT-F-002/007/027` REVISE | Domestic ellipses, letter travel, research crisis, present delivery and earlier escort origin organize several temporal scales; Eris's final certification lies in explicit narrated future. |015/017–026/027–034. Story time, disclosure order and character knowledge remain separate. |
+| `MT-F-003/005/013` REVISE | The purchased house becomes a place of work, hospitality, care and unequal belonging, then receives children whose safety judgments differ. |003–009/015/018/020/024–026. Ownership of property does not establish freedom or trust for every resident. |
+| `MT-F-004/020/026` STRENGTHEN | Haunted-house inquiry, renovation, reciprocal lessons and summoning redesign require different contributions; a supposedly subordinate pupil supplies the useful architecture. |004–007/016/020–021. Productive division of labor leaves Juli's ownership and the master's authority visible. |
+| `MT-F-006/010/021/025` REVISE | Domestic jokes and party pleasure coexist with Rudy's harsher first-night reappraisal, renewed boundary violation and an interrupted grievance. |009–011/015/022. Comic framing cannot supply consent, completed hearing or universal audience response. |
+| `MT-F-008/011/019` REVISE | The intended house surprise is already known; the duel withholds its operative purpose; false accounts, tact and private speech have distinct audiences. |003/007/011–013. A welcome result does not retroactively create consultation; privacy need not be classified as dishonesty. |
+| `MT-F-012/015/017/018` REVISE | Gratitude and continued help diverge at the research celebration; honest incomprehension can comfort, and a child's requested touch has specific terms. |008/014/020–023/031–034. Embodied support and affection do not establish general access or resolve absent-person repair. |
+| `MT-F-023` STRENGTHEN | Useful action can coexist with incomplete or mistaken appraisals: the automaton, crisis response, escort decisions and Roxy's intervention. |004–005/019–021/030–034. Subsequent success does not verify every original theory. |
+| `MT-F-028` NEW | Renovation imitates an external documentary presentation before identifying Rudy as the performer; the apparent change of voice is itself characterization. |007; strong formal inference. Separate this performance from the brief actual external correction in003 and the extra's independent focalization. |
+| `MT-F-029` NEW | A discovered object's layered design returns as the conceptual resource for a different research problem, joining household and laboratory plots through a contributor's memory. |006/021; high confidence in the stated connection. The successful bottle test is bounded material proof, not a human-transfer demonstration. |
+| `MT-F-030` NEW | Late retrospective access reopens a present family-arrival ending by supplying Norn's fear history and the uncertain process behind a fulfilled escort. |024–026/030–034; strong structural inference. Delivery is completed; trust in the recipient remains a different question. |
+| `MT-W-001/005/021/022` REVISE | A failed exorcism changes classification; layered circles enable one successful summoning; Gal explains cross-style training after Eris's dangerous encounter. |004–006/016/021/027–029. Witnessed effects, engineering hypotheses, curriculum rationale and promised rank remain distinct. |
+| `MT-W-003/008/009` REVISE | Norn's new experience, Roxy's inherited Superd stories and private kinship stigma give different routes from social history to present fear and action. |012/026/030–034. Corrected belief need not eliminate fear; no species-wide psychological law is inferred. |
+| `MT-W-004/010/015` REVISE | Housing negotiation uses feared patrons; marriage preserves chosen service; hospitality combines class access, adaptable ceremony and household finance. |002–003/007–009/011–013/015/018. Local custom and participants' explanations do not establish complete legal codes. |
+| `MT-W-006/012/019` REVISE | Correspondence and caravan planning mediate family movement while Zenith's rescue and the catastrophe mechanism remain unresolved. |017/023–026/030–034. A report, forecast, pledge and completed arrival have different evidential force. |
+| `MT-W-017/018/020` REVISE | Cliff proposes a curse-related mechanism without a cure; Nanahoshi's failed experiment exposes a design gap, then a collaborative redesign succeeds with an object. |014/019–022. Safety reasoning and total-return impossibility are attributed judgments; no clinical, cosmological or human-return guarantee follows. |
+| `MT-W-023` NEW | The automaton and workshop supply observed artifact behavior and a plausible history assembled from traces; the creator's fate and full mechanism are reconstructed rather than witnessed. |004–006; observed attack/quiet and technical examination stronger than every historical conjecture. Later use of the architecture does not certify the entire reconstruction. |
+
+The cumulative checkpoint now owns the V01–V10 comparison. No independent form/world specialist is added because these mechanisms remain adequately owned here and in the checkpoint. The Rudeus monograph uses the same evidence for a character-specific argument rather than acquiring authority over world rules. Edition illustrations and paratext remain at the reading's inspected scope; author-profile remarks about work and marriage are not a verdict on every household act.

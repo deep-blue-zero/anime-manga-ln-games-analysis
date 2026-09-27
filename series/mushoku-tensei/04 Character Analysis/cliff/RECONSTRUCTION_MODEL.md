@@ -1,24 +1,24 @@
 ---
-title: "Cliff — bounded Japanese LN reconstruction through V09"
+title: "Cliff — bounded Japanese LN reconstruction through V10"
 artifact_id: MT_CLIFF_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "210894fd2b5894b7e499bab80251e8f5ea761138"
-source_boundary: "Japanese LN through V09; bounded explicitly routed evidence; publication/audit separate."
+basis_commit: "40018b5caedfba456da199ed2fea613ec991015a"
+source_boundary: "Japanese LN V01–V10; bounded V10 revision1.1 with preserved V09 history; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Cliff: achievement, pride and a chosen care project
 
-Local key `Cliff Grimoire` / source name クリフ・グリモル. The admitted corpus is the locked Japanese LN V01–V09; the present package rests on the explicitly routed V09 evidence, with earlier admitted appearances used only as stated context. Input is final audited V08 `210894fd2b5894b7e499bab80251e8f5ea761138` plus V09 and the [disclosure/recovery checkpoint](../../05%20Checkpoint%20Syntheses/MT_V09_DISCLOSURE_AND_RECOVERY_CHECKPOINT.md). This is a first BOUNDED_PROVISIONAL operational package, not a mature monograph or complete persona. Global `character_entity_id` and `analysis_subject_id` remain null; continuity LN_JP. The [evidence index](EVIDENCE_INDEX.md) routes the canonical observations and the [shared state ledger](../../03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md) owns event history. WN, later LN, adaptations, performed voice, reception and remembered future are excluded. Prior franchise exposure is disclosed; tests fit inspected material retrospectively.
+Local key `Cliff Grimoire` / source name クリフ・グリモル. The admitted corpus is the locked Japanese LN V01–V10; the present package rests on the explicitly routed V09–V10 evidence, with earlier admitted appearances used only as stated context. Initial input was final audited V08 `210894fd2b5894b7e499bab80251e8f5ea761138` plus V09 and the [disclosure/recovery checkpoint](../../05%20Checkpoint%20Syntheses/MT_V09_DISCLOSURE_AND_RECOVERY_CHECKPOINT.md). Current V10 input is final audited V09 `40018b5caedfba456da199ed2fea613ec991015a`. This is a revised BOUNDED_PROVISIONAL operational package, not a mature monograph or complete persona. Global `character_entity_id` and `analysis_subject_id` remain null; continuity LN_JP. The [evidence index](EVIDENCE_INDEX.md) routes the canonical observations and the [shared state ledger](../../03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md) owns event history. WN, later LN, adaptations, performed voice, reception and remembered future are excluded. Prior franchise exposure is disclosed; tests fit inspected material retrospectively.
 
 ## Applicable states and knowledge
 
@@ -28,6 +28,9 @@ Local key `Cliff Grimoire` / source name クリフ・グリモル. The admitted 
 | `MT-CM-ST02` | Rudy appears, observed accomplishments challenge dismissal, group fight and rescue follow. | S125; accepts ability but dislikes person; victim identity unknown to rescuer at intervention; KNOWLEDGE/CONTEXT. |
 | `MT-CM-ST03` | Attraction disclosed, introduction and private conversation, care promise and relationship. | S126; learns curse constraint, accepts continuing condition; RELATIONSHIP/KNOWLEDGE. |
 | `MT-CM-ST04` | Months of research without result, offer of listening, request for information and received uncertain lead. | S126; care project persists, theory unverified, no cure; PRACTICE/KNOWLEDGE. |
+| `MT-CM-ST05` | V10 investigation and marriage advice; contribution, limits and assault by Zanoba. | S141; knows exorcism/material analysis but not every custom or artifact explanation. |
+| `MT-CM-ST06` | V10 Elinalise family disclosure and continued cure work. | S141; reported history accepted, curse/item theory remains hypothesis. |
+| `MT-CM-ST07` | V10 layered-circle collaboration and celebration. | S141; revises initial appraisal, admits limits, contributes syntax; bottle not human return. |
 
 Later relationship knowledge does not belong in ST01. His interpretation of Zanoba's ambition is explicitly corrected by the narrator; he does not secretly possess that correction. An idealized first impression of Elinalise is not reliable access to her motives. Accepting the reported curse gives a basis for his decision, not verified mastery of its mechanism.
 
@@ -51,11 +54,11 @@ All rules use D0 DIRECT support with only D1 NEAR_ANALOG extension inside the na
 
 | Rule / states | Trigger / relationship / required knowledge | Appraisal and response range | Countercase, alternative and discriminating test |
 | --- | --- | --- | --- |
-| `MT-CM-001` / ST01–04 | Accessible study or an important unresolved project where effort can plausibly matter. | Sustains work and takes learning seriously; achievement expectation or care can motivate persistence despite no immediate result. | V09:001/005/018. Pride can inhibit asking instruction; never infer success from effort. Comparable accessible work abandoned without competing constraint would challenge persistence. |
-| `MT-CM-002` / ST01–02 | A peer contradicts his expected hierarchy; credible deeds accumulate despite initial contempt. | Resists or discounts early claims, then accepts specific demonstrated ability while retaining dislike or rivalry. | V09:001. Misread Zanoba analogy shows updating need not become globally accurate. Consistent refusal to acknowledge comparable directly observed performance would challenge evidential revision. |
-| `MT-CM-003` / ST02–04 | A valued person is disparaged and he sees a chance to defend them. | Can confront sharply or physically despite unfavorable odds; partner intervention or redirected curiosity can interrupt escalation. | V09:003/018. No universal violence, successful fighting or justified proportion inferred. Comparable insult calmly investigated before confrontation would narrow trigger strength. |
-| `MT-CM-004` / ST03–04 | Learns a constraint affecting the person he has chosen to love; meaningful work/commitment appears possible. | Accepts the continuing condition, makes an ambitious care promise and pursues research; may support without immediate solution. | V09:005/018. Romantic idealization and pride remain alternatives contributing to motive. Abandoning agreed terms solely because progress is slow would challenge this bounded commitment. |
-| `MT-CM-005` / ST02–04 | Rescue received, another person's difficulty disclosed, or research need exceeds current knowledge. | Can correct defensive speech into thanks, offer qualified trained listening and ask a disliked but useful peer for information. | V09:003/005/018. Earlier refusal to seek instruction counters universal openness. A comparable clearly useful low-cost request repeatedly refused solely to protect pride would narrow help-seeking. |
+| `MT-CM-001` / ST01–07 | Accessible study or an important unresolved project where effort can plausibly matter. | Sustains work and takes learning seriously; achievement expectation or care can motivate persistence despite no immediate result. | V09:001/005/018. Pride can inhibit asking instruction; never infer success from effort. Comparable accessible work abandoned without competing constraint would challenge persistence. V10: Extend to ST05–07 for artifact inquiry and layered-circle work (004–005/021); technical humility and collaboration now directly observed. |
+| `MT-CM-002` / ST01–02,07 | A peer contradicts his expected hierarchy; credible deeds accumulate despite initial contempt. | Resists or discounts early claims, then accepts specific demonstrated ability while retaining dislike or rivalry. | V09:001. Misread Zanoba analogy shows updating need not become globally accurate. Consistent refusal to acknowledge comparable directly observed performance would challenge evidential revision. V10: Extend to ST07: initial dismissal gives way to recognizing sophistication and own limits (021), without requiring total loss of pride. |
+| `MT-CM-003` / ST02–04 (no equivalent V10 confrontation) | A valued person is disparaged and he sees a chance to defend them. | Can confront sharply or physically despite unfavorable odds; partner intervention or redirected curiosity can interrupt escalation. | V09:003/018. No universal violence, successful fighting or justified proportion inferred. Comparable insult calmly investigated before confrontation would narrow trigger strength. V10: No new equivalent valued-person-insult confrontation is scored. Being struck by Zanoba (005) is a different role, not evidence he initiated violence. |
+| `MT-CM-004` / ST03–04,06 | Learns a constraint affecting the person he has chosen to love; meaningful work/commitment appears possible. | Accepts the continuing condition, makes an ambitious care promise and pursues research; may support without immediate solution. | V09:005/018. Romantic idealization and pride remain alternatives contributing to motive. Abandoning agreed terms solely because progress is slow would challenge this bounded commitment. V10: Extend to ST06: new kinship/history disclosure prompts renewed cure request and monogamous commitment (014), not rejection. Duty is a supported motive alongside affection; cure remains absent. |
+| `MT-CM-005` / ST02–07 | Rescue received, another person's difficulty disclosed, or research need exceeds current knowledge. | Can correct defensive speech into thanks, offer qualified trained listening and ask a disliked but useful peer for information. | V09:003/005/018. Earlier refusal to seek instruction counters universal openness. A comparable clearly useful low-cost request repeatedly refused solely to protect pride would narrow help-seeking. V10: Extend to ST05–07: admits unknowns, asks assistance and accepts comfort (004–005/014/021). Need/role condition openness; request for own project space not universal refusal. |
 
 ## Retrospective calibration
 
@@ -69,3 +72,17 @@ All rules use D0 DIRECT support with only D1 NEAR_ANALOG extension inside the na
 | `MT-CM-V06` relationship contrast | Reluctant instruction-seeking versus deliberate thanks, listening offer and later direct request. |005 requires specific need/role; no universal pride barrier or universal humility. |
 
 Rules were selected after reading, with no clean holdout or prediction-accuracy claim. Next useful evidence would offer a real chance to revise a failed theory or seek comparable instruction; absence of such opportunity is UNTESTED. DOMAIN_READY, general political leadership, broad therapeutic competence and complete adult domestic reconstruction remain unwarranted. No generated scenario supplies evidence.
+
+## V10 diagnostic checks and revision 1.1
+
+[V10 reading](../../02%20Sequential%20Readings/MT_V10_DEEP_READING.md) and [V01–V10 checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) own new evidence and cumulative comparison. New applicability is rule-specific; historical selectors do not automatically gain later knowledge.
+
+| Test | Opportunity / result | Revision and debt |
+| --- | --- | --- |
+| `MT-CM-V07` | Technical spell fails because object is not spirit; daylight and analysis later help (004–005). | 001 competence includes diagnostic failure and limited knowledge, not universal mastery. |
+| `MT-CM-V08` | New family history contradicts idealized expectations; requests help and maintains commitment (014). | 004 actual continuity under disclosure; no completed cure or proven exclusive motive. |
+| `MT-CM-V09` | Criticism becomes recognition, admission and effective collaboration; needs reassurance (021). | 002/005 receive new correction/help opportunities;003 untested. |
+
+Pride remains compatible with effort and explicit correction. The bottle outcome depends on several contributors; his part is neither negligible nor sole authorship. His moral/religious reaction during the research visit does not establish what actually happened to Nanahoshi. Cure theory, faithful intention and achieved work remain distinct.
+
+Earlier tests remain intact. Retrospective selection and prior franchise exposure exclude clean holdout or predictive accuracy claims. All domains stay BOUNDED_PROVISIONAL; no global enrollment, clinical persona or later-source outcome.

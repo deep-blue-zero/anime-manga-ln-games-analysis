@@ -1,18 +1,18 @@
 ---
-title: "Eris — reconstruction evidence routes through V09"
+title: "Eris — reconstruction evidence routes through V10"
 artifact_id: MT_ERIS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "210894fd2b5894b7e499bab80251e8f5ea761138"
-source_boundary: "Japanese LN through V09; preserved history and V09 revision 1.3; publication/audit separate."
+basis_commit: "40018b5caedfba456da199ed2fea613ec991015a"
+source_boundary: "Japanese LN V01–V10; V10 revision 1.4, historical routes preserved."
 ---
 
 # Eris evidence routes
@@ -68,3 +68,7 @@ The new source is read after the prior fixed rules, but selection and franchise 
 | EM-V17 / negative opportunity | V09: 035: Nina changes behavior after misreading public duel; no represented reciprocal peer repair by Eris. | 004 UNTESTED; narrated future rivalry cannot backfill a present event. |
 
 New selectors: ST09 (S130), ST10 (S130). Prior test/evidence routes remain historical. No DOMAIN_READY or global registry change.
+
+## V10 additions — revision 1.4
+
+[V10 observations](../../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings) `027–029` support new selectors ST11 / shared S153 and tests V18, V19, V20. Current rule/state/test counts are in the model; earlier counts above are historical. The [cumulative checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) assesses narrow untested triggers, countercases and activation. No global enrollment or clean holdout.

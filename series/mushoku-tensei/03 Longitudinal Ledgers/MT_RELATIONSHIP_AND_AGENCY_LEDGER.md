@@ -4,7 +4,7 @@ artifact_id: MT_RELATIONSHIP_AND_AGENCY_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V09 only; prior history preserved, V09 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V10 only; prior history preserved, V10 updates; publication/audit separate."
 ---
 
 # Relationship and agency ledger
@@ -275,3 +275,38 @@ Prior V01–V08 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-R-151` Nina → Eris/Rudy |Jealousy and imagined capture motivate trip; defeat/misinterpretation alter practice and hostility.|034–035; capture contemplated not executed, later full rivalry only narrated future. |
 
 Directions remain separate even where a pair is named. Service, employment, affection and legal ownership are not interchangeable. No third party can provide another person's bodily permission; later gratitude cannot retroactively fill a missing choice.
+
+
+## V10 updates — 2026-09-26 UTC
+
+Prior V01–V09 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V10; immutable input audited V09 `40018b5caedfba456da199ed2fea613ec991015a`. Observation suffixes resolve in [V10](../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V10-`. The [V01–V10 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) owns cumulative review. Revealed earlier events, present changes and explicit prolepsis retain different times. Draft acceptance, publication/audit and main integration remain separate.
+
+| Directed event | Initiative, purpose, information and changed options | Observation / reciprocity and limit |
+| --- | --- | --- |
+| `MT-R-152` Rudy → Sylphie | Proposes marriage, provides a house, voices abandonment fear and promises shared work; consultation is selective, former-world information concealed, a known public boundary later repeated. |002–003/007–011/015/018/025. Love, care, local restraint and entitlement coexist; no total contract of access. |
+| `MT-R-153` Sylphie → Rudy | Accepts marriage, keeps service, contributes savings, advises guests/clothing, states public and disappearance boundaries, agrees to household care and requests postponed intimacy. |002/007–010/015/018/020/025. Independent wishes matter; concern about pleasing him and fertility anxiety qualify equal-security claims. |
+| `MT-R-154` Sylphie → Ariel | Insists on continuing a valued role rather than being released simply because of marriage. |002/008. Prior friendship and political work retain purposes beyond the couple; no universal uncoerced-service finding. |
+| `MT-R-155` Ariel → Sylphie/Rudy | Demands clarity, accepts marriage and offers reciprocal patronage; later protective concern shapes the duel's concealed purpose. |002/011/013. Friendship, calculation and influence remain distinct; Rudy does not become a readily controlled subordinate. |
+| `MT-R-156` Luke → Rudy/Sylphie | Participates in reception and duel, tests the prospective protector under an undisclosed arrangement. |011/013. His protective loyalty is represented; complete shared understanding of the encounter is absent. |
+| `MT-R-157` Rudy → Zanoba | Requests help, accepts a research proposal, acknowledges craft limits and considers safety; remains master within an unequal arrangement. |004–006/020–021. Honest appraisal can enable another's work without dissolving devotion or dependence. |
+| `MT-R-158` Zanoba → Rudy | Protects him, contests immediate orders to preserve the automaton, asks for his own task, cares during the crisis, and admits emotional incomprehension. |004–006/011/020–021. Help is not limited to craft utility; candor matters, while hierarchy and harmful force remain. |
+| `MT-R-159` Zanoba → Cliff / Cliff → group | Zanoba strikes Cliff over the diversion; Cliff later proposes useful investigation and contributes to redesign despite initial dismissal. |005/021. Technical cooperation follows injury without an established complete repair; each actor's choice remains distinct. |
+| `MT-R-160` Rudy/Zanoba → Juli | Protect, include and teach her while organizing her labor and retaining ownership. |005–006/011/015/020. Care changes conditions, not legal freedom. |
+| `MT-R-161` Juli → adults | Startles at touch, participates in learning/social life and notices Rudy's condition during the crisis. |001/011/015/020. Useful perception is her contribution; no interior or unrestricted consent account is invented. |
+| `MT-R-162` Elinalise → Rudy/group | Supplies housing contacts, helps convivial inclusion and manages practical social relations beyond romance. |007/011–012. Independent work and boundaries warrant a bounded model; aid does not entail unlimited availability. |
+| `MT-R-163` Elinalise → Sylphie | Requests private speech, discloses kinship and reported separation/stigma history, responds emotionally to recognition. |012. The conversation's full contents are unavailable; not every historical consequence is independently verified. |
+| `MT-R-164` Sylphie → Elinalise | Recognizes her grandmother and accepts the new familial relation. |012. Particular recognition is meaningful without retroactively erasing concealment, distance or social harm. |
+| `MT-R-165` Cliff → Elinalise | Hears the history, continues commitment and pursues curse research. |014. Acceptance and effort are actual; cure and complete technical understanding are not. |
+| `MT-R-166` Elinalise → Cliff | Shares consequential history and receives continued commitment within the chosen relationship. |012/014. Her disclosure is a choice, not a debt owed to everyone or proof all vulnerability has ended. |
+| `MT-R-167` Nanahoshi → Rudy/collaborators | Accepts some sociability, suffers after failure, identifies the design gap, implements shared redesign, apologizes and offers thanks while keeping her return aim. |011/019–022. Broader connection does not make her choose Rudy's ultimate purpose; her interrupted complaint remains unresolved. |
+| `MT-R-168` Rudy → Nanahoshi | Participates in research, responds to perceived crisis, seeks others' help and proposes a useful architectural arrangement. |019–022. His risk and care theories remain fallible; assistance neither certifies safety nor entitles him to suppress her grievance. |
+| `MT-R-169` Sylphie/Zanoba/Cliff/Juli → research and care group | Supply household labor, transport, technical insight, changed judgments or attention; Cliff distinguishes gratitude from future collaborative obligation. |020–022. Different contributions and consent to continued work remain visible; no one rescuer owns the outcome. |
+| `MT-R-170` Ruijerd → Rudy / Rudy → Ruijerd | Offers a cautious alternative account of Eris, delivers sisters and entrusts them to the couple; Rudy welcomes him and can consider the account while retaining hurt and speculative suspicions. |023–026. Neither verifies Eris's intent through fresh contact; Badigadi's cryptic encounter does not supply a shared history. |
+| `MT-R-171` Paul → Rudy/sisters | Letter distinguishes the girls' needs and seeks care; the extra shows risk appraisal, uncertainty about an old acquaintance and eventual delegation. |017/030/034. Confidence in a gifted son coexists with explicit caution; rescue of Zenith remains unverified. |
+| `MT-R-172` Aisha → party/Rudy/Norn | Plans caravan travel, welcomes her brother and contributes materially; earlier persuasion of Norn includes contempt. |024/030. Ability and affection do not remove fatigue or excuse humiliating the less gifted sister. |
+| `MT-R-173` Norn → Paul/Ruijerd/Rudy | Prefers her father, seeks and responds to Ruijerd's protection, requests continued comfort and later refuses confidence in Rudy despite contextual understanding. |026/030–032/034. Attachment and distrust have represented reasons; no automatic transfer of trust between protectors. |
+| `MT-R-174` Ruijerd → Norn/sisters | Stops an aggressor, listens to refusal, considers unsafe-home possibility, acknowledges limits, adjusts reassurance and fulfills escort. |024/026/031–032/034. He still urges acceptance of separation; responsive care is not realization of every first preference. |
+| `MT-R-175` Lilia → daughters / Roxy → Norn/Ruijerd | Lilia restrains contempt while preserving rank distinction; Roxy acts as guard despite fear, then corrects the mistaken appraisal while fear persists. |030/033. Distinct actors and constraints: hierarchy enforcement, duty and belief correction cannot be merged into one family attitude. |
+| `MT-R-176` Eris → absent Rudy/dojo / Ghislaine → Eris/Gal | Eris sustains training through admiration and avoided longing while relying on dojo resources; Ghislaine challenges apparent neglect and defends knowledge as a worthwhile gain. |027–029. No new communication with Rudy or restored mutual understanding; Gal's instruction and explicit future certification differ from current achievement. |
+
+Current household belonging does not settle every directional relationship. The newcomer who trusts Ruijerd can distrust Rudy; a wife can welcome a gift yet retain a public boundary; a collaborator can value help and still have an unheard grievance. The [V01–V10 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) integrates these differences without converting gratitude, affection, work, service and ownership into equivalent ties.

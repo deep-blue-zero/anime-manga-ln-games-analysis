@@ -1,23 +1,23 @@
 ---
-title: "Roxy — bounded reconstruction through V06"
+title: "Roxy — bounded reconstruction through V10"
 artifact_id: MT_ROXY_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "3dc6b173b044abdafc013dc989bd96914620d13d"
-source_boundary: "Japanese LN V01–V06; preserved history with V06 revision 1.1; publication/audit separate."
+basis_commit: "40018b5caedfba456da199ed2fea613ec991015a"
+source_boundary: "Japanese LN V01–V10; historical rules retained with V10 revision 1.2; publication/audit separate."
 ---
 
 # Roxy: professional pride, fallible search and accessible belonging
 
-Local key `Roxy`, continuity `LN_JP`; `character_entity_id: null`, `analysis_subject_id: null`. Admitted witnesses `MT-LNJP-V01` through `MT-LNJP-V06`; current V06 input `3dc6b173b044abdafc013dc989bd96914620d13d`. Initial V05 frozen base `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`, plus the V05 transaction containing this first model. The [V01–V05 checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) owns activation reasoning. The [evidence index](EVIDENCE_INDEX.md) provides full routes.
+Local key `Roxy`, continuity `LN_JP`; `character_entity_id: null`, `analysis_subject_id: null`. Admitted witnesses `MT-LNJP-V01` through `MT-LNJP-V10`; current V10 input `40018b5caedfba456da199ed2fea613ec991015a`. V06 input and tests remain historical. Initial V05 frozen base `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`, plus the V05 transaction containing this first model. The [V01–V05 checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) owns activation reasoning. The [evidence index](EVIDENCE_INDEX.md) provides full routes.
 
 The model owns operational rules; its index routes canonical observations and the shared state ledger owns observed transitions. It permits D1 NEAR_ANALOG reconstruction from D0 DIRECT source evidence only in the named states. Historical reports remain attributed. No generated scene, modern-setting persona, clinical diagnosis, actor delivery, later LN, WN, adaptation or reception supplies evidence. Prior franchise/model familiarity persists; all initial calibration is retrospective fitting, never a clean holdout or a numerical prediction score. No domain is DOMAIN_READY. Global curation remains separate.
 
@@ -32,17 +32,19 @@ This **BOUNDED_PROVISIONAL** model has a separate responsibility from Rudeus's r
 | `MT-XM-ST03` | V04 search with companions, port near miss; S042. | Distorted rumor and Superd fear; contemporaneous meeting never occurs. |
 | `MT-XM-ST04` | V05 village return, recognition of missed pupil, old companions and redirected search; S056. | Telepathy still unavailable, absent family still missing, effortless-pupil account unverified. |
 | `MT-XM-ST05` | V06 Kishirika encounter, qualified lead and split information mission; S075. | Zenith reported alive near Rapan, circumstances unclear; wrongly assumes Kishirika sails, no delivered message or pupil reunion. |
+| `MT-XM-ST06` | V10 East Port guard duty, feared-identity mistake and qualified escort assessment; S152. | REVEALED_NOT_NEW relative to main arrival; knows Rudy escort report, corrects threat judgment but fear remains. |
+
 
 ## Conditional rules
 
 | Rule/states | Trigger, relation and motives | Response range / evidence | Countercase and discriminating observation |
 | --- | --- | --- | --- |
-| `MT-XM-001` / ST01–05 | Work or learning exposes a skill gap with usable feedback. | Can adapt instruction, repair a mistake, seek paid work or leave to improve; pride competes with admission of limitation. V01:006–008,015; V02:015; V05:024. | Does not acquire every pupil ability; V04 search mistakes persist. High observed range; test concrete response to correction, not self-effacement alone. |
-| `MT-XM-002` / ST01–05 | Others compare her to a gifted pupil or treat her as master. | Can feel pride and embarrassment, reject exaggerated competence or hierarchy, and minimize her own causal contribution. V01:007–008; V02:018; V05:024. | V05 welcomes being named teacher despite earlier objections. Moderate mechanism; relation/state changes matter. Do not reproduce her claim that Rudy needed no teacher as model fact. |
-| `MT-XM-003` / ST02–05 | Beloved former pupils/family are missing and some route or evidence is available. | Initiates sustained search and can prioritize unlocated people over a desired reunion; works with companions but may omit requests or act on faulty judgments. V02:018; V04:006–007; V05:024. | Embarrassment and romantic interests coexist; commitment not pure motive or guaranteed efficiency. High action evidence. Test a real choice between reunion and unresolved aid, preserving knowledge at that time. V06:027–028 adds foregoing personal reward and desired reunion for a qualified lead and its delivery; no completed rescue assumed. |
-| `MT-XM-004` / ST03–05 | New information threatens feared identity assumptions or professional self-image. | May resist its implication, misrecognize or delay acknowledgment; multiple concrete testimonies can eventually change belief. V04:006–007; V05:024. | Can admit earlier teaching mistakes; no universal denial trait. Moderate. A comparably costly error promptly accepted would challenge extension. V06:027–028 adds active probing of explicit uncertainty alongside unnoticed false assumptions; distinguish threatened self-image from incomplete external information. |
-| `MT-XM-005` / ST04, with V03 reported history | Family uses a communication channel she cannot access; spoken welcome feels incomplete. | May withdraw despite desire for belonging; visible emotion and mutual physical care can make acceptance perceptible and change an immediate departure decision. V03:003; V05:023. | One reunion, telepathy unchanged. Strong event, narrow rule; no instant cure of exclusion. Test continued contact or refusal without assuming the next outcome. |
-| `MT-XM-006` / ST01–05 | Ordinary conversation with learner, colleague, old friend or parents. | Often uses polite explanatory speech, can correct, object, tease or give evasive minimal replies; inward doubt differs from outward composure. V01:006–008; V02:015; V04:006–007; V05:023–024. | No universal meekness or fixed catchphrase. Shared nostalgia with Nokopara does not endorse his predation; written voice only. V06:027–028 expands ordinary food/drink, negotiation and companion farewell; contextual exuberance is possible without replacing polite default. |
+| `MT-XM-001` / ST01–05 (ST06 reported adaptation analogy) | Work or learning exposes a skill gap with usable feedback. | Can adapt instruction, repair a mistake, seek paid work or leave to improve; pride competes with admission of limitation. V01:006–008,015; V02:015; V05:024. | Does not acquire every pupil ability; V04 search mistakes persist. High observed range; test concrete response to correction, not self-effacement alone. V10: The V10 extra (033) reports overcoming a food aversion to model conduct for pupil and revising child-dislike category; retrospective ordinary adaptation, not a new teaching-technique trial. |
+| `MT-XM-002` / ST01–05 (no equivalent V10 trigger) | Others compare her to a gifted pupil or treat her as master. | Can feel pride and embarrassment, reject exaggerated competence or hierarchy, and minimize her own causal contribution. V01:007–008; V02:018; V05:024. | V05 welcomes being named teacher despite earlier objections. Moderate mechanism; relation/state changes matter. Do not reproduce her claim that Rudy needed no teacher as model fact. V10: No V10 equivalent gifted-pupil comparison response; preserve historical state scope without a new pass. |
+| `MT-XM-003` / ST02–06 (ST06 guard duty, not reunion-choice replication) | Beloved former pupils/family are missing and some route or evidence is available. | Initiates sustained search and can prioritize unlocated people over a desired reunion; works with companions but may omit requests or act on faulty judgments. V02:018; V04:006–007; V05:024. | Embarrassment and romantic interests coexist; commitment not pure motive or guaranteed efficiency. High action evidence. Test a real choice between reunion and unresolved aid, preserving knowledge at that time. V06:027–028 adds foregoing personal reward and desired reunion for a qualified lead and its delivery; no completed rescue assumed. V10: Extend to ST06 only for child guard responsibility within search party (030/033): acts despite fear to confront perceived threat. No fresh reunion-versus-search choice. |
+| `MT-XM-004` / ST03–06 | New information threatens feared identity assumptions or professional self-image. | May resist its implication, misrecognize or delay acknowledgment; multiple concrete testimonies can eventually change belief. V04:006–007; V05:024. | Can admit earlier teaching mistakes; no universal denial trait. Moderate. A comparably costly error promptly accepted would challenge extension. V06:027–028 adds active probing of explicit uncertainty alongside unnoticed false assumptions; distinguish threatened self-image from incomplete external information. V10: Extend to ST06 and distinguish proposition from affect: recalls already-known escort information and recognizes mistaken threat while inherited fear persists (033). This narrows any reading that correction waits for fear to disappear. |
+| `MT-XM-005` / ST04, with V03 reported history | Family uses a communication channel she cannot access; spoken welcome feels incomplete. | May withdraw despite desire for belonging; visible emotion and mutual physical care can make acceptance perceptible and change an immediate departure decision. V03:003; V05:023. | One reunion, telepathy unchanged. Strong event, narrow rule; no instant cure of exclusion. Test continued contact or refusal without assuming the next outcome. V10: No V10 inaccessible-family-channel opportunity; historical family-reunion rule remains narrow and UNTESTED here. |
+| `MT-XM-006` / ST01–06 | Ordinary conversation with learner, colleague, old friend or parents. | Often uses polite explanatory speech, can correct, object, tease or give evasive minimal replies; inward doubt differs from outward composure. V01:006–008; V02:015; V04:006–007; V05:023–024. | No universal meekness or fixed catchphrase. Shared nostalgia with Nokopara does not endorse his predation; written voice only. V06:027–028 expands ordinary food/drink, negotiation and companion farewell; contextual exuberance is possible without replacing polite default. V10: Extend to ST06: fearful challenge under duty, embarrassed recognition, conditional deference in escort discussion and revisable ordinary preferences (033/034). No meekness or comprehensive fearlessness. |
 
 ## Relations, ordinary life and self-account
 
@@ -74,3 +76,17 @@ The [V06 interlude observations](../../02%20Sequential%20Readings/MT_V06_DEEP_RE
 | `MT-XM-V08` ordinary care/coordination | Food preference and convivial drinking cause costs; uses Talhand funds, negotiates, accepts split work and familiar farewell (027–028). |006 not always reserved; practical contribution not pure selflessness.001/002/005 receive no new equivalent teaching/family-repair test. |
 
 Sweet tastes and newly enjoyed sweet drink are now directly represented preferences, not a complete diet. Roxy's idealized Paul/Zenith account and her romantic apprehension are her beliefs, not the reader's settled history or a mutual romance. She cannot safely traverse every dangerous region alone merely because she is an excellent magician. Existing rules/tests retained, no new telepathy, delivered message or broad romance persona; BOUNDED_PROVISIONAL throughout.
+
+## V10 diagnostic checks and revision 1.2
+
+New routes: [V10](../../02%20Sequential%20Readings/MT_V10_DEEP_READING.md) and [cumulative V01–V10 checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md). New state selectors supplement historical conditions; rule-specific extensions above govern applicability rather than automatically extending every rule.
+
+| Test | Opportunity / result | Revision and debt |
+| --- | --- | --- |
+| `MT-XM-V09` | Misclassifies Ruijerd from inherited horror, confronts despite fear, then recognizes error (033). | 003 duty acts through affect;004 must separate corrected belief from persisting fear. Different from mere missing information. |
+| `MT-XM-V10` | Acknowledges prejudice problem yet accepts conditionally through Paul trust (033/034). | 004/006 permit qualified action without emotional extinction; no complete prejudice cure. |
+| `MT-XM-V11` | Revises supposed child dislike toward refusal-to-listen and recalls changed food behavior (033). | Ordinary self-classification can narrow; no universal child aversion or invented complete diet.001 only analogous;002/005 untested. |
+
+The present-chapter report of fear is now supplemented by the extra direct focalization. Known information can fail to govern the first appraisal, then become usable after another speaker makes the connection. Her learned response does not make her incapable of protective duty. The model does not treat the childish appearance, recalled food preference or embarrassment as evidence of a child age or global ineptitude.
+
+All tests are retrospective reconstruction checks against disclosed prior familiarity, not clean holdouts. Earlier IDs, test rows and original source ceilings as historical records remain intact. Readiness stays BOUNDED_PROVISIONAL; no unseen present knowledge, clinical diagnosis or global enrollment.

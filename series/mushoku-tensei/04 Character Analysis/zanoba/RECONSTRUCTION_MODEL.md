@@ -1,26 +1,29 @@
 ---
-title: "Zanoba — bounded Japanese LN reconstruction through V09"
+title: "Zanoba — bounded Japanese LN reconstruction through V10"
 artifact_id: MT_ZANOBA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "210894fd2b5894b7e499bab80251e8f5ea761138"
-source_boundary: "Japanese LN through V09; preserved history and V09 revision 1.1; publication/audit separate."
+basis_commit: "40018b5caedfba456da199ed2fea613ec991015a"
+source_boundary: "Japanese LN V01–V10; V10 revision 1.2, historical evidence/tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Zanoba: craft, authority and conditional dissent
 
-This operational package is BOUNDED_PROVISIONAL, not a monograph or a generic simulated person. Local key `Zanoba`; `character_entity_id: null`; `analysis_subject_id: null`; continuity `LN_JP`. The admitted corpus is the locked Japanese V01–V09; direct grounds here are V06, V08 and V09. Current revision1.1 uses final audited V08 `210894fd2b5894b7e499bab80251e8f5ea761138` plus V09. V07's admitted extra supplies school context without substituting for his interiority. Initial revision1.0 input was audited V07 `523625ec4a57b95dec7d5acbb217bae5cc7ba5d3` plus V08. The [evidence index](EVIDENCE_INDEX.md) routes observations, and the [shared state ledger](../../03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md) owns event history. Later LN, WN, adaptations, reception and performed voice are excluded. Prior franchise familiarity is disclosed; all tests below fit already read evidence.
+This operational package is BOUNDED_PROVISIONAL, not a monograph or a generic simulated person. Local key `Zanoba`; `character_entity_id: null`; `analysis_subject_id: null`; continuity `LN_JP`. The admitted corpus is the locked Japanese V01–V10; direct grounds here are V06 and V08–V10. Historical revision1.1 used final audited V08 `210894fd2b5894b7e499bab80251e8f5ea761138` plus V09. V07's admitted extra supplies school context without substituting for his interiority. Initial revision1.0 input was audited V07 `523625ec4a57b95dec7d5acbb217bae5cc7ba5d3` plus V08. The [evidence index](EVIDENCE_INDEX.md) routes observations, and the [shared state ledger](../../03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md) owns event history. Later LN, WN, adaptations, reception and performed voice are excluded. Prior franchise familiarity is disclosed; all tests below fit already read evidence.
 
 The activation reason is a new range of diagnostic situations: art appraisal, repeated failed practice, inhibited disclosure, threatened punishment, care and ordinary disagreement. The model explains response ranges in those settings without certifying unfamiliar diplomacy, domestic life or general ethical reliability.
+
+
+Current V10 revision1.2 uses audited V09 `40018b5caedfba456da199ed2fea613ec991015a` and the full inspected V10. Dated revision sections below retain their historical evidence ceilings and calibration; the current identity/scope paragraph and rule selectors reflect V10.
 
 ## Applicable states and knowledge
 
@@ -31,6 +34,8 @@ The activation reason is a new range of diagnostic situations: art appraisal, re
 | `MT-ZM-ST03` | Child purchase, early lessons and disclosure of broken figure; S105. | Knows destruction, fears master's response; care, ownership and revenge coexist. RELATIONSHIP/REVEALED_NOT_NEW. |
 | `MT-ZM-ST04` | Epilogue care and meal disagreement; S106. | Child's daily needs increasingly salient; can challenge a demand in familiar context; underlying ownership unchanged. PRACTICE, not proven general reform. |
 | `MT-ZM-ST05` | V09 school craft, shared meals and companionship. | S129; practical task division, seating care and invasive suggestion; ownership unchanged. |
+| `MT-ZM-ST06` | V10 automaton discovery, research request and reception. | S139; protects craft against master, assaults Cliff, seeks meaningful independent contribution within hierarchy. |
+| `MT-ZM-ST07` | V10 practical/emotional care and layered-circuit proposal. | S140; admits limited understanding of Rudy feelings; artifact knowledge travels across domains. |
 
 Do not give ST01 later school failures or use ST04 care to erase the earlier exchange of a guard for a figure. The dead brother's name is available in ST03; Rudy's later explanation of care through that history remains an inference, not the model's proven hidden cause.
 
@@ -52,11 +57,12 @@ All rules use D0 DIRECT represented evidence and permit only D1 NEAR_ANALOG reco
 
 | Rule / states | Trigger and relationship conditioning | Appraisal and supported response range | Counterevidence, alternative and discriminating test |
 | --- | --- | --- | --- |
-| `MT-ZM-001` / ST01–05 | Encounters a figure or maker whose craft he can assess, with access to discuss it. | Attends to workmanship, expresses enthusiasm and may offer material/status support; esteem can establish a master relation. | V06:009–010; V08:007/013/018. Does not imply identical devotion to the represented person or general benevolence. Repeated indifference to comparably valued craft without competing threat would challenge it. V09:002/017/023 extends craft esteem to manageable production and attempted patronage; ordinary art purpose persists. |
-| `MT-ZM-002` / ST02–05 | Practicing under Rudy with a task beyond mana or fine control. | Persists, seeks mastery, experiences difficulty; may accept divided production rather than instantly acquire the missing capacity. | V08:013/016. Reverence does not remove limits; an easier task may succeed. A comparable failure prompting immediate abandonment despite usable support would challenge persistence. V09:017 supports larger components and slow work rather than sudden mana/fine-control acquisition. |
-| `MT-ZM-003` / ST02–03 (no V09 equivalent) | Must reveal an idea or failure that may seem presumptuous or disappoint the admired master. | Hesitates or delays despite wanting useful action and struggling to lie; disclosure becomes easier when asked or shared anger promises affiliation. | V08:013/018; ST04 meal dissent is countercase to global obedience. Test a similar embarrassing craft failure disclosed before prompting; never infer all silence is deception. V09 supplies no comparable embarrassing craft disclosure, so inhibition under that exact trigger remains UNTESTED. |
-| `MT-ZM-004` / ST01–03 (V09 comparison, not trigger replication) | Believes valued art or master's standing has been affronted, with coercive power available. | May threaten, propose or use disproportionate force, prioritize craft/masterhood and treat other people as exchangeable. | V06:009–010; V08:014/018/022. External rebuke can limit action; proposed punishment is not execution. A comparable grievance voluntarily resolved through proportionate restitution before restraint would test change. V09:017 adds an invasive suggestion rejected by Rudy. This supports the broader people-as-means concern but does not independently replicate the force trigger. |
-| `MT-ZM-005` / ST03–05 | Juli's concrete needs arise within shared daily care, especially a demand he regards as excessive. | Can protect, attend and disagree with Rudy while retaining respect for masterhood; fellowship can coexist with possession. | V08:016/028/030. One meal does not prove generalized emancipation or reliable parenting. Comparable pupil need ignored solely to preserve deference would narrow the care/dissent mechanism. V09:015 gives seating accommodation beside commands and questionable alcohol permission. Care is selective, not reliable parenting or freedom from ownership. |
+| `MT-ZM-001` / ST01–07 | Encounters a figure or maker whose craft he can assess, with access to discuss it. | Attends to workmanship, expresses enthusiasm and may offer material/status support; esteem can establish a master relation. | V06:009–010; V08:007/013/018. Does not imply identical devotion to the represented person or general benevolence. Repeated indifference to comparably valued craft without competing threat would challenge it. V09:002/017/023 extends craft esteem to manageable production and attempted patronage; ordinary art purpose persists. V10: Extend to ST06–07: values automaton before master and supplies decisive structural analogy (004/006/021). Esteem does not require agreement with master appraisal. |
+| `MT-ZM-002` / ST02–06 | Practicing under Rudy with a task beyond mana or fine control. | Persists, seeks mastery, experiences difficulty; may accept divided production rather than instantly acquire the missing capacity. | V08:013/016. Reverence does not remove limits; an easier task may succeed. A comparable failure prompting immediate abandonment despite usable support would challenge persistence. V09:017 supports larger components and slow work rather than sudden mana/fine-control acquisition. V10: Extend to ST06 for explicit recognition of craft limits and chosen research responsibility (006), not sudden fine-control acquisition. |
+| `MT-ZM-003` / ST02–03,06 | Must reveal an idea or failure that may seem presumptuous or disappoint the admired master. | Hesitates or delays despite wanting useful action and struggling to lie; disclosure becomes easier when asked or shared anger promises affiliation. | V08:013/018; ST04 meal dissent is countercase to global obedience. Test a similar embarrassing craft failure disclosed before prompting; never infer all silence is deception. V09 supplies no comparable embarrassing craft disclosure, so inhibition under that exact trigger remains UNTESTED. V10: ST06 request followed by misread silence/prostration (006) supplies a new disclosure-risk opportunity; initiative and fear coexist, not invariant inability to ask. |
+| `MT-ZM-004` / ST01–03,06 | Believes valued art or master's standing has been affronted, with coercive power available. | May threaten, propose or use disproportionate force, prioritize craft/masterhood and treat other people as exchangeable. | V06:009–010; V08:014/018/022. External rebuke can limit action; proposed punishment is not execution. A comparable grievance voluntarily resolved through proportionate restitution before restraint would test change. V09:017 adds an invasive suggestion rejected by Rudy. This supports the broader people-as-means concern but does not independently replicate the force trigger. V10: Extend to ST06: strikes Cliff when he resists research diversion (005). Different immediate affront but same prioritization of craft with coercive means; accepted interruption not completed repair. |
+| `MT-ZM-005` / ST03–05,07 (Juli-specific; non-pupil care belongs to006) | Juli's concrete needs arise within shared daily care, especially a demand he regards as excessive. | Can protect, attend and disagree with Rudy while retaining respect for masterhood; fellowship can coexist with possession. | V08:016/028/030. One meal does not prove generalized emancipation or reliable parenting. Comparable pupil need ignored solely to preserve deference would narrow the care/dissent mechanism. V09:015 gives seating accommodation beside commands and questionable alcohol permission. Care is selective, not reliable parenting or freedom from ownership. V10: ST07 pupil needs remain supported (020), but care for Nanahoshi and Rudy is a new non-pupil domain; new006 below prevents silently expanding Juli-specific mechanism. |
+| `MT-ZM-006` / ST07 | Familiar collaborators show concrete distress and a practical helping role is available. | Can supply transport, water, suggestions and companionship, notice strain and admit not sharing the inner experience; V10:020. | One extended care cluster, bounded low-generalization rule. No guarantee of insight, universal benevolence or medical expertise; comparable clear need ignored solely for convenience would challenge extension. |
 
 ## Retrospective calibration
 
@@ -83,3 +89,18 @@ No numerical accuracy, uncontaminated holdout or generated scenario is evidence.
 | `MT-ZM-V09` invasive suggestion | 017: proposes uncovering Fitts without permission; Rudy refuses. | 004 supports people-as-means risk outside punishment; proposal not action, no new comparable violent-escalation test. |
 
 D0 DIRECT support and D1 NEAR_ANALOG extension only; high confidence in represented actions, moderate in mechanisms. New tests are retrospective source fits under disclosed prior franchise exposure, not uncontaminated holdouts or measured prediction accuracy. BOUNDED_PROVISIONAL remains the readiness ceiling; unfamiliar situations require abstention. No generated sexualized scenarios, performed voice, diagnosis, mature monograph or global enrollment.
+
+## V10 diagnostic checks and revision 1.2
+
+[V10](../../02%20Sequential%20Readings/MT_V10_DEEP_READING.md) owns source observations, and [V01–V10 checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) owns cumulative calibration. Extensions above are rule-specific; later selectors never grant earlier selves later knowledge.
+
+| Test | Opportunity / result | Revision and debt |
+| --- | --- | --- |
+| `MT-ZM-V10` | Defies destruction order to protect automaton, seeks own research role (004/006). | 001/002/003 meaningful agency within deference; neither wallet-only nor fully independent. |
+| `MT-ZM-V11` | Strikes Cliff, stopped by Rudy; later ordinary courtly conduct (005/011). | 004 force risk remains; formal competence does not certify restraint. |
+| `MT-ZM-V12` | Carries Nanahoshi, suggests care, notices Rudy distress and admits not understanding (020). | New006 practical non-pupil care; not omniscient empathy or transferred emancipation. |
+| `MT-ZM-V13` | Layered structure from research enables collaborative redesign (021). | 001/002 special contribution; neither own complete theory nor master sole invention. |
+
+The V10 care scenes add a domain not reducible to the already documented Juli relation. He can notice a need and act without pretending to know the feeling. The same source preserves violent interruption and ownership; useful support does not remove those constraints.
+
+Original test rows and IDs are preserved. All checks are retrospective under disclosed familiarity, not clean holdouts or numerical prediction scores. D0 DIRECT and limited D1 NEAR_ANALOG only; BOUNDED_PROVISIONAL, no generated source evidence or global enrollment.

@@ -4,15 +4,15 @@ artifact_id: MT_SYLPHIETTE_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "210894fd2b5894b7e499bab80251e8f5ea761138"
-source_boundary: "Japanese LN through V09; preserved history and V09 revision 1.1; publication/audit separate."
+basis_commit: "40018b5caedfba456da199ed2fea613ec991015a"
+source_boundary: "Japanese LN V01–V10; V10 revision 1.2, historical routes preserved."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
@@ -48,3 +48,7 @@ Shared responsibilities: [states/readiness](../../03%20Longitudinal%20Ledgers/MT
 | SYM-V13 / two measures of outcome | V09: 029/032: pain and happiness, useful care fulfilled, equality still uncertain. | 002/005 distinguish desired help from standing beside; no complete adult-intimacy persona. |
 
 New selectors: ST06 (S121), ST07 (S122), ST08 (S123), ST09 (S124). Prior test/evidence routes remain historical. No DOMAIN_READY or global registry change.
+
+## V10 additions — revision 1.2
+
+[V10 observations](../../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings) `002/007–010/015–018/020/022/025` support new selectors ST10, ST11, ST12 / shared S137–138 and tests V14, V15, V16, V17, V18. Current rule/state/test counts are in the model; earlier counts above are historical. The [cumulative checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) assesses narrow untested triggers, countercases and activation. No global enrollment or clean holdout.

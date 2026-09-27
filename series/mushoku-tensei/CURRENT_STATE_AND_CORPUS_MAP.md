@@ -4,7 +4,7 @@ artifact_id: MT_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: corpus_map
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,12 +12,12 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V09 inspected; V01–V08 published/audited, V01–V06 verified on main; V09 candidate/publication separate; V10 unopened."
+source_boundary: "Japanese LN V01–V10 inspected; V01–V09 published/audited, V01–V06 verified on main; V10 candidate/publication separate; V11 unopened."
 ---
 
 # Mushoku Tensei — current state and corpus map
 
-This is the single first-read surface for `series/mushoku-tensei/`. Git owns interpretation; private Drive folder `1bx_IkoTqVZy9I8SmcyGvgRmj3JX0Rjug` owns primary/derived evidence. The owner-approved [V01 pilot](02%20Sequential%20Readings/MT_V01_DEEP_READING.md) is closed and audited. [V02](02%20Sequential%20Readings/MT_V02_DEEP_READING.md) is published and finally audited at `687a13ac1a661270ab566c9e1a6028acd607d846`. [V03](02%20Sequential%20Readings/MT_V03_DEEP_READING.md) is published and finally audited at `56e1daa4bdc287cb9f2f3e4abbbea30be494628d`. [V04](02%20Sequential%20Readings/MT_V04_DEEP_READING.md) is published and finally audited at `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`. [V05](02%20Sequential%20Readings/MT_V05_DEEP_READING.md) and its [first cumulative checkpoint](05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) are published and finally audited at `3dc6b173b044abdafc013dc989bd96914620d13d`. [V06](02%20Sequential%20Readings/MT_V06_DEEP_READING.md) records complete prose, image and paratext inspection, retained byte-verified map, 31 observations, synchronized ledgers/model revisions and a [targeted disclosure checkpoint](05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md). V06 is published and finally audited at `0e72e531278055c0dbb7a6054285337a1cc37a93`. [V07](02%20Sequential%20Readings/MT_V07_DEEP_READING.md) adds a complete nine-unit reading, 30 observations, six ledger updates, a Rudeus revision, first Sara model and [recognition checkpoint](05%20Checkpoint%20Syntheses/MT_V07_RECOGNITION_CHECKPOINT.md). V07 is published and finally audited at `523625ec4a57b95dec7d5acbb217bae5cc7ba5d3`. [V08](02%20Sequential%20Readings/MT_V08_DEEP_READING.md) adds thirteen-unit coverage, thirty observations, six ledger updates, Rudeus revision 1.5, first bounded Zanoba/Sylphiette packages and a [consent and institutional-power checkpoint](05%20Checkpoint%20Syntheses/MT_V08_CONSENT_AND_INSTITUTION_CHECKPOINT.md). V08 is published and finally audited at `210894fd2b5894b7e499bab80251e8f5ea761138`. [V09](02%20Sequential%20Readings/MT_V09_DEEP_READING.md) adds fifteen-unit coverage, thirty-five observations, six ledger updates, four model revisions, first Cliff/Nanahoshi packages and a [disclosure and recovery checkpoint](05%20Checkpoint%20Syntheses/MT_V09_DISCLOSURE_AND_RECOVERY_CHECKPOINT.md). V10 remains unopened until V09 publication and final exact-head audit complete.
+This is the single first-read surface for `series/mushoku-tensei/`. Git owns interpretation; private Drive folder `1bx_IkoTqVZy9I8SmcyGvgRmj3JX0Rjug` owns primary/derived evidence. The owner-approved [V01 pilot](02%20Sequential%20Readings/MT_V01_DEEP_READING.md) is closed and audited. [V02](02%20Sequential%20Readings/MT_V02_DEEP_READING.md) is published and finally audited at `687a13ac1a661270ab566c9e1a6028acd607d846`. [V03](02%20Sequential%20Readings/MT_V03_DEEP_READING.md) is published and finally audited at `56e1daa4bdc287cb9f2f3e4abbbea30be494628d`. [V04](02%20Sequential%20Readings/MT_V04_DEEP_READING.md) is published and finally audited at `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`. [V05](02%20Sequential%20Readings/MT_V05_DEEP_READING.md) and its [first cumulative checkpoint](05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) are published and finally audited at `3dc6b173b044abdafc013dc989bd96914620d13d`. [V06](02%20Sequential%20Readings/MT_V06_DEEP_READING.md) records complete prose, image and paratext inspection, retained byte-verified map, 31 observations, synchronized ledgers/model revisions and a [targeted disclosure checkpoint](05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md). V06 is published and finally audited at `0e72e531278055c0dbb7a6054285337a1cc37a93`. [V07](02%20Sequential%20Readings/MT_V07_DEEP_READING.md) adds a complete nine-unit reading, 30 observations, six ledger updates, a Rudeus revision, first Sara model and [recognition checkpoint](05%20Checkpoint%20Syntheses/MT_V07_RECOGNITION_CHECKPOINT.md). V07 is published and finally audited at `523625ec4a57b95dec7d5acbb217bae5cc7ba5d3`. [V08](02%20Sequential%20Readings/MT_V08_DEEP_READING.md) adds thirteen-unit coverage, thirty observations, six ledger updates, Rudeus revision 1.5, first bounded Zanoba/Sylphiette packages and a [consent and institutional-power checkpoint](05%20Checkpoint%20Syntheses/MT_V08_CONSENT_AND_INSTITUTION_CHECKPOINT.md). V08 is published and finally audited at `210894fd2b5894b7e499bab80251e8f5ea761138`. [V09](02%20Sequential%20Readings/MT_V09_DEEP_READING.md) adds fifteen-unit coverage, thirty-five observations, six ledger updates, four model revisions, first Cliff/Nanahoshi packages and a [disclosure and recovery checkpoint](05%20Checkpoint%20Syntheses/MT_V09_DISCLOSURE_AND_RECOVERY_CHECKPOINT.md). V09 is published and finally audited at `40018b5caedfba456da199ed2fea613ec991015a`. [V10](02%20Sequential%20Readings/MT_V10_DEEP_READING.md) adds fourteen-unit coverage, thirty-four observations, six ledger updates, nine model revisions, first Elinalise package, a [Rudeus monograph](04%20Character%20Analysis/rudeus/CHARACTER_MONOGRAPH.md) and the required [V01–V10 cumulative checkpoint](05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md). V11 remains unopened until V10 publication and final exact-head audit complete.
 
 ## Project initialization
 
@@ -25,7 +25,7 @@ This is the single first-read surface for `series/mushoku-tensei/`. Git owns int
 project_initialization:
   status: canonical
   architecture_lifecycle: EVOLVING
-  analytical_phase: V09_CONTENT_AND_EVIDENCE_CLOSED_PUBLICATION_AUDIT_SEPARATE
+  analytical_phase: V10_CONTENT_AND_EVIDENCE_CLOSED_PUBLICATION_AUDIT_SEPARATE
   source_reconnaissance_complete: true
   governing_method: "00 Frameworks and Methods/MT_ANALYTICAL_METHOD.md"
   method_status: canonical
@@ -53,27 +53,27 @@ pilot_execution:
   authorized_operation: V01_CLOSURE_THEN_SEQUENTIAL_V02_THROUGH_V15
   new_sequential_analysis_authorized: true
   authorization_limit: V15
-  completed_new_sequential_units: [V01, V02, V03, V04, V05, V06, V07, V08, V09]
-  candidate_unit: V09
+  completed_new_sequential_units: [V01, V02, V03, V04, V05, V06, V07, V08, V09, V10]
+  candidate_unit: V10
   owner_review: V01_CONTENT_APPROVED_2026-09-25
-  owner_authorized_following_unit: V10_AFTER_V09_PUBLICATION_AND_EXACT_HEAD_AUDIT
-  next_permitted_action: PUBLISH_AND_EXACT_HEAD_AUDIT_V09_THEN_FREEZE_V10_INPUT
+  owner_authorized_following_unit: V11_AFTER_V10_PUBLICATION_AND_EXACT_HEAD_AUDIT
+  next_permitted_action: PUBLISH_AND_EXACT_HEAD_AUDIT_V10_THEN_FREEZE_V11_INPUT
 lane_progress:
-  ln_sequential_closed_through: V09
-  ln_published_and_audited_through_at_preparation: V08
+  ln_sequential_closed_through: V10
+  ln_published_and_audited_through_at_preparation: V09
   wn_comparison_closed_scope: null
   supplemental_readings_closed_scope: null
   adaptation_scope: OUT_OF_SCOPE
   reception_scope: NOT_STARTED
 ```
 
-The analytical/evidence candidate boundary is **V09**; published and audited at preparation is **V08**. V10 cannot open until V09 remote readback and final exact-head audit establish published closure. The [Rudeus](04%20Character%20Analysis/rudeus/RECONSTRUCTION_MODEL.md), [Sylphiette](04%20Character%20Analysis/sylphiette/RECONSTRUCTION_MODEL.md), [Zanoba](04%20Character%20Analysis/zanoba/RECONSTRUCTION_MODEL.md) and [Eris](04%20Character%20Analysis/eris/RECONSTRUCTION_MODEL.md) models advance to1.6/1.1/1.1/1.3 respectively. First bounded [Cliff](04%20Character%20Analysis/cliff/RECONSTRUCTION_MODEL.md) and [Nanahoshi](04%20Character%20Analysis/nanahoshi/RECONSTRUCTION_MODEL.md) packages add distinct work/care and research responsibilities. Fitts attribution is now resolved scene by scene, with Ariel's substitution preserved. Existing [Paul](04%20Character%20Analysis/paul/RECONSTRUCTION_MODEL.md), [Ruijerd](04%20Character%20Analysis/ruijerd/RECONSTRUCTION_MODEL.md), [Roxy](04%20Character%20Analysis/roxy/RECONSTRUCTION_MODEL.md) and [Sara](04%20Character%20Analysis/sara/RECONSTRUCTION_MODEL.md) packages retain prior ceilings after review. The [V09 checkpoint](05%20Checkpoint%20Syntheses/MT_V09_DISCLOSURE_AND_RECOVERY_CHECKPOINT.md) separates disclosure, knowledge access, health outcome and repair. V10/V15 cumulative reviews remain pending. All readiness remains BOUNDED_PROVISIONAL; no mature monograph, global enrollment, clean holdout or new source lane is claimed.
+The analytical/evidence candidate boundary is **V10**; published and audited at preparation is **V09**. V11 cannot open until V10 remote readback and final exact-head audit establish published closure. Current bounded revisions are [Rudeus 1.7](04%20Character%20Analysis/rudeus/RECONSTRUCTION_MODEL.md), [Sylphiette 1.2](04%20Character%20Analysis/sylphiette/RECONSTRUCTION_MODEL.md), [Zanoba 1.2](04%20Character%20Analysis/zanoba/RECONSTRUCTION_MODEL.md), [Eris 1.4](04%20Character%20Analysis/eris/RECONSTRUCTION_MODEL.md), [Cliff 1.1](04%20Character%20Analysis/cliff/RECONSTRUCTION_MODEL.md), [Nanahoshi 1.1](04%20Character%20Analysis/nanahoshi/RECONSTRUCTION_MODEL.md), [Paul 1.2](04%20Character%20Analysis/paul/RECONSTRUCTION_MODEL.md), [Ruijerd 1.2](04%20Character%20Analysis/ruijerd/RECONSTRUCTION_MODEL.md) and [Roxy 1.2](04%20Character%20Analysis/roxy/RECONSTRUCTION_MODEL.md). First [Elinalise 1.0](04%20Character%20Analysis/elinalise/RECONSTRUCTION_MODEL.md) adds her independent work, refusal and kinship responsibilities. [Sara 1.0](04%20Character%20Analysis/sara/RECONSTRUCTION_MODEL.md) retains its V07 ceiling with no new direct evidence. The [Rudeus monograph](04%20Character%20Analysis/rudeus/CHARACTER_MONOGRAPH.md) owns a cumulative literary explanation, distinct from operational rules; the [V01–V10 checkpoint](05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) reviews claims, calibration, architecture and missing perspectives. These are bounded V10 artifacts, not whole-series verdicts. Model readiness remains BOUNDED_PROVISIONAL; no global enrollment, clean holdout or new source lane. V15 is the next mandatory cumulative review.
 
 ## Source and gate route
 
-Read [MT_SOURCE_LOCK_AND_INVENTORY.md](01%20Source%20Lock%20and%20Inventory/MT_SOURCE_LOCK_AND_INVENTORY.md) for the actual V01–V09 fingerprints, locator checks, restored V12 folder presence, and unverified later files. The main analytical object is the Japanese published LN, one volume per authorized transaction. WN, supplements, adaptations, interviews and reception have separate admission and authorization boundaries. The historical manifest is an evidence lead, not a narrative finding.
+Read [MT_SOURCE_LOCK_AND_INVENTORY.md](01%20Source%20Lock%20and%20Inventory/MT_SOURCE_LOCK_AND_INVENTORY.md) for the actual V01–V10 fingerprints, locator checks, restored V12 folder presence, and unverified later files. The main analytical object is the Japanese published LN, one volume per authorized transaction. WN, supplements, adaptations, interviews and reception have separate admission and authorization boundaries. The historical manifest is an evidence lead, not a narrative finding.
 
-V01 prose/paratext and illustrations have been inspected to the scope recorded in the reading. Retention receipt: `MT-LNJP-V01-locator-map.json`, Drive file ID `1VE1ti8fs90PHM0Ey4mvT7eQbMjUZm_u9`, retained in source folder `1bx_IkoTqVZy9I8SmcyGvgRmj3JX0Rjug`; 650,286 bytes; SHA-256 `6c782f0a8f5f30fb8a3c9d67d138185c2adae3e1b8b8d2f947424a16798c0e5c`. A fresh download on 2026-09-26 UTC reproduced that size and hash. V12 metadata now identifies Drive file `1RIKu1ira0Z6yYH2ILkL8BvlNPFSDi615`, 1,542,217 bytes; this establishes presence only. V10–V26 are not individually byte-certified or narratively admitted here. The original V01 upload approval was file-specific; later maps now have separate authorization under the current clarified V02–V15 run.
+V01 prose/paratext and illustrations have been inspected to the scope recorded in the reading. Retention receipt: `MT-LNJP-V01-locator-map.json`, Drive file ID `1VE1ti8fs90PHM0Ey4mvT7eQbMjUZm_u9`, retained in source folder `1bx_IkoTqVZy9I8SmcyGvgRmj3JX0Rjug`; 650,286 bytes; SHA-256 `6c782f0a8f5f30fb8a3c9d67d138185c2adae3e1b8b8d2f947424a16798c0e5c`. A fresh download on 2026-09-26 UTC reproduced that size and hash. V12 metadata now identifies Drive file `1RIKu1ira0Z6yYH2ILkL8BvlNPFSDi615`, 1,542,217 bytes; this establishes presence only. V11–V26 are not individually byte-certified or narratively admitted here. The original V01 upload approval was file-specific; later maps now have separate authorization under the current clarified V02–V15 run.
 
 ## Accepted framework and read order
 
@@ -90,22 +90,22 @@ Start with this entrypoint, then the governing [analytical method](00%20Framewor
 - [MT_TEXTUAL_HISTORY_METHOD](00%20Frameworks%20and%20Methods/MT_TEXTUAL_HISTORY_METHOD.md)
 - [MT_VOLUME_READING_TEMPLATE](00%20Frameworks%20and%20Methods/MT_VOLUME_READING_TEMPLATE.md)
 
-The volume-reading and bootstrap documents are templates. The V01–V09 readings own their respective source observations; V01 owner approval and later execution under the continuing authorization remain distinct. Textual-history and discourse lanes remain unopened.
+The volume-reading and bootstrap documents are templates. The V01–V10 readings own their respective source observations; V01 owner approval and later execution under the continuing authorization remain distinct. Textual-history and discourse lanes remain unopened.
 
 ## Required day-one ledgers
 
-- [MT_CHARACTER_STATE_AND_READINESS_LEDGER](03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md) — preserved earlier history plus V09 states, four revised and two new model routes.
-- [MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER](03%20Longitudinal%20Ledgers/MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER.md) — preserved earlier history plus V09 identity, retrospective permission, reported world knowledge and distinct morning accounts.
-- [MT_CLAIMS_AND_REVISIONS_LEDGER](03%20Longitudinal%20Ledgers/MT_CLAIMS_AND_REVISIONS_LEDGER.md) — preserved earlier history plus V09 review of C001–015; no new universal claim.
-- [MT_FORM_THEMES_AND_WORLD_LEDGER](03%20Longitudinal%20Ledgers/MT_FORM_THEMES_AND_WORLD_LEDGER.md) — preserved earlier history plus V09 recognition structure, ordinary work, useful error and research limits.
-- [MT_NORMATIVE_FRAMING_LEDGER](03%20Longitudinal%20Ledgers/MT_NORMATIVE_FRAMING_LEDGER.md) — preserved earlier history plus V09 privacy, staging, information, proportionality and differentiated recovery.
-- [MT_RELATIONSHIP_AND_AGENCY_LEDGER](03%20Longitudinal%20Ledgers/MT_RELATIONSHIP_AND_AGENCY_LEDGER.md) — preserved earlier history plus V09 directed care, disclosure, independent purposes and uncertain equality.
+- [MT_CHARACTER_STATE_AND_READINESS_LEDGER](03%20Longitudinal%20Ledgers/MT_CHARACTER_STATE_AND_READINESS_LEDGER.md) — preserved earlier history plus V10 states, nine revised models, new Elinalise route and Rudeus monograph decision.
+- [MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER](03%20Longitudinal%20Ledgers/MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER.md) — preserved earlier history plus V10 domestic/research timing, retrospective escort history, prolepsis and fact/trust/fear distinctions.
+- [MT_CLAIMS_AND_REVISIONS_LEDGER](03%20Longitudinal%20Ledgers/MT_CLAIMS_AND_REVISIONS_LEDGER.md) — preserved earlier history plus V10 review of C001–015; no new universal claim.
+- [MT_FORM_THEMES_AND_WORLD_LEDGER](03%20Longitudinal%20Ledgers/MT_FORM_THEMES_AND_WORLD_LEDGER.md) — preserved earlier history plus V10 performed renovation voice, distributed inquiry, retrospective reframing and bounded research results.
+- [MT_NORMATIVE_FRAMING_LEDGER](03%20Longitudinal%20Ledgers/MT_NORMATIVE_FRAMING_LEDGER.md) — preserved earlier history plus V10 repeated known boundaries, comparative care, hierarchy and information responsibilities.
+- [MT_RELATIONSHIP_AND_AGENCY_LEDGER](03%20Longitudinal%20Ledgers/MT_RELATIONSHIP_AND_AGENCY_LEDGER.md) — preserved earlier history plus V10 directed household, work, kinship and escort relations with distinct purposes and unresolved trust.
 
 The [bootstrap report](10%20Audits%20and%20Handoffs/MT_BOOTSTRAP_REPORT.md) records acceptance, verification, and publication state. Only the analytical integrator updates shared current state. Character curation and global index housekeeping retain their distinct designated writers.
 
 ## Next authorized boundary
 
-The current owner request adopts the handoff's sequential V02–V15 run. On 2026-09-26 UTC the owner explicitly clarified: “Allow GitHub and Drive writes; keep local files in that directory.” This authorizes publication of the reviewed analytical updates to the public repository and retention of required V02–V15 locator maps in the designated private Drive source folder, with all local working files confined to the specified Mushoku Tensei directory. Raw books, normalized prose, images and locator-map payloads remain outside public Git. The required published, audited V01 gate was completed before the V02 recap/freeze and source inspection. V02 publication/audit also completed before the V03 recap/freeze and source inspection. V03 publication/audit completed before the V04 recap/freeze and source inspection. V04 publication/audit completed before the V05 recap/freeze and source inspection. V05 publication/audit completed before the V06 recap/freeze and source inspection. V06 publication/audit completed before the V07 recap/freeze and source inspection. V07 publication/audit completed before the V08 recap/freeze and source inspection. V08 publication/audit completed before the V09 recap/freeze and source inspection. Next publish and audit V09, then freeze developments through V09 and the distinct entering V10 questions before opening V10. Close each subsequent volume in order, with maintenance checkpoints after V05, V10 and V15; stop at V15. WN, supplements, adaptations and reception remain separately scoped.
+The current owner request adopts the handoff's sequential V02–V15 run. On 2026-09-26 UTC the owner explicitly clarified: “Allow GitHub and Drive writes; keep local files in that directory.” This authorizes publication of the reviewed analytical updates to the public repository and retention of required V02–V15 locator maps in the designated private Drive source folder, with all local working files confined to the specified Mushoku Tensei directory. Raw books, normalized prose, images and locator-map payloads remain outside public Git. The required published, audited V01 gate was completed before the V02 recap/freeze and source inspection. V02 publication/audit also completed before the V03 recap/freeze and source inspection. V03 publication/audit completed before the V04 recap/freeze and source inspection. V04 publication/audit completed before the V05 recap/freeze and source inspection. V05 publication/audit completed before the V06 recap/freeze and source inspection. V06 publication/audit completed before the V07 recap/freeze and source inspection. V07 publication/audit completed before the V08 recap/freeze and source inspection. V08 publication/audit completed before the V09 recap/freeze and source inspection. V09 publication/audit completed before the V10 recap/freeze and source inspection. Next publish and audit V10, then freeze developments through V10 and the distinct entering V11 questions before opening V11. Close each subsequent volume in order, with maintenance checkpoints after V05, V10 and V15; stop at V15. WN, supplements, adaptations and reception remain separately scoped.
 
 ## Historical V01 closure preparation snapshot — 2026-09-26 UTC
 
@@ -274,3 +274,21 @@ The preceding V07 preparation table is historical and superseded for publication
 | Next gate | Publish reviewed V09 paths, verify remote content and source/HK/final exact-head audits, then freeze/open V10. V10 cumulative review follows actual reading. |
 
 Earlier preparation snapshots remain historical. Identity resolution is scene-specific; earlier disclosure permission revises the explanation for delay. Local recovery does not certify general ethical maturity or equality. No V10 source was inspected during candidate preparation.
+
+
+## Verified V09 publication and V10 preparation — 2026-09-26 UTC
+
+| Dimension | Verified receipt / current candidate |
+| --- | --- |
+| V09 publication | Authored/final `40018b5caedfba456da199ed2fea613ec991015a`; all22 analytical files matched remote bytes. |
+| V09 workflows | Source `36278156334` SUCCESS; housekeeping `36278653531` SUCCESS/no changes; automatic final `36278669762` and redundant manual final `36278686182` both SUCCESS. Latest exact-head status points to36278686182; no pending run counted as success. |
+| Main integration | V01–V06 content verified on main `2658ac7fb5472530d5502263f664a7d7a4f70938`; V07–V09 integration NOT_ESTABLISHED. |
+| V10 entering freeze | `2026-09-26T23:22:26.020976+00:00`, before internal source inspection; original SHA-256 `a64a1a174ab2be43578d6d36d110f9358684c4d7102bfede98598f89995a69be`; original recap/questions preserved. |
+| V10 source | `MT-LNJP-V10`, Drive `13wT0EKO51PmpMlYhusk3c6Q98E9tTU8N`;1,499,457 bytes; SHA-256 `d6cae30a23a5dc24f57485a5a8bbe6a6954eb85450d3eb6fb97fd7b59fa01419`; local/Drive/September25 manifest agree. |
+| Actual reading |63 ordered chunks,29 spine entries,14 narrative units,10 narrative XHTML items including heading-only,135,183 trimmed ruby-base characters,14 image occurrences/13 distinct files and declared paratext. A truncated text display was immediately recovered; no source or image interval skipped. |
+| Private map | Drive `1hDPpz_ai0HaggK0ZaSrb7dbKs7GFoeQN`;1,093,044 bytes; SHA-256 `5cd0d06e15a06d7b158364a6b17d579c6d8755567e41afbca2c033d56ff6d81b`; private/correct parent and byte-identical raw readback;4,887 paragraphs/535 ruby nodes independently checked. |
+| Analytical package |34 observations, synopsis/coverage, six ledger appendices, nine model revisions, first Elinalise model/index, Rudeus monograph and required V01–V10 cumulative checkpoint. |
+| Closure dimensions | Content/evidence candidate and semantic acceptance are distinct from the containing publication commit, remote readback and successful source/HK/final exact-head audit. This preparation snapshot cannot certify those future results. |
+| Next gate | Publish and audit V10, then freeze/open V11. Continue one closed volume at a time through V15; no V11 source admitted during this preparation. |
+
+Earlier preparation snapshots remain historical. Corrected beliefs, felt safety and relational trust have distinct evidential trajectories. Marriage, house safety, a summoned bottle and completed escort are bounded achievements. The new monograph and checkpoint do not replace earlier freezes or source-era readings.

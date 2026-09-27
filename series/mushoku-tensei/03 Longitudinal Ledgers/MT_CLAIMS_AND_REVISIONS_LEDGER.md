@@ -4,7 +4,7 @@ artifact_id: MT_CLAIMS_AND_REVISIONS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V09 only; prior history preserved, V09 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V10 only; prior history preserved, V10 updates; publication/audit separate."
 ---
 
 # Claims and revisions ledger
@@ -235,3 +235,28 @@ Prior V01–V08 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-CR-111` / `MT-C-015` | Institutional settlement and health/romantic closure do not exhaust affected-person repair. |STRENGTHEN;009/028–029/032|Do not negate reported happiness; test changed terms, acknowledgment and available refusal separately. |
 
 No new C016 is necessary: the disclosure/recovery checkpoint sharpens existing responsibilities rather than creating a universal theory of the series. All claims remain source bounded; no reception verdict, whole-series redemption score or clean predictive holdout is asserted.
+
+
+## V10 updates — 2026-09-26 UTC
+
+Prior V01–V09 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V10; immutable input audited V09 `40018b5caedfba456da199ed2fea613ec991015a`. Observation suffixes resolve in [V10](../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V10-`. The [V01–V10 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) owns cumulative review. Revealed earlier events, present changes and explicit prolepsis retain different times. Draft acceptance, publication/audit and main integration remain separate.
+
+| Revision / claim | V10 disposition and warranted claim | Evidence / counterpressure | Confidence and next discriminating test |
+| --- | --- | --- | --- |
+| `MT-CR-112` / `MT-C-001` | REVISE: health recovery, household competence, research achievement and martial progress change different capacities; none measures universal maturation. |001/004–006/016/019–021/024/027–029/033. Real success coexists with fear, dependency and acknowledged limits. |High for represented differences; no clinical or whole-person score. Test transfer under a new demand rather than count achievements. |
+| `MT-CR-113` / `MT-C-002` | STRENGTHEN: affection and care can coexist with harm, including repetition after a known boundary. |005/007–010/015/025/028/030–031. Immediate apology and later privacy restraint are counterevidence to total incapacity, not proof that repetition is absent. |High for local acts; broader durability unresolved. Compare the same requested boundary on a later actual opportunity. |
+| `MT-CR-114` / `MT-C-003` | REVISE: factual correction, fear and interpersonal trust can move at different rates. |003/023/025–026/030–034. Roxy acknowledges her mistaken interpretation while fear persists; Norn has reasons and context without trusting Rudy. |High for these distinctions, moderate for mechanism beyond represented access. Test changed conduct or reassurance, not information alone. |
+| `MT-CR-115` / `MT-C-004` | PRESERVE: the original V01 bodily refusal retains its scene-specific authority. |V10 007/010/015 supplies further boundary material, not replacement evidence for the old scene. |No retroactive consent from marriage or affection. Keep original observation and chronological limit. |
+| `MT-CR-116` / `MT-C-005` | PRESERVE: the earlier household injury and negotiated accommodation retain their distinct costs. |V10 017/030/034 reveals later differentiated care and delegation; it does not erase the earlier crisis. |No new verdict on unseen repair. Distinguish a later workable arrangement from historical vindication. |
+| `MT-CR-117` / `MT-C-006` | PRESERVE: forced childhood separation remains separate from later chosen work and marriage. |002/008/030–032 offers different separation decisions, resources and affected-person wishes. |High boundary discipline; comparison requires attention to age, danger, choice and support. |
+| `MT-CR-118` / `MT-C-007` | STRENGTHEN: independent purposes remain visible inside affectionate or unequal relationships. |002/006/008–009/011–014/022/029–034. Sylphie's service and savings, Elinalise's privacy, Nanahoshi's return aim and Ghislaine's valuation of knowledge differ. |High for expressed purposes; expression alone does not establish effective refusal or ethical innocence. Test whether purposes change decisions. |
+| `MT-CR-119` / `MT-C-008` | STRENGTHEN: competence is task-specific and frequently distributed. |004–007/016/020–021/024/027–029/032–034. Cliff's failed spell changes classification; Zanoba's architecture helps redesign; Aisha's planning does not remove fatigue. |High for actual contributions, limited for general capacity. Human return and catastrophe explanation remain unverified by the bottle result. |
+| `MT-CR-120` / `MT-C-009` | REVISE: performed exterior voice, reputation, corrective viewpoint and narrated future have different evidential status. |003/007/011/023/027–034. Rudy performs the renovation account; the extra grants independent access; North Saint recognition is explicit prolepsis. |High for formal distinctions. Never assign every apparently external sentence an independent witness or treat prolepsis as current character knowledge. |
+| `MT-CR-121` / `MT-C-010` | PRESERVE: Zenith's location report remains distinct from completed rescue. |017/030/034 adds plans, correspondence and an earlier escort decision. |No new rescue verification; absence of a narrated outcome warrants neither reassurance nor invented harm. |
+| `MT-CR-122` / `MT-C-011` | STRENGTHEN: gratitude, marriage and useful assistance do not establish unlimited access or an unchosen repayment obligation. |008/010/014–015/022/032. Requested comforting touch is a particular request; Cliff explicitly distinguishes thanks from continued collaboration. |High for local terms. Test whether a later refusal is respected when gratitude or dependence is salient. |
+| `MT-CR-123` / `MT-C-012` | REVISE: practical protection, emotional presence, technical help and relational repair can cooperate without becoming the same intervention. |018–023/026–027/030–034. Zanoba's admitted incomprehension still comforts Rudy; research success does not resolve Norn's distrust. |High for represented support, limited causal isolation. Do not generalize Rudy's alcohol or mental-care beliefs as clinical facts. |
+| `MT-CR-124` / `MT-C-013` | REVISE: household membership, useful work, recognized kinship and reciprocal exchange do not establish one common level of equality. |005–009/011–016/018/020–022/024/026/030–034. Juli remains owned; Sylphie negotiates; Zanoba's independent task remains within devotion; Norn's new home begins with mistrust. |High for unequal arrangements. Test available choice, exit and consequences separately from belonging. |
+| `MT-CR-125` / `MT-C-014` | REVISE: responsibility for knowledge depends on whether reasons are unavailable, conjectured, heard but emotionally insufficient, concealed, or bypassed in action. |003/008/011–013/017–023/025–026/028–034. Norn's understanding is explicit; Nanahoshi's complaint is interrupted; Rudy repeats a known public-touch boundary. |High scene-specific confidence; no general ignorance explanation. Seek actual access and action order before attributing motive. |
+| `MT-CR-126` / `MT-C-015` | STRENGTHEN: task completion has plural scales. |005/008/010/012–015/018/021–026/034. A safer house, marriage, summoned bottle and delivered children are real results; they do not jointly certify affected-person repair. |High for bounded outcomes. Preserve joy and success while testing acknowledged injury, changed terms and future refusal. |
+
+No C016 is warranted. The [V01–V10 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) owns the cumulative argument; the [Rudeus monograph](../04%20Character%20Analysis/rudeus/CHARACTER_MONOGRAPH.md) explains the interaction of his capacities, projections and dependencies. The form, normative and relationship ledgers retain their own comparisons and actor-specific details. This table revises existing claims without replacing their history or turning ten volumes into a whole-series verdict.

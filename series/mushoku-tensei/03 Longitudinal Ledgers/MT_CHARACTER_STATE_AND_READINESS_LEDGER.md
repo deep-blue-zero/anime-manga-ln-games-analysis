@@ -4,7 +4,7 @@ artifact_id: MT_CHARACTER_STATE_AND_READINESS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V09 only; prior history preserved, V09 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V10 only; prior history preserved, V10 updates; publication/audit separate."
 ---
 
 # Character state and readiness ledger
@@ -336,3 +336,54 @@ Prior V01–V08 bodies remain historical and unchanged. Current boundary: Japane
 | Nanahoshi | First [model1.0](../04%20Character%20Analysis/nanahoshi/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/nanahoshi/EVIDENCE_INDEX.md) | Five rules/three states/six retrospective tests; return-oriented research, cooperation and disclosure limits. |
 | Roxy, Ruijerd, Paul, Sara | Existing packages reviewed: no material update. | Reports, recollections and imagined judgments do not add direct sequences; prior ceilings retained. |
 | Ariel, Luke, Nina, Elinalise, Juli and others | Source-bound ledger descriptions; standalone packages deferred. | Narrow sampling, limited affected-person access or concentrated extra; no global enrollment/DOMAIN_READY. |
+
+
+## V10 updates — 2026-09-26 UTC
+
+Prior V01–V09 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V10; immutable input audited V09 `40018b5caedfba456da199ed2fea613ec991015a`. Observation suffixes resolve in [V10](../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V10-`. The [V01–V10 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) owns cumulative review. Revealed earlier events, present changes and explicit prolepsis retain different times. Draft acceptance, publication/audit and main integration remain separate.
+
+| Event / local key | Prior → represented state / change kind | V10 observation and limit |
+| --- | --- | --- |
+| `MT-S-134` / Rudeus | Reported recovery → marriage, house, patronage and public commitment. CONTEXT/RELATIONSHIP. |001–013; consultation initially avoided, independent wife purposes and distributed labor retained. |
+| `MT-S-135` / Rudeus | New household → daily work, reciprocal lessons, explicit rebukes and shared family decision. PRACTICE. |015–018; real restraint and repeat known-boundary violation, no global reform. |
+| `MT-S-136` / Rudeus | Routine → crisis helper receiving care, research collaborator and reunited brother/friend. CONTEXT/KNOWLEDGE. |019–026; bottle limited, Eris account possible not confirmed, Norn distrust persists. |
+| `MT-S-137` / Sylphiette | Recognized partner → wife retaining service, savings, lessons, requests and shared household work. RELATIONSHIP/PRACTICE. |002/007–010/015–018/020/025; preference can be spoken, insecurity/equality remain distinct. |
+| `MT-S-138` / Sylphiette | Supportive advice → recommends punitive enforcement of guest attendance. REVEALED_NOT_NEW. |009; different trigger from grief/missing context, proposal not executed harm. |
+| `MT-S-139` / Zanoba | Craft pupil → protects automaton against master, assaults Cliff, requests meaningful research responsibility. PRACTICE/KNOWLEDGE. |004–006/011; independent contribution within deference, social competence not ethical reliability. |
+| `MT-S-140` / Zanoba | Craft/care roles → practical helper, honest emotional companion and source of layered-design idea. PRACTICE. |020–021; no complete understanding of Rudy feelings, no sole invention or emancipation. |
+| `MT-S-141` / Cliff | Proud student/care promise → diagnostic inquiry, continued fidelity after disclosure and effective collaborative correction. KNOWLEDGE/PRACTICE. |004–005/014/021–022; admits limits, cure remains hypothesis/unachieved. |
+| `MT-S-142` / Nanahoshi | Guarded collaborator → chosen sociability with explicit privacy/alcohol limits. RELATIONSHIP/PRACTICE. |011/015; not complete withdrawal or changed return goal. |
+| `MT-S-143` / Nanahoshi | Long-prepared test → actual failure, global impossibility inference and acute distress. CONTEXT. |019–020; perceived risk and self-injury represented, no diagnosis or demonstrated impossible return. |
+| `MT-S-144` / Nanahoshi | Supported recovery → identifies gap, implements collective redesign, bottle success, thanks and complaint. KNOWLEDGE/PRACTICE. |021–022; not human return, cure or grievance-free community. |
+| `MT-S-145` / Elinalise | Family identity concealed → recognition, reported descendant history, acceptance and practical relief for Sylphie. REVEALED_NOT_NEW/RELATIONSHIP. |007/011–015; historical stigma not deserved, private exchange not fully heard. |
+| `MT-S-146` / Ariel | Political patron → marriage support, reciprocal affiliation and proposed prevention of Sylphie participation. PRACTICE. |002/011/013; protective concern and unilateral control coexist; plan not enacted future. |
+| `MT-S-147` / Luke | Presumed rival → requests duel and care, loyalty clarified by comrades. KNOWLEDGE/REVEALED_NOT_NEW. |002/013; coercive appeal/withheld purpose retained, exact inner motives not wholly accessible. |
+| `MT-S-148` / Paul | Absent searcher → received letter explains delegation and differentiated care for Norn. KNOWLEDGE. |017; sending-time ages/plans not present certainty, no rescued Zenith. |
+| `MT-S-149` / Paul | Letter result → extra reveals earlier risk deliberation and escort trust decision. REVEALED_NOT_NEW. |030/034; visible child reliance and prior conduct influence judgment, no infallibility. |
+| `MT-S-150` / Ruijerd | Earlier escort report → extra reveals protective restraint, listening, limited understanding and undertaking. REVEALED_NOT_NEW. |031–034; son-training explanation conjectural, child's first wish not fulfilled. |
+| `MT-S-151` / Ruijerd | Undertaking → completed escort, tentative mediation and resumed independent search. PRACTICE/RELATIONSHIP. |023–026/034; tense motives partly unknown, no automatic family repair. |
+| `MT-S-152` / Roxy | Fear reported → direct extra supplies learned fear, duty-driven challenge and corrected judgment. REVEALED_NOT_NEW/KNOWLEDGE. |033–034; fear persists after recognition, no broad cowardice or prejudice cure. |
+| `MT-S-153` / Eris | Training aim → solitary routine, painful avoidance and escalating obstruction encounter. PRACTICE/REVEALED_NOT_NEW. |027–029; no departure clarification received, later certification only explicit prolepsis. |
+| `MT-S-154` / Ghislaine | Mentor → challenges Gal and values knowledge beside slowed martial progress. PRACTICE/REVEALED_NOT_NEW. |029; continued questioning despite threat, no universal tactical superiority. |
+| `MT-S-155` / Norn | Prior rejection → safety/attachment reasons disclosed; accepts escort, still distrusts brother. REVEALED_NOT_NEW/RELATIONSHIP. |026/030–032; understands risk yet fears separation, factual context insufficient for trust. |
+| `MT-S-156` / Aisha | Skilled younger sister → route ingenuity, all-night calculation and exhaustion; earlier contempt disclosed. PRACTICE/REVEALED_NOT_NEW. |024/030; task competence not adult self-care or ethical superiority. |
+| `MT-S-157` / Lilia | Caregiver → extra shows rebuke of cruel speech alongside prescribed daughter hierarchy. REVEALED_NOT_NEW. |030/033; checks abuse without removing unequal service assumptions. |
+| `MT-S-158` / Juliette | Owned pupil → curiosity, learning, improved nutrition and noticed adult distress; fear remains. PRACTICE. |001/005–006/011/020; concrete choices/care, no manumission or full interior access. |
+| `MT-S-159` / Badigadi | Convivial guest → support, disruption and interruption of complaint; old tension surfaces. PRACTICE/REVEALED_NOT_NEW. |011/022/025; unknown Ruijerd history cannot be supplied from Rudy conjecture. |
+
+| Package/domain | Current route and readiness | Calibration and debt |
+| --- | --- | --- |
+| Rudeus / practical, relational and bounded domestic choices | BOUNDED_PROVISIONAL [model1.7](../04%20Character%20Analysis/rudeus/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/rudeus/EVIDENCE_INDEX.md); first [V01–V10 monograph](../04%20Character%20Analysis/rudeus/CHARACTER_MONOGRAPH.md). |9rules/37states/52checks; monograph explains interactions, does not confer reliable ethics or complete adult persona. |
+| Sylphiette / learning, service, household requests and hierarchy | [model1.2](../04%20Character%20Analysis/sylphiette/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/sylphiette/EVIDENCE_INDEX.md), BOUNDED_PROVISIONAL. |7/12/18; punitive007 distinguished from grief006; requests do not eliminate insecurity. |
+| Zanoba / craft, deference and practical care | [model1.2](../04%20Character%20Analysis/zanoba/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/zanoba/EVIDENCE_INDEX.md), BOUNDED_PROVISIONAL. |6/7/13; non-pupil care006 narrow, assault/ownership retained. |
+| Cliff / work, revision and chosen commitment | [model1.1](../04%20Character%20Analysis/cliff/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/cliff/EVIDENCE_INDEX.md), BOUNDED_PROVISIONAL. |5/7/9; actual technical correction, no curse cure. |
+| Nanahoshi / research, privacy, sociability and bounded crisis | [model1.1](../04%20Character%20Analysis/nanahoshi/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/nanahoshi/EVIDENCE_INDEX.md), BOUNDED_PROVISIONAL. |6/6/10; broad invariant persistence rejected, no clinical rule or human return. |
+| Eris / training, vulnerability and written directness | [model1.4](../04%20Character%20Analysis/eris/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/eris/EVIDENCE_INDEX.md), BOUNDED_PROVISIONAL. |6/11/20; defense/peer-repair exact triggers untested; no present rank from prolepsis. |
+| Paul / differentiated care and delegation | [model1.2](../04%20Character%20Analysis/paul/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/paul/EVIDENCE_INDEX.md), BOUNDED_PROVISIONAL. |6/6/9; letter and retrospective decision not guaranteed future parenting. |
+| Ruijerd / protection, listening, care and independent aims | [model1.2](../04%20Character%20Analysis/ruijerd/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/ruijerd/EVIDENCE_INDEX.md), BOUNDED_PROVISIONAL. |6/8/11; incomplete understanding admitted, old tension unknown. |
+| Roxy / duty, fear and proposition-specific correction | [model1.2](../04%20Character%20Analysis/roxy/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/roxy/EVIDENCE_INDEX.md), BOUNDED_PROVISIONAL. |6/6/11; fear not extinguished, no new family-channel test. |
+| Elinalise / practical work, refusal and family disclosure | First [model1.0](../04%20Character%20Analysis/elinalise/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/elinalise/EVIDENCE_INDEX.md), BOUNDED_PROVISIONAL. |6/5/8; independent contexts justify activation, kinship single-cluster and curse/history limited. |
+| Sara / existing V07 domains | [model1.0](../04%20Character%20Analysis/sara/RECONSTRUCTION_MODEL.md) unchanged after review. |No fresh direct opportunity, absence not a validation pass. |
+| Norn, Aisha, Ariel, Luke, Ghislaine, Lilia, Juli and others | Maintain substantial source-bounded ledger analysis; broad model deferred. |Checkpoint names ordinary/context/access debts; no popularity or count criterion, no invented family/peer future. |
+
+All global IDs remain null. No DOMAIN_READY or clean holdout. The cumulative checkpoint and new monograph own distinct arguments; this ledger retains observed chronology and current readiness. Newly disclosed past states are not changes that began at V10 narrative present.
