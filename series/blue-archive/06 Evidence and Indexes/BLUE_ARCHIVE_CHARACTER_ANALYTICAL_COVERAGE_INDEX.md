@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_CHECKPOINT_PLUS_C002_E001_E005
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_CHECKPOINT_PLUS_C002_E001_E006
 generation: V1
-version: "1.70"
+version: "1.71"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2 and V002 C001–C002 plus V003 C001 through checkpoints, then BA:main:003:002:005 provisionally; 109/310 main units; side-source classes unreviewed; BA:main:003:002:006 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2 and V002 C001–C002 plus V003 C001 through checkpoints, then BA:main:003:002:006 provisionally; 110/310 main units; side-source classes unreviewed; BA:main:003:002:007 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-26
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:003:002:006
+next_unopened_main_unit: BA:main:003:002:007
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:002:006
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V003_C002_E005` provisional boundary, inheriting the canonical `MAIN_V003_C001` checkpoint:
+This index answers four questions at the `MAIN_V003_C002_E006` provisional boundary, inheriting the canonical `MAIN_V003_C001` checkpoint:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017 and V003 C002 E001-E005;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017 and V003 C002 E001-E006;
 - current checkpoint: `MAIN_V003_C001`; prior recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5`;
-- main-story coverage: `109 / 310` canonical units;
+- main-story coverage: `110 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:003:002:006`.
+- next unopened main unit: `BA:main:003:002:007`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,25 +74,25 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` through V003 C002 E005; joins late-night outing, normalizes Hasumi's hunger and praises Koharu's mock progress; protection untested | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` through V003 C002 E006; accepts Hasumi's security request with safety-first constraint, tactical outcome unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Seia | `ANALYZED` in V003 C001 E001 only; treaty/paradise interpretation and unanswered witness appeal | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Koharu | `ANALYZED` through V003 C002 E005; recalls Hasumi's diet declaration, fears disappointing her and promises study toward committee return | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Koharu | `ANALYZED` through V003 C002 E006; joins Hasumi/Sensei field response before academic bar is lifted | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hanako | `ANALYZED` through V003 C002 E004; admits intentional marks, cares about Azusa's sleep, hosts group talk and proposes a night walk; motive open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Azusa | `ANALYZED` through V003 C002 E004; enjoys ordinary club life, admits trap-setting, offers contradicted safety assurance and fears possible future betrayal | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Mika | `ANALYZED` through V003 C001 and C002 E001; admits forged Azusa admission, alleges Seia attack and offers partisan treaty history | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Marie | `ANALYZED` in V003 C002 E002; Sisterhood visitor relays bullied student's thanks, caught by Azusa's trap, unfinished concern | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Saori | `ANALYZED` in V003 C001 E017 silent named intercut cue; unknown adjacent voices not securely hers | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Tsurugi | `ANALYZED` in V003 C002 E001/E005 silent named Justice Realization vignettes; E005 startle cue, no speech | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hasumi | `ANALYZED` through V003 C002 E005; earlier declaration is diet, narrator shows parfait eating, she supports Koharu and takes Ichika's call | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Tsurugi | `ANALYZED` through V003 C002 E006; now has direct chase cry after earlier silent cues, adjacent labels invert | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hasumi | `ANALYZED` through V003 C002 E006; seeks Schale/remedial optics, joins Koharu in response and orders pursuit | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Mashiro | `ANALYZED` in V003 C001 E004 and C002 E001 silent committee vignette | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Makoto | `ANALYZED` in V003 C002 E005 conference recollection; misidentifies and insults Hasumi, ignores Iroha correction | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Iroha | `ANALYZED` in V003 C002 E005; corrects Makoto using documents and attempts de-escalation, one label inversion | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Ichika | `ANALYZED` in V003 C002 E005 phone report; narrows Gehenna incursion to four Gourmet Research actors and aquarium | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Junko | `ANALYZED` in V003 C002 E005 direct Gourmet Research scene; worries about Trinity security and escape | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Akari | `ANALYZED` in V003 C002 E005 direct Gourmet Research scene; favors taking tuna and notices Fuuka's gag | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Haruna | `ANALYZED` in V003 C002 E005 direct Gourmet Research scene; gives food rationale and misrepresents gagged Fuuka's assent | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Ichika | `ANALYZED` in V003 C002 E005-E006 calls; narrows raid report, says Tsurugi launched and committee members pursue | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Junko | `ANALYZED` in V003 C002 E005-E006; proposes split escape, sees staggering Akari and encounters Tsurugi, outcome open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Akari | `ANALYZED` in V003 C002 E005-E006; embraces split flight, later appears staggering before Junko | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Haruna | `ANALYZED` in V003 C002 E005-E006; food rationale and false Fuuka assent, then participates in split flight | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Fuuka | `ANALYZED` in V003 C002 E005 as gagged, protesting School Lunch head, not consenting to Haruna's demand | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Izumi | `ANALYZED` in V003 C002 E005 direct Gourmet Research scene; handles lively tuna, reports pursuit and hunger | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Izumi | `ANALYZED` in V003 C002 E005-E006; fish reaction and plea not to be left as group splits, fate open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Rin | `ANALYZED` in Prologue only | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Arona | `ANALYZED` in Prologue, V001 C001 E001, and V002 C001 E001 | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Momoi | `ANALYZED` in V002 C001 E001-E020 and C002 E002-E003/E008/E011-E012/E014-E025; new-genre study with returned Alice | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -154,7 +154,7 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | Mika | L; terrace familiarity/teacher framing | L; presses Schale delegation and guest small talk | L; Nagisa/Sensei, ten-year friendship self-report | L; council workload/rotating host reported | L; proposed small talk, not lived private sample | L; secure playful lines, E002 u4/E003 u2 conflicts | L; treaty busyness reported | M; staffing, student regard and history not independently checked |
 | Marie | L; one Sisterhood visit and nested report | L; relays thanks despite trap | L; Hanako acquaintance and Azusa message | L; Sisterhood role visible, exact remit open | GAP; no independent private sample | L; polite register, label inversions caution | L; trap shock and rumor correction | H; absent student's event, visit motives, Hanako history and unfinished concern open |
 | Saori | L; silent named E017 cue only | GAP; no secure decision | L; juxtaposed with Azusa/unknown voices, relation unproved | GAP; affiliation not directly stated | GAP | GAP; adjacent `？？？` voices unattributed | L; plan intercut context, no secure action | H; identity, voice, chronology, affiliation and motives open |
-| Tsurugi | L; silent named cues and startle reaction | GAP; no secure decision | L; committee co-presence, no interaction | L; Koharu names chair, Iroha contrasts chair/vice-chair | GAP | GAP; no direct speech | L; Hasumi vow context only | H; action, voice, exact authority and motives open |
+| Tsurugi | L; silent cues then E006 chase cry | L; launches pursuit by Ichika report | L; committee co-presence and Junko encounter | L; chair title from Koharu/Iroha context | GAP | L; one battle cry, neighboring labels inverted | L; raid pursuit | H; injuries, arrest, exact authority and ordinary/private motives open |
 | Hasumi | M; Gehenna humiliation, diet pledge, parfait encounter and Koharu care | M; asks food monitoring, mutual discretion and Koharu study support | M; Koharu/Sensei/committee and Gehenna meeting | M; Justice Realization vice-chair and grade-return bar | L; sweets encounter under self-restriction | M; formal care plus anger, no full private baseline | M; humiliation, grade fear and incursion alert | H; diet course, E015 aim, camp rule, treaty stance and exam result unverified |
 | Mashiro | L; capture report | L; reports arrest | L; Hasumi/Azusa/Koharu co-presence | L; Justice Realization field role | GAP | L; one secure report | L; contested capture context | M; independent decision path and private baseline absent |
 | Makoto | L; one meeting's offended self-image | L; misidentifies and ignores correction | L; Iroha/Hasumi conference only | L; Pandemonium role self-claimed, scope not audited | GAP | L; boast/insult register | L; failed conference | H; broader politics, decisions and ordinary/private contrast open |
@@ -226,8 +226,8 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Mika | Terrace purpose now known as remedial request; reporter of treaty workload, not treaty contents | Nagisa friendship of ten years is her report; Sensei guest exchange narrow | Small-talk proposal and teasing are local, not whole ordinary baseline | V003 C001 E002 scene 2 `u:0002-0005`; E003 `u:0001-0107`, `u:0002` label conflict |
 | Marie | Visits as intermediary; report source is absent student and some speaker labels invert | Knows Hanako; conveys thanks to Azusa; direct relational breadth narrow | Polite blessing and trap surprise, no private baseline | V003 C002 E002 `scene:002:u:0002-0059` |
 | Saori | Named silent cue; unknown voices not secure | Intercut near Azusa with no stated relation or private context | No ordinary/play sample | V003 C001 E017 `scene:001:u:0046-0049` |
-| Tsurugi | E015 chair title from Koharu; E001/E005 C002 silent cues, startle at diet pledge | Hasumi/Mashiro committee co-presence, no secure decision | No ordinary/play sample | V003 C001 E015 mention; C002 E001 `scene:002:u:0002-0009`; E005 `scene:002:u:0002-0015` |
-| Hasumi | Diet pledge, parfait encounter, Koharu support and alarm interpretation; E015 private aim not fully recovered | Koharu/committee/Sensei and hostile Makoto meeting, no stable private baseline | Food-restraint comedy should not become diagnosis | V003 C001 E004-E005/E015; C002 E001/E005, esp. E005 `scene:002:u:0002-0045`, `u:0060-0105` |
+| Tsurugi | E015 chair title; E001/E005 silent cues, E006 first vocal pursuit cue | Hasumi/Ichika committee context and Junko encounter, no secure capture | No ordinary/play sample | V003 C001 E015 mention; C002 E001/E005 vignettes; E006 `scene:001:u:0002-0006`, `scene:002:u:0019-0022` label caution |
+| Hasumi | Diet pledge, parfait encounter, Koharu support and Schale-optics request; E015 private aim not fully recovered | Koharu/committee/Sensei and hostile Makoto meeting, no stable private baseline | Food-restraint comedy should not become diagnosis | V003 C001 E004-E005/E015; C002 E001/E005-E006, esp. E006 `scene:001:u:0001-0020` |
 | Mashiro | One capture report, no independently shown field tactics | Justice Realization team/Azusa encounter only | No ordinary/play sample | V003 C001 E004 scene 2 `u:0065-0070` |
 | Makoto | Misidentifies Hasumi/Tsurugi and frames appearance as tactical attack | Iroha corrects; Hasumi harmed, no other relationship breadth | Boast/insult is one meeting, not whole baseline | V003 C002 E005 `scene:002:u:0022-0038`; `u:0032` label conflict |
 | Iroha | Corrects role using paperwork, urges withdrawal | Makoto/Hasumi conference only | Flat correction against Makoto's escalation | V003 C002 E005 `scene:002:u:0027-0037`; `u:0032` label conflict |
@@ -296,8 +296,8 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Mika | `UNMODELED` | `NONE` | admitted forged Azusa admission, articulated reconciliation motive and rival ETO/traitor framing | Seia/First Council/Arius records, Azusa knowledge, Nagisa selection and own full motives unaudited. |
 | Marie | `UNMODELED` | `NONE` | Sisterhood intermediary conveys thanks despite a trap and questions an ice-witch rumor | Absent student's account, exact Justice chain, Hanako history, unfinished concern and ordinary/private baseline unverified. |
 | Saori | `UNMODELED` | `NONE` | silent named E017 intercut presence only | Unknown voices, relation to Azusa, location/time, institution, motives and ordinary response unverified. |
-| Tsurugi | `UNMODELED` | `NONE` | silent named Justice Realization classroom cues and startle at Hasumi's diet pledge | Chair title supported by Iroha's contrast, but no direct speech, decision or ordinary/private control. |
-| Hasumi | `UNMODELED` | `NONE` | grade-based Koharu access/encouragement, diet pledge under humiliation, parfait scene and bounded alarm response | Camp rule text, E015 full private aim, diet trajectory, treaty stance and later response unresolved. |
+| Tsurugi | `UNMODELED` | `NONE` | silent cues plus narrow E006 vocal pursuit and Ichika report of self-started deployment | Exact pursuit result, authority, voice baseline and ordinary/private control unresolved. |
+| Hasumi | `UNMODELED` | `NONE` | grade-based Koharu access/encouragement, diet pledge, Schale-optics request and pursuit | Camp rule, E015 full private aim, diet trajectory, treaty outcome and actual safety unresolved. |
 | Mashiro | `UNMODELED` | `NONE` | reported red-handed Azusa capture | One field report; own tactics, reasoning and ordinary/private control absent. |
 | Makoto | `UNMODELED` | `NONE` | misidentification, body insult and resisted correction in one treaty-related meeting | Office scope, substantive treaty stance, ordinary baseline and later repair unknown. |
 | Iroha | `UNMODELED` | `NONE` | paperwork-based correction and de-escalation attempt | One Makoto-adjacent crisis; own goals and ordinary/private choices absent. |
@@ -905,3 +905,9 @@ Routing: [V003 C002 E004 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 The group walks in Trinity's late-night shopping district; Hanako enjoys forbidden-feeling group safety and Koharu fears Hasumi seeing them. Koharu's recollection continues E001's cut-off Hasumi/Gehenna classroom insert: the vow is **to diet**, not a demonstrated anti-treaty deployment. A conference recollection shows Makoto mistaking Hasumi for chair Tsurugi despite Iroha's correction, objectifying/insulting her; Koharu says that Eden Treaty-related meeting failed, without minutes or substantive treaty outcome. At a sweets shop, narrator finds Hasumi eating with three parfaits before her, undercutting a categorical no-snack pledge without proving she ate all three. Hasumi says campers apparently were forbidden to go out and proposes mutual non-reporting; the written rule remains uninspected. She encourages Koharu's study/return to Justice Realization; this echoes E015 private-talk fragments but does not authenticate Koharu's claimed spy role. Ichika's call reports a Gehenna incursion, then narrows Hasumi's Prefect/Pandemonium/treaty-sabotage guesses to four and an aquarium; profit resale is Ichika's hypothesis. A direct Gourmet Research vignette has Haruna/Junko/Akari/Izumi with the taken gold tuna, Haruna voicing an eating aim, and gagged School Lunch head Fuuka protesting despite Haruna's false consent gloss. Pursuit and response remain open. Makoto, Iroha, Ichika, Junko, Akari, Haruna, Fuuka and Izumi are eight new named, directly represented **`UNMODELED`** subjects; Satsuki is mention only, and generic members/clerk are not promoted. Readiness becomes **21 `PARTIAL_MODEL` / 44 `UNMODELED` across 65**, none operational/validated; no standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). The two-scene source interleaves retrospective and current material and has label inversions; seven Sensei choices are singleton. **BA-C021** remains open: Hasumi's diet vow and this food-directed raid do not adjudicate the alleged treaty saboteur or official sanction. E006 remains unopened.
 
 Routing: [V003 C002 E005 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_E005_DEEP_READING.md) → `BA:main:003:002:005`, two scenes, 144 represented numbered units and seven singleton Sensei choices. Coverage is **109 / 310**.
+
+## 80. V003 C002 E006 provisional coverage delta
+
+Ichika says Tsurugi has launched before Hasumi can restrain her and other Justice Realization members follow; the claimed wall/door collision is phone audio, not an inspected damage report. Azusa estimates a nearby blast within one kilometer without identifying its cause. Hasumi asks Sensei and the remedial club to respond, explicitly preferring a Schale/remedial public face over a Trinity–Gehenna committee clash during treaty negotiations. Sensei agrees, orders departure and then says **safety first**; no tactical safety outcome is yet observed. Hifumi is surprised by fighting, Hanako assents, Azusa says this is her first proper combat under Sensei, and Koharu is pleased to act beside Hasumi before her grade bar is lifted. This is temporary co-action, not formal reinstatement. The Gourmet Research scene suggests the intended tuna meal is disrupted; Haruna/Akari/Junko/Izumi split under pursuit, leaving Izumi pleading. Hasumi orders pursuit and claims Trinity territorial advantage. Akari appears staggering, and Junko meets Tsurugi amid label-inverted laughter/reaction; no injury or capture is established. Tsurugi has a first narrow direct vocal cue but remains `UNMODELED`; Fuuka is absent, so her E005 gagged safety issue is unresolved. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 44 `UNMODELED` across 65**, none operational/validated; no standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). **BA-C021** receives no official exam, sanction or treaty-saboteur finding. E007 remains unopened.
+
+Routing: [V003 C002 E006 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_E006_DEEP_READING.md) → `BA:main:003:002:006`, two scenes, 45 numbered units and two singleton Sensei choices. Coverage is **110 / 310**.

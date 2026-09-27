@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:005; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:006 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:006; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:007 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E005 active provisional; E006 unopened
+current_sequential_boundary: MAIN_V003_C002_E006 active provisional; E007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1769,3 +1769,12 @@ No new durable claim ID, standalone model, frozen prediction or side-source admi
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test; other claim families receive no global adjudication.
 
 Eight named `UNMODELED` subjects enter; no new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; aquarium outcome, camp rule, private Koharu directive and official second exam remain OPEN.
+
+## V003 C002 E006 claim delta — negotiated optics versus actual deployment
+
+- **BA-C001/C016 — QUALIFY:** Sensei agrees to Hasumi's request and adds `安全第一`, a meaningful stated constraint under immediate danger but not an observed harm-prevention result. Koharu's temporary co-action is not institutional reinstatement.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Hasumi explicitly seeks a remedial-club/Schale solution so the Gehenna Gourmet incident is not read as Justice Realization versus Gehenna near the Eden Treaty. Ichika reports Tsurugi/committee already deploying, and scene 2 shows Hasumi-led pursuit; the preferred public framing may fail and is not a lawful authority finding. No treaty saboteur or collective-expulsion outcome emerges.
+- **BA-C008 — STRENGTHEN:** Ichika's phone warning, Azusa's estimated blast distance, Hasumi's stated optics rationale, fish-food reaction, Izumi abandonment and scene-2 label inversion have separate evidential weights. Do not infer who caused an explosion, exact fish state, injury or arrest.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; raid resolution and official exam remain OPEN.

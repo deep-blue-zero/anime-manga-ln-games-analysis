@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:005; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:006 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:006; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -808,3 +808,7 @@ Sensei's singleton choices suggest rain may affect Azusa's sleep, observe Hanako
 ## V003 C002 E005 delta — academic encouragement and reciprocal concealment
 
 Sensei accompanies the four to a late-night dessert shop after E004 assent. Hasumi states campers should not have gone out, hedged as `禁じられていたはず`, then proposes both sides pretend not to have seen each other because she is eating against her public diet pledge. Sensei does not visibly contest or verify the camp rule; E004 assent plus E005 silence therefore cannot be represented as an authorized exception. They normalize night hunger and tell Hasumi Koharu's marks are rising, with Hifumi reinforcing the forecast. This refers to mock results and is supportive, not an official pass guarantee. Hasumi's later “Sensei will surely help” is her expectation, not Sensei's new explicit contract. Koharu is encouraged but remains under a grade-based committee return bar. The subsequent aquarium alert produces no printed Sensei response yet. Seven singleton choices, including silence and concern, do not form branching ethical outcomes; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E006 delta — safety-first command, outcome withheld
+
+Sensei accepts Hasumi's request that Schale and the remedial group intervene in a Gehenna Gourmet raid to moderate treaty optics. The choice orders `補習授業部一同出発`; Hifumi expresses alarm at sudden fighting, Hanako defers to Sensei and Azusa offers to be used under their first proper command. Sensei's second singleton choice says `安全第一`, a relevant adult restraint but not an observed tactic, consent process, injury prevention or aftermath. Koharu's enthusiastic work beside Hasumi is not an official grade-bar exception authorized by Sensei. The committee's own deployment blurs Hasumi's desired public framing. No official exam teaching effect or E017 protection promise implementation is shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

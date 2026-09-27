@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:005; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:006 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:006; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -933,3 +933,11 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **The suspect lens meets an aquarium:** Hasumi leaps from an incursion report to Prefect/Pandemonium and treaty sabotage. Ichika narrows the facts; Haruna voices a food motive for the gold tuna. The episode performs the danger of totalizing security inference without establishing every phone allegation's truth.
 - **Consent under gag:** Haruna theatrically treats Fuuka's muffled protest as endorsement. Akari notes speech is blocked; the text marks non-consent more strongly than Haruna's self-serving translation.
 - **Mutual concealment and academic care:** The unauthorized-seeming camp outing and Hasumi's dessert prompt `見なかったことに`, while Hasumi's Koharu study support is sincere speech under an access/grade bar. Reciprocal discretion is not institutional exoneration.
+
+## V003 C002 E006 motif / callback delta — whose uniform is seen
+
+- **Optics as intervention design:** Hasumi wants a Schale/remedial group face on a Gehenna incident, aware that visible Justice Realization confrontation could imperil treaty politics. Yet Tsurugi and others already mobilize, so the desired image may diverge from actual force.
+- **Safety first versus use me:** Azusa offers tactical availability under Sensei's first real combat direction, while Sensei names safety as first priority. This tests the adult's student-side stance prospectively, but no protective result is yet shown.
+- **Koharu alongside Hasumi:** the E005 promise of future committee return gains a temporary field collaboration sooner than Hasumi expected. It is an affective callback, not a grade-bar resolution.
+- **Fish versus appetite:** E005's prized meal becomes an E006 “tempura” lament, and the group splits rather than stay together to eat. Fuuka's gagged status does not disappear merely because she is offscreen.
+- **Fearful pursuit:** Tsurugi's first voiced chase cue and Junko's terror develop the E005 deployment warning without proving capture or harm.

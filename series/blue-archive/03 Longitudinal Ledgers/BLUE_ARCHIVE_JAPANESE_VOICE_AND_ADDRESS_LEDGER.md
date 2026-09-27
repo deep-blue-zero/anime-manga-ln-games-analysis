@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:005; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:006 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:006; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1184,3 +1184,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Koharu's `あんまりご飯も食べない`/`ずっと…守って` are partial observer claims. Narrator `パフェを三つ目の前にして、美味しそうに食べている` confirms Hasumi eating amid three parfaits, not all three consumed. Hasumi's `合宿中の外出が禁じられていたはず` includes `はず`, not inspected written policy; `見なかったことに` is deliberate mutual discretion.
 - Hasumi's `本来の目標`/`ただ目の前の勉強の話だけをしているわけでは` and `それではダメなんです`/`先生も` echo E015 fragments, but do not specify an elite-spy task. `scene:002:u:0078` is Koharu-labelled yet sounds like Hasumi receiving grade praise.
 - Ichika's `推測される`, `との情報` and `多分` mark attributed intelligence/resale conjecture. Hasumi's `きっとエデン条約を邪魔` is immediate conjecture, later revised by four-person/aquarium detail. Haruna's `食べるか、死ぬか` is rhetoric; Fuuka's muffled protests through an explicitly named `猿ぐつわ` cannot be glossed as assent. Seven Sensei choice groups are singleton; `u:0131` is a next-title card.
+
+## V003 C002 E006 delta — political framing and chase attribution
+
+- Ichika's `発射……飛び出ちゃいそう` self-corrects a comic launch metaphor for Tsurugi; the wall/door warning is phone audio, not an inspected damage report. Azusa's `1km以内` is an estimated sound-based proximity claim, not a measured blast origin.
+- Hasumi's `傍から見て` explicitly marks audience perception as the treaty problem. `補習授業部と「シャーレ」が一緒に解決` is her preferred representation, not proof Justice Realization abstains. `ここはトリニティ自治区` is a jurisdictional assertion/prediction, not verified code. Koharu `肩を並べる` exchange marks field solidarity, not formal return.
+- Sensei's two choices are singleton: immediate `出発`, then `安全第一`. Azusa's `存分に使って` offers combat availability; it does not waive the teacher's safety obligation.
+- Haruna's `天ぷらになってしまいました` is comic food framing after Izumi's tuna cry; no depicted cooking/blast causation. Scene 2 `u:0019` Junko-labelled cackle and `u:0020` Tsurugi-labelled `鬼` conflict with turn roles; `u:0021` Tsurugi cry is secure enough for a first direct vocal cue. No line should be silently reassigned as a precise person-voice exemplar. `u:0023` is a title card.

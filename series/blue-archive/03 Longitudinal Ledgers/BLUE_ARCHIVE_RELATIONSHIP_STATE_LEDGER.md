@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:005; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:006 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:006; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -787,3 +787,11 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **MAKOTO ↔ IROHA/HASUMI:** Makoto repeatedly ignores Iroha's corrections and objectifies Hasumi; Iroha attempts to preserve factual role assignment and de-escalate. No durable treaty relationship can be inferred from this one broken meeting.
 - **ICHIKA ↔ HASUMI:** Ichika supplies a field alert and revises scale/target as data arrive; Hasumi initially overinterprets treaty risk, then hears the four-person aquarium account. Phone relationship is professional, private breadth absent.
 - **GOURMET RESEARCH ↔ FUUKA:** Haruna/Junko/Akari/Izumi coordinate the tuna escape; Fuuka is gagged and vocalizes protest while Haruna falsely attributes consent. No voluntary cooking agreement or outcome is shown. All named newcomers remain `UNMODELED`.
+
+## V003 C002 E006 relationship delta — temporary co-action, split flight
+
+- **HASUMI ↔ KOHARU:** Hasumi invites/accepts Koharu beside her in a live response; Koharu is proud to join. Their bond carries through the academic access bar, but formal membership and grade condition remain unresolved.
+- **HASUMI ↔ SENSEI/REMEDIAL GROUP:** Hasumi asks for a joint response to manage treaty optics, Sensei agrees with safety-first qualification, and Azusa/Hanako accept while Hifumi is surprised. This is a temporary coalition, not a newly defined club command hierarchy or completed safe operation.
+- **HASUMI/ICHIKA ↔ TSURUGI:** Ichika says Tsurugi cannot be held once activated; Hasumi asks to stop her and later pursues. Tsurugi's direct vocal encounter with Junko supplies a narrow field cue, not full psychophysical characterization.
+- **GOURMET RESEARCH:** Junko proposes separate flight, Haruna/Akari take it up and Izumi fears being abandoned. Akari appears staggering when Junko encounters her, then Junko meets Tsurugi. No durable betrayal/friendship break or final fate is shown.
+- **FUUKA ↔ GROUP:** no E006 appearance; E005 gagged non-consent and safety question stay open.

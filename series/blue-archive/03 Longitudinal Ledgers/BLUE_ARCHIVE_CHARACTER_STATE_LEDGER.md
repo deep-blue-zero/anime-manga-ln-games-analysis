@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:005; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:006 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:006; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -941,6 +941,16 @@ Readiness: **21 `PARTIAL_MODEL` / 36 `UNMODELED` across 57**, none operational/v
 - **Koharu:** wakes, sees Hifumi/Hanako leaving Sensei's room and interprets a tableau through her pejorative register. No evidence she heard the substantive meeting.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 36 `UNMODELED` across 57**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E006 character-state delta — safety-first intervention
+
+- **Hasumi:** asks Ichika to restrain Tsurugi, then seeks remedial-club/Schale help to avoid a visibly Trinity–Gehenna clash near the treaty. She includes Koharu in field action earlier than expected and later orders split pursuit, invoking Trinity territory. Optics and jurisdiction are her situated claims; no capture/result is printed.
+- **Koharu:** eagerly accepts fighting beside Sensei/Hasumi, showing continuing committee attachment without a grade-bar lift or formal reinstatement.
+- **Sensei/Azusa/Hifumi/Hanako:** Sensei accepts intervention and specifies safety first. Azusa follows their first proper combat command and offers herself for use; Hifumi is startled and Hanako assents. No executed safety tactic or academic result is yet shown.
+- **Ichika/Tsurugi:** Ichika reports Tsurugi launched despite warning and may have hit a wall; later Tsurugi has a direct chase cry amid label inversions. No validated structural damage, injury or secure arrest. Tsurugi remains `UNMODELED`, not newly modeled.
+- **Haruna/Junko/Akari/Izumi/Fuuka:** the tuna meal is apparently disrupted, group separates under pursuit, Izumi protests being left, Akari appears weakened and Junko encounters Tsurugi. Fuuka has no E006 update; E005 gagged status is not resolved.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 44 `UNMODELED` across 65**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C002 E005 character-state delta — diet reversal and aquarium raid
 

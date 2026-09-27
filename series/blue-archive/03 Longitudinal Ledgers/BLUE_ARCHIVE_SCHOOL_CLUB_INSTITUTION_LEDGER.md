@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:005; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:006 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:006; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -718,3 +718,7 @@ Storm-soaked laundry and an apparent lightning-associated power outage stop the 
 ## V003 C002 E005 institutional delta — failed meeting, camp rule and aquarium response
 
 Koharu locates Hasumi's earlier Gehenna anger after an Eden Treaty-related meeting; Makoto's body-focused misidentification and Iroha's corrections show the meeting's interpersonal breakdown, and Koharu says the conference failed. No official minutes, ETO decision or Gehenna executive attack are shown. The formerly truncated Hasumi “declaration” is a diet pledge, not a Justice Realization deployment order. Her requested peer food monitoring is personal and potentially burdensome, not a school regulation. At a shop, Hasumi says the remedial campers were supposedly forbidden to leave and proposes reciprocal non-reporting of their outing and her parfaits; the underlying written camp rule/exception remains uninspected. Hasumi's Koharu exhortation names study and eventual Justice Realization return, echoing E015 fragments but not resolving whether any covert directive existed. Ichika's Justice Realization call reports suspected Gehenna fire/raid, then narrows to four Gourmet Research members, aquarium and gold tuna. Haruna's directly shown group takes the fish for eating by her stated purpose, with gagged School Lunch head Fuuka; initial gunfire, exact force, capture and ownership/valuation are not independently audited. The phone's resale hypothesis is not Haruna's motive. Makoto, Iroha, Ichika, Junko, Akari, Haruna, Fuuka and Izumi are new direct named subjects; Satsuki is mention only.
+
+## V003 C002 E006 institutional delta — Schale-facing security response
+
+Ichika's phone call says Tsurugi has already rushed out and other Justice Realization members are following. Hasumi proposes that the remedial club and Schale resolve the aquarium/Gourmet incident to avoid a public Trinity–Gehenna institutional clash just before the treaty; Sensei agrees and specifies safety first. The committee nonetheless deploys and Hasumi later orders pursuit, so the proposed optics do not certify actual separation or neutrality. Azusa says this is her first proper combat under Sensei; Koharu joins Hasumi despite her grade-based access bar, without formal reinstatement. Hasumi asserts Trinity territorial enforcement, not an inspected rule. In the pursuit, Gourmet members split; tuna condition, accused gunfire, Fuuka safety, captures and any treaty consequence remain unverified. No official second exam, club graduation, group expulsion, treaty signature or traitor determination occurs.
