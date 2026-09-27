@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:008; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:009 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:009; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -810,3 +810,10 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **HIFUMI ↔ HANAKO:** Hifumi is relieved by Hanako's 69-point mock and says she still does not know Hanako's prior burden; Hanako thanks her in a label-unstable exchange. Care is clear, but intimacy does not equal motive disclosure.
 - **REMEDIAL GROUP ↔ SENSEI:** all four celebrate mock passes and resume study, with Sensei announcing results/encouraging. The prospective official examination and collective-sanction threat remain separate from club morale.
 - **NAGISA ↔ SENSEI/MIKA:** Nagisa again solicits a traitor judgment; Sensei maintains their own-method boundary. She asks about Mika's contact, but no answer, disclosure or changed alliance is shown. Nagisa's possible knowledge source is unknown.
+
+## V003 C002 E009 relationship delta — affection inside coercive sorting
+
+- **NAGISA ↔ HIFUMI:** Nagisa directly says she values and likes Hifumi yet fears an alleged criminal-leader identity. This is an internally conflicted attachment, not evidence Hifumi led the group or that Nagisa knows her heart. V001's imposed “Faust” role remains separate from present private motives.
+- **NAGISA ↔ KOHARU/HASUMI:** Nagisa describes Koharu as leverage to constrain Hasumi's Gehenna hostility. No evidence Koharu consented, Hasumi was told, or the leverage mechanism was formally documented.
+- **NAGISA ↔ SENSEI:** Sensei refuses suspicion as a use of time, starts to defend Hifumi and diagnoses selective distrust; Nagisa interrupts, insists on expulsion and then says each will strive in their own way. This is adversarial but not a permanent interpersonal rupture or a cancellation of her sanction plan. Choice `009` alternatives should not be merged into one spoken bargain.
+- **REMEDIAL GROUP:** the four are absent from this conversation. E008's real friendship and mock hope coexist with Nagisa's portrayal; no group member is shown hearing this rationale or the threatened next step.

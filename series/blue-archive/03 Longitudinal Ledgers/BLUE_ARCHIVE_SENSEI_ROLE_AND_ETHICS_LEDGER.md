@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:008; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:009 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:009; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -820,3 +820,7 @@ Sensei accepts Hasumi's request to convey three captured Gourmet students and Fu
 ## V003 C002 E008 delta — educational hope and reiterated refusal
 
 Sensei joins the third club mock's start/result ceremony and gives simple encouragement as all four receive local passes. The narrator, not Sensei, marks 69/73/61/75; Hifumi leads the mock and reward. This is evidence of continued teacher support, not a controlled teaching-effect finding or proof of official second-exam success. When Nagisa asks who the supposed Trinity traitor is, Sensei's singleton choice says `前と同じになるけど、私は私のやり方で対処するよ`. It carries forward E017's refusal of her suspect hunt and E007's club-protection commitment without naming a student, certifying innocence, disclosing Mika's talk or specifying a lawful academic remedy. Nagisa then asks about Mika; no reply appears. The pressure remains live at the official-exam eve. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E009 delta — reject suspicion without claiming to read hearts
+
+Sensei's inward `誰かを疑うことに時間を費やすつもりは無い` and direct choice to reward effort continue the E017/E008 refusal to turn teaching into suspect identification. They start to contextualize Nagisa's Hifumi-criminal claim but are interrupted before an explanation is printed; prior V001 evidence of an armed raid with Hifumi's coerced “Faust” cover cannot be collapsed into either pure innocence or actual mastermind status. Nagisa argues unprovable inner motives justify expulsion. Sensei challenges her selective seeing and asks her out of `疑心暗鬼`; this is an ethical/reasoning objection, not clinical knowledge. Choice `009` branches between a promise to free Nagisa from distrust and a promise to secure all four passes. Both are future commitments; no lawful academic safeguard, completed exam, withdrawn sanction or mind-reading proof is shown. Nagisa's `私なりに頑張ります` leaves a potential conflict live. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

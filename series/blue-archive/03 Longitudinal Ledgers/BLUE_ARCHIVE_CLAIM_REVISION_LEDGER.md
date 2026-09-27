@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:008; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:009 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:009; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:010 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E008 active provisional; E009 unopened
+current_sequential_boundary: MAIN_V003_C002_E009 active provisional; E010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1796,3 +1796,12 @@ Sena enters `UNMODELED`; no new durable claim ID, standalone model, frozen predi
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; official second result, Hanako's motive and Nagisa's evidence/authority remain OPEN.
+
+## V003 C002 E009 claim delta — epistemic uncertainty weaponized as sanction
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei prioritizes the students' effort and challenges Nagisa's selective suspicion. Choice `009` offers two alternative promises—help Nagisa leave distrust or make the group pass. Neither is an achieved intervention or official outcome.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/REVISE locally:** Nagisa gives a four-part selection rationale directly: Koharu as Hasumi control, Hanako intentional marks, Azusa's alleged uncontrollability and Hifumi's alleged criminal leadership. E003 directly supports Hanako's intentionality; V001 supplies Hifumi's imposed `ファウスト` cover in a real armed bank action; Azusa's E001 forged entry was Mika's work and E002/E004 evidence is mixed. None establishes treaty sabotage or a proportionate lawful expulsion. Nagisa converts unprovability of hearts into `退学させるしかない`, a coercive inference rather than a demonstrated necessity.
+- **BA-C008 — STRENGTHEN:** Nagisa's inputs are actor claims with distinct prior provenance. Sensei's attempted Hifumi explanation is cut off, `u:0001/0032` are inward, choice `009` branches, `u:0027-0028` duplicate, and E010's title card is not an exam result.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Nagisa's sources/authority, student motives and official exam remain OPEN.

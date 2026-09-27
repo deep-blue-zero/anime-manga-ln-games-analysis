@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:008; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:009 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:009; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1206,3 +1206,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - `u:0012` is Koharu-labelled but unusually polite with `♡`, `u:0033` Koharu-labelled praise names “Koharu-chan,” `u:0037` Hanako-labelled praise names “Hanako-chan,” and `u:0044` Hifumi-labelled apology follows Hanako's response. These are attribution cautions, not license to auto-correct all names. Scores and the broader encouragement exchange remain clear.
 - Azusa's `友達からもらった初めてのプレゼント` names Hifumi as a friend from Azusa's own perspective; `一生大切にする` is a vow, not verified duration. Her repeated `カバ` and Hifumi's `鳥` correction form affectionate hobby comedy, not a real animal-classification claim.
 - Nagisa's `裏切り者` question is direct at `u:0095`; Sensei's singleton `私は私のやり方で対処する` at choice `006` refuses her requested method without naming a target. Nagisa `u:0098` is inward-marked, whereas `u:0099` directly asks about Mika; no answer follows. Six choice groups are singleton; `u:0100` is a title card.
+
+## V003 C002 E009 delta — proof demand, inward refusal and branching vow
+
+- Sensei `u:0001` (`心の声`) rejects time spent doubting students; choice `001` audibly prioritizes their effort. Nagisa's `どうして彼女たちなのか` leads to distinct actor labels: Koharu `統制` lever, Hasumi `時限爆弾`, Hanako `わざと`, Azusa `統制不能`, and Hifumi alleged `犯罪集団のリーダー`. These are Nagisa's characterizations, not neutral registry facts.
+- Nagisa's repeated `証明` and `本心` culminate in `所詮「他人」` and `退学させるしかない`. The move from unprovable inner motive to certain expulsion is the speaker's inference, not a demonstrated proof standard. Sensei's attempted `誤解だよ……ちゃんと事情があって` is interrupted by `どうやって？`; no completed Hifumi defense is printed.
+- Sensei's `疑心暗鬼の闇` and “seeing only what you want” are confrontational interpretation, not clinical diagnosis. Choice `009` contains two alternatives, `君を、そこから出してみせる` **or** `絶対に、補習授業部のみんなを合格させる`; Nagisa `u:0027-0028` duplicates the convergence line. Her `私なりに頑張ります` is unspecified future action. `u:0032` inwardly notes leaving; `u:0033` is only the next title.

@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:008; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:009 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:009; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -956,3 +956,9 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **Chosen gift as belonging:** E013's promised Momo Friends incentive becomes Hifumi's actual Peroro Doctor gift. Azusa calls it her first gift from a friend, extending E004's ordinary-life delight into a self-named relationship without closing her hidden plan.
 - **Observation as double use:** Camp lets Hifumi/Sensei support real study and friendship while Nagisa says it was arranged to observe possible traitors. The same shared time therefore bears care and surveillance functions; Nagisa's final question turns the reward's warmth back into institutional pressure.
 - **Tomorrow and the title-card cut:** Hifumi asks for one more day's effort, then Nagisa presses Sensei before the official exam. The forward `黒い手` card identifies no actor or outcome within E008.
+
+## V003 C002 E009 motif / callback delta — a black hand made of inference
+
+- **Four different suspicions in one box:** Nagisa's club-selection rationale folds Hasumi leverage, Hanako's actual score choice, Azusa's contested background/violence and Hifumi's imposed V001 “Faust” cover into one expulsion container. The mismatched provenance is the point: administrative symmetry is not evidentiary equivalence.
+- **Beloved stranger:** Nagisa says she likes Hifumi but cannot prove her heart; `他人` becomes the hinge from care to suspicion. This intensifies E008's actual first-friend gift without negating either relationship, and raises the adult-knowledge question already present in E016's “unprovable truth” exchange.
+- **Light/blackness reversal:** E008's `差し込む希望` mock hope meets Sensei's E009 `疑心暗鬼の闇` diagnosis of Nagisa. The title `黒い手` does not identify a literal conspirator in this unit. Sensei's two alternative promises remain prospective light, not achieved reform or pass.

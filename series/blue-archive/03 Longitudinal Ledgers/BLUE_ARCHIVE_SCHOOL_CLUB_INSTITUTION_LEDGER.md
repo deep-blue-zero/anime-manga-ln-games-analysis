@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:008; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:009 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:009; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -730,3 +730,7 @@ Haruna/Junko/Akari speak as caught while Fuuka is with them; Izumi remains lost 
 ## V003 C002 E008 institutional delta — mock pass is not the sanction gate
 
 The club's third **internal mock** is narrator-marked 69/73/61/75, four passes under its stated local standard. Azusa says two days remain to the second `特別学力試験`, and after a time skip Hifumi says that official examination is tomorrow. The different mock papers are not controlled measures, and no official second sitting, simultaneous-pass certification, grade-bar lift, expelled-student outcome or Nagisa rule change occurs. Hifumi's present forecast is not a formal school result. Nagisa says the camp was arranged to observe the students, then directly asks Sensei for a supposed Trinity traitor; this corroborates the continuing suspect-selection purpose as her account, not a lawful investigation record. Sensei reiterates an independent approach; Nagisa asks about Mika but receives no printed response. The live educational benefit and punitive design coexist without adjudication.
+
+## V003 C002 E009 institutional delta — nonuniform suspect inputs, one proposed sanction
+
+Nagisa explains her own student-selection logic: Koharu was placed to constrain Hasumi, Hanako deliberately underperformed, Azusa supposedly combines suspicious existence with repeated violence, and Hifumi is reported as a criminal leader. These are different alleged risks, not one proven treaty offense. The known V001 bank action makes Hifumi's “Faust” rumor intelligible but does not establish voluntary leadership or present criminal organization; Hanako's admitted marks likewise do not establish sabotage. Nagisa asserts that unknowable hearts leave expulsion as the only way to secure the treaty. No written exclusion authority, proof standard, due process, specific sabotage evidence or viable alternative analysis is shown. Sensei contests the inference and choice-conditionally promises reform or a club pass, with no official second `特別学力試験` in E009. The title card names E010's exam but supplies no score.

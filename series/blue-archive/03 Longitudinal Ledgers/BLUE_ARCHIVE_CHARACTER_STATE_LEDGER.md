@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:008; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:009 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:009; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -993,3 +993,11 @@ Readiness **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/va
 - **Nagisa:** reframes camp as a way to observe students, asks Sensei for a culprit judgment and whether Mika contacted them. No evidence of surveillance, response to her final question or altered sanction mechanism is shown.
 
 Readiness remains **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). The 69/73/61/75 passes belong to the **third club mock**, not the official second special examination.
+
+## V003 C002 E009 character-state delta — Nagisa's suspect taxonomy
+
+- **Nagisa:** explicitly gives four different reasons for selecting the club: Koharu as leverage over Gehenna-angry Hasumi, Hanako's deliberate low marks with unknown intent, Azusa's suspicious background/alleged repeated violence, and intelligence naming beloved Hifumi as a criminal-group leader. She argues that other minds cannot be proven and expulsion is necessary for treaty success. This is a situated, fear-laden actor rationale, not a validated dossier, guilt verdict or lawful necessity. Her own affection for Hifumi does not cancel her proposed sanction. Remains `UNMODELED`.
+- **Sensei:** inwardly rejects spending time suspecting students, says their effort should be rewarded, begins a Hifumi explanation but is interrupted, then challenges Nagisa's selective suspicion. Choice `009` has two alternative promises, not both mandatory; no actual cure, exam pass or procedure change. Existing narrow `PARTIAL_MODEL`.
+- **Koharu/Hanako/Azusa/Hifumi:** all are spoken about, not direct speaking actors in E009. Hanako's E003 intentionality, Hifumi's V001 imposed “Faust” cover and Azusa's mixed prior record are distinct earlier evidence; none is transformed into proven treaty guilt by Nagisa's report. Hifumi's current criminal leadership remains unverified.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Official second exam still unopened.
