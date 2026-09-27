@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–013; BA:main:003:003:014 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–014; BA:main:003:003:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -996,3 +996,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **AZUSA ↔ SAORI:** Azusa announces an intent to destroy Saori's halo. Saori is not present, and no attack or outcome is shown.
 - **AZUSA ↔ SENSEI/SEIA/CLUB:** she assigns herself responsibility for Sensei's shooting, Seia's coma and risks to the club. This exposes guilt and protective motive, not sole causal proof; her gratitude confirms the club's emotional importance alongside formal Trinity membership.
 - **SEIA ↔ HANAKO/HIFUMI:** Seia comments on their inferred understanding without direct contact in this unit; neither hears her verdict here.
+
+## V003 C003 E014 relationship delta — tutor, pursuer and gift
+
+- **SAORI ↔ AZUSA:** Saori claims ownership of Azusa's training and predicts her moves; Azusa ambushes her, escapes local capture, challenges the origin of Arius hatred and apparently uses the plush as a deceptive carrier. The conflict does not end with a confirmed death, conversion or reunion.
+- **AZUSA ↔ HIFUMI:** Hifumi is absent but her first-friend gift remains physically and emotionally salient. Saori threatens Hifumi and misreads the dropped plush as pure sentimental bait; Azusa's later apology to Hifumi does not disclose Hifumi's knowledge or reaction.
+- **SAORI ↔ ATSUKO/MISAKI/HIYORI:** Saori protects/warns Atsuko, but her order to pursue draws the team into traps and collapse. Misaki interprets Atsuko's gestures and reports inability to move; no final condition or team split is established.
+- **AZUSA ↔ ATSUKO:** Atsuko blocks Azusa and makes an untranscribed gesture; Azusa refuses. The offer's content and their prior bond cannot be reconstructed from the sign alone.

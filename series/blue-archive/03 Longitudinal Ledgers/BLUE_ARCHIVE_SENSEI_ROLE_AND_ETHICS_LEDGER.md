@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–013; BA:main:003:003:014 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–014; BA:main:003:003:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -917,3 +917,7 @@ Sensei does not speak or choose. A Sisterhood official relays Rescue Knights' re
 ## V003 C003 E013 delta — teacher absent, responsibility contested
 
 Sensei has no direct speech, decision or medical update. Azusa blames herself for Sensei's shooting and treats the absent teacher as part of her reason for prospective counterviolence; Hifumi hopes Sensei will soon wake and suggests teacher/peer help may find another way. Neither is evidence of recovery, an endorsed lethal remedy or an adult instruction. The students' competing ethics unfold without Sensei's immediate guidance, while prior care and formal Trinity recognition remain available context rather than proven resolution. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E014 delta — no teacher intervention into the ambush
+
+Sensei neither speaks nor receives a medical update. Azusa's unsanctioned trap and apparent plush-carried device unfold without adult direction, while Saori threatens Hifumi and disputes the meaning of her gift. The source does not establish what Sensei would endorse, whether the device activates, or whether any halo is broken. This is a case of students acting under perceived catastrophic necessity, not evidence that Sensei's care ethic authorizes an assassination or that it could already have prevented one. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

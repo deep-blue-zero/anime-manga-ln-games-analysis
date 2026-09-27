@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–013; BA:main:003:003:014 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–014; BA:main:003:003:015 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E013 active provisional; E014 unopened
+current_sequential_boundary: MAIN_V003_C003_E014 active provisional; E015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2018,3 +2018,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E014 unopened.
+
+## V003 C003 E014 claim delta — device recognition without outcome
+
+- **BA-C001/C016 — PRESERVE:** Sensei has no new voice/health report; Saori's threat to Hifumi does not establish adult response.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Squad now sees a supposed tactical weapon and Saori orders advance, but effect and deployment are not inspected. Saori's covenant-intervention classification is her uncertain tactical reading, not legal revocation of Azusa's Trinity papers. Azusa's ambush challenges Saori's “futile resistance” claim but ends without certified halo destruction.
+- **BA-C008 — STRENGTHEN:** empty location headings, Atsuko gestures through Misaki, Saori's scriptural quotation/procurement non-answer, local collapse, threatened Hifumi, plush-device recognition and absence of a post-warning explosion are distinct evidence limits.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E015 unopened.

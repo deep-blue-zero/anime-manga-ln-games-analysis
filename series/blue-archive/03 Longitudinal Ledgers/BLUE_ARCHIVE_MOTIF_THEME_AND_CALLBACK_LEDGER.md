@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–013; BA:main:003:003:014 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–014; BA:main:003:003:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1151,3 +1151,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Plush, sea, anime:** the farewell's remembered first-friend gift and beach trip return as evidence of experienced belonging; the next group sea visit and Peroro anime remain unfulfilled.
 - **The unreachable side:** Azusa describes a moral border Hifumi must not cross, and Hifumi repeatedly calls across it. The scene leaves both physical course and relational durability open.
 - **Happy ending under dispute:** Azusa echoes Saori-like fatalism; Hifumi's hope is no guarantee, but Azusa's categorical denial is likewise not narrator-certified.
+
+## V003 C003 E014 motif / callback delta — a gift is more than a weak point
+
+- **Plush as hope and countermeasure:** Saori reads Hifumi's first-friend gift only as exploitable dependence; the hidden Seia-attack object forces a tactical second reading, without negating the real friendship or proving an explosion.
+- **Learned hatred:** Azusa questions when Arius gained weapons and whose resentment she was taught. Saori's intent-over-tool sermon evades the origin question, carrying E013's training-versus-self tension forward.
+- **Inherited technique versus change:** Saori claims she knows every Azusa method because she taught her, yet traps, escape and the decoy expose limits of that claim. No ultimate superiority is settled.
+- **Conditional guardianship:** Justina's apparent power is bound to conflict/identity interpretation by Saori's account, echoing treaty-law distortions without verifying actual covenant operation.
+- **Darkness and light:** Saori's moth/light metaphor names the plush “hope” only to weaponize that bond; Azusa's apology records an ethical cost the tactic cannot simply erase.

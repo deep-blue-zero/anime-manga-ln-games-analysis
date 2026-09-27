@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–013; BA:main:003:003:014 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–014; BA:main:003:003:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E014 character-state delta — ambush and tactical friendship
+
+- **Azusa:** traps the waterway, draws Saori into pursuit and escapes a declared checkmate. She questions whose resentment she learned in Arius, holds the first-friend plush, then apparently uses it to carry a device Saori recognizes from the Seia attack. Her sobbing apologies signal cost without proving detonation, death or renunciation. `UNMODELED`.
+- **Saori:** sees the tactical weapon, orders Trinity advance, interprets the Justina intervention limit, pursues Azusa and argues that murderous intent rather than tools matters. She threatens Hifumi, predicts the plush will draw Azusa back, then spots the hidden object and warns Atsuko. Her overconfident predictions are not narrator findings. `UNMODELED`.
+- **Misaki/Hiyori/Atsuko:** Misaki glosses Atsuko's signs with admitted uncertainty, warns of traps and later says collapse has immobilized her. Hiyori estimates a three-hour absence and cries in pain, with no confirmed prognosis. Atsuko blocks Azusa, gestures an unprinted proposal, later objects to Saori's pressure and receives a warning to flee. All `UNMODELED`; no precise sign-language content beyond speaker gloss.
+- **Sensei/Hifumi:** neither acts or speaks here; Hifumi is Saori's threatened target and remembered gift-giver, not a witnessed victim. Sensei's E012 reported status unchanged.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E013 character-state delta — Azusa's prospective killer identity
 

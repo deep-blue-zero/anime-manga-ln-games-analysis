@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_CHECKPOINTS_PLUS_C003_E001_E013
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_CHECKPOINTS_PLUS_C003_E001_E014
 generation: V1
-version: "1.99"
+version: "2.00"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C002 through checkpoints, then BA:main:003:003:001–013 provisionally; 137/310 main units; side-source classes unreviewed; BA:main:003:003:014 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C002 through checkpoints, then BA:main:003:003:001–014 provisionally; 138/310 main units; side-source classes unreviewed; BA:main:003:003:015 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:003:003:014
+next_unopened_main_unit: BA:main:003:003:015
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:003:014
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V003_C003_E013` provisional boundary, inheriting canonical `MAIN_V003_C002`:
+This index answers four questions at the `MAIN_V003_C003_E014` provisional boundary, inheriting canonical `MAIN_V003_C002`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020 and V003 C003 E001-E013;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020 and V003 C003 E001-E014;
 - current checkpoint: `MAIN_V003_C002`; prior C001 and recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5` remain lineage;
-- main-story coverage: `137 / 310` canonical units;
+- main-story coverage: `138 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:003:003:014`.
+- next unopened main unit: `BA:main:003:003:015`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -78,15 +78,15 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Seia | `ANALYZED` through C003 E013; dream-adjacent no-remedy forecast remains voiced claim, not proven foresight | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Koharu | `ANALYZED` through C003 E011; Justice member summons her and she identifies confiscated-items post, formal status open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hanako | `ANALYZED` through C003 E012; reviews launch/video reports and explicitly marks catastrophe theory as multi-leap hypothesis | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Azusa | `ANALYZED` through C003 E013; tells Hifumi of planned Saori-halo destruction and says farewell; no killing shown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Azusa | `ANALYZED` through C003 E014; traps Squad, questions learned hatred, drops plush with recognized object; outcome open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Mika | `ANALYZED` through C003 E011; unlocated speech invokes Nagisa/Seia, no condition report | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Marie | `ANALYZED` through C003 E012; receives Hanako's tentative Justina/catastrophe synthesis | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hinata | `ANALYZED` through C003 E008; joins rear guard after identifying mimesis-looking foes | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sakurako | `ANALYZED` through C003 E002; offers Sisterhood guarantee and declares Azusa's Trinity papers official | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Saori | `ANALYZED` through C003 E010; describes missile/treaty alteration, coerces Azusa, plans Trinity assault | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hiyori | `ANALYZED` through C003 E010; says precept real, reports reserve mobilization and combat reluctance | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Misaki | `ANALYZED` through C003 E010; orally quotes claimed ETO clause/faction right, reports reserve/weapon timing | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Atsuko | `ANALYZED` through C003 E010; gestures near Azusa, self-address tag fault leaves proposal unknown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Saori | `ANALYZED` through C003 E014; orders advance, pursues Azusa and recognizes plush-carried object before outcome | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hiyori | `ANALYZED` through C003 E014; estimates Squad absence, encounters traps and cries in pain; status open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Misaki | `ANALYZED` through C003 E014; glosses Atsuko gestures, warns of traps/collapse and reports immobilization | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Atsuko | `ANALYZED` through C003 E014; signs ambiguously, blocks Azusa and receives Saori's flight warning | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Tsurugi | `ANALYZED` through C003 E008; tires in mimesis combat and guards Sensei's retreat | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hasumi | `ANALYZED` through C003 E008; entrusts Sensei to Hina while Justice holds rear guard | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sena | `ANALYZED` through C003 E011; transports shot Sensei to Trinity fifth gate, no hospital arrival | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -1170,3 +1170,9 @@ Routing: [V003 C003 E012 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 Seia's dream-adjacent overview says Hanako has seen a truth and cannot stop Trinity's end, but that is her asserted prognosis and cannot erase Hanako's explicit E012 hypothesis caveat. She describes a coded coordinate/time/animal message and Hifumi's inferred recognition, without showing the sender or message itself. Hifumi finds Azusa, who says she will stop the crisis by breaking Saori's halo, labels herself a prospective killer trained by Arius and takes responsibility for multiple harms. Intent, self-blame and sole-remedy belief are not a completed killing, a tested causal chain or proof alternatives are absent. Hifumi disputes the blame and hopes Sensei wakes; that is not a medical report. Narration-tagged thanks recalls the plush, sea and remedial-club learning, and Azusa directly says she valued those days before saying goodbye. Hifumi cites a future group sea trip and Peroro anime promise and calls after her; no interception or durable relationship outcome is narrated. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). E014 unopened.
 
 Routing: [V003 C003 E013 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E013_DEEP_READING.md) → `BA:main:003:003:013`, one scene, 75 numbered units and no Sensei choices. Coverage is **137 / 310**.
+
+## 109. V003 C003 E014 provisional coverage delta
+
+Squad sees a howling object treated as Maestro's awaited tactical weapon, though Misaki only glosses Atsuko's signs that it is a “failed” ancient-doctrine product; Saori orders Trinity advance. Scenes 2–3 are location headings alone, not described actions. At an underground waterway Azusa is strongly identified behind traps, a grenade and pursuit; Hiyori cries in pain, and a floor collapse leaves Misaki saying she cannot move, without confirmed fatality. Saori's claim that Justina intervenes only in Trinity–Gehenna conflict and might classify Azusa as non-Trinity/Arius is interested interpretation, not formal status revision. Azusa asks when Arius gained exotic weapons and whose hatred she learned; Saori answers with a scripture-sourced murderous-intent thesis, not procurement evidence. Azusa escapes Saori's announced checkmate. Saori threatens Hifumi and reads her plush gift as bait to recapture Azusa, then finds inside an object she recognizes from the Seia attack and warns Atsuko to flee. No post-discovery detonation, halo break, casualty or completed escape for Atsuko is transcribed. Azusa weeps and apologizes; her fragmentary “never again” cannot be completed for her. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). E015 unopened.
+
+Routing: [V003 C003 E014 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E014_DEEP_READING.md) → `BA:main:003:003:014`, four scene headings, 162 visible numbered units and no Sensei choices. Coverage is **138 / 310**.

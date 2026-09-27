@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–013; BA:main:003:003:014 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–014; BA:main:003:003:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -827,3 +827,7 @@ Sisterhood relays Rescue Knights' report that Sensei is in their room after heav
 ## V003 C003 E013 institutional delta — one student's declared counterviolence
 
 Azusa tells Hifumi she intends to destroy Saori's halo as her sole way to stop the crisis; no school order, authorization, operation or result appears. Her Arius training is firsthand self-report, not evidence that Trinity regularization in C003 E002 was revoked. She blames herself for injuries across Justice, Tea Party, Sisterhood and Gehenna and Seia's coma, but no institutional inquiry attributes sole causation to her. Seia's opening forecasts Trinity's end and Hanako's lack of remedy; this is her asserted appraisal, not a certified collapse. Hifumi's hope of Sensei's awakening does not alter E012's medical report. No treaty/ETO instrument, cessation or command decision is shown.
+
+## V003 C003 E014 institutional delta — advance order and contested precept
+
+Squad treats a howling, “failed” ancient-doctrine product as the awaited tactical weapon, mainly through Saori's description and Misaki's gloss of Atsuko's gestures; its builder, capabilities and use remain unverified. Saori orders waiting units to advance on Trinity. Location headings place the narrative through abandoned ruins, catacombs and waterway, without narrated action in the two middle scenes or a completed district takeover. At the waterway Azusa's apparent trap field disrupts Squad, and an upper-floor collapse leaves Misaki reporting she cannot move; no casualty inventory. Saori says Justina cannot intervene except in Trinity–Gehenna conflict and may treat Azusa as outside Trinity or as Arius Squad. This is an interested tactical interpretation, not an official revocation of Sakurako's formal-student declaration or technical proof of the precept. Saori recognizes an object inside Hifumi's plush as supplied for the Seia attack and warns Atsuko; no subsequent explosion/halo outcome is transcribed.

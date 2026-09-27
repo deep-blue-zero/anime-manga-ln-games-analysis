@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–013; BA:main:003:003:014 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–014; BA:main:003:003:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1396,3 +1396,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Italic `「人殺し」` at `u:0032` and `人殺しになった私は` at `u:0034` occur within prospective separation; `今から` at `u:0048` and `これから` at `u:0051` make the announced halo destruction and killing future intent, not completed past action.
 - Hifumi `きっと、すぐに目が覚めるはず` is hope under distress, not Rescue Knights' prognosis. Azusa `そんなハッピーエンドは…無い` is her categorical belief, not narratorial truth.
 - Italic `ナレーション` at `u:0056-0063` carries Azusa-addressed thanks, but the generic tag does not establish that Hifumi hears it. Direct Azusa speech begins again at `u:0064`. No Sensei choices; `u:0075` is E014 title only.
+
+## V003 C003 E014 delta — gloss, doctrine and the last unprinted effect
+
+- Misaki's `失敗作ではありつつも` is her gloss of Atsuko's gesture and she expressly says she does not fully understand; Saori's `ただの化け物` is disparaging perception, not taxonomy. Scene 2/3 headings give locations only; scene 4 numbering begins `u:0002`.
+- Saori's `トリニティの生徒ではないと解釈される可能性` and `アリウススクワッドだと解釈されたら` are modal interpretation risks, not formal student-status determinations. Misaki's `戒律も結局は解釈次第` is her conclusion, not an audited mechanism.
+- Saori's `チェックメイト`/`無駄な抵抗` is contradicted as terminal capture by her later `また逃げるのか`. Azusa's `その恨みは、一体誰の` asks origin; Saori's `殺意`/stone-scripture argument substitutes a moral thesis rather than answering.
+- Repeated italic `虚しい` is coercive pressure on Azusa's attachment, not narrator judgment. Saori's `これは、セイア襲撃の時に渡した` recognizes an object but `逃げろ` precedes any transcribed post-discovery blast. Azusa's `私は……もうこれで、二度と……` is incomplete and cannot be filled in.
+- No Sensei choices; `scene:004:u:0151` is E015 title only.
