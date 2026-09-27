@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–007; BA:main:003:003:008 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–008; BA:main:003:003:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -949,3 +949,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **ARONA/HINATA/HASUMI/TSURUGI ↔ SENSEI:** Arona reports attempted protection, Hinata extracts Sensei, Hasumi prioritizes evacuation, and Tsurugi stays to hold attackers. These are distinct acts, not a single savior story.
 - **HASUMI ↔ TSURUGI:** Tsurugi checks Hasumi's retaliation impulse; Hasumi accepts the correction and protects Sensei while Tsurugi engages. Later strange-opponent encounter has unclear continuity.
 - **MIKA ↔ NAGISA:** Mika's unlocated `ナギちゃん？` expresses alarm, not evidence of Nagisa's status or Mika's physical presence.
+
+## V003 C003 E008 relationship delta — handoff across rival schools
+
+- **MAESTRO ↔ ARIUS/ATSUKO:** Maestro accepts limited aid in exchange for underground guidance, cites copied guardians and royal-blood activation. Arius student addresses Atsuko about a successful “doll” transaction. Her exact consent/task remains opaque.
+- **HINA ↔ HIYORI/MISAKI:** Hiyori reports being defeated before mimesis appeared; Misaki sees Hina reach the escape group. No stable post-combat relation or capture.
+- **HASUMI/TSURUGI/HINATA ↔ SENSEI/HINA:** three choose rear-guard protection and ask Hina to take Sensei; Hina accepts. Sensei objects then begins moving. Cooperation is bounded to crisis, not a repaired Gehenna–Trinity relationship.
+- **HINA ↔ SENSEI:** Hina visibly injured yet directs Sensei to stay close and promises to open a route; Sensei notices the wound. No completed exit or clinical status.

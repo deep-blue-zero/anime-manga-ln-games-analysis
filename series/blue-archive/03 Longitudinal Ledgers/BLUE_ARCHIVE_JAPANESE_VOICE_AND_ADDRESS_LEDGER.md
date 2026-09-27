@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–007; BA:main:003:003:008 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–008; BA:main:003:003:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1348,3 +1348,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Saori `用事は終わった` does not explicitly name a planted bomb. Misaki/Hiyori report team positions and combat in italic command channel; Saori's `楽園`/`審判` are her rhetoric, not narration's justice.
 - Arona `守ろうとした` and `力が` are her self-report with broken speech, not technical measurement. Hinata `お怪我は無さそう` is visual appraisal, not clinical clearance. Hasumi `見当たらなく` means missing, not dead. Hinata `地下から……？` is a question.
 - Scene 2 Hinata `あの姿`/`服装` identifies attire seen in a book; `どうして今ここに` is surprise, not ontological certification of historical Justina. `u:0010` is E008 title only. Four Sensei choices, all singleton.
+
+## V003 C003 E008 delta — signature assertion and replica/lineage terms
+
+- Arius student `条約に調印が為された` is affirmative **participant testimony**, not on-page signing. `聖徒会の複製（ミメシス）` names the foes as replicas; its relation to Hinata's E007 `服装` identification is evidentiary revision, not proven production technology.
+- Maestro's self-name, `威厳` copying, `ロイヤルブラッド`/`戒命` and `教義` beneath the cathedral are his art/experiment register. `見届けられた` claims observation, not neutral certification. `約束通り` asserts a bargain; Atsuko's terms/assent are untranscribed.
+- `u:0005-0006` Atsuko-tagged frightened “wooden doll?” speech contrasts earlier silent signs; retain exact attribution caution. `u:0027` Hiyori says her group fell before the figures manifested, a participant report, not total force accounting.
+- `u:0029-0031` silent Hina/Hasumi tags and `分かりました` do not fix which leader silently assented; the handoff itself is clear from following speech/action. Hasumi `ほぼ壊滅状態` is near-collapse metaphor, not death count.
+- Hina `まともに相手取れる方法は無い` is a current tactical limit, not universal invincibility. `こじ開ける` is future resolve; no escape completion. Five Sensei choices all singleton; scene 2 `u:0001` is E009 title only.

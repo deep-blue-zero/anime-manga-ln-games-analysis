@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–007; BA:main:003:003:008 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–008; BA:main:003:003:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,17 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E008 character-state delta — mimesis bargain and rear guard
+
+- **Maestro:** self-identifies, disdains students, says it will help copy guardian “dignity,” cites royal-blood `戒命` and an experiment, and requests agreed underground guidance. These are unverified actor claims, with ontology/role limited. Newly tracked `UNMODELED`.
+- **Atsuko:** addressed by Arius after “doll” transaction report; fearful/“wooden doll?” tags follow, and Maestro speaks of lineage, but her precise bargain, sign meaning and agency remain opaque. `UNMODELED`.
+- **Hina:** arrives despite Team III, directs Sensei handoff and proposes breaking encirclement while visibly hurt; does not complete escape or prove immunity. `PARTIAL_MODEL`.
+- **Tsurugi/Hasumi/Hinata:** Tsurugi continues tiring combat; Hasumi and Hinata join her in a rear guard so Sensei can leave. Hasumi's “leadership nearly destroyed” is organizational appraisal of absence, not a death finding. All `UNMODELED`.
+- **Sensei:** objects to others' risk and notices Hina's wound, then inward action says they run to her; no command of a successful escape. `PARTIAL_MODEL`.
+- **Misaki/Hiyori:** Hiyori reports Hina defeated her force before mimesis emergence; Misaki sees Hina arrive. Both `UNMODELED`.
+
+One new subject yields **21 `PARTIAL_MODEL` / 55 `UNMODELED` across 76**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E007 character-state delta — injured site and allied deception
 

@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–007; BA:main:003:003:008 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–008; BA:main:003:003:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1102,3 +1102,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Distributed rescue, not lone hero:** Arona's attempted shield, Hinata's strength, Hasumi's evacuation and Tsurugi's stand echo earlier student-owned protection while Sensei is immobilized.
 - **Guardians' appearance versus identity:** Hinata's historical Justina account is followed by clothing-matched strange foes; the callback asks who enforces a promise without establishing literal resurrection.
 - **Inward forensics versus action:** Hina turns from speculative missile technology/perpetrators to immediate concern for Sensei, distinguishing analytic ability from confirmed explanation.
+
+## V003 C003 E008 motif / callback delta — counterfeit guardians, real care
+
+- **Copy of the covenant:** Hinata's historic guardians become Arius-labeled `ミメシス` and Maestro's “dignity” copy, making the apparent sacred return a reproduction claim rather than proof of old authority.
+- **Signature in hostile mouth:** the sole completed-signing assertion comes from an Arius combatant amid destruction, keeping the formal peace instrument epistemically unstable.
+- **Doctrine beneath ruins:** Maestro's desired `教義` destination and prior underground orders echo the cathedral upper/lower divide without showing the target itself.
+- **Rear guard as costly trust:** rival school agents coordinate to preserve Sensei while expecting to hold an overwhelming foe; the choice is present, its success/open survival not.
+- **Hina's wound versus reassurance:** she minimizes visible harm as she vows to open a path, continuing E004's rest concern without answering it.

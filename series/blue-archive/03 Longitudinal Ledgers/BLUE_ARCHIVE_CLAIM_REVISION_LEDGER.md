@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–007; BA:main:003:003:008 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–008; BA:main:003:003:009 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E007 active provisional; E008 unopened
+current_sequential_boundary: MAIN_V003_C003_E008 active provisional; E009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1964,3 +1964,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, model, frozen prediction or side-source admission. Ibuki enters narrow `UNMODELED`: **21 partial / 54 unmodeled across 75**; backfill **DEFER**. E008 unopened.
+
+## V003 C003 E008 claim delta — reported signature, replica terminology
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Hasumi, Tsurugi and Hinata hold a retreat corridor while Hina accepts Sensei; Sensei resists leaving them, then moves. Distributed protection does not make the adult a sole rescuer or the students expendable in a proven outcome.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** an Arius student says treaty signing `為された`, but no neutral or direct signing scene appears. Arius calls Justina-like foes `複製（ミメシス）` and Maestro claims to copy guardian dignity; this revises E007's visual mystery toward reproduction without a verified mechanism. Maestro's royal-blood `戒命`/experiment and underground `教義` are actor claims; Hina/Hasumi appraise immediate escape and leadership damage without certifying death or final defeat.
+- **BA-C008 — STRENGTHEN:** combatant statement, Maestro's self-serving explanation, Hiyori's defeat report, Hasumi's near-collapse appraisal and Hina's tactical limits occupy different evidence layers; `u:0029-0031` silent assent is tag-context ambiguous.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, model, frozen prediction or side-source admission. Maestro enters narrow `UNMODELED`: **21 partial / 55 unmodeled across 76**; backfill **DEFER**. E009 unopened.
