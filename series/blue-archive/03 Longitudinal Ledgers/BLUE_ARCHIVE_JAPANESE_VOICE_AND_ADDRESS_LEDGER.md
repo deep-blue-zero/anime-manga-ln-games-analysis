@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–004; BA:main:003:003:005 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–005; BA:main:003:003:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1323,3 +1323,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Scene 2 Makoto's `協力`/Prefect-destruction interpretation is corrected by Iroha's `形式的` visit and `今日初めて` first meeting. `u:0008` Makoto tag admonishes talk in the other's presence, a local voice inversion. `choice:007` has two alternatives and Hina `u:0040/0041` repeats convergence.
 - Hina's `引退` discussion is then narrowed by her own `少し疲れたから休みたい` and `先生以外はまだ誰も知らない`; it is private intention, not enacted resignation. Sensei `u:0056` is `心の声` despite Hina's direct reply `u:0057`: no mind-reading inference. `調印式` at `u:0061` is future; narrator `u:0063` says signing **day** arrives, not that a signature occurred.
 - Ten Sensei choice groups, only seventh two-option. `u:0064` is forward title only; no E005 event is admitted.
+
+## V003 C003 E005 delta — future treaty, media question, inward line
+
+- Shinon's `締結されると` makes ETO duties prospective, not a signed treaty fact. Venue origin is an unnamed-source claim; `後身を自任する` is a question, not certified Sisterhood genealogy.
+- Production pressure and automatic voice do not prove censorship or attack. The Federal Student Council clip is expressly from yesterday.
+- Journalists' SRT/tower/district prompts are questions. Rin's answer articulates uncertainty and school-district deference; Shinon's `あんまり興味無い` is a cynical gloss, not Rin's words. Momoka's resource aside is not statute.
+- Hanako's `実質的` graduation is informal; Koharu's Justice statement and Hifumi's outing invitation are participant/future speech.
+- Sensei's `暇だなぁ` is `心の声`, not a public duty denial. Scene 2's E006 title is forward metadata, not E006 evidence. No Sensei choice groups.

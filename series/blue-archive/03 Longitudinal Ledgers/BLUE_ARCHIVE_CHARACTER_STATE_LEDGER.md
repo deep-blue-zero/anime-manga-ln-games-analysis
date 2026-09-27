@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–004; BA:main:003:003:005 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–005; BA:main:003:003:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E005 character-state delta — broadcast and informal gathering
+
+- **Shinon:** Chronos reporter offers a public account of venue, history, Sisterhood and forecast ETO. Her conjecture/sarcasm is not institutional authority. Newly tracked `UNMODELED`.
+- **Momoka/Ayumu:** Momoka gives an informal Federal Student Council capacity explanation; Ayumu rebukes her. Narrow work-facing samples only; both newly tracked `UNMODELED`.
+- **Rin:** confirms the president remains missing, declines uncertain details and gives district nonintervention rationale. Shinon's indifference gloss is not Rin's position. Existing `UNMODELED`.
+- **Hanako/Koharu/Hifumi/Azusa:** hold an informal “effective” graduation gathering, not formal club closure. Koharu says she remains with Justice but no reinstatement notice appears. Azusa treasures Hifumi's first-friend gift and allows Hifumi's happy-ending taste while acknowledging lasting wounds. Hifumi `PARTIAL_MODEL`; others `UNMODELED`.
+- **Sensei:** students hope to talk later and assume treaty busyness; Sensei only inwardly thinks the cathedral hall is boring. Existing `PARTIAL_MODEL`.
+
+Three new subjects yield **21 `PARTIAL_MODEL` / 53 `UNMODELED` across 74**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E003 character-state delta — prison self-account and conjecture
 

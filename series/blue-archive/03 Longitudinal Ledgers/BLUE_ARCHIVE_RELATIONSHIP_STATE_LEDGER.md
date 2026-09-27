@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–004; BA:main:003:003:005 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–005; BA:main:003:003:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -925,3 +925,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **HANAKO ↔ SISTERHOOD:** Hanako works for days sorting documents; Marie apologizes for her fright, Hinata banter is label-unstable. Practical help continues without an observed new bargain.
 - **SENSEI ↔ MAKOTO/IROHA:** Makoto mistakes first formal encounter for anti-Prefect alliance; Iroha corrects on Sensei's behalf. No mutual political alignment is shown.
 - **SENSEI ↔ AKO/HINA:** Ako is startled by untracked Trinity visit, Hina escorts Sensei and connects their perspective-taking to trust. Sensei explicitly says they trust Hina; Hina says only Sensei knows of her wish to rest. This is a bounded private disclosure, not actual retirement.
+
+## V003 C003 E005 relationship delta — friendship after exam
+
+- **HIFUMI ↔ AZUSA:** Azusa retains/values Hifumi's first-friend Peroro gift; a future outing is discussed. Azusa's wound-aware critique still affirms Hifumi's preferred happy ending. No completed outing.
+- **HANAKO/HIFUMI/AZUSA ↔ KOHARU:** Hanako invites her as a continuing club companion; Koharu says she will stay with Justice and welcomes visits. Reciprocal attachment is not an official reinstatement.
+- **FOUR STUDENTS ↔ SENSEI:** they wish to talk after the ceremony; Sensei is separately in the cathedral hall. No encounter in this unit.
+- **SHINON ↔ FEDERAL COUNCIL:** Shinon airs and skeptically glosses a prior-day Rin/Momoka/Ayumu clip, a mediated public relation, not private motive access.

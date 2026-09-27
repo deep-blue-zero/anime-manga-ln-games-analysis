@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–004; BA:main:003:003:005 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–005; BA:main:003:003:006 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E004 active provisional; E005 unopened
+current_sequential_boundary: MAIN_V003_C003_E005 active provisional; E006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1937,3 +1937,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 50 unmodeled across 71**; backfill **DEFER**. E005 unopened.
+
+## V003 C003 E005 claim delta — forecast is not implementation
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** the four sustain care and future plans without Sensei present. Their wish for later conversation does not erase student agency.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Shinon's ETO/shared-resolution projection is broadcast, not treaty text, witnessed assent or formation. Rin's district-autonomy rationale and Momoka's capacity aside differ from federal indifference. Hanako's `実質的` graduation party and Koharu's Justice affiliation do not override E004's current club assignment or certify reinstatement. No signature is shown.
+- **BA-C008 — STRENGTHEN:** reporter conjecture, anonymous venue source, journalists' unanswered questions, Rin's answer, Momoka's aside, student plans and Sensei's inward line are separate authority layers. SRT/tower questions are not findings; broadcast interruption has no proven cause.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, model, frozen prediction or side-source admission. Shinon, Momoka and Ayumu enter narrow `UNMODELED`: **21 partial / 53 unmodeled across 74**; backfill **DEFER**. E006 unopened.

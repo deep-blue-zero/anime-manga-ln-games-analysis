@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–004; BA:main:003:003:005 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–005; BA:main:003:003:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1078,3 +1078,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Institutional fantasy corrected:** Makoto transforms a formal meeting into an imagined alliance to destroy Prefect Team; Iroha's correction reprises the need to test rhetoric against actual mandate.
 - **Trust as multiview practice:** Hina recaps the traitor as only one perspectival truth and Sensei's continued effort as belief in students, echoing C003 E003 without making facts relative or wrongs vanish.
 - **Rest under peace promise:** Ako hopes treaty reduces Hina's work, while Hina privately wants a break and minimizes “retirement.” Signing day approaches, but neither peace nor rest has materialized.
+
+## V003 C003 E005 motif / callback delta — plural happy endings
+
+- **Broadcast simplification versus lived plurality:** public peace narration offers a neat arc, while students' futures remain unsettled.
+- **Effective graduation, continuing status:** celebration is relational, not administrative; E004's club assignment is not formally superseded.
+- **First-friend object persists:** Azusa still carries Hifumi's Peroro Doctor gift. Future shopping is only proposed.
+- **Happy-ending disagreement without rupture:** Hifumi wants all friends happy; Azusa says effort cannot erase wounds but validates Hifumi's preference. Neither guaranteed paradise nor compulsory despair follows.
+- **Public bustle/private boredom:** students presume Sensei busy; Sensei inwardly finds a cathedral moment dull. This contrast does not prove no work exists.

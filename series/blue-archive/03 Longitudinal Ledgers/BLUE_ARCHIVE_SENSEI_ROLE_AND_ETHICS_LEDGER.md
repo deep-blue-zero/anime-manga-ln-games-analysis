@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–004; BA:main:003:003:005 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–005; BA:main:003:003:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -881,3 +881,7 @@ Mika reports Sensei repeatedly came to prison and did not compel her after refus
 ## V003 C003 E004 delta — formal attendance and Hina's interpretive trust
 
 Sensei meets Makoto/Iroha only for formal Eden attendance; Makoto imagines an alliance to destroy Prefect Team, directly denied by Iroha. Ako learns Sensei already visited Trinity, but no obligation to notify her is printed. Hina escorts Sensei, asks what remains, and interprets continued multi-perspective checking as trust in students; Sensei explicitly says they trust Hina too. This is not blanket belief in every claim or completed Trinity repair. Hina privately says she wants rest after the treaty; no resignation is enacted. `choice:007` branches but converges; `u:0056` is inward despite Hina's answer, so no telepathy. Narrator reaches treaty-signing day, not completed ceremony; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E005 delta — desired adult, student-owned continuity
+
+The four sustain friendship and future plans without Sensei's intervention, yet want a leisurely talk after the ceremony. Hanako assumes Sensei is busy; Sensei is separately in the cathedral hall and inwardly thinks `暇だなぁ`. This is not a public statement of negligence, a treaty-signing act or an explanation of student bonds. Adult care remains desired while student care is self-sustaining. No choice group, completed intervention or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

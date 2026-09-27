@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_CHECKPOINTS_PLUS_C003_E001_E004
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_CHECKPOINTS_PLUS_C003_E001_E005
 generation: V1
-version: "1.90"
+version: "1.91"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C002 through checkpoints, then BA:main:003:003:001–004 provisionally; 128/310 main units; side-source classes unreviewed; BA:main:003:003:005 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C002 through checkpoints, then BA:main:003:003:001–005 provisionally; 129/310 main units; side-source classes unreviewed; BA:main:003:003:006 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:003:003:005
+next_unopened_main_unit: BA:main:003:003:006
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:003:005
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V003_C003_E004` provisional boundary, inheriting canonical `MAIN_V003_C002`:
+This index answers four questions at the `MAIN_V003_C003_E005` provisional boundary, inheriting canonical `MAIN_V003_C002`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020 and V003 C003 E001-E004;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020 and V003 C003 E001-E005;
 - current checkpoint: `MAIN_V003_C002`; prior C001 and recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5` remain lineage;
-- main-story coverage: `128 / 310` canonical units;
+- main-story coverage: `129 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:003:003:005`.
+- next unopened main unit: `BA:main:003:003:006`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -99,7 +99,10 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Haruna | `ANALYZED` through V003 C002 E011; guides party but re-coerces Fuuka and recasts plea for release as cheering | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Fuuka | `ANALYZED` through V003 C002 E011; bound/gagged in School Lunch car, then directly asks Haruna to let her off | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Izumi | `ANALYZED` through V003 C002 E011; back in remote Gourmet contact and still pursued by Prefect Team | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Rin | `ANALYZED` in Prologue only | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Rin | `ANALYZED` in Prologue and C003 E005 press clip; missing president and district deference | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Shinon | `ANALYZED` in C003 E005; Chronos ceremony broadcast | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Momoka | `ANALYZED` in C003 E005; federal press capacity aside | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Ayumu | `ANALYZED` in C003 E005; federal press rebuke | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Arona | `ANALYZED` in Prologue, V001 C001 E001, and V002 C001 E001 | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Momoi | `ANALYZED` in V002 C001 E001-E020 and C002 E002-E003/E008/E011-E012/E014-E025; new-genre study with returned Alice | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Midori | `ANALYZED` in V002 C001 E001-E020 and C002 E002-E003/E006-E011/E015/E017-E020/E022-E025; confirms Momoi's genre pivot and joins study | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -178,6 +181,9 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | Fuuka | L; coerced again after E007 relief | L; directly asks to be released, no assent | L; Haruna/Gourmet coercion | L; School Lunch chair by Haruna | GAP | L; gagged protest then clear plea | L; bound trunk and dangerous ride | H; release, car outcome, safety and private baseline open |
 | Izumi | L; lost-border distress followed by remote chase contact | L; reports pursuit and comments on driving | L; Gourmet team reconnection | L; Gourmet Research membership | GAP | L; comic distress/praise | L; Prefect chase | H; exact reunion, capture and private baseline open |
 | Rin | L | M | L | H | GAP | M | H | L |
+| Shinon | L; public reporter frame | L; speculative venue/ETO gloss | L; production/federal interactions | L; Chronos reporter | GAP | L; news register | L; signing-day tension | H; sourcing/private baseline absent |
+| Momoka | L; resource aside | GAP | L; Rin/Ayumu press | L; federal work role | GAP | L; casual press register | L; criticism | H; resources/authority/private baseline absent |
+| Ayumu | L; rebukes tone | GAP | L; Momoka/Rin press | L; federal work role | GAP | L; brief admonition | L; press pressure | H; remit/independent decisions/private baseline absent |
 | Arona | L | L | M with Sensei | M | L | M; new school-orientation sample | M | L |
 | Momoi | M for creative value, shortcut loss, injury and post-injury resolve | M for rescue, upload, evacuation, offered shelter and Alice retrieval call | M with Midori/Alice/Yuzu; Sensei narrower | M; special prize and temporary council hold | L; comic teasing, personal-room offer | M in secure club/game-ending lines; flips excluded | M; battle, unconsciousness and threatened separation | M; medical clearance, club renewal, housing permission and safety plan unresolved |
 | Midori | M for shared-place value, caution and recovery appraisal | M for file check, retaliation veto and retreat | M with Momoi/Alice/Yuzu/Sensei | L; illustrator role, clubroom and conditional extension | L; maid-costume concern | M in secure lines; E020 celebration corrupt | M; criticism, C&C fire and Alice harm | M; fallback unpromised, body appraisal not diagnosis |
@@ -255,7 +261,10 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Haruna | Food-first raid, pickup and E011 guidance while refusing Fuuka's release | Aid to Sensei does not repair Fuuka coercion | Food/consent distortion repeats | V003 C002 E005-E007/E011, esp. E011 `scene:001:u:0032-0065` |
 | Fuuka | School Lunch head, E007 relief, E011 bound/gagged again and clear release plea | Her vehicle's alleged “loan” is not consent; eventual safety open | Gagged protest and direct `降ろして`, still narrow | V003 C002 E005/E007/E011, esp. E011 `scene:001:u:0036-0042`, `u:0063-0065` |
 | Izumi | Lost border in E007, back in remote contact under Prefect pursuit E011 | Gourmet peers, reunion timing unclear | Distress/praise in one chase | V003 C002 E005-E007/E011, esp. E011 `scene:001:u:0043-0046`, `u:0058` |
-| Rin | One administrative state; wider knowledge unknown | Formal Sensei/GSC relation; private GAP | Very little | P checkpoint |
+| Rin | Missing-president admission and district-deference rationale; wider policy unknown | Formal Sensei/GSC and press; private GAP | Very little | P checkpoint; V003 C003 E005 `scene:001:u:0028-0041` |
+| Shinon | Broadcast claims, not treaty access | Public media/production only | Brief sarcasm; private GAP | V003 C003 E005 `scene:001:u:0001-0027`, `u:0042-0043` |
+| Momoka | Capacity aside, not resource audit | Federal press only | Casual remark | V003 C003 E005 `scene:001:u:0028-0041` |
+| Ayumu | Corrects colleague's press manner | Federal press only | No private sample | V003 C003 E005 `scene:001:u:0028-0041` |
 | Arona | Technical knowledge limits explicit; Millennium dispute unknown | Sensei dyad; broader private/social GAP | Teasing, hurt, repair | P E002; V001 C1 E001; V002 C1 E001 |
 | Momoi | E008 two-day unconsciousness followed by E011 awake return; clearance/prognosis unknown | Sibling/Sensei/club relations under injury and Alice seizure | Potion/level-up and bad-ending metaphors return; self-reported strength not medical fact | V002 C1 E001-E020 and C2 E002-E003/E008 as routed; E011 `u:0050-0089` |
 | Midori | Console-start observation remembered, not trigger proof | Sibling/Sensei/Alice/Yuzu/Veritas under injury crisis | Rejects Rio's imposed story; no alternative technical diagnosis | V002 C1 E001-E020 and C2 E002-E003 as routed; E008 `u:0014-0016`, `u:0030-0035`; E009 `u:0037-0038` |
@@ -331,7 +340,10 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Haruna | `UNMODELED` | `NONE` | food rationale, temporary aid and repeated misreading of captive Fuuka's release plea | Consent ethics, Fuuka safety, discipline and non-crisis controls unresolved. |
 | Fuuka | `UNMODELED` | `NONE` | E007 relief followed by E011 bound/gagged transport and direct release plea | No release, treatment outcome, free decision or independent private identity sample. |
 | Izumi | `UNMODELED` | `NONE` | lost near border then resumes Gourmet remote contact under Prefect pursuit | Capture/reunion outcome and ordinary/private independent contrast unknown. |
-| Rin | `UNMODELED` | `NONE` | Prologue administrative-crisis interpretation only | One crisis, no ordinary/private breadth. Next: independently evidenced routine and non-Sensei relations; verify supplemental route first. |
+| Rin | `UNMODELED` | `NONE` | Missing-president uncertainty and district-deference press rationale | Crisis/press only; no private breadth or policy implementation audit. |
+| Shinon | `UNMODELED` | `NONE` | Public Chronos ceremony reporting | Anonymous sources, contested gloss and no private baseline. |
+| Momoka | `UNMODELED` | `NONE` | Informal federal capacity explanation | No resource audit, independent authority or private breadth. |
+| Ayumu | `UNMODELED` | `NONE` | Brief correction at federal press | No independent decision, remit or private breadth. |
 | Arona | `UNMODELED` | `NONE` | system-partner/triage observations only | Narrow Sensei dyad and unresolved ontology. Next: repeated ordinary/technical uncertainty contexts without importing future explanations. |
 | Momoi | `PARTIAL_MODEL` | `NONE` | club-domain care, revisable-job offer and resumed collaborative game study | Distributed award credit, own medical clearance and finished new game unresolved. |
 | Midori | `PARTIAL_MODEL` | `NONE` | evidence-sensitive club care; returns Alice's no-abandonment maxim under crisis | Field/health appraisals not audited, independent politics/private contrast absent. Promotion is narrow. |
@@ -412,6 +424,9 @@ The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Mo
 | Fuuka | U | U | U | U | U |
 | Izumi | U | U | U | U | U |
 | Rin | U | U | U | U | U |
+| Shinon | U | U | U | U | U |
+| Momoka | U | U | U | U | U |
+| Ayumu | U | U | U | U | U |
 | Arona | U | U | U | U | U |
 | Momoi | P (club making) | P (familiar club only) | P (Alice/sister/Yuzu) | P (club threat) | P (secure club speech) |
 | Midori | P (illustrator/club) | P (familiar club only) | P (sister/Alice/Yuzu) | P (bounded restraint) | P (secure caution speech) |
@@ -458,7 +473,7 @@ The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Mo
 | Kaiser director (role actor) | P (creditor/command) | U | U | P (leverage/threat) | P (administrative threat) |
 | Shiba Seki master (role actor) | P (hospitality) | P (service encounter) | P (community contact) | U | P (service/reassurance) |
 
-For **all 71 currently tracked subjects**, romance/dating, crossover, and general unfamiliar-group extrapolation remain `UNMODELED`. Public performance is partial only for Aru's evidenced PS68/outlaw persona; other performance settings are unsupported. Ethical-decision readiness is partial only for the named institutional, boundary, care or coercion mechanisms, never an unrestricted moral algorithm. No subject has broad private/MomoTalk readiness or performed-voice readiness.
+For **all 74 currently tracked subjects**, romance/dating, crossover, and general unfamiliar-group extrapolation remain `UNMODELED`. Public performance is partial only for Aru's evidenced PS68/outlaw persona; other performance settings are unsupported. Ethical-decision readiness is partial only for the named institutional, boundary, care or coercion mechanisms, never an unrestricted moral algorithm. No subject has broad private/MomoTalk readiness or performed-voice readiness.
 
 ## 6. Evidence concentration and sampling bias
 
@@ -1066,3 +1081,9 @@ Routing: [V003 C003 E003 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 Ichika phones that an unidentified actor took a school equipment tank; Mashiro notes repeated-duty fatigue and explicitly says Koharu remains **in the remedial club**, while Hasumi reports Koharu home ill. This is narrower than a direct health or Justice-return finding and qualifies Seia's C002 forecast. Hanako says she has spent days sorting Sisterhood documents and wants an outing; Marie apologizes, but Hanako/Hinata body-contact labels invert at `u:0014/0016/0019`. At Pandemonium Hall, Makoto assumes a Schale alliance against the Prefect Team; Iroha says this is Sensei's **first, formal** visit for Eden attendance and denies cooperation. Makoto `u:0008` is voice-suspect. Ako discovers Sensei visited Trinity earlier and hopes treaty will reduce Hina's workload. Hina returns early, escorts Sensei and interprets perspectival checking as continued trust in students. Sensei directly says Hina is trusted. Hina says only Sensei knows of her wish for “retirement,” immediately reframing it as wanting rest; no departure occurs. Sensei's inward `u:0056` is answered by Hina, a representation anomaly, not mind-reading. Narrator advances time to **signing day**, not a signature. Scene 2 has ten Sensei choices, seventh two-option with duplicated Hina convergence. No subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). **BA-C021** remains narrowed but Koharu's formal return open; E005 unopened.
 
 Routing: [V003 C003 E004 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E004_DEEP_READING.md) → `BA:main:003:003:004`, two scenes, 84 represented numbered units and ten Sensei choice groups (seventh two-option). Coverage is **128 / 310**.
+
+## 100. V003 C003 E005 provisional coverage delta
+
+Chronos reporter Shinon describes signing-day co-presence, venue lore and a future ETO/shared-resolution arrangement; this is media reporting, not inspected treaty text or implementation. Her account of venue origin is anonymous-sourced, and her Sisterhood succession phrasing is a question. In a recorded prior-day Federal Student Council press clip, Rin confirms the president remains missing and articulates uncertainty and district-school deference; Momoka cites capacity shortage, and Ayumu rebukes her tone. Journalists' SRT/tower questions are not factual findings, and Shinon's “not interested” gloss is stronger than Rin's stated position. The four remedial-club friends gather for an `実質的` graduation party; Koharu says she remains with Justice, without a formal reinstatement or supersession of E004's club assignment. Azusa still values Hifumi's first-friend Peroro Doctor gift; future shopping is not completed. Hifumi's all-happy preference and Azusa's wound-aware realism coexist without friendship rupture. The group wishes to talk with Sensei after the ceremony; Sensei's only line is inward boredom in the cathedral hall. Shinon, Momoka and Ayumu enter narrowly as `UNMODELED`. Readiness is **21 `PARTIAL_MODEL` / 53 `UNMODELED` across 74**, none operational/validated; no standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). C003 E006 unopened.
+
+Routing: [V003 C003 E005 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E005_DEEP_READING.md) → `BA:main:003:003:005`, two scenes, 89 numbered units and no Sensei choices. Coverage is **129 / 310**.

@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–004; BA:main:003:003:005 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–005; BA:main:003:003:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -791,3 +791,7 @@ Mika says she has undergone repeated questioning and supplied Arius contact/Squa
 ## V003 C003 E004 institutional delta — attendance preparations, not signature
 
 Ichika reports a school equipment tank taken by an unidentified actor, seeking Hasumi's help. Mashiro states Koharu is still a remedial-club member despite prior pass; Hasumi reports illness/home absence. No recovery, medical proof or Justice reinstatement. Hanako reports days of Sisterhood document sorting, an actual implementation of her future-help commitment without a defined political task. At Pandemonium Hall, Makoto claims chair status and imagines Schale assistance against Prefect Team; Iroha expressly says this is Sensei's first formal visit in anticipation of Eden Treaty participation. No alliance or anti-Prefect action. Ako/Hina are occupied with treaty work; Hina returns early to escort Sensei, privately discusses wanting rest but does not resign. Narrator advances to signing **day**, without recording a signature, treaty text, ratification or Hina retirement.
+
+## V003 C003 E005 institutional delta — ceremony coverage, unsigned treaty
+
+Shinon reports a crowded signing-day venue and projects `エデン条約機構（ETO）` with shared conflict-resolution duties after conclusion. Venue origin rests on an unnamed Gehenna-leadership source; First Council/Sisterhood succession comes via history narration and reporter question. Sisterhood attendance is reported confirmed. No treaty text, witnessed assent, actual ETO launch or named site-choice decision is inspected; broadcast interruption has no established cause. In a recorded prior-day federal press clip, Rin confirms the president remains missing, defers uncertain information and states general district-school deference; Momoka cites resource scarcity and Ayumu rebukes her manner. Journalists' SRT/tower premises are unanswered questions, not findings. Hanako's `実質的` graduation and Koharu's claimed Justice affiliation do not formally supersede Mashiro's E004 remedial-club assignment. No signature, committee reinstatement, club closure or conflict-resolution operation is printed.
