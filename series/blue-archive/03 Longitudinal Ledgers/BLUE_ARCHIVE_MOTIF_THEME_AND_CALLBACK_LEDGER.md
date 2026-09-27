@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–004; BA:main:004:001:005 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–005; BA:main:004:001:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1449,3 +1449,7 @@ The interviews turn E002's shared `閉校を取り消せ` into nonidentical stak
 ## V004 C001 E004 motif / callback delta — exceptional power and responsibility vacuum
 
 Kaya's SRT history reframes E003 Miyako's interest-independent justice ideal: according to Kaya, a presidential cross-jurisdiction exception gave SRT reach but left no accepted supervisor after the president vanished. The supposed solution of forced transfer would preserve elite human capital at the cost of chosen paths. Sensei's inward objection to coercion and Kaya's later offer echo earlier adult-power versus student-agency motifs, but the scene stops before a disposition. Kaya's “principle” dismissal is not by itself institutional reform. FOX's alleged violence and RABBIT's local protest are different episodes; their precise causal relation is Kaya's narrative.
+
+## V004 C001 E005 motif / callback delta — freedom without belonging
+
+A local `釈放` gives immediate freedom but cannot restore SRT or give the squad an accepted school home. Sensei's Schale shelter offer would solve rest only at the cost Miyako sees for ongoing protest; `子ウサギ公園` becomes an interim space combining field identity and visible dissent. This echoes earlier school-belonging questions without equating their institutional conditions. Saki rejects Miyako's monopoly on blame, while distrust of adults survives mercy: relief is not trust, and noncoercion is not guaranteed security. The lurking Schale-abuse rumors dramatize fear, not established practice.

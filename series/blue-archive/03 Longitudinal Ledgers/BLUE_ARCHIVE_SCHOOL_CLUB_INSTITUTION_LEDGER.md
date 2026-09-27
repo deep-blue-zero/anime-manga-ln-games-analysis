@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–004; BA:main:004:001:005 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–005; BA:main:004:001:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1007,3 +1007,7 @@ Four `977-R` interrogation records list named students/interviewers. Narration s
 ## V004 C001 E004 institutional delta — GSC structure by Kaya's account
 
 Kaya says the Federal Student Council consists of eleven-section `行政委員会` plus Rin's special `統括室`; her Defense Office directs Valkyrie but SRT allegedly held a presidential cross-jurisdiction immediate-response exception. She reports presidential absence created a responsibility vacuum and advanced-gear deployment problem. Her FOX raid/fire/injury account is uncorroborated in this source; no FOX member is named. She forecasts record erasure and conditional alternative if RABBIT accepts Valkyrie, then offers Sensei disposition authority and promised Defense cooperation while saying SRT revival is beyond reach. These are conflicting policy possibilities and an explicit offer, not inspected authorization, completed custody/record changes or voted closure repeal.
+
+## V004 C001 E005 institutional delta — release versus records
+
+Sensei presents Administrative Committee disposition and announces local release; the line is oddly `心の声`-tagged but receives direct reaction. The students are no longer depicted in interrogation/custody and can choose a destination, yet no written authorization, school-record preservation, transfer status, amnesty or SRT restoration is shown. Their proposed `子ウサギ公園` camp continues protest visibility; no park rule, supply plan or actual arrival is printed. Schale housing is offered and refused. The legal/institutional consequences of Kaya's E004 offer remain a separate uninspected track.

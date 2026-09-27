@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–004; BA:main:004:001:005 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–005; BA:main:004:001:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1651,3 +1651,10 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Kaya:** explains a purported federal Administrative Committee/`統括室` division and Defense oversight of Valkyrie, contrasts SRT's presidential exception, reports FOX's earlier attack and RABBIT's subsequent pressure, then offers Sensei broad RABBIT disposition discretion while excluding SRT revival. Her personal anti-closure preference and proposed protection of school records are stated; no council order or completed intervention appears.
 - **Sensei:** the `心の声` objects to forcing an unwanted school path, but its apparent uptake by Kaya is an attribution seam. Sensei asks whether personal disposition authority is appropriate; no final exercise of it is printed.
 - **Kanna/Rin/RABBIT/FOX:** Kanna is present as field executor and appears not securely attributed at `u:0057`; Rin's attempted talks and FOX attack are Kaya's reports. FOX remains a role-level team without named members. RABBIT's school records and placement remain unsettled.
+
+## V004 C001 E005 character-state delta — release without trust
+
+- **Sensei:** communicates a local release and asks the four students their preferred next step, offers Schale rest/living, denies lurid suspicions, and accepts their park choice without demanding gratitude or trust. The release line's `心の声` tag is anomalous; no signed disposition/record order is shown.
+- **Miyako:** still self-blames the failed operation; Saki rejects sole-leader responsibility after closure. Miyako refuses Schale comfort as inconsistent with the protest, accepts the park and explicitly retains adult distrust.
+- **Saki/Moe/Miyu:** Saki anticipates expulsion and states future hostility; Moe predicts fantastical worse punishment then wants rest, and Miyu panics over both penalty and sudden Schale trust. The squad agrees to park camping but has not yet arrived. `u:0053-0059` label patterns prevent certain individual assignment of regimented-training/field-ground preferences.
+- **Kaya/Kanna:** neither directly speaks in this scene; Sensei reports Administrative Committee involvement, not a reproduced official order. Kaya's E004 offer is the immediate prior context, not a full legal audit.

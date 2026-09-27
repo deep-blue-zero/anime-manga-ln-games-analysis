@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–004; BA:main:004:001:005 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–005; BA:main:004:001:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1097,3 +1097,7 @@ In the interrogation Sensei's first substantive question asks Miyako about livin
 ## V004 C001 E004 delta — consent before placement
 
 Kaya proposes saving RABBIT's affiliation by persuading them into Valkyrie; Sensei's marked inward line refuses forcing students into an unwanted path (`scene:001:u:0044-0054`). Her apparent answer to it is a representation anomaly, so the exact spoken negotiation cannot be reconstructed. Kaya later offers Sensei unusually broad discretion over RABBIT's fate while excluding school revival; Sensei asks whether deciding is appropriate, with no decision/exercise yet (`u:0055-0068`). This tests the adult's responsibility under exceptional authority without proving coercion, omnipotence or a legal transfer. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E005 unopened.
+
+## V004 C001 E005 delta — a choice with no compelled gratitude
+
+Under Kaya's prior offer, Sensei communicates a local release, asks the students what **they** want, offers Schale rest/living and accepts their preference for the park (`scene:001:u:0023-0067`). The release line is `心の声`-tagged despite responses, and no formal order or long-term status is shown. Their suspicion of Schale prompts an emphatic denial, not retaliatory custody. Miyako's explicit `信頼していません` stands after clemency, and Sensei's paired responses accept it if the students are not suffering. This is noncoercive conduct in one decision, not a proven global virtue or reconciliation. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E006 unopened.

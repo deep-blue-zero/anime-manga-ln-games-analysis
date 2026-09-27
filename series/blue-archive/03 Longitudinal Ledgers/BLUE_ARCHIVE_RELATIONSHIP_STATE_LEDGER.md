@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–004; BA:main:004:001:005 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–005; BA:main:004:001:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1291,3 +1291,7 @@ Saki identifies strongly with SRT and resists Kanna's intimidation, yet her admi
 ## V004 C001 E004 relationship delta — Kaya courts Sensei
 
 Kaya thanks Schale for absorbing federal burdens, values RABBIT's elite potential and asks Sensei to persuade them toward Valkyrie; after an apparent response to Sensei's inward objection, she professes respect for students' dreams and offers Schale broad disposition discretion with Defense Office support. This is a political/administrative approach, not proof Sensei accepts a coercive bargain or that the students trust either actor. Kaya reports Rin's post-FOX talks; Rin does not speak here. `u:0057` seems to address Kaya as Defense head under a Kaya tag, so Kanna's exact reaction is quarantined.
+
+## V004 C001 E005 relationship delta — no gratitude bargain
+
+All four reunite and fear the coming decision. Miyako apologizes, but Saki rejects her claim of leader-only responsibility after closure. Sensei's represented release and lodging offer do not buy loyalty: Miyako refuses Schale, says they remain opposed and still distrust Sensei, while Sensei accepts that without a condition of thanks. Saki calls the next encounter adversarial, Moe says they were already enemies, and Miyu fears being left behind. The squad remains together enough to choose park camping, despite E003's divergent motives and internal tension; actual arrival and durable cohesion are open.

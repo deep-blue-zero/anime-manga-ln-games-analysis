@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–004; BA:main:004:001:005 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–005; BA:main:004:001:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1685,3 +1685,10 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 - Her `FOX小隊` attack, fire and injury account is retrospective testimony; `私もまた、そのような意見を持つひとり` identifies a professed pro-continuation stance, not vote evidence (`u:0026-0043`).
 - Sensei's `生徒たちが望まない進路を、強制することはできないよ` is tagged `心の声`, followed by Kaya's `なるほど`; this does not license mind-reading or a guaranteed spoken statement (`u:0051-0054`). `u:0057` has Kaya ask `ぼ、防衛室長……？` despite her own office, a likely label inversion whose exact voice is unconfirmed.
 - Kaya's casual `原則なんて知ったことではありませんね！` and later formal `先生にお任せします` express a local pivot/offer; neither phrase constitutes a written council order. No performed voice admitted.
+
+## V004 C001 E005 delta — rumors, choice and unearned trust
+
+- Saki's `最低でも、退学` and Moe's experimental-facility fantasy are anxious forecasts, not official sanctions (`scene:001:u:0007-0015`). Saki's `小隊長でも何でもない` directly contests Miyako's sole-responsibility assumption after closure (`u:0016-0022`).
+- `全員釈放` is under `先生（心の声）` at `u:0032` but immediately answered by the group; subsequent choice dialogue confirms they discuss freedom while SRT restoration is excluded. Do not silently normalize the tagged line as voiced or deny the local release it produces.
+- The `盗聴器` and sexualized-coercion talk is reported rumor/speculation, not factual Schale conduct. Sensei's paired denials are alternatives (`u:0044-0050;choice:007`).
+- `u:0053-0054` strict regimen remarks and `u:0058` field-training comparison are Moe-tagged but resemble Saki's E003 register; `u:0055/0059` may be Moe's equipment concerns. Exact individual voice remains quarantined. Miyako's `私たちは先生を信頼していません` after release is unambiguous, and Sensei's paired replies do not require gratitude (`u:0063-0067;choice:010`). No performed voice admitted.
