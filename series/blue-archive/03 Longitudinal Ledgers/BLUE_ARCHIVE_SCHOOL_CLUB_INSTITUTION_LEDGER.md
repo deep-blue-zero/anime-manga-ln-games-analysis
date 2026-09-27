@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–008; BA:main:003:003:009 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–009; BA:main:003:003:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -807,3 +807,7 @@ An announcer reports cathedral fire and spire collapse; wounded students are hea
 ## V003 C003 E008 institutional delta — hostile signing assertion and replica force
 
 An Arius student says treaty signing has been made, but no signature, document or neutral witness is shown. The same participant labels the Justina-looking force `聖徒会の複製（ミメシス）` and says a transaction with a “doll” worked. Maestro self-identifies and claims ability/interest in copying old guardians' dignity, a royal-blood `戒命` activation, and an agreement for guidance underground to `教義`. This advances the force's reported origin beyond clothing recognition but leaves technology, lineage, doctrine, Atsuko's role and completed descent unverified. Hinata estimates dozens to hundreds of foes; no count audit. Hiyori reports Hina defeated Team III before replicas appeared; Hina directly arrives to collect Sensei. Hasumi calls Trinity leadership nearly destroyed because Tea Party/Sisterhood are absent, not certified dead. Justice/Hinata hold the rear while Hina attempts a route through the siege; no completed withdrawal, rear-guard outcome, actual ETO operation or signed instrument is printed.
+
+## V003 C003 E009 institutional delta — Arius's claimed ETO takeover
+
+Saori directly says Arius signed Eden **in Trinity's place** at the old cathedral and Squad therefore became ETO. This advances E008's anonymous Arius claim to identified leadership testimony, while no signed document, ceremony, substitute authority or neutral ratification appears. Saori claims historical right as First Council enforcers and that Trinity classified/oppressed Arius as a conflict source; these are her partisan historical allegations. She now declares Gehenna/Trinity suppression targets for literal removal, explicit attack policy but no lawful ETO mandate or achieved extermination. Hina is locally declared down then rallies; Sena's emergency vehicle reaches Sensei, confirms gunshot with non-vital trajectory but dangerous bleeding, and begins first aid. Misaki reports escape, destination and full medical outcome unshown. No proof absent Trinity/Gehenna leaders are dead. Azusa's formally recognized Trinity status from E002 is not voided by Saori's “no home” pronouncement. Seia's final appearance is dream-framed, not institutional reappearance.

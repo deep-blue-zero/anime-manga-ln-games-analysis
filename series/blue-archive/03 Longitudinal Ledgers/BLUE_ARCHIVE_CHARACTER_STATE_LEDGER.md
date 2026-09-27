@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–008; BA:main:003:003:009 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–009; BA:main:003:003:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,17 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E009 character-state delta — claimed ETO seizure and wounded adult
+
+- **Saori:** directly identifies Squad, says Arius signed for Trinity and now is ETO, claims old enforcer right and vows both schools' eradication. Her legal/history claims remain unverified. She says a bullet hit Sensei and expects death, then uses injury to challenge Azusa's refuge; no death. `UNMODELED`.
+- **Sensei/Sena/Arona:** Sensei is shot, feels abdominal heat and consciousness blur. Sena confirms non-vital gunshot but serious bleeding, begins first aid and promises survival; no final prognosis. Arona does not speak in E009. Sensei `PARTIAL_MODEL`, Sena `UNMODELED`.
+- **Hina:** falls exhausted by Misaki's account, then rallies to call Sena and enable evacuation; not proven healed or permanently defeated. `PARTIAL_MODEL`.
+- **Azusa:** returns to Squad and repeatedly questions Saori's attack on Sensei; no resolution/fight outcome. Saori's “no home” rhetoric does not void official Trinity status. `UNMODELED`.
+- **Seia:** appears to Sensei in a frame she calls their dream or hers, with twisted time sense; no physical waking confirmation. `UNMODELED`.
+- **Misaki/Hiyori/Atsuko:** Misaki reports Hina down and later escape; `u:0005/0007` labels invert. Hiyori mediates Atsuko's untranscribed apparent reply; no direct Atsuko proposition. All `UNMODELED`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 55 `UNMODELED` across 76**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E008 character-state delta — mimesis bargain and rear guard
 

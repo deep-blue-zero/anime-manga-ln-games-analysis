@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–008; BA:main:003:003:009 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–009; BA:main:003:003:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -956,3 +956,12 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **HINA ↔ HIYORI/MISAKI:** Hiyori reports being defeated before mimesis appeared; Misaki sees Hina reach the escape group. No stable post-combat relation or capture.
 - **HASUMI/TSURUGI/HINATA ↔ SENSEI/HINA:** three choose rear-guard protection and ask Hina to take Sensei; Hina accepts. Sensei objects then begins moving. Cooperation is bounded to crisis, not a repaired Gehenna–Trinity relationship.
 - **HINA ↔ SENSEI:** Hina visibly injured yet directs Sensei to stay close and promises to open a route; Sensei notices the wound. No completed exit or clinical status.
+
+## V003 C003 E009 relationship delta — protective escape and contested belonging
+
+- **HINA/SENA ↔ SENSEI:** Hina rallies to bring emergency vehicle/Sena; Sena takes Sensei, diagnoses a non-vital but bleeding gunshot and starts first aid. Misaki reports escape; no final recovery.
+- **SAORI ↔ SENSEI:** Saori identifies Sensei as predicted obstacle, fires or commands fire in a context where she later says a bullet hit; Sena independently confirms gunshot. Her expectation of death is not outcome.
+- **SAORI ↔ AZUSA:** Azusa returns to demand why Sensei was targeted; Saori weaponizes “killer/no home” and futility, challenges her to fight. No duel result or proved rejection from Trinity.
+- **ATSUKO ↔ HIYORI/SAORI:** Hiyori mediates silent Atsuko's apparent view that Sensei disrupted plan and Azusa mattered; exact sign content and unnamed forecast source remain uncertain.
+- **SEIA ↔ SENSEI:** Seia introduces herself in an expressly uncertain dream and says time is twisted; no verified waking meeting, physical location or causality.
+- **HINA ↔ HIYORI/MISAKI:** Hiyori intercepts again, Misaki calls Hina fallen, but Hina acts thereafter. No permanent defeat or reconciled force relation.

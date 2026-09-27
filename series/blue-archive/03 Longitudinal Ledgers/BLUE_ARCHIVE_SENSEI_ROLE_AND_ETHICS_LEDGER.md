@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–008; BA:main:003:003:009 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–009; BA:main:003:003:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -897,3 +897,7 @@ Sensei appears after the blast through Arona's urgent call. Arona says she tried
 ## V003 C003 E008 delta — protected withdrawal under student choice
 
 Sensei asks what will happen to Hasumi/Tsurugi/Hinata, protests their rear-guard risk, and then inwardly runs toward Hina when they insist. Hasumi argues a further Sensei casualty would worsen an already leaderless crisis; this is her practical/relational valuation, not proof no institution could survive. Hina accepts custody, is visibly wounded, and vows to open an escape path; no exit is completed. The situation displays students exercising dangerous protective agency around a vulnerable adult, not adult command triumph or a verified sacrifice outcome. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E009 delta — wounded teacher and emergency dependence
+
+Sensei is confronted by Saori's Squad, asks about identity/claimed ETO takeover and sees a gun muzzle. After Hina calls Sena, Saori says her bullet hit; Sena directly confirms gunshot, non-vital path and dangerous bleeding and begins first aid. Sensei feels abdominal heat and clouding consciousness. Saori expects a non-Kivotos outsider to die, but that is attacker prediction, not medical outcome. Hina/Sena enable immediate escape; no completed recovery or adult counterattack. Seia then appears in a dream-uncertain frame, not direct physical contact or verified prophetic instruction. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–008; BA:main:003:003:009 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–009; BA:main:003:003:010 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E008 active provisional; E009 unopened
+current_sequential_boundary: MAIN_V003_C003_E009 active provisional; E010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1973,3 +1973,12 @@ No new durable claim ID, model, frozen prediction or side-source admission. Ibuk
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, model, frozen prediction or side-source admission. Maestro enters narrow `UNMODELED`: **21 partial / 55 unmodeled across 76**; backfill **DEFER**. E009 unopened.
+
+## V003 C003 E009 claim delta — participant signature claim and medical confirmation
+
+- **BA-C001/C016 — REVISE:** Sensei is medically confirmed shot/bleeding and needs Hina/Sena's aid; adult vulnerability and student/medical agency sharply bound a sole-rescuer reading. No final health outcome.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE/QUALIFY:** Saori now first-person claims Arius signed for Trinity and became ETO, then declares both schools suppression targets. This is strong actor intent/participant assertion, not a witnessed signature, legal authority, validated First Council right or completed eradication. Saori's “Azusa has no home” rhetoric is counterposed with Sakurako's E002 formal Trinity declaration and student friendship; no automatic nullification.
+- **BA-C008 — STRENGTHEN:** `u:0005/0007` voice tags invert, `u:0022-0024` generic Justina label is suspect, `彼女` at `u:0026` is unnamed, Hiyori's Atsuko-sign gloss is mediated, Saori's death forecast differs from Sena's immediate clinical account, and Seia's dream framing forbids physical-awakening inference.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 55 unmodeled across 76**; backfill **DEFER**. E010 unopened.

@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–008; BA:main:003:003:009 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–009; BA:main:003:003:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1110,3 +1110,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Doctrine beneath ruins:** Maestro's desired `教義` destination and prior underground orders echo the cathedral upper/lower divide without showing the target itself.
 - **Rear guard as costly trust:** rival school agents coordinate to preserve Sensei while expecting to hold an overwhelming foe; the choice is present, its success/open survival not.
 - **Hina's wound versus reassurance:** she minimizes visible harm as she vows to open a path, continuing E004's rest concern without answering it.
+
+## V003 C003 E009 motif / callback delta — paradise as captured jurisdiction
+
+- **Guardian title seized:** Saori claims the old covenant-enforcer role and ETO authority to rename Trinity/Gehenna suppression targets, twisting E006's promise/constraint motif into extermination rhetoric. Legal validity remains open.
+- **Adult body breaks the shield fantasy:** Sensei's confirmed bullet wound makes vulnerability concrete after E007's near-uninjured blast survival; Arona's earlier protection was limited, and Sena/Hina now act.
+- **Home denied versus home made:** Saori says Azusa has no place at Trinity/Schale, contradicting Sakurako's formal student recognition and Hifumi's durable gift/care without resolving Azusa's trauma.
+- **Hina falls and rises:** a local “finally down” report is undone by her renewed rescue move, preserving injury rather than heroic invincibility.
+- **Dream after bleeding:** Seia's uncertain dream encounter follows Sensei's clouding consciousness; interpretive access expands in a framed space without establishing objective future knowledge.

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–008; BA:main:003:003:009 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–009; BA:main:003:003:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1356,3 +1356,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0005-0006` Atsuko-tagged frightened “wooden doll?” speech contrasts earlier silent signs; retain exact attribution caution. `u:0027` Hiyori says her group fell before the figures manifested, a participant report, not total force accounting.
 - `u:0029-0031` silent Hina/Hasumi tags and `分かりました` do not fix which leader silently assented; the handoff itself is clear from following speech/action. Hasumi `ほぼ壊滅状態` is near-collapse metaphor, not death count.
 - Hina `まともに相手取れる方法は無い` is a current tactical limit, not universal invincibility. `こじ開ける` is future resolve; no escape completion. Five Sensei choices all singleton; scene 2 `u:0001` is E009 title only.
+
+## V003 C003 E009 delta — “in place of” and mediated crisis voices
+
+- `u:0005` Misaki tag sounds Hiyori-like; `u:0007` Hiyori tag issues Saori-like “only you remain.” `u:0022-0024` “Justina believer A” tags continue collective Arius grievance/threat context and cannot certify ancient guardian speech. `u:0026` Saori's `彼女` remains unnamed.
+- Saori `トリニティに代わり…調印した` and `ETOになった` are first-person organizational assertions, not witnessed signature/legal substitution. `本来ならば`/`当然の権利` are disputed historical entitlement rhetoric; `文字通り` makes eradication intent explicit.
+- Misaki `倒れた` is local collapse report; Hina subsequently moves, so not death/permanent defeat. Saori `銃弾は当たっている` is cross-supported by Sena `銃で撃たれました` and serious `出血`, while Saori `死ぬはず` is a forecast contradicted as immediate certainty by Sena's non-vital path/first-aid scene.
+- Hiyori quotes apparent Atsuko meaning at `u:0039`, but Atsuko is silent; no direct-sign transcription. Saori's `人殺し`/`居場所は無い` is coercive alienation toward Azusa, not status registrar language.
+- Seia `君の夢の中…私の夢の中かもしれない` and `時間の流れ…捻じれて` are explicit uncertainty/self-report, not verified dream-sharing or physical waking. Six Sensei choice groups, all singleton; `u:0071` is E010 title only.
