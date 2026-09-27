@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–015; BA:main:004:001:016 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–016; BA:main:004:001:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1051,3 +1051,7 @@ Moe identifies Kaiser Industry as a Black Market arms merchant and calls a sales
 ## V004 C001 E015 institutional delta — anonymous cash and claimed sweep
 
 RABBIT holds a large cash payment after an off-page rusty-missile sale to a masked buyer, but the buyer, notes and transfer paperwork are not audited. Decartes says Valkyrie Public Security scattered 所確幸 with unfamiliar weapons and is clearing the area. Saki estimates HEIAP from a mark, admits incomplete certainty and offers Kaiser Industry as a possible source; Miyu speculates Valkyrie purchased E014's entire stock despite Kirino's earlier budget account. At least one Public Security student directly reaches the park at the end. No identified buyer, procurement file, eviction order, arrest or clash outcome is printed.
+
+## V004 C001 E016 institutional delta — contested authority and unproved rebate
+
+Kanna asserts RABBIT's park occupancy is unlawful and Kaya only postponed punishment, with park management outside Defense; no permits/orders/statute are opened. She says Public Security has sponsor-backed arms and a redevelopment mandate, then withdraws until a roughly month-end deadline under Sensei's request. Moe recognizes Kaiser Industry-branded guns, but no purchase record or sponsor identity is produced. Sensei/Miyako formulate a conditional Kaiser Construction-to-Industry-to-Public Security rebate for clearing rough sleepers, explicitly conceding uncertainty. Miyu guesses local-server records resist remote access; no system architecture is inspected. SRT's superior-investigator role is the squad's own mandate claim under closure, not independently reinstated authority. Clover Operation is announced to obtain evidence, not completed.

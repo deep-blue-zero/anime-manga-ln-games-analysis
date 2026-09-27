@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_E001_E015
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_E001_E016
 generation: V1
-version: "2.55"
+version: "2.56"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C004 through checkpoints, then BA:main:004:001:001–015 provisionally; 191/310 main units; side-source classes unreviewed; BA:main:004:001:016 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C004 through checkpoints, then BA:main:004:001:001–016 provisionally; 192/310 main units; side-source classes unreviewed; BA:main:004:001:017 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:004:001:016
+next_unopened_main_unit: BA:main:004:001:017
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:004:001:016
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V004_C001_E015` provisional boundary, inheriting canonical `MAIN_V003_C004`:
+This index answers four questions at the `MAIN_V004_C001_E016` provisional boundary, inheriting canonical `MAIN_V003_C004`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025, V003 C004 E001-E027 and V004 C001 E001-E015;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025, V003 C004 E001-E027 and V004 C001 E001-E016;
 - current checkpoint: `MAIN_V003_C004`; prior C001/C002/C003 checkpoint basis remains lineage;
-- main-story coverage: `191 / 310` canonical units;
+- main-story coverage: `192 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:004:001:016`.
+- next unopened main unit: `BA:main:004:001:017`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,17 +74,17 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` through V004 C001 E015; choice-conditioned Kanna guess and thinking pause at Public Security arrival | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` through V004 C001 E016; secures reprieve, voices rebate conjecture and backs RABBIT's mission | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Decartes | `ANALYZED` through V004 C001 E015; reports 所確幸 scattered by Public Security and warns of local sweep | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sora | `ANALYZED` in V004 C001 E006; receives squad at Schale and describes discarded-food disposal arrangement | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kaya | `ANALYZED` through V004 C001 E012; declines repair aid, pressures Kanna and admits expected Sensei/RABBIT rupture | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Kanna | `ANALYZED` through V004 C001 E012; reports demolition delay and receives Kaya's coalition hint | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Kanna | `ANALYZED` through V004 C001 E016; sponsor-backed park eviction threat, temporary withdrawal and month-end limit | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kirino | `ANALYZED` through V004 C001 E009; market patrol, food interest, armed-wanderer rumor and budget report | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Fubuki | `ANALYZED` through V004 C001 E003; Miyu interviewer; fears clarified, Life Safety suggestion declined | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Saki | `ANALYZED` through V004 C001 E015; questions masked cash buyer, prioritizes fuel and estimates HEIAP incompletely | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Moe | `ANALYZED` through V004 C001 E015; values cash for ordnance while downplaying buyer's dubious anonymity | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Miyako | `ANALYZED` through V004 C001 E015; sees partial fighting recovery, questions Decartes intervention | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Miyu | `ANALYZED` through V004 C001 E015; sees cash sale, hypothesizes Valkyrie stock purchase | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Saki | `ANALYZED` through V004 C001 E016; challenges infiltration risk, affirms SRT investigative role | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Moe | `ANALYZED` through V004 C001 E016; recognizes Kaiser guns, queries reporting route and joins Clover decision | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Miyako | `ANALYZED` through V004 C001 E016; formulates conditional rebate theory and launches Clover Operation | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Miyu | `ANALYZED` through V004 C001 E016; worries about capacity and uncertain school status before Clover | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Seia | `ANALYZED` through C004 E027; reports prophetic-dream loss as deal price, last vision withheld | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Koharu | `ANALYZED` through C004 E026; quietly sends preserved Mika accessories via Ichika | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hanako | `ANALYZED` through C004 E026; finds damaged ancient catacomb map with Ui, restoration unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -1579,3 +1579,9 @@ Routing: [V004 C001 E014 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_
 RABBIT reacts to a large cash payment for rusty missiles from a masked, nonnegotiating buyer after an off-page sale. This buyer is not identified with E014's anonymous Kaiser Industry stock purchaser, and Saki's counterfeit concern is untested. Decartes reports 所確幸 scattered by unusually armed Public Security and a wider eviction sweep; Saki's HEIAP reading is expressly incomplete and Kaiser Industry is only a possible source, while Miyu's Valkyrie-bought-all-stock theory lacks procurement evidence. Kirino-tagged budget lines appear as a likely recollection splice, not a new park visit. A Public Security student directly arrives at the cut, making local confrontation real but leaving injury, arrest and eviction outcomes open. No new named subject/readiness promotion: **21 `PARTIAL_MODEL` / 76 `UNMODELED` across 97**, none operational/validated. No standalone model, frozen prediction, new durable claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E016 unopened.
 
 Routing: [V004 C001 E015 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E015_DEEP_READING.md) → `BA:main:004:001:015`, one scene, 53 visible numbered units and three Sensei choice groups (one paired). Coverage is **191 / 310**.
+
+## 165. V004 C001 E016 provisional coverage delta
+
+Kanna identifies herself at the park, contests any permission to camp, invokes sponsor-backed firearms and decided redevelopment, and demands departure or conflict. Sensei obtains a direct withdrawal for the day through Kanna's acknowledged debt, but she warns of force if the squad remains at roughly month-end. Moe identifies visible guns as Kaiser Industry products; the sponsor and transaction remain unknown. Sensei and Miyako formulate a conditional Kaiser Construction/Industry rebate-for-eviction scenario, then explicitly call it unproved. RABBIT claims SRT investigative duty under closure, considers risky entry for records and launches Clover Operation without yet obtaining evidence. The responsibility pledge has a `心の声` attribution seam. No subject/readiness promotion: **21 `PARTIAL_MODEL` / 76 `UNMODELED` across 97**, none operational/validated. No standalone model, frozen prediction, new durable claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E017 unopened.
+
+Routing: [V004 C001 E016 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E016_DEEP_READING.md) → `BA:main:004:001:016`, one scene, 102 visible numbered units and six Sensei choice groups (one paired). Coverage is **192 / 310**.

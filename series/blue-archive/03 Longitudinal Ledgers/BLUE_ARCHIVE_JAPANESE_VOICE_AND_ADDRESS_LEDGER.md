@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–015; BA:main:004:001:016 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–016; BA:main:004:001:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1751,3 +1751,9 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 - Decartes's `狂犬` points toward a recognizable reputation but is not a direct name; Sensei's paired `choice:001` can say `カンナ` but remains a guess. Saki qualifies HEIAP identification with `完全にではない`.
 - `scene:001:u:0032` is Decartes-tagged `その弾痕を見せろ` immediately before Saki's technical reading; preserve the label and quarantine exact addressee/speaker. Kirino-tagged `u:0042-0043` repeats E009 budget lines within a park scene and is followed by Sensei's thinking pause, so a new Kirino presence is not established.
 - The italic `？？？` wildlife-herd metaphor and subsequent Public Security student are adjacent, not securely one named individual. No performed voice admitted.
+
+## V004 C001 E016 voice delta — labels, sponsor and thought-tagged pledge
+
+- Kanna asks for `公安局長` rather than `狂犬`, then distinguishes Kaya's `処罰を保留` from permission to occupy the park; neither is an opened written order. Her `スポンサー` is unnamed. `scene:001:choice:002` is a paired time-request with duplicate convergence at `u:0040-0041`.
+- Sensei's `リベートかな` is an offered hypothesis, and `もちろん、まだ色々と推測の域` expressly limits it. Miyako's `もし` at `u:0060` frames a conditional transfer, despite her forceful moral/legal judgment inside the hypothetical.
+- `u:0087` is tagged `先生（心の声）` but Miyako replies to its responsibility sentiment; do not silently recast it as definitely spoken. Moe's SRT recitation adds maximal firepower, not a universally endorsed doctrine. No performed voice admitted.

@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–015; BA:main:004:001:016 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–016; BA:main:004:001:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1141,3 +1141,7 @@ Sensei guesses bank robbery as Moe's funding plan and receives immediate SRT rej
 ## V004 C001 E015 delta — hypothesis without an enacted rescue
 
 Sensei is present when the squad examines a masked buyer's large cash payment and Decartes seeks help. Their paired first choice either asks who the “mad dog” is or guesses Kanna; the text does not certify that inference (`scene:001:choice:001`). They ask how Saki identifies a bullet mark and later say they were thinking while Kirino budget words are spliced into the park scene (`choice:002-003;u:0032-0046`). A Public Security student arrives, but Sensei has no printed intervention or resolution before the cut. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E016 unopened.
+
+## V004 C001 E016 delta — time bought, conjecture disclosed
+
+Sensei interrupts Kanna's armed leave-or-fight ultimatum, asks for thinking time and obtains Kanna's withdrawal for the day because she says she owes Sensei; the month-end threat remains (`scene:001:u:0036-0047;choice:001-002`). Sensei proposes `リベート` and expressly warns it is conjecture; the group discusses evidence paths rather than declaring guilt (`u:0053-0085;choice:003-005`). Sensei supports the students if they believe in their SRT mission. `u:0087` is inner-thought-tagged yet answered, so the “I'll take responsibility” assurance cannot be uncritically treated as a public legal guarantee. The impending infiltration carries risks with no result yet. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E017 unopened.

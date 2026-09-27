@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–015; BA:main:004:001:016 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–016; BA:main:004:001:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1493,3 +1493,7 @@ E011's ruined equipment becomes Moe's hoped exchange value: damaged missiles/bom
 ## V004 C001 E015 motif / callback delta — money, firepower and the approaching state
 
 A large anonymous cash payment seems to solve the storm-loss supply problem, but the masked buyer and untested notes turn abundance into uncertainty. Saki's fuel/cooking/helicopter priority and Moe's explosive preference divide sustainment from firepower; Miyako's momentary confidence is undercut by Decartes's plea. E014's anonymous stockout, a rare HEIAP clue and E009's budget constraint invite an explanatory conspiracy, yet the text supplies only layered testimony and inference. Public Security's actual arrival transforms an anticipated eviction force into present contact without adjudicating its prior conduct.
+
+## V004 C001 E016 motif / callback delta — deadline and evidence before force
+
+Kanna's month-end deadline gives the park protest a bounded clock, while the sponsor-backed firearms and planned redevelopment make armed state power materially present. Sensei's reprieve preserves student choice but cannot by itself solve the conflict. The squad moves from suspicion and capability shortage to an evidence-seeking Clover mission: its SRT identity becomes a reason to investigate a possible public/private collusion, even though its formal school has closed. This is a commitment under uncertainty, not vindication of the rebate story. The thought-tagged responsibility promise complicates a clean adult-guarantee interpretation.

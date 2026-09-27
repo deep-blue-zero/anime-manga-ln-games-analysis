@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–015; BA:main:004:001:016 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–016; BA:main:004:001:017 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V004_C001_E015 active provisional; C001 E016 unopened
+current_sequential_boundary: MAIN_V004_C001_E016 active provisional; C001 E017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2433,3 +2433,7 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 ## V004 C001 E015 claim delta — cash sale, raid report and direct arrival
 
 **BA-C001/C016 — QUALIFY:** Sensei's Kanna naming is a choice alternative, and no new protective result follows before the cut. **BA-C008 — STRENGTHEN method:** the cash-sale aftermath is directly spoken/seen, but no transaction scene or banknote test; Decartes reports an earlier Public Security raid, Saki gives an incomplete HEIAP/Kaiser inference, Miyu hypothesizes Valkyrie bought stock, and an unnamed Public Security student directly arrives. Do not collapse these into a proven purchaser, weapon source or past shooter. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No named subject/readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E016 unopened.
+
+## V004 C001 E016 claim delta — reprieve and conditional rebate model
+
+**BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei secures a direct temporary Public Security withdrawal and supports RABBIT's own decision; their liability promise has a `心の声` label conflict and does not establish legal coverage. **BA-C008 — STRENGTHEN method:** Kanna's sponsor-backed procurement/eviction authority, Moe's Kaiser-brand recognition, Miyako's conditional Kaiser Construction/Industry rebate theory, and Kanna's actual withdrawal are separate. Sensei and Miyako explicitly say the suspected transaction is unproved. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E017 unopened.

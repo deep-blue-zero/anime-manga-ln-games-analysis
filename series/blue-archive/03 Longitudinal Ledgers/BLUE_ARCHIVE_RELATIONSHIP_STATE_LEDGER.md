@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–015; BA:main:004:001:016 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–016; BA:main:004:001:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1335,3 +1335,7 @@ Moe takes supply initiative and displays a prior commercial relation with a Kais
 ## V004 C001 E015 relationship delta — Decartes seeks refuge among former rivals
 
 RABBIT's former captor/rival Decartes appeals for help after claiming 所確幸 scattered; Miyako initially invokes nonintervention in private civil disputes and Moe taunts the group name, so no alliance forms. Decartes warns they share the same Public Security threat, which becomes locally credible when an officer appears. Saki's practical resource priority challenges Moe's maximized-firepower impulse. Sensei's attentive pause and conditional Kanna guess do not create a verified understanding of the unseen raid or a completed defense pact.
+
+## V004 C001 E016 relationship delta — debt, delay and student initiative
+
+Kanna is adversarial toward RABBIT but grants Sensei's time request because she acknowledges owing them; she withdraws for now and leaves a month-end force condition. Sensei does not command RABBIT to leave or fight, instead shares a hypothesis and supports their chosen investigation. Miyako moves from threatened leader to declaring Clover Operation; Saki/Miyu voice practical objections before accepting the SRT role claim, while Moe tests a reporting alternative. None of this resolves Kanna's duty conflict or the squad's formal standing.

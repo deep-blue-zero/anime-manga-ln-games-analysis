@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–015; BA:main:004:001:016 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–016; BA:main:004:001:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1724,3 +1724,9 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Decartes:** seeks RABBIT's help and reports 所確幸 scattered by an unusually armed Public Security raid. The specific prior raid and sweep breadth are self-report; at the cut, a Public Security student does directly arrive.
 - **Saki / Miyu / Sensei:** Saki gives an explicitly incomplete HEIAP estimate and Kaiser Industry possibility; Miyu infers Valkyrie may have bought the stock but doubts its budget. Sensei's Kanna guess is paired/conditional, and Kirino budget lines appear as a likely recall splice rather than a confirmed park visit.
 - **Unnamed actors:** the masked missile buyer, E014's anonymous stock buyer, metaphor speaker and arriving Public Security student are not securely identified with each other or Kanna.
+
+## V004 C001 E016 character-state delta — Kanna's limit and Clover resolve
+
+- **Kanna:** personally identifies, disputes park authorization, claims sponsor-backed arms/numeric advantage and a decided redevelopment, then withdraws for the day at Sensei's request. She estimates month-end as the limit before force; sponsor, contract and legal basis remain uninspected.
+- **Sensei:** interrupts a leave-or-fight ultimatum to obtain time, proposes a rebate hypothesis while marking it conjecture, and supports RABBIT's investigation choice. A responsibility promise is `心の声`-tagged despite Miyako's answer, so its spoken status is suspect.
+- **Miyako / Saki / Miyu / Moe:** recognize improved opposing arms, build a conditional corporate rebate model, acknowledge its evidentiary gap, discuss server/infiltration risks and reclaim SRT's investigative self-image. Miyako announces Clover Operation, without completed entry or proof.
