@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–005; BA:main:004:001:006 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–006; BA:main:004:001:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1101,3 +1101,7 @@ Kaya proposes saving RABBIT's affiliation by persuading them into Valkyrie; Sens
 ## V004 C001 E005 delta — a choice with no compelled gratitude
 
 Under Kaya's prior offer, Sensei communicates a local release, asks the students what **they** want, offers Schale rest/living and accepts their preference for the park (`scene:001:u:0023-0067`). The release line is `心の声`-tagged despite responses, and no formal order or long-term status is shown. Their suspicion of Schale prompts an emphatic denial, not retaliatory custody. Miyako's explicit `信頼していません` stands after clemency, and Sensei's paired responses accept it if the students are not suffering. This is noncoercive conduct in one decision, not a proven global virtue or reconciliation. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E006 unopened.
+
+## V004 C001 E006 delta — care, leverage and an imperfect workaround
+
+Sensei visits to check welfare, voices concern about public traps, and offers food from their bag (`scene:001:u:0001;scene:002:u:0002-0067`). The noodle preparation prompts consent to eat, but `choice:012` immediately asks about Valkyrie transfer on food grounds. That is a real pressure-bearing move; the squad rejects it and says conviction persists (`u:0093-0100`). Sensei then gives a note for an indirect food route. Sora's subsequent discard-disposal account confirms prior arrangement but not its safety or long-term sufficiency (`u:0101-0145`). Adult help is adaptive but imperfect, and Miyako's humiliation is not negated by material aid. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E007 unopened.

@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–005; BA:main:004:001:006 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–006; BA:main:004:001:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1453,3 +1453,7 @@ Kaya's SRT history reframes E003 Miyako's interest-independent justice ideal: ac
 ## V004 C001 E005 motif / callback delta — freedom without belonging
 
 A local `釈放` gives immediate freedom but cannot restore SRT or give the squad an accepted school home. Sensei's Schale shelter offer would solve rest only at the cost Miyako sees for ongoing protest; `子ウサギ公園` becomes an interim space combining field identity and visible dissent. This echoes earlier school-belonging questions without equating their institutional conditions. Saki rejects Miyako's monopoly on blame, while distrust of adults survives mercy: relief is not trust, and noncoercion is not guaranteed security. The lurking Schale-abuse rumors dramatize fear, not established practice.
+
+## V004 C001 E006 motif / callback delta — the cost of refusing a school
+
+The park as protest home now has water, shade and defensive traps but no food; SRT's hardware/manual displace basic sustenance. This literalizes the gap between elite training and ordinary survival while adding public-risk externalities from a mine whose location Moe cannot recall. Ramen aroma becomes the comic “torture” of hungry autonomy. Sensei's transfer prompt makes support potentially coercive, then the discarded-food workaround recasts charity as labor without erasing shame or school loss. The scene retains a dignity-versus-need tension rather than granting instant gratitude or a safe long-term food system.

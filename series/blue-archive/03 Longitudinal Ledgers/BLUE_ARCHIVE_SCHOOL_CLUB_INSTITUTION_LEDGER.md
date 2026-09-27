@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–005; BA:main:004:001:006 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–006; BA:main:004:001:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1011,3 +1011,7 @@ Kaya says the Federal Student Council consists of eleven-section `行政委員�
 ## V004 C001 E005 institutional delta — release versus records
 
 Sensei presents Administrative Committee disposition and announces local release; the line is oddly `心の声`-tagged but receives direct reaction. The students are no longer depicted in interrogation/custody and can choose a destination, yet no written authorization, school-record preservation, transfer status, amnesty or SRT restoration is shown. Their proposed `子ウサギ公園` camp continues protest visibility; no park rule, supply plan or actual arrival is printed. Schale housing is offered and refused. The legal/institutional consequences of Kaya's E004 offer remain a separate uninspected track.
+
+## V004 C001 E006 institutional delta — park risk, frozen account and surplus
+
+E005's proposed park camp is directly present the next morning. Saki/Moe use traps/mines in public-space defense; Moe cannot locate one mine, and no detonation or injury is printed. Miyu reports SRT's school account stopped, and Miyako says no resupply route exists; no bank notice is inspected. Sensei's Schale contact Sora represents a discarded-food disposal arrangement at the office, with low customer traffic and potential expired items. The exchange is not a verified food-safety program, formal wage contract, reopened school account or stable welfare plan. SRT/Valkyrie transfer remains refused.

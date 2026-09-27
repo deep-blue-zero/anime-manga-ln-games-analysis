@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–005; BA:main:004:001:006 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–006; BA:main:004:001:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1692,3 +1692,10 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 - `全員釈放` is under `先生（心の声）` at `u:0032` but immediately answered by the group; subsequent choice dialogue confirms they discuss freedom while SRT restoration is excluded. Do not silently normalize the tagged line as voiced or deny the local release it produces.
 - The `盗聴器` and sexualized-coercion talk is reported rumor/speculation, not factual Schale conduct. Sensei's paired denials are alternatives (`u:0044-0050;choice:007`).
 - `u:0053-0054` strict regimen remarks and `u:0058` field-training comparison are Moe-tagged but resemble Saki's E003 register; `u:0055/0059` may be Moe's equipment concerns. Exact individual voice remains quarantined. Miyako's `私たちは先生を信頼していません` after release is unambiguous, and Sensei's paired replies do not require gratitude (`u:0063-0067;choice:010`). No performed voice admitted.
+
+## V004 C001 E006 delta — “torture,” food and guarded need
+
+- `地雷` and `対戦車地雷` are direct threat descriptions, with Moe admitting she forgot exact placement; they do not represent a detonated device (`scene:002:u:0009-0016`). Saki's `最小限の自衛` collides with Sensei's safety objection in a public park.
+- The initial `何の問題もありません` gives way to `水しかありません` and `何も食べてない`. Miyu's `学校の口座が停止` is reported material context; `飢え死` is fear (`u:0023-0054`). `u:0030` polite Saki tag beside `u:0031` blunt dismissal is a voice seam.
+- Miyako's `見返り`/`策略` language marks food as a suspected exchange, and `拷問` for ramen aroma is comic/metaphoric, not clinical torture or drugging (`u:0061-0100`). Sensei's `choice:012` really does raise Valkyrie transfer just after assent to eat; do not flatten this into unconditional support.
+- `廃棄品`, `生ゴミ` and `賞味期限切れ` are Sora/Moe's differentiated terms, not certification that every item is safely edible. Miyako's inward `屈辱` is unambiguous continued discomfort. No performed voice admitted.

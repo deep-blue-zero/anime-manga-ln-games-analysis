@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–005; BA:main:004:001:006 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–006; BA:main:004:001:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1295,3 +1295,7 @@ Kaya thanks Schale for absorbing federal burdens, values RABBIT's elite potentia
 ## V004 C001 E005 relationship delta — no gratitude bargain
 
 All four reunite and fear the coming decision. Miyako apologizes, but Saki rejects her claim of leader-only responsibility after closure. Sensei's represented release and lodging offer do not buy loyalty: Miyako refuses Schale, says they remain opposed and still distrust Sensei, while Sensei accepts that without a condition of thanks. Saki calls the next encounter adversarial, Moe says they were already enemies, and Miyu fears being left behind. The squad remains together enough to choose park camping, despite E003's divergent motives and internal tension; actual arrival and durable cohesion are open.
+
+## V004 C001 E006 relationship delta — care suspected as bargain
+
+Sensei returns to check the squad; Saki and Moe have fortified the public park, with danger to Sensei and potential bystanders. Miyako initially insists they need no help, then admits hunger. The four briefly want ramen, but Sensei's transfer question confirms their fear that food could be leverage; they jointly refuse school conversion. Miyako accepts only an address note, while Sora later offers disposal goods on Sensei's arrangement. Moe takes the chance, Saki protests shame then will eat, Miyu fears dependence, and Miyako privately names humiliation. No trust or alliance is established; Sora is a friendly transactional contact with no prior relationship evidence.

@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–005; BA:main:004:001:006 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–006; BA:main:004:001:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1658,3 +1658,10 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Miyako:** still self-blames the failed operation; Saki rejects sole-leader responsibility after closure. Miyako refuses Schale comfort as inconsistent with the protest, accepts the park and explicitly retains adult distrust.
 - **Saki/Moe/Miyu:** Saki anticipates expulsion and states future hostility; Moe predicts fantastical worse punishment then wants rest, and Miyu panics over both penalty and sudden Schale trust. The squad agrees to park camping but has not yet arrived. `u:0053-0059` label patterns prevent certain individual assignment of regimented-training/field-ground preferences.
 - **Kaya/Kanna:** neither directly speaks in this scene; Sensei reports Administrative Committee involvement, not a reproduced official order. Kaya's E004 offer is the immediate prior context, not a full legal audit.
+
+## V004 C001 E006 character-state delta — park scarcity and food leverage
+
+- **Sensei:** checks the park after release, objects to mines, offers noodles, then raises Valkyrie transfer at the hunger point before arranging a Schale surplus-food route through Sora. Direct coercion/withholding is not shown, but the proposal is pressure-sensitive.
+- **Miyako:** admits water-only conditions after first denying need; refuses to trade SRT conviction for food/comfort, accepts an address note without changing stance and internally calls the surplus arrangement humiliating.
+- **Saki/Moe/Miyu:** Saki's defense readiness and manual prestige coexist with lack of food and mine risk; Moe cannot locate her own buried mine and values weaponry/spectacle, then readily takes the discarded-food job; Miyu reports frozen school account and fears starvation. No blast, actual famine or verified bank notice appears.
+- **Sora:** first directly present at Schale office, says Sensei arranged a discarded-goods disposal task and has collected goods. Her first narrow sample does not verify food safety or longer-term supply.
