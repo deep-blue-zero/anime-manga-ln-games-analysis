@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:012; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:013 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:013; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -983,3 +983,10 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **Third chance as a narrowing horizon:** Hifumi's approximate “one week” and narrator's six days place the final special exam close. Two failed official sittings have not produced an immediate expulsion, but they leave no shown safety margin or appeal.
 - **Effort without guaranteed reward:** Koharu's “I worked hard” and self-denigration collide with E008's 61 mock pass and E011's non-academic paper-loss failure. The motif tests whether the institution recognizes effort rather than proving incapacity.
 - **Care interrupts frantic solutionism:** Hifumi seeks a plan and resists rest; Hanako offers help and insists on sleeping first. A potentially exploitative teasing register in scene 1 gives way to bounded peer-care in scene 2, without curing the structural threat.
+## V003 C002 E013 motif / callback delta — effort against vanitas
+
+- **Measurable rehearsal, fragile outcome:** fourth–sixth club mocks move from only Hanako passing, to all passing, then only Hanako/Azusa passing. Work can change displayed marks, but the fifth mock's success is not a guarantee under a 90-point official line, let alone protection from E011-type procedure.
+- **Rest as strategy:** Koharu's E012 despair becomes a 100-point perfection demand on the eve. Hifumi, Hanako and Azusa counter with sleep; Hanako reports days of little rest. The group's care now protects capacity without resolving institutional threat.
+- **The empty building:** Hanako sees the main building go unnaturally quiet while the final exam is relocated to the 19th annex. The spatial image creates concern but supplies no culprit, and her planned noticeboard watch is vigilance, not foreknowledge.
+- **`Vanitas` returns as command code:** Saori's phrase and Azusa's recitation convert C001 E011's individual nihilism/effort contrast into an Arius-linked operational cue. It is juxtaposed with six days of study, two Sensei affirmations of effort and Azusa's friend-bond history; neither phrase nor labor alone settles her future choice.
+- **Two mornings collide:** the announced final examination and Saori's accelerated order both fall tomorrow morning. The text creates an unresolved collision rather than showing a completed attack or missed exam.

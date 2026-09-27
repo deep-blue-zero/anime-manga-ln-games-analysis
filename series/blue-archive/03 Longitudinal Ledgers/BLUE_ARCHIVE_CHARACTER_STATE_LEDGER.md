@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:012; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:013 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:013; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1033,3 +1033,13 @@ No new named subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` 
 - **Nagisa/Mika:** narrator says attempts to find/communicate with each fail; this does not establish deliberate hiding, guilt or permanent disappearance. No direct new dialogue.
 
 No subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E013 character-state delta — rehearsal and an accelerated order
+
+- **Hanako:** scores 100 on fourth, fifth and sixth club mocks; Hifumi credits her careful teaching. Hanako credits the others, reports days of poor sleep, monitors the noticeboard and notices the quiet main building. She has silent tags around Saori's private order, but no printed hearing/understanding line. E003's hidden reason for earlier low marks remains withheld; `UNMODELED`.
+- **Azusa:** scores 82/fail, 94/pass, 91/pass across the three local mocks; agrees rest is strategy before the exam. Saori then commands a next-morning operation to destroy Nagisa's halo. Azusa protests accelerated risk and unfinished preparation, then verbally agrees to prepare and recites `vanitas vanitatum`. This narrows E017's plan but not her eventual decision or inner belief; `UNMODELED`.
+- **Koharu:** scores 74/fail, 90/pass, 83/fail; fears another last-minute procedural change and proposes studying until 100. Her self-doubt in E012 is not a fixed ability measure, and group urging to rest does not establish final readiness; `UNMODELED`.
+- **Hifumi:** scores 79/fail, 93/pass, 89/fail; credits Hanako, reassures Koharu, hopes a simple final paper may help and argues for sleep. This is contingent optimism amid variable mocks, not a predicted official pass; `PARTIAL_MODEL` unchanged.
+- **Saori:** previously silently named at C001 E017, now directly gives Azusa an accelerated order, names Nagisa's halo as target, cites Seia and invokes `vanitas vanitatum`. The narrow command sample does not establish independent historical truth or an operational model; `UNMODELED`.
+- **Sensei/Nagisa/Seia:** Sensei offers two singleton reassurance choices but no tested safeguard. Nagisa and Seia are spoken-about targets/references, not speaking participants; no completed harm or verified Seia history.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

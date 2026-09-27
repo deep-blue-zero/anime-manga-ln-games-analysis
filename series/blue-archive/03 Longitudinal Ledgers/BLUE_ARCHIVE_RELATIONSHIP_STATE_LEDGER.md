@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:012; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:013 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:013; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -838,3 +838,9 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **HIFUMI ↔ HANAKO:** Hifumi takes responsibility for finding a last-chance method and is visibly exhausted. Hanako offers help with Koharu's study and Hifumi's burden, urging rest. This deepens E003/E008 reciprocal care without disclosing Hanako's own hidden motive.
 - **SENSEI ↔ NAGISA/GROUP:** Sensei inwardly blames their Nagisa words; Hanako says the teacher acted for the students based on an account she heard. The exact account and present dialogue remain unprinted. Attempts to find Nagisa/Mika fail, so no new direct relational settlement with either occurs.
 - **AZUSA ↔ CLUB:** Azusa says a premature farewell turned into a return to camp and stays quiet amid Koharu's anger. Silence cannot establish agreement, guilt or plan change.
+## V003 C002 E013 relationship delta — visible club care, private command
+
+- **HANAKO ↔ REMEDIAL CLUB:** Hifumi directly credits Hanako's patient teaching, while Hanako credits the students' work and recommends rest. Her perfect mock marks and noticeboard watch coexist with E003's still-private earlier motive. Silent tags near the private exchange do not establish that she knows its content.
+- **AZUSA ↔ HIFUMI/KOHARU/HANAKO/SENSEI:** Azusa accepts the group's rest counsel and joins a spoken commitment to pass. Her later Saori call is not shown to the others; the apparent coexistence of club belonging and hidden obligation is not proof she has chosen the latter.
+- **SAORI ↔ AZUSA:** Saori gives a fixed next-morning order and invokes shared `vanitas vanitatum` language. Azusa raises risk/unfinished preparation, then says she will prepare. This supports an asymmetrical command relation with room for hesitation, not unqualified enthusiasm, completed obedience or freely consented violence.
+- **SAORI/AZUSA ↔ NAGISA/SEIA:** Saori names Nagisa's halo as target and compares the requested act with Seia. The episode gives no direct Nagisa/Seia encounter and no independent Seia-event verification.

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:012; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:013 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:013; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1233,3 +1233,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Koharu's `私、バカなのに` in scene 2 follows E011's lost-paper failure and acute strain; it is not a narrator intelligence judgment. Her `トリニティの裏切り者` line directly establishes term knowledge, but not the exact source or every dossier detail. Hifumi's `一週間後` is approximate, while narrator `あと6日` fixes the countdown.
 - Sensei `scene:002:u:0014` is `心の声` apology about Nagisa words. Hanako `そのお話を聞いた限り` responds to some heard account, not necessarily that inward line. Her `あの猫ちゃん` is a situated insult/figure, not evidence of a literal cat identity or an executed attack.
 - The failed efforts to meet Nagisa/contact Mika at scene 1 `u:0022-0023` do not voice either absent actor. One singleton Sensei choice in scene 1; `scene:002:u:0035` is a title card.
+## V003 C002 E013 delta — mock labels, private names and the vanitas formula
+
+- Narrator labels fourth–sixth `補習授業部模試`, not `特別学力試験`. Parenthesized `合格/不合格` apply to these mocks. The one-day countdown repeats around the private scene; do not date each result as a different official attempt.
+- Hanako's `今のところ` limits her claim that the range and 90-point line are unchanged. `人けがピタッと無くなって` describes an unnaturally quiet main building from her perspective, not an identified covert actor. Koharu's `100点` demand is an anxious aspiration, not an achieved final score.
+- The initial `？？？` speaker is identified when Azusa says `サオリ`, followed by the `サオリ` tag. `明日の午前中` and `約束の場所` are specific timing/site instructions but the site's location is not printed. `ナギサのヘイローを破壊する` is Saori's lethal-target formulation; `セイアの時のように` is an analogy/claim rather than forensic proof of a prior act.
+- Saori's `vanitas vanitatum` call and Azusa's `全ては虚しいもの` response form a shared formula. Azusa recites its fatalistic proposition and says she never forgot; the source does not certify her inward agreement. Her `まだ準備ができてない` and `リスクが大きすぎる` register objection to acceleration before `準備しておく` compliance.
+- Hanako's two silent tags are not dialogue or an explicit eavesdropping statement. Both Sensei choices are singleton reassurance, not mutually coexisting branches. `u:0081` is the next-title card `こくはく` only.

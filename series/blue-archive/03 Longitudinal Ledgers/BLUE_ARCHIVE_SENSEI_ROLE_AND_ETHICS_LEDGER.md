@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:012; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:013 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:013; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -836,3 +836,6 @@ Sensei reaches the Gehenna checkpoint with the group; no direct command causes t
 ## V003 C002 E012 delta — responsibility without a found remedy
 
 Sensei's singleton response to Hifumi's appeal is `私も頑張るね`: shared effort, not a specific exam/appeal intervention. The narrator says attempts to reach Nagisa and Mika fail. At camp an inward Sensei line apologizes for words said to Nagisa; Hanako then thanks the teacher on the basis of a story she has heard, which need not be that inaccessible thought. Koharu's breakdown and Hifumi's strain make the teacher's E009 pass promise ethically urgent, but E012 prints no successful appeal, third-test safeguard or direct protection step. Hanako's offer of rest/help gives students agency rather than having Sensei solve the matter for them. The six-day countdown is narrator fact; feasibility of 90-point success remains unknown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E013 delta — trust in work, unknown private danger
+
+Sensei's two singleton choices encourage the group: they will likely be all right, and should trust their effort. This sits beside three club mocks whose fifth all-pass is followed by a sixth with two failures; reassurance is ethical/morale support, not a calibrated prediction or ensured official result. Hifumi credits Hanako's teaching, and the adult does not appropriate that labor. Hifumi/Hanako/Azusa urge Koharu and each other to rest after days of little sleep, preserving student care rather than an adult-only solution. Saori's accelerated Nagisa-halo order is printed privately after the group pledge; no line shows Sensei heard it, knew the target, or could intervene. E009's pass/protection commitment remains unfulfilled and newly pressured, not falsified by a future event E013 has not shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

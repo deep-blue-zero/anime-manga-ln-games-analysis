@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:012; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:013 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:013; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -746,3 +746,6 @@ The club reaches the E010 posted Gehenna address by Azusa's 2:45 a.m. reading de
 ## V003 C002 E012 institutional delta — six days to final sitting
 
 After the second official paper-loss failure the club seeks a response; Hifumi says the **third special academic examination in about one week** is their **last chance**, and narrator fixes **six days remaining**. No third-test notice, syllabus, invigilation, valid appeal, reinstatement or immediate expulsion is shown. Koharu explicitly knows that a “Trinity traitor” suspicion underlies the crisis, expanding the minimum established knowledge beyond E010's three-failure warning; the exact past briefing and legal basis remain unprinted. The group tries but fails to find Nagisa or contact Mika, so no institutional counterparty is available in this episode. Hanako worries Nagisa may obstruct again, but neither this nor the failed contact establishes who supplied E011's unknown hot-spring tip. The camp resumes as a study/problem-solving site under shared pressure, with rest urged rather than a new official remedy.
+## V003 C002 E013 institutional delta — local marks and colliding schedules
+
+Narrator records three further **club mocks**, not official special exams: fourth 100/82/74/79, fifth 100/94/90/93 (all pass), sixth 100/91/83/89 (Hanako/Azusa pass), in Hanako/Azusa/Koharu/Hifumi order. Under the reported 90-point line, readiness is variable and the fifth mock alone does not satisfy the formal all-four exam rule. On the eve, Hanako reports the final third special exam as 9 a.m. at Trinity's 19th annex room 32, with the previously announced range and 90-point threshold unchanged **so far**. This is current participant information, not a directly reproduced notice or assurance against E010-style changes. She finds the main building unusually empty since yesterday and plans to monitor the noticeboard; no institutional explanation is given. Saori, speaking for “our Arius,” orders Azusa to await further instructions tomorrow morning at an agreed site and says the operation aims to destroy Tea Party host Nagisa's halo. The command is evidence of an Arius-linked hostile plan and a direct timing conflict with the announced exam, not proof of Arius formal hierarchy, Seia precedent, completed assault, final-exam disruption or Nagisa's culpability in prior exam obstruction. No official result, expulsion, appeal or protective institutional response appears.

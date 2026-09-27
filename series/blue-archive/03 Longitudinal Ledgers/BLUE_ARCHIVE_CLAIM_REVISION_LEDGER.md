@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:012; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:013 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:013; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:014 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E012 active provisional; E013 unopened
+current_sequential_boundary: MAIN_V003_C002_E013 active provisional; E014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1832,3 +1832,11 @@ No new durable claim ID, subject, standalone model, frozen prediction or side-so
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; third exam, appeal, leader locations and protection method remain OPEN.
+## V003 C002 E013 claim delta — study evidence beside a private attack order
+
+- **BA-C001/C016 — PRESSURE:** Sensei reassures the club twice through singleton choices, but E013 shows no protection against either an unseen exam change or Saori's order. The adult's knowledge of the private conversation is not shown.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/QUALIFY:** the fourth club mock is 100/82/74/79, the fifth 100/94/90/93 (all pass), the sixth 100/91/83/89 (only Hanako/Azusa pass), in Hanako/Azusa/Koharu/Hifumi order. These are local rehearsals, not official results or controlled comparable measures. Hanako reports 90, prior range, 9 a.m. at Trinity's 19th annex room 32 as current final-exam terms. A one-time joint mock pass does not erase subsequent variance, E011's procedural failure or the risk of another change.
+- **BA-C008 — STRENGTHEN:** Saori's direct instruction fixes Nagisa's halo as the claimed target and tomorrow morning as the accelerated action time; Azusa resists timing then agrees to prepare. Saori's Seia comparison is a claim, not an independently verified replay. Hanako's silent tags do not prove she heard it. The `vanitas vanitatum` recitation need not equal Azusa's settled belief.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Seia incident, Hanako's knowledge, Azusa's eventual action and final exam remain OPEN.
