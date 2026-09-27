@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–015; BA:main:003:004:016 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–016; BA:main:003:004:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1191,3 +1191,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **MIKA ↔ SENSEI:** Mika calls herself an irredeemable bad/problem student and predicts Sensei will stop meeting her if expelled; Sensei does not say that. One choice either gives probable Seia reassurance or asks her to return without harm. Mika rejects restraint and leaves.
 - **MIKA ↔ SAORI/SQUAD:** Saori says they subdued Mika locally, but Mika insists Saori cannot enjoy Sensei's protection without cost. Continued pursuit is explicit, not a completed attack.
 - **SQUAD ↔ SENSEI:** after Mika departs, the group treats Arius/Justina/Mika as compounding risks and continues toward the alleged corridor. Mis-tagged Hiyori lines prevent exact speaker assignments.
+
+## V003 C004 E016 relationship delta — Mika separates Saori from adult aid
+
+- **MIKA ↔ SAORI:** Mika claims calibrated collapse to spare Sensei while leaving Saori isolated; Saori faces her on the opposite side of the debris. No duel or injury result yet.
+- **SENSEI ↔ SAORI/SQUAD:** Sensei dodges the falling column and reports immediate safety with Misaki/Hiyori, while Saori confirms she is across a blocked passage. Remote concern is visible, physical aid not yet available.
+- **MISAKI/HIYORI ↔ SAORI:** they ask for her safety and try to clear/route around rubble; passage remains blocked by their account. The exact tactical warning speaker is compromised by Hiyori-tag errors.

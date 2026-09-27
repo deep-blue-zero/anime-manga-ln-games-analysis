@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–015; BA:main:003:004:016 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–016; BA:main:003:004:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1348,3 +1348,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Equivalent cost:** Mika needs Saori to lose something because she construes unpunished Squad as erasing the meaning of her own losses. Revenge becomes an identity anchor rather than evidence of fair proportion.
 - **Temporary win:** a local subdual leaves Mika able to walk away and threaten continued pursuit, limiting any “victory” reading.
 - **Corridor deferred:** Squad still only states intent to use the old-school route; the title of E016 names a corridor but cannot be imported as an E015 crossing.
+
+## V003 C004 E016 motif / callback delta — route found, care divided
+
+- **Ruined school to usable corridor:** the former learning site is physically reached and yields a passage, crossing the earlier hearsay boundary; its connection all the way to the basilica remains unproven.
+- **Selective harm:** Mika says she lowered force to avoid Sensei yet isolates Saori. The narrow care for one adult coexists with purposeful endangerment/entrapment of a student.
+- **Broken bridge:** falling columns literally split Sensei's group from Saori, turning Mika's E015 demand for a private cost into a spatial separation before any duel result.

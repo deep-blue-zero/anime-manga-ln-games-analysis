@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–015; BA:main:003:004:016 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–016; BA:main:003:004:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1548,6 +1548,12 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0001-0004` repeats the E010 arrival; `u:0009-0025` repeatedly tags Hiyori across contrasting leader/anxious registers, and `u:0079-0081` inverts navigation/no-signal voices. Group-level content is secure, individual voice mining is not.
 - Mika's `ちょっと痛い目に` versus `いつヘイローを壊せ` (`u:0051`) is her first-person order distinction. `全部` loss/equal-suffering rhetoric remains her escalated perspective. Sensei's `choice:001` two alternatives converge on Mika returning/waiting; `choice:002` explicitly enters the catacombs.
 - Arius `u:0073-0074` duplicates one pursuer call; `撃て` at `u:0110` is an order, not a narrated impact. `u:0111` is E012 title.
+
+## V003 C004 E016 delta — two missing first units and a selective-force claim
+
+- Both scenes start at `u:0002` after location cards, with no printed `u:0001`. The two Sensei choices are each `choice:001` under separate scenes; do not merge them into one branch.
+- Scene 1 `u:0007` and scene 2 `u:0003-0008` repeatedly label Hiyori across differing leader/analyst registers. Keep physical arrival and shared warning separate from precise personal tactical attribution.
+- Mika's `先生が巻き込まれるかもと思って、威力を下げた` (`scene:002:u:0030`) is a self-report of selective force; `サオリ……綺麗に残って` (`u:0032`) identifies the intended isolated target. The narrated column crash supports obstruction, not measured mechanism. `u:0033` is E017 title.
 
 ## V003 C004 E015 delta — “bad child” and heavy Hiyori-tag inversion
 

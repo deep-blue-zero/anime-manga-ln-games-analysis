@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–015; BA:main:003:004:016 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–016; BA:main:003:004:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1029,3 +1029,7 @@ Over communication Beatrice offers Sensei information and purported Kivotos trut
 ## V003 C004 E015 delta — bounded restraint and conditional care
 
 Sensei inwardly urges Mika to stop; the source's response seam does not establish that instruction was spoken. After skipped combat yields a temporary subdual, a paired choice offers either probable Seia safety or an appeal to return because Sensei does not want to hurt Mika. Neither branch tells her contact will end if she loses student status; that is Mika's feared inference. Sensei follows Squad when she leaves, with no settlement of her grievance or corridor entry. One paired choice group; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E016 delta — adult vulnerability becomes tactical target
+
+Sensei follows Squad into the physically reached old-school corridor. Misaki reasons that Mika's concern about hurting Sensei and Sensei's command role could be exploited; this is prediction until the column collapse. Hiyori warns, Sensei dodges and answers that they are safe, but the obstruction leaves Saori on the far side with Mika. Mika self-reports lowering the force to avoid catching Sensei, a selective protection that does not equate to safety for Squad. No device audit, rescue action or duel result yet. Two separate-scene singleton choice groups; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

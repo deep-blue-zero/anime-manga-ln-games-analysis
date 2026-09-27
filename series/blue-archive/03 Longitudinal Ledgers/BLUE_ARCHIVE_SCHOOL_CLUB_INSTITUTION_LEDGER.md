@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–015; BA:main:003:004:016 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–016; BA:main:003:004:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -939,3 +939,7 @@ The changed/quiet town, Justina-looking force and Ambrosius-identifying cry prom
 ## V003 C004 E015 institutional delta — feared expulsion, no new order
 
 Mika says that **if** Trinity expels her she will lose Nagisa/others, and **if** no longer a student Sensei may cease contact. Neither a new school adjudication nor Sensei abandonment is shown; earlier decided Tea Party disqualification and forecast school expulsion remain distinct. The fight with Squad is skipped, locally ends in a reported subdual and Mika's departure, not a formal custody/remedy. Squad states continued intent to use the old-school corridor, but no entrance or basilica arrival is printed; `u:0039-0045` speaker-label inversions limit command attribution.
+
+## V003 C004 E016 institutional delta — old-school corridor physically confirmed
+
+Location cards and group movement place Squad inside the Arius old school and its underground corridor, converting E013's Atsuko-sourced passage report into a reached physical route. Hiyori says it is her first time inside; no prior curriculum or builder record is thereby corroborated. Falling columns block Saori from the rest after Sensei dodges, and Mika claims selective force; there is no inspected device, collapse-engineering explanation, complete route survey or basilica arrival. Scene 1 `u:0007` and scene 2 `u:0003-0008` speaker labels remain uncertain.

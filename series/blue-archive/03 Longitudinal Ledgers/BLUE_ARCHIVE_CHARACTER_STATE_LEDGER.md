@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–015; BA:main:003:004:016 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–016; BA:main:003:004:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E016 character-state delta — corridor discovery and Saori isolation
+
+- **Mika:** says she reduced the collapse's force for fear Sensei would be caught and is pleased Saori remains isolated. The obstruction is visible; device/force calibration and subsequent duel are not. `UNMODELED`.
+- **Saori:** leads Squad to old school and becomes trapped opposite Sensei/Misaki/Hiyori after falling columns; says she is unhurt and hears Mika. Exact injury survey and escape route remain open. `UNMODELED`.
+- **Misaki/Hiyori:** enter the old school/corridor, assess Mika's possible Sensei-isolation tactic, warn of falling column and seek Saori through rubble. Several Hiyori tags are suspect; person-specific tactical inference limited. Both `UNMODELED`.
+- **Sensei:** dodges the falling column and reports immediate safety, but is physically separated from Saori. `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E015 character-state delta — Mika's temporary subdual and loss account
 

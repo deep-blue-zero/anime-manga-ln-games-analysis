@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–015; BA:main:003:004:016 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–016; BA:main:003:004:017 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E015 active provisional; C004 E016 unopened
+current_sequential_boundary: MAIN_V003_C004_E016 active provisional; C004 E017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2268,3 +2268,11 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C008 — PRESERVE:** Seia's status is not newly observed. **BA-C019/C020 — PRESERVE:** no Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E016 unopened.
+
+## V003 C004 E016 claim delta — real corridor, selective obstruction
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** old-school/corridor location cards confirm the route exists and is reached. Mika's stated force-reduction/isolation intent aligns with a visible collapse separating Saori, but not with an inspected device or measured harm.
+- **BA-C001/C016 — QUALIFY:** Sensei dodges and answers safe locally; physical separation constrains immediate aid to Saori. A full rescue or basilica arrival is still open.
+- **BA-C008/C019/C020 — PRESERVE:** no Seia or Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E017 unopened.
