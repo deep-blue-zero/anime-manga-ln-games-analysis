@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:015; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:016 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:016; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ Track only relationships or ensembles with actual narrative state. Co-occurrence
 
 ## Current boundary
 
-Through `BA:main:003:001:015` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:016` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Relationship / ensemble | Current state | Last material transition | Confidence | Evidence |
 |---|---|---|---|---|
@@ -732,3 +732,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **KOHARU ↔ SENSEI:** she moves from embarrassing denial to saying Sensei thinks about her and offers a “secret” spy account. She expects teacher discretion, but no independently verified mission or explicit secrecy pact follows. Sensei later asks if she is all right after partial overhearing; she says yes.
 - **SENSEI ↔ HASUMI:** Hasumi questions their entry despite Koharu's access bar, accepts Sensei's misleading book-for-lessons explanation, then requests and receives privacy for committee business. This is a temporary social/procedural accommodation, not exoneration or verified student-care coordination.
 - **HASUMI ↔ KOHARU:** Hasumi directly restates the grade bar and speaks to Koharu alone. Fragmented overhearing contains a raised `それではダメなんです！`, but its subject/decision remain unavailable. Koharu's later `大丈夫` does not close the interaction's effects.
+
+## V003 C001 E016 relationship delta — questioned knowledge
+
+- **AZUSA ↔ HIFUMI:** Azusa recognizes Hifumi lost morning rest preparing the mock and offers washing help; Hifumi politely refuses. Recognition of labor is secure, further physical care is not enacted.
+- **HANAKO ↔ AZUSA:** Hanako recognizes Azusa's tentative fifth-rule recollection and asks whether she met Seia; Azusa says she only recalls hearing it. Hanako's `vanitas`/transfer thought remains unfinished, so neither contact nor hidden provenance is established. Their lobby watch exchange remains sparse.
+- **HIFUMI ↔ SENSEI/HANAKO:** Hifumi privately shares the discovered paper bundle with Sensei, infers deliberate failures and wonders why; Hanako is not present to answer. Hifumi's notice of Sensei's morning absence does not tell her about Mika.
+- **MIKA ↔ SENSEI:** Mika meets Sensei at the filled pool and says she wondered how they were doing. This is a check-in, not evidence of a new disclosure about Nagisa, Seia or the alleged traitor.

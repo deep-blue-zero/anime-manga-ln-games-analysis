@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:015; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:016 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:016; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:015` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:016` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -1137,3 +1137,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Koharu's aborted `いつものはちゃんと隠……`, `本当に間違い` and `ノーカン` expose tension between shame, concealment and her absolutist `エッチなのはダメ！死刑！！` rhetoric. Sensei `バレないように` is an actual printed suggestion, not an endorsed school rule. `無理に縛られなくて良い`/`コハルはコハル` is identity-affirming language which Koharu says partly communicates care, not a promise of secrecy or a verified book exception.
 - `スパイ`, `フェイク` and `エリート` are Koharu's self-presentation. Her hesitation before `ハスミ先輩` and `多分` about Tsurugi mark weak asserted authority/knowledge. Her repeated `秘密` and faith a teacher will not tell others do not establish an actual Hasumi directive. Do not merge with Hifumi's separate E012 informer assignment.
 - Scene 2 `良い感じに誤魔化す` is an explicit misleading *choice description*; Hasumi's `授業に使う書籍` is her uptake of an unprinted explanation, not inspected book contents. `本来の……`/`それではダメなんです！`/`先生…………を……` in the next-room talk are intentionally truncated; Sensei hears fragments, not a complete order. `大丈夫` is Koharu's answer, not an objective welfare certification. Scene 2 `u:0001` absent; twelve plus three singleton choices; `u:0032` title card.
+
+## V003 C001 E016 delta — proof rhetoric and tentative remembered rule
+
+- Hanako's `水着`/`下着`/paint alternatives and `証明できない真実ほど無力` are teasing/hypothetical proof talk, not a demonstrated clothing fact or authoritative epistemology. Koharu's `ダメ` and Hifumi's refusal of washing remain boundaries despite comic diction.
+- After `五つ目`, Azusa marks her knowledge as `ただの聞いた話`, `確か`, `そんな感じだった気` and `残りは知らない`: the quoted `楽園に辿り着きし者の真実を、証明することはできるのか` is an approximate remembered fifth of reportedly seven old rules. Hanako's `セイアちゃんに会ったことがあるんですか` is a question, not a revelation; Azusa says `分からない`. Hanako's `vanitas vanitatum……ということは` breaks off. Do not complete the thought from E011/E001 or later text.
+- Hifumi's `盗み見る形` admits a privacy-compromised viewing, and `わざと試験に落ちているとしか思えません` is explicitly her conclusion from reported old answer sheets, not Hanako's confession. Sensei `choice:003` likewise says `はず`. Scene 1 `u:0017`, `u:0021` and `u:0037-0042` show role-label inversions; scenes 2–4 omit `u:0001`. Four Sensei choices are singleton; scene-4 `u:0006` is a next-title card.

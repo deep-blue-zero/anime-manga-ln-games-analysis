@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:015; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:016 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:016; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 ## Current boundary
 
-Through `BA:main:003:001:015` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:016` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Entity | Current state | Material evidence / transition | Confidence | Source |
 |---|---|---|---|---|
@@ -828,6 +828,15 @@ Narrator confirms camp is decided, not carried out. No new subject/readiness pro
 - **Hifumi/four students/Seia/Mika:** absent from this conversation. E008 scores still stand, but no club member is identified as traitor or shown to know the plan. Seia's earlier treaty verdict and Mika's workload account remain distinct situated claims.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E016 character-state delta — Hanako paper report and rule-five question
+
+- **Hanako:** teases Koharu with a hypothetical swimsuit/underwear/paint distinction and proof rhetoric; reacts to Azusa's approximate fifth-rule recollection by asking whether she met Seia. Hifumi later reports Hanako's prior-year perfect answer sheets across first–third-year tests, including advanced third-year material. This strong situated report complicates simple enduring inability, but does not establish current intent or motive. Hanako also asks whether Azusa kept watch again; result unknown.
+- **Azusa:** explicitly credits Hifumi's lost morning rest to mock preparation, offers washing assistance which Hifumi declines, and recalls the fifth old rule only approximately. She does not confirm Seia contact or a source for the quotation; `vanitas`/transfer association remains Hanako's unfinished inference.
+- **Hifumi:** privately brings Sensei the broader papers finding, acknowledges “peeking,” revises her sudden-decline idea and infers Hanako is intentionally failing. This is her inference, not an observed confession. Next morning she notices Sensei missing.
+- **Sensei/Mika:** Sensei hears the report and later meets Mika at the filled pool; Mika says she came to check how Sensei is doing. No intervention, swim or treaty intelligence yet.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Scene-1 labels conflict around the old-rule transition.
 
 ## V003 C001 E015 character-state delta — Koharu's claimed mission and Hasumi's private call
 

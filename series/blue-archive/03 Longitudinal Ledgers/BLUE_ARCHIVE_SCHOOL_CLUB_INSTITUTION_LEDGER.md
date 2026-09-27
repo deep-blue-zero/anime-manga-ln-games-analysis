@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:015; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:016 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:016; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:015` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:016` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -690,3 +690,7 @@ Narration confirms late study, but no new exam or grade. Hifumi suggests Koharu 
 ## V003 C001 E015 institutional delta — access bar and misleading exception
 
 Koharu and Sensei reach Justice Realization's confiscated-items room; Koharu's `これで良し` suggests a placement, but there is no inventory audit or independent validation of seizure. Hasumi directly says Koharu should not enter until grades improve, corroborating the E005 return/access bar as an actively administered rule. Sensei's choice explicitly misleads; Hasumi takes their reason as teaching books and allows it, without investigating the disputed item or lifting Koharu's grade bar. Hasumi's private committee talk is only fragmentarily heard; it cannot corroborate Koharu's newly claimed spy task or establish a new order. Koharu names Tsurugi as committee chair, without an appearance or direct institutional record. The academic second sitting, collective sanction and Nagisa's asserted bypass remain untested.
+
+## V003 C001 E016 institutional delta — archival exam discrepancy, no disciplinary result
+
+Hifumi reports finding Hanako's prior-year answer sheets for all first–third-year tests, all perfect even on difficult advanced material. The papers themselves are not displayed or independently audited; Hifumi says she saw them while collecting model answers and calls it peeking. This greatly sharpens the academic discrepancy with current official/mocked failures but does not establish intentional failure or its institutional cause. Azusa recalls an approximate fifth of reportedly seven old Kivotos rules about proving paradise-arrival truth; no source text or binding school rule is inspected. Seia is mentioned, not present. The pool is now water-filled when Mika sees it; no swim or official second exam, expulsion, treaty act or traitor identification occurs. Mika checks on Sensei but states no public institutional business.

@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:015; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:016 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:016; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:017 unopened
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001_E015 active provisional; E016 unopened
+current_sequential_boundary: MAIN_V003_C001_E016 active provisional; E017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1704,3 +1704,13 @@ No new durable claim ID, standalone model, frozen prediction or side-source admi
 - **Other families:** no direct global test.
 
 No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Hasumi's private words, Koharu's actual mission, book provenance, official second test and protection outcome remain OPEN.
+
+## V003 C001 E016 claim delta — prior mastery and unproven present intent
+
+- **BA-C001/C016 — OPEN test:** Sensei receives Hifumi's privacy-tinged report of Hanako's papers, but no response, consent inquiry or educational intervention is shown. Mika's check-in is not a Schale mandate or treaty exchange.
+- **BA-C002–C004/C007/C010–C011/C021 — PRESERVE:** Hifumi's reported perfect prior-year first–third-year papers weaken an enduring-inability account of Hanako's current 2/4, but `わざと試験に落ちている` is still her inference. Neither the motive nor Nagisa's alleged traitor is identified. No official second exam or expulsion.
+- **BA-C008 — STRENGTHEN:** Hanako's proof/truth provocation and Azusa's approximate fifth-rule memory are not an authenticated “seven rules” text; Hanako's Seia question is not proven Azusa–Seia contact. Scene-1 label swaps, Hifumi's uninspected paper report/stronger inference, and a next-title card must remain separate.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Hanako motive, old-rule provenance, Azusa/Seia link, Mika purpose and exam outcome remain OPEN.

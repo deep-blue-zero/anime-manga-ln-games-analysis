@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:015; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:016 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:016; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:015` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:016` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -882,3 +882,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **“Elite spy” versus documented grades:** Koharu recasts remedial placement and visible weakness as `フェイク` under a `スパイ` role, against E005/E008/E013 academic evidence. The contradiction is meaningful self-presentation, not license to claim a verified assignment or deliberate exam failure.
 - **Adult care mixed with evasion:** Sensei first suggests hiding better and then affirms Koharu beyond a fixed label; in Hasumi's room Sensei explicitly misleads with a teaching-book rationale. The episode tests whether compassion and institutional accountability can coexist, but does not yet settle the ethics of this specific concealment.
 - **Opaque private authority:** Hasumi's access bar is audible; her subsequent committee talk becomes broken fragments after Sensei leaves. This evidentiary withholding must not be filled with the just-heard spy claim or with E012's Nagisa mission.
+
+## V003 C001 E016 motif / callback delta — proof, paradise and gap
+
+- **Provable truth:** Hanako turns swimsuit/underwear uncertainty into `証明できない真実`, eliciting Azusa's tentative fifth old-rule question about proving a paradise-arriver's truth. This echoes E001's paradise framing without establishing a shared text, factual cosmology or Azusa–Seia meeting.
+- **Past mastery/present scores:** Hifumi's reported perfect old papers intensify the discrepancy with Hanako's official 2 and mock 4, but a discrepancy is not a proved motive, traitor identity or exam manipulation. Her privacy admission makes evidence access itself an ethical question.
+- **Filled pool/missed play:** E011's pool filling is now visible to Mika, who asks about swimming/party; neither occurs. The site hosts a private Sensei–Mika check-in while Hifumi notices Sensei absent, a small knowledge gap rather than a revealed conspiracy.
