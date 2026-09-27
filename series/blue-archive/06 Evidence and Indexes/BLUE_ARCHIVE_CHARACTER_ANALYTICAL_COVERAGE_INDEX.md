@@ -1,18 +1,18 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_CHECKPOINTS_PLUS_C004_E001_E027
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS
 generation: V1
-version: "2.39"
+version: "2.40"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C003 through checkpoints, then BA:main:003:004:001–027 provisionally; C004 checkpoint pending; 176/310 main units; side-source classes unreviewed; BA:main:004:001:001 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C004 through checkpoints; 176/310 main units; side-source classes unreviewed; BA:main:004:001:001 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
-current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md"
+current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md"
 next_unopened_main_unit: BA:main:004:001:001
 ---
 
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:004:001:001
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V003_C004_E027` provisional boundary, with C004 checkpoint pending and canonical `MAIN_V003_C003` inherited:
+This index answers four questions at the canonical `MAIN_V003_C004` checkpoint boundary:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -62,11 +62,11 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 All rows inherit:
 
 - analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025 and V003 C004 E001-E027;
-- current checkpoint: `MAIN_V003_C003`; prior C001/C002 checkpoint basis remains lineage;
+- current checkpoint: `MAIN_V003_C004`; prior C001/C002/C003 checkpoint basis remains lineage;
 - main-story coverage: `176 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:004:001:001`, after C004 checkpoint reconciliation.
+- next unopened main unit: `BA:main:004:001:001`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -1435,3 +1435,7 @@ Routing: [V003 C004 E026 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 Misaki reports Saori leaving her to care for Hiyori/Atsuko; Misaki predicts homelessness/pursuit, while Atsuko invokes Azusa's concrete flower and hopes Saori will return. Saori seeks difficult high-paid Black Market work, but an executive claims a contract/fees/blackmail reduce wages to zero; those terms and wanted/dropout status are not independently audited. Seia says losing prophetic dreams was the price of leaving the dream, with last vision deferred; Sensei inwardly proposes starting Mika's hearing but no proceeding/ruling appears. Haruka intimidates the executive under a misread Aru “greeting,” then mentions bomb placement; Aru reacts with shock, Mutsuki laughs and Kayoko expects trouble. No detonation or recovery is shown. No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 66 `UNMODELED` across 87**, none operational/validated. No standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. C004 source sequence is complete; checkpoint pending before V004.
 
 Routing: [V003 C004 E027 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E027_DEEP_READING.md) → `BA:main:003:004:027`, one montage scene, 109 visible numbered units and no Sensei choice. Coverage is **176 / 310**.
+
+## 149. MAIN V003 C004 checkpoint readiness reconciliation
+
+The [canonical V003 C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md) reconciles all 27 readings without promoting a standalone model. The chapter adds Beatrice, Golconda, Decalcomania, Barbara and Ui as narrow tracked subjects; Golconda later becomes directly present, while his relation to Decalcomania remains unknown. Direct Atsuko waking and Mika/Seia rescue strengthen local evidence, but health, hearing, bomb/card mechanics, Seia's deal, Squad security and Arius governance stay open. Readiness remains **21 `PARTIAL_MODEL` / 66 `UNMODELED` across 87**, none operational/validated. No model, frozen prediction, new durable claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. Next unopened `BA:main:004:001:001`; no V004 source has been inspected.

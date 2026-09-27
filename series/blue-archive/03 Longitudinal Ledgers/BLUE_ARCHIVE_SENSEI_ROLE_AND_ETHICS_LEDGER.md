@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–027; C004 checkpoint pending; BA:main:004:001:001 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint through BA:main:003:004:027; BA:main:004:001:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1077,3 +1077,7 @@ Justice finds Sensei and Mika after student-led route work; Seia says they must 
 ## V003 C004 E027 delta — watched future, not guaranteed ending
 
 Sensei has no new voiced line or choice. Atsuko names Sensei as someone watching over Squad while they face an insecure road, which is her trust, not a signed protection commitment. Sensei inwardly marks the start of Mika's hearing, but no result follows; student-made relational repair cannot substitute for a formal decision. Seia's choice of present cooperation reinforces a bounded, reciprocal adult-student horizon. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 checkpoint pending before V004 C001 E001.
+
+## MAIN V003 C004 checkpoint Sensei-role reconciliation
+
+The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md) preserves Sensei's explicit refusal of Beatrice's absolute judge/savior role: the teacher stands beside students, accepts adult responsibility for conditions of child suffering, avoids abandoning a wrongdoer in danger and leaves Saori ownership of her life answer. Students make independent decisions and later rescue Sensei/Mika. The adult card is retrieved, not mechanically audited; adult care does not itself issue a hearing verdict or guarantee Squad's future. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); V004 C001 E001 unopened.

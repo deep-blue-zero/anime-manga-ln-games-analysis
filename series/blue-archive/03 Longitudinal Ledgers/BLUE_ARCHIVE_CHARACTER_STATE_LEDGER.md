@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–027; C004 checkpoint pending; BA:main:004:001:001 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint through BA:main:003:004:027; BA:main:004:001:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,10 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 checkpoint character-state reconciliation
+
+The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md) governs E001–E027: Atsuko is directly alive/awake after severe injury, Saori breaks Beatrice's bargain then leaves Squad to seek a life answer, Mika forgives Squad and is found by a student-led rescue but still faces hearing, and Seia is awake with a reported prophecy-loss price and undisclosed final vision. Beatrice's local rite is interrupted, not technically audited or globally eradicated. Existing readiness remains **21 `PARTIAL_MODEL` / 66 `UNMODELED` across 87**; C004 introduced Beatrice, Golconda, Decalcomania, Barbara and Ui as narrow subjects, no operational/validated model or frozen prediction. V004 C001 E001 unopened.
 
 ## V003 C004 E027 character-state delta — hopeful separation, precarious work
 

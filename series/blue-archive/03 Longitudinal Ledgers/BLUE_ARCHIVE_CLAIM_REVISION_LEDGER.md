@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–027; C004 checkpoint pending; BA:main:004:001:001 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint through BA:main:003:004:027; BA:main:004:001:001 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E027 active provisional; C004 checkpoint pending; V004 C001 E001 unopened
+current_sequential_boundary: MAIN_V003_C004 checkpoint canonical; V004 C001 E001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2365,3 +2365,7 @@ Ui enters as one narrow `UNMODELED` tracked subject: **21 partial / 66 unmodeled
 - **BA-C001/C016 — STRENGTHEN narrowly:** Squad expects Sensei's witness/support; Sensei inwardly marks hearing start, not outcome. Volume 1 Aru/Haruka command-misreading and Black Market exploitation recur, without a new claim ID or external-side evidence. **BA-C019/C020 — PRESERVE:** no Pavane test.
 
 No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 66 unmodeled across 87**; backfill **DEFER**. C004 checkpoint pending before V004 C001 E001.
+
+## MAIN V003 C004 checkpoint claim reconciliation
+
+The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md) reconciles E001–E027. **BA-C001/C016 — STRENGTHEN/QUALIFY:** bounded teacher care plus reciprocal student rescue, no card-power audit. **BA-C002–C004/C007/C010–C011/C021 — REVISE by domain:** local rite interrupted and Atsuko/Mika found, but hearing, health, livelihood and governance open. **BA-C008 — STRENGTHEN evidence calibration:** actor ritual/halo/mask/bomb claims remain distinct from direct waking and unprinted battle. **BA-C019/C020 — PRESERVE.** No new durable claim ID or standalone model. Readiness **21 partial / 66 unmodeled across 87**, none operational/validated; frozen prediction `NONE` (`NO_DIAGNOSTIC_OPPORTUNITY`); side-source backfill **DEFER**. V004 C001 E001 unopened.

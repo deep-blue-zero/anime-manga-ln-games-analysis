@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–027; C004 checkpoint pending; BA:main:004:001:001 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint through BA:main:003:004:027; BA:main:004:001:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1427,3 +1427,7 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Wandering future:** Saori's separate path to mercenary work contrasts with Squad's group road; predicted reunion/happy ending are not achieved in this epilogue.
 - **Prophecy surrendered for present:** Seia reports losing future dreams and defers her last vision, choosing the gathered present over foreknowledge.
 - **Black Market loop:** the executive's zero-wage extraction recalls Abydos/PS68 predatory economies, while Haruka's misread “greeting” revives the cost of outlaw-performance misunderstanding. No offscreen explosion is certified.
+
+## MAIN V003 C004 checkpoint motif reconciliation
+
+The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md) governs the chapter's linked contrasts: Beatrice's sacrificial `Agnus dei`/hate versus Mika's `Kyrie`/personal forgiveness; the “witch” self-story versus Koharu/Seia/Nagisa/Sensei's enacted care; adult omnipotence versus teacher/coalition; flower-in-concrete youth versus Black Market zero-wage precarity. These are textual relationships, not supernatural causal proof, final legal absolution or guaranteed happy ending. V004 C001 E001 unopened.
