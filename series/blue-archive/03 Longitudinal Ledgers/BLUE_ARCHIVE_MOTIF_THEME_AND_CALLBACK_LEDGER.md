@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:006; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:007 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:007; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -941,3 +941,11 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **Koharu alongside Hasumi:** the E005 promise of future committee return gains a temporary field collaboration sooner than Hasumi expected. It is an affective callback, not a grade-bar resolution.
 - **Fish versus appetite:** E005's prized meal becomes an E006 “tempura” lament, and the group splits rather than stay together to eat. Fuuka's gagged status does not disappear merely because she is offscreen.
 - **Fearful pursuit:** Tsurugi's first voiced chase cue and Junko's terror develop the E005 deployment warning without proving capture or harm.
+
+## V003 C002 E007 motif / callback delta — perspective and neutral labels
+
+- **Three caught, one lost:** E006's interrupted flight becomes three Gourmet detainees plus gagged-then-speaking Fuuka at transfer, while Izumi wanders near the border. Hasumi's “resolved” and Sena's list are partial administrative closure, not complete group accounting.
+- **Neutrality as staging:** Hasumi uses Schale to hand over Gehenna students; Hina uses Emergency Medicine as official arriving face while accompanying it. Each tries to prevent a two-school confrontation from becoming politically legible, yet Justice/Prefect participation remains in the underlying event.
+- **Treaty as distributed power:** Hina's equal Makoto/other-leader ETO control answers Mika's Leviathan fear with an institutional veto story. Both are actor models; the text has not supplied a charter, and Hina admits hypothetical collective collusion.
+- **Adult trust and burden:** Sensei's trust disarms Hina while she calls it a flaw; her exit question elicits a specific promise to protect the four. The promise raises, rather than settles, the still-hidden expulsion mechanism.
+- **Ordinary worth after conflict:** Koharu's joy at useful action with Hasumi and Azusa's “fun” echo E004's club-life value, while Hifumi/Hanako turn back toward sleep and exam work.

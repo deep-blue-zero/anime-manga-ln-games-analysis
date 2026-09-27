@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:006; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:007 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:007; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -795,3 +795,11 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **HASUMI/ICHIKA ↔ TSURUGI:** Ichika says Tsurugi cannot be held once activated; Hasumi asks to stop her and later pursues. Tsurugi's direct vocal encounter with Junko supplies a narrow field cue, not full psychophysical characterization.
 - **GOURMET RESEARCH:** Junko proposes separate flight, Haruna/Akari take it up and Izumi fears being abandoned. Akari appears staggering when Junko encounters her, then Junko meets Tsurugi. No durable betrayal/friendship break or final fate is shown.
 - **FUUKA ↔ GROUP:** no E006 appearance; E005 gagged non-consent and safety question stay open.
+
+## V003 C002 E007 relationship delta — a bridge between institutions
+
+- **SENSEI ↔ HASUMI/HINA:** Hasumi entrusts Sensei with handoff to reduce Trinity–Gehenna friction; Hina recognizes the same political tactic from Gehenna's side. Sensei agrees, then speaks confidentially with Hina; exact briefing and durable cross-school agreement are unprinted.
+- **SENSEI ↔ HINA:** Hina questions neutrality, retracts the accusation, receives a sensitive briefing and Hina's peace-treaty argument, then asks if Sensei will protect the club. Sensei explicitly says yes. Trust is reciprocal enough for disclosure but Hina calls the teacher's easy trust a bad trait; no motive for that aside is stated.
+- **KOHARU ↔ HASUMI/GROUP:** Hasumi thanks the group and Koharu savors first combat beside her, feeling useful. This deepens belonging despite her formal grade bar. Hanako gently returns her to academic effort; no reinstatement or official pass.
+- **GOURMET RESEARCH ↔ GEHENNA AUTHORITY:** Haruna/Junko/Akari expect/undergo transfer; Hina postpones Haruna's explanation, Akari asks Sena for an arm exam, and Fuuka is relieved. Izumi absent, no full reconciliation or medical outcome.
+- **SENA ↔ HINA:** Hina identifies Sena's Emergency Medicine role as less politically exposed, Sena calls Hina Prefect chair and focuses on loading/injury language. One professional encounter, no private breadth; Sena new `UNMODELED`.

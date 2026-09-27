@@ -109,7 +109,7 @@ canonical_order,story_id,scope,arc_jp,title_jp,scene_count,source_commit,analysi
 108,BA:main:003:002:004,MAIN_V003_C002_E004,エデン条約編,第4話;水着パーティー,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E004_DEEP_READING.md
 109,BA:main:003:002:005,MAIN_V003_C002_E005,エデン条約編,第5話;真夜中の大騒ぎ（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E005_DEEP_READING.md
 110,BA:main:003:002:006,MAIN_V003_C002_E006,エデン条約編,第6話;真夜中の大騒ぎ（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E006_DEEP_READING.md
-111,BA:main:003:002:007,MAIN_V003_C002_E007,エデン条約編,第7話;新しい視点,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
+111,BA:main:003:002:007,MAIN_V003_C002_E007,エデン条約編,第7話;新しい視点,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E007_DEEP_READING.md
 112,BA:main:003:002:008,MAIN_V003_C002_E008,エデン条約編,第8話;差し込む希望,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 113,BA:main:003:002:009,MAIN_V003_C002_E009,エデン条約編,第9話;黒い手,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 114,BA:main:003:002:010,MAIN_V003_C002_E010,エデン条約編,第10話;第2次特別学力試験（１）,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,

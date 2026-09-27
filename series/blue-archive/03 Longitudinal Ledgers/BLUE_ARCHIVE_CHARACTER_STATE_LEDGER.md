@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:006; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:007 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:007; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -972,3 +972,14 @@ Eight new subjects total: **21 `PARTIAL_MODEL` / 44 `UNMODELED` across 65**, non
 - **Sensei:** offers a rain-as-sleep possibility, calls Azusa kind and agrees to the walk; no trap inspection, betrayal finding or official teaching outcome.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 36 `UNMODELED` across 57**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E007 character-state delta — Hina's treaty countermodel
+
+- **Hina:** arrives with Emergency Medicine while treating her Prefect presence as mere accompaniment for political optics. Challenges whether Schale's Trinity teaching is neutral, retracts the implied accusation, hears an unprinted Sensei briefing and argues ETO authority will be distributed across Nagisa, Makoto and other school leaders. Says she promoted the treaty on Gehenna's side hoping for order and possible retirement; asks Sensei to protect the club. These are situated actor explanations, not charter/vote records or a committed resignation. Existing narrow `PARTIAL_MODEL` unchanged.
+- **Sensei:** accepts Hasumi's intermediary transfer, trusts Hina enough to discuss the current affair, and answers yes to her specific club-protection question. Exact briefing and practical protection are unshown.
+- **Hasumi:** considers the immediate incident contained but knows politically sensitive disposition remains; assigns the three detainees and Fuuka to Gehenna through Sensei/Schale. Izumi's absence limits the “contained” claim.
+- **Sena:** new Gehenna Emergency Medicine head, quotes a three-injured/one-hostage delivery list, uses corpse/injury mix-ups and confirms loading. No corpse, treatment result or private baseline. New `UNMODELED`.
+- **Haruna/Junko/Akari/Fuuka/Izumi:** first three describe being caught and appear at transfer; Akari reports an abnormal arm angle, Junko nausea, and Fuuka can speak and feels rescued. Izumi is explicitly lost near the border; no capture. Haruna promises possible future hospitality, not an enacted relationship.
+- **Koharu/Azusa/Hanako/Hifumi:** Koharu delights in first Hasumi co-fight and feeling useful, Azusa says the day was fun, Hanako reiterates effort, Hifumi calls for sleep/study. No official exam or secret-disclosure update.
+
+Readiness **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Juri mentioned only, not added.

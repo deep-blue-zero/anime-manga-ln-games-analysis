@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:006; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:007 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:007; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -722,3 +722,7 @@ Koharu locates Hasumi's earlier Gehenna anger after an Eden Treaty-related meeti
 ## V003 C002 E006 institutional delta — Schale-facing security response
 
 Ichika's phone call says Tsurugi has already rushed out and other Justice Realization members are following. Hasumi proposes that the remedial club and Schale resolve the aquarium/Gourmet incident to avoid a public Trinity–Gehenna institutional clash just before the treaty; Sensei agrees and specifies safety first. The committee nonetheless deploys and Hasumi later orders pursuit, so the proposed optics do not certify actual separation or neutrality. Azusa says this is her first proper combat under Sensei; Koharu joins Hasumi despite her grade-based access bar, without formal reinstatement. Hasumi asserts Trinity territorial enforcement, not an inspected rule. In the pursuit, Gourmet members split; tuna condition, accused gunfire, Fuuka safety, captures and any treaty consequence remain unverified. No official second exam, club graduation, group expulsion, treaty signature or traitor determination occurs.
+
+## V003 C002 E007 institutional delta — mediated custody and contested ETO governance
+
+Haruna/Junko/Akari speak as caught while Fuuka is with them; Izumi remains lost near the Trinity border. Hasumi says the incident is contained and would normally be disposed by Justice Realization but proposes Gehenna Prefect jurisdiction for political timing. She asks Sensei/Schale to make the actual handoff, a mediator presentation rather than documented neutral authority. At the bridge Sena cites a three-injured/one-hostage delivery list, introduces Gehenna Emergency Medicine leadership, and confirms loading; Hina says its arrival—not the Prefect Team's—is the public story, with her mere accompaniment. No death, medical diagnosis, custody file, signed agreement or eventual sanction appears. Hina says ETO authority would be split between Nagisa, Makoto and other Tea Party/Pandemonium members, not Nagisa alone, and that she promoted Gehenna's treaty for possible order/retirement. These are actor institutional claims, not reviewed charter/vote rules or implemented ETO. Hina worries about Schale neutrality and asks Sensei to protect the remedial club, receiving yes; the grade/expulsion procedure and official second exam remain untouched. Sena is new direct `UNMODELED`; Juri is mention only.

@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:006; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:007 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:007; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:008 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E006 active provisional; E007 unopened
+current_sequential_boundary: MAIN_V003_C002_E007 active provisional; E008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1778,3 +1778,12 @@ Eight named `UNMODELED` subjects enter; no new durable claim ID, standalone mode
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; raid resolution and official exam remain OPEN.
+
+## V003 C002 E007 claim delta — distributed ETO control and explicit protection promise
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei actually performs Schale intermediary transfer work and explicitly answers yes when Hina asks if they will protect the remedial club. This is a narrower, stronger promise than E017's general student-side claim, but there is no academic/legal safeguard, official result or audited handoff authority. Trusting Hina with a sensitive, unprinted briefing has unresolved discretion costs.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE locally:** Hina says ETO power is divided among Nagisa, equal Makoto authority and other Tea Party/Pandemonium members; one-person capture is unlikely, although she concedes collective collusion conceivable. She calls it a peace treaty and says she promoted it for Gehenna order/possible retirement. This contests Mika's E001 armed-Leviathan forecast and adds Gehenna-side motive, but without charter, Makoto response, vote rules or tested ETO conduct. Schale/Emergency Medicine labels are actor-designed political optics, not proof of neutrality.
+- **BA-C008 — STRENGTHEN:** Haruna/Junko/Akari self-report capture, Izumi direct lost scene, Sena delivery list, narrator-supported loading, Fuuka free speech, Hina's actor constitutional model, unprinted Sensei briefing and duplicate choice convergence cannot be collapsed into a single official record. Three caught plus one hostage is narrower than “all Gourmet members.”
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+Sena enters `UNMODELED`; no new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; treaty charter, actual club protection, Gehenna custody and official exam remain OPEN.

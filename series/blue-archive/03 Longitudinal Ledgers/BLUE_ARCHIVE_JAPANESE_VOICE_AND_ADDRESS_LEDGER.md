@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:006; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:007 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:007; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1191,3 +1191,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Hasumi's `傍から見て` explicitly marks audience perception as the treaty problem. `補習授業部と「シャーレ」が一緒に解決` is her preferred representation, not proof Justice Realization abstains. `ここはトリニティ自治区` is a jurisdictional assertion/prediction, not verified code. Koharu `肩を並べる` exchange marks field solidarity, not formal return.
 - Sensei's two choices are singleton: immediate `出発`, then `安全第一`. Azusa's `存分に使って` offers combat availability; it does not waive the teacher's safety obligation.
 - Haruna's `天ぷらになってしまいました` is comic food framing after Izumi's tuna cry; no depicted cooking/blast causation. Scene 2 `u:0019` Junko-labelled cackle and `u:0020` Tsurugi-labelled `鬼` conflict with turn roles; `u:0021` Tsurugi cry is secure enough for a first direct vocal cue. No line should be silently reassigned as a precise person-voice exemplar. `u:0023` is a title card.
+
+## V003 C002 E007 delta — medical diction and institutional counter-reading
+
+- Scene 1 Haruna/Junko/Akari speak as caught, but `scene:001:u:0018` is Junko-labelled with Akari-like `★` register. `scene:002:u:0003` places Izumi lost near the border. Hasumi's `無事に収拾` is her operational assessment, not four-person capture. `託そうかと` and `お願い` mark planned transfer, then scene 3 `積載完了` supports loading, not clinical outcome.
+- Sena's `死体`→`負傷者` correction and `新鮮な負傷者3名と人質1人` are her macabre wording/delivery-list claim; Hina says neither has seen an actual corpse. Do not create deaths or a verified diagnosis. `救急医学部` arrives publicly rather than `風紀委員会` by Hina's account, with Hina `付き添い`; official public record uninspected.
+- Hina's `中立的な組織だったはず` is a neutrality concern, not a legal finding. Sensei's detailed explanation at `scene:003:u:0040` is narrator-summarized, not printed speech. Choice `010` alternatives both deny an unidentified odd scene; choice `011` alternatives converge on duplicate Hina `u:0048-0049`. Do not infer two independent confirmations or reconstruct the odd scene.
+- Hina's `少なくとも私はそうは思わない` and `私はそう考えてる` explicitly mark her peace-treaty reading as position. `ナギサが単身で統制`, `同様の権限` and `分割` form her structural claim; `理論的にはあり得る` leaves collusive abuse open. `多分、何も考えてない` about Makoto is a guess. `引退するのもアリかな` is possibility, not resignation.
+- Hina's `補習授業部のことは、先生が守るのよね` receives Sensei's singleton `うん`, a direct specific protection promise. `scene:003:u:0084` is a title card. Scene 3 has nineteen choice groups, two with alternatives; scene 2 has three singletons.

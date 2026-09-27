@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:006; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:007 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:007; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -812,3 +812,7 @@ Sensei accompanies the four to a late-night dessert shop after E004 assent. Hasu
 ## V003 C002 E006 delta — safety-first command, outcome withheld
 
 Sensei accepts Hasumi's request that Schale and the remedial group intervene in a Gehenna Gourmet raid to moderate treaty optics. The choice orders `補習授業部一同出発`; Hifumi expresses alarm at sudden fighting, Hanako defers to Sensei and Azusa offers to be used under their first proper command. Sensei's second singleton choice says `安全第一`, a relevant adult restraint but not an observed tactic, consent process, injury prevention or aftermath. Koharu's enthusiastic work beside Hasumi is not an official grade-bar exception authorized by Sensei. The committee's own deployment blurs Hasumi's desired public framing. No official exam teaching effect or E017 protection promise implementation is shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E007 delta — neutral-looking handoff and specific protection promise
+
+Sensei accepts Hasumi's request to convey three captured Gourmet students and Fuuka to Gehenna through Schale, reducing the appearance of a Justice–Prefect conflict. Hina confirms Gehenna similarly presents Emergency Medicine as the arriving body. This is a concrete intermediary action, but the political labels do not alone certify neutrality or a valid custody process. Sensei briefs Hina on present circumstances and prospects; the narrator summarizes rather than printing the contents. Hina's responses show she heard “Trinity traitor” and an armed-alliance framing, but not that every Mika/Nagisa/Seia detail was given. Sensei directly says they trust Hina, who calls such trust a flaw without explanation. Hina's departing question `補習授業部のことは、先生が守るのよね` gets Sensei's `うん`. This explicitly renews the protection commitment after E017 and E006 safety-first, with no shown method for averting collective expulsion or resolving competing students' interests. Two branch-looking choices in scene 3 converge, and the rest are singleton; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
