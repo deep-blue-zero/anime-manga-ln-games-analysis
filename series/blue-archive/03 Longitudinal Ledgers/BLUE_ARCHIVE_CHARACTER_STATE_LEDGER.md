@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:015; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:016 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:016; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1059,5 +1059,14 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across
 - **Nagisa:** is startled by Hanako and admits she may have wronged Hifumi yet does not regret action for a greater cause. After Azusa's reported volley she is absent when Arius reaches the safehouse; medical status/location unverified. `UNMODELED`.
 - **Arius generic students/commander:** teams IV/V/VI/VIII report readiness; a commander launches, seeks the missing target and continues despite Azusa's warning. No new individual named subject; team IV's reported ambush gives no clinical outcome.
 - **Sensei/Hifumi/Koharu/Hasumi:** no present dialogue. Hifumi is used in Hanako's false message and grievance, not shown commanding the operation. Justice notification is Azusa's claim, not a visible Hasumi response.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E016 character-state delta — camp defense
+
+- **Azusa:** is reported to enter the camp with the target, says she hid Nagisa, anticipates the enemy's barricade-breach choice and sees Claymore/IED traps activate. E015's claimed preparation now has direct effects, though casualties, Nagisa's care and final outcome remain unknown. `UNMODELED`.
+- **Hanako:** observes the attacker's numbers reduced; no precise count or kill claim. She is with the four-student gym stand, but late repeated Hifumi labels preclude confident attribution of the playful or tactical lines. `UNMODELED`.
+- **Hifumi/Koharu:** directly react as the Arius commander corners four students in the gym. Hifumi has secure startled `u:0036` but `u:0037-0041` repeat her label across incompatible registers; no stable new Hifumi combat method. Hifumi `PARTIAL_MODEL`, Koharu `UNMODELED`.
+- **Sensei:** physically with the group, gives one singleton “waiting” response; the final “let's go” is inward, not audible command. `PARTIAL_MODEL`.
+- **Nagisa/Arius commander:** Nagisa does not speak and her medical state remains unshown. The commander reports incoming units/Squad contact, orders a noisy breach, persists through traps and confronts the four; generic role actor, no new tracked subject.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

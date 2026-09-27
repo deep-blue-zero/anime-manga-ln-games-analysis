@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:015; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:016 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:016; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -755,3 +755,6 @@ Hanako says she met Sisterhood members, who told her Tea Party requested Justice
 ## V003 C002 E015 institutional delta — attack begins, Justice remains offstage
 
 Arius role-tagged students report teams IV/V/VI/VIII prepared and target located, then initiate the operation. This proves a coordinated hostile action has started, not total force strength or full chain of command. Hanako locates Nagisa in a safehouse and claims knowledge of 87 such sites/rotation plus having handled guards; the inventory, intelligence source and guard fate are unverified. Nagisa acknowledges possible wrong to Hifumi but defends her decisions as for a greater cause, without itemizing notice/perimeter authorship. Azusa says she fired a full close-range 5.56 mm magazine, temporarily incapacitating Nagisa by her estimate; Arius later finds no target in the safehouse. No medical or custody confirmation appears. Hanako's supposed “real traitor”/leak is expressly unproven, and the Arius side also relies on unidentified “information” that Justice will not move. Azusa claims a Justice report has arrived, but the beep does not show recipient/response and the enemy calls the warning a bluff. Team IV reports an ambush, and Azusa claims longstanding traps/trenches and guerrilla delay; injury and operational result remain unknown. No direct Justice deployment, third special exam, pass or expulsion is shown.
+## V003 C002 E016 institutional delta — camp militarized, treaty exam still untested
+
+Arius student A reports Azusa brought Nagisa to the remedial camp; an Arius commander confronts an apparently fortified building with two entrances, one barricaded. He orders an explosive breach despite noise, saying Squad has contacted him about incoming reinforcements and broader Trinity conflict may need anticipation. This is an actor's force report and contingency, not actual reinforcement arrival or formal declaration. The breach meets Azusa-anticipated Claymore and IED traps; Hanako says the enemy force has fallen substantially. No casualty number, medical outcome or completed defense is shown. Azusa says Nagisa is hidden, without present care/custody verification. The commander later says Squad is busy elsewhere, then pursues the four students to a gym ambush with Sensei present. The late repeated Hifumi tags prevent exact student-role attribution. No Justice Realization deployment/response, treaty document status, third official exam, pass, exclusion or Nagisa recovery is displayed.

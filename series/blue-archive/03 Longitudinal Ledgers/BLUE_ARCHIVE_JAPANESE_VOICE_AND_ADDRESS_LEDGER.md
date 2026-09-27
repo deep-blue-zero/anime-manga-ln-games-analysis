@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:015; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:016 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:016; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1255,3 +1255,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Azusa's `目標を確保` and one-hour `はず` accompany her statement that a full 5.56 mm magazine hit at close range. The duration is an estimate, not a doctor/narrator finding. `正義実現委員会に報告は届いてる` is a warning claim; `（ピッ）` does not identify a recipient.
 - Hanako marks `私の推測通りなら`, `証拠は無い` and `個人的にはほぼ確信` about the “real traitor.” Arius-side `あの情報`/`情報が正しければ` similarly indicate claimed information, not proven leak provenance. The generic student A/commander turn sequence around `u:0075-0077` does not license a stable single speaker for the bluff judgment.
 - Azusa's italicized radio-style lines at `u:0068-0072` still give her clear opposition to Arius and urgency about the exam; they do not prove injury counts or official Justice action. No Sensei choice; `u:0079` is a forward title only.
+## V003 C002 E016 delta — hostile force claims and repeated Hifumi tags
+
+- Arius student A's `ターゲットを連れたまま` is a direct report of seeing Azusa enter camp with the target, not a direct medical observation. The commander `スクワッドからも連絡` and `すぐに増援部隊` are reports/forecasts; `全面抗争も想定` is strategic contingency, not declared war. Later he says Squad has `他にやること`, without naming that task.
+- `クレイモア` and `IED（即席爆発装置）` are explicit device labels during attacks; cries and Hanako's `だいぶ減りました` do not specify fatalities. The commander `これ以上トラップが無い` is an adversary assertion, not narrator inventory.
+- `u:0037-0041` repeatedly tags `ヒフミ` despite menacing, playful-heart, polite-introductory and militarized voices. Preserve the group-level ambush and quarantine exact speaker assignment; do not create a Hifumi “extermination” stable trait. The commander's “four” refers to the student group, with Sensei subsequently present.
+- Sensei `choice:001` is singleton `待ってたよ`; `scene:001:u:0042` is `心の声` and not a direct field order. Scene 2 `u:0001` is only the E017 title card.

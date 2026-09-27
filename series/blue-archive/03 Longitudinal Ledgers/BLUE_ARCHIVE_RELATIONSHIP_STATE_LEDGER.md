@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:015; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:016 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:016; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -858,3 +858,9 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **AZUSA ↔ ARIUS:** Arius commander expects its “spy,” then team IV reports her betrayal and ambush. Azusa says she took their target and needs to reach the exam. This is observed active defection from Arius's immediate mission, not proof she defeated the force.
 - **HANAKO ↔ AZUSA:** Hanako assigns diversion; Azusa reports old traps/trenches and accepts a later regrouping point. Their co-plan is underway but the future rendezvous and “real traitor” hypothesis remain untested.
 - **HIFUMI ↔ NAGISA:** Hifumi is absent. Nagisa's conditional remorse is spoken to Hanako; Hanako's false message cannot be imputed to Hifumi or treated as a relationship-ending statement.
+## V003 C002 E016 relationship delta — shared stand, hidden target
+
+- **AZUSA/HANAKO/HIFUMI/KOHARU ↔ ARIUS:** Azusa leads the enemy into a prepared camp defense; Hanako recognizes attrition, and the commander faces a four-student gym stand. The late dialogue tags are corrupted, so exact individualized battle declarations and durable hierarchy remain open. No defeat or reconciliation is printed.
+- **AZUSA ↔ NAGISA:** Arius says Azusa carried the target into camp; Azusa says Nagisa is hidden. Location is narrowed, but care, consciousness and consent remain unknown after E015's gunfire.
+- **REMEDIAL CLUB ↔ SENSEI:** Sensei is present and answers “waiting,” with final encouragement inward. This supports shared exposure/solidarity, not sole adult command or demonstrated rescue.
+- **ARIUS COMMANDER ↔ “SQUAD”:** he reports contact and says Squad has a separate task; neither specific members nor their action are shown. The line cannot be used to import later relations or motives.

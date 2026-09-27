@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:015; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:016 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:016; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:017 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E015 active provisional; E016 unopened
+current_sequential_boundary: MAIN_V003_C002_E016 active provisional; E017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1856,3 +1856,11 @@ No new durable claim ID, subject, standalone model, frozen prediction or side-so
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Nagisa's condition, Arius outcome, Justice response, suspected traitor and exam remain OPEN.
+## V003 C002 E016 claim delta — traps verified, outcome withheld
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei stands with the four and gives a singleton `待ってたよ`, but the final mobilization is inward and the episode ends before combat outcome. Physical presence is not a verified tactical order, healing act or pass safeguard.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** an Arius student reports Azusa brought the target to the camp, Azusa says she hid her, and the barricade breach triggers Claymore/IED defenses. Hanako says enemy numbers fell, without a count or clinical finding. The commander reports reinforcements about to enter and Squad busy elsewhere; no arrival, Squad task or formal wider war is shown. The reported site perimeter and final exam remain separate and unresolved.
+- **BA-C008 — STRENGTHEN:** late `ヒフミ` tags collapse unlike registers/roles, so no new stable Hifumi combat persona or speaker-specific plan can be inferred. Arius commander force/inventory claims, student transport report and visualized trap reactions have different evidentiary weights.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Nagisa care, Arius losses, gym outcome, Justice response and exam remain OPEN.

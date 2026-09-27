@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:015; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:016 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:016; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1005,3 +1005,10 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **Information as battlefield:** Hanako hopes to feed an unnamed “real traitor” false information, while Arius cites unnamed information that Justice will not move. These mirrored opaque channels create tension without identifying a culprit or proving either channel works.
 - **Preparation recontextualized:** E003/E004 night absences and traps now have Azusa's claimed trenches/guerrilla-delay purpose. The Marie false positive persists as a cost of defensive secrecy, not an erased mistake.
 - **Exam time as constraint:** Azusa says she needs to finish fighting to take the exam, preserving the E014 double objective. No exam access, marks or fulfilled reunion appear.
+## V003 C002 E016 motif / callback delta — sanctuary becomes a trap field
+
+- **Camp reverses function:** the E010–E014 study/rest refuge is now where Azusa reportedly brings and hides Nagisa and where Arius meets barricades, Claymore and IEDs. Schooling and irregular defense occupy the same space; neither purpose cancels the other.
+- **Preparation pays, cost unknown:** Azusa's E015 claimed trenches/traps now produce visible attacker disruption. Hanako says numbers are much lower, but the transcript withholds deaths, injuries and final military outcome.
+- **Four against an encirclement claim:** the commander emphasizes numbers and no exit; the club's ambush and Sensei's presence answer that coercive frame. “Squad” is invoked as a separate not-yet-arrived threat, not visible combat.
+- **Voice distortion at a climax:** the sequence's repeated Hifumi labels combine mutually inconsistent registers just before Sensei's inward cue. Group resolve can be read, but a role-specific leadership/capability callback cannot be assigned safely.
+- **Interrupted before the exam:** the same-day fight intensifies E014's two-goal pressure while the official academic threshold is still untested.

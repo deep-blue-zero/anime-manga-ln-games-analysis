@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:015; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:016 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:016; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -845,3 +845,6 @@ Sensei receives Hifumi/Hanako/Koharu in their room and hears Azusa's confession.
 ## V003 C002 E015 delta — no adult in the visible operation
 
 Sensei has no dialogue, choice or direct presence in E015. Hanako's E014 “Schale master key” rhetoric and the E009 pass/protection promise cannot be scored as a current adult command. The student counterplan begins through Hanako's deception of Nagisa and Azusa's reported close-range 5.56 mm volley, creating a grave proportionality/safety question for any later adult evaluation. Hanako's Hifumi “friendship game” line is her own spiteful plant, not Hifumi's or Sensei's instruction. Azusa's Justice-alert claim is not a verified lawful backup, and no medical aid, exam safeguard or reconciliation is shown. Preserve both student agency and unsettled ethical cost; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+## V003 C002 E016 delta — present at the defensive stand, no proven command outcome
+
+Sensei appears at the camp gym confrontation, giving a singleton `待ってたよ` after the four students are cornered. The following `じゃあ補習授業部、行こう` is explicitly inward. The preceding apparent `殲滅戦` request sits in a run of corrupted repeated Hifumi labels, so one cannot assign it securely or infer that Sensei audibly ordered lethal force. Presence with exposed students matters to the E009 promise, but no completed combat, casualty assessment, Nagisa medical care, exam access or adult safeguard follows. The chapter still needs a proportionality account of the explosive trap defense and Nagisa's E015 shooting; E016 supplies no verdict. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
