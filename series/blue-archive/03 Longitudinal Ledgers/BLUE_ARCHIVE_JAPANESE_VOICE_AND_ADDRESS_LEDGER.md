@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–025; C003 checkpoint pending; BA:main:003:004:001 unopened
+checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
+source_boundary: Canonical MAIN_V003_C003 checkpoint through BA:main:003:003:025; BA:main:003:004:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1483,3 +1483,7 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `正義実現委員会部員` repeats at `u:0034-0036` across a likely changing exchange; `ミカ` repeats at `u:0049-0052` including self-address. Keep Seia's own `u:0037/0040-0047` proposal distinct from the corrupt banter and avoid precise attribution to Nagisa/Mika there.
 - Sensei `心の声` at `u:0053-0054/0059/0067` marks hearsay, comic recognition and collapse; Koharu's `今回は退学もありません` remains her assurance. Atsuko `u:0074-0083` is italic wish/address, not a confirmed delivered message.
 - `？？？` `ロイヤルブラッド`/`ヘイローを破壊` is an unidentified actor's explicit future order, not completed violence or a securely named antagonist.
+
+## V003 C003 checkpoint voice / address reconciliation
+
+The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) preserves the chapter's contrasts: `心の声`/singleton choice versus audible teacher speech; Azusa-perspectival `ナレーション` versus direct farewell; Seia dream/forecast versus E025 present talk; Atsuko's italic/direct ambiguity versus her secure flight proposal; Mika's relayed letter versus physical meeting; and repeated Hiyori/Justice-member/Mika tags versus secure line ownership. `証明でも何でもない` forbids turning Seia's belief metaphor into formal proof. The anonymous halo-destruction order has no named speaker. C004 E001 unopened.

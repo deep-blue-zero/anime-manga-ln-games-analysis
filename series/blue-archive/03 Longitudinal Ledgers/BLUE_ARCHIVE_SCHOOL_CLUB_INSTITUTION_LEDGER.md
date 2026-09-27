@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–025; C003 checkpoint pending; BA:main:003:004:001 unopened
+checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
+source_boundary: Canonical MAIN_V003_C003 checkpoint through BA:main:003:003:025; BA:main:003:004:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -875,3 +875,7 @@ Atsuko proposes leaving both the immediate site and Arius rather than returning 
 ## V003 C003 E025 institutional delta — survivals, club recurrence, continuing pursuit
 
 Nagisa says her halo survived and receives a letter from imprisoned Mika, without a printed Tea Party hearing, treaty document or complete recovery certificate. Mine returns to Rescue Knights; Seia appears in a social exchange with Nagisa/Mika and urges future discussion, not immediate constitutional repair. Sensei inwardly says the four former remedial students had all graduated, but the same four recur; Hifumi/Azusa/Koharu supply different exam-related reasons and Koharu says no expulsion this time. Their report does not independently establish a new school order or erase the earlier narrator-certified pass. An anonymous actor orders escaped “royal blood” captured and other Squad members' halos potentially destroyed, keeping Arius status/safety unresolved.
+
+## V003 C003 checkpoint institutional reconciliation
+
+The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) distinguishes local cross-school coalition from a formally audited treaty/ETO transfer. Arius claims signature and a Squad clause, while Seia/Hiyori/Misaki supply mechanism hypotheses/reports; no instrument is inspected. Sisterhood, Rescue Knights, Justice, Prefect Team and Abydos have direct bounded actions, but no institution monopolizes the response. The narrator-certified C002 exam pass coexists with E025's same-four remedial recurrence and Koharu's no-expulsion assurance; school/Justice paperwork is unseen. Mine returns, Mika remains under reported confinement, and the escaped Squad faces a fresh anonymous order. C004 E001 unopened.

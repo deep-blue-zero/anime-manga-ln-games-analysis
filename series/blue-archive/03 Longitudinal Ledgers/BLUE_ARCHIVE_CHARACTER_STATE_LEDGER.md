@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–025; C003 checkpoint pending; BA:main:003:004:001 unopened
+checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
+source_boundary: Canonical MAIN_V003_C003 checkpoint through BA:main:003:003:025; BA:main:003:004:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,10 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 checkpoint character-state reconciliation
+
+The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) governs E001–E025: Azusa's prospective lethal self-definition is not accomplished killing; Hifumi and the four friends materially contest isolation, while Atsuko directly argues the Squad's hatred was learned and proposes flight. Sensei is shot, medically attended, physically wakes and later draws an adult card, none of which certifies complete health or sole rescue. Hina, Nagisa, Mine and Seia reappear with different degrees of direct evidence; no universal medical clearance follows. Mika refuses opportunistic war and Seia invites future Tea Party talk, not amnesty or completed repair. Mine is newly directly present, adding one narrow `UNMODELED` subject. Readiness: **21 `PARTIAL_MODEL` / 61 `UNMODELED` across 82**, none operational/validated; C004 E001 unopened.
 
 ## V003 C003 E025 character-state delta — bounded returns and unresolved threat
 

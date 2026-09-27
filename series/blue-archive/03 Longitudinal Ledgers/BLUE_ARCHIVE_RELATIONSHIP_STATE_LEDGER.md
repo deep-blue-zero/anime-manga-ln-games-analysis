@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–025; C003 checkpoint pending; BA:main:003:004:001 unopened
+checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
+source_boundary: Canonical MAIN_V003_C003 checkpoint through BA:main:003:003:025; BA:main:003:004:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1083,3 +1083,7 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **MINE ↔ SERINA/RESCUE KNIGHTS:** Mine returns, apologizes for disappearance and receives an emotional welcome. The encounter is direct, with later duty/medical details open.
 - **HIFUMI/AZUSA/KOHARU/HANAKO ↔ SENSEI:** the same four explain their renewed remedial status and react to Sensei's inwardly described collapse. Their prior pass and friendship persist, but exact administrative facts rest on their reports.
 - **ATSUKO ↔ AZUSA/SQUAD:** Atsuko inwardly wishes Azusa happiness and may never see her again. The anonymous order targets escaped “royal blood” and permits harm to others; no delivered farewell, actual capture or stable Squad refuge.
+
+## V003 C003 checkpoint relationship reconciliation
+
+The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) retains both Azusa's threatened lethal separation and Hifumi/peer intervention; the former does not erase the latter. Atsuko offers Saori a shared exit from taught hatred, but no clear assent or secure refuge follows. Hina accepts practical help from Justice/Abydos without proof of lasting friendship or treaty. Seia directly invites Nagisa/Mika to talk after prison/attack history, not completed forgiveness or legal relief. Sensei accompanies Azusa after her own decision, not as sole author of her future. C004 E001 unopened.

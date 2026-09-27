@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–025; C003 checkpoint pending; BA:main:003:004:001 unopened
+checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
+source_boundary: Canonical MAIN_V003_C003 checkpoint through BA:main:003:003:025; BA:main:003:004:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1241,3 +1241,7 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Graduation and recurrence:** Sensei's expectation of a new remedial cohort collapses comically when the same four return for different reasons. The E019 pass remains real; belonging/learning are not a one-time solved state.
 - **Flower in concrete:** Atsuko recalls Azusa's earlier flower and projects hope for learning even amid futility; wishful address is not guaranteed safety or renewed contact.
 - **Threat after epilogue:** the unidentified royal-blood capture/halo-destruction order denies complete safety to the Squad even after failed pursuit by the protagonists.
+
+## V003 C003 checkpoint motif reconciliation
+
+The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) reads `vanitas`/futility against concrete continued effort, the four's certified pass and recurring study, the flower in concrete, and Hifumi/Atsuko's different refusals of a fixed killer identity. “Paradise” shifts from a coercive proof test to Seia's qualified invitation to act and speak under uncertainty; it is not empirically certified. ETO/Justina copying and the card remain incomplete mechanisms. The last anonymous order prevents motif-level hope from being mistaken for durable safety. C004 E001 unopened.

@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–025; C003 checkpoint pending; BA:main:003:004:001 unopened
-checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E025 active provisional; C003 checkpoint pending; C004 E001 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint through BA:main:003:003:025; BA:main:003:004:001 unopened
+checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
+current_sequential_boundary: MAIN_V003_C003 checkpoint canonical; C004 E001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2126,3 +2126,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, model, frozen prediction or side-source admission. Mine becomes one narrow tracked `UNMODELED` subject; readiness **21 partial / 61 unmodeled across 82**; backfill **DEFER**. C003 chapter checkpoint required before C004 E001.
+
+## V003 C003 checkpoint claim reconciliation
+
+- **BA-C001/C016 — STRENGTHEN, QUALIFY:** Sensei's vulnerable survival, bounded local help, accompaniment and card response coexist with student rescue, Hifumi's intervention, Atsuko's dissent and cross-school aid. No single-agent salvation rule.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE by domain:** prior four-pass academic fact persists; treaty/ETO legality, mimesis mechanism, medical disposition, school process and Squad safety have different proof states. Learned hatred is Atsuko's meaningful challenge, not a complete causal archive.
+- **BA-C008 — STRENGTHEN:** narrator event, forensic preliminary report, interested confession, prophecy, inward wish, letter voicing and tag faults cannot be flattened into a single certainty.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) is canonical authority for these chapter-local dispositions. No new durable claim ID, model, frozen prediction or side-source admission; **21 partial / 61 unmodeled across 82**; backfill **DEFER**. C004 E001 unopened.

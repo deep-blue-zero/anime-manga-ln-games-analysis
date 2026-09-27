@@ -1,18 +1,18 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_CHECKPOINTS_PLUS_C003_E001_E025
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_CHECKPOINTS
 generation: V1
-version: "2.11"
+version: "2.12"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C002 through checkpoints, then BA:main:003:003:001–025 provisionally; 149/310 main units; C003 checkpoint pending; side-source classes unreviewed; BA:main:003:004:001 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C003 through checkpoints; 149/310 main units; side-source classes unreviewed; BA:main:003:004:001 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
-current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md"
+current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md"
 next_unopened_main_unit: BA:main:003:004:001
 ---
 
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:004:001
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V003_C003_E025` provisional boundary, inheriting canonical `MAIN_V003_C002` pending the C003 checkpoint:
+This index answers four questions at the canonical `MAIN_V003_C003` chapter checkpoint:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -62,7 +62,7 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 All rows inherit:
 
 - analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020 and V003 C003 E001-E025;
-- current checkpoint: `MAIN_V003_C002`; prior C001 and recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5` remain lineage;
+- current checkpoint: `MAIN_V003_C003`; prior C001/C002 checkpoint basis remains lineage;
 - main-story coverage: `149 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
@@ -1246,3 +1246,7 @@ Routing: [V003 C003 E024 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 The epilogue shows comic Makoto/Iroha aftermath; Nagisa self-reports that her halo survived and hears a Mika letter, not a full medical or disciplinary settlement. Mine directly returns to Rescue Knights and apologizes, becoming one newly tracked narrow `UNMODELED` subject. Seia is addressed by name and directly proposes that Nagisa/Mika face their unprovable inner hearts through conversation; suspect `u:0034-0036/0049-0052` tags prevent exact attribution of adjacent banter, and no completed repair is shown. The same four students return to Remedial Club with distinct self-reported reasons, while Koharu says this time there is no expulsion. Earlier four-pass certification remains intact; renewed membership does not itself prove formal order details. Atsuko's italic flower/happiness wish to Azusa is not necessarily delivered. A `？？？` orders escaped “royal blood” captured and allows halo destruction of others, a prospective threat that keeps Squad safety open. Readiness **21 `PARTIAL_MODEL` / 61 `UNMODELED` across 82**, none operational/validated; no standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). C003 chapter checkpoint is required before C004 E001.
 
 Routing: [V003 C003 E025 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E025_DEEP_READING.md) → `BA:main:003:003:025`, one scene, 88 visible numbered units and no Sensei choices. Coverage is **149 / 310**.
+
+## 121. V003 C003 canonical checkpoint coverage reconciliation
+
+[The twenty-five-unit C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) governs all prior provisional E001–E025 observations. It keeps the C002 narrator-certified four-pass intact while separating E025's same-four remedial recurrence and Koharu's no-expulsion assurance from independent administrative orders. It recognizes Mine's direct return, Seia's present talk invitation, Nagisa's self-reported intact halo, Hina's direct return, Sensei's survival/card action and Atsuko's learned-hatred flight proposal without promoting any to full medical/legal closure or a tested character model. Arius/Seia/Hiyori/Misaki's ETO and Justina accounts remain source-limited, Maestro's form incomplete, and the anonymous royal-blood order leaves Squad safety open. No new durable claim ID or readiness promotion: **21 `PARTIAL_MODEL` / 61 `UNMODELED` across 82**, none operational/validated. Standalone models remain `NONE`, no frozen prediction or held-out response exists (`NO_DIAGNOSTIC_OPPORTUNITY`), and side-source backfill stays **DEFER**. The next main source is `BA:main:003:004:001`, unopened.

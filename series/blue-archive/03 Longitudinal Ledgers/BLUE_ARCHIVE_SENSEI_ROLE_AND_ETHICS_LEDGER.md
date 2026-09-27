@@ -4,8 +4,8 @@ artifact_type: ledger
 scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–025; C003 checkpoint pending; BA:main:003:004:001 unopened
+checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
+source_boundary: Canonical MAIN_V003_C003 checkpoint through BA:main:003:003:025; BA:main:003:004:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -965,3 +965,7 @@ Azusa warns the displayed phenomenon is dangerous and urges flight. Sensei's two
 ## V003 C003 E025 delta — recurring care after apparent graduation
 
 Sensei has no choice or direct speech. Inward lines report hearing the four remedial students had graduated, express surprise that the same four returned and enact a comic collapse; Hifumi, Azusa, Koharu and Hanako supply their own reasons. The old narrator-certified pass is not erased, and Koharu's “no expulsion this time” is her bounded assurance. Seia, rather than Sensei, proposes the Tea Party conversation; Atsuko privately wishes Azusa a future; an unknown actor issues a lethal pursuit order. These distributed voices prevent an adult-only resolution and keep adult responsibility ongoing without a frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 checkpoint Sensei-role reconciliation
+
+The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) holds adult responsibility and adult limits together. Sensei bleeds/unconsciously receives care, wakes, locally interrupts Mika's abuse, chooses to accompany Azusa and inwardly takes out a card. The card's cost/effect are not audited and the Squad escapes; the adult cannot be treated as invulnerable or sole causal agent. Students and institutions perform care, analysis, refusal and coalition-building while Sensei's later reaction to their recurring club is comic rather than a new punitive policy. No standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 E001 unopened.
