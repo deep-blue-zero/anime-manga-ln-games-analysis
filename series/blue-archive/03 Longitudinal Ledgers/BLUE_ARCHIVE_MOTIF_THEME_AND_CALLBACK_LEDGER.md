@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–010; BA:main:004:001:011 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–011; BA:main:004:001:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1473,3 +1473,7 @@ Kirino's patrol mixes civic duty, ordinary appetite and aspirational transfer; t
 ## V004 C001 E010 motif / callback delta — possession in the guise of refusal
 
 The E008 alley scarcity complaint receives a named organized claimant in Decartes's 所確幸, but E009's smoker remains a separate unknown. `無所有` poses as freedom from material dependence while the group wants priority over coveted discarded meals and guards expensive stores; Decartes explicitly defends ownership after battle. RABBIT's scavenging needs and Sensei's fictitious steak bait make appetite a tactical lever, not just comic texture. The squad's final refusal to take supplies preserves a local boundary despite necessity; it does not settle rightful access to discards. The skipped battle and unproven warning-shot account resist clean victor/culprit closure.
+
+## V004 C001 E011 motif / callback delta — weather as institutional attrition
+
+Storm exposes the cost of treating a protest camp as a permanent SRT home: shelter, ammunition, communications and the squad's rationale all come under pressure. Saki's dignity-as-public-safety reading clashes with Miyako's dignity-as-not-giving-up reading; neither is resolved by a formal SRT act. Sensei's physical drainage labor answers a locally chosen need after E010's refused purchase/help alternative, yet poor shovel skill and a cold prevent an effortless savior image. Drainage work and rain cessation coexist, so a simple individual-causation moral is unwarranted. Miyako's thanks is a bounded change under unchanged material loss.

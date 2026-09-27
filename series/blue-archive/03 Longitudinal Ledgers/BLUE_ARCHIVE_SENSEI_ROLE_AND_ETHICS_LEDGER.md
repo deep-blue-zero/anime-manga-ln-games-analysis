@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–010; BA:main:004:001:011 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–011; BA:main:004:001:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1121,3 +1121,7 @@ Sensei meets Kirino while shopping and gives either hesitant `大丈夫` or `み
 ## V004 C001 E010 delta — resisting command framing, using a false lure
 
 Sensei is Decartes's hostage and explicitly distinguishes RABBIT students from subordinates (`scene:001:choice:008`). With the squad dismissing the captor's call, Sensei knowingly claims a nonexistent wagyu-steak bento and draws them into armed contact (`scene:001:u:0039-0090`). This is a local tactical deception with risks, not transparent protection. After combat, the choices offer either personal purchase of sheets or an instruction to leave goods; they are alternatives, not jointly enacted. Miyako refuses help and the squad leaves without spoils (`scene:002:choice:004;u:0045-0058`). Sensei declines Decartes's invitation. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E011 unopened.
+
+## V004 C001 E011 delta — labor instead of leverage
+
+Sensei internally chooses to check RABBIT in heavy rain, arrives as Miyako struggles at the blocked drain and begins shoveling without asking for a transfer concession (`scene:001:u:0002-0009;scene:002:u:0053-0064`). They need Saki's more competent handling, and the team jointly works; Miyako reports the park avoids complete inundation but most gear is lost. Sensei states no return is sought and `私は先生だから` in sequential singleton choices (`choice:003-004`), and Miyako thanks them while maintaining earlier limits. Narration then confirms Sensei catches a cold (`u:0080-0081`). Help is observable and costly, yet not a complete flood causal audit or blanket correction of E008's privacy breach. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E012 unopened.

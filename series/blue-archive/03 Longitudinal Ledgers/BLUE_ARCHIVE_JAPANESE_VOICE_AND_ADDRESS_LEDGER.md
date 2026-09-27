@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–010; BA:main:004:001:011 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–011; BA:main:004:001:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1724,3 +1724,8 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 - Decartes supplies the full name `所有せずとも確かな幸せを探す集い` / `所確幸`; `無所有` rhetoric and desire for rare yakiniku boxes coexist rather than harmonize. The formal claim of Sensei as an outside-Kivotos guest is a speaker claim (`scene:001:u:0001-0033`).
 - Sensei's paired `scene:001:choice:008` denies `部下` and frames RABBIT as students; Decartes persists in assuming teacher command. The wagyu-bento phone line is a deliberate false lure confirmed after arrival (`u:0052-0071`).
 - `scene:002:u:0037` is tagged Decartes yet reads `私たちは傭兵ではなく、SRTですから`, semantically in RABBIT's voice. Preserve the source tag and quarantine exact attribution. Paired `scene:002:choice:004` alternatives are not both enacted. No performed voice admitted.
+
+## V004 C001 E011 voice delta — despair, ideal and teacher reason
+
+- The italicized crisis passage from `scene:002:u:0021-0052` retains speaker labels and continuous park context; typography alone does not license a dream reading. Saki's `装備だけの話じゃない` moves from material loss to SRT's mission; Miyako's `諦められない` is her own voiced resolve, not a squad consensus.
+- Sensei's singleton `choice:003` (`何かを望んでるわけじゃないよ`) and `choice:004` (`私は先生だから`) are sequentially printed, not paired variants. Saki's `シャベルの使い方が下手` limits competence, while Miyako's `助けられてしまったのは事実` acknowledges help without declaring trust. No performed voice admitted.

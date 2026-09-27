@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–010; BA:main:004:001:011 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–011; BA:main:004:001:012 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V004_C001_E010 active provisional; C001 E011 unopened
+current_sequential_boundary: MAIN_V004_C001_E011 active provisional; C001 E012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2413,3 +2413,7 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 ## V004 C001 E010 claim delta — captivity, deception and contested goods
 
 **BA-C001/C016 — REVISE/QUALIFY:** Sensei denies being RABBIT's commander but falsely advertises a wagyu bento to summon them; the supply purchase is one of two choice alternatives, not an enacted universal rescue ethic. **BA-C008 — STRENGTHEN method:** Decartes's food entitlement and property claim, Miyako's warning-shot/restitution account, and post-clash squad reports must remain distinct from narrated flight, apparent injury-free withdrawal and actual failure to take goods. The E009 smoker is still unidentified; the E008 leader link is contextual. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** Decartes enters narrow UNMODELED coverage: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E011 unopened.
+
+## V004 C001 E011 claim delta — costly help without transfer
+
+**BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei aids RABBIT's own park-defense effort without a transfer bargain; Miyako directly acknowledges help, but distrust and Schale-move questions remain unresolved. A cold is a narrator-confirmed personal cost, not proof of universal beneficence. **BA-C008 — STRENGTHEN method:** Saki/Moe report lost ammunition/communications gear; Miyako reports no complete park inundation, and narration confirms joint drainage work. Do not infer an exact inventory, lightning mechanism or sole causal reason flooding is avoided. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No subject/readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E012 unopened.

@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–010; BA:main:004:001:011 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–011; BA:main:004:001:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1031,3 +1031,7 @@ Kirino says Valkyrie left RABBIT follow-up to Schale, consistent with E004–E00
 ## V004 C001 E010 institutional delta — 所確幸's resource and property claims
 
 Decartes names a non-possession group, claims RABBIT has depleted its discarded meals and demands reserved yakiniku bento. This identifies an organized local competitor, not a verified allocation regime. Decartes holds Sensei and deploys armed members; after unshown combat, participants report suppressed snipers, fleeing members and a burned hideout, without casualty or fire-cause audit. RABBIT discovers stored expensive tins and camp gear, briefly proposes seizure as compensation, then leaves without goods. Miyako's first-warning-shots account is retrospective; legal ownership, restitution and food access remain unsettled. The SRT-versus-mercenary line has suspect speaker attribution.
+
+## V004 C001 E011 institutional delta — storm pressure on an informal camp
+
+The park shelter fails under widespread heavy rain; spare sheeting runs out, and Saki/Moe report ruined ammunition and communications gear. Miyako warns a blocked drain threatens wider flooding, and narration confirms a joint clearing effort; she later reports no complete park inundation but most equipment lost. No disaster-office response, insurance/supply claim or complete material inventory appears. The squad's disagreement over whether park scavenging can preserve SRT's name is internal, not an official closure or reinstatement. Arona's trust in local councils is hope, not inspected response evidence.

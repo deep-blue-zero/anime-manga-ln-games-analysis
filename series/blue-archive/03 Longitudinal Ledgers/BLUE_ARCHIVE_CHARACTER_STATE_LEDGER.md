@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–010; BA:main:004:001:011 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–011; BA:main:004:001:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1691,3 +1691,10 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Decartes:** self-identifies as 所確幸 leader, claims RABBIT depleted discarded meals, holds Sensei, demands future yakiniku boxes and mobilizes armed associates. After a skipped clash, reports burned possessions and protests taking supplies despite non-possession doctrine. The E008 alley leader connection is strong but not directly self-cross-referenced; E009's individual smoker remains unidentified.
 - **Sensei:** explicitly rejects Decartes's subordinate framing for RABBIT, uses a nonexistent wagyu bento as a rescue lure, and later has mutually exclusive supply-purchase / leave-goods choice text. Declines Decartes's invitation.
 - **Miyako / Saki / Miyu / Moe:** answer the food lure, coordinate and survive the local clash by their report; Miyako considers goods as compensation, then directs departure without taking them. Saki and Miyu choose withdrawal, Moe is disappointed by the false meal. Injury and property audits remain absent.
+
+## V004 C001 E011 character-state delta — storm and manual solidarity
+
+- **Arona:** worries about region-wide rain and RABBIT's exposed tents, without a measured damage report; Sensei decides to check them.
+- **Saki / Moe / Miyu:** confront shelter failure and reported equipment loss. Saki doubts scavenging preserves SRT's mission, Moe rejects prolonged camp hardship, and Miyu asks Miyako to stop; after Sensei starts drainage work, Saki and Miyu join. This is disagreement plus local labor, not a settled vote to dissolve RABBIT.
+- **Miyako:** persists at the blocked drain and her SRT ideal even while privately doubting efficacy and losing hand sensation; accepts Sensei's manual assistance, reports partial park preservation and thanks them without agreeing to leave.
+- **Sensei:** checks the camp, handles a shovel poorly, helps clear the drain with students, returns wet and catches a cold by narration. The illness's course remains unknown.

@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–010; BA:main:004:001:011 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–011; BA:main:004:001:012 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1315,3 +1315,7 @@ Kirino checks whether released RABBIT students have harmed Sensei and offers 24-
 ## V004 C001 E010 relationship delta — coercion, coordination, refusal
 
 Decartes treats Sensei as an instrument to control RABBIT, while Sensei says the students are not subordinates. Miyako and Saki initially dismiss a stranger's phone claim, then the food lure brings the squad; this does not prove foreknowledge of Sensei's safety. The squad coordinates under threat and reports no injuries. Miyako initially seeks compensation in goods, but Saki/Miyu opt to leave and Miyako orders no spoils. Sensei's offered purchase is choice-conditioned and declined; RABBIT's resistance to adult financial support remains local and unresolved. Decartes's invitation is refused.
+
+## V004 C001 E011 relationship delta — visible help and narrow gratitude
+
+Saki, Moe and Miyu question continuing the camp; Miyako continues alone at the drain, preserving the SRT ideal but not persuading the others by speech. Sensei joins the practical task, Saki takes over a shovel, and Miyu helps; narration confirms group labor. Miyako accepts help despite prior rejection and thanks Sensei, while Saki frames the effort as unrewarded and Moe keeps teasing. This shifts local interaction from adversarial refusal toward acknowledged aid, not full trust, housing acceptance or squad agreement about its future.
