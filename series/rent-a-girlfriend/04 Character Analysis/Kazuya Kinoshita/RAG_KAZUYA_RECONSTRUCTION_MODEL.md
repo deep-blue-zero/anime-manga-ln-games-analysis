@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.32"
+version: "1.33"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V031."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V032."
 ---
 
 # Kazuya Kinoshita reconstruction model
@@ -1997,7 +1997,7 @@ Use Japanese manga speech only. Under low control, expect fragments, repeated qu
 
 Supported with caution: a sudden family question; a peer insulting Chizuru; Mami challenging the rental system; Chizuru restating a known boundary; Ruka claiming priority; an opportunity for bounded friend repair; a shy provider needing a cooperative client; emotional support offered through a constrained communication style; a concrete film task requiring research or coordination.
 
-Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, mutual romantic classification, the exact pre-drop screen preparation, workable post-breakup boundaries with Ruka, durable cohabitation beyond the one-month arrangement, or any post-V031 knowledge.
+Require extra assumptions: successful long-term production management, mature reciprocal sexual negotiation, mutual romantic classification, the exact pre-drop screen preparation, workable post-breakup boundaries with Ruka, durable cohabitation beyond the one-month arrangement, or any post-V032 knowledge.
 
 Abstain when the outcome depends on Chizuru's hidden feeling, Mami's hidden goal, or a later developmental state. Generated scenarios may test rule clarity but cannot validate the model as canon evidence.
 
@@ -2010,5 +2010,7 @@ V029 tests material disruption against the V028 patient-inquiry behavior. Kazuya
 V030 tests ordinary residence against the same anxious appraisal. He accepts room, key, and separate bath use, but sexualizes proximity and misreads general speech. He also avoids the harder audience truth by concealing his destination from Ruka and leaving Nagomi's premise intact. His Mami apology is a counterexample to total inability to address prior wrong, while Sumi's bandage and counsel give him a concrete route under Chizuru's no-present request (RAG-E-V030-001 through RAG-E-V030-008). No birthday action, relationship answer, or informed rival response is observed; do not forecast success as accomplished.
 
 V031 tests the birthday constraint in action. Kazuya watches the play, sees the troupe and Sumi provide independent care, and accepts Chizuru's correction that her no-present request was not a ban on any gesture. His improvised coupon and vocational praise receive direct acceptance, supporting a bounded adaptive-help rule; his anxiety about progress and the May 13 move remains exaggerated, and he still lacks her answer (RAG-E-V031-001 through RAG-E-V031-008). Do not infer a redeemed coupon, romantic assent, or truthful settlement with Ruka from this local success.
+
+V032 tests whether ordinary proximity changes his interpretive pattern. He assists in family-house clearing, stays within Chizuru's local storeroom instruction, and attends to her budgeting and everyday preferences during three-person shopping. His large apparent love declaration in the shopping passage is private thought, not speech to her; earlier first-person remarks by Chizuru are replayed memory. He accepts a small task and her night invitation without invoking the coupon (RAG-E-V032-001 through RAG-E-V032-011). The model gains a concrete restraint and less idealized appraisal instance while preserving anxious overreading, the May 13 exit, and an unanswered inquiry.
 
 The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within named family-pressure, support, embarrassment, repair, and consent-boundary domains. It assigns no global capability grade and no whole-person validation.

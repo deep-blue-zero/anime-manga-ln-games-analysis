@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.31"
+version: "1.32"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031; inspected and closed through V031."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V032; inspected and closed through V032."
 ---
 
 # Repetition and visual form ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V031
-row_count: 176
-state: CURRENT_THROUGH_V031
+inspected_through_volume: V032
+row_count: 180
+state: CURRENT_THROUGH_V032
 ```
 
 ## Records
@@ -218,3 +218,7 @@ state: CURRENT_THROUGH_V031
 | RAG-FRM-174 | Sumi's quiet private conversation and Chizuru's direct speech interrupt Kazuya's anxious interpretation. | Chizuru distinguishes comfort and gratitude from an as-yet-unknown love classification. | Viewpoint shift supplies evidence of uncertainty from the focal character herself. | Framing and expression cannot be overruled by assumed hidden love; RAG-E-V031-004. |
 | RAG-FRM-175 | Coupons, bear sweater, altar photographs, and the May 13 date give four objects different temporal directions. | A gift can be worn now, a coupon may be used later, family memory persists, and residence has a planned end. | Material repetition measures care without flattening grief or deadline into a single status. | No redeemed coupon, healed bereavement, or completed move is shown; RAG-E-V031-005 through RAG-E-V031-008. |
 | RAG-FRM-176 | Eroticized bath entrances and reaction panels surround Chizuru's explicit distinction between not disliking and loving. | Mini's comic pressure exposes rather than resolves the inquiry. | The scene's visual provocation is checked by voiced hesitation and a request for testimony. | The shared bath is Mini and Chizuru; nudity is not a Kazuya-Chizuru sexual event; RAG-E-V031-009, RAG-E-V031-010. |
+| RAG-FRM-177 | Stacked boxes and a neighbor's door compress the storeroom into enforced bodily proximity. | Accidental geometry creates a heightened tableau. | Chizuru's local instruction to stay still and the later separation constrain its meaning. | Framing cannot substitute for a kiss or continuing permission; RAG-E-V032-002 through RAG-E-V032-004. |
+| RAG-FRM-178 | Shop-floor scale, television prices, massage-chair poses, and a meal alternate domestic decisions with Kazuya's erotic gaze. | Ordinary preferences become visible in a public three-person setting. | Chizuru's speech and budgeting anchor action more securely than reaction panels. | Visual couple resemblance does not certify status; RAG-E-V032-005 through RAG-E-V032-009. |
+| RAG-FRM-179 | The page-sized image of Kazuya accompanies an unballooned internal love statement, followed by memory panels of Chizuru's earlier words. | A visual climax occurs inside his interpretive viewpoint. | Past direct speech is replayed, while the current conclusion is his private thought. | Do not attribute the thought to Chizuru or claim she hears it; RAG-E-V032-009. |
+| RAG-FRM-180 | Night street and shared drink slow the pace after cramped domestic comedy; an abrupt cafe cut follows. | Quiet chosen company and a new conversation have different information scopes. | The cut opens a question rather than proving a link between them. | The pale-haired companion's identity and impact remain unresolved; RAG-E-V032-011, RAG-E-V032-012. |

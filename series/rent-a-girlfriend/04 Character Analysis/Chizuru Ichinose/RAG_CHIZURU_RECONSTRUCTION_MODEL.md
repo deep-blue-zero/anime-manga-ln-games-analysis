@@ -4,13 +4,13 @@ artifact_id: RAG_CHIZURU_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.32"
+version: "1.33"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V031."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V032."
 ---
 
 # Chizuru Ichinose reconstruction model
@@ -1981,7 +1981,7 @@ Use Japanese manga speech only. In rental mode, employ warm address, inviting qu
 
 Supported with caution: a client challenges the service's authenticity; Kazuya approaches on campus; Nagomi needs a practical intervention; a peer humiliates Kazuya while she is in the girlfriend role; an exception risks being misread as unlimited access; a former partner attacks the moral legitimacy of the service; a known provider needs a controlled practice client; acting work competes with family care; a practical need creates temporary private access; a researched film proposal requires feasibility review and bounded project consent.
 
-Require extra assumptions: sustained private friendship routine beyond the observed inquiry period, an affirmative private romantic answer, durable cohabitation beyond the one-month offer, sexual intimacy, a wider acting-career result, durable bereavement recovery, or behavior after V031.
+Require extra assumptions: sustained private friendship routine beyond the observed inquiry period, an affirmative private romantic answer, durable cohabitation beyond the one-month offer, sexual intimacy, a wider acting-career result, durable bereavement recovery, or behavior after V032.
 
 Abstain whenever the outcome depends on ranking professional pride, family empathy, fairness, and romantic interest beyond the evidence. Preserve observed conduct and provide multiple plausible internal accounts rather than selecting one hidden script.
 
@@ -1994,5 +1994,7 @@ V029 validates a constrained extension of the bounded-care rule: Chizuru identif
 V030 confirms that the housing offer is operational rather than symbolic. Chizuru assigns space, key, and shared-use routines, then specifies a no-present birthday boundary in light of Kazuya's costs (RAG-E-V030-002 through RAG-E-V030-006). This supports rule-governed access and continuing ordinary observation, but the cat scene and Kazuya's interpretation of a general remark do not reveal her private classification. The model still abstains on a final answer, duration beyond the month, birthday outcome, and informed Ruka or family response.
 
 V031 supplies rare direct calibration. Chizuru receives distinct theater, Sumi, and household care; corrects Kazuya's overbroad reading of her gift request; and accepts his coupon. With Sumi she credits Kazuya's bereavement support while saying she cannot yet classify her feeling as romantic love. With Mini she rejects the equation of not disliking with loving and asks for another observer's testimony (RAG-E-V031-001 through RAG-E-V031-010). The model can represent active inquiry and bounded gratitude but must abstain on a final answer, any inferred sexual permission, and whether Mini's account is decisive.
+
+V032 gives the requested testimony a response and tests chosen access in ordinary contexts. Chizuru directs family-property removal, grants purpose-bound old-room access, defines a temporary stillness limit during an accidental storeroom trap, and invites both housemates to budget-conscious replacement shopping. She later asks for spider help and initiates a short night errand with Kazuya (RAG-E-V032-001 through RAG-E-V032-011). The apparent shopping self-assessment is Kazuya's focalization replaying her earlier speech, not new access to her present thoughts. The model supports practical initiative and local boundary control, but abstains on the inquiry result, coupon use, May 13 outcome, and the unidentified cafe companion's significance.
 
 The V010 local reconstruction audit assigns `OPERATIONAL_CANDIDATE` only within named professional, family-welfare, identity, vocational, and bounded-care domains. It assigns no global capability grade and preserves motive underdetermination.

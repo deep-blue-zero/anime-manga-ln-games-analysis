@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.31"
+version: "1.32"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031; inspected and closed through V031."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V032; inspected and closed through V032."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V031
-row_count: 143
-state: CURRENT_THROUGH_V031
+inspected_through_volume: V032
+row_count: 146
+state: CURRENT_THROUGH_V032
 ```
 
 ## Records
@@ -185,3 +185,6 @@ state: CURRENT_THROUGH_V031
 | RAG-CHR-141 | RAG-E-V030-007, RAG-E-V030-008 | Mami's public meeting and Kazuya's apology precede Sumi's unexpected house visit; Sumi treats his cut and they discuss the birthday. | Distinguishes encounters and audiences before the V030 cut. | Exact elapsed hours and later acts remain unshown. |
 | RAG-CHR-142 | RAG-E-V031-001 through RAG-E-V031-007 | On April 19, Kazuya attends Chizuru's performance; the troupe celebrates her, Sumi arrives with another cake, the household celebrates near midnight, and Chizuru accepts Kazuya's coupon after Sumi's departure. | Stage, troupe, household, and private talk are distinct same-day sequences. | Precise performance and arrival clock times are not given. |
 | RAG-CHR-143 | RAG-E-V031-008 through RAG-E-V031-010 | After the birthday, roughly one week of shared residence has passed; Kazuya identifies May 13 as his planned new-apartment move, Mini probes progress, and the bath conversation ends with Chizuru requesting Mini's view of him. | The deadline and interrogation follow the birthday, while a final answer has not yet occurred. | The exact date of the bath and whether May 13 becomes the actual move day remain unknown. |
+| RAG-CHR-144 | RAG-E-V032-001 through RAG-E-V032-004 | Mini answers Chizuru's question; subsequently a moving truck clears family property, Kazuya helps store boxes, and an accidental confined encounter ends without a kiss. | The testimony precedes the removal and storeroom event. | Exact dates and the neighbor's understanding are unstated. |
+| RAG-CHR-145 | RAG-E-V032-005 through RAG-E-V032-009 | The three residents shop for replacement goods, eat together, and Kazuya privately reassesses his idealized view of Chizuru. | Practical preparation and his interior conclusion follow the storeroom event. | His conclusion is not spoken to Chizuru in this passage. |
+| RAG-CHR-146 | RAG-E-V032-010 through RAG-E-V032-012 | Back at the house, they deal with a spider; later Chizuru invites Kazuya to a night convenience-store errand, before a separate cafe cut opens. | The late errand precedes the cafe cut in story presentation. | The cafe's exact date relative to the walk is not yet fixed. |

@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V013-V031, with no material V021-V026 conduct."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V013-V032, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori reconstruction model
@@ -512,7 +512,7 @@ Use Japanese manga written speech only. Mini tends toward explicit labels, enthu
 
 Supported with caution: a stalled measurable group project; a concealed collaboration she accidentally discovers; Kazuya and Chizuru separately giving her incomplete accounts; an opportunity to create private access; direct challenge to a logistical deception; a peer encounter in which her supporter identity is visible.
 
-Require extra assumptions: creator income and scale, family response, intimate preferences, conduct after a firm stop request, permission for the V027 relay, handling of a confidence whose disclosure would cause direct harm, Chizuru's final investigation method, or any post-V031 relationship result.
+Require extra assumptions: creator income and scale, family response, intimate preferences, conduct after a firm stop request, permission for the V027 relay, handling of a confidence whose disclosure would cause direct harm, Chizuru's final investigation method, or any post-V032 relationship result.
 
 Abstain whenever the outcome requires treating Mini's romantic theory as fact, granting permission she was not given, or converting a useful campaign intervention into general moral or professional reliability. Generated scenarios cannot become canon evidence.
 
@@ -525,3 +525,5 @@ V029 supports Mini's response-form prediction under a housing crisis: she diagno
 V030 confirms actual move-in and mundane facility negotiation (RAG-E-V030-002, RAG-E-V030-003). Mini can manage practical proximity and offer commentary, but no result validates her romantic diagnosis or establishes restraint under a firm stop request. Local readiness remains PARTIAL_MODEL.
 
 V031 separates successful birthday organization from intrusive romantic engineering. Mini helps create a welcome for Chizuru, then asks Kazuya for milestones and enters Chizuru's bath to press for an answer. Chizuru does not adopt Mini's simple equation of care with love; instead she asks Mini what sort of person Kazuya is (RAG-E-V031-003, RAG-E-V031-005, RAG-E-V031-008 through RAG-E-V031-010). This is a possible information role for Mini, not a validated diagnosis or permission to intrude. Readiness remains PARTIAL_MODEL.
+
+V032 supplies a directly requested testimony instance: Mini answers Chizuru's question about Kazuya and later tells him of it. She also joins the practical replacement trip, helps compare goods, and supplies date-like interpretations alongside intrusive comments (RAG-E-V032-001, RAG-E-V032-004 through RAG-E-V032-008). The model can anticipate active logistical help and rapid labeling, but cannot treat her romance diagnosis as validated by Chizuru's continued inquiry. Readiness remains PARTIAL_MODEL.

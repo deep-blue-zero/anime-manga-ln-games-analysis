@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.31"
+version: "1.32"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031; inspected and closed through V031."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V032; inspected and closed through V032."
 ---
 
 # Transaction and intimacy ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V031
-row_count: 161
-state: CURRENT_THROUGH_V031
+inspected_through_volume: V032
+row_count: 164
+state: CURRENT_THROUGH_V032
 ```
 
 ## Records
@@ -203,3 +203,6 @@ state: CURRENT_THROUGH_V031
 | RAG-TXN-159 | Two birthday cakes and Sumi's sweater | The troupe, friend, and housemates provide distinct unpriced recognition and a gift. | Chizuru can receive, question, or decline each gesture. | Neither gift nor friendship purchases a romantic answer or erases grief. | She accepts celebration and sweater; RAG-E-V031-001 through RAG-E-V031-006. |
 | RAG-TXN-160 | Kazuya's improvised service coupons | Chizuru reopens her earlier no-present limit and accepts one coupon after Kazuya offers practical availability. | She may later specify a task; he may negotiate the actual use. | An open-ended slogan is not literal unlimited consent or a contract for intimacy. | A token is accepted, but no service is redeemed; RAG-E-V031-006, RAG-E-V031-007. |
 | RAG-TXN-161 | Mini's shared bath with Chizuru | Mini intrudes into a private bath to push the relationship inquiry. | Chizuru objects and limits what can be inferred from her answer. | Nude proximity between the women gives neither Mini nor Kazuya authority over Chizuru's status. | Direct discussion yields uncertainty and a request for testimony, not a couple decision; RAG-E-V031-009, RAG-E-V031-010. |
+| RAG-TXN-162 | Storeroom proximity during box moving | Chizuru grants task-specific room access; a neighbor and falling boxes leave Kazuya above her. | She permits him to stay still briefly until they can separate safely. | Situational permission does not authorize a kiss or wider bodily access. | They blush and separate without a kiss; RAG-E-V032-002 through RAG-E-V032-004. |
+| RAG-TXN-163 | Replacement shopping and meal | Chizuru invites two housemates to compare appliances and eat during the family-house transition. | She directs her budget and preferences, and each participant can accept or decline ordinary company. | Domestic resemblance and Kazuya's appreciation do not constitute a permanent shared household. | Practical unpriced outing occurs with no changed status; RAG-E-V032-005 through RAG-E-V032-009. |
+| RAG-TXN-164 | Spider help, night errand, and birthday coupon | Chizuru requests a small task and later Kazuya's company, without presenting the accepted token. | Requests are local and negotiated through ordinary speech. | The coupon is not silently redeemed or converted into intimate obligation. | Help and shared drink occur; coupon remains unused; RAG-E-V032-010, RAG-E-V032-011. |

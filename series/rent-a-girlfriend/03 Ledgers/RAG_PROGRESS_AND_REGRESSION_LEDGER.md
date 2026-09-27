@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.31"
+version: "1.32"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031; inspected and closed through V031."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V032; inspected and closed through V032."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V031
-row_count: 177
-state: CURRENT_THROUGH_V031
+inspected_through_volume: V032
+row_count: 180
+state: CURRENT_THROUGH_V032
 ```
 
 ## Records
@@ -219,3 +219,6 @@ state: CURRENT_THROUGH_V031
 | RAG-PRG-175 | Birthday care | PLURAL_RECOGNITION_AND_REVISED_GIFT_LIMIT — the troupe and household celebrate, and Chizuru accepts Kazuya's coupon after clarifying her request. | The local no-present impasse resolves by Chizuru's own choice. | Recognition and gift acceptance do not settle romance. | RAG-E-V031-001 through RAG-E-V031-007 |
 | RAG-PRG-176 | Investigation | DIRECT_UNCERTAINTY_WITH_CONTINUED_TEST — Chizuru tells Sumi she cannot classify care as love and asks Mini for testimony. | Her inquiry becomes more directly evidenced but remains unfinished. | Mini's advocacy and Kazuya's anxiety cannot stand in for an answer. | RAG-E-V031-004, RAG-E-V031-010 |
 | RAG-PRG-177 | Household horizon | EXPLICIT_EXIT_CLOCK_WITH_PRIVACY_FRICTION — May 13 is named and Mini's bath tactic crosses a private boundary. | Domestic access carries practical time and consent costs. | The move has not occurred; no romance is purchased by proximity. | RAG-E-V031-008 through RAG-E-V031-010 |
+| RAG-PRG-178 | Investigation | THIRD_PARTY_TESTIMONY_WITH_UNRESOLVED_RESULT — Mini answers Chizuru's question about Kazuya. | Chizuru gathers another person's view instead of declaring an answer. | Mini's favorable report cannot identify Chizuru's own feeling. | RAG-E-V032-001 |
+| RAG-PRG-179 | Household and consent | PRACTICAL_CONTACT_WITH_LOCAL_LIMITS — moving help, shopping, a spider task, and chosen night company broaden ordinary access. | Continued cohabitation has material texture and voluntary initiative. | Storeroom proximity and shared drinks do not create sexual permission, dating status, or residence extension. | RAG-E-V032-002 through RAG-E-V032-011 |
+| RAG-PRG-180 | Interpretation and unresolved route | PRIVATE_REAPPRAISAL_AND_CAFE_CUT — Kazuya revises his idealized view internally; the final page opens a separate cafe conversation. | His appraisal improves while a new social contact may matter later. | His thought is unheard, and the cafe companion's identity and effect remain unknown. | RAG-E-V032-009, RAG-E-V032-012 |

@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.31"
+version: "1.32"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031; inspected and closed through V031."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V032; inspected and closed through V032."
 ---
 
 # Agency and initiative ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V031
-row_count: 205
-state: CURRENT_THROUGH_V031
+inspected_through_volume: V032
+row_count: 208
+state: CURRENT_THROUGH_V032
 ```
 
 ## Records
@@ -247,3 +247,6 @@ state: CURRENT_THROUGH_V031
 | RAG-AGY-203 | Sumi | Offer a birthday gesture or avoid imposing. | Brings a separate cake and sweater, listens privately, and hugs Chizuru without assigning her feeling. | Friendship gives Chizuru a chosen listener and material care. | Sumi does not waive Chizuru's limits or decide for her; RAG-E-V031-002 through RAG-E-V031-006. |
 | RAG-AGY-204 | Chizuru | Preserve an absolute no-gift rule or clarify and revise it. | Welcomes the gathering, distinguishes her earlier request, asks for Kazuya's gift, accepts one coupon, and later explains that inquiry is ongoing. | She controls the local boundary and voices her own epistemic limit. | The coupon and care are not a dating agreement; RAG-E-V031-003, RAG-E-V031-004, RAG-E-V031-006, RAG-E-V031-007, RAG-E-V031-010. |
 | RAG-AGY-205 | Mini | Wait for Chizuru's process or force a progress check. | Presses Kazuya, enters Chizuru's bath, challenges her, and is asked for testimony about Kazuya. | Intermediary pressure opens a direct conversation but oversteps privacy. | Mini's enthusiasm is not consent or diagnostic authority; RAG-E-V031-008 through RAG-E-V031-010. |
+| RAG-AGY-206 | Mini | Answer Chizuru's character question or impose a final romance label. | Gives favorable testimony, later relays the exchange to Kazuya, and joins a practical shopping trip. | Her advocacy becomes an information source and household help. | Her evaluation cannot decide Chizuru's private feeling; RAG-E-V032-001, RAG-E-V032-005 through RAG-E-V032-008. |
+| RAG-AGY-207 | Chizuru | Preserve family possessions alone or accept bounded help and practical company. | Asks Kazuya to move boxes, decides on replacement shopping with both housemates, then requests spider help and a night errand. | Controls access, budget, and specific requests during ordinary contact. | These decisions do not extend the residence or classify her feeling; RAG-E-V032-002, RAG-E-V032-005 through RAG-E-V032-011. |
+| RAG-AGY-208 | Kazuya | Exploit close contact or stay within a local limit; idealize or revise his view. | Keeps still when asked in the storeroom, helps with tasks, and privately recognizes that his former idealization missed Chizuru's ordinary self. | Restraint and interpretive correction coexist with intense desire. | His internal love statement is not audible to Chizuru or a mutual agreement; RAG-E-V032-003, RAG-E-V032-009, RAG-E-V032-010. |

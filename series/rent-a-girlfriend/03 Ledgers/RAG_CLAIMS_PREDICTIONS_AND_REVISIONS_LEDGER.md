@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.36"
+version: "1.37"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031 inspected and closed; V032 entering predictions frozen before narrative inspection."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V032 inspected and closed; V033 entering predictions frozen before narrative inspection."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -33,10 +33,10 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V031
-current_claim_count: 119
+inspected_through_volume: V032
+current_claim_count: 123
 frozen_prediction_count: 4
-state: CURRENT_THROUGH_V031__V032_ENTERING_FREEZE
+state: CURRENT_THROUGH_V032__V033_ENTERING_FREEZE
 ```
 
 ## Current claims
@@ -162,6 +162,10 @@ state: CURRENT_THROUGH_V031__V032_ENTERING_FREEZE
 | RAG-CLM-117 | Chizuru credits Kazuya's bereavement support and says she cares about him, yet explicitly cannot classify the feeling as romantic love and continues to investigate. | OBSERVATION | RAG-E-V031-004, RAG-E-V031-010 | Neither gratitude nor lack of dislike is a completed romantic answer. | ADDED and supported in V031. |
 | RAG-CLM-118 | Cohabitation has a May 13 exit horizon and gives Mini an opportunity for an intrusive private-progress probe; domestic proximity does not supply consent or a dating result. | STRONG_INFERENCE | RAG-E-V031-008 through RAG-E-V031-010 | The planned move and investigation outcome are not yet shown. | ADDED and supported in V031. |
 | RAG-CLM-119 | Sumi now knows that Kazuya and Mini reside with Chizuru, while the volume shows no new Ruka or Mami information move or reaction. | OBSERVATION | RAG-E-V031-002, RAG-E-V031-011 | Absence in V031 does not forecast permanent absence or settle either outsider's motive. | ADDED and supported in V031. |
+| RAG-CLM-120 | Mini answers Chizuru's character question, and the May 13 move horizon produces property clearing and replacement shopping. | OBSERVATION | RAG-E-V032-001, RAG-E-V032-002, RAG-E-V032-005 through RAG-E-V032-007 | Testimony and practical preparation do not determine Chizuru's feeling or change the residence endpoint. | ADDED and supported in V032. |
+| RAG-CLM-121 | Chizuru grants purpose-bound storeroom access and situational bodily proximity, then initiates ordinary shopping and a night errand; these choices expand unpriced contact without a dating agreement. | STRONG_INFERENCE | RAG-E-V032-002 through RAG-E-V032-011 | Local permission, blush, and company cannot be generalized to sexual or romantic consent. | ADDED and supported in V032. |
+| RAG-CLM-122 | Kazuya's apparent declaration during shopping is internal, and his reflections replay Chizuru's earlier uncertain speech rather than opening her present thoughts. | OBSERVATION | RAG-E-V032-009 | Neither he nor the reader receives a new romantic classification from Chizuru in that passage. | ADDED and supported in V032; corrects an initial V032 draft attribution before closure. |
+| RAG-CLM-123 | The birthday coupon remains unredeemed; the closing cafe cut shows Chizuru with a pale-haired companion discussing a belated White Day return. | OBSERVATION | RAG-E-V032-010 through RAG-E-V032-012 | The companion's identity, motive, and effect on the household are unresolved in V032. | ADDED and supported in V032. |
 
 ## Competing hypotheses
 
@@ -606,6 +610,26 @@ These tests were written after V031 was closed and before inspecting any V032 na
 | RAG-PRED-122 | The named May 13 housing exit produces a move preparation, deadline negotiation, schedule change, stated pressure, or revised residence decision. | RAG-E-V031-008 | V032 supplies no practical or stated consequence of the exit horizon. |
 | RAG-PRED-123 | Chizuru's accepted service coupon produces a redemption attempt, specific request, negotiated limit, or explicit decision to defer its use. | RAG-E-V031-007 | V032 contains no mention or consequence of the accepted coupon. |
 | RAG-PRED-124 | The shared-house inquiry produces another direct question, observation, competing interpretation, privacy boundary, or provisional answer between Chizuru, Kazuya, and/or Mini. | RAG-E-V031-004, RAG-E-V031-008 through RAG-E-V031-010 | V032 supplies no observable inquiry or boundary consequence. |
+
+## Adjudicated predictions from the V031 boundary
+
+| Prediction ID | Adjudication | V032 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-121 | SUPPORTED | Mini answers Chizuru's character question and later relays the exchange to Kazuya; RAG-E-V032-001. | His hope is not her verdict. |
+| RAG-PRED-122 | SUPPORTED | Family possessions are removed, appliances are considered for replacement, and May 13 presses Kazuya's thinking; RAG-E-V032-002, RAG-E-V032-005, RAG-E-V032-006. | The move and any changed terms remain pending. |
+| RAG-PRED-123 | DISCONFIRMED IN V032 | Moving help, the spider request, and the night errand occur without invoking or explicitly deferring the birthday coupon; RAG-E-V032-002, RAG-E-V032-010, RAG-E-V032-011. | The accepted token remains available, with no later outcome inferred. |
+| RAG-PRED-124 | SUPPORTED | Chizuru uses Mini's testimony and permits bounded ordinary contact; Kazuya compares his view with her previously stated uncertainty; RAG-E-V032-001, RAG-E-V032-003 through RAG-E-V032-011. | Kazuya's internal conclusion is not a new statement to Chizuru or her answer. |
+
+## Frozen predictions for V033
+
+These tests were written after V032 was closed and before inspecting any V033 narrative image. They use only the V032 boundary and carry no claim about V033's cover, contents, preview, or later events.
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-125 | The cafe conversation opened at the V032 cut produces an identification, substantive exchange, boundary, or stated effect on Chizuru's other ties. | RAG-E-V032-012 | V033 leaves the cafe cut without a substantive or identifying consequence. |
+| RAG-PRED-126 | Chizuru's initiated night errand and Kazuya's renewed attention to her ordinary self produce a direct exchange, further chosen company, a stated limit, or an explicit reinterpretation. | RAG-E-V032-009, RAG-E-V032-011 | V033 gives no observable continuation or correction of this ordinary-contact route. |
+| RAG-PRED-127 | The May 13 housing horizon and removal/replacement work produce a further move preparation, deadline discussion, changed term, or exit consequence. | RAG-E-V032-002, RAG-E-V032-005, RAG-E-V032-006 | V033 supplies no practical or stated consequence of the move horizon. |
+| RAG-PRED-128 | Chizuru's continuing investigation produces another direct question, observation, provisional classification, reasoned deferral, or stated boundary. | RAG-E-V032-001, RAG-E-V032-003, RAG-E-V032-009, RAG-E-V032-011 | V033 contains no observable inquiry or boundary consequence. |
 
 ## Open evidence questions
 

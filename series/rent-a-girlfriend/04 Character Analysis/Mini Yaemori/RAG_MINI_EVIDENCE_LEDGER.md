@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V031; character evidence inspected through V031, with no material V021-V026 conduct."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V032; character evidence inspected through V032, with no material V021-V026 conduct."
 ---
 
 # Mini Yaemori evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 八重森みに
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V031
+inspected_through_volume: V032
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -64,6 +64,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MIN-E024 | MIN-S008 | RAG-E-V030-002 through RAG-E-V030-004 | Third-resident implementation and commentary | Moves belongings into the house, coordinates bath access, and comments on Kazuya's anxious interpretations. | Her practical third-party role becomes enacted residence, not just proposal. | Her romantic diagnosis remains an interpretation, and residence grants no authority over the principals' private answer; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
 | RAG-MIN-E025 | MIN-S009 | RAG-E-V031-003, RAG-E-V031-005 | Birthday co-hosting | Waits at the house with Sumi and Kazuya, improvises a party sign, and helps welcome Chizuru. | Proactive organization can support a chosen social event. | The positive event does not validate her diagnosis of Chizuru's feeling; RAG-MIN-R001, RAG-MIN-R003. |
 | RAG-MIN-E026 | MIN-S009 | RAG-E-V031-008 through RAG-E-V031-010 | Progress pressure and bath intrusion | Presses Kazuya for milestones, enters Chizuru's bath, and demands a simple progress account; Chizuru instead asks her view of Kazuya. | Her role shifts from household support to intimate interrogation and possible testimony. | Intrusion is not authorized by her helpful purpose; testimony and answer are pending; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E027 | MIN-S010 | RAG-E-V032-001 | Answering a requested character question | Describes Kazuya favorably to Chizuru, then reports that conversation to Kazuya. | Moves from unrequested probing to a direct, chosen information role. | The report includes her judgment and cannot reveal Chizuru's final classification; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E028 | MIN-S010 | RAG-E-V032-004 through RAG-E-V032-008 | Shopping participant and quick interpreter | Notices post-storeroom awkwardness, joins the replacement trip, makes date-like and appearance comments, and helps compare goods. | Practical help and intrusive romantic labeling remain intertwined. | Her labels cannot decide the principals' status or authorize proximity; RAG-MIN-R001, RAG-MIN-R003, RAG-MIN-R006. |
 
 ## State-change summary
 
@@ -76,6 +78,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - MIN-S007 — displaced logistical intermediary and invited third housemate: advocates cohabitation, crosses a boundary with a suggested kiss demonstration, arranges the taxi, and later accepts Chizuru's separate invitation into a bounded household.
 - MIN-S008 — active third resident and informal interpreter: moves into the family house, participates in facility coordination, and comments on Kazuya's anxious reading without acquiring authority over Chizuru's answer.
 - MIN-S009 — birthday organizer and intrusive progress witness: helps welcome Chizuru, presses Kazuya for milestones, enters Chizuru's bath, and receives a request for her view of Kazuya.
+- MIN-S010 — requested witness and practical shopping companion: answers Chizuru's question and helps with goods while still interpreting the principals through her romance theory.
 
 ## Written-speech and ordinary-conduct notes
 

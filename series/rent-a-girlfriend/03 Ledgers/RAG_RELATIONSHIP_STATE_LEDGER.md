@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.31"
+version: "1.32"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V031; inspected and closed through V031."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V032; inspected and closed through V032."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V031
-row_count: 175
-state: CURRENT_THROUGH_V031
+inspected_through_volume: V032
+row_count: 178
+state: CURRENT_THROUGH_V032
 ```
 
 ## Records
@@ -217,3 +217,6 @@ state: CURRENT_THROUGH_V031
 | RAG-REL-173 | Chizuru ↔ troupe / Sumi / household | Birthday recipient in professional, friend, and domestic circles | The troupe celebrates after her performance; Sumi brings a separate cake and privately listens; the housemates wait, toast, and give gifts. | Chizuru accepts plural care rather than only Kazuya's imagined exclusive rescue. | Recognition does not determine vocational outcome or romantic classification; RAG-E-V031-001 through RAG-E-V031-007. |
 | RAG-REL-174 | Chizuru ↔ Kazuya | Cohabiting in an unresolved investigation | She credits his bereavement support, receives his performance praise and coupon, but says she cannot yet name romantic love. | Chosen contact and affection become explicit alongside continuing uncertainty. | No mutual dating agreement or coupon redemption; RAG-E-V031-004, RAG-E-V031-006, RAG-E-V031-007. |
 | RAG-REL-175 | Mini ↔ Chizuru | Housemate and advocate pressing for progress | Mini joins her in the bath, asks intrusive questions, and is asked what sort of person Kazuya is. | The intermediary becomes a source Chizuru chooses to consult, even as she resists simplification. | Mini's testimony and Chizuru's result are deferred; RAG-E-V031-009, RAG-E-V031-010. |
+| RAG-REL-176 | Mini → Chizuru / Kazuya | Housemate testimony and relay | Mini answers Chizuru's character question and later tells Kazuya. | The inquiry now includes third-party testimony. | Her view is neither neutral omniscience nor Chizuru's conclusion; RAG-E-V032-001. |
+| RAG-REL-177 | Chizuru ↔ Kazuya / Mini | Temporary household, now with practical shopping | Chizuru requests moving help, invites both residents to replace goods, and eats with them. | Ordinary cooperation acquires material and financial detail. | May 13 still bounds Kazuya's stay; no mutual dating agreement; RAG-E-V032-002, RAG-E-V032-005 through RAG-E-V032-008. |
+| RAG-REL-178 | Chizuru ↔ Kazuya | Chosen night companionship within an unresolved inquiry | After a local spider-help request she invites him to a night errand and shares a small drink and family memory. | Direct, unpriced company expands beyond the three-person shopping trip. | Neither event redeems the coupon or declares romantic status; RAG-E-V032-010, RAG-E-V032-011. |
