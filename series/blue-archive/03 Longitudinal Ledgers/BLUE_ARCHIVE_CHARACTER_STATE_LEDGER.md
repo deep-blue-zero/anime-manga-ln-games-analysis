@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:004; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:005 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:005; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -800,3 +800,7 @@ No new tracked subject or readiness promotion: **21 `PARTIAL_MODEL` / 31 `UNMODE
 - **Azusa/Hasumi/Mashiro:** Mashiro reports capturing Azusa; narrator describes a large tear-gas-storehouse incident and resisted arrest. Azusa's ammunition/torture-training statements are her claims. Hasumi returns and recognizes Sensei, without a broader individual sample.
 
 Hasumi and Mashiro enter `UNMODELED`. Totals **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E005 character-state delta — Koharu's academic bar revealed
+
+Hasumi says Tea Party-authorized Schale teaching permits Sensei to take Hanako and Azusa under the regulations; Koharu objects, then defers. Koharu mocks the remedial club until the narrator identifies her as its fourth member, with three consecutive failing marks and a bar on returning to Justice Realization until grades improve. Her shock and embarrassment are secure; `u:0012` third-person reveal is mislabelled as Koharu and not a voice sample. Hifumi confirms four assembled, asks for effort and pledges her own. Hanako jokes and Azusa claims she could hold out one month in this classroom; neither supplies a study plan or demonstrated ability. Koharu's `死にたい` is situated embarrassment, not a diagnosed enduring intent. No readiness change: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

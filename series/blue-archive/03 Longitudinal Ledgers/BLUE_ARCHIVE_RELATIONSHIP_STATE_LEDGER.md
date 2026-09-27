@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:004; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:005 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:005; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -662,3 +662,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **SENSEI ↔ HIFUMI:** Hifumi confesses missed testing and feels judged; Sensei says she need not apologize to them, accepts a working partnership and follows her plan. Neither absolution from school duty nor successful rescue is implied.
 - **KOHARU ↔ HIFUMI/SENSEI/HANAKO:** Koharu's stranger caution makes the visitors' entry awkward; Hanako's disputed emergence and swimsuit argument draw emphatic objection. No enduring dyad rule or valid sentence follows.
 - **HASUMI/MASHIRO ↔ AZUSA:** Mashiro reports capture and Hasumi arrives with her. Azusa voices resistance/torture expectation; no interrogation, personal motive or student-club interaction yet.
+
+## V003 C001 E005 relationship delta — authorized transfer and exposed peer
+
+- **HASUMI → KOHARU/SENSEI:** Hasumi corrects Koharu's objection, interpreting Tea Party/Schale authority as permitting the two detainees' transfer. Koharu yields to her senior, not to an independently shown rule text.
+- **KOHARU ↔ REMEDIAL PEERS:** Koharu publicly stigmatizes Hanako/Azusa and the “fool” club, then is announced as the fourth member herself. The text shows shock/embarrassment, not apology, reconciliation or permanent hostility.
+- **HIFUMI ↔ FOUR/SENSEI:** Hifumi confirms all four are present and asks Sensei for help; both pledge to try. Hanako addresses her as president, Azusa adds a classroom-holdout boast. No learning plan or durable group trust yet.

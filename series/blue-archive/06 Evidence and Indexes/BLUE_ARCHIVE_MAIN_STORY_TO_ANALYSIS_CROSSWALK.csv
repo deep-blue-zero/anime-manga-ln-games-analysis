@@ -90,7 +90,7 @@ canonical_order,story_id,scope,arc_jp,title_jp,scene_count,source_commit,analysi
 89,BA:main:003:001:002,MAIN_V003_C001_E002,エデン条約編,第2話;補習授業部,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E002_DEEP_READING.md
 90,BA:main:003:001:003,MAIN_V003_C001_E003,エデン条約編,第3話;ティーパーティー,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E003_DEEP_READING.md
 91,BA:main:003:001:004,MAIN_V003_C001_E004,エデン条約編,第4話;補習授業部の生徒たち（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E004_DEEP_READING.md
-92,BA:main:003:001:005,MAIN_V003_C001_E005,エデン条約編,第5話;補習授業部の生徒たち（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
+92,BA:main:003:001:005,MAIN_V003_C001_E005,エデン条約編,第5話;補習授業部の生徒たち（２）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C001_E005_DEEP_READING.md
 93,BA:main:003:001:006,MAIN_V003_C001_E006,エデン条約編,第6話;自己紹介をしましょう！,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 94,BA:main:003:001:007,MAIN_V003_C001_E007,エデン条約編,第7話;試験勉強,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 95,BA:main:003:001:008,MAIN_V003_C001_E008,エデン条約編,第8話;第1次特別学力試験,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,

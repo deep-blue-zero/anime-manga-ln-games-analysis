@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:004; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:005 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:005; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1071,3 +1071,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Hifumi's `やむを得ない事情` becomes an admitted skipped test for a Peroro guerrilla performance; her “schedule error” appeal is her tentative defense, followed by apology. Nagisa's `優等生`/`愛` and “return love” ask recruit a leader whom Hifumi calls average and at risk; do not voice this as Hifumi's unambiguous enthusiasm.
 - Koharu's `人見知り` rebuttal says `知らない相手だったから、警戒`: caution toward strangers, not a secure enduring shyness trait. Hanako's pool/swimsuit syllogism imputes nude swimming to Koharu for provocation, not fact. Koharu's `公共破廉恥罪`/`死刑`/`死罪` is comic punitive rhetoric, not a documented code.
 - Azusa's `道連れ`/`拷問に耐える訓練` are first-person claims under arrest, distinct from narrator `教材用催涙弾`/`約1トン`/`3時間` and `被害多数`. The narrator's `用（即席爆発装置）いて` is malformed, so preserve only the broad IED report. Scene-2 `u:0001` absent; `u:0031-0035`/`0076-0080` are name graphics, `u:0085` next-title card. `u:0030` and `u:0058` are italic Hanako/Koharu text with uncertain staging; five scene-2 choices singleton, including surprise/silence.
+
+## V003 C001 E005 delta — label-quarantined fourth name and comic distress
+
+- Hasumi `規定上は何の問題もありません` is her procedural assertion; Koharu's `凶悪犯`/`悪党`/`変態`/`バカ` are pejorative judgments, not verified offenses or school categories.
+- `scene:001:u:0012` is labelled Koharu while announcing “last is Shimoe Koharu” in third person. The name/reveal is reinforced by narration `u:0020-0022`; exact speaking voice at `u:0012` is not secure. `u:0015-0019` are name-card syllables, not speech.
+- Koharu `死にたい` follows public embarrassment and Hanako's innuendo; preserve acute comic context rather than promoting it to a lasting self-harm state. Azusa `一ヵ月は立てこもれる` is a conditional boast, not a demonstrated capacity. Sensei `頑張ってみるね` and Hifumi `出来るだけ頑張ります` are effort pledges, not outcomes. Three singleton choice groups; `u:0035` next-title card.

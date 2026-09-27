@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:004; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:005 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:005; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -736,3 +736,7 @@ Mika argues `先生` should guide and extend a hand rather than merely instruct 
 ## V003 C001 E004 delta — not a personal absolution or punitive verdict
 
 Sensei learns Hifumi missed a test for a hobby. `choice:001` is silent, and “cold eyes” is Hifumi's reading of them; `choice:002` says her apology need not be directed to Sensei, not that her school obligation vanished. Sensei affirms collaboration and follows Hifumi toward the other three. In the Justice Realization room, Sensei offers a tentative `人見知り` interpretation of Koharu's stranger caution; Koharu disputes it. Surprise/silent choices do not endorse Koharu's capital-punishment joke, validate Hanako's confinement, or judge Azusa guilty of the original suspected violence. No counseling, discipline or academic improvement is yet shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E005 delta — request for students, promise of effort
+
+Sensei asks Hasumi to take Hanako and Azusa to the remedial club; Hasumi says the transfer is permitted under her reading of rules, while Koharu objects. Sensei does not personally adjudicate charges or write a release order in the text. When Hifumi says the four have assembled and asks for help, Sensei's singleton `choice:003` promises to try. This is a bounded educational commitment, not a guarantee of grades, disciplinary pardon, or unlimited Schale command. Koharu's embarrassed `死にたい` and Azusa's holdout boast are not converted by Sensei into a diagnosis or tactical plan. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

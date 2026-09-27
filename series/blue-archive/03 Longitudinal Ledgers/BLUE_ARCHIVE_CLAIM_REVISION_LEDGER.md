@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:004; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:005 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:005; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:006 unopened
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001_E004 active provisional; E005 unopened
+current_sequential_boundary: MAIN_V003_C001_E005 active provisional; E006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1593,3 +1593,13 @@ No new claim ID, standalone model, frozen prediction or side-source admission. T
 - **Other families:** no direct global test.
 
 No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Hifumi's test record, detention process and Azusa's original offense remain OPEN.
+
+## V003 C001 E005 claim delta — return condition and bounded release
+
+- **BA-C001/C016:** Hifumi/Sensei commit effort with the four assembled, not tutoring success or proof the exceptional appointment was fully voluntary.
+- **BA-C002–C004/C007/C010–C011:** Hasumi's rule-permission claim permits transfer in her account; exact regulation/paperwork remains uninspected. Narrator states Koharu's three failing marks and return-to-committee condition, not expulsion or completed removal from school.
+- **BA-C008:** `u:0012` third-person Koharu reveal under a Koharu label is quarantined; narrator name syllables and final title card are not dialogue. Sensei's three choices are singleton.
+- **BA-C019/C020:** conditional institutional belonging becomes a comparison question, not a new Pavane-style generalization.
+- **Other families:** no direct global test.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; exact grade threshold, committee-return timing and educational outcome remain OPEN.

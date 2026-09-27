@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:004; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:005 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:005; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -646,3 +646,7 @@ Nagisa seeks an external adviser/homeroom-like teacher for four underperforming 
 Hifumi says she skipped a test for Peroro; the test record/schedule is not shown. Nagisa appoints her temporary remedial-club president using merit and reciprocal-love rhetoric; Hifumi says the club should dissolve when all four avoid failure. Her expectation is not an inspected dissolution rule. She and Sensei begin visiting the other students.
 
 At Justice Realization's classroom, Koharu guards the space and says Hanako was locked in a cell; Hanako says the door was open. Narration says Hanako was caught walking at school in a swimsuit and was *supposedly* confined; exact present custody/escape is open. Koharu's death-penalty and public-indecency phrases are not a school statute, and Hifumi objects. Hasumi returns; Mashiro reports Azusa caught in the act. Narrator reports Azusa's tear-gas-storehouse explosion, three-hour booby-trap/IED resistance and numerous harms, but the original suspected violent act, injured parties, tribunal and current disposition remain unverified. Both Hasumi and Mashiro have narrow role-only samples.
+
+## V003 C001 E005 institutional delta — four-member club and committee return bar
+
+Hasumi says the Tea Party request and Schale teacher role mean taking Hanako/Azusa is permissible under regulations; no written regulation, release form or adjudication is shown. Koharu's opposition yields to her senior's account. Narrator identifies Koharu as the fourth first-year remedial student, gives three consecutive failing grades and says she cannot return to Justice Realization until her grades improve. This is a stronger status record than E002's later expulsion fear, but not an expulsion finding; threshold, timing and school-wide academic rule remain open. Hifumi says all four are gathered and the real problem now begins. No completed study plan or exam result.

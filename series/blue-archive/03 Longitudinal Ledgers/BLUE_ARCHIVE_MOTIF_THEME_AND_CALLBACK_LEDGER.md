@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:004; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:005 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:005; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -816,3 +816,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **Peroro enthusiasm costs schooling:** Hifumi's hobby moved from V001 expertise/affinity to an exam-skipping choice, then embarrassment. A charming pastime is neither morally erased nor exempt from consequence.
 - **Reciprocity in a temporary club:** Nagisa's praise/`愛` frames Hifumi's presidency as return of care. Hifumi's objection and temporary clarification complicate whether belonging/leadership is freely chosen; compare Pavane recognition only as a question, not a copied rule.
 - **Control versus care:** Justice Realization detention and Azusa's violent arrest interrupt the tidy “students needing love” phrasing of E003. Punitive jokes are not law, and Hanako's unlocked-cell account is unresolved; later treatment must determine whether care and control coexist responsibly.
+
+## V003 C001 E005 motif / callback delta — stigma rebounds on the enforcer
+
+- **The fourth member reveal:** Koharu condemns remedial membership as shameful immediately before her own failing marks and return-to-committee bar are narrated. The juxtaposition tests status stigma, not a proven moral conversion.
+- **Conditional belonging:** her Justice Realization return depends on improved grades. This echoes prior school-recognition concerns without equating Trinity discipline to Pavane's club approval.
+- **Help as effort, not instant rescue:** Hasumi's procedural opening and Hifumi/Sensei pledges assemble the group, but the text withholds the educational method and result.
