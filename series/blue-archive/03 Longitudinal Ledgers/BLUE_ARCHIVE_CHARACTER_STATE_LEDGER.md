@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:009; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:010 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:010; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 ## Current boundary
 
-Through `BA:main:003:001:009` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:010` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Entity | Current state | Material evidence / transition | Confidence | Source |
 |---|---|---|---|---|
@@ -826,6 +826,15 @@ Narrator confirms camp is decided, not carried out. No new subject/readiness pro
 - **Nagisa:** discusses solitary hobby chess, then explicitly says the club was made to expel students, claims ordinary checks can be bypassed through a hastily adjusted club and some Schale authority, alleges an unidentified treaty saboteur among the four, and asks Sensei to find them. She admits concentrating suspects for possible group expulsion, apologizes, and hints future exam conditions could change while swearing her side did not manipulate the first test. Purpose/intent are direct self-disclosure; legality, intelligence and oath truth are not independently checked. One hobby and one institutional crisis do not support a broad private model.
 - **Sensei:** asks about the terminal sanction and reason, hears the treaty/security case, and states they will handle it in their own way. A sympathetic reading of Nagisa's disclosure is not acceptance of the collective-disposal plan; no suspect finding or student rescue follows.
 - **Hifumi/four students/Seia/Mika:** absent from this conversation. E008 scores still stand, but no club member is identified as traitor or shown to know the plan. Seia's earlier treaty verdict and Mika's workload account remain distinct situated claims.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E010 character-state delta — camp routines before second test
+
+- **Hifumi:** says the group will live/study in the Trinity annex for a week until exam two, corrects Azusa's battle-camp interpretation, and accepts Hanako's cleaning-first plan with a pacing rather than cramming rationale. These are leadership actions, not demonstrated teaching or score gains.
+- **Azusa:** scouts and proposes a hypothetical defense, lists preparation and explosive materials, but also directly says she will study, pass the second sitting if possible and avoid burdening peers. Threats, gear and follow-through remain unverified.
+- **Hanako/Koharu:** Hanako offers a specific dust/health cleanup reason, appears in swimwear, then narrator confirms she changes to gym clothes after Koharu protests. Koharu's `死刑`/`アウト` and imagined co-sleep are situated objections, not law or actual teacher conduct. Label inversions limit some individual lines.
+- **Sensei:** offers week-long availability and then encourages peer interaction with a call-if-needed boundary; no exact sleeping place or second-exam impact shown.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 

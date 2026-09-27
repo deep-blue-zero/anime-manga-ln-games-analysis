@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:009; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:010 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:010; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:011 unopened
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001_E009 active provisional; E010 unopened
+current_sequential_boundary: MAIN_V003_C001_E010 active provisional; E011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1644,3 +1644,13 @@ No new durable claim ID, standalone model, frozen prediction or side-source admi
 - **Other families:** no direct global test.
 
 No standalone model, frozen prediction or side-source admission. Backfill **DEFER**; suspected actor, treaty/ETO reality, actual procedure and future exam control remain OPEN.
+
+## V003 C001 E010 claim delta — ordinary camp care within concealed institutional risk
+
+- **BA-C001/C016 — STRENGTHEN locally:** Sensei offers availability without occupying the students' shared room or directing their entire routine; Hanako proposes cleanup and Hifumi coordinates it. Exact lodging and learning effect remain unshown.
+- **BA-C002–C004/C007/C010–C011/C021 — PRESERVE/COMPLICATE:** E008's camp decision now produces a one-week annex stay until exam two. Hifumi's student-facing account is study-oriented; no member is shown knowing E009's expulsion design or alleged traitor. Camp arrival does not implement a disciplinary bypass or validate Nagisa's intelligence.
+- **BA-C008 — STRENGTHEN:** both scenes lack represented `u:0001`, scene-2 Hifumi `u:0003-0004` duplicates after a two-option choice, and several role labels invert. Azusa's hypothetical threat plan and mine claims are not attack/deployment facts; Koharu's punitive rhetoric remains comic.
+- **BA-C019/C020 — PRESERVE:** shared-place care is only a contrast question, not a direct Pavane mechanism.
+- **Other families:** no direct global test.
+
+No new claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; camp outcome, security reality and second exam remain OPEN.

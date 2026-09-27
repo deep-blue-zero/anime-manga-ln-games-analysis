@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:009; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:010 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:010; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:009` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:010` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -846,3 +846,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **Love/help versus administrative elimination:** Nagisa's E003 “students needing love” contrasts with her explicit account that the club was designed to bypass ordinary checks and expel suspected students. This is an internal reversal in her representations, not proof every student is guilty or that the bypass is lawful.
 - **Chess/shared boat/box:** an asymmetric solitary chess position, `呉越同舟` antagonistic peace and a box of students create a field of strategic container metaphors. Only the treaty boat and disposal box are explicitly interpreted by Nagisa; no piece-to-person chess key is given.
 - **Teacher care as leverage:** Nagisa expects Sensei will not abandon students while hinting she can change exam conditions. Their `私のやり方` answer sets a possible agency boundary but has not yet protected anyone.
+
+## V003 C001 E010 motif / callback delta — care of a shared place under a concealed threat
+
+- **Support space versus hidden disposal design:** the annex is materially habitable and the students plan practical care there, while E009's institutional danger remains audience/Sensei knowledge. The visible camp is neither proof of benign governance nor proof the students know they are suspects.
+- **Preparation languages:** Azusa maps the site as a defensible position, Hanako as a health/cleaning problem, and Hifumi as a one-week pacing task. Distinct operational imaginations coexist without any observed attack or study result.
+- **Bounded adult proximity:** Sensei offers help on call while the students negotiate room use and clothing. This is a modest agency-preserving pattern, not a completed solution to the exam/expulsion threat.

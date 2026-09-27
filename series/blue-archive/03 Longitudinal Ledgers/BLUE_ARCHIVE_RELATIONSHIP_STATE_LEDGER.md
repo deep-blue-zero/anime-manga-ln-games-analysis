@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:009; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:010 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:010; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ Track only relationships or ensembles with actual narrative state. Co-occurrence
 
 ## Current boundary
 
-Through `BA:main:003:001:009` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:010` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Relationship / ensemble | Current state | Last material transition | Confidence | Evidence |
 |---|---|---|---|---|
@@ -693,3 +693,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **NAGISA → SENSEI:** she admits using Sensei in building a group “box,” apologizes, invites rebuke, then asks for the unknown traitor to be found. Disclosure and apology are real, but subsequent exam leverage prevents treating them as unconditional trust or repair.
 - **SENSEI → NAGISA/STUDENTS:** Sensei raises the terminal risk, acknowledges that disclosure complicates the idea of pure covert use, then reserves an independent approach. Neither suspect-hunting consent nor completed protection of the four is shown.
 - **NAGISA → FOUR/HIFUMI/MIKA:** Nagisa treats the four as possible suspects collectively; none is identified or present. She guesses Hifumi leaked the danger and values that tendency; Hifumi's exact knowledge of the whole plan is unshown. Mika's absence/chess aside says little about what she knew or approved.
+
+## V003 C001 E010 relationship delta — group practice without full trust claim
+
+- **AZUSA ↔ HIFUMI/PEERS:** Hifumi counters Azusa's combat-camp model; Azusa explicitly pledges second-exam study and no burden on others while retaining a security-preparation register. No peer has accepted the imagined defense plan, and the listed mines are not deployed.
+- **HANAKO ↔ HIFUMI/KOHARU:** Hanako's cleanup proposal is adopted by Hifumi and tolerated by Koharu; later Koharu protests Hanako's swimsuit and narrator confirms Hanako changes. One negotiated boundary does not prove either durable intimacy or antagonism.
+- **SENSEI ↔ GROUP:** Hifumi expects Sensei's week-long presence and receives a supportive singleton reply; Sensei then asks the students to connect with each other and call if needed. Exact room arrangement and availability in practice remain open.

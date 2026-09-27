@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:009; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:010 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:010; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:009` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:010` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -1101,3 +1101,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Nagisa's E003 `愛を必要としている` description of remedial students now meets her own `生徒を退学させるために`, `箱` and `ゴミ`/whole-box disposal talk (`u:0019,0036-0037,0048`). These are her admissions/metaphors, not objective “trash” status or proof any one student betrayed Trinity. Her `ごめんなさい` and permission to revile her recognize harm but do not erase the threat.
 - Italic `u:0022-0028` carries Nagisa-framed treaty/ETO account and `呉越同舟` shared-boat metaphor. Keep its status as associated exposition; a treaty text, working ETO or guaranteed deterrence is not inspected. Her `恐らくは唯一` marks a belief/argument, not logical necessity.
 - `手のひらの上` plus examples of suddenly changed scope, venue or difficulty are conditional leverage; `如何なる操作も行っておりません` is her sworn first-exam denial, not independent certification. Twelve singleton Sensei choice groups, including silence, do not create a multi-option moral branch; `私のやり方` is a bounded self-direction claim. `u:0061` is a next-title card.
+
+## V003 C001 E010 delta — combat diction, teasing and role-shift quarantine
+
+- Azusa's `偵察`/`兵舎`/`集中訓練`/`任務`/`敵襲` frame the academic camp as a security mission, while `迷惑は、かけたくない` expressly limits her aim to studying and not burdening peers. Her mine/IED list is self-report, not a deployed arsenal. Hifumi's `戦いに来たのではなく、勉強をしに` directly contests the framing.
+- Hanako's naked/shared-sleep teasing and later health-based `お掃除` proposal are separate registers, neither a demonstrated assault nor proof that two points reflected deliberate failure. Koharu's `エッチなのは禁止！死刑！！` and `アウト` mark protest/hyperbole, not campus penal code.
+- Scene 1 `u:0010-0011` and `u:0067-0068`, scene 2 `u:0005-0010` have role/label tension. Both scenes lack `u:0001`. Scene-2 `choice:001` has two alternatives followed by identical Hifumi `u:0003-0004` convergence, not two separate approvals. Narrator `scene:002:u:0021` confirms Hanako changes into gym clothes; `u:0022` is title card.

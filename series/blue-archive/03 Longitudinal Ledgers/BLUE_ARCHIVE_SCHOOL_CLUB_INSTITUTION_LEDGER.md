@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:009; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:010 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:010; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:009` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:010` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -666,3 +666,7 @@ Hifumi reports a pass line of at least 60/100; narrator records Hifumi 72/pass, 
 ## V003 C001 E009 institutional delta — claimed due-process bypass and treaty security
 
 Nagisa says ordinary Trinity failure/suspension/expulsion rules require checks and discussion, but the hastily made remedial club was adjusted to ignore them through some borrowed Schale authority and created to expel its members after repeated joint failure. Her procedural account and purpose are explicit self-disclosure, not an independently inspected rule or completed expulsion. She alleges one unidentified treaty saboteur among the four, gathered possible suspects in a disposable group and proposes that Sensei find the person; no evidence/identity or hearing is shown. Her account of a Trinity–Gehenna non-aggression treaty and proposed neutral ETO intervention is not signed treaty text or operating institution. She says exams lie under Tea Party control and cites possible future changes of range, site and difficulty, then swears her side did not manipulate the first sitting. No future change or independent audit is shown. E008's camp decision stands; no camp contents or second test yet.
+
+## V003 C001 E010 institutional delta — annex occupancy and second-test horizon
+
+The group arrives at Trinity's long-unused annex camp. Hifumi says they will stay a week until the second special academic exam, identifies usable beds, gym/showers, a walkable main campus and apparent dining equipment, and organizes cleaning before study. These are situated observations/plans, not a facility audit, finished cleaning or grade improvement. Sensei is expected to stay for the period; the precise lodging assignment is not printed. The narrator confirms Hanako changes from swimwear to gym clothes after a group dispute. No expelled student, treaty investigation or altered exam appears; Nagisa's E009 design remains unannounced to the group in this unit.
