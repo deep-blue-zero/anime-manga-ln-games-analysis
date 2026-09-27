@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_CHECKPOINTS_PLUS_C004_E001_E025
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_CHECKPOINTS_PLUS_C004_E001_E026
 generation: V1
-version: "2.37"
+version: "2.38"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C003 through checkpoints, then BA:main:003:004:001–025 provisionally; 174/310 main units; side-source classes unreviewed; BA:main:003:004:026 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C003 through checkpoints, then BA:main:003:004:001–026 provisionally; 175/310 main units; side-source classes unreviewed; BA:main:003:004:027 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:003:004:026
+next_unopened_main_unit: BA:main:003:004:027
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:004:026
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V003_C004_E025` provisional boundary, inheriting canonical `MAIN_V003_C003`:
+This index answers four questions at the `MAIN_V003_C004_E026` provisional boundary, inheriting canonical `MAIN_V003_C003`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025 and V003 C004 E001-E025;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025 and V003 C004 E001-E026;
 - current checkpoint: `MAIN_V003_C003`; prior C001/C002 checkpoint basis remains lineage;
-- main-story coverage: `174 / 310` canonical units;
+- main-story coverage: `175 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:003:004:026`.
+- next unopened main unit: `BA:main:003:004:027`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,15 +74,16 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` through C004 E025; life-responsibility counsel, returns for Mika, card drawn only | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Seia | `ANALYZED` through C004 E019; meets unnamed perceiving voice within daydream-like place | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Koharu | `ANALYZED` through C003 E025; reports new remedial recurrence without expulsion, administrative record unseen | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hanako | `ANALYZED` through C003 E025; joins same-four remedial recurrence with loneliness joke | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Azusa | `ANALYZED` through C004 E018 by Saori report; original reconciliation role later spy/attack, not present | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Mika | `ANALYZED` through C004 E025; reports dawn endurance, sees Sensei return and card drawn | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` through C004 E026; directly found with Mika by Justice, plans hearing attendance | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Seia | `ANALYZED` through C004 E026; directly awake/present, reports unnamed daydream deal and mobilizes rescue | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Koharu | `ANALYZED` through C004 E026; quietly sends preserved Mika accessories via Ichika | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hanako | `ANALYZED` through C004 E026; finds damaged ancient catacomb map with Ui, restoration unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Ui | `ANALYZED` in C004 E026; reluctant archive map-restoration request, result unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Azusa | `ANALYZED` through C004 E026; supplies route patterns, asks rescue of former Squad as family | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Mika | `ANALYZED` through C004 E026; directly rescued/reunited with Tea Party, hearing still ahead | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Marie | `ANALYZED` through C003 E012; receives Hanako's tentative Justina/catastrophe synthesis | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hinata | `ANALYZED` through C003 E008; joins rear guard after identifying mimesis-looking foes | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Sakurako | `ANALYZED` through C004 E002; shares inquiry gaps, says Hanako pact ended and proposes route witnesses | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sakurako | `ANALYZED` through C004 E026; coordinates rescue and asks Azusa to wait | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Saori | `ANALYZED` through C004 E025; offers custody, questions own future and reports first felt permission to exist | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hiyori | `ANALYZED` through C004 E025; supports Saori, reacts to Sensei departure | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Misaki | `ANALYZED` through C004 E025; protests Saori's lone punishment and infers Sensei seeks Mika | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -92,8 +93,8 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Golconda | `ANALYZED` through C004 E024 directly present; claims bomb maker/untested effect and retrieval | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Decalcomania | `ANALYZED` in C004 E005 dream frame; italic interjection, identity relation to Golconda unresolved | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Mine | `ANALYZED` through C004 E025; enters Arius, orders treatment and declares rescue | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Tsurugi | `ANALYZED` through C003 E020; directly present as Hina accepts Justice aid, no medical clearance | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hasumi | `ANALYZED` through C003 E020; offers aid and recalls prior work beside Chinatsu | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Tsurugi | `ANALYZED` through C004 E026; directly in rescue field, wall-breaking context limited | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hasumi | `ANALYZED` through C004 E026; routes Justice and orders Sensei/Mika withdrawal | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sena | `ANALYZED` through C003 E018; meets Sensei, confirms first adult treatment worked enough for encounter | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Mashiro | `ANALYZED` through C003 E004; notes fatigue, states Koharu still remedial-club assigned and volunteers for callout | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Makoto | `ANALYZED` through C003 E025; italic complaint of deception and unnamed retaliatory request, no action | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -105,7 +106,7 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Serina | `ANALYZED` through C004 E025; responds to Mine's treatment mission, motto labels conflict | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Suzumi | `ANALYZED` in C003 E011; flashbang intervention and school-blind patient-protection statement | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Reisa | `ANALYZED` in C003 E011; brief vigilante-ace call to Suzumi, no joint action | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Ichika | `ANALYZED` in V003 C002 E005-E006 calls; narrows raid report, says Tsurugi launched and committee members pursue | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Ichika | `ANALYZED` through C004 E026; finds Sensei/Mika, escorts and delivers Koharu's accessories | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Junko | `ANALYZED` through V003 C002 E011; reports Gourmet escape/pursuit remotely and later cheers route progress | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Akari | `ANALYZED` through V003 C002 E011; accompanies escaped Haruna and falsely calls Fuuka's seized vehicle a willing loan | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Haruna | `ANALYZED` through V003 C002 E011; guides party but re-coerces Fuuka and recasts plea for release as cheering | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -156,7 +157,7 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Iori | `ANALYZED` through C003 E021; notes Ako/Ayane reunion after western-move assent | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Ako | `ANALYZED` through C003 E021; offers Abydos opponent-analysis data, receipt and accuracy unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hina | `ANALYZED` through C003 E020; directs westward move and accepts Justice/Abydos aid | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Nagisa | `ANALYZED` through C004 E004; narratively receives Mika/Seia attendance plan and thanks Sensei | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Nagisa | `ANALYZED` through C004 E026; mobilizes for Mika and directly reunites, hearing ahead | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Black Suit (role actor) | `ANALYZED` through C004 E005; earlier Abydos bargaining plus dream-frame preference to recruit Sensei, not eliminate them | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kaiser director (role actor) | `ANALYZED` in C001 E012; C002 E010-E011 integrated offices, occupation, defeat/aftermath | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Shiba Seki master (role actor) | `ANALYZED` in C001 hospitality/destruction; C002 E003 repair, E017 stall reopening, E020 work continuity | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -168,9 +169,10 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | Subject | State / development | Decision path | Directed relationships | Institution / role | Ordinary life | Written Japanese | Crisis / pressure | Negative constraints |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | Sensei | H for structural changes; private biography GAP | H within declared choice families | M | H | L | SPECIAL | H | H |
-| Seia | M; treaty frame, dream-framed interpretation and E025 present social return | L; proposes talk despite unprovable hearts | M; Sensei/Nagisa/Mika contact | L; Tea Party role, formal remit thin | GAP | M; modal and philosophical register | M; prior sleep report, now named/directly speaking | H; exact awakening/health, foresight and relationship repair unverified |
+| Seia | M; treaty frame, dream-framed interpretation and C004 E026 direct waking return | M; mobilizes rescue after an undisclosed daydream deal | M; Sensei/Nagisa/Mika contact | M; Tea Party rescue coordination, formal remit thin | GAP | M; modal and philosophical register | M; awake/present but still coughing | H; deal terms, medical recovery, foresight and relationship repair unverified |
 | Koharu | M; prior despair countered by 91 pass, now illness reported | M; prior exam effort, no E004 decision | M; Hasumi thinks of her, Mashiro knows assignment | M; still remedial club, Justice return not shown | M; prior camp/visit hope | M; absent in E004 | M; overnight strain and reported illness | H; grade return, direct health and private breadth open |
 | Hanako | M; no-withdrawal, Mika theory and document-work complaint | M; help actually performed for days | M; club, Sisterhood and adversarial Mika | M; pass plus practical Sisterhood work | M; teasing/outing desire | M; complaint under label inversion | M; crisis then tiring aftermath | H; work terms, Mika motive and private breadth open |
+| Ui | L; reluctance at late request | L; considers Hanako's restoration request, result absent | L; Hanako archive interaction only | L; old-book/library expertise addressed, affiliation unaudited | GAP | L; anxious hesitation and questions | L; urgent map task | H; actual restoration, skill breadth, relationships and ordinary/private baseline absent |
 | Azusa | M; defection, 97 pass and false-death account | M; claims coordinated decoy to fool Squad | M; club/Hanako/Seia-Mine by report | M; Sakurako declares formal Trinity status | M; wants learning/places/friend time | M; `vanitas` and inquiry under label inversion | M; explosion/defense/exam | H; blast harm, inquiry and Arius pursuit open |
 | Mika | M; anti-peace plan, prison self-account and contested hidden motive | M; refuses Sensei visits, resists Hanako interpretation | M; Nagisa/Hanako confrontation and Seia doubt | M; direct confinement, process unknown | L; prison comforts no broad baseline | M; self-accusation/denial tension, labels cautioned | M; confession, surrender and pressure | H; intended harm, deeper motive, process and repair unresolved |
 | Marie | M; retention wish and apology now explicit | L; sought Sakurako's aid for Hanako | M; Hanako/Sakurako and Sensei contact | L; Sisterhood member, authority limited | GAP | M; secure caring lines amid some label conflict | L; aid bargain/postmortem | H; precise official authority and private baseline open |
@@ -261,9 +263,10 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Subject | Knowledge/state clarity | Public/private and relationship breadth | Humor/play coverage | Diagnostic current routes |
 |---|---|---|---|---|
 | Sensei | structural choice/`心の声` distinction persists; C003 E003 hypothetical motives and two-option trust choice do not verify Mika's heart | Hifumi credits local command; Mika reports refused visits; trust is future-facing ethical posture | Care/play, ethical objection, club-protection and responsibility under uncertainty | P; C1 E005/E013; C2 E012/E016/E017/E020; V002 C1 E010/E012/E013/E019; V002 C2 E002-E003/E009-E012; V003 C002 E007-E019; C003 E001-E003 |
-| Seia | Treaty/paradise frame; E021 retracts forced proof demand, E025 proposes talk | Directly addressed and greets Nagisa/Mika in E025; clinical awakening still unspecified | Prophecy/fatalism and `それでも` claims remain hers | V003 C001 E001; C002 E018/E020; C003 E001/E021/E025 `scene:001:u:0037-0047` |
+| Seia | Treaty/paradise frame; C003 E021 retracts forced proof demand; C004 E026 awake rescue organizer | Directly reunites with Mika/Nagisa; undisclosed daydream deal and cough limit mechanism/health | Prophecy/fatalism and `それでも` claims remain hers | V003 C001 E001; C002 E018/E020; C003 E001/E021/E025; C004 E026 `scene:001:u:0022-0051` |
 | Koharu | Third official 91/pass; E022 uses certified pass/effort to reject retroactive negation | Peer defense of Azusa; committee return not shown | 100-point pledge not required for success | V003 C001 E002-E011; C002 E006-E019; C003 E022 `scene:001:u:0015` |
 | Hanako | Third official 100/pass, no-withdrawal, and E003 Mika-motive conjecture | E022 directly denies Saori can erase Azusa's acquired life | Nudity joke is false policy; psychological theory not mind access | V003 C001 E002-E016; C002 E002-E019; C003 E001-E003/E022 `scene:001:u:0014` |
+| Ui | Old catacomb map identified but damaged; restoration only requested | Hanako asks for help, no completed product | Nighttime reluctance is one context, not a global trait | V003 C004 E026 `scene:001:u:0068-0080` |
 | Azusa | Third official 97/pass; official Trinity status; E022 renewed-struggle resolve, not result | Saori threatens her separate life; Hanako/Koharu defend it | `Vanitas`/`それでも` not killer identity; decoy explosion still has cost | V003 C001 E004-E017; C002 E002-E019; C003 E001-E002/E022 `scene:001:u:0006-0017` |
 | Mika | E017 admission persists; E003 self-accusation/no-lethal-order tension and Hanako challenge | Nagisa/Hanako visits, Sensei visits refused by her report; no repair | Prison banter and self-protective simplification cannot prove full motive | V003 C001 E002-E003/E017; C002 E001/E017-E018/E020; C003 E002-E003, esp. E003 `scene:001:u:0002-0147` |
 | Marie | E002 intermediary, E018 peace invocation; C003 retention appeal and apology | Seeks Sakurako aid to keep Hanako at Trinity | Caring register situated, some adjacent labels uncertain | V003 C002 E002/E018; C003 E001 `scene:002:u:0031-0052` |
@@ -352,9 +355,10 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Subject | Current readiness | Standalone model | Strongest currently supported use | Material blockers |
 |---|---|---|---|---|
 | Sensei | `PARTIAL_MODEL` | `NONE` | local support, consent check and choice-conditioned trust under uncertainty | Teaching causality, actual future visits, accountability handling and broader protection open. |
-| Seia | `UNMODELED` | `NONE` | treaty frame, E021 proof-demand revision and E025 present talk invitation | Foresight, exact historical exchange, clinical awakening and successful repair unverified. |
+| Seia | `UNMODELED` | `NONE` | treaty frame, proof-demand revision and C004 direct waking rescue organization | Daydream deal terms, clinical recovery, foresight and successful relationship repair unverified. |
 | Koharu | `UNMODELED` | `NONE` | final official 91/pass after distress and procedural loss; mediated Hasumi encouragement | Committee return, administrative repair and private baseline unresolved. |
 | Hanako | `UNMODELED` | `NONE` | no-withdrawal, 100/pass, Sisterhood help and self-corrected Mika probing | Mika inner motive, repaired secrecy breach, future duties and private breadth open. |
+| Ui | `UNMODELED` | `NONE` | directly speaking archive/map assistance request | No completed restoration, independent decision breadth, ordinary/private or performed voice. |
 | Azusa | `UNMODELED` | `NONE` | defection, 97/pass, fake-death account and Sakurako's formal-student declaration | Blast harm, inquiry disposition, Arius pursuit and durable safety open. |
 | Mika | `UNMODELED` | `NONE` | coup/attack admissions, prison self-account and resistance to Hanako theory | Intent level, hidden motive, legal process, repair and private breadth unverified. |
 | Marie | `UNMODELED` | `NONE` | intermediary, Hanako retention plea and apology | Some exact labels, authority and private baseline unverified. |
@@ -450,6 +454,7 @@ The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Mo
 | Seia | U | U | U | U | U |
 | Koharu | U | U | U | U | U |
 | Hanako | U | U | U | U | U |
+| Ui | U | U | U | U | U |
 | Azusa | U | U | U | U | U |
 | Mika | U | U | U | U | U |
 | Marie | U | U | U | U | U |
@@ -530,7 +535,7 @@ The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Mo
 | Kaiser director (role actor) | P (creditor/command) | U | U | P (leverage/threat) | P (administrative threat) |
 | Shiba Seki master (role actor) | P (hospitality) | P (service encounter) | P (community contact) | U | P (service/reassurance) |
 
-For **all 86 currently tracked subjects**, romance/dating, crossover, and general unfamiliar-group extrapolation remain `UNMODELED`. Public performance is partial only for Aru's evidenced PS68/outlaw persona; other performance settings are unsupported. Ethical-decision readiness is partial only for the named institutional, boundary, care or coercion mechanisms, never an unrestricted moral algorithm. No subject has broad private/MomoTalk readiness or performed-voice readiness.
+For **all 87 currently tracked subjects**, romance/dating, crossover, and general unfamiliar-group extrapolation remain `UNMODELED`. Public performance is partial only for Aru's evidenced PS68/outlaw persona; other performance settings are unsupported. Ethical-decision readiness is partial only for the named institutional, boundary, care or coercion mechanisms, never an unrestricted moral algorithm. No subject has broad private/MomoTalk readiness or performed-voice readiness.
 
 ## 6. Evidence concentration and sampling bias
 
@@ -1418,3 +1423,9 @@ Routing: [V003 C004 E024 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 Sensei reports Beatrice escaped and only **expects** no further harm. Atsuko offers a tentative mask/protection-device explanation for her prior bomb survival. Saori offers official custody, over-totalizes blame and admits no considered likes/future; Sensei distinguishes wrongdoing from deserved child suffering and directs her to find responsibility for her own life. Saori reports first believing she may exist. Mika says she endured until dawn, injured and fearful of no rescue value; Sensei returns and takes out an adult card, with no use/effect printed. Arius soldiers report Trinity entry through many catacomb openings, while Mine directly arrives, orders treatment of Arius students/future wounded and declares rescue of Sensei/Mika. These are entry and orders, not completed liberation or medical care. No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 65 `UNMODELED` across 86**, none operational/validated. No standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E026 unopened.
 
 Routing: [V003 C004 E025 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E025_DEEP_READING.md) → `BA:main:003:004:025`, two scenes, 139 visible numbered units and twelve Sensei choice groups (one paired). Coverage is **174 / 310**.
+
+## 147. V003 C004 E026 provisional coverage delta
+
+Seia directly appears awake, says an unnamed daydream encounter/small deal preceded her mobilization, and reports Nagisa's willingness to give up power for Mika; partner, terms, mechanism, medical recovery and actual authority transfer remain unknown. Ichika/Justice find and secure Sensei/Mika via Seia-guided catacombs. Azusa supplies changing-route knowledge and asks rescue of former Squad as family despite wrongs. Hanako and newly speaking Ui locate a damaged old Justina map and request restoration, not its completed product. Koharu secretly preserved Mika's accessories, which Ichika delivers; Mika and Seia/Nagisa express love/apology under some label inversions. Hearing is still upcoming, with no verdict. Ui adds one narrow `UNMODELED` subject: **21 `PARTIAL_MODEL` / 66 `UNMODELED` across 87**, none operational/validated. No standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E027 unopened.
+
+Routing: [V003 C004 E026 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E026_DEEP_READING.md) → `BA:main:003:004:026`, one montage scene, 145 visible numbered units and one singleton Sensei choice. Coverage is **175 / 310**.

@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–025; BA:main:003:004:026 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–026; BA:main:003:004:027 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1413,3 +1413,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Teacher becoming thinkable:** Squad's account of Saori's skills and Sensei's tentative teacher image reverse Beatrice's corrupted education, without establishing an occupation.
 - **Princess rescued twice:** Mika's earlier self-exclusion meets Sensei's return and inward “precious princess” address; card retrieval signals readiness, not proven rescue mechanics.
 - **Rescue includes opponents:** Mine explicitly extends treatment to Arius girls and future battle casualties, challenging a simple enemy-only operation while action remains pending.
+
+## V003 C004 E026 motif / callback delta — many hands light the way
+
+- **Reciprocal rescue:** Seia says they must light Sensei's path too; Justice, Sisterhood, Rescue Knights, Azusa, Hanako/Ui and Koharu supply different parts of Mika/Sensei's route. None alone owns the result.
+- **Family across guilt:** Azusa asks care for former Squad while acknowledging serious wrongs, extending learned friendship without erasing history.
+- **Saved ornament:** Koharu's rescued accessories materially return something Mika believed wholly burned, a small care act distinct from pardon or hearing outcome.
+- **Hearing after embrace:** Mika/Seia/Nagisa's affectionate apology occurs before the hearing, keeping interpersonal repair and institutional accountability on separate clocks.

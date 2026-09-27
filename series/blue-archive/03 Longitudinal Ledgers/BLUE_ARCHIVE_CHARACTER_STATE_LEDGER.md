@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–025; BA:main:003:004:026 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–026; BA:main:003:004:027 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,17 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E026 character-state delta — coalition returns Mika
+
+- **Seia:** directly awake/present and organizing rescue, reports an unnamed daydream encounter and small deal without terms. Her cough/medical condition is not fully cleared. She comes to Mika, urges reciprocal help for Sensei. `UNMODELED`.
+- **Mika/Nagisa:** Mika is directly found/secured by Justice, reunites with Seia/Nagisa, expresses love and apology, receives saved accessories and asks treatment/preparation before hearing. Nagisa joins rescue and offers apology, but exact adjacent labels are unstable. No hearing result or full repair. Both `UNMODELED`.
+- **Ichika/Hasumi/Tsurugi:** Ichika directly finds/escorts Sensei/Mika and delivers Koharu's items; Hasumi commands route/withdrawal and Tsurugi appears in force. No injury/force outcome audit. `UNMODELED`.
+- **Azusa/Hanako/Koharu:** Azusa supplies catacomb patterns and asks rescue of Atsuko/other Squad as former family; Hanako locates an old map with Ui; Koharu preserved Mika's belongings and routes them through Ichika while acknowledging remedial-club assignment. All `UNMODELED`.
+- **Ui:** first direct, self-identifying-by-Hanako archive conversation; responds reluctantly to a request to restore a damaged catacomb map. Restoration not shown. New narrow `UNMODELED`.
+- **Sensei:** is found/secured by Justice and intends to attend Mika's hearing; now recipient of student mobilization, not sole rescuer. `PARTIAL_MODEL`.
+
+Readiness becomes **21 `PARTIAL_MODEL` / 66 `UNMODELED` across 87**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C004 E027 unopened.
 
 ## V003 C004 E025 character-state delta — chosen life and rescue return
 

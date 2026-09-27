@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–025; BA:main:003:004:026 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–026; BA:main:003:004:027 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -979,3 +979,7 @@ Beatrice herself protests that her ritual was interrupted and claims intact Barb
 ## V003 C004 E025 institutional delta — accountability offer, district entry
 
 Saori names GSC, Trinity and Correction Bureau as possible places to send her; no authority accepts or issues a disposition. Sensei reports Beatrice fled and expects no repeat harm, but Atsuko's broader “all oppression gone” statement is participant judgment, not audited governance transfer. Justice troops are reported/directed through multiple Arius catacomb entrances; Mine reaches the district, cites Seia's rescue instruction, orders Serina/Hanae to treat Arius students and intended future casualties, and declares a liberation/rescue mission. Entry and orders are real, not completed liberation, treatment or Mika extraction. Atsuko's mask-device mechanism is a hypothesis, not a certified safety protocol.
+
+## V003 C004 E026 institutional delta — coalition headquarters, hearing ahead
+
+Justice directly finds Sensei/Mika and Hasumi orders a secured route; Nagisa names an Arius restoration-operation headquarters. Seia is awake and reports mobilizing Sisterhood, Rescue Knights and Justice after an unnamed daydream deal; Nagisa's willingness to surrender authority for Mika is Seia's report, not an enacted office transfer. Azusa contributes changing-route knowledge; Hanako and newly speaking Ui locate a damaged old Justina map, with restoration unshown. Koharu says she remains in the remedial club while secretly returning seized/burn-surviving accessories. Mika's hearing is explicitly imminent, not conducted, and no Trinity status ruling or school reintegration is printed.

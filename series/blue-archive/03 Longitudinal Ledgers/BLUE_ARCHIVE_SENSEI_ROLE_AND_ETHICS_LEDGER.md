@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–025; BA:main:003:004:026 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–026; BA:main:003:004:027 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1069,3 +1069,7 @@ Sensei audibly forbids Beatrice to address “my precious students,” with alte
 ## V003 C004 E025 delta — responsibility without totalizing punishment
 
 Sensei inwardly accepts Saori's wrongdoing but rejects deserved childhood suffering, assigning adult responsibility for a world producing it. The dialogue pivots to Saori's obligation to live/find her own answer; actual legal accountability is neither waived nor adjudicated. Sensei offers adult confidence that she can find it, then leaves to help another student. At Mika's danger Sensei directly promises alliance, names her a problem student without abandoning her, and takes out the adult card. Activation, combat effect, cost and final extraction are unprinted. The `心の声`/spoken boundary is uneven where Saori reacts, so fine audibility remains uncertain. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 E026 unopened.
+
+## V003 C004 E026 delta — students clear the route for Sensei
+
+Justice finds Sensei and Mika after student-led route work; Seia says they must illuminate Sensei's path rather than continuously borrow his power. This is direct reciprocal rescue, not an inference that the adult card did or did not operate offscreen. Sensei's only choice greets Ichika, while later inward thought gives the friends room to talk and intends to attend Mika's still-future hearing. The hearing's accountability is preserved alongside affection. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 E027 unopened.

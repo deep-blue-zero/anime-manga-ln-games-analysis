@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–025; BA:main:003:004:026 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–026; BA:main:003:004:027 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E025 active provisional; C004 E026 unopened
+current_sequential_boundary: MAIN_V003_C004_E026 active provisional; C004 E027 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2349,3 +2349,11 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 - **BA-C008 — QUALIFY:** Atsuko hypothesizes mask-triggered protection at the prior bomb event; neither technical mechanism nor Beatrice motive is inspected. Sensei reports Beatrice escaped, while permanent harmlessness is only `思う`. **BA-C019/C020 — PRESERVE:** no Pavane test.
 
 No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 65 unmodeled across 86**; backfill **DEFER**. C004 E026 unopened.
+
+## V003 C004 E026 claim delta — student-led extraction and present Seia
+
+- **BA-C001/C016 — STRENGTHEN:** Justice finds/holds Sensei and Mika through Seia/Azusa-guided routes, exemplifying the students reciprocally rescuing the adult. Seia explicitly says the relation should not rely only on Sensei.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** Mika survives to a direct reunion with Seia/Nagisa, receives Koharu-saved belongings and prepares for a still-future hearing. Azusa asks safety for former Squad despite their wrongs. No formal pardon or hearing ruling.
+- **BA-C008 — REVISE/QUALIFY:** Seia is directly awake and present, but her daydream deal remains unidentified and no clinical mechanism is supplied. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+Ui enters as one narrow `UNMODELED` tracked subject: **21 partial / 66 unmodeled across 87**, none operational/validated. No new durable claim ID, standalone model, frozen prediction or side-source admission; backfill **DEFER**. C004 E027 unopened.

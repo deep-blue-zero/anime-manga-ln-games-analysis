@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–025; BA:main:003:004:026 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–026; BA:main:003:004:027 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1548,6 +1548,13 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0001-0004` repeats the E010 arrival; `u:0009-0025` repeatedly tags Hiyori across contrasting leader/anxious registers, and `u:0079-0081` inverts navigation/no-signal voices. Group-level content is secure, individual voice mining is not.
 - Mika's `ちょっと痛い目に` versus `いつヘイローを壊せ` (`u:0051`) is her first-person order distinction. `全部` loss/equal-suffering rhetoric remains her escalated perspective. Sensei's `choice:001` two alternatives converge on Mika returning/waiting; `choice:002` explicitly enters the catacombs.
 - Arius `u:0073-0074` duplicates one pursuer call; `撃て` at `u:0110` is an order, not a narrated impact. `u:0111` is E012 title.
+
+## V003 C004 E026 delta — rescued relation and speaker-label caution
+
+- Seia's `白昼夢の中で偶然、在る人と邂逅` / `小さな取引` names a claimed encounter/deal while withholding partner, terms and mechanism. Her direct present speech ends the prior solely liminal boundary without granting omniscient explanation.
+- Mika's teasing `ムカつく` and Nagisa critique are followed by repeated `大好き`, `ありがとう` and `ごめんね`: conflict and love coexist in direct reunion, not one replacing the other. `u:0109-0117` and `u:0135-0144` show Seia/Nagisa label inversions/duplication; use group-level content, not precise individual fingerprints.
+- Azusa's inward `私の家族でもあった` is her own former-Squad kinship, not a request for legal pardon. Hanako identifies `古関ウイ` and calls her library magician in a request to restore a map; this is address/praise, not validated skill performance.
+- Koharu explicitly says she remains in `補習授業部`, so her Justice belongings handoff does not certify reinstatement. Ichika's `確保したっす` is a field report of finding/holding Sensei/Mika, distinct from safe medical extraction.
 
 ## V003 C004 E025 delta — responsibility, mask hypothesis and address
 

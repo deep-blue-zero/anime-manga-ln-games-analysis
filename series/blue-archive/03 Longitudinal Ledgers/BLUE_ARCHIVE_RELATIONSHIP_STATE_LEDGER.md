@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–025; BA:main:003:004:026 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–026; BA:main:003:004:027 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1254,3 +1254,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **ATSUKO ↔ SENSEI:** she thanks Sensei and offers a mask-device explanation; Sensei presents conditional future mask use/care as alternatives. Her serious injury is not erased.
 - **SENSEI ↔ MIKA:** Sensei comes to her while she expects abandonment/death, repeats alliance and takes out the adult card. Mika is surprised but still warns against the saint threat; rescue outcome awaits the next unit.
 - **MINE/RESCUE KNIGHTS ↔ ARIUS STUDENTS:** Mine names them as needing care and orders treatment even while preparing to create wounded in battle. This is declared inclusive rescue, not confirmed delivered care.
+
+## V003 C004 E026 relationship delta — Tea Party contact restored
+
+- **MIKA ↔ SEIA/NAGISA:** direct living reunion, teasing, love, thanks and mutual apology are printed; exact apology attribution becomes unstable around `u:0109-0117`. No exhaustive causal reconciliation or hearing result.
+- **MIKA ↔ KOHARU:** Koharu quietly preserves and sends Mika's surviving accessories; Mika recognizes her effort and thanks her while acknowledging earlier harm. Koharu is absent from the handoff reception.
+- **AZUSA ↔ SQUAD:** Azusa asks rescue of Atsuko and the others as former family despite their attacks/crimes; this is her ongoing attachment, not reciprocal forgiveness or Squad rejoining.
+- **STUDENTS ↔ SENSEI/MIKA:** Ichika/Justice find them, Hasumi routes withdrawal, Seia/Nagisa/Sisterhood/Rescue Knights mobilize, Hanako/Ui search route evidence. The distributed care has a completed finding but not all downstream safety outcomes.
