@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_CHECKPOINTS_PLUS_C004_E001_E013
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_CHECKPOINTS_PLUS_C004_E001_E014
 generation: V1
-version: "2.25"
+version: "2.26"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C003 through checkpoints, then BA:main:003:004:001–013 provisionally; 162/310 main units; side-source classes unreviewed; BA:main:003:004:014 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C003 through checkpoints, then BA:main:003:004:001–014 provisionally; 163/310 main units; side-source classes unreviewed; BA:main:003:004:015 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:003:004:014
+next_unopened_main_unit: BA:main:003:004:015
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:004:014
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V003_C004_E013` provisional boundary, inheriting canonical `MAIN_V003_C003`:
+This index answers four questions at the `MAIN_V003_C004_E014` provisional boundary, inheriting canonical `MAIN_V003_C003`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025 and V003 C004 E001-E013;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025 and V003 C004 E001-E014;
 - current checkpoint: `MAIN_V003_C003`; prior C001/C002 checkpoint basis remains lineage;
-- main-story coverage: `162 / 310` canonical units;
+- main-story coverage: `163 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:003:004:014`.
+- next unopened main unit: `BA:main:003:004:015`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,20 +74,20 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` through C004 E013; hears Squad childhood account, assents to unlocated corridor search | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` through C004 E014; rejects sacrifice-for-truth offer, inwardly condemns predatory adult role | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Seia | `ANALYZED` through C004 E012; liminal warning, self-reported dream injury and proposed Mika apology, delivery uncertain | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Koharu | `ANALYZED` through C003 E025; reports new remedial recurrence without expulsion, administrative record unseen | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hanako | `ANALYZED` through C003 E025; joins same-four remedial recurrence with loneliness joke | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Azusa | `ANALYZED` through C003 E025; says next exam range unlearned, remains with friends; safety threat persists | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Mika | `ANALYZED` through C004 E013; reaches Arius-district location, asks basilica route and reacts to attack | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Mika | `ANALYZED` through C004 E014; reappears and appraises skipped attempt against Sensei-led Squad as failed | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Marie | `ANALYZED` through C003 E012; receives Hanako's tentative Justina/catastrophe synthesis | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hinata | `ANALYZED` through C003 E008; joins rear guard after identifying mimesis-looking foes | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sakurako | `ANALYZED` through C004 E002; shares inquiry gaps, says Hanako pact ended and proposes route witnesses | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Saori | `ANALYZED` through C004 E013; fever down by report, wakes impaired; proposes old-school corridor search | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Hiyori | `ANALYZED` through C004 E013; recounts Madame's hate/killer teaching and punishment, reports Saori's fever down | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Misaki | `ANALYZED` through C004 E013; recounts childhood, Atsuko's kindness/lineage rumor and alleged corridor | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Atsuko | `ANALYZED` through C004 E013 by Squad report; royal lineage/sacrifice rumor, kindness and capture, not present | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Beatrice | `ANALYZED` through C004 E006; addresses Seia as dream/basilica eavesdropper, sanctuary claim unaudited | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Saori | `ANALYZED` through C004 E014; hears hidden-mission disclosure, calls Atsuko-saving promise bad faith | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Hiyori | `ANALYZED` through C004 E014; sees changed town/Justina force, attribution uncertain in technical exchange | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Misaki | `ANALYZED` through C004 E014; observes encirclement and Beatrice's corridor-knowledge claim | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Atsuko | `ANALYZED` through C004 E014 by Beatrice report; called royal-blood path offering, ritual outcome unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Beatrice | `ANALYZED` through C004 E014; identified as Madame, admits hatred-control pretext and claims path control | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Golconda | `ANALYZED` in C004 E005 dream frame; mediates dispute and names Beatrice's Arius territory, identity relation open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Decalcomania | `ANALYZED` in C004 E005 dream frame; italic interjection, identity relation to Golconda unresolved | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Mine | `ANALYZED` through C004 E002; claims Seia treatment and external oversight, suspects Azusa interrogation without proof | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -1342,3 +1342,9 @@ Routing: [V003 C004 E012 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 Hiyori reports Saori's fever gone after medicine; Saori later wakes and can move, but Misaki warns her condition is still abnormal. At Sensei's request Misaki/Hiyori recount childhood under “Madame”: claimed presidency/rulership, combat and `vanitas` teaching, Trinity/Gehenna blame, killer/no-home labeling and punishment for resistance. This is participant memory, not a complete historical archive. Misaki reports Atsuko's royal descent/hypothetical hereditary presidency and a sacrifice **rumor**, recalls her direct kindness, and says Saori removed her; Saori's italic retrospective supports an obedience-for-Atsuko/others bargain from her perspective. Squad's capture understanding does not prove completed sacrifice. Saori proposes searching a Justina-built old-school/basilica corridor based on Atsuko's report, admits its location unknown, and Sensei assents; no discovery or basilica entry. Mika is separately location-marked inside Arius district, asks guards for the basilica and reacts to an attack order, with outcome unprinted; one guard tag is suspect. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). E014 unopened.
 
 Routing: [V003 C004 E013 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E013_DEEP_READING.md) → `BA:main:003:004:013`, two scenes, 101 visible numbered units (scene 2 starts at `u:0002`) and eight Sensei choice groups (two paired). Coverage is **162 / 310**.
+
+## 135. V003 C004 E014 provisional coverage delta
+
+Squad enters a quiet, altered town and sees Justina-looking forces; its cruise-missile/mimesis observations are mixed with Azusa's italic prior doubts and multiple suspect Hiyori tags. It infers a one-time mimesis activation, but treaty cancellation and mechanics are not audited. Beatrice directly responds to Saori's “Madame,” claims advance knowledge of the corridor route, and says Squad's hidden original task was bringing Atsuko/royal blood to the old cathedral to connect a `path` she could thereafter control. She calls Trinity/Gehenna occupation a hatred-management pretext, tells Saori the mission was fulfilled, and confirms her own method of child domination through falsehood, guilt and division; Saori calls the Atsuko-saving promise bad faith. Beatrice's intent/admissions are strong, but technical control, total surveillance, Maestro's view and Atsuko's ritual outcome remain her claims. Over communication she offers Sensei purported truth for leaving Atsuko as sacrifice; Sensei refuses and inwardly condemns predatory teaching. Beatrice's apparent reply to inner thought is an attribution seam, not proof the thought was spoken or heard. A Justina follower orders disposal, with no printed fight result. In a cut scene Mika appears, calls her attempt against Sensei-led Squad unsuccessful and praises Sensei, without tactics or final allegiance. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). E015 unopened.
+
+Routing: [V003 C004 E014 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E014_DEEP_READING.md) → `BA:main:003:004:014`, two scenes, 122 visible numbered units and five Sensei choice groups (two paired). Coverage is **163 / 310**.

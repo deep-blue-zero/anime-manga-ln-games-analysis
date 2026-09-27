@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–013; BA:main:003:004:014 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–014; BA:main:003:004:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1334,3 +1334,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Princess/royal blood:** Atsuko is both a reported dynastic successor and Misaki's directly remembered kind friend; a sacrifice rumor converts honor into vulnerability. Lineage and hereditary rule remain reported.
 - **Adult authority contrast:** Madame's claimed true-adult obedience meets Sensei's question/listening and practical medicine, but Hiyori still flinches at Sensei's expression. The difference is behavior, not an automatic status exemption.
 - **Hidden passage:** the alleged Justina-built corridor offers a route out of direct force, yet it must first be found; institutional history does not itself guarantee passage.
+
+## V003 C004 E014 motif / callback delta — distorted teaching and costly truth
+
+- **Vanitas re-engineered:** Beatrice claims she recast a humility maxim as worthless emptiness and strict self-scrutiny as endless guilt, giving E013's childhood curriculum a stated manipulative design rather than treating Squad's despair as innate.
+- **Paradise contest:** Beatrice calls predation of children an adult paradise, offers truth at Atsuko's expense and caricatures Sensei's treaty/friendship position. Sensei refuses the sacrifice bargain; neither cosmology nor treaty status is thereby proven.
+- **Path and instrument:** changed streets, missiles and Justina-looking force reveal long-running materiel changes, while Beatrice says Squad's visible occupation task concealed the one-time royal-blood path. The path remains an asserted mechanism.
+- **Encounters cut:** Beatrice invites a basilica showdown, then Mika reappears after an unshown failed clash. Neither encounter is a completed rescue or measured victory.

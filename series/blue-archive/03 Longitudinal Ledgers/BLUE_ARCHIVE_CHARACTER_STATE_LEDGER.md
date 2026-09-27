@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–013; BA:main:003:004:014 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–014; BA:main:003:004:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E014 character-state delta — Beatrice self-disclosure and Mika recontact
+
+- **Beatrice:** directly addressed as Madame, speaks over communication, admits shaping hatred/falsehood and using occupation as a pretext for her royal-blood/path objective; claims path control, full surveillance and sole Gematria success. Her mechanisms and universal self-assessment remain unverified. `UNMODELED`.
+- **Saori/Misaki/Hiyori:** see a changed town and Justina-looking force, reason toward a one-time path objective under several suspect speaker tags. Saori hears Beatrice call the mission accomplished and concludes the promise was bad faith; Hiyori/Misaki fear encirclement. Scene 2 puts Saori before Mika again, without printed battle details. All `UNMODELED`.
+- **Mika:** directly reappears face-to-face, says she attempted a clash with Sensei-led Squad and it failed; this is her appraisal, not a shown tactic or final revenge abandonment. `UNMODELED`.
+- **Sensei:** rejects Beatrice's knowledge offer linked to Atsuko's sacrifice, inwardly condemns her abuse of teaching/learning, and cues Squad against a disposal order. The inner-thought/reply adjacency does not establish a voiced war declaration. `PARTIAL_MODEL`.
+- **Atsuko:** absent; Beatrice calls her the royal-blood offering and claims she supplied a one-time path, without a shown ritual completion or death. `UNMODELED`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E013 character-state delta — coercive childhood account and unlocated corridor
 

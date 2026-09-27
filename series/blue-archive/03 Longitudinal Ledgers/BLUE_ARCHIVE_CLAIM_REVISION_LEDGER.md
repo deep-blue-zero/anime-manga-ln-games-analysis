@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–013; BA:main:003:004:014 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–014; BA:main:003:004:015 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E013 active provisional; C004 E014 unopened
+current_sequential_boundary: MAIN_V003_C004_E014 active provisional; C004 E015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2251,3 +2251,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E014 unopened.
+
+## V003 C004 E014 claim delta — adult predation stated, path mechanism claimed
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/REVISE:** Beatrice self-identifies as Madame and explicitly admits hatred/falsehood pedagogy, calling Trinity/Gehenna occupation a control pretext. Her path-once-connected and royal-blood original objective are actor admissions, not a technical audit; Squad's preliminary treaty-cancellation inference has tag faults.
+- **BA-C001/C016 — STRENGTHEN:** Sensei refuses sacrifice-bought truth and opposes adult-as-predator learning abuse. The strongest condemnation is inward, so Beatrice's response is a serialization gap, not proof of spoken declaration.
+- **BA-C008 — PRESERVE:** neither Seia's apocalypse nor outside entity is confirmed by Beatrice's truth pitch. Mika self-reports a failed attempt in a scene cut, with no observed tactics.
+- **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E015 unopened.

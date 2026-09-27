@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–013; BA:main:003:004:014 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–014; BA:main:003:004:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -931,3 +931,7 @@ Misaki says the site reached after catacomb passage is a former Arius district/r
 ## V003 C004 E013 institutional delta — Madame, dynastic report and Justina corridor
 
 Misaki recalls Madame announcing a long civil war's end and claiming new Arius president/master/ruler status, then teaching combat and `vanitas`; Hiyori recalls Trinity/Gehenna hate doctrine, killer labeling and punishment for resistance. This is firsthand testimony to experienced schooling, not inspected appointment law or total population history. Misaki reports Atsuko as descended from a former president and a hypothetical hereditary successor, while a postwar sacrifice plan began as rumor; Saori retrospectively describes obedience terms. Saori relays Atsuko's claim of a Justina-built old-school/basilica corridor, and Misaki adds an exodus/reconstruction account. No corridor map, physical entrance or governance record is inspected. Scene 2's location card separately places Mika within Arius district; Squad's exact district boundary remains unresolved after E012's former-site correction.
+
+## V003 C004 E014 institutional delta — Beatrice's admitted control, untested path
+
+The changed/quiet town, Justina-looking force and Ambrosius-identifying cry prompt Squad to infer continuing mimesis despite a participant claim that treaty cancellation should have ended its use. Several Hiyori tags are suspect; the treaty/legal premise and technical mechanism are unverified. Beatrice is directly addressed as Madame and self-claims complete Arius route surveillance. She says the true Squad mission was one royal-blood activation at the old cathedral to connect a `path` thereafter under her control, while occupying Trinity/Gehenna was a hatred-management pretext. Her own admissions substantially strengthen intent/control evidence, but no inspected instrument, path trace, territory map or corridor entrance confirms the mechanism. Beatrice communicates remotely; the planned basilica meeting and Justina disposal order are not completed institutional outcomes.

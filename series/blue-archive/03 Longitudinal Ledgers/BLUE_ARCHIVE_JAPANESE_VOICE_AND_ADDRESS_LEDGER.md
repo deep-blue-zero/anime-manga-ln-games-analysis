@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–013; BA:main:003:004:014 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–014; BA:main:003:004:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1548,6 +1548,13 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0001-0004` repeats the E010 arrival; `u:0009-0025` repeatedly tags Hiyori across contrasting leader/anxious registers, and `u:0079-0081` inverts navigation/no-signal voices. Group-level content is secure, individual voice mining is not.
 - Mika's `ちょっと痛い目に` versus `いつヘイローを壊せ` (`u:0051`) is her first-person order distinction. `全部` loss/equal-suffering rhetoric remains her escalated perspective. Sensei's `choice:001` two alternatives converge on Mika returning/waiting; `choice:002` explicitly enters the catacombs.
 - Arius `u:0073-0074` duplicates one pursuer call; `撃て` at `u:0110` is an order, not a narrated impact. `u:0111` is E012 title.
+
+## V003 C004 E014 delta — Madame's predatory adult idiom and a thought/reply seam
+
+- Scene 1 `u:0005-0006/0016/0019-0025/0029-0033` repeatedly tags Hiyori despite differing registers/roles; retain Squad-level inference instead of clean personal attribution. Saori's `マダム` (`u:0042`) directly links Beatrice to E013's title.
+- Beatrice's `パス（path）は一度接続さえすれば` (`u:0050`) is her asserted mechanism, not independently tested. Her `方便` (`u:0053`) names occupation rhetoric as an instrument of hatred control. `洗脳` / `超能力` denial (`u:0067-0069`) accompanies an explicit admission of emotional deception.
+- `大人`, `子供`, `支配`, `搾取` and `捕食` (`u:0076-0083`) form Beatrice's self-incriminating adult-predator register, not the narrator's ethic. Sensei's `choice:005` alternatives converge on refusal (`u:0090-0091`). Sensei `u:0098-0099` is tagged inner thought, while Beatrice `u:0100` replies as if hearing a declaration; do not infer confirmed telepathy or that both alternatives were spoken.
+- Scene 2 Mika's `やっぱダメだったね` (`u:0006`) appraises a skipped clash, not its detailed mechanics. `u:0008` is E015 title.
 
 ## V003 C004 E013 delta — attributed childhood history and Mika tag caution
 

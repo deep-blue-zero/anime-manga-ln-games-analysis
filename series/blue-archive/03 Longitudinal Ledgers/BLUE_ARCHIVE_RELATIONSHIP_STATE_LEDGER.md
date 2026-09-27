@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–013; BA:main:003:004:014 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–014; BA:main:003:004:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1178,3 +1178,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **MISAKI/HIYORI ↔ ATSUKO:** Hiyori recalls envy; Misaki admits concealing interest and directly remembers Atsuko's kindness/laughter. This is specific attachment, not proof of royal records.
 - **SENSEI ↔ SQUAD:** Sensei asks for a painful childhood account and then assents to Saori's corridor search. Hiyori is startled by Sensei's expression, so willingness to tell is not complete trust or erased adult fear.
 - **MIKA ↔ ARIUS GUARDS:** Mika asks a route question and receives an attack order; she reacts in pain. No meeting with Squad/Beatrice or resulting guard fate is shown.
+
+## V003 C004 E014 relationship delta — predator, teacher and recurrent pursuer
+
+- **BEATRICE/MADAME ↔ SQUAD/ATSUKO:** Beatrice explicitly calls Saori obedient after admitting the apparent failed occupation still fulfilled her hidden path objective; Saori recognizes the Atsuko-saving promise as bad faith. Beatrice's surveillance/path capacities remain her own claims.
+- **BEATRICE ↔ SENSEI:** communication is direct and adversarial. She offers knowledge for leaving Atsuko, calls Sensei enemy after a refusal, and schedules a basilica confrontation; Sensei does not accept her exchange. Inner condemnation is not confirmed audible.
+- **SENSEI ↔ SQUAD:** a Justina follower orders disposal, Sensei inwardly urges action and Saori responds. No combat outcome is printed in that sequence.
+- **MIKA ↔ SENSEI/SQUAD:** Mika reappears, says a try at beating the Sensei-led group failed and praises Sensei's strength. The skipped clash does not resolve forgiveness, bodily harm or her next allegiance.
