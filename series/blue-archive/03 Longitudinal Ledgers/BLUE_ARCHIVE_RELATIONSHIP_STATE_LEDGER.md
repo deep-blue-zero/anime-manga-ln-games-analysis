@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–021; BA:main:003:004:022 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–022; BA:main:003:004:023 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1228,3 +1228,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **MIKA ↔ SAORI/SENSEI:** Mika tells Saori to go save Atsuko and thanks Sensei for the chance language. Sensei asks her to be careful. This is bounded cooperation after an unresolved duel, not a settled reconciliation or pardon.
 - **SAORI/SQUAD ↔ ATSUKO:** Saori calls to Atsuko in the sanctuary and Misaki judges her apparently unconscious. Contact/proximity is direct; extraction and recovery are not.
 - **BEATRICE ↔ SENSEI:** Beatrice directly greets Sensei as enemy in the sanctuary exchange. Hostility is explicit; its physical and ritual consequences await evidence.
+
+## V003 C004 E022 relationship delta — teacher with students against Madame
+
+- **BEATRICE ↔ SENSEI:** Beatrice offers a shared absolute-adult horizon and asks for assent; Sensei rejects the premise and names teacher-for-students as role. The conflict is ethical and tactical, not an agreed account of either's powers.
+- **SENSEI ↔ SAORI/HIYORI/MISAKI:** Sensei promises presence and joint effort; the three answer and aim to save Atsuko. This is explicit coalition under pressure, with the clash itself skipped.
+- **BEATRICE ↔ SQUAD/ATSUKO:** Misaki/Hiyori reappraise Madame's form as monstrous, while Beatrice treats an unspecified “small sacrifice” as necessary in the established Atsuko ritual context. She orders Barbara and all basilica troops back for protection; response unshown.

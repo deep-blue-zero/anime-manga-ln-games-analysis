@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–021; BA:main:003:004:022 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–022; BA:main:003:004:023 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E021 active provisional; C004 E022 unopened
+current_sequential_boundary: MAIN_V003_C004_E022 active provisional; C004 E023 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2317,3 +2317,11 @@ Barbara enters as one narrow `UNMODELED` tracked subject: **21 partial / 65 unmo
 - **BA-C008 — QUALIFY:** Misaki's visual “only unconscious” report does not confirm Beatrice's imminent halo-break forecast, but cannot refute it without medical/halo inspection. **BA-C019/C020 — PRESERVE:** no Pavane test.
 
 No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 65 unmodeled across 86**; backfill **DEFER**. C004 E022 unopened.
+
+## V003 C004 E022 claim delta — adult-role refusal, unconfirmed ascension
+
+- **BA-C001/C016 — STRENGTHEN:** Sensei directly rejects Beatrice's absolute judge/savior framing and audibly identifies as a teacher for students, then offers to stand with Squad. Inner thought gives the rights/capacity limits, not a transcript of what Beatrice hears.
+- **BA-C008/C021 — QUALIFY:** Beatrice claims an active royal-blood/outside-power rite and elevated form, but after an omitted clash says her power is failing and wonders if the rite was incomplete. Complete ascension, halo destruction and final defeat remain unverified.
+- **BA-C002–C004/C007/C010–C011 — STRENGTHEN locally:** Squad assents to fight/save Atsuko; Beatrice's post-cut distress establishes a setback, not the tactic or complete victory. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 65 unmodeled across 86**; backfill **DEFER**. C004 E023 unopened.

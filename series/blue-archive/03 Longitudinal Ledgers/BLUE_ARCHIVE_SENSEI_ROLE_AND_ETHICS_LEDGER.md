@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–021; BA:main:003:004:022 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–022; BA:main:003:004:023 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1053,3 +1053,7 @@ Saori/Hiyori/Misaki react to a title-linked Justina saint's force and continuing
 ## V003 C004 E021 delta — student-chosen diversion, adult concern
 
 Mika chooses to draw the threat away; Sensei's sole singleton choice asks her to be careful. Sensei neither orders the sacrifice nor claims it is safe, and the party proceeds with Saori to the sanctuary. Their inward naming of Beatrice and presence at Atsuko's apparently unconscious body show attention, not a completed protection or ritual reversal. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 E022 unopened.
+
+## V003 C004 E022 delta — not judge or savior, teacher beside students
+
+Beatrice claims an adult duty to ascend and save all through a “small” student sacrifice, projecting absolute judgment/salvation power onto Sensei. Sensei's inward statements deny judge, savior and absolute status or a right to judge; the voiced answer is simply `生徒たちのための先生だよ`. Sensei then offers Squad presence and joint effort. This makes the role-limited ethic explicit while preserving the distinction between inner thought and audible choices, including `choice:002`'s alternatives. The omitted clash yields Beatrice's distress, not an auditable Sensei tactic. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 E023 unopened.

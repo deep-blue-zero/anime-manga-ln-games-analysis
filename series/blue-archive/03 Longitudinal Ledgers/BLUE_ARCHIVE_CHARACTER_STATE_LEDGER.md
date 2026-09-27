@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–021; BA:main:003:004:022 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–022; BA:main:003:004:023 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E022 character-state delta — rival adult claims and Beatrice setback
+
+- **Beatrice:** claims an ongoing royal-blood/outside-power rite and a higher “great adult” form; after a cut to omitted action she reports failing `権能`, wonders whether the rite was unfinished and summons Barbara/all basilica troops. Claimed ascension is not certified, and no final defeat is shown. `UNMODELED`.
+- **Sensei:** directly rejects absolute judge/savior identity and names themselves a teacher for students; inwardly denies the right to judge and capacity to erase all suffering/evil. Offers to stay with Squad against Beatrice. `PARTIAL_MODEL`.
+- **Saori/Hiyori/Misaki:** respond to Beatrice's apparent transformed form and agree to fight/save Atsuko. Misaki calls Madame's “real” form a monster; Hiyori questions former submission, but some Hiyori labels have register mismatch. They are strained after the cut and Saori urges action before reinforcements. All `UNMODELED`.
+- **Atsuko/Mika/Barbara:** no new direct Atsuko medical/halo or Mika-diversion result. Barbara is summoned back, but return not printed; all `UNMODELED`.
+
+Readiness stays **21 `PARTIAL_MODEL` / 65 `UNMODELED` across 86**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C004 E023 unopened.
 
 ## V003 C004 E021 character-state delta — diversion and sanctuary arrival
 

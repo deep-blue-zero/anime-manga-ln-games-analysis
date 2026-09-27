@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–021; BA:main:003:004:022 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–022; BA:main:003:004:023 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -963,3 +963,7 @@ The E020 title names Barbara, and Hiyori recognizes the incoming force as a Just
 ## V003 C004 E021 institutional delta — inner sanctuary reached
 
 Hiyori explicitly identifies the basilica's inner sanctuary after Mika's diversion splits the party. This resolves physical arrival, not Arius control, altar mechanics or Beatrice's rite. Misaki's tentative unconsciousness appraisal of Atsuko is not an institutional or clinical finding and gives no halo verdict. Beatrice greets Sensei directly; no inspected instrument changes Trinity discipline, ETO authority or Squad status.
+
+## V003 C004 E022 institutional delta — claimed rite and emergency command
+
+Beatrice claims to exploit royal-blood mystic power and outside-Kivotos force, casts an Agnus dei sacrifice as necessary, and displays what she calls a higher adult form. These are her claims and appearance reactions, not an instrumented ritual audit. Post-cut she reports failing authority/power and doubts completion, then commands Barbara and all basilica forces to protect her. Orders do not establish response. No inspected halo break, final rite disposition, rescue or school-governance change follows.
