@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–016; BA:main:003:004:017 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–017; BA:main:003:004:018 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E016 active provisional; C004 E017 unopened
+current_sequential_boundary: MAIN_V003_C004_E017 active provisional; C004 E018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2276,3 +2276,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C008/C019/C020 — PRESERVE:** no Seia or Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E017 unopened.
+
+## V003 C004 E017 claim delta — triage, unstable revenge and Color named
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/QUALIFY:** Mika's anyone/Saori statements resist a simple target ranking; Saori accepts responsibility for Mika's losses without proving sole cause. Their weapon exchange begins but no duel conclusion follows. Sensei leaves toward Atsuko by Saori's request under a participant one-hour clock.
+- **BA-C001/C016 — QUALIFY:** Misaki describes the detour/rescue tradeoff and yields final decision to Sensei. Continuing rescue is urgent triage, not evidence Saori is safe or disposable.
+- **BA-C008 — STRENGTHEN:** Beatrice names `色彩` while disclaiming Gematria knowledge and describes Seia's exposure/`mystery`-to-`terror` mechanism as her own account. Barbara is an unfinished projected weapon, not a present entity or new tracked subject.
+- **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E018 unopened.

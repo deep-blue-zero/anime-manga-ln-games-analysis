@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–016; BA:main:003:004:017 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–017; BA:main:003:004:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1354,3 +1354,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Ruined school to usable corridor:** the former learning site is physically reached and yields a passage, crossing the earlier hearsay boundary; its connection all the way to the basilica remains unproven.
 - **Selective harm:** Mika says she lowered force to avoid Sensei yet isolates Saori. The narrow care for one adult coexists with purposeful endangerment/entrapment of a student.
 - **Broken bridge:** falling columns literally split Sensei's group from Saori, turning Mika's E015 demand for a private cost into a spatial separation before any duel result.
+
+## V003 C004 E017 motif / callback delta — competing endings, not settled fates
+
+- **Happy ending versus witch/hound ending:** Mika assigns Sensei a student-rescue story and herself/Saori a fatal punishment story. These are her dramatic scripts, not narrated destiny; both rescue and duel remain open.
+- **Vanitas resisted:** Mika weaponizes Saori's `すべては虚しい` teaching, and Saori responds by resolving to struggle to the end. This is local resistance, not a global cure.
+- **Price and accountability:** Saori acknowledges a causal role in Mika's suffering while insisting on the rescue split, without transferring complete causation or authorizing execution.
+- **Color/Barbara split:** Beatrice names a feared incomprehensible `Color` and a separately planned human-made Barbara weapon. Neither is independently witnessed as a completed threat in this unit.

@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–016; BA:main:003:004:017 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–017; BA:main:003:004:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1033,3 +1033,7 @@ Sensei inwardly urges Mika to stop; the source's response seam does not establis
 ## V003 C004 E016 delta — adult vulnerability becomes tactical target
 
 Sensei follows Squad into the physically reached old-school corridor. Misaki reasons that Mika's concern about hurting Sensei and Sensei's command role could be exploited; this is prediction until the column collapse. Hiyori warns, Sensei dodges and answers that they are safe, but the obstruction leaves Saori on the far side with Mika. Mika self-reports lowering the force to avoid catching Sensei, a selective protection that does not equate to safety for Squad. No device audit, rescue action or duel result yet. Two separate-scene singleton choice groups; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E017 delta — triage toward Atsuko while Saori holds Mika
+
+Saori explicitly tells Sensei not to return across the rubble and entrusts Atsuko's rescue to them; Misaki says finding another way might be too slow and places the final decision with Sensei. Two terse inward imperatives (`u:0030`) precede Mika's confirmation that Sensei went. This supports a bounded rescue-priority choice under a one-hour participant clock, not guaranteed Atsuko survival, indifference to Saori or an actual path arrival. Sensei's opening plea to Mika is inner thought despite her response. Three singleton choice groups; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

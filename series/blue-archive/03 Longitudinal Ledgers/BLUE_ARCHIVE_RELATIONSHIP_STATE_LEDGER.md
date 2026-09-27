@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–016; BA:main:003:004:017 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–017; BA:main:003:004:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1197,3 +1197,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **MIKA ↔ SAORI:** Mika claims calibrated collapse to spare Sensei while leaving Saori isolated; Saori faces her on the opposite side of the debris. No duel or injury result yet.
 - **SENSEI ↔ SAORI/SQUAD:** Sensei dodges the falling column and reports immediate safety with Misaki/Hiyori, while Saori confirms she is across a blocked passage. Remote concern is visible, physical aid not yet available.
 - **MISAKI/HIYORI ↔ SAORI:** they ask for her safety and try to clear/route around rubble; passage remains blocked by their account. The exact tactical warning speaker is compromised by Hiyori-tag errors.
+
+## V003 C004 E017 relationship delta — Saori entrusts Atsuko, confronts Mika
+
+- **SAORI ↔ SENSEI/SQUAD/ATSUKO:** Saori asks Sensei not to return and to reach Atsuko; Misaki asks Sensei to decide after presenting the detour risk. Sensei goes, but no Atsuko meeting or Saori safety follows.
+- **MIKA ↔ SAORI:** Mika's target talk oscillates, then she seeks a witch/hound execution script. Saori accepts her anger and a causal part in her loneliness/loss, and fights back. The duel remains unresolved.
+- **BEATRICE ↔ SEIA:** Beatrice addresses Seia in the liminal frame, names Color and taunts her inability to return; Seia says she will seek a way out. This is exchange, not physical recovery or proof of Beatrice's theory.

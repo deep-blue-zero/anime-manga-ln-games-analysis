@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–016; BA:main:003:004:017 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–017; BA:main:003:004:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E017 character-state delta — split rescue and liminal Color name
+
+- **Saori:** reports one hour to sunrise, asks Sensei to continue to Atsuko, stays with Mika and says she accepts a causal share of Mika's suffering. Uses a discarded prohibited-production weapon by her report and resolves to resist; duel outcome open. `UNMODELED`.
+- **Mika:** alternates “anyone” and specifically hated Saori as desired target, admits wishing Sensei stayed, casts her/the hound as fatal villains and names thermobaric grenades. Pain cues occur; no winner or stable motive ranking. `UNMODELED`.
+- **Sensei/Misaki/Hiyori:** Misaki argues detour around collapse risks missing Atsuko, leaves final decision to Sensei; Sensei inwardly chooses the rescue objective, and Mika confirms departure. No arrival. Sensei `PARTIAL_MODEL`; Misaki/Hiyori `UNMODELED`.
+- **Beatrice/Seia:** Beatrice addresses Seia in liminal frame, claims outside-ritual exposure altered her mystery and names `色彩` while admitting Gematria ignorance. She predicts unfinished Barbara weapon; Seia refuses to stop seeking escape. Neither physical waking nor weapon deployment. Both `UNMODELED`.
+
+Barbara is named only in Beatrice's future-facing plan and is not promoted as a directly encountered tracked subject. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E016 character-state delta — corridor discovery and Saori isolation
 

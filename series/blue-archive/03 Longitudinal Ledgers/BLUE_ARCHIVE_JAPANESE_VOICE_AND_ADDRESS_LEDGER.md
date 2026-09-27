@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–016; BA:main:003:004:017 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–017; BA:main:003:004:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1548,6 +1548,12 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0001-0004` repeats the E010 arrival; `u:0009-0025` repeatedly tags Hiyori across contrasting leader/anxious registers, and `u:0079-0081` inverts navigation/no-signal voices. Group-level content is secure, individual voice mining is not.
 - Mika's `ちょっと痛い目に` versus `いつヘイローを壊せ` (`u:0051`) is her first-person order distinction. `全部` loss/equal-suffering rhetoric remains her escalated perspective. Sensei's `choice:001` two alternatives converge on Mika returning/waiting; `choice:002` explicitly enters the catacombs.
 - Arius `u:0073-0074` duplicates one pursuer call; `撃て` at `u:0110` is an order, not a narrated impact. `u:0111` is E012 title.
+
+## V003 C004 E017 delta — “witch/hound,” Color and a reply mis-tag
+
+- Sensei `u:0001` is inner thought while Mika `u:0002` replies; retain the seam. Saori's `日の出まで……あと1時間` (`u:0005`) is a participant estimate. `u:0030` prints two terse inner imperatives without explicit choice, then `u:0032` confirms Sensei left.
+- Mika's `誰でもよかった` (`u:0039`) and `最も憎いあなた` (`u:0046`) qualify each other. `魔女` / `猟犬` (`u:0052`) are her dramatic roles, not narrator identities. `u:0054` is tagged Mika but answers her own question in Saori-like acceptance; attribution quarantined.
+- Saori calls a weapon `今は生産が禁止されている` (`u:0057`), while Mika calls it `サーモバリック手榴弾` (`u:0067`); these are participant identifications, not a technical inspection. Beatrice's `色彩` (`u:0086`), `神秘（mystery）` / `恐怖（terror）` (`u:0081`) name her framework while she admits `全くの無知` (`u:0083`). `バルバラ` (`u:0089`) is a future-facing named weapon subject, not present action. `u:0102` is E018 title.
 
 ## V003 C004 E016 delta — two missing first units and a selective-force claim
 
