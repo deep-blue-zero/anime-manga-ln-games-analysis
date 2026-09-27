@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–014; BA:main:003:004:015 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–015; BA:main:003:004:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1025,3 +1025,7 @@ Sensei wakes and asks to hear Squad's history, visibly reacts to Madame's child 
 ## V003 C004 E014 delta — refusing sacrifice-for-truth
 
 Over communication Beatrice offers Sensei information and purported Kivotos truth in exchange for leaving Atsuko as sacrifice. Sensei rejects the exchange (two `choice:005` alternatives converge), inwardly judges Beatrice's predation as an insult to students and teaching/learning, and cues Squad when a Justina follower orders disposal. The categorical ethical boundary is visible, but the inner-thought `u:0098-0099` adjacent to Beatrice's reply does not prove Sensei voiced that condemnation or that she read minds. Beatrice's cosmology and `path` account remain claims; no guaranteed rescue or victory follows. Five choice groups, two paired; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E015 delta — bounded restraint and conditional care
+
+Sensei inwardly urges Mika to stop; the source's response seam does not establish that instruction was spoken. After skipped combat yields a temporary subdual, a paired choice offers either probable Seia safety or an appeal to return because Sensei does not want to hurt Mika. Neither branch tells her contact will end if she loses student status; that is Mika's feared inference. Sensei follows Squad when she leaves, with no settlement of her grievance or corridor entry. One paired choice group; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

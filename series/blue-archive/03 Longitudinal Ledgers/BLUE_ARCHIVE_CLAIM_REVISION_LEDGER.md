@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–014; BA:main:003:004:015 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–015; BA:main:003:004:016 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E014 active provisional; C004 E015 unopened
+current_sequential_boundary: MAIN_V003_C004_E015 active provisional; C004 E016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2260,3 +2260,11 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E015 unopened.
+
+## V003 C004 E015 claim delta — local subdual without repair
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/QUALIFY:** Mika ties revenge to feared expulsion, loss of Sensei/Nagisa and absence of meaning if Squad avoids punishment. Her killer label and no-future forecast are not adjudications. Saori/Mika report a temporary subdual after skipped combat, followed by Mika's departure/renewed intent.
+- **BA-C001/C016 — QUALIFY:** Sensei inwardly wants to stop Mika; one paired choice offers either probable Seia safety or return/non-harm appeal. Do not merge alternatives or infer a voiced inner-thought command.
+- **BA-C008 — PRESERVE:** Seia's status is not newly observed. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E016 unopened.

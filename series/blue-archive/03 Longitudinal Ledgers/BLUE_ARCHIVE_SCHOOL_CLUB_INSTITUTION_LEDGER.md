@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–014; BA:main:003:004:015 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–015; BA:main:003:004:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -935,3 +935,7 @@ Misaki recalls Madame announcing a long civil war's end and claiming new Arius p
 ## V003 C004 E014 institutional delta — Beatrice's admitted control, untested path
 
 The changed/quiet town, Justina-looking force and Ambrosius-identifying cry prompt Squad to infer continuing mimesis despite a participant claim that treaty cancellation should have ended its use. Several Hiyori tags are suspect; the treaty/legal premise and technical mechanism are unverified. Beatrice is directly addressed as Madame and self-claims complete Arius route surveillance. She says the true Squad mission was one royal-blood activation at the old cathedral to connect a `path` thereafter under her control, while occupying Trinity/Gehenna was a hatred-management pretext. Her own admissions substantially strengthen intent/control evidence, but no inspected instrument, path trace, territory map or corridor entrance confirms the mechanism. Beatrice communicates remotely; the planned basilica meeting and Justina disposal order are not completed institutional outcomes.
+
+## V003 C004 E015 institutional delta — feared expulsion, no new order
+
+Mika says that **if** Trinity expels her she will lose Nagisa/others, and **if** no longer a student Sensei may cease contact. Neither a new school adjudication nor Sensei abandonment is shown; earlier decided Tea Party disqualification and forecast school expulsion remain distinct. The fight with Squad is skipped, locally ends in a reported subdual and Mika's departure, not a formal custody/remedy. Squad states continued intent to use the old-school corridor, but no entrance or basilica arrival is printed; `u:0039-0045` speaker-label inversions limit command attribution.

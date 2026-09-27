@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–014; BA:main:003:004:015 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–015; BA:main:003:004:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1185,3 +1185,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **BEATRICE ↔ SENSEI:** communication is direct and adversarial. She offers knowledge for leaving Atsuko, calls Sensei enemy after a refusal, and schedules a basilica confrontation; Sensei does not accept her exchange. Inner condemnation is not confirmed audible.
 - **SENSEI ↔ SQUAD:** a Justina follower orders disposal, Sensei inwardly urges action and Saori responds. No combat outcome is printed in that sequence.
 - **MIKA ↔ SENSEI/SQUAD:** Mika reappears, says a try at beating the Sensei-led group failed and praises Sensei's strength. The skipped clash does not resolve forgiveness, bodily harm or her next allegiance.
+
+## V003 C004 E015 relationship delta — care imagined as conditional
+
+- **MIKA ↔ SENSEI:** Mika calls herself an irredeemable bad/problem student and predicts Sensei will stop meeting her if expelled; Sensei does not say that. One choice either gives probable Seia reassurance or asks her to return without harm. Mika rejects restraint and leaves.
+- **MIKA ↔ SAORI/SQUAD:** Saori says they subdued Mika locally, but Mika insists Saori cannot enjoy Sensei's protection without cost. Continued pursuit is explicit, not a completed attack.
+- **SQUAD ↔ SENSEI:** after Mika departs, the group treats Arius/Justina/Mika as compounding risks and continues toward the alleged corridor. Mis-tagged Hiyori lines prevent exact speaker assignments.

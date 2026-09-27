@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–014; BA:main:003:004:015 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–015; BA:main:003:004:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,14 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E015 character-state delta — Mika's temporary subdual and loss account
+
+- **Mika:** refuses Sensei's stop appeal, is temporarily subdued by Squad/Sensei according to Saori and her own pain reaction, then leaves still demanding Saori pay a cost. Privately fears Trinity expulsion, loss of Nagisa and Sensei contact, and self-erasure if Squad goes unpunished. These are fears/self-labels, not a legal verdict or confirmed homicide. `UNMODELED`.
+- **Sensei:** inwardly wants Mika to stop; scene 2 choice alternatives either tentatively reassure her about Seia or ask her to return without further hurt. Neither alternative is guaranteed spoken together, and inward thoughts have a response seam. Follows Squad after Mika departs. `PARTIAL_MODEL`.
+- **Saori/Misaki/Hiyori:** Saori says Mika was subdued after skipped combat; Squad expects further pursuit and expresses intent to continue via the old-school corridor, but `u:0039-0045` mis-tags several personal/tactical lines as Hiyori. Exact individual assignments remain quarantined. All `UNMODELED`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E014 character-state delta — Beatrice self-disclosure and Mika recontact
 

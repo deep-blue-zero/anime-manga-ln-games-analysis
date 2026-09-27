@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–014; BA:main:003:004:015 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–015; BA:main:003:004:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1341,3 +1341,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Paradise contest:** Beatrice calls predation of children an adult paradise, offers truth at Atsuko's expense and caricatures Sensei's treaty/friendship position. Sensei refuses the sacrifice bargain; neither cosmology nor treaty status is thereby proven.
 - **Path and instrument:** changed streets, missiles and Justina-looking force reveal long-running materiel changes, while Beatrice says Squad's visible occupation task concealed the one-time royal-blood path. The path remains an asserted mechanism.
 - **Encounters cut:** Beatrice invites a basilica showdown, then Mika reappears after an unshown failed clash. Neither encounter is a completed rescue or measured victory.
+
+## V003 C004 E015 motif / callback delta — home, price and vanishing self
+
+- **No home:** Mika's `帰る場所がない` parallels Squad's taught “only Arius is home” trap, but hers is a feared exclusion after her actions, not an issued expulsion. The parallel illuminates pressure without equating histories.
+- **Equivalent cost:** Mika needs Saori to lose something because she construes unpunished Squad as erasing the meaning of her own losses. Revenge becomes an identity anchor rather than evidence of fair proportion.
+- **Temporary win:** a local subdual leaves Mika able to walk away and threaten continued pursuit, limiting any “victory” reading.
+- **Corridor deferred:** Squad still only states intent to use the old-school route; the title of E016 names a corridor but cannot be imported as an E015 crossing.

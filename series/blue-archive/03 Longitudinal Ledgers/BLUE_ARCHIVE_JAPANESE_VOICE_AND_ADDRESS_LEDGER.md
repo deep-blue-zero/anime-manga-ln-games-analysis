@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–014; BA:main:003:004:015 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–015; BA:main:003:004:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1548,6 +1548,12 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0001-0004` repeats the E010 arrival; `u:0009-0025` repeatedly tags Hiyori across contrasting leader/anxious registers, and `u:0079-0081` inverts navigation/no-signal voices. Group-level content is secure, individual voice mining is not.
 - Mika's `ちょっと痛い目に` versus `いつヘイローを壊せ` (`u:0051`) is her first-person order distinction. `全部` loss/equal-suffering rhetoric remains her escalated perspective. Sensei's `choice:001` two alternatives converge on Mika returning/waiting; `choice:002` explicitly enters the catacombs.
 - Arius `u:0073-0074` duplicates one pursuer call; `撃て` at `u:0110` is an order, not a narrated impact. `u:0111` is E012 title.
+
+## V003 C004 E015 delta — “bad child” and heavy Hiyori-tag inversion
+
+- Mika's `悪い子`, `問題児`, `魔女`, `悪党` and `人殺し` (`scene:001:u:0002-0005`; `scene:002:u:0008-0017`) are self-positioning under shame, not school/legal findings. `追い出されたら` and `生徒じゃなくなったら` are conditional future clauses, not completed expulsion.
+- Scene 1 Sensei `u:0001` is tagged inner thought despite Mika responding to its substance; `u:0009` prints two adjacent inward subdual/discipline formulations without an explicit choice. Do not canonize both as voiced instructions. Scene 2 `choice:001` alternatives differ: `たぶん` Seia-safety reassurance versus return/non-harm appeal, with duplicate Mika response `u:0006-0007`.
+- `scene:002:u:0039-0045` all bear Hiyori tags despite incompatible register/leader-address and a leader-like order. Preserve group-level pursuit/corridor content, not personal attributions. `u:0049` is E016 title.
 
 ## V003 C004 E014 delta — Madame's predatory adult idiom and a thought/reply seam
 
