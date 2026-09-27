@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:020 and canonical MAIN_V003_C002 checkpoint; BA:main:003:003:001 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001; BA:main:003:003:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1114,3 +1114,13 @@ Readiness: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/v
 ## V003 C002 canonical checkpoint reconciliation
 
 [The C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) governs the completed twenty-unit character synthesis. Four official passes are direct narrator facts; Mika's prison is Seia's report, and the school/treaty futures are not observed. Hiyori, Misaki and Atsuko stay narrowly `UNMODELED`, yielding **21 partial / 50 unmodeled across 71**. C003 E001 remains unopened.
+
+## V003 C003 E001 character-state delta — dream and postmortem
+
+- **Seia:** in a dream-framed earlier secret-room encounter says she has occasional future-true dreams, expects an Azusa-named visitor and interprets resistance beneath Arius `vanitas`. Her self-report does not validate predictive power, a current bodily awakening or a complete attack transcript. Later Sakurako reports explosion wounds healed but continued unexplained sleep; `UNMODELED`.
+- **Azusa:** the `？？？` interlocutor addressed as Azusa denies prior halo destruction, describes learned lethal means and a planned special bomb, but is silent after Seia's killer-identity question. Hanako later reports her room entry about an hour before the explosion and calls her apparent execution actor. Dream framing and mediated reports constrain act/intent attribution; `UNMODELED`.
+- **Hanako:** apologizes to Marie and directly says she no longer intends to leave Trinity, citing the remedial club's `足掻いて` lesson. She accepts bounded future Sisterhood help in principle, teasing with a false nudity plan; no formal withdrawal cancellation or defined duty. `UNMODELED`.
+- **Sakurako/Marie:** Sakurako explains Mine's false-death protection by report, later sleep status, and a noncoercive future-help request amid Sisterhood policy change. Marie says she sought help to keep Hanako at school and apologizes; she is not credited with a written rule. Both `UNMODELED`.
+- **Sensei/Hifumi:** Sensei appears tired, offers a self-limitation choice, identifies Hanako as their student and checks consent; first choice branches/converges. Hifumi is silently present at an inspector summons, without decision. Sensei/Hifumi remain narrow `PARTIAL_MODEL`.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Mine and the Tea Party inspector remain reported/generic role actors.

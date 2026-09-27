@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:020 and canonical MAIN_V003_C002 checkpoint; BA:main:003:003:001 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001; BA:main:003:003:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -895,3 +895,11 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 ## V003 C002 canonical checkpoint reconciliation
 
 The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) recognizes the four-student collective pass, Azusa–Hifumi gift and Hanako–Azusa reciprocal influence as actual relationship evidence. It does not assert permanent club identity, a repaired Mika–Seia/Nagisa bond, completed Hasumi–Koharu reinstatement or Azusa's safety from Saori. C003 E001 remains unopened.
+
+## V003 C003 E001 relationship delta — retention without conscription
+
+- **MARIE ↔ HANAKO:** Marie says she sought Sakurako's help to keep Hanako from leaving and apologizes for not understanding her; Hanako apologizes for worry and says she no longer plans withdrawal. This is reciprocal care/repair, not a formal enrollment record.
+- **SAKURAKO/SISTERHOOD ↔ HANAKO:** Sakurako expects future political assistance, explicitly disclaims forced Sisterhood membership and unreasonable demands. Hanako accepts “that much” while making a deliberately false nudity-rule joke. Scope/duration of future help unknown.
+- **SENSEI ↔ HANAKO:** Sensei claims her as a student and asks whether she dislikes the arrangement; these are spoken singleton choices supporting a consent boundary, not control over Sisterhood.
+- **SEIA ↔ AZUSA/MIKA/MINE:** dream-framed Seia/visitor exchange suggests advice sought amid a lethal assignment; exact act and conversation unresolved. Sakurako says Mine hid Seia from a Tea Party information channel contaminated by Mika, preserving the earlier separation without direct Mine voice.
+- **HIFUMI ↔ AZUSA:** Hifumi is silently present when an inspector calls Azusa; no assistance, testimony or ruling yet.

@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:020 and canonical MAIN_V003_C002 checkpoint; BA:main:003:003:001 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001; BA:main:003:003:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -775,3 +775,7 @@ Seia recognizes the four's certified academic pass and says Koharu should now re
 ## V003 C002 canonical checkpoint reconciliation
 
 The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) certifies the academic all-four outcome while leaving expulsion-rule legality, paper-loss responsibility, Justice reinstatement and treaty signature unverified. Mika's coup program is self-confessed but not completed; Sisterhood's intervention is direct, its custody process unshown; Seia's prison statement is a report. No side-source backfill or C003 content is admitted.
+
+## V003 C003 E001 institutional delta — postmortem and Sisterhood contract
+
+Sakurako says Seia's room exploded around 3 a.m., Mine first arrived, told Tea Party and then hid Seia under deliberately false destroyed-halo/“corpse” information. She says this guarded against a second attack in a Tea Party system where Mika was the culprit/information holder. The explanation is an informed institutional report, not direct Mine testimony or a reviewed investigative record; the asserted optimality of deception is Sakurako's judgment. Blast wounds are now reportedly healed, but Seia remains asleep for an unknown reason and hidden with Mine. Hanako reports Azusa entered about 2 a.m. and spent the pre-blast hour with Seia; Azusa's own detailed account is absent. Tea Party inspector summons Azusa at the end; no proceeding outcome is shown. Marie says Sisterhood aid was exchanged for Hanako retracting a withdrawal plan, and Hanako now directly says she does not intend withdrawal; no registrar action is printed. Sakurako clarifies an additional open-ended request for Hanako's future help as Sisterhood shifts from nonintervention toward politics, promising no forced recruitment/unreasonable demand. Hanako's naked-attendance rule is explicitly denied, not policy. No direct Nagisa exam/treaty resolution.

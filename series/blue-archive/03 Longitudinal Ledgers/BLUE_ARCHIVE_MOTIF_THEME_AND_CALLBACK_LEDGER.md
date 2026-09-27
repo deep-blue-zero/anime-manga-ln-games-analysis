@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:020 and canonical MAIN_V003_C002 checkpoint; BA:main:003:003:001 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001; BA:main:003:003:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1046,3 +1046,11 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 ## V003 C002 canonical checkpoint reconciliation
 
 The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) holds the paired pattern: genuine student effort and certified pass inside coercive exam architecture; anti-fatalist `それでも` against Arius's `vanitas`, without a guaranteed safe ending. Seia's premature-credit frame preserves the chapter's unresolved political and medical future.
+
+## V003 C003 E001 motif / callback delta — an hour between fate and act
+
+- **Postmortem over prophecy:** Sensei's apparent dream shows Seia saying some dreams later happen and fatalistically invoking `vanitas`. Sakurako's later postmortem provides a different, report-mediated causal account. Neither narrative mode makes Seia omniscient or abolishes the missing hour.
+- **`それでも足掻く` crosses students:** Seia says the Azusa-named visitor both accepts and resists Arius futility, while Hanako now explicitly says the remedial club taught her to struggle rather than withdraw. This is thematic echo with distinct evidence statuses, not proof Seia caused Hanako's change.
+- **Protective false death:** Mine's reported decoy turns “halo destroyed/corpse” into a survival shield, making information withholding ethically instrumental yet potentially trust-damaging; actual safety and Seia awakening remain unsettled.
+- **Care without capture:** Marie's desire to keep Hanako, Sakurako's rejection of coerced recruitment and Sensei's consent check counter the C001/C002 pattern of institutions converting students into instruments. The future help bargain is not free of possible obligation.
+- **Comedy as false policy:** Hanako's nudity/veil performance tests Sisterhood solemnity but is expressly disconfirmed; no actual school-rule change.

@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:020 and canonical MAIN_V003_C002 checkpoint; BA:main:003:003:001 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001; BA:main:003:003:002 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002 checkpoint canonical; C003 E001 unopened
+current_sequential_boundary: MAIN_V003_C003_E001 active provisional; E002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1901,3 +1901,12 @@ Hiyori, Misaki and Atsuko join as narrow `UNMODELED` subjects: **21 partial / 50
 ## V003 C002 canonical checkpoint reconciliation
 
 [The C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) is canonical authority for the twenty-unit synthesis. **BA-C021** is strong and **partially resolved**: actual remediation/all-four academic passing defeats the exam-failure expulsion route, while Nagisa's procedural design, second-exam paper loss, formal reinstatement, Seia/Nagisa care and treaty completion remain open. Mika's self-confession materially revises the insider case but does not complete forensic or legal proof. BA-C001/C016 are agency-preserving but ethically qualified by the defensive violence; BA-C008 strengthens through source/voice distinctions. No new durable claim ID, model, prediction or side-source backfill. C003 E001 unopened.
+
+## V003 C003 E001 claim delta — protective deception, uncertain attack transcript
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei names Hanako as a student and checks whether she actually wants to accept Sisterhood help; Sakurako rejects forced recruitment. This is consent-sensitive local practice, not a complete audit of Hanako's future obligations or Sensei's post-incident work.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE:** Sakurako reports Mine deliberately spread a false halo-destruction/death account and hid Seia, then says blast wounds have healed but Seia remains asleep for an unknown reason. This clarifies C002's survival report while preserving its earlier time and lack of direct medical chart. Hanako directly disavows school withdrawal, and the actual Sisterhood bargain is future help rather than forced membership. Azusa's apparent execution role, special bomb and the one-hour interval are still not fully adjudicated; the Tea Party inspector only calls her in.
+- **BA-C008 — STRENGTHEN:** scene 1 is dream-framed and uses `？？？`/italic voice; Seia's `予知夢` is self-claim, the lethal-method discussion is interlocutor testimony, Sakurako's timeline is report, and the nude-attendance idea is explicitly a Hanako joke denied by Sakurako. Do not promote any into omniscient fact or true policy.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 50 unmodeled across 71**; backfill **DEFER**. E002 unopened.

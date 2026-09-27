@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:020 and canonical MAIN_V003_C002 checkpoint; BA:main:003:003:001 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001; BA:main:003:003:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1293,3 +1293,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 ## V003 C002 canonical checkpoint reconciliation
 
 The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) keeps official/mocked exam language, `心の声`, conflicting person tags, actor confession, medical report and modal Seia forecasts in separate evidence classes. In particular E020's narrator-tagged `vanitas` is not a secure Saori utterance and its title card supplies no C003 content.
+
+## V003 C003 E001 delta — dream, source voices and parody
+
+- Secret-room `？？？` is addressed as `白洲アズサ` by Seia but never receives a direct Azusa tag; much of the exchange is italic. Scene 2's sleep/dream alternatives make it a framed recollection/vision, not a neutral recorded transcript. Seia's `予知夢`, `無意味` and `人殺しは人殺し` are her capability/ethical interpretations; the visitor's `習った` and special-bomb plan are testimony, not verified technology use.
+- Sakurako's `遺体`/`ヘイローが破壊された` are explicitly described as Mine's **fake information**, not a confirmed fatal outcome. `傷は癒えた` but `まだ目覚めていません` is a later report, not proof Seia was awake during E020. Sakurako's `犯人` Mika distinguishes mastermind from Hanako's apparent `実行犯` Azusa without a complete forensic chain.
+- Scene 2 `choice:001` has two alternatives and identical Sakurako `u:0003/0004` convergence; choices 002–006 are singleton. Sensei `u:0023/0030/0032` are `心の声` and cannot license mind-reading when Marie lines follow. `u:0054-0057` Hanako/Marie tags misalign with Sakurako's “another request” context; preserve exact speaker uncertainty.
+- Hanako's nude-attendance/veil “rule” is comic fabrication; Sakurako's `違いますよ` and `そういう約束でしょう` reject it. The real request is future assistance as Sisterhood eases `無干渉主義`, with no concrete mandate yet. The E002 title card is not its content.

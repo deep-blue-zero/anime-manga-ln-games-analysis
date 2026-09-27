@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:020 and canonical MAIN_V003_C002 checkpoint; BA:main:003:003:001 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001; BA:main:003:003:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -865,3 +865,7 @@ Sensei has no choice, spoken action or direct reply in E020. Seia addresses “y
 ## V003 C002 canonical checkpoint reconciliation
 
 The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) strengthens a bounded, agency-preserving adult role: Sensei rejects student surveillance, supports the group and receives local command credit, while students and independent Sisterhood perform decisive work. Nagisa gunfire and explosive defense remain ethically/medically unclosed. The four-pass does not establish sole adult teaching causality or erase future protection duties.
+
+## V003 C003 E001 delta — post-incident limits and consent
+
+In Sakurako's conference room, Sensei appears tired and may say either they briefly slept or saw a dream; the duplicate reply converges. Sakurako says Sensei has been busy with aftermath even beyond jurisdiction, a report rather than a log of particular acts. Sensei's singleton says they fell short and left much undone, not that every bad outcome was their fault. After Hanako's promise emerges, Sensei explicitly says she is a remedial-club student of theirs and asks if she truly dislikes Sisterhood's second request. Sakurako promises noncoercive, reasonable future assistance rather than forced membership. This is a local consent check, not a completed review of bargaining power or later obligations. Sensei's `心の声` calls to Hanako must not be heard by Marie absent printed speech. The dream-framed Seia/Azusa exchange does not establish Sensei personally witnessed the historical hour. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
