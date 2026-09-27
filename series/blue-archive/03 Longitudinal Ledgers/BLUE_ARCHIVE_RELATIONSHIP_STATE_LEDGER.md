@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:007; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:008 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:008; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ Track only relationships or ensembles with actual narrative state. Co-occurrence
 
 ## Current boundary
 
-Through `BA:main:003:001:007` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:008` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Relationship / ensemble | Current state | Last material transition | Confidence | Evidence |
 |---|---|---|---|---|
@@ -681,3 +681,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **HANAKO/AZUSA ↔ PEERS:** a question-and-answer study exchange covers several subjects, supporting group-level cooperation after E006's task-bound agreement. Repeated label/turn inversions prevent secure line-by-line tutor/learner assignments or proof of friendship.
 - **HIFUMI → GROUP/SENSEI:** Hifumi observes apparent ability and motivation, expresses relief and confides Tea Party's first-failure camp instruction to Sensei. She withholds the feared third-failure consequence when asked; trust/disclosure is partial, not a demonstrated plan to mislead.
 - **SENSEI ↔ GROUP:** Sensei privately approves and wishes all four well, asks about the camp and consequence. No one is shown responding to a specific lesson or test intervention; group support is not outcome.
+
+## V003 C001 E008 relationship delta — common fate despite unequal marks
+
+- **HIFUMI → GROUP:** Hifumi initially anticipates group rescue, passes herself, challenges Azusa's “near miss,” asks Koharu about her hidden ability and reacts to Hanako's two points. Her surprise marks a correction of prior appraisals, not rejection of the peers or an implemented new teaching plan.
+- **HANAKO/AZUSA/KOHARU ↔ HIFUMI:** each failed result exposes Hifumi to the E006 shared condition despite her own pass. Azusa quips, Koharu calls the paper difficult, Hanako says studious appearance is not grades; none supplies a secure motive or acceptance of camp yet.
+- **SENSEI ↔ HIFUMI/GROUP:** Hifumi asks Sensei to announce results; Sensei inwardly encourages her. Her private report credits Sensei's prior explanation on material she recognized, not demonstrated identical benefit for all four.

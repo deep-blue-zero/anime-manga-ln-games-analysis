@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:007; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:008 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:008; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:007` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:008` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -1089,3 +1089,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Study begins with Azusa addressing Hanako (`u:0002`); the next Azusa-labelled polite explanation and Hanako-labelled “understood” (`u:0003-0004`) fit inverted turn roles. `u:0007-0011` pair “Koharu-chan” address with Koharu/Hanako labels in conflict; `u:0013-0021` similarly mismatch “Hanako” address, the epic/ancient-language responses, Latin recognition and self-report “learned long ago.” Do not silently correct the source or assign divisibility, epic or Latin fluency to an individual from these lines. `Gaudium et Spes` is a referenced phrase/title within the exchange, not an audited historical or theological assertion.
 - Hifumi's secure `ハナコちゃんが何だかとってもすごく` / `アズサちゃんも学習意欲たっぷり` is her observation, not confirmed marks. Her `合宿` report names a first-failure contingency; her `3次試験まで全て落ちてしまったら` stops short of stating a consequence. Sensei `choice:001-002` each contain one question; `u:0023` and `u:0038` are inner voice.
 - On exam day, Hifumi-labelled `エリートの力` (`u:0039`) resembles Koharu's prior self-presentation, while Koharu-labelled hesitant `頑張ります` (`u:0040`) and `u:0041-0042` suggest further shift. Treat the four replies as a group-level moment, not secure voice exemplars. `u:0033` is a day-jump and `u:0043` a next-title card, not scores.
+
+## V003 C001 E008 delta — inward confidence, numerical correction and result captions
+
+- Hifumi's italic `u:0001-0004` contrasts perceived test familiarity and basic difficulty with her conjecture `救済措置`; `u:0008` checks overconfidence. Her `60点以上` is a participant threshold report corroborated for this sitting by the narrator's score/pass pairs, not a full charter.
+- Azusa's `紙一重` after 32 against the stated 60 is quipping or a mistaken appraisal, not a reliable near-miss fact. Koharu's `かなり難しかった` is situated self-appraisal; Hifumi's rapid questions about second-/third-year papers are unconfirmed guesses. Hanako's `雰囲気` versus `成績は別` declines to explain why she scored two; do not infer intent or broad intellectual incapacity.
+- Narrator `u:0014-0015/0017-0018/0022-0023/0030-0031` and `u:0039-0044` supply score/result and camp-outcome authority. Sensei `choice:001` is a single result-announcement option; `u:0038` is inward encouragement, not audible advice. `u:0045` is a next-title card.

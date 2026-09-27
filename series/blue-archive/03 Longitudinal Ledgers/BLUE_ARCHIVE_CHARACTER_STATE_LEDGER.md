@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:007; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:008 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:008; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 ## Current boundary
 
-Through `BA:main:003:001:007` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:008` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Entity | Current state | Material evidence / transition | Confidence | Source |
 |---|---|---|---|---|
@@ -812,6 +812,14 @@ Hasumi says Tea Party-authorized Schale teaching permits Sensei to take Hanako a
 - **Azusa/Hanako:** Azusa confirms recent transfer, reports first-year exam placement due curriculum difference, and frames the group as mutual benefit rather than compulsory friendship. Hanako seeks `ちゃん` address and accepts no in-club seniority; social appraisal is situated.
 
 No new subject or readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E008 character-state delta — first score distribution
+
+- **Hifumi:** privately recognizes Sensei-explained and group-studied material on the paper, calls it basic and speculates it may be a rescue measure. She reports a 60/100 pass line, earns a narrated 72/pass, initially assumes Hanako passed, then is shaken by three failures. Material overlap is her perception; rescue intent is conjecture, not an exam-setting fact.
+- **Azusa/Koharu/Hanako:** narrator scores 32, 11 and 2 respectively, each failing. Azusa's `紙一重` quip is not a near miss under the stated line. Koharu's quick-success forecast fails for this sitting, although her past test history is not audited. Hanako distinguishes studious appearance from grades; neither her two-point cause nor intentionality is established.
+- **Sensei:** announces results when asked and inwardly urges Hifumi to steady herself. Hifumi's thought supplies a narrow report of Sensei explaining tested material; actual pedagogical process, differential uptake and next intervention are not shown.
+
+Narrator confirms camp is decided, not carried out. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C001 E007 character-state delta — study confidence before first result
 

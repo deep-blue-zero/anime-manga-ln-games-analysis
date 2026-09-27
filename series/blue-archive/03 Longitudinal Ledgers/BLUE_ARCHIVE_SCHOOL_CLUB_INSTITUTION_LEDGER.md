@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:007; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:008 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:008; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:007` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:008` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -658,3 +658,7 @@ Hifumi reports a special academic exam with up to three sittings; all four must 
 ## V003 C001 E007 institutional delta — first-failure camp, undisclosed terminal risk
 
 Narration shows after-school self-study and a jump to the first special academic exam day; no paper, grading, result or camp occurs. Hifumi says Tea Party directed a `合宿` if anyone fails the first sitting. She breaks off when describing failure through the third sitting and declines Sensei's question about whether something bad would happen. Thus the first-failure camp is a reported group contingency, while the later consequence remains unknown; do not infer expulsion, venue, duration, compulsory powers or exact threshold from her silence. Her observation that Hanako seems able and Azusa motivated is not an academic record, especially given repeated study-line speaker-label conflicts.
+
+## V003 C001 E008 institutional delta — threshold, first result and camp decision
+
+Hifumi reports a pass line of at least 60/100; narrator records Hifumi 72/pass, Azusa 32/fail, Koharu 11/fail and Hanako 2/fail and repeats three failures/one pass. The all-four rule is therefore unmet in the first sitting. Narrator `u:0044` says the remedial-club camp is decided, corroborating E007's reported trigger in practice. Camp is not yet shown and no details, appeal, second-exam date or third-failure sanction are supplied. Hifumi privately judges the paper basic and wonders whether it was a rescue measure; setter intent and equal treatment remain unknown. Her questions about whether Koharu sat a second-/third-year paper are speculation, not an alternate test record.

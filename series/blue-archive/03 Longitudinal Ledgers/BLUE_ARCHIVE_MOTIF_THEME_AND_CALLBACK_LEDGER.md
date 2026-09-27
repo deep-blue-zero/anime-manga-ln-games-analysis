@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:007; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:008 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:008; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:007` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:008` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -834,3 +834,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **Visible effort versus grade:** varied study questions and Hifumi's relief unsettle a simple “remedial equals incapable” stigma, but labels prevent assigning exact expertise and no grade verifies success. Hifumi's own missed-test history prompts her speculation about Hanako, not proof of a shared cause.
 - **Collective risk escalates:** the E006 all-four rule makes any one failed first sitting a group failure; Hifumi now reports an ensuing camp, while a third-failure consequence remains deliberately unsaid. Institutional care and pressure coexist as a question, not a settled verdict.
 - **Title before outcome:** the narrator moves from study to first exam day, then a next-title card. Anticipatory optimism, tension and Sensei's inward support cannot be converted into achievement.
+
+## V003 C001 E008 motif / callback delta — the grade rebuts first impressions
+
+- **Work seen versus learning measured:** Hifumi recognizes lesson material and passes, while the other three fail. The juxtaposition tests whether shared study yielded shared mastery; one result cannot isolate teaching quality, effort, test fit or motive.
+- **Status and self-presentation:** Koharu's E006 confident solo exit is contradicted by 11, while Hifumi's E007 sense that Hanako was able meets Hanako's 2 and her `雰囲気`/grade distinction. Neither contrast licenses a durable fraud or incapacity label.
+- **Conditional consequence materializes:** the first-failure camp moves from Hifumi's warning to narrator-confirmed decision. The undescribed third-failure threat stays suspended.

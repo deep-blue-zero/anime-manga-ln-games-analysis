@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:007; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:008 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:008; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:007` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:008` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 ### Structural Sensei
 
@@ -748,3 +748,7 @@ Hifumi asks Sensei to coordinate schedules and provide varied supplementary less
 ## V003 C001 E007 delta — questions and inward encouragement, no grade agency
 
 Sensei privately regards the study as going well, asks singleton questions when Hifumi mentions camp and hints at a third-failure risk, and inwardly wishes all four calm effort on first-exam day. No classroom instruction by Sensei, welfare escalation, answer about the feared sanction, test modification, grade or pass result is printed. Asking about consequence does not itself show knowledge of it or power to prevent it. Hifumi's appraisal and the students' short exam-day replies do not establish teaching efficacy. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E008 delta — taught material recalled, outcomes diverge
+
+Hifumi's private exam thought explicitly recalls material Sensei explained and that the group studied; this is the first narrow testimony of actual explanation, without a printed lesson or independent pedagogy record. Sensei announces scores through a singleton choice at Hifumi's request and privately urges her to hold steady after distress. Hifumi passes but three peers fail; no inference that Sensei caused either result, could waive camp, or chose an equitable response is justified. The narrator decides camp; Sensei has no shown appeal, new teaching plan or school-rule command. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:007; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:008 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:008; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:009 unopened
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001_E007 active provisional; E008 unopened
+current_sequential_boundary: MAIN_V003_C001_E008 active provisional; E009 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1623,3 +1623,13 @@ No new durable claim ID, standalone model, frozen prediction or side-source admi
 - **Other families:** no direct global test.
 
 No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; first exam result, camp terms, third-failure consequence and Hanako's earlier failure cause remain OPEN.
+
+## V003 C001 E008 claim delta — measured failure and activated camp
+
+- **BA-C001/C016:** Hifumi privately recalls Sensei explaining tested material and herself passes, but three peers fail. Teacher input is now reported more specifically, not demonstrated sufficient or equal; no follow-up educational decision is printed.
+- **BA-C002–C004/C007/C010–C011:** Hifumi reports 60/100 as the pass line, and narrator score/outcome pairs are Hifumi 72/pass, Azusa 32/fail, Koharu 11/fail, Hanako 2/fail. Narrator confirms camp decided after the failed joint sitting. This strengthens E007's first-failure report while leaving paper-setting, camp details and terminal sanction uninspected. Hifumi's “rescue measure” inference is not a confirmed policy.
+- **BA-C008:** E007's confident group and Koharu-solo forecasts are locally disconfirmed; neither Koharu's prior acceleration history nor Hanako's motive is thereby proved false or true. Hifumi's italic thoughts, Sensei's one singleton result announcement, narrator score captions and inward encouragement remain distinct. Azusa's `紙一重` is not an accurate numeric claim.
+- **BA-C019/C020:** conditional club belonging may be compared, but no direct Pavane recurrence test.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; score causes, camp program, later sittings and third-failure consequence remain OPEN.
