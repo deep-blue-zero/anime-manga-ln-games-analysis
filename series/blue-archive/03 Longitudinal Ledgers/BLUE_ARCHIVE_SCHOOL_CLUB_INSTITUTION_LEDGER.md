@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–024; BA:main:003:003:025 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–025; C003 checkpoint pending; BA:main:003:004:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -871,3 +871,7 @@ Saori alludes to “that” beneath the old cathedral after the Squad's E022 no-
 ## V003 C003 E024 institutional delta — escape proposal, incomplete doctrine
 
 Atsuko proposes leaving both the immediate site and Arius rather than returning to a district where Saori expects death at an unnamed woman's hands. Her learned-hatred account challenges Arius's claimed identity but is not a documented indoctrination history or a completed defection. Maestro displays a form Atsuko questions as “doctrine” and later calls it incomplete; technical specification and legal/ETO effect are unavailable. Narration says the search for Squad failed and infers an unidentified cathedral passage; no custody, asylum, district-return or settled sanctuary follows. No formal treaty, club, Justice or school-status order is shown.
+
+## V003 C003 E025 institutional delta — survivals, club recurrence, continuing pursuit
+
+Nagisa says her halo survived and receives a letter from imprisoned Mika, without a printed Tea Party hearing, treaty document or complete recovery certificate. Mine returns to Rescue Knights; Seia appears in a social exchange with Nagisa/Mika and urges future discussion, not immediate constitutional repair. Sensei inwardly says the four former remedial students had all graduated, but the same four recur; Hifumi/Azusa/Koharu supply different exam-related reasons and Koharu says no expulsion this time. Their report does not independently establish a new school order or erase the earlier narrator-certified pass. An anonymous actor orders escaped “royal blood” captured and other Squad members' halos potentially destroyed, keeping Arius status/safety unresolved.

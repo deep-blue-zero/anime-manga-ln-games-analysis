@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–024; BA:main:003:003:025 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–025; C003 checkpoint pending; BA:main:003:004:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -961,3 +961,7 @@ Azusa elects to pursue Saori and asks injured Hifumi to rest before Sensei's sin
 ## V003 C003 E024 delta — reluctant card response under uncertain cost
 
 Azusa warns the displayed phenomenon is dangerous and urges flight. Sensei's two singleton choices register recognition/“unfairness”; an inward line says they hoped to finish without it and take out an adult card. Maestro observes and describes an unknown power purchased with life/time, but his speech does not independently measure Sensei's actual payment or the card's limits. Scene 2 thanks Sensei after an unprinted transition, while the search for Squad fails. The adult intervention is real as a response, not proof of total rescue, comprehensively solved Arius/Gematria threat or replacement of Atsuko's own refusal of learned hatred. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E025 delta — recurring care after apparent graduation
+
+Sensei has no choice or direct speech. Inward lines report hearing the four remedial students had graduated, express surprise that the same four returned and enact a comic collapse; Hifumi, Azusa, Koharu and Hanako supply their own reasons. The old narrator-certified pass is not erased, and Koharu's “no expulsion this time” is her bounded assurance. Seia, rather than Sensei, proposes the Tea Party conversation; Atsuko privately wishes Azusa a future; an unknown actor issues a lethal pursuit order. These distributed voices prevent an adult-only resolution and keep adult responsibility ongoing without a frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

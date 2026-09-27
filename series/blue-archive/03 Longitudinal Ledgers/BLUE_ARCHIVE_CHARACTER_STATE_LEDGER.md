@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–024; BA:main:003:003:025 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–025; C003 checkpoint pending; BA:main:003:004:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E025 character-state delta — bounded returns and unresolved threat
+
+- **Makoto/Iroha:** italic comic aftermath: Makoto wants retaliation and Iroha urges rest, says the hair was fire-damaged and matters are already settled. No new operation or complete health finding. Both `UNMODELED`.
+- **Nagisa/Mika/Seia:** Nagisa self-reports halo intact; a letter from Mika is relayed with voiced demands. Seia is addressed by name and greets Nagisa/Mika, proposing honest talk despite unprovable hearts. `u:0034-0036/0049-0052` speaker labels are suspect; no completed reconciliation, office restoration or full medical clearance. All `UNMODELED`.
+- **Mine/Serina:** Mine physically returns to Rescue Knights, apologizes, and receives Serina/group relief. This is Mine's first direct named presence after mention/report; formal duty/health details remain unprinted. Both `UNMODELED`.
+- **Hifumi/Azusa/Koharu/Hanako/Sensei:** the same four recur in remedial setting with individual reasons; Koharu reports no expulsion this time. Sensei's collapse is inwardly marked comedy. Hifumi/Sensei `PARTIAL_MODEL`; the others `UNMODELED`.
+- **Atsuko/unknown order giver:** Atsuko inwardly wishes Azusa ongoing learning and recalls the flower. A `？？？` orders “royal blood” recaptured and permits others' halo destruction; neither identity nor fulfillment is shown. Atsuko `UNMODELED`; no new named subject.
+
+Mine added as a narrow tracked `UNMODELED` subject; no readiness promotion: **21 `PARTIAL_MODEL` / 61 `UNMODELED` across 82**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C003 checkpoint pending.
 
 ## V003 C003 E024 character-state delta — Atsuko's dissent and the card encounter
 

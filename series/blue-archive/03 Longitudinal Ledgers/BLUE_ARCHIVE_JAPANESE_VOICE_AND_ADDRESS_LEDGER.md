@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–024; BA:main:003:003:025 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–025; C003 checkpoint pending; BA:main:003:004:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1476,3 +1476,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Atsuko's italic `私たちの負けだよ、アズサ` precedes Saori's spoken `喋ると、彼女が` warning, so mode/receipt is anomalous. Her following direct `だから逃げよう、一緒に` and learned-hatred account are secure. `彼女` remains unnamed in this unit.
 - Atsuko asks `あの「教義」が、完成した……？`; this is a question, and Maestro later calls the seen form `不完全`. His `人生を、時間を代価` card description is his claim, not audited cost.
 - Sensei's first choice `（これは……）` is parenthetical, second `反則みたい` is a singleton, and `大人のカードを取り出す` is marked `心の声`. Scene 2 `u:0011-0015` repeats `ヒヨリ` on apparently alternating voices; quarantine precise attribution. `ナレーション` at `u:0007-0008` certifies failed search, then conjectures an underground route. `u:0017` is E025 title only.
+
+## V003 C003 E025 delta — epilogue montage and self-address faults
+
+- The Makoto/Iroha and Nagisa blocks begin in italic; the administrator explicitly introduces a Mika letter before `u:0015-0023` Mika-tagged lines, so do not use the latter as proof Mika is physically present with Nagisa then. Nagisa's `ロールケーキだけ` is an inward comic response, not an implemented order.
+- `正義実現委員会部員` repeats at `u:0034-0036` across a likely changing exchange; `ミカ` repeats at `u:0049-0052` including self-address. Keep Seia's own `u:0037/0040-0047` proposal distinct from the corrupt banter and avoid precise attribution to Nagisa/Mika there.
+- Sensei `心の声` at `u:0053-0054/0059/0067` marks hearsay, comic recognition and collapse; Koharu's `今回は退学もありません` remains her assurance. Atsuko `u:0074-0083` is italic wish/address, not a confirmed delivered message.
+- `？？？` `ロイヤルブラッド`/`ヘイローを破壊` is an unidentified actor's explicit future order, not completed violence or a securely named antagonist.

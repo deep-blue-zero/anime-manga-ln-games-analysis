@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–024; BA:main:003:003:025 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–025; C003 checkpoint pending; BA:main:003:004:001 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E024 active provisional; E025 unopened
+current_sequential_boundary: MAIN_V003_C003_E025 active provisional; C003 checkpoint pending; C004 E001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2117,3 +2117,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E025 unopened.
+
+## V003 C003 E025 claim delta — epilogue is recurrence, not total closure
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Nagisa self-reports survival, Mine returns and Seia directly addresses Nagisa/Mika, but treaty validity, complete medical recovery, formal Tea Party settlement and reparative dialogue remain open. The same four students recur in Remedial Club; C002's pass is not cancelled.
+- **BA-C001/C016 — QUALIFY:** Sensei's comic inward reaction to recurring students does not erase their separate agency or prove new expulsion. Atsuko's hope for Azusa is her perspective, not a delivered message or guaranteed future.
+- **BA-C008 — STRENGTHEN:** letter voicing, italic montage, `u:0034-0036/0049-0052` label conflicts, character assurances and the anonymous kill/capture order have distinct evidentiary weight. The order is a real threat, not a completed act.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, model, frozen prediction or side-source admission. Mine becomes one narrow tracked `UNMODELED` subject; readiness **21 partial / 61 unmodeled across 82**; backfill **DEFER**. C003 chapter checkpoint required before C004 E001.

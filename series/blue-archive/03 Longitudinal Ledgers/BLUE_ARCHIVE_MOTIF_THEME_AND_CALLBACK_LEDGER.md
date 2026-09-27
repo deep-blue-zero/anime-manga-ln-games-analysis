@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–024; BA:main:003:003:025 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–025; C003 checkpoint pending; BA:main:003:004:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1234,3 +1234,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Flight as refusal:** Atsuko's repeated “let's run” reframes retreat from failure into a collective alternative to Arius return/death, but no refuge is reached.
 - **Adult card under price language:** Sensei reluctantly produces a card when Azusa fears the displayed doctrine; Maestro aestheticizes life/time cost. Motif importance does not supply technical cost accounting.
 - **Unfinished art and open route:** Maestro promises to complete his incomplete form, while narration cannot locate the Squad's exit. The apparent climax is bounded, not full-series closure.
+
+## V003 C003 E025 motif / callback delta — unfinished homework and recurring study
+
+- **Homework of other hearts:** Seia turns the old-rule “unprovable” problem toward conversation about withheld truths, without claiming the three have solved it.
+- **Graduation and recurrence:** Sensei's expectation of a new remedial cohort collapses comically when the same four return for different reasons. The E019 pass remains real; belonging/learning are not a one-time solved state.
+- **Flower in concrete:** Atsuko recalls Azusa's earlier flower and projects hope for learning even amid futility; wishful address is not guaranteed safety or renewed contact.
+- **Threat after epilogue:** the unidentified royal-blood capture/halo-destruction order denies complete safety to the Squad even after failed pursuit by the protagonists.
