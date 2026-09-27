@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–005; BA:main:003:003:006 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–006; BA:main:003:003:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1331,3 +1331,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Journalists' SRT/tower/district prompts are questions. Rin's answer articulates uncertainty and school-district deference; Shinon's `あんまり興味無い` is a cynical gloss, not Rin's words. Momoka's resource aside is not statute.
 - Hanako's `実質的` graduation is informal; Koharu's Justice statement and Hifumi's outing invitation are participant/future speech.
 - Sensei's `暇だなぁ` is `心の声`, not a public duty denial. Scene 2's E006 title is forward metadata, not E006 evidence. No Sensei choice groups.
+
+## V003 C003 E006 delta — labels, rumor and command modality
+
+- Hall `u:0005-0006` duplicates a Justice line. `u:0012` Tsurugi tag says “Tsurugi-senpai” and `u:0013` Justice tag laughs Tsurugi-like; do not literalize. Sensei `u:0023` is `心の声` despite Tsurugi `u:0025` response. Scene 2 `u:0002` inward admiration also receives Hinata response.
+- Hinata's site agreement `聞きました`, catacomb `噂`, blocked-passage `でしょうか` and nonintervention-cause `かもしれません` carry lower confidence than direct tour observations. `歴史的には…前身` is her affirmative Justina/Sisterhood lineage claim, stronger than Shinon's E005 question but not archive proof.
+- Hina's `足枷` is a metaphor for a future constraint on Makoto; `調印式が終わってから` defers discussion, not an enacted resignation. Shinon's `多分` jokes about Makoto's charisma; her Hina arrival is still future.
+- Saori/Misaki's `すでに発射済み` and `5分後` report an already launched missile and imminent target. `崩壊と同時に突入` is an order based on planned collapse, not narrated completed collapse. Saori's `姫` directly addresses Atsuko; her gesture content is not verbal text. `あの人形` remains unidentified.
+- Azusa's `まだ、終わってなかった？` and `サオリ、まさか` are inward alarm, not verified attribution of every mechanism. `u:0079` narration supplies explosion without impact coordinates. `u:0080` is E007 title only. Nine Sensei choice groups, first two-option, rest singleton.

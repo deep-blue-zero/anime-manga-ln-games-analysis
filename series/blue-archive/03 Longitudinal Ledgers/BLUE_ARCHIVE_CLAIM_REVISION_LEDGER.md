@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–005; BA:main:003:003:006 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–006; BA:main:003:003:007 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E005 active provisional; E006 unopened
+current_sequential_boundary: MAIN_V003_C003_E006 active provisional; E007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1946,3 +1946,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, model, frozen prediction or side-source admission. Shinon, Momoka and Ayumu enter narrow `UNMODELED`: **21 partial / 53 unmodeled across 74**; backfill **DEFER**. E006 unopened.
+
+## V003 C003 E006 claim delta — peace apparatus under direct attack
+
+- **BA-C001/C016 — QUALIFY:** Tsurugi and Hinata recognize/guide Sensei amid committee rivalry; adult access depends on student recognition, not innate procedural immunity. Sensei does not prevent the visible attack.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE:** Arius operation start is narrator-marked, Misaki reports missile already launched/five minutes out, Saori orders coordinated entrances around intended cathedral collapse, and an explosion is narrated. This is more than Seia's catastrophe forecast, but exact impact, collapse, casualties and team success are unshown. Hina's ETO-as-shackle is political intention, not implemented treaty. Hinata's Justina lineage/history is member testimony, not ancient enforcement demonstrated. Signature still absent.
+- **BA-C008 — STRENGTHEN:** Justice/Tsurugi tags invert, repeated line and inward Sensei replies caution voice. Hinata's venue agreement is hearsay, catacombs `噂` and Sisterhood policy cause `かもしれません`; Shinon's arrivals are broadcast. Atsuko gestures are nonverbal but not proposition-transcribed; “doll” remains unidentified.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 53 unmodeled across 74**; backfill **DEFER**. E007 unopened.

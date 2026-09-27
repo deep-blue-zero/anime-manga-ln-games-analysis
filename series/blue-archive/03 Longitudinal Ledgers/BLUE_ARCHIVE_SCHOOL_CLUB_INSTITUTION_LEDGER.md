@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–005; BA:main:003:003:006 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–006; BA:main:003:003:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -795,3 +795,7 @@ Ichika reports a school equipment tank taken by an unidentified actor, seeking H
 ## V003 C003 E005 institutional delta — ceremony coverage, unsigned treaty
 
 Shinon reports a crowded signing-day venue and projects `エデン条約機構（ETO）` with shared conflict-resolution duties after conclusion. Venue origin rests on an unnamed Gehenna-leadership source; First Council/Sisterhood succession comes via history narration and reporter question. Sisterhood attendance is reported confirmed. No treaty text, witnessed assent, actual ETO launch or named site-choice decision is inspected; broadcast interruption has no established cause. In a recorded prior-day federal press clip, Rin confirms the president remains missing, defers uncertain information and states general district-school deference; Momoka cites resource scarcity and Ayumu rebukes her manner. Journalists' SRT/tower premises are unanswered questions, not findings. Hanako's `実質的` graduation and Koharu's claimed Justice affiliation do not formally supersede Mashiro's E004 remedial-club assignment. No signature, committee reinstatement, club closure or conflict-resolution operation is printed.
+
+## V003 C003 E006 institutional delta — ceremony security and attack
+
+Justice Realization/Prefect members challenge Sensei as an outsider and quarrel over a line until Tsurugi/Hinata intervene; on-site co-presence is tense, not yet an ETO adjudication. Hinata says Sisterhood is helping guide and guard under Sakurako, with a tentative post-crisis policy explanation. Her partly repaired cathedral and blocked passage are local observations/reports; catacombs are rumor. Her report that Nagisa/Makoto agreed the venue remains hearsay. Hinata affirmatively calls Justina Holy Council a historical Sisterhood predecessor and describes covenant-break enforcement, not present jurisdictional authority. Hina says planned ETO would constrain Makoto/Pandemonium and leave Prefect Committee intact, an interested forecast, not law in force. Shinon reports Makoto and Nagisa arrivals, Hina pending; no signature. Narration marks Arius Squad operation start; direct command report says cruise missile already launched/five minutes from target, with Teams II/III aimed toward school sides and Teams I/V underground. An explosion is narrated. The exact impact, cathedral collapse, casualties, access route, team penetration, signature process and ETO fate remain open.

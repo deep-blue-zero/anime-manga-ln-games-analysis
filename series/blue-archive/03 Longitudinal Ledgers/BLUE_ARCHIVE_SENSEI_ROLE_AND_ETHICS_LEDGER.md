@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–005; BA:main:003:003:006 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–006; BA:main:003:003:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -885,3 +885,7 @@ Sensei meets Makoto/Iroha only for formal Eden attendance; Makoto imagines an al
 ## V003 C003 E005 delta — desired adult, student-owned continuity
 
 The four sustain friendship and future plans without Sensei's intervention, yet want a leisurely talk after the ceremony. Hanako assumes Sensei is busy; Sensei is separately in the cathedral hall and inwardly thinks `暇だなぁ`. This is not a public statement of negligence, a treaty-signing act or an explanation of student bonds. Adult care remains desired while student care is self-sustaining. No choice group, completed intervention or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E006 delta — recognized visitor, not attack-stopper
+
+Sensei considers wandering while waiting, is misidentified by both security sides and can proceed after Tsurugi identifies them and Hinata offers a tour. This illustrates dependence on student/institutional recognition, not an automatic adult exemption. Sensei encourages Hinata after she minimizes her earlier help, then asks about Sisterhood/history; the tour's facts remain Hinata's testimony. Sensei's `心の声` at hall thanks and corridor admiration draw apparent replies, a presentation anomaly rather than verified mental access or audible speech. The Arius launch and blast occur without a depicted Sensei response or successful protective intervention in this unit. No signature action, completed countermeasure or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

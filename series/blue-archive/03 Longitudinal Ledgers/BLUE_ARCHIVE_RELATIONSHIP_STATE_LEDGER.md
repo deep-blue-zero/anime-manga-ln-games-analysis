@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–005; BA:main:003:003:006 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–006; BA:main:003:003:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -932,3 +932,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **HANAKO/HIFUMI/AZUSA ↔ KOHARU:** Hanako invites her as a continuing club companion; Koharu says she will stay with Justice and welcomes visits. Reciprocal attachment is not an official reinstatement.
 - **FOUR STUDENTS ↔ SENSEI:** they wish to talk after the ceremony; Sensei is separately in the cathedral hall. No encounter in this unit.
 - **SHINON ↔ FEDERAL COUNCIL:** Shinon airs and skeptically glosses a prior-day Rin/Momoka/Ayumu clip, a mediated public relation, not private motive access.
+
+## V003 C003 E006 relationship delta — recognition and divided duty
+
+- **Tsurugi/Hinata ↔ Sensei:** Tsurugi identifies Sensei to rival security members, then responds modestly; Hinata de-escalates and guides a tour. Inward thanks/replies remain representation-cautioned.
+- **Hinata ↔ Sisterhood/Sakurako:** Hinata says she and others follow Sakurako's instruction to help guide/guard, and articulates a tentative organizational turn after the earlier crisis. No new mandate document.
+- **Hina ↔ Ako/Makoto:** Ako worries about Hina personally after prospective ETO constraints on Makoto; Hina assures committee continuity but defers the personal issue. Makoto's airship/car taunt sustains antagonism, not alliance.
+- **Saori ↔ Squad/Atsuko:** Saori assigns Misaki/Hiyori teams, addresses Atsuko `姫` and asks her to endure discomfort; the silent gesture cannot specify her consent, task details or feelings. Group coordination is direct, outcome open.
+- **Azusa ↔ Hifumi/Koharu/Hanako:** Azusa abruptly leaves without explaining while peers speculate. Her Saori suspicion is inward; no spoken warning or return occurs here.

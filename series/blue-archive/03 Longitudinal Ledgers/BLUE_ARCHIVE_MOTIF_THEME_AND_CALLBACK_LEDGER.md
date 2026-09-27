@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–005; BA:main:003:003:006 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–006; BA:main:003:003:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1086,3 +1086,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **First-friend object persists:** Azusa still carries Hifumi's Peroro Doctor gift. Future shopping is only proposed.
 - **Happy-ending disagreement without rupture:** Hifumi wants all friends happy; Azusa says effort cannot erase wounds but validates Hifumi's preference. Neither guaranteed paradise nor compulsory despair follows.
 - **Public bustle/private boredom:** students presume Sensei busy; Sensei inwardly finds a cathedral moment dull. This contrast does not prove no work exists.
+
+## V003 C003 E006 motif / callback delta — the promise's enforcement shadow
+
+- **Painted line to treaty line:** a petty boundary quarrel threatens violence before signatures, dramatizing why institutional restraint is sought without showing ETO works.
+- **Guardian history:** Hinata's Justina explanation casts covenant as promise plus `制約`/enforcement; Hina independently imagines ETO as Makoto's `足枷`. Neither secures peace before the missile.
+- **Church above/below:** repaired ceremony floor and rumored ruined catacombs split public peace surface from uncertain underside; Arius underground orders tempt but do not prove a mapped catacomb route.
+- **Rest deferred by emergency:** Ako's worry about Hina is postponed until after ceremony, then attack begins. Hina's E004 private rest wish remains open.
+- **Catastrophe becomes event:** E020's prophetic language is overtaken by an actual launch and blast, but the human costs remain unprinted. Do not retroactively treat every Seia forecast as omniscience.

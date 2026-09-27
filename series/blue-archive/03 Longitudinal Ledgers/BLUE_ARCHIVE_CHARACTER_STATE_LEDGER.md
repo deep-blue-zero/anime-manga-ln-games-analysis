@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–005; BA:main:003:003:006 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–006; BA:main:003:003:007 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,17 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E006 character-state delta — tense hall and active Arius plan
+
+- **Tsurugi:** interrupts a Justice/Prefect line quarrel, identifies Sensei and leaves for duty; startling laughter contrasts with polite embarrassment toward Sensei. Early `u:0012-0013` tags invert; secure later speech remains narrow. `UNMODELED`.
+- **Hinata:** personally de-escalates, admits self-doubt about previous help, guides Sensei, describes current Sisterhood service and historical Justina lineage. Her policy-cause thought is tentative; catacombs explicitly rumor. `UNMODELED`.
+- **Hina/Ako:** Hina says ETO is intended to constrain Makoto, Prefect Committee will continue and Ako's personal worry can wait until after ceremony. Hina `PARTIAL_MODEL`, Ako `PARTIAL_MODEL`; no retirement enacted.
+- **Saori/Misaki/Hiyori/Atsuko:** coordinated launch and team assignments reveal operation roles. Atsuko's gestures remain untranscribed, though Saori addresses her `姫` directly. Hiyori expects suffering; Misaki reiterates pessimism. All `UNMODELED`.
+- **Azusa:** reacts and departs as incoming sound/blast develops, suspecting Saori without a printed destination or intervention. `UNMODELED`.
+- **Sensei:** mistaken for outsider, then recognized/escorted; inward thanks and admiration receive apparent responses but cannot establish telepathy. `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 53 `UNMODELED` across 74**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E005 character-state delta — broadcast and informal gathering
 
