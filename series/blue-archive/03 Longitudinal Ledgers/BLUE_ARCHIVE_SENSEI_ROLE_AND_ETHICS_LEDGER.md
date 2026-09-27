@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–006; BA:main:004:001:007 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–007; BA:main:004:001:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1105,3 +1105,7 @@ Under Kaya's prior offer, Sensei communicates a local release, asks the students
 ## V004 C001 E006 delta — care, leverage and an imperfect workaround
 
 Sensei visits to check welfare, voices concern about public traps, and offers food from their bag (`scene:001:u:0001;scene:002:u:0002-0067`). The noodle preparation prompts consent to eat, but `choice:012` immediately asks about Valkyrie transfer on food grounds. That is a real pressure-bearing move; the squad rejects it and says conviction persists (`u:0093-0100`). Sensei then gives a note for an indirect food route. Sora's subsequent discard-disposal account confirms prior arrangement but not its safety or long-term sufficiency (`u:0101-0145`). Adult help is adaptive but imperfect, and Miyako's humiliation is not negated by material aid. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E007 unopened.
+
+## V004 C001 E007 delta — a useful idea without trusted access
+
+Sensei returns after several days, observes the food dispute and checks whether the squad is ill. They explain four days without showers and reject Schale's shower as unsafe because they still distrust the adult (`scene:002:u:0002-0051`). Sensei suggests a drum-can bath, which Miyako adopts into a self-directed resource search (`u:0055-0070`). The adult provides a possible solution without controlling the plan, yet no permission or safe acquisition is established. Prior E006 hunger-pressure remains a live limitation; E007 does not retroactively erase it. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E008 unopened.

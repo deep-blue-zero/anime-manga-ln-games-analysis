@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–006; BA:main:004:001:007 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–007; BA:main:004:001:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1299,3 +1299,7 @@ All four reunite and fear the coming decision. Miyako apologizes, but Saki rejec
 ## V004 C001 E006 relationship delta — care suspected as bargain
 
 Sensei returns to check the squad; Saki and Moe have fortified the public park, with danger to Sensei and potential bystanders. Miyako initially insists they need no help, then admits hunger. The four briefly want ramen, but Sensei's transfer question confirms their fear that food could be leverage; they jointly refuse school conversion. Miyako accepts only an address note, while Sora later offers disposal goods on Sensei's arrangement. Moe takes the chance, Saki protests shame then will eat, Miyu fears dependence, and Miyako privately names humiliation. No trust or alliance is established; Sora is a friendly transactional contact with no prior relationship evidence.
+
+## V004 C001 E007 relationship delta — aid remains unwelcome but ideas travel
+
+Saki/Moe argue over lunch and Miyu is denied her choice; Miyako tries to restrain them while making a premium selection. The squad recognizes temporary food access yet still attributes possible humiliating intent to Sensei. When Sensei notices hygiene distress, Saki/Miyako threaten distance and reject Schale's shower over privacy/distrust. Nonetheless Miyako accepts the drum-bath concept and commands Moe to seek drums. This is selective use of an idea, not trust, thanks or new Schale membership.

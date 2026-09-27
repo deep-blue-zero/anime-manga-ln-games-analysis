@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–006; BA:main:004:001:007 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–007; BA:main:004:001:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1699,3 +1699,9 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 - The initial `何の問題もありません` gives way to `水しかありません` and `何も食べてない`. Miyu's `学校の口座が停止` is reported material context; `飢え死` is fear (`u:0023-0054`). `u:0030` polite Saki tag beside `u:0031` blunt dismissal is a voice seam.
 - Miyako's `見返り`/`策略` language marks food as a suspected exchange, and `拷問` for ramen aroma is comic/metaphoric, not clinical torture or drugging (`u:0061-0100`). Sensei's `choice:012` really does raise Valkyrie transfer just after assent to eat; do not flatten this into unconditional support.
 - `廃棄品`, `生ゴミ` and `賞味期限切れ` are Sora/Moe's differentiated terms, not certification that every item is safely edible. Miyako's inward `屈辱` is unambiguous continued discomfort. No performed voice admitted.
+
+## V004 C001 E007 delta — hygiene shame and bath vocabulary
+
+- The boxed-meal argument dramatizes Saki/Moe competition; Miyako's `質を争うのはナンセンス` is immediately tested by her own `唐揚げ弁当` selection (`scene:002:u:0002-0024`). Moe's `当面の解決` is a temporary food claim, not permanent security.
+- Saki's `4日もシャワー浴びてない` changes the apparent smell from Sensei's self-consciousness to the squad's hygiene shame (`u:0035-0042`). The Schale-shower accusations `信頼できない大人`/`変質者` are beliefs/insults, not proof of misconduct (`u:0043-0051`).
+- `u:0054-0055` print a missile-to-toilet suggestion and immediate objection both as Miyu; quarantine the second's voice and do not infer the proposal was implemented. `ドラム缶` becomes a practical bath image, then Miyako's `ニンジン作戦` names the planned acquisition, not its result (`u:0056-0071`). No performed voice admitted.

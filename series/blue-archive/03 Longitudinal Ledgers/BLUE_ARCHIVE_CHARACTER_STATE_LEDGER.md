@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–006; BA:main:004:001:007 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–007; BA:main:004:001:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1665,3 +1665,10 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Miyako:** admits water-only conditions after first denying need; refuses to trade SRT conviction for food/comfort, accepts an address note without changing stance and internally calls the surplus arrangement humiliating.
 - **Saki/Moe/Miyu:** Saki's defense readiness and manual prestige coexist with lack of food and mine risk; Moe cannot locate her own buried mine and values weaponry/spectacle, then readily takes the discarded-food job; Miyu reports frozen school account and fears starvation. No blast, actual famine or verified bank notice appears.
 - **Sora:** first directly present at Schale office, says Sensei arranged a discarded-goods disposal task and has collected goods. Her first narrow sample does not verify food safety or longer-term supply.
+
+## V004 C001 E007 character-state delta — food, hygiene and an operation
+
+- **RABBIT:** boxed meals from E006 now sustain at least short-term eating, but flavor allocation exposes friction and Miyako's own expensive choice under a restraint lecture. Four days without showers creates acknowledged hygiene difficulty, not a diagnosed illness.
+- **Miyako:** still distrusts Sensei/Schale's private facilities, yet adopts the adult's drum-bath idea and orders Moe to find a resource site. This is an announced operation, not completed acquisition.
+- **Sensei:** checks welfare, offers a shower and suggests a drum-can bath after refusal; accepts no direct trust. Saki/Miyako's threats do not become violence.
+- **Moe/Saki/Miyu:** Moe confirms waste lunches solved food temporarily; Saki is embarrassed about hygiene; Miyu's `u:0054-0055` apparent self-reply on missile/toilet dirtiness is attribution-suspect.

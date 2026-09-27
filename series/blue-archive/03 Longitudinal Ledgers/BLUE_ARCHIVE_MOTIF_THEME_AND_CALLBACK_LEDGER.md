@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–006; BA:main:004:001:007 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–007; BA:main:004:001:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1457,3 +1457,7 @@ A local `釈放` gives immediate freedom but cannot restore SRT or give the squa
 ## V004 C001 E006 motif / callback delta — the cost of refusing a school
 
 The park as protest home now has water, shade and defensive traps but no food; SRT's hardware/manual displace basic sustenance. This literalizes the gap between elite training and ordinary survival while adding public-risk externalities from a mine whose location Moe cannot recall. Ramen aroma becomes the comic “torture” of hungry autonomy. Sensei's transfer prompt makes support potentially coercive, then the discarded-food workaround recasts charity as labor without erasing shame or school loss. The scene retains a dignity-versus-need tension rather than granting instant gratitude or a safe long-term food system.
+
+## V004 C001 E007 motif / callback delta — rank under ordinary need
+
+Food arrives but dignity, equitable allocation and hygiene do not automatically follow. Miyako's rationing sermon collides with choosing the costliest meal, a small self-exception paralleling Saki's E003 discipline exception. SRT field toughness meets four-day bathing difficulty; refusals of Schale aid turn privacy and autonomy into active constraints. Sensei's old-fashioned drum bath is mocked then operationalized, showing helpful input without automatic adult command authority. The Carrot Operation name is introduced as a plan, not yet a triumph.

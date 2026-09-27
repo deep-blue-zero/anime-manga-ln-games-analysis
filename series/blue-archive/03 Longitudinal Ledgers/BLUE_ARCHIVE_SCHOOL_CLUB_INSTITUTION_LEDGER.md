@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–006; BA:main:004:001:007 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–007; BA:main:004:001:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1015,3 +1015,7 @@ Sensei presents Administrative Committee disposition and announces local release
 ## V004 C001 E006 institutional delta — park risk, frozen account and surplus
 
 E005's proposed park camp is directly present the next morning. Saki/Moe use traps/mines in public-space defense; Moe cannot locate one mine, and no detonation or injury is printed. Miyu reports SRT's school account stopped, and Miyako says no resupply route exists; no bank notice is inspected. Sensei's Schale contact Sora represents a discarded-food disposal arrangement at the office, with low customer traffic and potential expired items. The exchange is not a verified food-safety program, formal wage contract, reopened school account or stable welfare plan. SRT/Valkyrie transfer remains refused.
+
+## V004 C001 E007 institutional delta — short-term food, no hygiene infrastructure
+
+Moe confirms Schale discarded boxed meals have temporarily addressed food, narrowing E006's open actual-use question. The park camp lacks showers/affordable bath access, and four unwashed days are reported; washing faces with park water is possible but not equivalent to a proper bath. The squad refuses Schale's shower on trust/privacy grounds. Miyako orders Moe to search a resource-management system for drums and announces a bath-acquisition operation; no target, ownership, consent, procurement or result is printed. Public park mine risk from E006 is not resolved here.

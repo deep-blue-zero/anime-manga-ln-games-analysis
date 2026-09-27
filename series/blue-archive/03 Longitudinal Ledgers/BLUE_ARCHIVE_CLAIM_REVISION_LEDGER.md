@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–006; BA:main:004:001:007 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–007; BA:main:004:001:008 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V004_C001_E006 active provisional; C001 E007 unopened
+current_sequential_boundary: MAIN_V004_C001_E007 active provisional; C001 E008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2397,3 +2397,7 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 ## V004 C001 E006 claim delta — help with leverage risk
 
 **BA-C001/C016 — REVISE/QUALIFY:** Sensei's E005 non-demanding release is followed by an E006 transfer proposal during acute hunger, which the squad reasonably reads as bargaining. The later note/Sora waste-disposal route supplies apparent food access without a printed transfer condition, but does not erase the pressure of the earlier question. **BA-C008 — STRENGTHEN method:** Moe's uncertain mine location, Miyu's frozen-account report, Saki's safety objection, Sora's discard description and the squad's verbal assent to ramen are not detonation, bank file, toxicity audit or completed meal. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** Sora enters narrow `UNMODELED` coverage: **21 partial / 75 unmodeled across 96**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E007 unopened.
+
+## V004 C001 E007 claim delta — temporary food resolution, hygiene open
+
+**BA-C001/C016 — QUALIFY:** Sensei's welfare visit and drum-bath suggestion are locally useful, but the direct Schale shower offer is refused and no bath occurs. **BA-C008 — STRENGTHEN method:** Moe confirms E006's waste meals addressed food for the present; this is neither permanent supply nor safety audit. Saki's four-day hygiene report and Miyako's operation order are direct, while illness, procurement, authorization and success are future/open. `u:0054-0055` Miyu self-reply is voice-suspect. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No subject/readiness change: **21 partial / 75 unmodeled across 96**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E008 unopened.
