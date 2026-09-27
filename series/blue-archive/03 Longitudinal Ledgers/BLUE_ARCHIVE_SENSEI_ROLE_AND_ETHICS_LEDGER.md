@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–012; BA:main:003:004:013 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–013; BA:main:003:004:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1017,3 +1017,7 @@ Sensei loses Squad contact, hears gunshots, reaches their Mika confrontation and
 ## V003 C004 E012 delta — practical aid, shared watch, message unknown
 
 Sensei asks about the ruined training site and listens to a partial abuse memory, then inwardly produces antipyretic as Saori collapses. Misaki gives it to Saori, who swallows; Sensei proposes rest, Misaki organizes rotating guard and urges Sensei to sleep. Adult help is practical and distributed, with no proven drug effect or rescue solution. Seia's subsequent liminal speech asks Sensei to flee and not bear all problems, but repeatedly doubts that it reaches them; Sensei has no responding choice/action in that frame. Eight choice groups, one paired convergence; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E013 delta — hearing the history, choosing an uncertain route
+
+Sensei wakes and asks to hear Squad's history, visibly reacts to Madame's child punishment so sharply Hiyori fears another adult, then apologetically turns to Atsuko. The two paired choices are alternative wording, not accumulated statements. Sensei hears a personal account rather than inspecting past events and agrees to try Saori's old-school corridor plan despite its location being unknown. Hiyori says Saori's fever is gone and Saori wakes able to move, but Misaki explicitly cautions she is not normal; adult care has a bounded result rather than full repair. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

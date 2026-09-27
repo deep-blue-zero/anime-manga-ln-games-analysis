@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–012; BA:main:003:004:013 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–013; BA:main:003:004:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1171,3 +1171,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **HIYORI ↔ AZUSA/SAORI:** Hiyori recalls first meeting Azusa at a coercive training site and Saori running toward an abused child; the exact intervention/result is cut off.
 - **SENSEI ↔ SAORI/MISAKI/HIYORI:** Sensei brings medicine; Misaki administers it, accepts rest and rotates watch, allowing Sensei/Hiyori to sleep. This is distributed care, not verified recovery.
 - **SEIA ↔ MIKA/SENSEI:** Seia self-blames for hurting Mika, plans apology with Nagisa/others and warns Sensei from a liminal state; no delivered warning or meeting yet.
+
+## V003 C004 E013 relationship delta — rescue bargain and self-disclosure
+
+- **SAORI ↔ ATSUKO/SQUAD:** Misaki says Saori took Atsuko away from a feared sacrifice; Saori's italic account frames obeying Madame as the price of altering Atsuko's fate and aiding others. The bargain's text and performance remain unverified.
+- **MISAKI/HIYORI ↔ ATSUKO:** Hiyori recalls envy; Misaki admits concealing interest and directly remembers Atsuko's kindness/laughter. This is specific attachment, not proof of royal records.
+- **SENSEI ↔ SQUAD:** Sensei asks for a painful childhood account and then assents to Saori's corridor search. Hiyori is startled by Sensei's expression, so willingness to tell is not complete trust or erased adult fear.
+- **MIKA ↔ ARIUS GUARDS:** Mika asks a route question and receives an attack order; she reacts in pain. No meeting with Squad/Beatrice or resulting guard fate is shown.

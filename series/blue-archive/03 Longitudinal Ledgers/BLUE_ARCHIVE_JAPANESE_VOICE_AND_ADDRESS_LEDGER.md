@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–012; BA:main:003:004:013 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–013; BA:main:003:004:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1548,6 +1548,12 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0001-0004` repeats the E010 arrival; `u:0009-0025` repeatedly tags Hiyori across contrasting leader/anxious registers, and `u:0079-0081` inverts navigation/no-signal voices. Group-level content is secure, individual voice mining is not.
 - Mika's `ちょっと痛い目に` versus `いつヘイローを壊せ` (`u:0051`) is her first-person order distinction. `全部` loss/equal-suffering rhetoric remains her escalated perspective. Sensei's `choice:001` two alternatives converge on Mika returning/waiting; `choice:002` explicitly enters the catacombs.
 - Arius `u:0073-0074` duplicates one pursuer call; `撃て` at `u:0110` is an order, not a narrated impact. `u:0111` is E012 title.
+
+## V003 C004 E013 delta — attributed childhood history and Mika tag caution
+
+- Misaki/Hiyori switch from present talk to italic retrospect (`scene:001:u:0013-0023`). `マダム` calls herself `生徒会長`, `主人` and `支配者` in Misaki's memory; Hiyori's `人殺し` and no-home doctrine are taught labels, not analyst verdicts. Sensei's silent expression (`u:0025-0027`) frightens Hiyori.
+- Atsuko `ロイヤルブラッド` / hereditary presidency is marked `だって` / `らしい` (`u:0032-0033`); sacrifice begins as `噂` (`u:0042`), whereas Misaki's `大切な人` (`u:0040`) is her direct affect. Saori's italic `彼女の命令に従え` (`u:0049`) is a separate retrospective perspective.
+- `choice:003/005` each have two alternatives and duplicate convergent responses (`u:0008-0009`, `u:0028-0029`); do not conflate alternative Sensei phrasings. Scene 2 has no printed `u:0001`. `scene:002:u:0010` bears an Arius Student A tag but speaks in Mika-like teasing register; exact attribution quarantined. `u:0014` is E014 title.
 
 ## V003 C004 E012 delta — old-site correction and uncertain voice
 

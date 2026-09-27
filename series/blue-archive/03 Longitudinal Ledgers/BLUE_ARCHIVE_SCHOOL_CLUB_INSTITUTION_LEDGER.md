@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–012; BA:main:003:004:013 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–013; BA:main:003:004:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -927,3 +927,7 @@ Mika's escape is confirmed by her direct presence; her current school/Tea Party 
 ## V003 C004 E012 institutional delta — former district and training abuse
 
 Misaki says the site reached after catacomb passage is a former Arius district/ruin later used as a training ground after an internal civil war about ten years prior; the current district is farther ahead. Hiyori remembers a child beaten for refusing an adult order there and identifies it as where she met Azusa. These insider accounts reveal coercive institutional history but are not archival corroboration or an entire outcome scene. Saori's fever halts the advance; the group rests under rotating watch. Seia's liminal basilica/ritual claims remain her own unreceived warning, not a certified district event.
+
+## V003 C004 E013 institutional delta — Madame, dynastic report and Justina corridor
+
+Misaki recalls Madame announcing a long civil war's end and claiming new Arius president/master/ruler status, then teaching combat and `vanitas`; Hiyori recalls Trinity/Gehenna hate doctrine, killer labeling and punishment for resistance. This is firsthand testimony to experienced schooling, not inspected appointment law or total population history. Misaki reports Atsuko as descended from a former president and a hypothetical hereditary successor, while a postwar sacrifice plan began as rumor; Saori retrospectively describes obedience terms. Saori relays Atsuko's claim of a Justina-built old-school/basilica corridor, and Misaki adds an exodus/reconstruction account. No corridor map, physical entrance or governance record is inspected. Scene 2's location card separately places Mika within Arius district; Squad's exact district boundary remains unresolved after E012's former-site correction.

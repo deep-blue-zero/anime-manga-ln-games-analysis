@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–012; BA:main:003:004:013 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–013; BA:main:003:004:014 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E012 active provisional; C004 E013 unopened
+current_sequential_boundary: MAIN_V003_C004_E013 active provisional; C004 E014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2242,3 +2242,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E013 unopened.
+
+## V003 C004 E013 claim delta — an insider history with explicit rumor and an unlocated route
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/QUALIFY:** Misaki/Hiyori's participant childhood account specifies Madame's hate and no-home teaching, but her official authority, Atsuko genealogy and sacrifice chronology are not independent records. Saori's retrospective supports a coercive rescue bargain from her perspective.
+- **BA-C001/C016 — STRENGTHEN locally:** Hiyori reports fever down and Saori wakes but remains impaired; Sensei asks for testimony and assents to the students' route plan. Neither full medical recovery nor corridor access follows.
+- **BA-C008 — PRESERVE:** Seia's E012 voice is not confirmed as received; Mika separately meets Arius guards and reacts to attack, with clash outcome open.
+- **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E014 unopened.

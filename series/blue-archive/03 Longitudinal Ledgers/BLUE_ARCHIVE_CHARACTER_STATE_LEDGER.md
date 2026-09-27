@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–012; BA:main:003:004:013 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–013; BA:main:003:004:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E013 character-state delta — coercive childhood account and unlocated corridor
+
+- **Saori:** Hiyori says fever has subsided after medicine; Saori wakes, can move and recommits to Atsuko rescue, while Misaki cautions that normal condition has not returned. Saori's italic retrospect supplies her perspective on obedience-for-Atsuko/others bargain; she proposes an old-school corridor learned from Atsuko but does not know its location. `UNMODELED`.
+- **Misaki/Hiyori:** recount Madame's violent/hatred teaching as childhood participants, including punishment of Azusa/Atsuko. Misaki's Atsuko lineage, hereditary office and sacrifice account mixes received history, rumor and direct affectionate memory; Hiyori retains fear of angry adults. Both `UNMODELED`.
+- **Atsuko:** not directly present; by Misaki's account descended from a former council president, was kindly to Squad and masked voice/face after Saori removed her from proposed sacrifice. Her capture remains Squad report; royal genealogy/corridor are not archival proof. `UNMODELED`.
+- **Mika:** separately appears at an Arius-district location, asks guards for basilica and reacts in pain after an attack order. No quantified injury or clash outcome. `UNMODELED`.
+- **Sensei:** asks Squad for its history, listens through a disturbing adult-abuse account, then agrees to try Saori's unlocated corridor plan. No independent observation of the past or received Seia message. `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E012 character-state delta — rest, remembered violence and liminal warning
 

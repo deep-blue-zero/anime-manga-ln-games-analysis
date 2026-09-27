@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–012; BA:main:003:004:013 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–013; BA:main:003:004:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1327,3 +1327,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Adult order versus adult care:** Hiyori recalls a child beaten for disobeying an adult; in the present Sensei supplies medicine and invites rest. The contrast is local, not a blanket judgment of all adults.
 - **Burden not monopolized:** Seia asks Sensei not to carry every problem and plans Nagisa/others' help for Mika, while Squad rotates guard; none of these future repairs is complete.
 - **Vision conditionality:** Seia's end/Atsuko forecasts coexist with her admission that rite mechanics and message reception are unknown.
+
+## V003 C004 E013 motif / callback delta — inherited roles and taught hopelessness
+
+- **Vanitas as curriculum:** Madame's maxim is recalled not as a spontaneous Squad philosophy but as one element of a childhood combat/hatred pedagogy; earlier Misaki/Saori nihilism gains coercive context without erasing their choices.
+- **Princess/royal blood:** Atsuko is both a reported dynastic successor and Misaki's directly remembered kind friend; a sacrifice rumor converts honor into vulnerability. Lineage and hereditary rule remain reported.
+- **Adult authority contrast:** Madame's claimed true-adult obedience meets Sensei's question/listening and practical medicine, but Hiyori still flinches at Sensei's expression. The difference is behavior, not an automatic status exemption.
+- **Hidden passage:** the alleged Justina-built corridor offers a route out of direct force, yet it must first be found; institutional history does not itself guarantee passage.
