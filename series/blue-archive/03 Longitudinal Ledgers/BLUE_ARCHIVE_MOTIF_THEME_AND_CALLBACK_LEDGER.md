@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–013; BA:main:004:001:014 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–014; BA:main:004:001:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1485,3 +1485,7 @@ E011's rain damage becomes a written repair proposal, but the park is simultaneo
 ## V004 C001 E013 motif / callback delta — inari, dreams and contested redevelopment
 
 A seller's inari moves from a customerless commercial street to a hungry park camp, briefly making ordinary food a connection amid contested property and planned redevelopment. The seller's former friends/juniors and Miyako's inari-loving SRT seniors invite recognition without establishing it. Dreams recur in opposing registers: vendor speculation treats the protest as a fragile impossible dream, Sensei states supporting students' dreams is a teacher's duty, and Saki/Miyu show materially different responses to that dream's risk. Rumored Kaiser construction and rumored cancellation must stay below E012's official yet still undocumented redevelopment appraisal.
+
+## V004 C001 E014 motif / callback delta — repair by commodifying damage
+
+E011's ruined equipment becomes Moe's hoped exchange value: damaged missiles/bombs might buy fresh arms, recasting storm loss as market opportunity. The proposal returns to Kaiser-branded commerce after E013's redevelopment rumor but names Kaiser Industry rather than Kaiser Construction; corporate branding alone does not make the two transactions one plan. The stockout-by-anonymous-buyer report opens a threat-shaped gap without identifying an adversary. Public-safety identity restrains bank robbery in speech even as Moe asks for high-hazard munitions, creating an ethical tension the scene does not resolve.

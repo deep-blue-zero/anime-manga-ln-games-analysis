@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–013; BA:main:004:001:014 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–014; BA:main:004:001:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1133,3 +1133,7 @@ Sensei brings a flood-damage park-repair proposal to Rin, then appeals to other 
 ## V004 C001 E013 delta — paid food and guarded disclosure
 
 Sensei buys inari in 子ウサギタウン and buys another, declines to inform the unnamed seller about park students under either paired refusal wording, and states a teacher's duty is to support students' dreams (`scene:002:u:0002-0056`). The seller gives leftovers, which Sensei brings to RABBIT; narration confirms they share the meal (`scene:003:u:0009-0023`). One choice variant says the food was picked up, despite the purchase, so self-presentation and event differ. The squad still questions safety and future defense. Sensei's presence is cited by Miyako against a feared Black Market outcome, but the outcome is speculative. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E014 unopened.
+
+## V004 C001 E014 delta — limited resistance to hazardous barter
+
+Sensei guesses bank robbery as Moe's funding plan and receives immediate SRT rejection (`scene:001:choice:001;u:0006-0010`). Later they question Moe's “private bombs” and understated rust (`choice:003-004`), while Moe seeks hazardous in-kind arms and the salesman refuses due to reported stockout. Sensei neither authorizes nor visibly prevents the plan; no transaction occurs. The school-safety claim and desire for fuel-air/white-phosphorus ordnance warrant separate ethical appraisal. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E015 unopened.

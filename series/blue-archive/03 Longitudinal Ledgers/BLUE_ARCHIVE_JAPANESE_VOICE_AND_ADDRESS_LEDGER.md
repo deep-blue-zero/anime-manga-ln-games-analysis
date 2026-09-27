@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–013; BA:main:004:001:014 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–014; BA:main:004:001:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1740,3 +1740,8 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 
 - The part-time student's `噂` marks Kaiser subway/cancellation claims as reported. `夢を見ている` and the greenhouse-flower image are speculation, not a direct reading of RABBIT's motives. The emphatic `先生（・・）` shows address/recognition while leaving personal identity unknown.
 - Sensei's `scene:002:choice:006` and `scene:003:choice:002` are paired alternatives. The second can claim the inari was picked up despite narrator-confirmed purchase. `scene:003:u:0027` is Miyu-tagged bravado immediately before Saki's barehanded vow and Miyu's worry; preserve tag and quarantine exact voice. `u:0036` anonymous `くひひ` immediately precedes Moe, but no free-standing new person is required. No performed voice admitted.
+
+## V004 C001 E014 voice delta — self-address and hazardous specificity
+
+- `scene:001:u:0019` is Moe-tagged yet asks whether Moe can get damaged weapons bought; keep source attribution suspect. `u:0067` is Miyu-tagged with `お前` for Moe; unusual register is not reassigned without independent evidence.
+- `私用の爆弾` / `自費` are Moe's defensive self-report, not a funding audit. `気化爆弾` and `白リン弾` are explicit requested munitions, not generic benign supplies. Salesman `匿名のお客様` withholds identity, and Moe's war question is speculation. Four Sensei choice groups are singleton. No performed voice admitted.

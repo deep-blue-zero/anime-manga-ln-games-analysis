@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–013; BA:main:004:001:014 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–014; BA:main:004:001:015 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V004_C001_E013 active provisional; C001 E014 unopened
+current_sequential_boundary: MAIN_V004_C001_E014 active provisional; C001 E015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2425,3 +2425,7 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 ## V004 C001 E013 claim delta — sale, rumor and identity restraint
 
 **BA-C001/C016 — QUALIFY:** Sensei pays for food and shares it, but a choice variant says it was found; the adult's stated duty to support student dreams is explicit, not proof of a complete support outcome. **BA-C008 — STRENGTHEN method:** Kaiser Construction/subway/demolition and cancellation remain the seller's rumor (against E012's independently voiced redevelopment plan); narrator confirms the purchase and meal sharing. The seller's former friends/juniors and Miyako's SRT-senior memory form a clue, not an identity match. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No new named subject/readiness promotion: **21 partial / 76 unmodeled across 97**. Anonymous seller stays role-level; no model, frozen prediction, durable claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E014 unopened.
+
+## V004 C001 E014 claim delta — failed barter, unknown arms buyer
+
+**BA-C001/C016 — QUALIFY:** Sensei's bank-robbery prompt is rejected and brief objections do not amount to supervision of Moe's high-hazard arms proposal. **BA-C008 — STRENGTHEN method:** Moe's account of personal past purchases, Miyako/Miyu's accounting suspicion, the salesman's VVIP/anonymous-stock report and the actual cancelled transaction are distinct. No completed barter, shipment or buyer identity follows; a new auction message is only an unread lead. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No subject/readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E015 unopened.

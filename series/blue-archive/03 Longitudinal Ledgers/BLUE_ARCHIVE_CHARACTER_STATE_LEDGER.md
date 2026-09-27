@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–013; BA:main:004:001:014 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–014; BA:main:004:001:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1711,3 +1711,9 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Unnamed part-time seller:** sells Sensei inari, reports local Kaiser Construction redevelopment and possible cancellation as rumor, speculates about park students' “dream,” invites information and gives leftovers for hungry children. The final emphatic `先生` address shows recognition of role but not identity, motive or link to the E012 expert/SRT seniors.
 - **Sensei:** purchases inari twice, withholds park information in either paired phrasing, asserts teacher duty to support dreams and brings the food to RABBIT. One camp choice can verbally misdescribe its source; narration of purchase governs the event.
 - **Miyako / Saki / Miyu / Moe:** share the meal by narration. Miyako recalls inari-loving SRT seniors, worries about damaged firepower and requests repairs; Saki vows resistance, Miyu fears Black Market harm, and Moe offers to handle resupply. All future outcomes remain open.
+
+## V004 C001 E014 character-state delta — Moe's proposed barter fails
+
+- **Moe:** proposes trading damaged SRT missiles/bombs for functional arms, calls familiar Kaiser Industry salesman, admits an unusable account, requests fuel-air bombs/white-phosphorus rounds, then pivots to auctions after the merchant says stock is gone. A message arrives, but no exchange or sender is printed.
+- **Miyako / Miyu / Saki:** Miyako rejects bank robbery as contrary to public protection and questions past bomb spending; Miyu asks if the VVIP history might be embezzlement; Saki questions the auction market. These are challenges, not a resolved accounting case.
+- **Sensei / anonymous salesman:** Sensei's bank-robbery guess is rejected, and they question Moe's rust minimization/private bombs. The salesman recognizes Moe and reports all inventory bought by an anonymous customer, then cancels the proposed barter. Buyer identity and prior funding remain unknown.

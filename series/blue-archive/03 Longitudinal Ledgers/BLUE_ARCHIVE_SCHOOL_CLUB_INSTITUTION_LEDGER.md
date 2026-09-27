@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–013; BA:main:004:001:014 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–014; BA:main:004:001:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1043,3 +1043,7 @@ Rin says `子ウサギ公園` is little used and scheduled for removal, and fore
 ## V004 C001 E013 institutional delta — commercial rumor and supply stress
 
 An unnamed student vendor says Kaiser Construction may demolish local shops for a subway/commercial project and that residents are being pushed out, while also relaying cancellation rumor due to armed wanderer disruption and armed park students. Open shops are absent at Sensei's visit, but company contracts, permit, eviction roster and cancellation are not inspected. E012 Rin/Kaya independently state redevelopment is planned; the seller's details stay attributed. RABBIT shares food while acknowledging federal refusal and storm-damaged gear, and Miyako identifies park gun/turret repair as a minimum. Moe offers resupply, not a completed shipment.
+
+## V004 C001 E014 institutional delta — Black Market arms channel and stockout claim
+
+Moe identifies Kaiser Industry as a Black Market arms merchant and calls a salesman who recognizes her as a former SRT supply VVIP and mentions prior missiles/cluster bombs. Her claim that past bombs were personally funded is unaudited, as is squad authority to sell damaged ordnance. The salesman says special used weapons could have buyers, but reports all new stock sold to an anonymous customer and cancels the barter; confidentiality prevents a name. Moe explicitly requests fuel-air bombs and white-phosphorus rounds, raising grave safety/ethical stakes without an operational transfer. A used-auction message arrives, with no sender or terms printed. Keep this channel distinct from Kaiser Construction's reported redevelopment project.

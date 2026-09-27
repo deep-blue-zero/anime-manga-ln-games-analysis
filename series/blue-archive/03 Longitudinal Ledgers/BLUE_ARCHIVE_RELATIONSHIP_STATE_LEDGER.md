@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–013; BA:main:004:001:014 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–014; BA:main:004:001:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1327,3 +1327,7 @@ Sensei asks Rin, other council members and Kaya for park repair help, but receiv
 ## V004 C001 E013 relationship delta — food, discretion and bounded reliance
 
 Sensei withholds RABBIT details from an unnamed seller even when offered extra food, then brings purchased/leftover inari to the squad. Moe and Saki suspect contamination or spoilage before the group shares it; Miyu initially doubts Sensei paid. Miyako accepts the food, remembers seniors and later treats Sensei's presence as a reason against her worst Black Market scenario. This is narrow reliance under damaged supplies, not full trust or proof Sensei can prevent future harm. The seller's familiar role address and fondness for former colleagues do not identify any personal tie to the squad.
+
+## V004 C001 E014 relationship delta — supply initiative under scrutiny
+
+Moe takes supply initiative and displays a prior commercial relation with a Kaiser Industry salesman. Saki initially doubts then briefly praises her plan; Miyako and Miyu question old purchasing/accounting after the VVIP disclosure. Moe deflects rather than proving a funding source. Sensei questions rust minimization and private bombs but does not stop the proposal. The failed call leaves the group still dependent on a hoped auction route, with no restored armaments or resolved intra-squad trust.
