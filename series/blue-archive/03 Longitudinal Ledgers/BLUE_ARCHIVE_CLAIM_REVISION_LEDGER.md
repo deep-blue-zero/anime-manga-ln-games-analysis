@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–008; BA:main:004:001:009 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–009; BA:main:004:001:010 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V004_C001_E008 active provisional; C001 E009 unopened
+current_sequential_boundary: MAIN_V004_C001_E009 active provisional; C001 E010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2405,3 +2405,7 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 ## V004 C001 E008 claim delta — effective rescue, breached privacy
 
 **BA-C001/C016 — REVISE/QUALIFY:** Sensei's barrel camouflage suggestion helps return with Miyu, but unconsented presence during the squad's bath is directly challenged; “watching” is not established permission. Adult help is not automatically ethical. **BA-C008 — STRENGTHEN method:** Miyako's no-loss disposal claim and guard theft accusation conflict without an ownership audit; team no-injury reports and narrated park return are stronger local outcomes. Alley voices' scarcity account is a report, not verified stock. The missile order has no printed strike. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No individually tracked subject/readiness promotion: **21 partial / 75 unmodeled across 96**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E009 unopened.
+
+## V004 C001 E009 claim delta — rumor versus narrated incapacitation
+
+**BA-C001/C016 — QUALIFY:** Sensei's market reassurance to Kirino is choice-conditioned/incomplete, and an unknown smoker later incapacitates them; no attacker identity or wider protective-role conclusion follows. **BA-C008 — STRENGTHEN method:** Kirino's armed-wanderer theft story and schoolwide budget/munition shortage are reports; Sensei's `麻酔` is conjecture, whereas smoke inhalation and loss of consciousness are narrated. Do not equate the two `？？？` stretches or identify the late actor with the E008 leader. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No new tracked subject/readiness change: **21 partial / 75 unmodeled across 96**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E010 unopened.

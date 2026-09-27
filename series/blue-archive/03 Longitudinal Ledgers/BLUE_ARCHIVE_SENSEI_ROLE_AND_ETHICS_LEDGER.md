@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–008; BA:main:004:001:009 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–009; BA:main:004:001:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1113,3 +1113,7 @@ Sensei returns after several days, observes the food dispute and checks whether 
 ## V004 C001 E008 delta — help does not license proximity
 
 Sensei accompanies the port attempt, questions taking drums rather than asking, and suggests a barrel-camouflage maneuver that locally aids Miyu's rescue and return (`scene:001:u:0006-0019;scene:002:u:0028-0085`). At the bath Sensei remains present and offers to watch for visitors, then gives a “flow” or “watch” answer when challenged (`scene:003:u:0029-0051`). The students never grant consent to be observed bathing; Saki explicitly calls it out, and Miyako orders a missile. No impact is shown, but the privacy breach materially qualifies any safe-adult reading. Tactical usefulness and adult ethics must remain separate. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E009 unopened.
+
+## V004 C001 E009 delta — reassurance amid imperfect knowledge
+
+Sensei meets Kirino while shopping and gives either hesitant `大丈夫` or `みんな良い子` reassurance about RABBIT, then explicitly says not everything is going well (`scene:001:choice:003-004`). This does not resolve E008's privacy breach, mine risk or port conflict; Kirino's praise is her appraisal. Sensei hesitates over a separate armed-wanderer rumor without securely identifying its referent. After leaving, an unknown actor's smoke causes narrated unconsciousness (`u:0041-0049`). Adult vulnerability is direct, but no rescue or causal tie to a known group is shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E010 unopened.

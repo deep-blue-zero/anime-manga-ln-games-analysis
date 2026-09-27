@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–008; BA:main:004:001:009 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–009; BA:main:004:001:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1679,3 +1679,9 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Miyu/Moe:** Miyu loses radio access, fears abandonment and is directly retrieved; Moe provides remote monitoring, readies bath supplies and later receives Miyako's missile order, with no impact shown.
 - **Sensei:** participates at port, proposes drum camouflage that locally works, later remains present during students' bath without their consent. The squad objects and threatens force; no injury/strike is confirmed. This is a material ethical counterexample to uncomplicated trustworthiness.
 - **Unidentified park-neighbor group:** role-level voices claim RABBIT consumed nearly all discarded lunches/scrap and an unnamed leader orders weapons under `無所有` rhetoric. No named individual, attack or verified inventory appears.
+
+## V004 C001 E009 character-state delta — Kirino's patrol and Sensei's loss
+
+- **Kirino:** combines actual patrol talk with local food-stall enthusiasm, asks whether RABBIT harmed Sensei, offers ongoing Valkyrie help, relays armed-wanderer/scrap-theft rumor and school budget strain. Transfer to Security remains a hope.
+- **Sensei:** gives choice-conditioned reassurance to Kirino, finishes shopping, is confronted by a distinct unidentified speaker, inhales smoke and loses consciousness by narration. The `麻酔` thought is a conjecture; captor, destination and medical condition beyond unconsciousness are unknown.
+- **RABBIT / unidentified alley group:** neither appears directly. Rumor and chronological proximity to E008 do not identify the armed wanderers or smoker with either group.

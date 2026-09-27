@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–008; BA:main:004:001:009 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–009; BA:main:004:001:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1712,3 +1712,9 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 - Guards' `コソ泥` and Miyako's `廃棄予定`/no-loss claim are opposing characterizations, not legal adjudication. Saki's fiction-like drum-agent story supports her tactical willingness, not a real historical agent (`scene:001:u:0010-0019;scene:002:u:0028-0040`).
 - `ドラム缶` as a speaker label masks Saki until `私だっての` (`scene:002:u:0048-0075`). `scene:003:u:0013` Saki-tagged third-person self-mockery is suspect.
 - At the bath, Saki's `生徒の入浴姿を見るとかアウト` is direct objection. Sensei's `流れ`/`見張り役` paired explanations do not establish consent; Miyako's `ミサイルを` and Moe's `喰らえ` lack a depicted impact (`scene:003:u:0042-0051`). The alley `無所有` rhetoric belongs to an unidentified speaker, not a named character (`scene:004:u:0002-0013`). No performed voice admitted.
+
+## V004 C001 E009 delta — patrol register, rumor and two unknowns
+
+- Opening `？？？` at `scene:001:u:0003` resolves immediately to Kirino. Her `本官` civic formality coexists with detailed cutlet/croquette enthusiasm and a cut-off `グル……` before correcting to `パトロール` (`u:0004-0010/0038-0040`). Do not over-read a complete food-tour confession.
+- Her `噂` about `武装した放浪者集団` and alleged bay scrap theft is explicitly secondhand (`u:0022-0027`); Sensei's `多分違うはず` does not identify the true referent. `警備局に転科できるかもしれません` is hope, not granted status (`u:0030-0037`).
+- Late `？？？` addresses Sensei formally and asks them to follow; Sensei's `これ、麻酔……！？` is inward guess, while narrator describes smoke inhalation and consciousness loss (`u:0042-0050`). The opening Kirino `？？？` must not be conflated with this speaker. No performed voice admitted.

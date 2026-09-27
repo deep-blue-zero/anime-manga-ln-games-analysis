@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–008; BA:main:004:001:009 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–009; BA:main:004:001:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1307,3 +1307,7 @@ Saki/Moe argue over lunch and Miyu is denied her choice; Miyako tries to restrai
 ## V004 C001 E008 relationship delta — authority challenge and mutual rescue
 
 Saki attacks Miyako's federally appointed captaincy, takes temporary command and discovers theory/practice difficulty; Miyako warns, then cooperates and later credits Saki for success. Saki chooses Miyu's rescue over cargo, personally retrieves her and still scolds her fear. This is care under tension, not full equality or solved distrust. Sensei's barrel disguise suggestion is accepted for the rescue even though Saki says she dislikes following them. Later the squad objects to Sensei's presence during its bath and escalates to an order for a missile; no strike is printed. Unidentified neighbors interpret RABBIT as resource-taking outsiders and arm themselves, but no direct encounter yet.
+
+## V004 C001 E009 relationship delta — Kirino offers help, unknown actor intervenes
+
+Kirino checks whether released RABBIT students have harmed Sensei and offers 24-hour Valkyrie contact if needed; she admires Sensei on the basis of their constrained reassurance. The four students do not speak and no relationship repair is shown. A later unknown speaker targets Sensei by name and releases smoke; this establishes an adversarial contact but not their relation to RABBIT, the E008 neighbors or Kirino. Sensei is unconscious at the cut; no ally response is printed.

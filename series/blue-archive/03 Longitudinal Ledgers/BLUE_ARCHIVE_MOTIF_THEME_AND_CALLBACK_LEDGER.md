@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–008; BA:main:004:001:009 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–009; BA:main:004:001:010 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1465,3 +1465,7 @@ Food arrives but dignity, equitable allocation and hygiene do not automatically 
 ## V004 C001 E008 motif / callback delta — possession and consent
 
 The drum both solves hygiene and becomes an absurd disguise that carries the team through fire. Saki's manual-based certainty fails at the unplanned guard and isolated Miyu, but rescue priority and cooperation salvage the mission; “elite” skill is tested by contingency, not denied entirely. A bath brings a rare shared ordinary pleasure and a hoped SRT future, then Sensei's presence violates the privacy boundary the group had named in E007. The alley leader's `無所有` ideal opposes RABBIT's material scavenging, while reported depletion of discarded meals/scrap reveals that “waste” can support someone else. The contest over possession and consent is unresolved.
+
+## V004 C001 E009 motif / callback delta — rumors and vulnerable adult
+
+Kirino's patrol mixes civic duty, ordinary appetite and aspirational transfer; the reported fiscal shortage echoes RABBIT's frozen account without proving a common budget mechanism. An armed-wanderer rumor after E008's salvage and alley threat invites premature identification, which the text withholds. Sensei's public reassurance and solitary smoke incapacitation contrast their tactical value with bodily vulnerability. The recurrence of `？？？` is a representation convention, not identity evidence. The episode ends at consciousness loss, not a known rescue or captivity setting.
