@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–017; BA:main:004:001:018 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–018; BA:main:004:001:019 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V004_C001_E017 active provisional; C001 E018 unopened
+current_sequential_boundary: MAIN_V004_C001_E018 active provisional; C001 E019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2441,3 +2441,7 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 ## V004 C001 E017 claim delta — archive support, not adjudication
 
 **BA-C008 — REVISE evidence grade:** a Public Security archive record labeled Kaiser Industry and dated one week prior is found; Miyako reads it as Clover evidence of an illegal rebate involving 子ウサギタウン. This strongly advances the E016 hypothesis from speculation, but full ledger content, authenticity, transfer chain and adjudication are not printed. Her forecast that it can stop Public Security is untested, and exit is now blocked. **BA-C001/C016 — QUALIFY:** Sensei is intentionally excluded from physical infiltration and only has paired off-site responses; student action drives discovery. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No subject/readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E018 unopened.
+
+## V004 C001 E018 claim delta — local tactical success, unclosed risk
+
+**BA-C001/C016 — QUALIFY:** Sensei offers support from outside the archive; the thought-tagged trust prompt cannot replace Miyako's own command and teammate execution. **BA-C008 — STRENGTHEN method:** a deliberate alarm enables archive exit, temperature falsification visibly triggers sprinklers/fire doors, and Kirino reports every shot misses; these are bounded effects. The C4/lithium object has no printed blast or casualty result, Fubuki's trap mechanism is skipped, and whole-building exfiltration/admissibility remain open. Saki's captain endorsement is direct local relation evidence. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No subject/readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E019 unopened.

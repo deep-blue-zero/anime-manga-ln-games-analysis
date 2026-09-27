@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–017; BA:main:004:001:018 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–018; BA:main:004:001:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1501,3 +1501,7 @@ Kanna's month-end deadline gives the park protest a bounded clock, while the spo
 ## V004 C001 E017 motif / callback delta — evidence obtained before escape
 
 Clover turns E016's unproved suspicion into an archive search with an apparent confirming record; evidence is materially sought by students whose school's formal status is still unstable. The operation's confidence is immediately checked by a mundane one-way door, echoing prior gaps between tactical theory and contingent practice. Moe's camera hack and finite clock make technology useful but bounded, while Sensei's exclusion stresses a student-executed mission. Finding a document is not the same as safely carrying it out, validating its contents or stopping eviction.
+
+## V004 C001 E018 motif / callback delta — the manual yields to distributed trust
+
+The one-way door turns a seemingly successful evidence hunt into a test of Miyako's command under self-doubt and Miyu's acute fear. Sensei's “do not carry it alone” theme meets a student-led solution: deliberately calling guards to open the vault, then coordinating cover, sensors and decoys. Saki recognizes Miyako as captain precisely for a tactic absent from the manual, revising E008's theory/practice tension without claiming Saki's doctrine is worthless. Fire controls turned against defenders evoke control-system contingency, but the C4/lithium setup makes the same ingenuity ethically hazardous until its outcome is known. Kirino's missed shots repeat earlier inconsistency without settling intent.

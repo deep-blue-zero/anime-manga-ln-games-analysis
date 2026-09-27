@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–017; BA:main:004:001:018 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–018; BA:main:004:001:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1763,3 +1763,9 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 - Moe's `30分しか持たなそう` is an estimate of hack duration, not a clocked expiry; `ヴェリタスの副部長かな` is an attribution guess. `クローバー` is both the named transaction ledger/operation target, not a verbatim reproduced account.
 - Miyako says `違法なリベートの証拠を確保しました` after reading the found record. Preserve this as her firsthand interpretation while noting the document's entries are not transcribed. `この資料さえあれば` is a forecast of future leverage, duplicated in `u:0058-0059` through paired-choice convergence.
 - Both Sensei choice groups are paired. Miyako's `無理やり置いてきました` states physical exclusion despite Sensei responses appearing in the script; channel unprinted. No performed voice admitted.
+
+## V004 C001 E018 voice delta — distress and tactical register
+
+- Miyu's `生まれてこなければ` and `死にたい` are acute self-negating crisis speech, not comic background or a confirmed act. `scene:001:u:0027` is Miyu-tagged `お前` addressing Miyako; preserve unusual register rather than silently swapping speaker.
+- Sensei's `choice:001` is paired; `choice:002-003` singleton. `u:0047` is `先生（心の声）` despite Miyako's responsive turn, so auditory/public status is uncertain. Saki's `教範には無い` contrasts manual absence with Miyako's deliberately triggered alarm, and later `今のお前は隊長` is explicit recognition.
+- `T3、ダウン` is combat shorthand, not a death certification. Defenders' `C4じゃない？` and lithium reaction are a guess about an object, not a printed detonation. No performed voice admitted.

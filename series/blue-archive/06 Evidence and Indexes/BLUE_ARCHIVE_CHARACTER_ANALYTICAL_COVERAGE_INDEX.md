@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_E001_E017
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_E001_E018
 generation: V1
-version: "2.57"
+version: "2.58"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C004 through checkpoints, then BA:main:004:001:001–017 provisionally; 193/310 main units; side-source classes unreviewed; BA:main:004:001:018 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C004 through checkpoints, then BA:main:004:001:001–018 provisionally; 194/310 main units; side-source classes unreviewed; BA:main:004:001:019 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:004:001:018
+next_unopened_main_unit: BA:main:004:001:019
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:004:001:018
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V004_C001_E017` provisional boundary, inheriting canonical `MAIN_V003_C004`:
+This index answers four questions at the `MAIN_V004_C001_E018` provisional boundary, inheriting canonical `MAIN_V003_C004`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025, V003 C004 E001-E027 and V004 C001 E001-E017;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025, V003 C004 E001-E027 and V004 C001 E001-E018;
 - current checkpoint: `MAIN_V003_C004`; prior C001/C002/C003 checkpoint basis remains lineage;
-- main-story coverage: `193 / 310` canonical units;
+- main-story coverage: `194 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:004:001:018`.
+- next unopened main unit: `BA:main:004:001:019`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,17 +74,17 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` through V004 C001 E017; deliberately left outside Clover infiltration, offers paired rear-line responses | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` through V004 C001 E018; off-site burden/trust support amid Miyako-led archive escape | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Decartes | `ANALYZED` through V004 C001 E015; reports 所確幸 scattered by Public Security and warns of local sweep | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sora | `ANALYZED` in V004 C001 E006; receives squad at Schale and describes discarded-food disposal arrangement | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kaya | `ANALYZED` through V004 C001 E012; declines repair aid, pressures Kanna and admits expected Sensei/RABBIT rupture | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kanna | `ANALYZED` through V004 C001 E016; sponsor-backed park eviction threat, temporary withdrawal and month-end limit | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Kirino | `ANALYZED` through V004 C001 E009; market patrol, food interest, armed-wanderer rumor and budget report | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Fubuki | `ANALYZED` through V004 C001 E003; Miyu interviewer; fears clarified, Life Safety suggestion declined | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Saki | `ANALYZED` through V004 C001 E017; finds one-week-old Kaiser Industry archive record | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Moe | `ANALYZED` through V004 C001 E017; remote camera hack and three-minute archive-door decode | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Miyako | `ANALYZED` through V004 C001 E017; leads archive entry and reads Clover record as rebate evidence | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Miyu | `ANALYZED` through V004 C001 E017; joins entry, then closes one-way archive door | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Kirino | `ANALYZED` through V004 C001 E018; challenges intruders, fires and reports all shots miss | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Fubuki | `ANALYZED` through V004 C001 E018; donut/cardboard decoy succeeds, mechanism and injury unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Saki | `ANALYZED` through V004 C001 E018; supports corridor advance and explicitly recognizes Miyako as captain | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Moe | `ANALYZED` through V004 C001 E018; heat-sensor manipulation triggers sprinklers/fire doors | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Miyako | `ANALYZED` through V004 C001 E018; alarm-led vault exit, corridor command and captain recognition | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Miyu | `ANALYZED` through V004 C001 E018; acute self-blame, later affirms trust in Miyako | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Seia | `ANALYZED` through C004 E027; reports prophetic-dream loss as deal price, last vision withheld | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Koharu | `ANALYZED` through C004 E026; quietly sends preserved Mika accessories via Ichika | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hanako | `ANALYZED` through C004 E026; finds damaged ancient catacomb map with Ui, restoration unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -1591,3 +1591,9 @@ Routing: [V004 C001 E016 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_
 RABBIT enters Valkyrie at 23:30 while Sensei is intentionally left outside the dangerous route. Moe reports a temporary camera hack and decodes an electronic archive door; Saki finds a one-week-old Public Security/Kaiser Industry record, and Miyako reads it as Clover evidence of an illegal rebate tied to 子ウサギタウン redevelopment. This participant-inspected document materially supports E016's hypothesis, but its full text, authentication and legal disposition are not reproduced. Miyako's forecast that it can stop Public Security remains untested. Miyu then closes a door with no inside handle, leaving escape open. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 76 `UNMODELED` across 97**, none operational/validated. No standalone model, frozen prediction, new durable claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E018 unopened.
 
 Routing: [V004 C001 E017 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E017_DEEP_READING.md) → `BA:main:004:001:017`, one scene, 66 visible numbered units and two paired Sensei choice groups. Coverage is **193 / 310**.
+
+## 167. V004 C001 E018 provisional coverage delta
+
+Miyu's one-way-door mistake causes acute self-negating distress, while Miyako initially doubts her command. Sensei offers bounded off-site encouragement with a thought-tag seam; the squad's trust and Miyako's unconventional decision to trigger an archive alarm cause guards to open the door. RABBIT then advances locally under Miyako's cover/sensor tactics, and Saki explicitly recognizes her as captain, correcting earlier doubt. A falsified 900°C reading triggers sprinklers/fire doors; guards notice a possible C4/lithium device but no detonation or casualty is printed. Fubuki falls for a donut/cardboard trap with mechanism skipped; Kirino fires and reports every shot missed as the squad passes. Whole-building exit and evidence delivery remain open. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 76 `UNMODELED` across 97**, none operational/validated. No standalone model, frozen prediction, new durable claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E019 unopened.
+
+Routing: [V004 C001 E018 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E018_DEEP_READING.md) → `BA:main:004:001:018`, two scenes, 170 visible numbered units and three Sensei choice groups (one paired). Coverage is **194 / 310**.

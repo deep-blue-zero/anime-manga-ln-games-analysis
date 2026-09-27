@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–017; BA:main:004:001:018 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–018; BA:main:004:001:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1059,3 +1059,7 @@ Kanna asserts RABBIT's park occupancy is unlawful and Kaya only postponed punish
 ## V004 C001 E017 institutional delta — Public Security archive record
 
 RABBIT enters Valkyrie Police School at 23:30 and reaches a basement-three archive under a reported 30-minute camera-hack limit. Saki locates a Public Security Kaiser Industry record dated one week earlier, and Miyako reads it as Clover evidence of an illegal rebate mediated by 子ウサギタウン redevelopment. This is direct participant document encounter, but the file's complete contents, signatures, chain of custody and independent legal review are not reproduced. No copied record or public disclosure is shown. An electronic archive door is decoded from outside, then closed with no inside handle; escape remains open.
+
+## V004 C001 E018 institutional delta — archive security bypass and local pursuit
+
+Miyako deliberately triggers the archive alarm so Valkyrie defenders open a physically locked door; RABBIT leaves the archive and advances through corridors with Clover. Security Bureau students cannot immediately overpower them and expect reinforcements. Moe manipulates a heat sensor to 900°C, directly causing sprinklers and fire doors that block joining forces; guards notice a possible C4/lithium hazard without a shown blast. Fubuki is tricked by a donut/cardboard trap, exact mechanism unprinted. Kirino treats the entry as unlawful, fires and misses all shots while the squad continues. Full school exit, evidence delivery, casualties and legal response remain open.

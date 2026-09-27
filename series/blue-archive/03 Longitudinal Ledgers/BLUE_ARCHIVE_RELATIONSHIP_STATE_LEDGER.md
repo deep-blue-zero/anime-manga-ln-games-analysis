@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–017; BA:main:004:001:018 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–018; BA:main:004:001:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1343,3 +1343,7 @@ Kanna is adversarial toward RABBIT but grants Sensei's time request because she 
 ## V004 C001 E017 relationship delta — RABBIT acts without Sensei inside
 
 The squad deliberately leaves Sensei out of the risky route; Sensei's paired rear-line response is supportive, not command in the archive. Moe guides Miyako/Saki/Miyu remotely, Saki spots the document, Miyako interprets it and credits Saki, and Miyu's door closure creates an immediate shared problem. Saki teases Moe's three-minute decode but depends on it. The temporary absence of guards does not dissolve intra-team pressure or prove Valkyrie complicity beyond the found record.
+
+## V004 C001 E018 relationship delta — acknowledged captaincy after distress
+
+Miyu's door mistake and severe self-blame prompt Miyako's protection and Saki's accountability challenge; the team does not resolve it by assigning all blame or denying the error. Sensei encourages Miyako from outside, while teammates voice reliance on her. Miyako devises the alarm-led exit and corridor maneuvers; Saki explicitly retracts past disparagement and says she is captain now, with Moe/Miyu affirming trust. Miyako credits collective work, so the relationship change is mutual recognition rather than solitary-hero elevation. Fubuki is locally decoyed and Kirino fails to stop them; neither forms a new durable alliance.

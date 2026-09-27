@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–017; BA:main:004:001:018 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–018; BA:main:004:001:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1736,3 +1736,10 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Miyako / Saki / Miyu:** infiltrate Valkyrie at 23:30. Saki finds a one-week-old Kaiser Industry record and hands it to Miyako, who identifies it as Clover evidence of a Public Security rebate involving redevelopment. Miyu inadvertently closes an archive door lacking an inside handle. No escape or public use of evidence is printed.
 - **Moe:** supports remotely from camp, reports camera hack and a roughly 30-minute refresh limit, decodes the archive door in about three minutes. Security bypass is local/temporary, not proven full-system control.
 - **Sensei:** explicitly left behind because the entry is difficult and discovery may trigger shooting; paired choices offer apology or rear-line support. The team, not Sensei, performs the entry and discovery.
+
+## V004 C001 E018 character-state delta — archive escape and captain recognition
+
+- **Miyu:** closes one-way archive door to avoid discovery, expresses severe self-blame/death wishes under pressure, later affirms trust in Miyako and observes local escape success. No attempt, lasting diagnosis or injury is printed.
+- **Miyako:** falters under command guilt, accepts a team-centered prompt, deliberately triggers an alarm to have guards open the door, then coordinates corridor cover and sensor deception. Saki/Moe/Miyu explicitly recognize her current captaincy; Miyako still credits the team. Full building exit remains unshown.
+- **Saki / Moe:** Saki presses accountability and later affirms Miyako's unique tactical result; Moe remotely manipulates a heat sensor to activate sprinklers/fire doors. Guards notice possible C4/lithium danger, but no blast is narrated.
+- **Fubuki / Kirino / Sensei:** Fubuki falls for a donut/cardboard trap with mechanism skipped and later memory uncertain; Kirino fires at passing RABBIT and reports all shots missed. Sensei's support appears while still physically off-site, with a thought-tag seam.
