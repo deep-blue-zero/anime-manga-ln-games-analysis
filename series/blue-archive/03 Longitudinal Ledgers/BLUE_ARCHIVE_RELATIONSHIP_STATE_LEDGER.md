@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–016; BA:main:004:001:017 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–017; BA:main:004:001:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1339,3 +1339,7 @@ RABBIT's former captor/rival Decartes appeals for help after claiming 所確幸 
 ## V004 C001 E016 relationship delta — debt, delay and student initiative
 
 Kanna is adversarial toward RABBIT but grants Sensei's time request because she acknowledges owing them; she withdraws for now and leaves a month-end force condition. Sensei does not command RABBIT to leave or fight, instead shares a hypothesis and supports their chosen investigation. Miyako moves from threatened leader to declaring Clover Operation; Saki/Miyu voice practical objections before accepting the SRT role claim, while Moe tests a reporting alternative. None of this resolves Kanna's duty conflict or the squad's formal standing.
+
+## V004 C001 E017 relationship delta — RABBIT acts without Sensei inside
+
+The squad deliberately leaves Sensei out of the risky route; Sensei's paired rear-line response is supportive, not command in the archive. Moe guides Miyako/Saki/Miyu remotely, Saki spots the document, Miyako interprets it and credits Saki, and Miyu's door closure creates an immediate shared problem. Saki teases Moe's three-minute decode but depends on it. The temporary absence of guards does not dissolve intra-team pressure or prove Valkyrie complicity beyond the found record.

@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–016; BA:main:004:001:017 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–017; BA:main:004:001:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1145,3 +1145,7 @@ Sensei is present when the squad examines a masked buyer's large cash payment an
 ## V004 C001 E016 delta — time bought, conjecture disclosed
 
 Sensei interrupts Kanna's armed leave-or-fight ultimatum, asks for thinking time and obtains Kanna's withdrawal for the day because she says she owes Sensei; the month-end threat remains (`scene:001:u:0036-0047;choice:001-002`). Sensei proposes `リベート` and expressly warns it is conjecture; the group discusses evidence paths rather than declaring guilt (`u:0053-0085;choice:003-005`). Sensei supports the students if they believe in their SRT mission. `u:0087` is inner-thought-tagged yet answered, so the “I'll take responsibility” assurance cannot be uncritically treated as a public legal guarantee. The impending infiltration carries risks with no result yet. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E017 unopened.
+
+## V004 C001 E017 delta — adult remains outside student operation
+
+Miyako says RABBIT discussed and forcibly left Sensei behind because the Valkyrie entry is too difficult for them and discovery may cause a shootout (`scene:001:u:0017-0019`). Paired Sensei choices offer apology or rear-line encouragement (`choice:001`), and a later paired response acknowledges the apparent record or thanks the team (`choice:002`). No physical archive entry or tactical direction by Sensei is shown. The students hack, decode, locate and read the record; adult responsibility cannot be credited as the operational cause. The one-way door threatens their safe exit, with no rescue yet. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E018 unopened.

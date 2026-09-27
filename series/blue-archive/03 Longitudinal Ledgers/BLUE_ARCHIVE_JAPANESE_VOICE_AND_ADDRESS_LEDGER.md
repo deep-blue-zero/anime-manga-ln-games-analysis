@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–016; BA:main:004:001:017 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–017; BA:main:004:001:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1757,3 +1757,9 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 - Kanna asks for `公安局長` rather than `狂犬`, then distinguishes Kaya's `処罰を保留` from permission to occupy the park; neither is an opened written order. Her `スポンサー` is unnamed. `scene:001:choice:002` is a paired time-request with duplicate convergence at `u:0040-0041`.
 - Sensei's `リベートかな` is an offered hypothesis, and `もちろん、まだ色々と推測の域` expressly limits it. Miyako's `もし` at `u:0060` frames a conditional transfer, despite her forceful moral/legal judgment inside the hypothetical.
 - `u:0087` is tagged `先生（心の声）` but Miyako replies to its responsibility sentiment; do not silently recast it as definitely spoken. Moe's SRT recitation adds maximal firepower, not a universally endorsed doctrine. No performed voice admitted.
+
+## V004 C001 E017 voice delta — code labels and evidence wording
+
+- Moe's `30分しか持たなそう` is an estimate of hack duration, not a clocked expiry; `ヴェリタスの副部長かな` is an attribution guess. `クローバー` is both the named transaction ledger/operation target, not a verbatim reproduced account.
+- Miyako says `違法なリベートの証拠を確保しました` after reading the found record. Preserve this as her firsthand interpretation while noting the document's entries are not transcribed. `この資料さえあれば` is a forecast of future leverage, duplicated in `u:0058-0059` through paired-choice convergence.
+- Both Sensei choice groups are paired. Miyako's `無理やり置いてきました` states physical exclusion despite Sensei responses appearing in the script; channel unprinted. No performed voice admitted.

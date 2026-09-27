@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–016; BA:main:004:001:017 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–017; BA:main:004:001:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1497,3 +1497,7 @@ A large anonymous cash payment seems to solve the storm-loss supply problem, but
 ## V004 C001 E016 motif / callback delta — deadline and evidence before force
 
 Kanna's month-end deadline gives the park protest a bounded clock, while the sponsor-backed firearms and planned redevelopment make armed state power materially present. Sensei's reprieve preserves student choice but cannot by itself solve the conflict. The squad moves from suspicion and capability shortage to an evidence-seeking Clover mission: its SRT identity becomes a reason to investigate a possible public/private collusion, even though its formal school has closed. This is a commitment under uncertainty, not vindication of the rebate story. The thought-tagged responsibility promise complicates a clean adult-guarantee interpretation.
+
+## V004 C001 E017 motif / callback delta — evidence obtained before escape
+
+Clover turns E016's unproved suspicion into an archive search with an apparent confirming record; evidence is materially sought by students whose school's formal status is still unstable. The operation's confidence is immediately checked by a mundane one-way door, echoing prior gaps between tactical theory and contingent practice. Moe's camera hack and finite clock make technology useful but bounded, while Sensei's exclusion stresses a student-executed mission. Finding a document is not the same as safely carrying it out, validating its contents or stopping eviction.

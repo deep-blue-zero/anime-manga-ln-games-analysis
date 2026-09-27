@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–016; BA:main:004:001:017 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–017; BA:main:004:001:018 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1055,3 +1055,7 @@ RABBIT holds a large cash payment after an off-page rusty-missile sale to a mask
 ## V004 C001 E016 institutional delta — contested authority and unproved rebate
 
 Kanna asserts RABBIT's park occupancy is unlawful and Kaya only postponed punishment, with park management outside Defense; no permits/orders/statute are opened. She says Public Security has sponsor-backed arms and a redevelopment mandate, then withdraws until a roughly month-end deadline under Sensei's request. Moe recognizes Kaiser Industry-branded guns, but no purchase record or sponsor identity is produced. Sensei/Miyako formulate a conditional Kaiser Construction-to-Industry-to-Public Security rebate for clearing rough sleepers, explicitly conceding uncertainty. Miyu guesses local-server records resist remote access; no system architecture is inspected. SRT's superior-investigator role is the squad's own mandate claim under closure, not independently reinstated authority. Clover Operation is announced to obtain evidence, not completed.
+
+## V004 C001 E017 institutional delta — Public Security archive record
+
+RABBIT enters Valkyrie Police School at 23:30 and reaches a basement-three archive under a reported 30-minute camera-hack limit. Saki locates a Public Security Kaiser Industry record dated one week earlier, and Miyako reads it as Clover evidence of an illegal rebate mediated by 子ウサギタウン redevelopment. This is direct participant document encounter, but the file's complete contents, signatures, chain of custody and independent legal review are not reproduced. No copied record or public disclosure is shown. An electronic archive door is decoded from outside, then closed with no inside handle; escape remains open.
