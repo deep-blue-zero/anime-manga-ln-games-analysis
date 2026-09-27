@@ -1,21 +1,23 @@
 ---
-title: "Rudeus — reconstruction evidence routes through V11"
+title: "Rudeus — reconstruction evidence routes through V12"
 artifact_id: MT_RUDEUS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "4823e7f9cecff45d86f3045304b5825c79bcb628"
-source_boundary: "Japanese LN V01–V11; V11 revision 1.8, historical evidence and tests preserved; publication/audit separate."
+basis_commit: "0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5"
+source_boundary: "Japanese LN V01–V12; V12 revision 1.9, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Evidence routes for the bounded Rudeus model
+
+Current revision1.9 admits locked Japanese V01–V12, based on audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5` plus complete V12. Earlier scope/count statements below are historical snapshots; the appended V12 section owns current applicability. No earlier state acquires later knowledge.
 
 This index maps rules to canonical observations; it owns no source transcript or competing evidence IDs. Local key Rudeus, LN_JP; global entity and subject IDs remain null. The [model](RECONSTRUCTION_MODEL.md) owns operational formulations and calibration. Numbers below are suffixes of `MT-E-LNJP-VNN-NNN`.
 
@@ -146,3 +148,21 @@ New selectors: ST27 (S114), ST28 (S115), ST29 (S116), ST30 (S117), ST31 (S118), 
 | Rule009 | Extend009 to ST38–40/42 (001/006–010/026–030): formal mirroring, intimidating politeness, admitted ignorance and cultural projection differ. Familiar idiom not truth; no ordinary-state speech rule for ST41. |
 
 Global IDs remain null, LN_JP continuity only, BOUNDED_PROVISIONAL and retrospective fitting. Prior tests are not fresh predictive successes; absent equivalent triggers remain UNTESTED.
+
+## V12 additions for revision 1.9
+
+[V12 observations](../../02%20Sequential%20Readings/MT_V12_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST43–ST46 and checks V61–V67. The [model](RECONSTRUCTION_MODEL.md) owns 9 rules, 46 states and 67 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST43/46 (003/006/010–015/033) adds tested book and controlled inquiry; sensory information and magic fail to guarantee interpretation or composure. |
+| 002 | ST46 lesson promise to Norn (031) is prospective, not actual teaching success; no equivalent completed tutoring test. |
+| 003 | ST43 concealed research motive and ST45 omitted pregnancy source (011/024) add bounded impression management; neither all care nor entire grief trajectory is a calculated script. |
+| 004 | ST44 (017–021) is a distinct acute-bereavement state with withdrawal and help, not merely old rejection trigger or universal collapse. Keep ST44 separate from ordinary refusal. |
+| 005 | ST43–46 (008–009/020/023/027/029–033) include care, boundaries and acknowledged roughness; twice-considered violence is stopped before execution by context/intervention, not secure general self-restraint. |
+| 006 | No exact Eris-return entrapment trigger. ST45 contemplated blow against Norn (029) is a separate conflict, not an extension that makes006 universal. |
+| 007 | No current shared Ruijerd encounter; earlier memory/green-hair association (033) is not a new interpersonal test. |
+| 008 | ST43/45–46 (011/014/022–024/027/030) includes time for group inquiry, deferred spouse agreement and a care decision where he would permit no objection. Consultation remains selective. |
+| 009 | ST43–46 (001/012/017–018/024–027/034) distinguishes forecast, genre convention, totalizing label and correction. His imagined Paul and inferred Lise lie do not become facts. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

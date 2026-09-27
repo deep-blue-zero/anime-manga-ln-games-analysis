@@ -4,7 +4,7 @@ artifact_id: MT_FORM_THEMES_AND_WORLD_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V11 only; prior history preserved, V11 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V12 only; prior history preserved, V12 updates; publication/audit separate."
 ---
 
 # Form, themes, and world ledger
@@ -309,3 +309,24 @@ Prior V01–V10 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-W-027` |020/032–035: naming legend, inherited religion, voluntary renewed prayer and argued scriptural meaning. | Faith has represented emotional/practical effects; neither miracle nor complete world-history verification follows. Electronic/print dates and book/WN witness boundary retained. |
 
 Ordinary competence recurs beside accepted limits; care can be useful without complete understanding. No separate world encyclopedia, adaptation comparison or reception synthesis is warranted by these observations. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns the targeted disclosure comparison.
+
+
+## V12 updates — 2026-09-27 UTC
+
+Prior V01–V11 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V12; immutable input audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5`. Observation suffixes resolve in [V12](../02%20Sequential%20Readings/MT_V12_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V12-`. The [V12 checkpoint](../05%20Checkpoint%20Syntheses/MT_V12_LOSS_AND_HOUSEHOLD_CHECKPOINT.md) owns targeted loss/household review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Form record | V12 mechanism | Evidence / alternatives |
+| --- | --- | --- |
+| `MT-F-035` | Nonliteral bilingual epigraph gives advance mortality framing; profile invokes uncertainty of choices. |001/034; paratext not forecast success or blanket authorial interpretation. |
+| `MT-F-036` | Roxy first-person and companions' third-person scene widen access outside R. |007/019–021; independent grief/desire/work, not shared character knowledge. |
+| `MT-F-037` | Technical adventure climax precedes lengthy domestic interpretation of costs. |011–034; neither mere failed strategy nor tragedy redeemed by reward. |
+| `MT-F-038` | Death-flag interruption, uncertain last advice, regret/sadness distinction and title return. |012/025/034; story fluency can obscure actual communication; undertaking not certification. |
+| `MT-F-039` | Illustrations mark reunion, confrontation, loss, comfort, handshake and departure. |001/008/016/020/030/034; visual warmth/light no omniscient motive or ethical verdict. |
+
+| World record | Verified / reported V12 rule | Limit |
+| --- | --- | --- |
+| `MT-W-028` | Hydra scales cancel ordinary magic; close range/cautery/team coordination work here; foresight needs interpretation. |014–015; not universal monster taxonomy or invulnerability. |
+| `MT-W-029` | Healing closes stump without regrowth; crystal cause unknown; clinician supplies rehabilitation without known cure. |015/018/032; character medical theories not diagnosis/advice or proof of incurability. |
+| `MT-W-030` | Same teleport pair reused; marriage/custom/gender assertions and hair stigma represented. |024–025/030/033; specific route test, attributed social generalizations, no comprehensive cultural law. |
+
+Grave, keepsakes and childbirth connect inheritance to practical obligations. Zenith's actions limit narratorial labels without supplying her inaccessible voice. Written form only: no adaptation, reception or performed voice admitted.

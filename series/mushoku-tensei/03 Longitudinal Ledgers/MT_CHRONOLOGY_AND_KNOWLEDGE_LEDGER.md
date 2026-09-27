@@ -4,7 +4,7 @@ artifact_id: MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V11 only; prior history preserved, V11 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V12 only; prior history preserved, V12 updates; publication/audit separate."
 ---
 
 # Chronology and knowledge ledger
@@ -387,3 +387,41 @@ Prior V01–V10 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-K-149` Killing | Direct killing absent from R's immediate options; possible wall deaths later imagined. |030–031; no verified deaths/count or principled nonviolence; Lise's conscious-hesitation reading partly mistaken. |
 | `MT-K-150` Destination | Rapan reached; regret hypotheses multiply without resolution. |031; no Paul reunion/Zenith rescue shown. |
 | `MT-K-151` Faith/counsel | Norn speaks private guilt; Cliff shares exile/limits, scripture and a forecast the narrator qualifies. |032–034; her adopted practice not forecast confirmation or supernatural outcome. |
+
+
+## V12 updates — 2026-09-27 UTC
+
+Prior V01–V11 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V12; immutable input audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5`. Observation suffixes resolve in [V12](../02%20Sequential%20Readings/MT_V12_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V12-`. The [V12 checkpoint](../05%20Checkpoint%20Syntheses/MT_V12_LOSS_AND_HOUSEHOLD_CHECKPOINT.md) owns targeted loss/household review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Time record | V12 ordering | Source / uncertainty |
+| --- | --- | --- |
+| `MT-T-066` | Rapan arrival reveals Roxy missing a month; Zenith entry report four years old, sighting two years old. |001–003/007; report age not current condition. |
+| `MT-T-067` | Roxy survival precedes rescue; renewed expedition follows regrouping and review. |007–014; narrative disclosure time distinct from action time. |
+| `MT-T-068` | Second hydra fight → Paul's death → three-day exit → Zenith wakes fourth day. |015–018; death and waking verified, cause of altered condition unknown. |
+| `MT-T-069` | Withdrawal/companion discussion → comfort/listening → prolonged bazaar preparation → return. |019–025; functional recovery gradual, no exact clinical timetable. |
+| `MT-T-070` | Snowbound home arrival, shared report, marriage discussion and later private conversation. |025–032; approximate four-month versus roughly half-year recollection retained, no fabricated date reconciliation. |
+| `MT-T-071` | Roxy teaches; one month after household settlement Lucy born; next-day grave visit. |032–034; future children remain prospective; Roxy states turning fifty. |
+
+| Knowledge record | Holder / change | Status / constraint |
+| --- | --- | --- |
+| `MT-K-152` | R expects Paul's earlier failure pattern; present reunion corrects. |001–002; does not prove permanent correction. |
+| `MT-K-153` | Party/Rudeus compare guidebook with actual reports/routes. |003/006/011; useful route not guaranteed rescue. |
+| `MT-K-154` | R invents Hitogami reverse-psychology explanation. |005; no new testimony or verified motive. |
+| `MT-K-155` | Reader gains Roxy interior before R recognizes her feelings. |007–010/023; don't transfer private memories/desire to R's earlier knowledge. |
+| `MT-K-156` | Party criticizes wall-breaking, tests hidden passage safely later. |008/011; local procedural contrast, not invariant trait. |
+| `MT-K-157` | Paul's delayed advice interrupted; grave guesses later. |012/034; actual intended speech never supplied. |
+| `MT-K-158` | Zenith observed in crystal; R doubts Lise's hopeful testimony. |013–014; his lie judgment unverified. |
+| `MT-K-159` | Roxy book/analogy/observed battle establish limited hydra rules. |014–015; eye information still requires interpretation. |
+| `MT-K-160` | Paul death and Zenith waking known to party before household. |016/018/026; report later supplied with Geese's additions. |
+| `MT-K-161` | R's total Zenith appraisal qualified by learning, armor action and preference. |018/032; no mind access or settled prognosis. |
+| `MT-K-162` | Roxy first learns marriage/pregnancy during companion discussion. |019; earlier flirting not under identical information. |
+| `MT-K-163` | Prior life told to Roxy as fiction. |021; no established disclosure of actual reincarnation. |
+| `MT-K-164` | R learns Geese also investigated condition/recovered resources. |022; initial greed appraisal corrected. |
+| `MT-K-165` | Lise's possible-pregnancy report → R's inference/proposal → Roxy denial. |024/030; R's intentional-trick attribution unconfirmed; source concealed in correction. |
+| `MT-K-166` | R forecasts catastrophe at home; household reports safety. |025; warning's true referent/motive still unknown. |
+| `MT-K-167` | Norn sees Aisha's restrained joy before R understands. |027; formal service/hard voice misleading to him. |
+| `MT-K-168` | Norn speaks for Syl; Syl supplies actual decision; private fear disclosed later. |029–031; welcome and vulnerability compatible. |
+| `MT-K-169` | Physician lacks known cure, supplies rehabilitation; cause unknown. |018/032; not universal proof of incurability. |
+| `MT-K-170` | Nanahoshi's minor school help reported without details. | V12 reading C/E, spine20p671–672; no established changed ultimate motive. |
+
+No former-parent death cause is learned from the dream. Family-search completion is personal, not a verified global end to the displacement's consequences. All earlier knowledge records retain original disclosure ceilings.

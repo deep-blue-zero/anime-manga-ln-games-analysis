@@ -4,7 +4,7 @@ artifact_id: MT_CHARACTER_STATE_AND_READINESS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V11 only; prior history preserved, V11 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V12 only; prior history preserved, V12 updates; publication/audit separate."
 ---
 
 # Character state and readiness ledger
@@ -431,3 +431,37 @@ Prior V01–V10 bodies remain historical and unchanged. Current boundary: Japane
 | Ginger, Juli, travel cast and others | Expanded ledger descriptions; full operational packages deferred. | Ginger's repeated correction is now supported, but alternative contexts/exit remain thin; travel cast concentrated in one expedition. |
 
 All global IDs remain null; none DOMAIN_READY. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns activation and disclosure review. New knowledge of earlier events is not automatically present personality change.
+
+
+## V12 updates — 2026-09-27 UTC
+
+Prior V01–V11 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V12; immutable input audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5`. Observation suffixes resolve in [V12](../02%20Sequential%20Readings/MT_V12_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V12-`. The [V12 checkpoint](../05%20Checkpoint%20Syntheses/MT_V12_LOSS_AND_HOUSEHOLD_CHECKPOINT.md) owns targeted loss/household review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| State / local key | Prior → V12 state / kind | Observations / limitation |
+| --- | --- | --- |
+| `MT-S-181` / Rudeus | Arrival → corrected reunion expectations, tested book, reckless rescue then controlled inquiry. KNOWLEDGE/PRACTICE. |001–014; improvement local, withheld motive and inaccurate appraisal persist. |
+| `MT-S-182` / Rudeus | Coordinated combat → sensory interpretation failure, lost hand, bereavement and withdrawal. CONTEXT. |015–021; grief self-judgment not diagnosis or sole-cause finding. |
+| `MT-S-183` / Rudeus | Receives care → renewed function, affair acknowledged, proposal and consultation. PRACTICE/RELATIONSHIP. |020–025/029–030; relief not cure, possible-pregnancy premise corrected, violent intention unexecuted but recurrent. |
+| `MT-S-184` / Rudeus | Home return → misreads Aisha, accepts correction, parenthood and grave undertaking. KNOWLEDGE/PRACTICE. |026–034; responsibility continuing, not completed moral transformation. |
+| `MT-S-185` / Paul | Exhausted searcher → reunion joy/apology, patient leadership and ordinary maintenance. CONTEXT/PRACTICE. |001–006/011–012; original companion quarrel unknown, ignored Lilia protest remains. |
+| `MT-S-186` / Paul | Sees Zenith → rash attack, force, revised cooperation, protects son and dies. CONTEXT/TERMINAL_EVENT. |013–017; death closes present behavior, not historical accountability or all interpretation. |
+| `MT-S-187` / Roxy | Missing → independent survival and life review, rescued before recognizing pupil. REVEALED_NOT_NEW/CONTEXT. |007–009; month of work precedes rescue, no telepathic bond established. |
+| `MT-S-188` / Roxy | Rejoined expedition → tactical authority, correction and shared bereavement. PRACTICE/KNOWLEDGE. |009–020; first learns marriage in companion discussion. |
+| `MT-S-189` / Roxy | Comfort/desire → confession, temporary arrangement refused, conditional proposal and teaching job. RELATIONSHIP/PRACTICE. |020–024/030/032; denies pregnancy, care and opportunism coexist. |
+| `MT-S-190` / Sylphiette | Waiting pregnant spouse → asserts decision, welcomes Roxy, discloses fear, becomes mother. RELATIONSHIP/CONTEXT. |030/032–033; bodily limits persist, public agreement not equal power. |
+| `MT-S-191` / Norn | Waiting sister → grief, care for Aisha, marriage objection, ongoing attachment/learning request. KNOWLEDGE/PRACTICE. |026–027/029–031; legitimate hurt and overstepping distinguished. |
+| `MT-S-192` / Aisha | Household worker → capable reception, restrained joy, reunion, criticism and birth assistance. PRACTICE/KNOWLEDGE. |027/031/033; service performance not transparent emotion or adult independence. |
+| `MT-S-193` / Lilia | City support → chooses ongoing care, reunites with Aisha, skilled midwifery. PRACTICE. |004/022/027/033; attachment and reproduced hierarchy coexist. |
+| `MT-S-194` / Zenith | Located in crystal → awake with altered communication, learning/actions/preferences observed. CONTEXT/KNOWLEDGE. |013/016/018/032; cause, experience and prognosis unknown; personhood not negated by narrator label. |
+| `MT-S-195` / Elinalise | Reunion/apology → protective combat, independent refusal, marriage persuasion and shared blame. PRACTICE/KNOWLEDGE. |002/013–015/019/024/028; denied pregnancy claim does not independently prove exact intent. |
+| `MT-S-196` / Geese and Talhand | Search collaborators → complementary planning/protection, bereavement and independent future. PRACTICE. |003/006/010/015/019/022/028; labor for Paul not merely debt to Rudeus; motives not uniform. |
+| `MT-S-197` / Vera and Shierra | City support → scrolls, boundaries, mourning and chosen departure. PRACTICE. |009–010/028; romantic meaning of loyalty unverified. |
+
+| Package | Current maintenance decision | Debt |
+| --- | --- | --- |
+| Rudeus1.9; Paul1.3; Roxy1.3 | Targeted model/index revisions. | Separate grief, combat, prior knowledge and later interpretation; Paul's posthumous voice unavailable. |
+| Sylphiette1.4; Elinalise1.2; Norn1.1; Aisha1.1 | Targeted model/index revisions. | Independent aims and refusals, unequal information and family costs; no universal tolerance rule. |
+| Zanoba1.3; Cliff1.2; Nanahoshi1.2; Eris1.4; Ruijerd1.2; Sara1.0 | Reviewed, no material operational update; exact earlier files preserved. | No direct equivalent present opportunity; reports/memories not enough for new general rule. |
+| Lilia, Zenith and expedition cast | Expanded evidence/state ledger; new operational packages deferred. | Concentrated contexts and uneven interior access; do not force package symmetry. |
+
+All models BOUNDED_PROVISIONAL; no DOMAIN_READY or global enrollment. Rudeus monograph remains V01–V10. The [V12 checkpoint](../05%20Checkpoint%20Syntheses/MT_V12_LOSS_AND_HOUSEHOLD_CHECKPOINT.md) owns maintenance reasoning.

@@ -4,7 +4,7 @@ artifact_id: MT_RELATIONSHIP_AND_AGENCY_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V11 only; prior history preserved, V11 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V12 only; prior history preserved, V12 updates; publication/audit separate."
 ---
 
 # Relationship and agency ledger
@@ -340,3 +340,35 @@ Prior V01–V10 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-R-196` | Cliff ↔ Norn: noticed distress, offered reciprocal care, hurtful tone, disclosed limits, questioned lesson and chosen practice. |032–034; independent interlocutors, advice not prophecy or permanent relief. |
 
 No material new reciprocal present sequence supports revising Eris, Sara, Roxy, Paul or Ruijerd packages; recollection and others' appraisals retain their own holders. Kinship, payment, service and faith each afford some agency without establishing equal power or exit.
+
+
+## V12 updates — 2026-09-27 UTC
+
+Prior V01–V11 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V12; immutable input audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5`. Observation suffixes resolve in [V12](../02%20Sequential%20Readings/MT_V12_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V12-`. The [V12 checkpoint](../05%20Checkpoint%20Syntheses/MT_V12_LOSS_AND_HOUSEHOLD_CHECKPOINT.md) owns targeted loss/household review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Record / direction | V12 change, action and information | Limit / next test |
+| --- | --- | --- |
+| `MT-R-197` / Paul → Rudeus | Joy, apology, leadership patience, demand, protection. |001–002/011–016; terminal act not all-history vindication. |
+| `MT-R-198` / Rudeus → Paul | Initial forecast corrected; advice interrupted, sonship reassessed, grave visited. |001/012/017/034; imagined response not testimony. |
+| `MT-R-199` / Roxy → Rudeus | Survival/reunion, tactical teaching, care and desire. |007–010/019–023; independent work and partial knowledge retained. |
+| `MT-R-200` / Rudeus → Roxy | Rescue risk, misunderstanding, admiration, roughness admitted, proposed marriage. |008–011/020–024; gratitude/possession not entitlement. |
+| `MT-R-201` / Roxy → Rudeus, boundary | Temporary arrangement refused; spouse permission required. |023–024; love and refusal coexist, not universal acquiescence. |
+| `MT-R-202` / Rudeus → Sylphiette | Broken promise disclosed, asks agreement, admits reciprocal double standard. |029–030; confession incomplete about pregnancy source. |
+| `MT-R-203` / Sylphiette → Rudeus | Welcome, voiced decision, private fear and pain boundary. |030/032; agreement not absence of cost or blanket bodily permission. |
+| `MT-R-204` / Sylphiette → Roxy | Stops departure, welcomes, insists equal standing. |030; actual terms matter beyond label and handshake. |
+| `MT-R-205` / Roxy → Sylphiette | Requires consultation, acknowledges motives, initially offers subordinate standing. |024/030; mutual choice under uneven prior information. |
+| `MT-R-206` / Norn → Rudeus | Grief/effort acknowledgment, betrayal objection and later teaching request. |026/029/031; continued love not agreement, no sole blame for death. |
+| `MT-R-207` / Rudeus → Norn | Reports, passes sword warning, considers force, later defends valid hurt. |026/029/031; no blow, no secure unassisted restraint claim. |
+| `MT-R-208` / Norn → Aisha | Notices inhibited joy and creates room for reunion. |027; insight independent of brother. |
+| `MT-R-209` / Aisha → Norn | Rebukes speaking for Syl with cutting comparison. |031; accurate point and hurtful delivery separated. |
+| `MT-R-210` / Aisha ↔ Lilia | Formal service exchange followed by emotional embrace; teaching at birth. |027/033; attachment coexists reproduced rank/discipline. |
+| `MT-R-211` / Lilia → Zenith | Chooses sustained care in acknowledgment of past kindness. |022/027/032; visible work, no proof limitless capacity or equal burden. |
+| `MT-R-212` / Rudeus → Zenith | Initially weak identification/totalizing label, later care plan and observed choices. |013/018/027/032; inaccessible interior, unilateral household demand remains. |
+| `MT-R-213` / Elinalise → Rudeus | Essential protection, grief care, refusal and marriage persuasion. |013–015/019/024/028; problematic claim and speculative future not moral omniscience. |
+| `MT-R-214` / Elinalise → Cliff/Sylphiette/Roxy | Fidelity and kin duties invoked; friendship also asserted. |019/024; competing duties, no unverified shared scheme. |
+| `MT-R-215` / Geese → party | Maps, supplies, risk review, recovered resources and investigation. |003/006/010/022; gambling joke not verified intended theft. |
+| `MT-R-216` / Talhand → Paul/party | Protective coordination, independent grief/tie to Paul. |006/015/019/028; helper's purpose not owned by R. |
+| `MT-R-217` / Vera/Shierra → family | Support, privacy limits, scrolls and grave request. |009–010/028; motives beyond represented loyalty unknown. |
+| `MT-R-218` / parents/caregivers → Lucy | Birth support, affection and new declared duty. |033–034; no demonstrated long-term parenting performance; hair stigma persists. |
+
+Directions sharing a row are linked only for the represented exchange, not collapsed into identical motives. No marriage label supplies universal consent; no act of mourning assigns every survivor the same obligation or recovery timetable.

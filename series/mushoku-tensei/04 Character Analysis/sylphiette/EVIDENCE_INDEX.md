@@ -4,19 +4,21 @@ artifact_id: MT_SYLPHIETTE_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "4823e7f9cecff45d86f3045304b5825c79bcb628"
-source_boundary: "Japanese LN V01–V11; V11 revision 1.3, historical evidence and tests preserved; publication/audit separate."
+basis_commit: "0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5"
+source_boundary: "Japanese LN V01–V12; V12 revision 1.4, historical IDs and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Sylphiette evidence routes
+
+Current revision1.4 admits locked Japanese V01–V12, based on audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5` plus complete V12. Earlier scope/count statements below are historical snapshots; the appended V12 section owns current applicability. No earlier state acquires later knowledge.
 
 Local key Sylphiette/Sylphie, LN_JP; global IDs null. [Model](RECONSTRUCTION_MODEL.md) owned six rules, nine selectors and thirteen retrospective tests after V09; its current V11 totals are seven rules, fourteen selectors and twenty-one tests. V01 numbers resolve in [V01](../../02%20Sequential%20Readings/MT_V01_DEEP_READING.md#d-source-observations-and-diagnostic-close-readings), V08 in [V08](../../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings). Only explicitly attributable actions/self-account are used. V09 confirms Sylphiette performs Fitts and Ariel sometimes substitutes; earlier unresolved-attribution entries below remain historical.
 
@@ -68,3 +70,19 @@ New selectors: ST06 (S121), ST07 (S122), ST08 (S123), ST09 (S124). Prior test/ev
 | Rule007 | No equivalent subordinate-invitation enforcement; UNTESTED. Pregnancy leave is not a punitive decision. |
 
 Global IDs remain null, LN_JP continuity only, BOUNDED_PROVISIONAL and retrospective fitting. Prior tests are not fresh predictive successes; absent equivalent triggers remain UNTESTED.
+
+## V12 additions for revision 1.4
+
+[V12 observations](../../02%20Sequential%20Readings/MT_V12_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST15–ST16 and checks V22–V24. The [model](RECONSTRUCTION_MODEL.md) owns 7 rules, 16 states and 24 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | No new comparable learning trial; childbirth/care (033) is not magical mastery evidence. |
+| 002 | ST15–16 (030/032–033) supports chosen welcome and care with fear; loyalty not merely unthinking gratitude. |
+| 003 | ST15 private fear (030) does not repeat delayed-name trigger; she speaks decisively in public and discloses later worry, constraining general inhibition. |
+| 004 | ST15–16 (030/032) asserts her own decision, equal standing and pain-sensitive limit; acceptance and abandonment anxiety coexist, no universal acquiescence. |
+| 005 | ST15 (030) is household equality discussion, not new political recruitment test; work loyalty to Ariel not silently revoked by motherhood. |
+| 006 | No repeated culpable-catastrophe accusation trigger; grief report (026) not equivalent attack opportunity. |
+| 007 | No repeated subordinate-invitation enforcement trigger; intervention toward Norn (030) not same hierarchy decision. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

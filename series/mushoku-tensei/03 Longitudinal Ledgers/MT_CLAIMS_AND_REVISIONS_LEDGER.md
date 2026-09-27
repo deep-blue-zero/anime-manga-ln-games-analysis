@@ -4,7 +4,7 @@ artifact_id: MT_CLAIMS_AND_REVISIONS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V11 only; prior history preserved, V11 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V12 only; prior history preserved, V12 updates; publication/audit separate."
 ---
 
 # Claims and revisions ledger
@@ -285,3 +285,28 @@ Prior V01–V10 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-CR-141` / `MT-C-015` | Task completion plural → family comfort, safe escape, arrival and adopted practice have different unresolved costs. | STRENGTHEN;005–014/023–025/029–034; care/joy real, no whole-person repair verdict. | Affected person's response and sustained terms on later opportunity. |
 
 C001–015 remain sufficient; no new shared claim is added solely for volume count. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns major disclosure and duty comparisons. Interpretive confidence is high for local representation, moderate for repeated mechanisms and unresolved for unseen outcomes. Prior tests and freezes remain historical.
+
+
+## V12 updates — 2026-09-27 UTC
+
+Prior V01–V11 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V12; immutable input audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5`. Observation suffixes resolve in [V12](../02%20Sequential%20Readings/MT_V12_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V12-`. The [V12 checkpoint](../05%20Checkpoint%20Syntheses/MT_V12_LOSS_AND_HOUSEHOLD_CHECKPOINT.md) owns targeted loss/household review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Revision / claim | Prior → V12 formulation | Transition / evidence / limit |
+| --- | --- | --- |
+| `MT-CR-142` / `MT-C-001` | Capacity differentiated → teamwork, interpretation and personal stakes constrain execution. | STRENGTHEN;006–015/033; eye/mana not guaranteed comprehension or composure. |
+| `MT-CR-143` / `MT-C-002` | Care/harm coexist → distress, desire, offered comfort and rough conduct require specific agency conditions. | REVISE;004/008–009/020/023–024/029–032; relief not permission or cure. |
+| `MT-CR-144` / `MT-C-003` | Independent access matters → Roxy/companions/household correct protagonist-centered accounts. | REVISE;001–002/007/017–019/025–031; corrections not omniscience. |
+| `MT-CR-145` / `MT-C-004` | Earlier refusal remains bounded. | PRESERVE;023/030/032 supply new limits, no retroactive consent. |
+| `MT-CR-146` / `MT-C-005` | Household care/injury distinct → mourning, hierarchy and new kinship preserve both histories. | STRENGTHEN;004/014/016–017/027/029–034; sacrifice does not vindicate assault or coercion. |
+| `MT-CR-147` / `MT-C-006` | Later benefit cannot prove forced separation necessary. | PRESERVE;011–016/025–028 different chosen/contingent separations; no equivalent historical correction. |
+| `MT-CR-148` / `MT-C-007` | Independent goals within relations → survival, work, grief, care, dissent and chosen marriage broaden agency. | STRENGTHEN;007/019/022–024/026–033; choice remains materially uneven. |
+| `MT-CR-149` / `MT-C-008` | Learning distributed → controlled investigation and revised counsel contrast failed perception. | STRENGTHEN;006–015/021/033; local correction not global mastery. |
+| `MT-CR-150` / `MT-C-009` | Proposition-level status → epigraph, diagnosis-like label, pregnancy report and imagined speech separate. | REVISE;001/005/012/017–018/024–025/034; R's inferred lie not confirmed intent. |
+| `MT-CR-151` / `MT-C-010` | Arrival before rescue → family located at lethal cost and uncertain condition. | REVISE;013–018/025/028; catastrophe cause and wider missing population unresolved. |
+| `MT-CR-152` / `MT-C-011` | Gratitude not universal optimization → help does not purchase partner choice or own helpers. | REVISE;019–024/028–031; R's repayment story corrected to desire, Talhand independent tie. |
+| `MT-CR-153` / `MT-C-012` | Plural aid → relief, listening, practical care and restored function have distinct outcomes. | REVISE;017–023/026–034; grief persists, no sexual cure or common recovery timetable. |
+| `MT-CR-154` / `MT-C-013` | Belonging unequal → shared home/accepted marriage do not establish equal work, information or power. | REVISE;004/022–024/027/029–033; Lilia labor, Syl fear, children's dependence retained. |
+| `MT-CR-155` / `MT-C-014` | Knowledge-conditioned responsibility → counterfactual blame and after-the-fact agreement differ from causal proof. | REVISE;005/008/011–015/017–024/027–030; alternative options not all tested. |
+| `MT-CR-156` / `MT-C-015` | Completion plural → rescue, survival, return, birth and renewed purpose have noninterchangeable costs. | STRENGTHEN;015–034; no global redemption, perfect family or terminal grief verdict. |
+
+Next discriminating tests concern sustained care allocation, informed inconvenient choices, nonviolent disagreement, corrected appraisal and independently grounded disclosure. All revisions are retrospective and source-bounded through V12; no C016 is added merely for a major plot event.

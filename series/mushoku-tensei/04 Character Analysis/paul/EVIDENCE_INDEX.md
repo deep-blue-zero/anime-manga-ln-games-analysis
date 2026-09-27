@@ -1,21 +1,23 @@
 ---
-title: "Paul — reconstruction evidence routes through V10"
+title: "Paul — reconstruction evidence routes through V12"
 artifact_id: MT_PAUL_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "40018b5caedfba456da199ed2fea613ec991015a"
-source_boundary: "Japanese LN V01–V10; preserved history and V10 revision 1.2; publication/audit separate."
+basis_commit: "0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5"
+source_boundary: "Japanese LN V01–V12; V12 revision 1.3, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Paul evidence routes
+
+Current revision1.3 admits locked Japanese V01–V12, based on audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5` plus complete V12. Earlier scope/count statements below are historical snapshots; the appended V12 section owns current applicability. No earlier state acquires later knowledge.
 
 Local key `Paul`, LN_JP, global IDs null. This index maps [model](RECONSTRUCTION_MODEL.md) rules to existing observations, not new evidence records. VNN:NNN abbreviates `MT-E-LNJP-VNN-NNN`.
 
@@ -43,3 +45,18 @@ The new source is read after the prior fixed rules, but selection and franchise 
 ## V10 additions for revision 1.2
 
 Source-owned observations in [V10](../../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings): `017,030–031,034`. The [V01–V10 checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) separates new source access from event time. New selectors ST06 and tests V07, V08, V09 reside in the model; shared states S148–149 own the longitudinal changes. Rule-specific applicability and untested triggers are stated there. Earlier routes/tests remain preserved. BOUNDED_PROVISIONAL; no clean holdout or global enrollment.
+
+## V12 additions for revision 1.3
+
+[V12 observations](../../02%20Sequential%20Readings/MT_V12_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST07–ST09 and checks V10–V14. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 9 states and 14 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST08 (013–014) renews force and high-capability demand at maternal rescue trigger; adult-trust interpretation does not eliminate lethal demand. |
+| 002 | ST07/09 (001/015–016) include care for son and actual protective displacement. Do not infer complete affection hierarchy or that all earlier force protected. |
+| 003 | ST07 exhaustion/reunion (001) is not a new confirmed drunken collapse. Specific V05 collapse remains historical; ST08 rashness is a different response. |
+| 004 | ST07–08 (002/011/014) allows apology, patience and acknowledgment of rashness; renewed force limits durable reform. |
+| 005 | ST07–09 (006/011/014–016) includes organized collaboration/thanks and protective action. Inconvenient full withdrawal was not actually tested. |
+| 006 | ST07–08 (001–004/012/014) informal banter, apology, unfinished counsel and commands coexist. Lilia objection and unheard advice remain limits. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

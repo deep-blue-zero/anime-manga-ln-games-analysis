@@ -1,21 +1,23 @@
 ---
-title: "Paul — bounded reconstruction through V10"
+title: "Paul — bounded reconstruction through V12"
 artifact_id: MT_PAUL_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "40018b5caedfba456da199ed2fea613ec991015a"
-source_boundary: "Japanese LN V01–V10; historical rules retained with V10 revision 1.2; publication/audit separate."
+basis_commit: "0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5"
+source_boundary: "Japanese LN V01–V12; V12 revision 1.3, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Paul: care, capability expectations and incomplete correction
+
+Current revision1.3 admits locked Japanese V01–V12, based on audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5` plus complete V12. Earlier scope/count statements below are historical snapshots; the appended V12 section owns current applicability. No earlier state acquires later knowledge.
 
 Local key `Paul`, continuity `LN_JP`; `character_entity_id: null`, `analysis_subject_id: null`. Admitted witnesses `MT-LNJP-V01` through `MT-LNJP-V10`; current V10 input `40018b5caedfba456da199ed2fea613ec991015a`. V06 input and tests remain historical. Initial V05 frozen base `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`, plus the V05 transaction containing this first model. The [V01–V05 checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) owns activation reasoning. The [evidence index](EVIDENCE_INDEX.md) provides full routes.
 
@@ -33,18 +35,21 @@ Paul's model is **BOUNDED_PROVISIONAL** for specific parenting, crisis work and 
 | `MT-PM-ST04` | Search deterioration and first reunion; S051. | Drinking, uncertainty and presumed son-knowledge; no informed account of all travel hardships. |
 | `MT-PM-ST05` | Geese's correction, second meeting and departure; S052. | Receives new facts, resumes work, supports chosen return; Norn/Eris not thereby reconciled. |
 | `MT-PM-ST06` | V10 newly disclosed East Port risk decision and letter; S148–149. | Historical to arrival, new source access; no knowledge of Rudy marriage/current household; no completed Zenith rescue. |
+| `MT-PM-ST07` | V12 Rapan reunion and ordinary expedition leadership. | S185; exhausted, apologetic, patient, still ignores protest. |
+| `MT-PM-ST08` | V12 Zenith sighting, rash assault/conflict and revised appeal. | S186; affect changes judgment, alternatives not exhausted. |
+| `MT-PM-ST09` | V12 Second fight, protective action and death. | S186; terminal represented state, no new posthumous speech or action. |
 
 
 ## Conditional rules
 
 | Rule/states | Trigger, relation and competing motives | Response range / evidence | Limits and discriminating observation |
 | --- | --- | --- | --- |
-| `MT-PM-001` / ST01–04 (ST06 letter qualifies expectation, no accusation test) | Believes a child has unusual power and should restrain it or perform a duty; assumes the situation understood. | Can judge before hearing, impose demands and use force, mixing protective ideals with pride and anger. V01:010,016; V05:006–007. | V01:011 asks about refusal; ST05 corrects expectations. High recurrence under specified assumptions, not every disagreement. A comparable accusation heard fully before judgment would challenge automatic extension. V10: The V10 letter (017) explicitly distinguishes Norn from exceptional siblings and requests patience; this corrects an expectation mechanism in advice, not a fresh accusation test. Its ST01–04 trigger remains historical. |
-| `MT-PM-002` / ST02–06 | A dependent child's immediate bodily need is concrete, especially Norn's illness or fear. | Provides care, changes travel and retains a reason to continue despite competing search urgency. V05:004–006,015. | Haste initially harms Norn, strict image initially limits affection. High observed care, moderate mechanism; do not infer infallible parenting. Test whether concrete need overrides a status ideal before harm. V10: Extend to ST06 for concrete child safety and attention to Norn dependence (017/030/034); delegation responds to competing risks without obtaining her preferred outcome. |
-| `MT-PM-003` / ST03–04 (no equivalent V10 collapse) | Family remains missing while usable leads/resources shrink and rescue obligations continue. | May persist through organizing and risky retrieval, then retreat into drinking and avoidance when uncertainty dominates. V05:005–006,015. | One prolonged crisis trajectory, not a universal addiction diagnosis or inevitable response to loss. Recovered work needs ST05 information/care; no instant reset. Test actual allocation of attention, not shame alone. V10: ST06 gives continued rescue planning but no comparable fresh collapse trigger; no prediction of permanent sobriety or renewed breakdown. |
-| `MT-PM-004` / ST01–02,05–06 (ST06 analogous information update) | Trusted person supplies specific contradiction to his father-image or capability assumption. | Can resist, then listen, imagine reversed conditions, feel shame and attempt apology or altered care. Zenith/son/Geese differ in access; V01:010–011; V05:004,009,011. | Repeated relapse defeats permanent reform. Admission is not equivalent to successful conversation; high local fit. Test whether new facts change a concrete demand, with refusal-to-listen remaining possible. V10: Extend to ST06 for deliberation about changing people and correction from Norn observed reliance (034). This is an analogous update, not repetition of a shame/apology encounter. |
-| `MT-PM-005` / ST03,05–06 | Has practical resources or connections and a family/rescue objective; another person's choice is expressible. | Can organize helpers, offer money/options and warn of political danger; may also pressure unity because he fears loss. V05:005,012,014–015,020. | Earlier separation overrides choice. Agency expands only in the specified later exchange; do not convert all aid into noncoercion. Test an inconvenient choice against his preferred plan. V10: Extend to ST06: money, education, trusted escort and differentiated care instructions accompany delegation (017/030/034); Norn has not freely selected every term. |
-| `MT-PM-006` / ST01–06 | Speaking to son, old companion, daughter or noble acquaintance. | Informal joking/blunt commands with familiar men, reassurance with Norn, awkward apology under shame, formal greeting when useful. V01:010–016; V05:007,009,011,015,020. | Sexual joking can exclude women present. Formal skill is not sincerity proof; no acoustic imitation. A supported quiet response must remain possible despite rough default diction. V10: Extend to ST06 for candid letter advice, apology, practical planning and concise request to an escort (017/034); no universal gentle register. |
+| `MT-PM-001` / ST01–04 (ST06 letter qualifies expectation, no accusation test) | Believes a child has unusual power and should restrain it or perform a duty; assumes the situation understood. | Can judge before hearing, impose demands and use force, mixing protective ideals with pride and anger. V01:010,016; V05:006–007. | V01:011 asks about refusal; ST05 corrects expectations. High recurrence under specified assumptions, not every disagreement. A comparable accusation heard fully before judgment would challenge automatic extension. V10: The V10 letter (017) explicitly distinguishes Norn from exceptional siblings and requests patience; this corrects an expectation mechanism in advice, not a fresh accusation test. Its ST01–04 trigger remains historical. V12: ST08 (013–014) renews force and high-capability demand at maternal rescue trigger; adult-trust interpretation does not eliminate lethal demand. |
+| `MT-PM-002` / ST02–06 | A dependent child's immediate bodily need is concrete, especially Norn's illness or fear. | Provides care, changes travel and retains a reason to continue despite competing search urgency. V05:004–006,015. | Haste initially harms Norn, strict image initially limits affection. High observed care, moderate mechanism; do not infer infallible parenting. Test whether concrete need overrides a status ideal before harm. V10: Extend to ST06 for concrete child safety and attention to Norn dependence (017/030/034); delegation responds to competing risks without obtaining her preferred outcome. V12: ST07/09 (001/015–016) include care for son and actual protective displacement. Do not infer complete affection hierarchy or that all earlier force protected. |
+| `MT-PM-003` / ST03–04 (no equivalent V10 collapse) | Family remains missing while usable leads/resources shrink and rescue obligations continue. | May persist through organizing and risky retrieval, then retreat into drinking and avoidance when uncertainty dominates. V05:005–006,015. | One prolonged crisis trajectory, not a universal addiction diagnosis or inevitable response to loss. Recovered work needs ST05 information/care; no instant reset. Test actual allocation of attention, not shame alone. V10: ST06 gives continued rescue planning but no comparable fresh collapse trigger; no prediction of permanent sobriety or renewed breakdown. V12: ST07 exhaustion/reunion (001) is not a new confirmed drunken collapse. Specific V05 collapse remains historical; ST08 rashness is a different response. |
+| `MT-PM-004` / ST01–02,05–06 (ST06 analogous information update) | Trusted person supplies specific contradiction to his father-image or capability assumption. | Can resist, then listen, imagine reversed conditions, feel shame and attempt apology or altered care. Zenith/son/Geese differ in access; V01:010–011; V05:004,009,011. | Repeated relapse defeats permanent reform. Admission is not equivalent to successful conversation; high local fit. Test whether new facts change a concrete demand, with refusal-to-listen remaining possible. V10: Extend to ST06 for deliberation about changing people and correction from Norn observed reliance (034). This is an analogous update, not repetition of a shame/apology encounter. V12: ST07–08 (002/011/014) allows apology, patience and acknowledgment of rashness; renewed force limits durable reform. |
+| `MT-PM-005` / ST03,05–06 | Has practical resources or connections and a family/rescue objective; another person's choice is expressible. | Can organize helpers, offer money/options and warn of political danger; may also pressure unity because he fears loss. V05:005,012,014–015,020. | Earlier separation overrides choice. Agency expands only in the specified later exchange; do not convert all aid into noncoercion. Test an inconvenient choice against his preferred plan. V10: Extend to ST06: money, education, trusted escort and differentiated care instructions accompany delegation (017/030/034); Norn has not freely selected every term. V12: ST07–09 (006/011/014–016) includes organized collaboration/thanks and protective action. Inconvenient full withdrawal was not actually tested. |
+| `MT-PM-006` / ST01–06 | Speaking to son, old companion, daughter or noble acquaintance. | Informal joking/blunt commands with familiar men, reassurance with Norn, awkward apology under shame, formal greeting when useful. V01:010–016; V05:007,009,011,015,020. | Sexual joking can exclude women present. Formal skill is not sincerity proof; no acoustic imitation. A supported quiet response must remain possible despite rough default diction. V10: Extend to ST06 for candid letter advice, apology, practical planning and concise request to an escort (017/034); no universal gentle register. V12: ST07–08 (001–004/012/014) informal banter, apology, unfinished counsel and commands coexist. Lilia objection and unheard advice remain limits. |
 
 ## Self-concept, relationships and ordinary behavior
 
@@ -88,3 +93,17 @@ New routes: [V10](../../02%20Sequential%20Readings/MT_V10_DEEP_READING.md) and [
 The new material is not all new action at V10 present time. The letter is received now; the extra supplies historical deliberation and the arrival verifies escort performance. Norn recalls fear from his drinking while expressly distinguishing it from violence against her (031). His self-knowledge that people change motivates inquiry rather than proving reliability. Rules001/003 have no new equivalent adverse opportunity;004 has an analogous information revision, not a replicated apology.
 
 All tests are retrospective reconstruction checks against disclosed prior familiarity, not clean holdouts. Earlier IDs, test rows and original source ceilings as historical records remain intact. Readiness stays BOUNDED_PROVISIONAL; no unseen present knowledge, clinical diagnosis or global enrollment.
+
+## V12 diagnostic checks and revision 1.3
+
+[V12 observations](../../02%20Sequential%20Readings/MT_V12_DEEP_READING.md#d-diagnostic-close-readings) own source evidence; the [loss/household checkpoint](../../05%20Checkpoint%20Syntheses/MT_V12_LOSS_AND_HOUSEHOLD_CHECKPOINT.md) owns maintenance. Current totals: 6 rules, 9 selectors and 14 retrospective checks. New applicability is limited by each rule's V12 qualification.
+
+| Test | V12 opportunity / outcome | Result / debt |
+| --- | --- | --- |
+| `MT-PM-V10` | Rudeus expects drunken anger, receives embrace/apology (001). | 003 old trajectory not inevitable present state. |
+| `MT-PM-V11` | Waits for unknown solution, thanks specialists (011/014). | 004/005 allow shared expertise. |
+| `MT-PM-V12` | Rushes at Zenith, grabs son, demands rescue at mortal cost (013–014). | 001 recurrence; protective aim not harmless method. |
+| `MT-PM-V13` | Protects son and dies (015–016). | 002 concrete care; no whole-history exoneration. |
+| `MT-PM-V14` | Son imagines final advice at grave (012/034). | 006 no authorized invented Paul testimony. |
+
+Earlier IDs and calibration rows remain. D0 DIRECT covers represented acts, attributed reports and interiority; D1 NEAR_ANALOG is limited to named contexts. Scene confidence high, mechanism confidence moderate. No numerical forecast, clean holdout, diagnosis, future knowledge, global enrollment or DOMAIN_READY. All admitted domains remain BOUNDED_PROVISIONAL; unsupported contexts require abstention.

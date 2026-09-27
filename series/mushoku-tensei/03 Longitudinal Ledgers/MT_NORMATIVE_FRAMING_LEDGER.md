@@ -4,7 +4,7 @@ artifact_id: MT_NORMATIVE_FRAMING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V11 only; prior history preserved, V11 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V12 only; prior history preserved, V12 updates; publication/audit separate."
 ---
 
 # Normative framing ledger
@@ -411,3 +411,37 @@ Non-graphic assessment uses bodily integrity, meaningful choice, fair hearing, p
 | `MT-NC-060` | V11 farewell restraint versus succubus impairment versus unwanted touch received. | Different agency states and directions prevent one global consent score; later ordinary-state response is diagnostic. |
 | `MT-NC-061` | V03 staged rescue for gratitude versus V11 strangers helped before known reward. | Countercase to universal manipulative rescue; institutional intimidation still shows self-centered scripts. |
 | `MT-NC-062` | Norn's demand to go, accepted adult expedition and extra's self-blame/practice. | Expressed need, decision authority and outcome liability differ; future help does not require children to assume adult risk. |
+
+
+## V12 updates — 2026-09-27 UTC
+
+Prior V01–V11 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V12; immutable input audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5`. Observation suffixes resolve in [V12](../02%20Sequential%20Readings/MT_V12_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V12-`. The [V12 checkpoint](../05%20Checkpoint%20Syntheses/MT_V12_LOSS_AND_HOUSEHOLD_CHECKPOINT.md) owns targeted loss/household review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Record | Conduct / conditions / affected access | Framing, outcome and limit |
+| --- | --- | --- |
+| `MT-N-164` | Paul/Lilia impairment report and intimate banter over protest. |002/004; inferred intervention not full testimony, smile not withdrawn objection. |
+| `MT-N-165` | Roxy self-directed survival; risky wall-breaking rescue criticized afterward. |007–008; successful aid neither erases her work nor certifies safe means. |
+| `MT-N-166` | Access/privacy imposed by others; R recognizes possible intrusion. |009; observed limits not broad purity of intent. |
+| `MT-N-167` | Paul rushes, grabs son, later demands rescue even at son's cost. |013–014; love and leadership no exemption from force/demand analysis. |
+| `MT-N-168` | Cooperative second fight, alternatives imperfectly considered, fatal protection. |014–016; death neither proves negligence alone nor vindicates every earlier choice. |
+| `MT-N-169` | Grief self-erasure and counterfactual blame. |017/026/028; not objective hierarchy of mourners or sole causal responsibility. |
+| `MT-N-170` | Zenith silence labeled total loss, later learning/preference/action. |018/032; personhood retained, no assumed consent or diagnostic certainty. |
+| `MT-N-171` | Companions suggest sexual comfort; Lise refuses on independent duties. |019; no universal medical need or failure of care from refusal. |
+| `MT-N-172` | Roxy offers intimacy under vulnerable/unequal-information circumstances; R admits roughness. |020; non-graphic; offer/no explicit refusal not unlimited consent; relief not cure. |
+| `MT-N-173` | Listening and revised advice; Lilia care/Geese resources. |021–022; practical help separate from romantic debt and completion of grief. |
+| `MT-N-174` | Roxy refuses temporary arrangement despite love. |023; consequential boundary, care no purchase of access. |
+| `MT-N-175` | Lise speculative future/pregnancy persuasion; proposal before spouse agreement. |024; later denial corrects premise, exact intentional deception unverified. |
+| `MT-N-176` | R insists shared home/no objection; Lilia main care, Aisha feelings initially misread. |027; chosen aid coexists unilateral authority and invisible labor. |
+| `MT-N-177` | Norn legitimate betrayal objection extends to insults/speaking for Syl; R considers force. |029; neither religious dismissal nor actual blow claim; intervention, not demonstrated stable self-restraint. |
+| `MT-N-178` | Syl welcomes Roxy/equal standing, privately fears expulsion; reciprocal double standard admitted. |030; agency and vulnerability both represented, no presumed sham consent or symmetry. |
+| `MT-N-179` | Norn retains disagreement/attachment; Aisha criticizes brother and sister. |031; gratitude cannot purchase silence, continued bond not full agreement. |
+| `MT-N-180` | Pain boundary, professional work, midwifery, childbirth and hair prejudice. |032–034; family warmth not blanket access/equal burden; new child not compensation for death. |
+
+| Contrast | V12 longitudinal test | Result / next opportunity |
+| --- | --- | --- |
+| `MT-NC-063` | Reckless rescue breach versus controlled passage investigation. |008/011; concrete improved procedure, durable transfer unproved. |
+| `MT-NC-064` | Total incapacity/personhood appraisal versus observed learning/preference. |018; reject exhaustive label, preserve unknown experience. |
+| `MT-NC-065` | Aid as sexual cure/debt versus listening, practical care and refusal. |019–023; multiple mechanisms, no necessary cure or repayment marriage. |
+| `MT-NC-066` | Norn permits Aisha voice, then assumes Syl's voice. |027/029–031; contextual agency, no uniformly accurate advocate. |
+| `MT-NC-067` | Public welcome versus private abandonment fear and asymmetric standard. |030; choice and constrained terms coexist; test later inconvenient terms. |
+| `MT-NC-068` | Paul's death/R's parenthood versus historical coercion and renewed violent thought. |014–017/029/033–034; development real in named practices, no universal moral completion. |

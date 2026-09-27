@@ -1,22 +1,24 @@
 ---
-title: "Elinalise — bounded Japanese LN reconstruction through V11"
+title: "Elinalise — bounded Japanese LN reconstruction through V12"
 artifact_id: MT_ELINALISE_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "4823e7f9cecff45d86f3045304b5825c79bcb628"
-source_boundary: "Japanese LN V01–V11; V11 revision 1.1, historical evidence and tests preserved; publication/audit separate."
+basis_commit: "0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5"
+source_boundary: "Japanese LN V01–V12; V12 revision 1.2, historical IDs and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Elinalise: practical independence, stigma and particular care
+
+Current revision1.2 admits locked Japanese V01–V12, based on audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5` plus complete V12. Earlier scope/count statements below are historical snapshots; the appended V12 section owns current applicability. No earlier state acquires later knowledge.
 
 Local key Elinalise Dragonroad, continuity LN_JP; global character_entity_id and analysis_subject_id remain null. This BOUNDED_PROVISIONAL model was first activated using audited V09 input `40018b5caedfba456da199ed2fea613ec991015a` plus fully inspected V10. The [V01–V10 checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) owns activation; the [index](EVIDENCE_INDEX.md) routes source observations. The initial V01–V10 corpus was the activation boundary; the current model includes V11 as specified below. This is not a claim that every volume supplies direct Elinalise evidence. Her longer history remains incompletely accessible. WN, adaptations, reception, performed voice and future LN are excluded; prior franchise familiarity prevents a clean holdout.
 
@@ -34,6 +36,8 @@ The package is now warranted by variation across search, paid work, study, frien
 | `MT-LM-ST06` | V11 Rescue commitment, Cliff proposal and revised shorter separation. | S175; changed stakes/options, curse not cured. |
 | `MT-LM-ST07` | V11 Forest/teleport/desert roles and mutual bodily boundaries. | S176; expertise with local ignorance, rejects impaired advances and complies with own received refusal. |
 | `MT-LM-ST08` | V11 Caravan/ambush, protective escalation and grandchild acknowledgment. | S176; language gaps and partial misunderstanding, direct kinship-care statement. |
+| `MT-LM-ST09` | V12 Paul reunion, labyrinth defense and shared loss. | S195; original quarrel/prognosis knowledge uncertain. |
+| `MT-LM-ST10` | V12 Refuses proposed intimacy, advocates marriage, participates in return. | S195; competing duties and contradicted pregnancy premise. |
 
 ## Explanatory account
 
@@ -55,12 +59,12 @@ D0 DIRECT covers represented acts and explicitly attributed reports; D1 NEAR_ANA
 
 | Rule / states | Trigger / relationship / required knowledge | Supported response range | Countercase and possible falsifier |
 | --- | --- | --- | --- |
-| `MT-LM-001` / ST01–02,05 | A concrete travel, work or care task can be advanced by skills or contacts she possesses. | Can coordinate, negotiate, travel and perform practical work; aid does not require exclusive affection for the beneficiary. | V06:028; V08:002–003; V10:007/015. V04:007 shows diversion/error; not universal efficiency. Repeated low-cost feasible aid abandoned despite explicit commitment would narrow reliability. V11: Extend001 to ST06–08 (016–025/027–031): plans, scouts, rescues, tests return route and improvises barter; desert novelty/language limits constrain reliability. |
-| `MT-LM-002` / ST01–05 | Others infer her wishes or availability from sexuality or the reported curse. | Can distinguish need from pleasure and refuse a particular approach or imposed account; may choose intimacy on negotiated terms. | V04:006; V08:005; V09:004–005; V10:012. No universal chastity/promiscuity script, complete mechanism or consent by diagnosis. A plainly revised preference requires new evidence, not inference from reputation. V11: Extend002 to ST06–07 (017/023/025): explicit no-sex agreement, blocks impaired approaches, later complies with R's separation demand after her own touch. Constraint not universal availability or innocence. |
-| `MT-LM-003` / ST02–03 | A proposed act toward another person appears disproportionate or a mediator presumes decision authority. | Can state an objection, disclose a constraint, refuse or ask for private decision space. | V08:019; V09:004. Useful countervoice is not general moral infallibility; V08:003 preserves adverse social conduct. Failure to voice a similarly recognized low-risk objection would narrow transfer. V11: ST08 (030–031) defense of retreat escalates toward a duel; revise against a generalized always-proportionate-objection rule. Specific V08 objection remains historical. |
-| `MT-LM-004` / ST04 | Disclosure of kinship may expose descendants to rejection associated with her reputation. | Can avoid recognition, initially deny or minimize connection, become distressed and recount protective withdrawal; acceptance can permit local disclosure. | V10:012, one uniquely diagnostic family cluster. Reported history differs from directly seen recognition; no universal shame diagnosis. Comparable safe kinship naming without avoidance would qualify persistence. V11: No new equivalent kinship-disclosure shame trigger; affirmative grandchild care (031) is later accepted-relation conduct, not repetition of ST04 fear. |
-| `MT-LM-005` / ST03–05 | Another person's informed commitment or acceptance creates a concrete relationship opportunity. | Can accept a chosen bond and contribute practical care, while retaining bodily/work constraints and independent judgment. | V09:004–005; V10:012/014–015. Cliff's promise is his act; her later aid supplies separate evidence. Do not infer cure, total forgiveness or permanent agreement. Repeated explicit refusal after purported acceptance would require state revision. V11: Extend005 to ST06–08 (017/020/031): commitment changes acceptable separation length, short route changes plan, practical grandchild protection affirmed; no actual cure or full mutual insight. |
-| `MT-LM-006` / ST01–05 | Ordinary conversation with peers, mediator, admirer or newly recognized family member. | Can use fluent social handling and humor, firm refusal or restrained disclosure; distress can disrupt ease. | V08:003/005/029; V09:004; V10:011–012. Interlocutor/context required; no fixed seductive voice or all-purpose emotional composure. V11: Extend006 to ST06–08 (017/024–031): admits limits, teases, refuses history and communicates kinship; translator dependence makes some interpretation partial. |
+| `MT-LM-001` / ST01–02,05 | A concrete travel, work or care task can be advanced by skills or contacts she possesses. | Can coordinate, negotiate, travel and perform practical work; aid does not require exclusive affection for the beneficiary. | V06:028; V08:002–003; V10:007/015. V04:007 shows diversion/error; not universal efficiency. Repeated low-cost feasible aid abandoned despite explicit commitment would narrow reliability. V11: Extend001 to ST06–08 (016–025/027–031): plans, scouts, rescues, tests return route and improvises barter; desert novelty/language limits constrain reliability. V12: ST09–10 (002/013–015/022/025) includes coordination, protection and safe return; injury/loss constrain infallibility. |
+| `MT-LM-002` / ST01–05 | Others infer her wishes or availability from sexuality or the reported curse. | Can distinguish need from pleasure and refuse a particular approach or imposed account; may choose intimacy on negotiated terms. | V04:006; V08:005; V09:004–005; V10:012. No universal chastity/promiscuity script, complete mechanism or consent by diagnosis. A plainly revised preference requires new evidence, not inference from reputation. V11: Extend002 to ST06–07 (017/023/025): explicit no-sex agreement, blocks impaired approaches, later complies with R's separation demand after her own touch. Constraint not universal availability or innocence. V12: ST10 (019) refuses intimacy for Cliff/Syl and likely guilt; curse no universal availability. |
+| `MT-LM-003` / ST02–03 | A proposed act toward another person appears disproportionate or a mediator presumes decision authority. | Can state an objection, disclose a constraint, refuse or ask for private decision space. | V08:019; V09:004. Useful countervoice is not general moral infallibility; V08:003 preserves adverse social conduct. Failure to voice a similarly recognized low-risk objection would narrow transfer. V11: ST08 (030–031) defense of retreat escalates toward a duel; revise against a generalized always-proportionate-objection rule. Specific V08 objection remains historical. V12: ST09–10 (013/019/024/028) can restrain conflict and challenge self-blame, yet speculative pregnancy/future persuasion limits any universal respect-for-decision-authority rule. |
+| `MT-LM-004` / ST04 | Disclosure of kinship may expose descendants to rejection associated with her reputation. | Can avoid recognition, initially deny or minimize connection, become distressed and recount protective withdrawal; acceptance can permit local disclosure. | V10:012, one uniquely diagnostic family cluster. Reported history differs from directly seen recognition; no universal shame diagnosis. Comparable safe kinship naming without avoidance would qualify persistence. V11: No new equivalent kinship-disclosure shame trigger; affirmative grandchild care (031) is later accepted-relation conduct, not repetition of ST04 fear. V12: No fresh reputation/kinship concealment trigger. Invoked grandmother duty (024) is an accepted relationship, not repeat ST04. |
+| `MT-LM-005` / ST03–05 | Another person's informed commitment or acceptance creates a concrete relationship opportunity. | Can accept a chosen bond and contribute practical care, while retaining bodily/work constraints and independent judgment. | V09:004–005; V10:012/014–015. Cliff's promise is his act; her later aid supplies separate evidence. Do not infer cure, total forgiveness or permanent agreement. Repeated explicit refusal after purported acceptance would require state revision. V11: Extend005 to ST06–08 (017/020/031): commitment changes acceptable separation length, short route changes plan, practical grandchild protection affirmed; no actual cure or full mutual insight. V12: ST10 (019/024) protects fidelity and values friendship while advising asymmetric household change; cannot assume every party fully informed. |
+| `MT-LM-006` / ST01–05 | Ordinary conversation with peers, mediator, admirer or newly recognized family member. | Can use fluent social handling and humor, firm refusal or restrained disclosure; distress can disrupt ease. | V08:003/005/029; V09:004; V10:011–012. Interlocutor/context required; no fixed seductive voice or all-purpose emotional composure. V11: Extend006 to ST06–08 (017/024–031): admits limits, teases, refuses history and communicates kinship; translator dependence makes some interpretation partial. V12: ST09–10 (002/013/019/024/028) apology, firm refusal, persuasion and shared-responsibility language; pregnancy denial contradicts premise but exact lie intent remains unverified. |
 
 ## Retrospective checks and readiness
 
@@ -91,3 +95,16 @@ Current input is audited V10 `4823e7f9cecff45d86f3045304b5825c79bcb628` plus the
 Travel puts her practical skills and admitted limits on equal analytical footing. Her support is not reducible to sexual availability or to a flawless grandmother archetype. Changed separation preferences follow altered commitments and transport options. Rudeus's conjecture about Paul remains outside this model's known history.
 
 All earlier IDs and calibration rows are preserved. D0 DIRECT supports represented acts and attributed testimony; D1 NEAR_ANALOG is restricted to named contexts. Mechanism confidence remains moderate and scene confidence high; no quantitative forecast, clean holdout, diagnosis, future-source knowledge or global enrollment. All admitted domains remain BOUNDED_PROVISIONAL; unsupported contexts require abstention.
+
+## V12 diagnostic checks and revision 1.2
+
+[V12 observations](../../02%20Sequential%20Readings/MT_V12_DEEP_READING.md#d-diagnostic-close-readings) own source evidence; the [loss/household checkpoint](../../05%20Checkpoint%20Syntheses/MT_V12_LOSS_AND_HOUSEHOLD_CHECKPOINT.md) owns maintenance. Current totals: 6 rules, 10 selectors and 16 retrospective checks. New applicability is limited by each rule's V12 qualification.
+
+| Test | V12 opportunity / outcome | Result / debt |
+| --- | --- | --- |
+| `MT-LM-V13` | Apology and effective defense coexist with unknown old quarrel (002/013–015). | 001/006 avoid invented biography. |
+| `MT-LM-V14` | Refuses sex despite companions plea (019). | 002 independent duties and boundary. |
+| `MT-LM-V15` | Possible pregnancy report contradicted; R infers manipulation (024). | 003/005/006 no omniscient intent verdict or universal sound counsel. |
+| `MT-LM-V16` | Shares failure and challenges selective self-blame (028). | 003 helpful argument, not objective negligence allocation. |
+
+Earlier IDs and calibration rows remain. D0 DIRECT covers represented acts, attributed reports and interiority; D1 NEAR_ANALOG is limited to named contexts. Scene confidence high, mechanism confidence moderate. No numerical forecast, clean holdout, diagnosis, future knowledge, global enrollment or DOMAIN_READY. All admitted domains remain BOUNDED_PROVISIONAL; unsupported contexts require abstention.

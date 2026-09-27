@@ -1,21 +1,23 @@
 ---
-title: "Elinalise — Japanese LN evidence routes through V11"
+title: "Elinalise — Japanese LN evidence routes through V12"
 artifact_id: MT_ELINALISE_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "4823e7f9cecff45d86f3045304b5825c79bcb628"
-source_boundary: "Japanese LN V01–V11; V11 revision 1.1, historical evidence and tests preserved; publication/audit separate."
+basis_commit: "0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5"
+source_boundary: "Japanese LN V01–V12; V12 revision 1.2, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Elinalise evidence routes
+
+Current revision1.2 admits locked Japanese V01–V12, based on audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5` plus complete V12. Earlier scope/count statements below are historical snapshots; the appended V12 section owns current applicability. No earlier state acquires later knowledge.
 
 The [model](RECONSTRUCTION_MODEL.md) owns six rules, eight selectors and twelve retrospective checks. Local Elinalise, LN_JP, global IDs null. This index supplies retrieval, not a second event chronology. References use the existing observation prefix MT-E-LNJP-VNN-.
 
@@ -45,3 +47,18 @@ The [V01–V10 checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOI
 | Rule006 | Extend006 to ST06–08 (017/024–031): admits limits, teases, refuses history and communicates kinship; translator dependence makes some interpretation partial. |
 
 Global IDs remain null, LN_JP continuity only, BOUNDED_PROVISIONAL and retrospective fitting. Prior tests are not fresh predictive successes; absent equivalent triggers remain UNTESTED.
+
+## V12 additions for revision 1.2
+
+[V12 observations](../../02%20Sequential%20Readings/MT_V12_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST09–ST10 and checks V13–V16. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 10 states and 16 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST09–10 (002/013–015/022/025) includes coordination, protection and safe return; injury/loss constrain infallibility. |
+| 002 | ST10 (019) refuses intimacy for Cliff/Syl and likely guilt; curse no universal availability. |
+| 003 | ST09–10 (013/019/024/028) can restrain conflict and challenge self-blame, yet speculative pregnancy/future persuasion limits any universal respect-for-decision-authority rule. |
+| 004 | No fresh reputation/kinship concealment trigger. Invoked grandmother duty (024) is an accepted relationship, not repeat ST04. |
+| 005 | ST10 (019/024) protects fidelity and values friendship while advising asymmetric household change; cannot assume every party fully informed. |
+| 006 | ST09–10 (002/013/019/024/028) apology, firm refusal, persuasion and shared-responsibility language; pregnancy denial contradicts premise but exact lie intent remains unverified. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
