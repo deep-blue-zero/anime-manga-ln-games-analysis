@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–009; BA:main:003:004:010 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–010; BA:main:003:004:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1307,3 +1307,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Labyrinth as access control:** ~300 claimed entrances, false doors and changing routes make Arius concealment a practical obstacle; the exact mechanism remains unknown even to Misaki.
 - **Wounded hounds:** Saori reclaims a pursuer's discard metaphor as fighting resolve, not a guarantee of success.
 - **Adult power, offscreen:** Hiyori calls the result impressive and frightening, recalling earlier adult-capacity themes while leaving tactics and proportionality unseen. Entry/rescue remain future.
+
+## V003 C004 E010 motif / callback delta — villain at the threshold
+
+- **Threshold still closed:** Squad plans forced passage, but Mika arrives before the predicted guard clash or crossing. Physical proximity to Arius is not access.
+- **Witch/villain loop:** Mika recycles the crowd's `魔女` accusation as a playful taunt; performance overlays her E007 revenge intent without neutralizing it.
+- **Protective order:** Saori places Squad in front of Sensei, complicating the simple former-assailant versus victim relation.

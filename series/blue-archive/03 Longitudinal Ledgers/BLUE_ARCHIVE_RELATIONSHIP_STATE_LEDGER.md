@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–009; BA:main:003:004:010 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–010; BA:main:003:004:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1151,3 +1151,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **SQUAD ↔ ARIUS PURSUERS:** two role-labeled pursuers recognize Squad and order combat; the subsequent dialogue treats them as beaten, without printed blow-by-blow or casualty status.
 - **SQUAD ↔ SENSEI:** Sensei asks about the route, then remains with the group through an offscreen clash. Hiyori's “adult power” appraisal suggests help but cannot isolate Sensei's exact causal contribution.
 - **SAORI/MISAKI/HIYORI:** all continue toward the entrance despite unstable individual line labels; E008's immediate alliance persists, not verified district access.
+
+## V003 C004 E010 relationship delta — former allies face each other
+
+- **SQUAD ↔ SENSEI:** Misaki/Hiyori rely on Sensei's presence; Saori orders Squad to clear danger before Sensei follows. No printed combat teamwork here.
+- **MIKA ↔ SAORI/SQUAD:** Mika directly confronts Saori after E007's revenge threat, calling her apparent shock a “witch” look. No shot, attack or negotiation is printed.
+- **SQUAD ↔ BEATRICE/PURSUERS:** the group anticipates preparation/elite guards, but Mika is the only newly visible obstacle; the predicted force is still hypothetical in this unit.

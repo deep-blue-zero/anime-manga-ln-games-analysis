@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–009; BA:main:003:004:010 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–010; BA:main:003:004:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -915,3 +915,7 @@ Hiyori reports being offered Arius return for informing on Saori, then says she 
 ## V003 C004 E009 institutional delta — coded catacomb access
 
 Squad describes roughly 300 known Trinity catacomb entrances, few real entries, periodic internal route change and encrypted route notices. Fleeing Squad no longer gets codes but reports one remaining usable entrance until the date change; this is insider testimony, not surveyed geography, mechanism proof or guaranteed rescue. Arius students confront the group before that entry; later dialogue says the battle went unexpectedly well. No current code, exact entrance, crossing, casualty count or completed access to Arius district is printed.
+
+## V003 C004 E010 institutional delta — known route, contested approach
+
+Misaki says the route is known to Arius students, with no time for alternatives; Saori chooses forced passage and predicts trained guards. This is an operational plan, not an inspected deployment or completed entry. Mika appears at the approach before any guard engagement. Her presence does not establish formal cooperation with Beatrice or current Tea Party authority after E007's escape.

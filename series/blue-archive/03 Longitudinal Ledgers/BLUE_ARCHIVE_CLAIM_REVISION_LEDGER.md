@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–009; BA:main:003:004:010 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–010; BA:main:003:004:011 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E009 active provisional; C004 E010 unopened
+current_sequential_boundary: MAIN_V003_C004_E010 active provisional; C004 E011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2216,3 +2216,11 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. Actual district entry and Atsuko rescue remain open; C004 E010 unopened.
+
+## V003 C004 E010 claim delta — formation before contact
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Squad chooses the known route and Mika appears there; no proven Beatrice guard deployment, route crossing or battle outcome.
+- **BA-C001/C016 — STRENGTHEN locally:** Saori allocates danger to Squad and keeps Sensei behind until safe, a direct protective formation rather than a completed rescue.
+- **BA-C008 — STRENGTHEN:** route-preparation guesses and direct Mika arrival must not be merged into a proven joint plan. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E011 unopened.

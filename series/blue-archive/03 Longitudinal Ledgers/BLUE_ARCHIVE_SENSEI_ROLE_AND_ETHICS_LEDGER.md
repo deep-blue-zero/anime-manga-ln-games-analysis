@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–009; BA:main:003:004:010 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–010; BA:main:003:004:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1005,3 +1005,7 @@ Sensei directly reassures Hiyori and tells her the aim is Atsuko's rescue, contr
 ## V003 C004 E009 delta — effect without printed tactic
 
 Sensei's single choice asks how catacomb interiors change. Arius pursuers prepare for battle; the next scene has Misaki surprised at ease and Hiyori naming “adult power” as impressive/frightening. This supports a bounded assistance/effect reading but gives Sensei no printed order, expenditure, attack or sole causal claim. The group moves onward without confirmed district entry or rescue. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E010 delta — students assign a protected place
+
+Misaki/Hiyori count on Sensei at the route, while Saori explicitly directs Squad to lead and Sensei to follow only when safe. Sensei's singleton choice is surprised reciprocity, not tactical command. Mika arrives before the predicted battle. The formation expresses a protective student decision and adult participation, without proving Sensei's combat ability, entry or resolution. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

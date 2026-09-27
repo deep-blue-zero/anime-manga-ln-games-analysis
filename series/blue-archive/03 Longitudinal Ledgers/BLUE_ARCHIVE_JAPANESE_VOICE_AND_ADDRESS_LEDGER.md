@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–009; BA:main:003:004:010 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–010; BA:main:003:004:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1542,3 +1542,8 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 
 - Scene 1 `u:0011` is Saori-tagged but deferential `ます` about the entrance; `u:0012-0014` Hiyori tags contain a more declarative/leader-like warning. `u:0020-0022` and scene 2 `u:0004-0006` similarly invert command/response styles. Preserve group-level content without confident per-person voice assignment.
 - `逃げ出した猟犬` is Saori's self-positioning under Arius pursuit, not a formal class. Hiyori's `大人の力` is her appraisal of an unprinted clash, not an observed Sensei action transcript. One singleton Sensei choice; scene 2 `u:0007` is E010 title.
+
+## V003 C004 E010 delta — Mika reuses the crowd's insult
+
+- Mika's `悪役登場☆` and `魔女でも見たみたい` at scene 2 `u:0005-0007` perform cheerfulness around an adversarial encounter and echo E007 crowd language; they do not establish a settled ordinary mood or completed violence.
+- Saori's `先生は安全が確保されたら、後ろからついてこい` is a direct protective instruction. The predicted `エリート兵` are not yet directly visible. One singleton Sensei choice; scene 2 `u:0008` is E011 title.
