@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–012; BA:main:003:003:013 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–013; BA:main:003:003:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -989,3 +989,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **HANAKO ↔ MARIE/SISTERHOOD:** an analyst supplies preliminary launch/video information; Hanako identifies the apparent guardians and exposes her own severe but explicitly tentative theory to Marie. Marie does not confirm it.
 - **HINA ↔ HANAKO/EVIDENCE:** the analyst's non-ramjet result corrects Hina's earlier inward guess without a direct meeting or moral judgment of Hina.
 - **TRINITY ↔ GEHENNA:** Sisters reportedly still fight Gehenna while evidence suggests launch inside Trinity district; neither fact proves a school sanctioned the Arius strike.
+
+## V003 C003 E013 relationship delta — protective exclusion versus unfinished promise
+
+- **AZUSA ↔ HIFUMI:** Azusa meets Hifumi, thanks her and says goodbye while insisting a “good” friend cannot follow into her intended lethal act. Hifumi disputes her self-blame, asks her not to go and cites a still-unfulfilled group sea promise and Peroro viewing. This is an acute unilateral separation, not certified termination of friendship or a completed pursuit.
+- **AZUSA ↔ SAORI:** Azusa announces an intent to destroy Saori's halo. Saori is not present, and no attack or outcome is shown.
+- **AZUSA ↔ SENSEI/SEIA/CLUB:** she assigns herself responsibility for Sensei's shooting, Seia's coma and risks to the club. This exposes guilt and protective motive, not sole causal proof; her gratitude confirms the club's emotional importance alongside formal Trinity membership.
+- **SEIA ↔ HANAKO/HIFUMI:** Seia comments on their inferred understanding without direct contact in this unit; neither hears her verdict here.

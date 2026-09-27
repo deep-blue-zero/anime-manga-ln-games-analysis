@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–012; BA:main:003:003:013 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–013; BA:main:003:003:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1388,3 +1388,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Analyst `ラムジェットエンジンのものではありません` directly rejects Hina's E007 question; `詳しい位置は特定できませんが` qualifies `トリニティ自治区の内部` as district-level, not exact launch pad or perpetrator.
 - `映像が復旧`/`報告と一致` says restored footage matches Sisters' reports but transcribes no detailed frames. Hanako `ユスティナ聖徒会` is a recognition label; E008 `複製（ミメシス）` still distinguishes appearances from literal ancient bodies.
 - Hanako `仮定に過ぎません`, `数十にも渡る飛躍`, `万が一` and interrogative `存在しない……？` explicitly prevent certainty about no solution or both-school erasure. Her `アミューズパークの怪談` is an inward allusion, not a reviewed source. No Sensei choices; `u:0038` is E013 title only.
+
+## V003 C003 E013 delta — prospective verbs, intimate address and narration voice
+
+- Seia `だろう`/`みたい` blends confidence with inference about Hanako/Hifumi; her `方法が無い` and Trinity-end forecast remain her voice, not an omniscient stamp. `一通のメッセージ` gives code contents, not a displayed sender.
+- Hifumi's recurring `アズサちゃん` contrasts Azusa's more bare `ヒフミ` and her `ここから先は、私の居場所` boundary. Hifumi's final repeated address is an attempted reach, not a demonstrated answer.
+- Italic `「人殺し」` at `u:0032` and `人殺しになった私は` at `u:0034` occur within prospective separation; `今から` at `u:0048` and `これから` at `u:0051` make the announced halo destruction and killing future intent, not completed past action.
+- Hifumi `きっと、すぐに目が覚めるはず` is hope under distress, not Rescue Knights' prognosis. Azusa `そんなハッピーエンドは…無い` is her categorical belief, not narratorial truth.
+- Italic `ナレーション` at `u:0056-0063` carries Azusa-addressed thanks, but the generic tag does not establish that Hifumi hears it. Direct Azusa speech begins again at `u:0064`. No Sensei choices; `u:0075` is E014 title only.

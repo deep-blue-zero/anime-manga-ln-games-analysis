@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–012; BA:main:003:003:013 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–013; BA:main:003:003:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -913,3 +913,7 @@ Sensei has no direct voice or choice, remaining a gunshot patient in Sena's ambu
 ## V003 C003 E012 delta — treated yet unconscious
 
 Sensei does not speak or choose. A Sisterhood official relays Rescue Knights' report that first aid was administered after heavy blood loss and Sensei is in their room; life appears not in immediate danger but consciousness has not returned. This improves the last E009/E011 transport state without showing a direct clinician assessment or ultimate recovery. Hanako's active inquiry occurs while the adult cannot participate. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E013 delta — teacher absent, responsibility contested
+
+Sensei has no direct speech, decision or medical update. Azusa blames herself for Sensei's shooting and treats the absent teacher as part of her reason for prospective counterviolence; Hifumi hopes Sensei will soon wake and suggests teacher/peer help may find another way. Neither is evidence of recovery, an endorsed lethal remedy or an adult instruction. The students' competing ethics unfold without Sensei's immediate guidance, while prior care and formal Trinity recognition remain available context rather than proven resolution. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

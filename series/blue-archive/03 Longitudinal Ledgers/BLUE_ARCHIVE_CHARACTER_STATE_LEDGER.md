@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–012; BA:main:003:003:013 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–013; BA:main:003:003:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E013 character-state delta — Azusa's prospective killer identity
+
+- **Azusa:** meets Hifumi, attributes the crisis and Seia's continuing coma to herself, and announces an intent to break Saori's halo. Her claim that training makes her a killer and no happy ending exists is a current self-understanding and planned act, not evidence of a completed killing, sole causation or exhausted alternatives. Her direct gratitude for learning and time in the remedial club complicates that self-definition. `UNMODELED`.
+- **Hifumi:** calls Azusa by name, disputes her global blame, hopes Sensei wakes and invokes unfulfilled sea/anime promises while asking her to stay. The medical hope and possible alternative are not proven outcomes. `PARTIAL_MODEL`.
+- **Seia:** voices confidence that Hanako and Hifumi can see impending destruction, but her dream-adjacent frame does not establish waking location or infallible foresight. `UNMODELED`.
+- **Sensei/Hanako/Saori:** absent from direct scene action. Sensei's recovery, Hanako's ability and Saori's future condition are discussed or predicted, not observed anew.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E012 character-state delta — provisional synthesis under fear
 

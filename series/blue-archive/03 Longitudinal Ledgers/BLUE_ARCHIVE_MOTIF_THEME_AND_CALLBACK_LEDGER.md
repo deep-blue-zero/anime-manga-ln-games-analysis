@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–012; BA:main:003:003:013 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–013; BA:main:003:003:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1143,3 +1143,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Old guardians on new footage:** Hanako names the Justina appearance while prior Arius sources call it mimesis; visual resemblance and ontology remain split.
 - **No-solution fear as self-labeled hypothesis:** Hanako's many linked motifs—Council, catacombs, Arius, Eden—generate a catastrophe forecast that she herself flags as leap-filled, not a validated future.
 - **Erasure analogy:** her inward memory of Arius after First Council echoes Saori's grievance but cannot certify total past erasure or inevitable present repetition.
+
+## V003 C003 E013 motif / callback delta — the promised future versus inherited fatalism
+
+- **Forecasts meet friendship:** Seia's no-way-out assertion extends Hanako's E012 hypothesis, while Hifumi invokes unfinished shared promises rather than a verified rescue plan.
+- **“Killer” as an identity trap:** Azusa's Arius training supplies a severe self-description and future intention; her voiced joy in learning and being a club student resists reducing her to that training.
+- **Plush, sea, anime:** the farewell's remembered first-friend gift and beach trip return as evidence of experienced belonging; the next group sea visit and Peroro anime remain unfulfilled.
+- **The unreachable side:** Azusa describes a moral border Hifumi must not cross, and Hifumi repeatedly calls across it. The scene leaves both physical course and relational durability open.
+- **Happy ending under dispute:** Azusa echoes Saori-like fatalism; Hifumi's hope is no guarantee, but Azusa's categorical denial is likewise not narrator-certified.

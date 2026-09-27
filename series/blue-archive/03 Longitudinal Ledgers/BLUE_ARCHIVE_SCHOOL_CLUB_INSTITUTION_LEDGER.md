@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–012; BA:main:003:003:013 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–013; BA:main:003:003:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -823,3 +823,7 @@ Marie says an extremist faction independently issued an emergency summons, then 
 ## V003 C003 E012 institutional delta — preliminary investigation, not attribution
 
 Sisterhood relays Rescue Knights' report that Sensei is in their room after heavy bleeding, properly given first aid, apparently not immediately dying but still unconscious. This is secondhand care status, not clinical chart/final prognosis. A Sisterhood analyst rules out a ramjet and places launch inside Trinity district without exact origin; this overturns Hina's E007 engine conjecture and weakens external-Gehenna attribution without identifying a Trinity school attacker. Restored blast camera footage reportedly matches Sisters' battle reports; the content is not fully transcribed, and Hanako's Justina name must be read alongside E008's mimesis label. Hanako builds a broad no-solution/erasure theory only under explicit `仮定` and dozens of leaps, so no institutional conclusion, order or validated countermeasure follows. Sisters' Gehenna fight continues by report; cessation from E011 is not yet shown.
+
+## V003 C003 E013 institutional delta — one student's declared counterviolence
+
+Azusa tells Hifumi she intends to destroy Saori's halo as her sole way to stop the crisis; no school order, authorization, operation or result appears. Her Arius training is firsthand self-report, not evidence that Trinity regularization in C003 E002 was revoked. She blames herself for injuries across Justice, Tea Party, Sisterhood and Gehenna and Seia's coma, but no institutional inquiry attributes sole causation to her. Seia's opening forecasts Trinity's end and Hanako's lack of remedy; this is her asserted appraisal, not a certified collapse. Hifumi's hope of Sensei's awakening does not alter E012's medical report. No treaty/ETO instrument, cessation or command decision is shown.
