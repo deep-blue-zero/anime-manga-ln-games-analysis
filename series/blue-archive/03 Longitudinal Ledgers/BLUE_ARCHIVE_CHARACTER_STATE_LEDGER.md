@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–004; BA:main:003:004:005 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–005; BA:main:003:004:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E005 character-state delta — dream-intrusion and coercion claims
+
+- **Seia:** witnesses an apparent Gematria exchange in a lucid-dream frame, becomes alarmed by a claimed Squad threat to Sensei, then coughs/struggles to move and conditionally infers a shared Arius/Gematria origin. Mika arrives and greets her; no response can be securely attributed at `u:0102`. `UNMODELED`.
+- **Beatrice:** within that frame claims to use Maestro's mimesis, Black Suit technology and Golconda text as weapons; calls hate a child-control tool and Squad disposable; insists Sensei must die; says she prepares an Arius altar and offered Squad reprieve for killing Sensei. Her plan is explicit, execution unshown. `UNMODELED`.
+- **Black Suit/Maestro:** in-frame disagreement over Beatrice's use of copies; Black Suit prefers recruiting Sensei, Maestro values Sensei. Earlier Abydos evidence remains separate from this dream-witness scene. Both `UNMODELED`.
+- **Golconda/Decalcomania:** two newly named/label-present narrow subjects in the apparent exchange, with a mediating role and recurring italic interjection respectively. Exact identity relation and `u:0044` label fault unresolved; both `UNMODELED`.
+- **Mika/Sensei/Squad:** Mika greets Seia; Sensei and Squad are discussed but neither appears in direct action. Beatrice's alleged kill-for-reprieve message is not an observed attack or acceptance.
+
+Two new narrow tracked subjects: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E004 character-state delta — Seia's hypothesis and chosen repair
 

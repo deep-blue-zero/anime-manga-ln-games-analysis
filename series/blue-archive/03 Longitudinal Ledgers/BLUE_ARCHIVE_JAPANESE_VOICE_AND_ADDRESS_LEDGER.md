@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–004; BA:main:003:004:005 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–005; BA:main:003:004:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1512,3 +1512,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Sensei's `choice:004-005` each contain two alternatives that converge, and `choice:006` redirects Seia from distant danger to the person before her. No route-specific alternate investigation is printed.
 - Seia says `私は既に彼女を許したはず`, then corrects `それは夢の中での話だったか` (`u:0042-0043`). Her italic `u:0046-0051` criticism of Mika is inward, not spoken dialogue.
 - `？？？` at `u:0075-0077` and named Black Suit/Maestro/Beatrice lines at `u:0082-0087` follow Seia's realization that she is again in a lucid dream. Preserve the frame; `u:0088` is an E005 title, not the next meeting.
+
+## V003 C004 E005 delta — named dream speakers and self-address faults
+
+- `ゴルコンダ` and italic `デカルコマニー` enter as distinct labels at `u:0010-0011`; repeated `そういうこった！` is Decalcomania's tag in this source. `u:0044` is Golconda-tagged but thanks “Decalcomania … no, Golconda,” so do not infer a settled identity relationship or clean voice ownership from that turn.
+- `u:0048` is Black-Suit-tagged yet thanks Black Suit for a defense system; this cannot be a secure Black Suit self-report. `u:0102` is Mika-tagged `……ミカ。` after Mika greets Seia, likely an inverted reply, but precise speaker remains quarantined.
+- Beatrice's italic `u:0052-0055` is inward exposition within Seia's dream-witness sequence, not heard by Mika or Sensei. Seia's `関係があるとしたら` at `u:0094` is conditional synthesis. No Sensei choices; `u:0103` is E006 title only.

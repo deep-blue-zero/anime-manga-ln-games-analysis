@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–004; BA:main:003:004:005 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–005; BA:main:003:004:006 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E004 active provisional; C004 E005 unopened
+current_sequential_boundary: MAIN_V003_C004_E005 active provisional; C004 E006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2171,3 +2171,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 62 unmodeled across 83**; backfill **DEFER**. E001 firing outcome, Mika meeting and hearing remain unseen; C004 E005 unopened.
+
+## V003 C004 E005 claim delta — apparent Gematria dispute and assassination claim
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY/STRENGTHEN locally:** Beatrice's in-frame admissions treat Arius hatred as control, Squad as expendable, Treaty/guardian power as instrumental and an altar as her plan. These claims do not supply audited governance, a completed ritual or Mika's knowledge of Beatrice's hidden use.
+- **BA-C001/C016 — QUALIFY:** Black Suit/Maestro favor Sensei engagement while Beatrice demands elimination and claims Squad was offered reprieve for killing Sensei. No actual attack or accepted offer is shown.
+- **BA-C008 — STRENGTHEN:** Seia's lucid-dream viewpoint, `u:0044/0048/0102` speaker faults, Beatrice's self-account and Seia's conditional causal inference must not be collapsed into external certainty.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, model, frozen prediction or side-source admission. Golconda and Decalcomania add two narrow label-present `UNMODELED` subjects, identity relation open: **21 partial / 64 unmodeled across 85**; backfill **DEFER**. E001 firing outcome, Squad-task delivery and Mika–Seia repair remain unshown; C004 E006 unopened.

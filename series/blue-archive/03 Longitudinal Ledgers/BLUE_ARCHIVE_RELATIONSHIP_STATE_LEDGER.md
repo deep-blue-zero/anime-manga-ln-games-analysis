@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–004; BA:main:003:004:005 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–005; BA:main:003:004:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1115,3 +1115,11 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **SENSEI ↔ SEIA:** Sensei questions risky lucid-dream/Gematria pursuit, proposes collective evidence gathering and prompts attention to Mika. Seia accepts the redirection; no clinical recovery or solved vision follows.
 - **SENSEI ↔ NAGISA:** narration confirms Sensei relays the planned Mika/Seia attendance, and Nagisa thanks them. This closes the E003 communication gap, not the hearing result.
 - **SEIA ↔ GEMATRIA FIGURES:** apparent Black Suit/Maestro/Beatrice contact occurs in her lucid-dream perspective; do not promote it to a verified real-world meeting or allegiance.
+
+## V003 C004 E005 relationship delta — contested adult targets and a first greeting
+
+- **BEATRICE ↔ MAESTRO/BLACK SUIT/GOLCONDA:** in-frame Beatrice claims to repurpose their work, Maestro objects, Golconda mediates and Black Suit accepts lack of veto while seeking her plan. Their Sensei stances diverge; no single collective decision to kill Sensei is shown.
+- **BEATRICE ↔ SQUAD:** she calls Squad disposable and claims she offered reprieve for killing Sensei. No direct Squad receipt, consent, attack or reprieve follows.
+- **BEATRICE ↔ MIKA:** she credits Mika's Arius visit and Trinity invitation as inspirations; this is Beatrice's use of Mika's actions, not proof Mika understood her agenda.
+- **MIKA ↔ SEIA:** Mika arrives and says hello; a Mika-tagged `……ミカ` next turn is suspect. The requested reunion starts at a greeting but no apology or private conversation is printed.
+- **SEIA ↔ SENSEI:** Seia inwardly fears for Sensei after the claimed Squad task and wants to warn someone, but physical communication is not shown.

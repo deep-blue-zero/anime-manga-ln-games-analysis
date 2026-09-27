@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–004; BA:main:003:004:005 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–005; BA:main:003:004:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1273,3 +1273,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Princess to fable:** Seia recalls Mika's adored princess status and inwardly calls her a failed villainess turned fable subject. This complicates Mika's cage performance without making public hatred deserved or her entire past known.
 - **Forgiveness not communicated:** Seia's dream-experienced pardon lacked an actual face-to-face `ごめんね`. Both decide to speak, turning the metaphor of rescue toward a concrete requested meeting.
 - **Distant danger/nearby person:** Sensei's collective-inquiry warning redirects Seia from solitary Gematria pursuit to Mika. The apparent Gematria gathering immediately reappears in sleep, preserving the unresolved external threat without validating Seia's hypothesis.
+
+## V003 C004 E005 motif / callback delta — interpretations weaponized
+
+- **Art versus weapon:** Maestro frames copied guardians as interpretive work, Beatrice calls the product a weapon and claims to repurpose others' technology/text. This is their conflict of values in the dream-framed scene, not a resolved ownership or mechanism audit.
+- **Hatred as instrument:** Beatrice inwardly says Arius hatred controls children, Treaty provides access to guardian power and Squad is disposable; this darkens Atsuko's C003 claim that hatred was taught, without proving every causal step.
+- **Adult antagonist:** Black Suit/Maestro imagine Sensei as possible ally, Beatrice as required elimination. The opposed “meanings” of Sensei echo previous asymmetric-power conflict rather than one unified Gematria will.
+- **Near meeting interrupted by distant threat:** Seia plans Mika repair, then emerges ill from a dream meeting with a claimed danger to Sensei; Mika arrives at the cliff. Presence is not apology or reconciliation.

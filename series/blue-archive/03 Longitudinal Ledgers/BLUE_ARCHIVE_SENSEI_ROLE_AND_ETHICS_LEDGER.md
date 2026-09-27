@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–004; BA:main:003:004:005 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–005; BA:main:003:004:006 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -985,3 +985,7 @@ Sensei accepts Nagisa's request to ask Mika to attend tomorrow's hearing, then h
 ## V003 C004 E004 delta — safety, collective inquiry and nearby care
 
 Sensei hears Seia's vivid apocalypse report and explicitly challenges her self-endangering lucid-dream pursuit of a conjectured Gematria cause. The two paired choices converge on stepping back, gathering evidence and working with others even if the hypothesis proves true; the singleton then asks adults to handle that inquiry while Seia attends to Mika. Seia accepts the redirection, asks for a private Mika meeting and hearing participation. Narration confirms Sensei informs Nagisa and returns to Schale. Neither adult takeover of the unknown threat nor accomplished reconciliation/hearing is certified. Eight choice groups, two paired convergences; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E005 delta — object of opposed adult strategies
+
+Sensei has no printed choice, voice or action in this episode. In Seia's apparent lucid-dream scene, Black Suit and Maestro prefer courting Sensei while Beatrice insists on killing them and claims to have tasked Squad through a reprieve offer. This is an adversary's intent claim, not a demonstrated attack or proof of Sensei's knowledge. Seia wants to warn someone after waking but cannot yet communicate; Mika arrives. The prior E004 safety/cooperation guidance does not imply Sensei anticipated this threat. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
