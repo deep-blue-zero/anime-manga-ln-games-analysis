@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–002; BA:main:003:003:003 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–003; BA:main:003:003:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -873,3 +873,7 @@ In Sakurako's conference room, Sensei appears tired and may say either they brie
 ## V003 C003 E002 delta — support without institutional authorship
 
 Sensei gives Hanako a spoken singleton acknowledgment of her effort, reacts to Nagisa's reported Hifumi visit, and later says they need to do something for Nagisa and Mika. These are future intentions, not completed medical/legal/reconciliation actions. Sakurako—not Sensei—announces the official Trinity papers for Azusa after considering her protection of Nagisa and academic pass. Hifumi independently tells Nagisa she feels no hatred; no adult instruction produces that response in the printed scene. Sensei's `u:0070` reaction to Nagisa's cough is inward and does not establish a follow-up visit. The chapter keeps E009's promise to help multiple students alive but does not erase Nagisa's coercive design or Mika's admitted acts. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E003 delta — belief under uncertainty, not exoneration
+
+Mika reports Sensei repeatedly came to prison and did not compel her after refusals; no direct visit/access log is printed. In dialogue with Hanako, Sensei offers hypothetical alternative motives but accepts a simplistic one may be too speculative. The fifth-rule analogy leads to choices about inability to prove another's inner truth and a teacher/adult commitment to believe students even when betrayal is possible. `choice:007` has two alternatives, not a single merged doctrine; `u:0182-0184` “believe paradise” is inward. This ethic is not evidence that Mika did no harm, that Nagisa's coercion was justified, or that accountability should stop. Sensei inwardly hopes Nagisa and Mika may speak honestly and plans future visits after the treaty, not a completed reconciliation. Hanako's echoing final effort line is convergence-duplicated. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

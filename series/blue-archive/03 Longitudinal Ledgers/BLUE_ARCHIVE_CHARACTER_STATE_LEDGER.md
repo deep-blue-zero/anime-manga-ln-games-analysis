@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–002; BA:main:003:003:003 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–003; BA:main:003:003:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,3 +1134,13 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E003 character-state delta — prison self-account and conjecture
+
+- **Nagisa:** directly visits imprisoned Mika, rejects torture as old Holy Council rather than current Sisterhood method, says she had sought a culprit largely to protect Mika if she herself were next after Seia. This is motive testimony, not justification for the club's coercive design. She inwardly rejects Mika's “happy ending” and presses why childhood friends were targeted; no repair yet. `UNMODELED`.
+- **Mika:** says she told interrogators her Arius contact/Squad knowledge, speculates Arius supply threat is low, and reports refusing Sensei's repeated visit requests. She insists Gehenna hatred and her own choices suffice, with conflicting kill/no-halo-destruction self-framings. She resists Hanako's psychological theory, then asks again if Seia truly lives. Direct criminal responsibility remains, hidden motive unresolved; `UNMODELED`.
+- **Hanako:** proposes unverified initial-abduction/panic and Nagisa-protection hypotheses from Sisterhood information and Mika's surrender; then distinguishes them from the supportable action chain. She promises Mika secrecy, later tells Sensei, admits hurtful overreach and contemplates apology. `UNMODELED`.
+- **Sensei:** present in Hanako's later discussion, presents multiple hypothetical motives and a choice-conditioned teacher-trust ethic under unknowable hearts. Several key lines are inward/future plans, not current contact with Mika or Nagisa. `PARTIAL_MODEL`.
+- **Arius/Saori:** Mika says Squad was formed by Arius's student council president and that Saori may know district entry; these are her claims, not inspected hierarchy/intelligence. No new subject or direct Saori sample.
+
+No subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

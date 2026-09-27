@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–002; BA:main:003:003:003 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–003; BA:main:003:003:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -783,3 +783,7 @@ Sakurako says Seia's room exploded around 3 a.m., Mine first arrived, told Tea P
 ## V003 C003 E002 institutional delta — Azusa formally recognized
 
 In the Tea Party inspector's inquiry, Azusa says Seia proposed a false-death deception and Mine as protector, then Azusa exploded the room and fled so Arius Squad would accept mission success. E001 Sakurako's concealment report supports the broad mechanism, but no case file/blast medical record appears. Azusa says Saori, not an openly disclosed Mika, gave her the order. Sakurako explicitly offers Sisterhood guarantee, says she will make Azusa's papers formal and then declares **Azusa now officially a Trinity student**. This is the episode's institutional status finding, not merely the C002 epilogue forecast; document itself and the full basis of authority remain uninspected, and Sakurako says Arius remains unresolved. Nagisa appears in Hifumi's reported past meeting and apologizes for suspicion, but no exam-sanction review is narrated. The second scene directly establishes Mika in Trinity prison with Nagisa visiting; legal process and sentence unshown. No treaty signing or Seia awakening.
+
+## V003 C003 E003 institutional delta — interrogation and risk claims
+
+Mika says she has undergone repeated questioning and supplied Arius contact/Squad composition. She identifies Arius Squad as a student-council-president-created unit and guesses Saori knows district entry; no file, roster, map or independent confirmation is shown. Mika and Nagisa both currently assess Arius's immediate treaty-stage force as diminished/containable, not a guarantee of no threat. Mika's proposed coercion of Azusa is not carried out; Nagisa corrects a torture taunt as old Holy Council practice and says she will not allow such methods. The prison setting remains direct, but sentence and procedure absent. Nagisa says a protective fear for Mika shaped the search for Seia's attacker; it cannot retrospectively legalize academic collective sanction. Hanako's alternative Mika-motive reconstruction is a psychological hypothesis, whereas the order–Squad–Azusa explosion chain is better corroborated by C002 admissions/C003 E002 testimony. No treaty signature, Seia awakening, Azusa inquiry outcome or actual Schale prison visit occurs.

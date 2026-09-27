@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–002; BA:main:003:003:003 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–003; BA:main:003:003:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -911,3 +911,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **NAGISA ↔ HIFUMI:** in a Hifumi-sourced retrospective Nagisa apologizes for suspicion, and Hifumi says she does not hate her. Nagisa's self-comparison and an italic “friendship game” echo show how the injured relation cannot be called fully reset.
 - **NAGISA ↔ HANAKO/SENSEI:** Hanako says Nagisa apologized to her; Sensei wishes to help, neither line proving broader restoration. Hanako doubts a single Gehenna-hatred explanation for Mika.
 - **NAGISA ↔ MIKA:** direct Trinity-prison visit begins; Mika is surprised Nagisa came, Nagisa asks about conditions. No forgiveness, confession expansion or release is printed.
+
+## V003 C003 E003 relationship delta — contact without mind access
+
+- **NAGISA ↔ MIKA:** the prison conversation confirms childhood closeness, Mika's surprise at the visit and Nagisa's hurt/anger at targeting her and Seia. Nagisa says her original hunt sought to spare Mika isolation if she fell; Mika insists hatred/suspect betrayal are sufficient motives. Nagisa leaves without reconciliation.
+- **MIKA ↔ SENSEI:** Mika says Sensei has repeatedly sought a prison visit and she refused, interpreting noncompulsion as consistent with Sensei. This is Mika's report, not access records or completed visit.
+- **HANAKO ↔ MIKA:** Hanako raises an unproven gentler-first-plan/panic and Nagisa-protection theory, provoking Mika's resistance and Seia-survival doubt. Hanako promises secrecy then shares with Sensei, admits hurt and considers apology; trust boundary not repaired.
+- **SENSEI ↔ HANAKO/STUDENTS:** Sensei's choices argue for teacher trust despite betrayal risk and continued effort, while the key “believe paradise” and future Nagisa/Mika visits are inward. Hanako accepts mutual outreach without knowing outcome; no actual new visit.

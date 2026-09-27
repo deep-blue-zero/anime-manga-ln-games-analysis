@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–002; BA:main:003:003:003 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–003; BA:main:003:003:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1062,3 +1062,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Names made official:** Sakurako's declaration converts Azusa's forged-transfer vulnerability into local recognized Trinity student status. It does not solve Arius or prove moral innocence by document alone.
 - **Apology without erasure:** Nagisa names her Hifumi suspicion as wrong, Hifumi refuses hatred, and the “friendship game” echo/cough preserves harm done by Hanako's retaliation. Repair remains asymmetrical and incomplete.
 - **Prison visit as threshold:** Nagisa physically comes to Mika, but the chapter cuts before a reasoned exchange. Contact is new; reconciliation is not.
+
+## V003 C003 E003 motif / callback delta — unknowable heart, chosen trust
+
+- **Happy-end parody:** Mika lists caught traitor, diminished Arius and prospective treaty as if closure; Nagisa inwardly rejects it because Mika's betrayal/Seia harm and their relation remain broken. Peace procedure and personal repair are different goods.
+- **Childhood bond and suspect spiral:** Nagisa says she sought the killer partly to avoid leaving Mika alone; the motive makes her fear intelligible without cleansing the club's collective punishment.
+- **Accusation versus private truth:** Mika insists she is a killer/traitor, Hanako hypothesizes protective panic and initial abduction, and both dispute access to motive. Observable order, explosion and surrender cannot certify one hidden heart.
+- **Fifth old rule returns:** Hanako analogizes unprovable paradise to another person's inner truth; Sensei's choice-conditioned response is trust/action under uncertainty. This is not a doctrine of ignoring evidence or waiving accountability.
+- **Retaliation self-correction:** Hanako admits breaching her secrecy promise to Mika and says a teasing investigation became harmful, continuing her chapter-long pattern of care mixed with sharp manipulation.

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–002; BA:main:003:003:003 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–003; BA:main:003:003:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1308,3 +1308,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0023-0024` carry Azusa tags yet refer to `アズサちゃん` in protective third person; `u:0026` carries Hanako tag but addresses “Hanako, Hifumi” as if Azusa. `u:0027` italic Azusa identifies Saori as actual order-giver. Exact speaker mapping at the inversion cannot be settled by labels alone.
 - Nagisa's direct apology in a Hifumi-sourced retrospective explicitly reconsiders the swimsuit-criminal-leader accusation, while Hifumi's `憎んだり…考えたことも` is her relational position, not proof no injury. Italic `？？？` `u:0065` echoes Hanako's E015 planted “friendship game” line and cannot be assigned to Hifumi. Coughing is not medical diagnosis.
 - The two prison figures are directly located in `トリニティ・監獄` in scene 2; their first exchange does not itself establish reconciliation. Four Sensei choices are singleton; `u:0070` is inward, and `scene:002:u:0012` is a next-title card.
+
+## V003 C003 E003 delta — true-heart proof and corrupted prison labels
+
+- Mika `u:0009-0013` says she provided interrogation information; `u:0014` torture image is provocation, countered by Nagisa's old `聖徒会` correction/current refusal. `今のアリウス分校は大した危険要素になりません` is Nagisa's time-bounded risk appraisal, not narrator forecast.
+- `u:0027` Nagisa tag speaks of “Nagi-chan”; `u:0033` Nagisa tag speaks as an imprisoned “I”; `u:0061` Nagisa tag says “Nagi-chan.” These continue Mika context, so literal tag-based Nagisa autobiography is unsafe. Mika's “I am a killer” versus “I did not order halo destruction/not a killer” uses different moral/intent registers and cannot be silently harmonized.
+- `u:0096-0097` Mika tags use “Mika-san” in Hanako's third-person psychohistory; `u:0113` Mika tag asks whether “Mika-san” feared Arius killing Nagisa; `u:0127` Hanako tag calls herself a traitor in Mika-like voice; `u:0142` Mika tag calls the theory “speculation” in Hanako-like context. Retain source ambiguity and Hanako's explicit `推測`, not a stable narrator motive.
+- Hanako's fifth-rule `楽園` analogy concerns impossibility of **proving** another's `本心`; it does not state another person's acts are unknowable. Sensei `choice:005` calls proof probably impossible; the “therefore believe” passage `u:0182-0184` is `心の声`. `choice:007` has two alternatives about teacher/adult trust and must not be collapsed into one spoken sentence.
+- Sensei `u:0158-0159` is inward speculation yet Hanako replies at `u:0160`; no telepathy inference. `u:0191-0193` inwardly hopes for future visits, not present speech. Identical Hanako `u:0194-0196` are convergence duplicates. `u:0199` next-title card only.

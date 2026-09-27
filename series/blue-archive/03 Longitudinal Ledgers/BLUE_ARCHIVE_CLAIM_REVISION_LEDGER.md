@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–002; BA:main:003:003:003 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–003; BA:main:003:003:004 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E002 active provisional; E003 unopened
+current_sequential_boundary: MAIN_V003_C003_E003 active provisional; E004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1919,3 +1919,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 50 unmodeled across 71**; backfill **DEFER**. E003 unopened.
+
+## V003 C003 E003 claim delta — trust without proven inner truth
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei's choice-conditioned trust of students despite possible betrayal is an ethical starting posture under limited knowledge, not proof of innocence, a ban on inquiry or a guarantee of reconciliation. Repeated attempts to see imprisoned Mika are Mika-context report; future visits are inward plans.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE:** Nagisa says fear for Mika motivated her hunt after Seia's false-death report, complicating the institutional story but not licensing collective expulsion. Mika continues to own the attack and anti-Gehenna stance, even as Hanako proposes an initial nonlethal plan and panic-driven escalation. Hanako's theory has suggestive circumstantial observations (Mika's exposure, surrender after Seia survival) but no independent access to motive; Mika denies it. The factual action chain/order–Squad–Azusa explosion remains distinct from the unresolved inner motive and from Seia's present harm.
+- **BA-C008 — STRENGTHEN:** speaker inversions at `u:0027/0033/0061/0096-0097/0113/0127/0142`, Sensei `心の声` followed by Hanako reply, and duplicated `u:0194-0196` require quarantine. A “true heart” analogy is a philosophical claim, not scene-certified access to anyone's mind.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 50 unmodeled across 71**; backfill **DEFER**. E004 unopened.
