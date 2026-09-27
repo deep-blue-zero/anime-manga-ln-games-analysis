@@ -1,18 +1,18 @@
 ---
-title: "Rudeus — reconstruction evidence routes through V10"
+title: "Rudeus — reconstruction evidence routes through V11"
 artifact_id: MT_RUDEUS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "40018b5caedfba456da199ed2fea613ec991015a"
-source_boundary: "Japanese LN V01–V10; V10 revision 1.7, historical routes preserved."
+basis_commit: "4823e7f9cecff45d86f3045304b5825c79bcb628"
+source_boundary: "Japanese LN V01–V11; V11 revision 1.8, historical evidence and tests preserved; publication/audit separate."
 ---
 
 # Evidence routes for the bounded Rudeus model
@@ -128,3 +128,21 @@ New selectors: ST27 (S114), ST28 (S115), ST29 (S116), ST30 (S117), ST31 (S118), 
 ## V10 additions — revision 1.7
 
 [V10 observations](../../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings) `001–010/013/015–026` support new selectors ST34, ST35, ST36, ST37 / shared S134–136 and tests V46, V47, V48, V49, V50, V51, V52. Current rule/state/test counts are in the model; earlier counts above are historical. The [cumulative checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) assesses narrow untested triggers, countercases and activation. No global enrollment or clean holdout.
+
+## V11 additions for revision 1.8
+
+[V11 observations](../../02%20Sequential%20Readings/MT_V11_DEEP_READING.md#d-diagnostic-close-readings) support states ST38–ST42 and checks V53–V60. The [model](RECONSTRUCTION_MODEL.md) owns rule-specific applicability and exclusions; historical route tables retain their earlier ceilings. The [V11 checkpoint](../../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns the disclosure/duty comparison.
+
+| Current domain | New source routes / limitation |
+| --- | --- |
+| Rule001 | Extend001 to ST38/40/42 (001/013/022/024/028): learning from sisters, route failure and specialists; mana does not replace situation knowledge. |
+| Rule002 | Extend002 to ST38–39 (001/003/008/011): negotiated fit, admitted ignorance and learner-chosen work; first projection remains a failure of appraisal. |
+| Rule003 | ST38 reputation/collection (006–007) is not another staged rescue; ST42 rescue before known reward (027) is a countercase to universal gratitude optimization. |
+| Rule004 | ST39/40/42 (007–010/015–020/030) include fear and action without another equivalent rejection crisis; do not infer diagnosis or uniform collapse. |
+| Rule005 | Extend005 to ordinary ST38–40/42 (004/008/012/014/018/025); actual restraint and intrusion coexist. ST41 external impairment (023) cannot be scored as an ordinary unassisted intent test; affected boundary still represented. |
+| Rule006 | ST42 bandit attack (030) does not reproduce the ST03–04 perceived Eris-return entrapment. Direct killing unconsidered and possible indirect harm neither erase V03 nor prove pacifism; exact006 trigger remains UNTESTED. |
+| Rule007 | No new present shared Ruijerd encounter. Norn/Rudeus memories (009/011) cannot extend this person-specific rule; ST42 Elinalise kinship is a contrast, not the same relationship. |
+| Rule008 | Extend008 to ST38–40/42 (003/012/016–022/028–030): bargains, delegated care and command compliance; R initially avoids wife-first discussion and knowledge remains unequal. |
+| Rule009 | Extend009 to ST38–40/42 (001/006–010/026–030): formal mirroring, intimidating politeness, admitted ignorance and cultural projection differ. Familiar idiom not truth; no ordinary-state speech rule for ST41. |
+
+Global IDs remain null, LN_JP continuity only, BOUNDED_PROVISIONAL and retrospective fitting. Prior tests are not fresh predictive successes; absent equivalent triggers remain UNTESTED.

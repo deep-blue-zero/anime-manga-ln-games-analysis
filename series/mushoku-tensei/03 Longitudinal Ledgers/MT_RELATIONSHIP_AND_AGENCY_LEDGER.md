@@ -4,7 +4,7 @@ artifact_id: MT_RELATIONSHIP_AND_AGENCY_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V10 only; prior history preserved, V10 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V11 only; prior history preserved, V11 updates; publication/audit separate."
 ---
 
 # Relationship and agency ledger
@@ -310,3 +310,33 @@ Prior V01–V09 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-R-176` Eris → absent Rudy/dojo / Ghislaine → Eris/Gal | Eris sustains training through admiration and avoided longing while relying on dojo resources; Ghislaine challenges apparent neglect and defends knowledge as a worthwhile gain. |027–029. No new communication with Rudy or restored mutual understanding; Gal's instruction and explicit future certification differ from current achievement. |
 
 Current household belonging does not settle every directional relationship. The newcomer who trusts Ruijerd can distrust Rudy; a wife can welcome a gift yet retain a public boundary; a collaborator can value help and still have an unheard grievance. The [V01–V10 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) integrates these differences without converting gratitude, affection, work, service and ownership into equivalent ties.
+
+
+## V11 updates — 2026-09-27 UTC
+
+Prior V01–V10 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V11; immutable input audited V10 `4823e7f9cecff45d86f3045304b5825c79bcb628`. Observation suffixes resolve in [V11](../02%20Sequential%20Readings/MT_V11_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V11-`. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns targeted knowledge/duty review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Relationship event | Direction / change | Evidence / agency and knowledge limit |
+| --- | --- | --- |
+| `MT-R-177` | Aisha → R: strategically requests informality and no-school bargain; R → Aisha honors terms and hears fairness injury. |001/003; unequal conditions explained, birth ranking not instantly repaired. |
+| `MT-R-178` | Norn → R: requests dorm; R → Norn grants room while imposing periodic visits. |003/004/009; permission misread as indifference, independent peer life matters. |
+| `MT-R-179` | Norn ↔ Aisha: shared home leaves rivalry and comparative wounds. |003/009/012; less belittling not full mutual repair, mothers/grandmother memories distinct. |
+| `MT-R-180` | Sylphie → Ariel/R: states valued service and hypothetical marriage refusal; R hears it. |002/014/020; later leave/pregnancy not proof work never mattered. |
+| `MT-R-181` | R ↔ Norn: projection/intimidation gives way to admitted ignorance and accepted presence; her prior reflection changes encounter. |007–010; reciprocal change without identical knowledge or sole rescuer. |
+| `MT-R-182` | Norn → peers/Ruijerd/book: friends protected from introduction, requests teaching and contributes heard stories. |009/011; purposes beyond brother approval; actual publication absent. |
+| `MT-R-183` | Aisha ↔ household: wages and leisure negotiated, adult help available during absence. |012/020; work valued without treating child as wholly self-sufficient. |
+| `MT-R-184` | Z → Ginger: assault for interference; Ginger → Z: continued vow/counsel; R → both: interruption, healing, debt-based apology. |005/013/021; loyalty and repeated correction coexist with unremedied power risk. |
+| `MT-R-185` | Ginger → Juli/Z: educational/ordinary correction; Juli → adults: testimony and crafted gift. |013/021; contributions do not change ownership. |
+| `MT-R-186` | Linia/Pursena → R: problematic gift; R → them: mixed rebuke and later friendship farewell; Ariel → students: investigation. |006/018; revised coercion report necessary, no blanket reconciliation. |
+| `MT-R-187` | R ↔ Sylphie: pregnancy joy, stated fidelity, expedition discussion and accepted risk. |014/020; fears/independent purposes remain; future safe return unproved. |
+| `MT-R-188` | Norn → R: rescue appeal; R → Norn: chooses expedition/delegates bounded home role. |016/020/032; her later self-blame not sole causal responsibility. |
+| `MT-R-189` | Z → R/Sylphie: decision space and practical support offer while retaining own work. |016; new contrast to controlling devotion, not universal autonomy-respect. |
+| `MT-R-190` | Lise ↔ Cliff: departure disclosure, limits accepted, proposal before cure and device support. |013/017/020; no ceremony date or cured body inferred, shortened route changes cost. |
+| `MT-R-191` | Nana → R: food-memory intimacy and restricted map disclosure; R → Nana: care/privacy and secrecy undertaking. |002/013/019; gratitude/self-interest compatible, incomplete earlier account corrected. |
+| `MT-R-192` | Lise ↔ R: travel roles, mutual rescue, impairment enforcement and ordinary refusal. |022–025/028/030; competence complementary, no general sexual availability. |
+| `MT-R-193` | Lise → R/Sylphie: explicit grandchild protection; R → Lise: gratitude and private speculative mediation for Paul. |026/031; kinship real, full understanding/forgiveness absent. |
+| `MT-R-194` | R/Lise ↔ Garvan/guards: rescue, mistaken ingratitude, negotiated escort and command compliance. |027–030; contract useful without equal friendship or complete trust. |
+| `MT-R-195` | Carmelita → Tonto/R: grief and vengeance demand; Lise/leader → Carmelita: defense of flight, escalation and intervention. |029–031; parentage reported, inner attachment not fully known, later silence not forgiveness. |
+| `MT-R-196` | Cliff ↔ Norn: noticed distress, offered reciprocal care, hurtful tone, disclosed limits, questioned lesson and chosen practice. |032–034; independent interlocutors, advice not prophecy or permanent relief. |
+
+No material new reciprocal present sequence supports revising Eris, Sara, Roxy, Paul or Ruijerd packages; recollection and others' appraisals retain their own holders. Kinship, payment, service and faith each afford some agency without establishing equal power or exit.

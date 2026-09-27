@@ -4,21 +4,21 @@ artifact_id: MT_ZANOBA_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "40018b5caedfba456da199ed2fea613ec991015a"
-source_boundary: "Japanese LN V01–V10; V10 revision 1.2, historical routes preserved."
+basis_commit: "4823e7f9cecff45d86f3045304b5825c79bcb628"
+source_boundary: "Japanese LN V01–V11; V11 revision 1.3, historical evidence and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Zanoba evidence routes
 
-Local key Zanoba, LN_JP; global IDs null. [Model](RECONSTRUCTION_MODEL.md) owns five rules, five selectors and nine retrospective tests. V06 numbers resolve in [V06](../../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings), V08 in [V08](../../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings).
+Local key Zanoba, LN_JP; global IDs null. [Model](RECONSTRUCTION_MODEL.md) owns six rules, nine selectors and sixteen retrospective tests through V11. V06 numbers resolve in [V06](../../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings), V08 in [V08](../../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings).
 
 | Rules / tests | Observation route | Shared state and limit |
 | --- | --- | --- |
@@ -48,3 +48,18 @@ New selectors: ST05 (S129). Prior test/evidence routes remain historical. No DOM
 ## V10 additions — revision 1.2
 
 [V10 observations](../../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings) `004–006/011/020–021` support new selectors ST06, ST07 / shared S139–140 and tests V10, V11, V12, V13. Current rule/state/test counts are in the model; earlier counts above are historical. The [cumulative checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) assesses narrow untested triggers, countercases and activation. No global enrollment or clean holdout.
+
+## V11 additions for revision 1.3
+
+[V11 observations](../../02%20Sequential%20Readings/MT_V11_DEEP_READING.md#d-diagnostic-close-readings) support states ST08–ST09 and checks V14–V16. The [model](RECONSTRUCTION_MODEL.md) owns rule-specific applicability and exclusions; historical route tables retain their earlier ceilings. The [V11 checkpoint](../../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns the disclosure/duty comparison.
+
+| Current domain | New source routes / limitation |
+| --- | --- |
+| Rule001 | Extend001 to ST08–09 (005/016) for sustained artifact inquiry; retrospective discovery not new present mastery. |
+| Rule002 | ST08 research continuation (005) supplies no new fine-control breakthrough; preserve division-of-work limit. |
+| Rule003 | No comparable disclosure-of-own-failure test. Ginger counsel (021) concerns receiving correction, not his embarrassed disclosure. |
+| Rule004 | Extend004 to ST08 (005): grave injury for perceived interference with valued master closeness. Voluntary restraint under comparable trigger is not shown; later ordinary counsel is a different trigger. |
+| Rule005 | ST09 (013/021) adds Juli craft/teaching, not manumission or complete care reliability. |
+| Rule006 | Extend006 narrowly to ST09 (016): offers practical household help and leaves decision with Rudy while retaining research/Juli responsibilities; no global noninterference rule. |
+
+Global IDs remain null, LN_JP continuity only, BOUNDED_PROVISIONAL and retrospective fitting. Prior tests are not fresh predictive successes; absent equivalent triggers remain UNTESTED.

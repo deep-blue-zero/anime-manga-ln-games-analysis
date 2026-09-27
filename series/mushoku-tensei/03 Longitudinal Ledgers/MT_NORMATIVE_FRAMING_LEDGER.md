@@ -4,7 +4,7 @@ artifact_id: MT_NORMATIVE_FRAMING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V10 only; prior history preserved, V10 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V11 only; prior history preserved, V11 updates; publication/audit separate."
 ---
 
 # Normative framing ledger
@@ -377,3 +377,37 @@ The main narrative identifies Rudy as sixteen in his second life; retained forme
 | `MT-NC-057` | N009/N057/N144/N147: imposed childhood removal, later family arrangements, safety-motivated separation and delegated escort with observed trust. | Changed deliberation and support matter, while child's preference may still lose. A fulfilled later plan does not establish the earlier force's necessity or cancel its injury. |
 
 These comparisons feed C002/003/007/011–015 and the cumulative checkpoint. No total morality score, diagnosis, creator-intent claim or unsampled reader-response claim is inferred from them.
+
+
+## V11 updates — 2026-09-27 UTC
+
+Prior V01–V10 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V11; immutable input audited V10 `4823e7f9cecff45d86f3045304b5825c79bcb628`. Observation suffixes resolve in [V11](../02%20Sequential%20Readings/MT_V11_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V11-`. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns targeted knowledge/duty review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+Non-graphic assessment uses bodily integrity, meaningful choice, fair hearing, proportionate force and attentive care as explicit analyst criteria. Former-life memory, second-life age, dependence, role and actual capacity are distinct. In-world pregnancy advice and care explanations are not real-world medical prescriptions.
+
+| Event / observations | Conduct, information, power and affected access | Framing / consequence / judgment |
+| --- | --- | --- |
+| `MT-N-148` /001/003 | Different school arrangements negotiated; Aisha reveals birth-rank instruction and hidden effort. | Equal-sister assurance and honored bargain are meaningful; formal reasoning does not erase learned inferiority or comparison pressure. |
+| `MT-N-149` /002/004 | Sylphie values service, Norn refuses invitation, Nana objects to intrusive service; marital rhetoric broader than specific invitation. | Preserve local choice without inferring blanket access from affection, marriage or gratitude. |
+| `MT-N-150` /005/021 | Z gravely injures Ginger for royal-register objection; R interrupts/heals/demands apology; later counsel recurs. | Serious abuse of power; accepted loyalty/correction not no-harm proof. Debt-based apology leaves structural repair and comparable safe dissent unverified. |
+| `MT-N-151` /005/013/021 | Juli learns, completes craft and supplies testimony while owned. | Improvements and own pleasure recognized; no emancipation or free adult labor contract. |
+| `MT-N-152` /006 | R denies order, admits unequal refusal conditions, rebukes but indulges gift-makers; later investigation report narrows coercion allegation. | Neither guilt by false order nor innocence from intent. Record corrected allegation and absent recipient interiority; comic framing does not replace inquiry. |
+| `MT-N-153` /007–008 | R intimidates class on projected premise, then revises, rejects coercion and stays with Norn. | Care motive does not justify rash accusation; changed approach is creditable, not a clinical cure formula. |
+| `MT-N-154` /009–011 | Norn reflects before visit, accepts comfort, later refuses friend access and chooses study/authorship. | Her agency contributes to repair; false rumor does not invalidate fear, brother's kindness no entitlement to peers. |
+| `MT-N-155` /012 | Aisha negotiates pay, rest and own interests within trained service identity. | Genuine wants coexist with childhood dependency and continuing sibling contempt; no universal maturity or equal employment inferred. |
+| `MT-N-156` /014/018 | Pregnancy joy, touch request and fidelity declared; later tempting opportunity declined. | Actual local restraint matters; declaration and imagined future parenting not comprehensive ethical repair. Wife insecurity no condition of worth. |
+| `MT-N-157` /015–020 | Competing family duties, delayed appeal, undisclosed warning, adult decision supported by others. | Norn's appeal matters without making her solely liable; secrecy and route change need contextual evaluation, not general dishonesty/heroism label. |
+| `MT-N-158` /023 | Repeated external impairment produces unwanted acts; Lise must block/prompt detox. | Cause qualifies ordinary-intent attribution; affected boundary remains. Apology, jokes and state causation do not collapse into a single exoneration or relapse claim. |
+| `MT-N-159` /025–026 | Lise touches R; he refuses and she separates. She later refuses Paul-history disclosure; he does not press but conjectures. | Direction-specific consent and privacy; reported curse does not grant access to either person, plausible backstory no authority to demand forgiveness. |
+| `MT-N-160` /027–028 | Rescue precedes known payment; initial ingratitude judgment corrected; R rejects imposing agriculture on Aisha. | Help can be useful without pure motives being proven; later benefit no retrospective bargain. Concrete refusal to conscript another's life matters. |
+| `MT-N-161` /029–031 | Tonto killed; uncertain rescue window, flight, Carmelita grief/vengeance demand, Lise's escalated defense. | Survival reasoning credible but does not erase grief. Direct killing unconsidered ≠ principled nonviolence; possible indirect deaths unverified. Reasonable defense does not justify every threat to the mourner. |
+| `MT-N-162` /032–033 | Norn guilt/helplessness, chosen prayer and Cliff's abrasive help. | Her causal self-blame is not analyst responsibility verdict; usefulness does not erase initial hurt or certify helper's self-prediction. |
+| `MT-N-163` /034 | Norn questions scriptural abandonment before adopting study and end-of-day prayer. | Independent moral inquiry survives acceptance. Religious success story not universal vindication of sacrificed friends, no supernatural result claimed. |
+
+| Comparison | Source contrast / required distinction | Result and future test |
+| --- | --- | --- |
+| `MT-NC-058` | V10 limited Norn trust versus V11 independent account and ordinary choices. | Changed appraisal/relationship is observed, not information-only cure; later inconvenient refusal tests practical respect. |
+| `MT-NC-059` | V10 Zanoba violence against Cliff and V11 against Ginger, alongside research/care. | Useful competence and belonging do not predict safe dissent; equivalent sensitive objection needed to test restraint. |
+| `MT-NC-060` | V11 farewell restraint versus succubus impairment versus unwanted touch received. | Different agency states and directions prevent one global consent score; later ordinary-state response is diagnostic. |
+| `MT-NC-061` | V03 staged rescue for gratitude versus V11 strangers helped before known reward. | Countercase to universal manipulative rescue; institutional intimidation still shows self-centered scripts. |
+| `MT-NC-062` | Norn's demand to go, accepted adult expedition and extra's self-blame/practice. | Expressed need, decision authority and outcome liability differ; future help does not require children to assume adult risk. |

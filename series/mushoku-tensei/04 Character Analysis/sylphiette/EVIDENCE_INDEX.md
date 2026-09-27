@@ -4,21 +4,21 @@ artifact_id: MT_SYLPHIETTE_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "40018b5caedfba456da199ed2fea613ec991015a"
-source_boundary: "Japanese LN V01–V10; V10 revision 1.2, historical routes preserved."
+basis_commit: "4823e7f9cecff45d86f3045304b5825c79bcb628"
+source_boundary: "Japanese LN V01–V11; V11 revision 1.3, historical evidence and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Sylphiette evidence routes
 
-Local key Sylphiette/Sylphie, LN_JP; global IDs null. [Model](RECONSTRUCTION_MODEL.md) owns six rules, nine selectors and thirteen retrospective tests after V09. V01 numbers resolve in [V01](../../02%20Sequential%20Readings/MT_V01_DEEP_READING.md#d-source-observations-and-diagnostic-close-readings), V08 in [V08](../../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings). Only explicitly attributable actions/self-account are used. V09 confirms Sylphiette performs Fitts and Ariel sometimes substitutes; earlier unresolved-attribution entries below remain historical.
+Local key Sylphiette/Sylphie, LN_JP; global IDs null. [Model](RECONSTRUCTION_MODEL.md) owned six rules, nine selectors and thirteen retrospective tests after V09; its current V11 totals are seven rules, fourteen selectors and twenty-one tests. V01 numbers resolve in [V01](../../02%20Sequential%20Readings/MT_V01_DEEP_READING.md#d-source-observations-and-diagnostic-close-readings), V08 in [V08](../../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings). Only explicitly attributable actions/self-account are used. V09 confirms Sylphiette performs Fitts and Ariel sometimes substitutes; earlier unresolved-attribution entries below remain historical.
 
 | Rules / tests | Observation route | Shared state and limit |
 | --- | --- | --- |
@@ -52,3 +52,19 @@ New selectors: ST06 (S121), ST07 (S122), ST08 (S123), ST09 (S124). Prior test/ev
 ## V10 additions — revision 1.2
 
 [V10 observations](../../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings) `002/007–010/015–018/020/022/025` support new selectors ST10, ST11, ST12 / shared S137–138 and tests V14, V15, V16, V17, V18. Current rule/state/test counts are in the model; earlier counts above are historical. The [cumulative checkpoint](../../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) assesses narrow untested triggers, countercases and activation. No global enrollment or clean holdout.
+
+## V11 additions for revision 1.3
+
+[V11 observations](../../02%20Sequential%20Readings/MT_V11_DEEP_READING.md#d-diagnostic-close-readings) support states ST13–ST14 and checks V19–V21. The [model](RECONSTRUCTION_MODEL.md) owns rule-specific applicability and exclusions; historical route tables retain their earlier ceilings. The [V11 checkpoint](../../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns the disclosure/duty comparison.
+
+| Current domain | New source routes / limitation |
+| --- | --- |
+| Rule001 | No new equivalent skill-acquisition result; home teaching/care (002/014) does not prove new mastery. |
+| Rule002 | Extend002 to ST13–14 (002/014/020): valued service and accepted departure can coexist with affection and fear; not only debt. |
+| Rule003 | No renewed delayed-name trigger. Direct service counterfactual and teleport concern (002/020) further constrain global communication-inhibition generalization. |
+| Rule004 | Extend004 to ST13–14 (002/014/020): would possibly refuse marriage for demanded service abandonment; accepts this expedition with voiced fears, not blanket future agreement. |
+| Rule005 | ST13 (002) makes independent friendship/protection a stated reason for service. This is not a new concealed recruitment scheme; no all-context political strategy. |
+| Rule006 | No equivalent fresh bereavement/causal-accusation trigger; UNTESTED in V11. |
+| Rule007 | No equivalent subordinate-invitation enforcement; UNTESTED. Pregnancy leave is not a punitive decision. |
+
+Global IDs remain null, LN_JP continuity only, BOUNDED_PROVISIONAL and retrospective fitting. Prior tests are not fresh predictive successes; absent equivalent triggers remain UNTESTED.

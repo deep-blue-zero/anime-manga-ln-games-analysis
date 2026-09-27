@@ -4,7 +4,7 @@ artifact_id: MT_CLAIMS_AND_REVISIONS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V10 only; prior history preserved, V10 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V11 only; prior history preserved, V11 updates; publication/audit separate."
 ---
 
 # Claims and revisions ledger
@@ -260,3 +260,28 @@ Prior V01–V09 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-CR-126` / `MT-C-015` | STRENGTHEN: task completion has plural scales. |005/008/010/012–015/018/021–026/034. A safer house, marriage, summoned bottle and delivered children are real results; they do not jointly certify affected-person repair. |High for bounded outcomes. Preserve joy and success while testing acknowledged injury, changed terms and future refusal. |
 
 No C016 is warranted. The [V01–V10 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) owns the cumulative argument; the [Rudeus monograph](../04%20Character%20Analysis/rudeus/CHARACTER_MONOGRAPH.md) explains the interaction of his capacities, projections and dependencies. The form, normative and relationship ledgers retain their own comparisons and actor-specific details. This table revises existing claims without replacing their history or turning ten volumes into a whole-series verdict.
+
+
+## V11 updates — 2026-09-27 UTC
+
+Prior V01–V10 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V11; immutable input audited V10 `4823e7f9cecff45d86f3045304b5825c79bcb628`. Observation suffixes resolve in [V11](../02%20Sequential%20Readings/MT_V11_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V11-`. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns targeted knowledge/duty review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Revision / claim | Prior → V11 formulation | Transition / support / counterpressure | Next discriminating opportunity |
+| --- | --- | --- | --- |
+| `MT-CR-127` / `MT-C-001` | Differentiated capacities → performance still depends on situation, feedback and complementary expertise. | STRENGTHEN;001/011–013/022–025/028–030; power does not replace scouting or emotional access. | Changed task with altered support; state/form/models. |
+| `MT-CR-128` / `MT-C-002` | Care and harm coexist → ordinary choice must be distinguished from explicit external impairment. | REVISE;004–008/014/018/023/025; actual refusal/faithful choice and unwanted acts both retained. | Comparable unassisted boundary opportunity; no blanket excuse or relapse score. |
+| `MT-CR-129` / `MT-C-003` | Trust and facts change differently → Norn's independent reflection precedes R's intervention, and R lacks its explanation. | REVISE;007–010/029/032–034; alternate viewpoint itself can contain false rumor or fantasy. | Later participant-specific account; knowledge/form and Norn model. |
+| `MT-CR-130` / `MT-C-004` | Original Sylphie refusal remains scene-specific. | PRESERVE;004/014/020/025 compare later boundaries without retroactive consent. | New evidence about the old event required for historical revision. |
+| `MT-CR-131` / `MT-C-005` | Household protection and earlier injury remain distinct → learned birth ranking now has disclosed child costs. | STRENGTHEN without rewriting original event;003/009/012; later wages/affection no complete repair. | Changed practice around both sisters' expressed needs. |
+| `MT-CR-132` / `MT-C-006` | Forced separation not vindicated by later benefit → chosen dorm/expedition separations have different terms. | PRESERVE;003/016–020/032; comparison not proof original necessity. | Equivalent evidence of affected person, alternatives and consequences. |
+| `MT-CR-133` / `MT-C-007` | Independent purposes within relation → Norn/Aisha ordinary agency and Elinalise travel judgments materially expand coverage. | STRENGTHEN;002–003/011–013/016–021/024–034; expression not equal power or universal virtue. | Inconvenient preference actually changes shared decision. |
+| `MT-CR-134` / `MT-C-008` | Distributed competence → teaching can require accepted ignorance and learner-selected purposes. | STRENGTHEN;008/011–013/021/028/033–034; no universal withdrawal or teaching recipe. | Different learner/constraint; no clinical extrapolation. |
+| `MT-CR-135` / `MT-C-009` | Different voices/statuses → corrected reports and cultural extrapolation demand proposition-level tracking. | REVISE;006–010/019/026–029/033–035; neither first report nor correction licenses omniscience. | New independent testimony, explicit correction or observed contradiction. |
+| `MT-CR-136` / `MT-C-010` | Rescue unverified → route access and actual Rapan arrival, rescue and catastrophe cause still open. | REVISE;015/019/022/031; successful transit pair not universal safety or forewarning explained. | Direct eligible rescue information; no V12 import. |
+| `MT-CR-137` / `MT-C-011` | Gratitude/status scripts can narrow attention → rescue before known reward is a concrete countercase. | REVISE;006–008/027; later payment not evidence of initial bargain, intimidating reputation still matters. | Help under cost without expected status benefit; Rudy/normative ledger. |
+| `MT-CR-138` / `MT-C-012` | Multiple modes of aid → knowledge can stay incomplete while presence, equipment, route access and delegated care help. | STRENGTHEN;008–010/016–024/030–034; help not isolated causal cure or perfect mutual interpretation. | Dissent/uncertainty acknowledged before action, participant's later response. |
+| `MT-CR-139` / `MT-C-013` | Belonging/work/exchange unequal → wages, authored contribution, chosen faith and contractual cooperation differ. | REVISE;005/011–013/017/020–021/027–034; Juli owned, children dependent, no monolithic equality. | Actual choice/exit/control and costs, not affectionate labels. |
+| `MT-CR-140` / `MT-C-014` | Responsibility depends on knowledge conditions → protected map withholding, mistaken inference and known refusal need separate analysis. | REVISE;004–010/019/021/023/025–030; new disclosure never silently rewrites prior freeze. | Exact information available at decision time and feasible alternatives. |
+| `MT-CR-141` / `MT-C-015` | Task completion plural → family comfort, safe escape, arrival and adopted practice have different unresolved costs. | STRENGTHEN;005–014/023–025/029–034; care/joy real, no whole-person repair verdict. | Affected person's response and sustained terms on later opportunity. |
+
+C001–015 remain sufficient; no new shared claim is added solely for volume count. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns major disclosure and duty comparisons. Interpretive confidence is high for local representation, moderate for repeated mechanisms and unresolved for unseen outcomes. Prior tests and freezes remain historical.

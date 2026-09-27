@@ -4,7 +4,7 @@ artifact_id: MT_CHARACTER_STATE_AND_READINESS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V10 only; prior history preserved, V10 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V11 only; prior history preserved, V11 updates; publication/audit separate."
 ---
 
 # Character state and readiness ledger
@@ -387,3 +387,47 @@ Prior V01–V09 bodies remain historical and unchanged. Current boundary: Japane
 | Norn, Aisha, Ariel, Luke, Ghislaine, Lilia, Juli and others | Maintain substantial source-bounded ledger analysis; broad model deferred. |Checkpoint names ordinary/context/access debts; no popularity or count criterion, no invented family/peer future. |
 
 All global IDs remain null. No DOMAIN_READY or clean holdout. The cumulative checkpoint and new monograph own distinct arguments; this ledger retains observed chronology and current readiness. Newly disclosed past states are not changes that began at V10 narrative present.
+
+
+## V11 updates — 2026-09-27 UTC
+
+Prior V01–V10 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V11; immutable input audited V10 `4823e7f9cecff45d86f3045304b5825c79bcb628`. Observation suffixes resolve in [V11](../02%20Sequential%20Readings/MT_V11_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V11-`. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns targeted knowledge/duty review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| State / local key | Prior → V11 represented state / kind | Observations / persistent feature / limit |
+| --- | --- | --- |
+| `MT-S-160` / Rudeus | Receiving sisters → differentiates educational choices, hears fairness objection and unseen effort. PRACTICE/KNOWLEDGE. |001–004; promises honored, comparison pressure not controlled, family-stability rationale narrower than universal autonomy. |
+| `MT-S-161` / Rudeus | Projected bullying → corrected inquiry, admitted ignorance and sustained presence. KNOWLEDGE/PRACTICE. |007–010; threatening first approach persists as countercase; lacks Norn's full explanation. |
+| `MT-S-162` / Rudeus | Domestic routine → teaching/writing difficulty, pregnancy joy and declared fidelity. CONTEXT/PRACTICE. |011–014; collaborative authorship, no demonstrated general parenting competence. |
+| `MT-S-163` / Rudeus | Initial stay decision → chooses rescue with household support and newly shortened route. CONTEXT/KNOWLEDGE. |015–022; no sole-helper fact, no reliable forecast or guaranteed return. |
+| `MT-S-164` / Rudeus | Desert newcomer → mutual reliance, explicit external impairment, corrected cultural appraisal and successful flight. CONTEXT/KNOWLEDGE. |023–031; ordinary choices and induced state distinct; retreat not universal nonlethal doctrine. |
+| `MT-S-165` / Norn | Distrust → independently disclosed fear, prior reflection, changed appraisal and accepted comfort. REVEALED_NOT_NEW/KNOWLEDGE/RELATIONSHIP. |007–010; not brother's sole achievement or certainty of future safety. |
+| `MT-S-166` / Norn | New trust → chosen friends, refused introduction, requested teaching and authored contribution. PRACTICE. |011; talent/readership unverified, autonomous choices extend beyond closeness. |
+| `MT-S-167` / Norn | Rescue demand → self-blame while waiting, religious return, objection and chosen preparation. CONTEXT/PRACTICE. |016/020/032–034; no sole responsibility for adult decision, diagnosis or proven durable relief. |
+| `MT-S-168` / Aisha | Capable traveler → exam bargain, fairness disclosure, wages and independent leisure negotiated. KNOWLEDGE/PRACTICE. |001/003/012/020; hidden effort and childhood dependency; sibling belittling persists. |
+| `MT-S-169` / Sylphiette | Wife/guard → expresses independent service priority, pregnancy insecurity, accepts departure with fears. REVEALED_NOT_NEW/CONTEXT. |002/014/020; no universal consent or abolished work purpose. |
+| `MT-S-170` / Zanoba | Researcher/friend → assaults Ginger, later offers non-directive support and receives regular correction. PRACTICE/REVEALED_NOT_NEW. |005/016/021; actual counsel qualifies total deafness, not assault or hierarchy. |
+| `MT-S-171` / Ginger | Escort returns → asks to teach Juli, injured defending register, explains vow and supplies recurring counsel. PRACTICE/REVEALED_NOT_NEW. |005/013/021; corrections corroborated, broad exit/independent-life model still insufficient. |
+| `MT-S-172` / Juliette | Owned pupil → completed craft, pleasure in recognition, language learning and testimony about Ginger. PRACTICE. |005/013/021; ownership unchanged, no adult-equivalent consent inferred. |
+| `MT-S-173` / Nanahoshi | Guarded research partner → staged plan, bounded social care and restricted teleport map disclosure. KNOWLEDGE/RELATIONSHIP. |002/013/019; earlier memory claim revised; secret records preexist present disclosure, return still goal. |
+| `MT-S-174` / Cliff | Cure research/commitment → partial device, accepts travel limit, proposes before cure, counsels Norn. PRACTICE/RELATIONSHIP. |013/017/033–034; helpfulness coexists with dismissive tone and explicitly unverified political fantasy. |
+| `MT-S-175` / Elinalise | Rescue intention → tells Cliff, new commitment changes separation preference, shorter route permits revised plan. CONTEXT/RELATIONSHIP. |016–020; no fickleness trait from changed available options, cure absent. |
+| `MT-S-176` / Elinalise | Traveler → practical protector, enforces/receives boundaries, affirms grandchild care and escalates dispute. PRACTICE. |022–031; desert/language limits, own unwanted touch, no infallibility. |
+| `MT-S-177` / Carmelita | Grateful but skeptical warrior → cultural testimony, grief, vengeance demand and withdrawal. KNOWLEDGE/CONTEXT. |027/029–031; parentage reported, precise attachment unknown, silence not reconciliation. |
+| `MT-S-178` / Tonto | Quiet guard → explains name and shows interest in magic, then killed in ambush. PRACTICE/CONTEXT. |029–030; thin but independent ordinary presence, no unseen final thought. |
+| `MT-S-179` / Garvan and Baribadom | Apparent indifference → returned search reported, employment, shared long trust and survival command. KNOWLEDGE/REVEALED_NOT_NEW. |027–031; Rudy's guesses about callousness/personnel remain guesses. |
+| `MT-S-180` / Linia, Pursena and Ariel | Gift plan/report → investigation, revised account, rebuke and accepted farewell. KNOWLEDGE/PRACTICE. |006/018; later correction required, no invented recipient interiority or comprehensive prior repair. |
+
+| Package / domain | Current decision | Calibration / remaining debt |
+| --- | --- | --- |
+| Rudeus | Revise model/index1.8, BOUNDED_PROVISIONAL. | Family inquiry, new knowledge and impaired state separated; V01–V10 monograph retained as historical bounded synthesis. |
+| Sylphiette | Revise model/index1.3. | Service priority, pregnancy and departure agreement; affection not blanket bodily permission. |
+| Zanoba | Revise model/index1.3. | Violence in service hierarchy, tolerated ordinary counsel and non-directive help require different triggers. |
+| Cliff | Revise model/index1.2. | Partial device, commitment before cure and pastoral help; no forecast accuracy. |
+| Nanahoshi | Revise model/index1.2. | Prior account corrected by disclosed records; no universal truthfulness or new destination goal. |
+| Elinalise | Revise model/index1.1. | Travel competence/limits, mutual boundaries and kinship; no universal restraint or complete biography. |
+| Norn | First [model1.0](../04%20Character%20Analysis/norn/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/norn/EVIDENCE_INDEX.md). | Bounded fear/appraisal, learning/peer agency and faith; six rules, five states, eight retrospective checks. |
+| Aisha | First [model1.0](../04%20Character%20Analysis/aisha/RECONSTRUCTION_MODEL.md), [index](../04%20Character%20Analysis/aisha/EVIDENCE_INDEX.md). | Bounded planning, role/fairness and negotiated wants; five rules, four states, seven retrospective checks; access mostly Rudy-mediated. |
+| Eris, Paul, Roxy, Ruijerd, Sara | Reviewed: no material operational update; earlier packages unchanged. | Memories, testimony and absent present actions do not supply new direct opportunities. Norn's recollections revise her account without silently granting the absent people new knowledge. |
+| Ginger, Juli, travel cast and others | Expanded ledger descriptions; full operational packages deferred. | Ginger's repeated correction is now supported, but alternative contexts/exit remain thin; travel cast concentrated in one expedition. |
+
+All global IDs remain null; none DOMAIN_READY. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns activation and disclosure review. New knowledge of earlier events is not automatically present personality change.

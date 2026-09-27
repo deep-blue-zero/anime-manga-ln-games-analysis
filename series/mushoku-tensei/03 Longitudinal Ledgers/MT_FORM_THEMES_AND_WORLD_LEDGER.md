@@ -4,7 +4,7 @@ artifact_id: MT_FORM_THEMES_AND_WORLD_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V10 only; prior history preserved, V10 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V11 only; prior history preserved, V11 updates; publication/audit separate."
 ---
 
 # Form, themes, and world ledger
@@ -288,3 +288,24 @@ Prior V01–V09 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-W-023` NEW | The automaton and workshop supply observed artifact behavior and a plausible history assembled from traces; the creator's fate and full mechanism are reconstructed rather than witnessed. |004–006; observed attack/quiet and technical examination stronger than every historical conjecture. Later use of the architecture does not certify the entire reconstruction. |
 
 The cumulative checkpoint now owns the V01–V10 comparison. No independent form/world specialist is added because these mechanisms remain adequately owned here and in the checkpoint. The Rudeus monograph uses the same evidence for a character-specific argument rather than acquiring authority over world rules. Edition illustrations and paratext remain at the reading's inspected scope; author-profile remarks about work and marriage are not a verdict on every household act.
+
+
+## V11 updates — 2026-09-27 UTC
+
+Prior V01–V10 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V11; immutable input audited V10 `4823e7f9cecff45d86f3045304b5825c79bcb628`. Observation suffixes resolve in [V11](../02%20Sequential%20Readings/MT_V11_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V11-`. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns targeted knowledge/duty review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Form/theme event | V11 observation / operation | Interpretation / limit |
+| --- | --- | --- |
+| `MT-F-031` |009–010: Norn first-person retrospective interrupts brother's apparent solution. | She already reflects before his arrival; reader knows more than he does. Alternative viewpoint can itself contain false rumor. C003/009. |
+| `MT-F-032` |001–021/032–034: domestic routine → delayed letter → preparation/travel → return to waiting Norn in extra. | Agency includes learning, care, planning and faith outside expedition. No fixed arc boundary imported. C007/012/013. |
+| `MT-F-033` |006/019/026–031: first reports, hidden knowledge and cultural extrapolation later qualified. | Reliability is proposition-specific; corrected information not universal change of interpretive habit. C003/009/014. |
+| `MT-F-034` |023/030/033–035: game/genre idiom, self-exculpatory comedy, narrator-qualified fantasy, nested scripture and images. | Register, causal mechanism and affected response coexist; static pictures supply emphasis, not voice/consent. C002/003/015. |
+
+| World/institution event | Evidence / status | Boundaries |
+| --- | --- | --- |
+| `MT-W-024` |001/003/011–014/018: open school admission, dormitory, special leave, paid household work and leisure restrictions. | Institutions permit options and impose comparisons; ability/pregnancy/role do not define a person's worth or complete autonomy. |
+| `MT-W-025` |013/019/022: staged summons, partial device, secret banned teleport sites and tested pair. | Research reports and local successful transit retained separately; spirit theory, full network/safety and human return unverified. |
+| `MT-W-026` |022–030: desert ecology, magical impairment, local currency/barter, no midroute guides, warrior customs. | Some hazards directly encountered, mechanism/history mostly attributed; cultural testimony cannot determine individual attachment. Not modern medical or ethnographic authority. |
+| `MT-W-027` |020/032–035: naming legend, inherited religion, voluntary renewed prayer and argued scriptural meaning. | Faith has represented emotional/practical effects; neither miracle nor complete world-history verification follows. Electronic/print dates and book/WN witness boundary retained. |
+
+Ordinary competence recurs beside accepted limits; care can be useful without complete understanding. No separate world encyclopedia, adaptation comparison or reception synthesis is warranted by these observations. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns the targeted disclosure comparison.

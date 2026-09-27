@@ -4,7 +4,7 @@ artifact_id: MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V10 only; prior history preserved, V10 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V11 only; prior history preserved, V11 updates; publication/audit separate."
 ---
 
 # Chronology and knowledge ledger
@@ -348,3 +348,42 @@ Prior V01–V09 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-K-129` Historical access/prolepsis | Ruijerd reflects on son with explicitly unknown method; Paul weighs reports and Norn visible reliance; Gal explains curriculum and narrator supplies future certification. |029/032/034; conjecture, direct interiority, testimony and narrated future kept distinct; none automatically Rudy knowledge. |
 
 Preserve earlier interval tensions and the distinction between physical age, remembered biography, social treatment and demonstrated judgment. No later witness is needed to record V10's own explicit prolepsis. Its future time does not make the announced result a current capability.
+
+
+## V11 updates — 2026-09-27 UTC
+
+Prior V01–V10 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V11; immutable input audited V10 `4823e7f9cecff45d86f3045304b5825c79bcb628`. Observation suffixes resolve in [V11](../02%20Sequential%20Readings/MT_V11_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V11-`. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns targeted knowledge/duty review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Chronology | Anchor / order | Evidence and limit |
+| --- | --- | --- |
+| `MT-T-060` | Sisters settle → exam/dorm arrangements → roughly monthly school and household developments. |001–012; daily teaching follows withdrawal repair, not cause assumed in advance. |
+| `MT-T-061` | Doll research interlude begins roughly a week before V10 Nanahoshi crisis, then returns to Ginger's present arrival. |005; disclosure time differs from discovery time. |
+| `MT-T-062` | Pregnancy reported → two further months → six-month-old express appeal → several days' deliberation/preparation. |014–020; no exact calendar or current rescue condition from letter age. |
+| `MT-T-063` | Five-day forest route → teleport/return test → explicit desert day progression → caravan → later Rapan arrival. |022–031; route estimates revised, source component/total arithmetic retained as uncertain estimates. |
+| `MT-T-064` | Extra begins one month after Rudeus departs; recurring church visits lead to Cliff conversation. |032–034; no forced synchronization of every extra day with travel scenes. |
+| `MT-T-065` | Electronic2016-05-25; first-print basis2016-05-31; OPF2016-05-25T04:00:00+00:00. |035; publication dates distinct from story chronology. |
+
+| Knowledge | Holder / change | Observation / provenance ceiling |
+| --- | --- | --- |
+| `MT-K-130` Sisters' needs | R hears Aisha's wish and Norn's school/dorm preference; teacher still assumes giftedness. |001/003; neither child's apparent ease establishes internal comfort. |
+| `MT-K-131` Rank history | Aisha reports Lilia/grandmother teaching inferiority; Norn later supplies her own grandmother experience. |003/009; different memories/interiors, no all-purpose adult motive. |
+| `MT-K-132` Research chronology | Reader learns earlier layered-joint discovery and present educational request. |005; discovered joints not full functional knowledge. |
+| `MT-K-133` Collection | First coercion report → denied order and recognized power risk → later narrated investigation narrows severity. |006; include correction, no direct recipient interiority. |
+| `MT-K-134` Norn rumor | Norn believes R ordered collection; reader has evidence of denied actual order. |006/009; false belief still affects her fear, not fact about command. |
+| `MT-K-135` Withdrawal | R projects bullying, testimony identifies comparisons/missing basics; Norn's first person reveals other causes. |007–009; private history no universal analogy. |
+| `MT-K-136` Recognition | Norn already reappraised Paul quarrel before R arrives; comfort changes trust, R lacks full explanation. |009–010; reader knowledge not automatically shared. |
+| `MT-K-137` Authorship/effort | R sees chosen Norn contribution and Aisha's previously obscured effort/wants. |011–012; talent/complete autonomy unverified. |
+| `MT-K-138` Research result | Nana states stages/material limits; Cliff prototype extends interval reportedly. |013; no human return, universal spirit science or cure. |
+| `MT-K-139` Pregnancy/commitment | Doctor's probable pregnancy report and family response; fidelity declared. |014; later parenting/durability absent; advice not medical fact. |
+| `MT-K-140` Delayed warning | Geese summons; Hitogami warns without reason; R speculates address implies contact with Paul. |015–017; current rescue state and warning outcome unknown. |
+| `MT-K-141` Map correction | Nana discloses retained records after earlier claiming no memory, explains secrecy and bounded release. |019; prior account incomplete, freeze preserved; own motives stated not uniquely proven. |
+| `MT-K-142` Available route | Incomplete remembered map reduces anticipated separation, changing Lise's decision; Sylphie hears specific risk. |019–020; estimate not promise of arrival/return. |
+| `MT-K-143` Ginger counsel | Z reports repeated corrections, Juli corroborates, Gin again corrects royal joke. |021; revises R's earlier fear of inability to advise, not injury or safe dissent under identical trigger. |
+| `MT-K-144` Transit | Actual crossing and volunteered return test verify this pair; device, crest and gear ownership conjectural. |022; no universal teleport safety/physics. |
+| `MT-K-145` Impairment | External succubus cause represented, detox clears; later curse explanation of Lise's touch R-inferred. |023/025; distinguish ordinary intent, induced state and attributed mechanism. |
+| `MT-K-146` Past Paul | Lise refuses details; R imagines affair conflict and reconciliation. |026; no verified episode or forgiveness obligation. |
+| `MT-K-147` Merchant correction | R reads departure as ingratitude; Garvan reports retrieval, return and search. |027; report qualifies initial judgment, reward does not prove prior rescue motive. |
+| `MT-K-148` Cultural correction | Custom testimony → R's no-special-attachment inference → Carmelita grief/parentage report. |029; no exact inner love established, custom not individual mind. |
+| `MT-K-149` Killing | Direct killing absent from R's immediate options; possible wall deaths later imagined. |030–031; no verified deaths/count or principled nonviolence; Lise's conscious-hesitation reading partly mistaken. |
+| `MT-K-150` Destination | Rapan reached; regret hypotheses multiply without resolution. |031; no Paul reunion/Zenith rescue shown. |
+| `MT-K-151` Faith/counsel | Norn speaks private guilt; Cliff shares exile/limits, scripture and a forecast the narrator qualifies. |032–034; her adopted practice not forecast confirmation or supernatural outcome. |
