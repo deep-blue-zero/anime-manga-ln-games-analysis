@@ -1,22 +1,24 @@
 ---
-title: "Cliff — bounded Japanese LN reconstruction through V13"
+title: "Cliff — bounded Japanese LN reconstruction through V14"
 artifact_id: MT_CLIFF_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
-source_boundary: "Japanese LN V01–V13; V13 revision 1.3, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "eece6816d98e076847e65507bc9e83d03b1ed77d"
+source_boundary: "Japanese LN V01–V14; V14 revision 1.4, historical IDs and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Cliff evidence routes
+
+Current revision1.4 admits locked Japanese V01–V14, based on audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d` plus complete V14. Earlier scope/count statements below are historical snapshots; the appended V14 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.3 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -61,5 +63,19 @@ Global IDs remain null, LN_JP continuity only, BOUNDED_PROVISIONAL and retrospec
 | 003 | No equivalent attack on partner. ST10 candid rebuke of R (006) is verbal perspective-taking, not replicated physical escalation. |
 | 004 | ST11 (019) marriage/home choices extend chosen commitment under limited resources; financial help declined, lifelong outcome and curse solution remain open. |
 | 005 | ST10 (006) articulates dependency and offers church help; informed advice still inference about Norn. Attribution to El coaching is R guess. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V14 additions for revision 1.4
+
+[V14 observations](../../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST12–ST13 and checks V16–V18. The [model](RECONSTRUCTION_MODEL.md) owns 5 rules, 13 states and 18 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST12–13 (017/020/022) identification eye acquired but uncontrolled; study remains necessary. Existing healing matters, curse not cured. |
+| 002 | No equivalent peer hierarchy reversal. Helping unknown beggar (017) corrects R suspicion, not proof Cliff revises his own rivalry judgments. |
+| 003 | ST12 (012) extends verbal confrontation to refusal of aid for vulnerable acquaintance; no insult-to-partner or physical attack. El intervention limits escalation. |
+| 004 | ST12–13 (005/014/022) already knew El history before marriage and remains partner; new dependence on her guidance, no completed cure or lifespan solution. |
+| 005 | ST12–13 (012/014/017/019–022) duty becomes unsolicited charity, reward request for Nana, accepted runner role and treatment. Local initiative exceeds narrow response-to-received-help trigger but remains bounded. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

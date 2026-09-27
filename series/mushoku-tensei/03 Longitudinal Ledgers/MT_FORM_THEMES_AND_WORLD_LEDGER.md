@@ -4,7 +4,7 @@ artifact_id: MT_FORM_THEMES_AND_WORLD_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.13"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V13 only; prior history preserved, V13 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V14 only; prior history preserved, V14 updates; publication/audit separate."
 ---
 
 # Form, themes, and world ledger
@@ -355,3 +355,29 @@ Prior V01–V12 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-W-036` | Sword/Water/Battle styles generate a local three-way advantage rather than transitive ranking. |034–036; styles and individual training contexts matter; Gal's Orsted confidence unverified. |
 
 The bilingual epigraph and author-profile tolerance statement are paratextual frames, not universal narrator truth or ethical permission. Written/visual novel evidence only; no acoustic voice, adaptation or reception added.
+
+
+## V14 updates — 2026-09-27 UTC
+
+Prior V01–V13 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V14; immutable input audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d`. Observation suffixes resolve in [V14](../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V14-`. The targeted V14 testimony/agency checkpoint is new; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Form record | V14 mechanism | Evidence / alternatives |
+| --- | --- | --- |
+| `MT-F-046` | Castle adventure becomes illness quest, then homecoming/self-resolution becomes Turning Point Four. |001–034; apparent closure is interrupted twice, without nullifying practical gains. |
+| `MT-F-047` | Charity discovers the needed contact; unintended enemy intrusion brings rescue. |017/021; distributed causation counters protagonist-control account without erasing preparation. |
+| `MT-F-048` | Meal/convalescence images foreground embodied feeling; divided visitor image and spaced gratitude alter tone. |007/023/028–032; formal emphasis not diagnosis or objective speaker endorsement. |
+| `MT-F-049` | Diary changes from future self-correction tool to material testimony of another course. |027–034; object present before its contents are read. |
+| `MT-F-050` | Counterfactual, nested testimony, young inference and observable rat create unequal evidential layers. |028–034; one first-person frame contains more than one knowledge status. |
+| `MT-F-051` | Independent interlude distinguishes ambition, love, technical learning and disappointed peers. |035–036; epigraph contrast of effort/aims is suggestive, not total authorial verdict. |
+
+| World record | V14 rule or institution | Limit |
+| --- | --- | --- |
+| `MT-W-037` | Summoning separates transferred beasts and created spirits; castle has eleven spirits plus living Sylvaril. |003/006; transfer resistance, gate particles and son question not fully explained. |
+| `MT-W-038` | Draine account explains foreign-body mana accumulation; tea manages recurrent risk. |011/013/017/023; ancient diagnosis attributed, R medical comparisons not world law. |
+| `MT-W-039` | Castle racial barrier and debt-based art permission coexist. |002/025; Ruijerd exception not general policy reversal or Roxy admission. |
+| `MT-W-040` | Atofe training reward entails long service and obedience; human and immortal timescales diverge. |018–021; some guards willing, others trapped; strength not freedom. |
+| `MT-W-041` | Practiced Disturb Magic, absorption stone and electricity affect this battle, with limits/collateral injury. |020–022; capacity alone insufficient, new eye requires control. |
+| `MT-W-042` | Elder demonstrates gravity and claims time travel, with fatal missing organs. |029–034; branch theory, universal magic claim and inaccessibility of Hitogami not independently exhaustive law. |
+| `MT-W-043` | Eris gains Sword King/full transmission through local technique/result. |036; Emperor conditional on another fight, God path declined; named ranks not transitive universal outcomes. |
+
+Time suspension, arrested aging, lifespan difference and time travel share a theme without being one settled mechanism. Written/visual LN evidence only; no adaptation, acoustic performance or later source admitted.

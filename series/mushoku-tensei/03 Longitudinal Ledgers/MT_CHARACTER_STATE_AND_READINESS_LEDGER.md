@@ -4,7 +4,7 @@ artifact_id: MT_CHARACTER_STATE_AND_READINESS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.13"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V13 only; prior history preserved, V13 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V14 only; prior history preserved, V14 updates; publication/audit separate."
 ---
 
 # Character state and readiness ledger
@@ -502,3 +502,28 @@ Prior V01–V12 bodies remain historical and unchanged. Current boundary: Japane
 | Other named people | Ledger coverage; standalone models deferred. | Uneven contextual/interior access; do not manufacture symmetrical packages. |
 
 All models remain BOUNDED_PROVISIONAL with null global IDs. No DOMAIN_READY. Rudeus monograph remains V01–V10; the required V15 cumulative checkpoint is still prospective.
+
+
+## V14 updates — 2026-09-27 UTC
+
+Prior V01–V13 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V14; immutable input audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d`. Observation suffixes resolve in [V14](../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V14-`. The targeted V14 testimony/agency checkpoint is new; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| State / local key | Prior → V14 state / kind | Observations / limitation |
+| --- | --- | --- |
+| `MT-S-218` / Rudeus | Researcher/parent → practical listener and organizer for Nanahoshi. PRACTICE. |006–017; attachment enables empathy without identical aims; help distributed. |
+| `MT-S-219` / Rudeus | Wants learning and return → coerced captive, endangered fighter, returned diarist. PRACTICE/CONTEXT. |018–027; collective survival, lethal intent and collateral injury; resolve not completed durable change. |
+| `MT-S-220` / Rudeus | Trusts detailed oracle → receives elder testimony, finds rat, conceals danger. KNOWLEDGE. |028–034; present young self does not acquire elder experience; diary unread, letter begun. |
+| `MT-S-221` / Roxy | Working spouse → excluded visitor, logistical helper and speaker asking openness. CONTEXT/PRACTICE. |002/011/015/026/033; stated agreement within racial exclusion; pregnancy hinted, future death only report. |
+| `MT-S-222` / Sylphiette | Working mother → costly healer, recovering caregiver, continuing Ariel aide. PRACTICE. |001/009–011/015/022/026/033; jealousy/fear and direct preference coexist; no perpetual marital permission. |
+| `MT-S-223` / Zanoba | Researcher/craft admirer → host connection and endangered protector. PRACTICE. |004/008/016/019–025; own purposes, injury and instrumental treatment of Kishirika retained. |
+| `MT-S-224` / Cliff | Newly married researcher → duty advocate, charitable searcher, healer and new eye user. PRACTICE. |012/014/017/019–022; eye currently uncontrolled, curse cure incomplete. |
+| `MT-S-225` / Elinalise | Partner with concealed history → selective disclosure and tactical care. REVEALED_NOT_NEW/PRACTICE. |005/012/014/019–022; Cliff already knew before marriage; ancient memory gap persists. |
+| `MT-S-226` / Nanahoshi | Ill researcher → Draine diagnosis, continuing treatment and clarified homeward attachment. CONTEXT/REVEALED. |007/011/013/023; tea management not permanent cure; elder future report not present outcome. |
+| `MT-S-227` / Eris | Intensive trainee → adaptive victory, Sword King/full transmission, intended return. PRACTICE. |035–036; planned sacrifice is intention, no reunion or actual Orsted victory. |
+| `MT-S-228` / Perugius | Proposed expert contact → limited teacher/patron, racial gatekeeper, rescuer through revenge. REVEALED/PRACTICE. |003–008/012/021/024–026; one concession does not end prejudice; displacement inference bounded. |
+| `MT-S-229` / Atofe and Moore | New power center → coercive reward regime with useful aid and effective opposition. REVEALED. |017–021; help and coercion coexist; not all guards willing. |
+| `MT-S-230` / Ariel | Facilitates visit → materially assists expedition and faces unresolved royal test. PRACTICE. |001/014/026; rings unused, king answer not established. |
+| `MT-S-231` / Nina and Gino | Training peers → distinct ambition, defeat/disappointment and renewed effort. PRACTICE. |035–036; continued work exceeds Eris departure plot. |
+| `MT-S-232` / elder visitor | Claims later Rudeus identity and branch history, demonstrates powers, dies. ATTRIBUTED/OBSERVED. |029–032; identity support and rat warning strong locally; no younger model overwrite or new operational package. |
+
+Eight model/index pairs revised: Rudeus1.11, Roxy1.5, Sylphiette1.6, Zanoba1.5, Cliff1.4, Elinalise1.4, Nanahoshi1.4, Eris1.6. Paul1.3, Ruijerd1.2, Norn1.2, Aisha1.2 and Sara1.1 are reviewed and byte-preserved: no material new operational opportunity. New prominent figures stay ledger-level pending sufficient contexts and architecture need. All models BOUNDED_PROVISIONAL, null global IDs; no DOMAIN_READY or clean forecast. [V14 checkpoint](../05%20Checkpoint%20Syntheses/MT_V14_TESTIMONY_AND_AGENCY_CHECKPOINT.md) governs testimony distinctions; V15 cumulative review remains due.

@@ -1,21 +1,23 @@
 ---
-title: "Roxy — reconstruction evidence routes through V13"
+title: "Roxy — reconstruction evidence routes through V14"
 artifact_id: MT_ROXY_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.4"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
-source_boundary: "Japanese LN V01–V13; V13 revision 1.4, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "eece6816d98e076847e65507bc9e83d03b1ed77d"
+source_boundary: "Japanese LN V01–V14; V14 revision 1.5, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Roxy evidence routes
+
+Current revision1.5 admits locked Japanese V01–V14, based on audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d` plus complete V14. Earlier scope/count statements below are historical snapshots; the appended V14 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.4 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -74,5 +76,20 @@ Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrosp
 | 004 | ST12 (017/023) exposes insecurity and later felt welcome; no repeated recognition/identity-denial trial, so not a generalized resistance-to-facts test. |
 | 005 | ST12 hat gift (023) is a near analogy for perceptible belonging, not a repetition of inaccessible Migurd telepathy. Parents visit is discussed/declined now (002), not actual reunion. |
 | 006 | ST11–12 (004/010/015/017/023–024) offers correction, refusal, specialist explanation and explicit acceptance report. Resistance remains genuine after lesson reveal; no generic compliant spouse voice. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V14 additions for revision 1.5
+
+[V14 observations](../../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST13–ST14 and checks V22–V24. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 14 states and 24 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST13 (002/011/015) practical logistics and work persist; no substantial new technical-learning test. Exclusion limits opportunities, not competence. |
+| 002 | No new gifted-pupil/master comparison. Staying home by agreement (015) is not evidence she accepts subordinate professional standing. |
+| 003 | No new missing-family search trial. Household/logistical assistance supports expedition but is not the same search/reunion choice. |
+| 004 | ST13 exclusion is external discriminatory policy, not identity denial by Roxy. ST14 pregnancy hint (033) not enough to infer a diagnosis process or hidden fear. |
+| 005 | ST13–14 comfort/welcome (002/026/033) are near analogies for belonging, not Migurd communication-channel replication. Perugius still excludes her after figurine concession. |
+| 006 | ST13–14 (002/015/026/033) voiced preference, actual agreement, promised embrace and request for disclosure. Elder future-death report grants neither present knowledge nor implied consent. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

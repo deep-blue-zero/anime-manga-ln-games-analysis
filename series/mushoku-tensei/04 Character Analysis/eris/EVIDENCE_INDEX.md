@@ -1,21 +1,23 @@
 ---
-title: "Eris — reconstruction evidence routes through V13"
+title: "Eris — reconstruction evidence routes through V14"
 artifact_id: MT_ERIS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
-source_boundary: "Japanese LN V01–V13; V13 revision 1.5, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "eece6816d98e076847e65507bc9e83d03b1ed77d"
+source_boundary: "Japanese LN V01–V14; V14 revision 1.6, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Eris evidence routes
+
+Current revision1.6 admits locked Japanese V01–V14, based on audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d` plus complete V14. Earlier scope/count statements below are historical snapshots; the appended V14 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.5 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -87,5 +89,20 @@ New selectors: ST09 (S130), ST10 (S130). Prior test/evidence routes remain histo
 | 004 | ST12–13 (035–036) provides reciprocal peer exchange after complementary skill recognized; Isolte initially unconscious/unconsulted, so later collaboration not retroactive permission. |
 | 005 | No comparable intimate boundary or gift encounter; memory and bath choice (037) do not authorize imagined current romance. |
 | 006 | ST12–13 (036–037) gives concrete explanation, listening and direct request for clarification; Isolte mediation improves uptake, no rigid inarticulate persona. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V14 additions for revision 1.6
+
+[V14 observations](../../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST14–ST15 and checks V24–V26. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 15 states and 26 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST14–15 (035–036) redirects force learned from North style into speed to defeat faster-base Nina; concrete adaptive mechanism, no proven victory over Orsted. |
+| 002 | ST14 imagined team fight/sacrifice (035) is prospective protection intent, not observed emergency action. Elder report of future death (031) cannot become current calibration. |
+| 003 | ST14–15 (035–036) attachment includes chosen return, but no new received-care encounter or knowledge of present household. Elder characterizes her love; interlude independently supplies her own aim. |
+| 004 | ST15 Nina/Gino remain competitors with own plans (036); no fresh friendship repair trial or inferred agreement to Eris sacrifice. |
+| 005 | No represented new intimate negotiation with R. Elder marital advice (031) is not her present consent or a communicated relationship agreement. |
+| 006 | ST14–15 (035–036) direct answers and refusal to seek title by killing teacher reflect particular aims; limited speech does not mean inability to reason. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

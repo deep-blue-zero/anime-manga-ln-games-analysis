@@ -4,7 +4,7 @@ artifact_id: MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.13"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V13 only; prior history preserved, V13 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V14 only; prior history preserved, V14 updates; publication/audit separate."
 ---
 
 # Chronology and knowledge ledger
@@ -465,3 +465,40 @@ Prior V01–V12 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-K-191` | Reader gains sword-school access unavailable to R; Gal's confidence and Nina's advice remain attributed. |034–037; projected future result not imported later-volume evidence. |
 
 Earlier knowledge ceilings remain immutable. New disclosed old events are not silently dated to the day the reader learns them.
+
+
+## V14 updates — 2026-09-27 UTC
+
+Prior V01–V13 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V14; immutable input audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d`. Observation suffixes resolve in [V14](../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V14-`. The targeted V14 testimony/agency checkpoint is new; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Time record | V14 ordering | Evidence / uncertainty |
+| --- | --- | --- |
+| `MT-T-078` | R states eighteen; displacement/Nanahoshi arrival recalled eight years earlier. |003/013; ancient El history about two centuries earlier is reported, not current elapsed scene. |
+| `MT-T-079` | Castle instruction/meal precede collapse; unconscious three days, fourth-day assessment and four days of Syl aid. |006–013; preserve source markers without invented calendar. |
+| `MT-T-080` | Demon-continent expedition, return/treatment, further castle days, approximately ten-day homecoming. |014–027; visits to Zenith every three days described after return, not evidence cured. |
+| `MT-T-081` | Diary begins before Hitogami dream; visitor interrupts intended cellar check that night. |027–034; journal transfer, death and rat check precede reading of the journal. |
+| `MT-T-082` | Elder claims roughly fifty years of later events in another course; sword interlude follows in discourse. |029–036; reported branch chronology not accomplished current future, no exact interlude synchronization. |
+
+| Knowledge record | Holder / change | Status / constraint |
+| --- | --- | --- |
+| `MT-K-192` | R learns Roxy barred and Perugius asks unexplained son/Hitogami questions. |002–003; prejudice explicit, gate/white-place resemblance not identified mechanism. |
+| `MT-K-193` | El recounts rescue, curse aftermath and reasons for withholding; Syl remains uninformed, Cliff already knew. |005; Zenith response differs, comparison not diagnosis/cure. |
+| `MT-K-194` | Perugius corrects summoning taxonomy and teaches with limited access. |006; eleven created spirits plus living Sylvaril, not twelve spirits. |
+| `MT-K-195` | R sees meal emotion and later hears Nana precautions, family and return wish. |007/013; fuller speech narrows lifestyle-blame interpretation. |
+| `MT-K-196` | Host attributes symptoms to Draine and offers time suspension. |011–012; diagnosis based on ancient account, R biological analogy not established medicine. |
+| `MT-K-197` | R assigns household roles using partly speculative motives. |015; Roxy spoken agreement follows explanation; Syl's supposed childhood reason is his thought. |
+| `MT-K-198` | Rikaris contacts supply old-party/refugee and employment/death reports. |016; poster not present camp verification; Jelil/Veskell outcomes reported locally. |
+| `MT-K-199` | Cliff feeds stranger before identity known, asks Nana aid when reward offered. |017; direct correction of R's suspicious appraisal. |
+| `MT-K-200` | Atofe contract terms disclosed after threatened acceptance. |018; informed refusal then disregarded, mixed guard willingness. |
+| `MT-K-201` | Actual combat demonstrates local technique and limits; rescue cause explained afterward. |019–022; Perugius responds to intrusion/old enemy, not a request Cliff never made. |
+| `MT-K-202` | Tea helps; Nana told continued use required; art exception tied to Ruijerd debt. |023–025; no permanent cure or generalized demon access. |
+| `MT-K-203` | Ariel royal answer remains open; R revises wording of his own habits. |026–027; useful question and diary intention not achieved mastery. |
+| `MT-K-204` | Hitogami claims Paul/Roxy would survive without R; guilt restores assent. |028; counterfactual and detailed causal story not observed truth. |
+| `MT-K-205` | Elder supplies private name/body identifiers, abilities and written journal. |029/032; supports identity without proving every claim or transferring memories. |
+| `MT-K-206` | Elder narrates illness, deaths, failed return and mediated oracle involvement. |030; source layer remains attributed; Nana suicide is young R inference, Luke role nested hearsay. |
+| `MT-K-207` | Elder's Eris account revises R separation belief; assumes wives' future assent. |031; independent earlier interludes support love, no actual present marriage consent. |
+| `MT-K-208` | Roxy hints pregnancy, wives request openness, R lies and locks rooms. |033; affected people lack full warning, no independent pregnancy test shown. |
+| `MT-K-209` | Purple-crystal-toothed rat found in cellar after freezing; sealed for proposed research. |034; warning specifically corroborated, origin/disease link not tested; journal unread, letter only begun. |
+| `MT-K-210` | Reader sees Eris technique/rank/return intention, R not informed. |035–036; Sword King/full transmission actual, Emperor conditional, Orsted victory projected. |
+
+Current events, disclosed past, unverified counterfactual, elder future testimony, nested hearsay and reader-only interlude are separate records. No old freeze or earlier character state acquires V14 knowledge.

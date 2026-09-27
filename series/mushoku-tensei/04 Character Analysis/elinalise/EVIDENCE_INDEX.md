@@ -1,21 +1,23 @@
 ---
-title: "Elinalise — Japanese LN evidence routes through V13"
+title: "Elinalise — Japanese LN evidence routes through V14"
 artifact_id: MT_ELINALISE_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
-source_boundary: "Japanese LN V01–V13; V13 revision 1.3, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "eece6816d98e076847e65507bc9e83d03b1ed77d"
+source_boundary: "Japanese LN V01–V14; V14 revision 1.4, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Elinalise evidence routes
+
+Current revision1.4 admits locked Japanese V01–V14, based on audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d` plus complete V14. Earlier scope/count statements below are historical snapshots; the appended V14 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.3 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -77,5 +79,20 @@ Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrosp
 | 004 | No new reputation/kinship concealment trigger. Wedding family participation does not retrospectively remove past fear. |
 | 005 | ST11–12 (019/028) marriage and continued work/study extend chosen bond; lifelong fidelity and lifespan effects remain forecast, not tested outcome. |
 | 006 | ST11–12 (018–019) social fluency and mediation coexist incomplete access to private terms; no invented Cliff drug dialogue. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V14 additions for revision 1.4
+
+[V14 observations](../../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST13–ST14 and checks V20–V22. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 14 states and 22 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST14 (014/019–022) travel skill, tactical runner explanation and continued resistance substantiate practical aid; cannot secure escape alone. |
+| 002 | ST13 (005) retrospective bodily compulsion and exploitation do not mean universal present availability or erase distinctions among harm, punishment and chosen intimacy. |
+| 003 | ST13–14 (005/012/019) requests careful decision space around history/Zenith comparison and restrains/redirects Cliff; aid does not make every delay automatically warranted. |
+| 004 | ST13 historical withholding (005) extends reputation concern with hope/Zenith/grief considerations, not a new denial of Syl kinship. Cliff already informed before wedding; Syl remains uninformed about this history. |
+| 005 | ST13–14 (005/012/014/022) informed commitment and practical care reinforced; curse, memories and long-term prospects remain unresolved. |
+| 006 | ST13–14 measured historical explanation, urgent restraint and runner persuasion (005/012/019–022) vary by situation; no permanently carefree or all-knowing mediator. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

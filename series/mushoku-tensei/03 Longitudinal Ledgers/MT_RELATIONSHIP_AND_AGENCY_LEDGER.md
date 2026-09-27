@@ -4,7 +4,7 @@ artifact_id: MT_RELATIONSHIP_AND_AGENCY_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.13"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V13 only; prior history preserved, V13 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V14 only; prior history preserved, V14 updates; publication/audit separate."
 ---
 
 # Relationship and agency ledger
@@ -405,3 +405,37 @@ Prior V01–V12 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-R-241` / remembered Paul / Ruijerd → present interpretation | Letter/memory/attributed teaching inform gift, parenting and training. |011/022/036–037; no current speech, approval or new encounter invented. |
 
 Shared rows indicate a particular exchange, not identical motives or power. Independent work is not dated to the moment Rudeus learns of it. Every plan remains distinct from its later realization.
+
+
+## V14 updates — 2026-09-27 UTC
+
+Prior V01–V13 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V14; immutable input audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d`. Observation suffixes resolve in [V14](../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V14-`. The targeted V14 testimony/agency checkpoint is new; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Record / direction | V14 exchange / information | Limit / next test |
+| --- | --- | --- |
+| `MT-R-242` / Sylphiette → Nanahoshi / Ariel | Prior care facilitates visit; continued health donation costly. |001/010–011; not reducible to R initiative or absence of jealousy. |
+| `MT-R-243` / Rudeus ↔ Roxy | Comfort promised, home role explained/agreed, return welcome. |002/015/026; racial exclusion persists, agreement specific. |
+| `MT-R-244` / Elinalise → family / Rudeus | Reveals old rescue/history and reasons for delay. |005; Cliff already knew, Syl remains uninformed; Zenith comparison not cure promise. |
+| `MT-R-245` / Perugius → researchers | Teaches taxonomy/technique and allows qualified access. |003/006/024; limits, unexplained tests and prejudice remain. |
+| `MT-R-246` / Rudeus → Nanahoshi | Food, listening, expedition and modest reciprocal proposal. |007/013/023; respect for different homeward aim, not romantic acquisition. |
+| `MT-R-247` / Rudeus ↔ Sylphiette | Reassures fear, assigns home role, seeks/receives comfort. |009–011/015/022; protest/startle and particular returned embrace both matter. |
+| `MT-R-248` / Roxy → household / expedition | Manages work/absence logistics and continues home care. |011/015; active contribution outside castle center. |
+| `MT-R-249` / Cliff ↔ Perugius | Challenges limited aid under overwhelming power. |012; no equal bargaining position, El restrains confrontation. |
+| `MT-R-250` / companions → Rudeus / Nanahoshi | Volunteer skills, travel, protection and help; Ariel offers rings. |014–022; own purposes, rings unused and rescue contingent. |
+| `MT-R-251` / Rudeus → Nokopara | Hires useful former exploiter while withholding identity. |016; pragmatic contact not explicit forgiveness or repaired history. |
+| `MT-R-252` / Cliff → Kishirika → Nanahoshi | Unsolicited charity leads to requested medicine knowledge. |017; identity unknown at first, reciprocity not initial guaranteed payoff. |
+| `MT-R-253` / Moore / Atofe → visitors | Useful plant aid precedes coerced binding reward. |017–018; help cannot validate undisclosed terms. |
+| `MT-R-254` / Zanoba ↔ Rudeus | Protects master, receives electric rescue, risks injury. |019–021; courage, dependence and technique collective. |
+| `MT-R-255` / Zanoba / Rudeus → Kishirika / guards | Kishirika freed then thrown as distraction; guards' appeals passed over. |019–020; instrumental action/limited solidarity retained. |
+| `MT-R-256` / Elinalise ↔ Cliff | Restrains, reframes runner role, later guides impaired eye user. |012/019/022; reciprocal chosen bond, no completed curse solution. |
+| `MT-R-257` / Perugius → expedition | Rescues after enemy intrusion, closes route. |021; not requested by Cliff, selective help driven partly by revenge. |
+| `MT-R-258` / Cliff → injured companions | Heals burns after dangerous escape. |022; care competence, new eye simultaneously creates dependency. |
+| `MT-R-259` / Zanoba / Julie → Perugius / Ruijerd representation | Craft and discussion win narrow figurine permission. |024–025; Julie authorship, host debt, no general demon acceptance or actual sales yet. |
+| `MT-R-260` / Ariel ↔ Perugius / Rudeus | Royal test and partial citizen answer. |026; desired political support not guaranteed. |
+| `MT-R-261` / Hitogami → Rudeus | Counterfactual guilt redirects renewed trust toward cellar instruction. |028; claim not verified; narrative dread strengthens suspicion. |
+| `MT-R-262` / elder visitor → young Rudeus | Warns, supplies journal/identifiers and contested advice; dies. |029–032; local corroboration uneven, no blanket future certainty. |
+| `MT-R-263` / wives → Rudeus → household | Offer shared burdens; receive concealment and locked doors. |033; protection does not substitute for requested openness. |
+| `MT-R-264` / Rudeus → Eris | Begins letter after revised understanding. |031/034; content/sending/reception unshown; elder consent assurance not agreement. |
+| `MT-R-265` / Eris ↔ Nina / Gino / Gal | Distinct aims, adaptive win, rank, intended departure and peers' renewed training. |035–036; no present R reunion or actual Orsted victory. |
+
+The elder's reported future relations are not silently merged into current directed edges. Earlier freezes retain knowledge ceilings, and future diary content remains unadmitted through V14.

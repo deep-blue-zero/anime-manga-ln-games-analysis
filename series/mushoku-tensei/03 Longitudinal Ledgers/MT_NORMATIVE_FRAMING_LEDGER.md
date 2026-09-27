@@ -4,7 +4,7 @@ artifact_id: MT_NORMATIVE_FRAMING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.13"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V13 only; prior history preserved, V13 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V14 only; prior history preserved, V14 updates; publication/audit separate."
 ---
 
 # Normative framing ledger
@@ -479,3 +479,36 @@ Prior V01–V12 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-NC-073` | Narrated independent activity versus protagonist's delayed awareness. |002/014/024/026/032/034–037; knowledge correction not origin of others' agency. |
 
 Marital material treated non-graphically. Character health explanations remain attributed literary evidence, not medical guidance. The author-profile tolerance statement does not resolve specific consent or power questions.
+
+
+## V14 updates — 2026-09-27 UTC
+
+Prior V01–V13 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V14; immutable input audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d`. Observation suffixes resolve in [V14](../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V14-`. The targeted V14 testimony/agency checkpoint is new; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Record | Conduct / affected-person access | Framing, outcome and limit |
+| --- | --- | --- |
+| `MT-N-197` | Roxy excluded categorically from castle. |002; comfort and later household agreement do not remove externally constrained choice. |
+| `MT-N-198` | El discloses compulsion, assaults, punishment/exploitation and concealed past. |005; distinguish causal explanation from exculpation and present chosen intimacy; no graphic detail. |
+| `MT-N-199` | Syl fears blame, gives health for four days; R reassures and helps. |010–011; costly care self-initiated, not proof no jealousy or infinite obligation. |
+| `MT-N-200` | Cliff contests refusal of aid; host offers limited suspension and invokes power. |012; duty argument and patron's limits both represented, power no moral verdict. |
+| `MT-N-201` | R listens to Nana's wish and organizes return-help despite different desired home. |013–014; respect can be practical without shared preference or cure. |
+| `MT-N-202` | Wives remain home under mixed spoken consent and R's speculation/protective assignment. |015; Roxy actually agrees, Syl's supposed motives not her direct speech. |
+| `MT-N-203` | Cliff feeds unknown beggar and chooses patient aid as reward. |017; represented charity qualifies R suspicion, does not make all future judgments infallible. |
+| `MT-N-204` | Atofe extracts assent before revealing binding service, then ignores refusal. |018; comic presentation cannot establish informed voluntary agreement. |
+| `MT-N-205` | Escape prioritizes own family, uses Kishirika instrumentally, attempts lethal force and injures allies. |019–021; legitimate escape aim does not erase other persons/costs; kills unconfirmed. |
+| `MT-N-206` | Perugius rescues through boundary defense/revenge; extends narrow Ruijerd exception. |021/025; help genuine but selective, group prejudice remains. |
+| `MT-N-207` | Nana fears unpayable debt; R proposes small future reciprocal aid. |023; continuing agency/return wish retained, no purchased marriage/residence. |
+| `MT-N-208` | Hitogami uses unverified counterfactual to intensify guilt and obtain assent. |028; manipulation reading supported by sequence, full causal claim not independently proved. |
+| `MT-N-209` | Elder assumes wives' assent and prescribes Eris relationship. |031; gendered advice attributed, no present informed agreement by affected people. |
+| `MT-N-210` | R lies to concerned wives and locks family rooms while checking warning. |033–034; precautionary aim and credible risk do not erase unilateral restriction/information loss. |
+| `MT-N-211` | Eris plans self-sacrifice, declines further title route, peers continue training. |035–036; love/achievement not proof self-loss is required or universally good. |
+
+| Contrast | V14 longitudinal test | Result / next opportunity |
+| --- | --- | --- |
+| `MT-NC-074` | Aid and gratitude versus dependence, racial exclusion and forced contract. |002/012/018/021/023–025; assistance expands or restricts options according to actual terms. |
+| `MT-NC-075` | Family protection versus consultation and bodily/information autonomy. |015/022/031/033; affection and hypothetical consent cannot stand in for present voice. |
+| `MT-NC-076` | Powerful testimony versus verifiable proposition and attributed value judgment. |028–034; risk response can be warranted before universal certainty, but advice still contestable. |
+| `MT-NC-077` | Collaborative care versus total self-reliance counsel. |013–023/031–032; help repeatedly enables agency; elder regret not final narrative prescription. |
+| `MT-NC-078` | Successful escape/training versus collateral cost and independent purpose. |019–022/035–036; result alone not normative vindication. |
+
+Health and compulsion material is literary evidence, non-graphic and attributed. Analyst value judgments are separated from narrator/speaker beliefs; no universal diagnosis or redemption verdict follows.

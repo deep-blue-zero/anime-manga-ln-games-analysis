@@ -4,19 +4,21 @@ artifact_id: MT_SYLPHIETTE_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
-source_boundary: "Japanese LN V01–V13; V13 revision 1.5, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "eece6816d98e076847e65507bc9e83d03b1ed77d"
+source_boundary: "Japanese LN V01–V14; V14 revision 1.6, historical IDs and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Sylphiette evidence routes
+
+Current revision1.6 admits locked Japanese V01–V14, based on audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d` plus complete V14. Earlier scope/count statements below are historical snapshots; the appended V14 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.5 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -102,5 +104,21 @@ Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrosp
 | 005 | ST17 continuing work/grades/politics (020/028) does not repeat recruitment dilemma; Ariel affiliation not silently ended by marriage or motherhood. |
 | 006 | No new displacement-blame assault trigger; ordinary household discussions cannot count as successful restraint test. |
 | 007 | No repeated invitation-to-subordinate coercion trigger; her welcome/hat gift (023) is a different decision context. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V14 additions for revision 1.6
+
+[V14 observations](../../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST19–ST20 and checks V29–V31. The [model](RECONSTRUCTION_MODEL.md) owns 7 rules, 20 states and 31 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST19–20 (020/026) learned Disturb Magic helps R, but he performs current combat use. Her earlier practice is credited, no invented current fight participation. |
+| 002 | ST19–20 (001/009–011/015/022/026/033) care extends to Nana and R, with jealousy, bodily cost and separate Ariel service; not total self-erasure. |
+| 003 | ST19 fear of being blamed for collapse (010) is a near analogy for relational fear, not delayed-name trigger; she directly asks for openness at end. |
+| 004 | ST19–20 (009/015/022/033) fear, objections and comfort coexist. Startled initial resistance to embrace, eventual reciprocation and later support must remain event-specific. |
+| 005 | ST20 return to Ariel work (026) does not replicate recruitment dilemma; motherhood and temporary childcare assignment have not terminated service. |
+| 006 | No new displacement-cause blame attack. Her own fear of accusation during Nana collapse (010) is different and cannot count as replication. |
+| 007 | No subordinate-invitation coercion trigger. Agreeing to remain home under R reasoning (015) is not independent endorsement of universal hierarchy. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

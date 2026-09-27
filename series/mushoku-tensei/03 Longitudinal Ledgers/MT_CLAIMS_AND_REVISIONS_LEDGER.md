@@ -4,7 +4,7 @@ artifact_id: MT_CLAIMS_AND_REVISIONS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.13"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V13 only; prior history preserved, V13 updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V14 only; prior history preserved, V14 updates; publication/audit separate."
 ---
 
 # Claims and revisions ledger
@@ -335,3 +335,28 @@ Prior V01–V12 bodies remain historical and unchanged. Current boundary: Japane
 | `MT-CR-171` / `MT-C-015` | Completion plural → settled routines, graduation and experiment finish different tasks while opening others. | REVISE;022–033/037; no perfect family, full recovery or universal skill completion. |
 
 Discriminating next opportunities: costly consultation before action, recognition of independent work, respected inconvenient refusal, confirmed expert knowledge and specific repair without renewed entitlement. These are prospective questions, not scored forecasts. C001–015 retained; no new master claim created for volume count.
+
+
+## V14 updates — 2026-09-27 UTC
+
+Prior V01–V13 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V14; immutable input audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d`. Observation suffixes resolve in [V14](../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V14-`. The targeted V14 testimony/agency checkpoint is new; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Revision / claim | Prior → V14 formulation | Transition / evidence / limit |
+| --- | --- | --- |
+| `MT-CR-172` / `MT-C-001` | Task-specific capacity → practiced technique helps, overwhelming power/time travel still cannot guarantee protection. | REVISE;020–024/032/036; elder abilities not present R competence. |
+| `MT-CR-173` / `MT-C-002` | Care/harm coexist → rescue and reassurance share context with collateral injury and restriction. | REVISE;010–015/020/033; outcome does not decide permission. |
+| `MT-CR-174` / `MT-C-003` | Access corrects self-account → corroboration raises particular testimony without making it omniscient. | REVISE;013/017/028–034; identity, accuracy and advice are different questions. |
+| `MT-CR-175` / `MT-C-004` | Original refusal remains real and bounded. | PRESERVE;031/033; anticipated new consent cannot rewrite earlier refusal. |
+| `MT-CR-176` / `MT-C-005` | Household injury/protection distinct → feared loss motivates both practical care and unilateral secrecy. | REVISE;015/026/030–034; reported future deaths not present events. |
+| `MT-CR-177` / `MT-C-006` | Original forced separation necessity remains unproved. | PRESERVE;035–036; later achievement does not establish causal necessity of coercion. |
+| `MT-CR-178` / `MT-C-007` | Independent purpose → helpers, wives, host, political actors and trainees retain divergent goals. | STRENGTHEN;001–026/035–036; no universal alignment with R. |
+| `MT-CR-179` / `MT-C-008` | Distributed learning → prior technique transfers, procedure and judgment are revised locally. | STRENGTHEN;006/013/017/020/027/034/036; durability and other domains untested. |
+| `MT-CR-180` / `MT-C-009` | Proposition-level status → current action, counterfactual, future testimony and hearsay need distinct handling. | REVISE;028–036; greater narrative force does not collapse epistemic layers. |
+| `MT-CR-181` / `MT-C-010` | Search success with unresolved causes → Hitogami trust materially weakens; displacement/cure mechanisms still open. | REVISE;003/005/028–034; one corroborated warning not total causal explanation. |
+| `MT-CR-182` / `MT-C-011` | Recognition/debt → help enables reciprocity, narrow exception or coercive service depending on terms. | REVISE;017–018/023–025; debt does not purchase agency. |
+| `MT-CR-183` / `MT-C-012` | Plural aid → continuing tea and rescue improve conditions without permanent cure or restored losses. | REVISE;021–023/032; dependency may continue. |
+| `MT-CR-184` / `MT-C-013` | Institutions constrain options → racial gates, patronage, binding service and household authority shape choice. | STRENGTHEN;002/012/015/018/025/033; willingness must be specific. |
+| `MT-CR-185` / `MT-C-014` | Responsibility requires knowledge/means → R tests warning but does not share full information. | REVISE;027–034; precaution and consultation are separately assessable. |
+| `MT-CR-186` / `MT-C-015` | Completion plural → successful rescue opens ongoing treatment; diary/letter begin unfinished work. | REVISE;023/027/034/036; no new life or reunion completed. |
+
+No new master claim. The disclosure checkpoint sharpens these existing claims. Next tests concern specific corroboration, inclusion of affected people, consultation with Nana and direct Eris contact. These remain prospective questions with prior exposure declared.

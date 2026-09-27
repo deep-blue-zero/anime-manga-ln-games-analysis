@@ -1,21 +1,23 @@
 ---
-title: "Rudeus — reconstruction evidence routes through V13"
+title: "Rudeus — reconstruction evidence routes through V14"
 artifact_id: MT_RUDEUS_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
-source_boundary: "Japanese LN V01–V13; V13 revision 1.10, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "eece6816d98e076847e65507bc9e83d03b1ed77d"
+source_boundary: "Japanese LN V01–V14; V14 revision 1.11, historical IDs and tests preserved; publication/audit separate."
 ---
 
 # Evidence routes for the bounded Rudeus model
+
+Current revision1.11 admits locked Japanese V01–V14, based on audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d` plus complete V14. Earlier scope/count statements below are historical snapshots; the appended V14 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.10 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -184,5 +186,23 @@ Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrosp
 | 007 | No new Ruijerd encounter. His teaching appears through Eris (036), unavailable to R; no new R reciprocity test. |
 | 008 | ST47–48 (004/009/015/032) requires authority limits: others research not his to grant, Norn unconsulted in club rules, later workload objection corrected. Collaboration and consultation remain selective. |
 | 009 | ST47–49 (007/010–012/025/029–032) separates comic speculation, diagnosis guess, rumor and inference from learned correction. Self-correction cannot retroactively turn earlier guesses into facts. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V14 additions for revision 1.11
+
+[V14 observations](../../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST50–ST52 and checks V74–V79. The [model](RECONSTRUCTION_MODEL.md) owns 9 rules, 52 states and 79 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST50–52 (006/013/020/024/027/032/034) supplies learned counter-magic, device use, diary and a concrete test. Power/time travel fail to restore everything; elder abilities are not young R skills. |
+| 002 | No comparable sustained teaching opportunity. Nanahoshi consultation and Perugius lessons reverse or change the role; do not score this rule from general helpfulness. |
+| 003 | ST51–52 (015/018/033) contrasts failed negotiation under threat with concealed danger and locked family rooms. Protection may motivate unilateral management; coercive contract acceptance is not informed agreement. |
+| 004 | ST51 (018–022) fear under overwhelming force disrupts speech/action; companions and learned tools restore limited agency. ST52 credible family threat differs from bereavement already experienced. |
+| 005 | ST50–52 (010–015/022–023/026–027/033) supplies reassurance, practical empathy and reciprocal care, alongside restricted consultation and collateral harm. Caring response does not settle permission. |
+| 006 | Atofe blocks his own return to family (018–021), a NEAR_ANALOG rather than exact Eris safe-return trigger. His lethal ice attempt and abandonment of guards appeals cannot imply every option was exhausted. |
+| 007 | No present Ruijerd encounter. Historical debt/figurine concession (025) belongs host and Zanoba; no new R shared-exclusion test. |
+| 008 | ST50–52 (014–015/019–023/033) contains real divided work, accepted advice and dependence on others; wife reassignment and final household secrecy limit claims of generalized consultation. |
+| 009 | ST50–52 (003/013/017/027–034) distinguishes revised guesses, self-ownership language, manipulation by detailed counterfactual and tentative testimony testing. Private identifiers/rat corroborate specific propositions, not omniscient future knowledge. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.

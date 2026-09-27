@@ -1,22 +1,24 @@
 ---
-title: "Nanahoshi — bounded Japanese LN reconstruction through V13"
+title: "Nanahoshi — bounded Japanese LN reconstruction through V14"
 artifact_id: MT_NANAHOSHI_EVIDENCE_INDEX
 artifact_type: character_evidence_index
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-26"
-basis_commit: "e1018971ce195163277565ca1e4e7e298332bb21"
-source_boundary: "Japanese LN V01–V13; V13 revision 1.3, historical IDs and tests preserved; publication/audit separate."
+basis_commit: "eece6816d98e076847e65507bc9e83d03b1ed77d"
+source_boundary: "Japanese LN V01–V14; V14 revision 1.4, historical IDs and tests preserved; publication/audit separate."
 recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # Nanahoshi evidence routes
+
+Current revision1.4 admits locked Japanese V01–V14, based on audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d` plus complete V14. Earlier scope/count statements below are historical snapshots; the appended V14 section owns current applicability. No earlier state acquires later knowledge.
 
 Current revision1.3 admits locked Japanese V01–V13, based on audited V12 `e1018971ce195163277565ca1e4e7e298332bb21` plus complete V13. Earlier scope/count statements below are historical snapshots; the appended V13 section owns current applicability. No earlier state acquires later knowledge.
 
@@ -63,5 +65,20 @@ Global IDs remain null, LN_JP continuity only, BOUNDED_PROVISIONAL and retrospec
 | 004 | ST10 (031/033) supplies specific guest/invitation rules and proposed contact; partial opening not universal waiver of boundaries or independently verified origin. |
 | 005 | No new shared-origin causal-blame confrontation. Rebuking R at duel (030) is an ordinary normative disagreement, not replicated displacement apology. |
 | 006 | No new perceived terminal project failure. ST09–10 symptoms and fruit joy (029/031) cannot be scored as relapse/cure of ST05 distress. |
+
+Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
+
+## V14 additions for revision 1.4
+
+[V14 observations](../../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings) support new selectors ST11–ST12 and checks V17–V19. The [model](RECONSTRUCTION_MODEL.md) owns 6 rules, 12 states and 19 checks. Prior route tables keep their historical ceilings.
+
+| Rule | New evidence route / constraint |
+| --- | --- |
+| 001 | ST11–12 (006–007/011/013/023) studies while longing for home; serious disease despite precautions and treatment dependence qualify endurance. This world remains an unwanted permanent destination. |
+| 002 | ST11–12 (001/006/023) gratitude and reciprocal consultation extend collaboration beyond immediate experiment; rescue does not purchase her continued residence or romance. |
+| 003 | No new preliminary experiment failure. Illness/hospitality cannot score perseverance in same experimental trigger. |
+| 004 | ST11–12 (013/023) discloses bodily precautions and personal home ties under distress; selective openness does not waive research/privacy boundaries universally. |
+| 005 | ST11 account (013) clarifies why shared origin does not mean shared reason to remain; not renewed culpability accusation or apology. |
+| 006 | ST11 fear/tears under illness (013) are not the earlier perceived terminal experiment-failure trigger. Tea permits continued activity but does not prove psychological or permanent physical cure; future failure only elder report. |
 
 Global IDs remain null, LN_JP only, BOUNDED_PROVISIONAL; prior tests are retrospective fitting. Absent equivalent triggers are UNTESTED, not successful predictions.
