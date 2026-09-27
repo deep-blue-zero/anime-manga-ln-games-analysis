@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–019; BA:main:003:003:020 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–020; BA:main:003:003:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1041,3 +1041,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **SENSEI ↔ HINA:** Hina admits exhaustion, comparison to Hoshino and wanting recognition; Sensei thanks/apologizes and permits rest. She retracts “retirement,” rejoins Ako and waits for direction. No proof wounds healed or her need fully resolved.
 - **SENSEI/HIFUMI ↔ TRINITY/GEHENNA ALLIES:** Justice/Prefect actors assemble around them; tag inversions obscure some exact lines, and arrival is not a signed peace agreement.
 - **AZUSA/SAORI ↔ JUSTINA/ETO:** Saori's claim of endless guardians is challenged by Sensei's rival ETO declaration and reported control confusion; no finished side-switch or surrender.
+
+## V003 C003 E020 relationship delta — accepted help across schools
+
+- **HINA ↔ HASUMI/TSURUGI/CHINATSU/IORI:** Hina sets a western task, Iori accepts, Hasumi offers Justice aid and Tsurugi is present; Hina agrees. Hasumi recalls prior joint work with Chinatsu without naming its exact earlier scene here.
+- **HINA ↔ HOSHINO/SERIKA:** Hoshino offers Abydos help, requests name rather than title; Serika points out Hoshino's reciprocal title habit. Hina accepts their help but no deep personal exchange or battle result occurs.
+- **SENSEI ↔ COALITION:** Sensei is not directly heard in E020. The students' assent should not be retroactively turned into an explicit order from Sensei.
+- **AZUSA ↔ HIFUMI/SAORI:** not directly advanced in this short unit; E019 acceptance/confrontation remain open.

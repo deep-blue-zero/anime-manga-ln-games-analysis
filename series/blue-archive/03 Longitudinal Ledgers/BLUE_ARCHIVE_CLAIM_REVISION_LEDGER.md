@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–019; BA:main:003:003:020 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–020; BA:main:003:003:021 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E019 active provisional; E020 unopened
+current_sequential_boundary: MAIN_V003_C003_E020 active provisional; E021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2072,3 +2072,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID yet; chapter checkpoint should reconsider the ETO/narrative-agency pattern. No new subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E020 unopened.
+
+## V003 C003 E020 claim delta — cooperation, not completed treaty
+
+- **BA-C001/C016 — QUALIFY:** Hina and peers coordinate directly; no fresh Sensei command or adult monopoly over tactical agency appears.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/QUALIFY:** Gehenna Prefects, Trinity Justice and Abydos committee members agree to a local maneuver. This improves E018's general rapprochement claim but does not establish a signed treaty, lasting ceasefire, lawful ETO replacement or enemy defeat.
+- **BA-C008 — STRENGTHEN:** Hina's “center opened” is an actor report; Hasumi's prior joint-work allusion, accepted aid and reciprocal name/title banter are direct social evidence; destination and combat outcome are unprinted.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E021 unopened.

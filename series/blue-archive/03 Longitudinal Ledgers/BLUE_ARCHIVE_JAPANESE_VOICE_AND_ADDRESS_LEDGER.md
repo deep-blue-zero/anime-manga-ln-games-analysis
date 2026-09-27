@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–019; BA:main:003:003:020 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–020; BA:main:003:003:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1445,3 +1445,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Hina `もう引退したと思って` is her distressed request; `言ってみただけ`/`甘えてみたかった` retract it. `構ってほしかった、褒められたかった` directly names a care need, not a formal job change. Sensei's joking remedial/swimsuit offers do not enact either.
 - `u:0156-0202` alternates generic `ナレーション` with “Hifumi”/“Remedial Club” headers and first-person content; the `私たちの物語` declarations are Hifumi-perspectival, not a normal uninterrupted audible monologue or guaranteed reality control.
 - `雨雲`/`奇跡`/`気象の操作` are perception/questions. Sensei `心の声` ETO declaration is apparently reacted to, a representation anomaly; Seia's `代行すると？`/`再現した……？` and Hiyori's two-ETO gloss are conjectural. Misaki `統制がおかしくなってる` is a direct tactical report. Fourteen choice groups, 002/009/014 with alternatives; scene 2 `u:0001` is E020 title only.
+
+## V003 C003 E020 delta — names across a tactical coalition
+
+- Hina `真ん中は開けた` reports a lane state, and `私たちは西の方を` assigns direction; no transcript of the breach. Hasumi `私も手伝います`, Hoshino `私たちも手伝う` and Hina `よろしく` make the local aid agreement direct.
+- Hasumi `あの時以来` alludes to earlier shoulder-to-shoulder Chinatsu contact without identifying an exact incident in this unit. Tsurugi laughter plus Iori's `正義実現委員長` gives clear presence but no medical discharge line.
+- Hina addresses Hoshino `アビドスの副会長`, Hoshino asks for `ホシノ` while saying `風紀委員長ちゃん`, and Serika notices the asymmetry; this is address comedy, not proof either forgot the other's identity.
+- `行こう`/collective `了解っ` marks commencement/assent, not arrival or victory. No Sensei choices; scene 2 `u:0001` is E021 title only.

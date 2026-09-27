@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–019; BA:main:003:003:020 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–020; BA:main:003:003:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -851,3 +851,7 @@ Hasumi and Tsurugi respond directly and Tsurugi can move after E016 grave report
 ## V003 C003 E019 institutional delta — coalition presence, contested ETO designation
 
 Abydos's five committee students directly join Hifumi and Justice/Prefect allies appear. Their masked-group rank/boast language is comic solidarity, not a formal Schale military roster or permanent Faust criminal command. `u:0082-0090` label inversions prevent secure Hasumi/Tsurugi healing and Prefect question attribution. Hina appears after absence, explicitly retracts a temporary “retired” statement, reunites with Ako and says to await Sensei's instructions; no recorded resignation, full recovery or field victory. Hifumi addresses Azusa and a narration-tagged manifesto claims the friends' chosen story; no final protection outcome. Sensei inwardly declares a new ETO. Seia theorizes Schale/presidential proxy and reproduced treaty circumstances, while Misaki reports Justina-control confusion and Hiyori attributes it to two ETO claimants. This is a real reported tactical disruption, not an inspected treaty, valid signatory authority, legal succession or verified covenant algorithm. Weather/miracle questions are not findings.
+
+## V003 C003 E020 institutional delta — local coalition maneuver
+
+Hina reports the center opened and assigns a western move, with Iori agreeing. Hasumi offers Justice aid, Chinatsu recognizes her, Tsurugi appears and Hina accepts; Hoshino offers Abydos committee aid and Hina accepts the group move. These are direct cross-school tactical agreements stronger than an abstract peace aspiration, but the text shows no signed treaty, ETO authority adjudication, completed westward engagement or stable truce. Hasumi/Chinatsu prior joint work is an allusion; Tsurugi's presence does not equal a medical clearance. No Sensei direct command in this unit, and E019's Justina disruption has no new technical measurement.

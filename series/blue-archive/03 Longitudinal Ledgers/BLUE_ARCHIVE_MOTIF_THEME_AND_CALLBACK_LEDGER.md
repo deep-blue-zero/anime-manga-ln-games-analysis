@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–019; BA:main:003:003:020 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–020; BA:main:003:003:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1199,3 +1199,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Hina permitted to rest:** the overworked protector's “retirement” resolves as a request to be seen and helped; Sensei's thanks and awkward offers address the person, not only the role. Her return is chosen, not extracted as automatic duty.
 - **Hifumi's story:** montage-form first-person resistance rejects Seia/Saori's predestined grim ending; it is a normative commitment to effort/friendship, not prophetic happy-end proof.
 - **Two ETOs, one unstable command:** Sensei's rival covenant performance appears to disturb Justina control, but exact law/ritual remains an actor theory. The mechanism uses the treaty's ambiguity against its captors without certifying Schale's legal supremacy.
+
+## V003 C003 E020 motif / callback delta — cooperation before a treaty
+
+- **Shoulder-to-shoulder becomes present tense:** Hasumi and Chinatsu recall prior side-by-side work, and Hina accepts Justice assistance now; relationship precedes constitutional settlement.
+- **Abydos as additional bridge:** Hoshino offers help beyond the Trinity–Gehenna dyad, making the local alignment practical rather than merely Seia's rhetoric.
+- **Office and name:** Hina/Hoshino exchange titles while Hoshino requests personal address; Serika's correction adds warmth without a grand reconciliation speech.
+- **Movement, not ending:** “center opened/west/go” advances the tableau one step but leaves E019's ETO validity, Justina control and all combat outcomes open.

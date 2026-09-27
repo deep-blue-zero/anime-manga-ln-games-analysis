@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–019; BA:main:003:003:020 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–020; BA:main:003:003:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -941,3 +941,7 @@ Sensei checks multiple injured students, thanks Sena for adult treatment, and pr
 ## V003 C003 E019 delta — supporting dreams under contested authority
 
 Sensei meets Hina, thanks her ongoing effort and tells her rest is allowed rather than insisting on a stronger protector ideal; Hina admits wanting praise and reenters coordination voluntarily. In the shared confrontation, Sensei witnesses Hifumi's direct refusal to abandon Azusa and inwardly announces a rival ETO. Seia proposes a Schale/federal-president proxy interpretation, while Misaki reports control disturbance; neither proves Sensei has lawful new treaty authority. Sensei's final choice defines adult duty as supporting students' own hoped-for future, not guaranteeing it through speech or replacing their agency. The body remains recently wounded, with no full medical clearance or final battle outcome. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E020 delta — students carry the next step
+
+Sensei has no direct new speech or choice. Hina, Iori, Hasumi, Tsurugi, Chinatsu and Abydos members openly agree on a local maneuver after E019's coalition formation. This is student tactical agency under an unresolved ETO claim, not proof Sensei's declaration is legally sufficient or that an adult command caused each decision. No completed rescue, enemy defeat or medical clearance is shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

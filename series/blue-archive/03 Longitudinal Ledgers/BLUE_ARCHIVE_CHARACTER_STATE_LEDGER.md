@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–019; BA:main:003:003:020 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–020; BA:main:003:003:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E020 character-state delta — local cross-school movement
+
+- **Hina/Iori:** Hina reports a center opening and directs a western move; Iori accepts. Hina agrees to Justice/Abydos assistance and leads movement without a new health report. Both `PARTIAL_MODEL`.
+- **Hasumi/Tsurugi/Chinatsu:** Hasumi offers aid and recalls prior shoulder-to-shoulder work with Chinatsu; Tsurugi is present and Iori recognizes the Justice chair. Co-presence does not certify full recovery. Hasumi/Tsurugi `UNMODELED`, Chinatsu `PARTIAL_MODEL`.
+- **Hoshino/Serika:** Hoshino offers Abydos support and playfully requests Hina use her name, while Serika notes Hoshino's own office-title address. No durable personal reconciliation or battle result. Hoshino/Serika `PARTIAL_MODEL`.
+- **Sensei/Seia/Saori/Azusa:** no direct new speech or action; E019 ETO and confrontation results remain open.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E019 character-state delta — Hifumi's refusal and Hina's return
 
