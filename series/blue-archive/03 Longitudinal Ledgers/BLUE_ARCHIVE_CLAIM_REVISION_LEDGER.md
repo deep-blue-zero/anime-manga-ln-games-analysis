@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–017; BA:main:003:003:018 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–018; BA:main:003:003:019 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E017 active provisional; E018 unopened
+current_sequential_boundary: MAIN_V003_C003_E018 active provisional; E019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2054,3 +2054,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E018 unopened.
+
+## V003 C003 E018 claim delta — shared help remains a plan
+
+- **BA-C001/C016 — STRENGTHEN:** Sensei responds to wounded allies and promises Hifumi/Hina help; Hifumi/Koharu/Hanako make the Azusa-support decision themselves. No completed search or medical clearance.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Seia narrates budding Trinity–Gehenna reliance and Justina advance, not verified treaty peace or a coalition operation. Azusa's renewed lethal intent does not establish achieved necessity or outcome. E016 formal Koharu bar remains despite Sensei's E017 praise.
+- **BA-C008 — STRENGTHEN:** E016 secondhand Hasumi/Tsurugi grave condition is updated by direct responsiveness; Ako's failed Hina contact differs from a discovered location. `u:0038-0039` is duplicate choice convergence and `u:0056-0057` inward-response anomaly.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E019 unopened.

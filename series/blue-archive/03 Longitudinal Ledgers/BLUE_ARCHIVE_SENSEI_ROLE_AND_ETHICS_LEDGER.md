@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–017; BA:main:003:003:018 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–018; BA:main:003:003:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -933,3 +933,7 @@ Sensei opens eyes and sits up, directly recognized by Serina, while Hanae warns 
 ## V003 C003 E017 delta — first post-waking intervention
 
 Sensei physically arrives at the Pater/Mika confrontation and asks for violence to stop; militants hesitate and leave locally. This is an achieved, narrow adult de-escalation, not general peace. Koharu had already refused abuse, and Sensei praises her conduct while she remains formally barred from Justice return, preserving agency without making the teacher a registrar. Sensei checks Mika, hears her uncertainty and later is recognized by multiple institutional parties; the final inward “leave it to me” accepts future burden without specifying or completing a plan. The source does not show medical clearance after E016, travel details, reconciliation of Mika/Seia/Nagisa or resolution of Pater's war drive. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E018 delta — supporting the student's plan
+
+Sensei checks multiple injured students, thanks Sena for adult treatment, and promises Ako a Hina search. In the remedial group, Sensei credits Hifumi's sustained leadership and offers to think/consult together rather than substituting a ready answer. Koharu and Hanako independently affirm Hifumi and join her Azusa-aid decision. The adult's assistance is agency-preserving and future-directed; no rescue, Hina discovery, medical clearance or system-wide peace is accomplished. Sensei's inward communication thought appears answered by Hifumi, a representation anomaly not needed to establish her direct resolve. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–017; BA:main:003:003:018 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–018; BA:main:003:003:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1428,3 +1428,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0036-0074` moves into apparent earlier Tea Party/Arius speech without a scene header; `セイアちゃんはここにいる`/`病院にでも` and Mika's inward believed-death reaction are not present-day body evidence. The exact flashback cut and speaker audience remain unmarked.
 - Mika `嫌いなものは嫌い` in E016 and `今でも嫌い` here coexist with `よく分かんない` about refusing a war order. Her `そうだった、はずなのに` marks doubt about her own rationalization rather than total motive certainty.
 - Seia `私は君のことを、分かったつもり` and `まだ…知らない` bracket her `君を許そう` as personal, tentative moral repair. The crosscut does not prove Mika hears it. Sensei `ここから先は、私に任せて` is inward future assumption of burden, not completed institutional order; `u:0110` is E018 title only.
+
+## V003 C003 E018 delta — choice convergence and support speech
+
+- Hasumi `危ういところ` and Tsurugi's reaction show responsiveness after E016 critical reports, not full healing. Sena `大人の治療は初めて`/`どうにかなって` marks a bounded care success; her dark corpse/injured slip is gag register, not death count.
+- Ako `部室にもおらず、連絡もつかなくて` extends Hina's location uncertainty. Sensei choice `任せて` is search commitment, not finding her.
+- Hifumi `普通の学生にできることなんて` is distressed self-doubt; Koharu `立ち位置なんて関係無い` rejects rank as a reason to abandon a friend. Sensei's two-option groups 010–012 converge. Koharu `u:0038` and `u:0039` are identical, not two separate attestations.
+- Sensei `心の声` `友達でも、言わないと伝わらない` is apparently answered at `u:0057`; retain direct Hifumi `はっきり言ってみせます` without inferring telepathy. Seia `向かう` names destination/trajectory, not shown completed arrival.
+- Azusa `刺し違えてでも`/`人殺しになる` remain prospective intent. One scene, twelve Sensei choice groups; `u:0080` is E019 title only.

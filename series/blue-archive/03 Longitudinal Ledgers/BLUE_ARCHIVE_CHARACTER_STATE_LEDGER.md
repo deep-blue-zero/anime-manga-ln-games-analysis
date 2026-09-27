@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–017; BA:main:003:003:018 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–018; BA:main:003:003:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E018 character-state delta — resolve to reach Azusa
+
+- **Sensei:** checks responsive Hasumi/Tsurugi and other injured allies, thanks Sena, promises Ako to seek Hina, and offers Hifumi help. Choices are bounded, not an accomplished search/rescue; injury clearance unshown. `PARTIAL_MODEL`.
+- **Hifumi/Hanako/Koharu:** Hifumi fears ordinary status leaves her powerless, then commits to help Azusa. Koharu insists loneliness matters regardless of rank; Hanako pledges to accompany. Koharu's duplicated line at `u:0038-0039` is choice convergence. Hifumi `PARTIAL_MODEL`, Hanako/Koharu `UNMODELED`.
+- **Hasumi/Tsurugi/Sena/Chinatsu/Ako/Iori:** Hasumi and Tsurugi respond despite earlier grave reports; Sena says adult treatment worked enough for this encounter. Chinatsu, Ako and Iori remain hurt/under care. Ako says Hina absent/unreachable, not recovered or dead. Sena/Hasumi/Tsurugi `UNMODELED`; Chinatsu/Ako/Iori `PARTIAL_MODEL`.
+- **Seia/Azusa/Saori:** Seia narrates convergence and advance, not a full audit. Azusa again declares willingness to kill/stop Saori; Saori vows revenge for Atsuko. No final duel result. All `UNMODELED`.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E017 character-state delta — the motive account stays plural
 

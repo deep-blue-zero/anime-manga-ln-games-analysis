@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–017; BA:main:003:003:018 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–018; BA:main:003:003:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1025,3 +1025,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **MIKA ↔ SEIA/NAGISA:** Mika apologizes to Seia and wants to meet both friends; Seia, in crosscut, admits she underestimated Mika and says she forgives her. This is not a delivered bilateral exchange or Nagisa's reconciliation.
 - **MIKA ↔ ARIUS/GEHENNA:** apparent recollection supplies an initial tea/friendship proposal for Arius, later possible anti-Gehenna instrumentalization and host rationale. Her present hatred remains but she declines militants' proxy command; neither feeling nor faction loyalty is settled.
 - **SENSEI ↔ TRINITY PARTIES:** Tea Party/Sisterhood/Justice voices recognize Sensei's reappearance, while Hanako/Marie/Koharu respond; their willingness to rely on Sensei is not a completed joint plan.
+
+## V003 C003 E018 relationship delta — friends re-form around Azusa
+
+- **HIFUMI ↔ AZUSA:** Hifumi says Azusa fights alone and repeats the “different place” exclusion, then commits to reach her and tell her directly she disagrees. No new face-to-face contact or accepted reply yet.
+- **HIFUMI ↔ KOHARU/HANAKO/SENSEI:** Koharu speaks from loneliness and refuses to abandon Azusa; Hanako pledges to accompany, and Sensei praises Hifumi's leadership/offers continued help. The group's plan is joint, not executed.
+- **SENSEI ↔ SENA/INJURED ALLIES:** Sensei thanks Sena for care, checks Hasumi/Tsurugi/Chinatsu/Ako/Iori and accepts Ako's request to look for Hina. Medical status and search result remain open.
+- **AZUSA ↔ SAORI:** a renewed direct challenge invokes Atsuko's injury and Azusa's willingness to kill; neither embraces the other or wins in the printed unit.
+- **SEIA ↔ TRINITY/GEHENNA:** she narrates growing mutual reliance, but no specific bilateral accord or Seia physical meeting is shown.

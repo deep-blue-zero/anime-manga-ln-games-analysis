@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–017; BA:main:003:003:018 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–018; BA:main:003:003:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1183,3 +1183,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Friendship before weaponization:** the apparent Tea Party recollection has Mika first imagine sharing tea with Arius, then consider power against Gehenna when pressed; a simple social hope and dangerous opportunism coexist.
 - **Unfinished fifth-rule practice:** Seia admits how little she knew of Mika after judging her; faith in another person's unknown inner truth becomes inquiry and forgiveness, not absence of accountability.
 - **Adult reappearance:** Sensei moves from E016 waking to an observed local de-escalation and a broad “leave it to me,” while systemic repair remains a future test.
+
+## V003 C003 E018 motif / callback delta — do not leave a friend alone
+
+- **From solitary plan to shared search:** E013's Azusa-imposed border meets Koharu's memory of exclusion and Hifumi/Hanako's decision to stay beside her. The group has not yet reached Azusa.
+- **Ordinary strength:** Hifumi's self-description as “ordinary” first constrains her, then Sensei and peers identify her sustained leadership as its counter-evidence; no supernatural capability is implied.
+- **Care as infrastructure:** Sena's adult-treatment success and responsive Hasumi/Tsurugi coexist with ongoing wounds and Hina's absence; care does not equal an instant restored command chain.
+- **Words across the border:** Hifumi resolves to state directly what Azusa needs to hear; the communication has not occurred, preserving the friendship question.
+- **Converging paths:** Seia names the ruined old cathedral for Squad, Azusa and Sensei while Justina advances by her account; convergence is anticipated, not battle resolution.
