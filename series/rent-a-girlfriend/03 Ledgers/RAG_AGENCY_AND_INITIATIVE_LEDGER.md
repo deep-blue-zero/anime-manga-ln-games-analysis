@@ -4,13 +4,13 @@ artifact_id: RAG_AGENCY_AND_INITIATIVE_LEDGER
 artifact_type: agency_initiative_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.36"
+version: "1.37"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; inspected and closed through V036."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; inspected and closed through V037."
 ---
 
 # Agency and initiative ledger
@@ -275,3 +275,11 @@ state: CURRENT_THROUGH_V033
 | RAG-AGY-225 | Chizuru | Accept or refuse a public event role and its local visibility. | Reschedules her nail appointment herself, helps Mini sell in costume, consents to event photographs, and asks Kazuya for his own assessment. | Exercises local choice amid commercial/public display. | This is no unlimited bodily or romantic permission; RAG-E-V036-003 through RAG-E-V036-005. |
 | RAG-AGY-226 | Kazuya and Chizuru | Wait for the housing deadline or directly schedule private time. | He asks aloud for a non-rental date; she offers May 17 and enters it in her calendar. | Both exercise initiative toward a bounded inquiry occasion. | Date and verdict remain future; RAG-E-V036-006 through RAG-E-V036-010. |
 | RAG-AGY-227 | Kazuya | Attend to a kitchen mishap while controlling his gaze. | Helps with spilled beans while privately panicking over Chizuru's clothes and body. | Practical action and sexualized interiority coexist. | His desire grants no access; RAG-E-V036-012. |
+
+## V037 close additions
+
+| RAG-AGY-228 | Chizuru | Interpret the date and manage her own uncertainty. | Tells Mini feelings cannot be switched on, bats privately, and later decides at Sayuri's grave to attend. | Keeps the inquiry and its pace in her own hands. | No final answer; RAG-E-V037-001, RAG-E-V037-006. |
+| RAG-AGY-229 | Chizuru and Kazuya | Specify a shared date activity. | He asks what she wants; she requests a normal date and sends a hotpot preference. | Replaces unilateral guessing with a communicated taste. | His researched restaurant is not jointly chosen; RAG-E-V037-003, RAG-E-V037-005. |
+| RAG-AGY-230 | Kazuya | Choose between peer sexual script and first-date restraint. | Hears Kuri's advice, buys condoms, imagines escalation, but recognizes this is the first unpaid date. | His actual purchase is a private contingency. | Chizuru has not consented to sex; RAG-E-V037-004. |
+| RAG-AGY-231 | Mini and Kazuya | Rehearse ordinary conversation. | Eat hotpot together and discuss taste, plans and overmanagement. | Mini's coaching gives him a practical test. | The rehearsal is not Chizuru's date; RAG-E-V037-007. |
+| RAG-AGY-232 | Chizuru and Kazuya | Agree where and when to depart. | She suggests leaving from their shared home; he says 9 a.m. and she accepts, saying she looks forward to it. | A concrete bilateral condition displaces his uncertain meeting point. | The date remains future; RAG-E-V037-010. |

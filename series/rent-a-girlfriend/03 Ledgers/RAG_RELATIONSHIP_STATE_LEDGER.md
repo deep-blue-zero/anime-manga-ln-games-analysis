@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.36"
+version: "1.37"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; inspected and closed through V036."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; inspected and closed through V037."
 ---
 
 # Directed relationship state ledger
@@ -243,3 +243,11 @@ state: CURRENT_THROUGH_V033
 | RAG-REL-193 | Chizuru ↔ Mini / Kazuya | Housemates in Mini's sales event | Chizuru chooses to help in costume; Kazuya works the booth and tells her she was cutest there. | Shared unpaid labor and direct personal praise. | Event photos and conditional happiness do not create couple status; RAG-E-V036-003 through RAG-E-V036-005. |
 | RAG-REL-194 | Chizuru ↔ Kazuya | Temporary housemates, inquiry open | He asks for a non-rental date; she proposes May 17 and calendars it; his planned move is May 18. | New mutually scheduled private outing before an explicit housing boundary. | The date is future and no verdict has been given; RAG-E-V036-006 through RAG-E-V036-010. |
 | RAG-REL-195 | Chizuru ↔ Kazuya / Mini | Housemates with unequal bodily information | Mini raises a private physical observation; Kazuya becomes flustered during an ordinary kitchen spill. | Shows continued intimacy pressure and privacy difference in shared space. | Chizuru's presence is not consent to inspection; RAG-E-V036-012. |
+
+## V037 close additions
+
+| RAG-REL-196 | Chizuru ↔ Kazuya | Housemates with scheduled unpaid date | She asks for an ordinary occasion and gives a hotpot preference after his question. | Date design becomes partly reciprocal. | No final relationship classification; RAG-E-V037-003, RAG-E-V037-005. |
+| RAG-REL-197 | Chizuru ↔ Kazuya | Prospective date partners | She proposes leaving from home and accepts 9 a.m.; he updates his notes. | Practical shared start honors existing cohabitation. | Outing and May 18 move remain future; RAG-E-V037-010. |
+| RAG-REL-198 | Kazuya ↔ Mini | Friend and planning coach | Eat hotpot and discuss what an ordinary conversation might require. | Support shifts from cheering to rehearsal. | Mini is not the date partner or inquiry judge; RAG-E-V037-007. |
+| RAG-REL-199 | Kazuya ↔ Kuri | Friends discussing dating | Kuri offers sexual theories; Kazuya's mind races and he buys condoms. | Peer script competes with actual first-date evidence. | No Chizuru consent is conveyed; RAG-E-V037-004. |
+| RAG-REL-200 | Mami ↔ principals | Prior contact, presently separate | Appears at another location in the final main-story cut. | Reintroduces her to reader attention. | No direct interaction, knowledge, or motive established; RAG-E-V037-011. |

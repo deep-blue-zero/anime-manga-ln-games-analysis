@@ -4,13 +4,13 @@ artifact_id: RAG_KAZUYA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.37"
+version: "1.38"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; character evidence inspected through V034."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; character evidence inspected through V037."
 ---
 
 # Kazuya Kinoshita evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 木ノ下和也
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V036
+inspected_through_volume: V037
 local_readiness: OPERATIONAL_CANDIDATE
 ~~~
 
@@ -212,6 +212,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAZ-E172 | KAZ-S038 | RAG-E-V036-003 through RAG-E-V036-005 | Cosplay labor and direct praise | Helps Mini's booth, carries stock, then tells Chizuru she looked cutest to him there after she asks. | Moves from private admiration to a bounded direct evaluation. | Event comparison is not universal ranking or dating status; RAG-KAZ-R003, RAG-KAZ-R024. |
 | RAG-KAZ-E173 | KAZ-S038 | RAG-E-V036-006 through RAG-E-V036-011 | Fixed move and unpaid invitation | Sees May 18 lease date, rehearses and finally asks Chizuru aloud for a non-rental date; accepts her May 17 proposal and tells Mini. | Executes a direct request before leaving the house. | Her consent is to the future date, not a completed inquiry or guaranteed result; RAG-KAZ-R003, RAG-KAZ-R024. |
 | RAG-KAZ-E174 | KAZ-S038 | RAG-E-V036-012 | Kitchen gaze and embarrassment | Tries to help pick up spilled beans while sexualizing Chizuru's clothes and body in his interior narration. | Practical assistance remains mixed with anxious objectification. | Private desire does not grant observation rights or alter her stated boundaries; RAG-KAZ-R003, RAG-KAZ-R005. |
+| RAG-KAZ-E175 | KAZ-S039 | RAG-E-V037-002, RAG-E-V037-003 | Shared play and direct preference question | Watches Chizuru adapt during `Bounce Off`, then sends a direct question about her desired date. | Learns from unpriced play and asks instead of only projecting. | Her ordinary-date answer remains open-ended; RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E176 | KAZ-S039 | RAG-E-V037-004 | Kuri's advice and private purchase | Hears a numbered-date sexual theory, imagines a hotel and buys condoms while recognizing this is the first unpaid date. | His anxiety turns a contingency into intrusive fantasy. | Purchase does not imply Chizuru consent; RAG-KAZ-R003, RAG-KAZ-R005. |
+| RAG-KAZ-E177 | KAZ-S039 | RAG-E-V037-005, RAG-E-V037-007, RAG-E-V037-008 | Hotpot and itinerary rehearsal | Accepts Chizuru's hotpot preference, eats a separate trial meal with Mini, and drafts Joypolis and an evening walk. | Planning improves through inquiry but remains partly overcontrolled. | Mini is not a proxy and draft activities are not jointly agreed; RAG-KAZ-R003, RAG-KAZ-R024. |
+| RAG-KAZ-E178 | KAZ-S039 | RAG-E-V037-010 | Shared-house departure revision | Accepts Chizuru's point that they can leave together and changes his note to 9 a.m. from home. | Revises his plan around her direct input. | The date and May 18 move remain future; RAG-KAZ-R003, RAG-KAZ-R024. |
 
 ## State-change summary
 

@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.36"
+version: "1.37"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; inspected and closed through V036."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; inspected and closed through V037."
 ---
 
 # Progress and regression ledger
@@ -245,3 +245,11 @@ state: CURRENT_THROUGH_V033
 | RAG-PRG-195 | Housing clock | FIXED_FUTURE_DATE | A rental contract gives May 18 as Kazuya's move-in day. | Replaces V035 tentative estimate as a plan, not a completed exit; RAG-E-V036-006. |
 | RAG-PRG-196 | Chizuru's inquiry and private time | SCHEDULED_PROGRESS | Kazuya asks for an unpaid date; Chizuru offers May 17 and calendars it. | Mutual plan advances; investigation and outing are unfinished; RAG-E-V036-008 through RAG-E-V036-010. |
 | RAG-PRG-197 | Kazuya's gaze and conduct | MIXED | He voices a clear invitation but later sexualizes a routine kitchen incident while trying to help. | Neither private desire nor comic panic nullifies the agreed date or proves access; RAG-E-V036-008, RAG-E-V036-012. |
+
+## V037 close additions
+
+| RAG-PRG-198 | Chizuru's inquiry | ACTIVE_SELF_REFLECTION | Says feelings cannot be switched on, chooses to attend and find her answer. | Deliberate process without final verdict; RAG-E-V037-001, RAG-E-V037-006. |
+| RAG-PRG-199 | Date planning | BILATERAL_NARROW_PROGRESS | Ordinary date, hotpot taste, and 9 a.m. shared departure are communicated. | Draft Joypolis and meal schedule remain Kazuya's; RAG-E-V037-003, RAG-E-V037-005, RAG-E-V037-010. |
+| RAG-PRG-200 | Housing clock | FUTURE_DEADLINE_SALIENT | Kazuya frames May 17 as the day before the scheduled May 18 move. | No packing, contract change, or actual exit; RAG-E-V037-008, RAG-E-V037-010. |
+| RAG-PRG-201 | Sexual expectation | PRIVATE_RISK_OF_OVERREADING | Kuri's advice and a condom purchase amplify Kazuya's fantasies. | No Chizuru assent or completed sexual contact; RAG-E-V037-004. |
+| RAG-PRG-202 | Third-party pressure | OPEN | Mini coaches through a separate hotpot meal; Mami appears only in a final cut. | No family correction, Sumi contact, or Mami intervention; RAG-E-V037-007, RAG-E-V037-011. |

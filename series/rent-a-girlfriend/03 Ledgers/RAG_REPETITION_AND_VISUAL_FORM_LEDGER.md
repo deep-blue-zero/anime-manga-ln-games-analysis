@@ -4,13 +4,13 @@ artifact_id: RAG_REPETITION_AND_VISUAL_FORM_LEDGER
 artifact_type: repetition_visual_form_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.36"
+version: "1.37"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; inspected and closed through V036."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; inspected and closed through V037."
 ---
 
 # Repetition and visual form ledger
@@ -245,3 +245,11 @@ state: CURRENT_THROUGH_V033
 | RAG-FRM-195 | Bear hood, bunny costume, sales goods, and camera frames mark the cosplay event. | Public spectacle and labor share a visual field. | Chizuru's own rescheduling and photo assent define local participation. | Posing does not settle private feelings; RAG-E-V036-003 through RAG-E-V036-005. |
 | RAG-FRM-196 | A lease date, unsent phone drafts, and later a `デート` calendar entry contrast possible and enacted plans. | Documents render the move and agreed date unusually concrete. | The spoken invitation and answer sit between rehearsal and calendar. | No completed outing or move appears; RAG-E-V036-006 through RAG-E-V036-010. |
 | RAG-FRM-197 | Repeated close-ups of shorts, leg, and Kazuya's panic surround a spilled bowl of beans. | Comic subjective gaze inflates a household accident. | Chizuru's dialogue remains about clothes and cleanup. | The framing is not sexual permission or her inner verdict; RAG-E-V036-012. |
+
+## V037 close additions
+
+| RAG-FRM-198 | Batting-cage action and Sayuri's grave frame Chizuru's private worry and decision. | Agency is visible outside Kazuya's view. | Her own words identify an open inquiry. | Blushing or memorial imagery cannot create a verdict; RAG-E-V037-001, RAG-E-V037-006. |
+| RAG-FRM-199 | `Bounce Off` balls, red-bean porridge, and the shared doorway recur as ordinary house objects. | Play, repair, and spatial logistics replace paid-date performance. | Chizuru acts inside these scenes. | Domestic ease does not certify couple status; RAG-E-V037-002, RAG-E-V037-010. |
+| RAG-FRM-200 | Phone messages, menu screens, itinerary notes, and weather forecasts surround Kazuya's search. | Digital detail makes his anxiety and information-gathering visible. | Her actual texts must be distinguished from his drafts. | A researched option is not a joint commitment; RAG-E-V037-003 through RAG-E-V037-005, RAG-E-V037-008. |
+| RAG-FRM-201 | Hotel fantasy panels and comic alarm follow Kuri's third-date theory. | Subjective sexual possibility is staged as escalation pressure. | The actual object is his purchase. | No sex or Chizuru consent is shown; RAG-E-V037-004. |
+| RAG-FRM-202 | The 9 a.m. correction of a handwritten meeting point precedes a cut to Mami. | A small domestic fact receives document-level confirmation; the final cut opens another thread. | Chizuru's spoken terms outrank Kazuya's provisional schedule. | Mami's appearance does not alter the agreed departure; RAG-E-V037-010, RAG-E-V037-011. |

@@ -4,13 +4,13 @@ artifact_id: RAG_TRANSACTION_AND_INTIMACY_LEDGER
 artifact_type: transaction_intimacy_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.36"
+version: "1.37"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; inspected and closed through V036."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; inspected and closed through V037."
 ---
 
 # Transaction and intimacy ledger
@@ -226,3 +226,10 @@ state: CURRENT_THROUGH_V033
 | RAG-TXN-176 | Mini's cosplay sales stall | Mini sells goods; Kazuya and Chizuru help, the latter changing an appointment and agreeing to event photos. | Chizuru chooses local costume participation while retaining her own schedule and words. | Commercial setting and public photography buy no private bodily or romantic access. | Event ends with an event-specific compliment exchange; RAG-E-V036-003 through RAG-E-V036-005. |
 | RAG-TXN-177 | Proposed private date | Kazuya explicitly distinguishes his invitation from the rental service; Chizuru offers May 17. | Both can accept, negotiate, or decline the future outing without a paid booking. | Agreement to attend is not an answer to the inquiry or permission for physical intimacy. | Both agree, and she calendars it; RAG-E-V036-008 through RAG-E-V036-010. |
 | RAG-TXN-178 | Shared-house kitchen chore | Chizuru works with food and laundry; Kazuya offers help amid private desire and embarrassment. | Ordinary cohabitation demands practical coordination and respect for bodily privacy. | A short outfit or spill is not a transaction or invitation. | He stumbles and spills beans; no new intimacy is granted; RAG-E-V036-012. |
+
+## V037 close additions
+
+| RAG-TXN-179 | Prospective unpaid date | Chizuru asks for an ordinary date distinct from her rental performances and gives a food preference. | Both principals can negotiate the itinerary without purchased time. | Attendance and preference do not grant touch or a verdict. | May 17 remains future; RAG-E-V037-003, RAG-E-V037-005. |
+| RAG-TXN-180 | Kuri's sexual script | Kuri suggests escalation; Kazuya buys condoms privately and imagines a hotel. | Chizuru has not entered that transaction or agreed to intimacy. | Preparation cannot substitute for consent. | No sexual event occurs; RAG-E-V037-004. |
+| RAG-TXN-181 | Mini's hotpot rehearsal | Mini and Kazuya purchase and eat a meal while discussing date conversation. | A friend models preference-sharing. | This is not a paid or private outing with Chizuru. | Advice remains third-party conjecture; RAG-E-V037-007. |
+| RAG-TXN-182 | Shared-house departure | Chizuru suggests leaving home together at 9 a.m. rather than meeting elsewhere. | The practical choice is jointly accepted in an unpaid context. | Leaving together does not establish couple status or complete the date. | It is a future condition; RAG-E-V037-010. |

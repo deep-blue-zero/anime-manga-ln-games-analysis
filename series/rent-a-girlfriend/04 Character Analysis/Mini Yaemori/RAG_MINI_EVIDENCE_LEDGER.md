@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V036; character evidence inspected through V034, with no material V021-V026 conduct."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V037; character evidence inspected through V037."
 ---
 
 # Mini Yaemori evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 八重森みに
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V036
+inspected_through_volume: V037
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -74,6 +74,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MIN-E034 | MIN-S013 | RAG-E-V035-006, RAG-E-V035-008 | Household intermediary | Learns of Chizuru's period, teases Kazuya's secrecy, and later comments on the pair's care episode. | Makes a private household moment socially legible while encouraging action. | She does not grant room access or know Chizuru's final romantic classification; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
 | RAG-MIN-E035 | MIN-S014 | RAG-E-V036-003 through RAG-E-V036-005 | Cosplay sales and intermediary pressure | Recruits help for her goods stall, offers Chizuru a costume, and teases Kazuya and Chizuru after their compliment exchange. | Creates a shared public task and highlights their awkwardness. | Chizuru reschedules voluntarily and Mini cannot decide her feeling; RAG-MIN-R001, RAG-MIN-R003. |
 | RAG-MIN-E036 | MIN-S014 | RAG-E-V036-011, RAG-E-V036-012 | Date advice and bodily information | Celebrates the agreed date, urges high-effort planning, and later mentions a mole she saw on Chizuru's thigh. | Continues social coaching but also crosses into a private bodily topic. | Her optimism and observation are not Chizuru's consent or verdict; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E037 | MIN-S015 | RAG-E-V037-001, RAG-E-V037-002 | Enthusiasm and game setting | Asks Chizuru about the date and joins a `Bounce Off` game with both principals. | Sustains an ordinary shared-house occasion while pressing a romantic interpretation. | Chizuru's caution outranks Mini's optimism; RAG-MIN-R002, RAG-MIN-R003. |
+| RAG-MIN-E038 | MIN-S015 | RAG-E-V037-007 | Separate hotpot rehearsal | Eats with Kazuya, draws out preferences and warns against overmanaged or interrogative date talk. | Her support becomes practical coaching. | She does not know Chizuru's final answer or attend the agreed date; RAG-MIN-R002, RAG-MIN-R003. |
 
 ## State-change summary
 

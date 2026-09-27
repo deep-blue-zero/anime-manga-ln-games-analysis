@@ -4,7 +4,7 @@ artifact_id: RAG_KAZUYA_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.37"
+version: "1.38"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -63,6 +63,7 @@ model_basis:
     - RAG-JP-EPUB-V034
     - RAG-JP-EPUB-V035
     - RAG-JP-EPUB-V036
+    - RAG-JP-EPUB-V037
     - RAG-JP-EPUB-V035
   admitted_through_volume: V036
   narrative_time_boundary: "after the nursery outing, minor household truth and privacy incidents, and an unresolved card game"
@@ -70,7 +71,7 @@ model_basis:
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
   model_revision: "1.35"
   prior_knowledge_limitations:
-    - "No post-V036 narrative evidence is admitted."
+    - "No post-V037 narrative evidence is admitted."
     - "Kazuya knows Chizuru's stated reason for avoidance, her investigation commitment, and her mother's portrait, but not the inquiry result or final romantic classification."
 coverage:
   observed_contexts:
@@ -2036,3 +2037,7 @@ V035 adds an ordinary care test: Kazuya misreads Chizuru's menstrual discomfort 
 ## V036 local validation
 
 V036 supplies a stronger direct-request case: after a May 18 lease fixes the housing horizon, Kazuya invites Chizuru on an unpaid date aloud and accepts her May 17 proposal. He also provides event labor and an event-specific compliment. His last-chapter gaze and panic show that this initiative does not erase anxious sexualization of ordinary cohabitation (RAG-E-V036-003 through RAG-E-V036-012). The model retains a future date and unresolved inquiry, not a completed partnership.
+
+## V037 local validation
+
+V037 shows a more reciprocal planning attempt: Kazuya asks Chizuru for preferences, accepts hotpot, rehearses a meal with Mini, and revises the morning departure to her chosen shared-house start. Kuri's sexual advice, a condom purchase, weather searches and an overfull Joypolis itinerary expose continuing pressure to overread a first unpaid date. His strongest reliable progress is responding to Chizuru's words, not his privately designed success score (RAG-E-V037-003 through RAG-E-V037-010).

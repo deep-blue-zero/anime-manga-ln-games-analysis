@@ -4,13 +4,13 @@ artifact_id: RAG_MAMI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; material direct conduct through V026 and V030, with V027-V029 negative-evidence review."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; character evidence inspected through V037."
 ---
 
 # Mami Nanami evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 七海麻美
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V026
+inspected_through_volume: V037
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -77,6 +77,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MAM-E037 | MAM-S011 | RAG-E-V026-004 | Whistleblower accusation using true facts and strategic omissions | Presents herself as reluctant, invokes money, the ring, heir expectations, and Sayuri's death, and alleges that Chizuru ignored warnings. | Builds a coherent family accusation from prior research and access. | She omits her drop responsibility and conditional bargain, so the account is interested rather than complete. | RAG-MAM-R003, RAG-MAM-R006, RAG-MAM-R009, RAG-MAM-R010, RAG-MAM-R011 |
 | RAG-MAM-E038 | MAM-S011 | RAG-E-V026-009, RAG-E-V026-015 | Repeated bodily proof demand after verbal accounts | Demands a kiss to validate Kazuya's claimed relation, then disputes the first kiss's visibility and demands repetition. | Escalates from factual accusation to control over what embodied evidence the audience must accept. | Coercive verification supplies no neutral authority, and Chizuru's compliance does not validate Mami's framing or establish private status. | RAG-MAM-R003, RAG-MAM-R008, RAG-MAM-R010, RAG-MAM-R011 |
 | RAG-MAM-E039 | MAM-S012 | RAG-E-V030-007 | Initiated meeting and unresolved apology | Messages Kazuya, meets him for tea, asks what he means by his apology, and ends the encounter without an explicit goal. | Public former-partner access resumes after the failed Paradise separation. | Her expression and short talk cannot identify forgiveness, renewed romance, surveillance, or future strategy; RAG-MAM-R001, RAG-MAM-R003, RAG-MAM-R010. |
+| RAG-MAM-E040 | MAM-S013 | RAG-E-V037-011 | Isolated closing appearance | Appears at a separate location in the final main-story image after the date-planning chapters. | Restores reader attention to her unresolved position. | No contact, observation of the principals, or motive is established; RAG-MAM-R001, RAG-MAM-R003. |
 
 ## State-change summary
 

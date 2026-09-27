@@ -4,7 +4,7 @@ artifact_id: RAG_MINI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -51,13 +51,14 @@ model_basis:
     - RAG-JP-EPUB-V034
     - RAG-JP-EPUB-V035
     - RAG-JP-EPUB-V036
+    - RAG-JP-EPUB-V037
   admitted_through_volume: V036
   narrative_time_boundary: "after a laundry interruption and a newly proposed three-person card game"
   basis_checkpoint: RAG_CP_V020
   basis_commit: 940f1b3050e41ff0fac8a79fcdbb8260b0f0ca06
   model_revision: "1.8"
   prior_knowledge_limitations:
-    - "No post-V036 narrative evidence is admitted."
+    - "No post-V037 narrative evidence is admitted."
     - "Mini does not witness the V028 paid-date conversation and learns only Kazuya's summary that investigation will follow."
     - "Her romantic readings are interested interpretations rather than privileged narrative truth."
 coverage:
@@ -544,3 +545,7 @@ V035 continues Mini's pattern of turning group and household moments into prompt
 ## V036 local validation
 
 V036 extends Mini's task-generating support through her cosplay stall and celebration of the agreed date. She creates an occasion for the principals and urges planning, while Chizuru independently controls her appointment and date acceptance. Mini's later disclosure of a private mole illustrates poor boundary calibration; she is not an authority over Chizuru's body or romantic answer (RAG-E-V036-003 through RAG-E-V036-005, RAG-E-V036-011, RAG-E-V036-012).
+
+## V037 local validation
+
+V037 extends Mini's intervention from encouragement to a separate hotpot rehearsal with Kazuya. She helps elicit preferences and emphasizes ordinary conversational pacing while Chizuru independently frames the date and its uncertainty. Mini remains a coach, not a substitute source for Chizuru's answer (RAG-E-V037-001, RAG-E-V037-007).

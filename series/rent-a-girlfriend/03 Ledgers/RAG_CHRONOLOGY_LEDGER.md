@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.36"
+version: "1.37"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; inspected and closed through V036."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; inspected and closed through V037."
 ---
 
 # Chronology ledger
@@ -210,3 +210,10 @@ state: CURRENT_THROUGH_V033
 | RAG-CHR-160 | RAG-E-V036-006 | On May 2 Kazuya reviews the rental contract with May 18 move-in. | Fixes the current exit plan after V035's tentative estimate. | A planned date is not an accomplished move. |
 | RAG-CHR-161 | RAG-E-V036-007 through RAG-E-V036-010 | After the lease review, Chizuru's late-night schedule talk leads to a verbal May 17 unpaid date agreement; she later enters it in her calendar. | May 17 is the day before planned move-in. | No actual outing has occurred. |
 | RAG-CHR-162 | RAG-E-V036-011, RAG-E-V036-012 | Kazuya tells Mini about the agreement; later a small red-bean kitchen mishap occurs during cohabitation. | The household episode follows the scheduled date. | Its exact calendar day is not established. |
+
+## V037 close additions
+
+| RAG-CHR-163 | RAG-E-V037-001 through RAG-E-V037-003 | After the May 17 agreement, Mini checks on Chizuru, she bats, the housemates play `Bounce Off`, and Kazuya asks her date preferences. | All precedes the future outing. | Exact day of each preparation scene is not fixed. |
+| RAG-CHR-164 | RAG-E-V037-004, RAG-E-V037-005 | Kuri's sexual advice and Kazuya's purchase occur while Chizuru privately considers and texts a hotpot preference. | Parallel preparation yields unequal information. | Fantasy is not actual intercourse or a shared plan. |
+| RAG-CHR-165 | RAG-E-V037-006 through RAG-E-V037-008 | Chizuru visits Sayuri's grave; Mini and Kazuya eat a separate hotpot rehearsal; Kazuya drafts Joypolis, food, and walking options. | May 17 and May 18 remain future. | Draft activities are not completed. |
+| RAG-CHR-166 | RAG-E-V037-009 through RAG-E-V037-011 | Chizuru and Kazuya agree to depart from home at 9 a.m.; he revises the plan, then the narrative cuts to Mami. | This is the closing pre-date state. | Mami has no direct contact in this volume. |

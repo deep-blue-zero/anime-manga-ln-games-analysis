@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.41"
+version: "1.42"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036 inspected and closed; V037 entering predictions frozen before narrative inspection."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037 inspected and closed; V038 entering predictions frozen before narrative inspection."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -740,3 +740,23 @@ These tests were written after V036 was closed and before inspecting any V037 na
 | RAG-PRED-142 | The May 18 housing deadline prompts packing, lease, logistics, a move-status conversation, or a changed plan. | RAG-E-V036-006, RAG-E-V036-009 | V037 leaves the documented move horizon without observable consequence. |
 | RAG-PRED-143 | Chizuru's still-open inquiry receives a direct question, boundary, self-reflection, or response related to the agreed private date. | RAG-E-V036-009, RAG-E-V036-010 | V037 does not connect the inquiry to the scheduled outing or her own agency. |
 | RAG-PRED-144 | The continuing family misconception, Sumi's concern, or Mini's role produces a direct contact, withholding decision, or pressure on the principals. | RAG-E-V036-001, RAG-E-V036-002, RAG-E-V036-011 | V037 shows no observable consequence for any of these third-party positions. |
+
+## Adjudicated predictions from the V036 boundary
+
+| Prediction ID | Adjudication | V037 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-141 | SUPPORTED | Chizuru asks for an ordinary date, texts a hotpot preference, and agrees on 9 a.m. from home; RAG-E-V037-003, -005, -010. | Kazuya's Joypolis itinerary is mostly still private draft. |
+| RAG-PRED-142 | SUPPORTED, narrow | Kazuya frames the date against May 18 and adjusts start time; RAG-E-V037-008, -010. | No move, packing, or contract change. |
+| RAG-PRED-143 | SUPPORTED | Chizuru names uncertainty to Mini and decides at Sayuri's grave to attend; RAG-E-V037-001, -006. | No inquiry verdict. |
+| RAG-PRED-144 | SUPPORTED through Mini only | Mini directly coaches Kazuya at a hotpot meal; RAG-E-V037-007. | No new Sumi or Nagomi contact or family correction. |
+
+## Frozen predictions for V038
+
+These tests were written after V037 was closed and before inspecting any V038 narrative image. They use only the V037 boundary and carry no claim about V038's cover, contents, preview, or later events.
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-145 | The agreed 9 a.m. home departure, Joypolis option, hotpot preference, or rain contingency receives a concrete exchange or revision before May 17. | RAG-E-V037-005, RAG-E-V037-008, RAG-E-V037-010 | V038 adds no observable planning or execution of the agreed outing. |
+| RAG-PRED-146 | Chizuru's ordinary-date standard or still-open inquiry is tested by her own speech, private reflection, or behavior, rather than inferred only from Kazuya. | RAG-E-V037-001, RAG-E-V037-003, RAG-E-V037-006 | V038 contains no Chizuru-centered response to the date. |
+| RAG-PRED-147 | The May 18 move deadline prompts a concrete logistics action, changed housing plan, or explicit boundary conversation. | RAG-E-V036-006, RAG-E-V037-008, RAG-E-V037-010 | The deadline stays background with no action or discussion. |
+| RAG-PRED-148 | Mami's closing appearance produces a direct action, contact, or new information relevant to the principals. | RAG-E-V037-011 | Her isolated appearance has no consequence in V038. |

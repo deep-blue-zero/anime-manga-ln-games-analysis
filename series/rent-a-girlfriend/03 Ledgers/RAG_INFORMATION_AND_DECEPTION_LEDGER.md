@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.36"
+version: "1.37"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V036; inspected and closed through V036."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V037; inspected and closed through V037."
 ---
 
 # Information and deception ledger
@@ -253,3 +253,11 @@ state: CURRENT_THROUGH_V033
 | RAG-INF-203 | Chizuru hears Kazuya's event-specific judgment that she was cutest and answers conditionally that she is happy if it is true. | Both principals share the exchange; Mini observes and later teases. | First-person words outrank Kazuya's silent gaze and Mini's reading. | No love declaration; RAG-E-V036-005. |
 | RAG-INF-204 | Kazuya directly asks for a date outside rental; Chizuru proposes May 17 and enters `デート` in her private calendar. | Both know the spoken arrangement; the calendar independently confirms her intention for the reader. | The old paid-date frame is explicitly separated from a new shared plan. | The investigation and actual date remain open; RAG-E-V036-008 through RAG-E-V036-010. |
 | RAG-INF-205 | Mini tells Kazuya of a mole on Chizuru's inner thigh, then he struggles not to look during a kitchen chore. | Mini claims prior visual knowledge; Kazuya's direct knowledge and Chizuru's knowledge of the conversation differ. | Creates an information imbalance around bodily privacy. | It is not permission to inspect or broadcast her body; RAG-E-V036-012. |
+
+## V037 close additions
+
+| RAG-INF-206 | Chizuru tells Mini she cannot change feelings at will and privately revisits Kazuya's invitation. | Mini hears concern; Kazuya does not hear the full private discussion. | Directly resists a simplistic positive reading. | Chizuru's answer remains open; RAG-E-V037-001. |
+| RAG-INF-207 | Kazuya asks for date preferences and Chizuru says she wants an ordinary date; she later texts hotpot. | The principals now share these two preferences. | First-person communication constrains his planning. | No specific restaurant or full itinerary is jointly fixed; RAG-E-V037-003, RAG-E-V037-005. |
+| RAG-INF-208 | Kuri conveys a numbered-date sexual script; Kazuya buys condoms and imagines escalation. | Chizuru is not party to that exchange or purchase. | Exposes a major private assumption gap. | Neither peer advice nor possession supplies consent; RAG-E-V037-004. |
+| RAG-INF-209 | Mini eats hotpot with Kazuya and advises him about conversational pacing. | Mini knows his anxious planning; Chizuru does not attend this meal. | A support contact shapes his preparation. | Mini cannot report Chizuru's private feeling; RAG-E-V037-007. |
+| RAG-INF-210 | Chizuru asks about leaving together and accepts his 9 a.m. time; a separate closing image shows Mami. | The principals share departure logistics; Mami's knowledge and purpose are undisclosed. | Secures a narrow shared plan while opening a new reader question. | No date execution or third-party intervention yet; RAG-E-V037-010, RAG-E-V037-011. |
