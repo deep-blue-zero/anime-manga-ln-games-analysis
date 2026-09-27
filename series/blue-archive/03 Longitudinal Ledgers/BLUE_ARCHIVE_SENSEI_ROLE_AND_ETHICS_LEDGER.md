@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:009; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:010 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:010; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -824,3 +824,7 @@ Sensei joins the third club mock's start/result ceremony and gives simple encour
 ## V003 C002 E009 delta — reject suspicion without claiming to read hearts
 
 Sensei's inward `誰かを疑うことに時間を費やすつもりは無い` and direct choice to reward effort continue the E017/E008 refusal to turn teaching into suspect identification. They start to contextualize Nagisa's Hifumi-criminal claim but are interrupted before an explanation is printed; prior V001 evidence of an armed raid with Hifumi's coerced “Faust” cover cannot be collapsed into either pure innocence or actual mastermind status. Nagisa argues unprovable inner motives justify expulsion. Sensei challenges her selective seeing and asks her out of `疑心暗鬼`; this is an ethical/reasoning objection, not clinical knowledge. Choice `009` branches between a promise to free Nagisa from distrust and a promise to secure all four passes. Both are future commitments; no lawful academic safeguard, completed exam, withdrawn sanction or mind-reading proof is shown. Nagisa's `私なりに頑張ります` leaves a potential conflict live. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E010 delta — ending secrecy, following students' lead
+
+Sensei praises the four students' effort before Hifumi discovers last-minute exam changes. A parenthetical choice reflects that the expulsion risk should now be shared; the subsequent `一から説明をする` leads to Koharu's shocked three-failure restatement, Azusa's understanding and Hifumi's apology. This is a material correction to the E003 knowledge asymmetry, although the teacher's exact explanation is unprinted and may not cover every joint-pass, treaty or Schale bypass detail. Sensei assents to Azusa's immediate departure plan rather than imposing a new plan; scene 2 confirms the party enters Gehenna. The team encounters ransom-threatening thugs and moves past them, but the transcript does not give Sensei a distinct tactical command, force choice or protective remedy there. No appeal against the notice, completed exam or achieved E009 choice promise appears. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:009; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:010 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:010; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -817,3 +817,10 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **NAGISA ↔ KOHARU/HASUMI:** Nagisa describes Koharu as leverage to constrain Hasumi's Gehenna hostility. No evidence Koharu consented, Hasumi was told, or the leverage mechanism was formally documented.
 - **NAGISA ↔ SENSEI:** Sensei refuses suspicion as a use of time, starts to defend Hifumi and diagnoses selective distrust; Nagisa interrupts, insists on expulsion and then says each will strive in their own way. This is adversarial but not a permanent interpersonal rupture or a cancellation of her sanction plan. Choice `009` alternatives should not be merged into one spoken bargain.
 - **REMEDIAL GROUP:** the four are absent from this conversation. E008's real friendship and mock hope coexist with Nagisa's portrayal; no group member is shown hearing this rationale or the threatened next step.
+
+## V003 C002 E010 relationship delta — separation fear and equalized warning
+
+- **AZUSA ↔ CLUB:** Hifumi's imagined graduation prompts Azusa's sadness; Hanako says their same-school ties could continue, and Koharu offers future classroom contact. These are authentic prospective care gestures, not a completed reunion or proof Azusa's future course.
+- **SENSEI/HIFUMI/HANAKO ↔ KOHARU/AZUSA:** Hanako's expulsion reference elicits first-heard shock; Sensei explains from the beginning and Hifumi apologizes for concealment. The hidden sanction is now at least partly shared, while exact unprinted explanation and separate Nagisa/Mika intelligence remain partitioned.
+- **AZUSA ↔ GROUP:** Azusa takes a lead in timekeeping, departure and route breakthrough. Others follow while frightened or joking. This is situated emergency coordination, not a permanent command hierarchy.
+- **CLUB ↔ GEHENNA STRANGERS:** generic thugs target the Trinity uniforms for prospective ransom. The party passes after a confrontation, with no durable tie, known casualty or new character identity.

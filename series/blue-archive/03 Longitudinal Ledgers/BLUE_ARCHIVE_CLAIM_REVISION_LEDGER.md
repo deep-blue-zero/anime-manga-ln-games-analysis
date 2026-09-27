@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:009; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:010 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:010; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:011 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E009 active provisional; E010 unopened
+current_sequential_boundary: MAIN_V003_C002_E010 active provisional; E011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1805,3 +1805,12 @@ No new durable claim ID, subject, standalone model, frozen prediction or side-so
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Nagisa's sources/authority, student motives and official exam remain OPEN.
+
+## V003 C002 E010 claim delta — posted procedural escalation and group warning
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei explains the expulsion threat to Koharu and Azusa after Hanako's remark, replacing an uneven secret circle with a broader warning. The exact explanation is summarized, not printed; no appeal, sanction bypass or official pass has yet been secured.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN/REVISE locally:** a posted Trinity notice, read by Hifumi/Hanako, announces roughly triple range, pass line 60→90, 3 a.m. timing and a Gehenna ruined-building venue. This concretizes the C001 E009 threatened exam-control mechanism, but the issuer, legality and actual application are not inspected. Hanako infers Nagisa received their mock scores and authored an expulsion move; E009 intent makes it plausible, **not** proven communication or signature. Koharu/Azusa learn three-failure expulsion in the unprinted Sensei explanation, but the exact all-four clause/bypass details conveyed are unknown.
+- **BA-C008 — STRENGTHEN:** distinguish direct posted notice text, Hifumi's “posted yesterday” observation, Hanako's author/surveillance/absence-rule inferences, group-level risk disclosure, generic thugs' kidnapping proposal and a crying thug after Azusa's `強行突破`. No exam result, actual kidnapping, audited route force or new named subject follows.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; official examination terms/outcome and notice authority remain OPEN.

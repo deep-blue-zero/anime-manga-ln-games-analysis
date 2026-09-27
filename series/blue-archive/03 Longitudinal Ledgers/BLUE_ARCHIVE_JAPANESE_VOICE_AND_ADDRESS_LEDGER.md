@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:009; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:010 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:010; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1212,3 +1212,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Sensei `u:0001` (`心の声`) rejects time spent doubting students; choice `001` audibly prioritizes their effort. Nagisa's `どうして彼女たちなのか` leads to distinct actor labels: Koharu `統制` lever, Hasumi `時限爆弾`, Hanako `わざと`, Azusa `統制不能`, and Hifumi alleged `犯罪集団のリーダー`. These are Nagisa's characterizations, not neutral registry facts.
 - Nagisa's repeated `証明` and `本心` culminate in `所詮「他人」` and `退学させるしかない`. The move from unprovable inner motive to certain expulsion is the speaker's inference, not a demonstrated proof standard. Sensei's attempted `誤解だよ……ちゃんと事情があって` is interrupted by `どうやって？`; no completed Hifumi defense is printed.
 - Sensei's `疑心暗鬼の闇` and “seeing only what you want” are confrontational interpretation, not clinical diagnosis. Choice `009` contains two alternatives, `君を、そこから出してみせる` **or** `絶対に、補習授業部のみんなを合格させる`; Nagisa `u:0027-0028` duplicates the convergence line. Her `私なりに頑張ります` is unspecified future action. `u:0032` inwardly notes leaving; `u:0033` is only the next title.
+
+## V003 C002 E010 delta — notice diction and a mixed-script route threat
+
+- Hifumi's `合格できるだけの実力` and `卒業` are pre-notice confidence, not official results. Azusa's `虚しい` at projected separation is situated loss language; Hanako/Koharu answer with a same-school friendship prospect, not documented future visits.
+- The read notice says `試験範囲を、既存の範囲から約三倍` and `合格ラインを60点から90点`. `約` makes the range approximate; 90 is the announced line, not a score. Hifumi reads `ゲヘナ自治区第15エリア77番街、廃墟の1階` and Azusa reads `深夜の3時`. The notice issuer is not quoted. Hanako's italic `ナギサさんが何かしらの手段で把握` is her inference, not narrator certification.
+- Sensei's choice `003` is parenthetical inward consideration, whereas choice `004` says `一から説明をする` and Koharu/Azusa react to the expulsion condition. The explanatory speech is not printed. Azusa's `最後まで足掻く` is urgent perseverance, not assent to fairness. Hanako's `無法地帯` is a characterization, not a comprehensive Gehenna fact.
+- Scene 2 alternates generic `チンピラ` and Korean `깡패` tags. Do not make named subject rows or exact speaker IDs from script variation. Kidnap/ransom is a proposal, not a completed act. Scene 3 thug cry and Koharu's polite `通らせてもらいますね` support passage, not exact weapons or injuries. Five Sensei choices are singleton; `scene:003:u:0006` is a title card.

@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:009; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:010 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:010; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -734,3 +734,7 @@ The club's third **internal mock** is narrator-marked 69/73/61/75, four passes u
 ## V003 C002 E009 institutional delta — nonuniform suspect inputs, one proposed sanction
 
 Nagisa explains her own student-selection logic: Koharu was placed to constrain Hasumi, Hanako deliberately underperformed, Azusa supposedly combines suspicious existence with repeated violence, and Hifumi is reported as a criminal leader. These are different alleged risks, not one proven treaty offense. The known V001 bank action makes Hifumi's “Faust” rumor intelligible but does not establish voluntary leadership or present criminal organization; Hanako's admitted marks likewise do not establish sabotage. Nagisa asserts that unknowable hearts leave expulsion as the only way to secure the treaty. No written exclusion authority, proof standard, due process, specific sabotage evidence or viable alternative analysis is shown. Sensei contests the inference and choice-conditionally promises reform or a club pass, with no official second `特別学力試験` in E009. The title card names E010's exam but supplies no score.
+
+## V003 C002 E010 institutional delta — published terms and threatened access
+
+The Trinity noticeboard displays a notice, read aloud by Hanako/Hifumi, that expands the second special exam's range to about three times, raises the announced pass threshold 60→90, and moves the sitting to a first-floor Gehenna ruin in Area 15/Street 77 at 3 a.m. Hifumi says it was posted only yesterday. The quoted notice carries institutional appearance but no named author, statutory authority, fairness review or actual administered paper. Hanako's deduction that Nagisa learned the third-mock scores and arranged expulsion is plausible given E009 and C001 E009, not proven from this notice. Koharu/Azusa now hear of three-failure expulsion after Sensei's summarized explanation; no full transcript establishes which collective-rule or bypass provisions were conveyed. The group travels into Gehenna, where generic thugs threaten kidnapping for ransom and are overcome sufficiently for forward movement. This is a concrete access burden but not proof of arrival, official test implementation, institutional security policy or final sanction.

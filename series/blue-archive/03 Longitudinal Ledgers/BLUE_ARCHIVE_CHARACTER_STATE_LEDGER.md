@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:009; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:010 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:010; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:011 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1001,3 +1001,13 @@ Readiness remains **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operat
 - **Koharu/Hanako/Azusa/Hifumi:** all are spoken about, not direct speaking actors in E009. Hanako's E003 intentionality, Hifumi's V001 imposed “Faust” cover and Azusa's mixed prior record are distinct earlier evidence; none is transformed into proven treaty guilt by Nagisa's report. Hifumi's current criminal leadership remains unverified.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Official second exam still unopened.
+
+## V003 C002 E010 character-state delta — disclosed danger and deadline action
+
+- **Azusa:** first mourns possible club separation with `虚しい` language, then, after the posted exam change, notices the 3 a.m. deadline, urges immediate departure and counsels struggling before despair. In Gehenna she chooses to force a path past ransom-threatening thugs. These are concrete time-sensitive decisions, not proof her hidden E017 plan or broad outlook has changed. Remains `UNMODELED`.
+- **Koharu:** offers Azusa future Justice Realization classroom contact before knowing her own grade fate; later learns the expulsion stake and fears committee return becoming impossible. No grade-bar lift or actual expulsion. Her invitation is a prospective bond.
+- **Hanako:** reassures Azusa that friendship need not end with club dissolution, inwardly infers Nagisa used mock results to alter the official exam and speaks about expulsion, then helps shift the group to action. Nagisa authorship/information channel remain unverified; E003's private motive remains withheld.
+- **Hifumi:** expects a pass and friendly graduation, then reads notice changes that exceed her own reported 90-point experience. Apologizes for concealment after Sensei's explanation. Her hope is sincere but not a scored official result.
+- **Sensei:** acknowledges effort, inwardly considers sharing the sanction and actually explains from the beginning in choice `004`, then agrees to depart. The exact words and any appeal/protection method are unshown. Existing narrow `PARTIAL_MODEL`.
+
+No new named subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; generic thugs excluded. No standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
