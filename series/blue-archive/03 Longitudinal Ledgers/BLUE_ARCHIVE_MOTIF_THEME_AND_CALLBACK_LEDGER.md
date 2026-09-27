@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–018; BA:main:003:003:019 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–019; BA:main:003:003:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1191,3 +1191,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Care as infrastructure:** Sena's adult-treatment success and responsive Hasumi/Tsurugi coexist with ongoing wounds and Hina's absence; care does not equal an instant restored command chain.
 - **Words across the border:** Hifumi resolves to state directly what Azusa needs to hear; the communication has not occurred, preserving the friendship question.
 - **Converging paths:** Seia names the ruined old cathedral for Squad, Azusa and Sensei while Justina advances by her account; convergence is anticipated, not battle resolution.
+
+## V003 C003 E019 motif / callback delta — who may write the ending
+
+- **Faust mask as a bridge:** Hifumi's V001 mask role, once a coercive Black Market necessity, is reclaimed as proof she can stand beside Azusa without accepting a segregated “ordinary world.” The joke does not erase the bank action's moral complexity.
+- **Abydos solidarity:** direct allies answer Hifumi's call through exaggerated crime-boss theatre, converting old shared risk into present support rather than a permanent underworld hierarchy.
+- **Hina permitted to rest:** the overworked protector's “retirement” resolves as a request to be seen and helped; Sensei's thanks and awkward offers address the person, not only the role. Her return is chosen, not extracted as automatic duty.
+- **Hifumi's story:** montage-form first-person resistance rejects Seia/Saori's predestined grim ending; it is a normative commitment to effort/friendship, not prophetic happy-end proof.
+- **Two ETOs, one unstable command:** Sensei's rival covenant performance appears to disturb Justina control, but exact law/ritual remains an actor theory. The mechanism uses the treaty's ambiguity against its captors without certifying Schale's legal supremacy.

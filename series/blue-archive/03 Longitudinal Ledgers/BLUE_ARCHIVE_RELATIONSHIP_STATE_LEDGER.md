@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–018; BA:main:003:003:019 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–019; BA:main:003:003:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1033,3 +1033,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **SENSEI ↔ SENA/INJURED ALLIES:** Sensei thanks Sena for care, checks Hasumi/Tsurugi/Chinatsu/Ako/Iori and accepts Ako's request to look for Hina. Medical status and search result remain open.
 - **AZUSA ↔ SAORI:** a renewed direct challenge invokes Atsuko's injury and Azusa's willingness to kill; neither embraces the other or wins in the printed unit.
 - **SEIA ↔ TRINITY/GEHENNA:** she narrates growing mutual reliance, but no specific bilateral accord or Seia physical meeting is shown.
+
+## V003 C003 E019 relationship delta — crossing worlds, allowing rest
+
+- **HIFUMI ↔ AZUSA:** Hifumi directly reaches Azusa, asserts she will be beside her despite rejection and uses Faust mask history to refuse the separate-world premise. Azusa hears and questions whether it is a lie; acceptance/long-term repair still open.
+- **HIFUMI ↔ ABYDOS:** Hoshino, Shiroko, Nonomi, Serika and Ayane arrive in solidarity and reprise shared Black Market lore with comic exaggeration. No standing command hierarchy under “Faust” is established.
+- **SENSEI ↔ HINA:** Hina admits exhaustion, comparison to Hoshino and wanting recognition; Sensei thanks/apologizes and permits rest. She retracts “retirement,” rejoins Ako and waits for direction. No proof wounds healed or her need fully resolved.
+- **SENSEI/HIFUMI ↔ TRINITY/GEHENNA ALLIES:** Justice/Prefect actors assemble around them; tag inversions obscure some exact lines, and arrival is not a signed peace agreement.
+- **AZUSA/SAORI ↔ JUSTINA/ETO:** Saori's claim of endless guardians is challenged by Sensei's rival ETO declaration and reported control confusion; no finished side-switch or surrender.

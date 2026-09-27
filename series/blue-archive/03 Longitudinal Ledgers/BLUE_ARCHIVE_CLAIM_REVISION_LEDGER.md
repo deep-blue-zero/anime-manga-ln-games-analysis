@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–018; BA:main:003:003:019 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–019; BA:main:003:003:020 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E018 active provisional; E019 unopened
+current_sequential_boundary: MAIN_V003_C003_E019 active provisional; E020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2063,3 +2063,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E019 unopened.
+
+## V003 C003 E019 claim delta — rival ETO claim and chosen narrative
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Hifumi directly crosses Azusa's exclusion and Sensei supports students' own desired story; Sensei also answers Hina's overlooked need. No final rescue, unilateral adult solution or guaranteed happy ending.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE/QUALIFY:** Sensei declares a competing ETO and Misaki reports Justina-control confusion. Seia's Schale-as-presidential-proxy account and Hiyori's two-ETO mechanism are situated inferences, not examined treaty authority. Hina retracts the retirement claim and rejoins coordination; no healing certificate.
+- **BA-C008 — STRENGTHEN:** Hifumi/Abydos mask theatrics and actor boasts, `u:0029/0035/0077/0082-0090` tag inversions, narration-tagged manifesto, weather questions, inward ETO statement, Seia legal speculation and direct Justina disruption must not be collapsed into one evidential grade.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID yet; chapter checkpoint should reconsider the ETO/narrative-agency pattern. No new subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E020 unopened.

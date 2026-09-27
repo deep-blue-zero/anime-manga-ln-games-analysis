@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–018; BA:main:003:003:019 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–019; BA:main:003:003:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -937,3 +937,7 @@ Sensei physically arrives at the Pater/Mika confrontation and asks for violence 
 ## V003 C003 E018 delta — supporting the student's plan
 
 Sensei checks multiple injured students, thanks Sena for adult treatment, and promises Ako a Hina search. In the remedial group, Sensei credits Hifumi's sustained leadership and offers to think/consult together rather than substituting a ready answer. Koharu and Hanako independently affirm Hifumi and join her Azusa-aid decision. The adult's assistance is agency-preserving and future-directed; no rescue, Hina discovery, medical clearance or system-wide peace is accomplished. Sensei's inward communication thought appears answered by Hifumi, a representation anomaly not needed to establish her direct resolve. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E019 delta — supporting dreams under contested authority
+
+Sensei meets Hina, thanks her ongoing effort and tells her rest is allowed rather than insisting on a stronger protector ideal; Hina admits wanting praise and reenters coordination voluntarily. In the shared confrontation, Sensei witnesses Hifumi's direct refusal to abandon Azusa and inwardly announces a rival ETO. Seia proposes a Schale/federal-president proxy interpretation, while Misaki reports control disturbance; neither proves Sensei has lawful new treaty authority. Sensei's final choice defines adult duty as supporting students' own hoped-for future, not guaranteeing it through speech or replacing their agency. The body remains recently wounded, with no full medical clearance or final battle outcome. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

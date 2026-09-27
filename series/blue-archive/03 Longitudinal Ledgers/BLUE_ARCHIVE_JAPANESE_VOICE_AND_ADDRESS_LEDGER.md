@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–018; BA:main:003:003:019 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–019; BA:main:003:003:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1436,3 +1436,12 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Hifumi `普通の学生にできることなんて` is distressed self-doubt; Koharu `立ち位置なんて関係無い` rejects rank as a reason to abandon a friend. Sensei's two-option groups 010–012 converge. Koharu `u:0038` and `u:0039` are identical, not two separate attestations.
 - Sensei `心の声` `友達でも、言わないと伝わらない` is apparently answered at `u:0057`; retain direct Hifumi `はっきり言ってみせます` without inferring telepathy. Seia `向かう` names destination/trajectory, not shown completed arrival.
 - Azusa `刺し違えてでも`/`人殺しになる` remain prospective intent. One scene, twelve Sensei choice groups; `u:0080` is E019 title only.
+
+## V003 C003 E019 delta — masks, inverted tags and a performed manifesto
+
+- Hifumi `普通の、トリニティの生徒` and `ファウスト` use mask-history as a proximity argument; `u:0029` “eh?” and `u:0035` “Hifumi, what…” are Hifumi self-response tags and unsafe for exact voice. `u:0077` Shiroko-tagged “Shiroko-senpai” likewise inverts speaker.
+- Abydos's motto/idol/dark-boss patter is explicit theatrical play; Serika disputes the motto. Kaiser/bank/PMC claims recall analyzed V001 acts but hyperbolic rank/organizational descriptions are not literal proof.
+- `u:0082-0083` Hasumi-tagged Tsurugi-like laughter/leader claim and `u:0087` Tsurugi-tagged self-comparison corrupt per-person healing lines; `u:0088-0090` Iori labels around chair search are similarly suspect. Hina's subsequent direct admissions/retraction are secure.
+- Hina `もう引退したと思って` is her distressed request; `言ってみただけ`/`甘えてみたかった` retract it. `構ってほしかった、褒められたかった` directly names a care need, not a formal job change. Sensei's joking remedial/swimsuit offers do not enact either.
+- `u:0156-0202` alternates generic `ナレーション` with “Hifumi”/“Remedial Club” headers and first-person content; the `私たちの物語` declarations are Hifumi-perspectival, not a normal uninterrupted audible monologue or guaranteed reality control.
+- `雨雲`/`奇跡`/`気象の操作` are perception/questions. Sensei `心の声` ETO declaration is apparently reacted to, a representation anomaly; Seia's `代行すると？`/`再現した……？` and Hiyori's two-ETO gloss are conjectural. Misaki `統制がおかしくなってる` is a direct tactical report. Fourteen choice groups, 002/009/014 with alternatives; scene 2 `u:0001` is E020 title only.

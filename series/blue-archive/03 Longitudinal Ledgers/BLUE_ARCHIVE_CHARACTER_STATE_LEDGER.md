@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–018; BA:main:003:003:019 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–019; BA:main:003:003:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E019 character-state delta — Hifumi's refusal and Hina's return
+
+- **Hifumi/Azusa:** Hifumi reaches Azusa, dons Faust mask/identity to contest separate worlds, and states she will stay close. Her narration-tagged “our story” montage expresses a preferred happy ending, not assured outcome. Azusa hears but acceptance/final safety unshown. Hifumi `PARTIAL_MODEL`; Azusa `UNMODELED`.
+- **Hoshino/Shiroko/Nonomi/Serika/Ayane:** Abydos directly arrives in comic masked-group solidarity; their crime-boss/idol exaggerations are not stable institutional self-models. Existing readiness unchanged; `u:0077` Shiroko self-address is mislabeled.
+- **Hina/Ako/Iori:** Hina appears directly after being missing, voices inability/retirement, admits wanting Sensei's care, then says “retirement” was a bid to lean on others and rejoins Ako awaiting direction. No healed/officially resigned state. `u:0088-0090` Iori labels suspect. All `PARTIAL_MODEL`.
+- **Hasumi/Tsurugi:** Justice allies appear, but `u:0082-0087` inverted names make per-person “healed/not yet” claims unsafe; no exact clearance. Both `UNMODELED`.
+- **Saori/Misaki/Hiyori/Seia/Sensei:** Saori asserts futility and infinite Justina. Sensei inwardly claims a rival ETO; Misaki reports control disruption, Hiyori/Seia infer contract ambiguity. Sensei `PARTIAL_MODEL`, others `UNMODELED`; no verified legal mechanism or final combat result.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E018 character-state delta — resolve to reach Azusa
 

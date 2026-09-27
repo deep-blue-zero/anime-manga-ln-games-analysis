@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–018; BA:main:003:003:019 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–019; BA:main:003:003:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -847,3 +847,7 @@ At the prison confrontation, Koharu refuses Pater militants' attack on Mika and 
 ## V003 C003 E018 institutional delta — responsive leaders, planned joint search
 
 Hasumi and Tsurugi respond directly and Tsurugi can move after E016 grave reports, but no duty clearance or command restoration appears. Sena says her first adult treatment worked enough for Sensei's presence, while Chinatsu/Ako/Iori remain under injury constraints. Ako reports Hina absent from both infirmary and Prefect room and unreachable; Sensei commits to look, not finds her. Hifumi/Hanako/Koharu/Sensei form an Azusa-aid plan, not an executed rescue; no formal remedial-club closure or Koharu Justice reinstatement is issued. Seia's narration describes slow Trinity–Gehenna mutual reliance and advancing Justina force; no treaty instrument, comprehensive ceasefire or exact cathedral arrival is documented. Azusa and Saori renew direct confrontation without resolved battle or halo outcome.
+
+## V003 C003 E019 institutional delta — coalition presence, contested ETO designation
+
+Abydos's five committee students directly join Hifumi and Justice/Prefect allies appear. Their masked-group rank/boast language is comic solidarity, not a formal Schale military roster or permanent Faust criminal command. `u:0082-0090` label inversions prevent secure Hasumi/Tsurugi healing and Prefect question attribution. Hina appears after absence, explicitly retracts a temporary “retired” statement, reunites with Ako and says to await Sensei's instructions; no recorded resignation, full recovery or field victory. Hifumi addresses Azusa and a narration-tagged manifesto claims the friends' chosen story; no final protection outcome. Sensei inwardly declares a new ETO. Seia theorizes Schale/presidential proxy and reproduced treaty circumstances, while Misaki reports Justina-control confusion and Hiyori attributes it to two ETO claimants. This is a real reported tactical disruption, not an inspected treaty, valid signatory authority, legal succession or verified covenant algorithm. Weather/miracle questions are not findings.
