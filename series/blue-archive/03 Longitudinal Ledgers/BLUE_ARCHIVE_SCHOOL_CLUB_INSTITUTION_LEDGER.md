@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:003; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:004 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:004; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -640,3 +640,9 @@ The future remedial scene has four students facing reported expulsion in one wee
 Nagisa reports multiple Trinity student presidents, a Tea Party origin among Pater/Filius/Sanctus representatives, and rotating hosts. She and Mika say Seia should be current host but is hospitalized/away, with Nagisa substituting. These are participant accounts, not independently inspected constitution or hospital record. The guest seat is reportedly restricted; Nagisa recalls Sensei as its first external guest.
 
 Nagisa seeks an external adviser/homeroom-like teacher for four underperforming students, describing `補習授業部` as a temporary special-case rescue entity and invoking Schale's extraordinary authority. Mika cites Eden Treaty workload/staff shortage and newspaper Schale activity as reasons to delegate. Sensei agrees within ability; no completed dispatch, authorization record, grade audit, test/expulsion rule or outcome is shown. Nagisa defers treaty explanation as confidential and says it is not very related to the remedial task, which remains her characterization despite Mika's workload link. E002's later one-week fear must remain later in scene chronology.
+
+## V003 C001 E004 institutional delta — club presidency meets enforcement
+
+Hifumi says she skipped a test for Peroro; the test record/schedule is not shown. Nagisa appoints her temporary remedial-club president using merit and reciprocal-love rhetoric; Hifumi says the club should dissolve when all four avoid failure. Her expectation is not an inspected dissolution rule. She and Sensei begin visiting the other students.
+
+At Justice Realization's classroom, Koharu guards the space and says Hanako was locked in a cell; Hanako says the door was open. Narration says Hanako was caught walking at school in a swimsuit and was *supposedly* confined; exact present custody/escape is open. Koharu's death-penalty and public-indecency phrases are not a school statute, and Hifumi objects. Hasumi returns; Mashiro reports Azusa caught in the act. Narrator reports Azusa's tear-gas-storehouse explosion, three-hour booby-trap/IED resistance and numerous harms, but the original suspected violent act, injured parties, tribunal and current disposition remain unverified. Both Hasumi and Mashiro have narrow role-only samples.

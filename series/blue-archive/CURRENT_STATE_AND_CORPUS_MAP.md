@@ -18,11 +18,11 @@ updated: 2026-09-26
 
 This is the canonical entrypoint for the Blue Archive analytical project.
 
-**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, `MAIN_V001_C002`, `MAIN_V002_C001` and `MAIN_V002_C002` checkpoints are complete; `MAIN_V003_C001` is active-provisional through E003. Next unopened unit: E004.**
+**Current analytical state:** **Phase 1 active - the canonical Prologue, `MAIN_V001_C001`, `MAIN_V001_C002`, `MAIN_V002_C001` and `MAIN_V002_C002` checkpoints are complete; `MAIN_V003_C001` is active-provisional through E004. Next unopened unit: E005.**
 
-The canonical Chapter 2 Abydos checkpoint identifies answerability without domination as the Volume 1 adult ideal, without making it a full-series axiom. The [V002 C001 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) shows student-made `TSC2` earned a special prize but only temporary council security; `BA-C019` distinguishes making, reception, recognition and durable belonging. The [V002 C002 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) governs the complete second chapter: Rio's real danger evidence did not establish a sole lethal remedy, a distributed coalition halted Key's immediate ark-resource effort, and Alice chose her name/hero role in the dive before E025 confirmed her external club return. `BA-C020` distinguishes assigned function from chosen identity under material risk. V002 E025's immediate success does not close technical audit or Rio accountability; V003 E003 does not settle treaty status or educational outcome. V003 C001 E001 introduces Seia's treaty/paradise frame as her claim. E002 opens in a future remedial-group dispute, then rewinds to an earlier Tea Party introduction. E003 details a temporary teaching request, Sensei's conditional acceptance and Nagisa's treaty deferral; the future group's knowledge cannot be backdated. Coverage is **90 / 310** units; all seven ledgers carry provisional E003 deltas above the C002 checkpoint. Complete-Pavane-arc contextual side-source backfill remains **DEFER**.
+The canonical Chapter 2 Abydos checkpoint identifies answerability without domination as the Volume 1 adult ideal, without making it a full-series axiom. The [V002 C001 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) shows student-made `TSC2` earned a special prize but only temporary council security; `BA-C019` distinguishes making, reception, recognition and durable belonging. The [V002 C002 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) governs the complete second chapter: Rio's real danger evidence did not establish a sole lethal remedy, a distributed coalition halted Key's immediate ark-resource effort, and Alice chose her name/hero role in the dive before E025 confirmed her external club return. `BA-C020` distinguishes assigned function from chosen identity under material risk. V002 E025's immediate success does not close technical audit or Rio accountability; V003 E004 does not settle treaty status or educational outcome. V003 C001 E001 introduces Seia's treaty/paradise frame as her claim. E002 opens in a future remedial-group dispute, then rewinds to an earlier Tea Party introduction. E003 details a temporary teaching request and conditional acceptance. E004 gives Hifumi's missed-test confession, pressured temporary leadership, Hanako's disputed detention and Azusa's narrated arrest; the future group's knowledge cannot be backdated. Coverage is **91 / 310** units; all seven ledgers carry provisional E004 deltas above the C002 checkpoint. Complete-Pavane-arc contextual side-source backfill remains **DEFER**.
 
-The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. The V002 C001 checkpoint promoted Momoi, Midori, Alice / `AL-1S`, Yuzu and Yuuka to narrow `PARTIAL_MODEL`; C002 added Rio/Himari, Sumire/Kirara/Erika, Toki, Noa, Eimi/Chihiro and Key as `UNMODELED`. V003 C001 E001 adds Seia; E002 adds Koharu, Hanako, Azusa and Mika as `UNMODELED`. E003 adds no subject or promotion, leaving **21 partial / 31 unmodeled** across 52 tracked subjects. Hifumi remains narrow `PARTIAL_MODEL`; Nagisa and Mika `UNMODELED`. No standalone character model, global capability assessment or prospective prediction has been created. `BA:main:003:001:004` remains unopened.
+The project-local character reconstruction architecture governs this story pass. `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md` governs future operational models and validation; `BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` records the current evidence/readiness surface; and `BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md` passes the architecture with explicit deferrals. The V002 C001 checkpoint promoted Momoi, Midori, Alice / `AL-1S`, Yuzu and Yuuka to narrow `PARTIAL_MODEL`; C002 added Rio/Himari, Sumire/Kirara/Erika, Toki, Noa, Eimi/Chihiro and Key as `UNMODELED`. V003 C001 E001 adds Seia; E002 adds Koharu, Hanako, Azusa and Mika; E004 adds Hasumi and Mashiro as `UNMODELED`. Totals are **21 partial / 33 unmodeled** across 54 tracked subjects. Hifumi remains narrow `PARTIAL_MODEL`; Nagisa, Mika and the two newcomers `UNMODELED`. No standalone character model, global capability assessment or prospective prediction has been created. `BA:main:003:001:005` remains unopened.
 
 Current sequential authority:
 
@@ -122,9 +122,10 @@ Current sequential authority:
 - `02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C001_E001_DEEP_READING.md` — **active_provisional**, Seia's treaty/paradise interpretation and unreciprocated witnessing appeal;
 - `02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C001_E002_DEEP_READING.md` — **active_provisional**, flashforward remedial dispute followed by explicit rewind to first Tea Party terrace meeting;
 - `02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C001_E003_DEEP_READING.md` — **active_provisional**, restricted Tea Party request, conditional teaching assent, treaty deferral and Hifumi reunion;
-- next crosswalk unit: `BA:main:003:001:004`.
+- `02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C001_E004_DEEP_READING.md` — **active_provisional**, Hifumi's exam confession/leadership, Hanako custody dispute and Azusa capture;
+- next crosswalk unit: `BA:main:003:001:005`.
 
-The following long Chapter 1 paragraph preserves an older historical state description; its phrase “current boundary” refers to that earlier point, not the present V003 E001 boundary above.
+The following long Chapter 1 paragraph preserves an older historical state description; its phrase “current boundary” refers to that earlier point, not the present V003 E004 boundary above.
 
 No specialist monograph or series-level synthesis exists yet. **Historical Chapter 1 context follows; the current boundary is the C002 checkpoint above.** The canonical Prologue checkpoint remains the authority for the opening constitutional/ethical baseline. V001 C001 E001–E020 now supply the complete Chapter 1 longitudinal test. E013 established the Kaiser Loan–shadow-bank operational interface; E014 obtained the targeted collection records; E015 preserved them while articulating Abydos's anti-habituation/institutional-identity ethic; E016 finally reads them and documents a ¥7.88m Abydos collection immediately followed by a ¥5m Helmet Gang mission subsidy. `BA-C012` and `BA-C013` therefore strengthen sharply, but the source still does not prove literal banknote identity, direct headquarters command, a Kaiser Loan/Kaiser PMC common hierarchy, the discontinued weapon supplier, or the larger strategic motive. `BA-C014` remains strong, with shadow-bank recordkeeping now functioning as evidence infrastructure. `BA-C015` remains active and is complicated by the autonomy problem of outside rescue. E016 opens `BA-C016`: legitimate support under asymmetric power may require the recipient to retain meaningful capacity to shape, constrain, refuse, or terminate intervention. Hoshino's Tea Party-knowledge claim remains a probability judgment and Hifumi's report remains future-facing. E017 now crosses one earlier firewall only partially: Hoshino knows the same stable Black Suit actor, but the E012 Black Suit↔Kaiser PMC director conversation and its strategic context remain audience-only. E018 adds no new Black Suit/Kaiser evidence; instead it opens `BA-C018` around hospitality/contact-zone de-escalation and complicates `BA-C017` through Haruka's unintended literalization of Aru's rhetoric. Shiba Seki is destroyed; E019 confirms the proprietor survives with light injuries and Abydos confronts PS68. Aru publicly ratifies the destruction after Mutsuki reframes it as villain success, strengthening BA-C017 through persona capture and BA-C018 through immediate de-escalation reversal. A company-scale Gehenna Prefect Team force then enters with 50 mm mortar fire targeting PS68; E020 directly contests that intervention on territorial-permission grounds, making recipient agency/control a confirmed Chapter 1 legitimacy variable. The canonical Chapter 1 checkpoint further revises BA-C001 toward agency-preserving power, revises BA-C007 and BA-C017, and downgrades BA-C009 to a strong Prologue pattern pending later recurrence.
 
@@ -401,15 +402,15 @@ The 15 school packages also include crossover/external-school or miscellaneous c
 - `BLUE_ARCHIVE_MOTIF_THEME_AND_CALLBACK_LEDGER.md`;
 - `BLUE_ARCHIVE_CLAIM_REVISION_LEDGER.md`.
 
-All currently have the same sequential boundary: `BA:main:003:001:003` provisionally, inheriting canonical `MAIN_V002_C002`. They are mutable infrastructure, not frozen releases.
+All currently have the same sequential boundary: `BA:main:003:001:004` provisionally, inheriting canonical `MAIN_V002_C002`. They are mutable infrastructure, not frozen releases.
 
 ### Character reconstruction state
 
 - specification: canonical and populated;
-- coverage index: canonical and provisionally updated through V003 C001 E003;
+- coverage index: canonical and provisionally updated through V003 C001 E004;
 - bootstrap audit: `PASS_WITH_EXPLICIT_DEFERRALS`;
 - standalone reconstruction models: none;
-- readiness: twenty-one `PARTIAL_MODEL` subjects, thirty-one `UNMODELED` subjects, no `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED` subject;
+- readiness: twenty-one `PARTIAL_MODEL` subjects, thirty-three `UNMODELED` subjects, no `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED` subject;
 - prospective prediction registers: none;
 - global reconstruction capability records: deliberately unpopulated.
 
@@ -469,18 +470,18 @@ No standalone Blue Archive reconstruction model exists yet. If the coverage inde
 
 ## 11. Next mandatory analytical step
 
-**`対策委員会編` Chapters 1–2 and `時計じかけの花のパヴァーヌ` Chapters 1–2, including all four mandatory checkpoints after the Prologue, are complete. Eden Treaty Chapter 1 is active through E003.**
+**`対策委員会編` Chapters 1–2 and `時計じかけの花のパヴァーヌ` Chapters 1–2, including all four mandatory checkpoints after the Prologue, are complete. Eden Treaty Chapter 1 is active through E004.**
 
 The next crosswalk unit, still unopened, is:
 
-- story ID: `BA:main:003:001:004`;
-- scope: `MAIN_V003_C001_E004`;
+- story ID: `BA:main:003:001:005`;
+- scope: `MAIN_V003_C001_E005`;
 - arc: `エデン条約編`;
-- source title: `第4話;補習授業部の生徒たち（１）`.
+- source title: `第5話;補習授業部の生徒たち（２）`.
 
-Use the [V002 C002 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) as latest canonical synthesis, retaining prior checkpoints. V003 C001 E001 adds Seia's framed treaty/paradise account. E002's future remedial group has reported one-week expulsion risk and a rewind to earlier Tea Party introduction. E003 shows Nagisa/Mika requesting extraordinary-authority remedial help for four; Sensei accepts within ability, while Nagisa defers treaty detail and the roster leads to Hifumi. Four E002 newcomers remain `UNMODELED`: 21 partial / 31 unmodeled across 52. No prospective model was frozen; contextual side-source backfill remains **DEFER**.
+Use the [V002 C002 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) as latest canonical synthesis, retaining prior checkpoints. V003 C001 E001 adds Seia's framed treaty/paradise account. E002's future remedial group has reported one-week expulsion risk and a rewind to earlier Tea Party introduction. E003 shows the special teaching request and treaty deferral. E004 explains Hifumi's missed test, appoints her temporary president with visible discomfort and introduces Hanako's disputed detention and Azusa's narrator-reported warehouse resistance. Hasumi/Mashiro enter `UNMODELED`: 21 partial / 33 unmodeled across 54. No prospective model was frozen; contextual side-source backfill remains **DEFER**.
 
-The next permitted story operation is `MAIN_V003_C001_E004` under these controls.
+The next permitted story operation is `MAIN_V003_C001_E005` under these controls.
 
 Before narrative access:
 
@@ -1300,4 +1301,14 @@ The next unopened source was `BA:main:003:001:003` / `MAIN_V003_C001_E003`, `第
 - Nagisa defers treaty explanation as confidential and says it is not very related to the club, while Mika's workload report supplies a limited relation. Mika/Nagisa report Seia hospitalized/absent and Nagisa serving as host instead; no hospital record or E001 monologue chronology is verified. Two choice pairs are alternative, two dialogue pairs duplicate, and inward thoughts stay private.
 - No new tracked subject or readiness promotion: **21 `PARTIAL_MODEL` / 31 `UNMODELED`** across 52, none operational/validated. No standalone model, frozen prediction, new durable claim ID or side-source backfill.
 
-The next unopened source is `BA:main:003:001:004` / `MAIN_V003_C001_E004`, `第4話;補習授業部の生徒たち（１）`.
+The next unopened source was `BA:main:003:001:004` / `MAIN_V003_C001_E004`, `第4話;補習授業部の生徒たち（１）`; this historical E003 frontier is now complete.
+
+## V003 C001 E004 state delta
+
+- Eden Treaty Chapter 1 is active-provisional through E004; coverage is **91 / 310**. `MAIN_V002_C002` remains latest canonical checkpoint.
+- Hifumi admits skipping a test for a Peroro surprise performance, tentatively blames a scheduling error and apologizes. Nagisa uses merit/reciprocal “love” to appoint her temporary remedial president despite Hifumi's protest about average grades and her own risk. Hifumi plans to meet peers; leadership is active but not proven unpressured or successful.
+- Koharu says stranger caution explains her guarded response, then protests Hanako's swimsuit appearance and disputed emergence from a supposedly locked cell. The narration establishes Hanako's earlier swimsuit apprehension, but current lock state/escape route remains open. Koharu's capital-punishment rhetoric is not school law.
+- Mashiro reports Azusa's capture; the narrator reports a tear-gas warehouse blast and three-hour booby-trap/IED resistance with many harms. Azusa's additional-harm and torture-training remarks are hers. The original suspected violent act, precise harm and motive are unknown; no trial or academic outcome shown. Hasumi/Mashiro enter `UNMODELED`.
+- Totals: **21 `PARTIAL_MODEL` / 33 `UNMODELED`** across 54, none operational/validated. No standalone model, frozen prediction, new durable claim ID or side-source backfill. E002's future group scene is not silently moved into these earlier visits.
+
+The next unopened source is `BA:main:003:001:005` / `MAIN_V003_C001_E005`, `第5話;補習授業部の生徒たち（２）`.

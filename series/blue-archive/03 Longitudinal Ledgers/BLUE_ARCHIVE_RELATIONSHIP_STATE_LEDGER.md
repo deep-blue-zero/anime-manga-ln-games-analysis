@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:003; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:004 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:004; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -655,3 +655,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **TEA PARTY ↔ SENSEI:** Nagisa offers the restricted seat, asks Sensei to advise a temporary remedial club using Schale's exceptional authority, and Sensei accepts conditionally. Nagisa promises escort/possible dispatch; future role execution unshown. Mika's friendliness and newspaper report do not prove comprehensive trust.
 - **SENSEI ↔ HIFUMI:** narrated roster recognition and a greeting follow prior V001 contact. Hifumi says the circumstances were unavoidable but does not identify them; avoid retrofitting E002's later group position into the present visit.
 - **NAGISA/MIKA ↔ SEIA (reported):** they call Seia absent/hospitalized and normally current host. No direct Seia response or hospital evidence; E001 monologue timing remains unplaced.
+
+## V003 C001 E004 relationship delta — pressured leadership and first disciplinary encounters
+
+- **NAGISA → HIFUMI:** Nagisa praises her love/merit and asks her to guide the club as temporary president; Hifumi protests average grades and her own jeopardy. Hifumi's eventual plan does not prove initial eagerness or define their full reciprocal history.
+- **SENSEI ↔ HIFUMI:** Hifumi confesses missed testing and feels judged; Sensei says she need not apologize to them, accepts a working partnership and follows her plan. Neither absolution from school duty nor successful rescue is implied.
+- **KOHARU ↔ HIFUMI/SENSEI/HANAKO:** Koharu's stranger caution makes the visitors' entry awkward; Hanako's disputed emergence and swimsuit argument draw emphatic objection. No enduring dyad rule or valid sentence follows.
+- **HASUMI/MASHIRO ↔ AZUSA:** Mashiro reports capture and Hasumi arrives with her. Azusa voices resistance/torture expectation; no interrogation, personal motive or student-club interaction yet.

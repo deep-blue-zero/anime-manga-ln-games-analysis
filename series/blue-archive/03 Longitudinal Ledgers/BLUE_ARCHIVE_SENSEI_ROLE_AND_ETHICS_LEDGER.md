@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:003; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:004 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:004; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -732,3 +732,7 @@ Koharu initially blames Sensei for her failure; Hanako challenges that, while Ko
 ## V003 C001 E003 delta — proposed guidance and conditional acceptance
 
 Mika argues `先生` should guide and extend a hand rather than merely instruct by BD; Nagisa asks Sensei to serve four struggling students through an exceptional temporary club. This is their role framing, not Sensei's proven capacity. `choice:009` accepts gladly only `私にできることであれば`. Sensei asks about the treaty and third president, expresses hope for Seia's recovery, and later recognizes Hifumi; no tutoring or dispatch occurs here. `choice:008`/`010` alternatives must not be fused, and inward `choice:005`/`u:0086` cannot be passed off as a public challenge. The council's confidentiality and Schale-authority rationale still require scrutiny; teacher ethics cannot be inferred from accepting the job alone. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E004 delta — not a personal absolution or punitive verdict
+
+Sensei learns Hifumi missed a test for a hobby. `choice:001` is silent, and “cold eyes” is Hifumi's reading of them; `choice:002` says her apology need not be directed to Sensei, not that her school obligation vanished. Sensei affirms collaboration and follows Hifumi toward the other three. In the Justice Realization room, Sensei offers a tentative `人見知り` interpretation of Koharu's stranger caution; Koharu disputes it. Surprise/silent choices do not endorse Koharu's capital-punishment joke, validate Hanako's confinement, or judge Azusa guilty of the original suspected violence. No counseling, discipline or academic improvement is yet shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

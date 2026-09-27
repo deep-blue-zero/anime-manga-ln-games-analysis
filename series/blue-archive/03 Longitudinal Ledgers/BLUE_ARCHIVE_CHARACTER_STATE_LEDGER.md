@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:003; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:004 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:004; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -792,3 +792,11 @@ Koharu, Hanako, Azusa and Mika enter `UNMODELED`. Totals **21 `PARTIAL_MODEL` / 
 - **Sensei/Hifumi/Seia:** Sensei conditionally accepts teaching, asks about treaty and third president, then recognizes Hifumi from the roster. Hifumi invokes unavoidable circumstances without explaining grades. Mika/Nagisa report Seia hospitalized/absent, not independently shown.
 
 No new tracked subject or readiness promotion: **21 `PARTIAL_MODEL` / 31 `UNMODELED` across 52**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C001 E004 character-state delta — hobby cost, confinement and capture
+
+- **Hifumi:** admits skipping an exam for a Peroro surprise performance, first invokes a schedule mistake then apologizes. Nagisa presses her into temporary club presidency by calling her an honor student and invoking reciprocal “love”; Hifumi objects to the grade characterization, expresses discomfort, then plans to meet peers with Sensei. Her earlier hobby expertise now has an actual school-duty cost; no global irresponsibility rule.
+- **Koharu/Hanako:** Koharu guards the Justice Realization room, says strangers made her cautious, and reacts to Hanako's swimsuit/loose-cell appearance with punitive hyperbole. Hanako confidently argues, but her claim the cell was open conflicts with Koharu's lock claim; no escape mechanism or statutory death penalty is established.
+- **Azusa/Hasumi/Mashiro:** Mashiro reports capturing Azusa; narrator describes a large tear-gas-storehouse incident and resisted arrest. Azusa's ammunition/torture-training statements are her claims. Hasumi returns and recognizes Sensei, without a broader individual sample.
+
+Hasumi and Mashiro enter `UNMODELED`. Totals **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

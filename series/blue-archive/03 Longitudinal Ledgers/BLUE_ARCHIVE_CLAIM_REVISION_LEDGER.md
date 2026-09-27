@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:003; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:004 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:004; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:005 unopened
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001_E003 active provisional; E004 unopened
+current_sequential_boundary: MAIN_V003_C001_E004 active provisional; E005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1583,3 +1583,13 @@ No new durable claim ID, standalone model, frozen prediction or side-source admi
 - **Other families:** no direct global test.
 
 No new claim ID, standalone model, frozen prediction or side-source admission. Treaty text/status, roster causes, temporary-club process, Seia's condition and tutoring results remain OPEN; backfill **DEFER**.
+
+## V003 C001 E004 claim delta — student agency under remedial and disciplinary pressure
+
+- **BA-C001/C016:** Hifumi's confessed exam skip and reluctant, reciprocity-framed president appointment complicate an uncomplicated “student-led” educational-rescue reading. Her subsequent plan is her action, not proof the appointment was unpressured or successful.
+- **BA-C002–C004/C007/C010–C011:** Koharu's `死刑`/`死罪` and `公共破廉恥罪` are hyperbole, not verified rules. Hanako's confinement and Azusa's arrest show enforcement, but mandate, proportionality, original charges and outcomes remain open.
+- **BA-C008:** Hifumi's “cold eyes” is her interpretation of Sensei silence; Sensei's `choice:002` says apology is not owed personally. Hanako's italic reply, title-card name syllables and the malformed IED gloss need attribution/formatting quarantine.
+- **BA-C019/C020:** no direct Pavane test; temporary remedial membership may become an institutional-belonging contrast only with more evidence.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Hifumi's test record, detention process and Azusa's original offense remain OPEN.

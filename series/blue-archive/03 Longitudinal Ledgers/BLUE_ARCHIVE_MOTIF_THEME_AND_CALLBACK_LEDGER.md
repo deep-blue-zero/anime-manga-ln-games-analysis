@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:003; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:004 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:004; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:005 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -810,3 +810,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **Four students as help or burden:** Mika's delegation and `面倒ごと` phrase meet Nagisa's `愛が必要な生徒たち` correction. This contrasts descriptions; future pedagogy must test whether the dignifying language governs treatment.
 - **Teacher as guide, not omnipotent remedy:** Mika's `先生` gloss and Sensei's conditional assent connect E002's future help scene to an earlier authorization, without predicting educational success.
 - **Treaty as busy reason and withheld matter:** Mika cites workload; Nagisa calls the treaty confidential and of little relation to the club. The unresolved relation sustains Seia's E001 treaty question without settling status or politics.
+
+## V003 C001 E004 motif / callback delta — love as invitation and lever
+
+- **Peroro enthusiasm costs schooling:** Hifumi's hobby moved from V001 expertise/affinity to an exam-skipping choice, then embarrassment. A charming pastime is neither morally erased nor exempt from consequence.
+- **Reciprocity in a temporary club:** Nagisa's praise/`愛` frames Hifumi's presidency as return of care. Hifumi's objection and temporary clarification complicate whether belonging/leadership is freely chosen; compare Pavane recognition only as a question, not a copied rule.
+- **Control versus care:** Justice Realization detention and Azusa's violent arrest interrupt the tidy “students needing love” phrasing of E003. Punitive jokes are not law, and Hanako's unlocked-cell account is unresolved; later treatment must determine whether care and control coexist responsibly.
