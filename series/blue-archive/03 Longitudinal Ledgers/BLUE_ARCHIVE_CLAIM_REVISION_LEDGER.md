@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–020; BA:main:003:003:021 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–021; BA:main:003:003:022 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E020 active provisional; E021 unopened
+current_sequential_boundary: MAIN_V003_C003_E021 active provisional; E022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2081,3 +2081,12 @@ No new durable claim ID yet; chapter checkpoint should reconsider the ETO/narrat
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E021 unopened.
+
+## V003 C003 E021 claim delta — reframing a proof demand
+
+- **BA-C001/C016 — QUALIFY:** Ako/Chinatsu/Abydos students organize practical information/support without new Sensei command; Seia credits Sensei's conceptual move, not an achieved adult-only victory.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Seia's ETO-versus-ETO framing and fifth-old-rule concession concern what must be proved before action, not inspected treaty authority or empirical proof paradise exists. E019 Justina disruption remains unmeasured here.
+- **BA-C008 — STRENGTHEN:** Ako's data offer is direct but dataset/delivery/effect are not inspected; Seia's “believing is proof” proposal is immediately self-qualified as not formal proof.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E022 unopened.

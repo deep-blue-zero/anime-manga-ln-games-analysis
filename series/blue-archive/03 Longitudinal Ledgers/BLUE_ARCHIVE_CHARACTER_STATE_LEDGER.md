@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–020; BA:main:003:003:021 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–021; BA:main:003:003:022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E021 character-state delta — tactical data and Seia's concession
+
+- **Ako/Ayane/Hoshino/Chinatsu:** Ako offers analyzed opponent data to Abydos and addresses Ayane familiarly; the dataset/delivery are unshown. Chinatsu says support is ready, Hoshino directs movement. Ako/Chinatsu/Hoshino/Ayane remain narrow `PARTIAL_MODEL`.
+- **Shiroko/Serika/Nonomi/Iori:** Shiroko/Serika voice readiness, Nonomi likes friendly tone, Iori calls the Ako–Ayane exchange reunion-like. No battle effect. Shiroko/Serika/Nonomi/Iori retain prior readiness.
+- **Seia:** identifies the forced paradise YES/NO proof demand as misplaced, concedes Sensei's reframe while saying belief is not formal proof. No physical awakening or verified metaphysics. `UNMODELED`.
+- **Sensei:** absent from direct action/choices; Seia attributes a conceptual answer to them, without a new spoken sample. `PARTIAL_MODEL`.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E020 character-state delta — local cross-school movement
 

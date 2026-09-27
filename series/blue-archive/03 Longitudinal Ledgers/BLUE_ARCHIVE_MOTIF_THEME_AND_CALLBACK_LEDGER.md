@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–020; BA:main:003:003:021 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–021; BA:main:003:003:022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1206,3 +1206,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Abydos as additional bridge:** Hoshino offers help beyond the Trinity–Gehenna dyad, making the local alignment practical rather than merely Seia's rhetoric.
 - **Office and name:** Hina/Hoshino exchange titles while Hoshino requests personal address; Serika's correction adds warmth without a grand reconciliation speech.
 - **Movement, not ending:** “center opened/west/go” advances the tableau one step but leaves E019's ETO validity, Justina control and all combat outcomes open.
+
+## V003 C003 E021 motif / callback delta — proof is not the only way to move
+
+- **Old rule revisited:** Seia abandons a forced YES/NO paradise-proof frame and sees that practical trust/action may proceed without satisfying it; she expressly says belief is not formal proof.
+- **Reunion as infrastructure:** Ako and Ayane's recognized familiarity makes cross-school intelligence exchange socially possible, but the data itself remains uninspected.
+- **ETO opposition remains a frame:** Seia names two competing visions, while no new ritual/legal audit resolves either claimant.
+- **The next move:** Chinatsu's readiness and Hoshino's “go” extend E020's coalition movement, without transforming planning into victory.

@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–020; BA:main:003:003:021 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–021; BA:main:003:003:022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1048,3 +1048,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **HINA ↔ HOSHINO/SERIKA:** Hoshino offers Abydos help, requests name rather than title; Serika points out Hoshino's reciprocal title habit. Hina accepts their help but no deep personal exchange or battle result occurs.
 - **SENSEI ↔ COALITION:** Sensei is not directly heard in E020. The students' assent should not be retroactively turned into an explicit order from Sensei.
 - **AZUSA ↔ HIFUMI/SAORI:** not directly advanced in this short unit; E019 acceptance/confrontation remain open.
+
+## V003 C003 E021 relationship delta — prior familiarity, current information aid
+
+- **AKO ↔ AYANE/ABYDOS:** Ako offers opponent data and greets Ayane by full name; Ayane recognizes her, Iori jokes of a reunion and Nonomi approves friendly relations. No formal alliance charter or verified handoff result.
+- **HOSHINO/SHIROKO/SERIKA/CHINATSU ↔ COALITION:** readiness/support cues precede Hoshino's move order; outcomes absent.
+- **SEIA ↔ SENSEI:** Seia credits Sensei with rejecting a coercive proof question and says she was wrong; this is an intellectual response, not new physical dialogue or Seia's medical recovery.
+- **AZUSA ↔ HIFUMI/SAORI:** no direct change in this unit; E019 contact and duel outcome remain open.

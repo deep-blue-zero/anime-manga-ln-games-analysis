@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–020; BA:main:003:003:021 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–021; BA:main:003:003:022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1452,3 +1452,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Hasumi `あの時以来` alludes to earlier shoulder-to-shoulder Chinatsu contact without identifying an exact incident in this unit. Tsurugi laughter plus Iori's `正義実現委員長` gives clear presence but no medical discharge line.
 - Hina addresses Hoshino `アビドスの副会長`, Hoshino asks for `ホシノ` while saying `風紀委員長ちゃん`, and Serika notices the asymmetry; this is address comedy, not proof either forgot the other's identity.
 - `行こう`/collective `了解っ` marks commencement/assent, not arrival or victory. No Sensei choices; scene 2 `u:0001` is E021 title only.
+
+## V003 C003 E021 delta — refusal of a forced proof answer
+
+- Ako `分析しました、データをお送りします` promises to send, not evidence the data were received or correct. Her `お久しぶり` to full-name Ayane indicates familiarity without dating the prior contact.
+- Seia `YESかNOかを強いられる` calls the fifth-rule demand coercive; she attributes `答える必要はない` to Sensei rather than quoting a new Sensei choice. `信じることによって、証明` is immediately qualified by `証明でも何でもない`, so do not translate it as formal proof.
+- `私の負け`/`間違っていた` mark Seia's own revision, while `大人は…勝ってしまう` is reflective generalization, not a test of omnipotence. No Sensei choices; scene 2 `u:0015` is E022 title only.

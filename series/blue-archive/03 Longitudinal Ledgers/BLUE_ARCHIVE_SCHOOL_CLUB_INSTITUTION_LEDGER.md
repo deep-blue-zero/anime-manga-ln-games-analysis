@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–020; BA:main:003:003:021 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–021; BA:main:003:003:022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -855,3 +855,7 @@ Abydos's five committee students directly join Hifumi and Justice/Prefect allies
 ## V003 C003 E020 institutional delta — local coalition maneuver
 
 Hina reports the center opened and assigns a western move, with Iori agreeing. Hasumi offers Justice aid, Chinatsu recognizes her, Tsurugi appears and Hina accepts; Hoshino offers Abydos committee aid and Hina accepts the group move. These are direct cross-school tactical agreements stronger than an abstract peace aspiration, but the text shows no signed treaty, ETO authority adjudication, completed westward engagement or stable truce. Hasumi/Chinatsu prior joint work is an allusion; Tsurugi's presence does not equal a medical clearance. No Sensei direct command in this unit, and E019's Justina disruption has no new technical measurement.
+
+## V003 C003 E021 institutional delta — proposed data handoff
+
+Ako says she analyzed opponent information and will send it to Abydos; Ayane recognizes her. Chinatsu reports support ready and Hoshino cues movement. This is concrete Gehenna–Abydos information cooperation layered on E020's Justice/Prefect alignment, but no dataset, receipt, correctness test, new command structure or battle effect is printed. Seia names ETO versus ETO and reinterprets paradise belief/old-rule proof; that is philosophical framing, not audited constitutional status for either organization. No treaty ratification or physical Seia return.

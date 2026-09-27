@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–020; BA:main:003:003:021 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–021; BA:main:003:003:022 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -945,3 +945,7 @@ Sensei meets Hina, thanks her ongoing effort and tells her rest is allowed rathe
 ## V003 C003 E020 delta — students carry the next step
 
 Sensei has no direct new speech or choice. Hina, Iori, Hasumi, Tsurugi, Chinatsu and Abydos members openly agree on a local maneuver after E019's coalition formation. This is student tactical agency under an unresolved ETO claim, not proof Sensei's declaration is legally sufficient or that an adult command caused each decision. No completed rescue, enemy defeat or medical clearance is shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E021 delta — credited reframing, no new adult act
+
+Sensei has no new direct speech or action while Ako offers tactical data, Chinatsu readies support and Hoshino cues movement. Seia says Sensei's answer to the fifth old rule is that its forced YES/NO proof need not govern care/action; she concedes that belief is not formal proof. This is her interpretation of an earlier teacher stance, not evidence the adult alone won a battle, caused paradise to exist or lawfully replaced the ETO. Student cooperation remains directly observable. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
