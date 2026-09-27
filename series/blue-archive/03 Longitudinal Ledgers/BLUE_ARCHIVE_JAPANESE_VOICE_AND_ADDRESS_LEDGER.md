@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–012; BA:main:004:001:013 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–013; BA:main:004:001:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1735,3 +1735,8 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 - Rin's `行政委員会から、強い反発` is forecast, not quoted committee minutes; `沈黙は正解` interprets Sensei's non-answer. The title `雨に濡れた請求書` must not be promoted into an itemized bill when the text identifies a `設備補修の提案書`.
 - Kaya's gracious tea/`学籍データ` language to Sensei differs from `SRTみたいになってしまった` pressure on Kanna. `三本の矢` and `利害関係が合う人たち` stop before naming collaborators; do not supply names.
 - The late italic `？？？` speaks to Kaya and is called `最高のパートナー` / `専門家`; the source gives no name. Sensei's `scene:002:choice:001` contains paired apology/gratitude alternatives, not both uttered. No performed voice admitted.
+
+## V004 C001 E013 voice delta — seller's dream rhetoric and camp seams
+
+- The part-time student's `噂` marks Kaiser subway/cancellation claims as reported. `夢を見ている` and the greenhouse-flower image are speculation, not a direct reading of RABBIT's motives. The emphatic `先生（・・）` shows address/recognition while leaving personal identity unknown.
+- Sensei's `scene:002:choice:006` and `scene:003:choice:002` are paired alternatives. The second can claim the inari was picked up despite narrator-confirmed purchase. `scene:003:u:0027` is Miyu-tagged bravado immediately before Saki's barehanded vow and Miyu's worry; preserve tag and quarantine exact voice. `u:0036` anonymous `くひひ` immediately precedes Moe, but no free-standing new person is required. No performed voice admitted.

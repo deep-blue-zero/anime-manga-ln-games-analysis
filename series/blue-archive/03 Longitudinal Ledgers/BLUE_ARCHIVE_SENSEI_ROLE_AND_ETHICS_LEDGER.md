@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–012; BA:main:004:001:013 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–013; BA:main:004:001:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1129,3 +1129,7 @@ Sensei internally chooses to check RABBIT in heavy rain, arrives as Miyako strug
 ## V004 C001 E012 delta — proposal without institutional leverage
 
 Sensei brings a flood-damage park-repair proposal to Rin, then appeals to other council members and Kaya (`scene:001:u:0002-0021;scene:002:u:0002-0015`). Rin and Kaya refuse for stated institutional reasons, and narration confirms most others rebuff the request. No funding, repair or unilateral order follows. Sensei's silence lets Rin infer the proposal is for RABBIT; Kaya's paired response choices are alternatives, followed by a nod to enjoyment with the squad. Kaya's later expectation of Sensei/RABBIT estrangement is a counterweight to interpreting her public encouragement as sincere support, but cannot be assigned causal responsibility for prior dangers. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E013 unopened.
+
+## V004 C001 E013 delta — paid food and guarded disclosure
+
+Sensei buys inari in 子ウサギタウン and buys another, declines to inform the unnamed seller about park students under either paired refusal wording, and states a teacher's duty is to support students' dreams (`scene:002:u:0002-0056`). The seller gives leftovers, which Sensei brings to RABBIT; narration confirms they share the meal (`scene:003:u:0009-0023`). One choice variant says the food was picked up, despite the purchase, so self-presentation and event differ. The squad still questions safety and future defense. Sensei's presence is cited by Miyako against a feared Black Market outcome, but the outcome is speculative. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E014 unopened.

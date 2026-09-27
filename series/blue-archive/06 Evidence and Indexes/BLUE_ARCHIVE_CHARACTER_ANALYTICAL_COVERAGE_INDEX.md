@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_E001_E012
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_E001_E013
 generation: V1
-version: "2.52"
+version: "2.53"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C004 through checkpoints, then BA:main:004:001:001–012 provisionally; 188/310 main units; side-source classes unreviewed; BA:main:004:001:013 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C004 through checkpoints, then BA:main:004:001:001–013 provisionally; 189/310 main units; side-source classes unreviewed; BA:main:004:001:014 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:004:001:013
+next_unopened_main_unit: BA:main:004:001:014
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:004:001:013
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V004_C001_E012` provisional boundary, inheriting canonical `MAIN_V003_C004`:
+This index answers four questions at the `MAIN_V004_C001_E013` provisional boundary, inheriting canonical `MAIN_V003_C004`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025, V003 C004 E001-E027 and V004 C001 E001-E012;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025, V003 C004 E001-E027 and V004 C001 E001-E013;
 - current checkpoint: `MAIN_V003_C004`; prior C001/C002/C003 checkpoint basis remains lineage;
-- main-story coverage: `188 / 310` canonical units;
+- main-story coverage: `189 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:004:001:013`.
+- next unopened main unit: `BA:main:004:001:014`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,17 +74,17 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` through V004 C001 E012; park-repair proposal refused by Rin, other members and Kaya | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` through V004 C001 E013; buys/shares inari, withholds park details and states dream-support duty | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Decartes | `ANALYZED` in V004 C001 E010; names 所確幸, claims food loss, holds Sensei and contests goods after battle | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Sora | `ANALYZED` in V004 C001 E006; receives squad at Schale and describes discarded-food disposal arrangement | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kaya | `ANALYZED` through V004 C001 E012; declines repair aid, pressures Kanna and admits expected Sensei/RABBIT rupture | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kanna | `ANALYZED` through V004 C001 E012; reports demolition delay and receives Kaya's coalition hint | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Kirino | `ANALYZED` through V004 C001 E009; market patrol, food interest, armed-wanderer rumor and budget report | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Fubuki | `ANALYZED` through V004 C001 E003; Miyu interviewer; fears clarified, Life Safety suggestion declined | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Saki | `ANALYZED` through V004 C001 E011; storm-loss mission doubt, then joins drainage labor | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Moe | `ANALYZED` through V004 C001 E011; protects communications gear, deplores camp hardship | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Miyako | `ANALYZED` through V004 C001 E011; persists at drain, accepts help and thanks Sensei | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Miyu | `ANALYZED` through V004 C001 E011; asks to stop camp protest, then helps drain | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Saki | `ANALYZED` through V004 C001 E013; accepts shared inari and vows resistance despite depleted firepower | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Moe | `ANALYZED` through V004 C001 E013; shares inari, questions safety and offers resupply | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Miyako | `ANALYZED` through V004 C001 E013; recalls inari-loving seniors and seeks park firepower repair | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Miyu | `ANALYZED` through V004 C001 E013; fears supply depletion and speculative Black Market harm | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Seia | `ANALYZED` through C004 E027; reports prophetic-dream loss as deal price, last vision withheld | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Koharu | `ANALYZED` through C004 E026; quietly sends preserved Mika accessories via Ichika | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hanako | `ANALYZED` through C004 E026; finds damaged ancient catacomb map with Ui, restoration unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -1561,3 +1561,9 @@ Routing: [V004 C001 E011 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_
 Sensei seeks federal support for a flood-damaged park repair, but Rin, Kaya and most other approached members decline. Rin reports the little-used park is slated for removal and forecasts committee opposition to support for a privileged armed SRT camp; Kaya cites SRT's official closure and redevelopment, offering student-record preservation only as a stated capacity. Kanna reports armed rough sleepers and RABBIT delay demolition for `子ウサギタウン`, but no weapon or project file is inspected. Kaya pressures Kanna to recruit aligned interests without naming them, then tells an unnamed “expert” she expected Sensei and RABBIT to hurt each other and separate. This qualifies her cordial address without proving prior sabotage or identifying the expert. No new named subject/readiness promotion: **21 `PARTIAL_MODEL` / 76 `UNMODELED` across 97**, none operational/validated. No standalone model, frozen prediction, new durable claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E013 unopened.
 
 Routing: [V004 C001 E012 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E012_DEEP_READING.md) → `BA:main:004:001:012`, two scenes, 79 visible numbered units and eight Sensei choice groups (one paired). Coverage is **188 / 310**.
+
+## 162. V004 C001 E013 provisional coverage delta
+
+An unnamed vendor sells Sensei inari, relays Kaiser Construction redevelopment and possible cancellation as rumor, speculates about the park students' impossible dream, and addresses Sensei by role. The seller's former friends/juniors and Miyako's inari-loving SRT seniors are suggestive but do not identify the vendor or E012's expert. Narration confirms Sensei buys food and the squad shares it, while one optional spoken variant claims it was found. Miyako describes federal aid and corporate pressure as expected difficulties, Saki vows resistance despite lost ammunition, Miyu fears worsening harm, and Moe offers resupply without yet providing it. No new named subject/readiness promotion: **21 `PARTIAL_MODEL` / 76 `UNMODELED` across 97**, none operational/validated. No standalone model, frozen prediction, new durable claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E014 unopened.
+
+Routing: [V004 C001 E013 reading](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C001_E013_DEEP_READING.md) → `BA:main:004:001:013`, three scenes, 93 visible numbered units and 11 Sensei choice groups (two paired). Coverage is **189 / 310**.

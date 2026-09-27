@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–012; BA:main:004:001:013 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–013; BA:main:004:001:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1705,3 +1705,9 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Rin:** distinguishes a public park repair from federal support for armed SRT campers, reports planned park removal and forecasts committee opposition; she refuses persuasion. Her reasoning is direct speech, not an inspected vote or demolition order.
 - **Kaya:** declines direct/park-nominal aid and says she can maintain student records. She later pressures Kanna on redevelopment, suggests aligned-interest partners and discloses she expected Sensei/RABBIT to hurt each other and separate. This is a material split between cordial public address and separate strategic expectation, without proving sabotage.
 - **Kanna / unnamed partner:** Kanna reports demolition delays due to armed rough sleepers and RABBIT's presence, then receives a coalition hint; exact armed group and coalition are unverified. Kaya's unnamed “expert” wants closer observation; identity and expertise remain open.
+
+## V004 C001 E013 character-state delta — anonymous seller and a shared meal
+
+- **Unnamed part-time seller:** sells Sensei inari, reports local Kaiser Construction redevelopment and possible cancellation as rumor, speculates about park students' “dream,” invites information and gives leftovers for hungry children. The final emphatic `先生` address shows recognition of role but not identity, motive or link to the E012 expert/SRT seniors.
+- **Sensei:** purchases inari twice, withholds park information in either paired phrasing, asserts teacher duty to support dreams and brings the food to RABBIT. One camp choice can verbally misdescribe its source; narration of purchase governs the event.
+- **Miyako / Saki / Miyu / Moe:** share the meal by narration. Miyako recalls inari-loving SRT seniors, worries about damaged firepower and requests repairs; Saki vows resistance, Miyu fears Black Market harm, and Moe offers to handle resupply. All future outcomes remain open.

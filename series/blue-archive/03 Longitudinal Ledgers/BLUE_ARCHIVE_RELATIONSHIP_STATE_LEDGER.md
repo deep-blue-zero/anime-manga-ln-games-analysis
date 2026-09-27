@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–012; BA:main:004:001:013 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–013; BA:main:004:001:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1323,3 +1323,7 @@ Saki, Moe and Miyu question continuing the camp; Miyako continues alone at the d
 ## V004 C001 E012 relationship delta — supportive address versus desired rupture
 
 Sensei asks Rin, other council members and Kaya for park repair help, but receives no authorized aid. Rin is frank about limits and declines persuasion. Kaya speaks warmly to Sensei and asks them to keep looking after RABBIT, then tells an unnamed partner she had expected the relationship to damage itself and end. This direct asymmetry qualifies trust in her earlier courtesy without identifying a prior plot. Kanna appears anxious in Kaya's progress review; Kaya uses responsibility/SRT-fate pressure and suggests additional aligned-interest actors. No new relationship with the unidentified expert is specified beyond Kaya's own “best partner” label.
+
+## V004 C001 E013 relationship delta — food, discretion and bounded reliance
+
+Sensei withholds RABBIT details from an unnamed seller even when offered extra food, then brings purchased/leftover inari to the squad. Moe and Saki suspect contamination or spoilage before the group shares it; Miyu initially doubts Sensei paid. Miyako accepts the food, remembers seniors and later treats Sensei's presence as a reason against her worst Black Market scenario. This is narrow reliance under damaged supplies, not full trust or proof Sensei can prevent future harm. The seller's familiar role address and fondness for former colleagues do not identify any personal tie to the squad.

@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–012; BA:main:004:001:013 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–013; BA:main:004:001:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1039,3 +1039,7 @@ The park shelter fails under widespread heavy rain; spare sheeting runs out, and
 ## V004 C001 E012 institutional delta — park redevelopment and coercive capacity
 
 Rin says `子ウサギ公園` is little used and scheduled for removal, and forecasts Administrative Committee backlash to direct SRT-camp support. Kaya says SRT's official closure makes direct funding awkward and the region is planned for redevelopment, while promising only student-record preservation; none of these documents or a completed database update is inspected. Narration confirms most federal members Sensei approaches decline. Kaya asks Kanna for `子ウサギタウン` construction progress. Kanna reports demolition delay from nearby rough sleepers with unusual firearms and remaining RABBIT campers; neither weapons nor individual identities are shown. Kaya urges a coalition of aligned interests but names no partners/order. Redevelopment and eviction are planned/reported, not completed.
+
+## V004 C001 E013 institutional delta — commercial rumor and supply stress
+
+An unnamed student vendor says Kaiser Construction may demolish local shops for a subway/commercial project and that residents are being pushed out, while also relaying cancellation rumor due to armed wanderer disruption and armed park students. Open shops are absent at Sensei's visit, but company contracts, permit, eviction roster and cancellation are not inspected. E012 Rin/Kaya independently state redevelopment is planned; the seller's details stay attributed. RABBIT shares food while acknowledging federal refusal and storm-damaged gear, and Miyako identifies park gun/turret repair as a minimum. Moe offers resupply, not a completed shipment.

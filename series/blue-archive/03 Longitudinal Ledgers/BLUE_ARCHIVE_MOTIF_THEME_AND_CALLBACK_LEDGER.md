@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–012; BA:main:004:001:013 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–013; BA:main:004:001:014 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1481,3 +1481,7 @@ Storm exposes the cost of treating a protest camp as a permanent SRT home: shelt
 ## V004 C001 E012 motif / callback delta — care meets planned redevelopment
 
 E011's rain damage becomes a written repair proposal, but the park is simultaneously described as near removal/redevelopment. Maintenance of a shared place and institutional intent to erase that place conflict, sharpening the contrast between RABBIT's lived camp and federal categories of a closed school. Sensei's practical help cannot simply buy an official fix. Kaya's “three arrows” images coalition as strength, while she keeps its interests unnamed; her separate expectation that student/teacher ties would break reframes cordial assistance as possibly instrumental, without proving an engineered injury.
+
+## V004 C001 E013 motif / callback delta — inari, dreams and contested redevelopment
+
+A seller's inari moves from a customerless commercial street to a hungry park camp, briefly making ordinary food a connection amid contested property and planned redevelopment. The seller's former friends/juniors and Miyako's inari-loving SRT seniors invite recognition without establishing it. Dreams recur in opposing registers: vendor speculation treats the protest as a fragile impossible dream, Sensei states supporting students' dreams is a teacher's duty, and Saki/Miyu show materially different responses to that dream's risk. Rumored Kaiser construction and rumored cancellation must stay below E012's official yet still undocumented redevelopment appraisal.
