@@ -4,16 +4,16 @@ artifact_id: T7S_TOPOLOGY_AND_CHRONOLOGY
 artifact_type: source_topology_and_chronology
 series: Tokyo 7th Sisters
 generation: V1
-version: "10.0"
+version: "12.60"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; exact 235-primary-document horizon completing all eleven admitted 2034 native Main families through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 87 attached inline movie-transcript occurrences across 86 unique source documents / all eleven authored choice branches; no unconsumed non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 214 non-Main i-n-g documents / T7S_B0080–T7S_B0159 are closed; remaining 2034 non-Main is routed; 2053 and crossover semantics remain gated"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-13
+last_updated: 2026-09-26
 ---
 
 # Tokyo 7th Sisters source topology and chronology
@@ -85,7 +85,7 @@ Maintain a **partial-order graph**, not one chronology integer. Only asserted `B
 
 ### Major-story-structure transition order
 
-The two native top-level Main groupings are routed as `T7S_STACK_2034` and `T7S_STACK_2053`. They are independently completed major story structures, not two adjacent batches in one unqualified reading queue. The current 2034 stack contains eleven Main families, all now closed through EPISODE NANASUTA (`200120`). The stack nevertheless retains unfulfilled non-Main eligibility, character/multimodal, longitudinal synthesis, era reconstruction, literary synthesis, and completion-audit obligations.
+The two native top-level Main groupings are routed as `T7S_STACK_2034` and `T7S_STACK_2053`. They are independently completed major story structures, not two adjacent batches in one unqualified reading queue. The current 2034 stack contains eleven Main families, all now closed through EPISODE NANASUTA (`200120`). The stack nevertheless retains unfinished non-Main portfolio, character/multimodal, longitudinal synthesis, era reconstruction, literary synthesis, and completion-audit obligations.
 
 Therefore the permitted high-level order is:
 
@@ -238,6 +238,20 @@ The [EPISODE NANASUTA prerequisite audit](../09%20Audits%20and%20Manifests/T7S_E
 
 The [completion audit](../09%20Audits%20and%20Manifests/T7S_EPISODE_NANASUTA_COMPLETION_AUDIT.md) closes all seventeen primary documents, 1,668 pages, 1,247 text pointers, 421 command-only pages, and 989 voice-reference pages. Seventeen exact character composites and nine decoded backgrounds were reviewed; no movie or authored choice is invoked. All eleven admitted 2034 Main families are now closed. There is no next candidate within the series-`100020` 2034 recommendation list, and every 2053 semantic source remains blocked pending the complete audited 2034-era release.
 
+## 2034 non-Main eligibility and routing decision
+
+The [passed routing audit](../09%20Audits%20and%20Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md) partitions every Sub/Event episode, every non-catalog scenario resource, and every supplemental record without asserting a fabricated cross-family chronology. It admits 743 Sub and 231 Event episodes to the 2034 portfolio horizon; holds eleven 2053-side birthday episodes behind the release gate; and separates one explicit Hololive crossover. Native parent links remain topology edges rather than `BEFORE` claims.
+
+The [portfolio index](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) owns the factual-home schedule. T7S_B0159 closes native Sub/i-n-g chapter `301310` with 3 complete primary documents, 431 pages and 39 command-only pages. The sixty reading units are closed; final run integration and publication audit are still required. Chapter 301320 remains outside this authorization. No cross-chapter temporal relation is inferred.
+
+## First twenty i-n-g targeted cases
+
+The mandated source-routing sequence opens with native Sub top layer `100010` and complete chapter layers `300520`–`300710`. [T7S_B0080 through T7S_B0099](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) close those twenty chapters as forty exact primary documents at source-order indexes 97–136. The tranche contains 2,624 pages, 2,434 text records, 190 command-only pages, 1,866 voice-reference pages, and no authored choice or inline movie.
+
+Table order records the prescribed analytical route, not a total diegetic chronology. Each front episode precedes its paired back episode; no broader before/after relation among the twenty chapters or against Main is inferred without independent dialogue evidence. All command states and forty selected first/last protagonist composites were reviewed. Performed voice, singing, BGM, and SFX remain unauditioned.
+
+The active [B0100–B0159 execution record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) binds the sixty-block plan and distinguishes 60 completed units through T7S_B0159 from the remaining 0. All 2053 semantic sources remain blocked.
+
 ## Revision history
 
 - 2026-09-09 — Initialize native topology and candidate reading schedule from master revision 484; zero analytical chronology edges or consumed stories.
@@ -263,3 +277,126 @@ The [completion audit](../09%20Audits%20and%20Manifests/T7S_EPISODE_NANASUTA_COM
 - 2026-09-12 — V1 / 8.1: establish `T7S_STACK_2034` and `T7S_STACK_2053` as independently completed major story structures; keep EPISODE 6.0 FINAL then EPISODE NANASUTA and the full 2034 story/character/AV release upstream of 2053; permit only non-semantic 2053 topology reconnaissance until the 2034 era-completion audit passes.
 - 2026-09-13 — V1 / 9.0: admit and close complete native Main EPISODE 6.0 FINAL as T7S_B0070–T7S_B0076 with twenty-four attached transcript occurrences and bounded review of all forty-one distinct bound movies; advance the exact horizon to 218 primary episodes and 39,031 flattened pages/logs; preserve chronology, consent, safeguarding, and performed-audio limits; and stop before the then-recorded NANASUTA route. V1 / 10.0 later establishes that `611100101` was already-consumed EPISODE 3.0.
 - 2026-09-13 — V1 / 10.0: correct the stale post-Episode-6 route without reconsuming EPISODE 3.0; admit and close complete native Main EPISODE NANASUTA as T7S_B0077–T7S_B0079; advance the exact horizon to 235 primary episodes and 40,699 flattened pages/logs; complete all eleven admitted 2034 Main families; preserve unknown exact chronology, reception, privacy, safeguarding, performed-audio, and remaining 2034-era-release limits; and leave 2053 semantic admission blocked.
+- 2026-09-24 — V1 / 11.0: partition the complete non-Main inventory; route 974 eligible Sub/Event episodes and exact additional/supplemental tranches to factual homes; retain eleven 2053 birthday episodes and all other 2053 semantics behind the release gate; isolate the Hololive crossover; and authorize portfolios without introducing chronology edges.
+- 2026-09-24 — V1 / 11.1: open bounded T7S_B0080 on the two exact documents in i-n-g layer `300520`; record the complete local source envelope and local-order limit; begin text reconstruction without yet asserting static presentation, audio, block closure, or cumulative state integration.
+- 2026-09-24 — V1 / 12.0: close the first twenty complete i-n-g chapters as T7S_B0080–T7S_B0099; preserve chapter-local order and reject a fabricated total chronology; review all 2,624 pages, 190 command-only states, and forty selected composites; and leave layer `300720` metadata-only and unopened.
+
+- 2026-09-25 — V1 / 12.1: close complete Sub/i-n-g chapter 300720 as B0100 and route B0101 within the authorized sixty-block run; no cross-chapter temporal inference.
+
+- 2026-09-25: close T7S_B0101; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-25: close T7S_B0102; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-25: close T7S_B0103; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-25: close T7S_B0104; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-25: close T7S_B0105; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-25: close T7S_B0106; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-25: close T7S_B0107; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0108; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0109; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0110; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0111; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0112; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0113; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0114; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0115; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0116; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0117; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0118; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0119; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0120; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0121; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0122; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0123; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0124; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0125; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0126; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0127; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0128; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0129; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0130; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0131; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0132; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0133; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0134; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0135; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0136; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0137; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0138; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0139; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0140; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0141; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0142; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0143; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0144; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0145; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0146; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0147; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0148; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0149; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0150; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0151; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0152; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0153; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0154; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0155; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0156; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0157; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0158; preserve chapter-local order and all earlier topology/chronology history.
+
+- 2026-09-26: close T7S_B0159; preserve chapter-local order and all earlier topology/chronology history.

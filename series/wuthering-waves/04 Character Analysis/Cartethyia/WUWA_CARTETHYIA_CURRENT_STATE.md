@@ -55,6 +55,10 @@ Cartethyia's freedom is the right to give inherited obligation a meaning she can
 
 The current reconstructive profile uses D0–D4 developmental states with independent overlays. For unspecified ordinary-character modeling it permits D3/D4 only as an explicit working assumption; precise historical questions require the exact state. The older V0.2 model used S5 for post-Leviathan wandering and S4 as an operational overlay over S3. Keep these generation-specific labels distinct; the newer profile and prior-generation revision ledger govern current selection.
 
+## Bounded static visual layer
+
+The [V0.2 visual-design profile](CHARACTER_VISUAL_DESIGN_PROFILE.md) directly inspects Cartethyia's role-linked head icon, formation art, and activity portrait for the default playable/base presentation. Its JSON companion separates direct observation from design–narrative interpretation, and the reference manifest preserves official-client asset/package/container/hash provenance. Fleurdelys, spirit-body and combat-transformation states, rear construction, runtime motion, and scene staging are not established by these three rasters.
+
 ## Open hardening work
 
 - refresh the voice profile against the current complete machine evidence rather than the V0.2 pilot/cohort boundary;

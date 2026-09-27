@@ -32,6 +32,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Lycoris Recoil](../series/lycoris-recoil/) — `series/lycoris-recoil/`
 - [Maebashi Witches](../series/maebashi-witches/) — `series/maebashi-witches/`
 - [Monogatari Series](../series/monogatari-series/) — `series/monogatari-series/`
+- [Mushoku Tensei](../series/mushoku-tensei/) — `series/mushoku-tensei/` — Sequential analysis of the published Japanese light novels, with source locks, volume readings, six longitudinal ledgers and bounded reconstruction models. The canonical entrypoint records exact coverage, publication/audit gates and the authorized V15 terminal boundary; private primary evidence remains in Drive.
 - [My Hero Academia](../series/my-hero-academia/) — `series/my-hero-academia/`
 - [NANA](../series/nana/) — `series/nana/`
 - [One Punch Man](../series/one-punch-man/) — `series/one-punch-man/`
@@ -42,6 +43,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Redo of Healer](../series/redo-of-healer/) — `series/redo-of-healer/`
 - [Rent-a-Girlfriend](../series/rent-a-girlfriend/) — `series/rent-a-girlfriend/` — Japanese manga V001-V047 inventoried and hash-locked locally; V001-V030 are inspected, closed, checkpointed, and locally audited. V031 is the next sequential candidate and requires new explicit authorization before narrative inspection.
 - [Revue Starlight](../series/revue-starlight/) — `series/revue-starlight/`
+- [Sayonara Lara](../series/sayonara-lara/) — `series/sayonara-lara/` — Japanese-language TV anime E01-E12 source bundles inventoried and locked; analytical foundation adopted; sequential run authorized through E12 with channel-specific AV debts tracked separately.
 - [SHINE POST](../series/shine-post/) — `series/shine-post/`
 - [Shokugeki no Soma](../series/shokugeki-no-soma/) — `series/shokugeki-no-soma/`
 - [Shuukura](../series/shuukura/) — `series/shuukura/`

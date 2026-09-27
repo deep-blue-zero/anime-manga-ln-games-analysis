@@ -4,16 +4,16 @@ artifact_id: T7S_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; governing architecture applied through the exact T7S_B0001–T7S_B0079 horizon; no 2053 or other unadmitted story source"
+source_boundary: "c20260909-r484; governing architecture applied through the exact T7S_B0001–T7S_B0099 horizon; no 2053 or other unadmitted story source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-13
+last_updated: 2026-09-24
 ---
 
 # Tokyo 7th Sisters synthesis architecture
@@ -212,7 +212,9 @@ series/tokyo-7th-sisters/
   01 Sources and Chronology/
     T7S_SOURCE_LOCK.json
     T7S_TOPOLOGY_AND_CHRONOLOGY.md
+    T7S_COVERAGE_AND_ROUTING_MANIFEST.json
     T7S_COVERAGE_AND_ROUTING.jsonl
+    T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl
   [02 Readings/]
     [T7S_B0001_DEEP_READING.md]
   03 Longitudinal Ledgers/
@@ -275,7 +277,7 @@ Authority notation: **G** = governing/administrative, never literary evidence; *
 | B05 `T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md` | `evidence_locator_protocol`; source bridge | Locator grammar, native/derived distinctions, query and hash checks | G; versioned current protocol | Mandatory; actual schema/probes in P |
 | B06 `T7S_SOURCE_LOCK.json` | `source_lock`; admitted witnesses/editions | Immutable source bindings and capabilities, portable corpus aliases | G; append new bindings; never retarget old versions | Mandatory; D/E and verified source/artifact hashes |
 | B07 `T7S_TOPOLOGY_AND_CHRONOLOGY.md` | `source_topology_and_chronology`; families/spines | Native hierarchy, scoped era/release claims, dependencies and reading schedule | G metadata with typed sourced chronology assertions; mutable/revision history | Mandatory; B05/B06 and F |
-| B08 `T7S_COVERAGE_AND_ROUTING.jsonl` | `analytical_coverage_ledger`; exact source membership | Consumption/routing obligations and authoritative analytical homes | G operational; mutable decisions with revision provenance | Mandatory; B06/B07; source-ID seeds only at bootstrap |
+| B08 `T7S_COVERAGE_AND_ROUTING_MANIFEST.json` plus its two declared JSONL shards | `analytical_coverage_ledger_manifest` governing one logical `analytical_coverage_ledger`; exact source membership | Consumption/routing obligations and authoritative analytical homes; manifest-bound partition, hashes, and counts | G operational; mutable decisions with revision provenance; records move atomically between disjoint shards as their consumption state changes | Mandatory; B06/B07; source-ID seeds only at bootstrap |
 | B09 `T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md` | `story_causal_state_ledger`; all admitted story events | Event skeleton, world consequences, dependency and thread state | A after findings; append history/current revisions | Mandatory; B02/B03/B05–B07; zero findings initially |
 | B10 `T7S_ENTITY_STATE_LEDGER.md` | `entity_state_ledger`; characters, knowledge, relations, units | Typed current states/history, identity routing, reconstruction readiness, monograph maturity and separate capability coverage | A state plus G identity/readiness metadata; targeted mutable rows/history | Mandatory; B03–B07/B09; no invented initial psychology |
 | B11 `T7S_CLAIM_AND_EVIDENCE_LEDGER.md` | `claim_evidence_ledger`; claims/revisions/AV | Current claims, rivals, evidence and review queue | A; stable IDs, retained revisions | Mandatory; B02–B06; no interpretive findings initially |
@@ -435,3 +437,4 @@ The initialization lock and a major-story-structure transition gate answer diffe
 - 2026-09-12 — V1 / 1.3: recognize the native 2034 and 2053 Main groupings as independently completed major story structures; require a full 2034 narrative/literary, declared-character, multimodal, promoted-subject, and completion-audit release before any 2053 semantic admission; reserve era-level artifact homes; preserve metadata-only 2053 reconnaissance and later evidence-typed cross-era bridges without allowing future knowledge to rewrite the frozen 2034 horizon.
 - 2026-09-13 — V1 / 1.4: apply the unchanged governing architecture through the complete T7S_B0076 / EPISODE 6.0 horizon; preserve EPISODE NANASUTA as the sole unopened 2034 Main family and keep 2053 semantic admission blocked.
 - 2026-09-13 — V1 / 1.5: apply the unchanged governing architecture through complete T7S_B0079 / EPISODE NANASUTA; mark all eleven admitted 2034 Main families closed while preserving every remaining 2034 release responsibility and the 2053 semantic block.
+- 2026-09-24 — V1 / 1.6: apply the architecture through T7S_B0099 and represent B08 as one manifest-bound logical coverage ledger over disjoint current-or-consumed and routed-or-unconsumed shards, with lossless effective-state and atomic-migration requirements.

@@ -1,0 +1,44 @@
+[
+  {
+    "local_file_name": "COMPLETE_VOICE_LINE_ANALYSIS.jsonl",
+    "drive_file_id": "1GroeMrhr6KNRuEmdEsDgeMbbU6OZLItF",
+    "bytes": 9143103,
+    "sha256": "822c2cf36e06d1ec3c8759b08370d4cec698ff15664823f479b142800e63acc7",
+    "authority": "canonical Drive evidence; local byte-verified dependency"
+  },
+  {
+    "local_file_name": "COUNTERPART_COMPLETE_VOICE_LINE_ANALYSIS.jsonl",
+    "drive_file_id": "1swLcL5VugPcQx4UMinPI4t0r1o3L0Drd",
+    "bytes": 585965,
+    "sha256": "06e359863fdee323f87c697503b2958278837adf0bc1f6a2cb2db0ed788d5838",
+    "authority": "canonical Drive evidence; local byte-verified dependency"
+  },
+  {
+    "local_file_name": "DRIVE_AUDIO_OBJECT_CROSSWALK.jsonl",
+    "drive_file_id": "1Y0H3QMRNJYu7uZBsW4UnlJbJOwveK1un",
+    "bytes": 4000639,
+    "sha256": "5bf9fe657778cf5450042431fa4c20523c6694b75263cd29b5db5dcf12676a96",
+    "authority": "canonical Drive evidence; local byte-verified dependency"
+  },
+  {
+    "local_file_name": "SIGRIKA_RELEASE_MANIFEST.json",
+    "drive_file_id": "1iJ95b9sEIetggqKQ-GDmtWvbb7agUEwF",
+    "bytes": 47397,
+    "sha256": "aeb30ef56da7bf01181a1c5b8e78a2426fb80e43e9dbbd82ef139c7f9eae9cc1",
+    "authority": "canonical Drive evidence; local byte-verified dependency"
+  },
+  {
+    "local_file_name": "occurrence_identity_crosswalk.jsonl",
+    "drive_file_id": "1UZnZ6h49wscMuNTLiZFqj2s75-Wr5sr3",
+    "bytes": 1029886,
+    "sha256": "d464269426dd6751d56b27f0f472d105d446b5d75c43e747c562d21dd7f290da",
+    "authority": "canonical Drive evidence; local byte-verified dependency"
+  },
+  {
+    "local_file_name": "character_source_package.json",
+    "drive_file_id": "1yXLvvpBYute8uO5fScV6WjqVc6H7uCya",
+    "bytes": 1133086,
+    "sha256": "36b31175eb37e33eb0baa0ce98c188c85da843d139e6df4bddc978787c7a5b28",
+    "authority": "canonical Drive evidence; local byte-verified dependency"
+  }
+]

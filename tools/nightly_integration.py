@@ -269,6 +269,26 @@ class Integrator:
         changed = self.graph.paths(source, observed)
         return bool(changed) and changed <= GENERATED
 
+    def prior_integration(self, branch: str, source: str, base: str) -> dict | None:
+        # A squash leaves the source outside main's ancestry. Only a merged PR
+        # for this exact tip plus whole-tree equality proves it was preserved.
+        query = urllib.parse.urlencode({"state": "closed", "base": "main", "head": OWNER + ":" + branch})
+        for pr in self.api.pages("pulls?" + query):
+            self.check_time()
+            head, target = pr.get("head") or {}, pr.get("base") or {}
+            if (pr.get("state") != "closed" or not pr.get("merged_at")
+                    or (pr.get("user") or {}).get("login") != OWNER
+                    or head.get("ref") != branch or head.get("sha") != source
+                    or (head.get("repo") or {}).get("full_name") != REPOSITORY
+                    or target.get("ref") != "main"
+                    or (target.get("repo") or {}).get("full_name") != REPOSITORY):
+                continue
+            merged = exact_sha(pr.get("merge_commit_sha"))
+            self.graph.fetch(merged)
+            if self.graph.ancestor(merged, base) and self.graph.tree(merged) == self.graph.tree(source):
+                return pr
+        return None
+
     def wait_source(self, branch: str, source: str, base: str, end: float) -> None:
         waiting = False
         while time.monotonic() < end:
@@ -380,7 +400,17 @@ class Integrator:
         # Initial audit and final housekeeping share the existing source budget.
         source_deadline = min(self.deadline, time.monotonic() + self.wait_seconds)
         self.wait_source(branch, source, base, source_deadline)
-        tree = self.graph.merge_tree(source, base)
+        try:
+            tree = self.graph.merge_tree(source, base)
+        except Blocked:
+            preserved = self.prior_integration(branch, source, base)
+            if preserved is None:
+                raise
+            self.same_heads(branch, source, base)
+            row.update(outcome="already_integrated", pr=preserved["number"],
+                       integration_sha=preserved["merge_commit_sha"],
+                       detail="Exact source tree verified in a prior merged PR on main; no conflict resolution or write needed")
+            return base
         if tree == self.graph.tree(base):
             row["outcome"] = "no_content_change"
             return base

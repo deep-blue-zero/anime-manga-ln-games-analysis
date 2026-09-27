@@ -1,0 +1,161 @@
+{
+  "artifact_type": "character_visual_design_profile",
+  "character": "Denia",
+  "counterreadings": [
+    "A single costume feature may support several readings; the profile records plausible visual functions rather than claiming unique authorial intent.",
+    "UI key art can exaggerate color, pose, scale, transparency, and fabric motion relative to the runtime model."
+  ],
+  "form_state_distinctions": [
+    {
+      "claim_id": "wuwa:visual-claim:8b608f2664852556b08c248c",
+      "confidence": "open",
+      "dimension": "form_skin_state",
+      "evidence_basis": "open",
+      "evidence_visual_ids": [
+        "wuwa:visual:925b60329c5257d1d96fb8b1",
+        "wuwa:visual:846c8f53d5cb8733f3abe53a",
+        "wuwa:visual:fc6031817e6394ef5724b41d"
+      ],
+      "semantic_source_locators": [
+        "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/role/roleinfo.json#/113"
+      ],
+      "statement": "The three decoded images are treated as the role record's default playable presentation. Alternate skins, transformation states, damage states, and rear views were not established in this generation.",
+      "uncertainty": "A role-linked default UI representation is not proof that no alternate form or skin exists."
+    }
+  ],
+  "generation": "character_visual_v0_2",
+  "observations": [
+    {
+      "claim_id": "wuwa:visual-claim:8f916ab891b23a8d01913664",
+      "confidence": "high",
+      "dimension": "silhouette",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:846c8f53d5cb8733f3abe53a",
+        "wuwa:visual:fc6031817e6394ef5724b41d"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Large curled hair masses and voluminous sleeves frame a short layered dress; chains, tassels, plush charms, and long side panels add many small hanging shapes.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:fa4f5d69eb4bc9168f75399e",
+      "confidence": "high",
+      "dimension": "palette",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:846c8f53d5cb8733f3abe53a",
+        "wuwa:visual:fc6031817e6394ef5724b41d"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Powder pink, white, pale blue, and black dominate, with turquoise gems, gold chains, brown rope, and sharp red gloves as accents.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:1236fe4e12a9d3c8151692b2",
+      "confidence": "high",
+      "dimension": "hair_and_face",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:925b60329c5257d1d96fb8b1",
+        "wuwa:visual:846c8f53d5cb8733f3abe53a",
+        "wuwa:visual:fc6031817e6394ef5724b41d"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Long pink hair shifts toward pale blue at the ends and is gathered into an elaborate side coil; pastel irises and a small smile create a gentle expression.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:62a444c92a88520de4d7bcb8",
+      "confidence": "high",
+      "dimension": "costume_construction",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:846c8f53d5cb8733f3abe53a",
+        "wuwa:visual:fc6031817e6394ef5724b41d"
+      ],
+      "semantic_source_locators": [],
+      "statement": "The dress combines a pale wrapped bodice, layered white outer skirt, black ruffled underskirt, oversized pink sleeves, dark straps, red gloves, and ribboned black shoes.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:ad1fad8bd73ec63f0eb8a3ab",
+      "confidence": "medium",
+      "dimension": "materials",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:846c8f53d5cb8733f3abe53a",
+        "wuwa:visual:fc6031817e6394ef5724b41d"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Fine pale fabric and fluffy trim contrast with coarse rope, metal chain, polished blue stones, leather-like straps, and soft plush charms.",
+      "uncertainty": "Material words describe rendered cues, not a physical-material measurement."
+    },
+    {
+      "claim_id": "wuwa:visual-claim:01870bb31458b7e34c275bcb",
+      "confidence": "high",
+      "dimension": "motifs",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:846c8f53d5cb8733f3abe53a",
+        "wuwa:visual:fc6031817e6394ef5724b41d"
+      ],
+      "semantic_source_locators": [],
+      "statement": "Sleep/toy cues, bundled cords, faceted blue gems, diamond/star cutouts, and asymmetrically suspended ornaments repeat across the outfit.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:92546205ebf24fb684a65939",
+      "confidence": "medium",
+      "dimension": "weapon_and_role_signaling",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:846c8f53d5cb8733f3abe53a",
+        "wuwa:visual:fc6031817e6394ef5724b41d"
+      ],
+      "semantic_source_locators": [],
+      "statement": "No weapon appears in the bounded UI art; chains, ropes, and the dark toy charms imply an unconventional toolkit but do not prove combat function.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:1a377e3776a45f9426885702",
+      "confidence": "high",
+      "dimension": "pose_and_body_language",
+      "evidence_basis": "direct_visual",
+      "evidence_visual_ids": [
+        "wuwa:visual:846c8f53d5cb8733f3abe53a",
+        "wuwa:visual:fc6031817e6394ef5724b41d"
+      ],
+      "semantic_source_locators": [],
+      "statement": "A relaxed raised hand, softened eyes, and a small smile fit a low-energy, socially pleasant presentation.",
+      "uncertainty": null
+    },
+    {
+      "claim_id": "wuwa:visual-claim:625b619ff07e389a1c183ef6",
+      "confidence": "medium",
+      "dimension": "design_narrative_relationship",
+      "evidence_basis": "direct_visual_and_semantic",
+      "evidence_visual_ids": [
+        "wuwa:visual:846c8f53d5cb8733f3abe53a",
+        "wuwa:visual:fc6031817e6394ef5724b41d"
+      ],
+      "semantic_source_locators": [
+        "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/Textmaps/en/multi_text/MultiText.json#/294042"
+      ],
+      "statement": "The comfortable pastel surface supports the semantic profile's professional-slacker and gentle-smile persona, while the chains and dark charms prevent the reading from becoming purely innocent.",
+      "uncertainty": "The relationship between visible design and narrative meaning is analytical interpretation unless the cited text explicitly names the feature."
+    }
+  ],
+  "open_questions": [
+    "How does the silhouette and garment construction read from the back and in neutral runtime lighting?",
+    "Which pose, gesture, idle, facial-expression, and movement habits persist across authored scenes and gameplay?",
+    "Which alternate skins, forms, combat states, or story states materially change this design grammar?",
+    "Do official promotional sheets or model turnarounds contradict details inferred from these three UI rasters?"
+  ],
+  "role_id": 1211,
+  "schema_version": "wuwa.character-visual-design-profile.v0.2",
+  "source_generation_frozen": false,
+  "status": "active_provisional",
+  "summary": "Denia is a soft, sleepy academy-fashion design complicated by dark hardware. Very long pastel-pink hair, a layered white-and-pink dress, fur-trimmed sleeves, blue gems, dangling plush figures, chains, rope, and red gloves create a sweet surface with deliberately odd, slightly ominous attachments.",
+  "visual_manifest": "CHARACTER_VISUAL_REFERENCE_MANIFEST.json"
+}
