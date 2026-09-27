@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–018; BA:main:004:001:019 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–019; BA:main:004:001:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1743,3 +1743,9 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Miyako:** falters under command guilt, accepts a team-centered prompt, deliberately triggers an alarm to have guards open the door, then coordinates corridor cover and sensor deception. Saki/Moe/Miyu explicitly recognize her current captaincy; Miyako still credits the team. Full building exit remains unshown.
 - **Saki / Moe:** Saki presses accountability and later affirms Miyako's unique tactical result; Moe remotely manipulates a heat sensor to activate sprinklers/fire doors. Guards notice possible C4/lithium danger, but no blast is narrated.
 - **Fubuki / Kirino / Sensei:** Fubuki falls for a donut/cardboard trap with mechanism skipped and later memory uncertain; Kirino fires at passing RABBIT and reports all shots missed. Sensei's support appears while still physically off-site, with a thought-tag seam.
+
+## V004 C001 E019 character-state delta — Kanna's defense and evidence handoff
+
+- **Kanna:** reaches the rooftop by her reported exterior-wall climb, threatens possible record erasure, does not deny Miyako's rebate allegation and instead defends dirty compromise while acknowledging public-rule ideals. She says she will prepare an incident report; no filing, formal confession or verdict is shown.
+- **Miyako / RABBIT:** confront Kanna with the found record, make an aerial harness extraction and directly return to camp at 01:45. Miyako reports no injuries, missing members or loss of Clover, closes the operation and gives evidence to Sensei; mastermind remains unknown.
+- **Sensei:** offers Kanna choice-oriented counsel with thought/speech seams, accepts the evidence/adult follow-up, carries sleeping students into tents and returns to Schale. No official submission or disposition is yet printed.

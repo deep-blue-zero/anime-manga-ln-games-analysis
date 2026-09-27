@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–018; BA:main:004:001:019 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–019; BA:main:004:001:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1153,3 +1153,7 @@ Miyako says RABBIT discussed and forcibly left Sensei behind because the Valkyri
 ## V004 C001 E018 delta — support without command substitution
 
 Sensei remains outside the Valkyrie archive after E017's exclusion. Their paired calm/not-over choice and singletons about shared burden and trusting Miyako reach the conversation, but the latter line is `心の声`-tagged (`scene:001:choice:001-003;u:0047`). Miyako reclaims command and executes the alarm exit and subsequent tactics with the squad, so Sensei's support should not be narrated as a solo rescue. The team's possible C4/lithium device creates an unclosed safety concern, and no adult injury intervention or completed evidence handoff is shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E019 unopened.
+
+## V004 C001 E019 delta — choice counsel, then adult custody of evidence
+
+Sensei's inward address to Kanna is answered as if heard; paired and singleton choices urge conviction under difficulty and self-directed future choice (`scene:001:u:0050-0062;choice:001-003`). This supports agency rather than forcing a confession, but thought/speech seams restrict a literal transcript of public words. After RABBIT's aerial extraction and 01:45 camp return, Miyako gives Clover to Sensei and asks them to handle the adult-world next step; Sensei accepts and narration confirms the evidence received, sleeping students placed in tents and return to Schale (`scene:002:u:0002-0019`). No submission, exposure, prosecution or protective ruling is yet shown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E020 unopened.

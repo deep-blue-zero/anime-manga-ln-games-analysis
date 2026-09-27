@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–018; BA:main:004:001:019 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–019; BA:main:004:001:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1505,3 +1505,7 @@ Clover turns E016's unproved suspicion into an archive search with an apparent c
 ## V004 C001 E018 motif / callback delta — the manual yields to distributed trust
 
 The one-way door turns a seemingly successful evidence hunt into a test of Miyako's command under self-doubt and Miyu's acute fear. Sensei's “do not carry it alone” theme meets a student-led solution: deliberately calling guards to open the vault, then coordinating cover, sensors and decoys. Saki recognizes Miyako as captain precisely for a tactic absent from the manual, revising E008's theory/practice tension without claiming Saki's doctrine is worthless. Fire controls turned against defenders evoke control-system contingency, but the C4/lithium setup makes the same ingenuity ethically hazardous until its outcome is known. Kirino's missed shots repeat earlier inconsistency without settling intent.
+
+## V004 C001 E019 motif / callback delta — justice under compromise, adult handoff
+
+Kanna's rhetoric pits clean exceptional justice against compromised everyday policing, while Miyako distinguishes their paths through repeated responsibility for choices rather than denying difficulty. Sensei's future-choice counsel echoes earlier student agency but does not erase public wrongdoing or automatically convert Kanna. The rooftop exit and 01:45 return complete the student-executed Clover mission, then the document crosses from students to the adult for institutional handling. This is a transition in accountability, not proof that possession of evidence yields justice. An unclaimed “mastermind” remains a participant inference.

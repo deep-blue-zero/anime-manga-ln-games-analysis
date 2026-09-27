@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–018; BA:main:004:001:019 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–019; BA:main:004:001:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1347,3 +1347,7 @@ The squad deliberately leaves Sensei out of the risky route; Sensei's paired rea
 ## V004 C001 E018 relationship delta — acknowledged captaincy after distress
 
 Miyu's door mistake and severe self-blame prompt Miyako's protection and Saki's accountability challenge; the team does not resolve it by assigning all blame or denying the error. Sensei encourages Miyako from outside, while teammates voice reliance on her. Miyako devises the alarm-led exit and corridor maneuvers; Saki explicitly retracts past disparagement and says she is captain now, with Moe/Miyu affirming trust. Miyako credits collective work, so the relationship change is mutual recognition rather than solitary-hero elevation. Fubuki is locally decoyed and Kirino fails to stop them; neither forms a new durable alliance.
+
+## V004 C001 E019 relationship delta — adversaries part without settlement
+
+Miyako confronts Kanna with the found record; Kanna moves from threat to a bitter defense of compromised duty, not a full confession or apology. Sensei addresses Kanna's fear of losing everything and urges self-directed choice, with inner-thought label seams. Miyako says their ideals differ by choices made and hopes for a better next meeting. Kanna lets the squad extract and anticipates an incident report, but no reconciliation or lawful disposition is reached. Back at camp, Miyako entrusts Clover and adult follow-up to Sensei after the squad's own completed mission.

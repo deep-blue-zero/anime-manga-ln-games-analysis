@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–018; BA:main:004:001:019 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–019; BA:main:004:001:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1063,3 +1063,7 @@ RABBIT enters Valkyrie Police School at 23:30 and reaches a basement-three archi
 ## V004 C001 E018 institutional delta — archive security bypass and local pursuit
 
 Miyako deliberately triggers the archive alarm so Valkyrie defenders open a physically locked door; RABBIT leaves the archive and advances through corridors with Clover. Security Bureau students cannot immediately overpower them and expect reinforcements. Moe manipulates a heat sensor to 900°C, directly causing sprinklers and fire doors that block joining forces; guards notice a possible C4/lithium hazard without a shown blast. Fubuki is tricked by a donut/cardboard trap, exact mechanism unprinted. Kirino treats the entry as unlawful, fires and misses all shots while the squad continues. Full school exit, evidence delivery, casualties and legal response remain open.
+
+## V004 C001 E019 institutional delta — Clover leaves Valkyrie custody
+
+At 01:00 RABBIT holds a rooftop ORP; Kanna reaches it and threatens possible school-record erasure. Miyako alleges the found record shows Kaiser-linked illegal rebates for redevelopment eviction; Kanna does not deny and defends dirty compromise while acknowledging rule obligations, but no full deal record or admission is quoted. Aerial harness extraction occurs. At 01:45 Miyako directly reports camp return, no squad injuries/missing members and Clover intact; she hands it to Sensei. The alleged mastermind is unknown, and no external authority has received or authenticated the evidence. Kanna's incident-report plan remains unfiled in text.

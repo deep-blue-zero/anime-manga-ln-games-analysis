@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–018; BA:main:004:001:019 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–019; BA:main:004:001:020 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1769,3 +1769,9 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 - Miyu's `生まれてこなければ` and `死にたい` are acute self-negating crisis speech, not comic background or a confirmed act. `scene:001:u:0027` is Miyu-tagged `お前` addressing Miyako; preserve unusual register rather than silently swapping speaker.
 - Sensei's `choice:001` is paired; `choice:002-003` singleton. `u:0047` is `先生（心の声）` despite Miyako's responsive turn, so auditory/public status is uncertain. Saki's `教範には無い` contrasts manual absence with Miyako's deliberately triggered alarm, and later `今のお前は隊長` is explicit recognition.
 - `T3、ダウン` is combat shorthand, not a death certification. Defenders' `C4じゃない？` and lithium reaction are a guess about an object, not a printed detonation. No performed voice admitted.
+
+## V004 C001 E019 voice delta — compromise rhetoric and self-address seam
+
+- Kanna's `どうして、それを` after Miyako names the transaction is a non-denial, then `手を汚さずに、正義を掲げ続けることなどできない` defends compromised public work; neither line supplies transaction amounts/signatures. Her `学籍データを抹消させられても` is threatened possibility, not completed sanction.
+- Sensei's `u:0050` and `u:0057` are `心の声` yet Kanna/others react nearby; preserve uncertainty over audibility. `choice:001` is paired; `u:0053-0054` repeats convergence.
+- `u:0072` is Kanna-tagged `それでは失礼します、公安局長`, self-address inconsistent with apparent departing voice. Quarantine exact speaker. `始末書を用意しておく` is prospective, not filed. No performed voice admitted.
