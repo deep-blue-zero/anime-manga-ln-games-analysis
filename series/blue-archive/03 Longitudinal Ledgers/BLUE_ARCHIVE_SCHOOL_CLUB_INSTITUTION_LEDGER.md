@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–023; BA:main:003:003:024 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–024; BA:main:003:003:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -867,3 +867,7 @@ Hiyori says a second ETO has made the Justina precepts lose meaning, reports the
 ## V003 C003 E023 institutional delta — underground means remain unnamed
 
 Saori alludes to “that” beneath the old cathedral after the Squad's E022 no-cards assessment; Hanako infers some means remains and urges pursuit. The text neither identifies the object nor verifies a functioning Arius/Gematria resource, a completed underground transfer or a new ETO/Justina mechanism. Saori's “last battle” is a declared plan, not an institutional defeat or treaty settlement. Hifumi's injury is stated by Azusa, not clinically documented; no Remedial Club or Justice disposition changes.
+
+## V003 C003 E024 institutional delta — escape proposal, incomplete doctrine
+
+Atsuko proposes leaving both the immediate site and Arius rather than returning to a district where Saori expects death at an unnamed woman's hands. Her learned-hatred account challenges Arius's claimed identity but is not a documented indoctrination history or a completed defection. Maestro displays a form Atsuko questions as “doctrine” and later calls it incomplete; technical specification and legal/ETO effect are unavailable. Narration says the search for Squad failed and infers an unidentified cathedral passage; no custody, asylum, district-return or settled sanctuary follows. No formal treaty, club, Justice or school-status order is shown.

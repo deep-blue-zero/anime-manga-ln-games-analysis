@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–023; BA:main:003:003:024 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–024; BA:main:003:003:025 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E023 active provisional; E024 unopened
+current_sequential_boundary: MAIN_V003_C003_E024 active provisional; E025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2108,3 +2108,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E024 unopened.
+
+## V003 C003 E024 claim delta — learned hatred, incomplete form, failed search
+
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Atsuko calls the Squad's hatred learned and proposes flight, but does not identify its teacher or achieve safety. Maestro's manifested doctrine is questioned by Atsuko and later admitted incomplete by him; neither its full mechanism nor his future completion is proved.
+- **BA-C001/C016 — QUALIFY:** Sensei appears to take out an adult card after Azusa warns of danger. Maestro describes its life/time cost and unknowable source/limits, which remain his claims rather than independently audited mechanics or proof of adult-only rescue.
+- **BA-C008 — STRENGTHEN:** narration certifies that the search for Squad failed but only conjectures an unidentified underground route. Scene 2 repeated Hiyori tags bar precise individual attitudes; italic Atsuko/Saori lines and Sensei inward action also require mode control.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E025 unopened.

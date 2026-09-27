@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–023; BA:main:003:003:024 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–024; BA:main:003:003:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -957,3 +957,7 @@ Sensei has no printed speech, choice or action. Hanako and Koharu reject Saori's
 ## V003 C003 E023 delta — chosen accompaniment after student decision
 
 Azusa elects to pursue Saori and asks injured Hifumi to rest before Sensei's singleton `私も行くよ` choice. Azusa thanks the adult, takes leave of her three friends and later says she is not alone when Saori asks about a one-on-one fight. Sensei's subsequent cues are explicitly inward. This is a bounded accompaniment that answers Azusa's chosen plan, not an adult-only victory or proof their presence can neutralize Saori's unnamed reserve. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E024 delta — reluctant card response under uncertain cost
+
+Azusa warns the displayed phenomenon is dangerous and urges flight. Sensei's two singleton choices register recognition/“unfairness”; an inward line says they hoped to finish without it and take out an adult card. Maestro observes and describes an unknown power purchased with life/time, but his speech does not independently measure Sensei's actual payment or the card's limits. Scene 2 thanks Sensei after an unprinted transition, while the search for Squad fails. The adult intervention is real as a response, not proof of total rescue, comprehensively solved Arius/Gematria threat or replacement of Atsuko's own refusal of learned hatred. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

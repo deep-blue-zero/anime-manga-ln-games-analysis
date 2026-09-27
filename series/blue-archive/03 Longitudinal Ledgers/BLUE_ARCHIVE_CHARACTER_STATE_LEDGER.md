@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–023; BA:main:003:003:024 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–024; BA:main:003:003:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E024 character-state delta — Atsuko's dissent and the card encounter
+
+- **Atsuko:** directly proposes that Saori stop and flee with her, credits Azusa for seeing their hatred as learned, and recognizes Azusa's new life. Her italic opening receives a Saori response despite mode ambiguity; actual escape/safety is unshown. `UNMODELED`.
+- **Saori:** injured/coughing, warns Atsuko against speaking for fear of an unnamed “her,” predicts return to Arius means death, and initially balks at fleeing. Scene 2 confirms coughing, not medical prognosis; `UNMODELED`.
+- **Azusa/Sensei:** Azusa breathes hard, reacts to Maestro's manifestation and urges flight. Sensei's two singleton choices and inward “adult card” action mark response, while the card's cost/effect is not independently measured. Azusa `UNMODELED`, Sensei `PARTIAL_MODEL`.
+- **Maestro:** appears, calls his work `崇高`, recognizes the card and later says his shown form was incomplete; promised completion is future. `UNMODELED`.
+- **Hiyori/Misaki:** Squad escape search fails by narration, but scene 2 `u:0011-0015` repeatedly labels Hiyori across incompatible turns; do not assign each bleak opinion to her. Both `UNMODELED`.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E023 character-state delta — accompanied stand, uninspected reserve
 

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–023; BA:main:003:003:024 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–024; BA:main:003:003:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1470,3 +1470,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Saori's `古聖堂の地下に……あれが` leaves `あれ` unspecified; Hanako's `何か手段` is an inference, not independent identification. Misaki's `まだだ` precedes Saori's line but does not specify the reserve.
 - Azusa's `その怪我だ、安静にしてて` addresses Hifumi's injury and offers care; `すぐに戻ってくる` is a promise, not retrospective proof. Her `私はひとりじゃない` follows Sensei's singleton `私も行くよ` and the friends' sendoff.
 - Sensei's `じゃあ、行こうか` and `アズサ、行こう` are both marked `心の声`; do not turn them into additional spoken commands. Saori's `最後の戦いにしてやる` is prospective, with no printed result. Scene 2 `u:0001` is E024 title only.
+
+## V003 C003 E024 delta — speech-mode ambiguity and repeated labels
+
+- Atsuko's italic `私たちの負けだよ、アズサ` precedes Saori's spoken `喋ると、彼女が` warning, so mode/receipt is anomalous. Her following direct `だから逃げよう、一緒に` and learned-hatred account are secure. `彼女` remains unnamed in this unit.
+- Atsuko asks `あの「教義」が、完成した……？`; this is a question, and Maestro later calls the seen form `不完全`. His `人生を、時間を代価` card description is his claim, not audited cost.
+- Sensei's first choice `（これは……）` is parenthetical, second `反則みたい` is a singleton, and `大人のカードを取り出す` is marked `心の声`. Scene 2 `u:0011-0015` repeats `ヒヨリ` on apparently alternating voices; quarantine precise attribution. `ナレーション` at `u:0007-0008` certifies failed search, then conjectures an underground route. `u:0017` is E025 title only.

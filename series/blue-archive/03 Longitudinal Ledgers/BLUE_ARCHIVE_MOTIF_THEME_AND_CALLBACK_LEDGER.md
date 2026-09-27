@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–023; BA:main:003:003:024 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–024; BA:main:003:003:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1227,3 +1227,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Not alone:** Azusa's direct answer to Saori reuses the recent friendship/coalition motif at a personal scale, while her own decision and friends' farewell stay distinct from Sensei accompaniment.
 - **Care and promise:** Azusa keeps injured Hifumi out of the pursuit and promises return. The promise is an ethical/relational orientation, not guaranteed future.
 - **Futility rhetoric persists:** Saori repeats the empty-world claim at the threshold of a proposed last battle; no philosophical or military endpoint follows in this unit.
+
+## V003 C003 E024 motif / callback delta — unlearning a borrowed hatred
+
+- **Hatred's ownership:** Atsuko separates a learned, implanted grievance from the Squad's authentic will, giving Saori a possible exit without proving the full causal history.
+- **Flight as refusal:** Atsuko's repeated “let's run” reframes retreat from failure into a collective alternative to Arius return/death, but no refuge is reached.
+- **Adult card under price language:** Sensei reluctantly produces a card when Azusa fears the displayed doctrine; Maestro aestheticizes life/time cost. Motif importance does not supply technical cost accounting.
+- **Unfinished art and open route:** Maestro promises to complete his incomplete form, while narration cannot locate the Squad's exit. The apparent climax is bounded, not full-series closure.

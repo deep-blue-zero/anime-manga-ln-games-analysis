@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–023; BA:main:003:003:024 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–024; BA:main:003:003:025 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1069,3 +1069,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **AZUSA ↔ SENSEI:** Sensei's singleton choice to come elicits Azusa's thanks; later inward cues are not additional dialogue. Accompaniment is chosen after Azusa elects pursuit, so neither party's agency is erased.
 - **AZUSA ↔ SAORI:** Azusa proposes ending it, Saori demands a last battle and challenges a one-on-one win, Azusa says she is not alone, and Saori identifies Sensei as the adult ally. The pair remain adversarial without completed duel or reconciliation.
 - **MISAKI/HIYORI ↔ SAORI:** their near-ending assessment is interrupted by Misaki's “not yet” and Saori's underground allusion; no shared plan's substance is printed.
+
+## V003 C003 E024 relationship delta — Atsuko challenges Saori's inherited path
+
+- **ATSUKO ↔ SAORI:** Atsuko asks Saori to stop and flee with her, saying shared hatred was learned rather than truly theirs. Saori fears an unnamed woman and return to Arius, initially balking. Neither assent nor safe joint escape is printed.
+- **ATSUKO ↔ AZUSA:** Atsuko credits Azusa's insight and recognizes her learning, adult encounter and found place. Azusa's silent response does not license a full reconciliation claim.
+- **SENSEI ↔ AZUSA/MAESTRO:** Azusa warns to flee; Sensei responds with choices/card, Maestro interprets and thanks the adult after an unprinted transition. Exact protection/defeat mechanics remain open.
+- **SQUAD ↔ OUTSIDE SEARCH:** narration confirms the search failed; the later Squad fragment shows Saori coughing and uncertain destination, but `u:0011-0015` speaker labels are unreliable.
