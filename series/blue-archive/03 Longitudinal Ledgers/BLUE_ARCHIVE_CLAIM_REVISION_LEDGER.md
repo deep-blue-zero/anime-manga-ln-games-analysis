@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:001; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:002 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:002; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:003 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E001 active provisional; E002 unopened
+current_sequential_boundary: MAIN_V003_C002_E002 active provisional; E003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1733,3 +1733,12 @@ No new durable claim ID, standalone model, frozen prediction or side-source admi
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test; other families receive no global test.
 
 No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; Seia status, Azusa knowledge, Arius history, exam and protection outcome remain OPEN.
+
+## V003 C002 E002 claim delta — care, defense and nested testimony
+
+- **BA-C001/C016 — QUALIFY:** Sensei remains approachable, declines Hanako's personal-laundry offer, and helps dissolve the nighttime misunderstanding. Opening to an unidentified visitor is a local safety lapse, not an assault outcome. Neither Hifumi's Hanako concern nor Hanako's Azusa concern reaches substantive disclosure, so the protective commitment is still untested.
+- **BA-C002–C004/C007/C010–C011/C021 — PRESERVE/QUALIFY:** the second *mock* gives one pass/three fails, not an official second-exam result. Azusa's care for a bullied student is relayed through Marie, while Azusa's traps catch Marie; these heterogeneous actions do not establish or refute treaty sabotage. Hanako's 8 and E016 old-paper discrepancy do not adjudicate her motive. No collective sanction, exam manipulation or verified Nagisa suspicion arises.
+- **BA-C008 — STRENGTHEN:** narrator-listed scores, Hifumi's score interpretation, Hanako's comic arithmetic, Azusa's admissions, Marie's nested bullying/Justice account, a rejected rumor and actor-label inversions must be kept at different certainty levels. The narrator confirms the nighttime misunderstanding is repaired but not either intended consultation's content.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test; other claim families receive no global test.
+
+Marie enters as a tracked `UNMODELED` subject; no new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; official second exam, Sisterhood concern, Azusa's E017 plan and the two consultations remain OPEN.

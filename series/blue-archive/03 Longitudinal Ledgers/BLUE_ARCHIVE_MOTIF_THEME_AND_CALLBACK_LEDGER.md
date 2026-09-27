@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:001; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:002 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:002; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -903,3 +903,10 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **A student as reconciliation proof:** Mika hoped forged-in Azusa would demonstrate an Arius student can live happily in Trinity. That benevolent aspiration also makes Azusa a political symbol without shown consent and sits uneasily beside Mika's limited knowledge of Azusa's E017 plan.
 - **Monster/traitor reversibility:** Mika labels Nagisa's potential Leviathan build a betrayal while acknowledging she herself opposes the treaty and Azusa is called false-background “spy.” The word `裏切り者` shifts with political vantage; no guilt determination follows from the metaphor.
 - **Seia's “truth” under cover:** Mika says hospitalization is a cover for an attack, testing E001/E016 proof language at the level of testimony versus publicly verifiable status. The story has not established which account an independent record would support.
+
+## V003 C002 E002 motif / callback delta — rescue through a defensive blind spot
+
+- **Care and securitization collide:** Azusa's account of defending a bullied student intersects with her preemptive annex booby traps harming a benign messenger. E010's imagined defense becomes a real false-positive, without proving all threat vigilance unwarranted or all resistance harmless.
+- **Scores as comic doubling versus institutional limit:** Hanako's 2/4/8 patter makes progress-shaped numbers out of mixed official/mock sittings and three further hypothetical tries. E016's prior perfect-paper report keeps the discrepancy open; comic arithmetic cannot close the official joint-pass condition.
+- **Mediated thanks and reputation:** Marie's student relays gratitude for Azusa; `氷の魔女` circulates as a contrary rumor. Neither mediation creates a full character verdict, and the rescued person's own words are absent.
+- **Crossed disclosures:** Hifumi plans to discuss Hanako, Hanako plans to discuss Azusa, and a swimwear/late-visit misunderstanding prevents either substantive conversation. The narrator confirms social repair, not epistemic revelation. Marie's unfinished “I am well, but…” likewise preserves a Sisterhood knowledge gap.

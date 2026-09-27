@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:001; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:002 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:002; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -792,3 +792,7 @@ Sensei tells Mika they refused Nagisa's traitor-search request because it differ
 ## V003 C002 E001 delta — hearing a one-sided case without choosing its binary
 
 Sensei asks Mika to explain Arius/ETO, presses her Seia slip and location, asks about the claimed Azusa transfer, and finally asks whether Mika herself will be okay. Mika says she feels cared for, but the text ends with her departure and Sensei's return to the group; there is no printed assent to `アズサを守るのか、裏切り者を見つけるのか` or a protection method. Sensei's earlier student-side declaration remains ethically demanding but untested under Mika's account of forged admission and competing school fears. Private `先生（心の声）` and thirteen singleton choices do not become a public investigation or consent to Mika's historical claims. No academic intervention, treaty adjudication or Nagisa procedural challenge occurs. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E002 delta — open-door availability with a safety blind spot
+
+Sensei receives Hifumi's second-mock result through singleton choices and praises the group's effort. The 8/58/49/64 results are not the official second exam, standardized learning gains or a causal test of their instruction. They decline Hanako's offer to include their own clothes in group laundry and silently agree to Hifumi's later request to talk about Hanako. When an unidentified voice knocks, Sensei opens without confirming identity; Hanako remarks on the risk. This is a narrow lapse in entry caution, not a witnessed hostile breach. Hanako wants advice about Azusa but Hifumi interrupts, and Sensei asks both to calm down amid a misunderstanding the narrator says is resolved. The adult has not yet heard either planned concern, nor acted on Mika's E017 request to protect Azusa or E012's burden-transfer offer. The first of eleven choice groups has two converging surprise options; none establishes a hidden ethical branch or private-room misconduct. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

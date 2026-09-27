@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:001; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:002 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:002; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1156,3 +1156,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - `セイアちゃんは入院中なんかじゃない／ヘイローを、壊された` explicitly reverses Mika's E003 hospitalization story and is her serious allegation, not an independently witnessed death/attack. She says the culprit is not known. `生徒名簿…全部捏造` is Mika's self-incriminating admission of forged Azusa papers; Azusa's consent/knowledge is not thereby supplied.
 - `人質` for Koharu and `ハスミちゃんも知ってたはず` are Mika's inferred leverage/knowledge, with `多分` and `と思う` elsewhere. Hifumi's Black Market/criminal-contact report has known V001 context but the pejorative description is not a proven present plot. Mika distinguishes Azusa-as-false-background, her own anti-treaty politics and Nagisa-as-Leviathan as rival `裏切り者` meanings. She explicitly says `一方的なお話` and offers a binary; Sensei only asks if she herself is okay.
 - Scene 2 begins with a silent Tsurugi/Mashiro classroom insert and Hasumi's `万魔殿！！ゲヘナっ！！` outburst; `これから私は……` never completes. Mika `scene:002:u:0010` resumes exposition under the same heading; do not infer a complete Hasumi vow or stable chronology. Ten plus three singleton Sensei choices; `scene:002:u:0046` next-title card.
+
+## V003 C002 E002 delta — mock language, rumor and extraction inversions
+
+- `第2次補習授業部模試` names the second **mock**, not the second official `特別学力試験`. Hanako's `2点／4点／8点` and `あと3回` make a comic doubling sequence, not an amendment to the three-official-exams rule. Azusa's `紙一重` at 58 against 60 is local teasing; the teacher cannot infer comparable learning gain from score deltas across unknown forms.
+- `ブービートラップ` is explained by Azusa directly after the Hifumi-labelled `侵入者か` line at `scene:001:u:0029`. `scene:002:u:0037-0041` likewise swaps Marie/Hifumi/Azusa/Koharu labels against vocatives and first-person references during the bullying/Justice report. Preserve the attributed text and the recoverable proposition, not a silently “fixed” voice transcript. `氷の魔女` is an attributed rumor Marie questions.
+- Marie's `私は……ですが……` after Hanako's welfare remark is deliberately unfinished. Hanako's `私も、成績が良くないので` is her present-tense self-description, not adjudication of E016's reported old tests. `scene:002:u:0053` and `u:0059` have apparent Hanako/Marie swaps; `u:0063-0068` invert students during underwear/laundry debate, so individual consent/protest assignments are limited.
+- Hanako says she came about `アズサちゃんのこと`, while Hifumi said she wished to discuss `ハナコちゃんのこと`. Scene 3 `u:0017-0019` has further label/address conflicts; narrator `u:0020-0021` confirms mutual misunderstanding and clothes change but neither concern's content. Choice 001 has two surprise options that converge; ten other choice groups are singleton. Scene 3 `u:0022` is a title card, not the promised consultation.

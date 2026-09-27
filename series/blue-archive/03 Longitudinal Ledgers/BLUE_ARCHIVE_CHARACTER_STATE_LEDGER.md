@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:001; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:002 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:002; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -920,3 +920,14 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across
 - **Sensei:** privately sees the study as going well, asks two singleton questions about camp and consequence, and inwardly wishes the four calm effort on exam day. No teaching act or result is printed.
 
 No new subject or readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E002 character-state delta — second mock and Marie's visit
+
+- **Hifumi:** presents the second mock results, encourages Koharu/Azusa and corrects Azusa's reward-first framing. She later requests a private Sensei talk about Hanako, but the substantive concern is not yet spoken. Her first-hand teaching/effect claim does not grow from an unstandardized score comparison.
+- **Azusa:** 58/fail on this mock; invests in the Momo Friends reward. She directly describes having placed annex-entry/escape-path traps, apologizes when they catch Marie, and confirms opposition to numerical bullying. The helped student's report is mediated and her ammunition/endurance counterfactual is not performance validation. E017's separate plan remains unknown.
+- **Koharu:** 49/fail and proud of a higher mark than the previous mock's 15; says she hid real ability, without confirming the earlier acceleration story. Gives Marie water after the trap. Some laundry turns are speaker-inverted.
+- **Hanako:** 8/fail and comically projects the 2→4→8 pattern; still no direct cause of low scores despite E016's old-paper report. Knows Marie, describes their tie minimally, calls her current grades poor, and seeks Sensei privately about Azusa before being interrupted. Swimwear called pajamas is corrected after Hifumi objects, not an actual private consultation outcome.
+- **Marie:** first directly speaking Sisterhood visitor. Relays a student's thanks to Azusa, is caught in the trap, accepts Koharu's water, alludes to an unfinished worry while Hanako offers an escort. Origin/report verification and her exact worry are open. New `UNMODELED` row.
+- **Sensei:** declines shared personal laundry, agrees to hear Hifumi, opens to an unknown voice and receives Hanako first, then requests calm during mutual misunderstanding. No protection, tutoring outcome or private evidence assessment is completed.
+
+Readiness: **21 `PARTIAL_MODEL` / 36 `UNMODELED` across 57**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

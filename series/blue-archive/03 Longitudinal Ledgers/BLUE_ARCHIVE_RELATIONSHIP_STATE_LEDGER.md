@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:001; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:002 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:002; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -755,3 +755,11 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **MIKA ↔ NAGISA/SEIA:** she claims Nagisa/Seia opposed an Arius overture, fears Nagisa's ETO power, and reverses her earlier Seia hospitalization account with a halo-breaking allegation. These are Mika's relationship/political narratives; neither Seia nor Nagisa replies here.
 - **MIKA ↔ SENSEI:** she asks for trust and Azusa protection but says the account is one-sided, then poses a protect-versus-investigate binary. Sensei asks whether she will be all right, which she reads as personal concern; no formal alliance or protection bargain is accepted.
 - **HASUMI ↔ COMMITTEE:** in an insert Hasumi rages at Gehenna/Pandemonium while Tsurugi/Mashiro and generic members are present. The interrupted declaration and unknown occasion prevent a durable treaty-position or Koharu-hostage inference. Tsurugi now has a direct silent appearance, not a relational model.
+
+## V003 C002 E002 relationship delta — intermediary, misfire and missed conversations
+
+- **AZUSA ↔ BULLIED STUDENT/MARIE:** Marie carries an absent student's thanks and reports Azusa's intervention. Azusa acknowledges resistance to group bullying, but the student's experience and the exact Justice escalation are not directly witnessed here. Azusa's trap leaves Marie coughing and startled; she receives Azusa's apology and still conveys the message. No injury assessment, lasting relationship or damage finding follows.
+- **HANAKO ↔ MARIE/SISTERHOOD:** the two recognize each other and Hanako escorts Marie, who leaves an unfinished concern. Hanako minimizes their connection as `少しだけご縁`; no recruitment status, Seia knowledge or private history is disclosed. Marie is newly tracked `UNMODELED`.
+- **HIFUMI ↔ HANAKO/SENSEI:** Hifumi asks Sensei to talk about Hanako, after her E016 old-paper report. The E002 concern remains unvoiced when Hanako arrives first; Hifumi's embarrassed reaction and scolding end with a clothing change, not an evaluation of Hanako's grades or intent.
+- **HANAKO ↔ AZUSA/SENSEI:** Hanako seeks Sensei about Azusa, following Marie's visit, but is interrupted before saying why. The swimsuit tableau is a misunderstanding corrected by narration, not a verified intimate relationship or disclosure.
+- **GROUP ↔ STUDY:** Hifumi praises Koharu's displayed mark and Azusa's near threshold, and the Momo Friends incentive matters to Azusa. A further shared mock and laundry proposal show ordinary cohabitation but neither homogeneous agreement nor joint academic success.

@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:001; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:002 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:002; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -702,3 +702,7 @@ Mika says she arranged Sensei's remedial teacher invitation over Nagisa's object
 ## V003 C002 E001 institutional delta — federation history, alleged cover and suspicion map
 
 Mika describes the First Council's Trinity federation, Arius dissent and violent expulsion; its minutes/location/current conditions are not inspected. She frames the proposed ETO as a Trinity–Gehenna armed alliance, contrasting Nagisa's E009 neutral peacekeeping account; no treaty text or operating force is shown. Mika alleges Seia's “hospitalization” is a cover for a halo-breaking attack, says Tea Party knows, and cannot name the culprit. She admits forging Azusa's roster/admission without Nagisa and wanted Arius reconciliation; no record audit or Azusa consent appears. Her differentiated club-selection account makes Hanako an upper-echelon secrets concern, Koharu a possible Justice Realization hostage, Hifumi a Black Market/criminal-association concern and Azusa a false-background suspect. These are Mika's claims/inferences, not a verified Nagisa selection memo or four guilty students. The Justice Realization insert shows Hasumi's anger at Gehenna but not her unfinished declaration or knowledge of Koharu's expulsion. Tsurugi appears silently for the first time; no new club rule, official exam or sanction is enacted.
+
+## V003 C002 E002 institutional delta — club mock and Sisterhood report
+
+The narrator labels the **second remedial-club mock** and gives Hanako 8, Azusa 58, Koharu 49 (fail), Hifumi 64 (pass). E013's first mock was 4/33/15/68 respectively; Hifumi compares Koharu explicitly and Hanako folds E008's 2 official mark into a joke. No comparable test form or official second sitting is displayed. One pass does not satisfy E006's simultaneous four-pass rule, but this mock itself is not the formal exit decision. The club's residential routine now includes a proposed common laundry run, not a verified new school policy or completed laundering. Marie is a Sisterhood visitor bearing an absent student's bullying report and thanks; her report ties that incident to the Justice Realization/Azusa tear-gas-storehouse fight already narrated in E004, but distorted-information pathway, perpetrator and precise sequence are not independently audited. The Sisterhood's confidential concern, if any, remains unstated. Azusa's annex traps actually fire on Marie, a security false positive with no described institutional investigation or medical finding. Nagisa's traitor allegation, treaty, exam controls and possible expulsion receive no direct institutional resolution.
