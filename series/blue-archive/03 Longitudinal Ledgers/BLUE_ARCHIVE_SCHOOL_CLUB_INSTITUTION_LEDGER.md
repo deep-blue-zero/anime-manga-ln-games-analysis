@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–002; BA:main:004:001:003 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–003; BA:main:004:001:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -999,3 +999,7 @@ Rin says GSC requires handwritten official amounts in kanji numerals, proper sta
 ## V004 C001 E002 institutional delta — custody without adjudication
 
 Kanna identifies SRT's RABBIT first-years and reports school closure and intended transfer to Valkyrie Security, but no closure/transfer instrument is inspected. Public Security's force-first effort fails; under Schale responsibility, remaining Valkyrie personnel support Life Safety's local subdual. Kirino alleges illegal weapons and public-park occupation; the episode does not supply a statute or charge sheet. Kanna says questioning is next and predicts GSC Defense Office disposition because the council was involved; no interrogation or penalty has occurred. Kronos filming and a destroyed relay drone add public visibility without evidentiary completeness.
+
+## V004 C001 E003 institutional delta — interviews and closure authority
+
+Four `977-R` interrogation records list named students/interviewers. Narration stamps Saki, Moe and Miyu `不適格` and Miyako `保留` without a rubric, decision-maker or legal effect; do not turn this into adjudicated status. Kanna reads purported GSC academic files for Saki and reports a council closure decision and strong request for heavier punishment; neither underlying file nor closure instrument appears. She expects detention then a federal decision, possibly loss of school-transfer eligibility in the worst case. These are forecasts, not imposed penalties. Kaya self-identifies with the Federal Student Council Defense Office and enters before explaining her stance.

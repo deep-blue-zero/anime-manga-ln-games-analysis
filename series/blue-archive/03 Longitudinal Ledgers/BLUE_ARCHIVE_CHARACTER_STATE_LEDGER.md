@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–002; BA:main:004:001:003 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–003; BA:main:004:001:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1637,3 +1637,11 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Kirino/Fubuki:** Kirino prioritizes civilian safety and obtains a surprising hit; Fubuki is reluctant, exploits Miyu's password challenge and wants leave. Their distinct contributions must not be merged; `scene:002:u:0090-0091` are speaker-suspect.
 - **Saki/Moe/Miyako/Miyu:** Saki is tactically assertive and anti-closure yet resists Miyako's command; Moe prefers spectacle and spends her available support ammo; Miyako defines force as negotiation leverage and limits unnecessary fire; Miyu is skilled at drone measurements but fearful of losing home and vulnerable to an impersonation trap. Local subdual does not establish injury degrees or a durable squad breakup.
 - **Shinon/Mai:** media reporting now directly witnesses the Public Security setback and loses a relay drone; neither performs a casualty or legal audit.
+
+## V004 C001 E003 character-state delta — distinct SRT motives
+
+- **Saki:** reports near-perfect academic/practical SRT record and no prior rule violation as Kanna's file summary; gives strict constant-readiness/wolf identity, then admits she wanted a first chance at wasteful fire. This complicates rather than cancels discipline.
+- **Moe:** says SRT's heavy weapons, not longing for RABBIT companionship, drive her refusal; her weapons-scale claims and Kirino's past shopping-street rumor are unaudited.
+- **Miyu:** volunteers sniper role, age/birthday/pebble hobby and says she fears being forgotten in new ties; Miyako sometimes looks after her. Fubuki's Life Safety suggestion is declined, not a transfer.
+- **Miyako:** says transfer refusal is not anti-Valkyrie but a commitment to SRT's allegedly interest-independent justice; blames her own command, rejects unfamiliar Sensei's praise and vows persistence despite poor odds. Her institutional assessment is her belief.
+- **Sensei/Kanna/Kaya:** Sensei prioritizes welfare and a question about Miyako's reason, states personal inability to reverse closure immediately. Kanna forecasts severe federal sanction but shows no decision. Kaya self-introduces as Defense Office member; no policy answer yet.

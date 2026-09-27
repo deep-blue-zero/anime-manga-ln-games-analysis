@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–002; BA:main:004:001:003 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–003; BA:main:004:001:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1089,3 +1089,7 @@ Rin insists Sensei correct field reports and expenses; administrative accuracy i
 ## V004 C001 E002 delta — equal student standing in a tactical gamble
 
 Sensei arrives with Rin's introduction and receives Kanna's field cooperation. Against Kanna's allegedly unbridgeable elite gap, Sensei voices `みんな「生徒」に変わりは無い` and calls on Kirino/Fubuki under accepted Schale responsibility (`scene:001:choice:008;u:0125-0139`). Life Safety's local victory and Sensei's credit to them show student agency rather than a solo adult rescue, but the actual planning is mostly off-page: Fubuki cites Sensei's psychological read and Kirino says the position matched Sensei's prediction. The exchange is not evidence that risk was zero, that all abilities are equal, that RABBIT's distrust is mere petulance, or that Sensei controls their legal fate. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E003 unopened.
+
+## V004 C001 E003 delta — welfare inquiry without closure power
+
+In the interrogation Sensei's first substantive question asks Miyako about living conditions (`scene:002:choice:002`), which she suspects could be a coercive exchange for information. Sensei instead asks whether the transfer refusal is hatred of Valkyrie, hears her SRT-specific justice account, offers limited reassurance she does not accept, and asks what she needs. When she requests closure reversal, Sensei explicitly says this is difficult for one adult to do immediately (`choice:003-010`). That combination of listening and stated limit resists an omnipotent-savior inference; it has not yet changed Miyako's decision. Sensei then asks Kanna about fate and GSC consultation, prompting Kaya's entrance but no answer. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E004 unopened.

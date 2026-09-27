@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–002; BA:main:004:001:003 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–003; BA:main:004:001:004 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V004_C001_E002 active provisional; C001 E003 unopened
+current_sequential_boundary: MAIN_V004_C001_E003 active provisional; C001 E004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2381,3 +2381,7 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 ## V004 C001 E002 claim delta — tactical attribution and under-ranked students
 
 **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei's `みんな「生徒」` stance leads to deploying Kirino/Fubuki with Valkyrie support; Kanna directly recognizes their local success, but Sensei's off-page tactical plan and broader pedagogical mechanism remain unverified. **BA-C008 — STRENGTHEN evidence discipline:** Kanna's closure/transfer and Kirino's illegal-weapons labels are attributed institutional claims; Miyako's deliberate-false-aim explanation is her inference, whereas Kirino's surprise is direct counterweight. A gunshot near Miyu is not an injury certificate. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** Seven new `UNMODELED` subjects bring readiness to **21 partial / 73 unmodeled across 94**. No new durable claim ID, standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E003 unopened.
+
+## V004 C001 E003 claim delta — four motives and official-looking records
+
+**BA-C008 — STRENGTHEN/DIFFERENTIATE:** E003 directly tests the E001–E002 outsider frame. Saki's strict SRT identity coexists with her confessed desire to try wasteful fire; Moe names weapons, Miyu fear of social erasure, Miyako non-partisan justice. Neither Kanna's GSC-file scores, Kirino's shopping-street rumor, nor the narrator's `不適格`/`保留` stamps establish a final legal disposition. **BA-C001/C016 — QUALIFY:** Sensei listens and asks about conditions but cannot personally reverse a council closure; Miyako's distrust persists. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** Kaya enters narrow `UNMODELED` coverage; **21 partial / 74 unmodeled across 95**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E004 unopened.

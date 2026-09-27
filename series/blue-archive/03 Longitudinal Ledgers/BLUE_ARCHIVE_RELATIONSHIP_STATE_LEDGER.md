@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–002; BA:main:004:001:003 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–003; BA:main:004:001:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1283,3 +1283,7 @@ The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_�
 ## V004 C001 E002 relationship delta — fractured command and refused adult
 
 Within RABBIT, Miyako seeks disciplined negotiation and resource restraint; Saki contests her command and Moe invokes the absent president to loosen obligation, while Miyu needs protection rather than elite shaming. This is friction inside a still-acting squad, not proven dissolution. Kanna begins dismissive of Kirino/Fubuki, then thanks them after their result; no reward/transfer is granted. Sensei takes operational responsibility and publicly credits the two students, but RABBIT rejects contact: Miyako's direct adult distrust cannot be flattened to Kanna's loss-irritation gloss. Shinon/Mai's broadcast and Kanna's camera objection remain a press–police boundary, not personal enmity.
+
+## V004 C001 E003 relationship delta — loyalty without one motive
+
+Saki identifies strongly with SRT and resists Kanna's intimidation, yet her admission softens the flawless-rule persona. Moe says she would gladly part with the current RABBIT members, so squad solidarity cannot be inferred from shared protest; this remains one interview statement, not a completed separation. Miyu reports Miyako sometimes caring for her despite limited closeness overall; transfer threatens recognition more than safety. Miyako acknowledges Sensei's skill but rejects praise from a near-stranger and treats his welfare question as possible quid pro quo. Kanna thanks Sensei for cooperation while predicting council control; Kaya enters before any answer.

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–002; BA:main:004:001:003 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–003; BA:main:004:001:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1670,3 +1670,11 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 - Miyu's hesitant `こわい`/`帰れる場所` self-talk coexists with precise altitude/range/bearing. She detects an impostor's wrong voice and speech style but reveals the `クローバー`→`ニンジン` response when Fubuki reverses the challenge (`scene:001:u:0079-0100;scene:002:u:0010-0047`). Fubuki's italic `不審者` lines are a performed deception, not Saki's true register.
 - Kanna's hierarchy of `エリートとそうでない生徒` is opposed by Sensei's singleton `みんな「生徒」に変わりは無い` (`scene:001:u:0121-0127;choice:008`). The latter is a normative category, not a literal equivalence of weapons/skill.
 - Miyako's inward `わざと違う方向` is a tactical interpretation; Kirino's `命中しました！？！？` signals surprise. `scene:002:u:0090-0091` are Fubuki-tagged but fit Kirino's self-praise/security-transfer register; quarantine precise voice rather than silently reassign. No performed voice admitted.
+
+## V004 C001 E003 delta — wolf/dog, justice, and registration
+
+- Saki's `常在戦場` and wolf-versus-dog `狼（SRT）`/`犬（ヴァルキューレ）` are self-positioning metaphors, not taxonomy. Her small `一回くらいやってみたくて` admission punctures a flawless-discipline reading without converting her into Moe (`scene:002:u:0022-0033`).
+- Moe's casual candy complaint and `武器のため` answer contradict Kirino's projected comradeship explanation; the immediate `うん` to a citizen-safety challenge is a provocative answer, not an independently audited lifetime ethic (`u:0043-0069`).
+- Miyu's hesitant self-disclosure includes age, birthday and `小石探し`; `人から忘れられるのが、怖い` specifies fear of erasure, not generic fear of Valkyrie violence (`u:0080-0100`).
+- Miyako distinguishes dislike of Valkyrie from loss of SRT and defines `正義` as truth-grounded, stable across interests. Her `保留` stamp does not equal legal acquittal; Kanna's `不適格` stamps' procedure is unexplained (`u:0114-0159`). Sensei's paired introduction converges, while `今すぐ私だけでどうにかするのは、ちょっと難しい` is a voiced limit, not hidden ability.
+- Kaya's formal self-introduction `連邦生徒会所属、防衛室のカヤ` begins a voice sample, not yet an institutional decision. No performed voice admitted.

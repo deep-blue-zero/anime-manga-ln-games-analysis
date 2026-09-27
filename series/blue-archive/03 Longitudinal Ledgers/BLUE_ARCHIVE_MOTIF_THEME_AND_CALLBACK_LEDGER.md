@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–002; BA:main:004:001:003 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–003; BA:main:004:001:004 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1441,3 +1441,7 @@ The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_�
 ## V004 C001 E002 motif / callback delta — rank and the lost home
 
 SRT's `閉校を取り消せ` demand becomes individual: Saki insists the school remains as long as they resist, while Miyu realizes she cannot simply go home. The external elite status that Kanna treats as decisive also becomes Saki's tool for shaming Miyu; Sensei's `みんな「生徒」` and Life Safety's subdual complicate rank as a moral or tactical absolute. Drone spectacle consumes Moe's support ammunition, making visible a cost that Miyako had forecast. The `クローバー`/`ニンジン` password lets a nominal security procedure become the opening for deception. No full future-home, transfer or disciplinary outcome is implied.
+
+## V004 C001 E003 motif / callback delta — four versions of belonging
+
+The interviews turn E002's shared `閉校を取り消せ` into nonidentical stakes: Saki's disciplined wolf identity, Moe's weapons access, Miyu's continuity of recognition and Miyako's consistent-justice ideal. Kirino mistakenly reads Moe through a camaraderie script; Miyako explicitly rejects an anti-Valkyrie motive. The record's `不適格`/`保留` stamps offer procedural comedy and threat without an explained legal endpoint. Saki's desired single breach of discipline and Miyako's self-blame complicate idealized institutional self-descriptions. Sensei's welfare question meets Miyako's suspicion of adult bargaining; his inability to reverse closure keeps care separate from omnipotence.
