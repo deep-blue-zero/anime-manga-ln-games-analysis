@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–006; BA:main:003:003:007 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–007; BA:main:003:003:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1094,3 +1094,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Church above/below:** repaired ceremony floor and rumored ruined catacombs split public peace surface from uncertain underside; Arius underground orders tempt but do not prove a mapped catacomb route.
 - **Rest deferred by emergency:** Ako's worry about Hina is postponed until after ceremony, then attack begins. Hina's E004 private rest wish remains open.
 - **Catastrophe becomes event:** E020's prophetic language is overtaken by an actual launch and blast, but the human costs remain unprinted. Do not retroactively treat every Seia forecast as omniscience.
+
+## V003 C003 E007 motif / callback delta — ash beneath peace
+
+- **Peace pageant burns:** E005's public optimism and E006's covenant/enforcement tour collide with actual cathedral fire and a fallen spire; no completed ETO yet exists to stop attack.
+- **Boasted alliance as trap:** Makoto's enemy-of-my-enemy logic and airship-gift triumph flip with Iroha's Arius-hates-Gehenna warning, flammable boxes and a second blast. The comic arrogance carries real peril, but fates remain open.
+- **Distributed rescue, not lone hero:** Arona's attempted shield, Hinata's strength, Hasumi's evacuation and Tsurugi's stand echo earlier student-owned protection while Sensei is immobilized.
+- **Guardians' appearance versus identity:** Hinata's historical Justina account is followed by clothing-matched strange foes; the callback asks who enforces a promise without establishing literal resurrection.
+- **Inward forensics versus action:** Hina turns from speculative missile technology/perpetrators to immediate concern for Sensei, distinguishing analytic ability from confirmed explanation.

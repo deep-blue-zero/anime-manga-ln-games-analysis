@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–006; BA:main:003:003:007 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–007; BA:main:003:003:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -799,3 +799,7 @@ Shinon reports a crowded signing-day venue and projects `エデン条約機構�
 ## V003 C003 E006 institutional delta — ceremony security and attack
 
 Justice Realization/Prefect members challenge Sensei as an outsider and quarrel over a line until Tsurugi/Hinata intervene; on-site co-presence is tense, not yet an ETO adjudication. Hinata says Sisterhood is helping guide and guard under Sakurako, with a tentative post-crisis policy explanation. Her partly repaired cathedral and blocked passage are local observations/reports; catacombs are rumor. Her report that Nagisa/Makoto agreed the venue remains hearsay. Hinata affirmatively calls Justina Holy Council a historical Sisterhood predecessor and describes covenant-break enforcement, not present jurisdictional authority. Hina says planned ETO would constrain Makoto/Pandemonium and leave Prefect Committee intact, an interested forecast, not law in force. Shinon reports Makoto and Nagisa arrivals, Hina pending; no signature. Narration marks Arius Squad operation start; direct command report says cruise missile already launched/five minutes from target, with Teams II/III aimed toward school sides and Teams I/V underground. An explosion is narrated. The exact impact, cathedral collapse, casualties, access route, team penetration, signature process and ETO fate remain open.
+
+## V003 C003 E007 institutional delta — damaged venue and unverified losses
+
+An announcer reports cathedral fire and spire collapse; wounded students are heard. Hasumi reports most Justice members combat-incapacitated and Nagisa/Sakurako/many others unlocated, with most Gehenna also absent. These are major institutional disruptions, not certified death, detention or signed-treaty status. Makoto self-confesses Arius collusion and sham treaty assent to lure Tea Party leaders, claiming coup knowledge and an Arius-gift airship; Iroha says Arius's anti-Gehenna hatred means Makoto was deceived. Ibuki sees flammable boxes and a second blast follows, but exact device, casualties and controlling party are not verified. Misaki says Team II entered cathedral, Hiyori says Team III fights Hina and V is underground; Saori says her separate errand is done. Hinata guesses catacomb entry, not a confirmed route map. Arius troops directly confront Justice survivors and Hina. Tsurugi directs Hasumi to evacuate Sensei while she fights. Later Hinata identifies strange foes' clothes as ancient Justina from a book; no proof of literal surviving guardians or lawful authority. The treaty/ETO, leadership survival, perimeter failure and operational outcome remain open.

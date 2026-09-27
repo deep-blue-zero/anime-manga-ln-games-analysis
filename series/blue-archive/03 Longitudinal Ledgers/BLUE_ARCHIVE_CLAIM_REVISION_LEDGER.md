@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–006; BA:main:003:003:007 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–007; BA:main:003:003:008 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E006 active provisional; E007 unopened
+current_sequential_boundary: MAIN_V003_C003_E007 active provisional; E008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1955,3 +1955,12 @@ No new durable claim ID, model, frozen prediction or side-source admission. Shin
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 53 unmodeled across 74**; backfill **DEFER**. E007 unopened.
+
+## V003 C003 E007 claim delta — blast harm and confessional betrayal
+
+- **BA-C001/C016 — REVISE/QUALIFY:** Arona says she tried to shield Sensei, Hinata physically rescues them, and Hasumi/Tsurugi prioritize evacuation and resistance. Survival depends on several student/companion acts; no singular adult rescue or invulnerability follows.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE:** cathedral fire/spire collapse and Hasumi's mass Justice-incapacity report confirm major attack harm. Makoto self-claims long Arius collusion and sham treaty assent, undercutting public treaty posture, but precise bargain, control and ultimate outcome remain unverified. Iroha's deception account, Ibuki's boxes and a second blast suggest Arius double-cross without showing device agent or deaths. Team II/III/V operational reports advance E006 orders; Nagisa/Sakurako and many Gehenna are missing, not dead. Justina clothing recognition is not ancient identity proof.
+- **BA-C008 — STRENGTHEN:** Hina's ramjet/interception/placed-charge reasoning is internal hypothesis; Makoto/Iroha tags invert at `u:0046/0055`; Mika's location is unmarked; Hasumi's losses are participant report; Hinata's catacomb route is a question and old-garment ID a visual match. Arona's protection/fading is self-report.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, model, frozen prediction or side-source admission. Ibuki enters narrow `UNMODELED`: **21 partial / 54 unmodeled across 75**; backfill **DEFER**. E008 unopened.

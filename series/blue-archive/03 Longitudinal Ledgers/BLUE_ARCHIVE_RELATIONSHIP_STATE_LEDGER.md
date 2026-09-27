@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–006; BA:main:003:003:007 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–007; BA:main:003:003:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -940,3 +940,12 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Hina ↔ Ako/Makoto:** Ako worries about Hina personally after prospective ETO constraints on Makoto; Hina assures committee continuity but defers the personal issue. Makoto's airship/car taunt sustains antagonism, not alliance.
 - **Saori ↔ Squad/Atsuko:** Saori assigns Misaki/Hiyori teams, addresses Atsuko `姫` and asks her to endure discomfort; the silent gesture cannot specify her consent, task details or feelings. Group coordination is direct, outcome open.
 - **Azusa ↔ Hifumi/Koharu/Hanako:** Azusa abruptly leaves without explaining while peers speculate. Her Saori suspicion is inward; no spoken warning or return occurs here.
+
+## V003 C003 E007 relationship delta — searching and rescue under attack
+
+- **HIFUMI/KOHARU/HANAKO ↔ AZUSA/JUSTICE:** Hifumi seeks absent Azusa and Koharu fears for seniors; Hanako tries to prevent risky separation. Her safety estimate is not proof of either party's condition.
+- **HINA ↔ AKO/SENSEI:** Hina inwardly deems Ako safe and shifts attention to Sensei while Arius troops block her. No direct reunion or successful rescue by Hina.
+- **MAKOTO ↔ IROHA/ARIUS:** Makoto claims a prior Arius alliance and false treaty assent; Iroha questions trust and calls her deceived. The airship gift/boxes dramatize asymmetry, without inspected agreement or known personal outcomes. Ibuki is present on the gift vessel but her fate is unshown.
+- **ARONA/HINATA/HASUMI/TSURUGI ↔ SENSEI:** Arona reports attempted protection, Hinata extracts Sensei, Hasumi prioritizes evacuation, and Tsurugi stays to hold attackers. These are distinct acts, not a single savior story.
+- **HASUMI ↔ TSURUGI:** Tsurugi checks Hasumi's retaliation impulse; Hasumi accepts the correction and protects Sensei while Tsurugi engages. Later strange-opponent encounter has unclear continuity.
+- **MIKA ↔ NAGISA:** Mika's unlocated `ナギちゃん？` expresses alarm, not evidence of Nagisa's status or Mika's physical presence.

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–006; BA:main:003:003:007 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–007; BA:main:003:003:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1339,3 +1339,12 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Hina's `足枷` is a metaphor for a future constraint on Makoto; `調印式が終わってから` defers discussion, not an enacted resignation. Shinon's `多分` jokes about Makoto's charisma; her Hina arrival is still future.
 - Saori/Misaki's `すでに発射済み` and `5分後` report an already launched missile and imminent target. `崩壊と同時に突入` is an order based on planned collapse, not narrated completed collapse. Saori's `姫` directly addresses Atsuko; her gesture content is not verbal text. `あの人形` remains unidentified.
 - Azusa's `まだ、終わってなかった？` and `サオリ、まさか` are inward alarm, not verified attribution of every mechanism. `u:0079` narration supplies explosion without impact coordinates. `u:0080` is E007 title only. Nine Sensei choice groups, first two-option, rest singleton.
+
+## V003 C003 E007 delta — self-confession and identity restraint
+
+- Announcer `正体不明` means explosion cause publicly unidentified, not that prior Arius launch speech vanishes. Mika `ナギちゃん？` has no location tag. Hanako's “Azusa/Justice can defend themselves” is a crisis confidence judgment, not observed safety.
+- Hina's italic `巡航ミサイル`, `ラムジェットエンジン？` and preplaced `爆薬が……？` are inward conjectures; the E006 command report supports missile launch but not Hina's technical hypothesis or origin list. Her Ako-safety view is also limited personal observation.
+- Makoto's `結託`/`同意する振り` is a direct self-incriminating boast; `u:0046` Makoto tag asks “coup?” in Iroha-like context, and `u:0055` Makoto tag addresses “Makoto-senpai.” Do not reassign substantive blame by literal tags. Iroha's `騙された` is interpretation; Ibuki reads warning labels on boxes. The adjacent explosion lacks forensic caption.
+- Saori `用事は終わった` does not explicitly name a planted bomb. Misaki/Hiyori report team positions and combat in italic command channel; Saori's `楽園`/`審判` are her rhetoric, not narration's justice.
+- Arona `守ろうとした` and `力が` are her self-report with broken speech, not technical measurement. Hinata `お怪我は無さそう` is visual appraisal, not clinical clearance. Hasumi `見当たらなく` means missing, not dead. Hinata `地下から……？` is a question.
+- Scene 2 Hinata `あの姿`/`服装` identifies attire seen in a book; `どうして今ここに` is surprise, not ontological certification of historical Justina. `u:0010` is E008 title only. Four Sensei choices, all singleton.

@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–006; BA:main:003:003:007 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–007; BA:main:003:003:008 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,18 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E007 character-state delta — injured site and allied deception
+
+- **Ibuki:** named speaker notices flammable/handling-warning boxes just before a second explosion; no outcome for her is printed. New narrow `UNMODELED`.
+- **Makoto/Iroha:** Makoto explicitly self-claims prior Arius collusion and sham treaty assent for a strike on Trinity/Hina, then treats airship as Arius gift. Iroha challenges the bargain and says she was duped. `u:0046/0055` tags invert, so exact Iroha lines require context. Both `UNMODELED`.
+- **Hina/Hiyori/Saori:** Hina inwardly forms missile/engine/charge hypotheses, then focuses on Sensei; Hiyori notes she still stands and Saori orders her trapped. Hina `PARTIAL_MODEL`; Hiyori/Saori `UNMODELED`.
+- **Hifumi/Koharu/Hanako/Azusa:** Hifumi seeks absent Azusa, Koharu worries for Justice, Hanako tries to keep the group together; Azusa's safety remains an estimate. Hifumi `PARTIAL_MODEL`; others `UNMODELED`.
+- **Arona/Sensei/Hinata:** Arona reports attempted protection and fading power; Sensei wakes unable to move, Hinata extracts them with strength, reports no apparent injury. No clinical or technical audit. Arona `UNMODELED`, Sensei `PARTIAL_MODEL`, Hinata `UNMODELED`.
+- **Hasumi/Tsurugi:** visibly hurt and resisting Arius; Hasumi reports mass Justice incapacity and missing leaders, then Tsurugi calms her and stays to fight as she evacuates Sensei. No later combat outcome. Both `UNMODELED`.
+- **Mika:** one alarmed `ナギちゃん？` without location or confirmed information. `UNMODELED`.
+
+One new subject yields **21 `PARTIAL_MODEL` / 54 `UNMODELED` across 75**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E006 character-state delta — tense hall and active Arius plan
 
