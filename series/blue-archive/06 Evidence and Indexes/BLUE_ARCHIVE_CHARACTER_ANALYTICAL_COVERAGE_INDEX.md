@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_CHECKPOINTS_PLUS_C004_E001_E019
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_CHECKPOINTS_PLUS_C004_E001_E020
 generation: V1
-version: "2.31"
+version: "2.32"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C003 through checkpoints, then BA:main:003:004:001–019 provisionally; 168/310 main units; side-source classes unreviewed; BA:main:003:004:020 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C003 through checkpoints, then BA:main:003:004:001–020 provisionally; 169/310 main units; side-source classes unreviewed; BA:main:003:004:021 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:003:004:020
+next_unopened_main_unit: BA:main:003:004:021
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:004:020
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V003_C004_E019` provisional boundary, inheriting canonical `MAIN_V003_C003`:
+This index answers four questions at the `MAIN_V003_C004_E020` provisional boundary, inheriting canonical `MAIN_V003_C003`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025 and V003 C004 E001-E019;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020, V003 C003 E001-E025 and V003 C004 E001-E020;
 - current checkpoint: `MAIN_V003_C003`; prior C001/C002 checkpoint basis remains lineage;
-- main-story coverage: `168 / 310` canonical units;
+- main-story coverage: `169 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:003:004:020`.
+- next unopened main unit: `BA:main:003:004:021`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -88,6 +88,7 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 | Misaki | `ANALYZED` through C004 E019; says could not dissuade Sensei, reacts to early ritual | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Atsuko | `ANALYZED` through C004 E014 by Beatrice report; called royal-blood path offering, ritual outcome unshown | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Beatrice | `ANALYZED` through C004 E019; starts rite before dawn, forecasts Atsuko halo break and orders Barbara | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Barbara | `ANALYZED` in C004 E020; title-linked Justina saint threat directly encountered, silent and outcome open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Golconda | `ANALYZED` in C004 E005 dream frame; mediates dispute and names Beatrice's Arius territory, identity relation open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Decalcomania | `ANALYZED` in C004 E005 dream frame; italic interjection, identity relation to Golconda unresolved | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Mine | `ANALYZED` through C004 E002; claims Seia treatment and external oversight, suspects Azusa interrogation without proof | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -180,6 +181,7 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | Misaki | L; suffering-as-life line and mediated question | GAP; no independent tactic | L; Saori/Hiyori and possible princess mediation | L; Arius-side association only | GAP | L; direct line, silence/sign labels uncertain | L; prepares under command | H; exact signer, referent, role and ordinary/private control absent |
 | Atsuko | M; E024 learned-hatred account, E025 wish, C004 self-surrender | M; proposes flight then coerced exchange | M; Saori/Azusa/Squad/Beatrice | L; Arius-side, royal-blood target by situation | GAP | M; direct and italic speech, two C004 labels suspect | M; encirclement and ritual threat | H; teacher of hatred, actual safety, private baseline and ritual outcome open |
 | Beatrice | M; betrayal plus dream-frame exploitation account | M; commands capture/ritual, claims Squad kill-for-reprieve task | M; Atsuko/Squad/Arius/Gematria, dream frame cautioned | L; “Madam”/territory claims, governance unaudited | GAP | M; oath, threat and instrumental inward account | M; pursuit and threatened Sensei | H; ritual, task delivery, actual casualties and private baseline open |
+| Barbara | L; title-linked saint directly encountered under attack | GAP; no independent choice | L; ordered against Sensei/Squad, no reply | L; Justina saint by title and Hiyori recognition | GAP | GAP; no direct line | L; overwhelming pressure by group appraisal | H; mechanics, injury, outcome, autonomy and ordinary baseline open |
 | Golconda | L; first dream-frame appearance | L; mediates one internal dispute | L; Beatrice/Maestro/Black Suit in-frame only | L; Gematria-associated by scene, exact role unaudited | GAP | L; self-address fault cautioned | GAP | H; identity relation, real-world encounter and ordinary range open |
 | Decalcomania | L; first italic dream-frame interjection | GAP | L; Golconda-adjacent, relation unresolved | GAP | GAP | L; repeated `そういうこった！` only | GAP | H; identity, role, real-world status and other contexts open |
 | Mine | L; returns/apologizes after protective absence | L; return shown, wider decision path absent | L; Serina/Rescue Knights welcome | L; Rescue Knights leader by address | GAP | L; brief apology/return | L; crisis aftermath | H; intervening medical timeline, authority and ordinary/private baseline open |
@@ -272,6 +274,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Misaki | Says suffering proves life earlier; E022 addresses leader only | Saori/Hiyori, signer uncertain | Silence/sign representation not stable voice evidence | V003 C002 E020; C003 E022 `scene:001:u:0001` |
 | Atsuko | E024 learned-hatred account; C004 elects surrender under coercion | Saori/Azusa/Squad relation clear, promised release immediately betrayed | Earlier silent signs not decoded; C004 `u:0028/0039` label cautions | V003 C002 E020; C003 E024/E025; C004 E001 `scene:001:u:0021-0051` |
 | Beatrice | Self-named promise, betrayal and dream-frame claims about Arius/altar/Squad | Atsuko/Squad/Arius students and Gematria colleagues; coercion and dispute | Oath register contradicts order; instrumental hate claim is italic/in-frame | V003 C004 E001 `scene:001:u:0041-0064`; E005 `scene:001:u:0015-0076` |
+| Barbara | Title-linked Justina saint encountered as overwhelming force | Beatrice orders her against Sensei; Squad reacts, no response | No spoken register or personal voice sample | V003 C004 E019 `scene:001:u:0059-0061`; E020 `scene:001:u:0001-0005` |
 | Golconda | Dream-frame mediator; provenance uncertain | Beatrice/Maestro/Black Suit exchange only | `u:0044` self-address prevents stable identity/voice inference | V003 C004 E005 `scene:001:u:0010-0014/0024-0028/0044-0049` |
 | Decalcomania | Italic labeled interjection | Golconda-adjacent but identity relation unresolved | `そういうこった！` alone is not a full voice sample | V003 C004 E005 `scene:001:u:0011/0030/0045` |
 | Mine | Direct return/apology after earlier protective reports | Serina/Rescue Knights welcome, intervening history unshown | One brief direct register, no ordinary sample | V003 C003 E025 `scene:001:u:0028-0033` |
@@ -362,6 +365,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Misaki | `UNMODELED` | `NONE` | suffering line and mediated question in one Arius scene | Silent-tag/sign conflict, referent, decisions and private baseline unresolved. |
 | Atsuko | `UNMODELED` | `NONE` | learned-hatred challenge, flower wish and C004 self-surrender | Historical mechanism, coerced promise's outcome, ritual threat and private baseline open. |
 | Beatrice | `UNMODELED` | `NONE` | self-naming/betrayal plus dream-frame instrumental Arius and altar/Squad claims | Capture/death, ritual mechanism, task delivery, governance and ordinary/private baseline open. |
+| Barbara | `UNMODELED` | `NONE` | title-linked Justina saint force directly met after Beatrice's order | No voice, autonomous decision, mechanics, outcome, private or ordinary baseline. |
 | Golconda | `UNMODELED` | `NONE` | dream-frame mediation and Arius-territory statement | Identity relation to Decalcomania, real-world status, motives and ordinary/private context open. |
 | Decalcomania | `UNMODELED` | `NONE` | repeated italic interjection in dream-framed meeting | Identity relation to Golconda, independent decisions and ordinary/private context absent. |
 | Mine | `UNMODELED` | `NONE` | direct return and apology to Rescue Knights | One short return scene; clinical timeline, decisions, wider care practice and private baseline open. |
@@ -526,7 +530,7 @@ The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Mo
 | Kaiser director (role actor) | P (creditor/command) | U | U | P (leverage/threat) | P (administrative threat) |
 | Shiba Seki master (role actor) | P (hospitality) | P (service encounter) | P (community contact) | U | P (service/reassurance) |
 
-For **all 85 currently tracked subjects**, romance/dating, crossover, and general unfamiliar-group extrapolation remain `UNMODELED`. Public performance is partial only for Aru's evidenced PS68/outlaw persona; other performance settings are unsupported. Ethical-decision readiness is partial only for the named institutional, boundary, care or coercion mechanisms, never an unrestricted moral algorithm. No subject has broad private/MomoTalk readiness or performed-voice readiness.
+For **all 86 currently tracked subjects**, romance/dating, crossover, and general unfamiliar-group extrapolation remain `UNMODELED`. Public performance is partial only for Aru's evidenced PS68/outlaw persona; other performance settings are unsupported. Ethical-decision readiness is partial only for the named institutional, boundary, care or coercion mechanisms, never an unrestricted moral algorithm. No subject has broad private/MomoTalk readiness or performed-voice readiness.
 
 ## 6. Evidence concentration and sampling bias
 
@@ -1378,3 +1382,9 @@ Routing: [V003 C004 E018 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 Sensei explicitly reunites with Saori, Misaki and Hiyori and says Atsuko's rescue will continue **with Saori**; the intervening return route is absent. Sensei apologizes to Mika for not explaining/facing her, gives Atsuko's endangered life as reason for helping Saori, proposes a conditional shared return to Trinity after rescue and offers help. Mika says expulsion is decided and self-labels witch, but no new school order is inspected. Sensei's fuller appraisal acknowledges harm and earlier reconciliation while rejecting fatal witch identity; this and the repeated “infinite possibilities” adult commitment are tagged inner thought. Voiced choices say chances exist and can be created, not that success/readmission is guaranteed; paired choices must not be combined. Beatrice interrupts, says she has watched them, declares the rite will start **before sunrise**, forecasts Atsuko's imminent halo break/self-elevation and orders Barbara to silence Sensei. No halo result, transformation or Barbara response is printed. In a separate daydream frame Seia meets an unidentified feminine voice that seems to perceive her; neither identity, physical Hyakkiyako arrival nor recovery is verified. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). E020 unopened.
 
 Routing: [V003 C004 E019 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E019_DEEP_READING.md) → `BA:main:003:004:019`, two scenes, 72 visible numbered units and ten Sensei choice groups (two paired). Coverage is **168 / 310**.
+
+## 141. V003 C004 E020 provisional coverage delta
+
+The title names **Saint Barbara**; after Beatrice's E019 order, Saori/Hiyori/Misaki directly react to an incoming Justina saint force. Hiyori calls it stronger than “that tactical weapon,” doubts they can face it, and Misaki says it does not stop. This supports a narrow directly encountered, silent Barbara subject, not an audited capability ranking, independent Barbara decision, injury, battle outcome or successful halo/ritual effect. Barbara adds one `UNMODELED` subject: **21 `PARTIAL_MODEL` / 65 `UNMODELED` across 86**, none operational/validated. No standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). The next-title card announces E021; Chapter 4 continues through E027, so no checkpoint is issued here. E021 unopened.
+
+Routing: [V003 C004 E020 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_E020_DEEP_READING.md) → `BA:main:003:004:020`, two scenes, six visible numbered units (scene 2 is only the next-title card) and no Sensei choice. Coverage is **169 / 310**.

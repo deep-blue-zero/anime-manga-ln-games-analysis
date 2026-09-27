@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–019; BA:main:003:004:020 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–020; BA:main:003:004:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1045,3 +1045,7 @@ Saori answers Mika that she lacked a halo-breaking bomb because Sensei confiscat
 ## V003 C004 E019 delta — apology without absolution, chance without guarantee
 
 Sensei reunites with Saori and says they will save Atsuko together. To Mika they apologize for a failure to explain or face her, cite a student's life as the reason for aiding Saori, and propose a joint Trinity return after rescue. Sensei promises help and choice lines say chances exist/can be made; the longer appraisal of Mika's wrongdoing, goodness and repeated adult opportunity-making remains inward. This adult ethic refuses fatal `witch` identity without erasing accountability, yet cannot itself issue a school pardon or guarantee a future. Beatrice's accelerated ritual interrupts. Ten choice groups, two paired; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E020 delta — no printed adult tactic against Barbara
+
+Saori/Hiyori/Misaki react to a title-linked Justina saint's force and continuing approach. Sensei has no direct line or choice in the six visible units, so E019's rescue/chance pledge cannot be converted into an E020 command, protection result or use of special resources. Barbara's power comparison is Hiyori's impression. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); C004 E021 unopened.

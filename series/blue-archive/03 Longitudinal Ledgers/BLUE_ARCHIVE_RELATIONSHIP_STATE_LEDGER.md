@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–019; BA:main:003:004:020 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–020; BA:main:003:004:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1217,3 +1217,8 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **SENSEI ↔ MIKA:** Sensei apologizes for not explaining/facing her, gives student-life risk as reason to aid Saori, proposes joint Trinity return after Atsuko and offers help/chances. Mika doubts her own eligibility; no acceptance, pardon or school decision is shown.
 - **BEATRICE ↔ SQUAD/SENSEI/ATSUKO:** Beatrice cuts off the exchange, advances the rite and orders Barbara to silence Sensei. Threat relation intensifies without printed result.
 - **SEIA ↔ UNKNOWN VOICE:** a daydream speaker perceives Seia and asks why she arrived; identity and benevolence unknown.
+
+## V003 C004 E020 relationship delta — Squad faces title-linked saint
+
+- **BARBARA ↔ SQUAD/SENSEI:** a title-linked Justina saint force is directly experienced by Saori/Hiyori/Misaki after Beatrice's order; no Barbara dialogue, personal motive, damage or outcome is printed. Her relation to Sensei is an ordered threat, not a developed reciprocal bond.
+- **SQUAD ↔ ATSUKO:** rescue remains urgent, but the saint pressure supplies no new Atsuko contact or safety update.

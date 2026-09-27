@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–019; BA:main:003:004:020 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–020; BA:main:003:004:021 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E019 active provisional; C004 E020 unopened
+current_sequential_boundary: MAIN_V003_C004_E020 active provisional; C004 E021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2302,3 +2302,10 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E020 unopened.
+
+## V003 C004 E020 claim delta — Barbara as directly encountered narrow subject
+
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN narrowly:** E019's named Barbara order and E020's saint title/reaction support a direct encounter with the title-linked threat. Hiyori's comparison to a tactical weapon is not measured capability and no battle outcome follows.
+- **BA-C001/C016/C008 — PRESERVE:** no shown Sensei tactic, rescue, halo result, path mechanism or Seia update. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+Barbara enters as one narrow `UNMODELED` tracked subject: **21 partial / 65 unmodeled across 86**, none operational/validated. No new durable claim ID, standalone model, frozen prediction or side-source admission; backfill **DEFER**. C004 E021 unopened.

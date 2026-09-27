@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–019; BA:main:003:004:020 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–020; BA:main:003:004:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1375,3 +1375,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Witch versus student:** Mika repeats `魔女`; Sensei inwardly calls her a harmful but still addressable student, preserving responsibility without fatal identity.
 - **Clock revoked:** Beatrice refuses to wait for the expected sunrise, so the mission's participant deadline was never a reliable constraint on her ritual.
 - **Liminal elsewhere:** Seia's unnamed daydream visitor opens a new possible contact, not a confirmed rescue or physical Hyakkiyako arrival.
+
+## V003 C004 E020 motif / callback delta — named weapon arrives, result withheld
+
+- **Saint as weapon:** Barbara's title-linked force reaches the protagonists, realizing E017/E019's threat at encounter level while leaving her form, agency and effect opaque.
+- **Overwhelming not omnipotent:** Hiyori's tactical-weapon comparison and fear register emergency scale, not an absolute power ranking or certain defeat.
+- **Cliff still open:** the E021 title points toward a sanctuary, but E020 does not show arrival, Atsuko's fate or completion of Beatrice's rite.

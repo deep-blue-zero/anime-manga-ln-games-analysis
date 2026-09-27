@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–019; BA:main:003:004:020 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–020; BA:main:003:004:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -955,3 +955,7 @@ Mika's retrospectively printed pre-Seia/coup proposal would have secretly transf
 ## V003 C004 E019 institutional delta — promised return and accelerated rite
 
 Mika says expulsion is decided, but no new formal school instrument is inspected; the earlier Tea Party disqualification and school-expulsion forecast remain distinct. Sensei offers a **conditional** return together to Trinity after Atsuko is saved, not a binding school readmission. Beatrice states she has monitored the party and will begin the rite before sunrise, negating Squad's assumed dawn schedule; her forecast of imminent Atsuko halo destruction and self-elevation is not a completed act. She commands Barbara to silence Sensei, but no saint response or intervention is printed. Seia's unidentified daydream contact supplies no verified physical district travel or school/institutional outcome.
+
+## V003 C004 E020 institutional delta — Justina saint encounter, no completed rite
+
+The E020 title names Barbara, and Hiyori recognizes the incoming force as a Justina saint after Beatrice's E019 command. This is enough for a narrow directly encountered Barbara row, not for a certified history of Justina sainthood, autonomy or copied mechanics. Saori/Hiyori/Misaki perceive severe destructive pressure and continued approach. Hiyori's “greater than that tactical weapon” is comparative testimony, not an instrumented test. No completed halo break, Beatrice transformation, saint defeat, basilica entry or school governance change is printed.

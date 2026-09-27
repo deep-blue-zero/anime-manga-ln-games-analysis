@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–019; BA:main:003:004:020 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–020; BA:main:003:004:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1548,6 +1548,11 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0001-0004` repeats the E010 arrival; `u:0009-0025` repeatedly tags Hiyori across contrasting leader/anxious registers, and `u:0079-0081` inverts navigation/no-signal voices. Group-level content is secure, individual voice mining is not.
 - Mika's `ちょっと痛い目に` versus `いつヘイローを壊せ` (`u:0051`) is her first-person order distinction. `全部` loss/equal-suffering rhetoric remains her escalated perspective. Sensei's `choice:001` two alternatives converge on Mika returning/waiting; `choice:002` explicitly enters the catacombs.
 - Arius `u:0073-0074` duplicates one pursuer call; `撃て` at `u:0110` is an order, not a narrated impact. `u:0111` is E012 title.
+
+## V003 C004 E020 delta — saint label and bounded comparison
+
+- The title `聖女バルバラ` plus E019's direct Barbara order identifies the `ユスティナ聖徒会の……聖女` encountered in `scene:001:u:0003` as the title-linked threat, though Barbara has no own speech. `あの戦術兵器すら圧倒する` (`u:0002`) is Hiyori's urgent appraisal, not an audited damage statistic.
+- Misaki's `止まらない` and Saori's `来るぞ` (`u:0004-0005`) establish continuing approach, not a blow/result. Scene 2 `u:0001` is E021 title `次回;至聖所へ`. No Sensei choice or performed voice sample.
 
 ## V003 C004 E019 delta — voiced chance, inward infinity, unknown dream speaker
 

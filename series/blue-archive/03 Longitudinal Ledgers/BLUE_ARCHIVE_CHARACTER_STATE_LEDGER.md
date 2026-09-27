@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–019; BA:main:003:004:020 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–020; BA:main:003:004:021 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,13 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E020 character-state delta — title-linked Barbara threat
+
+- **Barbara:** E019 names/orders her, and E020's title plus Hiyori's identification of a Justina saint link the protagonists' directly felt, apparently overwhelming force to Barbara. No direct speech, visual mechanism, quantified power or outcome. Newly narrow `UNMODELED`.
+- **Saori/Hiyori/Misaki:** react to the incoming/unstoppable threat; Hiyori compares it to a prior tactical weapon, a participant impression rather than measured ranking. No outcome or injury report. All remain `UNMODELED`.
+
+Readiness becomes **21 `PARTIAL_MODEL` / 65 `UNMODELED` across 86**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). C004 E021 unopened.
 
 ## V003 C004 E019 character-state delta — chance pledge and early ritual
 
