@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001; BA:main:003:003:002 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–002; BA:main:003:003:003 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E001 active provisional; E002 unopened
+current_sequential_boundary: MAIN_V003_C003_E002 active provisional; E003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1910,3 +1910,12 @@ Hiyori, Misaki and Atsuko join as narrow `UNMODELED` subjects: **21 partial / 50
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 50 unmodeled across 71**; backfill **DEFER**. E002 unopened.
+
+## V003 C003 E002 claim delta — false-death coordination and formal student status
+
+- **BA-C001/C016 — QUALIFY:** Sensei expresses a future wish to help Nagisa/Mika, but Sakurako supplies Azusa's document guarantee and Hifumi exercises her own forgiveness/limit. Do not assign the institutional outcome solely to Sensei.
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE:** Azusa says she executed a room explosion to counterfeit Seia's death with Seia's consent and Mine as follow-on protector, fooling Squad. This cross-supports E001 Sakurako's protective-deception account without proving all mechanics or harmlessness. Sakurako explicitly declares Azusa's papers official and her formally a Trinity student, a real local status resolution, while acknowledging Arius unresolved. Nagisa's Hifumi apology revises one suspect relation but not procedural accountability. Direct prison scene corroborates Mika confinement, without sentence or reconciliation.
+- **BA-C008 — STRENGTHEN:** E002's inquiry turns, Seia advice flashback, Azusa-tagged third-person defense at `u:0023-0024`, Hanako-tagged Azusa-like reassurance at `u:0026`, Hanako's Hifumi-sourced Nagisa meeting and `？？？` “friendship game” echo are not uniform first-person fact. Scene 2's prison location is direct.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 50 unmodeled across 71**; backfill **DEFER**. E003 unopened.

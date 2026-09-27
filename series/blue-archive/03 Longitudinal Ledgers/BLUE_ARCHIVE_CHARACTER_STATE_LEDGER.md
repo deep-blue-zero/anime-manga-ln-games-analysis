@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001; BA:main:003:003:002 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–002; BA:main:003:003:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1124,3 +1124,13 @@ Readiness: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/v
 - **Sensei/Hifumi:** Sensei appears tired, offers a self-limitation choice, identifies Hanako as their student and checks consent; first choice branches/converges. Hifumi is silently present at an inspector summons, without decision. Sensei/Hifumi remain narrow `PARTIAL_MODEL`.
 
 No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Mine and the Tea Party inspector remain reported/generic role actors.
+
+## V003 C003 E002 character-state delta — regularization and prison visit
+
+- **Azusa:** says she detonated Seia's room to fake death at Seia's direction with Mine designated to hide her, fooling Arius Squad. She says Saori gave the order and she did not know Seia remained asleep; no bomb-effect audit. Sakurako now declares Azusa's papers official and her formally Trinity's student. `UNMODELED`.
+- **Seia/Mine:** represented Seia offers wisdom without guarantee in Azusa's recounting, even while disagreeing with paradise-proof thinking. Mine's participation remains Azusa/Sakurako report; Seia's wounds healed but unconsciousness unexplained. Seia `UNMODELED`; Mine mention-only.
+- **Sakurako:** asserts institutional guarantee/regularization for Azusa and acknowledges Arius unresolved. Formal voice here is secure, unlike C002 E018's declaration attribution. `UNMODELED`.
+- **Nagisa/Hifumi:** in Hanako's Hifumi-sourced recollection, Nagisa apologizes for suspecting Hifumi and Hifumi asks her not to continue apologizing; Nagisa later directly visits imprisoned Mika. Hifumi `PARTIAL_MODEL`, Nagisa `UNMODELED`.
+- **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

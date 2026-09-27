@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001; BA:main:003:003:002 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–002; BA:main:003:003:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1300,3 +1300,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Sakurako's `遺体`/`ヘイローが破壊された` are explicitly described as Mine's **fake information**, not a confirmed fatal outcome. `傷は癒えた` but `まだ目覚めていません` is a later report, not proof Seia was awake during E020. Sakurako's `犯人` Mika distinguishes mastermind from Hanako's apparent `実行犯` Azusa without a complete forensic chain.
 - Scene 2 `choice:001` has two alternatives and identical Sakurako `u:0003/0004` convergence; choices 002–006 are singleton. Sensei `u:0023/0030/0032` are `心の声` and cannot license mind-reading when Marie lines follow. `u:0054-0057` Hanako/Marie tags misalign with Sakurako's “another request” context; preserve exact speaker uncertainty.
 - Hanako's nude-attendance/veil “rule” is comic fabrication; Sakurako's `違いますよ` and `そういう約束でしょう` reject it. The real request is future assistance as Sisterhood eases `無干渉主義`, with no concrete mandate yet. The E002 title card is not its content.
+
+## V003 C003 E002 delta — execution versus mastermind, apology versus echo
+
+- Azusa `セイアはこう言った` frames `u:0001-0005` as her Seia paraphrase; the ensuing Seia lines are embedded past counsel. `私は君の考えには首肯しない` and `知恵を貸そう` coexist: assistance is not endorsement, and `何も保証できない` rejects guaranteed outcome.
+- `セイアが死んだと偽装`, `部屋を爆破して逃げた` and Squad believing success are Azusa's operational report. Sakurako `書類は…正式`/`正式にトリニティの生徒` is a present institutional declaration, not merely Seia's C002 `きっと` forecast.
+- `u:0023-0024` carry Azusa tags yet refer to `アズサちゃん` in protective third person; `u:0026` carries Hanako tag but addresses “Hanako, Hifumi” as if Azusa. `u:0027` italic Azusa identifies Saori as actual order-giver. Exact speaker mapping at the inversion cannot be settled by labels alone.
+- Nagisa's direct apology in a Hifumi-sourced retrospective explicitly reconsiders the swimsuit-criminal-leader accusation, while Hifumi's `憎んだり…考えたことも` is her relational position, not proof no injury. Italic `？？？` `u:0065` echoes Hanako's E015 planted “friendship game” line and cannot be assigned to Hifumi. Coughing is not medical diagnosis.
+- The two prison figures are directly located in `トリニティ・監獄` in scene 2; their first exchange does not itself establish reconciliation. Four Sensei choices are singleton; `u:0070` is inward, and `scene:002:u:0012` is a next-title card.

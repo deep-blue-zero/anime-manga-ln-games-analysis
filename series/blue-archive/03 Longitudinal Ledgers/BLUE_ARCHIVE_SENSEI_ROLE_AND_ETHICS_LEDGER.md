@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001; BA:main:003:003:002 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–002; BA:main:003:003:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -869,3 +869,7 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 ## V003 C003 E001 delta — post-incident limits and consent
 
 In Sakurako's conference room, Sensei appears tired and may say either they briefly slept or saw a dream; the duplicate reply converges. Sakurako says Sensei has been busy with aftermath even beyond jurisdiction, a report rather than a log of particular acts. Sensei's singleton says they fell short and left much undone, not that every bad outcome was their fault. After Hanako's promise emerges, Sensei explicitly says she is a remedial-club student of theirs and asks if she truly dislikes Sisterhood's second request. Sakurako promises noncoercive, reasonable future assistance rather than forced membership. This is a local consent check, not a completed review of bargaining power or later obligations. Sensei's `心の声` calls to Hanako must not be heard by Marie absent printed speech. The dream-framed Seia/Azusa exchange does not establish Sensei personally witnessed the historical hour. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E002 delta — support without institutional authorship
+
+Sensei gives Hanako a spoken singleton acknowledgment of her effort, reacts to Nagisa's reported Hifumi visit, and later says they need to do something for Nagisa and Mika. These are future intentions, not completed medical/legal/reconciliation actions. Sakurako—not Sensei—announces the official Trinity papers for Azusa after considering her protection of Nagisa and academic pass. Hifumi independently tells Nagisa she feels no hatred; no adult instruction produces that response in the printed scene. Sensei's `u:0070` reaction to Nagisa's cough is inward and does not establish a follow-up visit. The chapter keeps E009's promise to help multiple students alive but does not erase Nagisa's coercive design or Mika's admitted acts. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

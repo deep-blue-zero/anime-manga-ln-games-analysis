@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001; BA:main:003:003:002 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–002; BA:main:003:003:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1054,3 +1054,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Protective false death:** Mine's reported decoy turns “halo destroyed/corpse” into a survival shield, making information withholding ethically instrumental yet potentially trust-damaging; actual safety and Seia awakening remain unsettled.
 - **Care without capture:** Marie's desire to keep Hanako, Sakurako's rejection of coerced recruitment and Sensei's consent check counter the C001/C002 pattern of institutions converting students into instruments. The future help bargain is not free of possible obligation.
 - **Comedy as false policy:** Hanako's nudity/veil performance tests Sisterhood solemnity but is expressly disconfirmed; no actual school-rule change.
+
+## V003 C003 E002 motif / callback delta — a staged ending with real costs
+
+- **Death as protective fiction:** Azusa's account links Seia's fake death to Mine's concealment and Squad misbelief. The ruse bought hidden survival, not waking health; the means included an actual explosion.
+- **Paradise/futility versus conditional help:** Seia rejects Azusa's apparent paradise-proof confidence yet lends wisdom to someone who will struggle despite her catastrophic expectation. The central `それでも` is an action condition, not a guarantee.
+- **Names made official:** Sakurako's declaration converts Azusa's forged-transfer vulnerability into local recognized Trinity student status. It does not solve Arius or prove moral innocence by document alone.
+- **Apology without erasure:** Nagisa names her Hifumi suspicion as wrong, Hifumi refuses hatred, and the “friendship game” echo/cough preserves harm done by Hanako's retaliation. Repair remains asymmetrical and incomplete.
+- **Prison visit as threshold:** Nagisa physically comes to Mika, but the chapter cuts before a reasoned exchange. Contact is new; reconciliation is not.

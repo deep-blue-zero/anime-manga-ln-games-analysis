@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001; BA:main:003:003:002 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–002; BA:main:003:003:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -779,3 +779,7 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 ## V003 C003 E001 institutional delta — postmortem and Sisterhood contract
 
 Sakurako says Seia's room exploded around 3 a.m., Mine first arrived, told Tea Party and then hid Seia under deliberately false destroyed-halo/“corpse” information. She says this guarded against a second attack in a Tea Party system where Mika was the culprit/information holder. The explanation is an informed institutional report, not direct Mine testimony or a reviewed investigative record; the asserted optimality of deception is Sakurako's judgment. Blast wounds are now reportedly healed, but Seia remains asleep for an unknown reason and hidden with Mine. Hanako reports Azusa entered about 2 a.m. and spent the pre-blast hour with Seia; Azusa's own detailed account is absent. Tea Party inspector summons Azusa at the end; no proceeding outcome is shown. Marie says Sisterhood aid was exchanged for Hanako retracting a withdrawal plan, and Hanako now directly says she does not intend withdrawal; no registrar action is printed. Sakurako clarifies an additional open-ended request for Hanako's future help as Sisterhood shifts from nonintervention toward politics, promising no forced recruitment/unreasonable demand. Hanako's naked-attendance rule is explicitly denied, not policy. No direct Nagisa exam/treaty resolution.
+
+## V003 C003 E002 institutional delta — Azusa formally recognized
+
+In the Tea Party inspector's inquiry, Azusa says Seia proposed a false-death deception and Mine as protector, then Azusa exploded the room and fled so Arius Squad would accept mission success. E001 Sakurako's concealment report supports the broad mechanism, but no case file/blast medical record appears. Azusa says Saori, not an openly disclosed Mika, gave her the order. Sakurako explicitly offers Sisterhood guarantee, says she will make Azusa's papers formal and then declares **Azusa now officially a Trinity student**. This is the episode's institutional status finding, not merely the C002 epilogue forecast; document itself and the full basis of authority remain uninspected, and Sakurako says Arius remains unresolved. Nagisa appears in Hifumi's reported past meeting and apologizes for suspicion, but no exam-sanction review is narrated. The second scene directly establishes Mika in Trinity prison with Nagisa visiting; legal process and sentence unshown. No treaty signing or Seia awakening.

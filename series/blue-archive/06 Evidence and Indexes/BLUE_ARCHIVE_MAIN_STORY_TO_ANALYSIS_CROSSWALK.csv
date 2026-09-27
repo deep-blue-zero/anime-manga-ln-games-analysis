@@ -124,7 +124,7 @@ canonical_order,story_id,scope,arc_jp,title_jp,scene_count,source_commit,analysi
 123,BA:main:003:002:019,MAIN_V003_C002_E019,エデン条約編,第19話;第3次特別学力試験,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C002_E019_DEEP_READING.md
 124,BA:main:003:002:020,MAIN_V003_C002_E020,エデン条約編,第20話;エピローグ,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_checkpoint_canonical,BLUE_ARCHIVE_MAIN_V003_C002_E020_DEEP_READING.md
 125,BA:main:003:003:001,MAIN_V003_C003_E001,エデン条約編,第1話;ポストモーテム（１）,3,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E001_DEEP_READING.md
-126,BA:main:003:003:002,MAIN_V003_C003_E002,エデン条約編,第2話;ポストモーテム（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
+126,BA:main:003:003:002,MAIN_V003_C003_E002,エデン条約編,第2話;ポストモーテム（２）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,deep_reading_complete_active_provisional,BLUE_ARCHIVE_MAIN_V003_C003_E002_DEEP_READING.md
 127,BA:main:003:003:003,MAIN_V003_C003_E003,エデン条約編,第3話;ポストモーテム（３）,1,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 128,BA:main:003:003:004,MAIN_V003_C003_E004,エデン条約編,第4話;それから,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,
 129,BA:main:003:003:005,MAIN_V003_C003_E005,エデン条約編,第5話;エデン条約調印式（１）,2,cbe3fd623c2aab9e781ba0ce0483bc77c68bff86,pending,

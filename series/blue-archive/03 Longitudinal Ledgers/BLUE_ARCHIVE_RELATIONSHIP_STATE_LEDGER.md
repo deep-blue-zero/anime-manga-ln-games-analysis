@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001; BA:main:003:003:002 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–002; BA:main:003:003:003 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -903,3 +903,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **SENSEI ↔ HANAKO:** Sensei claims her as a student and asks whether she dislikes the arrangement; these are spoken singleton choices supporting a consent boundary, not control over Sisterhood.
 - **SEIA ↔ AZUSA/MIKA/MINE:** dream-framed Seia/visitor exchange suggests advice sought amid a lethal assignment; exact act and conversation unresolved. Sakurako says Mine hid Seia from a Tea Party information channel contaminated by Mika, preserving the earlier separation without direct Mine voice.
 - **HIFUMI ↔ AZUSA:** Hifumi is silently present when an inspector calls Azusa; no assistance, testimony or ruling yet.
+
+## V003 C003 E002 relationship delta — apology and a prison threshold
+
+- **AZUSA ↔ SEIA/MINE:** Azusa says Seia advised a fake-death explosion and designated Mine, whom Azusa trusted for concealment. Seia's represented refusal to endorse Azusa's ideas coexists with offered wisdom; Seia's continued sleep remains a cost and no direct present reply appears.
+- **SAKURAKO/SISTERHOOD ↔ AZUSA:** Sakurako publicly guarantees/regularizes Azusa's Trinity papers, naming her a formal student; this is an institutional protective act, not a personal fully observed bond.
+- **NAGISA ↔ HIFUMI:** in a Hifumi-sourced retrospective Nagisa apologizes for suspicion, and Hifumi says she does not hate her. Nagisa's self-comparison and an italic “friendship game” echo show how the injured relation cannot be called fully reset.
+- **NAGISA ↔ HANAKO/SENSEI:** Hanako says Nagisa apologized to her; Sensei wishes to help, neither line proving broader restoration. Hanako doubts a single Gehenna-hatred explanation for Mika.
+- **NAGISA ↔ MIKA:** direct Trinity-prison visit begins; Mika is surprised Nagisa came, Nagisa asks about conditions. No forgiveness, confession expansion or release is printed.
