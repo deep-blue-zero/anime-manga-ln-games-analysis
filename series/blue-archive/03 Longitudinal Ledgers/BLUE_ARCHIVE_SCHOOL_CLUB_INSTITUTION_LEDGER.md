@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–014; BA:main:004:001:015 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–015; BA:main:004:001:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1047,3 +1047,7 @@ An unnamed student vendor says Kaiser Construction may demolish local shops for 
 ## V004 C001 E014 institutional delta — Black Market arms channel and stockout claim
 
 Moe identifies Kaiser Industry as a Black Market arms merchant and calls a salesman who recognizes her as a former SRT supply VVIP and mentions prior missiles/cluster bombs. Her claim that past bombs were personally funded is unaudited, as is squad authority to sell damaged ordnance. The salesman says special used weapons could have buyers, but reports all new stock sold to an anonymous customer and cancels the barter; confidentiality prevents a name. Moe explicitly requests fuel-air bombs and white-phosphorus rounds, raising grave safety/ethical stakes without an operational transfer. A used-auction message arrives, with no sender or terms printed. Keep this channel distinct from Kaiser Construction's reported redevelopment project.
+
+## V004 C001 E015 institutional delta — anonymous cash and claimed sweep
+
+RABBIT holds a large cash payment after an off-page rusty-missile sale to a masked buyer, but the buyer, notes and transfer paperwork are not audited. Decartes says Valkyrie Public Security scattered 所確幸 with unfamiliar weapons and is clearing the area. Saki estimates HEIAP from a mark, admits incomplete certainty and offers Kaiser Industry as a possible source; Miyu speculates Valkyrie purchased E014's entire stock despite Kirino's earlier budget account. At least one Public Security student directly reaches the park at the end. No identified buyer, procurement file, eviction order, arrest or clash outcome is printed.

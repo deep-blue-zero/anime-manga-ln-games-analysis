@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–014; BA:main:004:001:015 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–015; BA:main:004:001:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1717,3 +1717,10 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across
 - **Moe:** proposes trading damaged SRT missiles/bombs for functional arms, calls familiar Kaiser Industry salesman, admits an unusable account, requests fuel-air bombs/white-phosphorus rounds, then pivots to auctions after the merchant says stock is gone. A message arrives, but no exchange or sender is printed.
 - **Miyako / Miyu / Saki:** Miyako rejects bank robbery as contrary to public protection and questions past bomb spending; Miyu asks if the VVIP history might be embezzlement; Saki questions the auction market. These are challenges, not a resolved accounting case.
 - **Sensei / anonymous salesman:** Sensei's bank-robbery guess is rejected, and they question Moe's rust minimization/private bombs. The salesman recognizes Moe and reports all inventory bought by an anonymous customer, then cancels the proposed barter. Buyer identity and prior funding remain unknown.
+
+## V004 C001 E015 character-state delta — sale aftermath and Public Security arrival
+
+- **RABBIT:** reacts to a large all-cash purchase of rusty missiles by a masked buyer; Saki suspects possible counterfeit notes without checking. Moe wants ordnance, Saki argues for fuel/cooking and limits of firepower, and Miyako estimates partial fighting recovery without an itemized inventory.
+- **Decartes:** seeks RABBIT's help and reports 所確幸 scattered by an unusually armed Public Security raid. The specific prior raid and sweep breadth are self-report; at the cut, a Public Security student does directly arrive.
+- **Saki / Miyu / Sensei:** Saki gives an explicitly incomplete HEIAP estimate and Kaiser Industry possibility; Miyu infers Valkyrie may have bought the stock but doubts its budget. Sensei's Kanna guess is paired/conditional, and Kirino budget lines appear as a likely recall splice rather than a confirmed park visit.
+- **Unnamed actors:** the masked missile buyer, E014's anonymous stock buyer, metaphor speaker and arriving Public Security student are not securely identified with each other or Kanna.

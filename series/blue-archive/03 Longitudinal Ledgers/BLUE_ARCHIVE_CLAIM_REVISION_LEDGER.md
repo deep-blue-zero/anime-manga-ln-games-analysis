@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–014; BA:main:004:001:015 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–015; BA:main:004:001:016 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V004_C001_E014 active provisional; C001 E015 unopened
+current_sequential_boundary: MAIN_V004_C001_E015 active provisional; C001 E016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2429,3 +2429,7 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 ## V004 C001 E014 claim delta — failed barter, unknown arms buyer
 
 **BA-C001/C016 — QUALIFY:** Sensei's bank-robbery prompt is rejected and brief objections do not amount to supervision of Moe's high-hazard arms proposal. **BA-C008 — STRENGTHEN method:** Moe's account of personal past purchases, Miyako/Miyu's accounting suspicion, the salesman's VVIP/anonymous-stock report and the actual cancelled transaction are distinct. No completed barter, shipment or buyer identity follows; a new auction message is only an unread lead. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No subject/readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E015 unopened.
+
+## V004 C001 E015 claim delta — cash sale, raid report and direct arrival
+
+**BA-C001/C016 — QUALIFY:** Sensei's Kanna naming is a choice alternative, and no new protective result follows before the cut. **BA-C008 — STRENGTHEN method:** the cash-sale aftermath is directly spoken/seen, but no transaction scene or banknote test; Decartes reports an earlier Public Security raid, Saki gives an incomplete HEIAP/Kaiser inference, Miyu hypothesizes Valkyrie bought stock, and an unnamed Public Security student directly arrives. Do not collapse these into a proven purchaser, weapon source or past shooter. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No named subject/readiness promotion: **21 partial / 76 unmodeled across 97**. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill **DEFER**. E016 unopened.

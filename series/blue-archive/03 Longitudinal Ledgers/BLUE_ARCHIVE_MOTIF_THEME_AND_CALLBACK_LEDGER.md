@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–014; BA:main:004:001:015 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–015; BA:main:004:001:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1489,3 +1489,7 @@ A seller's inari moves from a customerless commercial street to a hungry park ca
 ## V004 C001 E014 motif / callback delta — repair by commodifying damage
 
 E011's ruined equipment becomes Moe's hoped exchange value: damaged missiles/bombs might buy fresh arms, recasting storm loss as market opportunity. The proposal returns to Kaiser-branded commerce after E013's redevelopment rumor but names Kaiser Industry rather than Kaiser Construction; corporate branding alone does not make the two transactions one plan. The stockout-by-anonymous-buyer report opens a threat-shaped gap without identifying an adversary. Public-safety identity restrains bank robbery in speech even as Moe asks for high-hazard munitions, creating an ethical tension the scene does not resolve.
+
+## V004 C001 E015 motif / callback delta — money, firepower and the approaching state
+
+A large anonymous cash payment seems to solve the storm-loss supply problem, but the masked buyer and untested notes turn abundance into uncertainty. Saki's fuel/cooking/helicopter priority and Moe's explosive preference divide sustainment from firepower; Miyako's momentary confidence is undercut by Decartes's plea. E014's anonymous stockout, a rare HEIAP clue and E009's budget constraint invite an explanatory conspiracy, yet the text supplies only layered testimony and inference. Public Security's actual arrival transforms an anticipated eviction force into present contact without adjudicating its prior conduct.

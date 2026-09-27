@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–014; BA:main:004:001:015 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–015; BA:main:004:001:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1745,3 +1745,9 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 
 - `scene:001:u:0019` is Moe-tagged yet asks whether Moe can get damaged weapons bought; keep source attribution suspect. `u:0067` is Miyu-tagged with `お前` for Moe; unusual register is not reassigned without independent evidence.
 - `私用の爆弾` / `自費` are Moe's defensive self-report, not a funding audit. `気化爆弾` and `白リン弾` are explicit requested munitions, not generic benign supplies. Salesman `匿名のお客様` withholds identity, and Moe's war question is speculation. Four Sensei choice groups are singleton. No performed voice admitted.
+
+## V004 C001 E015 voice delta — quoted memory and attribution seam
+
+- Decartes's `狂犬` points toward a recognizable reputation but is not a direct name; Sensei's paired `choice:001` can say `カンナ` but remains a guess. Saki qualifies HEIAP identification with `完全にではない`.
+- `scene:001:u:0032` is Decartes-tagged `その弾痕を見せろ` immediately before Saki's technical reading; preserve the label and quarantine exact addressee/speaker. Kirino-tagged `u:0042-0043` repeats E009 budget lines within a park scene and is followed by Sensei's thinking pause, so a new Kirino presence is not established.
+- The italic `？？？` wildlife-herd metaphor and subsequent Public Security student are adjacent, not securely one named individual. No performed voice admitted.

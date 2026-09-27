@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–014; BA:main:004:001:015 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–015; BA:main:004:001:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1331,3 +1331,7 @@ Sensei withholds RABBIT details from an unnamed seller even when offered extra f
 ## V004 C001 E014 relationship delta — supply initiative under scrutiny
 
 Moe takes supply initiative and displays a prior commercial relation with a Kaiser Industry salesman. Saki initially doubts then briefly praises her plan; Miyako and Miyu question old purchasing/accounting after the VVIP disclosure. Moe deflects rather than proving a funding source. Sensei questions rust minimization and private bombs but does not stop the proposal. The failed call leaves the group still dependent on a hoped auction route, with no restored armaments or resolved intra-squad trust.
+
+## V004 C001 E015 relationship delta — Decartes seeks refuge among former rivals
+
+RABBIT's former captor/rival Decartes appeals for help after claiming 所確幸 scattered; Miyako initially invokes nonintervention in private civil disputes and Moe taunts the group name, so no alliance forms. Decartes warns they share the same Public Security threat, which becomes locally credible when an officer appears. Saki's practical resource priority challenges Moe's maximized-firepower impulse. Sensei's attentive pause and conditional Kanna guess do not create a verified understanding of the unseen raid or a completed defense pact.

@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–014; BA:main:004:001:015 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001–015; BA:main:004:001:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1137,3 +1137,7 @@ Sensei buys inari in 子ウサギタウン and buys another, declines to inform 
 ## V004 C001 E014 delta — limited resistance to hazardous barter
 
 Sensei guesses bank robbery as Moe's funding plan and receives immediate SRT rejection (`scene:001:choice:001;u:0006-0010`). Later they question Moe's “private bombs” and understated rust (`choice:003-004`), while Moe seeks hazardous in-kind arms and the salesman refuses due to reported stockout. Sensei neither authorizes nor visibly prevents the plan; no transaction occurs. The school-safety claim and desire for fuel-air/white-phosphorus ordnance warrant separate ethical appraisal. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E015 unopened.
+
+## V004 C001 E015 delta — hypothesis without an enacted rescue
+
+Sensei is present when the squad examines a masked buyer's large cash payment and Decartes seeks help. Their paired first choice either asks who the “mad dog” is or guesses Kanna; the text does not certify that inference (`scene:001:choice:001`). They ask how Saki identifies a bullet mark and later say they were thinking while Kirino budget words are spliced into the park scene (`choice:002-003;u:0032-0046`). A Public Security student arrives, but Sensei has no printed intervention or resolution before the cut. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E016 unopened.
