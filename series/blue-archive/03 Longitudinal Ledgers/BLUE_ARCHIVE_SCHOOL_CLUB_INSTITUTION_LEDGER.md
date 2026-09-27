@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–015; BA:main:003:003:016 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–016; BA:main:003:003:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -835,3 +835,7 @@ Squad treats a howling, “failed” ancient-doctrine product as the awaited tac
 ## V003 C003 E015 institutional delta — Seia's treaty verdict undercuts itself
 
 Seia describes the Eden Treaty as a mutual promise to stop hatred that has become distorted under Trinity–Gehenna–Arius resentment, then treats that as proof peace was impossible. This is a participant's political/moral verdict, not an inspected signed document, completed legal outcome or neutral proof that future repair cannot occur. Her own admission that she has not looked beyond the tragic point limits the claim to an uncompleted forecast. She invokes the federal president's Eden name as bitter irony; presidential intent is not observed. No institution acts or changes status in the dream-frame unit. E014's weapon, waterway and plush-device outcomes remain unreported.
+
+## V003 C003 E016 institutional delta — rescue amid a Pater power grab
+
+Seia now reports the E014 device detonated: Saori's halo intact, Atsuko shields her and lives, but is hurt; Justina manifestation weakens. Maestro senses reduced royal blood and plans around an opaque prior preparation, not a verifiable technical repair. Seia says Trinity assault still unachieved. Gehenna Emergency Medicine directly organizes rescues; a member reports Makoto/delegates rescued from a lake airship, Hina badly hurt/unconscious and Ako coordinating Prefects. Scene 2 shows Hina missing from her infirmary bed. Sisterhood officials report Tsurugi badly hurt, Hasumi/Sakurako critically ill, Nagisa still sought, Rescue Knights' room full and a Justice–Sister clash; no final census or ceasefire. Pater prepares war text, orders Hanako seized, claims Filius/Sanctus detention and intends Mika-backed Gehenna war. Its Sisterhood–Arius collusion theory uses claimed launch-site jurisdiction, not perpetrator evidence. Mika is approached outside prison/declared free but declines the war order; no declaration, lawful host validation or office restoration. Justice member explicitly says Koharu may not yet return formally, even as she later protects Mika. Sensei awakens at Rescue Knights care, with Hanae warning against movement; no discharge.

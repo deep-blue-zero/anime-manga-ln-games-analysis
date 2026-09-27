@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–015; BA:main:003:003:016 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–016; BA:main:003:003:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1009,3 +1009,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **SENSEI ↔ SEIA:** in the dream frame, Sensei asks whether Seia actually saw the sequel, offers an interpretation that fear kept her in dreams and says they must return to students. Seia resists, warns of an unhealed body, then chooses to observe the remainder. The exchange shows influence without proving fear caused coma, either person physically woke, or future rescue succeeded.
 - **SEIA ↔ AZUSA:** Seia says she warned Azusa repeatedly and now reads hope as failed. Azusa is not present to confirm the exact warnings or accept that verdict; E014's outcome remains untouched.
 - **SENSEI ↔ STUDENTS:** Sensei inwardly prioritizes help and promises to return, an intention rather than direct contact with Hifumi, Azusa or other students in this unit.
+
+## V003 C003 E016 relationship delta — protection and refused instrumentality
+
+- **AZUSA ↔ SAORI/ATSUKO:** Seia says Atsuko shields Saori from Azusa's detonation; both survive injured. Saori now vows retaliation. Azusa recognizes their survival and remains intent on stopping Saori; no final reconciliation or death.
+- **MIKA ↔ PATER FACTION:** militants release/approach Mika expecting her to command war in their name; she refuses while admitting personal dislike. They turn hostile. The relation is not support or lawful restoration of her Tea Party authority.
+- **KOHARU ↔ MIKA/JUSTICE:** a Justice member says Koharu may not yet return formally but sends her toward prison; she intervenes against group assault on Mika. Moral choice is direct, official reinstatement absent.
+- **HANAKO ↔ PATER/SISTERHOOD:** Hanako challenges the faction's collusion theory and war procedure, and they order her seized; custody unshown. Marie learns Sakurako is gravely ill by report, no contact.
+- **SENSEI ↔ SERINA/HANAE/SEIA:** Serina/Hanae address awakened Sensei and Hanae opposes movement for medical reasons. Seia's questions accompany the crosscut, without proof of physical contact or waking recovery for her.

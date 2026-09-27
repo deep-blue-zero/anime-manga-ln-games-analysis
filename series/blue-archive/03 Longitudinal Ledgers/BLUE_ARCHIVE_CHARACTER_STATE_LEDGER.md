@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–015; BA:main:003:003:016 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–016; BA:main:003:003:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E016 character-state delta — survival, factional refusal and waking
+
+- **Saori/Atsuko/Azusa:** E014's bomb detonates; Seia reports Saori badly injured but halo intact and Atsuko shielded her. Atsuko nods and Seia says she is alive. Saori vows revenge. Azusa recognizes both survive, still sees Justina and seeks another way to stop Saori; no second action yet. All `UNMODELED`.
+- **Maestro:** senses weaker “royal blood,” worries about experiment and references an unidentified woman's preparation; no secure protector/technical identification. `UNMODELED`.
+- **Sena/Hina/Ako:** Sena directs mass rescue and receives a member's report that Ako coordinates Prefects and Hina was badly hurt/unconscious. Ako then discovers Hina absent from the infirmary; destination and condition unknown. Sena `UNMODELED`; Hina/Ako `PARTIAL_MODEL`.
+- **Hanako/Marie/Mika/Koharu:** Hanako tries to block a Pater war declaration and is ordered seized; no completed custody shown. Marie hears Sakurako critically ill by report. Mika refuses militants seeking her war order without retracting personal Gehenna hatred; they turn hostile, and Koharu intervenes against group bullying despite a Justice member saying she cannot formally return yet. All `UNMODELED`.
+- **Sensei/Serina/Hanae/Seia:** Sensei physically opens eyes/sits up; Serina confirms awakening and Hanae warns against moving. Seia speaks in crosscut and is not shown bodily awake. Sensei `PARTIAL_MODEL`; others `UNMODELED`.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E015 character-state delta — Seia revises her viewing boundary
 

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–015; BA:main:003:003:016 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–016; BA:main:003:003:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1412,3 +1412,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Seia moves from `未来予知で判明` to `七つの古則から…導かれていた`, combining asserted foresight with philosophical deduction; neither is an independently inspected forecast record. Her `治ってすらいない` is a participant medical claim.
 - Sensei `心の声` at `u:0045-0046`/`u:0054` declares return intent. `水着じゃなくて下着` at `u:0050` seems answered by Seia, an inward/direct-response representation anomaly; do not derive a new metaphysical principle or mind-reading capability.
 - Seia `最後まで確認しなければ`/`見届ける` changes her willingness to observe, not the already observed physical world. `u:0069` is E016 title only.
+
+## V003 C003 E016 delta — reported rescue, modal collusion and voice inversions
+
+- Seia `サオリは無事`/`ヘイローは壊れていない` and `アツコは死んでいない` assert survival in a witnessed aftermath; `私だったら…壊れていた` and `誰かによって守られているよう` are counterfactual/inferential, not identified mechanism.
+- Maestro `ロイヤルブラッド` weakening and `彼女が既に備え` leave female referent/protective action unassigned. Atsuko's nod gives direct responsiveness but not a medical prognosis.
+- Gehenna/Sisterhood members' `とのこと` and `情報によると` mark rescue and leader-health reports; Hina's later empty infirmary bed is a separate observed change, not a recovered-health certificate.
+- Pater `アリウスとシスターフッドが…線は？` is a conspiratorial question, whereas `既に身柄を拘束` is its own detention claim. Mika's `私はゲヘナが嫌い` alongside `今の私は…そういう気分じゃない` distinguishes retained personal dislike from refusal to supply a collective war order.
+- Scene 3 `u:0065-0071` command/answer labels around return to the cathedral are suspect. `u:0110` Koharu-tagged “who are you?” follows her own interruption and likely belongs to another speaker; quarantine exact voice. Sensei `目を開ける`/`身体を起こす` is inward but corroborated by Serina's direct `目が覚めた`. One singleton Sensei choice; `u:0124` is E017 title only.

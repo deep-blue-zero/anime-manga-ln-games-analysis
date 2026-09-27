@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–015; BA:main:003:003:016 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–016; BA:main:003:003:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1167,3 +1167,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Fear of witnessing:** Seia initially treats later suffering as reason to avert her gaze, then accepts the duty to see through the end. This is an ethical/methodological revision, not verified body recovery.
 - **Swimsuit/underwear rupture:** an abrupt inward gag apparently receives Seia's reply; its comic register challenges solemn fatalism, but the representation anomaly prevents treating it as a rigorous argument.
 - **Unfinished student story:** Azusa's E014 apology and the waterway device remain unresolved while the dream conversation disputes whether the story is already over.
+
+## V003 C003 E016 motif / callback delta — fragments resist a single ending
+
+- **The bomb's incomplete victory:** E014's plush device does detonate, but Saori/Atsuko survive. The gift carries both true affection and lethal tactic; neither cancels the other or solves the conflict.
+- **Wounded institutions:** triage and rescue proceed while leaders are hurt/missing and local factions continue fighting; emergency care is not equivalent to political peace.
+- **Borrowed hatred refused:** Pater wants Mika to lend an official voice to its own war appetite. She retains anti-Gehenna feeling but refuses the command, exposing the gap between emotion and delegated violence.
+- **Koharu's role without title:** still barred from formal Justice return, she nevertheless intervenes against a crowd attacking Mika; action precedes authorization.
+- **The adult opens their eyes:** Sensei's E015 return intention gains a bodily foothold, yet Hanae's warning and no depicted departure keep rescue incomplete. Seia's “ending” again fails to contain the next observed fragment.

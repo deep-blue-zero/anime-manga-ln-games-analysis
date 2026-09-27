@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–015; BA:main:003:003:016 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–016; BA:main:003:003:017 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -925,3 +925,7 @@ Sensei neither speaks nor receives a medical update. Azusa's unsanctioned trap a
 ## V003 C003 E015 delta — return as obligation, not completed rescue
 
 In the dream-framed Seia exchange, Sensei asks whether her catastrophic “ending” omits an epilogue and, across five choice groups, prioritizes returning to help students over winning a paradise-proof debate. The choice that says fear kept Seia in dreams is a proposed interpretation, not medical causation. Seia says Sensei's body has not healed, consistent with serious injury but not an examined chart. Sensei's inward goodbye and Seia's “gone” mark a frame departure; no waking consciousness, movement to students, or intervention is shown yet. Adult responsibility here is a future-directed commitment under risk, not already achieved rescue or proof trust alone changes events. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E016 delta — waking amid distributed care
+
+Sensei opens eyes and sits up, directly recognized by Serina, while Hanae warns not to move. This is observed waking after E012 unconsciousness, not full healing or permission to leave. Their earlier dream-frame resolve to help students becomes bodily possible but remains unexecuted; the singleton choice affirms students' right to remain students and the inward final line intends to face accumulated hate/distrust. Simultaneously Sena's staff rescues wounded, Hanako contests war and Koharu intervenes for Mika without Sensei directing them. Adult answerability coexists with student agency and medical constraints, not a sole-savior completion. Seia's crosscut speech does not prove her waking or direct contact. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
