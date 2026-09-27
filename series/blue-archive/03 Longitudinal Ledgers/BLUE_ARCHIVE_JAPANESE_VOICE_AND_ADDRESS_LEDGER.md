@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:011; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:012 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:012; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1226,3 +1226,10 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Akari's `快く貸して` and `美しい友情` claim Fuuka voluntarily loaned the car; Fuuka's gagged protests and Hanako's bound-in-trunk observation refute assent. Fuuka's later `もう車は良いから降ろして` is intelligible direct refusal, which Haruna misrenders as `応援`. Do not promote ironic coercion glosses into relational facts.
 - Nagisa's `録画映像` explicitly denies live hearing at `u:0106`. The `u:0107` Hanako tag sounds like continuation of the recorded instruction, so its precise voice is quarantined. `引き続きモニタリング` is Nagisa's assertion, not a printed surveillance feed. `お気を付けて（・   ・   ・   ・   ・   ・   ・   ・   ・）` carries menace/spacing without naming a blast source.
 - Narrator `試験用紙紛失（不合格）` at `u:0123-0126`, then `全員不合格` at `u:0132`, is official-result language about lost papers, not numerical marks. `u:0133` is next-title only. Nine Sensei choices are singleton; choice `006` is parenthetical inward restraint rather than a spoken query.
+
+## V003 C002 E012 delta — exhausted self-description and unstable teasing labels
+
+- Scene 1 `知恵を寄せ合う` becomes Hanako's sexualized `弱くて敏感な部分` provocation, which Koharu rejects in `下ネタはダメ`/`死刑` hyperbole. `u:0010-0015` invert Hanako/Koharu labels, address and help pleas; do not assign a precise physical act/target or build a stable sexual preference from these lines. Azusa's `制圧術` is a martial reading of the gag, not tested instruction.
+- Koharu's `私、バカなのに` in scene 2 follows E011's lost-paper failure and acute strain; it is not a narrator intelligence judgment. Her `トリニティの裏切り者` line directly establishes term knowledge, but not the exact source or every dossier detail. Hifumi's `一週間後` is approximate, while narrator `あと6日` fixes the countdown.
+- Sensei `scene:002:u:0014` is `心の声` apology about Nagisa words. Hanako `そのお話を聞いた限り` responds to some heard account, not necessarily that inward line. Her `あの猫ちゃん` is a situated insult/figure, not evidence of a literal cat identity or an executed attack.
+- The failed efforts to meet Nagisa/contact Mika at scene 1 `u:0022-0023` do not voice either absent actor. One singleton Sensei choice in scene 1; `scene:002:u:0035` is a title card.

@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:011; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:012 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:012; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1022,3 +1022,14 @@ No new named subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` 
 - **Sensei:** reunites with Hifumi/Koharu, acknowledges safety and supports beginning the exam. No successful E009 pass promise or evidence of a live conversation with the recording.
 
 No new named subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; Prefect/Hot Spring generic members excluded. No standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C002 E012 character-state delta — exhausted final-chance group
+
+- **Koharu:** rejects further strain, explicitly names the “Trinity traitor” suspicion and fears expulsion will bar Justice Realization return. Calls herself stupid while crying after real effort and E011 paper-loss failure; this is situated distress, not measured intelligence. E008 third mock 61/pass remains prior evidence. `UNMODELED`.
+- **Hifumi:** reminds the club that the third official special exam in about a week is the last chance, urges shared problem-solving, later searches for a method and proposes rest. She has no found remedy and doubts 90-point attainment. `PARTIAL_MODEL` unchanged.
+- **Hanako:** initially sexualizes “pooling ideas” amid label-inverted teasing, then appreciates Sensei's student-side stance by reference to an off-page account. Back at camp, she treats further Nagisa obstruction as a concern and gently but firmly tells overworked Hifumi to rest, offering help to both Hifumi and Koharu. Her E003 hidden personal motive remains withheld; `UNMODELED`.
+- **Azusa:** returns to camp after expecting club farewell, then is quiet through Koharu's traitor-language distress. Her scene-1 martial interpretation of the label-corrupted gag does not establish a tested technique or hidden-plan disclosure. `UNMODELED`.
+- **Sensei:** gives only a continued-effort choice, inwardly regrets what they said to Nagisa, and is said by Hanako to have acted for the students. The inward line is not shown audible; no successful appeal/plan or official third result. `PARTIAL_MODEL`.
+- **Nagisa/Mika:** narrator says attempts to find/communicate with each fail; this does not establish deliberate hiding, guilt or permanent disappearance. No direct new dialogue.
+
+No subject/readiness promotion: **21 `PARTIAL_MODEL` / 45 `UNMODELED` across 66**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

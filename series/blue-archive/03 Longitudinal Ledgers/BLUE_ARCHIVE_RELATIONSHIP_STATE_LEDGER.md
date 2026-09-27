@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:011; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:012 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:012; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -831,3 +831,10 @@ The V003 C001 checkpoint is the canonical relationship synthesis. Readiness beco
 - **FUUKA ↔ GOURMET RESEARCH:** Fuuka is bound/gagged in the car trunk and later explicitly asks to get out. Akari's loan/friendship and Haruna's cheering glosses are false against her protest. No consent repair or release is shown.
 - **REMEDIAL GROUP ↔ EACH OTHER/SENSEI:** chaotic diversion separates Azusa/Hanako from Hifumi/Koharu and Sensei for a time. All reunite at the advertised venue by 2:45, with Sensei expressing relief; later all share the lost-paper failure. Exact routes and enduring post-failure support remain open.
 - **NAGISA ↔ GROUP:** a recorded message delivers instructions and an asserted monitoring claim but is not interactive. No one receives a direct answer from her, and her relationship to the unknown Hot Spring tip is not established.
+
+## V003 C002 E012 relationship delta — shared fear and peer rest
+
+- **KOHARU ↔ CLUB/HASUMI:** Koharu now directly voices the “traitor” suspicion and fears a lost Justice Realization future. Hifumi, Azusa and Hanako respond with concern, not a resolution of her committee status. Her breakdown is not evidence that she rejects their friendship.
+- **HIFUMI ↔ HANAKO:** Hifumi takes responsibility for finding a last-chance method and is visibly exhausted. Hanako offers help with Koharu's study and Hifumi's burden, urging rest. This deepens E003/E008 reciprocal care without disclosing Hanako's own hidden motive.
+- **SENSEI ↔ NAGISA/GROUP:** Sensei inwardly blames their Nagisa words; Hanako says the teacher acted for the students based on an account she heard. The exact account and present dialogue remain unprinted. Attempts to find Nagisa/Mika fail, so no new direct relational settlement with either occurs.
+- **AZUSA ↔ CLUB:** Azusa says a premature farewell turned into a return to camp and stays quiet amid Koharu's anger. Silence cannot establish agreement, guilt or plan change.

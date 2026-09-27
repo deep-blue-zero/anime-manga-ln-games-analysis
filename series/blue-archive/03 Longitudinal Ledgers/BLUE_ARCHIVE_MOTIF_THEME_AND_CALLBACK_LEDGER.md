@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:002:011; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:012 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:012; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -976,3 +976,10 @@ The V003 C001 checkpoint preserves these as chapter-local motifs, not settled fu
 - **The hostile road becomes the classroom:** Gehenna checkpoint, Gourmet escape aid, two-hour pursuit and 2:45 arrival fulfill the E010 spatial-threat setup. Yet arriving before the 3 a.m. start does not protect the test site itself. A ruin with no visible invigilator and shell-borne papers turns school procedure into a war-zone object.
 - **False consent recurs:** E005 gagged Fuuka and E007 relief are followed by E011 bound-in-trunk protest. Akari's loan/friendship and Haruna's cheering claims reprise the same coercive joke; gratitude for Gourmet guidance cannot erase it.
 - **Recorded voice and unknown hand:** Nagisa's recording cannot respond; anonymous Hot Spring workers cite an unknown tip. The E009 “black hand” title does not authorize filling that missing link with Nagisa, even though she benefits from/participates in the surrounding exam design.
+
+## V003 C002 E012 motif / callback delta — back to the camp, not back to innocence
+
+- **Return to origin:** E010's imagined club graduation and E011's paper-loss collapse send the four back to the camp as a shared problem-solving space. Azusa notes the false farewell, but the group now knows more of the expulsion threat than it did at camp's start.
+- **Third chance as a narrowing horizon:** Hifumi's approximate “one week” and narrator's six days place the final special exam close. Two failed official sittings have not produced an immediate expulsion, but they leave no shown safety margin or appeal.
+- **Effort without guaranteed reward:** Koharu's “I worked hard” and self-denigration collide with E008's 61 mock pass and E011's non-academic paper-loss failure. The motif tests whether the institution recognizes effort rather than proving incapacity.
+- **Care interrupts frantic solutionism:** Hifumi seeks a plan and resists rest; Hanako offers help and insists on sleeping first. A potentially exploitative teasing register in scene 1 gives way to bounded peer-care in scene 2, without curing the structural threat.

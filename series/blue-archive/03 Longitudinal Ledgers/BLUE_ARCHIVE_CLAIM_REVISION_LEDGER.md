@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:002:011; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:012 unopened
+source_boundary: Sequential main-story reading through BA:main:003:002:012; MAIN_V003_C001 remains latest canonical checkpoint; BA:main:003:002:013 unopened
 checkpoint_boundary: MAIN_V003_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C002_E011 active provisional; E012 unopened
+current_sequential_boundary: MAIN_V003_C002_E012 active provisional; E013 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1823,3 +1823,12 @@ No new durable claim ID, subject, standalone model, frozen prediction or side-so
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; tip attribution, document authority, paper recovery/appeal, third exam and sanction remain OPEN.
+
+## V003 C002 E012 claim delta — exhaustion and six-day last chance
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei inwardly regrets their Nagisa confrontation, and Hanako thanks the teacher after hearing an off-page account; the only direct current choice promises continued effort. No appeal, lawful countermeasure or achieved pass is shown.
+- **BA-C002–C004/C007/C010–C011/C021 — STRENGTHEN:** Hifumi names the third official special exam in about a week the last chance; narrator fixes six days remaining. Koharu explicitly knows the “Trinity traitor” label and fears losing Justice Realization, extending E010's disclosed-risk boundary without printing the exact prior explanation. Nagisa and Mika cannot be found/contacted in this episode, so no direct institutional review occurs. Hanako's “all possible obstruction” and fear of more Nagisa moves are actor appraisals, not proof Nagisa tipped E011's developers.
+- **BA-C008 — STRENGTHEN:** E011 lost papers cannot be read as Koharu's stupidity; E012's self-deprecation is acute distress. Scene-1 sexualized teasing has label/role inversions, Sensei `u:0014` is inward, Hanako's `そのお話を聞いた限り` implies off-page disclosure, and “one week” is approximate against narrator six days.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; third exam, appeal, leader locations and protection method remain OPEN.
