@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint through BA:main:003:004:027; BA:main:004:001:001 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001; BA:main:004:001:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,15 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V004 C001 E001 character-state delta — paperwork and SRT response
+
+- **Rin:** calls Sensei, acknowledges Schale's field reputation, then directly corrects expense/report errors and initially retains GSC responsibility for an SRT protest. After two reported Valkyrie failures, asks Sensei to intervene and defers paperwork. Her authority and pragmatism are direct, SRT closure/force outcomes partly secondhand. `UNMODELED`.
+- **Ayumu:** brings successive reports of SRT park occupation, Security Bureau defeat, Public Security Bureau sniping/trap defeat and media escalation; proposes Schale after Valkyrie failures. The reports are attributed, not field inspection. `UNMODELED`.
+- **Sensei/Arona:** Sensei receives correction, offers help and accepts Rin's request; choice alternatives include comic reactions and must remain separated. Arona predicts hospitality/softens anticipated reprimand, not foreknowledge of crisis. Sensei `PARTIAL_MODEL`; Arona existing `UNMODELED`.
+- **SRT protesters:** a roughly squad-sized group is reported occupying a park over school removal; no individuated member is seen or tracked yet. Valkyrie units' defeat is reported, with no injury count.
+
+Readiness stays **21 `PARTIAL_MODEL` / 66 `UNMODELED` across 87**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). V004 C001 E002 unopened.
 
 ## V003 C004 checkpoint character-state reconciliation
 

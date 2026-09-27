@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint through BA:main:003:004:027; BA:main:004:001:001 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001; BA:main:004:001:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1081,3 +1081,7 @@ Sensei has no new voiced line or choice. Atsuko names Sensei as someone watching
 ## MAIN V003 C004 checkpoint Sensei-role reconciliation
 
 The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md) preserves Sensei's explicit refusal of Beatrice's absolute judge/savior role: the teacher stands beside students, accepts adult responsibility for conditions of child suffering, avoids abandoning a wrongdoer in danger and leaves Saori ownership of her life answer. Students make independent decisions and later rescue Sensei/Mika. The adult card is retrieved, not mechanically audited; adult care does not itself issue a hearing verdict or guarantee Squad's future. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); V004 C001 E001 unopened.
+
+## V004 C001 E001 delta — accountable Schale work and requested help
+
+Rin insists Sensei correct field reports and expenses; administrative accuracy is a genuine part of Schale's adult duty, not trivialized by past rescues. Sensei accepts correction and tentatively offers crisis help, but Rin initially preserves GSC responsibility. Only after successive reported Valkyrie failures does Rin request Schale intervention and defer the paperwork herself; Sensei accepts via choice alternatives. No student contact, protest de-escalation or tactical result is printed. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); V004 C001 E002 unopened.

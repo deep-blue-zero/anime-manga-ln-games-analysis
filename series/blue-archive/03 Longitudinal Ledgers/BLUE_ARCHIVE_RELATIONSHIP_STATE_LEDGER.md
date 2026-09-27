@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint through BA:main:003:004:027; BA:main:004:001:001 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001; BA:main:004:001:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1272,3 +1272,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 ## MAIN V003 C004 checkpoint relationship reconciliation
 
 The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md) fixes the chapter-local relationships: Saori leaves Beatrice's coercive bargain, reunites with Atsuko then voluntarily separates to seek a life answer; Mika refuses to kill Saori, personally forgives Squad and directly reconnects with Seia/Nagisa; Sensei stands with Squad and returns for Mika while students return rescue to Sensei/Mika. Interpersonal repair is meaningful but not the same as Squad's secure home, Saori's rejoining or Mika's school hearing result. V004 C001 E001 unopened.
+
+## V004 C001 E001 relationship delta — Rin delegates after restraint
+
+- **RIN ↔ SENSEI:** she recognizes useful Schale action yet corrects Sensei's paperwork and initially keeps the SRT problem federal. After reported failures she explicitly requests assistance and temporarily takes over the reports. Respect, irritation and division of labor coexist.
+- **AYUMU ↔ RIN/SENSEI:** Ayumu repeatedly escalates new reports and proposes Schale's help; this is advice from an administrative colleague, not authority over the protesting students.
+- **ARONA ↔ SENSEI:** Arona tries to reassure Sensei about Rin's invitation before the correction session; her hospitality forecast is optimistic, not corroborated by Rin's purpose.
+- **SRT GROUP ↔ GSC/VALKYRIE:** their occupation and reported force defeat create an adversarial operational relation, but no student has spoken or been individually identified.

@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C004 checkpoint through BA:main:003:004:027; BA:main:004:001:001 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001; BA:main:004:001:002 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004 checkpoint canonical; V004 C001 E001 unopened
+current_sequential_boundary: MAIN_V004_C001_E001 active provisional; C001 E002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2369,3 +2369,11 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 ## MAIN V003 C004 checkpoint claim reconciliation
 
 The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md) reconciles E001–E027. **BA-C001/C016 — STRENGTHEN/QUALIFY:** bounded teacher care plus reciprocal student rescue, no card-power audit. **BA-C002–C004/C007/C010–C011/C021 — REVISE by domain:** local rite interrupted and Atsuko/Mika found, but hearing, health, livelihood and governance open. **BA-C008 — STRENGTHEN evidence calibration:** actor ritual/halo/mask/bomb claims remain distinct from direct waking and unprinted battle. **BA-C019/C020 — PRESERVE.** No new durable claim ID or standalone model. Readiness **21 partial / 66 unmodeled across 87**, none operational/validated; frozen prediction `NONE` (`NO_DIAGNOSTIC_OPPORTUNITY`); side-source backfill **DEFER**. V004 C001 E001 unopened.
+
+## V004 C001 E001 claim delta — paperwork and delegated federal crisis
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Rin praises Schale's field work but requires accurate documents, then asks Sensei to stop the SRT park occupation only after reported Valkyrie failures. This supports accountable, requested adult assistance rather than independent command over GSC affairs.
+- **BA-C008 — STRENGTHEN method:** SRT closure, squad size, Valkyrie defeats, powerful weapons and Kronos escalation are Ayumu/Rin reports, not inspected orders or battle transcripts; no protester motive is heard.
+- **BA-C002–C004/C007/C010–C011/C021 and BA-C019/C020 — PRESERVE:** no direct test of prior story claims.
+
+No new durable claim ID, tracked subject, model, frozen prediction or side-source admission. Readiness **21 partial / 66 unmodeled across 87**; backfill **DEFER**. V004 C001 E002 unopened.

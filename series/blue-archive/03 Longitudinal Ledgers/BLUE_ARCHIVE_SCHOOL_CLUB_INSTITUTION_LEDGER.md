@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint through BA:main:003:004:027; BA:main:004:001:001 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001; BA:main:004:001:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -991,3 +991,7 @@ Sensei inwardly says to begin Mika's hearing, but no proceedings, judgment or sc
 ## MAIN V003 C004 checkpoint institutional reconciliation
 
 The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md) establishes local Arius rescue and Beatrice's interrupted rite, a student-led Trinity/Sisterhood/Rescue Knight intervention, and Mika's still-future hearing. It does not establish completed Arius government change, formal immunity for Squad, verified bomb/mask technology, final Beatrice custody, legal wage terms or a Trinity readmission verdict. Personal forgiveness and institutional accountability run on separate evidentiary tracks. V004 C001 E001 unopened.
+
+## V004 C001 E001 institutional delta — SRT removal and federal escalation
+
+Rin says GSC requires handwritten official amounts in kanji numerals, proper stamp placement and formal report style; she corrects Schale submissions, though the full rule text is not reproduced. Ayumu reports planned SRT Special Academy removal and a squad-sized park occupation against it. Rin describes SRT as a former elite Special Response Team school under the missing president, but no closure order or student grievance is inspected. Valkyrie Security and then Public Security are reported defeated; Rin calls Schale only after these failures and says Valkyrie will support Sensei. Request is actual; field arrival/support and outcome are future.

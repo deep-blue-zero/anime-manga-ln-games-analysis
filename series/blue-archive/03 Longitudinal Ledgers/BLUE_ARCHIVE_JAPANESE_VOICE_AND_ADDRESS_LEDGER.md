@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint through BA:main:003:004:027; BA:main:004:001:001 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001; BA:main:004:001:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1548,6 +1548,12 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0001-0004` repeats the E010 arrival; `u:0009-0025` repeatedly tags Hiyori across contrasting leader/anxious registers, and `u:0079-0081` inverts navigation/no-signal voices. Group-level content is secure, individual voice mining is not.
 - Mika's `ちょっと痛い目に` versus `いつヘイローを壊せ` (`u:0051`) is her first-person order distinction. `全部` loss/equal-suffering rhetoric remains her escalated perspective. Sensei's `choice:001` two alternatives converge on Mika returning/waiting; `choice:002` explicitly enters the catacombs.
 - Arius `u:0073-0074` duplicates one pursuer call; `撃て` at `u:0110` is an order, not a narrated impact. `u:0111` is E012 title.
+
+## V004 C001 E001 delta — administrative precision and report layers
+
+- The early `통신린` label marks Rin in communication, not a second character or Korean performed-voice sample. Later `リン` is in person. Her correction of `リンちゃん` and formal document style contrasts Sensei's optional playful choices without justifying a global intimacy baseline.
+- `アラビア数字` versus handwritten `漢数字`, displaced `捺印` and cited public-document `第15条`/`第21条3項` are Rin's administrative requirements. The exact regulation text is not reproduced. Paired `choice:002/004/007/009/010` and duplicate Rin/Arona responses are branch representation, not sequential utterances.
+- `SRT` expansion and past `学園でした` are Rin's institutional explanation; `撤去`/`デモ`/`制圧` appear in Ayumu/Rin reports. “Counterterrorism” names Public Security Bureau's specialization, not an adjudicated terrorist status for protesters. `u:0090` is a report of sniping/traps, not an observed combat transcript.
 
 ## V003 C004 checkpoint voice / address reconciliation
 

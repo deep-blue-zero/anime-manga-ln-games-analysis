@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C004 checkpoint through BA:main:003:004:027; BA:main:004:001:001 unopened
+source_boundary: Canonical MAIN_V003_C004 checkpoint plus provisional BA:main:004:001:001; BA:main:004:001:002 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1431,3 +1431,9 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 ## MAIN V003 C004 checkpoint motif reconciliation
 
 The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md) governs the chapter's linked contrasts: Beatrice's sacrificial `Agnus dei`/hate versus Mika's `Kyrie`/personal forgiveness; the “witch” self-story versus Koharu/Seia/Nagisa/Sensei's enacted care; adult omnipotence versus teacher/coalition; flower-in-concrete youth versus Black Market zero-wage precarity. These are textual relationships, not supernatural causal proof, final legal absolution or guaranteed happy ending. V004 C001 E001 unopened.
+
+## V004 C001 E001 motif / callback delta — reports before force
+
+- **Paperwork after heroics:** Rin's numerals/stamp/style corrections return the adult role to traceable administration after the Eden rescue, without undoing field value.
+- **Missing president, widening vacuum:** Rin treats SRT's former elite-school role and repeated federal incidents as post-disappearance governance strain; this is her frame, not a legal abolition record.
+- **Escalation ladder:** Security then Public Security fail by report, while media arrives; the comedy of Sensei escaping paperwork coexists with a serious threat whose opponents have not spoken.
