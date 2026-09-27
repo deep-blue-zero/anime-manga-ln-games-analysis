@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–017; BA:main:003:004:018 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–018; BA:main:003:004:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,16 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E018 character-state delta — original reconciliation and shared second-chance longing
+
+- **Saori:** present injured and self-declares local defeat. Retrospective shows early protective intervention, coercive adult submission, original Azusa-reconciliation plan and Beatrice's later intelligence order; she acknowledges complicity, disavows `vanitas` as truth, asks if happiness is possible and offers Mika retaliation. Total self-blame is her interpretation, not sole-cause proof. `UNMODELED`.
+- **Mika:** early dialogue directly proposes gradual Trinity–Arius reconciliation through an Arius transfer before Seia/coup; later asks for a spy after presumed Seia death. In present, refuses to execute defeated Saori because she too wanted mercy and a second chance. This is local non-execution, not complete institutional repair. `UNMODELED`.
+- **Beatrice:** in retrospective directly orders rejection of reconciliation while retaining Mika for Trinity intelligence and reinforcing hatred. Her manipulation gains a printed backstage instance, without validating all her historical control claims. `UNMODELED`.
+- **Azusa:** absent from present; Saori says originally intended as reconciliation symbol, later assigned Seia attack/spy task. Her untranscribed past reply and present welfare are not inferred. `UNMODELED`.
+- **Sensei:** prior confiscation of Saori's halo bombs is confirmed by Saori to Mika; physically reappears at end by both students' reaction, with return route and inner-line voicing unclear. `PARTIAL_MODEL`.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 64 `UNMODELED` across 85**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C004 E017 character-state delta — split rescue and liminal Color name
 

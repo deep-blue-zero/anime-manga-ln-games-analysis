@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–017; BA:main:003:004:018 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–018; BA:main:003:004:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1548,6 +1548,12 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - `u:0001-0004` repeats the E010 arrival; `u:0009-0025` repeatedly tags Hiyori across contrasting leader/anxious registers, and `u:0079-0081` inverts navigation/no-signal voices. Group-level content is secure, individual voice mining is not.
 - Mika's `ちょっと痛い目に` versus `いつヘイローを壊せ` (`u:0051`) is her first-person order distinction. `全部` loss/equal-suffering rhetoric remains her escalated perspective. Sensei's `choice:001` two alternatives converge on Mika returning/waiting; `choice:002` explicitly enters the catacombs.
 - Arius `u:0073-0074` duplicates one pursuer call; `撃て` at `u:0110` is an order, not a narrated impact. `u:0111` is E012 title.
+
+## V003 C004 E018 delta — temporal montage and “second chance”
+
+- All `u:0001-0247` occupy one scene despite multiple italic time layers; do not read successive fragments as seamless chronology. `u:0103/0119` Saori labels carry Mika-like continuations, and `u:0142-0144` Arius-student labels carry Mika-like Seia-location speech. Quarantine exact speaker assignments while preserving the directly printed first-meeting and Beatrice-command frames.
+- `和解の象徴` (`u:0088/0117/0139`) first names Mika's pre-coup proposal and Saori's desired Azusa role; `スパイ` (`u:0156/0171`) is the later corrupted role. The temporal contrast matters. Beatrice's `一旦断って` / `トリニティの情報を得なさい` (`u:0128-0130`) is a direct command.
+- Saori's `全部、嘘だった` (`u:0190-0191`) is her rejection of taught hatred/vanitas, while `全て、私が原因` (`u:0193`) is self-blame, not objective sole causation. Mika's `二度目のチャンス` and `私にはできない` (`u:0213-0232`) mark direct refusal to fix Saori's fatal ending. Her unfinished `それを使ってくれていたら` (`u:0237`) cannot complete a death wish. Sensei `u:0243` remains inner thought even though Saori/Mika then see Sensei physically; `u:0247` is E019 title.
 
 ## V003 C004 E017 delta — “witch/hound,” Color and a reply mis-tag
 

@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–017; BA:main:003:004:018 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–018; BA:main:003:004:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1361,3 +1361,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Vanitas resisted:** Mika weaponizes Saori's `すべては虚しい` teaching, and Saori responds by resolving to struggle to the end. This is local resistance, not a global cure.
 - **Price and accountability:** Saori acknowledges a causal role in Mika's suffering while insisting on the rescue split, without transferring complete causation or authorizing execution.
 - **Color/Barbara split:** Beatrice names a feared incomprehensible `Color` and a separately planned human-made Barbara weapon. Neither is independently witnessed as a completed threat in this unit.
+
+## V003 C004 E018 motif / callback delta — a second chance not guaranteed
+
+- **Reconciliation symbol inverted:** Azusa's original proposed transfer embodied a test of school coexistence, then Beatrice converts Mika's contact into intelligence and Saori later assigns Azusa a spy/attack role. The same person becomes institutional proof or instrument depending on adult/leader choices.
+- **Second chance:** Saori wonders whether a good adult earlier could have changed her life; Mika confesses the same wish and refuses to deny it by killing Saori. Neither is thereby acquitted, formally forgiven or assured future belonging.
+- **Vanitas rejected, blame over-totalized:** Saori calls learned hatred and `すべては虚しい` false, but then assigns all harm to herself. The first is explicit self-revision; the second is not an objective causal map.
+- **Bomb withheld:** E007's confiscation recurs in Saori's answer to Mika, narrowing this confrontation's lethal means without proving what Mika's unfinished conditional meant.

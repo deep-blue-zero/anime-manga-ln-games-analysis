@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–017; BA:main:003:004:018 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–018; BA:main:003:004:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1203,3 +1203,10 @@ The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **SAORI ↔ SENSEI/SQUAD/ATSUKO:** Saori asks Sensei not to return and to reach Atsuko; Misaki asks Sensei to decide after presenting the detour risk. Sensei goes, but no Atsuko meeting or Saori safety follows.
 - **MIKA ↔ SAORI:** Mika's target talk oscillates, then she seeks a witch/hound execution script. Saori accepts her anger and a causal part in her loneliness/loss, and fights back. The duel remains unresolved.
 - **BEATRICE ↔ SEIA:** Beatrice addresses Seia in the liminal frame, names Color and taunts her inability to return; Seia says she will seek a way out. This is exchange, not physical recovery or proof of Beatrice's theory.
+
+## V003 C004 E018 relationship delta — early good faith, later betrayal, present restraint
+
+- **MIKA ↔ ARIUS/SAORI:** a pre-coup encounter directly shows Mika offering gradual reconciliation and secret transfer; Saori says she could not decide alone, then Beatrice orders intelligence exploitation. Saori later confesses deception and Mika acknowledges she once wanted that future, without erasing her later coup choices.
+- **SAORI ↔ AZUSA/SQUAD:** Saori reports originally choosing Azusa as a reconciliation symbol, later as spy/Seia-attack participant, and now asks whether Azusa found an answer to happiness. Her retrospective self-blame for Atsuko/Hiyori/Misaki is broad but not their full agency map.
+- **MIKA ↔ SAORI:** injured Saori offers herself for retaliation; Mika refuses because killing would deny her own possibility of mercy. Local violence stops, but pardon, affection, safety and school outcomes remain open.
+- **SENSEI ↔ SAORI/MIKA:** Saori tells Mika Sensei confiscated halo bombs; both react to Sensei's arrival. No route or voiced version of the inner thought is supplied.

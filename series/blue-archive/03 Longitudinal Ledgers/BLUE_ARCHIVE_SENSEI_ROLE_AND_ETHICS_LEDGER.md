@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–017; BA:main:003:004:018 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–018; BA:main:003:004:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1037,3 +1037,7 @@ Sensei follows Squad into the physically reached old-school corridor. Misaki rea
 ## V003 C004 E017 delta — triage toward Atsuko while Saori holds Mika
 
 Saori explicitly tells Sensei not to return across the rubble and entrusts Atsuko's rescue to them; Misaki says finding another way might be too slow and places the final decision with Sensei. Two terse inward imperatives (`u:0030`) precede Mika's confirmation that Sensei went. This supports a bounded rescue-priority choice under a one-hour participant clock, not guaranteed Atsuko survival, indifference to Saori or an actual path arrival. Sensei's opening plea to Mika is inner thought despite her response. Three singleton choice groups; no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C004 E018 delta — earlier safeguard recalled, unexplained reappearance
+
+Saori answers Mika that she lacked a halo-breaking bomb because Sensei confiscated it, directly corroborating E007's student-to-adult handoff in a new conversation. This adult safeguard narrows Saori's options but cannot alone explain Mika's refusal to kill; Mika gives her own second-chance reason before the exchange. Sensei's inner thought at `u:0243` recalls the confiscation and both students then respond to Sensei's presence. The return after E017 departure is direct by their reactions, but route, timing and any voiced version of the inner line are unshown. No explicit Sensei choice in this unit and no frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

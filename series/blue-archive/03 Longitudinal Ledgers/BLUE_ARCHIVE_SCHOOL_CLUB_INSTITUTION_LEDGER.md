@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–017; BA:main:003:004:018 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–018; BA:main:003:004:019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -947,3 +947,7 @@ Location cards and group movement place Squad inside the Arius old school and it
 ## V003 C004 E017 institutional delta — projected Barbara and an unverified ritual theory
 
 Saori estimates one hour to sunrise; this sets group urgency but does not inspect ritual timing. Sensei's side leaves Saori to continue toward Atsuko rather than detour around the collapsed corridor; the school/basilica route completion remains unshown. Saori says a weapon she uses is no longer manufactured and was discarded at Arius training ground; Mika names thermobaric grenades, but no armory record, technical inspection or injury report appears. Beatrice says ritual exposure through a window outside Kivotos subjected Seia to an unknown `色彩`, expressly admits Gematria ignorance, and forecasts an unfinished Justina saint Barbara as anti-Schale weapon. These are her institutional/technical claims, not observed full mechanics, completed Barbara or new directly present subject.
+
+## V003 C004 E018 institutional delta — transfer proposal diverted into covert operations
+
+Mika's retrospectively printed pre-Seia/coup proposal would have secretly transferred one Arius student to Trinity under her Tea Party patronage to demonstrate coexistence; it was a **proposal**, not an approved admission or implemented exchange. Saori says Azusa was originally selected as its symbol. Beatrice privately orders Saori to reject the reconciliation while preserving contact for Trinity intelligence and reinforcing school hatred. Later Saori reports a Seia halo-bomb kill assignment and Azusa's deployment because of Trinity knowledge; Mika's later spy/coup request follows presumed Seia death. The source strongly differentiates original reconciliation, Beatrice's subversion and subsequent conspiracy, while written orders, exact Seia attack result and formal transfer records remain unseen. Mika's present local non-execution of Saori is not a Trinity disciplinary decision.

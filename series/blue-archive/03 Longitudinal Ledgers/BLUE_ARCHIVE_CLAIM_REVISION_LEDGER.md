@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–017; BA:main:003:004:018 unopened
+source_boundary: Canonical MAIN_V003_C003 checkpoint plus provisional BA:main:003:004:001–018; BA:main:003:004:019 unopened
 checkpoint_boundary: MAIN_V003_C003 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C004_E017 active provisional; C004 E018 unopened
+current_sequential_boundary: MAIN_V003_C004_E018 active provisional; C004 E019 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2285,3 +2285,11 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E018 unopened.
+
+## V003 C004 E018 claim delta — the reconciliation proposal predates its weaponization
+
+- **BA-C002–C004/C007/C010–C011/C021 — REVISE/STRENGTHEN:** retrospective dialogue directly shows Mika's initial pre-Seia/pre-coup reconciliation and Arius transfer proposal; Beatrice separately orders Saori to reject that aim and retain intelligence contact. Saori says Azusa's original role was symbol, not spy, before Seia-attack/coup pivots. Her and Mika's later guilt/total-cause interpretations remain distinct from these printed events.
+- **BA-C001/C016 — STRENGTHEN:** Mika refuses to kill defeated Saori, citing her own wish for a second chance; Saori directly confirms Sensei confiscated halo bombs. Sensei physically returns, with route and inner-line audibility open.
+- **BA-C008 — PRESERVE:** retrospective Seia-halo-bomb kill order is described, but no new Seia physical status or blast-mechanism proof. **BA-C019/C020 — PRESERVE:** no Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 64 unmodeled across 85**; backfill **DEFER**. C004 E019 unopened.
