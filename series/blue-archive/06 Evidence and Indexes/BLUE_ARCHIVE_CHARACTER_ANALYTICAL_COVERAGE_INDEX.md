@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_CHECKPOINTS_PLUS_C003_E001_E014
+scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_PLUS_V002_C001_C002_PLUS_V003_C001_C002_CHECKPOINTS_PLUS_C003_E001_E015
 generation: V1
-version: "2.00"
+version: "2.01"
 status: canonical
-source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C002 through checkpoints, then BA:main:003:003:001–014 provisionally; 138/310 main units; side-source classes unreviewed; BA:main:003:003:015 unopened"
+source_boundary: "Canonical Prologue, Volume 1 Chapters 1–2, V002 C001–C002 and V003 C001–C002 through checkpoints, then BA:main:003:003:001–015 provisionally; 139/310 main units; side-source classes unreviewed; BA:main:003:003:016 unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -13,7 +13,7 @@ created: 2026-09-25
 updated: 2026-09-27
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md"
-next_unopened_main_unit: BA:main:003:003:015
+next_unopened_main_unit: BA:main:003:003:016
 ---
 
 # BLUE ARCHIVE CHARACTER ANALYTICAL COVERAGE INDEX
@@ -21,7 +21,7 @@ next_unopened_main_unit: BA:main:003:003:015
 
 ## 0. Responsibility
 
-This index answers four questions at the `MAIN_V003_C003_E014` provisional boundary, inheriting canonical `MAIN_V003_C002`:
+This index answers four questions at the `MAIN_V003_C003_E015` provisional boundary, inheriting canonical `MAIN_V003_C002`:
 
 1. which character evidence has actually been analyzed;
 2. which source classes exist in the promoted corpus but remain outside the analytical boundary;
@@ -61,12 +61,12 @@ All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means
 
 All rows inherit:
 
-- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020 and V003 C003 E001-E014;
+- analyzed main-story basis: Prologue E001-E002 plus V001 C001 E001-E020, V001 C002 E001-E020, V002 C001 E001-E020, V002 C002 E001-E025, V003 C001 E001-E017, V003 C002 E001-E020 and V003 C003 E001-E015;
 - current checkpoint: `MAIN_V003_C002`; prior C001 and recovered C002 basis `533a7c7253f6cbea8616518abdc37076f604d3c5` remain lineage;
-- main-story coverage: `138 / 310` canonical units;
+- main-story coverage: `139 / 310` canonical units;
 - side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
 - performed voice: `NOT_ADMITTED` for every subject;
-- next unopened main unit: `BA:main:003:003:015`.
+- next unopened main unit: `BA:main:003:003:016`.
 
 The source lock reports promoted project-wide inventories of 53 group, 490 event, 694 bond, 920 MomoTalk, and 244 character-data objects plus 128 character packages. Those counts establish retrieval availability, not character-specific analysis.
 
@@ -74,8 +74,8 @@ The source lock reports promoted project-wide inventories of 53 group, 490 event
 
 | Subject | Current main analysis | Group | Event | Bond | MomoTalk | Character/profile data | Performed voice |
 |---|---|---|---|---|---|---|---|
-| Sensei | `ANALYZED` through C003 E012; reported treated at Rescue Knights room, still unconscious, no final prognosis | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
-| Seia | `ANALYZED` through C003 E013; dream-adjacent no-remedy forecast remains voiced claim, not proven foresight | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Sensei | `ANALYZED` through C003 E015; dream-frame resolve to return/help students, no observed physical awakening | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `NOT_APPLICABLE` as a direct person route; student dyads unreviewed | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
+| Seia | `ANALYZED` through C003 E015; admits unviewed epilogue and resolves to keep watching, not waking yet | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Koharu | `ANALYZED` through C003 E011; Justice member summons her and she identifies confiscated-items post, formal status open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Hanako | `ANALYZED` through C003 E012; reviews launch/video reports and explicitly marks catastrophe theory as multi-leap hypothesis | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
 | Azusa | `ANALYZED` through C003 E014; traps Squad, questions learned hatred, drops plush with recognized object; outcome open | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `ROUTE_NOT_VERIFIED` | `NOT_ADMITTED` |
@@ -1176,3 +1176,9 @@ Routing: [V003 C003 E013 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_
 Squad sees a howling object treated as Maestro's awaited tactical weapon, though Misaki only glosses Atsuko's signs that it is a “failed” ancient-doctrine product; Saori orders Trinity advance. Scenes 2–3 are location headings alone, not described actions. At an underground waterway Azusa is strongly identified behind traps, a grenade and pursuit; Hiyori cries in pain, and a floor collapse leaves Misaki saying she cannot move, without confirmed fatality. Saori's claim that Justina intervenes only in Trinity–Gehenna conflict and might classify Azusa as non-Trinity/Arius is interested interpretation, not formal status revision. Azusa asks when Arius gained exotic weapons and whose hatred she learned; Saori answers with a scripture-sourced murderous-intent thesis, not procurement evidence. Azusa escapes Saori's announced checkmate. Saori threatens Hifumi and reads her plush gift as bait to recapture Azusa, then finds inside an object she recognizes from the Seia attack and warns Atsuko to flee. No post-discovery detonation, halo break, casualty or completed escape for Atsuko is transcribed. Azusa weeps and apologizes; her fragmentary “never again” cannot be completed for her. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). E015 unopened.
 
 Routing: [V003 C003 E014 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E014_DEEP_READING.md) → `BA:main:003:003:014`, four scene headings, 162 visible numbered units and no Sensei choices. Coverage is **138 / 310**.
+
+## 110. V003 C003 E015 provisional coverage delta
+
+Seia calls the violent crisis the story's unavoidable and true tragic ending, reads distorted Eden treaty/accumulated hatred as proof peace was impossible, and tells Sensei belief in paradise failed. These are her strong dream-frame claims, not an inspected future or signed instrument. Sensei's first choice and inward question expose that Seia has not looked beyond her selected “ending”; she initially declines to see an epilogue out of expected pain. Three singleton and two two-option choice groups converge as Sensei suggests fear kept her in dreams, intends to return to help students and deprioritizes formal paradise proof. The fear/sleep idea is not a medical diagnosis, and Seia's unhealed-body warning is not a chart. `水着/下着` inward thought seems answered by Seia, a representation anomaly rather than philosophical proof. Seia finally decides she must witness even a possibly bitter end, revising her willingness to observe without establishing waking recovery, a happy outcome or Sensei's completed intervention. E014's device outcome remains absent. No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model, frozen prediction, new claim ID or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`). E016 unopened.
+
+Routing: [V003 C003 E015 reading](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E015_DEEP_READING.md) → `BA:main:003:003:015`, one scene, 69 numbered units and five Sensei choice groups (two with alternatives). Coverage is **139 / 310**.

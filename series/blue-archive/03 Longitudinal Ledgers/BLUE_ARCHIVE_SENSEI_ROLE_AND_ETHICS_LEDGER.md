@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–014; BA:main:003:003:015 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–015; BA:main:003:003:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -921,3 +921,7 @@ Sensei has no direct speech, decision or medical update. Azusa blames herself fo
 ## V003 C003 E014 delta — no teacher intervention into the ambush
 
 Sensei neither speaks nor receives a medical update. Azusa's unsanctioned trap and apparent plush-carried device unfold without adult direction, while Saori threatens Hifumi and disputes the meaning of her gift. The source does not establish what Sensei would endorse, whether the device activates, or whether any halo is broken. This is a case of students acting under perceived catastrophic necessity, not evidence that Sensei's care ethic authorizes an assassination or that it could already have prevented one. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E015 delta — return as obligation, not completed rescue
+
+In the dream-framed Seia exchange, Sensei asks whether her catastrophic “ending” omits an epilogue and, across five choice groups, prioritizes returning to help students over winning a paradise-proof debate. The choice that says fear kept Seia in dreams is a proposed interpretation, not medical causation. Seia says Sensei's body has not healed, consistent with serious injury but not an examined chart. Sensei's inward goodbye and Seia's “gone” mark a frame departure; no waking consciousness, movement to students, or intervention is shown yet. Adult responsibility here is a future-directed commitment under risk, not already achieved rescue or proof trust alone changes events. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).

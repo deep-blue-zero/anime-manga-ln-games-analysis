@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–014; BA:main:003:003:015 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–015; BA:main:003:003:016 unopened
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C003_E014 active provisional; E015 unopened
+current_sequential_boundary: MAIN_V003_C003_E015 active provisional; E016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -2027,3 +2027,12 @@ No new durable claim ID, subject, model, frozen prediction or side-source admiss
 - **BA-C019/C020 — PRESERVE:** no direct Pavane test.
 
 No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E015 unopened.
+
+## V003 C003 E015 claim delta — an ending without an inspected epilogue
+
+- **BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei's dream-frame choices prioritize returning to help students over abstract proof, but the unit shows no physical awakening or completed aid. Seia's unhealed-body warning is not a direct chart.
+- **BA-C002–C004/C007/C010–C011/C021 — QUALIFY:** Seia pronounces the treaty and story irreparably tragic, then admits she has not seen beyond her “ending.” That limits fatalism without establishing a happy result; signed-document and future peace questions remain open.
+- **BA-C008 — STRENGTHEN:** Seia's viewpoint, her admitted viewing gap, five branch-convergent Sensei choices, dream-frame inward lines, and anomalous `水着/下着` response are not equivalent narrator/medical evidence. Sensei's fear/sleep inference is not a proven etiology.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+
+No new durable claim ID, subject, model, frozen prediction or side-source admission. Readiness **21 partial / 60 unmodeled across 81**; backfill **DEFER**. E016 unopened.

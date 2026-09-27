@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–014; BA:main:003:003:015 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–015; BA:main:003:003:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -831,3 +831,7 @@ Azusa tells Hifumi she intends to destroy Saori's halo as her sole way to stop t
 ## V003 C003 E014 institutional delta — advance order and contested precept
 
 Squad treats a howling, “failed” ancient-doctrine product as the awaited tactical weapon, mainly through Saori's description and Misaki's gloss of Atsuko's gestures; its builder, capabilities and use remain unverified. Saori orders waiting units to advance on Trinity. Location headings place the narrative through abandoned ruins, catacombs and waterway, without narrated action in the two middle scenes or a completed district takeover. At the waterway Azusa's apparent trap field disrupts Squad, and an upper-floor collapse leaves Misaki reporting she cannot move; no casualty inventory. Saori says Justina cannot intervene except in Trinity–Gehenna conflict and may treat Azusa as outside Trinity or as Arius Squad. This is an interested tactical interpretation, not an official revocation of Sakurako's formal-student declaration or technical proof of the precept. Saori recognizes an object inside Hifumi's plush as supplied for the Seia attack and warns Atsuko; no subsequent explosion/halo outcome is transcribed.
+
+## V003 C003 E015 institutional delta — Seia's treaty verdict undercuts itself
+
+Seia describes the Eden Treaty as a mutual promise to stop hatred that has become distorted under Trinity–Gehenna–Arius resentment, then treats that as proof peace was impossible. This is a participant's political/moral verdict, not an inspected signed document, completed legal outcome or neutral proof that future repair cannot occur. Her own admission that she has not looked beyond the tragic point limits the claim to an uncompleted forecast. She invokes the federal president's Eden name as bitter irony; presidential intent is not observed. No institution acts or changes status in the dream-frame unit. E014's weapon, waterway and plush-device outcomes remain unreported.

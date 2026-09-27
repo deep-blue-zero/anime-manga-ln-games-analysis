@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–014; BA:main:003:003:015 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–015; BA:main:003:003:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1159,3 +1159,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **Inherited technique versus change:** Saori claims she knows every Azusa method because she taught her, yet traps, escape and the decoy expose limits of that claim. No ultimate superiority is settled.
 - **Conditional guardianship:** Justina's apparent power is bound to conflict/identity interpretation by Saori's account, echoing treaty-law distortions without verifying actual covenant operation.
 - **Darkness and light:** Saori's moth/light metaphor names the plush “hope” only to weaponize that bond; Azusa's apology records an ethical cost the tactic cannot simply erase.
+
+## V003 C003 E015 motif / callback delta — refuse the false last page
+
+- **Ending/epilogue:** Seia calls E014-like disaster the story's terminal truth, but Sensei notices she has not read beyond it. The motif becomes a boundary on foreclosed interpretation, not assurance of a pleasant ending.
+- **Fifth old rule as practice:** the earlier paradise-belief exchange is retested under crisis; Sensei deprioritizes metaphysical proof in favor of going to students. It reframes the question without proving paradise.
+- **Fear of witnessing:** Seia initially treats later suffering as reason to avert her gaze, then accepts the duty to see through the end. This is an ethical/methodological revision, not verified body recovery.
+- **Swimsuit/underwear rupture:** an abrupt inward gag apparently receives Seia's reply; its comic register challenges solemn fatalism, but the representation anomaly prevents treating it as a rigorous argument.
+- **Unfinished student story:** Azusa's E014 apology and the waterway device remain unresolved while the dream conversation disputes whether the story is already over.

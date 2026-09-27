@@ -5,7 +5,7 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–014; BA:main:003:003:015 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–015; BA:main:003:003:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1003,3 +1003,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - **AZUSA ↔ HIFUMI:** Hifumi is absent but her first-friend gift remains physically and emotionally salient. Saori threatens Hifumi and misreads the dropped plush as pure sentimental bait; Azusa's later apology to Hifumi does not disclose Hifumi's knowledge or reaction.
 - **SAORI ↔ ATSUKO/MISAKI/HIYORI:** Saori protects/warns Atsuko, but her order to pursue draws the team into traps and collapse. Misaki interprets Atsuko's gestures and reports inability to move; no final condition or team split is established.
 - **AZUSA ↔ ATSUKO:** Atsuko blocks Azusa and makes an untranscribed gesture; Azusa refuses. The offer's content and their prior bond cannot be reconstructed from the sign alone.
+
+## V003 C003 E015 relationship delta — a teacher challenges Seia's withdrawal
+
+- **SENSEI ↔ SEIA:** in the dream frame, Sensei asks whether Seia actually saw the sequel, offers an interpretation that fear kept her in dreams and says they must return to students. Seia resists, warns of an unhealed body, then chooses to observe the remainder. The exchange shows influence without proving fear caused coma, either person physically woke, or future rescue succeeded.
+- **SEIA ↔ AZUSA:** Seia says she warned Azusa repeatedly and now reads hope as failed. Azusa is not present to confirm the exact warnings or accept that verdict; E014's outcome remains untouched.
+- **SENSEI ↔ STUDENTS:** Sensei inwardly prioritizes help and promises to return, an intention rather than direct contact with Hifumi, Azusa or other students in this unit.

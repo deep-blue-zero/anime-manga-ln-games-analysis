@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–014; BA:main:003:003:015 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–015; BA:main:003:003:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1134,6 +1134,14 @@ No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED
 - **Mika/Hanako/Sensei:** Mika is directly seen in prison with Nagisa visiting, no repair yet. Hanako says Nagisa also apologized to her and doubts Gehenna hatred alone explains Mika; Sensei offers future help prompts, not action. Mika/Hanako `UNMODELED`, Sensei `PARTIAL_MODEL`.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 50 `UNMODELED` across 71**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
+
+## V003 C003 E015 character-state delta — Seia revises her viewing boundary
+
+- **Seia:** labels violence the true tragic ending, then admits she has not looked beyond it and initially refuses to inspect a painful epilogue. Sensei's challenges unsettle her; she chooses to keep watching through the end despite fear. This is a change in witness method, not physical awakening or proven future reversal. `UNMODELED`.
+- **Sensei:** in the dream frame questions Seia's stopping point, offers five choice groups and inwardly states a duty to return to students. Seia warns their body remains unhealed. No direct waking action or new clinician report. `PARTIAL_MODEL`.
+- **Azusa/Trinity/Gehenna/Arius:** Seia interprets their conflict as proof of unavoidable tragedy; none appears to answer her here, and E014's device outcome remains unopened in this unit.
+
+No new tracked subject/readiness promotion: **21 `PARTIAL_MODEL` / 60 `UNMODELED` across 81**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C003 E014 character-state delta — ambush and tactical friendship
 

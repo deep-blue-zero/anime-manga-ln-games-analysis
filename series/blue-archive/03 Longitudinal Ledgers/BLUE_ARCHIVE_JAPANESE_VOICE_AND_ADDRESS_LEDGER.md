@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V003_C002 checkpoint canonical
-source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–014; BA:main:003:003:015 unopened
+source_boundary: Canonical MAIN_V003_C002 checkpoint plus provisional BA:main:003:003:001–015; BA:main:003:003:016 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1404,3 +1404,11 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条
 - Saori's `チェックメイト`/`無駄な抵抗` is contradicted as terminal capture by her later `また逃げるのか`. Azusa's `その恨みは、一体誰の` asks origin; Saori's `殺意`/stone-scripture argument substitutes a moral thesis rather than answering.
 - Repeated italic `虚しい` is coercive pressure on Azusa's attachment, not narrator judgment. Saori's `これは、セイア襲撃の時に渡した` recognizes an object but `逃げろ` precedes any transcribed post-discovery blast. Azusa's `私は……もうこれで、二度と……` is incomplete and cannot be filled in.
 - No Sensei choices; `scene:004:u:0151` is E015 title only.
+
+## V003 C003 E015 delta — “ending” versus unviewed “epilogue”
+
+- Seia's `これが物語の結末`/`真実の物語` are strong viewpoint declarations; Sensei's `その後はどうなったのか見ていない` and Seia's `見る必要が、あるのかい` reveal her uninspected beyond, not a verified tragic total future.
+- Choice groups 001–003 are singleton; 004 and 005 have two alternatives converging on subsequent Seia lines. Sensei's `夢の中に隠れて起きられず` is choice speech, not a physician's causal diagnosis.
+- Seia moves from `未来予知で判明` to `七つの古則から…導かれていた`, combining asserted foresight with philosophical deduction; neither is an independently inspected forecast record. Her `治ってすらいない` is a participant medical claim.
+- Sensei `心の声` at `u:0045-0046`/`u:0054` declares return intent. `水着じゃなくて下着` at `u:0050` seems answered by Seia, an inward/direct-response representation anomaly; do not derive a new metaphysical principle or mind-reading capability.
+- Seia `最後まで確認しなければ`/`見届ける` changes her willingness to observe, not the already observed physical world. `u:0069` is E016 title only.
