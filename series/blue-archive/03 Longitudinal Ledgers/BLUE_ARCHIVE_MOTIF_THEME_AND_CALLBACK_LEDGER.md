@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:013; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:014 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:014; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:013` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:014` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -870,3 +870,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - **Threatened exam versus diagnostic mock:** Hifumi converts the exam format into an instrument for locating gaps, with a self-made paper from partial earlier material. Both tests still show only her passing; distinct papers prevent an improvement plot from numerical increments alone.
 - **Private burden into public work:** following E012's refusal to inform on classmates, Hifumi visibly organizes non-suspicious peer study. The juxtaposition supports a local alternative action, not causal proof that Sensei's reassurance solved the threat.
 - **Peroro as bridge:** Hifumi's beloved mascot surprises Azusa into direct delight while Koharu rejects it and Hanako teases. Shared taste creates a bounded contact point, not automatic friendship or academic success. The in-world philosophy-book reward need not be mapped to an external author.
+
+## V003 C001 E014 motif / callback delta — reference, embarrassment and repair
+
+- **Study reference becomes disciplinary object:** Koharu seeks a reference book for a second problem but pulls out a disputed `R18` volume, shifting the group from learning to exposure/shame. Her confiscation explanation remains a claim; no objective title, ownership or school-law proof is supplied.
+- **Shower callback with cost:** Hanako reuses E013's `裸の付き合い` to tease emerging peer cooperation. Koharu rejects the implication, and later becomes tearful after more teasing; convivial comedy cannot erase expressed discomfort.
+- **Care or concealment:** Hifumi offers a possible explanation, Hanako suggests quietly putting the item back, and Sensei accompanies Koharu. These gestures may ease embarrassment but the plot has not shown accountable return or a Hasumi response.

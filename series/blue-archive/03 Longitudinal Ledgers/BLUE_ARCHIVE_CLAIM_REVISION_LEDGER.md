@@ -4,9 +4,9 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Sequential main-story reading through BA:main:003:001:013; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:014 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:014; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:015 unopened
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-current_sequential_boundary: MAIN_V003_C001_E013 active provisional; E014 unopened
+current_sequential_boundary: MAIN_V003_C001_E014 active provisional; E015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -1684,3 +1684,13 @@ No new claim ID, standalone model, frozen prediction or side-source admission. B
 - **Other families:** no direct global test.
 
 No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; actual official second result, Hanako score cause, study response and Nagisa remedy remain OPEN.
+
+## V003 C001 E014 claim delta — peer help and unverified property account
+
+- **BA-C001/C016 — QUALIFY:** Sensei offers to go with Koharu and narrator confirms departure, but the text does not show return, due process or resolution. Hifumi's prompted confiscation explanation and Hanako's stealth suggestion raise a care/procedure tension without adjudicating it.
+- **BA-C002–C004/C007/C010–C011/C021 — PRESERVE:** narration confirms study continues; neither better scores nor any traitor investigation or sanction occurs. The book incident does not test Nagisa's allegation.
+- **BA-C008 — STRENGTHEN:** geometry/thanks lines and `u:0044-0045` carry role-label conflicts. Hanako's `R18` and rule/lore claims, Hifumi's hypothesis and Koharu's adoption, and a destination rather than completed return require different evidence grades. One Sensei choice is singleton.
+- **BA-C019/C020 — PRESERVE:** no direct Pavane test.
+- **Other families:** no direct global test.
+
+No new durable claim ID, standalone model, frozen prediction or side-source admission. Backfill **DEFER**; book provenance, club reaction, second exam and Nagisa plan remain OPEN.

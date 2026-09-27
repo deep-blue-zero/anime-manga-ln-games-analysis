@@ -5,7 +5,7 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:013; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:014 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:014; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 ## Current boundary
 
-Through `BA:main:003:001:013` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:014` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Entity | Current state | Material evidence / transition | Confidence | Source |
 |---|---|---|---|---|
@@ -857,6 +857,15 @@ No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across
 - **Sensei:** helps Hifumi prepare the practice paper and gives her credit. No independently shown exam rescue, protective action or tutoring effect. Hifumi's 68 passes locally; three peers fail.
 
 No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). Some printed role labels invert, especially around help assignments and reward conversation.
+
+## V003 C001 E014 character-state delta — study reciprocity and an embarrassing object
+
+- **Azusa/Koharu:** continue studying late and exchange a geometry question/help; the printed roles invert in the explanation and praise, so exact solver attribution is constrained. Koharu's bag produces a book Hanako calls `R18`, leading to visible distress; she says it was accidentally retained confiscated property, without independent proof.
+- **Hanako:** teases the pair and presses a vivid reading of the book, then suggests discreet return. Her rule/contents assertions and old-library rumor are not verified; the apparent apology line is mislabelled.
+- **Hifumi:** proposes a face-saving confiscation hypothesis and worries about inventory discrepancy; neither claim proves book history.
+- **Sensei:** offers to accompany Koharu, and narrator confirms they head for the clubroom. No arrival or completed return.
+
+No new subject/readiness promotion: **21 `PARTIAL_MODEL` / 33 `UNMODELED` across 54**, none operational/validated; no standalone model/frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`).
 
 ## V003 C001 E010 character-state delta — camp routines before second test
 

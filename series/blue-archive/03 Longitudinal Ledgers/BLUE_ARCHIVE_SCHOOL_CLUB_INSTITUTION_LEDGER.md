@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:013; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:014 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:014; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:013` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:014` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Institution | Formal / stated function | Current practical state | Analytical issue | Evidence |
 |---|---|---|---|---|
@@ -682,3 +682,7 @@ Hifumi confirms the joint three-exam failure would expel all and says she has no
 ## V003 C001 E013 institutional delta — local mock, official condition unchanged
 
 Hifumi and Sensei prepare a 60-minute, 100-point mock from a partial set of prior Trinity questions/answers, with a local 60-point threshold. Narration confirms administration and scores: Hanako 4, Azusa 33, Koharu 15 fail, Hifumi 68 pass. These are **mock** results, not the official second sitting or an alteration of the first. They do not satisfy the E006 joint-pass condition. Hifumi proposes targeted help and regular future mocks but no later execution is yet shown. She reports a high earlier first-year score for Hanako, tentatively acknowledged by Hanako, without explaining current failures. A Momo Friends reward is offered for good performance, not documented as a formal school incentive rule. Nagisa's alleged bypass, traitor intelligence and exam-control threat receive no direct institutional test here. Speaker-label inversions constrain exact peer-helper assignment in `scene:002:u:0053-0054`.
+
+## V003 C001 E014 institutional delta — disputed confiscation and destination only
+
+Narration confirms late study, but no new exam or grade. Hifumi suggests Koharu accidentally retained a Justice Realization confiscated book; Koharu says she managed seized items and that this volume is one. No seizure record, inventory, ownership or school rule is shown. Hanako claims `R18` marking, speculates about the book's contents and says she thinks school rules forbid it; her old-library forbidden-books story is rumor. Hifumi raises possible inventory discrepancy, Hanako proposes clandestine return, Sensei offers accompaniment, and narration confirms Sensei and Koharu set out toward the committee clubroom. This is not a confirmed return, a Hasumi decision or a valid procedure. The chapter title names the vice-chair, but Hasumi does not appear in E014.

@@ -5,7 +5,7 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V002_C002 checkpoint canonical
-source_boundary: Sequential main-story reading through BA:main:003:001:013; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:014 unopened
+source_boundary: Sequential main-story reading through BA:main:003:001:014; MAIN_V002_C002 remains latest canonical checkpoint; BA:main:003:001:015 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ updated: 2026-09-26
 
 ## Current boundary
 
-Through `BA:main:003:001:013` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:003:001:014` provisionally; the canonical `BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md` remains the latest chapter synthesis. Historical unit-local states remain preserved below as cumulative deltas.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -1125,3 +1125,9 @@ The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じか
 - Hifumi `闇雲に勉強` contrasts undirected work with first finding `何ができて何ができない`. Her `本番と一緒` refers to the mock's 60-minute/100-point/60-point format, not demonstrated equivalence of item difficulty. `第1次補習授業部模試` is a mock, not the official `第2次特別学力試験`. Narrator scores 4/33/15/68 are secure; cross-test gain/loss is not.
 - Azusa's `可愛い`/`ふわふわ` surprise and `任務を果たして` bridge aesthetic delight and her established mission register. Hifumi's `ペロロ様` honorific defends the toy as a bird. Mr. Nikolai's `善悪の彼方` is Hifumi's in-world gift description. Koharu's reward rejection and shower `脱がさないで`/`シャンプーが目に` remain their immediate speech acts; Hanako's `裸の付き合い` does not annul protest.
 - Scene 2 `u:0003-0009`, `u:0053-0054`, `u:0091-0093`, `u:0105-0107` and `u:0110` have role/first-person conflicts. Do not canonize the printed label as secure voice where it contradicts self-address and turn-taking. Scene 2 `u:0001` absent, five Sensei choices singleton, `u:0114` title card. Parenthesized `choice:003`/`u:0061` do not become public instructional speech.
+
+## V003 C001 E014 delta — inverted geometry turns and equivocal institutional terms
+
+- Azusa's `コハル、質問` begins a same-topic problem exchange. `u:0005-0008` are labeled Azusa while apparently answering her own question; `u:0010` under Koharu praises a Justice Realization elite, and `u:0012-0013` under Azusa claim that elite identity. Treat the exchange and mutual help as secure, exact explanatory voice as unstable.
+- Hanako `裸の付き合い`/`深いところ` sexualizes E013's shower; Koharu explicitly rejects the implication. Hanako says `R18` is printed and `校則でも禁止されていたと思います`, where `と思います` marks uncertainty about the rule. Her elaborate content description is extrapolation, not a page-by-page inspection. `禁書` in the old-library basement is a rumor by her own `噂` wording.
+- Hifumi's `差し押さえた品を、つい入れたまま` is a proposed explanation; Koharu accepts it, but the script does not independently verify custody. `u:0044-0045` both bear Azusa labels although one addresses Hanako and the next apologizes for overdoing it: neither is secure Azusa voice. Sensei `choice:001` is a singleton accompaniment offer. Narrator `向かうことになった` confirms heading toward, not arriving or returning. `u:0062` is title card.
