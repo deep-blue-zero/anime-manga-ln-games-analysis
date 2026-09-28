@@ -58,7 +58,7 @@ All G7 roots are `PRESENT_REVIEWED` and `GIT_PRIMARY` within authority epoch 1. 
 - [`sayonara-lara/`](sayonara-lara/) — Sayonara Lara — Japanese-language TV anime E01-E12 source bundles inventoried and locked; analytical foundation adopted; sequential run authorized through E12 with channel-specific AV debts tracked separately.
 - [`tokyo-7th-sisters/`](tokyo-7th-sisters/) — Tokyo 7th Sisters — Game-first analytical architecture under approved design 1.1. T7S_B0001–B0003 close the exact first 11 Main episodes through 201000201 with synchronized readings, state ledgers, coverage, and bounded visual review; native source corpus/media remain external. B0002 completes Haru's first chapter and B0003 opens but does not complete Musubi's. Next candidate 201000202 is not admitted; Haru is R2 state-bounded, and no monograph, model, specialist, or synthesis is promoted.
 - [`wuthering-waves/`](wuthering-waves/) — Wuthering Waves — post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane.
-- [`watayuri/`](watayuri/) — Yuri Is My Job! — Provisional Japanese manga architecture awaiting owner audit. Drive inventory contains V01–V14 and a separate V10 special-edition booklet; no narrative volume has been inspected and the sequential-analysis lock is CLOSED.
+- [`watayuri/`](watayuri/) — Yuri Is My Job! — Owner-approved Japanese manga architecture with the sequential-analysis lock OPEN. Drive inventory contains V01–V14 and a separate V10 special-edition booklet; no narrative volume has yet been inspected. V01 is the next single-volume candidate.
 
 <!-- END GENERATED SERIES CATALOG -->
 

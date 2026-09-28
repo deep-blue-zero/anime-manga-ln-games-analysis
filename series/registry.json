@@ -675,11 +675,11 @@
       "repository_path": "series/watayuri/",
       "canonical_entrypoint": "series/watayuri/CURRENT_STATE_AND_CORPUS_MAP.md",
       "canonical_entrypoint_status": "PRESENT_VERIFIED",
-      "materialization_status": "PRESENT_UNREVIEWED",
+      "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_WATAYURI_BOOTSTRAP_20260928",
       "authority_status": "GIT_PRIMARY",
       "project_initiation_gate": "REQUIRED",
-      "catalog_note": "Provisional Japanese manga architecture awaiting owner audit. Drive inventory contains V01–V14 and a separate V10 special-edition booklet; no narrative volume has been inspected and the sequential-analysis lock is CLOSED."
+      "catalog_note": "Owner-approved Japanese manga architecture with the sequential-analysis lock OPEN. Drive inventory contains V01–V14 and a separate V10 special-edition booklet; no narrative volume has yet been inspected. V01 is the next single-volume candidate."
     },
     {
       "series_id": "wuthering-waves",
