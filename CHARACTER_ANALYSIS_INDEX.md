@@ -1093,6 +1093,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`character-model` — Bounded character analysis through V15](series/mushoku-tensei/04%20Character%20Analysis/elinalise/RECONSTRUCTION_MODEL.md)
 
+### Elsa
+
+- Entity ID: `re-zero:elsa`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:elsa@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `volume-1-bounded`: LIGHT_NOVEL VOLUME: Character-specific analysis in the frozen Japanese main light-novel Volume 1 reading. V01-E1 through V01-E4 are distinct event-states within one continuity; the surviving endpoint is V01-E4. Discarded experiences remain evidence only for the relevant event/knower, not mutual remembered history. No later volume, web novel, IF route, supplement or adaptation is enrolled, and no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`volume-1-individual-analysis` — Volume 1 bounded individual model and event-state analysis](series/re-zero/02%20Sequential%20Readings/REZERO_LN_V01_DEEP_READING.md)
+
 ### Emilia
 
 - Entity ID: `re-zero:emilia`
@@ -1305,6 +1325,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`aot-character-model-readiness-and-coverage-ledger` — AOT CHARACTER MODEL READINESS AND COVERAGE LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_CHARACTER_MODEL_READINESS_AND_COVERAGE_LEDGER.md) — **active provisional authority**
   - [`aot-japanese-voice-and-vocabulary-ledger` — AOT JAPANESE VOICE AND VOCABULARY LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_JAPANESE_VOICE_AND_VOCABULARY_LEDGER.md) — **active provisional authority**
   - [`aot-relationship-conditioned-behavior-ledger` — AOT RELATIONSHIP CONDITIONED BEHAVIOR LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_RELATIONSHIP_CONDITIONED_BEHAVIOR_LEDGER.md) — **active provisional authority**
+
+### Felt
+
+- Entity ID: `re-zero:felt`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:felt@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `volume-1-bounded`: LIGHT_NOVEL VOLUME: Character-specific analysis in the frozen Japanese main light-novel Volume 1 reading. V01-E1 through V01-E4 are distinct event-states within one continuity; the surviving endpoint is V01-E4. Discarded experiences remain evidence only for the relevant event/knower, not mutual remembered history. No later volume, web novel, IF route, supplement or adaptation is enrolled, and no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`volume-1-individual-analysis` — Volume 1 bounded individual model and event-state analysis](series/re-zero/02%20Sequential%20Readings/REZERO_LN_V01_DEEP_READING.md)
 
 ### Fido
 
@@ -3365,6 +3405,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`kyouka-queen-comparison` — Kyouka × Queen — To Be Hero X](series/maebashi-witches/V1%20Analysis/05%20Comparative%20Analysis/MAEBASHI_CROSS_SERIES_INTERACTION_REFERENCE.md)
 
+### Kōenji Rokusuke
+
+- Entity ID: `classroom-of-the-elite:koenji-rokusuke`
+- Entity aliases:
+  - _None._
+
+#### Subject: Classroom of the Elite original light novels through Year 2
+
+- Analysis subject ID: `classroom-of-the-elite:koenji-rokusuke@original-light-novels-through-year-2`
+- Series: `classroom-of-the-elite`
+- Continuity: `classroom-of-the-elite-original-light-novels`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `year-2-individual-ledger`: LIGHT_NOVEL VOLUME: Bounded individual interpretation in the frozen Year 2/Second List character ledger: inherited Year 1 baseline and Japanese-primary Year 2 through Volume 12.5, with Volume 0 kept at its stated retrospective position. Second List is qualified documentary/measurement context, not a total character model. Current Year 3 successors were checked for routing; no Year 3 narrative or later-life coverage is enrolled.; continuity `classroom-of-the-elite-original-light-novels`
+- Reviewed current evidence:
+  - [`year-2-rivals-ledger` — Year 2 rival-leader individual analysis](series/classroom-of-the-elite/03%20Year%202%20Definitive%20Second%20Pass/03%20Rolling%20Ledgers/COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y2.md)
+
 ### Kōsaka Kirino
 
 - Entity ID: `oreimo:kosaka-kirino`
@@ -4063,6 +4123,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-character-ledger` — Nagomi Kinoshita longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Nagomi%20Kinoshita/RAG_NAGOMI_EVIDENCE_LEDGER.md)
 
+### Nagumo Miyabi
+
+- Entity ID: `classroom-of-the-elite:nagumo-miyabi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Classroom of the Elite original light novels through Year 2
+
+- Analysis subject ID: `classroom-of-the-elite:nagumo-miyabi@original-light-novels-through-year-2`
+- Series: `classroom-of-the-elite`
+- Continuity: `classroom-of-the-elite-original-light-novels`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `year-2-individual-ledger`: LIGHT_NOVEL VOLUME: Bounded individual interpretation in the frozen Year 2/Second List character ledger: inherited Year 1 baseline and Japanese-primary Year 2 through Volume 12.5, with Volume 0 kept at its stated retrospective position. Second List is qualified documentary/measurement context, not a total character model. Current Year 3 successors were checked for routing; no Year 3 narrative or later-life coverage is enrolled.; continuity `classroom-of-the-elite-original-light-novels`
+- Reviewed current evidence:
+  - [`year-2-rivals-ledger` — Year 2 rival-leader individual analysis](series/classroom-of-the-elite/03%20Year%202%20Definitive%20Second%20Pass/03%20Rolling%20Ledgers/COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y2.md)
+
 ### Nakiri Alice
 
 - Entity ID: `shokugeki-no-soma:nakiri-alice`
@@ -4579,6 +4659,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`aot-japanese-voice-and-vocabulary-ledger` — AOT JAPANESE VOICE AND VOCABULARY LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_JAPANESE_VOICE_AND_VOCABULARY_LEDGER.md) — **active provisional authority**
   - [`aot-relationship-conditioned-behavior-ledger` — AOT RELATIONSHIP CONDITIONED BEHAVIOR LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_RELATIONSHIP_CONDITIONED_BEHAVIOR_LEDGER.md) — **active provisional authority**
 
+### Reinhard
+
+- Entity ID: `re-zero:reinhard`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:reinhard@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `volume-1-bounded`: LIGHT_NOVEL VOLUME: Character-specific analysis in the frozen Japanese main light-novel Volume 1 reading. V01-E1 through V01-E4 are distinct event-states within one continuity; the surviving endpoint is V01-E4. Discarded experiences remain evidence only for the relevant event/knower, not mutual remembered history. No later volume, web novel, IF route, supplement or adaptation is enrolled, and no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`volume-1-individual-analysis` — Volume 1 bounded individual model and event-state analysis](series/re-zero/02%20Sequential%20Readings/REZERO_LN_V01_DEEP_READING.md)
+
 ### Reinhard von Lohengramm
 
 - Entity ID: `legend-of-the-galactic-heroes:reinhard-von-lohengramm`
@@ -4640,6 +4740,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `rito-oriya-reviewed-corpus`: LIGHT_NOVEL VOLUME: Canonical character reference profile over the locked original-Japanese Volumes 1-14, with Alter.1 used where the profile admits it and Alter.2 excluded from mainline characterization.; continuity `86-eighty-six-original-light-novels`
 - Reviewed current evidence:
   - [`86-rito-character-reference-profile` — 86 RITO CHARACTER REFERENCE PROFILE](series/86-eighty-six/V2%20Analysis/04%20Evidence%20and%20Indexes/Character%20Modeling%20Reference/86_RITO_CHARACTER_REFERENCE_PROFILE.md)
+
+### Rom
+
+- Entity ID: `re-zero:rom`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:rom@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `volume-1-bounded`: LIGHT_NOVEL VOLUME: Character-specific analysis in the frozen Japanese main light-novel Volume 1 reading. V01-E1 through V01-E4 are distinct event-states within one continuity; the surviving endpoint is V01-E4. Discarded experiences remain evidence only for the relevant event/knower, not mutual remembered history. No later volume, web novel, IF route, supplement or adaptation is enrolled, and no formal arc ID is asserted.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`volume-1-individual-analysis` — Volume 1 bounded individual model and event-state analysis](series/re-zero/02%20Sequential%20Readings/REZERO_LN_V01_DEEP_READING.md)
 
 ### Roswaal
 
@@ -4784,6 +4904,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-character-ledger` — Ruka Sarashina longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Ruka%20Sarashina/RAG_RUKA_EVIDENCE_LEDGER.md)
 
+### Ryūen Kakeru
+
+- Entity ID: `classroom-of-the-elite:ryuen-kakeru`
+- Entity aliases:
+  - _None._
+
+#### Subject: Classroom of the Elite original light novels through Year 2
+
+- Analysis subject ID: `classroom-of-the-elite:ryuen-kakeru@original-light-novels-through-year-2`
+- Series: `classroom-of-the-elite`
+- Continuity: `classroom-of-the-elite-original-light-novels`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `year-2-individual-ledger`: LIGHT_NOVEL VOLUME: Bounded individual interpretation in the frozen Year 2/Second List character ledger: inherited Year 1 baseline and Japanese-primary Year 2 through Volume 12.5, with Volume 0 kept at its stated retrospective position. Second List is qualified documentary/measurement context, not a total character model. Current Year 3 successors were checked for routing; no Year 3 narrative or later-life coverage is enrolled.; continuity `classroom-of-the-elite-original-light-novels`
+- Reviewed current evidence:
+  - [`year-2-rivals-ledger` — Year 2 rival-leader individual analysis](series/classroom-of-the-elite/03%20Year%202%20Definitive%20Second%20Pass/03%20Rolling%20Ledgers/COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y2.md)
+
 ### Saeki Haruko
 
 - Entity ID: `idoly-pride:saeki-haruko`
@@ -4870,6 +5010,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`opm-character-model-readiness-index` — OPM CHARACTER MODEL READINESS INDEX](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_CHARACTER_MODEL_READINESS_INDEX.md)
   - [`opm-relationship-state-ledger` — OPM RELATIONSHIP STATE LEDGER](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_RELATIONSHIP_STATE_LEDGER.md)
   - [`opm-saitama-character-state-ledger` — OPM SAITAMA CHARACTER STATE LEDGER](series/one-punch-man/03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_SAITAMA_CHARACTER_STATE_LEDGER.md)
+
+### Sakayanagi Arisu
+
+- Entity ID: `classroom-of-the-elite:sakayanagi-arisu`
+- Entity aliases:
+  - _None._
+
+#### Subject: Classroom of the Elite original light novels through Year 2
+
+- Analysis subject ID: `classroom-of-the-elite:sakayanagi-arisu@original-light-novels-through-year-2`
+- Series: `classroom-of-the-elite`
+- Continuity: `classroom-of-the-elite-original-light-novels`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `year-2-individual-ledger`: LIGHT_NOVEL VOLUME: Bounded individual interpretation in the frozen Year 2/Second List character ledger: inherited Year 1 baseline and Japanese-primary Year 2 through Volume 12.5, with Volume 0 kept at its stated retrospective position. Second List is qualified documentary/measurement context, not a total character model. Current Year 3 successors were checked for routing; no Year 3 narrative or later-life coverage is enrolled.; continuity `classroom-of-the-elite-original-light-novels`
+- Reviewed current evidence:
+  - [`year-2-rivals-ledger` — Year 2 rival-leader individual analysis](series/classroom-of-the-elite/03%20Year%202%20Definitive%20Second%20Pass/03%20Rolling%20Ledgers/COTE_CHAR_LEDGER_RIVALS_LEADERS_THROUGH_Y2.md)
 
 ### Saki
 
@@ -6560,6 +6720,153 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`character-model` — Bounded character analysis through V15](series/mushoku-tensei/04%20Character%20Analysis/zanoba/RECONSTRUCTION_MODEL.md)
 
+### ターシャ・ロマノフスキー
+
+- Entity ID: `tokyo-7th-sisters:tasha-romanovsky`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:tasha-romanovsky@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-sol`: GAME STORY_CHAPTER: Character-specific distributed analysis of complete Main Episode 5.0, T7S_B0064–T7S_B0069, with the 2043 current frame kept distinct from childhood memories. Earlier/later i-n-g chapters and later outcomes are not enrolled by this coverage. Japanese offline witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This locates analysis, not appearances in every episode. No performed voice, singing, technical performance, continuous motion or complete biography is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Bounded identity, character state and directional relationships](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### 上杉・ウエバス・キョーコ
+
+- Entity ID: `tokyo-7th-sisters:uesugi-uebasu-kyoko`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:uesugi-uebasu-kyoko@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-nanasuta`: GAME STORY_CHAPTER: Character-specific distributed analysis of EPISODE NANASUTA T7S_B0077, Main episodes 1013100101–1013100105. Earlier B0031/B0032 and later B0079 or i-n-g updates are contextual leads, not enrolled coverage. Japanese offline witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This locates analysis, not appearances in every episode. No performed voice, singing, technical performance, continuous motion or complete biography is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Bounded identity, character state and directional relationships](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### 六咲コニー
+
+- Entity ID: `tokyo-7th-sisters:rokusaki-coney`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:rokusaki-coney@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-sisters`: GAME STORY_CHAPTER: Character-specific distributed analysis of the retrospective Main EPISODE 0.0 and EPISODE 0.7 material, T7S_B0055–T7S_B0063, including separately qualified childhood memories and 2031/2032 scenes. Later Coney stewardship, Mana mentoring and reported subsequent lives are not enrolled by this coverage. Japanese offline witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This locates analysis, not appearances in every episode. No performed voice, singing, technical performance, continuous motion or complete biography is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Bounded identity, character state and directional relationships](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### 寿クルト
+
+- Entity ID: `tokyo-7th-sisters:kotobuki-kurt`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:kotobuki-kurt@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-sisters`: GAME STORY_CHAPTER: Character-specific distributed analysis of the retrospective Main EPISODE 0.0 and EPISODE 0.7 material, T7S_B0055–T7S_B0063, including separately qualified childhood memories and 2031/2032 scenes. Later Coney stewardship, Mana mentoring and reported subsequent lives are not enrolled by this coverage. Japanese offline witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This locates analysis, not appearances in every episode. No performed voice, singing, technical performance, continuous motion or complete biography is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Bounded identity, character state and directional relationships](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### 御園尾マナ
+
+- Entity ID: `tokyo-7th-sisters:misonoo-mana`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:misonoo-mana@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-sisters`: GAME STORY_CHAPTER: Character-specific distributed analysis of the retrospective Main EPISODE 0.0 and EPISODE 0.7 material, T7S_B0055–T7S_B0063, including separately qualified childhood memories and 2031/2032 scenes. Later Coney stewardship, Mana mentoring and reported subsequent lives are not enrolled by this coverage. Japanese offline witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This locates analysis, not appearances in every episode. No performed voice, singing, technical performance, continuous motion or complete biography is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Bounded identity, character state and directional relationships](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### 星柿マノン
+
+- Entity ID: `tokyo-7th-sisters:hoshigaki-manon`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:hoshigaki-manon@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-sol`: GAME STORY_CHAPTER: Character-specific distributed analysis of complete Main Episode 5.0, T7S_B0064–T7S_B0069, with the 2043 current frame kept distinct from childhood memories. Earlier/later i-n-g chapters and later outcomes are not enrolled by this coverage. Japanese offline witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This locates analysis, not appearances in every episode. No performed voice, singing, technical performance, continuous motion or complete biography is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Bounded identity, character state and directional relationships](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### 有栖シラユキ
+
+- Entity ID: `tokyo-7th-sisters:arisu-shirayuki`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:arisu-shirayuki@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-sol`: GAME STORY_CHAPTER: Character-specific distributed analysis of complete Main Episode 5.0, T7S_B0064–T7S_B0069, with the 2043 current frame kept distinct from childhood memories. Earlier/later i-n-g chapters and later outcomes are not enrolled by this coverage. Japanese offline witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This locates analysis, not appearances in every episode. No performed voice, singing, technical performance, continuous motion or complete biography is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Bounded identity, character state and directional relationships](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
 ### 桂木カヅミ
 
 - Entity ID: `tokyo-7th-sisters:katsuragi-kazumi`
@@ -6581,3 +6888,66 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
   - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### 瀬戸ファーブ
+
+- Entity ID: `tokyo-7th-sisters:seto-ferb`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:seto-ferb@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-nanasuta`: GAME STORY_CHAPTER: Character-specific distributed analysis of EPISODE NANASUTA T7S_B0077, Main episodes 1013100101–1013100105. Earlier B0031/B0032 and later B0079 or i-n-g updates are contextual leads, not enrolled coverage. Japanese offline witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This locates analysis, not appearances in every episode. No performed voice, singing, technical performance, continuous motion or complete biography is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Bounded identity, character state and directional relationships](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### 羽生田ミト
+
+- Entity ID: `tokyo-7th-sisters:hanyuda-mito`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:hanyuda-mito@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-sisters`: GAME STORY_CHAPTER: Character-specific distributed analysis of the retrospective Main EPISODE 0.0 and EPISODE 0.7 material, T7S_B0055–T7S_B0063, including separately qualified childhood memories and 2031/2032 scenes. Later Coney stewardship, Mana mentoring and reported subsequent lives are not enrolled by this coverage. Japanese offline witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This locates analysis, not appearances in every episode. No performed voice, singing, technical performance, continuous motion or complete biography is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Bounded identity, character state and directional relationships](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### 遊佐メモル
+
+- Entity ID: `tokyo-7th-sisters:yusa-memoru`
+- Entity aliases:
+  - _None._
+
+#### Subject: Tokyo 7th Sisters game
+
+- Analysis subject ID: `tokyo-7th-sisters:yusa-memoru@game`
+- Series: `tokyo-7th-sisters`
+- Continuity: `tokyo-7th-sisters-game`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-sisters`: GAME STORY_CHAPTER: Character-specific distributed analysis of the retrospective Main EPISODE 0.0 and EPISODE 0.7 material, T7S_B0055–T7S_B0063, including separately qualified childhood memories and 2031/2032 scenes. Later Coney stewardship, Mana mentoring and reported subsequent lives are not enrolled by this coverage. Japanese offline witness T7S_GAME_OFFLINE_JA_R484 (c20260909-r484). This locates analysis, not appearances in every episode. No performed voice, singing, technical performance, continuous motion or complete biography is claimed.; continuity `tokyo-7th-sisters-game`
+- Reviewed current evidence:
+  - [`claim-evidence-ledger` — Individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
+  - [`entity-state-ledger` — Bounded identity, character state and directional relationships](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)

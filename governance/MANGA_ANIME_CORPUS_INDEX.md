@@ -35,6 +35,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Mushoku Tensei](../series/mushoku-tensei/) — `series/mushoku-tensei/` — Sequential analysis of the published Japanese light novels, with source locks, volume readings, six longitudinal ledgers and bounded reconstruction models. The canonical entrypoint records exact coverage, publication/audit gates and the authorized V15 terminal boundary; private primary evidence remains in Drive.
 - [My Hero Academia](../series/my-hero-academia/) — `series/my-hero-academia/`
 - [NANA](../series/nana/) — `series/nana/`
+- [NTR: Netsuzou Trap](../series/ntr-netsuzou-trap/) — `series/ntr-netsuzou-trap/` — Provisional Japanese manga bootstrap awaiting owner audit; V01–V06 EPUBs inventoried in Drive, no narrative volume admitted or inspected, supplements quarantined, sequential lock CLOSED.
 - [One Punch Man](../series/one-punch-man/) — `series/one-punch-man/`
 - [Oregairu](../series/oregairu/) — `series/oregairu/`
 - [Oreimo](../series/oreimo/) — `series/oreimo/`

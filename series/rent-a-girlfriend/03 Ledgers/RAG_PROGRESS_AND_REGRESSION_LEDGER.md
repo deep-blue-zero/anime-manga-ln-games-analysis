@@ -4,13 +4,13 @@ artifact_id: RAG_PROGRESS_AND_REGRESSION_LEDGER
 artifact_type: progress_regression_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V040; inspected and closed through V040."
 ---
 
 # Progress and regression ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V030
-row_count: 174
-state: CURRENT_THROUGH_V030
+inspected_through_volume: V033
+row_count: 180
+state: CURRENT_THROUGH_V033
 ```
 
 ## Records
@@ -216,3 +216,64 @@ state: CURRENT_THROUGH_V030
 | RAG-PRG-172 | Audience truth | NEW_CONCEALMENT_COST — Kazuya misstates his residence to Ruka and leaves Nagomi's false couple premise intact. | Greater intimacy with one audience increases the information debt to others. | Their informed reactions are untested. | RAG-E-V030-001 |
 | RAG-PRG-173 | Birthday care | REQUESTED_LIMIT_WITH_UNPERFORMED_INTENTION — Chizuru says no present, and Sumi helps Kazuya consider a modest acknowledgment. | Care becomes a specific boundary test rather than a general romantic proof. | No birthday outcome or gift acceptance is shown. | RAG-E-V030-006, RAG-E-V030-008 |
 | RAG-PRG-174 | Former-partner contact | REOPENED_MAMI_ROUTE_WITH_OPAQUE_END — she initiates a meeting and hears Kazuya's apology. | Silence after the resort is broken without resolving her goal. | Warm presentation and abrupt exit do not identify motive. | RAG-E-V030-007 |
+| RAG-PRG-175 | Birthday care | PLURAL_RECOGNITION_AND_REVISED_GIFT_LIMIT — the troupe and household celebrate, and Chizuru accepts Kazuya's coupon after clarifying her request. | The local no-present impasse resolves by Chizuru's own choice. | Recognition and gift acceptance do not settle romance. | RAG-E-V031-001 through RAG-E-V031-007 |
+| RAG-PRG-176 | Investigation | DIRECT_UNCERTAINTY_WITH_CONTINUED_TEST — Chizuru tells Sumi she cannot classify care as love and asks Mini for testimony. | Her inquiry becomes more directly evidenced but remains unfinished. | Mini's advocacy and Kazuya's anxiety cannot stand in for an answer. | RAG-E-V031-004, RAG-E-V031-010 |
+| RAG-PRG-177 | Household horizon | EXPLICIT_EXIT_CLOCK_WITH_PRIVACY_FRICTION — May 13 is named and Mini's bath tactic crosses a private boundary. | Domestic access carries practical time and consent costs. | The move has not occurred; no romance is purchased by proximity. | RAG-E-V031-008 through RAG-E-V031-010 |
+| RAG-PRG-178 | Investigation | THIRD_PARTY_TESTIMONY_WITH_UNRESOLVED_RESULT — Mini answers Chizuru's question about Kazuya. | Chizuru gathers another person's view instead of declaring an answer. | Mini's favorable report cannot identify Chizuru's own feeling. | RAG-E-V032-001 |
+| RAG-PRG-179 | Household and consent | PRACTICAL_CONTACT_WITH_LOCAL_LIMITS — moving help, shopping, a spider task, and chosen night company broaden ordinary access. | Continued cohabitation has material texture and voluntary initiative. | Storeroom proximity and shared drinks do not create sexual permission, dating status, or residence extension. | RAG-E-V032-002 through RAG-E-V032-011 |
+| RAG-PRG-180 | Interpretation and unresolved route | PRIVATE_REAPPRAISAL_AND_CAFE_CUT — Kazuya revises his idealized view internally; the final page opens a separate cafe conversation. | His appraisal improves while a new social contact may matter later. | His thought is unheard, and the cafe companion's identity and effect remain unknown. | RAG-E-V032-009, RAG-E-V032-012 |
+| RAG-PRG-181 | Consent and intervention | BOUNDED_PLAY_WITH_PRESSURE — Mini's Twister theory produces awkward movement, Chizuru's comfort adjustment, a stop, and a group photo. | The household can share play without treating it as a romantic verdict. | Forced proximity and an image do not supply wider permission or status. | RAG-E-V033-002 through RAG-E-V033-004 |
+| RAG-PRG-182 | Rival and information | EXPLICIT_PROPOSAL_WITH_INTERRUPTED_REPLY — Umi visits and renews his confession; Chizuru begins to respond, but he postpones hearing her answer. | Rival interest and Umi's chosen delay become explicit, with hidden listeners. | Chizuru's intended answer and the full prior cafe exchange remain omitted. | RAG-E-V033-005 through RAG-E-V033-009 |
+| RAG-PRG-183 | Investigation and access | CHOSEN_DATE_PROPOSAL — Chizuru directly invites Kazuya and names a date. | The inquiry gains a specific, unpriced two-person prospective setting. | No date outcome, final feeling classification, or truthful public status is established. | RAG-E-V033-010 through RAG-E-V033-012 |
+| RAG-PRG-184 | Household deadline | STATED_PRESSURE_WITH_UNCHANGED_TERM — Kazuya counts remaining residence time and fears the answer may not arrive before moving. | May 13 continues to shape his decisions. | V033 shows no amended residence term or completed exit. | RAG-E-V033-001, RAG-E-V033-009 |
+| RAG-PRG-185 | Investigation and chosen access | REVISED_OUTING_WITH_FAMILY_EVIDENCE — Chizuru accompanies Kazuya to Harumi's nursery, observes him, and says she enjoyed it. | Her inquiry receives direct ordinary-behavior evidence and family testimony. | No aquarium date or final classification is shown. | RAG-E-V034-001 through RAG-E-V034-005 |
+| RAG-PRG-186 | Household honesty | SMALL_LIE_CORRECTED_AFTER_CHALLENGE — Kazuya misstates his soap use, then acknowledges the lie when asked. | Chizuru articulates a truth norm for the ongoing investigation. | The initial lie remains a regression; no broad correction follows. | RAG-E-V034-007 |
+| RAG-PRG-187 | Privacy and routine | ACCIDENTAL_LAUNDRY_ACCESS — an open washer exposes intimate garments, Kazuya tries to disclose the incident, and Mini's arrival changes the scene. | Shared-house privacy receives a concrete stress test. | Embarrassment is not sexual permission or a final rupture. | RAG-E-V034-008 |
+| RAG-PRG-188 | Third-party staging | GAME_QUESTION_UNRESOLVED — Mini's `ito` rules and romantic theme yield number cards before a cut. | Another staged prompt reaches the principals. | A random card cannot stand in for Chizuru's spoken answer. | RAG-E-V034-009, RAG-E-V034-010 |
+
+## V035 close additions
+
+| RAG-PRG-189 | Chizuru's inquiry | EXTERNAL_TESTIMONY_ADDED | Asks Kibe about Kazuya and hears his friendship account; Kibe's direct liking question goes unanswered. | Evidence gathering advances without a romantic verdict; RAG-E-V035-003, RAG-E-V035-004. |
+| RAG-PRG-190 | Kazuya's ordinary care | BOUNDED_PROGRESS | Cooks for Chizuru during her period and responds to a concrete sweet request after she grants room entry. | Care is real, while internet stereotypes and overinterpretation remain active; RAG-E-V035-005 through RAG-E-V035-008. |
+| RAG-PRG-191 | Family truth | PRESSURE_INCREASED | Nagomi repairs part of her professional prejudice but continues to imagine a wedding; Chizuru feels the unresolved deception and tells Kazuya of the booking. | Partial repair makes the remaining false couple status more salient, not corrected; RAG-E-V035-010 through RAG-E-V035-012. |
+| RAG-PRG-192 | Housing clock | UNCERTAIN_REVISION | Kazuya gives a tentative later move estimate when Chizuru asks. | May 13 should no longer be repeated as an unquestioned exact deadline; no new fixed date exists; RAG-E-V035-002. |
+
+## V036 close additions
+
+| RAG-PRG-193 | Sumi's witness position | LIMITED_DEVELOPMENT | Thinks privately about the V035 arcade sighting and the pair's proximity. | No new testimony or contact; RAG-E-V036-001. |
+| RAG-PRG-194 | Family truth | UNCORRECTED | Kazuya and Nagomi discuss the paid outing by phone while continuing to presume a relationship. | Booking fact travels, couple-status error remains; RAG-E-V036-002. |
+| RAG-PRG-195 | Housing clock | FIXED_FUTURE_DATE | A rental contract gives May 18 as Kazuya's move-in day. | Replaces V035 tentative estimate as a plan, not a completed exit; RAG-E-V036-006. |
+| RAG-PRG-196 | Chizuru's inquiry and private time | SCHEDULED_PROGRESS | Kazuya asks for an unpaid date; Chizuru offers May 17 and calendars it. | Mutual plan advances; investigation and outing are unfinished; RAG-E-V036-008 through RAG-E-V036-010. |
+| RAG-PRG-197 | Kazuya's gaze and conduct | MIXED | He voices a clear invitation but later sexualizes a routine kitchen incident while trying to help. | Neither private desire nor comic panic nullifies the agreed date or proves access; RAG-E-V036-008, RAG-E-V036-012. |
+
+## V037 close additions
+
+| RAG-PRG-198 | Chizuru's inquiry | ACTIVE_SELF_REFLECTION | Says feelings cannot be switched on, chooses to attend and find her answer. | Deliberate process without final verdict; RAG-E-V037-001, RAG-E-V037-006. |
+| RAG-PRG-199 | Date planning | BILATERAL_NARROW_PROGRESS | Ordinary date, hotpot taste, and 9 a.m. shared departure are communicated. | Draft Joypolis and meal schedule remain Kazuya's; RAG-E-V037-003, RAG-E-V037-005, RAG-E-V037-010. |
+| RAG-PRG-200 | Housing clock | FUTURE_DEADLINE_SALIENT | Kazuya frames May 17 as the day before the scheduled May 18 move. | No packing, contract change, or actual exit; RAG-E-V037-008, RAG-E-V037-010. |
+| RAG-PRG-201 | Sexual expectation | PRIVATE_RISK_OF_OVERREADING | Kuri's advice and a condom purchase amplify Kazuya's fantasies. | No Chizuru assent or completed sexual contact; RAG-E-V037-004. |
+| RAG-PRG-202 | Third-party pressure | OPEN | Mini coaches through a separate hotpot meal; Mami appears only in a final cut. | No family correction, Sumi contact, or Mami intervention; RAG-E-V037-007, RAG-E-V037-011. |
+
+## V038 close additions
+
+| RAG-PRG-203 | Date method | RECIPROCAL_PROGRESS | Chizuru joins the Joypolis preview and asks for shared pace and unscripted conversation. | No final answer; RAG-E-V038-005, -008. |
+| RAG-PRG-204 | Kazuya planning | MIXED | Buys shoes and checks route, yet keeps imagining a score and worries about burdening her. | Effort is useful but can become projection; RAG-E-V038-003, -004, -011. |
+| RAG-PRG-205 | Mami pressure | NEW_PRIVATE_OBSERVATION | Mami asks herself about love and later watches the pair from a cafe. | No contact or interference yet; RAG-E-V038-002, -007. |
+| RAG-PRG-206 | Housing clock | UNCHANGED | May 18 remains ahead; no packing or revised boundary appears. | RAG-PRED-147 not supported; RAG-E-V038-011. |
+| RAG-PRG-207 | Acting world | NEW_OBSERVER_THREAD | Miho's professional disaffection and discomfort with Chizuru enter the record. | No established effect on the date; RAG-E-V038-010. |
+
+## V039 close additions
+
+| RAG-PRG-208 | Reciprocal date practice | PROGRESS | Chizuru chooses games, rides, a romance quiz and conversation. | Preview remains distinct from May 17; RAG-E-V039-001 through -005. |
+| RAG-PRG-209 | Expressed feeling | PROGRESS_WITH_OPEN_RESPONSE | Kazuya plainly says he likes Chizuru after her question about Mami. | No answer or official partnership; RAG-E-V039-009. |
+| RAG-PRG-210 | Mami pressure | DIRECT_CONTACT | Mami probes couple status, denies Hakuba is boyfriend and privately reacts. | No intervention; RAG-E-V039-006 through -008. |
+| RAG-PRG-211 | Time and housing | CLOCK_ADVANCES | Six days remain to May 17 as home companionship continues. | No May 18 move logistics or changed residence; RAG-E-V039-010. |
+| RAG-PRG-212 | Acting world | NO_NEW_CONSEQUENCE | Miho does not carry her V038 tension into a substantive exchange. | RAG-PRED-152 not supported. |
+
+## V040 close additions
+
+| RAG-PRG-213 | Date execution | PROGRESS_WITH_OPEN_OUTCOME | Both leave on May 17, reach Joypolis and continue despite rain. | Venue activity and final answer remain future; RAG-E-V040-008 through -012. |
+| RAG-PRG-214 | Direct personhood and agency | PROGRESS_WITH_OPEN_RESPONSE | Naming, Sayuri film, private preparation, Ruka question and umbrella request show Chizuru's choices. | No couple agreement; RAG-E-V040-001, -005, -007, -009, -012. |
+| RAG-PRG-215 | Ruka truth debt | REGRESSION_AND_PARTIAL_DISCLOSURE | Kazuya says a move is imminent but hides cohabitation and date while accepting her help. | The trial and informed separation remain unresolved; RAG-E-V040-002, -003. |
+| RAG-PRG-216 | Housing | CLOCK_ADVANCES | New-home key and next-week move statement make logistics tangible. | May 18 transition is not executed; RAG-E-V040-003. |
+| RAG-PRG-217 | Mami pressure | NO_NEW_CONSEQUENCE | Mami has no meaningful V040 appearance. | RAG-PRED-155 not supported. |
