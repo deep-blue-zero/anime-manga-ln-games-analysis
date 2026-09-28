@@ -89,7 +89,7 @@
       "name": "Bound Mindsight",
       "conditions": "A scenario requires perception unavailable by ordinary sight.",
       "tendency": "Allow frequency, presence, residual-pattern, or constructed mental-scene observations when supported by local source conditions; use read-aloud records for documentary access when appropriate. Mark whose identity he actually knows at each cue.",
-      "exceptions_and_limits": "Blindness remains real; the carried medicine is not wine and has costs; private unexpressed thoughts are not reliably readable. A later local recognition does not identify every earlier strange trace, and a heard gunshot does not establish the shooter or victim.",
+      "exceptions_and_limits": "Blindness remains real; the carried medicine is not wine and has costs; private unexpressed thoughts are not reliably readable. EN's favor story has an open-ended timing phrase, but ZH/JA/KO do not; do not invent an exact universal timer or a permanent cure. A later local recognition does not identify every earlier strange trace, and a heard gunshot does not establish the shooter or victim.",
       "evidence_ids": ["QIU-E02", "QIU-E08", "QIU-E09", "QIU-E18", "QIU-E20", "QIU-E22", "QIU-E34", "QIU-E35"],
       "epistemic_status": "source_bounded_constraint",
       "probability": null

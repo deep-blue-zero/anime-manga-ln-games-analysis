@@ -218,6 +218,16 @@ def validate(source_root: Path | None) -> dict:
         require(Counter(row["character_attribution"] for row in decisions) == {"accepted_solo": 187, "unresolved": 1}, "identity crosswalk state counts", checks)
         package = json.loads((source / "character_source_package.json").read_text(encoding="utf-8"))
         archive = {row["content"]["text_key"]: row for row in package["favor_words"]}
+        stories = {row["content"]["text_key"]: row for row in package["favor_stories"]}
+        hut_text = stories["FavorStory_141102_Content"]["content"]["values"]
+        require("重新勾起" in hut_text["zh-Hans"]["content"]
+                and "at least for a little while" in hut_text["en"]["content"]
+                and "再び呼び覚ます" in hut_text["ja"]["content"]
+                and "다시 불러일으킬" in hut_text["ko"]["content"],
+                "hut medicine reawakening and EN-only open-ended timing clause", checks)
+        require("必须用这种特殊的药" in archive["FavorWord_141111_Content"]["content"]["values"]["zh-Hans"]["content"]
+                and "陷入迷狂" in archive["FavorWord_141111_Content"]["content"]["values"]["zh-Hans"]["content"],
+                "later special-medicine dependency and mental-risk Chinese anchor", checks)
         ascension_keys = [f"FavorWord_{key}_Content" for key in range(141127, 141132)]
         require(all(key in archive for key in ascension_keys), "five ascension archive entries retained", checks)
         require(all(archive[key]["content"]["values"][language]["status"] == "resolved"
