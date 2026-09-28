@@ -5,7 +5,7 @@ artifact_type: analytical_method
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
 version: "0.1"
-status: active_provisional
+status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ canonical_home: series/watayuri/00 Frameworks and Methods/WATAYURI_ANALYTICAL_ME
 
 # Analytical method
 
-**Responsibility:** decide what to observe and how strongly an observation supports an interpretation. The [architecture](WATAYURI_SYNTHESIS_ARCHITECTURE.md) decides where durable results belong. This method is provisional pending owner audit. It contains no findings about the manga.
+**Responsibility:** decide what to observe and how strongly an observation supports an interpretation. The [architecture](WATAYURI_SYNTHESIS_ARCHITECTURE.md) decides where durable results belong. The owner approved this method on 2026-09-27 (America/New_York). It contains no findings about the manga.
 
 ## Witness and prospective discipline
 

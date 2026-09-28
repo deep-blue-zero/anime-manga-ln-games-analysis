@@ -5,7 +5,7 @@ artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
 version: "0.1"
-status: active_provisional
+status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -27,4 +27,4 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY
 
 **Update and revision rule.** Update when choices or boundary/repair trajectory materially change. Do not close a rupture merely because an apology occurred. Link later behavior as a dated continuation and retain the earlier prospective assessment. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** `NO_NARRATIVE_EVIDENCE_INSPECTED_AT_BOOTSTRAP`. Evidence rows: **zero**. The schema lists prospective fields, not findings. Next update is conditional on owner approval, an OPEN sequential-analysis lock, and a completed source-unit transaction.
+**Coverage:** `NO_NARRATIVE_EVIDENCE_INSPECTED_AT_BOOTSTRAP`. Evidence rows: **zero**. The schema lists prospective fields, not findings. The owner-approved sequential-analysis lock is OPEN; add evidence only within a completed, authorized source-unit transaction.

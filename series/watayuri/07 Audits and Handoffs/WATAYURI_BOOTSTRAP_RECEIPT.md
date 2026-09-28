@@ -5,7 +5,7 @@ artifact_type: bootstrap_receipt
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
 version: "0.1"
-status: active_provisional
+status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -63,3 +63,9 @@ Only the named root and its local descriptor are authored here. Housekeeping own
 Assess whether all nine day-one instruments earn independent retrieval homes, especially whether speech and staging need this level of separation; whether the proposed page/EPUB locator policy is practical once V01 is structurally verified; and when or whether the V10 booklet and embedded bonus material deserve separate admission. The source file hashes have not been remotely rechecked. A future published-volume boundary has not been independently verified. These are explicit unresolved decisions, not defects silently resolved by the bootstrap.
 
 **Next permitted operation:** owner audit of the Watayuri bootstrap architecture. Do not begin V01 until the owner approves the foundation and explicitly authorizes opening the sequential-analysis lock. This receipt documents construction and checks; it does not substitute for the owner's audit.
+
+## Owner review and initiation-gate transition — 2026-09-27 America/New_York
+
+The owner reviewed the published bootstrap branch, approved it, and explicitly authorized unlocking sequential analysis. The bootstrap's `active_provisional` and `CLOSED` statements above remain an accurate **as-of-bootstrap** record; they are no longer the project's current state. The owner approval promotes the reviewed architecture and day-one scaffold to `canonical`, changes the local series descriptor to `PRESENT_REVIEWED`, and sets `SEQUENTIAL_ANALYSIS_LOCK = OPEN` in the sole [current entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md). The pre-transition branch head `6c10c0b4180c0ec10cbf99018115d9eeaee83797` had a successful `Repository integration audit` status. The new unlock commit requires its own publication and exact-head checks.
+
+This transition involved no EPUB download or manga narrative reading. The next eligible operation is source verification/admission and one V01 volume transaction. The V10 booklet, packaged bonuses and later numbered volumes retain their separate admission limits; the owner did not authorize an unbounded continuing run in this approval message.

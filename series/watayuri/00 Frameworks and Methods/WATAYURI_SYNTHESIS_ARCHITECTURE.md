@@ -5,7 +5,7 @@ artifact_type: synthesis_architecture
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
 version: "0.1"
-status: active_provisional
+status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,13 +17,13 @@ canonical_home: series/watayuri/00 Frameworks and Methods/WATAYURI_SYNTHESIS_ARC
 
 # Synthesis and corpus architecture
 
-**Responsibility:** allocate evidence and changing interpretations to one canonical home each, and define how a prospective manga run could yield responsible synthesis. The [analytical method](WATAYURI_ANALYTICAL_METHOD.md) decides how to observe and judge. This `INITIAL` architecture is provisional pending owner audit, contains no series conclusions, and supersedes no prior architecture. The manga continuity is primary; the [source map](WATAYURI_SOURCE_AND_SCOPE_MAP.md) controls exact objects and quarantines supplements.
+**Responsibility:** allocate evidence and changing interpretations to one canonical home each, and define how a prospective manga run could yield responsible synthesis. The [analytical method](WATAYURI_ANALYTICAL_METHOD.md) decides how to observe and judge. The owner approved this `INITIAL` architecture on 2026-09-27 (America/New_York); it contains no series conclusions and supersedes no prior architecture. The manga continuity is primary; the [source map](WATAYURI_SOURCE_AND_SCOPE_MAP.md) controls exact objects and quarantines supplements.
 
 ## Topology and authority
 
 `CURRENT_STATE_AND_CORPUS_MAP.md` is the sole current entrypoint. `00 Frameworks and Methods/` holds method, this architecture, reconstruction rules, and source map. `03 Longitudinal Ledgers/` holds the nine initialized cumulative responsibilities below. `07 Audits and Handoffs/` holds the bootstrap receipt. A future authorized `02 Sequential Readings/WATAYURI_VNN_DEEP_READING.md` owns that volume's frozen source observations and prospective exit state. Future character evidence ledgers, models and monographs, dyadic/ensemble specialists, thematic specialists, checkpoints, and bounded syntheses are **planned artifact classes**, created only when evidence warrants a separate home. No placeholder folders or readings exist for them.
 
-All authored files are `active_provisional` at bootstrap: structurally current eligible, explicitly unreviewed by the owner. A later approval and authority promotion must be recorded, not inferred from valid Markdown or a passing validator. Raw manga and deterministic extraction outputs remain in Drive/working evidence planes. The public Git analytical plane may contain witness IDs, local-source hashes, short locators and interpretations, never source images or bulk copyrighted text.
+All authored files began as `active_provisional` at bootstrap. The owner's explicit review and approval promoted the scaffolding to `canonical` and opened the initiation lock in the entrypoint. This approval does not imply narrative coverage. Raw manga and deterministic extraction outputs remain in Drive/working evidence planes. The public Git analytical plane may contain witness IDs, local-source hashes, short locators and interpretations, never source images or bulk copyrighted text.
 
 ## Responsibility matrix
 
@@ -60,7 +60,7 @@ The claim ledger uses `PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT`,
 7. Advance the witness's inspection state, update the sole current entrypoint, freeze the volume endpoint, and identify the next candidate operation without automatically authorizing it.
 8. Validate and commit the complete transaction under the repository checklist. A partial reading does not advance the high-water mark.
 
-The continuation policy's `single_operation` default applies unless a future owner instruction expressly authorizes a bounded continuous run. The owner-audit lock remains CLOSED in this bootstrap.
+The continuation policy's `single_operation` default applies unless a future owner instruction expressly authorizes a bounded continuous run. The owner-approved lock is OPEN for a future V01 transaction; no sequential unit has yet begun.
 
 ## Synthesis dependencies and promotion
 

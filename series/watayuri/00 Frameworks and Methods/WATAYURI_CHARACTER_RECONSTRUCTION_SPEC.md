@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_specification
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
 version: "0.1"
-status: active_provisional
+status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
