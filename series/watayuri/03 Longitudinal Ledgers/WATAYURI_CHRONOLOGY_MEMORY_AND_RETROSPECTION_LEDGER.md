@@ -4,14 +4,14 @@ artifact_id: WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01 mainline Shifts 01–06 through i156; packaged Shift 6.5 separately; V02–V14 inventory only"
+source_boundary: "Japanese V01–V02 mainline through V02 Shift 11/i156; Shifts 6.5 and 11.5 separately bounded; V03–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMO
 
 **Update and revision rule.** Append retrospective records that link to earlier event IDs; revise the mature ordering if warranted while preserving original VNN presentation and uncertainty. Mark apparent contradiction OPEN when order or witness cannot be settled. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01 mainline Shifts 01–06 through i156, with Shift 6.5 i158–161 only where explicitly labeled supplementary. Initial records below preserve the V01 prospective freeze. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V02 mainline through V02 Shift 11/i156; packaged Shifts 6.5 and 11.5 remain separately bounded. V01 sections preserve the earlier prospective state; the dated V02 additions below carry the current account and do not overwrite that freeze. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -43,3 +43,25 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMO
 | **WY1-T06** | Packaged Shift 6.5 school-club consultation; supplementary depicted episode | The scene belongs to the school-life setting. Its exact placement relative to recruitment, work shifts, and the mainline cliffhanger is **OPEN**. | Publication order is not diegetic order. Preserve any future chronology reconciliation explicitly. V01/6.5/i158–161. |
 
 The final disclosure is a **within-V01 revelation**, not permission to replace the earlier memory with an unwritten, supposedly definitive version. Later retrospective evidence must distinguish changes to event facts, motives, interpretations, and the distribution of knowledge.
+
+
+<a id="v02"></a>
+## V02 — Current additions and transitions — 2026-09-28
+
+**V02 evidence key:** source-map key `V02`, Japanese witness `1fqlKmlu-OGXlsuyvu2F3UeKLzNvDg6fI`, SHA-256 `09737feab6ac2cec487c0ca44e9ae2db48d041addefd10c8734adaf8dba32be6`. The [frozen V02 reading](../02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md#close-reading) supplies the full observations and component/locator convention. Below, `iNNN` and unprefixed O/JP/VIS records refer to V02; `WY1-` identifies inherited records. Mainline ends at Shift 11/i156; i158–161 is the childhood Shift 11.5 supplement, not a later present-day event.
+
+### Chronology, memory, and retrospection
+
+
+
+| Record | Event time and presentation | Temporal confidence / causal confidence | Preservation requirement |
+| --- | --- | --- | --- |
+| **WY2-T01 — Fifth-grade transfer and established façade** | Childhood, before the piano friendship; first extensively shown in V02. | High for fifth-grade placement and order; high that ordinary performance precedes rupture. | Add to the current developmental account without inserting this evidence into V01’s earlier perspective. i005–011. |
+| **WY2-T02 — Duet, practice, and social pressure** | After the transfer; before withdrawal. Hime-focalized account includes dialogue and depicted interactions. | High for sequence; moderate for a complete account of everyone’s motives. | Separate peer accusations, Hime’s narration, Mitsuki’s acts, and later Mitsuki testimony. i017–037. |
+| **WY2-T03 — Withdrawal, exposure, and separation** | Teacher learns Hime’s decision; Mitsuki learns from teacher; exposure follows; concert and later transfer follow in the account. | High for order as presented; exact dates and reason for transfer open. | Preserve V01’s remembered harm, while appending the newly supplied antecedents. i037–044. |
+| **WY2-T04 — First café encounter replayed** | Occurred during V01’s opening; presented retrospectively from Mitsuki’s viewpoint in V02. | High for recognition and hoped reunion as represented interiority; mixed later motives remain open. | Link WY1-INF08/WY1-C05/C11. Do not describe this as a new second meeting. i071–075. |
+| **WY2-T05 — Present identity aftermath to rehearsal** | Continues V01’s card disclosure, then subsequent conversations and shifts. | High for relative order; no invented exact calendar or count of all intervening days. | Preserve private confrontation before the public rumor resolution. i048–098. |
+| **WY2-T06 — Public repair and subsequent cooperation** | After unsuccessful rumor management; before Blumen preparation/service and phone discovery. | High for order; high for local repair, long-term effect untested. | Do not use a later happy scene to deny the earlier refusal or imply complete emotional agreement. i099–156. |
+| **WY2-T07 — Childhood tea supplement** | Piano-friendship period before rupture; packaged after Shift 11. | High for broad childhood placement; exact visit/day relative to Shift 07 open. | Tag `SUPPLEMENTAL_RETROSPECTION`; never use it as post-i156 present action. i158–161. |
+
+The distinction between a later **source presentation** and an earlier **event time** is especially important here. V02 adds evidence about V01’s opening and the childhood history, while the prospective V01 artifact remains an honest record of less information. Nothing requires a false choice between keeping the old freeze and improving the current interpretation.

@@ -4,14 +4,14 @@ artifact_id: WATAYURI_CAST_AND_RECONSTRUCTION_READINESS
 artifact_type: character_readiness_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01 mainline Shifts 01–06 through i156; packaged Shift 6.5 separately; V02–V14 inventory only"
+source_boundary: "Japanese V01–V02 mainline through V02 Shift 11/i156; Shifts 6.5 and 11.5 separately bounded; V03–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CAST_AND_RECONSTRUCTION_READINESS.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CAST_AND_RECONS
 
 **Update and revision rule.** Add a subject only after direct source identification. Reassess gates at meaningful volume checkpoints with cited evidence and separate abstain/defer outcomes; preserve prior time-indexed readiness and link any subsequently created canonical artifact. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01 mainline Shifts 01–06 through i156, with Shift 6.5 i158–161 only where explicitly labeled supplementary. Initial records below preserve the V01 prospective freeze. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V02 mainline through V02 Shift 11/i156; packaged Shifts 6.5 and 11.5 remain separately bounded. V01 sections preserve the earlier prospective state; the dated V02 additions below carry the current account and do not overwrite that freeze. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -78,3 +78,65 @@ These are local, evidence-bounded decisions, not global registry enrollment or A
 **Separate gate decisions:** **retain distributed institutional evidence**; dedicated evidence ledger deferred pending a broader need. Operational model, monograph, and portable simulation are **DEFERRED**. **Next need:** less instrumentally framed conduct, her account of the business’s priorities, and any later source resolving the injury or employment arrangement.
 
 **Validation status for all seeds:** the rules above are explanatory hypotheses checked against the inspected V01 scenes, not held-out predictions that have already passed. No operational reconstruction, full monograph, or cross-series simulation is declared validated merely because this deep reading is substantial.
+
+
+<a id="v02"></a>
+## V02 — Current additions and transitions — 2026-09-28
+
+**V02 evidence key:** source-map key `V02`, Japanese witness `1fqlKmlu-OGXlsuyvu2F3UeKLzNvDg6fI`, SHA-256 `09737feab6ac2cec487c0ca44e9ae2db48d041addefd10c8734adaf8dba32be6`. The [frozen V02 reading](../02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md#readiness) supplies the full observations and component/locator convention. Below, `iNNN` and unprefixed O/JP/VIS records refer to V02; `WY1-` identifies inherited records. Mainline ends at Shift 11/i156; i158–161 is the childhood Shift 11.5 supplement, not a later present-day event.
+
+**Current assessment boundary:** all five subjects first observed at V01; V01 was repository-closed on entry. The last closed volume advances to V02 only upon validated publication of this synchronized transaction. Existing subject IDs and each separate promotion gate are retained.
+
+### Cast and reconstruction-readiness checkpoint
+
+
+
+Retain the existing subject IDs **WY1-CAST-HIME, WY1-CAST-MITSUKI, WY1-CAST-KANOKO, WY1-CAST-SUMIKA, and WY1-CAST-MAI**. These are V02 assessments of those subjects. No global character enrollment, A–E capability grade, or automatic crossover authorization is made. The assessments describe the V01–V02 evidence boundary; repository closure depends on the synchronized transaction and its validated publication, as recorded in the current entrypoint.
+
+#### Hime — substantially richer causal and conditional coverage
+
+**Identity and scope.** 白木陽芽 / Shiraki Hime; café 白鷺陽芽 / Shirasagi Hime. V02 supplies childhood behavior, ordinary preferences, private disagreement, protective decisions, and the first explicitly accepted repair with Mitsuki. It differentiates liking admiration, liking comfort, enjoying a shared activity, wanting a particular person’s regard, and fearing exclusion. Those are related but not interchangeable motives. [i005–028, i034–042, i091–096, i118–134.]
+
+**Provisional behavioral constraints.** Hime can be socially accomplished while misunderstanding an institution. She may conceal a preference to avoid antagonism, and she may surrender something she wants when she thinks that protects a valued person. In the present-day repair, an explicit alternative offered by that person changes her decision. These rules are conditioned by relationship, perceived reputational threat, and available feedback; they are not universal descriptions of how she handles every problem. [i017–021, i037–042, i123–132, i139–143.]
+
+**Everyday and speech coverage.** The source supports pleasure in attractive sweets and comfortable surroundings, interest in piano that is not identical to love of disciplined practice, and enjoyment of conversation. The dessert-specific evidence belongs to the childhood supplement. Do not invent a favorite food, a complete leisure routine, an adult wealth preference hierarchy, or acoustic delivery. Her cheerful performance, blunt interior remarks, and vulnerable questions are now more clearly context-conditioned. [i022–028; S11.5/i158–161; JP01–JP07.]
+
+**Promotion decisions.** An independent cumulative **evidence ledger is now justified for consideration**, because temporal and relationship-conditioned retrieval is becoming dense. A state-bounded **model is a candidate for later validation**, not promoted by this reading; the open task-learning forecast and future recurrence test are real gaps. A full developmental **monograph remains deferred** until a larger tranche supports integration beyond this opening repair. **Crossover portability is deferred**: behavior outside this school/work/attachment context is underobserved.
+
+#### Mitsuki — major gain in interiority, not unlimited transparency
+
+**Identity and scope.** 矢野美月 / Yano Mitsuki; café 綾小路美月 / Ayanokōji Mitsuki. V02 supplies recognition timing, hoped reunion, perceived abandonment, explicit personal investment, acknowledgment of harm, and new evidence of pleasure in companionship. Her technical seriousness, social isolation, and wish for a special connection are no longer adequately explained by the single trait of harshness. [i017–029, i033–044, i071–087, i121–134; S11.5/i158–161.]
+
+**Provisional behavioral constraints.** She tends to express standards directly while struggling to interpret or expose ambiguous affection. She can insist on role obligation when a private wish is uncertain, seek reassurance indirectly, and react strongly when public language seems to trivialize what matters to her. But she can also recognize a repeated mistake, reject an unwanted sacrifice, apologize, and support continued cooperation. Any model must include both rigidity and the capacity for revision. [i068–087, i121–134, i149–151.]
+
+**Contradictions and gaps.** The supplement directly supports enjoyment of company beyond practice, but it does not supply an exact childhood romantic self-label. The mainline strongly cues a more-than-friendship expectation without establishing reciprocal romantic classification. Why she transferred, what other relationships she has outside the café, and how stable the current repair will be remain open. [i043, i133–134; S11.5/i161.]
+
+**Promotion decisions.** A dedicated **evidence ledger is likewise justified for consideration**. A time-indexed **reconstruction model has promising testable structure**, especially task-directness versus attachment ambiguity, but is not yet validated or promoted. A mature **monograph and crossover model remain deferred**. No later-series emotional vocabulary should be imported to make this early state seem complete.
+
+#### Kanoko — stronger selective-attention evidence, incomplete self-account
+
+**Identity and scope.** 間宮果乃子 / Mamiya Kanoko; café 雨宮果乃子 / Amamiya Kanoko. The volume shows repeated support, a narrow allocation of interpersonal attention, resistance to Hime investing in a hurtful relationship, and the newly revealed photo collection. It does not show Kanoko explaining that collection or reacting to its discovery. [i054–056, i094–096, i113–120, i151–156.]
+
+**Provisional behavioral constraints.** Her advice prioritizes Hime’s protection as she understands it; that understanding can conflict with Hime’s actual desire. She has greater ease with Hime than with Sumika, but Sumika’s report should not become a universal statement that she cannot engage anyone else. Jealousy, romantic desire, and exclusivity remain interpretive questions requiring discriminating evidence rather than escalation from intensity alone. [i118–120, i153–156.]
+
+**Promotion decisions.** Continue ensemble-ledger accumulation; a dedicated **evidence ledger is a plausible next-tranche candidate**, but no separate file is needed merely because of the cliffhanger. **Model, monograph, and crossover promotion are deferred.** The important next evidence is Kanoko’s own understanding, desired boundaries, and choices when she understands the changed Hime–Mitsuki relation. WY1-PR03 remains a genuine open test.
+
+#### Sumika — richer mediation and a newly visible boundary problem
+
+**Identity and scope.** 橘純加 / Tachibana Sumika is the source-used café identity. Do not supply a different surname from later knowledge. She is repeatedly involved in interpreting, coaching, and managing the pair, while the ending shows curiosity taking an intrusive form. [i057–070, i076–093, i102–117, i152–156.]
+
+**Provisional behavioral constraints.** She can translate between practical work and the immersive fiction, use teasing to provoke a response, and notice emotional incongruity. These capabilities are fallible. Her willingness to inspect an unprotected phone must not disappear inside a flattering “perceptive mediator” model. Nor does one intrusion prove a fully elaborated manipulative agenda. [i068–070, i090–093, i139–143, i154–156.]
+
+**Promotion decisions.** Current distributed evidence remains adequate; **dedicated evidence-ledger creation can wait** unless the next tranche creates recurring independent questions. **Operational model, monograph, and crossover remain deferred.** The next test is how she uses newly acquired information, not whether an analyst can invent a plausible secret history.
+
+#### Mai — managerial and conceptual continuity, personal undercoverage
+
+**Identity and scope.** 御子柴舞 / Mikoshiba Mai, introduced manager. She imposes a consequence for a failed role, creates rehearsal conditions, explains the event’s fiction, notices operational timing, and objects to the phone intrusion. Her concern with performance and her concern with interpersonal limits should both be retained. [i078–093, i137–143, i152–155.]
+
+**Limits and promotion.** The volume does not independently settle the original injury report or supply a comprehensive private motive. A bounded account of her management behavior is supported, but **dedicated evidence ledger, model, monograph, and crossover promotion remain deferred**. The exact role-breakup consequence must not be inflated into an unshown firing threat.
+
+#### Relationship and specialist readiness
+
+The Hime–Mitsuki dyad now has a substantial, bounded opening movement: a shared activity, a rupture, distinct remembered injuries, a misrecognized reunion, and locally accepted repair. That warrants a future **V01–V02 dyadic checkpoint** if a separate retrieval responsibility emerges. It does not require creating one now: this reading and the cumulative relationship, information, and agency homes preserve the argument without a duplicate specialist file.
+
+Performance, protective deception, shared agency, and audience interpretation have enough recurrence to be meaningful specialist questions. Their eventual synthesis should retain the counterexamples identified here. Kanoko’s ending is a reason to keep the next inquiry open, not a basis for prematurely resolving an ensemble attachment structure.

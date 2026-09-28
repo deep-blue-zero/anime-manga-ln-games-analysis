@@ -4,14 +4,14 @@ artifact_id: WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01 mainline Shifts 01–06 through i156; packaged Shift 6.5 separately; V02–V14 inventory only"
+source_boundary: "Japanese V01–V02 mainline through V02 Shift 11/i156; Shifts 6.5 and 11.5 separately bounded; V03–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CLAIMS_PREDICTI
 
 **Update and revision rule.** Add only after an actual reading. On new evidence, append a transition with old/new wording and exact downstream homes to reconcile; leave prediction OPEN until its stated test is met or explicitly revised. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01 mainline Shifts 01–06 through i156, with Shift 6.5 i158–161 only where explicitly labeled supplementary. Initial records below preserve the V01 prospective freeze. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V02 mainline through V02 Shift 11/i156; packaged Shifts 6.5 and 11.5 remain separately bounded. V01 sections preserve the earlier prospective state; the dated V02 additions below carry the current account and do not overwrite that freeze. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -68,3 +68,94 @@ These forecasts were formulated from the completed V01 source boundary. **All re
 | **WY1-PR05** | If the sister role continues while private conflict remains unresolved, it will continue to supply reasons or opportunities for practical support without thereby settling private affection. | An actual assistance event occurs during a still-contested private state and is connected to the role or its responsibilities. | Explicit abandonment, sustained refusal of those responsibilities, or source evidence that the supposed support was not real requires rejection or revision. If the pair ends immediately, test conditions must be reconsidered rather than assumed. | Moderate; role and HM relationship, C03/C05 |
 
 **Non-predicted outcomes.** No claim is made here about the end of the series, a future romantic pairing, the length of a conflict, publication completion, or any character’s eventual moral judgment. Those outcomes are neither established by the source inventory nor needed to preserve a useful V01 hypothesis set.
+
+
+<a id="v02"></a>
+## V02 — Current additions and transitions — 2026-09-28
+
+**V02 evidence key:** source-map key `V02`, Japanese witness `1fqlKmlu-OGXlsuyvu2F3UeKLzNvDg6fI`, SHA-256 `09737feab6ac2cec487c0ca44e9ae2db48d041addefd10c8734adaf8dba32be6`. The [frozen V02 reading](../02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md#claims) supplies the full observations and component/locator convention. Below, `iNNN` and unprefixed O/JP/VIS records refer to V02; `WY1-` identifies inherited records. Mainline ends at Shift 11/i156; i158–161 is the childhood Shift 11.5 supplement, not a later present-day event.
+
+**Current forecast state:** WY1-PR01, PR02 and PR05 are SUPPORTED / STRENGTHEN; WY1-PR03 and PR04 remain OPEN. WY2-PR01–PR05 are new and OPEN. The five original V01 forecasts and their original tests above remain unchanged.
+
+### Claim identity, transitions, and counterreadings
+
+Every transition below is a **V02 current-view addition**. The exact V01 formulation remains in the predecessor and its frozen ledger state. A historical claim that something was unresolved at V01 does not become false merely because V02 subsequently resolves part of it.
+
+#### Disposition of all fourteen inherited claims
+
+| Inherited claim | Transition for the V02 current view | New evidence, counterevidence, and downstream action |
+| --- | --- | --- |
+| **WY1-C01 — Individual impression skill is not automatic shared-role/practical competence** | **STRENGTHEN.** Relationship repair improves cooperation without making Hime immediately precise at every task or fluent in the event rules. | Stamp preparation and event explanation retain concrete limits; successful joint performance is counterevidence to a global incompetence reading. Update performance/readiness, not the frozen original. i137–143, i144–150. |
+| **WY1-C02 — Performance can carry truth/help/emotion; backstage is not automatically candid** | **STRENGTHEN.** Rehearsal draws on desire; public repair carries actual acknowledgment; private speech still contains concealment and misclassification. | i085–096, i124–134, i149–151. Preserve deliberate deception as a real possibility rather than turning every performance into sincerity. Performance, speech, HM relation. |
+| **WY1-C03 — Original sister formation included refusal and public pressure** | **PRESERVE** the formation claim; append the later change in pair state. | Present mutual desire does not retroactively supply consent at the V01 beginning. New positive continuation is independently evidenced at i129–134. Relationship/agency must time-index both states. |
+| **WY1-C04 — Public visibility and role boundaries can create misunderstandings** | **STRENGTHEN.** Rumor and the audience’s prior account now impede even intended correction. | i097–117. Guests’ concern can be sincere; later support complicates any claim that audiences are intrinsically hostile. Information/performance/visual. |
+| **WY1-C05 — Help was more secure than claims of affection or no investment** | **REVISE** the current evidential balance. | V02 directly supplies early reunion hope, personal liking, and acknowledgment of harm. Private investment is now established beyond help-based inference. Exact attachment category and motive of every V01 act remain open. i073–075, i129–134. HM, information, readiness. |
+| **WY1-C06 — Mai used leverage; injury fraud unproven** | **PRESERVE; injury question remains OPEN.** | The new work constraint supports managerial pressure but does not independently verify or disprove the original injury. Do not turn sling imagery or comic convenience into proof of fraud. i078–079; inherited recruitment evidence. |
+| **WY1-C07 — Kanoko’s selective attachment is strong; romance not settled** | **STRENGTHEN** selective-attention evidence; **OPEN** on final category and reciprocity. | Protective disagreement and the photo archive add evidence, but Kanoko’s own account of the ending is missing. i118–120, i151, i156. HK/SK, information, readiness; do not infer a diagnosis. |
+| **WY1-C08 — A truthful limitation improved V01 order-taking** | **PRESERVE.** No new claim of a completed comparable task test. | V02’s learning conversation is relevant but its implementation outcome remains unshown. Keep WY1-PR04 open instead of treating applause as practical validation. i139–143. Agency/readiness. |
+| **WY1-C09 — Exclusion partly explains defensive approval-seeking** | **REVISE** the fuller causal account, while preserving the V01 interpretation’s validity at its boundary. | Performance predates the rupture; protective withdrawal and perceived abandonment now complicate the account of exposure. The harm remains real, and instrumental ambitions are not canceled. i005–011, i026–028, i037–044, i081–084. Chronology/Hime model. |
+| **WY1-C10 — Incomprehension is reciprocal, without equalizing responsibility** | **STRENGTHEN**, then append a bounded repair state. | Each identifies a different betrayal; each initially mistakes the other’s intention. The corrective requires shared choice, not just “both were wrong.” i081–084, i121–132. Information/agency/HM. |
+| **WY1-C11 — V01 identity disclosure joined categories while leaving motive/outcome open** | **PRESERVE** the historical endpoint; **REVISE** the current explanation with V02 additions. | Recognition timing, childhood antecedents, and local repair are now supplied. This is retrospective development, not permission to revise V01’s endpoint. i071–075, i126–134. Chronology/claims/entrypoint. |
+| **WY1-C12 — Hime and Kanoko support each other without complete mutual understanding** | **STRENGTHEN.** | Kanoko recognizes skilled acting but not all of Hime’s newly admitted desire; Hime continues relying on her without demonstrated knowledge of the gallery’s significance. i094–096, i118–120, i154–156. HK/information. |
+| **WY1-C13 — Sumika’s teasing can do real mediating work** | **REVISE** toward a more differentiated account of effectiveness and boundaries. | Public provocation misfires; coaching helps; later private-device inspection is a separate breach, not justified by helpful mediation. i068–070, i090–093, i154–156. Agency/MS/SK/readiness. |
+| **WY1-C14 — V01 supplement showed shared-activity assumptions and expansive Kanoko support** | **PRESERVE within its original supplemental scope.** | V02 does not date the V01 short or change it into a present event. The new childhood tea short concerns a different pair and receives its own record. No fabricated mainline transition. |
+
+#### New V02 claims
+
+| Claim ID | Exact bounded formulation | Evidence | Counterreading / limit / confidence |
+| --- | --- | --- | --- |
+| **WY2-C01** | The extended childhood account qualifies simple malicious-betrayal causality by depicting protective withdrawal, perceived abandonment, and an actual harmful disclosure as distinct acts. | O04/O05/O09; i037–044, i081–084. | Explanation is not exoneration; the past is still substantially presented through particular perspectives. High for the differentiated sequence. |
+| **WY2-C02** | Hime’s ordinary façade predates the rupture; the betrayal can intensify defensive approval-seeking but is not shown to originate all her performance or ambition. | O01/O03; i005–011, i026–028. | No comprehensive pre-transfer biography is supplied. High for temporal distinction. |
+| **WY2-C03** | Mitsuki recognized Hime at the first café encounter and hoped for a deliberately chosen reunion before discovering Hime’s nonrecognition. | O08; i072–075. | Does not assign one benevolent motive to every later action. High within the depicted interior viewpoint. |
+| **WY2-C04** | Hime’s concern for Mitsuki persists while she believes she is hated, so immediate reciprocated approval is not a sufficient explanation of that concern. | O12; i118–123. | Desire for eventual approval and protective self-conception can still contribute. High for persistence; complete motive hierarchy not established. |
+| **WY2-C05** | The present-day repair materially depends on Mitsuki rejecting Hime’s unilateral protective departure and making continued participation a shared choice. | O13/O14; i124–131. | It is not a guarantee that all alternatives were equally easy or that public costs have disappeared. High. |
+| **WY2-C06** | Public role language can carry a genuine private acknowledgment without giving every observer the same understanding of it. | O14/O15/O17; i129–134, i149–152. | Some lines remain strategically or ambiguously performed; not every guest knows the childhood history. High. |
+| **WY2-C07** | Rehearsal success, private repair, and public reputational recovery are distinct achievements; the first did not automatically produce the others. | O10/O11; i092–112. | Later public success is real evidence of local recovery, not universal rumor elimination. High. |
+| **WY2-C08** | The apology is part of a locally accepted repair with initial behavioral follow-through, not merely a word and not proof of permanent resolution. | O15/O17; i131–134, i144–151. | Later duration, recurrence, and boundary reliability remain untested. High for local repair. |
+| **WY2-C09** | Hime’s restored-friendship interpretation and Mitsuki’s reactions strongly suggest an unequal understanding of liking; a mutually acknowledged romantic relationship is not established. | O15/O17; i133–134, i149–151. | Embarrassment can have several causes, but the repeated friend-label mismatch is stronger than an isolated expression. High for unequal clarity; moderate-to-high romantic interpretation. |
+| **WY2-C10** | Kanoko’s photograph collection establishes concentrated attention to Hime, not by itself the origin, consent conditions, psychological category, or future use of that attention. | O18; i154–156. | Gallery contents are visible; owner explanation is withheld. High for attention, other issues open. |
+| **WY2-C11** | Sumika’s access to the gallery crosses a privacy boundary distinct from the authorized custody of a misplaced phone. | O18; i154–156. | No passcode and curiosity provide opportunity, not depicted consent. Future coercive use is not established. High. |
+| **WY2-C12** | Sumika’s mediation is context-sensitive and fallible: some intervention worsens a scene, some coaching helps, and helpfulness does not excuse unrelated intrusion. | O07/O10/O18. | This is not a global verdict on her motives or moral character. High for observed contrasts. |
+| **WY2-C13** | The Blumen event connects the school fiction’s symbolic honor to the café’s actual staff popularity, while the implementation and individual responses remain prospective at the ending. | O16; i137–143. | No result, winner, future conflict, or completed novice mastery is established. High for the explained setup. |
+| **WY2-C14** | The separately packaged tea short supports Mitsuki’s childhood pleasure in company beyond practice, alongside uncertainty about whether Hime values that company. | O19; i158–161. | Supplemental and broadly pre-rupture; exact visit and romantic self-classification remain open. High within this scope. |
+| **WY2-C15** | Repeated scenes, thresholds, and objects distribute information unevenly: gaining a new viewpoint or private object changes interpretation without automatically producing shared understanding. | VIS04–VIS08/VIS11; i071–075, i120–132, i155–156. | Formal synthesis of recurring constructions, not a claim about a uniquely intended authorial meaning. High for pattern; interpretive emphasis remains arguable. |
+
+#### Counterreadings that the cumulative account must retain
+
+**“It was only a misunderstanding.”** This captures the incompatible motives but suppresses actions. Restricting association, withdrawing without consultation, publicly disclosing private words, and later inspecting a phone are not made nonexistent by a better explanation. The account must retain who did what and who bore the cost. [WY2-C01/C05/C11.]
+
+**“Hime finally becomes authentic.”** This overstates the endpoint. She recognizes the sincerity of a particular wish and gains a way to remain without protective falsehood. She continues attractive role performance and shows ongoing limits in institutional learning. The development is more specific, and consequently more useful, than a complete conversion from falsehood to truth. [WY2-C02/C04/C06; i139–150.]
+
+**“Mitsuki’s hostility was always love.”** The new investment evidence makes pure indifference untenable; it does not transform harsh treatment into a healthy expression of affection or certify the same motive for every act. The apology matters because the prior behavior is not retrospectively self-justifying. [WY2-C03/C08/C09.]
+
+**“The photographs explain Kanoko completely.”** They make attention visible to a new observer. They do not give that observer, or the reader, Kanoko’s whole account. The discovery creates an evidentiary opportunity and a privacy problem at the same time. [WY2-C10/C11.]
+
+### Prediction adjudication and new prospective tests
+
+#### Adjudicating the five actual V01 forecasts
+
+The predecessor’s forecasts were recovered before opening V02 narratively. The criteria below are those already attached to them, not tests redesigned after reading the outcome. **Supported** means that the bounded confirmation condition received evidence; it is not a certified blind-benchmark score or proof of a universal behavioral law.
+
+| Inherited prediction | V02 evidence against its original criterion | Disposition and limitation |
+| --- | --- | --- |
+| **WY1-PR01 — A fuller account will qualify a simple intention to hurt Hime** | Withdrawal and overheard reassurance precede exposure; Mitsuki later identifies abandonment as her grievance and connects the present-day protective act to the past. i037–044, i081–084, i126–132. | **SUPPORTED / STRENGTHEN.** A consequential assumption and omitted context are supplied. This does not vindicate exposure or establish a wholly innocent intention. |
+| **WY1-PR02 — A substantial private exchange must distinguish a particular sincere wish from acting in general** | The private confrontation tests the interpretation of leaving and Hime’s belief that she is hated; later rehearsal and private doubt keep the specific sincerity issue active. i081–096, i121–122. | **SUPPORTED / STRENGTHEN.** The predicted distinction becomes necessary and explicit. The first private exchange does not itself complete repair; the decisive choice and apology happen later in public. Do not score the stronger, unpredicted claim that a private conversation alone solves it. |
+| **WY1-PR03 — Credible private closeness will trouble Kanoko independently of work failure** | Kanoko resists Hime’s continued care for Yano at i118–120 and witnesses closer interaction. But protective concern about a perceived betrayer remains a live explanation, and her own evaluation of the completed repair is not clearly supplied. i132, i151. | **OPEN; suggestive but not fully adjudicated.** The criterion requires a credible cue plus an adequately attributable evaluative response. The gallery is attachment evidence, not by itself a reaction to this reconciliation. No rejection is warranted either. |
+| **WY1-PR04 — Specific limitation admission will improve a comparable unfamiliar work task** | Event explanations and agreement to ask questions offer relevant learning behavior, but no completed comparable task demonstrates the specified practical advantage. The role rehearsal is a different test and applause is insufficient. i137–143. | **OPEN / NOT ADEQUATELY TESTED.** Preserve the conditional forecast. Neither Hime’s continuing confusion nor her attractive performance decides it. |
+| **WY1-PR05 — Continued sister responsibility can support actual help during unresolved conflict** | Mitsuki handles the returning guest and protects tearful Hime’s position before their private dispute is settled; her support promise follows. i085–087. | **SUPPORTED / STRENGTHEN.** The actual help, not merely the promise, meets the condition. Role responsibility need not be the exclusive motive, and affection remains unresolved at the time of this event. |
+
+The childhood duet provides useful retrospective comparison for cooperation but is not passed off as a future event predicted at V01. Likewise, V02’s new account of the first café meeting is evidence about a previously uninspected viewpoint, not an experiment in which the characters unexpectedly met again.
+
+#### New V02 forecasts, all OPEN
+
+These tests are first formulated at the completed V02 boundary. They must not be adjudicated from later knowledge supplied by memory, adaptation, or an unadmitted source. A missing test situation is not a failed prediction.
+
+| New prediction | Bounded forecast and rationale | Confirmation condition | Disconfirmation / revision condition |
+| --- | --- | --- | --- |
+| **WY2-PR01 — Liking needs a more specific interpretation** | When the repaired pair next discusses their connection substantially, the ambiguity between friendly, in-role, and more particular liking will matter more than simply whether liking exists. | Dialogue or a consequential choice requires one participant to distinguish the kind or scope of affection; the other’s assumption is tested. | A substantial clarification shows their current meanings were already mutually understood, or evidence gives a different explanation of the repeated mismatch. |
+| **WY2-PR02 — Discovery changes Sumika’s model of Kanoko** | The private collection will alter Sumika’s attention to, interpretation of, or interaction with Kanoko. This predicts an information effect, not a threat or coercive plan. | Sumika later explicitly refers to the discovery or acts in a way the source clearly connects to it. | She has misidentified the material, the discovery is shown not to affect her understanding, or its presumed significance is otherwise directly defeated. Mere next-page absence leaves it open. |
+| **WY2-PR03 — Public rewards may separate pair solidarity from individual preference** | An event that honors one staff figure while implicating her sister will expose potentially different reasons for wanting a result or supporting someone. | A character distinguishes personal preference, partner support, guest popularity, and role duty in an actual event decision. | The implemented rules remove that tension or substantive choices demonstrate a shared motive without the predicted distinction. No winner is forecast. |
+| **WY2-PR04 — Protective decisions remain vulnerable to unilateral problem-solving** | Under a new reputational threat to a valued person, Hime may again be tempted to manage the problem without first establishing what that person wants, despite the current correction. | A later situation shows that temptation or explicitly interrupts it through consultation linked to what she has learned. | Comparable threats repeatedly produce direct, early consultation without the expected conflict, requiring a stronger developmental revision. |
+| **WY2-PR05 — Mitsuki’s directness does not transfer uniformly across subjects** | Practical correction will remain easier for Mitsuki than clearly explaining the personal meaning of an emotionally exposed statement. | Comparable scenes show fluent task guidance but hesitation, denial, or ambiguity over attachment meaning. | Sustained contrary evidence shows attachment explanation becoming as direct and reliable as task guidance, or task confusion explains the apparent contrast. |
+
+WY1-PR03 and WY1-PR04 remain independently open; these new tests do not silently replace them. No forecast determines a final couple, a future character verdict, or a series ending.

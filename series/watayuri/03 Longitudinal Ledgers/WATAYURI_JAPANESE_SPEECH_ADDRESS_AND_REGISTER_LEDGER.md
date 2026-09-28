@@ -4,14 +4,14 @@ artifact_id: WATAYURI_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01 mainline Shifts 01–06 through i156; packaged Shift 6.5 separately; V02–V14 inventory only"
+source_boundary: "Japanese V01–V02 mainline through V02 Shift 11/i156; Shifts 6.5 and 11.5 separately bounded; V03–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_JAPANESE_SPEECH
 
 **Update and revision rule.** Update when a feature recurs, switches under meaningful conditions or contradicts a working speech model. Preserve original wording/locator and distinguish observation from claim; cross-link performance when a script appears to condition register. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01 mainline Shifts 01–06 through i156, with Shift 6.5 i158–161 only where explicitly labeled supplementary. Initial records below preserve the V01 prospective freeze. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V02 mainline through V02 Shift 11/i156; packaged Shifts 6.5 and 11.5 remain separately bounded. V01 sections preserve the earlier prospective state; the dated V02 additions below carry the current account and do not overwrite that freeze. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -64,3 +64,47 @@ The order-taking failure is not remedied solely by prettier speech. Hime explici
 Mitsuki’s **どの言葉を信じればいいのか** names uncertainty about which words to believe. Hime’s subsequent clarification addresses the wish to be liked, not a total guarantee that she will never perform again. The final emphatic identification as **矢野美月** settles a different question: who the current interlocutor is. A statement can resolve identity while leaving intention and history unresolved. **Locators:** V01/06/i152, central statement; i154, Hime’s clarification; i156, identification and final large balloon. **Confidence:** high. **Links:** WY1-INF07/INF08/INF09; WY1-C10/C11.
 
 **Idiolect limit.** V01 supports repeated, condition-dependent features, especially for Hime and Mitsuki. It does not support a complete speech generator for unfamiliar situations. Names, honorifics, and punctuation should be carried forward with audience and role-state attached, not extracted into a decontextualized list of “character catchphrases.”
+
+
+<a id="v02"></a>
+## V02 — Current additions and transitions — 2026-09-28
+
+**V02 evidence key:** source-map key `V02`, Japanese witness `1fqlKmlu-OGXlsuyvu2F3UeKLzNvDg6fI`, SHA-256 `09737feab6ac2cec487c0ca44e9ae2db48d041addefd10c8734adaf8dba32be6`. The [frozen V02 reading](../02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md#speech) supplies the full observations and component/locator convention. Below, `iNNN` and unprefixed O/JP/VIS records refer to V02; `WY1-` identifies inherited records. Mainline ends at Shift 11/i156; i158–161 is the childhood Shift 11.5 supplement, not a later present-day event.
+
+### Written Japanese speech, address, and register
+
+These records concern visible writing and its interactional use. They establish no acoustic timbre, pitch, breathiness, vocal duration, or adaptation performance.
+
+#### WY2-JP01 — The grammar of a protective lie
+
+Hime’s compact formulation **「好きだから嘘つくんだ」** makes liking the stated reason for lying. The relevant distinction is not that the lie secretly ceases to be a lie. It is that the intended relational purpose can differ from the apparent meaning of separation. In this scene she wants Mitsuki to understand an action that sacrifices participation to protect reputation. Read beside the removed cross, the line explains her logic but does not make that logic sufficient. Mitsuki must still challenge why the protective departure is necessary. [V02/10/i126–129.]
+
+The line’s local purpose also limits its transfer into a character model. It is evidence that Hime may lie to protect a valued person; it is not a rule that all her lies are protective, that affection licenses deception, or that a listener must trust any lie once she supplies that explanation. The early classroom façade and material pleasures remain counterweights. [V02/07/i005–011, i026–028.]
+
+#### WY2-JP02 — One liking word, unequal relationship classifications
+
+Mitsuki’s **「あなたが好きよ」** is an explicit affirmative statement. Hime’s later friend-language and Mitsuki’s disappointed reaction prevent the analyst from treating their shared vocabulary as proof of a shared category. The follow-up denial is not a clean retraction of every positive feeling; in sequence it is better read as an embarrassed resistance to how Hime understands or states that feeling, while the precise category remains incompletely named. [V02/10/i130, i133–134.]
+
+The later salon exchange intensifies the problem: Hime happily refers to having been told she is liked, and Mitsuki asks what she means while visibly struggling with the public situation. Semantic recurrence, context, and response provide the evidence; a single blush would be weaker. A translation that silently makes every instance mean either exclusively friendship or exclusively romantic love would resolve a distinction the manga is still using. [V02/11/i149–151.]
+
+#### WY2-JP03 — Familiar address crosses the role boundary
+
+The childhood **ひめちゃん** reappears in Mitsuki’s recognition and the quiet apology. Public sister addresses and stage-name usage continue, but the familiar name marks a relation that predates the institution. Its significance comes from the linked history and timing, not from a universal rule that a diminutive always proves romance. Hime’s movement between Yano and elder-sister address similarly records which interpretive relation is active: childhood grievance, present coworker, or desired sister connection. [V02/09/i073–075; V02/10/i118–132; V02/11/i149–150.]
+
+#### WY2-JP04 — Private speech is relationship-conditioned, not uniformly rough
+
+Mitsuki can address Sumika politely while urgently protesting, speak much more bluntly to Hime during conflict, and resume refined guest-facing language at the threshold. The evidence therefore supports conditional register switching rather than a binary elegant-fake/rough-real voice model. Her corrected professional greeting during the customer interruption is especially useful because the private argument has not disappeared. [V02/09/i076, i081–087.]
+
+Hime likewise alternates between public politeness, internally sharp commentary, vulnerable direct questions, and forceful public assertion. Her outburst in defense of the sister relation is not simply her ordinary cute performance at higher volume; the written force and exposed disagreement break its usual social aim. No claim about actual loudness beyond what the scene and lettering represent is needed. [V02/08/i064–066; V02/09/i083–084; V02/10/i124–127.]
+
+#### WY2-JP05 — “Work,” “serious,” and “play” carry different disputes
+
+Mitsuki’s insistence that the job is not play concerns actual responsibility, but it also allows an uncertain personal relation to be defended in impersonal terms. Rehearsal complicates that defense: taking the performance seriously may require acknowledging a genuine wish, not eliminating it. In the childhood short, Mitsuki says they should practice rather than play while privately valuing simply being with Hime. The same task vocabulary can enforce standards and conceal a wish that is harder to state. [V02/09/i079–093; V02/S11.5/i159–161.]
+
+#### WY2-JP06 — The sincerity question is specific rather than globally solvable
+
+Questions about what can be believed recur in the childhood partnership, present distrust, and supplemental tea conversation. They do not demonstrate that one final declaration will make every future utterance transparent. The supplement’s question about whether Hime’s reassurance is true or false is especially diagnostic: Mitsuki is not asking for a philosophical theory of honesty, but for assurance that this instance of companionship matters to Hime. [V02/10/i121–122; V02/S11.5/i160–161; predecessor V01/06/i149–154.]
+
+#### WY2-JP07 — Different explanations make the institution teachable
+
+Mai’s formal event terminology and Sumika’s practical popularity-poll paraphrase are not interchangeable word choices. They address different needs: preserving the school fiction and giving a novice a usable explanation. Hime’s repeated difficulty demonstrates that accurate setting language can still fail as immediate instruction. Her agreement to read and ask questions is a prospective learning act, not proof that the terminology has already become fluent. [V02/11/i139–143.]
