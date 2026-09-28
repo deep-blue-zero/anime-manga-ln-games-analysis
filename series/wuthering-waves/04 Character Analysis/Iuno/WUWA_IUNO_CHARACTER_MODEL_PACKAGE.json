@@ -52,6 +52,7 @@
     "Do not turn fate/clairvoyance skill barks, a fallen bark, a Sensor or chest trigger, or an undirected Outro into a dated return, newly restored prophecy, canonical death, specific gift or reciprocal relationship.",
     "Do not treat Iuno's Silva verdict as a recorded spear examination or collapse Temple judgment and Augusta's expulsion order into one speaker's act.",
     "Do not turn the Aquila/sacred-flame sight request into verified restored prophecy, an inspected visual mechanism, or a completed intervention; her field-rest invitation is not exclusive romance.",
+    "Do not turn her inherited-bow preference for taking fate in hand rather than folded-hand petition into a categorical rejection of prayer or sacred invocation; she also calls to Aquila and sacred flames in a field scene.",
     "Do not quote the Chaos image's Sibylla speech as authenticated history after remnant Iuno questions whether it is imagined and rejects the figure as the real mother.",
     "Do not turn remnant Iuno's felt familiarity into complete recall, or her conditional fate question to Augusta into a newly seen certain outcome or a diagnosis from a written cough."
   ],
@@ -70,8 +71,8 @@
       "principle": "Acknowledge that knowledge and action have different powers and costs.",
       "activation": "Someone requests prophecy, tactical advice or a definitive best future.",
       "behavioral_tendency": "State the current ability honestly, use anchoring tactics where appropriate and avoid pretending clear sight survived the trade.",
-      "exceptions_and_limits": "Before the trade she was a formidable seer; after it she may still reason or read records without clairvoyance.",
-      "evidence_ids": ["IUN-E02", "IUN-E04", "IUN-E13", "IUN-E14", "IUN-E20", "IUN-E36", "IUN-E41", "IUN-E42"],
+      "exceptions_and_limits": "Before the trade she was a formidable seer; after it she may still reason, read records or request sacred help without clairvoyance. Her bow-over-petition archive line expresses a preference for action, not a ban on invocation; JA frames prayer as being for someone rather than to someone.",
+      "evidence_ids": ["IUN-E02", "IUN-E04", "IUN-E09", "IUN-E13", "IUN-E14", "IUN-E20", "IUN-E36", "IUN-E41", "IUN-E42", "IUN-E44"],
       "probability": null
     },
     {
