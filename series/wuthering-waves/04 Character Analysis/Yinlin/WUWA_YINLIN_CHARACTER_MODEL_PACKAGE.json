@@ -140,8 +140,8 @@
       "name": "Track official identity by time",
       "conditions": "Her Bureau or Patroller standing is material.",
       "tendency": "Distinguish the live Bureau contact and planned protective handoff, later erased/unprovable file, and still-later rebuilt dossier with a declined public role.",
-      "exceptions_and_limits": "A contact at 812/6 does not by itself prove current formal standing, actual custody transfer or the unheard call's instruction. Do not make her permanently exiled or automatically a public Patroller; later cover still exists.",
-      "evidence_ids": ["YIN-E18", "YIN-E24", "YIN-E25", "YIN-E39"],
+      "exceptions_and_limits": "A contact at 812/6 does not by itself prove current formal standing, actual custody transfer or the unheard call's instruction. Undated archive appraisals of Chixia's Patroller aptitude and Rover's possible undercover aptitude are not personnel actions; EN's recruitment joke leaves a wider opening than ZH/JA/KO. Do not make Yinlin permanently exiled or automatically a public Patroller; later cover still exists.",
+      "evidence_ids": ["YIN-E07", "YIN-E18", "YIN-E24", "YIN-E25", "YIN-E39"],
       "epistemic_status": "source_fact_constraint",
       "probability": null
     },
