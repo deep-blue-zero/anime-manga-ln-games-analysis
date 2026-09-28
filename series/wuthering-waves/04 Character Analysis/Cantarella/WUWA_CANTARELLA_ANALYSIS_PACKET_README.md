@@ -1,0 +1,83 @@
+---
+series: WUWA
+character: Cantarella
+artifact_type: readme
+analytical_responsibility: "Single entrypoint, authority, scoped completeness, validation, and open gaps"
+scope: CANTARELLA_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
+analysis_generation: CANTARELLA_PRE_AV_V0_1
+status: draft_noncurrent
+release_state: author_working_draft_pending_owner_review
+source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
+source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
+source_generation_frozen: true
+source_freeze_metadata: conflicting_collection_and_embedded_lock_fields
+text_authority: zh-Hans
+localization_witnesses: [en, ja, ko]
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: true
+---
+
+# Cantarella reconstruction packet — draft pre-AV V0.1
+
+> **Freeze provenance:** The private character `COLLECTION_AUDIT.json` reports `source_generation_frozen=true`, while its copied `SOURCE_LOCK.json` reports `false` and a pending Phase 6 freeze gate. This packet pins the exact source commit and selection but does not claim those two freeze fields have been reconciled. Freeze metadata is separate from normalized semantic authority, official-client raw-evidence authority, and this packet's `draft_noncurrent` status.
+
+**Event-image authority:** The `TZZNQ` event has an explicit statement that Echo Cubes are independent of their originals (Shorekeeper `7842/1/4`). Cantarella-labeled turns in that family require local diegetic-instantiation review before becoming embodied Cantarella memories, promises or relationship states.
+
+**External-source audio caveat:** A private twelve-packet hash audit found 43 selected `TZZNQ_*`/`Side_TZJNSC_*` event-family lines whose four language-labeled render rows share one `gl_vo_` WEM and identical PCM per line; eleven of their text keys differ from the source WEM basename. These are four localized text witnesses and technically decoded audio associations, **not** 43 proved four-dub performances or necessarily proved text→audio matches. Language/container dispatch and the eleven mismatches remain open; the semantic-line denominator is unchanged. See `_research/character_packets/GLOBAL_EXTERNAL_SOURCE_LANGUAGE_ALIAS_AUDIT_2026-09-27.md` in the private evidence plane.
+
+This is a **noncurrent analytical draft pending owner review**, not an adopted replacement for collection or visual authority. It studies playable Cantarella (坎特蕾拉, role 1607) through a pinned normalized Chinese semantic view with EN/JA/KO witnesses. Official-client audio is separate raw-media evidence: exact FLAC/PCM validation does not itself validate every source speaker, branch, chronology or interpretation. Source-generation freeze is orthogonal to draft authority.
+
+The central reading is [a dream that permits waking](WUWA_CANTARELLA_CHARACTER_DEEP_DIVE_PRE_AV.md). The Fisalia head learns to reject a system that makes children pay for an alleged greater good; her dangerous dreamcraft can offer relief but also threaten agency. Five favor stories stage multiple viewpoints in a dream and end in a waking choice to retain responsibility while entering ordinary life. The Sea of Ghosts is a qualified memory medium, not a literal video of every trial. A separate tower side quest distinguishes past candidates' memory fragments from girls returned in the character quest and from future daughters named in her unfinished-reform wish. City tea, unmodified food, fresh air and an unwillingness to claim the girls' mixed power are central model evidence, not decorative sentiment.
+
+## Reading order
+
+The later Chapter 2.7 [Leviathan-records study](WUWA_CANTARELLA_LATER_LEVIATHAN_RECORDS_HARBINGER_AND_COALITION_PROFILE.md) adds a different Cantarella test: bounded medicinal help and records newly legible after whispers quiet, followed by a source-unvoiced, optional four-topic discussion. It separates temporary Harbinger confidentiality from trial-survivor records, historical fatal choices from her present hope, and a crisis coalition with Montelli/Order from broad institutional absolution.
+
+The [Tyrvine, Bloodpact and staged-return study](WUWA_CANTARELLA_TYRVINE_PLEDGE_AND_STAGED_RETURN_PROFILE.md) tests three earlier but distinct voiced actions. Cantarella equips Cartethyia without making the sword's title override her choice; gives Rover a common gratitude token before three optional political/personal reply routes; and asks Rover to present a protective public “revival” account for girls Cheri says had remained hidden and visited home only under masks. The study distinguishes strategic staging from literal resurrection, route-conditioned intimacy from canon romance, and delayed communication from proved permanent concealment.
+
+The [first-audience apology and tea-refusal study](WUWA_CANTARELLA_FIRST_AUDIENCE_APOLOGY_MEDIATION_AND_TEA_REFUSAL_PROFILE.md) returns to a previously uncited early mainline action. Cantarella apologizes for Gilberto-related family trouble, Rover may drink or push aside the tea, and the paths rejoin before her mediation request. The refusal reply does not equal a settled apology; the gracious setting also does not prove a poison trap. This puts her later ordinary tea and secret-sharing on a more precise temporal and ethical footing.
+
+The [ghost-game desire and revival-story study](WUWA_CANTARELLA_GHOST_GAME_DESIRE_BARGAIN_AND_REVIVAL_STORY_PROFILE.md) reads the earlier festival pitch as four motive-conditioned Rover routes, not a universal seductive speech. Cantarella rejects a literal demon explanation, advertises an extraordinary elixir, invokes a letter's effect only on one route, and later imagines elixir or poison exploration together. Her later staged-return disclosure explains a public-story design without proving that a literal potion existed, Rover already knew the plan or each girl consented to its presentation.
+
+| Order | Artifact | Responsibility |
+|---:|---|---|
+| 1 | [Continuous deep dive](WUWA_CANTARELLA_CHARACTER_DEEP_DIVE_PRE_AV.md) | Inherited office, dream arguments, ethics, epistemic limits and counterreadings |
+| 2 | [Evidence and falsification matrix](WUWA_CANTARELLA_EVIDENCE_AND_FALSIFICATION_MATRIX.md) | 46 bundles, 43 claims and specific revision triggers |
+| 3 | [Relationship/state/ordinary life](WUWA_CANTARELLA_RELATIONSHIP_STATE_AND_ORDINARY_LIFE_PROFILE.md) | Distinct Rover, girls, former head, Fisalia, Cartethyia, friends and tea states |
+| 3a | [Dream testimony and accountability](WUWA_CANTARELLA_DREAM_TESTIMONY_AND_ACCOUNTABILITY_PROFILE.md) | Separates staged dreams, Sonoro reconstruction, self-report, reform claims and the girls' agency |
+| 3a.1 | [Cheri, headship and contestable protection](WUWA_CANTARELLA_CHERI_HEADSHIP_AND_CONTESTABLE_PROTECTION_PROFILE.md) | Reads a survivor's independent objection, four-language inquiry ambiguity and the common/private offer graph |
+| 3a.2 | [Local claim-revision ledger](WUWA_CANTARELLA_CLAIM_REVISION_LEDGER.md) | Records the material corrections and open investigator question without claiming prior publication |
+| 3a.3 | [Sea, sanctuary and disclosure](WUWA_CANTARELLA_ASCENSION_SEA_SANCTUARY_AND_DISCLOSURE_PROFILE.md) | Rank-up key/row offset, intimate refuge versus trial-record access, and the JA eventual-light fork |
+| 3a.4 | [Reconstructive profile](WUWA_CANTARELLA_RECONSTRUCTIVE_PROFILE_PRE_AV.md) | Conditional scene use by time, medium, audience, safety, branch and survivor agency |
+| 3a.5 | [Tower memory-children and unfinished reform](WUWA_CANTARELLA_TOWER_MEMORY_CHILDREN_AND_UNFINISHED_REFORM_PROFILE.md) | Separate survivor, fragment and future-daughter groups; source-unvoiced care, meteor wish and mixed-power refusal |
+| 3a.6 | [Later Leviathan records and coalition](WUWA_CANTARELLA_LATER_LEVIATHAN_RECORDS_HARBINGER_AND_COALITION_PROFILE.md) | Voiced bounded aid, restored-yet-partial records, optional source-unvoiced lore menu, Harbinger secrecy and qualified allies |
+| 3a.7 | [Tyrvine, Bloodpact and staged return](WUWA_CANTARELLA_TYRVINE_PLEDGE_AND_STAGED_RETURN_PROFILE.md) | Tool/identity choice, three optional gift replies, controlled freedom-message timing, Cheri's visits and the public return's accountability boundary |
+| 3a.8 | [First audience, apology and tea refusal](WUWA_CANTARELLA_FIRST_AUDIENCE_APOLOGY_MEDIATION_AND_TEA_REFUSAL_PROFILE.md) | Early-family apology, two-route cup graph, common mediation request and limits of reparative hospitality |
+| 3a.9 | [Ghost-game desire and revival story](WUWA_CANTARELLA_GHOST_GAME_DESIRE_BARGAIN_AND_REVIVAL_STORY_PROFILE.md) | Four motive-conditioned routes, advertised versus later staged elixir, letter-effect uncertainty and duplicate-text provenance |
+| 3b | [Ordinary hospitality and sensory freedom](WUWA_CANTARELLA_ORDINARY_HOSPITALITY_SENSORY_FREEDOM_PROFILE.md) | Tea, garden, food, fresh air, invitation boundaries and postcrisis accountability |
+| 4 | [Speech and measured voice](WUWA_CANTARELLA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md) | Written registers including trigger-class/localization contrasts, full selected four-dub measurements, seven source-action cohorts and human limits |
+| 5 | [JSON character model](WUWA_CANTARELLA_CHARACTER_MODEL_PACKAGE.json) | 21 evidence-linked conditional rules, required inputs and abstentions |
+| 6 | [Model stress probes](WUWA_CANTARELLA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md) | 48 non-blind source checks, twenty-one-rule coverage map and ten interacting tests, not a held-out score |
+| 7 | [Source census and identity](WUWA_CANTARELLA_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md) | Denominators, dream/Sonoro/branch distinction and exact speaker decisions |
+| 8 | [AV/human retrieval plan](WUWA_CANTARELLA_AV_AND_HUMAN_RETRIEVAL_PLAN.md) | Claim-driven four-dub and runtime targets; current unobserved state |
+| 8a | [Exact AV retrieval crosswalk](WUWA_CANTARELLA_AV_HUMAN_RETRIEVAL_CROSSWALK.md) | Twenty-three matched four-dub cases, seven trigger, six later briefing, ten Tyrvine/Bloodpact/return, six first-audience and eight ghost-game nominations, and thirteen runtime/epistemic controls |
+| 9 | [Individual visual profile](CHARACTER_VISUAL_DESIGN_PROFILE.md) and [manifest](CHARACTER_VISUAL_REFERENCE_MANIFEST.json) | Prior official-client UI appearance observations/provenance |
+
+The [23 matched audio cases](AUDIO_MATCHED_SEMANTIC_CASES.json) are metadata-only source/text/event/render/media/hash joins, not recordings. FLAC/WEM, decoded artwork, full game text and object-level waveform outputs remain local/restricted. Private source: `ANALYSIS/Characters/Cantarella`; audio supplement: `_research/character_packets/Cantarella/audio_work/`. The three-image visual profile retains its prior `active_provisional` status and is not silently overwritten by this literary draft.
+
+The three newly studied actions contribute **81 accepted, source-voiced Cantarella lines and 330 distinct PCM-valid render objects** already present in the selected corpus. Base four-language alignment accounts for 324; four extra player-gender renders occur at `Main_Linaxita_2_4_143_21`, and two extra EN/JA variants at `Character_Cantarella_123_7`. These are runtime variants, not additional dialogue or proven gender-route playback. Every retained explicit Wwise event/numeric-media pair for those 330 objects is null; exact source/text/WEM/PCM/FLAC joins remain metadata rather than a proved event→bank chain. Ten exact keys are nominated for human listening outside the unchanged 23-case JSON, with branch and speaker controls; no listening or runtime observation is claimed [CAN-E42–E44/C39–C41].
+
+The separately reviewed first audience `6800/9` has **21 accepted Cantarella voice turns in the union of two tea routes and 84 distinct PCM-valid four-language objects**, already within the same selected corpus. The push-aside-only reply cannot be added to the drink route, and the two later one-caption Rover questions do not create additional Cantarella branches. A six-key/24-object human-listening shortlist, runtime control R12, CAN-E45/C42 and a ninth constructed interaction now test the difference between an apology, permission to refuse a cup, an actual remedy and a strategic request. The technical event/numeric-media pair is null for all 84 action renders; no selected player route, Gilberto outcome, human-performed tone or fully repaired family harm is claimed.
+
+The separate `6701/6` ghost-game action contributes **20 accepted/source-voiced Cantarella authored-union turns and 80 distinct four-dub PCM-valid objects**, again subsets of the unchanged 845-line/3,237-object selection. Four Rover captions lead to route-specific replies and a common ending: one path has 11, 11, 12 or 13 Cantarella turns, never all twenty. PlotHandBook `#/37` supplies the exact quest `880000033` pointer; no selected direct quest-node reference does. Eight keys/32 objects are nominated for listening outside the 23-case JSON, with all explicit event/bank/numeric-media IDs null. CAN-E46/C43, three new probes and runtime control R13 keep the earlier advertised elixir separate from the later staged-return explanation, actual potion effect, player choice and each girl's consent.
+
+## Selected-scope completeness
+
+The collection has 200 full relevant flow states, 2,649 contextual text keys and 65 quest references across 16 IDs. Of 901 direct attribution candidates, 885 are accepted solo, nine rejected and seven unresolved. Among accepted direct occurrences, 780 are source-voiced and 105 source-unvoiced. Five favor stories and 65 archive voice entries feed the profile. The selected voice corpus contains **845** semantic lines, 3,389 render associations, 3,240 runtime object rows and 3,237 unique native PCM/FLAC objects (923,712,482 distinct FLAC bytes), all locally measured with zero failures. Twenty-three exact cases span 92 EN/JA/KO/ZH render records, with 48 paired null event/numeric-media IDs. Separately, the 34 combat/system archive rows join to 136 distinct four-dub mono PCM/FLAC objects; seven are nominated for contextual listening without being added to the 23-case JSON. Seven private, source-defined story-action cohorts further cover 175 semantic lines and 700 distinct four-dub PCM objects without claiming heard performance. The [validator report](VALIDATION_REPORT.json) checks reproducible structure and joins against the available private source.
+
+These are **selected pinned denominators**, not a claim of all-version or every-reachable-branch completeness. One WavesLine record is a metadata-only shell, not extracted message content. The 105 source-unvoiced occurrences cannot be described as heard; specifically, the accepted mixed-power refusal at `7472/6`, tower memory/wish actions `7088/8` and `7089/6`, and ordinary-tea actions `7344/6` and `7345/5` have no selected playable voice. The five nested dream-table speakers are not additional playable identities; `7377/1` remembered dialogue is accepted through exact self-identification, while adjacent former-head and other anonymous speech is excluded or unresolved. The common postquest `6620/3/25` offer, its mutually exclusive `/26` and `/27` replies, and `6596/3` quest options require branch-aware reading. Cheri's separate farewell testimony contests Cantarella's lonely headship bargain; the four localization witnesses differ materially on who may investigate the past. Chinese anchor and English comparison were used for major stories and selected scenes; full JA/KO line-by-line adjudication remains open.
+
+## Priority gaps
+
+Human four-dub listening of the 845-line selected set; runtime gesture and staging review; full branch-path verification for trial revelations and Rover intimacy; verification of Cartethyia's Tyrvine choice/effect, the Bloodpact reply and freedom-message follow-through, and each girl's understanding/reception of the staged return; chronology of optional ordinary-life appearances; independent corroboration of particular Sonoro images; source-version comparison; and character-specific JA/KO ethical/relationship translation review. Ascension V's refuge-within-poison versus JA eventual-light wording remains a localized image, not a literal safety finding or accepted relationship. The model deliberately does not diagnose psychology from waveform labels, invent real-world poison procedures, imply toxin immunity, or declare canon exclusive romance. Revisions after observation or owner review should target claims explicitly before current-authority discovery metadata is changed.
