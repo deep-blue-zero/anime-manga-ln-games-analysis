@@ -20,7 +20,7 @@ The complete 26-surface envelope has been read at franchise scope: eight core ch
 
 **N25: NONE / I0 / R0. Leo/need, MMJ and VBS: NONE.** All depicted Virtual Singers are Wonderland-SEKAI manifestations. Rui and Emu's participation in the preceding mixed event does not make their present conflict a Mafuyu or Mizuki bridge. No N25-private information or Empty-SEKAI manifestation occurs.
 
-The [routing ledger](../../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0074--カーテンコールに惜別を) owns shared discovery and later consumption; [release impact](../../04_LONGITUDINAL_LEDGERS/PJSK_RELEASE_IMPACT_LEDGER.md#ri-event-0074--カーテンコールに惜別を) closes the founded N25 scope. The analysis below distinguishes observed behavior, self-report, audience-only thought and local inference.
+The [routing-ledger historical volume](../../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER_VOLUME_1_EVENT_0001_0090.md#event_0074--カーテンコールに惜別を) owns shared discovery and later consumption; [release impact](../../04_LONGITUDINAL_LEDGERS/PJSK_RELEASE_IMPACT_LEDGER.md#ri-event-0074--カーテンコールに惜別を) closes the founded N25 scope. The analysis below distinguishes observed behavior, self-report, audience-only thought and local inference.
 
 ## 2. Envelope and temporal boundaries
 

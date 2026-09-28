@@ -22,4 +22,8 @@ Drive evidence bridge: `13L8W_Gb15b1h-ovJ_MXOgJY8jr8uPyR_`. Source commit: `353f
 
 See [the import record](../../08%20Audits%20and%20Manifests/WUWA_PRE_AV_CHARACTER_PACKET_IMPORT.md) for source hashes and publication-state interpretation. The owner has now adopted all 11 packet documents as current `active_provisional` authority within their stated text/audio scope, with the complete quartet and veto=false. Original preparation statements are historical. See the [authority adoption record](../../08%20Audits%20and%20Manifests/WUWA_CHARACTER_PACKET_AUTHORITY_ADOPTION.md); the adoption becomes effective through governed integration into `main`.
 
+## Bounded static visual layer
+
+The [V0.2 visual-design profile](CHARACTER_VISUAL_DESIGN_PROFILE.md) directly inspects Aemeath's role-linked head icon, formation art, and activity portrait. Its JSON companion separates direct observation from design–narrative interpretation, and the reference manifest preserves official-client asset/package/container/hash provenance. This completes only a three-image default-presentation study; runtime motion, rear construction, alternate forms/skins, scene staging, and human voice-performance review remain open.
+
 The next analytical step is the pending AV evidence pass described by the packet. Collection plans and stress-test scenarios are not completed observations or new source evidence.

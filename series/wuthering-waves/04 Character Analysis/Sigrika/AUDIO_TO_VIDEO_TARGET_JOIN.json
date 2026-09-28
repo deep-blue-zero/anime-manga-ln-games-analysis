@@ -1,0 +1,381 @@
+[
+  {
+    "target_id": "SIG-AV-01",
+    "source_action": [
+      12386,
+      4
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": false,
+    "direct_semantic_lines_in_action": 0,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "no_sigrika_or_counterpart_line_mapping_for_this_action",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-02",
+    "source_action": [
+      10663,
+      3
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": true,
+    "direct_semantic_lines_in_action": 1,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-03",
+    "source_action": [
+      12406,
+      1
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": true,
+    "direct_semantic_lines_in_action": 3,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-04",
+    "source_action": [
+      12409,
+      3
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": true,
+    "direct_semantic_lines_in_action": 12,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-05",
+    "source_action": [
+      12416,
+      4
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": true,
+    "direct_semantic_lines_in_action": 22,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-06",
+    "source_action": [
+      12419,
+      1
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": false,
+    "direct_semantic_lines_in_action": 0,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "no_sigrika_or_counterpart_line_mapping_for_this_action",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-07",
+    "source_action": [
+      12938,
+      5
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": true,
+    "direct_semantic_lines_in_action": 4,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-08",
+    "source_action": [
+      12944,
+      5
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": true,
+    "direct_semantic_lines_in_action": 5,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-09",
+    "source_action": [
+      12951,
+      2
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": false,
+    "direct_semantic_lines_in_action": 1,
+    "counterpart_semantic_lines_in_action": 5,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-10",
+    "source_action": [
+      12423,
+      4
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": false,
+    "direct_semantic_lines_in_action": 17,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [
+      "SIG-AM-01",
+      "SIG-AM-02",
+      "SIG-AM-03",
+      "SIG-AM-04"
+    ],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-11",
+    "source_action": [
+      12433,
+      4
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": true,
+    "direct_semantic_lines_in_action": 20,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-12",
+    "source_action": [
+      12955,
+      4
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": true,
+    "direct_semantic_lines_in_action": 0,
+    "counterpart_semantic_lines_in_action": 5,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-13",
+    "source_action": [
+      12966,
+      3
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": true,
+    "direct_semantic_lines_in_action": 14,
+    "counterpart_semantic_lines_in_action": 20,
+    "matched_case_ids": [
+      "SIG-AM-05",
+      "SIG-AM-06",
+      "SIG-AM-07",
+      "SIG-AM-08"
+    ],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-14",
+    "source_action": [
+      12967,
+      1
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": false,
+    "direct_semantic_lines_in_action": 0,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "no_sigrika_or_counterpart_line_mapping_for_this_action",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-15",
+    "source_action": [
+      15245,
+      5
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": true,
+    "direct_semantic_lines_in_action": 9,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-16",
+    "source_action": [
+      15249,
+      6
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": true,
+    "direct_semantic_lines_in_action": 11,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-17",
+    "source_action": [
+      15255,
+      6
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": true,
+    "direct_semantic_lines_in_action": 11,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [
+      "SIG-AM-09"
+    ],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-18",
+    "source_action": [
+      15256,
+      4
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": true,
+    "direct_semantic_lines_in_action": 10,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [
+      "SIG-AM-10",
+      "SIG-AM-11"
+    ],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-19",
+    "source_action": [
+      16358,
+      1
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": false,
+    "direct_semantic_lines_in_action": 0,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "no_sigrika_or_counterpart_line_mapping_for_this_action",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-20",
+    "source_action": [
+      16901,
+      4
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": false,
+    "direct_semantic_lines_in_action": 0,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "no_sigrika_or_counterpart_line_mapping_for_this_action",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-21",
+    "source_action": [
+      16904,
+      2
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": false,
+    "direct_semantic_lines_in_action": 0,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "no_sigrika_or_counterpart_line_mapping_for_this_action",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-22",
+    "source_action": [
+      12586,
+      7
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": true,
+    "direct_semantic_lines_in_action": 16,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [
+      "SIG-AM-12",
+      "SIG-AM-13",
+      "SIG-AM-14"
+    ],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-23",
+    "source_action": [
+      16826,
+      2
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": false,
+    "direct_semantic_lines_in_action": 0,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "no_sigrika_or_counterpart_line_mapping_for_this_action",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  },
+  {
+    "target_id": "SIG-AV-24",
+    "source_action": [
+      15783,
+      2
+    ],
+    "exact_target_anchor_has_sigrika_or_counterpart_audio": true,
+    "direct_semantic_lines_in_action": 3,
+    "counterpart_semantic_lines_in_action": 0,
+    "matched_case_ids": [],
+    "video_status": "deferred_owner_local_1080p_or_larger",
+    "audio_status": "acquired_decoded_measured_for_mapped_lines",
+    "alignment_to_future_video": "not_established",
+    "note": "Action-level audio presence does not change the nominated anchor speaker or prove video/audio synchronization."
+  }
+]

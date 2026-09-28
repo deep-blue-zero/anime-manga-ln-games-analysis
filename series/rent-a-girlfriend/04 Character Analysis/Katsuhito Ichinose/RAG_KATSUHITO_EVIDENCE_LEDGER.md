@@ -4,13 +4,13 @@ artifact_id: RAG_KATSUHITO_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; Katsuhito evidence is retrospective and memory-mediated, first directly represented in V012."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V028; Katsuhito evidence is retrospective and memory-mediated, first directly represented in V012 and newly reported in V028."
 ---
 
 # Katsuhito Ichinose evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 一ノ瀬勝人
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V020
+inspected_through_volume: V028
 evidence_mode: RETROSPECTIVE_AND_MEMORY_MEDIATED
 local_readiness: UNMODELED
 ~~~
@@ -47,17 +47,18 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-KAT-E006 | POST-KAT | RAG-E-V016-010, RAG-E-V016-012 | Chizuru's disclosure and visual memory; filming | Chizuru explains Katsuhito's death and the family purpose before completing the final scene, with supporter imagery linking past encouragement to present labor. | His role organizes how Chizuru interprets the film's completion. | Formal association does not make Kazuya a replacement for Katsuhito. | none; historical influence only |
 | RAG-KAT-E007 | POST-KAT | RAG-E-V017-012 | Flashback request; family support | A remembered request asks Sayuri to keep supporting Chizuru. | Extends his commitment through the surviving grandparent. | The flashback is a selected family memory and does not cover other contexts. | none; model withheld |
 | RAG-KAT-E008 | POST-KAT | RAG-E-V019-010 | Grief memory; family ritual | Sparklers activate Chizuru's memories of Katsuhito and Sayuri. | His presence persists in an ordinary family ritual after both deaths. | This is evidence about Chizuru's grief state, not new Katsuhito conduct. | none; historical influence only |
+| RAG-KAT-E009 | POST-KAT | RAG-E-V028-014, RAG-E-V028-015 | Survivor report, retained objects, and memorial image | Chizuru reports that Katsuhito collected stones during taxi trips; the stones remain in the family house, and she identifies him in an altar photograph. | Adds a concrete work-linked habit and material legacy to the posthumous family record. | The report is retrospective, does not establish why each stone was kept, and supplies no new contemporaneous conduct. | none; historical influence only |
 
 ## State-change summary
 
 - KAT-S001 — encouraging grandfather in retrospective family evidence: supports Chizuru's dream and is shown working as a taxi driver before the collision.
 - KAT-S002 — terminal supporter: briefly reassures Chizuru and dies.
-- POST-KAT — continuing family influence: his promise, memorial, request to Sayuri, and remembered rituals shape Chizuru's vocation and grief without adding new behavior by him.
+- POST-KAT — continuing family influence: his promise, memorial, request to Sayuri, remembered rituals, collected stones, and altar photograph shape Chizuru's vocation, grief, and household transition without adding new contemporaneous behavior by him.
 
 ## Written-speech and ordinary-conduct notes
 
 - Direct represented speech is encouraging, dream-centered, and addressed to Chizuru.
-- Taxi work is the only concrete independent routine shown, and it appears inside the fatal-event sequence.
+- Taxi work is the only concrete independent routine shown; V028 adds the reported habit of collecting stones during taxi trips.
 - Later evidence is dominated by family memory and symbolic inheritance rather than contemporaneous observation.
 
 ## Gaps and negative evidence

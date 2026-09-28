@@ -18,7 +18,7 @@ do_not_use_as_current_authority: false
 
 **Leo/need CROSS_UNIT / MEDIUM / DEFERRED_PENDING_FOUNDATION**, through Shiho's private conversation with Shizuku in card 0549:02. **N25 NONE / I0 / R0; VBS and WxS NONE.** Shizuku's complete card and all five areas contain no Mafuyu, Mizuki, N25-private transmission or Empty-SEKAI manifestation. Similarities between Haruka's childhood expressivity and another character's difficulties are not evidence of a cross-unit causal route. All singers here are Stage-SEKAI/MMJ manifestations.
 
-The [routing ledger](../../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0078--あの日の夢の彼方向こうへ) preserves discovery and later consumption. The [release-impact ledger](../../04_LONGITUDINAL_LEDGERS/PJSK_RELEASE_IMPACT_LEDGER.md#ri-event-0078--あの日の夢の彼方向こうへ) closes founded N25 scope without changing its five substantive ledgers. Latest positive N25 integration remains EVENT_0077, including `REL-N25-EM-5`; the human tuple remains `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
+The [routing-ledger historical volume](../../01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER_VOLUME_1_EVENT_0001_0090.md#event_0078--あの日の夢の彼方向こうへ) preserves discovery and later consumption. The [release-impact ledger](../../04_LONGITUDINAL_LEDGERS/PJSK_RELEASE_IMPACT_LEDGER.md#ri-event-0078--あの日の夢の彼方向こうへ) closes founded N25 scope without changing its five substantive ledgers. Latest positive N25 integration remains EVENT_0077, including `REL-N25-EM-5`; the human tuple remains `MF-E0072-01 / K-E0063-01 / E-E0070-01 / MZ-E0039-01`.
 
 ## 2. Complete envelope and temporal boundaries
 

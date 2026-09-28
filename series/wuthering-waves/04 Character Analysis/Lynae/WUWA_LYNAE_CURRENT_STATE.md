@@ -41,6 +41,10 @@ Current package reports:
 - zero structured human performance annotations;
 - no dedicated Lynae audiovisual export in the current package.
 
+## Bounded static visual layer
+
+The [V0.2 visual-design profile](CHARACTER_VISUAL_DESIGN_PROFILE.md) directly inspects Lynae's role-linked head icon, formation art, and activity portrait. Its JSON companion separates direct observation from design–narrative interpretation, and the reference manifest preserves official-client asset/package/container/hash provenance. This resolves a narrow static-appearance gap, not the inaugural test's runtime/scene AV, animation, rear-view, alternate-form, or human-performance requirements.
+
 ## Inaugural-test rules
 
 These original test criteria remain as the completion checklist. The pre-AV import supplies the textual reconstruction baseline; it does not certify every criterion as complete. The remaining work should:

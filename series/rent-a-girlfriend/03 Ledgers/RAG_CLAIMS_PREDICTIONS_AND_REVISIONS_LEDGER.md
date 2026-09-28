@@ -4,13 +4,13 @@ artifact_id: RAG_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: claims_predictions_revisions_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.23"
+version: "1.34"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V020; inspected, closed, checkpointed, and locally audited through V020; no V021 predictions frozen outside the authorized run."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030; no V031 narrative prediction frozen."
 ---
 
 # Claims, predictions, and revisions ledger
@@ -33,10 +33,10 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V020
-current_claim_count: 76
+inspected_through_volume: V030
+current_claim_count: 114
 frozen_prediction_count: 0
-state: CHECKPOINTED_THROUGH_V020__NO_NEXT_VOLUME_AUTHORIZATION
+state: CURRENT_THROUGH_V030__BLOCK_CLOSE
 ```
 
 ## Current claims
@@ -119,6 +119,44 @@ state: CHECKPOINTED_THROUGH_V020__NO_NEXT_VOLUME_AUTHORIZATION
 | RAG-CLM-074 | Mini's unauthorized romantic disclosure has a direct causal consequence when Chizuru cites it while asking Kazuya whether he likes her. | OBSERVATION | RAG-E-V020-015, RAG-E-V020-016 | Causal use does not validate Mini's interpretation or authorize the disclosure. | ADDED and supported in V020. |
 | RAG-CLM-075 | Kazuya converts internal love into personally identifying speech by naming Chizuru as his ideal girlfriend and beginning a direct declaration, but interruption prevents a completed mutual confession. | OBSERVATION | RAG-E-V020-019 through RAG-E-V020-021 | Chizuru's affected replay supplies no affirmative answer or final classification. | ADDED and supported in V020. |
 | RAG-CLM-076 | Mami can turn accumulated social information into legitimate-looking family access through Kibe and a business proposal while her desired endpoint remains opaque. | STRONG_INFERENCE | RAG-E-V020-022, RAG-E-V020-023 | Genuine work interest and instrumental access can coexist; sabotage or renewed romance is not established. | ADDED and supported in V020. |
+| RAG-CLM-077 | Sexualized or couple-coded staging does not determine consent: activity terms, a specific offer, and an explicit answer govern each act separately. | STRONG_INFERENCE | RAG-E-V023-001 through RAG-E-V023-005 | One pool sequence does not establish all future boundary conduct or broader romantic agreement. | ADDED and supported in V023. |
+| RAG-CLM-078 | Mami's concern language can coexist with platform research, selective warning, trust testing, and disclosure leverage, so presentation does not by itself settle protective or adversarial motive. | STRONG_INFERENCE | RAG-E-V023-004, RAG-E-V023-006, RAG-E-V023-008 through RAG-E-V023-016 | Mixed methods support motive pluralism but do not prove that concern is false or identify a final endpoint. | ADDED and supported in V023. |
+| RAG-CLM-079 | After Kazuya's withdrawal, Ruka expands unilateral status performance through public declaration, deceptive isolation, bodily pressure, and repeated fabricated sexual evidence. | STRONG_INFERENCE | RAG-E-V023-012, RAG-E-V023-013, RAG-E-V023-016, RAG-E-V023-017 | Kazuya's objections and denial remain explicit; Ruka's sincere feeling does not create consent or truth. | ADDED and supported in V023; strengthens the V021-V022 separation finding. |
+| RAG-CLM-080 | Kazuya can initiate selective truth correction under exposure pressure, but he still sequences public correction behind an unresolved confession and thereby preserves the larger deception. | STRONG_INFERENCE | RAG-E-V023-008 through RAG-E-V023-010, RAG-E-V023-019 | One candid conversation with Mami does not establish durable honesty or completed family correction. | ADDED and supported in V023. |
+| RAG-CLM-081 | Chizuru can move consequential rival information from private uncertainty into direct source checking without that act itself revealing a romantic or final trust judgment. | STRONG_INFERENCE | RAG-E-V023-016 through RAG-E-V023-018 | The brief question lacks a full debrief, explicit belief update, or relationship answer. | ADDED and supported in V023. |
+| RAG-CLM-082 | Chosen-family inclusion can become directly valuable to Chizuru through Sayuri's remembered teaching while remaining ethically entangled with the false couple premise. | STRONG_INFERENCE | RAG-E-V023-008, RAG-E-V023-020 through RAG-E-V023-022 | Gratitude, belonging, and a best-day appraisal do not validate deception, complete ring return, or establish romance. | ADDED and supported in V023. |
+| RAG-CLM-083 | Mami can combine accurate facts, selective omission, rescue language, and coercive verification into one public exposure performance; factual components do not make her framing neutral. | STRONG_INFERENCE | RAG-E-V026-001, RAG-E-V026-004, RAG-E-V026-009, RAG-E-V026-015 | Her full motive, exact pre-drop screen preparation, and next response remain unresolved. | ADDED and supported in V026. |
+| RAG-CLM-084 | Kazuya's sincere public love declaration coexists with a knowingly false mutual-dating timeline, so affective truth and status truth must be adjudicated separately. | OBSERVATION | RAG-E-V026-007, RAG-E-V026-008 | His feeling supplies no evidence that Chizuru agreed to date him before or during the scene. | ADDED and supported in V026. |
+| RAG-CLM-085 | Chizuru's two deliberate kisses, real-name disclosure, and statement that Kazuya became important are strong evidence of personal investment, while coercive public conditions and the explicit residual lie prevent promotion to a private mutual dating classification. | STRONG_INFERENCE | RAG-E-V026-012 through RAG-E-V026-016 | A later private debrief or direct self-classification could alter the prospective state but cannot retroactively make the V026 public claim true. | ADDED and supported in V026. |
+| RAG-CLM-086 | Near-total correction can preserve a structurally central deception: the room account removes almost every falsehood while retaining genuine dating as the sole lie that determines family interpretation. | OBSERVATION | RAG-E-V026-016 | The summarized account does not enumerate every disclosed detail, and later correction remains possible. | ADDED and supported in V026. |
+| RAG-CLM-087 | Ruka can reject an exposure method and protect the principals at personal cost without relinquishing her own attachment, disputed status claim, or prior deceptive conduct. | STRONG_INFERENCE | RAG-E-V026-009, RAG-E-V026-010, RAG-E-V026-016 | V026 ends before her next action and supplies no withdrawal or repair of the fabricated sex claim. | ADDED and supported in V026. |
+| RAG-CLM-088 | Immediate family acceptance after disclosure is evidence-responsive but not fully informed when it rests on the residual dating lie; Kibe's and Kazuo's violence remains a separate trust and boundary failure. | STRONG_INFERENCE | RAG-E-V026-006, RAG-E-V026-016 | Later family treatment, apology, scrutiny, or renewed rejection remains open. | ADDED and supported in V026. |
+| RAG-CLM-089 | Ordinary treatment can resume while the residual dating claim remains under direct peer scrutiny. | OBSERVATION | RAG-E-V027-001, RAG-E-V027-005 | Nagomi's normalization and Kuribayashi's challenge do not establish every observer's final belief or durable trust repair. | ADDED and supported in V027. |
+| RAG-CLM-090 | Ruka converts her V026 conflict into direct professional and access pressure against Chizuru without relinquishing her own disputed claim. | OBSERVATION | RAG-E-V027-002, RAG-E-V027-007 | Her grievance does not authorize grabbing, emotional compulsion, or control over Chizuru's employment and access. | ADDED and supported in V027. |
+| RAG-CLM-091 | Chizuru can admit professional wrongdoing and share responsibility while rejecting both Ruka's totalizing accusation and Kazuya's unilateral heroic blame. | STRONG_INFERENCE | RAG-E-V027-002, RAG-E-V027-004 | More balanced accountability does not correct the residual dating lie or settle romantic status. | ADDED and supported in V027. |
+| RAG-CLM-092 | Chizuru's private thought that she cannot like a customer supplies direct evidence of personally salient attraction or attachment constrained by the professional category. | STRONG_INFERENCE | RAG-E-V027-006 | The thought does not establish a final love label, intention to date, or reciprocal agreement. | ADDED and supported in V027. |
+| RAG-CLM-093 | Prolonged silence is an observable Chizuru choice rather than evidence that she is absent or hates Kazuya. | OBSERVATION | RAG-E-V027-008, RAG-E-V027-009 | Her full motive is withheld, and chosen avoidance can still cause substantial harm. | ADDED and supported in V027. |
+| RAG-CLM-094 | Mini can interrupt self-confirming rejection and prompt useful inquiry while her confident love label remains an interested interpretation rather than narrator authority. | STRONG_INFERENCE | RAG-E-V027-010 through RAG-E-V027-012 | Helpful consequence does not establish permission, omniscience, or the correctness of every romantic inference. | ADDED and supported in V027. |
+| RAG-CLM-095 | Roughly three months without contact end through a system-mediated rental booking, so restored access and continued professional distance arise from the same act. | OBSERVATION | RAG-E-V027-009, RAG-E-V027-013 through RAG-E-V027-015 | Platform acceptance and paid attendance do not establish personal acceptance or resolved feeling. | ADDED and supported in V027. |
+| RAG-CLM-096 | The paid date makes client status both a communication route and a barrier: it creates bounded contact, cost, performance ambiguity, and a clock for direct speech. | STRONG_INFERENCE | RAG-E-V027-013 through RAG-E-V027-015 | Chizuru's initiated statement and the wrapper's eventual disposition remain beyond the volume cut. | ADDED and supported in V027. |
+| RAG-CLM-097 | Direct apology and first-person explanation can end prolonged silence without retroactively making avoidance harmless. | STRONG_INFERENCE | RAG-E-V028-001 through RAG-E-V028-004 | Chizuru explains Ruka-linked concern and responsibility, but the complete motive and accumulated cost remain partly unresolved. | ADDED and supported in V028. |
+| RAG-CLM-098 | Chizuru converts uncertainty into a structured investigation and promised answer while refusing both a convenient love label and a false rejection. | OBSERVATION | RAG-E-V028-003, RAG-E-V028-004, RAG-E-V028-006 | The method is improvised and V028 supplies no result or mutual status. | ADDED and supported in V028. |
+| RAG-CLM-099 | Rental work is simultaneously a professional rule system, valued practice, and material support for tuition and expenses; a rule breach does not reduce it to disguise or disposable obstacle. | OBSERVATION | RAG-E-V028-003, RAG-E-V028-004 | Continued employment does not settle whether the kisses had romantic meaning or how future bookings will be governed. | ADDED and supported in V028. |
+| RAG-CLM-100 | The professional “Mizuhara” presentation and Chizuru's whole person are analytically distinguishable roles without constituting separate selves. | STRONG_INFERENCE | RAG-E-V028-004 | Kazuya's answer does not establish how accurately he knows every private domain, and Chizuru's worry remains consequential. | ADDED and supported in V028. |
+| RAG-CLM-101 | Chizuru operationalizes the investigation through direct status inquiry, bounded private observation, ordinary messaging, vocational access, and family-house labor. | STRONG_INFERENCE | RAG-E-V028-004 through RAG-E-V028-010, RAG-E-V028-013 through RAG-E-V028-015 | Access expansion has multiple practical causes and does not establish a favorable answer. | ADDED and supported in V028. |
+| RAG-CLM-102 | Concern for Ruka becomes an explicit constraint on Chizuru's choices without granting Ruka authority over Chizuru's work, access, or final feeling. | STRONG_INFERENCE | RAG-E-V028-001, RAG-E-V028-006, RAG-E-V028-009 | No workable separation, corrected fabrication, or mutually accepted boundary is observed. | ADDED and supported in V028. |
+| RAG-CLM-103 | Ordinary communication can resume beyond paid time while romantic classification, the residual dating lie, and rival status all remain unresolved. | OBSERVATION | RAG-E-V028-004 through RAG-E-V028-010 | Message warmth, privacy, and duration do not themselves create a relationship agreement. | ADDED and supported in V028. |
+| RAG-CLM-104 | Practical labor at Chizuru's childhood home turns post-bereavement property transition and family memory into shared access without making the task romantic by default. | STRONG_INFERENCE | RAG-E-V028-013 through RAG-E-V028-015 | Sale, retained objects, the photograph explanation, and later access remain open. | ADDED and supported in V028. |
+| RAG-CLM-105 | The altar portrait identifies Chizuru's mother, who died when Chizuru was four, and a rare surviving photograph remains valuable. | OBSERVATION | RAG-E-V029-001 | The image and Chizuru's account do not reveal a complete family history. | ADDED and supported in V029. |
+| RAG-CLM-106 | Quake damage displaces the former neighbors and converts the family house from a possible sale/cleanup site into temporary shelter. | OBSERVATION | RAG-E-V029-003 through RAG-E-V029-005, RAG-E-V029-011 | Final property disposition and building repairs are unknown. | ADDED and supported in V029. |
+| RAG-CLM-107 | Chizuru explicitly acknowledges loneliness and considers a kiss as an inquiry test while drinking, but the approach is interrupted. | OBSERVATION | RAG-E-V029-007 through RAG-E-V029-009 | No completed kiss or sober romantic conclusion follows. | ADDED and supported in V029. |
+| RAG-CLM-108 | A sober, one-month separate-room offer with Mini as another resident creates bounded domestic access without a mutual dating agreement; V030 implements the room, key, cost, and facility terms. | STRONG_INFERENCE | RAG-E-V029-010 through RAG-E-V029-012, RAG-E-V030-002 through RAG-E-V030-004 | Actual routine now begins; full duration and final inquiry answer remain open. | ADDED in V029; extended in V030. |
+| RAG-CLM-109 | The new arrangement carries explicit concern about Ruka and continuing family belief in a genuine couple; Kazuya now conceals his destination from Ruka and leaves Nagomi's premise uncorrected. | STRONG_INFERENCE | RAG-E-V029-005, RAG-E-V029-010 through RAG-E-V029-012, RAG-E-V030-001 | Ruka's informed reaction and Nagomi's response to full truth remain unknown. | ADDED in V029; concealment confirmed in V030. |
+| RAG-CLM-110 | Three-person cohabitation makes intimate-looking space a routine of separable room, key, bath, sink, and cost decisions without producing mutual dating status. | STRONG_INFERENCE | RAG-E-V030-002 through RAG-E-V030-004 | Kazuya's fantasies cannot establish shared bodily access or Chizuru's answer. | ADDED and supported in V030. |
+| RAG-CLM-111 | Domestic inquiry advances through ordinary observation and explicit limits, while the cat scene and Kazuya's interpretation do not disclose Chizuru's private classification. | STRONG_INFERENCE | RAG-E-V030-002 through RAG-E-V030-005 | No completed sober kiss test or final answer is observed. | ADDED and supported in V030. |
+| RAG-CLM-112 | The birthday request distinguishes an explicit no-present limit from Kazuya's desire for a modest acknowledgment; neither giving nor acceptance occurs in V030. | OBSERVATION | RAG-E-V030-006, RAG-E-V030-008 | Sumi's counsel cannot waive Chizuru's boundary. | ADDED and supported in V030. |
+| RAG-CLM-113 | Mami's initiated meeting and Kazuya's apology reopen contact while her purpose remains indeterminate. | OBSERVATION | RAG-E-V030-007 | Surface warmth, probing, and early departure support multiple motives. | ADDED and supported in V030. |
+| RAG-CLM-114 | Sumi's practical first aid and quiet birthday counsel recur as bounded care without speaking for Chizuru or resolving her own relation to Kazuya. | STRONG_INFERENCE | RAG-E-V030-008 | No birthday outcome or Chizuru response follows. | ADDED and supported in V030. |
 
 ## Competing hypotheses
 
@@ -341,21 +379,220 @@ The V020 checkpoint and local reconstruction audit are the latest block-level sy
 | RAG-PRED-075 | SUPPORTED | Chizuru explicitly cites Mini's disclosure while asking Kazuya whether he likes her; RAG-E-V020-015, RAG-E-V020-016. | The outcome does not validate Mini's theory or authorization. |
 | RAG-PRED-076 | SUPPORTED | Kazuya initiates ordinary food access, names Mizuhara as his ideal girlfriend, and begins a confession before interruption; RAG-E-V020-013, RAG-E-V020-019, RAG-E-V020-020. | The final proposition is incomplete and unanswered. |
 
-## Terminal prediction disposition
+## V020 terminal prediction disposition
 
-No predictions are frozen for V021. The authorized sequential run ends at V020, and V021 narrative evidence remains inadmissible unless a later authorization opens a new transaction.
+At the V020 close, no predictions were frozen for V021 because the then-authorized sequential run ended at V020. The later V021-V030 authorization opens a new transaction and supplies the prospective freeze below without altering that historical boundary.
+
+## Frozen predictions for V021
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-077 | Chizuru's replay and public denial of Kazuya's partly delivered declaration will produce a private answer, renewed confession attempt, evasion, boundary, access change, or explicit classification pressure. | RAG-E-V020-019 through RAG-E-V020-021, RAG-E-V020-024, RAG-E-V020-025 | V021 supplies no consequence to the partly heard declaration or Chizuru's avoidance. |
+| RAG-PRED-078 | Mami's scheduled app follow-up and request to conceal her past with Kazuya will produce a business step, family contact, information request, disclosure pressure, conflict, or other observable use of the Kibe-Nagomi route. | RAG-E-V020-022, RAG-E-V020-023 | V021 supplies no consequence to the scheduled proposal or newly active family route. |
+| RAG-PRED-079 | Kazuya's continued preference for Chizuru and Ruka's unresolved provisional status will produce an observable breakup attempt, status negotiation, jealousy response, access demand, consent boundary, or tactical change. | RAG-E-V020-005 through RAG-E-V020-008 | V021 supplies no consequence to the unresolved trial or the unequal romantic positions. |
+| RAG-PRED-080 | Chizuru's stated intention to continue acting and her new capacity for direct unbooked contact will produce an observable acting, professional-network, ordinary-contact, invitation, or boundary consequence. | RAG-E-V020-002, RAG-E-V020-009, RAG-E-V020-013, RAG-E-V020-014 | V021 supplies no acting/career consequence and no consequence to the new ordinary-access route. |
+
+## Adjudicated predictions from the V020 boundary
+
+| Prediction ID | Adjudication | V021 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-077 | SUPPORTED | The interrupted declaration produces renewed confession planning, Umi-mediated interpretation of Chizuru's qualified phrase, Chizuru's conditional partner account, and repeated but incomplete confession attempts; RAG-E-V021-006 through RAG-E-V021-010, RAG-E-V021-013, RAG-E-V021-022. | Chizuru gives no current romantic self-classification and Kazuya completes no proposition. |
+| RAG-PRED-078 | SUPPORTED | Repeated Nagomi contact, the bag-based leakage inference, crowdfunding research, Mami's direct Chizuru intervention, and her final call to Nagomi make the family route operational; RAG-E-V021-001, RAG-E-V021-014, RAG-E-V021-018 through RAG-E-V021-024. | The app's independent viability, call content, and Mami's final endpoint remain unknown. |
+| RAG-PRED-079 | SUPPORTED | Kazuya explicitly requests breakup and states nonreciprocity; Ruka refuses, asserts continued pursuit, and increases message pressure; RAG-E-V021-011, RAG-E-V021-012, RAG-E-V021-022. | Her refusal does not create his consent or establish how later conduct will be labeled. |
+| RAG-PRED-080 | SUPPORTED | Chizuru invites Kazuya into an acting-network party and affirms his producer role; Umi adds public promotion, a romantic-information probe, and direct contact; RAG-E-V021-002 through RAG-E-V021-007. | One party and post do not establish durable career conversion or couple status. |
+
+## Frozen predictions for V022
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-081 | Mami's direct call to Nagomi will produce a concrete family, app-project, invitation, disclosure, scheduling, or conflict consequence. | RAG-E-V021-001, RAG-E-V021-018 through RAG-E-V021-024 | V022 supplies no consequence to the direct call or active family route. |
+| RAG-PRED-082 | Chizuru's question about how many nights Kazuya can go, following Nagomi's call, will produce a travel, lodging, family-event, scheduling, refusal, or changed-access consequence. | RAG-E-V021-023 | V022 supplies no consequence to the overnight question or linked contact. |
+| RAG-PRED-083 | Ruka's rejected breakup and increased messaging will produce another status claim, access demand, monitoring act, tactical change, boundary, or response to the attempted ending. | RAG-E-V021-011, RAG-E-V021-012, RAG-E-V021-022 | V022 supplies no consequence to the breakup attempt or intensified contact. |
+| RAG-PRED-084 | Kazuya's renewed confession plan and Chizuru's decision to help under Mami's intervention will produce a confession attempt, truth-correction attempt, explicit classification pressure, coordinated response, or observable deferral. | RAG-E-V021-013 through RAG-E-V021-017, RAG-E-V021-021 through RAG-E-V021-024 | V022 supplies no consequence to either person's stated intention or to Mami's proposed ending. |
+
+## Adjudicated predictions from the V021 boundary
+
+| Prediction ID | Adjudication | V022 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-081 | SUPPORTED | Mami's Nagomi route culminates in her inclusion in the Kinoshita family trip, where she brings project knowledge and intervention pressure into the shared setting; RAG-E-V022-014 through RAG-E-V022-019. | The exact content and full causal contribution of the V021 call remain withheld; prior lodging and the manager connection also enable the encounter. |
+| RAG-PRED-082 | SUPPORTED | The overnight question becomes a two-night, three-day Hawaiians trip with lodging, family care, rental-rule negotiation, the ring problem, and changed access; RAG-E-V022-003, RAG-E-V022-004, RAG-E-V022-008 through RAG-E-V022-013. | The trip does not resolve the relationship or family deception. |
+| RAG-PRED-083 | SUPPORTED | Ruka answers the rejected breakup with an overnight attempt, a forced kiss, continued status pressure, monitoring, and the deliberate condom-wrapper fabrication; RAG-E-V022-001 through RAG-E-V022-007. | Escalation supplies no reciprocal status and does not establish Chizuru's lasting belief. |
+| RAG-PRED-084 | SUPPORTED | Kazuya sets and attempts a confession deadline; Chizuru and Kazuya coordinate around the trip and ring; Mami's presence and Chizuru's avoidance keep completion deferred; RAG-E-V022-010 through RAG-E-V022-022. | No confession, truth correction, ring return, or alliance with Mami is completed. |
+
+## Frozen predictions for V023
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-085 | Kazuya's renewed on-trip deadline will produce another confession or truth-correction attempt, a completed proposition, an answer, an interruption, or an explicit deferral. | RAG-E-V022-013, RAG-E-V022-019, RAG-E-V022-021 through RAG-E-V022-024 | V023 supplies no consequence to the renewed deadline or the interrupted room attempt. |
+| RAG-PRED-086 | Mami's embedded trip presence and stated intention to end the situation will produce a direct probe, disclosure threat, information move, alliance test, or family-facing intervention. | RAG-E-V022-014 through RAG-E-V022-020 | V023 supplies no observable use of Mami's trip access or intervention stance. |
+| RAG-PRED-087 | Ruka's condom-wrapper fabrication and active monitoring will produce a Chizuru reaction, confrontation, changed status judgment, further rivalry pressure, or discovery or correction of the lie. | RAG-E-V022-004 through RAG-E-V022-007, RAG-E-V022-016 | V023 supplies no consequence to the fabricated evidence or its intended wedge. |
+| RAG-PRED-088 | The ring-return plan, shared agreement to get through the trip, and mixed family/peer audience will produce coordination about the ring or cover story, an exposure event, a revised arrangement, or another explicit truth-management action. | RAG-E-V022-008 through RAG-E-V022-011, RAG-E-V022-018 through RAG-E-V022-020 | V023 supplies no consequence to the ring obligation, operational alliance, or split-audience problem. |
+
+## Adjudicated predictions from the V022 boundary
+
+| Prediction ID | Adjudication | V023 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-085 | SUPPORTED | Kazuya tells Mami that he will correct the family lie after confessing and later vows again to end the situation during the trip; RAG-E-V023-009, RAG-E-V023-010, RAG-E-V023-019. | The consequence is renewed sequencing and explicit deferral; no confession, answer, or public correction completes. |
+| RAG-PRED-086 | SUPPORTED | Mami probes Ruka, researches Chizuru's profile, warns Chizuru of disclosure capacity, tests Kazuya's correction plan, and asks whether Ruka will tell Nagomi; RAG-E-V023-004, RAG-E-V023-006, RAG-E-V023-008 through RAG-E-V023-016. | These moves do not reveal her final motive or produce full family disclosure. |
+| RAG-PRED-087 | SUPPORTED | The wrapper reappears, Ruka repeats the sex claim, Kazuya directly denies it, and Chizuru asks him whether he lied; RAG-E-V023-016 through RAG-E-V023-018. | The volume does not supply a full factual debrief or Chizuru's final belief. |
+| RAG-PRED-088 | SUPPORTED | Kazuya admits the cover lie to Mami and explicitly asks her to act unaware while he sequences correction after confession; RAG-E-V023-008 through RAG-E-V023-010. | The ring does not reappear, and the requested concealment does not complete a revised shared arrangement with Chizuru or the family. |
+
+## Frozen predictions for V024
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-089 | Kazuya's renewed promise to end the situation during the trip and confession-contingent correction plan will produce another confession or truth-correction attempt, a completed proposition, an answer, an interruption, or another explicit deferral. | RAG-E-V023-009, RAG-E-V023-010, RAG-E-V023-019 | V024 supplies no consequence to the renewed trip deadline or stated correction sequence. |
+| RAG-PRED-090 | Mami's parallel probes, independent profile research, disclosure warning, and Nagomi test will produce another information move, alliance test, disclosure threat, family-facing intervention, or observable tactical delay. | RAG-E-V023-004, RAG-E-V023-006, RAG-E-V023-008 through RAG-E-V023-016 | V024 supplies no consequence to Mami's active intervention routes. |
+| RAG-PRED-091 | Chizuru's direct wrapper question and Kazuya's denial will produce a clarification, trust judgment, confrontation, changed status inference, or further verification of Ruka's claim. | RAG-E-V023-016 through RAG-E-V023-018 | V024 supplies no consequence to the direct source check or contradictory accounts. |
+| RAG-PRED-092 | Chizuru's explicit best-day appraisal and chosen-family recognition inside a still-false family account will produce further family participation, care, guilt, boundary, ring, cover-story, or exposure consequence. | RAG-E-V023-020 through RAG-E-V023-022 | V024 supplies no consequence to the strengthened family belonging or its conflict with the uncorrected premise. |
+
+## Adjudicated predictions from the V023 boundary
+
+| Prediction ID | Adjudication | V024 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-089 | SUPPORTED | Kazuya fixes a same-day deadline, searches for Chizuru, reaches the chapel, and initiates direct speech; RAG-E-V024-010, RAG-E-V024-020 through RAG-E-V024-022. | The proposition, wider truth correction, and answer remain beyond the volume boundary. |
+| RAG-PRED-090 | SUPPORTED | Mami judges the souvenir-ring scene, a locked account in her sequence frames withheld action as help, same-day answer pressure remains active, and Nagomi requests a private talk; RAG-E-V024-009, RAG-E-V024-015, RAG-E-V024-019. | No public disclosure or completed Nagomi-Mami conversation occurs. |
+| RAG-PRED-091 | SUPPORTED | Ruka repeats the wrapper claim and demands emotional classification; Chizuru then directly asks whether Kazuya still cares for Mami, and he denies wanting her while offering limited interpretive help; RAG-E-V024-012 through RAG-E-V024-015. | The wrapper receives no full factual debrief, and Chizuru's final trust judgment remains unstated. |
+| RAG-PRED-092 | SUPPORTED | Nagomi explicitly names Chizuru as family; Harumi offers care and releases her from compulsory ring retention; Ruka demands return and truth; and wedding and mortality history intensify the same obligation; RAG-E-V024-002, RAG-E-V024-007 through RAG-E-V024-009, RAG-E-V024-011 through RAG-E-V024-013, RAG-E-V024-016, RAG-E-V024-017. | Family care continues under the false premise, and neither ring return nor exposure completes. |
+
+## Frozen predictions for V025
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-093 | Kazuya's direct chapel approach and request that Chizuru listen will produce a completed romantic proposition or truth statement, an answer, an interruption, a flight, or another explicit deferral. | RAG-E-V024-020 through RAG-E-V024-022 | V025 supplies no consequence to the initiated chapel speech. |
+| RAG-PRED-094 | Mami's ring-scene judgment, intervention self-framing, same-day pressure, and Nagomi's request to talk will produce a family-facing conversation, disclosure threat or action, tactical delay, alliance test, or material information change. | RAG-E-V024-009, RAG-E-V024-015, RAG-E-V024-019 | V025 supplies no consequence to Nagomi's message or Mami's active intervention stance. |
+| RAG-PRED-095 | Kuribayashi's direct statement that he came to see Ruka will produce a relationship-history discussion, support attempt, status response, rejection, or changed access between them. | RAG-E-V024-018 | V025 supplies no consequence to the initiated Kuribayashi-Ruka contact. |
+| RAG-PRED-096 | Harumi's permission to return the ring, Nagomi's family and wedding framing, and Ruka's disclosure pressure will produce a return attempt, explanation, continued concealment, family boundary, cover story, or exposure consequence. | RAG-E-V024-002, RAG-E-V024-007 through RAG-E-V024-009, RAG-E-V024-011 through RAG-E-V024-013, RAG-E-V024-016, RAG-E-V024-017 | V025 supplies no consequence to the ring-release and family-obligation conflict. |
+
+## Adjudicated predictions from the V024 boundary
+
+| Prediction ID | Adjudication | V025 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-093 | SUPPORTED | Kazuya continues the chapel attempt, but Mami's arrival message prompts Chizuru to apologize and run before a proposition or answer; RAG-E-V025-003, RAG-E-V025-004. | The consequence is interruption, flight, and explicit deferral rather than a completed confession. |
+| RAG-PRED-094 | SUPPORTED | Mami creates an immediate room-and-ring disclosure plan, Chizuru refuses and obtains a tactical delay, and the volume ends with the rental profile exposed on the fallen phone; RAG-E-V025-005, RAG-E-V025-006, RAG-E-V025-010, RAG-E-V025-014, RAG-E-V025-018, RAG-E-V025-021. | V026 identifies the device as Ruka's and records Mami saying that she dropped it; the exact pre-drop screen preparation remains unshown. |
+| RAG-PRED-095 | SUPPORTED | Kuribayashi tells Ruka that he is glad to see her, worried after she left the service, and ashamed of his own status display rather than angry at her; RAG-E-V025-011. | The clarification does not establish romance, reconciliation, or continuing access. |
+| RAG-PRED-096 | SUPPORTED | Mami makes the inherited ring part of the planned disclosure, Chizuru refuses the method and supplies a cover story, and the false family account reaches profile exposure without a completed ring return; RAG-E-V025-005, RAG-E-V025-012 through RAG-E-V025-014, RAG-E-V025-018, RAG-E-V025-021. | The ring remains unreturned and is not itself displayed to the group at the cliffhanger. |
+
+## Frozen predictions for V026
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-097 | The visible Diamond profile on Nagomi's fallen phone will produce an identification, question, denial, explanation, interruption, removal attempt, or other immediate exposure consequence. | RAG-E-V025-021, RAG-E-V025-022 | V026 supplies no consequence to the displayed profile. |
+| RAG-PRED-098 | Kazuya and Chizuru's shared exposure crisis will produce coordination, divergent accounts, a protective action, blame allocation, status clarification, or an observable failure to coordinate. | RAG-E-V025-017, RAG-E-V025-018, RAG-E-V025-021, RAG-E-V025-022 | V026 supplies no joint or contrasting response from the two principals. |
+| RAG-PRED-099 | Mami's prior disclosure plan, conditional truce, and smile at the profile reveal will produce an intervention, explanation, denial, rescue framing, accountability test, or further information move. | RAG-E-V025-005, RAG-E-V025-006, RAG-E-V025-010, RAG-E-V025-018, RAG-E-V025-021 | V026 supplies no consequence to Mami's position at the exposure. |
+| RAG-PRED-100 | Nagomi's explicit chosen-family commitment, the unresolved inherited ring, and the rental-profile display will produce a family judgment, care response, anger, boundary, factual question, ring consequence, or changed relationship belief. | RAG-E-V024-002, RAG-E-V024-008, RAG-E-V025-005, RAG-E-V025-012 through RAG-E-V025-014, RAG-E-V025-021 | V026 supplies no family or ring consequence to the corrected-information threat. |
+
+## Material claim revision at the V026 boundary
+
+| Revision ID | Prior formulation | Revised formulation | Evidence and impact |
+|---|---|---|---|
+| RAG-REV-006 | V025 close artifacts described the displayed device as Nagomi's phone or said that Nagomi dropped it. | The phone belongs to Ruka, and Mami says that she dropped it; Nagomi is an observer who then asks the direct relationship question. | Reinspection of RAG-E-V025-021 and the explicit continuation at RAG-E-V026-001 correct current factual artifacts. The frozen RAG-PRED-097 wording above remains preserved as the historical prospective record. The exact pre-drop screen preparation remains unknown. |
+
+## Adjudicated predictions from the V025 boundary
+
+| Prediction ID | Adjudication | V026 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-097 | SUPPORTED | The profile produces immediate identification, a failed joke-image cover, Kazuya's removal attempt, Kazuo's money question, and Nagomi's direct status question; RAG-E-V026-001 through RAG-E-V026-003. | The frozen wording misidentified the device as Nagomi's; V026 corrects it as Ruka's phone dropped by Mami. |
+| RAG-PRED-098 | SUPPORTED | Kazuya constructs a protective dating timeline, accepts blame, and confesses love; Chizuru initiates two kisses, discloses her identity, makes a public status claim, and joins the near-complete private explanation; RAG-E-V026-007 through RAG-E-V026-016. | Coordination preserves one explicit lie, and no private mutual romantic classification completes. |
+| RAG-PRED-099 | SUPPORTED | Mami acknowledges dropping the phone, performs a whistleblower accusation, and twice turns kissing into a public proof demand; RAG-E-V026-001, RAG-E-V026-004, RAG-E-V026-009, RAG-E-V026-015. | The exact pre-drop screen preparation and a single exhaustive motive remain unshown. |
+| RAG-PRED-100 | SUPPORTED | Kazuo raises the money exchange, Kibe uses the ring as evidence, Nagomi requests explanation and later accepts the near-complete account, and family trust changes; RAG-E-V026-002, RAG-E-V026-006, RAG-E-V026-016. | No completed ring return is visible, and family acceptance still rests on the residual dating lie. |
+
+## Frozen predictions for V027
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-101 | Ruka's intervention against Mami, continued attachment, and hard endpoint stare will produce a confrontation, withdrawal, status demand, emotional disclosure, changed access, or other observable response to the kisses and retained couple cover. | RAG-E-V026-009, RAG-E-V026-010, RAG-E-V026-016 | V027 supplies no consequence to Ruka's V026 position. |
+| RAG-PRED-102 | Kazuya and Chizuru's public kisses, real-name disclosure, and retained dating lie will produce a private debrief, avoidance, interpretation, boundary, gratitude, status discussion, or observable failure to communicate. | RAG-E-V026-012 through RAG-E-V026-016 | V027 supplies no consequence between the two principals. |
+| RAG-PRED-103 | Mami's staged exposure, failed accusation endpoint, and repeated proof demands will produce withdrawal, renewed pressure, reframing, emotional reaction, access change, or another information move. | RAG-E-V026-001, RAG-E-V026-004, RAG-E-V026-009, RAG-E-V026-015 | V027 supplies no consequence to her failed public intervention. |
+| RAG-PRED-104 | Nagomi's conditional acceptance, Kibe's trust rupture, Kazuo's anger, and the near-complete explanation will produce changed treatment, apology, boundary, continued scrutiny, family integration, or another trust consequence. | RAG-E-V026-006, RAG-E-V026-016 | V027 supplies no family or peer consequence to the V026 disclosure. |
+
+## Adjudicated predictions from the V026 boundary
+
+| Prediction ID | Adjudication | V027 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-101 | SUPPORTED | Ruka confronts Chizuru, attempts an agency complaint, demands professional and access boundaries, and later calls the kisses a necessary evil while preserving her own claim; RAG-E-V027-002, RAG-E-V027-007. | Her attachment, fabricated sexual claim, and workable separation remain unresolved. |
+| RAG-PRED-102 | SUPPORTED | The principals privately debrief the kisses and responsibility, then undergo deliberate silence for roughly three months before a paid rental recontact; RAG-E-V027-003 through RAG-E-V027-009, RAG-E-V027-013 through RAG-E-V027-015. | The debrief supplies no mutual classification, and the endpoint cuts before Chizuru's direct statement. |
+| RAG-PRED-103 | DISCONFIRMED | V027 supplies no canonical Mami withdrawal, renewed pressure, reframing, emotional reaction, access change, or information move. | Creator-labeled cut pages at `0188.jpg`-`0193.jpg` cannot rescue the prediction because they are non-continuity; RAG-E-V027-016. |
+| RAG-PRED-104 | SUPPORTED | Nagomi supports continued ordinary treatment, and Kuribayashi directly challenges whether the couple claim is real by invoking the kisses; RAG-E-V027-001, RAG-E-V027-005. | Both consequences occur under the residual dating lie and do not establish durable trust repair for every family or peer. |
+
+## Frozen predictions for V028
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-105 | Chizuru's serious “hey” and Kazuya's resolve at the paid-date endpoint will produce substantive speech about the silence, kisses, feelings, apology, or relationship boundary. | RAG-E-V027-013 through RAG-E-V027-015 | V028 supplies no substantive consequence to the conversational threshold. |
+| RAG-PRED-106 | Chizuru's resolve to face and examine her unnamed feeling will produce a concrete inquiry, test, disclosure, observation, or explicit limit. | RAG-E-V027-011, RAG-E-V027-012, RAG-E-V027-015 | V028 supplies no behavior that advances or bounds the investigation. |
+| RAG-PRED-107 | Chizuru's guilt toward Ruka and Ruka's demand for professional and access limits will produce renewed status or boundary negotiation, confrontation, changed access, or disclosure. | RAG-E-V027-002, RAG-E-V027-007, RAG-E-V027-011 | V028 supplies no consequence to the Ruka boundary conflict. |
+| RAG-PRED-108 | Recontact through a paid date will create a payment, professional-role, booking, refund, extension, or client-versus-person distinction with observable consequence. | RAG-E-V027-013 through RAG-E-V027-015 | The rental wrapper produces no consequence beyond background setting. |
+
+## Adjudicated predictions from the V027 boundary
+
+| Prediction ID | Adjudication | V028 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-105 | SUPPORTED | The paid-date endpoint produces Chizuru's apology for silence, explanation of Ruka concern, and direct discussion of the kisses, feeling, responsibility, and future answer; RAG-E-V028-001 through RAG-E-V028-004. | The conversation defines uncertainty and process rather than a final romantic classification. |
+| RAG-PRED-106 | SUPPORTED | Chizuru explicitly commits to investigation, asks Ruka's current status, names a private-access concern, promises an answer, sustains ordinary observation time, and later invites Kazuya into family-house labor; RAG-E-V028-004 through RAG-E-V028-007, RAG-E-V028-013 through RAG-E-V028-015. | The method remains partly improvised, and the volume supplies no final answer. |
+| RAG-PRED-107 | SUPPORTED | Chizuru says Ruka concern caused the silence, directly asks Kazuya about Ruka, treats Ruka's feeling as real, and questions private-room access; Ruka later appears at work still claiming girlfriend status and caring for him; RAG-E-V028-001, RAG-E-V028-006, RAG-E-V028-009. | No workable separation, corrected fabricated evidence, or mutually accepted access rule follows. |
+| RAG-PRED-108 | SUPPORTED | Chizuru treats the kisses as a professional violation serious enough to consider resignation, questions whether Kazuya loves the provider presentation, and moves from a paid date into ordinary LINE, apartment, vocational, and family-home access; RAG-E-V028-002 through RAG-E-V028-005, RAG-E-V028-007 through RAG-E-V028-015. | The booking is not explicitly extended or refunded, and movement beyond it does not by itself create dating status. |
+
+## Frozen predictions for V029
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-109 | The unidentified photograph at the family altar will produce a kinship identification, family-history disclosure, emotionally material response, or explicit refusal to explain. | RAG-E-V028-015 | V029 supplies no substantive consequence to Kazuya's photograph question. |
+| RAG-PRED-110 | The cleanup and contemplated sale will produce a concrete decision or constraint involving property, storage, keys, continued labor, residence, disposal, or retained objects. | RAG-E-V028-013 through RAG-E-V028-015 | V029 supplies no practical consequence to the house transition. |
+| RAG-PRED-111 | Chizuru's inquiry will produce another explicit question, observation, test, disclosure, answer promise, or access limit tied to how she evaluates Kazuya or her own feeling. | RAG-E-V028-004 through RAG-E-V028-007, RAG-E-V028-013 through RAG-E-V028-015 | V029 supplies no observable continuation of the investigation. |
+| RAG-PRED-112 | The expansion from paid contact to private rooms, sustained LINE, theater access, and family-house labor will produce a Ruka status or boundary response, explicit accounting for her claim, changed access, confrontation, or disclosure. | RAG-E-V028-006 through RAG-E-V028-010, RAG-E-V028-013 through RAG-E-V028-015 | V029 supplies no consequence to the still-active Ruka conflict. |
+
+## Adjudicated predictions from the V028 boundary
+
+| Prediction ID | Adjudication | V029 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-109 | SUPPORTED | The altar portrait is Chizuru's mother, who died when Chizuru was four; RAG-E-V029-001. | Other family history remains open. |
+| RAG-PRED-110 | SUPPORTED | The quake displaces residents and Chizuru offers one-month shelter at the family house; RAG-E-V029-004, RAG-E-V029-011, RAG-E-V029-012. | Ultimate sale remains unknown. |
+| RAG-PRED-111 | SUPPORTED | Chizuru discusses loneliness, considers an interrupted drunken kiss test, and later offers sober bounded residence; RAG-E-V029-007 through RAG-E-V029-012. | No final answer or completed kiss test. |
+| RAG-PRED-112 | SUPPORTED, limited | Kazuya explicitly raises Ruka as a concern when the move is proposed; RAG-E-V029-005, RAG-E-V029-011. | No Ruka appearance, informed response, or workable rule. |
+
+## Frozen predictions for V030
+
+| Prediction ID | Observable expectation | Source basis | Disconfirmation |
+|---|---|---|---|
+| RAG-PRED-113 | Three-person, one-month residence produces an operating boundary, spatial/cost/chores arrangement, access negotiation, or practical friction. | RAG-E-V029-011, RAG-E-V029-012 | V030 leaves residence as title-only premise. |
+| RAG-PRED-114 | Sober inquiry after the interrupted drunken near-kiss produces a question, observation, revised test, answer promise, or explicit limit. | RAG-E-V029-007 through RAG-E-V029-011 | V030 gives no observable inquiry consequence. |
+| RAG-PRED-115 | The move produces disclosure, concealment, status discussion, changed access, or confrontation concerning Ruka's disputed claim. | RAG-E-V029-005, RAG-E-V029-011 | V030 gives no Ruka-related response or accounting. |
+| RAG-PRED-116 | Lost apartment, Nagomi's false premise, and temporary family-house arrangement produce a practical or audience-facing housing/family consequence. | RAG-E-V029-004, RAG-E-V029-010 through RAG-E-V029-012 | V030 supplies no such consequence. |
+
+## Adjudicated predictions from the V029 boundary
+
+| Prediction ID | Adjudication | V030 basis | Limit |
+|---|---|---|---|
+| RAG-PRED-113 | SUPPORTED | Separate room and key, month and three-person terms, expenses, bath order, and sink routine; RAG-E-V030-002 through RAG-E-V030-004. | Operating access is bounded. |
+| RAG-PRED-114 | SUPPORTED, limited | Sober household observation and explicit limits operate in ordinary routines; RAG-E-V030-002 through RAG-E-V030-005. | No direct new answer or completed kiss test. |
+| RAG-PRED-115 | SUPPORTED | Kazuya conceals the Chizuru-house destination when Ruka asks about his move; RAG-E-V030-001. | No informed reaction or separation. |
+| RAG-PRED-116 | SUPPORTED | Displacement shapes practical room/cost terms and the incomplete Ruka/Nagomi accounts; RAG-E-V030-001, RAG-E-V030-002. | Sale and audience correction remain open. |
+
+The V021-V030 block ends here. No V031 prediction is frozen or narrative source admitted at this boundary.
 
 ## Open evidence questions
 
 - What exact terms governed Ruka's original rental relationship with Kuribayashi beyond the now-shared basic truth?
 - Will Chizuru's family-linked acting purpose and selective unpriced access alter her longer-term career or relationship classification?
 - What relationship or family outcome does Mami seek through the senior-smartphone business route?
-- Can Kazuya generalize the completed Kuribayashi disclosure to Kibe, family, or another audience?
-- Can Kazuya treat Ruka's sincere feeling responsibly after nearly formalizing from duty while explicitly preferring Chizuru?
-- Will Chizuru's direct LINE access and unbooked ordinary contact become durable communication?
-- How will Kazuya address Ruka's repeated unilateral kisses and widening status conflict?
-- What consequence follows Kazuya's custody of the family ring after no V012 use?
-- Can Kazuya and Chizuru complete the interrupted confession and reach an explicit shared relationship classification?
+- Can Kazuya convert the near-complete family explanation into full correction of the residual dating lie across audiences?
+- Can Kazuya and Ruka establish workable separation terms after his explicit withdrawal and her refusal to recognize the breakup?
+- How will Chizuru continue and bound the investigation after direct inquiry, ordinary observation, and family-house access?
+- Will the transition from paid recontact to unpriced private access alter future use of the rental wrapper?
+- What boundary or escalation follows Ruka's still-disputed claim as Chizuru and Kazuya expand ordinary access?
+- Can Chizuru and Kazuya complete the planned return or correction around Nagomi's family ring?
 - Will Chizuru's acting career and family-linked vocational purpose develop after the public screening?
 - Does Chizuru's accepted support produce durable bereavement recovery or only a bounded release?
 - Can Sumi's consequential emotional support coexist with an unheard confession without distorting the practice relationship?
+- What final outcome does Mami seek after Chizuru rejects her claimed alliance and the public separation attempt fails?
+- Will Kazuya's direct denial and Chizuru's source check produce a complete correction of Ruka's fabricated sex evidence?
+- How will Chizuru balance newly explicit chosen-family value against the ring and false couple premise?
+- Can the principals sustain the renewed direct communication beyond the first LINE, apartment, theater, and family-house sequence?
+- How will Mami respond after her staged disclosure and proof demands fail to separate the principals immediately, given no canonical V027 action?
+- Will Nagomi's expectation and Kibe's partial repair remain stable if the residual dating lie is corrected?
+- How does the newly identified maternal portrait inform the remaining Ichinose family history without filling unsupported gaps?
+- What practical disposition follows for Sayuri's house, the collected stones, and other retained family objects?
+- How will the operating one-month household respond to privacy, cost, and exit decisions, and when will Ruka receive an accurate account of Kazuya's residence?
+- Will Chizuru's April 19 no-present request permit any chosen acknowledgment, and how will she respond if Kazuya attempts one?
+- Why did Mami renew contact, and what did she make of Kazuya's apology?
