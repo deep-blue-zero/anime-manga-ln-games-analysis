@@ -4,14 +4,14 @@ artifact_id: WATAYURI_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V02 mainline through V02 Shift 11/i156; Shifts 6.5 and 11.5 separately bounded; V03–V14 inventory only"
+source_boundary: "Japanese V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118; Shifts 6.5, 11.5 and 16.5 separately bounded; V04–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_JAPANESE_SPEECH
 
 **Update and revision rule.** Update when a feature recurs, switches under meaningful conditions or contradicts a working speech model. Preserve original wording/locator and distinguish observation from claim; cross-link performance when a script appears to condition register. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V02 mainline through V02 Shift 11/i156; packaged Shifts 6.5 and 11.5 remain separately bounded. V01 sections preserve the earlier prospective state; the dated V02 additions below carry the current account and do not overwrite that freeze. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118. Packaged Shifts 6.5, 11.5 and 16.5 remain separately bounded. V01 and V02 sections preserve their earlier states; dated V03 additions carry the current account without overwriting either freeze. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -108,3 +108,55 @@ Questions about what can be believed recur in the childhood partnership, present
 #### WY2-JP07 — Different explanations make the institution teachable
 
 Mai’s formal event terminology and Sumika’s practical popularity-poll paraphrase are not interchangeable word choices. They address different needs: preserving the school fiction and giving a novice a usable explanation. Hime’s repeated difficulty demonstrates that accurate setting language can still fail as immediate instruction. Her agreement to read and ask questions is a prospective learning act, not proof that the terminology has already become fluent. [V02/11/i139–143.]
+
+
+<a id="v03"></a>
+## V03 — Current additions and transitions — 2026-09-28
+
+**V03 evidence key:** source-map key `V03`, Japanese witness `1DVuJCfyJrZQCwrwinY8aHQeGem5_e9WZ`, SHA-256 `d8caa40958f2803e7b7d435f0bbab1af51f17ab2600336cd043248de05882dd9`. The [frozen V03 reading](../02%20Sequential%20Readings/WATAYURI_V03_DEEP_READING.md#speech) supplies complete observations, chapter context and the image/spine convention. Unprefixed `iNNN`, O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V03; `WY1-` and `WY2-` retain inherited identities. Mainline reading ends at Shift 16/i156, latest depicted present at Shift 16/i118; i119–156 is retrospective and Shift 16.5/i158–161 is separately bounded school-period supplementation.
+
+### Written Japanese speech, address, and classification
+
+The excerpts are short and used only where the form is analytically material. Paraphrases elsewhere do not pretend to be official translation. Manga lettering supports wording, address and represented interruption; it does not establish timbre, pitch, breath or voice-actor delivery.
+
+#### WY3-JP01 — A polite form need not communicate a clear choice
+
+Kanoko’s **「いいです」** in the phone-return exchange leaves the practical intention uncertain until the surrounding conversation resolves it. The point is contextual ambiguity, not a stable claim that the expression is intrinsically rude or that Kanoko lacks politeness. Her guarded answer and Hime’s intervention show a difference between producing a conventional form and making one’s intended response recoverable to the other person. [V03/12/i011–014; O02.]
+
+#### WY3-JP02 — Thought, projected thought, and spoken acknowledgment
+
+At i019 the imagined ambitious Hime is explicitly framed as Kanoko’s reconstruction of what Hime would think. At i026 Kanoko’s realization about the possible phone discovery remains interior. At i031 her thought selects a passage from **『乙女の心臓』** as fitting the two of them. These modes matter more than a generic transcript’s list of words: attributing the lines to audible conversation would create false disclosures and erase the very asymmetry driving the scenes. [V03/12/i019, i026, i031; O02–O04.]
+
+#### WY3-JP03 — Romantic language is available before a mutual romantic declaration
+
+The novel passage uses **「恋心」**. Kanoko privately applies it; later Sumika explicitly categorizes her liking as **「恋愛として」** and associates it with jealousy. These are convergent but not identical evidence routes: private self-application through fiction, another person’s direct classification, and Kanoko’s refusal to abandon Hime. The warranted current claim is strong evidence of romantic attachment, not an invented direct statement by Kanoko in precisely Sumika’s wording, a sexual-identity self-label, or reciprocal romance. [V03/12/i031; V03/15/i115–116; V03/16/i118, i155–156.]
+
+#### WY3-JP04 — The scope of “not reading”
+
+Sumika’s clarification **「サロンではね」** restricts the earlier statement to a setting. The reference to books already finished distinguishes an actual private reading habit from the use of a book during work. That small restriction dissolves an apparent contradiction which Kanoko had treated as evidence of insincerity. A character language model should therefore record scope correction and contextual qualification, not a stable habit of lying about books. [V03/13/i055–057; O07.]
+
+#### WY3-JP05 — Ordinary and café names
+
+Sumika supplies **知花純加** and contrasts the ordinary surname with **橘**. Kanoko’s continued café address is not an error for the analyst to silently normalize: it marks the relationship’s current distance and her incomplete movement out of the work frame. Hime and Mitsuki’s surname distinctions similarly remain source-conditioned; “Yano” in Hime’s appreciative account invokes a particular history rather than an interchangeable label. [V03/13/i058–059; V03/15/i096.]
+
+#### WY3-JP06 — Defining a script versus describing feelings
+
+Sumika’s **「恋愛関係とは違うよ」** explains the sister system. Its grammatical scope is the institutional relation under discussion. It does not demonstrate that private romance is impossible, that no participant feels it, or that romantic feeling is already a mutually recognized relation. This distinction is central to why a bond can become emotionally consequential without the script naming it as romance. [V03/14/i080–082; O11.]
+
+#### WY3-JP07 — Exclusivity moves from assertion to request
+
+Kanoko’s **「ひめちゃんの友だちは私だけです」** presents exclusive friendship as fact; the later request to abolish sisterhood attempts to preserve or restore that claimed arrangement. Her politer sentence structure does not make the content less absolute. Conversely, her direct refusal to give up Hime is stronger evidence of persistence than the assumption that a quiet person will always submit to a more fluent coworker. [V03/14/i083; V03/15/i114; V03/16/i118.]
+
+#### WY3-JP08 — Goodness, façade, and speech about dislike
+
+The school sequence differentiates **「いい子」** from **「ソトヅラ」** and **「演技」**. Kanoko first groups Hime with socially acceptable good people; Hime then distinguishes active impression management from silently enduring what others demand. Her warning that unstated dislikes may be treated as absent identifies a communicative problem, but does not itself abolish the cost of stating them. Both girls can appear compliant while holding sharp private objections; the difference lies partly in whether that performance feels chosen and useful. [V03/16/i132–134, i147–152.]
+
+#### WY3-JP09 — Private trust permits another register
+
+Hime’s request to rest the façade when they are together creates a relationship-conditioned speech space. The bluntness preceding it is not simply the discovery that she has no kindness. It coexists with the voluntary disclosure, practical rescue, and invitation to friendship. Kanoko’s more forceful objections also become possible in this private space. A future speech model must condition candid, sharp, playful and polished registers on audience and relationship, rather than choosing one as the only “real voice.” [V03/16/i147–154; O23.]
+
+#### WY3-JP10 — Encouragement through a knowingly performed image
+
+In the supplement, Hime links the photograph to Kanoko’s spirits while openly boasting about her own cuteness. Kanoko’s closing distinction treats Hime’s kindness as real even where the cuteness is deliberately performed. This is not evidence of a wholly separate false and true vocabulary: the playful boast itself can do relational work. [V03/S16.5/i160–161; O25.]
+
+These observations support recurring patterns, not a complete idiolect for every character. Sumika’s formal salon language and casual literary enthusiasm now have multiple contexts; Kanoko’s condition-dependent directness is substantially clearer. Nene’s small sample supports blunt workplace correction, not a mature speech model.

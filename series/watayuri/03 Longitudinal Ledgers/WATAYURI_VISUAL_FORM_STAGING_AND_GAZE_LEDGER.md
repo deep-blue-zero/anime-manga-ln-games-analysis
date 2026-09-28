@@ -4,14 +4,14 @@ artifact_id: WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V02 mainline through V02 Shift 11/i156; Shifts 6.5 and 11.5 separately bounded; V03–V14 inventory only"
+source_boundary: "Japanese V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118; Shifts 6.5, 11.5 and 16.5 separately bounded; V04–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STA
 
 **Update and revision rule.** Update for repeated visual constructions or a diagnostically consequential scene. Record the visible fact separately from inferred psychology and identify when a later composition revises an earlier inference. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V02 mainline through V02 Shift 11/i156; packaged Shifts 6.5 and 11.5 remain separately bounded. V01 sections preserve the earlier prospective state; the dated V02 additions below carry the current account and do not overwrite that freeze. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118. Packaged Shifts 6.5, 11.5 and 16.5 remain separately bounded. V01 and V02 sections preserve their earlier states; dated V03 additions carry the current account without overwriting either freeze. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -88,3 +88,40 @@ The formal record does not infer motives from a single eye shape, blush, or pose
 | **WY2-VIS11 — The final turn reveals an archive without its owner’s explanation** | Sumika’s device handling at i155 is followed on i156 by her reaction and a field of Hime photographs. | Selective attention becomes visible as a collection. The turn increases another person’s knowledge but withholds Kanoko’s account and the future use of that knowledge. |
 
 The form repeatedly opposes **the apparent completeness of an image** to **the incompleteness of an audience’s interpretation**. A smiling child, a strained pair, an embrace, or a phone full of photographs can each support several accounts until sequence, speech, or another perspective constrains the possibilities. V02’s visual construction therefore belongs in the reasoning, not as an ornamental supplement to a dialogue-only summary. [WY2-VIS03–VIS11.]
+
+
+<a id="v03"></a>
+## V03 — Current additions and transitions — 2026-09-28
+
+**V03 evidence key:** source-map key `V03`, Japanese witness `1DVuJCfyJrZQCwrwinY8aHQeGem5_e9WZ`, SHA-256 `d8caa40958f2803e7b7d435f0bbab1af51f17ab2600336cd043248de05882dd9`. The [frozen V03 reading](../02%20Sequential%20Readings/WATAYURI_V03_DEEP_READING.md#visual-form) supplies complete observations, chapter context and the image/spine convention. Unprefixed `iNNN`, O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V03; `WY1-` and `WY2-` retain inherited identities. Mainline reading ends at Shift 16/i156, latest depicted present at Shift 16/i118; i119–156 is retrospective and Shift 16.5/i158–161 is separately bounded school-period supplementation.
+
+### Manga form, staging, gaze, and objects
+
+Each record identifies a visible configuration before proposing its effect. None infers an exclusive emotion from a single expression.
+
+| Record | Observable configuration | Interpretive effect and live limit | Locator / linkage |
+| --- | --- | --- | --- |
+| **WY3-VIS01 — Framing the school fiction** | Ideal school imagery precedes the return to the café explanation. | Establishes a constructed setting the workers implement, not an unmarked change in literal world. | i001–005; O01/PER01. |
+| **WY3-VIS02 — An intercepted gesture changes the audience** | Sumika approaches Hime; Kanoko’s hand interrupts at the wrist; reactions distribute attention. | A scene meant to be legible as flirtation becomes evidence of Kanoko’s investment for Sumika. The gesture alone does not classify every motive. | i020–024; O03/PER02. |
+| **WY3-VIS03 — Novel, sleeping face, hair, watcher** | The book’s text, Kanoko’s thought and close hair contact are followed by Sumika’s observation at the threshold. | Private romantic enactment is placed inside a second, uninvited act of looking. No reciprocal action from sleeping Hime; no unambiguous kiss required. | i029–032; O04. |
+| **WY3-VIS04 — Appearance mismatch and recognition** | Off-duty Sumika without the familiar glasses/role presentation is treated as a stranger; Hime supplies recognition. | Exposes Kanoko’s limited attention to a person outside the role. Does not support a medical explanation. | i033–040; O05. |
+| **WY3-VIS05 — Reading as visible leisure, service as distributed attention** | Book-in-hand stillness is juxtaposed with practical information and later explanation of finished-book use. | A static tableau underdetermines actual labor; surrounding evidence revises its meaning. This is not a measured workload comparison. | i044–058; O06/O07. |
+| **WY3-VIS06 — Particular appeal and embarrassment** | Hime’s physical closeness and upward appeal contrast with Mitsuki’s flushed, incompletely explanatory response. | Makes support personally charged beyond voting arithmetic. Romantic meaning remains an inference, not a shared label. | i075–076, i100–102; O10/O15. |
+| **WY3-VIS07 — People removed, crosses remaining** | Repeated salon composition loses figures; necklaces remain on a table; Sumika stands with the altered space. | Supplies a formal image of loss and a material residue of a bond. Exact participants, causes and elapsed time remain unstated. | i086–087; O12. |
+| **WY3-VIS08 — From Hime’s private joy to Kanoko’s changed action** | Hime explains her happiness; Kanoko’s reaction interrupts the expected support pattern; she physically approaches Sumika. | Connects an adequately perceived closeness cue to a concrete intervention, stronger than reading jealousy from a blush alone. | i095–098; O14. |
+| **WY3-VIS09 — The alliance’s full-page credibility** | Sumika and Kanoko are arranged as a coherent senior–junior pair, surrounded by guest reactions and Hime’s acceptance. | Public legibility can be achieved before private purpose is aligned. Composition is not proof of a new sister pact. | i107–110; O16. |
+| **WY3-VIS10 — Image as evidence in a confrontation** | A phone image of Kanoko beside sleeping Hime is displayed as Sumika names the attachment and makes her demand. | A prior private scene becomes a portable evidentiary object, but the image does not contain the friendship’s history or authorize the demand. | i115–118; O18. |
+| **WY3-VIS11 — Stairway as a chosen boundary** | Kanoko repeatedly occupies the roof stairs outside the classroom’s collective space. | Gives material form to her wish for a place unclaimed by “everyone.” It is not proof of a formal right to exclude all others. | i119–129, i132–140; O19/O20. |
+| **WY3-VIS12 — Crafted object, broken object** | Decorative work is followed by news of rooftop filming and the damaged sign. | Makes destruction the end of an escalating relation to the task and place, not a disembodied trait of violence. Actual damage remains real. | i135–140; O20/O21. |
+| **WY3-VIS13 — Anticipated accusation versus actual sympathy** | Threatening-looking focalized faces around the returned fragments give way to dialogue treating Kanoko as a wronged maker. | The visual experience of fear is not equivalent to the peers’ actual accusation. Her confession changes the available public account. | i140–142; O21. |
+| **WY3-VIS14 — Public credibility and private face** | Hime’s persuasive classroom presentation contrasts with a sharp aside and later unguarded roof conversation. | A single intervention contains both controlled audience management and private frankness; neither cancels the other. | i143–154; O22/O23. |
+| **WY3-VIS15 — Near face, then isolated pair** | Kanoko’s attentive close-ups of Hime lead to the final, largely isolated image of the two sitting together. | Reconstructs the origin of specialness from Kanoko’s perspective. Book-end position does not make it a present reunion. | i155–156; O24. |
+| **WY3-VIS16 — Joint image and later image uses** | Hime deliberately takes the supplemental photograph; elsewhere Kanoko photographs a sleeping Hime and Sumika displays an image. | Similar objects have different production and permission histories. Visual similarity must not collapse them into one consent state. | S16.5/i161; i030, i115; O04/O18/O25. |
+
+#### Page turns and repeated frames
+
+The hair-contact page i031 precedes the turn to i032, where Sumika’s watching changes the scene’s audience. The structure lets the reader first occupy the private application of the romance script and then discover that the apparent privacy is false. The effect follows from the source’s page assignment, not from the four-page inspection grid. [VIS03.]
+
+The abolition request on i114 and Sumika’s response/image on i115 occupy a facing pair; the turn to i116 gives the demand to relinquish Hime its own terminal position in Shift 15. Shift 16 then repeats that configuration before Kanoko’s refusal. The repetition does not describe two separate demands at different times. It carries the same unresolved act across the chapter boundary. [VIS10; O17/O18.]
+
+At the end, i155’s attracted close attention turns to i156’s distanced image of the pair and the sole-friend formulation. The reader has gained an explanation of how the bond became special, not evidence that the present conflict has disappeared. The unfilled surroundings can be read as emphasizing the pair’s private world; they do not literally establish that no other relationship exists. [VIS15.]

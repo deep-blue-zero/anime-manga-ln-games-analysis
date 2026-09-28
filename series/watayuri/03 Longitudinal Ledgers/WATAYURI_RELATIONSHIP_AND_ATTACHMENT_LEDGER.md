@@ -4,14 +4,14 @@ artifact_id: WATAYURI_RELATIONSHIP_AND_ATTACHMENT_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V02 mainline through V02 Shift 11/i156; Shifts 6.5 and 11.5 separately bounded; V03–V14 inventory only"
+source_boundary: "Japanese V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118; Shifts 6.5, 11.5 and 16.5 separately bounded; V04–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_RELATIONSHIP_AND_ATTACHMENT_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_RELATIONSHIP_AN
 
 **Update and revision rule.** Update when a volume changes a directional belief, boundary, desire, attachment pattern or pair presentation. Maintain separate rows or fields for asymmetric knowledge and revise a prior state with a dated transition, retaining its VNN freeze. Link consequential proposition and claim IDs. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V02 mainline through V02 Shift 11/i156; packaged Shifts 6.5 and 11.5 remain separately bounded. V01 sections preserve the earlier prospective state; the dated V02 additions below carry the current account and do not overwrite that freeze. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118. Packaged Shifts 6.5, 11.5 and 16.5 remain separately bounded. V01 and V02 sections preserve their earlier states; dated V03 additions carry the current account without overwriting either freeze. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -94,3 +94,47 @@ The relationship now supports an account of **reciprocal positive investment**, 
 #### Pair SK — Sumika and Kanoko
 
 **WY2-REL-SK.** Sumika reports that Kanoko barely speaks with her; Mai regards them as closer than that description suggests and proposes a possible sister arrangement. Neither report establishes mutual desire for such a relation. By i156 Sumika has gained privileged information by looking at Kanoko’s phone, not by Kanoko choosing to confide in her. Future interpretation must distinguish access produced by trust from access produced by crossing a boundary. [V02/11/i153–156. High for the dialogue and access event; Kanoko’s view of Sumika and future pair status remain open.]
+
+
+<a id="v03"></a>
+## V03 — Current additions and transitions — 2026-09-28
+
+**V03 evidence key:** source-map key `V03`, Japanese witness `1DVuJCfyJrZQCwrwinY8aHQeGem5_e9WZ`, SHA-256 `d8caa40958f2803e7b7d435f0bbab1af51f17ab2600336cd043248de05882dd9`. The [frozen V03 reading](../02%20Sequential%20Readings/WATAYURI_V03_DEEP_READING.md#relationships) supplies complete observations, chapter context and the image/spine convention. Unprefixed `iNNN`, O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V03; `WY1-` and `WY2-` retain inherited identities. Mainline reading ends at Shift 16/i156, latest depicted present at Shift 16/i118; i119–156 is retrospective and Shift 16.5/i158–161 is separately bounded school-period supplementation.
+
+### Directional relationship and attachment additions
+
+These records retain existing subject IDs and pair identities. Each distinguishes public form, private acknowledgment, desired state, and actual knowledge. Source-specific information states are cross-linked in [V03 §8](../02%20Sequential%20Readings/WATAYURI_V03_DEEP_READING.md#information) rather than treated as facts shared by everyone.
+
+#### Pair HK — Hime and Kanoko
+
+**WY3-REL-HK-K-P — present Kanoko → Hime.** Her care includes attentive learning, practical support, photography used for encouragement, and a willingness to act publicly despite ordinary inhibition. Romantic investment is now strongly evidenced by her own application of the concealed-love passage, embodied attention, and resistance to relinquishing Hime—not merely attributed by Sumika. Exclusivity becomes operational when she opposes the result Hime has begun to want and asks for the sister system to be abolished. Her desired state is not simply “Hime wins”; it is that Hime remain available within the privileged relation Kanoko understands as theirs. No reciprocal romantic status is established. [O02/O04/O14/O17/O18; V03/12/i031; V03/15/i095–098, i103–116. High for the acts, selective priority and romantic interpretation; precise self-label and all future intentions remain bounded.]
+
+**WY3-REL-HK-H-P — present Hime → Kanoko.** Hime continues to encourage communication, include Kanoko, rely on her assistance, and accept an apparently independent choice of whom to support. She does not know the abolition proposal or the private confrontation as far as the source shows. Her approval of Kanoko’s public endorsement is therefore not informed consent to Kanoko’s project. Hime’s regard for Kanoko coexists with a growing, explicitly appreciated bond with Mitsuki. Do not force either relationship into a zero-sum account merely because Kanoko does. [O03/O08/O14/O16; V03/12/i025–029; V03/13/i052, i060; V03/15/i095–110. High for continuing friendship and unshared information; Hime’s hypothetical response to full disclosure remains open.]
+
+**WY3-REL-HK-K-R — earlier Kanoko → Hime.** Her initial model is hostile: Hime belongs to the good, sociable majority who might remove her refuge. Private bluntness, assistance, and disclosed artifice distinguish Hime from that category. Kanoko offers acceptance where Hime fears exposure and experiences the resulting closeness as uniquely special. The visual sequence adds attracted attention to that recognition. This is an origin of the relationship’s meaning, not proof that every later exclusionary demand was present from its first day. [O19/O21/O23/O24; V03/16/i123–129, i141–156. High for the represented developmental movement; no unshown long-term trajectory is supplied.]
+
+**WY3-REL-HK-H-R — earlier Hime → Kanoko.** Hime notices an ineffective façade, dislikes Kanoko silently accepting burdens, supplies a protective falsehood, and voluntarily reveals her own practice after describing the cost of earlier exposure. She explicitly offers friendship and asks for a space in which her façade can rest. Genuine vulnerability, strategic self-presentation, impatience and help coexist. This is actual participation in making the special bond; it is not a promise of lifelong relational exclusivity. [O22/O23; V03/16/i143–154. High for the utterances and actions; an exhaustive altruistic or instrumental motive remains unsupported.]
+
+**WY3-REL-HK-S — separately bounded supplemental follow-through.** Hime helps Kanoko practice presentation, wonders about becoming less needed, and provides a jointly produced photograph. Kanoko stresses that she can do things because Hime is present and wants to reciprocate assistance. This supports both increased social competence and Hime-conditioned confidence. It neither proves calculated dependency production nor removes the question of dependency. [O25; V03/S16.5/i158–161. High within the supplement’s chronology.]
+
+#### Pair HM — Hime and Mitsuki
+
+**WY3-REL-HM-H — Hime → Mitsuki.** Hime wants Mitsuki’s endorsement as her particular sister, not merely as a source of votes. After the interim result she recognizes and enjoys Yano’s development and tells Mitsuki that her victory would feel shared. Their repaired connection now supports pleasure in the other’s achievement. Hime’s original wish to win persists as counterevidence to a total selfless transformation. The explicit account remains compatible with friendship; mutual romance is not established. [O09/O10/O13–O15; V03/14/i067–076; V03/15/i091–102. High for particular regard and shared pleasure.]
+
+**WY3-REL-HM-M — Mitsuki → Hime.** Mitsuki can praise Hime’s work and apply criteria under which Sumika better fits the Blumen role. Hime’s disappointed appeal and later declaration of shared joy make her visibly embarrassed and less explanatory. A model must therefore preserve both direct standards and difficulty articulating attachment; voting preference is not a simple index of lack of affection. No completed ballot or privately agreed romantic category is supplied. [O09/O10/O15; V03/14/i067–076; V03/15/i099–102. High for the contrast; romantic meaning remains a strong but bounded interpretation inherited from V02.]
+
+**WY3-REL-HM-PAIR — pair state.** The sister role and private positive connection continue after V02’s accepted repair. The contest gives that connection a possible additional public title. It has not yet awarded that title, and Kanoko’s desire to prevent it does not itself change the pair’s actual status. Preserve V01’s pressured formation and V02’s later mutual choice as different historical states. [O01/O10/O13–O17.]
+
+#### Pair SK — Sumika and Kanoko
+
+**WY3-REL-SK-S — Sumika → Kanoko.** Interest moves from observation and probing to a partly friendly approach, a more explicit model of romantic attachment, attempted containment, tactical cooperation, brief reconsideration, and a demand to abandon Hime. Protecting Liebe is directly represented as a motive; a desire to befriend Kanoko is also stated and supported by some practical help. Neither exhausts every action. Accurate recognition of attraction does not make the demand an accepted boundary or establish romantic interest in Kanoko. [O03/O07–O12/O16–O18; V03/12/i032; V03/14/i069–088; V03/15/i089, i111–116.]
+
+**WY3-REL-SK-K — Kanoko → Sumika.** She moves from fear and a dismissive appearance-based judgment to limited recognition of work and reading, then uses Sumika as an ally against a Mitsuki victory. She expects reciprocal assistance from the offered bargain, not surrender of the attachment motivating it. After the demand, she identifies Sumika as an obstacle and refuses. No apology, renewed trust or actual sister pact occurs. [O05/O07/O08/O14/O16–O18; V03/13/i055–059; V03/15/i098–116; V03/16/i118.]
+
+**WY3-REL-SK-PUBLIC — audience-facing alliance.** Guests witness a plausible senior–junior support scene, and Hime accepts that Kanoko has made a choice. That public success should not be recorded as private relational repair. Their common electoral tactic temporarily conceals contrary purposes. The eventual refusal belongs to the private dyad and is not shown becoming common guest or staff knowledge. [O16/O18; V03/15/i107–110; V03/16/i117–118.]
+
+#### Pair MS and new workplace evidence
+
+**WY3-REL-MS — Mitsuki and Sumika.** Mitsuki’s endorsement of Sumika as a suitable Blumen figure coexists with competition and greater expressiveness around Hime. Sumika notices and values that change. This is coworker regard and role assessment, not evidence of an undisclosed romantic history or a new sister pact. [O09/O13; V03/14/i065–074; V03/15/i092–099.]
+
+Nene’s defense of Sumika and operational cooperation warrant a bounded workplace relation record, **WY3-REL-NS**, but not an independent dyadic synthesis: Nene corrects an incomplete or disparaging account using observed work context. Her wider attachment and private history remain unexamined. [O06/O07; V03/13/i041, i053–057.]

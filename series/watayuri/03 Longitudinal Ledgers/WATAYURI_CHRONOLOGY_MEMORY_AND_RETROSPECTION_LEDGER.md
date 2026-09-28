@@ -4,14 +4,14 @@ artifact_id: WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V02 mainline through V02 Shift 11/i156; Shifts 6.5 and 11.5 separately bounded; V03–V14 inventory only"
+source_boundary: "Japanese V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118; Shifts 6.5, 11.5 and 16.5 separately bounded; V04–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMO
 
 **Update and revision rule.** Append retrospective records that link to earlier event IDs; revise the mature ordering if warranted while preserving original VNN presentation and uncertainty. Mark apparent contradiction OPEN when order or witness cannot be settled. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V02 mainline through V02 Shift 11/i156; packaged Shifts 6.5 and 11.5 remain separately bounded. V01 sections preserve the earlier prospective state; the dated V02 additions below carry the current account and do not overwrite that freeze. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118. Packaged Shifts 6.5, 11.5 and 16.5 remain separately bounded. V01 and V02 sections preserve their earlier states; dated V03 additions carry the current account without overwriting either freeze. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -65,3 +65,26 @@ The final disclosure is a **within-V01 revelation**, not permission to replace t
 | **WY2-T07 — Childhood tea supplement** | Piano-friendship period before rupture; packaged after Shift 11. | High for broad childhood placement; exact visit/day relative to Shift 07 open. | Tag `SUPPLEMENTAL_RETROSPECTION`; never use it as post-i156 present action. i158–161. |
 
 The distinction between a later **source presentation** and an earlier **event time** is especially important here. V02 adds evidence about V01’s opening and the childhood history, while the prospective V01 artifact remains an honest record of less information. Nothing requires a false choice between keeping the old freeze and improving the current interpretation.
+
+
+<a id="v03"></a>
+## V03 — Current additions and transitions — 2026-09-28
+
+**V03 evidence key:** source-map key `V03`, Japanese witness `1DVuJCfyJrZQCwrwinY8aHQeGem5_e9WZ`, SHA-256 `d8caa40958f2803e7b7d435f0bbab1af51f17ab2600336cd043248de05882dd9`. The [frozen V03 reading](../02%20Sequential%20Readings/WATAYURI_V03_DEEP_READING.md#chronology) supplies complete observations, chapter context and the image/spine convention. Unprefixed `iNNN`, O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V03; `WY1-` and `WY2-` retain inherited identities. Mainline reading ends at Shift 16/i156, latest depicted present at Shift 16/i118; i119–156 is retrospective and Shift 16.5/i158–161 is separately bounded school-period supplementation.
+
+### Chronology, memory, and retrospection
+
+These records separate the order of source disclosure from the order of events. They do not assign dates or school grades absent from the inspected evidence.
+
+| Record | Presentation and event placement | Chronological confidence; causal qualification | Required preservation |
+| --- | --- | --- | --- |
+| **WY3-T01 — Event opening and the phone’s return** | Present continuation after V02’s discovery; contest explanation, probing, reading and private observation. | High for relative order. Exact number of all intervening days is not supplied. | V02’s i156 discovery remains earlier; Kanoko’s suspicion first appears in V03. O01–O04. |
+| **WY3-T02 — Coworker recognition and definition dispute** | Subsequent work and off-duty exchanges across Shifts 13–14. | High for narrative sequence; no complete shift calendar claimed. | Distinguish learning Sumika’s identity from later trust and conflict. O05–O11. |
+| **WY3-T03 — Sumika’s fragmentary past** | Recollection intrudes into present focalization, especially i086–087. Earlier populated salon becomes absence. | High that an earlier loss is being evoked; moderate for exactly how the visible fragments connect; dates and identities open. | Do not fill gaps with unadmitted later volumes or make the memory an exhaustive causal history. O12. |
+| **WY3-T04 — Midpoint and alliance** | Interim guest results precede Hime’s revised support, Kanoko’s strategy and the public endorsement scene. | High. Staff-vote calculation is prospective within this sequence. | No final winner or coronation inferred. O13–O16. |
+| **WY3-T05 — Restaurant confrontation** | After the salon intervention; proposal, displayed image, prohibition and refusal. | High for order and the present endpoint at i118. | Do not extend present time through the ensuing flashback. O17–O18. |
+| **WY3-T06 — Earlier school isolation and friendship origin** | i119–156 move to the period before café work and after the childhood exposure Hime reports. | High for broad placement and shown sign-incident order; exact grade, date and elapsed interval unverified. | A source-new episode is not a post-repair recurrence. O19–O24. |
+| **WY3-T07 — Earlier mention of the childhood betrayer** | Hime’s school-period explanation at i153 refers back to the prior exposure. | High for her report; its interpretation is limited to what she believed then. | Retain V02’s fuller mature explanation and V01’s earlier freeze separately. O23. |
+| **WY3-T08 — School supplement** | i158–161 follows replacement of the sign and the resulting class image within the earlier school period. | High for relation to the sign episode; not necessarily an exhaustively dated day. | Add supplementary follow-through, not a post-i118 resolution. O25. |
+
+**Two endpoints:** the reader has reached **V03/16/i156**, acquiring the friendship’s origin; the latest present-day action remains **V03/16/i118**, an unresolved refusal. The location of the final image in the book does not make it the latest event in the fictional chronology.

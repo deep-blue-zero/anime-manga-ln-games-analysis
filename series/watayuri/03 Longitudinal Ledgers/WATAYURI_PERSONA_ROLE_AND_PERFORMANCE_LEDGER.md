@@ -4,14 +4,14 @@ artifact_id: WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V02 mainline through V02 Shift 11/i156; Shifts 6.5 and 11.5 separately bounded; V03–V14 inventory only"
+source_boundary: "Japanese V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118; Shifts 6.5, 11.5 and 16.5 separately bounded; V04–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AN
 
 **Update and revision rule.** Update on a script change, explicit audience shift, recurring role/private leakage or consequential role-mediated change in relationship. Keep role adoption and private effect separately time-indexed. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V02 mainline through V02 Shift 11/i156; packaged Shifts 6.5 and 11.5 remain separately bounded. V01 sections preserve the earlier prospective state; the dated V02 additions below carry the current account and do not overwrite that freeze. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118. Packaged Shifts 6.5, 11.5 and 16.5 remain separately bounded. V01 and V02 sections preserve their earlier states; dated V03 additions carry the current account without overwriting either freeze. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -64,3 +64,28 @@ The central pattern is not that a performance is either sincere or false. A sing
 | **WY2-PER06 — Script and personal decision coincide** | Hime and Mitsuki; salon, staff, and each other. | Cross removal nearly repeats a protective separation; direct rejection of that solution and an apology allow role continuation to carry chosen attachment. | i124–132. The scene has dual audiences; it is not evidence that every audience knows the childhood cause. |
 | **WY2-PER07 — Affection exceeds containment** | The repaired sisters; guests, Kanoko, Sumika. | Hime’s happy remark uses a public address but refers to a personally meaningful declaration. Mitsuki’s embarrassed response makes its meaning newly unstable. | i149–151. A shift from hostile leakage to affectionate leakage does not establish mutual romantic classification. |
 | **WY2-PER08 — Event explanation in two registers** | Mai and Sumika; novice coworkers. | Immersive school lore and a practical popularity-event explanation serve different teaching goals. Hime’s understanding remains incomplete. | i139–143. Neither register is automatically the whole truth of the institution. |
+
+
+<a id="v03"></a>
+## V03 — Current additions and transitions — 2026-09-28
+
+**V03 evidence key:** source-map key `V03`, Japanese witness `1DVuJCfyJrZQCwrwinY8aHQeGem5_e9WZ`, SHA-256 `d8caa40958f2803e7b7d435f0bbab1af51f17ab2600336cd043248de05882dd9`. The [frozen V03 reading](../02%20Sequential%20Readings/WATAYURI_V03_DEEP_READING.md#performance) supplies complete observations, chapter context and the image/spine convention. Unprefixed `iNNN`, O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V03; `WY1-` and `WY2-` retain inherited identities. Mainline reading ends at Shift 16/i156, latest depicted present at Shift 16/i118; i119–156 is retrospective and Shift 16.5/i158–161 is separately bounded school-period supplementation.
+
+### Persona, role, and performance additions
+
+
+
+| Record | Actor, setting, and audience | Script, deviation, and private effect | Evidence; boundary |
+| --- | --- | --- | --- |
+| **WY3-PER01 — Institutional fiction becomes procedure** | Mai instructing coworkers; imagined school represented inside the explanation. | School population, dessert service and recognition become tickets, staff allotments, title and a rule privilege. | O01; i001–010. Fictional authority and actual enforceability remain distinct. |
+| **WY3-PER02 — Flirtation as a probe** | Sumika approaching Hime in the salon; guests, Hime and Kanoko. | A playable flirtation yields Kanoko’s unplanned intervention; Sumika later identifies probing as her purpose. | O03; i020–024, i032. Neither Sumika’s actual attraction nor benign consent to the probe follows. |
+| **WY3-PER03 — Literary script privately enacted** | Kanoko beside sleeping Hime; apparent private space, secretly observed. | A romantic passage is applied to “us” and enacted through hair contact; Hime has no corresponding active part. | O04; i029–032. Fictional quotation, self-application, and mutual relationship are separate. |
+| **WY3-PER04 — Bookish role, real reader** | Sumika in and out of the salon; novices and customers. | Finished books maintain a dignified image while leaving attention available for service; private enthusiasm supports the interest. | O05–O07; i037–058. Deliberate image construction does not empty it of truth. |
+| **WY3-PER05 — Normative elder versus emotionally affected person** | Mitsuki assessing Hime and receiving her appeal. | Clear standards give way to embarrassment and incomplete explanation when endorsement becomes personally charged. | O09/O10/O15; i067–076, i099–102. No acoustic delivery or settled romantic label inferred. |
+| **WY3-PER06 — Public support with an invented history** | Sumika and Kanoko in the salon; Hime and guests. | Sumika gives the new alliance an in-role history of hesitant, long-standing support; guests receive a coherent scene, not its real motive. | O16; i107–110. In-role backstory is distinguished from literal private-event testimony. |
+| **WY3-PER07 — Earlier compliant façade** | Kanoko in the classroom; peers and Hime. | Polite acceptance conceals aversion and lost agency; the façade fails through destruction and confession. | O19–O21; i126–142. Quietness is not consent to every unspoken social demand. |
+| **WY3-PER08 — Credibility used for a protective falsehood** | Hime before classmates, then with Kanoko privately. | A convincing alibi cancels a true confession and enables practical replacement; private bluntness later explains the intervention. | O22/O23; i143–150. Care, deception and control are co-present. |
+| **WY3-PER09 — Resting the façade as a relational offer** | Hime and Kanoko alone on the roof. | Hime distinguishes her ordinary strategy from mere self-denial and invites a private exception. | O23/O24; i151–156. A special private register is real, not a permanent monopoly on the person. |
+| **WY3-PER10 — Learning performance without losing its relational support** | Kanoko among classmates and with Hime afterward; supplemental period. | A more effective pleasant response becomes possible, but Kanoko attributes it to Hime’s presence and encouragement. | O25; S16.5/i158–161. Skill growth is not automatically emotional independence. |
+
+The volume supplies at least three different relations between performance and sincerity. Sumika’s book prop is grounded in a real interest. Her public electoral backstory deliberately conceals actual timing and purpose. Hime’s roof conversation exposes private strategy while also offering genuine trust. Treating all three as either “fake” or “authentic” would discard the distinctions the source makes available.

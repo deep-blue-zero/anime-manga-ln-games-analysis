@@ -4,14 +4,14 @@ artifact_id: WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V02 mainline through V02 Shift 11/i156; Shifts 6.5 and 11.5 separately bounded; V03–V14 inventory only"
+source_boundary: "Japanese V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118; Shifts 6.5, 11.5 and 16.5 separately bounded; V04–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY
 
 **Update and revision rule.** Update when choices or boundary/repair trajectory materially change. Do not close a rupture merely because an apology occurred. Link later behavior as a dated continuation and retain the earlier prospective assessment. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V02 mainline through V02 Shift 11/i156; packaged Shifts 6.5 and 11.5 remain separately bounded. V01 sections preserve the earlier prospective state; the dated V02 additions below carry the current account and do not overwrite that freeze. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118. Packaged Shifts 6.5, 11.5 and 16.5 remain separately bounded. V01 and V02 sections preserve their earlier states; dated V03 additions carry the current account without overwriting either freeze. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -69,3 +69,39 @@ The record avoids a global verdict such as “toxic.” It locates who initiates
 | **WY2-AG09 — Phone custody becomes inspection** | Sumika holds the lost phone, then accesses photographs despite Mai’s objection. | Permission for custody is not permission for private-content inspection. The owner has not consented on page. | i154–156. Lack of a passcode is an opportunity, not authorization; future use of the information is unknown. |
 
 The present-day conflict is not closed simply because the characters say something kind. It is locally repaired because a repeated harmful decision is interrupted, the injury is acknowledged, Hime accepts reconnection, and a subsequent scene supplies limited follow-through. Those criteria are stronger than applause or physical proximity alone. Conversely, the apology does not settle the attachment-category question or erase the possibility of later recurrence. [WY2-AG06–AG08.]
+
+
+<a id="v03"></a>
+## V03 — Current additions and transitions — 2026-09-28
+
+**V03 evidence key:** source-map key `V03`, Japanese witness `1DVuJCfyJrZQCwrwinY8aHQeGem5_e9WZ`, SHA-256 `d8caa40958f2803e7b7d435f0bbab1af51f17ab2600336cd043248de05882dd9`. The [frozen V03 reading](../02%20Sequential%20Readings/WATAYURI_V03_DEEP_READING.md#agency) supplies complete observations, chapter context and the image/spine convention. Unprefixed `iNNN`, O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V03; `WY1-` and `WY2-` retain inherited identities. Mainline reading ends at Shift 16/i156, latest depicted present at Shift 16/i118; i119–156 is retrospective and Shift 16.5/i158–161 is separately bounded school-period supplementation.
+
+### Agency, boundaries, rupture, and repair
+
+Emotional distress, available action, permission, and outcome remain separate. An understandable fear does not itself justify another person’s control; a helpful result does not remove the means used to obtain it.
+
+| Record | Concrete action and available alternatives | Boundary, consequence and repair state | Evidence; limitation |
+| --- | --- | --- | --- |
+| **WY3-AG01 — Provoked intervention** | Sumika stages a flirtation; Kanoko interrupts it physically at the wrist. Asking directly was a conceivable alternative, not an observed attempt. | Sumika gains information by unsettling the relation; Kanoko reacts without a shared account of what is being tested. | O03; i020–024, i032. No physical injury or complete motive is inferred. |
+| **WY3-AG02 — Intimacy beside a sleeping person** | Kanoko takes photographs and brings their hair together while Hime sleeps. | No contemporaneous participation is shown from Hime. Romantic intention does not establish reciprocal permission. | O04; i029–031. The record does not infer an unambiguous kiss or a universal absence of prior photo permission. |
+| **WY3-AG03 — Observation rather than invited disclosure** | Sumika observes the private scene and later displays an image in confrontation. | Evidence is acquired/used outside a voluntary confidence; the exact capture process and any later circulation are unshown. | O04/O18; i032, i115–116. Do not invent blackmail to third parties. |
+| **WY3-AG04 — Correcting a coworker model** | Kanoko checks the book rather than remaining with the assumption that Sumika invented her interest. | A concrete evidence-seeking action changes her judgment. It does not oblige full trust or friendship. | O07; i055–058. Important counterexample to a wholly unrevisable Kanoko model. |
+| **WY3-AG05 — Broad help versus exclusive attention** | Hime encourages reading and ordinary communication; Kanoko can cooperate but values them principally through Hime. | Some practical growth occurs without a general resolution of social inhibition. | O02/O08; i011–014, i060. No comprehensive training outcome claimed. |
+| **WY3-AG06 — Warning, distress and interrupted conversation** | Sumika warns against possessiveness; Kanoko cries and turns toward Hime. | The warning names a possible cost, not Hime’s stated threat. The conversation ends without agreed boundaries. | O11; i083–085. Deliberate manipulation through tears is not established. |
+| **WY3-AG07 — Redirecting the contest** | Kanoko offers her votes and asks Sumika to defeat the outcome Hime now values. | This is active coalition-building, not mere jealousy as feeling. Hime has not agreed to the private aim. | O14/O16; i098, i103–110. Staff support beyond the participants remains partly planned. |
+| **WY3-AG08 — Conditional bargain with unspecified content** | Sumika agrees to tactical help in exchange for a later request. | Agreement to hear a request does not constitute advance consent to relinquish a relationship. Nor does help commit Sumika to every subsequent rule proposal. | O16/O17; i104, i111–114. Preserve the actual limited terms. |
+| **WY3-AG09 — Proposed abolition** | Kanoko asks for the sister system to be removed through the Blumen privilege. | Attempts to control the setting of Hime’s other attachment; not an enacted rule, and not a direct request for Hime’s preferences. | O17; i114. Implementation and predicted emotional effect remain open. |
+| **WY3-AG10 — Prohibition and refusal** | Sumika demands that Kanoko give up Hime; Kanoko refuses. | The protective project becomes a demand about another person’s attachment. No consent, apology, repair or completed negotiation follows. | O18; i115–118. The next present-day action is absent. |
+| **WY3-AG11 — Unnegotiated collective task** | Classmates assign the sign; Kanoko verbally accepts despite inward refusal and later invests effort. | An agreement formed under social pressure is not a transparent expression of desire. Others’ practical assumptions and her concealed resistance both matter. | O20; i130–137. Do not infer a threat not depicted. |
+| **WY3-AG12 — Destruction followed by confession** | Kanoko breaks the sign, then identifies herself as responsible while a silent escape remains available. | Actual harm is followed by an attempt to own it. The confession is not merely something extracted by an accusation. | O21; i138–142. Motive and accountability do not cancel one another. |
+| **WY3-AG13 — Protective false alibi** | Hime contradicts the confession, supplies a false shared timeline and redirects peers to replacement. | Immediate protection and practical progress coexist with cancellation of Kanoko’s chosen disclosure and deception of the group. | O22; i143–146. Historical antecedent, not post-V02 relapse. |
+| **WY3-AG14 — Chosen disclosure and private rest** | Hime voluntarily reveals her façade and invites friendship; Kanoko accepts and promises not to reject her for it. | Unlike the public alibi, this is a directly negotiated private opening. Its scope is not perpetual exclusivity. | O23/O24; i153–156. No romance agreement is made. |
+| **WY3-AG15 — Specific photo permission** | Hime requests the phone, initiates the photograph and recommends it for encouragement. | Clear consent for this jointly produced image, not all later photography or access. | O25; S16.5/i161. Separate supplemental chronology. |
+
+#### The asymmetry inside the parallel
+
+Kanoko and Sumika both protect a valued place, but “both are controlling” is too coarse to preserve their actual acts. Kanoko has advanced a proposal aimed at a system; she lacks demonstrated authority to enact it and has not secured Hime’s assent. Sumika has already exercised considerable interpersonal influence and now tells Kanoko what feeling or attachment must end. Each also has conduct outside this description: Kanoko checks a mistaken judgment and has shown practical care; Sumika performs useful work and briefly reconsiders intervention. The scope of criticism belongs to the act and its conditions, not a total character label. [AG04/AG07–AG10.]
+
+The earlier Hime offers a third configuration. She protects someone from a group by managing the account the group receives, even against that person’s confession. Yet she also opens a private conversation in which refusal and dislike can become speakable. A later model must therefore distinguish **creating room for a person’s actual view** from **deciding in advance which expression of that view will count**. The same character can do both in one episode. [AG11–AG14.]
+
+No V03 present-day rupture is marked repaired. A successful salon scene and a warm school memory are not evidence of such repair.

@@ -4,14 +4,14 @@ artifact_id: WATAYURI_INFORMATION_DISCLOSURE_AND_MISREADING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V02 mainline through V02 Shift 11/i156; Shifts 6.5 and 11.5 separately bounded; V03–V14 inventory only"
+source_boundary: "Japanese V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118; Shifts 6.5, 11.5 and 16.5 separately bounded; V04–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_INFORMATION_DISCLOSURE_AND_MISREADING_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_INFORMATION_DIS
 
 **Update and revision rule.** Update when disclosure, false belief, correction or materially altered higher-order belief affects behavior. Append a new dated epistemic state; preserve what each party and reader could know at the earlier VNN. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V02 mainline through V02 Shift 11/i156; packaged Shifts 6.5 and 11.5 remain separately bounded. V01 sections preserve the earlier prospective state; the dated V02 additions below carry the current account and do not overwrite that freeze. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118. Packaged Shifts 6.5, 11.5 and 16.5 remain separately bounded. V01 and V02 sections preserve their earlier states; dated V03 additions carry the current account without overwriting either freeze. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -79,3 +79,43 @@ WY1-INF03 and WY1-INF05 remain historical information events, not new events req
 | **WY2-INF03 — What “liking” means after repair** | Liking and wanted continuation are explicit; Hime classifies the bond as renewed friendship. Mitsuki’s reaction and subsequent behavior strongly suggest that this does not exhaust her desired meaning. | Category ambiguity replaces the earlier assumption of hatred. Hime’s romantic self-understanding and any mutually named romance remain unestablished. i130–134, i149–151. |
 | **WY2-INF04 — Kanoko’s photo collection and access to it** | Sumika discovers numerous Hime photographs on the unlocked phone. Kanoko is absent; no response to the discovery is shown. Hime’s call concerns custody of the phone, not gallery access. | Sumika now has unshared evidence of selective attention. Kanoko’s motive, awareness of the inspection, and future disclosure remain open. i154–156. |
 | **WY2-INF05 — Event rules explained versus learned** | Mai and Sumika explain the school-fiction title and café implementation. Hime has not mastered the material and agrees to further reading/questions. | Preparation is opened, not completed. Exposition available to the reader is not automatically knowledge competently usable by Hime. i137–143. |
+
+
+<a id="v03"></a>
+## V03 — Current additions and transitions — 2026-09-28
+
+**V03 evidence key:** source-map key `V03`, Japanese witness `1DVuJCfyJrZQCwrwinY8aHQeGem5_e9WZ`, SHA-256 `d8caa40958f2803e7b7d435f0bbab1af51f17ab2600336cd043248de05882dd9`. The [frozen V03 reading](../02%20Sequential%20Readings/WATAYURI_V03_DEEP_READING.md#information) supplies complete observations, chapter context and the image/spine convention. Unprefixed `iNNN`, O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V03; `WY1-` and `WY2-` retain inherited identities. Mainline reading ends at Shift 16/i156, latest depicted present at Shift 16/i118; i119–156 is retrospective and Shift 16.5/i158–161 is separately bounded school-period supplementation.
+
+### Consequential propositions and information asymmetry
+
+The rows below preserve the older proposition IDs wherever the underlying question continues. New source access belongs to V03 even when the event represented occurred earlier.
+
+#### Inherited proposition changes
+
+| Existing identity | V03 addition to the current view | Knower, recipient and withheld remainder |
+| --- | --- | --- |
+| **WY1-INF01 — Hime’s ordinary image management** | The school flashback depicts Hime voluntarily disclosing her strategy to Kanoko and asking for a private exception. | Earlier Hime and Kanoko share this knowledge; the reader receives the scene now. It does not establish that every coworker knows the same thing. O23; i151–154. |
+| **WY1-INF06 — Exposure and Hime’s expectation of rejection** | Earlier Hime reports reluctance after prior exposure, then chooses disclosure to Kanoko and receives acceptance. | This is a dated counterexample to universal rejection, not erasure of the childhood injury. It also explains why the private exception matters. O23; i153–154. |
+| **WY2-INF03 — Meaning of liking after the repair** | Hime’s pleasure in Yano’s recognition strengthens particular positive investment; Mitsuki remains emotionally less explicit. | Both hear Hime’s support; Kanoko hears the private explanation and reacts. None thereby receives a mutually agreed romantic classification. O10/O14/O15; i075–076, i095–102. |
+| **WY2-INF04 — Photo collection and access** | Kanoko suspects that Sumika saw the collection; the reader sees an actual mood-restoring use and later a separate image displayed by Sumika. | i026 is Kanoko’s thought. Sumika knows more through observation; Hime is not shown learning either intrusion or the restaurant demand. The supplement supplies one permitted photograph, not the provenance of the entire archive. O03/O04/O18/O25. |
+| **WY2-INF05 — Event rules explained versus learned** | Operational rules and interim standings are supplied; staff form different strategies using them. | Hime’s understanding grows unevenly. Sumika’s planned bloc and Kanoko’s proposed abolition remain intentions, not implemented facts. O01/O13/O16/O17. |
+
+The truth of the earlier piano rupture and the identity of Yano are not reopened merely because a new flashback mentions them. Preserve their V02 current accounts and the earlier V01 uncertainty separately.
+
+#### New material propositions
+
+| New identity and proposition | Represented truth and distribution | Consequence; unresolved remainder |
+| --- | --- | --- |
+| **WY3-INF01 — Kanoko applies a romantic script to Hime** | The reader sees her identify the novel’s passage as fitting them and enact its hair contact. Sumika separately observes; Hime sleeps. | Strong romantic evidence without mutual disclosure. The exact word Sumika later uses is her direct accusation, not an already completed confession by Kanoko. O04/O18; i031–032, i115–118. |
+| **WY3-INF02 — Sumika’s bookishness is not empty** | Her discussion is checked against a book; she explains that only already-finished books are used in the salon. | Kanoko’s lazy/unserious model is materially corrected; complete personal trust does not follow. O07; i048–058. |
+| **WY3-INF03 — Sumika’s ordinary surname** | Sumika identifies herself as 知花純加 and distinguishes the ordinary address from 橘. | Update the same cast subject’s alias. Knowledge of the name is not evidence of agreed familiarity. O08; i058–059. |
+| **WY3-INF04 — Sumika’s protective motive and remembered loss** | Her interior narration links present concern to a prior rupture represented in fragmentary scenes. | The reader knows this reason; Kanoko is not shown receiving the account. Names, full causal history and the generalization’s reliability remain open. O09/O12; i064, i070, i086–089. |
+| **WY3-INF05 — Hime genuinely welcomes Mitsuki’s recognition** | Hime explains this privately to Kanoko and later tells Mitsuki that the success feels shared. | Kanoko can no longer be modeled as responding only to theatrical closeness or practical failure. The statement does not classify Hime’s affection as romantic. O14/O15; i095–102. |
+| **WY3-INF06 — The public alliance’s private purpose** | Kanoko tells Sumika she wants to prevent the Blumen-sister outcome; guests and Hime receive a story of senior admiration. | Public support is real, but the motive is selectively withheld. Hime’s approval is based on the narrower account. O16; i103–110. |
+| **WY3-INF07 — Abolition and return** | Kanoko proposes abolishing sisterhood and predicts Hime will return to her. Sumika hears it and rejects its implications. | The proposal is known to the two participants and reader, not shown shared with Hime, Mitsuki or Mai. Its emotional prediction and institutional feasibility are unverified. O17; i114. |
+| **WY3-INF08 — Demand and refusal** | Sumika names romantic jealousy and asks Kanoko to give up Hime; Kanoko refuses and leaves the conversation unresolved. | No mutual settlement and no later follow-through before the flashback. Sumika’s evidence does not turn the demand into Kanoko’s consent. O18; i115–118. |
+| **WY3-INF09 — Actual responsibility for the sign** | Reader, Kanoko and Hime know Kanoko destroyed it; classmates first treat her as an injured maker, then hear confession and Hime’s false alibi. | Hime’s account overrides the true confession. Later class repair proceeds on incomplete or false causal information. O21/O22; i138–145. |
+| **WY3-INF10 — The friendship’s shared private basis** | Earlier Hime reveals her façade, calls Kanoko a friend and asks to rest it in private; Kanoko accepts. | Supports real historical specialness. The current proposition “only I may remain Hime’s friend” is not thereby established. O23/O24; i153–156. |
+| **WY3-INF11 — A photograph can be permitted without all photography being permitted** | In the school supplement Hime initiates a photograph on Kanoko’s phone and suggests its encouraging use. | This is bounded counterevidence to a universal secrecy claim, not blanket authorization for subsequent collection, access or sleeping contact. O25; S16.5/i161. |
+
+The four recurring errors this table prevents are: assigning Kanoko’s thought to Hime’s knowledge; assigning Sumika’s inference to narratorial certainty; assigning guest-facing fiction to private testimony; and assigning a later source revelation to every character’s present knowledge.
