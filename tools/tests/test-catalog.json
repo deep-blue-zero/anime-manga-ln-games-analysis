@@ -1,6 +1,68 @@
 {
   "schema": "repository-test-catalog/v1",
   "tests": {
+    "test_governance_authority.PublicGovernanceInvariantTests.test_historical_character_registry_matches_reviewed_snapshot": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Retain exact historical character fixtures against the pinned reviewed Git checkpoint, independently of live curation."
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_historical_character_fixture_rejects_changed_or_missing_git_blob": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_governance_authority.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Fail closed when the immutable character fixture is unavailable or does not match its reviewed hash."
+    },
+    "test_governance_authority.PublicGovernanceInvariantTests.test_frozen_series_migration_crosswalks_are_unchanged": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_governance_authority.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Preserve frozen live migration crosswalk counts, source dispositions, and output hashes separately from evolving character data."
+    },
+    "test_character_index_v2.LiveCurationTests.test_current_registry_satisfies_live_discovery_contract": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_character_index_v2.py",
+        "tools/character_index_core.py",
+        "tools/validate_repository.py",
+        "governance/schemas/character-analysis-index.schema.json"
+      ],
+      "purpose": "Validate the current staged character registry using the production schema, identity, series, evidence, and authority checks."
+    },
+    "test_character_index_v2.LiveCurationTests.test_valid_additions_and_revisions_are_not_limited_by_historical_rosters": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/character_index_core.py",
+        "tools/validate_repository.py",
+        "governance/schemas/character-analysis-index.schema.json"
+      ],
+      "purpose": "Allow reviewed additions and revisions with new current evidence across formerly frozen character rosters."
+    },
+    "test_character_index_v2.LiveCurationTests.test_invalid_additions_and_revisions_still_fail_live_validation": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_character_index_v2.py",
+        "tools/character_index_core.py",
+        "tools/validate_repository.py",
+        "governance/schemas/character-analysis-index.schema.json"
+      ],
+      "purpose": "Reject malformed schema, duplicate or mismatched identities, unknown series, missing or historical evidence, and broken coverage after curation changes."
+    },
     "test_nightly_integration.SquashRecognitionTests.test_exact_merged_tip_is_recognized_without_any_write": {
       "group": "regression",
       "smoke": false,
