@@ -33,10 +33,10 @@ def validate(source_root: Path | None) -> dict:
     matrix = (HERE / f"{PREFIX}EVIDENCE_AND_FALSIFICATION_MATRIX.md").read_text(encoding="utf-8")
     evidence = set(re.findall(r"\| (CHL-E\d{2}) \|", matrix))
     claims = set(re.findall(r"\| (CHL-C\d{2}) —", matrix))
-    require(evidence == {f"CHL-E{i:02d}" for i in range(1, 44)},
-            "43 contiguous evidence bundles", checks)
-    require(claims == {f"CHL-C{i:02d}" for i in range(1, 39)},
-            "38 contiguous claim rows", checks)
+    require(evidence == {f"CHL-E{i:02d}" for i in range(1, 45)},
+            "44 contiguous evidence bundles", checks)
+    require(claims == {f"CHL-C{i:02d}" for i in range(1, 40)},
+            "39 contiguous claim rows", checks)
     require(not any(p.suffix.lower() in MEDIA_SUFFIXES for p in HERE.rglob("*") if p.is_file()),
             "no raw media in Git packet", checks)
     expected = (
@@ -77,8 +77,8 @@ def validate(source_root: Path | None) -> dict:
                 for r in model["rules"]), "evidence-linked nonnumeric rules", checks)
     probes = (HERE / f"{PREFIX}MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md").read_text(encoding="utf-8")
     require(set(re.findall(r"\| (CHL-P\d{2}) \|", probes)) ==
-            {f"CHL-P{i:02d}" for i in range(1, 45)},
-            "44 contiguous non-blind probes", checks)
+            {f"CHL-P{i:02d}" for i in range(1, 46)},
+            "45 contiguous non-blind probes", checks)
     cases = json.loads((HERE / "AUDIO_MATCHED_SEMANTIC_CASES.json").read_text(encoding="utf-8"))
     require(cases["semantic_cases"] == 18 and len(cases["cases"]) == 18,
             "18 matched semantic cases", checks)
@@ -318,6 +318,59 @@ def validate(source_root: Path | None) -> dict:
                 "72 installed memberships not counted as decoded", checks)
         lines = jsonl(voice / "COMPLETE_VOICE_LINE_ANALYSIS.jsonl")
         require(len(lines) == 610, "610 selected semantic voice rows", checks)
+        favor = {row["content"]["text_key"]: row for row in
+                 json.loads((source / "character_source_package.json").read_text(
+                     encoding="utf-8"))["favor_words"]}
+        rank_keys = ("FavorWord_120529_Content", "FavorWord_120530_Content")
+        rank_rows = [favor[key] for key in rank_keys]
+        require([row["id"] for row in rank_rows] == [120529, 120530] and
+                [row["source_locator"].rsplit("#", 1)[-1] for row in rank_rows] ==
+                ["/1324", "/1325"] and
+                [row["voice_asset"].rsplit(".", 1)[-1] for row in rank_rows] ==
+                ["play_favor_word_changli_sys_rankup03",
+                 "play_favor_word_changli_sys_rankup04"],
+                "two exact ascension source rows and event paths", checks)
+        require(all(row["content"]["values"][lang]["status"] == "resolved" and
+                    row["content"]["values"][lang]["source_locator"].endswith(
+                        f"/MultiText.json#/{278165 + index}")
+                    for index, row in enumerate(rank_rows)
+                    for lang in ("zh-Hans", "en", "ja", "ko")),
+                "eight exact ascension text witnesses", checks)
+        third = rank_rows[0]["content"]["values"]
+        fourth = rank_rows[1]["content"]["values"]
+        require("书斋老板" in third["zh-Hans"]["content"] and
+                "bookshop owners" in third["en"]["content"] and
+                "서점 주인" in third["ko"]["content"] and
+                "本屋" not in third["ja"]["content"] and
+                "不求回报" in third["zh-Hans"]["content"] and
+                "何の対価もなし" in third["ja"]["content"] and
+                "师恩" in fourth["zh-Hans"]["content"] and
+                "guidance" in fourth["en"]["content"] and
+                "お返し" in fourth["ja"]["content"] and
+                "보답" in fourth["ko"]["content"],
+                "reciprocal teaching and localization limits in four witnesses", checks)
+        rank_audio = {row["text_key"]: row for row in lines
+                      if row["text_key"] in rank_keys}
+        require(set(rank_audio) == set(rank_keys) and
+                [rank_audio[key]["source_locator"] for key in rank_keys] ==
+                [row["source_locator"] for row in rank_rows],
+                "ascension semantic voice IDs retain source locators", checks)
+        rank_renders = [render for key in rank_keys
+                        for render in rank_audio[key]["renders"]]
+        require(all({render["voice_language"] for render in
+                     rank_audio[key]["renders"]} == LANGUAGES and
+                    {render["event_id"] for render in
+                     rank_audio[key]["renders"]} == {event_id}
+                    for key, event_id in zip(rank_keys, (177631101, 177631098))) and
+                len(rank_renders) == 8 and
+                len({render["canonical_pcm_sha256"] for render in rank_renders}) == 8 and
+                all(render["source_wem_sha256_verified"] and
+                    render["materialization_status"] ==
+                    "flac_roundtrip_pcm_identical" and
+                    render["numeric_media_id"] is not None
+                    for render in rank_renders),
+                "two ascension occurrences join eight distinct PCM-valid four-dub renders",
+                checks)
         new_scene_rows = []
         for state, action_index, item_count, owned_count, render_count, pcm_count, speakers in (
             (3345, 2, 16, 8, 36, 33, {0: 1328, 1: 1327, 13: 999, 15: 999}),

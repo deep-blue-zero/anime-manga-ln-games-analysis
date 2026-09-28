@@ -44,7 +44,7 @@ The [deep dive](WUWA_CHANGLI_CHARACTER_DEEP_DIVE_PRE_AV.md) rejects the omniscie
 | 5 | [Speech/audio](WUWA_CHANGLI_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md) | Written registers, full selected-scope measurement boundaries and source-cohort interpretation |
 | 5a | [Source-defined audio cohort audit](WUWA_CHANGLI_SOURCE_DEFINED_AUDIO_COHORT_AUDIT.md) | Eleven original scene/route cohorts plus three disjoint Chronosorter cohorts, render/PCM reuse arithmetic, negative dispatch and acoustic non-result |
 | 6 | [Model JSON](WUWA_CHANGLI_CHARACTER_MODEL_PACKAGE.json) | 19 conditional evidence-linked rules |
-| 7 | [Fidelity probes](WUWA_CHANGLI_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md) | 44 non-blind future tests and constructed interactions |
+| 7 | [Fidelity probes](WUWA_CHANGLI_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md) | 45 non-blind future tests and constructed interactions |
 | 8 | [Source/identity census](WUWA_CHANGLI_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md) | Denominators, hidden strategist and unresolved voices |
 | 9 | [AV plan](WUWA_CHANGLI_AV_AND_HUMAN_RETRIEVAL_PLAN.md) | Listening and visual work not yet done |
 | 9a | [Exact AV retrieval crosswalk](WUWA_CHANGLI_AV_HUMAN_RETRIEVAL_CROSSWALK.md) | Eighteen four-dub sound cases, twenty-one runtime/negative targets, quest-state candidate joins and acceptance controls |
@@ -54,6 +54,8 @@ The [deep dive](WUWA_CHANGLI_CHARACTER_DEEP_DIVE_PRE_AV.md) rejects the omniscie
 [Eighteen matched audio cases](AUDIO_MATCHED_SEMANTIC_CASES.json) preserve text/event/media/FLAC/PCM identities without including copyright media. Private sources are `ANALYSIS/Characters/Changli`; local sound is `_voice_media/character/complete_voice_corpus/Changli/v0_1` and `_research/character_packets/Changli/audio_work`. Of the 72 selected render rows, 44 have paired null event and numeric-media IDs; direct event/bank proof is not invented for them.
 
 ## Scope and open gap
+
+The latest four-language archive reread adds CHL-E44/C39: Ascension III–IV show Changli receiving Rover's instruction after difficult post-Xuanmiao learning and offering a return for improved control. This narrows the mentor-only caricature but does not prove a formal apprenticeship, a recorded lesson or a fulfilled wish. Both keys have explicit event paths and eight distinct four-dub PCM-valid renders already inside the existing 610-line selected corpus; they have not been human-listened. JA omits the bookseller chase present in ZH/EN/KO.
 
 Two early mountain actions, `flow#/3133/4` and `3135/4`, are now read directly rather than compressed under generic Wayfinder guidance: 26 accepted Changli turns/104 distinct four-dub PCM-valid renders. They separate her hoped-false Fractsidus/Jué inference and concern for Hongzhen residents from a tested causal mechanism, and Rover's reported dream/Jinhsi trace from proven memory or rescue. The render subset is within the existing selected-corpus totals; no human listening or runtime traversal is claimed.
 

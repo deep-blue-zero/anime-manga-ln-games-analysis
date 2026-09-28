@@ -2,8 +2,8 @@
   "packet": "Changli",
   "scope": "CHANGLI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV",
   "checks": [
-    "43 contiguous evidence bundles",
-    "38 contiguous claim rows",
+    "44 contiguous evidence bundles",
+    "39 contiguous claim rows",
     "no raw media in Git packet",
     "draft authority: WUWA_CHANGLI_ANALYSIS_PACKET_README.md",
     "noncurrent flag: WUWA_CHANGLI_ANALYSIS_PACKET_README.md",
@@ -62,7 +62,7 @@
     "model authority and source pin",
     "19 contiguous distinct model rules",
     "evidence-linked nonnumeric rules",
-    "44 contiguous non-blind probes",
+    "45 contiguous non-blind probes",
     "18 matched semantic cases",
     "all 18 exact sound cases occur in AV crosswalk",
     "unresolved poetic narration is an explicit negative AV target",
@@ -110,6 +110,11 @@
     "eighteen text-known poetic lines in gap",
     "72 installed memberships not counted as decoded",
     "610 selected semantic voice rows",
+    "two exact ascension source rows and event paths",
+    "eight exact ascension text witnesses",
+    "reciprocal teaching and localization limits in four witnesses",
+    "ascension semantic voice IDs retain source locators",
+    "two ascension occurrences join eight distinct PCM-valid four-dub renders",
     "context scene 3345/2 raw speaker/action boundary",
     "context scene 3345/2 accepted voiced ownership",
     "context scene 3345/2 semantic occurrence join",
@@ -227,5 +232,5 @@
   ],
   "source_crosscheck": "passed",
   "result": "pass",
-  "check_count": 222
+  "check_count": 227
 }

@@ -44,6 +44,8 @@ The [eighteen selected cases](AUDIO_MATCHED_SEMANTIC_CASES.json) each retain one
 | `FavorWord_120511_Content` | Does she clearly make feather-based location awareness conditional on Rover's wish? | C06, C15 |
 | `FavorWord_120513_Content` | Does concern for Jinhsi's personal rest differ from public counselor register? | C03, C19 |
 | `FavorWord_120518_Content` | Are excess birthday presents playful or anxious about finite time? Do not infer a death date. | C09, C16 |
+| `FavorWord_120529_Content` | Does she sound playful or grateful when recalling difficult learning and Rover's unpriced instruction? JA omits the ZH/EN/KO bookseller chase. | C39 |
+| `FavorWord_120530_Content` | How does improved control and her offered return sound? No recording can supply an unrecorded answer to her question. | C05, C39 |
 | `FavorWord_120531_Content` | Compare mortal/eternal imagery with KO's fate-oriented localization and listen for the actual interpersonal register. | C14, C16 |
 | `Huanglong_main_1_5_83_40` (`flow#/2516/3/39`) | In the secret counselor reveal, is support for Jinhsi offered as commitment after challenge? | C03, C21 |
 | `Chengxiaoshan_main_1_1_30_50` (`flow#/3123/5/34`) | Is the Mt. Firmament risk disclosure a real request for consent, and what surrounds it? | C09, C15 |
@@ -60,6 +62,8 @@ The [eighteen selected cases](AUDIO_MATCHED_SEMANTIC_CASES.json) each retain one
 The eighteen `flow#/3688/0/0–17` poetic lines are a separate text-known, sound-unresolved queue. Their 72 installed media memberships do not enter this cohort or a human-heard denominator until runtime dispatch and exact source-to-playable-object identity are established.
 
 **Additional early-mountain nominations outside the eighteen-case index:** `flow#/3133/4` and `3135/4` contain 26 accepted Changli source-voiced turns and 104 distinct four-dub PCM-valid renders. First listen to `Chengxiaoshan_main_1_1_60_6`, `_60_10–11`, `_60_16–17` for time reversal, fallible prediction and concern for residents; then `_70_11–12` and `_70_18–20` for dream modality and an unverified Jinhsi trace. Retrieve exact occurrence and render identity from the private complete-voice analysis; these story rows do not have populated numeric event/media IDs. Do not infer performance from source punctuation or mix statistics. The two offered Rover dream replies remain alternatives until an executed route is captured.
+
+**Additional archive nomination outside the eighteen-case index:** `FavorWord_120529_Content` and `FavorWord_120530_Content` are separate semantic occurrences at `favorword.json#/1324` and `#/1325`. Their source event paths end in `play_favor_word_changli_sys_rankup03` and `play_favor_word_changli_sys_rankup04`, with event IDs `177631101` and `177631098`. The private complete-voice index joins each to four language-specific numeric media IDs and four distinct, WEM-hash-verified, PCM-roundtrip-valid FLAC objects. Retrieve by exact text key, occurrence ID and render hash before listening; this technical chain does not establish performed gratitude, the content of a lesson, a formal teaching status or a fulfilled wish [CHL-E44/C39].
 
 ## Targeted continuous-scene retrieval
 
