@@ -177,26 +177,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-shared-synthesis` — Akito analysis in shared synthesis](series/project-sekai/02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_SYNTHESIS.md)
 
-### Ako
-
-- Entity ID: `blue-archive:ako`
-- Entity aliases:
-  - _None._
-
-#### Subject: Blue Archive game
-
-- Analysis subject ID: `blue-archive:ako@game`
-- Series: `blue-archive`
-- Continuity: `blue-archive-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `abydos-chapter-2-reviewed`: GAME STORY_CHAPTER: Substantial distributed character analysis at the canonical main-story Volume 1 Chapter 2 checkpoint, E001–E020. This names an analytical chapter horizon, not presence in every episode. Chapter 1 supplies inherited context; later volumes, side stories, bonds, MomoTalk and performed voice are outside this enrolled scope.; continuity `blue-archive-game`
-- Reviewed current evidence:
-  - [`abydos-chapter-2` — Countermeasures Committee Chapter 2 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md)
-
 ### Aldini Takumi
 
 - Entity ID: `shokugeki-no-soma:aldini-takumi`
@@ -238,27 +218,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
   - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
-
-### Alice
-
-- Entity ID: `blue-archive:alice`
-- Entity aliases:
-  - _None._
-
-#### Subject: Blue Archive game
-
-- Analysis subject ID: `blue-archive:alice@game`
-- Series: `blue-archive`
-- Continuity: `blue-archive-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `pavane-reviewed-chapters`: GAME STORY_CHAPTER: Substantial distributed analysis across main-story Volume 2 Chapter 1 E001–E020 and Chapter 2 E001–E025, at their canonical checkpoints. This describes the analytical corpus, not character presence in every episode. No later-volume, side-story, bond, MomoTalk or performed-voice coverage is claimed.; continuity `blue-archive-game`
-- Reviewed current evidence:
-  - [`pavane-chapter-1` — Pavane Chapter 1 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md)
-  - [`pavane-chapter-2` — Pavane Chapter 2 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md)
 
 ### All For One
 
@@ -759,26 +718,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `big-johnny-reviewed-corpus`: ANIME EPISODE: Substantial subject-specific sections in a canonical Phase-3 character synthesis across the first-season episode boundary declared by the artifact; multi-subject documents are enrolled only for their explicitly co-primary subjects.; continuity `to-be-hero-x-animated-series`
 - Reviewed current evidence:
   - [`12-little-johnny-big-johnny-family-monsterhood-and-recognition` — 12 LITTLE JOHNNY BIG JOHNNY FAMILY MONSTERHOOD AND RECOGNITION](series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/12_LITTLE_JOHNNY_BIG_JOHNNY_FAMILY_MONSTERHOOD_AND_RECOGNITION.md)
-
-### Black Suit
-
-- Entity ID: `blue-archive:black-suit`
-- Entity aliases:
-  - _None._
-
-#### Subject: Blue Archive game
-
-- Analysis subject ID: `blue-archive:black-suit@game`
-- Series: `blue-archive`
-- Continuity: `blue-archive-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `abydos-chapter-2-reviewed`: GAME STORY_CHAPTER: Substantial distributed character analysis at the canonical main-story Volume 1 Chapter 2 checkpoint, E001–E020. This names an analytical chapter horizon, not presence in every episode. Chapter 1 supplies inherited context; later volumes, side stories, bonds, MomoTalk and performed voice are outside this enrolled scope.; continuity `blue-archive-game`
-- Reviewed current evidence:
-  - [`abydos-chapter-2` — Countermeasures Committee Chapter 2 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md)
 
 ### Bremerton
 
@@ -2186,26 +2125,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`mha-sp2-villain-antagonist-character-state-ledger` — MHA SP2 VILLAIN ANTAGONIST CHARACTER STATE LEDGER](series/my-hero-academia/V2%20Analysis/03%20Longitudinal%20Ledgers/Character%20Group%20Ledgers/MHA_SP2_VILLAIN_ANTAGONIST_CHARACTER_STATE_LEDGER.md)
   - [`reviewed-dedicated-analysis` — Himiko Toga V2 dedicated dossier](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_HIMIKO_TOGA_CHARACTER_RECONSTRUCTION_MODEL.md)
 
-### Hina
-
-- Entity ID: `blue-archive:hina`
-- Entity aliases:
-  - _None._
-
-#### Subject: Blue Archive game
-
-- Analysis subject ID: `blue-archive:hina@game`
-- Series: `blue-archive`
-- Continuity: `blue-archive-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `abydos-chapter-2-reviewed`: GAME STORY_CHAPTER: Substantial distributed character analysis at the canonical main-story Volume 1 Chapter 2 checkpoint, E001–E020. This names an analytical chapter horizon, not presence in every episode. Chapter 1 supplies inherited context; later volumes, side stories, bonds, MomoTalk and performed voice are outside this enrolled scope.; continuity `blue-archive-game`
-- Reviewed current evidence:
-  - [`abydos-chapter-2` — Countermeasures Committee Chapter 2 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md)
-
 ### Hinami
 
 - Entity ID: `tomozaki:hinami`
@@ -2722,26 +2641,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `juo-sena-reviewed-corpus`: GAME OTHER: Current Phase-3 source-facing character core over the character-owned text corpus and admitted shared continuity evidence; it is substantial but remains earlier than the planned definitive Phase-7 monograph.; continuity `gakuen-idolmaster-mobile-game`
 - Reviewed current evidence:
   - [`gkm-core-12-juo-sena` — GKM CORE 12 JUO SENA](series/gakuen-idolmaster/03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/12_JUO_SENA/GKM_CORE_12_JUO_SENA.md)
-
-### Kaiser director
-
-- Entity ID: `blue-archive:kaiser-director`
-- Entity aliases:
-  - _None._
-
-#### Subject: Blue Archive game
-
-- Analysis subject ID: `blue-archive:kaiser-director@game`
-- Series: `blue-archive`
-- Continuity: `blue-archive-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `abydos-chapter-2-reviewed`: GAME STORY_CHAPTER: Substantial distributed character analysis at the canonical main-story Volume 1 Chapter 2 checkpoint, E001–E020. This names an analytical chapter horizon, not presence in every episode. Chapter 1 supplies inherited context; later volumes, side stories, bonds, MomoTalk and performed voice are outside this enrolled scope.; continuity `blue-archive-game`
-- Reviewed current evidence:
-  - [`abydos-chapter-2` — Countermeasures Committee Chapter 2 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md)
 
 ### Kamishiro Sui
 
@@ -3910,27 +3809,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-literary-monograph` — Mari Otsu provisional literary monograph](series/sayonara-lara/04_Characters/SYL_MARI_MONOGRAPH.md) — **active provisional authority**
 
-### Midori
-
-- Entity ID: `blue-archive:midori`
-- Entity aliases:
-  - _None._
-
-#### Subject: Blue Archive game
-
-- Analysis subject ID: `blue-archive:midori@game`
-- Series: `blue-archive`
-- Continuity: `blue-archive-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `pavane-reviewed-chapters`: GAME STORY_CHAPTER: Substantial distributed analysis across main-story Volume 2 Chapter 1 E001–E020 and Chapter 2 E001–E025, at their canonical checkpoints. This describes the analytical corpus, not character presence in every episode. No later-volume, side-story, bond, MomoTalk or performed-voice coverage is claimed.; continuity `blue-archive-game`
-- Reviewed current evidence:
-  - [`pavane-chapter-1` — Pavane Chapter 1 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md)
-  - [`pavane-chapter-2` — Pavane Chapter 2 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md)
-
 ### Midoriya Izuku
 
 - Entity ID: `my-hero-academia:midoriya-izuku`
@@ -4122,27 +4000,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-dedicated-corpus`: LIGHT_NOVEL VOLUME: Reviewed cumulative original-Japanese light-novel monograph within its explicit character-specific source and developmental boundaries. Later header or supplementary coverage does not imply uninterrupted evidence in every volume or advance an older modeled state.; continuity `chiramune-light-novel`
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Momiji Nozomi dedicated analysis](series/chiramune/04%20Character%20Analysis/Momiji%20Nozomi/CHIRAMUNE_MOMIJI_CHARACTER_MONOGRAPH.md) — **active provisional authority**
-
-### Momoi
-
-- Entity ID: `blue-archive:momoi`
-- Entity aliases:
-  - _None._
-
-#### Subject: Blue Archive game
-
-- Analysis subject ID: `blue-archive:momoi@game`
-- Series: `blue-archive`
-- Continuity: `blue-archive-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `pavane-reviewed-chapters`: GAME STORY_CHAPTER: Substantial distributed analysis across main-story Volume 2 Chapter 1 E001–E020 and Chapter 2 E001–E025, at their canonical checkpoints. This describes the analytical corpus, not character presence in every episode. No later-volume, side-story, bond, MomoTalk or performed-voice coverage is claimed.; continuity `blue-archive-game`
-- Reviewed current evidence:
-  - [`pavane-chapter-1` — Pavane Chapter 1 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md)
-  - [`pavane-chapter-2` — Pavane Chapter 2 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md)
 
 ### Mutsuki
 
@@ -5401,26 +5258,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`claim-evidence-ledger` — Bounded chapter character interpretations and counterevidence](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
   - [`episode-1-0-arc-reading` — EPISODE 1.0 arc reading: individual motives, choices and relationships](series/tokyo-7th-sisters/07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_ARC_DEEP_READING.md)
-
-### Shiba Seki master
-
-- Entity ID: `blue-archive:shiba-seki-master`
-- Entity aliases:
-  - _None._
-
-#### Subject: Blue Archive game
-
-- Analysis subject ID: `blue-archive:shiba-seki-master@game`
-- Series: `blue-archive`
-- Continuity: `blue-archive-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `abydos-chapter-2-reviewed`: GAME STORY_CHAPTER: Substantial distributed character analysis at the canonical main-story Volume 1 Chapter 2 checkpoint, E001–E020. This names an analytical chapter horizon, not presence in every episode. Chapter 1 supplies inherited context; later volumes, side stories, bonds, MomoTalk and performed voice are outside this enrolled scope.; continuity `blue-archive-game`
-- Reviewed current evidence:
-  - [`abydos-chapter-2` — Countermeasures Committee Chapter 2 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C002_CHECKPOINT.md)
 
 ### Shiden Iida
 
@@ -6842,48 +6679,6 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
   - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
-
-### Yuuka
-
-- Entity ID: `blue-archive:yuuka`
-- Entity aliases:
-  - _None._
-
-#### Subject: Blue Archive game
-
-- Analysis subject ID: `blue-archive:yuuka@game`
-- Series: `blue-archive`
-- Continuity: `blue-archive-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `pavane-reviewed-chapters`: GAME STORY_CHAPTER: Substantial distributed analysis across main-story Volume 2 Chapter 1 E001–E020 and Chapter 2 E001–E025, at their canonical checkpoints. This describes the analytical corpus, not character presence in every episode. No later-volume, side-story, bond, MomoTalk or performed-voice coverage is claimed.; continuity `blue-archive-game`
-- Reviewed current evidence:
-  - [`pavane-chapter-1` — Pavane Chapter 1 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md)
-  - [`pavane-chapter-2` — Pavane Chapter 2 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md)
-
-### Yuzu
-
-- Entity ID: `blue-archive:yuzu`
-- Entity aliases:
-  - _None._
-
-#### Subject: Blue Archive game
-
-- Analysis subject ID: `blue-archive:yuzu@game`
-- Series: `blue-archive`
-- Continuity: `blue-archive-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
-- Subject aliases:
-  - _None._
-- Analytical coverage:
-  - `pavane-reviewed-chapters`: GAME STORY_CHAPTER: Substantial distributed analysis across main-story Volume 2 Chapter 1 E001–E020 and Chapter 2 E001–E025, at their canonical checkpoints. This describes the analytical corpus, not character presence in every episode. No later-volume, side-story, bond, MomoTalk or performed-voice coverage is claimed.; continuity `blue-archive-game`
-- Reviewed current evidence:
-  - [`pavane-chapter-1` — Pavane Chapter 1 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md)
-  - [`pavane-chapter-2` — Pavane Chapter 2 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md)
 
 ### Yuzuki Nanase
 
