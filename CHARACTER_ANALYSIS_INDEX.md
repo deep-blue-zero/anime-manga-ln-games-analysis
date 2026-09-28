@@ -1513,6 +1513,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`oreimo-core-character-deep-dive` — OREIMO CORE CHARACTER DEEP DIVE](series/oreimo/V1%20Analysis/04%20Character%20Deep%20Dives/OREIMO_CORE_CHARACTER_DEEP_DIVE.md)
 
+### Grace
+
+- Entity ID: `sayonara-lara:grace`
+- Entity aliases:
+  - _None._
+
+#### Subject: Television anime continuity
+
+- Analysis subject ID: `sayonara-lara:grace@anime`
+- Series: `sayonara-lara`
+- Continuity: `sayonara-lara-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - Gon (en, ALTERNATIVE) — Name used for Grace in the fish vessel within this anime continuity; not a separately established entity.
+- Analytical coverage:
+  - `bounded-literary-scope`: ANIME EPISODE: Dedicated E01-E12 literary analysis of Grace/Gon, mediated family history, rescue, sacrifice, information withholding, projection and control. E11 childhood-Mari rescue is historical; it does not establish Grace surviving the E10 confrontation. Final fate remains unverified.; continuity `sayonara-lara-anime`
+- Reviewed current evidence:
+  - [`reviewed-literary-monograph` — Grace provisional literary monograph](series/sayonara-lara/04_Characters/SYL_GRACE_MONOGRAPH.md) — **active provisional authority**
+
 ### Grethe Wenzel
 
 - Entity ID: `86-eighty-six:grethe-wenzel`
@@ -3305,6 +3325,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Lady Nagant / Tsutsumi Kaina dedicated analysis](series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_LADY_NAGANT_CHARACTER_RECONSTRUCTION_MODEL.md)
 
+### Lara
+
+- Entity ID: `sayonara-lara:lara`
+- Entity aliases:
+  - _None._
+
+#### Subject: Television anime continuity
+
+- Analysis subject ID: `sayonara-lara:lara@anime`
+- Series: `sayonara-lara`
+- Continuity: `sayonara-lara-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-literary-scope`: ANIME EPISODE: Dedicated E01-E12 literary analysis of curiosity, inherited guilt, practical competence, embodied identity, direct declarations, refusal of coerced harm and costly independent residence. The six-month coda does not establish self-sufficiency, permanent survival or a mutually agreed future with Mari.; continuity `sayonara-lara-anime`
+- Reviewed current evidence:
+  - [`reviewed-literary-monograph` — Lara provisional literary monograph](series/sayonara-lara/04_Characters/SYL_LARA_MONOGRAPH.md) — **active provisional authority**
+
 ### Lerche
 
 - Entity ID: `86-eighty-six:lerche`
@@ -3367,6 +3407,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `lin-ling-reviewed-corpus`: ANIME EPISODE: Substantial subject-specific sections in a canonical Phase-3 character synthesis across the first-season episode boundary declared by the artifact; multi-subject documents are enrolled only for their explicitly co-primary subjects.; continuity `to-be-hero-x-animated-series`
 - Reviewed current evidence:
   - [`06-lin-ling-nice-moon-and-the-replacement-hero` — 06 LIN LING NICE MOON AND THE REPLACEMENT HERO](series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/06_LIN_LING_NICE_MOON_AND_THE_REPLACEMENT_HERO.md)
+
+### Lisa
+
+- Entity ID: `sayonara-lara:lisa`
+- Entity aliases:
+  - _None._
+
+#### Subject: Television anime continuity
+
+- Analysis subject ID: `sayonara-lara:lisa@anime`
+- Series: `sayonara-lara`
+- Continuity: `sayonara-lara-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - Shiomi Lisa (en, ALTERNATIVE) — Human identity used by Lisa in this anime continuity.
+  - 潮見リサ (ja, ORIGINAL_SCRIPT) — Written human identity in the reviewed Lisa monograph.
+- Analytical coverage:
+  - `bounded-literary-scope`: ANIME EPISODE: Dedicated E06-E12 literary analysis with historical survival context: delegated duty, medicine, scientific dependence, species doctrine, protective coercion and partial accommodation of Lara. Returning the ring does not establish total ideological conversion, a cure or recovery of the sleeping court.; continuity `sayonara-lara-anime`
+- Reviewed current evidence:
+  - [`reviewed-literary-monograph` — Lisa provisional literary monograph](series/sayonara-lara/04_Characters/SYL_LISA_MONOGRAPH.md) — **active provisional authority**
 
 ### Little Johnny
 
@@ -3567,6 +3628,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `bounded-ledger-scope`: MANGA VOLUME: Substantial conduct in V001-V003, V005-V006, V009-V010 and V020. Contradiction testing, audience-sensitive presentation and access-building are supported; motive and endpoint remain unresolved. The V011-V019 gap is not continuous planning evidence.; continuity `rent-a-girlfriend-manga`
 - Reviewed current evidence:
   - [`reviewed-character-ledger` — Mami Nanami longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Mami%20Nanami/RAG_MAMI_EVIDENCE_LEDGER.md)
+
+### Mari Otsu
+
+- Entity ID: `sayonara-lara:mari-otsu`
+- Entity aliases:
+  - _None._
+
+#### Subject: Television anime continuity
+
+- Analysis subject ID: `sayonara-lara:mari-otsu@anime`
+- Series: `sayonara-lara`
+- Continuity: `sayonara-lara-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-literary-scope`: ANIME EPISODE: Dedicated E02-E12 literary analysis with childhood retrospection: bounded care, boxing ambition, family disclosure, loneliness, relationship naming and resistance to unilateral departure. Her reported death/revival does not establish precise choreography, a confirmed romantic pairing or a resolved future arrangement.; continuity `sayonara-lara-anime`
+- Reviewed current evidence:
+  - [`reviewed-literary-monograph` — Mari Otsu provisional literary monograph](series/sayonara-lara/04_Characters/SYL_MARI_MONOGRAPH.md) — **active provisional authority**
 
 ### Midoriya Izuku
 
@@ -4420,6 +4501,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
   - [`master-longitudinal-ledger` — Current character, information and relationship states through V03](series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
+
+### Rowan
+
+- Entity ID: `sayonara-lara:rowan`
+- Entity aliases:
+  - _None._
+
+#### Subject: Television anime continuity
+
+- Analysis subject ID: `sayonara-lara:rowan@anime`
+- Series: `sayonara-lara`
+- Continuity: `sayonara-lara-anime`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `IDEOLOGY`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-literary-scope`: ANIME EPISODE: Dedicated analysis across selected E01-E12 testimony, mediated E11 history and the E12 coda: paternal sacrifice, grief, dynastic extraction, anti-human law and coerced restoration. Absent or sleeping intervals are not direct conduct; no final renunciation, awakening or reconciliation is established.; continuity `sayonara-lara-anime`
+- Reviewed current evidence:
+  - [`reviewed-literary-monograph` — Rowan provisional literary monograph](series/sayonara-lara/04_Characters/SYL_ROWAN_MONOGRAPH.md) — **active provisional authority**
 
 ### Rui
 
