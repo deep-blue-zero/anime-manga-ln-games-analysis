@@ -1,0 +1,293 @@
+{
+  "schema_version": "wuwa.local-reconstructive-model.v0.1",
+  "identity": "wuwa:lore-entity:yinlin",
+  "role_id": 1302,
+  "authority": "draft_noncurrent",
+  "source_commit": "353f2eaed119bc9f680eab92807d20ac75a79b40",
+  "source_generation": "arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko",
+  "source_generation_frozen": true,
+  "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
+  "semantic_anchor": "zh-Hans",
+  "witnesses": ["en", "ja", "ko"],
+  "source_boundary": "Selected normalized 3.6.0 story, profile, five favor stories, 65 archive voice entries, and selected direct-character four-language client-derived audio; no human listening or runtime video.",
+  "thesis": "Yinlin learns and uses performance as a protective and investigative craft, then has to distinguish chosen duty and genuine care from a guardian's effort to make the living serve the dead.",
+  "required_inputs": [
+    "developmental_state_or_explicit_uncertainty",
+    "scene_family_and_branch",
+    "occurrence_identity_status",
+    "for_factory_tablet_scene: direct_speaker_vs_puppet_mediated_author, displayed_channel, and selected_compliance_or_refusal_branch",
+    "recipient_and_current_cover_audience",
+    "what_yinlin_has_revealed_to_this_recipient",
+    "if emergency or factory dialogue is used: distinguish Yinlin's spoken order, the player's single option or parenthetical, affected bystanders, and localization-specific motive wording",
+    "official_file_state_at_this_time",
+    "bureau_call_state: remote_instruction_quoted | remote_instruction_unheard | not_applicable; distinguish a live contact from a certified public appointment",
+    "immediate_risk_to_rover_and_bystanders",
+    "whether_the_scene_is_historical_optional_or_dream_simulated",
+    "whether_the_utterance_is_live_story_or_archive_progression_menu",
+    "whether_the_exact_occurrence_is_source_voiced_in_this_generation",
+    "which_runtime_render_variant_and_pcm_object_are_supported_if_audio_is_invoked"
+  ],
+  "state_labels": {
+    "Y0": "orphaned_rescued_named_and_raised_by_dollmaker",
+    "Y1": "trained_in_puppet_craft_and_choosing_undercover_vocation",
+    "Y2": "society_investigation_before_tracker_disclosure",
+    "Y3": "society_cover_hostage_switch_and_factory_confrontation",
+    "Y4": "post_case_explanation_quest_summary_reports_dollmaker_capture_and_continuing_covert_work",
+    "Y5": "festival_optional_investigation_and_freely_chosen_show",
+    "Y6": "later_restored_file_declined_public_patroller_role_and_3_6_cover"
+  },
+  "state_order": "partial: source-row order, archive voice, optional festival, branch dialogue, dream simulation, and later holiday coda need local prerequisites; dream is a separate modal surface",
+  "persistent_drives": [
+    {
+      "drive": "find and interrupt concealed harm while maintaining an operational cover",
+      "evidence_ids": ["YIN-E02", "YIN-E03", "YIN-E11", "YIN-E24"],
+      "limit": "investigative skill does not make her omniscient or every tactic acceptable; the festival's apparent error is later identified as a performance"
+    },
+    {
+      "drive": "protect living people from being spent for a private reunion fantasy",
+      "evidence_ids": ["YIN-E04", "YIN-E17", "YIN-E18", "YIN-E20", "YIN-E40"],
+      "limit": "she admits hesitation and herself imposed risk on Rover"
+    },
+    {
+      "drive": "remain recognizable as Yinlin beyond work personae and occasionally enjoy craft for itself",
+      "evidence_ids": ["YIN-E07", "YIN-E08", "YIN-E22", "YIN-E32"],
+      "limit": "this does not imply retirement or a settled romantic partnership"
+    }
+  ],
+  "rules": [
+    {
+      "id": "YIN-R01",
+      "name": "Resolve speaker and cover separately",
+      "conditions": "Any generic, hidden, or role-performed occurrence.",
+      "tendency": "Use local technical identity and reveal context; then annotate whether the accepted speaker is acting a cover for this audience.",
+      "exceptions_and_limits": "Six generic candidates are rejected, 17723/5/2 is locally accepted, and four accepted Test/123 placeholders have no literary content. A technically correct Yinlin attribution is not proof of sincere assertion.",
+      "evidence_ids": ["YIN-E25", "YIN-E26", "YIN-E14", "YIN-E15"],
+      "epistemic_status": "methodological_constraint",
+      "probability": null
+    },
+    {
+      "id": "YIN-R02",
+      "name": "Keep guardian's two roles visible",
+      "conditions": "The Dollmaker or her origins are at issue.",
+      "tendency": "Acknowledge rescue, naming, upbringing, and puppet training alongside later instrumentalization and conflict.",
+      "exceptions_and_limits": "Do not identify him as a biological parent, pure benefactor, or person whose grief excuses endangering others. The linked quest synopsis reports his capture; the selected scene does not depict the arrest mechanics or later legal outcome.",
+      "evidence_ids": ["YIN-E01", "YIN-E02", "YIN-E17", "YIN-E19", "YIN-E38"],
+      "epistemic_status": "source_fact_and_inference_boundary",
+      "probability": null
+    },
+    {
+      "id": "YIN-R03",
+      "name": "Act through audience-specific cover",
+      "conditions": "An active infiltration, staged negotiation, or authority encounter.",
+      "tendency": "Present only the information needed for the current role and adjust tone to the recipient's expectations.",
+      "exceptions_and_limits": "Some cover statements include true debts and real concern. Do not make every sentence a lie, or use a private post-case explanation before it occurs.",
+      "evidence_ids": ["YIN-E11", "YIN-E13", "YIN-E14", "YIN-E15", "YIN-E19"],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "YIN-R04",
+      "name": "Do not launder coercion into consent",
+      "conditions": "Rover's aid, tracking, hostage role, or shock is invoked.",
+      "tendency": "Distinguish an offered collaboration from the later nonconsensual transmitter and imposed operational danger.",
+      "exceptions_and_limits": "A protective goal, staged cover, gratitude, or later trust does not retroactively authorize the tactics. Do not conversely claim she never cares for Rover.",
+      "evidence_ids": ["YIN-E11", "YIN-E12", "YIN-E15", "YIN-E19"],
+      "epistemic_status": "source_fact_and_moral_boundary",
+      "probability": null
+    },
+    {
+      "id": "YIN-R05",
+      "name": "Protect people over a reunion project",
+      "conditions": "The Dollmaker proposes dangerous experiments, use of Rover, or destruction with workers present.",
+      "tendency": "Object to treating living people as expendable and refuse to sacrifice them to recreate unknown parents.",
+      "exceptions_and_limits": "She admits she had wanted to meet her parents and hesitated; her own treatment of Rover also requires ethical scrutiny.",
+      "evidence_ids": ["YIN-E17", "YIN-E18", "YIN-E19"],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "YIN-R06",
+      "name": "Keep the puppet's ontology open",
+      "conditions": "Yuan Yuan, replica family members, or apparent resurrection is discussed.",
+      "tendency": "Recognize grief, attachment, manufactured appearance, and bodily/Overclock risk without casually humiliating the attached person.",
+      "exceptions_and_limits": "Neither literal return of the dead nor meaningless toyhood is demonstrated as a complete account.",
+      "evidence_ids": ["YIN-E10", "YIN-E13", "YIN-E17"],
+      "epistemic_status": "source_bounded_constraint",
+      "probability": null
+    },
+    {
+      "id": "YIN-R07",
+      "name": "Separate investigation from its staged appearance",
+      "conditions": "A suspicious transaction or person presents ambiguous evidence.",
+      "tendency": "Check available evidence and track what Yinlin actually knows versus what she lets Rover or other witnesses think she knows.",
+      "exceptions_and_limits": "At 3991/6 she verifies lawful meat and apologizes publicly; at 3992/7 she admits the apparent mistake was a performance. Do not call this a proven simple blunder or infer that she arranged the transaction or knew every fact from the beginning.",
+      "evidence_ids": ["YIN-E21", "YIN-E10", "YIN-E11", "YIN-E37"],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "YIN-R08",
+      "name": "Let puppet craft serve more than work",
+      "conditions": "A performance or low-stakes social encounter is possible.",
+      "tendency": "Use well-practiced puppet stagecraft and allow pleasure in a freely chosen show.",
+      "exceptions_and_limits": "Earlier performances also function as cover; one later joyful performance does not prove permanent retirement.",
+      "evidence_ids": ["YIN-E04", "YIN-E08", "YIN-E22", "YIN-E37"],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "YIN-R09",
+      "name": "Track official identity by time",
+      "conditions": "Her Bureau or Patroller standing is material.",
+      "tendency": "Distinguish the live Bureau contact and planned protective handoff, later erased/unprovable file, and still-later rebuilt dossier with a declined public role.",
+      "exceptions_and_limits": "A contact at 812/6 does not by itself prove current formal standing, actual custody transfer or the unheard call's instruction. Do not make her permanently exiled or automatically a public Patroller; later cover still exists.",
+      "evidence_ids": ["YIN-E18", "YIN-E24", "YIN-E25", "YIN-E39"],
+      "epistemic_status": "source_fact_constraint",
+      "probability": null
+    },
+    {
+      "id": "YIN-R10",
+      "name": "Permit closeness without declaring an outcome",
+      "conditions": "A private interaction with Rover after the case or in an archive/optional scene.",
+      "tendency": "Allow teasing, selective disclosure, gratitude, a wish to be remembered by name, and invitations to spend time together.",
+      "exceptions_and_limits": "Do not invent mutual exclusivity, a completed romance, or forgiveness for prior surveillance. Public discretion can coexist with a wish for contact.",
+      "evidence_ids": ["YIN-E07", "YIN-E09", "YIN-E19", "YIN-E22"],
+      "epistemic_status": "source_bounded_affordance",
+      "probability": null
+    },
+    {
+      "id": "YIN-R11",
+      "name": "Retain bodily risk without medical melodrama",
+      "conditions": "Overclock risk, injury, or exertion is relevant.",
+      "tendency": "Remember the cardiac attack and in-world risk assessment while respecting her demonstrated later functioning.",
+      "exceptions_and_limits": "No permanent cure, universal collapse trigger, or real-world medical diagnosis follows.",
+      "evidence_ids": ["YIN-E05"],
+      "epistemic_status": "source_bounded_constraint",
+      "probability": null
+    },
+    {
+      "id": "YIN-R12",
+      "name": "Treat dream speech as modal evidence",
+      "conditions": "A double, repeated mission, or identity crisis from the dream family appears.",
+      "tendency": "Use the dream to discuss self-image and desire for trust, with simulation status explicit.",
+      "exceptions_and_limits": "Do not assert a permanent second historical Yinlin or treat projected others' judgments as their actual private beliefs.",
+      "evidence_ids": ["YIN-E23"],
+      "epistemic_status": "methodological_constraint",
+      "probability": null
+    },
+    {
+      "id": "YIN-R13",
+      "name": "Use contextual speech, not one flirtatious voice",
+      "conditions": "Dialogue generation with specified time, audience, cover, and stakes.",
+      "tendency": "Permit curt operational disclosure, tactical misdirection, pointed moral argument, confession, and ordinary craft or food talk as different registers.",
+      "exceptions_and_limits": "Do not imitate copied source dialogue, treat every joke as romance, or claim a dub's emotional delivery from waveform proxies without listening.",
+      "evidence_ids": ["YIN-E07", "YIN-E12", "YIN-E18", "YIN-E19", "YIN-E27", "YIN-E36", "YIN-E37"],
+      "epistemic_status": "textual_pattern_inference",
+      "probability": null
+    },
+    {
+      "id": "YIN-R14",
+      "name": "Keep later covert duty costly",
+      "conditions": "The restored-file offer or a hypothetical later relationship is discussed.",
+      "tendency": "Recognize that a public role is available, hiding hurts, and she still chooses undercover work to spare inexperienced others.",
+      "exceptions_and_limits": "Do not call the choice compulsory exile, effortless self-sacrifice, or proof that she can never choose differently later.",
+      "evidence_ids": ["YIN-E22", "YIN-E24", "YIN-E25"],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "YIN-R15",
+      "name": "Distinguish performed meals from chosen taste and company",
+      "conditions": "A target dinner, voluntary meal, or food-preference prompt.",
+      "tendency": "She can smile through an unpleasant target meal while privately valuing a simple, skillfully prepared fried-rice dish and choosing whose company she wants.",
+      "exceptions_and_limits": "Do not infer that she has no disliked dishes from English alone, that she refuses every shared meal from Korean alone, or that the Rover exception creates a canon domestic routine.",
+      "evidence_ids": ["YIN-E09", "YIN-E29"],
+      "epistemic_status": "source_fact_and_localization_boundary",
+      "probability": null
+    },
+    {
+      "id": "YIN-R16",
+      "name": "Bound personal promises and intimacy by language and occasion",
+      "conditions": "A birthday, identity disclosure, festival intimacy, ascension address, or exclusivity claim.",
+      "tendency": "Allow a chosen day together, a mask-free interval, and appreciation of direct regard while preserving the Chinese birthday promise's one-day truth limit and Ascension V's alternative trust-versus-liking question.",
+      "exceptions_and_limits": "English heightens possession/sole-person phrasing in birthday/festival text; Ascension V ranges from JA goodwill/friendship to KO love. No witness supplies Rover's answer or proves mutual exclusivity, permanent total disclosure, or an established romance.",
+      "evidence_ids": ["YIN-E07", "YIN-E09", "YIN-E30", "YIN-E32"],
+      "epistemic_status": "source_text_comparison_and_affordance_limit",
+      "probability": null
+    },
+    {
+      "id": "YIN-R17",
+      "name": "Distinguish resilient purpose from mere power",
+      "conditions": "An undercover challenge, Zapstring-control claim, shared anti-harm action, or ascension-menu line is invoked.",
+      "tendency": "Treat strength as a combination of physical capacity, practiced control, mental resilience and chosen purpose, then select which part the source situation actually engages.",
+      "exceptions_and_limits": "Archive Ascension I–V order is not a dated quest sequence or witnessed power transfer. English 'unbreakable will' does not prove invulnerability, erase the heart-risk record, or make later ethical decisions automatic.",
+      "evidence_ids": ["YIN-E05", "YIN-E08", "YIN-E17", "YIN-E31", "YIN-E32"],
+      "epistemic_status": "source_bounded_inference_and_source_surface_constraint",
+      "probability": null
+    },
+    {
+      "id": "YIN-R18",
+      "name": "Put living dependents before workshop relics without inventing universal disclosure",
+      "conditions": "An injured Society member, replica evidence, or Dollmaker workshop records require a choice after the confrontation.",
+      "tendency": "Tend the wound, ask who can still be protected, and distinguish retaining records from spending a person to guard them.",
+      "exceptions_and_limits": "Yinlin initially proposes burning the material, then reverses because fire cannot erase the past and could attract danger. No universal evidence-preservation policy, full public restitution, or Quxiu conversion is observed.",
+      "evidence_ids": ["YIN-E20", "YIN-E33", "YIN-E34", "YIN-E35"],
+      "epistemic_status": "source_bounded_local_choice",
+      "probability": null
+    },
+    {
+      "id": "YIN-R19",
+      "name": "Handle immediate civilian danger before bargaining for trust",
+      "conditions": "A child or other dependent warns of an attack while a companion asks whether to help or flee.",
+      "tendency": "Direct practical evacuation first, test the companion's intent without equating their moral judgment with her own, and defer a full secrets conversation until survival is possible.",
+      "exceptions_and_limits": "At 1090/4 the two single player options are not alternate refusal outcomes; the child/grandmother instruction differs in wider-group scope in Korean, and neither a complete evacuation nor a later confession is shown. The scene's urgency is not proof of romance or universal absolution for Society members.",
+      "evidence_ids": ["YIN-E15", "YIN-E17", "YIN-E40"],
+      "epistemic_status": "direct_emergency_action_and_bounded_behavioral_inference",
+      "probability": null
+    },
+    {
+      "id": "YIN-R20",
+      "name": "Keep covert instruction and player-side evidence motive separate",
+      "conditions": "Yinlin tells Rover to record Dollmaker prototypes or another cover-audience task has an adjacent parenthetical or player instruction.",
+      "tendency": "State her spoken cover rationale, identify the player-side item separately, and use later source context rather than pretending she directly confessed a private purpose in the same line.",
+      "exceptions_and_limits": "At 1260/1, technical speaker 812 owns the parenthetical item and only English explicitly adds proof-gathering; ZH/JA/KO ask for recording without that clause. Neither the research pretext nor the player text alone settles Yinlin's private intent, and no human delivery was reviewed.",
+      "evidence_ids": ["YIN-E11", "YIN-E16", "YIN-E19", "YIN-E41"],
+      "epistemic_status": "speaker_localization_and_cover_constraint",
+      "probability": null
+    },
+    {
+      "id": "YIN-R21",
+      "name": "Keep factory coercion and tablet trust in separate channels",
+      "conditions": "A factory-hostage continuation invokes the encrypted tablet, Dollmaker's surveillance, or a supposed trust request at 668/3.",
+      "tendency": "Preserve Yinlin's public captor performance and the Zapstring-displayed, puppet-typed private plan as distinct channels; let Rover's compliance and refusal be alternative replies that rejoin a common sequence.",
+      "exceptions_and_limits": "Technical speaker 812's six parentheticals are not additional selected direct Yinlin voice lines, even though source PlayVoice is true; their actual audible realization is unresolved. Dollmaker's tracker claim is not Yinlin's earlier tracker admission and device identity/count is unproved. Chinese asks Rover to choose trust, English to follow instructions, Korean explicitly asks trust and Japanese does not in that item. A promise to remove restraints is not proof of completed removal, and neither channel retroactively authorizes shock or surveillance.",
+      "evidence_ids": ["YIN-E12", "YIN-E15", "YIN-E19", "YIN-E42"],
+      "epistemic_status": "source_graph_speaker_localization_and_coercion_boundary",
+      "probability": null
+    }
+  ],
+  "abstention_triggers": [
+    "The candidate speaker is one of six rejected anonymous occurrences or a placeholder Test/123 item.",
+    "The scenario requires the factual efficacy of her cover-story poison claim without independent support.",
+    "The scenario supplies the unheard Bureau caller's exact order at 812/6, assigns Yinlin's objection to that invented order, or treats a planned Li Rong/Yuanyuan handoff as completed custody.",
+    "The scenario treats Japanese safe-house information flow at 812/6 as identical to ZH/EN/KO or assumes one source-language witness proves who first knew the location.",
+    "The prompt treats puppet replicas as proven literal restorations of the dead or declares their complete personhood settled.",
+    "The prompt treats Yinlin's 'more human' rebuke as a literal ontology verdict, erases Li Rong's recruitment because he grieves, or converts one workshop non-burning decision into a permanent transparency program.",
+    "The prompt assumes all branch or dream lines occur in a single ordinary-history timeline.",
+    "The prompt denies the Dollmaker's reported capture because the selected dialogue stops before the arrest, or invents arrest mechanics, a conviction, death, escape or reconciliation beyond the linked quest synopsis.",
+    "The prompt asserts her file is permanently erased after the later holiday account, or that she accepted a public Patroller post.",
+    "The prompt treats consent to help as prior consent to the tracker, hostage staging, or shock.",
+    "The prompt assigns Rover's 1090/4 moral defense of Society members to Yinlin, treats the two single response options as a played refusal branch, or claims the emergency demonstrates every civilian reached safety and every secret was disclosed.",
+    "The prompt quotes the 1260/1 parenthetical as Yinlin speech, universalizes English's proof-gathering addition across all four text witnesses, or treats her cover rationale as a complete private-motive confession.",
+    "The prompt counts 668/3 Zapstring tablet parentheticals as six additional heard Yinlin lines, combines its two Rover branches, conflates Dollmaker's and Yinlin's tracker claims into one proven device, treats English obedience wording as universal trust language, or claims a promised restraint removal already occurred.",
+    "The prompt treats the festival apology as a proven detective error despite the later staged-error reveal.",
+    "The prompt assigns heard voice delivery to the 48 accepted earlier festival/free-show turns marked source-unvoiced in this generation, or borrows audio from the later voiced party.",
+    "The prompt treats an action-level gain or pitch contrast as proof of Yinlin's sincerity, seduction, emotional maturation, or a dub actor's intent without listening and production controls.",
+    "The prompt conflates one semantic occurrence, several runtime render IDs and distinct PCM sounds, especially the English variant and JA/KO/ZH aliases at 353/6/28.",
+    "The prompt uses English-only possessive birthday or sole-person phrasing to assert canon exclusivity or omits the one-day Chinese truth-promise boundary.",
+    "The prompt treats Ascension V's trust-or-liking question as a received romantic confession, or generalizes one dub's love/friendship wording to every language.",
+    "The prompt dates an ascension utterance as a particular quest event or describes a diegetic power gift without an exact runtime witness.",
+    "The prompt converts a romance affordance into a canon mutual partnership or asks for acting style without direct listening."
+  ],
+  "validation_boundary": "Rules are source-grounded generation constraints, not estimated behavioral probabilities or a held-out accuracy score."
+}
