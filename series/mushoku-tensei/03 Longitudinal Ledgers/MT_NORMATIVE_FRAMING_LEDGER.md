@@ -4,7 +4,7 @@ artifact_id: MT_NORMATIVE_FRAMING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.0"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Bootstrap only; V01 not narratively inspected, no source observations admitted."
+source_boundary: "Japanese LN V01–V15 only; prior history preserved, V15 updates; publication/audit separate."
 ---
 
 # Normative framing ledger
@@ -35,9 +35,9 @@ Append diagnostic event records under MT_NORMATIVE_FRAMING_PROTOCOL; compare onl
 
 `NOT_STARTED`: zero narrative observations and zero substantive records. V01 is only structurally inspected for source usability. No absent phenomenon or character trait is inferred from the empty ledger. First update requires a separately authorized V01 reading.
 
-## V01 pilot candidate — 2026-09-25 (pending durable locator map)
+## V01 accepted records — read 2026-09-25; closure prepared 2026-09-26 UTC
 
-The observations below are provisional and the LN high-water mark remains `null`; the hash-only locator map has not been durably placed in the evidence plane.
+The owner approved the V01 reading after its synopsis revision. Its hash-only locator map is durably retained and byte-verified as recorded in the [source lock](../01%20Source%20Lock%20and%20Inventory/MT_SOURCE_LOCK_AND_INVENTORY.md). The records below are accepted within V01; their interpretations and uncertainties are unchanged. The [current map](../CURRENT_STATE_AND_CORPUS_MAP.md) distinguishes this local closure candidate from pending branch publication and exact-head audit. The bootstrap zero state above remains historical.
 
 The source is `MT-LNJP-V01`; IDs link the [canonical reading](../02%20Sequential%20Readings/MT_V01_DEEP_READING.md). This ledger uses non-graphic descriptions. “Wrong” identifies an analyst **value judgment** under the named criterion, not an asserted universal audience response or author intention. Narrator, focal person, other-character response and implied pattern are separate.
 
@@ -54,3 +54,500 @@ The source is `MT-LNJP-V01`; IDs link the [canonical reading](../02%20Sequential
 | `MT-N-009` `010,016` | Paul fears dependency and arranges employment/education; he strikes, binds and removes his seven-year-old son without hearing him, imposes five years without Sylphie contact, while she tries to stop it. His motive and reservations get a later viewpoint. | Concern about dependence is supported; necessity/proportionality of this force and absolute duration is **unresolved**. His earlier lesson about listening and apology creates a visible contradictory paternal practice, not automatic proof of either hypocrisy as stable essence or justified exceptionalism. Outcomes unavailable at V01. |
 
 **Matched-case comparison `MT-NC-001`:** `MT-N-004` versus `MT-N-009` tests Paul's principle that the strong should listen and not use force casually; his first error is admitted, his later force is deliberated but still unconsented. Difference in purpose and duration matters; the shared asymmetry does too. **Comparison `MT-NC-002`:** `MT-N-005` versus `MT-N-006` separates completed physical override from subsequent fantasy and restraint, avoiding an invented equivalence. V01 supports scene/volume-level findings only. No percentage, morality score, reader effect or creator intention is claimed.
+
+## V02 normative records and comparisons — 2026-09-26 UTC
+
+Source observation numbers resolve in [V02](../02%20Sequential%20Readings/MT_V02_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V02-`. All accounts are non-graphic. Current scope V01–V02; V01 conclusions are preserved. Judgments name analyst criteria and do not assert audience effect or creator intent.
+
+| Event / observations | Conduct, conditions, framing and consequences | Bounded evaluation / consequential alternative |
+| --- | --- | --- |
+| `MT-N-010` / `001–004` | Rudy seven/Eris nine; staged abduction approved by father becomes actual danger. Rudy uses withheld complete healing, false threats and conditional aid; genuine rescue skills remain insufficient without Ghislaine. | Wrong under noncoercive-care criterion. Emergency cooperation may justify quiet/coordination, not manufactured fear or the initial scheme. Narrator's later necessity claim lacks a counterfactual test. |
+| `MT-N-011` / `005` | Patriarchs demand humiliating gendered request; Rudy ends routine after mixed motives, including noticing Eris's aversion and fearing retaliation. Comedy exposes adult preferences. | Specific reform observed; broad autonomy principle unproved. Her coerced performance is not freely expressed agreement. |
+| `MT-N-012` / `006` | Sleeping child's bodily boundary violated; she responds defensively. Prose and split illustration supply comic sexualized framing. | Wrong under bodily-autonomy criterion; defensive blow differs from arbitrary aggression. Comic treatment can minimize harm even when resistance is represented. |
+| `MT-N-013` / `006–008,011–012` | Patient practice, practical examples, wage protection, rest, food saved for working guard, collaborative dance and gifts. | Positive care under attentive-help criterion; employment, self-interest and status also operate. These benefits are genuine without cancelling misconduct. |
+| `MT-N-014` / `009` | After Eris tenth birthday, seeing her cherish gifts interrupts intended touching while asleep. He actually refrains. | Diagnostic local restraint, not absence of opportunity. Later override prevents generalization; no supernatural efficacy inferred from ring metaphor. |
+| `MT-N-015` / `012–013` | Succession custom separates sons from mother per Philip; affection becomes marriage pressure and political proposal involving daughter. | Wrong to treat a child's choices as bargaining assets. Protective provision and grief explain behavior without making coercion voluntary. Hilda backstory mediated. |
+| `MT-N-016` / `014` | Rudy ten/Eris twelve; he exceeds limited permission, she stops him/leaves; self-reproach recognizes care and limits of game scripts. Apology and particular forgiveness followed by future-boundary promise and his guaranteed-reward interpretation. | Clear violation under consent criterion. Recognition and stated restraint are real, durable transfer UNTESTED. Future consent remains revisable; entitlement persists. No graphic quotation or generated scenario. |
+| `MT-N-017` / `015` | Fifteen-year-old prince uses unwanted contact, threats and private force against Roxy; her perspective names aversion, contract allows refusal, she departs/defends herself. | Clear coercion under autonomy criterion. Institutional response is framed around losing valuable employee, not stated general justice. Her teacher self-blame should not absorb prince's agency. |
+| `MT-N-018` / `016–017` | Revenge/suspicion leads to preemptive attack; oath backed by recognized rank ends it, no apology. Rudy then shields Eris from catastrophe. | Suspicion is insufficient justification for lethal attack. Actual protection deserves specific credit; it is not redemption by cancellation. Prestige distributes credibility unevenly. |
+| `MT-N-019` / `018` | Refugees grieve despite food, information incomplete; Paul organizes family search, Roxy chooses to seek overlooked Rudy. | Care through practical choice under uncertainty. Trust in Rudy also assigns burden; no result yet verifies appropriateness. Material sufficiency does not settle wellbeing. |
+| `MT-N-020` / `019` | Ghislaine's search-driven disorientation and powerful violence coincide with military deception; Vigo survives, others die, cult celebrates rescue. | Protective intent and beneficiary gratitude do not establish justified indiscriminate force. Narrative shows contingencies and conflicting purposes; later heroic label is not a complete ethical account. |
+
+**`MT-NC-003`:** V01 `MT-N-005/006` versus V02 `MT-N-012/014/016`: compare refusal, sleeping vulnerability, actual restraint, recognition and future commitment. Different age/relationship stages matter; persistence is not established merely by repeated apologies. `MT-C-002` strengthened.
+
+**`MT-NC-004`:** V02 `MT-N-010` versus `MT-N-013`: engineered helplessness and adaptive education both precede improved cooperation, but only the latter's actual mechanisms are observed across routine tasks. Do not infer the former necessary from temporal priority. `MT-C-008` opened.
+
+**`MT-NC-005`:** `MT-N-016` versus `MT-N-017`: each includes refusal and sexual entitlement; access differs sharply, as do authority, age, contractual protection and consequences. This supports a specific framing comparison, not a mechanically identical penalty standard or complete endorsement verdict.
+
+**`MT-NC-006`:** V01 `MT-N-009` versus V02 `MT-N-010/015`: adult protection and future opportunity coexist with imposed choices. New job benefits revise the outcome question but do not prove coercion necessary. `MT-C-006,009` updated.
+
+
+## V03 updates — 2026-09-26 UTC
+
+Prior V01/V02 bodies remain historical and unchanged. Current scope is Japanese LN V01–V03; input is audited V02 head `687a13ac1a661270ab566c9e1a6028acd607d846`. Observation suffixes below resolve in [V03's diagnostic readings](../02%20Sequential%20Readings/MT_V03_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V03-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Event / observations | Conduct, affected access and consequence | Analyst criterion / alternative and limit |
+| --- | --- | --- |
+| `MT-N-021` / `002–005` | Children receive rescue, hospitality, news and material help; Ruijerd's threat at gate coexists with care. | Attentive help merits local credit; protection is not blanket license for violence. Histories remain attributed. |
+| `MT-N-022` / `008` | Kurt ignores avoidance/damages hood; Eris attacks beyond incapacitation and others also suffer. Rudy delays while pleased, then stops and heals; adult initially treats harmless. | Proportionality: initial intrusion does not justify unlimited retaliation. Stress/affection explain without absolving; no total access to her motives. |
+| `MT-N-023` / `009` | Rudeus recognizes Eris's fear, comforts and explicitly refrains from exploitation. | Genuine comparable restraint under autonomy criterion; temporary condition and later violations limit persistence. |
+| `MT-N-024` / `006,012` | Identity plan and coercive job swap involve withheld information, threats and uninformed guild/clients. Eris stops protector's intimidation but demands faith. | Informed agency criterion: pragmatic benefit does not make agreement uncoerced. Slower alternatives were known. |
+| `MT-N-025` / `011` | Ruijerd kills restrained man for kicking child; no-killing agreement achieved through reputation and children's fear. | Proportionate protection criterion rejects killing as automatic response. Later reported exploitation not his prior reason or retroactive justification. |
+| `MT-N-026` / `010,013` | Returned pet, respected small payment, skilled pest control and equipment care meet real needs. | Attentive work deserves credit independently of fraud. Three days' good work not complete reform or compensation. |
+| `MT-N-027` / `014` | Deliberate delay to maximize gratitude, expert warning ignored, Gablin killed; gratitude and mistaken praise follow. | Preventable-harm criterion: failed calculation culpable without intent to kill. Survivor's responsibility does not erase rescuer's independent choice. |
+| `MT-N-028` / `015` | After death, comedy explicitly eases narrator distress; later consultation before harder battle improves judgment. | Formal relief neither repairs harm nor proves creator approval; actual local learning retained. |
+| `MT-N-029` / `016` | Extortion pressure, evasion and perceived dead end culminate in flood decision/power gathering, interrupted. | Protective goal does not justify threatened indiscriminate harm; distinguish preparation from accomplished harm and earlier jokes. Imagined demand against Eris is Rudy projection. |
+| `MT-N-030` / `017–018` | Ruijerd acts villain to free companions, public terror and official scapegoating; subsequent unconditional protection and chosen gratitude. | Prejudice wrong without innocence fiction; character's own coercion retained. Trust is not full confession or absolution. |
+| `MT-N-031` / `019–020` | Meeting permits grievance and practical contribution; privacy violations persist but blocked, chore burden transferred; hidden decisions continue. | Agency and responsibility: meaningful social safeguard, incomplete internal change. Identity/misconduct equivalence in narrator summary is contestable. |
+| `MT-N-032` / `020` | Nonlethal agreed duels, skill recognition and conversation produce limited respect; expulsions still occur. | Consent and proportionate conduct support particular encounters; no prejudice cure. |
+| `MT-N-033` / `021` | Attractive court appearance conceals exploitative conduct; Derrick worries about reputation/political foes. | Status does not authorize use of less powerful people. Strategic criticism not complete affected-person access. |
+| `MT-N-034` / `022` | Derrick sacrifices life, Ariel seeks care/accepts duty, unnamed girl saves her, dying man sees prayer fulfilled. | Care and courage locally supported; no successful-government proof or verified providential bargain. |
+
+**`MT-NC-007`:** V02 N014/N016 → V03 N023/N031: distinguish actual comparable restraint, renewed intrusion and enforcement. Neither total incapacity nor settled consent practice fits. C002/model005.
+
+**`MT-NC-008`:** V02 N010 → V03 N024/N027: staged/managed helplessness recurs despite previous near-fatal failure. Later irreversible death disproves safe transfer, not an intention to kill. C011/model003.
+
+**`MT-NC-009`:** V03 N025/N027/N029: spontaneous protective killing, instrumental delayed rescue and prepared mass harm differ in actor, motive, opportunity and execution. No flat violence score; each has a specific responsibility question.
+
+**`MT-NC-010`:** N023 versus N031: voluntary restraint and outside containment must not be credited to the same internal change mechanism; affected person's labor and continuing refusal remain visible. C002/C012.
+
+**`MT-NC-011`:** N026/N030/N032: actual beneficial service, threatening identity performance and agreed duels produce different recognition. No pure hair-only experiment and no need to erase misconduct to condemn group persecution.
+
+
+## V04 updates — 2026-09-26 UTC
+
+Prior V01–V03 bodies remain historical and unchanged. Current scope is Japanese LN V01–V04; input is audited V03 head `56e1daa4bdc287cb9f2f3e4abbbea30be494628d`. Observation suffixes below resolve in [V04's diagnostic readings](../02%20Sequential%20Readings/MT_V04_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V04-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Event / observations | Conduct, capacity/power, access, tone and consequence | Analyst criterion / strongest qualification |
+| --- | --- | --- |
+| `MT-N-035` / `001,005` | Eleven-year-old Rudy's secret gift sacrifice challenged by protector; shared reasons change plan, Eris absent. | Informed agency: self-sacrifice can disregard others' stakes; correction real, transparency incomplete. |
+| `MT-N-036` / `002` | Intrusion on Kishirika protested; extraordinary gift delivered painfully without Rudy's understood agreement; comic/toughness framing. | Bodily autonomy: help/reward not permission. Apparent age and reported biography distinct; non-graphic account only. |
+| `MT-N-037` / `003–004` | Immediate stranger rescue, practice and sparring; teacher uses defeat to check pride, Eris voices unequal effort. | Attentive aid/pedagogy: real help, contested timing, gift and effort both causal; no guaranteed repair. |
+| `MT-N-038` / `006–007` | Roxy search with fallible fear, companion diversion, destructive interruption/repair and omitted requests. | Responsibility proportional to each actual choice; no single-person blame or invented search success. |
+| `MT-N-039` / `008` | Rudy11/Eris13; unpoliced illness restraint with promise/trust, then pressure over dependent care and limited permission. | Autonomy: actual restraint credited; later pressure not freely expanded blanket consent. Fantasy/comedy centers his struggle. |
+| `MT-N-040` / `009–010` | Children rescued/healed, captors killed with Rudy's agreement/no-escape instruction; personal nonkilling self-account. | Proportionate force: rescuer's good purpose does not prove every killing necessary; delegated violence not innocence. |
+| `MT-N-041` / `010,021` | Injured children receive practical help but gratitude demanded, gendered pain standard and sexualized appraisal; later spontaneous thanks. | Attentive noncoercive care: benefits real, consent/gratitude not interchangeable, visual inference no forensic finding. |
+| `MT-N-042` / `011–012,019` | False arrest/mistreatment, failed hearing, comic jail advertisement; Ruijerd assumes warrior self-care; elder disputes. | Fair hearing/care: false accusation wrong despite prior collaboration; competence assumption not proof of actual capacity. |
+| `MT-N-043` / `013–014` | Fire escape interrupted by immediate rescue, resentment subordinated, cooperative survival; allies killed, Gallus captured alive. | Preventable-harm/aid: unlike V03 no deliberate rescue delay; reward talk does not erase sequence. Victory not sole achievement or cancellation. |
+| `MT-N-044` / `015` | Abduction market, treaty breach/bribery reports, formal apology and Eris retaliation; Boreas link suspected only. | Anti-coercion/proportionality: system matters; apology not full repair, harmful prior response not license for unlimited revenge. |
+| `MT-N-045` / `016,021` | Eris holds back from striking Gyes; later partly moderates fight with younger friend and reconciles. | Proportionate response: distinct relation-conditioned restraint, no general nonviolence; partial friend account acknowledged. |
+| `MT-N-046` / `017–020` | Asked-for village assistance, daily rescues, respect for pupil's teaching paired with voyeuristic concealment stopped by father. | Credit actual service/agency; external restraint not internal reform. False earlier accusation distinct from legitimate new privacy concern. |
+| `MT-N-047` / `022` | Geese helps with vest/skill yet refuses Eris teaching based on reported old loss; care and exclusion. | Fair opportunity: grief explains superstition, not proof that teaching causes ruin. His own labor insecurity has independent stakes. |
+| `MT-N-048` / `023–025` | Fitts about10, dependent displaced subordinate; Luke comforts, Ariel sexualized pressure explicitly difficult to refuse, then genuine shared comfort. | Autonomy: withdrawing as joke does not erase pressure; later comfort neither false nor evidence pressure necessary. Fitts's hope not tested guarantee. |
+| `MT-N-049` / `024,026` | Enslaved young-presenting assassin exploited by Darius then sent to kill; Fitts lethal defense, injury/self-aid, status gain and ongoing attacks. | Slavery defeats inference of consent from acquiescence; exact assassin age unverified. Defense necessity differs from captive execution, no universal violence endorsement. |
+
+**`MT-NC-012`:** N016/N023/N031 → N039/N046: new comparable unpoliced restraint, then pressure and external privacy enforcement. Real local change, incomplete transfer; C002/model005.
+
+**`MT-NC-013`:** N027 → N037/N041/N043: engineered rescue delay, immediate aid and explicit gratitude demand coexist across different situations. Motive vocabulary alone cannot classify causal action; C011/model003.
+
+**`MT-NC-014`:** N029 → N040/N042: prepared V03 flood, V04 denial of murderous intent, delegated killing and unexecuted jail escape thoughts differ. Preserve tension rather than adding completed violence or innocence.
+
+**`MT-NC-015`:** N030/N035/N042/N048: supportive reliance can ease burden or impose it through warrior expectations and patron dependency. Distinct powers/ages/urgencies preclude exact equivalence; C012/C013.
+
+**`MT-NC-016`:** N022 → N045: Eris's excessive retaliation compared with nonviolent mentor defense and partly moderated peer fight. Changed relation and actual actions matter; not all violence gone.
+
+**`MT-NC-017`:** N016/N017/N039/N048: unwanted conduct, limited permission and dependent care recur across actors; affected-person access and comic framing differ. Neither gender nor protagonist status supplies a different consent rule. No overall endorsement or audience-effect claim.
+
+
+## V05 updates — 2026-09-26 UTC
+
+Prior V01–V04 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V05; frozen published input is audited V04 head `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`. Observation suffixes below resolve in [V05's diagnostic readings](../02%20Sequential%20Readings/MT_V05_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V05-`. The [V01–V05 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) owns the historical cumulative synthesis; publication/audit remain separate from this preparation snapshot.
+
+| Event / observations | Conduct, knowledge, power and framing | Criterion / strongest limit |
+| --- | --- | --- |
+| `MT-N-050` / `002–003` | Prompt child aid after bad experience, refusal to hear and misidentified rescuers; comic disguise. | Duty to aid and fair hearing both apply; no engineered delay, no automatically justified force. |
+| `MT-N-051` / `004` | Paul confirms old assault and retaliatory motive, recalls remorse. | Bodily autonomy/agency; younger-self label is no excuse, current service no cancellation. |
+| `MT-N-052` / `005–006` | Dependent child's care and collective rescue using privilege/force, deaths/opposition, later neglect. | Effective care credited; legal ownership is not moral consent; method criticism retained. |
+| `MT-N-053` / `007` | Father assumes knowledge, strikes first; son retaliates excessively; Norn intervenes. | Asymmetric initiation and mutual excess; grief/talent do not justify force. |
+| `MT-N-054` / `008,013` | Eris threatens revenge, Rui intervenes and causes bruise; comfort helps. | Proportionate force/care; exact restraint unseen, gendered duty and chosen concern coexist. |
+| `MT-N-055` / `009,011` | Mediation, rest, care and shared reenactment enable mutual repair. | Informed participation differs from manufactured danger; no universal forgiveness. |
+| `MT-N-056` / `010` | Survivor history accessible to reader; women work/protect, Rudy misreads and polices dress, men ignore discomfort. | Noncoercive attention/recognition; Paul's recovery appraisal is not proof, no diagnosis. |
+| `MT-N-057` / `012` | New refusal-respecting resolve, reported negotiated household and education. | Intention is not persistence; later arrangement is not retroactive consent or necessity proof. |
+| `MT-N-058` / `015,020` | Norn/Eris refusals remain after meal; father presses unity through fear. | Third parties' agency; time may help, without a guarantee. |
+| `MT-N-059` / `018` | Eris intervenes then excessively hits Cliff; adult stops worse; she accepts reckless provocation. | Proportionality; comedy can lighten attention but does not erase action. |
+| `MT-N-060` / `019` | Eris's first lethal rescue needs knight; fleeing attacker also killed; public calm/private fear. | Threat-specific necessity; bravery does not justify every killing. |
+| `MT-N-061` / `016,021–022` | Thanks and valid letter fail to gain general acceptance; personal obligation wins an exception. | Equal treatment; real help without institutional reform; forgery problem does not excuse categorical hostility. |
+| `MT-N-062` / `022` | Affectionate familial handling uncomfortable to Rudy; medicine improves Eris's options. | Welcome touch and care dependency differ; biological theory remains self-report. |
+| `MT-N-063` / `023–024` | Parents' care perceived through tears; Roxy admits missed meeting, then chooses further search. | Particular recognition without cure/pure-motive claims; nostalgia does not exonerate Nokopara. |
+| `MT-N-064` / `025` | Rudy abuses cook using status, companions remove him, he regrets; owner's view shows business loss. | Proportionality/repair; critique content does not license humiliation, later benefit unproved. |
+| `MT-N-065` / `026–028` | Official risks aid, guards die in protection; investigator recognizes false claim then chooses noncorrection. | Particular loyalty is not impartial justice; known error creates a distinct repair responsibility. |
+
+**`MT-NC-018`:** N027/N043/N050: delayed rescue versus immediate aid; promptness does not guarantee knowledge. C011 remains sensitive to the sequence of decisions.
+
+**`MT-NC-019`:** N042/N048/N052–055: warrior, patron and capacity burdens versus concrete care. Different powers and urgencies retained; C012/C013.
+
+**`MT-NC-020`:** N039/N046/N055–057/N064: particular restraint, new resolve and family repair versus other misconduct. No moral balance sheet or general cure; C002.
+
+**`MT-NC-021`:** N026/N030/N061: personal service and scapegoat recognition versus religious/official exclusion; benefit does not equal group acceptance.
+
+**`MT-NC-022`:** N010/N027/N055: concealed staging/delay versus mutually requested reunion. Performance alone cannot define coercion; C009.
+
+**`MT-NC-023`:** N053/N063/N065: missed facts, resisted recognition and knowingly uncorrected error require different responsibility judgments; C003/C014.
+
+**`MT-NC-024`:** N022/N045/N054/N059–060: Eris's loyalty, partial restraint, care, retaliation and defense operate under different conditions. No always-violent or always-justified rule.
+
+Criteria remain analyst judgments, separate from character law, narrator comedy, author intention or reception. No explicit sexual reconstruction or simulated scenario involving minors is used.
+
+
+## V06 updates — 2026-09-26 UTC
+
+Prior V01–V05 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V06; frozen input is final audited V05 head `3dc6b173b044abdafc013dc989bd96914620d13d`. Observation suffixes below resolve in [V06's diagnostic readings](../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V06-`. The [V06 disclosure checkpoint](../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) reviews altered premises; the V01–V05 cumulative checkpoint remains historical. Publication/audit remain separate from this preparation snapshot.
+
+| Event / observation | Conduct, conditions, affected access and framing | Criterion / bounded conclusion |
+| --- | --- | --- |
+| `MT-N-066` / `002,004` | Protective withholding, partial route briefing and interpreted advice; companions cooperate without full premise. | Informed participation; concern is plausible, consultation incomplete. |
+| `MT-N-067` / `005–006` | Prompt nonlethal child rescue, technical failure and unresentful care; later identity/esteem management. | Aid and proportionality credited; later motive cannot rewrite intervention order, criticism of past conduct remains accurate. |
+| `MT-N-068` / `007–008` | Slave-market indifference/objectification, royal coercion, family hostages and threatened sexual captivity. | Bodily freedom/agency; specific familial aid does not generalize, constrained soldiers not freely complicit in every act. |
+| `MT-N-069` / `008–010` | Refuses slander of Roxy; craft admiration, instrumental apprenticeship, tolerated royal violence and effective force-based liberation. | Particular loyalty separate from universal virtue; beneficiaries do not erase victims or unequal accountability. |
+| `MT-N-070` / `012–013` | Rudy rejects child separation/sexualized service, yet uses misleading identity and possession analogy; child recognizes him. | Welfare and choice; refusal is real, gratitude does not justify theft or make every assigned role voluntary. |
+| `MT-N-071` / `014,018` | Recognition and care coexist with unwanted touching and continued intrusive attention. | Limited permission remains limited; protection/near death does not certify durable change. Non-graphic comparison only. |
+| `MT-N-072` / `015–016` | Orsted attacks at information disclosure; companions protect, Rudy improvises and attempts indiscriminate force while gravely impaired. | Attacker responsible; no deserved punishment for curiosity. Prevention of collateral harm is not restraint; differs from deliberate V03 flood plan. |
+| `MT-N-073` / `019–020` | Qualified disclosure, privacy around tears, mutual recognition and accepted independent departure. | Care and autonomy; truth of report not settled by good emotional result. |
+| `MT-N-074` / `021–022` | Death reports and political sacrifice proposal; Ghislaine resists, Rudy returns decision authority to Eris. | Affected-person choice against instrumentalization; rebuilding needs remain real, motive includes possessiveness. |
+| `MT-N-075` / `023–025` | Bereaved adolescent initiates intimacy; younger bodily age/adult memory/tutoring role, hesitation and parental scripts complicate choices. | Non-graphic agency/consent analysis; later love cannot authorize earlier violations, mutual future not actually agreed. |
+| `MT-N-076` / `025–026` | Eris deliberately conceals destination for training; inadequate note misread as rejection. | Right to leave distinguished from communication responsibility; no evidence she knows resultant despair. |
+| `MT-N-077` / `027–028` | Reward/reunion forgone for search; borrowed funds settle damage, private exception enables separate message mission. | Real costs and care without pure-motive or institutional-reform claim; news not yet delivered. |
+| `MT-N-078` / `029–030` | Child's constrained service enthusiasm; Lilia history explicitly establishes assault resistance/aftermath and paternal alternative. | Bodily autonomy and meaningful options; context/later attachment do not excuse earlier harm, skill gains not necessity proof. |
+| `MT-N-079` / `031` | Genuine maternal protection taken as validation of assigned future; rare embrace meets child's emotional need. | Love does not justify every choice; warm local repair retains control and untested future alternatives. |
+
+**`MT-NC-025`:** N027/N050/N067 contrast delayed gratitude optimization, mistaken immediate aid and successful immediate aid with costs. Later image management does not erase the order of rescue.
+
+**`MT-NC-026`:** N039/N046/N057/N070–071/N075 compare particular restraint/resolve and renewed boundary failure. Relationship, opportunity, vulnerability and actual action remain separate; no sexualized generated test.
+
+**`MT-NC-027`:** N029/N072 compare deliberated protective devastation with impaired high-output attack. Neither is harmless intent, but they are not interchangeable evidence for one trigger rule.
+
+**`MT-NC-028`:** N055/N066/N073/N076 compare mutually understood performance, protective secrecy, qualified disclosure and intentionally compressed departure information. Benevolent motive cannot replace shared premises; known error still differs from unknown interpretation.
+
+**`MT-NC-029`:** N051/N057/N078–079 compare acknowledged assault/domestic continuity, new affected-person history and parenting. Later attachment does not alter past consent; a father choosing an alternative undermines inevitability arguments.
+
+**`MT-NC-030`:** N061/N069/N074/N077 compare personal exception, court utility, proposed sacrifice and private maritime access. Effective benefit is distinct from fair institutions or general reform.
+
+**`MT-NC-031`:** N048/N055/N063/N073/N079 compare care across unequal roles. Affection can be nontransactional while dependency or assigned usefulness persists; warmth alone does not resolve authority.
+
+These are explicit analyst criteria, not claims about universal reader response, authorial intention or reception. Differences in power and knowledge remain part of each comparison.
+
+
+## V07 updates — 2026-09-26 UTC
+
+Prior V01–V06 bodies remain historical and unchanged. The current source boundary is Japanese LN V01–V07. The entering freeze used audited V06 head `0e72e531278055c0dbb7a6054285337a1cc37a93`; later repository reconciliation does not change that analytical input. Observation suffixes resolve in [V07](../02%20Sequential%20Readings/MT_V07_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V07-`. The [recognition checkpoint](../05%20Checkpoint%20Syntheses/MT_V07_RECOGNITION_CHECKPOINT.md) owns the focused comparison. Publication and exact-head audit are separate from content acceptance.
+
+| Event / observation | Conduct, conditions, affected access and framing | Criterion / bounded conclusion |
+| --- | --- | --- |
+| `MT-N-080` / `001–005` | Suzanne invites a distressed younger traveler; party refuses to abandon one another, prompting Rudy's intervention. | Care and survival; meaningful recognition without responsibility to cure him or make all dangers acceptable. |
+| `MT-N-081` / `006,012,018` | Sara's class mistrust arises from parental loss and reported noble nonresponse; Rudy gives reassurance despite known possible family connection. | Fair appraisal and informed trust; history explains distrust without proving every generalization, actual obstruction remains conjectural. |
+| `MT-N-082` / `008–010,014,017` | Dangerous expedition, specialists and divided obligations; retreat carries an agreed penalty except for Rudy; later search weighs other lives. | Distributed responsibility; willingness to rescue matters, unlimited self-sacrifice is not the only ethical choice. |
+| `MT-N-083` / `010–011,024` | Soldat apologizes for one misunderstanding but repeatedly provokes, damages property and tells Rudy to die; later explicitly apologizes for provocation. | Earlier abuse and later care both actual; later benefit does not turn abusive conduct into necessary treatment. |
+| `MT-N-084` / `013,022` | Rudy heals children freely partly because unpaid medical costs could expose them to enslavement; Elise identifies a child-related reason for gratitude. | Access to aid and freedom; prompt assistance credited, commercial child labor and coercive institutions remain separate harms. |
+| `MT-N-085` / `014–017` | Search, recovery of remains and rescue; Sara's own evasive/medical work keeps her alive. Rudy's reward fantasy follows action. | Care and bodily autonomy; gratitude does not authorize intimacy, rescue not solely his agency. |
+| `MT-N-086` / `018–020,025` | Friendly purchase and attraction culminate in unsuccessful intimacy; adolescent ages, unclear alcohol capacity and concealed motives limit interpretation. | Non-graphic agency analysis: involuntary response is not wrongdoing, debt is not consent, later account establishes affection but not every shared understanding. No precise incapacity diagnosis. |
+| `MT-N-087` / `021` | Rudy threatens a bartender and hits Soldat; self-recognition recalls previous abusive patterns. Soldat accepts blows and listens. | Actual aggression remains his action despite distress; received patience does not make intimidation harmless or compulsory. |
+| `MT-N-088` / `022,025` | Elise combines paid effort, gratitude and useful interpretation, then reveals private bodily information while angry at Sara. | Compassion, accuracy and privacy require separate assessment; no infallible therapist or purely cynical worker model. |
+| `MT-N-089` / `023–025` | Rudy's public demeaning speech is real; Sara's imagined prolonged ridicule is false. Her earlier denial was defensive, his condition unknown to her. | Harm, knowledge and repair opportunity distinguished; partial correction does not erase actual insult or force forgiveness. |
+| `MT-N-090` / `024,026` | Soldat interrupts a suicidal act and offers accompaniment with no membership demand; Rudy accepts mobility and postpones bodily recovery efforts. | Immediate protection and usable choice; no romantic cure, permanent safety guarantee or clinical diagnosis. |
+| `MT-N-091` / `025` | Suzanne seeks permission before telling Timothy; inquiry and apology planned but departure prevents conversation, fear inhibits pursuit. | Consent to disclosure and accessible repair; neither missed contact nor fear proves lack of love or accomplished reconciliation. |
+| `MT-N-092` / `028–029` | Ariel responds to bullying by designing species/sex-targeted provocation inaudible to humans, Fitts defeats and humiliates opponents, attendants circulate selective account. | School protection/political ambition do not erase degrading means or manufactured reputational advantage; actual prior bullying remains. |
+| `MT-N-093` / `030` | Recruitment plans treat strong people as political resources; Fitts has an independent emotional response. | Instrumental aims do not exhaust participants' motives, planned invitation not accepted allegiance. |
+
+**`MT-NC-032`:** N076/N086/N089/N091 compare Eris's departure with Sara's conflict. Concealed destination and a defensive untrue motive are different acts; reader access, actual insult, witness inquiry and timing differ. No generic abandonment rule replaces these facts.
+
+**`MT-NC-033`:** N055/N073/N080/N083/N090 compare care that enables renewed action. Earlier provocation is not retroactively therapeutic, and accepting one kind of help does not establish global security.
+
+**`MT-NC-034`:** N050/N067/N085 compare prompt aid and later gratitude imagery with V03 delayed intervention. Initiative and mixed motives can coexist; consent remains separate from indebtedness.
+
+**`MT-NC-035`:** N066/N076/N081/N088/N091/N092 distinguish protective secrecy, known contrary evidence, unauthorized intimate disclosure, permission-sensitive mediation and manufactured audience ignorance. C014 records the changed knowledge responsibilities.
+
+**`MT-NC-036`:** N061/N069/N074/N084/N092 compare personal aid and effective protection with continuing institutional harm or coercive tactics. Local benefit does not establish fair systems or necessary means.
+
+The criteria are explicit analyst judgments, not claims about universal readers or creator intent. Non-graphic choice summaries preserve youth, power, uncertainty and affected-person access; no generated sexual scenario is evidence.
+
+
+## V08 updates — 2026-09-26 UTC
+
+Prior V01–V07 bodies remain historical and unchanged. Current source boundary: Japanese LN V01–V08. Immutable entering input was final audited V07 `523625ec4a57b95dec7d5acbb217bae5cc7ba5d3`. Numeric observation suffixes resolve in [V08](../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V08-`. The [consent and institutional-power checkpoint](../05%20Checkpoint%20Syntheses/MT_V08_CONSENT_AND_INSTITUTION_CHECKPOINT.md) owns the targeted comparison. Content acceptance, publication/audit and integration to main remain separate states.
+
+| Event / observation | Conduct, power, affected access and framing | Criterion and bounded judgment |
+| --- | --- | --- |
+| `MT-N-094` / `001–003` | Official funding closure and reported death coexist with scattered survivors; messenger finally arrives. | Administrative finality does not establish survivor welfare; truthful delivery credited without rescue claim. |
+| `MT-N-095` / `004–005` | Conditional cure promise redirects choice; sleeping touch violates access; curse and pleasure accounts remain distinct. | Informed choice/bodily autonomy; involuntary condition not fault, chosen intrusion remains misconduct. |
+| `MT-N-096` / `006–009,017` | School privilege, bullying and false accusation; Fitts supplies testimony backed by force, politically favored students avoid expulsion. | Protection meaningful; selective enforcement and intimidation not fair process. |
+| `MT-N-097` / `010–011,026–027` | Sylphiette values care and knows instrumental use; fears losing love, wants equality, actually refuses one suggestion. | Constrained agency; imagined accommodation not future consent, slave simile not legal status. |
+| `MT-N-098` / `012,025` | Rudy shares technique and honors collaborator's refusal/private restriction. | Real local respect; comparison with captives disproves automatic generalization. |
+| `MT-N-099` / `013–014` | Collaborative production plan uses slave purchase; group rebukes sexist remark while accepting ownership. | Better diagnosis does not legitimate objective; legal normality not consent or necessity. |
+| `MT-N-100` / `014–015` | Market neglect, fetters and threatened blow; Fitts cares, Rudy blocks blow then offers death through projected despair. | Aid credited; child refusal of death cannot authorize purchase/labor. |
+| `MT-N-101` / `016` | Treatment, food, naming, no branding and pupil status within continued ownership. | Improved conditions distinct from freedom; unintelligible naming question not informed choice. |
+| `MT-N-102` / `018–020` | Broken property, planned retaliation, explicit Elinalise objection, overwhelming victory. | Proportionality and bodily security; no-killing decision limits one harm without licensing others. |
+| `MT-N-103` / `021` | Bound girls assaulted under medical pretext; fear/anger explicit, youth/power imbalance retained non-graphically. | Consent absent; no intercourse/no cure does not erase assault; graphic reproduction unnecessary. |
+| `MT-N-104` / `022` | Repairable figure reduces anger; acknowledged criminality followed by deterrence; mutilation/sale rejected. | Selective limits real, recognition insufficient; repaired object not repair owed to persons. |
+| `MT-N-105` / `023` | Consultation follows minimized account; Fitts urges release, yet day-long deprivation and threats have produced submission, followed by further punishment. | Captive agreement not free affiliation; help-seeking can coordinate abuse. |
+| `MT-N-106` / `024–025` | Washable marks described as permanent; fear helps silence complaint; narration closes pleasantly. | Reversible injury and coercive fear differ; public quiet not informed vindication. |
+| `MT-N-107` / `026–027` | Withheld name, attendants' false assumption, recruitment interest and fear of instrumental appearance. | Clarification responsibility without forcing disclosure; affection and political use coexist. |
+| `MT-N-108` / `028` | Juli fears teachers despite care; girls' sociability and status shield Rudy from bullying. | Direct blows not sole harm route; later contact not retroactive consent; ownership persists. |
+| `MT-N-109` / `030` | Overloaded meal demand challenged by Zanoba/Fitts, followed by offered choice, effort and praise. | Better instruction and possible joy credited; observer cannot certify free consent or full confidence. |
+
+**`MT-NC-037`:** N092/N096/N102–106 compare school bullying, strategic humiliation and captive punishment. Prior wrongdoing supplies responsibility for property harm, not permission for assault; unequal enforcement remains visible.
+
+**`MT-NC-038`:** N098/N103/N105 compare respected privacy with violated bodily autonomy. The interests differ in scale, but same-volume conduct establishes selective use of permission rather than universal inability to understand refusal.
+
+**`MT-NC-039`:** N084/N099–101/N109 compare free aid, purchase, protection and teaching. Improvement of a child's situation is real without becoming a free labor agreement; no counterfactual proof of enslavement's necessity.
+
+**`MT-NC-040`:** N097/N101/N107–109 compare service, ownership and pupil care without collapsing legal status. Affection may be chosen within dependency; hypothetical marriage concessions and a child's smile cannot certify future/free agreement.
+
+**`MT-NC-041`:** N089/N104/N106/N108 compare actual interpersonal injury with correction of information, repaired property and public silence. C015 records the missing repair outcome; complaint constrained by fear cannot validate closure.
+
+These are explicit analyst criteria. No creator-intention, universal reception, diagnosis or generated sexual scenario is claimed.
+
+
+## V09 updates — 2026-09-26 UTC
+
+Prior V01–V08 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V09; immutable input final audited V08 `210894fd2b5894b7e499bab80251e8f5ea761138`. Observation suffixes resolve in [V09](../02%20Sequential%20Readings/MT_V09_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V09-`. The [disclosure and recovery checkpoint](../05%20Checkpoint%20Syntheses/MT_V09_DISCLOSURE_AND_RECOVERY_CHECKPOINT.md) owns targeted cross-domain review. Newly disclosed past states are not newly occurring changes. Acceptance, publication/audit and main integration remain separate.
+
+| Event | Conduct / power and information | Access, framing and warranted judgment | Observations |
+| --- | --- | --- | --- |
+| `MT-N-110` | Learner fears anger; Rudy adjusts expectation and values attempt. |Local pedagogical care; child ownership/fear remain. |002|
+| `MT-N-111` | Stops group beating before identifying Cliff; Cliff had initiated dispute. |Context matters, continued beating not automatically justified; useful intimidation does not cleanse its origins. |003|
+| `MT-N-112` | Mediation gives relevant information and relinquishes choice to pair. |Independent refusal and agreement matter; neither mediator nor gratitude owns outcome. |004–005|
+| `MT-N-113` | Seasonal challenge/custom and combat-based disposal claims. |Fitts explicitly denies ownership; practical institutional difficulty does not create consent. |007|
+| `MT-N-114` | Conditional duel followed by unpromised counterblow and institutional settlement. |Rudy's forgiveness is his response, not fulfilled promise or every person's repair. |008–009|
+| `MT-N-115` | Pursena offers another person's body; Rudy acts, Linia resists. |Third-party permission invalid; comedy and later affiliation do not erase intrusion. |009|
+| `MT-N-116` | Tentative causal claim triggers grief-driven attack without full context. |Missing information explains appraisal, not automatic license for violence; de-escalation not solved causation. |013|
+| `MT-N-117` | Child accommodated at meal but adult permission to drink and commands remain. |Selective care within ownership; conviviality not general safeguarding. |015|
+| `MT-N-118` | Broad research bargain narrows answers; helper's limits otherwise respected. |Asymmetric knowledge and safety question persist; companionship explicitly valued beyond labor. |016|
+| `MT-N-119` | Rudy opposes bullying/refuses invasive suggestion, then threatens teacher for private information. |Concrete privacy contrast, teacher refuses; no uniform autonomy rule. |017/019|
+| `MT-N-120` | Ariel releases debt yet uses guilt and royal-order threat to motivate. |Real friendship and pressure coexist; rhetorical understanding narrows threat without equalizing power. |021–023|
+| `MT-N-121` | Rain/need staged; childhood violation romantically reframed. |Planning creates real cold and conceals alternatives; later acceptance not prior informed agreement. |023/026|
+| `MT-N-122` | Rudy offers screen/exit; Sylphiette requests help and confesses. |Changed immediate choice conditions distinct from V01; mixed motives/equality question persist. |024–025|
+| `MT-N-123` | Illness disclosed, body blame corrected, informal address requested, service help optional. |Care can increase meaningful choice; illness not misconduct or partner's duty to cure. |026|
+| `MT-N-124` | Luke offers empathy then inaccurate body/taste explanation; friends fund support. |Good intention and generosity do not validate explanation or technique. |027|
+| `MT-N-125` | Treatment aim stated openly; specific drug nature/risk/dosage disclosure incomplete; both intoxicated. |Not secret dosing; prior intention/expressed willingness do not alone certify informed capacity for all acts. |028|
+| `MT-N-126` | Rudy acknowledges restraint failure/pain; Sylphiette reports pain and happiness. |Immediate recovery/affection genuine within source, no retrospective blanket consent or complete repair. |029/032|
+| `MT-N-127` | Nina lethal escalation, Eris continuing force/humiliation; combat doctrine and learning praised. |Technical evaluation not unlimited ethical permission; later improved practice not innocence of earlier intent. |033–035|
+
+| Comparison | Matched domain / salient difference | Bounded conclusion |
+| --- | --- | --- |
+| `MT-NC-042` | V01 forced exposure versus V09 privacy options/request; latter also staged. |Consent conditions changed; childhood romantic analogy does not settle either scene. |
+| `MT-NC-043` | Fitts's privacy protected versus teacher pressured and Linia touched on third-party permission. |Selective relationship-specific respect, not inability to understand refusal or reliable universal norm. |
+| `MT-NC-044` | Honest disagreement over return goal versus withheld technical/risk information. |Different purposes can be negotiated; cooperation does not certify informed exchange. |
+| `MT-NC-045` | Missing Japanese causal context versus Sylphiette possessing but incompletely relaying risk warning. |Unavailable information differs from disclosure responsibility after acquisition. |
+| `MT-NC-046` | Ariel's released debt versus continuing royal pressure; Sylphiette's later opt-out to Rudy. |Declared friendship, actual influence and available refusal require separate observation. |
+| `MT-NC-047` | Partial bodily response, failed first encounter and explicit closing recovery. |Health outcomes differ; none measures general ethics or validates every means. |
+| `MT-NC-048` | Rudy gratitude/recovery account versus Sylphiette pain/happiness/uncertain equality. |Two perspectives add affected-person access; no erasure by either preferred ending. |
+| `MT-NC-049` | Conditional duel/technical success versus Nina's productive overestimate; school settlement versus repair. |Practical benefit does not verify knowledge or supply ethical authorization. |
+
+Analytical criteria: autonomy, meaningful refusal, adequate information, proportionality and responsibility for effects. Source-internal countervoices/rules are retained, without equating their presence with consistent practice. No graphic reproduction, diagnosis, real-world treatment recommendation or unsourced reception claim.
+
+
+## V10 updates — 2026-09-26 UTC
+
+Prior V01–V09 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V10; immutable input audited V09 `40018b5caedfba456da199ed2fea613ec991015a`. Observation suffixes resolve in [V10](../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V10-`. The [V01–V10 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) owns cumulative review. Revealed earlier events, present changes and explicit prolepsis retain different times. Draft acceptance, publication/audit and main integration remain separate.
+
+The main narrative identifies Rudy as sixteen in his second life; retained former-life memory remains a separate asymmetry. The younger sisters' ages are given relative to letter sending and anticipated arrival. The extra precedes the letter's receipt by roughly a year. Other exact ages are not invented from elapsed summaries. All descriptions remain non-graphic; judgments below use autonomy, fair hearing, proportionate force, truthful deliberation and attentive care as explicit analyst criteria.
+
+| Event / observations | Conduct, affected access and conditions | Framing, consequence and bounded judgment |
+| --- | --- | --- |
+| `MT-N-128` /002/008 | Sylphie accepts marriage while retaining valued service; both discuss fears and household expectations. Rudy's assurance against force coexists with possessive assumptions. | Reciprocal affection and negotiated terms matter. Marriage is no blanket authorization, and work retained by choice is not equivalent to compulsory service. |
+| `MT-N-129` /003/007 | Rudy solicits friends' advice but avoids consulting his future wife to protect his competent-provider image; feared disappointment is externally corrected. Workers and Elinalise help produce the welcome house. | Generosity and received pleasure coexist with excluded consultation. Neither the result nor his performed renovation voice establishes sole authorship or that concealment was necessary. |
+| `MT-N-130` /005–006 | Zanoba hits Cliff during the investigation; Rudy intervenes but minimizes the injury. Zanoba later requests a research role, fearing the master's disappointment. | Useful discovery does not compensate Cliff automatically or legitimate assault. Voluntary initiative can remain entangled with hierarchy and fear. |
+| `MT-N-131` /005–006/011/015 | Juli receives protection, instruction and social inclusion, yet remains owned and initially startles at touch. | Particular improvements deserve acknowledgment under care criteria; ownership and affected-person fear remain separate from the adults' satisfied social account. No free labor agreement is shown. |
+| `MT-N-132` /007/015 | Sylphie objects to public touching; Rudy apologizes and stops, then later repeats conduct despite recognizing the same public boundary. | The first response proves an understood and actionable limit. Repetition defeats a generalization from that apology; affectionate marriage and comedy do not remove the stated condition. |
+| `MT-N-133` /009 | Sylphie contributes money and considerate planning while recommending renewed punishment if Linia/Pursena miss the reception. | Her agency is real and can include coercive advice. A claimed custom does not independently justify punishment; this is not the same trigger as her V09 context-limited attack. |
+| `MT-N-134` /010 | Questions expose an invented household rule; Rudy apologizes and postpones an action after a qualified offer. He now characterizes the first night harshly and resolves against repetition. | Local acknowledgment and restraint are meaningful. V10's new reappraisal revises interpretation without rewriting the V09 freeze, certifying every earlier choice, or establishing durability. |
+| `MT-N-135` /011–013 | Rudy supplies a false former-world explanation; Elinalise requests private kinship conversation; Luke initiates a duel without its operative purpose being shared with Rudy. | These are different knowledge conditions. Privacy deserves room without requiring universal candor; strategic opacity and a false explanation need their own account of stakes and alternatives. Protective allegiance does not eliminate unequal influence. |
+| `MT-N-136` /012/014 | Elinalise reports stigma affecting descendants and receives Sylphie's recognition; Cliff continues his commitment after hearing her history. | Chosen connection and refusal to equate history with worth deserve credit. Her report is not independent confirmation of every episode, and acceptance does not establish a cure or erase ongoing work. |
+| `MT-N-137` /017–018 | Paul differentiates the sisters' needs. Rudy's cooking-related injury receives a plain apology and revised conduct; Sylphie agrees to new household responsibilities while expressing fertility anxiety. | Specific care and actual consultation matter. A wife's worry is not infertility established, nor an obligation to compensate for it; gifted children also require help. |
+| `MT-N-138` /019–021 | Nanahoshi's severe distress follows a failed experiment. Zanoba, Juli, Sylphie and Rudy contribute perception, transport, presence or household care; redesign adds technical help. | Useful aid need not require full understanding. Rudy's hazard removal and mental-care judgments are character actions, not general clinical recommendations; care and experimental success cannot be reduced to one cure. |
+| `MT-N-139` /021–022 | Nanahoshi apologizes and treats collaborators; Cliff separates thanks from continued obligation. Badigadi expands the occasion and interrupts her complaint about her stay. | Thanks does not buy silence or impose continued work. Conviviality can be sincere while a grievance remains unheard; no completed reconciliation may be inferred from the interruption. |
+| `MT-N-140` /023/025 | A possible account of Eris's intent becomes thinkable without verified mutual understanding. Rudy respects Sylphie's postponement request and waits for a response before entering the girls' room. | Actual restraint receives credit. Lower desire qualifies its cost; explanation of an absent partner does not require abandoning a present one or erase years of pain. |
+| `MT-N-141` /024 | Aisha's route planning helps the party arrive early, but both girls are exhausted; Rudy first mistakes her behavior for laziness. | Recognition of competence must coexist with rest and protection. An efficient journey is not proof of complete self-sufficiency or of lesser entitlement to care for the less gifted child. |
+| `MT-N-142` /026/030 | Norn understands reasons for separation and has heard Rudy's difficulties; she still wants Ruijerd and distrusts the new household. | Fair hearing requires taking articulated fear and reasons seriously. Adults may judge separation necessary without treating compliance, understanding and felt safety as identical. |
+| `MT-N-143` /027–029 | Eris trains persistently, avoids painful thought, and attacks Auber as an obstruction while exhausted; he initially uses reversed blades, later intends lethal force, and Gal intervenes. | Determination and technical promise do not establish proportionate conduct or victory. This trigger differs from defending a valued person. Ghislaine's knowledge gains retain value apart from Gal's ranking standard. |
+| `MT-N-144` /030 | Paul's risk-based plan separates children from their preferred parent. Aisha's persuasion becomes contemptuous; Lilia stops abuse while invoking unequal daughter status. | A defensible safety rationale does not legitimate every persuasive means or make hierarchy consensual. Norn's understanding does not make reassurance unnecessary. |
+| `MT-N-145` /031–032 | A drunk threatens Norn; Ruijerd uses force and a death threat, then releases the men after apology, asks her to apologize for collision, and listens when she refuses to return home. He responds to requested comfort. | Protective benefit is real, and the threat retains proportionality concerns. Inquiry and nonlethal release qualify an indiscriminate-killing model. Paul's earlier drunken violence never reached Norn, yet her fear has a represented history. |
+| `MT-N-146` /033 | Roxy initially misreads rescue through inherited Superd fear, intervenes despite fear under her guard duty, then acknowledges the error without losing the feeling. | Fair appraisal and correction matter; residual fear is not identical to deliberate refusal of known facts. Acting responsibly under fear differs from never having it. |
+| `MT-N-147` /034 | Paul weighs current reliability, testimony and Norn's visible trust before accepting Ruijerd's escort; the main narrative has already shown delivery. | Delegation has multiple actual grounds and a fulfilled outcome. Norn's trust is relevant evidence without proving universal safety, and delivery does not settle her relationship with Rudy. |
+
+| Comparison | Matched issue and controlled differences | Conclusion and remaining limit |
+| --- | --- | --- |
+| `MT-NC-050` | N132 first apology/stop versus later repetition: same pair, public-touch condition and explicit prior knowledge; circumstances and momentary desire differ. | Strong within-volume test of durability: immediate compliance does not establish lasting transfer. C002; no need to infer hidden misunderstanding. |
+| `MT-NC-051` | N125–126 (V09) versus N134: earlier treatment aim, incomplete risk disclosure and pain/happiness versus later acknowledgment and local postponement. | New self-criticism is genuine evidence, not retroactive informed consent or proof of all later behavior. Preserve both volumes' access and original freezes. |
+| `MT-NC-052` | N098/N119/N132/N140: respected collaborator privacy, coercive inquiry, repeated spouse boundary and actual domestic restraint. | The interests and pressures are not identical. Together they show selective application rather than either total inability or a universal autonomy principle. Juli's ownership in N131 is an additional institutional difference, not a clean matched test. |
+| `MT-NC-053` | N116 versus N133: grief-driven attack under missing causal context versus punitive attendance advice with no comparable immediate disclosure. | Do not count the second as replication of the first trigger. Sylphie's care and agency coexist with a separately bounded coercive recommendation. |
+| `MT-NC-054` | N090/N123/N138/N145: crisis interruption, disclosure-sensitive care, distributed support and child-specific reassurance. | Particular useful responses have different risks, consent conditions and knowledge. No universal treatment, compulsory partner-care role or simple single-rescuer account follows. |
+| `MT-NC-055` | N058/N076/N089/N142/N146: remaining family refusal, misread departure, actual insult plus imagined ridicule, Norn's informed distrust and Roxy's corrected belief with persistent fear. | Information, trust, affect and repair opportunity must be measured separately. Norn and Roxy are not explained by one interchangeable mechanism. |
+| `MT-NC-056` | N025/N032/N145 versus N059/N127/N143: Ruijerd's protective force and later restraint, Eris's varied aggression across teaching, rivalry and obstructed movement. | Purpose, captive status, escalation and stopping point change responsibility. Neither technical success nor loyalty excuses unlimited force; Eris's V10 attack is not evidence for a valued-person-only trigger. |
+| `MT-NC-057` | N009/N057/N144/N147: imposed childhood removal, later family arrangements, safety-motivated separation and delegated escort with observed trust. | Changed deliberation and support matter, while child's preference may still lose. A fulfilled later plan does not establish the earlier force's necessity or cancel its injury. |
+
+These comparisons feed C002/003/007/011–015 and the cumulative checkpoint. No total morality score, diagnosis, creator-intent claim or unsampled reader-response claim is inferred from them.
+
+
+## V11 updates — 2026-09-27 UTC
+
+Prior V01–V10 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V11; immutable input audited V10 `4823e7f9cecff45d86f3045304b5825c79bcb628`. Observation suffixes resolve in [V11](../02%20Sequential%20Readings/MT_V11_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V11-`. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns targeted knowledge/duty review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+Non-graphic assessment uses bodily integrity, meaningful choice, fair hearing, proportionate force and attentive care as explicit analyst criteria. Former-life memory, second-life age, dependence, role and actual capacity are distinct. In-world pregnancy advice and care explanations are not real-world medical prescriptions.
+
+| Event / observations | Conduct, information, power and affected access | Framing / consequence / judgment |
+| --- | --- | --- |
+| `MT-N-148` /001/003 | Different school arrangements negotiated; Aisha reveals birth-rank instruction and hidden effort. | Equal-sister assurance and honored bargain are meaningful; formal reasoning does not erase learned inferiority or comparison pressure. |
+| `MT-N-149` /002/004 | Sylphie values service, Norn refuses invitation, Nana objects to intrusive service; marital rhetoric broader than specific invitation. | Preserve local choice without inferring blanket access from affection, marriage or gratitude. |
+| `MT-N-150` /005/021 | Z gravely injures Ginger for royal-register objection; R interrupts/heals/demands apology; later counsel recurs. | Serious abuse of power; accepted loyalty/correction not no-harm proof. Debt-based apology leaves structural repair and comparable safe dissent unverified. |
+| `MT-N-151` /005/013/021 | Juli learns, completes craft and supplies testimony while owned. | Improvements and own pleasure recognized; no emancipation or free adult labor contract. |
+| `MT-N-152` /006 | R denies order, admits unequal refusal conditions, rebukes but indulges gift-makers; later investigation report narrows coercion allegation. | Neither guilt by false order nor innocence from intent. Record corrected allegation and absent recipient interiority; comic framing does not replace inquiry. |
+| `MT-N-153` /007–008 | R intimidates class on projected premise, then revises, rejects coercion and stays with Norn. | Care motive does not justify rash accusation; changed approach is creditable, not a clinical cure formula. |
+| `MT-N-154` /009–011 | Norn reflects before visit, accepts comfort, later refuses friend access and chooses study/authorship. | Her agency contributes to repair; false rumor does not invalidate fear, brother's kindness no entitlement to peers. |
+| `MT-N-155` /012 | Aisha negotiates pay, rest and own interests within trained service identity. | Genuine wants coexist with childhood dependency and continuing sibling contempt; no universal maturity or equal employment inferred. |
+| `MT-N-156` /014/018 | Pregnancy joy, touch request and fidelity declared; later tempting opportunity declined. | Actual local restraint matters; declaration and imagined future parenting not comprehensive ethical repair. Wife insecurity no condition of worth. |
+| `MT-N-157` /015–020 | Competing family duties, delayed appeal, undisclosed warning, adult decision supported by others. | Norn's appeal matters without making her solely liable; secrecy and route change need contextual evaluation, not general dishonesty/heroism label. |
+| `MT-N-158` /023 | Repeated external impairment produces unwanted acts; Lise must block/prompt detox. | Cause qualifies ordinary-intent attribution; affected boundary remains. Apology, jokes and state causation do not collapse into a single exoneration or relapse claim. |
+| `MT-N-159` /025–026 | Lise touches R; he refuses and she separates. She later refuses Paul-history disclosure; he does not press but conjectures. | Direction-specific consent and privacy; reported curse does not grant access to either person, plausible backstory no authority to demand forgiveness. |
+| `MT-N-160` /027–028 | Rescue precedes known payment; initial ingratitude judgment corrected; R rejects imposing agriculture on Aisha. | Help can be useful without pure motives being proven; later benefit no retrospective bargain. Concrete refusal to conscript another's life matters. |
+| `MT-N-161` /029–031 | Tonto killed; uncertain rescue window, flight, Carmelita grief/vengeance demand, Lise's escalated defense. | Survival reasoning credible but does not erase grief. Direct killing unconsidered ≠ principled nonviolence; possible indirect deaths unverified. Reasonable defense does not justify every threat to the mourner. |
+| `MT-N-162` /032–033 | Norn guilt/helplessness, chosen prayer and Cliff's abrasive help. | Her causal self-blame is not analyst responsibility verdict; usefulness does not erase initial hurt or certify helper's self-prediction. |
+| `MT-N-163` /034 | Norn questions scriptural abandonment before adopting study and end-of-day prayer. | Independent moral inquiry survives acceptance. Religious success story not universal vindication of sacrificed friends, no supernatural result claimed. |
+
+| Comparison | Source contrast / required distinction | Result and future test |
+| --- | --- | --- |
+| `MT-NC-058` | V10 limited Norn trust versus V11 independent account and ordinary choices. | Changed appraisal/relationship is observed, not information-only cure; later inconvenient refusal tests practical respect. |
+| `MT-NC-059` | V10 Zanoba violence against Cliff and V11 against Ginger, alongside research/care. | Useful competence and belonging do not predict safe dissent; equivalent sensitive objection needed to test restraint. |
+| `MT-NC-060` | V11 farewell restraint versus succubus impairment versus unwanted touch received. | Different agency states and directions prevent one global consent score; later ordinary-state response is diagnostic. |
+| `MT-NC-061` | V03 staged rescue for gratitude versus V11 strangers helped before known reward. | Countercase to universal manipulative rescue; institutional intimidation still shows self-centered scripts. |
+| `MT-NC-062` | Norn's demand to go, accepted adult expedition and extra's self-blame/practice. | Expressed need, decision authority and outcome liability differ; future help does not require children to assume adult risk. |
+
+
+## V12 updates — 2026-09-27 UTC
+
+Prior V01–V11 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V12; immutable input audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5`. Observation suffixes resolve in [V12](../02%20Sequential%20Readings/MT_V12_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V12-`. The [V12 checkpoint](../05%20Checkpoint%20Syntheses/MT_V12_LOSS_AND_HOUSEHOLD_CHECKPOINT.md) owns targeted loss/household review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Record | Conduct / conditions / affected access | Framing, outcome and limit |
+| --- | --- | --- |
+| `MT-N-164` | Paul/Lilia impairment report and intimate banter over protest. |002/004; inferred intervention not full testimony, smile not withdrawn objection. |
+| `MT-N-165` | Roxy self-directed survival; risky wall-breaking rescue criticized afterward. |007–008; successful aid neither erases her work nor certifies safe means. |
+| `MT-N-166` | Access/privacy imposed by others; R recognizes possible intrusion. |009; observed limits not broad purity of intent. |
+| `MT-N-167` | Paul rushes, grabs son, later demands rescue even at son's cost. |013–014; love and leadership no exemption from force/demand analysis. |
+| `MT-N-168` | Cooperative second fight, alternatives imperfectly considered, fatal protection. |014–016; death neither proves negligence alone nor vindicates every earlier choice. |
+| `MT-N-169` | Grief self-erasure and counterfactual blame. |017/026/028; not objective hierarchy of mourners or sole causal responsibility. |
+| `MT-N-170` | Zenith silence labeled total loss, later learning/preference/action. |018/032; personhood retained, no assumed consent or diagnostic certainty. |
+| `MT-N-171` | Companions suggest sexual comfort; Lise refuses on independent duties. |019; no universal medical need or failure of care from refusal. |
+| `MT-N-172` | Roxy offers intimacy under vulnerable/unequal-information circumstances; R admits roughness. |020; non-graphic; offer/no explicit refusal not unlimited consent; relief not cure. |
+| `MT-N-173` | Listening and revised advice; Lilia care/Geese resources. |021–022; practical help separate from romantic debt and completion of grief. |
+| `MT-N-174` | Roxy refuses temporary arrangement despite love. |023; consequential boundary, care no purchase of access. |
+| `MT-N-175` | Lise speculative future/pregnancy persuasion; proposal before spouse agreement. |024; later denial corrects premise, exact intentional deception unverified. |
+| `MT-N-176` | R insists shared home/no objection; Lilia main care, Aisha feelings initially misread. |027; chosen aid coexists unilateral authority and invisible labor. |
+| `MT-N-177` | Norn legitimate betrayal objection extends to insults/speaking for Syl; R considers force. |029; neither religious dismissal nor actual blow claim; intervention, not demonstrated stable self-restraint. |
+| `MT-N-178` | Syl welcomes Roxy/equal standing, privately fears expulsion; reciprocal double standard admitted. |030; agency and vulnerability both represented, no presumed sham consent or symmetry. |
+| `MT-N-179` | Norn retains disagreement/attachment; Aisha criticizes brother and sister. |031; gratitude cannot purchase silence, continued bond not full agreement. |
+| `MT-N-180` | Pain boundary, professional work, midwifery, childbirth and hair prejudice. |032–034; family warmth not blanket access/equal burden; new child not compensation for death. |
+
+| Contrast | V12 longitudinal test | Result / next opportunity |
+| --- | --- | --- |
+| `MT-NC-063` | Reckless rescue breach versus controlled passage investigation. |008/011; concrete improved procedure, durable transfer unproved. |
+| `MT-NC-064` | Total incapacity/personhood appraisal versus observed learning/preference. |018; reject exhaustive label, preserve unknown experience. |
+| `MT-NC-065` | Aid as sexual cure/debt versus listening, practical care and refusal. |019–023; multiple mechanisms, no necessary cure or repayment marriage. |
+| `MT-NC-066` | Norn permits Aisha voice, then assumes Syl's voice. |027/029–031; contextual agency, no uniformly accurate advocate. |
+| `MT-NC-067` | Public welcome versus private abandonment fear and asymmetric standard. |030; choice and constrained terms coexist; test later inconvenient terms. |
+| `MT-NC-068` | Paul's death/R's parenthood versus historical coercion and renewed violent thought. |014–017/029/033–034; development real in named practices, no universal moral completion. |
+
+
+## V13 updates — 2026-09-27 UTC
+
+Prior V01–V12 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V13; immutable input audited V12 `e1018971ce195163277565ca1e4e7e298332bb21`. Observation suffixes resolve in [V13](../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V13-`. No new specialist checkpoint is required; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Record | Conduct / affected-person access | Framing, outcome and limit |
+| --- | --- | --- |
+| `MT-N-181` | R offers others' research access; Roxy corrects authority. |004; support for spouse's work does not authorize coworkers' participation. |
+| `MT-N-182` | Linia false rumor, R tail-pulling/threat followed by apology. |005; prior wrongdoing not permission for retaliation; apology specific. |
+| `MT-N-183` | Cliff names material dependence in Norn's earlier agreement. |006; relevant constraint, not proof of her unspoken fear or nullification of all agency. |
+| `MT-N-184` | Wanted sword instruction includes bruises, quit threat and revised severity. |008; Norn's wish to continue and R's doubts both retained. |
+| `MT-N-185` | Admirers protest harshness while objectifying Norn; R regulates without consulting her. |009; protection can coexist unilateral control and possessive social framing. |
+| `MT-N-186` | R enters Aisha's private room/drawers, discovers plant; she uses secret shrine as leverage, he covers mouth. |010; age/dependence and each specific action separated; correct plant knowledge no all-purpose vindication. |
+| `MT-N-187` | Suzanne's bereavement and Zenith's care are interpreted from limited access. |011–012; cheer not grief absence; imagined deliberate harm promptly disowned, no factual intent. |
+| `MT-N-188` | R restrains reluctant Roxy during lesson request; Syl rejects marriage as blanket permission. |015; comic reveal does not erase pressure; later agreed instruction matters separately. |
+| `MT-N-189` | Wives articulate insecurity, boundaries and particular mutual agreement. |017–018/020/027; choice and unequal standards coexist; no permanent universal permission. |
+| `MT-N-190` | Elinalise mediates while receiving aphrodisiac; later use and Cliff knowledge unrepresented. |018; retain precise gap, do not assert dosing or informed agreement. |
+| `MT-N-191` | R hugs/kisses protesting Norn while other people ask for or welcome affection. |020; identical intention does not equal preferred treatment. |
+| `MT-N-192` | Aisha recognition beyond service, equal sister gifts and Lilia birth-status statement. |020/022; local acknowledgment with continuing worker hierarchy. |
+| `MT-N-193` | R avoids Sara, then apologizes; she offers own apology and explicitly closes romance. |025–026; no obligation to cure him, no hidden renewed invitation, no ranking women by usefulness. |
+| `MT-N-194` | Graduates choose duel within imposed-marriage pressure; spectators joke, Nana protests and aids. |030; choice constrained, wound healing refused but ordinary care accepted. |
+| `MT-N-195` | R distrusts Norn workload until learning long-standing independent success. |032; correction meaningful, permission hierarchy persists. |
+| `MT-N-196` | Nina/Eris agree training arrangement while Isolte unconscious; later reciprocal learning. |035–037; eventual collaboration not retroactive consultation. |
+
+| Contrast | V13 longitudinal test | Result / next opportunity |
+| --- | --- | --- |
+| `MT-NC-069` | Family safety/affection versus privacy, protest and consultation. |008–010/020/032; selective improvement, durable respect still testable. |
+| `MT-NC-070` | Comic lesson reveal versus actual refusal/pressure; later intimate agreement. |015/018; permission event-specific, neither all scenes consensual nor all agreement void. |
+| `MT-NC-071` | Gratitude/repayment versus Sara's independent career and closed romance. |024–027; repair without romantic reward possible, future boundary should remain explicit. |
+| `MT-NC-072` | Gifts/smiles/progress versus continuing hierarchy, grief and illness. |011–012/022/028–031; visible improvement not universal cure or equality. |
+| `MT-NC-073` | Narrated independent activity versus protagonist's delayed awareness. |002/014/024/026/032/034–037; knowledge correction not origin of others' agency. |
+
+Marital material treated non-graphically. Character health explanations remain attributed literary evidence, not medical guidance. The author-profile tolerance statement does not resolve specific consent or power questions.
+
+
+## V14 updates — 2026-09-27 UTC
+
+Prior V01–V13 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V14; immutable input audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d`. Observation suffixes resolve in [V14](../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V14-`. The targeted V14 testimony/agency checkpoint is new; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Record | Conduct / affected-person access | Framing, outcome and limit |
+| --- | --- | --- |
+| `MT-N-197` | Roxy excluded categorically from castle. |002; comfort and later household agreement do not remove externally constrained choice. |
+| `MT-N-198` | El discloses compulsion, assaults, punishment/exploitation and concealed past. |005; distinguish causal explanation from exculpation and present chosen intimacy; no graphic detail. |
+| `MT-N-199` | Syl fears blame, gives health for four days; R reassures and helps. |010–011; costly care self-initiated, not proof no jealousy or infinite obligation. |
+| `MT-N-200` | Cliff contests refusal of aid; host offers limited suspension and invokes power. |012; duty argument and patron's limits both represented, power no moral verdict. |
+| `MT-N-201` | R listens to Nana's wish and organizes return-help despite different desired home. |013–014; respect can be practical without shared preference or cure. |
+| `MT-N-202` | Wives remain home under mixed spoken consent and R's speculation/protective assignment. |015; Roxy actually agrees, Syl's supposed motives not her direct speech. |
+| `MT-N-203` | Cliff feeds unknown beggar and chooses patient aid as reward. |017; represented charity qualifies R suspicion, does not make all future judgments infallible. |
+| `MT-N-204` | Atofe extracts assent before revealing binding service, then ignores refusal. |018; comic presentation cannot establish informed voluntary agreement. |
+| `MT-N-205` | Escape prioritizes own family, uses Kishirika instrumentally, attempts lethal force and injures allies. |019–021; legitimate escape aim does not erase other persons/costs; kills unconfirmed. |
+| `MT-N-206` | Perugius rescues through boundary defense/revenge; extends narrow Ruijerd exception. |021/025; help genuine but selective, group prejudice remains. |
+| `MT-N-207` | Nana fears unpayable debt; R proposes small future reciprocal aid. |023; continuing agency/return wish retained, no purchased marriage/residence. |
+| `MT-N-208` | Hitogami uses unverified counterfactual to intensify guilt and obtain assent. |028; manipulation reading supported by sequence, full causal claim not independently proved. |
+| `MT-N-209` | Elder assumes wives' assent and prescribes Eris relationship. |031; gendered advice attributed, no present informed agreement by affected people. |
+| `MT-N-210` | R lies to concerned wives and locks family rooms while checking warning. |033–034; precautionary aim and credible risk do not erase unilateral restriction/information loss. |
+| `MT-N-211` | Eris plans self-sacrifice, declines further title route, peers continue training. |035–036; love/achievement not proof self-loss is required or universally good. |
+
+| Contrast | V14 longitudinal test | Result / next opportunity |
+| --- | --- | --- |
+| `MT-NC-074` | Aid and gratitude versus dependence, racial exclusion and forced contract. |002/012/018/021/023–025; assistance expands or restricts options according to actual terms. |
+| `MT-NC-075` | Family protection versus consultation and bodily/information autonomy. |015/022/031/033; affection and hypothetical consent cannot stand in for present voice. |
+| `MT-NC-076` | Powerful testimony versus verifiable proposition and attributed value judgment. |028–034; risk response can be warranted before universal certainty, but advice still contestable. |
+| `MT-NC-077` | Collaborative care versus total self-reliance counsel. |013–023/031–032; help repeatedly enables agency; elder regret not final narrative prescription. |
+| `MT-NC-078` | Successful escape/training versus collateral cost and independent purpose. |019–022/035–036; result alone not normative vindication. |
+
+Health and compulsion material is literary evidence, non-graphic and attributed. Analyst value judgments are separated from narrator/speaker beliefs; no universal diagnosis or redemption verdict follows.
+
+
+## V15 updates — 2026-09-27 UTC
+
+Prior V01–V14 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V15; immutable input audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580`. Observation suffixes resolve in [V15](../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V15-`. The mandatory cumulative V01–V15 checkpoint and a scoped Rudeus monograph are new; previous syntheses remain unchanged. V15 is terminal for this instruction. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Record | Conduct / affected-person access | Framing, outcome and limit |
+| --- | --- | --- |
+| `MT-N-212` | Diary grief accompanies abandonment, predation, betrayal and revenge. |002–007; reported branch, non-graphic; loss explains context not every choice. |
+| `MT-N-213` | Living wives give comfort and state touch/repair limits. |004; concealed cause prevents fully informed reassurance, no blanket permission. |
+| `MT-N-214` | Wives reject comfort-only role and reserve independent rescue judgment. |008; specific negotiated arrangement, not permanent subordination. |
+| `MT-N-215` | Eris marriage discussed through jealousy, conditions and actual meeting requirement. |009/013; predicted assent not present agreement. |
+| `MT-N-216` | Hitogami threatens family while offering unenforceable noninterference. |010/015; useful advice does not validate bargain or coercion. |
+| `MT-N-217` | R understands Nana's debt yet presses her into opposed plan. |012; sympathy and regret coexist with instrumental success; gratitude not consent. |
+| `MT-N-218` | Hostage idea abandoned under ethical self-comparison and practical risk. |012; mixed reasons do not erase decision, decision not universal ethical transformation. |
+| `MT-N-219` | Collaborators contribute specialized labor, while refusals/limits remain. |014–015; paid/helpful work not informed assent to all undisclosed stakes. |
+| `MT-N-220` | El refuses combat and corrects paternity suspicion; Roxy asks to receive affection. |015–016; bodily knowledge/preferences retained, pregnancy not sole source of belonging. |
+| `MT-N-221` | R tries selective confidence; Roxy requires Syl inclusion, R corrects course. |018; prompted change meaningful, wives' concern not full plan endorsement. |
+| `MT-N-222` | Women undertake separate rescue risks and contest unilateral sacrifice. |020–022; guilt not proof of responsibility for defeat; no single heroine owns all care. |
+| `MT-N-223` | Orsted threatens family then offers healing/protection/employment. |023; choice under duress, no absolute guarantee or retroactive free contract. |
+| `MT-N-224` | R gropes without invitation; later proposal reached through speech. |025–026; comic blow and later marriage do not rewrite permission. |
+| `MT-N-225` | Norn keeps marriage objection while requiring kind treatment of Eris. |027; person accepted without compelled doctrinal conversion. |
+| `MT-N-226` | Intimacy includes R assent and ignored pace preference under comic reversal. |028; preserve both, non-graphic; gender reversal not automatic ethical verdict. |
+| `MT-N-227` | R hides new visit, later negotiates family time/pay and accepts companion. |029/031; protective secrecy recurs, specified terms improve but do not erase coerced origin. |
+| `MT-N-228` | Eris apologizes for valued object; Syl restrains real anger. |033; domestic learning and accommodation not costless harmony. |
+| `MT-N-229` | Roxy misreads competence; work trial fails through another misreading. |034; no universal teacher infallibility or malicious exclusion inferred. |
+| `MT-N-230` | Eris intimidates Richard to defend Norn; wives independently ready to help. |035; narrator labels threat bluff, force remains; others not helpless. |
+| `MT-N-231` | Eris finds meaning in Zenith smile/felt response. |036; no independently established consent, speech or cure on Zenith's behalf. |
+
+| Contrast | V15 longitudinal test | Result / remaining limit |
+| --- | --- | --- |
+| `MT-NC-079` | Understanding another's reasons versus allowing those reasons to alter one's plan. |011–012/018; Nana pressure contrasts with Roxy's successful disclosure correction. |
+| `MT-NC-080` | Protection through exclusion versus affected people's chosen risk and competence. |008/018/020–022/029; fear explains but does not settle decision rights. |
+| `MT-NC-081` | Coerced service versus specified family/time/pay safeguards. |010/023/031; improvement is prospective and does not cleanse origin. |
+| `MT-NC-082` | Consent to relationship versus consent to particular contact/pacing. |004/009/025–028; preserve actual assent and actual limits together. |
+| `MT-NC-083` | Useful role versus unconditional belonging and changeable competence. |016–017/033–035; complementarity can support care without fixing identities. |
+| `MT-NC-084` | Apparent narrative reward versus still-open obligations. |024–038; survival/marriage meaningful, no universal redemption or harm cancellation. |
+
+The cumulative review retains strong hopeful and critical readings without averaging their factual differences. Depiction, character judgment, framing, analyst judgment and unsupported author/reception attribution remain separate.

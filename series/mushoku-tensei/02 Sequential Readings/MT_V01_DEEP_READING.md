@@ -4,11 +4,11 @@ artifact_id: MT_V01_DEEP_READING
 artifact_type: deep_reading
 series: "Mushoku Tensei"
 generation: "V1"
-version: "0.9-pilot"
-status: draft_noncurrent
+version: "1.0"
+status: canonical
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
 created: "2026-09-25"
 canonical_home: "series/mushoku-tensei/02 Sequential Readings/MT_V01_DEEP_READING.md"
@@ -17,6 +17,18 @@ recommended_reasoning_class: "SUBSTANTIVE_ANALYSIS"
 ---
 
 # V01 — childhood, practice, care, and separation
+
+## Story synopsis (spoilers through V01)
+
+A man who has spent years shut away after a humiliating school assault misses his parents' funeral and is expelled from the family home. On the street, he intervenes when a truck threatens several students and dies. He wakes as a baby in another world, with memories of his previous life but a child's body and dependence on others. His new parents, Paul and Zenith Greyrat, live in a rural household with a maid, Lilia. They name him Rudeus. He resolves to make something of this life, although the people caring for him cannot hear the adult thoughts behind his infant behavior. Lilia, in particular, is disturbed by him before his conduct gives her grounds to revise her opinion.
+
+As Rudeus grows, he learns to read and discovers that he can use magic. He studies a manual, practices until he exhausts himself, and experiments with casting without a spoken incantation. A spell that damages the house makes his education a family decision: Zenith wants a magic tutor, Paul wants sword training, and Lilia proposes both. Roxy arrives to teach magic while Paul trains him with a sword. Roxy makes mistakes and corrects them, works for villagers, and gradually recognizes that her pupil can do things she cannot yet do. For all his ability, Rudeus is afraid to go beyond the household gate because of his earlier life. Roxy takes him out for a graduation exercise without understanding that fear; afterward he manages to cross the gate himself. She then leaves to advance her own training. His admiration and grief at her departure are complicated by his admission that he stole an intimate item from her.
+
+Outside the household, Rudeus finds village children bullying a green-haired child he calls Sylph (Sylphie). He intervenes, becomes Sylphie's friend, and teaches magic and reading at her request. When Paul believes a complaint about his son's part in a children's fight, he strikes Rudeus before hearing his account; they argue and Paul apologizes. The friendship with Sylph has its own rupture. After Sylph refuses to undress while wet, Rudeus overrides the refusal, discovers that Sylph is a girl, and sees her distress. He apologizes, but she keeps her distance for a time. They resume spending time together after she asks him to treat her normally. Their closeness is real; so are her boundaries and Rudeus's growing tendency to imagine her future in terms of his own wishes.
+
+The household is shaken when Zenith and Lilia are both pregnant and Paul admits that Lilia's child is his. Lilia may lose her place in the home, and Zenith must decide what to do with a marriage in which Paul had promised fidelity. At a family meeting Rudeus invents an allegation that Paul forced the recent encounter, hoping to shift blame away from Lilia. Zenith allows Lilia to stay; Rudeus later tells Zenith that the allegation was fabricated. Lilia's own account says she initiated that recent encounter, while also recounting an earlier forced encounter with Paul and his subsequent harassment. The two girls, Norn and Aisha, are born into a household whose continued life depends on labor, childcare, and Zenith's chosen response to the betrayal.
+
+By about age seven, Rudeus's magic progress slows, and he hopes to study at an academy with Sylphie. He considers paid work to cover their schooling. Paul fears that the children's attachment is making both of them too dependent, and arranges for Rudeus to work as a tutor in Roa, where the swordswoman Ghislaine will also train him. Paul incapacitates his son and sends him away without warning, imposing five years without contact with Sylphie. She tries to stop the departure. Rudeus wakes to a job and a separation he did not choose, while Paul's closing viewpoint explains his concern without settling whether his method was justified. The extra story then steps back into the household through Zenith's voice: she recalls her marriage conditions, anger, and difficulty with Aisha, and finally chooses to feed the child when Lilia is late. The volume ends with Rudeus removed from the village and these family relationships unresolved. The exact scene ranges and interpretive qualifications follow in Sections C and D.
 
 ## A. Witness, scope, and locator contract
 
@@ -28,7 +40,7 @@ The 40-item OPF spine was walked in order. Admitted narrative: 12 prose-bearing 
 
 Front matter `part0003`–`part0005` supplies title, table of contents, and an epigraph presented as Rudeus's authored/translated words; it is framing paratext, not an independently verified in-world memoir. The back author profile, credits, colophon, platform mark, and usage notice in `part0034`–`part0038` were classified as paratext; the five post-extra plates at `part0029`–`part0033` show character designs rather than additional narrative prose. Image-only title/cover pages and ten narrative-positioned plates (`part0007` through `part0025`, odd numbers) were inspected. Illustration claims below stay at the visual level. No printed page number was established.
 
-Locator format is `text/partNNNN.html#pDDD`: `DDD` is the **one-based position among all XHTML `<p>` descendants of the `<body>` in that exact spine item**, including empty paragraphs. The provisional read normalizer `v01-lxml-p1` preserves paragraph order and scene-break text, strips `<rt>`/`<rp>` ruby annotation while retaining base text, joins remaining text nodes and trims outer whitespace. It does not treat furigana as extra narrative characters. Each locator reopens the original XHTML, so analytical observations below route to the source without publishing the novel or a bulk translation. Image locators are the spine XHTML plus its referenced JPEG. Source-path/locator and ruby-handling checks are recorded in the source lock. The EPUB, extracted prose, and contact sheet are not committed to this public Git repository. A hash-only, per-paragraph locator map was constructed locally (`650,286` bytes; SHA-256 `6c782f0a8f5f30fb8a3c9d67d138185c2adae3e1b8b8d2f947424a16798c0e5c`) but its upload to the designated source folder was rejected by automatic approval review. Its durable evidence-plane retention is **pending**; the EPUB and stated algorithm permit regeneration, but are not a substitute for claiming the map was saved.
+Locator format is `text/partNNNN.html#pDDD`: `DDD` is the **one-based position among all XHTML `<p>` descendants of the `<body>` in that exact spine item**, including empty paragraphs. The pilot read normalizer `v01-lxml-p1` preserves paragraph order and scene-break text, strips `<rt>`/`<rp>` ruby annotation while retaining base text, joins remaining text nodes and trims outer whitespace. It does not treat furigana as extra narrative characters. Each locator reopens the original XHTML, so analytical observations below route to the source without publishing the novel or a bulk translation. Image locators are the spine XHTML plus its referenced JPEG. Source-path/locator and ruby-handling checks are recorded in the source lock. The EPUB, extracted prose, and contact sheet are not committed to this public Git repository. The hash-only per-paragraph locator map is durably retained: `MT-LNJP-V01-locator-map.json`, Drive file ID `1VE1ti8fs90PHM0Ey4mvT7eQbMjUZm_u9`, retained in source folder `1bx_IkoTqVZy9I8SmcyGvgRmj3JX0Rjug`; 650,286 bytes; SHA-256 `6c782f0a8f5f30fb8a3c9d67d138185c2adae3e1b8b8d2f947424a16798c0e5c`. The initial upload rejection was resolved by the owner's explicit approval of this exact V01 payload and destination. Upload/readback succeeded, and an independent download on 2026-09-26 UTC reproduced the stated size and hash. The map contains no novel prose and remains outside public Git.
 
 The analyst has prior franchise exposure and the preceding architecture conversation exposed later themes and interpretations. It is **not a blind first reading**. Only this inspected V01 witness is evidence here; no general model recollection, adaptation memory, WN, translation, later novel, audience comment, or creator-intention claim is used to settle a V01 interpretation.
 
@@ -125,18 +137,18 @@ At exit, V01 establishes growth in study discipline and ability, a first self-te
 
 No standalone operational character model is mature after one childhood volume. The character ledger records bounded readiness by domain; especially for Rudeus, a productive-study rule would overgeneralize if used to simulate consent, parenting, attachment or sexual ethics. The pilot's observation density is 16 scene clusters across 13 units, plus a complete coverage table and six specialized ledgers. That is a workable division: a narrative scene has one evidence ID here and is interpreted by the appropriate ledger rather than copied into six second versions.
 
-The V01 prose and images were inspected and a complete **pilot candidate** and provisional ledger/entrypoint updates were semantically checked against the source ranges listed above. The repository method requires durable paragraph/ruby mapping in the evidence plane. Automatic approval review rejected that upload, so the transaction is **not yet closed** and the LN high-water mark remains `null` pending an authorized evidence-retention route and final acceptance. Branch publication and exact audit evidence are verified separately in Git/workflow state; the file does not claim self-certification by a future commit. Main integration is not asserted. The user-requested pause before V02 is a hard continuation boundary.
+The V01 prose and images were inspected and the complete pilot candidate and six ledger updates were semantically checked against the listed source ranges. The owner accepted the content after the readable synopsis revision. Required paragraph/ruby mapping is now durably retained and byte-verified, so the content/evidence closure conditions are met. This closure update is prepared locally; commit, branch publication, final exact-head audit and main integration are not inferred. The original pause before V02 was superseded by the current bounded V02–V15 instruction, whose prerequisite remains published and audited V01 closure. The original entering and exit analytical freezes and every diagnostic observation are preserved.
 
 ## I. Transaction closure and correction route
 
 | Obligation | Result | Route / limitation |
 | --- | --- | --- |
 | Prose coverage and source identity | Complete for the 13 declared V01 narrative units | Section C; source lock fingerprint; no V02. |
-| Locator and ruby mapping | Checked for consequential ranges; deterministic source-path/one-based-`p` rule; durable map placement **blocked** | Section A; source EPUB remains in evidence plane. |
+| Locator and ruby mapping | Checked for consequential ranges; deterministic source-path/one-based-`p` rule; durable map retention and byte readback **verified** | Section A; source EPUB remains in evidence plane. |
 | Images and paratext | Cover, front art, ten narrative plates and five back design plates inspected; bibliographic/usage text classified | Section A/F; images are not prose facts. |
-| Claims, six ledgers and readiness | Provisional V01 updates with no artificial zero rows | `03 Longitudinal Ledgers/`; current map routes the pending pilot. |
+| Claims, six ledgers and readiness | Accepted V01 updates with stable rows and no artificial zero rows | `03 Longitudinal Ledgers/`; current map distinguishes local closure from pending publication. |
 | Prospective freezes | Entry in B and bounded exit in H | Prior familiarity disclosed. |
 | Semantic review | Contradictory POVs and disputed high-impact scenes cross-checked | Section D; no outside continuity used. |
 | Commit, branch publication, audits | Determined by actual repository/workflow results after this candidate is written | A file's prose cannot verify its own containing commit. |
 
-Corrections to a locator or interpretation must preserve this entering freeze and record the changed evidence and downstream ledger effect. There is no later correction at creation.
+Corrections to a locator or interpretation must preserve this entering freeze and record the changed evidence and downstream ledger effect. There was no later correction at creation. Administrative update on 2026-09-26 UTC records owner acceptance and the verified map receipt and prepares V01 closure; it changes no literary observation, synopsis, source locator, entering freeze or exit interpretation.

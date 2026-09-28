@@ -4,7 +4,7 @@ artifact_id: "MT_SERIES_ARCHITECTURE"
 artifact_type: "synthesis_corpus_architecture"
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -130,6 +130,8 @@ Preserve authoritative predecessors if conflicts are unresolved. Do not add fals
 A volume transaction is:
 
 `entering freeze -> full declared reading -> close analysis -> targeted source checks -> ledger/model updates -> exit freeze -> semantic review -> durable persistence -> accurate publication state`
+
+Each volume reading also owns two reader-facing orientation functions near its beginning. A **story synopsis of the present volume**, composed after complete inspection, tells the causal story in ordinary prose: situation, consequential decisions, relationship changes, reversals, ending, and the place of any interlude or extra. For V02 onward, a distinct **developments through the previous volume** section establishes the narrative situation *before* the new volume from already closed LN units, including consequential changes and unresolved questions. For V01, state that there is no earlier LN unit or omit the prior-volume section. The latter is prepared without opening the new source; the former must not be mistaken for the entering prospective freeze. Both route to the detailed coverage map and evidence IDs rather than duplicating the ledgers or replacing source inspection. Keep reported or uncertain events qualified and sensitive scenes non-graphic. This is a presentation amendment prompted by the V01 pilot's readability review; V01 already has a synopsis, no earlier unit needs backfill, and no new evidence home is created.
 
 The unit is not closed because its essay exists. At closure all affected references and current state must agree. Record no-material-update findings without adding padding.
 

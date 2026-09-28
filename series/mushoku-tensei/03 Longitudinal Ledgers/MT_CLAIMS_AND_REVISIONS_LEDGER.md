@@ -4,7 +4,7 @@ artifact_id: MT_CLAIMS_AND_REVISIONS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.0"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Bootstrap only; V01 not narratively inspected, no source observations admitted."
+source_boundary: "Japanese LN V01–V15 only; prior history preserved, V15 updates; publication/audit separate."
 ---
 
 # Claims and revisions ledger
@@ -35,11 +35,11 @@ Append revisions with prior and new formulation, evidence, input boundary, and d
 
 `NOT_STARTED`: zero narrative observations and zero substantive records. V01 is only structurally inspected for source usability. No absent phenomenon or character trait is inferred from the empty ledger. First update requires a separately authorized V01 reading.
 
-## V01 pilot candidate — 2026-09-25 (pending durable locator map)
+## V01 accepted records — read 2026-09-25; closure prepared 2026-09-26 UTC
 
-The observations below are provisional and the LN high-water mark remains `null`; the hash-only locator map has not been durably placed in the evidence plane.
+The owner approved the V01 reading after its synopsis revision. Its hash-only locator map is durably retained and byte-verified as recorded in the [source lock](../01%20Source%20Lock%20and%20Inventory/MT_SOURCE_LOCK_AND_INVENTORY.md). The records below are accepted within V01; their interpretations and uncertainties are unchanged. The [current map](../CURRENT_STATE_AND_CORPUS_MAP.md) distinguishes this local closure candidate from pending branch publication and exact-head audit. The bootstrap zero state above remains historical.
 
-The historical initial state above is preserved. Current scope is **MT-LNJP-V01 only**, the [provisional V01 reading](../02%20Sequential%20Readings/MT_V01_DEEP_READING.md), observations `MT-E-LNJP-V01-001`–`016`. No V02 or later witness contributes. These are new bounded formulations, not revisions of nonexistent pre-V01 claims. Confidence concerns the stated V01 scope, not the series. `OPEN` means insufficient discriminating evidence, not a prediction of later outcomes.
+The historical initial state above is preserved. Current scope is **MT-LNJP-V01 only**, the [accepted V01 reading](../02%20Sequential%20Readings/MT_V01_DEEP_READING.md), observations `MT-E-LNJP-V01-001`–`016`. No V02 or later witness contributes. These are new bounded formulations, not revisions of nonexistent pre-V01 claims. Confidence concerns the stated V01 scope, not the series. `OPEN` means insufficient discriminating evidence, not a prediction of later outcomes.
 
 | Claim ID | Current V01 formulation / class | Support; significant contrary or limiting evidence | Assessment and next test |
 | --- | --- | --- | --- |
@@ -52,3 +52,336 @@ The historical initial state above is preserved. Current scope is **MT-LNJP-V01 
 | `MT-C-007` | Roxy, Lilia, Zenith and Sylphie each have choices, labor and/or constraints not reducible to Rudeus's improvement. `STRONG_INFERENCE` | `004,006–009,011–016`: employment, self-education, domestic care, refusal and protest. Access remains uneven, especially Sylphie's interiority. | Preserve plurality without inventing offstage agency. |
 
 **Revision register:** V01 was the first narrative unit, so earlier analytical claims were absent. During V01, provisional character reports were corrected rather than promoted: Lilia's aversion is not simply dislike of children (`004`); the supposed fabricated injury of the bullying child is withdrawn after later information (`010`); a manual's fixed-capacity assertion is contradicted by Rudeus's observed short-term trials without establishing a universal replacement rule (`005`). Future material revises these IDs with a dated prior formulation and dependent-home review; the V01 entering freeze remains intact.
+
+## V02 revision register — 2026-09-26 UTC
+
+Input: audited V01 commit `eaf159559c6fc76ddd820178d7588545f08c351d`. The V01 formulations above remain historical. Current scope is V01–V02, with V02 observations owned by [the V02 reading](../02%20Sequential%20Readings/MT_V02_DEEP_READING.md#d-diagnostic-close-readings); numbers below mean `MT-E-LNJP-V02-NNN`. No later source contributes. Publication/audit of this transaction is tracked separately in the current entrypoint.
+
+| Revision ID / claim | Prior → current bounded formulation | Transition; evidence and counterreading | Confidence / discriminating test / dependencies |
+| --- | --- | --- | --- |
+| `MT-CR-008` / `MT-C-001` | V01 supported learning → repeated instruction, resources and institutions causally support competence in both volumes. | STRENGTHEN; `001,006–012,017`. Unusual aptitude remains real; failed chantless teaching and limited sword aptitude reject effortless transfer. | Strong inference, high within scope. Compare performance when supports change; character/form ledgers. |
+| `MT-CR-009` / `MT-C-002` | V01 uneven consent-sensitive restraint → recognition, particular restraint and continued entitlement coexist through V02. | STRENGTHEN; `003,005,006,009,014`. The gift-night restraint is a real negative case to absolute incapacity; the later violation defeats a generalized change claim. | Strong inference, high. Future promise is not demonstrated persistence or irrevocable consent; normative/relationship/state ledgers. |
+| `MT-CR-010` / `MT-C-003` | V01 alternative focalizers qualify Rudy → V02 widens access while making some alternative judgments contestable. | STRENGTHEN; `011,015–019`. Ghislaine's minimization and romantic guesses, Roxy's idealization and powerful observers' suspicion prevent treating alternate access as truth certification. | Strong formal inference, high. Track each disclosure's holder and limits; knowledge/form ledgers. |
+| `MT-CR-011` / `MT-C-004,005` | V01 Sylphie boundary/family-meeting findings → unchanged historical conclusions. | PRESERVE; no new direct testimony about Sylphie's injury or the household allegation's later consequences. V02 `014` is comparison, not replacement evidence. | No-material-revision after review. Do not infer offstage reconciliation; normative/relationship ledgers. |
+| `MT-CR-012` / `MT-C-006` | V01 separation's efficacy wholly open → the job now yields learning, work and relationships, and Rudy positively reappraises the support. | REVISE; `002,006–012`. No controlled alternative demonstrates that ambush/no-contact terms caused or were necessary for these benefits; Sylphie's outcome still unknown. | High for represented benefits/reappraisal, unresolved for necessity and other child's development. State/relationship/knowledge ledgers. |
+| `MT-CR-013` / `MT-C-007` | V01 secondary aims irreducible to protagonist growth → Eris, Ghislaine and Roxy add substantial independent choice, labor and limits. | STRENGTHEN; `005–019`. Hilda's backstory remains Philip-mediated; many absent people lack current access. | Strong inference, high. Do not invent unseen autonomy; state/relationship/form ledgers. |
+| `MT-CR-014` / `MT-C-008` | New claim: adaptive teaching works by matching task, existing competence, motivation and resources. | OPEN as longitudinal claim; `006–008,010–011`. Rudeus's insistence that kidnapping was prerequisite is an untested counterfactual; rest, explanation and shared practice demonstrably matter. | Strong V02 inference, no universal teaching law. Test changed learners/settings and failed transfer; state/form/normative ledgers. |
+| `MT-CR-015` / `MT-C-009` | New claim: status and narrative accounts distribute credibility, opportunity and control, with consequential mistakes. | OPEN; `004–005,008,010,012–013,015–019`. Kinship protects and recruits; official rescue account and later cult select different meanings. Institutions can enable refusal as well as constrain it. | Strong V02 pattern, not a total social theory. Test who can contest an account and at what cost; all relevant topical ledgers. |
+| `MT-CR-016` / `MT-C-010` | New claim: displacement separates agency from secure knowledge of outcomes. | OPEN; `017–019`. Search choices and Ghislaine's survival are represented; destinations, reunions and cause remain partly or wholly unknown. | High for bounded observation, working hypothesis for longitudinal structure. Compare message reception and route choices; chronology/relationship/form ledgers. |
+
+No registered entering outcome prediction existed. V02 answers questions without manufacturing successful forecasts. A new targeted maintenance review is frozen in V02 Section L; V05/V10/V15 cumulative reviews remain due.
+
+
+## V03 updates — 2026-09-26 UTC
+
+Prior V01/V02 bodies remain historical and unchanged. Current scope is Japanese LN V01–V03; input is audited V02 head `687a13ac1a661270ab566c9e1a6028acd607d846`. Observation suffixes below resolve in [V03's diagnostic readings](../02%20Sequential%20Readings/MT_V03_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V03-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Revision / claim | Prior → current formulation | Transition / basis / counterevidence | Confidence, test and dependencies |
+| --- | --- | --- | --- |
+| `MT-CR-017` / `MT-C-001` | Socially supported competence → selective transfer that can coexist with disastrous appraisal. | REVISE; `003,005,007,013–015,019–020`. Strong magic and paid work do not establish reliable rescue timing. | High bounded inference. Test changed support/feedback; state, model001–004, form. |
+| `MT-CR-018` / `MT-C-002` | Recognition/restraint mixed → actual V03 comparable restraint but recurring misconduct and external enforcement. | STRENGTHEN; `008–009,011–012,014,016,018–020`. Reject both no change and complete ethical reform. | High. Test unpoliced restraint and costly disclosure; normative/relationship/model005–008. |
+| `MT-CR-019` / `MT-C-003` | Multiple fallible focalizers → also distinguish omniscient local facts from character prayer/history and mistaken absolution. | STRENGTHEN; `001,010,014–018,021–022`. Alternative voice not universal truth. | High formal inference. Track holder/proposition; knowledge/form. |
+| `MT-CR-020` / `MT-C-004,005` | Historical V01 findings unchanged. | PRESERVE; no direct new evidence about those original events/affected persons' later appraisals. | No material revision. Later comparison not rewrite. |
+| `MT-CR-021` / `MT-C-006` | Employment benefited learning without proving forced separation necessary → remains bounded. | PRESERVE; `003,005,019` show additional uses of skills, not necessity of coercive method. | High for benefit, unresolved causal counterfactual; state/relationship. |
+| `MT-CR-022` / `MT-C-007` | Secondary people have own aims → clients, workers, companions and palace actors affect outcomes outside Rudy's intentions. | STRENGTHEN; `002–005,008,010,013,017–022`. Some remain thinly focalized. | High. Test agency beyond instrumental usefulness; state/relationship/form. |
+| `MT-CR-023` / `MT-C-008` | Adaptive teaching depends on fit/resources → context and learner differences remain necessary across travel. | REVISE; `005,013,019–020`. Nonverbal combat instruction works for Eris, not Rudy; excess praise fails. | High. No universal recipe; model001–002/state/form. |
+| `MT-CR-024` / `MT-C-009` | Public accounts distribute credibility → performance, reports and identity can both create access and misassign responsibility. | STRENGTHEN; `006–007,010–018,020–022`. Genuine service changes particular judgments; not all trust false. | High. Compare informed/partial recognition and costs; all topical homes. |
+| `MT-CR-025` / `MT-C-010` | Displacement separates agency/secure knowledge → destinations and palace consequence now known, cause and many fates still open. | REVISE; `001,003,009,022`. No inferred message reception or newcomer identity. | High local facts, unresolved causes; chronology/form. |
+| `MT-CR-026` / `MT-C-011` | New: optimizing gratitude/status can narrow attention to others' immediate danger. | OPEN; `006,012–014,016`, with V02:003 comparison. Cooperative routine is substantial countercase to all planning being manipulative. | Strong bounded inference, not fixed universal trait. Test abandoning an advantageous script before outside interruption; model003/006, normative/form. |
+| `MT-CR-027` / `MT-C-012` | New: reciprocal reliance and consultation reduce private decision burden, imperfectly. | OPEN; `018–020`. Useful contribution immediate; secrecy, leader authority and outside enforcement qualify it. | Moderate process claim. Test inconvenient dissent and pre-harm consultation; model007–008/state/relationship. |
+
+The V03 checkpoint activates a bounded living Rudeus model with retrospective contrast tests. No unregistered question becomes a prediction success. No model is DOMAIN_READY. V05 cumulative review remains due.
+
+
+## V04 updates — 2026-09-26 UTC
+
+Prior V01–V03 bodies remain historical and unchanged. Current scope is Japanese LN V01–V04; input is audited V03 head `56e1daa4bdc287cb9f2f3e4abbbea30be494628d`. Observation suffixes below resolve in [V04's diagnostic readings](../02%20Sequential%20Readings/MT_V04_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V04-`. Publication and final exact-head audit remain separate from this preparation snapshot.
+
+| Revision / claim | Prior → current formulation | Transition / source / strongest qualification | Test and dependencies |
+| --- | --- | --- | --- |
+| `MT-CR-028` / `MT-C-001` | Selective supported competence → gifts, practice, interpretation and complementary roles jointly matter. | STRENGTHEN; `001,003–005,008,010,013–014,017,022,026`; extraordinary aptitude real, not universally sufficient. | High bounded inference; new task/support contrast; state/form/models. |
+| `MT-CR-029` / `MT-C-002` | Actual restraint with recurring misconduct → new unpoliced restraint/immediate help, later pressure and intrusion. | STRENGTHEN; `008–010,013,018,021,025`; care neither cancels harm nor becomes fictitious because harm persists. | High; comparable unpoliced transfer; normative/relationships/model005. |
+| `MT-CR-030` / `MT-C-003` | Fallible perspectives → corrections include self-inconsistency, mistaken benevolent trust and hopeful dependency judgment. | STRENGTHEN; `006–007,009,011–012,019–020,023–026`; independent narration may establish local facts, not every motive. | High; holder/proposition audit; form/knowledge. |
+| `MT-CR-031` / `MT-C-004,005` | V01 findings → unchanged historical formulation. | PRESERVE; no direct new affected-person account of those original events. | No-material revision; comparisons retained separately. |
+| `MT-CR-032` / `MT-C-006` | Job benefits without necessity proof → remains bounded. | PRESERVE; new uses of teaching not controlled counterfactual; unresolved alias not Sylphie outcome evidence. | Necessity unresolved; state/knowledge. |
+| `MT-CR-033` / `MT-C-007` | Independent aims → substantial peer world, Roxy search, Geese work and court agency. | STRENGTHEN; `006–007,016–026`; limited access to captives/assassin/absent people still matters. | High; ordinary choices beyond protagonist utility; Eris model/state/relations/form. |
+| `MT-CR-034` / `MT-C-008` | Task/learner fit → also access to instruction and socially valued work. | REVISE; `003–006,016–018,021–023`; Geese refuses instruction, anatomy limits imitation, Eris initiates teaching. | High; new learner/teacher contexts; models/state/form. |
+| `MT-CR-035` / `MT-C-009` | Accounts distribute access/blame → recognition can also impose burdens or fail against institutional barriers. | STRENGTHEN; `001,005–007,011,014–016,019,022–026`; actual goodwill remains real. | High; whether informed recognition changes constraints; all topical homes. |
+| `MT-CR-036` / `MT-C-010` | Destinations known, causes/fates open → expanded dispersed survivor histories, continued failed information transfer. | REVISE; `006–007,015–016,023–026`; future court escape announced not completed, no Rudy reunion/message. | High local observation; track actual reception; chronology/form. |
+| `MT-CR-037` / `MT-C-011` | Gratitude optimization can narrow rescue attention → reward wording alone cannot identify delayed-help mechanism. | REVISE; `003,009–010,013–014`; immediate fire rescue is countercase, explicit gratitude demand persists. | High; compare sequence before motive shorthand; model003/normative. |
+| `MT-CR-038` / `MT-C-012` | Reliance/consultation reduce burden imperfectly → can also transfer burden through miscalibrated trust/dependency. | REVISE; `005,011–014,017–022,024–026`; actual corrected choices prevent an all-coercion reading. | Strong bounded inference; costly disclosure/expressed needs; models/relations/state. |
+| `MT-CR-039` / `MT-C-013` | New: perceived usefulness distributes belonging and obligation, sometimes narrowing choice. | OPEN; `018–022,024–025`; Geese's lost role, Eris's desired task, warrior expectations and Fitts's fear; voluntary gifts/care challenge exclusively transactional account. | Moderate cross-context thematic inference. Test affection/help independent of performance; existing ledgers sufficient, specialist review V05. |
+
+V04 checks interrogate previously fixed model rules, but no outcome prediction was registered and prior familiarity remains. New Eris model is retrospectively fitted. V05 cumulative checkpoint must assess V01–V05 and artifact responsibilities, not just count supportive rows.
+
+
+## V05 updates — 2026-09-26 UTC
+
+Prior V01–V04 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V05; frozen published input is audited V04 head `f3dfe47b549cf33fddc7d2128e2b6f0bba7a8e8e`. Observation suffixes below resolve in [V05's diagnostic readings](../02%20Sequential%20Readings/MT_V05_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V05-`. The [V01–V05 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V05_CHECKPOINT.md) owns the historical cumulative synthesis; publication/audit remain separate from this preparation snapshot.
+
+| Revision / claim | Prior → current formulation | Transition / evidence / strongest qualification | Test / dependencies |
+| --- | --- | --- | --- |
+| `MT-CR-040` / `MT-C-001` | Distributed competence → ability, coordination, interpretation and care remain distinct. | STRENGTHEN; `001–006,012,018–019,025,027`; exceptional endowment remains real. | Changed support/task; models/state/form. |
+| `MT-CR-041` / `MT-C-002` | Local restraint and continued harm → particular repair and broader refusal-respecting intention, with incomplete transfer. | REVISE; `007–015,022,025`; misreading women and the cook outburst counter global maturation; intention is not a persistence test. | New unpoliced boundary/repair; normative/models. |
+| `MT-CR-042` / `MT-C-003` | Fallible perspectives → distinguish corrective fact, attributed explanation and deliberate noncorrection. | STRENGTHEN; `004,007,010,017–019,023–028`; the source can establish falsehood without every speaker being infallible. | Holder/proposition audit; knowledge/form. |
+| `MT-CR-043` / `MT-C-004` | V01 Sylphie boundary → preserved historical finding. | PRESERVE; no new direct account of that violation; competence report is not retroactive consent. | No material revision; normative. |
+| `MT-CR-044` / `MT-C-005` | V01 household crisis → Paul confirms earlier assault/motive and reports later domestic negotiation. | REVISE; `004,012`; new agency report does not excuse originating betrayal/deception; no new women's interiority. | Direct later account if admitted; normative/relations. |
+| `MT-CR-045` / `MT-C-006` | Job benefits and open necessity → Sylphie's education after separation now reported too. | REVISE; `012`; several teachers/supports, no controlled alternative to the coercive ban. | Keep outcome and necessity separate; state/knowledge. |
+| `MT-CR-046` / `MT-C-007` | Independent aims → new care, work, refusal, adventure and political choice across the ensemble. | STRENGTHEN; `004–005,008–020,023–028`; access remains uneven. | Ordinary decisions outside Rudy's benefit; models/relations. |
+| `MT-CR-047` / `MT-C-008` | Task/learner/access → magic rank differs from coordination and attributed teacher credit. | STRENGTHEN; `012,018–019,024–025`; Cliff's skills are real, Eris learned but can be reckless. | Transfer and misattribution; models/form. |
+| `MT-CR-048` / `MT-C-009` | Accounts distribute access/burden → shared performance can enable care while concealment/falsehood retain costs. | REVISE; `007,011,014–016,019,021–022,025–028`; performance alone is not manipulation. | Who can contest/consent; models/normative/form. |
+| `MT-CR-049` / `MT-C-010` | Dispersed knowledge → actual family disclosure, notices seen but unshared, partial escape evidence. | REVISE; `007,009,012,017,020,024,026–028`; fates, cause and alias remain unresolved. | Actual message holder; chronology/knowledge. |
+| `MT-CR-050` / `MT-C-011` | Sequence-sensitive gratitude mechanism → immediate aid can still fail at hearing and identification. | STRENGTHEN; `002–003,016`; no engineered delay, no claim that all helping has pure motives. | Comparable order of decision; model003/normative. |
+| `MT-CR-051` / `MT-C-012` | Reliance can help or overburden → repair needs received care and shared information, not confidence alone. | STRENGTHEN; `006,008–015,017,020,023,027`; offered choice and notice failure are both actual. | Inconvenient needs/disclosure; models/relations. |
+| `MT-CR-052` / `MT-C-013` | Usefulness/belonging working theme → repeated capacity-to-duty inference with nontransactional care countercases. | STRENGTHEN; `006,008–015,017,023–027`; Norn, parents and comfort prevent an exclusively exchange-based account. | Help after failure/refusal; checkpoint/models/relations. |
+| `MT-CR-053` / `MT-C-014` | NEW: responsibility for an account changes when error becomes available to correction. | OPEN; `028` versus `007,010,017,027`; explicitly known omission differs from unavailable facts; one especially diagnostic case. | Recognized error/repair cost, not blame for all partial knowledge; knowledge/normative/form. |
+
+All substantive transitions above are strong bounded inferences unless explicitly a report, intention or unresolved proposition. C014 is a working longitudinal hypothesis from one explicit deliberate-omission case, supported by contrast rather than presumed universality. V05 registered questions, not predictions; no retrospective forecast success is claimed. The cumulative checkpoint narrows models and adds Paul/Ruijerd/Roxy without DOMAIN_READY or new source lanes.
+
+
+## V06 updates — 2026-09-26 UTC
+
+Prior V01–V05 bodies remain historical and unchanged. Current source boundary is Japanese LN V01–V06; frozen input is final audited V05 head `3dc6b173b044abdafc013dc989bd96914620d13d`. Observation suffixes below resolve in [V06's diagnostic readings](../02%20Sequential%20Readings/MT_V06_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V06-`. The [V06 disclosure checkpoint](../05%20Checkpoint%20Syntheses/MT_V06_DISCLOSURE_CHECKPOINT.md) reviews altered premises; the V01–V05 cumulative checkpoint remains historical. Publication/audit remain separate from this preparation snapshot.
+
+| Revision / claim | Prior → current formulation | Transition / evidence / strongest qualification | Test / dependencies |
+| --- | --- | --- | --- |
+| `MT-CR-054` / `MT-C-001` | Distributed competence → useful action can survive dependence, defeat and global negative self-appraisal. | STRENGTHEN; `003,005,010,016,018,026–028`; unusual aptitude real, collective outcomes not sole strategy. | Changed task/support; models/state/form. |
+| `MT-CR-055` / `MT-C-002` | Local repair/intention without general transfer → further refusal/aid alongside continued intrusion and recognized vulnerability insufficiently acted on. | REVISE; `005–008,012,014,018,023`; no total absence of care or general maturation. | Comparable unpoliced choices; normative/models. |
+| `MT-CR-056` / `MT-C-003` | Fallible viewpoints and correction → Eris corrects breakup explanation while misjudging capacity; supernatural accounts useful before verified. | REVISE; `004,013,015,017,021,024–029`; local narrator confirmations distinguished from characters' theories. | Holders/truth/confidence separately; all knowledge-dependent homes. |
+| `MT-CR-057` / `MT-C-004` | V01 Sylphie refusal/comic frame → historical conclusion preserved. | PRESERVE; `021` supplies survival report, no new account of original violation; `023–024` comparative only. | No retroactive consent or new Sylphie interiority; normative. |
+| `MT-CR-058` / `MT-C-005` | Household protection, harmful means and later negotiation → Lilia's history/self-questioning give new affected-person access. | REVISE; `012,029–031`; prior assault independently focalized, maternal love coexists with imposed service; original meeting findings retained. | Whether expressed care changes available choice, not whether love exists; normative/relations/checkpoint. |
+| `MT-CR-059` / `MT-C-006` | Educational benefit without necessity proof → unchanged causal limit. | PRESERVE; `014,024,029` add practice/outcomes, not a controlled alternative validating Paul's coercive separation. | Teaching opportunities not retrospective necessity; state/model. |
+| `MT-CR-060` / `MT-C-007` | Ensemble has independent aims/work → overlapping rescue, refusal, training and information missions. | STRENGTHEN; `010,020,022,025,027–031`; unequal options and partial access remain. | Meaningful choice outside protagonist benefit; relations/models. |
+| `MT-CR-061` / `MT-C-008` | Task/learner/access fit → recipes, trained spell defense, sword instruction and disruption practice preserve instruction/feedback limits. | STRENGTHEN; `003,005,007,014,016,018,024`; quantity/future sight cannot replace learned execution. | Changed learner/task feedback; models/form. |
+| `MT-CR-062` / `MT-C-009` | Accounts distribute access and shared performance can enable care → protective secrecy can obstruct correction and reciprocal choice. | REVISE; `002,006,013,019,025–026`; motives not all exploitative, explicit decision rights also observed. | Who can contest premises before consequence; models/relations/form. |
+| `MT-CR-063` / `MT-C-010` | Dispersed disaster news → corrected record reading and organized but incomplete information delivery. | STRENGTHEN; `021,026–028`; cause/fates not universally known, lead not rescue. | Actual receipt and qualification; chronology/knowledge. |
+| `MT-CR-064` / `MT-C-011` | Gratitude mechanism depends on intervention order → prompt rescue again, with technical/interpretive limits. | STRENGTHEN; `005–006`; later admiration management does not retroactively make rescue delayed staging. | Comparable decision sequence; model003/normative. |
+| `MT-CR-065` / `MT-C-012` | Reliance needs care/shared information → perceived competence and burden can mutually intensify while useful support remains. | REVISE; `018–020,024–026`; vulnerability recognition can prompt mistaken self-exclusion, not only repair. | Explicit need and communicated interpretation; models/relations/checkpoint. |
+| `MT-CR-066` / `MT-C-013` | Usefulness distributes belonging → burden self-theory, political utility and assigned service diverge from actual affection/contribution. | STRENGTHEN; `010,020,022,025,029–031`; reciprocal friendship/embrace counter exclusively transactional theory. | Refusal/failure without loss of care, meaningful alternatives; relations/normative. |
+| `MT-CR-067` / `MT-C-014` | Known error alters responsibility → distinguish prompt inquiry, purposeful withholding and unrecognized received error. | REVISE; `019,021,025–026`; Eris conceals destination but is not shown knowing she caused a rejection interpretation. | Actual knowledge/opportunity before blame; knowledge/normative/form. |
+
+Strong bounded inference applies to the specified contrasts; reports remain reports. No new numbered claim is needed: these disclosures refine existing responsibilities. The V06 checkpoint adds a focused dependency review, preserving the V01–V05 checkpoint and all historical formulations. No registered outcome prediction or clean holdout is claimed.
+
+
+## V07 updates — 2026-09-26 UTC
+
+Prior V01–V06 bodies remain historical and unchanged. The current source boundary is Japanese LN V01–V07. The entering freeze used audited V06 head `0e72e531278055c0dbb7a6054285337a1cc37a93`; later repository reconciliation does not change that analytical input. Observation suffixes resolve in [V07](../02%20Sequential%20Readings/MT_V07_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V07-`. The [recognition checkpoint](../05%20Checkpoint%20Syntheses/MT_V07_RECOGNITION_CHECKPOINT.md) owns the focused comparison. Publication and exact-head audit are separate from content acceptance.
+
+| Revision / claim | Prior → current formulation | Disposition / evidence / countercase | Test / affected homes |
+| --- | --- | --- | --- |
+| `MT-CR-068` / `MT-C-001` | Useful action survives negative self-appraisal → competence, purpose, pleasure and relational security recover unevenly. | STRENGTHEN; `002–005,007–009,013–024,026`; real ability never establishes general recovery. | Separate these outcomes under changed support; Rudy model/state/checkpoint. |
+| `MT-CR-069` / `MT-C-002` | Local aid without durable general transfer → care received/given coexists with class reassurance containing contrary evidence, aggression and demeaning speech. | REVISE; `013–025`; suffering does not erase actual harms, involuntary bodily difficulty is not misconduct. | Comparable choices with known alternatives; models/normative. |
+| `MT-CR-070` / `MT-C-003` | Corrective viewpoint remains fallible → Sara corrects her motive while her imagined ridicule stays false; physical evidence can be prematurely closed. | STRENGTHEN; `006,010,012,015,025`; local narrator confirmation differs from focalized belief. | Proposition-by-proposition access; Sara model/knowledge/form. |
+| `MT-CR-071` / `MT-C-004` | Original Sylphie boundary/comic analysis → preserved. | PRESERVE; V07 supplies no new direct account of the V01 violation; Fitts recognition does not authorize identity substitution. | No retroactive consent or imported identity; normative/knowledge. |
+| `MT-CR-072` / `MT-C-005` | Household protection and harmful means → preserved historical conclusion. | PRESERVE; remembered family and new comparison do not rewrite original household crisis. | Future source access must bear on that event; normative. |
+| `MT-CR-073` / `MT-C-006` | Educational benefit without proof coercion necessary → preserved causal limit. | PRESERVE; `003,007–009` adds learning/work, not controlled alternative history. | No outcome-to-necessity inference; models/form. |
+| `MT-CR-074` / `MT-C-007` | Ensemble independent agency → Sara survival/repair attempts, party obligations, Soldat care and school ambition act beyond Rudy's perception. | STRENGTHEN; `009–012,014–017,021–030`; independent agency includes harmful and constrained choices. | Choices beyond protagonist benefit; state/relations/models. |
+| `MT-CR-075` / `MT-C-008` | Task, instruction and feedback differ → specialized teammates, failed defense, rescue calibration and practical purchases preserve dependence. | STRENGTHEN; `003–004,007–010,015–019`; high output still genuinely useful. | Transfer under task change; model001/form. |
+| `MT-CR-076` / `MT-C-009` | Protective secrecy can block correction → polite coping, protective warmth, defensive claims and engineered public accounts require different mechanisms. | REVISE; `010–012,018,020–025,028–029`; performance alone proves neither honesty nor manipulation. | Audience access and contestability; models/form/normative. |
+| `MT-CR-077` / `MT-C-010` | News needs actual delivery → reputation routes an ally toward Rudy but message still unreceived. | STRENGTHEN; `007,013,018,026–027`; no lead does not mean no publicity effect, rumor not verified feat. | Actual arrival/receipt; knowledge/relations. |
+| `MT-CR-078` / `MT-C-011` | Sequence matters for gratitude mechanism → immediate costly search precedes rescue-reward fantasy. | STRENGTHEN; `014–017`; mixture of motives persists, no engineered danger or purchased consent inferred. | Decision order/available alternatives; model003/normative. |
+| `MT-CR-079` / `MT-C-012` | Reliance and perceived burden diverge → company, disclosure, bodily response and capacity to tolerate romantic uncertainty can move independently. | REVISE; `004–005,007,009,017,020–026`; accepting Soldat does not cure every relationship. | Distinct supports and usable communication; Rudy/Sara models/checkpoint. |
+| `MT-CR-080` / `MT-C-013` | Usefulness/belonging not wholly transactional → temporary nonmembership, modest fees and reciprocal debts coexist with care after failure. | STRENGTHEN; `007,014,017–019,021–026`; exploitation/authority still present elsewhere. | Refusal or failure without lost support; relations/normative. |
+| `MT-CR-081` / `MT-C-014` | Known error differs from ignorance → track recognized contrary evidence, inquiry permission, privacy and deliberate manufacture of audience ignorance. | REVISE; `006,010,015,018,025,028–029`; incomplete advice may help, privacy loss remains separate. | What was known before statement/action, who could correct it; knowledge/normative/checkpoint. |
+
+No new numbered claim is required. These are bounded interpretive revisions, with reports and conjectures labeled in their evidence routes. V07's freeze registered questions rather than scored outcome predictions; no clean holdout or retrospectively successful forecast is claimed.
+
+
+## V08 updates — 2026-09-26 UTC
+
+Prior V01–V07 bodies remain historical and unchanged. Current source boundary: Japanese LN V01–V08. Immutable entering input was final audited V07 `523625ec4a57b95dec7d5acbb217bae5cc7ba5d3`. Numeric observation suffixes resolve in [V08](../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V08-`. The [consent and institutional-power checkpoint](../05%20Checkpoint%20Syntheses/MT_V08_CONSENT_AND_INSTITUTION_CHECKPOINT.md) owns the targeted comparison. Content acceptance, publication/audit and integration to main remain separate states.
+
+| Revision / claim | Prior → V08 formulation | Disposition / observation / countercase | Test and dependent homes |
+| --- | --- | --- | --- |
+| `MT-CR-082` / `MT-C-001` | Uneven recovery → useful learning and school pleasure coexist with unresolved bodily difficulty and misconduct. | STRENGTHEN; `006,012–013,021,028–030`. | Distinguish competence, pleasure, consent and cure; Rudy/model/checkpoint. |
+| `MT-CR-083` / `MT-C-002` | Care beside harm → concrete protection/teaching and selective privacy coexist with ownership and captive abuse despite available objections. | REVISE; `012–025,028–030`; genuine care retained. | Comparable power/refusal opportunities; normative/model005. |
+| `MT-CR-084` / `MT-C-003` | Corrective viewpoint fallible → bard frame, Zanoba fear and Sylphiette non-disclosure correct different propositions without supplying Juli interiority. | STRENGTHEN; `001,010–011,018,026–030`. | Proposition-specific access; knowledge/form/models. |
+| `MT-CR-085` / `MT-C-004` | Historical Sylphie refusal/consequence → preserved beside present love and imagined accommodation. | PRESERVE; `010–011,026–027` do not change V01 consent. | No retroactive authorization; Sylphiette model/normative. |
+| `MT-CR-086` / `MT-C-005` | Household care and harmful means → preserved historical conclusion. | PRESERVE; present analogies are not fresh access to original crisis. | No revision from unrelated warmth; normative. |
+| `MT-CR-087` / `MT-C-006` | Benefit does not prove coercive separation necessary → school/craft learning likewise does not prove ownership necessary. | STRENGTHEN comparison; `013–016,030`; original history unchanged. | Separate feasible learning from imposed institution; checkpoint. |
+| `MT-CR-088` / `MT-C-007` | Independent agency → Sylphiette study/refusal, Zanoba dissent, Elinalise objection and Juli's constrained choices remain causal. | STRENGTHEN; `010–019,026–030`; agency includes harmful actions. | What choices remain materially available; models/relations. |
+| `MT-CR-089` / `MT-C-008` | Task-specific capacity → magic transfer, strength/precision mismatch, distributed production and cognitive load require different solutions. | STRENGTHEN; `006,012–016,020,030`. | Technical success not ethical verdict; models001/002/world. |
+| `MT-CR-090` / `MT-C-009` | Distinct performance mechanisms → institutional report, face-saving courtesy, withheld name, false threat and minimized ending separated. | REVISE; `001,006,017–018,024–027`. | Audience knowledge/purpose/contestability; form/knowledge. |
+| `MT-CR-091` / `MT-C-010` | Reputation routes message → actual Elinalise delivery now established, rescue still not. | REVISE; `002–004`; assurances remain attributed. | Next direct verification, not repeated hearsay; knowledge. |
+| `MT-CR-092` / `MT-C-011` | Decision order before gratitude → market care precedes purchase, but rescue from conditions cannot supply ownership consent. | STRENGTHEN; `014–016`; earlier rescue conclusions preserved. | Sequence plus alternatives, no gratitude-to-permission inference; normative. |
+| `MT-CR-093` / `MT-C-012` | Support dimensions separate → shared inquiry/intimacy and school pleasure coexist with uncertainty and selective respect. | REVISE; `008–012,025–028`; no cure or resolved identity. | Distinct relationship conditions; Rudy/Sylphiette models. |
+| `MT-CR-094` / `MT-C-013` | Affection/usefulness not identical → masterhood, service, ownership and imposed rank differ even where care is real. | REVISE; `010–018,023,027–030`. | Refusal without lost safety/resources; relations/checkpoint. |
+| `MT-CR-095` / `MT-C-014` | Knowledge responsibility differentiated → moral objection heard but bypassed; false permanence and public denial exploit unequal knowledge. | REVISE; `019,022–026,028`; not every failure is missing information. | Available correction before action; normative/models. |
+| `MT-CR-096` / `MT-C-015` NEW | Restored property, public quiet and continued contact are distinct from affected-person repair. | NEW bounded claim; `022–025,028–030`; genuine local comfort/learning remain. | Seek uncoerced complaint/refusal, acknowledgment and changed terms; checkpoint/normative/relations. |
+
+C015 gives a newly salient closure mechanism its own responsibility rather than renaming C002: it asks which outcome licenses an ending and whose account can contest it. Its strong source-bound basis is figure restoration, frightened denial and continuing Juli fear. It is not a whole-series claim that all reconciliations are false. No clean holdout or registered forecast was tested.
+
+
+## V09 updates — 2026-09-26 UTC
+
+Prior V01–V08 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V09; immutable input final audited V08 `210894fd2b5894b7e499bab80251e8f5ea761138`. Observation suffixes resolve in [V09](../02%20Sequential%20Readings/MT_V09_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V09-`. The [disclosure and recovery checkpoint](../05%20Checkpoint%20Syntheses/MT_V09_DISCLOSURE_AND_RECOVERY_CHECKPOINT.md) owns targeted cross-domain review. Newly disclosed past states are not newly occurring changes. Acceptance, publication/audit and main integration remain separate.
+
+| Revision / claim | Current formulation through V09 | Disposition / observations | Countercase and next test |
+| --- | --- | --- | --- |
+| `MT-CR-097` / `MT-C-001` | Explicit local health resolution joins earlier task/social gains. |REVISE;010/015/019/026/029|Immediate report not general trauma cure or ethical reform; later ordinary functioning is a separate test. |
+| `MT-CR-098` / `MT-C-002` | Protection, privacy and care coexist with intrusion, teacher threat and acknowledged harm. |STRENGTHEN;002–004/009/017/024/028–029|Do not erase either side; test refusal outside privileged attachment. |
+| `MT-CR-099` / `MT-C-003` | Role revelation, retrospective permission and spectator error correct specific propositions. |STRENGTHEN;001/006/011–014/020–022/030–035|Alternate POV not omniscience; reported cosmology remains unverified. |
+| `MT-CR-100` / `MT-C-004` | Historical refusal retains original conditions despite romantic reinterpretation and changed current choices. |PRESERVE;023–025|Offered privacy/current request differ materially from original coercion. |
+| `MT-CR-101` / `MT-C-005` | Household care/harm conclusion remains historical. |PRESERVE; no fresh reconstruction of original crisis|Family-taste theory by Luke is not new proof about every Greyrat. |
+| `MT-CR-102` / `MT-C-006` | Beneficial results do not establish necessity of earlier coercive separation. |PRESERVE;022–025/030|Recognition after growth does not validate the whole causal route. |
+| `MT-CR-103` / `MT-C-007` | Independent choice includes mediation limits, divergent return goals, confession and political opt-out. |REVISE;004/011/021–026/034|Agency can involve deception/harm; test competing purpose with genuine refusal. |
+| `MT-CR-104` / `MT-C-008` | Conditional power, failed aura/circles, persistent research and useful mistaken learning are task-specific. |STRENGTHEN;001/008/015–018/033–035|Useful behavior does not verify the theory producing it. |
+| `MT-CR-105` / `MT-C-009` | Shared role, self-concealment, staged need and requested register have distinct audiences/functions. |REVISE;006/014/019–026/030|Scene-specific attribution; do not equate all politeness with dishonesty. |
+| `MT-CR-106` / `MT-C-010` | Delivered V08 Zenith-location report remains the boundary. |PRESERVE; V09 adds no rescue verification|Absent progress is not evidence mother safe or harmed anew. |
+| `MT-CR-107` / `MT-C-011` | Rescue before victim identification provides fresh order evidence; gratitude remains distinct from entitlement. |STRENGTHEN;003/019/026|Particular grateful restraint does not guarantee generalized autonomy. |
+| `MT-CR-108` / `MT-C-012` | Recognition, disclosure, empathy, presence and substance-assisted scene precede reported recovery. |REVISE;005/010/016/019/025–029/032|Cannot isolate causal treatment or infer all harms repaired; actual relief remains evidence. |
+| `MT-CR-109` / `MT-C-013` | Utility, service release, romantic reciprocity and equal standing have separate measures. |REVISE;016/021/025–026/032|Sylphiette's useful care does not settle her equality question; Juli still owned. |
+| `MT-CR-110` / `MT-C-014` | Missing-language context, causal uncertainty, withheld research and incomplete risk disclosure carry different responsibility. |REVISE;012–013/016/018/022–031|Correction may help without validating testimony; distinguish unavailable from withheld information. |
+| `MT-CR-111` / `MT-C-015` | Institutional settlement and health/romantic closure do not exhaust affected-person repair. |STRENGTHEN;009/028–029/032|Do not negate reported happiness; test changed terms, acknowledgment and available refusal separately. |
+
+No new C016 is necessary: the disclosure/recovery checkpoint sharpens existing responsibilities rather than creating a universal theory of the series. All claims remain source bounded; no reception verdict, whole-series redemption score or clean predictive holdout is asserted.
+
+
+## V10 updates — 2026-09-26 UTC
+
+Prior V01–V09 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V10; immutable input audited V09 `40018b5caedfba456da199ed2fea613ec991015a`. Observation suffixes resolve in [V10](../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V10-`. The [V01–V10 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) owns cumulative review. Revealed earlier events, present changes and explicit prolepsis retain different times. Draft acceptance, publication/audit and main integration remain separate.
+
+| Revision / claim | V10 disposition and warranted claim | Evidence / counterpressure | Confidence and next discriminating test |
+| --- | --- | --- | --- |
+| `MT-CR-112` / `MT-C-001` | REVISE: health recovery, household competence, research achievement and martial progress change different capacities; none measures universal maturation. |001/004–006/016/019–021/024/027–029/033. Real success coexists with fear, dependency and acknowledged limits. |High for represented differences; no clinical or whole-person score. Test transfer under a new demand rather than count achievements. |
+| `MT-CR-113` / `MT-C-002` | STRENGTHEN: affection and care can coexist with harm, including repetition after a known boundary. |005/007–010/015/025/028/030–031. Immediate apology and later privacy restraint are counterevidence to total incapacity, not proof that repetition is absent. |High for local acts; broader durability unresolved. Compare the same requested boundary on a later actual opportunity. |
+| `MT-CR-114` / `MT-C-003` | REVISE: factual correction, fear and interpersonal trust can move at different rates. |003/023/025–026/030–034. Roxy acknowledges her mistaken interpretation while fear persists; Norn has reasons and context without trusting Rudy. |High for these distinctions, moderate for mechanism beyond represented access. Test changed conduct or reassurance, not information alone. |
+| `MT-CR-115` / `MT-C-004` | PRESERVE: the original V01 bodily refusal retains its scene-specific authority. |V10 007/010/015 supplies further boundary material, not replacement evidence for the old scene. |No retroactive consent from marriage or affection. Keep original observation and chronological limit. |
+| `MT-CR-116` / `MT-C-005` | PRESERVE: the earlier household injury and negotiated accommodation retain their distinct costs. |V10 017/030/034 reveals later differentiated care and delegation; it does not erase the earlier crisis. |No new verdict on unseen repair. Distinguish a later workable arrangement from historical vindication. |
+| `MT-CR-117` / `MT-C-006` | PRESERVE: forced childhood separation remains separate from later chosen work and marriage. |002/008/030–032 offers different separation decisions, resources and affected-person wishes. |High boundary discipline; comparison requires attention to age, danger, choice and support. |
+| `MT-CR-118` / `MT-C-007` | STRENGTHEN: independent purposes remain visible inside affectionate or unequal relationships. |002/006/008–009/011–014/022/029–034. Sylphie's service and savings, Elinalise's privacy, Nanahoshi's return aim and Ghislaine's valuation of knowledge differ. |High for expressed purposes; expression alone does not establish effective refusal or ethical innocence. Test whether purposes change decisions. |
+| `MT-CR-119` / `MT-C-008` | STRENGTHEN: competence is task-specific and frequently distributed. |004–007/016/020–021/024/027–029/032–034. Cliff's failed spell changes classification; Zanoba's architecture helps redesign; Aisha's planning does not remove fatigue. |High for actual contributions, limited for general capacity. Human return and catastrophe explanation remain unverified by the bottle result. |
+| `MT-CR-120` / `MT-C-009` | REVISE: performed exterior voice, reputation, corrective viewpoint and narrated future have different evidential status. |003/007/011/023/027–034. Rudy performs the renovation account; the extra grants independent access; North Saint recognition is explicit prolepsis. |High for formal distinctions. Never assign every apparently external sentence an independent witness or treat prolepsis as current character knowledge. |
+| `MT-CR-121` / `MT-C-010` | PRESERVE: Zenith's location report remains distinct from completed rescue. |017/030/034 adds plans, correspondence and an earlier escort decision. |No new rescue verification; absence of a narrated outcome warrants neither reassurance nor invented harm. |
+| `MT-CR-122` / `MT-C-011` | STRENGTHEN: gratitude, marriage and useful assistance do not establish unlimited access or an unchosen repayment obligation. |008/010/014–015/022/032. Requested comforting touch is a particular request; Cliff explicitly distinguishes thanks from continued collaboration. |High for local terms. Test whether a later refusal is respected when gratitude or dependence is salient. |
+| `MT-CR-123` / `MT-C-012` | REVISE: practical protection, emotional presence, technical help and relational repair can cooperate without becoming the same intervention. |018–023/026–027/030–034. Zanoba's admitted incomprehension still comforts Rudy; research success does not resolve Norn's distrust. |High for represented support, limited causal isolation. Do not generalize Rudy's alcohol or mental-care beliefs as clinical facts. |
+| `MT-CR-124` / `MT-C-013` | REVISE: household membership, useful work, recognized kinship and reciprocal exchange do not establish one common level of equality. |005–009/011–016/018/020–022/024/026/030–034. Juli remains owned; Sylphie negotiates; Zanoba's independent task remains within devotion; Norn's new home begins with mistrust. |High for unequal arrangements. Test available choice, exit and consequences separately from belonging. |
+| `MT-CR-125` / `MT-C-014` | REVISE: responsibility for knowledge depends on whether reasons are unavailable, conjectured, heard but emotionally insufficient, concealed, or bypassed in action. |003/008/011–013/017–023/025–026/028–034. Norn's understanding is explicit; Nanahoshi's complaint is interrupted; Rudy repeats a known public-touch boundary. |High scene-specific confidence; no general ignorance explanation. Seek actual access and action order before attributing motive. |
+| `MT-CR-126` / `MT-C-015` | STRENGTHEN: task completion has plural scales. |005/008/010/012–015/018/021–026/034. A safer house, marriage, summoned bottle and delivered children are real results; they do not jointly certify affected-person repair. |High for bounded outcomes. Preserve joy and success while testing acknowledged injury, changed terms and future refusal. |
+
+No C016 is warranted. The [V01–V10 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) owns the cumulative argument; the [Rudeus monograph](../04%20Character%20Analysis/rudeus/CHARACTER_MONOGRAPH.md) explains the interaction of his capacities, projections and dependencies. The form, normative and relationship ledgers retain their own comparisons and actor-specific details. This table revises existing claims without replacing their history or turning ten volumes into a whole-series verdict.
+
+
+## V11 updates — 2026-09-27 UTC
+
+Prior V01–V10 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V11; immutable input audited V10 `4823e7f9cecff45d86f3045304b5825c79bcb628`. Observation suffixes resolve in [V11](../02%20Sequential%20Readings/MT_V11_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V11-`. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns targeted knowledge/duty review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Revision / claim | Prior → V11 formulation | Transition / support / counterpressure | Next discriminating opportunity |
+| --- | --- | --- | --- |
+| `MT-CR-127` / `MT-C-001` | Differentiated capacities → performance still depends on situation, feedback and complementary expertise. | STRENGTHEN;001/011–013/022–025/028–030; power does not replace scouting or emotional access. | Changed task with altered support; state/form/models. |
+| `MT-CR-128` / `MT-C-002` | Care and harm coexist → ordinary choice must be distinguished from explicit external impairment. | REVISE;004–008/014/018/023/025; actual refusal/faithful choice and unwanted acts both retained. | Comparable unassisted boundary opportunity; no blanket excuse or relapse score. |
+| `MT-CR-129` / `MT-C-003` | Trust and facts change differently → Norn's independent reflection precedes R's intervention, and R lacks its explanation. | REVISE;007–010/029/032–034; alternate viewpoint itself can contain false rumor or fantasy. | Later participant-specific account; knowledge/form and Norn model. |
+| `MT-CR-130` / `MT-C-004` | Original Sylphie refusal remains scene-specific. | PRESERVE;004/014/020/025 compare later boundaries without retroactive consent. | New evidence about the old event required for historical revision. |
+| `MT-CR-131` / `MT-C-005` | Household protection and earlier injury remain distinct → learned birth ranking now has disclosed child costs. | STRENGTHEN without rewriting original event;003/009/012; later wages/affection no complete repair. | Changed practice around both sisters' expressed needs. |
+| `MT-CR-132` / `MT-C-006` | Forced separation not vindicated by later benefit → chosen dorm/expedition separations have different terms. | PRESERVE;003/016–020/032; comparison not proof original necessity. | Equivalent evidence of affected person, alternatives and consequences. |
+| `MT-CR-133` / `MT-C-007` | Independent purposes within relation → Norn/Aisha ordinary agency and Elinalise travel judgments materially expand coverage. | STRENGTHEN;002–003/011–013/016–021/024–034; expression not equal power or universal virtue. | Inconvenient preference actually changes shared decision. |
+| `MT-CR-134` / `MT-C-008` | Distributed competence → teaching can require accepted ignorance and learner-selected purposes. | STRENGTHEN;008/011–013/021/028/033–034; no universal withdrawal or teaching recipe. | Different learner/constraint; no clinical extrapolation. |
+| `MT-CR-135` / `MT-C-009` | Different voices/statuses → corrected reports and cultural extrapolation demand proposition-level tracking. | REVISE;006–010/019/026–029/033–035; neither first report nor correction licenses omniscience. | New independent testimony, explicit correction or observed contradiction. |
+| `MT-CR-136` / `MT-C-010` | Rescue unverified → route access and actual Rapan arrival, rescue and catastrophe cause still open. | REVISE;015/019/022/031; successful transit pair not universal safety or forewarning explained. | Direct eligible rescue information; no V12 import. |
+| `MT-CR-137` / `MT-C-011` | Gratitude/status scripts can narrow attention → rescue before known reward is a concrete countercase. | REVISE;006–008/027; later payment not evidence of initial bargain, intimidating reputation still matters. | Help under cost without expected status benefit; Rudy/normative ledger. |
+| `MT-CR-138` / `MT-C-012` | Multiple modes of aid → knowledge can stay incomplete while presence, equipment, route access and delegated care help. | STRENGTHEN;008–010/016–024/030–034; help not isolated causal cure or perfect mutual interpretation. | Dissent/uncertainty acknowledged before action, participant's later response. |
+| `MT-CR-139` / `MT-C-013` | Belonging/work/exchange unequal → wages, authored contribution, chosen faith and contractual cooperation differ. | REVISE;005/011–013/017/020–021/027–034; Juli owned, children dependent, no monolithic equality. | Actual choice/exit/control and costs, not affectionate labels. |
+| `MT-CR-140` / `MT-C-014` | Responsibility depends on knowledge conditions → protected map withholding, mistaken inference and known refusal need separate analysis. | REVISE;004–010/019/021/023/025–030; new disclosure never silently rewrites prior freeze. | Exact information available at decision time and feasible alternatives. |
+| `MT-CR-141` / `MT-C-015` | Task completion plural → family comfort, safe escape, arrival and adopted practice have different unresolved costs. | STRENGTHEN;005–014/023–025/029–034; care/joy real, no whole-person repair verdict. | Affected person's response and sustained terms on later opportunity. |
+
+C001–015 remain sufficient; no new shared claim is added solely for volume count. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns major disclosure and duty comparisons. Interpretive confidence is high for local representation, moderate for repeated mechanisms and unresolved for unseen outcomes. Prior tests and freezes remain historical.
+
+
+## V12 updates — 2026-09-27 UTC
+
+Prior V01–V11 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V12; immutable input audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5`. Observation suffixes resolve in [V12](../02%20Sequential%20Readings/MT_V12_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V12-`. The [V12 checkpoint](../05%20Checkpoint%20Syntheses/MT_V12_LOSS_AND_HOUSEHOLD_CHECKPOINT.md) owns targeted loss/household review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Revision / claim | Prior → V12 formulation | Transition / evidence / limit |
+| --- | --- | --- |
+| `MT-CR-142` / `MT-C-001` | Capacity differentiated → teamwork, interpretation and personal stakes constrain execution. | STRENGTHEN;006–015/033; eye/mana not guaranteed comprehension or composure. |
+| `MT-CR-143` / `MT-C-002` | Care/harm coexist → distress, desire, offered comfort and rough conduct require specific agency conditions. | REVISE;004/008–009/020/023–024/029–032; relief not permission or cure. |
+| `MT-CR-144` / `MT-C-003` | Independent access matters → Roxy/companions/household correct protagonist-centered accounts. | REVISE;001–002/007/017–019/025–031; corrections not omniscience. |
+| `MT-CR-145` / `MT-C-004` | Earlier refusal remains bounded. | PRESERVE;023/030/032 supply new limits, no retroactive consent. |
+| `MT-CR-146` / `MT-C-005` | Household care/injury distinct → mourning, hierarchy and new kinship preserve both histories. | STRENGTHEN;004/014/016–017/027/029–034; sacrifice does not vindicate assault or coercion. |
+| `MT-CR-147` / `MT-C-006` | Later benefit cannot prove forced separation necessary. | PRESERVE;011–016/025–028 different chosen/contingent separations; no equivalent historical correction. |
+| `MT-CR-148` / `MT-C-007` | Independent goals within relations → survival, work, grief, care, dissent and chosen marriage broaden agency. | STRENGTHEN;007/019/022–024/026–033; choice remains materially uneven. |
+| `MT-CR-149` / `MT-C-008` | Learning distributed → controlled investigation and revised counsel contrast failed perception. | STRENGTHEN;006–015/021/033; local correction not global mastery. |
+| `MT-CR-150` / `MT-C-009` | Proposition-level status → epigraph, diagnosis-like label, pregnancy report and imagined speech separate. | REVISE;001/005/012/017–018/024–025/034; R's inferred lie not confirmed intent. |
+| `MT-CR-151` / `MT-C-010` | Arrival before rescue → family located at lethal cost and uncertain condition. | REVISE;013–018/025/028; catastrophe cause and wider missing population unresolved. |
+| `MT-CR-152` / `MT-C-011` | Gratitude not universal optimization → help does not purchase partner choice or own helpers. | REVISE;019–024/028–031; R's repayment story corrected to desire, Talhand independent tie. |
+| `MT-CR-153` / `MT-C-012` | Plural aid → relief, listening, practical care and restored function have distinct outcomes. | REVISE;017–023/026–034; grief persists, no sexual cure or common recovery timetable. |
+| `MT-CR-154` / `MT-C-013` | Belonging unequal → shared home/accepted marriage do not establish equal work, information or power. | REVISE;004/022–024/027/029–033; Lilia labor, Syl fear, children's dependence retained. |
+| `MT-CR-155` / `MT-C-014` | Knowledge-conditioned responsibility → counterfactual blame and after-the-fact agreement differ from causal proof. | REVISE;005/008/011–015/017–024/027–030; alternative options not all tested. |
+| `MT-CR-156` / `MT-C-015` | Completion plural → rescue, survival, return, birth and renewed purpose have noninterchangeable costs. | STRENGTHEN;015–034; no global redemption, perfect family or terminal grief verdict. |
+
+Next discriminating tests concern sustained care allocation, informed inconvenient choices, nonviolent disagreement, corrected appraisal and independently grounded disclosure. All revisions are retrospective and source-bounded through V12; no C016 is added merely for a major plot event.
+
+
+## V13 updates — 2026-09-27 UTC
+
+Prior V01–V12 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V13; immutable input audited V12 `e1018971ce195163277565ca1e4e7e298332bb21`. Observation suffixes resolve in [V13](../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V13-`. No new specialist checkpoint is required; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Revision / claim | Prior → V13 formulation | Transition / evidence / limit |
+| --- | --- | --- |
+| `MT-CR-157` / `MT-C-001` | Differentiated capacity → devices, teaching and team matchups make competence task-specific. | STRENGTHEN;003/013–016/024/031/034–036; mana/rank no universal outcome ladder. |
+| `MT-CR-158` / `MT-C-002` | Care/harm coexist → routine affection and protection repeatedly test voiced boundaries. | REVISE;004–010/015/018/020; apologies and agreed intimacy do not erase other overrides. |
+| `MT-CR-159` / `MT-C-003` | Outside access corrects self-account → direct speech, work disclosed late and separate focalization correct anticipated motives. | STRENGTHEN;006/010–012/025–026/032/034–037; corrections not universal interpreter authority. |
+| `MT-CR-160` / `MT-C-004` | Original refusal stays bounded and real. | PRESERVE;015/018/020 new permission distinctions do not retroactively authorize V01 conduct. |
+| `MT-CR-161` / `MT-C-005` | Household protection/injury distinct → changed gifts/care modify practice within continuing rank. | REVISE;020/022/028; recognition not erasure of family origins or hierarchy. |
+| `MT-CR-162` / `MT-C-006` | Forced separation's necessity remains unproved. | PRESERVE;025–026/034–037 different voluntary/disrupted paths do not validate the original coercion. |
+| `MT-CR-163` / `MT-C-007` | Independent purpose → teaching, craft, council work, Sara's career and graduates' choices exceed R's aims. | STRENGTHEN;002–004/014/024/026/030–032; reports and plans bounded. |
+| `MT-CR-164` / `MT-C-008` | Distributed learning → feedback changes local procedure and judgment. | STRENGTHEN;003/010/013–016/031–037; repeated intrusion limits global transfer. |
+| `MT-CR-165` / `MT-C-009` | Proposition-level status → rumor, diagnostic guess, fruit inference and prolepsis need separate admission. | REVISE;005/011–012/029–031/037; character confidence not verification. |
+| `MT-CR-166` / `MT-C-010` | Rescue achieved with unknown condition → expert access proposed, cause/cure still open. | PRESERVE_OPEN;012/028–029/033; no meeting or diagnosis yet. |
+| `MT-CR-167` / `MT-C-011` | Help cannot purchase partner choice → gratitude can explain attachment without ranking another's worth. | REVISE;003–004/025–027; Sara's boundary and rebuke constrain comparison. |
+| `MT-CR-168` / `MT-C-012` | Plural aid → recognition, functional routine and reconciliation improve without ending grief or illness. | REVISE;007/010–012/022–026/029–031; cheerful presentation not symptom/grief absence. |
+| `MT-CR-169` / `MT-C-013` | Household inequality → wages, childcare, service rank, school status and tribal marriage distribute options. | STRENGTHEN;006/019–022/028/030/032; real choice and constraint coexist. |
+| `MT-CR-170` / `MT-C-014` | Responsibility depends on knowledge/means → specific apology/correction matters, benevolence insufficient permission. | STRENGTHEN;004–010/015/020/025–026/032; corrected appraisal not complete changed practice. |
+| `MT-CR-171` / `MT-C-015` | Completion plural → settled routines, graduation and experiment finish different tasks while opening others. | REVISE;022–033/037; no perfect family, full recovery or universal skill completion. |
+
+Discriminating next opportunities: costly consultation before action, recognition of independent work, respected inconvenient refusal, confirmed expert knowledge and specific repair without renewed entitlement. These are prospective questions, not scored forecasts. C001–015 retained; no new master claim created for volume count.
+
+
+## V14 updates — 2026-09-27 UTC
+
+Prior V01–V13 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V14; immutable input audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d`. Observation suffixes resolve in [V14](../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V14-`. The targeted V14 testimony/agency checkpoint is new; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Revision / claim | Prior → V14 formulation | Transition / evidence / limit |
+| --- | --- | --- |
+| `MT-CR-172` / `MT-C-001` | Task-specific capacity → practiced technique helps, overwhelming power/time travel still cannot guarantee protection. | REVISE;020–024/032/036; elder abilities not present R competence. |
+| `MT-CR-173` / `MT-C-002` | Care/harm coexist → rescue and reassurance share context with collateral injury and restriction. | REVISE;010–015/020/033; outcome does not decide permission. |
+| `MT-CR-174` / `MT-C-003` | Access corrects self-account → corroboration raises particular testimony without making it omniscient. | REVISE;013/017/028–034; identity, accuracy and advice are different questions. |
+| `MT-CR-175` / `MT-C-004` | Original refusal remains real and bounded. | PRESERVE;031/033; anticipated new consent cannot rewrite earlier refusal. |
+| `MT-CR-176` / `MT-C-005` | Household injury/protection distinct → feared loss motivates both practical care and unilateral secrecy. | REVISE;015/026/030–034; reported future deaths not present events. |
+| `MT-CR-177` / `MT-C-006` | Original forced separation necessity remains unproved. | PRESERVE;035–036; later achievement does not establish causal necessity of coercion. |
+| `MT-CR-178` / `MT-C-007` | Independent purpose → helpers, wives, host, political actors and trainees retain divergent goals. | STRENGTHEN;001–026/035–036; no universal alignment with R. |
+| `MT-CR-179` / `MT-C-008` | Distributed learning → prior technique transfers, procedure and judgment are revised locally. | STRENGTHEN;006/013/017/020/027/034/036; durability and other domains untested. |
+| `MT-CR-180` / `MT-C-009` | Proposition-level status → current action, counterfactual, future testimony and hearsay need distinct handling. | REVISE;028–036; greater narrative force does not collapse epistemic layers. |
+| `MT-CR-181` / `MT-C-010` | Search success with unresolved causes → Hitogami trust materially weakens; displacement/cure mechanisms still open. | REVISE;003/005/028–034; one corroborated warning not total causal explanation. |
+| `MT-CR-182` / `MT-C-011` | Recognition/debt → help enables reciprocity, narrow exception or coercive service depending on terms. | REVISE;017–018/023–025; debt does not purchase agency. |
+| `MT-CR-183` / `MT-C-012` | Plural aid → continuing tea and rescue improve conditions without permanent cure or restored losses. | REVISE;021–023/032; dependency may continue. |
+| `MT-CR-184` / `MT-C-013` | Institutions constrain options → racial gates, patronage, binding service and household authority shape choice. | STRENGTHEN;002/012/015/018/025/033; willingness must be specific. |
+| `MT-CR-185` / `MT-C-014` | Responsibility requires knowledge/means → R tests warning but does not share full information. | REVISE;027–034; precaution and consultation are separately assessable. |
+| `MT-CR-186` / `MT-C-015` | Completion plural → successful rescue opens ongoing treatment; diary/letter begin unfinished work. | REVISE;023/027/034/036; no new life or reunion completed. |
+
+No new master claim. The disclosure checkpoint sharpens these existing claims. Next tests concern specific corroboration, inclusion of affected people, consultation with Nana and direct Eris contact. These remain prospective questions with prior exposure declared.
+
+
+## V15 updates — 2026-09-27 UTC
+
+Prior V01–V14 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V15; immutable input audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580`. Observation suffixes resolve in [V15](../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V15-`. The mandatory cumulative V01–V15 checkpoint and a scoped Rudeus monograph are new; previous syntheses remain unchanged. V15 is terminal for this instruction. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Revision / claim | Prior → V15 formulation | Transition / evidence / limit |
+| --- | --- | --- |
+| `MT-CR-187` / `MT-C-001` | Power cannot guarantee rescue → collaborative capacities work locally while armor loses and diary power fails relation. | REVISE;002/005/014–015/019–022; future capacities not inherited. |
+| `MT-CR-188` / `MT-C-002` | Care and harm coexist → protective fear can motivate both rescue and knowingly pressured help. | STRENGTHEN;010/012/022–023/035; explanation not exculpation. |
+| `MT-CR-189` / `MT-C-003` | Corroboration proposition-specific → access includes diary gaps, skeptical reading, mistaken expertise and selective disclosure. | REVISE;001–013/018/029–036; report/hypothesis/act separate. |
+| `MT-CR-190` / `MT-C-004` | Original refusals preserved → new touch limits, assent and pacing judged event by event. | PRESERVE/EXTEND_APPLICATION;004/009/025–028; marriage not blanket permission. |
+| `MT-CR-191` / `MT-C-005` | Protection and secrecy → wives contest comfort-only role and act independently. | REVISE;008–009/018/020/022/027; fear remains, current family not dead diary family. |
+| `MT-CR-192` / `MT-C-006` | Forced separation necessity unproved. | PRESERVE;013/025–028; achieved reunion does not retroactively justify coercion. |
+| `MT-CR-193` / `MT-C-007` | Independent purposes → Eris/household/Nana/helper actions exceed R's assigned roles. | STRENGTHEN;008–018/020–022/027/033–036; no fixed goddess types. |
+| `MT-CR-194` / `MT-C-008` | Distributed learning → technical transfer and conversational correction differ in reliability. | REVISE;014–015/019/025–026/033–034; insight does not automatically transfer. |
+| `MT-CR-195` / `MT-C-009` | Layered testimony → embedded self, rewinds, mistaken experts and interlude redistribute access. | STRENGTHEN;001–007/011/020/030/033–038; no omniscient cosmology from detailed speech. |
+| `MT-CR-196` / `MT-C-010` | New threat with unresolved causes → fate, temporal purpose and ancient history have distinct attributed sources. | REVISE;010–011/030; disaster explanation still unproved. |
+| `MT-CR-197` / `MT-C-011` | Debt enables or constrains → gratitude used for welcome and pressure, specified terms improve undefined service. | REVISE;012/020/023/031; later terms do not erase coercive origin. |
+| `MT-CR-198` / `MT-C-012` | Aid without universal restoration → body/relationship repair real, ongoing conditions and lost-branch lives not restored. | REVISE;007/024/026/036; Zenith smile no recovered speech. |
+| `MT-CR-199` / `MT-C-013` | Institutions constrain options → restricted cure, donor claims and employment show access/authority distinctions. | STRENGTHEN;002/023/027/029/031/034–035; claim to power not actual entitlement. |
+| `MT-CR-200` / `MT-C-014` | Responsibility includes consultation → other people successfully correct some choices while concealment/pressure recur. | REVISE;008/012/018/025–026/029/031–032; correctability bounded, not complete transparency. |
+| `MT-CR-201` / `MT-C-015` | Completion plural → defeat/reunion/admission close local problems, open service, care and disclosure obligations. | REVISE;019–036/038; no next mission, guardian or full future security established. |
+
+No new master claim is required. The cumulative checkpoint and new scoped Rudeus monograph develop the relations among existing claims while retaining contrary cases. V15 closes the authorized reading boundary, not the entire published series or every in-story obligation.

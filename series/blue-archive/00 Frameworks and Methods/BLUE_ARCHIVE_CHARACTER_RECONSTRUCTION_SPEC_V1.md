@@ -1,11 +1,11 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_reconstruction_specification
-scope: PROJECT_LOCAL_RECONSTRUCTION_DESIGN_AT_MAIN_V001_C001
+scope: PROJECT_LOCAL_RECONSTRUCTION_DESIGN_AT_MAIN_V001_C002
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
-source_boundary: "Specification and bootstrap design based on the canonical Prologue plus MAIN_V001_C001 through BA:main:001:001:020; BA:main:001:002:001 and all later main-story narrative remain unopened"
+source_boundary: "Method/specification only; no character capability is certified. Design basis: canonical Prologue plus MAIN_V001_C001 and MAIN_V001_C002 through BA:main:001:002:020; BA:main:002:001:001 and later main-story narrative remain unopened"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -15,8 +15,8 @@ updated: 2026-09-25
 canonical_home: "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 governing_method: BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md
 governing_architecture: BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md
-current_checkpoint: MAIN_V001_C001
-next_unopened_main_unit: BA:main:001:002:001
+current_checkpoint: MAIN_V001_C002
+next_unopened_main_unit: BA:main:002:001:001
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -31,7 +31,7 @@ The target is not a personality summary and not unrestricted role-play. It is a 
 
 > Given this version of the character, with this knowledge, role, relationship, audience, pressure, and material constraint, which response families are well supported, which alternatives remain plausible, and where must the model abstain?
 
-This document creates the project-local contract only. It does not create a character reconstruction model, freeze a prospective prediction, assign a global capability grade, or inspect the next unopened story unit. The current evidence boundary is the canonical Prologue plus `MAIN_V001_C001` through `BA:main:001:001:020`.
+This document creates the project-local contract only. It does not create a character reconstruction model, freeze a prospective prediction, assign a global capability grade, or inspect the next unopened story unit. The current evidence boundary is the canonical Prologue plus Chapters 1–2 of Volume 1 through `BA:main:001:002:020` and the canonical `MAIN_V001_C002` checkpoint. The recovered analytical basis is Git commit `533a7c7253f6cbea8616518abdc37076f604d3c5`; the audit records reconciliation with the previously published C001 design.
 
 ## 1. Responsibility and authority boundary
 
@@ -55,7 +55,8 @@ The global discovery and capability layers remain separate. This project must no
 
 ```text
 characters/registry.jsonl
-characters/CHARACTER_ANALYSIS_INDEX.md
+CHARACTER_ANALYSIS_INDEX.md
+characters/CHARACTER_ANALYSIS_INDEX.md  # Also prohibited if this alias is ever introduced.
 characters/reconstruction_capabilities.jsonl
 characters/CHARACTER_RECONSTRUCTION_INDEX.md
 ```
@@ -79,7 +80,11 @@ model_identity:
 model_basis:
   admitted_source_classes: []
   admitted_main_units: []
+  pinned_source_witnesses: []
   narrative_time_boundary: null
+  chronology_confidence_and_basis: null
+  excluded_evidence: []
+  known_prior_exposure_limitations: []
   basis_checkpoint: null
   basis_commit: null
   model_revision: null
@@ -139,17 +144,17 @@ A substantial model addresses each domain with evidence, bounded inference, or a
 
 | Domain | Required content |
 |---|---|
-| Core self-model | Claimed identity, desired self, feared self, implicit self-account, and gaps between presentation and conduct. |
-| Motivational architecture | Surface wants, durable commitments, protected values, fears, needs, obligations, and conflict resolution among them. |
+| Core self-model | Explicit self-conception, desired and feared self, public identity, evidenced private identity, self-report/conduct gaps, performed personas, and the costs of maintaining them. |
+| Motivational architecture | Immediate wants, recurring needs, commitments, loyalties, protected values, fears, status concerns, institutional duties, relationship obligations, and what tends to win when these conflict. |
 | Attention and appraisal | What becomes salient first; what is missed; how evidence, threat, status, care, shame, opportunity, and uncertainty are interpreted. |
 | Decision policy | How perception becomes options, inhibition/escalation, choice, action, and later self-account. |
-| Emotional regulation | Baseline expression, triggers, suppression, escalation, avoidance, recovery, disclosure, and relationship/state deltas. |
-| Directed relationship conditioning | How A behaves toward B, what A believes B expects, public/private differences, permissions, taboos, misreadings, and updating conditions. |
-| Institutional conditioning | School, club, hierarchy, office, mission, jurisdiction, debt, and organizational identity as constraints on behavior. |
+| Emotional regulation | Triggers, expression, concealment, displacement, escalation, avoidance, rumination, embarrassment, anger, fear, recovery, and disclosure, with audience/relationship/state differences. |
+| Directed relationship conditioning | A-to-B trust, knowledge, standing, obligations, vulnerabilities, expectations, deference, rivalry, care, boundaries, refusal, misunderstanding, public/private differences, and updating conditions. |
+| Institutional conditioning | School/club/committee office, command hierarchy, public duty, jurisdiction, factional pressure, scarcity, inter-academy politics, and Schale/Sensei standing; role is not private preference. |
 | Agency and competence | Initiative, practical capacity, delegation, help-seeking, refusal, correction, persistence, and domain-specific failure modes. |
-| Ordinary-life repertoire | Work, study, food, leisure, routine, small disagreement, humor, care, boredom, embarrassment, money, and low-stakes decisions where evidenced. |
-| Crisis repertoire | Threat, coercion, injury, urgency, loss, command, violence, and post-crisis return without treating crisis behavior as the resting baseline. |
-| Japanese written speech | Self-reference, address, politeness, clause/turn shape, directness, hedging, questions, repair, teasing, refusal, apology, command, and contextual shifts. |
+| Ordinary-life repertoire | Mundane conversation, food, hobbies, leisure, work, shopping, study, small favors, compliments, teasing, awkward introductions, routine disagreement, rest, humor, and play where evidenced. |
+| Crisis repertoire | Distinguish ordinary disagreement, embarrassment, institutional conflict, physical danger, coercion, perceived betrayal, and existential threat. Slapstick and combat are not universal interpersonal baselines. |
+| Japanese written speech | Self-reference, address/honorifics, politeness and plain/polite shifts, sentence-final forms, stylization/dialect, hesitation, self-correction, interruption, directness and speech acts. Distinguish represented spoken dialogue from written messages and preserve context/relationship shifts. |
 | Contradictions and negative constraints | Strong counterexamples, caricature traps, evidence-backed non-rules, and hypotheses the source does not support. |
 | Qualitative thresholds | Conditions under which the response family changes, without invented numeric cutoffs. |
 | Development | What changed, what persisted, what was newly revealed, and why the distinction matters. |
@@ -237,6 +242,7 @@ For each material rule ask:
 5. Which inhibition failed or succeeded?
 6. Which options were genuinely available from the character's perspective?
 7. What did the character do, and how did they later interpret or repair it?
+8. What did the character assume about another person's intent and knowledge, and what evidence would make that social reading update?
 
 Where the answer is only inferential, record alternatives. A later consequence does not prove a prior motive.
 
@@ -266,13 +272,13 @@ Ordinary-life evidence is a first-class validation control. Seek, where the admi
 
 Missing ordinary evidence narrows readiness. Do not invent favorite foods, hobbies, domestic competence, money habits, romantic fluency, or relaxed conversation from costume, metadata, archetype, or one contextual line.
 
-At the current Chapter 1 boundary, Serika's work/ramen/money routine and the Problem Solver 68 restaurant/scarcity material are especially valuable but remain narrow samples. They do not make any subject whole-person ready.
+At the current Chapter 2 boundary, Serika's work/ramen/money routine and the Problem Solver 68 restaurant/scarcity material are especially valuable but remain narrow samples. They do not make any subject whole-person ready.
 
 ## 10. Written Japanese and performed voice
 
 The current corpus supports a **written-Japanese speech model**. It may use canonical dialogue and choice records to study:
 
-- self-reference and address;
+- self-reference, address, honorifics, sentence-final forms, stylization, and evidenced dialect;
 - honorific accommodation and role titles;
 - directness, hedging, qualification, interruption, and repair;
 - command, request, refusal, apology, gratitude, teasing, complaint, and reassurance;
@@ -280,6 +286,8 @@ The current corpus supports a **written-Japanese speech model**. It may use cano
 - public/private, relationship, institutional, and stress deltas.
 
 Do not infer performed delivery—pitch, timbre, pace, breath, pause, loudness, or acting—from the transcript. If voice audio or a performed adaptation is later admitted, it requires a separate performance layer with its own source lock, identity mapping, inspection method, and divergence notes. Performed voice may enrich delivery; it may not overwrite canonical wording or literary ambiguity.
+
+The [Japanese voice/address ledger](../03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md) owns attested textual examples and their source cautions. Written-message rhythm is not performed prosody, and a disputed speaker cannot supply a secure idiolect example.
 
 Generated Japanese must be labeled illustrative. It is never a recovered line and must not be stored as a canonical voice example.
 
@@ -291,17 +299,18 @@ Main story remains the sequential literary spine. New main units enter prospecti
 
 ### 11.2 Group and event stories
 
-Use complete stories, not extracted quotes alone. Record publication/source order, story-local chronology, event-specific roles, audience, and continuity uncertainty. An event costume or temporary office does not automatically define baseline behavior.
+Use complete stories, not extracted quotes alone. Record publication/source order, story-local chronology, event-specific roles, audience, and continuity uncertainty. An event costume or temporary office does not automatically define baseline behavior. Release order is not a complete in-universe chronology. Record chronology confidence and its basis: an uncertainly placed event can establish contextual repertoire without proving when it was acquired. Do not create a state-transition edge until the ordering is supported.
 
 ### 11.3 Bond stories and MomoTalk
 
-These are high-value for private presentation, ordinary life, messaging rhythm, dyadic repair, and Sensei-conditioned behavior. They are also structurally player-facing and relationship-specific. Do not generalize a Sensei dyad to peers, public institutions, or romantic certainty without independent support.
+These are high-value for private presentation, ordinary life, messaging rhythm, dyadic repair, and Sensei-conditioned behavior. They are also structurally player-facing and relationship-specific. Do not generalize a Sensei dyad to peers, public institutions, or romantic certainty without independent support. Preserve the source-class label; private material does not automatically overwrite main-story institutional state, public knowledge, chronology, or other relationships.
 
 ### 11.4 Sensei choices
 
 Preserve the full choice space and the shared structural action. Do not treat mutually exclusive options as simultaneously spoken. Distinguish:
 
 - invariant action across choices;
+- required narrative participation even when the interface presents a choice;
 - optional tone or persona expression;
 - branch-conditioned response;
 - normalized choice metadata;
@@ -309,15 +318,17 @@ Preserve the full choice space and the shared structural action. Do not treat mu
 
 ### 11.5 Sensei model
 
+The [Sensei role/ethics ledger](../03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_SENSEI_ROLE_AND_ETHICS_LEDGER.md) remains authoritative for institutional and ethical analysis. Keep invariant narrative agency, bounded selectable persona, structural capacity, and player-variable characterization distinct.
+
 Sensei is a player-variable protagonist with represented structural commitments. A reconstruction may model invariants, choice families, role obligations, and observed effects. It must not average every option into one fully specified private personality or use another character's interpretation as direct Sensei interiority.
 
 ### 11.6 Playable variants
 
-Consolidate the person unless the continuity evidence requires separation. Preserve variant-specific setting, role, outfit, event, skill, and dialogue conditions. Variant evidence can demonstrate a contextual repertoire without proving a timeless trait.
+Consolidate the person unless the continuity evidence requires separation. Preserve variant-specific setting, role, outfit, event, skill, and dialogue conditions. Variant evidence can demonstrate a contextual repertoire without proving a timeless trait. Gameplay metadata has no automatic narrative force; alternate/special continuity requires positive source evidence, not a costume name.
 
 ### 11.7 Generated bundles and chunks
 
-Character, relationship, institution, Sensei, and LLM bundles are retrieval projections. They can improve recall but cannot establish scene order, context, speaker identity, or a behavioral pattern independently of the canonical source object.
+Character, relationship, institution, Sensei, and LLM bundles are retrieval projections. They can improve recall but cannot establish scene order, context, speaker identity, or a behavioral pattern independently of the canonical source object. Machine co-occurrence measures retrieval adjacency, not relationship strength. Consequential behavioral inference must return to the complete canonical source unit and its provenance; bundle excerpts alone cannot certify a rule.
 
 ### 11.8 Source anomalies
 
@@ -347,6 +358,8 @@ Examples of invalid reasoning:
 - formal office therefore the character personally endorses every institutional act;
 - affection toward Sensei therefore identical behavior toward peers;
 - a generated scenario sounds plausible therefore the model is validated.
+
+Abstain, or give explicitly conditional alternatives, when the requested state cannot be selected, required character knowledge is missing, chronology changes the answer, no comparable relationship/context is evidenced, a decisive speaker mapping is unresolved, or rival explanations cannot be discriminated. Name the missing evidence or assumption. A requested definite answer does not eliminate these limits.
 
 ## 13. Qualitative thresholds and counterfactual distance
 
@@ -410,7 +423,7 @@ Use only:
 - `UNMODELED` — evidence is routed, but no operational mechanism is yet asserted for scenario use;
 - `PARTIAL_MODEL` — some source-backed mechanisms or rules exist, with substantial unmodeled domains;
 - `OPERATIONAL_CANDIDATE` — rule-based scenario work is supportable under named state/domain conditions, but validation remains incomplete;
-- `BOUNDED_VALIDATED` — named rules have survived specified checks inside an explicit tested envelope.
+- `BOUNDED_VALIDATED` — named rules have survived specified prospective or adversarial checks inside an explicit tested envelope. Retrospective consistency alone does not establish this state.
 
 Readiness is domain-specific. Record it alongside the model-artifact state so a distributed partial account is not mistaken for a completed standalone model. No character receives `OPERATIONAL_CANDIDATE` merely for having many appearances, a source bundle, a checkpoint paragraph, or fluent generated dialogue.
 
@@ -424,7 +437,24 @@ Promotion requires, as applicable:
 6. ordinary-life control or an explicit limitation;
 7. counterevidence and negative constraints;
 8. a stated counterfactual envelope;
-9. at least one preserved validation result for `BOUNDED_VALIDATED`.
+9. preserved fair prospective or adversarial results for the named rules/envelope before `BOUNDED_VALIDATED`, with opportunity, exposure, rivals, and remaining failures visible. An inapplicable or unresolved test does not count as support.
+
+Every readiness record includes a domain, state, supporting mechanism/rule routes, model-artifact status, constraints, validation references, and promotion/demotion reason. Assess mundane social interaction, unfamiliar groups, institutional/professional conduct, conflict, ethical decisions, friendship, romance/dating, public performance, crossover, and high-stakes crisis separately when requested. Unsupported domains remain `UNMODELED`; strength in one cannot raise another.
+
+```yaml
+domain_readiness:
+  - domain: null
+    scope_state_ids: []
+    readiness: UNMODELED
+    mechanism_or_rule_refs: []
+    model_artifact: null
+    required_assumptions: []
+    excluded_transfers: []
+    validation_refs: []
+    last_change_and_reason: null
+```
+
+Readiness can decrease. New counterevidence must narrow or suspend affected rules before further scenario use; preserve the previous decision and failed test instead of averaging them away.
 
 ## 16. Validation
 
@@ -441,7 +471,9 @@ Before opening a later diagnostic source unit, freeze only a small set of materi
 - disconfirming observation;
 - which later observation would be a fair test.
 
-Do not rewrite the frozen wording after source exposure.
+Do not rewrite the frozen wording after source exposure. Freeze an actual committed register under `08 Audits and Manifests/BLUE_ARCHIVE_CHARACTER_MODEL_PROSPECTIVE_REGISTER_<BOUNDARY>.md`; a timestamp in mutable prose is insufficient. Identify the register commit/blob, model revision, basis checkpoint, admitted/excluded source IDs, rule IDs, and known prior exposure. Known outcome exposure makes that test retrospective even if later put in a register.
+
+A separate `BLUE_ARCHIVE_CHARACTER_MODEL_ADJUDICATION_<BOUNDARY>.md` links each frozen entry and records the actual observation, canonical locator, opportunity match, outcome, rival explanation, error category, and resulting rule revision. Do not repair the frozen record to match a later model.
 
 ### 16.2 Adjudication vocabulary
 
@@ -485,7 +517,9 @@ Test whether the model:
 - uses crisis register as baseline;
 - confuses official role with personal endorsement;
 - uses a generated output as evidence;
-- can explain every outcome and therefore predicts nothing.
+- can explain every outcome and therefore predicts nothing;
+- survives a rival explanation after removing the favored motive, changing the relationship or knowledge condition, or reinstating an omitted inhibitor;
+- mistakes narrative function, comedic necessity, or another actor's testimony for demonstrated interiority.
 
 ### 16.5 Error analysis
 
@@ -518,7 +552,7 @@ The construction sequence is:
 2. read the coverage index and current checkpoint;
 3. retrieve affected character, relationship, institution, Sensei, voice, motif, and claim ledgers;
 4. retrieve the strongest source-facing readings and stable IDs;
-5. escalate only wording-sensitive or thin claims to the complete canonical Japanese source;
+5. return to the complete canonical Japanese source units for consequential rules, using the existing reading/provenance routes; prioritize anomalies, disputed wording, and thin support for direct reinspection and record any unresolved source-access limit;
 6. separate baseline, state, relation, role, resource, and crisis conditions;
 7. draft a small rule set with alternatives, counterevidence, and disconfirmers;
 8. define ordinary-life and speech limits;
@@ -557,17 +591,18 @@ Do not create the directory or model merely to complete a roster. Every model mu
 
 A mature literary monograph must explain the character's development, causal/narrative function, contradictions, relationships, language, and interpretive disputes. It may summarize an accepted operational mechanism and link rule IDs, but it must not maintain a competing rule set. The reconstruction model may consume accepted literary authority; it may not dictate literary conclusions through hypothetical output.
 
-## 19. Current Chapter 1 bootstrap gate
+## 19. Current Chapter 2 bootstrap gate
 
 At the current boundary:
 
-- the Prologue and `MAIN_V001_C001` checkpoint are the complete admitted main-story basis;
-- all seven ledgers are current through `BA:main:001:001:020`;
+- the Prologue, `MAIN_V001_C001`, and `MAIN_V001_C002` checkpoints are the complete admitted main-story basis;
+- all seven ledgers are current through `BA:main:001:002:020` and the C002 checkpoint; read their checkpoint reconciliation and cumulative deltas rather than treating older opening tables as the latest state;
 - contextual backfill remains `DEFER` under the checkpoint decision;
 - no bond, MomoTalk, group, event, or performed-voice material has been analytically admitted for a reconstruction model in this tranche;
 - no character is promoted to `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED` by this specification;
 - the coverage index and bootstrap audit govern any later pilot selection;
-- `BA:main:001:002:001` remains unopened until this architecture is integrated and any future prediction freeze is explicitly written.
+- `BA:main:002:001:001` remains unopened; a new story instruction is required, and any intended prospective test must be committed before its diagnostic source is opened;
+- the forthcoming Chapters 3–8 run uses the analytical method's checkpoint reconstruction-delta contract; chapter labels are workflow planning, not an invented chronological remapping of the crosswalk.
 
 The correct present outcome is architecture and evidence triage, not a premature prototype.
 
@@ -584,3 +619,7 @@ This design is Blue Archive-specific but adopts tested methods from:
 - Oregairu's reconstruction models — explicit era selection, attention-to-action pipelines, anti-caricature rules, ordinary-life texture, and compact scenario engines.
 
 The project does not import those projects' filenames, tiers, source assumptions, or artifact volume wholesale. One artifact retains one responsibility, and the Japanese Blue Archive source remains the evidentiary authority.
+
+## 21. Revision and architecture review
+
+Version 1.1 reconciles the recovered C002 boundary with the published C001 design in place. Revise this architecture if recurring evidence lacks a canonical owner; event/variant chronology cannot be represented without leakage; direction or choice conditions are repeatedly lost; models need competing live rules; validation cannot recover its freeze; or the current coverage router disguises domain failures. First repair the existing owner, schema, or routing contract. Add a separate ledger or specialist only for an independent recurring responsibility. Record the reason, version, affected dependencies, and required revalidation in the bootstrap or later scoped audit and current map. Source-admission decisions remain separate from architecture revision.

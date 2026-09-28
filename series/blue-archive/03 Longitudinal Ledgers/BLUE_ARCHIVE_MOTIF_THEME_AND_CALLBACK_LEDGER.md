@@ -4,20 +4,20 @@ artifact_type: ledger
 scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V001_C001 complete
-source_boundary: Sequential main-story reading through BA:main:001:001:020
+checkpoint_boundary: MAIN_V004_C001 checkpoint canonical
+source_boundary: Canonical MAIN_V004_C001 checkpoint through BA:main:004:001:020; BA:main:004:002:001 unopened
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-08-18
+updated: 2026-09-27
 ---
 
 # BLUE ARCHIVE MOTIF / THEME / CALLBACK LEDGER
 
 ## Current boundary
 
-Through `BA:main:001:001:020`; Chapter 1 sequential reading and the canonical `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md` are complete. Historical unit-local states remain preserved below as cumulative deltas.
+Through `BA:main:004:001:020` under the canonical `BLUE_ARCHIVE_MAIN_V004_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas. `BA:main:004:002:001` is unopened.
 
 | Motif / proposition | Current formulation | Status | Evidence |
 |---|---|---|---|
@@ -253,3 +253,1267 @@ The Prologue plus eight Abydos units support a coherent cluster, but no motif sh
 ## Chapter 1 checkpoint reconciliation - `MAIN_V001_C001`
 
 Canonical chapter synthesis authority is `BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md`. Use that checkpoint for the reconciled E001-E020 chapter state while retaining this ledger's unit-local deltas for longitudinal evidence and revision history. Chapter 2 must inherit the checkpoint epistemic firewalls, especially the unresolved Hoshino/Black Suit causation, Kaiser hierarchy, Haruka/Aru responsibility distinction, and Gehenna order-chain questions.
+
+## C002 E001 motif / callback delta
+
+- **Protection ↔ custody:** `庇護` and `安全に確保` convert the language of care into a test of whether the protected person can refuse, leave, or remain politically independent.
+- **Permission / refusal / authorization:** Chapter 1's territorial `許可` question moves inside the Prefect Team through Hina's challenge to Ako's independent deployment and outward to Sensei's refusal of protective seizure.
+- **Trust as coalition infrastructure:** Abydos protects PS68 without absolution; Aru reciprocates by protecting Sensei. Trust enables joint action before complete moral or factual reconciliation.
+- **Enemy shield / mutual defense:** Shiroko's use of PS68 as a shield begins as tactical instrumentality but becomes part of a genuinely reciprocal defense, keeping opportunism and solidarity in the same formation.
+- **Information as security:** Ako treats the Tea Party's Schale report and Schale's uncertain status as strategic hazards. Institutional information flow becomes a motive for controlling a person.
+- **Accident without innocence:** Shiroko's inference about the restaurant preserves a recurring distinction between intent, causation, adopted responsibility, and accountability.
+- **Command as invitation:** Ayane's request that Sensei command the coalition answers Ako's custodial model with entrusted, bounded authority.
+
+## C002 E002 motif / callback delta
+
+- **Committee versus council:** Ayane's E001 distinction is repeated from Gehenna's side when Hina refuses to let the Prefect Team substitute for student government.
+- **Protection versus warning:** Ako responds to uncertainty with custody; Hina responds to Kaiser risk by transferring knowledge and leaving response control elsewhere.
+- **Unauthorized entry → prospective restraint:** `無断` becomes the object of official apology and a promise against recurrence.
+- **Strength as chosen withdrawal:** Hina's exceptional force is expressed through the capacity to stop, apologize, and remove an army in exact order.
+- **Private intelligence → collective deliberation:** Sensei promises to carry Hina's warning back to the full committee.
+- **Rest before interpretation:** the exhausted committee postpones synthesis rather than forcing certainty amid confusion.
+- **Visible idleness / hidden history:** Hoshino's `昼寝` and `おじさん` surface is placed against Hina's memory of first-year Hoshino and `あの事件`.
+
+## C002 E003 motif / callback delta
+
+- **Money as reparation:** contract money shifts from capture/equipment logic into repair of community harm.
+- **Destroyed place / surviving hospitality:** PS68 remembers the meal and promises return; relational effects outlast the physical restaurant.
+- **Debt becomes land:** recurring repayment pressure is revealed to have transferred property title and enabled eviction.
+- **Farewell as continuity:** `さよなら` produces `また会おう`, projected partnership, and ramen return rather than clean severance.
+- **Responsibility before truth:** repair and nonaggression begin while direct-act recognition and full confession remain absent.
+- **Choice as disciplined uncertainty:** Loan/Corporation alternatives stage inference without converting selection into fact.
+
+## C002 E004 motif / callback delta
+
+- **Two kinds of hidden story:** personal concealment around Hoshino and documentary concealment in land title develop in parallel.
+- **Shared fate versus privacy:** `運命共同体` demands governable information but does not erase every member's right not to disclose.
+- **Records as counter-power:** the cadastral map repeats the collection-record motif—administration makes hidden coercive relations visible.
+- **Staying without mastery:** Sensei promises continued presence immediately before problems exceed anyone's current control.
+- **Territory versus title:** lived and defended autonomy is materially contradicted by registered ownership.
+
+## C002 E005 motif / callback delta
+
+- **Debt manufactures choices:** formal council authority operates inside a desperation field potentially engineered by the creditor.
+- **Last land:** the surviving school parcel becomes both institutional remainder and target hypothesis.
+- **Records connect systems:** loan, subsidy, title, and withdrawal documents make hidden relationships actionable while still requiring interpretation.
+- **Returned information:** Sensei's private warning becomes common committee knowledge and produces collective investigation.
+- **Praise beside surveillance:** Shiroko's affirmation of Hoshino coexists with a privacy-violating search, preventing loyalty/mistrust simplification.
+- **Temporary secrecy:** uncertainty delays accusation but creates a future accountability debt.
+
+## C002 E006 motif / callback delta
+
+- **Title versus territory:** registered ownership is separated from lived jurisdiction and the ethics of armed entry.
+- **Retrospective correction:** new facts revise a premise without making the earlier agent irrational or illegitimate.
+- **Information inequality:** Gehenna may know Abydos facts before Abydos, but knowledge does not equal mandate.
+- **`付近` versus `中`:** a small locative distinction becomes evidence of hidden institutional knowledge.
+- **Rail end / walking:** investigation becomes embodied commitment through dangerous, infrastructure-poor space.
+
+## C002 E007 motif / callback delta
+
+- **Oasis → desert / festival → absence:** ecological loss becomes cultural and inter-academy loss.
+- **Inherited story → direct observation:** Hoshino transmits a past she partly knows only through record/oral memory to members seeing the space for the first time.
+- **Land as lived place:** title/collateral analysis expands to water, festival, residence, and social memory.
+
+## C002 E008 motif / callback delta
+
+- **Oasis → fenced installation:** vanished commons is replaced by kilometer-scale enclosure.
+- **Resident → intruder:** property capture changes who can name legitimate presence.
+- **Warning → partial confirmation:** hidden information becomes visible structure, while purpose remains concealed.
+- **Observation discipline:** dust-obscured alternatives are not flattened into a single facility identity.
+
+## C002 E009 motif / callback delta
+
+- **Brand repetition / differentiated entities:** `カイザー` saturates perception while evidence still permits only specific network edges.
+- **Individual strength / institutional scale:** threat lies in organization, vehicles, alarm, and encirclement more than elite combatants.
+- **Private army / public legitimacy:** military professionalism supplies capability, not authority.
+- **Delegated command:** Ayane retains policy and requests tactical coordination.
+
+## C002 E010 motif / callback delta
+
+- **Debt as expandable ledger:** resistance damage can be appended to inherited obligation by the coercing creditor.
+- **Failed proxies → direct leverage:** PS68/Helmet Gang hiring gives way to containment and an idea centered on Hoshino.
+- **Private history → public weapon:** Hoshino's hidden Gematria relation is named by the adversary first.
+- **Negotiation under encirclement:** polite debt discussion lacks meaningful exit or refusal.
+- **Communication failure:** material signal loss bounds Sensei's coordination.
+
+## C002 E011 motif / callback delta
+
+- **Legal form / captured choice:** valid-looking title, records, rates, and withdrawal options administer coercion.
+- **Debt as rope:** creditor control becomes an explicit image of ownership over institutional survival.
+- **School versus individual liability:** exit is made personally rational and collectively annihilating.
+- **`負け戦`:** defeat occurs in finance/choice architecture, not simply combat.
+- **Stale dossier / changed person:** Hina's aggressive-genius record is juxtaposed with present Hoshino without erasing either.
+
+## C002 E012 motif / callback delta
+
+- **Poster / torn inheritance:** the old sand-festival image passes from president to Hoshino before a tearing sound; hope is inherited through conflict rather than simple reverence.
+- **Miracle rejected / miracle repeated:** first-year realism returns as present exhausted possibility, changing the emotional function of `奇跡` without proving belief.
+- **Crime proposed / method restored:** PMC infiltration repeats the bank-robbery temptation and is rejected through institutional memory.
+- **Secret → confrontation → promised disclosure → absence:** information moves toward collective governance, then slips out again before the promise matures.
+- **School as people:** Hoshino's attachment rests on current members rather than intact building, land title, or glorious past.
+- **Debt prices a person:** collective financial obligation is converted into an individual recruitment/sacrifice proposition.
+- **Adult promise / limited control:** care names responsibility but cannot guarantee the student's continued presence.
+
+## C002 E013 motif / callback delta
+
+- **Private contract / public invasion:** one signature becomes Kaiser's asserted switch for harms imposed on an entire community.
+- **`I alone` reproduces itself:** Hoshino's unilateral sacrifice immediately returns in Shiroko's solo-rescue proposal.
+- **Letter as completed choice:** disclosure arrives only after participation in the decision has been removed.
+- **School on paper / school in action:** the director declares disappearance while remaining members evacuate civilians and defend the campus.
+- **Adult distrust → entrusted support:** Hoshino's farewell converts the arrival joke about a useless adult into relational confidence without adult supremacy.
+- **Rights as alienable property:** Black Suit's total-rights language extends the debt/title motif from land and school into the person.
+- **Home under occupation:** the place Hoshino calls uniquely meaningful is simultaneously subjected to eviction and seizure.
+
+## C002 E014 motif / callback delta
+
+- **No papers / still a polity:** formal invisibility is placed against continuing governance, solidarity, and defense.
+- **No one will help / allies arrive:** the director's abandonment thesis is immediately contradicted by a relationship created through conflict, food, repair, and promised return.
+- **Ramen return:** PS68's stated food visit recalls Shiba Seki hospitality even after the restaurant's destruction.
+- **Company ambiguity exposed:** entity separation becomes narratively decisive when Black Suit admits interest-aligned cooperation rather than affiliation.
+- **Outlaw force repurposed:** explosives prepared against the Prefect Team become defensive coalition infrastructure.
+- **Adult deception / adult collaboration:** Black Suit and Sensei occupy opposing models within Hoshino's newly explicit adult-trust problem.
+- **`だから何`:** hope is not denial of structural facts but refusal to let them finish political action.
+
+## C002 E015 motif / callback delta
+
+- **Bought dog / chosen partner:** prior contract is denied the power to fix future allegiance.
+- **My student / all rights:** competing relational grammars sharpen the boundary between protection and possession.
+- **Commander down / institution unresolved:** tactical victory produces time rather than restoration.
+- **Unofficial but acting:** documentary invisibility loses its paralysis effect without ceasing to matter structurally.
+- **Retreat as discipline:** after forcing enemy withdrawal, the coalition chooses regrouping instead of triumphal pursuit.
+- **Face-to-face threshold:** collective battle yields to a direct encounter between contrasting adult models.
+
+## C002 E016 motif / callback delta
+
+- **Adult as responsibility / adult as ruler:** the series' adult question becomes an explicit ideological opposition.
+- **Unsigned form:** paperwork that enabled capture is interrupted by missing consent, showing rule form can protect or dominate.
+- **Water in the desert:** life-saving provision becomes the image for debt that converts need into lifelong servitude.
+- **School for one student:** the sacrificial bargain offered to Hoshino is repeated to Sensei and refused.
+- **Finite card / ordinary life:** care is framed as costly expenditure against Black Suit's invitation to reserve life for oneself.
+- **Welcome home plus scolding:** rescue means restored belonging and answerability, not innocence or possession.
+- **Solitary encounter → coalition idea:** adult action returns information to group planning instead of ending the crisis alone.
+
+## C002 E017 motif / callback delta
+
+- **Kneeling for students / boundary crossed:** humility and professional impropriety occupy the same comic action.
+- **Indirect armies / local route:** large-school force enables rather than authors the rescue operation.
+- **Destroyed shop / living stall:** institutional continuity moves from building to repeatable community practice.
+- **Repair money bears fruit:** E003's incomplete reparation materially enables reopening and renewed aid.
+- **Ramen as compensation:** hospitality is reinterpreted as sufficient payment for dangerous solidarity, while Aru's fear remains.
+- **Persona capture toward care:** the same performance mechanism that enabled harm now sustains prosocial risk.
+- **People over shell:** the master's store theory answers the director's school-disappearance theory without denying material loss.
+
+## C002 E018 motif / callback delta
+
+- **Artillery as opened path:** outside force is legitimate insofar as it enables the recipient's mission rather than replacing it.
+- **Buried school / experimental lab:** institutional origin is physically appropriated for objectifying research.
+- **Singular sacrifice interrupted:** Shiroko's `私に` is cut off by allies willing to distribute risk.
+- **Hold here / go ahead:** coalition works through differentiated roles, not undifferentiated mass.
+- **Ramen after the battle:** hospitality moves from remembered meal to future promise, making survival relationally prospective.
+- **Heroic line / private panic:** outward courage remains entangled with persona capture and fear.
+
+## C002 E019 motif / callback delta
+
+- **Joy frustrates coercion:** daily happiness is revealed as a condition the director tried and failed to destroy.
+- **Rare miracle / ordinary miracle:** Hoshino's former definition is answered by relational continuity across yesterday, today, and tomorrow.
+- **Senior's unfinished sentence / juniors arrive:** present rescue completes the remembered anticipation without explicit exposition.
+- **Bunker / helicopter / breach:** coalition capacity becomes physical passage to the isolated member.
+- **Welcome home / I'm home:** the planned callback is completed through Hoshino's chosen reply.
+- **Rescue without erasure of fault:** affectionate return precedes, but does not cancel, future accountability.
+
+## C002 E020 motif / callback delta
+
+- **Lived committee / certified committee:** relational existence gains documentary protection without being created from nothing.
+- **President refused / office remains open:** repaired governance preserves a member's ability to decline authority.
+- **Interest reduced / principal remains:** partial structural relief replaces miracle-cure closure.
+- **Director fired / corporation retains land:** accountability is individualized while institutional benefit persists.
+- **Destroyed shop / busy stall:** hospitality continuity becomes stable aftermath rather than symbolic promise.
+- **Bad ideas rejected again:** ordinary method correction resumes with Hoshino present.
+- **Lost things / things not let go:** material dispossession coexists with retained people, practice, memory, and future capacity.
+
+## MAIN V001 C002 checkpoint motif state
+
+> **warning → verification → land memory → enclosure → creditor domination → secret bargain → signed sacrifice → invasion → differentiated coalition → passage → reciprocal return → formal repair with structural remainder**
+
+The strongest paired motifs are debt/person, paper/practice, solitary sacrifice/collective roles, buried school/laboratory, miracle/ordinary continuity, and rights claim/welcome reply.
+
+## V002 C001 E001 motif / callback delta — play as a service interface
+
+- **Game world / threatened club:** the supposed world-saving prologue accidentally names the real `廃部命令`. Creative fiction becomes the club's petition language without making Millennium Land literal cosmology.
+- **Hero → teacher:** the script's chosen-one address gives way to `先生`; actual relation and fallible presence challenge fantasy omnipotence.
+- **Letter as cross-school service interface:** as with Abydos, a student-authored request arrives through Schale and produces travel, though the dispute remains unadjudicated.
+- **Adult injury/comic reversal:** the hero is knocked out by a discarded console; dependency appears before aid, distinct from the Abydos dehydration/rescue case.
+- **Asset and affection:** Midori's console concern and apology place valued creative equipment beside care for Sensei, not in a zero-sum moral category.
+- **Making versus administration:** scenario writing, illustration, planning, 16-bit games, and a reported dissolution order establish a conflict between creative labor and institutional evaluation; council reasons remain absent.
+- **Ruins as suspended destination:** Momoi's destination is named but unexplained; no symbolic interpretation of it is licensed yet.
+
+## V002 C001 E002 motif / callback delta — measurable result versus cherished value
+
+- **Fantasy antagonist / real steward:** Momoi names Yuuka as a monster-like `四天王`; Yuuka's budget reasoning is intelligible but her insults make the steward role ethically mixed.
+- **`結果` double use:** Yuuka points to poor reviews as closure; Momoi accepts current failure yet promises a future prize result. The contest turns evaluation into a conditional, time-limited route.
+- **Discretion inside finality:** `誰にも覆せない` gives way to Yuuka's voluntary two-week delay, exposing flexibility beneath absolute rhetoric.
+- **`ガラクタ` / `宝物`:** administrative devaluation of equipment/games is answered by Momoi's memory of the happiness games produced, distinguishing worth from rank without denying quality problems.
+- **Failed recruitment / wrong attribution:** Momoi blames Yuuka for scarce friends; Midori recalls their own role and prior month of unsuccessful recruiting.
+- **Hero/trump-card risk:** E001's `勇者` becomes E002's `切り札`; both can instrumentalize a requested adult before danger/agency is clear.
+- **Mysterious zone/object:** the ruins and `G.Bible` are deliberately withheld causal bridges, not permission to import later lore.
+
+## V002 C001 E003 motif / callback delta — forgotten things and shortcut knowledge
+
+- **Hidden/forsaken site:** a supposedly restricted location is physically patrolled yet off ordinary maps, complicating the idea of an empty `廃墟`.
+- **`時代の下水道` as hypothesis:** Himari's reported image of discarded time resonates with Momoi's retro-game defense, but is carefully hedged and not proof of how objects move.
+- **Last-seen versus found:** technical coordinates strengthen a search hypothesis while exposing the leap from past operation to present possession.
+- **`ゲームの聖書` as shortcut temptation:** Momoi hopes legendary knowledge will rapidly yield a prize-worthy sequel; Midori's advertisement analogy resists treating a promise as evidence.
+- **Game quest / actual risk:** an object hunt becomes hiding, robots, and encirclement; fantasy-hero framing now has bodily stakes.
+- **Requested command:** Sensei's observation of refuge and Midori's request repeat the V001 bounded-command pattern in a new institutional context without proving full-series universality.
+## V002 C001 E004 motif / callback delta — classification and shelter
+
+- **Access versus belonging:** the facility's `資格` category first excludes the sisters then includes them derivatively through Sensei; the club then considers membership for a girl whose school status is unknown. Neither classification equals a freely chosen relationship.
+- **The door beneath:** an apparently helpful opening becomes a fall, and Sensei's cushion turns procedural access into bodily responsibility.
+- **Name from a misread mark:** `AL-IS` becomes corrected `AL-1S`, then a provisionally accepted `アリス`; a readable label must not replace recovered biography.
+- **Care versus use:** the sisters clothe and shelter Alice before Momoi sees a membership solution. Genuine care is not negated, but her dependence makes recruitment more ethically charged than an ordinary invitation.
+- **Game language tested:** Momoi's RPG-corpse joke and hardware fascination coexist with a vulnerable, possibly artificial person; game framing is not sufficient to explain her status.
+- **Unfound object:** searching for a legendary design shortcut has instead produced a person. The source does not establish that Alice is `G.Bible` or the intended prize.
+
+## V002 C001 E005 motif / callback delta — a difficult game as contact zone
+
+- **Refuge versus disguise:** the club is said to be Yuzu's place; saving it drives a plan to manufacture Alice's student legibility. One person's shelter may risk another's agency.
+- **Critical rating versus witnessed joy:** the game has demonstrable craft flaws, yet Alice's reported fun/replay desire and tears matter deeply to its makers. Quality and received meaning need not collapse into one scale.
+- **Instruction as trap:** B means failure while A progresses; Momoi calls unpredictability romantic, Midori sees unfair design. Alice's retries make play a learning site but not costless pedagogy.
+- **Borrowed speech:** Alice's RPG register expands from machine definitions; imitation can enable contact without yet being authentic self-description.
+- **Hidden president revealed:** Yuzu heard the response from the locker, giving a literal audience to the previously absent stake in club survival. Her motive for hiding remains open.
+
+## V002 C001 E006 motif / callback delta — a party and a student card
+
+- **Game language as relational bridge:** Alice maps Yuzu's welcome to a party-join announcement and asks for feedback; shared play is more than a disguise tool, even as the plan exploits it.
+- **Quantity versus fit:** rapid reading and overnight completion multiply acquired lines, but `必滅者よ` signals poor transfer to ordinary interaction. More repertoire does not equal natural speech.
+- **Legibility without legitimacy:** the student card gives visible form to the club's desired status; Momoi's `ハッキ……登録` preserves the ethical gap between database presence and authorized belonging.
+- **Affirmed `仲間`:** Alice's own party-like declaration strengthens social inclusion without retroactively consenting to hidden credential production.
+- **The remaining weapon:** the plan's next item exposes another gap between being treated as a student and having an understood, chosen role in the school.
+
+## V002 C001 E007 motif / callback delta — romance of invention, qualification, harm
+
+- **RPG artifact made material:** the name `光の剣` activates Alice's desire for a real railgun; earlier borrowed game experience cannot substitute for firearms training, yet her physical ability is real.
+- **`ロマン` and scarce budgets:** Engineering Club ambition echoes the Game Development Club's creative-value defense, but the 70%-budget prototype and ceiling damage expose external costs.
+- **Qualification returns:** E004's automated access `資格` and E007's late engineering `資格` classify people differently; neither establishes legitimate school status or comprehensively judges Alice.
+- **Choice versus safe use:** Alice chooses, lifts and fires; respecting preference is not equivalent to protecting workers or managing recoil and blast.
+- **Expert inference versus origin:** Utaha reads the body as combat-designed/self-repairing, but the episode ends on `君はいったい……？`, an unanswered question rather than a reveal.
+
+## V002 C001 E008 motif / callback delta — three meanings of eligibility
+
+- **Three `資格` gates:** factory access in E004, Engineering Club railgun test in E007 and Yuuka's club-membership review in E008 have different authorities and consequences. Passing one cannot certify another; classification is not belonging.
+- **Card versus will:** E006's student ID and Alice's `仲間` utterance are challenged by Yuuka's direct voluntariness criterion. The game-loving recruit is neither a mere fabricated record nor demonstrably fully informed about it.
+- **RPG role versus civic role:** Alice can recite a school introduction when cued but first offers an avatar biography, later a tank role, then a shaky programmer claim. Learning a script is not the same as occupying its claimed institutional history.
+- **Hero/villain framing misfires:** Momoi's earlier antagonist treatment of Yuuka becomes Alice's `妖怪` insult; Momoi's `妖精` repair cannot remove the face-to-face relational cost.
+- **Question cliffhanger:** the episode stops before Yuuka asks anything substantive. `バッドエンド` signals Alice's anxious frame, not a foretold ruling.
+
+## V002 C001 E009 motif / callback delta — recognized, not released from conditions
+
+- **Visible paper versus chosen belonging:** Yuuka checks the roster and sees the card but does not rest approval on those alone; Alice's game enthusiasm matters. The source leaves status provenance and free choice unresolved.
+- **Number plus outcome:** four members secure formal recognition, then `今学期` and `今月末` reintroduce measurable production. Yuuka's earlier result demand survives the membership route; neither route alone is permanent rescue.
+- **Game syntax exposed to literal risk:** Alice answers a work-role question with party combat terms and describes revival at inns/churches. Yuuka's rest warning is a reality check, not acceptance of the fantasy as bodily truth.
+- **Guilt becomes shared stewardship:** Yuzu moves from hidden listener/locker to an explicit offer to protect a room now shared by others; the group celebrates her as party member. Whether she can make the trip remains future-facing.
+- **Shortcut temptation returns:** lacking demonstrated results, the club again hopes `G.Bible` will help produce a prize-worthy game. E003's coordinate and legend skepticism remain active; no discovery is shown.
+
+## V002 C001 E010 motif / callback delta — party courage meets asymmetric bodily risk
+
+- **Return to the ruins:** E009's spoken group resolution is enacted; Yuzu leaves the locker/room setting and acts under fire. The move matters without resolving why she was secluded.
+- **RPG vocabulary with a reality check:** Alice calls herself a light-area attacker and cites 27 dungeons/139 raids as confidence; Midori explicitly insists those are games. Shared play supports courage but cannot establish battlefield odds.
+- **Teacher as party member, not invulnerable hero:** Momoi warns Sensei to duck, Midori flags injury risk, Alice promises protection and asks trust; Sensei can assent as `仲間`. The Prologue/V001 bounded-adult motif recurs without proving safety.
+- **Sound/coordinate shortcut:** a disputed tactical argument treats noise as robot-attraction and the factory as a `G.Bible` coordinate destination. Neither mechanism nor object location is confirmed; narrative urgency does not convert them into facts.
+- **Authority by invitation:** Midori requests Sensei's command after the group chooses danger, echoing earlier requested battlefield coordination while leaving club purpose and consent distinct.
+
+## V002 C001 E011 motif / callback delta — named data, inaccessible knowledge
+
+- **Found versus understood:** E003's legendary `G.Bible` search yields a transferred `G.Bible.exe`, but a password blocks use. The “shortcut to a great game” remains a hope, not a demonstrated property.
+- **`AL-1S` returns as a credential:** E004's body marking is echoed by terminal voice recognition and `おかえり`; Alice's felt familiarity intensifies the identity mystery without answering it.
+- **Access costs:** the terminal's automatic save deletion converts an apparently helpful transfer into an unannounced sacrifice of Momoi's play history. A game archive costs another game archive; consent to the card is not consent to every overwrite.
+- **Discarded treasure:** cryptic `廃棄対象データ第1号` jars with Momoi's `宝物` rhetoric, recalling Yuuka's `ガラクタ`/Momoi's value conflict without proving the data's quality or origin.
+- **Party promise becomes escape allocation:** under robot fire, Momoi tasks Yuzu to protect Sensei and herself/Alice to hold the rear. E010's protective promises are not yet tested to a successful exit.
+
+## V002 C001 E012 motif / callback delta — mirror, home and rival protection
+
+- **Original yet still unread:** E011's filename-only hope gains Maki's metadata/IP-based original-file appraisal, but password security still withholds content. A provenance story is not the sought creative method.
+- **A mirror to reach a guide:** the rare `鏡` promises a technical bypass, while its confiscation and Kotama's phone-message rationale turn “access” into a question of privacy and permission as well as possibility.
+- **Game language to real companionship:** Alice's raid-party analogy becomes an explicit `仲間` claim; Midori calls the cramped leaking clubroom a place to be together. Play vocabulary now expresses belonging, while C&C danger keeps the metaphor from establishing combat power.
+- **Care on both sides of security:** Momoi fears for friends; Midori wants to preserve their common space; Yuuka hires C&C to defend seized goods. Protective rhetoric is distributed across opposing students, not a reliable truth or victory marker.
+- **Absent leader / present information:** Nel is away, but Akane says guarding may not suffer; Himari is absent from direct dialogue yet Yuuka attributes the warning to her. Absence does not mean causal irrelevance or known motive.
+
+## V002 C001 E013 motif / callback delta — security as trap, rescue as debt
+
+- **False compliance:** Alice's conspicuous elevator break makes Yuuka reject the obvious engineer repair, yet a concealed engineer replacement enters. The tool that promises stronger security becomes the vulnerability; a correct suspicion about one vector is not complete control.
+- **Surveillance is not sight:** the recorded Momoi/Midori feed attracts Akane while hiding Maki/Kotori until reset. The old `鏡` access problem becomes a broader issue of who can trust an image or permission signal.
+- **Authorized by a compromised system:** Akane/Noah fail fingerprint checks while the intruding trio receives an approval chime. The machine's `承認` echoes Alice's E004/E011 access labels without transferring their legitimacy; authentication and rightful authority part company.
+- **Rescue obligation created by a plan:** Yuzu promises to retrieve Alice from custody, and Momoi fears a failed follow-up would make that confinement pointless. Fellowship creates obligations to a friend used as decoy, not merely a triumphant party metaphor.
+- **Adult hand, not adult monopoly:** Midori asks Sensei to hold hands in darkness and call phase two, then the group can resist a retreat variant. Earlier bounded-adult and care motifs recur inside student initiative.
+
+## V002 C001 E014 motif / callback delta — certainty interrupted
+
+- **Control statements fail locally:** Momoi's floor-control boast meets sniper fire; Karin's certain-hit claim meets a chair and indirect artillery; E013's shutter trap meets Akane's explosives. Neither side's control vocabulary guarantees a durable result.
+- **A chair as cover:** Utaha's walking `雷の玉座` turns an extravagant engineering object into cover/diversion, while its fall keeps the invention from functioning as an invulnerable mascot.
+- **Open roof, hidden arc:** Karin argues the roof's lack of cover favors her; Utaha uses its lack of ceiling to admit Hibiki's curved fire. One physical feature supports rival readings depending on vantage and collaboration.
+- **Rescue and risk remain paired:** the club hurries toward Mirror while Alice remains in custody, Akane pursues and Sensei walks through darkness after sniper fire. A fellowship goal continues to generate duties it has not yet fulfilled.
+- **Intuition against calculation:** Asuna's self-described `予感` puts her where the calculated plan expected no C&C member. Her arrival tests the plan, not a verified supernatural faculty.
+
+## V002 C001 E015 motif / callback delta — the contingency has its own cost
+
+- **Plan clocks versus institutional time:** the flashback's 2/5/11/13/20-minute schedule assumes a manageable capture, but Yuuka threatens a week that would erase the contest deadline. Technical timing misses the social/disciplinary clock.
+- **Club membership is a production relation:** Momoi realizes that, even with Mirror, Alice/Yuzu alone cannot complete the game as she assumed. E012's shared room is not only sentimental; cooperation is materially necessary. The source still does not prove the file makes a winning game.
+- **Captured companion becomes agent:** Alice uses the planned power/hack cue to leave the room and chooses comrades over a solo rush to Mirror. The RPG party principle moves from E012 declaration toward an observed choice, without erasing the earlier custody cost.
+- **Adult limits named openly:** Sensei may urge persistence or apologize for insufficient power; Yuuka may protest to Schale. This reprises agency-preserving adult help under external accountability, not teacher omnipotence or automatic guilt.
+- **Spectacle and attribution:** one beam reverses the local balance and disables Asuna/robots by report, yet its shooter lines are unlabeled; the rooftop “club” defense dialogue is label-flipped. Narrative payoff cannot justify laundering uncertain person motives.
+
+## V002 C001 E016 motif / callback delta — found means, unfinished end
+
+- **The object is not the answer:** Mirror moves from seized target to Alice's hand, but Yuzu explicitly says `G.Bible` is the purpose. A possession payoff does not deliver password access, creative method or the game itself.
+- **Rescue by frightened action:** Yuzu's earlier shared-room resolve and Alice-rescue promise become a real intervention before Nel. Her fear remains present; `度胸` is demonstrated as acting amid fear, not absence of fear or a battle win.
+- **A defender diverted by a safety story:** Yuzu protects the hidden party through a false emergency; Nel responds to what she takes as a containment need. Care/role language operates on both sides of the deception and does not make the raid's authority settled.
+- **Heroic claim versus measured threat:** Alice calls Mirror world-saving while privately estimating almost no chance against Nel. RPG-scale speech and immediate vulnerability coexist; neither should overwrite the other.
+- **Collective safe return as an unspoken wish:** Sensei's internal hope is followed by the students' movement toward more robots. The callback is an ethical desire, not a guaranteed outcome or a spoken adult command.
+
+## V002 C001 E017 motif / callback delta — arrival without the promised answer
+
+- **Successful retrieval, failed expectation:** the club reaches home, Mirror is reportedly returned, and Bible opens. The first shown response is despair, so technical access cannot stand in for creative salvation; the exact content remains withheld.
+- **Clubroom as conditional home:** Momoi ties game quality to staying together, Alice fears separation and Midori imagines a Schale fallback. E012's beloved cramped room now has explicit institutional precarity, not a guaranteed refuge.
+- **Contract versus personal curiosity:** Rio's reported withdrawal ends C&C's formal defense mission, while Nel plans a separate inquiry. Institutions may close a job without ending relationships or scrutiny; neither future revenge nor welcome is shown.
+- **An unread key beside an open guide:** `G.Bible` becomes openable while `<Key>` remains undeciphered. The repeated `AL-1S` prompt creates a possible callback to E011 but not an identity answer.
+- **Two-hour reversal:** scene 2's collapsed expectations precede the narrated preparation in scenes 3–4. The temporal device pressures the miraculous-secret rumor without yet revealing what contradicted it.
+
+## V002 C001 E018 motif / callback delta — love cannot substitute for work
+
+- **The revealed secret is no shortcut:** Bible says `ゲームを愛しなさい`, where the club had hoped for a miraculous production method. The advice is neither shown false nor sufficient; Momoi's renewed start requires actual labor under the deadline.
+- **The player as witness:** Alice's enjoyment and wish not to leave the game's dream counterbalance negative reviews and the club's self-condemnation. A player can validate a meaningful experience without proving a market hit or technical perfection.
+- **A hostile crowd and a small sustaining audience:** six-month flashback comments drive Yuzu inward, while Momoi/Midori's praise gives her collaborators; Alice's later praise fulfills a dream. Public ranking and intimate reception are different measures, not mutually exclusive facts.
+- **Home built by repeated making:** Yuzu's wish for the shared dream to continue answers E017's separation fear through a new commitment, not by securing legal standing or removing the council's deadline.
+- **Layered time, unfinished future:** E017's two-hour flashback resolves the cliffhanger; E018's six-month flashback explains Yuzu's stakes. The final six-day interval moves from history to an outcome-open project.
+
+## V002 C001 E019 motif / callback delta — made and seen, not yet judged
+
+- **Creative work reaches an audience:** the sequel is registered and separately released on the web. Yuzu's earlier desire for someone to play becomes a chosen public exposure, while pre-play comments show attention is not the same as approval or completed reception.
+- **From review injury to response restraint:** the first mocking comment tempts Alice to disproportionate beam retaliation; Midori forbids it. Yuzu answers with a distinction between actual play and uninformed derision. A care-driven impulse still needs a limit.
+- **The room is worth preserving materially:** under Karin's incoming shots, Momoi evacuates partly to spare Sensei and the clubroom. The E012 shared-place motif becomes an immediate tactical constraint, not just an ideal.
+- **Strength has a geometry and cost:** Alice's high-output beam tears a wall but Nel exploits delay/close range; Alice's floor shot changes geometry at 48% reported self-damage. Raw power does not establish victory or safe use.
+- **Test, not revenge, by Nel's account:** Nel recognizes the club's tactical success, denies personal vengeance, tests Alice and then stops pursuit. Her choice has a boundary, though the coerced fight and collateral remain ethically unsettled.
+
+## V002 C001 E020 motif / callback delta — home through an exception
+
+- **Maid uniform after battle:** Momoi's comic prop reactivates Alice's fear; bodily repair by Midori's appraisal does not make the encounter emotionally finished. The locker callback transfers Yuzu's former refuge into Alice's post-Nel response without equating their histories.
+- **A room threatened, then held:** the top-seven miss evokes immediate packing, Yuzu's dorm and Alice's Schale/personal-room alternatives. The special award and temporary council hold keep the shared room available now, but its future remains conditional.
+- **Utility becomes remembered play:** the judge recognizes an RPG's ability to revive first-game wonder and future possibility. This follows E018's Alice-as-player testimony and E019's public release, yet the jury's institutional criterion differs from the friends' intimate reception.
+- **Apology inside governance:** Yuuka retracts `ガラクタ` and thanks the club without nullifying results requirements. Care is an institutional revision plus procedural follow-up, not a magical permanent exemption.
+- **A second clock under the celebration:** the final 98% data-restoration/`Divi:Sion` text reopens Alice-adjacent uncertainty while the club celebrates. It is audience-facing stinger, not proof of recovered memory or a named speaker.
+
+## MAIN_V002_C001 checkpoint motif reconciliation
+
+The locked-secret sequence repeatedly exchanges access for a fresh limit until Bible's maxim returns the makers to labor and audience. Game fantasy is not mere escape: it gives Alice language, friends and a way to tell the creators what their work means, while also producing misreadings and risky action. Clubroom-home moves from shared play through combat-protection to provisional council extension. The special prize broadens `実用性` without making creative worth identical to ranked victory or permanent security. A separate 98%-restoration stinger interrupts celebration with audience-only uncertainty. [Checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md) governs.
+
+## V002 C002 E001 motif / callback delta — two definitions behind the celebration
+
+- **Secret cooperation reclassified:** Mirror and C&C are now named by their covert suppliers as a staged Alice test. The Chapter 1 club's game-making ordeal was real to its participants; the audience newly sees another layer of instrumental design, without erasing student authorship.
+- **Princess / weapon / junior:** shared mythic classification turns into incompatible practical meanings. Rio's threat reading and Himari's junior framing make Alice's C001 chosen belonging ethically salient but do not prove safety or danger.
+- **Rationality and performative play:** Himari uses exaggerated humor while anticipating arrest and hacking security; Rio literalizes a joke while keeping secret records and preparing force. Neither register alone certifies ethical or technical superiority.
+- **Home versus containment:** E020's provisional clubroom welcome is followed by a covert plan to classify/possibly contain Alice. The audience knows this conflict before the club does; the narrative creates suspense through unequal information, not through a revoked prize.
+
+## V002 C002 E002 motif / callback delta — play after recognition
+
+- **A “normal day” after a secret threat:** clubroom play and brainstorming resume while E001's covert classification is unresolved. The tonal cut creates audience/character knowledge asymmetry, not proof the threat has ended or reached the club.
+- **Next prize is an ambition:** the special award enabled a provisional room; the four friends now imagine a hybrid game and another Millennium Prize. Creative energy, finished work and official recognition remain distinct tests under BA-C019.
+- **Fair play is relational:** Yuzu can deploy a strong trapping technique against apparent unfair play but avoids overuse with friends because it would endanger shared enjoyment. Winning and sustaining the game relationship are separate values, not a simple skill/fear opposition.
+- **Measured display versus fictional buffs:** visible `UZQueen` victory grounds a bounded tactical reading; invented “mode” multipliers parody game-stat literalism and cannot quantify Yuzu's mind or vision.
+
+## V002 C002 E003 motif / callback delta — making a game is also deciding how to make it
+
+- **Spectacle costs labor:** a tower/elevator/explosion image excites one line of ideation, but Midori invokes earlier mostly unused dungeon drawings. Alice's joy in drawing does not cancel the collective feasibility question. BA-C019's plural creative tests now include production labor and usable scope.
+- **The judge trap:** both twins ask Sensei to declare a winner; Yuzu notices the social pressure and shifts to the club's own game custom. Adult presence does not automatically arbitrate student making, but a game match does not guarantee a sound design.
+- **Teacher as item/guardian/party member:** Alice values the reported `はなまるシール` and drawn guardian, while Sensei prefers party membership; in campus play both begin at level one. Fictional invincibility is contrasted with reciprocal, non-omniscient companionship.
+- **Forward as a borrowed lesson:** Sensei repeats Alice's `前進` maxim and returns credit. Her heroic language becomes a practical action cue for an uncertain idea search, not evidence the quest is already completed.
+
+## V002 C002 E004 motif / callback delta — random encounters and divergent roles
+
+- **Adventure becomes social translation:** Sumire's jog is a “random encounter” for Alice; they agree on repeated effort while meaning RPG leveling versus bodily training. Game language enables contact without making every metaphor literal.
+- **Costume versus identity:** Alice mistakes student uniforms for a schoolgirl job change; Karin corrects her. Asuna's playful quest adoption coexists with a real reported C&C inquiry and Karin's secrecy limit.
+- **Party expansion and lingering fear:** Alice invites Asuna/Karin for a next adventure but retreats on learning Nel may seek her. E020's post-fight fear remains a specific relationship state, not globally cured by ordinary play.
+- **Secret and uncertain knowledge:** E001's covert Alice classification is still unknown to this group. E004's different Gehenna secret is quickly disclosed by Asuna and produces uncertain field answers, foregrounding how little a “secret task” guarantees knowledge.
+
+## V002 C002 E005 motif / callback delta — social reward is not quest completion
+
+- **“Quest” gifts and ordinary belonging:** unnamed students encourage Alice and offer sweets, while engineers affirm her care for the `光の剣`. These are concrete social rewards for an ordinary day, not progress on the intended game-idea quest.
+- **The trap move travels without its inhibitor:** Alice cites Yuzu's E002 `ハメ技` as permitted game content against Nel, who protests. Learning a tactic and learning its friend-play ethics are different processes.
+- **Enemy to ally, not no-friction:** Alice says Nel is now a game companion, but maid clothing still bothers her and repeated matches consume time/food. Akane's one-hour limit contains the arcade loop; reconciliation is plural and conditional.
+- **Light adventure and dark interruption:** Alice closes a fun but unsuccessful inspiration day with a heroic future, then narration withdraws the assumption ordinary days will simply continue. The foreboding is audience-facing, not proof Alice knows the E001 threat.
+
+## V002 C002 E006 motif / callback delta — creative curiosity becomes inaccessible machinery
+
+- **Romance versus junk prior:** Maki's world-historical excitement and Kotama's likely-junk caution bracket a find neither can open. Activation invalidates simple inertness, not automatically one interpretation of origin or danger.
+- **A room of five, a wider field reported:** the narrator's five objects and Maki's twenty-plus outside expand possible exposure, but source levels differ; physical count and reported remaining number must not be collapsed.
+- **The second Alice clock:** E020's audience-only `Divi:Sion`/98% stinger and E001's researcher conflict now have a new `AL-1S`/`ATRAHASIS` echo. These are callbacks and pressures, not a solved causal diagram or proof Alice's club identity was false.
+- **Ordinary support meets an unreadable state:** friends help Yuzu enter and react to Alice's change, while Sensei and Veritas cannot explain it. E005's belonging and pleasure remain real but do not confer technical security.
+
+## V002 C002 E007 motif / callback delta — the room/home is damaged
+
+- **Protocol language becomes local violence:** E006's `AL-1S`/`ATRAHASIS` activation is followed by explosion, survival-target language and reload. It validates immediate danger, not the world-ending scale or Alice's voluntary intent.
+- **Earlier sparring relationship turns protective:** Nel, just seen pulling Alice into arcade play, now halts the crisis with C&C. Their bond is neither simple enmity nor automatic safety; method/state after intervention remain uncertain.
+- **Shared room as material home:** C001's temporarily saved clubroom is now wrecked by Nel's account. Institutional reprieve and physical security are non-substitutable, sharpening BA-C019 without negating earlier belonging.
+- **Cliffhanger redirects care:** Kotama/Maki can answer, then Midori/Yuzu name Momoi before the card. The narrative withholds her condition; suspense cannot be translated into a diagnosis.
+
+## V002 C002 E008 motif / callback delta — saved progress versus missing memory
+
+- **Unconscious sister and burned room:** E007's alarm becomes two-day unconsciousness at Schale while the clubroom fire persists as material rupture. C001's social/institutional home has not been made medically secure.
+- **Game-machine and `<Key>` echoes:** Midori's console-start report and Sensei's ruins memory call back to E017/E020 `<Key>`/`Divi:Sion`, but the source asks whether they connect and the console now fails to start. A motif is not a decoded system diagram.
+- **Save data without recall:** Alice uses her habitual game language for a terrifying body/memory split. Her self-blame expresses care for Momoi while not resolving whether she chose or controlled the attack.
+- **Rio's “truth” arrives into vulnerability:** the president names an anticipated concern just as Alice asks what to do. Her timing/claim exerts authority, but its substantive truth and ethical use await later source.
+
+## V002 C002 E009 motif / callback delta — imposed demon king and disobedient guard
+
+- **Hero/game language inverted:** Rio appropriates Alice's cherished `勇者` register to name her `魔王` and treat a protocol-state injury as her chosen villain role. The analogy has emotional force and unresolved causation; Alice's wish to quest with friends is a present countervoice.
+- **“Truth” versus test:** E008's promised truth becomes an interested classification with an admitted monitoring miss. The local incident is real, but the leap to Alice as summoner/world ender remains hypothesis, not a completed scientific callback to E001.
+- **Bomb/safety imagery:** Rio's “disassembly” metaphor resolves into halo destruction. Technical risk language cannot hide the represented proposed action or its missing necessity proof.
+- **From enemy/ally play to refusal:** E005 Alice's Nel ally/arcade bond and E007 C&C rescue meet Rio's command claim. Nel declines to abduct an uninformed fellow student, giving institutional obedience a concrete limit without turning her into a universal protector.
+- **Fifth C&C echo:** Toki's callsign-zero-four introduction after Rio's contingency recalls E001 Himari's fifth-member guess, but the earlier encounter's identity is still not directly confirmed. The next battle is withheld.
+
+## V002 C002 E010 motif / callback delta — darkened sword and farewell
+
+- **C001's hero gift darkens:** the Engineering Club's `光の剣`/Supernova, called precious by Alice in E005, loses power in Rio's confrontation. Rio treats its failure as proof Alice is no hero; the equipment event cannot decide personhood, but the sign's loss contributes to Alice's despair.
+- **“Adult” care inverted:** Rio calls Sensei's attachment an `エライザ効果` and demands cold adult judgment. This echoes earlier adult-responsibility claims while replacing uncertain care with a contested categorical exclusion; the comparison does not revise earlier story facts.
+- **Protection as coerced withdrawal:** Alice uses the club's bonds as the reason to vanish, repeating Rio's non-life/non-student frame. Her thanks for adventures preserves the reality of belonging precisely as it is threatened.
+- **The rescue team immobilized:** Nel's defiance and friends' objections do not prevent AMAS/Toki seizure. Narrated helplessness records local failure, not a completed halo destruction or permanent end of the bond.
+
+## V002 C002 E011 motif / callback delta — contesting the ending
+
+- **A game ending refused:** Momoi calls Alice's forced farewell not even a proper `エンディング`. Her familiar game register now names the ethical failure of treating a coerced parting as a settled terminal state.
+- **Potion/level-up return:** after two days unconscious, Momoi portrays herself as fully replenished by sleep and a found potion. The comedy gives her agency back but must not be medicalized into proof of full recovery.
+- **Uncertainty with dialogue:** Midori asks if `魔王` could be true; Yuzu admits she does not know and wants Alice's own feelings heard. This preserves risk inquiry while resisting a unilateral verdict.
+- **C&C reoriented:** Nel's E009 refusal becomes post-defeat retrieval resolve, and Akane reports the previously unknown-to-her-in-person Toki as Rio-dedicated. Formal roster relation and lived team loyalty are not identical.
+
+## V002 C002 E012 motif / callback delta — a city built for the end, a coalition for one friend
+
+- **Eridu as hidden infrastructure:** Noa/Yuuka's recovered data turns Rio's abstract apocalyptic forecast into a secret fortress-city expenditure. The city exists in records; its full defenses, funding adjudication and location of Alice remain incomplete.
+- **Supernova as disputed object/person relation:** Utaha calls the sword Engineering's greatest invention and a taken asset after Rio dismissed it as a toy. Colleagues tease the friend-saving motive; material invention and Alice's personhood must not be collapsed into one another.
+- **Game-language strategy:** Toki becomes a `チートプレイヤー` analogy and Nel calls Alice's retrieval a `勝利条件`. Tactical framing helps assign tasks but cannot guarantee success or validate force.
+- **Agency across institutions:** Seminar dissent, Engineering transport inference, C&C diversion, Veritas remote aid and club retrieval distribute initiative. Sensei's explicit assent is real, while inward “operation start” cannot make the adult sole author.
+
+## V002 C002 E013 motif / callback delta — big-sister surveillance meets distributed entry
+
+- **Safehouse versus fortress:** E001 Himari's possible `セーフハウス` is refined by Rio herself as Eridu, a fortress for future threats. A monumental structure makes her conviction material but does not prove her forecasts.
+- **Big Sister's percentages:** Rio speaks in precise success probabilities while the rescuers arrive via an unexpected material route and Veritas suppresses one drone. The contrast tests claims of control without turning local success into proof Rio is ignorant of everything.
+- **Coalition starts to work:** Engineering's freight hypothesis becomes arrival, Veritas's systems role becomes a local hack report and C&C's distraction draws Toki. The still-absent Alice reunion keeps the chapter's relational goal separate from logistical progress.
+- **Silent captive / noisy front:** Alice has no new spoken position, while C&C creates visible explosions. The diversion is a means to make contact possible, not itself a solution to origin, safety or consent.
+
+## V002 C002 E014 motif / callback delta — Big Sister's misread and rematch before rescue
+
+- **Big Sister as fallible reader:** Toki's “all understood” surveillance rhetoric immediately meets her `想定外` at the frontal attack and wrong guess that Nel is free elsewhere. The callback complicates E013's precise forecasts without proving Rio lacks all useful monitoring.
+- **Secret agents in the open:** Toki prepares for infiltration; C&C's visible, loud front reverses her genre expectation. Akane's courteous “greeting” is explosive rather than hospitable, a situated fighting register rather than a stable peaceful promise.
+- **Game victory versus rescue:** Nel's rematch and “beat you *before* saving the kid” sets a sequence like E012's `勝利条件`, but winning that duel is neither shown nor sufficient by itself for Alice's return.
+- **Tower as hopeful coordinate:** the rear reaches open city and Hare draws a route to a probable center. Movement creates possibility, not a proof of Alice's location or the repair of BA-C019 belonging.
+
+## V002 C002 E015 motif / callback delta — literal rails versus Rio's lever
+
+- **Freight train to trolley problem:** the coalition's E012–E013 train was a real access route; Rio's `トロッコ問題` is a metaphor that tries to reduce Alice's fate to a one-versus-many switch. The shared rail imagery does not make the metaphor's premises true.
+- **Fortress as moving constraint:** E012's secret city and E014's imperfect surveillance now reveal a concrete adaptive structure: Toki can partition C&C. A local successful counter complicates both omniscience and easy coalition victory.
+- **Ugly design/power:** Avant-Garde-kun draws aesthetic criticism but high-firepower appraisal. Rio's denial that looks matter and Sensei's teasing expose a personal register without proving weapon superiority or Rio's moral model.
+- **Game author rejects forced ending:** Momoi invokes her scenario-writing and rejects Rio's scale rhetoric while demanding Alice back, extending E011's refusal of a coerced ending. Her injury remains real.
+
+## V002 C002 E016 motif / callback delta — checkmate as premature closure
+
+- **Chess terminality contested:** Rio names `チェックメイト` as if all moves are exhausted. Eimi's unmarked arrival and subsequent Mirror/Chihiro cues reopen action without yet proving victory or Rio's global wrongness.
+- **Walking together versus lone lever:** Himari's `歩幅` critique opposes Rio's E015 self-cast lever-puller. Eimi's wish to share pudding gives the abstract reliance-on-juniors theme a small ordinary relational texture amid crisis.
+- **Mirror callback:** `Optimus Mirror System`/`鏡` returns the C001 Mirror object into an apparent rescue context. The text announces startup but withholds operator, path and full function; the callback is not itself a complete technological explanation.
+- **Calm at the brink:** Utaha's composed `危機一髪` and Chihiro's timely entrance contrast the frightened Veritas room. No complete reversal, defeated weapon or Alice return occurs here.
+
+## V002 C002 E017 motif / callback delta — mirror route and overbuilt speaker
+
+- **Mirror from curiosity to counter-control:** C001's `G.Bible`/Mirror object becomes an explicitly named Eridu network tool by Chihiro's account. The callback establishes a useful route while the reacting firewall prevents a clean “technology solves all” ending.
+- **A speaker as weaponized excess:** Engineering's absurd specifications turn toolmaking into comedy and then a local combat result. Manufacturer boast, actual launch and enemy defeat are distinct evidence levels.
+- **Raid boss defeated, quest ongoing:** Momoi calls Avant-Garde-kun a raid boss, but Chihiro immediately says the real task remains. One obstacle's defeat is not Alice's rescue or full fortress capitulation.
+- **Help with limits:** Sumire volunteers, Veritas maintains a fragile path and Engineering hands off while exhausted. The coalition's multiplicity is strength without each helper becoming inexhaustible.
+
+## V002 C002 E018 motif / callback delta — another wall after the raid boss
+
+- **The defeated boss is not the final gate:** E017's Avant-Garde-kun victory leads to the tower exterior, where Toki returns with a new powered suit. Game/raid progress is real yet not Alice retrieval.
+- **Probabilities fail through relations:** Toki's near-certain maze and speed forecasts meet Karin's backing, Asuna's arrival and Nel's persistence. The text juxtaposes tactical calculation with team adaptation without proving statistics never matter.
+- **Revenge yields to mission:** Akane's reminder turns Nel from finishing Toki toward rejoining the Alice rescue, carrying E014's grudge into a bounded choice rather than erasing it.
+- **“Teacher as variable” and distributed credit:** Rio again tries to explain surprise through one exceptional actor. The prior units visibly show many clubs and individuals making the counter-route, complicating a single-savior motif.
+- **Princess weapon against friends:** Abi-Eshuh, said to be designed for Rio's apocalyptic target, is now used to stop Alice's rescuers. The transfer exposes escalation in Rio's security logic without proving her target classification.
+
+## V002 C002 E019 motif / callback delta — the cheat persists off the ground
+
+- **Final-boss/cheat register:** Yuzu/Midori/Nel call the suit unfair, while Chihiro explains apparent attack neutralization and possible compute concentration. Game language conveys asymmetry without establishing literal future sight.
+- **Changing the arena, not the ethics:** the rooftop/air tactic tests a presumed land-only limit; Toki adapts and Nel is wounded. A clever local move is neither guaranteed win nor evidence the underlying Alice decision has been resolved.
+- **A crack in the armor:** Toki's zero-injury self-report precedes her surprise at possible machine damage. The sequence resists both total-invulnerability and easy-defeat narratives.
+- **Countdown without clock:** Rio's `刻限` reveals a timed defense role. The unspecified deadline keeps pressure on rescue while withholding the halo procedure's state.
+- **Coalition versus “only variable”:** Chihiro's cue and Momoi's action enable escape after Sensei's roof choice falters, continuing the contrast with Rio's single-adult explanation.
+
+## V002 C002 E020 motif / callback delta — bad ending and rule-bound exploit
+
+- **Bad ending versus unfinished play:** Momoi's `バッドエンド` names feared failure after many people's efforts, not a scripted inevitability. Nel's challenge reopens agency while exposing bodily cost.
+- **Combat value versus creative value:** Chihiro calls the game club `戦力外` for direct fighting, yet Yuzu supplies the key observation and an idea. Chapter 1's maker/receiver/belonging distinction now meets a rescue context; contribution is not reducible to weapon strength.
+- **“Cheat” within rules:** the suit's asymmetry invites a `ハメ技` rather than omnipotent rescue. The trap is undisclosed and not yet validated; game language is tactical framing, not physical-law proof.
+- **Bodily limit versus grit:** Nel's awakening does not undo reported serious injury. `根性` sustains commitment but risks romanticizing harm if treated as medical clearance.
+- **Distributed inference:** Yuzu observes, Chihiro hypothesizes, Karin tests the repeatability objection, and Sensei articulates a possible gap. Rio's sole-variable frame remains inadequate.
+
+## V002 C002 E021 motif / callback delta — named victory as coordinated action
+
+- **Game protagonist, not preordained hero:** Akane likens rescuing an abducted friend to a game's protagonist and invokes Nel's Double-O callsign. The symbol energizes a local counter but does not guarantee Alice's restoration or erase medical cost.
+- **Cheat as bounded system:** the cargo elevator forces an evasion-system failure by Toki's report. Yuzu's `ハメ技` becomes a rule-bound, collective maneuver rather than supernatural omnipotence; exact computation law remains inferred.
+- **Making and credit:** Yuzu credits a prior Momoi elevator idea, Chihiro supplies technical access, C&C takes combat risk, and Sensei accepts. Rio's sole-Sensei explanation is directly corrected by Akane, extending the Pavane maker/reception/recognition question into tactical authorship.
+- **Rationalist hunch:** Rio privately uses `嫌な予感` to authorize the cannon, then publicly calls the opponents irrational and certain to lose. The episode distinguishes her self-image from her actual decision path.
+- **Care versus guts:** Nel fights through serious injury and survives the cannon sequence, but the spectacle does not demonstrate treatment or safety. Friendship is a motive with a bodily cost.
+
+## V002 C002 E022 motif / callback delta — the name, the ark and another lever
+
+- **Name versus function:** the club calls Alice by her chosen/social name; Key calls her only “Princess” and claims names corrupt purpose. The attack is on recognized personhood and belonging, not just tactical custody.
+- **Fortress as feedstock:** Rio's all-resource defensive city appears to supply Key's ark process. This possible protective-measure backfire is Rio's own realization, supported by Key's resource capture reports but not a complete causal audit.
+- **Trolley problem reopens:** Rio moves from proposing Alice's destruction to offering herself as the one victim. Sensei's secure questions ask about overlooked helpers rather than accepting a fixed two-choice frame; Yuuka/Noa's arrival makes that possibility concrete, with outcome deferred.
+- **Victory without rescue:** Toki's fall and Rio's concession grant access, but a silent Alice/Key confrontation blocks the simple “win guard, restore friend” ending. Nel's numbness persists after victory.
+- **Clock at 99%:** Key's reported progress and Yuuka's command create urgency, not a completed ark or verified rescue.
+
+## V002 C002 E023 motif / callback delta — helpers beyond the lever
+
+- **Overlooked helpers concretized:** Yuuka/Noa stop Key's immediate resource process, Engineering returns, Eimi/C&C hold the entrance and Himari supplies an Alice-focused option. E022's question about missing helpers gains local practical support without guaranteeing all are saved.
+- **System certainty fails twice:** Rio's E021 zero-win forecast and Key's E023 zero-remaining-force inventory both miss distributed, adaptive actors. This is a bounded narrative pattern, not proof every calculation is false.
+- **Enemy technology remade:** Engineering's Avant-Garde-kun Mk.2 turns a defeated obstacle into ally, continuing maker/use/reception themes. Space-battleship rhetoric is imaginative design motivation, not a verified weapon spec.
+- **Rescue moves inward:** after guard and resource fights, Himari's proposed `精神世界` dive reframes the aim as waking Alice's own personality, preserving the distinction between physical access and restored agency. It is hazardous and untested.
+- **Accountability postponed:** Yuuka promises Rio a later budget reckoning, pairing emergency aid with institutional correction rather than treating crisis success as exoneration.
+
+## V002 C002 E024 motif / callback delta — the game job is not destiny
+
+- **Memories against curated footage:** Key shows genuine injuries as a total verdict; Momoi counters with the special prize, club survival, shared play and changed Nel relation. Both histories matter; the second defeats “only harm” without denying the first.
+- **No-abandonment becomes reciprocal:** Alice's earlier protagonist maxim returns from her friends, who refuse to abandon her. Their answer lets Alice decide rather than installing a new imposed identity.
+- **Making versus programming:** Momoi's `転職` and the club's ability to make new stories oppose Key's predetermined “Princess” function. The motif does not establish technical immunity from Alice's weapon.
+- **Name and light:** Alice chooses `アリス` and `勇者` and turns the mental-space sword/light against Key's destruction-purpose claim. This is visible symbolic and local resistant action, not proof of physical recovery or permanent system defeat.
+
+## V002 C002 E025 motif / callback delta — happy ending, unfinished world
+
+- **Storybook ending tested:** the narrator's `めでたしめでたし` and “hero/companions continue” close the immediate adventure, but Himari's “nothing solved yet” insists the systems problem outlives the scene. The tension is deliberate, not a contradiction to flatten.
+- **Work resumes:** the club moves from `TSC2`'s award and Alice rescue to studying a different game. Creative belonging appears as practice together, not merely prize possession or a forever-guaranteed room.
+- **Chosen hero becomes ordinary questioner:** Alice is externally back and asks whether game mechanics justify attacking an innocent monster. The scene develops E024's chosen hero role as inquiry/care, not as a fixed always-peaceful trait.
+- **Aftercare versus accountability:** Nel's discharge party and Toki's uneasy welcome are social continuation; Rio's apology/absence and Himari's closure task keep injury and institutional responsibility from being erased by the epilogue.
+
+## MAIN V002 C002 checkpoint reconciliation — role, play and material work
+
+The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md) binds the game-language arc to its counterweight: Alice can choose `勇者` rather than assigned `王女`, but the rescue also needs power cuts, hacking, combat, risk-bearing and later facilities work. E025's new game study and monster-ethics question make the continuing adventure an ordinary shared practice, not a permanent safety or status guarantee. `BA-C019` and new chapter-local `BA-C020` remain separate.
+
+## V003 C001 E001 motif / callback delta — an Eden whose proof is disputed
+
+- **Treaty as process:** Seia's `憎み合うのはもうやめよう` and start-of-trust formulation sets peace against inherited antagonism; she then says the president's disappearance emptied the project. This is a speaker-framed opening tension, not a verified failed treaty.
+- **Paradise/proof paradox:** her one reading of the fifth ancient rule makes a true paradise returnee unobservable outside; her question about whether unprovable truth lacks value remains open. The Eden name becomes a skeptical analogy for diplomacy, not established cosmology.
+- **Witnessing the bitter story:** Seia asks Sensei not to avert their eyes. This creates a proposed ethical demand without an observed Sensei choice or a completed “truth” finding.
+
+## V003 C001 E002 motif / callback delta — school stakes before treaty substance
+
+- **Future crisis then rewind:** a one-week expulsion fear and remedial group appear before a “few weeks ago” terrace introduction. The structure withholds how Tea Party politics leads to this class; no causal bridge can be supplied from E002 alone.
+- **Role membership under institutional threat:** Koharu fears losing Justice Realization membership if expelled, echoing—but not duplicating—Pavane's gap between lived belonging and school recognition.
+- **Collective study versus blame:** Hifumi redirects mutual accusation and comic disorder toward pooling ideas. The proposal is not yet a successful rescue or evidence that one teacher can repair the institution alone.
+
+## V003 C001 E003 motif / callback delta — hospitality, dignity and withheld context
+
+- **Tea as political hospitality:** restricted invitation, host rotation and small-talk dispute render the Tea Party both office and social performance. Nagisa's interrupted history and apology show that courtly form is negotiated, not always effortless.
+- **Four students as help or burden:** Mika's delegation and `面倒ごと` phrase meet Nagisa's `愛が必要な生徒たち` correction. This contrasts descriptions; future pedagogy must test whether the dignifying language governs treatment.
+- **Teacher as guide, not omnipotent remedy:** Mika's `先生` gloss and Sensei's conditional assent connect E002's future help scene to an earlier authorization, without predicting educational success.
+- **Treaty as busy reason and withheld matter:** Mika cites workload; Nagisa calls the treaty confidential and of little relation to the club. The unresolved relation sustains Seia's E001 treaty question without settling status or politics.
+
+## V003 C001 E004 motif / callback delta — love as invitation and lever
+
+- **Peroro enthusiasm costs schooling:** Hifumi's hobby moved from V001 expertise/affinity to an exam-skipping choice, then embarrassment. A charming pastime is neither morally erased nor exempt from consequence.
+- **Reciprocity in a temporary club:** Nagisa's praise/`愛` frames Hifumi's presidency as return of care. Hifumi's objection and temporary clarification complicate whether belonging/leadership is freely chosen; compare Pavane recognition only as a question, not a copied rule.
+- **Control versus care:** Justice Realization detention and Azusa's violent arrest interrupt the tidy “students needing love” phrasing of E003. Punitive jokes are not law, and Hanako's unlocked-cell account is unresolved; later treatment must determine whether care and control coexist responsibly.
+
+## V003 C001 E005 motif / callback delta — stigma rebounds on the enforcer
+
+- **The fourth member reveal:** Koharu condemns remedial membership as shameful immediately before her own failing marks and return-to-committee bar are narrated. The juxtaposition tests status stigma, not a proven moral conversion.
+- **Conditional belonging:** her Justice Realization return depends on improved grades. This echoes prior school-recognition concerns without equating Trinity discipline to Pavane's club approval.
+- **Help as effort, not instant rescue:** Hasumi's procedural opening and Hifumi/Sensei pledges assemble the group, but the text withholds the educational method and result.
+
+## V003 C001 E006 motif / callback delta — shared success versus solo status
+
+- **All four or none:** one simultaneous pass within three sittings makes peer dependence a structural feature; Koharu's imagined solo quick exit fails at the rule level before any exam occurs.
+- **Mission and instruction:** Azusa translates class into training/missions, while Hifumi defines academic evaluation and asks Sensei for schedule/teaching work. The gap in register does not imply sabotage or an actual security operation.
+- **Address without forced intimacy:** Hanako's `ちゃん` overture, Koharu's no-seniority boundary and Azusa's mutual-benefit framing show that cooperation can begin without an agreed friendship script.
+
+## V003 C001 E007 motif / callback delta — competence, hope and hidden consequence
+
+- **Visible effort versus grade:** varied study questions and Hifumi's relief unsettle a simple “remedial equals incapable” stigma, but labels prevent assigning exact expertise and no grade verifies success. Hifumi's own missed-test history prompts her speculation about Hanako, not proof of a shared cause.
+- **Collective risk escalates:** the E006 all-four rule makes any one failed first sitting a group failure; Hifumi now reports an ensuing camp, while a third-failure consequence remains deliberately unsaid. Institutional care and pressure coexist as a question, not a settled verdict.
+- **Title before outcome:** the narrator moves from study to first exam day, then a next-title card. Anticipatory optimism, tension and Sensei's inward support cannot be converted into achievement.
+
+## V003 C001 E008 motif / callback delta — the grade rebuts first impressions
+
+- **Work seen versus learning measured:** Hifumi recognizes lesson material and passes, while the other three fail. The juxtaposition tests whether shared study yielded shared mastery; one result cannot isolate teaching quality, effort, test fit or motive.
+- **Status and self-presentation:** Koharu's E006 confident solo exit is contradicted by 11, while Hifumi's E007 sense that Hanako was able meets Hanako's 2 and her `雰囲気`/grade distinction. Neither contrast licenses a durable fraud or incapacity label.
+- **Conditional consequence materializes:** the first-failure camp moves from Hifumi's warning to narrator-confirmed decision. The undescribed third-failure threat stays suspended.
+
+## V003 C001 E009 motif / callback delta — care's container becomes a disposal box
+
+- **Love/help versus administrative elimination:** Nagisa's E003 “students needing love” contrasts with her explicit account that the club was designed to bypass ordinary checks and expel suspected students. This is an internal reversal in her representations, not proof every student is guilty or that the bypass is lawful.
+- **Chess/shared boat/box:** an asymmetric solitary chess position, `呉越同舟` antagonistic peace and a box of students create a field of strategic container metaphors. Only the treaty boat and disposal box are explicitly interpreted by Nagisa; no piece-to-person chess key is given.
+- **Teacher care as leverage:** Nagisa expects Sensei will not abandon students while hinting she can change exam conditions. Their `私のやり方` answer sets a possible agency boundary but has not yet protected anyone.
+
+## V003 C001 E010 motif / callback delta — care of a shared place under a concealed threat
+
+- **Support space versus hidden disposal design:** the annex is materially habitable and the students plan practical care there, while E009's institutional danger remains audience/Sensei knowledge. The visible camp is neither proof of benign governance nor proof the students know they are suspects.
+- **Preparation languages:** Azusa maps the site as a defensible position, Hanako as a health/cleaning problem, and Hifumi as a one-week pacing task. Distinct operational imaginations coexist without any observed attack or study result.
+- **Bounded adult proximity:** Sensei offers help on call while the students negotiate room use and clothing. This is a modest agency-preserving pattern, not a completed solution to the exam/expulsion threat.
+
+## V003 C001 E011 motif / callback delta — repair against `vanitas`
+
+- **Maintenance as lived care:** weeds, lobby furniture and pool are materially cleaned; Hanako's bedding plan adds unverified further care. This ordinary work in a potentially punitive institution does not absolve its governance.
+- **Impermanence/action:** Azusa reads abandonment as `vanitas` but rejects it as a reason to withhold today's effort; Hanako calls for play before tomorrow's study. Their future-oriented act complicates a simple nihilism or laziness reading.
+- **Delayed pleasure:** cleaning/filling consumes daylight, so the hoped-for pool recreation is deferred by material time. Play is an invitation, not an already realized party.
+
+## V003 C001 E012 motif / callback delta — peer care resists the box
+
+- **Cleaning/eating versus suspect sorting:** Hifumi cites the shared first day against Nagisa's command to collect peer information. The E011 ordinary-care acts gain explicit ethical weight without proving no traitor exists.
+- **Lid and burden:** Nagisa's recollected “Schale lid” reduces Sensei's presence to containment; Sensei's reply instead tries to free Hifumi from informer duty. The counterimage is a proposed responsibility shift, not a realized escape from institutional power.
+- **Night watch versus sleep:** Azusa recodes discomfort in an unfamiliar place as a guard role and extreme endurance claim; Hanako's concern asks for rest. There is no observed attack or verified five-day capacity.
+
+## V003 C001 E013 motif / callback delta — measurement and play as care
+
+- **Threatened exam versus diagnostic mock:** Hifumi converts the exam format into an instrument for locating gaps, with a self-made paper from partial earlier material. Both tests still show only her passing; distinct papers prevent an improvement plot from numerical increments alone.
+- **Private burden into public work:** following E012's refusal to inform on classmates, Hifumi visibly organizes non-suspicious peer study. The juxtaposition supports a local alternative action, not causal proof that Sensei's reassurance solved the threat.
+- **Peroro as bridge:** Hifumi's beloved mascot surprises Azusa into direct delight while Koharu rejects it and Hanako teases. Shared taste creates a bounded contact point, not automatic friendship or academic success. The in-world philosophy-book reward need not be mapped to an external author.
+
+## V003 C001 E014 motif / callback delta — reference, embarrassment and repair
+
+- **Study reference becomes disciplinary object:** Koharu seeks a reference book for a second problem but pulls out a disputed `R18` volume, shifting the group from learning to exposure/shame. Her confiscation explanation remains a claim; no objective title, ownership or school-law proof is supplied.
+- **Shower callback with cost:** Hanako reuses E013's `裸の付き合い` to tease emerging peer cooperation. Koharu rejects the implication, and later becomes tearful after more teasing; convivial comedy cannot erase expressed discomfort.
+- **Care or concealment:** Hifumi offers a possible explanation, Hanako suggests quietly putting the item back, and Sensei accompanies Koharu. These gestures may ease embarrassment but the plot has not shown accountable return or a Hasumi response.
+
+## V003 C001 E015 motif / callback delta — identity under a contested rule
+
+- **“Elite spy” versus documented grades:** Koharu recasts remedial placement and visible weakness as `フェイク` under a `スパイ` role, against E005/E008/E013 academic evidence. The contradiction is meaningful self-presentation, not license to claim a verified assignment or deliberate exam failure.
+- **Adult care mixed with evasion:** Sensei first suggests hiding better and then affirms Koharu beyond a fixed label; in Hasumi's room Sensei explicitly misleads with a teaching-book rationale. The episode tests whether compassion and institutional accountability can coexist, but does not yet settle the ethics of this specific concealment.
+- **Opaque private authority:** Hasumi's access bar is audible; her subsequent committee talk becomes broken fragments after Sensei leaves. This evidentiary withholding must not be filled with the just-heard spy claim or with E012's Nagisa mission.
+
+## V003 C001 E016 motif / callback delta — proof, paradise and gap
+
+- **Provable truth:** Hanako turns swimsuit/underwear uncertainty into `証明できない真実`, eliciting Azusa's tentative fifth old-rule question about proving a paradise-arriver's truth. This echoes E001's paradise framing without establishing a shared text, factual cosmology or Azusa–Seia meeting.
+- **Past mastery/present scores:** Hifumi's reported perfect old papers intensify the discrepancy with Hanako's official 2 and mock 4, but a discrepancy is not a proved motive, traitor identity or exam manipulation. Her privacy admission makes evidence access itself an ethical question.
+- **Filled pool/missed play:** E011's pool filling is now visible to Mika, who asks about swimming/party; neither occurs. The site hosts a private Sensei–Mika check-in while Hifumi notices Sensei absent, a small knowledge gap rather than a revealed conspiracy.
+
+## V003 C001 E017 motif / callback and checkpoint delta — third-party protection
+
+- **Care versus suspect sorting:** Mika tries to translate Nagisa's requested “traitor” search into a protection request for the named target; Sensei's student-side answer refuses the binary of Trinity/Gehenna/GSC allegiance but has not solved incompatible student claims. Hifumi's E012 resistance to peer spying remains a distinct act.
+- **Container and outside:** Nagisa's disposable `箱` and proposed Schale `蓋` meet Mika's desire for a third party outside Trinity/Gehenna. An external position can reject institutional capture, but it does not grant omniscient neutrality or automatic safety.
+- **Proof/paradise and accusation:** E001/E016's proof question gains an immediate epistemic test: Mika names Azusa, and an intercut confirms Azusa has a plan, while its aim remains unseen. Neither name nor “plan” proves betrayal. The Chapter 2 card defers adjudication.
+
+The V003 C001 checkpoint preserves these as chapter-local motifs, not settled full-series axioms.
+
+## V003 C002 E001 motif / callback delta — council, armed peace and symbol
+
+- **First Council/Eden Treaty replay:** Mika sees a prior unification that excluded/crushed Arius and fears a new Trinity–Gehenna force will repeat it. This reframes Nagisa's E009 ETO as contested peacekeeping/armed alliance; historical mechanism and future use are not independently shown.
+- **A student as reconciliation proof:** Mika hoped forged-in Azusa would demonstrate an Arius student can live happily in Trinity. That benevolent aspiration also makes Azusa a political symbol without shown consent and sits uneasily beside Mika's limited knowledge of Azusa's E017 plan.
+- **Monster/traitor reversibility:** Mika labels Nagisa's potential Leviathan build a betrayal while acknowledging she herself opposes the treaty and Azusa is called false-background “spy.” The word `裏切り者` shifts with political vantage; no guilt determination follows from the metaphor.
+- **Seia's “truth” under cover:** Mika says hospitalization is a cover for an attack, testing E001/E016 proof language at the level of testimony versus publicly verifiable status. The story has not established which account an independent record would support.
+
+## V003 C002 E002 motif / callback delta — rescue through a defensive blind spot
+
+- **Care and securitization collide:** Azusa's account of defending a bullied student intersects with her preemptive annex booby traps harming a benign messenger. E010's imagined defense becomes a real false-positive, without proving all threat vigilance unwarranted or all resistance harmless.
+- **Scores as comic doubling versus institutional limit:** Hanako's 2/4/8 patter makes progress-shaped numbers out of mixed official/mock sittings and three further hypothetical tries. E016's prior perfect-paper report keeps the discrepancy open; comic arithmetic cannot close the official joint-pass condition.
+- **Mediated thanks and reputation:** Marie's student relays gratitude for Azusa; `氷の魔女` circulates as a contrary rumor. Neither mediation creates a full character verdict, and the rescued person's own words are absent.
+- **Crossed disclosures:** Hifumi plans to discuss Hanako, Hanako plans to discuss Azusa, and a swimwear/late-visit misunderstanding prevents either substantive conversation. The narrator confirms social repair, not epistemic revelation. Marie's unfinished “I am well, but…” likewise preserves a Sisterhood knowledge gap.
+
+## V003 C002 E003 motif / callback delta — health, confession and suspect laundry
+
+- **Rest against institutional peril:** Hanako sees Azusa's apparent sleeplessness as a bodily risk and initially treats failure as lesser. Hifumi's disclosure changes her information state: the sanction is collective expulsion, not mere ordinary failure. The correction need not make forced sleep ethically uncomplicated.
+- **Proof versus admitted motive:** E016's privately obtained perfect-paper discrepancy and E002's 8 point mock now meet Hanako's explicit `わざと` admission. One uncertainty closes (intentional low marks); her `個人的な理由` leaves the causal/moral question open.
+- **Laundry metaphor becomes policy criticism:** E002's common laundry joke returns as Hanako's comparison for four students processed together, a situated critique of Nagisa's alleged bulk disposal. Metaphor does not establish actual legal procedure.
+- **Watching without knowing:** Hanako has noticed Azusa leaving, yet cannot say what she does. She infers the club's suspect design while still lacking Mika's private E001 history. Koharu at the end sees a room-exit tableau but does not hear its content—another limit of proximity as knowledge.
+
+## V003 C002 E004 motif / callback delta — false-positive defense and chosen ordinary life
+
+- **Drying/cleaning as shared vulnerability:** E002's common-laundry offer becomes soaked clothes, power loss, rewash and rest. Hanako apologizes; peers distribute the cost instead of assigning blame. The comic “party” emerges from material limits, not a narrator-confirmed nude event.
+- **Learning as belonging:** Azusa directly enjoys lessons, meals, cleaning and new knowledge, and tentatively calls the annex familiar. This gives scene-level counterevidence to Mika's E017 student-status challenge, without removing E017's unknown plan or E004's fear of betrayal.
+- **Security that harms care:** Azusa's trap rationale is benevolent by her account, yet Marie already triggered it. Hifumi notices the false-positive. E003's worry about late nights gains a partial explanation, not a guarantee that all night work was defensive or safe.
+- **Masks and swimsuits:** Hanako's secondhand masked-swimsuit “criminal group” story intersects V001 Hifumi's actual role; Hifumi's silence gives irony, not proof of disclosure or Nagisa's Hifumi dossier.
+- **Rain to night walk:** thunder interrupts work and enables camp talk; after restored power/laundry, Hanako opens a new leisure choice. Narrator confirms only its beginning, so outcome and rule implications wait.
+
+## V003 C002 E005 motif / callback delta — appetite and misread threats
+
+- **Anger misresolved:** E001 left Hasumi's declaration hanging after Gehenna fury; E005 gives a diet pledge born of Makoto's humiliating misidentification/body remarks. A political-looking cliff-hanger resolves to embodied vulnerability without disproving the treaty's broader danger.
+- **Food and self-restraint:** Hasumi recruits peers to police meals, Koharu praises her adherence, then three parfaits and night hunger expose a gap between pledge and observed behavior. No moralized medical/weight conclusion follows.
+- **The suspect lens meets an aquarium:** Hasumi leaps from an incursion report to Prefect/Pandemonium and treaty sabotage. Ichika narrows the facts; Haruna voices a food motive for the gold tuna. The episode performs the danger of totalizing security inference without establishing every phone allegation's truth.
+- **Consent under gag:** Haruna theatrically treats Fuuka's muffled protest as endorsement. Akari notes speech is blocked; the text marks non-consent more strongly than Haruna's self-serving translation.
+- **Mutual concealment and academic care:** The unauthorized-seeming camp outing and Hasumi's dessert prompt `見なかったことに`, while Hasumi's Koharu study support is sincere speech under an access/grade bar. Reciprocal discretion is not institutional exoneration.
+
+## V003 C002 E006 motif / callback delta — whose uniform is seen
+
+- **Optics as intervention design:** Hasumi wants a Schale/remedial group face on a Gehenna incident, aware that visible Justice Realization confrontation could imperil treaty politics. Yet Tsurugi and others already mobilize, so the desired image may diverge from actual force.
+- **Safety first versus use me:** Azusa offers tactical availability under Sensei's first real combat direction, while Sensei names safety as first priority. This tests the adult's student-side stance prospectively, but no protective result is yet shown.
+- **Koharu alongside Hasumi:** the E005 promise of future committee return gains a temporary field collaboration sooner than Hasumi expected. It is an affective callback, not a grade-bar resolution.
+- **Fish versus appetite:** E005's prized meal becomes an E006 “tempura” lament, and the group splits rather than stay together to eat. Fuuka's gagged status does not disappear merely because she is offscreen.
+- **Fearful pursuit:** Tsurugi's first voiced chase cue and Junko's terror develop the E005 deployment warning without proving capture or harm.
+
+## V003 C002 E007 motif / callback delta — perspective and neutral labels
+
+- **Three caught, one lost:** E006's interrupted flight becomes three Gourmet detainees plus gagged-then-speaking Fuuka at transfer, while Izumi wanders near the border. Hasumi's “resolved” and Sena's list are partial administrative closure, not complete group accounting.
+- **Neutrality as staging:** Hasumi uses Schale to hand over Gehenna students; Hina uses Emergency Medicine as official arriving face while accompanying it. Each tries to prevent a two-school confrontation from becoming politically legible, yet Justice/Prefect participation remains in the underlying event.
+- **Treaty as distributed power:** Hina's equal Makoto/other-leader ETO control answers Mika's Leviathan fear with an institutional veto story. Both are actor models; the text has not supplied a charter, and Hina admits hypothetical collective collusion.
+- **Adult trust and burden:** Sensei's trust disarms Hina while she calls it a flaw; her exit question elicits a specific promise to protect the four. The promise raises, rather than settles, the still-hidden expulsion mechanism.
+- **Ordinary worth after conflict:** Koharu's joy at useful action with Hasumi and Azusa's “fun” echo E004's club-life value, while Hifumi/Hanako turn back toward sleep and exam work.
+
+## V003 C002 E008 motif / callback delta — local hope under a watchful design
+
+- **Third mock versus second official exam:** E013 and C002 E002 established club diagnostics; narrator now marks all four passing 69/73/61/75. Repeated tests make effort and encouragement visible, but differing papers and the still-future official sitting keep hopeful trajectory separate from a legally decisive group pass.
+- **Chosen gift as belonging:** E013's promised Momo Friends incentive becomes Hifumi's actual Peroro Doctor gift. Azusa calls it her first gift from a friend, extending E004's ordinary-life delight into a self-named relationship without closing her hidden plan.
+- **Observation as double use:** Camp lets Hifumi/Sensei support real study and friendship while Nagisa says it was arranged to observe possible traitors. The same shared time therefore bears care and surveillance functions; Nagisa's final question turns the reward's warmth back into institutional pressure.
+- **Tomorrow and the title-card cut:** Hifumi asks for one more day's effort, then Nagisa presses Sensei before the official exam. The forward `黒い手` card identifies no actor or outcome within E008.
+
+## V003 C002 E009 motif / callback delta — a black hand made of inference
+
+- **Four different suspicions in one box:** Nagisa's club-selection rationale folds Hasumi leverage, Hanako's actual score choice, Azusa's contested background/violence and Hifumi's imposed V001 “Faust” cover into one expulsion container. The mismatched provenance is the point: administrative symmetry is not evidentiary equivalence.
+- **Beloved stranger:** Nagisa says she likes Hifumi but cannot prove her heart; `他人` becomes the hinge from care to suspicion. This intensifies E008's actual first-friend gift without negating either relationship, and raises the adult-knowledge question already present in E016's “unprovable truth” exchange.
+- **Light/blackness reversal:** E008's `差し込む希望` mock hope meets Sensei's E009 `疑心暗鬼の闇` diagnosis of Nagisa. The title `黒い手` does not identify a literal conspirator in this unit. Sensei's two alternative promises remain prospective light, not achieved reform or pass.
+
+## V003 C002 E010 motif / callback delta — graduation becomes a night march
+
+- **Farewell and friendship:** Hifumi's ideal cheerful club graduation makes Azusa fear loss immediately after naming a first friend in E008. Hanako/Koharu offer continued same-school contact. The future remains open, and the notice replaces sentimental closure with survival logistics.
+- **The goalposts move:** E008's four-person third-mock pass under a 60 line meets a notice raising the official line to 90 and range roughly threefold. This materializes Nagisa's earlier threatened procedural pressure without proving who authored the notice or whether it will be enforced as written.
+- **Foreknowledge and secrecy:** Hanako's known expulsion danger escapes the smaller E003 circle when Koharu/Azusa hear it. Sensei chooses explanation, but the actual content is unprinted; a shared threat does not mean shared access to Nagisa/Mika/Hina secrets.
+- **A test made spatially hostile:** the academic venue is advertised in Gehenna at 3 a.m.; the group's route meets an explicit ransom threat. Azusa's `最後まで足掻く` turns E009's abstract promise to “make them pass” into student action, without demonstrating that combat was required by a legitimate exam.
+
+## V003 C002 E011 motif / callback delta — the exam that measures no answers
+
+- **Academic effort versus procedural survival:** E008's four-pass club mock and E010's enlarged official notice culminate in a second official sitting where all four fail by lost papers. The result is institutionally decisive but measures no printed answer quality; effort and scoring have been decoupled.
+- **The hostile road becomes the classroom:** Gehenna checkpoint, Gourmet escape aid, two-hour pursuit and 2:45 arrival fulfill the E010 spatial-threat setup. Yet arriving before the 3 a.m. start does not protect the test site itself. A ruin with no visible invigilator and shell-borne papers turns school procedure into a war-zone object.
+- **False consent recurs:** E005 gagged Fuuka and E007 relief are followed by E011 bound-in-trunk protest. Akari's loan/friendship and Haruna's cheering claims reprise the same coercive joke; gratitude for Gourmet guidance cannot erase it.
+- **Recorded voice and unknown hand:** Nagisa's recording cannot respond; anonymous Hot Spring workers cite an unknown tip. The E009 “black hand” title does not authorize filling that missing link with Nagisa, even though she benefits from/participates in the surrounding exam design.
+
+## V003 C002 E012 motif / callback delta — back to the camp, not back to innocence
+
+- **Return to origin:** E010's imagined club graduation and E011's paper-loss collapse send the four back to the camp as a shared problem-solving space. Azusa notes the false farewell, but the group now knows more of the expulsion threat than it did at camp's start.
+- **Third chance as a narrowing horizon:** Hifumi's approximate “one week” and narrator's six days place the final special exam close. Two failed official sittings have not produced an immediate expulsion, but they leave no shown safety margin or appeal.
+- **Effort without guaranteed reward:** Koharu's “I worked hard” and self-denigration collide with E008's 61 mock pass and E011's non-academic paper-loss failure. The motif tests whether the institution recognizes effort rather than proving incapacity.
+- **Care interrupts frantic solutionism:** Hifumi seeks a plan and resists rest; Hanako offers help and insists on sleeping first. A potentially exploitative teasing register in scene 1 gives way to bounded peer-care in scene 2, without curing the structural threat.
+## V003 C002 E013 motif / callback delta — effort against vanitas
+
+- **Measurable rehearsal, fragile outcome:** fourth–sixth club mocks move from only Hanako passing, to all passing, then only Hanako/Azusa passing. Work can change displayed marks, but the fifth mock's success is not a guarantee under a 90-point official line, let alone protection from E011-type procedure.
+- **Rest as strategy:** Koharu's E012 despair becomes a 100-point perfection demand on the eve. Hifumi, Hanako and Azusa counter with sleep; Hanako reports days of little rest. The group's care now protects capacity without resolving institutional threat.
+- **The empty building:** Hanako sees the main building go unnaturally quiet while the final exam is relocated to the 19th annex. The spatial image creates concern but supplies no culprit, and her planned noticeboard watch is vigilance, not foreknowledge.
+- **`Vanitas` returns as command code:** Saori's phrase and Azusa's recitation convert C001 E011's individual nihilism/effort contrast into an Arius-linked operational cue. It is juxtaposed with six days of study, two Sensei affirmations of effort and Azusa's friend-bond history; neither phrase nor labor alone settles her future choice.
+- **Two mornings collide:** the announced final examination and Saori's accelerated order both fall tomorrow morning. The text creates an unresolved collision rather than showing a completed attack or missed exam.
+## V003 C002 E014 motif / callback delta — confession as refusal to vanish
+
+- **“Traitor” splits:** Azusa's self-identification validates hidden Arius admission and Nagisa assignment but also carries a claimed self-authored choice to protect the target. Nagisa's one-box E009 suspect logic is narratively stressed: deceit occurred, yet the decisive intended betrayal may be of Arius's command. No official guilt verdict follows.
+- **Trust versus isolation:** Sensei locates an original cause in mistrust, with inward missed-trust counterfactuals for Nagisa/Mika. Hanako first names Azusa's lies then values the costly choice to confess rather than disappear. The ethical answer is relational disclosure, not the abolition of security risk.
+- **School as prison or possibility:** Hanako's self-identifying retrospective links high achievement/elite recruitment to alienation and deliberate exam ruin. Azusa's unlikely full effort and desire for ordinary experiences make the same club a place worth resisting for. This revises the “bad student” or “suspect” labels without erasing actual deception.
+- **`Vanitas` qualified:** Azusa explicitly pairs emptiness with doing one's best today and continuing resistance. Hanako adopts that extension and moves from exit to action. E013's command recitation was therefore incomplete as a full value model.
+- **The exam and the assassination converge:** 9 a.m. is both the announced exam and Arius operation start; a reported document-protection perimeter may make the exam unreachable. Hanako's two-part rescue/pass answer refuses the forced choice, but remains only a proposal.
+- **Teasing and correction:** Hanako retells club chores/outing with scandalous exaggeration; friends correct the facts while the underlying enjoyment remains. This is a callback to C001 cleaning and C002 ordinary-life dialogue, not an unobserved naked event.
+## V003 C002 E015 motif / callback delta — the “traitor” who attacks the attackers
+
+- **A mask inside a mask:** Hanako acts out Nagisa's two-traitor story, invents a commander and plants a hurtful friendship line. Azusa is indeed a false-paper Arius infiltrator, but overtly attacks Arius for exam time. The same label now marks opposed allegiances; a single suspicion box is inadequate.
+- **Protection by incapacitation:** E014's proposed defense of Nagisa becomes Azusa's reported close-range full-magazine volley and missing target. The text refuses an easy equation of protective intention with harmless means. Medical and custody consequences remain open.
+- **Information as battlefield:** Hanako hopes to feed an unnamed “real traitor” false information, while Arius cites unnamed information that Justice will not move. These mirrored opaque channels create tension without identifying a culprit or proving either channel works.
+- **Preparation recontextualized:** E003/E004 night absences and traps now have Azusa's claimed trenches/guerrilla-delay purpose. The Marie false positive persists as a cost of defensive secrecy, not an erased mistake.
+- **Exam time as constraint:** Azusa says she needs to finish fighting to take the exam, preserving the E014 double objective. No exam access, marks or fulfilled reunion appear.
+## V003 C002 E016 motif / callback delta — sanctuary becomes a trap field
+
+- **Camp reverses function:** the E010–E014 study/rest refuge is now where Azusa reportedly brings and hides Nagisa and where Arius meets barricades, Claymore and IEDs. Schooling and irregular defense occupy the same space; neither purpose cancels the other.
+- **Preparation pays, cost unknown:** Azusa's E015 claimed trenches/traps now produce visible attacker disruption. Hanako says numbers are much lower, but the transcript withholds deaths, injuries and final military outcome.
+- **Four against an encirclement claim:** the commander emphasizes numbers and no exit; the club's ambush and Sensei's presence answer that coercive frame. “Squad” is invoked as a separate not-yet-arrived threat, not visible combat.
+- **Voice distortion at a climax:** the sequence's repeated Hifumi labels combine mutually inconsistent registers just before Sensei's inward cue. Group resolve can be read, but a role-specific leadership/capability callback cannot be assigned safely.
+- **Interrupted before the exam:** the same-day fight intensifies E014's two-goal pressure while the official academic threshold is still untested.
+## V003 C002 E017 motif / callback delta — peace denounced from within
+
+- **The “real traitor” becomes a self-description:** Mika claims the title Azusa feared, exposing a Tea Party insider's anti-treaty plan. The term is not just an arbitrary Nagisa suspect label, but self-claim does not supply every documentary step of the plot.
+- **Peace treaty versus forced militarization:** Mika corrects E001's armed-alliance story as deception and calls the treaty real peace, then proposes replacing moderates with Arius and attacking Gehenna. Her rhetoric of reconciliation is recast as coalition-building for war, not a contradiction-free friendship story.
+- **Scapegoat as manufactured sleep:** Mika openly casts Azusa as the blame-bearer whose alleged guilt would let others rest, reversing Hanako's E014 speculative framing into a stated future design. The actual framing has not been accomplished.
+- **Friendship, trust and hard world:** Mika says Nagisa is too gentle for a “bright school story” and justifies confinement; Sensei's angry response contrasts with her asserted inevitability of betrayal. Her admission of possible Hifumi harm in E015 now reads against a consciously instrumental plan, but her inner life remains actor report.
+- **Seia as unresolved catalyst:** Mika admits giving the attack order but denies halo-destruction intent and deflects exact execution to Azusa. This strengthens the event's political centrality while leaving the human cost and responsibility chain unclosed.
+- **Independent institution at the edge:** a cathedral-side arrival identified questioningly as Sisterhood threatens Mika's “all stalling orders work” premise without yet showing the group's own decision or battle outcome.
+## V003 C002 E018 motif / callback delta — institutions outside Tea Party reach
+
+- **A third institution intervenes:** Sisterhood's declared exception to nonintervention tests Mika's assumption that Tea Party channels can stall everyone. Hanako's undisclosed promise matters, but cost and future obligation are not yet known.
+- **Defeat is plural:** Mika identifies Sensei as the forgotten variable, but Azusa's active defection, Hanako's bargain/strategy and Sisterhood arrival are represented. The motif of adult support works through a coalition rather than replacing students or independent organizations.
+- **Seia alive, not recovered:** Hanako says the supposed lost friend is alive but wounded/unconscious under guard outside Trinity. Mika's relief and surrender follow, yet surviving is not equivalent to healed, cleared or reconciled. The rescuer's withheld name resists premature closure.
+- **Vanitas and resistance recur:** Mika warns Azusa of endless pursuit and says `et omnia vanitas`; Azusa answers with `それでも` and continued struggle. The chapter's title and E014 maxim now become a live future-oriented choice without guaranteed safety.
+- **Support remembered, not magically transmitted:** Mika recalls a prior Sensei ally-line after an inward echo, then says goodbye. Ethical standing for a student can remain emotionally salient even while her acts demand accountability; the scene shows neither acquittal nor sentence.
+## V003 C002 E019 motif / callback delta — effort counted at last
+
+- **The academic ledger closes narrowly:** the retrospective montage revisits first official failure, mock volatility and lost second papers before giving four official third-pass marks. This at last attaches a valid score outcome to students' work under the 90 line, without pretending the earlier paper loss was their academic fault.
+- **Threshold versus perfection:** Koharu insists on 100 yet passes at 91. The episode rejects her E012 incapacity despair without requiring perfection; Hifumi's sixth mock 89 similarly does not foretell failure.
+- **Access no longer blocked in fact:** after E014's predicted isolation, the party runs to the venue and a Justice member welcomes them. The narrative does not erase the earlier coercive design or explain the perimeter; it simply shows that an assumed impossible route was traversed.
+- **Hasumi's deferred repair:** her encouragement/apology travels through a committee member, preserving Koharu's Justice bond while leaving actual reconciliation/reinstatement future.
+- **“Nevertheless” made measurable:** Azusa's resistance maxim becomes both battlefield defection and a 97-point formal pass; Hanako explicitly credits Azusa for that stance. Causal teaching mechanism and long-term safety remain separate.
+
+## V003 C002 E020 motif / callback delta — premature ending
+
+- **A “good story” with a false end-credit:** Seia lists likely individual restorations and a scheduled signature, then explicitly says the credits are too early. The chapter closes a hard-won academic problem while reopening an unbounded peace/security future; the forecast is hers, not a depicted catastrophe.
+- **Prison versus repair:** Seia's Mika-confinement report gives E018 surrender a new institutional status, yet `もしかしたら` permanent separation and actual accountability/relationship repair remain open. Its apparent closure cannot substitute for process.
+- **Clouds and rain:** Seia's threatening clouds and Saori's immediate dark-cloud/rain forecast bind framed dread to Arius preparation. The imagery does not establish a weather mechanism or make Saori's unnamed action the proven total cause of disaster.
+- **`Vanitas` versus `それでも`:** Saori addresses Azusa with inescapability/body-memory rhetoric; the narrator repeats the Latin refrain. E018 Azusa had answered futility with resistance, and E019 certified a concrete pass. E020 tests that stance prospectively but does not annul it.
+- **Continuity, not conclusion:** `To be Continued in Chapter 3` directs the forward firewall; no Chapter 3 event enters C002 synthesis.
+
+## V003 C002 canonical checkpoint reconciliation
+
+The [C002 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md) holds the paired pattern: genuine student effort and certified pass inside coercive exam architecture; anti-fatalist `それでも` against Arius's `vanitas`, without a guaranteed safe ending. Seia's premature-credit frame preserves the chapter's unresolved political and medical future.
+
+## V003 C003 E001 motif / callback delta — an hour between fate and act
+
+- **Postmortem over prophecy:** Sensei's apparent dream shows Seia saying some dreams later happen and fatalistically invoking `vanitas`. Sakurako's later postmortem provides a different, report-mediated causal account. Neither narrative mode makes Seia omniscient or abolishes the missing hour.
+- **`それでも足掻く` crosses students:** Seia says the Azusa-named visitor both accepts and resists Arius futility, while Hanako now explicitly says the remedial club taught her to struggle rather than withdraw. This is thematic echo with distinct evidence statuses, not proof Seia caused Hanako's change.
+- **Protective false death:** Mine's reported decoy turns “halo destroyed/corpse” into a survival shield, making information withholding ethically instrumental yet potentially trust-damaging; actual safety and Seia awakening remain unsettled.
+- **Care without capture:** Marie's desire to keep Hanako, Sakurako's rejection of coerced recruitment and Sensei's consent check counter the C001/C002 pattern of institutions converting students into instruments. The future help bargain is not free of possible obligation.
+- **Comedy as false policy:** Hanako's nudity/veil performance tests Sisterhood solemnity but is expressly disconfirmed; no actual school-rule change.
+
+## V003 C003 E002 motif / callback delta — a staged ending with real costs
+
+- **Death as protective fiction:** Azusa's account links Seia's fake death to Mine's concealment and Squad misbelief. The ruse bought hidden survival, not waking health; the means included an actual explosion.
+- **Paradise/futility versus conditional help:** Seia rejects Azusa's apparent paradise-proof confidence yet lends wisdom to someone who will struggle despite her catastrophic expectation. The central `それでも` is an action condition, not a guarantee.
+- **Names made official:** Sakurako's declaration converts Azusa's forged-transfer vulnerability into local recognized Trinity student status. It does not solve Arius or prove moral innocence by document alone.
+- **Apology without erasure:** Nagisa names her Hifumi suspicion as wrong, Hifumi refuses hatred, and the “friendship game” echo/cough preserves harm done by Hanako's retaliation. Repair remains asymmetrical and incomplete.
+- **Prison visit as threshold:** Nagisa physically comes to Mika, but the chapter cuts before a reasoned exchange. Contact is new; reconciliation is not.
+
+## V003 C003 E003 motif / callback delta — unknowable heart, chosen trust
+
+- **Happy-end parody:** Mika lists caught traitor, diminished Arius and prospective treaty as if closure; Nagisa inwardly rejects it because Mika's betrayal/Seia harm and their relation remain broken. Peace procedure and personal repair are different goods.
+- **Childhood bond and suspect spiral:** Nagisa says she sought the killer partly to avoid leaving Mika alone; the motive makes her fear intelligible without cleansing the club's collective punishment.
+- **Accusation versus private truth:** Mika insists she is a killer/traitor, Hanako hypothesizes protective panic and initial abduction, and both dispute access to motive. Observable order, explosion and surrender cannot certify one hidden heart.
+- **Fifth old rule returns:** Hanako analogizes unprovable paradise to another person's inner truth; Sensei's choice-conditioned response is trust/action under uncertainty. This is not a doctrine of ignoring evidence or waiving accountability.
+- **Retaliation self-correction:** Hanako admits breaching her secrecy promise to Mika and says a teasing investigation became harmful, continuing her chapter-long pattern of care mixed with sharp manipulation.
+
+## V003 C003 E004 motif / callback delta — ordinary work before ceremony
+
+- **Passed yet not restored:** Mashiro's current remedial-club designation for Koharu resists a too-neat “academic pass equals institutional return” ending. The practical aftermath lags the exam score.
+- **Help as work:** Hanako's promised Sisterhood assistance becomes days of document sorting, mixing voluntary commitment, fatigue and sexualized teasing; neither a pure reward nor proven coercion.
+- **Institutional fantasy corrected:** Makoto transforms a formal meeting into an imagined alliance to destroy Prefect Team; Iroha's correction reprises the need to test rhetoric against actual mandate.
+- **Trust as multiview practice:** Hina recaps the traitor as only one perspectival truth and Sensei's continued effort as belief in students, echoing C003 E003 without making facts relative or wrongs vanish.
+- **Rest under peace promise:** Ako hopes treaty reduces Hina's work, while Hina privately wants a break and minimizes “retirement.” Signing day approaches, but neither peace nor rest has materialized.
+
+## V003 C003 E005 motif / callback delta — plural happy endings
+
+- **Broadcast simplification versus lived plurality:** public peace narration offers a neat arc, while students' futures remain unsettled.
+- **Effective graduation, continuing status:** celebration is relational, not administrative; E004's club assignment is not formally superseded.
+- **First-friend object persists:** Azusa still carries Hifumi's Peroro Doctor gift. Future shopping is only proposed.
+- **Happy-ending disagreement without rupture:** Hifumi wants all friends happy; Azusa says effort cannot erase wounds but validates Hifumi's preference. Neither guaranteed paradise nor compulsory despair follows.
+- **Public bustle/private boredom:** students presume Sensei busy; Sensei inwardly finds a cathedral moment dull. This contrast does not prove no work exists.
+
+## V003 C003 E006 motif / callback delta — the promise's enforcement shadow
+
+- **Painted line to treaty line:** a petty boundary quarrel threatens violence before signatures, dramatizing why institutional restraint is sought without showing ETO works.
+- **Guardian history:** Hinata's Justina explanation casts covenant as promise plus `制約`/enforcement; Hina independently imagines ETO as Makoto's `足枷`. Neither secures peace before the missile.
+- **Church above/below:** repaired ceremony floor and rumored ruined catacombs split public peace surface from uncertain underside; Arius underground orders tempt but do not prove a mapped catacomb route.
+- **Rest deferred by emergency:** Ako's worry about Hina is postponed until after ceremony, then attack begins. Hina's E004 private rest wish remains open.
+- **Catastrophe becomes event:** E020's prophetic language is overtaken by an actual launch and blast, but the human costs remain unprinted. Do not retroactively treat every Seia forecast as omniscience.
+
+## V003 C003 E007 motif / callback delta — ash beneath peace
+
+- **Peace pageant burns:** E005's public optimism and E006's covenant/enforcement tour collide with actual cathedral fire and a fallen spire; no completed ETO yet exists to stop attack.
+- **Boasted alliance as trap:** Makoto's enemy-of-my-enemy logic and airship-gift triumph flip with Iroha's Arius-hates-Gehenna warning, flammable boxes and a second blast. The comic arrogance carries real peril, but fates remain open.
+- **Distributed rescue, not lone hero:** Arona's attempted shield, Hinata's strength, Hasumi's evacuation and Tsurugi's stand echo earlier student-owned protection while Sensei is immobilized.
+- **Guardians' appearance versus identity:** Hinata's historical Justina account is followed by clothing-matched strange foes; the callback asks who enforces a promise without establishing literal resurrection.
+- **Inward forensics versus action:** Hina turns from speculative missile technology/perpetrators to immediate concern for Sensei, distinguishing analytic ability from confirmed explanation.
+
+## V003 C003 E008 motif / callback delta — counterfeit guardians, real care
+
+- **Copy of the covenant:** Hinata's historic guardians become Arius-labeled `ミメシス` and Maestro's “dignity” copy, making the apparent sacred return a reproduction claim rather than proof of old authority.
+- **Signature in hostile mouth:** the sole completed-signing assertion comes from an Arius combatant amid destruction, keeping the formal peace instrument epistemically unstable.
+- **Doctrine beneath ruins:** Maestro's desired `教義` destination and prior underground orders echo the cathedral upper/lower divide without showing the target itself.
+- **Rear guard as costly trust:** rival school agents coordinate to preserve Sensei while expecting to hold an overwhelming foe; the choice is present, its success/open survival not.
+- **Hina's wound versus reassurance:** she minimizes visible harm as she vows to open a path, continuing E004's rest concern without answering it.
+
+## V003 C003 E009 motif / callback delta — paradise as captured jurisdiction
+
+- **Guardian title seized:** Saori claims the old covenant-enforcer role and ETO authority to rename Trinity/Gehenna suppression targets, twisting E006's promise/constraint motif into extermination rhetoric. Legal validity remains open.
+- **Adult body breaks the shield fantasy:** Sensei's confirmed bullet wound makes vulnerability concrete after E007's near-uninjured blast survival; Arona's earlier protection was limited, and Sena/Hina now act.
+- **Home denied versus home made:** Saori says Azusa has no place at Trinity/Schale, contradicting Sakurako's formal student recognition and Hifumi's durable gift/care without resolving Azusa's trauma.
+- **Hina falls and rises:** a local “finally down” report is undone by her renewed rescue move, preserving injury rather than heroic invincibility.
+- **Dream after bleeding:** Seia's uncertain dream encounter follows Sensei's clouding consciousness; interpretive access expands in a framed space without establishing objective future knowledge.
+
+## V003 C003 E010 motif / callback delta — sweet lie, bitter manufacture
+
+- **Promise as weapon:** Seia's old-story contract examples and Saori/Misaki's purported ETO clause make the same “binding word” motif ethical and predatory; no reviewed treaty text resolves it.
+- **Paradise misnamed:** Arius says the Eden covenant legitimizes suppression, while Seia calls the apparent council a distorted re-enactment; legal/sacred language conceals fabricated outcome.
+- **Sweet lie versus durable gift:** Saori names Azusa's Trinity belonging a `甘い嘘` just as she notices the first-friend plush; her exclusivity rhetoric does not erase official status or prior care.
+- **Misinformation as second explosion:** Trinity and Gehenna reserves blame each other for the Arius strike, risking the conflict the treaty was meant to forestall.
+- **Personal revenge widens war:** Saori's plan to erase even trees where Azusa lived turns abstract inherited grievance into direct punishment of a defector's home.
+
+## V003 C003 E011 motif / callback delta — small offices under broken center
+
+- **Distributed roles after leader absence:** Hifumi searches, Hanako organizes, Koharu reports to Justice, and medical responders protect transport; care persists despite a wounded Sensei and missing school leaders.
+- **Confiscation room returns:** Koharu's old room becomes her current work cue amid emergency, neither triumphant formal reinstatement nor simple exclusion.
+- **The reporter steps back:** Shinon admits she cannot see the fighting or count harm and follows Mai to safety, replacing E005's confident broadcast frame with bounded observation.
+- **Rumor as armed border:** gate students prioritize Gehenna labeling over the ambulance's medical claim until Rescue Knights/Suzumi force a pause; the victim is revealed to be Sensei after de-escalation.
+- **Mine's absent reputation:** “breaks, Knights heal” comedy backfires as a rhetorical appeal; it describes social memory, not actual Mine action in this unit.
+- **Sisterhood inheritance as contingency:** E006's historical guardian lineage contrasts with Marie's practical, witness-backed but unfiled succession request to Hanako.
+
+## V003 C003 E012 motif / callback delta — making a map under incomplete evidence
+
+- **From technical suspicion to measured correction:** Hina's E007 ramjet image is ruled out by Sisterhood analysis; this models revision without automatically replacing one false culprit with another.
+- **Patient under the ledger:** Sensei moves from vulnerable transit to reported treatment room, still unconscious; student inquiry must proceed without a speaking teacher.
+- **Old guardians on new footage:** Hanako names the Justina appearance while prior Arius sources call it mimesis; visual resemblance and ontology remain split.
+- **No-solution fear as self-labeled hypothesis:** Hanako's many linked motifs—Council, catacombs, Arius, Eden—generate a catastrophe forecast that she herself flags as leap-filled, not a validated future.
+- **Erasure analogy:** her inward memory of Arius after First Council echoes Saori's grievance but cannot certify total past erasure or inevitable present repetition.
+
+## V003 C003 E013 motif / callback delta — the promised future versus inherited fatalism
+
+- **Forecasts meet friendship:** Seia's no-way-out assertion extends Hanako's E012 hypothesis, while Hifumi invokes unfinished shared promises rather than a verified rescue plan.
+- **“Killer” as an identity trap:** Azusa's Arius training supplies a severe self-description and future intention; her voiced joy in learning and being a club student resists reducing her to that training.
+- **Plush, sea, anime:** the farewell's remembered first-friend gift and beach trip return as evidence of experienced belonging; the next group sea visit and Peroro anime remain unfulfilled.
+- **The unreachable side:** Azusa describes a moral border Hifumi must not cross, and Hifumi repeatedly calls across it. The scene leaves both physical course and relational durability open.
+- **Happy ending under dispute:** Azusa echoes Saori-like fatalism; Hifumi's hope is no guarantee, but Azusa's categorical denial is likewise not narrator-certified.
+
+## V003 C003 E014 motif / callback delta — a gift is more than a weak point
+
+- **Plush as hope and countermeasure:** Saori reads Hifumi's first-friend gift only as exploitable dependence; the hidden Seia-attack object forces a tactical second reading, without negating the real friendship or proving an explosion.
+- **Learned hatred:** Azusa questions when Arius gained weapons and whose resentment she was taught. Saori's intent-over-tool sermon evades the origin question, carrying E013's training-versus-self tension forward.
+- **Inherited technique versus change:** Saori claims she knows every Azusa method because she taught her, yet traps, escape and the decoy expose limits of that claim. No ultimate superiority is settled.
+- **Conditional guardianship:** Justina's apparent power is bound to conflict/identity interpretation by Saori's account, echoing treaty-law distortions without verifying actual covenant operation.
+- **Darkness and light:** Saori's moth/light metaphor names the plush “hope” only to weaponize that bond; Azusa's apology records an ethical cost the tactic cannot simply erase.
+
+## V003 C003 E015 motif / callback delta — refuse the false last page
+
+- **Ending/epilogue:** Seia calls E014-like disaster the story's terminal truth, but Sensei notices she has not read beyond it. The motif becomes a boundary on foreclosed interpretation, not assurance of a pleasant ending.
+- **Fifth old rule as practice:** the earlier paradise-belief exchange is retested under crisis; Sensei deprioritizes metaphysical proof in favor of going to students. It reframes the question without proving paradise.
+- **Fear of witnessing:** Seia initially treats later suffering as reason to avert her gaze, then accepts the duty to see through the end. This is an ethical/methodological revision, not verified body recovery.
+- **Swimsuit/underwear rupture:** an abrupt inward gag apparently receives Seia's reply; its comic register challenges solemn fatalism, but the representation anomaly prevents treating it as a rigorous argument.
+- **Unfinished student story:** Azusa's E014 apology and the waterway device remain unresolved while the dream conversation disputes whether the story is already over.
+
+## V003 C003 E016 motif / callback delta — fragments resist a single ending
+
+- **The bomb's incomplete victory:** E014's plush device does detonate, but Saori/Atsuko survive. The gift carries both true affection and lethal tactic; neither cancels the other or solves the conflict.
+- **Wounded institutions:** triage and rescue proceed while leaders are hurt/missing and local factions continue fighting; emergency care is not equivalent to political peace.
+- **Borrowed hatred refused:** Pater wants Mika to lend an official voice to its own war appetite. She retains anti-Gehenna feeling but refuses the command, exposing the gap between emotion and delegated violence.
+- **Koharu's role without title:** still barred from formal Justice return, she nevertheless intervenes against a crowd attacking Mika; action precedes authorization.
+- **The adult opens their eyes:** Sensei's E015 return intention gains a bodily foothold, yet Hanae's warning and no depicted departure keep rescue incomplete. Seia's “ending” again fails to contain the next observed fragment.
+
+## V003 C003 E017 motif / callback delta — hatred is not a transferable mandate
+
+- **Protective refusal:** Koharu blocks mob violence before Sensei arrives; Sensei validates her stance and the militants leave locally, echoing agency-preserving adult help rather than substitution.
+- **The unshared apology:** Mika wants to see Seia/Nagisa, and Seia voices forgiveness in a separate layer. Desire and inward/crosscut pardon do not yet become a mutual conversation.
+- **Friendship before weaponization:** the apparent Tea Party recollection has Mika first imagine sharing tea with Arius, then consider power against Gehenna when pressed; a simple social hope and dangerous opportunism coexist.
+- **Unfinished fifth-rule practice:** Seia admits how little she knew of Mika after judging her; faith in another person's unknown inner truth becomes inquiry and forgiveness, not absence of accountability.
+- **Adult reappearance:** Sensei moves from E016 waking to an observed local de-escalation and a broad “leave it to me,” while systemic repair remains a future test.
+
+## V003 C003 E018 motif / callback delta — do not leave a friend alone
+
+- **From solitary plan to shared search:** E013's Azusa-imposed border meets Koharu's memory of exclusion and Hifumi/Hanako's decision to stay beside her. The group has not yet reached Azusa.
+- **Ordinary strength:** Hifumi's self-description as “ordinary” first constrains her, then Sensei and peers identify her sustained leadership as its counter-evidence; no supernatural capability is implied.
+- **Care as infrastructure:** Sena's adult-treatment success and responsive Hasumi/Tsurugi coexist with ongoing wounds and Hina's absence; care does not equal an instant restored command chain.
+- **Words across the border:** Hifumi resolves to state directly what Azusa needs to hear; the communication has not occurred, preserving the friendship question.
+- **Converging paths:** Seia names the ruined old cathedral for Squad, Azusa and Sensei while Justina advances by her account; convergence is anticipated, not battle resolution.
+
+## V003 C003 E019 motif / callback delta — who may write the ending
+
+- **Faust mask as a bridge:** Hifumi's V001 mask role, once a coercive Black Market necessity, is reclaimed as proof she can stand beside Azusa without accepting a segregated “ordinary world.” The joke does not erase the bank action's moral complexity.
+- **Abydos solidarity:** direct allies answer Hifumi's call through exaggerated crime-boss theatre, converting old shared risk into present support rather than a permanent underworld hierarchy.
+- **Hina permitted to rest:** the overworked protector's “retirement” resolves as a request to be seen and helped; Sensei's thanks and awkward offers address the person, not only the role. Her return is chosen, not extracted as automatic duty.
+- **Hifumi's story:** montage-form first-person resistance rejects Seia/Saori's predestined grim ending; it is a normative commitment to effort/friendship, not prophetic happy-end proof.
+- **Two ETOs, one unstable command:** Sensei's rival covenant performance appears to disturb Justina control, but exact law/ritual remains an actor theory. The mechanism uses the treaty's ambiguity against its captors without certifying Schale's legal supremacy.
+
+## V003 C003 E020 motif / callback delta — cooperation before a treaty
+
+- **Shoulder-to-shoulder becomes present tense:** Hasumi and Chinatsu recall prior side-by-side work, and Hina accepts Justice assistance now; relationship precedes constitutional settlement.
+- **Abydos as additional bridge:** Hoshino offers help beyond the Trinity–Gehenna dyad, making the local alignment practical rather than merely Seia's rhetoric.
+- **Office and name:** Hina/Hoshino exchange titles while Hoshino requests personal address; Serika's correction adds warmth without a grand reconciliation speech.
+- **Movement, not ending:** “center opened/west/go” advances the tableau one step but leaves E019's ETO validity, Justina control and all combat outcomes open.
+
+## V003 C003 E021 motif / callback delta — proof is not the only way to move
+
+- **Old rule revisited:** Seia abandons a forced YES/NO paradise-proof frame and sees that practical trust/action may proceed without satisfying it; she expressly says belief is not formal proof.
+- **Reunion as infrastructure:** Ako and Ayane's recognized familiarity makes cross-school intelligence exchange socially possible, but the data itself remains uninspected.
+- **ETO opposition remains a frame:** Seia names two competing visions, while no new ritual/legal audit resolves either claimant.
+- **The next move:** Chinatsu's readiness and Hoshino's “go” extend E020's coalition movement, without transforming planning into victory.
+
+## V003 C003 E022 motif / callback delta — the irreversibility of lived effort
+
+- **Futility versus persistence:** Saori's `全ては虚しい` returns the vanitas/gray-world claim as an accusation; Azusa does not prove futility false but chooses to struggle despite it.
+- **The passed exam as fact:** Koharu's answer makes E019's certified group pass and work a concrete history Saori cannot retroactively undo, without implying formal club/Justice dispositions are resolved.
+- **Blue sky and differentiated future:** Saori envies Azusa under `青空` after shared suffering; this casts C002 Seia's contingent student futures as contested, not magically equal.
+- **Tactical depletion is not a full ending:** Hiyori's no-cards line narrows Arius options in her view but the duel and E023 underground story remain unopened.
+
+## V003 C003 E023 motif / callback delta — apparent end becomes final challenge
+
+- **“No cards” revised:** E022's defeat assessment meets Saori's unnamed underground reserve; the story refuses premature closure without yet proving the reserve works.
+- **Not alone:** Azusa's direct answer to Saori reuses the recent friendship/coalition motif at a personal scale, while her own decision and friends' farewell stay distinct from Sensei accompaniment.
+- **Care and promise:** Azusa keeps injured Hifumi out of the pursuit and promises return. The promise is an ethical/relational orientation, not guaranteed future.
+- **Futility rhetoric persists:** Saori repeats the empty-world claim at the threshold of a proposed last battle; no philosophical or military endpoint follows in this unit.
+
+## V003 C003 E024 motif / callback delta — unlearning a borrowed hatred
+
+- **Hatred's ownership:** Atsuko separates a learned, implanted grievance from the Squad's authentic will, giving Saori a possible exit without proving the full causal history.
+- **Flight as refusal:** Atsuko's repeated “let's run” reframes retreat from failure into a collective alternative to Arius return/death, but no refuge is reached.
+- **Adult card under price language:** Sensei reluctantly produces a card when Azusa fears the displayed doctrine; Maestro aestheticizes life/time cost. Motif importance does not supply technical cost accounting.
+- **Unfinished art and open route:** Maestro promises to complete his incomplete form, while narration cannot locate the Squad's exit. The apparent climax is bounded, not full-series closure.
+
+## V003 C003 E025 motif / callback delta — unfinished homework and recurring study
+
+- **Homework of other hearts:** Seia turns the old-rule “unprovable” problem toward conversation about withheld truths, without claiming the three have solved it.
+- **Graduation and recurrence:** Sensei's expectation of a new remedial cohort collapses comically when the same four return for different reasons. The E019 pass remains real; belonging/learning are not a one-time solved state.
+- **Flower in concrete:** Atsuko recalls Azusa's earlier flower and projects hope for learning even amid futility; wishful address is not guaranteed safety or renewed contact.
+- **Threat after epilogue:** the unidentified royal-blood capture/halo-destruction order denies complete safety to the Squad even after failed pursuit by the protagonists.
+
+## V003 C003 checkpoint motif reconciliation
+
+The [C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md) reads `vanitas`/futility against concrete continued effort, the four's certified pass and recurring study, the flower in concrete, and Hifumi/Atsuko's different refusals of a fixed killer identity. “Paradise” shifts from a coercive proof test to Seia's qualified invitation to act and speak under uncertainty; it is not empirically certified. ETO/Justina copying and the card remain incomplete mechanisms. The last anonymous order prevents motif-level hope from being mistaken for durable safety. C004 E001 unopened.
+
+## V003 C004 E001 motif / callback delta — name-bound promise without fidelity
+
+- **Sacrifice versus choice:** Saori offers to buy time with a halo bomb, while Atsuko makes a first claimed autonomous decision to surrender. Both choices occur inside a lethal encirclement, not free alternatives.
+- **Name as guarantee tested:** Atsuko asks the Madam to swear by her name; Beatrice names herself, then orders the remainder killed. The name's performative pledge has no protective enforcement here.
+- **Futility returns inward:** Saori cannot imagine a next destination and asks what she lives for if Atsuko is lost; this is current despair, not narrator-certified meaninglessness.
+- **Unfinished violence:** `撃て` leaves the attempted betrayal at a cliff, not an observed casualty or destroyed halo.
+
+## V003 C004 E002 motif / callback delta — protect students, interrogate institutions
+
+- **Homework becomes postmortem:** the three leaders discuss the treaty attack while explicitly admitting evidence gaps; Seia's unprovable-heart ethic does not substitute for missile/Justina inquiry.
+- **Trust under a hearing:** Nagisa's E003 C003 fear-for-Mika and E025 talk invitation now become a choice to defend Mika despite uncertainty; it is not exoneration or successful persuasion.
+- **Adults/leaders carry mud:** Nagisa/Sakurako aim to spare Hifumi, Hanako, Koharu and Azusa further institutional conflict, while Sensei agrees to continue. This reassigns burden prospectively, without sealing students away.
+- **Labyrinth:** catacombs and rotating encrypted maps keep the Arius route unknown despite several clues; the metaphor should not become a solved map.
+
+## V003 C004 E003 motif / callback delta — mercy, cage and an unclosed future
+
+- **Princess versus cage:** Mika's fairy-tale tower performance meets Sensei's correction to confinement; play does not erase punishment or explain its justice.
+- **Mercy versus deserved cost:** `Kyrie eleison` makes a plea for mercy that Mika resists while she accepts the song, and she treats self-exclusion as protection for Nagisa/Seia. Her attendance decision opens speech rather than proving forgiveness or leniency.
+- **Misread refusal:** Mika interprets Seia's declined meal as hatred despite Seia's illness explanation; the callback to C003 personal forgiveness is relationally possible but not yet enacted face to face.
+- **Dream ending:** Seia's present illness and claimed catastrophic glimpse renew the paradise/fatalism frame. The vision remains reported knowledge, not an accomplished or inevitable end.
+
+## V003 C004 E004 motif / callback delta — apocalypse versus nearby repair
+
+- **Dream time:** Seia cannot sort nightmare, future and past; the tower/crimson sky/black light imagery is vivid but not causally or temporally certified.
+- **Princess to fable:** Seia recalls Mika's adored princess status and inwardly calls her a failed villainess turned fable subject. This complicates Mika's cage performance without making public hatred deserved or her entire past known.
+- **Forgiveness not communicated:** Seia's dream-experienced pardon lacked an actual face-to-face `ごめんね`. Both decide to speak, turning the metaphor of rescue toward a concrete requested meeting.
+- **Distant danger/nearby person:** Sensei's collective-inquiry warning redirects Seia from solitary Gematria pursuit to Mika. The apparent Gematria gathering immediately reappears in sleep, preserving the unresolved external threat without validating Seia's hypothesis.
+
+## V003 C004 E005 motif / callback delta — interpretations weaponized
+
+- **Art versus weapon:** Maestro frames copied guardians as interpretive work, Beatrice calls the product a weapon and claims to repurpose others' technology/text. This is their conflict of values in the dream-framed scene, not a resolved ownership or mechanism audit.
+- **Hatred as instrument:** Beatrice inwardly says Arius hatred controls children, Treaty provides access to guardian power and Squad is disposable; this darkens Atsuko's C003 claim that hatred was taught, without proving every causal step.
+- **Adult antagonist:** Black Suit/Maestro imagine Sensei as possible ally, Beatrice as required elimination. The opposed “meanings” of Sensei echo previous asymmetric-power conflict rather than one unified Gematria will.
+- **Near meeting interrupted by distant threat:** Seia plans Mika repair, then emerges ill from a dream meeting with a claimed danger to Sensei; Mika arrives at the cliff. Presence is not apology or reconciliation.
+
+## V003 C004 E006 motif / callback delta — broken wing and interrupted apology
+
+- **Near care against remote dread:** Mika comes for private repair and immediately tends to visibly failing Seia, while Seia's perception is pulled to the distant Arius altar. Proximity does not guarantee communicative availability.
+- **Causal blame checked:** Seia's fear initially lands on Mika bringing Sensei, then she explicitly retracts blame and calls the crisis her own failure. This limits the simple “Mika caused everything” narrative without settling the prior harm.
+- **Warning across uncertain channels:** Seia's plea to Sensei and Sensei's faint impression of her voice mirror the dream/reality boundary; no reliable message delivery is yet shown.
+- **Altar/wing:** Beatrice's sanctuary and Seia's fear of summoning connect visually to the catastrophe vision, but the ritual function is still her inference; the title cannot certify a literal broken wing or outcome.
+
+## V003 C004 E007 motif / callback delta — rival fairy tales and chosen restraint
+
+- **Fairy tale inverted:** Mika calls hoped-for repair a false fairy tale, then converts hurt into a simple Saori-as-origin story. The latter is emotionally intelligible but contradicted by multiple agency layers already on record.
+- **Sacrifice recounted:** Saori says Atsuko was raised as a `生贄` and that conquest was sold as a way out. Her own offered life/bomb repeats sacrifice logic; Sensei refuses to hold a lethal threat over her.
+- **Teacher despite injury:** Saori admits shooting Sensei, who nonetheless treats her plea as a student's request and enforces a safety boundary. Care is neither amnesty nor unconditional trust.
+- **Two dawns:** Nagisa's planned hearing and Saori's reported ritual converge on next morning, but neither is completed here; urgency does not certify the exact timetable.
+
+## V003 C004 E008 motif / callback delta — `vanitas` answered by staying
+
+- **Futility as pressure:** Misaki's `vanitas vanitatum` echoes the Eden arc's earlier futility language, now from a person in immediate self-harm danger. It is a claim confronted by care, not a metaphysical proof.
+- **Refusal under coercion:** Hiyori rejects a reported route home purchased with Saori's location; Saori permits her to choose it anyway. Shared care for Atsuko persists without proven safe refuge.
+- **No guaranteed rescue:** Saori promises to follow Misaki and keep her alive, and Misaki joins the attempt; the bridge scene shows immediate de-escalation, not that suffering or danger is solved.
+- **Clock precision:** ninety minutes to midnight/entrance is a new local deadline nested before reported dawn ritual, not evidence the group can reach Atsuko or win.
+
+## V003 C004 E009 motif / callback delta — labyrinth and bounded adult power
+
+- **Labyrinth as access control:** ~300 claimed entrances, false doors and changing routes make Arius concealment a practical obstacle; the exact mechanism remains unknown even to Misaki.
+- **Wounded hounds:** Saori reclaims a pursuer's discard metaphor as fighting resolve, not a guarantee of success.
+- **Adult power, offscreen:** Hiyori calls the result impressive and frightening, recalling earlier adult-capacity themes while leaving tactics and proportionality unseen. Entry/rescue remain future.
+
+## V003 C004 E010 motif / callback delta — villain at the threshold
+
+- **Threshold still closed:** Squad plans forced passage, but Mika arrives before the predicted guard clash or crossing. Physical proximity to Arius is not access.
+- **Witch/villain loop:** Mika recycles the crowd's `魔女` accusation as a playful taunt; performance overlays her E007 revenge intent without neutralizing it.
+- **Protective order:** Saori places Squad in front of Sensei, complicating the simple former-assailant versus victim relation.
+
+## V003 C004 E011 motif / callback delta — own claim and lost home
+
+- **Equal pain:** Mika moves from being called a witch to demanding Squad lose as much as she feels she lost; the symmetry is a proposed punishment, not justice certified by narration.
+- **Doll/hound figures:** Mika taunts Squad's poor fight and later recognizes from pursuers that Arius also treats them as failed tools. This may complicate her hostility without yet ending it.
+- **Threshold crossed only once:** Sensei/Squad enter catacombs, while Mika stays outside before a firing order. The district and sanctuary remain ahead.
+- **Promise deferred:** Sensei promises explanation to Mika but leaves under urgent rescue pressure; whether this restores trust or is received as abandonment remains open.
+
+## V003 C004 E012 motif / callback delta — care at a ruined school
+
+- **Old/new district:** a former Arius site turned training ground materializes institutional displacement, but the civil-war chronology is Misaki's account.
+- **Adult order versus adult care:** Hiyori recalls a child beaten for disobeying an adult; in the present Sensei supplies medicine and invites rest. The contrast is local, not a blanket judgment of all adults.
+- **Burden not monopolized:** Seia asks Sensei not to carry every problem and plans Nagisa/others' help for Mika, while Squad rotates guard; none of these future repairs is complete.
+- **Vision conditionality:** Seia's end/Atsuko forecasts coexist with her admission that rite mechanics and message reception are unknown.
+
+## V003 C004 E013 motif / callback delta — inherited roles and taught hopelessness
+
+- **Vanitas as curriculum:** Madame's maxim is recalled not as a spontaneous Squad philosophy but as one element of a childhood combat/hatred pedagogy; earlier Misaki/Saori nihilism gains coercive context without erasing their choices.
+- **Princess/royal blood:** Atsuko is both a reported dynastic successor and Misaki's directly remembered kind friend; a sacrifice rumor converts honor into vulnerability. Lineage and hereditary rule remain reported.
+- **Adult authority contrast:** Madame's claimed true-adult obedience meets Sensei's question/listening and practical medicine, but Hiyori still flinches at Sensei's expression. The difference is behavior, not an automatic status exemption.
+- **Hidden passage:** the alleged Justina-built corridor offers a route out of direct force, yet it must first be found; institutional history does not itself guarantee passage.
+
+## V003 C004 E014 motif / callback delta — distorted teaching and costly truth
+
+- **Vanitas re-engineered:** Beatrice claims she recast a humility maxim as worthless emptiness and strict self-scrutiny as endless guilt, giving E013's childhood curriculum a stated manipulative design rather than treating Squad's despair as innate.
+- **Paradise contest:** Beatrice calls predation of children an adult paradise, offers truth at Atsuko's expense and caricatures Sensei's treaty/friendship position. Sensei refuses the sacrifice bargain; neither cosmology nor treaty status is thereby proven.
+- **Path and instrument:** changed streets, missiles and Justina-looking force reveal long-running materiel changes, while Beatrice says Squad's visible occupation task concealed the one-time royal-blood path. The path remains an asserted mechanism.
+- **Encounters cut:** Beatrice invites a basilica showdown, then Mika reappears after an unshown failed clash. Neither encounter is a completed rescue or measured victory.
+
+## V003 C004 E015 motif / callback delta — home, price and vanishing self
+
+- **No home:** Mika's `帰る場所がない` parallels Squad's taught “only Arius is home” trap, but hers is a feared exclusion after her actions, not an issued expulsion. The parallel illuminates pressure without equating histories.
+- **Equivalent cost:** Mika needs Saori to lose something because she construes unpunished Squad as erasing the meaning of her own losses. Revenge becomes an identity anchor rather than evidence of fair proportion.
+- **Temporary win:** a local subdual leaves Mika able to walk away and threaten continued pursuit, limiting any “victory” reading.
+- **Corridor deferred:** Squad still only states intent to use the old-school route; the title of E016 names a corridor but cannot be imported as an E015 crossing.
+
+## V003 C004 E016 motif / callback delta — route found, care divided
+
+- **Ruined school to usable corridor:** the former learning site is physically reached and yields a passage, crossing the earlier hearsay boundary; its connection all the way to the basilica remains unproven.
+- **Selective harm:** Mika says she lowered force to avoid Sensei yet isolates Saori. The narrow care for one adult coexists with purposeful endangerment/entrapment of a student.
+- **Broken bridge:** falling columns literally split Sensei's group from Saori, turning Mika's E015 demand for a private cost into a spatial separation before any duel result.
+
+## V003 C004 E017 motif / callback delta — competing endings, not settled fates
+
+- **Happy ending versus witch/hound ending:** Mika assigns Sensei a student-rescue story and herself/Saori a fatal punishment story. These are her dramatic scripts, not narrated destiny; both rescue and duel remain open.
+- **Vanitas resisted:** Mika weaponizes Saori's `すべては虚しい` teaching, and Saori responds by resolving to struggle to the end. This is local resistance, not a global cure.
+- **Price and accountability:** Saori acknowledges a causal role in Mika's suffering while insisting on the rescue split, without transferring complete causation or authorizing execution.
+- **Color/Barbara split:** Beatrice names a feared incomprehensible `Color` and a separately planned human-made Barbara weapon. Neither is independently witnessed as a completed threat in this unit.
+
+## V003 C004 E018 motif / callback delta — a second chance not guaranteed
+
+- **Reconciliation symbol inverted:** Azusa's original proposed transfer embodied a test of school coexistence, then Beatrice converts Mika's contact into intelligence and Saori later assigns Azusa a spy/attack role. The same person becomes institutional proof or instrument depending on adult/leader choices.
+- **Second chance:** Saori wonders whether a good adult earlier could have changed her life; Mika confesses the same wish and refuses to deny it by killing Saori. Neither is thereby acquitted, formally forgiven or assured future belonging.
+- **Vanitas rejected, blame over-totalized:** Saori calls learned hatred and `すべては虚しい` false, but then assigns all harm to herself. The first is explicit self-revision; the second is not an objective causal map.
+- **Bomb withheld:** E007's confiscation recurs in Saori's answer to Mika, narrowing this confrontation's lethal means without proving what Mika's unfinished conditional meant.
+
+## V003 C004 E019 motif / callback delta — manufactured chances against manufactured scarcity
+
+- **Infinite possibility:** Sensei offers to make another chance when absent, without denying Mika's wrongdoing. The inward infinity image is commitment to continued effort, not an oracle of success.
+- **Witch versus student:** Mika repeats `魔女`; Sensei inwardly calls her a harmful but still addressable student, preserving responsibility without fatal identity.
+- **Clock revoked:** Beatrice refuses to wait for the expected sunrise, so the mission's participant deadline was never a reliable constraint on her ritual.
+- **Liminal elsewhere:** Seia's unnamed daydream visitor opens a new possible contact, not a confirmed rescue or physical Hyakkiyako arrival.
+
+## V003 C004 E020 motif / callback delta — named weapon arrives, result withheld
+
+- **Saint as weapon:** Barbara's title-linked force reaches the protagonists, realizing E017/E019's threat at encounter level while leaving her form, agency and effect opaque.
+- **Overwhelming not omnipotent:** Hiyori's tactical-weapon comparison and fear register emergency scale, not an absolute power ranking or certain defeat.
+- **Cliff still open:** the E021 title points toward a sanctuary, but E020 does not show arrival, Atsuko's fate or completion of Beatrice's rite.
+
+## V003 C004 E021 motif / callback delta — chance made tactical
+
+- **Pursuer as diversion:** Mika's prior pursuit becomes a voluntary delaying role for the rescue party. The action concretizes her wish for another chance without proving self-forgiveness, pardon or successful protection.
+- **Sanctuary crossed:** the named inner sanctuary is now reached, moving an earlier destination into present space while leaving the altar/rite and extraction unresolved.
+- **Apparent reprieve:** Atsuko looks unconscious rather than visibly dead to Misaki, but the appraisal's modal wording keeps Beatrice's halo threat open.
+
+## V003 C004 E022 motif / callback delta — sacrificial salvation contested
+
+- **Lamb as expendable student:** Beatrice names an Agnus dei “small sacrifice” as necessary for universal rescue; the unit exposes the coercive arithmetic rather than endorsing it.
+- **Adult ideal fork:** Beatrice's ascent, total judgment and universal cure oppose Sensei's limited teacher role and solidarity with suffering students.
+- **Monster unmasked, power unstable:** Squad's description of Madame's form as monstrous reverses her great-adult self-image; her later reported power failure checks the triumphal transformation claim without ending the rite.
+
+## V003 C004 E023 motif / callback delta — Kyrie for the other girls
+
+- **Fairy tale reallocated:** Mika recalls Koharu/Sensei rescuing her yet denies herself the princess/protagonist place, assigning the rescue stage to Sensei and Squad. This is her story-frame, not narrator fate.
+- **Mercy against symmetry:** personal `赦す` and prayer for Squad reject the `公平に不幸` revenge calculus she explicitly names.
+- **Choir room and mercy music:** Arius's old scores/organ/gramophone make shared schooling imaginable to Mika; the apparently self-starting music and `Kyrie Eleison` echo her prayer without an established supernatural cause.
+
+## V003 C004 E024 motif / callback delta — mercy heard, sacrifice interrupted
+
+- **Kyrie reaches the sanctuary:** the mercy song is audible where Beatrice insists students sing hate and be exploited. This directly counters her manufactured Arius ethos, while the song's production remains unexplained.
+- **Substitute lamb resisted:** Beatrice seeks Saori as a new sacrifice; Saori offers herself, repeating the self-expendability that rescue should challenge. Misaki protests and the resulting fight is skipped.
+- **Rescue without erasure:** Atsuko wakes and addresses her friends, but severe injuries persist as evidence; a happy reunion does not certify complete healing.
+- **MacGuffin dispute:** Golconda reduces Beatrice to a device in his preferred “text.” His rhetoric contests narrative centrality, not the reality of harm or accountability.
+
+## V003 C004 E025 motif / callback delta — responsibility as a livable future
+
+- **Punishment versus existence:** Saori's offer to be sent away meets Sensei's distinction between wrongdoing and deserved suffering; Atsuko's questions about food, hobbies and dreams make responsibility for life concrete rather than a sentence.
+- **Teacher becoming thinkable:** Squad's account of Saori's skills and Sensei's tentative teacher image reverse Beatrice's corrupted education, without establishing an occupation.
+- **Princess rescued twice:** Mika's earlier self-exclusion meets Sensei's return and inward “precious princess” address; card retrieval signals readiness, not proven rescue mechanics.
+- **Rescue includes opponents:** Mine explicitly extends treatment to Arius girls and future battle casualties, challenging a simple enemy-only operation while action remains pending.
+
+## V003 C004 E026 motif / callback delta — many hands light the way
+
+- **Reciprocal rescue:** Seia says they must light Sensei's path too; Justice, Sisterhood, Rescue Knights, Azusa, Hanako/Ui and Koharu supply different parts of Mika/Sensei's route. None alone owns the result.
+- **Family across guilt:** Azusa asks care for former Squad while acknowledging serious wrongs, extending learned friendship without erasing history.
+- **Saved ornament:** Koharu's rescued accessories materially return something Mika believed wholly burned, a small care act distinct from pardon or hearing outcome.
+- **Hearing after embrace:** Mika/Seia/Nagisa's affectionate apology occurs before the hearing, keeping interpersonal repair and institutional accountability on separate clocks.
+
+## V003 C004 E027 motif / callback delta — flower, cost and zero wage
+
+- **Flower against `vanitas`:** Atsuko recalls Azusa's concrete flower as a reason to resist futility; hope coexists with Misaki's credible placelessness fear.
+- **Wandering future:** Saori's separate path to mercenary work contrasts with Squad's group road; predicted reunion/happy ending are not achieved in this epilogue.
+- **Prophecy surrendered for present:** Seia reports losing future dreams and defers her last vision, choosing the gathered present over foreknowledge.
+- **Black Market loop:** the executive's zero-wage extraction recalls Abydos/PS68 predatory economies, while Haruka's misread “greeting” revives the cost of outlaw-performance misunderstanding. No offscreen explosion is certified.
+
+## MAIN V003 C004 checkpoint motif reconciliation
+
+The [canonical C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md) governs the chapter's linked contrasts: Beatrice's sacrificial `Agnus dei`/hate versus Mika's `Kyrie`/personal forgiveness; the “witch” self-story versus Koharu/Seia/Nagisa/Sensei's enacted care; adult omnipotence versus teacher/coalition; flower-in-concrete youth versus Black Market zero-wage precarity. These are textual relationships, not supernatural causal proof, final legal absolution or guaranteed happy ending. V004 C001 E001 unopened.
+
+## V004 C001 E001 motif / callback delta — reports before force
+
+- **Paperwork after heroics:** Rin's numerals/stamp/style corrections return the adult role to traceable administration after the Eden rescue, without undoing field value.
+- **Missing president, widening vacuum:** Rin treats SRT's former elite-school role and repeated federal incidents as post-disappearance governance strain; this is her frame, not a legal abolition record.
+- **Escalation ladder:** Security then Public Security fail by report, while media arrives; the comedy of Sensei escaping paperwork coexists with a serious threat whose opponents have not spoken.
+
+## V004 C001 E002 motif / callback delta — rank and the lost home
+
+SRT's `閉校を取り消せ` demand becomes individual: Saki insists the school remains as long as they resist, while Miyu realizes she cannot simply go home. The external elite status that Kanna treats as decisive also becomes Saki's tool for shaming Miyu; Sensei's `みんな「生徒」` and Life Safety's subdual complicate rank as a moral or tactical absolute. Drone spectacle consumes Moe's support ammunition, making visible a cost that Miyako had forecast. The `クローバー`/`ニンジン` password lets a nominal security procedure become the opening for deception. No full future-home, transfer or disciplinary outcome is implied.
+
+## V004 C001 E003 motif / callback delta — four versions of belonging
+
+The interviews turn E002's shared `閉校を取り消せ` into nonidentical stakes: Saki's disciplined wolf identity, Moe's weapons access, Miyu's continuity of recognition and Miyako's consistent-justice ideal. Kirino mistakenly reads Moe through a camaraderie script; Miyako explicitly rejects an anti-Valkyrie motive. The record's `不適格`/`保留` stamps offer procedural comedy and threat without an explained legal endpoint. Saki's desired single breach of discipline and Miyako's self-blame complicate idealized institutional self-descriptions. Sensei's welfare question meets Miyako's suspicion of adult bargaining; his inability to reverse closure keeps care separate from omnipotence.
+
+## V004 C001 E004 motif / callback delta — exceptional power and responsibility vacuum
+
+Kaya's SRT history reframes E003 Miyako's interest-independent justice ideal: according to Kaya, a presidential cross-jurisdiction exception gave SRT reach but left no accepted supervisor after the president vanished. The supposed solution of forced transfer would preserve elite human capital at the cost of chosen paths. Sensei's inward objection to coercion and Kaya's later offer echo earlier adult-power versus student-agency motifs, but the scene stops before a disposition. Kaya's “principle” dismissal is not by itself institutional reform. FOX's alleged violence and RABBIT's local protest are different episodes; their precise causal relation is Kaya's narrative.
+
+## V004 C001 E005 motif / callback delta — freedom without belonging
+
+A local `釈放` gives immediate freedom but cannot restore SRT or give the squad an accepted school home. Sensei's Schale shelter offer would solve rest only at the cost Miyako sees for ongoing protest; `子ウサギ公園` becomes an interim space combining field identity and visible dissent. This echoes earlier school-belonging questions without equating their institutional conditions. Saki rejects Miyako's monopoly on blame, while distrust of adults survives mercy: relief is not trust, and noncoercion is not guaranteed security. The lurking Schale-abuse rumors dramatize fear, not established practice.
+
+## V004 C001 E006 motif / callback delta — the cost of refusing a school
+
+The park as protest home now has water, shade and defensive traps but no food; SRT's hardware/manual displace basic sustenance. This literalizes the gap between elite training and ordinary survival while adding public-risk externalities from a mine whose location Moe cannot recall. Ramen aroma becomes the comic “torture” of hungry autonomy. Sensei's transfer prompt makes support potentially coercive, then the discarded-food workaround recasts charity as labor without erasing shame or school loss. The scene retains a dignity-versus-need tension rather than granting instant gratitude or a safe long-term food system.
+
+## V004 C001 E007 motif / callback delta — rank under ordinary need
+
+Food arrives but dignity, equitable allocation and hygiene do not automatically follow. Miyako's rationing sermon collides with choosing the costliest meal, a small self-exception paralleling Saki's E003 discipline exception. SRT field toughness meets four-day bathing difficulty; refusals of Schale aid turn privacy and autonomy into active constraints. Sensei's old-fashioned drum bath is mocked then operationalized, showing helpful input without automatic adult command authority. The Carrot Operation name is introduced as a plan, not yet a triumph.
+
+## V004 C001 E008 motif / callback delta — possession and consent
+
+The drum both solves hygiene and becomes an absurd disguise that carries the team through fire. Saki's manual-based certainty fails at the unplanned guard and isolated Miyu, but rescue priority and cooperation salvage the mission; “elite” skill is tested by contingency, not denied entirely. A bath brings a rare shared ordinary pleasure and a hoped SRT future, then Sensei's presence violates the privacy boundary the group had named in E007. The alley leader's `無所有` ideal opposes RABBIT's material scavenging, while reported depletion of discarded meals/scrap reveals that “waste” can support someone else. The contest over possession and consent is unresolved.
+
+## V004 C001 E009 motif / callback delta — rumors and vulnerable adult
+
+Kirino's patrol mixes civic duty, ordinary appetite and aspirational transfer; the reported fiscal shortage echoes RABBIT's frozen account without proving a common budget mechanism. An armed-wanderer rumor after E008's salvage and alley threat invites premature identification, which the text withholds. Sensei's public reassurance and solitary smoke incapacitation contrast their tactical value with bodily vulnerability. The recurrence of `？？？` is a representation convention, not identity evidence. The episode ends at consciousness loss, not a known rescue or captivity setting.
+
+## V004 C001 E010 motif / callback delta — possession in the guise of refusal
+
+The E008 alley scarcity complaint receives a named organized claimant in Decartes's 所確幸, but E009's smoker remains a separate unknown. `無所有` poses as freedom from material dependence while the group wants priority over coveted discarded meals and guards expensive stores; Decartes explicitly defends ownership after battle. RABBIT's scavenging needs and Sensei's fictitious steak bait make appetite a tactical lever, not just comic texture. The squad's final refusal to take supplies preserves a local boundary despite necessity; it does not settle rightful access to discards. The skipped battle and unproven warning-shot account resist clean victor/culprit closure.
+
+## V004 C001 E011 motif / callback delta — weather as institutional attrition
+
+Storm exposes the cost of treating a protest camp as a permanent SRT home: shelter, ammunition, communications and the squad's rationale all come under pressure. Saki's dignity-as-public-safety reading clashes with Miyako's dignity-as-not-giving-up reading; neither is resolved by a formal SRT act. Sensei's physical drainage labor answers a locally chosen need after E010's refused purchase/help alternative, yet poor shovel skill and a cold prevent an effortless savior image. Drainage work and rain cessation coexist, so a simple individual-causation moral is unwarranted. Miyako's thanks is a bounded change under unchanged material loss.
+
+## V004 C001 E012 motif / callback delta — care meets planned redevelopment
+
+E011's rain damage becomes a written repair proposal, but the park is simultaneously described as near removal/redevelopment. Maintenance of a shared place and institutional intent to erase that place conflict, sharpening the contrast between RABBIT's lived camp and federal categories of a closed school. Sensei's practical help cannot simply buy an official fix. Kaya's “three arrows” images coalition as strength, while she keeps its interests unnamed; her separate expectation that student/teacher ties would break reframes cordial assistance as possibly instrumental, without proving an engineered injury.
+
+## V004 C001 E013 motif / callback delta — inari, dreams and contested redevelopment
+
+A seller's inari moves from a customerless commercial street to a hungry park camp, briefly making ordinary food a connection amid contested property and planned redevelopment. The seller's former friends/juniors and Miyako's inari-loving SRT seniors invite recognition without establishing it. Dreams recur in opposing registers: vendor speculation treats the protest as a fragile impossible dream, Sensei states supporting students' dreams is a teacher's duty, and Saki/Miyu show materially different responses to that dream's risk. Rumored Kaiser construction and rumored cancellation must stay below E012's official yet still undocumented redevelopment appraisal.
+
+## V004 C001 E014 motif / callback delta — repair by commodifying damage
+
+E011's ruined equipment becomes Moe's hoped exchange value: damaged missiles/bombs might buy fresh arms, recasting storm loss as market opportunity. The proposal returns to Kaiser-branded commerce after E013's redevelopment rumor but names Kaiser Industry rather than Kaiser Construction; corporate branding alone does not make the two transactions one plan. The stockout-by-anonymous-buyer report opens a threat-shaped gap without identifying an adversary. Public-safety identity restrains bank robbery in speech even as Moe asks for high-hazard munitions, creating an ethical tension the scene does not resolve.
+
+## V004 C001 E015 motif / callback delta — money, firepower and the approaching state
+
+A large anonymous cash payment seems to solve the storm-loss supply problem, but the masked buyer and untested notes turn abundance into uncertainty. Saki's fuel/cooking/helicopter priority and Moe's explosive preference divide sustainment from firepower; Miyako's momentary confidence is undercut by Decartes's plea. E014's anonymous stockout, a rare HEIAP clue and E009's budget constraint invite an explanatory conspiracy, yet the text supplies only layered testimony and inference. Public Security's actual arrival transforms an anticipated eviction force into present contact without adjudicating its prior conduct.
+
+## V004 C001 E016 motif / callback delta — deadline and evidence before force
+
+Kanna's month-end deadline gives the park protest a bounded clock, while the sponsor-backed firearms and planned redevelopment make armed state power materially present. Sensei's reprieve preserves student choice but cannot by itself solve the conflict. The squad moves from suspicion and capability shortage to an evidence-seeking Clover mission: its SRT identity becomes a reason to investigate a possible public/private collusion, even though its formal school has closed. This is a commitment under uncertainty, not vindication of the rebate story. The thought-tagged responsibility promise complicates a clean adult-guarantee interpretation.
+
+## V004 C001 E017 motif / callback delta — evidence obtained before escape
+
+Clover turns E016's unproved suspicion into an archive search with an apparent confirming record; evidence is materially sought by students whose school's formal status is still unstable. The operation's confidence is immediately checked by a mundane one-way door, echoing prior gaps between tactical theory and contingent practice. Moe's camera hack and finite clock make technology useful but bounded, while Sensei's exclusion stresses a student-executed mission. Finding a document is not the same as safely carrying it out, validating its contents or stopping eviction.
+
+## V004 C001 E018 motif / callback delta — the manual yields to distributed trust
+
+The one-way door turns a seemingly successful evidence hunt into a test of Miyako's command under self-doubt and Miyu's acute fear. Sensei's “do not carry it alone” theme meets a student-led solution: deliberately calling guards to open the vault, then coordinating cover, sensors and decoys. Saki recognizes Miyako as captain precisely for a tactic absent from the manual, revising E008's theory/practice tension without claiming Saki's doctrine is worthless. Fire controls turned against defenders evoke control-system contingency, but the C4/lithium setup makes the same ingenuity ethically hazardous until its outcome is known. Kirino's missed shots repeat earlier inconsistency without settling intent.
+
+## V004 C001 E019 motif / callback delta — justice under compromise, adult handoff
+
+Kanna's rhetoric pits clean exceptional justice against compromised everyday policing, while Miyako distinguishes their paths through repeated responsibility for choices rather than denying difficulty. Sensei's future-choice counsel echoes earlier student agency but does not erase public wrongdoing or automatically convert Kanna. The rooftop exit and 01:45 return complete the student-executed Clover mission, then the document crosses from students to the adult for institutional handling. This is a transition in accountability, not proof that possession of evidence yields justice. An unclaimed “mastermind” remains a participant inference.
+
+## V004 C001 E020 motif / callback delta — victory shadowed by the foxhole
+
+Clover's retrieval becomes public rumor and reportedly halts redevelopment, giving RABBIT and 所確幸 an apparent local reprieve but not a formal rights settlement. Decartes's inedible “gift” revives the food/waste conflict even after shared danger, keeping reconciliation comic and partial. Behind this relief, Kaya's hidden Kaiser-side link and named FOX seniors turn “SRT restoration” from RABBIT's protest ideal into a rival instrumental goal yoked to Schale abolition. The chapter closes on threatened recruitment of the very students whose autonomous mission exposed the first deal. No future coup success is guaranteed by the reveal.
+
+## V004 C001 checkpoint reconciliation — belonging, waste and institutional capture
+
+RABBIT's SRT name first survives as a self-chosen protest under material scarcity, then as a student-run investigative duty. Discarded food/drums prove other people have stakes in “waste,” while Decartes's non-possession rhetoric repeatedly protects possessions. Adult help can be enabling, deceptive or privacy-invasive; relationship repair requires specific acts and admits limits. Clover makes a corruption suspicion evidentiary without final judgment. E020's FOX coup plan appropriates the same SRT restoration language for Schale abolition, setting two future visions in tension without reading the next chapter.
