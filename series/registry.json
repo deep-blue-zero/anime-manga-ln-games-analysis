@@ -666,6 +666,22 @@
       "catalog_note": "post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane."
     },
     {
+      "series_id": "watayuri",
+      "stable_slug": "watayuri",
+      "canonical_title": "Yuri Is My Job!",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/watayuri/",
+      "canonical_entrypoint": "series/watayuri/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_WATAYURI_BOOTSTRAP_20260928",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Provisional Japanese manga architecture awaiting owner audit. Drive inventory contains V01–V14 and a separate V10 special-edition booklet; no narrative volume has been inspected and the sequential-analysis lock is CLOSED."
+    },
+    {
       "series_id": "wuthering-waves",
       "stable_slug": "wuthering-waves",
       "canonical_title": "Wuthering Waves",
