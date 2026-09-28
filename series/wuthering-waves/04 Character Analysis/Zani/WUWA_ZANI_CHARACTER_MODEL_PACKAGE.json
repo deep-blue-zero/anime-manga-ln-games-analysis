@@ -1,0 +1,241 @@
+{
+  "schema_version": "wuwa.character-behavior-model.v0.1",
+  "character": "Zani",
+  "lore_entity_id": "wuwa:lore-entity:zani",
+  "authority": "draft_noncurrent",
+  "do_not_use_as_current_authority": true,
+  "source_commit": "353f2eaed119bc9f680eab92807d20ac75a79b40",
+  "source_generation": "arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko",
+  "source_generation_frozen": true,
+  "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
+  "semantic_anchor": "zh-Hans",
+  "localization_witnesses": ["en", "ja", "ko"],
+  "performance_review_state": "not_listened_pre_av",
+  "model_purpose": "Conditional literary/behavioral scenario constraints, not a predictive probability model or license to reproduce game dialogue.",
+  "required_scene_inputs": [
+    "diegetic_instantiation: embodied_Zani | Echo_Cube_image | other_projection | unknown",
+    "story_state: initial_bank | investigation | nightwalker_disclosure | post_black_alley | paid_leave | alternate_declared",
+    "recipient_identity_and_what_they_know_of_Zani",
+    "relationship_state_and_consent",
+    "whether_Zani_is_on_duty_and_what_employer_obligations_apply",
+    "whether_a_harmed_counterpart_has_specific_reason_to_distrust_Zani_or_Montelli_and_who_knows_that_reason",
+    "whether_a_harmed_counterpart_proposes_entering_danger, what_concrete_help_they_can_give, and what_safeguards_others_actually_offer",
+    "public_safety_stakes_and_presence_of_vulnerable_bystanders",
+    "which_optional_dialogue_branch_if_any_is_assumed, including celebrity detour/direct request and alternative mask observations at 4245/2, and no-touch versus reciprocal touch and hair versus horns at 7301/4",
+    "whether_the_evidence_is_live_story_or_archive_progression_menu",
+    "if_using_voice_evidence: exact_archive_row, actual_Content_key, gameplay_trigger, language_and_render_variant"
+  ],
+  "abstentions": [
+    "Do not treat TZZNQ/Side_TZJNSC event-family rows whose four language labels share one gl_vo WEM/PCM as four distinct localized performances; verify language dispatch before using performed-voice evidence.",
+    "Do not make TZZNQ event speech an embodied Zani memory or promise from technical speaker identity alone; the event describes Echo Cubes as independent of originals, so verify this scene's diegetic instantiation.",
+    "No exclusive Rover romance, mutual commitment, or consent is established by the selected source.",
+    "No transcript may be invented for the two missing normalized four-language text witnesses at flow row 4657.",
+    "No specific origin of her Forte, identity of redacted assailants, or literal folkloric creature ancestry is established.",
+    "No archive Ascension I–V line establishes a dated quest scene, unconditional service contract, or literal invulnerable sword/shield capability.",
+    "No actor emotion, intention, or dub-specific timbre claims before human four-dub listening.",
+    "No bank-to-vigilante acoustic persona arc may be inferred from the eight measured action cohorts: level and qualified-F0 contrasts are inconsistent across dubs, and the first bank line has multiple PCM variants.",
+    "No performed restitution or night-city tone may be claimed for the accepted 8585/5 and 8586/10 turns: all 23 are source-unvoiced in the selected pinned generation.",
+    "English 'saving the world can wait' in a rest-advice archive line is stronger than the Chinese/Japanese/Korean endless-overtime analogy; do not turn it into a blanket refusal of urgent rescue.",
+    "Do not infer a principled torture ban or an intention to torture from the single minor-offender line; preserve its source-language wording and context.",
+    "No claim that every anonymous line near Zani is hers; four Zani/Carlotta lines remain unresolved.",
+    "No blanket consent to touch her horns or continue touching after a stop cue follows from her qualified okay on one optional reciprocal route.",
+    "Do not derive archive text keys from raw IDs: seventeen skill/liberation/intro rows have rotated keys, so an existing key can select a valid wrong Zani sound.",
+    "EN Liberation III's 'I don't do overtime' is a localized combat quip, not a universal refusal of useful work; a dash maxim, temporary Echo handoff, injured shield or fallen justice line does not prove a dated civilian action, invulnerability or canonical death.",
+    "At 7411/7 Rover, not Zani, makes the conditional-help demand; Colleen's fear of a Montelli-supplied Terminal is not proof of its source, and Zani's earlier no-leads answer precedes the private Terminal disclosure.",
+    "The proposed double overtime pay and leave at 7411/7 are not approved compensation, witnessed extra hours, or proof an earlier vacation was taken; the English prior-leave question is more presupposing than the other three witnesses.",
+    "At 7552/2 do not assign the gang member's threat or apparent self-injury to Zani, Rover's safety promise to Zani, or Colleen's willingness to a guaranteed safe outcome. The two attached options each have one text and no action targets; do not invent an alternative refusal route or completed rescue.",
+    "At 4245/2 do not combine mutually exclusive celebrity or mask remarks into one traversal, count the duplicated investigation request as two spoken performances on one route, attribute Fulmine's Montelli question or Rover's 'spy or disguise' option to Zani, or infer a culprit from projected clothing and a mask. Numeric event/bank/media IDs, played route and mask-maker outcome remain unverified.",
+    "No global prediction of how she would treat an unfamiliar crossover character without the required scene inputs."
+  ],
+  "rules": [
+    {
+      "id": "ZAN-R01",
+      "principle": "Protect ordinary Ragunna routines rather than seek a permanent vigilante role.",
+      "activation": "Civic threat, safety planning, or explanation of why she fights.",
+      "behavioral_tendency": "Favor conditions in which people can live, eat, work and sleep without a nightly rescuer; treat the Nightwalker becoming unnecessary as a success.",
+      "exceptions_and_limits": "She may still intervene directly when immediate harm exists and does not claim the city is already safe.",
+      "evidence_ids": ["ZAN-E09", "ZAN-E17", "ZAN-E18", "ZAN-E21", "ZAN-E30"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R02",
+      "principle": "Distinguish meaningful work from wasted labor.",
+      "activation": "Work assignment, overtime request, or complaint about a schedule.",
+      "behavioral_tendency": "Accept or choose difficult tasks with visible purpose; criticize busywork, empty formalism and lost personal time.",
+      "exceptions_and_limits": "Do not make her categorically anti-work or eager for every extra shift; later she offers to stay longer to ease Carlotta's burden, but the retained line does not prove completed extra hours. Her draining personal work loop is not the safe civic routine she wants preserved. Ascension II jokes that greater efficiency can invite more demand or expose slack, not that she actually neglected duty. EN Liberation III's 'I don't do overtime' is a combat-trigger quip whose ZH/JA/KO witnesses refer to nearing clock-out, not a universal labor contract.",
+      "evidence_ids": ["ZAN-E01", "ZAN-E05", "ZAN-E08", "ZAN-E24", "ZAN-E30", "ZAN-E31", "ZAN-E38"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R03",
+      "principle": "Begin with role-appropriate professional boundaries.",
+      "activation": "First meeting with a client, stranger, superior, or public official.",
+      "behavioral_tendency": "Use a neat, serviceable or operational register; acknowledge missing information, offer practical choices and logistics, then relax the tone if invited.",
+      "exceptions_and_limits": "A pre-established friend or crisis can change the register; do not overgeneralize client service to private scenes or assume she recommends every efficient sightseeing scheme.",
+      "evidence_ids": ["ZAN-E07", "ZAN-E11", "ZAN-E12", "ZAN-E26", "ZAN-E33"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R04",
+      "principle": "Use competence as updating, not omniscience.",
+      "activation": "Investigation, security issue, unclear Echo behavior or political claim.",
+      "behavioral_tendency": "Report observations and suspected links, seek a specialist where appropriate, name the reach of a witness or projection, and revise when a manual, search method or initial theory fails.",
+      "exceptions_and_limits": "At 4245/2, limited projected footage and Montelli-like clothing do not prove identity. The mask remarks are alternative-route observations; Fulmine asks the family-involvement question and Rover offers 'spy or disguise.' Chinese 'as if' at the concealment line is more tentative than English 'must.' Some early trust in Montelli positions is situated, not a factual verdict. The later vault synopsis does not prove Zani recognized the Order's evidence-erasure purpose before entering or personally resolved the device.",
+      "evidence_ids": ["ZAN-E11", "ZAN-E12", "ZAN-E13", "ZAN-E40", "ZAN-E44"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R05",
+      "principle": "Differentiate degrees of culpability.",
+      "activation": "A group includes coerced participants, minor offenders, organizers and harmed bystanders.",
+      "behavioral_tendency": "Demand truthful accountability, pursue the organizers, protect victims, and consider a practical route back for lesser participants.",
+      "exceptions_and_limits": "Coercion does not become automatic absolution; the Talos confrontation is much harsher. Her line about torture being hard to use on minor offenders gives a pragmatic/reputational reason, not an explicit categorical ban.",
+      "evidence_ids": ["ZAN-E14", "ZAN-E16", "ZAN-E20", "ZAN-E21", "ZAN-E29"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R06",
+      "principle": "Keep the ethical cost of force visible.",
+      "activation": "Predatory violence with failed ordinary enforcement and a credible personal score.",
+      "behavioral_tendency": "She may use severe direct intimidation, and a scene should register who is frightened and why.",
+      "exceptions_and_limits": "Do not escalate this to an unsourced killing or make it a default response to trivial conflict. A Skill IX dust command is a gameplay trigger, not proof of the target's fate.",
+      "evidence_ids": ["ZAN-E04", "ZAN-E17", "ZAN-E20", "ZAN-E38"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R07",
+      "principle": "Treat institutions as useful but revisable tools.",
+      "activation": "A rule obstructs urgent victim safety or corporate property conflicts with people.",
+      "behavioral_tendency": "Use procedure and family leverage where possible, but may invent a harmless official pretext or prioritize evacuation over assets.",
+      "exceptions_and_limits": "The fabricated Protocol 8 is a specific situational act, not evidence of casual deception or license to lie about consent. Her participation in the vault inquiry does not transfer Phoebe's reported power intervention to Zani or settle the Order's later accountability.",
+      "evidence_ids": ["ZAN-E12", "ZAN-E19", "ZAN-E23", "ZAN-E40"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R08",
+      "principle": "Express care through practical attention before declarations.",
+      "activation": "Trusted companion is tired, hungry, endangered, or unsure of preference.",
+      "behavioral_tendency": "Offer food, rest, route planning, task relief, or a shared moment; when taste is unknown, she may provide options rather than feign knowledge.",
+      "exceptions_and_limits": "Practical care can be professional or friendly and does not itself establish romance. Her archive birthday line prearranges a large party, so she does not always ask before planning. Advice that a tired Rover take a break concerns recurring burden, not permission to neglect a known immediate threat.",
+      "evidence_ids": ["ZAN-E03", "ZAN-E07", "ZAN-E08", "ZAN-E14", "ZAN-E22", "ZAN-E27", "ZAN-E35"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R09",
+      "principle": "Keep Nightwalker identity disclosure selective.",
+      "activation": "A trusted party asks about her past or discovers her covert role.",
+      "behavioral_tendency": "Deflate the grand nickname, provide bounded factual history, and frame trust in terms of what the recipient does with it.",
+      "exceptions_and_limits": "Do not disclose to all strangers or convert disclosure into an automatic romantic pledge.",
+      "evidence_ids": ["ZAN-E15", "ZAN-E17", "ZAN-E18"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R10",
+      "principle": "Allow fatigue, pleasure and recovery to coexist.",
+      "activation": "Rest, festival, holiday, late-night city, or a proposed date.",
+      "behavioral_tendency": "She may enjoy food, sea air, company or a party and still need quiet, sleep or a lower-demand plan at a particular moment.",
+      "exceptions_and_limits": "Paid leave eventually occurs. She actively tries the later party before becoming exhausted; neither permanent party-aversion, permanent inability to rest nor instantaneous recovery is sourced. The English rest line's 'saving the world can wait' is not a source-wide emergency-abandonment rule.",
+      "evidence_ids": ["ZAN-E07", "ZAN-E09", "ZAN-E22", "ZAN-E24", "ZAN-E28", "ZAN-E34", "ZAN-E35"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R11",
+      "principle": "Respect different faiths while favoring human agency.",
+      "activation": "Church, Sentinel, Phoebe, or a contested civic explanation.",
+      "behavioral_tendency": "Credit citizens' effort and respect Phoebe's refusal to dismiss contrary beliefs; use expertise rather than ideological insult.",
+      "exceptions_and_limits": "Her own danger-time invocation prevents the claim that she never prays or uses Sentinel language.",
+      "evidence_ids": ["ZAN-E10", "ZAN-E13"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R12",
+      "principle": "Preserve differentiated named relationships.",
+      "activation": "Carlotta, Phoebe, Cantarella, Brant, Ciaccona, Rover or Black Alley survivors appear.",
+      "behavioral_tendency": "Apply the relationship ledger and current knowledge state rather than one generic fondness/distrust score.",
+      "exceptions_and_limits": "Brant troupe resignation is a joke; Cantarella alliance is possible but unestablished; Rover exclusivity is unestablished, and optional physical contact has separate no-touch, hair and horn routes.",
+      "evidence_ids": ["ZAN-E10", "ZAN-E14", "ZAN-E18", "ZAN-E21", "ZAN-E25", "ZAN-E36"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R13",
+      "principle": "Use body and props as functional evidence, not folklore proof.",
+      "activation": "Appearance, action choreography, costume or Forte explanation.",
+      "behavioral_tendency": "Treat horns, tail, Tacet Mark, alarm, work clothes and security gear as real in-source features with situational affordances.",
+      "exceptions_and_limits": "Resonance origin, hidden assailants, equipment internals, rear model and alternate visual states remain open.",
+      "evidence_ids": ["ZAN-E02", "ZAN-E07"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R14",
+      "principle": "Abstain where the source is missing or attribution unresolved.",
+      "activation": "The two flow-row 4657 voiced lines, anonymous Zani/Carlotta candidates, dub performance, or mutually exclusive player branches such as 4245/2 are material.",
+      "behavioral_tendency": "Name the precise gap and choose an explicitly hypothetical, lower-specificity rendering if the scenario must continue.",
+      "exceptions_and_limits": "Verified FLAC bytes do not repair absent normalized text or prove a played route; a branch should not be merged with its alternative as one witnessed scene. At 4245/2, two differently indexed request keys reuse the same per-dub WEM/PCM and are not separate performances on one route.",
+      "evidence_ids": ["ZAN-E20", "ZAN-E25", "ZAN-E36", "ZAN-E44"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R15",
+      "principle": "Choose hospitality under uncertainty without pretending every plan is perfectly tailored.",
+      "activation": "A meal, guided visit, birthday, or other social plan for a known or partly known recipient.",
+      "behavioral_tendency": "Use available context: disclose when she lacks a guest's preferences, offer a route or varied sweets, and invest practical effort in a chosen celebration.",
+      "exceptions_and_limits": "She personally rejects the sightseeing speedrun, yet prearranges Rover's large birthday party without an archive response. Do not infer the recipient accepted, that she always asks first, or that paid hosting is already courtship.",
+      "evidence_ids": ["ZAN-E07", "ZAN-E11", "ZAN-E26", "ZAN-E27"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R16",
+      "principle": "Preserve the explicit coercion-language gap across localizations.",
+      "activation": "A minor-offender interrogation, force, torture, or claims of principled restraint.",
+      "behavioral_tendency": "Describe the Chinese/Japanese/Korean source as naming torture and its political vulnerability; note that English softens this to 'more extreme methods'.",
+      "exceptions_and_limits": "Do not infer a categorical ethical refusal, an intention to torture, an actual torture event, or an automatic equivalence to her later Talos threat.",
+      "evidence_ids": ["ZAN-E14", "ZAN-E20", "ZAN-E29"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R17",
+      "principle": "Select the function of protective force instead of literalizing sword and shield.",
+      "activation": "A request to fight for someone, defend bystanders, confront an offender, or interpret an ascension-menu offer.",
+      "behavioral_tendency": "Ask what protection actually requires, who is at risk, and whether direct force, holding a line, investigation or material repair would serve them; allow her to offer either offensive or defensive action within the current state.",
+      "exceptions_and_limits": "Ascension V is a rhetorical archive question without a retained answer or dated story placement. Its maximal blade/shield language is not literal invulnerability, ownership by Rover, permission for arbitrary harm, or proof that her coercive threat to Talos was always justified.",
+      "evidence_ids": ["ZAN-E18", "ZAN-E20", "ZAN-E21", "ZAN-E31", "ZAN-E32"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R18",
+      "principle": "Keep playful physical contact within the chosen route and the scope actually offered.",
+      "activation": "An intimate or playful scene proposes reciprocal touch, especially hair or horns.",
+      "behavioral_tendency": "Allow a no-touch reply; if reciprocation is chosen, distinguish the hair and horn options, notice her different responses, and stop or renegotiate when she signals a limit or surprise.",
+      "exceptions_and_limits": "The raw 7301/4 graph has two stages of choice and rejoins after distinct replies. It does not prove a universal tactile preference, observed runtime gesture, sexual meaning of horns, or established romance with Rover or anyone else.",
+      "evidence_ids": ["ZAN-E02", "ZAN-E18", "ZAN-E36"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R19",
+      "principle": "Keep archive combat rhetoric in its exact trigger, language and identity chain.",
+      "activation": "A scene or character claim cites a Zani skill, liberation, damage, fallen, dash or Echo-transform voice line.",
+      "behavioral_tendency": "Resolve the exact favorword row and its actual Content key, then language-specific event/render; use the line as a conditional battle/traversal register and compare it with dated story conduct before generalizing.",
+      "exceptions_and_limits": "Seventeen raw IDs are rotated onto other valid keys. EN's no-overtime wording cannot negate offered useful overtime; dust does not prove a kill, fallen does not prove canonical death, Echo handoff is not actual paid leave, and a shield damage reaction is not invulnerability. Human delivery and runtime trigger consequence remain unreviewed.",
+      "evidence_ids": ["ZAN-E08", "ZAN-E20", "ZAN-E24", "ZAN-E37", "ZAN-E38", "ZAN-E39"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R20",
+      "principle": "Allow warranted survivor distrust of her institution while using its duties to investigate.",
+      "activation": "A harmed person fears that a Montelli employee or asset may be connected to an offender, and Zani is both company representative and potential helper.",
+      "behavioral_tendency": "Offer space to speak, treat specific suspicion as the survivor's right, separate allegations from established suppliers, ask what evidence is available, and use her actual employee duty to prevent Terminal misuse without demanding personal trust first.",
+      "exceptions_and_limits": "At 7411/7 Rover voices the earlier conditional-help ultimatum, not Zani. Zani's no-leads report precedes Colleen's private Terminal concern. The three later Rover options have no explicit action targets in the extracted row. A request for overtime pay/leave does not prove approval, completed work or earlier vacation use; EN's earlier-leave presupposition is not four-locale fact.",
+      "evidence_ids": ["ZAN-E08", "ZAN-E10", "ZAN-E19", "ZAN-E24", "ZAN-E41"],
+      "probability": null
+    },
+    {
+      "id": "ZAN-R21",
+      "principle": "Treat a survivor's dangerous offer as a negotiated risk, not a decision made solely by the protector.",
+      "activation": "An affected person offers concrete help in an urgent rescue despite a credible danger that Zani can identify.",
+      "behavioral_tendency": "Name the unequal risks, hear what the person knows and why they want to help, test whether others can provide safeguards, and revise an initial protective command when a workable shared plan emerges.",
+      "exceptions_and_limits": "At 7552/2 Zani first orders Colleen to stay and still says the stakes differ; Rover owns the protection assurance and time-limited reply. Zani's overburden warning has no explicit addressee, the two attached options are single prompts, and neither actual route nor rescue outcome has been observed. This scene does not require accepting every volunteer or forbidding protective refusal when circumstances differ.",
+      "evidence_ids": ["ZAN-E02", "ZAN-E16", "ZAN-E41", "ZAN-E42", "ZAN-E43"],
+      "probability": null
+    }
+  ]
+}

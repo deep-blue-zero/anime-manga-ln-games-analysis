@@ -1,0 +1,78 @@
+---
+series: WUWA
+character: Qiuyuan
+artifact_type: model
+analytical_responsibility: "Operationalize sixteen state-, recipient-, trigger-, locale-, and source-sensitive rules without promoting hypothetical output to evidence"
+scope: QIUYUAN_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
+analysis_generation: QIUYUAN_PRE_AV_V0_1
+status: draft_noncurrent
+release_state: author_working_draft_pending_owner_review
+source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
+source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
+source_generation_frozen: true
+source_freeze_metadata: conflicting_collection_and_embedded_lock_fields
+text_authority: zh-Hans
+localization_witnesses: [en, ja, ko]
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: true
+---
+
+# Qiuyuan — operational reconstructive profile, pre-AV
+
+This is a compiled interpretation for source-grounded analysis and clearly labeled hypothetical scenes. It is not a source record and does not license new canon dialogue. Its machine-readable partner is [the sixteen-rule JSON model](WUWA_QIUYUAN_CHARACTER_MODEL_PACKAGE.json); exact support and rival readings live in [the evidence matrix](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md). A generated response must never be added to the evidence corpus. Chinese governs disputed semantics; EN/JA/KO are separately preserved text and voice witnesses. No human four-dub listening or runtime movement review has been completed for this draft.
+
+## Selection contract
+
+Before predicting a choice, resolve the twelve [machine-readable inputs](WUWA_QIUYUAN_CHARACTER_MODEL_PACKAGE.json): developmental state and branch; occurrence identity; recipient and relationship state; knowledge and cue type; immediate danger; official versus personal obligation; source surface and archive timing; actual raw `Id`/`Content` join for a favor trigger; language witness where wording matters; and, if using the postdeparture message, its ShortMessage/flow identity, unvoiced medium, unknown receipt time and language-specific boat comparison. `9927/2/0` remains unattributed, and neither flow row number nor menu order is plot chronology. If a crucial input is unknown, keep multiple plausible paths and say why. [QIU-E04](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-E09](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-E23](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-E29](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-E33](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-E37](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles)
+
+An archive line is a real voiced source but not necessarily a dated live conversation. `FavorWord_141127–131_Content` can show thematic tension without proving five sequential story decisions. A favor story can report past action but may use a narrator's limited viewpoint. A combat *Fallen* bark is a conditional gameplay utterance, not a witnessed death; thirty later raw favor-word `Id` values do not even share their actual `Content` key suffix. The room, branch and addressee of an optional flow can matter as much as its text. The matching FLAC hash proves retrievability of a performance object, not the character's audible emotional intention. These distinctions are not stylistic niceties; collapsing them makes the model confidently wrong. [QIU-C20](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#claims-counterreadings-and-revision-tests) [QIU-C21](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#claims-counterreadings-and-revision-tests) [QIU-C28](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#claims-counterreadings-and-revision-tests) [QIU-C31](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#claims-counterreadings-and-revision-tests)
+
+Within the fifth input, record *how* he knows: presence, sound, residual trace, document, direct recognition or a disputant's testimony. The [tower trace study](WUWA_QIUYUAN_TOWER_TRACE_DISGUISE_AND_INFERENCE_PROFILE.md) shows why this matters. His first strange-presence remark does not name the separately encountered disguised speaker, a heard firearm does not identify a shooter or casualty, the Fenrico-control reading is provisional, and the opposed Acolyte claims remain unresolved. Nor do nonmonotonic handbook pointers prove an executed route [QIU-E34–E35; C32].
+
+## Decision procedure and sixteen rules
+
+| Rule | Use when | Bounded tendency and active check |
+|---|---|---|
+| QIU-R01 | Identity or disguise is uncertain. | Resolve local speaker/reveal evidence first; keep `9927/2/0` unattributed. A generic technical ID is not a person. |
+| QIU-R02 | Noncombatants or allies face immediate danger. | Evacuation or holding a line is plausible; it may involve lethal force and does not guarantee success. |
+| QIU-R03 | An accusation or suspicious presence requires judgment. | Seek records, residual signs and contradictions before treating an allegation as a verdict. Qiuyuan saved Leon earlier, but neither that past rescue nor either later speaker's Acolyte claim proves post-impersonation fate. Later vows are not neutrality. |
+| QIU-R04 | Blindness, Mindsight or a dossier is relevant. | Preserve sensory competence, ordinary read-aloud access, and medicine cost together; do not grant private-thought access or retroactively identify every trace. |
+| QIU-R05 | Geshu's earlier case is invoked. | Keep the corrupt false accusation apart from later Threnodian harm and Qiuyuan's retrospective self-blame. |
+| QIU-R06 | Scar or Geshu is the target. | His lethal pursuit is real, yet neither final fate is shown in this selected source; immediate rescue can outrank chase. |
+| QIU-R07 | Fenrico's lantern or final act is raised. | Transmit a useful object and still name prior wrongdoing; neither blanket absolution nor refusal of all useful testimony. |
+| QIU-R08 | Someone asks to “use” his sword. | Read the short menu offer with his longer worthy-cause explanation and live judgment, not as an unrestricted command interface. |
+| QIU-R09 | A person needs food, rest or concrete assistance. | Offer condition-sensitive practical care where knowledge exists; no universal medical expertise or automatic domestic routine. |
+| QIU-R10 | Dialogue is to be drafted. | Match urgency, recipient and source surface: terse in immediate danger, extended in moral reflection, dry/practical in low stakes. No assumed actor tone. |
+| QIU-R11 | Future home, rest or retirement is imagined. | Permit cautious possibility and temporary shelter, but do not declare settled family, finished revenge or cured impairment. |
+| QIU-R12 | A relationship or secret is involved. | Gate knowledge by state and recipient; Cantarella's collaboration, Sanhua's distant kinship and Rover's alliance are not interchangeable. |
+| QIU-R13 | Recognition, combat challenge or blade weight is invoked. | Let gratitude, sharpness and increasing relational weight coexist; archive unlock order is not plot time, and “heavy” is not proven technical decline. |
+| QIU-R14 | An attack, injury, fallen or traversal trigger is used. | Resolve actual `Content` key via source row, then treat wording as conditional bark; no automatic story death, sensory cure, or actor-intent inference. |
+| QIU-R15 | Geshu's old case, later harm or harbor vow is invoked. | Separate the false original charge, later Threnodian danger, and Qiuyuan's obligation; JA `_603_35` lacks ZH/EN/KO's equally explicit must-clause, without implying pursuit ended. |
+| QIU-R16 | The written postdeparture crossing is invoked. | Treat it as source-unvoiced and temporally underdetermined. ZH/EN/KO call the departing boat steadier; JA says it rocks more. A calm sea is not a cured mind or completed mission. |
+
+These are conditional constraints, not a probability table. For example, R02 does not mean he always selects rescue in every possible case; the selected live scenes make rescue a strong expectation when people are in reach and at immediate risk. R06 does not mean every exchange with Scar must end in a strike. R13 does not mean all closeness burdens him. The [non-blind probes](WUWA_QIUYUAN_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md) test these boundaries; they are not a measured success rate for generated stories.
+
+## Conflicts that require explicit reasoning
+
+**Accusation versus debt.** A false case against Geshu once met real investigation and restraint. A later catastrophe and Qiuyuan's assigned debt do not retroactively validate that charge. In a novel case, ask what is actually known now before borrowing his later remorse as authority to preemptively kill. His self-blame can remain sincerely voiced even when the counterfactual is unproved. [QIU-E04](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-E11](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-C04](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#claims-counterreadings-and-revision-tests)
+
+**Punishment versus preservation.** The Scar confrontation states lethal intent. A later line credits the fighters and privileges survivors while the target remains at large. For a similar crisis, it is defensible to have Qiuyuan take the most dangerous protective position and still plan continued pursuit. A portrayal that makes him suddenly pacifist or lets him leave known civilians solely to satisfy the list needs contrary evidence. [QIU-E07](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-E13](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-E14](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles)
+
+**Usefulness versus endorsement.** Qiuyuan can condemn Fenrico while accepting the lantern's usefulness. A supposed enemy's information is not automatically true, but neither is it automatically worthless. Check provenance, stakes and whether testimony or object has independent corroboration. The mindscape's uncomfortable self-comparison should not turn him and Fenrico into the same moral agent. [QIU-E10](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-E12](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles)
+
+**Recognition versus submission.** Ascension II allows gratitude for someone seeing value in him; the longer archive self-account specifies a cause worthy of drawing for. The short blade-introduction and some team barks are designed for immediate play and omit that qualification. If an addressee asks something hazardous, ask what cause he perceives and who will be harmed. Do not write an unconditional consent contract out of a menu line; do not force a categorical refusal to every dangerous task either. [QIU-E18](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-E31](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-C26](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#claims-counterreadings-and-revision-tests)
+
+**Unfinished obligation versus the possibility of home.** The harbor's unbranched local dialogue puts the old false charge, later harm, and vow in the same conversation, then calls Rover's companions a home and sheath. Qiuyuan's own future remains elliptical in ZH/EN, more explicitly self-directed in KO, and marked “again” in JA. The separately backfilled written message gives a calm sea, not a proof of cured guilt; its boat-motion comparison actually reverses in JA relative to ZH/EN/KO. Its two lines have no selected voice render. Keep locale, medium and time explicit rather than writing a universally gentler *heard* departure or a completed homecoming. [QIU-E36](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-E37](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-C34](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#claims-counterreadings-and-revision-tests) [QIU-C35](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#claims-counterreadings-and-revision-tests)
+
+## Ordinary, social and crossover use
+
+The strongest ordinary anchors are concrete and conditional: patient-specific cooking at Doctor Zhang's hut, a remembered roadside rice/meat/wine meal, read-aloud dossier access, a medicine flask distinct from wine, dry warning about a strange drink, a request to speak of the past over wine, and a birthday wish for temporary shelter. These do not form one continuous domestic scene. They show that he can adapt to someone's need and enjoy relief before his debts are settled. A social or comic crossover can use that capacity without silently making him an innkeeper, permanent physician, always-drinking ascetic, or man cured by romance. [QIU-E19](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-E20](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-E28](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles)
+
+For a hypothetical first meeting in a dating-show or cross-property scenario, the simulation must introduce the other person's identity and motive instead of giving Qiuyuan impossible foreknowledge. He may be watchful, courteous, dry, competitive or quietly useful depending on stakes; no single archive bark dictates his opening line. If the premise involves attraction, distinguish hospitality, gratitude and chosen service from mutual romance. If another participant has a grievance, do not make Qiuyuan seize their revenge: the Jingran coda gives one example of leaving the decision to the wronged person. A future bond can be explored as fiction, but its change in trust should occur on the page and not be presented as achieved by the pinned game source. [QIU-E17](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-E21](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles) [QIU-C17](WUWA_QIUYUAN_EVIDENCE_AND_FALSIFICATION_MATRIX.md#claims-counterreadings-and-revision-tests)
+
+Any generated sample should be labeled with its state assumption, branch if applicable, recipient knowledge and invented premise. A reviewer should then check for chronology leaks, false certainty about victims or outcomes, magical blindness erasure, unconditional blade ownership, one-note proverbs, and romance inflation. Record failure and counterreading, not just whether the prose feels plausible. Until a genuine blind trial is run, the present model is a source-grounded specification rather than a measured performer.
+
+## Channels still open
+
+The selected 255 semantic voice lines have four-language technical render mappings, with fourteen exact cases sampled here, but no one has annotated those performances by ear for this draft. Three official-client UI rasters support the separate visual profile; no direct runtime gesture or movement witness has been incorporated. The two-line postdeparture message is text-only in the selected source and has an unresolved receipt time. The unresolved generic line, formal Mingting status, Sword Specter's final outcome, Scar/Geshu outcomes, future home, cause of the boat-motion localization inversion, and a full JA/KO line-by-line semantic audit remain open. New primary evidence may alter a rule; a generated scene may never do so by itself.
