@@ -2457,3 +2457,1258 @@ No new durable claim ID, tracked subject, model, frozen prediction or side-sourc
 ## V004 C001 checkpoint reconciliation — evidence ladder fixed
 
 **BA-C001/C016 — STRENGTHEN/QUALIFY:** support for student choice, local release, drainage aid, reprieve and evidence custody coexist with privacy breach, tactical deception, imperfect knowledge and unresolved adult follow-through. **BA-C008 — REVISE:** E016 hypothesis → E017 participant-inspected Clover record → E019 Kanna non-denial plus evidence handoff → E020 public anonymous-source allegation and Moe's inquiry/cancellation report; no full transaction file, formal legal ruling or hidden Kaya/FOX link mechanism is admitted. **BA-C002–C004/C007/C010–C011/C019–C021 — PRESERVE.** No new durable claim ID, model or frozen prediction; 21 partial / 80 unmodeled across 101, backfill DEFER. V004 C002 E001 unopened.
+
+## V004 C002 E001 claim delta — active FOX mechanism, dream-limited precedent
+
+**BA-C008 — REVISE institutional mechanism:** Yukino directly gives a Kaya-favoring incapacitation protocol; FOX3 reports rail-system sabotage and public misattribution (`scene:001:u:0084-0102`). This raises the hidden coup from stated plan to observed command plus participant report, without showing every action, proving command provenance or completing a takeover. The two-years-ago Kaiser factory file/bribery claim is dream-framed testimony and not the printed Clover file (`u:0002-0062`). **BA-C001/C016 — PRESERVE:** Sensei is absent and unaware in print. **Belonging/identity claims — QUALIFY:** the public `正義` ideal and present instrument-obedience doctrine are in tension; Niko/Kurumi object without defecting. No new durable claim ID, standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 80 unmodeled across 101, backfill DEFER. E002 unopened.
+
+## V004 C002 E002 claim delta — inherited justice and qualified gratitude
+
+**BA-C001/C016 — STRENGTHEN/QUALIFY:** Sensei thanks students for a retrospectively described rescue and shares a meal, but exact `心の声`/choice speech and wider crisis causation are unprinted (`scene:001:u:0046-0097`). **BA-C008 — PRESERVE:** no Clover adjudication, FOX mechanism or school/park ruling is supplied. **Belonging/identity — QUALIFY:** RABBIT's dream holds FOX's televised unchanging justice as its future while E001 already gave the reader Yukino's divergent waking orders; the squad has not been shown learning them. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 80 unmodeled across 101, backfill DEFER. E003 unopened.
+
+## V004 C002 E003 claim delta — evidence before attribution
+
+**BA-C008 — STRENGTHEN route, preserve identity gap:** viewed Schale camera footage shows masked carriers leaving with an added load; Saki recognizes apparent SRT-specific equipment, but the coarse image cannot identify the load, persons or chain from RABBIT's prior sale (`scene:001:u:0058-0095`). The Chapter 1 masked missile buyer is not automatically a Schale attacker. **BA-C001/C016 — QUALIFY:** Sensei's gift is accepted, yet RABBIT privately delays telling a possible victim its serious suspicion until attempted recovery (`u:0096-0113`). No completed trace or apology. No new durable claim ID, standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 80 unmodeled across 101, backfill DEFER. E004 unopened.
+
+## V004 C002 E004 claim delta — FOX contact, limited outcome
+
+**BA-C008 — STRENGTHEN encounter:** a senior attacker critiques/restrains Miyako and is identified as Yukino (`scene:001:u:0045-0064`), moving FOX's intended RABBIT contact from plan to a direct local event. It does not identify Schale's masked thieves, validate the prior-sale chain or complete the coup. **BA-C001/C016 — PRESERVE:** Sensei is absent and not briefed in print. **Institutional-belonging claim — QUALIFY:** shared SRT training makes an adversarial facility feel familiar and the senior voice authoritative. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 80 unmodeled across 101, backfill DEFER. E005 unopened.
+
+## V004 C002 E005 claim delta — coercive alignment offered, not completed
+
+**BA-C008 — STRENGTHEN direct contact:** FOX detains all four, Yukino tests whether RABBIT would oppose Sensei and proposes its disbanding/subordination (`scene:001:u:0001-0034;u:0083-0107`). Saki/Moe believe FOX bought the gear, but no receipt or full Schale theft chain is shown; Miyako's question about the removed item receives no answer (`u:0070-0082`). Italic presentation, interruption and absent formal order prevent a completed-dissolution claim. **BA-C001/C016 — STRENGTHEN locally:** Sensei arrives and gains time for the students without securing a final choice or converting Yukino (`u:0108-0131`). **Belonging/identity — REVISE domain:** shared SRT status is made conditional on obedience, while RABBIT's silence is neither assent nor a spoken refusal. No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 80 unmodeled across 101, backfill DEFER. E006 unopened.
+
+## V004 C002 E006 claim delta — public succession claim, pending verification
+
+**BA-C008 — STRENGTHEN overt stage:** Kaya's emergency broadcast directly claims a passed no-confidence vote and her succession as acting president (`scene:001:u:0087-0100`). Saki challenges the ease of the transfer; vote procedure, legal authority, Rin's location and effective control remain uninspected. The public claim advances the coup evidence ladder without settling its legitimacy or completion. **BA-C001/C016 — STRENGTHEN/QUALIFY:** RABBIT now briefs Sensei on FOX at Schale and receives reassurance, correcting E003's withholding, while the stolen object and exact gear provenance remain unknown (`u:0002-0018`). **Belonging/identity — REVISE:** Miyako explicitly questions handing responsibility to an admired senior (`u:0062-0076`). No new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 80 unmodeled across 101, backfill DEFER. E007 unopened.
+
+## V004 C002 E007 claim delta — political mechanism beneath the announcement
+
+**BA-C008 — STRENGTHEN mechanism:** Kaya presents a purported presidential letter, an officer announces Rin's arrest on suspicion, Kaya asserts rule-78 suspension, a Human Resources chief reports coordinated protest recruitment, Heine reports anti-Rin document/FOX rumors and Kaya prepares broadcast before the vote (`scene:001:u:0079-0138`). This materially explains E006's public succession claim, while letter authenticity, procedure, final ballot, lawful transfer and actual control remain open. **BA-C001/C016 — QUALIFY:** council officers challenge Schale's authority and the president's memo, whereas Rin offers handwriting comparison; the record does not revoke Schale authority (`u:0024-0030`). **Authority/ethics — STRENGTHEN:** Rin rejects suppressing dissent via acting-office power; Kaya praises centralized command (`u:0060-0078`). Three narrow subjects Aoi, Heine and Sumomo enter `UNMODELED`: 21 partial / 83 unmodeled across 104. No durable new claim ID, standalone model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill DEFER. E008 unopened.
+
+## V004 C002 E008 claim delta — admitted intrusion, rejected attribution bargain
+
+**BA-C008 — STRENGTHEN participant admission:** Kaya says she ordered entry into Schale's basement and removal of presidential belongings during prior D.U. chaos, and that she will use Kaiser power (`scene:002:u:0015-0026`). This narrows the intrusion mechanism without proving her letter genuine or identifying all camera figures. Ayumu reports pro-Rin members excluded and Rin confined, supplementing E007 pressure evidence without a vote tally (`scene:001:u:0007-0015`). **BA-C001/C016 — STRENGTHEN:** Sensei refuses the offered work relief/resources because all Schale acts would be attributed to the council and Sensei shielded from responsibility (`scene:002:u:0034-0061`). No signature or final administrative reform is shown. No durable new claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 83 unmodeled across 104, backfill DEFER. E009 unopened.
+
+## V004 C002 E009 claim delta — new order enforced on the street
+
+**BA-C008 — STRENGTHEN operational capture:** a midnight order is broadcast; Kaiser guards publicly claim 47-district security delegation and directly announce fines/arrests for attempted crossing, grenade carriage and work refusal (`scene:001:u:0002-0087`). A Kaiser General obeys a reported Kaya order to spare SRT, offers supplies and reports planned subordinate school restoration (`u:0105-0124`). This shows implemented street power without the complete written decree, legal review, 47-district audit or completed SRT revival. **BA-C001/C016 — PRESERVE:** Sensei is absent. **Belonging/identity — REVISE:** Miyako challenges coercion, refuses patronage and postpones a FOX decision while weighing material needs (`u:0088-0092;u:0148-0181`). The General enters narrow `UNMODELED`: 21 partial / 84 unmodeled across 105. No durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill DEFER. E010 unopened.
+
+## V004 C002 E010 claim delta — bargain admitted, control limits exposed
+
+**BA-C008 — STRENGTHEN quid pro quo:** Kaya expressly says Kaiser cooperation was obtained for sanction adjustment and Rin supporters were expelled (`scene:001:u:0007-0008`). A deputy reports an unresolved cash-train hijack plus loss of Public Security/Guard responders to suspension and checkpoints; Momoka delays Traffic response and Aoi rejects new-order costs on form grounds (`u:0015-0085`). These are concrete control limits, though train outcome and exact staffing records remain unverified. Yukino learns SRT return is conditional on Kaya first securing authority (`u:0096-0106`). A Human Resources chief's assault is reported while Minori redirects recruited protest; injury not shown (`u:0107-0154`). **BA-C001/C016 — PRESERVE:** Sensei absent. Minori and the chief enter narrow `UNMODELED`: 21 partial / 86 unmodeled across 107. No durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); backfill DEFER. E011 unopened.
+
+## V004 C002 E011 claim delta — paperwork exception and policing legitimacy
+
+**BA-C008 — STRENGTHEN lived effect:** a Kaiser guard blocks hospital-bound transit under a five-document rule, while Kanna assembles an accepted receipt/temporary permit/map/library exemption route (`scene:001:u:0012-0053`). Entry occurs, treatment unshown; written rule/exception are uninspected. Corporate radio claims >50% crime reduction without denominator, while Red Winter protesters paralyze checkpoints (`u:0079-0082;u:0128-0133`). **BA-C001/C016 — STRENGTHEN locally:** Sensei provides a cafe meal and affirms Kanna, whose own account distinguishes principled breach from freedom from sanction (`u:0071-0127`). No overturn of her penalty or citywide reform. No durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 86 unmodeled across 107, backfill DEFER. E012 unopened.
+
+## V004 C002 E012 claim delta — local subordination completed, school still closed
+
+**BA-C008 — REVISE E005 proposal:** Miyako formally declares RABBIT dissolved and control transferred to FOX; Yukino accepts the four as `RABBIT支隊` at a physically reached training ground (`scene:002:u:0009-0016`). This is a completed squad-level relationship, not an inspected federal school reopening or consent to every coup action. The Schale removed item remains unidentified/unrecovered. **BA-C001/C016 — QUALIFY:** Sensei finds Miyako's thanks and no-call explanation, not a direct pre-departure consent conversation (`scene:001:u:0002-0029`). **Belonging/identity — REVISE:** material needs and senior pull drive the choice while Miyako explicitly notes lingering doubt. No new subject/readiness promotion, model, durable claim ID, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 86 unmodeled across 107, backfill DEFER. E013 unopened.
+## V004 C002 E013 claim revision delta — planned subway attack
+
+**BA-C008 — ESCALATE:** Kaya directly orders a recovered `<A.N.T.I.O.C.H.>` thermobaric warhead moved to the `子ウサギ駅` underground silo and detonated; she anticipates remaining residents/neighboring-station damage, plans a false `事故` and Traffic purge, and offers Kaiser subway operation rights (`scene:002:u:0035-0066`). Yukino's civilian-risk objection and later `FOX1、了解`, and the General's preparation promise, establish dissent followed by participation in a plan. No physical movement, blast, death, signed concession or audited Schale custody link is printed. **Public-order claim — QUALIFY:** officers report fewer total crimes but more serious crimes amid restrictive withdrawal rules and stretched checkpoint staffing; neither their observation nor Kaiser's radio percentage is audited (`scene:001:u:0055-0071`). **SRT promise — TENSION:** RABBIT's new FOX affiliation from E012 does not establish its knowledge of the attack plan. Cherino adds one narrow unmodeled subject; no new durable claim ID, model, frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 87 unmodeled across 108; backfill DEFER. E014 unopened.
+## V004 C002 E014 claim revision delta — trust and camp route
+
+**BA-C008 — QUALIFY:** Niko/Otogi/Kurumi bring inari to Sensei, breach the office door, test the teacher's trust and divulge RABBIT's camp route despite its secrecy (`scene:003:u:0002-0112`). Their friendly gift and internal reservations complicate a uniform FOX-instrument reading; no admission of or opposition to E013's warhead order is printed. **BA-C001/C016 — STRENGTHEN locally:** Sensei does not take Sora's meal, eats Niko's food, chooses trust and names the adult/teacher future duty; this is conduct and voiced ethic, not proof trust has changed FOX (`scene:002:u:0017-0023;scene:003:u:0034-0084`). **Food coercion — OPEN:** Sora observes blocked branch orders and reports an administrative order; personal Kaya authorship or deliberate Schale targeting is inferred by characters, not documented. No new durable claim ID/model/prediction/side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 87 unmodeled across 108. E015 unopened.
+## V004 C002 E015 claim revision delta — comfort and personal justice
+
+**BA-C008 — REVISE E012 offer:** RABBIT now actually uses warm showers, fresh gear and a secured training site, and Moe reports extensive special-ammunition firing (`scene:001:u:0001-0010;u:0045-0049`). Comfort does not establish assent to FOX's whole purpose: Miyu reports decision outsourcing, Saki mercenary-like alienation and Moe a stifling feeling; Miyako evades a direct personal-justice question (`u:0014-0044`). **BA-C001/C016 — REVISE:** Sensei reaches the hidden site after E014's route, but only greeting, source-withholding joke and Miyako's arrest utterance are printed (`u:0050-0059`); no arrest act or reconciliation. SRT formal reopening, wages and RABBIT warhead knowledge remain unshown. No new durable claim ID/model/prediction/side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 87 unmodeled across 108; backfill DEFER. E016 unopened.
+## V004 C002 E016 claim revision delta — Miyako refuses the station mission
+
+**BA-C008 — ESCALATE/REVISE:** Yukino gives Miyako a planned next-day 0900 Kaiser freight stop, platform-2 warhead unload and RABBIT/Kaiser exterior-defense order, then confirms underground silo detonation (`scene:002:u:0050-0063`). Miyako now knows the attack plan and directly refuses, invoking civilian safety, SRT's unchanging justice and a claim that only the missing president may command them (`u:0064-0084`). Warhead transport/blast, legal authority and the rest of RABBIT's response remain open. **BA-C001/C016 — REVISE:** E015's arrest utterance leads to a real interrogation; Sensei presses Miyako's own enjoyment/responsibility, and she disables alarms and points the teacher to an exit, with actual departure unshown (`scene:001:u:0001-0003;scene:002:u:0002-0049`). E003's Schale object remains unlinked to the FOX-neutralized warhead. No new durable claim ID/model/prediction/side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 87 unmodeled across 108. E017 unopened.
+## V004 C002 E017 claim revision delta — solo return and station coalition
+
+**BA-C008 — REVISE:** Miyako returns alone, shares the blast plan with Sensei and reaches the station at 1030. She aims to stop detonation while keeping a return path for FOX, but she has not contacted the other RABBIT members or reached the warhead (`scene:001:u:0002-0044;scene:002:u:0002-0009`). Her 5 km estimate is conditional on published project specs, and her multi-person detonator proposal is a plan, not completed deactivation. **Decartes — REVISE:** he reports Kaiser Security training/employment, then elects to protect resident comrades, takes Miyako's supplied rounds and calls 所確幸 members; full turnout/combat outcome are unseen (`scene:002:u:0010-0069`). **BA-C001/C016 — REVISE:** Sensei receives briefing and is asked to command at the station, without tactical result. No new durable claim ID/model/prediction/side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 87 unmodeled across 108. E018 unopened.
+## V004 C002 E018 claim revision delta — Life Safety opens the station
+
+**BA-C008 — ADVANCE locally:** Decartes's charge strains, Kanna/Kirino/Fubuki intervene, and Miyako reports upper-platform clearance and safe platform arrival (`scene:001:u:0001-0081;scene:002:u:0001-0040`). This is station access, not warhead capture, deactivation or explosion prevention. **Kanna/Public Security — QUALIFY:** guards still call Kanna chief but she explicitly says Public Security is suspended and quotes Life Safety rule 32(1) as a temporary-detention route; no independent charter or appointment is inspected (`scene:001:u:0018-0032`). Guard/Kanna rival elite-status claims remain testimony. **Decartes — QUALIFY:** the group draws pressure but falters; he later says members fled and intervenes near Fubuki. No new durable claim ID/model/prediction/side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 87 unmodeled across 108. E019 unopened.
+## V004 C002 E019 claim revision delta — RABBIT reunites below station
+
+**BA-C008 — REVISE:** Saki/Miyu/Moe voluntarily rejoin Miyako in the underground station approach and affirm shared SRT justice; she accepts and begins equipment checks (`scene:001:u:0044-0069`). This overtly challenges E012's FOX subordination in practice but does not print formal discharge, school reopening or full warhead briefing to all three. **Facility — ADVANCE:** a rail-linked military hangar is physically seen; Miyako's battalion-capacity/economic-development explanations are estimates, not inventory or contracts (`u:0001-0034`). A drone is sniped by her report; Otogi caliber attribution is an inference (`u:0035-0043`). **BA-C001/C016:** Sensei accompanies and asks an operation-name question, not coercive reunion. No new durable claim ID/model/prediction/side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 87 unmodeled across 108. E020 unopened.
+## V004 C002 E020 claim revision delta — forward FOX defense falls
+
+**BA-C008 — ADVANCE:** Otogi confirms E019's drone shootdown; Miyako reports the warhead mounted in silo and controlled from the lower operation room (`scene:001:u:0002-0055`). Saki's Kurumi encounter ends in FOX3 down, Miyu's unseen approach precedes FOX4-down report, and Moe physically forces the offline lift door (`scene:002:u:0001-0110`). RABBIT orders a rappel but has not reached Yukino/Niko or touched the warhead. **FOX motive — OPEN:** Yukino's unexplained order for seniors to retreat if breached supports a contingency, not a proven sacrifice/defection (`scene:001:u:0032-0047`). **Trust — QUALIFY:** Miyako's no-fallback plan clears first barriers but does not validate its safety or resolve Moe's risk question. No new durable claim ID/model/prediction/side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 87 unmodeled across 108. E021 unopened.
+## V004 C002 E021 claim revision delta — Yukino's button threat
+
+**BA-C008 — ESCALATE:** Kurumi/Otogi speak and confirm loss of forward defense, RABBIT/Miyako/Sensei complete a lower rappel, and Yukino alone threatens to press an alleged warhead self-destruct button if they enter the operation room (`scene:001:u:0002-0046`). Her stated willingness to die and order for seniors to retreat clarify a possible protective contingency, but no button/connection, actual press, blast, evacuation or neutralization is shown. Saki's bluff assertion is not proof. **BA-C001/C016 — REVISE:** Sensei asks if Miyako wants to continue and supports her yes under stated mass-harm risk; the choice is not yet outcome-tested. No new durable claim ID/model/prediction/side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 87 unmodeled across 108. E022 unopened.
+## V004 C002 E022 claim revision delta — device secured and FOX surrenders
+
+**BA-C008 — RESOLVE immediate threat / OPEN disposal:** Yukino's private button thought and explicit later `not a bluff` confirm sincerity. An unattributed smaller blast dislodges the ignition device; Sensei secures it, and Yukino declares FOX surrender (`scene:001:u:0003-0010;scene:002:u:0001-0084`). This defeats the immediate attempt without showing thermobaric blast, physical warhead deactivation/removal or official custody. **FOX ties — REVISE:** Otogi/Kurumi/Niko disobey retreat to share risk and stain, not abandon Yukino (`scene:001:u:0011-0042`). **BA-C001/C016 — REVISE:** Sensei's tomorrow/learning answer helps shift Yukino from continued detonation insistence to surrender, without erasing past harm. No new durable claim ID/model/prediction/side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 87 unmodeled across 108. E023 unopened.
+## V004 C002 E023 claim revision delta — Kaya detained after failed coup
+
+**BA-C008 — REVISE:** Kaya directly expects station-blast news, reacts to FOX failure, and Miyako physically secures/announces emergency arrest for attempted bombing and corruption-related offenses (`scene:001:u:0002-0013;scene:002:u:0006-0011`). Attack failure is reported/consistent with E022, but no physical warhead disposal or legal verdict is printed. **BA-C001/C016 — REVISE:** Kaya offers to withdraw Schale-control demand/resources for help; Sensei redirects her apology toward harmed students, not a bargain (`scene:002:u:0012-0025`). **Earlier assault — ADVANCE:** FOX-supplied recording of Kaya's prior words contradicts her denial to Heine; authenticity metadata and formal impeachment remain uninspected (`u:0026-0059`). No new durable claim ID/model/prediction/side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 87 unmodeled across 108. E024 unopened.
+## V004 C002 E024 claim revision delta — chapter epilogue
+
+**BA-C008 — CHAPTER RESOLUTION / LIMIT:** Mai reports station bombing as attempted and Kaya impeached/prosecuted; Miyako reports Rin returned, orders withdrawn, RABBIT officially allowed at park and FOX/council roles kept from public (`scene:001:u:0002-0009;scene:002:u:0012-0036`). Niko is directly confined and FOX peers converse there (`scene:002:u:0002-0011;scene:003:u:0030-0044`). Warhead removal, specific FOX sentences, court verdict and parent-company liability are uninspected. **BA-C001/C016 — REVISE:** Sensei provides actual Schale shower access and arranges Miyako's gift, without becoming the sole author of RABBIT's chosen status. **Decartes rumor — REJECT as explanation:** his bento theory conflicts with E008's Kaya offer and E014's branch supply report. No new durable claim ID/model/prediction/side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 87 unmodeled across 108; checkpoint due.
+
+## V004 C002 chapter checkpoint — claim disposition
+
+[Chapter checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C002_CHECKPOINT.md): **BA-C008 strengthens within limits** from Kaya's admissions and station order through RABBIT's detention and E024 public prosecution/rebate report; transaction books, judgment, parent-company liability and warhead disposition remain uninspected. **BA-C001/C016 revise** through Sensei's refusal of Kaya's Schale-control bargain, bounded E022 device recovery and support after the crisis, with decisive work distributed among RABBIT and local allies. Belonging/identity claims remain conditional: park permit is not SRT reopening. Earlier unrelated claims keep prior grades. No new durable claim, model, frozen prediction or held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 21 partial / 87 unmodeled across 108, backfill DEFER.
+
+## V005 C001 E001 claim revision delta — unverified rule and status
+
+**BA-C001/C016 — LOCAL CONTINUITY:** Sensei works on recent damage/support papers and responds to Niya's call, without accepting the festival, providing aid or completing a trust test (`scene:002:u:0002-0020`). **Institutional identity — OPEN:** Nagusa directly denies current 百花繚乱 membership but no charter/return-object record establishes the external status (`scene:001:u:0031-0042`). **Color ontology — CHARACTER CLAIM ONLY:** Kuzunoha says `色彩` inversion cannot be reversed and invites a seeker, but the utterance lacks temporal setting and independent demonstration (`scene:002:u:0021-0026`). Do not identify Sensei's `彼女` from later text. Five new narrow subjects; 21 partial / 92 unmodeled across 113. No durable claim ID, model, frozen prediction, diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission; backfill DEFER. E002 unopened.
+
+## V005 C001 E002 claim revision delta — evidence acquired, remedy open
+
+**Evidence grade — ADVANCE locally:** Yukari's initial wallet-theft eyewitness allegation admits no proof; the recovered wallet, resident recognition and thugs' reactions support their possession (`scene:001:u:0003-0029`). No formal finding, exact recovery mechanics or returned wallet handoff is printed. **BA-C001/C016 — LOCAL ACTION OPEN:** Sensei physically reaches Hyakkiyako and offers Yukari help when associates threaten them; the clash result is not shown (`u:0030-0034`, `choice:001`). One new narrow `UNMODELED` subject, Yukari: 21 partial / 93 unmodeled across 114. No durable claim ID, standalone model, frozen prediction, held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission; backfill DEFER. E003 unopened.
+
+## V005 C001 E003 claim revision delta — local resolution, institutional gaps
+
+**BA-C001/C016 — BOUNDED:** thugs retreat after recognizing Schale's teacher and Yukari credits Sensei's commands, though the clash is skipped; Sensei's narrated tour with Yukari follows her invitation and inward errand objection (`scene:001:u:0001-0011;u:0039-0046`). **Hyakka Ryouran status — OPEN:** resident and servant separately report a `解散令`; Yukari disputes suspension language and flees the estate, but no order text or membership decision is opened (`u:0012-0020;u:0079-0089`). **Festival history — SPEAKER REPORT:** Yukari states 20-year abolition and origin tradition, then explicitly cannot explain abolition (`u:0054-0063`). No new subject/readiness promotion, durable claim ID, model, frozen prediction, diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission; 21 partial / 93 unmodeled across 114, backfill DEFER. E004 unopened.
+
+## V005 C001 E004 claim revision delta — reported order, presented letter
+
+**Institutional status — ADVANCE without authentication:** Niya, as Onmyou head by her own speech, reports Hyakka Ryouran chair/deputy missing and a formal `解散令` from the group yesterday; Kaho expects procedure (`scene:001:u:0084-0095`). Yukari's first-year member claim follows (`u:0120-0125`). Neither the order text, validity nor Yukari's current administrative status is inspected. **Threat evidence — DOCUMENT AS READ:** Niya presents and quotes a letter attributed to 花鳥風月部; prior prank examples do not resolve sender or intent (`u:0055-0079`). **BA-C001/C016 — REVISE locally:** Sensei says they want to help Niya despite her own warning of hidden matters, without formal appointment or completed protection (`choice:019;u:0110-0119`). Kaho adds narrow `UNMODELED`; 21 partial / 94 unmodeled across 115. No new durable claim ID/model/frozen prediction/diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission; backfill DEFER. E005 unopened.
+
+## V005 C001 E005 claim revision delta — succession process incomplete
+
+**Institutional succession — ADVANCE/OPEN:** represented exposition and Kaho's manual report describe a challenge requiring a Hyakka executive and a non-Hyakka witness; Kaho names Ayame current chair, Yukari says she left ~10 months ago after giving Nagusa 証, and Niya confirms Onmyou contact with Nagusa (`scene:001:u:0032-0094`). The manual/order are not opened, and no Hyakka executive endorses the contest; Sensei/Niya's offered witness roles do not meet that missing category. **BA-C001/C016 — QUALIFY:** Sensei accepts helping Yukari, while Niya predicts Schale prestige will prevent political trouble; this is an untested forecast (`u:0102-0146`). Niya offers a possible Kuzunoha-information benefit without actual clue (`u:0151-0161`). No new durable claim ID/model/frozen prediction/diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission; 21 partial / 94 unmodeled across 115, backfill DEFER. E006 unopened.
+
+## V005 C001 E006 claim revision delta — witness gap persists
+
+**Succession — STILL INCOMPLETE:** unspecified necessary procedures are done, yet Sensei directly notes the Hyakka executive criterion remains (`scene:001:u:0001-0004`). Yukari names Renge/Kikyou as hoped supporters; Renge's door note reports absence, not consent (`u:0090-0100;scene:002:u:0002-0018`). **Institutional ideal — SPEAKER ACCOUNT:** Yukari says Hyakka mediates rather than primarily punishes and recalls choosing it as her place after an apparently earlier Nagusa intervention (`scene:001:u:0012-0068`). **Artifact — VISUAL/RUMOR:** publicity site displays a gun-like 証; Yukari has not seen the object and calls ghost-capture/Kuzunoha access hearsay (`u:0069-0089`). Its match to E001 `アレ` is unproved. Kikyou/Renge new narrow unmodeled; 21 partial / 96 unmodeled across 117. No new durable claim ID/model/frozen prediction/diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission; backfill DEFER. E007 unopened.
+
+## V005 C001 E007 claim revision delta — trial path without location
+
+**Renge — EXPAND with report grade:** Yukari's remembered Renge says she enjoyed Hyakka yet sometimes wished for ordinary/cultural youth; multiple clubs report trial visits and departure/refusals, but no current destination or live endorsement is found (`scene:001:u:0001-0025;scene:002-005`). Yukari's pent-up-desire explanation is inference; Chlorella's national tournament is doubtful even to its members. **Succession — STILL OPEN:** internal executive approval remains unavailable while Renge is unfound. **BA-C001/C016 — LOCAL CONTINUITY:** Sensei helps structure the search and offers rest, not a completed find. Kaede, Mimori, Tsubaki enter narrow unmodeled named-presence coverage; 21 partial / 99 unmodeled across 120. No durable claim ID/model/frozen prediction/diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission; backfill DEFER. E008 unopened.
+
+## V005 C001 E008 claim revision delta — present Renge found
+
+**Renge temporal state — REVISE:** E006 door absence and E007 unsuccessful club search remain true for those moments; E008 directly places Renge with Yukari/Sensei during a troupe threat (`scene:001:u:0078-0083`). No executive succession endorsement follows. **Local safety — BOUNDED:** Arata retreats after omitted combat and four named students report themselves unhurt; no full injury audit (`scene:002:u:0001-0009`). **Festival — PLAN:** Shugyoubu reports a Shizuko-sourced `送故迎新` lantern-floating close and a forthcoming miko, not completed rites/effect (`scene:001:u:0015-0034`). No durable claim ID/model/frozen prediction/diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission; 21 partial / 99 unmodeled across 120, backfill DEFER. E009 unopened.
+
+## V005 C001 E009 claim revision delta
+
+E004’s dissolution report gains Renge’s attribution to Kikyou’s strategist authority, though order text/delegation remain unopened (scene:001:u:0066-0072). Renge reports direct local Hyakka aid in the red-sky crisis, then infers no one needed it because the wider crisis ended without them; the inference exceeds evidence (u:0091-0104). Her missing return-object noun cannot be supplied from E001 or E006 (u:0116-0119). An omitted clash and refusal show failed recruitment, not a scored succession contest (u:0120-0129;scene:002:u:0001-0022). No durable claim ID or frozen prediction. E010 unopened.
+
+## V005 C001 E010 claim revision delta
+
+Yukari calls Renge merely confused and predicts Kikyou will understand the 継承戦 and sway Renge because they were childhood friends; the first two are hopes and the relation is Yukari’s report (scene:001:u:0014-0021). The servant confirms a 勘解由小路 care role and family duties without detailing mandate (u:0026-0055). A stallholder’s どうやら Hyakka identification is tentative; Arata’s claim that the current foe is the intended one does not name the target (u:0059-0067). Unknown [log=???] direction remains unattributed (u:0056-0058). No durable claim ID or prediction. E011 unopened.
+
+## V005 C001 E011 claim revision delta
+
+Arata’s assertion that the target cannot be an ordinary student challenges her self-presentation but cannot prove formal membership (scene:001:u:0015-0021). The student herself distinguishes having been Hyakka from having left; the generic speaker label is not a membership record (u:0060-0067). She repeats an attempted return of アレ without naming item, recipient or outcome (u:0071;scene:002:u:0010). Her expectation of the others’ unforgiveness and lack of 資格 is not a collective verdict or legal disqualification (scene:002:u:0008-0016). The ＜ウソ＞ refrain is unattributed and does not identify which claim is false (u:0017-0020). No durable claim ID/frozen prediction. E012 unopened.
+
+## V005 C001 E012 claim revision delta
+
+Kikyou supplies a direct senior attribution that Nagusa returned in order to return Ayame’s 証, refining E001/E011 アレ and E009’s omitted noun; artifact custody/completed transfer remain uninspected (scene:002:u:0067-0077). Her prediction Nagusa will not return and judgment that Nagusa abandoned the group are her stances. Yukari’s assumed Kikyou support is falsified by an explicit refusal (u:0052-0065). Shizuko’s historical record report assigns the family a dance yet says the rite did not occur, requiring distinction between assignment and performance (u:0021-0027). Kikyou states a one-time witness exception but no charter/delegation is opened (u:0109-0114). No durable claim ID/frozen prediction. E013 unopened.
+
+## V005 C001 E013 claim revision delta
+
+E012’s declared strategist-seat contest yields a post-bout Yukari exhausted and Kikyou asserting she cannot beat Nagusa; no formal winner declaration or office transfer is printed (scene:001:u:0001-0015). Kikyou’s お遊び accusation is challenged by Yukari’s admitted love for their shared past, while E010/E012 household duties do not prove insincerity (u:0019-0052). Kikyou reports that members judged Hyakka broken and presents ending it as protective; collective report and necessity are unaudited (u:0057-0066). Shuro offers help to Arata but no alliance acceptance appears (u:0113-0119). No durable claim ID/frozen prediction. E014 unopened.
+
+## V005 C001 E014 claim revision delta
+
+Yukari’s E013 attachment gains a first-person duty/desire account: servants’ perfect-score/competition praise is represented report, while the choice to join Hyakka beside Nagusa is hers (scene:001:u:0060-0095). Her inference that no one wants the old days exceeds Renge and Kikyou’s direct statements (u:0096-0103). Shizuko’s self-blame for the miko request is not a full causal judgment, and her brand joke is not a commercial forecast (u:0022-0041). Yukari’s acceptance of the miko role supersedes her E012 immediate refusal but does not prove dance, permission or resignation (u:0129-0133). Tourists’ twenty-year dance claim and unknown abolition cause remain hearsay (u:0137-0149). Shuro’s 百物語 is undefined (u:0153-0157). E015 unopened.
+
+## V005 C001 E015 claim revision delta
+
+Shuro’s direct yes to having sent the 花鳥風月部 letter revises E004 from unverified signature to self-attribution with matching recitation, not authenticated group authority (scene:001:u:0011-0029). Unknown-log burn threat and unnamed intermediary remain unassigned (u:0018-0023). Yukari’s retrospective claim that she lied and acted a Hyakka role is self-condemnation under defeat; her previously stated longing and first chosen path are counterevidence to a total intentional sham (u:0066-0081). Sensei’s Nagusa-common-cause idea is a hypothesis. Ninja club prior Nagusa contact is self-report and its search result is pending (u:0098-0122). No durable claim ID/frozen prediction. E016 unopened.
+
+## V005 C001 E016 claim revision delta
+
+E011’s anonymous student is explicitly confirmed as Nagusa by Sensei recognition, her self-name and narration of the prior talk (scene:001:u:0043-0053). E001/E011 attempted return is upgraded to Nagusa’s direct claim 証を返却した今, without a receipt or current custodian (u:0051-0052). Ayame’s Kuzunoha meeting remains a questioned member rumor, and the 127-case count is member praise (u:0007-0028). Nagusa’s imposed acting-chair account and prediction of eventual member acceptance are unverified (u:0066-0075). The black-square blocks remain absent; [log=???]ウソ does not certify a concealed proposition (u:0038-0040;u:0076). 幻魎百物語 is Nagusa’s recognition, not a mechanism audit (u:0089-0093). E017 unopened.
+
+## V005 C001 E017 claim revision delta
+
+The servant’s Yukari returned from Hyakka language is household framing, not formal resignation; Fina’s claim of a dance twenty years ago sits beside Shizuko’s E012 unperformed-rite report (scene:001:u:0004-0018). Renge’s no-interest claim is challenged by her agitation and peers’ reported repeated Hyakka talk; Tsubaki’s protective-lie account is interpretation, not proof E009 despair was feigned (u:0039-0114). Unknown attackers are directly perceived, while west-district multiple injuries are Onmyou field reports, not a patient audit (u:0126-0168). Niya directly admits minimizing E004’s letter and avoiding Schale debt; Kuzunoha/Ayame links are questions (u:0169-0184). Failed contact plus Kaho’s ような suggests possible interference, not verified jamming (u:0202-0205). No durable claim ID/frozen prediction. E018 unopened.
+
+## V005 C001 E018 claim revision delta
+
+E012/E016 return-object accounts gain a represented earlier offer to Kikyou, who recognizes the 証; acceptance, completed transfer and present custodian remain unshown (scene:001:u:0016-0025). Kikyou directly says she never regarded Nagusa as merely Ayame’s replacement, countering Nagusa’s universal assumption while not refuting other members’ expectations (u:0028-0037). Local rescue is supported by a resident’s thanks and Sensei’s route-cleared claim, not total evacuation (u:0038-0045). Nagusa’s 幻魎付喪神 and 幻魎百物語 taxonomy is expert testimony; Niya’s adjacent folklore is hedged, temporally unlocated (u:0060-0072;u:0101-0111). A giant catlike figure supports escalation but not its cause/capabilities. E019 unopened.
+
+## V005 C001 E019 claim revision delta
+
+Observed bullets pass through or fail to mark the giant; Nagusa’s only-qualified-百蓮-holder rule and Shuro’s narrower Ayame-only version are not experimentally exhaustive (scene:001:u:0008-0028;u:0201;u:0051-0057). Shuro directly claims summoning クロカゲ and names 稲生物怪録, strengthening attribution without showing production/control mechanics (u:0054-0076). Nagusa’s キキョウに…… after saying she lacks 百蓮 strengthens custody inference but remains unfinished (u:0044-0048). The book display gives fear-of-inadequacy evidence, while Shuro’s claim that all affection was false outruns it; Nagusa disputes all-time intent (u:0120-0188). E016 black squares are not retroactively filled. No durable claim ID/frozen prediction. E020 unopened.
+
+## V005 C001 E020 claim revision delta
+
+Shuro self-claims planting three prompts and using an Onmyou letter to bring Sensei; E004/E015 support letter authorship and arrival, but no independent delivery/causal audit confirms all prompts or sole authorship of student actions (scene:001:u:0056-0075). Her Ayame-only harm rule is untested beside Nagusa’s chair-plus-百蓮 rule (u:0026-0033). Nagusa’s アヤメの時みたいに opens a prior-incident lead without details (u:0090). A servant reports a miko vanished before dancing twenty years ago, explaining why assignment did not become performed rite; the original record and cause are uninspected (scene:002:u:0014-0031). The anonymous only/nobody claims overgeneralize the servant’s honor demand (u:0032-0060). No durable claim ID/frozen prediction. E021 unopened.
+
+## V005 C001 E021 claim revision delta
+
+Nagusa’s Great Snowfield account upgrades Ayame’s loss from rumor/inference to first-person testimony naming Kokuriko as perpetrator and 黄昏 as destination; it does not show the event or establish death/present state (scene:001:u:0039-0045;u:0166). The hijacked broadcast is observed, but Shuro’s universal 誰一人 nobody-cares verdict and claimed authority to speak for Yukari are not established by Yukari’s silence (u:0049-0083). Kikyou directly displays 百蓮 and says Nagusa left it with her, resolving the current-custody inference narrowly; formal transfer and the exclusive Shuro/Kurokage defeat rule are untested (u:0092-0100). Nagusa’s total fake-self claim is a fear-laden self-appraisal. Kikyou’s E013 insult is now admitted to contradict her true view, without making Shuro/Kikyou sole cause of Yukari’s crisis (u:0106-0138). No durable claim ID/frozen prediction. E022 unopened.
+
+## V005 C001 E022 claim revision delta
+
+Niya labels E021’s broadcast intrusion 電波ジャック and accepts error in minimizing the warning letter, but failed contact with the festival committee does not prove Shuro caused every communications lapse (scene:001:u:0009-0018). Niya’s 人質 summary is accepted by Nagusa but does not specify restraint (u:0019-0022). Shuro claims to be Yukari’s 代理人 and attributes an entity she calls 無貌の形代 to Yukari’s feelings; neither agency grant nor causal mechanism is independently shown (scene:002:u:0005-0049). Burning streets and screams are shown, while narrator/Yukari self-blame is focalized and cannot certify her responsibility (u:0051-0060). Shuro’s コクリコ様が望んだ and completion forecast lack an opened superior order/result (u:0061-0067). No durable claim ID/frozen prediction. E023 unopened.
+
+## V005 C001 E023 claim revision delta
+
+Shuro’s alleged Ayame never-friend quote, rejected rescue reach and 黄昏 origin of Nagusa’s arm are uncorroborated antagonist testimony; Nagusa’s E019 impairment is separately supported and she protests 違う here (scene:001:u:0033-0053). The book-mediated Yukari aspiration is consistent with E014, but Shuro’s all-Nagusa’s-fault verdict exceeds it (u:0064-0092;u:0141). Shuro now claims a Kokuriko-desired 百物語 complete and Yukari already transformed; neither finished object nor full city outcome is inspected (u:0085-0110). Her assertion that Yukari created 無貌の形代 remains a mechanism claim. Sensei’s conditional acknowledgment of concealed feelings does not accept it (u:0124-0138). No durable claim ID/frozen prediction. E024 unopened.
+
+## V005 C001 E024 claim revision delta
+
+Selected memories show Nagusa’s concrete care for Yukari, Renge and Kikyou, countering Shuro’s universal everything-fake verdict without erasing abandonment (scene:001:u:0019-0039). Yukari independently says she is hurt yet wants repair, contradicting Shuro’s claim to speak for her (u:0051-0078). Shuro’s Ayame-only/absolute invulnerability premise is not sustainable as a description of this encounter once an attack lands on her; whether emblem possession, Nagusa’s qualification or another mechanism explains the hit remains unresolved (scene:002:u:0007-0015;u:0053-0066, source u:0120). Yukari reports local absence of 無貌の形代 and refuses manipulation; no disappearance mechanism is demonstrated (u:0084-0088). Arrest is declared, not effected, and Shuro’s conceded victory is local before a new book action (u:0089-0119). No durable claim ID/frozen prediction. E025 unopened.
+
+## V005 C001 E025 claim revision delta
+
+The escape after Shuro tears the book is directly discussed, but Sensei’s thought that it may be a 百物語 is only speculation; no capture or definitive mechanism (scene:001:u:0001-0005, choice:001). Renge specifically says the instigator fled rather than was defeated (u:0017-0021). The Yukari/Nagusa 継承戦 is accepted and actually fought, with Sensei inwardly naming Nagusa winner and Yukari directly acknowledging defeat; no formal office-transfer consequence is printed (u:0035-0059). Yukari’s continued admiration counters Shuro’s total no-real-care charge, but does not settle every earlier misunderstanding (u:0060-0064). No durable claim ID/frozen prediction. E026 unopened.
+
+## V005 C001 E026 claim revision delta
+
+Niya reports Hyakka dissolution 保留 rather than cancelled; member attrition remains and lost activity funds are only a hypothetical example (scene:001:u:0039-0045). Onmyou loses Shuro’s trail beyond the district; fox simile does not prove escape mechanics (u:0050-0056). Niya’s self-blame is contextualized by Sensei’s available-information reasoning, without certifying optimal judgment (u:0058-0074; source-positioned u:0149). Yukari reports her miko exit/servant understanding, not a family-wide formal decree (u:0103-0115). Shuro says she failed to make the intended 百物語 and Kokuriko agrees, revising E023’s completion boast; Kokuriko’s old-festival reenactment claim leaves the missing miko event uninspected (u:0131-0147). No durable claim ID/frozen prediction. C001 checkpoint due.
+
+## V005 C001 canonical checkpoint reconciliation
+
+The checkpoint rejects Shuro’s total fraud/puppet verdict while retaining observed hurt and her verified letter/broadcast actions. E023’s completion claim is revised by E026 failure admission. E024 shows a successful attack but not 百蓮 transfer/qualification mechanics. E025 gives a resolved local chair bout; E026 gives only held dissolution, not cancellation. Nagusa’s Ayame testimony, the old miko missing-record report and Kokuriko’s reenactment claim remain distinct, with no identified link. No new durable claim ID/frozen prediction. C002 E001 next.
+
+## V005 C002 E001 claim revision delta
+
+Dream-Ayame’s 201 wins and never-friend statement are not historical records; the latter repeats Shuro’s C001 E023 purported quotation, so two framed occurrences are not independent witnesses (scene:001:u:0001-0031). Nagusa’s waking arm pain is firsthand symptom evidence but does not corroborate Shuro’s 黄昏 mechanism, and her if-I-had-stopped-Ayame claim is counterfactual grief (u:0032-0041). No durable claim ID/frozen prediction. E002 unopened.
+
+## V005 C002 E002 claim revision delta
+
+Azami’s seed growth, three-book inventory and desire-versus-fear functions are self-report, not independently audited. Her twenty-year Great Snowfield book loss is not proven to be Nagusa’s later Ayame incident (scene:001:u:0011-0014;u:0055-0064). Shuro’s failure guesses are untested, while her missing 稲生 book strengthens E025’s loss aftermath (u:0025-0034). Azami’s Kokuriko rejection/threat claim conflicts with C001 E026 direct comfort and E002 direct concern, so remains manipulative/unverified (u:0017-0024;u:0042-0052). No new durable claim ID/frozen prediction. E003 unopened.
+
+## V005 C002 E003 claim revision delta
+
+Arata corrects a follower’s no-preliminaries claim; contest scores remain uninspected (scene:001:u:0024-0046). She targets Nagusa’s arm without a shown information route (scene:002:u:0001-0012). Shizuko’s thanks supports local mediation value, not formal case authority (u:0023-0032). Nagusa’s Ayame-will-return statement is unvalidated future hope (u:0055-0060). Her Great Snowfield wound attribution is direct first-person provenance, stronger than Shuro’s injury tale, but tissue, mechanism and soon-heal prognosis remain open; Yukari’s treatment possibility is untested (u:0075-0093). No durable claim ID/frozen prediction. E004 unopened.
+
+## V005 C002 E004 claim revision delta
+
+The servant’s prompt help strengthens Yukari’s report of household understanding but is no family-head decree (scene:001:u:0009-0023). Kai/Riku’s visible-yet-absent arm, months-old severance and phantom-limb diagnosis are participant claims; Renge challenges them, no scan is opened (u:0044-0054). Nagusa’s 黄昏 trace self-report strengthens broad origin beyond Shuro’s taunt but does not verify exact injury mechanics (u:0055-0061). Claimed sole cure, worsening prognosis and exercise relief remain untested; video not delivered (u:0065-0075). No durable claim ID/frozen prediction. E005 unopened.
+
+## V005 C002 E005 claim revision delta
+
+Nagusa's first-person retrospective upgrades the Ayame never-friend line from Shuro allegation/dream echo to her own memory, not an independent Ayame transcript or settled motive (scene:001:u:0015-0056). She links her right-arm swallowing to Ayame's disappearance, supporting 黄昏 origin but not Kai/Riku's phantom-arm anatomy or Shuro's exact causal reach story (u:0056-0060). A Kuzunoha-tagged rescuer claims to sustain her strength, speaks of different temple time and gives a scroll for Sensei about saving an unnamed person; identity, scroll contents and delivery remain unverified (u:0065-0088). Kikyou's 花鳥風月部 manipulation theory is inference (u:0099-0102). No durable claim ID/frozen prediction. E006 unopened.
+
+## V005 C002 E006 claim revision delta
+
+Niya relays fear-shaped, gun-resistant Ebisu attackers; Nagusa calls them 幻魎百物語 and Niya suspects a lantern-tale link, with no direct encounter or tested exclusive 百蓮 rule (scene:001:u:0067-0085). Niya says Nagusa brought back a Kuzunoha letter, strengthening object existence but not author/content/delivery (u:0099-0103). Her completed-Color-cure inference exceeds Sensei’s cautious possible answer (choice:010;u:0096-0098). No durable claim ID/frozen prediction. E007 unopened.
+
+## V005 C002 E007 claim revision delta
+
+Azami’s claimed office, only-student status and C001 total-victory rumor are unverified against a roster/custody result (scene:001:u:0018-0033). A glassworker directly reports a childhood-fear weasel walking shards, a farmer directly reports a bear that survived a shot with a natural-bear alternative, and the giant crab comes only through Azami about an absent fisherman (scene:002:u:0014-0029;scene:003:u:0010-0038). Azami’s dusk-only forecast conflicts with the craftsperson’s dawn report if applied generally. No direct creature or book effect is seen; no durable claim ID/frozen prediction. E008 unopened.
+
+## V005 C002 E008 claim revision delta
+
+Shuro refuses to answer Nagusa’s question whether she caused local 百物語; she says she wanted an unending nightmare and threatens to make it real, not proof she caused prior dreams or entities (scene:001:u:0026-0038). She remarks Nagusa’s prior 百蓮 use was no fluke, while the episode omits the apparent present action/hand-off (u:0039-0046). Shuro is interrupted during escape and screams, with no custody or strike mechanism (scene:002:u:0017-0024). An Ayame-labeled speaker arrives, but identity/rescue remain unadjudicated under the fear-form threat (u:0025-0032). No durable claim ID/frozen prediction. E009 unopened.
+
+## V005 C002 E009 claim revision delta
+
+The Ayame-labeled figure distinguishes chair title from inherited 百蓮 qualification and reports firing it at her mirror double without effect (scene:001:u:0025-0050). If reliable, this is a narrow counterexample to unconditional emblem efficacy, not a tested universal rule. She says she searched for Kuzunoha from qualification anxiety, found ruins and no prophet, then omits Kokuriko/Nagusa from her first complete-story claim (u:0051-0063). She denies remembering the snowfield encounter/never-friend line; present friendship profession does not falsify Nagusa’s firsthand testimony (u:0064-0085). No durable claim ID/frozen prediction. E010 unopened.
+
+## V005 C002 E010 claim revision delta
+
+Shuro’s two-defeat count is her assessment, while tied custody is directly stated (scene:001:u:0001-0020). An old umbrella remnant is present; its prior animated attack is the Ayame-labeled figure’s report. She challenges Shuro’s unlimited-book boast with a common-image 唐傘お化け argument; no new-umbrella test verifies a rule (u:0021-0045). Her headquarters lead is unspecified, and Shuro discloses nothing. Kikyou’s appetite/mission deviations and Azami’s absent-sighting claim justify inquiry but do not prove imposture, especially with Azami’s E002 interest (u:0058-0159). No durable claim ID/frozen prediction. E011 unopened.
+
+## V005 C002 E011 claim revision delta
+
+A mark is pointed out on the old umbrella, but the Ayame-labeled figure’s earlier mark-placement/custody history and inference to an enemy base are unverified; Azami’s 彼岸邸 history is hearsay (scene:001:u:0011-0025). The figure’s Kuzunoha-recognized-Nagusa and unrecognized-self claims infer from emblem use/nonappearance, not an opened ruling (u:0041-0054). A search finds Shuro’s self-authored 最強の怪談家 manuscript, no other book on her; this does not falsify Azami’s E002 multi-book claim or prove a handoff (u:0065-0122). No durable claim ID/frozen prediction. E012 unopened.
+
+## V005 C002 E012 claim revision delta
+
+The mansion is reached and looks maintained, revising abandoned-place appearance but not proving full base operation (scene:001:u:0001-0048). Found diary/narration describes a twenty-year Kadeno miko-chair who prioritized a small fire over dance, lost family/office after criticism and sought Kuzunoha; author/viewpoint and independent records remain uninspected (u:0049-0091). Kokuriko directly self-claims Kadeno/Hyakka past, strengthening identity linkage without certifying every motive/detail (u:0092-0104). Shuro’s abandonment fear is not Kokuriko’s present verdict; mind-reading inference at u:0099-0102 is unproved. No durable claim ID/frozen prediction. E013 unopened.
+
+## V005 C002 E013 claim revision delta
+
+Shuro claims Kokuriko foresaw the umbrella route, split and 百蓮 constraint, but full route/controller evidence is not opened (scene:002:u:0005-0012). Her earlier fear-was-acting claim conflicts with repeated inward abandonment panic (u:0015-0018,u:0038-0046). A tale fires at Shuro; that direct turn does not prove Kokuriko/Azami ordered it or identify injury (u:0019-0029). Sensei intervenes and says it hurts, with no wound exam (u:0035-0059). Azami acknowledges Kikyou’s identification, not every alleged scheme (u:0060-0076). No durable claim ID/frozen prediction. E014 unopened.
+
+## V005 C002 E014 claim revision delta
+
+Azami’s explicit 花鳥風月部 allegiance and escort-task self-attribution validate deliberate guide cover, not Kikyou’s claim she controlled every local creature (scene:001:u:0001-0023). Kikyou’s clues include weak resident recognition, Kadeno crest and a retrospectively asserted ordinary-gun strike on Shuro; their premises are not all independently audited. Azami says fear feeds 稲亭物怪録 and threatens lethal story, with mechanism/result unshown (u:0024-0035). An Ayame-tagged voice says it was never with Nagusa, strongly challenging authentic return but not proving a full illusion map or actual Ayame fate (scene:002:u:0019-0029). No durable claim ID/frozen prediction. E015 unopened.
+
+## V005 C002 E015 claim revision delta
+
+The new Ayame-labeled speaker calls the recent companion a Nagusa-heart/fear-made 百物語, consistent with E014 disappearance but not an inspected creation/control mechanism (scene:001:u:0024-0029). She says Ayame sought Kuzunoha from limits/resentment and plans to make a real prophet via book and obtain a watching eye; all are speaker motive/intent claims, no completed object (u:0030-0042). Her next-room safety/Sensei-sleep report is unverified (u:0015-0023). The never-friend completion is narrator-tagged after a speaker lead-in (u:0050-0053). No durable claim ID/frozen prediction. E016 unopened.
+
+## V005 C002 E016 claim revision delta
+
+Kokuriko credits Shuro/Azami with 稲亭 use, Hyakka repulse and Sensei capture, stronger antagonist-side outcome testimony but not restraint/wound audit (scene:001:u:0001-0017). Shuro says a book-born tsukumogami attacked her contrary to an assumed ally-immunity rule; Kokuriko’s fickle-heart/rumor-decay explanation does not identify the order/controller (u:0035-0046). Shuro classifies the prior Ayame as Nagusa-heart 百物語 and asks whether it believed itself a student, then doubts her own origin from a memory gap; no ontology verdict (u:0047-0058). No durable claim ID/frozen prediction. E017 unopened.
+
+## V005 C002 E017 claim revision delta
+
+The visitor’s avalanche/buried-party story is uncorroborated and conflicts with inspected mansion ambush/Sensei-capture reports; Niya’s real dispatch order does not validate the disaster (scene:001:u:0043-0051). Niya calls the visitor a shadow, citing 邪気 and the implausibility of real Ayame leaving colleagues; the visitor’s acknowledgment and hostile reply strongly support deceptive presentation without a full ontology test (u:0052-0069). Relation to Ebisu companion/E015 speaker and original Ayame location remain open. No durable claim ID/frozen prediction. E018 unopened.
+
+## V005 C002 E018 claim revision delta
+
+The mansion cell and waking Sensei directly substantiate capture/confinement after E016's report, while E017's avalanche remains unsupported (scene:001:u:0001-0030). The Ebisu-resident/produce authenticity defense is an inference, not a tested book limit (u:0031-0036). Shuro's claim the friendly Ayame was Nagusa fear from 稲亭 strengthens the impostor account alongside E014-E017 but leaves form count/original location unresolved; her all-staged boast conflicts with E013 inner fear and observed attack (u:0050-0084). Sensei's alternative choice confirms letter receipt from Nagusa, upgrading E005/E006 handoff evidence without text/author verification (choice:006). Shuro's Kuzunoha/book prospect and offer remain intent, not outcome (u:0100-0114). No durable claim ID/frozen prediction. E019 unopened.
+
+## V005 C002 E019 claim revision delta
+
+The party's released movement and Shuro's gun threat revise E018's confinement to armed coercive travel, while Kikyou's suspected independent Shuro plan lacks command evidence (scene:001:u:0001-0023). Nagusa's recalled landmarks lead to an apparently ruined temple, where she says a self-named girl previously gave Sensei's letter (scene:002:u:0001-0027). A Kuzunoha-tagged claimant appears after a multi-witness blossom change and recognizes Nagusa; this substantially strengthens direct encounter continuity, but neither a founding-office record nor physical alteration mechanism/identity test is shown (u:0028-0035). Shuro's earlier inference of Kuzunoha existence is partly borne out at the encounter level, not at every title/book-origin level. No durable claim ID/frozen prediction. E020 unopened.
+
+## V005 C002 E020 claim revision delta
+
+The present elder speaker claims she sent the letter, strengthening the Nagusa handoff/Sensei receipt chain while leaving text/signature uninspected; age, founding office and 百蓮 invention remain self-claims (scene:001:u:0001-0015). Shuro reports neutralization of a 怪書 without 百蓮 after action skipped in representation; exact target/duration/mechanism unverified (u:0016-0033). The elder says she does not select temple entrants, challenging Nagusa's Ayame-was-passed-over premise, and questions the no-one-would-suffer counterfactual (u:0034-0056). Her mask argument forbids third-party certainty about true Ayame; unheaded Ayame lines cannot authenticate a present body (u:0057-0080). She asserts no restoration while an unheaded Shiroko-tagged hypothesis suggests incomplete reversal for Hoshino; neither is a tested universal rule here (u:0081-0096). Shuro's book-of-her-own prospect is counsel, not acquisition (u:0097-0114). No durable claim ID/frozen prediction. E021 unopened.
+
+## V005 C002 E021 claim revision delta
+
+The Ayame-tagged first-person chair-mask account is vivid but embedded in a scene later identifying a present Ayame-like being as a 稲亭-born story; its fidelity to original Ayame's unobserved thoughts is not certified (scene:001:u:0001-0048). Raw [log=아야메 황혼 1] narrator lines further limit speaker identity. Azami explicitly names this story-form ヒトツメ, strengthening its present classification over E015/E017 inference, but does not demonstrate relation to every previous figure, original Ayame's state or gaze-effect reach (u:0049-0076). The figure's silence after Azami's instruction is not an attack or assent verdict. No durable claim ID/frozen prediction. E022 unopened.
+
+## V005 C002 E022 claim revision delta
+
+Kaho/Chise directly see many eyes and an ordinary bullet passes through one, validating public eye presence and a local noncontact result after E021's plan; a later increase is observed but shot causation unproved (scene:001:u:0014-0036). Members report old monsters attacking citizens and no escape route; injuries, universal containment and festival cancellation remain unverified (u:0037-0056). Niya's confinement after an offscreen shadow fight is her self-report; Ninjas confirm they watched/froze but do not print fight details (u:0066-0090). Her all-seeing Hitotsume thesis is a threat assessment, not a tested law. Sensei's guard request and Niya's message are participant testimony; Kaho's festival order is conditional on Shizuko arrival (u:0091-0118). No durable claim ID/frozen prediction. E023 unopened.
+
+## V005 C002 E023 claim revision delta
+
+E022's conditional Waraku order becomes an actual song/public announcement with Shizuko and volunteers present; no completed festival or safety result (scene:001:u:0001-0044;scene:002:u:0052-0070). Niya's historical festival-control explanation lacks charter/time-series audit, but Azami directly sees Hitotsume thinning and concedes festival excitement neutralizes fear feeding her 稲亭 book locally; she plausibly warns the effect is temporary (scene:002:u:0030-0075). Azami's inescapable-fear claim is thus narrowed, not permanently falsified. Niya's white firework cue and anonymous Hyakka shooting lines do not yet identify actor/strike outcome (u:0076-0084). No durable claim ID/frozen prediction. E024 unopened.
+
+## V005 C002 E024 claim revision delta
+
+Kikyou confirms the white-firework signal and Hyakka's return, while Niya's injury is visible despite her claim of durability (scene:001:u:0001-0021). Festival weakening is bounded/temporary; Niya's Ayame-as-root and 百蓮/book-destruction plan remains hypothetical (u:0040-0065). A blank object recognized by Shuro as restored 稲生 cover but lacking burned old contents is presented; unnamed restorer provenance is Niya's account. Shuro's new written lion/ninja passages correspond to a visible creature, foe confusion, a newly hitting shot and reported Ninja empowerment, supporting local new-tale efficacy without full rule or outcome (u:0066-0154). No durable claim ID/frozen prediction. E025 unopened.
+
+## V005 C002 E025 claim revision delta
+
+Kokuriko calls Azami's fear work spent, consistent with local E023-E024 weakening but not permanent global destruction (scene:001:u:0001-0031). Yukari senses a book; Kokuriko claims three original titles and a reconstructed 稲生霊怪録 reflecting people themselves, distinct from E024's blank 稲生 vessel and untested in operation (u:0054-0067). Claims Kuzunoha, perfect Ayame and friendship are fantasy are rhetorical attack, not validated by the unshown revelation (u:0068-0077). No durable claim ID/frozen prediction. E026 unopened.
+
+## V005 C002 E026 claim revision delta
+
+Dark overlay and coerced student self-statements follow E025's third-book threat; Kokuriko admits covering their vision and claims Sensei unaffected, but physical book activation is not shown and induced statements are not objective exhaustive biographies (scene:001:u:0001-0037). Kokuriko affirms her past pressure on Ayame and claims Ayame sided with them (u:0052-0056). Azami's shock at Nagusa's apparent right arm challenges an absolute no-return claim, without showing anatomical restoration mechanism or who retrieved whose hand (u:0057-0068). Kokuriko locates Ayame atop the castle as antagonist report, not visual confirmation; she exits uncaptured (u:0069-0082). No durable claim ID/frozen prediction. E027 unopened.
+
+## V005 C002 E027 claim revision delta
+
+The Ayame-labeled speaker says Hitotsume let her watch; continuity with the named story is strengthened but embodied/original identity remains untested (scene:001:u:0001-0007). Nagusa/Ayame formally declare a witnessed bout, and late italic Ayame statements report Nagusa beat her and became chair; missing finishing action/emblem handoff and E009 title/qualification distinction constrain the verdict (u:0008-0071). Ayame's worth crisis and dislike of Nagusa's crying face are present/italic utterances, not proof every prior smile was false or friendship absent. No durable claim ID/frozen prediction. E028 unopened.
+
+## V005 C002 E028 claim revision delta
+
+Niya reports Waraku completed and specifically says her ancient purging-ritual mechanism in E023 was a bluff; the observed local fear attenuation persists but no old causal law is established (scene:001:u:0017-0030). Her post-event Ebisu investigation says committee empty for decades and Azami cover, not fake residents/produce, and antagonists vanished uncaptured (u:0031-0049). Official announcement calls crisis Ayame enemy-made, but source is public position rather than all-form authentication, and Ninja friendship-based innocence inference is weak (scene:002:u:0011-0024). Nagusa confirms return of right arm and Ayame, but Ayame remains asleep under secondhand psychological explanation; no office/emblem settlement is printed (scene:003:u:0023-0046). No durable claim ID/frozen prediction. C002 checkpoint due.
+
+## V005 C002 canonical checkpoint reconciliation
+
+The chapter closes several local questions while preserving source grades: an E017 avalanche claim conflicts with observed mansion capture; E023 ritual history is retracted by Niya as bluff while local fear relief stands; E028 Ebisu audit supports false committee cover but not fake residents; E027 apparent Nagusa victory is not a formal chair/百蓮 transfer; Nagusa's E028 arm/Ayame return does not certify unchanged mind/role; public enemy-made Ayame account is not a full form audit. Kokuriko's third-book/ Ayame-castle claims are interested testimony, with staged local effects but incomplete mechanics. No durable claim ID/frozen prediction. 274/480; V006 C001 E001 next.
+
+## V006 C001 E001 claim revision delta
+
+Maia's illness/exhaustion and return to Arius are directly represented, while unheaded work/lender/boss lines explain her discouragement without opened contracts, enrollment status, wages or criminal-task details (scene:001:u:0001-0045). Her claim that hope outside was a dream is a distressed local interpretation, not an analyst conclusion. Subaru directly promises welcome and rest; no long-run resource or governance outcome is shown (u:0046-0057). No durable claim ID/frozen prediction. E002 unopened.
+
+## V006 C001 E002 claim revision delta
+
+Hifumi/Hanako describe external question setting, broad subjects and poor-score supplemental/retest consequences; exam contract, papers, thresholds and enforcement are uninspected (scene:001:u:0013-0046). Hifumi explicitly denies direct expulsion for this test, distinct from the earlier special remedial exam; do not transfer either rule to the other. Reisa's formal Vigilante-creed statement is corrected by Suzumi (u:0061-0066). Natsu's sweets-as-study duty, Mine's punishment-as-rescue and Serina's curriculum explanation are situated assertions, not confirmed effectiveness, assaults or exam policy (u:0082-0102). Narration verifies the Sisterhood hall/dorm compromise after Sensei's objection and Hinata/Marie's persuasion (u:0119-0130). Shy students' request is pending at cutoff; E003 is not read. No durable claim ID/frozen prediction or held-out diagnostic. 276/480.
+
+## V006 C001 E003 claim revision delta
+
+The pair's present Arius-to-Trinity disclosure and room encounter are directly represented; the earlier visitor and Madam departure are their retrospective account (scene:001:u:0001-0029). The visitor's Tea Party uniform/authority, optionality and factional welcome are quoted within that account, and 田舎からの転校生 is described as a paperwork cover with no file inspected (u:0030-0059). Reported beds, food, no watch or confinement, cafés and part-time work are strong personal testimony but not an academy-wide material audit (u:0060-0127). They explicitly lack current information on Arius stayers; resistance and forced access denial remain rumor/hearsay, and their belief about absent study is conjecture (u:0130-0145,u:0183-0188). Their recurring dreams are self-report, not a clinical finding. Sensei's adult-role promise has no opened delivery mechanism; Squad outcome absent (u:0189-0197). No durable claim ID/frozen prediction. 277/480; E004 next.
+
+## V006 C001 E004 claim revision delta
+
+Atsuko's report of surveillance vigilance, occasional outings and contact with Saori is bounded personal testimony; her impression that Saori's self-search may end is not Saori's own status report (scene:001:u:0008-0011,u:0043-0050). The large ship is encountered, but Hiyori's magazine-derived amenities/prices and death-game inference are unverified; Sensei says a sponsor arranged it without his knowing details (u:0063-0085). Saori's arrival and Nagisa's later self-identification as sponsor of this gathering are direct, but do not identify Nagisa as E003's reported transfer emissary or show a financing record (u:0086-0101,u:0185-0188). Old Arius training and declined disappearance contracts are Squad reports, not current curricular or contract audits (u:0123-0155). Sensei's education-as-world-knowledge thesis receives concrete contract-literacy and perspective-taking examples, with Misaki's assent explicitly partial; no school delivery has occurred (u:0158-0176). No durable claim ID/frozen prediction; 278/480, E005 next.
+
+## V006 C001 E005 claim revision delta
+
+Nagisa's awkward 今はもう denial and Misaki's Arius-extra-text reference do not independently prove past torture (scene:001:u:0001-0005). The ship venue, served meal and brewed tea are represented; rental scope, usual cost and budget are Nagisa's claims with no invoice (u:0026-0075). Squad's warm-water training reward is a memory, not a ration record (u:0076-0085). Nagisa cites Trinity intelligence; Sensei says he checked that assigned transfer contacts are support and the students themselves reported their visit, but the underlying records and direct transfer testimony on reporting are not opened here (u:0086-0105). Nagisa's expulsion/archival account and dual political/personal motives are self-report, not an archive audit or formal academy statement. Atsuko apologizes for terror acts, while Nagisa says future apologies and responsible action remain; no reparative program is stated before cutoff (u:0119-0225). Nagisa's knowledge does not identify her as E003 emissary. No durable claim ID/frozen prediction; 279/480.
+
+## V006 C001 E006 claim revision delta
+
+Nagisa proposes teaching Arius with remote/indirect safety options, while Saori's escort explanation supports Sensei's on-site choice; no student consent, lesson, resource delivery or safe access is observed (scene:001:u:0021-0034). Initial Squad banter has raw Hiyori/Atsuko tag drift, restricting exact attribution (u:0004-0012). Subaru sees Maia's halo intact, which does not resolve illness; Maia's city-collapse line is explicitly anticipated, not a collapse report (u:0050-0055,u:0088-0089). Her art, markets and clean-water leisure are first-person experiences, and her exclusion judgment is situated, not universal proof (u:0060-0099). Subaru's many-returners and Trinity lost-contact statements lack names/counts; missing contact does not prove harm (u:0100-0105). Her indictment that Squad, especially Saori, could guide Arius but disappeared is adversarial testimony, not a verified institutional duty or incident timeline (u:0113-0115). No durable claim ID/frozen prediction; 280/480.
+
+## V006 C001 E007 claim revision delta
+
+The exam-print delivery error is Nagisa's hypothetical cover for intended access, not a completed accident or formal Arius exam (scene:001:u:0001-0015). Sensei promises pay without amount or disbursement; a second plan is unspecified (u:0016-0021). Nagisa's school-ownership discussion distinguishes possible claim from actual control, and her curriculum doubts and prior failed-emissary account are interested/reported without records (u:0022-0046,u:0100-0105). Subaru's harmonica performance is supported by immediate audience response but no melody/performance audio is represented (u:0047-0079). Sensei now reports transfers' thanks to Squad; E003's represented speech thanked Sensei and requested Squad help but did not directly quote such a message. Do not treat subsequent opportunity as acquittal for terror, which Atsuko expressly condemns (u:0136-0151). Resident alarm about Squad/Sensei is reported to Subaru; his unpredictable powers/Madam causality are local inferences. Safeties-on order does not show a shot or confirmed attack (u:0174-0215). No durable claim ID/frozen prediction; 281/480.
+
+## V006 C001 E008 claim revision delta
+
+Two residents' special-treatment/abandonment accusations are judgments, not personnel records; Saori's wanted/fugitive similarity and fatigue are her present statements (scene:001:u:0001-0037). Saori's claim she brought the academic exam advances E007's paper route to her asserted possession, without shown pages, branding, quantity or administration (u:0038-0063). Sensei's recognition of Arius residents as students does not inspect legal enrollment; their fear about being students like others is direct (u:0069-0091). Subaru's u:0099-0103 apparent assent is an explicit pivot to her armed entry qualification, not consent to the academic test. Safeties-off and combat preparations are represented, with no fire or victory shown (u:0100-0132). Raw Saori/Hiyori tags drift in the meeting. No durable claim ID/frozen prediction; 282/480.
+
+## V006 C001 E009 claim revision delta
+
+Saori says a close contest is decided in Squad's favor, but fight steps/score are omitted; residents' continued anger shows victory did not confer trust (scene:001:u:0001-0019). An observer reports a resident unconscious after double chest/head shots; Atsuko is strongly implied shooter by reactions and her warning, but exact action/weapon and injury course are not neutrally displayed (u:0020-0033). Subaru's lack-of-teachers/tools statement reflects real damaged-room conditions, while Sensei's furniture optimism does not prove adequacy or voluntary class attendance (u:0034-0055). Saori's absolute contract-wage warning, social-contract summary and review-efficiency claim are classroom assertions, not verified law/philosophy/learning study (u:0056-0095). Narration supports an actual class and reports Hiyori most popular and some wariness easing, while others disengage; no exam sitting, durable consent or learning assessment (u:0096-0149). No durable claim ID/frozen prediction; 283/480.
+
+
+## V006 C001 E010 claim revision delta
+
+E007's interrupted apology is identified by the source's [log] callback, and E009's requested consultation becomes a direct scar-viewing apology. Narration confirms Sensei shows the scar and Saori touches it, while the available Sensei choice says healed/no pain; neither cancels the visible scar nor establishes a medical assessment (scene:001:u:0034-0095). Saori's daily-regret, responsibility and future-choice words are her direct commitments, not proof of automatic forgiveness, future compliance or institutional judgment (u:0096-0140). Saori reports better resident conditions and incoming outside funds/supplies but explicitly lacks source/flow knowledge. Subaru later explains her own Arius-specific coercive work and desire to feed/shelter residents; it is plausible support context but not a traced account, payment record or proof that it is the sole source (u:0141-0149,u:0219-0291). The rival remains alive in the vignette, with death threatened but not performed. Raw boss/Subaru labels drift at u:0235-0249; E001 boss identity unresolved. Saori hears Subaru's harmonica, then a possible trumpet amid an unidentified disturbance, without source identity or mechanism (u:0295-0310). No durable claim ID/frozen prediction; 284/480.
+
+
+## V006 C001 E011 claim revision delta
+
+Hiyori reports a book from Sensei, with no handoff shown; the short quiz is represented but has no scored output and is not E007's proposed comprehensive exam (scene:001:u:0001-0023). Maia's recoil is direct but Subaru's recent-nightmare explanation and assurance do not disclose contents or prove resolution (u:0041-0057). Narration explicitly says Squad remains at Arius under house-sitting cover because wanted status makes public exposure dangerous; this supports a narrower movement constraint than treating Squad's absence as simple preference (u:0067-0085). A passerby's trainee-teacher label is mistaken and partly answered by a mis-tagged protest at u:0101. Students' pool-water and city observations, and reported past ration-line punishment, are local experience/testimony, not universal deprivation statistics (u:0102-0144). Sensei offers to pay at the arcade and students play, but no amount/receipt is shown; his mathematical rationale is challenged by Subaru (u:0145-0166). Subaru's life-question is serious but hypothetical; narration's flashed face is unnamed, and Sensei's no-certain-method answer is his character judgment, not a clinical finding (u:0185-0218). No durable claim ID/frozen prediction; 285/480.
+
+
+## V006 C001 E012 claim revision delta
+
+Bystanders say Subaru fires at/toward the kitten and Maia observes the leap; Subaru catches it alive. Exact trajectory, animal injury check and safety margin are unshown, while the sister's hazard objection is independently intelligible before crowd Arius stigma begins (scene:001:u:0001-0042). Maia's supervisor/lender/boss voices at u:0046-0048 are memory/log fragments from earlier outside exploitation, not present repeat harms; E010 boss continuity remains unproved. E010's reported tea-time now has resident speech and credit to Subaru, but no verified finance trail (u:0043-0088). Suzumi/Reisa learn Arius affiliation; severe u:0112-0116 tag drift prevents a precise disclosure account. Reisa's delinquent-trap photos are her anecdote, not inspected case records. A/B response is lively while C/D explicitly retain anger; neither generalized reconciliation nor universal rejection follows (u:0091-0208). Subaru's recent-rich-kindness and Trinity historical-responsibility claims are her grievance analysis, not audited facts; C/D see an odd face change without detailed description (u:0209-0235). Mine reports rescue intuition, with need and action unshown (u:0239-0252). No durable claim ID/frozen prediction; 286/480.
+
+
+## V006 C002 E001 claim revision delta
+
+E012's Rescue Knights arrival becomes a direct Hanae-speaking, Mine-led party; the need Mine sensed remains her claim, with no patient yet identified (scene:001:u:0001-0014). Mine's own top-exam claim lacks marks and the group has not sat the new comprehensive exam (u:0022-0027). Sensei requests school/order-label concealment; Serina and Mine agree but Maia already knows and Subaru later names them correctly. 名もなき奉仕活動部 is a cover designation, not a registered club (u:0028-0085; scene:002:u:0034-0053). A temporary aid station is built, with no treatment/inventory shown (scene:002:u:0002-0005). Subaru's no-fight offer is conditional on discreet service and not acting for Tea Party/Sisterhood; neither legal authority nor full independence is audited. She misidentifies Mine's absence and the group preserves the false impression (u:0041-0069). Mine's contained-anger and persuasion-readiness statements are interpretations, not verified hidden intentions of Arius residents; Sensei's old failure referent is unnamed (u:0080-0104). Multiple people hear a trumpet-like sound, but its identity and link to E010 remain unproved (u:0134-0143). No durable claim ID/frozen prediction; 287/480.
+
+
+## V006 C002 E002 claim revision delta
+
+E001's aid station now distributes nutrition packs, filter straws and emergency kits. Mine's reported medical-check finding, 500-kcal packet, 2–3/day advice and Serina's 30-item inventory are not backed by a displayed chart, measured count or long-term result; Hanae expressly says the filter cannot remove salt and some viruses (scene:001:u:0001-0026). Sensei's math-to-persuasion thesis is a pedagogical claim, not proof Maia could have averted E012 public stigma, which is replayed in her memory (u:0027-0060). Misaki's reason-to-try-living and Sensei-hope critique are self-report and interpretation; his lifetime line is playful choice text, not a promise (u:0061-0086). Saori's new impermanence interpretation revises but does not retroactively erase darker earlier uses of 虚しい (u:0087-0098). The audible signal is inconsistently perceived, and student A reports four visible entities; no source identification, shot transcript or battle result yet (u:0099-0130). Raw u:0116-0119 attribution drifts. No durable claim ID/frozen prediction; 288/480.
+
+
+## V006 C002 E003 claim revision delta
+
+E002's four-entity confrontation now produces direct distress in Mine/Squad/Knights, but not a mapped hit, injury or battle outcome (scene:001:u:0001-0012). The council excommunication and long Arius persecution are narrated within an unidentified intrusive sequence, with no archive, original decree, dated witnesses or mechanism; independent earlier deprivation observations do not validate the full montage (u:0013-0067). Mine's inability to answer is direct, not proof all historical allegations are formally adjudicated (u:0068-0072). At u:0093-0098 she explicitly rejects a newly appearing Sensei command as something he actually said and constructs what she thinks he would say; do not convert it to a Sensei quotation (u:0073-0109). Her spoonful-of-relief ethic is a present self-commitment, not measured success. Mine and Hanae audibly disclose Rescue Knights/団長 after E001 cover, with action result pending (u:0110-0137). No durable claim ID/frozen prediction; 289/480.
+
+
+## V006 C002 E004 claim revision delta
+
+Mine's E003 public Rescue Knights declaration is heard by students, including B who recalls her from Madam's departure; the recalled threat to treat injuries she creates is not a present threat (scene:001:u:0001-0015). Logged woe/three-trumpet words and student Apocalypse-angel interpretation do not verify the entities' ontology or a prophecy. Atsuko says she has only a guess (u:0016-0041,u:0151-0156). Serina says Mine's life is not immediately endangered; Sena finds normal vitals and not-yet-excessive unconsciousness but expresses an explicitly intuitive, nonspecific bad feeling. Mine's long-won't-last phrase after waking is not a medical death prognosis. A planned ambulance trip has no arrival shown (u:0042-0044,u:0059-0091,u:0139-0145). Mine calls E003 being taken in, without mechanism proof. Nagisa personally requested Arius aid, correcting the impression of only an unprompted premonition; she disclaims Tea Party orders but no written mandate is audited (u:0092-0129). Sensei promises ordinary-life protection without scope/tactic details (u:0130-0138). No durable claim ID/frozen prediction; 290/480.
+
+
+## V006 C002 E005 claim revision delta
+
+The basilica's post-expulsion name/use and Madam's avoidance are participant reports, not inspected records (scene:001:u:0001-0009,u:0045-0059). Subaru differentiates a widely heard voice from uneven trumpet reports, sees no eagle, and says the scriptural match is not yet certain. Her left/right grouping produces an observed small hearer group and a suspected shared feature, without counts, causal test or objective sound log (u:0010-0044). Porta Pacis archive and wandering-danger claims are unverified. Her Trinity/Sensei cause is explicitly a hypothesis inferred from sequence, with no demonstrated mechanism; saying good people may cause harm does not supply one (u:0045-0075). Student study responses cluster locally with hearing but do not prove education changes perception (u:0076-0092). Seven-trumpet world-end and later-bowl account are conditional scripture mapping, while residents' purification by expulsion is a proposal, not an effective intervention (u:0093-0124). Subaru orders Maia from the basilica, not all Arius; her motive after dismissing others remains unreadable despite visible distress (u:0191-0233). No durable claim ID/frozen prediction; 291/480.
+
+
+## V006 C002 E006 claim revision delta
+
+E005's place-limited basilica removal now has a shown overnight consequence: Maia alone considers disappearing and asks Sensei to shelter her, while a resident's blanket proposal is cut off. The source still supplies neither an all-Arius exile order, proven assault nor a self-harm action/plan (scene:001:u:0064-0164). Sensei's “all my dereliction” statement is corrected by Atsuko's reminder of Squad agency; it is not a causal finding (u:0016-0024). His MomoTalk is sent and locally read/deleted, correcting an E005 cutoff where future contact was unknown, but delivery to all residents is not certified (u:0049-0063). Subaru actually departs for Porta Pacis with residents, advancing E005's proposal, but no arrival/archive evidence follows (u:0165-0179). Maia's destination statement is an inference and the morning absence excludes her from “all” (u:0180-0196). No durable claim ID/frozen prediction; 292/480.
+
+
+## V006 C002 E007 claim revision delta
+
+E005's proposed Porta Pacis archive gains a specific secondhand account: intended peace gate, basement record repository, later restricted area. Neither the gate nor its records is inspected here, and the supposed wandering peril remains untested (scene:001:u:0001-0014,u:0098-0140). Trinity's alleged version blaming Arius and Atsuko's Arius-side civil-war explanation are relayed by speakers who concede missing/uncertain records; no master history is adjudicated (u:0016-0020,u:0104-0123). Atsuko's Royal Blood knowledge route is tentative, the ruler's reason for the ban is unknown, and her accumulation-of-anger explanation is conjecture (u:0021-0035,u:0136-0140). Her idea that Subaru discovered something and that archive release may contain little is speculation; the hidden rite is named but not described (u:0159-0170). Shimiko offers magazine data but no receipt shown (u:0070-0075). No durable claim ID/frozen prediction; 293/480.
+
+
+## V006 C002 E008 claim revision delta
+
+E007's unnamed 秘儀 now includes Atsuko's report of Beatrice visiting the repository just before the Eden Treaty, but the rite itself remains undefined and the visit uncorroborated by a log (scene:001:u:0001-0015). Atsuko distinguishes anomaly increase from earlier anomalies, so Beatrice's visit cannot explain all prior events; Justina/Barbara and new entities lack a demonstrated single mechanism (u:0016-0043). The three sets of seven angels and four reported trumpets supply a conditional scriptural match, immediately qualified by Atsuko's possibility of another kind of entity (u:0044-0087). E006's destination is confirmed reached: Subaru sees an open door, but opener/loss/entry and archive contents remain unknown (u:0088-0118). Maia's overnight account is narrated as shared, not printed verbatim; reactions cannot fill missing details (u:0164-0193). Ui explicitly calls lesson-openness and hostility-manifestation ideas inferences/hypotheses; no causal or ontology claim is promoted (u:0194-0238). No durable claim ID/frozen prediction; 294/480.
+
+
+## V006 C002 E009 claim revision delta
+
+E008's requested archive search now yields found text, so “no material found” is closed, but the text's age, authorship, Trinity rejection and historical accuracy are unverified (scene:001:u:0001-0035). ニコメディア appears in the text; Subaru asks whether it was the original place name, without a corroborating map. D/C report emplacement completion and Subaru enacts ニコメディアトゥループ for those gathered, not all Arius (u:0036-0065). Sensei's going-to-talk commitment is direct, while Maia's anticipated future opening is inference; reconciliation has not occurred (u:0066-0093). The symbolic-angel line could align with E008's affect hypothesis but is a passage, not independent causal evidence. The unidentified voice after u:0119 is neither linked conclusively to E003's ordeal nor named before cutoff (u:0094-0139). No durable claim ID/frozen prediction; 295/480.
+
+
+## V006 C002 E010 claim revision delta
+
+E008's fortification order is interpreted by defenders as no-entry, but the direct prior words did not specify that absolute bar; command drift is visible (scene:001:u:0001-0012). Squad reports being shot; the text does not clearly attribute first fire or injuries (u:0013-0025). Subaru's half-dialogue with the E009 voice does not print the speaker's answers, so no revelation or deal can be reconstructed. She then says she lied after calling talk a tactic and reiterating Sensei–Trinity cause; exact referent remains ambiguous, while her awareness of misleading residents is direct (scene:002:u:0001-0035). Her private “drove that girl out” acknowledges Maia harm but E005's actual order still named the basilica. The revenge voice promises power without proven acceptance, and A/B's trumpet has no number/source (u:0036-0081). No durable claim ID/frozen prediction; 296/480.
+
+
+## V006 C002 E011 claim revision delta
+
+E010's unnumbered trumpet is followed by E/F estimating sounds five/six and calling two figures angels; their hedged count and identity do not certify scripture fulfillment (scene:001:u:0001-0010). The E008 Ui/Shimiko lesson-hearing hypothesis is recited in flashback and an attack on residents follows, but victim selection and causal mechanism are not tested (u:0011-0018). Squad retreats; members answer alive, other students are reported hidden, and figures remain near Porta Pacis—no defeat or casualty audit (scene:002:u:0001-0010). A/B's white-flag meeting confirms a route offer, while brief entity nonresponse cannot establish safe passage (u:0011-0028). Their account of Subaru preventing dispersal is testimony. Atsuko/Maia feel pressure/emotions with source unknown, and Subaru now meets the party but defers discussion (u:0053-0086). No durable claim ID/frozen prediction; 297/480.
+
+
+## V006 C003 E001 claim revision delta
+
+The earlier gap in why Sensei did not continue to Arius receives a direct represented recollection: two temporary Tea Party representatives asked him to step back, invoking student self-government and a claimed Patar/Sanctus majority. No Sensei yes, vote record, mandate proof or outcome appears, so Subaru's “he chose nonintervention” remains her interpretation rather than a fully shown decision (scene:001:u:0023-0043,u:0083). Subaru's hidden-backer allegation is unsupported, while outside-world distress is partly corroborated by Maia but not universalized to every Arius child (u:0044-0063). Her inherited-punishment rule is normative, not legal fact; she calls Sensei possibly innocent yet unforgivable (u:0064-0087). Her current broad leave-Arius demand is explicit and must not rewrite E005's Maia basilica-only order (u:0094-0107). Claimed certain angel control has no demonstration. No durable claim ID/frozen prediction; 298/480.
+
+
+## V006 C003 E002 claim revision delta
+
+Saori's learned-role account supports why she reproduced harsh instruction, but her claim that Subaru's present path yields only hatred is a contested forecast, not measured future (scene:001:u:0001-0049). Squad's intent to surrender after the crisis advances their wanted-status story; no legal result follows. Saori's planned confession to having led/executed everything is explicitly strategic and only partly true by her own words, so cannot serve as a full guilt map (u:0060-0083). Subaru's entire-Arius survival/ruin assertions have local support in prior deprivation but no exclusive-cause audit; her “no meaningless suffering” and removed-anxiety claims conflict with represented Maia/resident distress (u:0084-0139). A log invokes the seventh trumpet after E/F's approximate fifth/sixth count, but no independent sounding, source or destruction is shown (u:0140-0151). No durable claim ID/frozen prediction; 299/480.
+
+
+## V006 C003 E003 claim revision delta
+
+C003 E002's seventh-trumpet log is not independently resolved: residents hear a sound, call it a repeat sixth and worry it would yield fourteen rather than seven; scriptural one-third darkness is quoted while actual sky darkening is noticed (scene:001:u:0008-0020). Saori's “graze” is self-report and outcome remains unknown (u:0001-0007). Subaru's “where was Maia?” is corrected by Atsuko's statement that Maia has been with them, not evidence Maia was invisible; Atsuko diagnoses failure to look (u:0021-0033). Atsuko newly asserts Subaru is a phenomenon/trumpet angel and her guess is now certainty, but withholds the evidentiary chain until the next unit. No offered-power acceptance or entity identity is proven yet (u:0034-0040). No durable claim ID/frozen prediction; 300/480.
+
+
+## V006 C003 E004 claim revision delta
+
+E003's promised reasoning arrives: Atsuko identifies figures as Arius affect made form, initially and unknowingly caused by Subaru, and denies they are literal seven scriptural angels. Her prior knowledge/Royal Blood access gives an in-world source but no tested mechanism or original text; E008 replay is not independent corroboration (scene:001:u:0014-0048). Her perfect-judge/real-angel potential and counterfactual if Maia had not sought Sensei are unobserved. She calls E005's Maia treatment “discarding,” a moral interpretation rather than a newly shown all-Arius expulsion; the actual night harm is shown in E006 (u:0049-0064). Subaru's faint response and Maia's help request do not yet prove figure cessation, remorse or reconciliation (u:0065-0090). No durable claim ID/frozen prediction; 301/480.
+
+## V006 C003 E005 claim revision delta
+
+E004's Subaru-as-medium account gains a reported third figure with a human shape resembling her; Arius witnesses say two earlier figures disappeared and seemed absorbed, but no independent fusion, containment or taxonomy test is printed (scene:001:u:0013-0022). Subaru's private statement that she saw Saori's remembered sky is actor testimony about memory access, not a shown method (u:0023-0028). Her inner responsibility turn does not become public confession: she resists Atsuko's offer because she still demands condemnation or judgment for historical Arius harm (u:0006-0009,u:0050-0076). Atsuko's belief Sensei will help and suggestion Squad may enter correctional custody are future claims, not outcomes. Saori sees a prayer-like posture during Atsuko's apparent conversation; contact method and intervention remain unverified (u:0077-0094). No durable claim ID/frozen prediction; 302/480.
+
+## V006 C003 E006 claim revision delta
+
+Subaru's memory supplies first/second-year evidence of a Saori conflict and her own student-care role; her claim Madam arranged Saori's failure to advance remains modal, and her statement that Saori's training broke many students has no independent count (scene:001:u:0001-0057). E005's Arius-style intervention is not printed: Subaru is awake after roughly ten seconds by Sensei's estimate, but he expressly does not know whether all is over. Her subsequent everything-is-over and all-was-meaningless statements are self-judgments, not status findings (u:0058-0076). Sensei values attempting and student process while explicitly conceding effort may fail or worsen things, avoiding a reward guarantee (u:0080-0111). Mine wakes, but recovery, exam day and scores remain unknown (u:0136-0150). No durable claim ID/frozen prediction; 303/480.
+
+## V006 C003 E007 claim revision delta
+
+Subaru's retrospective says the trumpets stopped and responders from Trinity, Gehenna and other groups came to Arius, supporting cessation and subsequent medical transfer but not E005/E006's missing intervention mechanics or a full casualty audit (scene:001:u:0024-0029). Some Arius students' unease with enemy-school aid is her report, while her own thanks is direct; neither implies universal reconciliation (u:0016-0037). Mine says she protected everyone when she collapsed, but gives no causal detail (u:0038-0046). Her exam urgency supplies no date or grade. A CQB club is proposed and the transfer students hesitate, so no formal club approval or settled offices can be inferred (u:0072-0097). Subaru's new-nest attempt and recalled Sensei lines are an intention plus replay, not outcome or independent source (u:0098-0116). No durable claim ID/frozen prediction; 304/480.
+
+## V006 C003 E008 claim revision delta
+
+Nagisa's unused-building/free-use arrangement, exam coverage and one-by-one history comparison/publication are announced commitments, not inspected lease, schedule or archive (scene:001:u:0001-0035). Her Mika intellectual/effort judgment is personal assessment, not test evidence (u:0010-0023). Narration says Subaru peeked at Sensei's thoughts, strengthening E001's access inference without detailing mechanism (u:0102-0104). Nagisa claims approximate identification of the two interim representatives from reports and alleges tidied submissions despite deficient work; names, documents and hearing absent. Her proposed smooth handling and possible Mika-treatment improvement are future political moves (u:0105-0126). Seia reports lost future reading without independent test (u:0177). No durable claim ID/frozen prediction; 305/480.
+
+## V006 C003 E009 claim revision delta
+
+E002's planned Squad surrender is now confirmed by Konoka as completed, with all Squad sentenced and approved for parole; she expressly denies acquittal or changed terms. Exact decision document, conditions and dates are absent (scene:001:u:0036-0060,u:0072-0084). Konoka's intent/malice priority is official speech, not independently verified penal code. Petition origins are her report, with Hina direct confirmation of hers; Sensei's legal responsibility scope remains unspecified (u:0061-0078). Federal Student Council handling of Arius is only nearing a decision (u:0018). The classroom is real but not identified as Nagisa's E008 proposed building. Hifumi's universally reachable study level and Momo reward effectiveness for this group are claims, while narrator confirms only movement toward a first exam (u:0087-0209). No durable claim ID/frozen prediction; 306/480.
+
+## V006 C003 E010 claim revision delta
+
+The exam is held and the narrator confirms a party, while a log calls it 総合試験 and Atsuko calls it a penalty-free 模試. The test's formal status/score sheets are absent; initial all-failed remarks are explicitly pre-marking impressions, later results are participant reports (scene:001:u:0001-0113,u:0254-0293). Atsuko's provisional council intention becomes self-named presidency and some functioning Subaru patrol, but no charter/election/mandate is printed. Misaki/Hiyori/Saori office assignments have different support levels and should not be flattened into an approved roster (u:0114-0205,u:0259). Atsuko newly claims Mine defeated/contained four angel figures, prevented sevenfold release and woke near Subaru's final repulsion; no battle/containment record, verified count or timing appears (u:0206-0226). Mine full recovery and unaffected exam are also her report. The restoration site is limited by ここだけ and new enrollment interest is Saori's report, not registration (u:0242-0253). No durable claim ID/frozen prediction; 307/480.
+
+## V100 C001 E001 claim revision delta
+
+The unidentified speaker asserts this story has been overturned, meaning/structure destroyed, a world without protagonists/conflict made, and that the world was always disordered but forgotten (scene:001:u:0001-0019). These are first-person/metanarrative assertions without a setting, witness, mechanism or independent corroboration; do not retroactively invalidate earlier chapters or infer an achieved rebellion. The prologue creates no diagnostic opportunity or frozen prediction. 308/480; V100 C001 E002 unopened.
+
+## V100 C001 E002 claim revision delta
+
+Kuzunoha names Color as an outside calamity and attributes Seia's condition to indirect interrupted-rite exposure; Beatrice's prior mystery-to-terror explanation is recalled, but no physical test is shown (scene:001:u:0002-0035). Kuzunoha offers future-sight loss as escape and Seia accepts; later Seia self-reports the loss, supporting the outcome but not verifying the metaphysical mechanism (u:0036-0049; scene:003:u:0019-0024). Gematria's ark sighting, pre-Kivotos priest claims and plan-deviation account are participant testimony. Maestro blames Beatrice, Black Suit initially says discovery is uncertain, and Beatrice then directly admits telling Color and forecasts arrival; no independent arrival or message artifact exists (scene:002:u:0002-0067). Sensei's Shiroko question and Seia's death vision are unverified identifications/future claims. Rin names the lack of date/evidence and starts a search, not an emergency determination (scene:002:u:0068-0073; scene:003:u:0015-0025; scene:004:u:0002-0021). No durable claim ID/frozen analytical prediction; 309/480.
+
+## V100 C001 E003 claim revision delta
+
+A PMC soldier's precise-scale structure report gives direct scene evidence of an excavated finding, but no image/material analysis or demonstrated equivalence to E002's ark; notice delivery is ordered, not shown (scene:001:u:0002-0008). Abydos members infer desert significance from observed PMC movement, without seeing the find or verifying Hoshino's ownership statement (scene:002:u:0002-0033). Alice's reported normal simple check and Engineer inability to detect Key cannot establish Key's absence; the later internal Key→Kei passage demonstrates a continuing speaking entity, not its location or Alice's awareness (scene:003:u:0018-0050). Himari explicitly treats Rio's secured data as hypothesis/inference and warns of a near-future anomaly without exposing the data; do not equate it to Kaiser, Color or the dream yet (scene:004:u:0002-0026). Toki's Rio parting words and C&C welcome are her reports (u:0027-0048). No durable claim ID/frozen analytical prediction; 310/480.
+
+## V100 C001 E004 claim revision delta
+
+Sakurako's Justina regalia identification and oppression-plus-exodus account are her informed claims upon a real find; why the predecessor hid it and the second item are unknown (scene:001:u:0002-0021). The three-session hearing has an actual differentiated verdict: Tea Party powers/privileges removed, Patar faction representation retained pending election, confinement ended, academic return allowed and wider restraint requested. No later appointment or enforcement is shown (scene:002:u:0002-0017). The informant/collector Perorozilla story fails local identification: displayed object is called Perorosaurus by Azusa/Hifumi, with authenticity/provenance untested and no theft (scene:003:u:0002-0043; scene:004:u:0002-0022). Demonstrators' labels and Hanako's factional motives are hostility/inference, not adjudicated guilt/organizer map. A local fight follows Airi's shove, with no casualty or arrest result (scene:005:u:0002-0127). No durable claim ID/frozen analytical prediction; 311/480.
+
+## V100 C001 E005 claim revision delta
+
+The proprietor's loss-of-services/departure account is situated resident testimony, while the nest removal and food transfer are witnessed (scene:001:u:0001-0030). Rabbit Squad's spoken lack of Sensei contact and Miyu's contrary wish limit any inference of uniform detachment; past Sora cider is recalled only (scene:002:u:0011-0029). Kaya's one-sided call supports expectation but neither identifies the caller nor links the plan to any other scene (scene:003:u:0002-0007). Beatrice repeats Color-arrival/destruction forecasts and claims its power resides in her, but the episode shows no independent approach or quantified capability. Gematria's attack, screams and vacant-seat talk support removal from active membership, not certified death or an anti-Color solution (scene:004:u:0002-0036). No durable claim ID/frozen analytical prediction; 312/480.
+
+## V100 C001 E006 claim revision delta
+
+Momoka reports instrument readings at six sites two hours earlier, with no camera counterpart or anomaly report; failure and physical presence remain competing explanations without raw calibration or ground check. E003's desert structure and the Abydos reading cannot be merged on location alone (scene:002:u:0010-0029). Rin's committee is declared, not yet assembled; Aoi's jurisdiction and legitimacy objections are claims, not a recorded veto or legal judgment (u:0030-0075). The dream speaker is addressed as president in Rin's sleep, not a current appearance or location proof (scene:001:u:0001-0018). Kaya's Schale/Valkyrie undertaking is not shown completed; her private order and E005 call lack counterpart/referent, so coordination remains bounded inference (scene:002:u:0086-0107). No durable claim ID/frozen analytical prediction; 313/480.
+
+## V100 C001 E007 claim revision delta
+
+Narration upgrades Rin's E006 summons from directive to delivered requests, while attendance/committee meeting remain unshown (scene:001:u:0001-0049). Arona's email confirms Rin transmitted the six-site concern to Sensei, not that readings identify an object. The Valkyrie labels fail when the escorts explicitly reveal Kaiser PMC identity, and Sensei is reported secured; Kirino's recalled budget statement is a cue, not financial audit (u:0050-0080). Kaya/General direct collusion confirms alliance but does not identify E005/E006 private call addressees. General explicitly rejects Schale dissolution as Kaiser's goal and reports a changed plan. President calls a desert find OOPArt and predicts administrative seizure without showing technology; E003 may be related but identity remains untested. Orders for Kaya prison, council assault and Sensei leg shot are not completed events (u:0081-0111). No durable claim ID/frozen analytical prediction; 314/480.
+
+## V100 C001 E008 claim revision delta
+
+Nonomi's direct statement establishes an insider account of Shiroko's pre-Abydos memory gap, not its cause, duration, identity or diagnosis; Hoshino's “capture” idiom is teasing (scene:001:u:0012-0023). Shiroko directly observes mass PMC movement and anomalous light but only hypothesizes relation to Sensei's invitation; no link to E003's find, E006 sensors or Color is yet shown (u:0024-0040). E007's leg-shot order becomes failed attempts with no printed hit. Arona's protection claim is congruent with observed gun failure, but the mechanism and universal durability are untested. An approach/tremor and tentative Chest power-loss perception follow, without a status log or permanent-loss proof (u:0041-0064). Unanswered/broken calls do not establish Shiroko's fate (u:0065-0086). No durable claim ID/frozen analytical prediction; 315/480.
+
+## V100 C001 E009 claim revision delta
+
+The guards' Chest power/hacking failure and eight-firm shutdown are reports, not inspected logs (scene:001:u:0005-0010). Kanna's firsthand rescue grounds Sensei's release from the cage, while her Valkyrie Third Branch/Kaiser control and internal-collaborator account mix site knowledge with explicit inference (u:0018-0040). She reports completed Kaiser tower seizure and martial law six hours earlier, but assault details and legal acts remain her testimony; later depicted committee events are an earlier flashback, not a reversal (u:0072-0099). The committee does convene without Sensei, narrowing E006/E007 pending status. Makoto's claim Rin hid him is false against witnessed PMC capture. Aoi says finance ledgers trace anonymous PMC procurement, but her allegations Rin designed the crisis or president's disappearance are unproved. Six-member no-confidence and formal suspension order are directly announced, guilt not adjudicated (u:0100-0155). No durable claim ID/frozen analytical prediction; 316/480.
+
+## V100 C001 E010 claim revision delta
+
+E009 Kanna coup report gains direct assault depiction: General intrudes after Aoi's staff dispersal and a soldier reports tower control. President explicitly says complete authority transfer takes time, so immediate site seizure and full administrative acquisition must remain separate; citywide shutdown terms are declared, not individually audited (scene:001:u:0001-0036). President's 超古代兵器 expands his E007 desert-OOPArt claim but object/mechanism remain unseen (u:0037-0043). Kanna physically gives Sensei the seized devices, supporting custody return, while her confidential-information route is self-report. Her 私はここまで is a wounded limit, not death (u:0044-0077). Arona confirms a power outage and returns after Sensei's chant; temporal adjacency is not a proven technical mechanism (u:0078-0088). No durable claim ID/frozen analytical prediction; 317/480.
+
+## V100 C001 E011 claim revision delta
+
+The two-scene/raw-group split brackets a local fight, but no tactical transcript is printed. Kirino's なんとかなりました supports immediate survival, not casualty totals or a campaign victory; Fubuki's resource deficit and Sensei-command praise are her assessments (scene:001:u:0001-0006; scene:002:u:0001-0002). Kanna's reported D.U. communication shutdown is consistent with E010 declarations, not a technical audit. Her resumed movement narrows E010's 私はここまで to a momentary wounded limit (scene:002:u:0003-0005). No durable claim ID/frozen analytical prediction; 318/480.
+
+## V100 C001 E012 claim revision delta
+
+Arona's brief connection fails to restore the network, but Rabbit Squad's arrival and admitted Sensei request support receipt by a nearby party; exact payload and other recipients unshown (scene:001:u:0001-0014; u:0029-0033). Saki/Moe's denials are contradicted by Moe's message admission, Miyu's haste report and Miyako's direct rescue statement. Smoke/drone intervention and Miyu's target-down call establish local relief, not a complete victory, commander death or D.U. exit (u:0015-0028). Rabbit reports no formal chain/knowledge of martial law, not a legal exemption; Kanna's cross-volume acquaintance needs chronology caution (u:0041-0049). Miyako's combat order is future action at episode end (u:0050-0057). No durable claim ID/frozen analytical prediction; 319/480.
+
+## V100 C001 E013 claim revision delta
+
+E012's pending exit becomes narrator-confirmed escape to Rabbit Park. Arona's Chamber/matter-generator account and unknown authentication bypass specify a possible Kaiser access mechanism but are not device-inspected; Rin's detention/no-injury is intelligence, not direct sight (scene:001:u:0001-0025). Her six-head withdrawal/reconfidence route clarifies the governance loop but no legal text or completed vote appears. General's SOF order is preparation, not outcome (u:0032-0039). Public Security B says they received contact and later describes chance sighting, leaving dispatch path open. First-floor store control is observed; Sora's safety and food exchange do not imply full Schale control (u:0071-0083; scene:002:u:0001-0017). Momoka's recovered logs supply a room location for Rin, not proof of current custody/condition or extraction (scene:002:u:0024-0034). No durable claim ID/frozen analytical prediction; 320/480.
+
+## V100 C001 E014 claim revision delta
+
+Maestro raises a six-signature/Color identity, and Black Suit explicitly says unknown; later urgency is forecast, not resolution. He says the Abydos OOPArt is not their ark and Kaiser President cannot control it, the first distinction an informed participant claim and the second untested prediction (scene:001:u:0001-0008). Gematria project inventory is self-report, not side-source validation (u:0009-0020). Miyako's Craft Chamber secured report upgrades E013's planned objective to local success but does not show tower authorization restored. Sensei reaches Rin, upgrading her log-based location to direct contact; medical, escape and administrative status remain open (scene:002:u:0001-0014). Miyu says she fired at the apparent detonator, but hit, device state and explosion are unshown amid speaker-tag drift (u:0015-0025). No durable claim ID/frozen analytical prediction; 321/480.
+
+## V100 C001 E015 claim revision delta
+
+Arona's incoming flood confirms communication restoration; Momoka's administrative intervention and total system recovery/martial-law rescission are not independently verified before a new disturbance (scene:001:u:0001-0008/0023-0028). Abydos messages upgrade E008 silence to reported disappearance and bicycle left, but not cause, location or transformed identity (u:0019-0022). FOX reports Kaya secured and an unknown basement item taken, with Kurumi explicitly ignorant of contents; do not identify it as Chamber/OOPArt (u:0029-0040). Francis's Golconde-gone self-name is a subject identity claim, and E001 rhetorical echo is not confirmed same speaker. His genre/cosmology thesis is contested by Sensei's direct refusal, not established fact (u:0041-0071). Arona reports broad student contact without responses. Black Suit's nameless-god/Anubis/terror reading does not explicitly name Shiroko and is interpretive (u:0072-0084). No durable claim ID/frozen analytical prediction; 322/480.
+
+## V100 C002 E001 claim revision delta
+
+Shinon's public report upgrades E006's invisible reading to a reported giant tower collision at Sanctum, but structural facts/casualties and exact sensor correlation remain unaudited. She corrects a supposed federal statement to Schale, and unknown D.U. attackers remain unidentified (scene:001:u:0021-0023; scene:002:u:0025-0037). Black Suit now says Color invaded and Gematria fell; his wolf-god/Anubis, six inverted towers, ancient technology and universal terror mechanism remain participant interpretation. He expressly revises his former will-less Color view because he infers planning, and guesses Gematria was attacked for its records. Plenapates is named by him, not directly shown (scene:002:u:0002-0024). Drawing the adult card and Black Suit's overuse warning do not prove use/cost (u:0038-0042). No durable claim ID/frozen analytical prediction; 323/480.
+
+## V100 C002 E002 claim revision delta
+
+The first-meeting flashback upgrades Nonomi's earlier Shiroko knowledge-gap report to a directly staged exchange; cause, prior identity and the later disappearance remain unknown (scene:002:u:0002-0047). Rin's `虚妄のサンクトゥム` is an operational name, and the ancient texts/Engineering signal explanation remain participant reports with instrument confidence under 10%; no universal consciousness-change result is observed (u:0101-0155). Chihiro's approximately 300 hours, meeting shorthand of two weeks and Ayumu's later 14 days 23:59:59 are unreconciled forecasts, not three confirmed deadlines (u:0156-0176; scene:007:u:0053-0062). Himari's guardians and five vignettes support a defensive obstacle, not their full origin, center guardian or eventual defeat (scene:002:u:0177-0184; scene:003-007:u:0001-0005). No Hyakki registry record for Kuzunoha coexists with a low-confidence folktale and claimed former-chair access; neither proves a present cure or nonexistence. Hyakka dissolution is prospective, Niya's idea withheld (scene:007:u:0063-0117). No durable claim ID/frozen analytical prediction; 324/480.
+
+## V100 C002 E003 claim revision delta
+
+Ayane's Binah-draw condition and PS68's train/flank are tactical plans; no train destruction, casualty or Binah hit is printed (scene:001:u:0001-0019). Nonomi's rail-caused-decline statement and Kayoko's interrupted Nephthys guess do not establish ownership or a full economic history; Maki's rock-erasing laser warning is a report, not a firing scene (u:0020-0033). Eimi describes Chesed factory fronts, but a parachute entry has not happened (u:0034-0042). Karin's Nel/Tsurugi close-combat comparison and Tsurugi's healed-wound statement are situated observation/self-report; rock-paper-scissors is played, but winner and resulting roles omitted (u:0043-0101). Rabbit positions and Yuzu lead are directly reported; a 1,980-meter Miyu precedent is dialogue under tag drift, not independent performance audit (u:0102-0160). No durable claim ID/frozen analytical prediction; 325/480.
+
+## V100 C002 E004 claim revision delta
+
+Saori's work-helmet arrival is direct; Arius's decision to help Sensei is intent without operational completion (scene:001:u:0001-0029). Chihiro reports Hod beneath ciphered Eridu, while hack/sonic failure and delayed computation are team status reports; the Engineering dig/burn plan and Hot Spring offer are not completed countermeasures (u:0036-0086). Koyuki is named as earlier bond-forgery actor by Yuuka, but her mishap defense and fear of correction bureau are not legal adjudication; the recall is announced, cipher success unshown (scene:002:u:0002-0045). Kanna reports D.U. evacuation complete while food/staff remain insufficient; direct soup-kitchen service and delivered fish are narrower confirmation, source of fish obscured (scene:003:u:0002-0035). Sixth guardian remains unidentified; Niya's near-certain snowfield/Twilight Temple prediction is a reasoned inference, not chair or Kuzunoha sighting, and Makoto's `アレ` remains unspecified (u:0036-0038/0082-0136). No durable claim ID/frozen analytical prediction; 326/480.
+
+## V100 C002 E005 claim revision delta
+
+Rin's six-site standby report and formal operation start do not establish secured routes or defeated guardians (scene:001:u:0001-0004/0016-0020). Ayumu's likely enemy summoning on launch is a forecast (`可能性が高い`), not yet an observed new spread (u:0005-0007). Momoka's simultaneous countdown is conditional on district defense and route security; Ayumu's five-then-sixth sequence refines E002's broad simultaneous assault language without proving tactical feasibility (u:0008-0011). Sensei accepts command, but Momoka's indispensable claim is an operational judgment, not evidence he can cover all battles at once (u:0012-0019; choice:001). No durable claim ID/frozen analytical prediction; 327/480.
+
+## V100 C002 E006 claim revision delta
+
+Ayane's rendezvous/lure/join/route sequence remains an order, not a completed first route. Kayoko says she will move the train, but the script cuts before direct movement proof. Something appears and Kayoko asks `襲撃……！？`; attacker identity and result are withheld (scene:001:u:0001-0016). No demonstrated Binah positioning, guardian defeat or tower damage. No durable claim ID/frozen analytical prediction; 328/480.
+
+## V100 C002 E007 claim revision delta
+
+A citizen directly alarms at an unidentified monster and Saya acknowledges attackers; no origin or exact force type is given (scene:001:u:0001-0002). Shun's defense/evacuation roles and Kisaki's weak-point executive-chief dispatch are orders/reports, not demonstrated security of district or arrival at that point (u:0003-0010). Kisaki is directly named `門主`; the earlier `門主様`-addressed `妾` voice in V100 C001 E007 u:0036-0039 can now be responsibly identified with her office, but the earlier observational stance remains earlier, and the subordinate need not equal today's A/B. No durable claim ID/frozen analytical prediction; 329/480.
+
+## V100 C002 E008 claim revision delta
+
+The guard/Minori charge is an order/rally, not an observed battle result or identified enemy (scene:001:u:0001-0004). Tomoe reports Cherino's vague `用事` and guesses shelter; Nodoka only thinks Cherino has not reached the old-school site, so location and motive remain unknown (u:0005-0007/0014-0018). The shelter destination is announced, without occupancy/safety audit. Momiji/Meru's future book idea is intention, not a completed publication (u:0007-0013). No durable claim ID/frozen analytical prediction; 330/480.
+
+## V100 C002 E009 claim revision delta
+
+Tsurugi's front-defense readiness and C&C's reported duct entry specify the role split withheld after E003's rock-paper-scissors, without revealing its winner (scene:001:u:0001-0008). Karin says the parachute team is heading to factory center, not already there. Eimi predicts its assault will confuse defense and permit a front breach; she starts the operation, with no shown confusion, breach, Chesed defeat or tower destruction (u:0009-0011). No durable claim ID/frozen analytical prediction; 331/480.
+
+## V100 C002 E010 claim revision delta
+
+Kaho's defense launch and Chimimouryou charge show mobilization, not an observed enemy defeat (scene:001:u:0001-0007). Shizuko reports shelters fully ready and offers festival-committee supplies, but no occupancy, duration or adequacy audit appears (u:0008-0009). No durable claim ID/frozen analytical prediction; 332/480.
+
+## V100 C002 E011 claim revision delta
+
+Ako's Prefect dependence/ragtag concern and Chinatsu's inward Hina-strength explanation are interpretations pending defense performance (scene:001:u:0001-0010). Satsuki's voter-service account receives Sena's independent participant corroboration that Pandemonium guided citizens and shortened evacuation, without proving all safely housed or Satsuki's motive (u:0011-0028). Makoto's `important business` remains vague despite E004's secret order. Kirara/Erika say coin hypnosis did not work; Satsuki's own chant has no effect on Ako, and her NK Ultra scientific claim is unverified (u:0029-0042). No durable claim ID/frozen analytical prediction; 333/480.
+
+## V100 C002 E012 claim revision delta
+
+Miyako judges Alice/Hina can advance as a pair, but no safe arrival or guardian result appears (scene:001:u:0001-0005). Yuzu's Mk.3 deployment is direct; Kotori's custom-controller details and Mk.1 Rio/Mk.2 Veritas provenance are participant explanation, not device audit or proof of performance, and earlier alternate modification attributions are not silently overwritten (u:0006-0017). Yuzu's declared start is not battle success (u:0018-0021). No durable claim ID/frozen analytical prediction; 334/480.
+
+## V100 C002 E013 claim revision delta
+
+Shimiko's old-library collapse resistance is a hedge, not a safety inspection; its use as shelter is direct (scene:001:u:0001-0008). Justice reports enemy and `聖徒会` mimesis near an unfinished defense point, without origin or casualty count (u:0009-0032). Hasumi recognizes an L118 and Tea Party support arrives, but no fired/effective round is shown (u:0033-0040). Nagisa's new-power theory and Seia's sharpened-sense self-report do not establish replacement foresight; Mika's solo safety is radio testimony (u:0041-0048). Hasumi accepts command, outcome pending. No durable claim ID/frozen analytical prediction; 335/480.
+
+## V100 C002 E014 claim revision delta
+
+Seia's hedged ruins warning is corroborated by Mashiro's direct look at trapped civilians/Koharu; one accurate detection does not certify new supernatural mechanism or general reliability (scene:001:u:0001-0018). Hasumi's `mostly handled` is local and immediately incomplete. Mika's intervention is directly staged, Koharu testifies she helped and Hasumi acknowledges it, but exact blow/defeat count, all evacuees' exit and medical outcome are unshown (u:0019-0031; scene:002:u:0001-0020). Traitor/witch shouts are social allegations, not a fresh legal finding or exoneration. No durable claim ID/frozen analytical prediction; 336/480.
+
+## V100 C002 E015 claim revision delta
+
+Hanako's one-route/rear-guard difficulty is current tactical assessment, not a complete map or failed operation (scene:001:u:0001-0006). Arius's physical arrival and Hanako's acceptance upgrade E004's stated help intention, but no rear-guard result, legal forgiveness or named shared friend is printed; her extra assignment remains unspecified (u:0007-0024). Sakurako attributes her clothing to the last Saint Council head and declares resolve to end hatred, without provenance inspection, completed reconciliation or compulsory Sisterhood costume rule (u:0025-0055). Hanako launches attack, no outcome (u:0056-0059). No durable claim ID/frozen analytical prediction; 337/480.
+
+## V100 C002 E016 claim revision delta
+
+AMAS presence/movement is direct, but Kotori's help question, Hare's `only Himari could hack` expectation, Himari's denial and ghost suggestion do not identify operator or prove benevolent control (scene:001:u:0005-0012). Utaha launches defense, without enemy encounter or result (u:0013-0014). No durable claim ID/frozen analytical prediction; 338/480.
+
+## V100 C002 E017 claim revision delta
+
+Koyuki's solved-Rio-security claim is supported by Noa's assent/Yuuka's praise, upgrading E004's pending computation, but no key/log is displayed. The Hod surface lure and barrier dismantling are newly assigned, not completed (scene:001:u:0001-0018). Hot Spring Club actually demolishes highway/buildings and moves phase, without confirmed pillar removal or approved civic damage. Kasumi says hot springs are primary and Sanctum removal incidental; Kotama reports unfavorable geology, while Kasumi's heart-spring language is metaphor, not site evidence (u:0019-0036). No durable claim ID/frozen analytical prediction; 339/480.
+
+## V100 C002 E018 claim revision delta
+
+Actual snowfield encirclement revises E004's lower-risk statement, but neither attacker origin nor any Makoto-authored trap is shown (scene:001:u:0001-0021). The airship/Toramaru descent is direct; Makoto's information network, surveillance timing and Ibuki-favor motive are self-reports, partly supported by Ibuki's own help request/pudding reassurance but not a full causal audit (u:0022-0058; scene:002:u:0005-0019). Iroha says the area is mostly cleared and ninjas say none injured; no casualty count or chair/prophet contact follows (scene:002:u:0001-0025). No durable claim ID/frozen analytical prediction; 340/480.
+\n+## V100 C002 E019 claim revision delta
+\n+Himari's sixth guardian remains unseen; sensor energy supports her *forecast* of greater danger, not an observed power ranking (scene:001:u:0001-0004). Kaiten Red's `無事に片付いた` reports local success with no shown target, casualty count or comprehensive D.U. result (scene:002:u:0001-0006). Himari says Eridu once enabled Abi-Eshuh's destructive performance and is now dismantled, then qualifies `平凡なスーツ` with her modifications; current performance is not measured. Her Rio-plan appraisal and Toki-guilt theory are expressly conjectural (u:0013-0032). No durable claim ID/frozen analytical prediction; 341/480.
+
+## V100 C002 E019 claim revision delta
+
+The sixth guardian remains unseen; sensor energy supports Himari's forecast, not an observed power ranking (scene:001:u:0001-0004). Red's `無事に片付いた` reports local success with no shown target, casualty count or comprehensive D.U. result (scene:002:u:0001-0006). Himari says Eridu enabled Abi-Eshuh's former performance, then qualifies `平凡なスーツ` with her own modifications; present performance is unmeasured. Her Rio-plan appraisal and Toki-guilt theory are conjectural (u:0013-0032). No durable claim ID/frozen analytical prediction; 341/480.
+
+## V100 C002 E020 claim revision delta
+
+The five-site preparation and all-district defense completion are council operational reports, not individually displayed audits (scene:001:u:0001-0003; scene:002:u:0001-0003). Momoka reports a Schale attack, but neither its source nor outcome appears (scene:001:u:0004-0008). Love/Helmet Gang and Wakamo declare protection; no actual performance is depicted (u:0009-0022). Rin's imminent countdown and Sensei's assent do not show an assault begun (scene:002:u:0004-0006; choice:001). No durable claim ID/frozen analytical prediction; 342/480.
+
+## V100 C002 E021 claim revision delta
+
+Rin's returned-sky observation is direct in the scene's dialogue, but Sensei's `やったのかな……？` explicitly withholds certainty about mission success (scene:001:u:0001-0003). Sensei's `シロコ？` plus a silent Shiroko tag confirms a name route, not the figure's identity history or role in the sky change (u:0004-0005). E020's promised countdown, individual assaults, sixth guardian and Schale defense are not displayed here. No durable claim ID/frozen analytical prediction; 343/480.
+
+## V100 C003 E001 claim revision delta
+
+E021's silent/questioned Shiroko sighting advances to direct Shiroko-tagged speech, but relation to missing Abydos Shiroko, Color control and fate remain speaker assertions (scene:001:u:0091-0106). Nagusa's cosplay cover is contradicted by her self-name/vice-chair claim; her destroyed-temple/no-Ayame-route assertion and ignorance of scroll contents are uninspected reports (u:0026-0090). Rin reports renewed energy across Kivotos, while Momoka only asks whether Rin fired; Sensei's `嚮導者` identification is a question during a brief passage encounter (u:0107-0129). No durable claim ID/frozen analytical prediction; 344/480.
+
+## V100 C003 E002 claim revision delta
+
+Black Suit's theft inventory, Anubis control, Decalcomania immortality and Francis replacement are attributed, not independently audited (scene:001:u:0001-0031). E001's unopened scroll now has printed Kuzunoha-tagged text asserting no Color-inversion reversal; this does not prove the absolute rule and differs from Seia's narrower 'none known now' (scene:002:u:0020-0032). New high-density readings, roughly 38% above prior values, motivate a shorter-than-24-hour forecast, not an exact deadline (u:0033-0052). Momoka reports common flow to a 75,000 m structure, then infers origin/generation; occupant and causal function remain unverified (u:0100-0122). No durable claim ID/frozen analytical prediction; 345/480.
+
+## V100 C003 E003 claim revision delta
+
+The Eridu missile's reported pass-through supports a local noncontact result, not universal physical invulnerability (scene:001:u:0017-0020; scene:002:u:0002-0005). Hanako explicitly calls multidimensional coexistence an untested analogy/hypothesis; membrane-only protection, body attackability and matching vibrations remain conditional, with Himari identifying a current quantum-computation block (u:0027-0077). Black Suit says an unnamed Abydos means might reach Plenapates but warns of irreversible bodily harm/death; no item, test, bargain or injury is shown (u:0093-0113). No durable claim ID/frozen analytical prediction; 346/480.
+
+## V100 C003 E004 claim revision delta
+
+Black Suit now assigns the overhead structure an Atrahasis Ark name and supplies a detailed acquisition/ancient-lineage theory, neither independently inspected (scene:001:u:0001-0012). His Abydos excavation account connects the earlier Kaiser artifact/coup to an alleged Utnapishtim ship, but excavation record, ship existence and capabilities are not displayed (u:0013-0027/u:0034-0040). The asserted tower-dependent operation, President retreat motive and Shittim Chest exception are technical/psychological claims rather than tests (u:0028-0033). E003's warned Sensei risk still has no explained mechanism. No durable claim ID/frozen analytical prediction; 347/480.
+
+## V100 C003 E005 claim revision delta
+
+Rin's President recollection of an ancient weapon requiring Sanctum Tower adds independent in-story speech to Black Suit's prior claim, but no operating system test (scene:001:u:0005-0015). Ayane's `無人のはず` is directly revised by a PMC soldier's appearance, while the land paperwork/property dispute persists (scene:002:u:0011-0039). Direct underground corridors and Himari's on-site ship identification strengthen the existence route, not the named vessel's functional capabilities (scene:003:u:0001-0015). No durable claim ID/frozen analytical prediction; 348/480.
+
+## V100 C003 E006 claim revision delta
+
+Physical bridge and processor access strengthen E005's ship existence route, yet Himari expressly says control remains pending. The displayed 135×23×13 m dimensions correspond to E003's Kaiser desert report, without a serial/origin audit; no weapon is apparent in initial scan, not a proof of absence (scene:001:u:0048-0075/u:0095). Kei's anti-Ark origin, never-used history, Color copy claim and predicted anti-Alice reaction are actor assertions, not a tested activation (u:0076-0094). Ayumu's crew count and Noa/Yuuka safety rankings remain estimates. No durable claim ID/frozen analytical prediction; 349/480.
+
+## V100 C003 E007 claim revision delta
+
+Utaha's opaque-mechanics conclusion coexists with a tentative input-output operating-manual route, not a flight test (scene:001:u:0001-0019). Himari's >75% computation/100,000 m estimate reclassifies the ship, but barrier matching and ark propulsion hacking remain conditional and require connection (u:0020-0041). AMAS corrects a formula and Rio's mediated identity becomes strongly evidenced through first-person reply, Himari address and Hanako recognition; prior AMAS fleet-wide control and Rio's location remain unproved (u:0042-0100). Himari's Toki isolation/injury/inner-guilt statements are actor reports/inferences; Seia labels the king parable result-based, and Rin says second ancient question lacks an object (u:0060-0164). No durable claim ID/frozen analytical prediction; 350/480.
+
+## V100 C003 E008 claim revision delta
+
+The briefing operationalizes Hanako/Himari's untested membrane model; passage, ark system hacking and destruction remain conditional plan steps (scene:001:u:0012-0034). Himari/AMAS/Kayoko give severe failed-entry/altitude harm predictions without a failure test (u:0018-0026). Rin explicitly reports all prior Sanctums destroyed, stronger than C002 E021's sparse sky observation, but still a broad participant status report without five-plus-one after-action records (u:0061-0067). Ayumu's ~12h and Himari's 3% are uncalibrated forecasts; eight-hour launch is a schedule, not a completed departure (u:0051-0058/u:0076-0080/u:0126-0138). No durable claim ID/frozen analytical prediction; 351/480.
+
+## V100 C003 E009 claim revision delta
+
+Abydos says Shiroko is probably at the ark and plans to catch her if she obstructs them; this is a location/behavior forecast, not confirmed sighting (scene:001:u:0010-0024). Alice directly says Kei remains inside her, upgrading persistence from uncertainty to self-report while not establishing agency, mechanism or Rio/Kei ontology (scene:002:u:0049-0065). Hina/Noa/SRT ground-defense commitments are intentions, not future-result proof (u:0080-0152). Aoi's apology and Rin's nonresentment are direct, but no no-confidence reversal or reinstatement follows (u:0153-0179). Rin's prepared-for-departure report is not liftoff (u:0180-0185). No durable claim ID/frozen analytical prediction; 352/480.
+
+## V100 C003 E010 claim revision delta
+
+Outfit protections, Alice Light Sword as sole ship armament and crew assignments are roster/equipment claims, not tested defense (scene:001:u:0001-0073). Arona independently confirms she can activate the ship but cannot quantify Sensei's burden; Black Suit's irreversible/death forecast and fixed-fate/murder counterfactual remain his assertions (u:0074-0109). Chest connection and actual takeoff to 780 m now verify a functional startup/ascent, while Sensei's acute shock/pallor/shaking/fading consciousness are directly depicted; irreversible injury and exact cause remain unproved (u:0131-0179). Hanako reports probabilistic-state system normal before higher-than-expected wave instability; no literal multiverse audit or ark contact (u:0152-0173). No durable claim ID/frozen analytical prediction; 353/480.
+
+## V100 C003 E011 claim revision delta
+
+The president's self-attribution, judgment that Sensei was right, possible forgotten speech and hoped-for alternative result are claims within an unlocated vision-like address, not independently checked event chronology or mechanism (scene:001:u:0001-0023). Hanako's reported error and mismatch are the present technical observation; Yuuka's fault question is not diagnosis. Rio says the ark value changed, then infers a new axis/retreat beyond perception; Himari's evasion explanation and Hanako's superior-computation question remain inferences/questions (u:0024-0039). No established ark contact, permanent system loss or causal physics. No durable claim ID/frozen analytical prediction; 354/480.
+
+## V100 C003 E012 claim revision delta
+
+The collision countdown and Ayane's no-avoidance report support immediate danger; Rio's two-outcome collision forecast and exclusive identical-Ark solution remain prospective expert claims (scene:001:u:0001-0017). Kei claims Sensei absorbed startup wounds and predicts death if this continues, but the scene gives no independent medical proof; Alice's danger under new generation is likewise prospective (u:0057-0068). Alice says Kei listened to her request and Rio distinguishes this from subjugation, supported by subsequent Kei resource search/protocol commands, without full internal-mechanism audit (u:0090-0107/u:0141-0147). The protocol actually begins; no completed Ark, barrier crossing or rescue is shown. Unknown voice identity at u0148-0157 is open. No durable claim ID/frozen analytical prediction; 355/480.
+
+## V100 C003 E013 claim revision delta
+
+Rio's forecast that the original Ark could pierce the copied barrier is locally confirmed by Alice's fired weapon and Hanako/Kayoko's barrier-collapse reports (scene:001:u:0001-0037/u:0048). The ship's later rush and Ayumu's interior-entry report support achieved Ark penetration, not complete world rescue or assessed ship condition (u:0050-0074). Midori/Yuzu call Alice safe/asleep after loss of consciousness but give no clinical test (u:0038-0046 plus anomalous u:0116). Rio's `世界を救った` credit is premature against Himari's explicit `もしも` condition (u:0078-0087). Kei's proposed self-erasure and protection of Alice are intentions in italic speech; no independent deletion proof (u:0092-0114). No durable claim ID/frozen analytical prediction; 356/480.
+
+## V100 C003 E014 claim revision delta
+
+Ayumu's half-embedded-wall description specifies E013's interior entry without implying the whole ship is safely inside (scene:001:u:0001-0002). Crew reports multidimensional system operating but multiple central systems damaged/disabled, including failed engine restart; repair and safe-return capacity are unverified (u:0003-0008). Hostiles like Sanctum foes approach from all directions, while Himari's `待ち構えていたかのよう` is likeness/inference, not confirmed enemy foreknowledge (u:0009-0013). Defense roles and Sensei command request are explicit, but no combat result, casualty count or occupancy is shown (u:0014-0043). No durable claim ID/frozen analytical prediction; 357/480.
+
+## V100 C003 E015 claim revision delta
+
+Ayumu's direct report upgrades the first ship-defense wave to success, but no durable security guarantee follows (scene:001:u:0001-0003). A Shiroko-labelled figure directly appears after an explosion, issues a death warning, and disappears after grenade alarm/smoke; first blast ownership, condition and movement mechanism are unverified (u:0004-0026). Engineering says damage is worse and predicts possible restart despite full-repair doubt, not completed restoration (u:0027-0040). Rio's Ark-computation explanation for Shiroko's jump and proposed one-use ground return are hypotheses contingent on capturing resources (u:0041-0050). Ayumu's occupation announcement is intent, not control (u:0077-0087). No durable claim ID/frozen analytical prediction; 358/480.
+
+## V100 C003 E016 claim revision delta
+
+Veritas has a self-destruct plan and favorable simulation, not actual Ark destruction; unexpectedly early sequence causes a limited blast before evacuation (scene:001:u:0007-0040). Rio/Himari report enemy backdoor ownership of Utnapishtim; Yuuka's physical-contact inference points at but does not prove E015's intruder access path (u:0011-0050). Ship aid to Ark multidimensional interpretation is reported; sky changes observed, but count/function of renewed Sanctums unverified (source-ordered u0144; u0052-0084). Hack trace to Area 4 provides actionable location, not culprit proof (u:0085-0090). Shiroko's kidnapping attribution and shots missing are direct/reported; Prenapates mechanism is unknown (u:0111-0131). A.R.O.N.A. forecasts 100% Ark repair ~30 minutes and final ship self-destruct 800 seconds, neither outcome observed (u:0132-0143). No durable claim ID/frozen analytical prediction; 359/480.
+
+## V100 C004 E001 claim revision delta
+
+Himari's ship/Ark computing-link diagnosis is extended by a failed attempted forced disconnect while the self-destruct timer falls to 533 seconds; false Sanctums remain prospective (scene:001:u:0001-0030). Control-room A.R.O.N.A. identifies two Shirokos as time-axis counterparts, and familiar Arona's separate reaction supports two OS voices. A.R.O.N.A. partly confirms Prenapates as Sensei counterpart; familiar Arona reports matching biometrics and no life signs, stronger than hostile testimony but without a death scene or complete ontology (u:0031-0066). Alternate Shiroko claims she killed her Sensei, that he became Color guide, and that a one-per-world rule forced local abduction. Those historical/mechanistic claims remain actor testimony; her deterministic projection onto local Shiroko is directly contested by local refusal (u:0067-0104). No durable claim ID/frozen analytical prediction; 360/480.
+
+## V100 C004 E002 claim revision delta
+
+Miyako says Sanctums seem to have reappeared, and the ground response is real; no complete tower/guardian audit (scene:001:u:0001-0022). Rio's suppression freezes the announcement at 9 seconds, directly supporting temporary delay but not permanent safety (u:0023-0039). Terminal presence, substitute terminals, expected ~5-second security opening, system recovery and Ark self-destruct are planned/inferred; Engineering's detected signal location in the lower corridor is stronger than those causal predictions (u:0040-0084). Alice's direct wakefulness/self-report narrows E013's condition concern, without medical clearance or Kei-persistence proof (u:0105-0117). The three teams depart; no device destruction or escape yet (u:0085-0128). No durable claim ID/frozen analytical prediction; 361/480.
+
+## V100 C004 E003 claim revision delta
+
+Sensei's collective stop/destroy/return is intent, not an outcome (scene:001:u:0001-0009; choice:001). Prenapates/OS announce frozen-Sanctum activation/computation acceleration and Veritas sees suppression time shrink faster; Chihiro's new-computation explanation is a question (u:0010-0018). Himari reports a manifestation; Ayumu says expected six do not match, and Toki reports a new unobserved site. Toki's solo interception precedes time-drain normalization, but Rio/Himari see no data explanation, so causation is unproved (u:0019-0052). Gourmet/Fuuka's chase and obstacle do not prove crash or mission failure (u:0053-0064). No durable claim ID/frozen analytical prediction; 362/480.
+
+## V100 C004 E004 claim revision delta
+
+The suppression timer accelerates again with printed 4:58→4:11→3:19→60s progression, but no complete acceleration model or Toki causal link is proved (scene:001:u:0001-0010). E003's vehicle peril resolves to Fuuka's reported lower-system arrival (u:0011). E002's plan is locally confirmed: Nonomi/Yuzu report east/west devices destroyed, security opens, Akari fires and Junko reports terminal destroyed; Chihiro/Kayoko report link severance, Rio stable suppression, crew/Yuuka success (u:0014-0047). This verifies immediate connection cut, not permanent immunity to backup terminals or final Ark/ship resolution. No durable claim ID/frozen analytical prediction; 363/480.
+
+## V100 C004 E005 claim revision delta
+
+Immediate Ark link severance and ship-system return are reported, while ship-control reset and Ark-control reclaim are prospective (scene:001:u:0001-0005). Toki's inability to move and fear no rescue can reach her are self-reports; C&C's actual arrival via Noa's early helicopter disproves the no-help expectation in this local case, but safe extraction/enemy defeat remain unshown (u:0006-0058). Rio denies possessing a suit self-destruct code; no independent suit audit, and no detonation. Seia/Noa explain early dispatch with foreboding/hunch, not verified prophecy (u:0051-0058). Rio's ship-with-Ark explosion assessment and escape promise are untested future steps (u:0073-0077). No durable claim ID/frozen analytical prediction; 364/480.
+
+## V100 C004 E006 claim revision delta
+
+Control-room OS says bypass access fails, suppression persists and temporary Sanctum manifestation cancels under resource loss; this supports local defeat of the current restoration attempt, not permanent impossibility (scene:001:u:0001-0012). It reports Ark self-destruct preparing and predicts ≤0.0003% post-blast ship survival, neither explosion nor death observed (u:0008-0009/u:0058-0059). Akane reports the appearing Sanctum gone and Asuna reports Toki escorted, upgrading bounded ground outcome without medical/whole-region audit (u:0049-0057). Hostile side judges Sensei's collaboration a threat and forecasts experience advantage; both adult-card gestures are shown, effect and victor not (u:0060-0097). No durable claim ID/frozen analytical prediction; 365/480.
+
+## V100 C004 E007 claim revision delta
+
+OS reports a teacher's own escape sequence given to Shiroko; `残り0回` confirms no uses remaining in scene 2, but transfer/landing not shown (scene:001:u:0001-0006; Scene 002 location). A.R.O.N.A. infers a trust-in-counterpart motive, then reports shielding from an explosion while unable to reduce a dangerous fall; blast scope, actual impact and which teacher each later `先生` denotes are unresolved (scene:002:u:0002-0034). Throne collapse and OS data transfer are reported. The two OS voices propose combining powers to deliver Sensei to ground, without execution/arrival shown in text (u:0035-0068). Scene 003 video trigger has no admitted visual data. No durable claim ID/frozen analytical prediction; 366/480.
+
+## V100 C004 E008 claim revision delta
+
+OS directly reports present Sensei returned safely to students, stronger than E007's proposed combined rescue, but no landing/medical examination is printed (scene:001:u:0011-0019). Alternate Shiroko repeats one-per-world distortion, while local Shiroko says coexistence may be safe and Sensei could handle trouble; neither metaphysical forecast is independently tested (u:0020-0060). The exchanged object is unnamed in this text despite memory/robbery clues. Familiar Arona names control-room OS Plana, accepted under a `プラナ` tag, resolving identity label but not long-term system architecture (u:0061-0094). Prenapates fate and full Ark outcome remain open. No durable claim ID/frozen analytical prediction; 367/480.
+
+
+## V100 C004 E009 claim revision delta
+
+E008's safe-return report is followed by Shinon's later broadcast of D.U. repair and no reported D.U. deaths. These are attributed civic reports, not a comprehensive casualty audit (scene:001:u:0001-0022). The council's unknown-phenomenon explanation and alleged absence of Sanctum Tower practical effects are reported official/media positions; tower governance is not independently tested. A Kaiser tower partnership is rumor only (u:0030-0032); Kaya/General do renew an agreement in dialogue without printed procurement terms (u:0033-0048). `Kei.sav` is an actual displayed filename but not proof that Key survived; Himari explicitly cannot authenticate a 2 KB file (u:0065-0079/u:0108-0114). Alice's robot preserves memory and possibly the file, not demonstrated reanimation (u:0118-0141). No durable new claim ID/frozen analytical prediction/held-out diagnostic; 368/480, E010 unopened.
+
+
+## V100 C004 E010 claim revision delta
+
+Remedial test dialogue provides no result, despite Hanako's continuation joke (scene:001:u:0001-0008). Saori's future travel is begun, not completed; the caller's exploitative work demand is heard but confrontation outcome is absent (u:0009-0031). E008's Arona/Plana home invitation is now followed by direct arrival and `ただいま` (u:0066-0077). Rin's reconfidence vote remains future (u:0078-0100). Niya reports the ninjas returned and met a vice chair, but expressly did not verify Kuzunoha's existence; a self-attributed letter claims no Color reversal exists and invites a visit anyway (u:0109-0123). Rin's unsigned `リンちゃんへ` and recognized handwriting support suspicion, not confirmed president authorship or current life (u:0124-0131). No new durable claim ID or frozen analytical prediction; 369/480, E011 unopened.
+
+
+## V100 C004 E011 claim revision delta
+
+E010's shared home is shown as an ongoing routine. Arona says two OSs increased Chest power (scene:001:u:0020), while Plana privately links her presence to greater Chest load and Arona sleep (u:0024-0027). Both are actor assessments; measured capacity, causal mechanism and net benefit are unverified. Plana says the missing federal president is also absent in this world (u:0028-0029); this does not authenticate Rin's unsigned letter or prove death. No durable claim ID/frozen prediction/held-out diagnostic; 370/480, E012 unopened.
+
+
+## V100 C004 E012 claim revision delta
+
+Francis treats Sensei's “not protagonist” act as a genre/finale reversal and forecasts limits to further intervention; this is actor interpretation, not a confirmed world law (scene:001:u:0001-0008). His Gematria-reform/unnamed-exile visit remains an announced intention (u:0009-0012). Plana states a completed computation/Q.E.D. about two OS identities and addresses the missing president as present `ここ`, but the proof, referent and independent confirmation are absent (u:0013-0020). The video marker supplies no text evidence. No durable new claim ID/frozen prediction/held-out diagnostic; 371/480, chapter checkpoint pending.
+
+
+## V100 C004 canonical checkpoint reconciliation
+
+The [V100 C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md) reconciles E001-E012 at **371 / 480** canonical main units. The coalition's east/west/lower-device intervention severs the ship/Ark link at one second; the OS reports temporary ground-Sanctum cancellation, while E008 OS voices report present Sensei safely returned after E007's dangerous fall. Plana is the existing control-room OS subject, distinct from familiar Arona; local and alternate Shiroko remain distinct. The exact duel, Ark/ship damage, Prenapates' fate, Sensei medical status, the alternate's durable status and wider casualty audit are unverified. E009-E012 supply civic repair reports, ambiguous `Kei.sav`, homecoming, pending Rin vote, unauthenticated Kuzunoha/president letters, Francis's unperformed Gematria plan and Plana's privately asserted president hypothesis. No new readiness promotion or standalone model: **21 PARTIAL_MODEL / 182 UNMODELED across 203**. No durable new claim ID, frozen analytical prediction, held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission. The 43 inserted V001 C003 units remain **DEFER** for their own ordered backfill. Next forward source: `BA:main:series2:000:001:001` / `MAIN_S2_V000_C001_E001`.
+
+
+## S2 V000 C001 E001 claim revision delta
+
+Decalcomania's account of fallen authority and lost order is his own diagnosis, not an audited account of the post-Final-volume world (scene:001:u:0004-0014). The telescreen's answer is missing; his questions about logic/green/blue/Color and later claim that real/fiction boundaries disappeared cannot verify its content (u:0015-0029). The three fifteen-fold narrator questions seek signs, regained power and a new order; repetition does not add evidence, and Decalcomania's assent is an aim rather than accomplished capability (u:0030-0082). No durable claim ID/frozen prediction/held-out diagnostic; 372/480, E002 unopened.
+
+
+## S2 V000 C001 E002 claim revision delta
+
+The E010 “letter” is clarified as an envelope containing **no letter text** and several photographs; Rin sees only a `リンちゃんへ` salutation in handwriting resembling the president's (scene:002:u:0020-0034). Ayumu knows mailbox pickup, not sender, and Rin explicitly declines to confirm authorship. The unusual monochrome lake is unrecognized and said by Rin to exceed D.U. lakes in her knowledge; location, photographer, date and filter remain open (u:0035-0052). Rin's acting title in a filmed PSA does not prove the pending reconfidence vote passed (scene:001:u:0001-0011). No durable claim ID/frozen prediction/held-out diagnostic; 373/480, E003 unopened.
+
+
+## S2 V000 C001 E003 claim revision delta
+
+The dream narrator's missing Chest, president-given smartwatch, monochrome empty city and girl-presence are explicitly framed as a dream/recollection, not waking historical facts (scene:001:u:0001-0050). Sensei contradicts the imposed hospital route, and the narration accommodates the federal-building choice, proving only local narrative resistance (u:0027-0031). The girl's “I am Kivotos's—” is interrupted; no president or OS identification follows (u:0043-0050). Waking Plana lacks smartwatch memory and Arona has only vague familiarity; no device corroboration (u:0059-0062). No durable claim ID/frozen prediction/held-out diagnostic; 374/480, E004 unopened.
+
+
+## S2 V000 C001 E004 claim revision delta
+
+The dive team reports a beacon and current displacement, but no audited dive depth/injury; B self-reports decompression, and A's tolerance line is not medical proof (scene:001:u:0001-0019). The wreck search finds none of its intended target by B's report. The retrieved object looks glass-like/hard/glowing to participants, and Rei names it a shining trapezohedron; composition, effects and provenance remain untested (u:0020-0036). Sunset-horizon simile does not connect it to E002 lake or E003 dream. No durable claim ID/frozen prediction/held-out diagnostic; 375/480, S2 V001 C001 E001 unopened.
+
+
+## S2 V000 C001 canonical checkpoint reconciliation
+
+The [S2 V000 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_C001_CHECKPOINT.md) reconciles all four sequential readings at **375 / 480**. Decalcomania claims a new route to authority through an unheard telescreen without demonstrated power; Rin's unsigned “letter” proves to be a photo envelope with no message, including an unlocated monochrome lake; Sensei's monochrome city and unidentified girl are in a narrator-driven dream, followed by waking Arona/Plana care; Rei's dive team retrieves a shard she names a shining trapezohedron without composition, hazard or sponsor verification. No causal bridge between screen, photograph, dream and shard is printed. Four directly speaking dive-team subjects were added as narrow UNMODELED: **21 PARTIAL_MODEL / 186 UNMODELED across 207**. No durable new claim ID, standalone model, frozen analytical prediction, held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission. The 43 inserted V001 C003 episodes remain **DEFER** for ordered backfill. Next forward source: `BA:main:series2:001:001:001` / `MAIN_S2_V001_C001_E001`.
+
+
+## S2 V001 C001 E001 claim revision delta
+
+Aoi's weeks/near-month without rest, skin changes, mistakes and 70%-of-peak finance estimate are attributed reports; a concrete document-format error is presented but no clinical or fiscal audit appears (scene:001:u:0012-0023; scene:002:u:0008-0017). Rin's “all responsibility” and ordinary-vs-genius burden are self-framing, not legal/moral totality (u:0018-0024). Ayumu/Momoka report delegated meeting and resolved schedule, not final custody/logistics outcomes (u:0025-0034). Rin agrees to weekend rest/Sensei meeting, but execution is future; “date” denied (u:0035-0054). No durable claim ID/frozen prediction/held-out diagnostic; 376/480, E002 unopened.
+
+
+## S2 V001 C001 E002 claim revision delta
+
+Shinon's V100 C004 E009 reassurance that tower loss had no practical effect is contradicted by this unit: the vendor reports an actual water outage, and Rin says the tower building is rebuilt but core control is not, substitutes fall short and utilities fluctuate (scene:002:u:0038-0048). Her claim only the missing president could operate the original system remains institutional testimony, not independent engineering proof. Aoi's reported clothing intervention and Rin's Saturday attendance show outing began, but later work calls show rest was incomplete (scene:001:u:0002-0022; scene:003:u:0002-0016). Game screen confirms Sensei round 1, Rin round 2/perfect final; requested visit target unnamed (u:0045-0069). No durable claim ID/frozen prediction/held-out diagnostic; 377/480, E003 unopened.
+
+
+## S2 V001 C001 E003 claim revision delta
+
+The V100 C001 E015 FOX report of an unidentified basement item receives Kaya's specific identification: she says it was a smartwatch-like `シャーケードの杖` from a Schale-basement ark, sought for her coup (scene:001:u:0060-0082). This independently matches the name/device in Sensei's prior dream, but neither its claimed truth-sight power nor the dream's alternate history is verified. Kaya's storage claim is conditional on no one touching it; Rin's search is only planned (u:0082-0087). Kaya is directly seen confined, while her isolation details and future coup promise remain her testimony/intention (u:0002-0029). Rin confirms some actual respite despite work intrusions; second chess result absent (u:0088-0101). No durable claim ID/frozen prediction/held-out diagnostic; 378/480, E004 unopened.
+
+
+## S2 V001 C001 E004 claim revision delta
+
+Kaya's E003 conditional warehouse claim is upgraded: Rin directly opens a council-store-room ark and sees a smartwatch-like object she calls `シャーケードの杖` (scene:002:u:0002-0015). The announcement reports password acceptance and 99% voiceprint match for Rin, without stating comparator or proving the president's voice. The engraved mark's origin and object ability remain unknown. A first-year-Rin recollection is interrupted before the president names one irreplaceable thing; the later wake cue/president-claiming speaker is not independently authenticated as an actual present return (u:0024-0057). No durable claim ID/frozen prediction/held-out diagnostic; 379/480, E005 unopened.
+
+
+## S2 V001 C001 E005 claim revision delta
+
+Rin's E004 nonrecognition is sustained, while Aoi/others treat the visitor as president; their appearance recollections conflict and Ayumu's fatigue hypothesis is unproved (scene:001:u:0001-0043). Rin now sees shared photographs lacking the remembered president, a material change in perceived evidence from E002 but not an externally compared image alteration (u:0044-0056). Sensei independently finds the visitor unfamiliar, yet that does not authenticate the missing president's actual portrait (u:0061-0069). The visitor says she never approved Schale; this is her history claim, not revocation or proof the founding act vanished (u:0073-0085). No durable claim ID/frozen prediction/held-out diagnostic; 380/480, E006 unopened.
+
+
+## S2 V001 C001 E006 claim revision delta
+
+E005's Schale challenge is revised by the claimant's recognition of a signature and explicit promise not to deny or discard Schale; the documents are shown to her, but no forensic check, written ruling or identity authentication occurs (scene:002:u:0015-0024). Her last-signing-to-home memory gap and deep-sleep explanation are self-reports, not a located chronology or causal account (u:0025-0036). Tea prices/Red Winter shortages and the Defense-office 50% Gehenna statistic are claimant reports; Nagisa only considers repeal, the Prefect support order has no observed execution, and Cherino only withdraws this protest (scene:003:u:0002-0088). No durable claim ID/frozen prediction/held-out diagnostic; 381/480, E007 unopened.
+
+
+## S2 V001 C001 E007 claim revision delta
+
+Plana's E007 assertion that the claimant cannot perceive the Chest OS supports an ignorance mismatch with E006, but her impostor/mimesis classification and predicted disorder remain inference, challenged by Arona's unproved amnesia possibility (scene:001:u:0018-0033). Chest-Wand logs now confirm a pairing branch, `S.Q.D.` response, data download and completion after Sensei-authorized biometric update, strengthening the E004 object route without proving president identity or Tower rights (u:0034-0072). Core inspection exceeds current memory capacity, triggers narrated safe mode and apparently erases paired data; no core content or actual malicious behavior is recovered (u:0083-0121). No durable claim ID/frozen prediction/held-out diagnostic; 382/480, E008 unopened.
+
+
+## S2 V001 C001 E008 claim revision delta
+
+Rin's Kivotos-wide memory-edit hypothesis extrapolates from reported council/regional acceptance and a small street sample; mechanism/scope remain unproved (scene:001:u:0005-0014; scene:002:u:0002-0024). The narrator says this interview set yields no one remembering the previous president, while citizen B suggests only color change and C hair length without verification. Erika describes purple eyes/platinum hair and a purported hairstyle trend, not an authenticated historic image (u:0014-0024). Mai recalls a prior source claiming blue eyes/light-blue hair and gives a drink-bar lead, explicitly secondhand and with urban-legend credibility caution (u:0078-0085). No durable claim ID/frozen prediction/held-out diagnostic; 383/480, E009 unopened.
+
+
+## S2 V001 C001 E009 claim revision delta
+
+Mai's E008 drink-bar lead brings Rin/Sensei to Triad, but Orwell's appearance does not identify him as the reported blue-eyes/light-blue-hair witness (scene:001:u:0002-0016). Orwell retrospectively claims Color transformed Golconda into temporary Francis and that Decalcomania learned from Sensei/Underground Dweller, but the identity mechanism and others' internal judgments are his account (u:0017-0035). Media as a new defining power and a coming proxy ritual are theory/forecast, not observed memory editing or claimant causation (u:0036-0039). Self-naming as Orwell and screen/shadow of Decalcomania supports a distinct provisional label without proving ontological separation or equivalence (u:0040-0045). No durable claim ID/frozen prediction/held-out diagnostic; 384/480, E010 unopened.
+
+
+## S2 V001 C001 E010 claim revision delta
+
+Orwell's copied-relic and claimant-simulacrum descriptions do not override E007's narrower pairing evidence or authenticate an original artifact (scene:001:u:0009-0016). His claim that no counterevidence remains and that the world changed last night is neither an archive audit nor independently timestamped (u:0031-0035/u:0051-0052). His `シャーケディアの枝` truth-observation/dissolution power is a proposed mechanism, not an observed Wand capability (u:0039-0042). Arona says installation is possible and Plana offers capacity, but no social-media search, classification, credentials use or result is shown (u:0053-0087). No durable claim ID/frozen prediction/held-out diagnostic; 385/480, BA:main:series2:002:001:001 unopened.
+
+
+## S2 V002 C001 E001 claim revision delta
+
+Ako reports a next-day Prefect-equipment inventory and surrender of ammunition above 9 mm as Pandemonium's demand; no written order, counts or execution are inspected (scene:002:u:0020-0025). Her later budget-cut/delayed-expense account and Makoto's 'busy' reply establish the local conflict but not audited financials or motive (u:0069-0081). Hina/Chinatsu state a force-bounded-by-freedom policy, supported by restraint in this square but not a universal enforcement audit (u:0031-0061). Prior S2 V001 E006 promised aid to Hina remains unconfirmed and should not be equated to the budget issue. No durable claim ID/frozen prediction/held-out diagnostic; 386/480, E002 unopened.
+
+
+## S2 V002 C001 E002 claim revision delta
+
+The committee's claim of a once-feared Gehenna, present laughingstock status, wasteful budgets, falling competitiveness and no post-Eden Trinity protest is actor rhetoric without historical, survey, financial or diplomatic audit (scene:001:u:0023-0047). Makoto says Schale relations motivated restraint; Mayumi sees surrender, neither reading is adjudicated (u:0044-0048). The committee says Prefects could unify Gehenna but choose ambiguity; Hina explicitly prefers freedom with a boundary (u:0052-0085). The vague promise of 'many things' supplies no plan, target or outcome (u:0086-0096). No durable claim ID/frozen prediction/held-out diagnostic; 387/480, E003 unopened.
+
+
+## S2 V002 C001 E003 claim revision delta
+
+E002's committee glory narrative receives a counter-witness: a Pandemonium third-year says the earlier Gehenna differed but had reasons people avoid praising/talking about it, and she would not return (scene:001:u:0025-0053). She withholds details, so neither her negative assessment nor Mayumi's idealized discipline is a full historical audit. Mayumi dismisses the testimony rather than reconciling it (u:0054-0063). The rocket student's admitted shot and Mayumi's damage account show a local disorder case, not a complete school trend (u:0001-0015). Shoko's symbol remains unnamed, no plan executed. No durable claim ID/frozen prediction/held-out diagnostic; 388/480, E004 unopened.
+
+
+## S2 V002 C001 E004 claim revision delta
+
+Shoko's E003 unnamed authority symbol resolves locally into a concrete request to borrow Sensei's public credibility; it does not establish a formal Schale endorsement (scene:001:u:0022-0029/u:0069-0075). Her allegation that Sensei uses the council for desire is explicitly a rumor denied by Sensei, not verified misconduct (u:0030-0033). Mayumi's 'almost no students' and no-cooperation claims extrapolate from a small opinion montage and her perspective (u:0040-0058). Her/Shoko's strict-old-Gehenna history is secondhand and remains challenged by E003 senior testimony (u:0059-0068). Shoko floats embellishment then denies intent; no deceptive act occurs (u:0076-0080). No durable claim ID/frozen prediction/held-out diagnostic; 389/480, E005 unopened.
+
+
+## S2 V002 C001 E005 claim revision delta
+
+E004's unspecified committee activity becomes a built/used range before permission, with a proposed points scheme and actual name/grade request; legality, safety, points issuance and data storage are unverified (scene:001:u:0035-0126). Shoko's two same-day damage examples are her reports, not inspected incident files or necessarily E003's rocket event (u:0035-0037). Crowd belief that Sensei's presence makes the scheme trustworthy is observed, but not an actual guarantee or valid authorization (u:0089-0097). Mayumi says no permission and Shoko admits fait accompli; Sensei's next agreement is to seek regularization, not proof it succeeds (u:0127-0145). No durable claim ID/frozen prediction/held-out diagnostic; 390/480, E006 unopened.
+
+
+## S2 V002 C001 E006 claim revision delta
+
+E005's absent prior permit changes to Makoto's direct provisional verbal permission for committee activity after Sensei's appeal; Hina separately states a bounded Prefect nonintervention decision (scene:001:u:0074-0085/u:0109-0112). No written site terms, safety/data program clearance, budget allocation or permanent exemption is shown. Makoto's desire to keep Prefects burdened is direct stated motive here; his claim he intentionally shaped all Gehenna chaos is challenged by Iroha and not independently established (u:0007-0028). Shoko's crowd/Pandemonium-credit model and Makoto's unspecified favor are predictions and a vague demand, not measured effect or contract (u:0039-0064/u:0086-0088). No durable claim ID/frozen prediction/held-out diagnostic; 391/480, E007 unopened.
+
+
+## S2 V002 C001 E007 claim revision delta
+
+Karen's E002-E006 committee role gains direct local protection evidence: she halts an extortion attempt, and narration says she repels several later threats while escorting Sensei (scene:001:u:0001-0048/u:0080-0085). Her claim of regular outside-district protection and tactical ability beyond this outing is still self-report (u:0068-0079). The rescued student only considers submitting a committee application, while Karen reports recent membership growth without a roster; do not record a completed recruitment or numeric expansion (u:0049-0060/u:0122-0126). Karen distinguishes her own love of spontaneous freedom from Shoko's order/control doctrine, qualifying a monolithic committee ideology (u:0104-0121). No durable claim ID/frozen prediction/held-out diagnostic; 392/480, E008 unopened.
+
+
+## S2 V002 C001 E008 claim revision delta
+
+The E005 proposed points program now has a public double-points event and a crowd participant reports accumulated points, but no ledger, reward transfer or data-use audit is printed (scene:001:u:0011-0013/u:0047-0054). The queue, ticket 27, first group of 30 and local line settlement show bounded venue uptake/rule compliance, not school-wide order (u:0001-0035). Mayumi says place/time habit change will transform Gehenna, a forecast; Shoko explicitly seeks gradual habituation, an intent not an achieved mass shift (u:0082-0090). Karen's no-force assurance has some support in local arrivals but does not verify full voluntariness or informed data consent (u:0108-0110). No durable claim ID/frozen prediction/held-out diagnostic; 393/480, E009 unopened.
+
+
+## S2 V002 C001 E009 claim revision delta
+
+Karen/Shoko report online popularity and a two-hour queue, but departing diners and the group's four inconsistent meals give contrary local quality evidence, not a complete business audit (scene:001:u:0002-0051). The proposed one-week improvement chance is refused, followed by a narrated blast and the owner's loss claim; exact actor, device, injuries and damage are not printed (u:0076-0104). Haruna's assertion of similarly bombed prior shops is unverified (u:0105-0117). Narration confirms a different nearby shop agrees to points partnership, without terms or redemption; the destroyed first shop is not that partner (u:0143-0153). No durable claim ID/frozen prediction/held-out diagnostic; 394/480, E010 unopened.
+
+
+## S2 V002 C001 E010 claim revision delta
+
+Shoko's map numbers (14 major/56 including smaller veins), selected utility-free sites, safety and resort revenue are her claims without printed map data, survey, permits or environmental audit (scene:001:u:0034-0042). Her theory that Kasumi acts for Meg gains narrow support: Kasumi explicitly agrees to all map sites because Meg wants it, while also detecting the control tactic (u:0043-0049/u:0112-0128). This is spoken commitment, not performed development or permanent restraint. Shoko's `あそこ` threat and Kasumi's `こっち側` reply lack a resolved referent (u:0129-0133). No durable claim ID/frozen prediction/held-out diagnostic; 395/480, E011 unopened.
+
+
+## S2 V002 C001 E011 claim revision delta
+
+E008's local queue effect gains independent staff impressions: Satsuki reports fewer cuts, Ibuki less startling gunfire, Iori smaller/predictable calls and Chinatsu fewer injuries/papers, but no logs or counts are printed (scene:001:u:0039-0078). E006's verbal Makoto permission now has Karen presenting a genuine Pandemonium-approved activity form checked by Iori; document text/scope and safety/data clearance remain uninspected (u:0090-0097). Karen calls Prefect redundancy a goal, Iori says they are necessary now; no dissolution occurs (u:0098-0112). Makoto admits unspecified neglect to burden Prefects, not an audited incident list (u:0030-0038). No durable claim ID/frozen prediction/held-out diagnostic; 396/480, E012 unopened.
+
+
+## S2 V002 C001 E012 claim revision delta
+
+Mayumi's 28th-meeting and expanded-participation statements are self-report without minutes/roster; her assertion that no Gehenna support venue exists is not an inventory (scene:001:u:0002-0038). Shoko claims a committee-caused stress-index decline without data, while interviewee A identifies the solicitation itself as uncomfortable (u:0045-0058). Petitioner B reports many classmates hearing a voice through an embedded account; the team directly hears one fragment later and sees a meter response toward the locked broadcast room, not a verified cause or ghost (u:0075-0092; scene:002:u:0030-0050). No durable claim ID/frozen prediction/held-out diagnostic; 397/480, E013 unopened.
+
+
+## S2 V002 C001 E013 claim revision delta
+
+The E012 broadcast-room lead gains Erika/Kirara's recollection of one former school broadcast, an offer to continue and their refusal; the club head's whereabouts and shutdown cause remain unverified (scene:001:u:0023-0037). Erika says a high squeal stopped after she untangled wiring, a bounded explanation for that sound, not necessarily E012's fragments (u:0038-0045). She tentatively recalls a woman's voice with approximate `てっけつ`/`ちつじょ`; neither exact wording nor identity/source is confirmed (u:0046-0058). Shoko plans to negotiate entry with Pandemonium, without actual permission (u:0093-0100). No durable claim ID/frozen prediction/held-out diagnostic; 398/480, E014 unopened.
+
+
+## S2 V002 C001 E014 claim revision delta
+
+Satsuki independently confirms election talk exists, but Shoko's satisfaction survey, district economy, incident decline and Makoto's >60% self-promotion budget claim lack audited records (scene:001:u:0025-0034/u:0055-0058). A graph purports >800% broadcast audience growth, with unseen baseline/measurement; Iroha confirms only qualitative excitement (u:0059-0063). Makoto grants broadcast operation and the team enters, resolving E013's access uncertainty (u:0069-0084; scene:002:u:0002-0007). Shoko's degraded-cable explanation remains hypothesis: no unplug, repair, reproduction or petitioner outcome is printed (scene:002:u:0022-0045). No durable claim ID/frozen prediction/held-out diagnostic; 399/480, E015 unopened.
+
+
+## S2 V002 C001 E015 claim revision delta
+
+E008's venue queue now has Mayumi's report of many daily users and rapid target wear, with directly visible cleanup, but no attendance/maintenance cost log (scene:001:u:0001-0038). E011 independent quiet reports partly support Mayumi's perceived incident decline, not her full causal or district-wide claim (u:0039-0046). Shoko says broadcast maintenance and school-wide new audio equipment are complete; the installation, dead-zone test, cable unplug and ghost-noise cessation are not shown (u:0063-0067). Makoto speech is proposed/accepted but not aired (u:0075-0084). No durable claim ID/frozen prediction/held-out diagnostic; 400/480, E016 unopened.
+
+
+## S2 V002 C001 E016 claim revision delta
+
+E013 Erika's approximate `てっけつ`/`ちつじょ` now matches the opening terms of a public six-word transmission, strengthening content continuity but not source or mechanism (scene:001:u:0023-0039). E014's likely worn-cable explanation cannot explain away the now intelligible repeated phrase without a tested causal link; E015's reported school-wide sound upgrade is likewise unverified as route/actor. Makoto/Hina directly declare an expansionist alliance after the transmission, sharply challenging earlier freedom/boundary stances, while reactions are split and no attack is shown (u:0048-0102). No durable claim ID/frozen prediction/held-out diagnostic; 401/480, E017 unopened.
+
+
+## S2 V002 C001 E017 claim revision delta
+
+E016's abruptness persists in Hina/Ako and Makoto's serious follow-up; it is not a prank, but no executed attack is printed (scene:001:u:0014-0069/u:0094-0116). Iori/Chinatsu and Iroha provide explicit prior-value counterevidence; Sena is another apparent changed student, Fuuka/Juri and Erika/Kirara remain skeptical (u:0059-0062/u:0137-0198). A third-year-only explanation is internally weakened by unaffected Satsuki. She claims the cause is an original Thunder Emperor NK Ultra project distinct from her own, but no original file, delivery route, targeting rule or corroboration is shown (u:0199-0240). No durable claim ID/frozen prediction/held-out diagnostic; 402/480, C002 E001 unopened.
+
+
+## S2 V002 C002 E001 claim revision delta
+
+Satsuki expands her E017 original-NK-Ultra allegation into a two-year retrospective of an unfinished deep-control experiment and destroyed records, but provides no original file, roster or disposal proof (scene:001:u:0001-0022). Present-third-year risk plus on-campus broadcast reach is her cohort/exposure hypothesis; Satsuki herself is an apparent exception, and grade/coverage lists are not audited (u:0026-0033/u:0060-0070). Iori suggests words as trigger, Satsuki later considers frequency after a similar ringing noise; neither is tested, and no countermeasure exists yet (u:0092-0120). Retaliation is Satsuki forecast, not observed (u:0121-0125). No durable claim ID/frozen prediction/held-out diagnostic; 403/480, E002 unopened.
+
+
+## S2 V002 C002 E002 claim revision delta
+
+E017's Sena war support becomes a detailed rationale: she calls plural Kivotos order a patient, Gehenna unity the only treatment and casualties comparable to surgical bleeding, while admitting personal distaste (scene:001:u:0061-0080). These are Sena's claims, not clinical assessment, necessity proof or actual injury. Sena's recollection that Chinatsu transferred from Emergency Medicine because she could not leave delayed care alone is corroborated by Chinatsu's own explanation (u:0017-0037). Sena's hoped-for successor role was previously unspoken self-report. No cure, deployment or confrontation outcome is shown. No durable claim ID/frozen prediction/held-out diagnostic; 404/480, E003 unopened.
+
+
+## S2 V002 C002 E003 claim revision delta
+
+Shoko's current claim that all committee activity prepared Gehenna for conquest is a retrospective reinterpretation, not proof earlier Mayumi/Karen intended it; the latter expressly object to equating range targets with other schools (scene:001:u:0023-0070). Local A-D show some group/tactical behavior and a points incentive, not Shoko's unmeasured `most students` capability claim (u:0046-0055). The earlier Pandemonium third-year now directly acknowledges preferring freedom/not wanting old Gehenna before, then praises returning to it; this establishes within-person reversal but not exposure/cause (u:0071-0108). No durable claim ID/frozen prediction/held-out diagnostic; 405/480, E004 unopened.
+
+
+## S2 V002 C002 E004 claim revision delta
+
+The E016 declaration now has concrete leadership orders for supplies, warehouses and communications control, but no completed inventory, build or shutdown (scene:001:u:0002-0010). Hina's 30-minute conditional strike and Ako's 48-hour simulation are uninspected forecasts; Makoto's claimed retained Emperor technical knowledge is not a produced weapon or reconstructed NK Ultra (u:0011-0032). One ammunition owner actually yields property under threats; officer-quoted Emergency Martial Law Article 8 has no independent promulgation, and proposed contribution points are not verified as credited (u:0044-0063). No durable claim ID/frozen prediction/held-out diagnostic; 406/480, E005 unopened.
+
+
+## S2 V002 C002 E005 claim revision delta
+
+Makoto confirms the planned attack is serious and praises the E004 requisition as functioning under his directive (scene:001:u:0012-0020). His 'all students' unity is falsified as a literal consent claim by Mayumi/Karen's explicit objection and Iroha's resignation; his 'truth' explaining reversal is a self-report with no verified mechanism (u:0021-0045). Iroha's spoken resignation and Makoto's verbal acceptance establish a direct rupture, not a checked personnel filing (u:0047-0064). Shoko's proposed caution designation/punishment is interrupted before adoption; her private control remark does not identify the broadcast operator or prove command over Makoto (u:0091-0106). No durable claim ID/frozen prediction/held-out diagnostic; 407/480, E006 unopened.
+
+
+## S2 V002 C002 E006 claim revision delta
+
+Makoto's E004 warehouse order is transmitted to Hot Spring Club with an eight M-class/one-week specification and daily inspection announced, but no warehouse or inspection is shown (scene:001:u:0001-0027). Meg's present pro-war desire is direct testimony, though the coercive setting and striking departure from Kasumi's baseline make autonomous formation uncertain; Kasumi deliberately considers both genuine change and alteration (u:0020-0075). Sensei's choice and narrated briefing prompt Kasumi's Thunder Emperor/group-recognition hypothesis, which lacks an inspected mechanism, operator, exposure map or independent Meg test (choice:003; u:0080-0091). Kasumi's old 'implanted voice' remark is personal history deferred, not technical corroboration (u:0097-0101). No durable claim ID/frozen prediction/held-out diagnostic; 408/480, E007 unopened.
+
+
+## S2 V002 C002 E007 claim revision delta
+
+Mayumi/Karen now expressly separate welcome Pandemonium/Prefect cooperation and local quiet from illegitimate intimidation and unprovoked invasion. Their 'great Gehenna' phrase therefore cannot be equated with consent to Makoto's campaign (scene:001:u:0011-0030). Mayumi asks whether she misunderstood the old Gehenna and whether her committee helped cause irreversible harm; both are conditional fears, not independently documented history or technical responsibility (u:0031-0043). Sensei's 'not your fault' is ethical reassurance, not a forensic audit. The pair decide to oppose the campaign, while Shoko's willingness and Sensei's proposed conversation remain open (u:0044-0080). No durable claim ID/frozen prediction/held-out diagnostic; 409/480, E008 unopened.
+
+
+## S2 V002 C002 E008 claim revision delta
+
+Makoto's complaint supplies practical corroboration that Iroha's E005 departure has affected operations, but not a formal roster record (scene:001:u:0001-0004). Chiaki reports Weekly Pandemonium on hiatus, not permanently abolished, and her potential photo has no printed publication (u:0005-0010). Shoko's past all-Kivotos Gehenna ambition is explicitly something she 'heard'; her two-year opportunity-loss assertion lacks a measured basis (u:0040-0062). Her present totalizing aim is direct speech, yet an evasive reply to Chiaki's post-conquest question does not verify that attack itself is her secret objective. Phone correspondent/content and broadcast operator remain unidentified (u:0015-0018/u:0073-0089). No durable claim ID/frozen prediction/held-out diagnostic; 410/480, E009 unopened.
+
+
+## S2 V002 C002 E009 claim revision delta
+
+Satsuki's firsthand claim that she and Makoto disposed of incomplete old NK Ultra materials is a distinct provenance route, not an inspected destruction record or exhaustive proof no copies survived (scene:001:u:0039-0056). Her reasoning from that claim to an external operator is explicitly conditional and cannot exclude a Gehenna insider. The Emperor-venerating network and vanished officers as its managers are unlocated suspicions with no captured trail (u:0053-0060). Forced brainwave fixation/binaural beats are untested working hypotheses; narration confirms the planned experiment was not performed (u:0023-0028/u:0061-0064). Do not fill the unfinished old-bureau member reference at u:0041 with a guessed name. No durable claim ID/frozen prediction/held-out diagnostic; 411/480, E010 unopened.
+
+
+## S2 V002 C002 E010 claim revision delta
+
+Sensei briefs a cross-group coalition, but the narrated account and listeners' brainwashing questions do not independently verify NK Ultra's precise action or population (scene:001:u:0024-0034). Satsuki explicitly predicates her wave-cancellation idea on forced frequency synchronization; the original frequency is unknown and no measurement or cure test occurs (u:0066-0077). Chiaki's direct knowledge that Makoto used broadcast-room equipment yields a specific evidence route, not confirmation the room contains a usable trace or was the signal source. Satsuki's carrier-wave extractor requirement is incomplete in the printed sentence (u:0078-0094). The tag `イオリ` at u:0012 conflicts with committee-side wording; do not use it for Iori's self-description. No durable claim ID/frozen prediction/held-out diagnostic; 412/480, E011 unopened.
+
+
+## S2 V002 C002 E011 claim revision delta
+
+Iroha explicitly says she has not returned to Pandemonium despite keeping an armband, and conditions rejoining on Makoto becoming himself again; this supports the practical E005 break but leaves formal status unresolved (scene:001:u:0015-0027). Ibuki's report of absent attention is direct first-person experience, not a comprehensive welfare audit (u:0028-0040). The log/unknown-voice intercut makes a past Ibuki switch, Makoto pain, year repetition and Emperor conflict narratively salient, but supplies no speaker/date/device provenance or school record; headache co-occurrence is not a measured causal test (u:0089-0096). Makoto's subsequent affirmation of Ibuki's desire is local, not proof NK Ultra has ended (u:0097-0110). No durable claim ID/frozen prediction/held-out diagnostic; 413/480, E012 unopened.
+
+
+## S2 V002 C002 E012 claim revision delta
+
+The broadcast building has directly observed guards and a denied entry, but no inspected room/device, access order or identified signal. Satsuki/Iori's conclusion that informed sabotage explains security remains circumstantial, not a revealed perpetrator (scene:001:u:0001-0036). Hina's claimed authority to punish absent Prefects is not checked against an order, and no penalty occurs (u:0083-0121). Her discomfort on recalling Emperor-era freedom is observed, but the cause and any NK Ultra reversal are untested (u:0130-0155). She says she was told Sensei supports dissenters, with source unknown, and announces intended 'protection'; no custody is yet shown (u:0162-0176). No durable claim ID/frozen prediction/held-out diagnostic; 414/480, E013 unopened.
+
+
+## S2 V002 C002 E013 claim revision delta
+
+E012's stated 'protection' is now actual confinement: Sensei reports a cell and complete separation from outside (scene:001:u:0001-0002). Makoto says he consented after hearing the concern; Shoko independently identifies herself as the adviser who proposed confinement to both Makoto and Hina (u:0003-0008/u:0060-0062). This supports custody-decision provenance, not broadcast operation or a written authorization. Makoto's pain when reminded of earlier freedom is observed, without verified mechanism/recovery (u:0017-0020). Shoko's efficiency payoff and claim that no one can reach all students are arguments, not measured outcomes; Sensei's wrong-choice/self-forgiveness account is interpretive rather than diagnostic (u:0028-0070). No durable claim ID/frozen prediction/held-out diagnostic; 415/480, E014 unopened.
+
+
+## S2 V002 C002 E014 claim revision delta
+
+Chinatsu/Iroha say Sensei anticipated capture and delegated roles; this is retrospective testimony about an off-page plan, not printed instructions from him or proof leadership relaxed (scene:001:u:0001-0041). Fuuka's three-day ration demand and constraints are operator testimony; her intent to impede supplies is direct. Makoto reports output halved, and Ako's sabotage attribution is supported by intent but not an independently decomposed output audit (u:0042-0125). Ako's weeks/months delay is conditional forecast, while her social-media suppression account lacks logs (u:0145-0153). Makoto claims he remembers a chemical shell design capable of destroying D.U. center, and orders reconstruction; no plan, shell, output or blast test is inspected. Shoko says she had not known of it (u:0154-0174). No durable claim ID/frozen prediction/held-out diagnostic; 416/480, E015 unopened.
+
+
+## S2 V002 C002 E015 claim revision delta
+
+Satsuki's newly reported remote-control link from central command to the broadcast room creates an operational obstacle, but its discovery route and automatic shutoff behavior are uninspected (scene:001:u:0014-0045). Erika's direct-transmitter bypass is an informed feasibility claim based on remembered equipment, not a successful test (u:0069-0080). Chiaki's chemical-shell report derives from the E014 plan; Satsuki confirms she and Makoto saw old materials, strengthening possible knowledge provenance without proving current design, manufacture or destructive scale. 'Soon' is urgency assessment, not scheduled attack (u:0081-0104). The unnamed 'other side' to be contacted is unresolved (u:0110-0113). No durable claim ID/frozen prediction/held-out diagnostic; 417/480, E016 unopened.
+
+
+## S2 V002 C002 E016 claim revision delta
+
+E013's completed jail custody is now breached by a directly observed Hot Spring Club tunnel and Kasumi's contact with Sensei, but safe exfiltration and escort handoff are still unshown (scene:001:u:0001-0021). The junior Prefect diversion begins, while the technical branch remains a plan. Iroha explicitly names three possible failure points: signal mismatch, transmission failure or faulty theory (u:0022-0083). Her report that Hina remains in the main building is a current operational observation, not proof she has not detected the broadcast work. Iori's manageable-enemy assessment is local and short-lived (u:0084-0093). No durable claim ID/frozen prediction/held-out diagnostic; 418/480, E017 unopened.
+
+
+## S2 V002 C002 E017 claim revision delta
+
+Sensei's arrival at the confrontation confirms the immediate tunnel rescue reached the operation, extending E016's cell contact; lasting safety remains open (scene:001:u:0077-0090). Hina's pain when confronted with her earlier freedom-protecting boundary is observed, but no measured mind-control reversal or settled political change occurs (u:0025-0042/u:0060-0076). Ako's claim that external enemies make Hina happy is her normative/causal view, not tested welfare evidence (u:0043-0054). Shoko explicitly names the Thunder Emperor as the will/history she wants restored, upgrading ideological-provenance evidence without proving she operated the broadcast or holds weapon designs (u:0118-0135). No durable claim ID/frozen prediction/held-out diagnostic; 419/480, E018 unopened.
+
+
+## S2 V002 C002 E018 claim revision delta
+
+Shoko answers yes to the direct mastermind/brainwashing accusation and describes her Emperor-revenge purpose, changing technical perpetration from unsupported suspicion to organizer-level self-incrimination. Installation, signal production and collaborator details remain unprinted (scene:001:u:0001-0050). Counterbroadcast and acute pain are observed; Shoko's claimed mental-destruction failsafe has no independent device record, and later recovered speakers contradict inevitability of ruin for those shown (u:0091-0159/u:0211-0292). The precise interaction of Satsuki's signal, Makoto's will/speech and original control is not isolated. Shoko's later admission of slowly steering Mayumi/Karen is interpersonal manipulation, not proof the committee was broadcast-exposed (u:0293-0313). Narration closes the NK Ultra incident locally, not every injury or weapon audit (u:0318-0320). No durable claim ID/frozen prediction/held-out diagnostic; 420/480, E019 unopened.
+
+
+## S2 V002 C002 E019 claim revision delta
+
+The E018 local reversal now has independent aftermath testimony from students A/B that they felt an unbidden duty to fight and no longer do, while A's sound anxiety and missing ammunition show unresolved effects (scene:001:u:0001-0019). Hina's public refusal of a brainwashing excuse is a moral stance, not proof she was not coerced. Her proposed resignation meets Makoto's refusal; actual transfer of authority does not occur (u:0020-0064). Makoto's `白紙撤回` is direct cancellation of the combat plan, stronger than an intent; his `返還` is a future promise, not returned property or a disarmament inventory (u:0065-0076). Ako's later repair, disciplinary and missing-equipment list confirms open administrative work (u:0128-0139). Chiaki's 0.3% rating is an unverified report. Satsuki's freedom-culture explanation and Makoto's felt supporting presence are interpretations; neither isolates the counterbroadcast's mechanism or establishes a universal mental cure (u:0140-0236). The group photograph is offered and assembled, without a confirmed captured image. No durable claim ID/frozen prediction/held-out diagnostic; 421/480, E020 unopened.
+
+
+## S2 V002 C002 E020 claim revision delta
+
+Haruna/Akari directly acknowledge and apologize for their coercive ration/surveillance conduct, while Fuuka calls them victims of Emperor influence; responsibility and victimhood are character positions, not an official disposition (scene:001:u:0018-0053). Akari's wish to build immunity through mental strength is untested. Sena repudiates her earlier war-as-medicine speech and proposes a joint Prefect/Emergency Medicine inspection; no inspection, patient census or findings occur (u:0055-0088). Meg reports that the Gehenna-service urge has fallen away and voices her own club preference, yet this cannot establish all former exposure effects are gone. Kasumi calls the map insignificant; this does not erase Shoko's E006 steering evidence (u:0089-0126). Kasumi recognizes a pattern and names Bodensatz, but she offers no independent sighting, document or known membership in this unit (u:0127-0139). No durable claim ID/frozen prediction/held-out diagnostic; 422/480, E021 unopened.
+
+
+## S2 V002 C002 E021 claim revision delta
+
+Hina's private confession adds felt pleasure in violence to her E019 public accountability, without proving that control was absent or predicting her future disposition (scene:001:u:0009-0027). Shoko expressly refuses to apologize or reject her order ideal, despite the E018 defeat. Sensei's sweets and waiting are pastoral conduct, not pardon or completed atonement (u:0055-0076). Shoko's direct claim that Arashi found, educated and assigned her materially upgrades origin/tasking provenance beyond Kasumi's E020 Bodensatz suspicion; no record independently verifies group structure or equates those names (u:0077-0079). Hina/Makoto add prior knowledge and Emperor-legacy interpretation, without direct sighting of surviving operators or a forensic chain (u:0086-0095). Hina's internal-artifact removal assessment is unitemized; Makoto's qualified Ibuki “true legacy” line establishes a lead, not a mechanism, danger or complicity (u:0096-0102). No durable claim ID/frozen prediction/held-out diagnostic; 423/480, checkpoint next.
+
+
+## S2 V003 C001 E001 claim revision delta
+
+The ball's braided rope and `S.O.S.` inscription are directly observed, but its sender, age, drift path and emergency status are unknown. Arona's rescue conclusion is an inference moderated by Sensei's request for checks (scene:001:u:0035-0050). The council-president claimant asserts exclusive Odysseia supply for blue rope and cites a monkey's-fist knot, yielding her likely-origin assessment, not independently verified provenance. She herself says distress is not certain (u:0051-0060). Her main-fleet distance, travel time, two-year custom and isolation account lack a printed position fix or primary school record (u:0061-0070). She dictates an all-fleet return order over a claimed special council channel; no actual transmission, receipt, compliance or authenticated presidency is established. Sensei accepted investigation, not explicitly the larger recall (u:0071-0076). No durable claim ID/frozen prediction/held-out diagnostic; 424/480, E002 unopened.
+
+
+## S2 V003 C001 E002 claim revision delta
+
+Olympos now directly docks, upgrading E001's dictated recall to observed flagship return, with no evidence that every ship obeyed (scene:001:u:0055-0070). Mai's four-month timeframe and school silence are her public report; her claim that Sensei requested a visit is a rumor, while his E001 request was to investigate the rope ball (u:0002-0022). The claimant's promise of an interview is not a completed interview. Her first/second Odysseia-visit correction is printed but its cause is unproved (u:0023-0054). Her mooring-load and institutional-jurisdiction account is testimony, not a load reading or proof of harmful conditions (u:0061-0067). Sumika's prior firing/discipline account is not audited. The claimant thanks Minato for agreeing to an unreasonable request; that reinforces the flagship's recall connection but not transmission details or presidential authentication (u:0071-0125). No durable claim ID/frozen prediction/held-out diagnostic; 425/480, E003 unopened.
+
+
+## S2 V003 C001 E003 claim revision delta
+
+The group actually tours multiple Odysseia ships, but Minato's universal-guest-tradition and club-vessel ownership accounts are not cross-checked (scene:001:u:0001-0038). A visible aquaculture facility strengthens food-production plausibility; long-voyage sufficiency, nutritional checks and dessert black-market rates remain Minato/Sumika testimony without ledgers (u:0039-0057). Students report a whistle and Minato calls it taboo, while the action and any maritime effect remain unprinted (u:0058-0073). Minato alleges rogue cruise vessels impose clothing and gouge customers; Mitsuki claims Island approved her own swimwear uniform and promises perfect satisfaction. No operator identification, policy document or survey appears (u:0074-0111). Mitsuki offers a ship wager and contract, not accepted; Ami's Golden Fleece loss claim is disputed (u:0112-0125). `Rabbit` is a spoken taboo by their account, with no observed causal force (u:0126-0134). Council-room inquiry and dinner remain ahead. No durable claim ID/frozen prediction/held-out diagnostic; 426/480, E004 unopened.
+
+
+## S2 V003 C001 E004 claim revision delta
+
+E003's dinner invitation becomes a directly consumed seafood-curry meal. Curry-on-arrival tradition, leftover use and a black-uniform enlistment anecdote are speaker accounts (scene:001:u:0002-0042). Minato's taboos-as-safety argument gives proposed origins for upright-drowning rescue, whistling and rabbit-word avoidance, while admitting fish-turning origin is unknown. No manual, hazard measurement or causal outcome verifies the examples, and Sensei identifies new-case limits (u:0062-0084). Minato's direct maker/loss testimony and identification of Sammy's toy substantially lowers E001's active-distress hypothesis; Sammy's reaction is consistent but does not explain the `S.O.S.` inscription or establish an independent object chain (u:0085-0105). The all-fleet recall's scope and any other Odysseia issue remain open. No durable claim ID/frozen prediction/held-out diagnostic; 427/480, E005 unopened.
+
+
+## S2 V003 C001 E005 claim revision delta
+
+Minato's first-person maker/use account now explains `S.O.S.` as the nickname `Sammy, O Spoudeios`, giving a coherent non-distress account of this rope ball and reducing E001's emergency hypothesis. The inscription and drift are not independently dated, and no fleet-wide welfare conclusion follows (scene:001:u:0001-0017). Sammy's age is based on records said to exist, while hypertension/arthritis are a secondhand medical director report and leg dragging/falls/coughing are Ami/Minato observations, with no clinical chart inspected (u:0018-0043). A student's “three storms” and cat-weather associations are unverified and noncausal as printed. Students' comparative shore/ship treatment predictions are arguments, not outcomes (u:0044-0064). Minato's lack-of-precedent account sets an institutional impasse. The claimant's week-long inquiry is an actual stated deadline, not a finished decision or treatment (u:0065-0094). No durable claim ID/frozen prediction/held-out diagnostic; 428/480, E006 unopened.
+
+
+## S2 V003 C001 E006 claim revision delta
+
+The cough and squall occur in sequence, but no mechanism links Sammy to weather; student A/B worry shows the taboo's effect on interpretation (scene:001:u:0008-0026). Mitsuki's automatic-pistol Russian-roulette statement is a direct threat, not a wager accepted, shot fired or completed sanction. Loading members' cat-bad-luck claim is constrained by narration explicitly identifying reflexive association (scene:002:u:0002-0025). A wet soapy deck, Sammy's slip and Sumika's near fall provide concrete immediate hazard context. Sumika credits Sensei with preventing her fall, and Sensei reports back pain/lost strength. No clinician, imaging, neurological exam, medical transfer or later course appears here (scene:003:u:0023-0037). No durable claim ID/frozen prediction/held-out diagnostic; 429/480, E007 unopened.
+
+
+## S2 V003 C001 E007 claim revision delta
+
+E006's back symptoms now receive an on-page physician diagnosis of lumbar sprain and a conditional few-day rest forecast, not a documented recovery (scene:001:u:0002-0019). Sanae's direct warning about Sammy's blood pressure and possible dizziness strengthens E005's secondhand medical lead without printing measurements; her ship-environment risk and “could worsen anytime” are professional assessment, not a comparative care trial (u:0027-0039). Sumika's fear of vice-leader reporting does not prove a sanction or even an inspected report, and u:0024 has speaker drift (u:0020-0026). Sanae rejects confident inference about Sammy's wishes but offers no direct preference-reading method; the ship/shore question stays open (u:0037-0047). The claimant says her injury news came from overheard students, then forecasts Island needs help; neither a council report nor actual trouble is shown (u:0048-0059). No durable claim ID/frozen prediction/held-out diagnostic; 430/480, E008 unopened.
+
+
+## S2 V003 C001 E008 claim revision delta
+
+Ami's report that Sammy's bad-luck reputation is worsening after Sensei's injury is an on-page social observation, not evidence of cat-caused harm (scene:001:u:0001-0014). Minato explicitly recognizes obsolete taboos and explains why the sea's uncertainty encourages simple blame, limiting E004's taboos-as-safety claim. Sensei's public correction proposal is not enacted (u:0030-0064). Minato's first-year toy memory further supports her maker testimony without an inspected object chain (u:0065-0070). The claimant's hygiene-order offer has no printed inspection, formal authority proof or actual removal; Minato's verbal assent does not complete it. Claimant identity remains contested, and a false/instrumental hygiene ground is a material possibility from her proposal as worded (u:0071-0087). No durable claim ID/frozen prediction/held-out diagnostic; 431/480, E009 unopened.
+
+
+## S2 V003 C001 E009 claim revision delta
+
+E008's verbal assent has become a school-wide removal decision by narrator report, but no administrative notice, actual handover or treatment is printed (scene:001:u:0001-0016). Students' statement that the claimant ordered land treatment is rumor-level and differs from E008's hygiene pretext. Mixed reactions and nondefiance are observed, while future unity is unknown. Farewell gifts are offered then pared back by students, not a completed transfer inventory (u:0017-0047). The claimant's claim she intentionally took blame is supported by narrated hostile looks and her account, but her hoped-for reform of authority habits is not measured (u:0048-0086). Her inability to imagine a nonpresidential ordinary life is self-report, not authentication of presidency or a fixed future. Sammy's move remains projected for a later day (u:0087-0107). No durable claim ID/frozen prediction/held-out diagnostic; 432/480, E010 unopened.
+
+
+## S2 V003 C001 E010 claim revision delta
+
+E008's proposed removal and E009's public decision now have narrated formal procedures, exchanged documents and readiness, but no document text, hygiene inspection, legal authentication, carer or completed transfer (scene:001:u:0001-0003). E009's no-defiance snapshot is qualified by Minato/Ami reports of minor disruptions and directly observed students concealing Sammy during capture, without proof of a durable anti-transfer movement (scene:002:u:0002-0015, u:0056-0081). Sammy's escape, familiar route use and approach to Minato are actions; understanding the transfer, treating it as play, and worrying about Minato are participant interpretations. Minato's fall is shown, recovery is not (u:0016-0126). No durable claim ID/frozen prediction/held-out diagnostic; 433/480, E011 unopened.
+
+
+## S2 V003 C001 E011 claim revision delta
+
+E010's exchanged documents did not include a completed handover signature: the claimant explicitly requests that unsigned form after the chase (scene:001:u:0012-0014). Minato asks to cancel the transfer and claimant agrees, but no formal rescission/notice or veterinary arrangement is shown (u:0015-0045). Minato says she is physically all right after falling and Sammy is present, but this is an immediate observation and self-report (u:0002-0011). Her first-voyage analogy and claim Sammy worried for her are interpretive. The later physician call disconfirms Sensei's apparent happy-ending expectation, reports a critical night without a diagnosis and supplies no causal link between cancellation and illness (u:0022-0035, u:0056-0073). No durable claim ID/frozen prediction/held-out diagnostic; 434/480, E012 unopened.
+
+
+## S2 V003 C001 E012 claim revision delta
+
+Sanae's reported measurements and critical prognosis substantiate serious current illness, but suspected kidney-to-hypertension-to-heart sequence is clinical inference without chart or treatment result (scene:002:u:0002-0010). Her warning about multifactorial decline rebuts Minato's single-cause self-blame and any unsupported claim that chase, transfer reversal or taboo breach caused it (u:0011-0017). Ami's all-ship-cats-ashore history is asserted, not audited (u:0018-0024). Minato's remembered Sammy preferences support her rationale without proving present welfare under critical illness. The 06:00 departure, student opt-out, departmental checks and post-voyage objection process are announced, not executed (u:0032-0054). No durable claim ID/frozen prediction/held-out diagnostic; 435/480, E013 unopened.
+
+
+## S2 V003 C001 E013 claim revision delta
+
+E012's announced departure becomes actual Olympos sailing beyond the breakwater (scene:002:u:0002-0013). Mai's earlier Island-alone report is a timed pre-departure tip, later qualified by visible/radio requests from Golden Elysium and Rhodes; additional clubs request permission but exact fleet turnout is not shown (scene:001:u:0001-0014; scene:002:u:0017-0043). Mitsuki's no-complaint wager is untested, and the port-purpose report lacks the written notice. Sammy's narrator-framed final eye-closing strongly implies death, without exact time, clinical declaration or cause adjudication (u:0044-0055). No durable claim ID/frozen prediction/held-out diagnostic; 436/480, E014 unopened.
+
+
+## S2 V003 C001 E014 claim revision delta
+
+E013's narrator-framed final voyage is followed by E014's roughly half-month-after-departure return and explicit mourning, confirming Sammy's absence/death in narrative context without a clinical postmortem (scene:001:u:0001-0012, u:0047-0057). Sumika reports no known storms or major injuries but disclaims a complete incident audit, limiting any claim that taboo breach is universally harmless (u:0028-0032). Minato's 'best way' and 'everyone satisfied' are personal assessments; practical grieving and continuing right-foot custom show partial rather than complete change (u:0033-0062). The claimant's 'not the real captain' is unexplained testimony, not a verified replacement identity or invalidation of observed command (u:0085-0093). No durable claim ID/frozen prediction/held-out diagnostic; 437/480, backfill E001 next.
+
+
+## V001 C003 E001 backfill claim revision delta
+
+Francis's Gematria-collapse and Sensei-bent-genre claims, and the Dweller's updated RULE BOOK and ancient-Abydos claims, are character testimony, not independently verified world mechanics (scene:001:u:0001-0062). Yume's costly buried-fireworks lead is an uninspected report; the search fails and no mineral is recovered (u:0063-0112). Ayane and Serika support observed Kaiser excavation retreat while debt persists; Ayane reports a 45% securitization, 200-450% price escalation and Nephthys Group purchase, without contracts/order book or proof of altered debtor terms (scene:002:u:0036-0104). The juxtaposed Dweller threat is not a causal bridge to market events (u:0105-0109). No durable claim ID/frozen prediction/held-out diagnostic; 438/480, E002 unopened.
+
+
+## V001 C003 E002 backfill claim revision delta
+
+The Highlander document is only identified by a sales-contract/Abydos heading, with parties and terms unseen (scene:001:u:0001-0022). Nonomi directly confirms family operation of Nephthys, but her agency in its new purchase is unshown. Nephthys/Abydos decline history is participant testimony, and speaker drift limits individual assignment in the retrospective/current transitions (u:0023-0110). Ayane recaps 45% debt sale at four-to-fivefold price and reports facility/infrastructure/development rights excluding land; trans-desert railway is Nonomi's category inference, not a named deed. Buyer purpose, debt effect and exact title remain open (u:0111-0138). Explosion and unfamiliar uniforms are detected, but source/target/group identity is not yet established (u:0139-0151). No durable claim ID/frozen prediction/held-out diagnostic; 439/480, E003 unopened.
+
+
+## V001 C003 E003 backfill claim revision delta
+
+The E002 blast is locally explained by Highlander rock clearance; the repaired train moves in a test, not proof of full-line safety (scene:001:u:0001-0009). Nozomi's CCC majority/ownership claim is self-qualified and unsupported by a register. The administrator explicitly notes missing permission and contract, and Ayane demands a halt (u:0010-0043). Highlander/Schale rumors are not independent evidence; the train escape and local defeat are shown without an injury/custody audit (u:0044-0069; scene:002:u:0001-0007). Suou's Nephthys-partnership/development-right assertion is contested by Ayane and deferred to a future formal explanation, not a viewed agreement (scene:002:u:0008-0049). No durable claim ID/frozen prediction/held-out diagnostic; 440/480, E004 unopened.
+
+
+## V001 C003 E004 backfill claim revision delta
+
+The scammers themselves admit no wage funds, grounding deception, while the 90-hour offer and Hoshino's downstairs defeat are participant accounts rather than complete employment/combat records (scene:001:u:0001-0029). Yume's aid ethic is direct; Hoshino's universal distrust is an angry proposal, not a proven later policy (u:0030-0063). Hoshino predicts a Nephthys-funded payoff would amount to corporate ownership in others' eyes; no automatic title transfer or actual payoff is printed (u:0064-0116). Nonomi's Yume disappearance/found report is incomplete and secondhand; cause, first discoverer and timeline are not established (u:0117-0150). Ayane's Highlander structure summary retains her stated uncertainty, while Suou's arrival fulfills only a meeting promise (u:0189-0216). No durable claim ID/frozen prediction/held-out diagnostic; 441/480, E005 unopened.
+
+
+## V001 C003 E005 backfill claim revision delta
+
+Nephthys-as-buyer and many investors reconcile through representative/executive private-fund testimony, not a complete investor ledger. One representative self-admits stolen-goods history, not collective guilt (scene:001:u:0041-0060). A certificate copy is physically presented and Ayane accepts creditor standing, a stronger local evidentiary step but not full title/permit audit (u:0061-0078). Investors' all-rights aim is future, current development rights are asserted, and local construction consent remains unshown (u:0079-0106). Committee authority is directly asserted by Ayane/Hoshino and affirmed by Sensei, with old registry mismatch open (u:0107-0132). Yume-name paper is introduced without contents or authentication (u:0133-0137). No durable claim ID/frozen prediction/held-out diagnostic; 442/480, E006 unopened.
+
+
+## V001 C003 E006 backfill claim revision delta
+
+The document now directly prints seller/buyer, facility-use right, 1m price, 10k immediate, two-year balance and late-damages terms; Hoshino personally recognizes handwriting. Earlier rights-sale history, initial payment and remaining balance still rely on representative statements, with no complete deed/payment ledger (scene:001:u:0001-0030). The investor's automatic-expiry and attendance requirements are not among quoted clauses, so remain legal claims; no cancellation is signed (u:0031-0071). Hoshino reports Yume found 33 days after disappearance with halo destroyed, 'accident' as apparent explanation, while admitting unknown desert purpose/circumstances. Same-day contract/disappearance does not establish time order or cause (u:0084-0158). No durable claim ID/frozen prediction/held-out diagnostic; 443/480, E007 unopened.
+
+
+## V001 C003 E007 backfill claim revision delta
+
+Hoshino's cash-truck line is diversion, not a real robbery target; her promise to return tomorrow is relayed by Shiroko, not yet fulfilled (scene:001:u:0001-0040). Nephthys company existential risk and Nonomi unspecified past 'damage' are the executive's claims; tomorrow visit/card swap are plans (u:0041-0074). Ayane explicitly qualifies her malicious-intent intuition as perhaps information scarcity. The Dweller four-method boast supports intent, not proof it caused the financial chain or Yume loss (u:0075-0120). Plana reports actual gas-system distortion with no scheduled work, strongly concerning but without demonstrated perpetrator, leak, exposure, injury or mechanism; the Dweller physical-limit line is juxtaposition (u:0121-0167). No durable claim ID/frozen prediction/held-out diagnostic; 444/480, E008 unopened.
+
+
+## V001 C003 E008 backfill claim revision delta
+
+E007 gas-system anomaly is followed by a Schale explosion and Dweller reaction, strongly suggesting attack, but no direct culprit action, ignition trace or full damage/medical outcome is printed. Plana's immediate protection succeeds by her statement while she and Sensei lose consciousness (scene:001:u:0001-0030). Hoshino only intends to return; Abydos does not yet know the explosion (u:0031-0045). The earlier petition scene shows Yume publicly seeking signatures and Hoshino repelling a present threat. Helmet Gang nonpayment accusation is actor claim, and Yume's force-cycle argument is ethical reasoning rather than a measured security result (u:0046-0131). No durable claim ID/frozen prediction/held-out diagnostic; 445/480, E009 unopened.
+
+
+## V001 C003 E009 backfill claim revision delta
+
+Yume directly reports an informal show-of-hands appointment, all earlier officers' departure, voluntary acceptance and disappointment in presidential power; no election record or statutory authority is inspected (scene:001:u:0028-0041). Hoshino's line that the preceding council sold valuable exhibits is judgment, not inventory (u:0010-0013). Historical joining and mutual-protection exchange support a two-person council at that time, while the prior E005 Hoshino-only old roster and E006 Yume-name contract still lack a full dated registry/authorization chain (u:0110-0155). Yume's present cabinet appears empty, Hoshino's has maintained equipment; neither finding proves contract/notebook destruction or explains Yume's loss (u:0175-0198). No durable claim ID/frozen prediction/held-out diagnostic; 446/480, E010 unopened.
+
+
+## V001 C003 E010 backfill claim revision delta
+
+Hoshino now gives a first-person account of the quarrel, her departure, failed search, discovery after 33 days and missing notebook; the account increases the provenance of her memory, not a forensic cause finding (scene:001:u:0029-0072). She says Yume died of dehydration but separately marks the helpful errand, sandstorm and compass-loss route as `たぶん`/inference. Garbled Yume-attributed fragments mention these topics and notebook placement without recoverable coordinates, authentication or full text (u:0049-0055). The torn object after the poster dispute is unlabelled; the argument cannot be made cause of disappearance. Nonomi explicitly phrases Nephthys involvement as `もし`, not an accusation or evidence (u:0073-0075). E006 contract date remains same-day without time ordering. No durable claim ID/frozen prediction/held-out diagnostic; 447/480, E011 unopened.
+
+
+## V001 C003 E011 backfill claim revision delta
+
+The executive claims a secret Abydos/Nephthys train-gun plan, projected one-ton/500-km shot, failed engine, recent simulation, fund motive, designer rights and Yume agreement barrier. None is backed here by plans, simulations, instrument chain or physical gun; the E006 excerpt states facility-use rights only (scene:001:u:0030-0113). Railway predating weapon planning is his chronology, while Suou's debt-repayment purpose is inference. Kaiser interest and CCC ignorance are hearsay/inference. The repeated nonattendance-void rule is not a printed contract clause (u:0114-0123). Four-side blockade orders directly support organized obstruction but not claimed hundreds or complete closure (scenes:002-005). The pawnshop head's Gehenna Thunder Emperor provenance is a competing unverified assertion (scene:004:u:0004). Highlander/Nonomi and council-nullification routes are proposals, not executed legal changes (scene:005:u:0032-0061). No durable claim ID/frozen prediction/held-out diagnostic; 448/480, E012 unopened.
+
+
+## V001 C003 E012 backfill claim revision delta
+
+Shiroko reports knowing only her name at first meeting; Hoshino's amnesia label is his question, not medical evidence (scene:001:u:0002-0017). Hoshino's unbeaten one-on-one assertion and proposed enrollment terms are shown, but not the duel outcome or admission record (u:0068-0081). Shiroko admits scrap/truck taking; a dealer forgives this incident after apologies, with no displayed restitution or durable conduct change (u:0082-0115). Hoshino says Committee formed about a year ago; the photo exchange is recalled, not an inspected artifact (u:0116-0164). Hoshino acknowledges Yume-linked reluctance to become council president without making it sole cause; the group chooses contract continuation as a plan, not legal success (u:0165-0220). Broadcast reports Sensei injured and taken to hospital, upgrading E008 uncertainty but not providing medical detail or blast cause (u:0221-0234). No durable claim ID/frozen prediction/held-out diagnostic; 449/480, E013 unopened.
+
+
+## V001 C003 E013 backfill claim revision delta
+
+The executive directly states Nephthys planned to profit after Schale and investor soldiers fought, so E011 ally posture is contradicted by his own declared intention. Deployment, board authorization and gun title remain unverified (scene:001:u:0066-0093). He says Highlander presidency was a lie, assigns Nonomi a hostage role and orders ID/card seizure; only the orders and threat are printed, not completed confiscation or safe treatment (u:0111-0127). His demanded declaration that Yume/Hoshino council was unrecognized and contract void is a legal strategy, not established law or executed action (u:0120-0141). Earlier accusations of Nonomi causing Nephthys damage remain unitemized (u:0046-0064). Hoshino's solo-force posture and Shiroko's challenge have no outcome (u:0142-0180). No durable claim ID/frozen prediction/held-out diagnostic; 450/480, E014 unopened.
+
+
+## V001 C003 E014 backfill claim revision delta
+
+The current clash favors Hoshino by dialogue and Shiroko's fatigue, but no formal result or injury finding is printed (scene:001:u:0001-0010). Hoshino says Nonomi previously saved her; this is her own relational testimony, while preventing Nonomi from becoming an aggressor is an intended protection, not a current guilt finding (u:0011-0018). Hoshino expressly does not know Yume's reason for the contract or her gun knowledge. Her claim Yume would halt it is counterfactual, and her `Committee unrelated` stance is personal responsibility framing rather than legal status (u:0019-0034). Shiroko/Ayane/Serika challenge unilateral departure, with fight and rescue outcomes pending (u:0035-0055). No durable claim ID/frozen prediction/held-out diagnostic; 451/480, E015 unopened.
+
+
+## V001 C003 E015 backfill claim revision delta
+
+The intervention has failed by Ayane's direct statement; Hoshino says three helicopters were hard to handle gently, but no full combat sequence, casualty diagnosis or damage inventory is printed (scene:001:u:0023-0032, u:0050-0060). Hoshino's `gun gone solves all` is forecast, not proven solution to creditor debt or Nonomi custody (u:0033-0045). Her announcement that the historic council dissolves today asserts an ending, not that it was never legitimate or that registry/contract effects follow; executive E013 seeks retroactive nonrecognition instead (u:0046-0049). Ayane now states contract anniversary is exactly two years and shares Yume disappearance date, but no balance/payment ledger or automatic expiry clause appears (u:0061-0065). No durable claim ID/frozen prediction/held-out diagnostic; 452/480, E016 unopened.
+
+
+## V001 C003 E016 backfill claim revision delta
+
+Suou directly alerts creditors to Nephthys betrayal and reinforcement orders follow; neither final allegiances nor completed mine/barricade deployment are shown (scene:001:u:0001-0029). A doctor says Sensei has no wounds after explosion, stronger than broadcast injury wording, but requested examination and medical chart are absent (u:0030-0036). Ayane's account of what Hoshino will declare/do is a prediction, not observed action (u:0052-0059). Three present students support Ayane in a hand vote witnessed by Sensei, establishing internal election act. The 60% denominator, voting sufficiency and adviser legitimacy remain character claims without charter/registry (u:0111-0140). Ayane's merger and Hoshino secretary assignment are declared internally; her claim that Hoshino contract talk lacks effect has not been adjudicated by creditors (u:0141-0174). No durable claim ID/frozen prediction/held-out diagnostic; 453/480, E017 unopened.
+
+
+## V001 C003 E017 backfill claim revision delta
+
+Dweller's third emotional-chaos method is self-proclaimed strategy, not attribution of Nephthys, Yume or Kaiser actions; narrator explicitly calls in-story legal interpretations fictional (scene:001:u:0001-0010). Sensei reports Nonomi's station location without source method; rescue is unexecuted (u:0011-0018). Ayane's sector threats mix observed route planning with likely equipment, numerical and tactical judgments (scenes:002-006). West guards directly confirm Hoshino; pilot reports AGM-114 hit and guards later see her under helicopter, establishing continued action but not precise injury (scene:007:u:0002-0022). Kaiser PMC soldier says gun was always theirs, another unverified title claim beside Nephthys/fund/designer claims (u:0023-0036). Ayane's 600→750m report shows pursuit gap, not capture (scenes:009-010). No durable claim ID/frozen prediction/held-out diagnostic; 454/480, E018 unopened.
+
+
+## V001 C003 E018 backfill claim revision delta
+
+Executive explicitly admits a hidden Kaiser/Nephthys transaction behind debt transfer, but no terms/title instrument appear. Suou's former PMC membership is President's claim confirmed as past by her (scene:001:u:0001-0028). President's new gun interest contradicts executive's earlier Kaiser-indifference inference; claimed Thunder Emperor origin/performance remain untested (u:0029-0047). President offers three outcomes and noon expiry, none quoted in E006's facility-use excerpt; fund motive concealment is conjecture (u:0048-0090). He pressures investors to sign 1,000-yen acquisitions and declares them subsidiaries, but signatures/registry are unprinted (u:0091-0113). PMC area reports and Hoshino-standing/General-groaning support operational gains without full injury/capture details (scenes:002-006). No durable claim ID/frozen prediction/held-out diagnostic; 455/480, E019 unopened.
+
+
+## V001 C003 E019 backfill claim revision delta
+
+PMC gives approximate 480-km and exact sector 35-9 gun coordinates, a reported location not direct physical confirmation; E009 historical search at sector does not prove Yume knowledge (scene:001:u:0001-0009; scene:002:u:0016-0017). President says he now represents the fund, but E018 signatures/registry remain unprinted (scene:003:u:0008-0016). Hoshino begins declaring old council unauthorized, yet is interrupted before her contract-effect sentence; Nonomi's withdrawal statement is not formal (u:0017-0047). Ayane/Sensei assert new president/merger/secretary authority, supported by internal vote but not external recognition (scene:004). At noon President unilaterally closes assembly, denies Ayane voice and says Kaiser always owned gun, contradicting his earlier conditional scenarios without a deed or ruling (scene:005). Final reunion does not settle custody/title (scene:006). No durable claim ID/frozen prediction/held-out diagnostic; 456/480, E020 unopened.
+
+## V001 C003 E020 backfill claim delta
+
+E013's order to take Nonomi's ID/card gains direct confirmation only when Suou displays her card (scene:001:u:0010-0012). President/Suou claim that this card satisfies Nephthys authorization for entry to Student Council Valley, but no entry, system check or independent rule is shown (u:0013-0018). The President's roughly 800億円 valuation, damages and forced-labor threats lack appraisal or ruling (u:0019-0030). Hoshino's sector35-9/exhibition-hall recollection supports a location hypothesis, not gun inspection or Yume knowledge (u:0049-0057). Her assertion that contract noncontinuation nullifies Ayane's election/merger is contested, not adjudicated (u:0068-0076). Suou's operation threat and President's total-war order are future claims/actions, not achieved gun control (u:0045-0048,0085-0099). Speaker drift at u:0026-0030 and the unprinted cause of President/pilot distress block exact attack attribution. No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E021 backfill claim delta
+
+The sector35-9 clue gains a historical redacted-paper scene, which establishes Yume's interest in the exhibition and a failed search, not knowledge of the gun (scene:001:u:0064-0098). E019 location report/E020 Hoshino inference gain stronger present support when Hoshino sees the live station control, Valley destination and Nonomi administrator name (scene:002:u:0033-0042); no gun inspection occurs. The executive says Nonomi's card should restart trains at the branch, while Hoshino seemingly works a control without a card: credential mechanics remain unresolved rather than one claim cancelling the other (u:0043-0045). His account of Suou's pre-Highlander history/bodyguard prospect is secondhand and he disclaims knowledge of her identity/aims (u:0054-0065). Ayane's damages expectation and reinforcement timing are forecasts; creditor withdrawal is verbal, not documentary release (scene:001:u:0001-0009; scene:002:u:0009-0011). The post-helicopter respite has unprinted mechanics (scene:003:u:0001-0003). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E022 backfill claim delta
+
+The Highlander delay plan gains an immediate result: Kaiser troops are delayed, while Sensei/peers confirm they jumped clear unseen (scenes:001-002). Exact damaged vehicle, explosion mechanism and twins' final safety are not printed. E020-E021's Nonomi-card access claim gains an already activated administrator control room, but Ayane marks card use as probable and Nonomi marks Suou as inference, not observed login (scene:003:u:0009-0012). Two prior Valley-bound trains are logged; Hoshino passenger identification is Shiroko's inference, and the other passenger remains unverified in the log (u:0013-0015). Ayane's one-hour automatic route is control-system reading/plan; arrival and gun presence are not shown (u:0016-0028). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E023 backfill claim delta
+
+The train gun's presence at Valley is now supported by Hoshino's direct identification and Gehenna emblem observation (scene:001:u:0001-0005), but internals, operability and title remain uninspected. Suou's Thunder Emperor authorship/Gehenna history and Eden Treaty rumor are testimony, with her own admission of unknown motive (u:0013-0031). Her denial of a Yume link is not independent proof (u:0032-0040). Hoshino's claim that destroying the gun fulfills Yume's will is her inference, not Yume speech (u:0041-0044). Suou holds Nonomi's card but only asserts it is necessary for gun activation and destruction; no control test is printed (u:0045-0050). Her notebook-location offer is unverified (u:0058). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E024 backfill claim delta
+
+E023's single Hoshino gun identification gains multiwitness confirmation when Serika, Shiroko, Nonomi, Ayane and Sensei directly see the scale, Gehenna mark and surrounding guns at Valley (scene:001:u:0018-0041). Arona classifies the object as using technology absent from present Kivotos, perhaps ancient or equivalent, an assessment rather than construction record (u:0042-0046). Sensei's Gematria possibility is explicitly modal and not proof of authorship (choice:001). Plana says she senses ongoing observation, but observer identity/location/mechanism are not identified despite the nearby Dweller cut (u:0048-0058). Dweller's fourth 'small wound' method and sixth-rule forecast are self-description, not demonstrated injury cause (u:0009-0017). Shiroko recognizes Hoshino gunfire; fight outcome remains open (u:0059-0064). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E025 backfill claim delta
+
+Suou's E023 promised notebook location is materially weakened by her E025 response asking whether Hoshino really believed the notebook exists and noting its two-year absence (scene:001:u:0012-0015). This is retraction/unreliability of Suou's wager, not proof of nonexistence. Her statement that she cannot win and Hoshino's apparent upper hand do not establish formal capture, card handover or injury diagnosis (u:0001-0011). Hoshino predicts catastrophic chaos unless she destroys the gun; no actual firing or forecast test has occurred (u:0019-0028). Ayane's president title follows E016 internal vote, but its external legal effect remains disputed (u:0035-0044). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E026 backfill claim delta
+
+E025's threatened group capture attempt is now overtaken by four-student exhaustion and Hoshino's statement that she beat them four to one; the evidence supports immediate failed intervention, not diagnosed injury or permanent incapacity (scene:001:u:0001-0014). Hoshino predicts Shiroko alone cannot win, while Shiroko says she will not lose this time; neither forecast is tested before the cut (u:0012-0018). There is still no shown gun damage, card transfer, expulsion or contract ruling. No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E027 backfill claim delta
+
+Hoshino's `I killed Yume` is self-blame immediately qualified by her own accident/not-my-fault acknowledgment, not a homicide finding (scene:001:u:0040-0054). Her yes to going home is momentary before Dweller/Suou interrupt (u:0055-0088). Suou threatens to blow up Abydos, without a printed firing or card activation step (u:0069-0077). Arona assesses imperfect solar-temperature plasma and risk of widespread energy release from forced destruction, a modal technical warning not an observed blast (u:0089-0094). Plana directly identifies Dweller as Gematria, reports chaos-domain detection and attributes Schale explosion to him; detailed mechanism and his exact plan remain open (u:0114-0146). Dweller's 'miracle nullified' and sixth-rule claim are not independently demonstrated (u:0095-0113). Hina is directly present at branch, though earlier phone helper was unnamed (u:0155-0157,0169-0186). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E028 backfill claim delta
+
+E027's declared Hina/Hoshino confrontation becomes an active pursuit: Hoshino is winded, attempts evasion and Hina intercepts again (scene:001:u:0002-0023). Hoshino's thought that Hina reads every move is her tactical impression, not a proven ability. Her belief she shook Hina is immediately falsified by reappearance (u:0010-0023). Great Oasis carries an undisclosed significance for Hoshino, but the text gives no underlying event (u:0014-0016). The two raw `#timelineNS` directives are source-form scene controls, not narratorial claims. No completed fight, card change or gun operation. No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E029 backfill claim delta
+
+Hina says she has a connection to the Abydos problem; Hoshino guesses Sensei asked her, with no direct confirmation in E029 (scene:001:u:0009-0013). Hoshino's claim that this is only her problem restates her unilateral stance, not exclusive legal standing. She thinks the train may not endure and models Hina's objective/options, then intends to knock Hina off; these are her impressions and plan, not observed train failure or Hina intent (u:0015-0025). No fall or fight outcome is printed. `#timelineNS` and `#videons2` are raw media markers, not independent event descriptions. No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E030 backfill claim delta
+
+E025 Suou's notebook-existence taunt is narrowed by an earlier Yume-attributed message explicitly mentioning a notebook placed at a familiar prominent spot, but corrupted text hides the location and there is no physical recovery (scene:001:u:0025-0031). Hoshino's argument and Yume's later disappearance are directly sequenced; her belief she drove Yume away remains causal self-interpretation, not independent proof (u:0001-0045). Hoshino says she and Hina fell from the train, updating E029's uncompleted fall plan with immediate recollection rather than direct action print (u:0046-0050). Her oasis/gun destination is expectation based on Yume-linked place memory, not fresh inspection (u:0051-0058). Hina's Yume identification is direct speech without source of knowledge (u:0059-0066). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E031 backfill claim delta
+
+E029's unresolved train fight resolves to Hina's tactical win: Hoshino thinks she cannot move and Hina tells her she lost, but no medical/custodial end state is shown (scene:001:u:0001-0003). Hina directly confirms Sensei asked her, closing E027/E029 helper attribution (u:0004-0007). Her Gehenna inquiry account says Yume intended to preserve railway/reconstruction and died en route to pay the remainder in an accident; E006 facility-use excerpt/unpaid balance are replayed, but no bank/death file is displayed (u:0024-0045). u:0028 is Hoshino-tagged but speaks as Hina/Makoto. Earlier Black Suit debt-half recruitment is inferred historical from naming context, not new offer (u:0056-0075). Arona detects high gun energy; Plana senses Dweller near Hoshino; five-second collision is announced, not completed (u:0076-0093). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E032 backfill claim delta
+
+Hoshino's repeated `I killed Yume` is represented as a guilt spiral with counterfactual memory fragments and Dweller encouragement; it remains self-blame, not a homicide finding, and E027's accident acknowledgment remains relevant (scene:001:u:0037-0080). Dweller's assertion that even a found notebook cannot yield truth is philosophical/strategic speech, not a proven epistemic rule (u:0026-0036). Hina's hallucination thought is concern, not diagnosis (u:0017-0025). Serika/group witness blast and sky change without established cause (u:0081-0085). Ayane's report updates E031 imminent collision to a stopped gun; Suou is down by peer report, but mechanism, damage and final custody are unprinted (u:0086-0093). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E033 backfill claim delta
+
+Dweller admits train gun was bait and Hoshino his true target, a direct adversary confession now aligned with Plana's observation of reversal; total authorship of prior corporate actions remains unproved (scene:001:u:0001-0024). Plana names Horus/fear and world-collapse risk, not Hoshino medical death (u:0025-0030). Dweller's Set's-wrath, death/suffering equivalence and Black Suit world-extinction claims are his framing, with second figure still not securely identified at u:0054-0071. Plana offers halo destruction as her immediate remedy, while Sensei rejects it; neither a necessity proof nor an alternate cure is demonstrated (u:0072-0078). Color is detected, Sensei unconscious/unstable pulse, and soft voice unidentified (u:0090-0100). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E034 backfill claim delta
+
+E033's soft voice is now strongly linked by sequence to a Yume-labeled scene, yet Sensei's presence with young Hoshino makes this a vision/experience rather than proven historical visit or Yume resurrection (scene:001:u:0001-0033). The speaker's miracle statement is explicitly belief/wish, not guaranteed power. Sensei/Dweller exchange refutes Dweller's assertion the encounter was over; Plana reports a Color-powered forced transfer, with mechanics/outcome still open (u:0034-0040). Shared `シロコ` labels and self-identity wording support two-Shiroko intervention but block exact line-by-line attribution (u:0041-0064). No Hoshino recovery or Dweller defeat yet. No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E035 backfill claim delta
+
+E034's two-Shiroko inference is now direct: Plana tells the other-time-axis Shiroko that current-time-axis Shiroko summoned Color, and Arona confirms counterpart arrival after forced transfer (scene:001:u:0001-0027). This clarifies transfer target but not Color control or cost. Dweller's Anubis label for the counterpart and report that Set's wrath manifestation stopped support interruption of his planned second force, not defeat of Horus or complete restoration (scene:002:u:0004-0015). His fifth-method announcement is future threat, not implemented technique (u:0016-0020). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E036 backfill claim delta
+
+E033's no-return assessment is qualified when a Shiroko observes Hoshino not fully reversed and proposes a notebook-like last anchor; form identity/content and cure remain unverified (scene:001:u:0023-0039). The object's shape does not prove recovered physical Yume notebook. Plana estimates contact via pseudo Naram-Sin chaos condition before completion of reversal, with high computational cost/hibernation and no result yet (u:0043-0067). Speaker drift at u:0048-0055 constrains attribution. Sensei/group plan Chest proximity but the first reach yields `I can't do it`; no contact success is printed (u:0068-0084; scene:002:u:0001-0008). Counterpart/local voices differ over whether halo destruction is necessary; the debate is not adjudication (u:0001-0022). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E037 backfill claim delta
+
+Hoshino's narrator-form account of no water/compass/communication and bad weather is subjective reconstruction, not primary weather/device evidence; newer-phone and alternate-choice survival are counterfactuals (scene:001:u:0027-0035). Nonomi's reading of regret and Shiroko's `I would have died` are relational interpretations, not fully testable causal histories (u:0009-0026). Dweller's Set manifestation announcement and Arona's energy/no-defense warning establish imminent threat, not confirmed casualties (u:0083-0098). Sensei separates unknown notebook facts from a meaning Hoshino may choose to trust; that is not authentic text recovery (u:0099-0109). Hoshino's notebook/Yume-labeled encounter occurs in altered contact with no physical chain of custody (u:0110-0119). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E038 backfill claim delta
+
+E037's notebook encounter now presents a Yume-labeled `future Hoshino letter` with direct questions about third-year life, but paper authentication, historical composition and chain of custody remain unshown (scene:001:u:0001-0010). The responsive comfort dialogue could belong to the altered experience; do not treat every line as confirmed pre-death written text (u:0011-0049). Hoshino smiles and acknowledges pain, yet no exterior recovery from Horus reversal or world threat is printed. Yume's exhortation to protect juniors does not prove Yume prescribed gun destruction; it points to the living future (u:0041-0049). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E039 backfill claim delta
+
+E038's inward invitation now has external behavioral corroboration: Hoshino addresses both Shirokos and Hina and offers cooperation, but halo/reversal completeness and notebook provenance are not tested (scene:001:u:0001-0009). Dweller's analyzed six-person command ceiling and Set invincibility are adversarial assertions (u:0010-0023). Plana reports two-OS constraint release, authentication, connection and limited Peretz Uzza operation; her invincibility/twice-stronger estimates are not measured, and a higher command count is not demonstrated (u:0024-0042). Card recognition and panic do not establish Set defeat or casualty disposition (u:0052-0078). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E040 backfill claim delta
+
+The observed oasis lightning/lights are distinct from Hina's hypothesis that a rare metal makes plasma when stimulated and her price/tenfold-market claims; no assay, sale or inventory confirms them (scene:001:u:0001-0016,0023-0033). Hoshino's `found treasure` addresses an unnamed senior, plausibly Yume in context, but does not validate the physical notebook or legal title (u:0017-0021). Serika discusses salvage without showing any collected material (u:0027-0031). Neither Dweller nor Sensei appears, so the lull does not independently establish Set defeat, casualties or Card cost. No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E041 backfill claim delta
+
+Middle-school closure, council and Nephthys statements are student rumor in an unsecurely dated opening, not official records (scene:001:u:0002-0010). Ako's hospital-exit report and Sensei's tiredness answer do not clear him medically (u:0017-0023). Hina promises gun investigation; no Gehenna culpability finding or provenance report is supplied (u:0077-0081). Hoshino's apology and ongoing-grief self-report directly revise any inference of complete emotional cure (u:0116-0176). Counterpart Shiroko says she will not kill Dweller; Plana measures full connection loss and Color non-detection, while Arona predicts no return. These bound defeat/expulsion without proving death or permanent exclusion (u:0177-0212). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E042 backfill claim delta
+
+Eight-meter oasis digging found nothing for local Shiroko/Serika, not proof no mineral remains anywhere (scene:001:u:0008-0014). Ayane confirms Hoshino accepted council presidency but supplies no external charter/election (u:0022-0029). Thunder Emperor legacy disposal is shown/reported, not certified complete; Kaiser president hospital claim is hearsay and motive speculation, while debt remains unpaid by Ayane's assessment (u:0030-0040). Completed rail repair still awaits test run, three-segment service next week and central-line next winter are forecasts, and Nephthys partial restart is an announced plan (u:0041-0058). Shop land/corporate claims and ZK owner/president identity linkage are unverified (u:0069-0078). Counterpart silence does not establish fate (u:0079-0086). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## V001 C003 E043 backfill claim delta
+
+Hoshino's local-Shiroko strength appraisal and shop-traffic impressions are not measured trends; theft response has no printed arrest/property handover (scene:001:u:0001-0032). Counterpart Shiroko's housing, scrap income and watch work are self-reports, not verified welfare/authority records (u:0033-0038). Her `たぶん` account of Hoshino's incomplete reversal/essence loss is theory, while Kuzunoha's no-reversal lines are recalled prior counsel, not an adjudicated law (u:0049-0057). One-Shiroko-per-world/distortion claim remains unmeasured and is qualified by continued co-presence (u:0058-0064,0094-0109). Smartphone transfer/promise restores reachable channel, not a completed call; Binah confrontation begins without outcome (u:0065-0113). No durable claim ID, frozen prediction or held-out diagnostic.

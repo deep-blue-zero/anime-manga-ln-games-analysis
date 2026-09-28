@@ -1165,3 +1165,1258 @@ Chronos's anonymous-source broadcast and Moe's federal inquiry/Kaiser cancellati
 ## V004 C001 checkpoint reconciliation — answerability without innocence
 
 Sensei supports RABBIT's local autonomy through release, food, drainage labor and a Kanna reprieve, while failing to secure park repairs and remaining physically outside the Clover infiltration. E008's unconsented bath presence, E010's false food lure and E013's optional false food-source line materially qualify trust; tactical success does not erase those acts. The students retrieve Clover, and Sensei accepts it for an adult-world next step that Chapter 1 does not show completed. `心の声`-tagged responsibility/choice counsel cannot be flattened into uniformly public promises. No claim of sole rescue, legal protection or transparent disclosure; no frozen prediction, side-source admission or Chapter 2 reading.
+
+## V004 C002 E001 delta — adult responsibility displaced by a weapon metaphor
+
+Sensei is absent from E001 and has no shown knowledge of FOX's present orders. Yukino claims only the holder of a weapon's `柄（つか）` chooses its target and bears moral judgment, while Niko asks whether harming citizens for SRT restoration can be justice (`scene:001:u:0103-0113`). This is a foil to the project’s bounded adult-answerability question, but the holder is not identified and the passage grants no factual or ethical absolution to FOX. Do not credit Sensei with intervention or foreknowledge. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E002 unopened.
+
+## V004 C002 E002 delta — gratitude and a shared meal
+
+Sensei visits RABBIT to thank it for help during a crisis described retrospectively, brings high-grade beef, and offers it for a communal meal after the squad initially declines a reward (`scene:001:u:0046-0097`). The students choose to prepare it and invite Sensei; the unit prints preparation, not a completed steak meal or lasting welfare provision. Sensei's paired options and repeatedly answered `心の声` create an audibility seam, while the tempting instant-noodle alternative complicates a purely unpressured gift reading. No evidence here that Sensei knows FOX's current orders or resolves legal camp status. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E003 unopened.
+
+## V004 C002 E003 delta — food, possible victimhood and uninformed help
+
+Sensei's gift is actually eaten and the group accepts a communal meal, though they joke that an extravagant `お礼` could be `餌` (`scene:001:u:0001-0017`). Sensei admits Schale cleanup is unfinished; RABBIT views camera evidence of a possible theft and SRT-linked equipment while Sensei is nearby (`u:0045-0095`). Miyu raises disclosure, but Miyako delays until a planned recovery and apology. Sensei is not shown knowing that concern when the students leave (`u:0096-0115`). This is a limit on informed adult responsibility, not a proven student-caused attack or completed student remedy. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E004 unopened.
+
+## V004 C002 E004 delta — absent adult during a withheld investigation
+
+Sensei neither joins RABBIT's rainy target operation nor receives an in-text briefing on its E003 equipment suspicion (`scene:001:u:0001-0064`). The students conduct their own breach and Miyako makes local tactical choices, then encounters an apparently senior FOX opponent. This shows agency and risk under an information gap; it does not transfer responsibility for the ambush to Sensei or prove that earlier disclosure would have prevented it. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E005 unopened.
+
+## V004 C002 E005 Sensei/ethics delta — time for choice
+
+Sensei searches for the missing squad and interrupts Yukino's proposed subordination (`scene:001:u:0107-0122`). Yukino appeals to the teacher's respect for student will; Sensei accepts the principle and asks for time while RABBIT is unsettled, and Yukino grants a local delay. This preserves decision space without deciding for Miyako, but does not release RABBIT from FOX pressure permanently or disclose the stolen Schale item. Paired greeting choices and `心の声` responses limit exact public wording. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E006 unopened.
+
+## V004 C002 E006 Sensei/ethics delta — informed support under public summons
+
+Narration confirms the squad briefs Sensei at the park; Sensei's paired choice reassures rather than demands repayment, and asks about FOX (`scene:001:u:0002-0025`). The answered `心の声` seams qualify exact public phrasing. Sensei challenges Miyako's perfection standard and affirms distinct RABBIT capacities, without resolving her senior-authority question (`u:0061-0076`). Kaya later publicly invites Sensei to reception; no attendance or response is shown (`u:0101-0109`). No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E007 unopened.
+
+## V004 C002 E007 Sensei/ethics delta — authority contested in absence
+
+Council officers challenge Sensei's extraordinary power and the missing president's memo; Rin insists the memo is genuine and offers handwriting comparison, but no test or revocation is printed (`scene:001:u:0024-0030`). Rin later refuses to dominate colleagues with acting-presidential power, a direct adult-governance contrast with Kaya's proposed shortcut (`u:0060-0068`). Kaya prepares to receive Sensei after the anticipated broadcast; Sensei does not appear or consent in this unit (`u:0131-0138`). No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E008 unopened.
+
+## V004 C002 E008 Sensei/ethics delta — responsibility retained
+
+Sensei enters Kaya's office despite Momoka's trap warning and asks about Rin, letter provenance and Schale's violated private space (`scene:001:u:0020-0027;scene:002:u:0007-0020`). Kaya offers reduced workload, money, wider powers and no personal blame if Schale acts under council name (`scene:002:u:0034-0053`). Sensei refuses because adults and teachers must answer for their actions; an answered `心の声` seam limits exact public wording but the rejection is clear (`u:0054-0061`). Kaya postpones rather than wins consent. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E009 unopened.
+
+## V004 C002 E009 Sensei/ethics delta — student judgment without Sensei present
+
+Sensei is absent from RABBIT's next-morning reconnaissance (`scene:001:u:0001-0182`). Miyako decides to scout, protests a guard's warrantless removal of Decartes and refuses the General's supply debt because its price is unknown (`u:0016-0018;u:0088-0092;u:0148-0154`). She later weighs the squad's material need against the command-weapon ideal and prepares to ask its members before deciding (`u:0167-0181`). This is student-led ethical deliberation, not proof that Sensei's E008 refusal mechanically caused it. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E010 unopened.
+
+## V004 C002 E010 Sensei/ethics delta — absence and rival governance
+
+Sensei does not appear or choose in this office/protest unit (`scene:001:u:0002-0155`). Kaya's E008 offer to absorb Schale accountability remains unsigned. Rin's earlier routine train-response work is reported by a deputy, while Kaya encounters resource and procedure constraints she cannot dismiss by title (`u:0015-0085`). This evidence supports a narrower governance contrast than claiming Sensei alone could solve the train case, which is unshown. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E011 unopened.
+
+## V004 C002 E011 Sensei/ethics delta — support without rank restoration
+
+Sensei encounters Kirino's blocked hospital-bound resident and checks the situation; Kanna resolves the route through documented exceptions, so Sensei is witness and attempted de-escalator rather than sole rescuer (`scene:001:u:0002-0053`). Sensei purchases cafe food, acknowledges Kanna's earlier principle and asks about injury/work status, with paired choices and answered `心の声` limiting exact public speech (`u:0071-0097`). Kanna owns the cost of her earlier rule breach and doubts Kaiser policing; Sensei affirms without removing sanction or solving citywide order (`u:0098-0127`). Narration sends Sensei toward RABBIT, not into a printed meeting. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E012 unopened.
+
+## V004 C002 E012 Sensei/ethics delta — a consequential choice made without the adult
+
+Sensei returns with expensive bentos to an empty park and reads Miyako's letter. It credits Sensei's aid but says she avoided a call because the voice might alter her choice (`scene:001:u:0002-0028`). That is a student decision to keep autonomy from a trusted adult as well as to avoid difficult disclosure; no direct consent consultation occurred at departure. Sensei tidies only some supplies, with no printed attempt to force return (`u:0029`). FOX's accepted command transfer occurs elsewhere and does not prove Sensei endorsed it. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E013 unopened.
+## V004 C002 E013 sensei role and ethics delta — planned subway attack
+
+Sensei is absent from the Kaya–Kaiser–Yukino meeting and has no printed knowledge of the attack plan (`scene:002:u:0002-0072`). Kaya selects deliberate civilian terror, an `事故` cover story and a Traffic scapegoat after Yukino explicitly identifies remaining residents and amplified confined-space harm (`u:0039-0053`). The General's participation is tied to a proposed operating-rights payoff; Yukino's civilian objection does not prevent pressured assent (`u:0054-0071`). RABBIT's E012 transfer cannot be read as informed approval. This unit sharply raises the ethical stakes for any future Sensei/RABBIT encounter but supplies no Sensei choice or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). E014 unopened.
+## V004 C002 E014 sensei role and ethics delta — trust and camp route
+
+Sensei refuses to take Sora's personal bento after branch food supply collapses, then knowingly eats Niko's inari while FOX states its adversarial Kaya alignment (`scene:002:u:0017-0023;scene:003:u:0033-0052`). The teacher's explicit trust choices and inward adult-duty explanation stake teaching on students' future rather than a guarantee of immediate reciprocity (`scene:003:choice:005/008;u:0074-0084`). Kurumi/Otogi's dilemma argument correctly raises present exploitation risk as their view; Sensei's conduct is not proof universal safety. Niko's location disclosure gives a concrete path to check RABBIT personally, but the teacher has not gone there (`u:0098-0115`). No frozen prediction or side-source admission (`NO_DIAGNOSTIC_OPPORTUNITY`); E015 unopened.
+## V004 C002 E015 sensei role and ethics delta — comfort and personal justice
+
+Sensei takes the route Niko supplied and physically reaches RABBIT's secret camp, triggering an alert of unknown cause (`scene:001:u:0050-0055`). This is persistence after Miyako's avoided direct call, but the only printed contact is a greeting, evasive RABBIT-scent joke and Miyako's `逮捕します`; no argument, consent discussion, reconciliation or apprehension act follows (`u:0053-0059`). Meanwhile Miyu/Saki/Moe openly question the ethics of delegating judgment to seniors and accepting a comfortable FOX command while D.U. residents fear the new regime (`u:0014-0043`). Sensei has not heard that debate in this scene, so do not attribute it to the teacher. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E016 unopened.
+## V004 C002 E016 sensei role and ethics delta — Miyako refuses the station mission
+
+Sensei's post-letter visit leads to an actual interrogation. The teacher says the aim is to see Miyako, not compel reversal, and asks whether her current life is enjoyable; the represented `心の声` explanation distinguishes responsibility from punitive drudgery and self-denial (`scene:001:u:0001-0003;scene:002:u:0002-0038`). Miyako says this is why she avoided a conversation, admits fear of her own judgment, then guides Sensei out covertly and decides to fulfill her own responsibility; Sensei offers to take responsibility if needed (`u:0039-0049`). The subsequent refusal of Yukino's civilian-harm mission is Miyako's own action, not a Sensei order, and Sensei is not shown hearing the warhead briefing (`u:0050-0084`). No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E017 unopened.
+## V004 C002 E017 sensei role and ethics delta — solo return and station coalition
+
+Sensei meets Miyako at the park after E016's covert departure, hears the plan and recognizes the station blast as terror; Miyako warns of secrecy and conditional 5 km risk (`scene:001:u:0002-0027`). The teacher asks how to stop it and offers confidence while Miyako decides to trust herself; the action remains hers, not an adult order to conscript absent RABBIT members (`u:0028-0044`). At the station Sensei accompanies surveillance, tries a frontal-assault suggestion and asks Decartes for one exception to inspection; he resists before Miyako discloses danger. After Decartes runs ahead, Miyako asks Sensei to command (`scene:002:u:0002-0069`). No outcome or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E018 unopened.
+## V004 C002 E018 sensei role and ethics delta — Life Safety opens the station
+
+Sensei is present during a chaotic station clash, accepts Kanna's request to look after Kirino/Fubuki and continues with Miyako as she reaches a platform (`scene:001:choice:001;scene:002:u:0025-0040`). Kanna explicitly treats her own rule-bending risk as her decision, matching Sensei's E016 responsibility discussion without making Sensei the source of her choice (`scene:001:u:0072-0079`). No teacher-issued battle order or completed disarmament is printed here. The corporate guard's contempt and Kanna's contested public-duty claim remain separate from any final legal finding. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E019 unopened.
+## V004 C002 E019 sensei role and ethics delta — RABBIT reunites below station
+
+Sensei follows Miyako below the station while she warns of physical hazards, stands clear for a planned breach and receives her observations/uncertain estimates (`scene:001:u:0001-0034`). Miyako's chosen solo risk becomes a voluntary four-person commitment when Saki/Miyu/Moe arrive; Sensei does not order their return. The teacher asks about an operation name, and Miyako names the squad's shared cave-novel callback (`u:0044-0082`). No FOX confrontation, warhead intervention or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E020 unopened.
+## V004 C002 E020 sensei role and ethics delta — forward FOX defense falls
+
+Sensei has no tagged choice or direct speech in this unit. Miyako's no-fallback plan rests on trust in the four squad members, and Moe articulates the material risk that any point/hack/counter-sniper failure collapses the plan (`scene:001:u:0048-0085`). The team clears forward FOX defenders and forces access, but the source does not license retrospective certainty that the gamble was safe. Yukino's senior-retreat order and Kurumi's concern for Otogi leave meaningful student relationships inside the fight; Sensei's mere presence in the prior unit cannot be inflated into issuing these orders. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E021 unopened.
+## V004 C002 E021 sensei role and ethics delta — Yukino's button threat
+
+Sensei reaches the lower passage tied for rappel, and Miyako judges the teacher uninjured (`scene:001:u:0014-0016`). When Yukino threatens alleged self-destruct and collective death, Sensei asks Miyako whether she refuses to give up, receives yes and agrees to proceed; the group declares entry (`u:0030-0046`). This is a high-stakes adult endorsement under unverified button mechanics and without a printed outcome, not a guarantee of safety or an order overriding Miyako. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E022 unopened.
+## V004 C002 E022 sensei role and ethics delta — device secured and FOX surrenders
+
+Sensei secures the dislodged ignition device after an unattributed blast, materially reducing Yukino's immediate ability to press it, though the warhead itself is not inspected (`scene:002:u:0001-0004`). Sensei tells Yukino responsibility cannot be escaped but that students are not disposable weapons: they can learn, ask for support and face liability as future adults (`u:0051-0069`). Yukino shifts from urging detonation to direct surrender after this and Miyako's appeal; the sequence supports influence, not a claim that past wrongs vanish or legal consequences are settled. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E023 unopened.
+## V004 C002 E023 sensei role and ethics delta — Kaya detained after failed coup
+
+Sensei accompanies RABBIT's council approach, but Miyako directs Kaya's physical seizure and states charges (`scene:001:u:0014-0033;scene:002:u:0006-0011`). Kaya attempts to exchange rescinded Schale control and resources for relief; Sensei instead asks her to apologize to harmed students, refusing to make the adult the sole victim/arbiter (`scene:002:u:0012-0025`). The teacher asks Miyako to play FOX's older recording, shifting Heine's knowledge; file authenticity remains uninspected (`u:0037-0059`). No court outcome or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E024 unopened.
+## V004 C002 E024 sensei role and ethics delta — chapter epilogue
+
+Sensei's E022 future ethic has a material epilogue: by Miyako's letter, the teacher helped arrange a correction-facility food gift for Niko, and Moe directly uses Schale's shower while Saki admits earlier hair washing; Miyako asks for access (`scene:002:u:0036;scene:003:u:0002-0044`). These are bounded supportive acts, not public absolution or displacement of RABBIT's self-directed park choice. Mai's broadcast and Decartes's false bento theory show how public accounts can diverge from the adult/student record, while RABBIT's contribution is intentionally not publicized. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); chapter checkpoint due.
+
+## V004 C002 chapter checkpoint — adult role reconciliation
+
+The [chapter checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C002_CHECKPOINT.md) holds together Sensei's refusal to place Schale under Kaya's bargain, concern for Miyako's own judgment, decision to accompany her into a real detonation risk, recovery of the displaced ignition device, call for Yukino to learn and face responsibility tomorrow, and practical shower/gift support afterward. These acts show bounded adult support; RABBIT's return, station tactics and Kaya detention remain student-directed with Kanna/Life Safety and Decartes contributing. The successful immediate outcome does not prove all risk choices harmless or settle official accountability. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); V005 C001 E001 unopened.
+
+## V005 C001 E001 sensei role and ethics delta — paperwork and unanswered call
+
+Sensei is at Schale working with recent district-damage and support-budget papers when Niya calls (`scene:002:u:0002-0012`). The teacher politely asks about her personal request but neither accepts the festival nor performs a new aid act in this unit (`u:0013-0020`). Kuzunoha's warning that `色彩` inversion is irreversible and invitation to seek her if someone must be saved follows Sensei's thought; Sensei hopes for a clue to an unnamed `彼女` (`u:0021-0026`). The ontology is her claim and the speech's temporal setting is unmarked, so it cannot be turned into a proven rescue plan. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E002 unopened.
+
+## V005 C001 E002 sensei role and ethics delta — offer under local threat
+
+Sensei has physically arrived in Hyakkiyako after the E001 invitation and notices a wallet dispute; the `心の声` question is answered by a thug, so exact audibility remains unresolved (`scene:001:u:0001-0022`). Yukari independently uses the distraction to recover the wallet. When more thugs appear, Sensei offers `手伝うよ`, and Yukari accepts (`u:0023-0034`, `choice:001`). Adult assistance is offered after student initiative and before a printed result. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E003 unopened.
+
+## V005 C001 E003 sensei role and ethics delta — bounded help and unintended tour
+
+Thugs withdraw after identifying Sensei as Schale's teacher; Yukari attributes accurate commands to the teacher, but the actual clash sequence is omitted (`scene:001:u:0001-0011`). Sensei rejects her childhood-friend/dog analogy, says helping a student is ordinary and answers her scam fear by naming the Schale role (`choice:001,004-005;u:0026-0038`). Yukari initiates a tour despite Sensei's inward errand objection, and narration confirms being guided back to the festival site (`u:0039-0046`). This is a completed local aid and tour, not proof of consent to every later plan or finished original errand. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E004 unopened.
+
+## V005 C001 E004 sensei role and ethics delta — help after a warning
+
+Sensei actually reaches Onmyou Club after Niya's invitation, hears unfinished recovery work and festival preparations, and sees a letter Niya attributes to a rumored sender (`scene:001:u:0002-0079`). When Niya says Hyakka Ryouran's absence leaves a gap, Sensei offers to help her despite her explicit warning that she may hide more and that answering everyone's requests can be costly (`u:0084-0110`, `choice:019`). This is assent to support in principle, not a signed mandate, threat assessment or guarantee. Chise's rehearsal offer is not yet a witnessed performance; Yukari's interruption preempts next steps. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E005 unopened.
+
+## V005 C001 E005 sensei role and ethics delta — offered witness under risk
+
+Sensei's suggestion that Yukari seek Nagusa's return is rejected; she instead asks Onmyou to witness a succession challenge (`scene:001:u:0038-0043`). After Niya explains appearance-of-rebellion risk and Yukari says she speaks as an individual, Niya casts Sensei as a politically useful outside witness. Sensei agrees to help the student; Kaho objects to further adult burden, and Niya predicts Schale's name can rebalance opposition (`u:0102-0146`, `choice:011-012`). This is a role accepted in dialogue, not completed authorization or a proven fairness guarantee; internal executive approval is absent. Niya later says Hyakka proximity might aid Sensei's Kuzunoha search without supplying a clue (`u:0151-0161`). No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E006 unopened.
+
+## V005 C001 E006 sensei role and ethics delta — asks before witnessing
+
+Even after narration says preliminaries are finished, Sensei inwardly recognizes the missing Hyakka executive and asks Yukari what the committee is before witnessing its succession challenge (`scene:001:u:0001-0011`). Sensei hears her mediation ideal and apparent memory of choosing the group, then asks what 証 is and whether she has seen it; she admits only a publicity image and hearsay powers (`u:0012-0089`). Sensei asks which member might support her and accompanies her to Renge's home, where a note shows no present contact (`u:0090-0100;scene:002:u:0002-0018`). Inquiry and accompaniment are completed; fair adjudication and approval are not. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E007 unopened.
+
+## V005 C001 E007 sensei role and ethics delta — grounded search under a student's idealization
+
+Sensei suggests Renge may simply long for ordinary youth, uses Kaho's list and helps Yukari supply distinguishing physical details rather than only affectionate assessments (`scene:001:u:0024-0043;scene:002:u:0002-0026`). Sensei/Yukari visit several clubs; no current Renge location is found. The teacher offers a tea break, without narrated consumption, and questions Yukari's positive gloss on mixed feedback (`scene:005:u:0005-0019`). A sudden Kaede/Mimori/Tsubaki arrival interrupts before another search step. No internal witness secured or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`). E008 unopened.
+
+## V005 C001 E008 sensei role and ethics delta — introduction and safety check
+
+Sensei introduces Yukari to Shugyoubu and hears its festival work, including an unfulfilled lantern rite and unnamed performer (`scene:001:u:0001-0034`). During the troupe confrontation, Yukari and Renge act; Sensei's inward safety question is not tactical proof. After an omitted clash, Sensei asks about injuries and Mimori/Kaede/Tsubaki/Yukari report themselves well (`u:0053-0084;scene:002:u:0001-0009`). The adult's check is concrete, while combat agency and full casualty status remain unprinted. No frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); E009 unopened.
+
+## V005 C001 E009 sensei role and ethics delta
+
+Sensei accompanies Yukari’s appeal and hears Renge’s institutional grievance (scene:001:u:0046-0104). Sensei’s surprise at Renge’s unfinished return-object line does not identify the missing object (u:0116-0119, choice:008). After an omitted clash, Sensei asks Renge to listen; she refuses, and Shugyoubu accompanies her departure (scene:002:u:0001-0022, choice:001-002). Mediation cannot compel repair or supply executive approval. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E010 unopened.
+
+## V005 C001 E010 sensei role and ethics delta
+
+Sensei suggests Yukari rest after E009, accepts continued accompaniment and identifies as Schale teacher when her servant asks (scene:001:u:0001-0009;u:0022-0039, choice:002-003). When the servant invokes the late hour, Sensei supports going home and promises tomorrow’s continuation; Yukari agrees, and the servant requests an earlier return tomorrow (u:0040-0055, choice:004). This honors both student initiative and a stated household time boundary, without guaranteeing Kikyou’s response. Sensei reacts to an unattributed logged call and apparent troupe fight; no intervention is shown (u:0056-0068). No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E011 unopened.
+
+## V005 C001 E011 sensei role and ethics delta
+
+Sensei interrupts Arata, inwardly warns of right-side danger, urges retreat and later judges the student has no major injury (scene:001:u:0021-0047). After asking about her arm, Sensei offers not to press (u:0052-0058, choice:002). The teacher accompanies her away from the crowd and narratively tells her of today’s events, then asks at her residence whether she will return to Hyakka (u:0076-0092;scene:002:u:0002-0016). She refuses; Sensei inwardly recognizes that the first-meeting question may have been premature and hopes to ask her name next time (u:0022-0024). Care, inquiry and a boundary are shown; consent to rejoin is not. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E012 unopened.
+
+## V005 C001 E012 sensei role and ethics delta
+
+Sensei keeps the promised next-day meeting, asks Yukari about Kikyou and hears her remembered care anecdote (scene:001:u:0001-0031). At the mediation room Sensei learns Shizuko’s family-miko request and Kikyou’s refusal of Yukari’s Nagusa plan, then inwardly connects Nagusa’s intended 証 return to Renge’s earlier omission (scene:002:u:0012-0077). When the exchange escalates, Sensei asks both to calm down (choice:005). Kikyou nevertheless names the teacher as attending witness to a strategist-seat challenge; no separate affirmative Sensei assent to this exception appears (u:0104-0114). Adult presence is not a validity audit or guaranteed protection. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E013 unopened.
+
+## V005 C001 E013 sensei role and ethics delta
+
+Sensei calls to panting Yukari after the omitted bout, hears her confession of poor odds and apology, then tries to stop her exit (scene:001:u:0001-0056). The adult rejects Kikyou’s authority to decide Yukari’s place, asks if お遊び is honestly meant, and inwardly warns a caring pretext can wound both sides (u:0067-0087, choice:003-004). Sensei infers Yukari wanted a reason to meet everyone; plausible but not her full self-report. Shizuko asks Sensei to search, and Sensei agrees; finding Yukari is not yet shown (u:0088-0089, choice:005). No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E014 unopened.
+
+## V005 C001 E014 sensei role and ethics delta
+
+Sensei and Shizuko initially fail to find Yukari; as the festival nears Sensei asks whether Shizuko should return, then hears her place a conversation above the miko request (scene:001:u:0001-0021). Sensei asks why she revived the festival, responds to her tradition/commercial joke, and proposes a split search with mutual notice (u:0022-0059). Shizuko independently finds Yukari; Sensei continues searching and notices her call but is interrupted before answering (u:0108-0152). Shuro addresses Sensei and names 百物語 without any printed response or demonstrated threat yet (u:0153-0157). Adult intent to support Yukari does not substitute for hearing her miko decision. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E015 unopened.
+
+## V005 C001 E015 sensei role and ethics delta
+
+Sensei hears Shuro quote the warning, ask teasing questions and self-claim sender status; the adult reacts to an unknown-log burn line but cannot identify its mode or stop a printed attack because none occurs (scene:001:u:0001-0043). Shizuko reports Yukari’s apology and miko plan; Sensei refuses to blame Shizuko for a complex outcome, entrusts Yukari to her and says care for Hyakka students exceeds the succession-witness role (u:0044-0106). Sensei treats Nagusa as someone to meet, then asks the Ninja Research Club to search on behalf of a student; Michiru accepts (u:0107-0122). Search completion and ethical result remain open. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E016 unopened.
+
+## V005 C001 E016 sensei role and ethics delta
+
+The Ninja Research Club reports a likely Nagusa; Sensei hurries to the west district, recognizes the E011 student and hears her self-identification (scene:001:u:0043-0053). Sensei narratively tells her of Yukari’s Kikyou contest and miko decision, then questions Nagusa’s judgment that leaving Hyakka is right for a student who admired her (u:0054-0062). The adult asks why she returned the emblem and stepped away, receiving Ayame-only/underqualified/imposed-title claims rather than a formal office record (u:0063-0075). At an unknown-log ウソ and festival opening, Sensei asks what happened; the troupe offers only a limited help-acceptance account, and Nagusa names 幻魎百物語 (u:0076-0093). No intervention result or frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E017 unopened.
+
+## V005 C001 E017 sensei role and ethics delta
+
+Sensei has no present-choice line in this unit. Renge recalls Kikyou’s request to check on Yukari and decides to talk, a student-led repair interrupted by attackers (scene:001:u:0115-0132). Izuna invokes Sensei’s earlier reliance on Ninja Research Club, and Michiru expects the adult to handle the wider crisis while directing local protection; this is their confidence, not a demonstrated Sensei intervention (u:0143-0160). Niya admits she did not involve Schale earlier partly to avoid debt over a presumed small warning; the choice is now recognized by her as possibly mistaken, before Chise prompts immediate coordination (u:0169-0213). No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E018 unopened.
+
+## V005 C001 E018 sensei role and ethics delta
+
+Sensei’s inward line says the local monsters were defeated and directs one resident to evacuate; the resident thanks the helpers, but total rescue is not established (scene:001:u:0038-0045). Sensei proposes searching for stragglers despite Nagusa’s argument for an exit, cites ties to students/Hyakkiyako and an unwillingness to ignore strangers, then asks Nagusa for threat knowledge (u:0045-0064, choice:001-005). The adult’s care is action plus risk, not a proof of safe tactics. When Renge misreads Nagusa’s retreat warning, Sensei asks her to calm down; Nagusa explains escalation and Sensei warns of imminent attack (u:0097-0112). No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E019 unopened.
+
+## V005 C001 E019 sensei role and ethics delta
+
+Sensei observes ordinary attacks leave the giant unmarked, asks Nagusa for a method and receives her claimed 百蓮/qualified-holder rule (scene:001:u:0008-0028, choice:001-003). Sensei hears Nagusa’s inability and Shuro’s public taunts, and inwardly identifies Shuro as apparent summoner before she explicitly self-claims it (u:0044-0076). The adult and group witness a book-mediated fear display; Sensei asks if it was a past scene, but does not authenticate Shuro’s total moral verdict (u:0124-0188). Sensei calls Tsubaki, who accepts a next action with no result printed (u:0198-0199). No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E020 unopened.
+
+## V005 C001 E020 sensei role and ethics delta
+
+Sensei coordinates with Shugyoubu and Kikyou against Shuro, questions her purpose and hears her admission of intended rumor-led social harm (scene:001:u:0001-0075, choice:001-006). The adult’s arrival is fact; Shuro’s claim that a letter made Sensei part of the worst outcome does not certify Sensei’s responsibility or negate student agency. Sensei learns Yukari is Shuro’s intended center and moves to direct others before Shuro disappears, without pursuit result (u:0076-0094, choice:007). The stage’s family-pressure/anonymous-voice sequence is not yet shown reaching Sensei. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E021 unopened.
+
+## V005 C001 E021 sensei role and ethics delta
+
+Sensei inwardly asks Nagusa what 百物語 entails and Shuro intends for Yukari, but the thought that all has been strategy is an inference after E020 boasts, not a complete causal audit (scene:001:u:0012-0016). He observes the hijacked feed, identifies Shizuko’s festival preparation as its apparent setup and hears Shuro claim to speak for silent Yukari; he does not thereby endorse the claim (u:0049-0083, choice:001). Sensei’s inward request joins Kikyou/Renge’s pleas, after which Nagusa agrees to try. He and Nagusa depart while Shugyoubu undertakes delay; no arrival or rescue is printed (u:0152-0165). No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E022 unopened.
+
+## V005 C001 E022 sensei role and ethics delta
+
+Sensei accepts some fault after Niya admits minimizing the warning letter and proposes they overcome the present danger together; this is a choice line, not a full liability allocation (scene:001:u:0014-0018, choice:004). Niya/Chise arrive and Ninja Research Club responds to Sensei’s prior consultation, giving a practical collaborative route through the attackers (u:0006-0059). Sensei reaches the stage with Nagusa and inwardly interrupts Shuro before Nagusa demands Yukari back (scene:002:u:0068-0070). The adult has not yet secured her, rebutted Shuro’s blame claim or contained the fire. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E023 unopened.
+
+## V005 C001 E023 sensei role and ethics delta
+
+Sensei tells Nagusa not to credit Shuro’s Ayame taunt, is briefly held unable to speak by a 百物語, then pushes toward Yukari despite Shuro’s reminder of his physical vulnerability (scene:001:choice:002;u:0054-0059;u:0111-0123). He hears Shuro call Yukari and Nagusa valueless liars. The displayed alternatives conditionally admit fear, concealment or performed goodness, then say such ordinary acting is not inherently wrong; no choice line endorses Shuro’s claimed monster mechanism or all-causation verdict (u:0124-0140, choice:003-005). No rescue result or frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E024 unopened.
+
+## V005 C001 E024 sensei role and ethics delta
+
+Sensei says a performed self can become genuine in others’ lives, points to Nagusa’s concrete care and also acknowledges hurt, quarrels and a need for active reconciliation; the ethic does not make every deception harmless (scene:001:u:0009-0045, choice:001-003). His voice helps Yukari wake by her testimony, and she chooses repair while still saying she hurts (u:0051-0078). He joins Nagusa’s direct help request, times the group’s counterattack and calls on Renge, with no explicit mechanics claim for the successful hit (scene:002:u:0047-0073). He warns of Shuro’s final book action; no completed capture. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E025 unopened.
+
+## V005 C001 E025 sensei role and ethics delta
+
+Sensei speculates about Shuro’s book escape, then prioritizes care and injury checks over pursuit; Renge/Yukari report okay, with others not fully examined in text (scene:001:u:0001-0010, choice:001-003). He is asked to ease Kikyou/Nagusa awkwardness but does not force a discussion before Yukari speaks (u:0011-0033). Sensei inwardly starts and calls the winner of Yukari’s short challenge; her admission supports the result without a formal office ruling (u:0048-0059). No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E026 unopened.
+
+## V005 C001 E026 sensei role and ethics delta
+
+Sensei acknowledges the festival team’s work and supports rebuilding while the community repairs real damage (scene:001:u:0001-0032, choice:001-005). He queries Niya’s precise hold-versus-cancel distinction and accepts slow progress on Kuzunoha leads (u:0039-0048). After Niya’s self-blame, he explains her assessment from available information and praises inviting him to help, prompting her archive-search commitment; this is contextual support, not proof there was no error (u:0058-0074; source-positioned u:0149). He joins the group’s next lantern plan; no frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). C001 checkpoint due.
+
+## V005 C001 canonical checkpoint reconciliation
+
+The checkpoint bounds Sensei’s role: he asks Nagusa for threat evidence, mobilizes Shugyoubu/Ninja Research Club/Onmyou allies, answers Shuro’s all-false verdict with ordinary role-performance plus active repair, helps Yukari return by her testimony, and contextualizes Niya’s decision without exonerating all error. Students and festival workers perform the decisive defense/rebuilding. No adult-only victory, standalone model or frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). C002 E001 next.
+
+## V005 C002 E001 sensei role and ethics delta
+
+Sensei is absent from this unit. The whole opening bout is Nagusa’s dream and the waking portion is her private pain/guilt, so no teacher intervention or choice can be inferred (scene:001:u:0001-0042). No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E002 unopened.
+
+## V005 C002 E002 sensei role and ethics delta
+
+Sensei is absent. Shuro speculates his C001 words may have caused her failure, but this is her unresolved candidate explanation, not a validated teacher effect (scene:001:u:0030-0032). Azami’s manipulation of Shuro’s approval fear is shown without Sensei witnessing or intervening. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E003 unopened.
+
+## V005 C002 E003 sensei role and ethics delta
+
+Sensei does not appear and has no choice in this unit. Hyakka responds to the local festival disruption, accepts community thanks and begins reinforcement work without an adult directing the scene (scene:001:u:0049-0058;scene:002:u:0001-0093). No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E004 unopened.
+
+## V005 C002 E004 sensei role and ethics delta
+
+Sensei is absent. Yukari takes initiative to seek care, the servant arranges access, and Nagusa decides to tell the juniors more about Ayame without adult mediation in this scene (scene:001:u:0001-0086). The visitor’s diagnosis remains fictional participant testimony, with no teacher endorsement. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E005 unopened.
+
+## V005 C002 E005 sensei role and ethics delta
+
+Sensei does not appear or choose. A Kuzunoha-tagged speaker in Nagusa's retrospective reportedly gives her a scroll addressed to Schale's Sensei and says it contains a way to save an unnamed person; content, delivery and identity relation to C001 E001 remain unverified (scene:001:u:0065-0088). The juniors respond to Nagusa's shame without adult mediation while she raises travel and local-duty constraints (u:0089-0107). No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E006 unopened.
+
+## V005 C002 E006 sensei role and ethics delta
+
+Sensei responds to joint summons and considers aid (scene:001:u:0001-0023;choice:001-003). A possible cautious answer about a Color-touched person is overread by Niya as a completed cure (choice:010;u:0096-0098). Kaho warns against direct snowfield entry; Sensei hears Niya’s alternate route and promises Chise a later trip, no journey yet (choice:011-014;u:0104-0115). No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E007 unopened.
+
+## V005 C002 E007 sensei role and ethics delta
+
+Sensei travels with Hyakka to Ebisu, asks about Nagusa’s earlier route and can caution against walking mountains, then meets Azami (scene:001:u:0002-0043;choice:001-004). Azami relays sensational and total-victory Sensei rumors that are not audited achievements (u:0027-0033). His inward よろしくね receives an apparent Azami reply, so audible speech is uncertain (u:0042-0043). At dusk his paired choice says he is thinking or asks not to be minded, with no shown private conclusion (scene:003:choice:001). No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E008 unopened.
+
+## V005 C002 E008 sensei role and ethics delta
+
+Sensei arrives with the Hyakka members during Shuro’s attack; his only visible line is inward worry for Nagusa, not certainly audible (scene:002:u:0005-0009). Nagusa and the three students continue the defense/pursuit, with no printed adult command or choice. The Ayame-labeled appearance is not authenticated by Sensei at the cutoff. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E009 unopened.
+
+## V005 C002 E009 sensei role and ethics delta
+
+Sensei has no printed speaking turn or choice in the Ebisu banquet. The Ayame-labeled figure apologizes to Nagusa and Kikyou presses for the full truth without adult mediation; Sensei’s presence is not directly located beyond continuing party context (scene:001:u:0002-0085). No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E010 unopened.
+
+## V005 C002 E010 sensei role and ethics delta
+
+Sensei is called into Kikyou’s private identity-risk discussion, admits through choices he never knew old Ayame, asks about her limitations and proposes time/engagement before judgment (scene:001:u:0091-0159;choice:001-006). His inward statements apparently draw Kikyou replies, so audible wording is uncertain. Kikyou retains suspicion; no teacher certification of identity, unconditional trust or frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E011 unopened.
+
+## V005 C002 E011 sensei role and ethics delta
+
+Sensei’s paired choice raises preparation/trap risk on the snowfield route, while others press onward (scene:001:choice:001;u:0026-0040). During a justified-danger search of captive Shuro, her private manuscript is publicly read against her objection; Sensei apologizes and later encourages practice, with no undoing of exposure (choice:002-004;u:0069-0125). No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E012 unopened.
+
+## V005 C002 E012 sensei role and ethics delta
+
+Sensei sees Shuro distressed and asks to stay, but the request is 心の声 with replies; he is left with her and Azami, known to the reader as antagonist-aligned, while Kikyou warns of his self-neglect (scene:001:u:0010-0029;choice:001-005). No adult intervention reaches Yukari’s separate encounter with Kokuriko by the cutoff. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E013 unopened.
+
+## V005 C002 E013 sensei role and ethics delta
+
+Sensei sees Shuro threatened by a tale despite her attempted attack on him and chooses immediate rescue before judgment (scene:002:u:0013-0059;choice:001-008). The intervention appears to reach her and causes reported pain; injury extent/recovery are uninspected. Rescue does not excuse Shuro or reveal who attacked her. Azami warns but lets him go, then faces Kikyou’s identification (u:0060-0076). No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E014 unopened.
+
+## V005 C002 E014 sensei role and ethics delta
+
+Sensei is not directly present in E014’s two speaking groups. Azami taunts Kikyou/Renge that Sensei and Nagusa are separated, while Kokuriko confronts Nagusa; E013’s rescue pain/status is not medically revisited (scene:001:u:0024-0035;scene:002:u:0001-0029). No Sensei choice or frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E015 unopened.
+
+## V005 C002 E015 sensei role and ethics delta
+
+Sensei does not appear in E015. A new Ayame-labeled speaker says he sleeps in an adjacent room and the others are safe; no independent cut checks his condition after E013 pain (scene:001:u:0015-0023). No teacher choice, action or frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E016 unopened.
+
+## V005 C002 E016 sensei role and ethics delta
+
+Kokuriko reports Sensei captured after Shuro/Azami’s joint attack and credits his separation from students as decisive; capture details/medical state unshown (scene:001:u:0005-0017). Shuro replays his E013 rescue and asks why he saved an enemy, guessing eccentric whim while not hearing the inward rescue-before-judgment motive (u:0020-0034). No new choice or frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E017 unopened.
+
+## V005 C002 E017 sensei role and ethics delta
+
+An Ayame-shaped visitor tells Niya Sensei and Hyakka are under an avalanche, while E016 reports Sensei captured instead; the disaster is unverified (scene:001:u:0038-0045). Niya orders rescue before challenging the visitor’s identity. Sensei himself has no scene or choice, and his medical/custody condition remains uninspected. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E018 unopened.
+
+## V005 C002 E018 sensei role and ethics delta
+
+Sensei wakes confined with students and possibly mild head pain, while others report light scratches; no treatment outcome (scene:001:u:0016-0030;choice:001-002). He probes Shuro's all-acted account rather than taking rescue as proof of conversion, and his 心の声 urges responsibility for one's own acts even when playing a role; Shuro rejects Kokuriko betrayal (u:0074-0094;choice:004-005). An alternative choice directly confirms he received a Kuzunoha-attributed letter from Nagusa earlier, though no text or authorship is audited (choice:006). Six choice groups, four paired; no frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E019 unopened.
+
+## V005 C002 E019 sensei role and ethics delta
+
+Shuro explicitly threatens Sensei's head to prevent the Hyakka party fleeing, making his adult vulnerability a hostage instrument (scene:001:u:0015-0023). He argues through choices that protecting an endangered child does not depend on his strength and is a human obligation; Shuro rejects the norm, so there is no persuasion outcome (choice:001-002;u:0024-0032). Nagusa presents him to the Kuzunoha-labeled figure as requested, but Sensei has no direct exchange with her before cutoff (scene:002:u:0028-0035). Two choice groups, one singleton and one three-line group; no frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E020 unopened.
+
+## V005 C002 E020 sensei role and ethics delta
+
+The Kuzunoha-labeled speaker challenges Sensei's delay after her claimed letter, then recognizes his duties to many students and says he seems to have an answer; his own response is interrupted, so its content remains unknown (scene:001:u:0008-0018;choice:001-003). Her later no-restoration and acceptance counsel refers to his presumed understanding and an unheaded Shiroko/Hoshino insert, but does not show Sensei performing a cure or endorsing every premise (u:0081-0096). Three choice groups, two paired, no frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E021 unopened.
+
+## V005 C002 E021 sensei role and ethics delta
+
+Sensei has no appearance or choice in the Ayame-tagged recollection/Azami exchange (scene:001:u:0001-0076). The story-form's motive account and Azami's gaze plan must not be treated as information he presently heard at the temple or as a test of his E020 counsel. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E022 unopened.
+
+## V005 C002 E022 sensei role and ethics delta
+
+Michiru/Tsukuyo report Sensei asked the Ninjas to guard Onmyou during Hyakka's absence, an anticipatory protective request before the present festival crisis, but the exact request time/wording and knowledge of Hitotsume are not opened (scene:001:u:0057-0081). Their admission of freezing during Niya's shadow fight means his protective delegation did not prevent that capture; they later convey her message. Sensei has no direct scene or choice here. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E023 unopened.
+
+## V005 C002 E023 sensei role and ethics delta
+
+Sensei has no direct scene or choice. The Ninja Club's prior E022 protective assignment still frames its voluntary support for the risky festival (scene:001:u:0033-0038), but Kaho, Shizuko, Umika, Fina and Chise make the present operational choices themselves. The apparent relief is local and does not certify an adult rescue plan or acceptable crowd risk. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E024 unopened.
+
+## V005 C002 E024 sensei role and ethics delta
+
+Sensei asks after Niya's injury, then says no one can do everything alone; his inward line says he depends on students too, and Niya resumes analysis without a resignation decision (scene:001:u:0009-0030;choice:001-003). He confirms Shuro's 朽木修羅 pen name through a singleton choice, linking E011 exposed manuscript to Niya's persuasion but not himself authoring the book (u:0084-0087;choice:004). Four choice groups, two paired; no frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E025 unopened.
+
+## V005 C002 E025 sensei role and ethics delta
+
+Sensei arrives with Hyakka at the Kokuriko/Azami confrontation, asks two singleton questions about a sensed additional book and inwardly warns the group before Kokuriko's threatened revelation (scene:001:u:0032-0077;choice:001-002). He does not endorse her three-book claims or stop a displayed activation yet. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E026 unopened.
+
+## V005 C002 E026 sensei role and ethics delta
+
+Sensei inwardly questions Kokuriko's intervention; she asserts the book cannot reach him, and he challenges the premise that lack of complete understanding defeats a relationship, instead urging continued asking and learning (scene:001:u:0027-0037;choice:001). He cannot stop Kokuriko's exit; Nagusa asks him to witness a risky Ayame fight, and he promises to do so (u:0072-0082;choice:002). Two singleton choices; no frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E027 unopened.
+
+## V005 C002 E027 sensei role and ethics delta
+
+Nagusa assigns Renge/Yukari to guard Sensei and requests him as the outside witness to a succession bout; his assent is tagged 心の声, so formal audibility remains a seam (scene:001:u:0015-0028). He has no direct choice or action during the duel. His E026 promise to witness frames his presence, but outcome and safety assessment are not independently narrated. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E028 unopened.
+
+## V005 C002 E028 sensei role and ethics delta
+
+Sensei visits hospitalized Niya, asks about the festival mechanism and Ebisu inquiry, and hears her ritual bluff admission and missing-antagonist report (scene:001:u:0002-0052;choice:001-012). With the Ninjas he tentatively agrees to their idealized official-Ayame interpretation, without revealing his motive or proving it true; he hears temporary power has ended and proposes a later shared film (scene:002:u:0005-0048;choice:001-004). He visits Hyakka, asks about Nagusa's arm/Ayame and hears of unawakened Ayame, with no intervention to wake her (scene:003:u:0010-0034;choice:001-002). No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). C002 checkpoint due.
+
+## V005 C002 canonical checkpoint reconciliation
+
+Sensei rescues antagonist Shuro under danger, survives captivity/hostage use, confirms Nagusa's letter handoff and argues for inquiry without full self-knowledge. He had assigned Ninjas to guard Onmyou and witnesses Nagusa's bout, but festival workers/students carry local defense. E028's tentative assent to a simplified public Ayame account is not an omniscient innocence finding. No adult-only cure, exact audible inner speech, frozen prediction or held-out diagnostic. 274/480; V006 C001 E001 next.
+
+## V006 C001 E001 sensei role and ethics delta
+
+Sensei has no appearance or choice in Maia's outside-path failure and Subaru's welcome (scene:001:u:0001-0057). Their claims cannot be attributed to his knowledge or intervention, and the earlier Squad reference does not place any specific member here. No frozen prediction (NO_DIAGNOSTIC_OPPORTUNITY). E002 unopened.
+
+## V006 C001 E002 sensei role and ethics delta
+
+Sensei asks how the comprehensive exam works, wonders about students' preparation and circulates through a montage of club exchanges; several prompts are italic 心の声, not necessarily audible speech (scene:001:choice:001-005,u:0011-0118). His proposed after-school tutoring is Hifumi/Hanako talk, not an assignment. At Sisterhood, his paired choice 006 raises the need for private study, after which Hinata and Marie carry the reported persuasion that produces a hall/dorm compromise (u:0119-0130). He later offers unnamed students a good-score treat in their dialogue, but no scores or fulfilled reward appear (u:0131-0137). Two shy students ask him for time; their purpose is unopened. No adult-only fix, frozen prediction or held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). E003 next.
+
+## V006 C001 E003 sensei role and ethics delta
+
+Sensei meets the shy pair as Arius transfers, hears their reported history and apologizes for not attending to them before; they redirect him toward their actual question about exams (scene:001:u:0001-0080). His first attempted head stroke triggers a reflexive retreat. He reassures, slows, waits and explains testing; later he impulsively ruffles their heads and B asks for continued contact. Treat the first recoil, later assent and his inner all-will-be-well as distinct, with no blanket consent or guaranteed safety claim (u:0086-0102,u:0167-0177). His payday self-disclosure makes him less remote but does not undo deprivation (u:0121-0127). He commits to solving access/schooling for Arius stayers as an adult's role, yet no plan, resource or authorization is shown; the Squad request is left unanswered at cutoff (u:0178-0197). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). E004 next.
+
+## V006 C001 E004 sensei role and ethics delta
+
+Sensei contacts Atsuko after unnamed preparations and asks whether she would want an exam; she values recognition but insists Squad members decide for themselves (scene:001:u:0001-0029). He relays the two transfers' concern, hears Atsuko request a whole-group face-to-face talk, initially mistakes it for eavesdropping avoidance, then agrees and promises to help Saori (u:0030-0062). At the ship he admits a sponsor arranged the venue without his full details, narrates the transfer account to Squad and states he wants Arius stayers to experience school life (u:0063-0118). Asked why, he presents study as learning the world to face it; Squad offers contract and social-understanding examples but no delivery plan is shown (u:0123-0176). He has brought Nagisa as sponsor, whose appearance shocks Saori; the scope of the meeting's agreement remains open (u:0177-0189). No adult-only accomplishment, frozen prediction or held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). E005 next.
+
+## V006 C001 E005 sensei role and ethics delta
+
+Sensei has not told Squad Nagisa would sponsor the meeting, drawing Misaki's challenge; he is surprised by the rented ship's scale and food (scene:001:u:0001-0009,u:0026-0075). When Misaki questions transfer monitoring, he says he checked that assigned contacts are support and the transfer students reported their consultation; no underlying record is reproduced (u:0086-0105). He asks Squad to trust him, which elicits Hiyori's shifting belief/panic rather than clean consent. He encourages Nagisa to speak for herself. Nagisa apologizes as host, acknowledges institutional injury and credits Sensei with teaching that apology needs action; no actions are yet specified (u:0116-0188). His mediating role cannot substitute for transfer or Squad agency, reparations, or an inspected plan. No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). E006 unopened.
+
+## V006 C001 E006 sensei role and ethics delta
+
+Nagisa requested Sensei teach Arius students while offering remote/indirect support for his safety and warning that intervention may bypass their wishes (scene:001:u:0021-0025). Sensei chooses on-site teaching, with Squad escort now described by Saori; it is a real travel decision, not yet a successful entry, lesson or consent process (u:0026-0034). Asked why, his italic 心の声 says students are there and he playfully asks if that sounded impressive; Misaki mocks the pose. The joke does not nullify the choice, but neither does motive resolve safety or agency concerns (u:0035-0049). He is absent from Maia/Subaru's separate exchange and has not heard Subaru's closing indictment of Saori on-page (u:0050-0116). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). E007 next.
+
+## V006 C001 E007 sensei role and ethics delta
+
+Sensei favors an Arius-named exam but Nagisa's current tactic uses spare Trinity papers; he promises Squad pay without terms and alludes to another unrevealed plan (scene:001:u:0001-0021). Nagisa's indirect institutional route and concern for learning prerequisites remain proposed, while Sensei is traveling to provide instruction in person (u:0022-0046). Saori asks why he accepts risk and says she does not want to see further harm; his reassurance does not make the journey safe (u:0119-0131). He interrupts her attempted apology to relay claimed gratitude from transfers to Squad, which was not quoted in E003; the group explicitly retains responsibility for terror. He frames their competing facts as a reason to study history, without absolution (u:0132-0151). He has reportedly sent educational BDs to Squad and now approaches Arius, but has not yet met Subaru on-page or started a lesson (u:0152-0215). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). E008 next.
+
+## V006 C001 E008 sensei role and ethics delta
+
+Sensei sees the local hostile reception and steps in when Saori's exam announcement angers Subaru (scene:001:u:0001-0079). He recognizes Arius residents as students and accepts Subaru's view that study need not be universally necessary, then asks them to try once with an option to stop. That is a conditional proposal, not consent obtained; he is still arriving with Squad and exam papers (u:0083-0099). Subaru turns exam into a force-based gate and orders safeties off. Misaki asks Sensei to move to safety and command; his interior line recognizes an imminent fight, but no action result is shown (u:0100-0132). Adult ideals do not override resident agency or avert conflict here. No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). E009 next.
+
+## V006 C001 E009 sensei role and ethics delta
+
+Sensei sees a contested tactical result, an unconscious resident reported after chest/head shots strongly implied to involve Atsuko, and fearful students; no medical care or mediation appears before he starts a class to brighten the atmosphere (scene:001:u:0001-0034). He treats damaged furniture as enough to begin, unexpectedly selects Squad as practice teachers, and praises Saori after her actual lesson (u:0035-0095). He recruits Misaki by a ballistics/physics analogy, stops Atsuko's potentially troubling bruise-example approach, and helps Hiyori teach fashion/outside life, which narration calls most popular (u:0096-0135). He teaches a fragment himself and observes mixed engagement and reduced wariness, but neither consent nor injury resolution follows from that success (u:0136-0149). He brought a sleeping bag; Saori asks to consult about the day, content pending (u:0150-0157). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). E010 next.
+
+
+## V006 C001 E010 sensei role and ethics delta
+
+Sensei praises Saori's teaching and says a teacher also learns from students, then accepts her request to see his abdominal scar; narration confirms she touches it and becomes distraught (scene:001:u:0001-0089). His available choice says healed/no pain, but he also acknowledges lasting marks rather than denying consequences. He asks Saori what she would say to her past self, receives her ownership of regret and action, and has her repeat a future commitment to pause and choose better; comfort is paired with responsibility, not explicit absolution or clinical intervention (u:0090-0140). He offers incremental hope about Squad change after Saori's unverified supply report; her sleep request is withdrawn as a joke and she leaves, so no boundary-crossing overnight event is shown (u:0141-0175). Sensei is absent from the later Subaru/Maia private conversation; do not attribute knowledge of the coercive money route to him at this cutoff. No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). E011 next.
+
+
+## V006 C001 E011 sensei role and ethics delta
+
+Sensei praises Hiyori's preparation, recognizes her question and helps clarify test norms after students conflate asking during study with cheating on a quiz (scene:001:u:0001-0023). He proposes a field trip, accepts Subaru's challenge to take responsibility for the children while Squad stays behind, stops a child at a red crossing for drivers' as well as students' safety, and teaches shared dispenser hygiene and public courtesy (u:0024-0144). He offers to pay for arcade play; Subaru disputes his claimed mathematics lesson, and no price/receipt is shown (u:0145-0166). At the park he does not pretend to have a sure way to stop an unidentified hypothetical person intent on giving up life; he voices concern about missing earlier chances to help and a mutual duty to be reasons for living (u:0185-0218). He hopes he can be one reason for Subaru, comparing Arius students' importance to her, with no exclusive promise or identified imminent intervention (u:0219-0232). This is situated character ethics, not clinical advice. No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). E012 next.
+
+
+## V006 C001 E012 sensei role and ethics delta
+
+Sensei is absent from the kitten gunfire/crowd confrontation in the represented immediate sequence, so he cannot be credited with preventing it; he later notices Subaru's pale face, but she deflects before interruption (scene:001:u:0001-0090). He greets Suzumi/Reisa and thanks Suzumi for careful, limited explanation to Reisa, without full disclosure content shown. When C/D remain closed to the visitors, he asks Suzumi not to expect instant openness, and later asks her to answer Subaru's ideal-versus-failure question in her civic-patrol capacity (u:0091-0190). He allows Subaru to take C/D aside, but is not shown hearing her subsequent validating yet grievance-sharpening speech; he cannot be assigned its content at cutoff (u:0193-0235). On return he asks if the outing was fun and sees Mine/Serina's arrival, with medical need and response unopened (u:0236-0252). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C001 checkpoint next.
+
+
+## V006 C002 E001 sensei role and ethics delta
+
+Sensei stops a chaotic arrival, gathers Rescue Knights/Squad/Maia and asks the visiting Trinity group to suppress its affiliation locally, a deliberate concealment he judges useful for aid; Serina secures Mine's uneasy agreement. He thanks her, but no actual deception-free consent from all Arius residents is shown (scene:001:u:0001-0044). He helps set up a completed temporary aid station, with patients and treatment still absent (scene:002:u:0002-0005). Subaru identifies the cover anyway and he prevents near-disclosure during the meeting, while Subaru conditionally tolerates service (u:0006-0053). He hears Mine's worry about contained anger; his choice regrets not attending fully to a past case without naming it. When she asks what sustains someone at utter despair, his memory returns to Subaru's E011 question; he answers with a person's beliefs and with proving one's teaching path by not abandoning students who ask for help. This is moral orientation, not guaranteed crisis prevention (u:0080-0127). He allows Mine a brief rest against him and hears a trumpet-like sound with others; cause unknown (u:0128-0143). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C002 E002 next.
+
+
+## V006 C002 E002 sensei role and ethics delta
+
+Sensei frames aid-station instruction as learning and explains mathematics as a habit of causal and logical reasoning useful in persuasion, an educational claim rather than demonstrated protection from stigma (scene:001:u:0027-0040). Maia remembers E012 insults and cries; he apologizes as one adult despite not being the author of that crowd action, a solidarity gesture rather than personal fault admission (u:0041-0060). Misaki says she remains because he urged her to try living but warns that his hope creates hard-to-drop expectations; his playful lifetime-together choice is not an accepted commitment (u:0061-0086). Saori revises her old futility language while he listens. His choice estimates a fourth trumpet-like occurrence, but the source does not audit prior count or source; he is present when visible entities appear and Mine/Squad move to defend, with no action/result yet shown (u:0087-0130). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C002 E003 next.
+
+
+## V006 C002 E003 sensei role and ethics delta
+
+Sensei has no direct present action or choice in this unit. Mine's intrusive experience replays his actual E001 belief/emotion reply, then produces an instruction to believe that she immediately recognizes he never said; her subsequent imagined injunction to prove one's path and answer pleas is a Mine-authored counterfactual, not a fresh Sensei speech (scene:001:u:0073-0109). Her bounded rescue commitment follows from this internal use of his prior teaching but cannot be credited to an explicit new command or guarantee of rescue. Mine publicly reveals her order's identity; the effect on Sensei's E001 concealment strategy is not yet shown (u:0110-0137). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C002 E004 next.
+
+
+## V006 C002 E004 sensei role and ethics delta
+
+Sensei calls for Mine, asks Squad to clear a path and summons Sena; Subaru allows transport passage only for now, while Serina/Hanae perform immediate care. Sena gives normal-vital findings and a nonspecific bad intuition, so Sensei's concern has no definitive diagnosis to act on yet (scene:001:u:0001-0080). Mine wakes briefly and credits his earlier words for helping her return from an E003 taking-in experience, then asks him to protect Arius students' daily school life; he promises, with scope and means still open (u:0081-0138). A flashback shows Nagisa personally asked Mine to help Arius, not as Tea Party command; Sensei's knowledge of this exact conversation is not shown. Mine lapses again, and he says he trusts her; this is confidence, not medical proof (u:0102-0150). He asks Atsuko about the voice and hears an expressly tentative Apocalypse-angel account, not an identified enemy (u:0151-0157). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C002 E005 next.
+
+
+## V006 C002 E005 sensei role and ethics delta
+
+Sensei is absent from the basilica gathering as a present speaker. Subaru calls him good but tentatively links his invitation of Trinity to the phenomena, arguing good intent may cause harm; the causal link is unproved and he has no chance to answer here (scene:001:u:0065-0075). Some residents praise being heard through his classes; others say they are difficult/useless and propose expelling him and Squad (u:0076-0124). Maia argues scriptural mismatch but appeals to Sensei for an unknown solution, which C/D challenge as overreliance on one adult (u:0125-0181). Subaru's eventual Maia removal is not Sensei-directed on the page; no new Sensei choice, promise or action occurs. No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C002 E006 next.
+
+
+## V006 C002 E006 sensei role and ethics delta
+
+Sensei's praise of Squad's strength draws Misaki's objection to narrating forced flight as improvement. His attempt to assume sole blame for Arius's condition is explicitly rejected by Atsuko, who insists on Squad's choices and shared future deliberation (scene:001:u:0001-0024). He sends the next-class MomoTalk, which Subaru reads/deletes; there is no guarantee the group collectively receives or accepts it (u:0035-0063). When Maia arrives distressed, he gives overnight shelter, face washing, a drink, food and his sleeping bag, postpones questions and permits sleep (u:0110-0164). His internal 先生の役目 is a locally enacted duty, not proof of permanent guardianship or an exhaustive response to her distress. At class he notices the absent residents, calls Subaru unsuccessfully and hears Maia's inferred Porta Pacis destination (u:0180-0196). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C002 E007 next.
+
+
+## V006 C002 E007 sensei role and ethics delta
+
+Sensei asks what Arius's past means, notices Atsuko's silence, and seeks Ui's library help rather than adjudicating between inherited histories himself (scene:001:u:0014-0031,u:0053-0066). He offers Americano coupons while Shimiko also advocates cooperation; the contact medium and any physical visit are not fully staged (u:0053-0066). He vouches for Atsuko's former Royal Blood identity and tells Ui the circumstances were sent by MomoTalk, enabling disclosure but not verifying the archive account (u:0080-0097). His response to the unknown ban reason is a bounded sympathetic choice, not a historian's finding (u:0136-0140). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C002 E008 next.
+
+
+## V006 C002 E008 sensei role and ethics delta
+
+Sensei listens to Atsuko's and the librarians' accounts without certifying the anomalous causal story or Apocalypse identity; his choices are silence, a question about all seven trumpets and a restrained address to Atsuko (scene:001:u:0001-0087,u:0135-0138). When Maia trembles at questions about her night, he signals that he intends to wait rather than press her. Hiyori offers a trusted-listener endorsement and privacy; Maia chooses to tell the larger group despite the option of fewer listeners, and Sensei silently checks readiness (u:0119-0193). The exchange includes a line that he asks students to do what they can toward independence, but tag drift at u:0153-0155 makes precise attribution uncertain. Ui's tentative hypothesis about his classes does not prove his teaching caused supernatural hearing (u:0194-0238). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C002 E009 next.
+
+
+## V006 C002 E009 sensei role and ethics delta
+
+Maia worries his personal trip cannot help if Subaru and residents never forgive him. Sensei chooses to go anyway and privately says ending without speaking is unacceptable; Maia interprets this as preserving future possibility (scene:001:u:0066-0080). His decision does not compel forgiveness or prove he can safely resolve the group dispute. He checks Atsuko's pace and offers to slow; she says she can catch up, while Saori asks to hurry due to unknown danger (u:0091-0093). He has not reached or addressed Subaru before cutoff. Subaru's apocryphal assertions and unidentified voice are unavailable to him on page (u:0001-0065,u:0094-0139). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C002 E010 next.
+
+
+## V006 C002 E010 sensei role and ethics delta
+
+Sensei's party seeks a conversation through Saori, but defenders interpret Subaru's emplacement as a no-entry command and gunfire begins; Sensei's sole choice laments that the encounter repeatedly becomes this way, and Atsuko asks for his help (scene:001:u:0001-0025). No successful negotiation or battle outcome is shown. Subaru tells residents the approach is a tactic and repeats her unproved belief that Sensei's Trinity invitation caused the crisis; he is not present for that statement or her private admission of a lie (scene:002:u:0015-0035). A/B recall him as a good adult even as the front is pushed, giving a local dissenting view rather than blanket acceptance (u:0072-0077). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C002 E011 next.
+
+
+## V006 C002 E011 sensei role and ethics delta
+
+As two figures attack Arius residents, Squad moves to defend them despite the previous armed refusal. Sensei orders retreat when the fight goes badly; all Squad members answer alive, but no total-rescue or victory claim follows (scene:001:u:0009-0023; scene:002:u:0001-0010). He treats a white-flag MomoTalk lead as possible contact and goes carefully, then hears A/B thank him for sheltering Maia and offer a side route (scene:002:u:0011-0028). He accepts frank lesson criticism and insists that kind daily education was owed to them, while their inability to imagine daily recurrence prevents a guarantee (u:0029-0059). He responds to Atsuko distress on descent and calls Subaru when encountered; she moves the conversation rather than settling it (u:0060-0086). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). Chapter 2 checkpoint next.
+
+
+## V006 C003 E001 sensei role and ethics delta
+
+Sensei searches for abruptly absent students and defines learning as central to studenthood; Subaru challenges his authority to make his preferred curriculum Arius's condition (scene:001:u:0001-0015). His recollection shows two temporary Tea Party representatives requesting nonintervention so Trinity students can solve matters themselves, with a majority claim and growth rationale; no recorded affirmative answer is printed (u:0023-0043). Subaru grants he may be blameless yet indicts his trust for overlooking Arius returnees and refuses forgiveness. Sensei's printed silence does not settle his account or consent to her indictment (u:0044-0087). She asks him to leave Arius with Squad and promises no harm if he does, while asserting unproved control of trumpet figures; he neither departs nor agrees before Saori's question (u:0088-0116). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C003 E002 next.
+
+
+## V006 C003 E002 sensei role and ethics delta
+
+Sensei does not deliver a new answer in this unit; Saori cites past equal-standing speech and persistence despite an ugly world as a reason her own thinking changed (scene:001:u:0050-0059). He reacts with surprise when Squad say they have jointly planned to surrender after the crisis, and his one choice asks whether all are truly okay; no consent, legal advice or custody outcome is shown (u:0060-0083). Saori proposes a broad personal confession that may shield other Arius students, but Sensei does not endorse its factual completeness on page. As Subaru escalates after Saori says her life is precious, Squad move him behind them for protection. The seventh-trumpet log is not his diagnosis or a verified event count (u:0106-0151). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C003 E003 next.
+
+
+## V006 C003 E003 sensei role and ethics delta
+
+Sensei has no new spoken choice. His inward alarm follows Saori's apparent injury; she calls it a graze, but no diagnosis or treatment is represented (scene:001:u:0001-0007). The trumpet/darkness and Atsuko's phenomenon label are observed/reported around him, not a conclusion he announces or a verified ability classification (u:0008-0040). Maia's call, rather than a Sensei command, draws Subaru's response. No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C003 E004 next.
+
+
+## V006 C003 E004 sensei role and ethics delta
+
+Atsuko privately thanks Sensei, alongside Squad, for helping her feel like herself rather than only Royal Blood symbol; it is her inward attribution, not a new public pledge by him (scene:001:u:0001-0013). She links Maia's turn to Sensei with Subaru's inability to claim perfect judgment; this is an untested supernatural counterfactual and should not make Maia responsible for the crisis (u:0049-0064). Sensei has only an inward request for clarification, no choice or directive. Hiyori encourages Maia, who voluntarily asks Subaru for help preserving and improving Arius while including Sensei in those she loves; Subaru's response is pending (u:0034-0090). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C003 E005 next.
+
+## V006 C003 E005 sensei role and ethics delta
+
+Sensei receives students' report of a third figure resembling Subaru and inwardly identifies her; his inference does not convert the witness impression of absorption into a proven mechanism (scene:001:u:0013-0022). Atsuko tells Subaru that honest disclosure will likely bring Sensei's help, a trust claim rather than a new promise from him (u:0061-0066). She also names possible correctional custody for Squad, not a consequence Sensei endorses here (u:0067-0068). After her apparent remote conversation, Sensei's choices assent and ask what he should do. Atsuko answers that he should do his usual teacher-specific part and Maia agrees to assist, but no concrete maneuver or outcome is yet printed (u:0083-0094). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C003 E006 next.
+
+## V006 C003 E006 sensei role and ethics delta
+
+Sensei tells newly awake Subaru where she is and estimates about ten seconds unconscious, but explicitly shares uncertainty about whether everything is over; he supplies no account of the unprinted intervention (scene:001:u:0058-0067, choices 001-003). He sits beside her while she cries, waits, acknowledges that she tried to protect Arius and asks her to value trying and student process without claiming her harms are thereby erased (u:0077-0103, choices 004-007). Against Subaru's impossible-dream objection, he concedes effort can fail, change nothing or worsen matters; his inward bottom/upward quip is challenged by her, not a guarantee (u:0104-0111, choice 008). Squad/Maia continue the appeal without a new Sensei order. No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C003 E007 next.
+
+## V006 C003 E007 sensei role and ethics delta
+
+Sensei has no fresh action or choice in the treatment scene. His E006 reassurance and explicit failure-risk acknowledgment recur in narrator-tagged lines as Subaru considers Maia's new-nest question; they are replay, not a second teaching event or independent confirmation (scene:001:u:0098-0115). Subaru thanks Trinity/Gehenna caregivers and resolves to live with unfinished feeling on her own terms; no Sensei command or forgiveness demand is printed (u:0016-0053). The CQB exchange and Mine's exam exhortation proceed without him. No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C003 E008 next.
+
+## V006 C003 E008 sensei role and ethics delta
+
+Sensei praises Nagisa, questions feasibility of the history project and asks what she wishes to protect, prompting a specific school-life ideal (scene:001:u:0001-0056, choices 001-007). He apologizes explicitly for slow trust and inwardly regrets harsh words; Nagisa retains her own remedial-group responsibility while disclosing hurt. He turns away at her request and the pair agree to greater care and a limited topic boundary (u:0057-0101, choices 008-015). He reports his E001 encounter with interim representatives rather than deciding authority alone; Nagisa's allegations and planned response are hers (u:0102-0126, choices 016-019). Private teasing, Mika/Seia's interruption and an ambiguous inward surprise cover story do not establish broader romantic status or exact audible speech (u:0127-0182, choices 020-026). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C003 E009 next.
+
+## V006 C003 E009 sensei role and ethics delta
+
+Konoka reports Sensei petitioned for Squad parole, personally sought Hina's petition, and pledged responsibility; Hina confirms he bowed/asked her directly. The precise legal meaning of his responsibility and Trinity signatories are not printed (scene:001:u:0061-0078). Konoka says this tipped parole, but the decision still belongs to the authority and does not annul charges (u:0072-0084). In a classroom, Sensei acknowledges difficulty withholding school/club names, agrees to teach and responds to anonymous Arius students' joking plea to avoid study; Hifumi/Hanako/Azusa supply substantive peer help. Narration confirms progress toward exam, not a pass produced by Sensei alone (u:0087-0209, choices 001-005). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). C003 E010 next.
+
+## V006 C003 E010 sensei role and ethics delta
+
+Sensei encourages test-takers without declaring passes before results; he thanks Subaru for trusting him and says teachers too can be shaken by lack of student trust, then thanks Maia and pats her head. The gesture is shown, not a claim of permanent dependence (scene:001:u:0019-0055, choices 001-006). He waits nearby during the sitting and takes Arius students to a narrator-confirmed post-test celebration, keeping self-reported failure anxiety distinct from results (u:0056-0086, choices 007-009). At the restoration site he asks about progress and scores and encourages those near failing; several report mixed marks. Saori credits Sensei for full marks and calls him a life benefactor, her personal account rather than proof he alone produced the outcomes (u:0242-0293, choices 010-016). No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). Canonical C003 checkpoint next.
+
+## V100 C001 E001 sensei role and ethics delta
+
+An unidentified speaker tells Sensei to forget prior stories and anticipates events beyond ordinary narrative categories, but Sensei makes no choice, speaks no reply and takes no visible action (scene:001:u:0001-0019). Treat the command as the speaker's attempt to frame him, not evidence that his earlier obligations are erased. No frozen prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). V100 C001 E002 next.
+
+## V100 C001 E002 sensei role and ethics delta
+
+An anonymous warning about Sensei ends with his inward Shiroko question, which does not identify the speaker (scene:002:u:0068-0073). Sensei checks Arona for harm after a dream; she is currently unharmed and offers protection. Seia tells him of a distorted-halo girl killing him in a monochrome vision; he asks when, but she lacks future sight and cannot date it (scene:003:u:0002-0032, choices 001-004). He chooses to bring the warning to Rin. She names absent evidence/date but starts records/roster checks because she knows he takes it seriously and was appointed by the president; broader council persuasion remains evidence-gated (scene:003:u:0028-0032; scene:004:u:0002-0021, choices 001-007). No agent-authored frozen prediction or held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). E003 next.
+
+## V100 C001 E003 sensei role and ethics delta
+
+Sensei is absent in all four scenes. Shiroko reports he recently initiated a simple well/safe check, with no printed motive or separate-message content beyond her account; Ayane plans to request his presence because committee peers argue he should decide if it burdens him (scene:002:u:0016-0033). Himari proposes asking Schale for help after reviewing Rio's warning and accepting Toki's aid; no request is yet sent or accepted by Sensei (scene:004:u:0045-0052). Do not treat his E002 dream as proof he already knew the Kaiser finding or Rio data. No frozen analytical prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). E004 next.
+
+## V100 C001 E004 sensei role and ethics delta
+
+Sensei neither appears nor speaks in the five scenes. Sakurako's artifact search, Mika's hearing, remedial group's plush visit and gate protest proceed without a new Sensei order (scene:001:u:0002-0021; scene:002:u:0002-0017; scene:003:u:0002-0043; scene:004:u:0002-0022). Azusa says she heard Mika helped Sensei save Atsuko/Squad, using that reported rescue to reject hatred, but not claiming Sensei directed her present choice (scene:005:u:0022-0030). Hifumi calls for assembly freedom and cautions Azusa against attacking protesters; the sweets-club fight begins separately. No frozen analytical prediction/held-out diagnostic (NO_DIAGNOSTIC_OPPORTUNITY). E005 next.
+
+## V100 C001 E005 Sensei role/ethics delta
+
+Sensei is absent from Rabbit Squad's scenes. Miyako notes no recent Schale contact; Moe says she would not answer, Saki says the squad can manage without him, and Miyu quietly wishes he would contact them sometimes. No call or choice occurs, so neither total rejection nor a reciprocal Sensei commitment is supported (scene:002:u:0014-0021). Beatrice names [USERNAME]先生 as a target for erasure after Color contact and world-power ambition; this is her hostile intent, not an observed attack on Sensei (scene:004:u:0006-0012). No Sensei choice, standalone ethical model or frozen prediction; 312/480.
+
+## V100 C001 E006 Sensei role/ethics delta
+
+Sensei neither speaks nor chooses. Aoi disparages reliance on Schale's warning and Seia's death dream while contesting Rin's committee basis; this is her assessment, not refutation of the dream or a review of Sensei's conduct (scene:002:u:0060-0062). Kaya proposes Sensei/Schale attendance as persuasive support and offers to contact him with Valkyrie escort; Rin accepts the proposal, but his invitation, consent and appearance are not yet shown (u:0094-0104). No standalone ethical model or frozen prediction; 313/480.
+
+## V100 C001 E007 Sensei role/ethics delta
+
+Arona passes Rin's emergency brief to Sensei, who thanks her, asks continued research and boards what he believes is the arranged Valkyrie escort; four printed choices are acknowledgment/surprise/helicopter comment, with no avoidance branch (scene:001:u:0050-0069; choice:001-004). Sensei contrasts the escort's financial claim with a recalled Kirino statement, recognizes the pair as Kaiser PMC, then is reported secured. His inference is confirmed by their reveal, but capture is the only completed harm (u:0070-0080). Kaya expects his absence to collapse Rin's committee and pursue Schale dissolution; General instead orders him hidden and shot in the leg. No shot or injury is printed (u:0081-0111). Adult advisory authority is threatened by direct coercion, without a Sensei consent or rescue response yet. No standalone model/frozen prediction; 314/480.
+
+## V100 C001 E008 Sensei role/ethics delta
+
+Sensei remains in Kaiser captivity and has no choice group. Captors try to shoot after E007's leg-shot order, but barrel distortion/misfire and missed fire leave no printed wound; one soldier warns against killing (scene:001:u:0041-0052). Arona claims active Shittim Chest protection and urges him to flee, then senses something approaching. Sensei perceives possible Chest power loss and headache while captors decide to transport him rather than release him (u:0053-0064). Ayane tries to call him at Nonomi's request and cannot reach him, so Abydos cannot use its expected adult adviser in this moment; their knowledge of his capture is not shown (u:0073-0078). No global invulnerability or completed escape can be inferred. No standalone ethical model/frozen prediction; 315/480.
+
+## V100 C001 E009 Sensei role/ethics delta
+
+Sensei wakes captive, observes his Shittim Chest gone, and hears guards say it is inert; Kanna releases him from the cage. His eight choice groups express recognition, concern for her injury, questions about site/closure and gratitude at Life Safety help, with no printed independent escape branch (scene:001:u:0001-0069; choice:001-008). Kanna's rescue knowingly opposes current PMC orders and she tries to spare Kirino/Fubuki institutional risk; her ethical account is direct but legal immunity unproven (u:0065-0083). In the earlier committee, Rin and others search for absent Sensei; his expected moderating role is not fulfilled, and Makoto falsely accuses the council of hiding him (u:0084-0128). No standalone ethical model/frozen prediction; 316/480.
+
+## V100 C001 E010 Sensei role/ethics delta
+
+Sensei hears the direct Kaiser takeover retrospectively and sees injured Kanna unable to continue. She returns his tablet/Shittim Chest and smartphone, credits his earlier teaching for her action, and refuses to present every Valkyrie student as corrupt. Sensei inwardly affirms her principled courage rather than her self-condemnation (scene:001:u:0044-0077). With the device he recites the seven-lament/Jericho words; Arona reconnects and confirms abrupt power loss, and Sensei's printed choices offer confidence/care. He proposes to resume command, but no specific operational order or D.U. escape appears (u:0078-0088; choice:001-002). No standalone ethical model/frozen prediction; 317/480.
+
+## V100 C001 E011 Sensei role/ethics delta
+
+Sensei has no choice group and no printed command lines, but Fubuki twice credits his command while warning that the small injured group remains inferior in numbers, support and supplies. The local fight ends with Kirino's survival report, not a documented tactical route or absence of casualties (scene:001:u:0001-0006; scene:002:u:0001-0002). Kanna's communication-shutdown warning limits the group's ability to call help; she resumes movement after rest (scene:002:u:0003-0005). No standalone ethical model/frozen prediction; 318/480.
+
+## V100 C001 E012 Sensei role/ethics delta
+
+Sensei asks Arona to contact others; she can sustain only a near-recipient connection for about a second under tower shutdown. His first choice thanks her; Rabbit Squad later confirms his rescue message reached them, but no universal comms reach is shown (scene:001:u:0001-0014; u:0029-0033; choice:001). He thanks Rabbit and reacts to their familiar teasing. Miyako aims to escort him and Kanna, coordinating Kirino/Fubuki for the next fight; no actual extraction or command result beyond initial relief appears (u:0015-0057; choice:002-003). No standalone ethical model/frozen prediction; 319/480.
+
+## V100 C001 E013 Sensei role/ethics delta
+
+At Rabbit Park Sensei receives Arona's technical/governance briefing. His first four choice groups ask for a remaining method, control point and Rin, with no independent route yet (scene:001:u:0009-0025; choice:001-004). Public Security joins; when Miyako asks for orders, Sensei's choice explicitly asks her to lead and promises support, and she accepts. The operation proceeds with student field command and adult backing, not Sensei withdrawing from responsibility (u:0071-0083; choice:005-006). At Schale, Momoka/Ayumu identify Rin's room from restored logs and Sensei promises to handle rescue; no direct encounter yet (scene:002:u:0024-0034; choice:001). No standalone ethical model/frozen prediction; 320/480.
+
+## V100 C001 E014 Sensei role/ethics delta
+
+Sensei has no choice group. Following Miyako's tactical lead, the team reports the Craft Chamber secured; he reaches Rin and calls her リンちゃん, prompting her familiar objection and acceptance that he alone now uses it. He has found her, but the text does not show medical examination, release from Schale or restoration of office (scene:002:u:0001-0014). As Miyako and Saki corner General, a detonator threat arises and Miyu shoots toward it, with no outcome printed. Sensei's command/ethical response to that shot is not shown (u:0015-0025). No standalone ethical model/frozen prediction; 321/480.
+
+## V100 C001 E015 Sensei role/ethics delta
+
+Restored communications deliver many students' urgent messages, including Abydos reports Shiroko vanished and bicycle remains (scene:001:u:0001-0022). Sensei asks an apparent Golconde voice its identity; Francis self-names and claims Sensei's prior protagonist power/meaning is gone. Sensei inwardly rejects genre collapse as a reason to stop: he and the students will face any future, even if the story changes. This is commitment, not proof of invulnerability or cosmological error (u:0041-0071; choice:001). He asks Arona to contact everyone, clarifies all, and thanks her after she reports reaching all students acquainted with him; delivery responses unshown (u:0072-0080; choice:002-004). No standalone ethical model/frozen prediction; 322/480.
+
+## V100 C002 E001 Sensei role/ethics delta
+
+Sensei contacts PS68 by the scene montage and meets Black Suit on Schale roof. His choices recognize Black Suit, ask what happened, commit to stopping the towers and question Plenapates; no choice certifies Black Suit's unseen mechanisms (scene:001:u:0015-0020; scene:002:u:0002-0024; choice:001-004). Schale broadcasts a student evacuation warning. Sensei inwardly tells students to leave it to adults/Schale and draws the adult card; Black Suit warns overuse would produce Gematria-like ruin, with no card activation or measured cost yet (u:0034-0042). No standalone ethical model/frozen prediction; 323/480.
+
+## V100 C002 E002 Sensei role/ethics delta
+
+Sensei summons Kayoko, returns from D.U. fighting by Momoka's report and attends Rin's meeting. He seeks a way to restore students affected by Color, with Seia suggesting Kuzunoha but no known route or treatment (scene:002:u:0048-0100/0156-0176). Rin assigns him central oversight of all district defense/evacuation and six false-Sanctum attacks, and he accepts while local students retain operational duties (scene:007:u:0004-0062; choice:001). This expands answerability across institutions without proving he alone executes the operations or that they succeed. Niya promises an idea but withholds it (u:0110-0117). No standalone ethical model/frozen prediction; 324/480.
+
+## V100 C002 E003 Sensei role/ethics delta
+
+Sensei does not speak or choose in this unit. Noa's Schale Control receives three front-readiness reports, while Alice's companions say Sensei told them a strong team would assemble and Alice reports his favorable Hina judgment. These are participant reports about his encouragement, not a direct new instruction or proof of predicted success (scene:001:u:0028-0033/0102-0108/0137-0152). Ayane, Eimi and Yuzu lead local operations under the larger assignment made in E002; their combat results remain pending. No standalone ethical model/frozen prediction; 325/480.
+
+## V100 C002 E004 Sensei role/ethics delta
+
+Sensei's request reaches Arius, whose members decide to help, without an arrival scene (scene:001:u:0001-0029). He receives Niya's confidential search proposal through four choice groups and asks the ninjas to tell the missing chair to contact Schale if found; the mission keeps local judgment and a return-if-absent safety limit (scene:003:u:0050-0128; choice:001-004). Kanna's evacuation report and direct soup-kitchen aid show delegated civilian protection rather than Sensei's personal execution. Niya's temple inference and Makoto's reaction mean the Kuzunoha path has not yielded care for affected students (u:0002-0035/0112-0136). No standalone ethical model/frozen prediction; 326/480.
+
+## V100 C002 E005 Sensei role/ethics delta
+
+Ayumu explicitly asks Sensei to command every defensive and offensive battle, while Momoka says the plan depends on him yet notes one body is inadequate; this tension belongs to the operational brief, not proof of omnipresence (scene:001:u:0012-0013). Sensei thanks Rin/Momoka/Ayumu, receives Rin's warning that the hard part starts now, and inwardly declares the attack open to an answering group (u:0014-0020; choice:001). No actual battle command decision or outcome appears. No standalone ethical model/frozen prediction; 327/480.
+
+## V100 C002 E006 Sensei role/ethics delta
+
+Sensei neither speaks nor chooses in this short Abydos launch. Ayane issues route orders and Kayoko starts a train action before an unidentified interruption; his E005 central command is a prior accepted role, not a directly observed E006 intervention (scene:001:u:0001-0016). No battle result or ethical revision follows. No standalone ethical model/frozen prediction; 328/480.
+
+## V100 C002 E007 Sensei role/ethics delta
+
+Sensei neither speaks nor chooses in this Shanhaijing defense vignette. Shun/Kokona and Kisaki directly take local responsibility while a citizen alarms at attackers; this is distributed action under the E005 campaign, without an E007 order from Sensei or completed rescue (scene:001:u:0001-0015). No standalone ethical model/frozen prediction; 329/480.
+
+## V100 C002 E008 Sensei role/ethics delta
+
+Sensei neither speaks nor chooses in this Red Winter vignette. Local guard/workers mobilize and Nodoka directs a shelter while Cherino's whereabouts remain unknown; no direct Sensei command, rescue result or ethical revision is shown (scene:001:u:0001-0018). No standalone ethical model/frozen prediction; 330/480.
+
+## V100 C002 E009 Sensei role/ethics delta
+
+Sensei neither speaks nor chooses in this second-site launch. Eimi directly coordinates the front and C&C infiltration, which follows E005's campaign structure without displaying a new Sensei order or intervention (scene:001:u:0001-0011). No guardian or tower result/ethical revision; no standalone model/frozen prediction; 331/480.
+
+## V100 C002 E010 Sensei role/ethics delta
+
+Sensei neither speaks nor chooses in this Hyakki defense vignette. Kaho and Shizuko direct local combat/shelter work under the larger E005 campaign, without a shown teacher order, battle result or ethical revision (scene:001:u:0001-0009). No standalone model/frozen prediction; 332/480.
+
+## V100 C002 E011 Sensei role/ethics delta
+
+Sensei neither speaks nor chooses in this Gehenna vignette. Prefect Team and Pandemonium separately contribute defense readiness and civilian evacuation while Hina serves at a tower front; no direct teacher command, battle result or ethical revision is shown (scene:001:u:0001-0043). No standalone model/frozen prediction; 333/480.
+
+## V100 C002 E012 Sensei role/ethics delta
+
+Sensei neither speaks nor chooses in this third-site launch. Yuzu directs the local operation, Kotori explains equipment and Hina/Alice advance under the larger E005 campaign, without a new displayed teacher order or proven success (scene:001:u:0001-0021). No standalone model/frozen prediction; 334/480.
+
+## V100 C002 E013 Sensei role/ethics delta
+
+Sensei neither speaks nor chooses in this Trinity vignette. Justice, library staff, Vigilante, Sweets and Tea Party coordinate defense/evacuation under Hasumi's local command, with no displayed teacher order or outcome (scene:001:u:0001-0051). No standalone model/frozen prediction; 335/480.
+
+## V100 C002 E014 Sensei role/ethics delta
+
+Sensei neither speaks nor chooses in this Trinity rescue vignette. Seia/Mashiro locate missed evacuees, Mika intervenes and Justice reaches Koharu; protection is locally carried by students rather than a displayed new teacher order (scene:001:u:0001-0031; scene:002:u:0001-0020). No full rescue/medical/legal result or standalone ethical model/frozen prediction; 336/480.
+
+## V100 C002 E015 Sensei role/ethics delta
+
+Sensei neither speaks nor chooses here, but Hanako explicitly cites Arius Squad answering his request as one ground for accepting them at the fourth front (scene:001:u:0007-0024). This is a mediated effect of his prior outreach, not personal clearance of their history or direct command at the basilica. Hanako/Sakurako prepare and launch without battle result. No standalone ethical model/frozen prediction; 337/480.
+
+## V100 C002 E016 Sensei role/ethics delta
+
+Sensei neither speaks nor chooses in this Millennium vignette. Utaha's local group departs with apparent AMAS support under an unknown operator, without a direct teacher command or ethical revision (scene:001:u:0001-0014). No battle result or standalone model/frozen prediction; 338/480.
+
+## V100 C002 E017 Sensei role/ethics delta
+
+Sensei neither speaks nor chooses in this fifth-site vignette. Yuuka/Noa press Koyuki into a further risky role and Hot Spring Club damages infrastructure with its own stated goal, but no direct Sensei approval, regulation or response is shown (scene:001:u:0001-0036). Do not assign him responsibility for those local choices from mere campaign oversight. No standalone model/frozen prediction; 339/480.
+
+## V100 C002 E018 Sensei role/ethics delta
+
+Sensei neither speaks nor chooses in the snowfield rescue. The ninjas cite their promise to complete his assigned search, Makoto/Iroha/ Ibuki supply unrequested local rescue, and the group continues with no chair found (scene:001:u:0001-0061; scene:002:u:0001-0025). This shows delegated responsibility and local aid, not a teacher-directed Toramaru plan. No standalone model/frozen prediction; 340/480.
+\n+## V100 C002 E019 Sensei role/ethics delta
+\n+Sensei neither speaks nor chooses here. Himari directs defense/recon, Kaitenger independently joins a local fight, and Toki accepts another Himari assignment (scene:001:u:0001-0033; scene:002:u:0001-0023). Eimi offers help and Himari speculates about Toki's self-blame, but no teacher-led intervention or direct Toki confession occurs (u:0021-0032). Do not assign Sensei the unseen operational choices or make the inferred guilt an ethical verdict. No standalone model/frozen prediction; 341/480.
+
+## V100 C002 E019 Sensei role/ethics delta
+
+Sensei neither speaks nor chooses. Himari directs defense/recon, Kaitenger independently joins a local fight, and Toki accepts another Himari assignment (scene:001:u:0001-0033; scene:002:u:0001-0023). Eimi offers help and Himari speculates about Toki's self-blame, but no teacher-led intervention or direct Toki confession occurs (u:0021-0032). Do not assign Sensei unseen operational choices or make inferred guilt an ethical verdict. No standalone model/frozen prediction; 341/480.
+
+## V100 C002 E020 Sensei role/ethics delta
+
+Sensei's sole printed act is assent to Rin's forthcoming countdown signal: `うん。リンちゃん、お願いします。` (scene:002:choice:001). He does not order Valkyrie, delinquents, Love or Wakamo on page; those actors volunteer or pledge protection amid the Schale alarm (scene:001:u:0008-0022). His assent confirms reliance on Rin's procedure, not direct observation of battle success. No standalone model/frozen prediction; 342/480.
+
+## V100 C002 E021 Sensei role/ethics delta
+
+Sensei has no choice or outward command here. His two internal questions concern whether they succeeded and whether he sees Shiroko (scene:001:u:0003-0004). The first is not verified battle accountability, and the second is not an encounter or ethics decision. No standalone model/frozen prediction; 343/480.
+
+## V100 C003 E001 Sensei role/ethics delta
+
+The ninjas again cite Sensei's request, and Nagusa entrusts them a scroll addressed to him whose contents remain unknown (scene:001:u:0023-0024/u:0076-0090). In the Shiroko-tagged encounter, four printed choice groups are brief reaction/objection, not a demonstrated power to alter her claimed fate. She asks him to leave Kivotos to avoid being shot; he internally calls after her and jumps into the vanishing space despite Rin's warning (u:0091-0129). This is direct personal pursuit amid risk, not confirmation of cosmic roles or a resolved rescue. No standalone model/frozen prediction; 344/480.
+
+## V100 C003 E002 Sensei role/ethics delta
+
+Sensei voices sweeping self-blame for knowing warnings and thinks adult responsibility meant protecting Shiroko. Rin counters that he brought even an ungrounded prophecy to her and they used available measures, then questions her own authority (scene:002:choice:001-003; u:0053-0070). Hoshino reframes action as retrieving Shiroko and preventing further victims; Sensei inwardly resolves to bring her back `どんな手を使ってでも` (u:0071-0099; choice:004-005). This signals responsibility and determination, not causal guilt, cure knowledge or a specified coercive plan. No standalone model/frozen prediction; 345/480.
+
+## V100 C003 E003 Sensei role/ethics delta
+
+Sensei is noticed absent from the group when Black Suit appears to him separately. He asks for a way to reach Plenapates, does not accept the joking Gematria-membership proposal, and inwardly accepts Black Suit's warned possibility of irreversible bodily injury/death (scene:002:u:0090-0112; choice:001-003). The unnamed method is only said to be in Abydos; his risk willingness is not a demonstrated use, injury or consent from other participants. No standalone model/frozen prediction; 346/480.
+
+## V100 C003 E004 Sensei role/ethics delta
+
+After E003's inward acceptance of grave risk, Sensei listens to Black Suit's claim that the Shittim Chest owner can operate a buried Abydos ship after Sanctum tower destruction. Sensei inwardly asks what the weapon is; Black Suit names Utnapishtim ship (scene:001:u:0028-0040). No choice, journey, access or use occurs here. The claimed exclusivity and duty burden remain untested testimony, not proof Sensei must sacrifice his body. No standalone model/frozen prediction; 347/480.
+
+## V100 C003 E005 Sensei role/ethics delta
+
+Abydos chooses to enter disputed Kaiser private property for a weapon believed necessary to rescue Shiroko; Ayane explicitly names the paperwork issue, Hoshino invokes emergency, and Nonomi calls it borrowing (scene:002:u:0011-0042). Ayane asks Sensei to command and he inwardly starts; his sole printed choice later is to enter the visible machine (u:0046-0048; scene:003:choice:001). This shows participation in a crisis incursion, without a printed legal exemption, use of the ship or bodily harm. No standalone model/frozen prediction; 348/480.
+
+## V100 C003 E006 Sensei role/ethics delta
+
+Sensei's sole printed choice accepts Himari's request to summon a broad ship support team (scene:001:u:0009-0011; choice:001). The scene shows staffing needs and Chihiro's fatigue, but no explicit rest allocation by Sensei or ship launch. Yuuka/Noa dispute Alice's safety, and Kei warns activation could attack her; Sensei makes no printed decision on that warning in this unit (u:0012-0047/u:0076-0094). No standalone model/frozen prediction; 349/480.
+
+## V100 C003 E007 Sensei role/ethics delta
+
+Sensei is present for Himari/Hanako/Rio-adjacent discussion but has no printed intervention in their technical dispute. His five choice groups include thanks to Hanako and reactions to Rin's open second ancient question; choice:004 contains two printed alternatives, neither a fixed doctrinal answer (scene:001:u:0125-0164; choice:001-005). Himari makes the conditional Rio-aid decision and defers accountability herself. Ayumu/Momoka request plan review, with no Sensei approval yet shown (u:0165-0169). No standalone model/frozen prediction; 350/480.
+
+## V100 C003 E008 Sensei role/ethics delta
+
+Sensei says the 3%-simulated plan is worth attempting and calls for joint action; he volunteers as overall leader, citing Shittim Chest, while Rin refuses to leave the highest risk to him alone (scene:001:choice:001-005; u:0051-0102). Others volunteer under mixed motives; Momoka's consent comes after Ayumu's pressure. Sensei later contributes enthusiastic costume ideas (choice:006; u:0103-0125). Ayumu/Rin order rest before an eight-hour departure; no launch or actual risk realization occurs (u:0126-0138). No standalone model/frozen prediction; 351/480.
+
+## V100 C003 E009 Sensei role/ethics delta
+
+No Sensei choice or direct outward command appears. Abydos/PS68 trust his presence, Alice recalls his role in helping her choose identity, and the Game Development Club chooses to accompany her; these are participants' reasons, not guaranteed rescue (scene:001:u:0010-0054; scene:002:u:0002-0079). Other schools explicitly take ground responsibility while Sensei travels; Rin/Aoi's contingency call is their decision (u:0080-0179). Sensei inwardly agrees after Rin says departure preparation is ready, with launch still future (u:0180-0185). No standalone model/frozen prediction; 352/480.
+
+## V100 C003 E010 Sensei role/ethics delta
+
+Sensei agrees to Chest operation after Arona warns of unknown bodily burden; Black Suit's replayed risk/determinism challenge elicits his inward adult/teacher duty to protect students regardless of cost (scene:001:u:0074-0109; choice:005-008). He asks Rin how she completed the ancient question and accepts a deferred answer, then connects the Chest, orders actual launch and suffers acute shock/pallor/shaking/fading consciousness (u:0110-0179; choice:009-012). Fuuka's protesting food assignment and Alice safety remain unresolved consent concerns in the larger plan. Irreversible injury or rescue success is not shown. No standalone model/frozen prediction; 353/480.
+
+## V100 C003 E011 Sensei role/ethics delta
+
+The italic president-address voice says Sensei's adult responsibility and choices might lead to a different result and asks him to preserve bonds and memories (scene:001:u:0001-0023). This interprets his role from her perspective; there is no Sensei choice, outward reply or new act, and no proof of a literal past/future meeting or memory reset. On the bridge his status remains unreported as the ship/ark reading diverges (u:0024-0039). No standalone model/frozen prediction; 354/480.
+
+## V100 C003 E012 Sensei role/ethics delta
+
+Sensei's sole outward choice asks the alarmed club to settle, and his inward line is to hear Alice to the end; later he inwardly trusts her after she elects to ask Kei for help (scene:001:choice:001; u:0033/u:0100). He does not command protocol activation. Alice cites his teaching that she can choose her own desired identity and extends that permission to Kei; the extension is Alice's own moral action (u:0039/u:0078-0089). Kei claims Sensei has borne startup wounds and will soon die, consistent with but more specific than observed E010 impairment; no medical verdict or death is shown (u:0057-0060). No standalone model/frozen prediction; 355/480.
+
+## V100 C003 E013 Sensei role/ethics delta
+
+Sensei's first optional exclamation celebrates the barrier's shattering; his second calls the ship's Ark entry a success, both bounded to observed local outcomes (scene:001:u:0034-0074; choice:001-002). A third optional line credits Rio with saving the world, while Himari explicitly makes full world success conditional. Preserve the choice as a character credit line, not analytical certification of mission completion (u:0078-0087; choice:003). Sensei's own medical state is unreported while Alice is unconscious and Kei discusses possible sacrifice. No standalone model/frozen prediction; 356/480.
+
+## V100 C003 E014 Sensei role/ethics delta
+
+A crew voice requests Sensei take total command of Utnapishtim's defense as hostile units close in; he inwardly resolves to go with Abydos, Game Development and Gourmet (scene:001:u:0009-0043). No Sensei choice or outward tactical order appears in this unit. The coalition includes Fuuka, who still protests her presence, so command should not be treated as proof of her assent. The ship's disabled systems and Alice's continued sleep keep safety and return obligations open. No standalone model/frozen prediction; 357/480.
+
+## V100 C003 E015 Sensei role/ethics delta
+
+Sensei inwardly recognizes Shiroko and calls to Hoshino amid grenade alarm; his one optional reply says he is all right when Hoshino checks him after the blast (scene:001:u:0004-0026; choice:001). This does not assess the Chest burden or rule out injury. The ship's first defense succeeds under his earlier requested command, but tactical details are skipped. Crew assigns Schale and operators to the Ark occupation while others guard the damaged ship; this is prospective responsibility, not a completed rescue (u:0077-0087). No standalone model/frozen prediction; 358/480.
+
+## V100 C003 E016 Sensei role/ethics delta
+
+After the crew's hack trace, Sensei and an allied Shiroko-labelled voice report travel to Area 4; he says they will try to stop the hack and asks others to handle the remainder (scene:001:u:0085-0110; choice:001-002). This is delegated shared action, not accomplished counter-hack. He inwardly recognizes Prenapates' recitation and warns Shiroko back after her shots miss (u:0111-0131; choice:003). A control-room A.R.O.N.A. voice authenticates and addresses him, with two alternate printed choice groups; identity/authority relation to his prior Arona is unverified (u:0132-0138; choice:004-005). His condition under Chest burden and survival of the announced final ship self-destruct remain open. No standalone model/frozen prediction; 359/480.
+
+## V100 C004 E001 Sensei role/ethics delta
+
+Sensei questions whether the control-room A.R.O.N.A. and Prenapates are counterparts of familiar Arona and himself; A.R.O.N.A. partly confirms and familiar Arona says Prenapates' biometrics match but that other Sensei is not alive (scene:001:u:0031-0066; choice:001-004). This is a direct encounter with a possible fate he has been warned about, not proof his own death is fixed. Alternate Shiroko claims she killed her Sensei and projects the same destiny on local Shiroko, who rejects it (u:0067-0104). Prenapates asks Sensei what he will do, and no answer is printed (u:0105-0107). No standalone model/frozen prediction; 360/480.
+
+## V100 C004 E002 Sensei role/ethics delta
+
+Sensei has no printed choice or direct outward command in this episode. Aru says Sensei and Kayoko are working and uses that as a reason for PS68 to act; this is her motivating claim, not a new Sensei scene (scene:001:u:0001-0011). Rio/Himari/Engineering/Hanako devise a three-front counter-hack while Sensei remains offscreen at the control-room crisis; his condition and response to Prenapates remain unreported (u:0023-0128). Student decisions, including Alice volunteering and Fuuka's reluctant driving, should not be collapsed into his agency. No standalone model/frozen prediction; 361/480.
+
+## V100 C004 E003 Sensei role/ethics delta
+
+Sensei answers Prenapates' challenge through a choice and inward resolve: combine efforts, prevent waste of others' work, destroy the hostile site and return to ground. These are intentions rather than achieved outcomes (scene:001:u:0001-0009; choice:001). His later choice tells local Shiroko they will fight here and get through it together (u:0065-0066; choice:002). Toki independently elects a solo stand at the new Sanctum under support-distance concern; no Sensei order, successful rescue or acceptance of her death is shown (u:0025-0052). No standalone model/frozen prediction; 362/480.
+
+## V100 C004 E004 Sensei role/ethics delta
+
+Sensei has no printed choice or direct action in this unit. The east/west/lower teams execute the coordinated plan while he remains offscreen at the Prenapates confrontation. The link cut succeeds at one second through student, Engineering and Veritas actions, not a Sensei solo intervention (scene:001:u:0011-0047). Toki's state and Sensei's response to the enemy remain unreported. No standalone model/frozen prediction; 363/480.
+
+## V100 C004 E005 Sensei role/ethics delta
+
+Sensei has no printed choice or direct action. Toki says she wanted to fight alongside Schale/C&C; Rio's answer to her self-sacrifice proposal rejects a narrowed trolley premise because she never sought helpers, and C&C actually arrives (scene:001:u:0019-0066). This is Rio's moral revision and Noa/Seia/C&C action, not a Sensei command or completed rescue. Rio's ground-return promise must later be tested against the ship/Ark explosion plan; Sensei's own condition at the control room remains open (u:0073-0077). No standalone model/frozen prediction; 364/480.
+
+## V100 C004 E006 Sensei role/ethics delta
+
+Sensei says he trusts the arriving allies and inwardly intends to prevent the hostile side until they come because he has words to say; local Shiroko frames winning as collective (scene:001:u:0060-0067; choice:001-002). The hostile side considers removing him to break the coalition, while familiar Arona and local Shiroko promise protection (u:0068-0086; choice:003). Sensei takes out the adult card and Prenapates displays a counterpart card, but no activation, cost, harm or winner is shown (u:0087-0097). OS 0.0003% survival figure is a forecast, not a limit on Sensei's agency or observed death (u:0058-0059). No standalone model/frozen prediction; 365/480.
+
+## V100 C004 E007 Sensei role/ethics delta
+
+An OS reports one teacher giving his own escape sequence to Shiroko, then interprets that as trust in a counterpart's future choice; the transfer/motive is not directly spoken by the teacher in this text (scene:001:u:0001-0006; scene:002:u:0002-0011). A Sensei inward voice asks the OS to help another child in his place and says farewell while a fall remains dangerous, with identity attribution and death outcome unresolved (u:0017-0034). Familiar Arona and control-room A.R.O.N.A. appear to choose a joint rescue because Sensei extended trust even to an enemy OS; success waits for later printed evidence (u:0035-0068). No standalone model/frozen prediction; 366/480.
+
+## V100 C004 E008 Sensei role/ethics delta
+
+A president-address callback asks Sensei to remember relationships and return, but is an unlocated address (scene:001:u:0001-0010). OS voices report he safely reached students, upgrading E007's falling peril without a physical reunion/health scene (u:0011-0019). Local Shiroko trusts Sensei to address future coexistence problems; familiar Arona says his request to care for everyone includes Plana, and Plana interprets his aid as viewing even an enemy OS as a student worth helping (u:0051-0094). These are others' interpretations and commitments, not a new printed Sensei choice. No standalone model/frozen prediction; 367/480.
+
+
+## V100 C004 E009 sensei role and ethics delta
+
+Shinon reports diffuse public gratitude for Schale and then an unverified nude-Sensei rumor, twice stopped by automatic interruptions; neither is a direct Sensei act in this episode (scene:001:u:0011-0029). The council's withheld details and financing questions leave civic accountability beyond the rescue unresolved. Kaya/General's `真の大人`/exceptional-person self-description is actor rhetoric in renewed alliance, not Sensei's ethic (u:0033-0048). Alice/Himari preserve an uncertain trace of Key without claiming proof, a concrete restraint on declaring another's identity by desire alone (u:0099-0141). No Sensei choice or standalone model; 368/480, E010 unopened.
+
+
+## V100 C004 E010 sensei role and ethics delta
+
+Sensei has six singleton response groups with Niya: greeting, thanks, query, silence, challenge and thanks (scene:001:choice:001-006). A nude-running rumor is rejected in inward speech as misunderstanding, while Niya's more specific alleged eyewitness account remains unverified (u:0101-0108). Niya sends a letter from a self-proclaimed Kuzunoha after reporting no confirmation of that person's existence. The letter states no restoration from Color inversion and invites Sensei to visit if there is still someone to save (u:0109-0123). Its law and attribution are not a tested constraint or a completed rescue path. Rin separately suspects the missing president authored her unsigned letter, without cross-validating E011's unlocated address (u:0124-0131). No standalone model/frozen prediction; 369/480, E011 unopened.
+
+
+## V100 C004 E011 sensei role and ethics delta
+
+Sensei has five singleton choices greeting Plana, checking adjustment, greeting Arona, encouraging Plana's caregiving and asking both OSs for continued partnership (scene:001:choice:001-005). Arona's claimed Chest improvement and Plana's later burden concern are not measured outcomes of Sensei's request (u:0020-0027). Plana's cross-world missing-president observation does not resolve Rin's suspected letter author (u:0028-0029). No standalone model/frozen prediction; 370/480, E012 unopened.
+
+
+## V100 C004 E012 sensei role and ethics delta
+
+Sensei has no choice or spoken turn in E012. Francis interprets Sensei's earlier “not protagonist” declaration as a failed-genre prediction and threatens limits to future overhead intervention; treat this as adversarial forecast, not a demonstrated ethical/mechanical rule (scene:001:u:0001-0012). Plana's private president hypothesis may affect future context but establishes no present Sensei action or knowledge (u:0013-0020). No standalone model/frozen prediction; 371/480, chapter checkpoint pending.
+
+
+## V100 C004 canonical checkpoint reconciliation
+
+The [V100 C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md) reconciles E001-E012 at **371 / 480** canonical main units. The coalition's east/west/lower-device intervention severs the ship/Ark link at one second; the OS reports temporary ground-Sanctum cancellation, while E008 OS voices report present Sensei safely returned after E007's dangerous fall. Plana is the existing control-room OS subject, distinct from familiar Arona; local and alternate Shiroko remain distinct. The exact duel, Ark/ship damage, Prenapates' fate, Sensei medical status, the alternate's durable status and wider casualty audit are unverified. E009-E012 supply civic repair reports, ambiguous `Kei.sav`, homecoming, pending Rin vote, unauthenticated Kuzunoha/president letters, Francis's unperformed Gematria plan and Plana's privately asserted president hypothesis. No new readiness promotion or standalone model: **21 PARTIAL_MODEL / 182 UNMODELED across 203**. No durable new claim ID, frozen analytical prediction, held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission. The 43 inserted V001 C003 units remain **DEFER** for their own ordered backfill. Next forward source: `BA:main:series2:000:001:001` / `MAIN_S2_V000_C001_E001`.
+
+
+## S2 V000 C001 E001 sensei role and ethics delta
+
+Sensei has no turn or choice in this Part 2 opening. Decalcomania's search for symbols, authority and a new order follows the V100 C004 antagonist hook but does not demonstrate a constraint on Sensei, a new ethical duty or any present Sensei knowledge (scene:001:u:0004-0082). The unheard telescreen cannot be treated as instructions delivered to Sensei. No standalone model/frozen prediction; 372/480, E002 unopened.
+
+
+## S2 V000 C001 E002 sensei role and ethics delta
+
+Sensei has no turn or choice in E002. Rin's public gun-safety campaign and private investigation of an envelope show council work and a president lead, without a request to Sensei or a verified new mission (scene:001:u:0001-0011; scene:002:u:0002-0052). The E010 letter clue narrows to photographs, with sender and lake unknown; Plana's separate private conclusion is not shared with Sensei here. No standalone model/frozen prediction; 373/480, E003 unopened.
+
+
+## S2 V000 C001 E003 sensei role and ethics delta
+
+Sensei has five singleton choices/inner directives: searches for the Chest against the imposed dream premise, chooses the council instead of the narrator's hospital, asks the unknown girl's identity, then receives waking care and agrees to rest after proposing 4 a.m. work (scene:001:u:0001-0068; choice:001-005). This supports bounded resistance to a dream narrator and a care relationship with Arona/Plana, not reality rewriting or a stable sleep diagnosis. No standalone model/frozen prediction; 374/480, E004 unopened.
+
+
+## S2 V000 C001 E004 sensei role and ethics delta
+
+Sensei has no turn or choice in this dive-team episode. The team's safety caution and continuing mission do not establish a request to Schale, Sensei knowledge or a proven artifact hazard (scene:001:u:0001-0036). Avoid transferring E003 dream concerns to this independent shard without a printed bridge. Four narrow subjects added; no standalone model/frozen prediction, 375/480. E005 unopened.
+
+
+## S2 V000 C001 canonical checkpoint reconciliation
+
+The [S2 V000 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_C001_CHECKPOINT.md) reconciles all four sequential readings at **375 / 480**. Decalcomania claims a new route to authority through an unheard telescreen without demonstrated power; Rin's unsigned “letter” proves to be a photo envelope with no message, including an unlocated monochrome lake; Sensei's monochrome city and unidentified girl are in a narrator-driven dream, followed by waking Arona/Plana care; Rei's dive team retrieves a shard she names a shining trapezohedron without composition, hazard or sponsor verification. No causal bridge between screen, photograph, dream and shard is printed. Four directly speaking dive-team subjects were added as narrow UNMODELED: **21 PARTIAL_MODEL / 186 UNMODELED across 207**. No durable new claim ID, standalone model, frozen analytical prediction, held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission. The 43 inserted V001 C003 episodes remain **DEFER** for ordered backfill. Next forward source: `BA:main:series2:001:001:001` / `MAIN_S2_V001_C001_E001`.
+
+
+## S2 V001 C001 E001 sensei role and ethics delta
+
+Sensei has nine choice groups across two scenes; two-alternative groups must remain branch-exclusive. Aoi privately asks Sensei to keep Rin from work, and he probes workload and whether Rin must carry every task (scene:001:choice:001-004; scene:002:choice:001-002). Inward date/nickname teasing nearly loses Aoi's request and draws Rin's rebuke; she later agrees to a Saturday meeting explicitly denying a date (scene:002:u:0035-0054; choice:003-005). Aoi's “any means” is not license for coercion; delegated support and consent to a plan are what the scene shows. No standalone model/frozen prediction; 376/480, E002 unopened.
+
+
+## S2 V001 C001 E002 sensei role and ethics delta
+
+Sensei and Rin actually meet Saturday, eat, watch a film and play an arcade game. Choice groups have exclusive alternatives; Sensei's date insistence is rejected, and an initial food order precedes checking Rin's preference (scene:001; scene:002:u:0014-0025). Sensei tries to steer her from work, but she responds to an actual vendor utility complaint and keeps making work calls (scene:002:u:0038-0056; scene:003:u:0002-0016). Sensei proposes a bounded wager; Rin agrees only within ordinary limits and wins, then asks to see someone unnamed (scene:003:u:0017-0069). This is consent to a limited game request, not carte blanche or romance. No standalone model/frozen prediction; 377/480, E003 unopened.
+
+
+## S2 V001 C001 E003 sensei role and ethics delta
+
+Sensei accompanies Rin to Kaya after losing a bounded arcade wager, asks about custody boredom and the `シャーケードの杖`, says its name is familiar but not understood, and observes the visit also contains work (scene:001:choice:001-006). Kaya's item testimony is not physical verification; Sensei's dream memory is not proof of its powers. Rin explicitly rejects treating people as pieces, while admiring the president as possible exception, an unresolved ethical tension rather than a rule Sensei endorses (u:0046-0059). No standalone model/frozen prediction; 378/480, E004 unopened.
+
+
+## S2 V001 C001 E004 sensei role and ethics delta
+
+Sensei escorts Rin and places her holiday ahead of immediate Shakade investigation, resisting her speculative urgency without denying the president search (scene:001:u:0001-0018; choice:001-004). Rin accepts but then investigates alone; this does not make Sensei aware of the successful access or later voice. The object is directly seen by Rin, not tested by Sensei, and the president-claiming speaker has no verified current identity (scene:002:u:0002-0057). No standalone model/frozen prediction; 379/480, E005 unopened.
+
+
+## S2 V001 C001 E005 sensei role and ethics delta
+
+Sensei arrives, says inwardly the visitor is unknown, reassures Rin and asks to hear the other person before concluding identity (scene:001:u:0061-0072; choice:001-002). Sensei names Schale and describes its work through branch-exclusive alternatives (choice:003-004). The claimant's assertion that she never authorized Schale creates a future jurisdiction dispute, not an actual loss of Sensei's mandate (u:0079-0085). No standalone model/frozen prediction; 380/480, E006 unopened.
+
+
+## S2 V001 C001 E006 sensei role and ethics delta
+
+A narrator says Sensei explains events to the claimant without printing the account (scene:001:u:0001). The claimant inspects records of Sensei's Schale appointment and performance, recognizes her apparent signature and states she will not discard Schale (scene:002:u:0015-0024; choice:002). This is her present commitment, not an authenticated legal ruling or proof of her identity; Sensei makes no new coercive move. Later decisions by Nagisa, Makoto and Cherino are their limited responses to the claimant's appeals, not Sensei's acts (scene:003:u:0002-0088). No standalone model/frozen prediction; 381/480, E007 unopened.
+
+
+## S2 V001 C001 E007 sensei role and ethics delta
+
+Sensei does not accept Plana's impostor verdict solely from OS recognition; their inner impression is nonhostile, while Arona urges hearing the claimant and Plana urges distance (scene:001:u:0006-0033). Sensei explicitly authorizes a pairing request and participates in a fresh biometric contact after Plana describes the procedure (u:0034-0063; choice:007-009). When the attempted core analysis overloads the OS, Sensei calls for emergency stop and the system confirms safe mode/restart; their post-event choices attend to OS safety or thank Plana (u:0095-0112; choice:012). The action yields technical evidence with a real capacity cost, not identity adjudication. No standalone model/frozen prediction; 382/480, E008 unopened.
+
+
+## S2 V001 C001 E008 sensei role and ethics delta
+
+Sensei accompanies Rin's discreet witness search, offers via branch alternatives to ask Schale visitors and notices the late/cold conditions before suggesting return (scene:001:u:0001-0029; scene:002:u:0037-0041). Their reputation causes a Valkyrie officer to withdraw an initial rumor accusation, without independently resolving the complaint (u:0025-0036). Sensei asks Mai to keep Rin's situation private, frames it as Schale/safety work through alternatives, then raises the changed-president claim; Mai supplies a lead after initial dismissal (u:0042-0089). Their `心の声` line receives dialogue, so channel status stays open. No standalone model/frozen prediction; 383/480, E009 unopened.
+
+
+## S2 V001 C001 E009 sensei role and ethics delta
+
+Sensei accompanies Rin into Triad and privately wonders whether the greeting speaker is Golconda, Francis or Decalcomania; no choice asserts an identity verdict (scene:001:u:0002-0017/u:0040-0045). Orwell credits Sensei's earlier conduct with exceeding a protagonist role and preserving a school/youth story, but this is Orwell's meta-interpretation of events, not new Sensei action or a full-series moral axiom (u:0017-0035). Sensei gives no substantive agreement to the media/ritual theory. No standalone model/frozen prediction; 384/480, E010 unopened.
+
+
+## S2 V001 C001 E010 sensei role and ethics delta
+
+Sensei rejects Orwell's speculation about Rin as a research 'variant,' warns against harming their student and presses twice for the missing president's location (scene:001:u:0017-0045). They accept a bounded online evidence-search proposal after Arona/Plana discuss feasibility, but state they will help students without joining Orwell's quest (u:0053-0084). This is consent to try a method, not consent to target the claimant with a relic, accept Orwell's ontology, use his account or broadcast conclusions. The proposed method has not yet been executed. No standalone model/frozen prediction; 385/480, BA:main:series2:002:001:001 unopened.
+
+
+## S2 V002 C001 E001 sensei role and ethics delta
+
+Sensei's inward lines frame the Gehenna quarrel as familiar and react to a final unidentified interrupter (scene:001:u:0001; scene:002:u:0003/0084-0085). Sensei issues no advice, order or choice in this unit. Ako/Chinatsu/Hina articulate and enact a local force-restraint argument, which is their policy, not a new Sensei maxim. The earlier president-claimant order to aid Hina is not shown arriving. No standalone model/frozen prediction; 386/480, E002 unopened.
+
+
+## S2 V002 C001 E002 sensei role and ethics delta
+
+Sensei has no printed speech or choice in this unit. The committee attacks Makoto's Schale-priority explanation for lack of Trinity protest, but neither side produces Sensei's contemporaneous instruction, treaty record or negotiated bargain (scene:001:u:0044-0048). Hina's free-Gehenna boundary is her institutional stance; do not recast it as Sensei's action. No standalone model/frozen prediction; 387/480, E003 unopened.
+
+
+## S2 V002 C001 E003 sensei role and ethics delta
+
+Sensei has no printed speech, choice or presence in E003. Mayumi's traffic work and the senior's contested historical testimony are not Sensei actions (scene:001:u:0001-0079). The committee's prospective authority-symbol strategy has no named target or ethical decision by Sensei yet. No standalone model/frozen prediction; 388/480, E004 unopened.
+
+
+## S2 V002 C001 E004 sensei role and ethics delta
+
+Sensei meets the committee at its invitation, denies Shoko's relayed misconduct rumor and affirms Mayumi's care for Gehenna (scene:001:u:0001-0039; choice:001-005). Shoko explicitly seeks Sensei's prestige beside future speeches and briefly floats embellishment before disavowing it; Sensei agrees to help students, but no speech, false claim or wholesale policy endorsement is made (u:0069-0085; choice:009-012). Mayumi immediately urges departure, so the actual task and any public use of Sensei's name remain pending (u:0086-0094). No standalone model/frozen prediction; 389/480, E005 unopened.
+
+
+## S2 V002 C001 E005 sensei role and ethics delta
+
+Sensei attends the committee rally; students take their presence as a trust signal, though Sensei gives no policy speech (scene:001:u:0001-0034/u:0089-0097). The committee floats using Sensei's name, guarantee or collateral, and Shoko fabricates an honor pledge; Sensei's actual alternatives include objection and trying together, without any signed guarantee (u:0078-0088). At the range Sensei asks about permission, learns none was sought and agrees to accompany a retroactive application, visibly anxious (u:0127-0145). This is help with procedure, not a lawful-site certificate or approval of unreviewed data collection. No standalone model/frozen prediction; 390/480, E006 unopened.
+
+
+## S2 V002 C001 E006 sensei role and ethics delta
+
+After Makoto rejects Shoko's flattery and worries about power transfer, Sensei asks that the juniors be given a chance, prompting Makoto's provisional verbal permission (scene:001:u:0065-0085; choice:001). The apparent successful advocacy is specific to the committee activity, not a documented waiver of safety, data/privacy or budget obligations. Makoto names an unspecified future favor, without Sensei expressly accepting terms (u:0086-0088). Hina then places trust in Sensei while watching for problems and asks for attention; narration confirms tea together and Sensei hopes her burden falls (u:0109-0124). Hope is not workload evidence. No standalone model/frozen prediction; 391/480, E007 unopened.
+
+
+## S2 V002 C001 E007 sensei role and ethics delta
+
+Sensei inwardly intends to step forward against extortion, but Karen intervenes first; no Sensei fight is printed (scene:001:u:0018-0042). Sensei praises the specific rescue through exclusive choice alternatives, gives a requested head pat and accepts Karen's escort; narration confirms safe completion after more threats (u:0061-0090/u:0127). Sensei asks Karen why she works with the committee and hears her own freedom/loyalty rationale, distinct from Shoko's control plan (u:0094-0126). The attention to this student does not authorize all future committee methods. No standalone model/frozen prediction; 392/480, E008 unopened.
+
+
+## S2 V002 C001 E008 sensei role and ethics delta
+
+Sensei observes ticket-line compliance and stands beside Mayumi for an hours announcement, making their visible support concrete without a printed endorsement speech (scene:001:u:0001-0047). Their branch alternatives raise Gehenna-identity concern; Mayumi acknowledges greatness need not mean identical students, and Karen says attendance/change will not be forced (u:0097-0110). Sensei wonders if concern was excessive and narration says they will support students who chose a path, but rejects Shoko's exaggerated pledge in their name (u:0111-0121). No blanket endorsement of the point-data design or measured school-wide effects. No standalone model/frozen prediction; 393/480, E009 unopened.
+
+
+## S2 V002 C001 E009 sensei role and ethics delta
+
+Sensei buys four meals and acknowledges the poor taste, then asks Haruna to reconsider when the owner pleads (scene:001:u:0013-0075; choices:004-009). A week-long improvement chance is proposed by the group but not granted, and Sensei has no printed power to stop the subsequent blast (u:0076-0104). Sensei suggests everyone should be able to try again; Shoko partly considers that view, without a retroactive rescue or policy settlement (u:0136-0142; choice:010). Shoko's later fabricated Sensei offer is not their assent; a second shop separately becomes partner (u:0143-0153). No standalone model/frozen prediction; 394/480, E010 unopened.
+
+
+## S2 V002 C001 E010 sensei role and ethics delta
+
+Sensei accompanies Shoko to Meg, feels unease at selective disclosure yet reasons that mapped-site limits might reduce damage (scene:001:u:0018-0021/u:0062-0066). Sensei asks about Meg's love of development and offers one of two supportive lines, which Meg trusts; the choices are exclusive and no independent site quality test is printed (u:0066-0069). Sensei admits guilt afterward; Shoko denies deception despite withheld information (u:0082-0088). Sensei challenges one authoritative definition of freedom and later tells Shoko not to exhaust herself through certainty; her hurt response and silence are printed, not a settled correction (u:0092-0093/u:0145-0164). No standalone model/frozen prediction; 395/480, E011 unopened.
+
+
+## S2 V002 C001 E011 sensei role and ethics delta
+
+Sensei is absent as an active speaker in E011. Prior help to the committee now has reported effects from Pandemonium/Prefect observers: quieter lines and less injury/workload, without an audit proving cause or all consequences (scene:001:u:0039-0089). Karen presents genuine approval paperwork to Iori, but the text does not show Sensei signing, guaranteeing or inspecting its terms (u:0090-0097). Iori's remembered Hina line about drawing a boundary prevents a fight with Karen, an institutional restraint distinct from Sensei action (u:0113-0131). No standalone model/frozen prediction; 396/480, E012 unopened.
+
+
+## S2 V002 C001 E012 sensei role and ethics delta
+
+Mayumi explicitly asks Sensei to observe and encourage rather than solve the new student-help request for them, and Sensei remains in that role (scene:001:u:0030-0044; choice:003). Sensei corrects Mayumi speaking while eating and later gives Karen bounded praise when she refrains from breaking a door (u:0069-0073; scene:002:u:0051-0061). Sensei hears a sound with the team and inwardly recalls a similar story, but the explanation is cut before content (scene:002:u:0030-0033/u:0066-0068). No standalone model/frozen prediction; 397/480, E013 unopened.
+
+
+## S2 V002 C001 E013 sensei role and ethics delta
+
+Sensei accompanies committee questioning of Erika/Kirara, who recognize Sensei; Shoko again claims Sensei will pay for drinks/refills, while the printed choice objects rather than authorizes it (scene:001:u:0009-0021). The E012 unrevealed recollection is locally associated with Erika/Kirara's former broadcast, but Sensei does not supply an on-page independent causal account (u:0023-0058). Sensei remains present as Shoko proposes lawful negotiation for room access, without an intervention or permit grant (u:0093-0104). No standalone model/frozen prediction; 398/480, E014 unopened.
+
+
+## S2 V002 C001 E014 sensei role and ethics delta
+
+Sensei accompanies the committee to Makoto, who calls Sensei a major Pandemonium ally; that is Makoto's claim, not Sensei's exclusive endorsement (scene:001:u:0002-0017). Sensei inwardly thinks Shoko's pitch has won before Makoto grants access, and later voices relief through a choice; no role in authoring the bargain or auditing its metrics is printed (u:0079-0089). Inside, Sensei asks if Shoko is okay and offers to stay as she inspects the likely cable fault, but she declines; no technical cure is observed (scene:002:u:0015-0054). No standalone model/frozen prediction; 399/480, E015 unopened.
+
+
+## S2 V002 C001 E015 sensei role and ethics delta
+
+Sensei visits the range and offers to help Mayumi with heavy maintenance; narration confirms they work together until late and Mayumi thanks them, a concrete student-support act with no claim of running the venue (scene:001:u:0001-0038). Sensei recognizes Mayumi's love for Gehenna and pledges continued connection, while narration hopes her joy lasts; the promise does not certify all committee methods or projected effects (u:0039-0062). Sensei is not shown in Shoko's later Makoto speech proposal (u:0063-0084). No standalone model/frozen prediction; 400/480, E016 unopened.
+
+
+## S2 V002 C001 E016 sensei role and ethics delta
+
+Sensei attends Makoto's planned speech and notices the large crowd; a printed choice rejects Makoto's boast that they will kneel to his charisma (scene:001:u:0001-0018). Sensei reacts to the unexpected transmission and Makoto/Hina's expansionist declarations with surprise and incomprehension, not endorsement (u:0023-0028/u:0048-0102). No intervention, mechanism diagnosis, rescue, attack or later choice is printed. This event limits treating prior help for the committee as authorization of the new declared program. No standalone model/frozen prediction; 401/480, E017 unopened.
+
+
+## S2 V002 C001 E017 sensei role and ethics delta
+
+Sensei checks on Iori/Chinatsu, questions Hina's seriousness, hears their protective mandate objection and takes them away to rest while promising inquiry (scene:001:u:0001-0079). Sensei hears Iroha confront Makoto, then offers to check other contexts and recommends the unchanged students stay together (u:0080-0136). Sensei does not endorse Sena's war preparations, and confirms Fuuka/Juri and Erika/Kirara remain skeptical while seeking a pattern (u:0137-0198). Sensei's third-year suggestion is a tentative choice, challenged by Satsuki's apparent exception and not a settled targeting rule (u:0199-0241). No standalone model/frozen prediction; 402/480, C002 E001 unopened.
+
+
+## S2 V002 C002 E001 sensei role and ethics delta
+
+Sensei asks Satsuki for detail on the original NK Ultra claim and inwardly seeks to restore the changed students (scene:001:u:0001-0025/u:0071-0073). Satsuki raises political concerns about Schale acting as a federal arm, and Sensei's printed choice supports Gehenna taking first responsibility without refusing all future help (u:0073-0088). Sensei offers other-student coordination and a cautious approach after Satsuki forecasts retaliation; Iroha fears Sensei is visible, and the group disperses without a plan of action yet (u:0121-0136). No standalone model/frozen prediction; 403/480, E002 unopened.
+
+
+## S2 V002 C002 E002 sensei role and ethics delta
+
+Sensei has no printed on-scene action, speech or choice in this Chinatsu/Sena episode. Chinatsu independently probes Sena's war belief, contrasts it with their prior care relationship and resolves to restore her after Sena accepts harm as necessary (scene:001:u:0017-0094). Do not assign this challenge to Sensei or treat the prior Sensei-led inquiry as the cause of Chinatsu's decision. The source adds a direct ethical counterexample to Sena's conquest rationale but no remedy. No standalone model/frozen prediction; 404/480, E003 unopened.
+
+
+## S2 V002 C002 E003 sensei role and ethics delta
+
+Sensei has no printed action, dialogue or choice in E003. The committee's split belongs to Mayumi/Karen versus Shoko, whose current invasion argument retrospectively claims their range work as preparation (scene:001:u:0001-0070). The senior's reversal is recognized by Mayumi/Karen, not investigated by Sensei on page (u:0071-0108). Do not turn Sensei's past help with range permission or repair into assent to attacks on other schools. No standalone model/frozen prediction; 405/480, E004 unopened.
+
+
+## S2 V002 C002 E004 sensei role and ethics delta
+
+Sensei has no printed speech, choice or intervention in E004. The war leadership issues broad orders and a student yields ammunition under threats; Mayumi/Karen independently question the resulting unity (scene:001:u:0002-0098). Do not ascribe the action to Sensei's earlier advocacy for the range or assume Sensei could have prevented this particular handover off page. The contrast with Karen's earlier non-coercion assurance is now directly evidenced. No standalone model/frozen prediction; 406/480, E005 unopened.
+
+
+## S2 V002 C002 E005 sensei role and ethics delta
+
+Sensei has no printed presence, speech, choice or intervention in this episode. Mayumi/Karen's voluntary-unity objection and Iroha's resignation are their own actions, with Ibuki's distress voiced within Pandemonium (scene:001:u:0012-0090). No absent-Sensei causal role or prevention ability can be inferred. Shoko's attempt to advance punishment is stopped by Makoto, not by an adult intervention (u:0091-0104). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 407/480, E006 unopened.
+
+
+## S2 V002 C002 E006 sensei role and ethics delta
+
+Sensei approaches visibly troubled Kasumi despite appearing exhausted to her; the first choice group offers alternative persistence phrasings, after which she shares the situation (scene:001:u:0048-0062; choice:001). He notices her conflict over Meg, and choice:003 offers alternative formulations that Meg's stated wish may not be her own or that her thinking was altered. Narration summarizes Sensei's Gehenna briefing without printing its content; Kasumi treats legacy/group-recognition change as plausible, not proven by Sensei's authority alone (u:0063-0091; choice:002-003). He accepts Kasumi's boundary on discussing her private past, and she voluntarily offers future cooperation (u:0097-0109; choice:004-005). No specific rescue method or verified cognitive cure is established. No standalone model/frozen prediction; 408/480, E007 unopened.
+
+
+## S2 V002 C002 E007 sensei role and ethics delta
+
+Sensei responds to Mayumi/Karen's troubled contact, promises effort, takes Mayumi's hand and reassures both while she fears historical complicity (scene:001:u:0001-0052; choice:001-006). His reassurance that their discomfort distinguishes their ideal from Makoto's is moral support, not proof their actions caused no harm. Narration confirms continued comfort until both stop crying (u:0053-0066). He then asks their intended next step, offers an unnamed like-minded student introduction and volunteers to talk with Shoko; the committee itself resolves to oppose the war (u:0067-0085; choice:007-010). No introduction or Shoko conversation occurs here, and choice alternatives remain exclusive. No standalone model/frozen prediction; 409/480, E008 unopened.
+
+
+## S2 V002 C002 E008 sensei role and ethics delta
+
+Sensei has no printed presence, choice or intervention. Chiaki independently approaches Shoko and asks whether enforced unity is desirable or serves any personal end beyond order (scene:001:u:0015-0089). This is not the promised Sensei-Shoko conversation from E007 and cannot be counted as fulfilling that prospective offer. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 410/480, E009 unopened.
+
+
+## S2 V002 C002 E009 sensei role and ethics delta
+
+Sensei follows protected-room access steps, confirms he checked for a tail, and listens as Satsuki asks him to be a test subject because the proposed counter-study is too risky for students. He acknowledges his earlier commitment and tentatively agrees, but she has not completed the method and the experiment never happens (scene:001:u:0001-0033; choice:001-005). His question about the old Intelligence Department elicits Satsuki's account; choice:008 explores her external-actor inference without certifying it. No treatment, trial exposure, safety finding or scientific result can be attributed to Sensei here (u:0034-0064; choice:006-008). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 411/480, E010 unopened.
+
+
+## S2 V002 C002 E010 sensei role and ethics delta
+
+Sensei gathers mutually suspicious students and Chinatsu treats his selection as sufficient provisional trust; he thanks them and narratively briefs all he knows, without a printed full technical account (scene:001:u:0001-0034; choice:001-002). The students state their own ethical refusal and research questions; their agency is not Sensei's command to attack. He asks about Satsuki's clue and feels cautious hope after Chiaki's broadcast-room suggestion, but no cure or tactical intervention follows (u:0035-0094; choice:003). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 412/480, E011 unopened.
+
+
+## S2 V002 C002 E011 sensei role and ethics delta
+
+Sensei has no printed presence, speech, choice or intervention. Iroha independently visits Ibuki, offers care and accepts Ibuki's decision to remain near Makoto; Makoto later tells Ibuki she is not to blame and may follow her wish (scene:001:u:0015-0063/u:0097-0110). No effect of Sensei's E010 coalition on this encounter is shown. The unknown-voice log and headache cannot be credited as a tested Sensei or Satsuki remedy. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 413/480, E012 unopened.
+
+
+## S2 V002 C002 E012 sensei role and ethics delta
+
+Sensei accompanies the coalition to the guarded broadcast building, warns Mayumi when Shoko appears, then follows Hina's request to speak privately after notifying the others not to worry (scene:001:u:0001-0129; choice:001-007). Hina asks for the old thanks/support to cover her planned attack; his silence lets her recognize his disapproval. When she suffers pain and asks for support to endure, his inner response promises effort for Hina personally, not obedience or approval of conquest (u:0130-0161; choice:008-014). Hina says he is the dissenters' support pillar and plans temporary 'protection'; Sensei is speechless before any detention is shown (u:0162-0176). His care creates no blanket consent to her means. No standalone model/frozen prediction; 414/480, E013 unopened.
+
+
+## S2 V002 C002 E013 sensei role and ethics delta
+
+Sensei is actually confined and cut off from outside, ending E012's uncertainty over whether Hina's proposed custody would occur (scene:001:u:0001-0002). Makoto asks for agreement to universal Gehenna order; Sensei instead prefers Makoto's earlier free-Gehenna ideal. When Shoko argues that care for every student is inefficient and impossible, Sensei says searching for an answer is a process and effort must continue, without claiming guaranteed success (u:0003-0051). He offers a tentative interpretation that Shoko fears error and seeks his hatred, even after she admits recommending his confinement; this is teacherly engagement, not forgiveness proven to change her or consent to imprisonment (u:0052-0070). No rescue, release or frozen prediction follows. No standalone model; 415/480, E014 unopened.
+
+
+## S2 V002 C002 E014 sensei role and ethics delta
+
+Sensei has no direct scene appearance, speech or choice. Chinatsu/Iroha report that he anticipated potential capture and delegated covert roles so their return to ordinary posts could make leadership relax; the earlier planning dialogue is not printed, and the claimed effect remains unobserved (scene:001:u:0001-0041). Fuuka's independent supply resistance and the Gourmet/Lunch conflict cannot be credited to a visible Sensei command. Makoto's later complaint that Sensei was already detained underscores that opposition continues without his physical presence (u:0108-0125). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 416/480, E015 unopened.
+
+
+## S2 V002 C002 E015 sensei role and ethics delta
+
+Sensei has no printed presence, speech or choice, and E013's cell remains the last direct status evidence. Iroha, Satsuki, Erika/Kirara and the others advance the operation on their own judgments under rising surveillance (scene:001:u:0001-0080). Chiaki's warning compresses their timeline, but no new Sensei instruction, release or message is shown (u:0081-0114). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 417/480, E016 unopened.
+
+
+## S2 V002 C002 E016 sensei role and ethics delta
+
+Sensei reacts from the confined room as Hot Spring Club breaks through the floor; he recognizes Kasumi and thanks her. She calls for his escape and cites his rescue and concern for Meg as motives (scene:001:u:0001-0021; choice:001-002). Iroha's flashback assigns Chiaki to collect him from Hot Spring Club and escort him to a place needing command, but neither the handoff nor any new command from Sensei is printed (u:0033-0063). Combat and technical teams act under Iroha's plan, with no counterbroadcast yet. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 418/480, E017 unopened.
+
+
+## S2 V002 C002 E017 sensei role and ethics delta
+
+Sensei reaches the main-building confrontation after Kasumi's rescue and tells injured Iori he will take over, while Chiaki assumes his onward escort; the immediate jail escape is therefore concrete but not proof of lasting freedom (scene:001:u:0077-0090; choice:001). He asks Hina whether conquest is truly what she wanted rather than giving the unqualified support she requested in E012. Karen's precipice comparison expresses the same ethical refusal (u:0091-0105; choice:002-003). He neither commands a final attack nor directly answers Shoko's Emperor revelation before cutoff. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 419/480, E018 unopened.
+
+
+## S2 V002 C002 E018 sensei role and ethics delta
+
+Sensei challenges whether Shoko's Emperor ideology is her own thinking, without asserting a diagnosis. He credits Satsuki's Intelligence Department for the counterbroadcast, while she calls it a group effort (scene:001:u:0051-0111; choice:001). He reacts with alarm to Shoko's claimed death trigger, which is not independently verified, and is present for Iroha's appeal and Makoto's rejection of imposed thought (u:0117-0243; choice:002). He asks whether the local mind control has lifted after students visibly reconsider war; the scene supports local recovery but no full clinical audit (u:0244-0292; choice:003). No one-step adult cure or prior frozen prediction is established. No standalone model; 420/480, E019 unopened.
+
+
+## S2 V002 C002 E019 sensei role and ethics delta
+
+Sensei observes the assembly after a student describes lingering sound fear and property loss, but he does not certify a campus-wide recovery or restitution (scene:001:u:0001-0019). He encourages Makoto after the freedom speech and thanks him for averting the immediate crisis. Makoto privately names threats, imprisonment and harm to Sensei and asks how to apologize; Sensei gives him the task of being himself rather than issuing absolution for all affected students (u:0162-0188; choice:001-005). Sensei's later replies to Makoto's felt supportive presence do not verify its source or prove willpower as an antidote (u:0217-0236; choice:006). He offers to take a group picture; whether the shutter is pressed is unprinted (u:0237-0247). Six choice groups are alternative routes, not cumulative acts. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 421/480, E020 unopened.
+
+
+## S2 V002 C002 E020 sensei role and ethics delta
+
+Sensei neither speaks nor appears in this unit. Fuuka, Haruna, Akari, Sena, Chinatsu, Kasumi and Meg themselves conduct apology, professional self-correction, boundary setting and independent choice (scene:001:u:0001-0126). Their agency should not be attributed to a fresh adult intervention or a one-step cure. Kasumi's private Bodensatz hypothesis likewise has no Sensei observation or corroboration here (u:0127-0139). This is an explicit no-direct-Sensei sample, not a claim that Sensei is globally irrelevant. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 422/480, E021 unopened.
+
+
+## S2 V002 C002 E021 sensei role and ethics delta
+
+Sensei visits Hina, notices heavy work and hears her shame over having enjoyed the preparation and justification of violence. He asserts she has held an ethical line, admits his own susceptibility to weakness and frames becoming the person one wants as effort; he promises to stay nearby (scene:001:u:0001-0047; choice:001-006). This is support, not cancellation of Prefect victims' claims. He then visits confined Shoko, avoids winner/loser talk, brings her favorite sweets as teacherly care and says he will wait for her to break her binding belief and begin again through atonement (u:0048-0085; choice:007-016). Shoko supplies Arashi's name but does not repent. Choice groups contain alternatives; inner-voice exchanges receive replies and should not be forced inaudible. No one-step conversion, pardon, standalone model or frozen prediction (`NO_DIAGNOSTIC_OPPORTUNITY`); 423/480, checkpoint next.
+
+
+## S2 V003 C001 E001 sensei role and ethics delta
+
+Sensei accepts shared responsibility for missing ferry boarding and makes the delay a beach treasure hunt for Arona/Plana, with strawberry milk promised to the discoverer (scene:001:u:0001-0034). When a rope ball marked `S.O.S.` arrives, he asks Arona to slow down and verify, while taking the possible plea seriously (u:0035-0050; choice:001-002). He asks the council-president claimant to investigate its origin and asks about Odysseia, but does not explicitly request a recall of every ship. The claimant dictates that broader order after describing a special channel (u:0051-0076; choice:003-008). His care and epistemic caution are observed; the object's meaning and fleet outcome are not. Choice alternatives remain exclusive, and replied-to inner voice lines should not be forced inaudible. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 424/480, E002 unopened.
+
+
+## S2 V003 C001 E002 sensei role and ethics delta
+
+Mai asks Sensei about rumor and speculates around Odysseia; he does not confirm an emergency, and the claimant protects his confidential student inquiries from pressure (scene:001:u:0015-0043; choice:001-004). Sensei thanks her and asks whether the visit burdens her schedule; the first/second-visit correction unsettles him but produces no diagnosis (u:0044-0054; choice:005-006). He notices tension during docking while the claimant describes maritime safety and suggests Schale could perhaps assist students who do not fit (u:0055-0067; choice:007). He reassures Sumika about a past mistaken-ship incident and boards Olympos for a welcomed visit. The S.O.S. sender is not identified or rescued in this unit (u:0071-0125; choice:008-009). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 425/480, E003 unopened.
+
+
+## S2 V003 C001 E003 sensei role and ethics delta
+
+Sensei is willing to tour despite the claimant's urgency, and later says the long visit was worthwhile; this choice helps defer the S.O.S. inquiry but no intent to suppress it is shown (scene:001:u:0001-0018/u:0135-0142; choice:001/010). He sees Aquaculture and hears scarcity stories without performing a food or health audit (u:0039-0057; choice:002). He offers to call Sammy; students report a whistle and he wonders whether he caused trouble, with the action itself not printed (u:0058-0073; choice:003). He asks about cruise ships, outfit differences and taboos while declining to blame Minato for alleged rogue vessels, without accepting Mitsuki's wager (u:0074-0134; choice:004-009). No `S.O.S.` sender or clinical/disciplinary finding is reached. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 426/480, E004 unopened.
+
+
+## S2 V003 C001 E004 sensei role and ethics delta
+
+Sensei eats and praises the curry, asks whether fish-turning is a taboo and follows the host's easy bone-removal request (scene:001:u:0002-0030; choice:001-002). He finds Minato's relaxed private manner approachable after other school students leave (u:0043-0061; choice:003-004). He questions whether taboos can address novel risks rather than accepting inherited instructions as self-proving. Minato gives examples, not independently validated safety advice (u:0062-0084; choice:005-007). The claimant presents Sensei's ball and Minato says it is Sammy's toy; Sensei does not conduct a separate inscription or drift analysis here (u:0085-0105). No rescuer deployment, authentic distress case or side-source admission. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 427/480, E005 unopened.
+
+
+## S2 V003 C001 E005 sensei role and ethics delta
+
+Sensei is relieved that the ball appears to be Sammy's toy and treats the cat affectionately, without independently checking the nickname mark or drift route (scene:001:u:0001-0017). He asks whether Minato considered returning for treatment and hears that a fast boat could have taken Sammy without rerouting the fleet; the harder question is communal fear/attachment and care choice (u:0018-0064; choice:001). The claimant tells Minato that any loss from the captain's choice is hers to bear. Sensei broadly agrees but refuses to collapse support into an immediate binary verdict: he requests time for a third-party view. The claimant sets a one-week inquiry and acknowledges they lack context (u:0065-0094; choice:002-003). The third option is sought, not proven; no clinical diagnosis or treatment occurs here. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 428/480, E006 unopened.
+
+
+## S2 V003 C001 E006 sensei role and ethics delta
+
+Narration confirms Sensei uses available time from the one-week window to revisit Odysseia and observe how students interact with Sammy, rather than issuing an instant ship/shore verdict (scene:001:u:0001-0002). He is not shown intervening in the laundry squall or cruise-loading threat. On Trident's wet deck he reacts to Sammy's slip and Sumika's near fall, preventing her from going overboard by her account (scene:003:u:0023-0032). His initially brave reassurance gives way to direct inward reports of lower-back pain and lost strength after impact; no assessment or treatment occurs in this unit (u:0033-0037). The adult helper's bodily cost is concrete, but his injury severity and later ability are open. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 429/480, E007 unopened.
+
+
+## S2 V003 C001 E007 sensei role and ethics delta
+
+Sensei receives immediate medical attention and a lumbar-sprain diagnosis with rest advice after E006's rescue, while his paperwork/posture explanation is an option rather than a verified primary cause (scene:001:u:0002-0019; choice:001-003). He reassures Sumika and asks Sanae whether Sammy should go ashore. Sanae resists a substitute decision because Sammy's own will matters, but gives no tested preference method (u:0020-0047; choice:004-005). The claimant checks on his back, says she heard informal talk and asks him to accompany her to Island. Sensei accepts in choice-space; neither movement nor worsening from activity occurs yet (u:0048-0059; choice:006-007). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 430/480, E008 unopened.
+
+
+## S2 V003 C001 E008 sensei role and ethics delta
+
+Sensei returns to Island with the claimant despite E007's diagnosed sprain; the episode does not show a new pain outcome. He minimizes Schale blame and reports observing real mishaps without accepting Sammy as their supernatural cause (scene:001:u:0015-0033). His choice proposes that Minato publicly say Sammy's health does not control school luck, but no such statement is made (choice:001). His carpet metaphor warns that hiding a complex problem does not resolve it (u:0057-0063). The claimant offers to take Sammy by a council hygiene declaration. Sensei asks whether resentment of the council matters, yet never explicitly ratifies the uninspected hygiene basis or specifies cat care. Minato verbally accepts; no transfer yet (u:0071-0087). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 431/480, E009 unopened.
+
+
+## S2 V003 C001 E009 sensei role and ethics delta
+
+Sensei observes the social aftermath of the decided Sammy removal: mixed student worry/resentment, generous gifts and the claimant's acceptance of cold looks. He neither executes the transfer nor approves a documented hygiene finding (scene:001:u:0001-0047). On the walk he asks whether he should have taken the blame; the claimant argues that the trusted teacher should not become the target, since students would struggle to resent him. Her strategy and hoped-for reform are self-report, not proof of effect (u:0048-0086; choice:001-008). He then asks whether she too is constrained by office and promises support if she finds a heartfelt future wish, while her claimed identity stays disputed (u:0087-0107; choice:009-012). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 432/480, E010 unopened.
+
+
+## S2 V003 C001 E010 sensei role and ethics delta
+
+Sensei witnesses the missing-cat search and students' concealment, then joins Minato's two-sided bow pursuit despite the E007 lumbar sprain; E010 gives no new injury or recovery assessment (scene:002:u:0016-0097; choice:001-006). Ami warns of a sea fall before Minato actually falls. Minato says she can swim and requests a ladder; her character-level rescue remark is not a safety rule, and her exit from the water is not shown (u:0098-0126). The paperwork is narratively exchanged but Sensei does not inspect its text or authenticate the proposed hygiene ground (scene:001:u:0001-0003). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 433/480, E011 unopened.
+
+
+## S2 V003 C001 E011 sensei role and ethics delta
+
+Sensei checks Minato after the fall; she says she swallowed no seawater and changed, without a clinical exam (scene:001:u:0002-0006; choice:001). He does not sign or inspect the pending cat handover, and witnesses Minato's cancellation request and the claimant's verbal assent (u:0012-0045). His inward belief that no one is hurt and the matter may be settled is explicitly interrupted by narration and Sanae's late urgent call about Sammy's critical night (u:0056-0073; choice:002-005). The call requests he return to Odysseia, but this episode does not show arrival, examination or medical outcome. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 434/480, E012 unopened.
+
+
+## S2 V003 C001 E012 sensei role and ethics delta
+
+Narration confirms Sensei responds to Sanae's urgent call and reaches Island (scene:001:u:0001). He hears serious reported measurements and Sanae's refusal to blame a single cause, then attempts to stop a taboo-centered decision. Minato respectfully asks him to let Odysseia decide (scene:002:u:0002-0031; choice:001). The boundary does not establish that he approves the planned voyage or its clinical trade-offs. He remains present for Minato's public announcement of 06:00 sailing, individual opt-out and deferred objections, with no actual departure yet (u:0032-0054). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 435/480, E013 unopened.
+
+
+## S2 V003 C001 E013 sensei role and ethics delta
+
+Sensei has no direct dialogue or choice in E013. Mai speculates whether his and the claimant's recent visit relates to the unusual voyage; her question is not evidence he planned or authorized it (scene:001:u:0001-0014). Minato and school departments carry out the sailing, with Cruise and Trident follow-on decisions; no teacher intervention, clinical order or later response from Sensei is shown (scene:002:u:0002-0055). Narration strongly implies Sammy's death among friends but supplies no cause adjudication. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 436/480, E014 unopened.
+
+
+## S2 V003 C001 E014 sensei role and ethics delta
+
+Sensei returns about half a month after Sammy's passing for a private visit and asks Sumika to treat him as a friend, avoiding a loud guest announcement by local consent (scene:001:u:0001-0027; choice:001-005). He asks about welfare/taboo and sees both limited calm reports and retained right-foot caution; he does not certify school safety (u:0028-0037; choice:006-007). He comforts Minato in grief and supports her hope of self-direction, while her universal-satisfaction assessment remains hers (u:0038-0062; choice:008-012). At the station he hears the claimant's unexplained 'real captain' claim and asks for meaning, receiving none (u:0063-0093; choice:013-017). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 437/480, backfill E001 next.
+
+
+## V001 C003 E001 backfill sensei role and ethics delta
+
+Francis attributes Gematria's collapse and genre/causality shift to Sensei; the Dweller names him a campaign boss, both outsider character frames rather than tested descriptions (scene:001:u:0012-0034). Sensei is present at the current committee meeting and reacts to the reported Nephthys purchase but has no choice group or intervention in this unit (scene:002:u:0029-0104). The Dweller calls out to Sensei in a final intercut, without a shown message reaching him or a demonstrated role in the bond trade (u:0105-0109). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 438/480, E002 unopened.
+
+
+## V001 C003 E002 backfill sensei role and ethics delta
+
+Sensei is present in the current committee discussion and has two choice groups reacting to Nephthys and Nonomi's disclosure, but no printed financial or security decision yet (scene:001:u:0069-0110; choice:001-002). He is not shown in the earlier Nonomi/Hoshino meeting or Highlander archive scene. Ayane's rights report and approaching-force alert occur before any new teacher command or response is printed (u:0111-0151). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 439/480, E003 unopened.
+
+
+## V001 C003 E003 backfill sensei role and ethics delta
+
+Sensei asks Highlander what it is doing rather than accepting rumors about his past destructive work; the rumors are unverified in this unit (scene:001:u:0043-0054; choice:001-003). After the twins use the train to leave, Ayane requests his command for pursuit. A local tactical stop follows, without printed civilian injury or permanent custody (u:0055-0069; choice:004; scene:002:u:0001-0007). Suou addresses the group, not a teacher order, and promises later explanation; Sensei's acceptance of Highlander's rights is not shown (scene:002:u:0008-0049). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 440/480, E004 unopened.
+
+
+## V001 C003 E004 backfill sensei role and ethics delta
+
+The Yume-era false-job rescue, grief-room and Nonomi card proposal are represented without Sensei's presence; do not backdate his intervention or later knowledge to those cuts (scene:001:u:0001-0188). The present Ayane Highlander briefing and visitor arrival include no Sensei choice or spoken teacher decision. Hoshino admits the visitors after Suou says they do not intend to fight, but no formal rights acceptance or school policy change follows yet (u:0189-0216). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 441/480, E005 unopened.
+
+
+## V001 C003 E005 backfill sensei role and ethics delta
+
+Sensei keeps the meeting on evidence: he first asks to hear the visitors, then requests proof of creditor standing. Ayane checks a certificate copy before discussion proceeds (scene:001:u:0034-0078; choice:001-002). When the representative tries to exclude all but Hoshino under the old council roster, Sensei backs Ayane's assertion that the Countermeasures Committee is the current council; Hoshino explains the nominal shell (u:0107-0132; choice:003-004). No teacher approval of Highlander's unauthorized works, investor goal or Yume paper authenticity is printed. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 442/480, E006 unopened.
+
+
+## V001 C003 E006 backfill sensei role and ethics delta
+
+Sensei questions the 'accidental' discovery, resists an immediate cancellation signature by asking time, then recommends investigating the railway carefully while the claimed deadline approaches (scene:001:u:0025-0083; choice:001-004). He does not authenticate investor legal interpretation or authorize new debt. Hoshino's Yume testimony and same-date shock occur in his presence; he reacts as she abruptly leaves, while Shiroko follows. No teacher diagnosis of Yume's death or causal conclusion is shown (u:0084-0158). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 443/480, E007 unopened.
+
+
+## V001 C003 E007 backfill sensei role and ethics delta
+
+Sensei urges rest and plans a Schale investigation rather than press the group into overnight work; he asks Arona/Plana to wake him if needed and then stays awake through morning, with work product unshown (scene:001:u:0075-0132; choice:001-006). He asks about Gematria; Plana has no known activity. Her next-morning gas-pipe anomaly and urgent call precede any printed teacher exposure or response, while the Dweller boasts a physical-limit plan (u:0133-0167). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 444/480, E008 unopened.
+
+
+## V001 C003 E008 backfill sensei role and ethics delta
+
+Sensei completes preparation of undisclosed overnight materials and intends to depart. Plana reports anomaly; Arona says Schale explodes, Plana protects him then loses consciousness, and Sensei awareness fades. No diagnosis, escape or result of his preparation is printed (scene:001:u:0001-0030; choice:001-005). The Dweller claims underestimated Chest protection and expects events outside Sensei involvement; that is an adversarial forecast, not verified incapacity duration. Abydos cannot reach him. The long Yume/Hoshino history cut contains no teacher action (u:0031-0131). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 445/480, E009 unopened.
+
+
+## V001 C003 E009 backfill sensei role and ethics delta
+
+Sensei has no direct action or choice in this unit and remains unreachable to the present committee after E008's explosion. Serika says neither Sensei nor Hoshino can be contacted; this is an Abydos information state, not a medical update (scene:001:u:0085-0105). Ayane authorizes the group's own entry into the old room under urgency; it is not teacher permission, and Hoshino later objects to the cabinet search (u:0156-0198). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 446/480, E010 unopened.
+
+
+## V001 C003 E010 backfill sensei role and ethics delta
+
+Sensei has no direct action, dialogue or choice in this unit; the scene instead has Hoshino disclosing her account of Yume's disappearance to the students. It supplies no update on Sensei after the E008 Schale blast (scene:001:u:0001-0087). The committee's investigation continues through student testimony and an arriving Nephthys executive, without printed teacher authorization or conclusion. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 447/480, E011 unopened.
+
+
+## V001 C003 E011 backfill sensei role and ethics delta
+
+Sensei remains absent after the E008 blast; Serika voices hope that he could help, while Suou challenges what public warrant Schale would have for a private railway transaction. Hoshino and Nonomi regard the blockade as defense of the visitors' claimed rail territory, but the ownership/jurisdiction chain is not adjudicated (scene:005:u:0006-0018). No teacher intervention or answer is printed. The group must deliberate under pressure; Hoshino calls a meeting and Ayane proposes rest after Nonomi refuses transfer and council invalidation remains only a proposal (u:0032-0081). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 448/480, E012 unopened.
+
+
+## V001 C003 E012 backfill sensei role and ethics delta
+
+Sensei has no direct action or choice in this unit. Ayane cannot contact him despite his earlier promise to come; Nonomi suspects trouble, and a broadcast reports a cause-unknown Schale explosion, injury and emergency transport to hospital (scene:001:u:0221-0234). This is a public secondary report that narrows E008 uncertainty but does not establish diagnosis, recovery, capacity to join the assembly or blast cause. Meanwhile students independently plan to reach the old station before noon and express contract continuation, with route still unresolved (u:0212-0220). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 449/480, E013 unopened.
+
+
+## V001 C003 E013 backfill sensei role and ethics delta
+
+The Committee hears Sensei was hospitalized, reportedly out of mortal danger but still unconscious; this is indirect information and sits uneasily with the earlier injury broadcast, with no chart or teacher scene (scene:001:u:0011-0020). The executive says Nephthys intended Schale to clash with fund soldiers and then planned to exploit both sides' losses. This is his stated design, not Sensei consent or an actual battle (u:0066-0088). He treats Sensei's absence as disruption and Nonomi as substitute leverage. Nonomi's message still hopes Sensei will destroy the gun, without evidence he can act. Shiroko challenges Hoshino's unilateral response; no teacher intervention is shown (u:0111-0180). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 450/480, E014 unopened.
+
+
+## V001 C003 E014 backfill sensei role and ethics delta
+
+Sensei has no direct action or choice. Shiroko hopes he will arrive, but Hoshino says he cannot because he is in hospital (scene:001:u:0019-0024). Ayane credits him with previously helping them be together again and warns that Hoshino's solo departure would repeat an old relational error; this is Ayane's testimony about his effect, not a current teacher instruction (u:0044-0049). The students begin a peer confrontation over inclusion and risk, with outcome open. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 451/480, E015 unopened.
+
+
+## V001 C003 E015 backfill sensei role and ethics delta
+
+Sensei has no direct action or choice. Hoshino asks Ayane/Serika to tell him she is sorry for repeating the earlier separation after he had helped them reunite (scene:001:u:0023-0032). This is Hoshino's acknowledgment of his past aid, not teacher approval of her present solo plan. The group remains without his assistance as Hoshino departs; no fresh medical update is shown. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 452/480, E016 unopened.
+
+
+## V001 C003 E016 backfill sensei role and ethics delta
+
+Sensei wakes after Schale blast; doctor says no wound but advises rest and asks for examination. Sensei rises, cites a promise to students and returns, while full medical fitness and cause remain unverified (scene:001:u:0030-0044; choice:001-003). He stabilizes the group, asks to organize facts, hears their wish to preserve Hoshino's council memory and inwardly sees hearing a student's wish as adult duty (u:0045-0110; choice:004-010). He suggests by-election, witnesses three votes and says he will guarantee legitimacy as Schale/Abydos adviser; this is participation and asserted standing, not independent law. He offers to find Nonomi's location and joins departure (u:0111-0192; choice:011-017). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 453/480, E017 unopened.
+
+
+## V001 C003 E017 backfill sensei role and ethics delta
+
+Sensei's only present contribution here is reporting Nonomi's station location, with search method unshown. The students thank him and plan a combined approach; a Serika-rescue memory reprises his earlier Central Network access and Hoshino's request for help, but that older event is not new present action (scene:001:u:0011-0049; choice:001). Ayane leads 08:5X operational briefing and joins field effort while Sensei's direct combat or legal intervention is not printed (scene:002-010; choice:001). The Dweller addresses him as player and predicts emotional chaos, adversarial framing without proven control. No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 454/480, E018 unopened.
+
+
+## V001 C003 E018 backfill sensei role and ethics delta
+
+Sensei's choice space pairs trust that Hoshino can face General with a proposal to help Highlander; the following scene establishes group assistance to surrounded students, not both alternative lines as separate acts (scene:002:u:0019-0023; choice:001; scene:003). The choice costs time before noon, and Highlander student later thanks the rescuers. Sensei inwardly urges moving on to the old station after the danger, while no direct gun/title adjudication or Nonomi rescue is shown (scene:006:u:0007-0028). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 455/480, E019 unopened.
+
+
+## V001 C003 E019 backfill sensei role and ethics delta
+
+Sensei arrives with the Committee before noon and says Hoshino's old-council invalidation statement lacks effect. He attests Ayane was elected and claims witness standing, then says Nonomi needs his permission to leave the Committee. These are direct interventions and authority claims, with external legal effect untested (scene:004:u:0002-0024). President denies Ayane voice, closes assembly and orders troops against attendees; Ayane asks Sensei for tactical command, but no printed response follows before final pursuit (scene:005-006). No standalone model/frozen prediction/held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`); 456/480, E020 unopened.
+
+## V001 C003 E020 backfill Sensei ethics delta
+
+Sensei's sole printed choice tells Hoshino to wait (`choice:001`), followed by inward `待って` after she says solo destruction must be her crime (scene:001:u:0068-0077). He joins the peers' attempt to keep planning collective rather than treating Hoshino's self-sacrifice as consent to abandonment. The page shows no successful restraint, adjudication, tactical order or acceptance of Hoshino's contract theory. Choice and inward voice are separate evidence, and the subsequent physical interruption is not explained (`u:0077-0084`).
+
+## V001 C003 E021 backfill Sensei ethics delta
+
+Sensei's four choice groups echo the captivity diagnosis, consider Serika's request for strong help, confirm boarding the Highlander train and signal response to a helicopter (scene:002:choice:001-004). Nonomi rejects a strength-only substitute because it would leave Hoshino's recurring solo-rescue pattern intact (scene:002:u:0015-0019). Sensei's inward thanks to the executive and twins is distinct from externally spoken consent (u:0048,0082). The group acts jointly and departs, but no completed reconciliation, injury outcome or Sensei-only solution is shown (u:0107-0119; scene:003).
+
+## V001 C003 E022 backfill Sensei ethics delta
+
+Sensei has three bounded choices: uncertainty during Kaiser pursuit, thanks to Shiroko's protection, and assent to the Valley train plan (scene:001:choice:001-002; scene:003:choice:001). His inward check after the diversion elicits direct peer confirmation that they escaped unseen (scene:002:u:0016-0021). The successful dismount depends on Highlander twins' limited-risk delay and student action; no teacher-only tactical victory or completed Hoshino rescue is printed. The twins' safety and legal/contract stakes remain unresolved.
+
+## V001 C003 E023 backfill Sensei ethics delta
+
+Sensei has no printed choice or line in this Hoshino/Suou confrontation. Hoshino's certainty that destruction expresses Yume's will and Suou's card/notebook bargain proceed without teacher corroboration or consent (scene:001:u:0032-0061). The absence prevents attributing any intervention, approval or tactical direction to Sensei here. The group was en route at E022 boundary; arrival at this fight is not yet shown.
+
+## V001 C003 E024 backfill Sensei ethics delta
+
+Sensei arrives with Abydos and directly sees the weapon; his first choice suggests Gematria only as a possibility after Arona's technical warning (scene:001:u:0018-0047; choice:001). He checks on Plana through a choice while Arona reports exhaustion; Plana wakes and reports an unknown observer, with no resolved diagnosis or surveillance attribution (u:0048-0058; choice:002-004). Serika calls him toward Hoshino gunfire and his inward response agrees to move (u:0059-0064). He has not reached Hoshino, stopped Suou or authorized gun destruction in this episode.
+
+## V001 C003 E025 backfill Sensei ethics delta
+
+Sensei's one printed choice tells Hoshino directly that the group came to stop her (scene:001:choice:001). It occurs after Hoshino begins the gun-destruction statement and before peers contest her lone liability and school exit (u:0019-0037). His presence supports collective interruption, but there is no shown disarmament, custody, legal authority ruling or teacher endorsement of Hoshino's forecast. The group has reached Hoshino, and persuasion/coercion remains unresolved.
+
+## V001 C003 E026 backfill Sensei ethics delta
+
+Sensei has an inward exclamation at the opening and no printed choice or tactical instruction (scene:001:u:0001). The four students are exhausted by Hoshino and Shiroko proposes a personal challenge (u:0002-0018). The record does not show Sensei authorizing the fight, stopping it, treating injuries or changing the legal dispute. His E025 stated intent to stop Hoshino has not yet succeeded.
+
+## V001 C003 E027 backfill Sensei ethics delta
+
+Sensei inwardly contests Hoshino's Yume self-blame, asks her home and through a printed choice says she has suffered enough; Hoshino briefly assents (scene:001:u:0051-0062; choice:001). Dweller/Suou interrupt, so the return is not completed (u:0063-0088). Arona warns forced destruction may spread harm; Plana identifies Dweller and asks Sensei to stop Hoshino, while Sensei's choices remain bounded responses and hypotheses rather than guaranteed powers (u:0089-0147; choice:003-008). Sensei contacts a relevant helper and calls for both Hoshino/Suou to be stopped; Hina later appears at the branch, a strong sequential link but the call voice is unnamed (u:0152-0186; choice:009-012). No teacher-only resolution is shown.
+
+## V001 C003 E028 backfill Sensei ethics delta
+
+Sensei has no printed choice, speech or inward line in E028. Hina's repeated interception follows the E027 sequence in which Sensei requested a relevant helper, but the episode does not show a new instruction or supervision (scene:001:u:0002-0023). The use of force has no resolved injury or consent outcome; Sensei's stated aim to stop Hoshino and Suou remains open.
+
+## V001 C003 E029 backfill Sensei ethics delta
+
+Sensei has no printed line or choice. Hoshino guesses Hina intervened because Sensei asked, but Hina does not confirm that in E029 (scene:001:u:0010-0013). E027's call remains contextual evidence for a likely connection; no new teacher instruction or fight supervision is shown here. The risk of forcing a moving-train fall remains an unrealized Hoshino plan (u:0021-0025).
+
+## V001 C003 E030 backfill Sensei ethics delta
+
+Sensei has no printed action, choice or inward line. The historical Hoshino/Yume argument and partial notebook message deepen the context for E027's anti-self-blame intervention but do not make Sensei a witness to those past events (scene:001:u:0001-0045). Hina remains in contact with Hoshino after a reported train fall; her reappearance is direct, while any new teacher coordination is absent (u:0046-0066).
+
+## V001 C003 E031 backfill Sensei ethics delta
+
+Hina now confirms Sensei requested she stop Hoshino, establishing the E027 unnamed helper link directly (scene:001:u:0004-0007). Hina also acts from her own Thunder Emperor duty and investigative knowledge, so the intervention is not reducible to teacher command (u:0009-0045). She trusts Sensei/group to handle the gun but completion is future. Sensei appears with the train group; the one choice reacts to Arona/Plana warnings as collision nears (u:0076-0093; choice:001). Teacher presence does not certify boarding success or safe destruction.
+
+## V001 C003 E032 backfill Sensei ethics delta
+
+Sensei has inward alarm when a blast and sky change occur and inward concern for Hoshino/Hina at the cut (scene:001:u:0081,0092). The group reports a halted gun and downed Suou, but no teacher order or choice is printed in this unit. Hina's E031 expectation that Sensei/group can handle the gun is partially supported by Ayane's immediate stop report; lasting safety and Hoshino protection are not achieved on page. Dweller's attempt to turn guilt into a sixth-rule event continues beyond a teacher's direct reach (u:0026-0080).
+
+## V001 C003 E033 backfill Sensei ethics delta
+
+Sensei checks Hina via printed choice, then inwardly feels failure in face of Hoshino's reversal; this is a crisis response, not proof that he had no remaining options (scene:001:u:0037-0053; choice:001). Plana warns of world destruction and proposes breaking Hoshino's halo; Sensei inwardly rejects it (u:0072-0078; choice:002-004). Shiroko vows rescue, Color is detected, and Plana reports Sensei unconscious with unstable pulse; his ability to act is interrupted at this boundary (u:0079-0095). An unidentified soft voice calls him awake, without demonstrated recovery (u:0098-0100).
+
+## V001 C003 E034 backfill Sensei ethics delta
+
+Sensei in a Yume-framed vision apologizes for adult limits, hears that small help can accumulate, and says he wants to save a child within reach (scene:001:u:0001-0033; choices:001-006). This is a stated ethic under crisis, not power to reverse death or a literal past intervention. He directly challenges Dweller's claim of victory; Plana initiates Color-powered forced transfer (u:0034-0040; choices:007-009). Sensei then inwardly warns Shiroko not to reach for the Color-like force, while counterpart Shiroko lines are tag-collapsed and outcome open (u:0041-0064). The E033 consciousness crisis is not medically resolved on page.
+
+## V001 C003 E035 backfill Sensei ethics delta
+
+Sensei's inward warning to stop Shiroko repeats at the counterpart-contact boundary, but Plana's emergency Color communication and the other Shiroko's response carry the action (scene:001:u:0001-0027). Arona confirms arrival, not Sensei's recovery. The intervention blocks Dweller's reported Set manifestation, while his fifth-method threat and Hoshino's state remain open (scene:002). No lethal remedy or teacher-only resolution is shown.
+
+## V001 C003 E036 backfill Sensei ethics delta
+
+Sensei inwardly asks for a nonlethal way when counterpart Shiroko says she came to break Hoshino's halo (scene:001:u:0011-0022). Plana proposes a costly contact method and privately asks Arona to hide her risk from Sensei, so his knowledge/consent to that cost is not established (u:0043-0067). Arona later briefs him; he shares the operational plan, approaches the notebook-like form but says he cannot complete contact. He recognizes adult limits in understanding another's death/pain and asks Committee/counterpart to carry the message (u:0068-0084; scene:002). This is a concrete handoff, not completed cure.
+
+## V001 C003 E037 backfill Sensei ethics delta
+
+Sensei asks Hoshino what she thinks the notebook says and through choices/inward thought separates unknown facts from a meaning grounded in her direct knowledge of Yume (scene:001:u:0099-0109; choice:001-003). He does not claim to recover authentic words, reverse death or erase the past. The offer arises after peers and counterpart Shiroko reach Hoshino with shared grief and future commitments (u:0001-0082). Arona warns he cannot be defended from incoming energy, so the ethical intervention has immediate physical risk without a printed outcome (u:0083-0098). Hoshino's notebook encounter is not yet a completed rescue (u:0110-0119).
+
+## V001 C003 E038 backfill Sensei ethics delta
+
+Sensei has no printed speech, choice or action in the letter encounter. His E037 meaning-based invitation precedes Hoshino's dialogue with a Yume-labeled future letter; this sequence is consistent with his nonlethal rescue aim but does not prove he authored or controlled the letter (scene:001:u:0001-0049). The scene ends before external Hoshino recovery, Plana safety or Sensei's medical state is updated. No teacher victory can yet be assigned.
+
+## V001 C003 E039 backfill Sensei ethics delta
+
+Sensei states he will allow no further Abydos death/grief and frames aid to any child reaching out as an adult's responsibility, then takes out the Adult Card (scene:001:u:0043-0052). This is an explicit teacher ethic under imminent threat and card use, but neither successful protection nor card cost is shown. Dweller argues within a rule/win-loss model and panics at the card; Sensei's relayed answer refuses to define children and adults only through victory/defeat (u:0053-0078). Plana confirms connection and adds her own barbed paraphrase; it should not all be collapsed into Sensei's exact words.
+
+## V001 C003 E040 backfill Sensei ethics delta
+
+Sensei has no printed speech, inward line or action in the oasis spectacle; his E039 Card, command connection and stated protective responsibility cannot be credited with a specific visible result from this unit alone (scene:001:u:0001-0050). Hoshino remains with juniors, Hina and counterpart Shiroko in ordinary exchange, but Sensei's condition, card cost and Dweller/Set disposition are not reported. The mineral-value discovery is Hina's hypothesis and the students' encounter, not a teacher-directed financial remedy.
+
+## V001 C003 E041 backfill Sensei ethics delta
+
+Ako challenges Sensei over his reported hospital departure; his `大丈夫`/tiredness choices are not medical clearance (scene:001:u:0017-0023; choice:001-002). A cut shows Sensei preparing records and directing Plana to contact Hina about suspected Gehenna involvement, a delegated inquiry rather than proof (u:0024-0028; choice:003-004). He assists Hina by waking Hoshino, thanks her, joins peers' invitation for Hoshino to repeat her apology, and privately asks if Hoshino is truly all right (u:0057-0063,0088,0116-0123,0159-0161; choice:010-013). He thanks both OSs after Dweller connection severs and asks about counterpart Shiroko's unexpected disconnection (u:0202-0212; choice:014-015).
+
+## V001 C003 E042 backfill Sensei ethics delta
+
+Ayane briefs Sensei on daily Committee life, Hoshino's accepted presidency, legacy disposal, unpaid debt and infrastructure plans; Sensei has no printed directive changing those outcomes (scene:001:u:0001-0078). When Hoshino asks whether he knows counterpart Shiroko's location, the single choice apologizes rather than inventing contact (u:0079-0081; choice:001). The group's hope to meet and thank her remains an open obligation, not a successful search or imposed recall (u:0082-0086).
+
+## V001 C003 E043 backfill Sensei ethics delta
+
+Sensei follows local Shiroko toward a theft call and distinguishes her from the counterpart speaker in the encounter (scene:001:u:0019-0033; choice:001-003). He asks counterpart Shiroko about food, invites ramen, accepts refusal, avoids forcing a painful past account and offers later timing (u:0034-0048; choice:004-008). He chooses to help despite her one-per-world concern, gives her a smartphone and invites contact within reach; she agrees without an on-page later call (u:0058-0074; choice:010-014). His assertion that change remains possible is a supportive judgment, not proof of guaranteed cure or Binah victory (u:0071-0113).
