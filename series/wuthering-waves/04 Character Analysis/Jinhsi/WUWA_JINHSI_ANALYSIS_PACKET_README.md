@@ -28,7 +28,7 @@ The [deep dive](WUWA_JINHSI_CHARACTER_DEEP_DIVE_PRE_AV.md) reads Jinhsi as a civ
 | Read | Artifact | Purpose |
 |---:|---|---|
 | 1 | [Continuous analysis](WUWA_JINHSI_CHARACTER_DEEP_DIVE_PRE_AV.md) | Civic miracle, Jué, agency and counterreadings |
-| 2 | [Evidence/falsification matrix](WUWA_JINHSI_EVIDENCE_AND_FALSIFICATION_MATRIX.md) | 42 locator bundles, 41 bounded claims |
+| 2 | [Evidence/falsification matrix](WUWA_JINHSI_EVIDENCE_AND_FALSIFICATION_MATRIX.md) | 43 locator bundles, 42 bounded claims |
 | 3 | [Civic authority and human self-rule](WUWA_JINHSI_CIVIC_AUTHORITY_AND_HUMAN_SELF_RULE_PROFILE.md) | Wishes as policy intake, institutional care, paternalist tension and Jué dependency |
 | 3a | [First alliance, choice and information asymmetry](WUWA_JINHSI_FIRST_ALLIANCE_CHOICE_AND_INFORMATION_ASYMMETRY_PROFILE.md) | Prepared welcome, join/consider graph, nonbarter promise, secrecy request and Black Shores limits |
 | 3b | [Claim-revision ledger](WUWA_JINHSI_CLAIM_REVISION_LEDGER.md) | Tracks the local draft's choice, disclosure, welcome and hypothetical-refusal corrections |
@@ -42,7 +42,7 @@ The [deep dive](WUWA_JINHSI_CHARACTER_DEEP_DIVE_PRE_AV.md) reads Jinhsi as a civ
 | 4 | [Relationships/ordinary life](WUWA_JINHSI_RELATIONSHIP_STATE_AND_ORDINARY_LIFE_PROFILE.md) | Time-aware relationships and romance affordance |
 | 5 | [Speech/audio](WUWA_JINHSI_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md) | Written registers and four-dub machine census |
 | 6 | [Behavior model](WUWA_JINHSI_CHARACTER_MODEL_PACKAGE.json) | 17 source-linked conditional rules |
-| 7 | [Fidelity probes](WUWA_JINHSI_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md) | 46 non-blind stress cases |
+| 7 | [Fidelity probes](WUWA_JINHSI_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md) | 47 non-blind stress cases |
 | 8 | [Census/identity audit](WUWA_JINHSI_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md) | Denominators, rejected identities, chronology |
 | 9 | [AV plan](WUWA_JINHSI_AV_AND_HUMAN_RETRIEVAL_PLAN.md) | Future direct listening/viewing and eight-line gap |
 | 9a | [Exact AV retrieval crosswalk](WUWA_JINHSI_AV_HUMAN_RETRIEVAL_CROSSWALK.md) | Eighteen selected four-dub sound cases, including seven individual archive capsules, seventeen runtime/negative targets, quest-state candidate joins and acceptance controls |
@@ -52,6 +52,8 @@ The [deep dive](WUWA_JINHSI_CHARACTER_DEEP_DIVE_PRE_AV.md) reads Jinhsi as a civ
 [Eighteen matched audio cases](AUDIO_MATCHED_SEMANTIC_CASES.json) carry metadata-only text/event/media/PCM/FLAC chains, not recordings. The private source package is `ANALYSIS/Characters/Jinhsi`; sound stays under `_voice_media/character/complete_voice_corpus/Jinhsi/v0_1` and `_research/character_packets/Jinhsi/audio_work`. No full scripts, game rasters or sound are in this Git packet.
 
 The seven archive capsules distinguish civic address, collective and particular companionship, food, human self-rule, Sanhua's care, birthday invitation and speculative resonance closeness. They are separate favor records, not a dated conversation or a completed relationship route. The EN birthday render is decoded but flagged for subtitle/voice-extent review, so its 41.65-second object cannot yet be analyzed as a clean isolated sentence. The source validator now checks all seven raw archive IDs, locators, event paths, four localized text joins and the retained flag; this does not replace human listening.
+
+A separate four-language Ascension V reread adds a tension the seven-case sample did not test: Jinhsi can advocate a human route beyond sole reliance on Jué (`130410`) and still allow fate a place in interpreting her meeting with Rover (`130429`). EN states the past-to-present contrast more strongly than ZH/JA/KO. The archive menu does not date a civic-policy reversal or record Rover's reciprocal answer; four technically valid `130429` renders remain unlistened and outside the eighteen-case sample. [Evidence JIN-E43](WUWA_JINHSI_EVIDENCE_AND_FALSIFICATION_MATRIX.md#evidence-bundles), [claim JIN-C42](WUWA_JINHSI_EVIDENCE_AND_FALSIFICATION_MATRIX.md#material-claims-and-revision-triggers) and [probe P47](WUWA_JINHSI_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md) preserve both limits.
 
 The [temporal-bargain case study](WUWA_JINHSI_TEMPORAL_BARGAIN_AND_THREE_PERSON_CHOICE_PROFILE.md) corrects a compressed account of Mt. Firmament: Jué proposes sacrificing itself to suspend the city until an uncertain future rescue; Jinhsi proposes a dangerous present restoration while seeking her own survival; Rover may provide precisely timed conditional help. The retained `3163/2` graph has two short opening acknowledgments that rejoin, not an observed categorical-refusal route. ZH/KO's one-tenth *increment* is not an absolute survival probability and is not stated numerically in EN/JA. These are text-and-graph findings, not a witnessed battle or a measured outcome.
 

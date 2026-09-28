@@ -2,8 +2,8 @@
   "packet": "Jinhsi",
   "scope": "JINHSI_PINNED_3_6_0_TEXT_AUDIO_PRE_AV",
   "checks": [
-    "42 contiguous evidence bundles",
-    "41 contiguous material claims",
+    "43 contiguous evidence bundles",
+    "42 contiguous material claims",
     "no raw game media in Git packet",
     "draft authority: WUWA_JINHSI_ANALYSIS_PACKET_README.md",
     "noncurrent flag: WUWA_JINHSI_ANALYSIS_PACKET_README.md",
@@ -69,8 +69,9 @@
     "17 distinct model rules",
     "all model evidence IDs resolve",
     "no fabricated numerical rule probabilities",
-    "46 contiguous non-blind probes",
+    "47 contiguous non-blind probes",
     "Changli/Jinhsi player-piece agency guard retained",
+    "fate-versus-civic-agency probe and both model guards retained",
     "18 matched cases",
     "all 18 exact sound cases occur in AV crosswalk",
     "seven archive cases have individual retrieval capsules",
@@ -167,6 +168,9 @@
     "four pinned archive text witnesses: 130418",
     "raw archive row, event path and numeric media: 130428",
     "four pinned archive text witnesses: 130428",
+    "four-language human-road versus encounter-fate wording",
+    "Ascension V exact row and four localized text joins",
+    "Ascension V event/media and four distinct PCM-valid render joins",
     "EN birthday extent flag retained as unresolved human check",
     "source locator: FavorWord_130401_Content",
     "text witnesses resolved: FavorWord_130401_Content",
@@ -227,5 +231,5 @@
   ],
   "source_crosscheck": "passed",
   "result": "pass",
-  "check_count": 222
+  "check_count": 226
 }

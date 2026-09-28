@@ -37,10 +37,10 @@ def validate(source_root: Path | None) -> dict:
     matrix = (HERE / f"{PREFIX}EVIDENCE_AND_FALSIFICATION_MATRIX.md").read_text(encoding="utf-8")
     evidence_ids = set(re.findall(r"\| (JIN-E\d{2}) \|", matrix))
     claim_ids = set(re.findall(r"\| (JIN-C\d{2}) —", matrix))
-    require(evidence_ids == {f"JIN-E{index:02d}" for index in range(1, 43)},
-            "42 contiguous evidence bundles", checks)
-    require(claim_ids == {f"JIN-C{index:02d}" for index in range(1, 42)},
-            "41 contiguous material claims", checks)
+    require(evidence_ids == {f"JIN-E{index:02d}" for index in range(1, 44)},
+            "43 contiguous evidence bundles", checks)
+    require(claim_ids == {f"JIN-C{index:02d}" for index in range(1, 43)},
+            "42 contiguous material claims", checks)
     require(not any(p.suffix.lower() in MEDIA_SUFFIXES for p in HERE.rglob("*") if p.is_file()),
             "no raw game media in Git packet", checks)
     expected = (
@@ -83,11 +83,15 @@ def validate(source_root: Path | None) -> dict:
             "no fabricated numerical rule probabilities", checks)
     probes = (HERE / f"{PREFIX}MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md").read_text(encoding="utf-8")
     require(set(re.findall(r"\| (JIN-P\d{2}) \|", probes)) ==
-            {f"JIN-P{index:02d}" for index in range(1, 47)},
-            "46 contiguous non-blind probes", checks)
+            {f"JIN-P{index:02d}" for index in range(1, 48)},
+            "47 contiguous non-blind probes", checks)
     require("JIN-P46" in probes and "player/piece" in probes and
             "player/piece" in model["rules"][1]["exceptions_and_limits"],
             "Changli/Jinhsi player-piece agency guard retained", checks)
+    require("JIN-P47" in probes and "FavorWord_130429_Content" in probes and
+            "JIN-E43" in model["rules"][8]["evidence_ids"] and
+            "JIN-E43" in model["rules"][11]["evidence_ids"],
+            "fate-versus-civic-agency probe and both model guards retained", checks)
     cases = json.loads((HERE / "AUDIO_MATCHED_SEMANTIC_CASES.json").read_text(encoding="utf-8"))
     require(cases["semantic_cases"] == 18 and len(cases["cases"]) == 18,
             "18 matched cases", checks)
@@ -625,6 +629,37 @@ def validate(source_root: Path | None) -> dict:
                         row["text_witnesses"][lang]["content_sha256"] ==
                         case["text_witness_sha256"][lang] for lang in LANGUAGES),
                     f"four pinned archive text witnesses: {word_id}", checks)
+        civic = favor_by_id[130410]["content"]["values"]
+        fate_word = favor_by_id[130429]
+        fate = fate_word["content"]["values"]
+        require("属于人类自己的道路" in civic["zh-Hans"]["content"] and
+                "偶尔相信一次命运也不错" in fate["zh-Hans"]["content"] and
+                "once believed" in fate["en"]["content"] and
+                "power of fate" in fate["en"]["content"] and
+                "出会えたこの「運命」" in fate["ja"]["content"] and
+                "한 번쯤은" in fate["ko"]["content"],
+                "four-language human-road versus encounter-fate wording", checks)
+        fate_rows = [line for line in lines if line["text_key"] == "FavorWord_130429_Content"]
+        require(len(fate_rows) == 1 and fate_word["id"] == 130429 and
+                fate_word["raw"]["Content"] == "FavorWord_130429_Content" and
+                fate_word["source_locator"] ==
+                f"wuwa://{COMMIT}/BinData/favor/favorword.json#/1252" and
+                fate_rows[0]["source_locator"] == fate_word["source_locator"] and
+                all(fate["zh-Hans" if language == "zh" else language]["content"] ==
+                    fate_rows[0]["text_witnesses"][language]["content"]
+                    for language in LANGUAGES),
+                "Ascension V exact row and four localized text joins", checks)
+        fate_renders = fate_rows[0]["renders"]
+        require(len(fate_renders) == 4 and
+                {(r["voice_language"], r["numeric_media_id"]) for r in fate_renders} ==
+                {("en", 314613510), ("ja", 844083088),
+                 ("ko", 537313558), ("zh", 267182053)} and
+                {r["event_id"] for r in fate_renders} == {494967523} and
+                {r["event_path"] for r in fate_renders} == {fate_word["voice_asset"]} and
+                len({r["canonical_pcm_sha256"] for r in fate_renders}) == 4 and
+                all(r["materialization_status"] == "flac_roundtrip_pcm_identical"
+                    for r in fate_renders),
+                "Ascension V event/media and four distinct PCM-valid render joins", checks)
         birthday = archive_cases["FavorWord_130418_Content"]
         birthday_en = next(r for r in birthday["renders"] if r["language"] == "en")
         require("long_object_check_subtitle_extent" in birthday_en["qc_flags"] and
