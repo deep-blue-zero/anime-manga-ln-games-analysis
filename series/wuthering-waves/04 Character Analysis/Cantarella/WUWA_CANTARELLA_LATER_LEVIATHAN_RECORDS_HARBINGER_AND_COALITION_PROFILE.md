@@ -1,0 +1,47 @@
+---
+series: WUWA
+character: Cantarella
+artifact_type: later_leviathan_records_harbinger_and_coalition_profile
+analytical_responsibility: "Trace the Chapter 2.7 voiced aid scene and source-unvoiced optional records menu without turning in-world theories, temporary secrecy, historical sacrifice, or alliance into universal policy"
+scope: CANTARELLA_PINNED_3_6_0_TEXT_AUDIO_PRE_AV
+analysis_generation: CANTARELLA_PRE_AV_V0_1
+status: draft_noncurrent
+release_state: author_working_draft_pending_owner_review
+source_commit: 353f2eaed119bc9f680eab92807d20ac75a79b40
+source_generation: arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko
+source_generation_frozen: true
+source_freeze_metadata: conflicting_collection_and_embedded_lock_fields
+text_authority: zh-Hans
+localization_witnesses: [en, ja, ko]
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: true
+---
+
+# Cantarella — a restored record is not an omniscient record
+
+Two consecutive Chapter 2.7 states alter Cantarella's working epistemology and public duties after the family-trials arc. The exact client-derived state keys are `剧情_2_7_黎那汐塔主线_上半_1_34_1` at `flow#/8876/6` and `剧情_2_7_黎那汐塔主线_上半_1_35_1` at `flow#/8877/4`. `QUEST_CONTEXT_REFERENCES.jsonl` links both to quest `158800019`. These are later than the immediate anti-trial headship, but the retained quest joins and static source graph do not show which optional records topic a player opened. The first action has ten named Cantarella turns (speaker `150009`) within a larger voiced multi-speaker exchange; each of those ten joins to four PCM-valid selected render associations. The second is a 34-item Cantarella action whose raw items omit `PlayVoice`; the collector normalizes all to `play_voice:false` and supplies no selected decoded voice row. This is a source-selection boundary, not independent proof of how a running client handles every sound. No human listening or runtime viewing was performed for this profile [CAN-E40–E41].
+
+## Help is a bounded intervention, not a cure claim
+
+In the first action, she offers a Fisalia medicine described as suppressing Leviathan's spiritual corruption (`Main_Rinascita_2_11_431_1`). EN calls it an “antidote,” while ZH/JA/KO use a family secret medicine or elixir term; the shared functional claim is suppression, not a completed cure or a recipe. Her next turn says the Sentinel power already within Rover is holding the corruption back to a degree and identifies hallucinations and whispers as remaining problems (`_431_47`). Those two statements do not isolate which agent caused any later improvement. Neither an imperative to take the medicine nor a technical FLAC join proves the player visibly swallowed it, that symptoms resolved, or that Cantarella can make any guest immune to dream/poison effects. The ethical continuity with her earlier self-experiment and trial history is competence constrained by cost, not magically safe chemistry [CAN-E05/E40, C35].
+
+She also explains why inherited knowledge could fail at a basic perceptual level. Only after the Threnodian's whispers stopped could she see formerly distorted characters in ancient Fisalia records as legible again (`_431_24`). She can now transmit an account of Leviathan, faith, the Dark Tide and shared fear, but this is a report from documents she sees differently *and* an in-world interpretation of them. Her account of Leviathan's sea-creature shape and a spiritual Dark Tide is not a license to state that she empirically measured every historical cause. ZH/JA/KO speak of a giant fish more directly than EN's general sea creature at `_431_25`. Later, `_431_34` explicitly frames the consciousness-alignment forecast conditionally; do not convert the possible catastrophe into an accomplished mental state for every Rinascitan. A model should allow her to revise her reading when the evidence changes, while preserving that an intelligible ancient record may still be incomplete or wrong [CAN-E21/E40, C36].
+
+## The second action is a menu, not one uninterrupted confession
+
+At `flow#/8877/4`, T0–3 form a common introduction: she proposes moving Fisalia members toward Averardo Vault, passing Leviathan intelligence to Carlotta and colleagues, and temporarily keeping the Harbinger matter confidential to avert panic. Rover may ask for more at T3/`Main_Rinascita_2_11_44_5`, proceeding to T4, or use either departure option `_44_6–7`, both jumping directly to TalkId 32 (T31). At T4 she offers what she can from ancient records not fully decoded. Four topic options route to TalkIds 6, 12, 19 and 25, corresponding to T5–10 (Leviathan history), T11–17 (Dark Tide mechanism), T18–23 (Harbinger), and T24–30 (Cartethyia/Galbrena). Each topic's last item jumps back to TalkId 5/T4. Two exit options at that menu jump to TalkId 32/T31, after which T31–33 give the common departure and Ragunna coalition. A static graph licenses choosing or revisiting topics; it does not prove that a player took every path, in that order, or that repeated choices were accepted at runtime [CAN-E41/C37].
+
+The T4 offer has a localization-sensitive timing detail. ZH says she has not deciphered everything and will convey what she can if Rover wants; EN similarly offers what she can, JA says she can tell the portion already understood, while KO frames delivery after deciphering is finished. The common limit is **partial inherited knowledge**, not instant access to the entire Fisalia archive or a guarantee of future disclosure to every audience. It is especially important beside her earlier private offer of family secrets to Rover: one willing conversation with Rover does not settle the survivors' or public's separate records claim. The later temporary Harbinger confidentiality at T1 is a new risk/recipient decision; it should not be merged with her older ambiguous line about inquiry into the family trials. Yet “to prevent panic” is her stated rationale, not proof that keeping the information from others is ethically costless. Fisalia members, Carlotta, Montellis, the Order, Rover, prior trial survivors and a frightened public have different exposure and decision rights [CAN-E20/E32/E41, C26/C37].
+
+## Refusing an inherited fatal route
+
+The Harbinger topic reports old records in which resistant Harbingers ended their lives to avert greater disaster (T22/`_44_33`). Cantarella's *next* turn addresses Rover with hope and a fight against Leviathan (T23/`_44_34`). EN adds a clearer “another way” formulation; ZH/JA/KO emphasize that hope or a turning point remains and Leviathan can be defeated. She does not prescribe the historical route to Rover. A continuation that treats the records as a moral command or the sole possible current solution would invert her immediate response. Conversely, a writer should not assert that she already knows a safe alternative; the historical account, danger and uncertainty remain real within her information state [CAN-E41/C38].
+
+Other optional topics are equally bounded. In the Dark Tide path she fears thoughts *may* be read or rewritten; ZH/JA/KO retain uncertainty even where EN's “full control” sounds stronger. That possible observation is a reason to manage information, not independent proof Leviathan has heard every conversation. In the Cartethyia/Galbrena path she describes Cartethyia's **current** condition as death at T24/`_44_35`. JA is more categorical, while ZH/EN/KO retain present-condition framing; no line here certifies all future story states or an irreversible end. She admits knowing little of Galbrena's aims, judges her will as potentially heedless of cost, yet says Galbrena can be trusted as an ally in danger (T25–30). That is a qualified appraisal, not omniscient knowledge of her plan or a moral blank cheque for any tactic [CAN-E41/C38].
+
+The exit finally assigns Cantarella a collective job: Fisalia will coordinate with Montelli and the Order over Ragunna while Rover is needed elsewhere (T31–33). Chinese and Japanese emphasize consultation, English standing together to face the crisis, Korean joint resolution. This is a pragmatic coalition in a specific emergency, not retrospective endorsement of every earlier Order action or proof the Fisalia family-trials accounting is finished. It also moves her beyond the image of an isolated dream-house Bane: she uses records, admits partial knowledge, offers bounded aid, chooses which intelligence to share, and accepts a public coordination task. That can be behaviorally rich without erasing the unresolved conflict between protective secrecy and accountability [CAN-E40–E41/C35–C38].
+
+## Retrieval and contrary evidence
+
+Exact voiced retrieval candidates from `8876/6` are `Main_Rinascita_2_11_431_1`, `_431_47`, `_431_24`, `_431_25`, `_431_27` and `_431_34`: six selected semantic lines, 24 integrity-valid four-dub render associations. Their per-render complete-voice analysis has no populated explicit event/numeric-media ID fields, so this is a source→text→WEM/PCM/FLAC chain, not event→bank proof. The `8877/4` records menu has four-language text and raw jump edges but no selected decoded cohort. Direct runtime inspection could establish actual choice path, performed delivery if any, whether the medicine is taken, and the staging of the relocation. A later direct source could revise the records, coalition or temporary Cartethyia status. Until then, no technical check transforms conditional lore, a secret-keeping rationale or a voiced offer into an accomplished outcome.
