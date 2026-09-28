@@ -3,14 +3,14 @@ series: BLUE_ARCHIVE
 artifact_type: synthesis_architecture
 scope: Analytical corpus architecture for Japanese-primary Blue Archive interpretation
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
-source_boundary: Designed for the Blue Archive extraction corpus pinned to electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 and its future promoted generations
+source_boundary: "Designed at the historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86; current production boundary is all 480 canonical main units in electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z; side-source classes remain unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-25
+updated: 2026-09-28
 ---
 
 # BLUE ARCHIVE SYNTHESIS ARCHITECTURE V1
@@ -27,7 +27,7 @@ The project uses one canonical analytical root and one canonical source/ingestio
 
 The two roots have different responsibilities:
 
-- **source root** — raw upstream snapshots, 2,716 promoted canonical story/data objects, structured data, character/relationship/institution/Sensei projections, LLM ingest, audits;
+- **source root** — raw upstream snapshots, promoted canonical story/data objects, structured data, character/relationship/institution/Sensei projections, LLM ingest, audits;
 - **analytical root** — methods, sequential readings, cumulative ledgers, specialist interpretation, full/current-era synthesis, evidence indexes, manifests, and legacy analytical generations.
 
 Do not duplicate the full transcript corpus into the analytical root. Analytical artifacts should link back to it through stable IDs and Drive routes.
@@ -52,7 +52,7 @@ If hypothetical use exposes a weakness, reopen the canonical evidence and revise
 
 ## Source-projection versus analytical-artifact boundary
 
-The promoted source corpus now contains a mature derived layer. Preserve the following semantic separation:
+The promoted source corpus contains a derived layer. The quantitative examples below describe the historical V1 build; current inventory and admission state are routed through the [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) and [source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md). Preserve the following semantic separation:
 
 | Source/ingestion artifact | What it does | Analytical counterpart |
 |---|---|---|
@@ -179,7 +179,7 @@ Recommended hierarchy:
       BLUE_ARCHIVE_<EVENT_SCOPE>_DEEP_READING.md
 ```
 
-Do not automatically deep-read all 492 recoverable event script groups as separate canonical analytical files. Events should first be triaged for continuity importance.
+Do not automatically turn an extraction inventory into one analytical file per event script group. The 492 recoverable groups were a historical V1 inventory, not a current analytical worklist. Events should first be triaged for continuity importance.
 
 ## 5.1 Main-story scope notation
 
@@ -543,7 +543,7 @@ Exit condition:
 
 > bulk canonical corpus has passed parser/choice/provenance review and has been promoted beyond inspection samples.
 
-**Status: COMPLETE.** The V1 canonical build reports `PASS` with 2,716 canonical story/data objects, 2,047 scenes, 102,665 utterances, 8,774 preserved choice groups, 12,821 MomoTalk messages, and 7,089 character contextual lines. The derived build also reports `PASS` and provides the retrieval projections required for Phase 1 and later contextualization.
+**Historical V1 promotion status: COMPLETE.** The V1 canonical build reports `PASS` with 2,716 canonical story/data objects, 2,047 scenes, 102,665 utterances, 8,774 preserved choice groups, 12,821 MomoTalk messages, and 7,089 character contextual lines. The derived build also reports `PASS` and provides the retrieval projections required for Phase 1 and later contextualization.
 
 ## Phase 1 — Main story pass
 
@@ -556,6 +556,8 @@ Outputs:
 - arc checkpoints.
 
 Supplemental layers are consulted only when required to resolve source identity or when the governing reading plan explicitly backfills them after an arc.
+
+**Current snapshot status: COMPLETE, 480 / 480 main units.** The last completed backfill checkpoint is `MAIN_V001_C003` through `BA:main:001:003:043`; the latest forward checkpoint is `MAIN_S2_V003_C001` through `BA:main:series2:003:001:014`. No main unit remains unopened in the audited snapshot. This completes the main-story pass at that boundary, while contextualization and reconstruction readiness remain separate gates.
 
 ## Phase 2 — Arc contextualization
 
@@ -603,7 +605,22 @@ Once a release is declared frozen:
 
 # 12. Current production sequence
 
-The source-promotion milestone, Prologue checkpoint, and Volume 1 Chapters 1–2 checkpoints have passed. The actual analytical boundary is `MAIN_V001_C002`, **42 / 310** main units. The current sequence is:
+The [source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) fixes the current production boundary at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8`: **480 / 480** main units read, including `MAIN_V001_C003` E001–E043 backfill, with the latest forward unit `BA:main:series2:003:001:014`. No main unit remains unopened within that snapshot. The current sequence is:
+
+1. retain the source-facing readings, chapter checkpoints, and seven cumulative ledgers with their local information boundaries; choose the checkpoint appropriate to the subject and story state rather than treating the last backfill as a universal chronological endpoint;
+2. use the [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) and [bootstrap audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md) for current evidence readiness and any bounded pilot recommendation;
+3. prepare Phase 2 contextualization through source-class, chronology, relevance, and gap-impact triage before admitting selected group, event, bond/MomoTalk, or character-data sources;
+4. preserve the earlier checkpoint `DEFER` decisions as history; side-source classes remain unadmitted until a reasoned current admission decision names the sources and intended evidence gap;
+5. create a monograph or standalone reconstruction pilot only when its distinct evidence, state/domain, and responsibility gates pass; full main-story coverage alone does not certify readiness;
+6. freeze any intended prospective test before genuinely unexposed diagnostic source material is opened; comparisons against the completed main corpus are retrospective and must retain known prior exposure;
+7. continue method §10.5 for later chapter checkpoints and update affected coverage/readiness rows, preserving previous bases, counterevidence, failed tests, and promotion or demotion reasons;
+8. recheck released-source provenance and the canonical inventory before extending the main-story boundary.
+
+No character model, prediction register, or empty model directory is required merely for symmetry.
+
+## Historical C002 production sequence — 2026-09-25
+
+The source-promotion milestone, Prologue checkpoint, and Volume 1 Chapters 1–2 checkpoints had passed. At that design boundary, `MAIN_V001_C002` represented **42 / 310** main units. The following instructions preserve the earlier production gate and its exposure discipline; they no longer describe the live reading frontier:
 
 1. retain all three historical checkpoints and the recovered twenty C002 readings; use the C002 checkpoint as the current Volume 1 synthesis authority;
 2. maintain the seven cumulative ledgers through `BA:main:001:002:020` without overwriting unit-local uncertainty;
@@ -616,7 +633,7 @@ The source-promotion milestone, Prologue checkpoint, and Volume 1 Chapters 1–2
 9. admit side sources only through a reasoned source/chronology gate, never to fill a table;
 10. create a monograph or standalone model only when its distinct evidence and responsibility gate passes.
 
-The forthcoming Chapters 3–8 capture contract changes what the run records, not its canonical reading order. Chapter numbers in that planning phrase do not replace the crosswalk's volume/chapter IDs. No character model, prediction register, or empty model directory is required merely for symmetry.
+The then-forthcoming Chapters 3–8 capture contract changed what the run recorded, not its canonical reading order. Chapter numbers in that planning phrase do not replace the crosswalk's volume/chapter IDs. No character model, prediction register, or empty model directory is required merely for symmetry.
 
 ---
 
@@ -701,7 +718,7 @@ There may be more bond/event text than main-story text for some characters. Quan
 
 ## 15.4 Preserve remaining source ambiguity in analytical authority
 
-Bulk promotion is complete, but the full build still records non-blocking limitations:
+The historical V1 full-build audit recorded these non-blocking limitations; retain them as provenance cautions and check the current source reconciliation before treating a count or gap as current:
 
 - seven nonempty timing/control records remain typed as `unknown` with provenance;
 - overarching Japanese event titles are unavailable for some records, so raw event IDs remain authoritative;
@@ -722,11 +739,11 @@ No major synthesis should silently repair these limitations from memory or anoth
 - longitudinal transformation;
 - whether co-presence is mostly ensemble structure.
 
-The 40 selected source bundles should therefore seed relationship review, not determine the analytical relationship canon.
+The 40 source bundles selected in V1 were retrieval seeds, not an analytical relationship canon. Apply the same distinction to later source-bundle selections.
 
 ## 15.6 Treat main-arc maps and LLM chunks as navigation
 
-The source corpus now exposes seven main-arc maps and reversible LLM chunks. Use them to retrieve efficiently, then return to the complete canonical story for close reading. Chunk boundaries must not become literary scene boundaries unless they coincide with the source scene structure.
+The historical V1 source corpus exposed seven main-arc maps and reversible LLM chunks; later generations retain their own inventory. Use them to retrieve efficiently, then return to the complete canonical story for close reading. Chunk boundaries must not become literary scene boundaries unless they coincide with the source scene structure.
 
 ---
 

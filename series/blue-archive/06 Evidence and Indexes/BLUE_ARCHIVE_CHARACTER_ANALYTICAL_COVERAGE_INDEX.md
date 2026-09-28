@@ -3,7 +3,7 @@ series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
 scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_C003_CHECKPOINTS_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_C002_CHECKPOINTS_PLUS_V005_C001_C002_PLUS_V006_C001_C002_C003_CHECKPOINTS_PLUS_V100_C001_C002_CHECKPOINTS_PLUS_V100_C003_CHECKPOINT_PLUS_V100_C004_CHECKPOINT_PLUS_S2_V000_C001_CHECKPOINT_PLUS_S2_V001_C001_CHECKPOINT_PLUS_S2_V002_C001_CHECKPOINT_PLUS_S2_V002_C002_CHECKPOINT_PLUS_S2_V003_C001_CHECKPOINT
 generation: V1
-version: "5.56"
+version: "5.57"
 status: canonical
 source_boundary: "All 480 canonical main units through S2 V003 C001 and V001 C003 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in snapshot; side-source classes unreviewed"
 supersedes: []
@@ -55,7 +55,7 @@ Readiness uses the project-local specification:
 - `OPERATIONAL_CANDIDATE`;
 - `BOUNDED_VALIDATED`.
 
-All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means that canonical checkpoint/ledger analysis already supports at least one conditional mechanism, not that a finished model exists.
+All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means that canonical checkpoint/ledger analysis already supports at least one conditional mechanism, not that a finished model exists. Current census: **21 partial / 331 unmodeled / 352 total**; no operational or validated model. Current pilot audit: §464.
 
 ## 2. Shared corpus boundary
 
@@ -433,7 +433,7 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 
 | Subject | State / development | Decision path | Directed relationships | Institution / role | Ordinary life | Written Japanese | Crisis / pressure | Negative constraints |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Sensei | SPECIAL; structural choice/inward distinction | M; evidence requests, allies and repair | M; Hyakka/Niya ties | M; teacher under crisis | L; festival/reward banter | SPECIAL; choices/inward lines | M; no solo victory | H; private history and spoken branches absent |
+| Sensei | SPECIAL; act/choice/inward distinctions | M; inquiry and coalitions | M; school-specific care/refusal | M; teacher with bounded authority | L; situated play/meals | SPECIAL; speech-mode cautions | M; distributed rescue | H; no composite persona or universal correctness |
 | Decartes | M; non-possession stance survives into Kaiser crackdown | M; protests removal and unwanted labor | M; Sensei/RABBIT opponents, Kaiser guards now adversaries | L; claims 所確幸 leadership, membership unaudited | L; discarded-food/ruin life | M; formal non-possession rhetoric and work refusal | M; prior defeat and current coercion | H; transport outcome, legal title and private baseline absent |
 | Yukino | M; public ideal, instrument doctrine and delayed school goal in tension | M; orders coercion, captures juniors, objects to blast then accepts | M; FOX/Kaya and direct RABBIT/Sensei pressure | M; SRT aspiration versus dependence on Kaya | L; FOX food encounter, not private baseline | M; `正義` to `武器`/`柄`, tag caveats | M; command and local detention | H; school restoration, legal transfer, past transcript and private baseline absent |
 | Niko | M; civilian-harm worry, loyalty conflict and disclosed route | M; objects then continues as FOX2, feeds captives | M; FOX and direct RABBIT contact | L; restoration as questioned justification | L; homemade inari under detention | M; `正義じゃない` against weapon metaphor | M; present objection and capture participation | H; independent refusal, vendor identity and private baseline absent |
@@ -503,7 +503,7 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | Utaha | M within linked engineering role and original tower design | M for gift/test and Karin chair/indirect-fire tactic | L with Alice/team/Sensei/Karin | M; Engineering Club design role | GAP | M in secure lines | M; direct rooftop danger | M; chair damaged and lasting diversion unknown |
 | Hibiki | L; linked technical settings and EMP proposal | M for equipment and credited distant curved fire | L with engineering team | M within design role | GAP | L; some label corruption | M; indirect combat support | M; exact firing/EMP execution unshown |
 | Kotori | L; linked technical settings, corridor decoy and ceremony | M for budget concern, aid and hosting role | L with Alice/team/Sensei/Akane | M within explainer/resource role | GAP | M theatrical explanation; corrupt turns excluded | M; trapped with Akane | M; prize-policy cause is conjecture, private baseline absent |
-| Yuuka | M within role: gate, sanction, Rio objection and emergency power order | M for council reprieve, Eridu trace and E022 cutoff order | M with club/Alice/Sensei/Noa in role | M; accountant/council role, budget allegation | L; childhood-play self-report | M in secure lines; E012 flips quarantined | M; president conflict and Key-process response | M; cutoff effect, private breadth and full Eridu audit open |
+| Yuuka | M within role: gate, sanction, Rio objection and emergency power order | M for council reprieve, Eridu trace and immediate resource cutoff | M with club/Alice/Sensei/Noa in role | M; accountant/council role, budget allegation | L; childhood-play self-report | M in secure lines; E012 flips quarantined | M; president conflict and Key-process response | M; durable safety, private breadth and full Eridu audit open |
 | Noa | L; record tracer and power-order executor | L for deleted-record trace, coordinates and E022 action | L with Yuuka/Sensei/club | M within Seminar data/role limits | GAP | L; secure formal register, duplication cautioned | M; immediate Key-process response | M; power effect, full audit and independent private control absent |
 | Hare | L; linked Veritas operation | M for findings, defense map and phase coordination | L with club/colleagues/Sensei | M within Veritas technical role | GAP | M in secure turns | M; seized-tool operation | M; full plan and safety unverified |
 | Maki | L; linked technical appraisal and delivery | M for file inference, workaround, opening and Key deferral | L with club/colleagues/Akane | M within Veritas tool role | GAP | M in secure turns only | M; field trap and deadline | M; bypass method, Key identity and Himari report unverified |
@@ -534,7 +534,7 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | Chinatsu | L | M in procedure/risk contexts | M toward Sensei/Iori | H within narrow Prefect context | GAP | M with anomalies quarantined | H | M |
 | Iori | M for role/context variation | M within enforcement/correction contexts | M within Prefect/Sensei | H within narrow Prefect context | GAP | M with anomalies quarantined | H | M |
 | Ako | M for role correction | M for threat/custody rationale | M toward Hina/Sensei | H within Prefect mandate dispute | GAP | M with shift clusters quarantined | H | M |
-| Hina | M; treaty motive and private rest wish, no actual retirement | H within mandate/aid, M for perspective-trust reading | M toward Ako/Sensei and earlier others | H; Prefect command, ETO actor-described | GAP | M; weary/private disclosure, thought-response caution | H | H; retirement decision, treaty outcome and private baseline open |
+| Hina | M; mandate, coercion and aftermath states | H; prior aid, crisis transfer restricted | M; juniors/Sensei/Hoshino, rupture/repair | H; command, attempted resignation, continued work | GAP; private crisis disclosure only | M; apology/shame, attribution cautions | H; NK Ultra war/custody and recovery | H; causality, restitution, lasting repair/private breadth open |
 | Nagisa | M; suspect rationale, Hifumi apology and protective-fear testimony | M; visits/presses Mika, rejects torture | M; Hifumi and Mika under strain | M; host, claimed bypass and time-bounded Arius risk | L; no broad ordinary baseline | M; remorse, fear and direct questions | M; prison conflict, no medical exam | H; procedural accountability, treaty and private breadth open |
 | Black Suit (role actor) | M; knowledge/affiliation revealed | H within coercive bargaining | M toward Hoshino/Sensei/director | H within asserted Gematria role | GAP | H for formal coercive discourse | H | H |
 | Kaiser director (role actor) | M; offices revealed and loss reported | H within creditor/force domination | M toward committee/contractors/Black Suit | H | GAP | M | H | H |
@@ -786,7 +786,7 @@ No subject-specific side route was verified in this architecture pass. Earlier `
 | middle-school student B (E041 role actor) | L; school-future worry | L; rumor exchange | L; middle-school peers | L; location/role label | GAP | L; short exchange | L; closure anxiety | H; identity, date and later choice absent |
 | middle-school student A (E041 role actor) | L; school-future worry | L; rumor exchange | L; middle-school peers | L; location/role label | GAP | L; short exchange | L; closure anxiety | H; identity, date and later choice absent |
 
-The matrix measures evidence breadth within the present envelope, not readiness. `H` never means whole-person coverage. Opening tables in cumulative ledgers can represent older snapshots; use their V003 C001 deltas and canonical checkpoint reconciliation for current state.
+H/M/L retain each subject's last coverage assessment; readiness is separate. Later checkpoints/deltas govern state. Corrections: §464.
 
 ### 4.1 Knowledge, time, public/private, and humor controls
 
@@ -794,7 +794,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 
 | Subject | Knowledge/state clarity | Public/private and relationship breadth | Humor/play coverage | Diagnostic current routes |
 |---|---|---|---|---|
-| Sensei | Choice/inward distinction persists; role ethic and Niya support | Broader student ties, private biography absent | Festival/reward play situated | V005 C001 E015/E021-E026 |
+| Sensei | Separate acts, choices and replied-to inward text | Care across schools; no private persona | Situated play and optional meal | V005 C001 E015/E021-E026; S2 V002 C002 E020-E021; S2 V003 C001 E001; V001 C003 E043 |
 | Decartes | Names 所確幸 and says RABBIT consumed its meal supply; neither claim proves entitlement | Sensei/RABBIT only as adversaries; group relation asserted | Rhetorical contradiction is not a full comic or private profile | V004 C001 E010 `scene:001:u:0001-0090`; `scene:002:u:0001-0067` |
 | Yukino | Dream-public justice, coercive test, delayed SRT goal and E012 detachment and E013 blast objection/assent | FOX/RABBIT/Sensei and Kaya's delayed promise | `甘い悪夢` limits past; reciprocal squad transfer does not reopen school | V004 C001 E020; V004 C002 E001/E005/E010; E012 `scene:002:u:0009-0016`; E013 `scene:002:u:0035-0071` |
 | Niko | Civilian-harm objection coexists with FOX duty; prior inari provision reported | Yukino/FOX and direct RABBIT feeding | Homemade recipe does not directly identify old anonymous vendor | V004 C002 E001 `u:0030-0037;u:0103-0113`; E005 `u:0035-0061`; E006 `u:0026-0034` |
@@ -864,7 +864,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Utaha | Chair/indirect-fire tactic visible; lasting Karin outcome not shown | Engineering role and direct Karin confrontation; private GAP | Personifies `雷ちゃん` in technical crisis | V002 C1 E007/E012-E013 as routed; E014 scene 2 `u:0015-0042` |
 | Hibiki | Forecasted EMP opening; credited curved fire but exact shot unseen; E014 “all” limited to obstructing drones | Engineering team/alliance only | Gadget interest remains situated | V002 C1 E007/E012-E013 as routed; E014 scene 2 `u:0037-0039` as Utaha report; scene 5 outage interpretation; C2 E014 `u:0062-0063` |
 | Kotori | Contest-policy cause is hedged; ranked awards distinct from special prize; E014 rear clearance cue | Engineering team/Akane, ceremony; private GAP | Theatrical hosting plus earlier probability joke | V002 C1 E007/E012-E013 as routed; E020 scene 2 `u:0002-0004`, scene 3 broadcast; C2 E014 `u:0062` |
-| Yuuka | Eridu record trace remains incomplete; E022 orders power cutoff with effect unknown | Formal council/C&C/club/Sensei/Noa relations; childhood-play testimony | Exasperation and urgent coordination, not a tested rescue outcome | V002 C1 E002/E008-E009/E012-E015/E020; C2 E012 and E022 `u:0130` |
+| Yuuka | Cutoff supported; full safety/audit open | Council/club/Noa/Sensei | Exasperation/coordination | V002 C1 E002/E008-E009/E012-E015/E020; C2 E012/E022-E025, checkpoint §§2/4/8 |
 | Noa | Deleted-looking records reported, E022 executes Yuuka order; actual power result unshown | Yuuka/Sensei/club institutional task only | Formal support with brief playful response; no ordinary baseline | V002 C2 E012 `u:0003-0045`; E022 `u:0131-0132` |
 | Hare | Seamless objects defeat fault classification; exact maker/cause unknown; E014 tower location probable | Veritas/club work setting and route support; private GAP | Cautions Maki, warns on activation, gives precise route with location hedge | V002 C1 E012-E013 as routed; V002 C2 E006 scene 1 `u:0005-0015`, `u:0059-0065`, `u:0101`; E014 `u:0067-0069` |
 | Maki | Opened Bible by report; `<Key>` unreadable; robot count above five a report | Veritas/club/Akane task relations; private GAP | Excited history-making guess versus limited technical access; E014 cheer | V002 C1 E012-E013/E017 as routed; V002 C2 E006 scene 1 `u:0004-0018`, `u:0046-0076` with label cautions; E014 `u:0073` |
@@ -882,11 +882,11 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Kirara | Current leader question elicits uncertainty, not a verified roster | Gehenna peer Erika and C&C questioners only | Brief confused reply, no stable ordinary baseline | V002 C2 E004 scene 1 `u:0119`, `u:0122-0125` |
 | Erika | Ibuki guess is not verified current leadership | Gehenna peer Kirara and C&C questioners only | One brief uncertain reply | V002 C2 E004 scene 1 `u:0124` |
 | Wakamo | Cause of destabilization unknown | Acute Sensei encounter only | Insufficient ordinary control | P E002 |
-| Ayane | Repeated evidence grading; mandate changes distinguish role from personality | Committee/Sensei/outsider procedure; private thin | Frustrated straight-role responses, not broad play | C1 E008/E013/E020; C2 E006/E013/E017/E020 |
+| Ayane | Internal election/merger; recognition open | Personally implicated governance; private thin | Committee friction | C1 E008/E013/E020; C2 E006/E013/E017/E020; V001 C003 checkpoint §§1-3 |
 | Shiroko | Withdrawal-form secret local to her/Sensei; updated knowledge not global | Peers, Hoshino, Sensei; solo-risk under attachment | Extreme proposals amid terse practical talk | C2 E004/E005/E012/E013/E018 |
-| Nonomi | Historical witnessing distinct from inference | Public care and respect for privacy inside Abydos; outsiders thin | Familiar banter and soft teasing | C1 E015/E017; C2 E004/E016/E019 |
+| Nonomi | Family disclosure is not legal title | Highlander refusal/captivity; private breadth thin | Banter/laundry | C1 E015/E017; C2 E004/E016/E019; V001 C003 checkpoint §§1-2 |
 | Serika | Trust/reciprocity changes explicit; work baseline persists | Peers, adult outsider, customers/proprietor; private side sources absent | Irritation, embarrassment, recurrent proposal comedy | C1 E005-E007; C2 E003/E013/E019/E020 |
-| Hoshino | Young/current states distinct; Yume bridge and experiment aftermath open | Committee public persona, private Sensei/Black Suit pressure; history incomplete | Old-man performance and ordinary return | C2 E005/E011-E014/E019/E020 |
+| Hoshino | Yume/C002 refusal/C003 crisis and accepted office are distinct; grief persists | Committee/Hina/Sensei; provenance and future stability open | Persona, ordinary return and president joke | C2 E005/E011-E014/E019-E020; V001 C003 checkpoint §§1-3; E041 u:0116-0176; E042 u:0018-0029 |
 | Aru | Client/persona knowledge unequal; reparation does not erase false ratification | PS68, former enemies/client, proprietor/Sensei | Embarrassment, villain performance, fear under praise | C1 E017-E019; C2 E001/E003/E014-E018 |
 | Mutsuki | Aru-reading is interested interpretation | Aru-rich, other dyads thin; private motives open | Teasing/morale and persona pressure recur | C1 E018-E019; C2 E003/E017-E018 |
 | Kayoko | Tactical knowledge reliable within task; private aims unknown | Team/client risk; non-PS68 relations thin | Low-affect corrections, limited play | C1 E017; C2 E001/E014-E018 |
@@ -895,7 +895,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Chinatsu | Role competence and Sensei recognition; no broad state trajectory | Prefect colleagues and Sensei; private GAP | Insufficient ordinary control | P; C1 E020; C2 E001-E002/E017 |
 | Iori | Enforcement, correction, embarrassed boundary response distinct | Colleagues and Sensei; private GAP | One bodily gag cannot ground intimacy | C1 E020; C2 E001-E002/E017 |
 | Ako | Custody rationale, concealed mandate and discipline distinguished | Hina/Sensei/institution; ordinary/private GAP | Discipline context, not broad playful baseline | C2 E001-E002/E011/E017 |
-| Hina | Old Hoshino dossier stale; now knows some unprinted Sensei briefing and directly states treaty motive/countermodel | Command, diplomacy, Sena and Sensei contact; private life GAP | Weary retirement hope is one self-report, not accomplished retirement | V001 C2 E001-E002/E011/E017; V003 C002 E007 `scene:003:u:0007-0070` |
+| Hina | Mandate, NK Ultra and aftermath states differ | Juniors harmed; public apology, private disclosure, repair open | Rest wish differs from resignation attempt | V001 C2 E001-E002/E011/E017; V003 C2 E007; S2 V002 C2 E012-E021; V001 C003 checkpoint §§1-3 |
 | Nagisa | E025 self-reports halo intact, without full medical clearance | Mika letter and Seia conversation invitation; no completed repair | Inward roll-cake joke is not a prison order | V001 C2 E017; V003 C1 E002-E004/E009/E012; C002 E008-E009/E011/E015; C003 E002-E003/E025 `scene:001:u:0008-0027` |
 | Black Suit (role actor) | Actor testimony/rights claims not objective truth | Hoshino/Sensei/director bargaining; private GAP | No secure ordinary sample | C1 E012/E017; C2 E012-E016 |
 | Kaiser director (role actor) | Shared offices proved; firing/wanted is not arrest | Creditor/contractor/PMC coercion; private GAP | Taunts do not establish leisure baseline | C2 E010-E011/E014/E018-E020 |
@@ -1151,7 +1151,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 
 | Subject | Current readiness | Standalone model | Strongest currently supported use | Material blockers |
 |---|---|---|---|---|
-| Sensei | `PARTIAL_MODEL` | `NONE` | teacher support, inquiry and rescue of hostile Shuro | Injury, consent, attribution and private baseline limited |
+| Sensei | `PARTIAL_MODEL` | `NONE` | structural inquiry, shared support and accepted refusal | Preserve boundary failures, choice/speech conditions; V001 C003 E043 supports care, not ethical infallibility or a full private persona. |
 | Decartes | `UNMODELED` | `NONE` | situated non-possession rhetoric, hostage coercion and ownership objection | One conflict, no independent entitlement audit, private or ordinary baseline, and exact E008/E009 identity split unresolved. |
 | Yukino | `UNMODELED` | `NONE` | coercive protocol, accepted detachment and civilian-risk objection before blast-order assent | Legal authority, promised restoration, sustained choices and private baseline unverified. |
 | Niko | `UNMODELED` | `NONE` | civilian-harm objection, FOX compliance, food care and classified route disclosure | No independent refusal, vendor proof, private baseline or post-objection outcome. |
@@ -1239,11 +1239,11 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Kirara | `UNMODELED` | `NONE` | one uncertain response to Gehenna leadership inquiry | No independent knowledge check, broader decision path or ordinary/private baseline. |
 | Erika | `UNMODELED` | `NONE` | one tentative Ibuki answer during Gehenna leadership inquiry | One line and no verified knowledge, motive or broader relationship evidence. |
 | Wakamo | `UNMODELED` | `NONE` | first-contact destabilization and polite/destructive contrast only | Motive/ordinary baseline absent. Next: source-admitted contextual evidence; do not infer romance from intensity. |
-| Ayane | `PARTIAL_MODEL` | `NONE` | evidence-sensitive committee governance, emergency coordination, route authorship | Private/non-operator behavior thin. Next: ordinary dyad and personally implicated evidence-versus-loyalty conflict. |
+| Ayane | `PARTIAL_MODEL` | `NONE` | evidence-sensitive coordination and C003 internal governance | Personal involvement now observed; external recognition/title remain open. Needs ordinary non-operator contrast and durable governance. |
 | Shiroko | `PARTIAL_MODEL` | `NONE` | operational/evidentiary discipline conditioned by attachment and collective interruption of solo sacrifice | No always-disciplined rule. Next: mundane non-Abydos interaction and response to explicit peer inhibition under attachment pressure. |
-| Nonomi | `PARTIAL_MODEL` | `NONE` | group care, privacy/transparency balance, political perception and familiar teasing | Independent goals/private vulnerability/non-Abydos relations thin. Next: ordinary choice where own preference conflicts with group care. |
+| Nonomi | `PARTIAL_MODEL` | `NONE` | group care, family/corporate conflict and C003 Highlander refusal | Crisis preference/vulnerability now observed; independent ordinary/private breadth and corporate legal authority remain open. |
 | Serika | `PARTIAL_MODEL` | `NONE` | work/scarcity, boundary/reciprocity, community care and embarrassed welcome | General private/romantic domains unsupported. Next: additional low-stakes dyads and boundary repair beyond the familiar group. |
-| Hoshino | `PARTIAL_MODEL` | `NONE` | institutional ethics, historical burden, secret sacrifice, reciprocal return and role refusal | Persona cause, Yume link, experiment effects and durable repair unsettled. Next: post-return accountability and ordinary help-reception; no hindsight backfill. |
+| Hoshino | `PARTIAL_MODEL` | `NONE` | unilateral protection/relational return; C002 office refusal, C003 apology/acceptance | Yume history admitted; notebook/death provenance and stability open. Grief persists; exclude cure claims and backdated knowledge. |
 | Aru | `PARTIAL_MODEL` | `NONE` | client independence, public persona capture, costly repair and voluntary aid under fear | Reparation does not prove corrected false ratification or freedom from persona pressure. Next: explicit correction and non-crisis independent preference. |
 | Mutsuki | `PARTIAL_MODEL` | `NONE` | Aru-directed social framing, playful escalation and morale regulation | Independent/private motives and non-Aru relations thin. Next: unsolicited mundane preference and response to Aru refusing the supplied persona. |
 | Kayoko | `PARTIAL_MODEL` | `NONE` | risk decomposition, force assessment and practical coordination inside PS68 | Ordinary/private expressive range sparse. Next: low-stakes dyad and a decision outside tactical containment. |
@@ -1252,7 +1252,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | Chinatsu | `UNMODELED` | `NONE` | bounded procedure/civilian-risk and Sensei-recognition observations | Professional contexts still narrow, attribution anomalies. Next: secure repeated decision paths and an ordinary/private control. |
 | Iori | `UNMODELED` | `NONE` | enforcement, supervision and one embarrassed boundary response | No general intimacy or baseline from E017. Next: secure ordinary/role-contrast evidence and clean voice attribution. |
 | Ako | `PARTIAL_MODEL` | `NONE` | security/information appraisal leading to unauthorized custody and Hina-conditioned correction | Narrow mandate conflict, disputed line assignments, no private control. Next: clean command-condition contrast and ordinary preference. |
-| Hina | `PARTIAL_MODEL` | `NONE` | mandate correction, recipient-bounded aid, treaty countermodel and self-reported peace-order motive | ETO charter, Makoto's actual position, collective-abuse risk and private baseline unknown; retirement is prospective. |
+| Hina | `PARTIAL_MODEL` | `NONE` | mandate/aid, NK Ultra rupture, apology and self-reproach in named states | No state-free protector rule. Felt pleasure is self-report, not timeless cruelty; coercion causality, discipline, restitution and lasting repair remain open. |
 | Nagisa | `UNMODELED` | `NONE` | suspect matrix, apology and direct fear-for-Mika testimony | Motive does not settle medical state, notice authorship, procedural accountability or private breadth. |
 | Black Suit (role actor) | `PARTIAL_MODEL` | `NONE` | coercive bargaining, formal politeness and research/ownership framing | Actor testimony, affiliation and knowledge must remain bounded. Next: independent bargaining contrast; no invented private life. |
 | Kaiser director (role actor) | `PARTIAL_MODEL` | `NONE` | creditor/force leverage, proxy control and morale-breaking | Executive-role evidence is not whole-person psychology. Next: independently constrained decision/response to lost leverage. |
@@ -1504,7 +1504,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | middle-school student B (E041 role actor) | `UNMODELED` | `NONE` | worries about future and recalls high school option | Narrow rumor sample; identity, chronology and independent range absent. |
 | middle-school student A (E041 role actor) | `UNMODELED` | `NONE` | reports school closure/council dissolution and doubts heiress presence | Narrow rumor sample; identity, chronology and independent range absent. |
 
-The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Momoi, Midori, Alice, Yuzu and Yuuka—to distributed `PARTIAL_MODEL`. C002 E001 added Rio/Himari, E004 Sumire/Kirara/Erika, E009 Toki, E012 Noa, E016 Eimi/Chihiro and E022 Key as `UNMODELED`, yielding **twenty-one partial / twenty-six unmodeled** across 47 tracked subjects. Key is a provisional speaking entity separate from Alice, not an ontology judgment. These are not runnable models: independent ordinary/private contexts, future responses and several origin/institutional facts remain missing. All literary monographs and standalone reconstruction models are `NONE`; no schema-filled prototype is implied. No row is `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED`. Aru and Serika retain future pilot interest from Volume 1, but no pilot is instantiated.
+**Historical V002 C001/C002 census and promotion basis:** The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Momoi, Midori, Alice, Yuzu and Yuuka—to distributed `PARTIAL_MODEL`. C002 E001 added Rio/Himari, E004 Sumire/Kirara/Erika, E009 Toki, E012 Noa, E016 Eimi/Chihiro and E022 Key as `UNMODELED`, yielding **twenty-one partial / twenty-six unmodeled** across 47 tracked subjects. Key is a provisional speaking entity separate from Alice, not an ontology judgment. These are not runnable models: independent ordinary/private contexts, future responses and several origin/institutional facts remain missing. All literary monographs and standalone reconstruction models are `NONE`; no schema-filled prototype is implied. No row is `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED`. Current census: **21 partial / 331 unmodeled / 352 total**, models `NONE`; current audit: §464.
 
 ### 5.1 Domain-specific readiness
 
@@ -1613,7 +1613,7 @@ The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Mo
 | Chinatsu | U | U | U | U | U |
 | Iori | U | U | U | U | U |
 | Ako | P (mandate conflict) | U | U | P (custody/correction) | P (secure formal samples only) |
-| Hina | P (mandate/aid/treaty stance) | U | U | P (official correction/support) | P (secure official/warning samples) |
+| Hina | P (named mandate/aid and coercion/aftermath states only) | U | U | P (prior aid, rupture and repair; no state-free transfer) | P (secure official/apology samples) |
 | Nagisa | U | U | U | U | U |
 | Black Suit (role actor) | P (bargaining) | U | U | P (coercion) | P (formal coercion) |
 | Kaiser director (role actor) | P (creditor/command) | U | U | P (leverage/threat) | P (administrative threat) |
@@ -1869,6 +1869,8 @@ For **all 352 currently tracked subjects**, romance/dating, crossover, and gener
 
 ## 6. Evidence concentration and sampling bias
 
+Current ordinary controls are broader (audit §23 via §464). §§6.1–6.3 preserve the C002 sampling assessment; private breadth remains uneven.
+
 ### 6.1 Crisis- and institution-heavy subjects
 
 - Ayane, Shiroko, Hoshino, Sensei, Kayoko, Chinatsu, Iori, and Ako are disproportionately observed under institutional, investigative, command, or armed-pressure conditions.
@@ -1894,6 +1896,8 @@ For **all 352 currently tracked subjects**, romance/dating, crossover, and gener
 
 ## 7. Candidate-specific next evidence needs
 
+Historical questions; current pilot/gap decisions: audit §§24–27 via §464.
+
 | Candidate | Next evidence needed before a standalone model | Most discriminating future validation target |
 |---|---|---|
 | Ayane | low-stakes/private interaction, non-operator role, response when evidence and institutional loyalty conflict | whether procedural/evidentiary caution persists when she is personally implicated rather than acting as committee operator |
@@ -1910,7 +1914,7 @@ For a current character question:
 
 ```text
 coverage index
-  -> latest applicable checkpoint (currently MAIN_V002_C001)
+  -> subject-applicable chapter checkpoints through MAIN_S2_V003_C001 plus completed MAIN_V001_C003 backfill
   -> character / relationship / institution / Sensei / voice ledger
   -> applicable unit deep reading
   -> stable story / scene / utterance / choice ID
@@ -1937,6 +1941,8 @@ The second route is not yet instantiated by any Blue Archive model.
 Update this index after a checkpoint, admitted contextual-backfill tranche, model creation, or validation event materially changes evidence availability or readiness; a new unit introducing analytically tracked subjects can also receive a provisional coverage update. A new appearance alone does not require promotion. Preserve negative results and record `NO MATERIAL READINESS CHANGE` when a reviewed tranche adds no discriminating coverage.
 
 ## 10. C002 reconciliation and evidence routing
+
+Frontier/DEFER language below is historical; current boundary/readiness: §§2/5/464. Unit history is retained.
 
 This in-place revision retains the original 17 subjects and adds Hina, Nagisa and three role actors because their completed C002 mechanisms have independent analytical value. It does not add every raw person. Ako moves from unmodeled observation to a narrowly partial mandate-conflict account; Hina and the three role actors enter partial, Nagisa enters unmodeled. Aru's repair and Hoshino's return strengthen some contexts while Shiroko's repeated solo-risk and Sensei's boundary failures narrow attractive generalizations. No subject’s recorded readiness label decreases in this revision; the partial mechanisms are narrowed where counterevidence demands it.
 
@@ -4735,3 +4741,7 @@ Routing: [V001 C003 E042 reading](../02%20Sequential%20Readings/MAIN/VOLUME_001_
 Serika works a busy Shiba Seki shift, while a citizen reports theft, a Helmet Gang speaker flees and local Shiroko/Sensei pursue; capture and property return are unprinted (scene:001:u:0001-0032). Counterpart Shiroko reports staying in vacant Abydos houses, selling scrap and doing watch work; Sensei accepts her ramen refusal and avoids forcing her trauma account (u:0033-0048). Her incomplete-reversal explanation and one-Shiroko-per-world distortion claim remain unverified, and Kuzunoha's counsel is recalled rather than a present encounter (u:0049-0064). Sensei gives her a smartphone and asks for future contact; she accepts, then later joins a Committee action against Binah, with battle result unshown (u:0065-0113). Add two narrow incident role actors: **21 PARTIAL_MODEL / 331 UNMODELED across 352**, coverage **480 / 480**. No standalone model, durable claim ID, frozen analytical prediction, held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission. V001 C003 chapter checkpoint and full-snapshot audit next.
 
 Routing: [V001 C003 E043 reading](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_E043_DEEP_READING.md) -> BA:main:001:003:043, one scene/raw group 13430, 113 numbered units and 14 Sensei choice markers. Coverage 480 / 480.
+
+## 464. Readiness refresh — 2026-09-28
+
+[Current audit §§21–28](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md): 480/480; 21 partial/331 unmodeled. State limits revised; no promotion or side-source admission. History retained.
