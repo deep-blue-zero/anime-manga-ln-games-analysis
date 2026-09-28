@@ -4,7 +4,7 @@ artifact_id: MT_CHRONOLOGY_AND_KNOWLEDGE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Mushoku Tensei"
 generation: "V1"
-version: "1.6"
+version: "1.15"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-25"
 adoption_basis_commit: "a2a1ab9a5ecd0512a5ac460c1b79655af1bca0bd"
-source_boundary: "Japanese LN V01–V06 only; prior history preserved, V06 candidate updates; publication/audit separate."
+source_boundary: "Japanese LN V01–V15 only; prior history preserved, V15 updates; publication/audit separate."
 ---
 
 # Chronology and knowledge ledger
@@ -212,3 +212,336 @@ Prior V01–V05 bodies remain historical and unchanged. Current source boundary 
 | `MT-K-063` Lilia history | Reader gains resistance, aftermath, paternal alternative and maternal self-questioning; present family does not receive this full narration. | `030–031`; affection and confidence in plan are different propositions. |
 
 Neither the source's ending order nor reader access transfers knowledge to a character. New testimony revises current interpretation without altering the V01–V05 freezes.
+
+
+## V07 updates — 2026-09-26 UTC
+
+Prior V01–V06 bodies remain historical and unchanged. The current source boundary is Japanese LN V01–V07. The entering freeze used audited V06 head `0e72e531278055c0dbb7a6054285337a1cc37a93`; later repository reconciliation does not change that analytical input. Observation suffixes resolve in [V07](../02%20Sequential%20Readings/MT_V07_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V07-`. The [recognition checkpoint](../05%20Checkpoint%20Syntheses/MT_V07_RECOGNITION_CHECKPOINT.md) owns the focused comparison. Publication and exact-head audit are separate from content acceptance.
+
+| Chronology | Anchored sequence | Observation / limit |
+| --- | --- | --- |
+| `MT-T-038` | Caravan arrival and initial work → grizzly crisis → routines summarized over about three months. | `001–007`; source intervals, no forced absolute calendar. |
+| `MT-T-039` | Ruins job/misunderstanding → winter around six months in town → failed expedition, Mimir death and overnight Sara rescue. | `008–017`; simultaneous party preparations disclosed after Rudy returns. |
+| `MT-T-040` | Around a year in Rosenburg, shopping and failed intimacy → nighttime drinking/professional help, next morning's missed job, dawn collision and departure. | `018–025`; late Sara section revisits this same sequence. |
+| `MT-T-041` | Epilogue compresses more than a year of changing towns at two-to-three-month intervals; Elinalise hears of his reported location. | `026–027`; Rudy sheet labels fifteen, Sara's late account sixteen; do not backdate sheet ages to every earlier scene. |
+| `MT-T-042` | Extra begins with third-year Ariel, revisits flight and second-year election strategy, then returns to present recruitment plans. | `028–030`; next-year first dispatch proposed, not accomplished; no exact synchronization with every main-story scene. |
+
+| Knowledge | Holder / proposition change | Observation / limit |
+| --- | --- | --- |
+| `MT-K-064` Dead End / purpose | Rudy does not correct the assumption that his party was annihilated; tells a substantially real mother-search purpose. | `001–002`; partial truth and withheld relational history coexist. |
+| `MT-K-065` Sara category | Sara recognizes contrary evidence about Rudy yet initially refuses its implication; later compares different smiles. | `006,012`; not simply absence of information, no universal class-belief reversal. |
+| `MT-K-066` Ruins | Rudy's architectural reconstruction is inference, Timothy supplies reported history, Mimir supplies unavailable exorcism expertise. | `008`; do not certify complete historical reconstruction. |
+| `MT-K-067` Two entrances | Parties assume separate routes/jobs; confrontation produces corrected account of their connection. | `010`; misunderstanding resolved, unequal customary share is a separate matter. |
+| `MT-K-068` Search evidence | Rudy confirms Mimir's remains; Sara earring prompts false death inference, living captive corrects it. | `014–016`; her survival labor is disclosed separately; physical evidence has differing force. |
+| `MT-K-069` Family affiliation | Rudy reassures Sara that his remembered noble relatives are unconnected to her village loss, while internally considering possible Boreas involvement and his Notos family connection. | `018`; relief-giving speech contains known contrary evidence; actual political obstruction remains conjecture. |
+| `MT-K-070` Bodily difficulty | Rudy newly interprets earlier signs; Sara initially lacks the relevant explanation; Elise proposes fear/trust mechanism. | `020,022,025`; observed difficulty, self-interpretation and professional opinion are different certainty levels. |
+| `MT-K-071` Affection / rejection | Sara's later focalization establishes love and intended confession; Rudy believes her defensive debt-only claim and reaffirms presumed Eris rejection. | `020,025`; reader correction does not reach him. |
+| `MT-K-072` Confidants | Soldat hears Rudy's account but lacks Eris's intention; Suzanne asks before involving Timothy; Elise later discloses sensitive information. | `021–025`; partial but useful advice, distinct permission and privacy structures. |
+| `MT-K-073` Collision / repair | Sara hears real insult, imagines a night of shared mockery that did not occur, then learns bodily explanation too late for planned conversation. | `023–025`; factual correction does not retract actual harm or automatically produce reconciliation. |
+| `MT-K-074` Search message | Elinalise hears group-dragon rumor and reported-location lead while carrying the mother's-location message. | `027`; hearsay not new witnessed combat; no receipt by Rudy, rescue or verified present condition. |
+| `MT-K-075` Public school account | Ariel's insults are audible to beast girls but not human bystanders; attendants distribute a selective account of the resulting attack. | `028–029`; audience ignorance is deliberately produced; competence and reputational narrative are separate. |
+| `MT-K-076` Recruitment | Third-year group discusses Zanoba, Cliff, Galfarion and Rudy; Fitts responds with conspicuous recognition. | `030`; neither identity resolution nor invitation delivery established here. |
+
+The late source explicitly corrects some motives and leaves others attributed. Narration's future-oriented comments about lingering adventurers are bounded statements about that represented group, not a universal causal law or new current knowledge for the protagonists.
+
+
+## V08 updates — 2026-09-26 UTC
+
+Prior V01–V07 bodies remain historical and unchanged. Current source boundary: Japanese LN V01–V08. Immutable entering input was final audited V07 `523625ec4a57b95dec7d5acbb217bae5cc7ba5d3`. Numeric observation suffixes resolve in [V08](../02%20Sequential%20Readings/MT_V08_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V08-`. The [consent and institutional-power checkpoint](../05%20Checkpoint%20Syntheses/MT_V08_CONSENT_AND_INSTITUTION_CHECKPOINT.md) owns the targeted comparison. Content acceptance, publication/audit and integration to main remain separate states.
+
+| Chronology | Anchored order | Observation and limit |
+| --- | --- | --- |
+| `MT-T-043` | Official opening year422/five years after displacement; northern dragon trip occupies seven days before message arrival. | `001–003`; bard framing mediates account, no literal one-day expedition. |
+| `MT-T-044` | Winter delay, invitation/inquiry/refusal, dream advice and farewell → spring journey/enrollment; Rudy explicitly fifteen. | `003–007`; spring423 plausible inference, not explicit date imposed on every scene. |
+| `MT-T-045` | Enrollment and library/dormitory events → school routine → failed craft teaching → market purchase. | `008–016`; interludes interrupt sequence with recollection. |
+| `MT-T-046` | Juli learns for about a month; broken figure revealed → defeat, roughly day-long confinement and release → epilogue routine. | `016–028`; epilogue says three months since enrollment, earlier intervals do not cleanly sum; preserve tension. |
+| `MT-T-047` | Sylphiette's second interlude revisits current school relations; meal extra returns to routine, westbound epilogue thread unresolved. | `026–030`; exact synchronization not forced, no narrated arrival. |
+
+| Knowledge | Holder and change | Observation and limit |
+| --- | --- | --- |
+| `MT-K-077` Official closure | Eris reported dead and funding ended; analyst's admitted V06 evidence contradicts death. | `001`; institutional record not ontological closure. |
+| `MT-K-078` Search delivery | Rudy actually receives Elinalise's Zenith-location report and her reassurance. | `002–003`; location, condition and rescue remain different claims. |
+| `MT-K-079` Choice advice | Invitation explained; initial refusal changes after Hitogami promises cure route and threatens regret. | `004–005`; adviser purpose/outcome unverified. |
+| `MT-K-080` Curse | Elinalise reports necessity and enjoyment; illness represented; Rudy guesses crystal mechanism. | `005`; partial bodily evidence not complete causal theory. |
+| `MT-K-081` School knowledge | Rudy misreads Fitts, learns rules/status/kinship and receives books; political explanation of Zanoba partly inferred. | `006–009`; Cliff's Eris report and Silent stories remain attributed. |
+| `MT-K-082` Identity roles | Sylphiette appears alongside named Fitts; hair/glasses clues and permission to use Fitts suggest role/disguise. | `010,026`; no explicit mechanism or comprehensive attribution; maintain uncertainty. |
+| `MT-K-083` Sylphiette history | Own account credits multiple teachers, service relationships and reported parental deaths. | `010–011`; history/recollection not all newly occurring change. |
+| `MT-K-084` Craft assumptions | Rudy learns mana/precision limits; consultation changes goal structure; Zanoba's prior idea was inhibited. | `013`; group diagnosis not proof slavery necessary. |
+| `MT-K-085` Juli | Parents both sold, seller's blame unverified; child learning partly confirms possibility; greater language skill than expected. | `014–016`; no parental life/death verdict or universal age law. |
+| `MT-K-086` Disciple concealment | Zanoba's viewpoint reveals fear of reporting failure and distinction from Roxy fixation. | `018`; source interior access does not supply Rudy this whole account. |
+| `MT-K-087` Available objection | Elinalise challenges retaliation; Rudy later recognizes crime and imagines Ruijerd's criticism. | `019,022`; ethical reasons available without governing choice. |
+| `MT-K-088` Captive information | Rudy minimizes assault in explanation; washable marks represented as permanent; frightened denial prevents complaint. | `021–025`; controllers' knowledge differs from targets/public. |
+| `MT-K-089` Undisclosed name | Sylphiette has not named herself; Ariel/Luke assumed she had; jealousy is her interpretation. | `026–027`; Rudy not shown knowingly rejecting a declared identity. |
+| `MT-K-090` Child fear | Rudy sees fear but initially counts only direct hitting; remembered threats/captivity supply wider context. | `028,030`; confidence/compliance remain partly inferred without Juli POV. |
+| `MT-K-091` Open identities/causes | Watchers and six-armed traveler described without full named resolution; cure/displacement remain unresolved. | `029`; plausible earlier-person links are inference, no future meeting admitted. |
+
+
+## V09 updates — 2026-09-26 UTC
+
+Prior V01–V08 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V09; immutable input final audited V08 `210894fd2b5894b7e499bab80251e8f5ea761138`. Observation suffixes resolve in [V09](../02%20Sequential%20Readings/MT_V09_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V09-`. The [disclosure and recovery checkpoint](../05%20Checkpoint%20Syntheses/MT_V09_DISCLOSURE_AND_RECOVERY_CHECKPOINT.md) owns targeted cross-domain review. Newly disclosed past states are not newly occurring changes. Acceptance, publication/audit and main integration remain separate.
+
+| Chronology | Order / anchor | Limit and observations |
+| --- | --- | --- |
+| `MT-T-048` | Cliff's pre-Rudy school retrospect → rescue/mediation → seasonal challengers and Badigadi duel. |001–009; opening backstory is not all newly occurring. |
+| `MT-T-049` | One month after duel settlement → mask encounter/research agreement → routine nearly a year into school; Rudy explicitly16. |009–016; relative anchors do not erase V08 interval tension. |
+| `MT-T-050` | Cliff reports six months' fruitless research → Soldat visit/false Fitts → partial response → plan/reunion → closing morning. |018–029; short response and later reported recovery distinct. |
+| `MT-T-051` | Late Sylphiette0 returns to recruitment/entrance/library/dorm, then rejoins closing morning. |030–032; disclosure permission predates Rudy's enrollment. |
+| `MT-T-052` | Extra frame Eris17/Nina18/Jino14; approximately two-year arrival flashback, then Nina's school trip overlaps duel. |033–035; not every extra scene simultaneous with main ending; later rivalry only prolepsis. |
+
+| Knowledge | Holder and change | Observation / provenance limit |
+| --- | --- | --- |
+| `MT-K-092` Cliff appraisal | Cliff accepts Rudy's ability while retaining dislike; narrator corrects his earlier Zanoba analogy. |001; diligence and accurate liking are different. |
+| `MT-K-093` Mediation | Fitts challenges Rudy's authority to decide, Elinalise discloses reason, Cliff accepts condition. |004–005; imagined child mistreatment explicitly corrected, cure promise not cure. |
+| `MT-K-094` Identity | Sylphiette identifies herself as Fitts; Ariel separately performs Fitts in town. |006/019/021; current source resolution, no rewriting earlier boundary or every appearance. |
+| `MT-K-095` Duel conditions | Rudy/opponent know preparation and no-evasion condition; spectators lack full terms. |008/035; public superiority inference too broad, Badigadi breaks conditional counterblow promise. |
+| `MT-K-096` Mask/origin | Fear precedes explanation; Japanese and remembered face establish special connection. |010–011; Orsted absent now, not eliminated threat; reincarnation and transfer distinct. |
+| `MT-K-097` Nanahoshi testimony | Reports circles, Orsted travel, no mana/aging and unnamed specialist; Rudy withholds accident context. |011–012; no identified expert or independent circle visit. |
+| `MT-K-098` Causal allegation | Tentative disaster association heard without Japanese context; explanation supplies involuntary-transfer claim. |013; causation, intention and culpability distinct; mechanism unknown. |
+| `MT-K-099` Research bargain | Initial broad information promise becomes restricted answers and nontechnical book; early trials fail. |016; safety not independently established, future inheritance only promise. |
+| `MT-K-100` Curse lead | Rudy labels Hitogami-derived claims uncertain; Cliff sees research utility. |018; no validated curse mechanism or cure. |
+| `MT-K-101` Privacy/health | Rudy infers Fitts's gender/body and protects secret after attempted teacher coercion; response ends. |017/019; teacher preserves privacy, inference and complete health change separate. |
+| `MT-K-102` Political misreading | Rudy reads visits as surveillance; external account supplies friends' relationship aim. |020–021/027; no intentional hostility established by suspicion. |
+| `MT-K-103` Earlier permission | Ariel had authorized disclosure before enrollment; Sylphiette's fears/false wife assumption inhibit it. |022/030; revised past explanation, not new permission at romance crisis. |
+| `MT-K-104` Staging and recognition | Rudy lacks rain/quest plan, recognizes friend through cumulative cues, later hears and accepts explanation. |023–026; later assent not prior information. |
+| `MT-K-105` Advice and substance | Luke's empathy coexists with false body explanation; risk advice reaches Sylphiette but is incompletely relayed. |027–029; open offer not covert dosing, willingness not full information/capacity proof. |
+| `MT-K-106` Morning accounts | Rudy reports recovery and inadequate care; Sylphiette reports pain, happiness and useful support but uncertain equality. |029/032; distinct dimensions, no long-term clinical/ethical certification. |
+| `MT-K-107` Earlier rescue | Sylphiette retrospectively confirms accidental garment fall, initial expectation of competence and later intervention. |031; deliberate resilience-test description unwarranted. |
+| `MT-K-108` Eris/Nina | Eris's Rudy ideal persists; Nina misreads students and duel conditions but changes practice. |033–035; Eris not shown knowing his rejection story; future rivalry not achieved now. |
+
+
+## V10 updates — 2026-09-26 UTC
+
+Prior V01–V09 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V10; immutable input audited V09 `40018b5caedfba456da199ed2fea613ec991015a`. Observation suffixes resolve in [V10](../02%20Sequential%20Readings/MT_V10_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V10-`. The [V01–V10 checkpoint](../05%20Checkpoint%20Syntheses/MT_V01_V10_CHECKPOINT.md) owns cumulative review. Revealed earlier events, present changes and explicit prolepsis retain different times. Draft acceptance, publication/audit and main integration remain separate.
+
+| Chronology | Order / anchor | V10 observation and limit |
+| --- | --- | --- |
+| `MT-T-053` | Recovery resolve → Ariel audience/marriage declaration → house investigation/renovation; Rudy states sixteen second-life years; roughly three weeks to household discussion. |001–008; age/history distinct, surprise framing does not replace event order. |
+| `MT-T-054` | Reception/kinship/duel → two months married and new school year, Rudy second year; Juli roughly one year since purchase. |011–016; explicit relative markers, no forced reconciliation of all earlier school intervals. |
+| `MT-T-055` | Letter received → a month later major experiment → roughly week of care → redesign and later successful test. |017–021; no precise calendar constructed by adding every summary. |
+| `MT-T-056` | Celebration → sisters arrive that night, about a month after letter and earlier than forecast → next-day escort departure. |022–026; actual arrival overrides expectation, not retroactive certainty at sending. |
+| `MT-T-057` | Extra returns roughly one year before Rudy receives letter, to East Port delegation/escort origin. |030–034; sisters nine at letter sending, anticipated ten; Rudy fifteen at sending and predicted16/17 at receipt are Paul's time-relative claims, not uniform present ages. |
+| `MT-T-058` | Eris interlude: half-year solitary routine and three-year separation references; narrator announces North Saint recognition one year later. |027–029; future fact explicitly narrated in V10, separate from main present and character knowledge. |
+| `MT-T-059` | Edition paratext: electronic2016-03-25, print-basis2016-03-31; OPF literal2016-03-25T04:00:00+00:00. |Reading A/C, colophon spine27p5–9; publication timing is not story chronology or independent WN admission. |
+
+| Knowledge | Holder and change | V10 observation / provenance limit |
+| --- | --- | --- |
+| `MT-K-109` Marriage/service | Rudy declares marriage, Sylphie accepts while retaining Ariel service; patronage replaces formal subordination. |002; no automatic agreement to later protective plans. |
+| `MT-K-110` House/response | Rudy consults friends but avoids future wife, imagines anger; external sentence gives anticipation, she later reveals already knowing surprise. |003/007; his imagined response not her actual state. |
+| `MT-K-111` Automaton | Team reclassifies attacker after actual spell/attack results; workshop supports layered mechanism inquiry. Former-owner account remains hypothesis. |004–006; later quiet establishes operational result, not all reconstructed history. |
+| `MT-K-112` Performed narration | Renovation account with apparently external ascriptions is revealed as Rudy performance. |007; do not elevate that segment's every thought attribution to independent omniscience. |
+| `MT-K-113` Known boundaries/harm | Sylphie states public-touch limit, Rudy apologizes then repeats; his first-night reappraisal expressly acknowledges serious harm. |007–010/015/018; knowledge available without consistently governing action; V09 freeze unchanged. |
+| `MT-K-114` Former world | Sylphie asks about earlier world; Nanahoshi supplies false explanation, Rudy avoids full clarification. |011; no informed spouse knowledge inferred from the question or later affection. |
+| `MT-K-115` Kinship/history | Sylphie recognizes grandmother from family testimony; Elinalise later reports stigma, raising/withdrawal history. |012; private exchange unheard, self-blame not deserved persecution. |
+| `MT-K-116` Duel/protection | Safety terms disclosed but purpose initially withheld; Ariel/Luke care interpretation displaces Rudy's rivalry assumption. Ariel prevention plan discussed without Sylphie. |013; later explanation not prior shared purpose, Rudy counterplan remains private. |
+| `MT-K-117` Cliff appraisal/theory | Rudy expects rejection after kinship disclosure; Cliff instead renews care/research, proposes curse/item analogy. |014; imagined rejection false as observed outcome, theory not cure. |
+| `MT-K-118` Reciprocal learning | Partial disruption learning and Rudy healing failure observed; explanation through missing recipient sensation is his hypothesis. |016; no established universal reincarnation limit or complete mastery. |
+| `MT-K-119` Family letter | Rudy learns planned sister transfer, risk reasoning and rescue prospects; shares letter/asks Sylphie household agreement. |017–018; unlocated escort initially guessed, Zenith not rescued by receiving news. |
+| `MT-K-120` Failure/safety | Nanahoshi safety theory given, Rudy cannot assess; actual experiment fails, she initially concludes return impossible. |019; failure, safety-trigger explanation and universal impossibility have different warrant. |
+| `MT-K-121` Care/interpretation | Rudy guesses resilience/solitude needs; friends supply different practical observations; Zanoba admits not fully understanding. |020; no professional diagnosis or universal care prescription. |
+| `MT-K-122` Design revision/result | Known gap disclosed; several contributors produce layered circle; PET bottle appears. |021; successful material test not human transfer, catastrophe solution or all safety proven. |
+| `MT-K-123` Celebration | Intoxicated Sylphie speech interpreted by Rudy; Nanahoshi complaint interrupted and intended thanks guessed. |022; alcohol not truth guarantee or established mental-health remedy; complaint not completed resolution. |
+| `MT-K-124` Eris explanation | Ruijerd tentatively proposes misunderstanding; Rudy now imagines intended training but lacks confirmation. |023; reader already knew more, possibility not received actual Eris message. |
+| `MT-K-125` Arrival/capacity | Rudy learns Aisha overnight planning after initially reading laziness; girls exhausted, Ruijerd contribution causal. |024; cleverness not complete self-care; Roxy fear here reported, direct access follows extra. |
+| `MT-K-126` Old tension | Ruijerd discomfort and Badigadi encounter prompt detailed Rudy conjecture; direct facts remain sparse. |025; no invented revenge/atrocity history or definite Eris cause. |
+| `MT-K-127` Norn trust | Ruijerd says she heard/understood Rudy hardships, yet she states distrust; extra supplies feared loss of father and learned alcohol fear. |026/030–032; no violence by Paul against Norn claimed; child/father exception remains her appraisal. |
+| `MT-K-128` Roxy correction | Previously heard escort information initially fails to guide feared-identity appraisal; Lilia connection enables recognized mistake. |033–034; fear persists after factual correction, duty acts despite it. |
+| `MT-K-129` Historical access/prolepsis | Ruijerd reflects on son with explicitly unknown method; Paul weighs reports and Norn visible reliance; Gal explains curriculum and narrator supplies future certification. |029/032/034; conjecture, direct interiority, testimony and narrated future kept distinct; none automatically Rudy knowledge. |
+
+Preserve earlier interval tensions and the distinction between physical age, remembered biography, social treatment and demonstrated judgment. No later witness is needed to record V10's own explicit prolepsis. Its future time does not make the announced result a current capability.
+
+
+## V11 updates — 2026-09-27 UTC
+
+Prior V01–V10 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V11; immutable input audited V10 `4823e7f9cecff45d86f3045304b5825c79bcb628`. Observation suffixes resolve in [V11](../02%20Sequential%20Readings/MT_V11_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V11-`. The [V11 checkpoint](../05%20Checkpoint%20Syntheses/MT_V11_KNOWLEDGE_AND_DUTY_CHECKPOINT.md) owns targeted knowledge/duty review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Chronology | Anchor / order | Evidence and limit |
+| --- | --- | --- |
+| `MT-T-060` | Sisters settle → exam/dorm arrangements → roughly monthly school and household developments. |001–012; daily teaching follows withdrawal repair, not cause assumed in advance. |
+| `MT-T-061` | Doll research interlude begins roughly a week before V10 Nanahoshi crisis, then returns to Ginger's present arrival. |005; disclosure time differs from discovery time. |
+| `MT-T-062` | Pregnancy reported → two further months → six-month-old express appeal → several days' deliberation/preparation. |014–020; no exact calendar or current rescue condition from letter age. |
+| `MT-T-063` | Five-day forest route → teleport/return test → explicit desert day progression → caravan → later Rapan arrival. |022–031; route estimates revised, source component/total arithmetic retained as uncertain estimates. |
+| `MT-T-064` | Extra begins one month after Rudeus departs; recurring church visits lead to Cliff conversation. |032–034; no forced synchronization of every extra day with travel scenes. |
+| `MT-T-065` | Electronic2016-05-25; first-print basis2016-05-31; OPF2016-05-25T04:00:00+00:00. |035; publication dates distinct from story chronology. |
+
+| Knowledge | Holder / change | Observation / provenance ceiling |
+| --- | --- | --- |
+| `MT-K-130` Sisters' needs | R hears Aisha's wish and Norn's school/dorm preference; teacher still assumes giftedness. |001/003; neither child's apparent ease establishes internal comfort. |
+| `MT-K-131` Rank history | Aisha reports Lilia/grandmother teaching inferiority; Norn later supplies her own grandmother experience. |003/009; different memories/interiors, no all-purpose adult motive. |
+| `MT-K-132` Research chronology | Reader learns earlier layered-joint discovery and present educational request. |005; discovered joints not full functional knowledge. |
+| `MT-K-133` Collection | First coercion report → denied order and recognized power risk → later narrated investigation narrows severity. |006; include correction, no direct recipient interiority. |
+| `MT-K-134` Norn rumor | Norn believes R ordered collection; reader has evidence of denied actual order. |006/009; false belief still affects her fear, not fact about command. |
+| `MT-K-135` Withdrawal | R projects bullying, testimony identifies comparisons/missing basics; Norn's first person reveals other causes. |007–009; private history no universal analogy. |
+| `MT-K-136` Recognition | Norn already reappraised Paul quarrel before R arrives; comfort changes trust, R lacks full explanation. |009–010; reader knowledge not automatically shared. |
+| `MT-K-137` Authorship/effort | R sees chosen Norn contribution and Aisha's previously obscured effort/wants. |011–012; talent/complete autonomy unverified. |
+| `MT-K-138` Research result | Nana states stages/material limits; Cliff prototype extends interval reportedly. |013; no human return, universal spirit science or cure. |
+| `MT-K-139` Pregnancy/commitment | Doctor's probable pregnancy report and family response; fidelity declared. |014; later parenting/durability absent; advice not medical fact. |
+| `MT-K-140` Delayed warning | Geese summons; Hitogami warns without reason; R speculates address implies contact with Paul. |015–017; current rescue state and warning outcome unknown. |
+| `MT-K-141` Map correction | Nana discloses retained records after earlier claiming no memory, explains secrecy and bounded release. |019; prior account incomplete, freeze preserved; own motives stated not uniquely proven. |
+| `MT-K-142` Available route | Incomplete remembered map reduces anticipated separation, changing Lise's decision; Sylphie hears specific risk. |019–020; estimate not promise of arrival/return. |
+| `MT-K-143` Ginger counsel | Z reports repeated corrections, Juli corroborates, Gin again corrects royal joke. |021; revises R's earlier fear of inability to advise, not injury or safe dissent under identical trigger. |
+| `MT-K-144` Transit | Actual crossing and volunteered return test verify this pair; device, crest and gear ownership conjectural. |022; no universal teleport safety/physics. |
+| `MT-K-145` Impairment | External succubus cause represented, detox clears; later curse explanation of Lise's touch R-inferred. |023/025; distinguish ordinary intent, induced state and attributed mechanism. |
+| `MT-K-146` Past Paul | Lise refuses details; R imagines affair conflict and reconciliation. |026; no verified episode or forgiveness obligation. |
+| `MT-K-147` Merchant correction | R reads departure as ingratitude; Garvan reports retrieval, return and search. |027; report qualifies initial judgment, reward does not prove prior rescue motive. |
+| `MT-K-148` Cultural correction | Custom testimony → R's no-special-attachment inference → Carmelita grief/parentage report. |029; no exact inner love established, custom not individual mind. |
+| `MT-K-149` Killing | Direct killing absent from R's immediate options; possible wall deaths later imagined. |030–031; no verified deaths/count or principled nonviolence; Lise's conscious-hesitation reading partly mistaken. |
+| `MT-K-150` Destination | Rapan reached; regret hypotheses multiply without resolution. |031; no Paul reunion/Zenith rescue shown. |
+| `MT-K-151` Faith/counsel | Norn speaks private guilt; Cliff shares exile/limits, scripture and a forecast the narrator qualifies. |032–034; her adopted practice not forecast confirmation or supernatural outcome. |
+
+
+## V12 updates — 2026-09-27 UTC
+
+Prior V01–V11 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V12; immutable input audited V11 `0670b4dfc16a7a5a6c0e35dc62d520f90758a3a5`. Observation suffixes resolve in [V12](../02%20Sequential%20Readings/MT_V12_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V12-`. The [V12 checkpoint](../05%20Checkpoint%20Syntheses/MT_V12_LOSS_AND_HOUSEHOLD_CHECKPOINT.md) owns targeted loss/household review. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Time record | V12 ordering | Source / uncertainty |
+| --- | --- | --- |
+| `MT-T-066` | Rapan arrival reveals Roxy missing a month; Zenith entry report four years old, sighting two years old. |001–003/007; report age not current condition. |
+| `MT-T-067` | Roxy survival precedes rescue; renewed expedition follows regrouping and review. |007–014; narrative disclosure time distinct from action time. |
+| `MT-T-068` | Second hydra fight → Paul's death → three-day exit → Zenith wakes fourth day. |015–018; death and waking verified, cause of altered condition unknown. |
+| `MT-T-069` | Withdrawal/companion discussion → comfort/listening → prolonged bazaar preparation → return. |019–025; functional recovery gradual, no exact clinical timetable. |
+| `MT-T-070` | Snowbound home arrival, shared report, marriage discussion and later private conversation. |025–032; approximate four-month versus roughly half-year recollection retained, no fabricated date reconciliation. |
+| `MT-T-071` | Roxy teaches; one month after household settlement Lucy born; next-day grave visit. |032–034; future children remain prospective; Roxy states turning fifty. |
+
+| Knowledge record | Holder / change | Status / constraint |
+| --- | --- | --- |
+| `MT-K-152` | R expects Paul's earlier failure pattern; present reunion corrects. |001–002; does not prove permanent correction. |
+| `MT-K-153` | Party/Rudeus compare guidebook with actual reports/routes. |003/006/011; useful route not guaranteed rescue. |
+| `MT-K-154` | R invents Hitogami reverse-psychology explanation. |005; no new testimony or verified motive. |
+| `MT-K-155` | Reader gains Roxy interior before R recognizes her feelings. |007–010/023; don't transfer private memories/desire to R's earlier knowledge. |
+| `MT-K-156` | Party criticizes wall-breaking, tests hidden passage safely later. |008/011; local procedural contrast, not invariant trait. |
+| `MT-K-157` | Paul's delayed advice interrupted; grave guesses later. |012/034; actual intended speech never supplied. |
+| `MT-K-158` | Zenith observed in crystal; R doubts Lise's hopeful testimony. |013–014; his lie judgment unverified. |
+| `MT-K-159` | Roxy book/analogy/observed battle establish limited hydra rules. |014–015; eye information still requires interpretation. |
+| `MT-K-160` | Paul death and Zenith waking known to party before household. |016/018/026; report later supplied with Geese's additions. |
+| `MT-K-161` | R's total Zenith appraisal qualified by learning, armor action and preference. |018/032; no mind access or settled prognosis. |
+| `MT-K-162` | Roxy first learns marriage/pregnancy during companion discussion. |019; earlier flirting not under identical information. |
+| `MT-K-163` | Prior life told to Roxy as fiction. |021; no established disclosure of actual reincarnation. |
+| `MT-K-164` | R learns Geese also investigated condition/recovered resources. |022; initial greed appraisal corrected. |
+| `MT-K-165` | Lise's possible-pregnancy report → R's inference/proposal → Roxy denial. |024/030; R's intentional-trick attribution unconfirmed; source concealed in correction. |
+| `MT-K-166` | R forecasts catastrophe at home; household reports safety. |025; warning's true referent/motive still unknown. |
+| `MT-K-167` | Norn sees Aisha's restrained joy before R understands. |027; formal service/hard voice misleading to him. |
+| `MT-K-168` | Norn speaks for Syl; Syl supplies actual decision; private fear disclosed later. |029–031; welcome and vulnerability compatible. |
+| `MT-K-169` | Physician lacks known cure, supplies rehabilitation; cause unknown. |018/032; not universal proof of incurability. |
+| `MT-K-170` | Nanahoshi's minor school help reported without details. | V12 reading C/E, spine20p671–672; no established changed ultimate motive. |
+
+No former-parent death cause is learned from the dream. Family-search completion is personal, not a verified global end to the displacement's consequences. All earlier knowledge records retain original disclosure ceilings.
+
+
+## V13 updates — 2026-09-27 UTC
+
+Prior V01–V12 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V13; immutable input audited V12 `e1018971ce195163277565ca1e4e7e298332bb21`. Observation suffixes resolve in [V13](../02%20Sequential%20Readings/MT_V13_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V13-`. No new specialist checkpoint is required; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Time record | V13 ordering | Evidence / uncertainty |
+| --- | --- | --- |
+| `MT-T-072` | Opening teaching-day return looks back to a week after V12 home arrival; later routine moves forward. |001–002; narrated first does not mean after every V12 event. |
+| `MT-T-073` | One month and further three-month markers organize practice/research; wedding follows another month. |008/013–019; preserve relative markers, no invented exact dates. |
+| `MT-T-074` | Shopping two weeks after wedding, fishing and delayed tenth birthdays when sisters already eleven. |020–023; birthday ritual age distinct from actual age. |
+| `MT-T-075` | Autumn approaches winter, escort/reconciliation, graduation and experiment several days later. |024–033; R approaches eighteen, Lucy a little over one; approximate year/half-year accounts not forced into day precision. |
+| `MT-T-076` | Norn council work disclosed after more than a year of existing participation. |032; started before R's return and latest sword lessons. |
+| `MT-T-077` | Interlude includes a month of counter-style training and final further-year projection. |034–037; do not synchronize projected performance with main-sequence present or claim V14 read. |
+
+| Knowledge record | Holder / change | Status / constraint |
+| --- | --- | --- |
+| `MT-K-171` | Roxy corrects whose research permission R can give. |004; he does not own collaborators' access rights. |
+| `MT-K-172` | Linia admits spreading Seven Powers rumor. |005; rumor success not verified rank. |
+| `MT-K-173` | Cliff proposes dependency/fear explanation for Norn's earlier accommodation. |006; persuasive perspective, not Norn's direct testimony or proof Elinalise coached him. |
+| `MT-K-174` | R tests Lucy for reincarnation without decisive result. |007; care commitment independent of answer, no reincarnation diagnosis. |
+| `MT-K-175` | Norn requests privacy; R discovers admirers and writes rules without consulting her. |008–009; protective motive not affected-person knowledge. |
+| `MT-K-176` | Aisha and Roxy correct R's categorical plant danger judgment. |010; local safeguards negotiated; animation cause unresolved. |
+| `MT-K-177` | Suzanne reports premature daughter's later death and care arrangements. |011; light delivery does not establish absence of grief; later Sara supplies career context. |
+| `MT-K-178` | R imagines Zenith deliberately harming Lucy, then rejects baseless fear; observes care. |012; imagined threat no intention evidence, smiles no confirmed recovery. |
+| `MT-K-179` | Water-lesson aim disclosed after sexual framing; voiced pressure remains factual. |015; information withheld from reader does not delete resistance. |
+| `MT-K-180` | R infers magical compression, observes Lightning exhaustion and Electric self-shock. |016; battle-aura use untested; Syl Saint, not King. |
+| `MT-K-181` | Wives disclose uncertainty and later direct mutual agreement. |017–018; R's destiny counterfactual not cosmological fact; Cliff drug knowledge/use unshown. |
+| `MT-K-182` | Family recognizes Zenith smile; letter reveals Paul's earlier birthday wish. |022; dead father's present approval unavailable. |
+| `MT-K-183` | Roxy later describes first felt acceptance after Syl's hat gift. |023; timing is retrospective report, not omniscient access at the gift. |
+| `MT-K-184` | R's anticipated rejection differs from Sara's intended apology; both discuss former motives. |025–026; her explicit romance closure governs current interpretation. |
+| `MT-K-185` | R privately qualifies fidelity vow; Syl supplies specific future terms. |027; no shared knowledge of Eris thought or unlimited authorization. |
+| `MT-K-186` | R guesses lifestyle cause of Nanahoshi's symptoms. |029; symptom observation/treatment response separate from unverified diagnosis. |
+| `MT-K-187` | R mistakes graduation duel as challenge to himself; Nana corrects spectacle attitude. |030; departure rumor not witnessed shared journey. |
+| `MT-K-188` | Experimental fruit initially lacks settled origin; seedlessness supports R's later inference. |031; not independent origin verification or precision summoning success. |
+| `MT-K-189` | Syl reveals Norn's sustained council work; R revises overload objection. |032; brother's ignorance is not absence of work. |
+| `MT-K-190` | Nanahoshi proposes Perugius precision help and possible Zenith inquiry; invitation terms reported. |033; visit/cure not performed or promised as fact. |
+| `MT-K-191` | Reader gains sword-school access unavailable to R; Gal's confidence and Nina's advice remain attributed. |034–037; projected future result not imported later-volume evidence. |
+
+Earlier knowledge ceilings remain immutable. New disclosed old events are not silently dated to the day the reader learns them.
+
+
+## V14 updates — 2026-09-27 UTC
+
+Prior V01–V13 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V14; immutable input audited V13 `eece6816d98e076847e65507bc9e83d03b1ed77d`. Observation suffixes resolve in [V14](../02%20Sequential%20Readings/MT_V14_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V14-`. The targeted V14 testimony/agency checkpoint is new; the cumulative V15 checkpoint remains prospective. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Time record | V14 ordering | Evidence / uncertainty |
+| --- | --- | --- |
+| `MT-T-078` | R states eighteen; displacement/Nanahoshi arrival recalled eight years earlier. |003/013; ancient El history about two centuries earlier is reported, not current elapsed scene. |
+| `MT-T-079` | Castle instruction/meal precede collapse; unconscious three days, fourth-day assessment and four days of Syl aid. |006–013; preserve source markers without invented calendar. |
+| `MT-T-080` | Demon-continent expedition, return/treatment, further castle days, approximately ten-day homecoming. |014–027; visits to Zenith every three days described after return, not evidence cured. |
+| `MT-T-081` | Diary begins before Hitogami dream; visitor interrupts intended cellar check that night. |027–034; journal transfer, death and rat check precede reading of the journal. |
+| `MT-T-082` | Elder claims roughly fifty years of later events in another course; sword interlude follows in discourse. |029–036; reported branch chronology not accomplished current future, no exact interlude synchronization. |
+
+| Knowledge record | Holder / change | Status / constraint |
+| --- | --- | --- |
+| `MT-K-192` | R learns Roxy barred and Perugius asks unexplained son/Hitogami questions. |002–003; prejudice explicit, gate/white-place resemblance not identified mechanism. |
+| `MT-K-193` | El recounts rescue, curse aftermath and reasons for withholding; Syl remains uninformed, Cliff already knew. |005; Zenith response differs, comparison not diagnosis/cure. |
+| `MT-K-194` | Perugius corrects summoning taxonomy and teaches with limited access. |006; eleven created spirits plus living Sylvaril, not twelve spirits. |
+| `MT-K-195` | R sees meal emotion and later hears Nana precautions, family and return wish. |007/013; fuller speech narrows lifestyle-blame interpretation. |
+| `MT-K-196` | Host attributes symptoms to Draine and offers time suspension. |011–012; diagnosis based on ancient account, R biological analogy not established medicine. |
+| `MT-K-197` | R assigns household roles using partly speculative motives. |015; Roxy spoken agreement follows explanation; Syl's supposed childhood reason is his thought. |
+| `MT-K-198` | Rikaris contacts supply old-party/refugee and employment/death reports. |016; poster not present camp verification; Jelil/Veskell outcomes reported locally. |
+| `MT-K-199` | Cliff feeds stranger before identity known, asks Nana aid when reward offered. |017; direct correction of R's suspicious appraisal. |
+| `MT-K-200` | Atofe contract terms disclosed after threatened acceptance. |018; informed refusal then disregarded, mixed guard willingness. |
+| `MT-K-201` | Actual combat demonstrates local technique and limits; rescue cause explained afterward. |019–022; Perugius responds to intrusion/old enemy, not a request Cliff never made. |
+| `MT-K-202` | Tea helps; Nana told continued use required; art exception tied to Ruijerd debt. |023–025; no permanent cure or generalized demon access. |
+| `MT-K-203` | Ariel royal answer remains open; R revises wording of his own habits. |026–027; useful question and diary intention not achieved mastery. |
+| `MT-K-204` | Hitogami claims Paul/Roxy would survive without R; guilt restores assent. |028; counterfactual and detailed causal story not observed truth. |
+| `MT-K-205` | Elder supplies private name/body identifiers, abilities and written journal. |029/032; supports identity without proving every claim or transferring memories. |
+| `MT-K-206` | Elder narrates illness, deaths, failed return and mediated oracle involvement. |030; source layer remains attributed; Nana suicide is young R inference, Luke role nested hearsay. |
+| `MT-K-207` | Elder's Eris account revises R separation belief; assumes wives' future assent. |031; independent earlier interludes support love, no actual present marriage consent. |
+| `MT-K-208` | Roxy hints pregnancy, wives request openness, R lies and locks rooms. |033; affected people lack full warning, no independent pregnancy test shown. |
+| `MT-K-209` | Purple-crystal-toothed rat found in cellar after freezing; sealed for proposed research. |034; warning specifically corroborated, origin/disease link not tested; journal unread, letter only begun. |
+| `MT-K-210` | Reader sees Eris technique/rank/return intention, R not informed. |035–036; Sword King/full transmission actual, Emperor conditional, Orsted victory projected. |
+
+Current events, disclosed past, unverified counterfactual, elder future testimony, nested hearsay and reader-only interlude are separate records. No old freeze or earlier character state acquires V14 knowledge.
+
+
+## V15 updates — 2026-09-27 UTC
+
+Prior V01–V14 bodies remain historical and unchanged. Current boundary: Japanese LN V01–V15; immutable input audited V14 `992e696dabd6acf5646e3498a5fd20c46267c580`. Observation suffixes resolve in [V15](../02%20Sequential%20Readings/MT_V15_DEEP_READING.md#d-diagnostic-close-readings), prefix `MT-E-LNJP-V15-`. The mandatory cumulative V01–V15 checkpoint and a scoped Rudeus monograph are new; previous syntheses remain unchanged. V15 is terminal for this instruction. Revealed earlier events and current changes retain different times; semantic acceptance, publication/audit and main integration remain separate.
+
+| Time record | V15 ordering | Evidence / uncertainty |
+| --- | --- | --- |
+| `MT-T-083` | Morning after elder: letter written, diary opened before actual sending. |001/010–011; current sequence distinct from embedded diary. |
+| `MT-T-084` | Diary ranges from ordinary domestic days through losses, research and decades of aging. |001–007; dates/gaps unreliable, reports and omissions not exact exhaustive chronology. |
+| `MT-T-085` | Wives' consultation, hostile dream and posted letter precede castle consultation and Eris's received letter. |008–013; no exact transit calendar inferred. |
+| `MT-T-086` | Preparation names first, second and third months; pregnancy announcements and meal precede farewell. |014–018; distinct pregnancies, crop small, no future birth admitted. |
+| `MT-T-087` | Ambush precedes rescue; later chapter rewinds to Eris's arrival and party formation. |019–023; source order differs from action order. |
+| `MT-T-088` | Roughly ten-day aftermath precedes proposal, marriage and Orsted visit. |024–032; final interlude returns to days after fight/before proposal. |
+| `MT-T-089` | Completion of Orsted's diary reading, guardian summoning, employment assignments and remaining origin disclosure lie beyond cutoff. |029–032/036; promised or planned, not completed. |
+
+| Knowledge record | Holder / change | Status / constraint |
+| --- | --- | --- |
+| `MT-K-211` | R reads diary material, recognizes gaps and self-continuity. |001–007; older abilities and reports not young experience. |
+| `MT-K-212` | R receives alternative Roxy/Cliff/Syl/Eris/companion losses and causal accounts. |002–006; encountered events inside testimony, hearsay and blame distinct; no present deaths. |
+| `MT-K-213` | Living wives comfort R without knowing diary cause. |004; actual voiced boundaries/repair, not anticipated future assent. |
+| `MT-K-214` | Syl viewpoint notices concealment; wives state roles and Eris conditions. |008–009; miko cover not full elder account, Nana romance speculation not Nana statement. |
+| `MT-K-215` | Hitogami claims descendant threat/fate and commands Orsted killing. |010; adversarial claims, Syl alternative fate not known by speaker. |
+| `MT-K-216` | Nana receives fuller account and reads diary herself. |011; skepticism and adverse-future uncertainty remain, no confirmed suicide. |
+| `MT-K-217` | Nana develops temporal/causal hypothesis; R recognizes some post hoc reasoning. |011; expressly all hypothesis, not verified displacement mechanism. |
+| `MT-K-218` | R understands Nana debt but overrides her recommendation through pressure. |012; recognition precedes instrumental choice, reluctant help not agreement. |
+| `MT-K-219` | Eris receives mediated letter; friends debate missing love declaration and household terms. |013; postscript drives departure, no marriage answer yet. |
+| `MT-K-220` | Hitogami admits earlier claims false; advice works locally. |015; empirical device utility does not verify safety promise or all new claims. |
+| `MT-K-221` | El pregnancy disclosed to Cliff and diagnosed; Roxy announces own pregnancy publicly. |015–016; curse pause not cure, separate reported-future pregnancies excluded. |
+| `MT-K-222` | Roxy insists on Syl inclusion; both hear immediate Orsted/Hitogami danger. |018; rebirth remains undisclosed, concern not endorsement of all tactics. |
+| `MT-K-223` | Reader sees home initiative and rescue party formation after fight begins in discourse. |020–022; R cannot have used reader's later information in earlier planning. |
+| `MT-K-224` | Orsted offers conditional protection; R perceives vocal hesitation, others curse-affected suspicion. |023; neither side's motive reading is omniscience. |
+| `MT-K-225` | Body restored, bracelet present, no recent dreams; its function later explained. |024/029; short observation and attributed mechanism separate. |
+| `MT-K-226` | R misreads Eris silence despite diary lesson, then hears actual feelings. |025–026; conversation supplies new correction, not automatic knowledge from old future. |
+| `MT-K-227` | Household responds to marriage; Norn's disagreement persists. |027; Zenith slap interpreted, Ghislaine/Ariel meeting only proposed. |
+| `MT-K-228` | R discloses reincarnation to Orsted with Eris present. |029–030; Roxy/Syl not informed, curse/history/prediction distinguished. |
+| `MT-K-229` | Orsted reports Laplace history/factors and infers probable original stillbirth. |030; factors not identity, reassurance not independent proof; disaster unresolved. |
+| `MT-K-230` | R negotiates pay/time and gives diary; Orsted skims pages, full reading to follow, R to return tomorrow; Eris accepts identity continuity. |031–032; actual terms/object transfer, future performance untested. |
+| `MT-K-231` | Interlude reveals Eris anxiety and Roxy's explicit misreading of willingness to teach. |033–034; revelation of earlier state, not new postmarital deterioration. |
+| `MT-K-232` | Richard's claimed power is challenged; narrator identifies Eris threat as bluff. |035; no established murder intent, no invented Norn romance. |
+| `MT-K-233` | Eris interprets Zenith smile/felt response and chooses marriage. |036; no verified speech, telepathy or recovery; choice earlier than main proposal. |
+
+The present, embedded branch, disclosed past, claimed cosmic history, hypotheses and reader-only access remain separately attributed. Earlier freezes and knowledge ceilings are preserved.

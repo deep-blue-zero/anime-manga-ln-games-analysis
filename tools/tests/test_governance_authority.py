@@ -6,6 +6,7 @@ import subprocess
 import sys
 import unittest
 from pathlib import Path
+from unittest import mock
 
 
 REPOSITORY_ROOT = Path(__file__).resolve().parents[2]
@@ -38,6 +39,22 @@ ACTIVATION_EVIDENCE = [
         "ab5f23601f284bb60f9a0f4c7fec607130f6e99d19536f06557a4700f9d06c1e",
     ),
 ]
+
+# Reviewed checkpoint for the literal character fixtures below, including the
+# post-migration Cinderella enrollment. This is historical evidence, not the
+# allowed contents of the evolving discovery registry. Never use a moving ref.
+HISTORICAL_CHARACTER_COMMIT = "79e842adc4d8f31ee2f7f812c48b24d2f68d7cac"
+HISTORICAL_CHARACTER_SHA256 = "ff620e65cd987b3a15d527e00db28556a326a9d6a2d75888020031c7021acd53"
+
+
+def historical_character_rows() -> list[dict[str, object]]:
+    data = subprocess.check_output(
+        ["git", "-C", str(REPOSITORY_ROOT), "show",
+         f"{HISTORICAL_CHARACTER_COMMIT}:characters/registry.jsonl"]
+    )
+    if hashlib.sha256(data).hexdigest() != HISTORICAL_CHARACTER_SHA256:
+        raise DomainError("Historical character registry SHA-256 mismatch")
+    return [json.loads(line) for line in data.decode("utf-8").splitlines() if line]
 
 
 def authority_document(
@@ -973,13 +990,17 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
                     )
                 else:
                     self.assertIsNone(row["canonical_entrypoint"])
-        character_rows = [
-            json.loads(line)
-            for line in (REPOSITORY_ROOT / "characters/registry.jsonl")
-            .read_text(encoding="utf-8")
-            .splitlines()
-            if line
-        ]
+
+    def test_historical_character_fixture_rejects_changed_or_missing_git_blob(self) -> None:
+        with mock.patch.object(subprocess, "check_output", return_value=b"{}\n"):
+            with self.assertRaisesRegex(DomainError, "SHA-256 mismatch"):
+                historical_character_rows()
+        with mock.patch.object(subprocess, "check_output", side_effect=subprocess.CalledProcessError(128, "git show")):
+            with self.assertRaises(subprocess.CalledProcessError):
+                historical_character_rows()
+
+    def test_historical_character_registry_matches_reviewed_snapshot(self) -> None:
+        character_rows = historical_character_rows()
         self.assertEqual(
             len(character_rows),
             len({row["analysis_subject_id"] for row in character_rows}),
@@ -1084,6 +1105,22 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         ]
         self.assertEqual(blue_archive_rows, expected_blue_archive_rows)
 
+        self.assertFalse(any(row["series_id"] == "youjo-senki" for row in character_rows))
+
+        logh_subject_ids = {
+            row["analysis_subject_id"]
+            for row in character_rows
+            if row["series_id"] == "legend-of-the-galactic-heroes"
+        }
+        self.assertEqual(
+            logh_subject_ids,
+            {
+                "legend-of-the-galactic-heroes:reinhard-von-lohengramm@original-novels",
+                "legend-of-the-galactic-heroes:yang-wen-li@original-novels",
+            },
+        )
+
+    def test_frozen_series_migration_crosswalks_are_unchanged(self) -> None:
         def rows(relative: str) -> list[dict[str, object]]:
             return [
                 json.loads(line)
@@ -1239,7 +1276,6 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             "crosswalk/materialization-results.jsonl",
         ):
             self.assertFalse(any(row["drive_id"] in t06_reference_ids for row in rows(relative)))
-        self.assertFalse(any(row["series_id"] == "youjo-senki" for row in character_rows))
 
         logh_mappings = [
             row for row in rows("crosswalk/drive-to-git.jsonl")
@@ -1273,18 +1309,6 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
             "crosswalk/materialization-results.jsonl",
         ):
             self.assertFalse(any(row["drive_id"] in t07_reference_ids for row in rows(relative)))
-        logh_subject_ids = {
-            row["analysis_subject_id"]
-            for row in character_rows
-            if row["series_id"] == "legend-of-the-galactic-heroes"
-        }
-        self.assertEqual(
-            logh_subject_ids,
-            {
-                "legend-of-the-galactic-heroes:reinhard-von-lohengramm@original-novels",
-                "legend-of-the-galactic-heroes:yang-wen-li@original-novels",
-            },
-        )
 
     def test_g5_t01_maebashi_tuple_is_exact(self) -> None:
         drive_ids = {
@@ -1337,7 +1361,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
         self.assertEqual(manifest["destination_bytes"], 2706)
         self.assertEqual(manifest["destination_sha256"], "94c23fbbb6e040a64f8de1bfae8831912902661cdebba79393781bdf69f36101")
 
-        character_rows = rows("characters/registry.jsonl")
+        character_rows = historical_character_rows()
         maebashi = [row for row in character_rows if row["series_id"] == "maebashi-witches"]
         self.assertEqual(len(maebashi), 7)
         self.assertTrue(all(row["materialization_status"] == "PRESENT_REVIEWED" for row in maebashi))
@@ -1395,7 +1419,7 @@ class PublicGovernanceInvariantTests(unittest.TestCase):
 
         mass_effect = [
             row
-            for row in rows("characters/registry.jsonl")
+            for row in historical_character_rows()
             if row["series_id"] == "mass-effect"
         ]
         self.assertEqual(len(mass_effect), 2)

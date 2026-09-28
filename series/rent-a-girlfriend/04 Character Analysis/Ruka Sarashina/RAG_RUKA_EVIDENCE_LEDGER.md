@@ -4,13 +4,13 @@ artifact_id: RAG_RUKA_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.28"
+version: "1.29"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V030; character evidence inspected through V030, with V012-V013, V019, and V029 negative-evidence review."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V003-V040; character evidence inspected through V030, with V012-V013, V019, and V029 negative-evidence review."
 ---
 
 # Ruka Sarashina evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 更科るか
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V029
+inspected_through_volume: V040
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -111,6 +111,8 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-RUK-E071 | RUK-S023 | RAG-E-V027-007, RAG-E-V027-009 | No-count framing, access demand, and later reduced vigilance | Calls the resort kisses a necessary evil that protected her boyfriend, demands that Chizuru reduce ordinary access, and later relaxes full-alert monitoring during the three-month silence. | Preserves her own status account while seeking a practical boundary against her rival. | She does not obtain Chizuru's agreement, restore Kazuya's consent, or create workable separation terms. | RAG-RUK-R001, RAG-RUK-R010, RAG-RUK-R014, RAG-RUK-R015 |
 | RAG-RUK-E072 | RUK-S024 | RAG-E-V028-009 | Workplace status persistence and direct health concern | Appears at Kazuya's karaoke job in uniform, calls herself his girlfriend, notices that he looks pale, and worries because he nearly collapsed. | Combines continued claim performance with concrete care after the long silence interval. | Care does not answer Kazuya's withdrawal, restore mutual trial terms, or repair the fabricated sex claim. | RAG-RUK-R001, RAG-RUK-R006, RAG-RUK-R010, RAG-RUK-R016 |
 | RAG-RUK-E073 | RUK-S025 | RAG-E-V030-001 | Housing inquiry under concealment | Learns that Kazuya has left the damaged apartment, asks about his destination, and receives his family-home account while expressing attachment. | Her direct access continues under materially incomplete information. | She is not shown knowing the Chizuru-house residence or responding to the full facts; RAG-RUK-R001, RAG-RUK-R010, RAG-RUK-R016. |
+| RAG-RUK-E074 | RUK-S025 | RAG-E-V040-002, RAG-E-V040-003 | Affection and partial move knowledge | Accompanies card shopping, notices Kazuya's good mood and new-home key, learns he moves next week, and helps choose a fish keyholder. | Seeks inclusion in a consequential change while retaining affectionate attention. | Kazuya conceals Chizuru cohabitation and date, so her informed response is untested; RAG-RUK-R001, RAG-RUK-R016. |
+| RAG-RUK-E075 | RUK-S025 | RAG-E-V040-004 | Accidental proximity | An attempted catch and shop collision bring them into an embarrassing close pose. | Shows mutual visible reaction to a public accident. | The event is not permission, an agreed sexual act, or a repaired trial; RAG-RUK-R010, RAG-RUK-R016. |
 
 ## State-change summary
 

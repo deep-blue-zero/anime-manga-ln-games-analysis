@@ -4,13 +4,13 @@ artifact_id: RAG_RELATIONSHIP_STATE_LEDGER
 artifact_type: relationship_state_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V040; inspected and closed through V040."
 ---
 
 # Directed relationship state ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V030
-row_count: 172
-state: CURRENT_THROUGH_V030
+inspected_through_volume: V033
+row_count: 178
+state: CURRENT_THROUGH_V033
 ```
 
 ## Records
@@ -214,3 +214,61 @@ state: CURRENT_THROUGH_V030
 | RAG-REL-170 | Kazuya ↔ Ruka / Nagomi | Uninformed rival and family audiences | Kazuya conceals Chizuru-house residence from Ruka and leaves Nagomi's genuine-couple inference uncorrected. | The household deepens an information asymmetry beyond V029's concern. | Neither audience's reaction to full facts is known; RAG-E-V030-001. |
 | RAG-REL-171 | Kazuya ↔ Mami | Former partners after public exposure | Mami seeks a public meeting; Kazuya apologizes; she asks and leaves without a settled explanation. | Direct contact resumes, with no named endpoint. | Attraction, retaliation, forgiveness, and business motive are underdetermined; RAG-E-V030-007. |
 | RAG-REL-172 | Kazuya ↔ Sumi | Friend and support-seeker in a new domestic setting | Sumi arrives, treats his cut, hears birthday worry, and offers quiet perspective. | Her prior adaptive care recurs in practical and conversational form. | She does not speak for Chizuru or receive a romantic answer; RAG-E-V030-008. |
+| RAG-REL-173 | Chizuru ↔ troupe / Sumi / household | Birthday recipient in professional, friend, and domestic circles | The troupe celebrates after her performance; Sumi brings a separate cake and privately listens; the housemates wait, toast, and give gifts. | Chizuru accepts plural care rather than only Kazuya's imagined exclusive rescue. | Recognition does not determine vocational outcome or romantic classification; RAG-E-V031-001 through RAG-E-V031-007. |
+| RAG-REL-174 | Chizuru ↔ Kazuya | Cohabiting in an unresolved investigation | She credits his bereavement support, receives his performance praise and coupon, but says she cannot yet name romantic love. | Chosen contact and affection become explicit alongside continuing uncertainty. | No mutual dating agreement or coupon redemption; RAG-E-V031-004, RAG-E-V031-006, RAG-E-V031-007. |
+| RAG-REL-175 | Mini ↔ Chizuru | Housemate and advocate pressing for progress | Mini joins her in the bath, asks intrusive questions, and is asked what sort of person Kazuya is. | The intermediary becomes a source Chizuru chooses to consult, even as she resists simplification. | Mini's testimony and Chizuru's result are deferred; RAG-E-V031-009, RAG-E-V031-010. |
+| RAG-REL-176 | Mini → Chizuru / Kazuya | Housemate testimony and relay | Mini answers Chizuru's character question and later tells Kazuya. | The inquiry now includes third-party testimony. | Her view is neither neutral omniscience nor Chizuru's conclusion; RAG-E-V032-001. |
+| RAG-REL-177 | Chizuru ↔ Kazuya / Mini | Temporary household, now with practical shopping | Chizuru requests moving help, invites both residents to replace goods, and eats with them. | Ordinary cooperation acquires material and financial detail. | May 13 still bounds Kazuya's stay; no mutual dating agreement; RAG-E-V032-002, RAG-E-V032-005 through RAG-E-V032-008. |
+| RAG-REL-178 | Chizuru ↔ Kazuya | Chosen night companionship within an unresolved inquiry | After a local spider-help request she invites him to a night errand and shares a small drink and family memory. | Direct, unpriced company expands beyond the three-person shopping trip. | Neither event redeems the coupon or declares romantic status; RAG-E-V032-010, RAG-E-V032-011. |
+| RAG-REL-179 | Mini ↔ Chizuru / Kazuya | Third housemate celebrating belated birthday | Stages Twister as a rehearsal theory; Chizuru accepts the game, changes clothes for comfort, ends it, and joins a group photo. | Household play gives the three a shared memory while the principals keep local bodily limits. | Mini's theory does not convert a game into a consent or romance test; RAG-E-V033-002 through RAG-E-V033-004. |
+| RAG-REL-180 | Umi → Chizuru | Acting friend and direct suitor | Visits Sayuri's altar, says he likes Chizuru, and postpones hearing her answer after an earlier confession. | Romantic interest is explicit; the prior V032 cafe companion is identified. | Bereavement respect and confession do not imply Chizuru's acceptance; RAG-E-V033-005 through RAG-E-V033-008. |
+| RAG-REL-181 | Chizuru → Umi | Recipient of renewed direct proposal | Begins to respond and apologizes before Umi says he does not want to hear an answer yet. | Her reply remains incomplete because he postpones hearing it. | Her intended answer is unshown; his delay is not her assent, rejection, or stated boundary; RAG-E-V033-008. |
+| RAG-REL-182 | Chizuru ↔ Kazuya | Temporary housemates with a newly proposed date | Chizuru invites him out, explicitly calls it a date, says she wants to go together, and begins discussing a destination. | Chosen unpriced access moves from incidental errands to a named prospective date. | The date has not occurred and the pair have not agreed they are boyfriend and girlfriend; RAG-E-V033-010 through RAG-E-V033-012. |
+| RAG-REL-183 | Chizuru ↔ Kazuya | Temporary housemates with a date proposal redirected by an older obligation | Chizuru joins his nursery visit, sees his care, helps a child, and says she enjoyed the day. | Voluntary two-person time reaches a family/work context. | The aquarium date, inquiry verdict, and mutual partnership remain unshown; RAG-E-V034-001 through RAG-E-V034-005. |
+| RAG-REL-184 | Harumi ↔ Kazuya and Chizuru | Mother and nursery worker receiving her son's housemate | Harumi welcomes Chizuru and gives a specific positive account of Kazuya's conduct with children. | Chizuru hears family testimony in the same setting as observable behavior. | Maternal approval cannot certify Chizuru's feeling or the couple status; RAG-E-V034-002 through RAG-E-V034-005. |
+| RAG-REL-185 | Chizuru ↔ Kazuya ↔ Mini | Three temporary housemates navigating shared use | Soap and laundry incidents expose truth and privacy friction; Mini later organizes a shared television/game evening. | Ordinary living together continues with local boundary corrections. | Game cards and household familiarity do not confer sexual access or relationship status; RAG-E-V034-007 through RAG-E-V034-010. |
+
+## V035 close additions
+
+| RAG-REL-186 | Chizuru ↔ Kazuya / Mini | Housemates finishing a themed group game | Cards are ordered; Chizuru clarifies that a 100-point extravagant proposal is an example, not her requirement. | A potentially misleading romantic prompt receives a direct limit. | The loved person remains unidentified; RAG-E-V035-001, RAG-E-V035-002. |
+| RAG-REL-187 | Chizuru ↔ Kibe | Kazuya's friend consulted by Chizuru | She asks what Kazuya is like; he describes loyal care and asks whether she likes him. | The inquiry expands to an external friendship witness. | His question is not answered aloud and his knowledge remains incomplete; RAG-E-V035-003, RAG-E-V035-004. |
+| RAG-REL-188 | Chizuru ↔ Kazuya | Temporary housemates with local illness-care trust | She discloses difficult menstrual days, permits him into her room, eats his meal, requests a sweet, and thanks him. | Unpriced care and first-person bodily disclosure increase ordinary trust. | No permanent room access or truthful couple status is established; RAG-E-V035-005 through RAG-E-V035-008. |
+| RAG-REL-189 | Chizuru ↔ Nagomi | Rental provider and family elder with partial truth | Nagomi books Chizuru, apologizes for professional judgment, and voices a bridal hope. | Their relation gains a paid but personally consequential outing. | Nagomi still assumes a genuine couple; Chizuru has not promised marriage; RAG-E-V035-010 through RAG-E-V035-012. |
+| RAG-REL-190 | Sumi → Chizuru / Nagomi | Distant observer | Sumi sees the women at the arcade. | Possible future contact context is visually seeded. | No interaction or informed conclusion is shown; RAG-E-V035-011. |
+
+## V036 close additions
+
+| RAG-REL-191 | Sumi → Chizuru / Kazuya | Confidentially informed house visitor and distant observer | Revisits her arcade sighting in private thought. | Her concern is newly visible to the reader. | She does not speak to them or learn paid context; RAG-E-V036-001. |
+| RAG-REL-192 | Nagomi ↔ Kazuya / Chizuru | Family elder and rental client under partial truth | Discusses her booking with Kazuya by phone after Chizuru disclosed it. | Direct family consequence of the V035 outing. | Genuine-couple presumption persists; RAG-E-V036-002. |
+| RAG-REL-193 | Chizuru ↔ Mini / Kazuya | Housemates in Mini's sales event | Chizuru chooses to help in costume; Kazuya works the booth and tells her she was cutest there. | Shared unpaid labor and direct personal praise. | Event photos and conditional happiness do not create couple status; RAG-E-V036-003 through RAG-E-V036-005. |
+| RAG-REL-194 | Chizuru ↔ Kazuya | Temporary housemates, inquiry open | He asks for a non-rental date; she proposes May 17 and calendars it; his planned move is May 18. | New mutually scheduled private outing before an explicit housing boundary. | The date is future and no verdict has been given; RAG-E-V036-006 through RAG-E-V036-010. |
+| RAG-REL-195 | Chizuru ↔ Kazuya / Mini | Housemates with unequal bodily information | Mini raises a private physical observation; Kazuya becomes flustered during an ordinary kitchen spill. | Shows continued intimacy pressure and privacy difference in shared space. | Chizuru's presence is not consent to inspection; RAG-E-V036-012. |
+
+## V037 close additions
+
+| RAG-REL-196 | Chizuru ↔ Kazuya | Housemates with scheduled unpaid date | She asks for an ordinary occasion and gives a hotpot preference after his question. | Date design becomes partly reciprocal. | No final relationship classification; RAG-E-V037-003, RAG-E-V037-005. |
+| RAG-REL-197 | Chizuru ↔ Kazuya | Prospective date partners | She proposes leaving from home and accepts 9 a.m.; he updates his notes. | Practical shared start honors existing cohabitation. | Outing and May 18 move remain future; RAG-E-V037-010. |
+| RAG-REL-198 | Kazuya ↔ Mini | Friend and planning coach | Eat hotpot and discuss what an ordinary conversation might require. | Support shifts from cheering to rehearsal. | Mini is not the date partner or inquiry judge; RAG-E-V037-007. |
+| RAG-REL-199 | Kazuya ↔ Kuri | Friends discussing dating | Kuri offers sexual theories; Kazuya's mind races and he buys condoms. | Peer script competes with actual first-date evidence. | No Chizuru consent is conveyed; RAG-E-V037-004. |
+| RAG-REL-200 | Mami ↔ principals | Prior contact, presently separate | Appears at another location in the final main-story cut. | Reintroduces her to reader attention. | No direct interaction, knowledge, or motive established; RAG-E-V037-011. |
+
+## V038 close additions
+
+| RAG-REL-201 | Chizuru ↔ Kazuya | Housemates preparing an unpaid date | Their unplanned Joypolis preview and lunch provide real shared time. | Both experience a venue Kazuya had only drafted. | Formal date and inquiry remain open; RAG-E-V038-005 through -009. |
+| RAG-REL-202 | Chizuru ↔ Kazuya | Reciprocal choice under test | Chizuru asks him to bring his own tastes and share pace; she offers a later ice-cream purchase. | Reduces pure escort/client framing. | No couple declaration or later ice cream shown; RAG-E-V038-008, -009. |
+| RAG-REL-203 | Mami ↔ principals | Silent third-party observer | Mami sees the pair together from a cafe. | Her information changes without theirs changing. | No approach or effect yet; RAG-E-V038-007. |
+| RAG-REL-204 | Miho ↔ Chizuru | Acting-world peer, tension emerging | Miho voices private cynicism and seems unsettled near Chizuru. | Adds a distinct professional comparison. | No specific conflict is settled; RAG-E-V038-010. |
+
+## V039 close additions
+
+| RAG-REL-205 | Chizuru ↔ Kazuya | Unpaid pre-date companions | Voluntary Joypolis play, shared fear and direct questions extend the preview. | Both test an ordinary date's reciprocity. | No May 17 execution; RAG-E-V039-001 through -005. |
+| RAG-REL-206 | Chizuru ↔ Kazuya | His love explicit, her inquiry open | He says directly that he likes her; she indicates awareness without accepting or rejecting. | Their information is less asymmetric. | No couple declaration; RAG-E-V039-009. |
+| RAG-REL-207 | Mami ↔ Kazuya | Exes in direct contact | She probes his status with Chizuru and denies Hakuba is her boyfriend. | Their talk complicates his prior attachment. | No demonstrated reconciliation or obstruction; RAG-E-V039-006 through -008. |
+| RAG-REL-208 | Chizuru ↔ Kazuya | Housemates sharing optional leisure | She invites him to watch a drama at home. | Everyday closeness continues before the date. | Housing deadline and inquiry unchanged; RAG-E-V039-010. |
+
+## V040 close additions
+
+| RAG-REL-209 | Chizuru ↔ Kazuya | Named-person inquiry, answer still open | She raises names; he identifies Ichinose as the person he likes. | The rental alias loses some conversational hold. | No official mutual couple status; RAG-E-V040-001. |
+| RAG-REL-210 | Ruka ↔ Kazuya | Affectionate claimant under partial disclosure | She helps with his card and move keyholder; he withholds Chizuru residence and date. | Care and concealment coexist. | No informed breakup or renewed agreement; RAG-E-V040-002 through -004. |
+| RAG-REL-211 | Chizuru ↔ Kazuya | Shared family-film time and prepared outing | She offers Sayuri film and confirms May 17 participation. | Ordinary closeness joins self-defined acting goal. | Inquiry answer remains open; RAG-E-V040-005 through -007. |
+| RAG-REL-212 | Chizuru ↔ Kazuya | Unpaid formal date in progress | They depart in rain, travel closely, discuss Ruka and the non-rental frame, and reach Joypolis after umbrella invitation. | Direct, chosen contact replaces planning. | Accidental train touch and umbrella do not establish generalized consent; RAG-E-V040-008 through -012. |

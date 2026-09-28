@@ -1,0 +1,14 @@
+{
+  "series_id": "ntr-netsuzou-trap",
+  "stable_slug": "ntr-netsuzou-trap",
+  "canonical_title": "NTR: Netsuzou Trap",
+  "media": ["MANGA"],
+  "repository_path": "series/ntr-netsuzou-trap/",
+  "canonical_entrypoint": "series/ntr-netsuzou-trap/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_UNREVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_NTR_BOOTSTRAP_20260928",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Provisional Japanese manga bootstrap awaiting owner audit; V01–V06 EPUBs inventoried in Drive, no narrative volume admitted or inspected, supplements quarantined, sequential lock CLOSED."
+}
