@@ -1359,3 +1359,1258 @@ RABBIT sees Chronos coverage and hears of inquiry/cancellation by Moe; Miyu fear
 ## V004 C001 checkpoint reconciliation — bounded trust and rival senior claim
 
 Miyako thanks Sensei after drainage, later trusts them with Clover and adult follow-up; that does not retroactively consent to E008 privacy intrusion or settle formal housing. Saki moves from challenging Miyako's appointed captaincy to affirming her actual E018 result, while Miyako still credits team cooperation. Kanna grants Sensei a temporary reprieve, then defends compromised policing under Miyako's evidence challenge, without reconciliation. Decartes alternates hostility and gratitude but no stable alliance follows. Kaya/FOX discuss RABBIT as juniors and possible coup resources without RABBIT's knowledge or consent. Next chapter remains unopened.
+
+## V004 C002 E001 relationship delta — loyalty under dissent
+
+Yukino's dream of public FOX teamwork includes Niko moderating Otogi/Kurumi's camera quarrel and Yukino checking injuries (`scene:001:u:0011-0016;u:0043-0054`). In the waking operation she receives role reports, dismisses Kurumi's civilian concern as irrelevant and tells Niko she may quit rather than alter the mission (`u:0092-0113`). Niko says `FOX2、承知しました`; Kurumi ends her report. This is continued subordinate cooperation under visible moral friction, not unanimous conviction. FOX plans a `ウェルカムパーティー` for RABBIT without any shown contact, knowledge or consent (`u:0114-0130`). The chapter-one anonymous vendor is not assigned by Niko's inari plan.
+
+## V004 C002 E002 relationship delta — thanks without surrender of duty
+
+Sensei's visit thanks RABBIT for an off-page rescue, while Miyako says they did only SRT duty and Moe adds her own missile-fire motive (`scene:001:u:0046-0068`). Sensei offers steak after the squad first declines further reward; the students invite Sensei to eat and jointly prepare a grill (`u:0069-0097`). Acceptance of a meal does not show consent to any FOX approach, abandonment of the park protest or erasure of Chapter 1's adult boundary problems. Exact public Sensei wording is uncertain where `心の声` receives replies, and paired choices are alternatives. E003 unopened.
+
+## V004 C002 E003 relationship delta — gratitude becomes withheld risk
+
+The shared steak is eaten; RABBIT's suspicion that it might be `餌` is joking/uneasy, not proven deception by Sensei (`scene:001:u:0001-0017`). Once the group sees masked carriers and recognizes possible SRT gear, Saki says they may owe Sensei an apology. Miyu wants prompt disclosure, while Miyako chooses culprit search and recovery before telling Sensei, partly to spare an already busy teacher (`u:0066-0113`). This creates an asymmetric knowledge state after a warm meal: RABBIT has a serious but unverified suspicion and Sensei has no printed briefing. Motive can be considerate and still cost informed partnership. E004 unopened.
+
+## V004 C002 E004 relationship delta — admired senior becomes close opponent
+
+The former FOX ideal from E002 becomes a physical encounter: Yukino, initially `？？？`, restrains/instructs Miyako and addresses her as `月雪小隊長`; Miyako recognizes `ユキノ先輩` (`scene:001:u:0045-0064`). This is direct contact, not reconciliation, consent to a welcome party or proof of the senior's entire strategy. Miyako has not told Sensei the E003 gear suspicion, and Sensei is absent. Exact speaker labels at `u:0060/0062` conflict with the apparent junior response; retain the role uncertainty. E005 unopened.
+
+## V004 C002 E005 relationship delta — warmth and ultimatum
+
+FOX feeds and praises the captive juniors while Yukino makes their shared SRT identity depend on becoming reliable weapons (`scene:001:u:0028-0069;u:0083-0106`). Niko's inari taste suggests a prior link to RABBIT, but vendor identity is not directly confirmed. Saki/Moe feel relief at presumed FOX purchase; Miyako instead challenges the Schale/tower operations and receives a refusal. Yukino addresses Sensei courteously, then says she hates adults like them while granting a delay (`u:0115-0126`); neither mutual trust nor a settled schism follows. Miyako receives a coordinate but no shown acceptance. E006 unopened.
+
+## V004 C002 E006 relationship delta — delayed truth and inherited regard
+
+RABBIT tells Sensei the FOX/Schale concern and apologizes; Sensei's paired reassurance resists their self-blame, while Miyu's food repayment is not enacted (`scene:001:u:0002-0012`). Trust gains disclosure but the stolen object is still unknown. The squad's affectionate/competitive portraits show durable regard for FOX; Miyako's explicit question about obeying a changed Yukino shows that regard no longer resolves alignment (`u:0019-0076`). Kaya publicly summons Sensei, who neither accepts nor declines in print (`u:0101-0109`). E007 unopened.
+
+## V004 C002 E007 relationship delta — apparent sympathy as political setup
+
+Kaya praises Rin's burden and invites a shortcut; Rin refuses coercive authority, after which Kaya states she has long found Rin an obstacle (`scene:001:u:0053-0076`). The exchange is an explicit rupture, with the letter and officer intervention following; no reconciliation or lawful succession is established. Ayumu challenges suspicions about Rin while other members criticize her. Heine appears receptive to a false Rin/FOX story and reports Sports Association disappointment, showing rumor's local effect without representing all members. Kaya plans Sensei as a guest for the post-vote broadcast encounter, but Sensei is absent (`u:0115-0138`). E008 unopened.
+
+## V004 C002 E008 relationship delta — invitation becomes failed bargain
+
+Ayumu and Momoka warn Sensei about Rin's confinement and the chamber's pro-Kaya turn; Momoka calls the invitation a trap, while Sensei still goes (`scene:001:u:0003-0027`). Kaya treats Sensei courteously, admits an unauthorized Schale intrusion, offers relief and broad indemnity for council attribution, then calls Sensei childish after refusal (`scene:002:u:0002-0071`). This is a direct alignment failure, not a forced alliance or immediate fight. Rin is absent; her custody is reported through others. E009 unopened.
+
+## V004 C002 E009 relationship delta — hostile patronage rejected
+
+Miyako intervenes when Kaiser moves on Decartes; a guard threatens RABBIT, then the General halts escalation because he reports Kaya ordered SRT spared (`scene:001:u:0072-0119`). His offer of supplies coexists with admitted hatred and a desire to use future allies; Miyako declines indebtedness (`u:0120-0154`). The squad acknowledges some strategic force in his argument but has not adopted it. Saki and Moe tentatively revisit FOX service because restored schooling and winter supply matter; Miyu is noncommittal, Miyako has not posed her final question (`u:0155-0181`). E010 unopened.
+
+## V004 C002 E010 relationship delta — conditional loyalty and institutional friction
+
+Kaya pressures a Defense deputy over a train crisis despite having barred morning reports; Momoka resists urgency with lunch and operational knowledge, while Aoi refuses a finance exception (`scene:001:u:0009-0085`). Their actions frustrate her, but the unit does not prove coordinated sabotage. Kaya praises Yukino's obedience, then defers school restoration and asks her to keep following orders for FOX/RABBIT; Yukino complies without receiving the promised school (`u:0089-0106`). A Human Resources chief's recruited Red Winter group ceases to be a useful ally when Minori targets Kaya, with assault reported but mechanics unseen (`u:0107-0154`). E011 unopened.
+
+## V004 C002 E011 relationship delta — Kanna and Kirino recognize different strengths
+
+Kirino vouches for a resident, but the Kaiser guard rejects her personal guarantee. Kanna uses paperwork to open passage, then warns Kirino that smoke would not protect her against armed guards (`scene:001:u:0002-0070`). At the cafe Sensei affirms Kanna's earlier principled help, while Kanna describes sanction and doubt. Kirino refuses Kanna's self-denigration, and Kanna names Kirino's civilian trust as a strength she herself cannot replicate (`u:0085-0127`). This is local mutual recognition, not reinstatement or full restoration of confidence. Both head toward protest disorder; outcome unshown. E012 unopened.
+
+## V004 C002 E012 relationship delta — senior bond replaces park companionship
+
+Miyako thanks Sensei in a letter, says hearing the teacher's voice might unsettle her, and leaves before they meet (`scene:001:u:0007-0028`). The bond matters enough to avoid, not enough to prevent departure; Sensei only finds the letter/partly tidies the camp. Yukino directly accepts RABBIT as FOX detachment, and Niko/Kurumi/Otogi welcome the juniors with food, beds, showers and an immediate training order (`scene:002:u:0009-0042`). Miyako's lingering silence to Saki's worry means affiliation is settled locally while trust in its aims is not. E013 unopened.
+## V004 C002 E013 relationship state delta — planned subway attack
+
+Kaya tries to direct Cherino as another president and receives jovial noncooperation; Ayumu/Heine witness how little command that relationship affords (`scene:001:u:0002-0054`). The General bargains with Kaya from payment pressure to a prepared attack after she offers Kaiser rail revenue; obligations and threat are spoken, with no concession signed (`scene:002:u:0002-0024;u:0054-0066`). Yukino openly disputes civilian harm before answering Kaya's pressured order as FOX1, leaving a recorded moral objection inside a functional chain of command (`u:0039-0051;u:0067-0071`). The newly subordinated RABBIT is absent and cannot yet be presumed to have endorsed or rejected this order. Sensei is likewise absent. E014 unopened.
+## V004 C002 E014 relationship state delta — trust and camp route
+
+Sora offers her own meal; Sensei declines and returns hungry, a bounded care/boundary exchange (`scene:002:u:0017-0023`). Niko/Otogi/Kurumi identify themselves as Kaya-aligned opponents, yet feed Sensei and debate the teacher's trust; Sensei eats and affirms the teacher/student relationship (`scene:003:u:0033-0084`). Sensei cites the seniors' trust in Yukino; their pauses/qualified assent and Otogi's prior-friend statement establish bond plus tension, not rupture (`u:0085-0093`). Niko, as deputy, gives Sensei RABBIT's classified camp route against Kurumi's objection and asks concealment from Yukino; she hopes change may extend from RABBIT to FOX (`u:0098-0112`). No reunion is printed. E015 unopened.
+## V004 C002 E015 relationship state delta — comfort and personal justice
+
+Miyako initially misreads Miyu's unease as blame for park hardship and apologizes; Miyu corrects her, then Miyako offers rest rather than addressing the decision-transfer worry (`scene:001:u:0014-0026`). Saki and Moe separately tell Miyako the new arrangement feels hollow; Saki asks Miyako the person whether her unchanged justice survives. Miyako asserts satisfaction as detachment captain and exits without an answer (`u:0027-0044`). Sensei enters the secured site and speaks with her for the first time since the E012 letter; she recognizes the teacher, asks how and declares arrest at a joke (`u:0050-0058`). Actual custody and reconciliation remain open. E016 unopened.
+## V004 C002 E016 relationship state delta — Miyako refuses the station mission
+
+Miyako and Sensei finally talk after E012's avoided call. She initially recasts the visit as persuasion, then acknowledges she did not want to hear the teacher's responsibility question; she guides the teacher to a secret exit and accepts a promise of backup (`scene:001:u:0001-0003;scene:002:u:0002-0049`). That is renewed trust without a printed decision to rejoin Sensei. Yukino orders the RABBIT detachment to aid a civilian station detonation; Miyako directly challenges Yukino as deviating from SRT and disputes her command authority (`u:0050-0084`). Niko/Kurumi/Otogi react after this rupture, but no definite side is spoken. E017 unopened.
+## V004 C002 E017 relationship state delta — solo return and station coalition
+
+Miyako returns to Sensei and requests tactical counsel, but has not asked Saki/Moe/Miyu to leave their newly comfortable camp (`scene:001:u:0002-0044`). Her aim toward FOX is to stop them before they cannot return, showing continued senior care while opposing their mission. Sensei offers confidence and is later asked to command, with no action outcome yet. Decartes initially treats the pair as suspects despite prior help, then accepts Miyako's warning because the station shelters his comrades; she gives him rounds and he summons members (`scene:002:u:0010-0069`). Two members answer, while complete group presence remains open. E018 unopened.
+## V004 C002 E018 relationship state delta — Life Safety opens the station
+
+Kanna joins the station fight on behalf of Kirino/Fubuki and the public, claims a Life Safety legal route despite Public Security suspension, and asks Sensei to care for the juniors (`scene:001:u:0018-0081`). Miyako worries Kanna's defiance may have consequences; Kanna says responsibility and justice are her own decision. Kirino/Fubuki work through familiar station spaces; Miyako thanks and praises Kirino, who takes pride in the bureau despite her ordinary food motive (`scene:002:u:0001-0040`). Decartes and former comrades fight alongside by action but some flee; Fubuki likes his ideal then recoils at the possession demand, so no durable alliance beyond the current encounter is proved. E019 unopened.
+## V004 C002 E019 relationship state delta — RABBIT reunites below station
+
+Miyako shields Sensei from a possible breach grenade, sends a drone ahead and worries that FOX may be waiting (`scene:001:u:0001-0043`). Saki/Miyu/Moe confront her for leaving them; Miyako admits she did not want to ask them to give up warm shelter/equipment for her justice. They reject being chosen for, claim the SRT ideal together and directly trust her; she accepts and resumes issuing gear-check orders (`u:0044-0069`). This is a voluntary squad reunion, not a printed formal FOX discharge. Sensei's presence and naming prompt support rather than create their assent. E020 unopened.
+## V004 C002 E020 relationship state delta — forward FOX defense falls
+
+Yukino orders Otogi/Kurumi/Niko to retreat if RABBIT reaches the operation room, withholding her reason despite their wish to back her; Niko assents under command (`scene:001:u:0032-0047`). Kurumi and Niko's personal-name slips expose loyalty beneath role discipline. Kurumi fights Saki as a training senior but worries when Saki claims Otogi may be down; Otogi's healthy radio answer triggers a local opening, then FOX3 falls (`scene:002:u:0010-0054`). Miyu unexpectedly gets behind Otogi and says her unnoticed presence lets her help her team; Niko reports FOX4 down, with exact method unprinted (`u:0055-0074`). Niko warns Moe of injury from a physical breach, yet maintains the blockade; Moe forces the door and receives Saki's praise. E021 unopened.
+## V004 C002 E021 relationship state delta — Yukino's button threat
+
+Yukino tells Niko/Kurumi/Otogi to retreat if RABBIT reaches her, receives no further Niko answer and concludes she will stand alone. Her withholding of extra explanation and readiness to die suggest concern for them but do not disclose every motive (`scene:001:u:0006-0013;u:0030-0037`). Miyako asks Yukino to surrender, receives a self-destruct threat and still chooses with Sensei's support to continue; Saki/Moe/Miyu voice commitment, not an already safe victory (`u:0023-0046`). FOX3/FOX4 can still report despite combat defeat. E022 unopened.
+## V004 C002 E022 relationship state delta — device secured and FOX surrenders
+
+Kurumi/Otogi/Niko return to Yukino instead of obeying the retreat order. Kurumi calls her a friend before captain; Niko refuses both sacrificing a friend and shifting guilt to juniors, and the group shares the SRT refrain (`scene:001:u:0011-0042`). Miyako disarms Yukino's command claim by trusting the senior would not abandon juniors, while Yukino insists her threat was genuine and then reflects on inherited authority (`scene:002:u:0021-0050`). Sensei offers a future for students to learn/seek support; Yukino declares FOX surrender to Miyako (`u:0051-0084`). These are relational reversals without official aftermath or absolution. E023 unopened.
+## V004 C002 E023 relationship state delta — Kaya detained after failed coup
+
+The General tells Kaya FOX failed and claims a Kaiser SOF reserve, but RABBIT advances; Kaya's paid-service pressure does not gain rescue (`scene:001:u:0005-0033`). Miyako/Sensei confront her, and she tries to trade Schale independence/resources for help; Sensei directs accountability to students rather than personal forgiveness (`scene:002:u:0006-0025`). Heine comes as ally, trusts Kaya over SRT, then hears older FOX recording and recognizes denial/injury betrayal, demanding impeachment (`u:0026-0059`). FOX's surrender now yields evidence cooperation, but formal arrangements/offscreen transfer are not shown. E024 unopened.
+## V004 C002 E024 relationship state delta — chapter epilogue
+
+Miyako writes to confined Niko, reports RABBIT's status and sends a modest bento/inari through Sensei despite facility rules; Niko values the juniors' well-being and plans to share with Yukino/Otogi/Kurumi (`scene:002:u:0002-0036;scene:003:u:0024-0044`). This maintains senior-junior affection without excusing FOX's conduct. RABBIT lives together in the park and freely uses Sensei's Schale help; Moe/Saki banter over showers, Miyako requests one (`scene:003:u:0002-0023`). Kanna receives public credit and early work return by Miyako's account; Kirino declines a Guard transfer by report. Mai/Decartes's broadcast conceals or misstates several relations. Checkpoint due.
+
+## V004 C002 chapter checkpoint — relationship reconciliation
+
+The [chapter checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C002_CHECKPOINT.md) preserves a real RABBIT-to-FOX transfer followed by RABBIT's self-directed reunion, not an uninterrupted refusal. Miyako's rejection of Yukino's mission and FOX's final surrender coexist with continuing senior-junior affection; Miyako writes to confined Niko and the seniors plan to include Yukino in the gift. Sensei's relationship with RABBIT becomes practical support and accountability without absorbing their initiative. Heine's support for Kaya breaks after the recording; legal disposition is not inferred from that rupture. Kanna's official credit and restoration are Miyako's report. V005 C001 E001 unopened.
+
+## V005 C001 E001 relationship state delta — local oppositions and invitations
+
+Nagusa confronts Arata's troupe; the latter calls her 百花繚乱 from her haori, while she rejects the inferred affiliation and claims to have returned something unspecified (`scene:001:u:0001-0042`). Arata is addressed as leader, but her followers' enthusiasm exceeds her own. Niya calls Sensei politely and playfully, offers a festival invitation and mentions a private favor without defining it; Chise's two lines establish presence in the call context, not independent agreement or a Sensei visit (`scene:002:u:0004-0020`). Kuzunoha's address to a would-be rescuer and Sensei's thought of `彼女` imply a prior concern but no current physical meeting or identified third party (`u:0021-0026`). E002 unopened.
+
+## V005 C001 E002 relationship state delta — defended resident and first help
+
+Yukari presses two thugs on behalf of a wallet-losing resident even after that resident asks her to stop; recovered evidence changes the resident's stated belief (`scene:001:u:0003-0029`). The thugs call associates and threaten her and Sensei (`u:0028-0031`). Yukari asks the newcomer who they are and accepts Sensei's offered help (`u:0032-0034`, `choice:001`). This is first direct contact and a pending alliance under threat, not durable trust, a completed defense or Niya reunion. The resident and thugs are incidental roles. E003 unopened.
+
+## V005 C001 E003 relationship state delta — guide and household pursuit
+
+The resident thanks Yukari and Sensei after the thugs withdraw, then assumes her outfit denotes 百花繚乱 before mentioning dissolution; Yukari withholds her uncertain status (`scene:001:u:0001-0025`). She thanks Sensei, momentarily misreads ordinary help through Renge-senpai's reported scam warning, accepts the teacher's identification and initiates a Hyakkiyako tour that narration confirms (`u:0026-0046`). A household servant calls her `お嬢様`, reports leaving the estate after the order news and chases her; relationship and authority are reported, not a complete household history (`u:0079-0089`). Yukari flees after an incomplete farewell. E004 unopened.
+
+## V005 C001 E004 relationship state delta — Niya asks, Yukari intervenes
+
+Niya welcomes Sensei with Kaho/Chise, uses Chise's rehearsals and Shizuko's festival as shared context, and asks for help with a reported Hyakka Ryouran gap while saying she may still hide things (`scene:001:u:0002-0110`). Sensei offers help in principle; Niya treats it as accepted, but terms are not fixed. Kaho respects Niya yet presses her to contribute to recovery work and cautions her phrasing; she reacts warmly to Chise's verse/rehearsal (`u:0012-0045;u:0112-0117`). Yukari, who just fled a servant, enters to ask Onmyou head Niya for counsel and declares Hyakka Ryouran membership (`u:0120-0125`); Niya's response is only puzzled. E005 unopened.
+
+## V005 C001 E005 relationship state delta — witness bargain and personal agency
+
+Niya recognizes a possible 勘解由小路 family connection; Yukari briefly accuses Sensei of preplanned help, then asks Onmyou to witness a challenge against Nagusa (`scene:001:u:0001-0042`). Yukari admires Kikyou's intelligence and reports Ayame/Renge/Kikyou/Nagusa disagreements around succession; only Niya's past Nagusa contact is locally confirmed (`u:0029-0080`). Niya forces Yukari to face political risk and tests whether the appeal invokes family power; Yukari chooses an individual request and worries about burdening Onmyou (`u:0102-0124`). Sensei offers to help; Niya offers witness roles for both, Kaho cautions, and Niya later says the connection may help Sensei seek Kuzunoha knowledge (`u:0125-0161`). No contest or relationship repair follows yet. E006 unopened.
+
+## V005 C001 E006 relationship state delta — remembered praise and missed senior
+
+Yukari tells Sensei Hyakka Ryouran is her aspiration and chosen place. An apparently earlier stand encounter shows Nagusa checking Yukari's safety and praising her courage while Kikyou/Renge pursue the troublemakers; the remembered warmth supports her present attachment without confirming all present loyalties (`scene:001:u:0012-0068`). She expects Renge and Kikyou to endorse a challenge because they were angry at Nagusa's absence, but that is Yukari's projection (`u:0090-0097`). Sensei/Yukari reach Renge's door and only find her youth-journey notice, with no present conversation or consent (`scene:002:u:0002-0018`). E007 unopened.
+
+## V005 C001 E007 relationship state delta — senior esteem and new visitors
+
+Yukari recalls Renge's affection for Kikyou, Nagusa and herself alongside a wish for ordinary friends outside Hyakka; she interprets the present trip as a response to that wish, without current Renge confirmation (`scene:001:u:0001-0036`). A Kaho-supplied list directs Sensei/Yukari through clubs. Yukari describes what Renge means to her before learning descriptive details are needed for strangers; she later recasts sharp member comments as high praise (`scene:002:u:0002-0026;scene:005:u:0009-0019`). The visitors Kaede/Mimori/Tsubaki arrive at the end; reason and relation to the search are unprinted, with one speaker-label inversion (`scene:005:u:0020-0025`). E008 unopened.
+
+## V005 C001 E008 relationship state delta — Shugyoubu meets Yukari, Renge returns
+
+Sensei introduces Yukari and Shugyoubu; Yukari praises its neighborhood watch, while Mimori compares its help to Hyakka and later asks about an unplaced familiarity. Yukari evades rather than explaining a prior bond (`scene:001:u:0001-0049`). The troupe attacks Yukari for a different haori wearer's prior action; Shugyoubu stands with her. Renge arrives, names herself and joins the response; after Arata retreats, named participants report safety and Renge recognizes Yukari (`u:0053-0084;scene:002:u:0001-0011`). No reconciliation/succession request yet. E009 unopened.
+
+## V005 C001 E009 relationship state delta
+
+Yukari admires Renge’s youth search and asks for succession support; Renge calls it 戯言 (scene:001:u:0037-0070). Renge feels Nagusa abandoned members to search for Ayame, while an earlier-memory inset recalls Nagusa’s praise and Kikyou’s teasing with tag inversions (u:0076-0081;u:0105-0115). Renge proposes force; after an omitted clash she refuses to return and leaves with Shugyoubu while Yukari remains still (u:0120-0129;scene:002:u:0001-0022). Sensei asks her to listen and is refused. Present rupture is clear; permanent estrangement is unproved. E010 unopened.
+
+## V005 C001 E010 relationship state delta
+
+Yukari’s image of responsible Renge makes the refusal painful; she resolves to seek Kikyou and predicts Kikyou will persuade her childhood friend Renge (scene:001:u:0001-0021). Renge’s position is not changed by Yukari’s hope. Sensei promises continued accompaniment and helps negotiate a next-day meeting when the household servant insists on a late-day return (u:0022-0055). The servant initially questions Sensei’s proximity but accepts Yukari’s explanation and Schale identification; care/duty is directly stated, deeper family motive is not. Renge’s quoted abandonment line is retrospective (u:0049-0052). E011 unopened.
+
+## V005 C001 E011 relationship state delta
+
+Sensei interrupts the troupe, helps the anonymous student withdraw and checks her right arm; she initially says rescue was unnecessary but notices the care and asks who the teacher is (scene:001:u:0021-0057). Sensei apologizes for a possibly intrusive question, and a narrated walk lets her ask about Hyakka and hear Yukari’s proposed challenge (u:0058-0092). At her residential stop, Sensei asks about return; she calls the timing shrewd and refuses, later describing fear of the remaining members’ judgment (scene:002:u:0002-0016). Sensei regrets the early question and still lacks her name (u:0022-0024). No member has directly condemned her here. E012 unopened.
+
+## V005 C001 E012 relationship state delta
+
+Yukari recalls Kikyou’s protective ice-cream and tooth-brushing admonitions and expects support; present Kikyou greets her warmly but refuses the requested Nagusa challenge witness role (scene:001:u:0011-0025;scene:002:u:0004-0008;u:0052-0065). Kikyou’s account of Nagusa returning Ayame’s 証 and her abandoned-members judgment wounds Yukari’s hope (u:0067-0079). She challenges Yukari’s ability; Yukari calls for a mock, then accepts a strategist-seat succession contest with her (u:0080-0115). Sensei urges calm, Shizuko is alarmed, and neither stops the declaration. Shizuko’s festival request to Yukari is refused, with no wider relationship outcome. E013 unopened.
+
+## V005 C001 E013 relationship state delta
+
+Kikyou humiliates Yukari as a family heir playing at Hyakka; Yukari reveals she knew the odds yet wanted shared days back, then apologizes and leaves (scene:001:u:0019-0056). Afterward Kikyou says she acted to spare Yukari greater injury and that Nagusa is needed, while Sensei and Shizuko challenge deciding Yukari’s belonging for her (u:0057-0094). The protective claim neither repairs the immediate hurt nor proves Kikyou’s affection absent. Shizuko asks Sensei to search, not yet shown successful. Shuro addresses Arata’s frustrated group and offers help; their consent/relation is unshown (u:0113-0119). E014 unopened.
+
+## V005 C001 E014 relationship state delta
+
+Shizuko chooses to continue searching for Yukari despite an imminent festival deadline, then finds her and urges dialogue with Kikyou rather than merely asking for the miko dance (scene:001:u:0013-0059;u:0108-0121). Yukari thanks her but says she fled home and internalizes part of Kikyou’s accusation, despite denying play intent; she agrees to be miko (u:0122-0133). No Kikyou/Yukari conversation follows. Yukari’s earlier meeting with Nagusa is presented as the moment she chose Hyakka beside an admired senior, though the encounter itself does not show formal induction (u:0079-0095). Sensei is separate and hears Shuro’s greeting before any answered Shizuko call (u:0134-0157). E015 unopened.
+
+## V005 C001 E015 relationship state delta
+
+Shuro addresses Sensei as a desired rumored teacher and claims an earlier message was withheld, but no ongoing relationship or binding teacher/student status is established (scene:001:u:0001-0043). Shizuko worries when Sensei misses calls, meets the adult and reports Yukari’s apology-by-proxy; Yukari avoids facing Sensei and says she deceived them, a self-reproach the evidence does not fully validate (u:0044-0082). Sensei rejects Shizuko’s self-blame and entrusts Yukari’s immediate care to her; Shizuko accepts and promises miko preparation (u:0083-0106). Sensei asks Michiru, Izuna and Tsukuyo’s group to find Nagusa for a student’s sake; Michiru accepts, with no Nagusa contact yet (u:0107-0122). E016 unopened.
+
+## V005 C001 E016 relationship state delta
+
+Nagusa directly calls Ayame her childhood friend and says she expected to stay at her side; member praise then transferred replacement expectations to Nagusa after Ayame’s disappearance (scene:001:u:0001-0042). Sensei arrives on the Ninja Research Club lead, recognizes her from E011 and receives her self-name. Nagusa says Yukari should return to family ritual; Sensei asks whether that is right for someone who entered Hyakka admiring her (u:0043-0062). Nagusa explains she cannot replace Ayame and expects the other members to understand later, without directly reconciling with Renge, Kikyou or Yukari (u:0063-0075). Shuro and the troupe enter the scene at the festival cue, with no verified alliance terms (u:0081-0093). E017 unopened.
+
+## V005 C001 E017 relationship state delta
+
+Kikyou contacts Renge about the contest; Renge rejects further concern, while Kikyou names their friendship, jokes sharply and later asks her to check on Yukari in an italic recalled call segment (scene:001:u:0031-0055;u:0115-0118). Mimori, Kaede and Tsubaki notice Renge’s distress and argue she still cares; Tsubaki ends her trial to let her speak, and Renge accepts help (u:0056-0125). No Yukari meeting occurs before attackers arrive. Shizuko repeatedly checks Yukari’s readiness for the miko role while the servant praises her family return; Yukari insists on duty but hesitates (u:0002-0030). Izuna invokes Sensei’s trust to steady Michiru, who then orders protection of attendees (u:0143-0160). Chise redirects Niya toward frightened staff (u:0185-0201). E018 unopened.
+
+## V005 C001 E018 relationship state delta
+
+In an earlier meeting Kikyou welcomes Nagusa back, asks her to address depleted members, then receives an offer to hold Ayame’s 証; Kikyou says she admired Nagusa herself and had not sought a substitute Ayame (scene:001:u:0009-0037). Their misunderstanding remains unrepaired. In current fire, Sensei and Nagusa aid a resident but disagree over risk to strangers; Sensei notes Nagusa has nevertheless come along (u:0038-0059). Renge arrives, names accumulated questions and asks Nagusa to cooperate against monsters, but immediately mistakes her larger-threat retreat warning for abandonment (u:0084-0104). No reconciliation occurs before the giant figure. E019 unopened.
+
+## V005 C001 E019 relationship state delta
+
+Renge asks whether Nagusa as former acting chair can use the emblem; Nagusa says her arm and missing 百蓮 stop her, then again says she is not Ayame (scene:001:u:0036-0050). Shuro claims an earlier Great Snowfield encounter with Nagusa and publicly frames her as a shameful fraud; Nagusa begs her to stop (u:0051-0123). A book-mediated display shows fear of colleagues’ disappointment. Kikyou arrives and asks if it is Nagusa’s true feeling; Shuro asserts complete selfishness, while Nagusa says it was not that simple at first (u:0124-0188). The immediate shock is real; a final reconciled interpretation is not. Sensei calls Tsubaki to act next (u:0198-0199). E020 unopened.
+
+## V005 C001 E020 relationship state delta
+
+Kikyou and Shugyoubu oppose Shuro publicly, while Shuro alleges she helped turn Kikyou’s care for Yukari, Renge’s youth concern and Yukari’s succession hope into damaging choices; these relationships are not thereby reduced to manipulation alone (scene:001:u:0005-0075). Nagusa’s Ayame analogy indicates suspected previous harm but gives no repair or shared account (u:0083-0094). The servant expresses household honor demands; Yukari wonders whether her family wanted only a shame-erasing miko. The anonymous voice amplifies the fear, but no family member is present to answer and Yukari has not accepted revenge (scene:002:u:0014-0060). E021 unopened.
+
+## V005 C001 E021 relationship state delta
+
+Kikyou presses Nagusa for vital information, hears the Ayame testimony, then directly shows the emblem Nagusa left with her (scene:001:u:0019-0048;u:0092-0100). Nagusa’s shame makes her call her persona fake; Kikyou counters by asking for Nagusa herself, yet explicitly says she still cannot forgive the earlier departure and waiting (u:0101-0140). Kikyou admits she did not mean her harsh Yukari words and wants to apologize; Renge likewise wants another conversation and apology, but neither reaches Yukari here (u:0121-0151). Sensei adds an inward plea, and Nagusa agrees to try rescue. Shuro’s public retelling of Yukari’s pain is not Yukari’s own statement; she stays silent (u:0065-0083). E022 unopened.
+
+## V005 C001 E022 relationship state delta
+
+Niya admits error to Sensei, who shares fault and asks her to face the present situation together; she agrees, and Chise/Ninja Research Club aid the route (scene:001:u:0006-0059). Yukari rejects the damage she sees, while Shuro claims to represent and voice her feelings and blames her for the faceless thing; Yukari falls into guilt, without granting Shuro authority or choosing harm (scene:002:u:0001-0063). Nagusa and Sensei appear at the stage demanding Yukari, but no direct response from her or reunification is shown (u:0068-0070). E023 unopened.
+
+## V005 C001 E023 relationship state delta
+
+Shuro claims Ayame rejected Nagusa’s friendship, but the words are only Shuro’s purported quote; Nagusa protests part of the taunt and then descends into self-blame (scene:001:u:0038-0053;u:0077-0092). The book display affirms Yukari’s earlier account that Nagusa showed her a wanted Hyakka path, even as Nagusa interprets her own performed role as having harmed Yukari (u:0064-0084). Sensei attempts to reach Yukari despite restraint and answers Shuro’s identity condemnation; Yukari has not awakened or responded. No reconciliation/rescue is shown (u:0111-0140). E024 unopened.
+
+## V005 C001 E024 relationship state delta
+
+Sensei recalls Nagusa’s attention to each junior and promises help repairing fights, while Yukari says she remains hurt yet wants to make up with the group (scene:001:u:0019-0078). Renge/Kikyou arrive and respond to Yukari, but the requested apologies are still undelivered in direct dialogue (u:0088-0096). Nagusa says she fears losing all three, explicitly asks them and Sensei for help, and receives immediate assent (scene:002:u:0047-0052; interleaved u:0143-0173). Their joint battle and Shuro’s concession are real cooperation, not completed long-term reconciliation. E025 unopened.
+
+## V005 C001 E025 relationship state delta
+
+Kikyou begins but withdraws a talk with Nagusa, whom Renge calls still awkward, so E024 teamwork has not repaired all grievance (scene:001:u:0011-0022). Yukari offers public thanks, receives tentative reciprocation, then challenges Nagusa and accepts defeat while reaffirming admiration (u:0023-0064). She names Hyakka the group’s home and invites return; no full mutual apology is voiced yet and the group has not arrived. E026 unopened.
+
+## V005 C001 E026 relationship state delta
+
+Niya repeats guilt over minimizing the warning, and Sensei praises her protective invitation; she resolves to support Schale through archive work, not a full absolution (scene:001:u:0058-0074;u:0149). Yukari tells Nagusa/Kikyou/Renge she considered her miko choice deeply and that household servants understood; Renge advocates respecting her decision (u:0103-0116). The four proceed to lanterns, with Nagusa addressing Ayame inwardly but no fully voiced mutual apology scene (u:0118-0130). Shuro cries to Kokuriko, who warmly accepts her failed assignment and invites continuing collaboration, a direct hostile mentor/subordinate bond (u:0131-0147). C001 checkpoint due.
+
+## V005 C001 canonical checkpoint reconciliation
+
+Kikyou says she admired Nagusa herself and still resents abandonment; Renge and Kikyou intend apologies to Yukari, and Yukari seeks reconciliation, but their full repair conversation remains unprinted. Nagusa asks for help and receives assent, Yukari reaffirms admiration after a lost challenge, and the four proceed to lanterns. Shuro/Kokuriko directly show a warm subordinate-leader bond with continuing hostile aim. C002 E001 next.
+
+## V005 C002 E001 relationship state delta
+
+Dream-Ayame comforts crying Nagusa, then delivers the same never-friend sentence Shuro alleged. The abrupt nightmare transition says Nagusa fears rejection, not that historical Ayame rejected her (scene:001:u:0011-0031). Awake Nagusa apologizes to absent Ayame and blames herself, with no direct current contact or new repair (u:0032-0041). E002 unopened.
+
+## V005 C002 E002 relationship state delta
+
+Kokuriko directly worries about absent Shuro and asks Azami to greet her; Azami says Shuro is safe, then later tells Shuro Kokuriko may cast her away, which is not supported by the leader’s direct words (scene:001:u:0017-0024;u:0035-0054). Shuro anxiously seeks Kokuriko’s approval, and Azami exploits it while offering help and a future joint story. The eventual leader response is unshown. E003 unopened.
+
+## V005 C002 E003 relationship state delta
+
+The four jointly repel Arata; Nagusa openly credits those fighting beside her (scene:002:u:0001-0012). Dessert tasting shows Renge teasing Kikyou, Kikyou caring over Yukari’s cream/teeth, Nagusa joining with a meatball suggestion, and Umika reciprocating festival thanks (u:0034-0053). After the arm mishap Renge urges hospital care, Kikyou asks to see the bandage and Yukari offers a family treatment route; Nagusa minimizes it. Their concern is direct; care result remains future (u:0075-0093). E004 unopened.
+
+## V005 C002 E004 relationship state delta
+
+The servant warmly welcomes Yukari and acts on her request for Nagusa, a direct supportive household response despite the miko exit (scene:001:u:0009-0023). Renge worries over the doctor’s arm account, Kikyou challenges the examination and Yukari presses for treatment; Nagusa confirms 黄昏 origin but remains restrained (u:0040-0081). She asks all three to hear the frightening unspoken Ayame story, an opening to trust not yet the content itself (u:0082-0085). E005 unopened.
+
+## V005 C002 E005 relationship state delta
+
+Nagusa confesses both her Ayame rejection memory and fear that her juniors would be disappointed; Yukari explicitly refuses blame and credits her search (scene:001:u:0089-0098). Kikyou and the others defend a more charitable reading of Ayame and propose rescue, but their manipulation theory is not proven, and the Renge-like u:0103-0104 line is Yukari-tagged. Nagusa does not consent to an immediate group trip, citing danger and institutional duty (u:0099-0107). Kokuriko's remembered interposition between Ayame and Nagusa does not expose Ayame's interior motive. E006 unopened.
+
+## V005 C002 E006 relationship state delta
+
+Kikyou acknowledges Hyakka’s debt to Onmyou; Renge/Yukari greet Sensei warmly and Nagusa more quietly (scene:001:u:0001-0023). Hyakka members support Nagusa’s mission decision. Kaho’s affection for Chise coexists with her insistence that Chise stay for the festival; Sensei promises a later trip (u:0084-0090;u:0110-0115). E007 unopened.
+
+## V005 C002 E007 relationship state delta
+
+Kikyou helps Yukari with cold, the four share local food and a bath, and Yukari explicitly wants time with her seniors. Kikyou initially refuses bathing on mission grounds then agrees for one hour, while Renge teases her startle (scene:001:u:0002-0010;scene:003:u:0040-0054,u:0068-0103,u:0123-0133). Yukari/Kikyou notice Nagusa’s tension; she discloses fear of aiming at an unspecified person, not its resolution (u:0104-0136). Azami hosts them while withholding her E002 allegiance. E008 unopened.
+
+## V005 C002 E008 relationship state delta
+
+Shuro taunts Nagusa’s childhood-friend hope, and Nagusa counters with a direct cause question without receiving an answer (scene:001:u:0026-0040). Nagusa says she will act for the group; Kikyou, Renge, Yukari and Sensei reach her and interrupt the encounter (scene:002:u:0001-0016). A voice the group recognizes is Ayame-tagged and greets them, but relationship restoration and actual identity remain open (u:0025-0032). E009 unopened.
+
+## V005 C002 E009 relationship state delta
+
+The Ayame-labeled figure apologizes to Nagusa and calls her a dear friend, while Nagusa is ready to accept reassurance after conflicting memory (scene:001:u:0015-0019,u:0062-0076). Kikyou stops easy absolution, foregrounds Nagusa’s injury and chooses to trust the deputy’s crisis conduct until a full account is given; this is conditional relation repair, not a legal verdict (u:0077-0085). Yukari hopes the misunderstanding clears; Azami serves food without disclosing her E002 allegiance. E010 unopened.
+
+## V005 C002 E010 relationship state delta
+
+Ayame-labeled figure offers captive Shuro food without requiring disclosure, yet Shuro refuses leeks as they keep urging/approaching; no feeding is printed (scene:001:u:0058-0090). Kikyou draws Sensei and juniors aside, excluding Nagusa out of concern; Renge defends the figure’s rescue act, Yukari expresses both doubt and desire to preserve Nagusa’s smile (u:0091-0140). Sensei urges limited judgment and further engagement; Kikyou retains suspicion and has not forgiven Nagusa’s injury (u:0141-0159). E011 unopened.
+
+## V005 C002 E011 relationship state delta
+
+The Ayame-labeled figure says she believes Nagusa and wants her help for a final chair mission; Nagusa accepts, while Kikyou defers to her without abandoning suspicion (scene:001:u:0041-0060). Shuro is brought against her will and nonconsensually searched for a dangerous book; her private manuscript is read aloud over protest, Sensei apologizes and later encourages writing (u:0061-0125). The protective reason and privacy cost are both visible; no feeding or redemption outcome. E012 unopened.
+
+## V005 C002 E012 relationship state delta
+
+Shuro’s fear of Kokuriko rejection repeats the abandonment vulnerability Azami exploited; Kokuriko’s direct C001 comfort still constrains the feared verdict (scene:001:u:0010-0018). Kikyou worries about Sensei staying with Shuro/Azami and names his self-sacrificing habit; he reassures via choice lines, no harm yet (u:0019-0029). Kokuriko claims family/Hyakka kinship with Yukari, who rejects becoming like her and cites seniors’ promise; Kokuriko threatens punishment, no strike yet (u:0094-0113). E013 unopened.
+
+## V005 C002 E013 relationship state delta
+
+Shuro denies true fear, but inwardly worries Kokuriko discarded her and dreads an unnamed former place; actual Kokuriko intent remains unknown (scene:002:u:0015-0046). Sensei rescues the student who had just threatened him; she does not accept moral reform and acknowledges his vulnerability (u:0047-0059). Renge blames Azami for letting him go, while Kikyou turns suspicion on her and Azami acknowledges discovery (u:0060-0076). Yukari/Nagusa relation outcomes remain offscreen. E014 unopened.
+
+## V005 C002 E014 relationship state delta
+
+Kikyou directly accuses Azami; Azami compliments her, drops cover and taunts the group’s separation from Sensei/Nagusa, confirming antagonistic relation rather than trusted host (scene:001:u:0001-0035). Nagusa asks Ayame to flank Kokuriko, then the companion vanishes/voices never-with-you claim, rupturing Nagusa’s recent trust; Kokuriko presses her memory conflict (scene:002:u:0001-0029). No resolution of actual Ayame bond. E015 unopened.
+
+## V005 C002 E015 relationship state delta
+
+The Ayame-labeled speaker claims she has always hated Nagusa’s dependence and others’ repeated requests, directly harming Nagusa; authenticity and enduring past motive remain open (scene:001:u:0030-0049). Nagusa argues Kokuriko deceived her and tries to talk, while the speaker rejects her. Earlier warm companion is labeled a fear-made something by this same speaker, no independent group perception. The repeated friend-denial line closes via narrator tag (u:0050-0053). E016 unopened.
+
+## V005 C002 E016 relationship state delta
+
+Kokuriko offers tea and praises Shuro despite two failures, contradicting Shuro’s fear of immediate disposal; she later evades Shuro’s distress about creature betrayal and personal origin (scene:001:u:0001-0018,u:0035-0058). Shuro recalls Sensei’s rescue yet cannot reconcile it with enmity, guessing whim rather than receiving his inward motive (u:0020-0034). The earlier Ayame-like companion’s seeming subjectivity troubles her. E017 unopened.
+
+## V005 C002 E017 relationship state delta
+
+Kaho presses Niya to do festival paperwork; their banter shows work accountability (scene:001:u:0001-0021). The Ayame-shaped visitor apologizes for absence and invokes endangered Hyakka/Sensei; Niya orders help but then challenges the visitor based partly on her known Ayame’s unwillingness to abandon colleagues (u:0022-0069). The visitor’s non-caring reply breaks the impersonation without settling original Ayame’s relationship history. E018 unopened.
+
+## V005 C002 E018 relationship state delta
+
+Renge and Kikyou quarrel over force versus planning while confined; Yukari tries to calm them, and they attend to waking Sensei (scene:001:u:0001-0030). Juniors protect Nagusa from self-blame, but Kikyou's blame of Ayame and Nagusa's refusal expose unresolved interpretations of the original bond (u:0037-0049). Shuro weaponizes the pleasant Ayame account and threatens abandonment; Sensei's E013 rescue interrupts her all-acted defense, though she says it will not change loyalty to Kokuriko (u:0050-0094). Her later Kuzunoha offer is tied to hopes of Kokuriko approval, not a verified generous rescue. E019 unopened.
+
+## V005 C002 E019 relationship state delta
+
+Shuro uses Sensei's physical vulnerability to compel the group while criticizing his rescue of her; Sensei asserts a duty to protect children, which she rejects as impossible or meaningless for a vulnerable adult (scene:001:u:0015-0032;choice:001-002). Nagusa's confidence in the snowfield route contrasts with Shuro's suspicion at the apparently ruined temple, where Shuro threatens the party before the change (scene:002:u:0001-0027). The Kuzunoha-labeled speaker greets Nagusa as a familiar junior, and Nagusa says she fulfilled the speaker's wish to bring Sensei; reciprocal recognition is present, while trust and identity testing remain future (u:0028-0035). E020 unopened.
+
+## V005 C002 E020 relationship state delta
+
+The elder speaker chides Sensei for late response to her letter yet acknowledges many students wait for him, with his substantive answer interrupted by Shuro (scene:001:u:0008-0018;choice:001-003). Nagusa asks why Ayame was not granted Kuzunoha's recognition; the speaker rejects the no-one-would-hurt counterfactual and challenges Nagusa's perfect-Ayame image (u:0034-0075). Nagusa accepts that only Ayame knows her full self and wants to be by her side even if rejected; reunion is future, not achieved (u:0076-0096). Shuro rejects honest-understanding assurances and voices lost-book fear; advice about a book of her own does not reconcile them (u:0097-0114). E021 unopened.
+
+## V005 C002 E021 relationship state delta
+
+The Ayame-tagged account describes praise, minimization of requests and colleagues expecting a quick return to the usual chair, a burden narrative without individual guilt findings for every past student (scene:001:u:0001-0032). It depicts Nagusa's earlier Kuzunoha skepticism and an Ayame-labeled resentful inner response, but the montage's original-person fidelity remains uncertain (u:0033-0048). In the present exchange, Azami flatters/recruits the story-form's regret and hatred into a gaze-based threat; the figure says she will stop answering others, then stays silent after the attack instruction, so no precise consent or outcome is shown (u:0049-0076). E022 unopened.
+
+## V005 C002 E022 relationship state delta
+
+Kaho prioritizes Chise's safety, then issues crowd-protection orders as Onmyou members report pressure; Shizuko's ignorance of eyes is relayed, not direct coordination yet (scene:001:u:0001-0056). Sensei's reported preemptive request creates a protective link to Niya/Onmyou through the Ninjas, though they admit they failed to help during her shadow fight and act only after she is confined (u:0057-0107). Niya trusts them with a message; Kaho interprets it and asks them to bring Shizuko, with no response from Shizuko yet (u:0108-0118). E023 unopened.
+
+## V005 C002 E023 relationship state delta
+
+Kaho offers Festival Operations Committee members a route to leave; Umika, Fina and Shizuko voluntarily remain, with differing reasons around prior helplessness, future festivals and collective preparation (scene:001:u:0006-0032). The Ninjas join and Kaho entrusts Chise with singing under a promise to shield the stage, untested at cutoff (u:0033-0044). Azami tries to dominate confined Niya with fear-book theory; Niya rebuts through a communal festival and the observed thinning weakens Azami's certainty, though the antagonist warns it will end (scene:002:u:0001-0075). E024 unopened.
+
+## V005 C002 E024 relationship state delta
+
+Niya thanks the returned group, while Yukari/Nagusa treat her injury despite her minimization and Sensei says none can do everything alone (scene:001:u:0001-0030). Niya/Nagusa self-blame for Ayame, and Kikyou/Renge/Yukari insist on shared responsibility; details learned in the omitted briefing are not audited (u:0031-0039). Niya appeals to Shuro's authorship and resentment of mocking readers to induce a new story; Shuro resists Kokuriko disloyalty verbally but writes, leaving motives and long-term bond unsettled (u:0084-0154). E025 unopened.
+
+## V005 C002 E025 relationship state delta
+
+Azami threatens Shuro for humiliating her tale; Kokuriko protects Shuro and rebukes Azami, complicating Shuro's disposal fear without defining their relation (scene:001:u:0001-0031). Kokuriko calls Nagusa a junior and attacks her bond with Ayame; Nagusa rejects senior status and reaffirms staying with Ayame, while Kikyou shields her from the verbal attack (u:0041-0075). No reconciliation, surrender or Ayame meeting. E026 unopened.
+
+## V005 C002 E026 relationship state delta
+
+Renge/Kikyou/Yukari voice role anxieties under Kokuriko's imposed darkness; the claims reveal possible insecurities without proving loved ones reject them (scene:001:u:0011-0033). Sensei argues mutual understanding can be pursued through questions/learning despite uncertainty, while Kokuriko calls it empty hope (u:0027-0037). Nagusa cannot substitute for Ayame but chooses to extend a hand and call herself her best friend; Kokuriko admits prior pressure on Ayame and reports her siding with the antagonist, without Ayame's direct reply here (u:0038-0071). Sensei agrees to witness Nagusa's risky confrontation. E027 unopened.
+
+## V005 C002 E027 relationship state delta
+
+Nagusa offers to take Ayame's chair burden rather than demand comprehension; Ayame refuses the understanding premise but accepts a formal challenge (scene:001:u:0001-0028). Ayame fears being unrecognized without office/earnestness and treats Nagusa's presence-is-enough reply as tactics (u:0029-0054). In an italic apparent aftermath Nagusa apologizes for missed distress and pledges to hold hands/share pain, while Ayame says she disliked Nagusa's crying face; this does not settle all past friendship or exclusive blame (u:0055-0071). E028 unopened.
+
+## V005 C002 E028 relationship state delta
+
+Niya/Kaho's medical rest and Sensei's visit show practical care; Niya's Shuro praise was tactical as well as genuine reading, while Shuro and other antagonists vanished (scene:001:u:0002-0052). The Ninja Club's claim that Nagusa's friendship must have prevented Ayame wrongdoing is wishful and cannot undo the witnessed crisis (scene:002:u:0011-0024). Nagusa reports Ayame physically back but asleep, declines forced awakening and stays near her without claiming to know her thoughts; shared gardening continues among Hyakka (scene:003:u:0002-0046). C002 checkpoint due.
+
+## V005 C002 canonical checkpoint reconciliation
+
+The chapter moves from isolated idealization to offered presence: Nagusa asks to take Ayame's chair burden and later waits beside her unawakened body, with no reciprocal current assent. Hyakka members share responsibility; Sensei, Ninjas and festival workers provide bounded help. Kokuriko protects Shuro from Azami, but their special tie and Shuro's future allegiance remain unknown. The E028 public created-Ayame account and friendship-guarantees-innocence reassurance do not settle original Ayame's moral or physical identity. 274/480; V006 C001 E001 next.
+
+## V006 C001 E001 relationship state delta
+
+Maia measures herself against Squad's chosen path but no member speaks or is shown with her (scene:001:u:0007-0012). Role-labeled employer/lender/boss interactions are exploitative or rejecting by represented speech, without full bargaining records (u:0017-0027). Subaru offers Maia rest, names both students and promises Arius belonging; Maia responds, but trust history and institution-wide capacity are not established (u:0046-0056). E002 unopened.
+
+## V006 C001 E002 relationship state delta
+
+The Remedial Club's familiar teasing and Koharu's boundary protests continue, with no romantic or disciplinary event enacted (scene:001:u:0001-0010,u:0049-0060). Reisa asks Suzumi to affirm her creed, and Suzumi gently corrects her; Ui and Shimiko share a chair/member study check complicated by source-label drift; Kazusa, Natsu, Yoshimi and Airi show a Sweets Club group-study attempt without outcome (u:0061-0089). Hasumi describes Justice Committee time pressure, Ichika accepts that duty and helps Mashiro approach ethics study, not resolve the disagreement (u:0109-0118). Sensei spots a privacy need; Hinata and Marie persuade Sakurako to accommodate it, a concrete collaborative correction (u:0119-0130). Two shy unnamed students ask Sensei for time without saying why. No new relationship commitment beyond what is shown; E003 unopened.
+
+## V006 C001 E003 relationship state delta
+
+The two Arius transfer students share a room, deliberated about transfer, gently correct one another and jointly ask Sensei about exams and those remaining at Arius (scene:001:u:0001-0085,u:0130-0166). They report welcoming Trinity peers and café companionship under a rural-transfer cover, while only part of the Tea Party is said to welcome them institutionally (u:0030-0044,u:0115-0123). Their concern for stayers and Squad is direct; no present reciprocal contact with either is shown (u:0130-0145,u:0194-0196). Sensei apologizes for inattention, initially startles them by reaching for their heads, slows and explains, then spontaneously ruffles their heads; B later explicitly asks him to continue. The two contacts and responses should not be flattened into general trust or general consent (u:0064-0100,u:0167-0177). His adult-role promise is relational assurance awaiting material follow-through. E004 unopened.
+
+## V006 C001 E004 relationship state delta
+
+Atsuko has Sensei's number saved, jokes with him and insists serious matters be discussed face to face with all of Squad; he first misreads her point as interception risk and then agrees (scene:001:u:0001-0042). She says Saori remains contactable and sometimes seen, reports Misaki's mixed reaction, and asks Sensei to help with Saori, which he accepts (u:0043-0062). Saori visibly joins Hiyori, Misaki and Atsuko at the ship; Hiyori clings to togetherness, while Misaki offers her temporary leadership back, without an opened durable command settlement (u:0086-0101). Saori responds empathetically to anonymous transfer students' adaptation burden, not through direct acquaintance here (u:0117-0122). The group presses Sensei on the purpose of study and only provisionally receives his answer. Nagisa enters as meeting sponsor before any reconciliation with Squad. E005 unopened.
+
+## V006 C001 E005 relationship state delta
+
+Nagisa and Squad exchange names across an old adversarial history. Hiyori panics, Misaki distrusts the undisclosed sponsor, Saori agrees to hear her out, and Atsuko steadies the group without suppressing objection (scene:001:u:0001-0043). Nagisa hosts food/tea; Hiyori visibly enjoys it, but Misaki asks why Nagisa already knows the transfers' consultation and does not accept a bare intelligence explanation (u:0044-0115). Sensei offers his own fact-check and trust request, but her concern is not conclusively resolved. Nagisa apologizes for Trinity's historic wrong; Atsuko apologizes for Squad's terror, while Saori acknowledges more owed words but defers them (u:0119-0193). Atsuko offers bounded trust because Nagisa recognizes paternalism risk; raw u:0211 attribution is unstable, so no group-wide unqualified consent follows (u:0194-0224). E006 unopened.
+
+## V006 C001 E006 relationship state delta
+
+Saori is again called leader and Squad jokes about Misaki's interim role, but Misaki directly reproaches Saori's disappearances; the command arrangement is still relational rather than formalized (scene:001:u:0001-0020). Nagisa requests Sensei teach Arius students, Saori accepts an escort role despite worry that her Arius history adds danger, and Atsuko welcomes Sensei's presence (u:0021-0049). Separately Subaru calls for applause for Maia, thanks her for returning, asks for her account and validates her exclusion rather than dismissing outside beauty (u:0050-0102). She says she would not stop Maia going to Trinity, while Maia's anxious denial and solidarity with Subaru do not settle private preference (u:0103-0112). Subaru's directed anger at Saori/Squad marks a conflict that has not yet reached the travelers; no mutual exchange or resolution occurs (u:0113-0115). E007 unopened.
+
+## V006 C001 E007 relationship state delta
+
+Atsuko and Saori consider Nagisa's indirect exam-paper route; Misaki's pay question and doubts about Tea Party show bounded cooperation, not allegiance (scene:001:u:0001-0046). Maia and two excited students coax embarrassed Subaru to play; she does, and Maia feels more fully home, adding an ordinary supportive interaction alongside Subaru's E006 resentment (u:0047-0079). Saori knows Subaru by memory but describes conversation with her as oddly misaligned; the two have not yet met here (u:0098-0115). Saori expresses fear of Sensei being harmed, begins an apology, and Sensei redirects to his report of transfers' thanks. Misaki/Atsuko keep Squad wrongdoing clear (u:0119-0151). Alarmed Arius residents voice anger and fear at Squad's reported entry; Subaru chooses an uncertain reception with safeties engaged, not a completed attack (u:0174-0215). E008 unopened.
+
+## V006 C001 E008 relationship state delta
+
+Subaru and Saori meet directly for the first time in this run; their old communication mismatch appears in Saori's premature conclusion and Subaru's angry interpretation, against residents' remembered special treatment and abandonment grievance (scene:001:u:0001-0068). Sensei's polite contact is provisional: Subaru welcomes him only for now and challenges whether his student-duty argument applies to Arius (u:0069-0099). Anxious residents wonder if they may live as students. Subaru rejects Squad's worth, orders safeties released, and Squad prepares; Atsuko says she need not remain only protected while Misaki directs Sensei back and requests command (u:0100-0132). This is open antagonism, not completed mutual trust, forced teaching or a settled exclusion. E009 unopened.
+
+## V006 C001 E009 relationship state delta
+
+Squad wins a narrow contest by Saori's account but remains resented by residents; at least one resident is reported unconscious after shots strongly implied to be Atsuko's response to insults against Sensei, and others cower (scene:001:u:0001-0033). Sensei does not address that harm before starting class in the represented text. He suddenly entrusts Squad with teaching, catching Misaki and Saori unprepared; Saori accepts, Maia questions, and residents engage unevenly (u:0034-0095). Misaki, Atsuko and Hiyori also teach, and narration notes Hiyori's strongest reception and some reduced wariness (u:0096-0149). This is local contact, not resident forgiveness or consent to the prior force. Subaru gives no spoken postclass assessment. Saori offers Sensei a rough place to sleep and asks for a private consultation, topic pending (u:0150-0157). E010 unopened.
+
+
+## V006 C001 E010 relationship state delta
+
+Saori and Sensei move from classroom praise to a requested, assented scar encounter: she touches the wound trace, apologizes and collapses crying, and he comforts her while asking for future deliberation (scene:001:u:0001-0140). This is a meaningful dyadic opening, with enduring injury and no collective Arius or legal absolution. She thanks him, asks to sleep beside him, retracts it as a joke, and privately calls it half true after leaving; no shared night or mutual romance is shown (u:0159-0175). Saori reports slightly more Arius conversation after class, but Subaru tells Maia a narrow defeat does not erase Arius hatred (u:0141-0149,u:0176-0187). Maia trusts Subaru enough to ask about food, is frightened by the mercenary account, then asks for music. Subaru says students' eating/laughter sustain her and wants a limited refuge for abandoned children, while her coercive work may also endanger others (u:0188-0303). Saori's unknown encounter at the end has no identifiable relationship yet. E011 unopened.
+
+
+## V006 C001 E011 relationship state delta
+
+Arius students accept Sensei's outing enough to follow him and sometimes obey shared-space requests; they explicitly contrast this with earlier adults' blows/threats. Their curiosity, play and attention do not retrospectively settle E008-E009 coercion or turn them into compliant enrolled pupils (scene:001:u:0102-0166). Maia feels a memory jolt; Subaru speaks for her to Sensei and asserts her prior counseling role, with Maia acquiescing but inner state not resolved (u:0041-0057). Squad is left behind because wanted status limits exposure; residents remain worried about trusting them and Misaki wishes to join. Subaru probes Sensei's conception of Squad but is interrupted (u:0067-0092). A passerby temporarily mistakes Subaru and Sensei for fellow teachers; Subaru denies it (u:0093-0101). At the park she serious-mindedly asks about giving up life, receives Sensei's non-guarantee answer, then tests whether he could be her reason; he hopes to be, without exclusivity, promise of rescue or identified immediate crisis (u:0185-0232). E012 unopened.
+
+
+## V006 C001 E012 relationship state delta
+
+Maia seeks Subaru to help a child's kitten; Subaru catches it after a gunshot, but the child cries harder and an older sister rebukes the risk. Crowd Arius stigma triggers Maia's distress. Subaru helps her stand and reassures her, while privately withdrawing from the E011 hope Sensei offered (scene:001:u:0001-0082). Arius residents credit Subaru for tea, strengthening their reported reliance without identifying a funding stream (u:0083-0088). Suzumi/Reisa greet the Arius group; A/B laugh with Reisa, whereas C/D remain silent and later say hopeful talk angers them. Suzumi worries she offended them, Sensei asks for patience, and Subaru privately validates C/D but intensifies the Trinity grievance frame (u:0091-0235). The outing closes with A affirmative and C hesitant. Mine/Serina arrive at Arius after Squad has remained there, with rescue relationship still unestablished (u:0236-0252). C001 checkpoint next.
+
+
+## V006 C002 E001 relationship state delta
+
+Sensei gathers Squad, Maia and Rescue Knights, asks Mine's team to conceal Trinity/Knights names, and Serina persuades a reluctant Mine. Mine accepts Serina/Hanae calling her 先輩 and appreciates its friendliness (scene:001:u:0001-0056). Serina worries about working with Squad; Atsuko self-calls Squad Arius outsiders, briefly teases a Hanae stay and retracts it. Maia is overwhelmed by the visitors' energy (u:0057-0081). Subaru identifies the Trinity volunteers, permits them to work discreetly if not Tea Party/Sisterhood agents and offers help, yet retains a false impression that Mine is absent after the group plays along (scene:002:u:0006-0071). Mine privately admits Arius anger unsettles her and she cannot claim full understanding. Sensei listens and shares a bounded belief/teacher ethic; she leans briefly against him for rest, without a wider relationship conclusion (u:0080-0133). Multiple people hear a trumpet-like disturbance; no aggressor relationship established. C002 E002 unopened.
+
+
+## V006 C002 E002 relationship state delta
+
+Arius students queue for Rescue Knights supplies and ask about food, clean water and kits, with gratitude but no displayed full community assent to Trinity service (scene:001:u:0001-0026). Maia challenges math's usefulness and remembers outside humiliation; Sensei apologizes as an adult, while Misaki offers a hard-edged selective-attention response and speaks of living because Sensei urged her to try. She also rebukes his tempting hope, and their lifetime quip is rejected rather than accepted as a pledge (u:0027-0086). Saori shares a gentler possible reading of her old futility phrase, with an explicit chance that reconciliation never comes; Squad reacts supportively (u:0087-0098). Subaru, Mine and Squad respond to sudden visible entities, with Mine promising protection and Saori defending Arius as alma mater; no joint combat outcome or trust repair yet (u:0099-0130). C002 E003 unopened.
+
+
+## V006 C002 E003 relationship state delta
+
+Misaki tries to move Atsuko back, Mine warns others, and Squad/Knights cry out in the first represented impact, with injuries unexamined (scene:001:u:0001-0012). Mine's encounter with anonymous historical/child voices changes her private view of Arius anger, but no Arius student's own new testimony or consent to her services is shown during this passage (u:0013-0072). She recalls Sensei's real belief answer, rejects a false memory that he commanded belief, and uses an imagined Sensei encouragement to formulate her own smaller rescue promise; this is her inner relation to him, not a new shared dialogue (u:0073-0132). By revealing Rescue Knights/団長 she alters the public relationship under E001's cover, but no response from Arius residents or battle outcome follows yet (u:0133-0137). C002 E004 unopened.
+
+
+## V006 C002 E004 relationship state delta
+
+Serina/Hanae urgently care for collapsed Mine and disclose captain/order labels to residents; student B recognizes Mine from Madam's departure and reacts with fear (scene:001:u:0001-0015). Sensei/Squad prioritize passage for the Knights; Subaru allows it for now despite conflict, a bounded cooperation. Sena joins by Sensei's call and coordinates planned transport with the Knights, without completed arrival (u:0042-0080). Mine's brief awakening turns toward Sensei: she credits his words for return, asks him to keep Arius students' ordinary life intact and receives his promise. She lapses again (u:0081-0145). A retrospective shows Nagisa's personal request to Mine, including Mine's frank discomfort with Tea Party pressure but lack of personal animus; this refines rather than erases Trinity–Arius legitimacy tension (u:0102-0129). Atsuko/Saori share a grave but explicitly provisional angel/world-end reading with Sensei (u:0151-0156). C002 E005 unopened.
+
+
+## V006 C002 E005 relationship state delta
+
+Subaru convenes residents, shares her own uncertainty and asks them to report trumpet hearing, then voices an unproved Trinity/Sensei cause. Students split in their relationship to Sensei's lessons: C/D resent them and Squad, while A/B value being heard or studying instead of violent training (scene:001:u:0001-0124). Maia challenges the blame, but her hopeful answer rests on asking Sensei; angry students call this outside influence and demand Subaru prove allegiance. They directly articulate pain at Saori/Squad leaving despite their former admiration (u:0125-0190). Subaru asks Maia's hearing status, apologizes, orders her escorted out of the basilica and bars return there, then dismisses others and stays with Maia. Maia begs not to be abandoned and Subaru sobs, without a clear reconciliation or final motive (u:0191-0233). The command damages trust even if a protective reason may later emerge; all-Arius exile is not shown. C002 E006 unopened.
+
+
+## V006 C002 E006 relationship state delta
+
+Misaki pushes back against Sensei's reassuring language; Atsuko refuses to let him bear sole responsibility and proposes shared thought about Squad's future (scene:001:u:0001-0024). Residents C/D resent his class notice, while D still considers bringing Maia a blanket; Subaru's stern sleep order suppresses that care and the group follows her toward Porta Pacis despite A/B's concern over missed lessons (u:0049-0088,u:0165-0179). Maia, isolated and despairing, turns toward Sensei. He gives practical comfort and a place to sleep without extracting her account; she cries, sleeps and remains at the next class (u:0089-0164,u:0180-0184). This establishes a bounded night of trust, not a settled repair with Subaru or a permanent care arrangement. Sensei calls Subaru without an answer (u:0185-0190). C002 E007 unopened.
+
+
+## V006 C002 E007 relationship state delta
+
+Atsuko deliberately lowers Maia's princess distance, asks to be called by given name and initiates a handshake; Maia's hesitant honorific shows the hierarchy is not instantly undone (scene:001:u:0034-0044). Squad question Atsuko's previously unshared information; she apologizes and Saori judges disclosure may have endangered them, leaving its exact source unresolved (u:0045-0052). Sensei recruits Ui/Shimiko as knowledge partners; Shimiko's offer of magazine records gives Hiyori a concrete welcome and Sensei vouches for Atsuko's former Royal Blood identity before Ui speaks (u:0053-0097). Ui and Atsuko contribute differing partial histories without displaying records; this is cooperation under acknowledged archival limits, not reconciled institutional trust. Atsuko speculates Subaru found something; direct Subaru response absent (u:0159-0170). C002 E008 unopened.
+
+
+## V006 C002 E008 relationship state delta
+
+Maia says she heard trumpets and thinks Subaru did not, but becomes distressed when asked about her overnight arrival. Sensei signals waiting, Hiyori recommends speaking to a trusted person and offers privacy, and Ui/Shimiko offer to suspend their call (scene:001:u:0119-0163). Maia instead asks the group to hear her, checks with Sensei and recounts last night in narration; listeners respond with sympathy, without a printed account of every event (u:0164-0193). This is her chosen audience, not compulsory disclosure or guaranteed repair with Subaru. Ui's conjecture identifies hearers as potentially open to outside knowledge, and Shimiko warns others might mark them enemies; neither social division nor supernatural selection is confirmed as causally proven (u:0194-0238). At the gate Subaru tells residents to fortify and goes forward alone; fear and obedience coexist, but no completed encounter follows (u:0088-0118). C002 E009 unopened.
+
+
+## V006 C002 E009 relationship state delta
+
+D/C return to Subaru after fortifying, ask her to name a group that can stand beside Squad, and accept ニコメディアトゥループ without understanding its meaning. She yields to their request while limiting the name to those gathered (scene:001:u:0036-0065). Maia fears Sensei cannot be forgiven, but he insists on speaking; she reads future possibility and wants to emulate both him and Subaru despite the prior-night exclusion (u:0066-0080). Saori doubts Maia's Subaru loyalty; Misaki describes Subaru's unconscious influence over followers, and Atsuko acknowledges her work while judging effort insufficient. Squad affirms Saori as their leader (u:0081-0090). These are voiced evaluations rather than closure of Maia–Subaru trust or a meeting between leaders. Subaru's later anonymous voice encounter has no identified relationship partner (u:0119-0139). C002 E010 unopened.
+
+
+## V006 C002 E010 relationship state delta
+
+Saori directly states she seeks conversation despite residents' resentment, but defenders construe Subaru's order as barring entry and the contact escalates to gunfire; neither side gets a face-to-face meeting with Subaru (scene:001:u:0001-0025). Subaru tells C/D that talk is a tactic and reinforces anti-Sensei blame, then privately says she lied and should apologize; no apology or precise lie target is shown (scene:002:u:0015-0035). Her nest ethic and private admission that she drove Maia away coexist with judgment that Sensei/Squad threaten the home. This narrows her responsibility but does not repair trust (u:0036-0057). A/B doubt the clash and recall Sensei's goodness despite continuing defense (u:0072-0077). The voice offering force is unidentified, so no stable relational tie to it is modeled (u:0064-0071). C002 E011 unopened.
+
+
+## V006 C002 E011 relationship state delta
+
+Misaki and Atsuko insist Arius peers under entity attack cannot be abandoned, and Saori leads defense even after conflict with the gate guards; the fight yields retreat rather than victory (scene:001:u:0009-0023; scene:002:u:0001-0010). A/B reach Sensei through a white-flag MomoTalk lead, ask after Maia and thank him for her shelter. Their route offer reciprocates his aid and their mixed lesson appraisal while they continue to value Subaru as the senior who held residents together (scene:002:u:0011-0059). The group descends to Subaru despite warnings and experiences of pressure. She recognizes Sensei's purpose but asks to move first; contact is restored, not repaired trust, forgiveness or a resolved Maia relation (u:0060-0086). E/F and A/B remain local anonymous roles. Chapter 2 checkpoint next.
+
+
+## V006 C003 E001 relationship state delta
+
+Subaru confronts Sensei over differential care for Mika/Squad versus Arius stayers, while his recollection shows two interim Tea Party representatives asking him to let Trinity handle its own affairs. Their claimed mandate and Sensei's affirmative answer are unseen (scene:001:u:0016-0043). Subaru grants he may have little direct blame but says his trust left returnees unseen and refuses to forgive a possibly innocent person. She asserts Arius autonomy yet voices a collective rejection of outside lessons despite documented resident disagreement (u:0044-0093). She offers a conditional no-harm pledge if Sensei takes Squad away forever; neither agrees on page. Saori asks about the path's endpoint, keeping dialogue open at the cutoff (u:0094-0116). Maia is not directly addressed in the demand, so her belonging remains unresolved. C003 E002 unopened.
+
+
+## V006 C003 E002 relationship state delta
+
+Saori admits she was Arius's strict instructor and Subaru the kind centurion, validates Subaru's lost-children care, then asks where her method leads. She offers an insider appeal to see alternatives rather than an outside order (scene:001:u:0001-0049). Sensei's earlier equal-talk/chance lines return in Saori's inner account; no new Sensei speech in this scene produces her change (u:0050-0059). Subaru invokes Squad's flight and resents Saori's plan to surrender as a moral posture that erases stayers. Saori accepts past wrongdoing but says her life is now precious. Subaru hears that against her own nest burden and becomes volatile; no forgiveness or mutual agreement occurs (u:0060-0139). Squad place Sensei behind them as danger rises (u:0140-0151). C003 E003 unopened.
+
+
+## V006 C003 E003 relationship state delta
+
+Saori/Squad worry over her harm while residents react to a darkening sky and sound, but no resolution of their clash with Subaru follows (scene:001:u:0001-0020). Saori's call seems not to reach Subaru. Maia's direct “Subaru senior” call draws a startled reply about where she has been, although she accompanied the group. Atsuko interprets this as Subaru refusing to look at Maia, a relational charge rather than proof of literal invisibility (u:0021-0033). Atsuko then rejects Subaru's exclusive claim to be Arius, labels her a trumpet phenomenon and says she will explain; no mutual acceptance or Maia–Subaru repair is shown (u:0034-0040). C003 E004 unopened.
+
+
+## V006 C003 E004 relationship state delta
+
+Atsuko thanks Saori, Sensei, Misaki and Hiyori for giving her a self beyond sacrificial Royal Blood symbolism, then confronts Subaru with privileged knowledge rather than letting Subaru alone speak as Arius (scene:001:u:0001-0033). She judges Subaru's Maia exclusion a loss of legitimacy and calls Maia's turn to Sensei consequential, without establishing the supernatural counterfactual (u:0049-0064). Subaru's faint response suggests she hears some appeal but no repair is confirmed. Hiyori prompts Maia to speak. Maia says she still loves and trusts Subaru along with Arius and Sensei, yet corrects that not everything is okay and asks for help to make Arius a better school (u:0065-0090). Her attachment does not cancel the earlier injury; Subaru's answer remains unopened. C003 E005 next.
+
+## V006 C003 E005 relationship state delta
+
+Maia gives Subaru her dropped harmonica and asks to hear her again someday. Subaru inwardly faces unwanted consequences but disappears before accepting Maia's E004 request (scene:001:u:0001-0012). Residents' Subaru-like third-figure report prompts Sensei and Squad to seek her; it is not a direct Subaru answer (u:0013-0022). Atsuko finds a way to address Subaru during an apparently prayer-like gesture, acknowledges Trinity harm, invites her to share the burden and seek Sensei's help. Subaru answers with a collective demand for judgment, refusing reconciliation on those terms (u:0050-0087). Atsuko asks Sensei and Maia to join an Arius-style intervention; both agree, but no resulting repair or coercive action is shown (u:0088-0094). C003 E006 unopened.
+
+## V006 C003 E006 relationship state delta
+
+The retrospective shows Subaru and Saori as argumentative mission partners from first year, with Subaru challenging Saori's speed doctrine and later doing care work for students affected by her training. Saori thanked Subaru, despite sparse emotional expression (scene:001:u:0001-0057). Subaru wakes near Sensei and weeps; he waits, hears her self-reproach, acknowledges her effort and does not promise success (u:0058-0111). Saori, Misaki, Hiyori and Atsuko invite her into a shared future. Maia answers Subaru's muddy-clothes resignation with a limited appeal to avoid further harm, which Subaru accepts; this is a small repair, not a completed reconciliation or school reform (u:0112-0135). Serina/Hanae are relieved as Mine wakes; Serina first prioritizes rest while Mine insists on the exam (u:0136-0149). C003 E007 unopened.
+
+## V006 C003 E007 relationship state delta
+
+Serina asks whether Subaru hates Trinity caregivers; Subaru thanks them for real care while requesting time for Arius students to sort old distrust. Serina accepts the discomfort without insisting on instant affection (scene:001:u:0016-0037). Mine and Subaru discuss past/future Arius, then Mine pushes study; Maia models willingness and Subaru says she may learn from Maia, reversing the old mentor flow (u:0038-0071). Trinity student A/B praise Arius transfer A/B's CQB expertise and invite them to lead a new study club; the latter are startled and one tentatively greets the group, with office consent uncertain (u:0072-0097). Maia asks Subaru about a self-made nest and Subaru agrees to try, not to a guaranteed reform (u:0098-0105). C003 E008 unopened.
+
+## V006 C003 E008 relationship state delta
+
+Sensei praises Nagisa's labor. She offers educational space for Arius and describes a Trinity she wants students to treasure, crediting his prior lesson (scene:001:u:0001-0056). He apologizes for distrusting and speaking harshly to her; she says her remedial-group responsibility remains but his exceptional severity hurt. She asks him to turn, leans against his back, then proposes mutual care and a limited no-reopening pact over tea (u:0057-0101). She welcomes his report on interim representatives and contemplates improving Mika's treatment, but neither action occurs (u:0102-0126). Private teasing and interruption by Mika/Seia end in a present four-person tea. Mika/Seia spar warmly while Nagisa worries about what they heard; Seia's relationship to Sensei includes a joking rebuke (u:0127-0182). No durable political reconciliation proven. C003 E009 unopened.
+
+## V006 C003 E009 relationship state delta
+
+Konoka speaks informally with Saori in custody, tests her regret, announces all-Squad parole and warns that it is not innocence. Saori accepts responsibility but is uneasy about the lenient-seeming result; Konoka rejects her severe halo pledge (scene:001:u:0001-0086). Hina's own petition followed Sensei personally asking her, despite anger over his injury; her passage is not proof she appeared in the interview (u:0061-0071). Hifumi and peers welcome Arius students for study. Azusa and Maia are pleased to meet again, but Azusa refuses to impersonate her at the exam. Hanako helps after Koharu's bluff fails and teases her; Atsuko/Hanako mutually choose friendly ちゃん address while explicitly not being old acquaintances (u:0087-0161). Sensei resumes teaching and handles student avoidance humor; no grade outcome (u:0162-0209). C003 E010 unopened.
+
+## V006 C003 E010 relationship state delta
+
+Subaru tells Sensei she still resists exams but will trust Arius students' voices and him; Sensei thanks her and Maia, acknowledging that teacher confidence also depends on student trust. He sees students off, awaits them, then hosts a celebratory outing before results (scene:001:u:0019-0086). Maia struggles to address Atsuko without 姫様, and Atsuko welcomes the less-ranked name. At tea Atsuko asks Subaru/Nicomedia to take public-order duty; Subaru queries the freedom to decline, criticizes the phrasing, accepts, and ultimately pledges maximum cooperation despite risk (u:0087-0205). Atsuko attributes Mine's endurance to conviction but evades Subaru's criticism of harmful rescue (u:0206-0241). Hiyori/Maia bond over near-fail marks, while Saori calls Sensei a benefactor after full-mark self-report (u:0254-0293). Chapter checkpoint next.
+
+## V100 C001 E001 relationship state delta
+
+An unidentified voice addresses Sensei directly and commands him to forget earlier stories, but Sensei does not answer and no relationship history or physical encounter is shown (scene:001:u:0001-0019). The speech cannot be attributed to an existing adversary or allied group on this evidence. Prior relation states from V006 C003 checkpoint remain the current supported ones. V100 C001 E002 unopened.
+
+## V100 C001 E002 relationship state delta
+
+Kuzunoha addresses Seia as a fellow prophet, offers a painful bargain and says not to seek her after returning; Seia accepts while feeling she has no other choice. Their actual ongoing relationship is not shown (scene:001:u:0036-0049). Gematria members dispute Beatrice's rite and Sensei's place in their plans; she turns blame on Sensei, then confesses signaling Color, straining the meeting without a resolved response (scene:002:u:0035-0067). Sensei fears Arona was hurt and checks her; she reassures him and pledges protection. Seia shares a fatal vision without knowing timing (scene:003:u:0002-0032). Rin challenges the evidentiary weakness but agrees to investigate partly out of trust in the president's appointment of Sensei; she retains an address boundary around リンちゃん (scene:004:u:0002-0021). E003 unopened.
+
+## V100 C001 E003 relationship state delta
+
+The Abydos committee debate trespass versus asking Sensei. Ayane fears burdening him, while Serika/Nonomi insist he can choose; Ayane plans contact. Shiroko reports he recently initiated a safety check (scene:002:u:0002-0033). The Game Development Club debates genre, welcomes Alice's reported normal check and worries about Key; Alice's exaggerated threat is in a play register. The hidden Key/Kei passage addresses her as Alice and chooses to watch, but she does not know of it on page (scene:003:u:0002-0050). Himari scolds absent Rio through her data, Eimi probes the warning, and Toki reports Rio's release to freedom plus C&C seniors' kindness while feeling unsure. Himari accepts Toki's volunteered help and intends Schale contact (scene:004:u:0002-0053). E004 unopened.
+
+## V100 C001 E004 relationship state delta
+
+Sakurako speaks to an absent Justina predecessor with uncertain regret/responsibility questions, then asserts Sisterhood succession; no direct relation to a current Arius leader appears (scene:001:u:0002-0021). Mika accepts the hearing outcome without objection, but the gate crowd protests and dehumanizes her; Azusa says Mika's reported rescue of Atsuko/Squad removes her personal reason to hate and rejects many-on-one aggression (scene:002:u:0002-0017; scene:005:u:0002-0035). Hifumi/Azusa share intense Peroro interest, with Hanako/Koharu pulled into a harmless viewing trip that yields a wrong item (scene:003:u:0002-0043; scene:004:u:0002-0022). Sweets-club peers rally after Airi is pushed, with Natsu/Kazusa/Yoshimi confronting protesters as Ichika/Justice move to stop fighting; their final custody/injuries unknown (scene:005:u:0046-0127). E005 unopened.
+
+## V100 C001 E005 relationship delta
+
+Miyako offers continuing civic help to the shop proprietor, who reciprocates with fresh food; this is one local service/gift encounter, not an established dependency (scene:001:u:0007-0030). Squad members share the meal and prospective cider; Moe/Saki deny needing Sensei, while Miyu asks for occasional contact, leaving their collective stance mixed (scene:002:u:0002-0029). Kaya's caller is unheard and cannot be assigned a relationship (scene:003:u:0002-0007). Beatrice breaks with Maestro, Golconda and Black Suit over Color and absolute power; Black Suit withdraws Gematria membership and Golconda attacks at his request, but the group's future and her location/fate are not shown (scene:004:u:0002-0035).
+
+## V100 C001 E006 relationship delta
+
+Rin's dream presents the missing president as someone who called her リンちゃん despite her formal protest; it is remembered/dreamed relation, not present contact (scene:001:u:0001-0018). Ayumu attends Rin's fatigue and fears institutional backlash; Momoka reports the data and dreads workload while remaining present (scene:002:u:0002-0044). Aoi disputes Rin's mandate sharply but acknowledges her ability and asks her to sleep, so opposition does not erase concern (u:0045-0079). Kaya offers solidarity and a Schale/Sensei route while an unseen private addressee remains unknown; Rin accepts her contact/escort offer, no Sensei interaction yet (u:0086-0106).
+
+## V100 C001 E007 relationship delta
+
+Nagisa distrusts Rin's council but Seia wants to talk with Sensei; Mika promises restraint partly because Sensei is expected. Iroha questions Makoto's opaque plan; the unnamed Genryumon master answers a subordinate and chooses observation (scene:001:u:0001-0049). Arona conveys Rin's brief, accepts Sensei's thanks and continues research; two Kaiser PMC soldiers exploit his apparent council/Valkyrie trust and seize him (u:0050-0080; choice:001-004). Kaya and Kaiser General are direct conspirators for the abduction, then split: she wants Schale dissolved and he says Kaiser does not. The Kaiser President directs the General's corporate takeover; the General orders Kaya hidden and Sensei confined/shot, but transfer/injury remain pending (u:0081-0111).
+
+## V100 C001 E008 relationship delta
+
+Hoshino and Nonomi disclose to Ayane/Serika that Shiroko lacks earlier memory, while Nonomi had hesitated to tell the story; no Shiroko consent or response to disclosure is shown (scene:001:u:0012-0023). The team repeatedly warns Shiroko against a solo desert detour, and she promises distance/safety but continues. Hoshino, Nonomi, Serika and Ayane escalate from worry to calls; Shiroko briefly reconnects silently, leaving their knowledge limited (u:0024-0040; u:0065-0085). Arona tells Sensei she protects him and urges escape, then senses an approach; Sensei calls for her after apparent Chest power trouble, with communication state unverified (u:0041-0064). PMC captors continue coercion, but no shot wounds him in the printed scene.
+
+## V100 C001 E009 relationship delta
+
+Kanna reaches and frees Sensei, whose choices recognize her and notice her wound; she minimizes pain but relies on Kirino/Fubuki to escape immediate guards (scene:001:u:0015-0064; choice:001-007). She refuses to command their rule-breaking as though risks were equal, apologizes and accepts Fubuki's doughnut joke, while Kirino avows justice (u:0065-0083). Rin urgently orders Momoka to search for Sensei but continues the committee; Kaya is also missing to them (u:0084-0099). Sakurako and Seia each want Sensei for undisclosed concerns, while Makoto mistrusts the council and walks out. Aoi challenges Rin with suspicion and a formal vote; no proof of Rin's collusion is shown (u:0100-0155).
+
+## V100 C001 E010 relationship delta
+
+Aoi and Rin remain at odds yet agree to speak the next day; Aoi dismisses Momoka/Ayumu and Rin apologizes to them, leaving her alone when Kaiser enters. No evidence Aoi collaborated with Kaiser is printed (scene:001:u:0001-0032). Kaiser President directs General and asserts control over Rin/council, but Rin's later personal custody is unshown (u:0033-0043). Kanna returns Sensei's devices, credits his teaching and praises Kirino/Fubuki's justice; he inwardly affirms Kanna's present principles despite her shame (u:0064-0077). Arona reconnects in distress and Sensei offers reassurance/care before proposing renewed command; no broader device-control relation is proven (u:0078-0087).
+
+## V100 C001 E011 relationship delta
+
+Fubuki recognizes Sensei's command but argues the group needs reinforcement; Kirino considers the wounded member and initiates combat when discovered (scene:001:u:0001-0006). After survival, Fubuki again voices material concern. Kanna returns to movement and orders everyone out, continuing with Sensei, Kirino and Fubuki rather than leaving them here (scene:002:u:0001-0005). No new long-term bond or command hierarchy is established.
+
+## V100 C001 E012 relationship delta
+
+Sensei thanks Arona for a costly brief connection. Rabbit Squad responds to his request despite Saki/Moe's prideful disclaimers; Miyu observes their rush and Miyako states the rescue directly, strengthening the squad–Sensei support relation without a formal dependency claim (scene:001:u:0001-0014; u:0029-0033; choice:001-002). Miyako greets Kanna with thanks for prior help, and Kanna is surprised the park squad can operate. Miyako asks Life Safety members to follow her tactical direction and Kirino/Fubuki agree, a local alliance for escort rather than institutional merger (u:0041-0057).
+
+## V100 C001 E013 relationship delta
+
+Miyako credits Kanna for saving Sensei and the squad shelters wounded Kanna; Moe's confidence in spontaneous recovery is reassurance, not a health report (scene:001:u:0001-0008). Public Security A/B/C choose to help Kanna/Sensei despite no command, and B says aiding Kanna suffices; no legal protection is shown (u:0071-0079; scene:002:u:0014-0017). Sensei asks Miyako to command while he supports, and she accepts. Sora recognizes/helpfully offers food to the rescuers, with a tag seam around recognition (scene:001:u:0080-0083; scene:002:u:0003-0009). Momoka/Ayumu supply Rin's room lead and ask Sensei to rescue her; he agrees, without reunion yet (scene:002:u:0024-0034).
+
+## V100 C001 E014 relationship delta
+
+Black Suit, Maestro and Golconde continue cooperative inquiry after Beatrice's removal, yet their reported projects and forecasts remain self-interested. Black Suit declines concern for Kaiser's OOPArt and doubts the corporate President's control (scene:001:u:0001-0020). Sensei reaches Rin; she tolerates his old nickname because only he now uses it, Ayumu is relieved, and Rin blames herself. This is direct reunion without proven health or authority recovery (scene:002:u:0006-0014). Miyako/Saki confront General; Miyako relies on Rabbit4 and Miyu fires before a printed result. The General's final status and group safety remain unknown (u:0015-0025).
+
+## V100 C001 E015 relationship delta
+
+A flood of unsent-to-Sensei-now-delivered messages shows Seia, Sakurako, Trinity, Millennium, Rin and Abydos trying to reach him during disappearance; their accounts reflect concern and separate information needs, without a shared meeting (scene:001:u:0009-0022). FOX seniors coordinate to secure Kaya and an unidentified item; Yukino expects to ask Kaya after she wakes, not that they have her full trust or knowledge (u:0029-0040). Francis says he and Decalcomanie will watch Sensei and assaults his role in words; Sensei inwardly refuses. Arona accepts Sensei's request to contact all known students and reports doing so, while responses remain unshown (u:0041-0080).
+
+## V100 C002 E001 relationship delta
+
+Yuuka and Noa divide immediate work while Rio remains missing by their report; Hanako asks differing Trinity factions to cooperate, and PS68 receives Sensei's contact (scene:001:u:0001-0020). On Schale's roof Black Suit gives Sensei his account of Color, Anubis and Plenapates, and Sensei says they will stop the towers. This is adversarial information exchange, not acceptance of every claim. Black Suit warns Sensei not to overuse the adult card after it is drawn; no card expenditure or aid from him appears (scene:002:u:0002-0042).
+
+## V100 C002 E002 relationship delta
+
+The flashback shows Hoshino/Nonomi's first Shiroko care, including the scarf; the present shows Hoshino's search urgency and Nonomi persuading her toward joined action, not diminished concern (scene:002:u:0002-0047). Kayoko comes on Sensei's request; Hanako supports Ayane's hope of finding Shiroko, with a self-introduction tag seam (u:0048-0100). Tea Party members promise local protection together, and Sena's joking request for Chinatsu to return to Emergency Medicine is directly retracted as a joke amid a serious aid commitment (scene:007:u:0012-0030). District actors pledge cooperation under Rin's coordination and Sensei oversight, while actual execution and trust durability are open (u:0031-0062). Kaho/Niya share tentative lore with Seia, who seeks Kuzunoha for students affected by Color; no meeting with her results (u:0063-0117).
+
+## V100 C002 E003 relationship delta
+
+PS68 volunteers the risky Abydos decoy with the Abydos team; Kayoko's correction of Haruka keeps group survival explicit, while Nonomi consents to use of the old train without giving the full family/company story (scene:001:u:0001-0033). Nel and Tsurugi's role rivalry draws C&C/Justice allies into an unnecessary fight; Yuuka makes them decide by a quick game for timetable reasons, with no later bond or final role shown (u:0034-0101). Rabbit and Game Development meet at Slumpia, Hina praises Miyu's ability amid tag errors and Alice tells Hina Sensei calls her reliable. Yuzu is encouraged by Midori/Momoi and acknowledged as lead by Miyako (u:0102-0160). These are first-team trust overtures, not battle-tested cohesion.
+
+## V100 C002 E004 relationship delta
+
+Saori reunites with Arius Squad, receives teasing/concern and joins their intention to answer Sensei, while prior estrangement is not fully resolved by one meeting (scene:001:u:0001-0029). Yuuka/Noa recall Koyuki and press her disputed responsibility; Noa's intimidating precision is Koyuki's situated report, not a complete relationship model (scene:002:u:0002-0045). Juri/Fuuka serve evacuees, and Gourmet's practical food help elicits Fuuka's explicit thanks despite her rejection of Haruna's easy friendship framing (scene:003:u:0002-0035). Hifumi/Azusa plan a Peroro film after patrol, with prior combat boast unaudited; Niya/Kaho entrust ninjas with a discreet search and Sensei asks for contact if found, not proof the chair trusts them (u:0039-0128).
+
+## V100 C002 E005 relationship delta
+
+Rin, Ayumu and Momoka jointly brief Sensei on command and risk; Sensei thanks them, while Rin insists the hard work remains (scene:001:u:0001-0015; choice:001). The assembled group answers Sensei's inward readiness call, a coordination scene rather than proof all individual bonds or later compliance are stable (u:0016-0020). Local defenders and attackers remain assigned distinct responsibilities from E002-E004.
+
+## V100 C002 E006 relationship delta
+
+Ayane coordinates Abydos and PS68 by rendezvous/railway roles; Kayoko receives Aru's go-ahead to start the train while Mutsuki/Aru answer the apparent interruption (scene:001:u:0001-0016). This shows command cooperation at launch, not completed rescue or proof of durable trust under the coming fight. No Sensei interaction in this short unit.
+
+## V100 C002 E007 relationship delta
+
+Shun directs Kokona to guide civilians and Kokona accepts. Rumi greets Kisaki with surprise; Kisaki offers an executive-chief dispatch to thin defenses, and Genryumon students obey her order (scene:001:u:0001-0015). These are crisis coordination contacts, without the executive's arrival or proof of district-level mutual trust. The two student labels cannot be identified with the earlier V100 C001 E007 subordinate.
+
+## V100 C002 E008 relationship delta
+
+Tomoe expresses concern for absent Cherino and Shigure asks Nodoka about her; Nodoka thinks she has not reached the shelter, so none has direct current contact with her here (scene:001:u:0005-0007/0014-0018). Nodoka provides a shelter route, while Momiji/Meru share book plans under tag seams (u:0007-0013). The charge participants share slogans, not individualized ties or a combat result.
+
+## V100 C002 E009 relationship delta
+
+Eimi checks front and parachute teams; Tsurugi's side responds ready, while Akane/Karin/Nel report C&C progress and willingness to begin (scene:001:u:0001-0011). This is operational cooperation after E003 rivalry, not proof of lasting interpersonal repair. The Tsurugi self-address line may represent Ichika but cannot secure a personal support-pattern claim.
+
+## V100 C002 E010 relationship delta
+
+Kaho leads mixed Hyakki participants into defense; Tsubaki/Chise/Fina/Chimimouryou answer. Shizuko and Umika coordinate festival-committee shelter support (scene:001:u:0001-0009). Shared mobilization does not prove lasting faction reconciliation or actual rescue results.
+
+## V100 C002 E011 relationship delta
+
+Ako presses Prefects to act without Hina; Iori asks her location and Chinatsu inwardly offers a more charitable interpretation of their reputation (scene:001:u:0001-0010). Ako/Satsuki spar over Pandemonium, but Sena directly credits Satsuki's evacuee guidance. Satsuki denies joining the battle, offers a failed hypnosis encouragement, and Ako launches defense (u:0011-0043). The scene shows bounded cross-faction aid, not resolved rivalry.
+
+## V100 C002 E012 relationship delta
+
+Midori cautions Alice, Saki questions the forward pair and Miyako voices confidence; this is team concern rather than proof they are safe (scene:001:u:0001-0005). Kotori's technical praise and Alice's `UZQueen` framing support Yuzu before a mission she finds pressuring. Utaha pulls Kotori back to analysis while Yuzu launches (u:0006-0021). No outcome-level trust test appears.
+
+## V100 C002 E013 relationship delta
+
+Justice and old-library staff coordinate evacuation despite Ui's discomfort; Suzumi/Reisa and After School Sweets offer help when attackers appear (scene:001:u:0001-0030). Nagisa/Seia support Hasumi rather than override her, and Seia cautions Mika after a radio assurance (u:0031-0050). These are immediate protective contacts, not proof of eventual safety or repaired prior faction tensions.
+
+## V100 C002 E014 relationship delta
+
+Mika hears Koharu is trapped and intervenes; Koharu directly says Mika saved/helped her, and Hasumi thanks her for that act while student bystanders still accuse her (scene:001:u:0019-0031; scene:002:u:0001-0020). Koharu's `dear friend` designation comes from Mika in a label-shift zone but is contextually clear. Justice takes Koharu onward; the event supports local gratitude, not comprehensive trust restoration or exoneration.
+
+## V100 C002 E015 relationship delta
+
+Saori anticipates Hanako's distrust, but Hanako accepts Arius Squad for rear defense because they answered Sensei and share an unnamed important friend; Saori understands while Misaki/Hiyori react with surprise/anxiety (scene:001:u:0007-0024). This is a bounded cooperative assignment, not blanket amnesty. Mine/Marie offer Hanako support; Sakurako's attire draws Hinata/Marie/Hanako reactions under major label drift, leaving any long-term relationship shift open (u:0001-0006/0025-0059).
+
+## V100 C002 E016 relationship delta
+
+Utaha, Sumire and Engineering/Veritas staff join Millennium defense while Hibiki notes overload. Himari denies operating the unexpected AMAS but accepts its apparent help, without identified source or established trust in it (scene:001:u:0001-0014). No individualized AMAS bond follows from a machine label.
+
+## V100 C002 E017 relationship delta
+
+Yuuka/Noa praise Koyuki's solved cipher yet insist she join the Hod/barrier task over her protest, a situational coercion/need tension rather than proven renewed trust (scene:001:u:0001-0018). Chihiro challenges Kasumi's demolition purpose; Kasumi openly centers hot springs while Kotama doubts the site's geology (u:0019-0036). Engineering/Veritas and Hot Spring Club cooperate only with a divergent goal visible.
+
+## V100 C002 E018 relationship delta
+
+Ninjas recommit to Sensei's request while surrounded; Makoto/Iroha/Toramaru intervene because Ibuki asked to protect her admired ninjas, by the participants' accounts (scene:001:u:0001-0061). Ibuki says the earlier pudding grievance is past; the ninjas thank her and she offers remote encouragement, with no injury by their report. Makoto/Iroha depart while the ninja club continues (scene:002:u:0001-0025). This is a bounded rescue/repair, not general institutional alliance.
+\n+## V100 C002 E019 relationship delta
+\n+Gourmet Research invites Hifumi/Azusa to Shiratori defense; the unusual Kaitenger team assists and exits before their identities are understood (scene:001:u:0010-0033; scene:002:u:0001-0006). Toki follows Himari's new coordinates and thanks her for suit work. Eimi offers help, but Toki says she is used to fighting alone; Eimi and Himari then discuss possible longing for C&C and guilt over Rio orders (u:0007-0032). Their concern is shown; Toki's private motive and renewed C&C standing remain unconfirmed.
+
+## V100 C002 E019 relationship delta
+
+Gourmet Research invites Hifumi/Azusa to Shiratori defense; Kaitenger assists and exits before their identities are understood (scene:001:u:0010-0033; scene:002:u:0001-0006). Toki follows Himari's coordinates and thanks her for suit work. Eimi offers help, but Toki says she is used to fighting alone; Eimi/Himari discuss possible C&C longing and guilt over Rio orders (u:0007-0032). Concern is shown; Toki's private motive and C&C standing remain unconfirmed.
+
+## V100 C002 E020 relationship delta
+
+Valkyrie student B takes front-gate duty and asks others to hold the rear; delinquents and Love's Helmet Gang step in, while Wakamo pledges personal protection to Sensei (scene:001:u:0009-0022). This is situational aid without shown trust repair or battle outcome. Rin directs the imminent countdown and Sensei affirms her request (scene:002:u:0001-0006; choice:001), supporting their procedural cooperation only.
+
+## V100 C002 E021 relationship delta
+
+Rin and Momoka share the sky observation in Sensei's presence; Sensei internally questions both success and a Shiroko sighting (scene:001:u:0001-0005). The Shiroko-tagged figure does not speak or interact. No renewed Sensei/Shiroko relationship state, identification history or motive can be inferred from this silent appearance alone.
+
+## V100 C003 E001 relationship delta
+
+Nagusa first points a gun at the ninjas by mistake, then denies her office, becomes distressed when Michiru challenges the disguise, self-identifies and gives them an old scroll for Sensei while asking secrecy (scene:001:u:0013-0090). The exchange is contact and a bounded entrusted task, not trust restoration or successful Ayame contact. Shiroko-tagged speaker tells Sensei to leave because she does not want to hurt him, even while asserting a death-guiding role; Sensei pursues her despite Rin's warning, and Ayane recognizes her (u:0091-0129). Her identity relation and future conduct remain open.
+
+## V100 C003 E002 relationship delta
+
+Seia and Abydos students discuss Shiroko without a complete mechanism; Seia/Serika reject blame, Ayane is distressed and Nonomi asks about restoration (scene:002:u:0002-0026). Sensei apologizes, Rin reassures him and then blames herself; Hoshino redirects both toward retrieving Shiroko and preventing another victim, with Nonomi/Ayane joining (u:0053-0099). This is situated solidarity and a rescue plan, not proof of cure, full absolution or a tested capture method. Black Suit frees Maestro pending possible recall as Gematria dissolves (scene:001:u:0019-0031).
+
+## V100 C003 E003 relationship delta
+
+Himari asks Chihiro/Veritas to hack Rio's Eridu missile and Engineering assists despite reluctance; after the pass-through, Himari criticizes absent Rio and Yuuka objects to treating her as gone (scene:001:u:0007-0020; scene:002:u:0002-0023). Hanako brings Sisterhood, library and Tea Party interpretation to Millennium, with explicit uncertainty. Black Suit privately probes Sensei's willingness to pay, then supplies an Abydos lead after warning of bodily danger; no Gematria membership or agreed price results (u:0027-0113).
+
+## V100 C003 E004 relationship delta
+
+Black Suit gives Sensei increasingly specific alleged technical history after E003's severe-risk warning, naming the Atrahasis Ark, Kaiser's alleged Abydos excavation and the Utnapishtim ship. He frames Sensei as the Shittim Chest owner uniquely able to operate after Sanctum towers are gone (scene:001:u:0001-0040). This is informational dependence on a former antagonist's testimony, not proven trust, a completed bargain or direct Kaiser/Black Suit current cooperation.
+
+## V100 C003 E005 relationship delta
+
+Rin brings a remembered President statement to Abydos; Hoshino interprets the desert search, while Ayane worries about Kaiser private property and possible PMC return. Hoshino/Nonomi/Serika prioritize Shiroko rescue, with Ayane reluctantly aiding and later asking Sensei to command (scene:001:u:0002-0015; scene:002:u:0002-0048). Himari promises broader team arrival and on-site identifies the machine before Sensei asks to enter (scene:003:u:0001-0015). This is coordinated crisis action, not legal title settlement or a repaired Kaiser relationship.
+
+## V100 C003 E006 relationship delta
+
+Sensei agrees to summon technical/tactical personnel; Chihiro asks Himari to account for fatigue (scene:001:u:0001-0013; choice:001). Yuuka objects to Alice leaving Millennium under unresolved Rio risk, while Noa says she sent Game Development to a ship she judges safer and asks Yuuka to watch them; this is a situational safety disagreement with tag drift (u:0023-0047). Kei addresses Alice as princess, says she rejected Kei, urges her to leave and calls the warning a wish that Alice live (u:0076-0094). The reported past rejection and predicted harm remain untested here.
+
+## V100 C003 E007 relationship delta
+
+A small AMAS corrects Himari's calculation and becomes strongly identified as Rio's remote voice. Himari confronts her over alleged Toki isolation and Alice abduction, rejects her help and says Toki could join her if C&C would not accept her (scene:001:u:0042-0094). Hanako's parable and Seia's objection lead Himari to ask Rio's interface for aid during crisis and defer censure; no explicit Rio acceptance or forgiveness is printed (u:0095-0129). Rin, Sensei and Hanako discuss a reported ancient question and incomplete meaning, not a completed personal repair (u:0130-0164).
+
+## V100 C003 E008 relationship delta
+
+Yuuka recognizes Rio behind AMAS and forbids approach to Alice/Game Development; Himari supervises, threatens drone destruction if suspicious and allows Rio to seek an emergency return plan (scene:001:u:0035-0050). Sensei volunteers overall lead and Rin joins to share danger; Ayumu and other school representatives join for distinct duties, while Momoka yields to Ayumu's emotional appeal after refusing (u:0076-0102). Ayumu asks Rin to rest and she accepts in the group's interest (u:0126-0138). Cooperation does not settle Rio accountability or guarantee readiness.
+
+## V100 C003 E009 relationship delta
+
+Noa promises to guard Millennium while Yuuka travels; Abydos peers refuse to send Ayane alone, and PS68's Aru/Mutsuki show concern for Kayoko behind bravado (scene:001:u:0002-0054). Yuzu proposes the whole Game Development Club join Alice; Alice admits fear/Kei persistence and asserts her own chosen club/hero identity, receiving peer support (scene:002:u:0002-0079). Hanako/Remedial, Hina/Ako, Tea Party, SRT and Arius divide departing/ground roles (u:0080-0152). Aoi apologizes to Rin, who states nonresentment and entrusts a contingency, without formal reinstatement (u:0153-0179).
+
+## V100 C003 E010 relationship delta
+
+Rin leads the roster and Sensei accepts operator responsibility; Yuuka warns Game Development against rash action. Fuuka protests being listed with Gourmet and having her truck aboard, so her assignment is not simple voluntary cooperation (scene:001:u:0001-0073). Arona pleads with Sensei to reconsider unknown bodily burden, and Sensei reassures her while still committing to protect students (u:0074-0109). The remembered president says mutual incomprehension can coexist with valued relation; Rin defers her personal answer until return (u:0110-0130). Crew notices Sensei's pallor/shaking after launch, with no recovery yet (u:0145-0179).
+
+## V100 C003 E011 relationship delta
+
+The italic federal-president voice addresses Sensei as a trusted adult and asks him to preserve `絆` and shared memories. The scene's uncertain status does not establish a present reunion or Sensei's answer (scene:001:u:0001-0023). Aboard the ship, Yuuka, Hanako, Rio and Himari share a suddenly inconsistent ark reading; concern and technical theorizing are direct, but their ability to overcome it is untested (u:0024-0039). Rio-tagged self-address at u0030 cannot establish who called to her.
+
+## V100 C003 E012 relationship delta
+
+Yuzu/Momoi/Midori fear a repeat of Alice's danger; Sensei asks them to hear Alice fully and inwardly trusts her choice (scene:001:u:0024-0038; choice:001; u:0100). Alice acknowledges fear and avoidance toward Kei, apologizes, asks for help and extends the right to self-definition to Kei. Kei first refuses on risk grounds, then participates in the activation; this supports new cooperation, not a fully observed durable reconciliation (u:0044-0089/u:0104-0106/u:0141-0147). Alice asks Rio to show her face, calls her `リオ先輩`/`仲間` and thanks her present aid; Rio's words toward her earlier harm break off. `許す必要はありません` makes the invitation distinct from formal forgiveness or institutional accountability (u:0108-0134).
+
+## V100 C003 E013 relationship delta
+
+Rio urges Alice as hero to save their world; Alice replies she will answer comrades' expectations, and the club then worries over her unconsciousness and moves her toward care (scene:001:u:0021-0046, source-ordered u:0116). After barrier penetration, Himari credits Rio's idea and Sensei may echo that, a bounded shift in Rio/Himari relations without settled accountability or completed rescue (u:0075-0091; choice:003). Kei refuses Alice's erasure and speaks of disappearing instead; Alice murmurs Kei and tears are observed, but the aftermath of their relationship and Kei's existence remain unknown (u:0092-0114).
+
+## V100 C003 E014 relationship delta
+
+Ayane supports Hoshino/Nonomi/Serika on eastern defense, while Yuuka reluctantly supports Game Development and warns them not to overextend with Alice asleep (scene:001:u:0016-0021/u:0034-0041). Gourmet offers help and an addressed Ako-support voice joins, but Fuuka again protests her involvement, so group deployment does not prove her consent (u:0022-0033). A crew voice entrusts Sensei with overall ship defense; he inwardly accepts the three-group coalition, not a guaranteed victory (u:0042-0043).
+
+## V100 C003 E015 relationship delta
+
+Abydos peers react to a Shiroko-labelled appearance, and Hoshino checks Sensei after a grenade alarm/blast; the figure disappears before any sustained conversation or rescue (scene:001:u:0004-0026; choice:001). Engineering asks shipboard help to attempt restart so everyone can return (u:0027-0040). Himari explicitly criticizes Rio's distrust, Rio acknowledges it while prioritizing passenger lives, and Himari thanks her contingency work despite saying she dislikes her. Rio accepts a cooperative investigation, not an absolution or settled apology (u:0051-0076).
+
+## V100 C003 E016 relationship delta
+
+Ground allies across Gehenna, Millennium, SRT, Trinity and Arius react to changed sky and continue duty; Mika reports Seia left after sensing danger, not a directly witnessed vision here (scene:001:u:0053-0084). Abydos fears the obstructing Shiroko bought time, then another Shiroko-labelled voice and Sensei report joint travel to Area 4. The two appearances' identity relation is unresolved (u:0091-0110; choice:001). This Shiroko calls Prenapates her abductor and aims at him; Sensei asks her to back away when her shots miss (u:0111-0131). The control-room A.R.O.N.A. voice addresses/authenticates Sensei, but its relation to the prior Arona remains unproved (u:0132-0138).
+
+## V100 C004 E001 relationship delta
+
+The control-room OS and familiar Arona directly recognize/interact as two voices of an A.R.O.N.A. type; exact shared-Chest architecture remains their explanation (scene:001:u:0031-0052). Familiar Arona reports a biometric match between Prenapates and Sensei and says the other is no longer alive, sharpening Sensei's confrontation with a counterpart (u:0053-0066). Alternate Shiroko says she killed her Sensei, was brought here by him and kidnapped local Shiroko; local Shiroko vehemently denies she would kill Sensei or end the world (u:0067-0104). Separate time-axis Shiroko histories must not be merged into one behavioral model. Prenapates asks Sensei what he will do without a reply (u:0105-0107).
+
+## V100 C004 E002 relationship delta
+
+Aru urges PS68 to continue for Sensei/Kayoko, and Hina/Rabbit coordinate ground defense (scene:001:u:0001-0022). Rio saves time at 9 seconds, says she cannot overcome the system alone and asks for help; Himari thanks her while explicitly retaining dislike (u:0023-0049). Engineering/Veritas exchange design and navigation help for a shared terminal plan (u:0050-0084). Haruna presses Fuuka's driving skill under an earlier false space-food pretext; Fuuka protests then drives, a current constrained decision rather than retrospective assent to boarding (u:0085-0099/u:0118-0127). Himari checks Alice's condition and asks care; Alice reports she is fine and Sword intact, not medically cleared (u:0105-0117).
+
+## V100 C004 E003 relationship delta
+
+Sensei answers Prenapates with a plan to combine everyone's strength; local Shiroko affirms continuation and later asks him at the confrontation, receiving his resolve to fight together (scene:001:u:0001-0009/u:0065-0066; choice:001-002). Toki calls Himari/Sensei/allies before taking Abi-Eshuh into a solo hold. Himari and Rio reconnect and ask retreat/support; Toki refuses under distance/time pressure, with no result or death shown (u:0025-0052). Fuuka/Gourmet share a dangerous pursued descent with no arrival yet (u:0053-0064).
+
+## V100 C004 E004 relationship delta
+
+Rio voices urgency for Toki as Toki pants in the unseen ground clash; no reunion or injury confirmation follows (scene:001:u:0001-0010). Fuuka delivers Gourmet to the lower system; Ayane cues Abydos east, Yuuka cues Game Development west, and Haruna/Akari/Junko complete lower demolition with Veritas/ship reporting the cut (u:0011-0047). Alice acts with her club after regained wakefulness, but no Kei or clinical state is examined. The coordination is achieved, not a settled long-term alliance or blanket consent for Fuuka.
+
+## V100 C004 E005 relationship delta
+
+Rio urges Toki to withdraw, Toki confesses she wanted to fight with Schale/C&C and asks for a sacrifice code; Rio refuses and admits she failed to seek others' hands (scene:001:u:0006-0035). Asuna, Akane, Karin and Neru arrive and Neru rebukes Toki's farewell, offering direct senior support rather than a completed extraction (u:0036-0045). Noa says she dispatched early after Seia's request and her own hunch; Seia thanks that trust and tells Rio an easy answer may exist. The mechanism of her foresight remains unverified (u:0046-0062). Yuuka calls Rio back to present duties amid label drift (u:0067-0072).
+
+## V100 C004 E006 relationship delta
+
+Gourmet decides to help Sensei and Izumi offers to carry silent Fuuka; Abydos/Ayane decline to leave before retrieving Sensei/local Shiroko, while Game Development/Yuuka condition escape on his return (scene:001:u:0013-0048). C&C reports Toki escorted and plans to wait for Sensei with wider vigilance (u:0049-0057). Sensei trusts allies, local Shiroko says group victory suffices, and familiar Arona promises protection against alternate Shiroko/control-room OS support. The hostile side targets Sensei as the coalition's pivot (u:0058-0097). These are active ties under danger, not completed reunion or evacuation.
+
+## V100 C004 E007 relationship delta
+
+An OS voice says her teacher gave his own escape sequence to Shiroko and fears for his fall, then hears a Sensei inward request to help another child in his place and a farewell; the counterpart referent remains context-sensitive (scene:001:u:0001-0006; scene:002:u:0017-0034). Familiar Arona apparently transfers the control-room OS's data despite enemy alignment; that OS asks why and interprets the act as Sensei seeing her as a student to help (u:0035-0044). Familiar Arona grieves inability to save her Sensei; control-room A.R.O.N.A. offers joint protection and familiar Arona trusts her because Sensei did (u:0045-0068). No completed rescue or relationship future yet.
+
+## V100 C004 E008 relationship delta
+
+OS voices report Sensei safely returned to students, but no physical reunion or health examination is shown (scene:001:u:0011-0019). Local Shiroko gives alternate Shiroko an unnamed precious Task Force keepsake, offers a possible shared future outing and says Sensei can handle coexistence trouble; alternate voices gratitude and farewell, without permanent location fixed (u:0020-0060). Familiar Arona stops the control-room OS from leaving alone, names her Plana, offers home and hand-holding, and Plana accepts while choosing `アロナ先輩` over sister address (u:0061-0094).
+
+
+## V100 C004 E009 relationship state delta
+
+Shinon/Mai remain a Chronos reporting pair; interruptions constrain what their program airs but do not identify an editor or source (scene:001:u:0001-0032). Kaya and Kaiser General recommit to a transactional pact after damage to both sides, with no proven trust or contract scope (u:0033-0048). Alice and Game Development friends treat Key as a possible companion; Alice says she has not met Key since disappearance, and they share hope on seeing `Kei.sav` without confirming contact (u:0049-0079). Toki is alive and briefly meets the club/Eimi, but says Rio remains missing and C&C contact is uncertain (u:0080-0098). Himari protects Alice's hope while refusing false certainty, then modifies the model to hold memory/data (u:0099-0141). No new readiness promotion; 368/480, E010 unopened.
+
+
+## V100 C004 E010 relationship state delta
+
+Hifumi/Koharu/Hanako/Azusa remain together at a test, with outcome open (scene:001:u:0001-0008). Atsuko/Misaki/Hiyori support Saori's independent travel and request continued contact; she leaves on a job call, with material security unresolved (u:0009-0031). Abydos peers and the master welcome local Shiroko to an ordinary group meal (u:0032-0065). Arona/Plana now share an enacted homecoming and senior address (u:0066-0077). Ayumu and Momoka support Rin before the vote; Rin thanks them, subject to tag inversions (u:0078-0095). Niya mediates a letter for Sensei; the alleged Kuzunoha author is not independently met. Rin's possible president correspondence remains her inference from the unsigned paper (u:0096-0131). No new readiness promotion; 369/480, E011 unopened.
+
+
+## V100 C004 E011 relationship state delta
+
+Plana and Arona now share a routine, affectionate senior address and reciprocal care, while Sensei greets both and receives both support pledges (scene:001:u:0001-0023; choice:001-005). Plana privately worries her presence burdens Arona through the Chest, a guilt/care inference rather than measured harm (u:0024-0027). She recognizes the federal president's absence in this world, with no direct contact with Rin or president in this unit (u:0028-0029). No readiness promotion; 370/480, E012 unopened.
+
+
+## V100 C004 E012 relationship state delta
+
+Francis speaks in rivalry with Sensei and Black Suit, announces a visit to an unnamed expelled Gematria old friend, and receives Decalcomania's interjections; actual contact with the friend is unseen (scene:001:u:0001-0012). Plana thinks through her relation to familiar Arona as similar yet distinct and addresses the federal president without a printed reply (u:0013-0020). No relationship with the president is independently staged. No readiness promotion; 371/480, chapter checkpoint pending.
+
+
+## V100 C004 canonical checkpoint reconciliation
+
+The [V100 C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md) reconciles E001-E012 at **371 / 480** canonical main units. The coalition's east/west/lower-device intervention severs the ship/Ark link at one second; the OS reports temporary ground-Sanctum cancellation, while E008 OS voices report present Sensei safely returned after E007's dangerous fall. Plana is the existing control-room OS subject, distinct from familiar Arona; local and alternate Shiroko remain distinct. The exact duel, Ark/ship damage, Prenapates' fate, Sensei medical status, the alternate's durable status and wider casualty audit are unverified. E009-E012 supply civic repair reports, ambiguous `Kei.sav`, homecoming, pending Rin vote, unauthenticated Kuzunoha/president letters, Francis's unperformed Gematria plan and Plana's privately asserted president hypothesis. No new readiness promotion or standalone model: **21 PARTIAL_MODEL / 182 UNMODELED across 203**. No durable new claim ID, frozen analytical prediction, held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission. The 43 inserted V001 C003 units remain **DEFER** for their own ordered backfill. Next forward source: `BA:main:series2:000:001:001` / `MAIN_S2_V000_C001_E001`.
+
+
+## S2 V000 C001 E001 relationship state delta
+
+Decalcomania speaks in first-person plural “we” about an unnamed fallen circle and addresses a telescreen whose speech is absent; no actual interlocutor identity, agreement, recruitment or alliance is verified (scene:001:u:0004-0029). His later enthusiastic assent to repeated narrator questions is self-directed as printed, not a demonstrated coalition or contact with Francis (u:0030-0082). No readiness promotion; 372/480, E002 unopened.
+
+
+## S2 V000 C001 E002 relationship state delta
+
+Momoka praises Rin's filmed work; Aoi/colleagues call her the recognizable council face despite her camera reluctance (scene:002:u:0002-0019). Ayumu delivered an unsigned envelope from the mailbox and worries whether it contained harm, but does not know its source (u:0020-0026). Rin shares its photos and her cautious president-handwriting inference with Aoi/Momoka/Ayumu; they recognize old shared moments but not the lake, so no direct president contact is established (u:0027-0052). No readiness promotion; 373/480, E003 unopened.
+
+
+## S2 V000 C001 E003 relationship state delta
+
+Within the dream, an unidentified girl apparently regards Sensei while an unidentified narrator speaks for the scene; no reliable identity or waking contact is established (scene:001:u:0041-0050). Awake Arona and Plana worry about Sensei's distress and sleep, propose a checkup, meal reminders and returning to bed; Sensei thanks them and asks about the strange device (u:0051-0068; choice:002-005). Their care is directly staged, unlike the dream's absent student world. No readiness promotion; 374/480, E004 unopened.
+
+
+## S2 V000 C001 E004 relationship state delta
+
+Rei worries for labelled members and checks decompression, A reassures her, B explains the current and C voices a fear; this is a local team relationship only (scene:001:u:0001-0019). They jointly examine a recovered shard, A warns against prolonged viewing, and Rei sets a temporary stop while maintaining an unspecified superior's mission (u:0020-0036). No school, sponsor, family or outside contact is identified. Add four narrow UNMODELED subjects; 375/480, S2 V001 C001 E001 unopened.
+
+
+## S2 V000 C001 canonical checkpoint reconciliation
+
+The [S2 V000 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_C001_CHECKPOINT.md) reconciles all four sequential readings at **375 / 480**. Decalcomania claims a new route to authority through an unheard telescreen without demonstrated power; Rin's unsigned “letter” proves to be a photo envelope with no message, including an unlocated monochrome lake; Sensei's monochrome city and unidentified girl are in a narrator-driven dream, followed by waking Arona/Plana care; Rei's dive team retrieves a shard she names a shining trapezohedron without composition, hazard or sponsor verification. No causal bridge between screen, photograph, dream and shard is printed. Four directly speaking dive-team subjects were added as narrow UNMODELED: **21 PARTIAL_MODEL / 186 UNMODELED across 207**. No durable new claim ID, standalone model, frozen analytical prediction, held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission. The 43 inserted V001 C003 episodes remain **DEFER** for ordered backfill. Next forward source: `BA:main:series2:001:001:001` / `MAIN_S2_V001_C001_E001`.
+
+
+## S2 V001 C001 E001 relationship state delta
+
+Aoi treats Rin as both senior/colleague and someone whose health matters, enlisting Sensei privately after other officials fail (scene:001:u:0001-0023). Rin resists help, but Aoi shifts a deadline and Ayumu/Momoka take named work, allowing Rin to agree to rest (scene:002:u:0008-0037). Sensei uses teasing `リンちゃん`/date language; Rin denies the label yet agrees to a Saturday meeting to observe Sensei's own habits (u:0038-0054). Appointment is future; romance and durable behavior change unproved. No readiness promotion; 376/480, E002 unopened.
+
+
+## S2 V001 C001 E002 relationship state delta
+
+Aoi's reported uniform removal pushes Rin toward an actual Saturday outing; Sensei supplies food, film and arcade diversion while Rin repeatedly denies the date label (scene:001:u:0002-0022). The Lamini vendor knows Sensei as a repeat visitor and recognizes Rin from public media, then raises local water trouble; Rin answers as acting official despite being off duty (scene:002:u:0007-0048). Rin remembers street-food and Othello time with the missing president, but these are recalled not present interactions. After her game win, Rin asks Sensei to accompany her to an unnamed person from her past (scene:003:u:0034-0069). Add vendor UNMODELED; 377/480, E003 unopened.
+
+
+## S2 V001 C001 E003 relationship state delta
+
+Rin visits imprisoned Kaya on her day off, offers a written alternative, praises persistence, loses one chess game and asks for another; Kaya accepts and later is called an old difficult friend (scene:001:u:0002-0045/u:0088-0101). Kaya says she is isolated from FOX and has few visitors, but this is her account. Their shared president-comparison and Rin's people-not-pieces warning show disagreement as well as surviving rapport (u:0046-0059). Sensei accompanies and asks about the FOX item, but no release, forgiveness or future coup alliance occurs. No readiness promotion; 378/480, E004 unopened.
+
+
+## S2 V001 C001 E004 relationship state delta
+
+Sensei walks Rin to the council and asks her to protect the rest day; she thanks them and leaves before inspecting the ark alone (scene:001:u:0001-0018). Rin's private plea to the absent president reveals dependence on reassurance, while a recollection depicts first-year Rin deflecting a hypothetical disappearance into work terms (scene:002:u:0016-0039). A later president-claiming voice addresses her, but Rin does not recognize/authenticate it in printed text (u:0040-0057). No demonstrated reunion or repaired attachment. No readiness promotion; 379/480, E005 unopened.
+
+
+## S2 V001 C001 E005 relationship state delta
+
+Rin asks Aoi to witness the visitor, but Aoi calls her president and worries over Rin's all-night absence; Sumomo/Momoka/Heine/Ayumu align socially with the visitor while differing on remembered appearance (scene:001:u:0012-0043). Rin leans on Sensei, who finds the visitor unfamiliar but urges listening before judgment (u:0061-0072). The claimant speaks as an old friend yet Rin rejects familiarity. No authenticated reunion or proven betrayal by council colleagues. Add claimant separately as UNMODELED; 380/480, E006 unopened.
+
+
+## S2 V001 C001 E006 relationship state delta
+
+The claimant invites Rin's cooperation even if Rin thinks her false, and Rin recognizes familiar phrasing without accepting identity (scene:002:u:0037-0047). Sensei's recounted history is unprinted; the claimant acknowledges Schale in words after reviewing its documents (scene:001:u:0001; scene:002:u:0015-0024). Nagisa, Makoto and Cherino each make limited verbal concessions to tailored appeals, while Momoka receives a reprimand and future sample offer. Officers praise the claimant; Rin silently fears continued reliance (scene:003:u:0002-0100). No authenticated reunion, Hina assent or demonstrated durable trust; 381/480, E007 unopened.
+
+
+## S2 V001 C001 E007 relationship state delta
+
+Plana volunteers a warning and asks Sensei to distrust the claimant; Sensei's inner view is gentler, and Arona directly disputes Plana's identity/ability shortcut (scene:001:u:0003-0033). Plana seeks Sensei's permission and fresh biometric contact for pairing; the pinky-promise touch recalls an unspecified memory (u:0034-0063). After the overload Sensei's alternatives prioritize Arona/Plana's safety or thank Plana, and Arona tries to salvage a core but holds a data-empty almond seed (u:0095-0120; choice:012). Rin arrives with purpose unheard. No repaired claimant relationship or proven betrayal; 382/480, E008 unopened.
+
+
+## S2 V001 C001 E008 relationship state delta
+
+Rin asks Sensei to accompany a discreet inquiry; Sensei offers Schale contacts through alternative choices and later suggests stopping for cold/night, but she asks for another thirty minutes (scene:001:u:0001-0029; scene:002:u:0037-0041). A Valkyrie officer trusts Sensei's explanation after initial rumor suspicion (u:0025-0036). Mai initially pursues a scoop, accepts Sensei's confidentiality request, then provides Rin a secondhand lead after sharply doubting the swap theory (u:0042-0089). None of these contacts corroborates the missing president yet; 383/480, E009 unopened.
+
+
+## S2 V001 C001 E009 relationship state delta
+
+Orwell greets Sensei as a prior acquaintance; Sensei privately asks whether he is Golconda/Francis and then Decalcomania, but the speaker's answers leave continuity ambiguous (scene:001:u:0012-0017/u:0040-0045). Decalcomania separately interjects four times, while Orwell narrates Francis and Decalcomania's alleged changed interpretations of Sensei. Rin is present on entry but has no printed answer to the monologue. The Mai-sourced witness is not established; no alliance, attack or reconciliation occurs. 384/480, E010 unopened.
+
+
+## S2 V001 C001 E010 relationship state delta
+
+Rin challenges Orwell about the missing president; his 'damaged' speculation wounds/alarms her, and Sensei threatens a firm protective boundary if he touches their student, after which Orwell apologizes (scene:001:u:0017-0030). Rin remains unconvinced by simulacrum rhetoric and supplies the black-swan answer (u:0031-0050). Arona and Plana negotiate a possible alternating secretary/work arrangement, with Arona initially possessive then accepting (u:0061-0076). Sensei agrees to attempt the evidence plan yet expressly rejects teaming up with Orwell; his account access remains an offer only (u:0077-0087). 385/480, BA:main:series2:002:001:001 unopened.
+
+
+## S2 V002 C001 E001 relationship state delta
+
+Students A/B resent Iori's intervention, but Ako's dress-code hypothetical makes them reconsider unbounded Prefect power (scene:002:u:0002-0044). Chinatsu echoes Ako/Hina's policy; Hina praises her and Chinatsu thanks her, a direct mentor/team recognition (u:0045-0055). Student B voices transient admiration and an abandoned membership idea (u:0062-0068). Ako and Makoto clash over equipment, budget and activity expenses; Hina says she cannot overlook a genuinely negligent motive, without issuing a sanction yet (u:0069-0081). 386/480, E002 unopened.
+
+
+## S2 V002 C001 E002 relationship state delta
+
+Makoto first praises the juniors then bristles at their implication Gehenna is not great; Mayumi blames his administration and presses his Schale/Trinity rationale (scene:001:u:0015-0048). Ako welcomes criticism of Makoto until Shoko extends it to Prefects; Iori defends warning before force against Mayumi's charge (u:0049-0067). Hina and Shoko disagree openly about freedom versus license and the Prefects' boundary, with no fight or concession beyond Hina accepting the word 'ambiguous' (u:0068-0085). The committee vows future action but no alliance or institutional response is shown. 387/480, E003 unopened.
+
+
+## S2 V002 C001 E003 relationship state delta
+
+A rocket-jump student treats Mayumi's damage complaint casually and leaves before Prefects; Karen steadies Mayumi toward volunteer work, and Shoko checks she is all right (scene:001:u:0001-0018). An unnamed Pandemonium third-year offers qualified warning and encouragement, but Mayumi rejects the warning, Shoko backs her and Karen restores morale (u:0025-0063). Shoko positions herself as planner and Mayumi/Karen invite her proposal, which stops at authority/symbol language (u:0064-0078). No senior alliance or demonstrated persuasion of other students. 388/480, E004 unopened.
+
+
+## S2 V002 C001 E004 relationship state delta
+
+The committee directly invites Sensei and tests informal rapport; Mayumi requests help, Karen praises Sensei's openness and Shoko uses formal presentation with label drift in banter (scene:001:u:0001-0039). Sensei denies a negative council rumor and approves Mayumi's care for Gehenna, without adjudicating every restoration claim (u:0030-0039; choice:004-005). Shoko asks for Sensei to stand beside them publicly; Sensei agrees to help students and the three react warmly before Mayumi rushes onward (u:0069-0093). No performed endorsement speech, audience reaction or lasting alliance terms yet. 389/480, E005 unopened.
+
+
+## S2 V002 C001 E005 relationship state delta
+
+Mayumi/committee enlist Sensei's presence at a public pitch; nearby students explicitly treat Sensei involvement as a reason to trust the range (scene:001:u:0001-0034/u:0089-0097). Karen doubts the point scheme's manageability and later warns Sensei against reflexive help; Shoko eyes data/control and jokes Sensei's reputation bears failed permitting risk (u:0062-0088/u:0136-0144). Sensei remains with them and agrees to seek retroactive authorization after discovering none exists, without granting the committee a guarantee. Attendees A/B ask for use, give registration details and inspect the site; no durable loyalty shown. 390/480, E006 unopened.
+
+
+## S2 V002 C001 E006 relationship state delta
+
+Makoto rejects the committee's bid, then credits its ability to win Sensei's backing and permits activity to honor Sensei while claiming a future favor (scene:001:u:0001-0088). Iroha questions Makoto's chaos-design boast and offers to handle remaining administration, not shown complete (u:0027-0028/u:0089-0092). Shoko/Mayumi/Karen celebrate Sensei's decisive appeal, with speech tags partly drifting (u:0098-0108). Hina declines to block the group, trusts Sensei's presence but remains watchful, then asks Sensei for time and shares tea (u:0109-0124). No Makoto-Hina reconciliation or verified workload drop. 391/480, E007 unopened.
+
+
+## S2 V002 C001 E007 relationship state delta
+
+Karen interrupts two sukeban threatening a lone Gehenna student, calls the target a new friend, checks injury/property and is thanked; the student voices possible committee application but does not join on page (scene:001:u:0001-0060). Sensei witnesses and praises Karen, performs a requested head pat through a choice, and completes MomoTalk registration; narrator confirms a safe escort after repeated threats (u:0061-0090/u:0127). Karen credits Mayumi love of Gehenna and enjoys the committee team, while admitting Shoko supplied the control language (u:0094-0126). No romance or quantified membership gain. 392/480, E008 unopened.
+
+
+## S2 V002 C001 E008 relationship state delta
+
+Sensei visits as the committee runs a busy line; Mayumi asks them to stand beside the hours announcement, and Karen says that presence helped (scene:001:u:0035-0044/u:0077-0078). Students react with mixed protest/curiosity and one queue dispute is settled by Karen, local not universal support (u:0026-0034/u:0045-0075). Sensei raises concern about Gehenna identity; Mayumi partially concedes plural paths, Shoko favors coordination, and Karen promises no forced change (u:0097-0110). Sensei remains supportive of student choice but refuses an invented pledge in their name (u:0111-0121). 393/480, E009 unopened.
+
+
+## S2 V002 C001 E009 relationship state delta
+
+Sensei buys for Karen/Shoko/Mayumi and joins their disappointed assessment; the first owner pleads before Haruna/Gourmet Research, and Sensei asks for reconsideration (scene:001:u:0013-0075). The committee's bargaining with Gourmet fails, a blast follows, and Mayumi calls the conduct terrorism; no legal finding or exact physical actor is printed (u:0076-0135). Sensei offers Shoko an equal-second-chance principle, which she considers; no first-shop reconciliation occurs (u:0136-0142). The group eats elsewhere and that second shop agrees to partner, without identified individual owner (u:0143-0153). 394/480, E010 unopened.
+
+
+## S2 V002 C001 E010 relationship state delta
+
+Shoko deliberately approaches Meg alone and asks Sensei to reassure her; Meg trusts Sensei, takes the selected map and promises to consult Kasumi (scene:001:u:0021-0078). Kasumi hears Meg, recognizes Shoko's intent and agrees for Meg while warning of no repeat, a bounded confirmation of their decision relationship (u:0094-0128). Kasumi and Shoko trade teasing/cryptic threats without a known referent or escalated act (u:0129-0139). Sensei's visible guilt and later concern for Shoko's self-pressure surprise and hurt her; narration ends with silence (u:0082-0088/u:0145-0164). No permanent rupture or policy change. 395/480, E011 unopened.
+
+
+## S2 V002 C001 E011 relationship state delta
+
+Iroha reads Makoto's status anxiety, Satsuki checks on him, Chiaki photographs/plans coverage and Ibuki's happiness about quiet softens him (scene:001:u:0001-0065). Ako/Iori/Chinatsu share relief and see Hina sleeping; Ako relays Hina's retirement wish without a present Hina decision (u:0066-0089). Karen hands Iori the approved form, then tests Prefect legitimacy and offers combat; Iori declines after recalling Hina's boundary, and Karen leaves (u:0090-0131). No fight, abolition or repaired alliance. 396/480, E012 unopened.
+
+
+## S2 V002 C001 E012 relationship state delta
+
+Mayumi asks Sensei to cheer/watch the committee's new help desk; Karen calls their presence reassuring (scene:001:u:0030-0044). Interviewee A pushes back on intrusive questions; petitioner B seeks assistance and tells a mediated account, with no relationship outcome yet (u:0045-0052/u:0069-0092). Karen startles Shoko in the classroom, then listens when Shoko/Mayumi reject a damaging door break and apologizes before Sensei (scene:002:u:0017-0061). Sensei gives mild praise in a choice and recalls another story, without revealing it. 397/480, E013 unopened.
+
+
+## S2 V002 C001 E013 relationship state delta
+
+Shoko knows Erika/Kirara names; they recognize the committee, speak with the group and recall a one-time broadcast (scene:001:u:0001-0058). Mayumi invites them to join, but they remain Kirakira Club members; Erika respectfully differs about the weight of a great-Gehenna banner and diversity of cultural life (u:0064-0084). Shoko plans Pandemonium negotiation while Erika/Kirara encourage her, with no granted room access (u:0093-0100). Shoko puts a payment/refill offer in Sensei's mouth; Sensei's printed choice objects, limiting assent (u:0017-0021/u:0101-0104). 398/480, E014 unopened.
+
+
+## S2 V002 C001 E014 relationship state delta
+
+Makoto initially resists committee petitioners but responds to Shoko's Pandemonium-support pitch and grants broadcasting; Karen dislikes feeling like his agent while Shoko says it is planned (scene:001:u:0002-0088). Chiaki photographs the alliance; Satsuki warns Shoko about room accidents and former head, and Shoko defers an unfinished question to Satsuki (u:0087-0100). Makoto tells Iroha he expects credit/blame asymmetry, which she dislikes (u:0106-0114). In the room, Sensei checks on Shoko and offers to remain, but she declines and stays alone (scene:002:u:0015-0054). 399/480, E015 unopened.
+
+
+## S2 V002 C001 E015 relationship state delta
+
+Mayumi meets Sensei at the range, accepts help with heavy cleanup and thanks them after narrator-confirmed work; Sensei admires her affection for Gehenna and hopes her smile endures (scene:001:u:0001-0062). Shoko reports broadcast upgrades to Makoto, who enjoys the claimed no-Pandemonium-budget benefit; she proposes his speech and he embraces it, with Chiaki and Ibuki approving (u:0063-0084). There is no printed Sensei participation in that later negotiation, aired speech or verified maintenance handover. 400/480, E016 unopened.
+
+
+## S2 V002 C001 E016 relationship state delta
+
+Makoto expects Sensei's admiration at a crowded speech, but Sensei is startled by the transmission and war declaration (scene:001:u:0001-0063). Kasumi calls to Meg amid apparent freezing, with the referent unresolved; Izumi/Junko note someone still, without identified target (u:0029-0044). Hina publicly aligns with Makoto and Ako praises her, while Iori/Chinatsu question the turn and Mayumi/Karen are bewildered (u:0073-0102). These are on-scene positions under an unexplained event, not durable reconciliations, converted identities or executed alliance operations. 401/480, E017 unopened.
+
+
+## S2 V002 C001 E017 relationship state delta
+
+Iori/Chinatsu ask Sensei to help understand Hina; Hina/Ako do not see the problem, so Sensei takes the distressed pair to rest/inquiry (scene:001:u:0001-0079). Iroha confronts Makoto, Chiaki escorts worried Ibuki outside, and Iroha privately trusts Sensei to investigate; Sensei suggests she stay with unchanged Iori/Chinatsu (u:0080-0136). Sena asks Sensei's support for war preparation but receives no endorsement; Fuuka/Juri and Erika/Kirara offer normal help (u:0137-0198). Satsuki enters their inquiry group unaffected by her account and offers a distinct historical lead (u:0212-0241). 402/480, C002 E001 unopened.
+
+
+## S2 V002 C002 E001 relationship state delta
+
+Satsuki breaks her earlier silence to tell Sensei/Iori/Chinatsu/Iroha a private historical account and admits she does not know how to reverse the change (scene:001:u:0001-0042). She sees Makoto's enemy-focused drive as unusually serious and wants him back; Iori challenges her exception but accepts help (u:0043-0070). The group agrees to try within Gehenna first, with Schale reserved and Sensei offering discreet support; Iroha/Chinatsu/Iori thank or trust Sensei (u:0071-0136). Iori's private plea for her seniors confirms continuing loyalty despite opposing their current program (u:0137-0143). 403/480, E002 unopened.
+
+
+## S2 V002 C002 E002 relationship state delta
+
+Sena remembers Chinatsu's move from Emergency Medicine to Prefects, reveals private pride and disappointment, and continues to trust her former trainee; Chinatsu respects Sena and clarifies she did not leave from dissatisfaction (scene:001:u:0017-0059). Their current conflict is explicit when Sena expects wartime medical support and Chinatsu questions civilian harm (u:0048-0080). Sena ends gently and hopes Chinatsu finds the right path; Chinatsu sees familiar trust but resolves to restore her (u:0081-0094). No rupture, acquiescence or successful reversal is shown. 404/480, E003 unopened.
+
+
+## S2 V002 C002 E003 relationship state delta
+
+Mayumi/Karen question Shoko's new war endorsement and insist range training was for recreation; Shoko invokes their own work and shared authorship to press them (scene:001:u:0001-0070). A Pandemonium senior summons Shoko to Makoto, then cheerfully tells Mayumi/Karen old Gehenna should return; they confront her prior warning, but she says she changed her mind (u:0071-0108). No committee agreement, strategy meeting or reconciled trust follows. The senior is continuous with S2 V002 C001 E003 by Karen's recognition, while local A-D are new unlinked roles. 405/480, E004 unopened.
+
+
+## S2 V002 C002 E004 relationship state delta
+
+Makoto/Hina/Ako/Shoko coordinate in a strategy room, though Makoto/Hina acknowledge resistance among their own colleagues; Shoko urges tighter internal control (scene:001:u:0002-0043). A Pandemonium member and Prefect officer jointly pressure a student to surrender ammunition, a direct coercive institution-student interaction (u:0044-0063). Three second-years speak from fear, curiosity and target fantasies without clear consent. Mayumi/Karen privately question the leadership's version of unity and decide to seek an answer, not yet confronting it (u:0064-0098). 406/480, E005 unopened.
+
+
+## S2 V002 C002 E005 relationship state delta
+
+Karen/Mayumi move their E004 private doubt into a direct confrontation with Makoto, but depart after he insists on the campaign; no committee assent or dissolution follows (scene:001:u:0007-0046). Iroha explicitly breaks with Makoto and Pandemonium, Makoto permits departure while invoking a lost successor possibility, and Ibuki's immediate protest reveals the personal cost within their circle (u:0047-0090). Chiaki/Satsuki tend Ibuki; their support does not settle Iroha's future ties. Shoko urges Makoto to treat Iroha as a suspect, but he refuses to cede disposition, showing adviser access with a boundary (u:0091-0106). 407/480, E006 unopened.
+
+
+## S2 V002 C002 E006 relationship state delta
+
+Pandemonium's messenger threatens Kasumi for questioning a warehouse order, then treats Meg's enthusiasm as Hot Spring Club assent, overriding Kasumi's hesitation (scene:001:u:0001-0034). Kasumi both defers to Meg's present words and doubts whether her friend's current war preference is genuinely hers; she avoids simply replacing Meg's judgment with her own (u:0035-0079). Sensei notices the strain, listens despite visible exhaustion, shares a narrated situational account and respects Kasumi's wish to postpone private history. Kasumi then commits to helping Meg and offers Sensei cooperation; no change in Meg's outlook or practical joint action yet (u:0048-0109). 408/480, E007 unopened.
+
+
+## S2 V002 C002 E007 relationship state delta
+
+Mayumi/Karen seek Sensei privately, share anxiety about Gehenna and their committee's possible complicity, and accept his handholding/reassurance enough to weep and recover (scene:001:u:0001-0066). Their mutual bond survives disagreement with Makoto and becomes a joint promise to stop this course (u:0067-0070). Shoko is absent: they perceive a split and her adviser work, acknowledge they have not properly talked with her, and ask Sensei to try. This is a pending relationship repair attempt, not a resolved reconciliation or final rupture (u:0071-0080). 409/480, E008 unopened.
+
+
+## S2 V002 C002 E008 relationship state delta
+
+Makoto notes Iroha's absence as a practical burden; Chiaki sees him lonely, Satsuki scarce and Ibuki subdued, adding the council's lived cost to E005's split without speaking for absent members (scene:001:u:0001-0014). Chiaki approaches Shoko through shared-secretary rapport, but their interview reveals opposed views of Gehenna's quiet and the projected conversion of other schools. Shoko ends the exchange after Chiaki asks about her desired life beyond order (u:0019-0082). Chiaki remains in Pandemonium and privately worries; no organized opposition or Shoko reconciliation is printed (u:0083-0090). 410/480, E009 unopened.
+
+
+## S2 V002 C002 E009 relationship state delta
+
+Satsuki invites Sensei into a protected workroom, says he is its first outsider, seeks his cooperation as a subject because other students face too much risk, and shares coffee and institutional history. He acknowledges a prior willingness to help but no experiment occurs (scene:001:u:0001-0038/u:0061-0064). Satsuki calls Makoto a joint disposer of old materials and speculates that he trusted her not to misuse information; Makoto does not speak here and the motive is not established (u:0044-0056). The unnamed former bureau member and alleged external group cannot be turned into definite relationship edges (u:0041/u:0058-0060). 411/480, E010 unopened.
+
+
+## S2 V002 C002 E010 relationship state delta
+
+Karen distrusts the Prefects/Pandemonium students and Iori distrusts the Restoration Committee; Chinatsu and Iroha make Sensei's convening and shared concern sufficient for provisional cooperation, without erasing suspicion (scene:001:u:0001-0023). Mayumi/Karen find value alignment with Iori/Chinatsu over limits on war; Chiaki joins the group despite her E008 private uncertainty, and Satsuki arrives with a clue. Shoko is absent and still disagreed with; Ibuki is intentionally not included as too young, according to Satsuki/Iroha (u:0035-0065). Chiaki's broadcast-room idea earns Satsuki/Iroha's praise, a local competence-recognition shift, not yet a successful mission (u:0078-0094). 412/480, E011 unopened.
+
+
+## S2 V002 C002 E011 relationship state delta
+
+Ibuki misses Iroha and finds Makoto busy and Satsuki/Chiaki absent. Iroha returns only to check on Ibuki, offers to bring her along and provide familiar care, but honors Ibuki's choice to stay with Makoto so he will not be lonely. They make a conditional reunion promise, without resolving the Makoto/Iroha split (scene:001:u:0001-0063). Ibuki presses Makoto about missing Iroha beyond his claim of work competence; the later unknown-log intrusion and headache are followed by his assurance that Ibuki is blameless and may stay by choice (u:0064-0110). This repairs an immediate Ibuki/Makoto interaction, not the whole council relationship. 413/480, E012 unopened.
+
+
+## S2 V002 C002 E012 relationship state delta
+
+Shoko meets Mayumi/Karen in person and refuses their understanding of restoration, threatening them if they continue; old familiar banter briefly resurfaces but does not erase the split (scene:001:u:0037-0081). Hina confronts her Prefect subordinates, Iroha and the committee as suspected dissenters, then draws Sensei aside. In private she still seeks his approval and fears he will dislike her, while he cannot endorse conquest; she nevertheless moves to keep him from the others (u:0082-0176). This is a live Hina/Sensei trust breach and proposed separation, not completed custody or full Hina recovery. 414/480, E013 unopened.
+
+
+## S2 V002 C002 E013 relationship state delta
+
+Makoto visits confined Sensei, admits reluctant consent and tries to persuade him that Gehenna domination would benefit all; Sensei recalls Makoto's earlier free-Gehenna wish, prompting pain and withdrawal rather than agreement (scene:001:u:0001-0027). Shoko visits across the cell boundary, says she caused the recommendation to confine him, and expects hatred. Sensei instead continues concern for her judgment and possible self-reproach; she angrily rejects his gaze (u:0028-0071). The relationship is strained and emotionally exposed, not reconciled; Sensei remains incarcerated. 415/480, E014 unopened.
+
+
+## S2 V002 C002 E014 relationship state delta
+
+The coalition's concern for detained Sensei coexists with a reported prior strategy: members trust his assigned roles but fear Hina and the consequences of exposure (scene:001:u:0001-0041). Fuuka pushes back against Pandemonium/Prefect ration messengers; Juri supports kitchen work but reports hazards. Haruna/Akari work beside the Lunch Club while voicing pro-war values that Fuuka/Junko/Izumi reject; Haruna/Akari later discourage Makoto from punishing Fuuka because she is indispensable, not from political solidarity (u:0042-0144). Ako and Makoto recognize a supply dependency and dispute responsibility, then Makoto pivots to a destructive weapon proposal. No direct Fuuka-coalition contact is shown (u:0114-0174). 416/480, E015 unopened.
+
+
+## S2 V002 C002 E015 relationship state delta
+
+The coalition uses a covert entry phrase and worries that surveillance of them has increased. Karen/Iori still spar verbally, but the disagreement regulates haste rather than breaking cooperation (scene:001:u:0001-0049). Iroha recruits Erika/Kirara for their broadcast experience; they affirm friendship with her and with students at other schools, and volunteer despite risk (u:0050-0080). Satsuki recognizes Erika's proposed technical route, then Chiaki's warning leads Iori/Iroha to move immediately. The recipient of Iroha's intended additional contact remains unnamed (u:0081-0114). 417/480, E016 unopened.
+
+
+## S2 V002 C002 E016 relationship state delta
+
+Kasumi personally reaches Sensei through the cell-floor tunnel and says Meg's changed state also motivates her. Their contact renews E006's offer of cooperation, without a confirmed safe handoff (scene:001:u:0001-0021). Junior Prefects oppose their seniors while apologizing, and Iori/Chinatsu commit to confronting Hina to uphold the line that defined their service (u:0022-0046). Iroha coordinates diverse allies and asks Chiaki to shepherd Sensei; Satsuki reassures her despite admitted technical risks (u:0047-0083). Current enemy response is engaged but the relationship with Hina is not yet tested in direct battle (u:0084-0093). 418/480, E017 unopened.
+
+
+## S2 V002 C002 E017 relationship state delta
+
+Iori/Chinatsu confront Hina as injured subordinates who still value the boundary she taught them; Ako tries to shield Hina from their challenge and argues for her relief through unified war. Their disagreement is ethical and personal, not a completed reconciliation (scene:001:u:0001-0076). Sensei reaches Iori and accepts the next stage while Kasumi stays to the rear and Chiaki escorts him; Karen/Mayumi step in to support the exhausted Prefects (u:0077-0111). Makoto acknowledges Iroha/Chiaki as dissenters. Shoko's Thunder Emperor declaration widens the breach with Mayumi/Karen beyond committee tactics (u:0112-0135). 419/480, E018 unopened.
+
+
+## S2 V002 C002 E018 relationship state delta
+
+Shoko reveals to Mayumi/Karen that her committee partnership served the Emperor agenda, rupturing their prior trust; Sensei's concern about her own agency produces anger rather than reconciliation (scene:001:u:0001-0088). Technical allies bring relief then fear as third-years suffer, and Iroha's mix of reproach and affection becomes an immediate appeal to Makoto. He recognizes her voice, rejects the Emperor and apologizes after local recovery; their bond resumes in practice amid Iroha's protests, with formal Pandemonium status uninspected (u:0091-0292). Shoko admits deliberately steering her former colleagues and Mayumi rejects her greatness; Karen threatens a blow, but no strike or sanction is printed (u:0293-0320). 420/480, E019 unopened.
+
+
+## S2 V002 C002 E019 relationship state delta
+
+Hina publicly accepts wrongdoing toward her own subordinates and tries to resign; Makoto intercedes while she insists her decisions remain hers. Their exchange joins institutional responsibility with individual agency, without a settled allocation of liability (scene:001:u:0020-0064). Hina privately apologizes to Iori, Chinatsu and Ako, recalls firing on them, and commends the juniors for resisting according to her former teaching. They return to shared work, with emotional trust rebuilding in speech rather than fully repaired (u:0107-0139). Mayumi/Karen reclaim their committee purpose after Shoko's betrayal; Shoko's later status is not shown (u:0089-0106). Sensei thanks and encourages Makoto while he names the harm he inflicted, giving homework to be himself without speaking for the victims' forgiveness (u:0162-0188). Iroha notices his shaken condition and seeks his familiar self, while Makoto resists reducing his recovery to willpower alone (u:0189-0236). The group assembles for Sensei's photo offer, not a documented enduring alliance settlement (u:0237-0247). 421/480, E020 unopened.
+
+
+## S2 V002 C002 E020 relationship state delta
+
+Fuuka serves the Gourmet group despite irritation; Haruna apologizes to Fuuka/Juri, and Akari apologizes for constraining others. Izumi says their altered conduct was frightening. Fuuka makes future meals conditional on no repeat, and Izumi sets a dining boundary, so the group resumes conversation without erasing the harm (scene:001:u:0001-0054). Sena tells Chinatsu she regrets her medical rhetoric and is proud of the junior's resistance to Hina; probable tag drift at u:0077-0079 should not be mined for exact voice, but the exchange ends with mutual thanks (u:0055-0088). Meg's trust in Kasumi does not become blind deference: Kasumi asks her to define what she wants, and Meg chooses continuing life with Kasumi and the club (u:0096-0126). Kasumi privately withholds the Bodensatz worry from Meg in this scene (u:0127-0138). 422/480, E021 unopened.
+
+
+## S2 V002 C002 E021 relationship state delta
+
+Hina risks a more shameful confession to Sensei than her public E019 apology: she liked part of preparing violence and fears unfitness as chair. Sensei answers with trust in her history of guarding a line and acknowledgment of shared human weakness; she asks for continued presence and he agrees (scene:001:u:0001-0047). This deepens a supportive bond without a blanket absolution for harmed students. Sensei visits Shoko in confinement, brings her preferred sweets and promises to wait for her to move forward; she refuses remorse but gives him the Arashi name and privately cries. The relationship has contact and limited disclosure, not reconciliation or accepted accountability (u:0048-0085). Hina and Makoto share an Arashi/Emperor concern; Makoto withholds the Ibuki implication in a private thought, so no printed Hina-Ibuki confrontation follows (u:0086-0102). 423/480, checkpoint next.
+
+
+## S2 V003 C001 E001 relationship state delta
+
+Arona first defends, then apologizes for missed boarding; Sensei shares the lapse and invites Arona/Plana to search for small treasures. Their simultaneous delight and shell exchange show ordinary cooperative play, while tag drift blocks detailed voice attribution (scene:001:u:0001-0034). Arona reacts protectively to `S.O.S.`, Sensei asks for more evidence, and Plana reluctantly points to the council-president claimant as an information source (u:0035-0050). The claimant cooperates with Sensei's request to investigate the object but then orders all Odysseia ships back on her own claimed authority. No renewed trust or identity authentication between her and Sensei is proved by his consultation (u:0051-0076). 424/480, E002 unopened.
+
+
+## S2 V003 C001 E002 relationship state delta
+
+Mai presses Sensei for an explanation; the claimant intervenes to protect his confidential student contacts and offers Mai a future interview. Mai accepts and holds her junior from chasing the claimant, with no interview yet (scene:001:u:0015-0043). Sensei thanks the claimant and worries whether joining him cost her work time; she says the visit gives her a break, then makes an unexplained correction about a prior Odysseia visit (u:0041-0054). Sumika recognizes Sensei from a Pandemonium-linked encounter, fears a complaint, and asks him to validate today's escort after he reassures her (u:0071-0091). Minato and Ami receive the claimant and Sensei formally, with Minato welcoming the latter by reputation. Their acceptance of the claimant as president is present social recognition, not identity proof (u:0102-0125). 425/480, E003 unopened.
+
+
+## S2 V003 C001 E003 relationship state delta
+
+Minato and the claimant politely disagree on whether to tour first; Sensei's willingness resolves the immediate conflict. Sumika worries which authority outranks the other, but no formal jurisdiction decision is made (scene:001:u:0001-0018). Ami manages Sammy with affectionate discipline and later leaves to retrieve him when his escape causes trouble (u:0019-0033/u:0058-0073). Minato presents Odysseia's food and cruise clubs; Sumika's dessert story embarrasses the captain, with some speaker drift (u:0039-0057). Mitsuki welcomes Sensei and the claimant, then tries to wager a ship on their approval; Ami interrupts and requests they ignore further bets, a familiar corrective relationship by her account (u:0084-0125). The claimant enjoys the tour despite delay, and accepts Minato's invitation to curry dinner (u:0135-0153). 426/480, E004 unopened.
+
+
+## S2 V003 C001 E004 relationship state delta
+
+Mitsuki serves the claimant and Sensei curry and intends to tell kitchen students their praise; a habanero prank idea is stopped before action. Sumika admires the claimant's clean clothes, while Minato/Ami tease and police propriety (scene:001:u:0002-0042). Minato dismisses Sumika and others for private business, then relaxes; Ami scolds her but Sensei says she is easier to speak with, showing a less formal working rapport (u:0043-0061). Minato explains seafaring taboos and Sensei respectfully asks about their limits (u:0062-0084). When shown the ball, Minato recognizes her own former object, Sammy interrupts and Ami corrals him, linking school inquiry to their shared care for the cat (u:0085-0105). No full trust or emergency finding follows. 427/480, E005 unopened.
+
+
+## S2 V003 C001 E005 relationship state delta
+
+Minato apologizes to Sensei/claimant for the misleading toy; the claimant expresses relief, Sensei addresses Sammy as owner and the cat accepts contact. Ami calls Sammy broadly loved (scene:001:u:0001-0017). Minato and Ami share worry over Sammy's worsening condition and student distress. Embedded speakers A/B favor shore care, C/D fear abandoning their long-term companion to unfamiliar carers, without a reconciled collective choice (u:0018-0064). Minato turns to the claimant and Sensei because she cannot decide through familiar rules. The claimant presses sole captain accountability; Sensei interrupts to offer investigative help, and the claimant agrees to a bounded week, establishing a temporary cooperative inquiry without taking the decision away from Minato (u:0065-0094). 428/480, E006 unopened.
+
+
+## S2 V003 C001 E006 relationship state delta
+
+Sensei sees Sammy welcomed by students across ships; laundry A/B worry for his cough even as they fear the storm taboo (scene:001:u:0001-0026). Cruise loading members warn Sammy away from a railing, then become vulnerable to Mitsuki's punishment threat after his slip. The text does not show disciplinary follow-through (scene:002:u:0002-0025). Trident members tease Sumika about appointing herself supervisor, but Sammy's sudden slip makes Sumika nearly fall. Sensei catches the crisis; she thanks him and then notices the strong impact may have hurt him. His reported weakness leaves the rescue relationship open to a care response next (scene:003:u:0002-0037). 429/480, E007 unopened.
+
+
+## S2 V003 C001 E007 relationship state delta
+
+Sanae treats Sensei, jokes sharply about Trident patients and gives rest advice. Sumika apologizes to him yet quickly asks that her vice leader not hear of the near fall; no completed concealment is shown (scene:001:u:0002-0026). In frustration Sumika shakes Sammy and blames him; Sanae intervenes for his welfare, then Sumika voices fear that sending him away might make his last days worse (u:0027-0047). Their positions both contain care but differ on inference and authority. The claimant arrives, asks after Sensei's back and invites him to Island; Sensei accepts in choice-space. Her concern is present, but the supposed Island difficulty is still an expectation (u:0048-0059). 430/480, E008 unopened.
+
+
+## S2 V003 C001 E008 relationship state delta
+
+Ami pushes Minato to decide as rumor grows; Minato rejects equating Sammy's removal with the end of misfortune and still feels the school pressure. Sensei and the claimant arrive; Sensei limits Schale blame for his injury and encourages a public correction (scene:001:u:0001-0035). Minato then discloses both her principled awareness and her intimate attachment to Sammy, whom she calls a long-time friend after recalling the toy she made (u:0036-0070). The claimant offers to bear external resentment and take Sammy; Minato yields verbally. That shifts proposed responsibility but does not establish Sammy's consent, a trustworthy care handoff or settled student relations (u:0071-0087). 431/480, E009 unopened.
+
+
+## S2 V003 C001 E009 relationship state delta
+
+Students prepare to part from Sammy, disagreeing about shore care and the claimant's intervention while no one defies the removal decision. Gift givers are affectionate but revise excessive offerings, and Sumika faces their practical requests (scene:001:u:0001-0047). Narration records displeased looks at the claimant, who smiles; she later tells Sensei she took this hostility deliberately to spare his trusted-teacher relationship and push Minato beyond her captain role (u:0048-0086). Sensei asks how office constrains the claimant herself, and she admits she cannot imagine life as a normal student. He promises to support a future chosen wish, strengthening their present personal rapport without resolving her identity dispute or the cat's welfare (u:0087-0107). 432/480, E010 unopened.
+
+
+## S2 V003 C001 E010 relationship state delta
+
+Minato and Ami coordinate with the claimant over departure, yet Minato regrets not asking sooner and the claimant minimizes her own role. The Island member's ordinary-walk observation does not disclose Sammy's intent (scene:002:u:0002-0034). Odysseia and Trident students hide Sammy to retain time with him, turning quiet affection into local obstruction. Minato's account of school obedience is destabilized by their action (u:0056-0087). Minato risks a bow pursuit and falls into the sea; Sammy approaches, and she interprets this as worry for her, thanks him and apologizes. Their reciprocal bond is her articulated reading of a visible act, not a tested transfer preference (u:0088-0126). 433/480, E011 unopened.
+
+
+## S2 V003 C001 E011 relationship state delta
+
+Minato asks the claimant to reverse Sammy's removal despite predicted public ripples, saying her fear remains but she cannot expel a friend merely to keep taboo. The claimant accepts her answer (scene:001:u:0015-0045). Ami remains concerned about students who believe Sammy brings misfortune; Minato proposes that ordinary closeness may persuade over time, an untested relationship strategy (u:0046-0055). The claimant says she has lost Odysseia goodwill and asks Sensei for a local ice cream; he responds, but purchase is not shown. Sanae later calls Sensei urgently about Sammy's critical night, making care the live issue; no outcome is known (u:0056-0073). 434/480, E012 unopened.
+
+
+## S2 V003 C001 E012 relationship state delta
+
+Sumika is shocked by Sammy's deterioration and objects to the taboo; Sanae limits her intervention to Island authority while caring for the cat. Minato blames herself, and Sanae urges presence rather than single-cause counterfactuals (scene:002:u:0006-0017, u:0025-0026). Ami shares attachment but asks Minato to honor the major death-at-sea taboo. Sensei tries to redirect the discussion; Minato asks him to let Odysseia decide (u:0018-0031). Minato publicly names Sammy a friend and proposes a final voyage based on memories of his favored shipboard life, offering classmates leave without penalty. Collective acceptance and Sammy's current preference remain unknown (u:0032-0053). 435/480, E013 unopened.
+
+
+## S2 V003 C001 E013 relationship state delta
+
+Mai attempts to explain an unusual voyage from outside, but receives only a relayed 'seeing off a friend' purpose. Onboard, Minato speaks directly to weakly vocal Sammy and shows him the sea (scene:001:u:0001-0014; scene:002:u:0002-0016). Mitsuki and Trident students insist on joining; their participation supports a broader relationship beyond Island, while guest approval and all-club turnout remain unshown (u:0017-0043). Minato points to the school loving Sammy and carries him to his usual place; narration surrounds him with friends as his voyage ends (u:0044-0055). Five new narrow roles, 21 partial / 283 unmodeled across 304, 436/480. E014 unopened.
+
+
+## S2 V003 C001 E014 relationship state delta
+
+Sumika and a Trident peer continue automatic Sammy-care habits while grieving; Sensei visits privately and asks to be received as a friend, a label Sumika tentatively accepts (scene:001:u:0001-0027). Sumika's right-foot reminder is explicitly protective toward Sensei despite admitted superstition (u:0033-0037). Minato says all are outwardly well, keeps Sammy's cushion and credits Sensei, while her general claims of satisfaction lack independent voices (u:0038-0062). The claimant seeks Sensei to discuss Odysseia, praises Minato, then leaves an unexplained 'real captain' challenge when the train arrives (u:0063-0093). Two new narrow roles, 21 partial / 285 unmodeled across 306, 437/480. Backfill E001 next.
+
+
+## V001 C003 E001 backfill relationship state delta
+
+Francis addresses the Dweller as an expelled colleague and tries to warn/help it; the Dweller rejects his advice violently and claims solitary true-Gematria standing (scene:001:u:0001-0062). Yume and Hoshino share excitement, failed digging, mutual blame and a notebook disagreement in an earlier layer; label drift prevents assigning every comic turn (u:0063-0112). In the present committee, Shiroko/Nonomi retrieve a withdrawn Hoshino, then Ayane leads a shared debt briefing. Serika hopes to buy the claims, while a sudden sellout defeats that plan; the group reacts to Nephthys attribution, without revealing its decision-maker or effect on Nonomi (scene:002:u:0002-0104). Three new narrow subjects, 21 partial / 288 unmodeled across 309, 438/480. E002 unopened.
+
+
+## V001 C003 E002 backfill relationship state delta
+
+In an earlier encounter, Hoshino recognizes Nonomi as a Nephthys successor, threatens her and then sees she is frightened; no later durable hostility can be inferred from that slice alone (scene:001:u:0023-0068). In the present, Nonomi admits her family's company connection. Ayane says she suspected it from card and railway access, Serika is shocked but affirms Nonomi staying, and others' exact prior knowledge is blurred by swapped speaker labels (u:0069-0110). Nonomi asks Ayane to examine rights and says she does not know her family's purchase motive, creating an unclosed personal/institutional tension (u:0111-0138). Three new narrow subjects, 21 partial / 291 unmodeled across 312, 439/480. E003 unopened.
+
+
+## V001 C003 E003 backfill relationship state delta
+
+Ayane speaks for Abydos territorial consent and asks Sensei to command pursuit; Nonomi insists Highlander should have consulted first (scene:001:u:0032-0069). The twins rely on speed and their administrator, then face local defeat. Suou distances herself from them while apologizing as supervisor, describing internal mutual checks rather than school unity (scene:002:u:0001-0029). She singles out Nonomi as possibly informed by Nephthys; Nonomi's hesitant reply does not prove acquaintance or purchase control. Hoshino allows the twins to go under a promised later explanation (u:0030-0049). Four new narrow subjects, 21 partial / 295 unmodeled across 316, 440/480. E004 unopened.
+
+
+## V001 C003 E004 backfill relationship state delta
+
+Hoshino rescues Yume, then scolds her trust; Yume asks him to maintain aid and counts on his protection. The exchange establishes disagreement inside strong mutual reliance (scene:001:u:0001-0063). After her loss, Hoshino avoids closing her room. Nonomi offers family funds, receives a protective/sovereignty objection and promises to return under her own name (u:0064-0116). On a later visit she finds Hoshino distressed, mentions incomplete Yume reports, sees the decayed school and questions a privileged Highlander path, without a completed transfer in this episode (u:0117-0188). In the present Hoshino admits Suou and twins after an impatient bell, leaving trust unresolved (u:0189-0216). Two new narrow scammers, 21 partial / 297 unmodeled across 318, 441/480. E005 unopened.
+
+
+## V001 C003 E005 backfill relationship state delta
+
+Suou disciplines the twins and apologizes to Sensei for earlier miscommunication; the twins' casual challenge increases Abydos tension (scene:001:u:0001-0040). Nonomi recognizes the Nephthys executive who cared for her, but he appears with investors she did not expect and does not answer why her family backs the railway (u:0061-0106). Sensei asks for proof before dialogue and supports Ayane's Committee standing; Hoshino clarifies the old council's nominal persistence (u:0061-0078, u:0107-0132). The representative produces an alleged Yume-signed paper, provoking Hoshino without revealing the relationship's historical legal terms (u:0133-0137). Four narrow visitor roles, 21 partial / 301 unmodeled across 322, 442/480. E006 unopened.
+
+
+## V001 C003 E006 backfill relationship state delta
+
+Hoshino recognizes Yume's handwriting and says she had collected every remnant of her, making the unknown contract personally destabilizing (scene:001:u:0008-0025). Sensei protects deliberation time against investor pressure while Hoshino hesitates; the creditors' impatience does not produce a signature (u:0031-0071). Ayane asks for older council history. Hoshino discloses the 33-day absence, halo-destroyed discovery and her own knowledge gap; Nonomi tries to shield her, then Shiroko follows when the date match sends her out (u:0084-0158). Same-day contract is not proven cause of Yume's loss. 21 partial / 301 unmodeled across 322, 443/480. E007 unopened.
+
+
+## V001 C003 E007 backfill relationship state delta
+
+Shiroko asks Hoshino to stop hiding distress from the group. Hoshino uses humor to escape and says she needs to be alone; Shiroko pursues, fails to catch her and relays a tomorrow promise, so concern remains active (scene:001:u:0001-0040). Nonomi risks a call to her longtime Nephthys attendant; he offers money/card support while withholding business facts and blaming unspecified past damage, leaving familial trust strained (u:0041-0074). Sensei asks the group to rest and returns to Schale to investigate, while Arona worries about his overnight work and Plana later calls out over gas anomaly (u:0075-0167). 21 partial / 301 unmodeled across 322, 444/480. E008 unopened.
+
+
+## V001 C003 E008 backfill relationship state delta
+
+Plana asks Sensei to rest, protects him during Schale explosion, then is unconscious by Arona report; Arona worries and Sensei awareness fades. Their later states are open (scene:001:u:0001-0030). The committee cannot reach Sensei or Hoshino; Hoshino privately intends to return (u:0031-0045). Earlier, Yume thanks a stern newly enrolled Hoshino for stopping violence, and he later protects her from threatening locals and returns next day to help with petition despite denying concern. Her wish to be called senior suggests growing closeness, not a completed council appointment (u:0046-0131). Four narrow roles, 21 partial / 305 unmodeled across 326, 445/480. E009 unopened.
+
+
+## V001 C003 E009 backfill relationship state delta
+
+Yume and Hoshino tease each other over a notebook and whale design; Yume hopes Hoshino will inherit the diary, while Hoshino deflects its appearance and remains close despite earlier council refusals (scene:001:u:0017-0062). Their lost-item trip shows Yume taking risk for another person and Hoshino supplying a reserve compass (u:0063-0084). In the later historical cut Yume and Hoshino promise mutual protection; Hoshino accepts council membership, and Yume embraces her and wants a photo (u:0110-0155). In the present Ayane and Serika act without Hoshino's permission, Shiroko and Nonomi are already in the room, and Hoshino rebukes cabinet opening; the objection must remain part of the relationship record (u:0085-0109, u:0156-0198). No new subjects: 21 partial / 305 unmodeled across 326, 446/480. E010 unopened.
+
+
+## V001 C003 E010 backfill relationship state delta
+
+Hoshino acknowledges anger toward Yume and herself, reports a harsh festival-poster rebuke, then says she sent Yume away after rescuing her from thugs and intended to apologize before the disappearance (scene:001:u:0006-0048). This is retrospective self-reproach, not proof her rebuke caused Yume's death. She searched and recovered remains/equipment but still seeks the missing notebook for an explanation (u:0049-0072). Nonomi's conditional Nephthys worry threatens her sense of belonging without establishing family culpability. The executive arrives as her earlier-called `執事さん` and promises only a railway discussion; Hoshino and Shiroko leave the room together (u:0073-0087). No new subjects: 21 partial / 305 unmodeled across 326, 447/480. E011 unopened.
+
+
+## V001 C003 E011 backfill relationship state delta
+
+The Nephthys caretaker offers Nonomi a stronger card and Highlander return; Shiroko names her discomfort, Suou blames her Abydos choice, and Serika later refuses any solution that sacrifices her membership (scene:001:u:0005-0026; scene:005:u:0032-0043). Hoshino considers Yume contract continuation as the immediate protective path, but the executive's alternate invalidation proposal would erase the two-person council's authority, putting her history at stake (scene:001:u:0114-0124; scene:005:u:0044-0061). After visitors leave she gathers peers to deliberate, with Shiroko reinforcing collective possibility and Ayane calling rest (scene:005:u:0062-0081). Three new role actors: 21 partial / 308 unmodeled across 329, 448/480. E012 unopened.
+
+
+## V001 C003 E012 backfill relationship state delta
+
+Hoshino/Nonomi meet self-named Shiroko in the cold, offer a scarf, shelter and uniform, and later correct her scrap/truck scheme through apology rather than abandonment. Duel-for-enrollment terms are recalled, but no result is shown; Shiroko still has boundary-testing humor in the present (scene:001:u:0002-0115). Nonomi credits Shiroko with helping her stay in Abydos and Hoshino smile. Ayane/Serika's remembered arrival broadens the original three into five (u:0116-0178). Shiroko and Nonomi press Hoshino about the Yume council name; he admits some grief but asks peers to prioritize locating/destroying the gun and reaching the assembly. They accept the immediate plan without dissolving either bond or institution (u:0179-0220). News of Sensei's injury reaches them only at the close (u:0221-0234). One scrap-dealer role: 21 partial / 309 unmodeled across 330, 449/480. E013 unopened.
+
+
+## V001 C003 E013 backfill relationship state delta
+
+Nonomi approaches her former caretaker seeking a corporate solution that would preserve both Abydos institutions. He shames her with unspecified old damage, receives an apology under pressure, admits using the Schale/fund collision, and recasts her as hostage; the board authorization he invokes is uninspected (scene:001:u:0028-0127). Nonomi's message asks peers to forget her and keep Yume council, but its distressed/mediated form cannot erase her E012 wish to remain (u:0128-0141). Hoshino fears losing another loved person and assigns future liability to herself alone; Shiroko challenges her in a familiar relational language rather than accepting exclusion, and Serika/Ayane react with concern (u:0142-0180). No new subject: 21 partial / 309 unmodeled across 330, 450/480. E014 unopened.
+
+
+## V001 C003 E014 backfill relationship state delta
+
+Hoshino tells Shiroko that Nonomi saved her when she perceived the world as hostile, and now frames Nonomi's rescue as her own turn. She excludes the Committee from responsibility despite their shared history (scene:001:u:0011-0034). Shiroko openly names their memory asymmetry about Yume, then says Hoshino is also one of `みんな`; Hoshino apologizes but persists. Ayane angrily invokes an earlier departure pattern and Sensei's help in reuniting them, while Serika joins the intervention. The immediate contest has no printed resolution (u:0035-0055). No new subjects: 21 partial / 309 unmodeled across 330, 451/480. E015 unopened.
+
+
+## V001 C003 E015 backfill relationship state delta
+
+Yume historically prized daily time with Hoshino and asked her to stay beside/protect future juniors. Hoshino now calls Ayane/Serika Abydos's future, asks them to protect later students, and leaves despite their attack. She asks them to apologize to Sensei and says Nonomi/Shiroko/Ayane/Serika can continue as a team (scene:001:u:0001-0049). Shiroko checks on peers, is reported most injured and cannot identify a next step; Ayane says they failed to stop Hoshino (u:0050-0060). Hoshino privately vows not to repeat her earlier mistake with Nonomi, but rescue has not happened (u:0066-0069). No new subjects: 21 partial / 309 unmodeled across 330, 452/480. E016 unopened.
+
+
+## V001 C003 E016 backfill relationship state delta
+
+Sensei returns from hospital because of a promise, calms Serika/Ayane/Shiroko, asks to sort facts and receives their shared resolve to save Nonomi and Hoshino. Shiroko's wish that Hoshino not have to deny Yume's council is accepted by Sensei (scene:001:u:0030-0110; choice:001-010). Ayane volunteers for president in a three-student vote and announces preservation of Committee name; Serika jokes about forceful leadership while endorsing her. Ayane recasts absent Hoshino as secretary to limit her asserted solo contract power, and Sensei offers to locate Nonomi (u:0111-0174; choice:011-015). Group departs together; no rescue or Hoshino acceptance yet (u:0175-0192). One doctor role: 21 partial / 310 unmodeled across 331, 453/480. E017 unopened.
+
+
+## V001 C003 E017 backfill relationship state delta
+
+Sensei reports Nonomi's station location, and Shiroko thanks him, believing their rescue/contract/Hoshino aims can converge. An earlier Serika-abduction recollection has Shiroko and Sensei explaining Hoshino's unspoken worry; Serika reacts with embarrassed thanks, not present Nonomi participation (scene:001:u:0011-0049; choice:001). Ayane acts as on-site president, Shiroko predicts Hoshino's route, and Serika urges pursuit (scenes:002-007). Ayane tracks Hoshino pulling rapidly away; Shiroko runs after her without contact (scenes:009-010). Five narrow roles: 21 partial / 315 unmodeled across 336, 454/480. E018 unopened.
+
+
+## V001 C003 E018 backfill relationship state delta
+
+Suou tells the fund about Nephthys betrayal, then President reveals her former PMC tie; executive calls her ungrateful for Nephthys support, with current allegiance unresolved (scene:001:u:0017-0028). President turns on both investor representatives and Nephthys to pursue gun information and asserts subsidiary control under armed pressure (u:0029-0128). Sensei and the Committee choose to help surrounded Highlander students despite limited time; twins/student thank or accept assistance, but they still do not understand the dispute (scenes:002-006; choice:001). Hoshino is separately seen standing after General falters; no exchange with the Committee proves reconciliation (scene:006:u:0002-0028). No new subjects: 21 partial / 315 unmodeled across 336, 455/480. E019 unopened.
+
+
+## V001 C003 E019 backfill relationship state delta
+
+Nonomi confronts the former caretaker over Kaiser collusion and rejects his power-for-Abydos rationale, while Suou invokes a doubtful past-violence analogy (scene:001:u:0010-0027). Hoshino reaches Nonomi, asks about injury and considers council invalidation to secure release; Nonomi offers to leave Abydos to remove hostage value and begs her not to sacrifice herself. No formal withdrawal follows (scene:003:u:0002-0047). Sensei/Ayane/Shiroko/Serika arrive before noon to contest Hoshino's solitary act; President rejects their voice and orders Nonomi taken. Final cut shows Hoshino and Nonomi still together and group pursuit beginning (scenes:004-006). One PMC B role: 21 partial / 316 unmodeled across 337, 456/480. E020 unopened.
+
+## V001 C003 E020 backfill relationship delta
+
+Nonomi is with the group after the assembly and protests her card seizure; card possession now passes visibly to Suou, but her physical custody and card use afterward are unshown (scene:001:u:0010-0018). Shiroko, Serika, Ayane, Nonomi and Sensei urge Hoshino to stay and plan with them, invoking both Nonomi safety and old council continuity (u:0058-0067; choice:001). Hoshino apologizes and thanks them for guarding Yume memory, yet refuses joint action in order to assign blame to herself; that is a renewed relationship rupture rather than durable reconciliation (u:0068-0084). Suou shifts from corporate intermediary to direct Hoshino challenger, but the cause of President/pilot distress and Suou's precise action remain unprinted (u:0031-0048).
+
+## V001 C003 E021 backfill relationship delta
+
+Nonomi hears her caretaker's apology and past-glory account, states she can say nothing further, then parts to pursue Hoshino; remorse is shown, absolution is not (scene:001:u:0010-0032). Serika counters Shiroko's self-blame, while Ayane/Nonomi/Shiroko name Hoshino's threatened lone liability and Yume-shadow pattern (u:0033-0049). Nonomi argues the group must solve it themselves rather than recruit only a stronger fighter (scene:002:u:0015-0019). The executive nevertheless provides location and branch information; Hikari, Nozomi and clerk volunteer rail help after being aided, and the group boards together (u:0026-0109). Their aid is a concrete but risky reciprocity, not proof Hoshino is yet reached or reconciled.
+
+## V001 C003 E022 backfill relationship delta
+
+Nozomi/Hikari choose to shield the Abydos group with a timed rail diversion; Nonomi thanks them, Shiroko physically prioritizes Sensei, and the group escapes after a difficult dismount (scene:001; scene:002:u:0016-0021). Hikari faces PMC and asks not to be shot, using banter to conceal the passengers; release or capture is not shown (scene:002:u:0005-0015). Ayane coordinates the continuation toward Hoshino from branch controls, but direct contact/reconciliation with Hoshino has not occurred (scene:003). Their cooperation is a present event, not proof the long-term Hoshino solo pattern has changed.
+
+## V001 C003 E023 backfill relationship delta
+
+Hoshino and Suou directly confront one another at the Valley gun. Hoshino rejects a long origin explanation, asks why Suou summoned her and persists in a Yume-framed destruction plan (scene:001:u:0032-0044). Suou says Hoshino was her true target, frames years of shifting affiliations as a path toward this fight, and offers a notebook-location clue if beaten (u:0049-0058). This is Suou's self-account and deliberate challenge, not proof of her employment history or notebook control. Nonomi remains connected through the gold card Suou holds; the dialogue at u:0010-0012 does not prove Nonomi physically at the Valley. Battle begins only as a declared intent, with outcome unshown (u:0059-0061).
+
+## V001 C003 E024 backfill relationship delta
+
+Hoshino wants Suou moved aside before younger peers arrive; Suou resists, so their fight remains active (scene:001:u:0001-0008). The Abydos/Sensei group actually arrives, sees the gun and then runs toward Hoshino gunfire, making their E022 pursuit concrete but not yet reuniting them (u:0018-0041,0059-0064). Arona expresses worry over Plana's exhaustion and pain; Plana wakes to report being watched, an uncertain external threat rather than a diagnosed condition (u:0042-0058). The students' group response does not yet change Hoshino's stated solitary plan.
+
+## V001 C003 E025 backfill relationship delta
+
+Hoshino gains the apparent upper hand against Suou and asks about prior connection/notebook, receiving evasion and a retracted clue (scene:001:u:0001-0018). Serika welcomes Hoshino back, while Sensei, Nonomi, Serika, Shiroko and Ayane reach her to oppose the planned solo destruction (u:0022-0037; choice:001). Nonomi explicitly compares Hoshino's unilateral school exit to the former pattern. Ayane threatens capture if talk fails and asserts her president address to Hoshino; no fight with peers or consent to return has occurred (u:0035-0044). This is direct contact, not reconciliation.
+
+## V001 C003 E026 backfill relationship delta
+
+Hoshino's force leaves Ayane, Nonomi, Serika and Shiroko exhausted, and she asks Shiroko to stop after the group failed (scene:001:u:0001-0014). Shiroko refuses and frames a personal contest as the condition for listening to Hoshino; this is direct attachment conflict, not reconciliation or durable separation (u:0012-0018). Sensei is present in inward reaction only, with no printed mediation. Card/gun custody and group membership remain unresolved.
+
+## V001 C003 E027 backfill relationship delta
+
+Shiroko credits Sensei in her strength, Nonomi admits guilt projected onto Hoshino, and Shiroko/Serika/Ayane ask for Hoshino's story and shared responsibility (scene:001:u:0001-0039). Hoshino discloses grief and briefly accepts the return invitation, including Ayane's presidency and affectionate address (u:0040-0062). Suou's threat and Dweller interruption make her leave again; she thanks peers but calls suffering her own (u:0063-0088). Sensei requests a relevant helper; the later Hina encounter strongly links her to that unnamed response, and Hina directly resists Hoshino's plan (u:0155-0186). None is durable reconciliation or a completed fight result.
+
+## V001 C003 E028 backfill relationship delta
+
+Hina directly opposes Hoshino, predicts her opening search and intercepts again after Hoshino thinks she escaped (scene:001:u:0002-0023). This is protective force in service of stopping a risky solo plan, but Hoshino does not consent and the encounter has no outcome. Sensei and Abydos peers are absent from printed action here; the prior help request remains contextual, not a shown real-time command to Hina. No relationship reconciliation or custody transition is evidenced.
+
+## V001 C003 E029 backfill relationship delta
+
+Hoshino tries to exclude Hina as an unrelated outsider, while Hina insists she is connected and refuses to give up. Hoshino guesses Sensei's request but receives no answer in this exchange (scene:001:u:0005-0013). Both are visibly winded on the train; Hoshino plans to push Hina off to end pursuit, but no fall or injury occurs in print (u:0015-0025). Their opposition persists without a mediated conversation or consent to return.
+
+## V001 C003 E030 backfill relationship delta
+
+Historical Hoshino lashes out at Yume, intends to return and finds her absent with a grateful farewell-like memo and broken message. Hoshino then repeatedly questions Yume's errand and blames her own words, despite no demonstrated fatal causal chain (scene:001:u:0001-0045). Present Hoshino remembers a shared Yume visit near Great Oasis and still prioritizes gun destruction over checking Hina after their reported fall (u:0046-0058). Hina reappears and names Yume, opening a new conversation whose content is deferred (u:0059-0066).
+
+## V001 C003 E031 backfill relationship delta
+
+Hina stops Hoshino physically, explains Sensei asked her, and brings her own investigated Yume/Thunder Emperor stake to the conversation (scene:001:u:0001-0045). She praises Hoshino's staying/protection despite opposing her solo plan; Hoshino begins reconsidering what she protects (u:0046-0055). An earlier Black Suit offer would have removed Hoshino from Abydos for debt relief, but she refuses (u:0056-0075). Hikari/Nozomi and Abydos/Sensei reappear together to intercept the gun; how the twins rejoined is not printed (u:0076-0093). No durable Hoshino consent or gun resolution yet.
+
+## V001 C003 E032 backfill relationship delta
+
+Hina keeps Hoshino down and tries to reason that Sensei/group can solve the gun threat; Hoshino instead fixates on Yume's irreversibility and lost words (scene:001:u:0001-0025). Dweller's unseen replies draw Hoshino into counterfactual isolation while Hina wonders whom she addresses (u:0026-0041). Suou is down after the group's intervention and the twins speak to her, but her later recovery/custody remain unknown (u:0086-0088). Sensei/peers see a new disturbance and worry about Hoshino/Hina, without contact established at cut (u:0081-0093).
+
+## V001 C003 E033 backfill relationship delta
+
+Peers and Sensei call to altered Hoshino, who still murmurs Yume/notebook; Hina says she could not stop the change (scene:001:u:0031-0048). Arona/Plana worry for Sensei and Hoshino; Sensei inwardly rejects Hoshino's halo destruction (u:0049-0078). Shiroko vows to save Ayane, Serika, Nonomi, Hoshino and Sensei, but frames herself as the only possible actor (u:0079-0089). Sensei then loses consciousness and an unidentified soft voice calls him, with no confirmed contact/recovery (u:0090-0100). Relationship intent is direct; outcomes remain open.
+
+## V001 C003 E034 backfill relationship delta
+
+Sensei encounters a Yume-labeled supportive voice in a likely vision and resolves to help a reachable child; that relation is an experience, not a historical Sensei/Yume acquaintance (scene:001:u:0001-0033). He meets Dweller directly and contests the game-end claim (u:0034-0040). Two Shirokos appear to interact as counterparts, one affirming the other's strength and offering help for Hoshino; exact individual tags are unreliable (u:0041-0054). Hoshino says others cannot understand her suffering, while a Shiroko voice says she does and offers combat; no reconciliation follows yet (u:0055-0064).
+
+## V001 C003 E035 backfill relationship delta
+
+Plana warns other-time-axis Shiroko that local Shiroko summoned Color; the counterpart responds and accepts responsibility for helping, while Ayane/Nonomi/Serika recognize her arrival (scene:001:u:0001-0027). The counterpart meets altered Hoshino's assertion of inaccessible suffering with recognition, creating a possible point of contact but no restoration yet (scene:002:u:0001-0003). Sensei's inward plea for Shiroko to stop is repeated; his medical state is not updated. The Dweller's Set plan stalls, but his antagonism continues (u:0004-0020).
+
+## V001 C003 E036 backfill relationship delta
+
+Local/counterpart Shiroko disagree about Hoshino's halo and whether prior resolve equals current wish. Both attend to the notebook-like form and possible remaining Hoshino anchor (scene:001:u:0001-0042). Plana asks Arona to hold her hand during a feared sleep/resource sacrifice; Arona pledges to wait, while Plana asks concealment from Sensei, leaving an ethical information gap (u:0043-0067). Hina returns to aid the group, and Sensei's failed reach hands communication to Committee/counterpart. A Shiroko includes the other as Abydos in familiar banter (u:0068-0084; scene:002). No Hoshino response yet.
+
+## V001 C003 E037 backfill relationship delta
+
+Nonomi, local Shiroko, Ayane and Serika reach Hoshino with differentiated appeals: unexpressed Yume feelings, accident/rescue memory, concern for self-punishment, and an ordinary return invitation (scene:001:u:0001-0052). Counterpart Shiroko proposes carrying Yume memory forward; Hoshino recognizes her own kept-weapons grief, and counterpart admits uncertainty about letting go (u:0053-0082). Sensei supports Hoshino's knowledge of Yume without claiming access to lost facts; Hoshino then encounters a Yume-labeled greeting in a notebook-like experience (u:0099-0119). Outcome and durable repair are not yet printed.
+
+## V001 C003 E038 backfill relationship delta
+
+Within the altered encounter Hoshino receives a Yume-labeled future letter that asks whether she cares for juniors and accepts friends' help; Hoshino cries and feels inadequate (scene:001:u:0001-0021). The Yume-like voice knows her efforts, comforts her and produces a laugh, then acknowledges her wish to meet while sending her back to protect juniors (u:0022-0049). This is meaningful inner contact but does not establish Yume physically returned or that Hoshino has rejoined peers externally. That relationship outcome awaits the next units.
+
+## V001 C003 E039 backfill relationship delta
+
+Hoshino's first external exchange after the altered contact names all four current Committee juniors, recognizes counterpart Shiroko separately, and addresses Hina personally before joining them against the threat (scene:001:u:0001-0009). This is observable relationship repair in action but does not prove durable recovery after crisis. Arona credits Plana's process discovery; the two OSs jointly support Sensei, while Plana interprets his message and Arona reacts to her sharpness (u:0024-0038,0070-0078). Sensei's adult duty extends concern to suffering children generally, with no battle outcome yet (u:0043-0052).
+
+## V001 C003 E040 backfill relationship delta
+
+Hoshino shows concern for Hina's ability to stand and quietly addresses a senior about finding treasure; the latter is plausibly Yume but remains an unlabelled addressee (scene:001:u:0003-0021). Current and counterpart Shiroko argue playfully about a gifted mask and competing nicknames; Serika and Ayane mediate the shared-name confusion (u:0035-0044). Hoshino's familiar response to the messy group scene adds ordinary-company evidence following E039's explicit cooperative greeting (u:0045-0049). No durable reconciliation or counterpart departure is shown.
+
+## V001 C003 E041 backfill relationship delta
+
+Nonomi handles everyone's laundry; Hoshino sleeps against Hina until Sensei helps wake her; Hina leaves after the group thanks her and promises later gun investigation (scene:001:u:0034-0103). At the regular meeting Hoshino apologizes to juniors/Sensei, they affirm her return and ask her someday to tell them about Yume (u:0104-0158). In private exchange Hoshino names persistent regret and gratitude for current friends and counterpart Shiroko, then says holding loss need not block grasping offered hands (u:0159-0176). Counterpart Shiroko spares Dweller and disconnects from Plana/Arona; future relationship status is open (u:0177-0212).
+
+## V001 C003 E042 backfill relationship delta
+
+Ayane notices Hoshino accepts the presidency while local Shiroko and Serika argue over an unsuccessful oasis dig; the swimsuit-order joke shows ordinary friction within a functioning Committee (scene:001:u:0008-0029). Makoto and Hina jointly handle the legacy despite Ayane's expectation of hostility, with private reconciliation unknown (u:0030-0037). Suou works among Highlander/Nephthys staff but her inner shift remains silent (u:0051-0068). Ayane, Hoshino, Serika and Sensei lack counterpart Shiroko's location and hope to thank her on return; this is a continuing bond without contact (u:0079-0086; choice:001).
+
+## V001 C003 E043 backfill relationship delta
+
+Serika serves at the Master’s busy restaurant, and the Committee responds to local Shiroko chasing theft; Sensei follows her (scene:001:u:0001-0032). He meets counterpart Shiroko, asks about shelter/food, offers ramen without pressing when she declines, and does not demand her trauma account (u:0033-0048). He gives a smartphone and invites future contact; she agrees but no call is printed (u:0065-0074). She later joins local Shiroko, Hoshino and Committee for a Binah approach, saying `今回だけ`; co-presence and action are observed, durable membership is not (u:0078-0113).

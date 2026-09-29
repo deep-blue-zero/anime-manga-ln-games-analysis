@@ -365,6 +365,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "ntr-netsuzou-trap",
+      "stable_slug": "ntr-netsuzou-trap",
+      "canonical_title": "NTR: Netsuzou Trap",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/ntr-netsuzou-trap/",
+      "canonical_entrypoint": "series/ntr-netsuzou-trap/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_NTR_BOOTSTRAP_20260928",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Provisional Japanese manga bootstrap awaiting owner audit; V01–V06 EPUBs inventoried in Drive, no narrative volume admitted or inspected, supplements quarantined, sequential lock CLOSED."
+    },
+    {
       "series_id": "one-punch-man",
       "stable_slug": "one-punch-man",
       "canonical_title": "One Punch Man",
@@ -664,6 +680,22 @@
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_TOMOZAKI_BOOTSTRAP_V0_1",
       "authority_status": "GIT_PRIMARY",
       "catalog_note": "post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane."
+    },
+    {
+      "series_id": "watayuri",
+      "stable_slug": "watayuri",
+      "canonical_title": "Yuri Is My Job!",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/watayuri/",
+      "canonical_entrypoint": "series/watayuri/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_WATAYURI_BOOTSTRAP_20260928",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Owner-approved Japanese manga architecture with the sequential-analysis lock OPEN. Drive inventory contains V01–V14 and a separate V10 special-edition booklet; no narrative volume has yet been inspected. V01 is the next single-volume candidate."
     },
     {
       "series_id": "wuthering-waves",
