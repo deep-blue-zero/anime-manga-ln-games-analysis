@@ -4,13 +4,13 @@ artifact_id: RAG_MAMI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.7"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V030, with V011-V019 and V027-V029 treated as negative-evidence intervals."
+source_boundary: "Operational model based only on Japanese manga witnesses RAG-JP-EPUB-V001-V039, with V011-V019 and V027-V029 treated as negative-evidence intervals."
 ---
 
 # Mami Nanami reconstruction model
@@ -57,13 +57,16 @@ model_basis:
     - RAG-JP-EPUB-V028
     - RAG-JP-EPUB-V029
     - RAG-JP-EPUB-V030
-  admitted_through_volume: V030
+    - RAG-JP-EPUB-V037
+    - RAG-JP-EPUB-V038
+    - RAG-JP-EPUB-V039
+  admitted_through_volume: V039
   narrative_time_boundary: "after Mami initiates a public tea meeting with Kazuya, hears his apology, and ends it without declaring a goal"
   basis_checkpoint: RAG_CP_V020
   basis_commit: 940f1b3050e41ff0fac8a79fcdbb8260b0f0ca06
   model_revision: "1.7"
   prior_knowledge_limitations:
-    - "No post-V030 narrative evidence is admitted."
+    - "No post-V039 narrative evidence is admitted."
     - "Mami's final motive and desired endpoint remain unknown."
     - "V011-V019 contain no material observed Mami conduct and cannot be filled with inferred hidden actions."
 coverage:
@@ -766,3 +769,11 @@ Abstain whenever the outcome depends on solving her motive, inventing V011-V019 
 The model is admitted as `PARTIAL_MODEL`. Repeated information acquisition, audience-sensitive presentation, contradiction testing, and access-building recur across peer, platform, workplace, online, business, venue, and family contexts. V025 adds formative history and coercive private intervention; V026 validates selective public accusation and repeated bodily verification after resistance. These additions narrow method and appraisal without solving motive, while the long negative-evidence interval and sparse ordinary routine remain substantial. Operational use is limited to named information, autonomy-threat, access, and public-verification pressures with explicit abstention on endpoint and post-setback conduct.
 
 V030 supplies the first observed post-setback contact: Mami requests a public meeting, hears Kazuya's apology, asks a probing question, and ends the encounter (RAG-E-V030-007). Renewed access is supported; a specific motive, forgiveness, or renewed antagonism is not. The V027-V029 gap and brief exchange prevent promotion beyond PARTIAL_MODEL.
+
+## V038 local validation
+
+V038 adds a salon reflection in which Mami questions her own experience of love, followed by her silent observation of Kazuya and Chizuru together at the mall. This changes her private information and complicates a purely settled motive reading, but the volume shows no contact or action against either principal. Her next use of that observation remains unknown (RAG-E-V038-002, -007).
+
+## V039 local validation
+
+V039 moves Mami from V038's distant observer to direct questioner. She meets Kazuya with Hakuba, asks whether Kazuya and Chizuru are dating, and states Hakuba is not her boyfriend. Private reflection after the meeting suggests unresolved personal stake, but neither her exact motive nor an intervention is demonstrated. Kazuya's later declaration to Chizuru also cannot be imputed to Mami's knowledge (RAG-E-V039-006 through -008).

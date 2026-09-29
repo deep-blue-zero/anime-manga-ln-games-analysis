@@ -4,13 +4,13 @@ artifact_id: RAG_MINI_EVIDENCE_LEDGER
 artifact_type: character_evidence_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.4"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-20"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V030; character evidence inspected through V030, with no material V021-V026 conduct."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V013-V040; character evidence inspected through V037."
 ---
 
 # Mini Yaemori evidence ledger
@@ -26,7 +26,7 @@ japanese_name: 八重森みに
 character_entity_id: null
 analysis_subject_id: null
 continuity: manga
-inspected_through_volume: V029
+inspected_through_volume: V040
 local_readiness: PARTIAL_MODEL
 ~~~
 
@@ -62,6 +62,21 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 | RAG-MIN-E022 | MIN-S007 | RAG-E-V029-004 through RAG-E-V029-008 | Displacement response and forceful housing intervention | Faces building closure, proposes family-house cohabitation, contacts Chizuru at the bar, and offers herself as a third resident. | Coordinates a practical solution while continuing romantic interpretation. | Her initiative is not a substitute for Chizuru's consent or a reliable love diagnosis; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
 | RAG-MIN-E023 | MIN-S007 | RAG-E-V029-008, RAG-E-V029-009, RAG-E-V029-012 | Kiss suggestion, taxi interruption, and accepted invitation | Suggests a kiss test, is stopped, calls transport, interrupts the approach, and later accepts Chizuru's house invitation. | Her mediation has both boundary-testing and concrete logistical effects. | The suggestion does not authorize an intimate test; no completed kiss is shown; RAG-MIN-R002, RAG-MIN-R004, RAG-MIN-R006. |
 | RAG-MIN-E024 | MIN-S008 | RAG-E-V030-002 through RAG-E-V030-004 | Third-resident implementation and commentary | Moves belongings into the house, coordinates bath access, and comments on Kazuya's anxious interpretations. | Her practical third-party role becomes enacted residence, not just proposal. | Her romantic diagnosis remains an interpretation, and residence grants no authority over the principals' private answer; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E025 | MIN-S009 | RAG-E-V031-003, RAG-E-V031-005 | Birthday co-hosting | Waits at the house with Sumi and Kazuya, improvises a party sign, and helps welcome Chizuru. | Proactive organization can support a chosen social event. | The positive event does not validate her diagnosis of Chizuru's feeling; RAG-MIN-R001, RAG-MIN-R003. |
+| RAG-MIN-E026 | MIN-S009 | RAG-E-V031-008 through RAG-E-V031-010 | Progress pressure and bath intrusion | Presses Kazuya for milestones, enters Chizuru's bath, and demands a simple progress account; Chizuru instead asks her view of Kazuya. | Her role shifts from household support to intimate interrogation and possible testimony. | Intrusion is not authorized by her helpful purpose; testimony and answer are pending; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E027 | MIN-S010 | RAG-E-V032-001 | Answering a requested character question | Describes Kazuya favorably to Chizuru, then reports that conversation to Kazuya. | Moves from unrequested probing to a direct, chosen information role. | The report includes her judgment and cannot reveal Chizuru's final classification; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E028 | MIN-S010 | RAG-E-V032-004 through RAG-E-V032-008 | Shopping participant and quick interpreter | Notices post-storeroom awkwardness, joins the replacement trip, makes date-like and appearance comments, and helps compare goods. | Practical help and intrusive romantic labeling remain intertwined. | Her labels cannot decide the principals' status or authorize proximity; RAG-MIN-R001, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E029 | MIN-S011 | RAG-E-V033-002 through RAG-E-V033-004 | Belated birthday and game staging | Says she turned twenty on April 8, proposes Twister as romantic rehearsal, runs the spinner, and asks for a group photograph. | Creates a pleasant memento while trying to engineer closeness. | Chizuru's participation and photo do not validate Mini's test theory; RAG-MIN-R001, RAG-MIN-R002, RAG-MIN-R006. |
+| RAG-MIN-E030 | MIN-S011 | RAG-E-V033-006 through RAG-E-V033-009 | Overhearing and rival interpretation | Hides with Kazuya, hears Umi's confession and his decision to postpone hearing Chizuru's answer, then urges Kazuya to act rather than concede. | Supplies encouragement after a real new information event. | She does not know Chizuru's intended answer and has not gained permission to share the overheard exchange; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E031 | MIN-S012 | RAG-E-V034-008 | Forgotten laundry and third-party interruption | Arrives at the washer after Kazuya's accidental discovery, says she too forgot laundry, and teases the embarrassed residents. | Her timing changes how an awkward privacy incident is handled. | The page does not establish a calculated setup or ownership of every garment; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E032 | MIN-S012 | RAG-E-V034-009, RAG-E-V034-010 | Television invitation and themed card-game staging | Invites the housemates to watch comedy and proposes `ito`, selecting a romantic-partner desirability prompt. | Again supplies a low-stakes group activity with potential diagnostic pressure. | Game participation and assigned numbers cannot certify anyone's romantic feeling; RAG-MIN-R001, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E033 | MIN-S013 | RAG-E-V035-001, RAG-E-V035-002 | Game interpretation and pressure | Participates in resolving the `ito` rankings and treats Chizuru's conditional example as a possible romantic clue. | Repeats her third-party interpretive role. | Chizuru expressly keeps the elaborate example separate from her personal requirement; Mini's reading is not Chizuru's answer; RAG-MIN-R001, RAG-MIN-R003. |
+| RAG-MIN-E034 | MIN-S013 | RAG-E-V035-006, RAG-E-V035-008 | Household intermediary | Learns of Chizuru's period, teases Kazuya's secrecy, and later comments on the pair's care episode. | Makes a private household moment socially legible while encouraging action. | She does not grant room access or know Chizuru's final romantic classification; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E035 | MIN-S014 | RAG-E-V036-003 through RAG-E-V036-005 | Cosplay sales and intermediary pressure | Recruits help for her goods stall, offers Chizuru a costume, and teases Kazuya and Chizuru after their compliment exchange. | Creates a shared public task and highlights their awkwardness. | Chizuru reschedules voluntarily and Mini cannot decide her feeling; RAG-MIN-R001, RAG-MIN-R003. |
+| RAG-MIN-E036 | MIN-S014 | RAG-E-V036-011, RAG-E-V036-012 | Date advice and bodily information | Celebrates the agreed date, urges high-effort planning, and later mentions a mole she saw on Chizuru's thigh. | Continues social coaching but also crosses into a private bodily topic. | Her optimism and observation are not Chizuru's consent or verdict; RAG-MIN-R002, RAG-MIN-R003, RAG-MIN-R006. |
+| RAG-MIN-E037 | MIN-S015 | RAG-E-V037-001, RAG-E-V037-002 | Enthusiasm and game setting | Asks Chizuru about the date and joins a `Bounce Off` game with both principals. | Sustains an ordinary shared-house occasion while pressing a romantic interpretation. | Chizuru's caution outranks Mini's optimism; RAG-MIN-R002, RAG-MIN-R003. |
+| RAG-MIN-E038 | MIN-S015 | RAG-E-V037-007 | Separate hotpot rehearsal | Eats with Kazuya, draws out preferences and warns against overmanaged or interrogative date talk. | Her support becomes practical coaching. | She does not know Chizuru's final answer or attend the agreed date; RAG-MIN-R002, RAG-MIN-R003. |
+| RAG-MIN-E039 | MIN-S015 | RAG-E-V040-007, RAG-E-V040-008 | Final date encouragement | Offers date-oriented advice and encouragement as Kazuya prepares; sees the unexpected rain. | Continues a familiar support role before the principals depart. | She does not control Chizuru's answer or accompany the outing; RAG-MIN-R002, RAG-MIN-R003. |
 
 ## State-change summary
 
@@ -73,6 +88,10 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - MIN-S006 — outcome-seeking intermediary after direct recontact: asks for the result, learns that investigation rather than classification followed, and immediately generates possible tests whose authority remains only speculative.
 - MIN-S007 — displaced logistical intermediary and invited third housemate: advocates cohabitation, crosses a boundary with a suggested kiss demonstration, arranges the taxi, and later accepts Chizuru's separate invitation into a bounded household.
 - MIN-S008 — active third resident and informal interpreter: moves into the family house, participates in facility coordination, and comments on Kazuya's anxious reading without acquiring authority over Chizuru's answer.
+- MIN-S009 — birthday organizer and intrusive progress witness: helps welcome Chizuru, presses Kazuya for milestones, enters Chizuru's bath, and receives a request for her view of Kazuya.
+- MIN-S010 — requested witness and practical shopping companion: answers Chizuru's question and helps with goods while still interpreting the principals through her romance theory.
+- MIN-S011 — birthday-game organizer and rival-interpreter: stages Twister as an intimacy rehearsal, secures a group photo, then overhears Umi's confession and encourages Kazuya without knowing Chizuru's intended reply.
+- MIN-S012 — household interrupter and game host: arrives during a laundry privacy mishap with her own forgotten clothes, then organizes television and an `ito` round whose romantic theme cannot decide the principals' feeling.
 
 ## Written-speech and ordinary-conduct notes
 
@@ -81,6 +100,7 @@ entry_id | source_state | evidence_refs | access_type | domain | represented_sta
 - She frequently treats relational inertia as a problem to solve, which produces useful disclosure and nonconsensual engineering in the same evidence set.
 - V027 shows the same duality without logistical deception: direct pressure and selective relay help end paralysis, while confident labeling and unrequested mediation remain authorization risks.
 - V028 preserves that calibration problem after success: Mini accurately learns that inquiry began but fills the unspecified method with her own compatibility theories (RAG-E-V028-005).
+- V031 adds a positive birthday-organizing instance and a sharper privacy limit: she creates a welcome, then intrudes into Chizuru's bath to demand progress. Chizuru's subsequent request for testimony does not retroactively authorize the entrance (RAG-E-V031-003, RAG-E-V031-005, RAG-E-V031-008 through RAG-E-V031-010).
 - She can state her own privacy boundary clearly and can admit a deception after direct questioning.
 - Ordinary-life coverage includes university adjacency, creator/streamer identity, room access, group work, public peer contact, and confidant visits; independent friendships, family, finances, creator routine, and non-support goals remain thin.
 

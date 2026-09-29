@@ -1,0 +1,35 @@
+{
+  "schema_version": "sigrika.audio-stage-validation.v0.2",
+  "status": "PASS",
+  "scope": "mechanical source/measurement/model consistency; non-blind probe predicates",
+  "full_work_directory_checks": "completed",
+  "counts": {
+    "findings": 12,
+    "added_nonblind_probes": 12,
+    "source_defined_cohorts": 8,
+    "same_semantic_cases": 20,
+    "selected_case_render_associations": 80,
+    "video_target_joins": 24,
+    "verified_archives": 19,
+    "all_objects_checked": 2809,
+    "all_render_associations_checked": 2837,
+    "semantic_records_checked": 704,
+    "audio_source_hashes_checked": 6
+  },
+  "nonblind_probe_predicates": {
+    "SIG-AP-01": true,
+    "SIG-AP-02": true,
+    "SIG-AP-03": true,
+    "SIG-AP-04": true,
+    "SIG-AP-05": true,
+    "SIG-AP-06": true,
+    "SIG-AP-07": true,
+    "SIG-AP-08": true,
+    "SIG-AP-09": true,
+    "SIG-AP-10": true,
+    "SIG-AP-11": true,
+    "SIG-AP-12": true
+  },
+  "errors": [],
+  "no_claim_of_perceptual_listening_or_predictive_accuracy": true
+}

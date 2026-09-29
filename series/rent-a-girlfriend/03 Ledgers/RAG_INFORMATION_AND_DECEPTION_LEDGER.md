@@ -4,13 +4,13 @@ artifact_id: RAG_INFORMATION_AND_DECEPTION_LEDGER
 artifact_type: information_deception_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V040; inspected and closed through V040."
 ---
 
 # Information and deception ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V030
-row_count: 180
-state: CURRENT_THROUGH_V030
+inspected_through_volume: V033
+row_count: 186
+state: CURRENT_THROUGH_V033
 ```
 
 ## Records
@@ -222,3 +222,65 @@ state: CURRENT_THROUGH_V030
 | RAG-INF-178 | Kazuya tells Ruka a family-home destination and lets Nagomi continue assuming genuine dating. | Both audiences lack the actual Chizuru-house arrangement, while Kazuya and the housemates know it. | V029's possible asymmetry becomes active concealment. | Neither Ruka nor Nagomi receives the full truth or an informed response opportunity; RAG-E-V030-001. |
 | RAG-INF-179 | Chizuru states household terms and a no-present request before her April 19 birthday. | Kazuya receives explicit practical limits but overreads some ordinary phrases through desire and anxiety. | Direct speech and private focalization must remain distinct. | The no-present wording neither invites a gift nor forbids all care; RAG-E-V030-002, RAG-E-V030-004, RAG-E-V030-006. |
 | RAG-INF-180 | Mami asks about Kazuya's apology without declaring her purpose; Sumi hears only the birthday concern and treats his cut. | Kazuya cannot know Mami's endpoint, and Sumi does not receive Chizuru's private answer. | The two meetings distribute partial knowledge differently. | Neither woman's response supplies Chizuru's feeling classification; RAG-E-V030-007, RAG-E-V030-008. |
+| RAG-INF-181 | Sumi arrives expecting Chizuru and finds Kazuya and Mini residing at the family house. | A trusted friend gains the true housing fact that Ruka and Nagomi have not been shown receiving. | Audience asymmetry widens without immediate exposure or confrontation. | Sumi's knowledge does not establish what she will tell others; RAG-E-V031-002. |
+| RAG-INF-182 | Chizuru clarifies that the no-present request was addressed to Kazuya and accepts his later coupon. | Kazuya's universal-ban inference is corrected by the speaker who owns the boundary. | Direct clarification improves the local information state. | It does not authorize unlimited service or answer the love question; RAG-E-V031-003, RAG-E-V031-006, RAG-E-V031-007. |
+| RAG-INF-183 | Chizuru tells Sumi she cannot classify her feeling as love, later tells Mini she is still trying, and asks Mini for her view of Kazuya. | Sumi and Mini receive different direct views of the same unresolved inquiry. | The uncertainty is voiced by Chizuru rather than inferred solely from Kazuya's anxiety. | Neither witness can supply her final answer, and Mini has not yet answered the request; RAG-E-V031-004, RAG-E-V031-010. |
+| RAG-INF-184 | Mini answers Chizuru's character question and relays it to Kazuya. | Chizuru has testimony, while Kazuya knows only Mini's account of her response. | The information route is two-step and includes Mini's interpretation. | Kazuya cannot infer Chizuru's verdict from her question; RAG-E-V032-001. |
+| RAG-INF-185 | Kazuya recalls Chizuru's earlier first-person uncertainty and internally reaffirms affection during shopping. | Readers see his reconsideration; Chizuru hears no new declaration in this passage. | Focalization separates prior quoted speech from a fresh private thought. | Neither the recollection nor his thought supplies her present classification; RAG-E-V032-009. |
+| RAG-INF-186 | The closing cafe cut shows Chizuru and a pale-haired person discussing a belated White Day return. | The participants know the conversation; Kazuya's knowledge and the companion's identity are not established here. | A new information route opens without a supported consequence. | Do not assign the person a name or motive from this page alone; RAG-E-V032-012. |
+| RAG-INF-187 | V033 identifies the V032 cafe companion as Umi, who recognizes Kazuya at Sayuri's house. | Chizuru knows the cafe and message route; Kazuya learns Umi's presence from the visit, not the earlier cafe transcript. | A previously anonymous contact becomes a named acting-colleague route. | The cafe conversation's full contents and dates remain unshown; RAG-E-V032-012, RAG-E-V033-005, RAG-E-V033-006. |
+| RAG-INF-188 | Umi directly states that he likes Chizuru; she begins to respond and apologizes before he says he does not want to hear an answer yet; Kazuya and Mini overhear from concealment. | The speaker and recipient know the direct exchange, while the listeners receive it without disclosing their presence. | An explicit proposal and Umi's postponement enter the two housemates' information states. | Chizuru is not shown knowing they heard; neither listener learns her intended reply; RAG-E-V033-006 through RAG-E-V033-009. |
+| RAG-INF-189 | Mini interprets Umi's proposal as a threat and urges Kazuya to act while he replays earlier rival moments. | Their discussion occurs apart from Chizuru, who has not supplied them an answer about Umi or Kazuya. | A new fact is amplified by competing interpretation. | Mini's confidence and Kazuya's fear are not Chizuru's self-report; RAG-E-V033-009. |
+| RAG-INF-190 | Chizuru tells Kazuya she wants a date; he has not told her that he overheard Umi. | They share the prospective invitation and destination discussion but not the street-listening fact. | Direct access grows alongside a residual private information asymmetry. | An invitation is not a completed date or full truth correction; RAG-E-V033-010 through RAG-E-V033-012. |
+| RAG-INF-191 | Harumi's appraisal of Kazuya's childcare and Chizuru's direct nursery observation. | Chizuru sees his activity and hears his mother describe it; Kazuya does not deliver a self-advertising speech. | A third-party testimony can be checked against directly shown behavior. | Harumi is his mother and the day does not supply an inquiry verdict; RAG-E-V034-002 through RAG-E-V034-005. |
+| RAG-INF-192 | Kazuya gives a false answer about shared body soap before correcting it. | Chizuru notices the supply discrepancy and asks him directly; he fears a negative inference. | She states that lying is incompatible with her ongoing investigation even over a small fact. | The correction does not erase the first lie or reveal a final answer; RAG-E-V034-007. |
+| RAG-INF-193 | Kazuya encounters intimate laundry by accident and tries to report it; Mini supplies her own forgotten-laundry fact. | Each resident has partial knowledge of whose items were left in the shared machine. | A privacy mishap and disclosure are partly clarified through group presence. | Do not assign ownership of every garment from Kazuya's guess or infer deliberate voyeurism; RAG-E-V034-008. |
+| RAG-INF-194 | An `ito` game assigns hidden numbers and a romantic desirability topic. | Players know their own card; others must infer relative values from stated analogies. | The game creates a structured information gap at the volume boundary. | Kazuya's 56 and Chizuru's 100 are game cards, not reciprocal relationship scores; RAG-E-V034-009, RAG-E-V034-010. |
+
+## V035 close additions
+
+| RAG-INF-195 | Chizuru qualifies the 100-point `ito` example as a game analogy, not her personal proposal demand. | All three players hear the correction; Kazuya still privately wonders whether he is the loved person. | Explicit speech narrows what the card can prove. | No direct romantic identification; RAG-E-V035-001, RAG-E-V035-002. |
+| RAG-INF-196 | Chizuru asks Kibe for his view of Kazuya; Kibe asks whether she likes Kazuya and withdraws before receiving an answer. | Kibe knows he was consulted and saw her reaction; Kazuya is not shown hearing the exchange. | Third-party testimony enters the inquiry under an information asymmetry. | Kibe's interpretation is not Chizuru's declaration; RAG-E-V035-003, RAG-E-V035-004. |
+| RAG-INF-197 | Chizuru directly tells Kazuya about her period and later permits room entry; Mini learns enough to tease his response. | Kazuya gains a local private fact and permission; Mini's knowledge is narrower than Chizuru's whole experience. | Ordinary disclosure reduces an immediate misunderstanding. | Do not turn a bodily fact into generalized access; RAG-E-V035-005 through RAG-E-V035-008. |
+| RAG-INF-198 | Nagomi books a rental outing and apologizes for professional prejudice while still speaking as if Chizuru will marry Kazuya. | Nagomi understands the occupation but not the residual false dating premise; Chizuru recognizes the remaining deception. | A partial truth can support sincere apology while leaving a pivotal false inference intact. | No correction occurs in the outing; RAG-E-V035-010 through RAG-E-V035-012. |
+| RAG-INF-199 | Sumi sees Chizuru and Nagomi together at an arcade, without shown conversation or knowledge of the booking. | Sumi gains a visual observation only. | Keeps a possible future witness distinct from an informed participant. | Do not assign identities, motive, or paid context to Sumi; RAG-E-V035-011. |
+| RAG-INF-200 | Chizuru tells Kazuya that Nagomi rented her after returning home. | Kazuya gains the booking fact. | Opens an opportunity for a more complete family discussion. | The volume cuts before his response or a correction; RAG-E-V035-012. |
+
+## V036 close additions
+
+| RAG-INF-201 | Sumi privately connects an arcade sighting to what she knows of the pair's cohabitation and Chizuru's uncertainty. | Only Sumi hears her thoughts; the pair receive no message from her. | Sighting has a cognitive consequence without contact. | Booking basis and Nagomi's words remain unknown to her; RAG-E-V036-001. |
+| RAG-INF-202 | Kazuya and Nagomi discuss her rental outing by phone; he objects to having been kept uninformed. | Kazuya had learned the booking only from Chizuru after it happened; Nagomi still lacks a correction of couple status. | A partial disclosure opens a conversation but not the core truth. | No new family agreement; RAG-E-V036-002. |
+| RAG-INF-203 | Chizuru hears Kazuya's event-specific judgment that she was cutest and answers conditionally that she is happy if it is true. | Both principals share the exchange; Mini observes and later teases. | First-person words outrank Kazuya's silent gaze and Mini's reading. | No love declaration; RAG-E-V036-005. |
+| RAG-INF-204 | Kazuya directly asks for a date outside rental; Chizuru proposes May 17 and enters `デート` in her private calendar. | Both know the spoken arrangement; the calendar independently confirms her intention for the reader. | The old paid-date frame is explicitly separated from a new shared plan. | The investigation and actual date remain open; RAG-E-V036-008 through RAG-E-V036-010. |
+| RAG-INF-205 | Mini tells Kazuya of a mole on Chizuru's inner thigh, then he struggles not to look during a kitchen chore. | Mini claims prior visual knowledge; Kazuya's direct knowledge and Chizuru's knowledge of the conversation differ. | Creates an information imbalance around bodily privacy. | It is not permission to inspect or broadcast her body; RAG-E-V036-012. |
+
+## V037 close additions
+
+| RAG-INF-206 | Chizuru tells Mini she cannot change feelings at will and privately revisits Kazuya's invitation. | Mini hears concern; Kazuya does not hear the full private discussion. | Directly resists a simplistic positive reading. | Chizuru's answer remains open; RAG-E-V037-001. |
+| RAG-INF-207 | Kazuya asks for date preferences and Chizuru says she wants an ordinary date; she later texts hotpot. | The principals now share these two preferences. | First-person communication constrains his planning. | No specific restaurant or full itinerary is jointly fixed; RAG-E-V037-003, RAG-E-V037-005. |
+| RAG-INF-208 | Kuri conveys a numbered-date sexual script; Kazuya buys condoms and imagines escalation. | Chizuru is not party to that exchange or purchase. | Exposes a major private assumption gap. | Neither peer advice nor possession supplies consent; RAG-E-V037-004. |
+| RAG-INF-209 | Mini eats hotpot with Kazuya and advises him about conversational pacing. | Mini knows his anxious planning; Chizuru does not attend this meal. | A support contact shapes his preparation. | Mini cannot report Chizuru's private feeling; RAG-E-V037-007. |
+| RAG-INF-210 | Chizuru asks about leaving together and accepts his 9 a.m. time; a separate closing image shows Mami. | The principals share departure logistics; Mami's knowledge and purpose are undisclosed. | Secures a narrow shared plan while opening a new reader question. | No date execution or third-party intervention yet; RAG-E-V037-010, RAG-E-V037-011. |
+
+## V038 close additions
+
+| RAG-INF-211 | Chizuru covertly sees Kazuya shop and wonders about her own date clothing. | Chizuru knows his effort; Kazuya does not know of her observation. | Asymmetric information shapes her private preparation. | No purchase or romantic answer established; RAG-E-V038-003. |
+| RAG-INF-212 | Kazuya inspects Joypolis; Chizuru unexpectedly joins him. | Both know of the venue preview and speak directly there. | His private option becomes shared experience. | Future itinerary remains adjustable; RAG-E-V038-004 through RAG-E-V038-006. |
+| RAG-INF-213 | Chizuru says an ordinary date needs reciprocal pace, conversation and choice. | Kazuya hears her directly at Joypolis and lunch. | Explicit speech corrects his inferred success score. | Advice is not a final relationship verdict; RAG-E-V038-008, RAG-E-V038-009. |
+| RAG-INF-214 | Mami privately questions her feelings and silently sees Kazuya with Chizuru. | Mami gains an observation; neither principal knows she watched. | Adds a third-party information asymmetry. | No proven plan, contact or intervention; RAG-E-V038-002, RAG-E-V038-007. |
+| RAG-INF-215 | Miho's severe acting-world thoughts are given to the reader. | Miho's viewpoint is not shared with Chizuru or Kazuya. | Introduces professional-world uncertainty. | Do not impute her claims to Chizuru; RAG-E-V038-010. |
+
+## V039 close additions
+
+| RAG-INF-216 | A compatibility activity prints 78% friendship and 90% romance after Chizuru selects romance. | Both see the result; Chizuru alone controls her hidden input. | The game prompts shared attention to romance. | The output is in-story fortune, not objective knowledge; RAG-E-V039-004. |
+| RAG-INF-217 | Chizuru asks whether Kazuya has a girlfriend; he says no. | Both hear a direct current-status answer. | Clears a basic factual question in their date inquiry. | Being single does not decide their status; RAG-E-V039-005. |
+| RAG-INF-218 | Mami asks about Chizuru and Kazuya; Kazuya describes a planned date without official status; Mami denies Hakuba is her boyfriend. | Each gains information directly, with gaps about motive and feeling. | V038's one-sided observation becomes dialogue. | Do not infer a complete relationship history; RAG-E-V039-006, -007. |
+| RAG-INF-219 | Chizuru asks if Kazuya still likes Mami; he says the old feeling changed and states that he likes Chizuru. | His present attachment becomes explicit to her. | Reduces ambiguity about his side of the inquiry. | She gives no reciprocal verdict; RAG-E-V039-009. |
+| RAG-INF-220 | Chizuru tells Kazuya she had seen him shopping in Shibuya. | He learns of her previously covert observation. | One information asymmetry from V038 closes. | Her motive for watching is not fully confessed; RAG-E-V039-010. |
+
+## V040 close additions
+
+| RAG-INF-221 | Kazuya names Ichinose as the person he likes while confronting his Mizuhara habit. | Chizuru hears the referent directly. | The rental alias distinction becomes explicit. | She gives no reciprocal verdict; RAG-E-V040-001. |
+| RAG-INF-222 | Ruka learns Kazuya has a new key and moves next week. | She lacks the Chizuru cohabitation and May 17 date facts he withholds. | Disclosure is partial and audience-specific. | A keyholder gift is not informed approval; RAG-E-V040-002, -003. |
+| RAG-INF-223 | Chizuru speaks of Sayuri's acting as an ideal and privately checks the date plan. | Kazuya hears the film discussion; her later resolve is private. | Her self-defined goal and inquiry remain distinct. | Kazuya does not know every private thought; RAG-E-V040-005, -007. |
+| RAG-INF-224 | Chizuru asks if Ruka is all right on the date. | She knows the trial remains a concern, but not all Kazuya's omissions. | Ethical pressure is voiced inside the date. | Neither her question nor his answer establishes Ruka's informed consent; RAG-E-V040-009. |

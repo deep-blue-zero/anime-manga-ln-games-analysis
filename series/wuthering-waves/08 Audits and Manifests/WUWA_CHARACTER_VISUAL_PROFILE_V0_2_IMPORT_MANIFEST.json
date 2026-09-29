@@ -1,0 +1,566 @@
+{
+  "schema": "wuwa/character-visual-profile-import/v0.2",
+  "analysis_generation": "character_visual_v0_2",
+  "integration_base_commit": "13ec53db17cf2514df3b9d7b84033cedec0595fd",
+  "status": "active_provisional",
+  "source_generation_frozen": false,
+  "authority": {
+    "normalized_semantic_view": {
+      "status": "canonical",
+      "source_commit": "353f2eaed119bc9f680eab92807d20ac75a79b40"
+    },
+    "official_client_raw_evidence": {
+      "status": "canonical",
+      "receipt_sha256": "12538c643a83b0d49adb3c509c8a970e4102fd1b471a411d3d48df448ff999dc",
+      "deterministic_projection_sha256": "0252c43f83fbff812a9ddcc4f2ca4b77efc5c9d4ddd4930e64b96c6832bcfe71"
+    },
+    "normalized_visual_analysis": {
+      "status": "active_provisional",
+      "scope": "three role-linked official-client UI rasters per character"
+    }
+  },
+  "characters": [
+    "Aemeath",
+    "Augusta",
+    "Brant",
+    "Cantarella",
+    "Cartethyia",
+    "Changli",
+    "Chisa",
+    "Denia",
+    "Iuno",
+    "Jinhsi",
+    "Luuk Herssen",
+    "Lynae",
+    "Phoebe",
+    "Qiuyuan",
+    "Shorekeeper",
+    "Sigrika",
+    "Yinlin",
+    "Zani"
+  ],
+  "character_count": 18,
+  "profile_files_per_character": 3,
+  "published_file_count": 54,
+  "published_total_bytes": 572515,
+  "raw_media_included": false,
+  "raw_media_disposition": "RESTRICTED_OUTSIDE_GIT",
+  "source_receipt": {
+    "locator": "restricted://_visual_media/character_visual_v0_2/TEXTURE_EXPORT_RECEIPT.json",
+    "bytes": 103894,
+    "sha256": "12538c643a83b0d49adb3c509c8a970e4102fd1b471a411d3d48df448ff999dc",
+    "requested_texture_count": 54,
+    "exported_texture_count": 54,
+    "selected_container_count": 55,
+    "all_requested_textures_exported": true,
+    "raw_key_material_in_receipt": false,
+    "client_metadata_and_bytes_unchanged": true
+  },
+  "scope": {
+    "included": [
+      "RoleHeadIconLarge",
+      "FormationRoleCard",
+      "RolePortrait",
+      "individualized dimensional visual analysis",
+      "stable claim and visual identities",
+      "client package and reverse provenance metadata"
+    ],
+    "excluded": [
+      "raw PNG files",
+      "3D model reconstruction",
+      "runtime animation and scene analysis",
+      "rear views",
+      "complete alternate-form and skin survey",
+      "promotional-art survey",
+      "unique authorial-intent claims"
+    ]
+  },
+  "files": [
+    {
+      "character": "Aemeath",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Aemeath/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Aemeath/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7264,
+      "sha256": "896bec6cd414af7d09f30c822d562a8655601453fd28440650dfc193c0d93b46",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Aemeath",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Aemeath/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Aemeath/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 7889,
+      "sha256": "6bd946710a4dd082a7434c082ec39dcca1d60f3dafa6fedf3fe77785958ed8aa",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Aemeath",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Aemeath/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Aemeath/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16586,
+      "sha256": "ca7fde1e126b51c2311bb70090645475f4d21db202a02863bcdae4427bf68486",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Augusta",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Augusta/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Augusta/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7158,
+      "sha256": "308764e96179ebe8923ca6765c8d339f07094945138e6e75a8d9b538b1d69262",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Augusta",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Augusta/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Augusta/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 7761,
+      "sha256": "302776f3921ad0973319a62b943afe46125b8847623e24aa3221efd5e181a982",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Augusta",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Augusta/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Augusta/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16623,
+      "sha256": "c3d2fdfb35e3fdf2e097c46ac96abb0bcc7e82beab336754fe6969be4c1a392b",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Brant",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Brant/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Brant/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7026,
+      "sha256": "8fe7a8556ac458d74cc81ac56ba37d456f18b14d121ade16cee46ca4012c5624",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Brant",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Brant/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Brant/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 7643,
+      "sha256": "ddef4c79e32b4364f0298ad77c2f37f50a442ef064bf5d5c72da66164bbf8d1a",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Brant",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Brant/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Brant/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16595,
+      "sha256": "31688c99089c7f63de6df7adc85160f5441fd2615c88073d6d9f1330bf2eb977",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Cantarella",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Cantarella/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cantarella/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7151,
+      "sha256": "3e36da11a965787e333f0b6e9989de67ea64e6e93c3a2e80ca220e3c7ad7c166",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Cantarella",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Cantarella/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cantarella/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 7731,
+      "sha256": "dbf1db0430b04026c0b90c4a3efecfa4fcf0bb6c819cf16430e43bc96f3073cc",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Cantarella",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Cantarella/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cantarella/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16671,
+      "sha256": "bb1a9b9e06247364e59475938365665f25cb5ff56e72251e3d7c7eeee356c282",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Cartethyia",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Cartethyia/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7348,
+      "sha256": "5fdd213e9c8f5200cb006c4b23f1e8396d78034615f779fbe5271ad73815c2b4",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Cartethyia",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Cartethyia/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 7959,
+      "sha256": "f387dd649b3058af65384973f2b894bba83e6b9c7877024745c1e0f29ff48c14",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Cartethyia",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Cartethyia/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16623,
+      "sha256": "3347556d0bfca12c5754e89acf444bd93b13ca3602c7ce7d1741390ae8ee84e0",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Changli",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Changli/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Changli/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7611,
+      "sha256": "6e7f6b003960caeaf69358e1c15e28c9a8ebab88e6e10507713c248eb7377093",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Changli",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Changli/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Changli/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 8224,
+      "sha256": "3ba1b7500652fab2b813bad073ac8a6e680fe607db8f2470f7bbe51b4f9f80ba",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Changli",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Changli/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Changli/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16605,
+      "sha256": "c477915f83481d78c22b4b2d43eb34c9d26377574664eb38835245f5ab86531f",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Chisa",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Chisa/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Chisa/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7071,
+      "sha256": "6e2b55dbd7c9435d8b264b68e569c837a7fbd32df561d0d9ba1c0267390e10b2",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Chisa",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Chisa/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Chisa/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 7681,
+      "sha256": "4284f6ba6020c6918591f8aa069b00583c1caac1ec7f4b56b282d4779d644288",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Chisa",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Chisa/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Chisa/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16610,
+      "sha256": "2ba1c7fc2bfd3caf4c2b62e806164f6c2886edafeed7c4af5e51c0bc39b65c68",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Denia",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Denia/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Denia/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7072,
+      "sha256": "b8b7e3a7769a65d938b3cdacc11bfbe272636f6c8bcdd6f85010cd7a05e46d07",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Denia",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Denia/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Denia/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 7698,
+      "sha256": "854af7995a7b64d6f43c4bf5d225d6a5b1dca695fdedba206f49a4a8ae45c511",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Denia",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Denia/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Denia/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16579,
+      "sha256": "bea2105e6bdf60e9c7e47de64cc4b62093cd3a628cf9686bb1d741c11d2d4dc1",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Iuno",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Iuno/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Iuno/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7016,
+      "sha256": "f321ed1a04f500f8a982f63ba301f1c5c6167e931eb2ee55f63d9d9206c98bbb",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Iuno",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Iuno/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Iuno/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 7643,
+      "sha256": "b6d613fc219b0f633ebd906c0049db7eb885ee840096c0dc92da03f621fdaed5",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Iuno",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Iuno/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Iuno/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16574,
+      "sha256": "543573ab058551028f4441bbaa024bcf124ee855891a88ff4bf7a5dadf425104",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Jinhsi",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Jinhsi/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Jinhsi/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7619,
+      "sha256": "c7a18b4dd87f111738a38cb4aa8aecd00753d4ce292807e80960b8cddfd8f233",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Jinhsi",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Jinhsi/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Jinhsi/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 8254,
+      "sha256": "27a3f1667d50320f1a50f9a1d3c4eef4e2500c09c0473441d1923587d068f8e2",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Jinhsi",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Jinhsi/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Jinhsi/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16564,
+      "sha256": "fa151fa8bcbd4609dedf17a217e84013d29541ecf8bee36939c812d5d730ceec",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Luuk Herssen",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Luuk Herssen/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Luuk Herssen/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7210,
+      "sha256": "f31eb147fb5381cbc35eb4cb93e44df76033564af62d73cbd884e71957a11e51",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Luuk Herssen",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Luuk Herssen/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Luuk Herssen/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 7831,
+      "sha256": "92075e080cc0ef4109507186c3b7f655b9702cd55598be2e37a353a40a43deb2",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Luuk Herssen",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Luuk Herssen/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Luuk Herssen/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16605,
+      "sha256": "984b8e804fe30d9f6fb40ab0361272e5395475f0c0fb2733ddf53d0d9e1b7637",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Lynae",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Lynae/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Lynae/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7461,
+      "sha256": "882363715c5c19583f0b7218674df9df79abf081573f0172d7100660b388022f",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Lynae",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Lynae/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Lynae/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 8087,
+      "sha256": "60184a4e89bb88a311f54ffe57a01595da8826dfa021271d9da1279543a4a955",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Lynae",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Lynae/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Lynae/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16578,
+      "sha256": "b12a14bf015627a1914270ee0ddd2bccf620389d261d17781f69f8b6b379842e",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Phoebe",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Phoebe/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Phoebe/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 6956,
+      "sha256": "3a9bb2fef0c1068a3df91f03f4634a1daf8d96fc20b4bbe867bef8a2606d6a09",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Phoebe",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Phoebe/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Phoebe/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 7590,
+      "sha256": "d3482d243f534b3e997e995bf08b1df57aad1f054f74ce6311bd002de484e9eb",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Phoebe",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Phoebe/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Phoebe/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16565,
+      "sha256": "58c08cd471d1bbdc1263223c96c60ab387a15a759b4f15a46c02f711a9d11bf8",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Qiuyuan",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Qiuyuan/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Qiuyuan/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7243,
+      "sha256": "7d6684a15565d85b60cc38a0f871d3814e604229b8efda94b891d4c2d81b8dcd",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Qiuyuan",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Qiuyuan/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Qiuyuan/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 7858,
+      "sha256": "fe9b0d52a37092d865d09c167f10e86dbabc1f10784263df230592d580544830",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Qiuyuan",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Qiuyuan/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Qiuyuan/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16603,
+      "sha256": "c33fec274c2534db393d83884263e465ac375f5fa6410e43e73c2910ca2070ad",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Shorekeeper",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Shorekeeper/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Shorekeeper/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7692,
+      "sha256": "2bac69b45b6ecdd4d3351f7a891e7f94078db13fc5a12951cbef3c28dd2ad837",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Shorekeeper",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Shorekeeper/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Shorekeeper/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 8282,
+      "sha256": "3d48bb43b794b370de544f3a232f28cfe76d9a00eee76d489ea86d1660d938dd",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Shorekeeper",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Shorekeeper/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Shorekeeper/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16660,
+      "sha256": "f078a6351834bc0a92f1ee521dd0a724bd209da2e60d6bc5b7ec66ce37926718",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Sigrika",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Sigrika/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7250,
+      "sha256": "32fc0c73cc583dee6bf2b7b2f2c1edd8f74c44229846402d2144362e98a926bf",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Sigrika",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Sigrika/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 7854,
+      "sha256": "53647feea6623bf827f1fe61e843f4885a61f036bcd36564d4cbdf5fdc46b5f7",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Sigrika",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Sigrika/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Sigrika/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16623,
+      "sha256": "d308179641ee5e9d91a8fc0c4315c3cf8f0cf56988ddfd288e6867663f6aafe8",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Yinlin",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Yinlin/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Yinlin/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7497,
+      "sha256": "993072db849af6e729e7e5c8f2123d80f53e0bee696fe864f2bdc71c9e1f6d0d",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Yinlin",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Yinlin/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Yinlin/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 8128,
+      "sha256": "4575dee9eecae5c4fec75703aa710d172009bd9e1ec719a064156db18b57b801",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Yinlin",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Yinlin/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Yinlin/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16576,
+      "sha256": "7e74d44d49d3ddd19a77a1b5f641cc60413638004cfac335778bf8df05bb1a36",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Zani",
+      "artifact_role": "human_readable_visual_analysis",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Zani/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Zani/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "bytes": 7662,
+      "sha256": "a7b3cde8cef610e8cdabd32e9b789a54d56370419c24d602caddc41b761aaf14",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Zani",
+      "artifact_role": "machine_readable_visual_claims",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Zani/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Zani/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "bytes": 8287,
+      "sha256": "8eb98df26f6fdcdab21663944fd7fe81522c87f9c1c5bfb2c0165d36e114ce85",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    },
+    {
+      "character": "Zani",
+      "artifact_role": "visual_provenance_and_reverse_index",
+      "source_locator": "extraction-workspace://ANALYSIS/Characters/Zani/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "destination_path": "series/wuthering-waves/04 Character Analysis/Zani/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "bytes": 16568,
+      "sha256": "2a48d88a19003e35ff3fec7248048bebcee3b37c093f2aebdc1e8ed1f41fc926",
+      "transformation": "SOURCE_BYTES_PRESERVED"
+    }
+  ]
+}

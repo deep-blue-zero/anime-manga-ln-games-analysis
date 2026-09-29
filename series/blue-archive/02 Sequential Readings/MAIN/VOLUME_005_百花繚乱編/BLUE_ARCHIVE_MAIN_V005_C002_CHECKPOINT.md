@@ -1,0 +1,92 @@
+---
+series: BLUE_ARCHIVE
+artifact_type: checkpoint
+scope: MAIN_V005_C002
+generation: V1
+status: canonical
+source_boundary: Canonical Japanese main story BA:main:005:002:001 through BA:main:005:002:028 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; 43 newly inserted V001 C003 units pending separate backfill; side-source classes not admitted
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+created: 2026-09-28
+updated: 2026-09-28
+---
+
+# BLUE ARCHIVE — MAIN V005 C002 CHECKPOINT
+## 百花繚乱編, Chapter 2: a hand held across change
+
+## 0. Authority and method
+
+This checkpoint reconciles all **28** sequential readings `BA:main:005:002:001`–`028` at the audited `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` snapshot. Each episode reading retains source locators, label/choice seams and evidence grades. The preceding [V005 C001 checkpoint](BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md) governs Chapter 1, and the [source reconciliation](../../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) governs the **480** canonical-main denominator. Main-story analytical coverage is **274 / 480**. The 43 newly inserted V001 C003 units remain separately pending earlier-order backfill, so this is not a contiguous main prefix. Side stories, profiles, MomoTalk, performed voice, adaptations and wikis were not admitted. Next forward source is `BA:main:006:001:001`.
+
+The chapter's local answer to the Chapter 1 crisis is a distribution of responsibility and a willingness to meet a changed person without claiming to know or restore her completely. Nagusa moves from fearing that she is a counterfeit chair to naming herself, formally challenging Ayame for the burdens of office and offering to stay beside her. Hyakka, Onmyou, a festival committee, Ninjas, Sensei and even a hostile writer's new story each contribute to crisis relief. This is a bounded result: Waraku concludes, antagonists escape, Nagusa's right arm and Ayame physically return, but Ayame remains asleep. The text does not certify a final office transfer, book disposal, full safety audit or Ayame's uncoerced future choice.
+
+## 1. Prospective sequence and decisive changes
+
+### E001–E007: search, friendship testimony and the hidden guide
+
+Nagusa's dreams and story-like visions reopen the Ayame loss. Azami is visible on the antagonist side in E002 before she introduces herself to the party as an Ebisu helper; her small-book/fear theory comes from participant testimony. The group resumes ordinary help and festival preparation (E003), while Kai/“Riku” label/identity seams remain unresolved in E004. Nagusa gives a detailed firsthand account of an approximately ten-month search, a Kokuriko intervention and Ayame's cold friend-denial; she says her arm was swallowed with Ayame and that a Kuzunoha-named rescuer gave a Sensei scroll, but no original incident replay or scroll text appears (E005). Niya/Kaho send Hyakka north to protect Ebisu/festival supply; Niya says a letter exists and overreads a Sensei alternative line as a completed Color cure (E006). In E007 the party meets real-seeming residents/produce and several fear-form reports. Azami diverts them to lodging; her reader-known affiliation makes this suspicious, but does not retroactively make all townspeople or food false. E028 later finds the *autonomous committee* empty for decades, not the town.
+
+### E008–E015: a convenient Ayame and the mansion split
+
+Shuro attacks Nagusa's fear and an Ayame-labeled companion appears after an unshown interruption (E008). The figure claims old chair/百蓮 history, a failed shot at a double, a Kuzunoha search and friendship with Nagusa while denying the snowfield memory (E009). Kikyou's appetite, timing and warmth concerns justify inquiry without deciding identity; Sensei acknowledges his lack of old Ayame firsthand knowledge (E010). A marked umbrella and Azami's mansion lead send the group to `彼岸邸`; a search exposes Shuro's private harmless manuscript under pen name `朽木修羅`, not another person or proved 怪書 (E011). The mansion contains a Kadeno diary-like account of a twenty-year-prior miko/chair whose festival/family rupture may link to Kokuriko; Kokuriko directly self-claims Kadeno/Hyakka past, but archival motives are not audited (E012). Hostile creatures split the group and directly attack Shuro, whose inward abandonment fear contradicts her later all-staged boast. Sensei reaches her despite reported pain; Kikyou exposes Azami (E013). Azami admits 花鳥風月部 allegiance and an escort assignment, not control of every local creature (E014). The warm companion disappears under Kokuriko's pressure. A later Ayame-labeled speaker attacks Nagusa's idealized view, reports the others safe/Sensei asleep and proposes making Kuzunoha real through a book; speaker identity and those status claims are not independently verified (E015).
+
+### E016–E020: captivity, shadow and a shared temple encounter
+
+Kokuriko reports Hyakka repelled and Sensei captured; she praises Shuro/Azami despite Shuro's fear of being discarded. Shuro wonders why an allied tale attacked her and whether her own memory gaps mean she could vanish; neither origin nor attacker control is resolved (E016). An Ayame-announced visitor tells Niya of an avalanche. Niya orders rescue, then calls her a shadow; the visitor's revealing reply supports deception, while the avalanche conflicts with the mansion account (E017). E018 directly finds Sensei and Hyakka in a barred cellar, and Sensei confirms receiving a Kuzunoha-attributed letter from Nagusa. Shuro attributes the warm Ayame to Nagusa's fear/`稲亭物怪録`, but her all-acting claim remains constrained by E013 panic/attack. She releases the group to seek Kuzunoha while holding Sensei as a gun-threat hostage (E019). Nagusa leads them to a ruined temple; Renge/Yukari see a blossom scene and a Kuzunoha-labeled figure recognizes Nagusa. This is a shared present encounter, not merely Nagusa's memory, though historic office/age and physical mechanism remain unverified.
+
+The elder figure claims she sent Sensei's letter, invented 百蓮 and has lived centuries; Shuro reacts to a book apparently neutralized without 百蓮 after an omitted action (E020). She denies selecting who enters the temple, challenges Nagusa's perfect-chair counterfactual and argues only a mask wearer can know the current face. Nagusa says she cannot define real Ayame but wants to remain beside her. The elder's categorical no-restoration claim and the unheaded Shiroko/Hoshino incomplete-reversal hypothesis are **claims**, not universal mechanics; E026/E028 later show Nagusa's arm returned, without proving all changes were undone. E020 offers counsel to face the present Ayame, not a cure or location.
+
+### E021–E024: the eye story, festival countereffect and a second author
+
+An Ayame-tagged first-person account depicts chair praise as mask and concealed exhaustion, with raw Twilight-Ayame log tags. It has value as a story-framed inner account but cannot be treated as a verified transcript of original Ayame's private history. Azami speaks to a present Ayame-like figure, calls it a `稲亭物怪録`-born 百物語 and proposes `ヒトツメ` as its name, urging it to reverse the public gaze (E021). Eyes then appear across the academy; an ordinary bullet passes through one, and Onmyou members report other monsters attacking citizens (E022). Niya says she was confined after an offscreen shadow fight. The Ninja Research Club reports Sensei previously asked it to guard Onmyou, admits freezing during Niya's fight and relays her message to continue Waraku. Kaho/Shizuko, Umika, Fina and Chise accept a real safety tradeoff; Chise sings, residents hear her and Azami observes Hitotsume thinning, then concedes joy can locally neutralize fear while warning this may end with the festival (E023). Niya's historical `祭儀` account is later **retracted as a bluff** in E028, so only the observed local effect survives as evidence.
+
+A white firework is Hyakka's inherited Onmyou-trouble signal, and the party reaches Niya, whose wound receives care (E024). Niya says festival suppression is temporary and proposes 百蓮 plus another book to reach an Ayame source, a tactical hypothesis. She shows Shuro a reconstructed but **blank** vessel from burned `稲生物怪録` remnants; an unnamed interschool student reportedly restored the material, not the old text. Niya appeals to Shuro's `朽木修羅` writing pride and resentment of comments. Shuro professes Kokuriko loyalty, yet writes an improvised cat/lion and ninja tale. A doodle-like creature appears; bystanders laugh rather than fear, foes stagger, a shot hits a previously untouchable type and Izuna reports new power. This supports local new-story efficacy, not complete author control, stable Shuro allegiance or universal combat rules.
+
+### E025–E028: person mirror, accepted challenge and patient aftermath
+
+Kokuriko prevents Azami from threatening Shuro and says Shuro need not be forced back if she found her own path, leaving their special relation unnamed (E025). Facing Hyakka, she claims an original **three-book** set: desire-mirroring `稲生物怪録`, fear-mirroring `稲亭物怪録`, and person-mirroring `稲生霊怪録`, the last allegedly reconstituted after losing its form twenty years ago. Yukari senses a book; physical object, restorer and rule are not displayed. E026 then stages an imposed dark self-scrutiny: Renge, Kikyou and Yukari voice youth, harshness and substitute fears, which are meaningful but coerced self-reports. Kokuriko admits covering their sight and says the book does not affect Sensei locally. Nagusa acknowledges her own weakness without trying to be Ayame, and extends a hand; Azami is startled by an apparently present right arm. Kokuriko affirms prior pressure on Ayame and reports her at the castle top, then escapes uncaptured.
+
+At the castle, an Ayame-labeled speaker says she watched through Hitotsume. Nagusa requests a `継承戦` to take chair burdens; she names an outsider and Hyakka executive witness, Sensei/Kikyou, and Ayame accepts (E027). The bout's moves/finishing strike are skipped, but late italic Ayame lines say Nagusa finally beat her and is now chair. This is strong participant evidence of an apparent victory, not a printed emblem transfer or office instrument. Nagusa apologizes for missed distress and pledges to hold her hand. E028's aftermath confirms Ayame and Nagusa's right arm physically returned; Ayame, however, has remained asleep. Kikyou relays a doctor's psychological explanation, without chart or prognosis. Nagusa declines forcing her awake and waits near her while the group gardens. Niya reports Waraku successfully ended, Ebisu committee had been empty for decades, and Kokuriko/Azami/Shuro disappeared. Onmyou/Hyakka publicly announce the crisis Ayame was enemy-made; this is an official simplification and does not authenticate every Ayame-shaped mode. The Ninja Club's lost temporary power and ongoing friendship are direct post-crisis evidence. Chair title/百蓮 disposition remain open despite the E027 line and rumors of Ayame returning to Hyakka.
+
+## 2. Reconciled people, relations and institutions
+
+| Domain | Supported chapter state | Open boundary |
+|---|---|
+| Ayame and Nagusa | Nagusa testifies to a painful snowfield separation, later rejects replacing an idealized Ayame, accepts a formal bout, apparently wins, recovers her arm and says Ayame physically returned. She stays beside the unawakened Ayame. | Original Ayame's exact relation to Hitotsume/other shadows, memory-montage fidelity, uncoerced motive, awakening, mutual friendship, arm-return mechanics, actual office/百蓮 transfer. |
+| Kikyou, Renge and Yukari | They defend Nagusa, undergo forced inner exposure and later share care/gardening. Kikyou consents to internal witness role. | Long-term consequences of coerced fears, written witness record, roster/funding and completion of every prior grievance repair. |
+| Sensei | He rescues Shuro despite danger, is held hostage/captured, confirms letter receipt, argues for inquiry without total understanding, preassigns Ninjas to guard Onmyou and witnesses Nagusa's challenge. | Medical injury audit, exact audible `心の声`, knowledge/intent behind E028 public-account reassurance and any adult-only cure. |
+| Kuzunoha claimant | A multi-witness present speaker recognizes Nagusa and claims letter sending, old chair status/age, 百蓮 invention and nonselection of temple visitors. Shuro reports a local neutralization. | Historic identity/office record, temple physics, letter text/authorship chain, ability scope and no-restoration rule. |
+| Shuro, Azami and Kokuriko | Azami admits escort operation and names Hitotsume; Shuro writes a rival visible tale; Kokuriko protects Shuro, claims a third book and admits prior Ayame pressure. All vanish uncaptured after the crisis. | Shuro ontology/special tie, real allegiance, full three-book provenance/mechanics, exact Hitotsume identity/control and later accountability. |
+| Onmyou, festival and Ebisu | Kaho/committee start and Niya reports conclusion of Waraku; local joy weakens Hitotsume. Onmyou investigates Ebisu committee cover and announces taking administration. | Full casualty/cost audit, old charter/ritual history (Niya retracts purging law), exact transition documents and which official Ayame statement is public protection. |
+
+## 3. Book, identity and causality ledger at the checkpoint
+
+| Item | Direct or strong support | Boundaries |
+|---|---|---|
+| `稲生物怪録` | Earlier burned desire-linked book; E024 blank reconstructed material vessel presented to Shuro, who writes a new locally effective story. | Old text irrecoverable per Niya, unnamed restorer, no proof original power restored or later custody. |
+| `稲亭物怪録` | Azami's fear-book account, mansion operations, Hitotsume-named story form and eye display; E023 local fading with festival joy. | Every monster's controller, total gaze reach, exact story-body count and permanence of fading. |
+| `稲生霊怪録` | Kokuriko's third-book/person-mirror claim, Yukari's sensing and E026 staged dark introspection. | Object and activation not printed, reconstructed provenance uninspected, induced confessions not objective exhaustive biography. |
+| Ayame modes | E008-E014 pleasant companion, E015 hostile speaker, E017 Ayame shadow, E021 Hitotsume naming, E027 castle speaker and E028 physically returned unawakened Ayame. | Do not merge or split into separate tracked people without continuity evidence; the official “enemy-created” line is not a complete identity test. |
+
+Niya's E023 claim that festivals are ancient purging rites is expressly withdrawn as `出まかせ` in E028. Her older festival-origin tradition remains a report, while Azami's direct observation of Hitotsume thinning and the public performance are independent local evidence. Similarly, the E027 italic “you won, now chair” should not be silently upgraded to a formal office result. The source itself earlier distinguishes 百蓮 qualification from title; E028 calls Ayame chair while also reporting her physical return and continuing sleep. Nagusa's E028 `元に戻った` for right arm/Ayame is her post-crisis summary, not proof Kuzunoha's categorical no-restoration claim is universally false or that Ayame's mind/role reverted.
+
+## 4. Japanese, representation and ethics controls
+
+- `心の声` frequently draws replies, but audibility remains a representation seam. Pair/triple Sensei choice text cannot be summed as one performed line. E028 has eighteen choice groups; no audio/voice source was admitted.
+- E021 raw `[log=아야메 황혼 1]`, E024 `[log=슈로]`, E026 unattributed `[log]`, repeated wrong-name tags and unheaded dream/memory inserts make exact speaker/chronology nontrivial. Local episode readings preserve the stable unit routes.
+- `影`, `百物語`, `怪書`, `本当のアヤメ` and `戻す` are speaker terms with different referents. Niya's identity challenge, Azami's Hitotsume naming, Kokuriko's mirror claim and the public statement are evidence with different interests; no single term resolves all bodies.
+- Sensei's rescue of enemy Shuro, Niya's strategic flattery, Kaho's risky festival crowd invitation, forced exposure by Kokuriko and the official post-crisis simplification all have costs. The local win does not retrospectively certify each tactic as harmless or voluntary. The danger to citizens is reported, while a full casualty/injury count is not.
+- No durable new claim ID or frozen prospective prediction is warranted. This chapter was read sequentially, and each later correction is recorded as a correction, never backdated as knowledge possessed in an earlier episode.
+
+## 5. Character readiness and forward questions
+
+The [coverage index](../../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) tracks **131** subjects: **21 `PARTIAL_MODEL` / 110 `UNMODELED`**. Kuzunoha's direct encounter, Ayame/Nagusa's crisis, Niya's response, Shuro's authored tale and Kokuriko/Azami's disclosures broaden evidence but do not supply ordinary/private and independently cross-checked behavior sufficient for an operational reconstruction. Hitotsume remains a named story-form/alias candidate within the unresolved Ayame-form map rather than a separate modeled person. No standalone model, `OPERATIONAL_CANDIDATE`, `BOUNDED_VALIDATED`, held-out diagnostic or side-source admission is created (`NO_DIAGNOSTIC_OPPORTUNITY`). Contextual backfill remains **DEFER** under the governing evidence gate.
+
+Next forward canonical unit: `BA:main:006:001:001` / `MAIN_V006_C001_E001`. Carry these as **questions**, not predictions: whether Ayame awakens and speaks in her own present voice, who holds Hyakka chair/百蓮 after the bout, which Ayame-like story forms were distinct, the fate of all three books and Shuro's chosen path, Kokuriko's special relation to Shuro, medical/safety aftermath, Ebisu's administrative transition, the true letter/temple mechanism and the long-term risk once festival excitement fades. The 43 V001 C003 units remain separate earlier-order backfill.
+
+| Finding | Canonical route |
+|---|---|
+| Search, convenient Ayame, Azami cover and mansion capture | V005 C002 E001–E018 readings with exact scene/unit locators |
+| Kuzunoha encounter, Hitotsume naming and festival response | V005 C002 E019–E024 readings with exact scene/unit locators |
+| Third book, dark mirror, succession bout and post-crisis waiting | V005 C002 E025–E028 readings with exact scene/unit locators |

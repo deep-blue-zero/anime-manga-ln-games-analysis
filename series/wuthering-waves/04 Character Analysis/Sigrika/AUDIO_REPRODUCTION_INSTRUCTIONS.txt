@@ -1,0 +1,65 @@
+SIGRIKA V0.2 — AUDIO REPRODUCTION AND STAGE 2 HANDOFF
+
+Scope
+This package contains interpretation, aggregates, selected cases, and code.
+The separate audio evidence supplement contains all newly derived measurement
+rows. Neither archive contains raw recordings, source WEM, or full source text.
+The analytical packet is adopted in Git; the separate evidence supplement remains local/Drive-only.
+
+Canonical inputs
+Use AUDIO_SOURCE_INPUT_MANIFEST.json for required source files and exact hashes.
+The counterpart file is named COMPLETE_VOICE_LINE_ANALYSIS.jsonl in its own Drive
+folder. Save it locally as COUNTERPART_COMPLETE_VOICE_LINE_ANALYSIS.jsonl; do not
+overwrite the direct-character file with the same provider-side basename.
+Use AUDIO_ACQUISITION_MANIFEST.json for all nineteen observed Drive file IDs,
+archive names, byte sizes, and expected release hashes.
+
+Layout
+WORK/source/<required source files>
+ARCHIVES/sigrika-v0_1-pcm-*.zip
+WORK/objects/ and WORK/results/ will be generated without modifying sources.
+For summary reproduction from the supplement, put its AUDIO_OBJECT_MEASUREMENTS.jsonl,
+SHARD_ACQUISITION_AUDIT.json, and AUDIO_METHOD_PARAMETERS.json in WORK/.
+
+Dependencies
+The exact executed versions are in AUDIO_METHOD_PARAMETERS.json and
+AUDIO_WAVEFORM_ANALYSIS_SUMMARY.json. The native execution was Python 3.13.5,
+libsndfile 1.2.2, Praat 6.1.38. Install the supplied audio_tools/requirements-audio.txt
+in an appropriate local environment. Numerical equality across different operating
+systems, library binaries, or future versions is not guaranteed; preserve provenance.
+
+Commands (substitute local paths)
+python audio_tools/analyze_audio.py --source-dir WORK/source --shard-dir ARCHIVES --work-dir WORK --workers 4
+python audio_tools/summarize_audio.py WORK
+python audio_tools/check_audio_reproduction.py WORK
+python reproduce_validation.py --sources ORIGINAL_SOURCE_DIRECTORY --output VALIDATION_REPORT.json
+python validate_audio_stage.py --work-dir WORK --output AUDIO_STAGE_VALIDATION_REPORT.json
+
+The measurement command is resumable. For a bounded foreground invocation use
+--limit 350; rerun until all objects have results. Existing object/result hashes
+are checked. Use --redo with a deliberate limit to repeat measurements.
+The supplied scripts never fetch network data or write to Drive/Git.
+Set OPENBLAS_NUM_THREADS=1 and OMP_NUM_THREADS=1 where supported to avoid nested
+parallelism. The waveform script preserves all native channels and never downmixes.
+
+Retained old baseline
+SOURCE_AND_AUDIO_AUDIT.json remains the original source census and basic supplied
+measurement reaggregation, marked historical. AUDIO_WAVEFORM_ANALYSIS_SUMMARY.json
+is the current newly measured audio result. A successful old baseline validator
+alone does not certify the new machine-audio gate.
+
+Perception and video
+No listening annotations were fabricated. The new result is machine waveform
+profiling, not a human-performance review. No video was processed in this stage.
+The owner has deferred video to local 1080p-or-larger source review. Native video
+must be aligned through actual dialogue and stream/sample timestamps; present
+FLAC object-relative times are not absolute timestamps for future footage.
+The final declaration (12967/1), later call (16901/4), and fulfilling-life action
+(16826/2) have no accepted line-level voice mapping in the pinned selection.
+Do not substitute nearby recordings or an archive retrospective for those scenes.
+
+Publication boundary
+The audio evidence supplement is a local staging artifact intended for the Drive
+evidence plane only after separate authorization. Do not add large line-level
+measurements or raw media to the analytical Git character directory. The complete
+analysis packet is owner-adopted current active-provisional Git authority; the complete evidence supplement remains local/Drive-only.

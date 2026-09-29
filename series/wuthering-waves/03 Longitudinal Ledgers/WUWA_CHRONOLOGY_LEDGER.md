@@ -39,9 +39,14 @@ The imported analysis supports this high-level state order without claiming exac
 
 The public play, archive stories, memories, and later explanations must remain typed as retrospective or reception evidence where applicable.
 
+## Current bounded state route: Sigrika
+
+Sigrika's owner-adopted packet supplies a character-local multi-state chronology in `04 Character Analysis/Sigrika/WUWA_SIGRIKA_RELATIONSHIP_AND_STATE_PROFILE.md` and its compiled model. Route S0–S7 labels through that profile rather than treating list order as a simple linear biography: the later state/form distinctions include overlays and context-dependent availability. Archive/favor material, retrospective records, and dark-side counterpart evidence retain their own source and identity types. The three unresolved occurrence identities and conflicting source-freeze metadata prevent stronger title-wide chronological closure.
+
 ## Open chronology work
 
 - exact placement of four Cartethyia flow states absent from the pinned flow-state projection;
 - global placement of unlinked event/eco dialogue;
 - relationship between release order and Lynae's recorded/identity-holder material;
+- exact placement and audiovisual validation of Sigrika's state transitions and overlays;
 - complete quest-chain chronology for future sequential readings.

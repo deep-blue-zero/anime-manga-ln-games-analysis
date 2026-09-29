@@ -32,8 +32,10 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Lycoris Recoil](../series/lycoris-recoil/) — `series/lycoris-recoil/`
 - [Maebashi Witches](../series/maebashi-witches/) — `series/maebashi-witches/`
 - [Monogatari Series](../series/monogatari-series/) — `series/monogatari-series/`
+- [Mushoku Tensei](../series/mushoku-tensei/) — `series/mushoku-tensei/` — Sequential analysis of the published Japanese light novels, with source locks, volume readings, six longitudinal ledgers and bounded reconstruction models. The canonical entrypoint records exact coverage, publication/audit gates and the authorized V15 terminal boundary; private primary evidence remains in Drive.
 - [My Hero Academia](../series/my-hero-academia/) — `series/my-hero-academia/`
 - [NANA](../series/nana/) — `series/nana/`
+- [NTR: Netsuzou Trap](../series/ntr-netsuzou-trap/) — `series/ntr-netsuzou-trap/` — Provisional Japanese manga bootstrap awaiting owner audit; V01–V06 EPUBs inventoried in Drive, no narrative volume admitted or inspected, supplements quarantined, sequential lock CLOSED.
 - [One Punch Man](../series/one-punch-man/) — `series/one-punch-man/`
 - [Oregairu](../series/oregairu/) — `series/oregairu/`
 - [Oreimo](../series/oreimo/) — `series/oreimo/`
@@ -55,6 +57,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Tokyo 7th Sisters](../series/tokyo-7th-sisters/) — `series/tokyo-7th-sisters/` — Game-first analytical architecture under approved design 1.1. T7S_B0001–B0003 close the exact first 11 Main episodes through 201000201 with synchronized readings, state ledgers, coverage, and bounded visual review; native source corpus/media remain external. B0002 completes Haru's first chapter and B0003 opens but does not complete Musubi's. Next candidate 201000202 is not admitted; Haru is R2 state-bounded, and no monograph, model, specialist, or synthesis is promoted.
 - [Wuthering Waves](../series/wuthering-waves/) — `series/wuthering-waves/` — post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane.
 - [YOUJO SENKI](../series/youjo-senki/) — `series/youjo-senki/`
+- [Yuri Is My Job!](../series/watayuri/) — `series/watayuri/` — Owner-approved Japanese manga architecture with the sequential-analysis lock OPEN. Drive inventory contains V01–V14 and a separate V10 special-edition booklet; no narrative volume has yet been inspected. V01 is the next single-volume candidate.
 - [Yuru Camp](../series/yuru-camp/) — `series/yuru-camp/`
 
 <!-- END GENERATED CORPUS SERIES CATALOG -->
