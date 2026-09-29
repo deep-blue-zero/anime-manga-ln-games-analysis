@@ -1075,3 +1075,1258 @@ Chronos broadcasts an anonymous-source Kaiser/Public Security bribery allegation
 ## V004 C001 checkpoint reconciliation — retrieval, publicity and an unexecuted coup
 
 SRT remains officially closed in Kaya's account and RABBIT's camp is not formally authorized. Park demolition/redevelopment, Kaiser Construction, Kaiser Industry arms and Public Security eviction become linked first by participant hypothesis, then an archive record Miyako identifies and Kanna's non-denial. Chronos airs anonymous-source allegations; Moe reports federal inquiry and company cancellation, with no primary decisions inspected. Clover reaches Sensei; public filing and legal result are absent. Kaya separately admits a hidden Kaiser/“our side” link and proposes a FOX/RABBIT coup to restore SRT and abolish Schale. FOX names are direct, but RABBIT participation and takeover are not. Backfill DEFER; V004 C002 E001 unopened.
+
+## V004 C002 E001 institutional delta — reported precedent and active destabilization
+
+The dream-framed two-years-ago factory broadcast portrays SRT as a president-approved supplementary D.U. force, not Valkyrie's replacement; FOX reports a Kaiser thermobaric prototype and seized file alleging Kaiser/Defense Office safety-report bribery (`scene:001:u:0002-0062`). The document and ordinance are not printed, nor is its alleged transaction identified with Clover. In waking dialogue, FOX4 reports a prior FOX tower attack on Rin supporters and weakened GSC departments, while Yukino directly orders an emergency arithmetic favoring Kaya over Rin, including incapacitation of returning supporters (`u:0074-0091`). FOX3 reports rail EMP sabotage and a false public attribution to GSC; civilian service harm is raised in dialogue (`u:0092-0102`). Specific orders, targets, files and repair records remain unavailable. SRT restoration is the stated justification for an active harm campaign, not a completed institutional act. E002 unopened.
+
+## V004 C002 E002 institutional delta — SRT identity without restored school
+
+RABBIT's dream-framed admiration of televised FOX authority and its `SRTになった` declaration establish an inherited ideal, not official post-closure reinstatement (`scene:001:u:0001-0014`). At the park, food comes from forage, a reported pest-control gift and remaining canned bread; Saki/Moe worry that improved camp life distracts from SRT purpose (`u:0022-0045`). The squad names its earlier off-page rescue as SRT duty and accepts a communal thank-you meal without changing school records, legal camp status, funding or durable food access (`u:0058-0097`). The mentioned red-sky crisis is not imported from later unread main episodes. E003 unopened.
+
+## V004 C002 E003 institutional delta — SRT gear as forensic clue
+
+Moe's unauthorized or at least unlicensed-in-print cloud-camera access yields visible masked carriers leaving Schale with a load, but the footage is coarse and the object is unidentified (`scene:001:u:0045-0070`). Saki's account of SRT-only formal sight production and probable SRT transceiver design supports the group's concern without a serial match (`u:0071-0078`). The squad remembers a masked buyer and sale of rarely used special gear after flooding; Chapter 1 E015 separately recorded rusty missiles sold for cash. This does not identify the buyer, prove the same devices reached Schale or exhaust acquisition routes. Moe proposes unique-key tracing; no trace result, inventory, arrest, recovery or school/governance disposition is shown (`u:0079-0113`). E004 unopened.
+
+## V004 C002 E004 institutional delta — a familiar facility, no provenance closure
+
+A RABBIT3 GPS report leads the squad to a target area, but the device-key trace or source of the signal is not printed (`scene:001:u:0001-0003`). Saki recognizes a building *like* SRT's indoor training ground; the unit does not name its owner (`u:0010-0017`). RABBIT2 claims external-alarm sabotage, then is cut off after a gunshot; Miyako infers communications jamming but no diagnostic or casualty record appears (`u:0023-0044`). Yukino is recognized in a local confrontation, yet the masked Schale group, sold equipment and stolen item are still unlinked. E005 unopened.
+
+## V004 C002 E005 institution delta — authority claim under closure
+
+All four RABBIT members are held by FOX, which describes the trap as a mock SRT exam despite no printed exam mandate (`scene:001:u:0001-0034`). Yukino claims representative SRT standing to Sensei and proposes dissolving RABBIT into FOX auxiliary service (`u:0089-0120`). SRT remains formally closed within the established boundary; no inspected order, reinstatement, consent or implemented chain of command appears. FOX's Schale/tower role is challenged but not fully specified, and the earlier SRT-gear sale has no audited receipt. `D-Day` implies an approaching operation without confirming date or target. E006 unopened.
+
+## V004 C002 E006 institution delta — announced federal succession
+
+An automated alert and airship broadcast make Kaya's statement publicly accessible (`scene:001:u:0077-0089`). She claims Rin abandoned duty during recent disaster, says Defense Office pursued responsibility and a pending no-confidence motion passed, then names herself new acting president and a new Administrative Committee (`u:0090-0100`). The transmission proves announcement, not a reviewed vote, constitutional mechanism, Rin's actual whereabouts or agency compliance. Saki questions the ease of changing the office. RABBIT's FOX competency descriptions are student testimony, not accreditation. SRT's closure and RABBIT's independent status remain unresolved. E007 unopened.
+
+## V004 C002 E007 institution delta — arrest, rule claim and managed vote environment
+
+The council postpones a Kaiser-sanction decision amid disputed emergency authority, economic effects and Schale's presidential memo (`scene:001:u:0001-0046`). Kaya offers an unverified alternative presidential letter; a council officer announces Rin's emergency arrest on suspicion and Kaya invokes officer rule 78 to suspend acting duties (`u:0079-0102`). An officer obeys an escort/monitoring order, giving the maneuver immediate institutional force, but the letter, rule application, custody and eventual ballot are not independently audited. A Human Resources chief reports organizing demonstrations; Heine reports a Sports Association message, including an anti-Rin FOX rumor. Kaya prepares broadcaster notice ahead of the vote (`u:0103-0138`). E008 unopened.
+
+## V004 C002 E008 institution delta — control through attribution
+
+Ayumu reports Rin confined and pro-Rin members removed from the chamber after a surge for Kaya; Kaya occupies the acting president's office and an officer escorts Sensei there (`scene:001:u:0007-0027;scene:002:u:0002-0010`). These are observable/reported control signs, not a full legality audit. Kaya admits instructing Schale basement entry and removal of presidential items, but the alleged letter remains unverified (`scene:002:u:0011-0020`). Her draft would place all Schale activity under federal council name while shifting liability; no signed instrument is shown (`u:0034-0053`). Tomorrow's administrative reform is a forecast, not implemented policy. E009 unopened.
+
+## V004 C002 E009 institution delta — Kaiser policing and conditional SRT patronage
+
+A federal automatic announcement says orders took effect at midnight and disclaims liability for ignorance/checkpoint refusal; full posted text is not inspected (`scene:001:u:0002-0005`). Kaiser Security announces 47-district policing transfer, then directly issues disproportionate penalty/arrest orders and an unwarranted work-placement order to Decartes's group (`u:0021-0087`). The visible coercion is real, though written mandate and completed custody are unverified. A General reports Kaya forbids hostility to SRT students and plans to restore SRT under her command, offering supply even against ordinance rules (`u:0105-0124`). RABBIT declines supplies and has not enlisted; SRT's legal reopening remains unshown. E010 unopened.
+
+## V004 C002 E010 institution delta — bargain and administrative bottlenecks
+
+Kaya directly states a sanction-adjustment/Kaiser cooperation bargain and expulsion of Rin supporters (`scene:001:u:0007-0008`). A Defense deputy says a cash train was hijacked/missing and ordinary response needs Traffic emergency control and district requests; Public Security personnel are suspended for disobedience and Guard personnel staffed to checkpoints, leaving few responders (`u:0015-0035`). No emergency control, station closure or rescue is shown. Momoka delays Traffic action, and Finance chief Aoi rejects new-order expense claims for Arabic-numeral amounts/smudged seal, granting revision until tomorrow (`u:0036-0085`). These procedural constraints make effective control narrower than title. SRT restoration remains Kaya's future conditional promise (`u:0096-0106`); Red Winter protest is no longer controllable by its federal recruiter (`u:0113-0154`). E011 unopened.
+
+## V004 C002 E011 institution delta — a narrow exemption inside an onerous order
+
+A Kaiser guard says subway entry requires five documents under Kaya's transport-safety order, blocking a resident trying to reach hospital (`scene:001:u:0012-0034`). Kanna cites an alleged grace-period appendix for Valkyrie temporary permits and a two-year nonuser library exemption; the guard accepts the assembled route and allows entry (`u:0035-0053`). Complete legal text/hospital outcome are not inspected. Kanna reports disciplinary suspension and chief-rank loss, plus Public Security student defiance disabling the bureau; `復職` shows some return to activity, with formal timeline open (`u:0052;u:0093-0106`). Corporate radio's >50% crime drop is unaudited. Red Winter protests reportedly overwhelm Kaiser checkpoints, while Valkyrie students still claim a local safety duty (`u:0079-0082;u:0128-0139`). E012 unopened.
+
+## V004 C002 E012 institution delta — internal command transfer at secret site
+
+The park protest ends and the squad physically reaches a formerly secret SRT training site, per Miyako's report; mapped absence/ECM cause are unverified (`scene:001:u:0004-0012;scene:002:u:0002-0008`). Miyako states the independent RABBIT squad is dissolved and control transferred to Yukino; Yukino reciprocally designates them FOX-affiliated `RABBIT支隊` (`scene:002:u:0009-0016`). This is actual squad-level command restructuring, unlike E005's proposal, but no public SRT reopening decree or lawful federal delegation is inspected. Showers/beds are offered and training ordered, not completed (`u:0017-0042`). E013 unopened.
+## V004 C002 E013 school club institution delta — planned subway attack
+
+Red Winter president Cherino does not order Minori's Engineering Department demonstrators home; her recurrent-coup explanation and Ayumu's Marina chronology are dialogue, not inspected governance records (`scene:001:u:0002-0054`). New withdrawal paperwork reportedly produces coercive bank incidents while Valkyrie/Kaiser capacity sits at checkpoints; officers report worsening serious-crime composition and support erosion without audited statistics (`u:0055-0072`). Kaya and the Kaiser General discuss arrears, sanction relief and an existing Kaiser silo beneath `子ウサギ駅`, then plan a subway detonation/false accident to replace Traffic staff and award rail operations to Kaiser (`scene:002:u:0002-0066`). This is an abuse plan and preparatory bargain; station access, warhead movement, blast, personnel purge and concession remain unperformed. FOX receives Yukino's assent, while the RABBIT detachment is not shown informed. E014 unopened.
+## V004 C002 E014 school club institution delta — trust and camp route
+
+Sora reports Angel 24's branch orders blocked since yesterday under an unexplained administrative instruction, Kaiser Security inspections, a thick service manual and a `Kaiser26` takeover rumor; no decree, ownership transfer or labor policy is inspected (`scene:002:u:0004-0016`). FOX enters Schale by an overlarge door breach, offers homemade food and explicitly frames itself as Kaya's ally, with Niko as deputy and Otogi/Kurumi following her disclosure decision (`scene:003:u:0015-0052;u:0098-0112`). The secret SRT training facility is described by Niko as built before the president disappeared and second-class confidential per Kurumi; the exact bus/walking route is given, not traveled by Sensei here (`u:0098-0107`). RABBIT's internal FOX subordination continues, but FOX trio's awareness of E013's terror plan is unshown. E015 unopened.
+## V004 C002 E015 school club institution delta — comfort and personal justice
+
+The secret SRT training site now demonstrably supplies hot showers, secure surroundings, new gear and a training day; Moe reports extensive special-round firing (`scene:001:u:0001-0010;u:0045-0049`). Miyako refers to herself as `支隊長`, confirming E012's internal FOX detachment role. Saki's mercenary feeling is not evidence of salary or a formal contractor relation; public SRT reopening remains absent (`u:0027-0043`). A night intrusion alarm alerts Miyako near the shower building and Sensei appears, but the alert mechanism and entry route are unshown; `逮捕します` does not establish custody (`u:0050-0059`). RABBIT members question outsourced decisions, with no recorded vote or command reversal. E016 unopened.
+## V004 C002 E016 school club institution delta — Miyako refuses the station mission
+
+An SRT camp log names Miyako interviewer/Sensei suspect, followed by a real underground interrogation; formal charge and arrest authority are absent (`scene:001:u:0001-0003;scene:002:u:0002-0049`). Miyako temporarily disables alarms and uses guard-commander discretion to conceal Sensei's presence. Yukino's new order assigns RABBIT/Kaiser Security to defend a station where a Kaiser Construction freight train is scheduled tomorrow at 0900 to unload a thermobaric warhead, close platform 2 until noon and place the warhead in an underground silo for detonation (`u:0050-0063`). Miyako refuses on civilian-safety/SRT-value grounds and asserts only the absent federal president can command them; this is a participant authority interpretation without inspected charter (`u:0064-0084`). No transport, blast, security deployment or formal school reopening. E017 unopened.
+## V004 C002 E017 school club institution delta — solo return and station coalition
+
+Miyako returns as RABBIT1 to the park but explicitly leaves the other three at the FOX camp, so the detachment's formal command status is not globally resolved (`scene:001:u:0002-0010`). She briefs Sensei on a secret council/FOX station-bomb operation, estimates conditional 5 km harm and a multi-person detonator intervention, then begins a counter-operation (`u:0011-0044`). At 1030 the station has six observed entrance guards and at least two patrol groups by her count; neither train arrival nor warhead placement is shown (`scene:002:u:0002-0009`). Decartes reports Kaiser Security employment, then returns to 所確幸 leadership and radios members. Miyako supplies rounds and seeks a diversion; he charges before her signal, leaving only expected distraction and no battle result (`u:0010-0069`). E018 unopened.
+## V004 C002 E018 school club institution delta — Life Safety opens the station
+
+Kanna states Public Security remains suspended and quotes Valkyrie rule 32(1) as allowing Life Safety students temporary detention of transit obstructers; the guards contest jurisdiction, while the charter itself is not inspected (`scene:001:u:0018-0040`). Kanna coordinates Kirino/Fubuki and remains at the entrance. Kirino's knowledge of unmapped old-station passages and Fubuki's infrastructure tactics support a local route; Miyako reaches a platform safely (`u:0060-0081;scene:002:u:0001-0040`). Kaiser Security's ex-PMC elite and Kanna's Life Safety elite descriptions are rival participant claims. Decartes's group falters and he reports others fled. No actual warhead access or formal detention record yet. E019 unopened.
+## V004 C002 E019 school club institution delta — RABBIT reunites below station
+
+The team reaches a hidden, powered rail-linked military hangar beneath 子ウサギ駅, with equipment, lift and transport tracks observed; battalion capacity and Kaiser cost rationale are Miyako estimates (`scene:001:u:0001-0034`). A drone is reportedly sniped, with Otogi attribution unconfirmed (`u:0035-0043`). Saki/Miyu/Moe voluntarily return to Miyako, affirm SRT justice, and obey her equipment-check order before a named counter-operation (`u:0044-0082`). This changes effective RABBIT alignment from E012's FOX detachment, while official SRT reopening, detachment discharge and other juniors' exact warhead briefing are unprinted. E020 unopened.
+## V004 C002 E020 school club institution delta — forward FOX defense falls
+
+FOX controls the silo room approach: Otogi at sniper point, Kurumi at narrowed central-lift entry, Niko on remote elevator control switched offline and later physically disconnected externally (`scene:001:u:0002-0047;scene:002:u:0075-0085`). Miyako says a thermobaric warhead is already mounted and lower room controls it; no direct inspection is printed (`scene:001:u:0048-0055`). RABBIT assigns explicit point, console, hacker and counter-sniper roles, then Saki/Kurumi clash and FOX3/FOX4 are reported down. Moe uses roughly ten one-pound Semtex charges to force a door, granting shaft access without restoring lift operation; Miyako orders harness/rappel, not yet completed (`u:0056-0085;scene:002:u:0001-0113`). Formal SRT status and warhead outcome remain open. E021 unopened.
+## V004 C002 E021 school club institution delta — Yukino's button threat
+
+FOX3/FOX4 report forward-defense defeat; FOX2 reports rappel then falls silent on radio. Yukino orders FOX seniors outside and takes sole defense of the silo operation room (`scene:001:u:0002-0013`). Miyako and Saki report completed descent; Moe says the control room is farther down the passage. Yukino claims a connected warhead self-destruct button and threatens immediate detonation on entry; physical control/link remains uninspected (`u:0014-0037`). RABBIT declares it will enter, without printed capture or warhead disarmament (`u:0038-0046`). E022 unopened.
+## V004 C002 E022 school club institution delta — device secured and FOX surrenders
+
+A silo warning reports automatic intruder defense disabled and a posture-Z order, without observed document purge (`scene:001:u:0001-0006`). Yukino holds a self-destruct control by private thought; FOX seniors return through a duct, rejecting her withdrawal order. In scene 2 an unspecified explosion knocks the control loose and Sensei secures it; this is not the intended thermobaric event. Miyako requests disarmament and Yukino finally declares FOX surrender (`scene:002:u:0001-0084`). No physical removal/deactivation of the mounted warhead, casualty count, formal custody or SRT reopening is printed. E023 unopened.
+## V004 C002 E023 school club institution delta — Kaya detained after failed coup
+
+Moe reports alerting Highlander and arranging a one-hour council-bound rail closure, without inspected notice; RABBIT advances past General's claimed Kaiser SOF reserve (`scene:001:u:0014-0033`). Kaya cannot raise Public Security/Guard force because suspensions/new-order postings persist. Miyako secures Kaya and asserts immunity exception/emergency arrest for attempted station bomb and other offenses; legal basis, proof standard and custody transfer remain uninspected (`scene:002:u:0001-0011`). FOX-supplied prior assault recording undercuts Kaya with Heine, who demands impeachment; no formal council vote/removal is printed (`u:0026-0059`). Warhead disposition and SRT reopening remain open. E024 unopened.
+## V004 C002 E024 school club institution delta — chapter epilogue
+
+Mai broadcasts attempted station bombing, Kaya impeachment/prosecution and Kaiser Security rebate findings, with parent-company denial; no documents/judgment are opened (`scene:001:u:0002-0009`). Niko is directly in special correction detention B-207; FOX peers later appear, but sentence details are absent (`scene:002:u:0002-0011;scene:003:u:0030-0044`). Miyako's letter reports Rin back as acting president, new orders revoked, RABBIT/FOX roles withheld publicly, credit assigned Kanna and early Public Security return, Kirino refusing Guard transfer, and formal council permission for RABBIT park stay (`scene:002:u:0012-0036`). Park authorization is not SRT school restoration. The warhead's final storage/disposal is unreported. Checkpoint due.
+
+## V004 C002 chapter checkpoint — institutional reconciliation
+
+The [chapter checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C002_CHECKPOINT.md) distinguishes FOX's local RABBIT command, Kaya's contested acting authority, Kaiser Security's exercised street control, Kanna/Life Safety's locally effective response, Miyako's emergency detention claim, Mai's impeachment/prosecution and rebate report, and Miyako's reported formal park permit. None is an opened SRT charter, final court judgment, corporate audit or physical warhead disposition. Rin's acting return, revoked orders, Public Security restoration and public Kanna credit rest on Miyako's letter until corroborating records are opened. No side-source admission; V005 C001 E001 unopened.
+
+## V005 C001 E001 school club institution delta — Hyakka Ryouran status unresolved
+
+A troupe member identifies Nagusa's haori with 百花繚乱; Nagusa explicitly calls the clothing costume and says she is no longer part of it after coming to return `アレ` (`scene:001:u:0031-0042`). This is self-description, not an inspected membership order, item register or school decision. Arata's group names a pre-festival disruption plan and Nagusa alleges public nuisance, with no charge or disposition shown. Niya says Hyakkiyako sent recent material and invites Sensei to an approaching festival; institutional organizer, schedule and request are not yet given (`scene:002:u:0004-0020`). Schale has district-damage/support-guidance papers, but approval or causal link is not printed. E002 unopened.
+
+## V005 C001 E002 school club institution delta — local dispute before adjudication
+
+Sensei reaches the Hyakkiyako district during visible festival preparation (`scene:001:u:0001-0002`). A resident reports a lost wallet, Yukari alleges theft, two thugs deny it, then wallet recovery and their own responses strongly support possession (`u:0003-0029`). The resident's initial de-escalation and subsequent recognition are local responses, not a formal complaint or disciplinary finding. Associates threaten to silence witnesses; no police, school officer, charter authority, arrest or final disposition is printed (`u:0030-0034`). E003 unopened.
+
+## V005 C001 E003 school club institution delta — dissolution rumor and festival organization
+
+A resident says a `解散令` means 百花繚乱 is suspended; Yukari calls this misleading and under confirmation, while a servant later says she fled an estate after hearing the order (`scene:001:u:0012-0020;u:0079-0089`). Neither the order, legal effect, school hierarchy nor her membership is independently inspected. Festival workers, committee and judges visibly/verbally prepare materials and participant checks. Yukari reports `百鬼夜行燈籠祭` revived after a twenty-year abolition and relays a historical renaming/origin tradition, yet cannot explain the abolition. Committee praise of its chair and a miko ritual preview are not named/complete enough to establish office or performance (`u:0047-0078`). E004 unopened.
+
+## V005 C001 E004 school club institution delta — Onmyou capacity and Hyakka Ryouran report
+
+Onmyou Club room is directly reached. Kaho says infrastructure repair and emergency dormitory-rebuilding budget work remain incomplete (`scene:001:u:0002-0018`). Niya attributes the revived lantern festival to Shizuko's sustained effort and describes it as a morale opportunity; no completed effect is shown (`u:0021-0036`). A letter received by Onmyou is read with a purported 花鳥風月部 sender, but provenance is not audited; prior prank letters do not resolve this one (`u:0055-0079`). Niya reports Hyakka Ryouran chair/deputy missing, activity nearly stopped and a formal dissolution order from the group yesterday; Kaho expects Onmyou procedures, not yet completed (`u:0084-0095`). Yukari claims first-year membership and requests consultation (`u:0120-0125`). Order text, chair identities, legality and club continuity remain open. E005 unopened.
+
+## V005 C001 E005 school club institution delta — no executive approval yet
+
+Niya confirms Onmyou contacted Hyakka deputy 御稜ナグサ; Yukari's northern snowfield/agent route remains report, with mission uninspected (`scene:001:u:0009-0036`). Represented succession exposition and Kaho's manual report describe a rare `継承戦`; Kaho says chair 七稜アヤメ still holds title, Yukari says she transferred inherited 証 and left about ten months ago, while Nagusa refused full chair (`u:0038-0085`). Kaho/Yukari report at least two distinct approvals: one Hyakka executive and one outside witness; Onmyou traditionally witnesses (`u:0086-0094`). Niya warns dissolution makes a challenge look like office seizure and Onmyou complicity; Yukari admits not considering it, then asks personally rather than for her family (`u:0102-0124`). Sensei/Niya agree to outside witness roles, but no executive approves, no formal registration occurs and no political safety is proved (`u:0125-0146`). E006 unopened.
+
+## V005 C001 E006 school club institution delta — image is not artifact custody
+
+Some unnamed succession preliminaries finish, but Sensei says the Hyakka executive judge/endorser is still needed (`scene:001:u:0001-0004`). Yukari's full committee name and mediation doctrine are her self-description; the Great Prophet's entrusted arrest/guidance role and older foundation history are not opened charter text (`u:0012-0022`). A publicity website image shows a gun-like `資格の証`; Yukari has not seen the physical artifact and says ghost-capture/Kuzunoha access are rumor (`u:0069-0089`). She proposes Renge/Kikyou as possible executives, but Renge is absent by a posted note at her house, so no approval or completed contest (`u:0090-0100;scene:002:u:0002-0018`). Kikyou/Renge speak only in an apparent retrospective. E007 unopened.
+
+## V005 C001 E007 school club institution delta — reported trials, no new membership
+
+Kaho compiles a cultural-club list by Sensei's report, used for the search (`scene:001:u:0037-0043`). Chlorella Observation Club members say Renge tried activities but declined formal joining; their alleged national tournament is unverified even to them (`scene:002:u:0024-0056`). Shogi members recount defeat and departure, while fitness rakugo and karuta clubs report refusing intake due festival preparation (`scene:003-005`). Narration confirms many visits but no Renge discovery. None supplies Hyakka executive approval for Yukari's succession challenge. Club members are anonymous source roles, not new tracked person models. E008 unopened.
+
+## V005 C001 E008 school club institution delta — festival work and mistaken Hyakka affiliation
+
+Shugyoubu members say the festival operating committee requested their assistance, and Mimori describes regular neighborhood watch with Kaede/Tsubaki (`scene:001:u:0001-0019`). They report planned lanterns, `送故迎新` river release and a coming ritual dancer from an unnamed old family; Shizuko, Fina and Umika are said to be preparing, not directly encountered (`u:0020-0034`). 魑魅一座 treats Yukari's haori as Hyakka group liability and attacks; Renge's direct return helps local defense, but no school sanction or succession approval results (`u:0053-0084;scene:002:u:0001-0011`). E009 unopened.
+
+## V005 C001 E009 school club institution delta
+
+Tsubaki calls Renge a Shugyoubu trial member, so formal entry is unverified (scene:001:u:0001-0036). Renge confirms Hyakka affiliation, attributes 解散令 to Kikyou’s strategist authority and refuses Yukari’s 継承戦 appeal (u:0046-0072). Her Ayame/Nagusa account and red-sky judgment do not expose the order, charter or authority rule (u:0076-0104). The unprinted clash is not a formal succession contest (u:0120-0129;scene:002:u:0001-0006). E005’s internal approval requirement remains unmet. E010 unopened.
+
+## V005 C001 E010 school club institution delta
+
+Renge’s E009 refusal leaves internal approval absent; Yukari proposes Kikyou as the next Hyakka executive but has not reached her (scene:001:u:0016-0021). The servant identifies herself as serving the 勘解由小路 family and cites Yukari’s family duties as a next-day scheduling constraint (u:0026-0055). Neither statement settles Hyakka standing, household authority over the challenge or any formal procedural filing. A stallholder describes the west-district troupe opponent as apparently Hyakka, but direct identity is withheld (u:0059-0068). E011 unopened.
+
+## V005 C001 E011 school club institution delta
+
+The student says she was Hyakka but left, while the corpus later tags her 百花繚乱部員; the explicit past/current distinction governs over the generic role label (scene:001:u:0060-0067). Her reaction to dissolution news suggests she was not following current proceedings; Sensei gives a nonverbatim account of Yukari’s 継承戦, but she supplies no approval (u:0068-0092). Her attempted return of アレ and asserted lack of 資格 have no opened artifact record, charter test, official ruling or member vote (u:0071;scene:002:u:0008-0016). Formal chair/deputy status and challenge eligibility remain unresolved. E012 unopened.
+
+## V005 C001 E012 school club institution delta
+
+The Hyakka mediation room remains accessible and Kikyou is present, but that alone does not establish the committee’s legal operating state (scene:002:u:0002-0013). Shizuko seeks the 勘解由小路 miko after unanswered household contact; Yukari declines, while Shizuko’s historical report distinguishes assigned dance from unperformed rite (u:0019-0040). Kikyou refuses to witness a Nagusa chair challenge, then declares a different 継承戦 for her 作戦参謀 seat. She names Sensei as attending witness and a one-time mutual-witness exception due contestant agreement (u:0042-0065;u:0094-0115). Declaration and Yukari nonobjection are direct; underlying waiver authority, result and effect on the original chair plan remain unverified. E013 unopened.
+
+## V005 C001 E013 school club institution delta
+
+The declared strategist-seat 継承戦 has an aftermath strongly implying Yukari’s physical defeat, but no formal winner declaration, seat transfer or validation of E012’s witness exception (scene:001:u:0001-0015). Kikyou reports the group collectively judged itself broken and frames preemptive dissolution as kindness; no separate members’ votes or order text are opened (u:0057-0066). Yukari’s family obligation is real enough to be voiced by servant and festival committee, but an automatic bar to Hyakka membership is not established. Shizuko urges self-determined belonging and discussion (u:0074-0080). Arata’s troupe describes repeated Hyakka frustration but that does not settle the committee’s legal status (u:0096-0112). E014 unopened.
+
+## V005 C001 E014 school club institution delta
+
+Shizuko says the lantern festival is about an hour from full opening, Umika/Fina prepare at headquarters, and the family miko dance is central to her twenty-year revival plan; no ceremony is yet performed (scene:001:u:0013-0021). Yukari reports Hyakka would ordinarily guard the festival, but no current roster is opened (u:0104-0107). Shizuko finds Yukari and she agrees to participate as 勘解由小路 miko after recalling ritual procedure, without household permission or completed performance (u:0108-0133). The historical reason for abolition remains unknown even to tourists; their claim about a past dance conflicts in detail with E012’s unperformed-rite report and remains hearsay (u:0137-0149). Hyakka office disposition remains open. E015 unopened.
+
+## V005 C001 E015 school club institution delta
+
+Shuro self-claims authorship of the letter sent under 花鳥風月部’s name, but formal group membership, dispatch record and operational threat remain unaudited (scene:001:u:0011-0041). Yukari’s acceptance of the family miko role is repeated in Shizuko’s retrospective, with Shizuko initially objecting to a pressured decision and later promising preparation; no dance or household clearance occurs (u:0059-0081;u:0102-0106). Sensei explicitly says the purpose was not merely witnessing a 継承戦 and seeks Nagusa as a person to hear (u:0090-0101). Ninja Research Club, represented by Michiru/Izuna and named Tsukuyo, accepts a Nagusa search, not yet completed (u:0107-0122). Hyakka office disposition remains open. E016 unopened.
+
+## V005 C001 E016 school club institution delta
+
+Nagusa self-identifies as Hyakka deputy or former deputy after returning the 証; physical transfer and administrative office record are not opened (scene:001:u:0051-0053). She says Ayame alone qualifies as chair, calls acting-chair status imposed and admits remaining members currently disagree; these are direct participant claims, not verified charter rules or member consensus (u:0063-0075). The Ninja Research Club completes a local finding after its E015 accepted search (u:0043-0046). The festival opening sky flower precedes Nagusa’s recognition of 幻魎百物語, with no security/casualty or ritual outcome yet (u:0078-0093). The original Yukari chair challenge remains unheld. E017 unopened.
+
+## V005 C001 E017 school club institution delta
+
+Umika reports festival plaza preparations complete, Fina announces the miko, and Shizuko schedules a closing dance plus planned broadcast; no completed rite or broadcast is shown (scene:001:u:0002-0030). Tsubaki as Shugyoubu head ends Renge’s trial; no Hyakka re-entry follows yet (u:0102-0114). Ninja Research Club pivots from Nagusa search to attendee protection at unknown-monster sightings, with action results open (u:0133-0160). Onmyou members report venue attacks and west-district injuries; Niya, self-described head, tasks Kaho with merchant information by time/type and goes toward the festival committee after contact fails. Kaho’s apparent vice-head address and suspected interference remain situated, with no incident report or confirmed jam (u:0161-0213). E018 unopened.
+
+## V005 C001 E018 school club institution delta
+
+Nagusa’s earlier offer of Ayame’s 証 to Kikyou is represented, including Kikyou recognizing it and Nagusa asking her to hold it; formal return, custody and office transfer remain unopened (scene:001:u:0016-0025). Kikyou reports member attrition after Ayame/Nagusa absences, but no complete roster or dissolution order appears (u:0013-0015). Hyakka’s past role against rumor-derived 幻魎付喪神 is Nagusa’s participant history, not audited archive (u:0060-0064). Current town fires and a resident’s rescue show urgent response need, while a larger catlike 幻魎百物語 appears with no confirmed containment rule or result (u:0038-0059;u:0101-0112). E019 unopened.
+
+## V005 C001 E019 school club institution delta
+
+Nagusa names the qualification emblem 百蓮 and claims only a Kuzunoha-recognized Hyakka chair holding it can hurt the large 怪談; Shuro’s Ayame-only formulation differs and no charter/test is opened (scene:001:u:0023-0028;u:0201;u:0051-0057). Nagusa says she lacks it and cuts off at キキョウに……; present custody remains unverified (u:0044-0048). Shuro self-claims 花鳥風月部 怪談家 membership and summoning of クロカゲ through 稲生物怪録, with no independent organizational record or mechanism audit (u:0054-0076). E016’s former-deputy status and chair contest remain open while public humiliation disrupts any calm institutional discussion. E020 unopened.
+
+## V005 C001 E020 school club institution delta
+
+Shugyoubu and Kikyou join public defense; Shuro’s claimed defense and Ayame-only exception do not establish a Hyakka charter or tested containment rule (scene:001:u:0001-0033). Shuro claims a rumor program aimed at Hyakka succession and confirms Yukari as target, without independent records of messages (u:0056-0094). At festival prep the planned family dance is not broadcast or performed, and an Onmyou call drops without verified jamming (scene:002:u:0001-0013). A servant reports the prior assigned miko vanished before the dance twenty years ago; honor repair is household framing, with no original record or completed current rite (u:0014-0045). E021 unopened.
+
+## V005 C001 E021 school club institution delta
+
+Nagusa names Kokuriko as 花鳥風月部 director and testifies that the club’s 稲生物怪録/百物語 method took Ayame beyond 黄昏; no club record or mechanism audit is opened (scene:001:u:0031-0045). Shuro hijacks Onmyou’s airship and internet broadcast, demonstrating present channel control without a full route explanation (u:0049-0058). Kikyou displays 百蓮 and says Nagusa left it with her, but no formal chair-transfer instrument or tested exclusive combat rule appears (u:0092-0100). Shugyoubu commits to hold Kurokage while Sensei/Nagusa go toward Yukari; no secured passage or institution-level result is shown (u:0157-0165). E022 unopened.
+
+## V005 C001 E022 school club institution delta
+
+Niya says she could not contact the festival committee, diagnoses the recent broadcast as 電波ジャック and admits misjudging the letter; she and Chise commit Onmyou aid (scene:001:u:0009-0026;u:0053-0059). The Ninja Research Club responds to Sensei’s earlier consultation and joins the passage attempt (u:0031-0052). Niya calls Shuro square occupier and Yukari hostage, with Nagusa assenting; detailed restraint and the route to broadcast control remain unknown (u:0019-0022). Shuro invokes Kokuriko’s desire for a personal 百物語 but supplies no club order or completed rite; Sensei/Nagusa reach the stage without a rescue result (scene:002:u:0063-0071). E023 unopened.
+
+## V005 C001 E023 school club institution delta
+
+Shuro self-claims that Kokuriko desired the city-burning 百物語 and that it is now complete, but no superior instruction, verified completed form or citywide damage audit is opened (scene:001:u:0096-0110). She describes a 百物語 temporarily restraining Sensei, who later drives one back by her account; the rule/mechanism remains unclear (u:0054-0059;u:0111-0118). The book display shows Yukari’s household obligations and Hyakka aspiration, but it is mediated and does not settle succession legitimacy or formal club membership (u:0064-0084). E024 unopened.
+
+## V005 C001 E024 school club institution delta
+
+Nagusa names the acting-chair role she intends to keep and asks her colleagues for help; this is personal commitment, not a documented appointment, vote or formal dissolution reversal (scene:002:interleaved u:0155-0173;u:0047-0052). A successful attack on Shuro challenges her asserted exclusive rule, but no 百蓮 transfer or qualification record is shown (u:0053-0066). Renge identifies as Hyakka vanguard, Kikyou as strategist and uses the floor against the book-holder, and Yukari declares Shuro under arrest; no restraint/transfer is shown (scene:001:u:0094-0096;scene:002:u:0067-0095). Shuro concedes this local round before using the book again (u:0105-0119). E025 unopened.
+
+## V005 C001 E025 school club institution delta
+
+Shuro escapes after tearing her book, leaving no Hyakka custody or final containment record (scene:001:u:0001-0005). Yukari issues the chair 継承戦 challenge, and Nagusa accepts while calling herself 委員長代理. The represented bout ends in Nagusa’s victory, acknowledged by Yukari; no formal promotion, transfer or club roster action follows in this unit (u:0034-0059). Yukari calls Hyakka their home and urges return, a membership/belonging claim rather than a documented reinstitution order (u:0065-0068). E026 unopened.
+
+## V005 C001 E026 school club institution delta
+
+Festival staff conduct repairs and Shizuko says public understanding permits reopening; actual lanterns flow later, with damage still visible (scene:001:u:0001-0032;u:0118-0130). Niya reports Hyakka dissolution on hold, not rescinded, with attrition unresolved and potential funding loss only speculative (u:0039-0045). Onmyou loses Shuro’s trail outside the district and Niya commits to review past records of 花鳥風月部, with no findings yet (u:0050-0074). The four plan a first new-Hyakka patrol, but its route is unshown. Yukari reports leaving the family miko duty with servants’ understanding; no formal family/club order is presented (u:0088-0117). C001 checkpoint due.
+
+## V005 C001 canonical checkpoint reconciliation
+
+The chapter checkpoint fixes Hyakka status: four members regather, Nagusa wins Yukari’s observed chair challenge as acting chair, first patrol is planned, but Onmyou holds rather than cancels dissolution and attrition/budget remain open. Kikyou possesses 百蓮 at E021, with no later handoff printed. The festival resumes and lanterns flow; Yukari reports leaving family miko duty, with no formal family decree or completed dance. Shuro escapes and Onmyou archive research is promised, not completed. C002 E001 next.
+
+## V005 C002 E001 school club institution delta
+
+A Hyakka member in Nagusa’s dream announces first-year duel custom and a 201–0 Ayame win claim, but the frame prevents treating this as an opened charter or contest register (scene:001:u:0001-0012;u:0030). No current committee or succession action occurs. Ayame’s dream speech is tracked without an authenticated office/present-state claim. E002 unopened.
+
+## V005 C002 E002 school club institution delta
+
+Kokuriko calls Azami 怪芸家; Azami claims custody of the club’s last of three strange books, two others lost on different reported occasions, and offers to lend 稲亭物怪録 to Shuro (scene:001:u:0001-0010;u:0055-0063). No catalog, original charter, full custody chain or tested desire/fear function is opened. Shuro accepts a revenge plan; no completed assignment or first use follows (u:0064-0071). E003 unopened.
+
+## V005 C002 E003 school club institution delta
+
+Workers describe an Onmyou-ordered Chise haiku sign, and Arata’s troupe attempts to swap it; Hyakka repels the local disruption (scene:001:u:0001-0058;scene:002:u:0001-0012). Shizuko thanks the committee on behalf of festival organizers and shopping street. Kikyou says Hyakka presently mediates school issues and does not take private jobs absent serious danger, but a dessert taste test is accepted as hospitality (u:0013-0040). The four start wall-sandbag reinforcement, a practical community service not a printed charter change or completed repair (u:0061-0093). E004 unopened.
+
+## V005 C002 E004 school club institution delta
+
+Yukari reports Kadeno-family hospitality/reciprocity and accesses a guest physician through a servant, with no formal family decree or clinical record (scene:001:u:0001-0023). The Kai/Riku identity seam and visitor’s self-reported internal-medicine specialty/itinerant training leave credentials unverified (u:0024-0039). No Hyakka office action or cure occurs; Nagusa plans disclosure to members (u:0082-0085). E005 unopened.
+
+## V005 C002 E005 school club institution delta
+
+Nagusa reports Ayame entrusted 百蓮 about ten months earlier and she could not accept acting-chair responsibility; she then independently searched the Great Snowfield (scene:001:u:0001-0007). Neither this narrated emblem transfer nor the Kuzunoha-tagged speaker's `successor` address is a formal chair record (u:0075-0078). A scroll is reportedly designated for Schale's Sensei, with no delivered record or text (u:0084-0088). Hyakka members support a rescue but Nagusa cites snowfield risk and inability for all to leave local duties; Niya's Onmyou messenger summons them to an unspecified consultation (u:0094-0113). No office/dissolution ruling. E006 unopened.
+
+## V005 C002 E006 school club institution delta
+
+Niya/Kaho report Ebisu as a major festival-food supplier and plan a Chise-centered Waraku festival, neither contract nor event inspected (scene:001:u:0024-0066). Ebisu requests aid; Niya asks Hyakka/Sensei and claims chair/百蓮 exclusivity for the reported creatures, not tested here (u:0067-0090). Ebisu is said informed and a greeter expected, with no arrival yet (u:0116-0118). E007 unopened.
+
+## V005 C002 E007 school club institution delta
+
+Azami self-claims Ebisu自治委員会 presidency and that all other students left; no charter, census or independent appointment is opened (scene:001:u:0018-0026). She shows shops, fields and a landing as local economic sites, while product/shipments are partly reported and a corn sample directly tasted (scene:002:u:0002-0006;scene:003:u:0002-0009,u:0027-0030). After unproductive interviews, the group enters her dorm/hot-spring hospitality at dusk, with no creature suppression or completed patrol (u:0055-0084). E008 unopened.
+
+## V005 C002 E008 school club institution delta
+
+Nagusa frames chair duty as protective performance, not formal succession; Shuro concedes prior 百蓮 use was not a fluke while exact current action/qualification remain unprinted (scene:001:u:0039-0046). Hyakka members arrive and pursue Shuro, but she is not shown detained (scene:002:u:0005-0024). An Ayame-tagged figure’s return could affect chair status, yet no identity or office action is established by the cutoff (u:0025-0032). E009 unopened.
+
+## V005 C002 E009 school club institution delta
+
+Kikyou questions whether the returned figure deserves the chair title after disappearance/near dissolution, without a formal removal (scene:001:u:0010-0024). The figure claims 継承戦 transfers 百蓮 as qualification proof rather than title, and chair should wield it effectively; her own reported mirror encounter was ineffective (u:0025-0050). These are participant explanations, not charter, device test or office disposition. Her claimed past search and absence remain under inquiry. E010 unopened.
+
+## V005 C002 E010 school club institution delta
+
+Shuro is tied at Ebisu, with no formal custody process or full disarmament (scene:001:u:0019-0020). The figure has a present umbrella remnant and claims a local tale/possible headquarters lead; neither full book rule nor base is inspected (u:0021-0049,u:0058-0077). Kikyou exercises strategist risk review of the apparent chair, with no office vote or identity ruling. Azami participates in the supposedly private discussion while her E002 antagonist role remains unknown to Hyakka (u:0091-0159). E011 unopened.
+
+## V005 C002 E011 school club institution delta
+
+The present umbrella mark and the figure’s retrospective placement scheme produce a northward lead to Azami-named 彼岸邸, not an inspected 花鳥風月部 base (scene:001:u:0011-0025). Kikyou states ordinary guns fail the proposed tale class and present 百蓮 custody lies with Nagusa; the figure plans to target the book user without it, all untested in this unit (u:0027-0040). The group brings captive Shuro and searches for another 怪書; only a self-written manuscript is found on her, no full inventory or formal detention (u:0061-0122). E012 unopened.
+
+## V005 C002 E012 school club institution delta
+
+The party reaches 彼岸邸 and splits main house, annex, study and guard after signs of upkeep, with no full base audit (scene:001:u:0001-0048). The found account presents a prior Kadeno miko as Hyakka chair, lost a succession bout/百蓮 after family rupture; the source is mediated and formal records/legality are not opened (u:0053-0091). Kokuriko directly claims former Kadeno/Hyakka membership; present office and property title remain unverified (u:0094-0113). E013 unopened.
+
+## V005 C002 E013 school club institution delta
+
+Mansion attackers confront Kikyou/Renge and Sensei’s group; no total base inventory or battle outcome (scene:001:u:0001-0012;scene:002:u:0001-0034). Shuro claims Kokuriko designed the split, but this is not an opened order. Azami’s hidden 花鳥風月部 affiliation, previously reader-known via E002, is now openly identified by Kikyou and tacitly acknowledged (u:0060-0076). No formal arrest/disposition. E014 unopened.
+
+## V005 C002 E014 school club institution delta
+
+Azami self-identifies as Kokuriko’s 花鳥風月部 怪芸家 and says her assignment was to guide Hyakka to 彼岸邸, confirming route-as-operation by participant admission (scene:001:u:0019-0023). Her claim that fear feeds 稲亭物怪録 and her threat of continuing story remain untested mechanism, although attackers are present in adjacent E013/E014 cuts (u:0024-0035). No full base inventory, office roster or creature-control audit. E015 unopened.
+
+## V005 C002 E015 school club institution delta
+
+The new Ayame-labeled figure says chair duty included wanting to protect “this reality” despite resentment, sought Kuzunoha and now proposes using a 怪書 to make a prophet real and gain a watching eye (scene:001:u:0030-0042). These are claimed motives/plan, not a verified Hyakka policy, book activation or created authority. The prior companion’s identity and office significance remain open (u:0024-0029). E016 unopened.
+
+## V005 C002 E016 school club institution delta
+
+Kokuriko says Shuro and Azami jointly used 稲亭物怪録 to repel Hyakka and capture Sensei, a direct leader-side operational account without complete battle/inventory or location record (scene:001:u:0001-0017). She calls Sensei a strategic threat to story production and plans to continue after isolating him. Shuro’s assumed ally-immunity rule is contradicted by her observed attack, cause unknown; Kokuriko gives a rumor-decay theory, not tested governance of book beings (u:0035-0046). E017 unopened.
+
+## V005 C002 E017 school club institution delta
+
+Niya has Waraku budget, safety and subsidy-audit paperwork; no document results or festival outcome shown (scene:001:u:0001-0021). A visitor announced as chair claims an avalanche; Niya orders mobile Onmyou responders to the north, with no confirmed departure/arrival (u:0022-0051). Niya questions the visitor’s office identity and calls her a shadow; the response supports impersonation but yields no formal chair/custody decision (u:0052-0069). E018 unopened.
+
+## V005 C002 E018 school club institution delta
+
+Hyakka and Sensei are physically confined behind iron bars under 彼岸邸 after a 花鳥風月部 defeat, upgrading E016's capture report; no jailer, complete transport or escape outcome appears (scene:001:u:0001-0030). The party's Ebisu-resident authenticity debate remains inference and does not establish 百物語's material limits (u:0031-0036). Shuro attributes the Ayame-like companion to 稲亭物怪録, while contemplating a replacement for lost 稲生物怪録 if Kuzunoha is at 黄昏の寺院; neither book-making nor a formal Kuzunoha-office record is opened (u:0060-0066,u:0100-0108). E019 unopened.
+
+## V005 C002 E019 school club institution delta
+
+The group has left 彼岸邸 captivity under Shuro's armed hostage threat, with no transfer agreement or formal release record (scene:001:u:0001-0023). They reach a site Nagusa names 黄昏の寺院 after half a day's travel; it first appears a deserted ruin, then Renge/Yukari perceive blossoms and a speaker self-naming as Hyakka's initial chair (scene:002:u:0001-0035). This creates direct encounter evidence for an office claimant, not a verified founding charter, temple property history or completed Kuzunoha intervention. E020 unopened.
+
+## V005 C002 E020 school club institution delta
+
+The Kuzunoha-labeled speaker claims to be Hyakka's first chair, centuries old and 百蓮's inventor; Shuro says a book was neutralized without 百蓮 after a skipped action, offering narrow present support for power but not charter/invention history or universal capacity (scene:001:u:0001-0033). Nagusa treats her own 百蓮 eligibility as recognition by this elder; the elder says she does not select temple entrants and reframes the encounter, leaving formal qualification rules open (u:0034-0056). She gives counsel, not a documented office order, restoration procedure or completed book transfer (u:0057-0114). E021 unopened.
+
+## V005 C002 E021 school club institution delta
+
+The Ayame-tagged montage shows Hyakka/Hyakkiyako expectations of a flawless chair and a privately reported 百蓮 inability; it is not an opened succession record or independent ability test (scene:001:u:0001-0048). Azami directly classifies a present Ayame-like figure as a 稲亭物怪録-born 百物語 and proposes the name ヒトツメ, articulating a fear-through-watching plan (u:0049-0074). No mass effect, formal role, battle or story-form identity chain is shown. E022 unopened.
+
+## V005 C002 E022 school club institution delta
+
+Less than an hour before Waraku, eye forms appear across the academy and an ordinary shot passes through one; Onmyou members report other monsters attacking citizens (scene:001:u:0001-0046). Kaho orders no engagement and evacuation, with no implementation outcome. Niya reports shadow-imposed confinement; Sensei reportedly assigned the Ninja Research Club to guard Onmyou, and they deliver her emphasized continue-festival/harmony message (u:0057-0113). Kaho directs them to summon Shizuko and conditionally orders Waraku held after her arrival, not a completed festival/cancellation adjudication (u:0114-0118). E023 unopened.
+
+## V005 C002 E023 school club institution delta
+
+Waraku now starts with Shizuko present, ready equipment, Chise singing and Kaho publicly inviting an audience; festival completion and safety are open (scene:001:u:0001-0044;scene:002:u:0052-0070). Niya claims ancient festival ritual and a Kuzunoha-era reason for the Festival Operations Committee's scheduling/funding reach, without charter or long-run causal audit (scene:002:u:0030-0045). Azami says her 稲亭 book draws on fear and concedes a local thinning/neutralization during the performance; duration unknown (u:0013-0022,u:0046-0075). E024 unopened.
+
+## V005 C002 E024 school club institution delta
+
+Kikyou confirms Hyakka's inherited white-firework code for Onmyou trouble and the group returns to Niya, who is wounded; no detailed rescue maneuver or captured antagonist (scene:001:u:0001-0021). Niya says festival fear reduction is temporary and proposes 百蓮 plus another 怪書 to reach an Ayame source, a tactical model not yet proved (u:0040-0065). She produces a reconstructed blank 稲生 vessel made by an unnamed interschool contact from burned remnants; Shuro writes a new lion/ninja tale and local combat efficacy changes, without complete book provenance or battle outcome (u:0066-0154). E025 unopened.
+
+## V005 C002 E025 school club institution delta
+
+Kokuriko says Azami's fear story lost power and Hitotsume will carry the next phase, a leader assessment not destruction proof (scene:001:u:0001-0031). Kikyou offers surrender as Hyakka, Yukari senses a book near Kokuriko, and Kokuriko claims three distinct books, adding person-reflecting 稲生霊怪録 to 稲生 desire and 稲亭 fear (u:0032-0064). She claims the third lost form twenty years ago and was forcibly reconstituted; provenance/operation unshown (u:0065-0077). E026 unopened.
+
+## V005 C002 E026 school club institution delta
+
+Kokuriko's dark mirror intervention follows E025's third-book claim, with confessions and her admission she covered the group's sight but no printed book-opening/technical rule (scene:001:u:0001-0037). She says Sensei is locally unaffected and affirms prior pressure on Ayame, then reports her at the castle top; Hyakka sets out rather than formally detaining Kokuriko/Azami (u:0038-0082). Azami recognizes an apparently returned right arm, challenging her absolute lost-in-twilight rule without explaining custody of Ayame or the hand. E027 unopened.
+
+## V005 C002 E027 school club institution delta
+
+Nagusa declares Ayame unfit for chair on duty/public danger grounds and requests a 継承戦; she names one outside and one Hyakka-executive witness, Sensei/Kikyou, while Ayame accepts in chair title (scene:001:u:0008-0028). Combat is shown only through reactions and italic apparent aftermath: Ayame says Nagusa beat her and is now chair, but no independently narrated finish, 百蓮 transfer or formal office registry is opened (u:0029-0071). Reconcile E009 qualification/title distinction at E028. E028 unopened.
+
+## V005 C002 E028 school club institution delta
+
+Niya reports completed Waraku and retracts the E023 purging-ritual mechanism as bluff, retaining only old tradition; local festival fear suppression remains independently observed (scene:001:u:0017-0030). Her investigation says Ebisu autonomous committee was empty for decades, so Onmyou will take administration; records/staffing are not opened, and no antagonist was captured (u:0031-0049). Onmyou/Hyakka officially announce the crisis Ayame was enemy-made, an institutional claim not an exhaustive form audit (scene:002:u:0011-0015). E027 chair succession result is still not formally registered; Nagusa reports arm/Ayame return and Ayame remains asleep (scene:003:u:0023-0034). C002 checkpoint due.
+
+## V005 C002 canonical checkpoint reconciliation
+
+Waraku begins and Niya reports successful conclusion; Hitotsume locally thins, while Niya retracts an ancient supernatural purging mechanism as bluff. E028 investigation finds Ebisu autonomous committee long empty and Onmyou assumes its administration, with transfer documents uninspected. A declared Nagusa/Ayame succession bout has an apparent Nagusa win, but title/百蓮 custody remain unregistered. Three distinct book titles are claimed; a blank 稲生 vessel enables Shuro's new visible tale, 稲亭 fear effects weaken, and 稲生霊 person-mirror operation remains partly staged/inferred. Antagonists escape. 274/480; V006 C001 E001 next.
+
+## V006 C001 E001 school club institution delta
+
+Maia names Arius as the school where she grew, endured and learned after trying to leave; an opportunistic lender's inference that she effectively lacks enrollment is not a registry finding (scene:001:u:0019-0020,u:0038-0045). Work leader denies wages/contract and a boss pressures underground work, but no legal record or job content is opened (u:0017-0027). Subaru promises Arius will not abandon her; no governance, housing or resource provision is shown (u:0046-0056). E002 unopened.
+
+## V006 C001 E002 school club institution delta
+
+Trinity students describe an impending externally written comprehensive exam for all students; poor marks imply special classes and retest, not direct expulsion under the described rule, but papers, threshold and formal administration are unopened (scene:001:u:0013-0046). Vigilante patrol/study balance is an aspiration, not a special formal creed according to Suzumi (u:0061-0066). The library, Sweets Club, Rescue Knights and Justice Committee show different study/work constraints and rhetoric; Natsu's nutrition rationale and Mine's punitive example do not establish policy or results (u:0069-0118). Sisterhood's collective great-hall arrangement is **narrated as revised**: willing group learners use the hall, solitary learners use dorms after Hinata/Marie persuade Sakurako in response to Sensei's concern (u:0119-0130). No scores or compliance outcomes. 276/480; E003 next.
+
+## V006 C001 E003 school club institution delta
+
+Two Arius students directly present themselves as Trinity transfers and describe a retrospective limited offer by an unidentified Trinity visitor claiming Tea Party association (scene:001:u:0001-0059). Consent was reportedly optional, the visitor says only part of Tea Party can welcome them, and a rural-school label serves as a cover; no approval chain, roster or paperwork is inspected. More transfers, mostly younger, are reported without a count. Their accounts of prior blanket scarcity and militarized instruction versus present bed, meals, classes, cafés and paid work show concrete material contrast for these two, not a total Arius/Trinity survey (u:0060-0127). They report some students remained at Arius, but current resistance, contact exclusion and curriculum state are unknown or hearsay (u:0130-0145,u:0183-0188). The Trinity-named comprehensive exam may not serve those stayers; Sensei promises a route without specifying any institution or implementation. 277/480; E004 next.
+
+## V006 C001 E004 school club institution delta
+
+Sensei proposes exam experience for Squad and Arius stayers as ordinary school life, while Atsuko and the group question what study serves; no institution, syllabus, access route or current Arius permission is opened (scene:001:u:0013-0029,u:0102-0137). Squad participants report Arius instruction in violence and occasional outside disappearance requests that Hiyori says they reject; these are historical/ongoing personal reports, not formal curriculum or contract records (u:0123-0155). Sensei reframes education as world knowledge, with Saori's contract literacy, Misaki's perspective-taking and Hiyori's stayer concern showing practical but limited buy-in (u:0158-0176). A sponsor arranges a large ship, and Nagisa directly names herself host of Tea Party and sponsor of this gathering. This does not yet establish her authorship of the E003 transfer offer or a school-program commitment (u:0063-0078,u:0185-0188). 278/480; E005 next.
+
+## V006 C001 E005 school club institution delta
+
+Nagisa says she rented a moored ship's facilities for the day, secret from Trinity students, and convenes Squad as a Tea Party host with institutional responsibility; no expense or authorization records are shown (scene:001:u:0026-0034,u:0116-0121). She cites Trinity intelligence and Sensei says assigned transfer contacts are support rather than surveillance and that transfers reported the meeting themselves, but underlying logs are not read (u:0086-0105). Nagisa calls Arius's old expulsion a Trinity mistake and apologizes as current representative, giving both cost-effective de-escalation and archival/conscience reasons; this is an official-role statement in the meeting, not academy-wide ratification or verified historic archive (u:0119-0170). She and Atsuko name transfer and stayer constituencies for future apology; Nagisa requires responsible action but no school program has been stated (u:0176-0225). 279/480; E006 next.
+
+## V006 C001 E006 school club institution delta
+
+Nagisa asks Sensei to give Arius students lessons, pledges support for remote or indirect methods and prioritizes his safety while acknowledging possible nonconsensual intrusion. Sensei instead chooses to go in person and Squad escorts; no class site, syllabus, authorization, learner assent or actual entry has been shown (scene:001:u:0021-0049). At Arius, a welcome for Maia occurs and Subaru says many who went outside returned while some Trinity goers lost contact; no registry or explanation for missing contact is opened (u:0050-0059,u:0100-0105). Maia recalls music restricted under Madam and describes outside cultural venues, food and water leisure, not a current school-policy audit (u:0060-0080). Subaru's belief Trinity remains unforgivable and Squad abandoned a guiding role is an internal Arius political claim, not verified governance. 280/480; E007 next.
+
+## V006 C001 E007 school club institution delta
+
+Nagisa sketches an unofficial route for spare Trinity comprehensive-exam prints to Arius via Squad and an apparent delivery error; Trinity would not comment. No copies, custody transfer, changed exam name or legal authority is documented (scene:001:u:0001-0015). She notes academic preparation is needed and calls direct Trinity intervention in Arius policy inappropriate, distinguishing an ownership claim from realizable control and using a personal petition to Schale (u:0022-0046). She reports prior discreet emissaries whose visits led Rescue Knights to focus on care, but provides no incident file (u:0100-0105). Sensei says educational BDs reached Squad, which reports some study; no exam readiness test exists (u:0152-0158). At Arius, Subaru performs harmonica despite old Madam prohibition, and a messenger reports Squad/Sensei arrival. Subaru directs gun safeties remain engaged while greeting is attempted (u:0047-0079,u:0174-0215). 281/480; E008 next.
+
+## V006 C001 E008 school club institution delta
+
+At the Arius threshold, Saori says she has brought the exam, but no papers are displayed, transferred, renamed or taken (scene:001:u:0038-0068). Sensei says Arius is a school and its residents are students; the residents' fearful reaction shows the gap between nominal affiliation and lived student access, with no registry check (u:0069-0091). Subaru states study may not serve all students and rejects immediate assent; she redefines the exam as an entry test for Squad and orders armed safeties released (u:0092-0108). Squad takes protective/combat positions, but no firing or lesson occurs before scene 002's title teaser (u:0109-0132; scene:002:u:0001). 282/480; E009 next.
+
+## V006 C001 E009 school club institution delta
+
+An armed entry contest is locally conceded in Squad's favor without a displayed fight script, and an unconscious resident is reported after a separate immediate shooting; this limits claims of voluntary classroom access (scene:001:u:0001-0033). Sensei uses an existing damaged room with desks/board for a first short class and improvises Squad as practice teachers, without formal appointment, enrollment, full supplies or medical follow-up (u:0034-0055). Saori teaches social studies/contracts, Misaki introductory physics, Atsuko biology, Hiyori outside-life/fashion, then Sensei a partial lesson. Hiyori's is narrated most popular and some students' wariness eases, while others do not follow; no comprehensive exam, roster, score or continuing program is shown (u:0056-0149). Saori offers rough lodging and seeks consultation, with request substance unopened (u:0150-0157). 283/480; E010 next.
+
+
+## V006 C001 E010 school club institution delta
+
+Saori says the first Arius class allowed more break-time conversation, but the residents' better food, tea and outside supplies are her reports, while the source and flow of money are explicitly unknown; buildings remain damaged (scene:001:u:0141-0150). Maia describes the class as novel/disorienting; no exam sitting, score, enrollment registry or continuing curriculum is shown (u:0188-0204). Subaru gives an account of Arius-specific mercenary services and a represented coercive client/rival encounter, but unstable speaker tags and absent payment records prevent equating it with a fully audited school budget or all residents' support (u:0219-0268). She articulates Arius as a small shelter for abandoned students with limited capacity, a desired institutional direction rather than a verified achieved program (u:0269-0291). E010 adds two scene-local boss roles but no stable identity link to E001's organization boss. 284/480; E011 next.
+
+
+## V006 C001 E011 school club institution delta
+
+Atsuko conducts a short oral quiz and Misaki/Atsuko explain that asking another student for an answer is barred during a test even though asking was encouraged during study; no scores or comprehensive exam appear (scene:001:u:0008-0023). Sensei organizes a city field trip that Subaru questions; the students learn road signals, third-party driver safety, pool-water limits, shared dispenser hygiene and arcade use, though no syllabus, permission register or expenditure record is inspected (u:0024-0166). Subaru accompanies them and Squad remains at Arius as nominal house-sitters because wanted status bars public visibility. Resident concern about leaving Arius to Squad is explicit, and Sensei accepts responsibility without a formal custody arrangement (u:0067-0085). A passerby's educational-trainee label does not appoint Subaru. Students' account of ration-line punishment contrasts coercive old governance with ordinary queue learning, but no full institutional record is opened (u:0137-0144). 285/480; E012 next.
+
+
+## V006 C001 E012 school club institution delta
+
+Subaru's gun-based kitten rescue prompts public objection, after which Arius emblem recognition triggers discussion of Eden Treaty wrongdoing and school upbringing; these are varied bystander judgments, not a formal adjudication (scene:001:u:0001-0042). Direct student speech credits Subaru for tea-time improvement but no budget, payer or delivery record appears (u:0083-0088). Suzumi/Reisa's self-described civic patrol combines study and unpaid voluntary justice; Reisa's photos are her anecdotal record. They identify Arius students, with disclosure mechanics limited by severe tag drift (u:0091-0146). Suzumi articulates incremental justice as its own reward; Subaru argues this optimism depends on material advantage and invokes Trinity history without an inspected school record (u:0176-0228). Outing residents split in response; no formal transfer, partnership or lesson assessment follows. At return Mine and Serina appear for a claimed Rescue Knights mission, with Hanae named only by Sensei choice and actual care unopened (u:0236-0252). 286/480; C001 checkpoint next.
+
+
+## V006 C002 E001 school club institution delta
+
+Mine, Serina and Hanae arrive as Trinity Rescue Knights. Sensei requests locally hidden school/order labels; they agree, with Serina proposing 先輩 instead of 団長. Saori states the public volunteer story, and Mine self-names 名もなき奉仕活動部, but no charter, roster, authorization or school-club registration appears (scene:001:u:0001-0085). A temporary aid station is completed in scene 002, with no patient/treatment or supply audit. Subaru correctly recognizes the Trinity/Knights identity despite cover and offers conditional local tolerance if they avoid overt activity and are not Tea Party/Sisterhood agents; there is no school-wide permit or independent organization check (scene:002:u:0002-0053). Mine's top-grade and team-exam-confidence assertions are uninspected, and the new comprehensive exam is not taken (scene:001:u:0022-0027). She describes aid as accepting anger and working toward mutual understanding while acknowledging her Trinity positional limit; this is a proposed method, not an achieved settlement (scene:002:u:0080-0101). 287/480; C002 E002 next.
+
+
+## V006 C002 E002 school club institution delta
+
+The volunteer-cover aid station makes actual distributions: Mine's nutrition packs following reported medical checks, Hanae's limited filtration straws and Serina's claimed standard 30-item emergency kits. No clinical chart, inventory or long-term provisioning plan is supplied, and the cover's formal club status remains unverified (scene:001:u:0001-0026). Saori and Sensei treat the distribution as a lesson; Maia contests mathematics' value, which the group answers with reasoning/persuasion claims but no test score or comprehensive exam (u:0027-0048). The four sudden entities are visible, and Subaru reports weak effect from attacks, prompting Mine to call the hidden-label volunteers to protect and Saori to defend her alma mater; neither institutional mandate nor combat result is shown (u:0099-0130). 288/480; C002 E003 next.
+
+
+## V006 C002 E003 school club institution delta
+
+An unidentified attack/vision sequence depicts a council's eternal excommunication of Arius and later persecution, but no original council decision, date or record is inspected; the anonymous accuser's institutional history is not independent historical proof (scene:001:u:0013-0067). Mine's answer commits to reachable rescue while acknowledging one body cannot answer every plea, narrowing the unlimited aid rhetoric of E001 (u:0110-0132). She publicly names 救護騎士団 and Hanae calls her 団長, ending the local 名もなき奉仕活動部 concealment at least in this encounter; no formal Arius permission, joint charter, treatment result or defensive victory follows before cutoff (u:0133-0137). 289/480; C002 E004 next.
+
+
+## V006 C002 E004 school club institution delta
+
+The volunteer cover ends publicly when Arius residents hear Rescue Knights/団長 and one identifies Mine from Madam's departure day; their fear and the old recollection are not an institution-wide vote on present aid (scene:001:u:0007-0015). Mine is medically assessed by Serina/Hanae then Sena of Gehenna Emergency Medicine, who reports normal vitals, a bounded unconsciousness interval and nonspecific concern; transport to Rescue Knights headquarters is planned, not confirmed completed (u:0001-0006,u:0059-0080,u:0139-0145). Nagisa's retrospective personal request for Arius care explicitly disclaims a Tea Party order; no written authorization or funding route appears (u:0102-0129). Mine frames ordinary schooling as the thing to preserve and Sensei promises, without an actual new school charter or comprehensive exam (u:0095-0101,u:0130-0138). 290/480; C002 E005 next.
+
+
+## V006 C002 E005 school club institution delta
+
+Arius residents assemble in a basilica said to be named/used after expulsion and little used recently; history is participant testimony. Subaru makes a heard/not-heard trumpet grouping, finds fewer hearers and proposes investigating Porta Pacis as a repository of Arius history and scriptural interpretations, with entry-peril warnings untested and no actual visit yet (scene:001:u:0001-0062). She tentatively attributes the phenomenon to Trinity's return and Sensei, but a temporal association is not institutional causation (u:0065-0075). Students divide over lessons/exams and some propose expelling Sensei/Squad as purification; no vote, official resolution or exam outcome occurs (u:0076-0124). Subaru exercises local authority to remove Maia from the basilica and bar her return to that place, accompanying her; school-wide expulsion is not stated (u:0191-0233). 291/480; C002 E006 next.
+
+
+## V006 C002 E006 school club institution delta
+
+Sensei sends an actual MomoTalk notice of next-day lessons, but Subaru deletes it after learning its contents, stops D's proposal to give Maia a blanket, and directs the residents to sleep (scene:001:u:0035-0088). Main-story MomoTalk communication is admitted as an event; separate MomoTalk source material remains outside scope. Sensei's temporary lodging, food and bedding for Maia are local emergency care, not a formal school placement or medical assessment (u:0110-0164). Subaru leads residents out toward Porta Pacis before dawn; arrival and access remain unshown (u:0165-0179). The scheduled class has Maia but no other regular residents; no exam result, withdrawal vote or durable closure of instruction is recorded (u:0180-0196). 292/480; C002 E007 next.
+
+
+## V006 C002 E007 school club institution delta
+
+Porta Pacis is said by Arius speakers to have a longstanding no-approach rule, although Maia as a first-year knows only age/forbidden inquiry; Misaki's Trinity-record difference is hearsay (scene:001:u:0001-0020). Trinity Library Committee's Old Library, through Ui/Shimiko, reports likely relevant and partly 準禁書 material, with incomplete records of the split and no shown catalog or originals (u:0053-0106). Atsuko supplies an Arius-side account of a peace-gate dispute, civil war, underground record store and a ruler's restriction over roughly 150 years ago; she explicitly notes scarce records and unknown prohibition reason (u:0107-0140). Information-control and oral-history discussions are actor interpretations, not audited institutional lineage (u:0141-0158). Sensei's advance MomoTalk contact is within the admitted main story; no side source admitted. 293/480; C002 E008 next.
+
+
+## V006 C002 E008 school club institution delta
+
+Atsuko says Beatrice secretly visited the forbidden Porta Pacis repository shortly before the Eden Treaty, while odd Arius events predated and reportedly increased around then; no access log or causal proof appears (scene:001:u:0001-0043). Shimiko/Ui compare scriptures from common roots: Trinity treats Apocalypse mainly as proverbs, Arius gave its world-end account special attention; actor reports, not a full curriculum audit (u:0044-0087). Subaru's group reaches Porta Pacis and sees an already-open door. She orders a solo advance and residents' two-direction emplacement; actual archive access and a completed fortification remain unseen (u:0088-0118). Ui/Shimiko are explicitly on a call and can offer privacy; Ui's lesson-reception hypothesis is conditional and does not turn attendance into an institutional hearing test (u:0149-0150,u:0194-0217). 294/480; C002 E009 next.
+
+
+## V006 C002 E009 school club institution delta
+
+Subaru reads a found apocryphal text at Porta Pacis; it alleges Arius excommunication, Trinity first attack and the place-name Nicomedia, but no provenance/date/independent authentication appears. Her claim that Trinity suppressed the text is not shown as a formal institution decision (scene:001:u:0001-0035). The defensive emplacement ordered in E008 is reported completed. D/C describe the local group as between platoon and company size, with other residents elsewhere; Subaru names those gathered ニコメディアトゥループ and they accept, without charter or all-Arius mandate (u:0036-0065). The text's symbolic-angel sentence is an interpretation, not proof of entity ontology, and the closing voice is unidentified (u:0094-0139). Sensei's party is traveling toward the site, not arrived (u:0066-0093). 295/480; C002 E010 next.
+
+
+## V006 C002 E010 school club institution delta
+
+At Porta Pacis A/B invoke a no-entry command, yet their dialogue shows uncertainty whether Subaru actually ordered that or only an emplacement. E008's direct order was fortification against inside/outside danger. Fire follows a threat, with first shooter and injury unverified (scene:001:u:0001-0025). C/D report the front pushed and Subaru sends reinforcements; she treats conversation as hostile tactic while repeating the unproved Trinity-arrival cause (scene:002:u:0015-0031). Nicomedia Troop's battlefield cohesion is incomplete: A/B question the fight and recall Sensei positively (u:0072-0080). No surrender, formal expulsion of Sensei/Squad, completed breach, or proven supernatural power is shown. 296/480; C002 E011 next.
+
+
+## V006 C002 E011 school club institution delta
+
+Two figures attack Arius residents; E/F call them Apocalypse angels and approximate the fifth/sixth trumpet, without certified identity/count. Squad acts to defend and retreats after difficulty; Knights absent and no confirmed victory (scene:001:u:0001-0023; scene:002:u:0001-0010). A/B provide a side route to the underground repository after a brief nonresponse test by the figures; they knowingly depart from Subaru's no-entry instruction, but no school-wide vote or Nicomedia Troop defection is established (scene:002:u:0011-0028,u:0053-0059). Their specific lessons/exam feedback shows classroom value without durable schedule or exam result; Sensei calls it deserved 日常 (u:0032-0052). The party descends and meets Subaru, who requests a location change before dialogue; Chapter 3 continuation card ends the chapter (u:0060-0086). 297/480; Chapter 2 checkpoint next.
+
+
+## V006 C003 E001 school club institution delta
+
+Two unnamed speakers claim temporary Patar/Sanctus Tea Party representation after Mika's suspended hearing and Seia's convalescence, and claim a two-branch majority may override Nagisa's Filius view. They ask Sensei to leave Arius affairs to Trinity; no appointment, vote, resolution, Sensei assent or successful Arius program is shown (scene:001:u:0023-0043). Subaru dislikes the branch-school name, argues Porta Pacis history is Arius study, then rejects outside exams/classes and requests Sensei/Squad leave Arius permanently (u:0013-0015,u:0064-0116). This is a present demand, not an enacted registry change or actual departure. Her alleged power over trumpet figures lacks a test. Patar/Sanctus interim speakers are two distinct anonymous role actors, separate from the earlier unidentified transfer emissary. 298/480; C003 E002 next.
+
+
+## V006 C003 E002 school club institution delta
+
+Saori recalls Arius/Squad training hierarchy as strict instructor versus kind centurion, an actor account of organizational roles rather than a rank ledger (scene:001:u:0001-0020). Squad state a shared intention to turn themselves in after this crisis, but no official surrender, charging document, process or sanction is shown; Saori's proposal to claim sole leadership/execution is a future strategy, not an audited allocation (u:0060-0083). Subaru's claims that she alone sustained post-Beatrice Arius and removed children's anxiety are not school-wide outcome records (u:0084-0139). Logged seventh-trumpet language appears as Squad guard Sensei, without validated entity taxonomy or completed attack (u:0140-0151). 299/480; C003 E003 next.
+
+
+## V006 C003 E003 school club institution delta
+
+An encounter at Porta Pacis leaves Saori reporting a graze and Squad struggling with a stronger apparent figure; residents observe sound/darkness, not an audited astronomical event or reliable trumpet sequence (scene:001:u:0001-0020). Atsuko tells Subaru she alone is not Arius, directly contesting Subaru's C003 E001 collective mandate to expel Sensei/Squad and reject lessons (u:0029-0040). Her “phenomenon/trumpet angel” classification is asserted before reasons, so no institutional emergency protocol or supernatural taxonomy is established. 300/480; C003 E004 next.
+
+
+## V006 C003 E004 school club institution delta
+
+Atsuko says Royal Blood status imposed knowledge and a speech restriction around Arius 秘儀, but neither the authority/rule nor a ritual procedure is produced (scene:001:u:0001-0033). She rejects a literal seven-angel classification and offers a medium/judge model in which Subaru inadvertently caused affect to manifest; this is an actor causal account, not an institutionally verified emergency taxonomy (u:0034-0064). Maia explicitly asks that Arius remain a school and improve, opposing Subaru's C003 E001 collective rejection of exams/classes without conceding that all old arrangements should vanish (u:0077-0089). No reform charter, resumed class or control of figures is shown. 301/480; C003 E005 next.
+
+## V006 C003 E005 school club institution delta
+
+Residents supply an emergency report of a third angel-like form with Subaru-like interior, not an audited entity classification; Atsuko says Subaru should remain within Arius Branch School but no search establishes the boundary (scene:001:u:0010-0022). Subaru frames Arius as isolated and forgotten and says its lived harm cannot simply be buried without condemnation or judgment. This is a moral-political demand, not an identified lawful forum or school-wide vote (u:0029-0039,u:0069-0076). Atsuko refers conditionally to Squad spending time in correctional custody, consistent with E002 surrender intent but with no filing, custody or disposition (u:0061-0068). Arius-style talk is planned, not yet an institutional change or settled emergency response (u:0077-0094). 302/480; C003 E006 next.
+
+## V006 C003 E006 school club institution delta
+
+Subaru recalls Arius first/second-year mission cooperation with Squad and Saori's stalled third-year advancement. Her Beatrice-caused-retention inference is not an official advancement record; the remembered mental-care burden indicates an organizational cost of harsh training without a quantified audit (scene:001:u:0001-0057). E005's planned Arius-style intervention is omitted, and Sensei says the entity/crisis outcome remains uncertain after Subaru wakes (u:0058-0067). Atsuko says Arius as a plural body needs collective effort; no governance reform, classes, exam enrollment or surrender is shown (u:0112-0135). Mine is alive and awake in Rescue Knights care, then urgently asks about the coming exam; date, treatment course and result are absent (u:0136-0150). 303/480; C003 E007 next.
+
+## V006 C003 E007 school club institution delta
+
+Subaru reports that after trumpet cessation, Gehenna Emergency Medicine, Trinity Rescue Knights and others arrived at Arius and patients were moved to the Rescue Knights main ward, where care continues; Hanae bars premature discharge pending Mine's permission (scene:001:u:0008-0029). Mine is back in a leadership role and calls for Rescue Knights to balance aid with study, then exhorts Arius patients to prepare for exams. There is no exact date, enrollment, score or health clearance (u:0038-0071). Distinct Trinity student A/B propose a CQB study club and Arius transfer A/B as officers after a demonstration; no charter, approval or free formal acceptance is shown (u:0072-0097). New-nest language is an aspiration, not a governance act (u:0098-0115). 304/480; C003 E008 next.
+
+## V006 C003 E008 school club institution delta
+
+Nagisa offers to arrange an unused Trinity building free for Arius classes/exams; terms, handover, enrollment, access and exam results remain absent. She says Tea Party members will also sit exams and weak scores would challenge their qualification, but no paper/schedule is printed (scene:001:u:0001-0023). Her record-comparison/public-history project anticipates friction, experts and internal bargaining, not an existing archival commission or publication (u:0024-0056). After Sensei recounts two interim Patar/Sanctus representatives, Nagisa says related reports let her infer identities and alleges deficient work/tidied reports; no names, documents, disciplinary decision or verified 2/3 mandate are produced. She considers factional-authority repair and Mika-treatment improvement (u:0102-0126). Four-person tea is visible, not a Tea Party governance resolution (u:0146-0182). 305/480; C003 E009 next.
+
+## V006 C003 E009 school club institution delta
+
+Konoka is directly named deputy director at Valkyrie; Saori's sentence is fixed and she is held when called to an interview. Konoka announces all Squad approved for parole with charges and term lengths unchanged, cites completed voluntary surrender, remorse, petitions and Sensei's responsibility. Specific written order and supervision conditions are absent (scene:001:u:0001-0084). She says Federal Student Council handling of Arius may soon be decided, not already issued (u:0018). Hifumi, Azusa, Hanako, Koharu and Sensei actually teach Arius students in a classroom, but its identity as Nagisa's promised unused site is unverified. Club/school names are withheld in conversation for an unstated reason; residents prepare daily for a first exam, with no sitting, scores, curriculum standard or enrollment instrument yet (u:0087-0209). 306/480; C003 E010 next.
+
+## V006 C003 E010 school club institution delta
+
+Arius students take a labeled comprehensive exam; Atsuko calls it a no-penalty mock and later students report mixed results. No gradebook, pass rule or formal standing consequences are printed; the post-exam celebration occurs (scene:001:u:0001-0113,u:0254-0293). Atsuko says Squad want to serve as an interim student council until a normal one exists, names herself provisional president, tentatively maps Misaki/Hiyori offices and Saori vice/general affairs. Saori's job/contract review, club-budget and uniform ideas are proposals, not policy. Atsuko recruits Nicomedia Troop for discipline; Subaru accepts and later reports a patrol, some de facto enactment without powers/oversight record (u:0114-0205,u:0259). Restoration is only at this place and prospective new enrollment/training demand are unverified reports (u:0242-0253). 307/480; canonical C003 checkpoint next.
+
+## V100 C001 E001 school club institution delta
+
+The prologue names no school, council, club, policy or administrative action. Its voice says the world/story is disordered and artificial, an uncorroborated frame with no demonstrated institution change (scene:001:u:0001-0019). V006 C003's provisional Arius council, education and legal states are not overwritten by this speech. 308/480; V100 C001 E002 next.
+
+## V100 C001 E002 school club institution delta
+
+Gematria holds a meeting where Black Suit reports plan deviations and an alleged brief ark/nameless-priest observation; its theories, Kaiser desert search and Beatrice's Color signal are not institutionally audited by the scene (scene:002:u:0002-0067). Beatrice admits unilateral action amid Gematria disagreement, with no recorded sanction or plan adoption. At Federal Student Council reception Rin says a dream has no date/evidence, commits to checking council records, analogous cases and Hyakkiyako rosters, and says other councils need proof before cooperation. This is a bounded inquiry, not mobilization or a confirmed threat bulletin (scene:004:u:0002-0021). 309/480; E003 next.
+
+## V100 C001 E003 school club institution delta
+
+Kaiser PMC excavators report a large structure at coordinates and order General plus Federal Student Council defense-office notice through a dedicated network; no filing or receipt appears (scene:001:u:0002-0008). Abydos committee observes unusual PMC movements and treats the area as Kaiser land for a trespass decision, then plans Sensei consultation (scene:002:u:0002-0033). Alice says Engineer Club's basic check found no anomaly, Veritas periodic checks are planned, and both may investigate undetectable Key status; no technical report or completed monitoring exists. The club discusses a new game's genre without a released product (scene:003:u:0002-0050). Himari uses Rio's secured Seminar data to warn Special Phenomena Investigation of another anomaly; Toki volunteers and is accepted as a collaborator, while Schale contact is proposed, not made (scene:004:u:0002-0053). 310/480; E004 next.
+
+## V100 C001 E004 school club institution delta
+
+Sakurako retrieves apparent Justina regalia in Arius and claims lawful Sisterhood succession, but no provenance/ritual proof or identity of a second alarming item is given (scene:001:u:0002-0021). A three-session Trinity hearing strips Mika's Tea Party powers/privileges, lets Patar elect a replacement while preserving her interim factional authority, ends confinement, permits school return and requests nonacademic restraint. This is the recorded decision, with election/enforcement still open (scene:002:u:0002-0017). Demonstrators seek reversal, Ichika prohibits firing, and Justice later responds to a sweets-club/protester fight; no official post-conflict disposition. Hanako's opportunist map is a conjecture, while Hifumi notes assembly freedom without legal ruling (scene:005:u:0002-0127). 311/480; E005 next.
+
+## V100 C001 E005 school/club/institution delta
+
+Rabbit Squad acts under its continuing self-understood SRT duty to help civilians, removing a hornet nest and offering future park-based service. The proprietor says 子ウサギタウン redevelopment removed municipal offices/infrastructure; no order or attribution is shown, and this does not reinstate SRT formally (scene:001:u:0001-0020). Their park still lacks a refrigerator and relies on limited food/gifts (scene:002:u:0002-0010). Kaya answers a defense-office line without visible sender or subject (scene:003:u:0002-0007). In Gematria's meeting, Black Suit says Beatrice loses membership after embracing Color, Golconda deploys a prepared countermeasure, and the remaining speakers count her seat vacant; this establishes their internal disposition, not an external legal verdict or confirmed death (scene:004:u:0013-0035).
+
+## V100 C001 E006 school/club/institution delta
+
+Federal council staff report six unresolved sensor anomalies across Kivotos and no matching visible changes; no raw technical audit is shown (scene:002:u:0010-0029). Rin invokes acting-president emergency protocol and declares a cross-district Kivotos emergency response committee, aiming to invite every reachable autonomous representative because council capacity is insufficient. This is a declared governance action, with convocation and attendance pending (u:0030-0040). Aoi says defense-office jurisdiction may be infringed and demands stronger justification; her critique is not a recorded veto (u:0041-0075). Kaya as defense official accepts the asserted authority, suggests Schale participation and promises to contact Sensei and ask Valkyrie escort; follow-through pending (u:0086-0104). Her later private call lacks visible counterpart (u:0105-0106).
+
+## V100 C001 E007 school/club/institution delta
+
+Emergency committee requests reach districts, and Rin's anomaly attachment reaches Sensei, but representative attendance/committee deliberation are unshown. Makoto claims she withheld Prefect Team notice; no dispatch audit is printed. Kaho/Niya discuss Hyakka absence, Red Winter engineering members report a coup, both as participant accounts (scene:001:u:0001-0059). Two Kaiser PMC troops impersonate Valkyrie escorts at Schale's helipad and seize Sensei, so the promised escort channel is compromised (u:0060-0080). Kaya's defense-office alliance with Kaiser General becomes overt; Kaiser President says a desert OOPArt permits abandoning defense-office/Gematria cooperation and plans corporate seizure of Sanctum Tower administration. General orders a later council raid and Kaya's PMC-prison transfer, but institutional capture, transfer and martial law are still plans (u:0081-0111).
+
+## V100 C001 E008 school/club/institution delta
+
+Abydos students prepare for the emergency-committee summons and contrast it with years of unanswered federal petitions. Hoshino's recalled assault thought is not an Abydos institutional operation (scene:001:u:0001-0011). Shiroko reports Kaiser PMC trucks, tanks and soldiers moving toward the Abydos desert, a concrete deployment without destination/cause audit (u:0024-0036). Kaiser PMC captors attempt the General's nonlethal disabling order, fail to land a shot and keep Sensei confined/transported; this does not imply the committee has convened or the council has fallen (u:0041-0064). Abydos cannot reach Shiroko or Sensei, impeding coordination, with no official casualty or rescue disposition yet (u:0065-0086).
+
+## V100 C001 E009 school/club/institution delta
+
+Kanna identifies the custody site as Valkyrie Third Branch in D.U., says it had been used for camps and appears Kaiser-controlled; collaborator identity/reach remain unknown (scene:001:u:0028-0035). She reports the General's completed council assault, tower seizure, martial law, communications/transport cutoff and institutional authority loss six hours before rescue; source shows PMC site control but not separate coup records (u:0072-0077). Life Safety members aid escape under Kanna's attempt to shield them from discipline (u:0041-0083). In the earlier committee timeline, Rin convenes at least one meeting without Sensei; Abydos is absent, Rio silent, and representatives dispute cooperation. Aoi presents a six-member administrative no-confidence majority and effective suspension order until reconfidence; it precedes the General's reported dissolution in story time (u:0084-0155).
+
+## V100 C001 E010 school/club/institution delta
+
+Aoi's no-confidence order operates in the council and disperses Momoka/Ayumu. Kaiser General then breaches the sparsely staffed chamber, claims council authority and receives a soldier's Sanctum Tower control report. President says full administrative acquisition takes more time, orders D.U. martial law, and General declares communications, transport, logistics and government shutdown. Actual tower-site seizure is shown by the report; each citywide subsystem is not separately audited (scene:001:u:0001-0043). Kanna says council leadership scattered and contact died; the Valkyrie Third Branch camp building remains a compromised rescue site. She identifies a planned rail exit near Rabbit Park and returns Sensei's seized devices, but exit has not occurred (u:0044-0069).
+
+## V100 C001 E011 school/club/institution delta
+
+A local PMC pursuer finds the escaping group at the compromised Valkyrie site; Kirino fights, and the group survives an unshown combat interval (scene:001:u:0001-0006; scene:002:u:0001). Their personnel/support/supply deficit remains, while Kanna says D.U.'s network shutdown bars reinforcement requests; no restoration of Valkyrie or city governance is shown (scene:002:u:0002-0005). Raw groups 101110|101115 mark source segmentation, not two separately inferred missions.
+
+## V100 C001 E012 school/club/institution delta
+
+Arona attributes D.U. communications shutdown to Sanctum Tower order but achieves one brief local connection; no network restoration follows (scene:001:u:0001-0014). Rabbit Squad mounts a coordinated smoke/drone/target response against a PMC encirclement and reaches Sensei/Kanna, with heavy enemy helicopter force still present (u:0015-0040). Miyako says they are park campers, Miyu says they lack a formal chain, and members report no martial-law notice; these do not constitute a legal exception. Miyako takes temporary operational lead, Life Safety personnel agree and combat begins, without confirmed D.U. exit (u:0041-0057).
+
+## V100 C001 E013 school/club/institution delta
+
+The group escapes PMC custody site and shelters at Rabbit Park. Arona reports Kaiser's D.U. martial law, outside communications cutoff, suspended Rin authority and a six-head withdrawal/reconfidence deadlock. She identifies Schale basement Craft Chamber as the presumed tower-control access via unspecified authentication bypass; no device inspection yet (scene:001:u:0001-0025). General calls SOF to defend against Sensei. Three Public Security students join without apparent central order; no discipline or formal reinstatement is shown. Under Miyako field command, allied forces secure Schale first-floor store/entrance, while Public Security holds following PMC. Two pending aims are basement Chamber recovery and Rin rescue. Momoka/Ayumu at tower underground center recover logs giving unused northern residential room 3 as Rin's location (u:0032-0039/0071-0083; scene:002:u:0001-0034).
+
+## V100 C001 E014 school/club/institution delta
+
+Gematria treats Kaiser-held Abydos OOPArt as distinct from its ark by Black Suit's claim, and inventories several projects without independent source admission (scene:001:u:0001-0020). Kaiser SOF Oscar 1/2/3 occupy defensive positions, then cease responding; Miyako reports Schale basement Craft Chamber secured. No proof yet of credential revocation, tower control transfer, martial-law cancellation or SOF casualty disposition (u:0021-0027; scene:002:u:0001-0005). Sensei contacts Rin in Schale, meeting the rescue-location aim at least to access, but no formal release/reinstatement. General is cornered and a detonator threat is interrupted by Miyu's shot; building safety unresolved (scene:002:u:0006-0025).
+
+## V100 C001 E015 school/club/institution delta
+
+Momoka says she intervened in administrative control, and Arona confirms restored communications through incoming messages; full administration restoration/martial-law repeal remain unverified as a new Kivotos-wide phenomenon appears (scene:001:u:0001-0028). FOX Squad independently secures defense chief Kaya and extracts an unknown item from Schale basement, then withdraws; Kurumi lacks contents and Yukino says Kaiser disrupted their plan, so no Kaiser/FOX alignment is inferred (u:0029-0040). Francis self-renames from Golconde; Black Suit's Color/nameless-god/Anubis account is a Gematria interpretation, not an institutionally verified threat taxonomy (u:0041-0084). Schale outreach to all Sensei-acquainted students is reported by Arona, with no attendance or coalition result yet.
+
+## V100 C002 E001 school/club/institution delta
+
+Shinon reports a giant tower colliding with Sanctum Tower, D.U. administration paralysis, later unidentified troops attacking indiscriminately, and a Schale rather than federal emergency notice to avoid black towers/evacuate. These are broadcast reports and issuance, without casualty/evacuation audit (scene:001:u:0021-0023; scene:002:u:0025-0037). Black Suit says Gematria is destroyed and Color seized its methods/results, but no full organization inventory is shown; his six-tower/nameless-god explanation is attributed (scene:002:u:0002-0024). Hanako urges Trinity faction cooperation and PS68 gets Sensei contact, with no formal multi-school command yet (scene:001:u:0009-0020).
+
+## V100 C002 E002 school/club/institution delta
+
+Rin convenes a multi-school emergency meeting while suspended, naming six false Sanctums and proposing destruction before an estimated critical point. Library, Engineering and Veritas evidence is tentative, with a signal confidence under 10% and mismatched forecast clocks (scene:002:u:0048-0184; scene:007:u:0053-0062). Himari uses Rio's data, meets guardian obstruction and says she secured Rio-built Millennium shelters; the six-site assault is planned, not completed. Momoka demands district evacuation, defense and order; Trinity, Gehenna, Red Winter, Hyakki, Shanhaijing, D.U. and Millennium actors assign themselves local roles alongside Sensei-led oversight (scene:003-007:u:0001-0062). Kaho/Niya distinguish absent Kuzunoha registry from weak folklore and report Hyakka chair/vice-chair missing and activities stopped; formal dissolution has not occurred (scene:007:u:0063-0117). No executed cure, completed sheltering or tower victory.
+
+## V100 C002 E003 school/club/institution delta
+
+Schale Control/Noa collects readiness from three false-Sanctum fronts. Ayane leads Abydos first-site coordination; PS68 plans to draw Binah with an unused train and flank it. Eimi leads Chesed factory preparations with a front force and prospective parachute group, while a C&C–Justice role dispute delays assignment until Yuuka's rock-paper-scissors solution (scene:001:u:0001-0101). At Slumpia Rabbit reports arrival/air and sniper positions, Hina joins the game club, and Yuzu takes the third-site operational lead (u:0102-0160). The transcript gives no winner/role split for Chesed and no completed battle, tower destruction or district evacuation. No new subject/readiness promotion; 325/480.
+
+## V100 C002 E004 school/club/institution delta
+
+Hanako reports fourth-site lead with Sisterhood/Rescue Knights standby; Sakurako's location is asked but not answered (scene:001:u:0030-0035). Veritas cannot yet track Hod under Rio's Eridu cipher. Engineering proposes major excavation/separation/burning for invasive pillars and Hot Spring Club offers labor, not a demonstrated breakthrough (u:0036-0086). Yuuka/Noa call Koyuki back toward Seminar for computation while the disciplinary history is contested (scene:002:u:0002-0045). Kanna reports D.U. evacuation to distant shelters, with staffing/food gaps; School Lunch and Gourmet visibly collaborate on food (scene:003:u:0002-0035). Sixth guardian unknown and outer patrol prospective. Ninjutsu Research accepts a secret search for missing Hyakka chair at Niya's inferred temple, with failure return rule and confidentiality; Makoto's later unknown preparation is unverified (u:0036-0136).
+
+## V100 C002 E005 school/club/institution delta
+
+Rin reports all six false-Sanctum areas standby and formalizes a six-route approach under district defense. Ayumu forecasts enemy spread at launch, Momoka conditions a synchronized guardian strike on both successful defense and route access, and Ayumu sequences five individual sites before a united sixth attack (scene:001:u:0001-0011). Sensei is asked to command all combat and accepts; local roles from E002-E004 remain the force structure, and no route, guardian or tower outcome is printed yet (u:0012-0020; choice:001). Coverage 327/480.
+
+## V100 C002 E006 school/club/institution delta
+
+Ayane starts the Abydos first-site route plan, with PS68 as rail decoy and a planned join/flank. Kayoko announces train movement but an unidentified possible attack interrupts before the route, train or Binah result is reported (scene:001:u:0001-0016). The scene-to-card switch to Shanhaijing makes no institution-level success claim for Abydos (scene:002:u:0001). Coverage 328/480.
+
+## V100 C002 E007 school/club/institution delta
+
+Shanhaijing defense begins with citizen alarm; Plum Blossom takes a defense role and Kokona a civilian-evacuation role. Kisaki directly exercises Genryumon gate-master authority and reports assigning the executive chief to a weak point, while two student-role voices proceed on order (scene:001:u:0001-0015). Earlier unnamed gate-master row is reconciled to Kisaki through singular title/self-reference from V100 C001 E007 u:0036-0039, not backdated current action. No district safety or evacuation result appears. Coverage 329/480.
+
+## V100 C002 E008 school/club/institution delta
+
+Red Winter guard and Minori's workers launch a charge by command/rally; target and outcome unprinted. Nodoka identifies an old school building as shelter, with ruined/hot-spring-closed remarks and no conditions audit (scene:001:u:0001-0013). Tomoe and Shigure seek Cherino, absent on unspecified business and not known at the shelter by Nodoka's hedge; leadership status/location remain open (u:0005-0006/0014-0018). Coverage 330/480.
+
+## V100 C002 E009 school/club/institution delta
+
+Second-site lead Eimi confirms defensive readiness and C&C parachute-team duct infiltration by Akane's report, then starts a pincer designed to disrupt Chesed's factory defenses (scene:001:u:0001-0011). Front/Tsurugi and C&C/Nel roles are clearer than E003, but parachute center arrival, enemy response, guardian confrontation and tower damage remain unshown. Coverage 331/480.
+
+## V100 C002 E010 school/club/institution delta
+
+Kaho starts Hyakki district defense with Shugyoubu, Chise/Fina and Chimimouryou participants, and Shizuko reports festival-committee shelters ready and supplies pledged (scene:001:u:0001-0009). The mixed force is assembled; no enemy result or shelter audit is printed. Coverage 332/480.
+
+## V100 C002 E011 school/club/institution delta
+
+Prefect Team begins Gehenna defense while Hina serves at a tower front; Ako seeks to prove team competence independent of her, untested here (scene:001:u:0001-0010/0043). Satsuki/Pandemonium did help guide Gehenna citizens to shelters by Sena's report, reducing evacuation time, while Makoto's business remains unknown and Satsuki disclaims direct Prefect combat aid. Her NK Ultra hypnosis shows no effective result (u:0011-0042). Coverage 333/480.
+
+## V100 C002 E012 school/club/institution delta
+
+At ruined amusement park Hina/Alice start forward movement, while Yuzu deploys a Mk.3 machine that Kotori says is tailored to her control capacity; Rabbit and game club remain the larger third-site unit (scene:001:u:0001-0021). Kotori's Rio/Veritas predecessor account is attributed. No Shiro & Kuro contact, equipment efficacy or tower result. Coverage 334/480.
+
+## V100 C002 E013 school/club/institution delta
+
+Justice members direct evacuation into the old library opened by Shimiko/Ui; safety remains a hedge. Vigilante and After School Sweets volunteers join when enemies appear, and Justice reports mimesis near an unprepared zone (scene:001:u:0001-0032). Tea Party brings artillery support and asks Hasumi to direct local defense; Seia's changed senses remain self-report, Mika's status radio report. No security/casualty result. Coverage 335/480.
+
+## V100 C002 E014 school/club/institution delta
+
+Hasumi's local `mostly handled` assessment is revised by Mashiro's confirmation of trapped civilians/students near ruins, after Seia's warning. Justice orders support and reaches Koharu, whom Mika has intervened to help; Hasumi acknowledges the act despite persistent bystander hostility (scene:001:u:0001-0031; scene:002:u:0001-0020). No full evacuation, casualty/medical report or adjudication of Mika's status appears. Coverage 336/480.
+
+## V100 C002 E015 school/club/institution delta
+
+Fourth-site leader Hanako identifies one current basilica route and thin rear protection. Arius Squad arrives and takes a rear-defense assignment, plus a further unspecified request, under Hanako's task-specific trust (scene:001:u:0001-0024). Sakurako appears in claimed historical Saint Council ceremonial clothing and declares anti-hatred resolve; no uniform policy is made. Hanako launches the assault, without entry, guardian or tower outcome (u:0025-0059). Coverage 337/480.
+
+## V100 C002 E016 school/club/institution delta
+
+Utaha/Sumire begin Millennium district defense amid Hibiki's analysis workload. AMAS units appear, but Veritas/Himari do not claim control; operator and reliability remain unidentified despite useful appearance (scene:001:u:0001-0014). No battle or shelter outcome. Coverage 338/480.
+
+## V100 C002 E017 school/club/institution delta
+
+Seminar uses Koyuki's computation; she and Noa say Rio security is solved, then Yuuka/Noa assign her to Hod surface lure plus Eridu barrier dismantling despite protest. Exact access state/action result remain unshown (scene:001:u:0001-0018). Hot Spring Club performs road/building demolition near fifth site but does not prove invasive pillar removal. Chihiro/Hare worry about civic damage, and Kasumi's stated hot-spring priority conflicts with technical goal (u:0019-0036). Coverage 339/480.
+
+## V100 C002 E018 school/club/institution delta
+
+Ninjutsu Research is surrounded in the north snowfield despite E004's relatively low-risk report. Makoto and Iroha arrive by airship and deploy Toramaru; local enemies are mostly cleared and no ninja injury is reported, allowing the separate missing-chair mission to continue (scene:001:u:0001-0061; scene:002:u:0001-0025). Makoto says her network learned the mission and Ibuki's attachment motivated aid; the attacker source and any prior Makoto involvement are unproved. No chair or Kuzunoha result. Coverage 340/480.
+\n+## V100 C002 E019 school/club/institution delta
+\n+Himari treats the still-unidentified sixth guardian's energy as reason to reinforce D.U. and gather reconnaissance, delaying any direct assault until countermeasures can be sought (scene:001:u:0001-0004). Gourmet Research/remedial members and masked Kaitenger join Shiratori defense; Red reports a local result, not district-wide clearance (u:0010-0033; scene:002:u:0001-0006). Toki performs separate assigned work. Himari states Abi-Eshuh's former destructive performance depended on the dismantled Eridu city system; remaining suit capability is unmeasured (u:0007-0023). Coverage 341/480.
+
+## V100 C002 E019 school/club/institution delta
+
+Himari reinforces D.U. defense/recon while seeking a countermeasure to the unknown sixth guardian (scene:001:u:0001-0004). Gourmet Research/remedial members and Kaitenger join Shiratori defense; Red reports only a local result (u:0010-0033; scene:002:u:0001-0006). Toki performs separate assigned work. Himari states Abi-Eshuh's earlier destructive performance depended on dismantled Eridu; remaining suit capability is unmeasured (u:0007-0023). Coverage 341/480.
+
+## V100 C002 E020 school/club/institution delta
+
+Council participants report all autonomous-district defense battles complete and first-five Sanctum assault preparations ready, then discover an attack around Schale (scene:001:u:0001-0008). Valkyrie, delinquents, Love's Helmet Gang and Wakamo announce perimeter defense; no command hierarchy or outcome is shown (u:0009-0022). Rin says the false-Sanctum operation is prepared and countdown imminent, with Sensei's assent (scene:002:u:0001-0006; choice:001). Coverage 342/480.
+
+## V100 C002 E021 school/club/institution delta
+
+The sky appears normal to Rin after E020's operation-readiness report, but the chapter prints no assault or defense after-action audit (scene:001:u:0001-0003). Sensei's own success question preserves uncertainty. The silent Shiroko-tagged appearance and Chapter 3 card leave the central operation's exact outcome and Schale perimeter status unreported (u:0004-0006). Coverage 343/480.
+
+## V100 C003 E001 school/club/institution delta
+
+Ninjutsu Research reaches the snowfield vicinity with no nearby monsters, meets Nagusa, a self-named Hyakka vice-chair, and receives a scroll intended for Sensei. Nagusa says Twilight Temple was destroyed and snow-buried and Ayame cannot be found, without site inspection or scroll text (scene:001:u:0002-0090). Rin reports renewed Kivotos-wide energy, Ayumu calls for backup against an intruder, and a passage closes after Sensei's pursuit (u:0107-0129). No administrative or battle audit explains the sky/energy reversal. Coverage 344/480.
+
+## V100 C003 E002 school/club/institution delta
+
+Black Suit declares Gematria temporarily dissolved and says Maestro is free until a possible summons, citing Plenapates/Anubis threats; the broader causal inventory is his claim (scene:001:u:0001-0031). Council reports former Sanctums gone yet some enemies remain, with new readings at changed sites and roughly 38% higher energy (scene:002:u:0033-0052). Momoka traces shared flow to a high-energy structure about 75,000 m up, inferring a false-Sanctum origin; no occupant/function audit yet (u:0100-0122). Abydos/Seia pursue Shiroko recovery, while the Kuzunoha-tagged scroll denies any inversion cure (u:0002-0032/u:0071-0099). Coverage 345/480.
+
+## V100 C003 E003 school/club/institution delta
+
+Veritas/Engineering coordinate an Eridu missile trial against the 75,000 m structure; Utaha reports a miss/pass-through and Himari sees no present physical contact route (scene:001:u:0001-0020; scene:002:u:0002-0026). Hanako integrates Sisterhood/library/Tea Party knowledge into an explicitly unverified membrane hypothesis. Himari's proposed state matching requires unavailable quantum computation, according to her assessment (u:0027-0092). Black Suit separately directs Sensei toward an unspecified Abydos means with a severe-risk warning, not a governed joint operation (u:0093-0113). Coverage 346/480.
+
+## V100 C003 E004 school/club/institution delta
+
+Black Suit claims Kaiser excavated an Abydos ancient weapon through an earlier proposal and that the President interpreted it as a path to Kivotos control. He says the President withdrew after tower destruction because the weapon needed a Sanctum tower, and says Shittim Chest ownership is an exception (scene:001:u:0011-0033). The council assault/abduction happened earlier, but the excavation, retreat rationale and control system are not independently shown here. He names Utnapishtim ship as a distinct space battleship candidate (u:0034-0040). Coverage 347/480.
+
+## V100 C003 E005 school/club/institution delta
+
+Rin recalls President declaring a Kaiser ancient weapon needed Sanctum Tower to enable corporate rule, adding a direct-quote route to earlier Black Suit testimony (scene:001:u:0005-0015). Abydos enters contested Kaiser-held property, finds PMC present despite reported withdrawal and asks Sensei for command; the recorded property status and confrontation outcome remain unresolved (scene:002:u:0011-0048). The team reaches a deep mechanical structure Himari identifies as the space battleship, with controls untested (scene:003:u:0001-0015). Coverage 348/480.
+
+## V100 C003 E006 school/club/institution delta
+
+Council/Himari estimate a multi-role ship crew and Sensei agrees to summon support. Engineering handles hardware, Veritas central-processor access and main-system connection; Himari says they have not yet gained control (scene:001:u:0001-0013/u:0048-0066; choice:001). A ship map shows 135×23×13 m and fifteen areas; initial scan finds no visible weapon (u:0067-0075/u:0095). Noa sends Game Development/Alice despite Yuuka's Rio-safety concern. Kei warns an anti-Ark design could threaten Alice on activation; no test occurs (u:0023-0047/u:0076-0094). Coverage 349/480.
+
+## V100 C003 E007 school/club/institution delta
+
+Engineering assesses ship mechanics as opaque but a control manual possible; Himari sees a >75% logical-computation vessel with no apparent weapon, 100,000 m claimed altitude limit and a conditional barrier/ark-hack route (scene:001:u:0001-0041). Rio communicates via a small AMAS and corrects a formula; Himari initially rejects her, then requests calculation aid while leaving accountability for later (u:0042-0129). The council's second ancient question is recalled as a president saying with missing object, not policy. Ayumu/Momoka have a draft plan for review, not final authorization (u:0130-0169). Coverage 350/480.
+
+## V100 C003 E008 school/club/institution delta
+
+A multi-school plan names ark occupation, state-matched barrier entry, area hacking and destruction as intended steps, with Rio-AMAS assigned calculation and evacuation-route work under oversight (scene:001:u:0001-0050). Ayumu forecasts ~12h to tower return; Himari reports 3% simulated success without model audit; Rin states prior Sanctums destroyed (u:0051-0075). Sensei takes overall command, Rin/Ayumu/Yuuka/Hanako/Ako/Ayane/Kayoko and finally Momoka offer operator roles, while Engineering proposes crew wear (u:0076-0125). Rin orders eight-hour departure preparation and rest, not launch (u:0126-0138). Coverage 351/480.
+
+## V100 C003 E009 school/club/institution delta
+
+Abydos and Game Development decide to join the ship operation; Alice presents her Light Sword as possible ship defense while Engineering's reported output doubt remains untested (scene:001:u:0010-0054; scene:002:u:0002-0079). Noa/Millennium, Remedial/Trinity, Hina/Gehenna, SRT and Arius accept ground-protection roles, with no safety outcome yet (u:0080-0152). Aoi reopens emergency council communication, apologizes, and Rin asks her to maintain the institution if Rin falls; this is not legal reversal of the no-confidence action (u:0153-0179). At dawn the crew is ready on the bridge; no liftoff is shown (u:0180-0185). Coverage 352/480.
+
+## V100 C003 E010 school/club/institution delta
+
+The launch roster names ship operators Hanako/Ako/Ayane/Yuuka/Kayoko/Himari/Momoka/Ayumu under Rin, ground Veritas/Engineering, Abydos and Game Development for assault, and Fuuka/Gourmet for food despite Fuuka's protest (scene:001:u:0001-0073). Arona says the Chest can start the ship but risk to Sensei is unquantified; he connects it and the crew reports functioning systems/takeoff at 780 m (u:0074-0083/u:0131-0144). Hanako starts multidimensional system and reports status, then unexpected wave instability and hull-risk concern accompany acceleration toward 75,000 m; no ark contact (u:0145-0179). Coverage 353/480.
+
+## V100 C003 E011 school/club/institution delta
+
+The federal-president address frames adult responsibility and relationships but supplies no current council action or the president's institutional status (scene:001:u:0001-0023). Utnapishtim's multidimensional interpretation system reports error and nonmatching state against the Ark; Rio reports the Ark value changed and hypothesizes an unperceivable axis. Yuuka's hardware-failure question, Himari's evasion/futility questions and Hanako's computing-capacity question are not verified diagnoses (u:0024-0039). Ship position, barrier passage and operational recovery are unreported. Coverage 354/480.
+
+## V100 C003 E012 school/club/institution delta
+
+Utnapishtim faces a six-minute collision countdown; Ayane says slowing cannot avoid it, while Rio proposes identical-Ark intervention against the changed barrier (scene:001:u:0001-0017). Alice claims Game Development, Millennium and Schale membership alongside Nameless Gods princess status as her own identity statement, and the club worries before accepting Sensei's request to listen (u:0018-0056; choice:001). Kei reports ship resource discovery of `9999万エクサバイト` and begins protocol ATRAHASIS/new Ark activation under Alice's approval (u:0135-0147). No completed second Ark, barrier penetration, ship survival, or result is printed. Rio's apparent interaction is via the established remote interface/drone, not proof of bodily presence. Coverage 355/480.
+
+## V100 C003 E013 school/club/institution delta
+
+Utnapishtim data are reported disassembled/reconstructed into a radically enlarged Light Sword; Alice fires and Hanako reports multidimensional barrier destruction, followed by Kayoko's final-function-stop report (scene:001:u:0001-0049). Alice loses consciousness; peers plan infirmary observation, not formal clearance (u:0038-0046/u:0116). Ayane drives the ship through the barrier, runs emergency control/reverse thrust and reports Ark outer-wall impact; Ayumu confirms interior entry (u:0050-0074). The world-scale objective, hull condition and Shiroko encounter remain unresolved. Kei's deletion is not audited. Coverage 356/480.
+
+## V100 C003 E014 school/club/institution delta
+
+Utnapishtim is reported half lodged in the Ark wall; multidimensional system works, but collision damage shuts engine/restart, main control, area communications and weakens computation (scene:001:u:0001-0008). Sanctum-like hostiles converge. Ayane/Abydos guard east, Ako-addressed support/Gourmet join, and Yuuka/Game Development defend another area while Alice remains asleep; Sensei is asked to command total defense (u:0009-0043). No enemy defeat, functional restoration, complete Ark occupation or safe return is printed. Fuuka's renewed protest qualifies the food-team roster. Coverage 357/480.
+
+## V100 C003 E015 school/club/institution delta
+
+First ship defense succeeds by Ayumu's report, but Shiroko-labelled intrusion and a new blast worsen the collision-damaged vessel (scene:001:u:0001-0032). Engineering expects a possible restart, not full repair; Rio seeks Ark computing resources for a possible one-use crew return jump, with no working implementation yet (u:0033-0076). Crew assigns Abydos, Game Development and Gourmet ongoing ship guard while operators/Schale prepare Ark occupation; Ayumu declares seizure objective (u:0077-0087). No actual Ark control or safe return. Coverage 358/480.
+
+## V100 C003 E016 school/club/institution delta
+
+Veritas completes a self-destruct sequence with favorable simulation, but Utnapishtim is reported hacked through a backdoor and premature activation yields a limited blast before evacuation (scene:001:u:0007-0050). Himari says ship dimensional processing now aids the Ark; ground observers see sky change, with Sanctum restoration/function unresolved (source-ordered u0144; u0052-0084). Veritas traces control to Area 4 `ナラム・シンの玉座`, and Sensei/Shiroko move to interrupt it (u:0085-0118). An A.R.O.N.A. voice announces replacement/repair of the Ark in ~30 minutes and ship final self-destruct in 800 seconds, neither realized yet (u:0132-0143). No completed Ark seizure, world safety or escape. Coverage 359/480.
+
+## V100 C004 E001 school/club/institution delta
+
+Utnapishtim is described as Ark computing/energy support for dimensional-engine repair; false Sanctum inflow rises. System timer repeats 800/793/533 seconds as Himari/Chihiro fail one forced disconnection against a changing algorithm (scene:001:u:0001-0030). Control-room A.R.O.N.A. identifies time-axis counterparts and describes the throne as mixed dimension/time/existence; these are speaker explanations, while mutual OS interaction is directly staged (u:0031-0052). Prenapates/Sensei biometric match and death report come from familiar Arona, with no independent death scene (u:0053-0066). No control reversal, evacuation or actual detonation occurs. Coverage 360/480.
+
+## V100 C004 E002 school/club/institution delta
+
+Ground PS68, Toki, Hina and Rabbit mobilize under sky change and Miyako's tentative Sanctum report (scene:001:u:0001-0022). Rio uses multidimensional suppression to hold Utnapishtim self-destruct at 9 seconds; it is temporary (u:0023-0039). Veritas/Engineering find a signal in lowest `シャル・カリ・シャッリ回廊`, ~1,200 m below. Hanako proposes simultaneous east/west release-device destruction to permit a ~5-second lower-terminal strike, then ship recovery, Ark self-destruct and possible escape; none of these steps is completed here (u:0040-0084). Abydos takes east, Game Development west and Gourmet/Fuuka lower route (u:0085-0128). Coverage 361/480.
+
+## V100 C004 E003 school/club/institution delta
+
+Prenapates/OS tags announce frozen-Sanctum activation and computation acceleration; Veritas reports suppression hold draining rapidly (scene:001:u:0010-0018). Himari sees ground manifestation outside the expected six, and Toki independently finds a new site, loses communications, changes to Abi-Eshuh and attempts to hold it. The drain rate then normalizes without an audited causal link or local battle outcome (u:0019-0052). Gourmet/Fuuka continue a pursued lower-corridor descent, with obstacle ahead and no device strike (u:0053-0064). Ark connection, nine-second ship hold and evacuation remain unresolved. Coverage 362/480.
+
+## V100 C004 E004 school/club/institution delta
+
+Suppression time drain accelerates as Toki remains under ground strain, without a proven causal mechanism (scene:001:u:0001-0010). Fuuka/Gourmet reach lower security; Abydos destroys east release and Game Development west release, opening a five-second window. Akari's shot and Junko's report destroy the lower terminal; Chihiro/Kayoko confirm Utnapishtim/Ark disconnection at one second, and Rio reports stable suppression (u:0011-0047). The immediate backdoor link is cut. No Ark destruction, full ship repair, escape, backup-terminal audit or Sanctum defeat. Coverage 363/480.
+
+## V100 C004 E005 school/club/institution delta
+
+Ship systems are reported restored after Ark link cut; Himari starts security reset while Ark control remains unretaken (scene:001:u:0001-0005). Toki under Abi-Eshuh cannot move and requests a suit self-destruct code, which Rio denies. C&C arrives by Noa's previously dispatched fast helicopter at Seia's request; the squad starts fighting remaining enemies, without site-clearance or extraction result (u:0006-0066). Himari plans to restart Ark self-destruct using ship computation, and Rio promises prepared escape if ship must explode too; no execution or safe-return proof (u:0067-0077). Coverage 364/480.
+
+## V100 C004 E006 school/club/institution delta
+
+Control-room OS reports no alternate access to Utnapishtim, maintained suppression and canceled temporary false-Sanctum process, while Ark self-destruct is preparing (scene:001:u:0001-0012). Gourmet, Abydos and Game Development move toward central Sensei rescue; C&C reports transient Sanctum disappearance and Toki escort complete, without medical/region-wide clearance (u:0013-0057). OS predicts ≤0.0003% post-blast interior survival. Two Chest/OS sides switch or affirm combat support, and two adult cards are displayed but not activated on page (u:0058-0097). No Ark explosion or ship escape. Coverage 365/480.
+
+## V100 C004 E007 school/club/institution delta
+
+A teacher's personal escape sequence is reported assigned to Shiroko, and scene 2's location line says zero uses remain (scene:001:u:0001-0006; Scene 002 heading). Control-room OS reports blast protection but an uncontrolled fall; later a voice reports `ナラム・シンの玉座` collapsed and Shittim-Chest OS data transferred into a shared space (scene:002:u:0017-0044). The two A.R.O.N.A./Arona voices agree to combine resources to send Sensei to ground, with no text-confirmed execution or landing (u:0054-0068). Scene 003 is a video marker only; no outside visual source admitted. Coverage 366/480.
+
+## V100 C004 E008 school/club/institution delta
+
+Present Sensei's safe return to students is reported by OS voices, without landing/medical audit (scene:001:u:0011-0019). Local Shiroko's gift to alternate Shiroko is unnamed but explicitly connected to Foreclosure Task Force memories; alternate's one-per-world rule remains contested, not externally verified (u:0020-0060). Familiar Arona receives control-room OS data/persona and names her Plana; they choose a shared home called Blue Archive, with long-term architecture unexamined (u:0061-0094). The epilogue card does not itself audit Ark destruction or civic safety. Coverage 367/480.
+
+
+## V100 C004 E009 school club institution delta
+
+Chronos reports D.U. restoration, Aoi's emergency funding/administrative execution, stalled Rin censure, an official unknown-phenomenon account and possible Sanctum Tower reconstruction. The Kaiser construction partnership is explicitly a rumor, with funding beneficiaries and actual tower function unverified (scene:001:u:0001-0032). Kaya as Defense chief and Kaiser General continue an agreement, but no published terms or completed institutional restoration follow (u:0033-0048). Game Development's club setting persists after battle; its Key search is carried through a game save and Himari's technical consultation, not certified recovery (u:0049-0141). Rio remains absent according to Toki, whose employment affiliation is unsettled. 368/480, E010 unopened.
+
+
+## V100 C004 E010 school club institution delta
+
+The Remedial Lesson club is still present at a test; no marks or formal status decision appear (scene:001:u:0001-0008). Arius Squad encourages Saori's independent search, while an abusive work caller threatens unpaid labor; institutional labor enforcement is not shown (u:0009-0031). Abydos school debt is not paid off by the ramen-shop treat (u:0032-0065). Schale OS home includes Plana by direct welcome (u:0066-0077). Rin's reconfidence vote remains pending despite Ayumu/Momoka support; an unsigned letter is not council reinstatement (u:0078-0100). Niya reports Ninjutsu Research Club's safe return and meeting with the Hyakkiyako vice chair, while Kuzunoha's existence/authorship is not confirmed (u:0109-0123). 369/480, E011 unopened.
+
+
+## V100 C004 E011 school club institution delta
+
+The Shittim Chest houses two distinct OSs in routine contact with Sensei; Arona claims upgraded capability and Plana promises help, while Plana later attributes increased load/sleep to her presence (scene:001:u:0001-0027). No technical test or governance audit resolves net system effect. Plana says this world's federal president is missing too (u:0028-0029); office succession and Rin's pending vote remain untouched. 370/480, E012 unopened.
+
+
+## V100 C004 E012 school club institution delta
+
+Francis proposes change within Gematria through an unnamed former member, but organization, membership and execution are not updated by action in this scene (scene:001:u:0001-0012). Plana identifies herself as Shittim Chest OS A.R.O.N.A. and infers a hidden federal-president relation to the two-OS difference; no technical derivation or presidency status audit is printed (u:0013-0020). No video content admitted. 371/480, chapter checkpoint pending.
+
+
+## V100 C004 canonical checkpoint reconciliation
+
+The [V100 C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md) reconciles E001-E012 at **371 / 480** canonical main units. The coalition's east/west/lower-device intervention severs the ship/Ark link at one second; the OS reports temporary ground-Sanctum cancellation, while E008 OS voices report present Sensei safely returned after E007's dangerous fall. Plana is the existing control-room OS subject, distinct from familiar Arona; local and alternate Shiroko remain distinct. The exact duel, Ark/ship damage, Prenapates' fate, Sensei medical status, the alternate's durable status and wider casualty audit are unverified. E009-E012 supply civic repair reports, ambiguous `Kei.sav`, homecoming, pending Rin vote, unauthenticated Kuzunoha/president letters, Francis's unperformed Gematria plan and Plana's privately asserted president hypothesis. No new readiness promotion or standalone model: **21 PARTIAL_MODEL / 182 UNMODELED across 203**. No durable new claim ID, frozen analytical prediction, held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission. The 43 inserted V001 C003 units remain **DEFER** for their own ordered backfill. Next forward source: `BA:main:series2:000:001:001` / `MAIN_S2_V000_C001_E001`.
+
+
+## S2 V000 C001 E001 school club institution delta
+
+Decalcomania asserts a fall of authority/order and imagined power returning to society, then imagines authority distributed through a telescreen; no named public institution is audited and no new governance system is enacted (scene:001:u:0004-0029). Repeated questions about reclaiming power and legislating a new order express an antagonist plan without institutional implementation (u:0030-0082). Part 2 `series2:000` is the corpus route, not a presumed official volume number. 372/480, E002 unopened.
+
+
+## S2 V000 C001 E002 school club institution delta
+
+Rin publicly introduces herself as acting federal council president and general-affairs chief in a council/Chronos sponsored gun-safety advertisement, then reports traffic-law and tax-promotion recordings completed (scene:001:u:0001-0011; scene:002:u:0002-0019). These are performed publicity duties, not demonstrated enforcement, quantified injuries or a vote result. Aoi links the duty to the missing president's former role. The envelope's mailbox provenance and photograph contents remain unofficial clues, not an authenticated council communication (u:0020-0052). 373/480, E003 unopened.
+
+
+## S2 V000 C001 E003 school club institution delta
+
+The dream substitutes a president-given smartwatch for the Shittim Chest and empties Schale/council spaces; this is not a real institutional change (scene:001:u:0001-0045). The girl in the president's dream office is unidentified and her office presence does not settle succession. Waking Arona/Plana remain Chest-associated and cannot verify the smartwatch from memory (u:0051-0062). No council vote, president-location or device procurement outcome appears. 374/480, E004 unopened.
+
+
+## S2 V000 C001 E004 school club institution delta
+
+Rei says her team must keep the underwater wreck mission until new orders arrive and calls it their duty; no organization, issuing authority, order text or search target is named (scene:001:u:0020-0036). Beacon pickup and the recovered shard establish local operations only, not an official scientific finding. Rei and member A/B/C remain distinct role speakers with unknown institutional homes. **21 partial / 186 unmodeled across 207**, 375/480. E005 unopened.
+
+
+## S2 V000 C001 canonical checkpoint reconciliation
+
+The [S2 V000 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_C001_CHECKPOINT.md) reconciles all four sequential readings at **375 / 480**. Decalcomania claims a new route to authority through an unheard telescreen without demonstrated power; Rin's unsigned “letter” proves to be a photo envelope with no message, including an unlocated monochrome lake; Sensei's monochrome city and unidentified girl are in a narrator-driven dream, followed by waking Arona/Plana care; Rei's dive team retrieves a shard she names a shining trapezohedron without composition, hazard or sponsor verification. No causal bridge between screen, photograph, dream and shard is printed. Four directly speaking dive-team subjects were added as narrow UNMODELED: **21 PARTIAL_MODEL / 186 UNMODELED across 207**. No durable new claim ID, standalone model, frozen analytical prediction, held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission. The 43 inserted V001 C003 episodes remain **DEFER** for ordered backfill. Next forward source: `BA:main:series2:001:001:001` / `MAIN_S2_V001_C001_E001`.
+
+
+## S2 V001 C001 E001 school club institution delta
+
+Aoi reports fiscal recovery to roughly 70% of peak and identifies overwork as a council continuity risk, then extends a finance-report deadline (scene:001:u:0012-0023; scene:002:u:0015-0017). Rin cites residual public distrust and delegated acting-office responsibility, with no reconfidence result (u:0018-0024). Ayumu says she has Hina's delegation for a Trinity custody meeting; Momoka says she fixed Kanzaki-port freight scheduling after derailment. These are task assignments/reports, not adjudicated detention or fully audited transport recovery (u:0025-0034). Rin agrees to weekend leave, not completed leave (u:0035-0054). 376/480, E002 unopened.
+
+
+## S2 V001 C001 E002 school club institution delta
+
+Rin says the Sanctum Tower building is rebuilt but control system is not; temporary substitutes are weaker and sometimes destabilize power/water. A vendor reports a concrete water outage, revising the earlier no-practical-effect broadcast (scene:002:u:0038-0048). Rin claims original operation was exclusive to the missing president and says staff are being added; full repair/engineering audit absent. On her off day she still considers Valkyrie security, mascot procurement, cinema exit compliance, receipts and a delayed Seiun Tower demolition; only Rin's side of a Sumomo call is printed (scene:002:u:0002-0006/u:0051-0055; scene:003:u:0002-0016). 21 partial / 187 unmodeled across 208, 377/480. E003 unopened.
+
+
+## S2 V001 C001 E003 school club institution delta
+
+Kaya is directly present in a Correction Bureau special-facility visiting room as prisoner 1192; separate FOX housing/no news are her descriptions, not a facility audit (scene:001:u:0002-0029). Rin uses acting-president title while on leave and offers possible privacy authority, not exercised (u:0004-0016/u:0060-0064). Kaya reports FOX retrieved a Schale-basement ark object and that she stored it in a council warehouse; present inventory is conditional and truth-discernment ability untested. Rin only plans a search (u:0065-0087). No court disposition or president-control technical audit is printed. 378/480, E004 unopened.
+
+
+## S2 V001 C001 E004 school club institution delta
+
+The council store room contains a locked ark. Rin reads an unfamiliar mark/inscription, and an announcement approves the acting president with a 99% voiceprint match before opening; current inventory of the smartwatch-like Shakade Wand is directly observed (scene:002:u:0002-0015). Access rule, comparator, mark provenance, actual truth-discernment capacity and original control rights are not audited. Rin still describes herself as unable to fulfill the missing president's role, but a past president-labelled memory says administrative duties could be replaced gradually (u:0016-0039). Later president-claiming presence is ambiguous (u:0040-0057). 379/480, E005 unopened.
+
+
+## S2 V001 C001 E005 school club institution delta
+
+A person claiming the federal presidency appears in the council; Aoi and several officers recognize her, but Rin disputes identity and their descriptions do not converge (scene:001:u:0001-0043). The visitor offers to take duties from Rin and says she never approved Schale's cross-school authority (u:0057-0085). No written appointment, election, biometric check, archive revision or actual Schale sanction is produced. Rin sees the president absent from shared photos, but no independent image audit is printed (u:0053-0056). 21 partial / 188 unmodeled across 209, 380/480. E006 unopened.
+
+
+## S2 V001 C001 E006 school club institution delta
+
+Rin produces Schale/Sensei founding documents and the claimant recognizes a signature and Schale's achievements, promising not to discard Schale (scene:002:u:0015-0024); no written mandate revision is shown. Trinity tea restriction remains enacted while Nagisa only agrees to consider withdrawal; claimed market harms lack an audit (scene:003:u:0002-0029). An unaudited Defense report/letter prompts Makoto to route future Gehenna incidents to Prefects, and the claimant orders data/supplies/medicine sent to Hina, with receipt and implementation unshown (u:0030-0059). Cherino halts only the immediate pudding protest after a substitute offer; no company sales change or delivery is shown (u:0060-0088). 381/480, E007 unopened.
+
+
+## S2 V001 C001 E007 school club institution delta
+
+Plana describes president-named tower authentication and a conditional shared pairing mechanism; logs then report an `S.Q.D.` response, biometric-assisted pairing, download from the Wand and permission to view the auxiliary OS (scene:001:u:0034-0072). This is a real local device link, not a presidency-authentication certificate or Tower-control grant. Core analysis overloads A.R.O.N.A., which narrator/system text says enters safe mode and restarts from backup; Plana says simultaneous A.R.O.N.A./S.Q.D. analysis exceeds current capacity and paired data seems erased (u:0083-0121). The claimant's identity and Wand's truth function remain unverified. 382/480, E008 unopened.
+
+
+## S2 V001 C001 E008 school club institution delta
+
+Rin reports administrative members and regional representatives responded normally to the claimant, then conducts a limited commercial-district survey that finds no direct old-president rememberer (scene:001:u:0005-0011; scene:002:u:0002-0024). A Valkyrie officer acts on complaints of presidential misinformation and says some citizens demand inquiry into the disappearance; no formal inquiry outcome is shown (u:0025-0036). Mai identifies herself with Chronos and reports an Aoba West drink-bar regular who previously claimed different presidential features (u:0042-0085). This is a witness lead, not a verified archival record or proof of global memory alteration. 383/480, E009 unopened.
+
+
+## S2 V001 C001 E009 school club institution delta
+
+Triad is reached following Mai's location lead, yet the speaker's assertion that it was never a customer-drawing bar is not independently documented (scene:001:u:0002-0011). Orwell claims Gematria/Decalcomania history and proposes media as a distributed power to define reality, with an anticipated proxy ritual, but performs no media operation in this unit (u:0017-0039). No evidence connects the claimant's public acceptance, record conflict or Tower control to this theory. Orwell's distinct self-label is analytical subject routing, not a recognized office. 384/480, E010 unopened.
+
+
+## S2 V001 C001 E010 school club institution delta
+
+Orwell claims current counterevidence to the claimant has vanished, says the world changed last night and proposes preserving online contradictions via a supposed truth-observing branch (scene:001:u:0031-0060). These assertions have no document audit, mechanism test or collected post in E010. Arona reports social-media installation technically possible on the Chest but internet compilation costly; Plana offers to share routine duties and says added function is feasible, without deployment (u:0061-0076). Orwell offers access to his anonymous account, but no credential transfer or impartiality check is shown (u:0085-0087). 385/480, BA:main:series2:002:001:001 unopened.
+
+
+## S2 V002 C001 E001 school club institution delta
+
+The Prefects stop a public barrel dispute, with Iori stating public stacking/detonation is prohibited (scene:002:u:0002-0019). Ako reports a Pandemonium inventory deadline and >9 mm ammunition surrender demand, then budget cuts and stalled activity-expense decisions, without producing orders/accounts (u:0020-0025/u:0069-0081). Hina and Chinatsu present Prefect doctrine as limiting force and avoiding overregulation to preserve Gehenna freedom (u:0031-0061). No actual ammo return, completed budget decision, coup or intervening resolution occurs before an unidentified voice interrupts. 386/480, E002 unopened.
+
+
+## S2 V002 C001 E002 school club institution delta
+
+Three self-named members claim a Gehenna Restoration Committee led by Mayumi, with Karen as assistant and Shoko as secretary; no formal recognition, charter, membership or resources are shown (scene:001:u:0001-0014). They accuse Pandemonium of budget waste and Prefects of narrow enforcement, calling for a unified Gehenna based on unverified past glory (u:0023-0067). Hina states the Prefects' aim remains freedom within a protected line, not centralized control (u:0068-0085). The committee announces future actions without specifics, so no reform program, seizure or public response is established. 387/480, E003 unopened.
+
+
+## S2 V002 C001 E003 school club institution delta
+
+The Restoration Committee is already attempting traffic direction and volunteer work, with a local student-caused rocket-jump incident and unrepaired damage reported by Mayumi (scene:001:u:0001-0018). A self-identified Pandemonium third-year offers contrary memory of the old regime without details or an official record (u:0025-0053). Shoko says she has several plans and seeks authority through a suitable symbol, but no symbol, office, resources or operation is specified (u:0064-0078). 388/480, E004 unopened.
+
+
+## S2 V002 C001 E004 school club institution delta
+
+Shoko describes the Restoration Committee as newly founded and externally weak, requesting Sensei's visible presence as credibility for future activity (scene:001:u:0022-0029/u:0069-0075). The four Gehenna-student opinion lines are a small illustrative montage, not a campus survey or proof of membership demand (u:0040-0050). Old strict-rule history is explicitly hearsay from before Mayumi's enrollment and is contested by E003 senior testimony (u:0059-0068). No formal Schale sponsorship, committee charter, public event, unity policy or misinformation is enacted. 389/480, E005 unopened.
+
+
+## S2 V002 C001 E005 school club institution delta
+
+The Restoration Committee has built an operating designated shooting/destruction range; students see targets/structures and C/D are heard firing/proposing grenades (scene:001:u:0089-0126). Shoko asks IDs, substitutes written name/grade and confirms A/B are third-years, but no privacy rule or point account is shown. A reward program, merchant partnerships and sanctioned exemption from Prefect intervention are still proposals (u:0046-0081). Mayumi confirms the site lacks prior permission; Sensei accompanies a planned retroactive request, whose recipient/decision are not printed (u:0127-0145). 390/480, E006 unopened.
+
+
+## S2 V002 C001 E006 school club institution delta
+
+Makoto verbally permits the committee's range activity for now after initially refusing; the permission is a chair's direct decision, with no printed formal permit, location/safety specification or data-policy approval (scene:001:u:0001-0085). She claims a future favor without settled terms. Iroha says she will handle follow-up, but no paperwork is shown (u:0086-0092). Hina independently says the Prefects will not intervene in the area and that she will notify them, while retaining concern about future trouble (u:0109-0118). These bounded approvals do not establish a permanent exclusion of Prefect duties or reduced workload. 391/480, E007 unopened.
+
+
+## S2 V002 C001 E007 school club institution delta
+
+Sukeban A/B attempt extortion of an isolated Gehenna student outside the district; Karen's rescue and narrator-confirmed escort provide local protection evidence, not an audited patrol network (scene:001:u:0001-0048/u:0080-0085). Karen says Prefects operate only inside and the committee protects students outside, a claim supported only by this case and her self-report (u:0049-0072). She invites the student to join and reports membership has recently grown, without a submitted form, roster or count (u:0053-0060/u:0122-0126). 392/480, E008 unopened.
+
+
+## S2 V002 C001 E008 school club institution delta
+
+The range runs a ticket queue, a first 30-person group, promotional pamphlets and a reported points balance; a ticket numbered 27 is spoken and a local priority dispute is resolved (scene:001:u:0001-0035). Mayumi announces operating hours and a double-points special event, while Karen cites finite staffing as the reason 24-hour access cannot continue (u:0045-0081). There is no inspected schedule, attendance trend, reward settlement, safety policy or data-governance record. Shoko's gradual habituation strategy and Karen's voluntary-participation claim describe committee intent, with only bounded on-scene choice/compliance observed (u:0082-0110). 393/480, E009 unopened.
+
+
+## S2 V002 C001 E009 school club institution delta
+
+The committee scouts a reported popular soba merchant for points but the first venue's four meals are inconsistent and poor to the group (scene:001:u:0002-0051). Gourmet Research threatens and, after a refused improvement chance, a blast destroys the shop by the owner's account; exact charge mechanics and formal culpability remain unprinted (u:0052-0129). Shoko wants to curb such unpredictable actors, but no enforcement occurs (u:0130-0135). Narration confirms a **different** nearby soba shop agrees to a points partnership, with no contract terms, redemption or safety audit (u:0143-0153). 394/480, E010 unopened.
+
+
+## S2 V002 C001 E010 school club institution delta
+
+Shoko presents Meg a claimed Gehenna geothermal-gradient map with 14 large and 56 total veins but only selected utility-free outer sites printed; the actual artifact and clearances are not inspected (scene:001:u:0034-0042). She conditions use on developing only listed places, and Meg says she will tell Kasumi rather than authorizing it herself (u:0070-0078). Kasumi, as Hot Spring Club head, recognizes this as control but verbally commits to all listed sites because Meg desires them, with a no-next-time warning (u:0094-0128). No drilling, safety benefit, resort income, permanent exclusivity or allocation of workers is observed. 395/480, E011 unopened.
+
+
+## S2 V002 C001 E011 school club institution delta
+
+Pandemonium members report increased Restoration Committee visibility; Makoto admits he had left unspecified problems to burden Prefects and worries about scrutiny, while Satsuki/Chiaki/Ibuki describe some quieting (scene:001:u:0001-0065). Prefect staff report more predictable/smaller calls, fewer injuries/papers and direct observation of Hina asleep; no statistics establish district-wide magnitude (u:0066-0089). Karen shows Iori a Pandemonium-approved activity application that Iori recognizes as genuine, strengthening the earlier verbal-permission record but leaving detailed conditions unknown (u:0090-0097). Prefect abolition is a hypothetical goal, not a decision (u:0098-0112). 396/480, E012 unopened.
+
+
+## S2 V002 C001 E012 school club institution delta
+
+The Restoration Committee proposes adding a counseling/help desk, but no qualifications, privacy process, referral system or service standard are shown (scene:001:u:0017-0044). One solicited student reports no need; petitioner B brings a strange-voice account, so this is one open case rather than proven service efficacy (u:0045-0092). Shoko's meter suggests a signal near a locked broadcast room; no room inspection or equipment diagnosis occurs (scene:002:u:0005-0050). Karen accepts a no-destruction principle after initially proposing forced entry, a direct instance of committee self-restraint (u:0051-0065). 397/480, E013 unopened.
+
+
+## S2 V002 C001 E013 school club institution delta
+
+Erika/Kirara report one earlier broadcast, an invitation to continue and their decision to defer to a former broadcaster; there is no schedule record, inspected club-head status or proven cause of the present pause (scene:001:u:0023-0037). Erika reports a self-corrected wiring squeal and tentatively recalls a separate voice (u:0038-0058). They identify themselves as Kirakira Club members and do not accept committee recruitment (u:0064-0066). Shoko proposes direct Pandemonium negotiation for broadcast-room access based on perceived standing; no authority decision, key or room examination occurs (u:0093-0100). 398/480, E014 unopened.
+
+
+## S2 V002 C001 E014 school club institution delta
+
+Shoko seeks school broadcasting authority with a plan for content, communication and Pandemonium promotion; Makoto accepts, and the committee physically enters the room, with no written operating terms or editorial/safety policy printed (scene:001:u:0064-0088; scene:002:u:0002-0007). Satsuki reports recurring room accidents and a former broadcast head's abrupt departure but no verified cause (scene:001:u:0089-0093). Shoko sees a worn speaker cable and predicts disconnecting it will stop noise; no actual disconnect or repair is shown (scene:002:u:0022-0045). Makoto aims to appropriate success and shift failure blame, still only intended (scene:001:u:0106-0114). 399/480, E015 unopened.
+
+
+## S2 V002 C001 E015 school club institution delta
+
+At the designated range Mayumi is physically replacing/repairing heavily used drums and targets, and Sensei helps; the service has recurring material and labor needs not quantified in a budget (scene:001:u:0001-0038). Shoko later tells Makoto that broadcast systems were checked and new sound equipment placed throughout the school, while Makoto calls it infrastructure at no Pandemonium cost; no independent installation, test, funding or noise-resolution record is shown (u:0063-0073). A Makoto opening speech is agreed as a plan, not transmitted (u:0075-0084). 400/480, E016 unopened.
+
+
+## S2 V002 C001 E016 school club institution delta
+
+The planned Pandemonium broadcast gathers a sizable audience; the school audio path emits an unidentified repeated six-word phrase just as Makoto begins (scene:001:u:0001-0039). Makoto publicly declares an attack on Kivotos and Hina offers Prefects as vanguard, with Ako affirming but Iori/Chinatsu surprised (u:0048-0096). Event-local D/C cheer while B remains confused, defeating any claim of uniform school consent. No deployment, command order fulfillment, target or incident is observed; the signal's route and producer are not proved (u:0061-0102). 401/480, E017 unopened.
+
+
+## S2 V002 C001 E017 school club institution delta
+
+Prefects split: Hina/Ako profess conquest, Iori/Chinatsu insist the office protects ordinary students against arbitrary violence; no unified operational order or deployment follows (scene:001:u:0001-0079). Pandemonium also splits as Iroha challenges Makoto, while Chiaki removes Ibuki from the argument (u:0080-0136). Sena's medical unit prepares supplies for a predicted war, whereas Fuuka/Juri continue meal service and Kirakira members remain skeptical (u:0137-0198). Satsuki alleges an older Thunder Emperor NK Ultra project, distinct from her own hypnosis and supposedly targeted for deletion; original governance/technical records are absent (u:0199-0241). 402/480, C002 E001 unopened.
+
+
+## S2 V002 C002 E001 school club institution delta
+
+Satsuki says an earlier Emperor NK Ultra plan targeted then-enrolled students and was interrupted before full operation, with related materials destroyed by anti-Emperor actors; no institutional archive corroborates this (scene:001:u:0001-0033). As information head she promises research; no file recovery, experiment or cure is shown (u:0037-0040/u:0092-0120). The group selects a Gehenna-led response over immediate formal Schale/federal involvement for sovereignty reasons, but this is a political judgment and Schale remains a last-resort option (u:0071-0090). Satsuki predicts reprisals if opposed, without observed enforcement in this unit (u:0121-0125). 403/480, E002 unopened.
+
+
+## S2 V002 C002 E002 school club institution delta
+
+Sena recalls having taught Chinatsu first aid, small surgery, patient evacuation and emergency supply before Chinatsu moved to the Prefects; Chinatsu directly says she sought earlier intervention for recurring injuries (scene:001:u:0017-0059). Emergency Medicine is preparing for the declared war by Sena's account, but no deployment or new treatment outcome occurs here (u:0001-0016). Sena now frames compulsory unification as a medical operation despite expected casualties; this is a current institutional-leader stance, not a professional consensus or lawful order (u:0061-0080). 404/480, E003 unopened.
+
+
+## S2 V002 C002 E003 school club institution delta
+
+Shoko argues the committee's range and points habituated collective/tactical behavior and proposes transferring it to attacks on named outside-school sites; a local A-D montage supports some behavior but not district-wide military capacity or an authorized campaign (scene:001:u:0023-0070). Mayumi/Karen reject the equation of controlled range targets with other schools. A Pandemonium third-year summons Shoko to Makoto's strategy room; the meeting has not occurred. The senior now supports the old fear-based order despite her earlier contrary testimony (u:0071-0108). 405/480, E004 unopened.
+
+
+## S2 V002 C002 E004 school club institution delta
+
+Makoto orders collection of all food/ammunition, eight park warehouses, movement control and outbound-radio blocking before war; completion is unshown (scene:001:u:0002-0010). Hina/Ako report uninspected strike plans/simulation, Shoko seeks strategic arms, and Makoto claims he can use Emperor knowledge despite destroyed artifacts (u:0011-0043). One on-page confiscation succeeds after an officer quotes Emergency Martial Law Article 8 and threatens summary disposition; no independent statute or due process is available (u:0044-0063). Future contribution points are promised, with only intake stated (u:0058-0062). 406/480, E005 unopened.
+
+
+## S2 V002 C002 E005 school club institution delta
+
+The Restoration Committee asks leadership whether invasion and requisition are real. Mayumi states its unity ideal requires student will, while Shoko as former secretary/current strategy adviser endorses engineered order; Karen/Mayumi leave without institutional agreement (scene:001:u:0002-0045). Iroha directly resigns from Pandemonium and Makoto verbally lets her go, but no written processing, successor appointment or later office status is shown (u:0047-0064). Makoto orders inventory papers and an inspection, with no completed inspection on page (u:0079-0081). Shoko proposes marking Iroha for caution and begins a reprisal suggestion; Makoto stops her, retaining the decision. No designation or punishment is observed (u:0091-0106). 407/480, E006 unopened.
+
+
+## S2 V002 C002 E006 school club institution delta
+
+An unidentified Pandemonium messenger carries Makoto's order to build eight M-class warehouses within one week, rejects Kasumi's specialty/remit objection, and threatens a betrayal label. Meg volunteers for Hot Spring Club, the messenger calls that assent and announces future daily afternoon progress checks; Kasumi agrees to begin preparation under pressure (scene:001:u:0001-0047). This documents an attempted wartime task assignment, not completed procurement, approval paperwork, club-wide vote, construction or inspected progress. Kasumi later offers Sensei assistance against the perceived loss of Meg's own agency; their discussed policy is unprinted (u:0063-0109). 408/480, E007 unopened.
+
+
+## S2 V002 C002 E007 school club institution delta
+
+Mayumi and Karen retain the Gehenna Restoration Committee name but reject Makoto's use of unity for coerced mobilization. They make a future-facing decision to stop the current course; no formal committee vote, new charter, permitted activity, operational coalition or intervention is shown (scene:001:u:0011-0072). They report Shoko's current senior-side strategy adviser position and apparent willingness but concede they have not properly spoken with her. Sensei's offer to approach her is pending (u:0073-0080). 409/480, E008 unopened.
+
+
+## S2 V002 C002 E008 school club institution delta
+
+Makoto states Iroha's departure shifts practical duties onto him, while Satsuki is often unavailable by his account. Chiaki says Weekly Pandemonium is on hiatus and saves a photograph for potential future use; no issue, publication decision or permanent shutdown is seen (scene:001:u:0001-0014). Chiaki identifies Shoko as the Restoration Committee's former secretary and current Pandemonium strategy adviser, though their secretary rapport persists. Shoko advocates total school conversion and treats diversity as inefficient; Chiaki challenges that program without exiting Pandemonium or forming a policy alternative (u:0015-0090). 410/480, E009 unopened.
+
+
+## S2 V002 C002 E009 school club institution delta
+
+Satsuki identifies a secret chamber of the current Pandemonium Intelligence Department and herself as its chief, saying it researches mind control and keeps outsiders away. The room/equipment are observed; access history and security controls are her account (scene:001:u:0001-0030). She reports the Thunder Emperor's old directly controlled Intelligence Department handled NK Ultra files, dissolved with the old council, and that the new department was created for legacy collection, disposal and management. She says most old staff vanished, but no roster, transfer register or destruction inventory is inspected (u:0034-0050). Her later external-network suspicion is not an institutionally verified finding. 411/480, E010 unopened.
+
+
+## S2 V002 C002 E010 school club institution delta
+
+Sensei convenes Prefect members Iori/Chinatsu, former Pandemonium member Iroha, Pandemonium member Chiaki and Restoration Committee members Mayumi/Karen; Satsuki later joins. Their shared anti-war purpose is direct, but no charter, commander, authorized mandate or public title is printed. Satsuki's `rebel club` is a conversational label (scene:001:u:0001-0065). The meeting's research branch remains at hypothesis stage. Chiaki identifies the broadcast room as a place to inspect equipment used in Makoto's speech; no entry, seizure, data preservation, legal permission or technical result yet (u:0066-0094). 412/480, E011 unopened.
+
+
+## S2 V002 C002 E011 school club institution delta
+
+Makoto says a shortage of personnel and practical work occupy him, consistent with Iroha's E005 exit; Iroha states she has not returned to Pandemonium even while wearing its armband, so the item cannot be treated as a formal status record (scene:001:u:0001-0027). Ibuki reports reduced companionship while Satsuki/Chiaki are often away. Iroha offers an alternative caregiving arrangement, but Ibuki declines and stays; no custody, membership or duty transfer is documented (u:0028-0063). Makoto affirms her personal choice later, without reversing campaign orders or restoring Iroha's role (u:0097-0110). 413/480, E012 unopened.
+
+
+## S2 V002 C002 E012 school club institution delta
+
+An event-local Prefect guard denies all entry to the heavily defended broadcast building, including to a Weekly Pandemonium reporter. No written restriction, security rationale or preserved equipment is inspected (scene:001:u:0001-0016). Shoko invokes a restoration loyalty rule and threatens committee members who foment division; this is adviser speech, not formal expulsion. Hina orders Prefect, Pandemonium and Restoration members back to posts and threatens consequences, with no adjudication or compliance shown (u:0037-0121). She then proposes placing Sensei under temporary 'protection' because he supports dissent; no legal authorization or custody action has yet been printed (u:0162-0176). 414/480, E013 unopened.
+
+
+## S2 V002 C002 E013 school club institution delta
+
+The proposed Hina/Makoto 'protection' becomes actual jail confinement of Sensei, isolated from outside; Makoto says he agreed to it. Shoko says she recommended the step to both leaders, establishing her advisory role in this coercive action (scene:001:u:0001-0008/u:0060-0062). No warrant, custody protocol, duration, guards, appeal or release route is printed. Makoto promises comfort but does not change the isolation. Shoko's efficiency rationale is a policy argument without outcome measures or independent vote (u:0026-0051). 415/480, E014 unopened.
+
+
+## S2 V002 C002 E014 school club institution delta
+
+Coalition members report Sensei assigned them covert roles before his capture: recruitment within Prefects and like-minded students, Satsuki's counter-frequency research, Iori's eventual broadcast access and Chinatsu's approval delays. No membership tally, functioning device or completed breach yet (scene:001:u:0001-0041). Pandemonium/Prefect messengers demand whole-school combat rations in three days. Fuuka cites plant/storage/labor limits and refuses, then deliberately uses Lunch Club supply leverage to impede war. Gourmet Club offers labor, but Haruna/Akari favor conquest while Junko/Izumi voice opposition (u:0042-0113). Leadership reports output halved and accepts expanded Gourmet oversight because Fuuka is hard to replace; no formal punishment occurs. Ako predicts conditional delay, and Makoto orders a chemical-weapon restoration pivot without production evidence (u:0114-0174). 416/480, E015 unopened.
+
+
+## S2 V002 C002 E015 school club institution delta
+
+Coalition members describe intensified surveillance and a reported caution designation. Satsuki identifies a central-command remote operating path to the broadcast room; no architecture record or access log is inspected (scene:001:u:0001-0045). Erika/Kirara agree to assist based on past school-broadcast experience and opposition to war. Erika proposes bypassing the controlled power route, but no connection is made yet (u:0047-0080). Chiaki relays the chemical-weapon threat; Satsuki recognizes old material provenance, and the group advances the action date without a complete rehearsal or confirmed supply delay. Iroha plans an unnamed additional contact (u:0081-0114). 417/480, E016 unopened.
+
+
+## S2 V002 C002 E016 school club institution delta
+
+Hot Spring Club opens a tunnel into Sensei's cell, demonstrating an actual breach of confinement; the extraction route beyond the cell is not yet completed (scene:001:u:0001-0021). Allied junior Prefects fight senior guards as a diversion. Iroha's 30-minute-earlier briefing assigns a combat team (Iori/Chinatsu/Prefects), technical team (Satsuki/Erika/Kirara), broadcast-site guard team (Mayumi/Karen/Restoration Committee), Sensei escort (Chiaki after Hot Spring rescue) and overall coordination (Iroha). The technical win condition has three stated failure modes and no test result (u:0022-0083). Opposing Pandemonium/Prefect members engage; Hina is reported inside the main building (u:0084-0093). 418/480, E017 unopened.
+
+
+## S2 V002 C002 E017 school club institution delta
+
+The Prefect diversion reaches leadership. Iori/Chinatsu challenge Hina with the minimum-order boundary they say motivated their service; Makoto orders punishment but none is completed in this unit (scene:001:u:0001-0076). Sensei arrives from the cell tunnel, Kasumi/Hot Spring Club remains back, and Chiaki takes escort responsibility, a partial fulfillment of E016's plan. Karen/Mayumi reinforce the injured Prefects; no audited casualty or medical transfer is printed (u:0077-0111). Shoko declares Thunder Emperor values as her political-historical endpoint; no formal faction register or technical authorship follows (u:0112-0135). 419/480, E018 unopened.
+
+
+## S2 V002 C002 E018 school club institution delta
+
+Shoko confesses organizer responsibility for the brainwashing campaign and Emperor restoration; the exact installed signal chain and accomplice/command structure remain unknown (scene:001:u:0001-0050). The coalition's counterbroadcast goes live, broadcast-room guards lose communication by one member's report, and third-year/leadership speakers react painfully. Shoko claims a lethal contingency but no record proves it; local speakers later disavow war and Hina reports memory of her conduct (u:0091-0292). Makoto's speech repudiates implanted obedience. Shoko separately says she gradually steered the Restoration Committee, which is not proof its members received NK Ultra (u:0293-0313). The narrator says the NK Ultra incident ended; no disarmament, official sanction, medical census or broadcast audit is printed (u:0318-0320). 420/480, E019 unopened.
+
+
+## S2 V002 C002 E019 school club institution delta
+
+An all-student Gehenna assembly gives the local crisis a public aftermath. Event-local students report unreturned seized ammunition and a points conversion, with no complete property ledger or return (scene:001:u:0001-0019). Hina, as Prefect chair, apologizes and offers to surrender authority; Makoto, as Pandemonium chair, does not authorize it and assumes chair responsibility. The exchange is public but no formal resignation or adjudication is completed (u:0020-0064). Makoto withdraws the combat plan and promises return of requisitioned goods; no verified order execution, chemical-shell disarmament, stock reconciliation or campus-wide medical audit follows (u:0065-0076). Mayumi/Karen give the Restoration Committee a future-facing repair mission, without recorded charter amendment or Shoko disposition (u:0089-0106). Ako lists reconstruction, discipline and missing gear, which remain work items, and Prefect juniors rejoin duty (u:0107-0139). Makoto promises nonrecurrence as chair, but no investigation, check or control design is shown (u:0162-0188). 421/480, E020 unopened.
+
+
+## S2 V002 C002 E020 school club institution delta
+
+School Lunch service appears as Fuuka/Juri's ordinary meal rather than the E014 compulsory war ration line; Haruna/Akari acknowledge their misuse of Gourmet Research influence over menus, supplies and dissenters (scene:001:u:0001-0054). Emergency Medicine head Sena recants war-as-care rhetoric and intends to propose a joint Prefect/Emergency Medicine inspection; Chinatsu plans to relay it, but no meeting, audit or protocol is enacted (u:0055-0088). Hot Spring Club resumes excavation. Kasumi warns against leader obedience as a substitute for Meg's own desire; the club declares its identity and plans five more springs today, without proof those works complete (u:0089-0126). Kasumi's named Bodensatz concern is an individual suspicion, not an institution entered into a verified actor register (u:0127-0139). 422/480, E021 unopened.
+
+
+## S2 V002 C002 E021 school club institution delta
+
+Hina remains at Prefect work after her E019 attempted resignation, with an overwork concern from Sensei, but no formal disposition or workload audit (scene:001:u:0001-0008). Shoko appears in a role-reversed confinement and refers to cold walls; the source prints no arrest record, charge, sentence, guarding authority or review procedure. She refuses apology yet names Arashi as the organization that recruited/educated/tasked her (u:0048-0085). Hina/Makoto describe Arashi as an Emperor legacy group and a school-level danger; this is informed actor testimony, not an inspected organization file. Hina says internal artifacts have been cleared without inventory, while Makoto flags Ibuki as a qualified surviving legacy. No chemical-weapon disposition, property audit, clinical census or future defensive plan is completed here (u:0086-0103). 423/480, checkpoint next.
+
+
+## S2 V003 C001 E001 school club institution delta
+
+D.U. ferry boarding closes before scheduled departure, producing a missed journey without proof the ferry has sailed (scene:001:u:0001-0014). An `S.O.S.` rope ball is recovered on a D.U. shore. The council-president claimant attributes a special blue rope supply and sailor's knot to Odysseia, describes its distant fleet and two-year training voyage, and says ordinary contact/resupply are absent but the council has a separate channel. These institutional facts are her testimony, not a vessel log or supplier audit (u:0035-0072). She addresses a mediation chief and dictates a telegraph to `Island` ordering all ships home. This is a represented order, not confirmed transmission or compliance; her mandate remains identity-disputed under the prior checkpoint (u:0073-0076). 424/480, E002 unopened.
+
+
+## S2 V003 C001 E002 school club institution delta
+
+Chronos reporter Mai broadcasts Odysseia's early return and notes no school statement explaining it. Her Sensei-involvement and lore lines are rumor/speculation (scene:001:u:0002-0022). The council-president claimant offers an interview after the event, and her presence draws formal deference, but the interview and authentication remain open (u:0023-0054). Island's Olympos executes coordinated docking, proving this flagship's return but not all-fleet compliance. The claimant describes safety requirements and academy autonomy as her policy view (u:0055-0070). Trident's Sumika is assigned escort; she reports a previous mistaken pirate-ship firing and internal reprimand without record. Island's captain Minato and deputy Ami self-identify, and ceremonial members greet the visitors; Minato accepts that the claimant's request was unusually demanding (u:0071-0125). No S.O.S. sender or investigation result yet. 425/480, E003 unopened.
+
+
+## S2 V003 C001 E003 school club institution delta
+
+Minato describes captain hospitality as universal guest tradition and says Island's flagship Olympos resembles a student-council building, while most maritime clubs operate vessels. The guests actually tour rather than investigate S.O.S. (scene:001:u:0001-0038). Aquaculture Research's facility is visible; Minato describes it as largest/best funded and sufficient for long voyages, with medical checks claimed. Sumika reports Trident stopping a chocolate theft attempt and cites a trade rate without records (u:0039-0057). Cruise Operations' Golden Elysium is introduced as flagship/dormitory, with dozens of tourist vessels by Minato's account. Minato alleges unauthorized rogue ships; Mitsuki claims her swimwear uniform has Island approval and offers service. A ship wager is proposed but not enacted, and Ami challenges prior betting (u:0074-0125). Whistling and saying `rabbit` are described as shipboard taboos, not proven maritime hazards. Curry dinner is invited; council-room business remains pending (u:0058-0073/u:0126-0153). 426/480, E004 unopened.
+
+
+## S2 V003 C001 E004 school club institution delta
+
+An Island officers' room meal fulfills the proposed arrival-night curry dinner. Minato/Ami describe all-fleet curry tradition and leftover ingredient use; Mitsuki's kitchen work is praised, while no menu policy is inspected (scene:001:u:0002-0042). Minato restricts the subsequent meeting to Ami, Sensei and the identity-disputed claimant because school secrets may arise, then presents taboos as long-kept safety guidance. Their actual written status and effect are uninspected (u:0043-0084). The claimant finally presents the ball that motivated her recall; Minato directly says she made and lost it and identifies Sammy's toy. This is the strongest object-origin account but leaves the S.O.S. writing, exact loss date and recall cost unaudited (u:0085-0105). No student welfare finding, disciplinary result or fleet-wide reconciliation is shown. 427/480, E005 unopened.
+
+
+## S2 V003 C001 E005 school club institution delta
+
+The original `S.O.S.` ball is identified by Minato as Sammy's rope toy with a nickname marking, strongly undercutting a distress-signal reason for the broad E001 recall; actual recall process/cost is still uninspected (scene:001:u:0001-0017). Minato says ship cats are traditional, says Sammy has at least a 15-year record, and relays medical-room director findings without documentation. A Trident fast boat could transfer him ashore by her account, but no transfer is made (u:0018-0043). Student factions favor shore or ship care for different reasons; their lines are embedded in Ami's account, not a recorded ballot. Minato says no taboo or precedent decides this case (u:0044-0073). The identity-disputed claimant assigns leadership responsibility and then sets a one-week joint observation period at Sensei's request. No veterinary outcome, student referendum or final institutional order yet (u:0074-0094). 428/480, E006 unopened.
+
+
+## S2 V003 C001 E006 school club institution delta
+
+Odysseia laundry students report voyage water limits and accumulated bedding washing, not independently audited consumption (scene:001:u:0003-0007). Cruise Operations restocks short-lived foods after return, with Mitsuki issuing a heavy-load safety instruction and an automatic-pistol gambling threat against spills; no formal policy or sanction is printed. Narration says students reflexively connect nearby trouble to Sammy (scene:002:u:0002-0025). Trident cleans Rhodes's deck after port, with Sumika linking salt exposure to corrosion and combat readiness. A wet work surface contributes to a near fall and Sensei's immediate injury symptoms (scene:003:u:0002-0037). No incident report, medical response or new cat-care decision is yet shown. 429/480, E007 unopened.
+
+
+## S2 V003 C001 E007 school club institution delta
+
+Odysseia's medical room has a directly speaking physician, Funamori Sanae, who diagnoses Sensei and lists hygiene/safety inspections and Trident treatment as duties. No chart, staffing register or formal incident report is printed (scene:001:u:0002-0019). Sumika expects a vice-leader Toru report and is advised to write an incident account, neither shown completed (u:0020-0026). Sanae warns against shaking Sammy and assesses worsening risk on ship, while declining to order disembarkation or certify either student faction's supposed cat preference (u:0027-0047). The claimant says she heard of the injury informally and proposes a visit to Island because she expects trouble; no actual Island condition is inspected yet (u:0048-0059). 430/480, E008 unopened.
+
+
+## S2 V003 C001 E008 school club institution delta
+
+Island leadership hears increasing rumor that Sammy brings misfortune after Sensei's injury, but no formal vote or incident series is shown (scene:001:u:0001-0029). Minato recognizes many taboos are obsolete and that their social function can be assigning understandable blame for arbitrary sea losses. Sensei proposes a captain's public correction; none is issued yet (u:0030-0064). The identity-disputed claimant proposes that the Federal Student Council declare a cat hygiene problem, retrieve Sammy and absorb student hostility. No hygiene inspection, written order, authority authentication, assigned carer or actual removal occurs. Minato accepts verbally, leaving implementation and welfare open (u:0065-0087). 431/480, E009 unopened.
+
+
+## S2 V003 C001 E009 school club institution delta
+
+Sammy's removal is announced by narration as decided and discussed school-wide; no written Island or council order, hygiene finding or handover is shown (scene:001:u:0001-0016). Engine-room and Cruise students offer toys and stew, then reduce or repurpose excessive quantities. The claimant says the council will prepare to receive Sammy, a future commitment without identified carer or clinical plan (u:0017-0047). In conversation she calls strategic unpopularity a Federal Student Council function and describes a hoped-for shift from unthinking obedience to questioning taboos. This is her governance rationale, not a measured institutional reform or proof of the office's history (u:0048-0086). She still expects Sammy's disembarkation day ahead, while Sensei and she depart separately (u:0102-0107). 432/480, E010 unopened.
+
+
+## S2 V003 C001 E010 school club institution delta
+
+After several days, narration confirms formal administrative procedures and exchanged documents for Sammy's departure, without printing the issuing authority, rationale or terms. Preparation is complete, handover is not (scene:001:u:0001-0003). Minato/Ami report marginal folk-care and unauthorized access incidents, Trident's quick response and broad compliance with a council decision. Minato interprets compliance as taboo-driven; the claimant says she lent her name (scene:002:u:0002-0015). During implementation, students from Odysseia and Trident directly hide Sammy, showing practical dissent beneath earlier public nondefiance (u:0056-0081). The pursuit proceeds despite a sea-fall warning and ends with Minato in water; ladder lowered, recovery unshown (u:0088-0126). No institutional care plan or reform measure is produced. 433/480, E011 unopened.
+
+
+## S2 V003 C001 E011 school club institution delta
+
+The transfer's handover document is still unsigned when the claimant asks Minato for a signature, narrowing E010's more general paperwork-complete narration (scene:001:u:0012-0014). The claimant says the departure was publicized as a Federal Student Council directive and a captain's reversal could have internal/external consequences. Minato nonetheless requests cancellation, and claimant verbally agrees without a printed rescission or authority check (u:0015-0045). Ami notes bad-luck believers still need an answer; Minato proposes patient coexistence rather than an immediate convincing campaign (u:0046-0055). The later urgent physician report shows the animal-health question remains active; no care protocol, diagnosis or treatment result is supplied (u:0063-0073). 434/480, E012 unopened.
+
+
+## S2 V003 C001 E012 school club institution delta
+
+Sanae gives an urgent clinical report and asks watchers to avoid collapsing causation into Minato's one hypothetical (scene:002:u:0002-0017). Ami describes an especially heavy maritime taboo and claims an uninspected all-predecessor practice of ending cats' lives ashore. Minato takes the matter as Odysseia's, limits Sensei's intervention and uses the captain's emergency broadcast to disclose Sammy's critical state (u:0018-0039). She orders a 06:00 Olympos departure, student disembarkation without penalty, deferred objections and department inspections/reports. The trade-off is real: a personal exit is offered, but formal objection is postponed. No report, medical clearance, sailing or vote is printed (u:0040-0054). 435/480, E013 unopened.
+
+
+## S2 V003 C001 E013 school club institution delta
+
+Mai reports pre-dawn Island-only preparation and a relayed Olympos port-authority notice for 'seeing off a friend'; written notice and unprecedented-return claim are not audited (scene:001:u:0001-0014). Bridge commands and breakwater passage show flagship departure. Cruise Operations joins before retroactive permission; Minato flags unverified guest scheduling, then permits after Mitsuki's unsupported no-complaint bet (scene:002:u:0002-0030). Sumika requests Trident patrol participation and Minato consents; Ami reports additional applications without a full departure ledger (u:0031-0043). The ship-cat death taboo's practical breach is strongly framed by Sammy's final narration, but no subsequent institutional response appears (u:0044-0055). 436/480, E014 unopened.
+
+
+## S2 V003 C001 E014 school club institution delta
+
+Sumika's conversation shows a local exception to loud guest notification when Sensei visits as a friend, while right-foot boarding still guides behavior (scene:001:u:0013-0037). Her no-known-storm/major-injury report expressly lacks full Island incident access. Minato says port procedures are complete and expects land activity next week, not yet executed (u:0038-0046). She calls taboo change gradual and hopes for school self-determination, without a formal policy or attendance/accident audit (u:0047-0062). The claimant's unexplained assertion that Minato is not the 'real captain' raises a new institutional title question without identified alternative officeholder, documents or adjudication (u:0085-0093). 437/480, backfill E001 next.
+
+
+## V001 C003 E001 backfill school club institution delta
+
+The Dweller hears Francis's assertion of Gematria collapse but no dissolution record or full membership audit appears (scene:001:u:0001-0062). Yume attributes expensive failed festival fireworks to a prior Abydos council and decides to record their failed recovery attempt; neither old inventory nor notebook custody is verified (u:0063-0112). In the current committee, Kaiser has withdrawn excavation by Ayane/Serika report, yet retains debt. Ayane says about 45% of Kaiser's claim is being securitized/sold. Committee self-purchase is only proposed; a price surge and rapid sellout precede Ayane's Nephthys Group attribution, without contract, creditor notice or payment change (scene:002:u:0036-0104). 438/480, E002 unopened.
+
+
+## V001 C003 E002 backfill school club institution delta
+
+Highlander archive workers are ordered to clear neglected files but stop after a structural hazard; a contract title mentioning Abydos emerges without terms (scene:001:u:0001-0022). Nonomi says her family operates Saint Nephthys and gives a history of its rail losses, district departure and Abydos debt, which remains source-level testimony (u:0023-0110). Ayane reports the 45% debt sale to Nephthys at a high price, then categories of specified infrastructure/facility ownership and development rights, while land title stays Kaiser. The old railway is inferred within the category, not read verbatim from a deed (u:0111-0138). An explosion signal and incoming unfamiliar-uniform group begin a separate security question (u:0139-0151). 439/480, E003 unopened.
+
+
+## V001 C003 E003 backfill school club institution delta
+
+Highlander CCC conducts rock clearance and a railway test in Abydos without visible local permission; its internal administrator fears armed conflict and missing contracts. Nozomi's 51% control claim has no register and is verbally qualified (scene:001:u:0001-0031). Ayane asserts Abydos jurisdiction, the committee pursues and tactically stops the group (u:0032-0069; scene:002:u:0001-0007). Suou describes board-supervised route-based powers, apologizes, and claims Highlander development rights via Nephthys while Ayane understood Nephthys as holder. The allocation, land-title boundary and approval chain await promised formal briefing (scene:002:u:0008-0049). 440/480, E004 unopened.
+
+
+## V001 C003 E004 backfill school club institution delta
+
+Yume's false job is tied to Abydos debt need and predation in a depleted district; Hoshino's rescue does not establish a general security system (scene:001:u:0001-0063). Nonomi proposes using a Nephthys-funded card to retire school debt, while Hoshino warns it could yield de facto company control. No payment, board consent or property transaction occurs; Abydos-earned repayment is her offered alternative (u:0064-0116). Yume's loss leaves the council room unclosed and the annex/festival office neglected in the earlier time layer (u:0117-0188). Current Ayane reports Highlander's route-based jurisdiction and differentiated organizations with caveats, then CCC/Suou arrive for their promised visit, before any rights explanation (u:0189-0216). 441/480, E005 unopened.
+
+
+## V001 C003 E005 backfill school club institution delta
+
+A Nephthys-named purchase was partly financed by a private investor pool per the visitors/executive. Ayane checks a presented certificate copy and accepts their rights, but the underlying full chain/rights remains unprinted (scene:001:u:0041-0078). The group seeks all railway rights and claims existing development rights; no local construction consent follows from the copy, and Nonomi's inquiry into motive is unanswered (u:0079-0106). The creditor representative recognizes only Hoshino on an old Abydos council roster; Ayane/Hoshino/Sensei assert the Committee's present council function. The executive designates Suou a Nephthys-employed proxy by contract, not yet shown (u:0107-0132). A Highlander warehouse paper bears an alleged Yume name signature but its clauses are withheld (u:0133-0137). 442/480, E006 unopened.
+
+
+## V001 C003 E006 backfill school club institution delta
+
+A physically read excerpt establishes an attempted Abydos council purchase of railway facility-use rights from Nephthys for 1m yen, 10k initially and balance in two years. Hoshino recognizes Yume handwriting, but the representative's prior sale, payment status and continuing legal effect lack full audit (scene:001:u:0001-0030). Investors seek a cancellation signature before a two-day creditors' meeting; their auto-expiry/attendance rule is not in quoted terms. Sensei defers decision (u:0031-0071). Ayane asks about the older council/locked room; Hoshino reports Yume's 33-day disappearance and discovery. The contract date matches disappearance day, but timing and institutional authorization are still unclear (u:0084-0158). 443/480, E007 unopened.
+
+
+## V001 C003 E007 backfill school club institution delta
+
+The committee postpones investigation until rest/reconvening. Nephthys executive says the firm may face a decisive creditors' meeting and promises a direct Abydos visit tomorrow, without written accounts or deal terms (scene:001:u:0041-0109). Ayane sense of hidden manipulation is explicitly tentative. Schale's gas piping is reported physically changed with no scheduled work; this is an infrastructure anomaly but not yet a proven attack or incident outcome (u:0110-0167). The Dweller past/body strategy is adversarial speech without full operation evidence. 444/480, E008 unopened.
+
+
+## V001 C003 E008 backfill school club institution delta
+
+Schale has an explosion after the gas-pipe anomaly; no technical source, damage audit or staff casualty report is yet shown (scene:001:u:0001-0030). Abydos committee lacks contact with Sensei/Hoshino but has no formal emergency notification (u:0031-0045). In the earlier layer Yume, as president, tries to gather signatures for security/environment policy against a shrinking constituency and predatory outsiders; collection success or adoption is unshown. Hoshino blocks immediate intimidation but questions nonviolent governance under repeated attack (u:0046-0131). 445/480, E009 unopened.
+
+
+## V001 C003 E009 backfill school club institution delta
+
+Yume describes a show-of-hands council appointment followed by all prior officers' departure and says she sought authority to protect Abydos but found little practical power (scene:001:u:0028-0041). The later two-person council begins when Hoshino joins in a smaller annex; no formal roster or appointment paper is printed, leaving the E005 old registry and E006 contract chain unresolved (u:0110-0155). Ayane/Serika enter the formerly locked room for urgent investigation despite uncertain consent; Nonomi has cleaned it. Yume's cabinet looks empty; Hoshino's unlocked cabinet holds maintained protective equipment and sidearm, with historical function unshown (u:0085-0109, u:0156-0198). No claim that the railway contract, notebook or photograph was stored there is supported. 446/480, E010 unopened.
+
+
+## V001 C003 E010 backfill school club institution delta
+
+Hoshino's history connects Abydos decline, previous council departure, former wealth and president-targeted threats, but attacker motive and older wealth claim are her testimony, not financial records (scene:001:u:0006-0038). She reports Yume's 33-day absence, death and retrieval of remains/equipment, while the president notebook remains missing and the desert purpose/contract link unproven (u:0049-0072). Nonomi worries conditionally that Nephthys might be involved; this is no evidence against the company. Suou escorts the Nephthys executive to the school as promised, and he announces a trans-desert railway explanation without giving it yet or exchanging the card (u:0073-0087). E005 rights documents and E006 facility-use agreement are not further authenticated in this unit. 447/480, E011 unopened.
+
+
+## V001 C003 E011 backfill school club institution delta
+
+Executive says Nephthys/old Abydos council secretly pursued a railgun after rail business began, that an unfinished object lies in the desert, and that new simulations increased feasibility; no project records, location or test are shown. He claims designer rights and fund intent to consolidate railway/gun rights, but E006 establishes only printed facility-use terms, so title chain remains open (scene:001:u:0030-0113). He repeats noon cancellation/nonattendance rule and joint Nephthys/fund stakes without presenting governing clauses. Direct multi-organization station blockade orders make attendance obstruction concrete (u:0114-0132; scenes:002-005). His proposed Highlander/Nephthys control route is refused by Nonomi; his alternate declaration that Yume/Hoshino council was unauthorized remains unmade and legally untested (scene:005:u:0032-0061). Three role additions; 448/480, E012 unopened.
+
+
+## V001 C003 E012 backfill school club institution delta
+
+A historical encounter brings Shiroko into Abydos shelter; old uniform use and Hoshino's proposed duel enrollment do not show registration paperwork (scene:001:u:0002-0081). Scrap dealer forgives a reported theft after apology, without an institutional restitution record. Hoshino later welcomes the three to the School Closure Countermeasures Committee room, rejecting robbery/gold-card debt remedies; Ayane/Serika's later request to join is remembered (u:0082-0164). Nonomi rejects ending the Committee name, while Hoshino keeps council memory yet prioritizes preventing a gun and attending the assembly; no formal change of council status occurs (u:0165-0211). Ayane sets reach-old-station/noon/declare-contract-continuation as an objective; no passage, declaration or legal approval has happened (u:0212-0220). News, not a medical record, reports Schale explosion, Sensei injury and hospital transport (u:0221-0234). 449/480, E013 unopened.
+
+
+## V001 C003 E013 backfill school club institution delta
+
+The executive says the fund alliance is only public-facing, that Nephthys planned to exploit a Schale/fund battle, and that Nonomi's Highlander presidency was false. No corporate records, troop deployment or board resolution are shown (scene:001:u:0066-0127). He seeks a Committee declaration at the creditors' assembly that the two-person Abydos council lacked recognized organization, to void the rail contract and transfer rights by his interpretation. Nonomi's custody is used as leverage; the ID/card seizure is ordered, not displayed, and no legal declaration occurs (u:0111-0141). Hoshino calls the Schale-approved Committee the real current council and attempts to assume personal liability, while institutional authority remains contested (u:0142-0168). 450/480, E014 unopened.
+
+
+## V001 C003 E014 backfill school club institution delta
+
+Hoshino links the claimed gun and private-fund conflict to the historic Abydos council agreement, but admits not knowing Yume's reasons or presence in any weapon project. Her declaration that the present Committee is unrelated is an attempted allocation of personal liability, not an institutional finding (scene:001:u:0019-0034). Shiroko/Ayane/Serika treat Committee membership as including Hoshino and contest her solitary exit; Ayane has several `雨雲号` units ready, though no outcome or formal vote is printed (u:0035-0055). Sensei remains in hospital by the group's report; no external authorization changes. 451/480, E015 unopened.
+
+
+## V001 C003 E015 backfill school club institution delta
+
+Hoshino calls Ayane/Serika the school's future and instructs them to guard later juniors. She declares her and Yume's historical Abydos council dissolved today while insisting the Committee continues; the speech establishes her intention and self-claimed vice-presidential authority, not registration or creditor acceptance (scene:001:u:0033-0049). This differs from Nephthys's requested declaration that the former council never had authority. Ayane states the contract was made two years ago today, the same disappearance date, but no settlement ledger or legal deadline resolution appears (u:0061-0065). Hoshino leaves for Nonomi; station access and council standing remain open (u:0066-0069). 452/480, E016 unopened.
+
+
+## V001 C003 E016 backfill school club institution delta
+
+Ayane identifies Hoshino as on-paper old council affiliate and maps five institutional/physical tasks: Nonomi custody, station access, Hoshino, gun and rail rights (scene:001:u:0052-0085). Sensei proposes by-election; Ayane, Serika and Shiroko voice yes votes, and he witnesses. The three are said to be 60% of five students, but no charter or external electoral recognition is presented (u:0111-0140). Ayane announces Committee absorption into Abydos council with Committee name retained, promises contract continuation and Nonomi demand, then demotes absent Hoshino to secretary. These internal declarations have no shown creditor notice, registry entry or external legal effect (u:0141-0174). The group starts its first renewed mission toward today's noon assembly (u:0175-0192). 453/480, E017 unopened.
+
+
+## V001 C003 E017 backfill school club institution delta
+
+Narrator explicitly states fictional law interpretation; no episode contract assertion can be imported as actual legal rule (scene:001:u:0010). Sensei reports Nonomi at assembly site; Ayane schedules noon attendance and plans to assert renewed Committee/council standing before Hoshino declares otherwise, with no assembly result (scene:001:u:0011-0018; scene:002). East Helmet, west Market Guard, south Black Turtle and north mercenary defenses are Ayane's route assessment, partly qualified (scenes:003-006). West guards directly confront Hoshino. At the station Nephthys/fund accusations are joined by Kaiser PMC soldier claiming prior gun ownership, with no title instrument or company authority shown (scene:007-008). Group pursues but no institutional recognition, custody release or rail-rights outcome follows (scene:009-010). 454/480, E018 unopened.
+
+
+## V001 C003 E018 backfill school club institution delta
+
+Executive admits hidden Kaiser/Nephthys debt-claim transaction, and Kaiser President seeks gun while asserting three contract futures, noon expiry and fund motive; E006 excerpt remains facility-use only and narrator E017 labels law fictional (scene:001:u:0001-0090). President presents low-price acquisition papers and claims investor companies/fund representative authority, but no signatures, registry or underlying mandate are printed (u:0091-0113). Kaiser PMC gains operational sectors and fights investors; no settled ownership follows from military control (u:0114-0128; scenes:002-006). Committee aids Highlander, and Ayane advises work suspension/evacuation while prioritizing noon assembly. Twins propose resumption without shown work (scene:006:u:0007-0028). 455/480, E019 unopened.
+
+
+## V001 C003 E019 backfill school club institution delta
+
+PMC reports sector 35-9 gun location, not an inspected asset. President claims fund representative status after E018 coerced buyout, without executed documents (scene:001-003). Hoshino begins council-nonrecognition statement, interrupted by Sensei/Ayane. Ayane declares her E016 election, Committee/council merger and Hoshino secretary assignment make her the contract party, while Sensei invokes witness role and claimed authority over Nonomi withdrawal; none is tested by an independent institutional record (scene:003:u:0042-0047; scene:004). President at noon closes assembly, denies her speaking rights, discards sale contract and asserts original Kaiser ownership, without an adjudicated title. Orders Nonomi taken, but final joint contact/pursuit leaves custody open (scenes:005-006). 456/480, E020 unopened.
+
+## V001 C003 E020 backfill institution delta
+
+Kaiser President and Suou present Nonomi's confiscated card as Nephthys authority to enter Student Council Valley, but no gate or credential verification is shown (scene:001:u:0010-0018). Hoshino identifies the Valley with old Abydos council's desert exhibition hall at sector35-9; this is her recollection/inference (u:0049-0057). She claims the Committee's E016 election and merger lose meaning because it failed to continue the contract, while Ayane interrupts to contest her statement; no legal ruling or administrative record resolves succession (u:0068-0076). President orders Industry, Loan, Construction, Convenience and PMC employees into a Valley campaign, without confirmed muster or gun possession (u:0085-0099). Thus the council, contract, Nephthys access and Kaiser title remain separate disputed institutional issues.
+
+## V001 C003 E021 backfill institution delta
+
+Some creditors verbally withdraw from Abydos, but signatures, claim extinguishment and Kaiser's asserted fund control remain unresolved (scene:001:u:0001-0009). The former Abydos council exhibition site was sought by Yume/Hoshino through a heavily redacted old document naming closed sector35-9; the search failed then (u:0064-0098). Hoshino now sees a working station control with Izayoi Nonomi administrator rights and a Valley destination, and starts operating the branch train; no train-gun title, custody or full credential rule is adjudicated (scene:002:u:0033-0045). Executive's account of Suou's schoollessness/prospective bodyguard role is uncorroborated and expressly incomplete (u:0054-0065). Highlander students/clerk offer operational rail aid; departure occurs, followed by Kaiser aerial and rail pursuit (u:0068-0119; scene:003).
+
+## V001 C003 E022 backfill institution delta
+
+The sector35-9 branch's control room is open and already activated under administrator authority. Ayane reads routes to Abydos, Great Oasis and Gehenna, two prior Valley-bound train movements, and an automatic car scheduled to reach Valley in an hour (scene:003:u:0002-0019). Card use by Suou is Ayane/Nonomi inference, not observed authorization; train logs do not identify passengers. Kaiser PMC pursuit is delayed and a soldier calls for headquarters report, but completed notification, troop reinforcement and damaged asset are not specified (scene:002:u:0001-0015). Highlander twins' tactical rail assistance continues but their final status is open.
+
+## V001 C003 E023 backfill institution delta
+
+Hoshino directly identifies the Schämata gun and sees Gehenna's emblem on the Valley complex (scene:001:u:0001-0005). Suou says the facility was later rebuilt and attributes military conversion to a former Gehenna Thunder Emperor; origin, design authority and Eden Treaty history are not independently inspected (u:0009-0031). An executive/Nonomi exchange claims the asymmetric-weapon plan followed railway development, but its sudden placement leaves physical speaker location uncertain (u:0010-0012). Suou holds Nonomi's gold card and asserts it is required to operate or destroy the gun; no system test validates this condition (u:0045-0050). Gun title, contract effect and current administrator standing remain distinct unresolved questions.
+
+## V001 C003 E024 backfill institution delta
+
+The Valley complex visibly has machine guns, antiaircraft guns, Gehenna emblem and the huge train gun, directly observed by the Abydos/Sensei group (scene:001:u:0018-0041). The site no longer appears to be merely the historic exhibition hall Ayane expected; exact redevelopment documents, gun title and technical custody remain uninspected. Arona assesses beyond-current Kivotos technology and Sensei hypothesizes Gematria; neither establishes a legal/institutional designer (u:0042-0047; choice:001). Hoshino/Suou fight for the card/gun access continues without transfer or firing test (u:0001-0008). Plana's observer report does not identify a surveillance institution (u:0052-0058).
+
+## V001 C003 E025 backfill institution delta
+
+Suou's apparent combat setback does not transfer Nonomi's card, establish gun-control access or settle title (scene:001:u:0001-0021). Hoshino announces destruction but is interrupted before any damage to the gun is shown. She forecasts Abydos/Kivotos chaos without destruction and intends sole blame/school exit; the causal and legal steps remain claims (u:0027-0032). Ayane confronts her with `アヤネ生徒会長`, making E016's internal vote a direct office claim while external recognition and contract effect remain open (u:0035-0044). No signed creditor release or new council ruling appears.
+
+## V001 C003 E026 backfill institution delta
+
+The four-student intervention under Ayane's asserted presidency fails tactically against Hoshino, based on observed exhaustion and Hoshino's four-to-one statement (scene:001:u:0001-0014). Tactical failure does not void E016's internal vote or establish the external council/contract status. Hoshino has not destroyed the gun, obtained a printed card transfer or formalized school departure. Shiroko's personal challenge begins as a demand but has no outcome yet (u:0012-0018).
+
+## V001 C003 E027 backfill institution delta
+
+Ayane contests Kaiser's gun title and Hoshino addresses her as president, but no external contract ruling follows (scene:001:u:0012-0038). Suou still has access to Nonomi's card and threatens the Abydos school from Great Oasis, with no confirmed firing (u:0069-0077). Arona's plasma/energy-dispersal assessment creates a technical constraint on unilateral destruction; exact control system and fail-safe are untested (u:0089-0094). Plana identifies the Dweller as Gematria and assesses world intervention from an uncertain-existence domain; she attributes the Schale blast while admitting his plan unknown (u:0114-0146). Ayane/Nonomi state sector35-9 is needed for Great Oasis transfer; Hina directly blocks Hoshino at that branch (u:0158-0186).
+
+## V001 C003 E028 backfill institution delta
+
+Gehenna Prefect chair Hina continues to block Abydos student Hoshino at the sector35-9 branch (scene:001:u:0002-0023). Her formal authority over Hoshino, the train route, gun title and card is not adjudicated in this unit. Hoshino names Great Oasis as her next gun-related destination but does not board a train or operate controls on page (u:0013-0016). Raw timeline units u:0001/0009 do not identify new institution actors or tactics.
+
+## V001 C003 E029 backfill institution delta
+
+The Gehenna Prefect chair and former Abydos council student fight on a moving train toward Hoshino's Great Oasis objective (scene:001:u:0001-0025). Hoshino asserts the gun problem is hers; Hina asserts a connection but no jurisdictional or school authority is established. Hoshino considers stopping the train or ejecting a fighter as possible tactical routes, not actual institutional rail actions. Train integrity, route completion, gun title and Nonomi-card status remain open. Raw media markers do not supply missing control-system data.
+
+## V001 C003 E030 backfill institution delta
+
+Hoshino's old `生徒会は終わり` line was a heated historical argument with Yume, not documentary dissolution; she says she intended a quick return (scene:001:u:0001-0013). Yume's memo and garbled notebook reference do not establish council minutes, gun contract clauses or a notebook location (u:0019-0031). Hoshino's present route memory places her near Great Oasis/former oasis and expects the gun there; no new control access or firing occurs (u:0046-0058). Hina directly identifies Yume as Abydos president, with source and implications of that knowledge not yet stated (u:0059-0066).
+
+## V001 C003 E031 backfill institution delta
+
+Hina says she aims to destroy all Thunder Emperor remnants and pursued this gun as one such remnant; origin remains her informed claim alongside observed Gehenna emblem (scene:001:u:0007-0012). She says Yume preserved the joint Abydos/Nephthys railway project and went to pay contract remainder; E006 facility-use clause/creditor unpaid balance are replayed, but bank transaction and full legal file are absent (u:0024-0045). Black Suit's historically situated offer to take almost half the debt for Hoshino's exit is not accepted, with no signed assumption (u:0056-0075). Current group, including Highlander twins, approaches the gun train while high energy and imminent collision are reported; no boarding/title change yet (u:0076-0093).
+
+## V001 C003 E032 backfill institution delta
+
+Ayane reports the train gun stopped after the group's E031 near-collision; no method, damage assessment, ownership change or permanent deactivation is printed (scene:001:u:0086-0091). Suou is incapacitated by peer report but no detention process appears. A separate blast/altered sky is observed, with cause and jurisdictional scope unknown (u:0081-0085). Dweller's old-rule answer/mystery assertions are his own claims, not an institutional classification or court finding (u:0026-0080). Hina remains with immobilized Hoshino; no school or council disposition follows.
+
+## V001 C003 E033 backfill institution delta
+
+Dweller openly says the stopped train gun was bait rather than the ultimate objective; his target was Hoshino's exceptional mystery (scene:001:u:0013-0024). Plana describes reversal into Horus/fear and a possible world-collapse trajectory, but the change's full mechanics and regulatory response are not given (u:0005-0030). Her only immediate stop proposal is halo destruction; Sensei rejects it, and no institutional authority orders it (u:0072-0078). Arona reports Color observed, without subject identification; Sensei's medical danger is based on Plana's pulse/consciousness report (u:0090-0095). Train-gun title/custody remain unsolved despite E032's stop.
+
+## V001 C003 E034 backfill institution delta
+
+The Yume-labeled old-school scene includes Sensei in an impossible-looking youthful Hoshino setting, so it cannot be imported as historical Abydos council membership or a real oasis outing (scene:001:u:0001-0033). Plana says manifested Color power enables a forced transfer to confront Dweller, a reported operation without complete mechanism or safety outcome (u:0034-0040). Counterpart Shiroko's apparent arrival and challenge do not settle Color affiliation/control, Horus reversal, train-gun title or school governance (u:0041-0064). No institutional disposition occurs.
+
+## V001 C003 E035 backfill institution delta
+
+Arona reports successful Color-powered arrival of other-time-axis Shiroko and Plana reports transfer sequence stop, a completed procedure rather than general control over Color (scene:001:u:0022-0027). Plana directly names local Shiroko as summoner of this Color observation (u:0010-0016). Dweller says Set's wrath manifestation stopped and invokes a fifth method/codex complaint, but no institutional order, gun restart or world-collapse result is printed (scene:002). Hoshino/Horus remains active and title/custody disputes from the train gun are unresolved.
+
+## V001 C003 E036 backfill institution delta
+
+Hoshino's chest shows an unstable notebook-shaped form; its relation to historical Yume notebook, title or archival content is unknown (scene:001:u:0023-0039). Plana proposes an overclocked Shittim Chest/pseudo Naram-Sin condition by giving 99% resources to Arona and sleeping, a technical plan not yet verified safe or successful (u:0043-0067). Operational team must bring Chest close and restrain Hoshino; Hina joins (u:0068-0084). Sensei's first reach fails; local Committee/counterpart claim special ability to convey the message, without executed result (scene:002). No official council/gun disposition changes.
+
+## V001 C003 E037 backfill institution delta
+
+Committee/counterpart voices conduct the E036 contact plan, but the historical Yume notebook is not physically authenticated or recovered (scene:001:u:0001-0082,0110-0119). Hoshino's subjective reconstruction adds no bank/contract/weather records. Dweller says Set's wrath manifests; Arona detects high energy beyond current defense capacity, with no confirmed strike in this unit (u:0083-0098). Sensei's truth/fact distinction is an ethical interpretation, not a legal evidentiary standard for the council, gun rights or Yume death (u:0099-0109). No new title or governance disposition.
+
+## V001 C003 E038 backfill institution delta
+
+The presented future-Hoshino letter contains questions about being a good senior, cooperating and moving forward, not railway title, gun rights or a formal council instruction (scene:001:u:0001-0010). Its material status remains unverified because E037-E038 show an altered contact, not retrieval of an authenticated school document. The message's call to protect juniors does not by itself restore Committee membership or settle Hoshino's legal theory (u:0041-0049). No external gun/Horus/Set status update occurs.
+
+## V001 C003 E039 backfill institution delta
+
+Hoshino rejoins Committee speech and joint action, but no formal membership, leadership, card, gun or property disposition is printed (scene:001:u:0001-0009). Dweller claims a six-person command ceiling and constellation/Set advantage; these are not an audited tactical specification (u:0010-0023). Arona/Plana report a newly discovered two-OS Shittim Chest process, authenticated Sensei connection and limited operation; exact capacity and costs remain unmeasured (u:0024-0042). Adult Card presentation elicits Dweller's rule protest, not a formal contest ruling or Set defeat (u:0052-0078).
+
+## V001 C003 E040 backfill institution delta
+
+Hina hypothesizes a rare, high-value plasma-producing mineral and cites 10 million yen per 100 g and a tenfold price rise, but no assay, claim of ownership, extraction or sale is printed (scene:001:u:0012-0013,0023-0033). Serika's attempt to obtain tools is only a salvage intention (u:0027-0031). Hoshino's treasure address does not itself change railway/oasis title, Abydos debt, card custody or Committee governance (u:0017-0021). The spreading reaction is observed; Hina predicts it will burn until material exhausts, without final quantity or hazard disposition.
+
+## V001 C003 E041 backfill institution delta
+
+The middle-schoolers' closure/council/Nephthys discussion is hearsay, without notice or date (scene:001:u:0002-0010). Ako confirms Hina's treatment and intends aid; Sensei's earlier Plana request to contact Hina rests on a suspected Gehenna train-gun link, not a completed inquiry (u:0017-0033). Ayane convenes the regular Committee meeting and expressly names it both Foreclosure Task Force and Abydos student council; internal self-description is observed, external charter/debt status unverified (u:0104-0105). Hina promises to investigate train gun later (u:0077-0081). Plana's severed-Dweller connection and Color non-detection are system reports, not a legal custody or permanent ban order (u:0202-0212).
+
+## V001 C003 E042 backfill institution delta
+
+Ayane confirms Hoshino accepted student-council presidency, an internal Abydos role change without external charter audit (scene:001:u:0022-0029). Makoto/Hina dispose of Thunder Emperor legacy; Kaiser president hospital stay is reported, but Ayane explicitly says debt remains and vigilance continues (u:0030-0040). Nonomi reports line repairs complete but test pending and forecasts three sections next week; Ayane reports Nephthys/Highlander partial rail restart announcement, while mechanic/executive discuss readiness/profit risk (u:0041-0058). New shop representatives make conflicting land/history claims, not verified title (u:0069-0078). Seven narrow role actors are added, ZK shop owner separate from older ZK president pending identity evidence.
+
+## V001 C003 E043 backfill institution delta
+
+More restaurant/customers and shops are character observations, not demographic or economic statistics; a citizen requests help with theft and a Helmet Gang speaker flees, without printed police custody/property resolution (scene:001:u:0001-0032). Counterpart Shiroko describes informal vacant-house shelter, scrap exchange and self-defense work, not an authorized municipal role (u:0033-0038). Smartphone transfer creates personal contact, not formal Abydos enrollment or housing. The Committee mobilizes against Binah in the closing text; tactical plan B and flank order are printed, but result and damage are not (u:0078-0113).
