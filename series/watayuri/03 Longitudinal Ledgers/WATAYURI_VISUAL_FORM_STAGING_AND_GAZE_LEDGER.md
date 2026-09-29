@@ -4,14 +4,14 @@ artifact_id: WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.6"
+version: "0.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V05 mainline through V05 Shift 26/i157; latest depicted present V05/26/i119; packaged half-chapters separately bounded, V05 Shift 26.5 historical; V04 EX promotional; V06–V14 inventory only"
+source_boundary: "Japanese V01–V06 mainline through V06 Shift 31/i154, also latest depicted present; packaged half-chapters separately bounded; V06 Shift 31.5 does not advance the endpoint; V07–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STA
 
 **Update and revision rule.** Update for repeated visual constructions or a diagnostically consequential scene. Record the visible fact separately from inferred psychology and identify when a later composition revises an earlier inference. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V05 mainline through V05 Shift 26/i157; latest depicted present V05/26/i119. Packaged Shifts 6.5, 11.5, 16.5, 21.5 and 26.5 remain separately bounded; V05 Shift 26.5 is historical and V04 EX promotional. V01–V04 sections retain their earlier states; dated V05 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V06 mainline through V06 Shift 31/i154, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5 and 31.5 remain separately bounded; V04 EX is promotional. V01–V05 sections retain their earlier states; dated V06 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -200,3 +200,50 @@ V05 repeatedly returns to something already seen, but not always for the same re
 #### Objects organize relationships without determining them
 
 Tea, order slips, the cast, and the matching accessories all have practical properties that matter. Tea has flavor; slips communicate an order; the cast presents a bodily condition; an anklet can be accepted or refused. Their relational meaning is not separate from those properties, but neither is it reducible to them. The full-name workaround changes the slip’s usability; the recovered arm changes the truth of the injury presentation; the third matching object changes the imagined relationship. The analysis should preserve the objects’ actual use rather than reduce them to symbols detached from decisions. [VIS01/VIS05/VIS07/VIS09/VIS12.]
+
+
+<a id="v06"></a>
+## V06 — Current additions and transitions — 2026-09-29
+
+**V06 evidence key:** source-map key `V06`, Japanese witness `1GBzeKk1RJGUVz7WXHrh_1FDjs2sWO5BB`, SHA-256 `a184b645d200acbcd3c875d5d087728faabc3779c6501dcf0f92144b77b021b4`. The [frozen V06 reading](../02%20Sequential%20Readings/WATAYURI_V06_DEEP_READING.md#visual-form) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V06; WY1–WY5 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 31/i154. Shift 31.5/i156–161 is separately bounded restored-manager service with a visit-day recollection; i162–168 are edition paratext. Neither advances the mainline endpoint. The receiving review records the bounded absence-explanation and castless-work chronology corrections.
+
+### Manga form, embodied staging, and the distribution of knowledge
+
+Observable configuration is separated below from proposed effect. Page-turn claims follow verified source-side assignments; reading grids are not treated as original spreads.
+
+| Record | Observable construction | Proposed interpretive effect / viable alternative |
+| --- | --- | --- |
+| **WY6-VIS01** | Childhood color exchange at i001 precedes current uncertainty; fuller context arrives at i115–117 | An early assurance becomes a remembered source of present desire, not an opening proof of current reciprocity. |
+| **WY6-VIS02** | Letter begins as a preparatory object at i009, then is retrieved and read at i063–072 | Deferred object becomes an organized form of response. Exact composition time is not depicted. |
+| **WY6-VIS03** | Public café and ordinary apartment alternate; door, bed, supplies and refrigerator materially organize the visit | Care moves outside the salon, while learned roles and refusal/help habits remain. Not all private space guarantees openness. i009–030 |
+| **WY6-VIS04** | Repeated seated/standing arrangements and a blocked wish to end the visit lead into physical pressure at i041–044 | The disclosure is obtained under interpersonal pressure, not in a frictionless equal dialogue. Does not exhaust either motive. |
+| **WY6-VIS05** | Jealousy is paired with lowered/withheld face and expected rejection at i046–050 | The wish is experienced as dangerous to reveal. One expression alone would not establish the full cause; text does. |
+| **WY6-VIS06** | Hime’s movement toward the bag initially appears as departure before the letter is produced | Tests Mitsuki’s interpretation of withdrawal; source facing pair i062–063 is not a page-turn reveal. i062–066 |
+| **WY6-VIS07** | Letter reading overlays remembered working scenes, then returns to both present faces | Personal meaning is grounded in shared work rather than separated from it. The recalled scenes do not become new current events. i067–072 |
+| **WY6-VIS08** | Hands conceal Mitsuki’s face, Hime approaches, and the face becomes visible during permission to speak | Gradual exposure accompanies qualified acceptance. No general permission for later physical intimacy follows. i073–075 |
+| **WY6-VIS09** | Ordinary and role presentations are placed together around the idea of one person’s parts | Form rejects a simple fake-role/real-harsh-self split without guaranteeing every act’s kindness. i075–076 |
+| **WY6-VIS10** | Anklet is fastened; offered hand at i079 is followed by childhood/current Hime association at i080 | Gift and help acquire accepted use without changing the three-person design into exclusive matching. i077–082 |
+| **WY6-VIS11** | Hand-taking, embrace, and later kiss are separated by speech and movement toward leaving | Different contacts require distinct interpretation; they are not one uninterrupted agreement. i080–088 |
+| **WY6-VIS12** | i085→i086 page turn moves from Hime’s anticipated verbal pleasure to the kiss; facing i086–087 gives contact and enlarged startled reaction | The encounter’s effect exceeds the verbal answer Hime expected. Does not establish a complete named emotion. |
+| **WY6-VIS13** | Mitsuki’s smiling explanation closes i088; Hime’s actual verbal response is deferred until i125 | Temporary focalization permits Mitsuki’s relief without furnishing shared certainty. |
+| **WY6-VIS14** | Father’s ordinary morning conversation yields to pillow, remembered face, and private category correction | Separates family-visible friendship from interior romantic meaning. i093–097 |
+| **WY6-VIS15** | Illustrated rescue story, isolated child, crowded Hime, piano encounter and reversed closet roles form a sequence | “Being found” becomes Mitsuki’s retrospective metaphor; the work does not require Hime’s appearance to fix her acted role. i098–118 |
+| **WY6-VIS16** | Saturday joy and Sunday subdued Hime occupy successive chapters | Contrasts perspectives across an actual day transition rather than a falsely simultaneous reaction. i125–132 |
+| **WY6-VIS17** | Castless Mai is visually obvious yet initially missed by preoccupied Hime; apology is delivered to seated girls | Publicly visible evidence and active attention differ. Hime’s distraction is supported; its entire cause remains unstated. i133–137 |
+| **WY6-VIS18** | Successful shared service is followed by backstage recoil, then Hime’s relocation of the exchange to the salon | Spatial change makes public manageability distinct from private comfort. A definite second-kiss attempt is not required. i140–151 |
+| **WY6-VIS19** | Grasped hands, serious gaze, and release precede group meeting; i153→i154 page turn gives the resignation declaration and shocked ensemble | A performed continuity yields to an announced rupture. No response after the declaration is available. |
+| **WY6-VIS20** | Supplement repeatedly lets Kanoko approach tasks already completed by Mai, with Nene providing the missing explanation | Visual comedy exposes unnoticed labor. It revises a competence judgment, not all trust concerns. S31.5/i159–161 |
+
+#### Repeated hands do not mean identical consent
+
+The volume uses hands for different functions: pressure during confrontation, uncovering a face, fastening an ornament, inviting help, embracing, holding a face, recoiling from an approach, and testing contact in public. Those configurations should not be reduced to a single symbol of intimacy. Initiator, timing, spoken context, and the recipient’s reaction change. A literary account that notices only recurrence while ignoring those changes will misrepresent the relationship’s boundaries. [VIS04/VIS08/VIS10–VIS12/VIS18/VIS19.]
+
+The most important contrast is between the offered hand that Mitsuki accepts and the later kiss that Hime has not specifically invited. Both can be connected to Mitsuki’s desire not to hide; only the source-specific interaction establishes what the other participant has agreed to. The formal continuity of a motif is not continuity of permission. [i079–088.]
+
+#### A withheld response is part of the evidence architecture
+
+Ending Shift 29 with Mitsuki’s face rather than a reciprocal declaration creates a gap. Shift 30 fills part of it with Hime’s polite response but embeds that response in Mitsuki’s hopeful recollection. Shift 31 then supplies Hime’s changed presentation, refusal to explain, recoil, and departure plan. The text does not suddenly make Mitsuki’s feelings unreal; it supplies evidence that her reading of Hime was incomplete. This is a difference between revising an inference and negating an observation. [VIS13/VIS16/VIS18/VIS19.]
+
+#### Objects keep their practical identity
+
+The letter is a message that can be prepared and read; the anklet is the previously refused wearable gift; the refrigerator contains supplies from an actual visit; the cast presents a factual bodily condition; the birthday schedule requires staffing decisions. Their symbolic importance grows from their practical uses. The evidence record should not turn the three-person design into three identical accessories, the cast into proof of original fraud, or the birthday exception into a completed event. [O03/O09/O10/O19/O24; inherited WY5-INF09.]
