@@ -3,7 +3,7 @@ series: BLUE_ARCHIVE
 artifact_type: synthesis_architecture
 scope: Analytical corpus architecture for Japanese-primary Blue Archive interpretation
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 source_boundary: "Designed at the historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86; current production boundary is all 480 canonical main units in electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z; side-source classes remain unadmitted"
 supersedes: []
@@ -214,16 +214,13 @@ Maintain an event-priority index before creating many event analyses:
 BLUE_ARCHIVE_EVENT_ANALYTICAL_PRIORITY_INDEX.md
 ```
 
-Classify each event:
+Use the [event analytical priority index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_EVENT_ANALYTICAL_PRIORITY_INDEX.md) for every event object's inventory route and for package-level review intake. Keep three dimensions separate:
 
-- CORE
-- HIGH
-- SUPPORTING
-- LOW-STAKES / VOICE
-- DEFER
-- UNRESOLVED
+- **Analytical priority after complete reading:** `CORE`, `HIGH`, `SUPPORTING`, or `UNASSESSED`. `CORE` means omission materially weakens a character, relationship, institution, continuity account **or the ordinary repertoire needed to interpret it**. `UNASSESSED` is not a low score.
+- **Evidence function:** continuity/state, peer or Sensei relationship, institution/work, ordinary pleasure/routine/play, written voice/humor, contrary case, or chronology/identity. The former `LOW-STAKES / VOICE` label belongs here; it never means low analytical value.
+- **Workflow:** inventory, intake candidate, reviewed, admitted, or deferred with a claim-specific reason and revisit trigger. `UNRESOLVED` marks an identity, chronology, provenance or source-class question, not a value rank.
 
-A CORE event deserves a sequential reading because omitting it would materially weaken understanding of a major character, relationship, institution, or continuity state.
+Decide priority by literary characterization, underrepresented social contexts, recurrence or difference, interpretive consequences, and continuity needs. A quiet group, food, leisure or comic story may be `CORE` even with no plot-state change. Never defer a story solely for low stakes, seasonality, comedy or weak connection to the main plot. Keep every event story ID visible until inspected, including episodes inside a selected package. Metadata and person IDs can prompt intake but cannot establish story content, priority, chronology or admission. Read selected complete source sequences and preserve ordinary life, pleasure, humor, play, minor disputes and contrary evidence alongside crisis material. The [source-class crosswalk](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md) governs provenance and chronology; the [gap-impact register](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md) records the claims affected by what remains unread or unprinted.
 
 ---
 
@@ -609,7 +606,7 @@ The [source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE
 
 1. retain the source-facing readings, chapter checkpoints, and seven cumulative ledgers with their local information boundaries; choose the checkpoint appropriate to the subject and story state rather than treating the last backfill as a universal chronological endpoint;
 2. use the [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) and [bootstrap audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md) for current evidence readiness and any bounded pilot recommendation;
-3. prepare Phase 2 contextualization through source-class, chronology, relevance, and gap-impact triage before admitting selected group, event, bond/MomoTalk, or character-data sources;
+3. use the materialized event-priority index, source-class crosswalk, and source-gap impact register to select complete supplemental story sequences by character, relationship, institution and ordinary-life questions; verify source class, chronology, relevance, and claim-specific gap effects before admitting selected group, event, bond/MomoTalk, or character-data sources;
 4. preserve the earlier checkpoint `DEFER` decisions as history; side-source classes remain unadmitted until a reasoned current admission decision names the sources and intended evidence gap;
 5. create a monograph or standalone reconstruction pilot only when its distinct evidence, state/domain, and responsibility gates pass; full main-story coverage alone does not certify readiness;
 6. freeze any intended prospective test before genuinely unexposed diagnostic source material is opened; comparisons against the completed main corpus are retrospective and must retain known prior exposure;
