@@ -3,14 +3,14 @@ series: BLUE_ARCHIVE
 artifact_type: analytical_method
 scope: 'Japanese Blue Archive game narrative corpus: main, group, event, bond, mini, MomoTalk, character/profile/contextual dialogue'
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
-source_boundary: Promoted Blue Archive V1 Japanese canonical corpus pinned to electricgoat/ba-data@jp cbe3fd623c2aab9e781ba0ce0483bc77c68bff86, with HePudding/ba-storybook@main 6c4091603ca76d7d8c3cdb9104933f52cd8cab8e as independent reference; canonical and derived builds passed blocking audits
+source_boundary: "Current promoted Japanese main-story snapshot: electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z, all 480 main units read; historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 remains attached to its readings; HePudding/ba-storybook@main 6c4091603ca76d7d8c3cdb9104933f52cd8cab8e remains the independent reference; side-source classes unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-25
+updated: 2026-09-28
 ---
 
 # BLUE ARCHIVE ANALYTICAL METHOD V1
@@ -48,11 +48,14 @@ A character should never be reconstructed from isolated lines when contextual sc
 
 ## 1.1 Primary technical authority
 
-For the current corpus generation, the primary raw authority is the pinned Japanese branch of `electricgoat/ba-data`:
+For the current promoted corpus generation, the primary raw witness is the pinned Japanese branch of `electricgoat/ba-data`:
 
 - branch: `jp`
-- commit: `cbe3fd623c2aab9e781ba0ce0483bc77c68bff86`
-- recorded game-data version: `v1.71.447596-r94_y2ha6vgythtil9ja597o`
+- commit: `a038020f1f5ac02dcfe76962426d38f86414cdd8`
+- recorded game-data version: `v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1`
+- generation: `BA_REFRESH_20260928T032248159554Z`
+
+The historical V1 lock remains `cbe3fd623c2aab9e781ba0ce0483bc77c68bff86`, game-data version `v1.71.447596-r94_y2ha6vgythtil9ja597o`. Completed readings retain their recorded witness; the current snapshot does not silently replace it. The [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) records the change from 310 to 480 main units, the release cutoff, and the completed V001 C003 backfill. All 480 main units have been read; no main unit remains unopened in that snapshot. Side-source availability remains separate from analytical admission.
 
 The independent parser/reference snapshot is:
 
@@ -77,7 +80,7 @@ For exact Japanese wording, ambiguity, speaker identity, choice structure, or di
 
 ## 1.3 Derived-projection authority rule
 
-The promoted V1 source corpus now provides reversible analytical projections in addition to the 2,716 canonical story/data objects. Current source-side projections include 128 character packages, 2,718 measured relationship candidates with 40 selected relationship bundles, 47 club packages, 15 school packages, 128 Sensei relationship packages, seven main-arc maps, and LLM-oriented context chunks.
+The historical promoted V1 source corpus provided reversible analytical projections in addition to its 2,716 canonical story/data objects. Its source-side projections included 128 character packages, 2,718 measured relationship candidates with 40 selected relationship bundles, 47 club packages, 15 school packages, 128 Sensei relationship packages, seven main-arc maps, and LLM-oriented context chunks.
 
 These are **retrieval accelerators, not literary authorities in themselves**.
 
@@ -169,7 +172,7 @@ The promoted corpus preserves release/source ordering when upstream data exposes
 - use later-state assumptions only when another source actually presupposes them;
 - record chronology conflicts or uncertain placements as `OPEN` rather than forcing a total timeline.
 
-The event corpus currently contains 490 promoted canonical event stories; nine rerun aliases were consolidated without losing contexts. Analytical event triage should target the canonical story object and preserve alias/release context where relevant.
+The historical V1 event corpus contained 490 promoted canonical event stories; nine rerun aliases were consolidated without losing contexts. Current inventory and admission state are routed through the [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md). Analytical event triage should target the canonical story object and preserve alias/release context where relevant.
 
 ## 2.4 Bond stories — private relational and self-presentational authority
 
@@ -406,7 +409,7 @@ Do not treat co-occurrence as relationship evidence. Preserve scene context.
 
 ## 6.1 Machine-measured relationship candidates
 
-The source corpus now measures 2,718 person-pairs and emits 40 selected scene bundles. These are valuable for recall, but the metrics cannot decide which relationships deserve analytical priority.
+The historical V1 source corpus measured 2,718 person-pairs and emitted 40 selected scene bundles. These are valuable for recall, but the metrics cannot decide which relationships deserve analytical priority.
 
 When using a candidate row or selected bundle:
 
@@ -444,7 +447,7 @@ Institutional analysis should therefore track:
 
 Avoid importing real-world political categories too mechanically. Use them comparatively, not as replacements for the fictional institution's own structure.
 
-The promoted school layer currently contains 15 master-data-backed school packages, including crossover/external-school labels and an `ETC` category. **Source affiliation is not the same thing as core Kivotos institutional importance.** Before using a school package in worldbuilding synthesis, classify whether it is:
+The historical promoted V1 school layer contained 15 master-data-backed school packages, including crossover/external-school labels and an `ETC` category. **Source affiliation is not the same thing as core Kivotos institutional importance.** Before using a school package in worldbuilding synthesis, classify whether it is:
 
 - a core Kivotos institution;
 - a crossover/external institution;
@@ -581,7 +584,7 @@ The detailed rule, state, readiness, scenario, and validation contracts are gove
 
 ## 10.5 Reconstruction responsibility at every future chapter checkpoint
 
-For the forthcoming Chapters 3–8 sequential run and later chapters, each natural checkpoint must answer: **What changed about our ability to reconstruct these characters, beyond what changed in our literary interpretation?** Follow the canonical crosswalk order and boundary IDs; this planning label does not authorize jumping to an absent Volume 1 Chapter 3 or equate publication order with narrative time.
+Each natural chapter checkpoint must answer: **What changed about our ability to reconstruct these characters, beyond what changed in our literary interpretation?** This capture contract was introduced at the historical C002 design boundary for the then-planned Chapters 3–8 run. That planning label did not replace canonical crosswalk IDs or establish narrative time. V001 C003 was absent from the historical V1 lock and has since been admitted and fully read as a 43-unit backfill in the current snapshot. Future extensions follow the reconciled crosswalk and declared exposure boundary.
 
 Use a compact table or connected prose covering:
 
@@ -668,9 +671,9 @@ Before literary analysis begins at scale:
 - verify that canonical bulk generation has actually been promoted beyond inspection samples;
 - record source classes currently safe for analysis.
 
-**Current status after the V1 promotion audit:** Phase 0 is closed for bulk analysis. The canonical build (`BA_FULL_20260816T002743Z`) and derived build (`BA_DERIVED_20260816T010224Z`) both report `PASS`. Stable-ID uniqueness, 8,774/8,774 choice preservation, sampled provenance round-trip, coverage regression, required derived bundle classes, deterministic sharding, and sampled derived provenance all passed. Phase 1 may begin.
+**Historical V1 promotion status:** Phase 0 closed for bulk analysis. The canonical build (`BA_FULL_20260816T002743Z`) and derived build (`BA_DERIVED_20260816T010224Z`) both report `PASS`. Stable-ID uniqueness, 8,774/8,774 choice preservation, sampled provenance round-trip, coverage regression, required derived bundle classes, deterministic sharding, and sampled derived provenance all passed. That audit opened Phase 1. The [current source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) records the later promoted DB generation; all 480 main units in that snapshot are now read. The synthesis architecture's §12 owns the current production sequence.
 
-The remaining source ambiguities are non-blocking but analytically visible: seven unknown timing/control records, unresolved overarching Japanese event titles in the raw localization tables, some generic group-label resolution, unresolved person/speaker mappings from the source lock, and unresolved in-universe chronology.
+The historical V1 audit retained non-blocking but analytically visible source ambiguities: seven unknown timing/control records, unresolved overarching Japanese event titles in the raw localization tables, some generic group-label resolution, unresolved person/speaker mappings from the source lock, and unresolved in-universe chronology.
 
 ## Phase 1 — Main-story sequential reading
 
