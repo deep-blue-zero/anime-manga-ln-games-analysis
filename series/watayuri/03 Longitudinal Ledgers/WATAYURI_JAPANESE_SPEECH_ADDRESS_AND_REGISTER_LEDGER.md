@@ -4,14 +4,14 @@ artifact_id: WATAYURI_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.5"
+version: "0.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V04 mainline through V04 Shift 21/i152, also latest depicted present; Shifts 6.5, 11.5, 16.5 and 21.5 separately bounded; V04 EX promotional; V05–V14 inventory only"
+source_boundary: "Japanese V01–V05 mainline through V05 Shift 26/i157; latest depicted present V05/26/i119; packaged half-chapters separately bounded, V05 Shift 26.5 historical; V04 EX promotional; V06–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_JAPANESE_SPEECH
 
 **Update and revision rule.** Update when a feature recurs, switches under meaningful conditions or contradicts a working speech model. Preserve original wording/locator and distinguish observation from claim; cross-link performance when a script appears to condition register. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V04 mainline through V04 Shift 21/i152, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5 and 21.5 remain separately bounded; V04 EX is promotional. V01–V03 sections retain their earlier states, including V03’s distinct reading/present endpoints; dated V04 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V05 mainline through V05 Shift 26/i157; latest depicted present V05/26/i119. Packaged Shifts 6.5, 11.5, 16.5, 21.5 and 26.5 remain separately bounded; V05 Shift 26.5 is historical and V04 EX promotional. V01–V04 sections retain their earlier states; dated V05 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -220,3 +220,39 @@ Kanoko’s request that Sumika not interfere is stated within the sister-formati
 The summer conversation repeatedly shifts between a judgment about Mitsuki and an account of Hime’s own reaction. Hime becomes more precise when she locates the embarrassment in herself rather than treating it as Mitsuki’s defect. At the ending, **欲しい** produces another ambiguity: the clarification concerns envy of physique, while Mitsuki hears an interpersonal implication that Hime does not understand. The contrast is evidence about wording, interpretation, and relationship-conditioned embarrassment; it is not an explicit mutual romantic agreement. [V04/21/i147–152; O22/O23.]
 
 The written-speech progression is therefore not simply “more honesty.” It is more specific about **whose feeling**, **which audience**, **what speech act**, and **what response the speaker is entitled to request**. Kanoko becomes able to say something true without demanding that Hime immediately hear it. Sumika becomes able to speak with conviction about support while speaking with less certainty about another person’s future. Hime becomes more candid about her own reaction while still failing to anticipate every implication of her words. These are different developments, not one common arrival at perfect transparency.
+
+
+<a id="v05"></a>
+## V05 — Current additions and transitions — 2026-09-29
+
+**V05 evidence key:** source-map key `V05`, Japanese witness `1_ZPSEKuRVlSzDF1E2GWLkhIL8v9-XD8Q`, SHA-256 `4ba5b5f2f9618ded9627a93a54f4b1d6e1431aea98ded75f5f37689c4b67bac9`. The [frozen V05 reading](../02%20Sequential%20Readings/WATAYURI_V05_DEEP_READING.md#speech) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V05; WY1–WY4 identities retain their earlier meanings. Mainline reading ends at Shift 26/i157, with latest depicted present at Shift 26/i119 and i120–157 retrospective. Shift 26.5/i159–162 is a historical recruitment supplement; i163 is afterword and i164–168 edition paratext. Neither advances present time.
+
+### Written Japanese speech, address, and register
+
+These observations concern written forms, context, and attribution. They do not establish audible voice quality or a fixed idiolect from a single balloon. Short Japanese forms are retained only where they carry an analytical distinction.
+
+| Record | Speaker, audience, and form | Contextual function and alternative | Locator |
+| --- | --- | --- | --- |
+| **WY5-JP01** | Mitsuki to Hime: repeated **妹** as the reason for helping | A role term does causal work in private explanation. It may express genuine obligation while failing to answer Hime’s personal question; it is not inherently a lie | i022, i066, i102, i113 |
+| **WY5-JP02** | Hime’s **お姉さま** in the salon versus **矢野** in private conflict | Address marks the frame she is invoking. The later surname-linked accusation specifically reaches toward the person behind the public role, without proving that the two are separable selves | i021–027, i068, i111–115 |
+| **WY5-JP03** | Hime’s public **デート** and private correction to Kanoko | The same outing is labeled for one audience and qualified for another. Kanoko’s feeling is not an alternate authoritative transcript of the correction | i029–032 |
+| **WY5-JP04** | Kanoko to Hime: **演技は要らない** | An appeal to their established private relation; sincere demand can rest on an incomplete interpretation of the particular gift | i045–047 |
+| **WY5-JP05** | Mitsuki’s refusal, with **おそろい** singled out | The named object of refusal is the matching configuration, not simply “all contact with Hime.” That specificity matters when she subsequently affirms liking | i110–112 |
+| **WY5-JP06** | HM’s repeated **好き**, culminating in **サロンだけの嘘** | The issue is its scope and relation to action, not only lexical ambiguity. The explicit accusation establishes a substantial connection dispute, not a resolved romantic confession | i111–115 |
+| **WY5-JP07** | Hime’s imagined harsher rejection at i027; Mitsuki’s private denial at i028 | Similar wording is assigned to different sources. The latter is a denial in a private self-directed scene, not an affirmative double negation; its truth as a complete self-report is constrained by later explicit liking | i027–028, i112 |
+| **WY5-JP08** | Mai: **骨折のフリ** in the recovery arrangement | The text names intentional pretence, eliminating the need to infer it merely from cast imagery. The scope is continued presentation after recovery, not original fabrication | i087–090 |
+| **WY5-JP09** | Sumika to Hime: the task is acceptable if it communicates—**伝わればいい** | Instruction prioritizes communicative function over prior perfect abbreviation memory. This is Sumika’s teaching statement; Mitsuki’s stricter assessment is interior | i100 |
+| **WY5-JP10** | Earlier Mitsuki’s repeated **正解** | Frames social interaction as a problem of finding the right response. Sumika contests the determinacy of what Mitsuki is trying to infer; the vocabulary is a self-model, not a diagnostic label | i123–126, i137, i144–147 |
+| **WY5-JP11** | Sumika’s guest address and school-host vocabulary toward the newcomer | Explicit role assignment makes the exchange actionable; the guest’s awkward question receives accommodation rather than a socially punitive correction | i133–139 |
+| **WY5-JP12** | Mentors’ **優しい自分** and Mitsuki’s later Ayanokōji account | The desired self is something to practise, not only an adjective imposed by other people. The source does not say that all practice is already internalized successfully | i147–148, i155–156 |
+| **WY5-JP13** | Mitsuki’s school explanation after the apology | She distinguishes not being angry from being afraid of intruding and asks for clearer signals. The content, not just the smile, changes the other person’s understanding | i149–153 |
+
+#### Register can conceal the question it appears to answer
+
+Mitsuki’s private language is more direct than her elegant service presentation, but directness is not the same as complete disclosure. She can say clearly that she is helping a younger sister while leaving unclear why that is the acceptable direction of care. She can say clearly that she likes Hime while not explaining the meaning of three-way matching. The point is not that private speech is another wholly artificial mask. It is that a clear sentence can answer a narrower question than the listener is asking. [JP01/JP05/JP06; O03/O17.]
+
+Hime’s register changes are likewise not a simple sincerity switch. Public playfulness can contain a genuine wish for affirmation, and private anger can contain a mistaken generalization. The distinction between address to the older sister and accusation directed at Yano helps make the desired scope visible. It does not mean that every statement uttered under the private name is therefore true. [JP02/JP06; O03/O18.]
+
+#### A missing explanation is not always a missing feeling
+
+The school repair shows that Mitsuki’s difficulty can concern expressing the relation between a feeling and a response. She is not angry in the way the apologizing girl imagines, yet her initial acceptance is heard as anger. Once she states the fear and the wish for friendship, the interaction becomes more intelligible. This earlier success prevents treating the current gift failure as a permanent inability to explain herself. It also makes the missing explanation in the present more consequential: the source has shown a workable alternative, not an automatically available skill under every stress. [JP13; i149–153; compare i111–115.]

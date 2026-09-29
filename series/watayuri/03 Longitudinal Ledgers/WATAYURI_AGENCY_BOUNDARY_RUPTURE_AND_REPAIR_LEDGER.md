@@ -4,14 +4,14 @@ artifact_id: WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.5"
+version: "0.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V04 mainline through V04 Shift 21/i152, also latest depicted present; Shifts 6.5, 11.5, 16.5 and 21.5 separately bounded; V04 EX promotional; V05–V14 inventory only"
+source_boundary: "Japanese V01–V05 mainline through V05 Shift 26/i157; latest depicted present V05/26/i119; packaged half-chapters separately bounded, V05 Shift 26.5 historical; V04 EX promotional; V06–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY
 
 **Update and revision rule.** Update when choices or boundary/repair trajectory materially change. Do not close a rupture merely because an apology occurred. Link later behavior as a dated continuation and retain the earlier prospective assessment. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V04 mainline through V04 Shift 21/i152, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5 and 21.5 remain separately bounded; V04 EX is promotional. V01–V03 sections retain their earlier states, including V03’s distinct reading/present endpoints; dated V04 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V05 mainline through V05 Shift 26/i157; latest depicted present V05/26/i119. Packaged Shifts 6.5, 11.5, 16.5, 21.5 and 26.5 remain separately bounded; V05 Shift 26.5 is historical and V04 EX promotional. V01–V04 sections retain their earlier states; dated V05 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -138,3 +138,45 @@ Acts, options, recipients, and costs are recorded independently of how sympathet
 | **WY4-AG18** | Nene prepares former sister tea and approaches the current group. | Possible support through ordinary work, after explicit rejection of controlling kindness. | Precise motive is not fully voiced; supplement chronology remains bounded. Moderate-to-high; O25/i158–161. |
 
 The volume’s central agency distinction is not **action versus doing nothing**. It is among commanding another’s feeling, changing institutional constraints, hearing a wish, declining a request, sharing a cost, and helping someone pursue a chosen arrangement. Sumika’s new promise is meaningful because it identifies something she can actually do. Kanoko’s new disclosure is meaningful because it is neither extracted as the price of care nor directed to Hime as an immediate demand for an answer. [AG08–AG14.]
+
+
+<a id="v05"></a>
+## V05 — Current additions and transitions — 2026-09-29
+
+**V05 evidence key:** source-map key `V05`, Japanese witness `1_ZPSEKuRVlSzDF1E2GWLkhIL8v9-XD8Q`, SHA-256 `4ba5b5f2f9618ded9627a93a54f4b1d6e1431aea98ded75f5f37689c4b67bac9`. The [frozen V05 reading](../02%20Sequential%20Readings/WATAYURI_V05_DEEP_READING.md#agency) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V05; WY1–WY4 identities retain their earlier meanings. Mainline reading ends at Shift 26/i157, with latest depicted present at Shift 26/i119 and i120–157 retrospective. Shift 26.5/i159–162 is a historical recruitment supplement; i163 is afterword and i164–168 edition paratext. Neither advances present time.
+
+### Agency, boundaries, rupture, and repair
+
+These records concern acts and available options, not merely the intensity of attachment. An option is treated as available when the source supplies it; unshown alternatives are not used to declare that a character freely chose every resulting cost.
+
+| Record | Act, available option, and constraint | Boundary, consequence, and repair state |
+| --- | --- | --- |
+| **WY5-AG01** | Hime uses charm instead of adequate product explanation; Mitsuki can and does supply the missing answer | The immediate service is completed by shared work, while the learning obligation remains. i015–020; O02 |
+| **WY5-AG02** | Hime moves a personal liking question into a public sister scene after an unsatisfactory private response | She gains an answerable performance, not an obligation on Mitsuki to disclose a private attachment before customers. i021–027; O03 |
+| **WY5-AG03** | Hime plans a birthday surprise while withholding its exact purpose during shopping | The temporary withholding is later explained to the recipient, who can accept or object. It is not equivalent to concealing a condition of employment. i038–049; O05/O06 |
+| **WY5-AG04** | Kanoko objects to receiving performed/generic attention; Hime explains the particular gift rather than simply insisting on gratitude | A mistaken interpretation is locally repaired through reasons and an object that supports them. No romantic reciprocity is imposed. i045–049; O06 |
+| **WY5-AG05** | Hime and Kanoko contemplate the original recovery condition but defer a final employment decision | Neither has made a demonstrated fully informed choice about staying after the already-completed recovery. This is an information constraint, not proof of an actual resignation. i050–052, i087–090; O07/O13 |
+| **WY5-AG06** | Mai sends the ill Nene away from service and reorganizes the staff | The team absorbs costs rather than requiring Nene to remain. Later difficulty does not make the care act nonexistent. i059–062; O09 |
+| **WY5-AG07** | Hime offers to undertake order-slip and reception-related work; Mitsuki retains tasks and says there is no teaching time | Some supervision is justified, but withheld opportunity prevents immediate capability growth and burdens the senior. Later workable instruction is material counterevidence to permanent refusal. i063–075, i095–104; O10/O11/O14/O15 |
+| **WY5-AG08** | Management repairs delayed service through an extension/additional offering and changed task attention | The café acknowledges a practical failure. Hime’s affective apology and Mitsuki’s quality concern address different parts of the repair. i071–075; O11 |
+| **WY5-AG09** | Earlier Mai proposes telling Hime recovery is complete and asking her to continue; Mitsuki objects | A source-established alternative to deception exists. Fear of losing the bond helps explain rejection of the alternative but does not constitute Hime’s consent. i087–088; O13 |
+| **WY5-AG10** | Mai agrees to continue fracture pretence while Mitsuki improves Hime’s skills; Sumika objects | The arrangement delays an informed choice and assigns its timing to others. Mai’s offer to take blame is not authorization from the person affected. i089–090; O13 |
+| **WY5-AG11** | Sumika trains Kanoko and Hime with a workable division and a full-name notation option | New assistance becomes feasible without demanding total mastery first. Hime contributes; Mitsuki’s investment in being Hime’s particular helper is challenged by success rather than by refusal to work. i091–104; O14/O15 |
+| **WY5-AG12** | Hime privately asks what is wrong and offers an anklet; Mitsuki refuses the matching | Refusal of an object remains a boundary, not an act the giver can overrule by declaring affection. Its explanatory insufficiency and relational effect are separate questions. i107–114; O17 |
+| **WY5-AG13** | HM explicitly argue over liking and role scope; Hime departs; Sumika later offers a counterinterpretation | A real clarification attempt occurs but no accepted repair. Stating that sister work can continue does not close the private rupture. i111–119; O17/O18 |
+| **WY5-AG14** | Earlier Sumika tolerates a blunt question and gives Mitsuki a usable guest role and place to remain | An uncertain newcomer is accommodated rather than penalized for imperfect entry. Repeated return is later chosen. i132–140; O20/O21 |
+| **WY5-AG15** | Mai and Sumika propose practising a kind self instead of first solving every hidden social condition | This expands the set of responses available to Mitsuki, but cannot guarantee other people’s behavior. i145–148; O23 |
+| **WY5-AG16** | Mitsuki accepts a peer’s apology, changes presentation, explains her fear, and asks for explicit guidance; the peer explains the private occasion | Local repair contains both changed conduct and new information. Neither apology alone nor smile alone is treated as sufficient. i149–154; O24/O25 |
+| **WY5-AG17** | Historical recruitment waits on the school-stage issue and aims to show a shared ideal; backstage reality is then encountered | Practical timing and expectation alignment appear as stated concerns. Later recovery concealment is a separate, inconsistent practice, not automatically excused by the earlier principle. S26.5/i159–162; O27 |
+
+#### Help has a direction, and that direction can become a boundary
+
+In the work conflict, Mitsuki is not refusing all contact. She is often working very hard for the person she then refuses to let help. That matters because it locates the constraint more precisely: the desired relationship permits closeness in the form of care provided by Mitsuki, but is less able to accommodate Hime as a competent contributor. The issue is therefore not solved by establishing that Mitsuki does care. The form in which care is allowed to circulate is itself consequential. [AG07/AG11; O10–O16.]
+
+The alternative is also not an absolute rule that every offer must be accepted. Some tasks require instruction and some gifts can be declined. The source’s diagnostic contrast is between a blanket practical prerequisite that blocks learning and a specific accommodation that lets the work be done. A responsible model preserves the reason for supervision while remaining able to detect when supervision has become entangled with a preferred personal role. [AG07/AG11/AG12; i068–070, i100–104.]
+
+#### The concealed recovery is a separate agency issue
+
+The late-April arrangement is not simply another awkward expression of love. It concerns a factual condition under which Hime understands her work. A person can value the café, enjoy earning money, and conceivably choose to stay, while still not having been given the choice represented to her as pending. The possibility that she would stay does not make withholding recovery inconsequential. The source has not yet shown her informed response, so the analysis must preserve both the restriction and the unanswered outcome. [AG05/AG09/AG10; i050–052, i087–090.]
+
+There is no need to equate this with the childhood betrayal in every respect. The means, participants, information, and immediate harm differ. What recurs is a belief that the valued relation can be protected by arranging another person’s options before asking what she wants. Mitsuki’s reflection makes this recurrence more complex, not less: she sincerely wants not to hurt Hime, but still finds a unilateral structure attractive when direct choice might bring loss. [O12/O13; AG09/AG10.]

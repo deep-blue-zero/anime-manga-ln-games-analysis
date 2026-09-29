@@ -4,14 +4,14 @@ artifact_id: WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.5"
+version: "0.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V04 mainline through V04 Shift 21/i152, also latest depicted present; Shifts 6.5, 11.5, 16.5 and 21.5 separately bounded; V04 EX promotional; V05–V14 inventory only"
+source_boundary: "Japanese V01–V05 mainline through V05 Shift 26/i157; latest depicted present V05/26/i119; packaged half-chapters separately bounded, V05 Shift 26.5 historical; V04 EX promotional; V06–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMO
 
 **Update and revision rule.** Append retrospective records that link to earlier event IDs; revise the mature ordering if warranted while preserving original VNN presentation and uncertainty. Mark apparent contradiction OPEN when order or witness cannot be settled. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V04 mainline through V04 Shift 21/i152, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5 and 21.5 remain separately bounded; V04 EX is promotional. V01–V03 sections retain their earlier states, including V03’s distinct reading/present endpoints; dated V04 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V05 mainline through V05 Shift 26/i157; latest depicted present V05/26/i119. Packaged Shifts 6.5, 11.5, 16.5, 21.5 and 26.5 remain separately bounded; V05 Shift 26.5 is historical and V04 EX promotional. V01–V04 sections retain their earlier states; dated V05 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -113,3 +113,31 @@ Relative ordering is firmer than exact dates. Source presentation time and repre
 | **WY4-T10** | Shift 21.5/i158–161, current kitchen frame plus old tea-selection memory. | Memory during former Tachibana–Saionji sisterhood; kitchen frame after that role ended. Exact relation to V04/i152 remains open. | High for past/present distinction, open finer placement and full motive. |
 
 **Exit clocks:** the mainline reading endpoint and latest depicted mainline present now coincide at **V04/21/i152**. This differs from V03’s deliberately split endpoints. The change is a new V04 state, not a correction claiming that V03’s final school image already resolved its current confrontation.
+
+
+<a id="v05"></a>
+## V05 — Current additions and transitions — 2026-09-29
+
+**V05 evidence key:** source-map key `V05`, Japanese witness `1_ZPSEKuRVlSzDF1E2GWLkhIL8v9-XD8Q`, SHA-256 `4ba5b5f2f9618ded9627a93a54f4b1d6e1431aea98ded75f5f37689c4b67bac9`. The [frozen V05 reading](../02%20Sequential%20Readings/WATAYURI_V05_DEEP_READING.md#chronology) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V05; WY1–WY4 identities retain their earlier meanings. Mainline reading ends at Shift 26/i157, with latest depicted present at Shift 26/i119 and i120–157 retrospective. Shift 26.5/i159–162 is a historical recruitment supplement; i163 is afterword and i164–168 edition paratext. Neither advances present time.
+
+### Chronology, memory, and retrospective revision
+
+Separate reading order, diegetic order, and the knowledge state from which a remembered event is interpreted. Calendar precision is not inferred from chapter adjacency.
+
+| Record | Source presentation and event time | Temporal confidence | Interpretive/causal limit |
+| --- | --- | --- | --- |
+| **WY5-T01** | Shift 25/i079–085 revisits the childhood partnership from Mitsuki’s now-revised understanding | High for relation to already established childhood history | This is not the earlier Mitsuki’s unchanged belief; current acknowledgment of wrongdoing must be distinguished from the belief she held then |
+| **WY5-T02** | Shift 26/i121–139 supplies earlier school difficulty and first entry into Liebe | High for pre-recruitment and pre-Hime-reunion placement; no exact day assigned | Broad social pattern is shown through selected events, not exhaustive school biography |
+| **WY5-T03** | Shift 26/i140–154 gives repeated visits, another school incident, advice, and a local repair | High for the depicted sequence; elapsed duration not quantified | Repetition/montage does not establish daily frequency or a universally successful technique |
+| **WY5-T04** | Shift 26/i154–156 connects graduation, invitation to join while entering high school, and adoption of the café role | High for ordered transition | Do not transfer café year-rank to ordinary school biography |
+| **WY5-T05** | Shift 26/i157 returns to Hime’s earlier first café encounter | High; already known event re-presented | It is not a new current arrival or repair after i119; source presentation reaches it late to alter interpretation |
+| **WY5-T06** | Shift 25/i086–090 is explicitly late April, before the Blumen event: cast removal, planned request, agreed pretence | High for stated date range and relation to the event | Recovery is disclosed to the reader in V05, not retrospectively inserted into what V02–V04 readers/characters knew |
+| **WY5-T07** | Shifts 22–23: present tea work, shopping, gift explanation, and train conversation | High for forward narrative sequence; finer intervals open | July birthday dates are discussed later; no exact current calendar date is inferred merely from them |
+| **WY5-T08** | Shift 24: gift/birthday preparation and first depicted illness-disrupted workday | High for local sequence | A genuine Nene absence is independent of the earlier recovery pretence |
+| **WY5-T09** | Shift 25 returns from recollection to another day of Nene’s illness, new task division, rain, and gift dispute | High for relative workday and before/after order | Weather and altered staffing are multiple conditions; do not treat the comparison as experimentally controlled |
+| **WY5-T10** | Shift 26/i118–119 follows the gift dispute and is the **latest depicted present** | High | Hime’s willingness to continue sisters and Sumika’s counterstatement are not full repair or full historical disclosure |
+| **WY5-T11** | Shift 26.5/i159–162: historical recruitment discussion and pre-Hime backstage discovery | High for pre-Hime boundary; exact placement within the recruitment montage partly open | Separate short, not next present episode; its temporal brevity does not establish that every panel is the same occasion |
+
+Two retrospective movements must not be collapsed. The late-April scene introduces an earlier factual arrangement whose effects continue into the present work problem. The final school history explains an even earlier formation of the kind-self project. The first establishes deliberate concealment; the second establishes sincere aspiration. Neither erases the other, and neither automatically becomes knowledge Hime possesses. [T02–T06; INF04–INF06/INF12.]
+
+**Prospective freeze:** mainline reading **V05/26/i157**; latest present **V05/26/i119**. The half-chapter and edition images do not advance either boundary. The reading’s present-day uncertainty is not resolved by the warmer or more hopeful historical image at the end.

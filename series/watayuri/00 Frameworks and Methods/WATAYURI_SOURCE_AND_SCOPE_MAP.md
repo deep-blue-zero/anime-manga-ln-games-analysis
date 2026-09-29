@@ -4,20 +4,20 @@ artifact_id: WATAYURI_SOURCE_AND_SCOPE_MAP
 artifact_type: source_inventory
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.5"
+version: "0.6"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "V01–V04 byte-verified and inspected through V04 Shift 21/i152, also latest depicted present; packaged half-chapters separate; V04 EX promotional; V05–V14 metadata only"
+source_boundary: "V01–V05 byte-verified and inspected through V05 Shift 26/i157; latest depicted present V05/26/i119; packaged half-chapters separate; V05 Shift 26.5 historical; V06–V14 metadata only"
 canonical_home: series/watayuri/00 Frameworks and Methods/WATAYURI_SOURCE_AND_SCOPE_MAP.md
 ---
 
 # Source and scope map
 
-**Responsibility:** identify exact source witnesses and their admission/inspection stage, without interpreting narrative content. Drive folder ID `1bKsOEQiLKU41cgW1Ht2Pt4qFj0nCdWwi` is a child of evidence root ID `1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy`. The folder identity, 18 direct children, titles, sizes and IDs were read from Drive metadata on 2026-09-28 UTC. No EPUB was fetched or opened during the initial bootstrap; the subsequent V01–V04 source receipts are recorded below. These files are Japanese EPUBs (`application/epub+zip`).
+**Responsibility:** identify exact source witnesses and their admission/inspection stage, without interpreting narrative content. Drive folder ID `1bKsOEQiLKU41cgW1Ht2Pt4qFj0nCdWwi` is a child of evidence root ID `1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy`. The folder identity, 18 direct children, titles, sizes and IDs were read from Drive metadata on 2026-09-28 UTC. No EPUB was fetched or opened during the initial bootstrap; the subsequent V01–V05 source receipts are recorded below. These files are Japanese EPUBs (`application/epub+zip`).
 
 ## Inventory and provenance
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/00 Frameworks and Methods/WATAYURI_SOURCE_AND_SC
 | V02 | `Yuri Is My Job! - Volume 02 [Japanese].epub` | `1fqlKmlu-OGXlsuyvu2F3UeKLzNvDg6fI` | 91,387,184 | `09737feab6ac2cec487c0ca44e9ae2db48d041addefd10c8734adaf8dba32be6` | admitted mainline; Shift 11.5 childhood supplement | `CLOSED` upon validated V02 branch publication |
 | V03 | `Yuri Is My Job! - Volume 03 - Bonus Color Illustration Paper [Japanese].epub` | `1DVuJCfyJrZQCwrwinY8aHQeGem5_e9WZ` | 102,981,031 | `d8caa40958f2803e7b7d435f0bbab1af51f17ab2600336cd043248de05882dd9` | admitted mainline; Shift 16.5 school supplement; bonus illustration paratext | `CLOSED` upon validated V03 branch publication |
 | V04 | `Yuri Is My Job! - Volume 04 - Bonus Color Illustration [Japanese].epub` | `1ONYaEZH4rL7hBHw903cayWiq4KQmP077` | 107,614,593 | `78e42a9965ce06a850299dc6e384bb43ce1344b32e2c8fee18c50717acfe975b` | admitted mainline; EX promotional; Shift 21.5 kitchen/memory supplement; illustration paratext | `CLOSED` upon validated V04 branch publication |
-| V05 | `Yuri Is My Job! - Volume 05 - Bonus Color Illustration [Japanese].epub` | `1_ZPSEKuRVlSzDF1E2GWLkhIL8v9-XD8Q` | 95,358,647 | `4ba5b5f2f9618ded9627a93a54f4b1d6e1431aea98ded75f5f37689c4b67bac9` | mainline candidate; packaged bonus quarantined | `INVENTORY_VISIBLE` |
+| V05 | `Yuri Is My Job! - Volume 05 - Bonus Color Illustration [Japanese].epub` | `1_ZPSEKuRVlSzDF1E2GWLkhIL8v9-XD8Q` | 95,358,647 | `4ba5b5f2f9618ded9627a93a54f4b1d6e1431aea98ded75f5f37689c4b67bac9` | admitted mainline; Shift 26.5 historical recruitment supplement; illustration paratext | `CLOSED` upon validated V05 branch publication |
 | V06 | `Yuri Is My Job! - Volume 06 - Bonus Illustration [Japanese].epub` | `1GBzeKk1RJGUVz7WXHrh_1FDjs2sWO5BB` | 84,384,271 | `a184b645d200acbcd3c875d5d087728faabc3779c6501dcf0f92144b77b021b4` | mainline candidate; packaged bonus quarantined | `INVENTORY_VISIBLE` |
 | V07 | `Yuri Is My Job! - Volume 07 - Bonus Color Illustration [Japanese].epub` | `1xzDrNl-HlgiL5K_E0r_qp5nZiI_QdrUi` | 83,665,884 | `a56f8d1404a80bc1d006307371ceb8f50392cb85ccc30674fe5ab2735336f9b9` | mainline candidate; packaged bonus quarantined | `INVENTORY_VISIBLE` |
 | V08 | `Yuri Is My Job! - Volume 08 - Bonus Color Illustration [Japanese].epub` | `1bP7VtpkHkHaxxZiJ_O1Eae723HmX3JQ1` | 85,475,021 | `345c8e407a32a9453299ae564e50dd844d96a8d79623da3027f440b7de54cf1b` | mainline candidate; packaged bonus quarantined | `INVENTORY_VISIBLE` |
@@ -39,9 +39,9 @@ canonical_home: series/watayuri/00 Frameworks and Methods/WATAYURI_SOURCE_AND_SC
 | V14 | `Yuri Is My Job! - Volume 14 - Bonus Color Illustration [Japanese].epub` | `1PBGoBpS9bAs5e7Ljyl9jt8rWmvvHGFrS` | 93,032,437 | `36e49e9c3e79c7d355302bca34a0cd7350350ed9e9e0103e87be9f3ce096bd00` | mainline candidate; packaged bonus quarantined | `INVENTORY_VISIBLE` |
 | V10-B | `Yuri Is My Job! - Volume 10 - Special Edition Booklet - Watashi no Yuri no Oiwai desu [Japanese].epub` | `14icMWY-mHNQHid5tryPyW57jhm6vi0yX` | 10,671,641 | `e0faed367ee6df90d3ee50b3d39afbf4951da6756ae2f04a2f68384c53b3b914` | supplement / paratext; continuity undetermined | `INVENTORY_VISIBLE` |
 
-The SHA-256 column fingerprints the **local Calibre/source EPUB bytes reported by the import and propagation manifests**. The propagation manifest verified remote names, sizes and parent IDs by Drive metadata readback, but explicitly reports **remote hash verification unavailable**. At bootstrap none of these hashes was independently certified as the current Drive object's hash. The dated V01–V04 producer retrievals below matched the recorded source hashes; the receiving integrator also independently matched the local V02–V04 EPUBs. V05–V14 have not undergone this check. A later source admission should download or otherwise verify the particular witness where practical. The printed sizes are current Drive listing sizes, agreeing with the manifest rows. Language `ja` and edition labels derive from the import metadata/filenames; package structure and paginated content beyond the specifically receipted V01–V04 witnesses have not been examined here.
+The SHA-256 column fingerprints the **local Calibre/source EPUB bytes reported by the import and propagation manifests**. The propagation manifest verified remote names, sizes and parent IDs by Drive metadata readback, but explicitly reports **remote hash verification unavailable**. At bootstrap none of these hashes was independently certified as the current Drive object's hash. The dated V01–V05 producer retrievals below matched the recorded source hashes; the receiving integrator also independently matched the local V02–V05 EPUBs. V06–V14 have not undergone this check. A later source admission should download or otherwise verify the particular witness where practical. The printed sizes are current Drive listing sizes, agreeing with the manifest rows. Language `ja` and edition labels derive from the import metadata/filenames; package structure and paginated content beyond the specifically receipted V01–V05 witnesses have not been examined here.
 
-The `Bonus` filename labels signal included illustration material, **not** a separately located chapter or a mainline interpretation. V03 is labeled `描き下ろしカラーイラストペーパー付`; V04–V05 and V07–V14 are labeled `カラーイラスト特典付`; V06 is `イラスト特典付`. V01–V02 have no bonus label in this inventory; V01 nevertheless packages the separately classified Shift 6.5 and edition paratext; V02 packages the childhood Shift 11.5 and its own paratext. V03 separately identifies the school-period Shift 16.5 and the electronic-edition bonus illustration at i168. V04 separately identifies the promotional EX/i154–157, kitchen/memory Shift 21.5/i158–161 and bonus illustration i168. The V10-B metadata calls it `特装版小冊子電子版` and identifies a separate work, 「私の百合のお祝いです！」; its chronology, continuity and substantive content remain untested.
+The `Bonus` filename labels signal included illustration material, **not** a separately located chapter or a mainline interpretation. V03 is labeled `描き下ろしカラーイラストペーパー付`; V04–V05 and V07–V14 are labeled `カラーイラスト特典付`; V06 is `イラスト特典付`. V01–V02 have no bonus label in this inventory; V01 nevertheless packages the separately classified Shift 6.5 and edition paratext; V02 packages the childhood Shift 11.5 and its own paratext. V03 separately identifies the school-period Shift 16.5 and the electronic-edition bonus illustration at i168. V04 separately identifies the promotional EX/i154–157, kitchen/memory Shift 21.5/i158–161 and bonus illustration i168. V05 separately identifies historical recruitment Shift 26.5/i159–162, the one-page afterword i163 and bonus illustration i168. The V10-B metadata calls it `特装版小冊子電子版` and identifies a separate work, 「私の百合のお祝いです！」; its chronology, continuity and substantive content remain untested.
 
 | Provenance object | Drive ID | Bytes in current listing | Local SHA-256 / status |
 | --- | --- | ---: | --- |
@@ -122,16 +122,35 @@ The producer directly inspected **171/171 spine images**. The receiver visually 
 
 `V04/20/i115` resolves to `item/image/i-115.jpg` through `item/xhtml/p-115.xhtml`. Numbered image N occupies one-based spine N+2; the receiver verified even-right/odd-left source assignments for all numbered images. Review grids do not reproduce source spread layout. The [frozen reading](../02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#source-receipt) owns the full chapter table and historical producer receipt. V05+ remains unopened. Admission and inspection are established; CLOSED requires validated publication of the complete V04 transaction.
 
+## V05 source receipt and component boundary — 2026-09-29
+
+The V05 producer retrieved exact Drive object `1_ZPSEKuRVlSzDF1E2GWLkhIL8v9-XD8Q`, `Yuri Is My Job! - Volume 05 - Bonus Color Illustration [Japanese].epub`, **95,358,647 bytes**, SHA-256 **`4ba5b5f2f9618ded9627a93a54f4b1d6e1431aea98ded75f5f37689c4b67bac9`**. The receiver independently matched the read-only local witness to this size/hash. This establishes byte identity with the producer’s reported witness, not a fresh Drive download or a guarantee about later revisions. Independent checks passed for ZIP CRC, 350 entries and all 171 image-resolving spine wrappers. Every image is 1441 × 2048; the EPUB 3 package is pre-paginated and right-to-left. Original source bytes remain unchanged.
+
+The producer directly inspected **171/171 spine images**. The receiver visually reviewed **95 selected numbered images**, including attribution, gift planning, work learning and outcome, recovery concealment, the gift dispute, both endpoints, the school repair, complete Shift 26.5 and edition extras. The [receiving review](../07%20Audits%20and%20Handoffs/WATAYURI_V05_INTEGRATION_REVIEW.md) records the exact selection. Full-volume inspection remains the producer’s contribution; the receiver does not claim another exhaustive reading.
+
+| Component | Images | Admission and inspection |
+| --- | --- | --- |
+| Mainline Shifts 22–25 | i001–116, with color/title/contents framing distinguished in the reading | Completely inspected by producer; includes the explicitly earlier late-April recovery arrangement. |
+| Mainline Shift 26 | i117–157 | Completely inspected by producer; latest depicted present V05/26/i119, followed by retrospective i120–157. Mainline reading endpoint V05/26/i157. |
+| Logo divider | i158 | Inspected by producer and receiver; no narrative continuation. |
+| Shift 26.5 | i159–162 | Complete historical recruitment/backstage supplement, inspected by producer and receiver; pre-Hime, not a post-conflict event. Finer placement within the recruitment sequence remains bounded. |
+| Afterword | i163 | One page, inspected by producer and receiver as creator/production testimony. |
+| Edition extras | i164–167 | Inspected by producer and receiver as cover/manual/spine/flap/catalogue/back-cover matter. |
+| Bonus illustration | i168 | Inspected by producer and receiver as a role tea recommendation, not a new mainline encounter. |
+| Cover, blank, colophon | named non-numbered images | Producer inspected for framing and source identity. |
+
+`V05/25/i100` resolves to `item/image/i-100.jpg` through `item/xhtml/p-100.xhtml`; numbered image N occupies spine N+2. The receiver verified all numbered even-right/odd-left assignments; inspection grids do not reproduce source spreads. The [frozen reading](../02%20Sequential%20Readings/WATAYURI_V05_DEEP_READING.md#source-receipt) owns the complete chapter table. No V06+ source was opened. Admission and inspection are established; CLOSED requires validated publication of the complete synchronized V05 transaction.
+
 ## Boundaries and admission states
 
 - **Available inventory:** numbered V01–V14 plus V10-B, subject to a fresh listing when work resumes.
-- **Admitted mainline:** V01–V04 Shifts 01–21. **Narratively inspected:** those mainline volumes plus separately bounded Shifts 6.5, 11.5, 16.5 and 21.5; V04 EX is promotional. **Completed sequential high-water mark and latest depicted present:** V04 Shift 21/i152 upon validated publication of the coordinated V04 transaction; V01–V03 were already accepted on entry. V05–V14 remain inventory only.
-- **Independently verified publication boundary of the manga itself:** not assessed at V04 integration. V14 is an inventory ceiling, not an assertion that the manga has ended.
+- **Admitted mainline:** V01–V05 Shifts 01–26. **Narratively inspected:** those mainline volumes plus separately bounded Shifts 6.5, 11.5, 16.5, 21.5 and 26.5; V04 EX is promotional. **Completed sequential high-water mark:** V05 Shift 26/i157 upon validated publication of the coordinated V05 transaction; **latest depicted present:** V05/26/i119. V01–V04 were already accepted on entry. V06–V14 remain inventory only.
+- **Independently verified publication boundary of the manga itself:** not assessed at V05 integration. V14 is an inventory ceiling, not an assertion that the manga has ended.
 - **Future volumes:** not acquired here; adding them changes available inventory but cannot retroactively alter a frozen prospective VNN state.
-- **Supplemental queue:** V10-B and still-uninspected bonus/illustration matter in later packages remain unadmitted, continuity-undetermined or paratextual. The inspected V01 Shift 6.5, V02 childhood Shift 11.5 and V03 school-period Shift 16.5 and V04 kitchen/memory Shift 21.5 are separately bounded above; V04 EX is promotional and V03/V04 i168 are paratext. Other supplemental manga, anime, interviews, promotion, translations and reception require separate source identities and explicit scope decisions.
+- **Supplemental queue:** V10-B and still-uninspected bonus/illustration matter in later packages remain unadmitted, continuity-undetermined or paratextual. The inspected V01 Shift 6.5, V02 childhood Shift 11.5 and V03 school-period Shift 16.5, V04 kitchen/memory Shift 21.5 and V05 historical recruitment Shift 26.5 are separately bounded above; V04 EX is promotional and V03/V04/V05 i168 are paratext. Other supplemental manga, anime, interviews, promotion, translations and reception require separate source identities and explicit scope decisions.
 
 `INVENTORY_VISIBLE` means the current folder list and manifests agree on identity, size and ID. `STRUCTURALLY_VERIFIED` requires a separately recorded packaging/edition check; `ADMITTED` requires an authorized source-boundary decision; `INSPECTED` requires actual narrative/image inspection with coverage limitations; `CLOSED` requires the complete volume transaction and freeze. Advance a row only with a dated receipt, a named inspector/route, and exact evidence of that transition. Metadata reconnaissance does **not** promote the row to `STRUCTURALLY_VERIFIED` or `INSPECTED`.
 
 ## Open source questions
 
-V01–V04 image/spine locator conventions and component boundaries are recorded above. For V05–V14, which package-specific page/bonus boundaries apply, and do fresh byte checks reproduce their recorded local-source hashes? Is V10-B in continuity, retrospective, or paratextual? What later published material exists at an eventual continuation? Resolve each only when its source operation is authorized; do not use a filename to answer a story question.
+V01–V05 image/spine locator conventions and component boundaries are recorded above. For V06–V14, which package-specific page/bonus boundaries apply, and do fresh byte checks reproduce their recorded local-source hashes? Is V10-B in continuity, retrospective, or paratextual? What later published material exists at an eventual continuation? Resolve each only when its source operation is authorized; do not use a filename to answer a story question.
