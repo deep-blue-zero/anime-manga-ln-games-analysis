@@ -4,19 +4,29 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: Canonical MAIN_V004_C001 checkpoint through BA:main:004:001:020; BA:main:004:002:001 unopened
-checkpoint_boundary: MAIN_V004_C001 checkpoint canonical
-current_sequential_boundary: MAIN_V004_C001 checkpoint canonical; V004 C002 E001 unopened
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; side-source classes unadmitted"
+checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
+current_sequential_boundary: MAIN_V001_C003 E043 backfill complete; MAIN_S2_V003_C001 E014 latest forward; no unopened main unit in pinned snapshot
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 
 # BLUE ARCHIVE CLAIM REVISION LEDGER
 
 Use only: **PRESERVE · STRENGTHEN · REVISE · DOWNGRADE · REJECT · OPEN**.
+
+## Current boundary
+
+All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
+
+Group, event, bond, MomoTalk, mini, character-data and other side-source classes remain unadmitted. Performed voice is also unadmitted. The [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) records 21 `PARTIAL_MODEL` and 331 `UNMODELED` subjects across 352, with no standalone reconstruction model. Completion of the main-story readings does not establish reconstruction readiness.
+
+## Historical baselines and sequential deltas
+
+The initial tables and observations below preserve their Prologue and early Abydos evidence boundaries. All ensuing unit and checkpoint entries retain the knowledge available at their stated reading position, including their uses of “current,” “now,” “unopened,” provisional identities and unresolved questions. These historical states are not a consolidated 480-unit endpoint; consult the relevant later deltas and chapter checkpoints for subsequent developments. Historical source witnesses and denominators remain unchanged.
 
 The first Prologue checkpoint is now canonical. `Checkpoint transition` records the adjudication reached by `BLUE_ARCHIVE_MAIN_V000_C001_CHECKPOINT.md`; `Longitudinal state` distinguishes a strong Prologue finding from a claim that still requires later-arc testing.
 
