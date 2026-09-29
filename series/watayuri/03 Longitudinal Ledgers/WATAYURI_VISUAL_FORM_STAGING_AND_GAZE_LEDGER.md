@@ -4,14 +4,14 @@ artifact_id: WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.4"
+version: "0.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118; Shifts 6.5, 11.5 and 16.5 separately bounded; V04–V14 inventory only"
+source_boundary: "Japanese V01–V04 mainline through V04 Shift 21/i152, also latest depicted present; Shifts 6.5, 11.5, 16.5 and 21.5 separately bounded; V04 EX promotional; V05–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STA
 
 **Update and revision rule.** Update for repeated visual constructions or a diagnostically consequential scene. Record the visible fact separately from inferred psychology and identify when a later composition revises an earlier inference. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118. Packaged Shifts 6.5, 11.5 and 16.5 remain separately bounded. V01 and V02 sections preserve their earlier states; dated V03 additions carry the current account without overwriting either freeze. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V04 mainline through V04 Shift 21/i152, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5 and 21.5 remain separately bounded; V04 EX is promotional. V01–V03 sections retain their earlier states, including V03’s distinct reading/present endpoints; dated V04 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -125,3 +125,38 @@ The hair-contact page i031 precedes the turn to i032, where Sumika’s watching 
 The abolition request on i114 and Sumika’s response/image on i115 occupy a facing pair; the turn to i116 gives the demand to relinquish Hime its own terminal position in Shift 15. Shift 16 then repeats that configuration before Kanoko’s refusal. The repetition does not describe two separate demands at different times. It carries the same unresolved act across the chapter boundary. [VIS10; O17/O18.]
 
 At the end, i155’s attracted close attention turns to i156’s distanced image of the pair and the sole-friend formulation. The reader has gained an explanation of how the bond became special, not evidence that the present conflict has disappeared. The unfilled surroundings can be read as emphasizing the pair’s private world; they do not literally establish that no other relationship exists. [VIS15.]
+
+
+<a id="v04"></a>
+## V04 — Current additions and transitions — 2026-09-29
+
+**V04 evidence key:** source-map key `V04`, Japanese witness `1ONYaEZH4rL7hBHw903cayWiq4KQmP077`, SHA-256 `78e42a9965ce06a850299dc6e384bb43ce1344b32e2c8fee18c50717acfe975b`. The [frozen V04 reading](../02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#visual-form) supplies full observations, context and image/spine conventions. Unprefixed iNNN, O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V04; WY1–WY3 identities retain their earlier meanings. Mainline and latest depicted present end at Shift 21/i152. EX/i154–157 is promotional; Shift 21.5/i158–161 contains current kitchen and earlier memory evidence with exact placement relative to the ending OPEN. Neither advances the mainline boundary.
+
+### Manga form, gaze, thresholds, and carried objects
+
+Each entry distinguishes visible construction from its interpretive effect. Source page sides are retained; a four-page reading grid is not a designed spread.
+
+| ID | Visible construction | Interpretive use and live limit |
+| --- | --- | --- |
+| **WY4-VIS01** | Phone photograph, school-associated objects, and a later written/erased declaration frame Kanoko’s concealment. i001, i033–034. | Makes the feeling persistent for Kanoko without making it available to Hime. It is not evidence that an erased message was sent. |
+| **WY4-VIS02** | Goeidō’s repeated proximity through work instruction; Sumika’s watching reactions recur beside the pair. i010–016. | Invites attention to accumulating permissions and exclusion, rather than only a single overt act. Sumika’s view remains situated. |
+| **WY4-VIS03** | Schedule change, backstage threshold, witnessed intimacy, and cross transfer form a sequence. i018–025. | Gives the old rupture practical, spatial, and symbolic dimensions. A cross alone is not a complete psychology. |
+| **WY4-VIS04** | The crowded guest-facing setting gives way to backstage distress and rejected contact. i041–051. | Public competence and private cost become simultaneously legible. A maintained salon scene does not demonstrate private well-being. |
+| **WY4-VIS05** | Saionji’s identification is followed across i055→i056 by Nene’s own corrective account. | The page turn moves from being the person in someone else’s story to speaking as a current agent. Identity does not dictate agreement with the earlier interpretation. |
+| **WY4-VIS06** | A large, legible vote table is juxtaposed with Sumika recalling Kanoko’s refusal. i063. | Makes the numerical fact certain while leaving its motive uncertain. The source itself asks the reader not to equate vote and affection. |
+| **WY4-VIS07** | Hime occupies the space between the attempted apology and Kanoko; later Kanoko waits on the stairs herself. i067–078. | Changes the visible allocation of initiative. A chosen return differs from physically or conversationally preventing departure. |
+| **WY4-VIS08** | Held contact is followed by an explicit request and visible release. i079–083. | Supplies concrete evidence of altered boundary response. It should not be replaced by a generic judgment that Sumika now respects all boundaries. |
+| **WY4-VIS09** | The current stairway recalls the earlier school refuge; an image of school-uniform Hime intrudes into Kanoko’s attempt at closure. i076–086, i101–103. | Reuses a spatial and relational problem: having a place versus having a feeling acknowledged. The remembered Hime is not a present witness. |
+| **WY4-VIS10** | Kanoko’s tears, surprise at the embrace, and later accepted closeness are sequentially differentiated. i103–109. | Distinguishes initial contact from received comfort. No single expression determines a unique motive or retroactive consent. |
+| **WY4-VIS11** | Public ceremony and preceding-night confession alternate; uniform and background identify different times. i113–118. | Produces layered reader knowledge. The full Hime-referent confession belongs to the private scene; current faces do not make every remembered word public. |
+| **WY4-VIS12** | The remembered offer to be special leads into the cross and, across i117→i118, the public sister invitation. | Binds a private listening commitment to a public role. It also invites comparison with the earlier cross transfer without making the two formations morally identical. |
+| **WY4-VIS13** | Hime’s spontaneous involvement follows the new pair’s accepted embrace. i120–121. | Frames expanded connection as welcome from Hime’s limited viewpoint. It does not prove her informed assent to the concealed romantic account. |
+| **WY4-VIS14** | Summer clothing receives different reaction panels; Mitsuki’s work actions interrupt an appearance-centered sequence. i130–143. | Makes the gaze consequential while retaining the wearer as a working agent. Analysis should not reproduce the scene merely as an inventory of a teenager’s body. |
+| **WY4-VIS15** | Hime’s shielding position, the covering wrap, deflated reaction, correction, and later vest form successive practical arrangements. i141–150. | Protection can change into shame or into accommodation depending on whose account is heard. The final object is not proof that the earlier pressure was harmless. |
+| **WY4-VIS16** | The final private question and suggestive phrasing give way across i151→i152 to clarification and unequal reactions. | A page-turn joke preserves a real pragmatic mismatch without settling romance. The literal clarification must not be omitted. |
+| **WY4-VIS17** | The named former sister tea passes from stock, to remembered menu selection, to present brewing and a current face. Supplement i158–161. | Objects retain relational history after role dissolution; present care is possible without restoration. Exact current scene placement remains open. |
+| **WY4-VIS18** | Cover, chapter-title images, and the bonus offer paired compositions outside a securely dated event sequence. Cover, i060/i087/i126, i164/i168. | Framing can foreground attachment or anticipation. It does not establish an unseen pact, confession, or reconciliation. |
+
+V04 repeatedly uses **a change of witness** to change the meaning of an already visible act. Nene supplies the choosing person’s account of a remembered injury. Kanoko supplies the motive behind a completed vote. Mitsuki supplies the wearer’s pleasure behind another person’s embarrassment. These are not interchangeable corrections, but the formal pattern is consistent: what an observer can see is insufficient until the other participant’s account is allowed to matter. [VIS05/VIS06/VIS14–VIS16.]
+
+The cross and the tea also prevent a purely binary model of role and reality. The cross can formalize a loss, a chosen replacement, or a new commitment; the tea can remain after the former relation has ended. Neither object determines whether an attachment was genuine. They preserve the consequences of choices and make those consequences available to later memory and work. [VIS03/VIS12/VIS17.]

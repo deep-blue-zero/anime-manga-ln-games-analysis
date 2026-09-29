@@ -4,14 +4,14 @@ artifact_id: WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.4"
+version: "0.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118; Shifts 6.5, 11.5 and 16.5 separately bounded; V04–V14 inventory only"
+source_boundary: "Japanese V01–V04 mainline through V04 Shift 21/i152, also latest depicted present; Shifts 6.5, 11.5, 16.5 and 21.5 separately bounded; V04 EX promotional; V05–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY
 
 **Update and revision rule.** Update when choices or boundary/repair trajectory materially change. Do not close a rupture merely because an apology occurred. Link later behavior as a dated continuation and retain the earlier prospective assessment. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118. Packaged Shifts 6.5, 11.5 and 16.5 remain separately bounded. V01 and V02 sections preserve their earlier states; dated V03 additions carry the current account without overwriting either freeze. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V04 mainline through V04 Shift 21/i152, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5 and 21.5 remain separately bounded; V04 EX is promotional. V01–V03 sections retain their earlier states, including V03’s distinct reading/present endpoints; dated V04 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -105,3 +105,36 @@ Kanoko and Sumika both protect a valued place, but “both are controlling” is
 The earlier Hime offers a third configuration. She protects someone from a group by managing the account the group receives, even against that person’s confession. Yet she also opens a private conversation in which refusal and dislike can become speakable. A later model must therefore distinguish **creating room for a person’s actual view** from **deciding in advance which expression of that view will count**. The same character can do both in one episode. [AG11–AG14.]
 
 No V03 present-day rupture is marked repaired. A successful salon scene and a warm school memory are not evidence of such repair.
+
+
+<a id="v04"></a>
+## V04 — Current additions and transitions — 2026-09-29
+
+**V04 evidence key:** source-map key `V04`, Japanese witness `1ONYaEZH4rL7hBHw903cayWiq4KQmP077`, SHA-256 `78e42a9965ce06a850299dc6e384bb43ce1344b32e2c8fee18c50717acfe975b`. The [frozen V04 reading](../02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#agency) supplies full observations, context and image/spine conventions. Unprefixed iNNN, O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V04; WY1–WY3 identities retain their earlier meanings. Mainline and latest depicted present end at Shift 21/i152. EX/i154–157 is promotional; Shift 21.5/i158–161 contains current kitchen and earlier memory evidence with exact placement relative to the ending OPEN. Neither advances the mainline boundary.
+
+### Agency, boundaries, rupture, and repair
+
+Acts, options, recipients, and costs are recorded independently of how sympathetic the motive appears. A promise is not future compliance, and a successful scene is not universal validation of an intervention.
+
+| ID | Act and available alternatives | Boundary, cost, and outcome | Alternative / confidence / source |
+| --- | --- | --- | --- |
+| **WY4-AG01** | Kanoko withdraws from the bargain; Sumika proposes irreversible sister pacts rather than accepting uncertainty. | Refusal is explicit; rule remains proposed. | Loss-prevention motive does not prove permission to bind every pair. High; O01/i005–008. |
+| **WY4-AG02** | Saionji changes schedule and asks to choose Goeidō as sister; Sumika tries to accept. | One person’s chosen relation costs another access and a valued role. | Actual choice, not mere passive capture; complete motives remain bounded. High; O03/i018–025. |
+| **WY4-AG03** | Goeidō leaves with a stated work explanation. | New pair and salon arrangement are disrupted. | Do not adopt Sumika’s whole motive judgment as fact or infer Nene left the café. High for reported event, open motive; O04/i026–027. |
+| **WY4-AG04** | Kanoko writes/erases rather than confessing; Hime offers comfort without knowing the precise issue. | Concealment preserves access but leaves the love unacknowledged by its object. | No verbal demand for reciprocity; no proof of cost-free silence. High; O05/i033–034. |
+| **WY4-AG05** | Hime presses for explanation, then apologizes; Kanoko also apologizes for her outburst. | A limited interactional repair; disclosure remains incomplete. | Care and pressure coexist. High; O07/i044–049. |
+| **WY4-AG06** | Kanoko rejects Sumika’s reaching contact and asks to be left alone. | Immediate refusal is visible and must be preserved in later touch history. | Later comfort does not retroactively authorize this contact. High; O07/i050–051. |
+| **WY4-AG07** | Nene rejects prevention as the only kindness, maintains her own choice, and advises support. | A hurt person speaks against having pain used to cancel authorship. | This does not establish that all warnings or help are improper. High; O08/i055–057. |
+| **WY4-AG08** | Sumika acknowledges the wrong demand, allows refusal, briefly renews pressure, and corrects herself. | Apology begins but does not complete repair; Kanoko’s wishes finally become the operative question. | Uneven correction, not instant perfection. High; O10/i068–074. |
+| **WY4-AG09** | Kanoko waits voluntarily and proposes mutual noninterference. | A changed opportunity to negotiate; vote and conversation remain differently motivated. | The negative bargain is not yet full trust. High; O11/i076–078. |
+| **WY4-AG10** | Sumika releases Kanoko’s hand on request, qualifies her hypothesis, and offers to listen. | Particular refusal is respected; explanatory authority is limited. | Supports procedural change without making every later touch consensually prearranged. High; O12/i079–085. |
+| **WY4-AG11** | Kanoko discloses Hime’s façade and asks secrecy; Sumika promises it. | New confidentiality obligation includes information about an absent third person. | Useful intimacy and third-party privacy can coexist. High; O13/i092–093. |
+| **WY4-AG12** | Kanoko asks that Mitsuki’s love be stopped instead. | A request for interference, not an enacted prohibition. | Her own noninterference claim is not yet generalized consistently. High; O14/i095–100. |
+| **WY4-AG13** | Sumika embraces, acknowledges loneliness, and offers companionship; Kanoko accepts support and later names the love. | Repair has conduct and uptake, not apology alone. | Initial embrace is not preceded by a shown request; subsequent acceptance is scene-specific. High; O15/O16/i104–117. |
+| **WY4-AG14** | Sumika publicly invites sisterhood; Kanoko accepts with a noninterference condition. | New pact, known audience, later service follow-through. | Public pressure is present, but the private sequence and explicit condition prevent reducing acceptance to coercion alone. High; O17/O20/i118–120, i136–138. |
+| **WY4-AG15** | Sumika announces group continuity rather than the earlier no-dissolution proposal. | Different institutional commitment; no future enforcement case yet. | A wish to prevent loss can still pressure later exit. High for wording change; implementation open; O17/i122. |
+| **WY4-AG16** | Others propose clothing changes; Mitsuki states a preference and continues working; Hime later distinguishes personal discomfort from fault. | A wearer’s choice and vulnerability survive others’ gaze. | Neither forced concealment nor unrestricted observer comfort is automatically justified. High; O19–O22/i131–149. |
+| **WY4-AG17** | Hime proposes a vest, Mai supplies it, and Mitsuki likes it. | A practical accommodation supports continued work without requiring the shame interpretation. | One successful solution does not settle all future presentation choices. High; O23/i150. |
+| **WY4-AG18** | Nene prepares former sister tea and approaches the current group. | Possible support through ordinary work, after explicit rejection of controlling kindness. | Precise motive is not fully voiced; supplement chronology remains bounded. Moderate-to-high; O25/i158–161. |
+
+The volume’s central agency distinction is not **action versus doing nothing**. It is among commanding another’s feeling, changing institutional constraints, hearing a wish, declining a request, sharing a cost, and helping someone pursue a chosen arrangement. Sumika’s new promise is meaningful because it identifies something she can actually do. Kanoko’s new disclosure is meaningful because it is neither extracted as the price of care nor directed to Hime as an immediate demand for an answer. [AG08–AG14.]

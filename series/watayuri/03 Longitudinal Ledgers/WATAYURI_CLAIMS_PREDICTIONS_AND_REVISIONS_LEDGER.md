@@ -4,14 +4,14 @@ artifact_id: WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.4"
+version: "0.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118; Shifts 6.5, 11.5 and 16.5 separately bounded; V04–V14 inventory only"
+source_boundary: "Japanese V01–V04 mainline through V04 Shift 21/i152, also latest depicted present; Shifts 6.5, 11.5, 16.5 and 21.5 separately bounded; V04 EX promotional; V05–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CLAIMS_PREDICTI
 
 **Update and revision rule.** Add only after an actual reading. On new evidence, append a transition with old/new wording and exact downstream homes to reconcile; leave prediction OPEN until its stated test is met or explicitly revised. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118. Packaged Shifts 6.5, 11.5 and 16.5 remain separately bounded. V01 and V02 sections preserve their earlier states; dated V03 additions carry the current account without overwriting either freeze. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V04 mainline through V04 Shift 21/i152, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5 and 21.5 remain separately bounded; V04 EX is promotional. V01–V03 sections retain their earlier states, including V03’s distinct reading/present endpoints; dated V04 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -259,3 +259,128 @@ These are first formulated after the V03 boundary, before any V04 evidence. They
 | **WY3-PR04 — Kanoko’s non-Hime learning remains possible but condition-dependent** | In an actual interaction with someone other than Hime, concrete evidence or useful help can produce a limited revision even while her primary attachment remains unchanged. | A later comparable exchange shows her revising a specific judgment or accepting bounded cooperation for a source-supported reason, without requiring a wholesale personality conversion. | Comparable supported opportunities repeatedly fail because she explicitly rejects all such revision, requiring a narrower account; mere absence of an opportunity is not disconfirmation. |
 
 No forecast names a final couple, predicts the final Blumen winner, determines the series ending, or imports a later revelation. The first three concern unresolved relationships already made explicit; the fourth tests a bounded behavioral possibility observed in the book-checking episode rather than assuming that every conflict will resolve through friendship.
+
+
+<a id="v04"></a>
+## V04 — Current additions and transitions — 2026-09-29
+
+**V04 evidence key:** source-map key `V04`, Japanese witness `1ONYaEZH4rL7hBHw903cayWiq4KQmP077`, SHA-256 `78e42a9965ce06a850299dc6e384bb43ce1344b32e2c8fee18c50717acfe975b`. The [frozen V04 reading](../02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#claims) supplies full observations, context and image/spine conventions. Unprefixed iNNN, O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V04; WY1–WY3 identities retain their earlier meanings. Mainline and latest depicted present end at Shift 21/i152. EX/i154–157 is promotional; Shift 21.5/i158–161 contains current kitchen and earlier memory evidence with exact placement relative to the ending OPEN. Neither advances the mainline boundary.
+
+**Current forecast queue after V04:** WY1-PR04, WY2-PR01, WY2-PR04, WY3-PR02, WY4-PR01 and WY4-PR02 remain OPEN. WY3-PR01/PR03/PR04 receive bounded V04 support. Earlier tests and dated dispositions remain unchanged; the two summer-scene near-cases do not satisfy the narrower inherited tests.
+
+### Claims, explicit revisions, and counterreadings
+
+The entry boundary contains **47 claims**: fourteen WY1, fifteen WY2, and eighteen WY3. Their historical wording remains in the earlier freezes. The following are V04 current-view dispositions, not edits pretending that V04 knowledge was already available.
+
+#### The fourteen WY1 claims and fifteen WY2 claims
+
+| Inherited identity | V04 disposition | Evidence and downstream implication |
+| --- | --- | --- |
+| **WY1-C01; WY1-C08** — impression management, practical competence, and truthful limitation | **PRESERVE** the specific distinction and successful V01 adjustment; add later proficiency without claiming a new unfamiliar-task test. | Hime’s competent order-taking is follow-through, not a test of a newly admitted limitation. i141–143; readiness/agency; WY1-PR04 stays open. |
+| **WY1-C02; WY2-C06** — performance can carry real help and acknowledgment | **STRENGTHEN.** | The public pact carries an actual private commitment while leaving different observers differently informed. i110–120, i136–138; performance/speech. |
+| **WY1-C04; WY2-C15** — audience boundaries and uneven information | **STRENGTHEN.** | Apology without full object, private confession intercut with public formation, and rival readings of clothing produce specific knowledge differences. i068–074, i114–118, i147–152; information/visual. |
+| **WY1-C07** — Kanoko’s attachment classification | **STRENGTHEN the V03 current revision.** | The complete private clause naming Hime is now spoken to Sumika. This exceeds the earlier inference without establishing reciprocity or a sexual-identity self-label. i115–117; HK/SK/speech. |
+| **WY1-C10; WY2-C09** — reciprocal incomprehension and unequal meanings | **STRENGTHEN the evidence of unequal pragmatic understanding; retain romantic-category limits.** | Sincere correction and suggestive wording do not lead to identical comprehension. i147–152. Do not count this automatically as the full liking-category forecast test. |
+| **WY1-C12** — support without complete understanding in HK | **STRENGTHEN.** | Hime’s genuine care and approval of a new friend coexist with ignorance of the romantic account and Kanoko’s remaining exclusive expectations. i033–034, i044–049, i088–121. |
+| **WY1-C13; WY2-C12** — Sumika’s real but fallible mediation | **REVISE the current behavioral account.** | A specific prohibition produces distress; Nene’s criticism, apology, release, listening, and follow-through establish a new procedure. i050–057, i068–085, i104–120. Earlier intrusion is not excused. |
+| **WY2-C08** — local HM repair with limited follow-through | **STRENGTHEN bounded continuity, not permanence.** | They remain invested and can repair a new misunderstanding about shame and preference. A further linguistic mismatch survives. i141–152. |
+| **WY2-C10** — gallery alone did not explain origin, category, consent, or use | **REVISE the current coverage, preserving the original evidentiary caution.** | Kanoko’s account and explicit confession greatly clarify category and the cost of concealment. Archive-wide provenance and permissions remain unresolved. i088–117. |
+| **WY2-C11** — phone custody did not authorize gallery access | **PRESERVE; add a distinct later confidentiality promise.** | i092–093 creates a new obligation without retroactively licensing V02 access. Information/agency. |
+| **WY2-C13** — event mechanics and responses were prospective | **REVISE to completed contest and announced rule.** | Count, private disclosure, public result, and rule are now shown. i061–063, i110–122. The rule’s future enforcement is still open. |
+
+**Preserved without a new substantive alteration:** WY1-C03 retains the original pressured formation history; WY1-C05 retains the V02 revision establishing Mitsuki’s private investment; WY1-C06 retains the unresolved injury/fraud question; WY1-C09 retains its childhood and defensive-approval history; WY1-C11 retains the original identity-revelation boundary; WY1-C14 remains within its original supplement. WY2-C01–C05 retain the differentiated childhood, recognition, concern, and present-day shared-choice repair accounts; WY2-C07 retains the distinction among rehearsal, private repair, and reputational recovery; WY2-C14 remains childhood tea evidence. New analogous situations are not reasons to rewrite those historical claims. Together, the table and this preservation disposition cover all **29** pre-V03 claim identities.
+
+#### Disposition of the eighteen WY3 claims
+
+| Claim | V04 current-view transition | Evidence, limit, and routing |
+| --- | --- | --- |
+| **WY3-C01 — One contest, several private purposes** | **STRENGTHEN the mechanism; REVISE its unfinished state.** | Final totals and the strategic ballot motive are supplied, followed by a different announced rule. i063, i078, i122. |
+| **WY3-C02 — Strong romantic interpretation without mutual status** | **STRENGTHEN to an explicit private avowal in the established romantic context.** | Kanoko names Hime to Sumika; object and addressee remain different. i115–117. No reciprocal romance follows. |
+| **WY3-C03 — Unequal access to photos, romance, and confrontation** | **REVISE the distribution, not the principle.** | Sumika gains a fuller self-account; Hime sees repair and new friendship without the entire secret. i088–121. |
+| **WY3-C04 — Exclusive access can override Hime’s preference** | **STRENGTHEN for the ballot and redirected prohibition; qualify the exit’s new support capacity.** | i078 and i095–100 retain opposition to Mitsuki; i115–120 adds a non-Hime listener without erasing that earlier choice. |
+| **WY3-C05 — Genuine reading behind the bookish role** | **PRESERVE.** | No material new test of the reading practice. Do not fabricate an additional routine evidence event. |
+| **WY3-C06 — Accurate attraction inference did not justify the demanded remedy** | **STRENGTHEN and add a later correction.** | Nene contests the inference from pain to control; Sumika acknowledges the demand was wrong. i055–057, i068–085. |
+| **WY3-C07 — Protective project linked to incompletely known loss** | **REVISE the current historical account.** | Named former participants, choices, cross replacement, departure, Nene’s identity and self-account are supplied. i009–027, i055–057. Goeidō’s full motive remains open. |
+| **WY3-C08 — Different forms of protective control** | **REVISE toward a time-indexed contrast.** | Sumika shifts toward support; Kanoko briefly proposes applying prohibition to Mitsuki. Neither earlier act is erased by the final pact. i095–109. |
+| **WY3-C09 — Tactical public alliance was not trust or a pact** | **PRESERVE the V03 description; append a distinct new V04 pact.** | Actual formation at i118–120 follows private repair, rather than being retroactively assigned to i107–110 of V03. |
+| **WY3-C10 — Kanoko’s inhibition is conditional** | **STRENGTHEN.** | She refuses, chooses to wait, sets conditions, discloses, and accepts specific support. i074–086, i115–120. |
+| **WY3-C11 — Hime’s shared joy did not prove reciprocal romance** | **PRESERVE and add further positive continuation.** | Reciprocal ballots, work pleasure, concern, and correction extend the bond; i151–152 still leaves unequal comprehension. |
+| **WY3-C12 — Mixed school conditions rather than uniform malice** | **PRESERVE the earlier school analysis.** | The recalled communication lesson gains a new use, not a newly observed version of the original group incident. i101–103. |
+| **WY3-C13 — Damage, confession, and Hime’s overriding alibi** | **PRESERVE.** | No new evidence changes responsibility for the sign or the timing of the alibi. It is not a post-V02 recurrence. |
+| **WY3-C14 — Active performance can coexist with help and vulnerability** | **STRENGTHEN the general coexistence; preserve the specific school account.** | Hime’s new intervention can help and mislead until she distinguishes personal embarrassment from fault. i141–152. |
+| **WY3-C15 — Real historical specialness is not permanent exclusivity** | **STRENGTHEN the distinction.** | Hime welcomes another friend for Kanoko; Kanoko explains her fear of losing the exceptional category. i088–092, i121. The informed-disclosure forecast remains untriggered. |
+| **WY3-C16 — One permitted photo is not blanket permission** | **PRESERVE.** | No new archive-wide consent or source-provenance evidence appears. Later trust does not fill that gap. |
+| **WY3-C17 — Form distributes knowledge without shared disclosure** | **STRENGTHEN.** | The private/public confession braid is especially diagnostic. i114–118. |
+| **WY3-C18 — V03’s retrospective ending did not resolve its present conflict** | **PRESERVE the historical claim; append the later resolution stage.** | V04 resumes that present, then establishes a new pact. Its mainline/latest-present endpoint is i152. |
+
+#### Twenty new bounded claims
+
+| Claim ID | Formulation | Supporting observations / exact source | Confidence and counterevidence or limit |
+| --- | --- | --- | --- |
+| **WY4-C01** | Sumika’s remembered loss involves specific changes of access, schedule, explanation, sister choice, and departure; romance alone is not a sufficient description of its causality. | O02–O04; i009–027. | High for differentiation. The history remains substantially her situated account. |
+| **WY4-C02** | Nene’s hurt and Nene’s authorship of loving coexist; she rejects having the former used to cancel the latter. | O08; i055–057. | High for the expressed position; not a universal endorsement of every risky choice. |
+| **WY4-C03** | Nene’s former Saionji sister role ended, but her current kitchen presence and relation to Sumika continue; role loss is not total interpersonal or employment disappearance. | O08/O25; i055–057, S21.5/i158–161. | High. No restored pact or unspoken romance follows. |
+| **WY4-C04** | Kanoko’s refusal to confess does not make her prior contest and institutional interventions nonexistent. | O01/O04/O11/O14; i005–008, i029–032, i078, i095–100. | High. This does not justify controlling her feeling. |
+| **WY4-C05** | Hime’s care for Kanoko is genuine but incompletely informed; her pressure can be corrected without the hidden issue becoming fully disclosed. | O05/O07/O10; i033–034, i044–049, i067–074. | High. A local apology does not resolve every underlying disagreement. |
+| **WY4-C06** | The actual Blumen result establishes Sumika as combined winner and Mitsuki as guest-vote leader; Kanoko’s supporting ballot is not evidence of forgiveness without its later explanation. | O09/O11; i063, i078. | High, including directly checked arithmetic and attribution. |
+| **WY4-C07** | Sumika’s repair has procedural content—acknowledged error, a permitted refusal, released contact, admitted uncertainty, and listening—not merely a kinder description of the same prohibition. | O10/O12/O15; i068–085, i104–109. | High for local change; future consistency remains untested. |
+| **WY4-C08** | Kanoko’s trust grows partly because Sumika recognizes the love as real while becoming willing to hear its particular conditions. | O12/O13/O16; i084–094, i115–117. | High for Kanoko’s stated reason and response. Recognition does not excuse the earlier demand. |
+| **WY4-C09** | Hime’s alleged permanent inability to love is Kanoko’s other-person model, not an established narrator-level fact or identity label. | O13/O14; i086, i088–096. | High for attribution; the underlying generalization remains open. |
+| **WY4-C10** | Kanoko briefly tries to redirect Sumika’s prohibition toward Mitsuki, showing that her request for noninterference is not yet an evenly applied principle. | O14; i095–100. | High for the proposal. Sumika does not enact it in V04. |
+| **WY4-C11** | Kanoko explicitly avows love for Hime to Sumika in the private stairway scene; the intercut ceremony does not establish that Hime receives that full confession. | O16; i114–118. | High for complete clause and recipient; do not overresolve every free-standing repeated word in the montage. |
+| **WY4-C12** | Sumika’s attainable promise is not to determine the romantic outcome but to prevent Kanoko having to bear its pain entirely alone. | O15/O16; i104–117. | High. The promise is not yet validated across future crises. |
+| **WY4-C13** | The new SK sister pact is accepted with a noninterference condition and receives early work follow-through, without establishing reciprocal romance or erasing Kanoko’s Hime attachment. | O17/O20; i118–120, i136–138. | High for local pact and help; public setting and unequal skill remain relevant. |
+| **WY4-C14** | The announced rule replaces the earlier fixed-pair remedy with a collective wish for good relations and continued presence; its future enforcement and compatibility with departure remain open. | O01/O17; i007–008, i122. | High for wording and contrast, open for future operation. |
+| **WY4-C15** | Hime welcomes Kanoko’s additional friendship, which is counterevidence to automatic mutual exclusivity, but she does not do so after receiving the full proposal and romantic account. | O17; i120–121. | High. The original informed-response forecast remains open. |
+| **WY4-C16** | Mitsuki’s pleasure in the summer uniform differs from Hime’s gaze-conditioned interpretation; neither another’s embarrassment nor the comic framing proves deliberate provocation. | O18/O19/O21; i130–143. | High for represented different responses; full motive remains bounded. |
+| **WY4-C17** | The uniform repair improves when Hime separates her own discomfort from Mitsuki’s fault and a material accommodation is offered that Mitsuki likes. | O22/O23; i147–150. | High. This does not retrospectively justify every earlier intervention. |
+| **WY4-C18** | The final private exchange clarifies Hime’s literal envy while exposing a suggestive implication she fails to understand; practical repair and shared emotional comprehension are distinct. | O23; i151–152. | High for mismatch; not a mutually acknowledged romance. |
+| **WY4-C19** | The tea supplement preserves a discontinued sisterhood through stock, memory, and current care without establishing its restoration or a precise post-ending date. | O25; S21.5/i158–161. | High for source distinction; precise motive and placement remain partly open. |
+| **WY4-C20** | The collaboration, afterword, and paired illustrations illuminate framing and production but do not silently supply new mainline events or future relational outcomes. | O24/O26/O27; EX/i154–157, i162–168. | High for component classification; bounded comparative interpretation remains possible. |
+
+#### Counterreadings that remain analytically necessary
+
+**“Sumika’s earlier intervention was justified because it produced the new bond.”** The endpoint does not license the route retroactively. Kanoko cries under the original demand; Nene criticizes that demand; Sumika acknowledges it was wrong and changes her conduct. The new bond depends on correction, not on demonstrating that the initial prohibition was secretly the right method. [C02/C07/C08/C13.]
+
+**“Nene proves that love should always outrank everyone else.”** She claims her own earlier choice and rejects a particular controlling intervention. The source also preserves the costs to Sumika and the changed work relations. Authorship of a choice is not exemption from describing its consequences, just as consequences do not erase authorship. [C01–C03.]
+
+**“Kanoko is no longer possessive because she has Sumika.”** Her ballot motive and redirected prohibition occur within the same volume. She gains a listener without renouncing Hime as the object of love or fully revising the exclusivity model. The genuine change is an enlarged capacity to be supported, not an established disappearance of jealousy. [C04/C08/C10/C13.]
+
+**“The sister pact is merely another performance.”** It follows chosen conversation, explicit disclosure, accepted comfort, and a stated condition; subsequent service supplies initial follow-through. The performance has a real private basis. This does not make the bond romantic or remove the public pressures of its formation. [C11–C13.]
+
+**“Hime’s welcome settles the exclusivity conflict.”** Hime welcomes the new friend without knowing the complete conflict. Her response provides relevant evidence about her preference, but not the informed adjudication of a claim she has not heard. [C05/C15.]
+
+**“The summer chapter is only a joke and need not constrain the models.”** Its comic staging still depicts refusals, choices, shame, correction, work competence, and accepted accommodation. Those events are usable behavioral evidence. Conversely, an analysis that turns the chapter into a serious diagnosis of every gaze would overread the framing and understate its ambiguity. [C16–C18.]
+
+**“The final rule guarantees nobody can leave.”** The announced desire for continued presence is clear; a tested enforcement mechanism or an actual refusal to let someone depart is not shown. The remaining tension should become a future question, not an invented institutional outcome. [C14.]
+
+### Inherited forecast adjudication and new prospective tests
+
+#### The seven forecasts open at entry
+
+The entering capture preserves the original tests and their predecessor locations. The table applies those tests rather than replacing them with the easier claim that a later scene resembles the same theme. **SUPPORTED / STRENGTHEN** means bounded source support, not a universal law or a certified blind benchmark. Missing or insufficiently comparable opportunities remain open.
+
+| Forecast | Original test applied to V04 | Disposition |
+| --- | --- | --- |
+| **WY1-PR04 — Acknowledging a specific limitation improves a comparable unfamiliar work task** | Hime’s i142 order-taking shows proficiency in a familiar task. Kanoko’s admission at i138 concerns a different subject. Neither isolates the forecast’s Hime-specific unfamiliar-demand/clarification/outcome relationship. | **OPEN / NOT ADEQUATELY TESTED.** Preserve the useful follow-through as evidence without scoring a different test. |
+| **WY2-PR01 — A substantial discussion of the repaired pair’s connection requires distinguishing the kind or scope of liking** | The summer exchange clarifies Hime’s discomfort and literal envy, and exposes suggestive implications she misses. It is strong adjacent evidence of unequal pragmatic comprehension. It does not yet establish a substantial clarification of friendly, in-role, or more particular affection in the pair’s account of their connection. | **OPEN; relevant partial evidence.** The criterion does not require any particular identity label, but it does require the affection/connection distinction, not merely any ambiguous sentence. |
+| **WY2-PR04 — A new reputational threat tempts Hime toward unilateral protection despite V02’s correction** | Hime presses Kanoko and later redirects attention around Mitsuki before fully understanding the latter’s preference. These are relevant instances of unilateral care. However, the summer problem is represented substantially as personal embarrassment, appearance interpretation, and observer attention; a sufficiently clear new reputational-threat situation comparable to the original test is not isolated. | **OPEN; a near-case strengthens the broader behavioral concern without completing this narrower forecast.** Do not require an actual damaging rumor, but do not silently replace the specified reputational condition with any discomfort. |
+| **WY3-PR01 — The private bargain requires renegotiation** | Kanoko withdraws, Sumika proposes different terms, and their later conversation explicitly distinguishes noninterference, help, listening, and sisterhood. i005–008, i029–032, i076–085, i118–120. | **SUPPORTED / STRENGTHEN.** Actual refusal and new terms satisfy the original condition. |
+| **WY3-PR02 — Hime’s informed response will distinguish valuing Kanoko from surrendering another wanted bond** | Hime welcomes another friend at i121, but she has not been shown learning the actual abolition proposal or exclusive-friend claim. Her approval is relevant to the underlying model, not the specified informed-response event. | **OPEN / TRIGGER ABSENT.** Do not replace a missing disclosure with the analyst’s knowledge. |
+| **WY3-PR03 — Fuller Sumika history requires more specific causality than romance itself destroying the café** | Schedule, access, changing explanations, sister replacement, departure, and Nene’s assertion of her choice differentiate the earlier event. i009–027, i055–057. | **SUPPORTED / STRENGTHEN.** Full omniscience about Goeidō is unnecessary for this bounded differentiation; her unresolved motives remain marked. |
+| **WY3-PR04 — Kanoko can revise a non-Hime judgment or accept bounded cooperation for a supported reason** | She chooses to wait, accepts a released-contact/listening procedure, explains why recognition mattered, discloses, and accepts a conditioned sister pact while still loving Hime. i076–086, i104–120. | **SUPPORTED / STRENGTHEN.** The specific revision and its reason are shown without a wholesale personality conversion. |
+
+**V04 result:** three of the seven entering forecasts receive bounded support; four remain open. The already supported WY1-PR01/PR02/PR05 and WY2-PR02/PR03/PR05, together with WY1-PR03, retain their earlier dispositions. Their existence is not re-scored as seven additional V04 results.
+
+The two near-cases deserve retention rather than a forced success/failure. The uniform chapter materially informs both Hime’s protective behavior and the pair’s unequal comprehension. Keeping a narrower prediction open does not mean ignoring that evidence; it means distinguishing a useful model update from the exact event originally forecast.
+
+#### Two new V04 forecasts
+
+Only two new tests are added. The open questions about rule enforcement, Nene’s past, and Hime’s own romantic self-account remain questions rather than being turned into forecasts without a useful discriminating condition. These tests are formulated after the V04 boundary and before any V05 source inspection.
+
+| ID | Bounded forecast and rationale | Confirmation condition | Disconfirmation or revision condition |
+| --- | --- | --- | --- |
+| **WY4-PR01 — Support will require a limit when the requested help concerns a third person’s choice** | If Kanoko again seeks Sumika’s help in controlling Hime’s or Mitsuki’s attachment, the new support agreement will require distinguishing listening to Kanoko from securing the desired outcome for her. The noninterference condition and the unacted-on redirected prohibition leave that distinction unresolved. | A later actual request produces an explicit limit, question about whose choice is involved, or renegotiation of what support means, without treating Kanoko’s feeling itself as the forbidden act. | Sumika meaningfully proceeds on the premise that supporting Kanoko requires no such distinction, or reinstates a blanket prohibition as the settled terms; revise the new support model accordingly. An absent request leaves the test open. |
+| **WY4-PR02 — Kanoko may voluntarily use the new listener outside a public performance demand** | Given another consequential Hime-related distress that she cannot address directly to Hime, Kanoko is now more likely to approach or confide in Sumika than her earlier all-or-nothing outsider model would predict. This concerns a particular learned route, not generalized sociability. | A new private interaction shows voluntary disclosure or requested comfort with a specific Hime-related concern and a source-supported reason for trusting Sumika, rather than only compliance with the sister script. | A clear repudiation of this listening bond, or repeated comparable opportunities in which she explicitly rejects the newly acknowledged route, requires narrowing or rejecting the expectation. Mere absence of distress is not a failed prediction. |
+
+**Open queue after V04:** WY1-PR04; WY2-PR01; WY2-PR04; WY3-PR02; WY4-PR01; WY4-PR02. There are **six** open forecasts. No final couple, future contest, series endpoint, or eventual moral verdict is predicted.

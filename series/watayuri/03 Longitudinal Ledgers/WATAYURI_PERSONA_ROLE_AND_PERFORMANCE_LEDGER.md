@@ -4,14 +4,14 @@ artifact_id: WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.4"
+version: "0.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118; Shifts 6.5, 11.5 and 16.5 separately bounded; V04–V14 inventory only"
+source_boundary: "Japanese V01–V04 mainline through V04 Shift 21/i152, also latest depicted present; Shifts 6.5, 11.5, 16.5 and 21.5 separately bounded; V04 EX promotional; V05–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AN
 
 **Update and revision rule.** Update on a script change, explicit audience shift, recurring role/private leakage or consequential role-mediated change in relationship. Keep role adoption and private effect separately time-indexed. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118. Packaged Shifts 6.5, 11.5 and 16.5 remain separately bounded. V01 and V02 sections preserve their earlier states; dated V03 additions carry the current account without overwriting either freeze. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V04 mainline through V04 Shift 21/i152, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5 and 21.5 remain separately bounded; V04 EX is promotional. V01–V03 sections retain their earlier states, including V03’s distinct reading/present endpoints; dated V04 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -89,3 +89,29 @@ The central pattern is not that a performance is either sincere or false. A sing
 | **WY3-PER10 — Learning performance without losing its relational support** | Kanoko among classmates and with Hime afterward; supplemental period. | A more effective pleasant response becomes possible, but Kanoko attributes it to Hime’s presence and encouragement. | O25; S16.5/i158–161. Skill growth is not automatically emotional independence. |
 
 The volume supplies at least three different relations between performance and sincerity. Sumika’s book prop is grounded in a real interest. Her public electoral backstory deliberately conceals actual timing and purpose. Hime’s roof conversation exposes private strategy while also offering genuine trust. Treating all three as either “fake” or “authentic” would discard the distinctions the source makes available.
+
+
+<a id="v04"></a>
+## V04 — Current additions and transitions — 2026-09-29
+
+**V04 evidence key:** source-map key `V04`, Japanese witness `1ONYaEZH4rL7hBHw903cayWiq4KQmP077`, SHA-256 `78e42a9965ce06a850299dc6e384bb43ce1344b32e2c8fee18c50717acfe975b`. The [frozen V04 reading](../02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#performance) supplies full observations, context and image/spine conventions. Unprefixed iNNN, O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V04; WY1–WY3 identities retain their earlier meanings. Mainline and latest depicted present end at Shift 21/i152. EX/i154–157 is promotional; Shift 21.5/i158–161 contains current kitchen and earlier memory evidence with exact placement relative to the ending OPEN. Neither advances the mainline boundary.
+
+### Persona, role, and performance
+
+Performance is not a synonym for falsity. Each record identifies the actor, audience, script, and consequential relation to private conduct.
+
+| ID | Actor, setting, and script | Supported mechanism and effect | Limit / source |
+| --- | --- | --- | --- |
+| **WY4-PER01** | Goeidō approaching Saionji through salon instruction; coworkers and guests observe different aspects. | Practical requests provide permissible proximity; entertainment language can deflect a coworker’s concern. | Sumika’s recollection is involved testimony, not complete access to motive. O02/O03; i010–023. |
+| **WY4-PER02** | Earlier sister roles, crosses, and scheduling. | A fictional school bond has real effects on time, access, and the distribution of companionship; role replacement is an actual organizational act. | Neither café seniority nor cross possession defines every private feeling. O03; i018–025. |
+| **WY4-PER03** | Kanoko and Sumika responding to guests during private conflict. | Sumika’s plausible explanation sustains service while Kanoko remains distressed; public coherence does not certify private repair. | Help at work does not excuse the source of distress. O06; i041–043. |
+| **WY4-PER04** | Contest participants before private and public audiences. | One tally combines guest popularity, staff decisions, pair solidarity, opposition, and personal ambition. | Ballot result is not a transparent motive measure. O09/O11; i061–063, i078. |
+| **WY4-PER05** | Sumika apologizing backstage, with Hime present but incompletely informed. | Responsibility can be acknowledged without identifying the private romantic content to every listener. | Ambiguous acknowledgment creates limited shared knowledge, not complete disclosure. O10; i068–074. |
+| **WY4-PER06** | Sumika’s public victory address and sister invitation. | An in-role speech carries a private commitment to listening, while guests see a narrower emotionally persuasive scene. | The ceremony does not establish public knowledge of the stairway confession. O16/O17; i110–120. |
+| **WY4-PER07** | Kanoko as the newly accepted younger sister. | A role previously experienced as threatening can become a setting in which another person remembers her unfulfilled love. | It does not itself fulfill that love or establish a replacement romance. O17; i117–121. |
+| **WY4-PER08** | New sisters’ summer service. | Kanoko admits a performance limitation and Sumika offers practical scene support; adopted sisterhood has early work consequences. | Unequal skill and possible dependence remain. O20; i136–138. |
+| **WY4-PER09** | Mitsuki’s preferred uniform and Hime’s concern about its reception. | Shared costume means pleasing participation to Mitsuki and a difficult gaze/propriety problem to Hime; role dignity can become self-blame. | Neither interpretation is the sole objective meaning of the clothing. O18–O23; i130–152. |
+| **WY4-PER10** | Promotional guest and the familiar café school fiction. | The role provides respite and indirect care within the collaboration’s own story. | EX-only; not a new mainline psychological finding. O24; EX/i154–157. |
+| **WY4-PER11** | Former sister tea in present kitchen work. | A discontinued role survives in named stock, memory, and a new practical use. | Supplement-only, placement open; no restored pact. O25; 21.5/i158–161. |
+
+A recurring V04 contrast is between **using a role to make another person’s choice disappear** and **using it to support a choice that remains difficult**. The proposed no-dissolution rule leans toward the former. The accepted listener-sister relation leans toward the latter. The final collective rule retains enough continuity pressure that this distinction must remain a future test rather than a declaration that the institution has become unambiguously liberating. [PER02/PER06/PER07; i007–008, i117–122.]

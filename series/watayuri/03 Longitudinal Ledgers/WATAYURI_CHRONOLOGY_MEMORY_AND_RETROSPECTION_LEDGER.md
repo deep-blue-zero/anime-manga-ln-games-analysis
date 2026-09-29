@@ -4,14 +4,14 @@ artifact_id: WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.4"
+version: "0.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118; Shifts 6.5, 11.5 and 16.5 separately bounded; V04–V14 inventory only"
+source_boundary: "Japanese V01–V04 mainline through V04 Shift 21/i152, also latest depicted present; Shifts 6.5, 11.5, 16.5 and 21.5 separately bounded; V04 EX promotional; V05–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMO
 
 **Update and revision rule.** Append retrospective records that link to earlier event IDs; revise the mature ordering if warranted while preserving original VNN presentation and uncertainty. Mark apparent contradiction OPEN when order or witness cannot be settled. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V03 mainline through V03 Shift 16/i156; latest depicted present V03/16/i118. Packaged Shifts 6.5, 11.5 and 16.5 remain separately bounded. V01 and V02 sections preserve their earlier states; dated V03 additions carry the current account without overwriting either freeze. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V04 mainline through V04 Shift 21/i152, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5 and 21.5 remain separately bounded; V04 EX is promotional. V01–V03 sections retain their earlier states, including V03’s distinct reading/present endpoints; dated V04 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -88,3 +88,28 @@ These records separate the order of source disclosure from the order of events. 
 | **WY3-T08 — School supplement** | i158–161 follows replacement of the sign and the resulting class image within the earlier school period. | High for relation to the sign episode; not necessarily an exhaustively dated day. | Add supplementary follow-through, not a post-i118 resolution. O25. |
 
 **Two endpoints:** the reader has reached **V03/16/i156**, acquiring the friendship’s origin; the latest present-day action remains **V03/16/i118**, an unresolved refusal. The location of the final image in the book does not make it the latest event in the fictional chronology.
+
+
+<a id="v04"></a>
+## V04 — Current additions and transitions — 2026-09-29
+
+**V04 evidence key:** source-map key `V04`, Japanese witness `1ONYaEZH4rL7hBHw903cayWiq4KQmP077`, SHA-256 `78e42a9965ce06a850299dc6e384bb43ce1344b32e2c8fee18c50717acfe975b`. The [frozen V04 reading](../02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#chronology) supplies full observations, context and image/spine conventions. Unprefixed iNNN, O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V04; WY1–WY3 identities retain their earlier meanings. Mainline and latest depicted present end at Shift 21/i152. EX/i154–157 is promotional; Shift 21.5/i158–161 contains current kitchen and earlier memory evidence with exact placement relative to the ending OPEN. Neither advances the mainline boundary.
+
+### Chronology, memory, and retrospective knowledge
+
+Relative ordering is firmer than exact dates. Source presentation time and represented event time must be stored independently.
+
+| ID | Presentation and event class | Relative diegetic placement | Confidence and causal limit |
+| --- | --- | --- | --- |
+| **WY4-T01** | Shift 17/i005–008, present continuation. | Follows the V03/i118 refusal; V03’s school flashback did not move the present forward. | High; no invented intervening reconciliation. |
+| **WY4-T02** | Shift 17/i009–027, Sumika’s narrated/recalled history. | Earlier café group, Goeidō’s arrival, growing involvement, schedule change, sister replacement, then departure; before current Hime/Kanoko work. | High for depicted relative sequence; early couple timing is partly Sumika’s inference, and full motive remains uncertain. |
+| **WY4-T03** | Shift 17/i033–034, present private phone call. | After the conflict recounted in Shift 17, before the voting deadline sequence. | High relative placement; no sent confession. |
+| **WY4-T04** | Shift 18/i035–058, present work and kitchen conversation. | Deadline announced; conflict and Nene’s response; voting closes. | High; Nene’s advice is later than the old romance, not part of its original debate. |
+| **WY4-T05** | Shift 19/i061–074, private result and attempted apology. | After ballot closure; before the public victory announcement. | High; count knowledge must not be backdated into voting decisions. |
+| **WY4-T06** | Shift 19/i076–086 and Shift 20/i088–109, present stairway conversation. | Evening before the ceremony; voluntary negotiation develops into accepted comfort. | High. The school-uniform Hime at i101–102 is internal recalled imagery, not a current arrival. |
+| **WY4-T07** | Shift 20/i110–122, next-day ceremony with intercut prior-night speech at i114–117. | Public result and pact follow the stairway repair; the full Hime-directed-love statement belongs to the recalled private exchange. | High for overall temporal braid; isolated repeated wording should not be used to invent a full public confession. |
+| **WY4-T08** | Shift 21/i125–152, present summer-uniform sequence. | After the contest and SK formation; latest mainline present ends at i152. | High relative placement; no exact calendar date assigned. |
+| **WY4-T09** | Shift EX/i154–157, promotional encounter. | Mainline relation to the contest/summer sequence not established. | Separate lane; printed event dates do not date the manga’s present. |
+| **WY4-T10** | Shift 21.5/i158–161, current kitchen frame plus old tea-selection memory. | Memory during former Tachibana–Saionji sisterhood; kitchen frame after that role ended. Exact relation to V04/i152 remains open. | High for past/present distinction, open finer placement and full motive. |
+
+**Exit clocks:** the mainline reading endpoint and latest depicted mainline present now coincide at **V04/21/i152**. This differs from V03’s deliberately split endpoints. The change is a new V04 state, not a correction claiming that V03’s final school image already resolved its current confrontation.
