@@ -4,14 +4,14 @@ artifact_id: WATAYURI_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.6"
+version: "0.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V05 mainline through V05 Shift 26/i157; latest depicted present V05/26/i119; packaged half-chapters separately bounded, V05 Shift 26.5 historical; V04 EX promotional; V06–V14 inventory only"
+source_boundary: "Japanese V01–V06 mainline through V06 Shift 31/i154, also latest depicted present; packaged half-chapters separately bounded; V06 Shift 31.5 does not advance the endpoint; V07–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_JAPANESE_SPEECH
 
 **Update and revision rule.** Update when a feature recurs, switches under meaningful conditions or contradicts a working speech model. Preserve original wording/locator and distinguish observation from claim; cross-link performance when a script appears to condition register. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V05 mainline through V05 Shift 26/i157; latest depicted present V05/26/i119. Packaged Shifts 6.5, 11.5, 16.5, 21.5 and 26.5 remain separately bounded; V05 Shift 26.5 is historical and V04 EX promotional. V01–V04 sections retain their earlier states; dated V05 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V06 mainline through V06 Shift 31/i154, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5 and 31.5 remain separately bounded; V04 EX is promotional. V01–V05 sections retain their earlier states; dated V06 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -256,3 +256,42 @@ Hime’s register changes are likewise not a simple sincerity switch. Public pla
 #### A missing explanation is not always a missing feeling
 
 The school repair shows that Mitsuki’s difficulty can concern expressing the relation between a feeling and a response. She is not angry in the way the apologizing girl imagines, yet her initial acceptance is heard as anger. Once she states the fear and the wish for friendship, the interaction becomes more intelligible. This earlier success prevents treating the current gift failure as a permanent inability to explain herself. It also makes the missing explanation in the present more consequential: the source has shown a workable alternative, not an automatically available skill under every stress. [JP13; i149–153; compare i111–115.]
+
+
+<a id="v06"></a>
+## V06 — Current additions and transitions — 2026-09-29
+
+**V06 evidence key:** source-map key `V06`, Japanese witness `1GBzeKk1RJGUVz7WXHrh_1FDjs2sWO5BB`, SHA-256 `a184b645d200acbcd3c875d5d087728faabc3779c6501dcf0f92144b77b021b4`. The [frozen V06 reading](../02%20Sequential%20Readings/WATAYURI_V06_DEEP_READING.md#speech) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V06; WY1–WY5 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 31/i154. Shift 31.5/i156–161 is separately bounded restored-manager service with a visit-day recollection; i162–168 are edition paratext. Neither advances the mainline endpoint. The receiving review records the bounded absence-explanation and castless-work chronology corrections.
+
+### Written Japanese speech, address, and register
+
+Short forms below are included only where wording changes the analysis. They are manga text, not audio observations. The same word or address form can perform different work in different settings; no isolated line is treated as a complete idiolect.
+
+| Record | Speaker, addressee, and source setting | Minimal form / feature | Interpretation and limit |
+| --- | --- | --- | --- |
+| **WY6-JP01** | Mitsuki to Hime at the door, private sick visit | Infection concern qualified through ordinary **アンタ** address; i019–021 | Direct address is not sufficient evidence of hatred. The missing reason initially matters more than a timeless politeness ranking. |
+| **WY6-JP02** | Hime to Mitsuki in confrontation | **矢野**, personal-liking question, and withdrawal of the salon-lie allegation; i037–040 | Ordinary name marks the request’s personal addressee, but does not make every ordinary utterance fully candid or kind. |
+| **WY6-JP03** | Mitsuki to Hime, explicit self-disclosure | **一番**, **嫉妬**; i046–049 | Rank and jealousy become named desires. The words establish her account, not Hime’s obligation to supply the rank. |
+| **WY6-JP04** | Hime reading a private birthday letter | **綾小路お姉さま**, formal thanks; i065–072 | Café address carries a personal acknowledgment. Role naming does not automatically make the statement insincere. |
+| **WY6-JP05** | Hime to Mitsuki within the letter | **私の優しさを受け取ってください**, **助けさせてください**; i071 | Receiving kindness and allowing help specify the missing direction of participation. Not merely a demand for more praise. |
+| **WY6-JP06** | Hime responding to Mitsuki’s fear of her own feelings | **話してよ**, **嫉妬でもなんでも**; i075 | The invitation concerns speaking. It must not be paraphrased as unrestricted permission to act on any desire. |
+| **WY6-JP07** | Hime proposing repaired sisterhood | **お互い本音を伝え合うこと**; i079 | Reciprocity is built into the communication promise. The later concealment is a new tension against this term, not proof it was never offered. |
+| **WY6-JP08** | Mitsuki to Hime at departure | **好きよ**, **私はアンタのことが好き**; i085 | Explicit liking becomes private and personally directed. Semantic category still needs the subsequent act and interior account; Hime’s reciprocal category is absent. |
+| **WY6-JP09** | Mitsuki after the kiss | **本音**, **本当の「好き」**, **もう隠さないわ**; i088 | She presents the kiss as disclosure and resolve. The grammatical certainty of her statement does not establish shared permission or interpretation. |
+| **WY6-JP10** | Mitsuki privately after speaking with her father | **友だち** contrasted with **好きな人**; i095–096 | Strong directional romantic-category evidence. Father’s “friend” account remains narrower, and no identity label is supplied. |
+| **WY6-JP11** | Child Hime in remembered conversation | General approval distinguished from **恋愛**; i113–117 | Her present interlocutor’s desired meaning and her own stated distinction do not coincide automatically. Do not turn a childhood statement into lifelong incapacity. |
+| **WY6-JP12** | Hime after kiss, then before guests | Brief salon-return acknowledgment at i125; **お姉さま** and liking question at i146–150 | Similar language is not an unchanged inner state. The role register is now used amid visible uncertainty. |
+| **WY6-JP13** | Mai/Sumika to the girls in a backstage apology | Recovery and concealment named, followed by a direct request to work together; i134–137 | A factual confession and an invitation replace the hidden premise. Hime’s courteous minimization is her actual answer, not the forecasted trust challenge. |
+| **WY6-JP14** | Hime to the assembled staff | **訂正**, birthday-event exception, **辞めさせてもらいます**; i153–154 | Polite phrasing performs a consequential correction and announced departure. It is not proof of formal acceptance or completed separation. |
+
+#### “True feeling” is not a single solved variable
+
+**本音** changes function across the volume. Hime initially asks for the feeling behind role conduct; Mitsuki fears that revealing it will make her unlikable; the repaired promise invites mutual speech; the kiss is described by Mitsuki as an enactment of that same truth. The recurrence is analytically important because it makes the later gap more than a failure to utter a magic word. The participants may agree that truth should be shared while disagreeing about what is being disclosed, what response it asks for, and which acts can follow. [JP02–JP09.]
+
+The contrast between **友だち** and **好きな人** gives the analyst firmer grounds to classify Mitsuki’s attachment than expression alone. It does not automatically solve every instance of **好き** spoken by Hime. The method requires carrying the speaker and context with the word rather than assigning a single romantic meaning to every repetition. [JP08/JP10–JP12.]
+
+#### Register is relational and situational, not a moral scale
+
+Mitsuki’s ordinary address can accompany infection concern, awkward thanks, fear, jealousy, affection, or practical guidance. Hime’s polished sister language can carry genuine gratitude in the letter and later conceal unresolved discomfort before guests. More formal speech is therefore not necessarily less truthful, and rougher speech is not necessarily the privileged authentic self. What matters is the particular relation among wording, action, audience, and the knowledge available to the recipient. [JP01/JP04/JP12.]
+
+The final employment statement is similarly consequential despite its courtesy. Hime does not need to abandon her practiced presentation for the announced boundary to be real. But its composed form also limits what the other workers can infer about the underlying private problem. Public legibility of a decision is not complete legibility of its cause. [JP14; O24.]

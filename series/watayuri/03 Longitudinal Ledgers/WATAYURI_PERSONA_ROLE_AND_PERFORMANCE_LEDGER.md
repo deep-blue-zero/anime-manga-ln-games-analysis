@@ -4,14 +4,14 @@ artifact_id: WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.6"
+version: "0.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V05 mainline through V05 Shift 26/i157; latest depicted present V05/26/i119; packaged half-chapters separately bounded, V05 Shift 26.5 historical; V04 EX promotional; V06–V14 inventory only"
+source_boundary: "Japanese V01–V06 mainline through V06 Shift 31/i154, also latest depicted present; packaged half-chapters separately bounded; V06 Shift 31.5 does not advance the endpoint; V07–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AN
 
 **Update and revision rule.** Update on a script change, explicit audience shift, recurring role/private leakage or consequential role-mediated change in relationship. Keep role adoption and private effect separately time-indexed. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V05 mainline through V05 Shift 26/i157; latest depicted present V05/26/i119. Packaged Shifts 6.5, 11.5, 16.5, 21.5 and 26.5 remain separately bounded; V05 Shift 26.5 is historical and V04 EX promotional. V01–V04 sections retain their earlier states; dated V05 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V06 mainline through V06 Shift 31/i154, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5 and 31.5 remain separately bounded; V04 EX is promotional. V01–V05 sections retain their earlier states; dated V06 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -144,3 +144,31 @@ The role mechanism is not identical to the relationship it helps produce. These 
 The most important V05 amendment to a simple front/backstage model is that **private sincerity can be invested in a public role rather than located only outside it**. Mitsuki’s role is a project of self-formation. At the same time, the knowingly continued fracture presentation is not excused by that general account of performance. It changes a factual condition on which Hime’s employment understanding depends. Different kinds of performance require different questions: what interaction is being offered, what information is being hidden, and whose choice is affected? [PER07/PER09–PER11.]
 
 The volume also puts a limit on the ideal of perfect role execution. A senior who preserves the image of helping while refusing teachable reciprocal participation can impair both the work and the relation. Successful task division does not require discarding the fictional school; it requires refusing to mistake the fiction’s hierarchy for a permanent allocation of real capacity. [PER06/PER08; O10–O16.]
+
+
+<a id="v06"></a>
+## V06 — Current additions and transitions — 2026-09-29
+
+**V06 evidence key:** source-map key `V06`, Japanese witness `1GBzeKk1RJGUVz7WXHrh_1FDjs2sWO5BB`, SHA-256 `a184b645d200acbcd3c875d5d087728faabc3779c6501dcf0f92144b77b021b4`. The [frozen V06 reading](../02%20Sequential%20Readings/WATAYURI_V06_DEEP_READING.md#performance) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V06; WY1–WY5 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 31/i154. Shift 31.5/i156–161 is separately bounded restored-manager service with a visit-day recollection; i162–168 are edition paratext. Neither advances the mainline endpoint. The receiving review records the bounded absence-explanation and castless-work chronology corrections.
+
+### Persona, role, and performance increments
+
+These records preserve actor, setting, audience, script, leakage, and supported private effect. The public/private distinction remains useful only if it does not predetermine which side is sincere.
+
+| Record | Actor, setting, and audience | Mechanism and supported effect | Limit / source |
+| --- | --- | --- | --- |
+| **WY6-PER01** | Sumika interpreting Mitsuki to Hime | The performed older sister is explained as an intended self, changing Hime’s possible reading of prior help | General explanation is stronger than the offered complete motive for task refusal. O01; i005–008 |
+| **WY6-PER02** | Mai, backstage staffing and proposed visit | Sister duty legitimates a real visit and offers future salon-story material | Commercial usability does not make actual care nonexistent. O02; i010–016 |
+| **WY6-PER03** | Hime, arrival and sickroom | Usual approval confidence accompanies real provision of supplies and interruption of the patient’s hosting | Mixed motive; care does not erase pressure past requests to leave. O03; i017–024 |
+| **WY6-PER04** | Mitsuki, private confrontation | Failure of the kind role is treated as failure of a safe self; ordinary speech is feared, not automatically candid | Fear is explicit but does not decide the truth of the feared outcome. O05–O08; i031–060 |
+| **WY6-PER05** | Hime, birthday letter to café-named sister in a private room | Role address carries concrete gratitude and an authentic request to give help | Prepared form supports communication; not all prepared language is sincere by definition. O09; i065–072 |
+| **WY6-PER06** | Hime and Mitsuki, reconciliation | Kind Ayanokōji and jealous ordinary Mitsuki are included within one person; shared sisterhood is redefined through mutual candor | No claim that every desired or enacted behavior becomes acceptable. O10; i073–079 |
+| **WY6-PER07** | Child Hime and Mitsuki, closet game | Appearance-associated princess role is separated from performed prince/rescuer role | This is a remembered play episode, not a lifelong fixed identity or reciprocal romantic pact. O15; i111–114 |
+| **WY6-PER08** | Hime immediately after kiss; Mitsuki as recipient | Brief acknowledgment and a smile are read as encouragement within Mitsuki’s relief | Later evidence undermines a straightforward mutual-success reading. O17/O18; i125–131 |
+| **WY6-PER09** | Hime with Kanoko, then at work | Ordinary smiling denial and skilled service conceal an unresolved private disturbance | Exact inner motive remains underarticulated; not all cheerfulness elsewhere is false. O18/O21; i127–143 |
+| **WY6-PER10** | Mai and Sumika, shared backstage apology | Factual recovery concealment is acknowledged; gratitude becomes a direct employment request | Apology and informed choice are new acts, not retrospective permission for the deception. O19/O20; i133–138 |
+| **WY6-PER11** | Mitsuki and Hime before guests | Mitsuki’s sincere liking inhabits the sister register; Hime’s repeated question and bodily withdrawal serve a different purpose | Guests’ pleasing interpretation does not establish common private meaning. O21–O23; i140–151 |
+| **WY6-PER12** | Mai and Sumika before guests in S31.5 | Injury-related absence explanation, disciplinary teasing, and unnoticed service work support an immersive salon | The guest-facing explanation does not disclose the recovery concealment known to workers. O25/O26; i156–161 |
+| **WY6-PER13** | Hime, post-work staff meeting | Polite, composed correction announces a major withdrawal using true staffing facts | Calm delivery is not proof of no distress; exact private explanation is withheld. O24; i153–154 |
+
+The V06 development is not the abandonment of masks but a more demanding account of what a form can contain. The letter shows that role-address can make a personal statement possible. The kiss shows that an act sincerely expressing the self can exceed what another person agreed to. The Sunday salon shows that the same exchange can hold genuine liking for one person and protective or uncertain performance for the other. No single front/backstage rule can replace those separate observations. [PER05/PER06/PER09/PER11.]
