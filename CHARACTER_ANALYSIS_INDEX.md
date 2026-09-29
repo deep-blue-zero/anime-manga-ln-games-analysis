@@ -4060,6 +4060,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-character-ledger` — Mami Nanami longitudinal evidence ledger through V020](series/rent-a-girlfriend/04%20Character%20Analysis/Mami%20Nanami/RAG_MAMI_EVIDENCE_LEDGER.md)
 
+### Mamiya Kanoko
+
+- Entity ID: `watayuri:mamiya-kanoko`
+- Entity aliases:
+  - _None._
+
+#### Subject: Japanese manga
+
+- Analysis subject ID: `watayuri:mamiya-kanoko@manga`
+- Series: `watayuri`
+- Continuity: `watayuri-manga`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+- Reviewed current evidence:
+  - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
+
 ### Mari Otsu
 
 - Entity ID: `sayonara-lara:mari-otsu`
@@ -4171,6 +4191,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`aot-character-model-readiness-and-coverage-ledger` — AOT CHARACTER MODEL READINESS AND COVERAGE LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_CHARACTER_MODEL_READINESS_AND_COVERAGE_LEDGER.md) — **active provisional authority**
   - [`aot-japanese-voice-and-vocabulary-ledger` — AOT JAPANESE VOICE AND VOCABULARY LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_JAPANESE_VOICE_AND_VOCABULARY_LEDGER.md) — **active provisional authority**
   - [`aot-relationship-conditioned-behavior-ledger` — AOT RELATIONSHIP CONDITIONED BEHAVIOR LEDGER](series/attack-on-titan/03%20Checkpoints%20and%20Longitudinal%20Ledgers/AOT_RELATIONSHIP_CONDITIONED_BEHAVIOR_LEDGER.md) — **active provisional authority**
+
+### Mikoshiba Mai
+
+- Entity ID: `watayuri:mikoshiba-mai`
+- Entity aliases:
+  - _None._
+
+#### Subject: Japanese manga
+
+- Analysis subject ID: `watayuri:mikoshiba-mai@manga`
+- Series: `watayuri`
+- Continuity: `watayuri-manga`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+- Reviewed current evidence:
+  - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
 
 ### Mimimi
 
@@ -5968,6 +6008,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`idoly-pride-v2-char-saki-longitudinal-ledger` — IDOLY PRIDE V2 CHAR SAKI LONGITUDINAL LEDGER](series/idoly-pride/V2%20Analysis/02%20Source%20Audits%20and%20Longitudinal%20Ledgers/02.02%20Character%20Longitudinal%20Ledgers/IDOLY_PRIDE_V2_CHAR_SAKI_LONGITUDINAL_LEDGER.md)
 
+### Shiraki Hime
+
+- Entity ID: `watayuri:shiraki-hime`
+- Entity aliases:
+  - _None._
+
+#### Subject: Japanese manga
+
+- Analysis subject ID: `watayuri:shiraki-hime@manga`
+- Series: `watayuri`
+- Continuity: `watayuri-manga`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+- Reviewed current evidence:
+  - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
+
 ### Shiratori Tomoe
 
 - Entity ID: `tokyo-7th-sisters:shiratori-tomoe`
@@ -6277,6 +6337,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-scope`: LIGHT_NOVEL VOLUME: Japanese light-novel V01 and V08–V15 explicitly attributed learning, service, identity disclosure, relationships, work, boundaries, household negotiation and rescue.; continuity `light-novel`
 - Reviewed current evidence:
   - [`character-model` — Bounded character analysis through V15](series/mushoku-tensei/04%20Character%20Analysis/sylphiette/RECONSTRUCTION_MODEL.md)
+
+### Tachibana Sumika
+
+- Entity ID: `watayuri:tachibana-sumika`
+- Entity aliases:
+  - _None._
+
+#### Subject: Japanese manga
+
+- Analysis subject ID: `watayuri:tachibana-sumika@manga`
+- Series: `watayuri`
+- Continuity: `watayuri-manga`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+- Reviewed current evidence:
+  - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
 
 ### Tadokoro Megumi
 
@@ -6989,6 +7069,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `complete-original-novel-corpus`: LIGHT_NOVEL VOLUME: Dedicated reviewed synthesis across the ten main novels and five gaiden volumes in the supplied Japanese corpus; this does not claim coverage of anime, manga, or other adaptation incarnations.; continuity `legend-of-the-galactic-heroes-original-novels`
 - Reviewed current evidence:
   - [`dedicated-character-and-philosophy-monograph` — Dedicated Yang Wen-li character, philosophy, and democratic-restraint monograph](series/legend-of-the-galactic-heroes/04%20Specialist%20Synthesis/03_YANG_WENLI_CHARACTER_AND_PHILOSOPHY.md)
+
+### Yano Mitsuki
+
+- Entity ID: `watayuri:yano-mitsuki`
+- Entity aliases:
+  - _None._
+
+#### Subject: Japanese manga
+
+- Analysis subject ID: `watayuri:yano-mitsuki@manga`
+- Series: `watayuri`
+- Continuity: `watayuri-manga`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+- Reviewed current evidence:
+  - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
 
 ### Yaoyorozu Momo
 
