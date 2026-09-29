@@ -1,22 +1,24 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_reconstruction_specification
-scope: PROJECT_LOCAL_RECONSTRUCTION_DESIGN_AT_MAIN_V001_C002
+scope: PROJECT_LOCAL_RECONSTRUCTION_CONTRACT_AT_COMPLETE_480_UNIT_MAIN_SNAPSHOT
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
-source_boundary: "Method/specification only; no character capability is certified. Design basis: canonical Prologue plus MAIN_V001_C001 and MAIN_V001_C002 through BA:main:001:002:020; BA:main:002:001:001 and later main-story narrative remain unopened"
+source_boundary: "Method/specification only; no character capability is certified. Historical design basis: Prologue plus MAIN_V001_C001 and MAIN_V001_C002. Current admitted basis: all 480 canonical main units in electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, including V001 C003 E043 backfill and latest forward S2 V003 C001 E014; no unopened main unit within snapshot; side-source classes unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: 2026-09-25
-updated: 2026-09-25
+updated: 2026-09-28
 canonical_home: "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 governing_method: BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md
 governing_architecture: BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md
-current_checkpoint: MAIN_V001_C002
-next_unopened_main_unit: BA:main:002:001:001
+design_checkpoint: MAIN_V001_C002
+current_checkpoint: MAIN_V001_C003
+latest_forward_checkpoint: MAIN_S2_V003_C001
+next_unopened_main_unit: none_at_audited_snapshot
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -31,7 +33,9 @@ The target is not a personality summary and not unrestricted role-play. It is a 
 
 > Given this version of the character, with this knowledge, role, relationship, audience, pressure, and material constraint, which response families are well supported, which alternatives remain plausible, and where must the model abstain?
 
-This document creates the project-local contract only. It does not create a character reconstruction model, freeze a prospective prediction, assign a global capability grade, or inspect the next unopened story unit. The current evidence boundary is the canonical Prologue plus Chapters 1–2 of Volume 1 through `BA:main:001:002:020` and the canonical `MAIN_V001_C002` checkpoint. The recovered analytical basis is Git commit `533a7c7253f6cbea8616518abdc37076f604d3c5`; the audit records reconciliation with the previously published C001 design.
+This document defines the project-local contract; it does not certify a character capability. Its historical design basis was the canonical Prologue plus Chapters 1–2 of Volume 1 through `BA:main:001:002:020` and the canonical `MAIN_V001_C002` checkpoint. The recovered C002 analytical basis remains Git commit `533a7c7253f6cbea8616518abdc37076f604d3c5`; the audit preserves reconciliation with the previously published C001 design.
+
+The current admitted basis is all 480 canonical main units in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md), including the last completed `MAIN_V001_C003` backfill checkpoint and latest forward `MAIN_S2_V003_C001` checkpoint. No main unit remains unopened in that snapshot. Side-source classes remain unadmitted. The [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) owns current character/domain readiness and model-artifact status; the [bootstrap audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md) owns current pilot selection and its evidence gates. Completion does not make earlier-read main scenes eligible for a newly claimed prospective test.
 
 ## 1. Responsibility and authority boundary
 
@@ -272,7 +276,7 @@ Ordinary-life evidence is a first-class validation control. Seek, where the admi
 
 Missing ordinary evidence narrows readiness. Do not invent favorite foods, hobbies, domestic competence, money habits, romantic fluency, or relaxed conversation from costume, metadata, archetype, or one contextual line.
 
-At the current Chapter 2 boundary, Serika's work/ramen/money routine and the Problem Solver 68 restaurant/scarcity material are especially valuable but remain narrow samples. They do not make any subject whole-person ready.
+At the historical Chapter 2 design boundary, Serika's work/ramen/money routine and the Problem Solver 68 restaurant/scarcity material were especially valuable but narrow samples. They do not make any subject whole-person ready.
 
 ## 10. Written Japanese and performed voice
 
@@ -295,7 +299,7 @@ Generated Japanese must be labeled illustrative. It is never a recovered line an
 
 ### 11.1 Main story
 
-Main story remains the sequential literary spine. New main units enter prospectively under the no-hindsight gate. Reconstruction deltas are recorded only after the literary reading has established source meaning.
+Main story remains the sequential literary spine. All 480 main units in the current snapshot have been read. New main units enter only after source/release reconciliation and under the declared no-hindsight and prior-exposure boundary. Reconstruction deltas are recorded only after the literary reading has established source meaning.
 
 ### 11.2 Group and event stories
 
@@ -591,9 +595,25 @@ Do not create the directory or model merely to complete a roster. Every model mu
 
 A mature literary monograph must explain the character's development, causal/narrative function, contradictions, relationships, language, and interpretive disputes. It may summarize an accepted operational mechanism and link rule IDs, but it must not maintain a competing rule set. The reconstruction model may consume accepted literary authority; it may not dictate literary conclusions through hypothetical output.
 
-## 19. Current Chapter 2 bootstrap gate
+## 19. Current bootstrap gate and preserved Chapter 2 design
 
-At the current boundary:
+At the complete 480-unit main-story boundary:
+
+- use the [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) for the current subject census, domain readiness, model-artifact state, and supporting routes;
+- use the [bootstrap audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md) for the refreshed readiness judgment and any evidence-bounded pilot selection; a partial mechanism is not a completed standalone model;
+- select the represented character state and appropriate chapter authority explicitly; the last-read V001 C003 backfill and latest forward Part 2 checkpoint serve different chronology and retrieval roles;
+- keep group, event, bond, MomoTalk, mini, character-data, and performed-voice evidence outside model claims until the relevant source-admission gate passes;
+- require the construction, artifact, counterevidence, and abstention contracts in §§15–18 before any model promotion or scenario use;
+- record tests on already-read main material as retrospective; any future prospective register must precede genuinely unexposed diagnostic evidence and document prior exposure;
+- recheck provenance and release status before extending the main corpus; there is no next unopened main unit in the audited snapshot.
+
+This status reconciliation creates no model or validation record. The refreshed audit determines whether a bounded pilot is supported and what evidence limits it must retain.
+
+<a id="19-current-chapter-2-bootstrap-gate"></a>
+
+### 19.1 Historical Chapter 2 bootstrap gate — 2026-09-25
+
+The following statements preserve the design gate as evaluated at C002. Their unopened-unit and future-run instructions are historical and do not describe current coverage:
 
 - the Prologue, `MAIN_V001_C001`, and `MAIN_V001_C002` checkpoints are the complete admitted main-story basis;
 - all seven ledgers are current through `BA:main:001:002:020` and the C002 checkpoint; read their checkpoint reconciliation and cumulative deltas rather than treating older opening tables as the latest state;
@@ -604,7 +624,7 @@ At the current boundary:
 - `BA:main:002:001:001` remains unopened; a new story instruction is required, and any intended prospective test must be committed before its diagnostic source is opened;
 - the forthcoming Chapters 3–8 run uses the analytical method's checkpoint reconstruction-delta contract; chapter labels are workflow planning, not an invented chronological remapping of the crosswalk.
 
-The correct present outcome is architecture and evidence triage, not a premature prototype.
+At that historical boundary, the adopted outcome was architecture and evidence triage without a prototype.
 
 ## 20. Governing references and adopted precedents
 
@@ -622,4 +642,4 @@ The project does not import those projects' filenames, tiers, source assumptions
 
 ## 21. Revision and architecture review
 
-Version 1.1 reconciles the recovered C002 boundary with the published C001 design in place. Revise this architecture if recurring evidence lacks a canonical owner; event/variant chronology cannot be represented without leakage; direction or choice conditions are repeatedly lost; models need competing live rules; validation cannot recover its freeze; or the current coverage router disguises domain failures. First repair the existing owner, schema, or routing contract. Add a separate ledger or specialist only for an independent recurring responsibility. Record the reason, version, affected dependencies, and required revalidation in the bootstrap or later scoped audit and current map. Source-admission decisions remain separate from architecture revision.
+Version 1.1 reconciled the recovered C002 boundary with the published C001 design in place. Version 1.2 reconciles the live source and production boundary with all 480 main units while retaining that earlier design, its source exclusions, and prospective exposure discipline as history. It routes present readiness and pilot decisions through their existing owners without changing the model, validation, or promotion contracts. Revise this architecture if recurring evidence lacks a canonical owner; event/variant chronology cannot be represented without leakage; direction or choice conditions are repeatedly lost; models need competing live rules; validation cannot recover its freeze; or the current coverage router disguises domain failures. First repair the existing owner, schema, or routing contract. Add a separate ledger or specialist only for an independent recurring responsibility. Record the reason, version, affected dependencies, and required revalidation in the bootstrap or later scoped audit and current map. Source-admission decisions remain separate from architecture revision.
