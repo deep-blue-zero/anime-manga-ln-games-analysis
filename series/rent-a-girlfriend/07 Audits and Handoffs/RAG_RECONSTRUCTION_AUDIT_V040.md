@@ -4,14 +4,14 @@ artifact_id: RAG_RECONSTRUCTION_AUDIT_V040
 artifact_type: local_reconstruction_audit
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-27"
 source_boundary: "Project-local audit of six character models through Japanese manga V040; V041+ narrative evidence excluded."
-frozen_model_commit: "e59dcb823843459ebe2f6e384da61a48de0e4273"
+frozen_model_commit: "136e0b788620d4f683ef9fffa711c5137327b1cf"
 original_frozen_model_commit: "d82009abdb02a032842ee9e7452495829102be01"
 state_reconciliation_base_commit: "734e4f7594db0cc87261444e72380494b2315d15"
 state_reconciled: "2026-09-30"
@@ -25,7 +25,7 @@ state_reconciled: "2026-09-30"
 audit_state: COMPLETE
 checkpoint: RAG_CP_V040
 checkpoint_endpoint: V040
-frozen_model_commit: e59dcb823843459ebe2f6e384da61a48de0e4273
+frozen_model_commit: 136e0b788620d4f683ef9fffa711c5137327b1cf
 original_frozen_model_commit: d82009abdb02a032842ee9e7452495829102be01
 state_reconciliation: RETROSPECTIVE_SERIALIZATION_OF_EXISTING_EVIDENCE
 active_substantial_characters:
@@ -42,17 +42,17 @@ numeric_accuracy_score: NOT_PRODUCED
 
 This audit tests the six exact model files at the repaired snapshot commit against existing V031-V040 evidence, time-indexed information states, rule boundaries and the prospectively frozen next-volume predictions in the claims ledger. The predictions are broad story-horizon tests, not necessarily unique derivations from a character model; a rule written after an event is checked retrospectively and labeled as such. The original audit's analyst inspected the source and updated the models, so this is neither blind evaluation nor an independent generation trial. Success means a model discriminates between observed action and plausible but unverified motive within a named domain. Dialogue generation and invented scenes do not supply evidence.
 
-The original frozen commit is retained above for provenance: it did not define KAZ-S040, CHI-S040, MAM-S014 or MIN-S015. Rechecking main at the reconciliation base confirmed that omission remained live after PR #109. The repaired model commit adds KAZ-S034 through KAZ-S040, CHI-S034 through CHI-S040, MAM-S013 through MAM-S014 and MIN-S010 through MIN-S015 from the existing readings, character evidence and local-validation accounts. These are retrospectively serialized cumulative snapshots at explicit closing locators, not new prospective predictions or a fresh source-inspection trial. Earlier state definitions are preserved except for closing their formerly open intervals; model revisions and narrative boundary metadata are synchronized. The six exact files, versions and state definitions below are recoverable at the repaired commit. All domain results, tests, prediction dispositions, abstentions and readiness declarations remain unchanged. MAM-S014 is carried forward from the last direct V039 evidence; V040 absence does not create a new Mami action. MIN-S015 records only encouragement and rain at the departure boundary, not knowledge of the principals' private resolve or later date events.
+The original frozen commit is retained above for provenance: it did not define KAZ-S040, CHI-S040, MAM-S014 or MIN-S015. Rechecking main at the reconciliation base confirmed that omission remained live after PR #109. The repaired model commit adds KAZ-S034 through KAZ-S040, CHI-S034 through CHI-S040, MAM-S013 through MAM-S014 and MIN-S010 through MIN-S015 from the existing readings, character evidence and local-validation accounts. These are retrospectively serialized cumulative snapshots at explicit closing locators, not new prospective predictions or a fresh source-inspection trial. State IDs and evidence ownership follow the unchanged character ledgers. Where a state spans several volumes, dated within-state snapshots distinguish earlier configurations from the top-level configuration at its explicitly named knowledge boundary. Earlier state definitions are preserved except for closing their formerly open intervals; model revisions and narrative boundary metadata are synchronized. The six exact files, versions and state definitions below are recoverable at the repaired commit. All domain results, tests, prediction dispositions, abstentions and readiness declarations remain unchanged. MAM-S014 is carried forward from the last direct V039 evidence; V040 absence does not create a new Mami action. MIN-S015 preserves V037 coaching with a V040 encouragement/rain retention check; its dated snapshots do not grant knowledge of the principals' private resolve or later date events.
 
 ## Frozen model snapshots and domain results
 
 | Subject / exact V040 model | State and readiness | Supported domain at close | Central abstention |
 |---|---|---|---|
-| Kazuya, `RAG_KAZUYA_RECONSTRUCTION_MODEL.md` v1.42 | KAZ-S040; OPERATIONAL_CANDIDATE | Care under practical constraints, anxiety around evaluation, direct clarification when pressed, and audience-specific concealment. | Mature honesty across audiences, completed date, informed Ruka separation, mutual partnership. |
-| Chizuru, `RAG_CHIZURU_RECONSTRUCTION_MODEL.md` v1.42 | CHI-S040; OPERATIONAL_CANDIDATE | Self-authored inquiry, ordinary-date terms, chosen local access, acting/family orientation and awareness of a third party. | Final love classification, Umi answer, May 18 residence decision, long-term work outcome. |
+| Kazuya, `RAG_KAZUYA_RECONSTRUCTION_MODEL.md` v1.43 | KAZ-S040; OPERATIONAL_CANDIDATE | Care under practical constraints, anxiety around evaluation, direct clarification when pressed, and audience-specific concealment. | Mature honesty across audiences, completed date, informed Ruka separation, mutual partnership. |
+| Chizuru, `RAG_CHIZURU_RECONSTRUCTION_MODEL.md` v1.43 | CHI-S040; OPERATIONAL_CANDIDATE | Self-authored inquiry, ordinary-date terms, chosen local access, acting/family orientation and awareness of a third party. | Final love classification, Umi answer, May 18 residence decision, long-term work outcome. |
 | Ruka, `RAG_RUKA_RECONSTRUCTION_MODEL.md` v1.28 | RUK-S025; PARTIAL_MODEL | Continued attachment, bid for inclusion and practical help under partial move disclosure. | Response to cohabitation/date truth, accountable correction of fabrication, accepted separation. |
-| Mami, `RAG_MAMI_RECONSTRUCTION_MODEL.md` v1.10 | MAM-S014; PARTIAL_MODEL | Observation and direct status probing after earlier family and public channels. | Motive, Hakuba relation beyond her denial, and any immediate follow-up; V040 absence is a failed horizon. |
-| Mini, `RAG_MINI_RECONSTRUCTION_MODEL.md` v1.13 | MIN-S015; PARTIAL_MODEL | Date advice and practical prompting within a shared household. | Reliable romantic diagnosis, permission discipline under a firm stop, independent creator life. |
+| Mami, `RAG_MAMI_RECONSTRUCTION_MODEL.md` v1.11 | MAM-S014; PARTIAL_MODEL | Observation and direct status probing after earlier family and public channels. | Motive, Hakuba relation beyond her denial, and any immediate follow-up; V040 absence is a failed horizon. |
+| Mini, `RAG_MINI_RECONSTRUCTION_MODEL.md` v1.14 | MIN-S015; PARTIAL_MODEL | Date advice and practical prompting within a shared household. | Reliable romantic diagnosis, permission discipline under a firm stop, independent creator life. |
 | Sumi, `RAG_SUMI_RECONSTRUCTION_MODEL.md` v1.3 | SUM-S007; PARTIAL_MODEL | One-to-one care and listening that permit Chizuru's own uncertainty to remain hers. | Broad spontaneous conflict, independent work competence and romantic reception. |
 
 ## Kazuya Kinoshita — concrete follow-through with a retained truth debt
