@@ -1,27 +1,37 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: character_reconstruction_bootstrap_audit
-scope: PROLOGUE_PLUS_MAIN_V001_C001_C002
+scope: ALL_480_CANONICAL_MAIN_UNITS_READINESS_REFRESH_WITH_HISTORICAL_C002_AUDIT
 generation: V1
-version: "1.1"
+version: "1.3"
 status: canonical
-source_boundary: "Architecture and evidence-readiness audit at the recovered canonical MAIN_V001_C002 checkpoint; BA:main:002:001:001 and all later main-story narrative remain unopened"
+source_boundary: "Admitted analytical corpus for all 480 canonical main units at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, preserving historical per-reading witnesses; latest forward MAIN_S2_V003_C001 E014 and completed MAIN_V001_C003 E043 backfill; side sources unreviewed"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-09-25
-updated: 2026-09-25
-audited_repository_basis: 533a7c7253f6cbea8616518abdc37076f604d3c5
-reconciled_main_basis: d18678270a112d6d673a8a0ee7768125f8be741a
-published_architecture_basis: 5b0001583b02b3628a2b052a3c64d6b56ba6ac01
-current_checkpoint: MAIN_V001_C002
-next_unopened_main_unit: BA:main:002:001:001
+updated: 2026-09-28
+audited_repository_basis: 873243a7ad6e8780945edc3ff97c32107fbf1c1b
+historical_c002_audit_basis: 533a7c7253f6cbea8616518abdc37076f604d3c5
+historical_c002_reconciled_main_basis: d18678270a112d6d673a8a0ee7768125f8be741a
+historical_published_architecture_basis: 5b0001583b02b3628a2b052a3c64d6b56ba6ac01
+current_checkpoint: MAIN_V001_C003
+latest_forward_checkpoint: MAIN_S2_V003_C001
+next_unopened_main_unit: none_at_audited_snapshot
 audit_disposition: PASS_WITH_EXPLICIT_DEFERRALS
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
 
 # BLUE ARCHIVE CHARACTER RECONSTRUCTION BOOTSTRAP AUDIT
-## Architecture sufficiency, evidence readiness, pilot selection, and no-next-story gate
+## Architecture sufficiency, evidence readiness, pilot selection, and source-admission gates
+
+## Current disposition — 2026-09-28
+
+**`PASS_WITH_EXPLICIT_DEFERRALS`: the architecture can govern contextualization and a bounded pilot design; operational capability remains unestablished.** The admitted corpus now covers **480 / 480** canonical main units in the documented snapshot. The coverage index records **21 `PARTIAL_MODEL` / 331 `UNMODELED` across 352 subjects**, zero `OPERATIONAL_CANDIDATE`, zero `BOUNDED_VALIDATED`, and no standalone model or committed prediction register. These are project-local readiness states, not a claim that 331 subjects lack useful literary evidence.
+
+The current evidence assessment, revised pilot choices, validation limits and next eligible operation are in **§§21–28**. No new side source or later main-story dialogue is admitted by this refresh. The last analyzed backfill unit is `BA:main:001:003:043`; the latest forward released unit in the locked snapshot is `BA:main:series2:003:001:014`. Neither is an unopened diagnostic holdout.
+
+> **Historical audit record — §§0–20, assessed 2026-09-25 at 42 / 310.** The following earlier executive disposition, recovery receipt, subject counts, pilot priorities, next-unit language and publication instructions describe the C002 bootstrap only. They remain intact as analytical and implementation history. They do not override the current boundary or decisions in §§21–28.
 
 ## 0. Executive disposition
 
@@ -411,3 +421,100 @@ Revise the architecture when recurring material has no independent owner, chrono
 This audit's `PASS_WITH_EXPLICIT_DEFERRALS` is semantic architecture acceptance, not a GitHub integration status or a character-capability certification. The six maintained architecture/routing artifacts are amended from complete verified before-images; no model, monograph, prediction register, empty directory, global grade, capability record, or character-registry edit is authored. Historical C002 readings/checkpoint, seven ledgers, and crosswalk are imported intact from the recovered commit.
 
 Before publication, the exact staged candidate must pass stable-series author preflight, whitespace checks, link/authority checks, full scoped diff review and preservation comparison. After the non-forced push, verify remote commit/tree/files and await source audit, completed housekeeping and `Repository integration audit` on the exact final head. Those external results certify their own SHA; this audit intentionally does not guess its future commit or treat an earlier green run as certification of a later head.
+
+## 21. Current snapshot, inputs and review scope
+
+This refresh is a readiness audit of existing analytical materials, not another 480-unit source pass. Its input repository basis is `873243a7ad6e8780945edc3ff97c32107fbf1c1b`, which reconciles the already published main-story tranche with current repository history. No new source generation is inferred from that Git reconciliation. The earlier maintenance tranche aligned analytical method v1.3, synthesis architecture v1.3 and reconstruction specification v1.2 with the completed boundary. The current contextualization-controls pass advances the synthesis architecture to v1.4 while retaining those behavioral, source-admission and validation contracts. The coverage index advanced to v5.57 in the earlier refresh; this audit now includes the v1.3 controls follow-through.
+
+The [source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) owns the change from the historical 310-unit V1 inventory to the audited 480-unit DB inventory at `a038020f1f5ac02dcfe76962426d38f86414cdd8`. All 310 shared story IDs remain, 170 were added, and the 43 V001 C003 units were explicitly backfilled. Completed V1 readings retain their `cbe3fd6...` witness; an inventory refresh does not silently rebase their wording. The [main crosswalk](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv) contains 480 rows with completed reading routes and no pending main unit. Its historical `active_provisional` reading labels do not mean those units are unread; canonical chapter checkpoints supply their synthesis authority.
+
+The current [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) was checked for its complete subject/status census and source-class boundary, with substantive review focused on the candidate mechanisms, historical aggregate statements and later material that can overturn the bootstrap's pilot advice. This is not a fresh adjudication of every domain cell for all 352 subjects. The following admitted checkpoints supply the material comparisons:
+
+| Input | Use in this readiness refresh |
+|---|---|
+| [V001 C003](../02%20Sequential%20Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md), §§1–3 | Hoshino/Yume history and grief; Ayane's internal governance; Nonomi's corporate/family conflict; local/counterpart Shiroko separation; ordinary return and current full coverage. |
+| [V002 C001](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md), §§4–9; [V002 C002](../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md), §§2–9 | The five later partial mechanisms; game-making/play, voluntary membership, institutional exceptions, criticism, coercion, chosen identity and ordinary return. |
+| [V003 C004](../02%20Sequential%20Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md), §§2–6; [V006 C003](../02%20Sequential%20Readings/MAIN/VOLUME_006/BLUE_ARCHIVE_MAIN_V006_C003_CHECKPOINT.md), §§1–4 | Rescue and forgiveness followed by later parole, study and provisional governance. Earlier unresolved legal/aftercare questions cannot be copied as timeless absence. |
+| [V100 C004](../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md), §§1–3 | Multiple identity/state distinctions: Arona/Plana, local/alternate Shiroko, Alice/ambiguous `Kei.sav`; coalition return versus unprinted mechanisms. |
+| [S2 V002 C002](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_CHECKPOINT.md), §§1–3 | Hina's conduct under coercion, public responsibility, private self-reproach and uncompleted restitution; protective authority is not a context-free rule. |
+| [S2 V003 C001](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md), §§1–3 | Care, taboo, ordinary shipboard life, Minato's changing decision, grief, and the latest forward boundary. |
+
+Selected corresponding deltas in all seven ledgers were checked, especially `S2 V002 C002 E019–E021` and `V001 C003 E041–E043`. They preserve the separation among state, directed relationships, institution, Sensei choice/ethics, written wording, motif and claim revision. Earlier audit evidence remains available through §§2–18. Load-bearing new model rules must still return through the complete source-facing reading to the canonical Japanese unit under reconstruction specification §17; this audit has not performed that model-construction step.
+
+## 22. Current readiness census and its meaning
+
+| Readiness | Subjects | Standalone artifacts | Current disposition |
+|---|---:|---|---|
+| `PARTIAL_MODEL` | 21 | `NONE` | Retain distributed, conditional mechanisms with explicit state/domain restrictions. |
+| `UNMODELED` | 331 | `NONE` | Retain routed evidence without claiming an admitted scenario mechanism. Some have substantial literary coverage and warrant later focused reassessment. |
+| `OPERATIONAL_CANDIDATE` | 0 | `NONE` | No reviewed operational rule set and scenario contract. |
+| `BOUNDED_VALIDATED` | 0 | `NONE` | No named model/rule envelope with preserved fair validation. |
+
+The 21 partial subjects are Sensei; Ayane, Shiroko, Nonomi, Serika and Hoshino; Aru, Mutsuki, Kayoko and Haruka; Hifumi, Ako and Hina; Black Suit, the Kaiser director and Shiba Seki master as bounded role actors; and Momoi, Midori, Alice / `AL-1S`, Yuzu and Yuuka. The original sixteen-subject C002 basis in §3 is historical. The five Millennium promotions were explicitly made at V002 C001 checkpoint §8 and qualified at V002 C002 checkpoint §8.
+
+**Readiness transition in this refresh: `NO MATERIAL READINESS CHANGE` at the label level; material state and transfer limits are revised below.** Neither 480 complete readings nor a large H/M/L coverage cell is an operational model. Conversely, `UNMODELED` is not a finding of inadequate personhood, unimportant narrative function or universal evidence insufficiency. Saori, Atsuko, Subaru and Minato, for example, now have sustained decision and aftermath material in the cited checkpoints, but that has not yet been compiled and accepted as a source-verified, domain-specific scenario mechanism. The old six-person unmodeled list no longer describes the project.
+
+## 23. Material changes to the bootstrap's evidence assumptions
+
+| Historical assumption or tempting rule | Current admitted evidence | Readiness consequence |
+|---|---|---|
+| Hoshino has a largely missing Yume bridge, returns after C002 and refuses presidency. | V001 C003 differentiates earlier Yume/Hoshino interaction, guilt and competing accounts, unilateral rescue, altered notebook contact, renewed cooperation, E041 apology and ongoing grief, and E042 accepted presidency by Ayane's report. | **REVISE state selection.** C002 refusal and C003 acceptance belong to different states. Do not promise durable recovery or reduce her persona to one authenticated cause. Physical notebook/letter provenance, full death records and future stability remain open. |
+| Ayane's mechanism is chiefly an operator's procedural caution; Nonomi is chiefly group care. | V001 C003 places Ayane inside disputed document/rights claims and an internally enacted election/merger; Nonomi discloses family connection, refuses a Highlander route and becomes captive leverage. | **STRENGTHEN bounded role/conflict evidence.** Personally implicated institutional decisions now exist. The missing question is transfer to independent ordinary/private contexts and enduring governance, not total absence of a loyalty conflict. Full title/contract/recognition evidence remains absent. |
+| Hina's mandate correction and aid support a generally reliable protective-authority rule. | S2 V002 C002 E012–E019 includes Sensei's custody and war alignment under the NK Ultra crisis, recovery, apology and attempted resignation; E021 adds her own admitted pleasure in preparing/justifying violence. V001 C003 supplies a separate Hoshino confrontation and later care/legacy-disposal route. | **NARROW transfer.** Preserve prior aid but separate ordinary office, coercion-conditioned conduct and self-reproach/repair states. Neither timeless cruelty nor ethical infallibility follows. Her later testimony cannot identify every causal contribution of coercion. |
+| Ordinary-life controls principally mean Serika and the PS68 restaurant. | V002 C001/C002 add making, play, criticism, voluntary membership, game study and crisis return; V006 C003 adds teaching/test/tea and provisional school work; S2 V003 C001 adds shipboard hospitality, care routines and mourning. V001 C003 E043 returns to Serika's busy service. | **REVISE sampling diagnosis.** Main-story ordinary evidence is broader, while independent private dyads, unrelated contexts and cross-source chronology remain uneven. Serika remains useful, but is no longer an audited universal first choice. |
+| A returned person, apology or rescue means accountability and repair are either complete or wholly absent. | V003 C004 rescue is followed by V006 C003 Squad parole with convictions retained, study and provisional council work. Hina's public apology/private self-account is followed by ongoing duties rather than a completed victim/disciplinary audit. | **Separate event, legal state and durability.** Update old gaps when the source answers them; keep terms, attribution, consent, longer aftermath and institutional completion open where unprinted. |
+| Local Shiroko can absorb every `シロコ` turn; Arona/Plana or Alice/Key can be merged because tags or systems overlap. | V100 C004 and V001 C003 explicitly distinguish counterparts/OS voices; `Kei.sav` remains unauthenticated. Shared source labels persist. | **Preserve identity and knowledge gates.** Use the local Shiroko partial mechanism only for that subject/state. Do not transfer it to the separately unmodeled counterpart, infer a system identity, or repair speaker tags from expected personality. |
+| Sensei's caring structural role supports a complete benevolent private persona. | Existing boundary failures remain evidence; later coalitions preserve student authorship. V001 C003 E043 adds a refused meal accepted without pressure, trauma disclosure left optional and a concrete future-contact offer. S2 V002 C002 E020 contains student-authored repair with no direct Sensei appearance. | **STRENGTHEN a bounded care/refusal repertoire; preserve counterevidence.** Optional tones, inward/replied-to text, audience and invariant acts still require separation. No universal adult correctness or sole rescue authorship. |
+
+These revisions concern already admitted analysis. They neither rewrite the historical local readings nor manufacture new durable claim or model-rule IDs. The coverage index's principal Hoshino/Hina/Ayane/Nonomi and Sensei descriptions are synchronized with these constraints while previous basis remains recoverable in the dated unit deltas and this historical audit.
+
+## 24. Pilot reassessment
+
+A pilot should test whether the reconstruction contract preserves a conditional mechanism and its counterexamples. It should not select the character with the most pages or simply inherit §8's C002 ranking. The following are **design candidates**, not instantiated models or promised promotions:
+
+| Candidate and bounded responsibility | Why it is now useful | Required first check and excluded transfer |
+|---|---|---|
+| **Yuuka — council decisions about club membership, results and security at explicit Pavane states** | C001 §§4/8 supplies a directly scoped mechanism: voluntary-membership inquiry, enforcement and a revisable exception/apology. C002 adds dissent, record work and coalition action, so protection cannot be identified with one invariant enforcement response. | Best first institutional design to compare rules, discretionary correction and threat context. Reinspect C001 E008–E009/E012–E015/E020 and C002 E012/E022–E025 with label quarantines; distinguish role, knowledge and emergency. Exclude private personality and arbitrary mercy decisions. |
+| **Serika — work, scarcity and reciprocal boundaries in familiar Abydos/community relations** | C001/C002 ordinary-service material gains V001 C003 E043 recurrence. This is a useful low-stakes control against crisis-heavy models. | Compare work/customer, peer and Sensei settings without asserting all sharp refusal has one cause. Inspect the intervening main-story routes and a complete selected context before fixing the envelope. Private/romantic and unfamiliar-group transfer remain unsupported. |
+| **Yuzu or Alice — ordinary game/club participation through threatened belonging and return** | C001/C002 provide ordinary-to-crisis-to-ordinary contrasts and direct counterexamples: Yuzu's fear coexists with chosen exposure; Alice's chosen hero identity coexists with dangerous retaliation/system risks. | Select **one** subject/state problem for the first design. Distinguish relationship-supported action from generalized fearlessness; distinguish Alice from Key and later `Kei.sav`. No guaranteed resilience, ontology or weapon-safety rule. |
+| **Ayane — evidence handling while personally implicated in Abydos governance** | C003 adds an actual role/loyalty test and internal institution-making beyond early operator work. | Reconcile who recognizes which office and document at each moment; exclude treating internal election or creditor testimony as settled law. Ordinary non-operator transfer stays open. |
+| **Aru / Haruka — persona pressure and command interpretation inside PS68** | Earlier repair remains useful; V003 C004 E027 supplies another command-misreading/overcommitment contrast for Haruka. | Retain as targeted alternatives, not default winners. Reparation is not confession; repeated Aru-conditioned conduct does not prove a general response to authority. Seek explicit correction, independent preference and non-Aru comparison where admitted. |
+| **Hoshino / Hina — state-sensitive authority, shame and repair** | They now have strong longitudinal and adversarial material; several once-open questions have partial answers. | Defer as the first simple pilot: each requires a substantial state reconciliation before a small rule set is trustworthy. Distinguish historical revelation, coercion, role change, grief, self-report and supported aftermath. Richness increases the reconciliation burden. |
+| **Sensei — invariants, selectable stance and recipient agency** | Many schools and refusals support a comparative structural question. | Separate special-method work. Freeze choice families and speech modes before evaluating a proposed invariant; do not construct an averaged private person. |
+
+A deliberately narrow **main-only** pilot does not require every side-source class to be read first. Its explicit domain may exclude private-life claims. A mature broad monograph or general character model still needs the architecture's relevant contextual coverage and source-gap assessment. The gate is adequacy for the declared responsibility, not a mechanical requirement to accumulate every available file.
+
+## 25. Remaining evidence and construction debts
+
+| Debt | Support kind and effect | Completion condition |
+|---|---|---|
+| Independent ordinary/private contexts and non-Sensei dyads | `EVIDENCE_GAP` varies by subject. Main-story routines exist, but no group/event/bond/MomoTalk/profile tranche has been admitted. | Verify complete subject-specific routes, continuity and chronology; select material that can distinguish a live rival mechanism. Availability counts are not admission. |
+| State and identity selection | `EVIDENCE_BACKED_LIMITATION` for Hoshino's refusal/acceptance, Hina's crisis/aftermath, counterparts and OS/system ambiguity. | A pilot names which state and actor each rule governs, preserves uncertainty and prevents later knowledge from flowing backward. |
+| Repeated appraisal, inhibition and aftermath | Some admitted scenes now support these; other rows still record observable action without a secure inner mechanism. | Compile the actual decision path, mark rival appraisals and missing steps, and retain adverse cases. Do not make an unseen motive certain because its outcome is known. |
+| Written Japanese and attribution | Secure wording can constrain register; suspect tags, inner-voice replies and omitted visual action remain material. | Use source-verified, context-specific examples; quarantine damaged lines and distinguish chosen text, representation mode and actual listener knowledge. Performed voice remains `NOT_ADMITTED`. |
+| Operational rule and scenario contract | `EVIDENCE_GAP` at the artifact/acceptance layer: none is currently reviewed. | Complete specification §§15–18 for the selected state/domain, including alternatives, ordinary-life limits, negative constraints, scenario distance and abstention. |
+| Formal validation | No committed prediction/model freeze exists for the completed main-story run. | Use truthful retrospective/adversarial checks now; create a genuine prospective freeze only before a new, eligible and unexposed diagnostic source. |
+
+Medical/legal/technical records that the story does not provide narrow claims about recovery, office, liability, safety or system causation. Their absence need not bar every literary or behavioral proposition: for example, an observed apology can support a bounded act of accountability without establishing a legal disposition. Apply the missing evidence to the claim it actually affects.
+
+## 26. Prospective versus retrospective limits at 480 / 480
+
+The entire admitted main-story snapshot is already outcome-exposed. Selecting an earlier chapter boundary now cannot restore prospectivity. A pilot built from C001 and compared with C002 or later chapters is **retrospective**, even when a new agent is given a bounded packet. Disclose the producer's and evaluator's known exposure, the exact withheld content and any prior summaries. Do not call the 43-unit backfill a blind test merely because it was read after the forward frontier.
+
+The chapter records' `NO_DIAGNOSTIC_OPPORTUNITY` means no eligible frozen model test was conducted. It is not a score, proof of accuracy or a newly instantiated validation result in this audit. Existing failures of actor forecasts, such as Rio's or an antagonist's, are literary evidence rather than failed tests of a project model that did not yet exist.
+
+Available work includes state contrasts, leave-one-context-out consistency checks with exposure disclosed, rival-mechanism tests, relationship switches, ordinary/crisis comparisons, false-positive checks and source-attribution review. Preserve adverse outcomes. Before eventual `BOUNDED_VALIDATED`, the named rules and tested envelope must meet specification §16; retrospective agreement alone cannot do so. No later main unit currently exists inside the admitted snapshot. A future source release or selected unreviewed side route requires its own source/chronology gate and a committed freeze **before** diagnostic exposure if a prospective test is intended.
+
+## 27. Exact next eligible operation
+
+The [event-priority index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_EVENT_ANALYTICAL_PRIORITY_INDEX.md), [source-class crosswalk](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md) and [gap-impact register](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md) now materialize the Phase 2 planning controls against the fixed 480-unit input. They inventory every current event object, distinguish analytical priority from low stakes and review status, route all source classes to the pinned witness, and identify what missing evidence limits specific claims. The next operation is to select and read a complete source sequence for an explicit character/relationship/institution **or ordinary-life** question, establish story-local chronology where the text allows, then record an admission decision and its evidence effects. Current intake cues are metadata prompts, not story readings or priority verdicts.
+
+The first pilot-design option is a **Yuuka council/club decision contract at named Pavane states**, with **Serika's familiar service/reciprocity contexts** as the ordinary-life alternative. A model-authoring assignment must first retrieve the cited complete readings and canonical Japanese units, compile rival rules and state/domain exclusions, and document why those inputs suffice. This audit identifies that eligible operation; it does not instantiate a model, prediction register, monograph or side-source reading. A full Hoshino/Hina model first needs the state-reconciliation work identified in §24. A side-source-rich pilot cannot be selected on the basis of an unreviewed package.
+
+There is **no next unopened main unit in this snapshot**. Historical §18's `BA:main:002:001:001`, “Chapters 3–8,” and C002 continuation gate have been completed and cannot govern the next operation. Contextual evidence remains unadmitted until a selected tranche satisfies its source and chronology conditions; the earlier `DEFER` decisions remain true records of the main-story run. The new controls permit a reasoned selection without converting quiet, comic or seasonal material into a default low-priority class.
+
+## 28. Refresh acceptance and preservation
+
+The audit retains its identity and all substantive §§0–20 as a clearly marked C002 history. Current metadata and routing point to this 480-unit assessment. The coverage index is synchronized for current census, checkpoint routing, materially outdated candidate descriptions and the revised pilot/gap assessment; existing subject identities, historical unit deltas and status-promotion bases are preserved. No current readiness label is promoted, no standalone or validation artifact is created, and no side-source class is admitted.
+
+`PASS_WITH_EXPLICIT_DEFERRALS` remains a semantic architecture/readiness disposition. Publication, housekeeping and integration checks certify their own exact repository commits; an earlier successful audit does not certify this refreshed candidate. The integration owner must complete the repository's current validation and publication sequence before reporting this maintenance tranche published.
