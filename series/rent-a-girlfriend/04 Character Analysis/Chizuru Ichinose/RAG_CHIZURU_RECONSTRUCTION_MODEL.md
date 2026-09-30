@@ -4,7 +4,7 @@ artifact_id: RAG_CHIZURU_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.42"
+version: "1.43"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -71,7 +71,7 @@ model_basis:
   narrative_time_boundary: "after May 17 rain departure, third-party concern, non-rental framing and chosen umbrella sharing at Joypolis arrival"
   basis_checkpoint: RAG_CP_V010
   basis_commit: 18fe1738f18a66a91e6a3a340f845f3d7c3d4efe
-  model_revision: "1.42"
+  model_revision: "1.43"
   prior_knowledge_limitations:
     - "No post-V040 narrative evidence is admitted."
     - "Interiority is sparse; motives are modeled at minimum warranted strength."
@@ -1620,7 +1620,7 @@ uncertainties:
 ~~~yaml
 state_id: CHI-S033
 valid_from_source: "V031 0005"
-valid_until_source: "V032 0184"
+valid_until_source: "V032 0185"
 entry_conditions:
   - "Her birthday and stage performance occur during the temporary three-person residence."
 active_goals:
@@ -1651,24 +1651,25 @@ uncertainties:
   - "The coupon's future use, the household exit, and a final status answer."
 ~~~
 
-The following retrospectively serialized states are cumulative snapshots at the named closing source locators, using only existing V031-V040 evidence. Each `valid_from_source` is the snapshot boundary, not a claim that all referenced events happened on that image; the interval retains the last frozen configuration until the next snapshot. Use the volume evidence entries and character ledger for event-level changes within an interval. Do not backdate a later snapshot's knowledge, or transfer another character's private speech, thoughts or observations into it.
+These retrospectively serialized cumulative snapshots preserve the existing character evidence ledger's state IDs and evidence ownership. Closing source locators identify frozen configurations, not the image on which every referenced event happened. For states spanning several volumes, the top-level configuration, including goals and knowledge, applies only at `known_propositions_as_of_source`; before that locator, select the latest `within_state_snapshots` entry no later than the queried source point, or abstain and consult the dated evidence trace. Never backdate the V039/V040 disclosures into a V038 snapshot, or the V040 rain check into Mini's V037 coaching. The interval retains the last available frozen configuration; the readings and character ledger supply event-level changes.
 
 ### CHI-S034 — householder choosing bounded ordinary company
 
 ~~~yaml
-state_id: "CHI-S034"
-valid_from_source: "V032 0185"
-valid_until_source: "V033 0189"
+state_id: CHI-S034
+valid_from_source: V032 0186
+valid_until_source: V033 0189
 entry_conditions:
-  - "Requested Mini testimony, family-property clearing, replacement shopping and a chosen night errand extend the investigation."
+  - Requested Mini testimony, family-property clearing, replacement shopping and a chosen night errand extend the investigation.
 active_goals:
-  - "Manage the family house and continue ordinary observation without a premature love label."
+  - Manage the family house and continue ordinary observation without a premature love label.
 known_propositions:
-  - "Mini has answered her question about Kazuya; testimony does not determine her classification."
-  - "She has granted purpose-bound old-room access and a temporary stillness limit during accidental confinement."
-  - "She has chosen budget-conscious shopping, spider help and a night walk with Kazuya."
+  - Mini has answered her question about Kazuya; testimony does not determine her classification.
+  - She has granted purpose-bound old-room access and a temporary stillness limit during accidental confinement.
+  - She has chosen budget-conscious shopping, spider help and a night walk with Kazuya.
+  - The closing cafe contact is visible, but its companion's identity and consequences are not yet admitted at this boundary.
 relationship_conditions:
-  - "Her own choices define local access; the coupon has not been invoked and no mutual dating agreement is shown."
+  - Her own choices define local access; the coupon has not been invoked and no mutual dating agreement is shown.
 changed_from_previous:
   - KNOWLEDGE_CHANGE
   - CONTEXT_CHANGE
@@ -1676,31 +1677,35 @@ evidence_refs:
   - RAG-E-V032-001
   - RAG-E-V032-002
   - RAG-E-V032-003
+  - RAG-E-V032-004
   - RAG-E-V032-005
   - RAG-E-V032-006
+  - RAG-E-V032-007
+  - RAG-E-V032-008
   - RAG-E-V032-010
   - RAG-E-V032-011
+  - RAG-E-V032-012
 uncertainties:
-  - "The investigation result and household exit remain unresolved; Kazuya's shopping thoughts are not hers."
+  - The investigation result and household exit remain unresolved; Kazuya's shopping thoughts are not hers.
 ~~~
 
 ### CHI-S035 — interrupted confession recipient initiating a date
 
 ~~~yaml
-state_id: "CHI-S035"
-valid_from_source: "V033 0190"
-valid_until_source: "V035 0187"
+state_id: CHI-S035
+valid_from_source: V033 0190
+valid_until_source: V034 0187
 entry_conditions:
-  - "She regulates shared play, hears Umi's confession and initiates an outing with Kazuya alongside his older nursery promise."
+  - She regulates shared play, hears Umi's confession and initiates an outing with Kazuya alongside his older nursery promise.
 active_goals:
-  - "Choose further contact while retaining control of her answer and respecting prior commitments."
+  - Choose further contact while retaining control of her answer and respecting prior commitments.
 known_propositions:
-  - "Umi repeats his romantic interest, but stops her attempted response because he does not want to hear an answer yet."
-  - "She asks Kazuya to go on an outing she explicitly calls a date."
-  - "Kazuya has an earlier family childcare commitment; she says prior promises matter."
+  - Umi repeats his romantic interest, but stops her attempted response because he does not want to hear an answer yet.
+  - She asks Kazuya to go on an outing she explicitly calls a date.
+  - Kazuya has an earlier family childcare commitment; she says prior promises matter.
 relationship_conditions:
-  - "Her intended Umi answer is unspoken; his postponement is neither her acceptance nor rejection."
-  - "She is not shown knowing that Kazuya and Mini secretly listened."
+  - Her intended Umi answer is unspoken; his postponement is neither her acceptance nor rejection.
+  - She is not shown knowing that Kazuya and Mini secretly listened.
 changed_from_previous:
   - KNOWLEDGE_CHANGE
   - RELATIONSHIP_CHANGE
@@ -1709,6 +1714,7 @@ evidence_refs:
   - RAG-E-V033-002
   - RAG-E-V033-003
   - RAG-E-V033-004
+  - RAG-E-V033-005
   - RAG-E-V033-006
   - RAG-E-V033-007
   - RAG-E-V033-008
@@ -1716,38 +1722,69 @@ evidence_refs:
   - RAG-E-V033-011
   - RAG-E-V033-012
 uncertainties:
-  - "Neither confession has a completed answer; the proposed date has not occurred."
+  - Neither confession has a completed answer; the proposed date has not occurred.
 ~~~
 
-### CHI-S036 — investigator testing ordinary care and confronting the family lie
+### CHI-S036 — nursery observer asserting household truth and privacy limits
 
 ~~~yaml
-state_id: "CHI-S036"
-valid_from_source: "V035 0188"
-valid_until_source: "V036 0183"
+state_id: CHI-S036
+valid_from_source: V034 0188
+valid_until_source: V035 0187
 entry_conditions:
-  - "Nursery observation, a household truth challenge, Kibe testimony, chosen care and Nagomi's booking expand the inquiry."
+  - She chooses the nursery visit, observes care and names honesty during household incidents before an unresolved card-game cut.
 active_goals:
-  - "Investigate through actual conduct and truthful interaction while managing work, bodily needs and family obligations."
+  - Investigate through ordinary conduct and truthful interaction while controlling local access.
 known_propositions:
-  - "She has observed Kazuya's childcare and heard Harumi's specific appraisal."
-  - "She presses his soap lie and explicitly names honesty as a norm during the investigation."
-  - "Kibe offers friendship testimony; she does not answer his feeling question aloud."
-  - "Nagomi books her, apologizes for prior prejudice and hopes to see her as Kazuya's bride; she tells Kazuya of the booking."
+  - She has observed Kazuya's childcare and heard Harumi's specific appraisal.
+  - Kazuya admits the soap lie after she presses it; she explicitly makes honesty a norm during the investigation.
+  - She joins the television/ito evening, but her 100 card and silent reaction do not communicate a verdict.
 relationship_conditions:
-  - "She permits room entry, receives practical care and thanks Kazuya without announcing a romantic verdict."
-  - "Paid family contact leaves the residual dating lie unresolved; hypothetical proposal preferences identify no loved person."
+  - Her care for a child and chosen company reveal neither a parenting intention nor a romantic answer.
+  - The laundry incident is a privacy problem, not general bodily permission.
 changed_from_previous:
   - KNOWLEDGE_CHANGE
   - CONTEXT_CHANGE
   - REVEALED_NOT_NEW
 evidence_refs:
   - RAG-E-V034-001
+  - RAG-E-V034-002
   - RAG-E-V034-003
   - RAG-E-V034-004
   - RAG-E-V034-005
+  - RAG-E-V034-006
   - RAG-E-V034-007
+  - RAG-E-V034-008
+  - RAG-E-V034-009
+  - RAG-E-V034-010
+uncertainties:
+  - The card-game response, her final answer and the family lie remain unresolved.
+~~~
+
+### CHI-S037 — investigator testing ordinary care and confronting the family lie
+
+~~~yaml
+state_id: CHI-S037
+valid_from_source: V035 0188
+valid_until_source: V036 0183
+entry_conditions:
+  - The card example is clarified; she asks Kibe for testimony, receives period care and confronts Nagomi's booking and bridal hope.
+active_goals:
+  - Investigate through actual conduct and truthful interaction while managing work, bodily needs and family obligations.
+known_propositions:
+  - Kibe offers friendship testimony; she does not answer his feeling question aloud.
+  - Nagomi books her, apologizes for prior prejudice and hopes to see her as Kazuya's bride; she tells Kazuya of the booking.
+relationship_conditions:
+  - She permits room entry, receives practical care and thanks Kazuya without announcing a romantic verdict.
+  - Paid family contact leaves the residual dating lie unresolved; hypothetical proposal preferences identify no loved person.
+changed_from_previous:
+  - KNOWLEDGE_CHANGE
+  - CONTEXT_CHANGE
+  - REVEALED_NOT_NEW
+evidence_refs:
+  - RAG-E-V035-001
   - RAG-E-V035-002
+  - RAG-E-V035-003
   - RAG-E-V035-004
   - RAG-E-V035-005
   - RAG-E-V035-006
@@ -1758,25 +1795,25 @@ evidence_refs:
   - RAG-E-V035-011
   - RAG-E-V035-012
 uncertainties:
-  - "Her final answer, career decisions and a family-truth correction are unshown."
+  - Her final answer, career decisions and a family-truth correction are unshown.
 ~~~
 
-### CHI-S037 — self-scheduling participant in an unpaid inquiry date
+### CHI-S038 — self-scheduling participant in an unpaid inquiry date
 
 ~~~yaml
-state_id: "CHI-S037"
-valid_from_source: "V036 0184"
-valid_until_source: "V037 0187"
+state_id: CHI-S038
+valid_from_source: V036 0184
+valid_until_source: V037 0187
 entry_conditions:
-  - "She chooses booth participation and, after Kazuya's spoken non-rental request, proposes and privately calendars May 17."
+  - She chooses booth participation and, after Kazuya's spoken non-rental request, proposes and privately calendars May 17.
 active_goals:
-  - "Take a deliberate step toward her own answer while maintaining work and local boundaries."
+  - Take a deliberate step toward her own answer while maintaining work and local boundaries.
 known_propositions:
-  - "Kazuya tells her she was cutest to him at the event; she says she is happy if that is true."
-  - "His date request explicitly excludes rental; she proposes May 17 and says she needs a step toward an answer."
-  - "Her own calendar reserves the date; Kazuya's private lease review and sexualized kitchen thoughts are not her knowledge."
+  - Kazuya tells her she was cutest to him at the event; she says she is happy if that is true.
+  - His date request explicitly excludes rental; she proposes May 17 and says she needs a step toward an answer.
+  - Her own calendar reserves the date; Kazuya's private lease review and sexualized kitchen thoughts are not her knowledge.
 relationship_conditions:
-  - "Voluntary event help and an agreed date remain bounded choices within an open investigation."
+  - Voluntary event help and an agreed date remain bounded choices within an open investigation.
 changed_from_previous:
   - RELATIONSHIP_CHANGE
   - CONTEXT_CHANGE
@@ -1785,69 +1822,79 @@ evidence_refs:
   - RAG-E-V036-003
   - RAG-E-V036-004
   - RAG-E-V036-005
+  - RAG-E-V036-007
   - RAG-E-V036-008
   - RAG-E-V036-009
   - RAG-E-V036-010
   - RAG-E-V036-012
 uncertainties:
-  - "The outing and final classification remain future; no general intimacy permission is established."
+  - The outing and final classification remain future; no general intimacy permission is established.
 ~~~
 
-### CHI-S038 — date participant defining ordinary reciprocal terms
+### CHI-S039 — date participant defining ordinary reciprocal terms
 
 ~~~yaml
-state_id: "CHI-S038"
-valid_from_source: "V037 0188"
-valid_until_source: "V039 0189"
+state_id: CHI-S039
+valid_from_source: V037 0188
+valid_until_source: V038 0185
 entry_conditions:
-  - "She articulates uncertainty to Mini, specifies preferences, privately commits at Sayuri's grave and agrees on a shared departure."
+  - She articulates uncertainty to Mini, specifies preferences, privately commits at Sayuri's grave and agrees on a shared departure.
 active_goals:
-  - "Get to know Kazuya through an ordinary encounter and find her own answer."
+  - Get to know Kazuya through an ordinary encounter and find her own answer.
 known_propositions:
-  - "Feeling cannot change on command; she asks for an ordinary date rather than a performed ideal."
-  - "She texts hotpot as her preference and asks about Kazuya's meal with Mini."
-  - "She proposes leaving from home and agrees to 9 a.m.; her grave-side commitment does not itself tell Kazuya an answer."
+  - Feeling cannot change on command; she asks for an ordinary date rather than a performed ideal.
+  - She texts hotpot as her preference and asks about Kazuya's meal with Mini.
+  - She proposes leaving from home and agrees to 9 a.m.; her grave-side commitment does not itself tell Kazuya an answer.
 relationship_conditions:
-  - "Mini can advise but cannot classify her feeling; interest in a rehearsal meal establishes no possessive couple status."
+  - Mini can advise but cannot classify her feeling; interest in a rehearsal meal establishes no possessive couple status.
 changed_from_previous:
   - KNOWLEDGE_CHANGE
   - CONTEXT_CHANGE
 evidence_refs:
   - RAG-E-V037-001
+  - RAG-E-V037-002
   - RAG-E-V037-003
   - RAG-E-V037-005
   - RAG-E-V037-006
   - RAG-E-V037-009
   - RAG-E-V037-010
 uncertainties:
-  - "The date outcome and her answer remain open; Kazuya's condom purchase and itinerary fantasies are not her intentions."
+  - The date outcome and her answer remain open; Kazuya's condom purchase and itinerary fantasies are not her intentions.
 ~~~
 
-### CHI-S039 — self-authoring preview participant hearing a plain declaration
+### CHI-S040 — self-authored preview-to-date inquiry without a final verdict
 
 ~~~yaml
-state_id: "CHI-S039"
-valid_from_source: "V039 0190"
-valid_until_source: "V040 0187"
+state_id: CHI-S040
+valid_from_source: V038 0186
+valid_until_source: null
 entry_conditions:
-  - "Independent outfit reflection and a chosen Joypolis preview lead to reciprocal activity, direct relationship questions and home companionship."
+  - Private clothing reflection and chosen reciprocal preview develop into the May 17 rain date; the dated snapshots distinguish what is known at each close.
 active_goals:
-  - "Explore ordinary shared choices without surrendering her own classification."
+  - Pursue her own inquiry through the unpaid date while attending to Ruka and her acting/family orientation.
 known_propositions:
-  - "She wants to be thought cute but has not translated that wish into a love verdict."
-  - "She advocates mutual pace and conversation, proposes reciprocal payment, selects activities and changes the fortune category to romance."
-  - "Kazuya directly distinguishes his past Mami attachment from current feeling and says he likes her."
-  - "She reveals having seen him shopping and invites him to watch television at home."
+  - She wants to be thought cute but has not translated that wish into a love verdict.
+  - She advocates mutual pace and conversation, proposes reciprocal payment, selects activities and changes the fortune category to romance.
+  - Kazuya directly distinguishes his past Mami attachment from current feeling and says he likes her.
+  - She reveals having seen him shopping and invites him to watch television at home.
+  - Kazuya identifies Ichinose as the person he likes; she names Sayuri as her enduring acting ideal.
+  - She privately reviews the pending decision and confirms the start before departing on May 17.
+  - She asks about Ruka and hears Kazuya's account; his account does not establish what Ruka actually knows.
+  - She distinguishes being beside him from acting as a rental girlfriend and invites him under her umbrella.
 relationship_conditions:
-  - "Curiosity, acknowledgment and chosen company do not amount to a final answer."
-  - "Mami's private exchange and interior response are not automatically available to Chizuru."
+  - Curiosity, acknowledgment and chosen company do not amount to a final answer.
+  - Mami's private exchange and interior response are not automatically available to Chizuru.
+  - Chosen access outside the paid role does not certify established couple status or a final romantic answer.
+  - Crowded-train contact is accidental and gives no generalized bodily permission.
 changed_from_previous:
+  - CONTEXT_CHANGE
   - KNOWLEDGE_CHANGE
   - RELATIONSHIP_CHANGE
-  - CONTEXT_CHANGE
 evidence_refs:
+  - RAG-E-V038-001
   - RAG-E-V038-003
   - RAG-E-V038-005
+  - RAG-E-V038-006
   - RAG-E-V038-008
   - RAG-E-V038-009
   - RAG-E-V039-001
@@ -1857,33 +1904,6 @@ evidence_refs:
   - RAG-E-V039-005
   - RAG-E-V039-009
   - RAG-E-V039-010
-uncertainties:
-  - "May 17 and its outcome remain ahead; numerical fortunes and ride contact give no final classification or sexual consent."
-~~~
-
-### CHI-S040 — non-rental date participant retaining her own answer and third-party concern
-
-~~~yaml
-state_id: "CHI-S040"
-valid_from_source: "V040 0188"
-valid_until_source: null
-entry_conditions:
-  - "Names and Sayuri's film inform the final preparations; she proceeds in rain, asks about Ruka and chooses umbrella sharing before Joypolis arrival."
-active_goals:
-  - "Pursue her own inquiry through the unpaid date while attending to Ruka and her acting/family orientation."
-known_propositions:
-  - "Kazuya identifies Ichinose as the person he likes; she names Sayuri as her enduring acting ideal."
-  - "She privately reviews the pending decision and confirms the start before departing on May 17."
-  - "She asks about Ruka and hears Kazuya's account; his account does not establish what Ruka actually knows."
-  - "She distinguishes being beside him from acting as a rental girlfriend and invites him under her umbrella."
-relationship_conditions:
-  - "Chosen access outside the paid role does not certify established couple status or a final romantic answer."
-  - "Crowded-train contact is accidental and gives no generalized bodily permission."
-changed_from_previous:
-  - CONTEXT_CHANGE
-  - KNOWLEDGE_CHANGE
-  - RELATIONSHIP_CHANGE
-evidence_refs:
   - RAG-E-V040-001
   - RAG-E-V040-005
   - RAG-E-V040-006
@@ -1894,7 +1914,47 @@ evidence_refs:
   - RAG-E-V040-011
   - RAG-E-V040-012
 uncertainties:
-  - "The date continuation, final answer, Umi response, informed Ruka arrangement, May 18 residence decision and long-term work outcome are unshown."
+  - The date continuation, final answer, Umi response, informed Ruka arrangement, May 18 residence decision and long-term work outcome are unshown.
+known_propositions_as_of_source: V040 0188
+within_state_snapshots:
+  - snapshot_source: V038 0186
+    active_goals:
+      - Explore ordinary shared choices while keeping the inquiry open.
+    known_propositions:
+      - She has seen Kazuya shopping and asks why she wants him to think her cute; this is not a completed love classification.
+      - She voluntarily joins the venue preview, asks for shared pace and conversation and proposes reciprocal payment.
+    relationship_conditions:
+      - Kazuya is not yet shown knowing that she saw him shopping; a preview is not May 17 or a verdict.
+    evidence_refs:
+      - RAG-E-V038-001
+      - RAG-E-V038-003
+      - RAG-E-V038-005
+      - RAG-E-V038-006
+      - RAG-E-V038-008
+      - RAG-E-V038-009
+    uncertainties:
+      - The planned date, her answer and later disclosures remain unobserved here.
+  - snapshot_source: V039 0190
+    active_goals:
+      - Explore ordinary shared choices without surrendering her own classification.
+    known_propositions:
+      - She wants to be thought cute but has not translated that wish into a love verdict.
+      - She advocates mutual pace and conversation, proposes reciprocal payment, selects activities and changes the fortune category to romance.
+      - Kazuya directly distinguishes his past Mami attachment from current feeling and says he likes her.
+      - She reveals having seen him shopping and invites him to watch television at home.
+    relationship_conditions:
+      - Curiosity, acknowledgment and chosen company do not amount to a final answer.
+      - Mami's private exchange and interior response are not automatically available to Chizuru.
+    evidence_refs:
+      - RAG-E-V039-001
+      - RAG-E-V039-002
+      - RAG-E-V039-003
+      - RAG-E-V039-004
+      - RAG-E-V039-005
+      - RAG-E-V039-009
+      - RAG-E-V039-010
+    uncertainties:
+      - May 17 and its outcome remain ahead; numerical fortunes and ride contact give no final classification or sexual consent.
 ~~~
 
 ## Behavioral rules
