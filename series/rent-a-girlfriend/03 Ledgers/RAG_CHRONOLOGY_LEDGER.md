@@ -4,13 +4,13 @@ artifact_id: RAG_CHRONOLOGY_LEDGER
 artifact_type: chronology_ledger
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.30"
+version: "1.40"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-19"
-source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V030; inspected and closed through V030."
+source_boundary: "Japanese manga witnesses RAG-JP-EPUB-V001-V040; inspected and closed through V040."
 ---
 
 # Chronology ledger
@@ -33,9 +33,9 @@ Update after each eligible volume only when inspected evidence materially affect
 
 ```yaml
 initialized: true
-inspected_through_volume: V030
-row_count: 141
-state: CURRENT_THROUGH_V030
+inspected_through_volume: V033
+row_count: 146
+state: CURRENT_THROUGH_V033
 ```
 
 ## Records
@@ -183,3 +183,56 @@ state: CURRENT_THROUGH_V030
 | RAG-CHR-139 | RAG-E-V030-001 through RAG-E-V030-005 | Kazuya moves into the family house, receives a separate room and key, Mini joins, and daily bath/sink/cat routines follow. | The offer becomes actual residence after the family/Ruka conversations. | The scenes do not establish a long-term residential endpoint. |
 | RAG-CHR-140 | RAG-E-V030-006 | On April 16 Kazuya realizes Chizuru's birthday is April 19, three days away, and she asks him not to prepare a present. | Explicit dates constrain the near-term birthday question. | No birthday celebration occurs in V030. |
 | RAG-CHR-141 | RAG-E-V030-007, RAG-E-V030-008 | Mami's public meeting and Kazuya's apology precede Sumi's unexpected house visit; Sumi treats his cut and they discuss the birthday. | Distinguishes encounters and audiences before the V030 cut. | Exact elapsed hours and later acts remain unshown. |
+| RAG-CHR-142 | RAG-E-V031-001 through RAG-E-V031-007 | On April 19, Kazuya attends Chizuru's performance; the troupe celebrates her, Sumi arrives with another cake, the household celebrates near midnight, and Chizuru accepts Kazuya's coupon after Sumi's departure. | Stage, troupe, household, and private talk are distinct same-day sequences. | Precise performance and arrival clock times are not given. |
+| RAG-CHR-143 | RAG-E-V031-008 through RAG-E-V031-010 | After the birthday, roughly one week of shared residence has passed; Kazuya identifies May 13 as his planned new-apartment move, Mini probes progress, and the bath conversation ends with Chizuru requesting Mini's view of him. | The deadline and interrogation follow the birthday, while a final answer has not yet occurred. | The exact date of the bath and whether May 13 becomes the actual move day remain unknown. |
+| RAG-CHR-144 | RAG-E-V032-001 through RAG-E-V032-004 | Mini answers Chizuru's question; subsequently a moving truck clears family property, Kazuya helps store boxes, and an accidental confined encounter ends without a kiss. | The testimony precedes the removal and storeroom event. | Exact dates and the neighbor's understanding are unstated. |
+| RAG-CHR-145 | RAG-E-V032-005 through RAG-E-V032-009 | The three residents shop for replacement goods, eat together, and Kazuya privately reassesses his idealized view of Chizuru. | Practical preparation and his interior conclusion follow the storeroom event. | His conclusion is not spoken to Chizuru in this passage. |
+| RAG-CHR-146 | RAG-E-V032-010 through RAG-E-V032-012 | Back at the house, they deal with a spider; later Chizuru invites Kazuya to a night convenience-store errand, before a separate cafe cut opens. | The late errand precedes the cafe cut in story presentation. | The cafe's exact date relative to the walk is not yet fixed. |
+| RAG-CHR-147 | RAG-E-V033-001 through RAG-E-V033-004 | Kazuya wakes from a confession dream; Mini's belated April 8 birthday celebration becomes a Twister game and ends with a three-person photograph. | Dream, birthday report, game, and photo appear in this order. | The precise day of the game and date of the dream are not given. |
+| RAG-CHR-148 | RAG-E-V033-005 through RAG-E-V033-008 | Umi arrives at Sayuri's house, offers incense, then speaks with Chizuru outside and renews his confession; she begins to respond and apologizes before he says he does not want to hear her answer yet. | The house visit and street conversation are continuous. | The full prior cafe talk, her intended answer, and exact elapsed interval are omitted. |
+| RAG-CHR-149 | RAG-E-V033-009 through RAG-E-V033-011 | After Umi leaves, Kazuya and Mini process what they overheard; later Chizuru borrows a book and asks Kazuya on a date. | His shock precedes her direct invitation. | Neither event reveals her final inquiry result. |
+| RAG-CHR-150 | RAG-E-V033-011, RAG-E-V033-012 | The pair begin discussing their proposed date before a family call recalls Kazuya's prior childcare commitment. | Destination talk precedes the interruption and volume cut. | The date and volunteer commitment have not yet been shown occurring. |
+| RAG-CHR-151 | RAG-E-V034-001 through RAG-E-V034-005 | The childcare commitment redirects the proposed date to Harumi's nursery; Chizuru volunteers to join, watches Kazuya work, comforts a child, and hears Harumi's appraisal. | This is the next shared outing after the family call. | The exact date and a later aquarium outing are not established. |
+| RAG-CHR-152 | RAG-E-V034-006 through RAG-E-V034-008 | Later household breakfast, a rainy-evening soap conversation, and a separate laundry accident occur during continuing cohabitation. | The presented scenes progress from routine to two privacy/truth incidents. | Their exact dates and intervals are unstated. |
+| RAG-CHR-153 | RAG-E-V034-009, RAG-E-V034-010 | Mini proposes a shared television evening and then a game of `ito`; the romantic-partner theme and number cards appear before the chapter cut. | Game rules precede the visible cards and Chizuru's silent reaction. | The ordering result and her stated interpretation are deferred. |
+
+## V035 close additions
+
+| RAG-CHR-154 | RAG-E-V035-001, RAG-E-V035-002 | The `ito` game resolves; Chizuru asks about the move day and Kazuya tentatively estimates next month's 18th or 19th. | The estimate follows the prior May 13 plan and may represent a changed expectation. | No fixed reschedule or actual exit is shown. |
+| RAG-CHR-155 | RAG-E-V035-003, RAG-E-V035-004 | On April 27 Chizuru asks Kibe for a private appraisal of Kazuya; Kibe asks about her feeling but receives no stated answer. | A dated external consultation follows the card game. | The precise duration of the cafe exchange is not material. |
+| RAG-CHR-156 | RAG-E-V035-005 through RAG-E-V035-008 | During a following two-day menstrual-pain episode, Kazuya buys supplies, cooks, enters by permission, and Chizuru asks for a childhood sweet before resting; they discuss it the next morning. | The care episode spans a night and morning. | Exact calendar date is not printed in the cited sequence. |
+| RAG-CHR-157 | RAG-E-V035-009 through RAG-E-V035-012 | Chizuru later performs rental work for Nagomi in Shinjuku; Sumi sees the pair at an arcade; Chizuru then tells Kazuya of the booking. | Paid outing, silent sighting, and household disclosure occur in that order. | No full relationship correction occurs before the V035 cut. |
+
+## V036 close additions
+
+| RAG-CHR-158 | RAG-E-V036-001, RAG-E-V036-002 | After the arcade outing Sumi thinks about her sighting and Kazuya and Nagomi discuss her rental booking by phone. | Follows the V035 cut without establishing a family correction. | Exact date of the call is not printed in the cited pages. |
+| RAG-CHR-159 | RAG-E-V036-003 through RAG-E-V036-005 | Mini's cosplay sales event includes Chizuru's voluntarily rescheduled appointment, booth assistance, photographs, and a post-event compliment exchange. | Event precedes the May 2 housing review. | Kazuya's ranking is event-specific. |
+| RAG-CHR-160 | RAG-E-V036-006 | On May 2 Kazuya reviews the rental contract with May 18 move-in. | Fixes the current exit plan after V035's tentative estimate. | A planned date is not an accomplished move. |
+| RAG-CHR-161 | RAG-E-V036-007 through RAG-E-V036-010 | After the lease review, Chizuru's late-night schedule talk leads to a verbal May 17 unpaid date agreement; she later enters it in her calendar. | May 17 is the day before planned move-in. | No actual outing has occurred. |
+| RAG-CHR-162 | RAG-E-V036-011, RAG-E-V036-012 | Kazuya tells Mini about the agreement; later a small red-bean kitchen mishap occurs during cohabitation. | The household episode follows the scheduled date. | Its exact calendar day is not established. |
+
+## V037 close additions
+
+| RAG-CHR-163 | RAG-E-V037-001 through RAG-E-V037-003 | After the May 17 agreement, Mini checks on Chizuru, she bats, the housemates play `Bounce Off`, and Kazuya asks her date preferences. | All precedes the future outing. | Exact day of each preparation scene is not fixed. |
+| RAG-CHR-164 | RAG-E-V037-004, RAG-E-V037-005 | Kuri's sexual advice and Kazuya's purchase occur while Chizuru privately considers and texts a hotpot preference. | Parallel preparation yields unequal information. | Fantasy is not actual intercourse or a shared plan. |
+| RAG-CHR-165 | RAG-E-V037-006 through RAG-E-V037-008 | Chizuru visits Sayuri's grave; Mini and Kazuya eat a separate hotpot rehearsal; Kazuya drafts Joypolis, food, and walking options. | May 17 and May 18 remain future. | Draft activities are not completed. |
+| RAG-CHR-166 | RAG-E-V037-009 through RAG-E-V037-011 | Chizuru and Kazuya agree to depart from home at 9 a.m.; he revises the plan, then the narrative cuts to Mami. | This is the closing pre-date state. | Mami has no direct contact in this volume. |
+
+## V038 close additions
+
+| RAG-CHR-167 | RAG-E-V038-001 through RAG-E-V038-003 | After the 9 a.m. agreement, Kazuya and Chizuru prepare separately; Mami visits a salon. | All still precedes May 17. | Exact preparatory day is not explicitly fixed. |
+| RAG-CHR-168 | RAG-E-V038-004 through RAG-E-V038-006 | Kazuya checks the Odaiba route, encounters Chizuru and explores Joypolis with her. | An actual pre-date preview is completed. | Imagined future-date panels are not present action. |
+| RAG-CHR-169 | RAG-E-V038-007 through RAG-E-V038-009 | Mami sees the pair; the principals choose and eat lunch while discussing date method and payment. | Mami now has an observation unknown to them. | No contact or later ice cream confirmed. |
+| RAG-CHR-170 | RAG-E-V038-010, RAG-E-V038-011 | Miho's acting-world interiority and Kazuya's final concern close the volume. | Formal date and move still future. | Miho's thoughts are her own; no housing event. |
+
+## V039 close additions
+
+| RAG-CHR-171 | RAG-E-V039-001 through RAG-E-V039-005 | The unplanned Joypolis preview proceeds through tickets, games, attractions and direct discussion. | Remains before May 17. | Its exact calendar day is not fixed here. |
+| RAG-CHR-172 | RAG-E-V039-006 through RAG-E-V039-009 | The pair meet Mami with Hakuba; Kazuya and Chizuru later discuss Mami and he confesses plainly. | No official couple status follows. | Do not infer Hakuba's status from accompanying Mami. |
+| RAG-CHR-173 | RAG-E-V039-010 | The final chapter marks six days before May 17; clothing preparation and shared television follow. | May 17 date and May 18 move remain ahead. | Calendar anchor need not date every earlier preview scene. |
+
+## V040 close additions
+
+| RAG-CHR-174 | RAG-E-V040-001 through RAG-E-V040-005 | Naming, Ruka key encounter and Sayuri film occur before the planned date. | The new-home key makes the approaching move concrete. | Exact days for these scenes are not fixed by the chapter labels. |
+| RAG-CHR-175 | RAG-E-V040-006, RAG-E-V040-007 | Two-day countdown and explicit May 16 preparation precede May 17. | The nine o'clock departure is confirmed. | Preparation is not date execution. |
+| RAG-CHR-176 | RAG-E-V040-008 through RAG-E-V040-012 | On May 17 the pair depart in heavy rain, travel by train and reach Joypolis. | Formal date is underway at V040 end. | No date completion or May 18 move is shown. |

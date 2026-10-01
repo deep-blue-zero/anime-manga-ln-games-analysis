@@ -4,20 +4,26 @@ artifact_type: ledger
 scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
-checkpoint_boundary: MAIN_V004_C001 checkpoint canonical
-source_boundary: Canonical MAIN_V004_C001 checkpoint through BA:main:004:001:020; BA:main:004:002:001 unopened
+checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; side-source classes unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 
 # BLUE ARCHIVE JAPANESE VOICE AND ADDRESS LEDGER
 
 ## Current boundary
 
-Through `BA:main:004:001:020` under the canonical `BLUE_ARCHIVE_MAIN_V004_C001_CHECKPOINT.md`; historical unit-local states remain preserved below as cumulative deltas. `BA:main:004:002:001` is unopened.
+All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
+
+Group, event, bond, MomoTalk, mini, character-data and other side-source classes remain unadmitted. Performed voice is also unadmitted. The [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) records 21 `PARTIAL_MODEL` and 331 `UNMODELED` subjects across 352, with no standalone reconstruction model. Completion of the main-story readings does not establish reconstruction readiness.
+
+## Historical baselines and sequential deltas
+
+The initial tables and observations below preserve their Prologue and early Abydos evidence boundaries. All ensuing unit and checkpoint entries retain the knowledge available at their stated reading position, including their uses of “current,” “now,” “unopened,” provisional identities and unresolved questions. These historical states are not a consolidated 480-unit endpoint; consult the relevant later deltas and chapter checkpoints for subsequent developments. Historical source witnesses and denominators remain unchanged.
 
 | Speaker / category | Observation | Analytical significance | Evidence |
 |---|---|---|---|
@@ -1785,3 +1791,1258 @@ E001–E027 separate Beatrice's `崇高`/`Agnus dei` sacrificial adult rhetoric 
 ## V004 C001 checkpoint reconciliation — precision before performance
 
 Chapter 1's speaker-tag anomalies, repeated convergence lines and `心の声` responses remain quarantined at their episode routes; no “corrected” performance script or voice model is promoted. Particular traps: E010 Decartes-tagged SRT/mercenary line, E014 Moe self-question, E015 Kirino budget recall splice, E018 Miyu `お前` turns, E019 Kanna-tagged self-address and E020 Decartes-tagged opposing retort. `リベート` is hypothesis in E016, participant-read record in E017 and public anonymous-source allegation in E020, not one undifferentiated fact. The four FOX names are direct E020 labels; E012's expert and E013's seller are not assigned by voice resemblance. No performed voice admitted.
+
+## V004 C002 E001 voice delta — dream marks, justice and unstable call-sign labels
+
+The `――2年前` Chronos/factory sequence is italicized before Yukino's waking `甘い悪夢`; the typography and her statement forbid a flat, fully verified documentary account (`scene:001:u:0002-0073`). `あくまで` narrows her old Valkyrie relationship; `理にかなった正しい道理` and `いかなる状況でも揺らぎはしません` are public self-definitions, while later `武器`/`柄（つか）` shifts responsibility to a holder (`u:0025-0027;u:0059-0061;u:0107-0110`). `常に（・   ・）` emphasizes the Kaya-over-Rin numerical rule (`u:0089`). `u:0075` and `u:0093` carry Yukino tags while answering as FOX4/FOX3, and `u:0119` is Yukino-tagged despite a junior-style interjection; preserve the printed tags and role-level uncertainty. No performed voice admitted.
+
+## V004 C002 E002 voice delta — quoted ideal, thought replies and role-tag drift
+
+Opening `ナレーション` quotes Yukino's E001 broadcast and says `私たちは……SRTになった`; Miyako's waking follows, but narrator attribution remains contextual rather than explicit (`scene:001:u:0001-0020`). Sensei `心の声` at `u:0046/0055/0064/0069/0075-0076/0084/0088` receives replies; `choice:001` and `choice:005` are paired alternatives. Duplicated `u:0050-0051` and `u:0085-0086` do not prove repeated speech. `u:0023` (Miyako tag answering herself), `u:0024-0025` (Miyu with Saki-like diction), `u:0033` (Miyako with Moe's `くひひ`) and `u:0067` (Miyako with Saki-like motto) are attribution seams. No performed voice admitted.
+
+## V004 C002 E003 voice delta — bait pun, parable and wrong tags
+
+`餌` names the joke that premium beef might be a trap; `ハニートラップ` is Miyu's comic misuse, which Sensei may correct via paired `choice:001` (`scene:001:u:0010-0016`). Miyako's senior-reported `ウサギ` parable gives RABBIT its dangerous-small-animal gloss, while Miyu's anxious self-application is not a future fact (`u:0031-0044`). `u:0018-0019`, `u:0029-0030`, `u:0032`, `u:0055`, `u:0057` and `u:0080` have self-answer or response-role tag conflicts; `u:0015-0016`, `u:0048-0049` and `u:0097-0098` duplicate likely branch responses. Sensei `心の声` remains distinct from established public speech. No performed voice admitted.
+
+## V004 C002 E004 voice delta — call signs and reveal seams
+
+`RABBIT1–4`, `FOXTROT`, `CQB`, `月雪小隊長` and `ユキノ先輩` organize a role-based recognition (`scene:001:u:0001-0064`). `u:0004/0006/0007`, `u:0012`, `u:0017-0019`, `u:0021`, `u:0031` and especially Yukino-tagged `この声、まさか`/`再会できて` at `u:0060/0062` conflict with the turn roles. Preserve printed labels; infer only that the final named response supports Yukino's local presence. `腕が折れるぞ` is threat, not shown injury. No performed voice admitted.
+
+## V004 C002 E005 voice delta — joke language and conditional belonging
+
+FOX's `ドッキリ` and Yukino's hypothetical `試験` reframe coercive detention as pedagogy; the framing itself does not confer student consent (`scene:001:u:0023-0034`). Yukino's `「我々」の味方` and weapon language make alliance conditional, and `D-Day` names a deadline without specifying its operation (`u:0079-0106;u:0123-0126`). `u:0017`, `u:0019-0024`, `u:0041-0045`, `u:0050-0051`, `u:0066`, `u:0074/0077`, and `u:0083/0085` contain role/speaker-tag seams; preserve printed labels rather than individual voice inferences. The italic `u:0089-0107` proposal and `u:0127-0131` coordinate exchange are representation cues, not a legal transcript. Sensei's paired greetings and `心の声` responses cannot be flattened into one fixed public line. No performed voice admitted.
+
+## V004 C002 E006 voice delta — portraits and legitimation vocabulary
+
+RABBIT's `理想の部隊`/`夢`/`完璧` portray admired FOX, while Miyako's `全てを諦めてしまった大人` marks a changed interpretation rather than an omniscient trait (`scene:001:u:0025;u:0057-0073`). Kaya's `不信任決議案が可決`, self-announced acting presidency and `正常化` are broadcast assertions/legitimation, not a verified legal record (`u:0094-0100`). Sensei `心の声` at `u:0019`, `u:0048`, `u:0065-0067` is answered, and `u:0031/0033/0035`, `u:0042`, `u:0051`, `u:0055-0056` have role-label seams. `u:0006-0007` repeats branch response. Preserve source labels; no performed voice admitted.
+
+## V004 C002 E007 voice delta — poisonous authority and document pretexts
+
+Rin calls coercive acting-presidential power `毒の入った聖杯`; Kaya derides consent seeking as `衆愚政治` and invokes a presidential `超人` (`scene:001:u:0060-0078`). An officer's `公文書毀棄`/`職権乱用の疑い` marks allegation, while Kaya's `手紙の真偽はともかく` acknowledges she acts without authenticity resolution (`u:0094-0096`). `結果は決まったも同然` is pre-vote confidence (`u:0134`). `u:0011`, `u:0019`, `u:0049-0052`, `u:0097-0100`, `u:0116`, and `u:0127` bear role-label seams. The italic portions are part of a retrospectively located scene; no distinct performed voice admitted.
+
+## V004 C002 E008 voice delta — liability under the council's name
+
+`軟禁` is Ayumu's custody word, while the escort uses `「新しい連邦生徒会長代行」` as a contested title (`scene:001:u:0007/0018`). Kaya's `否定しません` and `侵入し...持ってくるよう指示` admit Schale entry/removal instruction (`scene:002:u:0015-0016`); `連邦生徒会の名` is the bargain's institutional predicate, and `素敵な新世界` her forecast (`u:0047;u:0068`). Sensei `心の声` at scene 1 `u:0023` and scene 2 `u:0007/0034/0054-0055/0061` receives replies; mark refusal as narratively clear but exact public wording uncertain. Scene 1 `u:0026` has likely warning-speaker drift and `u:0005-0006` duplicates convergence. No performed voice admitted.
+
+## V004 C002 E009 voice delta — equal rules and obedient weapons
+
+A guard's `公平` warrants neither proportionality nor lawful application when followed by a 100,000-yen charge; `内乱助長`/`テロ未遂` are arrest allegations (`scene:001:u:0034-0040;u:0057-0058`). `寄生虫`/`更生`/`就職斡旋施設` cast nonwork as civic deviance (`u:0082-0085`). The `ユキノ` tag at `u:0093` repeats her weapon maxim in Miyako's deliberative context; no physical FOX arrival is shown. The General contrasts `戦闘` and emphasized `戦争` (`u:0146;u:0163`). Wrong-role tags occur at `u:0007`, `u:0054`, `u:0062`, `u:0080`, `u:0098-0099`, `u:0108-0111`, `u:0150`, `u:0156-0157`, `u:0161`, `u:0167-0169`; preserve printed text and bounded attribution. No performed voice admitted.
+
+## V004 C002 E010 voice delta — labor and command labels
+
+Kaya's Blue Mountain `火を加減`/`雑味` metaphor treats people as roastable material (`scene:001:u:0002-0006`). `処罰調整の見返り` directly names her Kaiser exchange; `新体制が安定した後` threatens the deputy conditionally (`u:0007;u:0033-0035`). Aoi's `却下`/`例外はない` are stated finance practice, not opened written rule (`u:0069-0085`). Yukino's `いつになったら戻れる` marks delayed aspiration, and Minori's `すべての責任` is polemic with deliberate comic excess (`u:0096-0106;u:0131-0138`). Speaker tags drift at `u:0038`, `u:0051/0055`, `u:0063`, `u:0076`, `u:0089`, `u:0103`, `u:0107/0110`, and `u:0152`; preserve printed source, no performed voice admitted.
+
+## V004 C002 E011 voice delta — appendix, suspended title and ironic peace
+
+The guard's five-document list and Kanna's `附則`/`免除` permit a local exception without reproducing the decree (`scene:001:u:0016;u:0042-0050`). Kirino's `本官が責任を取ります` is rejected as insufficient guarantee (`u:0006-0008`). Kanna's `懲戒停職の上、役職を剥奪` coexists with `復職してから`; Kirino's `局長` is a familiar address, not proof of present rank (`u:0052;u:0096-0097`). Corporate radio's `50%以上` is promotional, and `平和だな`/`三流悪党` are contextually ironic/self-critical (`u:0081-0083;u:0114`). Sensei's answered `心の声` and duplicate `u:0094-0095`, plus a stray quote in paired `choice:002`, preserve representation limits. No performed voice admitted.
+
+## V004 C002 E012 voice delta — letter assent versus reciprocal order
+
+Miyako's letter says `デモを終了` and `先輩方の所に戻ります`, corroborated by the empty park and arrival; its collective `納得` is still her formulation (`scene:001:u:0004-0012`). `引っかかる`, `命令に従う武器`, and `最善...願う` coexist as doubt plus borrowed doctrine, not unqualified conviction (`u:0018-0020`). `解体`, `統制権限...移譲`, and `RABBIT支隊` are direct reciprocal squad-level command speech (`scene:002:u:0012-0015`). Moe's ECM is a `とか？` hypothesis (`u:0005-0006`); training and showers are future offers/orders. Sensei's `心の声` reads a physical letter but is not a direct conversation. No performed voice admitted.
+## V004 C002 E013 japanese voice and address delta — planned subway attack
+
+Cherino's escalating titles and `その他諸々` answer Kaya's disbandment request with comic evasion, while Ayumu's Marina chronology is only her report (`scene:001:u:0005-0054`). `10種類あまり` documents and robbery/serious-crime remarks are approximate or unattributed-to-record, not direct case files (`u:0055-0071`). Kaya's emphasized `恐怖（・   ・）` becomes the rationale for an acknowledged civilian subway blast, and her `事故` is an intended false label (`scene:002:u:0032-0053`). Yukino's `FOX1、了解` follows her explicit civilian-risk objection; neither cancels the other (`u:0041-0051;u:0067-0071`). A likely speaker-tag seam at scene 2 `u:0019` limits exact attribution of the rebate reply. `<A.N.T.I.O.C.H.>` is a project name, and `非活性化` is Yukino's report of storage status. No performed voice admitted.
+## V004 C002 E014 japanese voice and address delta — trust and camp route
+
+`Kaiser26`/26-hour work is a rumor and comic exaggeration, while Sora's `新しい行政命令` is reported without the instrument (`scene:002:u:0006-0016`). Repeated `先生（心の声）` lines elicit responses but remain inward in the represented source; do not silently repair them into speech (`scene:002:u:0017/0022;scene:003:u:0025/0053-0054/0085`). Door `開ける/開けない` at scene 3 `u:0008` is plain inward text, not `choice`; the unidentified charge-setter cannot be securely named though Otogi acknowledges excessive explosives (`u:0015-0022`). `囚人のジレンマ` and `All-Defect` are Kurumi/Otogi's situated trust theory, not proven universal law. Sensei's paired branches at scene 2 choices 001/003 and scene 3 choices 003/006/010 are alternatives. Niko's `ユキノちゃんには内緒` is a direct secrecy request after disclosed route. No performed voice admitted.
+## V004 C002 E015 japanese voice and address delta — comfort and personal justice
+
+Miyu's `自分で判断しなくてもいい` and `身の丈に合わない服` name relieved agency and ill-fitting comfort, not a request for more deprivation (`scene:001:u:0018-0022`). Saki's `傭兵` is analogy rather than payroll evidence; Moe's `息苦しい` qualifies her admitted enjoyment (`u:0027-0033`). Miyako's self-correction `今は支隊長` anchors command status, while Saki's dotted `ミヤコ`/`変わらない正義` makes the question personal (`u:0037-0043`). Sensei's greeting and evasive joke are tagged `心の声` despite Miyako's responses; retain the label seam (`u:0053-0057`). `逮捕します` is speech only, no narrated custody. No performed voice admitted.
+## V004 C002 E016 japanese voice and address delta — Miyako refuses the station mission
+
+The case log `取調記録` establishes an interrogation setting and named parties, not a complete legal arrest record (`scene:001:u:0001-0003`). Miyako's `最善策` immediately yields to `武器` as she suppresses her own judgment (`scene:002:u:0014-0016`). Sensei's responsibility explanation and later guarantee are tagged `心の声` despite responsive dialogue, so retain the label seam (`u:0017-0026;u:0048`). `予定` marks tomorrow's train/unload/closure/blast as future; Yukino's emphasized `命令` and Miyako's emphasized `連邦生徒会長` are rival authority claims, not inspected law (`u:0057-0084`). Four paired and one singleton tagged choices occur. No performed voice admitted.
+## V004 C002 E017 japanese voice and address delta — solo return and station coalition
+
+Miyako's `ただいま` and `RABBIT1` pivot from private return to chosen captaincy, though she left the other three at the FOX site (`scene:001:u:0005-0010`). `事実なら` qualifies the 5 km project-spec risk and `最悪の場合` early triggering; neither is a measured outcome (`u:0023;u:0035`). The title's ruby `衣繍夜行` supplies pronunciation, not a scene inference. Decartes's `社会人` wage sermon, one-pudding grievance and swift `所確幸` self-reinstatement are rival self-presentations, while member A questions the turn (`scene:002:u:0014-0021;u:0036-0063`). Sensei's `心の声` still receives responses in context (`scene:002:u:0015`). Eight tagged choices, only scene-1 choice 004 paired. No performed voice admitted.
+## V004 C002 E018 japanese voice and address delta — Life Safety opens the station
+
+The title's paired `エリート` is argued by Kaiser guard SOF/PMC boasts and Kanna's Life Safety-selectivity claim, both uninspected (`scene:001:u:0041-0049`). Guard `公安局長` is disputed by Kanna's own Public Security suspension account; her quotation of rule 32(1) is direct speech, not an opened legal document (`u:0020-0032`). The source locators jump to `u:0082` after 0027 and `u:0083` after 0058; preserve them, without invented u28/u59 or impacts. Fubuki's sign/escalator warnings and guard cries do not establish exact mechanics or injury. Miyako's Kirino-above-SRT praise is situated assessment, not rank measurement (`scene:002:u:0025-0037`). One singleton Sensei choice. No performed voice admitted.
+## V004 C002 E019 japanese voice and address delta — RABBIT reunites below station
+
+Miyako's `おそらく` and `確信はありませんが` flag FOX-route and depot-cost conjectures; `少なくとも1個大隊` is an uncounted capacity estimate (`scene:001:u:0007-0021`). `1130` is a time report, not a confirmed warhead-fuse countdown (`u:0033`). Drone loss is her report, while `オトギ先輩` is shooter inference from apparent 12.7 mm signs (`u:0038-0043`). Miyu corrects `私の正義` into a shared SRT value; `一同` affirms trust directly, without formal legal status (`u:0055-0069`). The cave-heart line is a remembered fictional quotation and the operation name its title; no side novel admitted (`u:0072-0082`). Five singleton Sensei choices. No performed voice admitted.
+## V004 C002 E020 japanese voice and address delta — forward FOX defense falls
+
+Otogi's direct `観測、撃墜` closes the prior drone-shooter inference; Miyako's `弾頭はすでにサイロに装着` is still a participant status report (`scene:001:u:0004;u:0048-0050`). Kurumi/Niko self-correct personal Yukino address to `FOX1`, showing bond versus rank, while Yukino's `命令` asks Niko not to seek an exit-order reason (`u:0025-0047`). `u:0062` carries a Miyu tag for RABBIT3 hacking assent, and `u:0079` carries a Miyako tag for criticism of Miyako's plan; exact voice quarantined. Kurumi's `はいっ、チーズ` has no explicit flash/device text, and `ダウン` does not define injury (`scene:002:u:0027-0054`). Moe's physical breach defeats Niko's predicted impossibility, without restoring digital control (`u:0075-0113`). No performed voice admitted.
+## V004 C002 E021 japanese voice and address delta — Yukino's button threat
+
+FOX3/FOX4 `やられちゃった` and no support clarify `ダウン` as combat-disabled yet speaking, without clinical detail (`scene:001:u:0002-0005`). Yukino's `あんな大爆発` explains her radio-failure inference after E020's door breach, not thermobaric detonation (`u:0009-0013`). `最終` is intended last defense. `自爆ボタン` is Yukino's asserted device and `ブラフ` Saki's unsupported rebuttal; do not select truth from rhetoric (`u:0030-0043`). Narrator `u:0018` duplicates Saki `u:0019`; exact first voice quarantined. Two Sensei choices, first paired. No performed voice admitted.
+## V004 C002 E022 japanese voice and address delta — device secured and FOX surrenders
+
+Yukino's inner `自爆ボタン` and later `ただのブラフではない` correct Saki's E021 unverified bluff claim, though no press is shown (`scene:001:u:0005;scene:002:u:0024-0027`). `爆発の衝撃` has no identified source and does not name the warhead blast; `確保した` is Sensei's capture claim (`scene:002:u:0001-0004`). `FOXTROT` and flashbang identification/0.5-second gain are character cues/estimates, not measured combat record (`u:0015-0020`). Niko's stained hands and `明日を待つ` keep accountability and developmental time distinct (`scene:001:u:0033-0039;scene:002:u:0058-0069`). Otogi-tagged `u:0074` sounds like Kurumi's reply, so exact voice quarantined. No performed voice admitted.
+## V004 C002 E023 japanese voice and address delta — Kaya detained after failed coup
+
+Kaya's phone lines do not quote the General's replies; separate General speech later is direct (`scene:001:u:0005-0013;u:0022-0033`). Moe's Highlander `事故のニュース` is a reported transit pretext and not proof the E013 planned false-blast cover actually occurred (`u:0016-0017`). `容疑者を確保` and `緊急逮捕` give local detention/announcement; the immunity exception and charges are Miyako's unadjudicated legal claim (`scene:002:u:0007-0011`). FOX recording lines `u:0039-0052` are earlier-time playback, not live office dialogue or a station-warhead confession. Heine's `弾劾だ` is demanded impeachment only. Four choices, first two paired. No performed voice admitted.
+## V004 C002 E024 japanese voice and address delta — chapter epilogue
+
+Mai's `爆破未遂` is attempted bomb, not detonation; `弾劾裁判...訴追` reports proceedings/prosecution rather than a quoted verdict (`scene:001:u:0003-0006`). Kaiser Group's rogue-subsidiary line is attributed corporate speech. Decartes's `超人` dismissal, SRT denial and bento negotiation are partisan/fanciful claims, not source repairs (`u:0020-0051`). Miyako's `正式に許可` refers to park residence, not school reopening (`scene:002:u:0033-0034`). Scene 3 `u:0014` has a Saki-tagged address to Saki, and letter voice `u:0024-0029` intercuts Schale with correction-facility dialogue. Niko's `明日` is future hope, not dated release. Two paired Sensei choices, no performed voice. Checkpoint due.
+
+## V004 C002 chapter checkpoint — representation control
+
+The [chapter checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C002_CHECKPOINT.md) retains `甘い悪夢` as Yukino's dream-framed evaluation, Rin's `毒の入った聖杯`, `RABBIT支隊` as a local command transfer, Yukino's `FOX1、了解` as assent to the station order, and `爆破未遂`/`正式に許可` as attempted bombing/park residence rather than completed blast/school reopening. E021's alleged bluff is corrected by Yukino's E022 admission, without backdating the later admission into an earlier reading. Speaker-tag conflicts, answered `心の声`, paired choices and E024's unheaded letter/Schale/correction intercut remain local attribution limits. No performed voice, side source or later revelation is admitted retroactively. V005 C001 E001 unopened.
+
+## V005 C001 E001 japanese voice and address delta — interrupted implication
+
+Nagusa supplies the reading `魑魅一座（すだまいちざ）`; Arata's `来週のお祭り前に好き勝手暴れる計画` specifies timing/intent but no method (`scene:001:u:0009-0024`). The troupe's `百花繚乱ってことは――` is interrupted before its implied predicate; do not complete it. Nagusa's `ただの、コスプレ`, `アレ` and inward `私は……もう、百花繚乱ではない` keep outfit, item and public versus private status distinct (`u:0031-0042`). Niya's `ちょ～っぴり個人的なお願い` remains undisclosed (`scene:002:u:0013-0020`). Kuzunoha's `色彩`/`反転`/death analogy is character speech after Sensei's thought with no explicit current-call placement (`u:0021-0026`). Three singleton Sensei choices and answered `心の声` do not ensure verbatim audibility. No performed voice. E002 unopened.
+
+## V005 C001 E002 japanese voice and address delta — proof and label anomaly
+
+The unknown claimant's `身共（みども）` and later Yukari lines strongly connect them, but her name appears only at `scene:001:u:0016`; the resident is labeled Korean `슈나우저 마을주민` within a Japanese script (`u:0008-0010;u:0026`), so retain the source anomaly without inventing identity. `証拠は……ありません` is an initial evidence gap; wallet recovery and the thugs' reactions later change that grade (`u:0007;u:0023-0029`). `お天道様は見ていますのよ` is a moral appeal, not observed supernatural testimony. Sensei's `心の声` at `u:0020` receives a thug response, while `choice:001` is a singleton help offer; audibility of the exact inward line remains uncertain. Scene 2 is only navigation. No performed voice. E003 unopened.
+
+## V005 C001 E003 japanese voice and address delta — unfinished names and reported tradition
+
+The resident's Korean role label `슈나우저 마을주민` recurs amid Japanese dialogue (`scene:001:u:0012-0025`). `解散令` is heard/report speech, `謹慎中` the resident's inference, and Yukari says this has `語弊` while under review (`u:0016-0019`). Her `かで……` cuts off before the name `ユカリ`, so no surname is supplied (`u:0026-0028`). Renge-senpai's `オレだよ！オレ！` warning is Yukari's secondhand account, not a direct Renge line (`u:0032-0035`). `百鬼夜行燈籠祭` and its twenty-year abolition/renaming account are her transmitted tradition; she expressly lacks the termination reason (`u:0054-0063`). `あんな出来事`, Sensei's Shizuko inference and `巫女様` remain unconfirmed or unidentified (`u:0070-0078`). Nine singleton choices; `心の声` audibility remains locally uncertain. No performed voice. E004 unopened.
+
+## V005 C001 E004 japanese voice and address delta — letter readout and duplicated lines
+
+`あの日`/`あれから` lack a named referent here, and Chise's haiku/forgot-face line is playful, not a memory diagnosis (`scene:001:u:0006-0014`). Niya reads the alleged 花鳥風月部 letter with `風流`, `風情` and `大輪の花`; the last quoted line is raw `[log=니야]` inside narration, not a new verified speaker (`u:0060-0072`). Her `百物語（かいだん）` is a rumor framing; `脅迫状` is her classification, not source authentication. Niya reports a formal `解散令` while `u:0088-0089` wrongly presents echoed E003 resident/Yukari lines as live Yukari; do not create a second in-room exchange. Sudden Niya `やね` at `u:0074` and Kaho's Chise-like `u:0112` remain label/style seams. Nineteen choices include paired `choice:005/017`; answered `心の声` remains audibility-sensitive. No performed voice. E005 unopened.
+
+## V005 C001 E005 japanese voice and address delta — succession terminology and tag drift
+
+Niya asks about `勘解由小路（かでのこうじ）` lineage, then Yukari distinguishes `身共個人としてのお願い` from a family request (`scene:001:u:0001-0002;u:0115-0121`). Niya names `御稜ナグサ`, Kaho names `七稜アヤメ`, and Niya identifies `桐生キキョウ` from Yukari's slip; absent people do not speak here (`u:0029-0036;u:0065-0080`). `証`, `委員長代理`, `継承戦`, `幹部` and `立会い人` are distinct roles/steps. Narrator/log `u:0044` contains `[log=유카리]`, and Kaho's manual report does not open the source rule. Wrong-label candidates `u:0034`, `u:0091`, `u:0130`, `u:0134`, `u:0141`, `u:0147-0150` forbid fine voice repair. Fourteen singleton choices; answered `心の声` remains audibility-sensitive. No performed voice. E006 unopened.
+
+## V005 C001 E006 japanese voice and address delta — mediated ideal and represented memory
+
+Yukari contrasts `仲裁` with `罰を下したり導く` and calls committee `初めて自ら選択した居場所` (`scene:001:u:0016-0025;u:0063-0068`). The unheaded stand sequence `u:0026-0062` is apparently prior-time by `あの頃`; exact date is absent. Thug-B `u:0033` and Nagusa `u:0050` labels contradict their utterance positions; Kikyou/Renge lines around `u:0053-0057` remain cautious. `資格の証` is a publicity-site gun image; `幽霊を捕らえる`/Kuzunoha meeting are qualified by Yukari herself as `伝聞`/`噂` (`u:0069-0087`). Renge's door-paper line has `[log=렌게 실루엣]`, not live current speech (`scene:002:u:0014-0018`). Fifteen choice groups, paired scene-1 `choice:003/008/010`; no performed voice. E007 unopened.
+
+## V005 C001 E007 japanese voice and address delta — recollection and visitor labels
+
+Scene-1 `u:0044` appears between `u:0007` and `u:0009`; several Renge-colloquial recollection lines carry Yukari labels (`u:0004;u:0018;u:0020-0021`). Yukari's `欲望が爆発` is her present inference, not Renge's recalled wording. Chlorella scene `u:0037` is Yukari-labeled but says Renge is not there, likely a club member; the inset Renge words remain past reported speech (`scene:002:u:0024-0056`). `辛辣な高評価` is Yukari's comic rephrasing of mixed club comments (`scene:005:u:0010-0016`). Kaede-labeled `u:0024` addresses `カエデちゃん`, so Mimori's probable line cannot be assigned securely; Sensei names all three visitors and Tsubaki has a direct yawn (`u:0020-0025`). Nine choice groups, paired scene-2 `choice:002`; no performed voice. E008 unopened.
+
+## V005 C001 E008 japanese voice and address delta — wrong haori and Renge name
+
+`送故迎新（そうこげいしん）` is a planned/Shizuko-reported lantern rite, not observed completion (`scene:001:u:0020-0028`). Sensei's Chise miko guess is followed by an unnamed old ritual-family description, not identity proof (`u:0029-0032`). `魑魅一座` mistakes a water-blue haori for culprit affiliation even after one follower says Yukari is different (`u:0053-0059`). Renge directly names `不破（ふわ）レンゲ` at `u:0082`. Mimori-labeled `u:0006` says `私はカエデ`, `u:0085` is out of order, and `u:0031/0042` plus troupe tags show drift; exact fine voice attribution remains bounded. Five singleton choices, no performed voice. E009 unopened.
+
+## V005 C001 E009 Japanese voice and address delta
+
+Tsubaki’s 体験入部中 narrows Renge’s colloquial 入った; 熟睡レディーファイター is her pressured self-description, not a verified program (scene:001:u:0001-0036). 戯言, 自惚れ and 誰もアタシたちを必要としていない are Renge’s evaluations, not narrator rulings (u:0066-0104). The return-object line and 帰る場所が―― omit referents (u:0116-0119;scene:002:u:0007-0010). Renge-labelled u:0026 uses Yukari’s 身共; the unheaded memory inverts tags at u:0112-0113. Ten Sensei choice groups, one paired; performed voice not admitted. E010 unopened.
+
+## V005 C001 E010 Japanese voice and address delta
+
+Yukari’s 身共, えりーと and ぱーふぇくと mark her self-steadying register after visible doubt (scene:001:u:0001-0021). きっと and はず qualify her Kikyou/Renge predictions. The servant’s お嬢様 and 勘解由小路家の使用人 name a household role, while もしや、まだ―― remains unfinished (u:0026-0055). Sensei choice:004 has two compatible displayed alternatives, not two sequential utterances. Renge’s line is framed by あのときの as recollection (u:0049-0052). [log=???]＜――こっちだよ＞ leaves sender/audibility unverified; どうやら makes the stallholder’s identification tentative (u:0056-0067). Four choice groups, one paired; no performed voice. E011 unopened.
+
+## V005 C001 E011 Japanese voice and address delta
+
+The Korean role tag 차가워보이는 소녀 무소속ND carries a troupe-like あたしら line immediately before the student’s 私/denial, a clear tag seam (scene:001:u:0015-0018). ただの一生徒 is the student’s self-presentation; だった and 今はもう離れてる mark former affiliation despite a later 百花繚乱部員 label (u:0064-0067). アレ, あの日 and あの子 remain unfilled referents; 帰れない and 資格が無い are self-judgments (scene:002:u:0008-0016). Four ＜ウソ＞ tokens have no assigned source, the first with [log=???]. Sensei’s 心の声 cues appear to receive responses but audibility remains uncertain. Ten choices, one paired; no performed voice. E012 unopened.
+
+## V005 C001 E012 Japanese voice and address delta
+
+Yukari’s みっしょんこんぷりーと is forecast, defeated by Kikyou’s 断る (scene:001:u:0008-0010;scene:002:u:0058-0059). 証人 and 立会い人 are used for procedural roles; Kikyou names Sensei and a mutual-witness 特例 while the rule text is uninspected (u:0109-0114). Kikyou’s 自惚れ, 見捨てた and 正義は力の優劣で決まる are evaluations/doctrine claims. Shizuko’s 記録によれば marks a historical report, not firsthand performance. Yukari-labelled scene:001:u:0014 and scene:002:u:0100 appear Kikyou-like; Shizuko-labelled scene:002:u:0030 also drifts. u:0115 precedes u:0109 and u:0108 is absent. Seven singleton choices; no performed voice. E013 unopened.
+
+## V005 C001 E013 Japanese voice and address delta
+
+Kikyou’s お遊び, ごっこ, 反吐が出る and 鬱陶しかった are severe address to Yukari, later followed by protective 情 language; a later rationale does not make the earlier insults narrator truth (scene:001:u:0019-0038;u:0057-0066). 帰る場所 explicitly names a family-home contrast without proving emotional availability. Yukari’s 承知の上 revises her earlier confident みっしょん language. The Yukari lines after apparent exit at u:0069-0073 are unheaded remembered/overlay material. Kikyou’s レンゲ……？うん、私 is an incomplete contact cue. Shuro’s 手前, とてもとて～も and 猫の手 joke are one first speech sample (u:0113-0119). Five singleton choices; no performed voice. E014 unopened.
+
+## V005 C001 E014 Japanese voice and address delta
+
+The narrated servant chorus gives way to Yukari-focalized 私 then 身共, contrasting やるべきこと with やりたいこと (scene:001:u:0060-0095). Servant accolades are not opened records. Kikyou’s ごっこ and Renge’s ending claim recur as remembered lines, not present speech (u:0097-0103). Shizuko labels Hyakuyado branding 冗談, while her 自分自身 agency appeal is direct (u:0022-0050). Yukari’s 参加いたしましょう is assent to future participation, not a completed dance (u:0129-0133). Tourist らしい/聞きました keep old festival claims hearsay. Shuro’s 手前どもの百物語（かいだん） names an undefined plan (u:0153-0157). Eleven choice groups, two paired; no performed voice. E015 unopened.
+
+## V005 C001 E015 Japanese voice and address delta
+
+Shuro’s stretched politeness, 手前/手前様 and teacher/student question frame the encounter; the letter recitation and そうですよぉ are direct, while [log=???]＜百鬼夜行を燃やし尽くしてやろう＞ has unknown speaker/mode (scene:001:u:0011-0035). あの人 is unnamed and 百物語（かいだん） remains undefined (u:0020-0043). Yukari’s 嘘, 演じた and 元の場所 are distressed self-assessments in a retrospective inset, not narratorial correction (u:0059-0081). Michiru’s theatrical 忍術 pledge and Izuna’s formal eager speech are one recruitment context; 一同 cannot isolate Tsukuyo’s voice (u:0109-0122). Seventeen choices, three paired; no performed voice. E016 unopened.
+
+## V005 C001 E016 Japanese voice and address delta
+
+Nagusa’s 幼馴染 describes her Ayame tie directly, while member 127回目 and Kuzunoha meeting are hearsay (scene:001:u:0007-0028). この銃は（あかし）重すぎる binds gun and 証 in her focalization; three ■ blocks after Ayame comparison are not recoverable (u:0033-0042). 元副委員長 and 返却した今 are her self-description, not an office register (u:0051-0052). 正解 for Yukari is her judgment; きっと分かってくれる is forecast (u:0058-0075). [log=???]＜ウソ＞ has unknown voice; 空に花が咲く echoes the letter’s sky flower without proving cause (u:0076-0080). Nagusa names 幻魎百物語 without defining it (u:0089-0093). Nine choice groups, one paired; no performed voice. E017 unopened.
+
+## V005 C001 E017 Japanese voice and address delta
+
+送故迎新 is the planned miko dance’s stated theme; 予定 for broadcast and festival-end schedule remain future (scene:001:u:0010-0016). Yukari’s 義務/完璧 echo E014’s duty turn, not proof settled wellbeing (u:0020-0030). Renge’s 興味ない conflicts with situated peer observations; Kaede’s 読心術 joke is denied by Mimori (u:0039-0082). Tsubaki’s 体験入部はここで終わり ends a trial, not automatically restoring Hyakka membership (u:0102-0114). Kaede/Mimori/Tsubaki tags drift at u:0074, u:0093-0100 and u:0127-0130; Tsukuyo’s u:0140-0142 has a comparison/question inversion. 負傷者が続出 is a field report. Kaho’s ような marks interference as tentative (u:0161-0205). No Sensei choices or performed voice. E018 unopened.
+
+## V005 C001 E018 Japanese voice and address delta
+
+Nagusa’s 返す and 預かってほしい show an offered 証, not explicitly accepted custody; Kikyou’s 代わり denial distinguishes affection for Nagusa from Ayame substitution (scene:001:u:0016-0037). Nagusa calls Sensei’s rescue 綺麗事, a live challenge rather than narrator judgment (u:0045-0059). 幻魎付喪神 and 幻魎百物語 are distinct labels; rumor-derived うわさ and escalated 怪談 are Nagusa’s theory (u:0060-0064;u:0101-0111). Niya’s 呼ばれたり、呼ばれなかったり marks uncertain folklore and is not a located street entrance (u:0065-0067). Renge’s また逃げる expresses hurt before Nagusa’s warning is heard (u:0097-0104). Kaede-labelled u:0082 seems Mimori voice. Nine choices, two paired; no performed voice. E019 unopened.
+
+## V005 C001 E019 Japanese voice and address delta
+
+百蓮 is named by an out-of-order u:0201 source unit, not a later scene. 幻魎付喪神, 幻魎百物語 and クロカゲ remain distinct/nested labels; Shuro identifies the latter as the large figure (scene:001:u:0013-0028;u:0051-0057). Nagusa’s 大雪原で and キキョウに…… are both unfinished (u:0031-0048). [log]＜ウソ＞ is separately marked even when Shuro echoes the accusation; not narrator authentication. The mediated first-person fears at u:0136-0149 are later text, not literal E016 redaction recovery. Shuro’s repeated diminutives/mock politeness frame adversarial humiliation. Kaede-tagged u:0021-0022 shifts register. Eight singleton choices; no performed voice. E020 unopened.
+
+## V005 C001 E020 Japanese voice and address delta
+
+Shuro’s 風流 and 百物語 are self-described purposes; her うわさ and 最善→最悪 are claims about causation and judgment, not narrator certification (scene:001:u:0034-0075). Kikyou’s guess of Yukari as 主役 is confirmed by Shuro, while Nagusa’s アヤメの時みたいに is an analogy without opened backstory (u:0076-0094). The servant’s 汚点 is household shame rhetoric; Yukari’s それだけのことであれば remains conditional (scene:002:u:0032-0051). The later voice resembles Shuro, but [log=???] and absence of a named speaker leave mode/attribution open (u:0052-0060). Fina/Umika tags drift in setup (u:0007-0013). Seven choices, one paired; no performed voice. E021 unopened.
+
+## V005 C001 E021 Japanese voice and address delta
+
+Nagusa’s 百物語にして and 黄昏の向こうへ describe Ayame’s reported transformation/removal, not a verified death or known destination; コクリコ is named as 花鳥風月部部長 in testimony (scene:001:u:0038-0045). Shuro’s 主人公 and 誰一人 universalizes selected Yukari injuries on a public feed while Yukari is silent (u:0065-0083). Kikyou emphasizes あなた as Nagusa herself, countering replacement language, while Nagusa’s 私そのものがコスプレ is a self-condemning metaphor (u:0104-0110;u:0131-0140). Nagusa’s やってみる promises an attempt, not result (u:0155-0156). Source u:0166 appears between u:0041 and u:0043; two singleton choices and final 次回 teaser are not performed voice/future observation. E022 unopened.
+
+## V005 C001 E022 Japanese voice and address delta
+
+Niya’s 電波ジャック is a participant diagnosis consistent with the observed broadcast, not all communication failures (scene:001:u:0009-0012). Izuna calls Sensei 主殿, Michiru 先生殿, and Tsukuyo supports her 部長, with the three club voices distinct (u:0031-0052). Scene:002:u:0002 is Yukari-tagged but Shuro-register and likely label drift. Shuro’s 代理人 and 語り手 are self-appointed roles; 無貌の形代 is her chosen name, not mechanism proof (scene:002:u:0001-0049). Narrator-tagged ＜全部燃えてしまえばいい＞ and later self-blame are within Yukari’s guilt-focused sequence, not a spoken command or objective liability finding; 身共の間違い is her inward judgment (u:0041-0060). Five singleton choices; no performed voice. E023 unopened.
+
+## V005 C001 E023 Japanese voice and address delta
+
+Shuro’s 手前（てめぇ） explicitly addresses Nagusa harshly, distinct from self-referential 手前; the supposed Ayame quote 友達だと思ったことなんてない is voiced by Shuro, not Ayame directly (scene:001:u:0018-0053). u:0004 has a 幻魎百物語 tag but Shuro register, leaving mediation/label drift open. The book display distinguishes Yukari’s やるべきこと from やりたいこと before Nagusa’s all-false self-reproach (u:0064-0084). Shuro’s 百物語 labels range over multiple targets and should not be collapsed. u:0141 occurs between u:0087 and u:0089. Choice:003 has three options, choice:005 two; do not combine them into a voiced monologue. No performed voice. E024 unopened.
+
+## V005 C001 E024 Japanese voice and address delta
+
+普通のこと is Sensei/Yukari’s reframing of 取り繕う and 演技 while both still recognize injury and need for 仲直り (scene:001:u:0009-0018;u:0041-0045;u:0062-0078). Yukari’s 復活 is a lively self-announcement, 決闘 and 逮捕しますの are declarations, not completed outcomes (u:0051-0083;scene:002:u:0089-0092). Nagusa’s 助けて、ほしい is a direct appeal, with her 委員長代理 role explicitly chosen even as performance (scene:002:u:0047-0052; interleaved u:0155-0173). Korean-coded log markers name text presentation but do not admit performed audio. Scene-002 u:0120 and u:0121-0173 are out of numeric order; seven choices, one paired. E025 unopened.
+
+## V005 C001 E025 Japanese voice and address delta
+
+Renge’s 逃げた and たおし…てはない delimit Shuro’s outcome; Sensei’s もしかしたら marks the proposed book effect uncertain (scene:001:u:0001-0021, choice:001). Yukari’s 継承戦 is distinct from E012’s strategist-seat trial, and Nagusa says 委員長代理 when accepting it (u:0035-0047). Sensei’s 勝者 is tagged inner voice but Yukari directly says 敗北 and 全力, corroborating the local result (u:0048-0059). Yukari’s 憧れ and 身共たちの、家 are present admiration/chosen belonging, not a documented institutional order (u:0060-0067). Eleven choices, two paired; no performed voice. E026 unopened.
+
+## V005 C001 E026 Japanese voice and address delta
+
+Niya’s 保留 is explicitly distinguished from 取り消し by Sensei; 活動費を貰えない……とか is example/possibility, not decree (scene:001:u:0039-0045). 狐につままれた is a simile, not a literal fox clue (u:0053-0056). Yukari’s 巫女はもうやめてやる is a reported household declaration, while 真の復活 is her celebratory rhetoric (u:0103-0116). 燈籠流し is an enacted lantern rite, separate from the unperformed family dance (u:0118-0130). Shuro’s 作れなくって and Kokuriko’s 作れずとも together revise the earlier completion boast; regional/archaic Kokuriko register is narrow (u:0131-0147). u:0149 occurs after choice:014 and choice:015 is absent; 25 groups, three paired, no performed voice. C001 checkpoint due.
+
+## V005 C001 canonical checkpoint reconciliation
+
+The checkpoint keeps コスプレ/演技 as Nagusa’s shame becoming chosen acting-chair practice, 普通 as Sensei/Yukari’s repair-with-hurt ethic, 継承戦 as the chair bout distinct from strategist-seat trial, and 保留 as dissolution hold rather than cancellation. 百物語 labels have separate referents/grades; Shuro’s 作れなくって revises her completion boast. Twenty-year miko disappearance is not Ayame. Text log/ruby/tag seams and paired choices remain unperformed, with no voice admission. C002 E001 next.
+
+## V005 C002 E001 japanese voice and address delta
+
+The dream’s 1年 and 201戦、201勝 are frame-limited; ほら、手 is dream support, and 友達だと思ったことなんてない is dream speech echoing Shuro, not Ayame directly authenticated (scene:001:u:0001-0031). 腕の中で、炎が渦巻いているみたい is a pain simile, not mechanism proof (u:0033-0034). No Sensei choice or performed voice. E002 unopened.
+
+## V005 C002 E002 japanese voice and address delta
+
+Kokuriko’s 怪芸家 title for Azami differs from Shuro’s 怪談家. 稲生物怪録 and 稲亭物怪録 differ by the middle character and are presented as different books; 欲望/恐怖 functions are Azami’s claims (scene:001:u:0008;u:0055-0064). 種 remains unidentified, and 百物語（あくむ） is Shuro’s revenge gloss. Azami-tagged u:0014 has Kokuriko-like register; an unheaded cut before Shuro prevents assumed co-location. No choices/performed voice. E003 unopened.
+
+## V005 C002 E003 japanese voice and address delta
+
+Arata’s 予選は出てる corrects the follower, while the three vertical coupon stanzas are printed verse, not judged award (scene:001:u:0024-0046). Nagusa’s 調停 and Kikyou’s 個人の依頼は受けていない mark a situational mission boundary; Yukari’s broader お仕事 is aspiration (scene:002:u:0023-0033). 帰ってくるから is Nagusa’s expectation of Ayame, not narrator fact (u:0058-0059). 大雪原の時の傷 is her wound report; すぐに治る and 治療できるかもしれません are unverified reassurance/possibility (u:0087-0092). Scene:001:u:0053 has Yukari tag with Renge-like register. No choices/performed voice. E004 unopened.
+
+## V005 C002 E004 japanese voice and address delta
+
+The same examiner is initially 怪しげな医者, then カイ-tagged while self-introducing リク; do not split identity without evidence (scene:001:u:0024-0035). 幻肢痛 and 腕はここにありません are the visitor’s terms, in tension with Renge’s visibly present arm (u:0044-0054). Nagusa’s 黄昏の痕 is firsthand but not complete mechanism. すぐ治る (E003) and doctor’s delay-worsens claim conflict as prognoses, with no observed result (u:0061-0075). No Sensei choice/performed voice. E005 unopened.
+
+## V005 C002 E005 japanese voice and address delta
+
+`10か月くらい前` is Nagusa's approximate timing, not a fixed archive date. `百蓮を託して` names a reported handoff, not chair transfer (scene:001:u:0001-0003). `クズノハ様なんて、いない` is her earlier assertion; the later `クズノハ` tag, conditional self-answer and her denial leave identity unsettled (u:0025-0028;u:0065-0084). `友達だと思ったことなんて、ない` occurs inside Nagusa's retrospective; Shuro's quote and Nagusa's dream are not independent confirmations (u:0047-0056). `ある者` leaves the scroll beneficiary unnamed (u:0085-0088). `ユカリ`-tagged u:0103-0104 has Renge-like colloquial voice. No Sensei choice/performed voice. E006 unopened.
+
+## V005 C002 E006 japanese voice and address delta
+
+和楽まつり is a planned Chise-centered event; 怪異 is a report-level umbrella and 幻魎百物語 Nagusa/Niya’s unverified identification (scene:001:u:0027-0043;u:0067-0080). もう大丈夫だと思う does not entail Niya’s 片付けられていた (choice:010;u:0096-0098). E005 巻物 and E006 手紙 may relate but are not inspected together. Yukari-tagged u:0019 is Renge-like, and Kikyou-tagged u:0049-0050 may drift. Fourteen choices, six paired. E007 unopened.
+
+## V005 C002 E007 japanese voice and address delta
+
+土生アザミ and 自治委員会会長 are Azami’s public self-presentation, not audited registration (scene:001:u:0018-0026). Her 日が暮れるまでは timing sits uneasily with the glassworker’s 明け方頃 account (scene:001:u:0036-0038;scene:002:u:0022). 怖いもの jokes in the bath are hypothetical, whereas Nagusa’s 誰 is unnamed and not certified Ayame (scene:003:u:0110-0136). Sensei 心の声 at scene:001:u:0042 apparently draws Azami’s reply, a voice/cross-talk seam. Five choices, three paired. E008 unopened.
+
+## V005 C002 E008 japanese voice and address delta
+
+記憶の中のアヤメ frames Nagusa’s idealized montage; the never-friend sentence at scene:001:u:0022 is narration inside another nightmare, not a new Ayame testimony. Shuro’s 覚めない悪夢をお贈りしたかった is intention, not proven prior spell. Nagusa’s 委員長のフリだけでも is a protective choice, not admitted fraud (u:0037-0042). The final アヤメ label and others’ recognition are represented, but identity is unresolved (scene:002:u:0025-0031). Sensei’s u:0008 is 心の声 despite seeming conversational flow. No choices/performed voice. E009 unopened.
+
+## V005 C002 E009 japanese voice and address delta
+
+委員長の資格 and 委員長の肩書き are explicitly distinguished by the Ayame-labeled figure; she calls 継承戦 a 百蓮 transfer ritual (scene:001:u:0025-0033). 人が相手、ならね narrows her shooting comparison. 効果はなかった is her remembered mirror encounter, not externally verified (u:0034-0050). いつだって、ナグサは大事な友達 is present assurance against an older conflicting report, not a retrospective transcript (u:0062-0076). 私は後者を信じる is Kikyou’s situated trust decision. No Sensei choice/performed voice. E010 unopened.
+
+## V005 C002 E010 japanese voice and address delta
+
+縛られて転がってる confirms current Shuro restraint, not final arrest. 幻魎付喪神/唐傘お化け label a reported old-umbrella creature; 怪書に不可能はない is Shuro’s boast, できないでしょ the figure’s untested rebuttal (scene:001:u:0019-0045). 隙/人工照明 are Kikyou/Yukari impressions, not identity tests (u:0100-0139). Kikyou-tagged u:0108 is Renge-like. Sensei 心の声 at u:0093,u:0147,u:0149 draws apparent replies, leaving audibility uncertain. Six choice groups, five paired. E011 unopened.
+
+## V005 C002 E011 japanese voice and address delta
+
+印 and 彼岸邸 name a present marked object and Azami’s candidate mansion, not a proved base (scene:001:u:0011-0025). 継承者/最後の任務 are the figure’s status interpretation and future intent, not formal office act (u:0041-0054). 稲生物怪録 differs from the found 最強の怪談家 manuscript; 朽木修羅 is Shuro’s in-story author persona despite earlier 箭吹シュロ name, not a second tracked subject (u:0065-0118). u:0005,0016,0049,0065 have label seams. Four choices, only first paired. E012 unopened.
+
+## V005 C002 E012 japanese voice and address delta
+
+彼岸邸 is a reached location, though deed/base status remains unverified. 巫女の舞/fire sequence is diary-mediated narrative; 醜態 and 簒奪 are charged words, not audited rulings (scene:001:u:0049-0091). Kokuriko’s 我もかつては勘解由小路の子 and Hyakka membership are direct self-attributions (u:0094-0104). 手に取るようにわかる need not be telepathy. Sensei 心の声 at u:0019 draws replies, and Yukari-tagged u:0033 is colloquial. Five choice groups, one paired. E013 unopened.
+
+## V005 C002 E013 japanese voice and address delta
+
+やられた and 蛇の口 describe Kikyou/Shuro trap assessments, not a full command record (scene:001:u:0001-0012;scene:002:u:0005-0012). 怖がって見せた is Shuro’s boast against her inward panic. 百物語が……手前を and Sensei’s why-it-shot-Shuro thought establish local attack without author. 戻りたくない references an unnamed earlier place. Sensei’s 意外と丈夫 followed by 痛い means pain, not immunity (u:0038-0059). Azami’s どうして分かった acknowledges exposure. Eight choices, only sixth paired. E014 unopened.
+
+## V005 C002 E014 japanese voice and address delta
+
+怪芸家 is Azami’s self-title matching E002 Kokuriko address. 蛇の舌 is manipulative imagery, not literal anatomy. 稲亭物怪録 differs from lost 稲生物怪録 and Shuro’s manuscript (scene:001:u:0019-0035). エビス分校の生徒なんかじゃない and 全て操っていた are Kikyou accusation/hypothesis; Azami confirms affiliation/escort only. 最初から、一緒になんていなかったよ is an Ayame-labeled voice claim in a disorienting scene, not audited chronology (scene:002:u:0019-0029). No choices/performed voice. E015 unopened.
+
+## V005 C002 E015 japanese voice and address delta
+
+いい夢/幸せな夢 describes a no-burdens peace ideal but the figure says the formulation came from a movie (scene:001:u:0001-0014). 久しぶり and あれ distinguish new speaker from previous companion but not independently authenticate either (u:0015-0028). 他人の欲望 is her burden framing; おとぎ話から現実に is a proposed book transformation, not achieved. 見守る目 remains unspecified. The never-friend completion at u:0052 is ナレーション after Ayame’s lead-in, a precise voice seam. No choice/performed voice. E016 unopened.
+
+## V005 C002 E016 japanese voice and address delta
+
+捕らえた is Kokuriko’s report of Sensei status, not inspected restraint. 天敵 is a strategic metaphor, not power classification (scene:001:u:0005-0017). u:0019 is Shuro-tagged but Kokuriko-like dialect. E013 alternative rescue choices recur as narration at u:0025/0030-0031 and cannot be cumulated. 味方に危害を加えないはず is Shuro’s expected rule, not proven law; 噂が静まれば消えゆく is Kokuriko’s lifecycle claim. Shuro’s 何の記憶も持っていない is a memory report, not species proof (u:0035-0058). E017 unopened.
+
+## V005 C002 E017 japanese voice and address delta
+
+七稜アヤメ is an announced visitor identity, while ただの影 is Niya’s challenged classification supported by response but not complete mechanism (scene:001:u:0029-0033,u:0052-0068). 雪崩/遭難 are the visitor’s claims, not narrator weather events; 機動力の高い生徒 is a dispatch order only. 邪気 is Niya’s detection language, not a displayed scan. 仲間思いじゃない is from the impostor, not proof of original Ayame motive. u:0007/0010/0022/0047 show label seams. No choices/performed voice. E018 unopened.
+
+## V005 C002 E018 japanese voice and address delta
+
+同床異夢 evokes shared confinement with divergent aims but is no dream-state proof. 稲亭物怪録 is Shuro's claimed source of the pleasant Ayame; lost 稲生物怪録 is a distinct proposed replacement target (scene:001:u:0060-0066,u:0108). 全部お芝居 is Shuro's overbroad boast, constrained by E013 fear/attack. 先生（心の声） at u:0085-0088 seems to receive replies without audibility resolved. もらった in choice:006 directly asserts prior receipt of a Kuzunoha letter from Nagusa, not signature verification. u:0017-0027 stack mixed voices under ユカリ; u:0044 is formal レンゲ-tagged, u:0052 キキョウ-tagged laughter during Shuro's entrance. Six choices, four paired. E019 unopened.
+
+## V005 C002 E019 japanese voice and address delta
+
+解放 is reported by a group member after release, without the intervening act. 独断 is Kikyou's intuition. 生徒を言葉一つで操る is Shuro's hostile assessment, not literal control proof; 銃口が先生の頭 names the hostage threat (scene:001:u:0008-0023). The three lines in choice:002 form one group about protecting a child, and Shuro disputes 当然. 廃墟 is the first visible temple state; Nagusa's 黄昏 phrase and seasonal blossoms are remembered/interpretive until Renge/Yukari see a changed spring scene (scene:002:u:0006-0031). クズノハ and 初代委員長 are present label/self-title, not certified founding record. Scene 001 ユカリ tags u:0008-0012 mix colloquial/formal registers. Two choice groups. E020 unopened.
+
+## V005 C002 E020 japanese voice and address delta
+
+便りを送った is Kuzunoha-labeled sender claim, while 数百年以上/百蓮は妾が編み出した are unaudited history claims (scene:001:u:0001-0015). Shuro's 怪書を無効化 reaction follows an omitted action; power scope unknown (u:0023-0030). 選んでおらぬ revises Nagusa's chosen-visitor belief, but light/shadow language is metaphor rather than admission test (u:0034-0056). 本当のアヤメ and 仮面 frame Nagusa's ideal image and wearer-only self-knowledge, not authentication of E015's hostile figure (u:0057-0080). 元に戻らぬ is categorical speaker claim; unheaded シロコ-tagged Hoshino hypotheses do not locate Shiroko at temple (u:0081-0096). u:0031-0032 and u:0103,0107-0111 drift between Shuro and elder registers. Three choices, two paired. E021 unopened.
+
+## V005 C002 E021 japanese voice and address delta
+
+視線 shifts from admirers' gaze to projected surveillance; 仮面 reprises E020 language without certifying an unmediated Ayame memory. いつもの委員長 is students' norming language, while 百蓮の力を使えない is italic first-person account, not a witnessed assay (scene:001:u:0001-0032). u:0033-0037 contain literal raw Korean [log=아야메 황혼 1] under narration, not a resolved body identity. バカな女/そこ have ambiguous target (u:0040-0048). Azami's 今の怪談（あなた） and 稲亭物怪録から生まれし百物語 classify a present figure; ヒトツメ is her newly proposed name, not established continuity with every prior Ayame-like mode (u:0058-0074). No choice/performed voice. E022 unopened.
+
+## V005 C002 E022 japanese voice and address delta
+
+開始まで1時間を切っている fixes present deadline, and 約30分前 is a narrator-marked rewind to Niya's confinement (scene:001:u:0001-0067). 弾が通り抜けた is one local shot result; subsequent 増えた does not prove shot-triggered replication. 付喪神/花鳥風月部の仕業 are Kaho's classifications (u:0024-0036). Niya's 監禁 is direct status report, while 見渡し、見通す/筒抜け are an untested surveillance threat model (u:0067-0097). Emphasized これまで通り appears in her message/relay; 開催いたします is conditional on Shizuko arrival, not completed festival (u:0103-0117). Tags drift u:0001,0023,0051-0056,0074,0089. No choice/performed voice. E023 unopened.
+
+## V005 C002 E023 japanese voice and address delta
+
+お祭りが行われている事実を周知 is Kaho's signal objective, not normal festival success; her 開催を望んでいない is an inference (scene:001:u:0006-0032). 稲生物怪録 and 稲亭物怪録 are distinct books in Azami's desire/fear account; 祭儀 is Niya's ritual claim (scene:002:u:0013-0045). 薄れていく is Azami's present observation and 中和 her bounded concession, followed by temporariness warning (u:0046-0075). 白い花火 is a cue, but 青春の花火 remains anonymous speech (u:0076-0084). u:0034 and u:0039-0041 in scene 001 drift by register. No choice/performed voice. E024 unopened.
+
+## V005 C002 E024 japanese voice and address delta
+
+陰陽部に問題発生 is Kikyou's specific white-firework code; Niya's no-injury implication is countered by Yukari's disinfection (scene:001:u:0001-0021). 大元のアヤメ委員長 is Niya's causal hypothesis, not identity proof. 稲生物怪録 here is a reconstructed blank vessel; 稲亭 is Azami's separate fear book (u:0040-0084). 朽木修羅 is Shuro's pen name, while 人気小説家 is Niya's flattering claim (u:0084-0114). Literal [log=슈로] marks improvised tale narration, separately from a visible doodle-lion and altered bullet/ally effects (u:0124-0154). u:0037-0038,0140-0143 drift by voice. Four choices, two paired. E025 unopened.
+
+## V005 C002 E025 japanese voice and address delta
+
+余興/喜劇 and 忘れ去られ are Kokuriko's appraisal/figurative weakening, not permanent loss proof; あの子が我にとってどんな存在 withholds Shuro's special relation (scene:001:u:0001-0031). 怪芸家 is Azami's title against Yukari's 怪談家; 先輩 is Kokuriko's contested relation to Nagusa (u:0032-0053). 稲生霊怪録 is a third distinct title, claimed to reflect 人そのもの; なくした is qualified as form loss/reconstruction, not E024's blank 稲生 vessel (u:0054-0067). 現実 is a threatened display. Renge tags u:0043-0045,0055 drift. Two singleton choices. E026 unopened.
+
+## V005 C002 E026 japanese voice and address delta
+
+Opening 百物語 narration and unattributed [log] demands stage coercive introspection, not an independently identified book voice (scene:001:u:0001-0010). Kokuriko's 瞳を覆った admits intervention despite 何もしておらぬ; 怪書の力は届かない is her local Sensei-immunity claim (u:0027-0033). Yukari's 誰かの代わり and 操り人形 are distressed self-statements. Nagusa's 私は御稜ナグサ/一番の友達 are present commitments, not Ayame assent (u:0038-0047). Azami's その右腕 observes apparent arm; Kokuriko's 黄昏 explanation is not an anatomical test; 天守閣の上 is her location report (u:0059-0071). Two singleton choices. E027 unopened.
+
+## V005 C002 E027 japanese voice and address delta
+
+ヒトツメ（ここ）から見てた links present Ayame-labeled speaker to eyes without complete ontology; 継承戦を申し込む/受けて立つ are reciprocal formal declarations (scene:001:u:0001-0028). 立会い人 categories are Nagusa's procedural explanation, with Sensei assent inward. 互角 is Renge's impression. Parenthetical Ayame u:0033-0034 and italic u:0055-0070 have inner/temporal seams; これであんたが委員長 is participant statement, not independent office certificate. 泣き顔 specifies disliked crying face, not total hatred. Yukari tags u:0015-0016 and formal Renge u:0032 drift. No choice. E028 unopened.
+
+## V005 C002 E028 japanese voice and address delta
+
+Hospital/festival street/practice room headings mark later aftermath without exact date. 無事幕を閉じました is Niya's completion report; 出まかせ withdraws her E023 ritual claim, while 伝えられてはおります leaves origin as tradition (scene:001:u:0017-0030). もぬけの殻 concerns Ebisu committee, not residents; 正式に発表 is public created-Ayame position, not identity scan (u:0031-0049;scene:002:u:0011-0015). 気のせい is Ninja/Sensei reassurance, not proof. 右腕も……アヤメも/元に戻った are Nagusa's return claims; 目を覚まそうとしない and doctor report require no volition/prognosis inference (scene:003:u:0023-0034). Scene 002/003 labels drift. Eighteen choice groups. C002 checkpoint due.
+
+## V005 C002 canonical checkpoint reconciliation
+
+The checkpoint keeps three book names distinct: 稲生物怪録 (desire/blank restored vessel), 稲亭物怪録 (fear/Hitotsume), 稲生霊怪録 (person mirror by Kokuriko claim). 出まかせ in E028 retracts Niya's E023 祭儀 mechanism; 元に戻った is Nagusa's return wording, not proof Ayame consciousness/office reset. Multiple Ayame-labeled modes, [log=아야메 황혼 1], [log=슈로], speaker-label drift, paired choices and 心の声 restrict exact voice/identity claims. E027 italic victory statement lacks displayed finishing action. 274/480; V006 C001 E001 next.
+
+## V006 C001 E001 japanese voice and address delta
+
+外 is outside from Maia's Arius vantage, without a named district; スクワッドが選んだ道 is her comparison, not Squad dialogue (scene:001:u:0007-0012). 契約書を交わした覚えはない is work leader denial, 学籍がないも同然 lender inference, and 裏の仕事 refusal comes through boss lines, not adjudicated records (u:0017-0027). 帰ってこれた/私たちの学園 coexist with 耐えてきた場所. Raw [log=마이아 언노운] and [log=스바루] remain narrator-embedded source labels, not separate bodies. No choice/performed voice. E002 unopened.
+
+## V006 C001 E002 japanese voice and address delta
+
+トリニティ総合試験 and 生徒の本分 anchor a broad school-duty montage; 外部模試 is Sensei's analogy, not an official exam title (scene:001:u:0013-0027). 落第/退学 are denied as this exam's direct result, whereas 特別補習/再試験 are described conditional consequences (u:0038-0046). Reisa's 行動理念 is corrected by Suzumi; Mine's 救護 is a rhetorical expansion; Sakurako's 恥じること無き meets privacy concerns and an enacted compromise (u:0061-0066,u:0090-0098,u:0119-0130). Shimiko labels at u:0073/0077 carry Ui-like first person; Hasumi labels at u:0107/0108 carry Tsurugi-like stammer. Preserve tag drift instead of assigning exact performed voices. Italic Sensei 心の声 is not presumed spoken. Choice 006 displays two wordings without divergent branch evidence. No performed voice admitted; E003 unopened.
+
+## V006 C001 E003 japanese voice and address delta
+
+The E002 控えめなトリニティの生徒A/B labels become アリウスの生徒A/B when the pair self-disclose in their room (scene:001:u:0001-0017). 編入生 is their status term, while 田舎からの転校生 is a protective cover described in a reported offer and later public account, not a checked register (u:0030-0044,u:0115-0117). The unknown visitor's 提案/選択を尊重 is qualified by ティーパーティー...の一部; raw A/B tags at u:0039/u:0043 drift inside her reported exchange, preventing exact speaker assignment. 抵抗を続けてるって explicitly marks rumor; 大人の役目 marks Sensei's unfulfilled commitment (u:0142-0145,u:0189-0193). 試験 and 生徒の本分 recast exams as ordinary-life access. Raw narrator [log=아리우스 학생 A 마스크OFF] on the Squad plea is not proof of a new person or visible mask operation. Italic recollections/心の声 are not automatically audible. No performed voice; E004 unopened.
+
+## V006 C001 E004 japanese voice and address delta
+
+Atsuko's 普通の生徒 is an aspirational comparison, and 顔を見ながら/みんなと一緒に describe her desire for face-to-face Squad discussion rather than Sensei's 盗聴 framing (scene:001:u:0022-0042). サッちゃん is her familiar Saori address, while Misaki uses リーダー and offers to return that role without a formal record (u:0043-0052,u:0092-0099). Squad contrasts outward ヘイローを破壊する and old Arius literal 消す; raw Hiyori tags at u:0142-0144 and u:0179-0180 are speaker-unstable relative to adjacent lines, so no exact voice reconstruction follows. 世界と戦う方法 is Sensei's educational proposal, 自己防衛手段 Saori's reading, and Misaki's 少し retains limited assent (u:0158-0176). Nagisa directly self-names 桐藤ナギサ as this meeting's sponsor at u:0185-0186; that is not a name reveal for E003's visitor. Paired choice lines and italic 心の声 do not prove branching or audible words. No performed voice; E005 unopened.
+
+## V006 C001 E005 japanese voice and address delta
+
+Nagisa's 今はもう is an awkward temporal denial, not a verified torture history; 貸し切り is narrowed by 停泊させたまま施設と空間を借りている (scene:001:u:0001-0005,u:0026-0034). Hiyori negotiates ナギサさん/様 after the reported 温かい水/ウォータータイム memory, exposing status distance (u:0076-0085). 監視 and サポート役 are rival descriptions with Sensei's stated verification but no opened records. Nagisa rejects 個人として来た, calls herself a representative, describes 公会議/解釈の違い and offers both コストパフォーマンス and conscience reasons (u:0086-0170). 施し marks paternalistic aid; 責任/行動 makes apology a future obligation (u:0183-0206). Raw Hiyori tags at u:0077-0080, u:0145-0148 and u:0211 drift against adjacent dialogue; do not force exact voice identity. Paired choice 002/003 lacks divergent outcome evidence. No performed voice; E006 unopened.
+
+## V006 C001 E006 japanese voice and address delta
+
+授業をしていただけないでしょうか is Nagisa's request, リモート授業/間接的 her offered safer channels, and 現地で授業 Sensei's chosen direction; 護衛任務 is Saori's revised Squad task (scene:001:u:0021-0034). Sensei's そこに生徒がいるから is italic 心の声, not automatically audible exact speech (u:0035-0042). Maia's 外 is a lived outside with unnamed sites, ただきれいだから gives non-survival purpose, and なんでもできる becomes unsupported freedom (u:0060-0099). Subaru first says トリニティを許せそうにない and later 許すことなどできません of Squad, especially 錠前サオリ; these targets are distinct (u:0106-0115). Raw Hiyori tags at u:0004/u:0006-0007 and Atsuko at u:0012 drift in banter. No performed voice; E007 unopened.
+
+## V006 C001 E007 japanese voice and address delta
+
+アリウス総合試験 is Sensei's preferred title; actual proposed spare prints retain トリニティ総合試験. 印刷ミス/配送ミス are Nagisa's deniable narrative, not accidental events (scene:001:u:0001-0014). 主張できた is explicitly distinct from implementing a title claim; 個人/お願い describes a Schale request without erasing E005's host-role accountability (u:0027-0037). Subaru's ハーモニカ is performed, inferred from listeners after she begins, with no notated melody (u:0047-0079). 裏切り者も同然 is expected resident judgment, while 感謝 to Squad is Sensei's report, not E003 verbatim (u:0093-0099,u:0136-0151). お出迎え is narrowed by セーフティは外さない/今は、まだ, leaving intent open (u:0206-0214). Raw Hiyori/Atsuko/Subaru labels drift at u:0020/u:0095/u:0159-0165/u:0205; role A/B/C strings recur across distinct groups. No performed voice; E008 unopened.
+
+## V006 C001 E008 japanese voice and address delta
+
+Subaru's 逃亡生活から逃げる is an accusation; Saori's stated reason is 仕事 and she admits fatigue without a shelter request (scene:001:u:0014-0025). 居場所 is disputed, and しけん/試験 initially means the academic papers Saori says she carries; Subaru then appropriates 試験 for entry qualification and 存在価値 proof (u:0038-0068,u:0100-0108). Sensei's 生徒 assertion surprises anxious residents but does not itself certify registry. 今のところは limits Subaru's greeting, 全部やめればいい limits Sensei's proposed try, and セーフティ、解除 is a weapon-state order, not a shot (u:0076-0132). Raw Saori at u:0076 and Hiyori at u:0111-0112/u:0116 drift; no exact performed-voice claim. E009 unopened.
+
+## V006 C001 E009 japanese voice and address delta
+
+決着はついたはず is Saori's tactical judgment, not a combat transcript; 存在価値 quotes Subaru's earlier imposed criterion rather than validating it (scene:001:u:0001-0010). The reported 胸へのダブルタップからのヘッドショット is witness speech, followed by Atsuko's boundary warning and residents' fear; do not soften it to banter (u:0020-0033). 先生 is reassigned by Sensei to startled Squad practice teachers; Saori resists the title after class (u:0043-0095). 契約書 matters as self-defense but Saori's pay absolute is rhetorical; 生まれながらに...権利 is her social-contract exposition, with Saori/Maia tags drifting at u:0080/u:0084. Hiyori's ファッション defines chosen appearance, and 警戒心が薄れていく is limited classroom change (u:0117-0142). Misaki/Atsuko/Hiyori tags at u:0016-0017/u:0025/u:0076-0077 also drift. No performed voice; E010 unopened.
+
+
+## V006 C001 E010 japanese voice and address delta
+
+傷（痕跡） links Saori's direct sight of Sensei's scar to her moral language of an enduring trace, while 罪 and 選択し、行動した後の私 assign responsibility in her own voice (scene:001:u:0060-0127). Sensei's 立ち止まって考える request directs future deliberation without declaring the injury erased (u:0130-0140). ウォータータイム to ティータイム is Saori's report of residents' phrasing, not an inspected timetable; Subaru's 独占市場 and 言い値 are her account of Arius mercenary pricing, not verified market power (u:0141-0149,u:0224-0226). 処理 is a euphemism exposed by a terrified living rival; 一歩手前 preserves a no-killing limit only for the depicted target, while coercion remains (u:0229-0260). 小さな鳥の巣 is Subaru's limited-capacity shelter metaphor (u:0274-0291). Raw tags drift at u:0191/u:0204, across the boss dialogue u:0235-0249, and the harmonica exchange u:0297-0299. Italic Sensei lines and Saori responses do not establish exactly which thoughts are audible. No performed voice. E011 unopened.
+
+
+## V006 C001 E011 japanese voice and address delta
+
+小テスト is an actual short quiz without result, contrasted by students' confusion over 勉強 and カンニング, a previously unstated test norm (scene:001:u:0008-0023). 校外学習 is Sensei's contested label, with Subaru rejecting the invented arcade 関数の概念を身体で学ぶ rationale even while students enjoy play (u:0024-0037,u:0154-0165). お留守番 is narration's cover for wanted-status absence, and outsider 教育実習生 is mistaken, not credentialed (u:0074-0101). ウォータータイム from E010 finds concrete contrast in pool/chlorinated water and a drink dispenser; students themselves voice the gap (u:0114-0144). 今は qualifies Subaru's enjoyment. 人生を諦めたい is framed as a serious hypothetical, and お互いの生きる理由になる as Sensei's ethical response, not a guaranteed rescue protocol (u:0177-0223). Raw labels drift at u:0002/u:0016/u:0046/u:0101; italic lines are not a reliable audible/private rule. Student A/B letters here are not E003 transfer identities. No performed voice; E012 unopened.
+
+
+## V006 C001 E012 japanese voice and address delta
+
+アリウス式 is Subaru's fear-based kitten method, whose completed catch does not settle its risk (scene:001:u:0001-0027). Crowd inference from 校章 converts a specific safety objection into broad Arius schooling/culpability stigma, with some disagreement over Kivotos-wide education (u:0028-0042). Maia's earlier outside hope appears as [log] memory, and Subaru's 短い夢 is followed by the exact E011 なれたらいいな callback (u:0043-0075). ティータイム is now directly used by residents who credit Subaru, but no source of money is disclosed (u:0083-0088). 私たちの問題 registers Subaru's attributed Trinity frame; Suzumi's ideal/正義は、それ自体が報い contrasts Subaru's private privileged-optimism objection and 地獄の歴史 accusation (u:0118-0228). 私たちの、アリウス is an affiliative return, not formal registry proof. Speaker labels drift at u:0007-0009/u:0023/u:0027/u:0045/u:0076/u:0112-0116/u:0214. No performed voice. C001 checkpoint next.
+
+
+## V006 C002 E001 japanese voice and address delta
+
+救護 is Mine's expansive idiom for relief of suffering; 名もなき奉仕活動部 is an ad hoc public cover and 先輩 substitutes for 団長 locally, giving a warmer relation without actual rank change (scene:001:u:0028-0085). Serina invokes 右手のやることを左手に知らせてはならぬ to justify discreet help; Mine resists equating Rescue Knights with Sisterhood secrecy (u:0030-0043). Atsuko's はぐれ者 describes Squad's present relation to Arius, not a registry outcome (u:0062-0065). Subaru's トリニティの気配 is her inference, and her leader-absent assumption is false while Mine keeps the cover (scene:002:u:0034-0069). Mine stresses 説得される準備 and doubts whether she may utter 理解 as a Trinity student; Sensei's 信じているもの is an ethical answer after a Subaru memory, not a verified technique (u:0084-0123). A trumpet-like ラッパ is heard by several but source unknown (u:0134-0143). Raw u:0076/u:0078 tags drift. No performed voice; C002 E002 unopened.
+
+
+## V006 C002 E002 japanese voice and address delta
+
+栄養治療食 is Mine's category, with 500kcal and 1日2〜3個 given as her advice; 簡易浄水ストロー comes with explicit 塩分/ウイルス non-removal warnings, while 標準仕様 is Serina's description of a 30-item kit (scene:001:u:0001-0026). 数学的に考える means a habit of defining causes, consequences and logical explanation in Sensei/Misaki/Atsuko/Hiyori classroom talk, not a demonstrated remedy for Maia's mistreatment (u:0027-0054). Misaki's 生きてみろ and hope that is not 全部ウソ locate her present response to Sensei, without an exclusive rescue claim (u:0061-0086). Saori explicitly recasts 全てはただ、虚しいだけだ as impermanence and uncertain future, while protecting contract pay as something to settle (u:0087-0098). ラッパ is heard selectively before four visible entities per student A; u:0116-0119 tags drift, and 錠前サオリ is Subaru's full-name address (u:0099-0130). No performed voice; C002 E003 unopened.
+
+
+## V006 C002 E003 japanese voice and address delta
+
+Anonymous 真理を解する者 and 正しき者 language frames an accusation that doctrinal certainty labeled others wrong; 永劫の破門 appears as a decree inside the represented ordeal, not a verified document (scene:001:u:0013-0024). Vanitas vanitatum et omnia vanitas is the accuser's bleak quote, distinct from Saori's E002 impermanence explanation; Quovadis,Domine appears in marked log narration (u:0025-0080). Mine explicitly notes the command 信じることをしなさい was not uttered by Sensei and then imagines what he would say, so the apparent Sensei register is hers (u:0093-0109). 一匙 bounds her rescue ambition. Hanae's 団長 and Mine's 救護騎士団 undo E001's 先輩/volunteer cover publicly (u:0114-0137). Anonymous italic voices, child pleas and logs have no performed-voice verification. C002 E004 unopened.
+
+
+## V006 C002 E004 japanese voice and address delta
+
+救護騎士団/団長 now reach Arius residents as disclosed labels; a student recalls Mine's old injury-and-treatment sentence from Madam's departure, not present speech (scene:001:u:0007-0015). Logged わざわいだ/三人の御使 and student 黙示録の天使/世界の終わり are quotation and interpretation, not independently certified taxonomy (u:0016-0041,u:0151-0156). Subaru's 今だけは qualifies passage. Sena's 直感 explicitly limits her bad feeling, while 取り込まれた is Mine's account of E003 and 日常 names the basic school routine she asks Sensei to protect (u:0049-0101). Nagisa sharply distinguishes 個人のお願い from Tea Party 指示; Mine raises 救う資格 as anticipated Arius objection, not proven law (u:0102-0129). Raw labels drift at u:0007-0008/u:0048/u:0055. No performed voice; C002 E005 unopened.
+
+
+## V006 C002 E005 japanese voice and address delta
+
+Subaru separates 黙示録の声 from ラッパの音 and notes the unobserved 鷲, resisting full text-to-event equivalence even as she quotes seven trumpets (scene:001:u:0010-0044). ポルタパシス is a proposed archive site, and the wandering peril is introduced as そう言われています, not seen fact (u:0045-0062). 仮説の域を出ません limits her Trinity/Sensei cause, while 自然でしょう rhetorically outruns the available timing data (u:0065-0075). Students' 浄化 frames proposed exclusion of Sensei/Squad as crisis response, with no proof it prevents disaster (u:0093-0124). Repeated [log]証明 presses Subaru to prove faction loyalty. Maia's 巣 recalls Subaru's shelter pledge; バシリカの外/この場所 specify place-limited removal, not all Arius (u:0183-0233). B tags at u:0084-0086 and group voices drift. No performed voice; C002 E006 unopened.
+
+
+## V006 C002 E006 japanese voice and address delta
+
+Misaki resists Sensei's 強くなった framing because flight forced strength; Atsuko answers his 自分の怠慢 self-blame with Squad's own choice and togetherness (scene:001:u:0001-0024). 日常 takes practical form in class, food and shelter. Sensei's MomoTalk is sent within main-story narration, not a separately admitted side story (u:0025-0063). Subaru's inward 死してなお、眠れない is figurative distress. Maia's 消えてしまいたい and later 消える overlap but do not prove a specific act or destination, and her swollen face has no narrated cause (u:0080-0143). Sensei's 先生の役目 is private ethical resolve following immediate care (u:0144-0164). ポルタパシス names a departure direction, not an observed arrival. Anonymous resident tags remain local roles; no performed voice. C002 E007 unopened.
+
+
+## V006 C002 E007 japanese voice and address delta
+
+ポルタパシス is glossed 平和の門 by Hiyori/Ui, while do-not-open/do-not-approach commands are inherited testimony, not an inspected decree (scene:001:u:0001-0014,u:0098-0101). Atsuko says ロイヤルブラッド access だったのかも and later 元ロイヤルブラッド, asks Maia to call her アツコ, and gives a handshake; Maia first says アツコさん (u:0025-0044,u:0092-0097). Ui's 準禁書, Shimiko's 記録しないこと, Squad's 口伝/情報統制 and Atsuko's final 秘儀 distinguish restricted materials, archival absence, mutable testimony and an unexplained rite (u:0081-0170). Raw ヒヨリ at u:0059 and u:0145-0146 appears to address “Hiyori” despite that same speaker tag, so individual attribution there is unstable. Spoken surnames/readings are main-story evidence; no profile or performed voice admitted. C002 E008 unopened.
+
+
+## V006 C002 E008 japanese voice and address delta
+
+Atsuko's 増え始めた means anomalies reportedly increased after Beatrice's visit, not that all began there; 秘儀 remains undefined (scene:001:u:0001-0024). 黙示録の天使 divides into seal, trumpet and bowl sets; ラッパを吹く天使 is a proposed current referent and Atsuko asks if it may be other 何か (u:0044-0087). Subaru sees an open 扉 but its opener 何かを失う is only a saying; 外部/内部 are defensive contingencies (u:0088-0118). Ui marks her hearing-pattern idea 推論にすぎません/仮説 and her alternate manifestation もしかしたら, maintaining uncertainty (u:0194-0238). Speaker tags visibly drift at u:0016-0026, u:0057, u:0068, u:0128-0138, u:0142-0155, u:0169-0170, u:0180-0191, u:0195-0203, u:0220 and u:0225-0227; no self-address claim from these seams. The library participants are explicitly on 通話. No performed voice. C002 E009 unopened.
+
+
+## V006 C002 E009 japanese voice and address delta
+
+外典 (apocrypha) is Subaru's classification of a found text, while her Trinity-suppression assertion lacks a formal rejection record. ニコメディア（この地） is written testimony, and her “original name?” is interrogative; ニコメディアトゥループ is her enacted name for ここに集まっている皆さん (scene:001:u:0001-0065). The text's 血の報復 and 滅びゆく数多のために悲しむ事なかれ demand vengeance and emotional exclusion, not Subaru's own orders. Vanitas vanitatum et omnia vanitas recurs in quoted material, narration, her thought and a later 声; repeated words do not establish a shared speaker (u:0094-0133). 天使とは、汝ら自身を象徴する存在に過ぎぬ is a symbolic reading, not an observed mechanism. ？？？ text and closing 声 remain unattributed; no performed voice. C002 E010 unopened.
+
+
+## V006 C002 E010 japanese voice and address delta
+
+陣地を作っておけ is E008's direct emplacement order; scene-1 defenders' 出入りさせるな paraphrase is not a verbatim prior Subaru instruction (scene:001:u:0001-0012). 嘘をついてしまいました is Subaru's private admission with ambiguous referent, not a documented confession of one identified proposition (scene:002:u:0024-0035). 巣/雛鳥 name the vulnerable home she seeks, while あの子を追い出してしまった admits Maia exclusion in private but does not change E005's exact basilica-place command (u:0036-0053). 責任から目を逸らしてはいけない is repeated in logs; 力/権能 appears amid broken markup at u:0069 as an offered force, not verified possession (u:0054-0071). A/B call ラッパの音 without counting it (u:0072-0081). Speaker labels u:0014-0020 drift, and the unidentified voice has no performed-voice verification. C002 E011 unopened.
+
+
+## V006 C002 E011 japanese voice and address delta
+
+E/F's 5回目と6回目だったような is a hedged trumpet estimate and 黙示録の天使 their interpretation; the Ui/Shimiko lines at scene:001:u:0013-0018 are repeated E008 conjecture, not fresh measurement. Misaki's 見てるだけでいいの and Atsuko's 同じアリウスの生徒 make aid to opponents explicit (u:0019-0023). A/B's つまらなかったけど……楽しかった, 人を傷つける以外 and 一瞬の夢 preserve mixed instruction experience; Sensei's 日常 answers as ethical entitlement, not an achieved institution (scene:002:u:0032-0052). 抜け道/裏口 is reported locally, and Atsuko's 重圧 and Maia's external 感情 are subjective (u:0024-0028,u:0053-0079). Raw tags drift at scene:002:u:0015,0038-0041,0067-0079; closing unidentified voice is not fully attributed. No performed voice. Chapter 2 checkpoint next.
+
+
+## V006 C003 E001 japanese voice and address delta
+
+Subaru objects to アリウス分校 because 分校 implies another school's parentage, and contrasts 先生の基準で定められた勉強 with the Porta Pacis archive as 私たちにとっての勉強 (scene:001:u:0001-0015,u:0064-0075). Two Tea Party students label themselves 臨時 representatives of Patar/Sanctus and claim majority; their direct speech is not a certified appointment (u:0023-0043). 罰は受け継がれていく is Subaru's normative claim, and 罪の無い者を許すことはできません is her deliberate innocent-yet-unforgiven distinction (u:0076-0087). アリウスのやり方 alternates between her history study and rejection of outside exams/classes. Her “trumpet angel” handling assertion is speech, not an observed capability (u:0088-0116). Sensei's italic inner line and eight choice groups have uncertain audibility beyond printed public options. No performed voice. C003 E002 unopened.
+
+
+## V006 C003 E002 japanese voice and address delta
+
+厳格な教官 and 親切な百人隊長 are Saori/Subaru's old role metaphors; 人は、生きてきたようにしか生きられない is Subaru's determinist maxim, qualified by Saori's 望みに任せて生きる可能性 (scene:001:u:0001-0027). それでも shifts from Saori's disliked consolation to persistence after knowing ugliness (u:0050-0059). 自首する is future after the affair; すべて私が主導し、私が実行したことにする is a proposed, partly strategic confession (u:0060-0083). 自分の人生が惜しい is Saori's present declaration, against recurring Vanitas vanitatum (u:0106-0116). Korean-formatted [log=니코 스바루] and broken u:0084/u:0124 markup are source artifacts, not FOX Niko identity evidence. 第七の御使 log is not an audited sound count (u:0117-0151). Raw Squad labels u:0067-0071 drift; no performed voice. C003 E003 unopened.
+
+
+## V006 C003 E003 japanese voice and address delta
+
+Saori's かすり傷 is self-description, not clinical severity. ラッパの音 and sky 暗くなって are scene observations, while B's one-third darkness wording quotes scripture and D/A dispute 6回目 versus a possible 14 sounds (scene:001:u:0001-0020). Maia's スバル先輩 call produces Subaru's delayed “where?” response; Atsuko's 見ようとしなかった is an accusation of attention failure, not literal invisibility (u:0021-0033). 現象 and ラッパ吹きの天使 are Atsuko's asserted labels with promised but still unprinted reasoning; あなた一人だけがアリウスな訳じゃない disputes singular representation (u:0034-0040). The raw Saori label at u:0022 is suspect; no performed voice. C003 E004 unopened.
+
+
+## V006 C003 E004 japanese voice and address delta
+
+ロイヤルブラッド is Atsuko's constraining special status; 秘儀 knowledge was, she says, forbidden to speak even now, without named authority (scene:001:u:0001-0033). 現象/引き起こした and literal-seven denial form her causal account; 昇華/本物になりうる and 完全無欠の審判者 are conditional. 媒介にして versus 自分がラッパ吹きの天使になろうとした distinguishes a medium from attempted embodiment (u:0034-0064). 捨てた is her judgment of Subaru's Maia treatment, while the “had Maia not sought Sensei” clause is unrealized. Maia immediately qualifies 全部大丈夫, says それでも, asks 助けてください and recalls ハーモニカ (u:0065-0090). [USERNAME] is a placeholder; Hiyori u:0071 self-address is tag drift. No performed voice. C003 E005 unopened.
+
+## V006 C003 E005 japanese voice and address delta
+
+あの日のハーモニカ recalls Maia's ordinary wish and she explicitly defers performance (scene:001:u:0001-0005). Subaru's 責任から目を背けてはいけない is inner resolve, followed by visible disappearance and later refusal of an accountability offer (u:0006-0012,u:0069-0076). Residents' 3体目 and 吸収されたようにも見えて preserve perception uncertainty; Subaru's サオリの記憶で見た空 is her own account, not narrator verification (u:0013-0028). Atsuko's とげのあるむちをければ、傷を負うだけである and それでも invite shared action without erasing Trinity harm. 矯正局にお世話になるかもしれない is conditional (u:0050-0068). アリウス式で、お話しよっか and 夢に囚われたままの先輩を、起こしてあげよう announce an unperformed approach (u:0077-0094). Korean [log=스바루] in narrator shells u:0044-0049 is a source artifact, not a new speaker. No performed voice. C003 E006 unopened.
+
+## V006 C003 E006 japanese voice and address delta
+
+First-year お互い and second-year 私たち in Subaru's retrospective, then Saori's not reaching third year, locate the remembered sequence without school records (scene:001:u:0001-0045). マダムの意志だったのだろう and かもしれない mark Subaru's uncertain causal attribution; メンタルを壊す is her accusation (u:0035-0054). 全部、無意味 and ゴミをいくら磨いたって、宝石にはなりませんよ express despair, not narrator evaluation. Sensei's 過程 educational valuation is paired with his explicit failure/worse-outcome concession (u:0068-0111). 底辺 is students' self-description. アリウス（私たち） is Atsuko's plural institutional claim. Maia's それでも、これ以上は汚さない方がいい turns harm prevention into a small concrete action (u:0112-0135). Mine's 試験が最重要 is immediate priority upon waking, not medical clearance. No performed voice. C003 E007 unopened.
+
+## V006 C003 E007 japanese voice and address delta
+
+Subaru marks Serina's classes as 普通 unfamiliar to Arius and distinguishes 憎んでいたり from reported 戸惑っている while expressing care-specific 感謝 (scene:001:u:0001-0037). Her それでも、生きていかなければ pledges continued life with unresolved feeling, not required gratitude or erasure. Mine's 救護と学業の両立 and 学業-as-student formula is exhortation, not exam result (u:0047-0071). Korean 아리우스 편입생 A/B labels correspond to the Arius transfer pair; distinct トリニティの生徒A/B ask for CQB teaching and propose CQB研究部, with offices not formally accepted (u:0072-0097). Maia's 新しい巣 and Subaru's やってみましょう preserve attempt uncertainty. Narrator-shell E006 replay u:0107-0114 is not new Sensei speech; no performed voice. C003 E008 unopened.
+
+## V006 C003 E008 japanese voice and address delta
+
+無償でお貸しできるよう手配 is Nagisa's promised arrangement, not completed transfer. 一つひとつ照合 and 誰もが閲覧できる状態 make historical comparison/public access prospective; 本当に守りたいもの and 宝物 name her political/student-life ideal (scene:001:u:0001-0056). 誹り and それでも join remedial-group culpability with hurt at Sensei's special severity. 同じ轍を踏まぬよう and limited topic avoidance are a new personal pact (u:0057-0101). おおよその察し, 整えて提出, 欺瞞行為, 円満 and 改善 are identification/inference/intent, not documentary outcomes (u:0102-0126). 埋め合わせ is Nagisa's playful private claim, not compulsory redress (u:0127-0145). Seia's 未来を読むことは叶わなくなった is self-report (u:0177). Inward Sensei/narrator shells do not necessarily equal audible speech; no performed voice. C003 E009 unopened.
+
+## V006 C003 E009 japanese voice and address delta
+
+Saori addresses コノカ副局長, who asks for plain コノカ; she says the grade is the same despite one-year age difference (scene:001:u:0001-0005). 刑は確定, 仮釈放, 罪状と刑期に変わりはない, 自首 and 無罪じゃない distinguish confirmed sentence, voluntary surrender and conditional release from innocence. 殺意/悪意 is Konoka's rationale; 嘆願書 and 先生が責任を持つ are reported decision factors, with Hina self-confirming her own petition (u:0006-0084). Saori's halo-break pledge is rejected by Konoka, not an accepted term. 補習 and 初めての試験 identify active preparation, not results. ちゃん exchange Hanako/Atsuko is first meeting by Atsuko's account, while Hifumi's ordinary claim is self-description (u:0087-0209). Hiyori u:0140 and anonymous Arius B u:0197-0199 show tag drift; Hina passage may be an inserted excerpt. No performed voice. C003 E010 unopened.
+
+## V006 C003 E010 japanese voice and address delta
+
+総合試験当日 labels the day; Atsuko's later 模試, 実力を知るため and ペナルティとか処分もない characterize this sitting as penalty-free. 赤点 moves from pre-result anxiety to later self-reported marks (scene:001:u:0001-0113,u:0254-0293). Maia's 姫様 slip and corrected アツコさん enact the earlier first-name agreement (u:0087-0094). 臨時生徒会の役割を担いたい is a plan, while 臨時生徒会長 and Subaru's 巡回報告 evidence de facto roles, not legal charter. サッちゃん is Saori; ニコメディアトゥループ is asked to serve 風紀委員 (u:0114-0205,u:0259). 動くことに意味 is a process ethic that admits uncertain futures. 黙示録の天使4人分 and 七人...調和 are Atsuko's occult assertions, not verified mechanics. ここだけ limits repair. Korean [log=스바루] at u:0281-0286 is source markup carrying Subaru-like gratitude, not new voice evidence. Chapter checkpoint next.
+
+## V100 C001 E001 japanese voice and address delta
+
+The unidentified ？？？ addresses 先生よ, saying この物語は、覆された and contrasting 物語（モノ） with a purportedly disordered 作為的に作られた世界. 元より、この世界はそのように存在していた is the voice's unverified origin assertion; 叛乱の物語 names its intended frame rather than an observed rebellion (scene:001:u:0001-0019). 我々 does not identify a group. The 破局 line is a next card (u:0020). No performed voice or actor identity can be assigned. V100 C001 E002 unopened.
+
+## V100 C001 E002 japanese voice and address delta
+
+色彩 is Kuzunoha/Gematria's threat label; Kuzunoha expressly leaves personhood/intent unknown. Beatrice's 神秘(mystery)→恐怖(terror) is rite speech, and 白昼夢 specifies Seia's encounter channel (scene:001:u:0002-0035). 未来視 is the proposed price and Seia's later reported loss; 最後の予知 is only a possibility named before pain (u:0036-0049; scene:003:u:0019-0024). 無名の司祭/名もなき神/箱舟 are Gematria categories; 私が伝えました is Beatrice's first-person admission and 向かっております her forecast (scene:002:u:0002-0067). シロコ……？ is Sensei's questioned recognition, not attribution. 先生はそこで生を終える is Seia's dated-unknown vision conclusion. Rin's 証拠が必要 blocks broader council action. [USERNAME] is placeholder; Golconda/Decalcomania tags remain distinct. No performed voice. E003 unopened.
+
+## V100 C001 E003 japanese voice and address delta
+
+PMC's 約135m×23m×13m is a report with approximate dimensions, not authenticated ark; ジェネラル is an absent addressee. Hoshino's カイザーの土地 is her property understanding and スタ爆 a Serika joke (scene:001:u:0002-0008; scene:002:u:0002-0033). Key's italic self-label switches to ケイ after Alice uses the name, while 存在理由から逃れることはできません remains its claim, not destiny law (scene:003:u:0021-0050). Rio's reported 自由に暮らしなさい leaves Toki unsure how to act; Himari's 特異現象 and 近い将来 are an inferential warning. Scene 003 u:0004-0005/u:0015-0016 and Scene 004 u:0016/u:0030 have speaker-label drift. No performed voice. E004 unopened.
+
+## V100 C001 E004 japanese voice and address delta
+
+ユスティナ聖徒会の礼装 is Sakurako's identification; 後悔/責任感 are alternative guesses, 正当な継承権限 her authority claim, and 例のアレ an unspecified second concern (scene:001:u:0002-0021). Hearing 全権限 is Tea Party power, while 新しい代表が選出されるまでは...権限を維持 preserves Mika's Patar authority temporarily; 拘禁終了/学業に復帰 are verdict, 自粛を求める a restraint request (scene:002:u:0002-0017). ペロロジラ versus ペロロサウルス is the discovered identity mismatch, not an authenticated rarity (scene:003:u:0002-0043; scene:004:u:0002-0022). Protest 魔女 is a slur and 集会の自由 Hifumi's situated objection. Scene 005 u:0127 appears before u:0122-0126 in source order; several speaker tags drift around friendship/ice-cream exchange. No performed voice. E005 unopened.
+
+## V100 C001 E005 Japanese voice/address delta
+
+Miyako's `市民を脅かす危険の排除もSRTの責務` is an SRT duty claim in a practical civilian scene; the proprietor's `再開発` account is his own local report (scene:001:u:0009-0019). Saki's military imperative gives Moe permission to fire, Moe's `ファイヤーーー！` and disappointment carry playful excess, and Miyu's tentative `たまには連絡ほしいかも` qualifies the others' brusque Sensei-denial (scene:001:u:0001-0014; scene:002:u:0015-0021). Kaya's `いよいよ、始まるのですね` has an omitted referent (scene:003:u:0002-0007). Beatrice's `破壊`/`創造`/`絶対者` are ambition, Black Suit's `資格を失いました` expulsion and `また席が空いて` treatment of the aftermath; `送り届けて` does not name a destination (scene:004:u:0006-0033). No performed voice.
+
+## V100 C001 E006 Japanese voice/address delta
+
+Dream president repeatedly uses intimate リンちゃん; Rin resists, tries formality and denies smiling, supporting remembered familiarity but no performed/current president voice (scene:001:u:0001-0018). Momoka's ちょっと故障-like ただの機械の故障 is a jokingly easy explanation after an instrument/visual mismatch, not a diagnosis (scene:002:u:0021-0029). Rin's 代行の権限 and 非常対策委員会を発足 mark asserted executive action; Aoi's 代行 versus 生徒会長 and 根拠と正当性 precisely contest person/mandate without formal rescission (u:0030-0075). Kaya calls it 当然の権限, then says 進めてください to an unseen addressee; referent open (u:0086-0106). u:0083 is tagged アユム while addressing アユム, a source speaker-label seam. No performed voice.
+
+## V100 C001 E007 Japanese voice/address delta
+
+Narrated 出席依頼が届けられた means delivery, not acceptance. Nagisa's distrust and Mika's ☆ reassurance sit beside a tag seam in which Seia appears to speak Mika's excited lines; do not derive idiolect there. Makoto's 万魔殿 self-display and claimed 風紀委員 notice block are hers; u:0028 self-address suggests an Iroha tag flip (scene:001:u:0001-0033). The unnamed Genryumon master is addressed 門主様 and uses 妾, enough for a role but not a name (u:0036-0039). Fake ヴァルキューレの生徒A/B labels become PMC兵士A/B after exposure (u:0060-0080). Kaya's 私たちの目標 is rejected as 君の目標 by the General; プレジデント is Kaiser's corporate superior, not the missing federal president. 確保 reports seizure, while 脚でも一発撃っておけ remains an unexecuted order (u:0081-0111). No performed voice.
+
+## V100 C001 E008 Japanese voice/address delta
+
+Hoshino's おじさん, 達襲撃 thought and 野良猫/捕獲 metaphors mix rueful retrospective feeling with teasing; Nonomi's アビドスに来る前の記憶が無い is the narrow factual memory claim (scene:001:u:0007-0023). Shiroko's ん and 黒……いや、虹……？ mark terse self-correction under new sensory uncertainty, not a measured spectrum or named Color (u:0024-0040). Arona's 私がいる限り and シッテムの箱のOSであるスーパーアロナ are confident present protection/self-description, limited by her subsequent 何かが近づいて and Sensei's tentative 電源が……？ (u:0053-0062). PMC兵士A at u:0047-0048 self-addresses in a way indicating speaker-tag drift; outcome remains clear but line-person attribution less secure. No performed voice.
+
+## V100 C001 E009 Japanese voice/address delta
+
+Kanna's 三流悪党 self-description and 責任を転嫁するわけにはいかなかった put shame and duty in one voice, while おそらく marks the internal-collaborator theory as inference (scene:001:u:0018-0035/0065-0081). Her 6時間前 anchors the coup report relative to rescue; 行方不明 is council knowledge, not omniscient fate (u:0072-0099). Makoto's 匿ってる and 陰謀 are unsupported charges; Sakurako's 急を要する案件 remains unspecified (u:0103-0123). Aoi's 帳簿から追跡 is claimed audit basis, then 不信任決議案/正式に発効された命令書/再信任投票 state a procedural result without proving Rin's guilt (u:0141-0155). No performed voice.
+
+## V100 C001 E010 Japanese voice/address delta
+
+Rin's 麻痺する and Aoi's 暴走を止める frame the suspension from opposing institutional positions, without adjudicating guilt (scene:001:u:0001-0020). General's 全権限を引き継がせてもらおう is a seizure claim, qualified by President's 権限掌握には少々時間, while 超古代兵器 is his label for the acquired object (u:0021-0043). Kanna's 私はここまで is physical limit; 正義の味方 and 腐敗しきった警官 express a contrast in her own self-account, later resisted by Sensei's inward judgment (u:0054-0077). Sensei's 我々は望む、七つの嘆きを / ジェリコの古則 and Arona's 急に電源も消えて establish a ritual phrase and temporary outage, not a technical manual (u:0082-0087). No performed voice.
+
+## V100 C001 E011 Japanese voice/address delta
+
+Fubuki's 先生の指揮がすごい praises Sensei while her 頭数も支援も補給品も圧倒的に不利 resists overconfidence; the text contains no actual command sample (scene:001:u:0001-0003; scene:002:u:0001-0002). Kirino's なんとかなりました is modest local survival, not decisive defeat. Kanna's 少し休んだから、私はまだ動ける explicitly reopens movement after E010's stop, without claiming medical recovery (scene:002:u:0003-0005). No performed voice.
+
+## V100 C001 E012 Japanese voice/address delta
+
+Arona's 1秒だけ and 一番近くにいる人になら bound her network workaround; Sensei's thank-you choice is supportive without claiming full reconnection (scene:001:u:0001-0014). Saki's 勘違いするな and Moe's 食後の運動 excuse enact proud denial; Moe's 先生から連絡, Miyu's すごい急いでた and Miyako's 救助要請を確認 supply stronger action evidence (u:0029-0033). Miyu's タンゴー、ダウン is a target-status call, not death certification. Miyako's 正式な指揮系統も整ってない is situated chain-of-command self-report, and 交戦を開始 is action onset (u:0028/0041-0057). No performed voice.
+
+## V100 C001 E013 Japanese voice/address delta
+
+Arona names クラフトチェンバー, describes とある方法 for the withheld bypass, and uses ようです for Rin's apparent detention, marking technical/intelligence limits (scene:001:u:0018-0024). General's あの「狐」 reserve referent is not named here. Saki's SRT elite boast is qualified by group jokes about freshmen, school loss and park living; tags u:0051/u:0060 self-address or drift, limiting exact idiolect attribution (u:0040-0064). Sensei's 指示はミヤコがお願い、私はそれを補助する explicitly assigns Miyako field lead, rather than implying it from action (u:0080-0083; choice:006). Public Security B's 連絡を受けて and later 偶然...目撃 do not yield a single verified contact chain (u:0071-0077). No performed voice.
+
+## V100 C001 E014 Japanese voice/address delta
+
+Black Suit's 現状はまだ分かりません explicitly limits the six readings; それが「箱舟」ではない differentiates desert OOPArt from their ark as his claim, and 制御できない is forecast (scene:001:u:0001-0008). Rin's 誰が「リンちゃん」ですか and 今はそう呼ぶのは先生しか echo E006 dream register while addressing Sensei presently; u:0010 self-addressed リン label constrains exact line ownership (scene:002:u:0006-0014). クラフトチェンバー、確保 is local operational report, not system-control proof. サキ tags around detonator threat/reaction swap, and Miyu's もう、撃っちゃった states a fired shot without an outcome (u:0015-0025). No performed voice.
+
+## V100 C001 E015 Japanese voice/address delta
+
+Momoka's 行政制御権に介入完了 is her intervention claim; Arona's 通信が復旧 has visible message evidence (scene:001:u:0001-0008). Abydos's シロコちゃんが消えちゃった/自転車だけ残して describe absence, not a named transformation. Kurumi's 中身は聞いてない blocks object identification (u:0019-0040). ゴルコンダはもう居ない。私は「フランシス」だ is a self-naming/continuity claim. Francis repeats 覆された genre rhetoric akin to E001 but attribution there remains open; Sensei's どんな未来であろうと、私たちは乗り越えていく is his inward refusal and responsibility stance (u:0041-0071). Arona's 面識のある生徒さん全員 limits outreach, and Black Suit's アヌビス/恐怖（terror） are his interpretive labels, not direct Shiroko address (u:0072-0084). No performed voice.
+
+## V100 C002 E001 Japanese voice/address delta
+
+Black Suit corrects 到来 to 侵略 and explicitly frames a shift with そう解釈していた/意志と計画性を感じます. 狼の神/彼女/アヌビス never names Shiroko directly; 色彩の嚮導者 and プレナパテス are his role/name report, not an encounter (scene:002:u:0005-0024). Shinon's 連邦生徒会から...いえ...シャーレ is a corrected emergency-statement source; her martial-law relation remains 明らかになっていない (scene:001:u:0021-0023; scene:002:u:0025-0037). 大人のカードを取り出す means drawn, not used. Hina u:0002 and Yuuka u:0005 self-address tags limit attribution. No performed voice.
+
+## V100 C002 E002 Japanese voice/address delta
+
+Shiroko's first-contact `名前以外何も分からない` is an epistemic limit, not diagnosed amnesia; Nonomi's comparison to `彼女` leaves the referent unnamed (scene:002:u:0002-0047). Rin's `虚妄のサンクトゥム` names targets for planning, while `信頼度は10%未満`, `約300時間`, `約2週間` and `14日と23時間59分59秒` are differently situated confidence/time terms (scene:002:u:0101-0176; scene:007:u:0053-0062). Seia's `未来はもう見えない` is self-report. Kaho's `生徒名簿に登録された記録がありません` is narrower than nonexistence, and `奇談集`/`噂` qualify Kuzunoha testimony (scene:007:u:0063-0095). Ayane/Hanako, Ako and Gehenna Sena/Chinatsu self-address seams prevent individual idiolect conclusions in this ensemble. No performed voice.
+
+## V100 C002 E003 Japanese voice/address delta
+
+Ayane's `作戦担当` and PS68's `囮`/`挟撃` specify roles/plan; Haruka's `一生懸命死にます` is immediately corrected by Kayoko's `死んだらダメ`, so it is not accepted sacrifice doctrine (scene:001:u:0003-0019). Nonomi's `昔話はその辺に` interrupts the Nephthys connection rather than confirming its details (u:0020-0028). Tsurugi's `全部治ってる` is her own health report and `互角` Karin's impression; Yuuka's `じゃんけん` ends a dispute without a displayed result (u:0067-0101). Alice's game lexicon is stable in secure lines, but repeated Alice/Hina/Miyu and Yuuka/Akane self-address tags around u:0102-0152 limit personal voice attribution. No performed voice.
+
+## V100 C002 E004 Japanese voice/address delta
+
+Saori's `自分探し`/work-helmet exchange is reunion under many Misaki/Hiyori label slips (scene:001:u:0001-0029). Fifth-site `間に合わないかも` is forecast, and Engineering's separation/burning route is a proposed `最善策`, not proven only solution (u:0036-0072). Koyuki's `不可抗力`/`ハプニング` defends against Yuuka's `債券の偽造`, with Yuuka/Noa self-address errors around scene:002:u:0015-0017/0035. Kanna's `避難は完了した` is a report, while soup-kitchen distribution is shown (scene:003:u:0002-0035). Niya explicitly calls the temple site `推理` yet `ほぼ確実`; Kaho only hopes it is right. Makoto's `アレ` cannot be identified (u:0082-0136). Scene 003 places `u:0137` before `u:0111` in physical order; preserve locator and label anomaly. No performed voice.
+
+## V100 C002 E005 Japanese voice/address delta
+
+Rin's `スタンバイを確認` indicates readiness, not route secured. Ayumu's `可能性が高い` marks predicted new enemy spread. Momoka's `できたら` makes the countdown conditional, and Ayumu's `各個撃破`/`全員で` specify first five then a combined sixth (scene:001:u:0001-0011). Sensei's closing `心の声` says `開戦だよ`, which declares launch without reporting victory; one choice thanks the three planners (u:0012-0020; choice:001). No performed voice.
+
+## V100 C002 E006 Japanese voice/address delta
+
+Ayane's `守護者までの道を確保します` marks an operational aim, Kayoko's `列車を動かすね` imminent action, and `襲撃……！？` a question, not firm attacker classification (scene:001:u:0001-0016). Cheerful interjections under Hoshino/Aru tags around u:0003-0008 do not support stable idiolect attribution. The Shanhaijing next card is a route cue, not an Abydos result (scene:002:u:0001). No performed voice.
+
+## V100 C002 E007 Japanese voice/address delta
+
+The citizen's `化け物` is alarm language. Rumi's `キサキ会長` and Kisaki's `門主` connect the directly named speaker to V100 C001 E007's `門主様`/`妾` speaker, supporting a qualified role-row merge rather than two subjects. Kisaki's `送っておいた` is a report of off-screen dispatch (scene:001:u:0001-0010). Genryumon student A/B labels and `u:0010-0012` self-address drift constrain individual film-quote voice claims; the `店主` line is left unassigned. No performed voice.
+
+## V100 C002 E008 Japanese voice/address delta
+
+Tomoe's Cherino `用事がある` says no mission and `でしょうか` leaves shelter location a guess. Nodoka's `来てないと思う` is a hedged no-arrival report (scene:001:u:0005-0007/0014-0018). `カンヅメ` is Momiji's comic-production metaphor. Nodoka tags at u:0008-0009/0016 and Momiji at u:0011 self-address or drift, so the exact ruined-hot-spring and book-idea lines should not drive individual idiolect claims. No performed voice.
+
+## V100 C002 E009 Japanese voice/address delta
+
+Akane's `先ほどダクトから潜入できました` reports entry complete; Karin's `向かっている` leaves factory-center arrival pending. Eimi's `混乱すると思う` is predicted enemy reaction, and `作戦開始` formal launch, not victory (scene:001:u:0005-0011). A Tsurugi-tagged u:0003 says `ツルギ先輩`, likely Ichika's rear-support line but kept label-uncertain. No performed voice.
+
+## V100 C002 E010 Japanese voice/address delta
+
+Kaho's `防衛戦を、始めます` launches defense; Shizuko's `準備万端` claims shelter readiness and `支援します` promises supplies, without use/outcome proof (scene:001:u:0001-0009). Fina's `任侠` and Umika's festival comparison are situated crisis language. No performed voice.
+
+## V100 C002 E011 Japanese voice/address delta
+
+Ako's `寄せ集め` is a reputational challenge, not a force audit; Chinatsu's inward line supplies a competing explanation (scene:001:u:0001-0010). Satsuki's `有権者` gives a political rationale, while Sena's `事実です` corroborates actual evacuation assistance. `NKウルトラ計画` is Satsuki's claimed science, but `効果は無いようね` concedes no observed effect on Ako (u:0011-0042). Ako/Iori and Ako/Satsuki self-address tags around u:0005-0008/0034-0036 limit voice ownership. No performed voice.
+
+## V100 C002 E012 Japanese voice/address delta
+
+Miyako's `問題ないと思います` is opinion about the forward pair. Yuzu's `出動` and `始めます` mark launch, not outcome. Kotori calls Mk.3 `ユズ専用` and explains `フレーム単位` input, while Alice's `UZQueen` is game-role praise (scene:001:u:0001-0021). `ユズ` at u:0018 says `では、始めようか` in a different register and may be a label shift; do not build Yuzu voice from it. No performed voice.
+
+## V100 C002 E013 Japanese voice/address delta
+
+Shimiko's `まだ比較的崩れにくいはず` is an estimate, Justice's `複製（ミメシス）` a report, and Hasumi's `L118` an identification by sight, not firing confirmation (scene:001:u:0001-0040). Nagisa speculates `別の力`; Seia says `能力と呼ぶのかどうかは定かではない`, while Nagisa reframes it as `勘`, preserving uncertainty (u:0041-0045). Mashiro/Hasumi and Sweets self-address tags plus nonmonotone `u:0051` constrain individual register attribution. No performed voice.
+
+## V100 C002 E014 Japanese voice/address delta
+
+Hasumi's `おおかた片付きました` is qualified immediately by Seia's `おそらく` missed-evacuee location, later checked by Mashiro (scene:001:u:0001-0009). Bystanders' `裏切り者`/`魔女` label Mika; Koharu's `助けてくれて` and Hasumi's `事実ですから` ground one rescue acknowledgment without broad judgment (u:0019-0031; scene:002:u:0001-0020). Koharu/Mika/Hasumi tags flip at u:0027-0029 and scene:002:u:0007-0019; scene 2 `u:0022` is nonmonotone. No performed voice.
+
+## V100 C002 E015 Japanese voice/address delta
+
+Hanako's `今のところ1つだけ` bounds route knowledge, and `信用する理由は、それで十分` is her task-specific trust decision. `共通の大切な友人` does not name the referent in this scene (scene:001:u:0001-0024). Sakurako's `覚悟` belongs to her stated anti-hatred intention; costume speculation about other sisters/underwear is neither policy nor factual audit. Sakurako self-address and Hanako/Sakurako swaps at u:0034-0048 prohibit exact idiolect attribution across the joke (u:0025-0055). No performed voice.
+
+## V100 C002 E016 Japanese voice/address delta
+
+Hare's `ヒマリ部長だけのはず` is expectation, not an access-control audit; Himari's `私でもありません` denies her action. Kotori's `幽霊` is speculative question, and `出発` is Utaha's departure order (scene:001:u:0005-0014). Utaha u:0003 appears self-addressed, limiting personal style attribution. No performed voice.
+
+## V100 C002 E017 Japanese voice/address delta
+
+Koyuki's `解決した` is confirmed conversationally by Noa, while `誘導しつつ、防壁を解体` is still mission description. `粉砕完了` is local demolition, not pillar destruction (scene:001:u:0001-0027). Kotama's `地層を分析` report challenges geothermal prospect; Kasumi's `心の中`/`信じろ` is a belief metaphor, not measurement (u:0028-0036). Yuuka/Koyuki/Noa u:0004-0018 and Hot Spring u:0019-0025 self-address seams limit exact idiolect. No performed voice.
+
+## V100 C002 E018 Japanese voice/address delta
+
+`比較的安全` was relative snowfield risk, now followed by direct encirclement, not evidence of deliberate deception. Makoto's `情報網`/`危機一髪` describe her claimed knowledge/timing, while `好感度` and the pudding exchange frame her own motive, not a complete ethics account (scene:001:u:0001-0058). `だいたい片付いた`/`誰も怪我をせず` report bounded rescue result (scene:002:u:0001-0010). Scene 002 repeatedly swaps Ibuki/Izuna/Tsukuyo/Makoto labels; avoid exact individual verbal-style claims. No performed voice.
+\n+## V100 C002 E019 Japanese voice/address delta
+\n+`まだ確認されておりません`, `予想されます` and `おそらく` distinguish the unknown sixth guardian from Himari's comparative forecast (scene:001:u:0001-0004). `無事に片付いた` is Red's local completion report (scene:002:u:0001). `平凡なスーツ` is a caution that Himari immediately qualifies; `かもしれません` marks her Rio-plan and Toki-feeling hypotheses (u:0013-0030). `イエス、マム` and `一人で戦うのには慣れています` are Toki's secure reply and self-report; self-address in scene:001:u:0005 and scene:002:u:0011/u:0021, plus Kaitenger/Gourmet label drift, bar fine-grained idiolect assignments. No performed voice.
+
+## V100 C002 E019 Japanese voice/address delta
+
+`まだ確認されておりません`, `予想されます` and `おそらく` distinguish the unknown sixth guardian from Himari's forecast (scene:001:u:0001-0004). `無事に片付いた` is Red's local report (scene:002:u:0001). `平凡なスーツ` is immediately qualified; `かもしれません` marks Rio-plan and Toki-feeling hypotheses (u:0013-0030). `イエス、マム` and `一人で戦うのには慣れています` are Toki's secure reply/self-report. Self-address at scene:001:u:0005 and scene:002:u:0011/u:0021, plus Kaitenger/Gourmet label drift, bar fine individual voice assignments. No performed voice.
+
+## V100 C002 E020 Japanese voice/address delta
+
+`全自治区の防衛戦も完了` and `全サンクトゥムの攻略準備、完了` are broad status statements; `まもなく` keeps the countdown pending (scene:001:u:0001-0003; scene:002:u:0001-0005). Love is explicitly introduced as `河駒風（こまかぜ）ラブ` under a likely slipped Helmet-member label (scene:001:u:0016-0018); avoid inventing a second named speaker. Wakamo's `あなた様`/`果ての果てまで` is a pledge to Sensei, not proof of its fulfillment (u:0019-0022). Sensei's printed `リンちゃん、お願いします` assents to Rin's signal (choice:001). Council u:0002/u:0007 and gang tags drift; no performed voice.
+
+## V100 C002 E021 Japanese voice/address delta
+
+`元に戻りましたね` is Rin's sky observation. Sensei's internal `やったのかな……？` and `あれは……シロコ？` are questions, not declarative victory or identity explanations (scene:001:u:0001-0005). The Shiroko label is silent; it supplies no idiolect or performed voice. `Final.;To be Continued in Chapter 3` is a transition card, not narrative resolution (u:0006).
+
+## V100 C003 E001 Japanese voice/address delta
+
+The cold-looking girl's placeholder label is Korean `차가워보이는 소녀 무소속ND` until the self-name `御稜（ごりょう）ナグサ`; u:0045-0046 contradict adjacent conversational flow, so the cosplay improvisation is not an idiolect proof (scene:001:u:0015-0068). `黄昏の寺院` destroyed/buried and `無いよ` for finding Ayame are Nagusa's accounts (u:0069-0075). Shiroko-tagged `本質（いし）` and later `本質（やくわり）` link will/role rhetorically; `むしろ...かも` hedges her Color-use claim (u:0095-0105). Sensei's `嚮導者...！？` remains an inward question (u:0124). No performed voice.
+
+## V100 C003 E002 Japanese voice/address delta
+
+Seia's `現時点で判明している事は、無い` limits present knowledge; the Kuzunoha-tagged scroll's `存在しない`/`絶対的なルール` makes a categorical, unaudited assertion (scene:002:u:0020-0032). `24時間ほど`, `38%ほど`, `見つけたかも` and `おそらく` mark approximation and inference in the new-energy analysis (u:0038-0045/u:0110-0118). Sensei's `全部私のせい` and Rin's `私が力不足` are self-blame, while Hoshino's `連れ戻せば` proposes rescue without a known cure (u:0053-0099). u:0077 has a likely speaker-label swap. No performed voice.
+
+## V100 C003 E003 Japanese voice/address delta
+
+Hanako's `仮説`/`実際に検証したものではありません` and `一番近い理論で例えただけ` explicitly limit her state-coexistence account (scene:002:u:0027-0039). `おそらく`/`予測` qualify membrane-only and attackability claims (u:0053-0059); Himari's `現状では不可能` limits calculation now (u:0074-0075). Black Suit's `取り返しのつかない被害` and `死に至る事さえ` are conditional warnings, while his Gematria-membership proposal is retracted as `冗談` (u:0100-0112). No performed voice.
+
+## V100 C003 E004 Japanese voice/address delta
+
+Black Suit labels the overhead object `アトラ・ハシースの箱舟` and the Abydos candidate `ウトナピシュティムの本船（もとぶね）` / `宇宙戦艦`, explicitly distinct in his account (scene:001:u:0001-0040). `かもしれない` marks his discarded buried-ark guess; `でしょう`/`かもしれません` mark motive/counterfactual inference (u:0022-0029/u:0035-0036). `扱える者は存在しません` with `シッテムの箱` owner exception is absolute phrasing from an actor, not independently verified exclusivity (u:0031-0032). No performed voice.
+
+## V100 C003 E005 Japanese voice/address delta
+
+Rin quotes President's `超古代兵器`/`サンクトゥムタワーの力が必要`, with the recollection frame preserved (scene:001:u:0005-0015). Ayane's `無人のはず` is expectation, `書類上は` a legal-record concern, and Hoshino's `シロコちゃんスタイル` comic emergency gloss does not grant permission (scene:002:u:0011-0040). Himari first says space battleship `なのだそうです` on Sensei's report, then later says `間違いないかと` after seeing the structure (u:0030-0031; scene:003:u:0012-0013). Korean `통신린` marks communication, not another subject; other label slips prevent exact idiolect claims. No performed voice.
+
+## V100 C003 E006 Japanese voice/address delta
+
+Ayumu's `ざっと見積もっても、10名以上` is approximate, while Himari's `まだ、制御には至りません` separates system access from command (scene:001:u:0005-0010/u:0060-0066). `見当たりません` at out-of-order u:0095 is an initial absence-of-visible-weapon report. Kei's `王女`, `決戦兵器` and `牙を剥くでしょう` are her role/history/future claims; `私の願い` frames a protective request to Alice (u:0076-0094). u:0037 and u:0045 self-address/label slips constrain Yuuka/Noa voice. No performed voice.
+
+## V100 C003 E007 Japanese voice/address delta
+
+`絶対解明できない` is Utaha's present mechanics assessment, while `操作する程度ならなんとかなりそう` leaves a manual route (scene:001:u:0004-0017). Himari's `100,000mが限度`, `75%以上` and `できるかもしれません` mix estimates with conditional reach, not tested flight (u:0020-0037). AMAS's first-person `私を良く思っていない` and Himari/Hanako recognition narrow Rio identity despite `演算サポートAI` cover; u:0038/u:0047 tags drift (u:0042-0100). Seia explicitly calls her parable line `結果論`, and Rin's `理解できないものを通じて、私たちは理解を得ることができるのか` is an incomplete reported saying (u:0114-0156). No performed voice.
+
+## V100 C003 E008 Japanese voice/address delta
+
+`アトラ・ハシースの箱舟占領戦` names the plan, and `理論上は` limits state-matched barrier passage (scene:001:u:0001-0034). `約12時間と予想`, `3%もあります` and `8時間以内` are forecast, simulation rhetoric and schedule, not outcomes (u:0051-0058/u:0076-0080). Rin's `全サンクトゥムの破壊に成功` is a broad status report (u:0066). `やらなければならない` states emergency urgency but does not erase Momoka's initial refusal/social-pressure shift (u:0080/u:0096-0102). AMAS/Himari labels drift in u:0035-0047; no performed voice.
+
+## V100 C003 E009 Japanese voice/address delta
+
+Ayane's `おそらくは` qualifies Shiroko's ark location; Aru's ramen-after-return formula is morale, not outcome proof (scene:001:u:0017-0036). Alice's `まだ「ケイ」が残っています` and `他の誰でもないアリス自身が...決めたい` secure fear/identity self-report and chosen role despite incomplete origin knowledge (scene:002:u:0049-0065). Atsuko's `明日を待つ` is hope, not prophecy (u:0138-0152). Aoi's `ごめんなさい` and Rin's `恨んだりなどしていません` are bounded repair; u:0179 self-addresses Aoi under Aoi tag (u:0153-0179). Haruka, Midori, Tea Party and Arius tags also drift. No performed voice.
+
+## V100 C003 E010 Japanese voice/address delta
+
+Arona's `私でさえ把握できていない` explicitly marks bodily burden as unknown; Black Suit's `取り返しのつかない被害` and `決定された結末` are actor certainty, not verified outcome (scene:001:u:0074-0109). The remembered president completes the second ancient question as `理解できない他人（もの）を通じて、己（たがい）の理解を得ることができるのか`, while Rin postpones her answer (u:0117-0130). `乗り物酔い` is Sensei's public explanation for symptoms, not a diagnosis (u:0147-0151). Hanako's `正常動作` precedes her `不安定` report, a changing technical status, not simple contradiction (u:0152-0173). Crew and Gourmet labels drift; no performed voice.
+
+## V100 C003 E011 Japanese voice/address delta
+
+The italic president-address contrast `大事なのは経験ではなく、選択` and `私たちとの思い出` conveys an appeal, not proven memory mechanics; narration u0014-0020 continues the address with `[wa:900]`/`[wa:1800]` timing markup (scene:001:u:0001-0023). Hanako's `エラー発生`/`一致しません` are instrument reports. Rio's `値が変わった` precedes her inferential `作ったのね`/`退避したのでしょう`, preserving observation versus hypothesized cause (u:0024-0035). Rio-tagged `リオ会長！？` self-address at u0030 is label drift. Hanako/Himari finish with questions, not conclusions (u:0036-0039). No performed voice.
+
+## V100 C003 E012 Japanese voice/address delta
+
+Rio's `二択` and `ただ一つの方法` express her confident collision forecast/plan, not demonstrated exhaustive physics (scene:001:u:0003-0011). Alice joins `名もなき神々の王女`, `魔王`, `勇者`, school/club and chosen `アリス`; `「勇者」の資格` is her `誰かを助けたいと思う気持ち` belief (u:0024-0056/u:0084-0089). Kei's `生を終えることでしょう` is prognosis, not observed death (u:0057-0060). Alice's `ケイ` accidental-name argument rejects assigned purpose (u:0078-0083). `服従ではなく` and `お願いを聞いてくれました` frame Kei's cooperation (u:0104-0106). Alice's `許す必要はありません` and `仲間` make Rio's invitation distinct from absolution (u:0119-0131). Alice/Kei/Rio tags drift at u0021/u0049/u0052-0053/u0065-0068/u0104/u0109; italic and unknown narration remain mediated/unidentified. No performed voice.
+
+## V100 C003 E013 Japanese voice/address delta
+
+Rio's `貫通できるはず` is prospective at u0003; Hanako's `粉砕` and Kayoko's `最終機能の停止` later upgrade the local barrier outcome (scene:001:u:0001-0049). Himari's `勇気（こころ）` and `勇者の証` name an interpretive Alice-made Light Sword, while the visible data transformation is separate (u:0008-0017). `世界を救った` is Rio's celebratory overreach; Himari's `もしも` preserves the still-open world result (u:0078-0087). Kei's `道具` is self-description in a proposed sacrifice, not ethical endorsement (u:0096-0108). At source order after u0044, u0116 precedes u0046; u0045 is absent. Rio/Himari and Alice/Kei labels drift around u0079-0081/u0092-0095. No performed voice.
+
+## V100 C003 E014 Japanese voice/address delta
+
+Ayumu's `リンゴに爪楊枝` simile means partial embedding, refining `内部に侵入` without a safe-landing claim (scene:001:u:0001-0002). `問題ありません` qualifies only the multidimensional interpretation system; `ダメージ`, `完全にシャットダウン`, `動作不能` and `ボロボロ` describe other ship functions (u:0005-0008). Himari's `まるで、待ち構えていたかのよう` marks comparison, not proof of enemy planning (u:0012). Fuuka's `何でまた私が` retains protest despite Gourmet deployment (u:0024). Haruna/Izumi and generic crew/Ako labels drift u0022-0032; Midori/Momoi lines drift u0036-0039. Sensei's line is inward, not an outward battle order (u:0043). No performed voice.
+
+## V100 C003 E015 Japanese voice/address delta
+
+Ayumu's `撃退`/`防衛に成功` directly closes only the first defense (scene:001:u:0001). Shiroko's `命の終わりしかない` is her ominous warning, not established fate (u:0009-0011). Shiroko-tagged `シロコちゃん` self-address at u0016-0017 and Engineering/Rio-Himari tag reversals at u0033-0044 require attribution caution. Rio says `おそらく` for Shiroko's movement, `できるはず` for a sequence and `おそらく一度しか` for its use limit; all are forecasts (u:0041-0050). Himari's `軽蔑などしませんよ。私はあなたが嫌いなだけ` and subsequent thanks distinguish dislike from contempt and conditional cooperation (u:0065-0073). No performed voice.
+
+## V100 C003 E016 Japanese voice/address delta
+
+Kotama's `シミュレーション結果` says planned Ark destruction, whereas `시스템`/system announces a premature `自爆シーケンス` and Yuuka calls the actual blast small (scene:001:u:0007-0040). Himari's `バックドア`/`所有権` is takeover diagnosis, while Yuuka's `まさか、あの時` is inference toward an earlier intrusion (u:0041-0050). Ground `また空が` does not itself enumerate active Sanctums (u:0053-0084). Shiroko labels in u0099-0118 give allied Sensei companion; later u0139-0142 attribution drifts in the doom voice. `A.R.O.N.A`/`シッテムの箱` repeats familiar names in a new context without identity proof (u:0132-0138). `約30分後` and `800秒後` are prospective timing, not completed outcomes. Source u0144 precedes u0052; u0051 absent. No performed voice.
+
+## V100 C004 E001 Japanese voice/address delta
+
+Himari's `いつサンクトゥムが顕現してもおかしくない` is modal, not completed Sanctum manifestation; `拒否されました` confirms only the attempted unlink failed (scene:001:u:0001-0030). A.R.O.N.A.'s `一部肯定` about identity marks similarity with difference, while familiar Arona's biometric `一致します`/`生きて、いません` supplies narrower corroboration (u:0031-0066). Alternate Shiroko's `定められた`/`本質` are deterministic self-claims, not validated law; local Shiroko's `信じない` is direct resistance (u:0067-0104). Repeated Arona/Shiroko tags conceal distinct voices; Prenapates tag at u0053-0054 appears to carry OS speech. No performed voice.
+
+## V100 C004 E002 Japanese voice/address delta
+
+Miyako's `出現したようです` is tentative, distinct from a complete Sanctum audit (scene:001:u:0015-0020). Repeated `9秒後` marks a held countdown; Rio calls it `足止めに過ぎない` and asks `皆の力を貸して`, with Himari thanking her while retaining `嫌いなまま` (u:0023-0049). Hanako's `上手くいけば、約5秒` and `あるいは` keep the release-device plan conditional (u:0075-0084). Fuuka's `わざとだよね`/`何でこんなことに` protests Haruna's pretext, even as `行くわよ` supplies a current decision to drive (u:0085-0127). Alice's `問題ありません`/Sword intact are self-report, not clearance (u:0111-0117). Rio/Himari and briefing tags self-address; no performed voice.
+
+## V100 C004 E003 Japanese voice/address delta
+
+Sensei's `たぶん` about Shiroko knowing his answer and `みんなで力を合わせて` frame a proposed method, not success (scene:001:u:0001-0009). Toki says `顕現してしまうかと` before reporting a discovered new site; Himari's `顕現しています` is a stronger simultaneous report, with exact completion/coordinates uncertain after communications cut (u:0019-0030). Rio/Himari ask `どうして` when suppression decline normalizes, explicitly leaving cause open (u:0037-0042). Rio tags u0049-0050 appear to voice Toki's local hold assessment, while her refusal at u0048 is secure. Gourmet exclamations describe hazard, not a printed crash. No performed voice.
+
+## V100 C004 E004 Japanese voice/address delta
+
+`抑制` time falls irregularly in printed reports; Rio's `トキが……` is fear, not confirmation of her fate (scene:001:u:0001-0010). Fuuka's `到着したわよ` directly closes the E003 hazard as arrival (u:0011). `東側の解除装置、破壊完了` and `西側の解除装置も、破壊完了` are completed reports (u:0017/u:0019). Junko's `端末、破壊`, Chihiro's `連結、解除`, Kayoko's `承認` and Rio's `抑制が安定化` provide convergent immediate-result language (u:0032-0044). `成功` should be scoped to this link cut, not world rescue. No performed voice.
+
+## V100 C004 E005 Japanese voice/address delta
+
+Toki's `これ以上……身体が、動きません` and `救援が来ない` distinguish bodily self-report from her mistaken forecast about help (scene:001:u:0009-0022). Her `トロッコ問題` cites Rio's former framing; Rio's `前提そのものを、間違えていた` and `手を差し伸べてくれる人を探す事もせず` explicitly revise that premise (u:0023-0034). Seia says her signal was near `予知夢` or `勘` and `確信はなかった`; Noa adds her own hunch, not a measured foresight success (u:0051-0061). `爆発するしかない`/`地上に帰すわ` are Rio's assessment/promise, not achieved events (u:0073-0077). Later Rio/Yuuka/C&C tags drift. No performed voice.
+
+## V100 C004 E006 Japanese voice/address delta
+
+Control-room OS `試行失敗`/`キャンセルされました` report present bypass and manifestation failure, while `永久消滅します` and `0.0003%以下` forecast consequences if Ark self-destruct completes (scene:001:u:0001-0012/u:0058-0059). `みんなで勝てばいい` is local Shiroko/Sensei-side group ethic, not victory certification (u:0060-0067). Hostile `経験の差` claim and `大人のカード` versus `大人のカード` question remain untested combat framing (u:0083-0097). Two Arona/Shiroko labels alternate; `プレナパテス` labels u0073-0076 may carry hostile counterpart voice. Gourmet/crew tags drift. No performed voice.
+
+## V100 C004 E007 Japanese voice/address delta
+
+`自分用の、シーケンスを……シロコさん、に` is an alarmed OS report of a transfer, not the transfer scene; `残り0回` is a location/status line (scene:001:u:0001-0006; Scene 002 heading). `もしかすると`/`信じていたのですか` mark the control-room OS's counterpart-trust interpretation as a question (scene:002:u:0006-0011). `なんとか爆発からは守れましたが` and `墜落スピードが、変わりません` distinguish blast protection from fall safety (u:0019-0028). `先生` refers to two counterpart teachers across shifts, while every OS line carries `アロナ`; mutual address/transfer supplies the separation (u:0030-0068). `#videons2;11001` is a media trigger without printed visuals. No performed voice.
+
+## V100 C004 E008 Japanese voice/address delta
+
+The president-address narration's `覚えていてください`/`大切なものは決して消える事はありません` and odd `己の（たがい）理解` are printed voice/wording, not proved cosmology; `[wa:...]` is timing markup (scene:001:u:0001-0010). `先生は無事、生徒たちの元に帰りました` is an OS report of return (u:0013). Two `シロコ` tags exchange an unnamed object and `銀行`/`ツーリング` joke; tag alone cannot map every line (u:0020-0060). Familiar Arona coins `プラナ`, the other accepts and appears under a `プラナ` tag; `お姉ちゃん` versus `アロナ先輩` sets an affectionate but negotiated address (u:0061-0094). No performed voice.
+
+
+## V100 C004 E009 japanese voice and address delta
+
+Shinon's reporter pitch repeatedly escalates speculation and is cut by `～しばらくお待ちください～`; Mai switches to a restrained reconstruction report (scene:001:u:0001-0032). Kaya's `超人` against `凡人` and the General's `真の大人` are self-justifying actor rhetoric, not normative authorial endorsement (u:0033-0048). `ジェネラル` tags at u:0042-0045, `ユズ` at u:0063-0064 and repeated `トキ`/`アリス` tags in u:0080-0135 conflict with conversational roles; quote by printed locator and infer speaker only where address/content supports it. `Kei.sav` is a filename; Alice's `仲間になって` wish is conditional on meeting Key again (u:0063/u:0074-0079). Himari's technical register explicitly limits identity proof (u:0108-0114). 368/480, E010 unopened.
+
+
+## V100 C004 E010 japanese voice and address delta
+
+Atsuko's `サッちゃん` and Hiyori's `リーダー` sustain both intimacy and Saori's role as she departs (scene:001:u:0009-0031). The ramen `おじさん` play is an affectionate Hoshino register under meal-cost friction; `セリカ` at u:0042 and `ホシノ` at u:0046 invert role/content (u:0032-0065). Plana chooses `アロナ先輩` and completes `おかえりなさい`/`ただいま` with Arona (u:0066-0077). Rin/Ayumu/Momoka tags invert near u:0087-0095, so assign thanks by conversational role cautiously. Niya's `にゃは` teasing and Sensei's inward denial do not authenticate the detailed naked-running rumor (u:0101-0108). The Kuzunoha letter uses archaic `妾`/`くりゃれ` and asserts `絶対的なルール`; that is an attributed voice in a letter, not verified author or cosmology (u:0118-0123). `リンちゃんへ` and handwriting recognition elicit Rin's president question, not confirmed attribution (u:0127-0131). 369/480, E011 unopened.
+
+
+## V100 C004 E011 japanese voice and address delta
+
+Plana's `アロナ先輩` and Arona's `プラナちゃん` mark their chosen senior/junior intimacy; strawberry-milk sleep talk and the cheek-poke threat set a domestic, teasing register (scene:001:u:0001-0019). Plana switches to `肯定` in her support pledge, retaining formal OS cadence alongside care (u:0020-0023). Her later `ここでも`/`この世界にも居ない` expresses cross-world comparison of the president's absence, not independently verified travel history (u:0028-0029). 370/480, E012 unopened.
+
+
+## V100 C004 E012 japanese voice and address delta
+
+Francis's ornate `物語`/`幕間`/`舞台` and `主人公ではない` frame his own sense of genre and rivalry; Decalcomania's repeated `そういうこったぁ` remains a narrow echo, not a full motive sample (scene:001:u:0001-0012). Plana's formal `演算完了`, `仮説`, `Q.E.D.` and first-person `A.R.O.N.A` culminate in direct address `連邦生徒会長`, but the addressee does not reply (u:0013-0020). `ここ` is deictic and physically unspecified. The video marker cannot be quoted as dialogue (u:0021). 371/480, chapter checkpoint pending.
+
+
+## V100 C004 canonical checkpoint reconciliation
+
+The [V100 C004 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md) reconciles E001-E012 at **371 / 480** canonical main units. The coalition's east/west/lower-device intervention severs the ship/Ark link at one second; the OS reports temporary ground-Sanctum cancellation, while E008 OS voices report present Sensei safely returned after E007's dangerous fall. Plana is the existing control-room OS subject, distinct from familiar Arona; local and alternate Shiroko remain distinct. The exact duel, Ark/ship damage, Prenapates' fate, Sensei medical status, the alternate's durable status and wider casualty audit are unverified. E009-E012 supply civic repair reports, ambiguous `Kei.sav`, homecoming, pending Rin vote, unauthenticated Kuzunoha/president letters, Francis's unperformed Gematria plan and Plana's privately asserted president hypothesis. No new readiness promotion or standalone model: **21 PARTIAL_MODEL / 182 UNMODELED across 203**. No durable new claim ID, frozen analytical prediction, held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission. The 43 inserted V001 C003 units remain **DEFER** for their own ordered backfill. Next forward source: `BA:main:series2:000:001:001` / `MAIN_S2_V000_C001_E001`.
+
+
+## S2 V000 C001 E001 japanese voice and address delta
+
+Decalcomania changes from narrow `そういうこったぁ` assent into ornate `求道者`/`解`/`記号`/`マクガフィン` discourse, then addresses an unheard `テレスクリーン` as `其方` (scene:001:u:0004-0029). Green/blue and `色彩` occur in his rhetorical challenge, with no printed other speaker. Fifteen repetitions each of the `記号`, `権威`, and `世界を裁断` questions are narration/log wrappers, not independent dialogue samples (u:0030-0076). His final `実在` assertion is self-positioning, not external ontology proof (u:0077-0082). 372/480, E002 unopened.
+
+
+## S2 V000 C001 E002 japanese voice and address delta
+
+Rin uses formal public-service instructions on firearm safety and unapproved ammunition in a sponsored filmed announcement, distinct from her private reluctance before the camera (scene:001:u:0001-0011; scene:002:u:0002-0019). Repeated `リン` tags at scene 2 u:0002-0005 and `アユム` at u:0015 conflict with turn address/content; quote by locator and qualify attribution. The president nickname `リンちゃんへ` is on an envelope only, not a letter body; Rin says the handwriting merely resembles the missing president's (u:0027-0033). 373/480, E003 unopened.
+
+
+## S2 V000 C001 E003 japanese voice and address delta
+
+The `ナレーション` addresses Sensei as `あなた`, dictates actions and self-comments on narrative point of view, but Sensei's inward `連邦生徒会のビルに向かう` forces a route adjustment (scene:001:u:0001-0045). The narrator's `はい`/`いいえ` to whether the girl is the voice does not resolve referent. The `？？？` girl's `私はキヴォトスの――` cuts off before a role/name (u:0043-0050). Awake Plana's `推察`/`否定` and Arona's domestic concern contrast the dream voice; neither identifies `シャーケードの杖` confidently (u:0051-0068). 374/480, E004 unopened.
+
+
+## S2 V000 C001 E004 japanese voice and address delta
+
+`レイ` repeatedly expresses worry and procedural caution; A is terse/confident, B casual about current/decompression and C brief/anxious, all in one dive setting (scene:001:u:0001-0022). The role labels `部員A/B/C` distinguish printed turns but give no full names or stable affiliations. Rei's `輝くトラペゾヘドロン` is a speaker name for the shard, not a lab classification; `夕暮れに染まる水平線` is a simile for perceived light (u:0023-0036). No performed voice. 375/480, S2 V001 C001 E001 unopened.
+
+
+## S2 V000 C001 canonical checkpoint reconciliation
+
+The [S2 V000 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_C001_CHECKPOINT.md) reconciles all four sequential readings at **375 / 480**. Decalcomania claims a new route to authority through an unheard telescreen without demonstrated power; Rin's unsigned “letter” proves to be a photo envelope with no message, including an unlocated monochrome lake; Sensei's monochrome city and unidentified girl are in a narrator-driven dream, followed by waking Arona/Plana care; Rei's dive team retrieves a shard she names a shining trapezohedron without composition, hazard or sponsor verification. No causal bridge between screen, photograph, dream and shard is printed. Four directly speaking dive-team subjects were added as narrow UNMODELED: **21 PARTIAL_MODEL / 186 UNMODELED across 207**. No durable new claim ID, standalone model, frozen analytical prediction, held-out diagnostic (`NO_DIAGNOSTIC_OPPORTUNITY`) or side-source admission. The 43 inserted V001 C003 episodes remain **DEFER** for ordered backfill. Next forward source: `BA:main:series2:001:001:001` / `MAIN_S2_V001_C001_E001`.
+
+
+## S2 V001 C001 E001 japanese voice and address delta
+
+Sensei's choice:001 alternatives range from `アオイちゃん` to honorific `アオイ様`, with different tone and no cumulative line; Aoi objects to the date tease and nearly withdraws her request (scene:001:u:0001-0011). Rin contrasts `連邦生徒会長（天才）` and `凡人`, expressing self-pressure (scene:002:u:0018-0024). `先生（心の声）` at scene 2 u:0002/u:0040 seems to draw Rin's reply, so spoken status is uncertain. `リンちゃん` and `デート` are contested by Rin, not reciprocal romance labels (u:0035-0054). 376/480, E002 unopened.
+
+
+## S2 V001 C001 E002 japanese voice and address delta
+
+`린 사복` is a Korean casual-clothes tag for Rin, not a second person. Sensei's `デート`/`リンちゃん` lines are again explicitly rejected by Rin; branch alternative compliments are exclusive (scene:001:u:0002-0022; choice:001-005). Vendor's colloquial `先生` and critique of a stall outing contrast Rin's formal infrastructure apology and technical explanation (scene:002:u:0007-0048). President-labelled Othello lines are a memory-like intercut, not present speech (scene:003:u:0034-0038). Game display `WIN`/`Perfect!` is local result text; some `先生（心の声）` lines appear to draw replies, so audible status remains cautious (u:0045-0069). 377/480, E003 unopened.
+
+
+## S2 V001 C001 E003 japanese voice and address delta
+
+Kaya's proud `超人`/future-coup register persists in correctional custody, but she admits loneliness and accepts Rin's visit (scene:001:u:0002-0029). Rin calls her `腐れ縁の旧友` only later and rebukes treating people as chess pieces, while describing the missing president as an exceptional `彼女` able to control them (u:0046-0059/u:0088-0091). `シャーケードの杖` is Kaya's source name for the smartwatch-like item; dotted emphasis marks her doubt about appearance, not an observed effect (u:0066-0086). Pawn notation and gambit language in the second game do not supply the outcome (u:0094-0101). 378/480, E004 unopened.
+
+
+## S2 V001 C001 E004 japanese voice and address delta
+
+`린 사복` is casual-clothes Rin and `린 1학년` is a first-year recollection marker, not separate people (scene:001:u:0001-0018; scene:002:u:0024-0039). The inscription `この者は――汝らを楽園から導きし者だ` is read by Rin, with author/referent unprinted; the announcement's `声紋照合――99％一致` lacks a named comparator (scene:002:u:0005-0011). The president-labelled voice after `柔らかい声` says it is Rin's old friend/council head, while Rin asks who/how; label and self-identification are not independent authentication (u:0040-0057). 379/480, E005 unopened.
+
+
+## S2 V001 C001 E005 japanese voice and address delta
+
+The source tag `連邦生徒会長` and the visitor's self-introduction express a role claim; Rin's `あなたではありません` directly contests identity (scene:001:u:0001-0011/u:0073-0078). Aoi addresses the visitor by title, while Sumomo/Momoka/Heine vary in appearance memory; Heine briefly conflates Kaya's pink/green traits (u:0021-0043). The visitor's `初対面` surprise and stress explanation are actor speech, not diagnosis. Sensei's inner unfamiliarity and choice to ask for her account remain distinct; choice:004 alternatives are exclusive (u:0061-0085). 380/480, E006 unopened.
+
+
+## S2 V001 C001 E006 japanese voice and address delta
+
+The `連邦生徒会長` label remains a contested role label; the claimant's formal, tactful address shifts to interlocutor incentives: Nagisa's tea/blend reputation, Makoto's preferred assignment of responsibility to Hina, and Cherino's titles and mustache (scene:003:u:0002-0088). Such situational fluency does not prove shared memory or extraordinary persuasion. Her proposed `偽物` accommodation of Rin's view concedes identity dispute without resolving it (scene:002:u:0037-0047). Distinguish Sensei's two choice groups from cumulative speech. 381/480, E007 unopened.
+
+
+## S2 V001 C001 E007 japanese voice and address delta
+
+Plana's repeated `否定`/`肯定` marks a formal OS register while `あの女` and `偽物` express her distrust; `ミメシス` is her interpretive label for an impersonator, not a narrator authentication (scene:001:u:0006-0024). Arona's `能力だけで人を評価するのはよくない` is a direct ethical counterargument, with memory loss offered modally (u:0025-0033). Plana's `指切り` biometric gesture and interrupted old-memory remark do not identify the remembered person (u:0057-0062). `린 사복` labels casual-clothes Rin, and her answer to Sensei's `心の声` does not settle the line's audio channel (u:0125-0127). 382/480, E008 unopened.
+
+
+## S2 V001 C001 E008 japanese voice and address delta
+
+`린 사복` is casual-clothes Rin in sunglasses, not a separate subject; her repeated `変装` is a claimed disguise despite Sensei's skeptical inner reaction (scene:001:u:0001-0029). Three `？？？` 'Rin-chan' calls have no identified speaker or location (u:0016-0018). Mai's 'Rina' idol identification is a mistake asserted by Mai; Rin contests the diminutive (scene:002:u:0051-0066). The label at `scene:002:u:0081` reads like Mai's startled response despite a Rin tag, so do not use it for Rin characterization. Sensei `心の声` at u:0071 receives Mai's reply; audio channel is ambiguous. 383/480, E009 unopened.
+
+
+## S2 V001 C001 E009 japanese voice and address delta
+
+The `オーウェル` speaker gives extended formal, abstract discourse in `記号`, `ジャンル`, `エピステーメー` and `メディア`, finally requesting `ミスター・オーウェル`; the distinct `デカルコマニー` tag repeats `そういうこったぁ` (scene:001:u:0012-0045). Sensei's inward Golconda/Francis/Decalcomania guesses are questions, and Orwell's screen/shadow self-description is not an identity certificate. His `私たち` and reported thoughts of Francis/Decalcomania suggest affiliation but do not collapse three tracked subjects. 384/480, E010 unopened.
+
+
+## S2 V001 C001 E010 japanese voice and address delta
+
+Orwell distinguishes `複製された聖遺物`, `シミュラークル` and `シャーケディアの枝` in a metaphor-heavy explanation of `シャーケードの杖`; these are his labels/claims, not automatic technical synonyms or tested functions (scene:001:u:0009-0015/u:0031-0042). `黒い白鳥`/`黒い羽` specify a counterexample metaphor and fixed evidence request (u:0046-0052). Sensei's `心の声` presses Orwell and receives answers, so do not assume the printed channel is literally inaudible (u:0036-0045/u:0077-0081). Arona/Plana's senior-junior banter marks a negotiated work split, not completed task transfer (u:0066-0076). 385/480, BA:main:series2:002:001:001 unopened.
+
+
+## S2 V002 C001 E001 japanese voice and address delta
+
+Early `イオリ` tags at scene:002:u:0008/0010-0011/0013 speak in first person as the barrel-builder and conflict with Iori's enforcing role; leave those boasts attribution-uncertain rather than assigning them as Iori's preference. `イロハ` tags at u:0072-0074 boast as `このマコト様`, conflicting with the immediately subsequent Makoto labels; do not build an Iroha voice profile from them. Chinatsu's repeated `力があっても` builds an explicit restraint maxim; Hina's `自由`/`一線` qualifies it against overregulation (u:0045-0061). 386/480, E002 unopened.
+
+
+## S2 V002 C001 E002 japanese voice and address delta
+
+Karen, Shoko and Mayumi self-name with chair-assistant, secretary and chair titles (scene:001:u:0008-0012). `再興` and `再び` carry the committee's provocative restoration premise, not verified history (u:0013-0023). Makoto-labelled `そう!` at u:0025 answers a criticism of Makoto, Iori-labelled u:0061-0064 critique Iori's own Prefects, Shoko-labelled u:0094-0096 use a detail-averse excited register, and Hina-labelled u:0098-0099 boast `このマコト様`; keep these as tag conflicts rather than voice baselines. Hina's role-consistent `自由`/`線` answer remains clear at u:0068-0079. 387/480, E003 unopened.
+
+
+## S2 V002 C001 E003 japanese voice and address delta
+
+Mayumi's rejection of `ゲヘナは元からこう` frames fatalistic continuity as an obstacle to reform, while the senior's `手放しには褒められない` qualifies nostalgia without telling why (scene:001:u:0019-0053). `万魔殿の3年生` at u:0040 and u:0047 appears to contain committee questions, so do not use those lines as senior self-report. Shoko's `権威` and withheld `象徴` are strategic terms without a named referent (u:0070-0078). 388/480, E004 unopened.
+
+
+## S2 V002 C001 E004 japanese voice and address delta
+
+The u:0009-0016 banter labels slide among Shoko, Mayumi and Karen, including Shoko apparently addressing 'Shoko' and a Shoko-tagged accusation about Shoko's snacks; do not attribute each quip literally. Shoko's `虎の威を借る狐` explicitly casts Sensei's authority as borrowed prestige, while Mayumi's `一つになったゲヘナ` remains an aim rather than an achieved institutional state (scene:001:u:0022-0029). Shoko's `ちっ` after disavowing embellishment is ambiguous in sincerity and possibly attribution (u:0076-0080). Sensei choice:011 alternatives are exclusive, not cumulative promises. 389/480, E005 unopened.
+
+
+## S2 V002 C001 E005 japanese voice and address delta
+
+Mayumi's `偉大` narrows to strength and unrestricted ammunition/budget in her rally, while Shoko's `合法` for a designated range is prospective rhetoric rather than an issued permit (scene:001:u:0012-0024/u:0046-0059). `マユミ` tags at u:0078-0084 and u:0111-0117 alternate planner/data-explainer with surprised Mayumi, so detailed data strategy likely involves Shoko but individual lines should remain tag-cautioned. Shoko's invented Sensei quote `名誉にかけて` is not Sensei's assent; choice:004 alternatives resist or agree to try (u:0081-0088). 390/480, E006 unopened.
+
+
+## S2 V002 C001 E006 japanese voice and address delta
+
+`無為の治` is Shoko's flattering characterization of Makoto's purported intentional chaos, not a narrator verdict (scene:001:u:0039-0043). `トリガー・ハッピー・ゾーン` and emphasized `万魔殿の議長が許した` are branding/credit proposals, not a literal survey of users (u:0056-0063). `マユミ` tags at u:0018/0020/0022 use Makoto self-reference; `マコト` at u:0029-0030 seems committee challenge; `マコト` u:0057 sounds like Shoko's pitch, and late Shoko tags vary voice. Preserve the speaker-tag conflicts. Sensei's u:0074 `心の声` receives Makoto's response, so audible status is unsettled. 391/480, E007 unopened.
+
+
+## S2 V002 C001 E007 japanese voice and address delta
+
+Sukeban A's staged `蕁麻疹` and seven drawn marks are an extortion pretext, explicitly challenged by the target (scene:001:u:0004-0013). `スケバンB` u:0024 appears to answer B's own question, and `ゲヘナの生徒` u:0034 declares friendship in Karen-like speech; keep tag uncertainty around the entrance. Karen's `やはっ`, `うち`, casual directness and `後腐れのない空気` form a broader voice sample than E002's slogans, but her u:0109-0110 calls control language Shoko's borrowed line (u:0020-0028/u:0104-0121). 392/480, E008 unopened.
+
+
+## S2 V002 C001 E008 japanese voice and address delta
+
+`整理券` is the venue ticket, with printed 27 and first-group 30; A/B and E/G/C tags sometimes alternate customer/attendant functions, so do not build voice profiles from those generic labels (scene:001:u:0003-0034). `営業時間` and `ポイントが2倍` are announced policy/incentive, not yet an inspected written timetable or credited balance (u:0045-0054). Shoko's `茹でガエル理論` describes a gradual-control intent in her own words, while Karen's `絶対に強要しない` is a commitment claim, not a tested safeguard (u:0087-0110). Shoko invents a Sensei pledge; Sensei rejects it (u:0113-0115). 393/480, E009 unopened.
+
+
+## S2 V002 C001 E009 japanese voice and address delta
+
+The title `チャンス` and proposed `一週間` reprieve meet Haruna's refusal; Sensei's equal opportunity to try again is a normative choice, not the owner's actual reprieve (scene:001:u:0076-0097/u:0136-0142). `ドカーン` gives a blast cue and the owner says the shop is gone, but no technical trigger is printed (u:0098-0104). Speaker tags drift: Mayumi at u:0076-0077 and u:0118-0120, Karen at u:0085/u:0136, and Haruna at u:0087 cannot all support stable individual doctrine; Shoko at u:0149-0150 again invents a Sensei offer. 394/480, E010 unopened.
+
+
+## S2 V002 C001 E010 japanese voice and address delta
+
+`二大テロ組織` is Shoko's political label for Gourmet and Hot Spring Club, not a certified designation (scene:001:u:0008-0013). `地図の場所だけ` and `別の場所は開発しない` state the condition Meg will relay, while `統制` is Shoko's admitted aim and Kasumi's recognized reading (u:0042/u:0070-0074/u:0112-0115). Kasumi intentionally misnames Igarashi Shoko as `しょうゆちゃん`/`ショックちゃん`; Shoko corrects her name (u:0107-0110). `あそこ` and `こっち側` remain undefined (u:0129-0133). Shoko's `いる` to `いた` tense shift suggests a thought, not an identifiable person (u:0162-0163). 395/480, E011 unopened.
+
+
+## S2 V002 C001 E011 japanese voice and address delta
+
+Makoto appropriates `無為の治` as a governance label, while Iroha says she has never heard it before; his `あれ` refers to nothing identified or prepared (scene:001:u:0022-0029). The `マコト` tag at u:0036 voices an Iroha-like skepticism about prestige, limiting attribution. Karen's `正当で合法的` describes the form-backed activity from her perspective, without printed terms (u:0090-0097). `ヒナ` at u:0120 is marked as a recollection of the earlier line-drawing principle, not new on-scene speech; Iori then stands down (u:0113-0121). Chiaki's excited photographer/reporter register is direct but narrow. 396/480, E012 unopened.
+
+
+## S2 V002 C001 E012 japanese voice and address delta
+
+`第28回` and Shoko's thin `議事録` joke make the meeting count a comic self-report (scene:001:u:0002-0006). The Karen tag at u:0039 uses Shoko-like formal administrative diction before Karen's casual u:0040; keep individual attribution cautious. `マシュマロ実験` is Shoko's own analogy for delayed snack reward, while Mayumi's `踏み倒すか` is an unacted default thought (u:0059-0068). The unidentified fragments `――つ`, `――じょ`, `――とう` do not identify a speaker or full message (u:0080-0083; scene:002:u:0030). Sensei's `心の声` receives a response again (scene:002:u:0066-0067). 397/480, E013 unopened.
+
+
+## S2 V002 C001 E013 japanese voice and address delta
+
+Erika's reported `てっけつ`/`ちつじょ` are approximate remembered syllables, not a verified broadcast transcript or speaker identity (scene:001:u:0046-0058). `エリカ` u:0054-0055 asks and answers an Erika-chan address question, and `エリカ` u:0083-0084 mixes qualification/reaction; retain speaker-tag caution. `ショウコ` u:0095 asks how to enter, then u:0096 answers, another tag conflict. Shoko again fabricates Sensei's generous payment/refill offer and the printed choice objects (u:0017-0021/u:0101-0104). `森の中の木` does not itself resolve the voice or old-Gehenna history. 398/480, E014 unopened.
+
+
+## S2 V002 C001 E014 japanese voice and address delta
+
+The graph's `800％以上` is Shoko's displayed figure without denominator or source-method audit (scene:001:u:0059-0063). `マコト` u:0059/u:0065 and u:0074 carry Shoko-like numerical/administrative rhetoric, and Korean `마유키` at u:0103 is a label anomaly; preserve actor caution. Satsuki relays the former head's repeated `一身上の都合` without diagnosis (u:0089-0093). `ショウコ` scene:002:u:0019 says chair touched equipment but `カレン` u:0020 apologizes though Mayumi is shown touching it; do not build stable voice facts from this inversion. 399/480, E015 unopened.
+
+
+## S2 V002 C001 E015 japanese voice and address delta
+
+Mayumi's `トリガー・ハッピー・ゾーン` maintenance language and `新品っぽい` preference give her practical, concrete version of `ゲヘナを、再び偉大に` (scene:001:u:0006-0024/u:0039-0060). `私たちの選択` is a first-person moral account of change, not proof of prior students' lack of agency (u:0053-0057). `マコト` u:0071 offers Makoto-directed praise and u:0074 addresses Makoto, indicating speaker-label drift; `チアキ` u:0081/u:0082 may mix observer/reporter voices. Shoko's `最新` equipment claim is uninspected (u:0063-0084). 400/480, E016 unopened.
+
+
+## S2 V002 C001 E016 japanese voice and address delta
+
+The bracketed `log` words accumulate as `鉄血、秩序、応答、服従、初期化、執行`; their printed content is exact here, unlike Erika's earlier approximate memory (scene:001:u:0023-0039). `？？？` u:0045-0047 announces a theatrical opening but does not name an operator. Makoto's `鉄と血` rhetoric and Hina's `強制` language echo the transmission, an observable lexical relation rather than a verified control mechanism (u:0048-0096). Different local A-D voices react differently, so no collective assent can be inferred. 401/480, E017 unopened.
+
+
+## S2 V002 C001 E017 japanese voice and address delta
+
+Hina's marked `思い出した` corrects `気づいた` but expresses her felt memory, not verified origin (scene:001:u:0045-0048). Her `線を引き直す` distorts earlier boundary language into a claim all space should become Gehenna, while Iori invokes protection from misuse of force (u:0032-0039/u:0059-0062). Makoto's `完成` and Ako's waking-dream simile describe abrupt subjective change, not mechanics (u:0049-0050/u:0103-0104). `マコト` u:0111 sounds like Iroha/Satsuki arguing hypnosis; `ヒナ` u:0020 asks a surprise question in Iori-like voice. Satsuki distinguishes `私の` NK Ultra from the `本来の` plan (u:0231-0240). 402/480, C002 E001 unopened.
+
+
+## S2 V002 C002 E001 japanese voice and address delta
+
+Satsuki distinguishes `本来の` NK Ultra from her `京極サツキ流NKウルトラ` by claimed scope/force/ethics; her descriptions are testimony rather than inspected technical categories (scene:001:u:0001-0022/u:0060-0067). `トリガー` moves from unknown historical parameter to Iori's proposed odd phrase and Satsuki's tentative `周波数` after head-ringing, not a proven acoustic formula (u:0092-0113). An Iori tag at u:0063 asks the hypnosis question in Chinatsu-like speech. Satsuki's `シャーレ` emphasis marks concern over federal intervention; it is not a legal ruling (u:0071-0088). 403/480, E002 unopened.
+
+
+## S2 V002 C002 E002 japanese voice and address delta
+
+`セナ` at u:0010 asks whether Emergency Medicine prepares, then `セナ` at u:0011 replies; the first tag likely belongs to Chinatsu, so keep attribution limited (scene:001:u:0004-0016). Sena's `放っておけなくて` recalls Chinatsu's transfer motive, which Chinatsu confirms in clinical terms (u:0017-0037). Sena emphasizes `必要なこと` and renders conquest `医療行為`, civilians' harm `手術中に起こる出血`; these are metaphorical rationalizations, not objective medicine (u:0066-0080). Chinatsu's `元に戻してみせます` is a vow, not a completed restoration (u:0091-0094). 404/480, E003 unopened.
+
+
+## S2 V002 C002 E003 japanese voice and address delta
+
+Shoko's `攻め込んではいけない理由もありません` and `共通の敵` justify invasion as a current normative assertion, not a legal finding (scene:001:u:0023-0034). Her named real targets differ morally and materially from `トリガー・ハッピー・ゾーン` props, as Karen/Mayumi state (u:0035-0045). `マコト` u:0004 repeats Hina-like prior-broadcast wording; `ショウコ` u:0035 sounds like a committee colleague's aside; `マユミ` u:0089 clearly carries the senior's retraction. The senior's u:0100-0101 self-contrast is a more reliable reversal anchor than that tag anomaly. 405/480, E004 unopened.
+
+
+## S2 V002 C002 E004 japanese voice and address delta
+
+`ゲヘナのためだけ` marks Makoto's total resource claim as an order, while Hina's `30分以内` and Ako's `48時間` are conditional plan/simulation numbers, not observed battle time (scene:001:u:0002-0016). `非常戒厳法第8条` appears only in the Prefect officer's quoted invocation, not an inspected statute (u:0050-0059). `貢献ポイント` echoes the earlier reward scheme but is now offered under a traitor/prison threat; `貢献度の受付完了` does not prove credit or redemption (u:0055-0062). `ヒナ` u:0033 laughs like Makoto, so attribution there remains suspect. 406/480, E005 unopened.
+
+
+## S2 V002 C002 E005 japanese voice and address delta
+
+Mayumi's `自分の意志でまとまって` fixes the agency condition missing from Makoto's `一つになったゲヘナ`; Shoko's `意志は環境によって形作られる` answers by redefining will under institutional design (scene:001:u:0021-0025). Karen's `議長先輩` keeps a familiar address even while challenging Makoto; he gives `降旗マユミ` and `明楽カレン`, and Shoko shifts `イロハ議員……いえ、棗イロハ`, linguistically stripping her council status in her proposal rather than proving a processed roster change (u:0007-0009/u:0094). Iroha's italic `万魔殿、辞めます` is the direct exit statement; Makoto's `軋むネジ` reduces dissent to a mechanical fault (u:0051/u:0071-0072). Both `u:0058-0059` are tagged Iroha, although the first `そうか` plausibly belongs to Makoto; rely on separately tagged turns for the rupture. 407/480, E006 unopened.
+
+
+## S2 V002 C002 E006 japanese voice and address delta
+
+The messenger's `裏切り者` converts a club-remit objection into wartime disloyalty; Meg's `今は` makes her hot-spring preference explicitly time-bounded, even while her war enthusiasm is directly spoken (scene:001:u:0005-0044). Kasumi's `私が勝手にメグを判断していいのか` and `私の物差し` articulate self-doubt rather than certain mind-reading; `集団に対する認識改変` is her inference after Sensei's summarized briefing, not a device test (u:0063-0091). Her `頭の中に埋め込まれた声` refers to an earlier self-description whose history she defers (u:0097-0101). `ショウユちゃん` at u:0064 plausibly points back to Shoko but is not reliable independent name evidence. The `先生（心の声）` line at u:0048 is followed by Kasumi's reply; the choice alternatives at choice:001/003 remain mutually exclusive. 408/480, E007 unopened.
+
+
+## S2 V002 C002 E007 japanese voice and address delta
+
+Mayumi's `昔を勘違いしてたとしたら` marks her historical fear as a conditional; `取り返しのつかないこと` communicates feared complicity, not an inspected damage account (scene:001:u:0033-0043). Karen's `大義がない` rejects the planned attack on justification grounds while acknowledging she likes fights with chosen opponents (u:0025-0029). Sensei's `心の声` at u:0009 draws Mayumi's direct response, so the tag alone does not settle audibility. `君たちのせいじゃないよ`/`私が保証する` and choice:006 are alternative option pairs, not two accumulated statements. `全部やめさせなきゃ` is a future commitment, not a completed halt (u:0067-0070). 409/480, E008 unopened.
+
+
+## S2 V002 C002 E008 japanese voice and address delta
+
+Chiaki's `書記ーズ` humor establishes a secretary-to-secretary invitation despite Shoko's adviser role. Shoko's `聞いています` marks the old Gehenna-wide conquest dream as hearsay, while `2年もの間、機会損失` is an unquantified opportunity-cost claim (scene:001:u:0031-0047/u:0057-0062). `不完全な自由` recasts Chiaki's appetite for lively difference as wasted capacity; Shoko's engine/gears register echoes Makoto's E005 `軋むネジ` (u:0048-0070). Chiaki's `手段と目的が逆転` is a question after Shoko ends the interview, not a narrator finding (u:0074-0085). Shoko's phone fragments at u:0016-0018 do not support recovering a recipient or full instruction. 410/480, E009 unopened.
+
+
+## S2 V002 C002 E009 japanese voice and address delta
+
+`だとしたら` qualifies Satsuki's forced-brainwave theory, and `のだとしたら`/`ではないと思う` qualify her nonaccident/outsider chain; `おそらく` and `とは思う` mark the vanished-officer claim as inference (scene:001:u:0024-0025/u:0053-0060). The interrupted `むしろ情報部にいたのは――` at u:0041 names nobody. `マインドコントロール` is her research description, not a successful experimental result; the closing narration explicitly says `実験はできなかった` (u:0013/u:0063). Her familiar `マコトちゃん` in the disposal account suggests a relationship but does not verify Makoto's trust motive, which Satsuki herself frames as guesswork. 411/480, E010 unopened.
+
+
+## S2 V002 C002 E010 japanese voice and address delta
+
+Chinatsu's `先生が集めた生徒` provides a practical trust warrant, while Satsuki's `反逆者クラブ` is her in-room label rather than a registered organization (scene:001:u:0013-0019/u:0058-0063). Mayumi's `誰かを踏みにじる` and Karen's `誰彼構わず撃つ` set an ethical limit on their earlier greatness/weapon language; Chinatsu's `越えてはならない線` names a judgment not necessarily written in law (u:0035-0045). Satsuki uses `仮定してみた`, `だとしたら`, `理論上`, and `まだ何とも言えない` for the frequency theory and room lead (u:0067-0091). The `イオリ` tag at u:0012 carries committee-like protest and remains attribution-uncertain. 412/480, E011 unopened.
+
+
+## S2 V002 C002 E011 japanese voice and address delta
+
+Iroha's `戻るつもりはありません` is conditional on Makoto's restoration, while the armband is a visible unresolved sign rather than a credential audit (scene:001:u:0018-0023). Ibuki's repeated `そばにいたい` and `ひとりぼっち` frame her choice as care for both Iroha and Makoto (u:0013-0014/u:0048-0063/u:0107). Makoto's `去る者追わず`/lonely-leader register is challenged by Ibuki's recollection that he once praised `反抗` (u:0071-0088). The `[log=???]` and `？？？` tags at u:0089-0095 leave speakers and event fidelity unidentified; `キシシッ` suggests but does not prove Makoto's voice. 413/480, E012 unopened.
+
+
+## S2 V002 C002 E012 japanese voice and address delta
+
+The Prefect guard's `誰だろうと立ち入りはできません` is a universal entry refusal in speech, not a printed warrant. Shoko's `血と鉄`/`力ある者によって記される` articulate conquest and victor-written history as values, while her `1本、線を引きましょう` explicitly marks the committee split (scene:001:u:0004-0008/u:0051-0081). Hina's `その場で処分` is a threatened authority claim. Her `応援` request quotes earlier Sensei encouragement, but his later `ヒナのために全力` supports Hina personally rather than `キヴォトスをゲヘナが統べる` (u:0089/u:0135-0161). `支柱が先生なんだって` marks a received report with unnamed source; `保護` is Hina's chosen label for the proposed confinement (u:0162-0172). 414/480, E013 unopened.
+
+
+## S2 V002 C002 E013 japanese voice and address delta
+
+Makoto's `意見があってな` leaves the original adviser unnamed until Shoko's later direct `進言したのは私`, which names her as confinement proposer, not sole orderer (scene:001:u:0006/u:0060-0062). `不自由のないよう` promises cell comforts while the text itself states external isolation (u:0001-0027). Shoko's `抑圧による統制` openly names coercion as a proposed benefit; Sensei's `先生の仕事じゃない` refuses hatred as his role, not a claim her action was harmless (u:0045-0069). Her `二度と、そんな目で` is a reaction to his reading of her, but does not validate a complete psychological explanation. Choice:004/010/011 alternatives remain exclusive. 415/480, E014 unopened.
+
+
+## S2 V002 C002 E014 japanese voice and address delta
+
+`支柱が消えれば` is Iroha's report of Sensei's planned concealment effect, not direct new Sensei dialogue (scene:001:u:0005-0008). Fuuka's repeated `無理` and numeric `3日`/`8倍` are bounded capacity objections, while Haruna's `完璧なゲヘナ` and Izumi's `ゲヘナ味` turn food vocabulary into opposed views of uniformity (u:0042-0113). `サボタージュ` is Ako's interpretation backed by Fuuka's intent, not a controlled throughput calculation; `週単位`/`月単位` are forecast intervals. `化学弾`/`復元` are Makoto's future weapon proposal, not an existing tested arsenal (u:0114-0174). Makoto-tagged u:0130 sounds deferential, so exact speaker attribution there remains suspect. 416/480, E015 unopened.
+
+
+## S2 V002 C002 E015 japanese voice and address delta
+
+Iori's `要注意人物に指定` is her report of current watch status, not a displayed list (scene:001:u:0010-0013). Satsuki says `断言はできない` about disconnecting unknown communications devices; Erika's `できると思う` likewise marks an untested bypass, despite later `最後のピース` celebration (u:0043-0045/u:0070-0080). Kirara/Erika's `他の学園にも友達` makes opposition to war personal and explicit. Iroha's accented `あっち` and Chinatsu's `仲間` designate an unnamed ally, not an identified group (u:0110-0113). The Iori tag at u:0026 carries a possible speaker-register conflict. 417/480, E016 unopened.
+
+
+## S2 V002 C002 E016 japanese voice and address delta
+
+Although `温泉開発部の部員A` is generic, Sensei calls her `カスミ` and a member calls her `部長`, making local identification strong (scene:001:u:0010-0020; choice:001). `脱獄だ` names the tunnel as escape, not a completed safe arrival. Iroha's `戦闘班`/`技術班` are operational labels; her `周波数がズレても失敗` and `仮説が間違っていても失敗` preserve technical uncertainty against Satsuki's `失敗しない` reassurance (u:0033-0083). `カレン` at u:0053 praises Karen in the third person, and `イオリ` at u:0092 addresses Iori, so both tags likely drift. The unnamed alarm voice remains unattributed. 418/480, E017 unopened.
+
+
+## S2 V002 C002 E017 japanese voice and address delta
+
+Makoto gives Iori/Chinatsu/Hina family names (`銀鏡`, `火宮`, `空崎`) at u:0006-0007. Iori/Chinatsu's `線` recalls the minimal line Hina once drew, opposed to her current `一つの心` obedience; Karen's precipice metaphor rejects unconditional `応援` (scene:001:u:0018-0036/u:0099-0105). Ako's `外に敵` names an enemy as the means of protecting Hina's happiness, not verified treatment. Shoko's final `雷帝` is an unambiguous named allegiance, while `歴史は勝者` is her historical-power claim, not a source document (u:0047-0054/u:0126-0135). Tags `イオリ` u:0034-0036, `ヒナ` u:0043/0045/u:0071, and `イオリ` u:0092 show likely speaker drift; do not build exact voice models from them. 419/480, E018 unopened.
+
+
+## S2 V002 C002 E018 japanese voice and address delta
+
+Mayumi's mastermind question receives Shoko's plain `ええ`, followed by her `説得の過程を省略しただけ`, so coercion is not merely an opponent's inference (scene:001:u:0008-0036). Shoko's `デス・トリガー` and `精神は破壊される` are danger claims, whereas the later confused/waking students and Hina memory statement are observed speech (u:0124-0159/u:0244-0292). Sensei's `ショウコ自身の考えなの？` raises but does not settle Shoko's own agency; the `■■`/log run cannot be decoded as dialogue (u:0051-0088). `이로하 무소속` is an embedded log label, not audited office status (u:0188-0209). The explanatory `キララ` tag u:0109 and Hina-tagged `委員長` u:0258/0260 may drift; use separately clear anchors. 420/480, E019 unopened.
+
+
+## S2 V002 C002 E019 japanese voice and address delta
+
+Hina's `洗脳されていたから、なんて言い訳はしない` rejects that excuse for her own conduct without denying the E018 mind-control event. Makoto's `戦闘計画は白紙撤回` is an immediate withdrawal of a plan, while `返還しよう` points forward to property return (scene:001:u:0024-0076). `再興` is reinterpreted by Mayumi/Karen as ordinary, repeated rebuilding rather than Emperor restoration (u:0089-0106). Makoto's correction from `私のゲヘナ` to `私たちのゲヘナ` and his repeated `自由` frame freedom as shared ongoing choice, not the campaign's earlier uniform obedience (u:0140-0161). `ヒナ` at u:0041 addresses Hina and names Hanuma Makoto, so the tag is impossible; u:0059, u:0078-0088, u:0096-0101, u:0119-0120, u:0135-0136 and u:0240 also show likely voice drift. Sensei's six choice groups should remain alternatives, and inner-voice lines should not be presumed inaudible. 421/480, E020 unopened.
+
+
+## S2 V002 C002 E020 japanese voice and address delta
+
+Haruna's `美食` becomes gratitude for `真心`, replacing her E014 forced-menu rationale with appreciation of Fuuka/Juri's labor. Akari's `言い訳にはしません` and Sena's `なかったことにはできません` express separate refusals to erase harmful action/speech under coercion (scene:001:u:0025-0038/u:0063-0070). Sena calls war-as-treatment `詭弁` and makes prevention of even `一滴` of blood the medical norm (u:0064-0070). Kasumi's `洗脳（あれ）と変わらなくなってしまう` explains why Meg must name her own wish (u:0107-0114). `あっち` at u:0129 lacks a fixed referent, whereas `ボーデンザッツ` at u:0138 is an explicit name in Kasumi's address, not a witnessed appearance. Lines u:0077-0079 tagged Chinatsu address Chinatsu and describe Sena's former stance, so likely drift; do not anchor Chinatsu voice there. The member B line u:0092 also follows B's speech but is a group cheer, with exact speaker uncertain. 422/480, E021 unopened.
+
+
+## S2 V002 C002 E021 japanese voice and address delta
+
+Hina's `気分がよかった` and `少しだけ……心地よかった` are a disturbing first-person account of some pleasure in justified force, distinct from an objective personality diagnosis. `線を守る` links her self-reproach to the Prefect boundary of E017/E019 (scene:001:u:0009-0027). Sensei's alternatives about being multifaceted and striving toward a desired self at `choice:004` are exclusive options. Hina replies to `先生（心の声）`, again barring a fixed inaudibility assumption (u:0028-0047). Shoko's `謝罪や反省を期待しているのなら` explicitly rejects those acts now, while `嵐` is her stated organization's name and `見つけて、教育し、任務を与えた` her claimed origin/tasking chain (u:0059-0079). Makoto's `捉えようによれば` qualifies the Ibuki legacy comparison; do not turn it into a categorical biological or technical claim (u:0098-0102). 423/480, checkpoint next.
+
+
+## S2 V003 C001 E001 japanese voice and address delta
+
+`乗船受付` has ended although `出航時間` has not arrived; Plana's explanation about raising anchor before scheduled departure distinguishes boarding from sailing (scene:001:u:0001-0014). `S.O.S.` is a visible marking, while `遭難信号` is Arona's urgent reading and the claimant says `断言できません` before calling Odysseia origin likely (u:0035-0060). The claimant's `直ちにD.U.へ帰港せよ` is an imperative for all ships, not a report of arrival (u:0071-0076). At u:0007 an Arona tag calls Arona `先輩` in Plana-like register; at u:0010 a Plana tag protests the early boat in Arona-like register. Similar alternations in u:0023-0034 discourage fine voice claims. `彼（・）女（・）` at u:0050 is an uncertain/anxious Plana thought; the claimant's identity remains contested from S2 V001. 424/480, E002 unopened.
+
+
+## S2 V003 C001 E002 japanese voice and address delta
+
+Mai labels Sensei's visit request `噂` and her possible incident as questions, not facts; `[USERNAME]` is a raw player placeholder (scene:001:u:0012-0022). The claimant's `初めて――2度目ですね` is a visible self-correction, not an authenticated memory history (u:0050-0053). Her `学園の領分` assigns internal matters to Odysseia, while `シャーレの先生なら` proposes Sensei as an exceptional route; both are her jurisdictional claims (u:0065-0067). `艦長、入校` and `捧げ銃` mark a formal Island reception, not a threat to visitors (u:0102-0108). The `アミ` tag at u:0109-0111 speaks as self-named `海路ミナト`; italic `アミ` at u:0115-0116 self-names `灯下アミ`. Treat Minato/Ami as two people. `マイ` at u:0028 and `スミカ` at u:0089 are further displaced tags. 425/480, E003 unopened.
+
+
+## S2 V003 C001 E003 japanese voice and address delta
+
+Minato's `等しく。例外はありません` makes captain-led hospitality universal in her account; the claimant's `聞いていた通り` invokes an unnamed prior report (scene:001:u:0001-0013). `船乗りの禁忌` follows students asking about `口笛`, not an explicitly printed whistling action or weather result (u:0058-0069). Mitsuki's `100%` service and `賭け` are a sales boast and proposed wager, not surveyed satisfaction or contract (u:0104-0115). The later taboo is the word `ウサギ`, not inherently a bunny costume (u:0126-0134). Speaker drift includes claimant tag u:0024 answering herself, Sumika tag u:0055 addressing Komori, Ami tags u:0070-0072, claimant tag u:0111 in Mitsuki's boast, Mitsuki tag u:0119 in Ami's rebuke, and Minato tags u:0147-0148 spanning a self-addressed captain reply. 426/480, E004 unopened.
+
+
+## S2 V003 C001 E004 japanese voice and address delta
+
+`入港した日` curry is a reported arrival custom, while `禁忌` covers not turning fish over, not whistling and not saying rabbit. Minato's `安全指針` characterizes taboos as accumulated safety guidance, not a source-audited rulebook (scene:001:u:0002-0025/u:0062-0082). Her `由来の分からないものもあります` expressly limits the fish-origin explanation (u:0079-0080). Sensei's `禁忌にない事態` asks how fixed traditions adapt to novel situations (u:0083-0084). Minato's `この玉は、私が作った` and `サミーのおもちゃ` are first-person maker/use testimony, not a printed explanation for `S.O.S.` letters (u:0093-0105). Tags drift at u:0032/0035/0038/0041 and u:0092; self-address and conversational direction take priority over raw speaker labels. 427/480, E005 unopened.
+
+
+## S2 V003 C001 E005 japanese voice and address delta
+
+The printed `S.O.S.` is glossed `Sammy, O Spoudeios` / `年老いた猫、サミー` as a nickname; a claimant tag at u:0008 appears to deliver Minato's explanation, followed by Minato's own apology for misleading letters (scene:001:u:0001-0011). `15歳` is a record-based lower estimate by participant report, not a shown birth date (u:0018-0033). `禁忌` is invoked by both sides of Sammy's care debate, not a single authoritative rule; student A's `嵐が3回` is a weather report/argument without a verified causal cat link (u:0044-0064). The claimant's `責任はあなたが負うべき` assigns decision responsibility to Minato, while Sensei's `数日` request becomes the claimant's `1週間` window (u:0074-0093). Tags u:0019/u:0035/u:0091-0092 appear displaced or self-addressing, so voice examples require caution. 428/480, E006 unopened.
+
+
+## S2 V003 C001 E006 japanese voice and address delta
+
+Laundry students invoke `猫が咳をすると嵐が来る` after Sammy's cough; a `スコール` then occurs, leaving only temporal association (scene:001:u:0014-0026). Mitsuki's `オートマチック拳銃でロシアンルーレット` is a threatening utterance with no enacted game (scene:002:u:0006-0020). A member's `猫が転ぶとろくなことがない` is explicitly qualified by narration about reflexive attribution (u:0023-0025). Sumika's `海に落ちずに済みました` anchors Sensei's immediate rescue, while Sensei's inward `腰が……痛い` / `力が、入らない` anchors symptoms without diagnosis (scene:003:u:0026-0037). All A/B labels are local to their laundry, cruise-loading and Trident contexts; repeated letters do not identify the same people. 429/480, E007 unopened.
+
+
+## S2 V003 C001 E007 japanese voice and address delta
+
+Sanae's `腰椎捻挫` is the explicit clinician diagnosis; `数日安静` is a forecast and advice rather than recovery already observed (scene:001:u:0002-0003). Her Trident `馬鹿ども` banter is situated professional frustration, not a clinic-wide statistical record. `副部長` Toru appears in report worry only, not as an on-page actor (u:0006-0026). Sanae's `サミーの意思` and `自己満足（エゴ）` reject treating student projections as settled cat preference, while she herself does not establish a method (u:0037-0047). Likely tag drift at u:0007 (Sumika protest under Sanae), u:0024 (reply about report under Sumika), and u:0041 (Sumika-like plea under Sanae). The claimant's `困っている頃合い` is a forward-looking assessment, not observed Island condition (u:0057-0058). 430/480, E008 unopened.
+
+
+## S2 V003 C001 E008 japanese voice and address delta
+
+Minato says old `禁忌` can be `意味を失った慣習` yet maritime volatility makes a clear `答え` attractive; her sick-cat image explicitly worries about loading responsibility on Sammy (scene:001:u:0036-0056). Sensei's `カーペット` and Minato's `甲板の下` both describe hiding unresolved problems, not an observed physical search (u:0058-0063). `衛生上の問題があると判断します` is the claimant's proposed official wording; no prior hygiene test supports it. `回収し、適切に対処` promises removal/handling without specifying veterinary care (u:0075-0077). Speaker tags u:0046/u:0074/u:0078/u:0081 have conversational drift; use the explicit claimant order-language and Minato `サミーを……よろしく` assent as stable anchors. 431/480, E009 unopened.
+
+
+## S2 V003 C001 E009 japanese voice and address delta
+
+Narration's `下船が決まった` upgrades proposal to decision in public narrative, whereas student A's `らしい` describes a rumored presidential shore-treatment order rather than a viewed text (scene:001:u:0001-0016). The claimant's `嫌われる` and `悪人になる` describe performed office roles; `ぼんやりとした無害な人を演じる` openly admits one persona (u:0063-0073). Her `カーペットの下` repeats Sensei's hidden-problem metaphor, but hoped-for taboo reform is future conditional (u:0074-0082). `自分のやりたいこと` and `心の底からやりたいこと` mark a desire distinct from prescribed office duties without proving identity (u:0087-0101). Tags at u:0043-0044 seem swapped between Sumika and claimant. `[USERNAME]` is a player placeholder, and Sensei choices remain alternatives. 432/480, E010 unopened.
+
+
+## S2 V003 C001 E010 japanese voice and address delta
+
+Narration's `形式的な行政手続きを踏んで、いくつかの書類を交わした` states procedure and exchange without exposing their content, and `準備が整った` means readiness, not completed disembarkation (scene:001:u:0001-0003). The claimant's `名前を貸しただけ` limits her described role but does not authenticate office or invalidate the paperwork. Minato's account of taboo-bound compliance is her interpretation (scene:002:u:0002-0015). Sammy's cries do not translate into human preference; Minato's gratitude/apology expresses her reading of his approach (u:0082-0125). Labels around u:0081/u:0084 drift against turn logic, so do not assign their generalizations firmly. Sensei's six choice groups remain alternatives. 433/480, E011 unopened.
+
+
+## S2 V003 C001 E011 japanese voice and address delta
+
+The claimant's `身柄を引き渡す書類` identifies the still-unsigned handover form despite E010's general `書類を交わした` (scene:001:u:0012-0014). Minato's `なかったことに` is a cancellation request and claimant's agreement is verbal, with no rescission artifact (u:0015-0037). Minato says `いまなお怯えています`, so courage here is deciding amid continued fear. Her `櫂を取りました` first-voyage image is invoked precedent, not an inspected record (u:0022-0035). Tags at u:0038 and u:0051 drift with apparent conversational turns. Sanae's `今夜が……サミーの山場です` signals an urgent clinical turning point, not a specified diagnosis/prognosis (u:0065-0073). 434/480, E012 unopened.
+
+
+## S2 V003 C001 E012 japanese voice and address delta
+
+Sanae's `おそらく` marks probable cardiac decline and `かと` marks a hypothesized kidney/BP/heart chain; `あまり長くはないと思われます` is prognosis rather than certified death (scene:002:u:0002-0005). Her `無数の偶然と必然` cautions against Minato's single counterfactual cause (u:0011-0017). Ami calls shipboard cat death an especially weighty `禁忌`, while Minato's broadcast names Sammy a `友人` and asks for a final `贈り物` (u:0018-0047). `明朝0600に出航する` states a future departure; `責任は問わない` permits individual exit, while `異議申し立て` is delayed until after voyage. Sensei's one choice is an attempted objection and Minato's reply is a local authority boundary (u:0027-0053). 435/480, E013 unopened.
+
+
+## S2 V003 C001 E013 japanese voice and address delta
+
+Mai's `極秘で入手した情報` and `SNSでは...憶測` mark tip/speculation rather than independently audited facts; `友を見送るため` is a relayed port-purpose phrase (scene:001:u:0001-0014). Mitsuki requests `事後承諾`, explicitly after-the-fact permission, and bets against complaints without their outcome (scene:002:u:0021-0030). Trident's `私たちもオデュッセイア` claims school-wide belonging, not a fleet roster (u:0033-0040). `満ち足りた表情で、静かに目を閉じた` and `航海は幕を下ろした` form a strongly terminal narrative sequence, still without medical pronouncement (u:0050-0054). 436/480, E014 unopened.
+
+
+## S2 V003 C001 E014 japanese voice and address delta
+
+`半月ほど` dates Sensei's return approximately, and `旅立って` is an elegiac departure expression reinforced by the prior last-voyage ending (scene:001:u:0001-0012). Sensei distinguishes `お客さん` from `友達` to avoid the customary loud guest announcement, a local social reclassification rather than a printed rule revision (u:0018-0027). Sumika's `迷信だとしても` expresses precaution despite doubt (u:0033-0037). Minato's `表面上は` qualifies her wellness claim; `とは限らない` says taboo breach does not necessarily cause trouble, not that it never does (u:0038-0054). The claimant's emphatic `本物の艦長ではない` is a semantic cliffhanger with no explanation of which 'real' criterion she means (u:0085-0093). 437/480, backfill next.
+
+
+## V001 C003 E001 backfill japanese voice and address delta
+
+Francis explicitly renames `匿名の行人` as `フランシス`; the awakened speaker is labeled `地下生活者`, distinct from a verified civil identity (scene:001:u:0001-0020). `RULE BOOK`/`コデックス` and `キャンペーン` are the Dweller's game metaphors/claimed perceptions, not established technical mechanics (u:0021-0062). Yume's `らしい` marks the firework/mineral lead as report, and several late Yume/Hoshino tags swap turn logic; keep dialogue attribution coarse (u:0063-0112). Ayane's `約45%` is approximate and `だそうです` marks Nephthys attribution as reported. The same section moves from many hard-to-identify buyers to a named group without a printed reconciliation (scene:002:u:0077-0104). 438/480, E002 unopened.
+
+
+## V001 C003 E002 backfill japanese voice and address delta
+
+The archive fragment prints `売買契約書` and `アビドス高等学校` but not the traded asset or signatories (scene:001:u:0018-0022). Young Nonomi calls Hoshino `副生徒会長` in the earlier cut; several Nonomi/Hoshino tags then invert self-address. Nonomi's `私の家が、運営している会社です` is direct family-affiliation evidence (u:0023-0094). Ayane's `4～5倍以上` recaps price, and `特定施設`/`物流を目的とした交通インフラ` define a category; `砂漠横断鉄道` is contextual identification by Nonomi. `土地の所有権を除いた` explicitly reserves land (u:0111-0130). The card naming Highlander does not authenticate Nozomi's membership. 439/480, E003 unopened.
+
+
+## V001 C003 E003 backfill japanese voice and address delta
+
+`事業書の記載通り` is Hikari's comparison to an uninspected plan; `試運転` is a test run (scene:001:u:0001-0009). CCC's `51％以上` claim is followed by Nozomi's `正確にはちょっと違う`, narrowing literal ownership, and the administrator objects to lack of `許可` and `契約書` (u:0010-0031). Hikari/Nozomi tags drift through objections and jokes, so line-level persona claims are fragile. Suou's `理事会直属の管理監督官` and later `開発権は、我々のもと` are self/office claims pending documentation; `後日、正式に` promises rather than completes process (scene:002:u:0017-0043). 440/480, E004 unopened.
+
+
+## V001 C003 E004 backfill japanese voice and address delta
+
+The supposed `週90時間` wage is exposed by scammers as false; Yume's `困ってる人がいたら、手を差し伸べる` articulates help despite betrayal rather than denial of danger (scene:001:u:0001-0056). Her worn `手帳` recurs as intended record, with later custody still open (u:0057-0063). Nonomi's `私専用のクレジットカード` can draw Nephthys funds; Hoshino's `少なくとも連中はそう思う` marks corporate school ownership as predicted interpretation, not automatic legal effect (u:0089-0107). `失踪` and `発見されてから` occur in incomplete secondhand lines about Yume; no death mechanics are printed (u:0137-0147). Many Hoshino/Nonomi/Yume tags invert turn sense across temporal cuts. 441/480, E005 unopened.
+
+
+## V001 C003 E005 backfill japanese voice and address delta
+
+`私募ファンド` is the group's financing description, while `ネフティスの名で` distinguishes legal buyer label from investor identities (scene:001:u:0047-0057). `証明書のコピー` is a presented copy, and Ayane's `間違いありません` accepts rights within the meeting without displaying full text (u:0061-0075). `全権利` names the consortium's objective, whereas `少なくとも...開発権利は、既に` narrows claimed current standing (u:0083-0089). `形骸的に名前が残ってるだけ` distinguishes old council's nominal roster from the Committee's current function (u:0123-0131). The alleged `梔子ユメ` signature is pointed out, not authenticated or contextualized (u:0133-0137). Many role tags drift; do not infer stable individual voices from every visitor line. 442/480, E006 unopened.
+
+
+## V001 C003 E006 backfill japanese voice and address delta
+
+The excerpt explicitly says `施設使用権`, not land title or whole railway ownership; `契約金の一部として1万円` distinguishes initial installment from full 100万円 (scene:001:u:0009-0016). The `2年以内` balance and `遅延損害金` are quoted, while `自動的に無効` and minute-late voiding are representative assertions outside the shown excerpt (u:0054-0065). Hoshino uses `失踪` and reports `33日後` discovery with broken `ヘイロー`; `事故だったみたい` marks a tentative accident account, not a direct cause finding (u:0105-0125). Same `失踪した日` is a date match only; narrated rebuke fragments u:0144-0146 lack proven speaker/time. Several labels drift around Hoshino's reflection. 443/480, E007 unopened.
+
+
+## V001 C003 E007 backfill japanese voice and address delta
+
+Hoshino's `現金輸送車` call is a transparent Shiroko distraction; `ちょっと一人に` states need for solitude rather than permanent withdrawal (scene:001:u:0016-0022). The caretaker's `二年ぶり`, `社の存亡` and card `交換` define his claimed relationship/crisis and proposed exchange, not completed acts (u:0041-0074). Ayane `悪意を感じるような` and `考えすぎかも` bracket uncertainty (u:0091-0107). Dweller `攻略法` are self-proclaimed strategies. Plana's `まるで...ような` marks forced intervention as appearance inferred from anomaly; gas-pipe distortion itself is her detection (u:0111-0167). Several voice tags self-address, especially family call and rest discussion. 444/480, E008 unopened.
+
+
+## V001 C003 E008 backfill japanese voice and address delta
+
+Arona's `シャーレが爆発しました` directly reports the blast; Plana's `先生の保護は、間に合いました` claims timely protection, not full injury clearance (scene:001:u:0007-0023). The Dweller's `計算以上` and `攻略法を修正` are strategic self-report. In the earlier cut Yume seeks `署名`, while a Helmet speaker frames nonpayment as grievance; neither provides a ledger or final petition outcome (u:0024-0112). Yume's `武力` concern anticipates E004's distrust/violence argument. Hoshino's `最初で最後` council-help limit is spoken intention contradicted by later history, and `ユメ先輩` is the desired address (u:0113-0130). Several local labels drift. 445/480, E009 unopened.
+
+
+## V001 C003 E009 backfill japanese voice and address delta
+
+Yume's `ちゃんとした選挙` denial and `挙手投票` appointment are her own account, while `私は望んで受け入れた` rebuts Hoshino's burden interpretation (scene:001:u:0030-0041). Her `生徒会長手帳` is an ordinary `学習帳` used nearly as `日記`; `受け継いでもらう` is hoped-for succession, not delivery (u:0042-0052). `困っている人は見過ごせない` explains the search; `もっと、強くならないと` frames Hoshino's response to mutual protection (u:0073-0084, u:0119-0130). `生徒会かどうかに拘ってる意味がない` at u:0134 is tagged Yume but answers in Hoshino's voice; u:0080 similarly assigns a Hoshino-like rebuke to Yume. Preserve local speaker uncertainty. `ピッキングツール` is mentioned, but the cabinet is unlocked (u:0181-0187). 446/480, E010 unopened.
+
+
+## V001 C003 E010 backfill japanese voice and address delta
+
+Hoshino's `当時の私は` marks a present retrospective judgment of younger anger, while her sweeping `無気力`/`無責任` labels are her own emotional categories (scene:001:u:0006-0015). The poster's `奇跡` and Hoshino's `夢物語` stage incompatible hopes, but the `ビリビリッ` sound does not name a torn object (u:0016-0028). Hoshino says attackers `たぶん` knew Yume's presidency; her imagined errand/storm route also begins `たぶん`, unlike her direct `33日後` discovery report and `脱水症状で衰弱死した` death statement (u:0029-0068). Yume-attributed fragments contain literal `@#$%`-style corruption and stop at `ホシノちゃん、私は`; preserve gaps (u:0049-0055). Nonomi's `もし` conditions company involvement, and `お嬢様`/`執事さん` anchors the executive tie (u:0073-0084). 447/480, E011 unopened.
+
+
+## V001 C003 E011 backfill japanese voice and address delta
+
+The executive calls Nonomi `お嬢様` and offers a higher-limit card, but her `大丈夫です` refuses it (scene:001:u:0005-0015). `非対称戦力兵器` and `列車砲シェマタ` name the reported plan, while `もし完成すれば`, `おそらく` and `信じられません` limit claims about completion, cause and performance (u:0030-0072). `限りなく高い` is a claimed simulation result, not a test. Executive `知らないはず`, `どうでしょう`, `話に聞いて` mark CCC/Kaiser uncertainty (u:0092-0100). `契約を破棄` and `欠席した時点で契約は無効` are spoken legal interpretations outside E006 quoted clauses (u:0114-0119). `非認可の組織だった、と宣言` is a proposed declaration, not institutional status (scene:005:u:0051-0060). `전당포연합장` remains the Korean-labeled pawnshop role; u:0107 has Hoshino-tagged executive-like apology. 448/480, E012 unopened.
+
+
+## V001 C003 E012 backfill japanese voice and address delta
+
+Shiroko's `名前以外……分からない` is self-report; Hoshino's `記憶喪失！？` is a question. `おじさん`/`うへ～` surprise Nonomi in the meeting memory (scene:001:u:0002-0049). u:0068-0072 tag Hoshino on Shiroko-like challenge and Hoshino reply; u:0091/0096 tag Shiroko on corrective lines. Do not force exact speaker attribution in these spans (u:0068-0110). Hoshino repeats Yume's `お祝いの時は、記念に写真` wording, now with Shiroko/Nonomi; no physical photo is shown (u:0126-0131). `対策委員会` is a valued name while `アビドス生徒会` holds Yume memory; Hoshino's `否定はしない` is partial admission, not exclusive motive (u:0165-0209). News says `原因不明` explosion and `負傷`/emergency transport, with no diagnosis (u:0221-0234). 449/480, E013 unopened.
+
+
+## V001 C003 E013 backfill japanese voice and address delta
+
+Nonomi calls the executive `執事さん` and asks to preserve both `アビドス生徒会` and `対策委員会`; the executive's `わがまま`, `中学生の頃から` and demanded apology exert personal pressure without explaining the alleged damage (scene:001:u:0028-0065). `表向きは` explicitly marks the fund partnership as a front by his account, and `漁夫の利` names the intended opportunistic gain (u:0066-0085). `人質（役割）` is his chosen role for Nonomi, while `理事会が決定した方針` is claimed authority, not a presented minute (u:0111-0127). `非認可の存在だったと宣言` remains a coerced utterance he seeks from others, not a verified legal fact (u:0136-0141). Hoshino's `私なら` and `私だけ` isolate intended responsibility; Shiroko's `勝負しよう` interrupts, with no result (u:0142-0180). 450/480, E014 unopened.
+
+
+## V001 C003 E014 backfill japanese voice and address delta
+
+Hoshino's `いつか` versus `今じゃない` praises Shiroko while denying present victory. `加害者にさせちゃいけない` speaks of feared future culpability, not established wrongdoing (scene:001:u:0007-0016). `どうして先輩が...分からない` and `もし...知ったら` explicitly mark ignorance and counterfactual Yume response (u:0025-0030). `対策委員会（みんな）` and `私が一人で` express Hoshino's proposed separation, while Shiroko's `私にとっての世界` makes group life her lived frame (u:0031-0043). `ホシノ先輩も、みんなでしょ？` at u:0042 is Hoshino-tagged but addresses her, a local label drift. Ayane's `前と変わらない` recalls a prior abandonment pattern without proving identical circumstances (u:0044-0055). 451/480, E015 unopened.
+
+
+## V001 C003 E015 backfill japanese voice and address delta
+
+Yume calls being together `奇跡` in the everyday sense and joins `そばにいて` with `必ず守って`, two duties Hoshino's later solo exit separates (scene:001:u:0001-0022). Hoshino calls Ayane/Serika Abydos `未来`, describes herself as a graduating third-year, and says `いなくなるのは、おじさんだけで良い`; the last is self-sacrificial intent, not accomplished disappearance (u:0033-0045). `今日をもって解散` is a present dissolution declaration, while `副生徒会長...最後の命令` is her claimed authority, not inspected institutional paperwork (u:0046-0049). Ayane's `今日で...二年` dates contract anniversary, without stating an adjudicated legal effect (u:0061-0065). 452/480, E016 unopened.
+
+
+## V001 C003 E016 backfill japanese voice and address delta
+
+Suou's `ネフティスが裏切った` warns creditors; auction head's `雷帝` design attribution is actor claim, not inspected provenance (scene:001:u:0008-0021). Doctor `奇跡的に傷ひとつなかった` is clinical speech coupled with `簡単な検査` request, not full tested clearance (u:0030-0035). Ayane `書類上` narrows Hoshino council membership to paperwork and `もし...存在しなかったとしたら` marks a conditional legal theory (u:0052-0059). `補欠選挙`, `挙手投票`, `立会人` specify election acts; Sensei's `正当性を保証` is his inward intent/claim (u:0111-0140). `吸収合併` and `書記に降格` are Ayane's declared changes, not proven external effect (u:0141-0174). 453/480, E017 unopened.
+
+
+## V001 C003 E017 backfill japanese voice and address delta
+
+Dweller's `心は予測も制御もできない` is third self-labeled攻略法; `キャンペーン` is personal pursuit by its account. Narrator says `法解釈` here is fiction, a direct boundary on real-world law transfer (scene:001:u:0001-0010). Sensei `ノノミの位置が分かった` asserts location, not method; early Serika rescue lines are recollection, including Nonomi-tagged speech, not present participation (u:0011-0049). Ayane's west `可能性が高い` and north `思われます` qualify defense estimates (scenes:002-006). Pilot `ターゲットに命中` is a report, with later Hoshino motion shown by guards; PMC `最初から私たちの物` is ownership assertion only (scene:007). 454/480, E018 unopened.
+
+
+## V001 C003 E018 backfill japanese voice and address delta
+
+Executive `取り引きをしていた...裏で` admits hidden transaction without terms; Suou `昔の話` narrows President's `もともとカイザーPMC` to former affiliation (scene:001:u:0001-0028). President's `予測できる未来は3つ` is his scenario framing; `であろう` marks gun-as-facility inclusion conjectural, while `おそらく` marks fund concealment motive inference (u:0048-0090). `サイン` is demanded, but no printed signature follows; `これで...一員だ` is President's completion assertion (u:0091-0113). Highlander help follows the Sensei choice group's alternative lines; do not treat both options as separately observed acts (scene:002-003; choice:001). `エリア...クリア` are PMC operational reports, not property title (scene:004-006). 455/480, E019 unopened.
+
+
+## V001 C003 E019 backfill japanese voice and address delta
+
+PMC `約480km` precedes reported `セクター35-9` coordinates, not physical verification (scene:001:u:0001-0003; scene:002:u:0016-0017). Executive `全部、アビドスのため` is motive defense; Suou's Abydos violence comparison is `していてもおかしくない`, possibility, not history proof (scene:001:u:0016-0027). Hoshino `非認可の組織だったことを認める` is spoken but her contract-effect line cuts off (scene:003:u:0042-0047). PMC A tags at u:0026-0027 plead as a student to Hoshino, and Hoshino tag at scene:004:u:0017 explains to Hoshino: preserve label uncertainty. President `誰が君に発言を認めた` and `異論は一切認めない` announce exclusion by force, not adjudication (scene:005:u:0007-0016). 456/480, E020 unopened.
+
+## V001 C003 E020 backfill voice/address delta
+
+President's value and damages speech shifts in the source to Suou tags at u:0026-0030, including a tagged line that addresses `スオウ君`; preserve the tag conflict rather than attributing those coercive lines with certainty. Suou's later `小鳥遊ホシノ` direct challenge and `私が動かす` gun threat are securely tagged (scene:001:u:0045-0048). Hoshino's `私は対策委員会じゃない。アビドス生徒会なんだ` marks a public self-reclassification under danger, not proof of formal office (u:0068-0076). Her `可愛い後輩たち` and thanks for preserving `ユメ先輩` memory connect protective address with renewed solo action (u:0081-0083). Sensei's printed `待って` choice and subsequent inward `待って` must remain distinct from a completed stop (choice:001; u:0077).
+
+## V001 C003 E021 backfill voice/address delta
+
+Nonomi calls the executive `執事さん` while refusing to erase the harm and leaving to help Hoshino (scene:001:u:0010-0031). Yume's historical treasure-hunt invitation and teasing `不器用なおじさん` gives an earlier origin for Hoshino's old-man register, but does not explain every later use (u:0050-0063). `セクター35-9` is spoken while reading a redacted old document, so its printed text outranks guesses about hidden lines (u:0081-0086). Nonomi flags `私の想像でしかありません` before the cut; do not convert her diagnosis into Hoshino's self-report (u:0048-0049). Nozomi-tagged adjacent lines at scene:002:u:0079-0080 read like alternating twins, so precise joke attribution is limited. Hikari's playful `ヒドラジンとーにゅー` at scene:003:u:0006 receives Ayane's alarm, with physical result still open.
+
+## V001 C003 E022 backfill voice/address delta
+
+Hikari says she will raise a `白旗` after delaying Kaiser, bounding the twins' protective offer rather than casting it as death seeking (scene:001:u:0004-0008). The Hikari-tagged exchange at u:0011-0012 includes a line calling the other `ノゾミ`, a local label mismatch; exact hero-joke attribution is limited. Shiroko's `先生は私が守る` is a direct protection promise and Sensei's choice thanks her (u:0014; choice:002). Hikari's surrender and teasing questions to PMC function as a printed diversion, but her later custody remains unknown (scene:002:u:0005-0015). Ayane's `おそらく` marks card-use inference in the control room (scene:003:u:0011).
+
+## V001 C003 E023 backfill voice/address delta
+
+Hoshino calls Suou `眼帯ちゃん`; Suou's parenthetical surprise at that address and later Hoshino's `おじさん` self-reference distinguish their styles in the confrontation (scene:001:u:0006-0008,0032-0033). Suou uses the formal full name `小鳥遊ホシノ` when declaring Hoshino her true purpose (u:0049). Her `雷帝` account has marked hearsay `とか` for the Eden Treaty and explicit motive uncertainty; preserve modality (u:0017-0028). Hoshino's `ユメ先輩の意志` is her own certainty, not a quotation from Yume (u:0041-0044). `あの手帳` is an indexical offer, not a visible notebook (u:0058). Hoshino-tagged u:0060 may be speaker drift in the otherwise Suou challenge sequence.
+
+## V001 C003 E024 backfill voice/address delta
+
+Hoshino repeats `眼帯ちゃん` and says she wants gun destruction before `後輩たち` arrive, a direct protective-time rationale amid force (scene:001:u:0001-0008). Dweller numbers his methods and frames the fourth as `小さな傷が致命傷となる`, but the metaphor/causal range remains his speech (u:0009-0017). Arona's `現時点` limits her technological assessment to current Kivotos, and Sensei's `かもしれない` keeps Gematria a possibility (u:0042-0046; choice:001). Plana's `観測されています` is her perception/report; Arona responds that no one is visible (u:0052-0058). Sensei's inward `分かった` to Serika's call is separate from his printed choices (u:0063-0064).
+
+## V001 C003 E025 backfill voice/address delta
+
+Serika's `おかえり` renews the familiar return register at the moment Hoshino is about to destroy the gun, and Hoshino notes the recurrence came quickly (scene:001:u:0022-0026). Sensei's printed choice `止めに来たよ` is explicit opposition to her action, not an achieved restraint (choice:001). Nonomi's `勝手に学校を辞めないで` and Serika's `誰が頼んだ` directly reject protective unilateralism (u:0029-0032). Ayane refuses `アヤネちゃん` and demands `アヤネ生徒会長`, turning a familiar diminutive into a contested office address (u:0035-0044). Suou's notebook taunt contains a question, not documentary evidence of nonexistence (u:0012-0015).
+
+## V001 C003 E026 backfill voice/address delta
+
+Shiroko's `私は自分より強い人の言葉しか聞かない` and terse `ん、勝負` make a strength-conditioned challenge explicit under stress (scene:001:u:0012-0017). The language echoes the earlier historical enrollment duel, but should not be generalized as a universal behavioral rule from one urgent scene. Hoshino uses `シロコちゃん` and a four-to-one comparison to urge withdrawal, while Shiroko refuses (u:0012-0018). The peers' breathless speech and movement limits convey exertion without medical terminology (u:0001-0011).
+
+## V001 C003 E027 backfill voice/address delta
+
+Hoshino shifts from `アヤネ会長` to accepted `アヤネちゃん`, registering both office acknowledgment and continuing intimacy (scene:001:u:0033-0038). Her `ユメ先輩を殺したのは私` is immediately qualified by `あれは事故で、私のせいじゃない`; preserve both as grief speech rather than isolating the first line (u:0039-0054). Sensei's inward invitations and printed `もう充分苦しんだよ` choice remain distinct (u:0051-0056; choice:001). Dweller's `誰が...許しましたか` marks hostility to Hoshino's return, while his sixth-rule/death chant is self-framing, not omniscient narration (u:0063,0095-0113). Hina gives her full name after Hoshino calls her a lost Prefect chair (u:0174-0185).
+
+## V001 C003 E028 backfill voice/address delta
+
+Hoshino again uses `風紀委員長ちゃん` for Hina while treating the interruption as bothersome; Hina uses `小鳥遊ホシノ` and a direct surrender imperative (scene:001:u:0007-0012). Hina's `逃げるとはね` and `今度は逃さない` mark her renewed interception without proving she has already captured Hoshino (u:0020-0023). Hoshino's `よりによって、あの場所` hints at Great Oasis history but supplies no specifics (u:0014-0016). `Unknown source form` timeline units u:0001/0009 are mechanical markers, not voice samples.
+
+## V001 C003 E029 backfill voice/address delta
+
+Hoshino revises `アビドスの` to `私の問題`, tightening her exclusive-responsibility wording under combat (scene:001:u:0005-0009). Hina's brief `関係なら、ある` contests outsider dismissal without explaining her basis in this episode (u:0010). Hoshino's `先生に頼まれたから...とかっ！？` is a question/guess, not Hina's assent (u:0012-0013). Both fighters' breathless lines are direct fatigue evidence, whereas Hoshino's parenthetical train/route calculations are private thought and cannot be assigned to Hina (u:0015-0025). Source-form markers u:0014/0026 supply no voice samples.
+
+## V001 C003 E030 backfill voice/address delta
+
+Historical Hoshino's `もう一人で勝手にやってください` and `生徒会は終わりです` are angry parting lines she later says were not her settled intent (scene:001:u:0001-0013). Yume's memo `いつもありがとう...お元気でね` and the corrupted message ending `ホシノちゃん、私は` cannot be completed from context (u:0019-0031). Hoshino's subsequent questions and repeated quoted condemnation expose guilt without reliable causal proof (u:0032-0045). In the present she calls Hina `風紀委員長ちゃん`, while Hina gives Yume's full name and council role (u:0046-0066). Preserve historical, inward and present registers separately.
+
+## V001 C003 E031 backfill voice/address delta
+
+Hina's `先生に頼まれたから` now directly identifies her requested role, then `私も無関係じゃない` adds her own motive (scene:001:u:0004-0009). Her `何とかなる` echoes peers/Sensei as an appeal, not a guaranteed result (u:0015-0023). The apparent Hoshino-tagged u:0028 says `私とマコトでさえ`, contextually Hina's Gehenna-side claim; preserve tag drift. Hina's `あれは事故よ` and `誰のせいでもない` are an investigated compassionate assertion, not a displayed forensic report (u:0035-0045). Early Black Suit naming banter and Hoshino's `断る` mark a retrospective refusal (u:0056-0075). Ayane-tagged u:0088-0089 may mask another speaker amid train action.
+
+## V001 C003 E032 backfill voice/address delta
+
+Hoshino's repeated `手帳` and `あそこ` preserve the unresolved location rather than naming it (scene:001:u:0018-0024). Dweller calls her `暁に囚われし太陽の神`, a mythic address within his sixth-rule project, not accepted identity certification (u:0033-0036). The repeated `私が`/`殺したんだ` in narrator form is a typographic amplification of Hoshino's guilt, not neutral external verdict (u:0057-0077). Hina's parenthetical `幻覚を見ている...？` is a question, and her noticing Hoshino's strange state is not diagnostic (u:0017,0025). Ayane's `ひとまず` limits the train-gun stop to a present condition (u:0090).
+
+## V001 C003 E033 backfill voice/address delta
+
+Hoshino's reduced `ゆめ、せんぱい` and `て...ちょう` mark altered output without proving loss of personhood or medical death (scene:001:u:0001-0046). Dweller's `ホルス`, `セトの憤怒` and grand mythic register are antagonist labels, not neutral narration (u:0013-0024,0054-0071). Plana's `存在が反転` and `恐怖` name her assessment, while her `ヘイローを破壊するしかありません` is a crisis prescription, not a command Sensei accepts (u:0005-0011,0072-0078). Shiroko's `今...私だけ` echoes Hoshino's exclusive-responsibility diction, now paired with a rescue vow (u:0084-0089). `柔らかい声` remains an unidentified source label (u:0098-0100).
+
+## V001 C003 E034 backfill voice/address delta
+
+Yume-labeled speaker's `信じたい` explicitly qualifies the miracle belief in Sensei's crisis vision (scene:001:u:0026-0029). Sensei's apology `私は、大人なのに` and `手の届く子` choice articulate adult responsibility without omnipotence (choices:003-006). Direct `ようやく会えたね、地下生活者` marks new adversary address after inward despair (choice:007). `砂狼シロコ、あなたは強い。だって、私だから` makes counterpart identity likely, but all nearby lines share `シロコ` labels; do not overassign individual voices (u:0041-0064). The E033 soft voice is likely the Yume-labeled vision transition, not proven physical Yume speech.
+
+## V001 C003 E035 backfill voice/address delta
+
+Other-time-axis Shiroko calls Plana `A.R.O.N.A`, and Plana explicitly distinguishes `今の時間軸の「砂狼シロコ」`, settling which Shiroko summoned Color (scene:001:u:0008-0016). Ayane/Nonomi's `もう一人のシロコちゃん` confirms counterpart recognition after arrival (u:0022-0024). Both still share raw `シロコ` tags, so contextual differentiation should not be extended to every line without evidence. Dweller's `アヌビス？`, `チート` and `コデックス` are hostile game/mythic framing rather than neutral taxonomy (scene:002:u:0004-0015).
+
+## V001 C003 E036 backfill voice/address delta
+
+One Shiroko says a reversed person cannot return `死人が生き返るようなもの`, while the other distinguishes `覚悟` from `望んでいる`; shared labels require contextual, not automatic, attribution (scene:001:u:0005-0022). `手帳、みたいな形` marks Serika's resemblance claim, not identification (u:0023-0030). Arona/Plana tags drift at u:0048-0055 despite a sustained Plana-method explanation. Plana's `少し、怖い` and request to hold hands show fear amid technical action, and Arona's promise answers it (u:0061-0067). Sensei's `私じゃダメだ` choice is a local contact limit, not global abandonment (scene:002:choice:001).
+
+## V001 C003 E037 backfill voice/address delta
+
+The repeated narrator `私` in the contact sequence reads as Hoshino's inner account, not neutral verification of Yume's final words or death conditions (scene:001:u:0002-0035). Nonomi asks `気持ちを伝えられなかったから`, and local Shiroko says `あれは事故` to contest self-blame (u:0009-0019). Hoshino's playful `セリカちゃんは可愛い` response and Serika's idol promise briefly restore ordinary peer register (u:0045-0052). Counterpart Shiroko's future-memory language meets Hoshino's question about keeping friends' weapons, with shared tags requiring contextual voice attribution (u:0053-0082). Sensei explicitly says facts may be unknown, while his `真実` claim is chosen relational meaning rather than sourced notebook text (u:0099-0109).
+
+## V001 C003 E038 backfill voice/address delta
+
+The Yume-labeled future letter's questions `みんなと協力はできてる？`, friends who help, and `うへ～` laughter address Hoshino's actual social future rather than a weapon order (scene:001:u:0001-0010). Hoshino drops into crying `私` speech rather than `おじさん`, and the exchange lets her laugh at resembling Yume (u:0011-0024). Yume's `自分を責めないの` and `お疲れ様` recognize effort without absolving unknown historical facts by fiat (u:0025-0040). Hoshino's `会いたい` is met with `後輩を守って`, keeping a death-boundary and living obligation in the voice exchange (u:0041-0049).
+
+## V001 C003 E039 backfill voice/address delta
+
+Hoshino's `シロコちゃん` twice distinguishes local and counterpart addressees and `風紀……いや、ヒナちゃんも` repairs her institutional address into personal familiarity; her `何とかしよっか` restores cooperative initiative (scene:001:u:0006-0009). Dweller's `チート` and six-person analysis are rule/game diction, later breaking into `ノーゲーム` protest at the Adult Card (u:0013-0023,0053-0069). Plana's procedural `説明`/`認証完了` shifts to playful `無敵`/`普段の2倍` and cutting translation of Sensei, with Arona registering surprise (u:0027-0038,0070-0078). Sensei's repeated `いつ、いかなる時` and `子ども`/`大人` responsibility resists the opponent's win/loss frame (u:0043-0052,0073).
+
+## V001 C003 E040 backfill voice/address delta
+
+Hoshino's `ヒナちゃん、立てる？` is intimate concern, while the immediately following Hoshino-tagged `ええ、大丈夫` reads like a reply and must retain a label caution (scene:001:u:0003-0004). Her `先輩の言う通り`/`お宝` addresses an unnamed senior; Yume is contextual inference, not a printed addressee label (u:0017-0021). Counterpart/local Shiroko's same printed name produces Serika's explicit confusion, then `ちびシロコ`/`よわシロコ` teasing; context helps but shared tags remain a constraint (u:0035-0044). Hoshino's closing `おじさん` and `うへ～` recover her familiar self-register (u:0046-0049).
+
+## V001 C003 E041 backfill voice/address delta
+
+The middle-school speakers' `らしい`/`って` mark closure/heiress claims as hearsay (scene:001:u:0002-0010). Suou's `何を、証明したかった` is self-questioning, not a confession of a single motive (u:0011-0014). Ayane explicitly calls the Committee both `廃校対策委員会` and `生徒会` (u:0104). Hoshino's repeated `ごめん` and `一人で突っ走って` are direct accountability, followed by `大丈夫、とは違う` and `手放す必要はない` for grief without surrendering help (u:0116-0176). Counterpart Shiroko's `殺しはしない`/`見逃す` must govern the preceding death-secret threat; `アヌビス` is her warning title, not proof of killing (u:0187-0197).
+
+## V001 C003 E042 backfill voice/address delta
+
+Hoshino jokingly issues `生徒会長命令` about swimsuits; Ayane's `ようやく生徒会長を引き受けて` gives the title a real acceptance behind the joke (scene:001:u:0018-0029). The Nonomi-tagged `ついに！？` at u:0045 sounds like listener surprise and is a source-label caution (u:0041-0046). Ayane uses `ようです`/`発表しただけ` and `かもしれません` to bound investment and traffic claims; Hina/Makoto cooperation is observed from outside, motive posed as a question (u:0035-0037,0047-0050). `便りがないのは良い知らせ` is Serika's comfort proverb, not knowledge of counterpart Shiroko's safety (u:0079-0086).
+
+## V001 C003 E043 backfill voice/address delta
+
+Shared `シロコ` source tags at the theft encounter need dialogue-context attribution; Sensei's `こっちのシロコ` contrasts the counterpart with the other returning an item (scene:001:u:0025-0032; choice:002). Counterpart's `一人は慣れてる` and `みんなに合わせる顔が` mark practiced isolation and shame, while Sensei's `今度でも` respects timing (u:0033-0048). Her `たぶん`/`思う` bounds the reversal theory; `一つの世界に一人` is her assertion, not narrated law (u:0049-0064). Sensei's emphasized `また`/`手の届くところで` offers continuing reachable support; her `また連絡する` accepts it (u:0065-0074). The final `#videons2` and Korean `log=호시노` are source-form wrappers, not added speech evidence (u:0078,0113).

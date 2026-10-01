@@ -1,0 +1,14 @@
+{
+  "series_id": "watayuri",
+  "stable_slug": "watayuri",
+  "canonical_title": "Yuri Is My Job!",
+  "media": ["MANGA"],
+  "repository_path": "series/watayuri/",
+  "canonical_entrypoint": "series/watayuri/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_REVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_WATAYURI_BOOTSTRAP_20260928",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Owner-approved Japanese manga architecture with the sequential-analysis lock OPEN. V01–V06 readings and all nine cumulative ledgers cover mainline through V06 Shift 31/i154, also the latest depicted present. Packaged half-chapters are separately bounded; V06 Shift 31.5 does not advance the endpoint and V04 EX is promotional. V07 requires separate authorization; V07–V14 and the V10 booklet remain inventory only."
+}

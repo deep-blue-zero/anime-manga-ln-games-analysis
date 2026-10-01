@@ -57,6 +57,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Tokyo 7th Sisters](../series/tokyo-7th-sisters/) — `series/tokyo-7th-sisters/` — Game-first analytical architecture under approved design 1.1. T7S_B0001–B0003 close the exact first 11 Main episodes through 201000201 with synchronized readings, state ledgers, coverage, and bounded visual review; native source corpus/media remain external. B0002 completes Haru's first chapter and B0003 opens but does not complete Musubi's. Next candidate 201000202 is not admitted; Haru is R2 state-bounded, and no monograph, model, specialist, or synthesis is promoted.
 - [Wuthering Waves](../series/wuthering-waves/) — `series/wuthering-waves/` — post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane.
 - [YOUJO SENKI](../series/youjo-senki/) — `series/youjo-senki/`
+- [Yuri Is My Job!](../series/watayuri/) — `series/watayuri/` — Owner-approved Japanese manga architecture with the sequential-analysis lock OPEN. V01–V06 readings and all nine cumulative ledgers cover mainline through V06 Shift 31/i154, also the latest depicted present. Packaged half-chapters are separately bounded; V06 Shift 31.5 does not advance the endpoint and V04 EX is promotional. V07 requires separate authorization; V07–V14 and the V10 booklet remain inventory only.
 - [Yuru Camp](../series/yuru-camp/) — `series/yuru-camp/`
 
 <!-- END GENERATED CORPUS SERIES CATALOG -->
