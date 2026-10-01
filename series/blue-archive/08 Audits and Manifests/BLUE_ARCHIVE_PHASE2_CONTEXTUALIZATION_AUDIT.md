@@ -2,9 +2,9 @@
 series: BLUE_ARCHIVE
 artifact_type: contextualization_audit
 scope: Phase 2 arc contextualization across all 12 main-story groupings at the pinned Japanese snapshot
-version: "1.3"
+version: "1.4"
 status: canonical
-source_boundary: "electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; generation BA_REFRESH_20260928T032248159554Z; 480 admitted main readings; 100 supplemental objects admitted with limits; Phase 2 in progress and completion unproven"
+source_boundary: "electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; generation BA_REFRESH_20260928T032248159554Z; 480 admitted main readings; 122 supplemental objects admitted with limits; Phase 2 in progress and completion unproven"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,13 +17,13 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 
 ## 0. Responsibility and present result
 
-**Phase 2 is NOT COMPLETE.** This audit owns the full acceptance matrix and records what would prove completion of the user-authorized **Start and complete Phase 2 — Arc contextualization** goal. It is an operational audit, not supplemental literary evidence or a character monograph. The initial input snapshot had zero supplemental admissions. Current accepted progress is100 objects, governed by §11 and cycle003. Concurrent candidates enter neither that count nor an arc acceptance until integrator review and shared reconciliation are complete.
+**Phase 2 is NOT COMPLETE.** This audit owns the full acceptance matrix and records what would prove completion of the user-authorized **Start and complete Phase 2 — Arc contextualization** goal. It is an operational audit, not supplemental literary evidence or a character monograph. The initial input snapshot had zero supplemental admissions. Current accepted progress is122 objects, governed by §12 and cycle004; [scope extension001](BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md) owns the enlarged private-source denominator. Concurrent candidates enter neither that count nor an arc acceptance until integrator review and shared reconciliation are complete.
 
 The [synthesis architecture](../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md#phase-2--arc-contextualization) v1.4 defines five Phase 2 obligations after every major main arc: identify core related group stories; classify events by importance; read relevant bond/MomoTalk for major characters; inspect character-data written voice; update ledgers. The [method](../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md) v1.3 gives the source-class, person/variant, ordinary-life, choice, language, counterevidence and locator contracts. Its numbered phase labels differ; this goal follows the synthesis architecture Phase 2 contextualization label and the method remains the interpretive contract.
 
-This scope preserves **all 12 main-story groupings, 26 checkpoints and 480 main units**. It requires complete content review of **all 65 group objects and all 61 event-content packages / 1,010 canonical event objects**. All events remain visible regardless of school, stakes, comedy, seasonality or weak connection to the main plot. A conservative principal baseline of **111 subject retrieval families / 113 preserved raw person keys** requires **968 bond, 968 MomoTalk and 393 character-data objects**. These are **3,404 unique mandatory source objects**, not completed readings. The distinct Kei identity inquiry adds 19 available objects; positive mini-source leads add 29 objects for relevance review. Counts do not replace semantic acceptance.
+This scope preserves **all12 main-story groupings,26 checkpoints and480 main units**. All65 complete group objects and all61 event-content packages/1010 objects remain required. The initial111-family/113-raw-key scope required968 bond/968 MomoTalk/393 data,3404 mandatory objects, plus19 Kei and29 mini leads. [The group-grounded scope extension](BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md) adds14 nominal families/15 raw keys,227 unique mandatory private objects and three mini relevance leads: **125 verified retrieval families/128 preserved raw keys;1061 bond/1061 MomoTalk/434 character_data;3631 mandatory and3682 tracked objects**. Kei19 is unchanged; mini leads now32. Kaguya remains a named identity/private-route inquiry with no invented source family. Counts and metadata do not replace literary acceptance.
 
-The 111-family baseline is selected from already analyzed subjects and the named institutions, ensembles, working roles and ordinary-life questions in current checkpoint/ledger authority. It deliberately includes members whose value is ordinary pleasure, work, play, humor or a differing peer/private perspective. It is not derived from the 21 partial-model rows, machine co-occurrence rank or main appearance frequency. The roster and its individual reasons appear below. Source-facing reading may reveal another major subject or a required contextual source; add that obligation instead of freezing the roster to conceal it. No existing principal or quiet source is optional merely because a narrow pilot could succeed without it.
+The initial 111-family baseline is selected from already analyzed subjects and the named institutions, ensembles, working roles and ordinary-life questions in current checkpoint/ledger authority. It deliberately includes members whose value is ordinary pleasure, work, play, humor or a differing peer/private perspective. It is not derived from the 21 partial-model rows, machine co-occurrence rank or main appearance frequency. The roster and its individual reasons appear below. Source-facing reading may reveal another major subject or a required contextual source; add that obligation instead of freezing the roster to conceal it. No existing principal or quiet source is optional merely because a narrow pilot could succeed without it.
 
 ## 1. Input snapshot and source boundary
 
@@ -53,15 +53,15 @@ The operational metadata dispatch is retained outside analytical Git in the titl
 
 | ID | Requirement | Evidence that passes | Current state |
 |---|---|---|---|
-| P2-R01 | Related group and ordinary institution coverage | All 65 complete group objects read in coherent sequences, per-sequence source/admission/chronology record, and evidence-grounded relevance for all 12 arc rows. | IN_PROGRESS; see §9 |
-| P2-R02 | Fair event importance classification | All 61 packages / 1,010 objects receive complete content review and grounded priority, evidence-function and workflow decisions. Preserve every episode ID and all repeat contexts. No unread metadata verdict or quiet-material deferral. | IN_PROGRESS; see §9 |
-| P2-R03 | Major-character bond and MomoTalk | All required 968 bond and 968 MomoTalk objects read for the 111 families with linked preface/scene, message boundaries, alternatives, variant/source context and public/peer/private comparison. New major subjects identified by reading add required routes. | IN_PROGRESS; see §9 |
-| P2-R04 | Written linguistic baseline | All required 393 character-data objects inspected as contextual written language, compared with story/texting language and variant conditions. The 27 unresolved data routes receive identity review where relevant; performed voice remains unverified. | IN_PROGRESS; see §9 |
-| P2-R05 | Ledger and coverage integration | Each accepted coherent reading transaction closes applicable deltas to character, relationship, institution, Sensei, voice, motif and claim ledgers; coverage, source gaps and admission controls agree. Negative/no-material deltas are truthful, not fabricated rows. | IN_PROGRESS; see §9 |
-| P2-R06 | Every main arc contextualized | All 12 rows in §3 pass the five architecture obligations. Cross-arc reused readings are explicit and claim-specific. Main-only/identity-special people receive real retrieval review and named limits, not an invented private persona. | IN_PROGRESS; see §9 |
-| P2-R07 | Provenance, chronology and attribution | All consequential claims recover exact source IDs, scene/utterance/choice/message locators and raw witnesses; documentary dates remain separate from narrative anchors. Unordered repertoire does not become a state edge. | IN_PROGRESS; see §9 |
-| P2-R08 | Contrary evidence and ordinary breadth | Readings preserve pleasures, humor, play, minor disputes, work and uneventful relations with competing interpretations; no crisis-only essence, universal Sensei route or one-scene coverage ceiling. | IN_PROGRESS; see §9 |
-| P2-R09 | Semantic acceptance and publication | Integrator reads delivered analyses, tests consequential quotations/locators and cross-document effects, resolves material contradictions, updates current state and verifies required source/housekeeping/final exact-commit repository gates. A green validator is not literary completeness. | IN_PROGRESS; see §9 |
+| P2-R01 | Related group and ordinary institution coverage | All 65 complete group objects read in coherent sequences, per-sequence source/admission/chronology record, and evidence-grounded relevance for all 12 arc rows. | IN_PROGRESS; see §12 |
+| P2-R02 | Fair event importance classification | All 61 packages / 1,010 objects receive complete content review and grounded priority, evidence-function and workflow decisions. Preserve every episode ID and all repeat contexts. No unread metadata verdict or quiet-material deferral. | IN_PROGRESS; see §12 |
+| P2-R03 | Major-character bond and MomoTalk | All required1061 bond and1061 MomoTalk objects read for the125 verified retrieval families with linked preface/scene, message boundaries, alternatives, variant/source context and public/peer/private comparison. New major subjects identified by reading add required routes. | IN_PROGRESS; see §12 |
+| P2-R04 | Written linguistic baseline | All required434 character-data objects inspected as contextual written language, compared with story/texting language and variant conditions. The 27 unresolved data routes receive identity review where relevant; performed voice remains unverified. | IN_PROGRESS; see §12 |
+| P2-R05 | Ledger and coverage integration | Each accepted coherent reading transaction closes applicable deltas to character, relationship, institution, Sensei, voice, motif and claim ledgers; coverage, source gaps and admission controls agree. Negative/no-material deltas are truthful, not fabricated rows. | IN_PROGRESS; see §12 |
+| P2-R06 | Every main arc contextualized | All 12 rows in §3 pass the five architecture obligations. Cross-arc reused readings are explicit and claim-specific. Main-only/identity-special people receive real retrieval review and named limits, not an invented private persona. | IN_PROGRESS; see §12 |
+| P2-R07 | Provenance, chronology and attribution | All consequential claims recover exact source IDs, scene/utterance/choice/message locators and raw witnesses; documentary dates remain separate from narrative anchors. Unordered repertoire does not become a state edge. | IN_PROGRESS; see §12 |
+| P2-R08 | Contrary evidence and ordinary breadth | Readings preserve pleasures, humor, play, minor disputes, work and uneventful relations with competing interpretations; no crisis-only essence, universal Sensei route or one-scene coverage ceiling. | IN_PROGRESS; see §12 |
+| P2-R09 | Semantic acceptance and publication | Integrator reads delivered analyses, tests consequential quotations/locators and cross-document effects, resolves material contradictions, updates current state and verifies required source/housekeeping/final exact-commit repository gates. A green validator is not literary completeness. | IN_PROGRESS; see §12 |
 
 Readiness or model promotion is a separate gate. Phase 2 completion does not require manufacturing a monograph/model, resolving unprinted legal/medical outcomes, authenticating every historical record, constructing a total timeline or inspecting performed voice. It does require honest claim limits for those debts and complete assigned textual contextualization. A required unread source cannot be relabeled optional to declare completion.
 
@@ -89,7 +89,7 @@ All 12 rows require explicit answers to: which group contexts are core and why; 
 
 ## 4. Principal private-source baseline
 
-The per-family rationale is a coverage decision. Each subject’s prior main-state description is retrievable from the [coverage index §3](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md#3-source-availability-versus-analyzed-coverage); the arc checkpoint links in §3 retain the reasons, counterevidence and temporal limits behind it. The final column adds the individual inquiry that earns complete private coverage. Counts are available canonical objects and currently not accepted completion evidence. Raw key suffixes below mean `BA_PERSON_<suffix>`.
+This section preserves the initial111-family/113-key roster and its individual rationales; [extension001](BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md) adds fourteen group-grounded families and owns their exact routes, identities and overlap decisions. Current completion requirements use the enlarged scope in §12. The per-family rationale is a coverage decision. Each subject’s prior main-state description is retrievable from the [coverage index §3](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md#3-source-availability-versus-analyzed-coverage); the arc checkpoint links in §3 retain the reasons, counterevidence and temporal limits behind it. The final column adds the individual inquiry that earns complete private coverage. Counts are available canonical objects and currently not accepted completion evidence. Raw key suffixes below mean `BA_PERSON_<suffix>`.
 
 | Subject family | Raw key suffixes retained | Main-arc inquiry routes | Bond | MomoTalk | Character data | Individual inclusion reason |
 |---|---|---|---:|---:|---:|---|
@@ -478,3 +478,28 @@ Current coverage23 partial/354 unmodeled/377 subjects, all standalone NONE:38 ex
 | Cycle003 publication | Author/source/housekeeping/final exact head | PENDING | Separate gate; semantic acceptance does not certify publication |
 
 Combined coverage23 partial/394 unmodeled/417 subjects: 74 existing overrides,65 new source-local subjects,278 inherited main rows. Model states are unchanged and all standalone NONE. All9 whole-Phase2 requirements and all12 arc rows remain incomplete. Serika private/written admission and earlier event admissions remain intact; queued private/event/group candidates are not counted. Ordinary-source eligibility is protected without reducing the full scope.
+
+## 12. Current accepted progress — cycle004, 2026-10-01
+
+[Cycle004](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_004_CHECKPOINT.md) accepts the remaining22 complete group objects. All65 group objects now have full admitted readings in27 durable source-facing arguments, with exact canonical routes and full contributor/parent literary review. This closes group-content intake; per-arc core/relevance and the other four architecture duties remain under P2-R01–R09. §§8–11 preserve the initial input and earlier dated progress/pending-publication states; this section and the exact object crosswalk own current progress.
+
+[Scope extension001](BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md) adds227 net-new private obligations and three mini relevance leads while retaining every prior3452 identity/hash. Two metadata-routed short-label bond contexts already required under Tsukuyo/Junko retain their actual primary source owners and count once; generic raw employee/vendor actors leave baseball Rei continuity unverified. The full current denominator is3631 mandatory and3682 tracked. No unread private/mini content is admitted by this extension.
+
+| Responsibility | Required | Accepted | Remaining / state |
+|---|---|---|---|
+| Main-arc rows | 12 | 0 | All five architecture duties must pass per arc |
+| Group | 65 | 65 | 0 unread group objects; per-arc core/relevance closeout still required |
+| Event packages / objects | 61 /1010 | 2 /26 | 59 /984 |
+| Principal bond | 1061 | 13 | 1048 |
+| Principal MomoTalk | 1061 | 13 | 1048 |
+| Principal character_data | 434 | 5 | 429 |
+| Kei identity | 19 | 0 | 19 |
+| Mini leads | 32 | 0 | 32 |
+| Mandatory objects | 3631 | 122 | 3509 |
+| All tracked objects | 3682 | 122 | 3560 |
+| Verified nominal retrieval families / raw keys | 125 /128 | Serika private/written family only | Other complete family readings require parent admission; Kaguya named inquiry separate |
+| Seven-ledger integration | Every accepted cycle | 4 cycles | All seven reconciled with exact source limits |
+| Cycle003 publication | Exacteb1cfc751d517f8db52815aba530aeddb550235f | PASS | Source36915250054; completed housekeeping36916012910; exact final36916048623 success |
+| Cycle004 publication | Author/source/housekeeping/final exact head | PENDING | Separate publication gate; semantic acceptance does not invent a later receipt |
+
+Current combined coverage23 partial/432 unmodeled/455 analytical subjects: 92 existing overrides,103 new source-local subjects,260 inherited main rows. Cycle004 adds34 separate encounter-local role buckets and four named subjects; existing readiness states are unchanged and all standalone NONE. All9 wholePhase2 requirements and all12 arc rows remain incomplete. Earlier event and Serika private/written admissions remain intact; queued private/event candidates are not counted. No source is discarded for low stakes, comedy or weak main-plot linkage. Source metadata/chronology/performance and unprinted legal, clinical, technical, restitution or cure claims retain their actual limits.

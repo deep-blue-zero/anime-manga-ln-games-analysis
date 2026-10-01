@@ -2,9 +2,9 @@
 series: BLUE_ARCHIVE
 artifact_type: source_class_crosswalk
 scope: Current Japanese source classes, provenance, chronology, and analytical admission
-version: "1.3"
+version: "1.4"
 status: canonical
-source_boundary: "Pinned electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; corpus generation BA_REFRESH_20260928T032248159554Z; 480 main units plus100 supplemental objects admitted with limits in cycles001–003"
+source_boundary: "Pinned electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; corpus generation BA_REFRESH_20260928T032248159554Z; 480 main units plus122 supplemental objects admitted with limits in cycles001–004"
 do_not_use_as_current_authority: false
 created: 2026-09-28
 updated: 2026-10-01
@@ -14,7 +14,7 @@ updated: 2026-10-01
 
 ## 0. Authority and exact route
 
-This crosswalk distinguishes **available**, **inspected**, and **admitted** evidence. The analytical repository contains the 480 completed main-story readings and the100 supplemental objects accepted in cycles001–003; [cycle003](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_003_CHECKPOINT.md) supplies the latest scoped addition. The source/ingestion workspace contains the pinned Japanese generation `blue-archive-corpus-pipeline/corpus/GENERATIONS/BA_REFRESH_20260928T032248159554Z/`, built from `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8`, recorded game version `v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1`. The [source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) preserves the earlier V1 witness for its completed readings. This crosswalk is analytical routing; it does not copy source transcripts into Git or substitute the refreshed source wording into V1 readings.
+This crosswalk distinguishes **available**, **inspected**, and **admitted** evidence. The analytical repository contains the 480 completed main-story readings and the122 supplemental objects accepted in cycles001–004; [cycle004](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_004_CHECKPOINT.md) supplies the latest scoped addition. The source/ingestion workspace contains the pinned Japanese generation `blue-archive-corpus-pipeline/corpus/GENERATIONS/BA_REFRESH_20260928T032248159554Z/`, built from `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8`, recorded game version `v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1`. The [source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) preserves the earlier V1 witness for its completed readings. This crosswalk is analytical routing; it does not copy source transcripts into Git or substitute the refreshed source wording into V1 readings.
 
 For any new source-facing claim, follow `story_id` → `<canonical_path>` relative to the pinned generation (the value already begins with `02_CANONICAL_STORIES/`) → scene/utterance/choice or message ID → `03_STRUCTURED_DATA/*.jsonl` → the record's `raw_group_ids`, `source_paths`, `source_sha256` and source commit → the immutable raw upstream snapshot recorded by `00_MANIFESTS/SOURCE_MANIFEST.json`. `03_STRUCTURED_DATA/stories.jsonl` supplies the authoritative per-object source class and canonical path for this generation. The supplemental CSV records the global witness once through this document rather than repeating it in every row. Its `canonical_path` and SHA-256 preserve exact per-object recovery; `stories.jsonl` at the pinned generation retains raw group IDs, raw table paths/hashes, person/variant joins and release metadata. The whole-phase audit records that inventory hash and selection scope. Removing repeated columns changes neither an object ID nor an admission decision. The `10_READING_INDEXES/STORIES/<CLASS>.md` files are navigation only. A derived person/relationship bundle is a reversible projection, not another primary story witness. The [event index](BLUE_ARCHIVE_EVENT_ANALYTICAL_PRIORITY_INDEX.md) carries all 1,010 event story IDs.
 
@@ -25,7 +25,7 @@ Counts are canonical **story objects**, not raw rows, distinct people or complet
 | Source type | Objects | Canonical route under `02_CANONICAL_STORIES/` | Release dates present | Current analytical state and strongest initial use |
 |---|---:|---|---:|---|
 | `main` | 480 | `MAIN/` | 0 | 480 admitted readings, 26 checkpoints; institutional/crisis and some ordinary evidence. Older readings retain their declared V1 text witness. |
-| `group` | 65 | `GROUP/` | 0 | 43 ADMITTED with limits,22 AVAILABLE_NOT_REVIEWED; club routine, peer hierarchy, work and ordinary disagreements. |
+| `group` | 65 | `GROUP/` | 0 | 65 ADMITTED with limits; complete group-content intake closed; club routine, peer hierarchy, work and ordinary disagreements. |
 | `event` | 1,010 | `EVENT/EVENT_*/` | 1,010 | 26 ADMITTED with limits, 984 AVAILABLE_NOT_REVIEWED; continuity, cross-school, seasonal, comic and ordinary contexts all eligible for reading. |
 | `bond` | 1,161 | `BOND/` | 1,161 | 13 ADMITTED with limits,1148 unadmitted; bounded private/Sensei dyads, ordinary preferences, and relationship-specific self-presentation. |
 | `momotalk` | 1,161 | `MOMOTALK/` | 1,161 | 13 ADMITTED with limits,1148 unadmitted; message rhythm, initiation, alternate replies and bond prefaces. |
@@ -42,7 +42,7 @@ All 1,010 event objects have an unresolved overarching `event_title_jp` field (`
 
 ## 2. First retrieval questions, not admissions
 
-The [readiness audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md#24-pilot-reassessment) proposes a narrow Yuuka council/club decision design and Serika's familiar service/reciprocity contexts as an ordinary alternative. These are **metadata retrieval leads** for an actual source-admission decision, not assertions about unread story plots:
+The [current readiness audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md#32-current-cycle004-readiness-reassessment--2026-10-01) retains bounded Yuuka/Serika design leads and now incorporates all65 complete group readings. Earlier pilot suggestions are historical retrieval decisions. Remaining private/event material needs its own actual content acceptance; no broad package or model is certified by metadata.
 
 | Question | Available source routes identified by person metadata | What still needs inspection |
 |---|---|---|
@@ -65,7 +65,7 @@ A supplemental story enters an analysis only through an explicit scoped decision
 6. affected [source gaps](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md), ledgers and coverage rows;
 7. review/acceptance state and an evidence locator back to the Japanese source.
 
-Current supplemental admission: **34 objects — 8 group and 26 event, ADMIT_WITH_LIMITS**. [Cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) owns the accepted question, evidence and exclusions. The [3,452-row object crosswalk](BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv) records exact IDs, source hashes, analysis/admission routes, priority and separate chronology. Bond, MomoTalk, mini, character-data, special-operation and unclassified classes remain unadmitted; their draft readings do not count as acceptance. A source refresh requires reconciling object IDs, paths, aliases and recorded provenance before carrying this inventory forward. A genuinely prospective model test requires its rule and prediction freeze before exposing the selected unread material; otherwise the comparison is retrospective.
+Current supplemental admission: **122 objects —65 group,26 event,13 bond,13 MomoTalk and5 character_data, ADMIT_WITH_LIMITS**. [Cycle004](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_004_CHECKPOINT.md) owns the latest accepted questions, evidence and exclusions. The [3682-row object crosswalk](BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv) records exact IDs, hashes, requirements, reading/admission routes, priority and separate chronology. [Scope extension001](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md) adds227 private obligations and three mini leads, without new private or mini content admission. Mini/special-operation/unclassified remain unadmitted. Source refresh still requires identity/provenance reconciliation; already exposed comparisons are retrospective.
 
 ## Cycle002 admission and attribution — 2026-10-01
 
@@ -76,3 +76,7 @@ Current supplemental admission: **34 objects — 8 group and 26 event, ADMIT_WIT
 ## Cycle003 admission and source-mode review — 2026-10-01
 
 [31 newly accepted group objects](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_003_CHECKPOINT.md) brings the current total to100. Fourteen full packet arguments preserve raw display/text actor receipts, independent or local-relative ordering, quote/report/video layers, branch responses and private audience. Marina/Yuzu empty joins and locally explicit Nodoka costume remain separate from registry repair. Automatic forecast output and collective voices retain their modes, not extra biographies. All3452 tracked IDs/canonical hashes remain intact.22 group,984 event,1148 bond,1148 MomoTalk and506 data objects are still unadmitted; principal-required remainders differ from full-class totals as recorded by the Phase2 audit.
+
+## Cycle004 admission and scope extension — 2026-10-01
+
+[22 newly accepted group objects](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_004_CHECKPOINT.md) closes complete group-content intake at65/65 and brings supplemental admission to122. All22 have full contributor/parent literary review, exact hash checks and consequential Japanese/raw/choice tests. Embedded fiction, quoted ns formulations, independent vignettes, unjoined named identities, separate anonymous roles and automated/collective modes retain their limits. All3452 prior CSV identities/hashes are preserved; [scope extension001](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md) adds230 separately unadmitted rows for3682 total. Full-class unadmitted remainders are0 group/984 event/1148 bond/1148 MomoTalk/506 data. Required principal remainders are narrower:1048 bond/1048 MomoTalk/429 data. Group intake alone does not complete an arc or wholePhase2.
