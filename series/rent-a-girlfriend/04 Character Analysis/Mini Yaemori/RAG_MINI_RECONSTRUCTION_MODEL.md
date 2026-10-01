@@ -4,7 +4,7 @@ artifact_id: RAG_MINI_RECONSTRUCTION_MODEL
 artifact_type: character_reconstruction_model
 series: Rent-a-Girlfriend
 generation: V1
-version: "1.12"
+version: "1.14"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -54,10 +54,10 @@ model_basis:
     - RAG-JP-EPUB-V037
     - RAG-JP-EPUB-V040
   admitted_through_volume: V040
-  narrative_time_boundary: "after a laundry interruption and a newly proposed three-person card game"
+  narrative_time_boundary: "after V040 pre-date encouragement and rain observation; later date events are not Mini's knowledge"
   basis_checkpoint: RAG_CP_V020
   basis_commit: 940f1b3050e41ff0fac8a79fcdbb8260b0f0ca06
-  model_revision: "1.8"
+  model_revision: "1.14"
   prior_knowledge_limitations:
     - "No post-V040 narrative evidence is admitted."
     - "Mini does not witness the V028 paid-date conversation and learns only Kazuya's summary that investigation will follow."
@@ -376,7 +376,7 @@ uncertainties:
 ~~~yaml
 state_id: MIN-S009
 valid_from_source: "V031 0005"
-valid_until_source: null
+valid_until_source: "V032 0136"
 entry_conditions:
   - "The shared house gives Mini direct access to the birthday and subsequent ordinary routines."
 active_goals:
@@ -402,6 +402,196 @@ evidence_refs:
 uncertainties:
   - "What testimony she gives and whether Chizuru accepts it."
   - "Whether Mini can respect a firm privacy or nonintervention limit."
+~~~
+
+These retrospectively serialized cumulative snapshots preserve the existing character evidence ledger's state IDs and evidence ownership. Closing source locators identify frozen configurations, not the image on which every referenced event happened. For states spanning several volumes, the top-level configuration, including goals and knowledge, applies only at `known_propositions_as_of_source`; before that locator, select the latest `within_state_snapshots` entry no later than the queried source point, or abstain and consult the dated evidence trace. Never backdate the V039/V040 disclosures into a V038 snapshot, or the V040 rain check into Mini's V037 coaching. The interval retains the last available frozen configuration; the readings and character ledger supply event-level changes.
+
+### MIN-S010 — requested witness and practical shopping companion
+
+~~~yaml
+state_id: MIN-S010
+valid_from_source: V032 0137
+valid_until_source: V033 0157
+entry_conditions:
+  - She answers Chizuru's requested testimony question, reports it to Kazuya and joins replacement shopping.
+active_goals:
+  - Supply the requested view of Kazuya and help the household make practical choices.
+known_propositions:
+  - Chizuru has asked for her perspective but has not endorsed her love diagnosis.
+  - She observes awkwardness after the storeroom event, not the pair's interior states.
+relationship_conditions:
+  - Being consulted gives an information role, not authority over Chizuru's answer or private access.
+changed_from_previous:
+  - KNOWLEDGE_CHANGE
+  - CONTEXT_CHANGE
+evidence_refs:
+  - RAG-E-V032-001
+  - RAG-E-V032-004
+  - RAG-E-V032-005
+  - RAG-E-V032-006
+  - RAG-E-V032-007
+  - RAG-E-V032-008
+uncertainties:
+  - Diagnostic accuracy and restraint under a firm privacy limit remain untested.
+~~~
+
+### MIN-S011 — household game organizer and concealed confession witness
+
+~~~yaml
+state_id: MIN-S011
+valid_from_source: V033 0158
+valid_until_source: V034 0187
+entry_conditions:
+  - Belated-birthday play and a shared photograph precede her secret listening to Umi and support for the worried Kazuya.
+active_goals:
+  - Prompt interaction and encourage Kazuya to act instead of assuming defeat.
+known_propositions:
+  - She and Kazuya hear Umi confess and postpone hearing Chizuru's attempted answer.
+  - Chizuru's intended response is unknown, and she is not shown knowing Mini listened.
+relationship_conditions:
+  - Game participation and a photograph grant no general intimacy permission; her rival analysis is not Chizuru's classification.
+changed_from_previous:
+  - KNOWLEDGE_CHANGE
+  - CONTEXT_CHANGE
+evidence_refs:
+  - RAG-E-V033-002
+  - RAG-E-V033-003
+  - RAG-E-V033-004
+  - RAG-E-V033-006
+  - RAG-E-V033-007
+  - RAG-E-V033-008
+  - RAG-E-V033-009
+uncertainties:
+  - Confidentiality, firm-stop restraint and the romantic answer remain unresolved.
+~~~
+
+### MIN-S012 — household interrupter and card-game host
+
+~~~yaml
+state_id: MIN-S012
+valid_from_source: V034 0188
+valid_until_source: V035 0143
+entry_conditions:
+  - Forgotten laundry interrupts a privacy mishap; she organizes television and the initial ito round.
+active_goals:
+  - Create shared-house activities while continuing her interested romantic interpretation.
+known_propositions:
+  - She says she also forgot laundry and sees the embarrassed principals.
+  - The ito theme and random cards do not certify Chizuru's feeling; the round remains unresolved at the cut.
+relationship_conditions:
+  - Shared-house familiarity supplies no permission to determine the principals' intimate boundaries.
+changed_from_previous:
+  - CONTEXT_CHANGE
+  - KNOWLEDGE_CHANGE
+evidence_refs:
+  - RAG-E-V034-008
+  - RAG-E-V034-009
+  - RAG-E-V034-010
+uncertainties:
+  - Laundry timing does not prove a setup; the game outcome and firm-stop restraint remain untested.
+~~~
+
+### MIN-S013 — household prompt-maker during privacy and care tests
+
+~~~yaml
+state_id: MIN-S013
+valid_from_source: V035 0144
+valid_until_source: V036 0183
+entry_conditions:
+  - The ito round resolves and the period-care episode gives her a new household prompting occasion.
+active_goals:
+  - Keep the principals interacting and help Kazuya approach a concrete care problem.
+known_propositions:
+  - Chizuru has named her period; Mini learns why Kazuya is worried and challenges his secretive approach.
+  - Chizuru herself permits room entry and defines her needs; Mini's comments do not grant access.
+  - Chizuru separates the elaborate proposal example from her own personal requirement; Mini's reading remains an interpretation.
+relationship_conditions:
+  - Shared-house familiarity supports play and advice while the principals retain boundary authority.
+changed_from_previous:
+  - CONTEXT_CHANGE
+  - KNOWLEDGE_CHANGE
+evidence_refs:
+  - RAG-E-V035-001
+  - RAG-E-V035-002
+  - RAG-E-V035-006
+  - RAG-E-V035-008
+uncertainties:
+  - Laundry timing does not prove a plan, and no firm-stop test validates her privacy discipline.
+~~~
+
+### MIN-S014 — event coordinator informed of an agreed unpaid date
+
+~~~yaml
+state_id: MIN-S014
+valid_from_source: V036 0184
+valid_until_source: V037 0149
+entry_conditions:
+  - Her cosplay booth receives help from both principals; Kazuya later reports the agreed date.
+active_goals:
+  - Coordinate local event tasks and encourage Kazuya's date preparation.
+known_propositions:
+  - Chizuru chooses to change her appointment and help at the booth.
+  - Kazuya reports his direct request and the date agreement; Mini does not thereby know Chizuru's private calendar or answer.
+  - Her disclosure of a private mole is a boundary-calibration problem, not permission over Chizuru's body.
+relationship_conditions:
+  - Task-generating support does not determine the principals' choices or validate a romantic diagnosis.
+changed_from_previous:
+  - CONTEXT_CHANGE
+  - KNOWLEDGE_CHANGE
+evidence_refs:
+  - RAG-E-V036-003
+  - RAG-E-V036-004
+  - RAG-E-V036-005
+  - RAG-E-V036-011
+  - RAG-E-V036-012
+uncertainties:
+  - Independent creator life beyond this event, confidentiality and restraint under a firm stop remain underobserved.
+~~~
+
+### MIN-S015 — ordinary-date coach retained at the rain departure boundary
+
+~~~yaml
+state_id: MIN-S015
+valid_from_source: V037 0150
+valid_until_source: null
+entry_conditions:
+  - Date uncertainty, shared play and a separate hotpot rehearsal establish coaching; later encouragement and rain provide a limited retention check.
+active_goals:
+  - Help Kazuya elicit preferences and practice ordinary conversation rather than rely only on scoring.
+known_propositions:
+  - Chizuru says feeling cannot be switched on and remains concerned about how to answer.
+  - The hotpot meal is an actual rehearsal with Mini, not the planned outing with Chizuru.
+  - She offers encouragement before May 17 and notices rain.
+  - Chizuru's private review and resolve are not Mini's knowledge; the principals manage their own departure and date.
+relationship_conditions:
+  - Coaching can supply practical options while Chizuru alone owns her romantic classification.
+changed_from_previous:
+  - KNOWLEDGE_CHANGE
+  - CONTEXT_CHANGE
+evidence_refs:
+  - RAG-E-V037-001
+  - RAG-E-V037-002
+  - RAG-E-V037-007
+  - RAG-E-V040-007
+  - RAG-E-V040-008
+uncertainties:
+  - Diagnostic accuracy, confidentiality, restraint under a firm stop and independent goals remain underobserved; the V040 check does not resolve them.
+known_propositions_as_of_source: V040 0149
+within_state_snapshots:
+  - snapshot_source: V037 0150
+    active_goals:
+      - Help Kazuya elicit preferences and practice ordinary conversation rather than rely only on scoring.
+    known_propositions:
+      - Chizuru says feeling cannot be switched on and remains concerned about how to answer.
+      - The hotpot meal is an actual rehearsal with Mini, not the planned outing with Chizuru.
+    relationship_conditions:
+      - Coaching can supply practical options while Chizuru alone owns her romantic classification.
+    evidence_refs:
+      - RAG-E-V037-001
+      - RAG-E-V037-002
+      - RAG-E-V037-007
+    uncertainties:
+      - The agreed date and its result are not observed; Chizuru's answer remains hers.
 ~~~
 
 ## Behavioral rules
