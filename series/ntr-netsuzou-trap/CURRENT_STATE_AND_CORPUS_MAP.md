@@ -4,14 +4,14 @@ artifact_id: NTR_CURRENT_STATE
 artifact_type: corpus_map
 series: "NTR: Netsuzou Trap / 捏造トラップ-NTR-"
 generation: NTR_BOOTSTRAP_V1
-version: "0.4"
+version: "0.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V06 individually CLOSED; four mature character triples and bounded local validation accepted; relationship and full synthesis integration pending"
+source_boundary: "Japanese manga V01–V06 individually CLOSED; complete mature character, relationship, specialist and full-series package accepted; fresh adversarial and final audits pending"
 canonical_home: series/ntr-netsuzou-trap/CURRENT_STATE_AND_CORPUS_MAP.md
 project_initialization:
   status: canonical
@@ -37,14 +37,14 @@ project_initialization:
   owner_review: APPROVED_BY_OWNER_CONTINUOUS_RUN_PROMPT_20261001
   sequential_analysis_lock: OPEN
   lock_reason: VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION
-  next_permitted_operation: MATURE_MAINLINE_INTEGRATION
+  next_permitted_operation: MATURE_PACKAGE_ADVERSARIAL_AND_FINAL_AUDITS
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V01
   terminal_boundary: V06
   committed_high_water_mark: V06
-  next_candidate_operation: MATURE_MAINLINE_INTEGRATION
+  next_candidate_operation: MATURE_PACKAGE_ADVERSARIAL_AND_FINAL_AUDITS
   confirmation_between_units: false
   run_state: active
 ---
@@ -58,7 +58,7 @@ This is the single first-read surface for `series/ntr-netsuzou-trap/` on the con
 - Primary medium: Japanese manga, numbered V01–V06 tankōbon EPUBs. Their exact identities, Drive IDs, verified local hashes, package order, and remote-hash limitation are in the [source and scope map](00%20Frameworks%20and%20Methods/NTR_SOURCE_AND_SCOPE_MAP.md). All six are structurally verified; preparation supplies no later narrative knowledge.
 - Narrative admission/complete visual inspection/individual close: **V01 169/169, V02 172/172, V03 172/172, V04 156/156, V05 170/170 and V06 170/170 images** (**1,009/1,009 inspected**). Individually closed [sequential readings](01%20Sequential%20Readings/) preserve entering states and immutable earlier forecasts. [V06 reading](01%20Sequential%20Readings/NTR_V06_DEEP_READING.md) and [mainline freeze](01%20Sequential%20Readings/NTR_V06_PROSPECTIVE_FREEZE.md) distinguish bounded report-mediated support, changed-information NDO and the first unrestrained photo-account result. All eight ledgers append V06 evidence. Present shared return, Y's interpretation of incomplete H trust, conditional cohabitation, public exposure/removal and unresolved repair remain distinct. Embedded post-return body-cover comedy is separately routed; external supplements remain unadmitted. No global capability grades are asserted.
 - Supplemental material and the television adaptation: outside the mainline source boundary; see the quarantine queue in the source map. No supplemental narrative object was acquired or admitted in this bootstrap.
-- `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; reason `VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION`. The authorized terminal boundary **V06 is individually CLOSED and the six-volume mainline FROZEN**. No later narrative source is authorized by this run. The [post-V06 architecture/role-gap audit](07%20Audits%20and%20Handoffs/NTR_POST_V06_ARCHITECTURE_ROLE_GAP_AND_INTEGRATION_AUDIT.md) was committed at `8fe1601ba53d3188848b9fa58c9b5fc14f36a15d` before mature drafting. Four character triples and bounded local reconstruction validation are now accepted below. Directional relationships, specialists, the substantial integrated thesis, fresh completed-package adversarial review, final audits and stable publication remain required; next is MATURE_MAINLINE_INTEGRATION. Neither sequential closure nor author-stage character compatibility establishes whole-task completion.
+- `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; reason `VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION`. The authorized terminal boundary **V06 is individually CLOSED and the six-volume mainline FROZEN**. No later narrative source is authorized by this run. The [post-V06 architecture/role-gap audit](07%20Audits%20and%20Handoffs/NTR_POST_V06_ARCHITECTURE_ROLE_GAP_AND_INTEGRATION_AUDIT.md) was committed at `8fe1601ba53d3188848b9fa58c9b5fc14f36a15d` before mature drafting. Four character triples, bounded local reconstruction validation, three directional dyads, the ensemble network, six specialists and the substantial full-series synthesis are now accepted below. Next is fresh completed-package adversarial review and final source/sequential/ledger/claim/coverage/repository audits, followed by stable publication. The completed draft layer does not establish whole-task completion.
 - Publication target: stable branch `series/ntr-netsuzou-trap`. Bootstrap history is preserved in the [bootstrap receipt](07%20Audits%20and%20Handoffs/NTR_BOOTSTRAP_RECEIPT.md). Git history confirms integration into `main` at `9f1aadd7`; at run start, `main` was `c0e08f7347ded1d2c70c4914319178329e6b9b8c` and the stable branch was `7bca96f3da16a6077aa24a20ca646f9d71724e79`. Ordinary merge `22df7ff2e17047afd10d17fdc0bbc4fdaa8c474b` preserved both histories; its complete tree equals that starting `main` tree. Historical receipt statements remain statements about the bootstrap transaction.
 
 ## Governing homes and retrieval order
@@ -76,7 +76,7 @@ The live project-initiation, sequential continuation, authority/supersession, re
 
 The role-gap audit at the frozen `50f7e15b331d39e4df16f9b8d62b358933bffe83` corpus boundary commissions four character triples under `04 Character Analysis/` (evidence ledger, operational model, literary monograph); three directional dyads and an ensemble network under `05 Relationship Synthesis/`; and six specialists plus one full synthesis under `06 Series Synthesis/`. Consent/repair, information/exposure, agency/material constraint, manga form, written Japanese/categories and ending causality each have independent responsibilities. Local reconstruction validation and final source/sequential/ledger/claim/coverage/adversarial/repository audits belong under `07 Audits and Handoffs/`.
 
-The character homes below are accepted; relationship and series-synthesis homes remain assigned responsibilities pending their complete reconciliation. Candidate integrity and semantic acceptance, canonical integration, fresh anti-compression review, final audit and stable publication remain distinct required stages. The eight existing ledgers retain their independent responsibilities; no duplicate current map, ninth ledger, global character output or supplement admission is authorized by this promotion.
+The character, relationship and series-synthesis homes below are accepted after complete body review and reconciliation. Candidate integrity and semantic acceptance, canonical integration, fresh anti-compression review, final audit and stable publication remain distinct required stages. The eight existing ledgers retain their independent responsibilities; no duplicate current map, ninth ledger, global character output or supplement admission is authorized by this promotion.
 
 ## Accepted local character layer
 
@@ -90,3 +90,11 @@ The character homes below are accepted; relationship and series-synthesis homes 
 The [local reconstruction validation audit](07%20Audits%20and%20Handoffs/NTR_LOCAL_RECONSTRUCTION_VALIDATION_AUDIT.md) inventories all 24 original subject/volume gates and 21 unique old rule identities, with a separate continued F-R02 test. Four-model semantic compatibility is PASS_BOUNDED at the reviewed candidate boundary. Every literal failure and NDO remains; 24 new mature PC hypotheses are POSTCORPUS_UNTESTED. Risk-range/task-scope rules have weaker discrimination than first-response rules. Native written dialogue, ordinary behavior, relationships, conflict and school/work evidence have subject-specific qualitative limits; materially novel transfer is NOT_ASSESSED/NOT_RUN. Supporting cast remains bounded. This is local reconstruction acceptance, with no global registry or capability grade authored.
 
 Current-main drift was reconciled by ordinary merge `c4dfb268925eb85ac1eee5b6114ffe67683fd23a`, importing the exact two approved character-curation outputs from `b0919c2987ed14d3b68cb2b8ab8d7009a5125915`. Those imported bytes belong to main's separate curation transaction; the NTR coordinator did not curate global characters. All NTR commissioning inputs remained identical to the role-audit tree.
+
+## Accepted relationships and integrated argument
+
+The [Yuma–Hotaru synthesis](05%20Relationship%20Synthesis/NTR_YUMA_HOTARU_RELATIONSHIP_SYNTHESIS.md) explains recognition, access and unfinished staying in both directions. The [Yuma–Takeda synthesis](05%20Relationship%20Synthesis/NTR_YUMA_TAKEDA_RELATIONSHIP_SYNTHESIS.md) separates sincerity, care and owed romance. The [Hotaru–Fujiwara synthesis](05%20Relationship%20Synthesis/NTR_HOTARU_FUJIWARA_RELATIONSHIP_SYNTHESIS.md) preserves public form, stated utility and unequal enforcement. The [ensemble and knowledge network](05%20Relationship%20Synthesis/NTR_ENSEMBLE_RELATIONSHIP_AND_KNOWLEDGE_NETWORK.md) owns audience transitions, the consequential Takeda–Fujiwara bond and subject-specific information limits.
+
+Six independent specialist arguments address [consent and repair](06%20Series%20Synthesis/NTR_CONSENT_BOUNDARIES_AND_REPAIR_SYNTHESIS.md), [information, infidelity and exposure](06%20Series%20Synthesis/NTR_INFORMATION_INFIDELITY_AND_EXPOSURE_SYNTHESIS.md), [agency and material constraint](06%20Series%20Synthesis/NTR_AGENCY_CARE_AND_MATERIAL_CONSTRAINT_SYNTHESIS.md), [manga form and recurrence](06%20Series%20Synthesis/NTR_MANGA_VISUAL_FORM_AND_MELODRAMATIC_RECURRENCE.md), [written Japanese and relationship categories](06%20Series%20Synthesis/NTR_JAPANESE_WRITTEN_VOICE_AND_RELATIONSHIP_CATEGORIES.md), and [ending causality and open futures](06%20Series%20Synthesis/NTR_ENDING_CAUSALITY_AND_OPEN_FUTURES.md). Sexual and romantic self-conception is integrated into the appropriate characters, dyads and category study rather than given an empty parallel home.
+
+The [full-series synthesis](06%20Series%20Synthesis/NTR_FULL_SERIES_SYNTHESIS.md) argues that the apparent problem of inexperienced couples becomes a problem of adequate acknowledgment: wanting, knowing and helping another person do not establish authority over their answer. Named attachment and chosen return become more secure than trust, negotiated restraint or material sustainability. It earns this argument across differentiated trajectories, actual commitments, knowledge asymmetry, local permission, written voice, changing recurrence and the ending's causal sequence. The dependency/controlling-care counterreading remains substantial. CLM-0037 explicitly promotes the retrospective argument while preserving every earlier forecast and partial revision. Fresh adversarial acceptance and final audits are still required.
