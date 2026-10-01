@@ -4,14 +4,14 @@ artifact_id: WATAYURI_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.7"
+version: "0.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V06 mainline through V06 Shift 31/i154, also latest depicted present; packaged half-chapters separately bounded; V06 Shift 31.5 does not advance the endpoint; V07–V14 inventory only"
+source_boundary: "Japanese V01–V07 mainline through V07 Shift 36/i150, also latest depicted present; packaged shorts separately bounded; V08–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_JAPANESE_SPEECH
 
 **Update and revision rule.** Update when a feature recurs, switches under meaningful conditions or contradicts a working speech model. Preserve original wording/locator and distinguish observation from claim; cross-link performance when a script appears to condition register. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V06 mainline through V06 Shift 31/i154, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5 and 31.5 remain separately bounded; V04 EX is promotional. V01–V05 sections retain their earlier states; dated V06 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V07 mainline through V07 Shift 36/i150, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1 and 36.2 remain separately bounded; V04 EX is promotional. V01–V06 sections retain their earlier states; dated V07 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -295,3 +295,41 @@ The contrast between **友だち** and **好きな人** gives the analyst firmer
 Mitsuki’s ordinary address can accompany infection concern, awkward thanks, fear, jealousy, affection, or practical guidance. Hime’s polished sister language can carry genuine gratitude in the letter and later conceal unresolved discomfort before guests. More formal speech is therefore not necessarily less truthful, and rougher speech is not necessarily the privileged authentic self. What matters is the particular relation among wording, action, audience, and the knowledge available to the recipient. [JP01/JP04/JP12.]
 
 The final employment statement is similarly consequential despite its courtesy. Hime does not need to abandon her practiced presentation for the announced boundary to be real. But its composed form also limits what the other workers can infer about the underlying private problem. Public legibility of a decision is not complete legibility of its cause. [JP14; O24.]
+
+
+<a id="v07"></a>
+## V07 — Current additions and transitions — 2026-09-30
+
+**V07 evidence key:** source-map key `V07`, Japanese witness `1xzDrNl-HlgiL5K_E0r_qp5nZiI_QdrUi`, SHA-256 `a56f8d1404a80bc1d006307371ceb8f50392cb85ccc30674fe5ab2735336f9b9`. The [frozen V07 reading](../02%20Sequential%20Readings/WATAYURI_V07_DEEP_READING.md#speech) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V07; WY1–WY6 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 36/i150. Shift 36.1/i152–157 is an intervention-period supplement, not a post-rejection scene; Shift 36.2/i158–159 is a managerial-work explainer. Afterword, profiles and edition matter at i160–168 do not advance the mainline endpoint.
+
+### Written Japanese speech, address and register
+
+These observations concern manga lettering and context. They do not describe a voice actor’s tone or infer acoustic properties from punctuation. Japanese extracts are minimal; surrounding propositions are paraphrased with locators.
+
+| ID | Speaker, audience and linguistic feature | Interpretation, comparison and limit |
+| --- | --- | --- |
+| **WY7-JP01** | Hime before staff; the leave-taking frame of **お暇いただきます**, with polite explanations at i005–009. | Courtesy makes departure socially presentable but does not make its effect small. The chapter title’s formal wording is not evidence that she has already negotiated every consequence. |
+| **WY7-JP02** | Mitsuki/Kanoko public inquiry versus private follow-up; i070–084. | Role-conditioned address and courtesy can carry genuine questions; private real-name address does not alone certify accuracy. The shift changes audience and available conduct, not the existence of feeling. |
+| **WY7-JP03** | Kanoko and Mitsuki use **告白** and **返事** in their private argument; i040–047. | The lexical distinction exposes the missing recipient action: having confessed is not having received an answer. Mitsuki’s account of wanting only to speak is tested by the subsequent reaction. |
+| **WY7-JP04** | **特別** in the rivalry and later correction; i048–051, i080–084. | The same term can support an exclusive self-description or acknowledgment of another important friendship. It does not by itself specify a romantic category or rank. |
+| **WY7-JP05** | Kanoko’s explicit, limited apology: **叩いたことは謝ります**; i083, upper-left exchange. | The apology names the hit rather than retracting every concern or granting total agreement. Its voluntary timing differs from the earlier refused demand at i065–067. Native page checked. |
+| **WY7-JP06** | Kanoko to Hime, private appeal against evasion through acting; i093–095. | This is a relationship-conditioned challenge grounded in familiarity with Hime’s presentation, not a public exposure of her private history. It asks for genuine judgment without prescribing a romantic yes. |
+| **WY7-JP07** | Hime’s retrospective interior vocabulary of liking, impossibility and performance; i097–116. | These are not words Mitsuki hears at the time. An imagined lover-role must not be reported as an actual offer or confession. |
+| **WY7-JP08** | Mai’s employee-request and mediation language; i121–128. | Procedural wording makes a concrete proposal possible without claiming full private knowledge. It distinguishes interviewing, retaining and arranging a discussion; no legal rule is inferred. |
+| **WY7-JP09** | Mitsuki challenges Hime’s familiar public-style response; i130–133. | The issue is not simply whether a sentence is grammatically polite but whether it answers the particular question. Written hesitation and clenched posture add context, not measurable vocal delivery. |
+| **WY7-JP10** | Hime’s answer: **恋愛感情じゃない**, in a statement that retains **好き**; i141, right-side close-up balloons. | The qualification is decisive: positive liking is explicitly nonromantic. Translating the entire exchange as an unqualified “I love you too” would erase the asserted distinction. Native page checked. |
+| **WY7-JP11** | Hime identifies Mitsuki’s rapid-emotional-reset assurance as **嘘よ**; i146, final balloon. | The truth/falsehood question now concerns a promise about future feeling, not the sincerity of the original love. The habitual performer can recognize another person’s defensive reassurance. |
+| **WY7-JP12** | Sumika’s **応援** and attempted appeal to Kanoko’s **幸せ**; S36.1/i156–157. | The listener and recipient do not automatically share what “support” refers to. The awkward clarification limits a generic benevolent reading without proving a concealed romantic confession. |
+| **WY7-JP13** | Profile furigana and explicit name distinction: **小柴舞／こしばまい**, **西寺寧々／にしでらねね**; i162–163; S36.2/i158. | These identify ordinary names of existing subjects. Role names remain valid in their domains. A new verified alias does not mean a character was renamed in the story at this point. |
+
+#### Hime’s language is not exhausted by the public/private binary
+
+Hime’s public refusal of Tanabe is capable of conveying a genuine no. Her private responses to Mai and Mitsuki initially avoid the relevant answer. Thus privacy does not map neatly onto truth and publicity onto lies. What changes at i141 is the specificity of the content made shared: it identifies the kind of liking she cannot reciprocate. That is more precise than classifying a whole register as authentic or false. [JP01/JP07–JP10; i085, i121–141.]
+
+#### Repetition changes the proposition being tested
+
+Across the earlier volumes, the question “does she like me?” often concerned the reality of affection beneath performance. V07 makes that question insufficient. The answer can be yes to personal liking and no to romantic reciprocity. Later, the disputed proposition changes again: not whether Mitsuki’s love was genuine, but whether she can make it disappear immediately. The analysis must track the proposition, not treat every recurrence of liking or truth vocabulary as the same solved problem. [JP03/JP04/JP10/JP11.]
+
+#### Speech models remain state-bounded
+
+Mitsuki can be blunt, hesitant, grateful, apologetic and pleading within this volume. Kanoko can be inhibited, interrogative, aggressive, reflective and voluntarily apologetic. Hime’s polished social refusal and broken private answer are both evidenced repertoires. These observations support conditional speech models keyed to audience, relationship and stakes; they do not justify a single catchphrase-based imitation or claims about stable vocal sound. [i036–084, i085–095, i129–150.]

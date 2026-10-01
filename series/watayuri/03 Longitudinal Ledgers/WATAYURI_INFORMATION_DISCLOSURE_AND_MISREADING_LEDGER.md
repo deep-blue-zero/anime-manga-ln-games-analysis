@@ -4,14 +4,14 @@ artifact_id: WATAYURI_INFORMATION_DISCLOSURE_AND_MISREADING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.7"
+version: "0.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V06 mainline through V06 Shift 31/i154, also latest depicted present; packaged half-chapters separately bounded; V06 Shift 31.5 does not advance the endpoint; V07–V14 inventory only"
+source_boundary: "Japanese V01–V07 mainline through V07 Shift 36/i150, also latest depicted present; packaged shorts separately bounded; V08–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_INFORMATION_DISCLOSURE_AND_MISREADING_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_INFORMATION_DIS
 
 **Update and revision rule.** Update when disclosure, false belief, correction or materially altered higher-order belief affects behavior. Append a new dated epistemic state; preserve what each party and reader could know at the earlier VNN. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V06 mainline through V06 Shift 31/i154, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5 and 31.5 remain separately bounded; V04 EX is promotional. V01–V05 sections retain their earlier states; dated V06 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V07 mainline through V07 Shift 36/i150, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1 and 36.2 remain separately bounded; V04 EX is promotional. V01–V06 sections retain their earlier states; dated V07 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -270,3 +270,64 @@ These V06 states continue existing identities where the proposition continues. N
 **The manager’s collective apology is not a complete history of each person’s knowledge.** Preserve the represented concealment, Sumika’s report that everyone knew, and the absence of a separately depicted earlier Nene acknowledgment. Hime’s knowledge of recovery is clear; her knowledge of Mitsuki’s initiating role in the retention plan is not. [Inherited WY5-INF04–INF06; O19.]
 
 **A real reason may be incomplete without being wholly false.** Healed injury and adequate staffing are true grounds available for Hime’s departure statement. The narrative sequence also makes private distress relevant. Calling the public explanation an outright invented lie would be less precise than recording true conditions with an undisclosed possible motive. [INF10–INF13.]
+
+
+<a id="v07"></a>
+## V07 — Current additions and transitions — 2026-09-30
+
+**V07 evidence key:** source-map key `V07`, Japanese witness `1xzDrNl-HlgiL5K_E0r_qp5nZiI_QdrUi`, SHA-256 `a56f8d1404a80bc1d006307371ceb8f50392cb85ccc30674fe5ab2735336f9b9`. The [frozen V07 reading](../02%20Sequential%20Readings/WATAYURI_V07_DEEP_READING.md#information) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V07; WY1–WY6 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 36/i150. Shift 36.1/i152–157 is an intervention-period supplement, not a post-rejection scene; Shift 36.2/i158–159 is a managerial-work explainer. Afterword, profiles and edition matter at i160–168 do not advance the mainline endpoint.
+
+### Consequential information, disclosure and misreading
+
+Preserve prior holder states. Do not duplicate an entire relationship summary where a narrower proposition owns the change.
+
+#### Material continuations of existing identities
+
+| Inherited proposition | V07 continuation | Distribution and limit |
+| --- | --- | --- |
+| **WY2-INF03 — Meaning of liking** | Hime’s nonromantic meaning is explicit first to the reader in retrospect and then to Mitsuki at i141. | Reader knowledge precedes shared HM knowledge. No reciprocal romantic status is established. O15/O21. |
+| **WY5-INF04/WY5-INF05 — Recovery and continued pretence** | Recovery remains shared; Hime now treats the retention implication as evidence of Mitsuki’s romantic investment. | No explicit Hime trust grievance, original-accident fabrication or newly verified complete retention briefing. i107; O16. |
+| **WY5-INF06 — Mitsuki’s retention/training investment** | Hime’s retrospective inference connects concealed recovery with wanting her to remain. | Preserve an inference and prior facts separately. It is not a verbatim disclosure by Mai of every actor’s earlier part. i107. |
+| **WY5-INF09/WY6-INF05 — Three-person design** | Kanoko learns that Mitsuki has and wears the matching anklet. | The design was already known to Hime/Mitsuki/reader. New recipient is Kanoko; no exclusive pair encoded by analyst. i050–051. |
+| **WY3-INF10 — Special private friendship** | Hime withholds this particular issue from Kanoko; Kanoko later affirms Mitsuki’s already important friendship. | Specialness is not complete access or a permanently exclusive status. i017–024, i080–082, i101–104. |
+| **WY4-INF05 — Hime’s romantic capacity as understood by Kanoko** | Kanoko’s general rejected-suitor model is qualified; Hime supplies a specific nonromantic answer about Mitsuki. | Do not turn particular nonreciprocity into a universal orientation or incapacity. i042–047, i080–082, i141. |
+| **WY4-INF07 — Sumika as listener** | Kanoko voluntarily invokes the route; supplementary Sumika discovers ambiguity in what support means. | Mainline use is actual; perfect understanding or a guaranteed favorable romantic outcome is not. i024, i030–034; S36.1/i152–157. |
+| **WY6-INF06 — True-feelings promise** | Mitsuki invokes it to seek a reply; Hime distinguishes genuine positive regard from romantic reciprocity. | A promise of honesty supplies no blanket contact permission or assurance of a desired answer. i131–141. |
+| **WY6-INF07/WY6-INF08 — Kiss and immediate reply** | V07 revisits their earlier occurrence through Hime’s account. | No new kiss; the earlier smile is not acceptance. Kanoko learns confession, not the depicted kiss. i097–112. |
+| **WY6-INF10 — Hime’s trouble and withholding** | Cause gains direct retrospective self-description; specific meaning is later addressed to Mitsuki. | Disclosure occurs in stages. Kanoko’s accurate suspicion does not give her the complete interior account. i097–116, i137–141. |
+| **WY6-INF11/WY6-INF13 — Continued work and retraction** | Manager responds; Hime actually ceases attending; later accepts birthday discussion. | The first yes, later no, actual absence and limited return are different events. i009–014, i121–129. |
+| **WY6-INF12 — Public liking amid private mismatch** | The private mismatch becomes explicit; public birthday performance remains unshown at the endpoint. | No unseen successful party or new public declaration is inferred. i141–150. |
+
+**Preserved without a new qualifying disclosure:** Kanoko’s old abolition proposal and exclusive-friend project are not told to Hime; her complete romantic confession is not newly addressed to Hime; the phone archive receives no blanket permission; the past Nene/Goeidō relationship receives no new mainline causal testimony; the Blumen result is not revised. The ordinary-name additions below come from a different, explicitly identified edition witness.
+
+#### New V07 proposition records
+
+| New ID | Proposition and represented evidence | Holders, conduct and open limit |
+| --- | --- | --- |
+| **WY7-INF01** | Hime’s ordinary attendance has actually ceased. i010–014. | Staff experience the absence; guests receive a cover explanation rather than its private cause. A completed formal employment status is not inferred. |
+| **WY7-INF02** | Kanoko wants to recover the Hime she saw at Liebe, not simply restore the pre-Liebe exclusive baseline. i024, i030–034. | Kanoko tells Sumika; Hime is not shown receiving the full account of this revision. Motivational change is real without being complete selflessness. |
+| **WY7-INF03** | Sumika will not collaborate in a fight and questions the purpose of intervention. i030–034. | The limit is communicated to Kanoko. Their later failure to prevent escalation is an outcome, not evidence that no limit was voiced. |
+| **WY7-INF04** | Mitsuki confessed to Hime. i040–043. | Kanoko learns from Mitsuki; she later tells Hime she knows and identifies the source at i094. Knowledge of the kiss is not transmitted by this proposition. |
+| **WY7-INF05** | Mitsuki did not initially understand the confession in terms of needing a reply. i041–047. | Kanoko hears this self-account and challenges it; later distress limits the exhaustiveness of the claim that nothing was expected. |
+| **WY7-INF06** | Kanoko and Mitsuki’s objects belong to Hime’s three-person matching choice. i050–051. | Mitsuki supplies previously missing knowledge to Kanoko. It contests exclusivity, not establishes identical attachments. |
+| **WY7-INF07** | Kanoko hit Mitsuki and later apologizes for that act. i052–054, i083. | Participants and interveners know the act; the private apology has a narrower immediate audience. No universal forgiveness or injury measurement supplied. |
+| **WY7-INF08** | Kanoko now thinks Mitsuki’s importance as a friend explains why Hime cannot easily reject her. i080–082. | Interpretation communicated to Mitsuki; substantially supported by later Hime account. It does not guarantee that friendship can resume unchanged. |
+| **WY7-INF09** | The birthday is jointly scheduled for Sunday July 30 and was arranged partly to secure Hime’s attendance. i091–093. | Hime learns the arrangement; no absolute story year or romance agreement follows. |
+| **WY7-INF10** | Hime’s own liking is nonromantic, and she considered but could not sustain pretending otherwise. i097–116. | Initially reader-only interiority; the nonromantic answer reaches Mitsuki at i141, but not every private deliberation is spoken. |
+| **WY7-INF11** | Mitsuki requested a conversation; Mai has not been told its full content. i125–126. | Mai conveys the request to Hime; Hime agrees at i128. Assent scope is the meeting. |
+| **WY7-INF12** | Hime experiences contact as unwelcome in the post-confession relation and cannot return Mitsuki’s love. i137–141. | Explicit to Mitsuki. This is not merely an analyst inference from an expression, nor a universal all-context contact rule. |
+| **WY7-INF13** | Mitsuki expects a completed rejection to remove Hime’s reason to quit. i142–143. | Hime learns and rejects the expectation. Their purposes for the conversation were not fully shared beforehand. |
+| **WY7-INF14** | Hime believes continuing love would require repeated refusal; Mitsuki promises it can disappear quickly. i144–147. | Both hear the disagreement; Hime identifies the promise as false. Actual disappearance of love is not shown. |
+| **WY7-INF15** | Hime says she will come to the salon later, then cries alone on the stairs. i149–150. | Mitsuki hears the limited promise; no one is shown witnessing Hime’s full stairwell grief. No ordinary-work retraction is supplied. |
+| **WY7-INF16** | Sumika realizes she has been presuming Kanoko’s heartbreak. S36.1/i154–157. | Reader receives interior self-recognition; Kanoko hears the awkward support declaration, not the complete internal conclusion. |
+| **WY7-INF17** | Mai’s ordinary name is Koshiba; Nene’s is Nishidera, with role aliases explicitly separated. S36.2/i158; profiles/i162–163. | Reader-level edition/source identification. No claim that characters newly learn these names in a mainline scene. |
+
+#### Four critical nontransfers
+
+**Confession knowledge is not kiss knowledge.** Kanoko’s new information is enough to motivate action but does not make her comments a fully informed judgment of every bodily event. Sumika’s awareness of a confession likewise does not make her a witness to the sickroom. [INF04/INF12.]
+
+**Hime’s interior account is not all spoken aloud.** The reader sees the contemplated lover-role, alternative explanations and fear of causing pain before Mitsuki receives the explicit answer. Some causes are later stated, but the final dialogue is not a complete transcript of the chapter’s interiority. [INF10/INF12.]
+
+**A statement can identify a real bond and still overpredict its viability.** Kanoko’s special-friend correction is better supported than the initial ordinary-suitor comparison. Mitsuki’s inference that the answer therefore restores the past is not established by it. [INF08/INF13/INF14.]
+
+**The final comfort is not a new romantic or employment answer.** The previously specified no remains in force. An invitation to the salon within the promised event exception does not supply an unspoken return to regular shifts. [INF12/INF15.]
