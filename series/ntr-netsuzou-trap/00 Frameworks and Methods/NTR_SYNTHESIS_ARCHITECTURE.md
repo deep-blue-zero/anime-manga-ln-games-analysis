@@ -4,7 +4,7 @@ artifact_id: NTR_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: "NTR: Netsuzou Trap / 捏造トラップ-NTR-"
 generation: NTR_BOOTSTRAP_V1
-status: active_provisional
+status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 
 # NTR — synthesis architecture
 
-Lifecycle: `INITIAL`; provisional pending owner audit. This defines *where* future analysis belongs, not findings about the story. The [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) is the single current-state surface; the [method](NTR_ANALYTICAL_METHOD.md) governs reading; the [source map](NTR_SOURCE_AND_SCOPE_MAP.md) governs evidence identities. Corpus-wide initiation, continuation, reasoning, topology, handoff, reconstruction, authority, and integration policies remain governing. No earlier NTR analytical generation is superseded.
+Lifecycle: `INITIAL`; owner-approved and verified on 2026-10-01. This defines *where* analysis belongs, not findings about the story. The [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) is the single current-state surface; the [method](NTR_ANALYTICAL_METHOD.md) governs reading; the [source map](NTR_SOURCE_AND_SCOPE_MAP.md) governs evidence identities. Corpus-wide initiation, continuation, reasoning, topology, handoff, reconstruction, authority, and integration policies remain governing. No earlier NTR analytical generation is superseded. The present run is explicitly bounded to Japanese numbered V01–V06; supplemental analysis is not a completion requirement for this scope.
 
 ## Topology and responsibility
 
@@ -55,7 +55,7 @@ Potential specialist questions include desire/attachment/self-recognition; conse
 1. Six individual VNN closes → V06 mainline freeze and source/locator reconciliation.
 2. Reconcile longitudinal coverage, unresolved claims, and architecture/role gaps; identify material missing evidence before commissioning specialists. A scoped provisional specialist is permissible where omissions are clearly bounded, but do not label it complete.
 3. Ground any promoted character, relationship, ethics, form, or information synthesis in the frozen mainline evidence and counterreadings. Character reconstruction is a separate behavioral validation responsibility, ordinarily after sufficient literary evidence, and does not automatically follow a monograph.
-4. Admit each verified supplement **after** mainline freeze, recording its confirmation/revision/contradiction and post-ending versus V06 distinctions; keep the anime adaptation separate unless a later scope admits comparison.
+4. If a separately authorized future operation admits a verified supplement **after** mainline freeze, record its confirmation/revision/contradiction and post-ending versus V06 distinctions; keep the anime adaptation separate unless a later scope admits comparison. The present V01–V06 run proceeds to mainline synthesis without requiring supplements.
 5. Reconcile affected specialists, claims, and chronology; then consider a full-series synthesis. Final validation/audit and explicit release freeze are separate from sequential completion, document creation, and branch publication.
 
 The entrypoint and cumulative ledgers are mutable current-state artifacts maintained by targeted updates; closed volume prospective boundaries and accepted release checkpoints retain their historical evidence state. Material architecture amendments require an entrypoint/revision note and review of affected routing. Add or merge a ledger only when recurring independent evidence or retrieval need justifies it; backfill only a material gap not recoverable from existing readings and retained witnesses. Avoid cosmetic parity with larger series.

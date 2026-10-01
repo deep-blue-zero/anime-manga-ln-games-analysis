@@ -4,8 +4,8 @@ artifact_id: NTR_CURRENT_STATE
 artifact_type: corpus_map
 series: "NTR: Netsuzou Trap / 捏造トラップ-NTR-"
 generation: NTR_BOOTSTRAP_V1
-version: "0.1"
-status: active_provisional
+version: "0.2"
+status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -14,14 +14,14 @@ created: "2026-09-28"
 source_boundary: "Japanese manga V01–V06 inventory; no narrative source admitted or inspected"
 canonical_home: series/ntr-netsuzou-trap/CURRENT_STATE_AND_CORPUS_MAP.md
 project_initialization:
-  status: active_provisional
+  status: canonical
   architecture_lifecycle: INITIAL
   bootstrap_generation: NTR_BOOTSTRAP_V1
   base_commit: 5b5166b14d2056db13c7380ac653b91c289be34f
   governing_method: "00 Frameworks and Methods/NTR_ANALYTICAL_METHOD.md"
   synthesis_architecture: "00 Frameworks and Methods/NTR_SYNTHESIS_ARCHITECTURE.md"
-  method_status: active_provisional
-  architecture_status: active_provisional
+  method_status: canonical
+  architecture_status: canonical
   source_reconnaissance_complete: true
   required_day_one_infrastructure_initialized: true
   required_day_one_infrastructure:
@@ -34,23 +34,32 @@ project_initialization:
     - "03 Longitudinal Ledgers/NTR_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md"
     - "03 Longitudinal Ledgers/NTR_CAST_AND_RECONSTRUCTION_READINESS.md"
   substantive_sequential_findings_at_bootstrap: false
-  owner_review: AWAITING_OWNER_BOOTSTRAP_AUDIT
-  sequential_analysis_lock: CLOSED
-  lock_reason: AWAITING_OWNER_BOOTSTRAP_AUDIT
-  next_permitted_operation: OWNER_AUDIT_OF_BOOTSTRAP_ARCHITECTURE
+  owner_review: APPROVED_BY_OWNER_CONTINUOUS_RUN_PROMPT_20261001
+  sequential_analysis_lock: OPEN
+  lock_reason: VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION
+  next_permitted_operation: VERIFY_ADMIT_AND_READ_V01
+sequential_execution:
+  mode: continuous_sequential
+  unit_type: volume
+  authorized_start: V01
+  terminal_boundary: V06
+  committed_high_water_mark: NONE
+  next_candidate_operation: V01
+  confirmation_between_units: false
+  run_state: active
 ---
 
 # NTR: Netsuzou Trap — current state and corpus map
 
-This is the single first-read surface for `series/ntr-netsuzou-trap/` on the continuing `series/ntr-netsuzou-trap` branch. Git is the analytical plane; the NTR Drive folder ID `1jJBFGXROchjVNUeuy4oXRi3PDHCTCF4H` within evidence root ID `1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy` holds the primary witnesses and provenance records. This is an **owner-audit candidate**, not an approved architecture or a narrative analysis.
+This is the single first-read surface for `series/ntr-netsuzou-trap/` on the continuing `series/ntr-netsuzou-trap` branch. Git is the analytical plane; the NTR Drive folder ID `1jJBFGXROchjVNUeuy4oXRi3PDHCTCF4H` within evidence root ID `1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy` holds the primary witnesses and provenance records. The owner approved the bootstrap foundation and the bounded V01–V06 continuous run on 2026-10-01. The [foundation and authorization audit](07%20Audits%20and%20Handoffs/NTR_CONTINUOUS_RUN_AUTHORIZATION_AND_FOUNDATION_AUDIT.md) records verification and the operational boundary; approval does not establish narrative findings.
 
 ## Current boundary
 
 - Primary medium and proposed continuity: Japanese manga, numbered V01–V06 tankōbon EPUBs. Their identities, Drive IDs, sizes, local-source hashes, edition evidence, and limits are in the [source and scope map](00%20Frameworks%20and%20Methods/NTR_SOURCE_AND_SCOPE_MAP.md). Six numbered files are visible; completeness of the published mainline has not been independently established by story inspection.
 - Narrative admission: **none**. Narrative inspection: **none**. Completed sequential boundary: **none**. No character, personality, relationship, consent, or plot finding exists yet.
 - Supplemental material and the television adaptation: outside the mainline source boundary; see the quarantine queue in the source map. No supplemental narrative object was acquired or admitted in this bootstrap.
-- `SEQUENTIAL_ANALYSIS_LOCK = CLOSED`; reason `AWAITING_OWNER_BOOTSTRAP_AUDIT`. Repository validation does not unlock it. The **next permitted operation is owner audit of this foundation**. V01 requires a subsequent explicit owner approval and authorization to open the lock.
-- Publication target: stable branch `series/ntr-netsuzou-trap`, initially based on `main` commit `5b5166b14d2056db13c7380ac653b91c289be34f`. Before publication, the intervening `main` commit `dd26bfd6054e6b219797f65b02ada4a69a8bcba7` was incorporated without changing the NTR authored files. Branch-head and audit results belong in the [bootstrap receipt](07%20Audits%20and%20Handoffs/NTR_BOOTSTRAP_RECEIPT.md). This bootstrap is not merged into `main`.
+- `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; reason `VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION`. All eight day-one instruments and the paired method/architecture are verified. The authorized terminal boundary is **V06**, with a validated recoverable close after each volume. Next: exact V01 source admission and complete visual reading.
+- Publication target: stable branch `series/ntr-netsuzou-trap`. Bootstrap history is preserved in the [bootstrap receipt](07%20Audits%20and%20Handoffs/NTR_BOOTSTRAP_RECEIPT.md). Git history confirms integration into `main` at `9f1aadd7`; at run start, `main` was `c0e08f7347ded1d2c70c4914319178329e6b9b8c` and the stable branch was `7bca96f3da16a6077aa24a20ca646f9d71724e79`. Ordinary merge `22df7ff2e17047afd10d17fdc0bbc4fdaa8c474b` preserved both histories; its complete tree equals that starting `main` tree. Historical receipt statements remain statements about the bootstrap transaction.
 
 ## Governing homes and retrieval order
 
@@ -58,7 +67,7 @@ This is the single first-read surface for `series/ntr-netsuzou-trap/` on the con
 2. [Analytical method](00%20Frameworks%20and%20Methods/NTR_ANALYTICAL_METHOD.md) for prospective reading, consent and knowledge distinctions, locators, and volume closeout.
 3. [Synthesis architecture](00%20Frameworks%20and%20Methods/NTR_SYNTHESIS_ARCHITECTURE.md) for cumulative responsibilities, artifact promotion, supplements, and completion gates.
 4. [Character reconstruction specification](00%20Frameworks%20and%20Methods/NTR_CHARACTER_RECONSTRUCTION_SPEC.md) only when future evidence supports modeling.
-5. The eight [longitudinal instruments](03%20Longitudinal%20Ledgers/) contain schemas and **zero evidence rows**. Consult the specific home before a future authorized update.
-6. For an eventual authorized VNN operation, retrieve only that exact admitted Japanese witness, confirm its locator convention, and close the single volume transaction. Neither a visible next volume nor an OPEN lock alone grants a continuous run.
+5. The eight [longitudinal instruments](03%20Longitudinal%20Ledgers/) currently contain schemas and **zero evidence rows**. Consult the specific home before updating it.
+6. For each authorized VNN operation, admit only that exact Japanese witness, confirm its locator convention, and close the complete volume transaction before advancing. Structural preparation of later volumes supplies no narrative knowledge. The explicit owner prompt authorizes continuous execution through V06.
 
-The live project-initiation, sequential continuation, authority/supersession, reasoning, topology, handoff, reconstruction, and integration policies in `governance/` and `characters/` govern the future operation. No source page or dialogue was read during this bootstrap.
+The live project-initiation, sequential continuation, authority/supersession, reasoning, topology, handoff, reconstruction, and integration policies in `governance/` and `characters/` govern execution. No source page or dialogue was read during the September bootstrap or the foundation-verification stage.
