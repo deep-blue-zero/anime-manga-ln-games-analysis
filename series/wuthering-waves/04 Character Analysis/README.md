@@ -15,14 +15,16 @@ do_not_use_as_current_authority: false
 
 Read `../00 Frameworks and Methods/WUWA_CHARACTER_FOLDER_CONTRACT.md` before creating or splitting a character package.
 
+This directory contains 18 character reconstruction packets: six owner-adopted current packets and twelve published noncurrent drafts. All 18 also have individualized visual-design profiles. The lists below cover the assembled packets, not the game's complete playable roster.
+
 Owner-adopted current reconstruction packets:
 
-- `Cartethyia/` — imported V0.2 active-provisional analytical baseline plus an owner-adopted current provisional pre-AV rebuild; the older ordinary-life profile is archived under her legacy folder at the owner's request.
-- `Chisa/` — twelve-document pre-AV rebuild V0.1; owner-adopted current `active_provisional` authority; scene audiovisual analysis pending.
-- `Lynae/` — nine-document pre-AV V0.1 reconstruction packet; `active_provisional`, scene audiovisual analysis pending.
-- `Aemeath/` — 11-document pre-AV V0.1 reconstruction packet; `active_provisional`, scene audiovisual analysis pending.
-- `Denia/` — 11-document pre-AV V0.1 reconstruction packet; `active_provisional`, scene audiovisual analysis pending.
-- `Sigrika/` — fourteen-document V0.2 reconstruction with a compiled model and completed machine-audio pass; owner-adopted current `active_provisional` authority; scene audiovisual and human-listening analysis pending.
+- [Cartethyia](Cartethyia/WUWA_CARTETHYIA_CURRENT_STATE.md) — imported V0.2 active-provisional analytical baseline plus an owner-adopted current provisional pre-AV rebuild; the older ordinary-life profile is archived under her legacy folder at the owner's request.
+- [Chisa](Chisa/WUWA_CHISA_CURRENT_STATE.md) — twelve-document pre-AV rebuild V0.1; owner-adopted current `active_provisional` authority; scene audiovisual analysis pending.
+- [Lynae](Lynae/WUWA_LYNAE_CURRENT_STATE.md) — nine-document pre-AV V0.1 reconstruction packet; `active_provisional`, scene audiovisual analysis pending.
+- [Aemeath](Aemeath/WUWA_AEMEATH_CURRENT_STATE.md) — 11-document pre-AV V0.1 reconstruction packet; `active_provisional`, scene audiovisual analysis pending.
+- [Denia](Denia/WUWA_DENIA_CURRENT_STATE.md) — 11-document pre-AV V0.1 reconstruction packet; `active_provisional`, scene audiovisual analysis pending.
+- [Sigrika](Sigrika/WUWA_SIGRIKA_CURRENT_STATE.md) — fourteen-document V0.2 reconstruction with a compiled model and completed machine-audio pass; owner-adopted current `active_provisional` authority; scene audiovisual and human-listening analysis pending.
 
 Published reconstruction drafts, pending owner review:
 
