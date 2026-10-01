@@ -4,14 +4,14 @@ artifact_id: WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.7"
+version: "0.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V06 mainline through V06 Shift 31/i154, also latest depicted present; packaged half-chapters separately bounded; V06 Shift 31.5 does not advance the endpoint; V07–V14 inventory only"
+source_boundary: "Japanese V01–V07 mainline through V07 Shift 36/i150, also latest depicted present; packaged shorts separately bounded; V08–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AND_PERFORMANCE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_PERSONA_ROLE_AN
 
 **Update and revision rule.** Update on a script change, explicit audience shift, recurring role/private leakage or consequential role-mediated change in relationship. Keep role adoption and private effect separately time-indexed. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V06 mainline through V06 Shift 31/i154, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5 and 31.5 remain separately bounded; V04 EX is promotional. V01–V05 sections retain their earlier states; dated V06 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V07 mainline through V07 Shift 36/i150, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1 and 36.2 remain separately bounded; V04 EX is promotional. V01–V06 sections retain their earlier states; dated V07 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -172,3 +172,31 @@ These records preserve actor, setting, audience, script, leakage, and supported 
 | **WY6-PER13** | Hime, post-work staff meeting | Polite, composed correction announces a major withdrawal using true staffing facts | Calm delivery is not proof of no distress; exact private explanation is withheld. O24; i153–154 |
 
 The V06 development is not the abandonment of masks but a more demanding account of what a form can contain. The letter shows that role-address can make a personal statement possible. The kiss shows that an act sincerely expressing the self can exceed what another person agreed to. The Sunday salon shows that the same exchange can hold genuine liking for one person and protective or uncertain performance for the other. No single front/backstage rule can replace those separate observations. [PER05/PER06/PER09/PER11.]
+
+
+<a id="v07"></a>
+## V07 — Current additions and transitions — 2026-09-30
+
+**V07 evidence key:** source-map key `V07`, Japanese witness `1xzDrNl-HlgiL5K_E0r_qp5nZiI_QdrUi`, SHA-256 `a56f8d1404a80bc1d006307371ceb8f50392cb85ccc30674fe5ab2735336f9b9`. The [frozen V07 reading](../02%20Sequential%20Readings/WATAYURI_V07_DEEP_READING.md#performance) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V07; WY1–WY6 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 36/i150. Shift 36.1/i152–157 is an intervention-period supplement, not a post-rejection scene; Shift 36.2/i158–159 is a managerial-work explainer. Afterword, profiles and edition matter at i160–168 do not advance the mainline endpoint.
+
+### Persona, role and performance increments
+
+The controlling question is what a performance does for its actor and audience, not whether it is globally real or fake.
+
+| Record | Actor, setting and audience | Mechanism, consequence and limit |
+| --- | --- | --- |
+| **WY7-PER01** | Hime, resignation before staff; i005–009 | Polite administrative explanation uses true recovery facts to avoid private content. It is not a wholly invented excuse, but its completeness is challenged by the sequence and later self-account. |
+| **WY7-PER02** | Hime absent; remaining cast and guests; i010–016 | The Shirasagi role is missing while the café continues. Labor can be redistributed without the relationship being replaceable in the same sense. |
+| **WY7-PER03** | Hime with Kanoko at school/messages; i017–024 | Reassurance and normality prevent a particular confidante exchange. Recognizing a façade does not ensure access beneath it. |
+| **WY7-PER04** | Sumika arranging private salon discussion; i027–029 | A performance space is repurposed through monitor shutdown and exclusion of observers. Institutional visibility is locally limited; the act does not guarantee inaudibility after escalation. |
+| **WY7-PER05** | Mai before guests; i069 | School-busyness explanation preserves the fiction during Hime’s absence. Distinguish this V07 explanation from the corrected V06 injury-related explanation and from the private romantic cause. |
+| **WY7-PER06** | Mitsuki and Kanoko before guests; i070–075 | In-role inquiry enables truthful description, recognition and gratitude. The shared scene succeeds without revealing the private confession or settling all rivalry. Audience pressure remains an alternative contribution to cooperation. |
+| **WY7-PER07** | Hime refusing Tanabe; i085–091 | Practiced grace can express a real no while trying to preserve normality. The failed promise of ordinary friendship exposes limits of controlling reception through presentation. |
+| **WY7-PER08** | Hime’s retrospective interiority; i108–116 | A lover-role is contemplated and rejected. It is a strategy considered, not a relationship entered. Personal liking cannot make every enactment tolerable or truthful. |
+| **WY7-PER09** | Hime and Mai at a neutral café; i121–128 | No sister script determines the response, but ordinary politeness still structures evasion. Leaving the salon does not automatically produce candor. |
+| **WY7-PER10** | Hime and Mitsuki in staffroom; i129–141 | Mitsuki identifies Hime’s public register. Gradual breakdown of composed reassurance leads to a concrete nonromantic answer; tears alone would not have supplied its exact category. |
+| **WY7-PER11** | Mitsuki after rejection; i142–147 | The ordinarily direct character offers an ungrounded promise that love can disappear quickly. Hime recognizes its mismatch with the visible feeling. Honesty and defensive performance cannot be permanently assigned to separate people. |
+| **WY7-PER12** | Sumika’s supplementary support language; S36.1/i152–157 | The listener-role risks presupposing the heartbreak it expects to console. Availability, desired usefulness and the recipient’s actual topic diverge. |
+| **WY7-PER13** | Mai’s work explainer and profile; S36.2/i158–159, profiles/i162 | Ordinary Koshiba identity, mascot-like Mikoshiba role, practical management and stated autonomy policy are distinguished. Self-description is evidence of framing, not universal validation of conduct. |
+
+Three contrasts deserve preservation beyond this volume. First, **offstage is not the same as unperformed**: Hime’s most effective evasion can occur in a neutral café or private room. Second, **in-role is not the same as insincere**: Mitsuki’s public question opens a real line of understanding. Third, **clarification is not the same as emotional resolution**: the final answer is more explicit than the preceding performance, yet it does not accomplish a painless return. [PER06/PER09/PER10/PER11.]

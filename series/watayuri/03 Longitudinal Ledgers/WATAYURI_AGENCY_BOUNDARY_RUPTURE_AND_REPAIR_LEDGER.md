@@ -4,14 +4,14 @@ artifact_id: WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.7"
+version: "0.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V06 mainline through V06 Shift 31/i154, also latest depicted present; packaged half-chapters separately bounded; V06 Shift 31.5 does not advance the endpoint; V07–V14 inventory only"
+source_boundary: "Japanese V01–V07 mainline through V07 Shift 36/i150, also latest depicted present; packaged shorts separately bounded; V08–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY
 
 **Update and revision rule.** Update when choices or boundary/repair trajectory materially change. Do not close a rupture merely because an apology occurred. Link later behavior as a dated continuation and retain the earlier prospective assessment. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V06 mainline through V06 Shift 31/i154, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5 and 31.5 remain separately bounded; V04 EX is promotional. V01–V05 sections retain their earlier states; dated V06 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V07 mainline through V07 Shift 36/i150, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1 and 36.2 remain separately bounded; V04 EX is promotional. V01–V06 sections retain their earlier states; dated V07 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -227,3 +227,46 @@ The early confrontation places a cost on Mitsuki’s ability to withdraw. Hime�
 Hime can now appeal to the original temporary-work condition because recovery is acknowledged. She also changes her answer after initially accepting continued work. The agency claim is that she announces a different boundary; the source does not yet establish whether it can be carried out, whether she will give a fuller reason, or how the others will respond. Her offer to return for the birthday event prevents treating the statement as an unequivocal ban on every future contact. [AG15/AG17; O24.]
 
 No legal judgment about employment, a medical assessment, or a diagnostic explanation is needed to preserve these distinctions. The actual narrative supplies the relevant choices and missing outcomes.
+
+
+<a id="v07"></a>
+## V07 — Current additions and transitions — 2026-09-30
+
+**V07 evidence key:** source-map key `V07`, Japanese witness `1xzDrNl-HlgiL5K_E0r_qp5nZiI_QdrUi`, SHA-256 `a56f8d1404a80bc1d006307371ceb8f50392cb85ccc30674fe5ab2735336f9b9`. The [frozen V07 reading](../02%20Sequential%20Readings/WATAYURI_V07_DEEP_READING.md#agency) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V07; WY1–WY6 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 36/i150. Shift 36.1/i152–157 is an intervention-period supplement, not a post-rejection scene; Shift 36.2/i158–159 is a managerial-work explainer. Afterword, profiles and edition matter at i160–168 do not advance the mainline endpoint.
+
+### Agency, boundaries, rupture and repair
+
+The unit of this ledger is an act or feasible option, not a global moral label. Emotional intensity does not erase other participants’ choices. Apologies and subsequent behavior receive separate locators.
+
+| ID | Concrete act, option and constraint | Consequence, repair and qualification |
+| --- | --- | --- |
+| **WY7-AG01** | Hime retracts continued work; staff can question but her ordinary attendance ceases. i005–014. | Her no has practical effect. This does not make her incomplete explanation complete or prevent others from experiencing loss. |
+| **WY7-AG02** | Mai postpones public announcement and permits possible reconsideration. i009. | A changed answer is acknowledged without the old concealed-injury lever being reinstated. Final administrative status is not supplied. |
+| **WY7-AG03** | Kanoko asks Hime directly, offers help, receives denial and then chooses another listener. i017–024. | The route to Sumika follows an actual failed opportunity; it is not inferred from mere silence. |
+| **WY7-AG04** | Sumika refuses collaboration in a fight and asks what the help is for. i030–034. | A limit is explicit, but later organization still fails to prevent aggression. Intent and outcome remain separate. |
+| **WY7-AG05** | Sumika switches off the monitor and excludes observers. i027–029. | Privacy is actively supported. The later loud escalation requires intervention without making all earlier speech common knowledge. |
+| **WY7-AG06** | Kanoko pressures Mitsuki to disclose and then demands a rejection-based solution. i036–047. | The interrogation yields information while narrowing the options prematurely. Hime has not authorized Kanoko to supply her whole answer. |
+| **WY7-AG07** | Kanoko hits Mitsuki; Sumika restrains and removes her; Mai tends to the aftermath. i052–055. | Immediate harm and containment, not successful mediation. No justification inferred from protectiveness. |
+| **WY7-AG08** | Mitsuki accepts ordinary classmates’ offer to listen to a partial account. i058–064. | An external support opportunity is actually used. Advice is not a mandate or guarantee of success. |
+| **WY7-AG09** | Sumika demands apology; Kanoko refuses; Sumika acknowledges her own angry tone. i065–067. | Accountability is requested but not yet attained; pressure does not count as consent to an apology. |
+| **WY7-AG10** | Mitsuki asks Kanoko for her account of Hime through the public role, then follows up privately. i070–079. | Cooperation and new recognition develop. The audience assists and constrains; do not label the setting unconditionally free of pressure. |
+| **WY7-AG11** | Kanoko corrects her interpretation, affirms Mitsuki’s importance and voluntarily apologizes for the hit. i080–084. | Specific local repair with uptake. No promise that rivalry or future aggression risk has vanished. |
+| **WY7-AG12** | Hime refuses Tanabe; both promise normal friendship; he subsequently avoids her. i085–091. | A sincere negative answer and failed relational continuity coexist. Hime’s generalization is not verified for every case. |
+| **WY7-AG13** | Joint birthday arrangements help secure Hime’s presence; Kanoko asks her to decide sincerely. i091–095. | Social obligation creates leverage, but not a romantic yes. Actual future participation remains separate from agreeing to attend. |
+| **WY7-AG14** | Hime considers acting as a lover and rejects that strategy in retrospect. i108–116. | An alternative is evaluated, not enacted. Genuine liking does not obligate false reciprocation. |
+| **WY7-AG15** | Mai offers mediation and conveys Mitsuki’s request; Hime agrees to talk. i121–128. | Concrete consent to a meeting, with organizational and birthday pressures visible. Consent does not extend automatically to touch or retention. |
+| **WY7-AG16** | Mitsuki apologizes for the one-sided confession and repeatedly asks for an explicit reply; Hime resists and is distressed. i129–140. | The request finally yields clarity through a pressured exchange. It is not evidence of a universal right to a reply on demand. No separately specified kiss apology is invented. |
+| **WY7-AG17** | Hime states nonromantic liking and unwelcome contact meaning; Mitsuki receives the answer but proposes a reset. i137–144. | A clear boundary is communicated. Subsequent negotiation must address its consequences rather than erase it through prior kindness. |
+| **WY7-AG18** | Mitsuki promises immediate emotional change; Hime rejects the premise of painless return. i144–147. | A promise is not performance of its condition. Work return remains unagreed. |
+| **WY7-AG19** | Mitsuki clings while crying; Hime offers small comfort and a later-salon intention, then withdraws to the stairs. i148–150. | A situated comforting act is not blanket contact permission or reversal of the romantic no. The event’s completion is unshown. |
+| **WY7-AG20** | Sumika revises her own assumed support role in the short; Mai describes managerial tasks and staff initiative in another. S36.1/i154–157; S36.2/i158–159. | Different supplementary acts and self-descriptions. Neither supplies a post-ending repair or proves every management practice matches its stated policy. |
+
+#### Why the harm/repair sequence cannot be compressed
+
+The MK sequence contains a private interrogation, a blow, an imposed apology opportunity that fails, public cooperation, private correction and a self-offered apology. Removing the blow makes the later repair too easy; treating the blow as the whole relation makes the correction impossible to see. The exact achievement is a new capacity to speak and work together around Hime without denying that the prior intervention failed. [AG06–AG11.]
+
+The HM sequence likewise contains more than a binary choice between communication and avoidance. Hime chooses an absence, accepts a limited conversation, struggles to answer, gives a genuine no, and resists the inference that the no restores prior conditions. Mitsuki apologizes, asks, listens to the categorical answer and then shows how difficult it is to accept its practical implications. A single “reconciled” or “broken” field would lose the mechanism the volume makes visible. [AG01/AG15–AG19.]
+
+#### Agency is not possession of a painless option
+
+Hime’s right not to reciprocate does not provide a way to make Mitsuki feel unhurt. Mitsuki’s ability to ask does not provide control over the answer or the other person’s continued work. Kanoko’s concern does not authorize force, and Sumika’s sincere support does not eliminate her own assumptions. This is an interpretation of the depicted options and costs, not a claim that every participant has equal responsibility for every injury. [i052–054, i137–150; S36.1/i154–157.]
