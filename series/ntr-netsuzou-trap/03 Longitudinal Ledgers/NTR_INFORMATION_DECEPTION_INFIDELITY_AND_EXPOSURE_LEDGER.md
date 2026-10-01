@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V04; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V05; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_INFORMATION_DECEPTION_INFIDELITY_AND_EXPOSURE_LEDGER.md
 ---
 
@@ -121,3 +121,35 @@ Fujiwara reports Takeda’s illness/concern, prescribes telling him that she lik
 ### INF-0021 — Computer copy and tentative exposure intent do not show dispatch
 
 Fujiwara is alone with a laptop displaying the retained girls’ photograph S0145–0146 and considers dropping a bomb. Access on his own computer is now observed, beyond the earlier brother display. Tentative exposure intention does not show sending, upload, a named recipient, audience receipt or completed release. Girls’ knowledge of the copy and Takeda’s knowledge of the photo are not shown. Takeda coughing in bed S0145 corroborates illness, without a precise medical diagnosis. No source-backed forecast that publication will occur follows from this thought alone. Links REL-0023,AGY-0019,VIS-0023,CLM-0020; dissemination response UNMODELED.
+
+## V05 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V05/SNNNN/I01` unless a volume is specified.
+
+### INF-0022 — Survey secrecy, truthful reminder cover and publicly unchosen future
+
+The teacher asks a reminder S0019; Yuma reaches for future/moving information S0020; Hotaru catches her and invokes privacy S0021–0022. Yuma's true reminder account omits the private purpose. The blank-paper display S0023–0024 grants a later look, not prior inspection permission or an actual future choice. Her knowledge via Fujiwara/magazine S0025 remains inward. Hotaru reports living alone S0044 and imagines sharing S0045 but dodges why S0087. Links REL-0024/0025, AGY-0020, JPS-0018, VIS-0024.
+
+### INF-0023 — Reader, girls and Takeda hold different workplace/phone accounts
+
+Takeda sees workers/customer after following S0050–0056 and misattributes Yuma's presence to employment/coercion. Fujiwara's sort-of-girl judgment S0069 is rejected S0070. Reader-visible waiting and home initiative S0060–0068 differ from that rescue account. Yuma later hears reassurance/declined visit S0074–0075 while the reader sees restraint S0076. Being unwell is not independently confirmed; concealment is inferred. Links REL-0027/0028, CON-0027/0029, VIS-0025, CLM-0019/R-V05.
+
+### INF-0024 — Truth-offer language functions as guilt/disclosure pressure
+
+Fujiwara cites worry/grades S0092; Yuma admits earlier harm but contests present leading-on S0093–0094; he asks ホントのこと教えてやってもいい S0095. Poor mock performance is shown, while his total account of motives is testimony. Her inability to counter supports disclosure-pressure analysis, without an access price or completed Takeda disclosure. The later question cannot replace first F-R03 opportunity S0076. Links REL-0026/0029, AGY-0024, JPS-0023, CLM-0020/R-V05.
+
+### INF-0025 — Public no-beloved claim and private temporariness diverge
+
+The tutor couple's public/parental disclosure S0102–0103 prompts Yuma's visibility concern S0106. She calls Takeda a friend S0104, denies another beloved S0105 despite private Hotaru recognition, and names friend roomsharing S0108. Hotaru's 今だけ aside S0100 may be a faint mutter; Yuma asks S0101 but does not acknowledge its content. Public cover and private qualification do not settle mutual definition. Links REL-0025/0030, JPS-0020/0021, VIS-0026, CLM-0021/R-V05/0027.
+
+### INF-0026 — Pregnancy and paternity remain source-attributed reports
+
+Hotaru's hospital/missed-period/妊娠しちゃったかも S0110–0112 is uncertain report. Classmate comments and imagined marriage S0120–0121 are not confirmation. Fujiwara's 知らねえ and conditional not-necessarily-mine S0122–0124 prove neither actual ignorance nor other partners. Hotaru sees worried texts S0125–0126, is absent two school days S0127 and says デキてなかったよ S0129, without a shown test/result. Category fear drives action regardless of objective pregnancy. Links REL-0028, CON-0029, JPS-0022/0023, VIS-0026, CLM-0006/R-V05.
+
+### INF-0027 — Explicit recipient reaches Hotaru; apology cause does not reach Takeda
+
+Yuma names Hotaru with a hedge S0142; Hotaru's 気づいてたけど reports noticing without dated onset. The no-count/レズ language S0143 is her defense, not Yuma's identity. Yuma's private rejection/two-timing S0147 and Takeda comparison S0148 do not reach him through the apology S0149. He asks, comforts and renews the bid S0150–0153. No fountain overhearing, restored couple, mutual girls' romance or full-secret knowledge is shown. Links REL-0024–0027, JPS-0022, CON-0030, CLM-0023–0025/0027.
+
+### INF-0028 — Actual peer audience established; sender and full reach unshown
+
+Fujiwara's watching S0153–0154 precedes school/peer screens S0155–0156, where the retained-origin photograph has a real audience. His role is a strong INFERENCE from prior possession and adjacency; no dispatch, service, initial sender, chain, time or total reach is shown. Takeda receipt and explicit Hotaru screen recognition are not established. The image is not the full consent history or a couple contract. Publication was explicitly UNMODELED by private access-demand prediction. Links CON-0031, VIS-0027, REL-0029, CLM-0028.

@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V04; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V05; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER.md
 ---
 
@@ -105,3 +105,31 @@ Hotaru’sあったらこんなことしないかもね S0031 retains conditiona
 ### JPS-0017 — Practice request and yes alter agency without truthful recipient disclosure
 
 Yuma corrects Takeda-as-friend/breakup S0135, starts naming whom she now likes but stops, and refusesヤダ/言わない S0137. Cooperation question S0138,まだ練習させてよ S0139 and unnamed-person future S0140 conceal the recipient; private inability-to-hold-Hotaru thought is not spoken. Hotaru’sいいよ S0141 is affirmative acceptance/embrace. Current private好きな人できたけど言えないよ/ごめんね蛍 S0144 explains concealment, not a completed confession. Familiar practice language now belongs to a recognized romantic pursuer, while actual request/answer has local permission force. Links CON-0023,INF-0019,REL-0018/0019,VIS-0022,CLM-0017/0018/0021/0022.
+
+## V05 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V05/SNNNN/I01` unless a volume is specified.
+
+### JPS-0018 — Privacy, old practice quotation and an unassigned affect box
+
+Hotaru's privacy claim S0022 and only-Yuma display S0023 grant bounded viewing; Yuma's teacher account is true but incomplete. 由真ちゃんが言ったんじゃない/練習させて S0026 quotes prior words over a present location 駄目, not a fresh offer or assent. Familiar 由真ちゃん S0032 is not romance naming; isolated やばい has no secure speaker. Links CON-0025, INF-0022, VIS-0024, CLM-0017/0018 R-V05. Grammar identifies who supplies the prediction antecedent.
+
+### JPS-0019 — Local assent, conditional domestic future and novelty of newlywed play
+
+ちょっとだけうちに寄ってかない S0060 invites a visit; いいよ S0067 is local affirmative response after Yuma initiative. Neither line names Hotaru's romantic wish or a fresh unnamed-other practice request. Mother's 受かったらね S0073 conditions housing; 新婚みたい S0085 imagines domestic intimacy without agreeing marriage/couple status. Links CON-0026, REL-0030, AGY-0022, VIS-0025/0026.
+
+### JPS-0020 — Friend vocabulary makes public attachments legible and incomplete
+
+普通に友だち…かな S0104 describes Takeda; いないよ S0105 denies another beloved despite private Hotaru recognition. 親友 in roomsharing S0108 makes the future publicly legible. Tutor disclosure S0102–0103 prompts family/friend acknowledgment concern S0106. Familiar 由真ちゃん persists through intimacy/denial without guaranteeing unchanged meaning. Links REL-0026/0030, INF-0025, VIS-0026, CLM-0021/R-V05/0027. No external orientation vocabulary is adopted.
+
+### JPS-0021 — Temporally limited Hotaru aside is not narrator-certified future
+
+…こんなの今だけだもん S0100 belongs to Hotaru's subdued self-address; Yuma's え/何か言った S0100–0101 permits a faint mutter and Hotaru denies speaking. Call it inward or faintly murmured; scope of “this” and the future plan are OPEN, and Yuma does not acknowledge the content. ダメ S0097 and the real pause S0098 remain act-specific. Links REL-0025, CON-0028, INF-0025, VIS-0026. It is no narrator-certified prophecy.
+
+### JPS-0022 — Hedged recipient naming meets a categorical exemption
+
+あたしが蛍を好きかもしれない S0142 names Hotaru while hedging; 気づいてたけど reports noticing without onset or own wish. 女の子同士/ノーカン and 由真ちゃんってレズだったの S0143 dismiss/classify from Hotaru's position, not Yuma's orientation adoption or authorial truth. 由真ちゃんとじゃデキないでしょ S0116 makes a reproductive comparison; デキてなかったよ S0129 is a negative report without a medical document. Links REL-0024/0025, INF-0026/0027, CLM-0024/0027.
+
+### JPS-0023 — Fujiwara truth-offer and responsibility denial retain their speakers
+
+Fujiwara's お前が思ってたような女じゃなかった S0069 concerns Yuma's sort of person, not the beloved's gender, and Takeda rejects it. ホントのこと教えてやってもいい S0095 is a truth offer functioning as guilt pressure, without an access price. 知らねえ S0122 and 妊娠してたからって俺のせいとは限んねえし S0124 retain ignorance/conditional-responsibility attribution. Hostile/benefactive language does not certify truth. Links INF-0023/0024/0026, REL-0029, CON-0029, CLM-0026.

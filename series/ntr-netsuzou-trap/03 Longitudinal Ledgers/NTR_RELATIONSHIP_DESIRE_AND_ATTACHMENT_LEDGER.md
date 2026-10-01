@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V04; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V05; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_RELATIONSHIP_DESIRE_AND_ATTACHMENT_LEDGER.md
 ---
 
@@ -129,3 +129,35 @@ Newly read pre-mainline dating montage S0021–0031: H breakup with unnamed boy/
 ### REL-0023 — Fujiwara → girls/Takeda: selective truth, imposed labels and possible exposure
 
 F frames silence toward T as favor S0019–0020 but no explicit new access-for-silence demand. Learns T actual infirmary suspicion S0034–0036, refuses specific information S0118 despite T question. Confronts Y with T concern and women-only identity/camouflage accusation S0123–0124; her denied intention and private recognition of parts of account distinguish factual insight from asserted total motive. Retained photo on laptop/tentative bomb intent S0145–0146 no actual send/audience. Medical-faculty A forecast S0044 T testimony, not career attainment. Links INF-0017/0020/0021,AGY-0019,CLM-0014/R-V04/0020; sparse complete motive remains OPEN.
+
+## V05 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V05/SNNNN/I01` unless a volume is specified.
+
+### REL-0024 — Yuma → Hotaru: initiative precedes a named but unreciprocated definition
+
+Yuma knows she desires Hotaru, yet remains uncertain what relationship she wants S0017–0018. Survey pursuit S0020, her reactive classroom kiss S0030 and invited-home initiative S0061 are actual agency. Inward practice reasoning S0064 is not a new spoken offer. Matching necklaces, shared-home imagination and newlywed play S0039/0045–0047/0085–0088 suggest attachment without an agreed couple. She names Hotaru with a hedge S0142, meets the no-count defense S0143 and slaps her S0144. Rejection/two-timing S0147 is Yuma's interpretation, not settled Hotaru intention or previously agreed exclusivity. Links CON-0025/0026/0030, INF-0022/0027, AGY-0020/0023, CLM-0017/R-V05/0023. New initiative repairs neither the missing forecast component nor earlier permission.
+
+### REL-0025 — Hotaru → Yuma: shared domestic imagination and categorical distancing
+
+Hotaru shows the blank survey S0023–0024, then invokes old practice words over a present location objection S0026–0027. She imagines shared rooms/chores S0045–0046, invites Yuma upstairs S0060, says local いいよ S0067 and compares them to newlyweds S0085. Her inward or faintly murmured 今だけ S0100 limits something unnamed. She acknowledges noticing Yuma's liking S0142 but answers with ノーカン/レズ S0143, without her own romantic wish. Defensive distancing, protective strategy and indifference remain competing motives. Her postgraduation living-alone report S0044 does not explain work/moving S0087 or execute a shared future. Links CON-0025/0026/0028, INF-0022/0025/0027, JPS-0018/0021/0022, CLM-0024.
+
+### REL-0026 — Yuma → Takeda: remorse, public friendship and unanswered renewal
+
+Yuma publicly calls Takeda a friend S0104, denies another beloved S0105, and accepts the campus visit S0133. Her private comparison of Hotaru's hurt with her earlier harm to Takeda S0147–0148 leads to apology without the full cause S0149. He comforts and asks to date again S0150–0153; her answer and new Takeda-directed attraction are unshown. Guilt, friendship and gratitude are not restored exclusivity. Fujiwara's claim she keeps him hoping S0092 is contested by her completed-breakup account S0093–0094. Links INF-0024/0027, AGY-0023, CON-0030, CLM-0023/0025. The next answer is forecast conditionally, not assumed.
+
+### REL-0027 — Takeda → Yuma: concern mixed with privacy violation and renewed desire
+
+Takeda knows another beloved exists S0042, follows secretly and condemns himself S0050, then mistakes workplace waiting for possible coerced employment S0054–0056/0069–0070. He rejects Fujiwara's disparagement while keeping the mistaken rescue premise. He notices distress S0131, invites the campus visit S0133 and comforts before declaring continuing love/requesting renewal S0150–0153. Care has no explicit dating price, but the embrace and vulnerable timing require local analysis. No Hotaru identity, full history or photo receipt is established; the T-R04 advice antecedent is absent. Links INF-0023/0027, CON-0029/0030, AGY-0021/0023, CLM-0019/R-V05/0025.
+
+### REL-0028 — Hotaru ↔ Fujiwara: continued public couple and exposed physical control
+
+Fujiwara holds Hotaru as she reassures Yuma by phone S0074–0076; the reader sees constraint that Yuma does not. No new explicit access-for-silence demand appears. Hotaru's possible pregnancy S0112 and later negative report S0129, and Fujiwara's ignorance/necessary-responsibility denial S0122–0124, remain attributed statements without a clinical/paternity result. Hotaru confirms dating him S0138 while invoking nonreproductive/no-count girls' contact S0116/0143. Continued public couple status proves neither symmetric permission nor romantic attachment. Links CON-0027/0029, INF-0026, JPS-0022/0023, CLM-0020/R-V05/0006/R-V05.
+
+### REL-0029 — Fujiwara → network: guilt, agency denial and probable distribution
+
+Fujiwara invokes Takeda's worry/grades and asks whether he may tell the truth S0091–0095. Partial insight does not establish every motive accusation; no access price or completed Takeda disclosure occurs. He pushes Yuma during her challenge S0123 and denies necessary paternity S0124; the force is visible regardless of unknown pregnancy truth. His observer cut S0153–0154 precedes actual peer photo viewing S0155–0156. Prior copy retention makes dissemination agency a strong inference, with no transmission panel. Others' wrongdoing does not absolve his acts. Links INF-0024/0028, AGY-0024, CON-0029, CLM-0026/0028.
+
+### REL-0030 — Domestic reciprocity does not settle romantic/public recognition
+
+Shopping, matching jewelry, study/cooking, imagined rooms/chores and newlywed comparison S0038–0047/0081–0088 give ordinary reciprocity substance. Mother's 受かったらね S0073 and public friend-roomshare account S0108 add material conditions and category cover. NTR★C S0159–0162 supplies compatible earlier/undated food care and Takeda/Fujiwara skill contrasts, not a response after circulation. Daily-life desire grows while named-recipient/no-count confrontation breaks the shared definition. Links VIS-0025/0028, AGY-0022, JPS-0019/0020, CLM-0027. No lease, admission, actual move or comprehensive repair is shown.

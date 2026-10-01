@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V04; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V05; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 ---
 
@@ -171,3 +171,45 @@ Interpretive REVISE/STRENGTHEN CLM-0011: explicit inward H-directed romantic rec
 ### CLM-0022 — Permission structures require scene-specific comparison
 
 Interpretive PRESERVE/STRENGTHEN CLM-0005/0011/0016: H-initiated school contact/Y private refusal fear S0015–0018; practical fastening assent followed added contact/protests S0054–0058; historical mutual compliance after reluctance/rebuke S0028–0029; surprise diversion/kiss/teasing apology S0102–0110; Y requested practice/Hいいよ S0138–0141. These differ in initiative, constraint, information and affirmative response. Later recognized love/assent neither validates earlier acts nor makes all intimacy ethically identical. Links CON-0019–0024,JPS-0015/0017,VIS-0018–0022. Nonforecast, mature consent/agency responsibilities independent.
+
+## V05 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V05/SNNNN/I01` unless a volume is specified.
+
+Literal V04 authority was frozen at e69f32f8b40808e0cb40c1205b1d7018d7eb74ae before V05 inspection. Earlier records remain unchanged. First-window outcomes cannot be repaired by later resemblance, an old request quotation, inward language or public audience harm.
+
+| Revision ID | Literal opportunity / outcome | Transition |
+|---|---|---|
+| CLM-0017/R-V05 | Primary precontact S0023–0024 curtained explanation after departure fear S0020: no covered continuing-closeness request. Teacher reminder differs; later Yuma initiative and Hotaru quotation cannot reset the window. Nearby classmates/privacy limits applicability. | PARTIAL_ORDERING_SUPPORT / REQUEST_AND_COVER_COMPONENT_FAILED / DOWNGRADE. Antecedent-NDO counterreading preserved, never full hit. REL-0024/AGY-0020/JPS-0018. |
+| CLM-0018/R-V05 | S0007 repeats V04. Hotaru later quotes old words; Yuma's fresh actions lack a spoken unnamed-other practice offer. Inward S0064 is not an offer, named recipient S0142 changes conditions. | NO_DIAGNOSTIC_OPPORTUNITY / PRESERVE UNTESTED. Local assent S0067 counts as consent evidence, not a forecast hit. CON-0026. |
+| CLM-0019/R-V05 | Club concern, campus invitation and tearful apology do not present uncertainty about the presumed beloved's feelings. Comfort precedes renewal; Hotaru identity not given. | NO_DIAGNOSTIC_OPPORTUNITY / PRESERVE UNTESTED. No seek-answer hit or pricing failure. REL-0027/INF-0027. |
+| CLM-0020/R-V05 | First separate opportunity S0076: physical control, no Fujiwara speech/conditional access demand. Later truth offer S0095 has no access price; actual peer viewing is a different outcome. | PARTIAL_CONTROL_SUPPORT / CONDITIONAL_DEMAND_COMPONENT_ABSENT / DOWNGRADE. Hotaru's restraint does not restrain Fujiwara. Publication was UNMODELED. AGY-0024/INF-0028. |
+| CLM-0005/0011/0016/0022 R-V05 | Location objection, Yuma initiative, local assent, restraint, task objection/pause, Yuma slap and Takeda embrace retain their different actors/conditions. | PRESERVE/STRENGTHEN time-specific permission, agency and harm. CON-0025–0031. |
+| CLM-0006/R-V05 | Noticed statement without own wish/onset; roomshare imagination, moving dodge, only-now aside and no-count defense; possible then reportedly absent pregnancy. | OPEN/COMPLICATE. No clinical result, early injury cause or V01 room permission supplied. INF-0026/0027. |
+| CLM-0021/R-V05 | Inner named truth becomes spoken named hedge S0142, followed by category denial S0143. | REVISE disclosure state, not mutual couple truth. JPS-0022. |
+
+New rules are postV05 model development, due unread V06. Original failures/NDO remain; no numeric accuracy, independent-replication claim or global grade.
+
+### CLM-0023 — Yuma answers renewal under known affection mismatch; due V06
+
+Y-R06, literal in V05 freeze: still desires Hotaru/experiences her as nonreciprocal + renewed Takeda offer + safe answer opportunity without force/new Takeda attraction → delay/refusal through acknowledged unfairness or unavailable affection before restoring the couple. V04/S0127–0129 and V05/S0147–0153 support development. Acceptance without first clarifying the known mismatch contradicts; acceptance after clarification but without delay/refusal still misses the delay/refusal component. Remorse alone is not an answer. Interruption, new attraction or force changes conditions. First actual answer window, OPEN_PENDING_TEST due V06, no final-partner forecast. REL-0026/AGY-0023.
+
+### CLM-0024 — Hotaru response to renewed private definition question; due V06
+
+H-R06, literal V05 freeze: Yuma's Hotaru recipient explicit + Hotaru's own wish undisclosed + safe private exchange directly reopening relationship meaning → category/practice/friendship distancing or evasion before plain reciprocal wish. S0087/0100/0138–0143 supports development. Own reciprocal wish first contradicts; established mutual romance, unavailable conversation or imminent intervention changes conditions. Public rumor denial alone is not the trigger. First matched window, OPEN_PENDING_TEST due V06; no forecast of permanent indifference or defensive motive. REL-0025/JPS-0022.
+
+### CLM-0025 — Takeda response to explicit renewal refusal; due V06
+
+T-R05, literal V05 freeze: Yuma explicitly declines renewal + known attachment elsewhere + available ordinary response without new full-secret discovery → accept her right to decline without care/friendship repayment price. Prior V04 failed-love/advice and V05 care-before-bid support development. Punitive priced withdrawal or a dating demand contradicts. New Hotaru/full-history discovery changes information; no response is NDO. First matched refusal response, OPEN_PENDING_TEST due V06; hurt/desire need not disappear. REL-0027/AGY-0023.
+
+### CLM-0026 — Fujiwara accountability under direct photo question; due V06
+
+F-R04, literal V05 freeze: Takeda directly asks for an account of the circulating image + relevant private knowledge retained + no effective restraint → deflect/minimize own responsibility before helpful full clarification. V04/S0118 and V05/S0069/0095/0122–0124 support development. Helpful accounting/acknowledgment first contradicts; vague reply without responsibility component is partial. No direct question, knowledge loss or restraint is NDO. First matched response, OPEN_PENDING_TEST due V06; does not assume sender identity or predict upload/general violence. REL-0029/INF-0028/JPS-0023.
+
+### CLM-0027 — A counting category can conceal and later injure real attachment
+
+Interpretive REVISE/STRENGTHEN CLM-0021: shared-home/newlywed possibility S0045/0085 and local assent S0067 coexist with friend cover S0108/practice S0139. Named recipient S0142 meets no-count/identity defense S0143. Category language establishes neither absence of attachment nor permission. Felt betrayal S0147 differs from agreed exclusivity; Hotaru's defense/indifference motive remains OPEN. Public classification has future/audience costs without a complete orientation label. REL-0024/0025/0030, JPS-0020/0022, VIS-0026. Mature independent responsibility.
+
+### CLM-0028 — Audience transition is observed without exact distribution agency
+
+Interpretive REVISE exposure status from INF-0021: prior retention/tentative intent now becomes actual peer photo display S0155–0156. Watching S0153–0154 and possession support strong Fujiwara-agency INFERENCE, with dispatch/channel/initial sender/reach/Takeda receipt/girls' full response OPEN. Private conditional access rule was not a publication forecast; actual harm is not a forecast hit. The picture cannot prove full consent or an agreed romance. INF-0028, CON-0031, VIS-0027. Mature information and ending homes must preserve these levels.

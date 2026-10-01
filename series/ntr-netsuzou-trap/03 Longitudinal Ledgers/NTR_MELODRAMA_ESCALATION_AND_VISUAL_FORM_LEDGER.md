@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V04; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V05; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_MELODRAMA_ESCALATION_AND_VISUAL_FORM_LEDGER.md
 ---
 
@@ -129,3 +129,27 @@ Study, promotional work and male conversation S0112–0118 separate social world
 ### VIS-0023 — Retained-photo cliffhanger and bounded summer comedy
 
 Takeda’s illness versus Fujiwara alone at a computer S0145, followed by photo/tentative bomb thought S0146, produces anticipation without actual disclosure. NTR★S summer S0148–0149 separately stages pretrip help defeated by already-bought swimwear, comic Hotaru disappointment, Takeda’s mistaken girlfriend dream, Fujiwara’s correction and contact/protest. Compatible earlier-time comedy supplies neither future validation nor permission through laughter. Dividers S0147/0150, afterword S0151, covers S0152–0155 and colophon S0156 are accounted paratext. Links INF-0021,AGY-0019,CON-0020,CLM-0020; no anime narrative admitted.
+
+## V05 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V05/SNNNN/I01` unless a volume is specified.
+
+### VIS-0024 — Curtain makes privacy and discovery conditions rather than neutral setting
+
+Color anticipation S0003–0004 repeats the current classroom event. Blank-paper invitation S0023–0024 changes future knowledge; contact S0026–0027, nearby boys S0028 and Yuma initiative S0030–0032 occur behind a partial curtain. The returning classmate sees the pair S0033–0034 without shown precise inference. Isolated やばい speaker is OPEN. Curtain privacy lacks secure isolation, later reversed by uncontrolled phone audiences. Links INF-0022/0028, CON-0025, JPS-0018, CLM-0017/R-V05.
+
+### VIS-0025 — Rain, housing geometry and the telephone reveal distribute knowledge
+
+Matching necklaces S0039 and the two-room/living-space diagram S0045 concretize ordinary shared possibility. Takeda's rain/bag gag S0051 and club view S0054 create mistaken alarm, contrasted with wet-return care and home initiative S0056–0068. His phone account S0069 differs from reader knowledge. Hotaru's 大丈夫 S0076 is juxtaposed with restraint, revealing hidden constraint rather than complete motive. Links REL-0030, INF-0023, CON-0027, JPS-0019.
+
+### VIS-0026 — Domestic and floating future images clash with reproductive category stakes
+
+Contact anticipation S0080 explicitly returns a few hours earlier at S0081; cooking/heart ketchup/newlywed language S0081–0085 make ordinary couple possibility visible. Public tutor acknowledgment contrasts with denial/floating girls S0102–0107 and an unknown destination. Possible pregnancy S0112 and imagined marriage S0121 are fear-driving report/fantasy, not clinical fact. Hotaru's close-up 今だけ S0100 remains a subjective aside with vocal ambiguity. Links INF-0025/0026, JPS-0020/0021, REL-0025/0030.
+
+### VIS-0027 — Observer-to-phone transition implies agency while showing only audience
+
+Yuma's grip on Hotaru's clothing and the 100% practice question S0140 precede named-recipient/no-count/slap S0142–0144. Private betrayal comparison S0147–0148, care/bid S0150–0153 and Fujiwara watching S0153–0154 cut to actual peer photo screens S0155–0156. Adjacency supports causal suspicion while withholding sending/chain/total reach. The image removes contextual/audience control without proving an agreed romance or consent. Links INF-0027/0028, CON-0030/0031, CLM-0028. The cliffhanger leaves consequences open.
+
+### VIS-0028 — Cooking extra supplies ordinary asymmetry without sequel chronology
+
+NTR★C S0159–0162 contrasts poor Hotaru/Yuma cooking, care/compliment, Takeda's self-made lunch and testimony about Fujiwara's excellent cold pasta. Cooking 偏差値 is a comic scale, not empirical testing; ordinary competence does not redeem harm. Compatible earlier/undated domestic chronology supplies no circulation response or rule outcome. Afterword/covers S0164–0169 are paratext. Links REL-0030, AGY-0022, CAST-0025.

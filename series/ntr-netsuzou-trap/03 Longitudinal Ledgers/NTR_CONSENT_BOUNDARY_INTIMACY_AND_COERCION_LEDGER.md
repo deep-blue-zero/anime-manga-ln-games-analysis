@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V04; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V05; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_CONSENT_BOUNDARY_INTIMACY_AND_COERCION_LEDGER.md
 ---
 
@@ -133,3 +133,35 @@ Y refuses to name actual liked person S0137, seeks cooperation S0138, approaches
 ### CON-0024 — Surprise deflection, apology and nonanger do not settle the unanswered issue
 
 Aquarium H feigns noticing T S0102, kisses unexpectedly S0103/calls lureウソ; Y cries S0104 and H startled. H later apologizes for excessive teasing/asks anger, Yもういいよ/別に怒ってないから S0110. Count real apology and explicit nonanger statement while preserving absence of work-motive answer, candid recipient exchange or complete act-specific repair. A face/tear cannot prove complete motive or imply all later acts unwelcome; H assent to Y request is a separate later event CON-0023. Links INF-0019,REL-0019,VIS-0021,CLM-0005/R-V04; harms and repair differ by moment.
+
+## V05 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V05/SNNNN/I01` unless a volume is specified.
+
+### CON-0025 — Prior practice is not current location permission; new Y initiative is separate
+
+Hotaru invokes old 練習させて after Yuma's present 駄目だってこんなとこで S0026 and initiates S0027 within partial curtain privacy. Yuma subsequently pulls/kisses S0030–0031; Hotaru's surprise is visible, without express preceding assent. The isolated やばい speaker S0032 is OPEN. Keep Hotaru's act over a location objection, Yuma's reactive agency, Hotaru's local response and audience risk separate. An earlier request is not standing permission, and Yuma's subsequent desire does not authorize the earlier act. Links REL-0024/0025, AGY-0020, VIS-0024, JPS-0018, CLM-0005/R-V05/0022/R-V05.
+
+### CON-0026 — Invited-home initiative and local affirmative response
+
+Hotaru invites a brief visit S0060; Yuma initiates S0061–0062; Hotaru's blush, cold-lip concern and いいよ S0067 add a local accepting response. Yuma's inward practice explanation S0064 and nearest-person wish S0068 do not establish mutual romantic definition. A home invitation is not permission for every act, but the actual affirmative response counts. No fresh spoken unnamed-other practice offer matches H-R05. Links REL-0024/0025, AGY-0020, JPS-0019, CLM-0018/R-V05. This encounter cannot authorize classroom contact retroactively.
+
+### CON-0027 — Reassurance conceals represented physical restraint
+
+Hotaru reports being off work/unwell and declines a visit S0074–0075; Fujiwara holds her from behind during 大丈夫 S0076. Reassurance is not objective proof of unconstrained agreement; prior negotiation or the precise act remains unshown. There is no Fujiwara speech or conditional demand. Restraint on Hotaru is not restraint on Fujiwara. The first F-R03 mechanism miss remains. Links REL-0028, INF-0023/0024, VIS-0025, AGY-0024, CLM-0020/R-V05.
+
+### CON-0028 — Homework refusal, a real pause and incomplete repair
+
+Yuma has unfinished work S0096 and protests ダメだって S0097; Hotaru pauses/asks what is wrong S0098, dismisses Fujiwara's threat and resumes teasing S0099. The real pause differentiates this encounter from uninterrupted disregard, without supplying durable repair or unrestricted future permission. Hotaru's 今だけ aside S0100 is subjective, perhaps faintly spoken and denied S0101, not a mutually acknowledged ending agreement. Links REL-0025, INF-0025, JPS-0021, VIS-0026, CLM-0022/R-V05.
+
+### CON-0029 — Protective concern does not authorize privacy intrusion or force
+
+Takeda secretly follows S0050 despite self-condemnation; his partly mistaken concern does not grant privacy access. Yuma challenges/grabs Fujiwara S0122–0123, and he pushes her back. Each actor's physical act retains its own scope; pregnancy/paternity denial is not proof of bodies or other partners. Privacy intrusion, threatened exposure and physical force are distinct harms. Links REL-0027/0029, INF-0023/0026, AGY-0021/0024. Goodwill and worry do not confer universal entitlement.
+
+### CON-0030 — Named desire, hurtful category denial, slap and mixed care
+
+Yuma names possible Hotaru-directed love and Hotaru acknowledges noticing S0142, then Hotaru answers with no-count/identity language S0143 and Yuma slaps her S0144. Desire does not authorize ridicule, and hurt does not justify assault. Takeda initiates comfort/embrace S0150–0151 without preceding express assent, then requests renewal S0152–0153. There is no explicit care-for-dating price or Yuma answer; vulnerable timing permits pressure analysis without inventing a bargain. Links REL-0024/0026/0027, INF-0027, JPS-0022, AGY-0023.
+
+### CON-0031 — Peer photo revelation cannot disclose consent or grant distribution permission
+
+Anonymous peers actually view the private photograph S0155–0156. Recording/distribution permission is not established; the image does not reveal the full relationship, prior refusals or reciprocal commitment. Fujiwara's sender role is strongly inferred from retention and the observer cut, not directly depicted. Channel, reach and affected girls' full response remain OPEN. Exposure harm does not require assuming all intimacy unwanted. Links INF-0028, VIS-0027, CLM-0028, REL-0029.

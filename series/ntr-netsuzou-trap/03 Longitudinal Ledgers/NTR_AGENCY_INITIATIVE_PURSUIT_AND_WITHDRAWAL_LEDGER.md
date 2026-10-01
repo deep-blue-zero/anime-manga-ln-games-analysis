@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V04; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V05; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_AGENCY_INITIATIVE_PURSUIT_AND_WITHDRAWAL_LEDGER.md
 ---
 
@@ -113,3 +113,27 @@ Aquarium inquiry S0099–0102 seeks work knowledge without the predicted protect
 ### AGY-0019 — Fujiwara retains informational options without completed exposure
 
 First separate girls-directed exchange S0019–0020 presents secrecy as a favor but lacks an explicit conditional access demand. Fujiwara receives Takeda’s infirmary suspicions S0034–0036, refuses specific truth when asked S0118, and confronts Yuma with some accurate concern and an overbroad identity S0123–0124. Retained laptop photo/tentative exposure intent S0145–0146 show no dispatch. Historical contract pressure S0028–0029 informs constraint, not prospective replication or a universal violence model. Links REL-0023,INF-0017/0020/0021,CON-0021,CLM-0014/R-V04/0020.
+
+## V05 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V05/SNNNN/I01` unless a volume is specified.
+
+### AGY-0020 — Yuma informational pursuit and new contact initiative
+
+Survey pursuit/privacy rebuke S0020–0022, precontact blank display S0023–0024, Yuma's collar/kiss S0030 and invited-home initiative S0061 show active choice under desire and uncertainty. Inward motives are available to the reader; a fresh covered request is not spoken. Hotaru's いいよ S0067 is local response. Agency neither proves earlier consent nor removes constraints. Primary Y-R05 first-window request/cover failure retains the nearby-class privacy counterreading. Links REL-0024, CON-0025/0026, INF-0022, CLM-0017/R-V05.
+
+### AGY-0021 — Takeda follows under uncertainty, then acts on a mistaken rescue premise
+
+Covert following S0050 despite guilt, workplace misreading S0054–0056 and phone rejection of disparagement S0069–0070 combine care, curiosity and error with privacy intrusion. The campus invitation S0133 offers ordinary activity without restoring the couple or supplying an uncertainty-advice match. Links REL-0027, INF-0023, CON-0029, CLM-0019/R-V05. Self-criticism is evidence of ethical awareness, not proof of corrected conduct.
+
+### AGY-0022 — Ordinary future choices are conditional and socially framed
+
+University/mocks S0013–0014/0089, Hotaru's postgraduation report and imagined rooms/chores S0044–0046, mother's 受かったらね S0073, actual work/cooking S0081–0085 and friend-roomshare account S0108 give material conditions to imagined futures. Admission, lease and move remain unshown. Cooking extra S0159–0162 supplies compatible earlier/undated care, not future validation. Links REL-0030, VIS-0028, JPS-0019/0020. Ordinary agency exceeds either pure romance fantasy or a coerced-only portrait.
+
+### AGY-0023 — Recipient naming, violence and an unanswered alternative
+
+Yuma accepts the outing S0133 and Hotaru's walk S0134–0136, presses practice S0140, names Hotaru S0142 and slaps her after the denial S0144. Felt rejection shapes apology S0148–0149; Takeda comforts and renews his request S0150–0153. Yuma's answer is OPEN. Private desire, public naming, action and repair are different decisions. Links REL-0024/0026/0027, CON-0030, INF-0027, CLM-0023–0025. New Y-R06 predicts only a conditional first answer.
+
+### AGY-0024 — Fujiwara controls bodies and information through distinct mechanisms
+
+Fujiwara's restraint S0076, guilt/truth offer S0091–0095, push/denial S0123–0124 and watching S0153–0154 each retain actor and target. The first encounter lacks the predicted conditional access demand; the later disclosure question lacks an access price. Peer photo viewing S0155–0156 is observed, sender agency inferred. Force, moral accusation, secrecy and distribution cannot all count as one mechanism. Links REL-0029, CON-0027/0029/0031, INF-0024/0028, CLM-0020/R-V05/0026/0028.

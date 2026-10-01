@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V04; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V05; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_CAST_AND_RECONSTRUCTION_READINESS.md
 ---
 
@@ -117,3 +117,27 @@ F-V04 now tentative inner exposure intent/photo on own computer S0145–0146, hi
 ### CAST-0020 — Unnamed former partners and summer extra remain supporting evidence
 
 Historical Fexgirlfriend S0020–0021/Hexboy S0022–0024 remain unidentified, not Y/T substitutions. Class peers/public gossip S0025, mothers mentioned, promotional workplace S0116 and prep-school context widen social conditions without independent character models. Two-page NTR★Ssummer S0148–0149 compatible earlier beach comedy, no post-endpoint state. Afterword151/covers152–155/colophon156 paratext; anime acknowledgment not narrative admission. Supporting treatment only, reconstruction NOT_ASSESSED, no global registry edits. Links INF-0018,VIS-0019/0023,CON-0021.
+
+## V05 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V05/SNNNN/I01` unless a volume is specified.
+
+### CAST-0021 — Yuma V05: named self-disclosure, native agency and guilt limits
+
+Yuma's native school/domestic/attachment/conflict states gain survey privacy cover, chosen contact, public denial, named recipient, slap, remorse and unanswered renewal. Y-R05 request/cover component fails at the primary first window with a privacy-NDO counterreading; later events cannot rescue it. New Y-R06 is due V06. Independent evidence, monograph and mature model are warranted after completion, not yet authored. Novel professional/unknown-person behavior NOT_ASSESSED. REL-0024/0026, AGY-0020/0023, CON-0030, CLM-0023.
+
+### CAST-0022 — Hotaru V05: reciprocal-looking contact without reciprocal definition
+
+Hotaru remains major and warrants the three mature character homes. Invitation/assent, domestic proposal, parental/work reports, pressure concealment and categorical cruelty all matter. H-R05 is NDO without a fresh offer; H-R03's earlier failure persists. H-R06 is due a renewed private definition exchange. Own beloved/motive/future remain OPEN; neither isolated やばい nor only-now aside establishes certainty. Novel-context evidence is limited; no diagnosis or identity grade. REL-0025/0028, INF-0025/0027, JPS-0021/0022, CLM-0024.
+
+### CAST-0023 — Takeda V05: available care with desire, intrusion and information error
+
+Takeda warrants individual evidence/model/monograph proportional to his structural role. Study/food, guilt, invitation, comfort/renewal, following and mistaken rescue diversify native behavior. T-R04 is NDO without uncertain-feelings advice antecedent; T-R05 awaits explicit refusal. Full Hotaru identity/photo response remains unobserved and UNMODELED; ordinary care cannot certify it. Novel professional/ethical contexts are bounded or NOT_ASSESSED. REL-0027, INF-0023/0027, CON-0029/0030, CLM-0025.
+
+### CAST-0024 — Fujiwara V05: leverage rules fail narrow mechanism, mundane skill remains
+
+Fujiwara's network role warrants individual evidence, bounded model and monograph without general psychology. Force, disclosure guilt, responsibility denial and probable photo agency remain separate mechanisms. F-R03's conditional-demand component is absent S0076; the earlier V04 miss survives. F-R04 awaits a direct accountability question. Sender action remains unshown; cooking skill in Takeda testimony adds ordinary contrast without redemption. Ethical deliberation and unfamiliar-context voice are thin. REL-0029, AGY-0024, INF-0028, CLM-0026.
+
+### CAST-0025 — Supporting voices make future/visibility ordinary without independent models
+
+Teacher reminder/futures S0013/0019, unnamed tutor-attracted classmate S0015–0016/0102–0103, Yuma's mother S0073, club workers/customer S0054 and photo-viewing peers S0155–0156 have bounded social/formal functions. No invented names, inner lives, ages, total audience or independent operational models. NTR★C S0159–0162 differentiates ordinary competence in earlier/undated time; paratext S0164–0170 is not new cast. Complete 170-image coverage is recorded; the mature role-gap audit waits for V06. No global curation edit.
