@@ -4784,6 +4784,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 
 ### Nene
 
+- Entity ID: `watayuri:nene`
+- Entity aliases:
+  - _None._
+
+#### Subject: Japanese manga continuity
+
+- Analysis subject ID: `watayuri:nene@manga`
+- Series: `watayuri`
+- Continuity: `watayuri-manga`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - Saionji (en, ALTERNATIVE) — Former cafe role name, explicitly identified with Nene at V04/i055; not an established ordinary surname.
+  - 西園寺 (ja, ORIGINAL_SCRIPT) — Written former cafe role name corresponding to Saionji; ordinary surname remains unverified.
+- Analytical coverage:
+  - `v04-shifts17-18-bounded`: MANGA CHAPTER: V04 Shifts 17-18: the former Saionji sister role, represented earlier cafe relationship and role rupture (i009-i027), and Nene’s present kitchen self-account and advice (i052-i057). Sumika’s recollection and Nene’s own account remain distinct. No V03, later V04 chapters, packaged supplement or V05+ coverage is enrolled.; continuity `watayuri-manga`
+- Reviewed current evidence:
+  - [`v04-bounded-history-and-self-account` — Volume 4: Nene’s historical role, chosen relationship and response to protective control](series/watayuri/02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#close-reading)
+
+### Nene
+
 - Entity ID: `project-sekai:nene`
 - Entity aliases:
   - _None._
