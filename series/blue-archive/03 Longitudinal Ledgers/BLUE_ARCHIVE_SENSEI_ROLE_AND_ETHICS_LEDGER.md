@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
-source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 122 supplemental objects admitted with limits in cycles001–004; other supplemental sources unadmitted"
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 180 supplemental objects admitted with limits in cycles001–005; other supplemental sources unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ updated: 2026-10-01
 
 All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
 
-Cycles001–004 admit exactly **122 supplemental objects with limits:65 group,26 event,13 bond,13 MomoTalk and5 character_data**. [Cycle004](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_004_CHECKPOINT.md) and the exact object crosswalk own admission. Current combined coverage is **23 PARTIAL_MODEL /432 UNMODELED /455 analytical subjects**, every standalone model NONE. All65 group objects have complete accepted readings; expanded private and mini obligations remain unadmitted. Main chronology, performed voice and unresolved outcomes retain their limits.
+Cycles001–005 admit exactly **180 supplemental objects with limits:65 group,43 event,30 bond,30 MomoTalk and12 character_data**. [Cycle005](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_005_CHECKPOINT.md) and the exact object crosswalk own admission. Current combined coverage is **23 PARTIAL_MODEL /482 UNMODELED /505 analytical subjects**, every standalone model NONE. All65 group objects have complete accepted readings; Serika/Reijo/Rei/Ayane private/written pools have scoped acceptance; other private and mini obligations remain unadmitted. Main chronology, performed voice and unresolved outcomes retain their limits.
 
 ## Historical baselines and sequential deltas
 
@@ -2494,3 +2494,21 @@ All previous main and cycle001–002 entries retain their dated information boun
 | GROUP3601–3603 | Explicit no new teacher action, response or report. The friends own this care and its limits. Limit: No off-screen therapeutic direction or sole adult repair. | [Complete argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_3601_3603_DEEP_READING.md) |
 
 All previous main and cycle001–003 entries retain their dated information boundaries. No global generic-role merge, main-state chronology transfer, silence-as-consent, cure, technical/legal closure or model promotion follows. These already exposed outcomes provide `NO_DIAGNOSTIC_OPPORTUNITY`; BA-C005/C006 rejected dispositions and all existing claim IDs remain intact.
+
+## Phase2 cycle005 contextual delta — 2026-10-01
+
+[Cycle005](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_005_CHECKPOINT.md) adds exactly58 reviewed objects:17 bond/17 full MomoTalk/7 written-data and17 event. Current total180 (65G/43E/30B/30M/12D); all480-main and earlier cycle histories remain intact. This section is contextual evidence, with no release-based main-state edge or model promotion.
+
+| Context | Accepted conduct and student authorship | Boundary / contrary evidence |
+|---|---|---|
+| Reijo | Desired company, giving/receiving care and protection wishes extend the adult/student relation beyond task completion. | Recognition wishes do not prove adult competence, right to inspect or general romantic consent; literal written stop is retained. |
+| Baseball Rei; Tsukuyo/Junko | Solicited practice help, student technical critique and giving encouragement qualify adult service. Tsukuyo requests company and Junko wants to treat the adult; ordinary pleasure is sufficient evidence. | Rei's transfer fails; pressure and praise/touch boundaries remain. Art/vendor raw actors are not Rei. No universal successful teacher or completed private repair. |
+| Ayane | Declared expertise limit, apology after a pose joke, requested navigation, shared maintenance/work substitution and validation of chosen treasure play are actually situated. |23005E005scene002u0036–0037 withholds injury reassurance.26007E003 continued entry/shaking after sleep protests is adverse evidence; later outing/privacy assent does not repair it. Photo-purpose misunderstanding and resource-limited return offer remain conditions, not arbitrary adult entitlement. |
+| EVENT814 | Adult participation and event-local help are distributed among students and practical resources; aspirations remain student-specific. | E004 expressed gaze discomfort survives the joint-cleaning agreement. Peer pressure and Wakamo force/coerced return are not licensed by intended help or later warmth. No sole repair author or general infallibility. |
+| EVENT807 | No direct Sensei actor/choice is printed. | Miku's public invitation creates no attendance, reply, teacher decision or ethical adjudication. Preserve an explicit no-direct-effect result alongside positive Miku ordinary evidence. |
+
+Complete arguments, canonical hashes and precise ownership are routed by the cycle checkpoint and object crosswalk. Ordinary pleasure, care, rest, work, friction and negative constraints remain evidence. WholePhase2 remains active; all12 arc acceptance rows are incomplete.
+
+### Accepted group relevance route
+
+The [65-group/12-arc relevance audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_GROUP_ARC_RELEVANCE_AUDIT.md) closes P2-R01 with limits in Cycle005 and supplies a cross-arc route for the already appended group evidence. Its §3 distinguishes actual direct people/community contexts, bounded comparisons and inspected absence for every arc; §5 identifies this ledger’s contribution. No source count, chronology edge, model promotion or new outcome is added. All prior raw actor, recipient, quiet pleasure, contrary and refusal constraints stay attached to their owning group arguments. Other wholePhase2 and full-arc duties remain incomplete.

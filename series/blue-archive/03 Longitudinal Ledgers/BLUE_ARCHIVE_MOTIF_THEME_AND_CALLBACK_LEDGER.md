@@ -5,7 +5,7 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
-source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 122 supplemental objects admitted with limits in cycles001–004; other supplemental sources unadmitted"
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 180 supplemental objects admitted with limits in cycles001–005; other supplemental sources unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ updated: 2026-10-01
 
 All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
 
-Cycles001–004 admit exactly **122 supplemental objects with limits:65 group,26 event,13 bond,13 MomoTalk and5 character_data**. [Cycle004](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_004_CHECKPOINT.md) and the exact object crosswalk own admission. Current combined coverage is **23 PARTIAL_MODEL /432 UNMODELED /455 analytical subjects**, every standalone model NONE. All65 group objects have complete accepted readings; expanded private and mini obligations remain unadmitted. Main chronology, performed voice and unresolved outcomes retain their limits.
+Cycles001–005 admit exactly **180 supplemental objects with limits:65 group,43 event,30 bond,30 MomoTalk and12 character_data**. [Cycle005](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_005_CHECKPOINT.md) and the exact object crosswalk own admission. Current combined coverage is **23 PARTIAL_MODEL /482 UNMODELED /505 analytical subjects**, every standalone model NONE. All65 group objects have complete accepted readings; Serika/Reijo/Rei/Ayane private/written pools have scoped acceptance; other private and mini obligations remain unadmitted. Main chronology, performed voice and unresolved outcomes retain their limits.
 
 ## Historical baselines and sequential deltas
 
@@ -2847,3 +2847,21 @@ All previous main and cycle001–002 entries retain their dated information boun
 | GROUP3601–3603 | Work consumes ordinary attention; a wished-for pleasure can fail; nostalgia changes with tastes; cheap candy gains relational value without tasting fine; temporary relief is sufficient to value companionship. Limit: No universal suffering-to-good-memory rule, permanent recovery or equation of present affection with main forgiveness. | [Complete argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_3601_3603_DEEP_READING.md) |
 
 All previous main and cycle001–003 entries retain their dated information boundaries. No global generic-role merge, main-state chronology transfer, silence-as-consent, cure, technical/legal closure or model promotion follows. These already exposed outcomes provide `NO_DIAGNOSTIC_OPPORTUNITY`; BA-C005/C006 rejected dispositions and all existing claim IDs remain intact.
+
+## Phase2 cycle005 contextual delta — 2026-10-01
+
+[Cycle005](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_005_CHECKPOINT.md) adds exactly58 reviewed objects:17 bond/17 full MomoTalk/7 written-data and17 event. Current total180 (65G/43E/30B/30M/12D); all480-main and earlier cycle histories remain intact. This section is contextual evidence, with no release-based main-state edge or model promotion.
+
+| Located motif / packet | Accepted literary use | Limit |
+|---|---|---|
+| Reijo care/genre/rest | Food preparation and child reception, martial genre pleasure, rest and receiving protection make varied ordinary personhood visible. | A genre preference is not a complete motive, unchanging competence or an external intertext proof. Four full pairs and both written sources remain distinct. |
+| Rei skill/objects/giving | Analogy inspires enjoyable games but fails baseball transfer; unnoticed effort, caught-ball memory, food, cards/glove and desired reciprocal encouragement matter intrinsically. | Similarity does not establish training causation, an achieved first home run, a made purchase or completed repayment.845/10845 repetition does not multiply independent witnesses. |
+| Ayane value/water/rest/recognition | Found/recycled value contrasts with pleasure beyond money; manuals/records, closed door/glasses/water, treasured pin/socks/rain/flowers, secret base/rest, person-versus-helicopter photo and constrained return gift recur in their actual scenes. | Withheld referent, contextual gift noun, partial repairs and promises remain uncompleted. No literal botanical/weather history, external allusion or ordered developmental cause. |
+| EVENT814 vacation/gift/help | Holiday wishes, ruined fishing rod, cleaning/rest/watch, gifts, guarded memory and playful/pressured reciprocity retain stakes independent of plot magnitude. | Later warmth does not erase expressed discomfort, force or pressure. Fine print and registration are not title/legal authority; system footer is not globaltitlemetadata. |
+| Miku joy/embodiment | Public enjoyment of place/body and unfinished familiar rhythm create a situated rehearsal contrast. | Rehearsal speech/invitation is not performed music, completed tuning or concert outcome. |
+
+Complete arguments, canonical hashes and precise ownership are routed by the cycle checkpoint and object crosswalk. Ordinary pleasure, care, rest, work, friction and negative constraints remain evidence. WholePhase2 remains active; all12 arc acceptance rows are incomplete.
+
+### Accepted group relevance route
+
+The [65-group/12-arc relevance audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_GROUP_ARC_RELEVANCE_AUDIT.md) closes P2-R01 with limits in Cycle005 and supplies a cross-arc route for the already appended group evidence. Its §3 distinguishes actual direct people/community contexts, bounded comparisons and inspected absence for every arc; §5 identifies this ledger’s contribution. No source count, chronology edge, model promotion or new outcome is added. All prior raw actor, recipient, quiet pleasure, contrary and refusal constraints stay attached to their owning group arguments. Other wholePhase2 and full-arc duties remain incomplete.
