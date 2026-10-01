@@ -25,9 +25,11 @@ authority_adoption: owner_2026_09_09_text_audio_baseline
 
 # Cartethyia Reconstruction Packet - Local Pre-AV Rebuild V0.1
 
+The [current-state router](WUWA_CARTETHYIA_CURRENT_STATE.md) is the primary current character entrypoint. This README retains packet-manifest, provenance, and reading-order responsibilities; the artifact-class layout does not change authority or completion state.
+
 ## 1. Start here
 
-This is the **single entrypoint** for a twelve-document reconstruction of Cartethyia, rebuilt using the source-facing, state-sensitive, ordinary-life, falsification, and audiovisual-retrieval practices developed in the Lynae, Aemeath, and Denia packets. It is not a renamed template or an expansion of the earlier monograph by paraphrase. The frozen primary selection was reread, the supplied acoustic records reaggregated, and material prior interpretations reconsidered.
+This is the **packet-manifest entrypoint** for a twelve-document reconstruction of Cartethyia, rebuilt using the source-facing, state-sensitive, ordinary-life, falsification, and audiovisual-retrieval practices developed in the Lynae, Aemeath, and Denia packets. It is not a renamed template or an expansion of the earlier monograph by paraphrase. The frozen primary selection was reread, the supplied acoustic records reaggregated, and material prior interpretations reconsidered.
 
 **Authority:** owner-adopted current `active_provisional` text/audio analysis. At initial preparation, no Git or Drive publication was performed; the adoption note above records the later owner decision. Intended future analytical home: `series/wuthering-waves/04 Character Analysis/Cartethyia/`. Existing published analysis is not overwritten or silently superseded. The word rebuild distinguishes this packet's V0.1 from historical Cartethyia analytical V0.1/V0.2 and evidence V0.3.1; these are different version domains.
 
@@ -39,17 +41,17 @@ Two material corrections matter immediately. Cartethyia supplies her personal na
 
 | Order | Artifact | Responsibility |
 |---:|---|---|
-| 1 | [WUWA_CARTETHYIA_CHARACTER_DEEP_DIVE_PRE_AV.md](WUWA_CARTETHYIA_CHARACTER_DEEP_DIVE_PRE_AV.md) | Continuous source-facing interpretation of Cartethyia within the frozen evidence boundary |
-| 2 | [WUWA_CARTETHYIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md](WUWA_CARTETHYIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md) | Claim epistemics, primary evidence routes, counterevidence, and falsification targets |
-| 3 | [WUWA_CARTETHYIA_IDENTITY_FORMS_AND_EMBODIMENT_PROFILE.md](WUWA_CARTETHYIA_IDENTITY_FORMS_AND_EMBODIMENT_PROFILE.md) | Name, historical office, embodied forms, memory continuity, and attribution exclusions |
-| 4 | [WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_PROFILE.md](WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_PROFILE.md) | Chronological states, knowledge boundaries, and recipient-conditioned relationships |
-| 5 | [WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md](WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md) | Non-crisis preferences, ordinary activities, social texture, and bounded everyday predictions |
-| 6 | [WUWA_CARTETHYIA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md](WUWA_CARTETHYIA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md) | Textual speech and localization comparison plus reproducible aggregates of supplied acoustic measurements |
-| 7 | [WUWA_CARTETHYIA_RECONSTRUCTIVE_PROFILE_PRE_AV.md](WUWA_CARTETHYIA_RECONSTRUCTIVE_PROFILE_PRE_AV.md) | Operational prose model downstream of the source-facing reading and evidence matrix |
-| 8 | [WUWA_CARTETHYIA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md](WUWA_CARTETHYIA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md) | Non-blind adversarial fidelity audit and abstention tests of the prose model |
-| 9 | [WUWA_CARTETHYIA_PRIOR_GENERATION_CLAIM_REVISION_LEDGER.md](WUWA_CARTETHYIA_PRIOR_GENERATION_CLAIM_REVISION_LEDGER.md) | Comparison with retrieved historical V0.2 analysis; no automatic Git supersession |
-| 10 | [WUWA_CARTETHYIA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md](WUWA_CARTETHYIA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md) | Claim-driven selection and authority assessment of required audiovisual witnesses |
-| 11 | [WUWA_CARTETHYIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md](WUWA_CARTETHYIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md) | Human retrieval bridge from source locators to story titles, queries, and existing witness routes |
+| 1 | [WUWA_CARTETHYIA_CHARACTER_DEEP_DIVE_PRE_AV.md](01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_CHARACTER_DEEP_DIVE_PRE_AV.md) | Continuous source-facing interpretation of Cartethyia within the frozen evidence boundary |
+| 2 | [WUWA_CARTETHYIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md](01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md) | Claim epistemics, primary evidence routes, counterevidence, and falsification targets |
+| 3 | [WUWA_CARTETHYIA_IDENTITY_FORMS_AND_EMBODIMENT_PROFILE.md](01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_IDENTITY_FORMS_AND_EMBODIMENT_PROFILE.md) | Name, historical office, embodied forms, memory continuity, and attribution exclusions |
+| 4 | [WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_PROFILE.md](01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_PROFILE.md) | Chronological states, knowledge boundaries, and recipient-conditioned relationships |
+| 5 | [WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md](01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md) | Non-crisis preferences, ordinary activities, social texture, and bounded everyday predictions |
+| 6 | [WUWA_CARTETHYIA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md](03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md) | Textual speech and localization comparison plus reproducible aggregates of supplied acoustic measurements |
+| 7 | [WUWA_CARTETHYIA_RECONSTRUCTIVE_PROFILE_PRE_AV.md](02%20Reconstruction/WUWA_CARTETHYIA_RECONSTRUCTIVE_PROFILE_PRE_AV.md) | Operational prose model downstream of the source-facing reading and evidence matrix |
+| 8 | [WUWA_CARTETHYIA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md](04%20Validation%20and%20Readiness/WUWA_CARTETHYIA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md) | Non-blind adversarial fidelity audit and abstention tests of the prose model |
+| 9 | [WUWA_CARTETHYIA_PRIOR_GENERATION_CLAIM_REVISION_LEDGER.md](04%20Validation%20and%20Readiness/WUWA_CARTETHYIA_PRIOR_GENERATION_CLAIM_REVISION_LEDGER.md) | Comparison with retrieved historical V0.2 analysis; no automatic Git supersession |
+| 10 | [WUWA_CARTETHYIA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md](03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md) | Claim-driven selection and authority assessment of required audiovisual witnesses |
+| 11 | [WUWA_CARTETHYIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md](03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md) | Human retrieval bridge from source locators to story titles, queries, and existing witness routes |
 
 For ordinary interpretation, start with the deep dive and use the specialist profiles as needed. For model use, read the deep dive and matrix before the reconstructive profile. For collection, read the AV plan and then the human-retrieval crosswalk. The prior-generation ledger explains what changed and what V0.2 had already established.
 
