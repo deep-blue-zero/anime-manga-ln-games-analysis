@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V01; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V02; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_AGENCY_INITIATIVE_PURSUIT_AND_WITHDRAWAL_LEDGER.md
 ---
 
@@ -41,3 +41,27 @@ Takeda asks direct concern S0019–0022, adjusts date to include Hotaru S0060–
 ### AGY-0004 — Fujiwara: refusal punishment and knowledge advantage
 
 Fujiwara kicks after refusal S0067–0068, invites return S0139–0141, privately insinuates girls' desire S0151–0152. Injury to Hotaru and asymmetric observation are actual effects. Opportunity to tell Takeda exists in shared trip but none depicted; no assumed completed blackmail. Motivations domination/amusement/privacy OPEN. Links CON-0004,INF-0004,CLM-0003; high acts, sparse rule F-R01 provisional.
+
+## V02 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V02/SNNNN/I01` unless a volume is specified.
+
+### AGY-0005 — Yuma confronts perceived harm at the cost of her date
+
+Yuma attempts lunch/date repair S0050–0053, visits with food S0062–0067, questions Fujiwara outside S0071–0082 and misses six calls/date S0074–0076,0085. Available options return/call/explain versus protect/question; limited injury evidence, care and jealousy both condition action. Cost Takeda distance S0088–0092. Cannot treat protecting Hotaru as pure altruism after selfish priority admission S0135, nor omniscient rescue. Links REL-0006/0008,INF-0006/0007,CLM-0002; high choices, motives moderate.
+
+### AGY-0006 — Takeda chooses cessation and a changed access boundary
+
+At room discomfort stops/offers floor S0011–0013; later decides distance and invites honest reconsideration S0088–0092, refuses resuming couple practice S0138–0140. Options pressure, tolerate, question, withdraw; observed behavior changes with suspicion/sincerity belief. Unmet desire/self-protection plausible, no compulsory intimacy depicted. T-R01 validated only at first ignorance-conditioned opportunity; new T-R02 frozen for changed state. Links CON-0007,REL-0007,INF-0007,CLM-0004/0010; high.
+
+### AGY-0007 — Hotaru gives care, interrupts inquiry, and resumes indirect pursuit
+
+Intervenes in Fujiwara confrontation/sends Yuma to date S0083–0084; finds crying Yuma, offers shelter/clothes/drink and date-delay apology S0095–0096; follows at school S0108; deflects Fujiwara S0118. Later announces cessation S0146 but restarts through substitution after hand grasp S0147–0154. Real care and protective possibilities coexist with control/avoidance; no comprehensive consent repair. Options disclosure/direct desire remain unchosen, subject's full motives OPEN. Links REL-0009,CON-0009/0011,INF-0009,H-R03; high conduct.
+
+### AGY-0008 — Fujiwara escalates information leverage; Yuma's slap is effective resistance, not resolution
+
+Generic advice to Takeda S0054–0056 preserves specifics; private plural taunt S0082 becomes access-for-silence S0111–0112. Yuma slaps at unwanted handling S0117; Hotaru/bell interrupts S0118. Fujiwara later takes photo/renews proposition S0156–0158. Prior resistance did not demonstrate destroyed leverage; future participation/distribution OPEN. General violence response remains unmodeled. Links CON-0010/0012,INF-0008,F-R02/CLM-0009; high escalation.
+
+### AGY-0009 — Yuma initiates closeness while withholding its name
+
+After Takeda declines routine S0138–0140, returns washed clothes S0141, anticipates kiss S0143–0144, then grasps Hotaru's hand/rests in lap after cessation S0146–0148. No immediate Fujiwara threat in this reapproach scene. She could leave; chooses closeness while denying kiss desire. Costs moral self-image, later secret exposure; loneliness and special attachment both possible. New Y-R03 is one-occurrence provisional, no automatic predictivity. Links REL-0008,CON-0011,VIS-0010,CLM-0007/0011; high action, precise motive bounded.

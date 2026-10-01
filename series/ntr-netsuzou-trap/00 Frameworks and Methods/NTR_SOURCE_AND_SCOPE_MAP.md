@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Six exact Japanese EPUBs structurally verified; V01 visually INSPECTED and CLOSED; later narrative uninspected"
+source_boundary: "Six exact Japanese EPUBs verified locally; V01–V02 visually INSPECTED and CLOSED; remote hash limitation preserved"
 canonical_home: series/ntr-netsuzou-trap/00 Frameworks and Methods/NTR_SOURCE_AND_SCOPE_MAP.md
 ---
 
@@ -38,7 +38,7 @@ The owner-authorized local witness directory is retained in the noncanonical exe
 | Witness | Images/spine entries | Current narrative state |
 |---|---:|---|
 | NTR-JP-V01 | 169 | ADMITTED / INSPECTED 169/169 / CLOSED V01 transaction |
-| NTR-JP-V02 | 172 | STRUCTURALLY_VERIFIED; narrative unread |
+| NTR-JP-V02 | 172 | ADMITTED / INSPECTED 172/172 / CLOSED V02 transaction |
 | NTR-JP-V03 | 172 | STRUCTURALLY_VERIFIED; narrative unread |
 | NTR-JP-V04 | 156 | STRUCTURALLY_VERIFIED; narrative unread |
 | NTR-JP-V05 | 170 | STRUCTURALLY_VERIFIED; narrative unread |
@@ -61,3 +61,7 @@ After V06 is individually closed and its **mainline state frozen**, one verified
 Before V01 interpretation, verify/admit the exact Drive witness and determine a deterministic locator: `NTR-JP-VNN → chapter → EPUB spine/image/page index → panel/balloon`. The V01 operation must inspect spine order and image mapping, chapter boundaries, publisher pagination, inserts/extras/covers/blank pages, and coordinate stability. Do not assign page numbers or chapter IDs from filenames. A deterministic evidence sidecar, if needed, belongs in Drive; Git stores its identity/hash and interpreted locators, not source images. Later volumes must reconcile their coordinate schemes without silently renumbering prior citations.
 
 Open questions: Is V01–V06 the full standard Japanese tankōbon mainline and which edition/release is each witness? Are extras embedded within numbered EPUBs? Are the named supplements genuine, available, and continuity-relevant? Can current Drive bytes be checked against the local hashes? None is settled by manga content inspection in this bootstrap.
+
+### V02 witness routing at individual close
+
+All172 V02 images were visually inspected in spine order before any V03 narrative. Mainline trap:5 S0005–0038, trap:6 S0039–0076, trap:7 S0077–0112, trap:8 S0115–0158; dividers/separators S0113–0114 and S0159–0160. Embedded **NTR★P — 捏造トラップ・パラレル / 人妻たちの昼下がり** S0161–0166 is explicitly an adult married parallel continuity, not a mainline future state or reconstruction-validation witness. Author afterword S0167, jacket/body/catalog material S0168–0171 and colophon S0172 were inspected as paratext; ISBN978-4-7580-7528-2, ©2016. Covers/blank/title/contents S0001–0004 and color divider S0040 accounted for. Source key/hash/remote-byte limitation unchanged. Important speech/form assertions were checked on original pages; no OCR reading substitute. See the V02 deep reading for interpreted routes and the prospective checkpoint for exact prior/new test boundaries.

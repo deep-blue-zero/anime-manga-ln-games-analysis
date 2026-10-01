@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V01; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V02; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER.md
 ---
 
@@ -37,3 +37,23 @@ Yuma 女同士だし友だちだし S0103 treats gender plus friendship as reaso
 ### JPS-0003 — Male speech: inquiry versus insinuation
 
 Takeda's direct questions and nervous self-explanation (S0019–0022,0108–0110) contrast Fujiwara's unfinished insinuation and derisive girl–girl proposition (S0110,0151–0152). Fujiwara's やっと frames expected access as overdue; no complete act inferred from wording. Register differentiation is written dialogue under relationship conditions, not natural voice simulation. Classmate ビッチ S0058 is attributed gossip, not authorial characterization. Links INF-0004,CON-0004,CAST-0003/0004; high local, broad repertoire bounded.
+
+## V02 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V02/SNNNN/I01` unless a volume is specified.
+
+### JPS-0004 — 浮気 displaces the harmless-friend exemption
+
+Hotaru 私も浮気してるし? S0031 and 私の浮気相手 S0036, reinforced color S0037–0038; tests whether Yuma can tell Takeda S0041. Yuma's 誰もいないよ S0049 is explicit lie under that challenge. Minimal wording matters to relationship category and moral self-image, not just lexical trivia. Written casual interrogative provocation does not fix intention/consent. Links INF-0005,REL-0009,CON-0008; high attribution.
+
+### JPS-0005 — Hotaru's love definition and self-bad comfort speak without a named beloved
+
+S0099 beloved/everyone-else division; S0100 incompatible happiness/possession wishes and 心がグチャグチャになる. Recipient unspecified, Yuma's Fujiwara reading S0104 not confirmed. 安心する S0120–0121 explained via good-person discomfort/私もいいコじゃないから; context prevents translating as objective safety. ズルい/substitute blame S0149–0152 presses Yuma self-acknowledgment while Hotaru stays indirect. Links INF-0009,REL-0009/0010,H-R03; high language, motive OPEN.
+
+### JPS-0006 — Yuma's private self-indictment grows more specific than her public speech
+
+Public デスヨネ S0022 comic formal agreement versus private cannot understand/explain S0021–0022. あたしは身勝手 S0135 names priority jealousy; 最低 S0155 condemns cheating against previous values S0153–0155. S0147 spoken denial of wanting kiss coexists with hand grasp, S0148 thought lonely. Self-narration carries recognition ahead of disclosure; not evidence every self-judgment is objective global truth. Links REL-0008,AGY-0009,CLM-0011; high attribution.
+
+### JPS-0007 — Male dialogue separates reconsideration from an exchange demand
+
+Takeda distance/honest liking/待ってる S0088–0092 grants choice under uncertainty; refusal of routine S0138–0140 changes access, not a hidden intimacy ultimatum. Fujiwara アンタら plural S0082, Takeda still knows nothing S0110, conditional 今度混ぜてよ S0112 and claimed male superiority S0117 instrumentalize information. His narrowed directive register contrasts Takeda's relational inquiry, but broad voice repertoire remains limited. Links CON-0010,INF-0007/0008,T-R02/F-R02; high local.

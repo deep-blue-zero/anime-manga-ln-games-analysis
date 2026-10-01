@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V01; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V02; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_RELATIONSHIP_DESIRE_AND_ATTACHMENT_LEDGER.md
 ---
 
@@ -45,3 +45,31 @@ Dates Yuma; asks about hesitation, includes isolated Hotaru, allows early depart
 ### REL-0005 — Hotaru ↔ Fujiwara: public couple, opaque private agreement
 
 Publicly dating; separate directions remain unresolved. Fujiwara → Hotaru: refusal followed by kick; later room invitation and expectations (S0067–0068,0139–0141,0150–0152). Hotaru → Fujiwara: refuses once, calls teaching frightening, leaves with him while watching Yuma (S0067,0127–0130,0141). Actual final room act and permission OPEN despite suggestive discovery. Reader knows kick; Yuma does not. No love or consensual equivalence inferred. Links CON-0004,CON-0005,INF-0003; confidence high violence, low subjective terms.
+
+## V02 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V02/SNNNN/I01` unless a volume is specified.
+
+### REL-0006 — Yuma → Takeda: compensation, care, and uncertain sincerity
+
+V01 planned room progress → V02 uncomfortable comparison, attempted ordinary repair, guilt at distance. OBSERVED room insistence/comparison S0008–0010, mother-assisted lunch/pancake proposal S0050–0053, missed date/opaque explanation S0085–0090, appreciation of sport/good times S0136–0137. INFERRED affection persists but readiness and priority diverge; not proof she never liked him. Public dating remains under requested distance, no finalized mutual breakup depicted. Links CON-0007,INF-0007,AGY-0005,CLM-0004; high facts, motive bounded.
+
+### REL-0007 — Takeda → Yuma: reciprocity becomes a boundary
+
+Reassurance under plausible nerves → requests distance under perceived forcing/concealment. Stops at discomfort S0011–0013; suspicious call and failed ordinary repair S0048–0056; date delay leads S0088–0092 to honest reconsideration and offer to wait. Refuses resumed morning practice S0138–0140. Wants reciprocal liking, not performance of couple progress. No actual girl–girl knowledge depicted. Withdrawal costs Yuma access without compelling intimacy. Links CON-0007,INF-0007,AGY-0006,T-R02/CLM-0010 at V02 freeze; high conduct, generalized readiness provisional.
+
+### REL-0008 — Yuma → Hotaru: priority jealousy admitted, desire still denied aloud
+
+Unnamed V01 displacement → privately admits selfish displeasure at others' priority/unfamiliar faces S0135. Visits under lost access/replacement rumor and injury concern S0016–0030,0064–0084; first briefly imagines love speech addresses her then assigns Fujiwara S0104. Anticipates kiss S0143–0145, holds hand/rests in lap after cessation announcement S0146–0148 while denying wanting kiss. Special attachment strengthened, recipient interpretation and identity OPEN. Care/jealousy overlap; later pursuit does not revise earlier permission. Links CON-0011,INF-0009,AGY-0009,CLM-0002/0011; high self-testimony/actions, moderate romantic inference.
+
+### REL-0009 — Hotaru → Yuma: affair naming, comfort, and substitution
+
+V01 practice/helper presentation → calls Yuma affair partner S0031–0038, challenges secrecy S0041–0042, provides shelter/warmth after Takeda distance S0095–0096. Situated love definition S0099–0100 leaves intended beloved undeclared; follows with closeness and an unreadable profile S0101–0104. Yuma's recipient attribution remains private; Hotaru is not shown responding to it. Announces cessation S0146, resumes after Yuma reapproach, presses her to own desire but interprets it as Takeda substitute S0149–0152. Mutual agreed romance not established. Affection/control/self-erasure alternatives remain; caring acts do not equal repair. Links CON-0008/0009/0011,INF-0009,H-R03/CLM-0008; observations high, motive OPEN.
+
+### REL-0010 — Hotaru → Fujiwara: comfort through a bad-person self-image
+
+Opaque public couple → testimony she never assumed fidelity S0029–0031, permits overnight presence as reported S0068, says comfortable with him because good people make her uncomfortable and she too is not good S0120–0122. INFERRED self-devaluation may reduce relational demands or vulnerability; neither objective safety nor complete reason for staying proved. Injury cause/earlier room permission remain OPEN, prior observed kick preserved. Yuma treats the explanation as need for Fujiwara and the love speech as Fujiwara-directed; neither interpretation is source-confirmed as complete or correct. Links CON-0004/0005/0010,INF-0006/0009,CLM-0006; high testimony, inference bounded.
+
+### REL-0011 — Fujiwara → girls/Takeda: private leverage beside public friendship
+
+V01 suspicion → taunts both girls about cheating S0081–0082, retains Takeda ignorance S0110, demands access for silence S0111–0112, renews after taking photo S0156–0158. Public Takeda confidant gives generic advice S0054–0056; private stance seeks instrumental access, not demonstrated mutual attachment. Girls do not agree; Yuma slaps S0117. Photo distribution/terms with Hotaru OPEN. Links CON-0010/0012,INF-0008,AGY-0008,CLM-0003/0009; high conduct, broad inner motive limited.
