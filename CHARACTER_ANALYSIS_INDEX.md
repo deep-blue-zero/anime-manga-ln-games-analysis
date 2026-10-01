@@ -4077,8 +4077,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - _None._
 - Analytical coverage:
   - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+  - `v02-mainline`: MANGA VOLUME: Substantial character-specific analysis within V02 mainline Shifts 07-11 through image i156, including retrospective childhood and present states without backdating knowledge. This is an analytical horizon, not appearances in every scene. Separately packaged Shift 11.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
 - Reviewed current evidence:
   - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
+  - [`reviewed-v02-mainline` — V02 frozen mainline character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md)
 
 ### Mari Otsu
 
@@ -4209,8 +4211,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - _None._
 - Analytical coverage:
   - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+  - `v02-mainline`: MANGA VOLUME: Substantial character-specific analysis within V02 mainline Shifts 07-11 through image i156, including retrospective childhood and present states without backdating knowledge. This is an analytical horizon, not appearances in every scene. Separately packaged Shift 11.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
 - Reviewed current evidence:
   - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
+  - [`reviewed-v02-mainline` — V02 frozen mainline character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md)
 
 ### Mimimi
 
@@ -6046,8 +6050,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - _None._
 - Analytical coverage:
   - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+  - `v02-mainline`: MANGA VOLUME: Substantial character-specific analysis within V02 mainline Shifts 07-11 through image i156, including retrospective childhood and present states without backdating knowledge. This is an analytical horizon, not appearances in every scene. Separately packaged Shift 11.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
 - Reviewed current evidence:
   - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
+  - [`reviewed-v02-mainline` — V02 frozen mainline character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md)
 
 ### Shiratori Tomoe
 
@@ -6376,8 +6382,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - _None._
 - Analytical coverage:
   - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+  - `v02-mainline`: MANGA VOLUME: Substantial character-specific analysis within V02 mainline Shifts 07-11 through image i156, including retrospective childhood and present states without backdating knowledge. This is an analytical horizon, not appearances in every scene. Separately packaged Shift 11.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
 - Reviewed current evidence:
   - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
+  - [`reviewed-v02-mainline` — V02 frozen mainline character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md)
 
 ### Tadokoro Megumi
 
@@ -7108,8 +7116,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - _None._
 - Analytical coverage:
   - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+  - `v02-mainline`: MANGA VOLUME: Substantial character-specific analysis within V02 mainline Shifts 07-11 through image i156, including retrospective childhood and present states without backdating knowledge. This is an analytical horizon, not appearances in every scene. Separately packaged Shift 11.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
 - Reviewed current evidence:
   - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
+  - [`reviewed-v02-mainline` — V02 frozen mainline character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md)
 
 ### Yaoyorozu Momo
 
