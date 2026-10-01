@@ -5,12 +5,12 @@ scope: CHARACTER_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
-source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; side-source classes unadmitted"
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 8 group and 26 event objects admitted with limits in Phase 2 cycle 001; other supplemental sources unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # BLUE ARCHIVE CHARACTER STATE LEDGER
@@ -21,7 +21,7 @@ This is a cumulative mutable ledger. It records **materially relevant state and 
 
 All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
 
-Group, event, bond, MomoTalk, mini, character-data and other side-source classes remain unadmitted. Performed voice is also unadmitted. The [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) records 21 `PARTIAL_MODEL` and 331 `UNMODELED` subjects across 352, with no standalone reconstruction model. Completion of the main-story readings does not establish reconstruction readiness.
+[Phase 2 cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) admits exactly **8 group and 26 event objects with limits**; its source-facing routes and the supplemental object crosswalk own exact IDs. Other supplemental objects and performed voice remain unadmitted. Current coverage is **23 PARTIAL_MODEL / 345 UNMODELED / 368 analytical subjects**, every standalone model NONE. Historical entries below retain their original information boundary; the appended cycle records contextual repertoire without inventing main-story chronology.
 
 ## Historical baselines and sequential deltas
 
@@ -3044,3 +3044,19 @@ Ayane describes Hoshino's accepted student-council presidency as a small step; H
 ## V001 C003 E043 backfill character state delta
 
 Serika works a busy Shiba Seki shift; local Shiroko pursues a Helmet Gang theft call, and Sensei follows (scene:001:u:0001-0024). Counterpart Shiroko reports living in empty Abydos homes, selling scrap and doing watch work; she declines ramen for now but accepts Sensei's smartphone and promises contact (u:0025-0074). Her incomplete-reversal account is speculation and one-per-world concern is untested. A later Binah approach shows her rejoining Hoshino/Committee for this time, without printed battle result (u:0078-0113). Add citizen and Helmet Gang speaker: 21 partial / 331 unmodeled across 352, 480/480. Chapter checkpoint next.
+
+## Phase 2 cycle 001 contextual delta — 2026-10-01
+
+[Accepted cycle and exact admission](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md). Witness a038020f, generation BA_REFRESH_20260928T032248159554Z; all 34 objects completely inspected. Main480 remains unchanged. Internal relative sequence only; no cross-source timeline, performed voice or prospective test.
+
+| Packet | Accepted character addition / constraint | Exact routes |
+|---|---|---|
+| Abydos2101–2102 | Ayane assigns real work, struggles privately with strictness and purchases refreshments; peer concern coexists with inadequate reporting/execution. Serika attempts restraint and apologizes while earlier investment credulity prevents a sole-competence portrait. Shiroko/Nonomi/Hoshino retain distinct proposals, joking and responsibility. No main office/state edge. | GROUP2101 scene001/002; GROUP2102 scene001 u0010 and scene002; packet §§3–8. |
+| C&C1201–1203 | Akane cleaning pleasure, Asuna enthusiasm, Karin styling/service enjoyment, Nel/Neru negotiated jacket and occupational limits; Yuuka dependence, civic asking, thanks and profit-led expansion coexist. Participation does not equal unrestricted consent. | GROUP1201 u0003–0007/u0029/u0047–0080;1202 scene002 u0010–0086;1203 u0001–0088; packet §4. |
+| Veritas1501–1503 | Maki image anxiety/retaliation/panic; Hare experimental curiosity and limits; Kotama data rhetoric/denied teacher motive; Yuuka refuses self-serving record abuse despite weak security; printed Eimi works/reacts under an empty person join; Chihiro corrects ethics. No real 100 kg value, diagnosis or durable reform. | GROUP1501 u0002–0043;1502 scenes001–003;1503 scene001 u0022–0042 and scene002 u0002–0010. |
+| EVENT816 all 17 | Kazusa chooses disclosure, boundaries and aid despite irritation; café warmth explains reported earlier change, with present revision of exact imitation. Reisa relinquishes an imposed challenge under heard boundaries, discloses reunion happiness and protects her rival, then E017 reopens the challenge. Airi/Natsu/Yoshimi/Suzumi retain different tastes, play and judgments. | E003/E007/E009/E012;E016 u0036–0049;Reisa E005/E010/E011 u0011–0032/E014 u0011;E017 u0025–0047; checkpoint §5. |
+| EVENT80000 independent nine | Umika festival aspiration; Kirara shared cooking; counterpart-like Shiroko reassurance/visiting limits; Kisaki sensory hospitality; Reijo martial craft; Satsuki care/recruitment rhetoric; Chiaki photographic gift; Seia indirect attention; Rio reported new interest, school-formed self and admitted joy. None establishes a whole-person or public repair account. | E117–125 individual deep readings and packet §Story coverage;Rio E125 u0014–0079;Shiroko E119 u0018–0042. |
+
+Kazusa/Reisa gain **distributed PARTIAL_MODEL** only for the cycle's event-local familiar/care/conflict and written constraints; other subjects retain their prior readiness. The current index adds Reijo and 15 source-local roles as UNMODELED. These roles are scoped analytical buckets rather than a claim of15 distinct biographies.
+
+The exact object crosswalk, packet readings and cycle checkpoint preserve all branch, label and identity warnings. Ordinary pleasure is affirmative evidence; it does not substitute for unprinted outcomes. No new durable claim/rule ID or standalone model is created.

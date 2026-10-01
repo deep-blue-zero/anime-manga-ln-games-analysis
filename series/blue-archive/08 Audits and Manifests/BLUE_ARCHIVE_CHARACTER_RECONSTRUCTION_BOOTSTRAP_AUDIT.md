@@ -3,14 +3,14 @@ series: BLUE_ARCHIVE
 artifact_type: character_reconstruction_bootstrap_audit
 scope: ALL_480_CANONICAL_MAIN_UNITS_READINESS_REFRESH_WITH_HISTORICAL_C002_AUDIT
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
-source_boundary: "Admitted analytical corpus for all 480 canonical main units at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, preserving historical per-reading witnesses; latest forward MAIN_S2_V003_C001 E014 and completed MAIN_V001_C003 E043 backfill; side sources unreviewed"
+source_boundary: "Admitted analytical corpus for all 480 canonical main units at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, preserving historical per-reading witnesses; latest forward MAIN_S2_V003_C001 E014 and completed MAIN_V001_C003 E043 backfill; 34 supplemental objects accepted with limits; other side sources unreviewed"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-09-25
-updated: 2026-09-28
+updated: 2026-10-01
 audited_repository_basis: 873243a7ad6e8780945edc3ff97c32107fbf1c1b
 historical_c002_audit_basis: 533a7c7253f6cbea8616518abdc37076f604d3c5
 historical_c002_reconciled_main_basis: d18678270a112d6d673a8a0ee7768125f8be741a
@@ -25,7 +25,11 @@ recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 # BLUE ARCHIVE CHARACTER RECONSTRUCTION BOOTSTRAP AUDIT
 ## Architecture sufficiency, evidence readiness, pilot selection, and source-admission gates
 
-## Current disposition — 2026-09-28
+## Current disposition — 2026-10-01
+
+**PASS_WITH_EXPLICIT_DEFERRALS; Phase 2 IN_PROGRESS.** [Cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) accepts 8 group and 26 event objects with exact provenance, chronology/attribution limits and seven-ledger effects. Current combined [coverage](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md) is **23 PARTIAL_MODEL /345 UNMODELED /368 analytical subjects**, every standalone model NONE and no operational/validated model or committed forecast. §29 owns this contextual reassessment; §§21–28 preserve the dated 480-main-only refresh. Earlier source witnesses, censuses and pilot advice remain historical.
+
+## Historical readiness refresh — 2026-09-28
 
 **`PASS_WITH_EXPLICIT_DEFERRALS`: the architecture can govern contextualization and a bounded pilot design; operational capability remains unestablished.** The admitted corpus now covers **480 / 480** canonical main units in the documented snapshot. The coverage index records **21 `PARTIAL_MODEL` / 331 `UNMODELED` across 352 subjects**, zero `OPERATIONAL_CANDIDATE`, zero `BOUNDED_VALIDATED`, and no standalone model or committed prediction register. These are project-local readiness states, not a claim that 331 subjects lack useful literary evidence.
 
@@ -518,3 +522,15 @@ There is **no next unopened main unit in this snapshot**. Historical §18's `BA:
 The audit retains its identity and all substantive §§0–20 as a clearly marked C002 history. Current metadata and routing point to this 480-unit assessment. The coverage index is synchronized for current census, checkpoint routing, materially outdated candidate descriptions and the revised pilot/gap assessment; existing subject identities, historical unit deltas and status-promotion bases are preserved. No current readiness label is promoted, no standalone or validation artifact is created, and no side-source class is admitted.
 
 `PASS_WITH_EXPLICIT_DEFERRALS` remains a semantic architecture/readiness disposition. Publication, housekeeping and integration checks certify their own exact repository commits; an earlier successful audit does not certify this refreshed candidate. The integration owner must complete the repository's current validation and publication sequence before reporting this maintenance tranche published.
+
+## 29. Accepted Phase 2 context and readiness — 2026-10-01
+
+The current audit inherits all 480 admitted main units and adds exactly 34 supplemental objects in [cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md). Its 31 source-facing reading/checkpoint files plus the cycle preserve8 group and 26 event IDs,40 scenes,2,044 structured units and 125 choices. The [whole-phase acceptance audit](BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md) and [object crosswalk](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv) remain authoritative for full completion; zero main-arc rows are yet complete.
+
+The ordinary evidence now includes Ayane's prepared hospitality, Serika's attempted mediation, Yuuka's civic asking/gratitude and fairness countercase, distinct C&C pleasures, contested Veritas data ethics, Kazusa's café aspiration, Reisa's private attachment, and nine independent gift encounters. These are positive literary additions irrespective of stakes. They leave private baselines, main chronology, attribution and missing legal/technical/clinical outcomes at their actual limits.
+
+Kazusa and Reisa meet **distributed PARTIAL_MODEL** for the event-local domains specified in cycle §4: recoverable conditions/appraisals/actions/aftermath, directed relations, ordinary controls, repeated secure written forms, negative constraints and explicit abstention. E017 prevents cure/cessation promotion. The two prior UNMODELED decisions and thin main bases remain retrievable. Sixteen new source-facing subjects are UNMODELED, producing **23/345/368**. A subject count is not a person census or readiness score.
+
+Yuuka gains meaningful ordinary professional contrast for a future bounded design; Serika has a peer comparison but complete linked private sources await acceptance. Their earlier pilot designs remain designs. No model, forecast, adjudication register or prospective result is created, and none is required to certify this reading cycle. Phase 3 packages require their distinct coverage and responsibility gate; completing main or this first contextual cycle does not pass it.
+
+The next authorized operation is continued Phase 2 reading/integration against all 12 arc obligations: complete remaining group/event packets, principal bond/MomoTalk and written baselines, plus named identity/mini reviews. All3,418 currently unaccepted tracked objects remain visible; an unread obligation cannot be declared optional to finish the goal.

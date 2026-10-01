@@ -5,12 +5,12 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
-source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; side-source classes unadmitted"
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 8 group and 26 event objects admitted with limits in Phase 2 cycle 001; other supplemental sources unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # BLUE ARCHIVE SENSEI ROLE AND ETHICS LEDGER
@@ -19,7 +19,7 @@ updated: 2026-09-28
 
 All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
 
-Group, event, bond, MomoTalk, mini, character-data and other side-source classes remain unadmitted. Performed voice is also unadmitted. The [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) records 21 `PARTIAL_MODEL` and 331 `UNMODELED` subjects across 352, with no standalone reconstruction model. Completion of the main-story readings does not establish reconstruction readiness.
+[Phase 2 cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) admits exactly **8 group and 26 event objects with limits**; its source-facing routes and the supplemental object crosswalk own exact IDs. Other supplemental objects and performed voice remain unadmitted. Current coverage is **23 PARTIAL_MODEL / 345 UNMODELED / 368 analytical subjects**, every standalone model NONE. Historical entries below retain their original information boundary; the appended cycle records contextual repertoire without inventing main-story chronology.
 
 ## Historical baselines and sequential deltas
 
@@ -2426,3 +2426,18 @@ Ayane briefs Sensei on daily Committee life, Hoshino's accepted presidency, lega
 ## V001 C003 E043 backfill Sensei ethics delta
 
 Sensei follows local Shiroko toward a theft call and distinguishes her from the counterpart speaker in the encounter (scene:001:u:0019-0033; choice:001-003). He asks counterpart Shiroko about food, invites ramen, accepts refusal, avoids forcing a painful past account and offers later timing (u:0034-0048; choice:004-008). He chooses to help despite her one-per-world concern, gives her a smartphone and invites contact within reach; she agrees without an on-page later call (u:0058-0074; choice:010-014). His assertion that change remains possible is a supportive judgment, not proof of guaranteed cure or Binah victory (u:0071-0113).
+
+## Phase 2 cycle 001 contextual delta — 2026-10-01
+
+[Accepted cycle and exact admission](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md). Witness a038020f, generation BA_REFRESH_20260928T032248159554Z; all 34 objects completely inspected. Main480 remains unchanged. Internal relative sequence only; no cross-source timeline, performed voice or prospective test.
+
+| Packet | Accepted adult-role evidence | Firewall / exact route |
+|---|---|---|
+| Abydos2101–2102 / C&C1201–1203 | No direct material Sensei act or relationship delta. Student work, desires, care and mistakes have their own authors. | No printed adult appearance, choices, inward thought, instruction or knowledge; zero player branches. Mentioned or implied offscreen adults are not assigned acts. |
+| Veritas1501–1503 | Maki invokes an imagined favorable teacher audience while persuading Kotama; Kotama denies that motive. | GROUP1501 u0031–0033 only. Sensei is not present, proven to view records or authorize conduct; imagined attraction is not fact. |
+| EVENT816 consultation | Welcomes initiated help, considers a nonpunitive problem, uses a peer contact and allows Reisa thinking time. | E001–005 choice/label limits; exact Suzumi disclosure contents unprinted. Helpful intention does not establish omniscience. |
+| EVENT816 errors and boundaries | Photograph loss and teasing coexist with assistance; Kazusa criticizes help and corrects intent-based reassurance. Reisa resists no-blame comfort and marks her complaint private. | E006 u0063–0073;E007 choice005;E008 choices003–004;E009 u0026–0033;E011 choice002/u0011–0012/u0027. No amalgamated options. |
+| EVENT816 aid / return | Suggestive visit precedes Kazusa's own inquiry; coordinated protection and meal offers return to ordinary relations. Later gratitude retains criticism and three alternative explanations of watchful help. | E012 u0021–0046 (u0030 inward);E013–015;E016 choice003/u0010–0026;E017 continued teasing. No medical guarantee or universal autonomy claim. |
+| EVENT80000 gift recipients | Praise, tasting, shared play and gratitude have person-specific responses. The Shiroko visitor actively reassures Sensei and Rio's joy intensifies through reception. | E117–125 independent choices/inward forms retained;E119 u0027–0042;E125 u0056–0079. Gratitude is not endorsement of hypnosis, undisclosed ingredients, fake contracts or public-policy repair. |
+
+The exact object crosswalk, packet readings and cycle checkpoint preserve all branch, label and identity warnings. Ordinary pleasure is affirmative evidence; it does not substitute for unprinted outcomes. No new durable claim/rule ID or standalone model is created.

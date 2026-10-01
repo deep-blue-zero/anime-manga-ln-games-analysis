@@ -4,14 +4,14 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; side-source classes unadmitted"
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 8 group and 26 event objects admitted with limits in Phase 2 cycle 001; other supplemental sources unadmitted"
 checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
 current_sequential_boundary: MAIN_V001_C003 E043 backfill complete; MAIN_S2_V003_C001 E014 latest forward; no unopened main unit in pinned snapshot
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # BLUE ARCHIVE CLAIM REVISION LEDGER
@@ -22,7 +22,7 @@ Use only: **PRESERVE · STRENGTHEN · REVISE · DOWNGRADE · REJECT · OPEN**.
 
 All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
 
-Group, event, bond, MomoTalk, mini, character-data and other side-source classes remain unadmitted. Performed voice is also unadmitted. The [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) records 21 `PARTIAL_MODEL` and 331 `UNMODELED` subjects across 352, with no standalone reconstruction model. Completion of the main-story readings does not establish reconstruction readiness.
+[Phase 2 cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) admits exactly **8 group and 26 event objects with limits**; its source-facing routes and the supplemental object crosswalk own exact IDs. Other supplemental objects and performed voice remain unadmitted. Current coverage is **23 PARTIAL_MODEL / 345 UNMODELED / 368 analytical subjects**, every standalone model NONE. Historical entries below retain their original information boundary; the appended cycle records contextual repertoire without inventing main-story chronology.
 
 ## Historical baselines and sequential deltas
 
@@ -3722,3 +3722,23 @@ Eight-meter oasis digging found nothing for local Shiroko/Serika, not proof no m
 ## V001 C003 E043 backfill claim delta
 
 Hoshino's local-Shiroko strength appraisal and shop-traffic impressions are not measured trends; theft response has no printed arrest/property handover (scene:001:u:0001-0032). Counterpart Shiroko's housing, scrap income and watch work are self-reports, not verified welfare/authority records (u:0033-0038). Her `たぶん` account of Hoshino's incomplete reversal/essence loss is theory, while Kuzunoha's no-reversal lines are recalled prior counsel, not an adjudicated law (u:0049-0057). One-Shiroko-per-world/distortion claim remains unmeasured and is qualified by continued co-presence (u:0058-0064,0094-0109). Smartphone transfer/promise restores reachable channel, not a completed call; Binah confrontation begins without outcome (u:0065-0113). No durable claim ID, frozen prediction or held-out diagnostic.
+
+## Phase 2 cycle 001 contextual delta — 2026-10-01
+
+[Accepted cycle and exact admission](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md). Witness a038020f, generation BA_REFRESH_20260928T032248159554Z; all 34 objects completely inspected. Main480 remains unchanged. Internal relative sequence only; no cross-source timeline, performed voice or prospective test.
+
+| Claim / packet | Adjudication | Reason and scope |
+|---|---|---|
+| BA-C006 / three group packets | PRESERVE prior REJECTED disposition | Autonomous student work and correction are observed with genuine fallibility. No universal adult-dependence rule is restored; no universal competence is substituted. |
+| BA-C015 / Abydos2101–2102 | REVISE local contextual application | Means, correct worksite, information and aftermath matter; caring intent plus a terse incomplete report does not establish responsibly executed help. Survival claim is not directly retested. |
+| BA-C017 / Abydos, C&C, Veritas | STRENGTHEN within named contexts | Shared wording, delegated/formal commitment and technical access do not settle informed control over another's life/role/data. Exact locators in packet §§7/9–10 and cycle §2. No full-series axiom. |
+| BA-C018 / Abydos2102 | OPEN transfer | Actual refreshment purchase reveals intended hospitality, but disrupted return does not show consumed welcome or establish coalition admission. |
+| BA-C014 / Veritas | PRESERVE; scoped analogy only | Technical capacity/access differs from legitimate use, but original extra-federal coercion apparatus is not directly retested. |
+| BA-C019/BA-C020 / C&C/Veritas/gifts | PRESERVE; no direct test | Role/value/identity comparisons broaden texture without adjudicating Alice's hazard, game-production result or durable belonging. |
+| EVENT816 local stalking/cure/copying accounts | REVISE / DOWNGRADE / STRENGTHEN as separately located | E001→002 narrows generic threat;E005→008 downgrades resolved misunderstanding;E006→009 revises care-as-copying;E011 strengthens explicit attachment;E007→016 revises sudden-shame-only cessation through café desire;E017 downgrades permanent cure and rejects literal solo victory. No fabricated durable claim IDs. |
+| EVENT80000 crisis-only / emotional-exclusion portraits | REVISE within the individual evidence | Reassuring Shiroko visitor, crafted gifts, Rio's institution-formed self and admitted joy complicate exclusive crisis/emotionless accounts. Main chronology and public accountability stay OPEN. |
+| Gift efficacy / legal / health / privacy outcomes | REJECT unsupported inference; OPEN missing outcomes | Satsuki gratitude does not prove hypnosis or allegiance;Seia room-law does not validate legal force;Kisaki claims do not validate health/substance;Veritas false 100 kg is not a true measurement. No whole-person replacement claim. |
+
+Only **PRESERVE / STRENGTHEN / REVISE / DOWNGRADE / REJECT / OPEN** are adjudication states. All new comparisons are retrospective; no frozen rule/prediction receives a validation score. Kazusa/Reisa distributed partial explanations retain the E017 contrary ending and the cycle's explicit abstention envelope.
+
+The exact object crosswalk, packet readings and cycle checkpoint preserve all branch, label and identity warnings. Ordinary pleasure is affirmative evidence; it does not substitute for unprinted outcomes. No new durable claim/rule ID or standalone model is created.

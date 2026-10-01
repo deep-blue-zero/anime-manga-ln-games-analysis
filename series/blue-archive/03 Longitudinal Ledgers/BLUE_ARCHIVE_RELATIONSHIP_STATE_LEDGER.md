@@ -5,12 +5,12 @@ scope: RELATIONSHIP_STATE
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
-source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; side-source classes unadmitted"
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 8 group and 26 event objects admitted with limits in Phase 2 cycle 001; other supplemental sources unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # BLUE ARCHIVE RELATIONSHIP STATE LEDGER
@@ -21,7 +21,7 @@ Track only relationships or ensembles with actual narrative state. Co-occurrence
 
 All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
 
-Group, event, bond, MomoTalk, mini, character-data and other side-source classes remain unadmitted. Performed voice is also unadmitted. The [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) records 21 `PARTIAL_MODEL` and 331 `UNMODELED` subjects across 352, with no standalone reconstruction model. Completion of the main-story readings does not establish reconstruction readiness.
+[Phase 2 cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) admits exactly **8 group and 26 event objects with limits**; its source-facing routes and the supplemental object crosswalk own exact IDs. Other supplemental objects and performed voice remain unadmitted. Current coverage is **23 PARTIAL_MODEL / 345 UNMODELED / 368 analytical subjects**, every standalone model NONE. Historical entries below retain their original information boundary; the appended cycle records contextual repertoire without inventing main-story chronology.
 
 ## Historical baselines and sequential deltas
 
@@ -2620,3 +2620,20 @@ Ayane notices Hoshino accepts the presidency while local Shiroko and Serika argu
 ## V001 C003 E043 backfill relationship delta
 
 Serika serves at the Master’s busy restaurant, and the Committee responds to local Shiroko chasing theft; Sensei follows her (scene:001:u:0001-0032). He meets counterpart Shiroko, asks about shelter/food, offers ramen without pressing when she declines, and does not demand her trauma account (u:0033-0048). He gives a smartphone and invites future contact; she agrees but no call is printed (u:0065-0074). She later joins local Shiroko, Hoshino and Committee for a Binah approach, saying `今回だけ`; co-presence and action are observed, durable membership is not (u:0078-0113).
+
+## Phase 2 cycle 001 contextual delta — 2026-10-01
+
+[Accepted cycle and exact admission](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md). Witness a038020f, generation BA_REFRESH_20260928T032248159554Z; all 34 objects completely inspected. Main480 remains unchanged. Internal relative sequence only; no cross-source timeline, performed voice or prospective test.
+
+| Direction / packet | Accepted relation and contrary case | Exact routes |
+|---|---|---|
+| Abydos peers→Ayane / Ayane→peers | Genuine worry/health concern and intent to help meet terse incomplete reporting, wrong work and additional liability. Ayane wants competent work and a pleasant return; strict summons exempts Serika without proving total innocence. Prepared hospitality is not an observed consumed welcome. | GROUP2101–2102 §§3–8;2102 scene001 u0010;scene002 u0014/u0015/u0053 labels limited. |
+| Yuuka→C&C | Accounting complaint, admission of reliance, polite civic request, gratitude and profit-led expansion coexist; proposal of permanent conversion meets Neru's refusal. | GROUP1201 u0047–0080;1202 scene002 u0010–0047;1203 u0051–0088. |
+| C&C peers→Neru | Asuna's delegated commitment precedes the leader's objection; contract pressure does not erase it. Akane's styling care respects the jacket limit; Karin enjoys service and frames prior commitment. | GROUP1202 scene002 u0049–0086;1203 u0001–0028/u0043–0050. |
+| Maki→Hare/Kotama;Chihiro→members;Yuuka↔printed Eimi | Recruitment uses different peer interests; vice-president rejects prestige consolation for other people's privacy. Office cooperation and false-record reactions are observed; no full interinstitutional repair. | GROUP1501 u0028–0043;1502 scene001/003;1503 scene001 u0022–0042. |
+| Kazusa→Reisa | Explicit aversion and label refusal coexist with initiated concern and aid; no secret-friendship or romance title is imposed by the analysis. | EVENT816 E003 u0030;E009 u0026–0033;E012 u0031–0046;E013 u0025–0029;E015 u0041–0046. |
+| Reisa→Kazusa/Sensei/Suzumi | Familiar rival mythology changes under trusted correction and a heard boundary; protective withdrawal carries explicit reunion happiness and sadness, privately entrusted to Sensei. E017 counters permanent cessation. Suzumi's support coexists with a nickname limit. | EVENT816 E005/E010;E011 u0011–0032 (u0027 confidentiality);E014 u0011–0022;E017 u0025–0047. |
+| Club→Kazusa;Kazusa→Sensei | Belonging is affirmed before disclosure, but copying the old identity is intrusive; Yoshimi restores listening yet enjoys teasing. Adult help includes photograph loss, critique and later ease. | EVENT816 E006 u0046–0073;E009 u0016–0033;E015 u0022–0026;E016 u0002–0014. |
+| Nine gift dyads | Each giver has a distinct craft/preference and reception; the counterpart-like Shiroko visitor reassures the adult. Seia's attention trap, Satsuki's stated recruitment and Kisaki's undisclosed addition preserve information limits. No universal affection or blanket consent follows. | EVENT80000 E117–125 complete readings;E119 u0027–0042;E124 receipt/room-law sequence;E125 u0056–0079. |
+
+The exact object crosswalk, packet readings and cycle checkpoint preserve all branch, label and identity warnings. Ordinary pleasure is affirmative evidence; it does not substitute for unprinted outcomes. No new durable claim/rule ID or standalone model is created.

@@ -3,14 +3,14 @@ series: BLUE_ARCHIVE
 artifact_type: synthesis_architecture
 scope: Analytical corpus architecture for Japanese-primary Blue Archive interpretation
 generation: V1
-version: "1.4"
+version: "1.5"
 status: canonical
-source_boundary: "Designed at the historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86; current production boundary is all 480 canonical main units in electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z; side-source classes remain unadmitted"
+source_boundary: "Designed at the historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86; current production boundary is all 480 canonical main units in electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z; 34 supplemental objects admitted with limits in Phase 2 cycle 001"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # BLUE ARCHIVE SYNTHESIS ARCHITECTURE V1
@@ -568,6 +568,8 @@ After each major main-story arc:
 
 This phase turns a plot reading into a social-world reading.
 
+**Current status: IN PROGRESS.** [Cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) admits 8 group and 26 event objects with limits. The [Phase 2 acceptance audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md) owns all 12 arc obligations and the full supplemental baseline; the [object crosswalk](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv) records exact review/admission states. Ordinary pleasure has intrinsic value, and priority determines review order. No arc is complete merely because a pilot could succeed.
+
 ## Phase 3 — Character / relationship / institution packages
 
 Generate monographs only after enough material exists.
@@ -605,9 +607,9 @@ Once a release is declared frozen:
 The [source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) fixes the current production boundary at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8`: **480 / 480** main units read, including `MAIN_V001_C003` E001–E043 backfill, with the latest forward unit `BA:main:series2:003:001:014`. No main unit remains unopened within that snapshot. The current sequence is:
 
 1. retain the source-facing readings, chapter checkpoints, and seven cumulative ledgers with their local information boundaries; choose the checkpoint appropriate to the subject and story state rather than treating the last backfill as a universal chronological endpoint;
-2. use the [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) and [bootstrap audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md) for current evidence readiness and any bounded pilot recommendation;
+2. use the [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) and [bootstrap audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md) and its linked contextual companion for current evidence readiness and any bounded pilot recommendation;
 3. use the materialized event-priority index, source-class crosswalk, and source-gap impact register to select complete supplemental story sequences by character, relationship, institution and ordinary-life questions; verify source class, chronology, relevance, and claim-specific gap effects before admitting selected group, event, bond/MomoTalk, or character-data sources;
-4. preserve the earlier checkpoint `DEFER` decisions as history; side-source classes remain unadmitted until a reasoned current admission decision names the sources and intended evidence gap;
+4. preserve the earlier checkpoint `DEFER` decisions as history; cycle 001's 34 supplemental objects have scoped admission; all other side sources require their own reasoned decision naming exact sources, question and limits;
 5. create a monograph or standalone reconstruction pilot only when its distinct evidence, state/domain, and responsibility gates pass; full main-story coverage alone does not certify readiness;
 6. freeze any intended prospective test before genuinely unexposed diagnostic source material is opened; comparisons against the completed main corpus are retrospective and must retain known prior exposure;
 7. continue method §10.5 for later chapter checkpoints and update affected coverage/readiness rows, preserving previous bases, counterevidence, failed tests, and promotion or demotion reasons;

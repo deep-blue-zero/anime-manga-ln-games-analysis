@@ -9,7 +9,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # BLUE ARCHIVE — CURRENT STATE AND CORPUS MAP
@@ -18,11 +18,11 @@ updated: 2026-09-28
 
 This is the canonical entrypoint for the Blue Archive analytical project.
 
-**Current analytical state:** **Phase 1 complete for the pinned main-story snapshot; Phase 2 contextualization controls are established, with supplemental story reading still unstarted - canonical Prologue, `MAIN_V001_C001`, `MAIN_V001_C002`, `MAIN_V002_C001`, `MAIN_V002_C002`, `MAIN_V003_C001`, `MAIN_V003_C002`, `MAIN_V003_C003`, `MAIN_V003_C004`, `MAIN_V004_C001`, `MAIN_V004_C002`, `MAIN_V005_C001`, `MAIN_V005_C002`, `MAIN_V006_C001`, `MAIN_V006_C002`, and `MAIN_V006_C003`, `MAIN_V100_C001`, `MAIN_V100_C002`, `MAIN_V100_C003` and `MAIN_V100_C004` checkpoints complete; `MAIN_S2_V000_C001`, `MAIN_S2_V001_C001`, `MAIN_S2_V002_C001`, `MAIN_S2_V002_C002` and `MAIN_S2_V003_C001` checkpoints complete; `MAIN_V001_C003` checkpoint complete; no unopened unit in the audited snapshot.**
+**Current analytical state:** **Phase 1 complete for the pinned main-story snapshot; Phase 2 — Arc contextualization is IN_PROGRESS, with34 supplemental objects accepted with limits - canonical Prologue, `MAIN_V001_C001`, `MAIN_V001_C002`, `MAIN_V002_C001`, `MAIN_V002_C002`, `MAIN_V003_C001`, `MAIN_V003_C002`, `MAIN_V003_C003`, `MAIN_V003_C004`, `MAIN_V004_C001`, `MAIN_V004_C002`, `MAIN_V005_C001`, `MAIN_V005_C002`, `MAIN_V006_C001`, `MAIN_V006_C002`, and `MAIN_V006_C003`, `MAIN_V100_C001`, `MAIN_V100_C002`, `MAIN_V100_C003` and `MAIN_V100_C004` checkpoints complete; `MAIN_S2_V000_C001`, `MAIN_S2_V001_C001`, `MAIN_S2_V002_C001`, `MAIN_S2_V002_C002` and `MAIN_S2_V003_C001` checkpoints complete; `MAIN_V001_C003` checkpoint complete; no unopened unit in the audited snapshot.**
 
 **Current source snapshot:** [2026-09-28 reconciliation](01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) selects the audited `a038020f` DB generation with **480** canonical main units. The previous **310**-unit V1 lock remains a historical witness. Current completed coverage is **480 / 480**; no canonical main units remain unread in the audited snapshot. The [V001 C003 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md) governs all 43 backfill readings. The latest forward released unit at this source snapshot is `BA:main:series2:003:001:014`; release and provenance must be rechecked before extending coverage. The Part 2 internal corpus volume numbers differ from official display numbers; use stable story IDs and the reconciliation note. Older dated deltas below retain their as-written historical denominators and source statements.
 
-**Current operation:** use the [event-priority index](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_EVENT_ANALYTICAL_PRIORITY_INDEX.md), [source-class crosswalk](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md) and [gap-impact register](01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md) with the refreshed [reconstruction bootstrap audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md) and [coverage index](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) to select a bounded complete supplemental story tranche. All **480** deep readings and **26** chapter checkpoints exist. Supplemental story text remains unadmitted; no standalone reconstruction model or frozen prediction register exists. Section 9 owns the current artifact census and Section 11 owns the next-operation route.
+**Current operation:** continue the active Phase 2 contextualization goal under the [all-arc acceptance audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md). [Cycle 001](02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) accepts exactly 8 group and 26 event objects; the [supplemental crosswalk](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv) retains 3452 tracked objects,34 ADMITTED and 3418 AVAILABLE_NOT_REVIEWED. All 480 main readings and 26 main checkpoints remain intact. No arc row or whole Phase 2 gate is yet complete, and every standalone model remains NONE. Section 9 owns the current artifact census; Section 11 owns the next operation.
 
 **2026-09-28 status reconciliation:** method **1.3**, synthesis architecture **1.4**, and reconstruction specification **1.2** now route through the completed main-story snapshot. The seven ledger headers and current inventory agree with that boundary; historical analytical entries retain their original source witnesses and information limits. The refreshed bootstrap audit reassesses readiness and pilot priorities without certifying a standalone model.
 
@@ -476,17 +476,17 @@ The 15 historical V1 school packages also include crossover/external-school or m
 
 ## 9. Current analytical corpus status
 
-At the completed 2026-09-28 source boundary:
+At the 2026-10-01 contextual acceptance boundary (same pinned Japanese generation):
 
 | Responsibility | Materialized state |
 |---|---|
 | Sequential main-story readings | **480 / 480**; every crosswalk row has a reading route |
 | Canonical chapter checkpoints | **26** across twelve volume/prologue groupings |
-| Longitudinal capture | All seven ledgers contain deltas through the final V001 C003 E043 backfill; historical deltas retain local uncertainty |
+| Longitudinal capture | All seven preserve 480-main deltas and append cycle 001's34 contextual objects with exact source/chronology/attribution limits |
 | Source authority | Active `a038020f` reconciliation; historical V1 lock retained |
-| Character coverage | **352** subjects: **21 PARTIAL_MODEL / 331 UNMODELED**; no operational or bounded-validated subject |
+| Character coverage | **368** analytical subjects: **23 PARTIAL_MODEL /345 UNMODELED**; no operational or bounded-validated subject; generic roles do not imply distinct biographies |
 | Reconstruction artifacts | Specification, coverage index and refreshed bootstrap audit; no standalone model or prospective/adjudication register |
-| Contextualization | Event priority (61 packages / 1,010 story IDs), nine source classes (4,864 objects), and claim-specific gap impact are indexed; supplemental story text and performed-voice evidence remain unadmitted |
+| Contextualization |34 accepted objects:8 group/26 event;3 coherent group readings,26 individual event readings,2 event checkpoints and 1 cycle checkpoint. Full scope:3404 mandatory plus 19 Kei identity and 29 mini leads;3418 tracked objects remain unaccepted. Performed voice remains unadmitted |
 | Specialist and release layers | No character monograph, adjudicated relationship/institutional synthesis, Sensei full synthesis, current-era synthesis or frozen analytical release |
 
 The [coverage index](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) owns subject-level readiness, and the [refreshed bootstrap audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md) owns the present reassessment and pilot gate. `PARTIAL_MODEL` records distributed supported mechanisms; it does not assert that a model artifact exists.
@@ -636,7 +636,7 @@ No standalone Blue Archive reconstruction model exists yet. If the coverage inde
 
 ## 11. Next analytical operation
 
-There is **no unopened canonical main unit in the audited 480-unit snapshot**. Phase 2 planning controls now inventory all 1,010 event stories, route all nine source classes, and identify claim-specific evidence debts. The next operation is to select and read a complete supplemental story sequence for an explicit character, relationship, institution, or ordinary-life question. Use the event index, source-class crosswalk and gap register to record exact IDs, provenance, documentary versus story chronology, source-class admission, and effects on both ordinary repertoire and consequential claims. Metadata intake is not admission; until a bounded reading and decision are accepted, supplemental source text remains unadmitted.
+There is **no unopened canonical main unit in the audited 480-unit snapshot**. The active operation is **architecture Phase 2 — Arc contextualization**, not Phase 3 package authoring. Continue complete supplemental reading and cumulative acceptance under the all-arc audit and exact object crosswalk. Cycle 001 accepts 34 objects;3418 tracked objects remain unaccepted. Current candidate lanes: EVENT814 all 16 for Abydos, EVENT80001 all 16 independent rotation, GROUP1101–1104, and Serika's complete 31 bond/MomoTalk/data objects. Candidate inspection does not advance the admission high-water mark until semantic review, seven-ledger/coverage/control synchronization and required publication checks. Priority determines review order and contribution; quiet pleasures remain evidence without a stakes threshold.
 
 Use the refreshed bootstrap audit and current coverage index to reassess pilot candidates from admitted checkpoints and ledgers. A standalone model requires a reviewed state/domain contract and conditional rules with evidence routes, counterevidence and abstention conditions. A prospective test additionally requires a committed freeze before exposure to genuinely unread evidence; the completed main-story corpus supports retrospective checks only when prior exposure is disclosed. These contextualization controls create neither a model nor a prediction register.
 
@@ -4047,3 +4047,9 @@ The [E043 deep reading](02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%
 ## V001 C003 canonical checkpoint and snapshot completion
 
 The [V001 C003 checkpoint](02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md) reconciles all 43 inserted units after their sequential readings. Hoshino's accountable return and accepted presidency coexist with continuing grief and unpaid debt; the Dweller's connection is severed without proof of death or permanent exclusion; railway restoration awaits testing and the closing Binah action has no printed result. The [character analytical coverage index](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) records **21 PARTIAL_MODEL / 331 UNMODELED across 352** subjects, with no standalone model or side-source admission. Main-story coverage is **480 / 480** for the pinned Japanese snapshot.
+
+## Phase 2 cycle 001 acceptance — 2026-10-01
+
+[Cycle 001](02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) admits GROUP2101–2102, GROUP1201–1203, GROUP1501–1503, EVENT816 all 17 and EVENT80000 all 9. Source classes, exact IDs/hashes, chronology, attribution and claim limits are synchronized across controls, coverage and all 7 ledgers. Current readiness is 23/345/368, no standalone model. New distributed Kazusa/Reisa explanations remain event-local; all prior main-story uncertainty and dated census history is preserved. The full goal remains active; Phase 2 completion requires all 12 arc rows and P2-R01–R09, not a successful narrow pilot or the first 34 objects.
+
+Current supplemental character coverage is maintained in the [contextual companion](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md), read together with the inherited 480-main coverage/history.

@@ -5,12 +5,12 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
-source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; side-source classes unadmitted"
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 8 group and 26 event objects admitted with limits in Phase 2 cycle 001; other supplemental sources unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # BLUE ARCHIVE SCHOOL / CLUB / INSTITUTION LEDGER
@@ -19,7 +19,7 @@ updated: 2026-09-28
 
 All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
 
-Group, event, bond, MomoTalk, mini, character-data and other side-source classes remain unadmitted. Performed voice is also unadmitted. The [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) records 21 `PARTIAL_MODEL` and 331 `UNMODELED` subjects across 352, with no standalone reconstruction model. Completion of the main-story readings does not establish reconstruction readiness.
+[Phase 2 cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) admits exactly **8 group and 26 event objects with limits**; its source-facing routes and the supplemental object crosswalk own exact IDs. Other supplemental objects and performed voice remain unadmitted. Current coverage is **23 PARTIAL_MODEL / 345 UNMODELED / 368 analytical subjects**, every standalone model NONE. Historical entries below retain their original information boundary; the appended cycle records contextual repertoire without inventing main-story chronology.
 
 ## Historical baselines and sequential deltas
 
@@ -2336,3 +2336,18 @@ Ayane confirms Hoshino accepted student-council presidency, an internal Abydos r
 ## V001 C003 E043 backfill institution delta
 
 More restaurant/customers and shops are character observations, not demographic or economic statistics; a citizen requests help with theft and a Helmet Gang speaker flees, without printed police custody/property resolution (scene:001:u:0001-0032). Counterpart Shiroko describes informal vacant-house shelter, scrap exchange and self-defense work, not an authorized municipal role (u:0033-0038). Smartphone transfer creates personal contact, not formal Abydos enrollment or housing. The Committee mobilizes against Binah in the closing text; tactical plan B and flank order are printed, but result and damage are not (u:0078-0113).
+
+## Phase 2 cycle 001 contextual delta — 2026-10-01
+
+[Accepted cycle and exact admission](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md). Witness a038020f, generation BA_REFRESH_20260928T032248159554Z; all 34 objects completely inspected. Main480 remains unchanged. Internal relative sequence only; no cross-source timeline, performed voice or prospective test.
+
+| Institution / packet | Accepted contextual account | Limit / exact route |
+|---|---|---|
+| Abydos committee | Administrative labor and paid ordinary work are real institutional activities; caring intent without adequate information produces wrong-gym destruction and reported shared liability. | GROUP2101–2102 complete; no change to C002/C003 presidency, property title or chronology; quoted messages are not separate MomoTalk objects. |
+| C&C / Seminar | Service is cover and enjoyed labor; local delegation/signature, fiscal reliance, civic café work and revenue-based conversion pressure reveal contested role definition. | GROUP1201 u0047–0081;1202 scene002;1203 u0051–0088. Full receipt/contract/revenue audit and permanent restructuring absent. |
+| Veritas / Seminar | Truth/justice slogans coexist with explicit falsification and divergent motives. Yuuka's fairness standard is positive restraint; access practice fails. Chihiro's internal technical defense culminates in ethics correction, while false rumor persists. | GROUP1501 u0025–0043;1502 all 3 scenes;1503 u0022–0042 and scene002. False100kg is not valid data; no completed deletion, offender disclosure, sanction or security guarantee. |
+| Sweets Club | Heterogeneous ingredients, tastes and café warmth supply positive belonging; collective ordering, role-play and consent mistakes retain individual differences. Mock Sweets Gang language creates no formal criminal institution. | EVENT816 E006 u0051–0052;E008/E009;E016 u0038–0049;E017 u0001–0019. |
+| Vigilante / enforcement | Suzumi reports voluntary local protection with incomplete membership oversight; Reisa's attachment complicates purely official enforcement motives. Police arrival is anticipated, not observed. | EVENT816 E004 u0056–0058;E010 u0017–0025;E013 u0005–0007;E014 u0007–0010;E015 u0052/u0006. |
+| Cross-school gift contexts | Umika credits her president and imagines local festival work; Kisaki says an office holder joins custom; Reijo's merchant/martial context, Chiaki's weekly-media claims and Rio's Millennium-shaped self broaden ordinary institution relations. | EVENT80000 E117/E120/E121/E123/E125 complete; no school-wide reform, worship, published-article audit or Rio accountability closure. |
+
+The exact object crosswalk, packet readings and cycle checkpoint preserve all branch, label and identity warnings. Ordinary pleasure is affirmative evidence; it does not substitute for unprinted outcomes. No new durable claim/rule ID or standalone model is created.

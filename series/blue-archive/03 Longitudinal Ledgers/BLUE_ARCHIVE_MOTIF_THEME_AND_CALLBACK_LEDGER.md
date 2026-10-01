@@ -5,12 +5,12 @@ scope: MOTIF_THEME_AND_CALLBACK
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
-source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; side-source classes unadmitted"
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 8 group and 26 event objects admitted with limits in Phase 2 cycle 001; other supplemental sources unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # BLUE ARCHIVE MOTIF / THEME / CALLBACK LEDGER
@@ -19,7 +19,7 @@ updated: 2026-09-28
 
 All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
 
-Group, event, bond, MomoTalk, mini, character-data and other side-source classes remain unadmitted. Performed voice is also unadmitted. The [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) records 21 `PARTIAL_MODEL` and 331 `UNMODELED` subjects across 352, with no standalone reconstruction model. Completion of the main-story readings does not establish reconstruction readiness.
+[Phase 2 cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) admits exactly **8 group and 26 event objects with limits**; its source-facing routes and the supplemental object crosswalk own exact IDs. Other supplemental objects and performed voice remain unadmitted. Current coverage is **23 PARTIAL_MODEL / 345 UNMODELED / 368 analytical subjects**, every standalone model NONE. Historical entries below retain their original information boundary; the appended cycle records contextual repertoire without inventing main-story chronology.
 
 ## Historical baselines and sequential deltas
 
@@ -2778,3 +2778,19 @@ The failed eight-meter treasure dig complicates E040's valuable-mineral hope, wh
 ## V001 C003 E043 backfill motif/theme delta
 
 Ordinary service and petty crime continue beside major reconstruction, with local Shiroko's intervention interrupting ramen (scene:001:u:0001-0032). Counterpart Shiroko's empty-house wandering and shame meet Sensei's noncompulsory invitation and a phone as a concrete line of future contact (u:0033-0074). Hoshino's grief-and-happiness words echo as counterpart Shiroko voices hope for change without erasing loss; the asserted one-per-world constraint is not settled (u:0058-0077). The later Binah sortie renews the two-Shiroko cooperation and gifted-mask motif, but closes on an action opening, not victory (u:0078-0113).
+
+## Phase 2 cycle 001 contextual delta — 2026-10-01
+
+[Accepted cycle and exact admission](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md). Witness a038020f, generation BA_REFRESH_20260928T032248159554Z; all 34 objects completely inspected. Main480 remains unchanged. Internal relative sequence only; no cross-source timeline, performed voice or prospective test.
+
+| Packet | Located motif / literary effect | Boundary |
+|---|---|---|
+| Abydos2101–2102 | Cleaning/adversary removal, shared terms with different referents, mistaken workplace, purchased hospitality, delayed summons/exemption. Caring intent does not guarantee careful execution. | Packet §§3–8; no chronology edge or observed consumed welcome. |
+| C&C1201–1203 | Cleaning versus destruction; service as cover/pleasure; hair and cherished jacket as negotiated presentation; signature versus participation; profit versus chosen occupation. | Main assigned-function comparison is explicitly analogical, not a proved callback to Alice or a retest of her hazard. |
+| Veritas1501–1503 | Measurement/image, virtual self/material record, truth/falsification, freedom/privacy, ability/ethics, copying/rumor and correction without closure. | The false 100 kg joke supports reputational harm, not physiological fact; no global cybersecurity theory. |
+| EVENT816 | Photograph and public legend, heterogeneous sweets, imposed copying versus listening, challenge letter moving demand→renunciation→return→renewed demand, café warmth as positive aspiration, rescue returning to food and friction. | E006/E009/E011/E015/E016/E017 complete; myths have strategic/comic/personal effects without proving a secret true self or permanent cure. |
+| EVENT80000 | Festival/mikoshi, martial hand-work, sensory tea, photographs versus material chocolate, room-law trap, engineering shape and school emblem. Manufacture and reception need not coincide. Student-to-adult reassurance reverses a narrow dependency picture. | Independent E117–125; no invented shared plot or overarching title. Gift joy does not complete office/institutional repair. |
+
+These are ordinary pleasures, craft and social textures with intrinsic analytical value. Larger plot stakes are not a condition for motif retention; inter-arc recurrence requires its own source locator.
+
+The exact object crosswalk, packet readings and cycle checkpoint preserve all branch, label and identity warnings. Ordinary pleasure is affirmative evidence; it does not substitute for unprinted outcomes. No new durable claim/rule ID or standalone model is created.

@@ -2,19 +2,19 @@
 series: BLUE_ARCHIVE
 artifact_type: event_analytical_priority_index
 scope: Japanese event-source intake, analytical priority, and inspection state
-version: "1.0"
+version: "1.1"
 status: canonical
-source_boundary: "Pinned electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; corpus generation BA_REFRESH_20260928T032248159554Z; event text not admitted by this inventory"
+source_boundary: "All 1010 pinned event objects; EVENT816 all 17 and EVENT80000 all 9 admitted with limits; remaining 984 objects unreviewed; electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8"
 do_not_use_as_current_authority: false
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # Blue Archive event analytical priority index
 
 ## 0. Boundary and retrieval
 
-This index covers **all 1,010 canonical event story objects under 61 `event_content_id` packages** in the [current source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md). It inventories metadata; it does not claim that the event stories have been read or admitted into analysis. The source root is `blue-archive-corpus-pipeline/corpus/GENERATIONS/BA_REFRESH_20260928T032248159554Z/` in the title's extraction workspace. Every episode row gives its stable story ID and exact path relative to that generation. The source witness is `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8`. Do not copy source text into this Git index.
+This index covers **all 1,010 canonical event story objects under 61 `event_content_id` packages** in the [current source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md). It preserves complete metadata and records accepted content review:26 objects in EVENT816/EVENT80000 are admitted with limits in cycle 001;984 remain unreviewed. Its intake cues alone do not establish priority or admission. The source root is `blue-archive-corpus-pipeline/corpus/GENERATIONS/BA_REFRESH_20260928T032248159554Z/` in the title's extraction workspace. Every episode row gives its stable story ID and exact path relative to that generation. The source witness is `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8`. Do not copy source text into this Git index.
 
 The corpus supplies release metadata and canonical story objects, but `RELEASE_CHRONOLOGY.csv` marks **story-world chronology unresolved for all 4,864 source stories**. Event release order, numeric event ID, source path and rerun context cannot independently place an event before or after a main-story state. All 1,010 overarching `event_title_jp` fields are missing in the current raw source; retain event IDs and episode routes rather than inventing event names. Twenty-eight canonical event objects have two release contexts, which must not become duplicate story readings. See the [source-class crosswalk](BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md) for provenance and the [gap register](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md) for claim effects.
 
@@ -34,8 +34,8 @@ The sixteen packages marked `INTAKE_CANDIDATE` below have participant-ID overlap
 
 | Event package | Objects | Release metadata (first; not story chronology) | Intake state | Question cue |
 |---|---:|---|---|---|
-| `EVENT_80000` | 9 | `2025-02-12 11:00:00` | `INTAKE_CANDIDATE` | First independent rotation packet; person-specific ordinary-context probe; G01, G06 |
-| `EVENT_80001` | 16 | `2026-02-18 11:00:00` | `INVENTORIED` | Open; no story-level assessment |
+| `EVENT_80000` | 9 | `2025-02-12 11:00:00` | `ADMITTED` | Complete independent rotation accepted: craft, reassurance, desire and private voice; seven HIGH, two CORE; cycle 001; G01/G06 |
+| `EVENT_80001` | 16 | `2026-02-18 11:00:00` | `INTAKE_CANDIDATE` | Next independent rotation, all 16 complete objects; no story-level assessment yet |
 | `EVENT_801` | 13 | `2021-02-25 12:30:00` | `INTAKE_CANDIDATE` | Peer and institutional routine; Group/club baseline beyond main-story crisis; G01, G06 |
 | `EVENT_802` | 11 | `2021-04-29 12:30:00` | `INVENTORIED` | Open; no story-level assessment |
 | `EVENT_803` | 21 | `2021-06-30 12:30:00` | `INVENTORIED` | Open; no story-level assessment |
@@ -51,7 +51,7 @@ The sixteen packages marked `INTAKE_CANDIDATE` below have participant-ID overlap
 | `EVENT_813` | 19 | `2022-04-27 11:30:00` | `INVENTORIED` | Open; no story-level assessment |
 | `EVENT_814` | 16 | `2022-06-22 11:30:00` | `INTAKE_CANDIDATE` | Abydos ensemble; Serika/committee ordinary and role comparison; G03 |
 | `EVENT_815` | 13 | `2022-07-14 11:00:00` | `INVENTORIED` | Open; no story-level assessment |
-| `EVENT_816` | 17 | `2022-08-24 11:00:00` | `INTAKE_CANDIDATE` | Peer leisure and preferences; Ordinary group context even without continuity change; G01, G06 |
+| `EVENT_816` | 17 | `2022-08-24 11:00:00` | `ADMITTED` | Complete CORE Kazusa/Reisa/Sweets Club ordinary, boundary and counterevidence packet; Suzumi HIGH; cycle 001; G01/G06 |
 | `EVENT_817` | 11 | `2022-09-28 11:00:00` | `INVENTORIED` | Open; no story-level assessment |
 | `EVENT_818` | 19 | `2022-10-26 11:00:00` | `INTAKE_CANDIDATE` | Yuuka cross-school overlap; Possible council/social context contrast; G02 |
 | `EVENT_819` | 11 | `2022-12-14 11:00:00` | `INVENTORIED` | Open; no story-level assessment |
@@ -103,15 +103,15 @@ Each row remains `INVENTORIED` until a review/admission record for that exact st
 
 | Event package | Story ID | Raw group ID(s) | Release | Person IDs from metadata | Contexts | Canonical path | Review |
 |---|---|---|---|---|---:|---|---|
-| `EVENT_80000` | `BA:event:80000:117` | `80000117` | `2025-02-12 11:00:00` | CH0110 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_117_80000117.md` | `INVENTORIED` |
-| `EVENT_80000` | `BA:event:80000:118` | `80000118` | `2025-02-12 11:00:00` | KIRARA | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_118_80000118.md` | `INVENTORIED` |
-| `EVENT_80000` | `BA:event:80000:119` | `80000119` | `2025-02-12 11:00:00` | SHIROKO | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_119_80000119.md` | `INVENTORIED` |
-| `EVENT_80000` | `BA:event:80000:120` | `80000120` | `2025-02-12 11:00:00` | CH0139 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_120_80000120.md` | `INVENTORIED` |
-| `EVENT_80000` | `BA:event:80000:121` | `80000121` | `2025-02-12 11:00:00` | REIZYO | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_121_80000121.md` | `INVENTORIED` |
-| `EVENT_80000` | `BA:event:80000:122` | `80000122` | `2025-02-12 11:00:00` | CH0080 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_122_80000122.md` | `INVENTORIED` |
-| `EVENT_80000` | `BA:event:80000:123` | `80000123` | `2025-02-12 11:00:00` | CH0238 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_123_80000123.md` | `INVENTORIED` |
-| `EVENT_80000` | `BA:event:80000:124` | `80000124` | `2025-02-12 11:00:00` | CH0070 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_124_80000124.md` | `INVENTORIED` |
-| `EVENT_80000` | `BA:event:80000:125` | `80000125` | `2025-02-12 11:00:00` | CH0158 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_125_80000125.md` | `INVENTORIED` |
+| `EVENT_80000` | `BA:event:80000:117` | `80000117` | `2025-02-12 11:00:00` | CH0110 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_117_80000117.md` | `ADMITTED` |
+| `EVENT_80000` | `BA:event:80000:118` | `80000118` | `2025-02-12 11:00:00` | KIRARA | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_118_80000118.md` | `ADMITTED` |
+| `EVENT_80000` | `BA:event:80000:119` | `80000119` | `2025-02-12 11:00:00` | SHIROKO | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_119_80000119.md` | `ADMITTED` |
+| `EVENT_80000` | `BA:event:80000:120` | `80000120` | `2025-02-12 11:00:00` | CH0139 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_120_80000120.md` | `ADMITTED` |
+| `EVENT_80000` | `BA:event:80000:121` | `80000121` | `2025-02-12 11:00:00` | REIZYO | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_121_80000121.md` | `ADMITTED` |
+| `EVENT_80000` | `BA:event:80000:122` | `80000122` | `2025-02-12 11:00:00` | CH0080 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_122_80000122.md` | `ADMITTED` |
+| `EVENT_80000` | `BA:event:80000:123` | `80000123` | `2025-02-12 11:00:00` | CH0238 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_123_80000123.md` | `ADMITTED` |
+| `EVENT_80000` | `BA:event:80000:124` | `80000124` | `2025-02-12 11:00:00` | CH0070 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_124_80000124.md` | `ADMITTED` |
+| `EVENT_80000` | `BA:event:80000:125` | `80000125` | `2025-02-12 11:00:00` | CH0158 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80000/EPISODE_125_80000125.md` | `ADMITTED` |
 | `EVENT_80001` | `BA:event:80001:126` | `80000126` | `2026-02-18 11:00:00` | CH0245 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80001/EPISODE_126_80000126.md` | `INVENTORIED` |
 | `EVENT_80001` | `BA:event:80001:127` | `80000127` | `2026-02-18 11:00:00` | CH0242 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80001/EPISODE_127_80000127.md` | `INVENTORIED` |
 | `EVENT_80001` | `BA:event:80001:128` | `80000128` | `2026-02-18 11:00:00` | CH0243 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_80001/EPISODE_128_80000128.md` | `INVENTORIED` |
@@ -416,23 +416,23 @@ Each row remains `INVENTORIED` until a review/admission record for that exact st
 | `EVENT_815` | `BA:event:815:011` | `10013070` | `2022-07-14 11:00:00` | AYANE, HOSHINO, NONOMI, SERIKA, SHIROKO, SHIZUKO | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_815/EPISODE_011_10013070.md` | `INVENTORIED` |
 | `EVENT_815` | `BA:event:815:012` | `10013080` | `2022-07-14 11:00:00` | CH0110, CH0166, CHISE, HOSHINO, IZUNA, MIMORI, SERIKA, SHIROKO, SHIZUKO | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_815/EPISODE_012_10013080.md` | `INVENTORIED` |
 | `EVENT_815` | `BA:event:815:013` | `10013090` | `2022-07-14 11:00:00` | AYANE, CH0109, CH0110, CH0166, CHISE, HOSHINO, IZUNA, MIMORI, NONOMI, SERIKA, SHIROKO, SHIZUKO, WAKAMO | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_815/EPISODE_013_10013090.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:001` | `10014005` | `2022-08-24 11:00:00` | KAZUSA | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_001_10014005.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:002` | `10014010` | `2022-08-24 11:00:00` | KAZUSA | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_002_10014010.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:003` | `10014015` | `2022-08-24 11:00:00` | CH0167, KAZUSA | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_003_10014015.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:004` | `10014020` | `2022-08-24 11:00:00` | KAZUSA, SUZUMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_004_10014020.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:005` | `10014025` | `2022-08-24 11:00:00` | CH0167, SUZUMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_005_10014025.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:006` | `10014030` | `2022-08-24 11:00:00` | AIRI, CH0155, YOSHIMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_006_10014030.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:007` | `10014035` | `2022-08-24 11:00:00` | KAZUSA | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_007_10014035.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:008` | `10014040` | `2022-08-24 11:00:00` | AIRI, CH0155, CH0167, KAZUSA, YOSHIMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_008_10014040.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:009` | `10014045` | `2022-08-24 11:00:00` | AIRI, CH0155, CH0167, KAZUSA, YOSHIMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_009_10014045.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:010` | `10014050` | `2022-08-24 11:00:00` | CH0167 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_010_10014050.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:011` | `10014055` | `2022-08-24 11:00:00` | CH0167 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_011_10014055.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:012` | `10014060` | `2022-08-24 11:00:00` | KAZUSA | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_012_10014060.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:013` | `10014065` | `2022-08-24 11:00:00` | AIRI, CH0155, KAZUSA, YOSHIMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_013_10014065.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:014` | `10014070` | `2022-08-24 11:00:00` | AIRI, CH0155, CH0167, KAZUSA, YOSHIMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_014_10014070.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:015` | `10014075` | `2022-08-24 11:00:00` | AIRI, CH0155, KAZUSA, YOSHIMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_015_10014075.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:016` | `10014080` | `2022-08-24 11:00:00` | KAZUSA | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_016_10014080.md` | `INVENTORIED` |
-| `EVENT_816` | `BA:event:816:017` | `10014085` | `2022-08-24 11:00:00` | AIRI, CH0155, CH0167, KAZUSA, YOSHIMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_017_10014085.md` | `INVENTORIED` |
+| `EVENT_816` | `BA:event:816:001` | `10014005` | `2022-08-24 11:00:00` | KAZUSA | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_001_10014005.md` | `ADMITTED` |
+| `EVENT_816` | `BA:event:816:002` | `10014010` | `2022-08-24 11:00:00` | KAZUSA | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_002_10014010.md` | `ADMITTED` |
+| `EVENT_816` | `BA:event:816:003` | `10014015` | `2022-08-24 11:00:00` | CH0167, KAZUSA | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_003_10014015.md` | `ADMITTED` |
+| `EVENT_816` | `BA:event:816:004` | `10014020` | `2022-08-24 11:00:00` | KAZUSA, SUZUMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_004_10014020.md` | `ADMITTED` |
+| `EVENT_816` | `BA:event:816:005` | `10014025` | `2022-08-24 11:00:00` | CH0167, SUZUMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_005_10014025.md` | `ADMITTED` |
+| `EVENT_816` | `BA:event:816:006` | `10014030` | `2022-08-24 11:00:00` | AIRI, CH0155, YOSHIMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_006_10014030.md` | `ADMITTED` |
+| `EVENT_816` | `BA:event:816:007` | `10014035` | `2022-08-24 11:00:00` | KAZUSA | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_007_10014035.md` | `ADMITTED` |
+| `EVENT_816` | `BA:event:816:008` | `10014040` | `2022-08-24 11:00:00` | AIRI, CH0155, CH0167, KAZUSA, YOSHIMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_008_10014040.md` | `ADMITTED` |
+| `EVENT_816` | `BA:event:816:009` | `10014045` | `2022-08-24 11:00:00` | AIRI, CH0155, CH0167, KAZUSA, YOSHIMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_009_10014045.md` | `ADMITTED` |
+| `EVENT_816` | `BA:event:816:010` | `10014050` | `2022-08-24 11:00:00` | CH0167 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_010_10014050.md` | `ADMITTED` |
+| `EVENT_816` | `BA:event:816:011` | `10014055` | `2022-08-24 11:00:00` | CH0167 | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_011_10014055.md` | `ADMITTED` |
+| `EVENT_816` | `BA:event:816:012` | `10014060` | `2022-08-24 11:00:00` | KAZUSA | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_012_10014060.md` | `ADMITTED` |
+| `EVENT_816` | `BA:event:816:013` | `10014065` | `2022-08-24 11:00:00` | AIRI, CH0155, KAZUSA, YOSHIMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_013_10014065.md` | `ADMITTED` |
+| `EVENT_816` | `BA:event:816:014` | `10014070` | `2022-08-24 11:00:00` | AIRI, CH0155, CH0167, KAZUSA, YOSHIMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_014_10014070.md` | `ADMITTED` |
+| `EVENT_816` | `BA:event:816:015` | `10014075` | `2022-08-24 11:00:00` | AIRI, CH0155, KAZUSA, YOSHIMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_015_10014075.md` | `ADMITTED` |
+| `EVENT_816` | `BA:event:816:016` | `10014080` | `2022-08-24 11:00:00` | KAZUSA | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_016_10014080.md` | `ADMITTED` |
+| `EVENT_816` | `BA:event:816:017` | `10014085` | `2022-08-24 11:00:00` | AIRI, CH0155, CH0167, KAZUSA, YOSHIMI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_816/EPISODE_017_10014085.md` | `ADMITTED` |
 | `EVENT_817` | `BA:event:817:001` | `10015005` | `2022-09-28 11:00:00` | CH0095, YUUKA | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_817/EPISODE_001_10015005.md` | `INVENTORIED` |
 | `EVENT_817` | `BA:event:817:002` | `10015010` | `2022-09-28 11:00:00` | CH0095, HIBIKI, KOTORI, UTAHA | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_817/EPISODE_002_10015010.md` | `INVENTORIED` |
 | `EVENT_817` | `BA:event:817:003` | `10015020` | `2022-09-28 11:00:00` | CH0095, CH0160, HARE, KOTAMA, MAKI | 1 | `02_CANONICAL_STORIES/EVENT/EVENT_817/EPISODE_003_10015020.md` | `INVENTORIED` |
@@ -1118,3 +1118,14 @@ Each row remains `INVENTORIED` until a review/admission record for that exact st
 ## 4. Update and admission rule
 
 When a complete event reading is accepted, update the exact episode rows, package-level question and assessed priority, and route resulting state/relationship/ordinary-life claims to the seven ledgers and subject coverage index as warranted. Record chronology confidence and competing interpretations in the [source-class crosswalk](BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md) and [gap register](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md). A finding of no durable change is still a literary result and may establish preference, pleasure, humor, routine, care or a negative constraint. Reconcile inventory against the pinned `stories.jsonl` before any source refresh; additions receive `UNASSESSED` rather than inheriting a prior event's priority.
+
+## Current content review and independent rotation — 2026-10-01
+
+[Cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) accepts **2 complete packages / 26 event objects**, leaving **59 packages / 984 objects** for complete review. All remaining objects retain eligibility. Initial intake prose above records the selection basis; the current rows and the [supplemental object crosswalk](BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv) own actual workflow.
+
+| Package | Grounded priority / function | Accepted scope and limits |
+|---|---|---|
+| EVENT816 all 17 | CORE Kazusa/Reisa/Sweets Club; HIGH Suzumi. Café warmth, heterogeneous pleasures, attachment, privacy, listening and care errors. | Event-local repertoire and conditional mechanisms; E017 prevents permanent-cure inference; tag, health and main-chronology limits retained. |
+| EVENT80000 all 9 | CORE E119 Shiroko visitor/E125 Rio; HIGH other 7. Independent gift craft, preferences, written voice and directed care. | Person-specific ordinary encounters; no fabricated shared plot, title, exact variant, public accountability repair or magical/legal/medical mechanism. |
+
+Next independent rotation is EVENT80001 all 16. EVENT814 all 16 is the inquiry-led Abydos comparison. Quiet material is fully inspected within its complete packet and retained as affirmative literary evidence; no stakes filter or one-scene ceiling is applied.

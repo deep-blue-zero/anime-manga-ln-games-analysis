@@ -5,12 +5,12 @@ scope: JAPANESE_VOICE_AND_ADDRESS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
-source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; side-source classes unadmitted"
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 8 group and 26 event objects admitted with limits in Phase 2 cycle 001; other supplemental sources unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # BLUE ARCHIVE JAPANESE VOICE AND ADDRESS LEDGER
@@ -19,7 +19,7 @@ updated: 2026-09-28
 
 All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
 
-Group, event, bond, MomoTalk, mini, character-data and other side-source classes remain unadmitted. Performed voice is also unadmitted. The [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) records 21 `PARTIAL_MODEL` and 331 `UNMODELED` subjects across 352, with no standalone reconstruction model. Completion of the main-story readings does not establish reconstruction readiness.
+[Phase 2 cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) admits exactly **8 group and 26 event objects with limits**; its source-facing routes and the supplemental object crosswalk own exact IDs. Other supplemental objects and performed voice remain unadmitted. Current coverage is **23 PARTIAL_MODEL / 345 UNMODELED / 368 analytical subjects**, every standalone model NONE. Historical entries below retain their original information boundary; the appended cycle records contextual repertoire without inventing main-story chronology.
 
 ## Historical baselines and sequential deltas
 
@@ -3046,3 +3046,19 @@ Hoshino jokingly issues `生徒会長命令` about swimsuits; Ayane's `ようや
 ## V001 C003 E043 backfill voice/address delta
 
 Shared `シロコ` source tags at the theft encounter need dialogue-context attribution; Sensei's `こっちのシロコ` contrasts the counterpart with the other returning an item (scene:001:u:0025-0032; choice:002). Counterpart's `一人は慣れてる` and `みんなに合わせる顔が` mark practiced isolation and shame, while Sensei's `今度でも` respects timing (u:0033-0048). Her `たぶん`/`思う` bounds the reversal theory; `一つの世界に一人` is her assertion, not narrated law (u:0049-0064). Sensei's emphasized `また`/`手の届くところで` offers continuing reachable support; her `また連絡する` accepts it (u:0065-0074). The final `#videons2` and Korean `log=호시노` are source-form wrappers, not added speech evidence (u:0078,0113).
+
+## Phase 2 cycle 001 contextual delta — 2026-10-01
+
+[Accepted cycle and exact admission](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md). Witness a038020f, generation BA_REFRESH_20260928T032248159554Z; all 34 objects completely inspected. Main480 remains unchanged. Internal relative sequence only; no cross-source timeline, performed voice or prospective test.
+
+| Packet | Secure written-register contribution | Attribution / channel limit |
+|---|---|---|
+| Abydos2101–2102 | Ayane's formal address/self-directed strictness, Hoshino's negotiated age-play, Serika's corrections/apology, Nonomi's bright punitive language and Shiroko's terse planning. Shared work/cleaning words carry incompatible referents. | Packet §7;2102 scene002 u0014/u0015/u0053 retained as warnings. No inferred acting/pitch; quoted message exchange stays group class. |
+| C&C1201–1203 | Cleaning pleasure, operative/service vocabulary, request/mission contrast, Yuuka's heightened asking, contract language and Neru's refusal. Gentle forms do not settle consent; service slips are not customer harm. | Packet §5;1201 u0008–0014/u0030–0046,1202 scene002 u0052/u0082–0084,1203 u0035/u0080 excluded from decisive personal-register claims. |
+| Veritas1501–1503 | Truth/justice/freedom slogans versus admitted falsification; Yuuka fairness norm, Hare specialization limits, Chihiro privacy rebuke and coda rumor/hypothesis forms. | Packet §5;1501 u0012,1503 scene001 u0004/u0037–0038 limited. Printed Eimi secure but source person join empty; no silent correction. |
+| EVENT816 | Kazusa's negotiated plain/polite respect, embarrassment protest and later relaxed greeting; Reisa heroic full-naming alongside private uncertainty/sadness; Airi honorific taste/support, Natsu theatrical analogy, Yoshimi direct listening/ordering, Suzumi qualified judgment. | Checkpoint §5/§6 exact episode anomaly list. E015 slang printed Airi, not secure Kazusa voice. No performed voice or universally fixed persona. |
+| EVENT80000 | Distinct gift-making explanations and hesitations; Kisaki archaizing self/address, Reijo martial exposition becoming bashful, Chiaki quiz-like craft speech, Seia familiar juridical play, Rio explanatory precision disrupted by admitted joy. | E117–125 written witnesses; control/reply seams retained. A source placeholder is not an actual username; counterpart variant attribution remains conditional. |
+
+Character-data/profile baselines are still **unadmitted** in this cycle. Story-register evidence is positive while contextual UI conditions, texting and variant comparison remain further obligations.
+
+The exact object crosswalk, packet readings and cycle checkpoint preserve all branch, label and identity warnings. Ordinary pleasure is affirmative evidence; it does not substitute for unprinted outcomes. No new durable claim/rule ID or standalone model is created.

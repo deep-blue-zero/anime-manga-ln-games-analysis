@@ -3,14 +3,14 @@ series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
 scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_C003_CHECKPOINTS_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_C002_CHECKPOINTS_PLUS_V005_C001_C002_PLUS_V006_C001_C002_C003_CHECKPOINTS_PLUS_V100_C001_C002_CHECKPOINTS_PLUS_V100_C003_CHECKPOINT_PLUS_V100_C004_CHECKPOINT_PLUS_S2_V000_C001_CHECKPOINT_PLUS_S2_V001_C001_CHECKPOINT_PLUS_S2_V002_C001_CHECKPOINT_PLUS_S2_V002_C002_CHECKPOINT_PLUS_S2_V003_C001_CHECKPOINT
 generation: V1
-version: "5.57"
+version: "5.58"
 status: canonical
-source_boundary: "All 480 canonical main units through S2 V003 C001 and V001 C003 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in snapshot; side-source classes unreviewed"
+source_boundary: "All 480 canonical main units through S2 V003 C001 and V001 C003 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in snapshot; 34 supplemental objects admitted with limits"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-09-25
-updated: 2026-09-28
+updated: 2026-10-01
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md"
 next_unopened_main_unit: none_at_audited_snapshot
@@ -55,7 +55,7 @@ Readiness uses the project-local specification:
 - `OPERATIONAL_CANDIDATE`;
 - `BOUNDED_VALIDATED`.
 
-All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means that canonical checkpoint/ledger analysis already supports at least one conditional mechanism, not that a finished model exists. Current census: **21 partial / 331 unmodeled / 352 total**; no operational or validated model. Current pilot audit: §464.
+All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means that canonical checkpoint/ledger analysis already supports at least one conditional mechanism, not that a finished model exists. Current combined census: **23 partial / 345 unmodeled / 368 total**; models `NONE`. Supplemental authority: [contextual coverage](BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md). §464 is the main-only audit.
 
 ## 2. Shared corpus boundary
 
@@ -64,11 +64,13 @@ All rows inherit:
 - analyzed main-story basis: all 480 canonical main units in the [current source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md), with Chapter 3 Abydos backfill separately read and checkpointed after the latest forward S2 V003 C001 unit;
 - current backfill checkpoint: `MAIN_V001_C003`; latest forward checkpoint: `MAIN_S2_V003_C001`; all earlier chapter checkpoints remain lineage;
 - main-story coverage: `480 / 480` canonical units, with no unopened main unit in this audited snapshot;
-- side-source analytical state: no group, event, bond, MomoTalk, mini, or character-data backfill admitted for these readiness judgments;
+- current supplemental state: 8 group and 26 event objects admitted with limits; see the contextual coverage companion;
 - performed voice: `NOT_ADMITTED` for every subject;
 - next unopened main unit: none in the audited snapshot; recheck release and source provenance before extending it.
 
 The historical V1 source lock reports 53 group, 490 event, 694 bond, 920 MomoTalk, 244 character-data objects and 128 character packages. The active DB generation instead reports 65 group, 1,010 event, 1,161 bond, 1,161 MomoTalk, 511 character-data objects and 151 character packages. These are retrieval inventories, not character-specific analysis or side-source admission.
+
+**Snapshot boundary:** §§3–5 tables retain the 2026-09-28 main-only rows (352 subjects). [Contextual coverage](BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md) overrides 30 rows and adds 16 subjects; the other 322 rows inherit unchanged.
 
 ## 3. Source availability versus analyzed coverage
 
@@ -1504,7 +1506,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | middle-school student B (E041 role actor) | `UNMODELED` | `NONE` | worries about future and recalls high school option | Narrow rumor sample; identity, chronology and independent range absent. |
 | middle-school student A (E041 role actor) | `UNMODELED` | `NONE` | reports school closure/council dissolution and doubts heiress presence | Narrow rumor sample; identity, chronology and independent range absent. |
 
-**Historical V002 C001/C002 census and promotion basis:** The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Momoi, Midori, Alice, Yuzu and Yuuka—to distributed `PARTIAL_MODEL`. C002 E001 added Rio/Himari, E004 Sumire/Kirara/Erika, E009 Toki, E012 Noa, E016 Eimi/Chihiro and E022 Key as `UNMODELED`, yielding **twenty-one partial / twenty-six unmodeled** across 47 tracked subjects. Key is a provisional speaking entity separate from Alice, not an ontology judgment. These are not runnable models: independent ordinary/private contexts, future responses and several origin/institutional facts remain missing. All literary monographs and standalone reconstruction models are `NONE`; no schema-filled prototype is implied. No row is `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED`. Current census: **21 partial / 331 unmodeled / 352 total**, models `NONE`; current audit: §464.
+**Historical V002 C001/C002 census and promotion basis:** The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Momoi, Midori, Alice, Yuzu and Yuuka—to distributed `PARTIAL_MODEL`. C002 E001 added Rio/Himari, E004 Sumire/Kirara/Erika, E009 Toki, E012 Noa, E016 Eimi/Chihiro and E022 Key as `UNMODELED`, yielding **twenty-one partial / twenty-six unmodeled** across 47 tracked subjects. Key is a provisional speaking entity separate from Alice, not an ontology judgment. These are not runnable models: independent ordinary/private contexts, future responses and several origin/institutional facts remain missing. All literary monographs and standalone reconstruction models are `NONE`; no schema-filled prototype is implied. No row is `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED`. Current combined census: **23 partial / 345 unmodeled / 368 total**, models `NONE`; contextual companion is current. Tables retain the main-only snapshot.
 
 ### 5.1 Domain-specific readiness
 
@@ -1865,11 +1867,11 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | middle-school student B (E041 role actor) | U | U | U | U | U |
 | middle-school student A (E041 role actor) | U | U | U | U | U |
 
-For **all 352 currently tracked subjects**, romance/dating, crossover, and general unfamiliar-group extrapolation remain `UNMODELED`. Public performance is partial only for Aru's evidenced PS68/outlaw persona; other performance settings are unsupported. Ethical-decision readiness is partial only for the named institutional, boundary, care or coercion mechanisms, never an unrestricted moral algorithm. No subject has broad private/MomoTalk readiness or performed-voice readiness.
+For **all 352 subjects in this snapshot**, romance/dating, crossover, and general unfamiliar-group extrapolation remain `UNMODELED`. Public performance is partial only for Aru's evidenced PS68/outlaw persona; other performance settings are unsupported. Ethical-decision readiness is partial only for the named institutional, boundary, care or coercion mechanisms, never an unrestricted moral algorithm. No subject has broad private/MomoTalk readiness or performed-voice readiness.
 
 ## 6. Evidence concentration and sampling bias
 
-Current ordinary controls are broader (audit §23 via §464). §§6.1–6.3 preserve the C002 sampling assessment; private breadth remains uneven.
+Current ordinary additions are in the contextual companion. §§6.1–6.3 and §464 preserve earlier sampling/readiness assessments.
 
 ### 6.1 Crisis- and institution-heavy subjects
 
@@ -4745,3 +4747,7 @@ Routing: [V001 C003 E043 reading](../02%20Sequential%20Readings/MAIN/VOLUME_001_
 ## 464. Readiness refresh — 2026-09-28
 
 [Current audit §§21–28](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md): 480/480; 21 partial/331 unmodeled. State limits revised; no promotion or side-source admission. History retained.
+
+## 465. Phase 2 contextual coverage — 2026-10-01
+
+[Current companion](BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md): 34 objects admitted with limits; 23 partial/345 unmodeled/368 subjects. Historical rows and deltas remain intact.
