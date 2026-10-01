@@ -4,18 +4,18 @@ artifact_id: NTR_CURRENT_STATE
 artifact_type: corpus_map
 series: "NTR: Netsuzou Trap / 捏造トラップ-NTR-"
 generation: NTR_BOOTSTRAP_V1
-version: "0.2"
+version: "0.3"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V06 individually CLOSED; V06 mainline frozen; mature integration pending"
+source_boundary: "Japanese manga V01–V06 individually CLOSED; post-V06 role-gap audit complete; mature integration pending"
 canonical_home: series/ntr-netsuzou-trap/CURRENT_STATE_AND_CORPUS_MAP.md
 project_initialization:
   status: canonical
-  architecture_lifecycle: INITIAL
+  architecture_lifecycle: STABILIZED
   bootstrap_generation: NTR_BOOTSTRAP_V1
   base_commit: 5b5166b14d2056db13c7380ac653b91c289be34f
   governing_method: "00 Frameworks and Methods/NTR_ANALYTICAL_METHOD.md"
@@ -37,14 +37,14 @@ project_initialization:
   owner_review: APPROVED_BY_OWNER_CONTINUOUS_RUN_PROMPT_20261001
   sequential_analysis_lock: OPEN
   lock_reason: VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION
-  next_permitted_operation: POST_V06_ROLE_GAP_AUDIT
+  next_permitted_operation: MATURE_MAINLINE_INTEGRATION
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V01
   terminal_boundary: V06
   committed_high_water_mark: V06
-  next_candidate_operation: POST_V06_ROLE_GAP_AUDIT
+  next_candidate_operation: MATURE_MAINLINE_INTEGRATION
   confirmation_between_units: false
   run_state: active
 ---
@@ -58,7 +58,7 @@ This is the single first-read surface for `series/ntr-netsuzou-trap/` on the con
 - Primary medium: Japanese manga, numbered V01–V06 tankōbon EPUBs. Their exact identities, Drive IDs, verified local hashes, package order, and remote-hash limitation are in the [source and scope map](00%20Frameworks%20and%20Methods/NTR_SOURCE_AND_SCOPE_MAP.md). All six are structurally verified; preparation supplies no later narrative knowledge.
 - Narrative admission/complete visual inspection/individual close: **V01 169/169, V02 172/172, V03 172/172, V04 156/156, V05 170/170 and V06 170/170 images** (**1,009/1,009 inspected**). Individually closed [sequential readings](01%20Sequential%20Readings/) preserve entering states and immutable earlier forecasts. [V06 reading](01%20Sequential%20Readings/NTR_V06_DEEP_READING.md) and [mainline freeze](01%20Sequential%20Readings/NTR_V06_PROSPECTIVE_FREEZE.md) distinguish bounded report-mediated support, changed-information NDO and the first unrestrained photo-account result. All eight ledgers append V06 evidence. Present shared return, Y's interpretation of incomplete H trust, conditional cohabitation, public exposure/removal and unresolved repair remain distinct. Embedded post-return body-cover comedy is separately routed; external supplements remain unadmitted. No global capability grades are asserted.
 - Supplemental material and the television adaptation: outside the mainline source boundary; see the quarantine queue in the source map. No supplemental narrative object was acquired or admitted in this bootstrap.
-- `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; reason `VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION`. The authorized terminal boundary **V06 is individually CLOSED and the six-volume mainline FROZEN**. No later narrative source is authorized by this run. Next: committed architecture/role-gap/mature-integration audit before mature drafts. Character evidence/models/monographs, directional relationships, specialists, substantial integrated thesis, adversarial coverage review, final audits and stable-branch publication remain required; sequential completion does not establish whole-task completion.
+- `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; reason `VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION`. The authorized terminal boundary **V06 is individually CLOSED and the six-volume mainline FROZEN**. No later narrative source is authorized by this run. The [post-V06 architecture/role-gap audit](07%20Audits%20and%20Handoffs/NTR_POST_V06_ARCHITECTURE_ROLE_GAP_AND_INTEGRATION_AUDIT.md) assigns mature responsibilities and stabilizes the architecture. Its recoverable commit must precede mature drafts; next is MATURE_MAINLINE_INTEGRATION. Character evidence/models/monographs, directional relationships, specialists, substantial integrated thesis, adversarial coverage review, final audits and stable-branch publication remain required; sequential completion does not establish whole-task completion.
 - Publication target: stable branch `series/ntr-netsuzou-trap`. Bootstrap history is preserved in the [bootstrap receipt](07%20Audits%20and%20Handoffs/NTR_BOOTSTRAP_RECEIPT.md). Git history confirms integration into `main` at `9f1aadd7`; at run start, `main` was `c0e08f7347ded1d2c70c4914319178329e6b9b8c` and the stable branch was `7bca96f3da16a6077aa24a20ca646f9d71724e79`. Ordinary merge `22df7ff2e17047afd10d17fdc0bbc4fdaa8c474b` preserved both histories; its complete tree equals that starting `main` tree. Historical receipt statements remain statements about the bootstrap transaction.
 
 ## Governing homes and retrieval order
@@ -66,8 +66,14 @@ This is the single first-read surface for `series/ntr-netsuzou-trap/` on the con
 1. This entrypoint, then the [source and scope map](00%20Frameworks%20and%20Methods/NTR_SOURCE_AND_SCOPE_MAP.md). Verify branch head and authority state before using the files.
 2. [Analytical method](00%20Frameworks%20and%20Methods/NTR_ANALYTICAL_METHOD.md) for prospective reading, consent and knowledge distinctions, locators, and volume closeout.
 3. [Synthesis architecture](00%20Frameworks%20and%20Methods/NTR_SYNTHESIS_ARCHITECTURE.md) for cumulative responsibilities, artifact promotion, supplements, and completion gates.
-4. [Character reconstruction specification](00%20Frameworks%20and%20Methods/NTR_CHARACTER_RECONSTRUCTION_SPEC.md) governs local conditional models and validation. The V01 freeze is provisional; no global registry or capability grade is authored.
+4. [Character reconstruction specification](00%20Frameworks%20and%20Methods/NTR_CHARACTER_RECONSTRUCTION_SPEC.md) governs local conditional models and validation. All six time-indexed freezes retain their original rule identities and literal later adjudications; new postcorpus model rules are untested. No global registry or capability grade is authored.
 5. The eight [longitudinal instruments](03%20Longitudinal%20Ledgers/) preserve their bootstrap schemas and append evidence by closed volume. Consult the specific home before updating it.
 6. For each authorized VNN operation, admit only that exact Japanese witness, confirm its locator convention, and close the complete volume transaction before advancing. Structural preparation of later volumes supplies no narrative knowledge. The explicit owner prompt authorizes continuous execution through V06.
 
 The live project-initiation, sequential continuation, authority/supersession, reasoning, topology, handoff, reconstruction, and integration policies in `governance/` and `characters/` govern execution. No source page or dialogue was read during the September bootstrap or the foundation-verification stage.
+
+## Mature integration commissioned after V06
+
+The role-gap audit at the frozen `50f7e15b331d39e4df16f9b8d62b358933bffe83` corpus boundary commissions four character triples under `04 Character Analysis/` (evidence ledger, operational model, literary monograph); three directional dyads and an ensemble network under `05 Relationship Synthesis/`; and six specialists plus one full synthesis under `06 Series Synthesis/`. Consent/repair, information/exposure, agency/material constraint, manga form, written Japanese/categories and ending causality each have independent responsibilities. Local reconstruction validation and final source/sequential/ledger/claim/coverage/adversarial/repository audits belong under `07 Audits and Handoffs/`.
+
+These are assigned homes, not completed-artifact claims. Candidate integrity and semantic acceptance, canonical integration, fresh anti-compression review, final audit and stable publication remain distinct required stages. The eight existing ledgers retain their independent responsibilities; no duplicate current map, ninth ledger, global character output or supplement admission is authorized by this promotion.
