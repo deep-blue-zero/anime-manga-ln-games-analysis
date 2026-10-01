@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V05 individually CLOSED; V06 narrative unread"
+source_boundary: "Japanese manga V01–V06 individually CLOSED; V06 mainline frozen; mature integration pending"
 canonical_home: series/ntr-netsuzou-trap/CURRENT_STATE_AND_CORPUS_MAP.md
 project_initialization:
   status: canonical
@@ -37,14 +37,14 @@ project_initialization:
   owner_review: APPROVED_BY_OWNER_CONTINUOUS_RUN_PROMPT_20261001
   sequential_analysis_lock: OPEN
   lock_reason: VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION
-  next_permitted_operation: ADMIT_AND_READ_V06
+  next_permitted_operation: POST_V06_ROLE_GAP_AUDIT
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V01
   terminal_boundary: V06
-  committed_high_water_mark: V05
-  next_candidate_operation: V06
+  committed_high_water_mark: V06
+  next_candidate_operation: POST_V06_ROLE_GAP_AUDIT
   confirmation_between_units: false
   run_state: active
 ---
@@ -56,9 +56,9 @@ This is the single first-read surface for `series/ntr-netsuzou-trap/` on the con
 ## Current boundary
 
 - Primary medium: Japanese manga, numbered V01–V06 tankōbon EPUBs. Their exact identities, Drive IDs, verified local hashes, package order, and remote-hash limitation are in the [source and scope map](00%20Frameworks%20and%20Methods/NTR_SOURCE_AND_SCOPE_MAP.md). All six are structurally verified; preparation supplies no later narrative knowledge.
-- Narrative admission/complete visual inspection/individual close: **V01 169/169, V02 172/172, V03 172/172, V04 156/156 and V05 170/170 images** (839 inspected cumulatively). V06 remains narratively unread. Individually committed [sequential readings](01%20Sequential%20Readings/) preserve entering states; [V05 reading](01%20Sequential%20Readings/NTR_V05_DEEP_READING.md) and [V05 freeze](01%20Sequential%20Readings/NTR_V05_PROSPECTIVE_FREEZE.md) distinguish failed request/conditional-demand components from genuine no-opportunity results. All eight ledgers append V05 evidence and explicit revisions. Named recipient, local assent, public category and real peer photo audience remain distinct; sender agency is strongly inferred, without a depicted dispatch. No global capability grades are asserted.
+- Narrative admission/complete visual inspection/individual close: **V01 169/169, V02 172/172, V03 172/172, V04 156/156, V05 170/170 and V06 170/170 images** (**1,009/1,009 inspected**). Individually closed [sequential readings](01%20Sequential%20Readings/) preserve entering states and immutable earlier forecasts. [V06 reading](01%20Sequential%20Readings/NTR_V06_DEEP_READING.md) and [mainline freeze](01%20Sequential%20Readings/NTR_V06_PROSPECTIVE_FREEZE.md) distinguish bounded report-mediated support, changed-information NDO and the first unrestrained photo-account result. All eight ledgers append V06 evidence. Present shared return, Y's interpretation of incomplete H trust, conditional cohabitation, public exposure/removal and unresolved repair remain distinct. Embedded post-return body-cover comedy is separately routed; external supplements remain unadmitted. No global capability grades are asserted.
 - Supplemental material and the television adaptation: outside the mainline source boundary; see the quarantine queue in the source map. No supplemental narrative object was acquired or admitted in this bootstrap.
-- `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; reason `VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION`. Authorized terminal boundary **V06**, with validated recoverable close after each volume. Next: V06 admission and reading after this V05 transaction is committed. Sequential completion remains distinct from the required postV06 role-gap audit, mature synthesis, final audits and publication.
+- `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; reason `VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION`. The authorized terminal boundary **V06 is individually CLOSED and the six-volume mainline FROZEN**. No later narrative source is authorized by this run. Next: committed architecture/role-gap/mature-integration audit before mature drafts. Character evidence/models/monographs, directional relationships, specialists, substantial integrated thesis, adversarial coverage review, final audits and stable-branch publication remain required; sequential completion does not establish whole-task completion.
 - Publication target: stable branch `series/ntr-netsuzou-trap`. Bootstrap history is preserved in the [bootstrap receipt](07%20Audits%20and%20Handoffs/NTR_BOOTSTRAP_RECEIPT.md). Git history confirms integration into `main` at `9f1aadd7`; at run start, `main` was `c0e08f7347ded1d2c70c4914319178329e6b9b8c` and the stable branch was `7bca96f3da16a6077aa24a20ca646f9d71724e79`. Ordinary merge `22df7ff2e17047afd10d17fdc0bbc4fdaa8c474b` preserved both histories; its complete tree equals that starting `main` tree. Historical receipt statements remain statements about the bootstrap transaction.
 
 ## Governing homes and retrieval order

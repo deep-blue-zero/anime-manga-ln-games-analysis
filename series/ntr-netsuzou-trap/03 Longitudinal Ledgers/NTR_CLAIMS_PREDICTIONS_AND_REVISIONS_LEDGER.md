@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V05; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V06; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 ---
 
@@ -213,3 +213,41 @@ Interpretive REVISE/STRENGTHEN CLM-0021: shared-home/newlywed possibility S0045/
 ### CLM-0028 — Audience transition is observed without exact distribution agency
 
 Interpretive REVISE exposure status from INF-0021: prior retention/tentative intent now becomes actual peer photo display S0155–0156. Watching S0153–0154 and possession support strong Fujiwara-agency INFERENCE, with dispatch/channel/initial sender/reach/Takeda receipt/girls' full response OPEN. Private conditional access rule was not a publication forecast; actual harm is not a forecast hit. The picture cannot prove full consent or an agreed romance. INF-0028, CON-0031, VIS-0027. Mature information and ending homes must preserve these levels.
+
+## V06 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V06/SNNNN/I01` unless a volume is specified.
+
+All V05 scores remain historical. New scores below use the exact literal V05 freeze; endpoint development is not retrospective prediction validation. No V07 or external supplement was inspected. Scores are qualitative and native-topology; NDO, applicability uncertainty, component failure and observed support remain distinct.
+
+### CLM-0029 — Y-R06 supported through depicted delay and refusal report
+
+Exact V05 CLM-0023/Y-R06: known H desire + experienced rejection + T renewal + safe answer/no new T attraction → delay/refusal via unfairness/unavailable affection before restoration. S0059 prior nonanswer report, H naming S0058, proper refusal report S0066 and responsibility S0070–0071 support sequence. SUPPORTED_BOUNDED / REPORTED_REFUSAL_VISIBILITY_LIMIT. Exact refusal to T unshown; not scored from final partner alone.
+
+### CLM-0030 — H-R06 category-first response is bounded by preceding force
+
+Exact V05 CLM-0024/H-R06: explicit Y→H recipient, own H wish undisclosed, safe private meaning exchange → category/evasion before own wish. Public denial not trigger; first released private question S0052→category/protection S0053 matches primarily. SUPPORTED_BOUNDED / SAFETY_APPLICABILITY_LIMIT. Pain/drag before release remain; stronger safety definition renders applicability uncertain/NDO. No rescoring through later fear.
+
+### CLM-0031 — T-R05 and older advice condition have no literal diagnostic match
+
+CLM-0025/T-R05 excluded new H/full-history discovery and required explicit renewal refusal/available response. Named H S0058 precedes accepting S0061–0063; exact refusal speech is not drawn, report S0066 is to H. NO_DIAGNOSTIC_OPPORTUNITY, despite observed nonpunitive recognition. T-R04/CLM-0019 presumed-beloved advice trigger absent. Good conduct cannot create its own antecedent.
+
+### CLM-0032 — F-R04 first unrestrained account minimizes own culpability
+
+Exact CLM-0026/F-R04 excludes effective restraint. S0010 after punch/collar is NDO. First free T photo-account question S0131 gets reference reaffirming prior girls-blame/wake-T justification, identified by insets; T rejects benefit S0132. SUPPORTED_BOUNDED: purposeful agency acknowledgment plus culpability minimization, not vague reply alone. No intervening free question, no opening rescue, no fresh verbatim recitation. Old F demand-component misses remain.
+
+### CLM-0033 — H attachment account partially resolves a compound open claim
+
+REVISE CLM-0006/0027 through temporal neglect S0078, anti-burden S0099, in-form F account S0109–0111 and trust fear S0148, plus present proximity/return S0157–0162. Defensive attachment strongly supported; Y guarded-child synthesis remains inference. OPEN exact onset/every early motive/old injuries/V01 room permission. Early H-R03 failure remains failure despite later reciprocity. No diagnosis or fully benevolent retroactive story.
+
+### CLM-0034 — Pursuit and autonomy require domain-specific revision
+
+STRENGTHEN CLM-0016/0022: Y explicit choice coexists with pretext/address boundary circumvention S0116–0118 and resisted pull/work cost S0137–0140. H privacy/work autonomy coexists with self-removal and need for proximity. Carried H-R04/CLM-0013 due-V04 NDO preserved; later childhood-authority trigger not independently secure, descriptive alignment only. Ending does not establish an unrestricted rescue right.
+
+### CLM-0035 — Ending resolves return more strongly than trust or sustainability
+
+OBSERVED mainline S0162 shared return/rest, conditional cohabitation S0158, Y interiority accepting inferred distrust S0159 and repeated-help vow S0160. Embedded S0166 adds actual school return; S0167 adds caregiving/play. PASS present reciprocity/return; OPEN durable trust/grad/admission/home/work/full repair. Dependency/controlling-care counterreading supported by force, privacy and asymmetry; mutual staying complicates but does not eliminate it.
+
+### CLM-0036 — Attribution improves while dissemination persistence remains bounded
+
+REVISE CLM-0028: FUJIWARA feed/origin claim S0003, H posting attribution S0020, F justification S0011/0131 strongly support agency. No send panel, technical authentication/full reach. S0032 corroborates post absence; S0033 surviving screenshots only possible. Exposure is unmodeled where no old publication rule existed; no endpoint outcome rescues earlier conditional-demand failures. Primary local hash verified, current Drive bytes not independently hashed.

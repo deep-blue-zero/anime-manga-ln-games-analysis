@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V05; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V06; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_RELATIONSHIP_DESIRE_AND_ATTACHMENT_LEDGER.md
 ---
 
@@ -161,3 +161,35 @@ Fujiwara invokes Takeda's worry/grades and asks whether he may tell the truth S0
 ### REL-0030 — Domestic reciprocity does not settle romantic/public recognition
 
 Shopping, matching jewelry, study/cooking, imagined rooms/chores and newlywed comparison S0038–0047/0081–0088 give ordinary reciprocity substance. Mother's 受かったらね S0073 and public friend-roomshare account S0108 add material conditions and category cover. NTR★C S0159–0162 supplies compatible earlier/undated food care and Takeda/Fujiwara skill contrasts, not a response after circulation. Daily-life desire grows while named-recipient/no-count confrontation breaks the shared definition. Links VIS-0025/0028, AGY-0022, JPS-0019/0020, CLM-0027. No lease, admission, actual move or comprehensive repair is shown.
+
+## V06 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V06/SNNNN/I01` unless a volume is specified.
+
+### REL-0031 — Public protection and the attachment it erases
+
+OBSERVED: S0017–0021 H denies the girls' relationship and publicly implicates self/F in teasing Y; S0053 claims protection. Y says the queer label would be preferable to that lie S0055. INFERRED: shielding from a category can erase the protected person's desired attachment. Protective motive is testified, not exhaustive fact; humiliation remains. Revises REL-0030 and CLM-0027 without backdating H motive.
+
+### REL-0032 — An explicit choice does not require restoring the former male couple
+
+OBSERVED: Y names H to T S0058, reports prior inability to answer S0059 and proper refusal S0066, then directly names her love S0067/0071. T recognizes it S0061–0063. The exact refusal wording is unshown. Y→T care/regret and Y→H desire coexist; no renewed Y/T couple or new T attachment. Strengthens recipient recognition beyond V05's hedged statement.
+
+### REL-0033 — H's temporal wound and Y's interpretation have different authority
+
+OBSERVED: H cries about prolonged lack of Y attention and disbelief S0078; Y reinterprets the guarded face through childhood S0079–0081. H asks belief S0083 and later explicitly fears trusting S0148. INFERRED: defensive attachment becomes strongly supported. OPEN: exact romantic onset and every earlier motive. Y's inner account is not an omniscient psychological diagnosis or proof that harmful acts were protective.
+
+### REL-0034 — Accepted intimacy is followed by self-removal
+
+OBSERVED: shared morning/school plan S0085–0087, then absence, unanswered contact and relocation S0088–0103. H says she does not want to burden anyone S0099. Approach, participation and subsequent withdrawal are separate states. Fear-driven retreat is supported by later trust speech; a practical independence wish remains compatible. No inference that a smile or accepted confession guarantees permanent presence.
+
+### REL-0035 — The H/F arrangement in form and its emotional exclusion
+
+TESTIMONY: F calls the relationship 形だけ and conditionally accepts a wanted breakup S0109; new historical montage gives physical access/lonely-time arrangement and H's account of unavailable desired togetherness S0110–0111. Revises the V04 contract's emotional account. No complete formal breakup is depicted; compliance terms do not authorize each act or erase F control. Girls' denied category and male couple's acknowledged form need different treatment.
+
+### REL-0036 — Joint return accepts incomplete trust and a conditional future
+
+OBSERVED: H clutches Y's coat S0157, Y proposes living together if admitted S0158, inwardly interprets H's uncertain trust and accepts that uncertainty S0159, then hands/smiles/shared sleep S0160–0162. Present reciprocity/shared return supported; graduation, admission, lease, stable work and lifelong exclusivity not completed. Inward repeated-help commitment supports both chosen care and dependency counterreading. No external after-story admitted.
+
+### REL-0037 — Embedded return comedy preserves care asymmetry and T's separate feeling
+
+S0166–0167 are embedded post-return body-cover gags: H back at school/apologizing for absence, T distinguishes his racing heart from romance, Y urges notes/food and H asks 抱っこ. Bounded later school state and playful caregiving are observed; no graduation or cohabitation proof, no new T romance/orientation certificate. Y's mother comparison is inward humor, not a diagnosis. Not independent prospective validation.

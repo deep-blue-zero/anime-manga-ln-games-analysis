@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V05; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V06; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER.md
 ---
 
@@ -133,3 +133,39 @@ Hotaru's privacy claim S0022 and only-Yuma display S0023 grant bounded viewing; 
 ### JPS-0023 — Fujiwara truth-offer and responsibility denial retain their speakers
 
 Fujiwara's お前が思ってたような女じゃなかった S0069 concerns Yuma's sort of person, not the beloved's gender, and Takeda rejects it. ホントのこと教えてやってもいい S0095 is a truth offer functioning as guilt pressure, without an access price. 知らねえ S0122 and 妊娠してたからって俺のせいとは限んねえし S0124 retain ignorance/conditional-responsibility attribution. Hostile/benefactive language does not certify truth. Links INF-0023/0024/0026, REL-0029, CON-0029, CLM-0026.
+
+## V06 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V06/SNNNN/I01` unless a volume is specified.
+
+### JPS-0024 — Account speech and beneficiary claim require speaker and time precision
+
+S0003 FUJIWARA account first-person photography claim/mocking register is represented publication; S0011 目を覚まさせてやろうと思って asserts intervention for T. S0131 こないだ言った通りだけど refers back, not fresh verbatim repetition. T's S0132 happiness question and アホ! reject claimed benefit; no further F reply supplies helpful full clarification. JPS tracks written lines, not actor delivery.
+
+### JPS-0025 — レズ and かばってあげた attach category and benefactor position
+
+Peer category S0017, H public denial and S0053 protection claim precede Y's S0055 preference for that label over erasure. かばってあげた presents H as giving protection, whose reception Y contests. No fixed self-identification, universal sexual orientation or independent pure motive follows from the category. Public taunt and privately rejected story have different speakers.
+
+### JPS-0026 — Delay, proper refusal and named love are distinct speech evidence
+
+Y S0059 reports inability to answer earlier, S0066 ちゃんと断ってきた reports proper refusal, S0067 蛍が好きだから names causal attachment. Exact refusal wording to T is unshown. V05 hedge existed; direct choice here is stronger without becoming first-ever recipient recognition. Y retrospective 'first love' account does not erase prior care for T.
+
+### JPS-0027 — T recognizes attachment while admitting interpretive limits
+
+S0061 distinguishes difficulty fully grasping friendship/romance from knowing Y values H; S0062 人が人を好きになるのに変だとかないよ denies strangeness. Generalized person-language recognizes choice without exact identity taxonomy or full-history knowledge. Native character register has ethical content; no idealized universal judgment capability or audio performance inferred.
+
+### JPS-0028 — Temporal neglect and trust fear revise defensive speech
+
+H S0078 long unregarded time/now disbelief, S0083 信じてくれる? and S0148 誰かを信じるのは怖い are directly voiced. Y's guarded-child interpretation is separate interiority. These establish the subject's current account more strongly than coy-category lines, without diagnosing or assigning exact onset. S0150–0151 montage quotes earlier speech, not new current insults.
+
+### JPS-0029 — Nonburden and in-form relationship are qualified self-presentations
+
+H 誰の負担にもなりたくないの S0099 names anti-burden goal to father. F 形だけ S0109 characterizes arrangement, and H historical togetherness impossibility S0111 adds emotional exclusion. All remain situated testimony; no objective every-motive account, permanent independence or completed mutual breakup. Public good-competence facade and Y's contrary knowledge differ.
+
+### JPS-0030 — Future and trust narration cannot be promoted into completed agreement
+
+大学受かったら S0158 conditions Y leaving home/cohabitation. S0159 それでもいいよ is Y interiority accepting inferred incomplete trust, not spoken assent or H self-report; S0160 repeated-help vow is likewise inward. Spoken money/work plans remain future. Distinguish H anxious eyes, Y inference and actual shared return S0162.
+
+### JPS-0031 — Address continuity and care humor survive changed relational state
+
+H keeps 由真ちゃん address across defense/vulnerability; address alone does not certify state. Embedded S0167 抱っこ is a direct playful need bid while Y urges missed notes/food and inwardly asks whether she is H's mother. S0166 T 恋とは違う distinguishes heartbeat from romance. No childhood diagnosis, fixed caregiver identity or new T romance is licensed.

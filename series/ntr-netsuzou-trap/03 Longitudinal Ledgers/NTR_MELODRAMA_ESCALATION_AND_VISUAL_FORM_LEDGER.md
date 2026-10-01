@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V05; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V06; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_MELODRAMA_ESCALATION_AND_VISUAL_FORM_LEDGER.md
 ---
 
@@ -153,3 +153,35 @@ Yuma's grip on Hotaru's clothing and the 100% practice question S0140 precede na
 ### VIS-0028 — Cooking extra supplies ordinary asymmetry without sequel chronology
 
 NTR★C S0159–0162 contrasts poor Hotaru/Yuma cooking, care/compliment, Takeda's self-made lunch and testimony about Fujiwara's excellent cold pasta. Cooking 偏差値 is a comic scale, not empirical testing; ordinary competence does not redeem harm. Compatible earlier/undated domestic chronology supplies no circulation response or rule outcome. Afterword/covers S0164–0169 are paratext. Links REL-0030, AGY-0022, CAST-0025.
+
+## V06 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V06/SNNNN/I01` unless a volume is specified.
+
+### VIS-0029 — Phone interface turns image possession into attributed social exposure
+
+S0003 account/claim/comments and T/H screens put circulation into public form, beyond V05 peer viewing. Roof punch/collar sequence S0009–0012 opposes image control with bodily control; public denial S0018–0021 follows. A photograph's apparent proof compresses context, consent and attachment rather than objectively resolving them. No send-panel/reach invented.
+
+### VIS-0030 — Classroom return and repeated bruised arrival prevent false event multiplication
+
+Clock/paired faces S0024 reimpose routine after revelation; S0026 and trap:22 title S0029 repeat one bruised arrival. Post absence S0032 and surrounding rumors show removal and continuing interpretation on different tracks. Chapter repetition is formal recapitulation, not another injury or independent forecast sample.
+
+### VIS-0031 — Small paired panels disclose disbelief without erasing preceding force
+
+S0073–0075 grip/pain/push precede alternating confession/disbelief panels S0077 and tears/child peer-image S0078. S0079–0081 is Y's visual-psychological reinterpretation. Form changes access to H vulnerability, without retrospectively granting permission or dating every earlier motive. Morning smile then empty school S0087–0088 interrupts a simple settled-love inference.
+
+### VIS-0032 — Empty rooms and absent-parent objects give independence competing meanings
+
+Child household emptiness, money/food/phone S0094–0096 and accepted hand S0097 contrast material provision with being accompanied. Anti-burden call S0098–0099 is juxtaposed with memory; relocated empty room S0112 repeats solitude. Father/Y accounts remain separately attributed. Room recurrence supports a mechanism, not diagnostic proof.
+
+### VIS-0033 — Door rhythm, crowd encounter and parallel male account distribute agency
+
+S0120–0127 repeated requests/closed doors/strangers make search effort and failed certainty visible; chance sighting S0128–0129 resolves access. T/F S0130–0132 is parallel accounting, not Y's knowledge or a flashback rescue of excluded restraint. F rooftop insets explain his referential current reply. External observers cannot share the reader's composite knowledge automatically.
+
+### VIS-0034 — Hand recurrence changes meaning rather than granting standing consent
+
+Child invitation S0097 → city hand image S0133–0134 → resisted pulls S0137–0138 → held hands/trust scene S0146–0154 → coat-grip/handhold S0157–0160. Rescue, control, chosen staying and dependence use related composition. Tender framing supports attachment but does not erase voiced costs or prove each act permitted.
+
+### VIS-0035 — Quoted montage and quiet train finish preserve unfinished work
+
+Dark recalled H speech S0150–0151 differs from new current speech; white pause S0155 then anxious eyes, Y inner acceptance, finances and shared sleep S0156–0162 end with rest rather than graduation. Embedded post-return gags S0166–0167 add ordinary school/care/play. Production afterword is paratext, never diagnostic literary evidence.

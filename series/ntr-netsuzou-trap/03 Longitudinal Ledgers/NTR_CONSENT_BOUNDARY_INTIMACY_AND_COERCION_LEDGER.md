@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V05; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V06; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_CONSENT_BOUNDARY_INTIMACY_AND_COERCION_LEDGER.md
 ---
 
@@ -165,3 +165,39 @@ Yuma names possible Hotaru-directed love and Hotaru acknowledges noticing S0142,
 ### CON-0031 — Peer photo revelation cannot disclose consent or grant distribution permission
 
 Anonymous peers actually view the private photograph S0155–0156. Recording/distribution permission is not established; the image does not reveal the full relationship, prior refusals or reciprocal commitment. Fujiwara's sender role is strongly inferred from retention and the observer cut, not directly depicted. Channel, reach and affected girls' full response remain OPEN. Exposure harm does not require assuming all intimacy unwanted. Links INF-0028, VIS-0027, CLM-0028, REL-0029.
+
+## V06 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V06/SNNNN/I01` unless a volume is specified.
+
+### CON-0032 — Image exposure is a privacy violation with bounded removal
+
+OBSERVED: named-account public display S0003, post disappearance corroborated S0032. Possible screenshots S0033 are voiced uncertainty, not demonstrated copies. Captured contact cannot certify consent or agreed romance. Removal limits ongoing visible circulation but does not undo publication, humiliation or prior coercion. Related INF-0029/0031 and CLM-0036.
+
+### CON-0033 — Takeda's photo confrontation includes violence and effective restraint
+
+OBSERVED: T punches F S0009, grips collar/demands deletion S0010, peers intervene S0012. Anger at publication explains context without erasing bodily control. F-R04 opening question is NDO by restraint exclusion; ability to answer evasively does not establish an unrestrained opportunity. Current T ethical recognition cannot imply universal nonviolence.
+
+### CON-0034 — Y's private explanation begins after painful dragging
+
+OBSERVED: Y drags H outside S0050–0051; H voices pain and grip is released S0052. H's response S0053 is admitted as a bounded private meaning exchange, with preceding force a safety counterreading. H-R06 support cannot erase pain or prove permission to pull. Release, dialogue and later attraction are separate stages.
+
+### CON-0035 — Confession confrontation contains bidirectional force before vulnerability
+
+OBSERVED: Y wrist-grip and H pain S0073, H push S0074 and clothing/bag-area grip S0075 precede tears S0078 and chosen closeness S0080–0084. Named desire does not license handling; surprise/blush/tears do not alone prove act-specific assent. Do not flatten this into one coercion label or one mutual-permission label.
+
+### CON-0036 — Present receptive closeness does not settle past permission
+
+S0080–0084 and S0151–0154 show increasingly receptive proximity, trust bids and held hands; S0157–0162 adds H staying gesture/shared comfort. These support present attachment, without full explicit assent to every movement, a comprehensive repair conversation or retrospective permission. Preserve CON-0001 onward and CLM-0005/0011/0022; old room-event permission remains OPEN.
+
+### CON-0037 — A requested address boundary survives the father's limited knowledge
+
+H asks that acquaintances not be helped to reach her; father withholds address S0102. Y uses a false textbook pretext/rental clues S0116–0118, then H questions how she learned it S0140. Father's competence testimony is unreliable but this communicated privacy condition is real. Concern/love provides motive, not automatic authority to circumvent it.
+
+### CON-0038 — Forced return and lost work income complicate rescue framing
+
+Y pulls after H breaks grip S0137–0138; H explains work and lost income S0138–0139, asks Y to finish tea/leave S0140. Work is not a shown imminent safety emergency. Childhood hand motif and eventual acceptance do not authorize earlier force or cancel material cost. Care may be chosen later while initial pursuit remains intrusive.
+
+### CON-0039 — Repair is limited even when romance is legible
+
+Y owns prior T harm and declines irresponsibility S0070–0071; T recognizes choice S0061–0063, post disappears S0032, Y inwardly accepts her interpretation of incomplete trust S0159. These are distinct repair/recognition steps. No exhaustive H accountability, F remorse, universal screenshot erasure or durable negotiated boundary protocol appears. Early harm and later real attachment remain simultaneously evidenced.

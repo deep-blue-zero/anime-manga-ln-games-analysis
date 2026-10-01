@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V05; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V06; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_CAST_AND_RECONSTRUCTION_READINESS.md
 ---
 
@@ -141,3 +141,31 @@ Fujiwara's network role warrants individual evidence, bounded model and monograp
 ### CAST-0025 — Supporting voices make future/visibility ordinary without independent models
 
 Teacher reminder/futures S0013/0019, unnamed tutor-attracted classmate S0015–0016/0102–0103, Yuma's mother S0073, club workers/customer S0054 and photo-viewing peers S0155–0156 have bounded social/formal functions. No invented names, inner lives, ages, total audience or independent operational models. NTR★C S0159–0162 differentiates ordinary competence in earlier/undated time; paratext S0164–0170 is not new cast. Complete 170-image coverage is recorded; the mature role-gap audit waits for V06. No global curation edit.
+
+## V06 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V06/SNNNN/I01` unless a volume is specified.
+
+### CAST-0026 — Yuma V06 state supports an independent operational model and monograph
+
+Native evidence now covers private/public disclosure, refusal report, responsibility, anger/force, investigation, childhood care, ordinary study/food/money and accepting incomplete trust. State snapshots V01–V06 and literal prior failures required; Y-R06 only bounded report-mediated support. Central ledger/model/monograph warranted after role-gap audit. Cross-person rescue, unfamiliar professional behavior and general moral competence NOT_ASSESSED; attachment-specific rules not universal traits.
+
+### CAST-0027 — Hotaru V06 state supports a model with stronger hidden-state limits
+
+Temporal wound, anti-burden speech, family context, defensive public presentation, absence/relocation, work/privacy objections, fear and modest chosen-staying bids provide central evidence. H-R06 bounded support; H-R03 historical failure and H-R04 applicability limits preserved. Ledger/model/monograph warranted. Unknown every early motive/onset and future trust remain; no clinical diagnosis or generic helplessness. Separate subject speech from Y inference/father testimony.
+
+### CAST-0028 — Takeda V06 state is ethically differentiated and condition-limited
+
+Photo receipt/punch, recognition of Y→H and rejection of F's claimed benefit add independent trajectory. T-R05 NDO despite good conduct; T-R04 untested, old following still contradictory. Native school/study/help/dialogue evidence supports ledger/model/monograph, with thinner interior account than girls and no new romance invented from embedded heartbeat gag. General nonviolence, fully known-history judgment and new profession NOT_ASSESSED.
+
+### CAST-0029 — Fujiwara V06 state warrants reconstruction without invented inner redemption
+
+Named publication/justification, pressure-conditioned removal, later free deflection and in-form relationship testimony supply recurring native decision evidence. F-R04 bounded hit does not erase earlier missing conditional-demand components. Independent ledger/model/monograph warranted, with weak inner-goal/ethical-deliberation/novel-scenario support and no global grade. Cooking/academic utility is not ethical redemption. F location-ignorance testimony not disproved.
+
+### CAST-0030 — Family and peers receive bounded supporting treatment
+
+H father/prospective maternal partner, Y mother, classmates and teacher materially shape loneliness, social exposure, alternatives, autonomy and admission conditions S0021/0033–0043/0094–0105/0166–0167. Source supports role/knowledge/contradiction analysis, not major monographs or operational models. Father's competence assessment differs from lived evidence; peer rumor differs from actual posting. No invented names/backstories. H fullname 水科蛍 admitted; T/F unestablished first names unassigned.
+
+### CAST-0031 — Readiness and chronology remain distinct from source completeness
+
+All six witnesses/1009 images inspected, mainline S0162 fin, embedded post-return gags S0166–0167 explicitly routed. Four central subjects merit mature local native models; dialogue/mundane/romance/conflict evidence differs per person. Novel/cross-scenario and professional readiness remain qualitative limited/NOT_ASSESSED. Source completeness does not itself prove portability or synthesis completion. PostV06 committed role-gap audit required before mature drafts.

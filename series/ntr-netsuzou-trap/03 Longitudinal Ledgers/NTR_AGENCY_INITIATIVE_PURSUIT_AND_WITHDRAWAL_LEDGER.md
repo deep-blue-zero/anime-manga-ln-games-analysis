@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V05; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V06; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_AGENCY_INITIATIVE_PURSUIT_AND_WITHDRAWAL_LEDGER.md
 ---
 
@@ -137,3 +137,35 @@ Yuma accepts the outing S0133 and Hotaru's walk S0134–0136, presses practice S
 ### AGY-0024 — Fujiwara controls bodies and information through distinct mechanisms
 
 Fujiwara's restraint S0076, guilt/truth offer S0091–0095, push/denial S0123–0124 and watching S0153–0154 each retain actor and target. The first encounter lacks the predicted conditional access demand; the later disclosure question lacks an access price. Peer photo viewing S0155–0156 is observed, sender agency inferred. Force, moral accusation, secrecy and distribution cannot all count as one mechanism. Links REL-0029, CON-0027/0029/0031, INF-0024/0028, CLM-0020/R-V05/0026/0028.
+
+## V06 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V06/SNNNN/I01` unless a volume is specified.
+
+### AGY-0025 — Declining T and choosing H makes Y's initiative explicit
+
+Y reports delay/refusal S0059/0066, directly names H S0067 and owns prior confused dating S0070–0071. No restored male couple. This is a chosen cost-bearing revision rather than endpoint destiny alone. Exact refusal wording is not drawn; T's response has a different validation boundary.
+
+### AGY-0026 — Public definition is H's active intervention, not passivity
+
+H denies girls' meaning and implicates self/F S0018–0021, claims protection S0053, then challenges confession S0072. Her agency includes shielding/defense possibilities and humiliation. Later tears do not erase these decisions; no objective sole motive is assigned. Public and private action differ.
+
+### AGY-0027 — Relocation enacts a goal while avoiding contact
+
+H asks rental guarantee, work and nonburden S0098–0099, requests no acquaintance aid, misses school/relocates S0088–0103. Explicit decision and constraints distinguish this from being moved by another. Fear/avoidance strengthened by S0148; authentic independence goal remains possible. No general incapacity or fully informed financial competence is established.
+
+### AGY-0028 — Y pursuit uses resources and crosses stated boundaries
+
+False-pretext clue access S0116–0118, travel S0115/0119, door requests and failed exhaustive search S0120–0127 display cost/persistence. H is found by chance S0128–0129. School absence and last train limit choices. Love does not give unrestricted investigative or bodily authority; privacy counterreading preserved.
+
+### AGY-0029 — Childhood rescue authority is contested in work and future speech
+
+H breaks pull/work objection S0137–0138, voices income loss and departure request S0139–0140. Y calls flight/dependence S0142–0144 and invokes lifelong togetherness S0145. Old H-R04 only descriptively aligns before shared-past/future language; the protector-authority condition remains uncertain, so do not award a historical hit. Care and autonomy remain domain-specific conflicts.
+
+### AGY-0030 — T rejects claimed benefit without a clean moral-person guarantee
+
+T violence S0009–0010, apparent deletion intervention, acceptance S0061–0063 and refusal of F beneficiary story S0132 are separate choices. His earlier following remains. Capacity to recognize another's love does not imply absence of desire, pain, coercion or generally portable ethical judgment.
+
+### AGY-0031 — Endpoint staying is small reciprocal agency with material conditions
+
+H coat-grip S0157, hands/smiles/shared return S0159–0162 provide chosen proximity; Y inwardly accepts her interpretation of incomplete trust and proposes conditional home/work. H reports spent funds; exams/admission/money remain constraints. Embedded study/food/hug gag S0167 preserves care dependence. No permanent passive role or proved sustainable reciprocity.

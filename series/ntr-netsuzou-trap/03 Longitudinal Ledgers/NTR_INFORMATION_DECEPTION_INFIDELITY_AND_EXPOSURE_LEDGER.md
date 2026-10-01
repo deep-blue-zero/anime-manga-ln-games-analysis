@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V05; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V06; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_INFORMATION_DECEPTION_INFIDELITY_AND_EXPOSURE_LEDGER.md
 ---
 
@@ -153,3 +153,35 @@ Yuma names Hotaru with a hedge S0142; Hotaru's 気づいてたけど reports not
 ### INF-0028 — Actual peer audience established; sender and full reach unshown
 
 Fujiwara's watching S0153–0154 precedes school/peer screens S0155–0156, where the retained-origin photograph has a real audience. His role is a strong INFERENCE from prior possession and adjacency; no dispatch, service, initial sender, chain, time or total reach is shown. Takeda receipt and explicit Hotaru screen recognition are not established. The image is not the full consent history or a couple contract. Publication was explicitly UNMODELED by private access-demand prediction. Links CON-0031, VIS-0027, REL-0029, CLM-0028.
+
+## V06 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V06/SNNNN/I01` unless a volume is specified.
+
+### INF-0029 — Named publication narrows but does not fabricate the dissemination chain
+
+S0003 depicts FUJIWARA account publication and first-person origin claim, T/H receipt; H attributes posting to F S0020 and F justifies intervention S0011/0131. REVISE V05 sender inference into strong attributed agency. No upload panel, authenticated technical account, settings, exact reach or complete redistribution chain. Unsupported hacking alternative is not equal source evidence.
+
+### INF-0030 — H's public story is observed self-complicity with disputed motive
+
+S0018–0021 H denies girls' romance, humiliates Y and claims H/F teasing partnership. S0053 calls it shielding Y. This does not prove an actual prior joint scheme or purely protective intent. Peer allegation that H ordered male exposure S0042 is unsupported rumor; distinguish speech, narrative action, inner interpretation and audience inference.
+
+### INF-0031 — Post absence is corroborated; universal erasure remains open
+
+F reports deletion S0031; peer phone confirms absent post S0032. Screenshot persistence is only possible S0033. T's intervention is a plausible removal cause, with full negotiation unshown. Removal under pressure differs from voluntary helpful disclosure, acknowledgment of harm or original-file destruction. Preserve earlier retained-copy history without asserting current storage proof.
+
+### INF-0032 — T receives identity while exact refusal speech remains unshown
+
+S0057 T acknowledges photo; Y explicitly names H S0058 and explains attachment S0059–0060. Full six-volume secret history is not supplied. S0066 refusal is Y's later report. T-R05's old no-new-H/full-history information condition is not established; recognition is observed ethical evidence, not an invented literal forecast success.
+
+### INF-0033 — Three accounts of H independence are epistemically unequal
+
+H's anti-burden phone statement S0099, father's good-grade/domestic-competence testimony S0101–0103 and Y's contrary lived knowledge S0104–0105 differ in access/authority. Father may repeat H's facade; Y's inner explanation remains inference. H's communicated privacy wish is not invalidated by the father's inaccurate assessment. Newly revealed history never leaks into earlier freezes.
+
+### INF-0034 — Useful F testimony does not redeem an information controller
+
+F denies knowing location S0107, calls H/F in-form arrangement S0109 and supplies retrospective terms S0110–0111. No positive proof he withholds an address; no objective exhaustive motive or completed breakup. Earlier coercion/publication persists. Accurate relational disclosure and culpability minimization can coexist in the same subject.
+
+### INF-0035 — Search pretext and reaffirmed beneficiary defense remain different deceptions
+
+Y's textbook pretext S0116 grants access to clues without father's explicit address disclosure; chance encounter follows failed search S0126–0129. F's S0131 reference reaffirms wake-T justification; T rejects claimed benefit S0132. One deception seeks proximity, another manages publication responsibility. Later successful reunion does not establish either method's ethical permission.

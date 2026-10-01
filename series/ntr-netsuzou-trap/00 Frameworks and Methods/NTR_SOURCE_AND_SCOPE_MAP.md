@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Six exact Japanese EPUBs verified locally; V01–V05 visually INSPECTED and CLOSED; remote hash limitation preserved"
+source_boundary: "Six exact Japanese EPUBs verified locally; V01–V06 visually INSPECTED and CLOSED; remote hash limitation preserved"
 canonical_home: series/ntr-netsuzou-trap/00 Frameworks and Methods/NTR_SOURCE_AND_SCOPE_MAP.md
 ---
 
@@ -42,7 +42,7 @@ The owner-authorized local witness directory is retained in the noncanonical exe
 | NTR-JP-V03 | 172 | ADMITTED / INSPECTED 172/172 / CLOSED V03 transaction |
 | NTR-JP-V04 | 156 | ADMITTED / INSPECTED 156/156 / CLOSED V04 transaction |
 | NTR-JP-V05 | 170 | ADMITTED / INSPECTED 170/170 / CLOSED V05 transaction |
-| NTR-JP-V06 | 170 | STRUCTURALLY_VERIFIED; narrative unread |
+| NTR-JP-V06 | 170 | ADMITTED / INSPECTED 170/170 / CLOSED V06 transaction |
 
 Deterministic coordinates: `NTR-JP-VNN/SNNNN/I01`, one-based OPF spine ordinal and image-within-document ordinal. Add chapter and panel/balloon description in interpreted citations. Do not equate S with printed pagination. The noncanonical local `source-verification-manifest.json` SHA-256 is `eabec461951ca460131c8a8977e3705f8494f5ee2242c03ac40feff6a26c1f21`; `locator-index.csv` SHA-256 is `76a5d8584f3863761707d90c71f459a5f7fa7f7491e60a5ecfa152af460f8ded`. Both are retained in the local source-preparation working plane. Reproduce from the recorded witnesses and OPF spine; no mechanical payload or source image enters Git. A Drive sidecar upload is not required to recover these coordinates from the exact EPUBs.
 
@@ -77,3 +77,7 @@ All 156 V04 images were visually inspected in spine order before any V05 narrati
 ### V05 witness routing at individual close
 
 All 170 V05 images were visually inspected in spine order before any V06 narrative. Mainline trap:17 title S0005, repeated V04 encounter/current school action S0007–0034; trap:18 S0037–0076; trap:19 S0079–0112 (contact anticipation S0080 returns a few hours earlier at S0081); trap:20 S0115–0156. Color S0003–0004 anticipates the current classroom encounter rather than an independent later event. White/black separators S0035–0036,0077–0078,0113–0114,0157–0158 are inspected. Embedded **NTR★C / 捏造トラップcooking** S0159–0162 is compatible earlier/undated domestic comedy, not postcirculation plot response or forecast validation. Cover/blank/title/contents S0001–0006, divider S0163, afterword/thanks/anime promotion S0164–0165, physical covers/flaps/blurb S0166–0169 and colophon S0170 are accounted for; ISBN978-4-7580-7709-5, ©2017. Local hash and remote-byte limitation unchanged. Original/bounded independent checks verified survey reminder/privacy, old request quotation versus current initiative, isolated affect-box uncertainty, F conditional-demand absence, H aside/vocal ambiguity, pregnancy testimony, explicit named recipient/no-count speaker and actual peer audience without a send panel.
+
+### V06 witness routing at individual close
+
+All **170/170 V06 images** were personally visually inspected in spine order after V05 was committed CLOSED. Mainline: trap:21 title S0005/current action S0007–0026 (color attributed social feed S0003/rooftop anticipation S0004); trap:22 S0029–0048; trap:23 S0049–0068; trap:24 S0069–0092; trap:25 S0093–0112; trap:26 S0115–0162, **fin S0162**. White/black separators S0027–0028 and S0113–0114, quiet narrative pause S0155 and divider S0163 are accounted for. Childhood family history S0094–0097, later father phone S0098–0099, earlier F/H arrangement S0110–0111 and dark-framed speech montage S0150–0151 are newly admitted earlier-time evidence, not retroactive forecast successes. Embedded **EXTRA PAGES/body-cover gags S0166–0167** explicitly follow H's return to school: absence apology/admonition on S0166, separate Y study/food/care play S0167. They establish bounded school return, not graduation/cohabitation or independent later-volume prediction validation. Cover/blank/contents S0001–0002/0006, creator afterword S0164–0165, spine/flap/advertising S0168, back-cover art/blurb S0169 and colophon S0170 were inspected separately; ISBN 978-4-7580-7770-5, ©2018. Afterword and blurb are paratext, not character diagnosis, adaptation evidence or override of narrative claims. Local hash and current Drive-byte limitation unchanged. Original bounded helper checks corroborated account attribution, restraint exclusion, later referential F justification, reported refusal, changed T information, private H defense, uncertain childhood-authority matching, Y endpoint interiority and embedded-gag speaker/time distinctions. All six witnesses now account for **1,009/1,009 visually inspected images**. No external supplement/anime narrative was inspected.
