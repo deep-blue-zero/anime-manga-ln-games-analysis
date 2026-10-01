@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V06 inventory; no narrative source admitted or inspected"
+source_boundary: "Japanese manga V01 CLOSED; V02–V06 structurally prepared, not narratively inspected"
 canonical_home: series/ntr-netsuzou-trap/CURRENT_STATE_AND_CORPUS_MAP.md
 project_initialization:
   status: canonical
@@ -37,14 +37,14 @@ project_initialization:
   owner_review: APPROVED_BY_OWNER_CONTINUOUS_RUN_PROMPT_20261001
   sequential_analysis_lock: OPEN
   lock_reason: VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION
-  next_permitted_operation: VERIFY_ADMIT_AND_READ_V01
+  next_permitted_operation: ADMIT_AND_READ_V02
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V01
   terminal_boundary: V06
-  committed_high_water_mark: NONE
-  next_candidate_operation: V01
+  committed_high_water_mark: V01
+  next_candidate_operation: V02
   confirmation_between_units: false
   run_state: active
 ---
@@ -55,10 +55,10 @@ This is the single first-read surface for `series/ntr-netsuzou-trap/` on the con
 
 ## Current boundary
 
-- Primary medium and proposed continuity: Japanese manga, numbered V01–V06 tankōbon EPUBs. Their identities, Drive IDs, sizes, local-source hashes, edition evidence, and limits are in the [source and scope map](00%20Frameworks%20and%20Methods/NTR_SOURCE_AND_SCOPE_MAP.md). Six numbered files are visible; completeness of the published mainline has not been independently established by story inspection.
-- Narrative admission: **none**. Narrative inspection: **none**. Completed sequential boundary: **none**. No character, personality, relationship, consent, or plot finding exists yet.
+- Primary medium: Japanese manga, numbered V01–V06 tankōbon EPUBs. Their exact identities, Drive IDs, verified local hashes, package order, and remote-hash limitation are in the [source and scope map](00%20Frameworks%20and%20Methods/NTR_SOURCE_AND_SCOPE_MAP.md). All six are structurally verified; preparation supplies no later narrative knowledge.
+- Narrative admission/complete visual inspection/individual close: **V01, 169/169 images**. V02–V06 remain narratively unread. The [V01 deep reading](01%20Sequential%20Readings/NTR_V01_DEEP_READING.md) preserves the zero-knowledge entering state and the [V01 prospective freeze](01%20Sequential%20Readings/NTR_V01_PROSPECTIVE_FREEZE.md) owns literal state/rule IDs and V02 predictions. All eight instruments have evidence records; four named subjects were discovered from the witness, with provisional rather than validated models.
 - Supplemental material and the television adaptation: outside the mainline source boundary; see the quarantine queue in the source map. No supplemental narrative object was acquired or admitted in this bootstrap.
-- `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; reason `VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION`. All eight day-one instruments and the paired method/architecture are verified. The authorized terminal boundary is **V06**, with a validated recoverable close after each volume. Next: exact V01 source admission and complete visual reading.
+- `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; reason `VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION`. The authorized terminal boundary is **V06**, with a validated recoverable close after each volume. Next: V02 admission and reading after this V01 transaction is committed. Sequential completion is distinct from mature synthesis, final audits, and publication.
 - Publication target: stable branch `series/ntr-netsuzou-trap`. Bootstrap history is preserved in the [bootstrap receipt](07%20Audits%20and%20Handoffs/NTR_BOOTSTRAP_RECEIPT.md). Git history confirms integration into `main` at `9f1aadd7`; at run start, `main` was `c0e08f7347ded1d2c70c4914319178329e6b9b8c` and the stable branch was `7bca96f3da16a6077aa24a20ca646f9d71724e79`. Ordinary merge `22df7ff2e17047afd10d17fdc0bbc4fdaa8c474b` preserved both histories; its complete tree equals that starting `main` tree. Historical receipt statements remain statements about the bootstrap transaction.
 
 ## Governing homes and retrieval order
@@ -66,8 +66,8 @@ This is the single first-read surface for `series/ntr-netsuzou-trap/` on the con
 1. This entrypoint, then the [source and scope map](00%20Frameworks%20and%20Methods/NTR_SOURCE_AND_SCOPE_MAP.md). Verify branch head and authority state before using the files.
 2. [Analytical method](00%20Frameworks%20and%20Methods/NTR_ANALYTICAL_METHOD.md) for prospective reading, consent and knowledge distinctions, locators, and volume closeout.
 3. [Synthesis architecture](00%20Frameworks%20and%20Methods/NTR_SYNTHESIS_ARCHITECTURE.md) for cumulative responsibilities, artifact promotion, supplements, and completion gates.
-4. [Character reconstruction specification](00%20Frameworks%20and%20Methods/NTR_CHARACTER_RECONSTRUCTION_SPEC.md) only when future evidence supports modeling.
-5. The eight [longitudinal instruments](03%20Longitudinal%20Ledgers/) currently contain schemas and **zero evidence rows**. Consult the specific home before updating it.
+4. [Character reconstruction specification](00%20Frameworks%20and%20Methods/NTR_CHARACTER_RECONSTRUCTION_SPEC.md) governs local conditional models and validation. The V01 freeze is provisional; no global registry or capability grade is authored.
+5. The eight [longitudinal instruments](03%20Longitudinal%20Ledgers/) preserve their bootstrap schemas and append evidence by closed volume. Consult the specific home before updating it.
 6. For each authorized VNN operation, admit only that exact Japanese witness, confirm its locator convention, and close the complete volume transaction before advancing. Structural preparation of later volumes supplies no narrative knowledge. The explicit owner prompt authorizes continuous execution through V06.
 
 The live project-initiation, sequential continuation, authority/supersession, reasoning, topology, handoff, reconstruction, and integration policies in `governance/` and `characters/` govern execution. No source page or dialogue was read during the September bootstrap or the foundation-verification stage.

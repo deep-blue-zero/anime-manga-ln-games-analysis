@@ -10,13 +10,13 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Drive metadata and import/propagation manifests only; no narrative contents"
+source_boundary: "Six exact Japanese EPUBs structurally verified; V01 visually INSPECTED and CLOSED; later narrative uninspected"
 canonical_home: series/ntr-netsuzou-trap/00 Frameworks and Methods/NTR_SOURCE_AND_SCOPE_MAP.md
 ---
 
 # NTR — source and scope map
 
-Evidence folder: NTR — Netsuzou Trap, ID `1jJBFGXROchjVNUeuy4oXRi3PDHCTCF4H`, directly within project evidence root ID `1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy`. Folder metadata and its nine immediate child files were checked during bootstrap. State for all six EPUBs is **INVENTORY_VISIBLE**; metadata inspection is not narrative `INSPECTED` or `ADMITTED`.
+Evidence folder: NTR — Netsuzou Trap, ID `1jJBFGXROchjVNUeuy4oXRi3PDHCTCF4H`, directly within project evidence root ID `1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy`. Folder metadata and its nine immediate child files were checked during bootstrap. That inventory state is historical; current per-witness admission is below. Metadata inspection is not narrative `INSPECTED` or `ADMITTED`.
 
 | Source key | Exact Drive filename | Drive ID | Bytes | Local-source SHA-256 |
 |---|---|---|---:|---|
@@ -29,17 +29,34 @@ Evidence folder: NTR — Netsuzou Trap, ID `1jJBFGXROchjVNUeuy4oXRi3PDHCTCF4H`, 
 
 `drive_propagation_manifest.json` (20,199 bytes; Drive ID `1xpNeNAkHFanZVp9bWMYoC430UaBZOsxu`) records Drive IDs, local SHA-256 values, and name/size/parent metadata readback. `calibre_import_manifest.json` (18,375 bytes; ID `1z8aTCU6_8ADnT49J5JmxbIWnEQ7LmPTD`) records original Calibre IDs 73–78, Japanese titles `捏造トラップ-NTR-（１）` through `（６）`, author `コダマナオコ`, publisher `一迅社`, language `ja`, original OPF package metadata, local ZIP/structural checks, and import byte hashes. `CALIBRE_IMPORT.md` (1,602 bytes; ID `1hCvM2WtymhF8eTSSBr8CTbE_nPOP3h2p`) summarizes import and title evidence. The import reports six copied files and zero existing works matched; the propagation reports six added and zero reused.
 
-**Hash limit:** the SHA-256 column fingerprints local source bytes, which the import copied and verified locally. Drive readback checked exact names, sizes, and parent; current remote Drive bytes were **not independently hashed**. Do not label them remotely hash-verified. Purchase provenance is user-reported (predominantly Rakuten Kobo); receipts were not examined. Package structure reported by the manifest is useful orientation but does not establish narrative order, chapter boundaries, page numbering, or story completeness. No EPUB narrative page, dialogue, scene, or ending was opened here.
+**Hash limit:** the SHA-256 column fingerprints local source bytes, freshly recomputed for this run and matching all six recorded hashes and sizes. Exact current Drive metadata and raw-object fetches succeeded for all six IDs; supplied file references failed local byte materialization with HTTP 403, and requested checksum fields were not exposed. Current remote Drive bytes were **not independently hashed**. Do not label them remotely hash-verified. Purchase provenance is user-reported (predominantly Rakuten Kobo); receipts were not examined. The original bootstrap inspected no narrative pages; current narrative coverage is recorded separately below.
+
+## Current source verification and admission — 2026-10-01
+
+The owner-authorized local witness directory is retained in the noncanonical execution receipt; exact filenames and hashes above identify the recoverable bytes without publishing a machine-specific path. All six ZIP CRC checks pass; all manifest targets exist, every image member is in the spine, and every extracted member hash matches its source. EPUB 3, `ja`, RTL progression, one 1441×2048 image per spine document throughout; no duplicate byte hashes within/across volumes. This is mechanical completeness, not unread narrative knowledge.
+
+| Witness | Images/spine entries | Current narrative state |
+|---|---:|---|
+| NTR-JP-V01 | 169 | ADMITTED / INSPECTED 169/169 / CLOSED V01 transaction |
+| NTR-JP-V02 | 172 | STRUCTURALLY_VERIFIED; narrative unread |
+| NTR-JP-V03 | 172 | STRUCTURALLY_VERIFIED; narrative unread |
+| NTR-JP-V04 | 156 | STRUCTURALLY_VERIFIED; narrative unread |
+| NTR-JP-V05 | 170 | STRUCTURALLY_VERIFIED; narrative unread |
+| NTR-JP-V06 | 170 | STRUCTURALLY_VERIFIED; narrative unread |
+
+Deterministic coordinates: `NTR-JP-VNN/SNNNN/I01`, one-based OPF spine ordinal and image-within-document ordinal. Add chapter and panel/balloon description in interpreted citations. Do not equate S with printed pagination. The noncanonical local `source-verification-manifest.json` SHA-256 is `eabec461951ca460131c8a8977e3705f8494f5ee2242c03ac40feff6a26c1f21`; `locator-index.csv` SHA-256 is `76a5d8584f3863761707d90c71f459a5f7fa7f7491e60a5ecfa152af460f8ded`. Both are retained in the local source-preparation working plane. Reproduce from the recorded witnesses and OPF spine; no mechanical payload or source image enters Git. A Drive sidecar upload is not required to recover these coordinates from the exact EPUBs.
+
+V01's admitted embedded extra is **旅行前日**, S0155–0162, read after the numbered chapters but chronologically before the winter trip (explicit return to page 75 at S0162). Covers, blank/separator pages, sketches, afterword S0164–0165, flaps, and colophon S0169 were inspected and routed in the V01 reading. The afterword is production paratext, not evidence of character subjective state or an imported interview.
 
 ## Mainline and quarantine
 
-V01–V06 are the **candidate numbered Japanese mainline run**, to be read prospectively in that order only after owner approval unlocks sequential analysis. The six displayed objects establish an inventory; published-run completeness and any edition variants remain to be checked from non-narrative authoritative metadata or in later source admission. All remain `INVENTORY_VISIBLE`; `STRUCTURALLY_VERIFIED`, `ADMITTED`, `INSPECTED`, and `CLOSED` are later distinct states, recorded per exact witness and volume.
+V01–V06 are the owner-authorized numbered Japanese mainline run, read prospectively in that order under the OPEN gate. The six displayed objects establish the bounded inventory; edition variants and other publication forms are not silently equated with these witnesses. `STRUCTURALLY_VERIFIED`, `ADMITTED`, `INSPECTED`, and `CLOSED` remain distinct states recorded above per witness.
 
-The following are **user-supplied discovery leads, not files found in this folder**: 『捏造TRAP-LateWinter-』 (possible post-finale material), 『捏造トラップ-NTR- ～武田と藤原～』 (possible side story), V05 special-edition drama CD, Kodama-drawn anime-disc manga or booklet extras, the 2017 television adaptation, creator interviews/commentary, promotions, localized editions, and reception. Identity, authorship, chronology, edition, and provenance require fresh verification before any acquisition or admission. The anime is a separate adaptation lane. None may repair or seed a V01–V06 prospective reading.
+At bootstrap these were **user-supplied discovery leads, not then found in this folder**: 『捏造TRAP-LateWinter-』 (possible post-finale material), 『捏造トラップ-NTR- ～武田と藤原～』 (possible side story), V05 special-edition drama CD, Kodama-drawn anime-disc manga or booklet extras, the 2017 television adaptation, creator interviews/commentary, promotions, localized editions, and reception. LateWinter is now located in the evidence/local inventory but remains uninspected and quarantined. Identity, authorship, chronology, edition, and provenance require fresh verification before future narrative admission. The anime is a separate adaptation lane. None may repair or seed a V01–V06 prospective reading; none is required for this run's completion.
 
 After V06 is individually closed and its **mainline state frozen**, one verified supplement at a time may enter a separately declared lane. Record whether it confirms, strengthens, revises, complicates, contradicts, or fails to resolve the frozen interpretation. A later after-story can establish a later state without altering what the V06 endpoint itself established. Preserve both boundaries.
 
-## Future locator and unresolved source checks
+## Original bootstrap locator plan and remaining source checks
 
 Before V01 interpretation, verify/admit the exact Drive witness and determine a deterministic locator: `NTR-JP-VNN → chapter → EPUB spine/image/page index → panel/balloon`. The V01 operation must inspect spine order and image mapping, chapter boundaries, publisher pagination, inserts/extras/covers/blank pages, and coordinate stability. Do not assign page numbers or chapter IDs from filenames. A deterministic evidence sidecar, if needed, belongs in Drive; Git stores its identity/hash and interpreted locators, not source images. Later volumes must reconcile their coordinate schemes without silently renumbering prior citations.
 
