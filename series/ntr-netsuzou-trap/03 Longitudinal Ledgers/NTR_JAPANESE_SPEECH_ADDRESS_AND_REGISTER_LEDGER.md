@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V02; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V03; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER.md
 ---
 
@@ -57,3 +57,27 @@ Public デスヨネ S0022 comic formal agreement versus private cannot understan
 ### JPS-0007 — Male dialogue separates reconsideration from an exchange demand
 
 Takeda distance/honest liking/待ってる S0088–0092 grants choice under uncertainty; refusal of routine S0138–0140 changes access, not a hidden intimacy ultimatum. Fujiwara アンタら plural S0082, Takeda still knows nothing S0110, conditional 今度混ぜてよ S0112 and claimed male superiority S0117 instrumentalize information. His narrowed directive register contrasts Takeda's relational inquiry, but broad voice repertoire remains limited. Links CON-0010,INF-0007/0008,T-R02/F-R02; high local.
+
+## V03 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V03/SNNNN/I01` unless a volume is specified.
+
+### JPS-0008 — Hotaru's special-friendship explanation and private lie tactic
+
+H apologizes for confusion S0028/0031, says 親友/誰よりも特別な親友 S0030, asks permanence even with boyfriends S0032–0033; Y assent S0034 friendship, not romance. Private thought S0035 nine truth/one lie confirms managed account but identifies no false clause. Tender naming/pledge can carry real attachment and evasion; do not translate whole as false. Formal T 水科さん S0019 contrasts private 由真ちゃん. Links INF-0011,CON-0013,REL-0013; high text/attribution, intention bounded.
+
+### JPS-0009 — Yuma's breakup and private determination exceed her protective speech
+
+別れて以来 S0057 newly marks breakup in Y self-narration, not retro-V02 knowledge. Spoken concern S0130 versus private recognition lies/unknown H S0132 and 絶対に離れてなんかやるもんか S0133 (will not let separation occur) gives action-guiding priority without confirmed H hatred. Earlier no-right acknowledgment S0103 remains competing self-knowledge. Links REL-0012/0014,INF-0014,CLM-0012/0016; high self-speech, no settled identity label.
+
+### JPS-0010 — Hotaru's workplace register separates service, possessive claim, autonomy
+
+Service apologies/polite address S0071–0072, upbeat newcomer introduction S0085 contrast familiar refusal of Y work authority S0101 and overprotection S0131. この子は私のだから S0125 claims Y against client liberty; no agreed girlfriend label. Managers/clients direct/recruit/demand S0072–0076,0126–0127 normalize role expectations without permission. Written register, not acoustic voice or profession-level simulation. Links CON-0014/0016/0017,VIS-0015/0016,CAST-0012; high local.
+
+### JPS-0011 — Illness acceptance replaces the forecast substitute explanation
+
+Y apologizes after initiating S0152; H asks fever-cloudedness, says いいよ and 私に風邪うつして…? S0154 after smile/reapproach S0153. Local accepting/indirect invitation, no Takeda substitute text. H-R03 mechanism failure under romantic-wish reading retained with prior attachment-scope ambiguity. Medical/joking context prevents treating it as explicit durable romance; does not cancel Y initiative. Links CON-0018,AGY-0014,CLM-0008/R-V03; original checked, high attribution.
+
+### JPS-0012 — Takeda's practical offers and Fujiwara's useful cynical warning
+
+T notes/consultation S0093–0096, study application S0056 and bag request S0145 practical aid, no romantic-price clause. F advice/prep competence S0058 and naïveté/deception warning S0136 show register beyond threatening villain lines. F exit/suffocation account S0111–0112 attributed, not source-certified H motive. Useful/correct possibility coexists with coercive private demand S0006–0007. Links AGY-0013,REL-0017,INF-0014,CAST-0013/0014; high language, broad repertoire limited.

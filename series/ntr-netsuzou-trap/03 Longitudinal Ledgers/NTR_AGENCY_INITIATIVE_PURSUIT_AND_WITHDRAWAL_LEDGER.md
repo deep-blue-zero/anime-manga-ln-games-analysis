@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V02; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V03; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_AGENCY_INITIATIVE_PURSUIT_AND_WITHDRAWAL_LEDGER.md
 ---
 
@@ -65,3 +65,27 @@ Generic advice to Takeda S0054–0056 preserves specifics; private plural taunt 
 ### AGY-0009 — Yuma initiates closeness while withholding its name
 
 After Takeda declines routine S0138–0140, returns washed clothes S0141, anticipates kiss S0143–0144, then grasps Hotaru's hand/rests in lap after cessation S0146–0148. No immediate Fujiwara threat in this reapproach scene. She could leave; chooses closeness while denying kiss desire. Costs moral self-image, later secret exposure; loneliness and special attachment both possible. New Y-R03 is one-occurrence provisional, no automatic predictivity. Links REL-0008,CON-0011,VIS-0010,CLM-0007/0011; high action, precise motive bounded.
+
+## V03 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V03/SNNNN/I01` unless a volume is specified.
+
+### AGY-0010 — Fujiwara uses, transfers and keeps the photo advantage
+
+Newly depicted continuation pressure S0006–0007 before H deletion S0008. Prior forwarding to brother revealed S0039, storage request/display S0038–0040. Demand order supports F-R02 boundedly, transfer not previously predicted. Girls resistance/deletion doesn't demonstrate eliminated leverage. Voluntary helpful disclosure/relinquishment not observed; future handling must be a separate episode. Links INF-0010,REL-0017,CON-0012,VIS-0013,CLM-0014; high acts, no general violence forecast.
+
+### AGY-0011 — Yuma pursues work access and resists clients with real costs
+
+Sees H work, lies/follows S0063–0067, pulls H S0068, refuses leave S0073–0074, accepts trial under unwanted representation S0075–0079. Asked practical help S0080 contrasts unwanted handling; later removes client arm/punches S0088–0090, both scolded S0091. Returns to work S0121–0122, skips prep S0134, leaves without H when handling intolerable S0139. Persistence agency and constraint coexist; attachment not pure altruism. Links CON-0014/0015,INF-0013,REL-0012,Y-R04; high choices, full motive bounded.
+
+### AGY-0012 — Hotaru asserts autonomy while strategically representing others' choices
+
+Invites/reassures T S0019–0025; broad apology/cessation S0028–0034 yet privately mixed-account tactic S0035. Represents Y trial willingness S0075, rejects Y-approved-work authority S0101 and childhood rescue S0131; publicly claims Y S0125. Mother visit gives city/boy cue S0138, accuracy/intent unknown. Glad Y quits though owns similar work S0146–0147. Different domains yield contradictions rather than a single always-controls/always-victim rule. Links CON-0013/0014/0016/0017,INF-0011/0013,CLM-0013/0016; high acts.
+
+### AGY-0013 — Takeda helps outside a restored couple
+
+Changed H assurance precedes invitation S0023–0026; assists prep application S0056, offers missing notes/consultation S0093–0096, includes both girls outing S0107. Fever leads infirmary help/bag arrangement/drink S0143–0145,0151. Wants try again S0105 but never conditions aid on dating. First actual sight S0156 new evidence, ensuing reaction not inspected; T-R03 only limited-information-care, not discovery. Links REL-0015,INF-0012/0015,CLM-0010/R-V03,0015; high behavior, broad portability NOT_ASSESSED.
+
+### AGY-0014 — Yuma initiates intimate closeness; Hotaru accepts without Takeda frame
+
+H temperature care then withdraws S0149; Y pulls uniform S0150 before naming desire, apologizes S0152. H surprised then smiles/reapproaches S0153 and accepting illness wording S0154 without T substitution. Exact completed kiss obscured; illness limits motive/permission inference. A new initiative beyond prior lap supports Y-R03 boundedly and contradicts H-R03 mechanism under romantic-wish scope, with literal friendship-acknowledgment ambiguity retained. T arrives S0155–0156, reaction future. Links CON-0018,INF-0015,REL-0012/0013,CLM-0007/0008/R-V03; high sequence.

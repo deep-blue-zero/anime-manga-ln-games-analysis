@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V02; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V03; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_MELODRAMA_ESCALATION_AND_VISUAL_FORM_LEDGER.md
 ---
 
@@ -77,3 +77,27 @@ S0155 moral self-condemnation → flash S0156 → phone-holder reveal S0157 → 
 ### VIS-0012 — Embedded parallel domestic comedy remains continuity-separate
 
 NTR★P S0161–0166 explicitly パラレル, married adult roles and domestic advice-to-intimacy followed by husbands' interruption. Device echoes help/concealment pattern in comic alternate setting, not mainline marriage proof or behavioral validation. Afterword S0167 and covers/catalog S0168–0172 inspected paratext, excluded from motive adjudication. Links CLM-0005,CAST-0010; high boundary.
+
+## V03 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V03/SNNNN/I01` unless a volume is specified.
+
+### VIS-0013 — Phone deletion and late flashback split relief from retained evidence
+
+S0008 delete depiction resolves girls' immediate alarm; after reassurance, F/brother sequence S0038–0040 retrospectively reveals pre-deletion forwarding and actual computer image. V02 VIS-0011 captured artifact becomes transferred object. Reader learns copy after girls' apparent resolution; no T receipt. Dramatic irony makes device action inadequate as total control, not proof H knew backup. Alternative serial contrivance remains. Links INF-0010,AGY-0010,CLM-0009/R-V03; high order, function moderate.
+
+### VIS-0014 — Apology and special-friend speech followed by private truth/lie thought
+
+Balcony S0028–0034 contains genuine apologies, reciprocal jealousy and friendship pledge with clenched hand/close gesture; private H thought S0035 introduces nine-truth/one-lie tactic. V01 VIS-0002 unreadability now supplemented by selective inner access, still no false-clause identification. Device preserves sincerity and strategy as competing coexisting possibilities. Public school friendliness S0036–0038 gains unstable meaning; not a confession fixed by one facial cue. Links INF-0011,REL-0013,JPS-0008; high depiction, inference bounded.
+
+### VIS-0015 — Professional service contrasts requested help, resistance, and school care
+
+H bright service/Y awkwardness S0085–0087 follows requested fastening help S0080–0084. Client liberties and punch S0088–0090 expand agency beyond romance; scolding S0091 costs action. Notes/kindness S0093–0097 and icecream S0102 restore ordinary registers alongside conflict. Practical competence-to-closeness VIS-0004 recurs with changed request structure, not uniform boundary violation. Links CON-0015,AGY-0011/0013,JPS-0010/0012; high contrast, genre comedy alternative.
+
+### VIS-0016 — Public game breaks while private possessive resolve solidifies
+
+Color game opening S0117–0119, several-hours-earlier S0121, public claim S0125 and audience demand S0126–0127; Pocky break S0128 changes expected kiss outcome, joke S0129. After H refuses overprotection, Y private black-field resolve S0133 centers face and imagined H, linking unknown-life fear to refusal of separation. No actual completed game kiss or proved H hatred. Links CON-0017,REL-0012/0013,CLM-0016; high depicted contrast, motive partly explicit.
+
+### VIS-0017 — Care produces reapproach and actual observation; backstory remains earlier time
+
+False cold/prep lie S0134 followed genuine measured fever S0143–0144; no proved medical moral causation. T assistance/H temperature proximity S0145–0149 → Y pull S0150 → T drink cut S0151 → accepting reapproach S0152–0154 → arrival/sight S0155–0156. VIS-0005/0011 discovery hooks now become actual visual access, not complete history. Obscured contact limits kiss claim. 少女リプレイス S0159–0164 explicitly middle-school: makeup/feeling left behind echoes unknown-face priority but cannot validate a continuation rule. Paratext166–172 separate. Links INF-0015,CON-0018,AGY-0014,CAST-0015; high structure.

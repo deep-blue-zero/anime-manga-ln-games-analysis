@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V02; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V03; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_CAST_AND_RECONSTRUCTION_READINESS.md
 ---
 
@@ -69,3 +69,27 @@ F-R01 supported by new private order S0082/0110–0112; photo S0156–0158 justi
 ### CAST-0010 — Reported supporting participants and parallel roles stay bounded
 
 河本まりあ named by school rumor S0025, phone maria S0023; contact/report admitted, independent subject decisions absent, no model/monograph. Mother practical lunch/food/family report S0051,0062–0063; unnamed classmates/team peers supply social conditions, thin independent evidence. Adult married roles in explicitly parallel S0161–0166 cannot enroll future mainline states or validate models. Supporting treatment only; global registry untouched. Links INF-0006,VIS-0012; NOT_ASSESSED for reconstruction.
+
+## V03 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V03/SNNNN/I01` unless a volume is specified.
+
+### CAST-0011 — Yuma: school/work persistence and an admitted authority limit
+
+Y-V03/Y-R04 literal, Y-R03 action sequence supported bounded with fever/standing cessation constraints. Actual refusal/punch, requested help, prep lies/maternal cost, no-right recognition yet refusal of departure, private initiative broaden evidence ledger/model beyond passive confusion. Monograph justified for postV06 completion, not yet mature. School/mundane/native work/romance/conflict supported; adult professional expertise, ethical clarity, novel portability NOT_ASSESSED. Links AGY-0011/0014,CON-0016/0018,JPS-0009,CLM-0012/0016; no global grade.
+
+### CAST-0012 — Hotaru: real apology, working competence, and bounded mechanism failure
+
+H-V03/H-R04 literal; apology counts, strategic private account remains incomplete, workplace service/autonomy/possessive intervention and accepting non-T reapproach supply conflicting evidence. H-R03 FAILED_BOUNDED with friendship-acknowledgment scope ambiguity, not all-indirection rescue. Economic/exit motive recipient/injury/permission open. Native work/school/mundane/speech broader, no adult-professional/novel certification. Individual ledger/model/monograph warranted after V06. Links REL-0013,AGY-0012,JPS-0008/0010/0011,CLM-0008/R-V03,0013.
+
+### CAST-0013 — Takeda: separate ordinary assistance from unmodeled discovery reaction
+
+T-V03 now directly sees intimate position S0156, not whole history. T-R02 no diagnostic opportunity due changed assurance; new T-R03 limited-information-care has no authority over first discovery response. Study/notes/fever help support broader ordinary model, first-love persistence and hurt coexist. Individual ledger/model warranted; proportional monograph postV06 assessment. No assumed saint/victim-script or novel/professional readiness. Links REL-0015,INF-0012/0015,AGY-0013,JPS-0012,CLM-0015.
+
+### CAST-0014 — Fujiwara: academic competence beside photo retention and attributed knowledge
+
+F-V03 retains brother copy S0039–0040, renewed demand S0006–0007 supports narrow order with nonindependence. Advanced science/advice S0058 and generic deception warning S0136 evidence mundane useful behavior; H exit/suffocation report S0111–0112 may be partial/accurate/strategic. Sparse inner deliberation still blocks complete motive reconstruction; first-discovery knowledge absent. Bounded evidence/model and literary treatment justified, general violence/novel/professional NOT_ASSESSED. Links REL-0017,INF-0010/0014,JPS-0012,CLM-0014.
+
+### CAST-0015 — Unnamed brother, workplace and school subjects; embedded backstory route
+
+Unnamed F brother directly receives/displays image S0038–0040; Fujiwara asks him to save it, without an independently shown completed save. This supports exposure distribution but little individual decision history. Manager/clients S0069–0076,0085–0090,0126–0127 materially affect labor/permission; teachers/classmates/mother/prep verification S0043–0053,0138–0142 widen mundane context. Bounded supporting treatment, no invented names/models. 少女リプレイス S0159–0164 is mainline middle-school backstory, no adult parallel or prospective validation; afterword/covers166–172 paratext. Links INF-0010/0013,CON-0014/0017,VIS-0017; reconstruction NOT_ASSESSED.

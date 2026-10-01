@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V02; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V03; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 ---
 
@@ -88,3 +88,42 @@ First V02, T-R02 literal freeze; REL-0007/AGY-0006 S0088–0092,0138–0140. At 
 ### CLM-0011 — Later initiative revises agency while preserving prior refusals
 
 First V02 interpretive REVISE/STRENGTHEN history for CLM-0005 and earlier passivity alternatives. Yuma's hand grasp/lap S0147–0148 and self-condemnation S0153–0155 support present chosen closeness/concealment responsibility; force/blame at S0150–0152 and no affirmative answer S0154 remain separately bounded. Neither retroactive consent nor wholly passive Yuma survives. CON-0008/0011,REL-0008,VIS-0010. Nonforecast; PRESERVE ethical time distinction, prior harm/room willingness unresolved. Confidence high actions, specific permission OPEN.
+
+## V03 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V03/SNNNN/I01` unless a volume is specified.
+
+### V03 revisions of earlier claims — literal freezes preserved
+
+The V02 checkpoint was committed at `69a3182de99b8afca1ec93a9fa89ace73472aaf3` before all V03 narrative. [The V03 freeze](../01%20Sequential%20Readings/NTR_V03_PROSPECTIVE_FREEZE.md) owns detailed matching, exclusions, illness constraint and forward states.
+
+| Revision ID | Prior claim | Outcome / transition |
+|---|---|---|
+| CLM-0007/R-V03 | Y-R03 | SUPPORTED_BOUNDED / STRENGTHEN action-before-speech: standing cessation S0031, romantic distance/breakup S0057, private withdrawal→Yuma pull S0148–0150, apology S0152. Not a definite kiss. Standing rather than freshly voiced cessation and illness bound applicability. AGY-0014/CON-0018. |
+| CLM-0008/R-V03 | H-R03 | FAILED_BOUNDED / DOWNGRADE predicted Takeda framing: surprise→smile/reapproach→accepting illness wording S0152–0154, no Takeda substitution. Original broad attachment/new-acknowledgment wording admits changed-condition reading after special-friendship conversation S0029–0034; preserve scope uncertainty beside failure, never redefine all indirectness as success. REL-0013/CON-0018. |
+| CLM-0009/R-V03 | F-R02 | SUPPORTED_BOUNDED / STRENGTHEN handling order S0006–0007 before phone handover S0008. Same cliffhanger continuation limits independence. Copy S0039–0040 is newly observed, not predicted; girls' copy knowledge absent. INF-0010. |
+| CLM-0010/R-V03 | T-R02 | NO_DIAGNOSTIC_OPPORTUNITY / PRESERVE untested. Changed Hotaru assurance S0023–0025 precedes later friendly invitations; notes/help/outing including Hotaru not former couple routine. REL-0015/INF-0012. |
+| CLM-0005/R-V03 and CLM-0011/R-V03 | Ethical and agency distinction | PRESERVE / STRENGTHEN: Yuma's new pull/apology and Hotaru accepting reapproach add agency; early refused acts retain boundary assessment. Broad apologies S0028/0031 count without claiming complete act-specific repair. CON-0013/0018. |
+| CLM-0006/R-V03 | Hotaru motive/room permission | OPEN: private truth/lie tactic S0035 confirms strategic incompleteness without identifying false clause; Fujiwara's exit/suffocation report S0111–0112 is testimony, not direct Hotaru reason. Beloved, injuries and V01 room permission unresolved. INF-0011/0014. |
+
+H-R02 recast S0009 lacks a new comparable contemporaneous objection/continuation trigger; no fully matched mechanism test or immediate accountable-stop falsifier. First actual Takeda observation S0155–0156 is a new information condition with response UNMODELED. No numeric accuracy or backstory validation.
+
+### CLM-0012 — Yuma access pursuit precedes candid naming; due V04
+
+First V03, Y-R04 literal in NTR_V03_PROSPECTIVE_FREEZE.md. Observable sequence forecast under perceived credible H-access loss/private opportunity/no immediate emergency; protection/friendship account before candid possessive/intimate admission. S0063–0074/0121–0133, REL-0012/AGY-0011. Candid naming first or sustained chosen distance through first matched opportunity fails; no match NO_DIAGNOSTIC_OPPORTUNITY. Do not forecast invisible jealousy or call T discovery automatically H-loss trigger. Due V04 OPEN_PENDING_TEST. Speech score belongs to first available private explanation exchange about pursuit: silence gives only action support; absent/opposite framing at an actual exchange is a component miss, never an indefinitely delayed full hit.
+
+### CLM-0013 — Hotaru resists childhood-authority control of independent work; due V04
+
+First V03 H-R04 literal; work/autonomy pushback S0101/0131, CON-0016/AGY-0012. At first new attempt by Y to dictate H work/departure through childhood protection, no immediate demonstrated emergency, predict autonomy/difference objection before accepting Y decides. Accepts authority first under unchanged safety facts fails; romantic proposal alone not match, emergency changes condition. Contradictory keep-Y-away wish S0146–0147 retained. Due V04 OPEN_PENDING_TEST, native conditional not general coherent worldview.
+
+### CLM-0014 — Fujiwara leverage test continued at a separate episode; due V04
+
+First V03 continuation of literal V02 F-R02, now copy retention OBSERVED INF-0010, pressure-order supported only same cliffhanger. First genuinely separate later private handling with advantage/no restraint predicts leverage before relinquishment/helpful direct disclosure. Reverse order fails; unavailable opportunity/lost advantage/restraint NO_DIAGNOSTIC_OPPORTUNITY. Girls do not know copy by default. No new generalized violence prediction. Due V04 OPEN_PENDING_TEST; nonindependence preserved.
+
+### CLM-0015 — Takeda school care under limited information; due V04
+
+First V03 T-R03 literal: school-practical need, no fresh contrary romantic evidence, help not refused → offer concrete aid without romantic return as price, AGY-0013 S0093–0096/0143–0145. Conditional aid or deliberate available-care punishment fails. First discovery S0156 already introduces different evidence; full-secret response UNMODELED. A later scene must reestablish literal condition, otherwise NO_DIAGNOSTIC_OPPORTUNITY. Due V04 OPEN_PENDING_TEST with likely narrow applicability, no ideal-boy generalization. Reestablished condition requires independent source-backed belief revision about witnessed evidence; help, incomplete history knowledge or lack of further confession cannot establish its own antecedent. Default no opportunity at current exit.
+
+### CLM-0016 — Protection, autonomy and appropriation remain domain-specific contradictions
+
+First V03 interpretive REVISE/STRENGTHEN: Y acknowledges lack of authority S0103 yet refuses separation privately S0133; H asserts independent work S0101/0131 yet represents Y trial choice S0075 and claims her S0125. REL-0012/0013,CON-0014/0016/0017. A valid autonomy argument does not erase separate boundary harms; protective concern not automatic entitlement. Alternative constrained dependence versus romance OPEN. Nonforecast; due mature synthesis, no uniform victim/protector reversal.

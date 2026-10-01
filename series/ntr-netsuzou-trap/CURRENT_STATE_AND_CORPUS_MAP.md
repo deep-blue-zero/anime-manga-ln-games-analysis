@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V02 individually CLOSED; V03–V06 narrative unread"
+source_boundary: "Japanese manga V01–V03 individually CLOSED; V04–V06 narrative unread"
 canonical_home: series/ntr-netsuzou-trap/CURRENT_STATE_AND_CORPUS_MAP.md
 project_initialization:
   status: canonical
@@ -37,14 +37,14 @@ project_initialization:
   owner_review: APPROVED_BY_OWNER_CONTINUOUS_RUN_PROMPT_20261001
   sequential_analysis_lock: OPEN
   lock_reason: VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION
-  next_permitted_operation: ADMIT_AND_READ_V03
+  next_permitted_operation: ADMIT_AND_READ_V04
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V01
   terminal_boundary: V06
-  committed_high_water_mark: V02
-  next_candidate_operation: V03
+  committed_high_water_mark: V03
+  next_candidate_operation: V04
   confirmation_between_units: false
   run_state: active
 ---
@@ -56,9 +56,9 @@ This is the single first-read surface for `series/ntr-netsuzou-trap/` on the con
 ## Current boundary
 
 - Primary medium: Japanese manga, numbered V01–V06 tankōbon EPUBs. Their exact identities, Drive IDs, verified local hashes, package order, and remote-hash limitation are in the [source and scope map](00%20Frameworks%20and%20Methods/NTR_SOURCE_AND_SCOPE_MAP.md). All six are structurally verified; preparation supplies no later narrative knowledge.
-- Narrative admission/complete visual inspection/individual close: **V01 169/169 and V02 172/172 images**. V03–V06 remain narratively unread. Each [sequential reading](01%20Sequential%20Readings/) has an individually committed prospective boundary; the [V02 deep reading](01%20Sequential%20Readings/NTR_V02_DEEP_READING.md) preserves its V01 entering synopsis and the [V02 freeze](01%20Sequential%20Readings/NTR_V02_PROSPECTIVE_FREEZE.md) adjudicates prior forecasts and owns new literal states/rules. All eight instruments append material evidence; four central subjects have provisional local rules, with bounded later-evidence support rather than operational capability grades. Named reported supporting participants remain bounded.
+- Narrative admission/complete visual inspection/individual close: **V01 169/169, V02 172/172 and V03 172/172 images** (513 inspected cumulatively). V04–V06 remain narratively unread. Each [sequential reading](01%20Sequential%20Readings/) has an individually committed prospective boundary; the [V03 deep reading](01%20Sequential%20Readings/NTR_V03_DEEP_READING.md) preserves its V02 entering synopsis and the [V03 freeze](01%20Sequential%20Readings/NTR_V03_PROSPECTIVE_FREEZE.md) owns exact states, bounded support/failure, condition ambiguity and no-opportunity adjudications. All eight ledgers append material evidence. First actual Takeda discovery response remains UNMODELED; no global capability grades are asserted.
 - Supplemental material and the television adaptation: outside the mainline source boundary; see the quarantine queue in the source map. No supplemental narrative object was acquired or admitted in this bootstrap.
-- `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; reason `VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION`. The authorized terminal boundary is **V06**, with a validated recoverable close after each volume. Next: V03 admission and reading after this V02 transaction is committed. Sequential completion is distinct from mature synthesis, final audits, and publication.
+- `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; reason `VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION`. The authorized terminal boundary is **V06**, with a validated recoverable close after each volume. Next: V04 admission and reading after this V03 transaction is committed. Sequential completion is distinct from mature synthesis, final audits, and publication.
 - Publication target: stable branch `series/ntr-netsuzou-trap`. Bootstrap history is preserved in the [bootstrap receipt](07%20Audits%20and%20Handoffs/NTR_BOOTSTRAP_RECEIPT.md). Git history confirms integration into `main` at `9f1aadd7`; at run start, `main` was `c0e08f7347ded1d2c70c4914319178329e6b9b8c` and the stable branch was `7bca96f3da16a6077aa24a20ca646f9d71724e79`. Ordinary merge `22df7ff2e17047afd10d17fdc0bbc4fdaa8c474b` preserved both histories; its complete tree equals that starting `main` tree. Historical receipt statements remain statements about the bootstrap transaction.
 
 ## Governing homes and retrieval order

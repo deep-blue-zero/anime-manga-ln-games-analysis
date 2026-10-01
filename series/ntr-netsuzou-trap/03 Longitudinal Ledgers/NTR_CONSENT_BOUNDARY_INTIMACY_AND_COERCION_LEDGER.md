@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V02; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V03; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_CONSENT_BOUNDARY_INTIMACY_AND_COERCION_LEDGER.md
 ---
 
@@ -77,3 +77,31 @@ Hotaru does not kiss at expected proximity S0143–0144, announces cessation S01
 ### CON-0012 — Unexpected recording adds exposure power, not agreement
 
 Camera flash S0156; Fujiwara phone/claim of image capture S0157, renewed access question S0158; girls surprised. No prior recording permission or accepted demanded participation depicted. Exact image, storage/deletion, distribution/Takeda receipt OPEN. Privacy intrusion and threat are distinct from any ensuing unshown acts. Links INF-0008,VIS-0011,CLM-0009; high recording claim/depiction, downstream outcomes uninspected.
+
+## V03 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V03/SNNNN/I01` unless a volume is specified.
+
+### CON-0013 — Broad apology and friendship agreement are partial repair evidence
+
+Hotaru apologizes for confusing Yuma S0028 and says sorry/stop S0031; accepts jealous special-friendship discussion S0029–0034. Count apology/cessation genuinely, unlike no-apology model. Prior specific refused acts, permission requirements and negotiated intimate limits not individually addressed. Yuma agrees friendship, not blanket contact or romance. Private managed-account thought S0035 raises incompleteness, not proof apology wholly false. Links REL-0013,INF-0011,CLM-0005/R-V03; high speech, complete repair unsupported.
+
+### CON-0014 — Workplace recruitment converts protective refusal into labor commitment
+
+Yuma grabs/pulls H wrist causing pain S0068; customer pulls Yuma, she refuses/resists S0069–0070. Manager touches/recruits S0072; H says go home/work safe, safety only testimony. Yuma refuses leave without H S0073–0074; H tells manager Y wants trial S0075 without affirmative agreement. Later dressing/participation not retroactive permission for recruitment/customer handling. Alternatives leave/ask/seek other help exist but valued attachment costly. Links AGY-0011,REL-0012,INF-0013; high acts, no paid sexual-service inference.
+
+### CON-0015 — Requested practical help differs from uninvited intimacy
+
+Yuma asks fastening help S0080, H provides it and Y thanks S0081–0084. Agreement supported for practical assistance, close staging evokes Y remembered desire but does not supply every subsequent permission. Customer handling S0086–0090 remains unwanted; Y removes arm and punches after both drawn close. Scolding S0091 is consequence, not invalidation of resistance. Links AGY-0011,VIS-0015,JPS-0010,CLM-0005/R-V03; high action-specific distinction.
+
+### CON-0016 — Protection does not authorize control of work or departure
+
+Yuma asks H quit S0099, H asserts independent work/authority limit S0100–0101, Y recognizes no guardian/boyfriend entitlement S0103. H rejects childhood overprotection S0131; Y privately refuses separation S0133. Legitimate safety concern and workplace boundary harms do not establish right to dictate all choices. H earlier boundary crossings do not invalidate her autonomy argument; Y present force/control assessed separately. Links REL-0012/0013,AGY-0012,CLM-0013/0016; high speech/self-state, exit motive OPEN.
+
+### CON-0017 — Public possessive intervention and game pressure lack an agreed relationship
+
+H intervenes この子は私のだから S0125; clients demand girl–girl demonstration S0126–0127. Claim may protect/reserve access; no Y agreement to owned/girlfriend status or supplied identity label. Close game ends Pocky break S0128 and joke S0129, no completed kiss. Audience expectation is pressure, not either girl's consent; no generalization from later private initiative. Links REL-0013,AGY-0012,VIS-0016,JPS-0010; high observed, motives bounded.
+
+### CON-0018 — Infirmary initiative and accepting reapproach under illness constraint
+
+H temperature-check care S0149 then withdrawal; Y pulls uniform to bring H close S0150, apologizes S0152. Exact contact obscured, no definite kiss. H surprise then smile/reapproach S0153 and いいよ/illness prompt S0154 supports local acceptance of closeness, not full lasting romantic agreement. Actual fever S0144 limits inference about informed/mutual wider permission, without voiding all agency. T sees intimate position S0156; not permission or complete history. Prior refused acts preserved. Links AGY-0014,INF-0015,VIS-0017,CLM-0007/0008/R-V03; high initiative/response, precise unspoken permissions OPEN.

@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V02; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V03; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_INFORMATION_DECEPTION_INFIDELITY_AND_EXPOSURE_LEDGER.md
 ---
 
@@ -65,3 +65,31 @@ New private plural taunt S0081–0082, concrete nondisclosure/access exchange S0
 ### INF-0009 — Yuma assigns a recipient whom the source has not confirmed
 
 Hotaru defines genuine liking S0099–0100; Yuma privately first thinks of herself then assigns Fujiwara S0104. Hotaru's unreadable face leaves her state unconfirmed; she is not shown hearing Yuma's interior attribution. Later self-bad comfort account S0120–0122 is read by Yuma as need for Fujiwara; Hotaru frames Yuma's reapproach as Takeda loneliness/substitution S0149–0152. These are each person's propositions, not narrator-certified motives. Possible misrecognition drives the analyst's hypothesis, while the observed causal fact is acting through unconfirmed interpretations despite knowing physical acts. Links REL-0008/0009/0010,JPS-0005,H-R03,CLM-0006/0008; high attribution, intended recipient OPEN.
+
+## V03 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V03/SNNNN/I01` unless a volume is specified.
+
+### INF-0010 — Deletion leaves a forwarded copy unknown to girls
+
+F renews threat/demand S0006–0007; H takes phone, delete icon/says deleted S0008, Y acts relieved. Later flashback S0039 shows F prior forwarding; unnamed brother's computer displays image S0040 and storage requested. Actual third-party exposure, not T receipt. Complete erasure false; H's knowledge of copy and deliberate false assurance unproved. F/brother know retained object; girls/T not shown knowing. Links CON-0012,AGY-0010,VIS-0013,CLM-0009/R-V03; high transfer/order, copy contents limited to depicted image.
+
+### INF-0011 — Strategic reassurance with no identified false clause
+
+H tells T persistent admirer/nonreciprocity/cessation and Y liking T S0023–0025, changing assurance before later routine. Girls special-friendship jealousy/apologies/cessation S0028–0034; H private thought nine parts truth/one lie S0035 confirms deliberate mixed account. No particular clause identified as false. T/Y receive different propositions; source does not certify sincerity whole or negate all care. H did not hear Y prior private recipient attribution by default. Links REL-0013,VIS-0014,JPS-0008,CLM-0006/0008/0010/R-V03; high attribution, motive scope bounded.
+
+### INF-0012 — Changed assurances, breakup language, and school civility are distinct
+
+H explanation S0023–0025 leads T invitation S0026; Y describes 別れて以来 S0057. Study/notes/care S0056,0093–0097,0143–0145 and outing including H S0107 don't establish couple restoration. T privately wants try again S0105, no complete actual girl history yet. First visual access only S0155–0156. Changed assurance before possible routines makes T-R02 no opportunity, not fulfilled. Links REL-0014/0015,AGY-0013,CLM-0010/R-V03; high time-specific distribution.
+
+### INF-0013 — Late-night assumption, hidden work, and attendance lie
+
+Y infers H late homecomings mean F S0055, then F says not recently seen H S0059–0060. Y discovers work S0062–0067 while deceiving boys about mother's call S0063. H only discloses high wage/savings not reason S0092; no paid sexual-service fact. Y cold excuse/prep absences S0134, H boy/city claim with mistake caveat S0138, mother checks school S0141. Actual later fever S0143–0144 separate from earlier lie, no medical causation. Links AGY-0011/0012,CON-0014,VIS-0017; high observed lie/discovery, H claim accuracy/intent OPEN.
+
+### INF-0014 — Fujiwara's suffocation report becomes Yuma's belief, not authorial fact
+
+F says knows work since start S0109, H wants leave home S0111, living beside Y suffocating S0112. Y shock/rumination S0113–0116 and private resolve S0132–0133 act on attributed explanation. No direct H interior corroboration of specific Y-directed exit motive. Real job/savings consistent with exit, not full cause. Y knows F report; H copy/exit-proposition awareness not shown. Links REL-0012/0016,AGY-0012,CLM-0006/R-V03,0016; high report/effect, content truth OPEN.
+
+### INF-0015 — Takeda now sees proximity, not the whole secret
+
+T asked H bring bag S0145, obtains drink S0151, returns S0155 and visually sees girls in close position with Y holding uniform S0156. Reader knows initiative/apology/reapproach S0150–0154; T not shown witnessing every step, hearing full conversation, knowing previous acts or photo copy. Both girls turn/notice him S0155–0156; their beliefs about how much he saw/inferred remain unknown. Future reaction/inference remains OPEN/UNMODELED; do not retrofit ignorant-patience rule. Links REL-0015,CON-0018,VIS-0017,T-V03; high access, interpretation unknown.

@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V02; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V03; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_RELATIONSHIP_DESIRE_AND_ATTACHMENT_LEDGER.md
 ---
 
@@ -73,3 +73,31 @@ Opaque public couple → testimony she never assumed fidelity S0029–0031, perm
 ### REL-0011 — Fujiwara → girls/Takeda: private leverage beside public friendship
 
 V01 suspicion → taunts both girls about cheating S0081–0082, retains Takeda ignorance S0110, demands access for silence S0111–0112, renews after taking photo S0156–0158. Public Takeda confidant gives generic advice S0054–0056; private stance seeks instrumental access, not demonstrated mutual attachment. Girls do not agree; Yuma slaps S0117. Photo distribution/terms with Hotaru OPEN. Links CON-0010/0012,INF-0008,AGY-0008,CLM-0003/0009; high conduct, broad inner motive limited.
+
+## V03 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V03/SNNNN/I01` unless a volume is specified.
+
+### REL-0012 — Yuma → Hotaru: access-seeking under an autonomy limit
+
+Prior private jealousy/denied desire → acknowledges she has no guardian/boyfriend right to decide work S0103, yet privately vows not to allow Hotaru departure even if hated S0132–0133. Follows into work S0063–0074, returns S0121, seeks private closeness S0150 without naming desire. Protective and possessive wishes coexist; Hotaru's actual hatred/exit-from-Yuma unconfirmed. Public friendship/protection versus private priority resolve; high self-testimony/action, romantic interpretation bounded. Links CON-0014/0018,INF-0014,AGY-0011/0014,CLM-0012/0016.
+
+### REL-0013 — Hotaru → Yuma: special friendship, strategic cessation, accepting response
+
+Acknowledges jealousy over Yuma's boyfriend and uniquely special best friendship S0029–0034, broadly apologizes/promises stop S0028/0031. Private truth/lie tactic S0035 confirms managed account, not a false-clause identity. Protects/claims Yuma at work S0125 yet rejects overprotection S0131; glad Yuma quits despite own job S0146–0147. Surprise→reapproach/illness acceptance S0152–0154 lacks Takeda substitution. No agreed romance/explicit own romantic wish. Links CON-0013/0017/0018,INF-0011,CLM-0008/R-V03,0013; actions high, motive OPEN.
+
+### REL-0014 — Yuma → Takeda: breakup recognition and gratitude without renewed exclusivity
+
+V02 requested distance → Yuma now says since breakup S0057, ordinary talk improves. Accepts study help S0056, thanks/cries over kindness S0093–0097 while guilty about earlier harm; not equivalent to never caring for him. Private Hotaru pursuit continues. H's reassurance changes T beliefs S0023–0025 without Y full disclosure. No observed restored exclusive couple routine. Links INF-0012,AGY-0013,CLM-0010/R-V03; high stated breakup/care, desired future toward T uncertain.
+
+### REL-0015 — Takeda → Yuma: renewed possibility, practical care, first visual access
+
+Prior distance under forcing/secrets → new assurance S0023–0025, friendly/study assistance S0056–0057, notes/consultation S0093–0097, private wish to try again S0105. Outing S0107 includes Hotaru, not couple-exclusive resumption. Finds fever/arranges help S0143–0145, returns drink and sees girls close S0155–0156. Exact inference/response OPEN; not full-history knowledge. Links INF-0012/0015,AGY-0013,T-V03/CLM-0015; high conduct, first-discovery response UNMODELED.
+
+### REL-0016 — Hotaru → Fujiwara: continuing access and attributed exit knowledge
+
+S0009 sends Yuma home while F stays; later F says not seen H recently S0059, knows work from start S0109 and reports her desired exit/suffocation S0111–0112. No direct H disclosure of ultimate savings motive to Yuma; report may be accurate/partial/strategic. Public dating continuity not demonstration of love or permission; current H dependence/F facilitation terms OPEN. Prior kick CON-0004 preserved. Links INF-0014,CON-0012/0014,CLM-0006/R-V03; report high as report, inner reasons low.
+
+### REL-0017 — Fujiwara → Takeda/girls: useful advice and retained exploitative information
+
+Provides prep-school advice/advanced-science competence S0058, generic deception warning S0136 while concealing girls' specific history. Renewed demand S0006–0007 and brother copy S0039–0040 instrumentalize girls' privacy. Boy friendship/usefulness does not remove coercion; warning accuracy and motive separate. Girls apparently trust deletion, no copy knowledge shown. Links INF-0010/0012,AGY-0010,JPS-0012,CLM-0014; high acts, sparse motive.
