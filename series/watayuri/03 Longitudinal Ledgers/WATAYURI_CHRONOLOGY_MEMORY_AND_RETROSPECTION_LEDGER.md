@@ -4,14 +4,14 @@ artifact_id: WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.7"
+version: "0.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V06 mainline through V06 Shift 31/i154, also latest depicted present; packaged half-chapters separately bounded; V06 Shift 31.5 does not advance the endpoint; V07–V14 inventory only"
+source_boundary: "Japanese V01–V07 mainline through V07 Shift 36/i150, also latest depicted present; packaged shorts separately bounded; V08–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMO
 
 **Update and revision rule.** Append retrospective records that link to earlier event IDs; revise the mature ordering if warranted while preserving original VNN presentation and uncertainty. Mark apparent contradiction OPEN when order or witness cannot be settled. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V06 mainline through V06 Shift 31/i154, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5 and 31.5 remain separately bounded; V04 EX is promotional. V01–V05 sections retain their earlier states; dated V06 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V07 mainline through V07 Shift 36/i150, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1 and 36.2 remain separately bounded; V04 EX is promotional. V01–V06 sections retain their earlier states; dated V07 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -175,3 +175,31 @@ The post-kiss smile is shown after a long childhood retrospective, but belongs i
 A separate timing statement must also be retained: at i134 Mai says **昨日** about working without the cast, whereas S31.5/i157 recalls its removal after Hime left for the visit. The reports may concern first removal and later work, but the source does not explicitly supply that reconciliation. Do not silently replace either wording or invent a second removal. The visit/recovery/Sunday sequence remains supported independently.
 
 The half-chapter is supplementary evidence about an earlier/local restored-staffing interval. Its placement after the resignation cliffhanger is an edition order, not a demonstrated next scene. Keep the latest present at i154 even after reading every remaining image. [i154–168.]
+
+
+<a id="v07"></a>
+## V07 — Current additions and transitions — 2026-09-30
+
+**V07 evidence key:** source-map key `V07`, Japanese witness `1xzDrNl-HlgiL5K_E0r_qp5nZiI_QdrUi`, SHA-256 `a56f8d1404a80bc1d006307371ceb8f50392cb85ccc30674fe5ab2735336f9b9`. The [frozen V07 reading](../02%20Sequential%20Readings/WATAYURI_V07_DEEP_READING.md#chronology) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V07; WY1–WY6 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 36/i150. Shift 36.1/i152–157 is an intervention-period supplement, not a post-rejection scene; Shift 36.2/i158–159 is a managerial-work explainer. Afterword, profiles and edition matter at i160–168 do not advance the mainline endpoint.
+
+### Chronology, memory and retrospective additions
+
+Keep event order separate from presentation order and confidence about motive separate from confidence about timing.
+
+| ID | Presentation and event position | Confidence, link and restriction |
+| --- | --- | --- |
+| **WY7-T01** | S32/i001, i005–009 continues the response to V06’s final work-retraction statement. | High relative order. V06’s earlier unknown response is preserved as historical uncertainty, now resolved forward. |
+| **WY7-T02** | S32/i010–024 depicts an ensuing interval of ordinary absence, continued school/work and Kanoko’s inquiries/call. | High for absence and order; no invented number of days or completed legal termination date. |
+| **WY7-T03** | S33/i030–034 expands the planning call previously introduced at i024, before the private confrontation. | High narrative relation. Not a second independent call with a newly repeated decision unless separately shown. |
+| **WY7-T04** | S33/i036–054 confrontation precedes S34 school advice and later attempted/applied repair. | High sequence. The apology at i083 follows, not accompanies, the hit. |
+| **WY7-T05** | S35/i085–095 supplies a present school refusal and birthday scheduling during Hime’s absence. | High local order. The date is Sunday July 30; no absolute year derived from weekday matching. |
+| **WY7-T06** | S35/i097–115 revisits V06’s visit, home aftermath and Sunday salon events through Hime’s reception. | High retrospective status. New causal/self-understanding evidence, not new repeated kiss, tray incident or recovery disclosure. |
+| **WY7-T07** | S36/i119 begins the return; i121–128 explicitly moves to a meeting a few days earlier; i129 resumes the current private encounter. | High marked sequence. The neutral-café interview does not occur after the birthday conversation. |
+| **WY7-T08** | S36/i129–150 is the current private exchange before the promised salon participation. | High order. Mainline and latest-present endpoint **i150**, with party completion and later work status unshown. |
+| **WY7-T09** | S36.1/i152–157 belongs to Sumika’s response to learning of Mitsuki’s confession while its outcome remains open and the birthday prospective. | High that it is not post-i150; exact insertion around the earlier intervention remains provisional. Do not date it only by package position. |
+| **WY7-T10** | S36.2/i158–159 is an expository account of manager duties and a future wish for a break. | No exact dated workday or completed vacation. Profile and manual pages are edition witnesses, not subsequent events. |
+| **WY7-T11** | Afterword/i160–161 and bonus/i168 supply production testimony and a narrated anecdote, respectively. | Their chronologies are not mainline continuation. Neither the production year nor the joke fixes the fictional birthday year. |
+
+**Retained V06 chronology limit:** the mainline “yesterday” castless-work statement and the supplementary first-removal recollection remain distinct. V07’s recalled Sunday does not explicitly reconcile them. Preserve the accepted correction rather than using the new volume as an excuse to overwrite either source expression.
+
+The V07 freeze has no dual endpoint of the V03/V05 kind: both mainline reading and latest depicted present stop at **Shift 36/i150**. Its internal retrospectives and later packaged shorts nevertheless require separate event-time fields. A single last-page number is not enough to recover what happened next and what was merely learned next.
