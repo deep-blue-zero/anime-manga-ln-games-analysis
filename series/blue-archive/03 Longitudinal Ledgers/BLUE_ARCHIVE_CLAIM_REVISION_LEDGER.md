@@ -4,7 +4,7 @@ artifact_type: claim_revision_ledger
 scope: CLAIM_REVISION
 generation: V1
 status: active_provisional
-source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 8 group and 26 event objects admitted with limits in Phase 2 cycle 001; other supplemental sources unadmitted"
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 69 supplemental objects admitted with limits in cycles001–002; other supplemental sources unadmitted"
 checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
 current_sequential_boundary: MAIN_V001_C003 E043 backfill complete; MAIN_S2_V003_C001 E014 latest forward; no unopened main unit in pinned snapshot
 supersedes: []
@@ -22,7 +22,7 @@ Use only: **PRESERVE · STRENGTHEN · REVISE · DOWNGRADE · REJECT · OPEN**.
 
 All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
 
-[Phase 2 cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) admits exactly **8 group and 26 event objects with limits**; its source-facing routes and the supplemental object crosswalk own exact IDs. Other supplemental objects and performed voice remain unadmitted. Current coverage is **23 PARTIAL_MODEL / 345 UNMODELED / 368 analytical subjects**, every standalone model NONE. Historical entries below retain their original information boundary; the appended cycle records contextual repertoire without inventing main-story chronology.
+Cycles 001–002 admit exactly **69 supplemental objects with limits:12 group,26 event,13 bond,13 MomoTalk and5 character_data**. [Cycle 002](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_002_CHECKPOINT.md) and the exact object crosswalk own admission. Other sources and performed voice remain unadmitted. Current combined coverage is **23 PARTIAL_MODEL /354 UNMODELED /377 analytical subjects**, every standalone model NONE. Historical main and cycle001 entries retain their dated information boundary; no main chronology is inferred.
 
 ## Historical baselines and sequential deltas
 
@@ -3742,3 +3742,19 @@ Hoshino's local-Shiroko strength appraisal and shop-traffic impressions are not 
 Only **PRESERVE / STRENGTHEN / REVISE / DOWNGRADE / REJECT / OPEN** are adjudication states. All new comparisons are retrospective; no frozen rule/prediction receives a validation score. Kazusa/Reisa distributed partial explanations retain the E017 contrary ending and the cycle's explicit abstention envelope.
 
 The exact object crosswalk, packet readings and cycle checkpoint preserve all branch, label and identity warnings. Ordinary pleasure is affirmative evidence; it does not substitute for unprinted outcomes. No new durable claim/rule ID or standalone model is created.
+
+## Phase 2 cycle 002 contextual delta — 2026-10-01
+
+[Exact35-object acceptance](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_002_CHECKPOINT.md); pinned a038020f witness.17 scenes,893 structured utterances,102 choices,177 full-thread messages,3 profiles and229 written records (228 nonempty). Main480 and all historical knowledge boundaries remain unchanged.
+
+| Existing claim | Scoped disposition | Accepted effect / limit |
+|---|---|---|
+| BA-C001 / BA-C002 | PRESERVE / STRENGTHEN locally | Responsibility remains a norm and reciprocal useful aid supports experiential legitimacy; contrary instruction/play remain in the record. Serika private packet; no invariant success. |
+| BA-C005 | PRESERVE REJECTED; counterevidence strengthened | Knowledge, body, communication and play are bounded. Accurate institutional competence cannot be inferred from game-derived shrine instruction. |
+| BA-C008 | STRENGTHEN source firewall | 96 Serika and6 Gourmet choice groups remain alternatives; full Momo Answer conditions matter. Authored persona acts are not accumulated player possibilities. |
+| BA-C011 | STRENGTHEN locally | Useful adult aid is separable from infallibility. NewYear002 bad instruction and swim003/005 mismatched play preserve contrary cases. |
+| BA-C016 / BA-C017 | STRENGTHEN distinction; REVISE any invariant application | Recipient control and information/confirmation remain necessary: Fuuka’s warning, literal Serika stop/privacy/clothing requests, uncertain apology route and false expertise test them. Pleasure is preserved alongside failures. |
+| BA-C007 / BA-C010 / BA-C015 / BA-C018 | PRESERVE; no direct institutional test from analogy | Gourmet Sensei is a detainee/participant; food, repair and gifts do not independently establish sovereign transfer, Abydos historical causality or hospitality coalition mechanisms. |
+| G09 attribution basis | REVISE causal description of twelve accepted label seams | Raw actor-only commands precede different text-bearing commands; derivation explains these labels better than an unqualified upstream-error allegation. Individual voice assignments stay qualified; ensemble arguments and model statuses unchanged. |
+
+No new durable claim/rule ID, model artifact, held-out test or forecast. Ordinary pleasure is affirmative evidence. Source/branch/chronology/identity and outcome limits remain in the linked complete readings.

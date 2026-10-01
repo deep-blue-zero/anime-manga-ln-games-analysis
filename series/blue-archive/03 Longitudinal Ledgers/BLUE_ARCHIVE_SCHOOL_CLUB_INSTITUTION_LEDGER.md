@@ -5,7 +5,7 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
-source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 8 group and 26 event objects admitted with limits in Phase 2 cycle 001; other supplemental sources unadmitted"
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 69 supplemental objects admitted with limits in cycles001–002; other supplemental sources unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ updated: 2026-10-01
 
 All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
 
-[Phase 2 cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) admits exactly **8 group and 26 event objects with limits**; its source-facing routes and the supplemental object crosswalk own exact IDs. Other supplemental objects and performed voice remain unadmitted. Current coverage is **23 PARTIAL_MODEL / 345 UNMODELED / 368 analytical subjects**, every standalone model NONE. Historical entries below retain their original information boundary; the appended cycle records contextual repertoire without inventing main-story chronology.
+Cycles 001–002 admit exactly **69 supplemental objects with limits:12 group,26 event,13 bond,13 MomoTalk and5 character_data**. [Cycle 002](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_002_CHECKPOINT.md) and the exact object crosswalk own admission. Other sources and performed voice remain unadmitted. Current combined coverage is **23 PARTIAL_MODEL /354 UNMODELED /377 analytical subjects**, every standalone model NONE. Historical main and cycle001 entries retain their dated information boundary; no main chronology is inferred.
 
 ## Historical baselines and sequential deltas
 
@@ -2351,3 +2351,15 @@ More restaurant/customers and shops are character observations, not demographic 
 | Cross-school gift contexts | Umika credits her president and imagines local festival work; Kisaki says an office holder joins custom; Reijo's merchant/martial context, Chiaki's weekly-media claims and Rio's Millennium-shaped self broaden ordinary institution relations. | EVENT80000 E117/E120/E121/E123/E125 complete; no school-wide reform, worship, published-article audit or Rio accountability closure. |
 
 The exact object crosswalk, packet readings and cycle checkpoint preserve all branch, label and identity warnings. Ordinary pleasure is affirmative evidence; it does not substitute for unprinted outcomes. No new durable claim/rule ID or standalone model is created.
+
+## Phase 2 cycle 002 contextual delta — 2026-10-01
+
+[Exact35-object acceptance](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_002_CHECKPOINT.md); pinned a038020f witness.17 scenes,893 structured utterances,102 choices,177 full-thread messages,3 profiles and229 written records (228 nonempty). Main480 and all historical knowledge boundaries remain unchanged.
+
+| Context | Accepted evidence | Limit |
+|---|---|---|
+| Abydos labor / shrine / repair shop | Paid work, reported/intended donations, shrine pay incentives, actual visitor service, valued wage-bought bag, repair and shared classroom cleaning. | [Serika §§1–5](../02%20Sequential%20Readings/BOND/SERIKA/BLUE_ARCHIVE_SERIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md); no complete payslip, debt balance, itemized subsidy receipt, certified healing or accepted recruitment contract. |
+| Gourmet / lunch department / Prefects | Restaurant destruction and dubious drink sales as reported; printed arrest; proposed confiscation return; Fuuka’s reported workload and actual kitchen coordination failure. | [Gourmet §§3–12](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1101_1104_DEEP_READING.md); no completed meal, restitution, evidence return, whole custody procedure or certified safety. |
+| Event costume contexts | Five Serika data objects keep three profiles, 229 written records including blank UITitle234, and809/10809/900809 plus814/10814/900814 reuse. | [Serika §§1–5](../02%20Sequential%20Readings/BOND/SERIKA/BLUE_ARCHIVE_SERIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md); packaging/conditional service does not admit event plot or three enacted reruns. |
+
+No new durable claim/rule ID, model artifact, held-out test or forecast. Ordinary pleasure is affirmative evidence. Source/branch/chronology/identity and outcome limits remain in the linked complete readings.

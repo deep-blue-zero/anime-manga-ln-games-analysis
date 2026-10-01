@@ -5,7 +5,7 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
-source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 8 group and 26 event objects admitted with limits in Phase 2 cycle 001; other supplemental sources unadmitted"
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 69 supplemental objects admitted with limits in cycles001–002; other supplemental sources unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,7 +19,7 @@ updated: 2026-10-01
 
 All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
 
-[Phase 2 cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) admits exactly **8 group and 26 event objects with limits**; its source-facing routes and the supplemental object crosswalk own exact IDs. Other supplemental objects and performed voice remain unadmitted. Current coverage is **23 PARTIAL_MODEL / 345 UNMODELED / 368 analytical subjects**, every standalone model NONE. Historical entries below retain their original information boundary; the appended cycle records contextual repertoire without inventing main-story chronology.
+Cycles 001–002 admit exactly **69 supplemental objects with limits:12 group,26 event,13 bond,13 MomoTalk and5 character_data**. [Cycle 002](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_002_CHECKPOINT.md) and the exact object crosswalk own admission. Other sources and performed voice remain unadmitted. Current combined coverage is **23 PARTIAL_MODEL /354 UNMODELED /377 analytical subjects**, every standalone model NONE. Historical main and cycle001 entries retain their dated information boundary; no main chronology is inferred.
 
 ## Historical baselines and sequential deltas
 
@@ -2441,3 +2441,15 @@ Sensei follows local Shiroko toward a theft call and distinguishes her from the 
 | EVENT80000 gift recipients | Praise, tasting, shared play and gratitude have person-specific responses. The Shiroko visitor actively reassures Sensei and Rio's joy intensifies through reception. | E117–125 independent choices/inward forms retained;E119 u0027–0042;E125 u0056–0079. Gratitude is not endorsement of hypnosis, undisclosed ingredients, fake contracts or public-policy repair. |
 
 The exact object crosswalk, packet readings and cycle checkpoint preserve all branch, label and identity warnings. Ordinary pleasure is affirmative evidence; it does not substitute for unprinted outcomes. No new durable claim/rule ID or standalone model is created.
+
+## Phase 2 cycle 002 contextual delta — 2026-10-01
+
+[Exact35-object acceptance](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_002_CHECKPOINT.md); pinned a038020f witness.17 scenes,893 structured utterances,102 choices,177 full-thread messages,3 profiles and229 written records (228 nonempty). Main480 and all historical knowledge boundaries remain unchanged.
+
+| Observed role | Accepted consequence | Witness / qualification |
+|---|---|---|
+| Serika work / rest / repair / leisure partner | Actual helpful acts and articulated responsibility coexist with mistaken expertise and mismatched play. Affection does not make instruction accurate or later objections insincere. | [Serika §§1–5](../02%20Sequential%20Readings/BOND/SERIKA/BLUE_ARCHIVE_SERIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md);96 bond choice groups and177 full-thread messages remain conditional alternatives. |
+| Privacy and reciprocity recipient | Separate nonviewing/deletion answers leave compliance unresolved; boat role switch is requested but adult departure is printed; classroom clothing request is refused and ramen promise withdrawn. | Momo130080170:266/267; swim003 u0023–0057 and full aftermath; swim005 u0034–0060. No injury, clothing compliance or later meal invented. |
+| Gourmet detainee / participant | Teacher joins a shared aroma encounter under alternate acceptance/refusal and explanation routes. Hina admits haste over a pool report, then renews suspicion. | GROUP1102 §§2/4/10; no direct teacher action in1101/1103/1104. This is not a complete adult corrective-role test. |
+
+No new durable claim/rule ID, model artifact, held-out test or forecast. Ordinary pleasure is affirmative evidence. Source/branch/chronology/identity and outcome limits remain in the linked complete readings.

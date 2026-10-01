@@ -2,9 +2,9 @@
 series: BLUE_ARCHIVE
 artifact_type: contextualization_audit
 scope: Phase 2 arc contextualization across all 12 main-story groupings at the pinned Japanese snapshot
-version: "1.1"
+version: "1.2"
 status: canonical
-source_boundary: "electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; generation BA_REFRESH_20260928T032248159554Z; 480 admitted main readings; 34 supplemental objects admitted with limits; Phase 2 in progress and completion unproven"
+source_boundary: "electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; generation BA_REFRESH_20260928T032248159554Z; 480 admitted main readings; 69 supplemental objects admitted with limits; Phase 2 in progress and completion unproven"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -96,7 +96,7 @@ The per-family rationale is a coverage decision. Each subject’s prior main-sta
 | Ayane | `AYANE` | `MAIN_V001`, `MAIN_V100` | 7 | 7 | 3 | Administrative and elected leadership states require peer routine and private desires beyond task competence. |
 | Shiroko | `SHIROKO` | `MAIN_V001`, `MAIN_V100` | 17 | 17 | 4 | Local and counterpart identities, solitary tactics and shared home require variant-bounded reading rather than person-general merging. |
 | Nonomi | `NONOMI` | `MAIN_V001`, `MAIN_V100` | 9 | 9 | 3 | Collective care and Nephthys family conflict require desires beyond money/resource function. |
-| Serika | `SERIKA` | `MAIN_V001`, `MAIN_V100` | 13 | 13 | 5 | Labor/scarcity and familiar reciprocity require independent pleasures, private interaction and peer contrast. |
+| Serika | `SERIKA` | `MAIN_V001`, `MAIN_V100` | 13 | 13 | 5 | COMPLETE available31 private/written objects accepted with limits in cycle002; independent pleasures, visitor service, literal boundaries and variant/chronology limits retained. Event and whole-arc duties remain open. |
 | Hoshino | `HOSHINO` | `MAIN_V001`, `MAIN_V100` | 13 | 13 | 8 | Yume-linked grief, self-removal and later office acceptance require quiet desires and state-specific contrast. |
 | Aru | `ARU` | `MAIN_V001`, `MAIN_V100` | 12 | 12 | 5 | Named Kohshinjo68 / Gehenna role requiring an independent ordinary/private account. Current admitted-main coverage basis: Analyzed through V100 C004 E002; rallies PS68 amid changing sky for Sensei/Kayoko. |
 | Mutsuki | `MUTSUKI` | `MAIN_V001`, `MAIN_V100` | 11 | 11 | 5 | Named Kohshinjo68 / Gehenna role requiring an independent ordinary/private account. Current admitted-main coverage basis: Analyzed through V100 C003 E009; teases Aru's concern for Kayoko. |
@@ -227,7 +227,7 @@ All group sequences below are required. The sequence key is metadata navigation 
 
 | Group source sequence key | Exact required story IDs | Current full content review |
 |---|---|---|
-| 11 | `BA:group:1101`, `BA:group:1102`, `BA:group:1103`, `BA:group:1104` | PENDING |
+| 11 | `BA:group:1101`, `BA:group:1102`, `BA:group:1103`, `BA:group:1104` | ACCEPTED_WITH_LIMITS cycle002 |
 | 12 | `BA:group:1201`, `BA:group:1202`, `BA:group:1203` | PENDING |
 | 13 | `BA:group:1301`, `BA:group:1302`, `BA:group:1303` | PENDING |
 | 14 | `BA:group:1401`, `BA:group:1402`, `BA:group:1403` | PENDING |
@@ -412,7 +412,7 @@ Close each coherent source transaction before proceeding as current authority: c
 
 Before changing this audit to COMPLETE, inspect actual current files and source routes against every P2 requirement and every arc row. Match the verification scope to the claim: valid paths do not prove complete reading; a few ordinary scenes do not prove the whole major roster; source counts do not prove sequence coherence; a model gate does not prove literary contextualization; a validator does not prove source-grounded priority. Record completed coverage, unresolved claim limits, consequential revisions and authoritative evidence of every gate. Any required uninspected object, missing accepted reading, unsynchronized ledger/control or unverified completion requirement keeps the goal active.
 
-## 9. Current accepted progress — cycle 001, 2026-10-01
+## 9. Historical accepted progress — cycle001, 2026-10-01
 
 [Cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) accepts exactly 34 objects with limits after contributor and integrator review. The [supplemental object crosswalk](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv) carries exact 3452 IDs, canonical hashes, full-reading routes, admission decisions, priority/function reasons and separate chronology/attribution limits. All 3452 canonical files matched the pinned checksum manifest at initial route verification; only 34 have accepted literary inspection. Input hashes in §1 and zero-progress §8 remain the initial scope snapshot, not current completion.
 
@@ -429,8 +429,30 @@ Before changing this audit to COMPLETE, inspect actual current files and source 
 | Mandatory objects |3404|34|3370 remain |
 | All tracked objects |3452|34|3418 remain AVAILABLE_NOT_REVIEWED |
 | Seven-ledger/control integration |All accepted tranches|1 cycle|All 7 updated with exact scoped deltas/negative effects |
-| Cycle publication |Required|PENDING|Author/source/housekeeping/final exact-head audit required |
+| Cycle publication |Required|PASS exact1d1fff8|Source36903659170, housekeeping36904406457, final36904450683 succeeded; exact status success |
 
 Combined [main coverage](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) and [contextual coverage](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md) have 23 partial/345 unmodeled/368 subjects, all standalone models NONE. The original main tables/history remain their dated snapshot; the companion overrides 30 existing rows and adds 16. The object CSV retains all 3,452 IDs and exact canonical hashes; global provenance and recoverable metadata remain in §1 and the pinned source-class crosswalk rather than repeated CSV columns. New Reijo and 15 generic role buckets have positive source-facing routes without identity merging; Reijo private metadata remains a contextual lead and can add principal obligations if actual later relevance earns them. The scope is not frozen to conceal a newly major subject. Nothing closes Hina redress, Yume record provenance, performed voice or missing legal/medical/technical outcomes.
 
 **Phase 2 remains IN_PROGRESS.** All P2-R01–R09 and all 12 arc rows must pass before completion. The next independent rotation is EVENT80001 all 16; the inquiry lane is EVENT814 all 16; the complete private lane is Serika31; the group lane continues with GROUP1101–1104. Those candidates receive their own future semantic/ledger/coverage/publication acceptance. No quiet-source exclusion, empty model infrastructure or replacement of historical main readings is authorized by this progress record.
+
+## 10. Current accepted progress — cycle002, 2026-10-01
+
+[Cycle002](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_002_CHECKPOINT.md) adds35 complete objects after contributor/integrator review; current69 accepted. §9 and §8 retain prior dated counts; this section and the exact object crosswalk own the current census.
+
+| Responsibility | Required | Accepted | Remaining / state |
+|---|---|---|---|
+| Main-arc rows | 12 | 0 | NOT COMPLETE; all five duties required per arc |
+| Group | 65 | 12 | 53 |
+| Event packages / objects | 61 /1010 | 2 /26 | 59 /984 |
+| Principal bond | 968 | 13 | 955 |
+| Principal MomoTalk | 968 | 13 | 955 |
+| Principal character_data | 393 | 5 | 388 |
+| Kei identity | 19 | 0 | 19 |
+| Mini leads | 29 | 0 | 29 |
+| Mandatory objects | 3404 | 69 | 3335 |
+| All tracked objects | 3452 | 69 | 3383 |
+| Seven-ledger integration | Every accepted cycle | 2 cycles | All seven closed with claim-specific limits |
+| Cycle001 publication | Exact final audit | PASS1d1fff8 | 36904450683 success |
+| Cycle002 publication | Author/source/housekeeping/final exact head | PENDING | Separate publication gate; acceptance does not assert push completion |
+
+Current coverage23 partial/354 unmodeled/377 subjects, all standalone NONE:38 existing overrides plus25 new subjects,314 other main rows inherited. Serika private/written coverage is complete at this generation; that does not complete its events, all principal families or an arc. WholePhase2 remains IN_PROGRESS:all9 requirements and12 arc rows remain incomplete. Concurrent Yuuka/Ayane/Hoshino, group and event candidates are not yet admitted. No quiet-source removal or scope reduction.

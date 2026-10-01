@@ -3,9 +3,9 @@ series: BLUE_ARCHIVE
 artifact_type: analytical_method
 scope: 'Japanese Blue Archive game narrative corpus: main, group, event, bond, mini, MomoTalk, character/profile/contextual dialogue'
 generation: V1
-version: "1.4"
+version: "1.5"
 status: canonical
-source_boundary: "Current promoted Japanese main-story snapshot: electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z, all 480 main units read; historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 remains attached to its readings; HePudding/ba-storybook@main 6c4091603ca76d7d8c3cdb9104933f52cd8cab8e remains the independent reference; 34 supplemental objects admitted with limits in Phase 2 cycle 001"
+source_boundary: "Current promoted Japanese main-story snapshot: electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z, all 480 main units read; historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 remains attached to its readings; HePudding/ba-storybook@main 6c4091603ca76d7d8c3cdb9104933f52cd8cab8e remains the independent reference; 69 supplemental objects admitted with limits in Phase2 cycles001–002"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
