@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V03; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V04; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_MELODRAMA_ESCALATION_AND_VISUAL_FORM_LEDGER.md
 ---
 
@@ -101,3 +101,31 @@ Color game opening S0117–0119, several-hours-earlier S0121, public claim S0125
 ### VIS-0017 — Care produces reapproach and actual observation; backstory remains earlier time
 
 False cold/prep lie S0134 followed genuine measured fever S0143–0144; no proved medical moral causation. T assistance/H temperature proximity S0145–0149 → Y pull S0150 → T drink cut S0151 → accepting reapproach S0152–0154 → arrival/sight S0155–0156. VIS-0005/0011 discovery hooks now become actual visual access, not complete history. Obscured contact limits kiss claim. 少女リプレイス S0159–0164 explicitly middle-school: makeup/feeling left behind echoes unknown-face priority but cannot validate a continuation rule. Paratext166–172 separate. Links INF-0015,CON-0018,AGY-0014,CAST-0015; high structure.
+
+## V04 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V04/SNNNN/I01` unless a volume is specified.
+
+### VIS-0018 — Dream and attribution delimit who actually initiates
+
+Infirmary repetition S0006, assistance S0007–0008 and Takeda’s comic attempted dismissal S0009 juxtapose partial visual knowledge with ordinary care. Dream closeness S0010–0011 followed by waking S0012 is not Hotaru’s action. School pull/contact/minimizing balloon S0015–0017 belong to Hotaru; Yuma’s fear is separately private S0018. Attribution changes prediction scoring: no Yuma-pursuit hit from Hotaru’s act. Hotaru’s later kiss naming S0014 does not rewrite V03’s obscured visual observation. Links CON-0019,INF-0016,AGY-0015,CLM-0012/R-V04; eroticized closeness is not itself permission evidence.
+
+### VIS-0019 — Historical contract montage exposes excluded emotional claims
+
+Apology balloon S0020 bridges into the former girlfriend scene S0021, then Hotaru’s breakup S0022–0024, public couple S0025 and Takeda’s unmade confession S0026 fix historical order. Raised hand/held cheek and reluctance rebuke S0028–0029 suggest violence without an impact panel; recalled mutual terms precede the advance. Genuine-love question/conditional reply S0030–0031 neither names the beloved nor settles motive. Montage grants reader facts not automatically known to the subjects; past behavior cannot validate a later forecast. Links CON-0021,INF-0018,JPS-0015/0016,REL-0022; no graphic staging is required.
+
+### VIS-0020 — Beach ordinary future, audience and practical-help recurrence
+
+Color anticipation S0037–0039 and earlier invitation S0041 organize holiday causality. Grades/future plans S0043–0048 place school and ordinary adulthood beside romantic uncertainty. Fastening permission S0054 differs from added contact over protests S0056–0058; nearby Takeda and private-place joke S0060 maintain a partial public account. Fireworks S0062–0065, friendship hand-holding S0068–0069 and nighttime withdrawal S0071–0072 allow pleasure and distance without erasing boundaries. Links CON-0020,AGY-0016,REL-0019,JPS-0013. Compare V03’s requested work-help scene without assuming identical permission structures.
+
+### VIS-0021 — Aquarium field enlarges contact while shrinking the answer
+
+Crowd S0095–0096 separates Yuma from Takeda; Hotaru alone S0097–0098 enables the motive question S0099–0102. Feigned Takeda presence/gaze turn S0102 precedes surprise contact S0103. Full aquarium field and tiny playful lie supply beauty and deflection without the requested answer. Yuma’s tear/Hotaru’s surprise S0104 recur S0107–0108 before actual title S0109; separators S0105–0106 do not end the upset’s causal force. Apology S0110 counts but not complete repair. Links CON-0024,INF-0019,AGY-0018,CLM-0012/R-V04; attractive form does not authorize the act.
+
+### VIS-0022 — Summer absence, chance appearance and practice replay change its meaning
+
+Study, promotional work and male conversation S0112–0118 separate social worlds while Yuma questions dishonest talk. Actual absence S0119–0121 and peace with Takeda contrast with longing S0127–0129. Nature/light turn S0130 and full Hotaru appearance S0131 make felt pull visual; chance greeting S0132 is not engineered pursuit. Brochure S0134 supplies perceived loss. Practice request S0138–0140 and assent/embrace S0141 are juxtaposed with the old promise/confession S0142–0143 and present private apology S0144. Repeated practice is now knowingly inadequate cover. Links REL-0018,CON-0023,INF-0019/0020,JPS-0017,CLM-0021.
+
+### VIS-0023 — Retained-photo cliffhanger and bounded summer comedy
+
+Takeda’s illness versus Fujiwara alone at a computer S0145, followed by photo/tentative bomb thought S0146, produces anticipation without actual disclosure. NTR★S summer S0148–0149 separately stages pretrip help defeated by already-bought swimwear, comic Hotaru disappointment, Takeda’s mistaken girlfriend dream, Fujiwara’s correction and contact/protest. Compatible earlier-time comedy supplies neither future validation nor permission through laughter. Dividers S0147/0150, afterword S0151, covers S0152–0155 and colophon S0156 are accounted paratext. Links INF-0021,AGY-0019,CON-0020,CLM-0020; no anime narrative admitted.

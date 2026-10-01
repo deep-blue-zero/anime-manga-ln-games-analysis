@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V03; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V04; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER.md
 ---
 
@@ -81,3 +81,27 @@ Y apologizes after initiating S0152; H asks fever-cloudedness, says いいよ an
 ### JPS-0012 — Takeda's practical offers and Fujiwara's useful cynical warning
 
 T notes/consultation S0093–0096, study application S0056 and bag request S0145 practical aid, no romantic-price clause. F advice/prep competence S0058 and naïveté/deception warning S0136 show register beyond threatening villain lines. F exit/suffocation account S0111–0112 attributed, not source-certified H motive. Useful/correct possibility coexists with coercive private demand S0006–0007. Links AGY-0013,REL-0017,INF-0014,CAST-0013/0014; high language, broad repertoire limited.
+
+## V04 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V04/SNNNN/I01` unless a volume is specified.
+
+### JPS-0013 — Hotaru adult-neighbor fantasy and friendship labels leave terms unspoken
+
+Hotaru’s married-neighbor future S0048, adult togetherness S0051 and only-friend/親友 thanks S0068–0069 give familiar soft attachment speech without agreed romance. Takeda corrects the current dating label S0048; familiarity does not establish a public relationship category. School contact minimization S0014–0017 and teasing apology S0110 contrast attachment with reduced accountability. Preserve a voiced future wish rather than universal heterosexual identity. Links REL-0019,INF-0019,VIS-0020; these are written-register findings, not imported anime performance claims.
+
+### JPS-0014 — Private Hotaru recognition and male-beloved language differ by knower
+
+Yuma’s privateあたしが好き S0083 and Hotaru-directed liking S0129/0144 establish her current recognized recipient. Takeda’s由真の好きな男 S0118 states his male assumption, not her spoken identity. Fujiwara prescribes women-only desire S0123 and camouflage S0124; she denies intention and privately finds the account mostly right apart from gender S0126, while wishing she could have liked Takeda S0127. Prescribed orientation and self-critical bad-woman image are not objective facts. Links INF-0016/0020,REL-0018/0020/0021/0023,CLM-0021; private, stated and reported knowledge remain distinct.
+
+### JPS-0015 — Mutual promise grammar differs from secrecy-as-favor pressure
+
+Fujiwara’s武田に黙ってやってるだけいいだろ S0020 treats silence as a favor; Hotaru’s約束が違うよ contests it. No renewed do-this-or-I-tell condition is voiced. Historical terms S0029 require no troublesome talk, no unnecessary mutual prying and responding to the other’s requests: grammatical mutuality does not establish act-specific permission or equal power. Hotaru’s present reminder S0094 helps sustain her charade. Transitionalごめんなさい S0020–0021 belongs to the former girlfriend. Links CON-0021,INF-0017/0018,REL-0022,CLM-0014/R-V04/0020.
+
+### JPS-0016 — Conditional genuine-love reply and tentative exposure intent remain modal
+
+Hotaru’sあったらこんなことしないかもね S0031 retains conditional if and tentative might: neither definitive never-loved claim nor named confession. Fujiwara’s別に S0118 deflects Takeda’s question without supplying helpful identity knowledge. His爆弾投下してやろうかな S0146 is tentative future deliberation, not completed publication. Sentence form limits claim strength rather than serving as isolated language trivia. Links REL-0022/0023,INF-0018/0021,VIS-0019/0023,CLM-0006/R-V04; complete inner motive remains open.
+
+### JPS-0017 — Practice request and yes alter agency without truthful recipient disclosure
+
+Yuma corrects Takeda-as-friend/breakup S0135, starts naming whom she now likes but stops, and refusesヤダ/言わない S0137. Cooperation question S0138,まだ練習させてよ S0139 and unnamed-person future S0140 conceal the recipient; private inability-to-hold-Hotaru thought is not spoken. Hotaru’sいいよ S0141 is affirmative acceptance/embrace. Current private好きな人できたけど言えないよ/ごめんね蛍 S0144 explains concealment, not a completed confession. Familiar practice language now belongs to a recognized romantic pursuer, while actual request/answer has local permission force. Links CON-0023,INF-0019,REL-0018/0019,VIS-0022,CLM-0017/0018/0021/0022.

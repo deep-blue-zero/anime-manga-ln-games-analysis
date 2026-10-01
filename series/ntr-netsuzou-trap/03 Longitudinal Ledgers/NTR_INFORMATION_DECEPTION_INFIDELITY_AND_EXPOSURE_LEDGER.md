@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V03; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V04; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_INFORMATION_DECEPTION_INFIDELITY_AND_EXPOSURE_LEDGER.md
 ---
 
@@ -93,3 +93,31 @@ F says knows work since start S0109, H wants leave home S0111, living beside Y s
 ### INF-0015 — Takeda now sees proximity, not the whole secret
 
 T asked H bring bag S0145, obtains drink S0151, returns S0155 and visually sees girls in close position with Y holding uniform S0156. Reader knows initiative/apology/reapproach S0150–0154; T not shown witnessing every step, hearing full conversation, knowing previous acts or photo copy. Both girls turn/notice him S0155–0156; their beliefs about how much he saw/inferred remain unknown. Future reaction/inference remains OPEN/UNMODELED; do not retrofit ignorant-patience rule. Links REL-0015,CON-0018,VIS-0017,T-V03; high access, interpretation unknown.
+
+## V04 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V04/SNNNN/I01` unless a volume is specified.
+
+### INF-0016 — Takeda sees, dismisses, questions and still assumes a man
+
+V03 visual discovery → current care S0007–0008 before attempted private dismissal S0009; later asks F whether H was pressing Y S0034–0036, remembers unknown Y side S0117. Y inner H recognition S0083/0114 not spoken to him. Explicit由真の好きな男 S0118 establishes his male-object belief; F hint/deflection is not complete helpful disclosure. Partial facts can support relational advice without correct identity. Y learns assumption through F S0125–0126. Links REL-0021,CON-0022,AGY-0017,JPS-0014,CLM-0015/R-V04; care cannot independently restore its own limited-info antecedent.
+
+### INF-0017 — First separate secrecy-as-favor exchange lacks renewed conditional demand
+
+F sees girls contact S0019, claims considered another photo but didnot S0020, says silence toward T should count as favor; H contests promise. Nonrecording only testimony; no new photographed image, voluntary prior-copy relinquishment, direct helpful T disclosure or actual conditional access price. First girls-directed handling with retained reader-known advantage, so CLM-0014/R-V04 partial information pressure/conditional-demand component absent. Later withholding/display cannot overwrite this first result or make girls know backup. Links REL-0023,AGY-0019,JPS-0015; literal conditional nondisclosure mechanism not generalized to any silence.
+
+### INF-0018 — Historical partners and mutual terms are reader knowledge
+
+The apology at S0020 bottom belongs to Fujiwara’s unidentified former girlfriend in S0021, not present Hotaru. Hotaru’s former boyfriend S0022–0024 is unnamed and not identified as Takeda. New public Hotaru/Fujiwara dating S0025 precedes Takeda’s confession S0026. Fujiwara’s dislike-of-women versus physical-interest distinction S0027 is testimony. He rebukes Hotaru’s reluctance S0028; mutual promise terms S0029 precede his advance. Her tentative conditional love reply S0031 does not name a recipient or definitively deny earlier love. Private montage supplies reader knowledge, not automatic Yuma/Takeda knowledge or later forecast success. Links REL-0022,CON-0021,VIS-0019,JPS-0015/0016,CLM-0006/R-V04.
+
+### INF-0019 — Work question remains unanswered and moving cue remains perceived
+
+H adult togetherness statement S0051 contrasts with Y private departure worry S0052/0100; Y actually asks work-money reason S0102. Hあれ？/武田くん？ diverts gaze, then kiss/なんてねウソ S0103: lie concerns feigned Tpresence, not a supplied work reason or beloved identity. Question unanswered. Promotional job S0116 not proof hostessworkquit; housing/singleliving brochure S0134 raises Yperception without verified rental/plan/motive. H hears new unnamed beloved S0135–0137, not explicit Hrecipient, and accepts practice S0141. Links REL-0018/0019,CON-0024,AGY-0018,VIS-0021/0022,CLM-0012/R-V04/0017/0018.
+
+### INF-0020 — Gender assumption and camouflage accusation do not determine sexuality
+
+Fujiwara reports Takeda’s illness/concern, prescribes telling him that she likes women and not men, and accuses Yuma of using him as camouflage S0123–0124. Yuma denies that intent and privately recognizes his mistaken male assumption: apart from gender, much of Takeda’s account fits S0125–0126. Her bad-woman description of Hotaru is emotional inference. Present Hotaru-directed romance S0083/0129 does not establish an exclusive women-only identity; wishing she could have liked Takeda S0127 does not restore attraction. Neither Takeda nor Hotaru is shown told the actual recipient here. Links JPS-0014,REL-0020/0023,INF-0016/0019,CLM-0021.
+
+### INF-0021 — Computer copy and tentative exposure intent do not show dispatch
+
+Fujiwara is alone with a laptop displaying the retained girls’ photograph S0145–0146 and considers dropping a bomb. Access on his own computer is now observed, beyond the earlier brother display. Tentative exposure intention does not show sending, upload, a named recipient, audience receipt or completed release. Girls’ knowledge of the copy and Takeda’s knowledge of the photo are not shown. Takeda coughing in bed S0145 corroborates illness, without a precise medical diagnosis. No source-backed forecast that publication will occur follows from this thought alone. Links REL-0023,AGY-0019,VIS-0023,CLM-0020; dissemination response UNMODELED.

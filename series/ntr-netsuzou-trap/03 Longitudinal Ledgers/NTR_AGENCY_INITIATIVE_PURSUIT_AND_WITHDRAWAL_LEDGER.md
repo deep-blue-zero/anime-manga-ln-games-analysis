@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V03; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V04; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_AGENCY_INITIATIVE_PURSUIT_AND_WITHDRAWAL_LEDGER.md
 ---
 
@@ -89,3 +89,27 @@ Changed H assurance precedes invitation S0023–0026; assists prep application S
 ### AGY-0014 — Yuma initiates intimate closeness; Hotaru accepts without Takeda frame
 
 H temperature care then withdraws S0149; Y pulls uniform S0150 before naming desire, apologizes S0152. H surprised then smiles/reapproaches S0153 and accepting illness wording S0154 without T substitution. Exact completed kiss obscured; illness limits motive/permission inference. A new initiative beyond prior lap supports Y-R03 boundedly and contradicts H-R03 mechanism under romantic-wish scope, with literal friendship-acknowledgment ambiguity retained. T arrives S0155–0156, reaction future. Links CON-0018,INF-0015,REL-0012/0013,CLM-0007/0008/R-V03; high sequence.
+
+## V04 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V04/SNNNN/I01` unless a volume is specified.
+
+### AGY-0015 — Loss fear does not reassign Hotaru initiative to Yuma
+
+Hotaru pulls Yuma’s uniform and initiates S0015–0017. Yuma’s private fear of refusal/departure S0018 cannot retroactively supply a prior loss antecedent for inquiry S0013 or reassign Hotaru’s action to her. Yuma’s message asking to return together S0033 is actual access initiative, but its subsequent explanation exchange is not depicted. Dream S0010–0011 is not enacted. Behavioral scoring must follow observed actor and balloon ownership. Links CON-0019,REL-0018,VIS-0018,CLM-0012/R-V04; no full Y-R04 support from this opening scene.
+
+### AGY-0016 — Holiday choices and practical help coexist with boundary overreach
+
+Takeda proposes a study break S0041–0042; Hotaru proposes adult neighboring homes S0048, Yuma withdraws to a rock S0049, and Hotaru follows to apologize S0050–0051. Yuma accepts practical repair S0053–0054; Hotaru adds contact over protests S0056–0058. Hotaru chooses the girls’ room S0066–0067 despite Fujiwara’s proposal; Yuma later withdraws her hand and leaves at night S0071–0072. Fireworks S0062–0065 preserve mundane play. None is a new childhood-authority command over work/departure. Links CON-0020,REL-0019/0022,VIS-0020,CLM-0013/R-V04; ordinary choices do not validate the specific autonomy rule.
+
+### AGY-0017 — Takeda advice after uncertain discovery is a new behavioral domain
+
+Takeda helps before privately attempting to dismiss his observation S0007–0009, then questions Fujiwara again S0034–0036. He invites a walk S0075, recognizes another beloved and advises asking that person S0078–0085 without a dating price; later accepts failed first love S0090. Male-recipient assumption remains explicit S0118. This supports new advice-domain T-R04 model development, not earlier school-care T-R03 validation. Homework suggestion S0113 is not concrete aid under an independently restored belief condition. Illness S0145 constrains availability. Links REL-0021,CON-0022,INF-0016/0020,CLM-0015/R-V04/0019.
+
+### AGY-0018 — Real summer withdrawal followed by a covered request
+
+Aquarium inquiry S0099–0102 seeks work knowledge without the predicted protection explanation; Hotaru diverts it. Yuma genuinely spends later summer apart S0119–0121, studying and eating with Takeda; no fresh private Hotaru opportunity is depicted in that interval. Hotaru initiates chance greeting/invitation S0132–0133. Brochure S0134 supplies fresh perceived loss. Yuma corrects Takeda’s status but refuses the beloved’s name S0135–0137, asks for practice/approaches S0138–0140, and Hotaru accepts S0141. Present initiative coexists with concealment. Links REL-0018,CON-0023,INF-0019,VIS-0022,CLM-0012/R-V04/0017; practice cover is a model revision, not earlier framing success.
+
+### AGY-0019 — Fujiwara retains informational options without completed exposure
+
+First separate girls-directed exchange S0019–0020 presents secrecy as a favor but lacks an explicit conditional access demand. Fujiwara receives Takeda’s infirmary suspicions S0034–0036, refuses specific truth when asked S0118, and confronts Yuma with some accurate concern and an overbroad identity S0123–0124. Retained laptop photo/tentative exposure intent S0145–0146 show no dispatch. Historical contract pressure S0028–0029 informs constraint, not prospective replication or a universal violence model. Links REL-0023,INF-0017/0020/0021,CON-0021,CLM-0014/R-V04/0020.

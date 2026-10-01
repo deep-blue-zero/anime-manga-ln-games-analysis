@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V03; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V04; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_RELATIONSHIP_DESIRE_AND_ATTACHMENT_LEDGER.md
 ---
 
@@ -101,3 +101,31 @@ S0009 sends Yuma home while F stays; later F says not seen H recently S0059, kno
 ### REL-0017 — Fujiwara → Takeda/girls: useful advice and retained exploitative information
 
 Provides prep-school advice/advanced-science competence S0058, generic deception warning S0136 while concealing girls' specific history. Renewed demand S0006–0007 and brother copy S0039–0040 instrumentalize girls' privacy. Boy friendship/usefulness does not remove coercion; warning accuracy and motive separate. Girls apparently trust deletion, no copy knowledge shown. Links INF-0010/0012,AGY-0010,JPS-0012,CLM-0014; high acts, sparse motive.
+
+## V04 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V04/SNNNN/I01` unless a volume is specified.
+
+### REL-0018 — Yuma → Hotaru: romantic self-recognition with a knowingly inadequate cover
+
+Private refusal fear S0018 and departure worry persist; Takeda names romance S0080–0085, Yuma internally identifies Hotaru as liked person S0083/0129/0144. Summer distance S0119–0121 is real, not secret perpetual pursuit. Chance meeting initiated by H S0132–0133, new moving-brochure cue S0134, Y refuses recipient disclosure S0137 and asks practice S0138–0140, privately acknowledging it cannot keep H. Present choice/attachment high; mutually agreed romance and H reciprocation remain OPEN. Practice differs from prior friendship/protection frame; CLM-0012/R-V04 action support/framing failure and new CLM-0017/Y-R05. Links CON-0023,INF-0019/0020,AGY-0018,JPS-0017; no retroactive permission.
+
+### REL-0019 — Hotaru → Yuma: adult togetherness, friendship naming and accepted practice
+
+H initiates/minimizes school contact S0014–0017; says genuinely wants togetherness as adults S0051, proposes neighboring married households S0048, chooses girls room S0066–0067, only-friend/親友 thanks and handhold S0068–0069. These are attachment testimony, not agreed romantic future. Work-money question diverted by false T-presence lure/kiss S0102–0103, then teasing apology S0110. Explicitly hears T now friend S0135/current unnamed beloved, offers support S0137 and accepts practice withいいよ/embrace S0141. No plain own-wish declaration, moving motive or recipient certainty. Links CON-0020/0023/0024,INF-0019,JPS-0013/0017,CLM-0018; contradictory proximity and separation preserved.
+
+### REL-0020 — Yuma → Takeda: gratitude and wished-for attraction differ from romantic return
+
+Apologizes for past couple conduct/thanks friendship S0076–0077, accepts advice S0084–0085 and shared study/meals S0112–0121. Understands his male-beloved assumption through F S0125–0126, feels guilty about worry, denies deliberately using him as camouflage S0124. Privately wishes she could like honest/kind T S0127, but explicitly tells H they broke up and are friends S0135; present H-directed liking persists. Valuing safety and wishing for ordinary future is not restored exclusive couple or absence of all affection. Links INF-0020,CON-0022,AGY-0017/0018,JPS-0014; current romantic return unsupported.
+
+### REL-0021 — Takeda → Yuma: helping after suspicion and accepting first-love failure
+
+Helps after infirmary sight S0007–0008, attempts private dismissal S0009 then asks F about actual girls position S0034–0036/0117. Independently infers Y loves another person S0078–0085, tells F his first love failed S0090, worries badman S0091 and explicitly assumes男 S0118. Advises direct question without renewed-dating price, study/meals remain friendly; illness S0145 does not equal punitive absence. Not shown knowing the full girls’ history or photo, or learning Hotaru as the recipient; no restored couple is shown. First response was UNMODELED, T-R03 school-condition NDO; new T-R04 advice forecast CLM-0019. Links INF-0016/0020,AGY-0017,CON-0022.
+
+### REL-0022 — Hotaru → Fujiwara: mutual contract language under unequal enforcement
+
+Newly read pre-mainline dating montage S0021–0031: H breakup with unnamed boy/F interruption, new public couple; private reluctance rebuked S0028, H cheek/raised-hand juxtaposition suggests violence, apology/compliance S0029. Promise terms grammatically mutual: no troublesome complaints, unnecessary prying into each other, respond to other requests; pressure not sufficient act-specific permission. H conditional genuine-love answer S0031 names no beloved. Present H contests F secrecy-as-favor S0020 and invokes request agreement for aquarium charade S0094. Public couple/promise not proof romantic attachment, exclusivity or symmetric power. Links CON-0021,INF-0018,JPS-0015,CLM-0006/R-V04.
+
+### REL-0023 — Fujiwara → girls/Takeda: selective truth, imposed labels and possible exposure
+
+F frames silence toward T as favor S0019–0020 but no explicit new access-for-silence demand. Learns T actual infirmary suspicion S0034–0036, refuses specific information S0118 despite T question. Confronts Y with T concern and women-only identity/camouflage accusation S0123–0124; her denied intention and private recognition of parts of account distinguish factual insight from asserted total motive. Retained photo on laptop/tentative bomb intent S0145–0146 no actual send/audience. Medical-faculty A forecast S0044 T testimony, not career attainment. Links INF-0017/0020/0021,AGY-0019,CLM-0014/R-V04/0020; sparse complete motive remains OPEN.

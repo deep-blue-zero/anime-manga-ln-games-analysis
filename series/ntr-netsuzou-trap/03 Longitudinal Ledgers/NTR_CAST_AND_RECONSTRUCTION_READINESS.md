@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V03; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V04; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_CAST_AND_RECONSTRUCTION_READINESS.md
 ---
 
@@ -93,3 +93,27 @@ F-V03 retains brother copy S0039–0040, renewed demand S0006–0007 supports na
 ### CAST-0015 — Unnamed brother, workplace and school subjects; embedded backstory route
 
 Unnamed F brother directly receives/displays image S0038–0040; Fujiwara asks him to save it, without an independently shown completed save. This supports exposure distribution but little individual decision history. Manager/clients S0069–0076,0085–0090,0126–0127 materially affect labor/permission; teachers/classmates/mother/prep verification S0043–0053,0138–0142 widen mundane context. Bounded supporting treatment, no invented names/models. 少女リプレイス S0159–0164 is mainline middle-school backstory, no adult parallel or prospective validation; afterword/covers166–172 paratext. Links INF-0010/0013,CON-0014/0017,VIS-0017; reconstruction NOT_ASSESSED.
+
+## V04 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V04/SNNNN/I01` unless a volume is specified.
+
+### CAST-0016 — Yuma: recognized recipient, withdrawal and revised framing rule
+
+Y-V04 literal: inward H-romance named, can value T peace without liking him romantically; school grades/study, chosen absence, chance invitation and covered request support mundane/romantic/conflict dimensions. Y-R04 action supported/framing failed, new Y-R05 prospectively frozen; no success by changing protection into practice. Evidence ledger, local reconstruction model and substantial monograph justified after V06. Ethical deliberation mixed: no-control insight persists beside concealed-recipient proximity-seeking. Novel/adult-professional behavior NOT_ASSESSED; dialogue constrained to actual familiarity/register. Links REL-0018/0020,AGY-0018,JPS-0014/0017,CLM-0012/R-V04/0017/0021.
+
+### CAST-0017 — Hotaru: mutual terms, working worlds and distinct acts of assent
+
+H-V04 literal: historical pressured mutual contract/conditional love reply, adult-neighbor future/onlyfriend wishes, school/beach surprise initiative, promotional work, apology and explicit practice assent widen evidence while own desired relationship remains unspoken. H-R04 NDO, new H-R05 one clear practice-reception instance, weak portability. Separate ledger/model/monograph justified; no inferred identity, complete motive, medical/career expertise or novel ethical clarity. Work/school/play/register supported locally. Links REL-0019/0022,CON-0020/0021/0023/0024,INF-0018/0019,JPS-0013/0015/0016/0017,CLM-0013/R-V04/0018.
+
+### CAST-0018 — Takeda: postdiscovery uncertainty and bounded advice competence
+
+T-V04 source-backed state distinguishes help, attempted dismissal, renewed doubt, assumed male beloved and accepting failed first love. Advice without dating price supports new T-R04, not ignorance-conditioned T-R03; first true H-recipient response remains UNMODELED. Study/ordinary future/fireworks/meals/illness supply mundane context beyond obstacle or ideal-victim role. Individual ledger/local model and proportional independent monograph justified after V06; unseen full knowledge, professional/novel-world readiness NOT_ASSESSED. Links REL-0021,INF-0016/0020,CON-0022,AGY-0017,JPS-0014,CLM-0015/R-V04/0019.
+
+### CAST-0019 — Fujiwara: some inner intent, no completed publication or general motive model
+
+F-V04 now tentative inner exposure intent/photo on own computer S0145–0146, historical professed women-dislike/physical-interest distinction S0027 and pressure terms S0028–0029. Current useful-but-overreaching truth to Y and withholding from T remain target-conditioned. F-R02 partial conditional-demand absence, new F-R03 applicability refinement explicitly labeled; actual dispatch/full-secret response unmodeled. Individual ledger, bounded local model and proportionate monograph justified, not universal violence or inferred trauma/diagnosis. Medical-school forecast is T testimony; adult professional/novel readiness NOT_ASSESSED. Links REL-0023,INF-0017/0018/0020/0021,CLM-0014/R-V04/0020.
+
+### CAST-0020 — Unnamed former partners and summer extra remain supporting evidence
+
+Historical Fexgirlfriend S0020–0021/Hexboy S0022–0024 remain unidentified, not Y/T substitutions. Class peers/public gossip S0025, mothers mentioned, promotional workplace S0116 and prep-school context widen social conditions without independent character models. Two-page NTR★Ssummer S0148–0149 compatible earlier beach comedy, no post-endpoint state. Afterword151/covers152–155/colophon156 paratext; anime acknowledgment not narrative admission. Supporting treatment only, reconstruction NOT_ASSESSED, no global registry edits. Links INF-0018,VIS-0019/0023,CON-0021.

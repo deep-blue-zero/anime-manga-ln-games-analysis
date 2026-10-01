@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V03; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V04; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 ---
 
@@ -127,3 +127,47 @@ First V03 T-R03 literal: school-practical need, no fresh contrary romantic evide
 ### CLM-0016 — Protection, autonomy and appropriation remain domain-specific contradictions
 
 First V03 interpretive REVISE/STRENGTHEN: Y acknowledges lack of authority S0103 yet refuses separation privately S0133; H asserts independent work S0101/0131 yet represents Y trial choice S0075 and claims her S0125. REL-0012/0013,CON-0014/0016/0017. A valid autonomy argument does not erase separate boundary harms; protective concern not automatic entitlement. Alternative constrained dependence versus romance OPEN. Nonforecast; due mature synthesis, no uniform victim/protector reversal.
+
+## V04 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V04/SNNNN/I01` unless a volume is specified.
+
+### V04 revisions — earlier literal checkpoints remain unchanged
+
+The V03 freeze was recoverably committed at `c3fa81fe09c914e00ae82ac8b9123ec180aa5f97` before all V04 narrative. [The V04 checkpoint](../01%20Sequential%20Readings/NTR_V04_PROSPECTIVE_FREEZE.md) owns first-window conditions, component misses and new rules; later knowledge never rewrites an earlier outcome.
+
+| Revision ID | Prior claim | Outcome / transition |
+|---|---|---|
+| CLM-0012/R-V04 | Y-R04 | PARTIAL_SUPPORT / FRAMING_COMPONENT_FAILED / DOWNGRADE: H initiates school contact S0015–0017, not Y; message S0033 has no depicted explanation exchange. Aquarium S0099–0102 supplies question/action but no spoken protection account and ambiguous newness of departure loss. New brochure S0134 yields matched room opportunity S0135–0140: covered practice approach before named H-recipient, not predicted friendship/protection framing. Preserve action support and framing miss, no indefinite window. REL-0018/AGY-0018/JPS-0017. |
+| CLM-0013/R-V04 | H-R04 | NO_DIAGNOSTIC_OPPORTUNITY / PRESERVE untested: question and practice request are not new childhood-authority dictation of work/departure. H assent S0141 does not accept Y's authority over her future. CON-0023/AGY-0016. |
+| CLM-0014/R-V04 | F-R02 continued | PARTIAL_SUPPORT / CONDITIONAL_DEMAND_COMPONENT_ABSENT / DOWNGRADE: first separate exchange S0019–0020 makes silence a favor without explicit access condition. Takeda-targeted withholding S0118 and unaddressed tentative exposure S0145–0146 are not later full conditional-demand hits or a replacement first opportunity. Retention alone does not validate the mechanism; reverse-order relinquishment/helpful disclosure not observed. INF-0017/0021/AGY-0019. |
+| CLM-0015/R-V04 | T-R03 | NO_DIAGNOSTIC_OPPORTUNITY / PRESERVE untested: immediate aid S0007–0008 precedes attempted dismissal S0009, concerns recur S0034–0036/0117. Romantic advice is a different domain, homework suggestion no concrete aid under independently restored school-care conditions. First discovery response was UNMODELED and now supplies model-development evidence. INF-0016/AGY-0017. |
+| CLM-0005/R-V04 and CLM-0011/R-V04 | Desire/permission and agency | PRESERVE / STRENGTHEN: practical fastening assent S0054 differs from added contact over objections S0056–0058; Y request/H affirmative assent S0138–0141 adds chosen participation without retroactive consent. Teasing apology S0110 counts without complete repair. CON-0019–0024. |
+| CLM-0006/R-V04 | Hotaru motive, beloved, early permission | OPEN / COMPLICATE: mutual historical terms/conditional love reply S0029–0031, adult togetherness versus work S0051–0052, housing cue S0134 add evidence without named H-beloved or confirmed moving motive. Y's own H-directed recognition is not H's declaration. Earlier injury cause/V01 room permission unresolved. INF-0018/0019/0020. |
+| CLM-0016/R-V04 | Domain-specific authority/appropriation | PRESERVE: no new work-control matched test; chosen practice assent and H attachment claims coexist with renewed surprise contact/practical-help overreach, not a universal protector/victim reversal. REL-0019/CON-0020/0023. |
+
+New rules below are V04 model development, due V05 with any genuinely matched V06 replication separately labeled. They do not improve the scores above after the fact.
+
+### CLM-0017 — Recognized Hotaru desire still approaches under practice cover; due V05
+
+Y-R05 is new after Y-R04 framing failure, literal in V04 freeze. Recognized H-romantic object + perceived access/reciprocation loss + ordinary private approach/explanation opportunity without immediate forcing → covered practice/unnamed-other-person request before plain H-recipient declaration. Source S0134–0144, REL-0018/AGY-0018/JPS-0017. First available explanatory exchange owns score; direct H-recipient naming first or chosen sustained distance through depicted opportunity fails. Unshown/private opportunity, unavailable access or forced intervention excluded. Native, weak novel portability. OPEN_PENDING_TEST due V05; V06 must be separately matched, no backdated broadening of protection rule. Different/absent predicted cover at a completed first exchange is a cover-component miss even if action precedes naming.
+
+### CLM-0018 — Hotaru accepts an unnamed practice approach without own romance declaration; due V05
+
+H-R05 new literal V04 checkpoint: Y private practice for unnamed beloved + H own romantic wish undisclosed + no imminent external restraint → accept offered cover/approach before plain own desired relationship statement. Source S0138–0141, REL-0019/CON-0023. Own-wish declaration first or direct refusal under unchanged conditions fails; named H-recipient/mutual romance before opportunity or ordinary nonintimate aid changes condition. One clear instance, V03 illness acceptance different frame not replicate. Affirmative assent bounded to encounter, not full permission or motive. OPEN_PENDING_TEST due V05; no generalized voice/novel person certification. Score the first matched response exchange.
+
+### CLM-0019 — Takeda directs uncertainty toward the other person without dating price; due V05
+
+T-R04 new advice-domain rule after UNMODELED discovery response: still assumes other male beloved + accepts failed couple + safe ordinary conversation with uncertainty about that person feelings → advice to seek actual person answer without renewed-dating price, at first matched response exchange. S0078–0085/0090–0091/0118, REL-0021/CON-0022/AGY-0017. Helpful advice without seek-answer is component miss; repayment demand/punitive refusal/choose-me condition fails. School aid alone not match; actual H-recipient/full-secret disclosure response UNMODELED, new identity or unavailable/illness conditions excluded. Yuma’s refusal of help before the response can remove the opportunity; refusal elicited by that response cannot erase its score. OPEN_PENDING_TEST due V05, distinct from no-opportunity T-R03.
+
+### CLM-0020 — Girls-directed conditional leverage is a new applicability refinement; due V05
+
+F-R03 is explicitly NEW V04 refinement of V03 broader private-handling window, not unchanged earlier applicability: separate private opportunity to address girls + retained information/photo advantage + no effective restraint → actual access demand through conditional nondisclosure before voluntary relinquishment/helpful direct disclosure. V02/V03 prior examples; V04 partial conditional-demand absence retained CLM-0014/R-V04. At first matched exchange, absent conditional demand is a mechanism component miss, not a retention hit; reverse order fails. No eligible opportunity/lost advantage/restraint NDO. Actual publication, audience and full disclosure response UNMODELED; tentative bomb line not forecast of dispatch. INF-0017/0021,AGY-0019. OPEN_PENDING_TEST due V05.
+
+### CLM-0021 — Inward truth and outward practice become distinct responsibilities
+
+Interpretive REVISE/STRENGTHEN CLM-0011: explicit inward H-directed romantic recognition S0083/0129/0144 revises earlier unspecified-desire alternatives, but Y refuses recipient naming S0137 and requests practice S0138–0140. A cover she knows inadequate is not innocent friendship-only confusion. T male assumption S0118 and F overprescribed women-only identity S0123–0124 remain separate from Y present beloved/self-understanding. H reciprocity/moving motive not resolved. REL-0018/0020,INF-0019/0020,JPS-0014/0017,VIS-0022. Nonforecast, due mature integration; concealment does not make demonstrated attachment unreal.
+
+### CLM-0022 — Permission structures require scene-specific comparison
+
+Interpretive PRESERVE/STRENGTHEN CLM-0005/0011/0016: H-initiated school contact/Y private refusal fear S0015–0018; practical fastening assent followed added contact/protests S0054–0058; historical mutual compliance after reluctance/rebuke S0028–0029; surprise diversion/kiss/teasing apology S0102–0110; Y requested practice/Hいいよ S0138–0141. These differ in initiative, constraint, information and affirmative response. Later recognized love/assent neither validates earlier acts nor makes all intimacy ethically identical. Links CON-0019–0024,JPS-0015/0017,VIS-0018–0022. Nonforecast, mature consent/agency responsibilities independent.

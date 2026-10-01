@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Six exact Japanese EPUBs verified locally; V01–V03 visually INSPECTED and CLOSED; remote hash limitation preserved"
+source_boundary: "Six exact Japanese EPUBs verified locally; V01–V04 visually INSPECTED and CLOSED; remote hash limitation preserved"
 canonical_home: series/ntr-netsuzou-trap/00 Frameworks and Methods/NTR_SOURCE_AND_SCOPE_MAP.md
 ---
 
@@ -40,7 +40,7 @@ The owner-authorized local witness directory is retained in the noncanonical exe
 | NTR-JP-V01 | 169 | ADMITTED / INSPECTED 169/169 / CLOSED V01 transaction |
 | NTR-JP-V02 | 172 | ADMITTED / INSPECTED 172/172 / CLOSED V02 transaction |
 | NTR-JP-V03 | 172 | ADMITTED / INSPECTED 172/172 / CLOSED V03 transaction |
-| NTR-JP-V04 | 156 | STRUCTURALLY_VERIFIED; narrative unread |
+| NTR-JP-V04 | 156 | ADMITTED / INSPECTED 156/156 / CLOSED V04 transaction |
 | NTR-JP-V05 | 170 | STRUCTURALLY_VERIFIED; narrative unread |
 | NTR-JP-V06 | 170 | STRUCTURALLY_VERIFIED; narrative unread |
 
@@ -69,3 +69,7 @@ All172 V02 images were visually inspected in spine order before any V03 narrativ
 ### V03 witness routing at individual close
 
 All 172 V03 images were visually inspected in spine order before any V04 narrative. Mainline trap:9 S0005–0040, trap:10 S0041–0076, trap:11 S0077–0116, trap:12 S0117–0156 (color opening S0117–0119, title design S0120, several-hours-earlier cue S0121). S0113–0116 are narrative, not separators. Branded/black dividers S0157–0158 and branded divider S0165. Embedded **少女リプレイス** S0159–0164 is explicitly middle-school third-year backstory in the manga lane, admitted now as earlier time and ineligible for prospective continuation scoring. Afterword/thanks S0166–0167 (anime mention production paratext only), physical covers/advertising/blurb S0168–0171 and colophon S0172 inspected separately; ISBN978-4-7580-7615-9, ©2016. Cover/blank/title/contents S0001–0004 accounted for. Local source hash and remote-byte limitation unchanged. Important originals verified, including the no-definite-kiss visibility limit and all three participants noticing the infirmary encounter; their resulting beliefs/response remain bounded at this exit. See the V03 reading/checkpoint for interpreted routes, literal matching, partial apology and testimony-versus-fact distinctions.
+
+### V04 witness routing at individual close
+
+All 156 V04 images were visually inspected in spine order before any V05 narrative. Mainline: trap:13 S0005–0036; trap:14 S0037–0072 (color anticipation S0037–0039, purple divider S0040, several-days-earlier cue S0041); trap:15 S0073–0104; trap:16 S0107–0146 (tear repetition S0107–0108, actual title S0109; contents lists 107). White/black separators S0105–0106, branded divider S0147 and black diagonal S0150 are accounted for. Embedded **NTR★S / 捏造トラップ・summer** S0148–0149 is compatible earlier beach preparation/outing comedy, explicitly routed rather than a post-endpoint event. Historical Hotaru/Fujiwara montage S0021–0031 top precedes Takeda confession; school-promise recollection S0142–0143 is also earlier time, neither yielding retrospective forecast success. Cover/blank/title/contents S0001–0004, afterword/thanks S0151, physical covers/flaps/blurb S0152–0155 and colophon S0156 were all inspected; ISBN 978-4-7580-7659-3, ©2017. Local hash and remote-byte limitation remain unchanged. Original checks and bounded independent reviews resolved school initiative, apology transition, mutual promise, conditional love reply, feigned Takeda-presence lie, explicit practice assent and absence of completed exposure. The V04 reading/checkpoint preserve context and literal first-window adjudications.

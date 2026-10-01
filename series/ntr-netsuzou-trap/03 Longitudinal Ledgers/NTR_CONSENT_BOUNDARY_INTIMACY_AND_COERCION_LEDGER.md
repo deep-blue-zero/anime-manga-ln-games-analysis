@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V03; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Japanese manga V01–V04; cumulative interpreted evidence; earlier records preserved"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_CONSENT_BOUNDARY_INTIMACY_AND_COERCION_LEDGER.md
 ---
 
@@ -105,3 +105,31 @@ H intervenes この子は私のだから S0125; clients demand girl–girl demon
 ### CON-0018 — Infirmary initiative and accepting reapproach under illness constraint
 
 H temperature-check care S0149 then withdrawal; Y pulls uniform to bring H close S0150, apologizes S0152. Exact contact obscured, no definite kiss. H surprise then smile/reapproach S0153 and いいよ/illness prompt S0154 supports local acceptance of closeness, not full lasting romantic agreement. Actual fever S0144 limits inference about informed/mutual wider permission, without voiding all agency. T sees intimate position S0156; not permission or complete history. Prior refused acts preserved. Links AGY-0014,INF-0015,VIS-0017,CLM-0007/0008/R-V03; high initiative/response, precise unspoken permissions OPEN.
+
+## V04 closed-volume records
+
+The initial zero-row statement above describes the September bootstrap. These records were admitted at this volume close; later updates append history. Locators below expand to `NTR-JP-V04/SNNNN/I01` unless a volume is specified.
+
+### CON-0019 — Renewed school contact and privately constrained nonrefusal
+
+S0013–0018 H retrospectively calls infirmary event a kiss, minimizes it, pulls Y uniform/initiates renewed contact; Y private fear refusing would make H leave. Current H initiative observed; felt refusal cost high, actual H departure ultimatum absent. Neither internal attraction, failure to stop nor minimization supplies unlimited affirmative permission. V03 obscured-contact observation remains accurate despite new H naming. Dream S0010–0011 is not actual H invitation. Links REL-0018/0019,INF-0016,VIS-0018,AGY-0015; Y-R04 no matched Y pursuit from this scene.
+
+### CON-0020 — Fastening permission does not include added contact despite protest
+
+Loose swimwear S0053 → H offers fastening help/Ynod andうん S0054, Ystops T approaching/H explains practical problem S0055. H adds intimate contact over Y protests with T nearby S0056–0058, then fastens/kisses S0059. Practical assistance is specifically accepted; added acts not affirmed by that assent, physical reaction or later H-directed love. Bright return/private-place comment S0060 can hide different permission structure from T. Distinguish practical invitation, surprise escalation, audience pressure and later request. Links REL-0019,AGY-0016,VIS-0020,CLM-0022; no graphic detail needed.
+
+### CON-0021 — Mutual request contract enforced after reluctance is not blanket consent
+
+Historical S0028–0029 F rebukes H lack of mood; H holds cheek/F raised hand imply violence without impact panel, she apologizes/recalls mutual no-complaints/no-prying/respond-to-other-request terms before his advance. Mutual grammatical obligation does not prove symmetric bargaining or affirmative permission to each later act, especially immediate reluctance/pressure. Separate exboy refuses breakup/grabs H S0022–0024; F interruption not proven rescue bargain. Present H use of mutual request term S0094 supplies agency without absolving earlier coercive enforcement. Links REL-0022,INF-0018,JPS-0015,VIS-0019; newly admitted past not prospective later test.
+
+### CON-0022 — Takeda advice supplies a nonconditional option while preserving his boundary
+
+Walk accepted S0075; Y apology/thanks S0076–0077 precedes T naming her preoccupation as love and encouraging actual answer S0078–0085. His advice does not require dating him or suppress disappointment; later he accepts own first-love failure S0090. Real nonconditional help evidence under this new romantic-advice condition, not credit for earlier limited-information schoolcare T-R03. Unknown recipient/male assumption limits factual adequacy. No automatic ideal-boy account: earlier sudden kiss remains CON-0003. Links REL-0020/0021,AGY-0017,INF-0020,CLM-0015/R-V04/0019.
+
+### CON-0023 — Requested practice and explicit assent are locally meaningful
+
+Y refuses to name actual liked person S0137, seeks cooperation S0138, approaches/asksまだ練習させてよ S0139 and gives unnamed-person future frame S0140. H saysいいよ and embraces S0141. This is actual chosen request and affirmative reception of this encounter, not inferred willingness from arousal/nonresistance. No separately visible completed kiss claimed, agreed romance or blanket escalation authorization. Y concealed recipient/departure worry remains information asymmetry without nullifying every H choice. Later mutual choice cannot retrospectively authorize CON-0001/0020 or prove earlier room permission. Links REL-0018/0019,INF-0019,JPS-0017,CLM-0005/0011/R-V04/0022.
+
+### CON-0024 — Surprise deflection, apology and nonanger do not settle the unanswered issue
+
+Aquarium H feigns noticing T S0102, kisses unexpectedly S0103/calls lureウソ; Y cries S0104 and H startled. H later apologizes for excessive teasing/asks anger, Yもういいよ/別に怒ってないから S0110. Count real apology and explicit nonanger statement while preserving absence of work-motive answer, candid recipient exchange or complete act-specific repair. A face/tear cannot prove complete motive or imply all later acts unwelcome; H assent to Y request is a separate later event CON-0023. Links INF-0019,REL-0019,VIS-0021,CLM-0005/R-V04; harms and repair differ by moment.
