@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V06 individually CLOSED; mainline frozen; mature responsibilities stabilized"
+source_boundary: "Japanese manga V01–V06 frozen; separately authorized NTR-JP-LW supplemental lane extends current continuity without replacing mainline responsibilities"
 canonical_home: series/ntr-netsuzou-trap/00 Frameworks and Methods/NTR_SYNTHESIS_ARCHITECTURE.md
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
@@ -71,3 +71,11 @@ The post-V06 audit owns promotion reasons, evidence gaps and the exact file rost
 `07 Audits and Handoffs/` holds the local reconstruction validation, source/sequential/ledger and final claim/coverage/adversarial/repository findings as distinct audit responsibilities. Models must preserve literal historical failures and NDO, distinguish reader knowledge from subject knowledge, and mark postcorpus development untested. Final coverage separates inspected, recorded, synthesized and validated. A fresh completed-package anti-compression review follows mature drafting; it is not replaced by the pre-draft comparator calibration or this role assignment.
 
 Architecture amendment: INITIAL → STABILIZED after V06, retaining generation `NTR_BOOTSTRAP_V1` and the existing eight-home topology. Required downstream work remains pending until its actual acceptance and publication. The one current entrypoint reports those states; this architecture supplies responsibilities, not a second progress surface.
+
+## Separately authorized LateWinter lane
+
+The foregoing run/promotion statements describe the frozen V01–V06 generation. Owner authorization now admits only verified **NTR-JP-LW**, after the immutable pre-admission seal. `02 Supplemental Readings/` owns its complete deep reading and postread/original-test freeze; it is not another numbered sequential volume. The existing eight cumulative ledgers append source-tagged observations while preserving their historical prefix. Local character models append genuinely observed states only after original-rule scoring; literary addenda preserve the four mainline monographs. Relevant dyadic/network homes append scoped extensions.
+
+`06 Series Synthesis/NTR_LATEWINTER_SUPPLEMENTAL_INTEGRATION.md` owns what the supplement changes and leaves open. A broader manga-continuity synthesis is permitted only after an explicit evidence-based decision that several independent mature responsibilities materially extend; it cannot replace `NTR_FULL_SERIES_SYNTHESIS.md`, which remains the answer for numbered V01–V06. The six mainline specialists and ending study retain that boundary; current supplemental arguments route through the dedicated integration rather than silently broadening their sources.
+
+`07 Audits and Handoffs/` owns source/freeze integrity, original 24-PC held-out adjudication, final claim/coverage, fresh completed-package anti-compression review and repository acceptance. Preserve **pre-model → LW observation → original scoring/freeze → new model development**, marking new rules POST_LATEWINTER_UNTESTED. Every older score remains readable. The single current map reports both boundaries and actual remaining gates. No ninth ledger, duplicate entrypoint, global character grade or other external-source admission follows.

@@ -4,14 +4,14 @@ artifact_id: NTR_CURRENT_STATE
 artifact_type: corpus_map
 series: "NTR: Netsuzou Trap / 捏造トラップ-NTR-"
 generation: NTR_BOOTSTRAP_V1
-version: "0.6"
+version: "0.7"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V06 individually CLOSED; complete mature package and final semantic/source/history/coverage audits accepted with explicit limits; exact-head publication verified separately"
+source_boundary: "Japanese manga V01–V06 complete and frozen; separate NTR-JP-LW 24-image reading and original held-out scoring frozen; supplemental integration pending"
 canonical_home: series/ntr-netsuzou-trap/CURRENT_STATE_AND_CORPUS_MAP.md
 project_initialization:
   status: canonical
@@ -37,7 +37,7 @@ project_initialization:
   owner_review: APPROVED_BY_OWNER_CONTINUOUS_RUN_PROMPT_20261001
   sequential_analysis_lock: OPEN
   lock_reason: VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION
-  next_permitted_operation: NO_FURTHER_NARRATIVE_ADMISSION_IN_THIS_RUN
+  next_permitted_operation: LATEWINTER_INTEGRATION_ONLY_MAINLINE_REMAINS_FROZEN
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
@@ -53,13 +53,23 @@ sequential_execution:
 
 This is the single first-read surface for `series/ntr-netsuzou-trap/` on the continuing `series/ntr-netsuzou-trap` branch. Git is the analytical plane; the NTR Drive folder ID `1jJBFGXROchjVNUeuy4oXRi3PDHCTCF4H` within evidence root ID `1tNJvglC-ri_AEGTkJupZ78WddyiCqQMy` holds the primary witnesses and provenance records. The owner approved the bootstrap foundation and the bounded V01–V06 continuous run on 2026-10-01. The [foundation and authorization audit](07%20Audits%20and%20Handoffs/NTR_CONTINUOUS_RUN_AUTHORIZATION_AND_FOUNDATION_AUDIT.md) records verification and the operational boundary; approval does not establish narrative findings.
 
-## Current boundary
+## Frozen mainline boundary — V01–V06 release
 
 - Primary medium: Japanese manga, numbered V01–V06 tankōbon EPUBs. Their exact identities, Drive IDs, verified local hashes, package order, and remote-hash limitation are in the [source and scope map](00%20Frameworks%20and%20Methods/NTR_SOURCE_AND_SCOPE_MAP.md). All six are structurally verified; preparation supplies no later narrative knowledge.
 - Narrative admission/complete visual inspection/individual close: **V01 169/169, V02 172/172, V03 172/172, V04 156/156, V05 170/170 and V06 170/170 images** (**1,009/1,009 inspected**). Individually closed [sequential readings](01%20Sequential%20Readings/) preserve entering states and immutable earlier forecasts. [V06 reading](01%20Sequential%20Readings/NTR_V06_DEEP_READING.md) and [mainline freeze](01%20Sequential%20Readings/NTR_V06_PROSPECTIVE_FREEZE.md) distinguish bounded report-mediated support, changed-information NDO and the first unrestrained photo-account result. All eight ledgers append V06 evidence. Present shared return, Y's interpretation of incomplete H trust, conditional cohabitation, public exposure/removal and unresolved repair remain distinct. Embedded post-return body-cover comedy is separately routed; external supplements remain unadmitted. No global capability grades are asserted.
 - Supplemental material and the television adaptation: outside the mainline source boundary; see the quarantine queue in the source map. No supplemental narrative object was acquired or admitted in this bootstrap.
 - `SEQUENTIAL_ANALYSIS_LOCK = OPEN`; reason `VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION`. The authorized terminal boundary **V06 is individually CLOSED and the six-volume mainline FROZEN**. No later narrative source is authorized by this run. The [post-V06 architecture/role-gap audit](07%20Audits%20and%20Handoffs/NTR_POST_V06_ARCHITECTURE_ROLE_GAP_AND_INTEGRATION_AUDIT.md) was committed at `8fe1601ba53d3188848b9fa58c9b5fc14f36a15d` before mature drafting. Four character triples, bounded local reconstruction validation, three directional dyads, the ensemble network, six specialists and the substantial full-series synthesis are now accepted below. The fresh completed-package adversarial review and final source/sequential/ledger/claim/coverage/repository audits now accept the bounded analytical release below. The sequential/mature analytical run is complete. Stable-branch publication has a separate exact-head source/housekeeping/full-audit gate; its actual remote result must be verified rather than inferred from this analytical state.
 - Publication target: stable branch `series/ntr-netsuzou-trap`. Bootstrap history is preserved in the [bootstrap receipt](07%20Audits%20and%20Handoffs/NTR_BOOTSTRAP_RECEIPT.md). Git history confirms integration into `main` at `9f1aadd7`; at run start, `main` was `c0e08f7347ded1d2c70c4914319178329e6b9b8c` and the stable branch was `7bca96f3da16a6077aa24a20ca646f9d71724e79`. Ordinary merge `22df7ff2e17047afd10d17fdc0bbc4fdaa8c474b` preserved both histories; its complete tree equals that starting `main` tree. Historical receipt statements remain statements about the bootstrap transaction.
+
+## Current supplemental boundary — LateWinter only
+
+The new owner prompt authorizes **NTR-JP-LW**, not V07 or any other supplement. Ordinary reconciliation **1a58c7902f5cdd11d204133b358261861f1d31ff** preserved all 58 NTR baseline files after fresh starting main `a10ec34d5146bef26f2606a24c21386239db883c` and stable `b845d8bccc7be905633558d2a767f22e9f78cc50`. The [pre-admission seal](07%20Audits%20and%20Handoffs/NTR_LATEWINTER_PRE_ADMISSION_FREEZE.md), commit **882a66c6f48a0b66e4e0679b47417e61c77f61fd**, predates source search/extraction/narrative viewing and freezes all 24 original mature PC texts and mainline open propositions.
+
+Verified creator/circle-origin final-episode after-story in a later Number Nine digital edition: **24/24 images** directly inspected, including one peer comic and seven paratext/design/blank images. Exact local bytes, Drive identity/hash limitation and continuity classification are in the [source/freeze audit](07%20Audits%20and%20Handoffs/NTR_LATEWINTER_SOURCE_AND_FREEZE_INTEGRITY_AUDIT.md). [Supplemental deep reading](02%20Supplemental%20Readings/NTR_LATEWINTER_DEEP_READING.md) and [postread freeze](02%20Supplemental%20Readings/NTR_LATEWINTER_POSTREAD_FREEZE.md) retain the new boundary separately from the mainline.
+
+The [held-out audit](07%20Audits%20and%20Handoffs/NTR_LATEWINTER_RECONSTRUCTION_VALIDATION_AUDIT.md) adjudicates all 24 original rules before model updates: one genuine first-response match, **H-PC-04 SUPPORTED_BOUNDED**; 17 NDO, four NOT_APPLICABLE, two INSUFFICIENT_VISIBILITY; no unbounded support/partial/failure score. This is sparse testing, not total model accuracy. No older R result changes. Current supplemental stage: **READ_COMPLETE / ORIGINAL_TESTS_FROZEN / MODEL_AND_SYNTHESIS_INTEGRATION_PENDING**. Mainline models still retain their exact pre-LW bytes at this checkpoint. Final ledger/model/relationship propagation, supplemental synthesis, broader-continuity decision, fresh adversarial review and exact-head publication remain required.
+
+The historical mainline acceptance blocks below remain statements about their V01–V06 release. Their former LateWinter quarantine/no-postcorpus-test statements are superseded only for the current supplemental operation by this block and the source map, without rewriting that release's evidence. All other side stories, drama-CD/anime-disc material, adaptation, interviews, localization and reception remain quarantined.
 
 ## Governing homes and retrieval order
 

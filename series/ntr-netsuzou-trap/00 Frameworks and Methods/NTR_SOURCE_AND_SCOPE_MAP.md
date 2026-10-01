@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Six exact Japanese EPUBs verified locally; V01–V06 visually INSPECTED and CLOSED; remote hash limitation preserved"
+source_boundary: "Six numbered Japanese EPUBs CLOSED and frozen; NTR-JP-LW separately ADMITTED and visually INSPECTED 24/24; remote hash limitations preserved"
 canonical_home: series/ntr-netsuzou-trap/00 Frameworks and Methods/NTR_SOURCE_AND_SCOPE_MAP.md
 ---
 
@@ -52,9 +52,19 @@ V01's admitted embedded extra is **旅行前日**, S0155–0162, read after the 
 
 V01–V06 are the owner-authorized numbered Japanese mainline run, read prospectively in that order under the OPEN gate. The six displayed objects establish the bounded inventory; edition variants and other publication forms are not silently equated with these witnesses. `STRUCTURALLY_VERIFIED`, `ADMITTED`, `INSPECTED`, and `CLOSED` remain distinct states recorded above per witness.
 
-At bootstrap these were **user-supplied discovery leads, not then found in this folder**: 『捏造TRAP-LateWinter-』 (possible post-finale material), 『捏造トラップ-NTR- ～武田と藤原～』 (possible side story), V05 special-edition drama CD, Kodama-drawn anime-disc manga or booklet extras, the 2017 television adaptation, creator interviews/commentary, promotions, localized editions, and reception. LateWinter is now located in the evidence/local inventory but remains uninspected and quarantined. Identity, authorship, chronology, edition, and provenance require fresh verification before future narrative admission. The anime is a separate adaptation lane. None may repair or seed a V01–V06 prospective reading; none is required for this run's completion.
+At bootstrap these were **user-supplied discovery leads, not then found in this folder**: 『捏造TRAP-LateWinter-』 (possible post-finale material), 『捏造トラップ-NTR- ～武田と藤原～』 (possible side story), V05 special-edition drama CD, Kodama-drawn anime-disc manga or booklet extras, the 2017 television adaptation, creator interviews/commentary, promotions, localized editions, and reception. At the V01–V06 release, located LateWinter remained uninspected and quarantined; that historical state is sealed in the mainline source audit and pre-admission freeze. The separately owner-authorized operation now admits only verified `NTR-JP-LW` as detailed below. All other listed material remains quarantined, and the anime remains a separate unadmitted adaptation lane. None may repair or seed a V01–V06 prospective reading; none was required for that run's completion.
 
 After V06 is individually closed and its **mainline state frozen**, one verified supplement at a time may enter a separately declared lane. Record whether it confirms, strengthens, revises, complicates, contradicts, or fails to resolve the frozen interpretation. A later after-story can establish a later state without altering what the V06 endpoint itself established. Preserve both boundaries.
+
+### Current LateWinter admission — separate supplemental operation
+
+| Source key | Exact filename / Drive identity | Bytes / local SHA-256 | Verified current state |
+|---|---|---|---|
+| `NTR-JP-LW` | `NTR - Netsuzou Trap - LateWinter [Japanese].epub`; `1OEGPdDprGkU7WVnItseHkTjkMtlTIz7X`, parent `1jJBFGXROchjVNUeuy4oXRi3PDHCTCF4H` | 13,260,813; `f2d70cdffaa8d15031bdec7b097a077662e7618791db265eec4a2141345e4a2d` | STRUCTURALLY_VERIFIED / ADMITTED / INSPECTED **24/24**; original held-out scores frozen before model development |
+
+The [LateWinter source/freeze audit](../07%20Audits%20and%20Handoffs/NTR_LATEWINTER_SOURCE_AND_FREEZE_INTEGRITY_AUDIT.md) owns full provenance and preservation. OPF **捏造TRAP-LateWinter- / コダマナオコ / ja**; cover 2017 winter/C93 Monaco Meister; creator foreword explicitly final-episode after-story; digital colophon credits Number Nine sales cooperation. Authorized retail metadata lists the later Number Nine/百合コレ digital release 2023-03-24 and 24-page extent. Exact original physical day and across-edition differences remain unverified. Fresh Drive metadata/reference confirms ID/name/size; materialization returned HTTP 403 and no current remote checksum was independently obtained.
+
+EPUB3 RTL, 56 CRC-passing ZIP members, 24 spine/image entries, no missing or unreferenced images; originals 1024×1456. Complete direct visual reading: S0005–0020 principal story, S0022 same-series peer comic, seven remaining cover/blank/foreword/design/colophon images. No OCR substitute, advertisement or unrelated insert. Coordinates **NTR-JP-LW/SNNNN/I01**, not printed pages; mechanical sidecars/images remain outside Git. The [supplemental reading](../02%20Supplemental%20Readings/NTR_LATEWINTER_DEEP_READING.md) and [postread freeze](../02%20Supplemental%20Readings/NTR_LATEWINTER_POSTREAD_FREEZE.md) distinguish later state, retrospective disclosure and paratext. This source is not V07 and does not authorize another supplement.
 
 ## Original bootstrap locator plan and remaining source checks
 
