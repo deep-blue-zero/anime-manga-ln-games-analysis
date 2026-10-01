@@ -4077,8 +4077,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - _None._
 - Analytical coverage:
   - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+  - `v02-mainline`: MANGA VOLUME: Substantial character-specific analysis within V02 mainline Shifts 07-11 through image i156, including retrospective childhood and present states without backdating knowledge. This is an analytical horizon, not appearances in every scene. Separately packaged Shift 11.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
 - Reviewed current evidence:
   - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
+  - [`reviewed-v02-mainline` — V02 frozen mainline character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md)
 
 ### Mari Otsu
 
@@ -4209,8 +4211,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - _None._
 - Analytical coverage:
   - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+  - `v02-mainline`: MANGA VOLUME: Substantial character-specific analysis within V02 mainline Shifts 07-11 through image i156, including retrospective childhood and present states without backdating knowledge. This is an analytical horizon, not appearances in every scene. Separately packaged Shift 11.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
 - Reviewed current evidence:
   - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
+  - [`reviewed-v02-mainline` — V02 frozen mainline character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md)
 
 ### Mimimi
 
@@ -4781,6 +4785,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `reviewed-dedicated-corpus`: LIGHT_NOVEL VOLUME: Reviewed cumulative original-Japanese light-novel monograph within its explicit character-specific source and developmental boundaries. Later header or supplementary coverage does not imply uninterrupted evidence in every volume or advance an older modeled state.; continuity `chiramune-light-novel`
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Nazuna Ayase dedicated analysis](series/chiramune/04%20Character%20Analysis/Nazuna%20Ayase/CHIRAMUNE_NAZUNA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
+### Nene
+
+- Entity ID: `watayuri:nene`
+- Entity aliases:
+  - _None._
+
+#### Subject: Japanese manga continuity
+
+- Analysis subject ID: `watayuri:nene@manga`
+- Series: `watayuri`
+- Continuity: `watayuri-manga`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - Saionji (en, ALTERNATIVE) — Former cafe role name, explicitly identified with Nene at V04/i055; not an established ordinary surname.
+  - 西園寺 (ja, ORIGINAL_SCRIPT) — Written former cafe role name corresponding to Saionji; ordinary surname remains unverified.
+- Analytical coverage:
+  - `v04-shifts17-18-bounded`: MANGA CHAPTER: V04 Shifts 17-18: the former Saionji sister role, represented earlier cafe relationship and role rupture (i009-i027), and Nene’s present kitchen self-account and advice (i052-i057). Sumika’s recollection and Nene’s own account remain distinct. No V03, later V04 chapters, packaged supplement or V05+ coverage is enrolled.; continuity `watayuri-manga`
+- Reviewed current evidence:
+  - [`v04-bounded-history-and-self-account` — Volume 4: Nene’s historical role, chosen relationship and response to protective control](series/watayuri/02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#close-reading)
 
 ### Nene
 
@@ -6025,8 +6050,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - _None._
 - Analytical coverage:
   - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+  - `v02-mainline`: MANGA VOLUME: Substantial character-specific analysis within V02 mainline Shifts 07-11 through image i156, including retrospective childhood and present states without backdating knowledge. This is an analytical horizon, not appearances in every scene. Separately packaged Shift 11.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
 - Reviewed current evidence:
   - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
+  - [`reviewed-v02-mainline` — V02 frozen mainline character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md)
 
 ### Shiratori Tomoe
 
@@ -6355,8 +6382,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - _None._
 - Analytical coverage:
   - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+  - `v02-mainline`: MANGA VOLUME: Substantial character-specific analysis within V02 mainline Shifts 07-11 through image i156, including retrospective childhood and present states without backdating knowledge. This is an analytical horizon, not appearances in every scene. Separately packaged Shift 11.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
 - Reviewed current evidence:
   - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
+  - [`reviewed-v02-mainline` — V02 frozen mainline character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md)
 
 ### Tadokoro Megumi
 
@@ -7087,8 +7116,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - _None._
 - Analytical coverage:
   - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+  - `v02-mainline`: MANGA VOLUME: Substantial character-specific analysis within V02 mainline Shifts 07-11 through image i156, including retrospective childhood and present states without backdating knowledge. This is an analytical horizon, not appearances in every scene. Separately packaged Shift 11.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
 - Reviewed current evidence:
   - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
+  - [`reviewed-v02-mainline` — V02 frozen mainline character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md)
 
 ### Yaoyorozu Momo
 
