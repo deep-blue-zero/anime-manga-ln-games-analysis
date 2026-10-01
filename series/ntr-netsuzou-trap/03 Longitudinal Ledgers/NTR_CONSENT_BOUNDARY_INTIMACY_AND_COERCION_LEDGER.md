@@ -10,11 +10,13 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V06; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Frozen Japanese V01–V06 historical prefix plus appended NTR-JP-LW supplemental evidence; source/state times distinguished"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_CONSENT_BOUNDARY_INTIMACY_AND_COERCION_LEDGER.md
 ---
 
 # Consent, boundary, intimacy, and coercion
+
+**Current scope note — 2026-10-01:** the V01–V06 body and its old bootstrap/current-stage statements below retain their historical scope. The final LateWinter section separately extends this instrument after complete reading and original-model scoring at 604d3865265d8dd7753ce32141d4fe32d9fde9c6. Earlier IDs, wording and forecast results are unchanged.
 
 **Responsibility:** consequential physical/intimate interactions assessed at their actual time, preserving variation among agreement, uncertainty, pressure, violation, and later reciprocity. Include when a boundary, initiator, action, response, leverage, or ethical inference materially affects a claim. Exclude general attraction/attachment state (REL), ordinary agency acts not tied to permission (AGY), or visual style in isolation (VIS); link them when relevant. No scene or person is assumed at bootstrap.
 
@@ -201,3 +203,27 @@ Y pulls after H breaks grip S0137–0138; H explains work and lost income S0138�
 ### CON-0039 — Repair is limited even when romance is legible
 
 Y owns prior T harm and declines irresponsibility S0070–0071; T recognizes choice S0061–0063, post disappears S0032, Y inwardly accepts her interpretation of incomplete trust S0159. These are distinct repair/recognition steps. No exhaustive H accountability, F remorse, universal screenshot erasure or durable negotiated boundary protocol appears. Early harm and later real attachment remain simultaneously evidenced.
+
+## LateWinter supplemental records — NTR-JP-LW
+
+All SNNNN locators in this section expand to **NTR-JP-LW/SNNNN/I01**. [Complete reading](../02%20Supplemental%20Readings/NTR_LATEWINTER_DEEP_READING.md) owns scene context; this instrument owns only its declared dimension. Original records above remain the complete mainline prefix.
+
+### CON-0040 — A group invitation receives a clear refusal
+
+**POST_V06_STATE; OBSERVED.** Friends include H in the cafeteria invitation; H declines, apologizes and says later. S0007–0008. Permission concerns joining this activity, not every future contact. No forced attendance is depicted; Y's immediate meal response is unshown. This is not proof of sustained secure separation. Links REL-0038, AGY-0033, CLM-0039.
+
+### CON-0041 — Friendship prescription meets an autonomy objection
+
+**POST_V06_STATE; OBSERVED.** Y asks why H does not make friends/try interest; H's first S0009 reply questions the demand and declines that interest. S0010 analogy elaborates. Nonemergency choice interference is verbal here, without a completed bodily override. H-PC-04 SUPPORTED_BOUNDED; no H-R04 childhood-authority hit or new tested work/privacy cost. Links AGY-0034, REL-0038, CLM-0039/0044.
+
+### CON-0042 — Present desired intimacy lacks a shown general protocol
+
+**POST_V06_STATE; OBSERVED initiative/attraction, permission limit OPEN.** H begins private bodily approach at S0013 and names Y-selective interest S0014; Y expresses inward desire and later reciprocal closeness S0015–0018. No advance question or explicit new refusal is drawn. Accept present desire without classifying it as a demonstrated new refusal violation or a complete negotiated protocol. Standing permission, every act's advance assent and reliable response to serious objection are unestablished. Links REL-0039, AGY-0035, CLM-0041. Non-graphic retrieval only.
+
+### CON-0043 — An inward welfare wish is not a jointly accepted care mandate
+
+**POST_V06_STATE; OBSERVED.** Y hopes H will value other people, acknowledges her own loneliness and withholds the thought when H asks. S0019–0020. Silence avoids an immediate demand but does not establish informed agreement about expanding H's life or behavioral restraint under a later difficult refusal. H cannot consent to a plan she has not heard. Links REL-0042, INF-0039, AGY-0036, CLM-0045.
+
+### CON-0044 — Later awareness and pleasure cannot repair earlier permission
+
+**RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE / POST_V06_STATE.** Y's partial-awareness account S0015 and current reciprocal pleasure S0015–0020 add attachment evidence. PRESERVE CLM-0005/0011/0022: none waives communicated earlier objections, legitimizes intrusive search/pulling, or gives recording/publication permission. S0006/0022 show continuing social consequences; no victim-directed exposure repair is performed. Links INF-0038/0040, CLM-0041–0042.

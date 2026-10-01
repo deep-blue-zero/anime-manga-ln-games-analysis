@@ -4,14 +4,14 @@ artifact_id: NTR_CURRENT_STATE
 artifact_type: corpus_map
 series: "NTR: Netsuzou Trap / 捏造トラップ-NTR-"
 generation: NTR_BOOTSTRAP_V1
-version: "0.7"
+version: "0.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V06 complete and frozen; separate NTR-JP-LW 24-image reading and original held-out scoring frozen; supplemental integration pending"
+source_boundary: "Japanese V01–V06 complete and frozen; NTR-JP-LW complete 24-image supplemental reading/scoring/current-continuity integration accepted; exact publication gate separate"
 canonical_home: series/ntr-netsuzou-trap/CURRENT_STATE_AND_CORPUS_MAP.md
 project_initialization:
   status: canonical
@@ -37,7 +37,7 @@ project_initialization:
   owner_review: APPROVED_BY_OWNER_CONTINUOUS_RUN_PROMPT_20261001
   sequential_analysis_lock: OPEN
   lock_reason: VERIFIED_FOUNDATION_AND_EXPLICIT_OWNER_AUTHORIZATION
-  next_permitted_operation: LATEWINTER_INTEGRATION_ONLY_MAINLINE_REMAINS_FROZEN
+  next_permitted_operation: NONE_ADMITTED_ANALYTICAL_BOUNDARIES_COMPLETE_NO_OTHER_ADMISSION
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
@@ -47,6 +47,13 @@ sequential_execution:
   next_candidate_operation: NONE_TERMINAL_MAINLINE_AND_MATURE_BOUNDARY_COMPLETE
   confirmation_between_units: false
   run_state: complete
+supplemental_execution:
+  source_key: NTR-JP-LW
+  images_inspected: 24
+  pre_admission_seal: 882a66c6f48a0b66e4e0679b47417e61c77f61fd
+  original_scoring_seal: 604d3865265d8dd7753ce32141d4fe32d9fde9c6
+  current_state: CLOSED_ANALYTICAL_PUBLICATION_CONTRACT_SEPARATE
+  other_narrative_admission: NOT_AUTHORIZED
 ---
 
 # NTR: Netsuzou Trap — current state and corpus map
@@ -67,7 +74,17 @@ The new owner prompt authorizes **NTR-JP-LW**, not V07 or any other supplement. 
 
 Verified creator/circle-origin final-episode after-story in a later Number Nine digital edition: **24/24 images** directly inspected, including one peer comic and seven paratext/design/blank images. Exact local bytes, Drive identity/hash limitation and continuity classification are in the [source/freeze audit](07%20Audits%20and%20Handoffs/NTR_LATEWINTER_SOURCE_AND_FREEZE_INTEGRITY_AUDIT.md). [Supplemental deep reading](02%20Supplemental%20Readings/NTR_LATEWINTER_DEEP_READING.md) and [postread freeze](02%20Supplemental%20Readings/NTR_LATEWINTER_POSTREAD_FREEZE.md) retain the new boundary separately from the mainline.
 
-The [held-out audit](07%20Audits%20and%20Handoffs/NTR_LATEWINTER_RECONSTRUCTION_VALIDATION_AUDIT.md) adjudicates all 24 original rules before model updates: one genuine first-response match, **H-PC-04 SUPPORTED_BOUNDED**; 17 NDO, four NOT_APPLICABLE, two INSUFFICIENT_VISIBILITY; no unbounded support/partial/failure score. This is sparse testing, not total model accuracy. No older R result changes. Current supplemental stage: **READ_COMPLETE / ORIGINAL_TESTS_FROZEN / MODEL_AND_SYNTHESIS_INTEGRATION_PENDING**. Mainline models still retain their exact pre-LW bytes at this checkpoint. Final ledger/model/relationship propagation, supplemental synthesis, broader-continuity decision, fresh adversarial review and exact-head publication remain required.
+The [held-out audit](07%20Audits%20and%20Handoffs/NTR_LATEWINTER_RECONSTRUCTION_VALIDATION_AUDIT.md) captured all 24 original rules before model updates: H-PC-04 SUPPORTED_BOUNDED, 17 NDO, four NOT_APPLICABLE and two INSUFFICIENT_VISIBILITY. Fresh adversarial review found an overlooked first task window, H's S0012 reception/hanging of Y's coat, and explicitly corrects H-PC-05 from NDO to **PARTIAL** while retaining the sealed original audit. Current results are **0 SUPPORTED, 1 SUPPORTED_BOUNDED, 1 PARTIAL, 0 FAILED, 16 NDO, 4 NOT_APPLICABLE, 2 INSUFFICIENT_VISIBILITY**. Partial service does not establish task-dependent competence or household sustainability; the [fresh audit](07%20Audits%20and%20Handoffs/NTR_LATEWINTER_ADVERSARIAL_INTEGRATION_AUDIT.md) owns the correction history. This is sparse testing, not total model accuracy. No older R result changes. Complete reading/original scores were captured at **604d3865265d8dd7753ce32141d4fe32d9fde9c6**, tree **de20f8e7d4a0388ee83f82dc5fb277831fe0f3af**, while all four models still equaled the pre-LW bytes. Their later appendices preserve the original body and add current scope without changing old states/rules/results.
+
+Current supplemental stage: **READ_COMPLETE / ORIGINAL_TESTS_FROZEN / LEDGER_MODEL_RELATIONSHIP_SYNTHESIS_INTEGRATED / FRESH_REVIEW_ACCEPTED_BOUNDED / ANALYTICAL_BOUNDARY_CLOSED**. Y-LW/H-LW are observed near-ending school/visit states, including H's ordinary coat hospitality. F-LW is retrospective photo-attribution evidence only; T-LW NOT_OBSERVED retains T-V06 as the last observed state. Two new Y/H hypotheses are **POST_LATEWINTER_UNTESTED**. Three selective subject ledgers append material records; no new T evidence filler. [Scoped character addenda](04%20Character%20Analysis/NTR_LATEWINTER_CHARACTER_ADDENDA.md) preserve all four mainline monographs.
+
+All eight cumulative instruments append **49 LW records** after the unchanged 280-record mainline prefix, now **329**: REL 43, CON 44, INF 41, AGY 37, VIS 40, JPS 37, CLM 48, CAST 39. CLM-0038–0048 distinguish PRESERVE/STRENGTHEN/REVISE/DOWNGRADE/REJECT/OPEN, with no central accepted mainline claim rejected. All four dyadic/network homes append scoped current extensions: new directional Y/H practice, persistent exposure/named peers, and explicit limits for the absent boys and unperformed H/F or T/F endings.
+
+The [LateWinter integration](06%20Series%20Synthesis/NTR_LATEWINTER_SUPPLEMENTAL_INTEGRATION.md) owns the post-mainline delta. A separate [broader manga-continuity synthesis](06%20Series%20Synthesis/NTR_BROADER_MANGA_CONTINUITY_SYNTHESIS.md) is warranted by independent autonomy/attachment, retrospective knowledge, public consequence and formal/ethical-ending extensions, recorded in CLM-0047. It answers **V01–V06 + LW**; the unchanged [full-series synthesis](06%20Series%20Synthesis/NTR_FULL_SERIES_SYNTHESIS.md) still answers **numbered V01–V06**. All six mainline specialists retain that source boundary.
+
+Direct selected interest and current desire are stronger than any claim of completed trust/repair or negotiated exclusivity. H's social-choice objection and Y's wider-welfare wish limit total passivity/wholly selfish care, while selective centrality and withheld concern keep the dependency/control counterreading substantial. Graduation/admission/adulthood, cohabitation/lease, work/money sustainability, technical photo privacy and the boys' current futures remain open. The [coverage matrix](07%20Audits%20and%20Handoffs/NTR_LATEWINTER_CLAIM_PROPAGATION_AND_COVERAGE_AUDIT.md) examines all **24 questions captured in the seal** and independent form/register/source/literary responsibilities, separating inspection, recording, synthesis, prediction testing and validated scope.
+
+The [fresh adversarial integration audit](07%20Audits%20and%20Handoffs/NTR_LATEWINTER_ADVERSARIAL_INTEGRATION_AUDIT.md) records complete independent new-witness/package challenge, the resolved H-PC-05 exclusion and actual repair review. Semantic/coverage acceptance is **PASS_BOUNDED**; the [repository/publication audit](07%20Audits%20and%20Handoffs/NTR_LATEWINTER_REPOSITORY_AND_PUBLICATION_AUDIT.md) records preserved bytes, authority and the remaining exact-tree operational gate. Stable publication requires normal push, remote tree/blob readback, source audit, completed housekeeping and successful **Repository integration audit on the exact final branch head**; execution receipts and GitHub statuses bind that actual result. This closed analytical map does not pre-certify a future workflow. No protected-main merge is part of this task.
 
 The historical mainline acceptance blocks below remain statements about their V01–V06 release. Their former LateWinter quarantine/no-postcorpus-test statements are superseded only for the current supplemental operation by this block and the source map, without rewriting that release's evidence. All other side stories, drama-CD/anime-disc material, adaptation, interviews, localization and reception remain quarantined.
 

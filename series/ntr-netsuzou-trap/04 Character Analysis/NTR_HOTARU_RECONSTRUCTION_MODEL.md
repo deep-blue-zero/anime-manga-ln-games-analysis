@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-10-01"
-source_boundary: "Exact Japanese manga V01–V06; native time-indexed reconstruction only"
+source_boundary: "Frozen Japanese V01–V06 body plus separately admitted NTR-JP-LW current supplemental state/visibility appendix; other sources excluded"
 basis_commit: 8fe1601ba53d3188848b9fa58c9b5fc14f36a15d
 corpus_close_commit: 50f7e15b331d39e4df16f9b8d62b358933bffe83
 canonical_home: series/ntr-netsuzou-trap/04 Character Analysis/NTR_HOTARU_RECONSTRUCTION_MODEL.md
@@ -20,6 +20,8 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Hotaru: regulating attachment claims while retaining agency in ordinary life
+
+**Current scope note:** the original body below retains its V01–V06 source, authorship and untested-at-release statements. The final LW appendix is the current supplemental update after held-out scoring; old states, rule text and results are preserved.
 
 Hotaru is reconstructable as a bounded native decision system whose approach, categorization, concealment and withdrawal vary with audience, feared dependence and the state of Yuma's attention. The strongest completed-corpus explanation is defensive attachment: proximity can be wanted while a credible claim on another person remains frightening. That explanation is not exhaustive motive, a clinical diagnosis or an ethical defense. Work and privacy objections can be legitimate choices even when avoidance is also plausible. Her conduct toward Yuma includes initiative and harm; toward Fujiwara it includes refusal, pressure and a form-limited arrangement; toward her father it includes a competent-seeming facade and an explicit anti-burden goal.
 
@@ -264,3 +266,32 @@ These links target the canonical character-analysis directory. Each label identi
 [REL-0035]: ../03%20Longitudinal%20Ledgers/NTR_RELATIONSHIP_DESIRE_AND_ATTACHMENT_LEDGER.md
 
 [REL-0036]: ../03%20Longitudinal%20Ledgers/NTR_RELATIONSHIP_DESIRE_AND_ATTACHMENT_LEDGER.md
+
+## LateWinter extension — separate from the frozen mainline body
+
+All SNNNN references below expand to **NTR-JP-LW/SNNNN/I01**. Complete visual observation and original PC scoring were committed at **604d3865265d8dd7753ce32141d4fe32d9fde9c6** before this appendix was written. [The held-out audit](../07%20Audits%20and%20Handoffs/NTR_LATEWINTER_RECONSTRUCTION_VALIDATION_AUDIT.md) retains every original rule, inhibitor, first-window reason and result. V01–V06 state gates, R results and original PC text above remain historical and byte-preserved. This appendix supplies current supplemental authority; it does not teach the original test retroactively.
+
+### H-LW — Choice refusal and direct selective interest can coexist
+
+**Evidence state:** POST_V06_STATE plus H's RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE; S0005–0020, HEL-0031–0036, REL-0038–0040, CLM-0038–0041/0045. H-V06 remains its native ending snapshot.
+
+| Field | Current observed/attributed content and limit |
+|---|---|
+| Knowledge | Knows her school return/family situation, own friend noninterest and special Y interest. H hears Y's social prescription and nobody-interest inference. She notices an expression/asks, but is not shown knowing Y's S0019 hope or S0022 peer aside. |
+| Relationship | Plainly locates interest in Y and initiates private closeness after mutual naming. Present desire is not a new universal trust claim or every past motive. H/F formal disposition remains unshown. |
+| Obligations | School apology/participation is present. Respecting others' permissions remains a separate ethical requirement; no spoken comprehensive intimacy/repair contract is supplied. |
+| Desired outcome | Y-selective closeness is explicitly wanted; group friendship is not. No new articulated work/home/adult plan. |
+| Avoidance targets | Declines the group meal and effort to manufacture friend interest; reports current father indifference while recalling childhood loneliness. Avoidance of imminent Y abandonment is not newly demonstrated. |
+| Options | Join/decline meal, answer social advice, qualify Y's inference, approach privately, ask about Y's expression. No current relocation/job/arrangement decision is shown. |
+| Constraints | Still high school; father absent by H account; social exposure persists; Y's concern and distinct preferences. The invitation has an audience; private approach has different conditions. |
+| Decisions | Apologizes at school S0005; declines S0008 with later contact; first objects to Y prescription S0009, elaborates S0010; receives/hangs Y's coat S0012; directly names Y interest S0014; initiates/reaches closeness S0013–0018; asks S0019. |
+
+**Original test state:** **H-PC-04 SUPPORTED_BOUNDED** at first qualifying S0009 independent-choice objection. H-PC-01/02/03/06 NDO; H-PC-07 NOT_APPLICABLE. The immutable checkpoint originally excluded H-PC-05 as NDO; [fresh review](../07%20Audits%20and%20Handoffs/NTR_LATEWINTER_ADVERSARIAL_INTEGRATION_AUDIT.md) corrects it to **PARTIAL**, first S0012 coat reception/hanging with known Y and feasible resources. Practical service is observed; task-specific competence/uneven self-maintenance are untested. These two narrow windows do not replicate work/privacy costs or validate the whole model. H-R03's old bounded failure, H-R04's specific trigger uncertainty and safety-qualified H-R06 result remain. No LW first-match failure is scored; remaining rules lack their conditions or opportunities. Absence of a failure is not whole-model robustness, and the corrected weak care rule does not become a broad competence confirmation.
+
+**Rules surviving unchanged:** nonemergency-choice objection gains only this bounded support; task-specificity and reduced-claim proximity remain conditional, not universally validated. **Development adjustment:** acknowledged private attachment permits direct selective speech without practice/category cover in this scene. The changed relationship was already an H-PC-01 inhibitor, so directness cannot be manufactured into an original-rule miss. Present father noninterest is her report, not universal apathy. More interest in Y does not settle how reliably she tolerates separation or respects a new serious objection.
+
+### H-LW-R01 — Acknowledged private attachment can be named without broad social investment
+
+**POST_LATEWINTER_UNTESTED.** **Condition:** H and Y already acknowledge the attachment, private access is available, and Y infers that H cares about nobody from her refusal of unrelated social interest. **Candidate first response:** correct the universal inference by explicitly locating interest in Y; familiar bodily initiative may accompany it but is not necessary for the speech component. **Development evidence:** S0012–0014, one native exchange. **Inhibitors:** changed affection, public audience, new serious objection or unavailable conversation changes the condition; none has a prospective trial. **Countercase/limit:** earlier friendship/practice/category defenses belong to undeclared or differently pressured states; they forbid making this a lifelong always-direct rule. **Falsifier:** at the first comparable acknowledged/private universal-apathy question, affirm nobody matters or rely only on the old cover without a direct selective correction. No later kiss could repair that first speech miss. This is development, **not validation by the generating LW scene**.
+
+The [character addendum](NTR_LATEWINTER_CHARACTER_ADDENDA.md) owns the literary extension. New direct interest is not an explicit new need request; the mainline's direct fear/hug evidence keeps its own locators. No diagnosis or global grade is added.

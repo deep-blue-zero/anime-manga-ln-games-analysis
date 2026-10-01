@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-10-01"
-source_boundary: "Exact Japanese manga V01–V06; native time-indexed reconstruction only"
+source_boundary: "Frozen Japanese V01–V06 body plus separately admitted NTR-JP-LW current supplemental state/visibility appendix; other sources excluded"
 basis_commit: 8fe1601ba53d3188848b9fa58c9b5fc14f36a15d
 corpus_close_commit: 50f7e15b331d39e4df16f9b8d62b358933bffe83
 canonical_home: series/ntr-netsuzou-trap/04 Character Analysis/NTR_YUMA_RECONSTRUCTION_MODEL.md
@@ -20,6 +20,8 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Yuma: care, self-image and access under changing knowledge
+
+**Current scope note:** the original body below retains its V01–V06 source, authorship and untested-at-release statements. The final LW appendix is the current supplemental update after held-out scoring; old states, rule text and results are preserved.
 
 This model explains bounded decisions rather than declaring a personality essence. Its working proposition is that Yuma repeatedly tries to preserve a special place with Hotaru while maintaining a morally intelligible account of herself. The account changes from friendship/protection to practice, then to named love and responsibility. The wish for access persists more consistently than the language used to justify it. Nevertheless, she can withdraw, value others, recognize limits and accept some uncertainty. Those contrary capacities prevent a rule that predicts pursuit regardless of circumstance.
 
@@ -262,3 +264,32 @@ These links target the canonical character-analysis directory. Each label identi
 [REL-0018]: ../03%20Longitudinal%20Ledgers/NTR_RELATIONSHIP_DESIRE_AND_ATTACHMENT_LEDGER.md
 
 [REL-0032]: ../03%20Longitudinal%20Ledgers/NTR_RELATIONSHIP_DESIRE_AND_ATTACHMENT_LEDGER.md
+
+## LateWinter extension — separate from the frozen mainline body
+
+All SNNNN references below expand to **NTR-JP-LW/SNNNN/I01**. Complete visual observation and original PC scoring were committed at **604d3865265d8dd7753ce32141d4fe32d9fde9c6** before this appendix was written. [The held-out audit](../07%20Audits%20and%20Handoffs/NTR_LATEWINTER_RECONSTRUCTION_VALIDATION_AUDIT.md) retains every original rule, inhibitor, first-window reason and result. V01–V06 state gates, R results and original PC text above remain historical and byte-preserved. This appendix supplies current supplemental authority; it does not teach the original test retroactively.
+
+### Y-LW — Broader care desired, special centrality still rewarding
+
+**Evidence state:** POST_V06_STATE with separately attributed RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE; S0005–0020, YEL-0031–0034, REL-0038–0042, CLM-0038–0041/0045. This is a later school/visit state, not a timeless rewrite of Y-V06.
+
+| Field | Current observed/attributed content and limit |
+|---|---|
+| Knowledge | H is back at school, graduation remains two/three months away; Y narrates apparently unsubmitted withdrawal and F photo spreading. She hears H's current father account, remembered loneliness, friend noninterest and Y-selective interest. She does not hear S0022 friends' aside or acquire the reader's entire V06 private call. |
+| Relationship | Present H-directed attraction/closeness is reciprocal; Y is troubled by H's restricted investment. No new T offer/answer or H/F formal-ending account. |
+| Obligations | School participation and truthful/responsive care remain relevant. Respect for H choice is an analytical ethical requirement, not a shown agreed partner contract or guardian authority. |
+| Desired outcome | H values others someday, while Y values being special enough that losing centrality would feel lonely. Joint commitment to that hope is absent. |
+| Avoidance targets | Current closing concern is not voiced. Fear of rejection or spoiling intimacy may explain withholding, but the page does not certify one sole reason. No fresh credible loss/abandonment belief is independently stated. |
+| Options | Invite/advice/question, hear a refusal, voice or withhold the wider wish; at the final H question, a speech opportunity exists. Immediate cafeteria decision is not shown. |
+| Constraints | Still high school; limited family account; H's preference; unknown work/income/home future; current pleasure and ambivalence. No imminent crisis is shown. |
+| Decisions | Questions friend noninterest S0009; hears H objection/analogy S0009–0010; receives direct selective claim, experiences desire S0014–0018; inwardly hopes, then says nothing S0019–0020. No enforced group attendance is drawn. |
+
+**Original test state:** Y-PC-01/02/04 NDO; Y-PC-03/07 NOT_APPLICABLE; Y-PC-05/06 INSUFFICIENT_VISIBILITY. Seven reviewed, **zero diagnostic outcomes**. Old Y-R04 frame and Y-R05 request/cover misses and report-limited Y-R06 support stand. Neither later walk nor receptive ending fills the cut cafeteria response. No original Y rule was newly falsified; that is a coverage limitation, not evidence of robustness.
+
+**Rules surviving unchanged as historical/current candidates:** access pursuit, self-image delay, domain-specific care risk and concrete imperfect care retain their exact scopes; LW does not validate them. The Y-V06 tolerance hypothesis remains endpoint-derived and disputed. **Development adjustment:** wider-welfare concern is now directly represented alongside pleasure in centrality. Do not encode her as only wanting H isolated or as having mastered autonomy. No severe refusal/privacy test weakens the original care-risk rule; the unforced friendship conversation is bounded counterevidence to a stronger always-compels version.
+
+### Y-LW-R01 — Wider welfare may be held inward when it threatens rewarding centrality
+
+**POST_LATEWINTER_UNTESTED.** **Condition:** in a privately close H relation, Y explicitly entertains H's wider attachments, sees them as desirable but anticipates losing specialness, and an ordinary speech opportunity exists without emergency. **Candidate first-response range:** defer or soften the full concern rather than immediately convert it into a jointly negotiated plan. **Development evidence:** S0019–0020 only; S0009 earlier advice is a genuine contrary/alternative output. **Inhibitors:** a direct safety/practical problem, an already stated invitation to discuss, or Y's chosen responsibility may elicit candid speech instead; no dependable inhibitor has been tested. **Falsifier of a stronger deferral tendency:** first comparable available exchanges repeatedly communicate the full ambivalent wish and seek H's decision before action. This weak rule cannot treat every courtesy as deception or every silence as predictive success. It was learned from LW and receives **no held-out credit from these same pages**.
+
+The [character addendum](NTR_LATEWINTER_CHARACTER_ADDENDA.md) owns literary implications. Current state is bounded to the observed visit; no durable trust, cohabitation, adulthood, exclusivity contract or novel-context grade follows.

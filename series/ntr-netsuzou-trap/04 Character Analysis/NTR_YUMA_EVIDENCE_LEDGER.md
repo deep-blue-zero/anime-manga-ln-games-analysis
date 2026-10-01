@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-10-01"
-source_boundary: "Exact Japanese manga V01–V06; external supplements and adaptations excluded"
+source_boundary: "Frozen Japanese V01–V06 body plus separately admitted NTR-JP-LW supplemental selective evidence appendix; other sources excluded"
 basis_commit: 8fe1601ba53d3188848b9fa58c9b5fc14f36a15d
 corpus_close_commit: 50f7e15b331d39e4df16f9b8d62b358933bffe83
 canonical_home: series/ntr-netsuzou-trap/04 Character Analysis/NTR_YUMA_EVIDENCE_LEDGER.md
@@ -19,6 +19,8 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Yuma: retrieving choices without assigning a permanent innocence or guilt role
+
+**Current scope note:** the original body below retains its V01–V06 source, authorship and untested-at-release statements. The final LW appendix is the current supplemental update after held-out scoring; old states, rule text and results are preserved.
 
 This is a selective subject retrieval map. The complete deep readings own event context; the eight cumulative instruments own shared dimensions. This file selects decisions, contrary cases and knowledge limits needed to explain Yuma. It neither replaces those records nor adds a ninth shared ledger. The [model](NTR_YUMA_RECONSTRUCTION_MODEL.md) owns conditional reconstruction; the [monograph](NTR_YUMA_MONOGRAPH.md) owns the literary argument. Local IDs `YEL-####` remain distinct from cumulative IDs.
 
@@ -414,3 +416,23 @@ These links target the canonical character-analysis directory. Each label identi
 [VIS-0028]: ../03%20Longitudinal%20Ledgers/NTR_MELODRAMA_ESCALATION_AND_VISUAL_FORM_LEDGER.md
 
 [VIS-0035]: ../03%20Longitudinal%20Ledgers/NTR_MELODRAMA_ESCALATION_AND_VISUAL_FORM_LEDGER.md
+
+## LateWinter selective evidence — NTR-JP-LW
+
+This appendix follows original-model scoring seal **604d3865265d8dd7753ce32141d4fe32d9fde9c6**; the coordinator directly inspected every LW image. Earlier drafter/inspection statements above remain mainline provenance. SNNNN here means NTR-JP-LW/SNNNN/I01. [The complete reading](../02%20Supplemental%20Readings/NTR_LATEWINTER_DEEP_READING.md) owns scene context; [the cumulative claims ledger](../03%20Longitudinal%20Ledgers/NTR_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md) owns revisions.
+
+### YEL-0031 — Later family knowledge does not confer parental authority
+
+S0005–0006/0011–0012; POST_V06_STATE and separately RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE. Y narrates school/paperwork/photo facts and hears H's father/childhood account; concern grows without full paternal/girlfriend access. Graduation remains future. INF-0036–0038, REL-0040, CLM-0038/0040/0042. Do not silently assign her the old private anti-burden call.
+
+### YEL-0032 — Advising friendship is bounded evidence about care and choice
+
+S0007–0010; POST_V06_STATE. Y asks H to take interest in friends; H's first objection is heard, no enforced group attendance follows. The meal cut supplies no immediate Y participation/pursuit decision. REL-0038, CON-0040–0041, AGY-0033–0034. Y-PC-05/06 visibility limits stand; this is not mastered autonomy under abandonment/work/privacy conflict.
+
+### YEL-0033 — Present desire and later partial recognition remain distinct
+
+S0014–0018; POST_V06_STATE current attraction/receptive closeness; RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE partial-awareness self-account S0015. REL-0039/0041, CON-0042/0044, CLM-0040–0041. Strengthens attachment, not explicit earlier knowledge, all earlier permissions or agreed exclusivity. H owns the initiative.
+
+### YEL-0034 — Caring beyond herself still risks losing the special place
+
+S0019–0020; POST_V06_STATE. Y hopes H values others, admits that would be lonely, and withholds it at H's question. REL-0042, CON-0043, INF-0039, AGY-0036, VIS-0038, CLM-0045. Real wider-welfare concern limits wholly selfish-care reading; present rewarding centrality and unshared hope preserve dependency questions. Y-LW-R01 learned here is POST_LATEWINTER_UNTESTED.

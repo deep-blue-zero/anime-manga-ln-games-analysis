@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-10-01"
-source_boundary: "Japanese numbered manga V01–V06, including explicitly routed embedded material; no external supplements or adaptation"
+source_boundary: "Frozen Japanese V01–V06 body plus separately admitted NTR-JP-LW current supplemental state/visibility appendix; other sources excluded"
 basis_commit: 8fe1601ba53d3188848b9fa58c9b5fc14f36a15d
 corpus_commit: 50f7e15b331d39e4df16f9b8d62b358933bffe83
 review_state: COORDINATOR_ACCEPTED_FOR_COMPLETED_PACKAGE_REVIEW
@@ -19,6 +19,8 @@ model_state: POSTCORPUS_UNTESTED
 ---
 
 # Fujiwara reconstruction: target-conditioned information use without omniscience
+
+**Current scope note:** the original body below retains its V01–V06 source, authorship and untested-at-release statements. The final LW appendix is the current supplemental update after held-out scoring; old states, rule text and results are preserved.
 
 **Canonical local operational model.** This is a native, time-indexed decision model of the Japanese manga's surname-identified Fujiwara. The [ledger](NTR_FUJIWARA_EVIDENCE_LEDGER.md) owns selective evidence retrieval and the [monograph](NTR_FUJIWARA_MONOGRAPH.md) owns literary reasoning. Historical F-R01–F-R04 remain distinct from new **POSTCORPUS_UNTESTED** hypotheses. No source-independent trauma, diagnosis, first name, orientation or global grade is supplied.
 
@@ -114,3 +116,15 @@ Academic advice and reported cold-pasta competence supply a mundane repertoire b
 | Negative evidence/temporality | **BOUNDED**: missing demand components, useful disclosure, restraint exclusions and uneven information are explicit. | Gaps do not become failures; favorable behavior does not cancel harmful episodes. |
 
 Possible future tests could vary target or remove photo advantage before an accountability question. They are **NOT_RUN** and cannot validate these new rules. The complete final Yuma/Hotaru models have now been received and compared with this model: **CROSS_MODEL_CONSISTENCY = PASS_BOUNDED_AUTHOR_STAGE**. The [local audit](../07%20Audits%20and%20Handoffs/NTR_LOCAL_RECONSTRUCTION_VALIDATION_AUDIT.md) binds their exact hashes and records scope and untested-rule limits. Coordinator semantic acceptance is recorded by current authority metadata; final completed-package adversarial review remains separate. Reader-only H history, Y inward trust acceptance, actual endpoint chronology and all old failures remain mandatory.
+
+## LateWinter extension — separate from the frozen mainline body
+
+All SNNNN references below expand to **NTR-JP-LW/SNNNN/I01**. Complete visual observation and original PC scoring were committed at **604d3865265d8dd7753ce32141d4fe32d9fde9c6** before this appendix was written. [The held-out audit](../07%20Audits%20and%20Handoffs/NTR_LATEWINTER_RECONSTRUCTION_VALIDATION_AUDIT.md) retains every original rule, inhibitor, first-window reason and result. V01–V06 state gates, R results and original PC text above remain historical and byte-preserved. This appendix supplies current supplemental authority; it does not teach the original test retroactively.
+
+### F-LW — EVIDENCE_CHECKPOINT_ONLY; no new observed F response
+
+S0006 supplies **RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE**: Y's narration attributes photo dissemination to F. It strengthens reader-visible attributed agency already supported in V06; it is not a fresh dispatch, knowledge acquisition, choice, confession or apology by him. The resulting peer gaze/discussion is **POST_V06_STATE** evidence about consequences, not F's current mind. F-V06 remains his last observed behavioral state.
+
+**Current-state fields:** knowledge, relationship disposition, obligations acknowledged by him, desired outcome, avoidance, options, constraints and immediate decisions are **NOT_OBSERVED in LW**. Historical responsibility for the attributed intervention remains relevant, but no new remorse, helpful accounting, career, H/F breakup or T/F severance follows. No full technical reach/persistence is revealed. FEV-17, INF-0038/0041, AGY-0037, CLM-0042/0046 supply the bounded retrieval.
+
+**Original tests:** F-PC01/02/03/05 NDO; F-PC04 NOT_APPLICABLE to its native V06 departure-question scope. Five reviewed, zero diagnostic outcomes. No new old-R trial; F-R02/F-R03 demand-component misses cannot be rescued by another agency attribution. The current model's limited target/constraint candidates remain unchanged; none is newly tested or falsified. **New LW rules: none.** [The character addendum](NTR_LATEWINTER_CHARACTER_ADDENDA.md) explains the retained literary responsibility without a duplicate F sequel monograph. No global grade or invented interior motive.

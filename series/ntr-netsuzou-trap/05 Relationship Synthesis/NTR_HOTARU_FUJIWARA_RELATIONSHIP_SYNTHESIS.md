@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
 created: "2026-10-01"
-source_boundary: "Japanese manga V01–V06 frozen; newly revealed earlier-time evidence retained as retrospective; external supplements and adaptation unadmitted"
+source_boundary: "Frozen Japanese V01–V06 relationship body plus appended NTR-JP-LW current-continuity extension; other sources excluded"
 canonical_home: series/ntr-netsuzou-trap/05 Relationship Synthesis/NTR_HOTARU_FUJIWARA_RELATIONSHIP_SYNTHESIS.md
 drafted_against_commit: 8fe1601ba53d3188848b9fa58c9b5fc14f36a15d
 mainline_freeze_commit: 50f7e15b331d39e4df16f9b8d62b358933bffe83
@@ -20,6 +20,8 @@ stage_state: COORDINATOR_ACCEPTED_FOR_COMPLETED_PACKAGE_REVIEW
 ---
 
 # Public form, utility, and unequal enforcement
+
+**Current scope note:** all original sections below describe the V01–V06 release and retain their historical limits. The final LateWinter appendix supplies the separately admitted current-continuity update; it does not rewrite the mainline endpoint.
 
 Canonical relationship synthesis accepted by the coordinator. This study owns the differentiated Hotaru→Fujiwara and Fujiwara→Hotaru relation: public couplehood, stated arrangements, autonomy, physical pressure, information access, emotional exclusion, and unresolved ending. The closed [readings](../01%20Sequential%20Readings/), [relationship ledger](../03%20Longitudinal%20Ledgers/NTR_RELATIONSHIP_DESIRE_AND_ATTACHMENT_LEDGER.md), and [consent ledger](../03%20Longitudinal%20Ledgers/NTR_CONSENT_BOUNDARY_INTIMACY_AND_COERCION_LEDGER.md) preserve the underlying observations. Source locators are one-based OPF spine/image routes. The coordinator completed all 1,009 images; this synthesis records complete analytical-input integration, not independent complete visual coverage. Current remote Drive-byte equality remains unverified despite verified local witnesses.
 
@@ -91,3 +93,11 @@ At the endpoint Fujiwara calls the relationship in form and conditionally says a
 ## Integration boundary
 
 The dyad owns public form, stated utility, unequal enforcement, autonomy contrasts, and incomplete termination. The ensemble study and information specialist own full knowledge/audience transitions; the consent and agency specialists retain independent action-specific comparison. Individual reconstruction must preserve the narrow failed demand mechanisms and distinguish testimony from a complete internal decision model. Coordinator reconciliation and canonical acceptance are recorded by the authority metadata. Fresh completed-package adversarial review, final source/coverage validation and repository publication remain distinct required stages.
+
+## LateWinter extension — enduring consequence, unperformed formal ending
+
+NTR-JP-LW/S0006/I01 gives Yuma's retrospective attribution of photo spreading to Fujiwara and a new school aftermath. S0022/I01 supplies peers' continued knowledge. This strengthens the harmful information intervention's responsibility and consequences; neither is a fresh H→F or F→H negotiation. It does not show a new upload, copy destruction, victim-directed repair or Fujiwara remorse. The [LW source reading](../02%20Supplemental%20Readings/NTR_LATEWINTER_DEEP_READING.md), INF-0038/0040 and CLM-0042 retain the difference between social knowledge and technical file persistence.
+
+Hotaru's explicit Y-selective interest at S0014 gives a stronger present attachment account than an unqualified inference of her indifference. It does not perform the H/F breakup missing at V06 or enumerate every earlier arrangement motive. Father noninterest/childhood loneliness S0011–0012 contextualize how she now describes attachment; they do not prove that she joined Fujiwara solely for one reason, that every request was permitted or that harmful treatment became ethically acceptable because she wanted someone else. CLM-0040–0041 and REL-0039–0040 preserve those boundaries.
+
+Thus the directional update is asymmetric: H's current Y interest is observed; F's current H-related knowledge, desired outcome and reply are not. F-LW is only a retrospective evidence checkpoint, F-V06 his last observed state. H/F formal disposition remains OPEN, with the six-volume in-form/conditional-exit testimony preserved. No invented immediate breakup, jealous sequel action or redeemed departure fills an absent scene. The mainline literary and coercive-enforcement account remains intact; this appendix adds consequence and a limit, not a second full dyad essay. (Whole LW witness; CON-0044, INF-0041, CAST-0038, CLM-0046.)

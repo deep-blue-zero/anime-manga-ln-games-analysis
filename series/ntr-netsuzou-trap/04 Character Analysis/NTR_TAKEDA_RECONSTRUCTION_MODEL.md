@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-10-01"
-source_boundary: "Japanese numbered manga V01–V06, including explicitly routed embedded material; no external supplements or adaptation"
+source_boundary: "Frozen Japanese V01–V06 body plus separately admitted NTR-JP-LW current supplemental state/visibility appendix; other sources excluded"
 basis_commit: 8fe1601ba53d3188848b9fa58c9b5fc14f36a15d
 corpus_commit: 50f7e15b331d39e4df16f9b8d62b358933bffe83
 review_state: COORDINATOR_ACCEPTED_FOR_COMPLETED_PACKAGE_REVIEW
@@ -19,6 +19,8 @@ model_state: POSTCORPUS_UNTESTED
 ---
 
 # Takeda reconstruction: reciprocal affection under changing information
+
+**Current scope note:** the original body below retains its V01–V06 source, authorship and untested-at-release statements. The final LW appendix is the current supplemental update after held-out scoring; old states, rule text and results are preserved.
 
 **Canonical local model; POSTCORPUS_UNTESTED development.** This model reconstructs the Japanese manga's source-identified Takeda at specified V01–V06 states. It is not an actor voice, a diagnosis, a first-name expansion, a global capability assessment or a license to invent future life. The [evidence ledger](NTR_TAKEDA_EVIDENCE_LEDGER.md) supplies selective retrieval; the [monograph](NTR_TAKEDA_MONOGRAPH.md) explains his literary trajectory. Historical forecasts retain their literal identity and score. This model's newer rules are explicitly separate.
 
@@ -103,3 +105,13 @@ Written characterization permits direct questions, ordinary casual male peer spe
 | Interiority/negative evidence | **BOUNDED** access to disappointment, hope, following guilt and endpoint feeling; real contradictions enumerated. | Missing complete motive is an evidence gap; observed intrusion/violence is contrary evidence to idealization. |
 
 Possible future stress probes may ask whether T differentiates care from a dating claim after refusal, or whether an ordinary aide request is feasible when he is ill. These are **proposed tests, NOT_RUN**. They supply no success evidence. The complete final Yuma/Hotaru models have now been received and compared with this model: **CROSS_MODEL_CONSISTENCY = PASS_BOUNDED_AUTHOR_STAGE**. The [validation audit](../07%20Audits%20and%20Handoffs/NTR_LOCAL_RECONSTRUCTION_VALIDATION_AUDIT.md) binds their exact hashes and records scope and untested-rule limits. Coordinator semantic acceptance is recorded by current authority metadata; final completed-package adversarial review remains separate. Endpoint return/teacher/inner-speech boundaries and unresolved full-history knowledge remain mandatory.
+
+## LateWinter extension — separate from the frozen mainline body
+
+All SNNNN references below expand to **NTR-JP-LW/SNNNN/I01**. Complete visual observation and original PC scoring were committed at **604d3865265d8dd7753ce32141d4fe32d9fde9c6** before this appendix was written. [The held-out audit](../07%20Audits%20and%20Handoffs/NTR_LATEWINTER_RECONSTRUCTION_VALIDATION_AUDIT.md) retains every original rule, inhibitor, first-window reason and result. V01–V06 state gates, R results and original PC text above remain historical and byte-preserved. This appendix supplies current supplemental authority; it does not teach the original test retroactively.
+
+### T-LW — NOT_OBSERVED; retain T-V06 as last observed state
+
+All 24 LW images were checked; T neither appears, speaks nor is named. This label is a **supplemental visibility checkpoint**, not a new positive psychological snapshot. Current knowledge, relationship obligations, desired outcome, avoidance, options, constraints and decisions remain unobserved after T-V06. No changed romance, universal acceptance, friendship continuation, academic result or adulthood is invented from absence. The girl's present relationship supplies no new T response.
+
+**Original tests:** T-PC01–T-PC05 all NDO, respectively no romantic-discomfort window, ordinary aid opportunity, uncertainty-advice exchange, new H-recipient naming response or F beneficiary-defense exchange. Five reviewed, zero diagnostic outcomes. T-R01 bounded support and T-R02–T-R05 NDO stay historical. Native care/recognition candidates survive as untested candidates; no rule is newly weakened/falsified by an absent subject. **New LW rules: none.** [Coverage audit](../07%20Audits%20and%20Handoffs/NTR_LATEWINTER_CLAIM_PROPAGATION_AND_COVERAGE_AUDIT.md), INF-0041/CAST-0038 and the [character addendum](NTR_LATEWINTER_CHARACTER_ADDENDA.md) preserve this limit. No global grade or evidence-ledger filler is added.

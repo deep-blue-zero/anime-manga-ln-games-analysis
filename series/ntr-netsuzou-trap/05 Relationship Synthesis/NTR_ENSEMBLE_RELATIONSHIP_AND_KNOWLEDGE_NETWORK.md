@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
 created: "2026-10-01"
-source_boundary: "Japanese manga V01–V06 frozen; embedded narrative extras separately routed; no external supplements or adaptation"
+source_boundary: "Frozen Japanese V01–V06 relationship body plus appended NTR-JP-LW current-continuity extension; other sources excluded"
 canonical_home: series/ntr-netsuzou-trap/05 Relationship Synthesis/NTR_ENSEMBLE_RELATIONSHIP_AND_KNOWLEDGE_NETWORK.md
 drafted_against_commit: 8fe1601ba53d3188848b9fa58c9b5fc14f36a15d
 mainline_freeze_commit: 50f7e15b331d39e4df16f9b8d62b358933bffe83
@@ -20,6 +20,8 @@ stage_state: COORDINATOR_ACCEPTED_FOR_COMPLETED_PACKAGE_REVIEW
 ---
 
 # Intimate knowledge, borrowed authority, and the audience
+
+**Current scope note:** all original sections below describe the V01–V06 release and retain their historical limits. The final LateWinter appendix supplies the separately admitted current-continuity update; it does not rewrite the mainline endpoint.
 
 This canonical synthesis owns the ensemble's relational and epistemic topology, including the consequential Takeda–Fujiwara friendship. It does not substitute for the three major dyad studies or the information/exposure specialist. It integrates the complete six-volume readings, freezes, and eight ledgers against the committed role-gap audit. The coordinator inspected all 1,009 originals in strict order; this author has integrated that record and performed bounded original verification, without claiming an independent complete primary reread. Coordinates are exact Japanese-witness/one-based OPF spine/image routes. Local witnesses are verified; current Drive-byte equality remains unverified.
 
@@ -112,3 +114,27 @@ The embedded S0166 school return and S0167 notes/study/food/hug scenes are a dis
 ## Integration responsibility
 
 This file owns the consequential channels between people and audiences, the Takeda–Fujiwara friendship, and the distinction between knowledge and authority. The exposure specialist owns detailed object/disclosure ethics; the dyads own directional attachment; the material specialist owns comparative resources and labor; the form and written-language specialists own their independent formal explanations. All claims here retain the closed ledger/freeze scores and subject-access limits. Coordinator reconciliation and canonical acceptance are recorded by the authority metadata. Fresh completed-package adversarial review, final source/coverage validation and repository publication remain distinct required stages.
+
+## LateWinter network extension — a wider audience without a common account
+
+NTR-JP-LW/S0001–0024/I01 is the sole new witness. Complete original-model scoring was sealed at 604d3865265d8dd7753ce32141d4fe32d9fde9c6 before this extension. [The deep reading](../02%20Supplemental%20Readings/NTR_LATEWINTER_DEEP_READING.md) and INF-0036–0041 retain the new proposition routes. Earlier sections are the frozen mainline network; the table below supplies the current supplemental delta.
+
+| Direction/channel | New evidence and classification | Who is not shown acquiring it |
+|---|---|---|
+| H → teacher/school | Apology and current attendance S0005; POST_V06_STATE | No institutional inquiry, academic settlement or graduation result |
+| Father → enrollment, reported through Y | Apparently unsubmitted withdrawal S0005; RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE | No verified father intention, submission scene or deliberate rescue |
+| H → Y family/self-account | Present father absence/indifference, girlfriend dislike by report, remembered childhood loneliness S0005/0011–0012 | Father's/girlfriend's own account; old private anti-burden sentence not newly transmitted |
+| Y → H social prescription; H → Y reply | Try interest in friends, first objection/analogy S0009–0010 | No guaranteed general consent to care or mastered severe refusal |
+| H → Y ordinary care / selective interest | Coat reception/hanging S0012; plain Y-specific claim/initiative S0013–0018 | No agreed exclusion of all other relations or categorical sexuality label |
+| Y interior → reader | Partial past recognition S0015 and broader-attachment hope/qualified loneliness S0019 | H does not hear the inward hope; Y's nonanswer S0020 retains it |
+| F past dissemination → school/peer interpretation | Y attribution and odd looks S0006; extra S0022 | No new F decision, exact channel/all reach/current file inventory |
+| 葉々/砂羽子 → each other/reader | Photo-based relation inference, liberty rhetoric, H-specific dislike and rebuttal S0022 | Girls are not shown hearing literal aside; neither boy hears it |
+| T ↔ F | No new exchange in whole witness | No severance, repair, beneficiary-defense response or future disposition |
+
+The new named friends are supporting nodes with different positions. The meal invitation includes Hotaru rather than treating her as outside every social option. The extra then separates category tolerance from approval of this partner: 葉々 claims she will not interfere in a girls' relation, objects to Hotaru and is challenged by 砂羽子. The source makes noninterference rhetoric contestable within the peer world itself. This is a meaningful extension of the mainline's heterogeneous public, not universal acceptance or a universal homophobia explanation. These peers infer from exposure, without a depicted voluntary shared disclosure by the girls. The extra is post-exposure and compatible with school return; its exact placement relative to the visit remains uncertain. (LW S0007–0008/0022; REL-0043, INF-0040, JPS-0033/0036, VIS-0039; CLM-0043.)
+
+The father's paperwork non-action also revises causality without improving every subject's motive. School continuity survives partly because an intended withdrawal was apparently not formally submitted. That can benefit Hotaru while remaining neglect rather than deliberate paternal protection; the narrated qualification prevents treating the father as a reliable new care provider. His girlfriend's dislike is Hotaru's account, and Yuma's reason for neglect is her inference. Direct speech gives Yuma more access than the private reader-facing V06 family sequence did, but does not make her omniscient or cancel Hotaru's independent preferences. (LW S0005/0011–0012; INF-0036–0037, AGY-0032; CLM-0038/0040.)
+
+The boys' absent responses are a substantive limit on current topology. Takeda's last depicted recognition/beneficiary rejection and Fujiwara's last in-form account/culpability minimization remain recoverable. Continued social knowledge of Fujiwara's action cannot invent his present accountability, and the private girls' scene cannot settle H/F formal termination or T/F friendship. Their ten PC hypotheses have no diagnostic LW outcome. This is narrower than total model validation, not lesser source coverage. (Whole LW witness; INF-0041, CAST-0038, CLM-0044/0046.)
+
+Current continuity therefore has more audible selected attachment and still unequal knowledge. Yuma can want broader welfare while leaving Hotaru uninformed of it; peers can recognize a relation while contesting their own noninterference; the photo can keep social effects after removal without proving a surviving file. The network's question—who may speak or decide for whom—continues inside ordinary after-story life. [The broader synthesis](../06%20Series%20Synthesis/NTR_BROADER_MANGA_CONTINUITY_SYNTHESIS.md) integrates that continuity while the six-volume network above remains its historical baseline.

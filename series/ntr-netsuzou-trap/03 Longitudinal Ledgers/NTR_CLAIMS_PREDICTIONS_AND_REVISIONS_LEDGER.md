@@ -10,11 +10,13 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V06; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Frozen Japanese V01–V06 historical prefix plus appended NTR-JP-LW supplemental evidence; source/state times distinguished"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 ---
 
 # Claims, predictions, and revisions
+
+**Current scope note — 2026-10-01:** the V01–V06 body and its old bootstrap/current-stage statements below retain their historical scope. The final LateWinter section separately extends this instrument after complete reading and original-model scoring at 604d3865265d8dd7753ce32141d4fe32d9fde9c6. Earlier IDs, wording and forecast results are unchanged.
 
 **Responsibility:** preserve material hypotheses, prospective predictions, counterreadings, and the visible history of later adjudication. Include claims that affect interpretation, ethics, relationships, formal patterns, or promoted models; exclude every trivial factual observation already localized in a deep reading. Separate observation, inference, speculation, and value judgment. The truth at a VNN boundary and later revised interpretation can coexist without falsifying the prospective record.
 
@@ -257,3 +259,51 @@ REVISE CLM-0028: FUJIWARA feed/origin claim S0003, H posting attribution S0020, 
 ### CLM-0037 — A speakable relation leaves authority, trust and ordinary sustainability unsettled
 
 RETROSPECTIVE_SYNTHESIS, not a new source observation or successful forecast. Integrates CLM-0005/0011/0016/0021/0022/0033–0036 into the [full-series argument](../06%20Series%20Synthesis/NTR_FULL_SERIES_SYNTHESIS.md), four distinct character trajectories, three dyads/ensemble and six specialist responsibilities. V01 S0009–0010/0019–0022/0055/0069–0072; V02 S0081–0082/0110–0117/0123–0135; V03 S0033–0035/0099–0105/0132–0133; V04 S0078–0085/0118–0129/0134–0146; V05 S0020–0034/0050–0056/0096–0100/0138–0153; V06 S0003–0034/0050–0071/0093–0118/0137–0162 plus separately identified S0166–0167 support changing acknowledgment, act-specific permission, real but insufficient alternatives, truth without disclosure entitlement, and material costs of pursuit. OBSERVED choices/accounts and INFERRED motives remain distinct. Later desire neither supplies earlier consent nor becomes unreal because earlier harm occurred. Yuma hears Fujiwara's attributed V04 S0124 report, not Takeda's private S0118 wording; V06 S0158 cohabitation proposal is Yuma's and conditional, S0159–0160 distrust acceptance/repeated-help resolve is inward. Strong counterreadings are latent-romance revelation, dependency consolidated by intrusive care, and melodramatic contrivance; none authorizes complete motive, repaired trust, equal refusal power or achieved adult household claims. Original hypotheses, literal failures/NDO and all freeze bytes remain untouched. Four mature models' 24 PC development rules remain POSTCORPUS_UNTESTED. Fresh adversarial review and final claim/coverage validation are separate gates.
+
+## LateWinter supplemental records — NTR-JP-LW
+
+All SNNNN locators in this section expand to **NTR-JP-LW/SNNNN/I01**. [Complete reading](../02%20Supplemental%20Readings/NTR_LATEWINTER_DEEP_READING.md) owns scene context; this instrument owns only its declared dimension. Original records above remain the complete mainline prefix.
+
+### CLM-0038 — Later school state and paperwork revise current explanation, not V06
+
+**REVISE / PRESERVE.** NTR-JP-LW S0005–0006: actual school return continues near graduation; withdrawal apparently unsubmitted by father is later Y testimony about an earlier event. V06 already established school return in its extra (CLM-0035), but not this explanation or two/three-month horizon. No intended paternal rescue or completed institutional repair follows. INF-0036, AGY-0032, VIS-0036. Current continuity extends; frozen endpoint unchanged.
+
+### CLM-0039 — Autonomy survives a verbal prescription without a completed override
+
+**STRENGTHEN / OPEN** CLM-0016/0034. S0007–0010 H declines meal and first rebuts Y's effort/friendship prescription. H-PC-04 gains only independent-social-choice SUPPORTED_BOUNDED; H-R04's specific childhood/work trigger remains untested. Y's final noncompulsion is bounded contrary evidence to an always-overrides reading, not certified restraint under serious refusal/privacy/work cost. REL-0038, CON-0040–0041, AGY-0033–0034; all severe-domain questions OPEN.
+
+### CLM-0040 — Selective attachment and later self-accounts strengthen a partial explanation
+
+**STRENGTHEN / OPEN** CLM-0006/0021/0033/0037. S0012–0018 direct H interest in Y, H's childhood loneliness and Y's longstanding partial-awareness account supply direct/retrospective evidence. Present mutual attachment is stronger; every early motive, exact onset, injury causes and V01 room willingness remain OPEN. Literal direct interest is not an explicit new need request, orientation taxonomy or durable exclusivity agreement. REL-0039–0041, INF-0037/0039, JPS-0032/0034–0035.
+
+### CLM-0041 — Current intimacy preserves the chronological permission distinction
+
+**PRESERVE** CLM-0005/0011/0022/0034. S0013–0018 H initiates and Y shows desire; no explicit new refusal, advance permission question or general protocol appears. Accept current reciprocity while neither inventing a new demonstrated refusal violation nor retroactively authorizing old acts. S0015 partial recognition is not consent. CON-0042/0044, AGY-0035. Full repair and negotiated boundaries OPEN.
+
+### CLM-0042 — Later attribution and aftermath strengthen agency, not technical certainty
+
+**STRENGTHEN / OPEN** CLM-0028/0036. S0006 Y attributes photo spreading to F; peer gaze and S0022 discussion persist after return. This supplies additional later narration and social consequences, not another dispatch, continued current file circulation or all-copy preservation/destruction. Exposure's causal role still does not authorize it. INF-0038/0040, CON-0044, AGY-0037, FEV-17. Old demand-mechanism misses remain fixed.
+
+### CLM-0043 — Current audience is differentiated rather than universally accepting
+
+**REVISE current audience map / STRENGTHEN mainline heterogeneity.** S0007–0008 friends include H; S0022 葉々 invokes girls' freedom yet dislikes H, 砂羽子 contests noninterference. This adds named, unequal positions; their aside is not shown heard by girls. No agreed public status, complete voluntary disclosure or universal hostility/acceptance. REL-0043, INF-0040, VIS-0039, JPS-0033/0036. Any universal-acceptance candidate is REJECT, not an old canonical claim falsely rewritten.
+
+### CLM-0044 — Original model scoring is sealed before LW development
+
+**PRESERVE sealed original results; STRENGTHEN H-PC-04 and bounded practical-care evidence; REVISE the H-PC-05 exclusion explicitly.** Pre-admission seal 882a66c6f48a0b66e4e0679b47417e61c77f61fd precedes reading. Complete reading/original scoring seal **604d3865265d8dd7753ce32141d4fe32d9fde9c6** precedes all current model appendices. [Held-out audit](../07%20Audits%20and%20Handoffs/NTR_LATEWINTER_RECONSTRUCTION_VALIDATION_AUDIT.md) preserves 24 original texts and first-window reasons: 0 SUPPORTED, 1 SUPPORTED_BOUNDED, 0 PARTIAL, 0 FAILED, 17 NDO, 4 NOT_APPLICABLE, 2 INSUFFICIENT_VISIBILITY. Those are the immutable original checkpoint totals. Fresh adversarial review found the overlooked S0012 coat reception/hanging: an ordinary task under H-PC-05's literal condition, with practical service observed but task-specific competence contrasts untested. [The correction audit](../07%20Audits%20and%20Handoffs/NTR_LATEWINTER_ADVERSARIAL_INTEGRATION_AUDIT.md) retains the original NDO and records current H-PC-05 **PARTIAL**. Current totals are **0 SUPPORTED, 1 SUPPORTED_BOUNDED, 1 PARTIAL, 0 FAILED, 16 NDO, 4 NOT_APPLICABLE, 2 INSUFFICIENT_VISIBILITY**. S0009 is the first choice window and S0012 the first depicted ordinary task performance; later closeness is not substituted. No older R gains a new score; whole-source inspection is not whole-model validation. New Y/H LW rules are POST_LATEWINTER_UNTESTED, never validated on their generating scenes.
+
+### CLM-0045 — Control/dependency counterreading gains centrality evidence and real limits
+
+**STRENGTHEN conditional counterreading / DOWNGRADE totalizing version / OPEN durability.** CLM-0035/0037, S0009–0010/0014–0020: H objects to manufactured friendship, directly privileges Y, and Y hopes for a wider H world while anticipating her own loneliness, then withholds it. Real attachment and present pleasure are accepted. Selective centrality/unequal information can reward closed dependence; H agency and Y wider-welfare concern limit total captivity or wholly selfish care readings. No forced attendance follows, but no difficult later boundary trial proves reliable restraint. REL-0042, CON-0043, INF-0039, AGY-0036, VIS-0038. The stronger control counterreading does not need affection to be false.
+
+### CLM-0046 — The conditional future remains conditional after the supplement
+
+**PRESERVE / OPEN** CLM-0035/0037. Whole NTR-JP-LW S0001–0024, positive near-graduation limit S0006 and visit S0011–0020: no graduation/admission/adult trajectory, lease/shared home, current work/income sustainability, comprehensive intimacy/disclosure/exclusivity agreement, repeated trust/repair or formal H/F ending. T entirely absent; F has no current decision. An apartment visit/repose is not cohabitation. [Coverage audit](../07%20Audits%20and%20Handoffs/NTR_LATEWINTER_CLAIM_PROPAGATION_AND_COVERAGE_AUDIT.md) separately examines all 24 questions captured in the seal. No substitute supplement is admitted to answer them.
+
+### CLM-0047 — Several independent extensions warrant a separate broader synthesis
+
+**REVISE current analytical boundary / PRESERVE mainline responsibility.** S0005–0010 changes school/friendship/autonomy practice; S0011–0020 adds direct selective attachment, retrospective self-account and withheld broader-care hope; S0006/0022 adds enduring exposure/differentiated public; framing/register organize their unequal knowledge. These independently extend character/relationship, information/public, material chronology and ethical/formal ending responsibilities. A [broader-continuity synthesis](../06%20Series%20Synthesis/NTR_BROADER_MANGA_CONTINUITY_SYNTHESIS.md) is warranted even without an adult timeskip. It answers current V01–V06+LW continuity and does not replace or rewrite the six-volume synthesis. The [LW integration](../06%20Series%20Synthesis/NTR_LATEWINTER_SUPPLEMENTAL_INTEGRATION.md) owns the delta rather than duplicating full mainline recap.
+
+### CLM-0048 — Overbroad sequel candidates are rejected without inventing old claims
+
+**REJECT new candidates / DOWNGRADE overreadings.** All-source control check, especially S0006/0012–0014/0019–0022: H cares about nobody, all friends approve, girls have negotiated lifetime exclusivity, cohabit as adults, or have completed repair are unsupported candidates. Direct selective interest contradicts universal apathy; mixed peer positions contradict universal approval; near-graduation state contradicts depicted-adult claims. Absence of a contract/home is insufficient support, not proof those future events will never occur. These were not accepted mainline propositions. CLM-0038–0046 preserve the narrower positive evidence and open futures.

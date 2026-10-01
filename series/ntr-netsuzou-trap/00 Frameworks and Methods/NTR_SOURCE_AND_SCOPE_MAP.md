@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Six numbered Japanese EPUBs CLOSED and frozen; NTR-JP-LW separately ADMITTED and visually INSPECTED 24/24; remote hash limitations preserved"
+source_boundary: "Six numbered Japanese EPUBs CLOSED and frozen; NTR-JP-LW separately ADMITTED / INSPECTED 24/24 / CLOSED after bounded analytical integration; remote hash limitations preserved"
 canonical_home: series/ntr-netsuzou-trap/00 Frameworks and Methods/NTR_SOURCE_AND_SCOPE_MAP.md
 ---
 
@@ -60,7 +60,7 @@ After V06 is individually closed and its **mainline state frozen**, one verified
 
 | Source key | Exact filename / Drive identity | Bytes / local SHA-256 | Verified current state |
 |---|---|---|---|
-| `NTR-JP-LW` | `NTR - Netsuzou Trap - LateWinter [Japanese].epub`; `1OEGPdDprGkU7WVnItseHkTjkMtlTIz7X`, parent `1jJBFGXROchjVNUeuy4oXRi3PDHCTCF4H` | 13,260,813; `f2d70cdffaa8d15031bdec7b097a077662e7618791db265eec4a2141345e4a2d` | STRUCTURALLY_VERIFIED / ADMITTED / INSPECTED **24/24**; original held-out scores frozen before model development |
+| `NTR-JP-LW` | `NTR - Netsuzou Trap - LateWinter [Japanese].epub`; `1OEGPdDprGkU7WVnItseHkTjkMtlTIz7X`, parent `1jJBFGXROchjVNUeuy4oXRi3PDHCTCF4H` | 13,260,813; `f2d70cdffaa8d15031bdec7b097a077662e7618791db265eec4a2141345e4a2d` | STRUCTURALLY_VERIFIED / ADMITTED / INSPECTED **24/24** / CLOSED supplemental analytical boundary; original scores sealed before development, explicit fresh-review correction separate |
 
 The [LateWinter source/freeze audit](../07%20Audits%20and%20Handoffs/NTR_LATEWINTER_SOURCE_AND_FREEZE_INTEGRITY_AUDIT.md) owns full provenance and preservation. OPF **捏造TRAP-LateWinter- / コダマナオコ / ja**; cover 2017 winter/C93 Monaco Meister; creator foreword explicitly final-episode after-story; digital colophon credits Number Nine sales cooperation. Authorized retail metadata lists the later Number Nine/百合コレ digital release 2023-03-24 and 24-page extent. Exact original physical day and across-edition differences remain unverified. Fresh Drive metadata/reference confirms ID/name/size; materialization returned HTTP 403 and no current remote checksum was independently obtained.
 

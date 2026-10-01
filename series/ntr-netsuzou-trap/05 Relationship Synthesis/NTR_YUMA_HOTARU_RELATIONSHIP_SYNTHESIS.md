@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
 created: "2026-10-01"
-source_boundary: "Japanese manga V01–V06 frozen; embedded narrative extras separately routed; no external supplements or adaptation"
+source_boundary: "Frozen Japanese V01–V06 relationship body plus appended NTR-JP-LW current-continuity extension; other sources excluded"
 canonical_home: series/ntr-netsuzou-trap/05 Relationship Synthesis/NTR_YUMA_HOTARU_RELATIONSHIP_SYNTHESIS.md
 drafted_against_commit: 8fe1601ba53d3188848b9fa58c9b5fc14f36a15d
 mainline_freeze_commit: 50f7e15b331d39e4df16f9b8d62b358933bffe83
@@ -20,6 +20,8 @@ stage_state: COORDINATOR_ACCEPTED_FOR_COMPLETED_PACKAGE_REVIEW
 ---
 
 # Access, recognition, and the unfinished terms of staying
+
+**Current scope note:** all original sections below describe the V01–V06 release and retain their historical limits. The final LateWinter appendix supplies the separately admitted current-continuity update; it does not rewrite the mainline endpoint.
 
 This is a canonical relationship synthesis accepted by the coordinator. Its responsibility is the **directional interaction system** between Yuma and Hotaru, rather than either person's complete psychology or a general verdict on intimacy. The [relationship ledger](../03%20Longitudinal%20Ledgers/NTR_RELATIONSHIP_DESIRE_AND_ATTACHMENT_LEDGER.md), [consent ledger](../03%20Longitudinal%20Ledgers/NTR_CONSENT_BOUNDARY_INTIMACY_AND_COERCION_LEDGER.md), and six [sequential readings](../01%20Sequential%20Readings/) retain the detailed record. Coordinates below are exact witness/one-based OPF spine/image routes, not conventional printed pages. The coordinator inspected all 1,009 images in order; this synthesis integrates that closed record and does not claim another complete primary reread. Local witness integrity is verified; current Drive-byte equality remains unverified.
 
@@ -92,3 +94,37 @@ At mainline **fin S0162**, Yuma's recipient and willingness to choose are explic
 ## Responsibility boundary for integration
 
 This study owns interaction, directional attachment, competing definitions, and what staying changes. Consent/repair, information/exposure, agency/material constraints, visual recurrence, written categories, and ending causality retain their separately commissioned specialist responsibilities. Character ledgers/models/monographs must preserve subject-specific knowledge and distinguish these relational interpretations from prospectively validated behavioral rules. Coordinator reconciliation and canonical acceptance are recorded by the authority metadata. Fresh completed-package adversarial review, final source/coverage validation and repository publication remain distinct required stages.
+
+## LateWinter extension — ordinary closeness and the unshared wish
+
+This appendix extends the frozen mainline relation with **NTR-JP-LW**, fully read/scored before model updates at commit **604d3865265d8dd7753ce32141d4fe32d9fde9c6**. SNNNN below means NTR-JP-LW/SNNNN/I01. [The reading](../02%20Supplemental%20Readings/NTR_LATEWINTER_DEEP_READING.md) owns scene context; REL-0038–0043, CON-0040–0044 and [the current-continuity integration](../06%20Series%20Synthesis/NTR_LATEWINTER_SUPPLEMENTAL_INTEGRATION.md) own the shared evidence/delta. None changes what the mainline section established at its release.
+
+### Yuma → Hotaru: care for a wider world still competes with indispensability
+
+Yuma's friendship advice moves the autonomy problem into an ordinary social preference. Hotaru declines the cafeteria invitation and Yuma subsequently asks why she does not make friends or try taking interest. The advice is intelligible as concern for isolation, but its subject is something Hotaru has just declined. The first Hotaru answer questions Yuma's prescription and refuses that interest; the later mathematics/politics/cricket analogy forces Yuma to confront the difference between preferring a good for someone and producing their preference by instruction. No compelled attendance follows. Yuma is therefore neither depicted enacting another completed override nor shown mastering refusal across all domains. The important positive result is a preference disagreement that remains a conversation. (LW S0007–0010; REL-0038, CON-0040–0041, AGY-0033–0034; H-PC-04 SUPPORTED_BOUNDED.)
+
+The closing wish complicates any simple claim that Yuma merely wants Hotaru isolated. She inwardly wants Hotaru someday to value family or friends, while acknowledging that she herself would feel lonely. Wider welfare and the reward of unique centrality occupy the same thought. This extends the mainline protector pleasure more precisely than either redemption or selfishness alone: she can recognize a good beyond being needed and remain attached to being needed. When Hotaru asks about her expression, Yuma says nothing. The wish is not an agreement that Hotaru will cultivate other bonds, and its qualification is not known to Hotaru. At most, nonstatement prevents an immediate new mandate. It leaves open whether future care becomes responsive negotiation or quietly retained authority. (LW S0019–0020; REL-0042, CON-0043, INF-0039, AGY-0036; CLM-0045.)
+
+### Hotaru → Yuma: direct specialness does not require accepting the prescribed social life
+
+Hotaru's group refusal includes apology and later-contact language. She can decline an activity while preserving the partner relation, rather than vanish from both. But the cut to their later outdoor walk hides Yuma's immediate response. It cannot prove that Yuma ate with her friends, followed Hotaru at once or sustained a mutually agreed separation. Refusal is observed; a complete two-person separation practice is not. The held-out audit accordingly gives no access-pursuit or ordinary-care score from that cut. (LW S0008–0009; AGY-0033, VIS-0036; Y-PC-01 NDO, Y-PC-06 INSUFFICIENT_VISIBILITY.)
+
+At the apartment, Hotaru corrects Yuma's universal nobody-interest inference with plain interest in Yuma alone. This is a meaningful post-acknowledgment relation state. The familiar initiative no longer needs the local practice/unnamed-person account, and the spoken recipient is clear. Her refusal to manufacture unrelated friendship is compatible with wanting the person already chosen. It does not make the selective claim a full exclusivity contract, an orientation label, a new explicit need request, or proof that she can tolerate future disappointment without retreat. The first direct-interest exchange is new developmental evidence; H-LW-R01 cannot validate itself on it. (LW S0012–0018; REL-0039, AGY-0035, JPS-0032; CLM-0040/0044.)
+
+H's father account and remembered childhood loneliness become more directly available to Yuma here than the mainline's private reader-facing family scenes. This strengthens their shared understanding but keeps testimony attributed. Yuma's partial-awareness narration similarly gives the reader her later interpretation of earlier knowledge; it does not date a complete earlier mutual agreement or give Hotaru every thought. Hotaru also receives and hangs Yuma's coat before private intimate initiative. This mundane H→Y service prevents care from being assigned solely to Yuma; it does not settle the proposed household or competence across tasks. Fresh review gives H-PC-05 only PARTIAL support for that care branch, preserving its original mistaken NDO checkpoint. (LW S0012; HEL-0036, AGY-0035, CLM-0044.) Greater closeness produces some fuller accounts and still leaves consequential asymmetries. Hotaru can ask about an expression without knowing the wish behind it. (LW S0005/0011–0012/0015–0016/0019–0020; REL-0040–0042, INF-0037/0039.)
+
+### Desired closeness, permission and commitment keep distinct evidence thresholds
+
+Hotaru initiates private bodily approach and Yuma's response is receptive and inwardly attracted. The scene supports real current desire. It supplies neither a new explicit refusal violation nor a shown comprehensive advance-permission procedure. Accepting that desire is necessary to read the source fairly; it cannot retrospectively authorize earlier contact over objection, investigative intrusion, painful pulling or the photograph. Likewise, staying at the apartment for a visit and repose does not establish a shared residence. The only relationship facts added are those actually performed or stated in the short continuation. (LW S0013–0020; CON-0042/0044, CLM-0041/0046.)
+
+| Dimension | LW establishes | Still open |
+|---|---|---|
+| Affection/desire | Selective H interest, Y attraction, reciprocal private closeness | Exhaustive earlier motives/onset, every act's permission |
+| Choice/autonomy | Clear group refusal, first social-preference objection, no forced attendance drawn | Response to serious work/privacy refusal, repeated separation tolerance |
+| Care/knowledge | H coat hospitality, direct family account, Y wider-welfare hope, H question | Hope communicated/agreed, equal informational access, reliable restraint |
+| Commitment/exclusivity | Continued near-ending attachment | Durable exclusive terms, full repair/trust, H/F formal end |
+| Material household | Current school and apartment visit | Graduation/admission, lease/cohabitation, income/work sustainability |
+
+### The strongest control counterreading accepts the tenderness
+
+The mainline counterreading does not depend on romance being false. LW adds a gratifying concentration of Hotaru's investment in Yuma and Yuma's admitted ambivalence about losing that concentration. The intimate ending can reward the closed dyad while withholding the negotiation that might make it less closed. That is additional evidence for dependency as an unresolved relationship structure. It is not a new depicted forced-isolation act: Hotaru's preference is her own speech, Yuma imagines a wider welfare, and no compelled meal follows. These limits weaken a total captive/wholly selfish account while leaving the stronger conditional claim intact. Future tested refusals would be needed to decide whether the relation develops reliable freedom inside attachment. The observed LW boundary is more direct selective closeness with an unshared concern, not completed ethical transformation. (LW S0009–0010/0014–0020; CLM-0045.)

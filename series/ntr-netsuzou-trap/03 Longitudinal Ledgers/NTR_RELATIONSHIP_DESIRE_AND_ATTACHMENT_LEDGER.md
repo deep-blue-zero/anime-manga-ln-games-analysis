@@ -10,11 +10,13 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V06; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Frozen Japanese V01–V06 historical prefix plus appended NTR-JP-LW supplemental evidence; source/state times distinguished"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_RELATIONSHIP_DESIRE_AND_ATTACHMENT_LEDGER.md
 ---
 
 # Relationship, desire, and attachment
+
+**Current scope note — 2026-10-01:** the V01–V06 body and its old bootstrap/current-stage statements below retain their historical scope. The final LateWinter section separately extends this instrument after complete reading and original-model scoring at 604d3865265d8dd7753ce32141d4fe32d9fde9c6. Earlier IDs, wording and forecast results are unchanged.
 
 **Responsibility:** dated, directional A→B relationship states, independently from B→A. Source boundary is admitted numbered Japanese manga volumes only. Include material changes to public label, private understanding, attraction, sexual desire, romantic attachment, jealousy, exclusivity expectation, dependency, resentment, trust, fear of loss, desired future, perceived availability, boundaries, concealment, rupture, repair, and third-party effects. Preserve incompatible coexisting qualities without cancellation. Exclude adjudication of consent at a particular intimate event (CON), proposition-level knowledge (INF), and individual pursuit actions (AGY); link their IDs.
 
@@ -193,3 +195,31 @@ OBSERVED: H clutches Y's coat S0157, Y proposes living together if admitted S015
 ### REL-0037 — Embedded return comedy preserves care asymmetry and T's separate feeling
 
 S0166–0167 are embedded post-return body-cover gags: H back at school/apologizing for absence, T distinguishes his racing heart from romance, Y urges notes/food and H asks 抱っこ. Bounded later school state and playful caregiving are observed; no graduation or cohabitation proof, no new T romance/orientation certificate. Y's mother comparison is inward humor, not a diagnosis. Not independent prospective validation.
+
+## LateWinter supplemental records — NTR-JP-LW
+
+All SNNNN locators in this section expand to **NTR-JP-LW/SNNNN/I01**. [Complete reading](../02%20Supplemental%20Readings/NTR_LATEWINTER_DEEP_READING.md) owns scene context; this instrument owns only its declared dimension. Original records above remain the complete mainline prefix.
+
+### REL-0038 — Social preference remains Hotaru's choice
+
+**POST_V06_STATE; OBSERVED** H declines the friends' meal invitation with later-contact language, then rebuts Y's friendship prescription. Y→H concern seeks broader company; H→Y continues special attachment while refusing that proposed social practice. S0007–0010, first H objection S0009. The lunch outcome is cut, not proved pursuit or tolerated separation. No compelled group attendance is drawn. Links AGY-0033–0034, CON-0040–0041, CLM-0039; H-PC-04 bounded support only.
+
+### REL-0039 — Direct selective interest is present, exclusivity terms are not
+
+**POST_V06_STATE; OBSERVED** H answers Y's nobody-interest inference by naming interest in Y alone; Y's inward attraction and reciprocal closeness make the present direction mutual. S0012–0018. This is stronger direct selective speech after acknowledged attachment, not an agreement prohibiting every other bond or a categorical sexuality label. Hotaru's S0012 reception/hanging of Yuma's coat also performs ordinary H→Y care, without proving household mastery. Trust durability and act-specific permission remain separate. Links CON-0042, AGY-0035, JPS-0032, CLM-0040–0041/0044.
+
+### REL-0040 — Father indifference and childhood loneliness have attributed speakers
+
+**POST_V06_STATE / RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE.** H describes present paternal indifference/absence, says she now does not care, and says childhood was lonely. Y worries and infers neglect associated with the girlfriend. S0005,0011–0012. Direct H testimony strengthens family/attachment interpretation; it neither verifies the father's entire motive nor makes Y his substitute guardian. Links INF-0036–0037, JPS-0034, CLM-0040.
+
+### REL-0041 — Later recognition does not date complete earlier knowledge
+
+**RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE; OBSERVED self-account.** Y says she had long noticed somewhere in her heart, then interprets H's exclusive gaze in the present. S0015–0016. STRENGTHEN latent-recognition reading, not earlier explicit mutual acknowledgment, exact onset, every H motive or permission. Links INF-0039, JPS-0035, CLM-0040–0041; prior CLM-0021/0033 boundaries preserved.
+
+### REL-0042 — Wider welfare and special centrality coexist
+
+**POST_V06_STATE; OBSERVED interiority and nonanswer.** Y wishes H might someday value family/friends and admits that would make her a little lonely; H asks about her expression, Y says nothing is wrong. S0019–0020. Y→H care includes a life beyond herself; Y→H desire still prizes centrality. H→Y attention does not grant access to the thought. No shared change plan or broadened H network results. Links CON-0043, INF-0039, AGY-0036, CLM-0045.
+
+### REL-0043 — Friends recognize a relation while disputing the partner
+
+**POST_V06_STATE; exact relative chronology uncertain.** 葉々 and 砂羽子 infer the girls' relation from photos; 葉々 invokes individual freedom yet objects specifically to Hotaru, and 砂羽子 points out the interference. S0022; invitation S0007–0008. These are differentiated friend→girls positions outside the girls' shown hearing, not universal acceptance or uniformly hostile peers. Links INF-0040, VIS-0039, JPS-0036, CLM-0043.

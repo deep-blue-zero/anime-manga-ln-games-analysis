@@ -10,11 +10,13 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V06; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Frozen Japanese V01–V06 historical prefix plus appended NTR-JP-LW supplemental evidence; source/state times distinguished"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_INFORMATION_DECEPTION_INFIDELITY_AND_EXPOSURE_LEDGER.md
 ---
 
 # Information, deception, infidelity, and exposure
+
+**Current scope note — 2026-10-01:** the V01–V06 body and its old bootstrap/current-stage statements below retain their historical scope. The final LateWinter section separately extends this instrument after complete reading and original-model scoring at 604d3865265d8dd7753ce32141d4fe32d9fde9c6. Earlier IDs, wording and forecast results are unchanged.
 
 **Responsibility:** consequential propositions and their time-indexed distribution across verified subjects and audiences. Include represented truth, knowledge, suspicion, false belief, concealment/disclosure, lie versus omission versus ambiguity, and resulting actions or relationship changes. Track a belief about another's knowledge only when behavior depends on it. Record public/private couple status, explicit or well-supported exclusivity expectations, undisclosed outside intimacy, third-party knowledge, and disclosure responsibility as separate descriptive and ethical questions. Exclude consent-event permission (CON), durable pair affect (REL), and generic scene chronology; link them.
 
@@ -185,3 +187,31 @@ F denies knowing location S0107, calls H/F in-form arrangement S0109 and supplie
 ### INF-0035 — Search pretext and reaffirmed beneficiary defense remain different deceptions
 
 Y's textbook pretext S0116 grants access to clues without father's explicit address disclosure; chance encounter follows failed search S0126–0129. F's S0131 reference reaffirms wake-T justification; T rejects claimed benefit S0132. One deception seeks proximity, another manages publication responsibility. Later successful reunion does not establish either method's ethical permission.
+
+## LateWinter supplemental records — NTR-JP-LW
+
+All SNNNN locators in this section expand to **NTR-JP-LW/SNNNN/I01**. [Complete reading](../02%20Supplemental%20Readings/NTR_LATEWINTER_DEEP_READING.md) owns scene context; this instrument owns only its declared dimension. Original records above remain the complete mainline prefix.
+
+### INF-0036 — Unsubmitted paperwork supplies a later explanation of enrollment
+
+**RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE; Y narration.** H asked father to submit withdrawal; he apparently forgot. S0005. Reader/Y now have an explanation; teacher apology supplies actual current return, not knowledge of each prior conversation. No direct submission scene, deliberate paternal rescue or H plan to preserve enrollment is shown. Links AGY-0032, REL-0040, CLM-0038.
+
+### INF-0037 — Father and girlfriend accounts are not omniscient family facts
+
+**POST_V06_STATE / RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE.** H tells Y father is uninterested, has gone again, girlfriend apparently dislikes her, childhood was lonely and present father interest is gone. S0005,0011–0012. Y infers neglect for that reason. Direct speech changes Y's access without giving her the father's/girlfriend's own account or automatically the V06 private anti-burden call. Links REL-0040, JPS-0034, CLM-0040.
+
+### INF-0038 — Fujiwara attribution and social aftereffects strengthen without a new dispatch
+
+**RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE** Y narrates Fujiwara's spreading the photos; **POST_V06_STATE** some peer looks persist. S0006. STRENGTHEN CLM-0036 attributed agency and continuing consequences. No fresh posting act, technical chain, authenticated service, all recipients or current surviving-file inventory. Removal and social knowledge are different variables. Links CON-0044, VIS-0036, CLM-0042; FEV-17.
+
+### INF-0039 — The reader knows a hope Hotaru has not heard
+
+**POST_V06_STATE** Y's wider-attachment wish/qualified loneliness S0019 remains inward; H asks, Y's S0020 nonanswer withholds it. H knows an expression prompted concern, not its proposition. **RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE** Y's S0015 partial-awareness account belongs to her current self-understanding. These do not establish explicit earlier knowledge, a new public friendship lie, a shared future plan or H knowledge of Y's full thoughts. Links REL-0041–0042, JPS-0035, CLM-0040/0045.
+
+### INF-0040 — Peer inference supplies no bilateral disclosure agreement
+
+**POST_V06_STATE; precise relative order uncertain.** 葉々/砂羽子 infer a girls' relation from photos, discuss liberty and dislike of Hotaru. S0022, contrasted with direct invitation S0007–0008. Their words are reader/peer knowledge, not shown heard by Y/H. No complete girls' consent history, voluntary outing agreement or universal public consensus follows. Links REL-0043, VIS-0039, JPS-0036, CLM-0043.
+
+### INF-0041 — No current boys' response can be recovered from absence
+
+**POST_V06_STATE evidence boundary.** All S0001–0024: T not present/named, F only retrospectively attributed S0006. No new T knowledge, F remorse, H/F termination, or T/F repair/severance. The current reader's stronger F attribution does not update either boy with an unshown proposition. Links AGY-0037, CAST-0038, CLM-0044/0046.

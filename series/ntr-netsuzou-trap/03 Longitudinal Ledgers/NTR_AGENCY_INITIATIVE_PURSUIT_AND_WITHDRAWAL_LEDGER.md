@@ -10,11 +10,13 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V06; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Frozen Japanese V01–V06 historical prefix plus appended NTR-JP-LW supplemental evidence; source/state times distinguished"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_AGENCY_INITIATIVE_PURSUIT_AND_WITHDRAWAL_LEDGER.md
 ---
 
 # Agency, initiative, pursuit, and withdrawal
+
+**Current scope note — 2026-10-01:** the V01–V06 body and its old bootstrap/current-stage statements below retain their historical scope. The final LateWinter section separately extends this instrument after complete reading and original-model scoring at 604d3865265d8dd7753ce32141d4fe32d9fde9c6. Earlier IDs, wording and forecast results are unchanged.
 
 **Responsibility:** choices and conduct over time: approach, pursuit, initiation, refusal, avoidance, withdrawal, reapproach, confrontation, disclosure, concealment, testing, retaliation, protection, manipulation, repair, and consequential opportunities not taken. Include constraints, available options, risks/costs, and whose conduct changes what. Exclude motive as established fact merely because affection is intense; REL owns durable directional attachment, CON event permission, INF knowledge distribution. Cross-link the overlapping event rather than copying it.
 
@@ -169,3 +171,31 @@ T violence S0009–0010, apparent deletion intervention, acceptance S0061–0063
 ### AGY-0031 — Endpoint staying is small reciprocal agency with material conditions
 
 H coat-grip S0157, hands/smiles/shared return S0159–0162 provide chosen proximity; Y inwardly accepts her interpretation of incomplete trust and proposes conditional home/work. H reports spent funds; exams/admission/money remain constraints. Embedded study/food/hug gag S0167 preserves care dependence. No permanent passive role or proved sustainable reciprocity.
+
+## LateWinter supplemental records — NTR-JP-LW
+
+All SNNNN locators in this section expand to **NTR-JP-LW/SNNNN/I01**. [Complete reading](../02%20Supplemental%20Readings/NTR_LATEWINTER_DEEP_READING.md) owns scene context; this instrument owns only its declared dimension. Original records above remain the complete mainline prefix.
+
+### AGY-0032 — School return depends partly on another person's non-action
+
+**POST_V06_STATE** H apologizes to teacher/participates; **RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE** Y says father apparently failed to submit requested withdrawal. S0005–0006. H's return is a choice; formal continuity is not solely her managed plan or a father's deliberate care. Graduation two/three months away supplies a constraint, not completion. Links INF-0036, CLM-0038/0046.
+
+### AGY-0033 — Refusal is observed, the next lunch choice is not
+
+**POST_V06_STATE.** Friends invite, H declines with later-contact language S0007–0008. Cut to outdoor walk S0009 does not depict Y's immediate following, eating or offer. No valid access-loss/ordinary-care score can be composed across that omission. Links REL-0038, CON-0040, VIS-0036, CLM-0044; Y-PC-01 NDO, Y-PC-06 INSUFFICIENT_VISIBILITY.
+
+### AGY-0034 — Advice and resistance are different initiatives
+
+**POST_V06_STATE.** Y prescribes broader social interest at S0009; H first questions the demand and states noninterest, then analogizes S0010. Options include answer/refusal; no immediate emergency or enforced participation. H-PC-04 first-match bounded support belongs here. Y is not proved wholly restrained or always coercive. Links CON-0041, REL-0038, CLM-0039/0044.
+
+### AGY-0035 — Hotaru performs ordinary hospitality and owns the private initiative
+
+**POST_V06_STATE.** H receives/hangs Y's outerwear at S0012, an ordinary domestic care task before intimate initiative; fresh review corrects H-PC-05 to PARTIAL without validating task-specific competence. H then rejects Y's nobody-interest inference by approaching and plainly naming Y-selective interest S0013–0014; Y's inner attraction/reception follows S0015–0018. Do not reassign H's action to Y, treat every bodily approach as a need-request test, or infer a standing permission rule. Links REL-0039, CON-0042, JPS-0032, CLM-0040–0041/0044.
+
+### AGY-0036 — Yuma leaves her closing concern unspoken
+
+**POST_V06_STATE.** Y imagines a wider H network and her own qualified loneliness, but answers H's question with a nonanswer S0019–0020. Available speech is not taken; the source does not fix why—restraint, fear of spoiling intimacy or ambivalence may coexist. No subsequent expansion, demand or negotiated plan is shown. Links REL-0042, CON-0043, INF-0039, CLM-0045.
+
+### AGY-0037 — Reported past Fujiwara action is not a new choice trial
+
+**RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE** S0006 dissemination attribution strengthens action responsibility; **POST_V06_STATE visibility boundary** all 24 images offer neither F nor T a new depicted decision. Preserve their old scores and abstain on their futures. No present apology, termination or friend-account exchange. Links INF-0038/0041, CAST-0038, CLM-0042/0044/0046.

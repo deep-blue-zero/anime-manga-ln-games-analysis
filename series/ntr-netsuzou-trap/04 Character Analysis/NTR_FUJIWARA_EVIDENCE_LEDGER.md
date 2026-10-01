@@ -10,7 +10,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-10-01"
-source_boundary: "Japanese numbered manga V01–V06, including explicitly routed embedded material; no external supplements or adaptation"
+source_boundary: "Frozen Japanese V01–V06 body plus separately admitted NTR-JP-LW supplemental selective evidence appendix; other sources excluded"
 basis_commit: 8fe1601ba53d3188848b9fa58c9b5fc14f36a15d
 corpus_commit: 50f7e15b331d39e4df16f9b8d62b358933bffe83
 review_state: COORDINATOR_ACCEPTED_FOR_COMPLETED_PACKAGE_REVIEW
@@ -18,6 +18,8 @@ canonical_home: series/ntr-netsuzou-trap/04 Character Analysis/NTR_FUJIWARA_EVID
 ---
 
 # Fujiwara evidence ledger: useful information, coercive access, and a restricted account of motive
+
+**Current scope note:** the original body below retains its V01–V06 source, authorship and untested-at-release statements. The final LW appendix is the current supplemental update after held-out scoring; old states, rule text and results are preserved.
 
 **Canonical selective evidence ledger.** This selective interpreted ledger maps source-backed decisions and contradictions to the eight cumulative instruments. It neither alters them nor admits new narrative. The [model](NTR_FUJIWARA_RECONSTRUCTION_MODEL.md) owns conditional inference; the [monograph](NTR_FUJIWARA_MONOGRAPH.md) owns literary explanation. Fujiwara is source-identified by surname; an outside first name is not assigned.
 
@@ -65,3 +67,11 @@ His claimed service to T is evidence of how he represents exposure, not independ
 F-R01 receives bounded V02 order support. F-R02 receives nonindependent V03 continuation support, then a V04 separate-window conditional-demand miss. F-R03 is a NEW V04 applicability refinement and misses its V05 conditional-demand component. F-R04's V06 opening is excluded by restraint; S0131 is the first unrestrained direct account and receives bounded support for culpability minimization. Exact freeze commits, exclusions and components belong to the model and [validation audit](../07%20Audits%20and%20Handoffs/NTR_LOCAL_RECONSTRUCTION_VALIDATION_AUDIT.md). Exposure cannot rescue the old misses.
 
 OPEN facts include exact upload mechanics/reach/persistence, all early injury causes, V01 room-event permission, every H/F negotiation, comprehensive F intent, future accountability and the completed status of their formal couple. No unshown trauma, diagnosis, orientation, universal violence response or adult professional competence fills those gaps. The evidence supports a substantial literary account and a narrower native decision model. Four-model compatibility was checked against the received final Yuma/Hotaru model bytes: **PASS_BOUNDED_AUTHOR_STAGE**; the [local validation audit](../07%20Audits%20and%20Handoffs/NTR_LOCAL_RECONSTRUCTION_VALIDATION_AUDIT.md) records exact hashes, reviewed distinctions and untested-rule limits. Coordinator semantic acceptance is recorded by current authority metadata; final completed-package adversarial review remains separate.
+
+## LateWinter selective evidence — NTR-JP-LW
+
+This bounded appendix follows original scoring seal **604d3865265d8dd7753ce32141d4fe32d9fde9c6**; the coordinator visually inspected all LW images. Earlier independent-inspection statements remain mainline provenance.
+
+### FEV-17 — Later dissemination attribution, no present response
+
+**NTR-JP-LW/S0006/I01; RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE.** Y explicitly narrates F spreading the photos; peer gaze is POST_V06_STATE consequence. STRENGTHEN attributed agency, not a second upload, exhaustive channel/reach, all-copy persistence/destruction or F knowledge of current gaze. INF-0038, AGY-0037, CLM-0042. Entire 24-image witness depicts no new F decision/remorse/H-breakup/T-accountability exchange. F-LW is only an evidence checkpoint; historical FEV-15/16 and original forecast limits remain. No same-scene new rule or duplicate literary home.

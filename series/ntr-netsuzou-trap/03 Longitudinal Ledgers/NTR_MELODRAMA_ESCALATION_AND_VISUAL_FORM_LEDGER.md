@@ -10,11 +10,13 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V06; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Frozen Japanese V01–V06 historical prefix plus appended NTR-JP-LW supplemental evidence; source/state times distinguished"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_MELODRAMA_ESCALATION_AND_VISUAL_FORM_LEDGER.md
 ---
 
 # Melodrama, escalation, and visual form
+
+**Current scope note — 2026-10-01:** the V01–V06 body and its old bootstrap/current-stage statements below retain their historical scope. The final LateWinter section separately extends this instrument after complete reading and original-model scoring at 604d3865265d8dd7753ce32141d4fe32d9fde9c6. Earlier IDs, wording and forecast results are unchanged.
 
 **Responsibility:** test whether recurrence, pacing, and composition form a coherent dramatic grammar. Include a consequential interrupted disclosure, concealment, discovery risk, public/private crossing, reversal, withdrawal/reapproach, observation, leverage, exposure, cliffhanger, coincidence, or repeated composition **only if observed**. Capture gaze/avoidance, body orientation, proximity, touch staging, framing, panel isolation, reactions, withheld faces, page-turn reveal, and dialog/image tension when diagnostic. Exclude generic plot recap (deep reading), ethical permission verdict (CON), and proposition state (INF); cross-link as needed.
 
@@ -185,3 +187,27 @@ Child invitation S0097 → city hand image S0133–0134 → resisted pulls S0137
 ### VIS-0035 — Quoted montage and quiet train finish preserve unfinished work
 
 Dark recalled H speech S0150–0151 differs from new current speech; white pause S0155 then anxious eyes, Y inner acceptance, finances and shared sleep S0156–0162 end with rest rather than graduation. Embedded post-return gags S0166–0167 add ordinary school/care/play. Production afterword is paratext, never diagnostic literary evidence.
+
+## LateWinter supplemental records — NTR-JP-LW
+
+All SNNNN locators in this section expand to **NTR-JP-LW/SNNNN/I01**. [Complete reading](../02%20Supplemental%20Readings/NTR_LATEWINTER_DEEP_READING.md) owns scene context; this instrument owns only its declared dimension. Original records above remain the complete mainline prefix.
+
+### VIS-0036 — Peer gaze persists while a cut withholds the immediate response
+
+**POST_V06_STATE.** School return/odd looks S0005–0006 place the pair within peers; comic invitation/refusal S0007–0008 cuts to coats/bags outdoors S0009. Social aftermath remains visible but Y's meal response is not. Formal omission cannot be completed into a prediction hit or secure-separation proof. Links INF-0038, AGY-0033, CLM-0038/0044.
+
+### VIS-0037 — Interest argument moves from comic comparison to private concentration
+
+**POST_V06_STATE.** H's mathematics/politics/cricket comparisons and Y reaction S0009–0010 are followed by father inquiry, nobody-interest inference and H's dyadic correction S0011–0014. Repeated interest vocabulary changes target while the frame narrows to the pair. Direct private focus confirms specialness, without deciding ethical adequacy or universal apathy. Links REL-0038–0039, JPS-0032, CLM-0039–0040.
+
+### VIS-0038 — Wish-space and the nonanswer preserve information inequality
+
+**POST_V06_STATE.** Close private framing S0015–0018 gives way to Y's spacious inward future wish S0019, then question/smile/proximity S0020. The ending returns to comfort without making its concern audible. Favorable tenderness and closed-dependency counterreading share this depicted fact; neither can simply remove the interior qualification. Links REL-0042, INF-0039, AGY-0036, CLM-0045.
+
+### VIS-0039 — Peer coda supplies contradiction rather than collective approval
+
+**POST_V06_STATE; precise relative timing uncertain.** Three panels S0022 name 葉々/砂羽子, move from inferred relation to liberty declaration/personal objection, then answer that the first speaker is interfering. Comic rebuttal limits a character's claimed noninterference. This is neither narrator-wide acceptance nor a uniformly hostile public. Girls' access to the aside is unshown. Links REL-0043, INF-0040, JPS-0036, CLM-0043.
+
+### VIS-0040 — Complete publication form remains separate from fictional time
+
+**PARATEXT.** Color/gray event covers S0001/0003, foreword S0004, snowflake separator S0021, blanks S0002/0023 and digital colophon S0024 account for seven images. Winter design connects the publication, not graduation/adulthood. S0022 is narrative extra; its footer is paratext. No unseen advertisement, parallel adult lane or other supplement is admitted. Links CAST-0039, CLM-0038; source/freeze audit owns structure/provenance.

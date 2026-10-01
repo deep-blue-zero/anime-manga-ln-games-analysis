@@ -11,7 +11,7 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
 created: "2026-10-01"
-source_boundary: "Japanese manga V01–V06 frozen; embedded extras separately routed; external supplements and adaptation unadmitted"
+source_boundary: "Frozen Japanese V01–V06 relationship body plus appended NTR-JP-LW current-continuity extension; other sources excluded"
 canonical_home: series/ntr-netsuzou-trap/05 Relationship Synthesis/NTR_YUMA_TAKEDA_RELATIONSHIP_SYNTHESIS.md
 drafted_against_commit: 8fe1601ba53d3188848b9fa58c9b5fc14f36a15d
 mainline_freeze_commit: 50f7e15b331d39e4df16f9b8d62b358933bffe83
@@ -20,6 +20,8 @@ stage_state: COORDINATOR_ACCEPTED_FOR_COMPLETED_PACKAGE_REVIEW
 ---
 
 # Sincerity, care, and the right to decline
+
+**Current scope note:** all original sections below describe the V01–V06 release and retain their historical limits. The final LateWinter appendix supplies the separately admitted current-continuity update; it does not rewrite the mainline endpoint.
 
 Canonical relationship synthesis accepted by the coordinator. This study owns the changing Yuma→Takeda and Takeda→Yuma relation: affection, expected reciprocity, concealment, distance, help, renewed desire, and eventual recipient recognition. It uses the complete closed [readings](../01%20Sequential%20Readings/), [relationship ledger](../03%20Longitudinal%20Ledgers/NTR_RELATIONSHIP_DESIRE_AND_ATTACHMENT_LEDGER.md), and [information ledger](../03%20Longitudinal%20Ledgers/NTR_INFORMATION_DECEPTION_INFIDELITY_AND_EXPOSURE_LEDGER.md). Exact source coordinates are one-based OPF spine/image routes. Coordinator coverage is 1,009/1,009 images; this synthesis is a full-record integration, not an independent complete image reread. Local source integrity is verified; current Drive-byte equality remains unverified.
 
@@ -89,3 +91,9 @@ The embedded post-return school page gives Takeda another bounded state: he sees
 ## Integration boundary
 
 This artifact owns the dyad's changing sincerity, care, expectation, and recognition. The ensemble study owns Takeda–Fujiwara and wider audience topology; specialists own general permission comparison, information/exposure mechanics, written-category analysis, material constraint, and ending causality. Individual models must retain the old information-conditioned NDO results and the distinction between postcorpus explanation and prospective validation. Coordinator reconciliation and canonical acceptance are recorded by the authority metadata. Fresh completed-package adversarial review, final source/coverage validation and repository publication remain distinct required stages.
+
+## LateWinter visibility checkpoint — no new Yuma–Takeda exchange
+
+Complete NTR-JP-LW/S0001–0024/I01 contains no Takeda appearance, speech or name. The continuation shows Yuma's present H-directed relationship, but no new Y→T offer, T→Y response, resumed routine, hurt account or friendship settlement. The mainline's genuine care/pleasure and reported refusal remain the last observed dyad state; the girl's continued attachment does not imply that Takeda was disposable or that his later feelings are known. INF-0041/CAST-0038 and [the held-out audit](../07%20Audits%20and%20Handoffs/NTR_LATEWINTER_RECONSTRUCTION_VALIDATION_AUDIT.md) preserve all five T-PC NDO results and T-R05's historical information limit.
+
+Y's LW partial-awareness self-account at S0015 retrospectively concerns her Hotaru recognition. It cannot replace the actual earlier pleasures, wish to like Takeda, guilt, refusal or his bounded ethical response with a claim that she always knowingly offered him a false relationship. No fresh T evidence ledger/monograph is needed. T-LW is NOT_OBSERVED; T-V06 is the last observed snapshot. [The scoped character addendum](../04%20Character%20Analysis/NTR_LATEWINTER_CHARACTER_ADDENDA.md) and CLM-0040/0046 own these limits. This checkpoint extends current coverage without inventing bilateral development or another romance.

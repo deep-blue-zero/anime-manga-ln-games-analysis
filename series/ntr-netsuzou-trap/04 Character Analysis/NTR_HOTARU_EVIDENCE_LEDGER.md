@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-10-01"
-source_boundary: "Exact Japanese manga V01–V06; external supplements and adaptations excluded"
+source_boundary: "Frozen Japanese V01–V06 body plus separately admitted NTR-JP-LW supplemental selective evidence appendix; other sources excluded"
 basis_commit: 8fe1601ba53d3188848b9fa58c9b5fc14f36a15d
 corpus_close_commit: 50f7e15b331d39e4df16f9b8d62b358933bffe83
 canonical_home: series/ntr-netsuzou-trap/04 Character Analysis/NTR_HOTARU_EVIDENCE_LEDGER.md
@@ -19,6 +19,8 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Hotaru: retrieving initiative, refusal and need without supplying an unseen motive
+
+**Current scope note:** the original body below retains its V01–V06 source, authorship and untested-at-release statements. The final LW appendix is the current supplemental update after held-out scoring; old states, rule text and results are preserved.
 
 This selective subject ledger organizes source-backed choices and contrary evidence, not a complete transcription or a new shared instrument. Local `HEL-####` IDs point back to the existing cumulative records. The [model](NTR_HOTARU_RECONSTRUCTION_MODEL.md) formalizes state and conditional tendencies; the [monograph](NTR_HOTARU_MONOGRAPH.md) supplies a separate literary argument. Neither role is silently performed by this retrieval file.
 
@@ -412,3 +414,31 @@ These links target the canonical character-analysis directory. Each label identi
 [VIS-0031]: ../03%20Longitudinal%20Ledgers/NTR_MELODRAMA_ESCALATION_AND_VISUAL_FORM_LEDGER.md
 
 [VIS-0032]: ../03%20Longitudinal%20Ledgers/NTR_MELODRAMA_ESCALATION_AND_VISUAL_FORM_LEDGER.md
+
+## LateWinter selective evidence — NTR-JP-LW
+
+Appended only after original scoring seal **604d3865265d8dd7753ce32141d4fe32d9fde9c6** and the coordinator's complete LW visual reading. Historical drafter scope above is unchanged. SNNNN means NTR-JP-LW/SNNNN/I01; [complete reading](../02%20Supplemental%20Readings/NTR_LATEWINTER_DEEP_READING.md) retains context and [cumulative claims](../03%20Longitudinal%20Ledgers/NTR_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md) retain adjudication.
+
+### HEL-0031 — School continuity includes a contingent earlier paperwork failure
+
+S0005–0006; POST_V06_STATE H returns/apologizes; RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE Y says father apparently forgot requested withdrawal. INF-0036, AGY-0032, CLM-0038. Not a secretly successful H plan or paternal deliberate repair; no graduation/admission achieved.
+
+### HEL-0032 — Choice objection is a genuine first matched PC response
+
+S0008–0010; POST_V06_STATE. H declines meal/later-contact; S0009 first rebuts Y's friend-interest prescription, analogy S0010 elaborates. H-PC-04 SUPPORTED_BOUNDED independent-social-choice response. REL-0038, CON-0040–0041, AGY-0034, CLM-0039/0044. H-R04's narrower childhood/work trigger is not restored.
+
+### HEL-0033 — Direct Y-selective interest and private agency need no practice cover here
+
+S0012–0018; POST_V06_STATE. H contradicts nobody-interest inference, names interest only in Y, initiates private closeness. REL-0039, CON-0042, AGY-0035, JPS-0032, CLM-0040–0041. Changed acknowledged state permits directness; no universal trust, earlier-consent cure or formal exclusivity terms. H-LW-R01 is POST_LATEWINTER_UNTESTED.
+
+### HEL-0034 — Childhood loneliness is newly voiced to Yuma
+
+S0005/0011–0012; POST_V06_STATE father account, RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE childhood loneliness. REL-0040, INF-0037, JPS-0034, CLM-0040. Strengthens family interpretation without total causation, diagnosis or objective certification of father's/girlfriend's intent.
+
+### HEL-0035 — Asking does not mean knowing the withheld answer
+
+S0019–0020; POST_V06_STATE. H asks about Y's expression; Y supplies a nonanswer. H is not shown knowing wider-attachment wish or Y's qualified loneliness; S0022 friends' aside also remains unheard. INF-0039–0040, REL-0042–0043, CLM-0043/0045. Attention and equal information remain distinct.
+
+### HEL-0036 — Coat hospitality is an ordinary care task before intimate initiative
+
+S0012/I01 right and left middle panels; POST_V06_STATE. H holds a hanger and extends her free hand to Y's coat, then handles/hangs the outerwear. Known Y and available domestic resources satisfy H-PC-05's literal task condition; the original NDO added an unjustified diagnostic-task threshold. Fresh review records **PARTIAL** care/service support while leaving task-specificity/uneven self-maintenance untested, preserving the original sealed result. REL-0039, AGY-0035, CAST-0037, CLM-0044; [correction audit](../07%20Audits%20and%20Handoffs/NTR_LATEWINTER_ADVERSARIAL_INTEGRATION_AUDIT.md). No sustained household competence or successful cohabitation follows.

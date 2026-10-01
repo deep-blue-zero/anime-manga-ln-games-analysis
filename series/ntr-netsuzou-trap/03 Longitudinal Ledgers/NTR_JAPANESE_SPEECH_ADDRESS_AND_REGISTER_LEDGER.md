@@ -10,11 +10,13 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V06; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Frozen Japanese V01–V06 historical prefix plus appended NTR-JP-LW supplemental evidence; source/state times distinguished"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER.md
 ---
 
 # Japanese written speech, address, and register
+
+**Current scope note — 2026-10-01:** the V01–V06 body and its old bootstrap/current-stage statements below retain their historical scope. The final LateWinter section separately extends this instrument after complete reading and original-model scoring at 604d3865265d8dd7753ce32141d4fe32d9fde9c6. Earlier IDs, wording and forecast results are unchanged.
 
 **Responsibility:** diagnostic patterns of self-reference, names/honorifics, politeness, sentence endings, lexical habits, teasing, indirectness, confrontation, hesitation, and public/private or intimacy-conditioned register. Include a feature only if it recurs, changes under meaningful conditions, differentiates subjects, or matters to a reconstruction claim. Exclude exhaustive transcription, unsupported dialect attribution, and anime voice acting; anime is separate adaptation evidence. This is written speech, **not** timbre, pitch, breath, or acoustic delivery.
 
@@ -169,3 +171,31 @@ H 誰の負担にもなりたくないの S0099 names anti-burden goal to father
 ### JPS-0031 — Address continuity and care humor survive changed relational state
 
 H keeps 由真ちゃん address across defense/vulnerability; address alone does not certify state. Embedded S0167 抱っこ is a direct playful need bid while Y urges missed notes/food and inwardly asks whether she is H's mother. S0166 T 恋とは違う distinguishes heartbeat from romance. No childhood diagnosis, fixed caregiver identity or new T romance is licensed.
+
+## LateWinter supplemental records — NTR-JP-LW
+
+All SNNNN locators in this section expand to **NTR-JP-LW/SNNNN/I01**. [Complete reading](../02%20Supplemental%20Readings/NTR_LATEWINTER_DEEP_READING.md) owns scene context; this instrument owns only its declared dimension. Original records above remain the complete mainline prefix.
+
+### JPS-0032 — 興味 changes object without becoming an exclusivity contract
+
+**POST_V06_STATE.** H's friend noninterest S0009–0010, Y's 誰にも興味ない inference S0012, H's あるよ and 興味あるよ／由真ちゃんにだけ S0013–0014 form a corrected proposition. Plain selective interest replaces local play/practice cover. It is not an orientation label, lifetime exclusivity bargain or a new explicit need request. Links REL-0038–0039, AGY-0034–0035, CLM-0039–0040.
+
+### JPS-0033 — Familiar address coexists with polite inclusion and hostile evaluation
+
+**POST_V06_STATE.** H keeps 由真ちゃん; Y uses 蛍. Dark-haired friend includes 水科さん S0008, while 葉々's S0022 complaint names 水科蛍. H 私, Y inward あたし and casual endings are written-register evidence, not voice acting. Continued honorifics alone neither prove unchanged state nor a formal partner term. Links REL-0043, INF-0040, CLM-0043.
+
+### JPS-0034 — Present indifference and remembered loneliness have separate tenses
+
+**POST_V06_STATE / RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE.** H qualifies paternal indifference/relief S0005 and distinguishes 今は father noninterest from 子供の頃は寂しかった S0012. Direct self-report supports family interpretation, not settled universal lack of feeling or an exhaustive verified father motive. Girlfriend dislike S0011 retains apparent/report qualification. Links REL-0040, INF-0037, CLM-0040.
+
+### JPS-0035 — Partial recognition is inward; the outward answer omits the hope
+
+**RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE** Y's ずっと／心のどこかでは気付いてた S0015 is later partial-awareness testimony. **POST_V06_STATE** hope for others and ちょっと寂しい S0019 remain inward; H なに？ and Y なんでもない S0019–0020 do not communicate it. No full earlier knowledge or joint repair plan follows. Links REL-0041–0042, INF-0039, CON-0043, CLM-0040/0045.
+
+### JPS-0036 — Individual-freedom rhetoric is contradicted by another peer
+
+**POST_V06_STATE; extra's exact timing uncertain.** 葉々 invokes 女同士／個人の自由／口出しはしない then objects specifically to H; 砂羽子 replies めっちゃ口出ししてんじゃん S0022. Distinguish expressed category tolerance, dislike of partner and observed rhetorical inconsistency. The reply is a peer's, not girls' knowledge or comprehensive narrator judgment. Links REL-0043, VIS-0039, CLM-0043.
+
+### JPS-0037 — Foreword and colophon classify the source, not character psychology
+
+**PARATEXT.** S0004 describes a small final-episode after-story, signed コダマナオコ／Monaco Meister. S0024's 販売協力 credits Number Nine sales cooperation, distinct from retail publisher metadata. These words establish source role; they do not supply an absent character future or warrant using outside interviews. Links VIS-0040, CAST-0039; source audit owns bibliographic date limits.

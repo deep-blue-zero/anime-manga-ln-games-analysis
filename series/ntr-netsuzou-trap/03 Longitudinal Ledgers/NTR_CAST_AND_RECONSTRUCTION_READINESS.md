@@ -10,11 +10,13 @@ superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese manga V01–V06; cumulative interpreted evidence; earlier records preserved"
+source_boundary: "Frozen Japanese V01–V06 historical prefix plus appended NTR-JP-LW supplemental evidence; source/state times distinguished"
 canonical_home: series/ntr-netsuzou-trap/03 Longitudinal Ledgers/NTR_CAST_AND_RECONSTRUCTION_READINESS.md
 ---
 
 # Cast and reconstruction readiness
+
+**Current scope note — 2026-10-01:** the V01–V06 body and its old bootstrap/current-stage statements below retain their historical scope. The final LateWinter section separately extends this instrument after complete reading and original-model scoring at 604d3865265d8dd7753ce32141d4fe32d9fde9c6. Earlier IDs, wording and forecast results are unchanged.
 
 **Responsibility:** enroll subjects only when directly identified in an admitted Japanese manga witness, then track whether evidence supports an individual evidence ledger, model, monograph, or relationship specialist. Include repeated decisions, conditional state, written voice, negative evidence, alternative interpretations, mundane behavior, and transfer limits. Exclude public-summary cast prepopulation, assumed personality, A–E grades without eligible reviewed evidence, and automatic enrollment into the global character registry. The [project-local specification](../00%20Frameworks%20and%20Methods/NTR_CHARACTER_RECONSTRUCTION_SPEC.md) and live global reconstruction spec govern promotion.
 
@@ -189,3 +191,23 @@ These current promotion records follow the committed role-gap audit at `8fe1601b
 ### CAST-0035 — Fujiwara's three mature responsibilities preserve mechanism failures and sparse interiority
 
 [Individual evidence](../04%20Character%20Analysis/NTR_FUJIWARA_EVIDENCE_LEDGER.md), [operational model](../04%20Character%20Analysis/NTR_FUJIWARA_RECONSTRUCTION_MODEL.md) and [literary monograph](../04%20Character%20Analysis/NTR_FUJIWARA_MONOGRAPH.md) are accepted. V01 violence/suspicion, V02 conditional access/recording, V03 retained copy/academic utility, V04 intent, V05 restraint/guilt/peer image and V06 publication/removal/free justification/in-form testimony support information-conditioned action without complete inner biography. Six gates and five `F-PC##` hypotheses remain untested. F-R02's supported cliffhanger continuation is nonindependent; its separate V04 and new F-R03 V05 conditional-demand components remain absent. F-R04 has a restraint exclusion then bounded support at the first free account. Useful facts and cooking do not redeem harm; uncontradicted location-ignorance testimony is not proven deception. Global grade, unfamiliar transfer, comprehensive motive and remorse remain unassessed/open. Links CAST-0004/0009/0014/0019/0024/0029, INF-0010/0021/0028/0029/0034/0035, CLM-0014/0020/0032/0036.
+
+## LateWinter supplemental records — NTR-JP-LW
+
+All SNNNN locators in this section expand to **NTR-JP-LW/SNNNN/I01**. [Complete reading](../02%20Supplemental%20Readings/NTR_LATEWINTER_DEEP_READING.md) owns scene context; this instrument owns only its declared dimension. Original records above remain the complete mainline prefix.
+
+### CAST-0036 — Y-LW is observed without replacing Y-V06
+
+NTR-JP-LW **POST_V06_STATE / RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE**, S0005–0020: school/family knowledge, friend-interest prescription, partial-awareness self-account and withheld wider-welfare wish materially extend Y's evidence/model. Append YEL-0031–0034 and Y-LW; keep monograph mainline bytes, use scoped character addendum. All seven old PC rules receive no diagnostic score; new LW rule POST_LATEWINTER_UNTESTED. No professional/novel grade. Links CLM-0038–0041/0045, REL-0038/0041–0042.
+
+### CAST-0037 — H-LW preserves choice, direct interest and unshared knowledge
+
+NTR-JP-LW **POST_V06_STATE / RETROSPECTIVE_DISCLOSURE_ABOUT_EARLIER_STATE**, S0005–0020: actual school continuity, preference objection, direct Y-selective interest, childhood loneliness, coat hospitality and present initiative justify HEL-0031–0036/H-LW. H knows no literal Y inward hope or friends' S0022 aside. H-PC-04 has bounded support; fresh review corrects H-PC-05 to PARTIAL at S0012 coat service, with task-specificity untested; five others remain without a scored behavior window. Original checkpoint bytes retain its mistaken H-PC-05 NDO. New LW hypothesis POST_LATEWINTER_UNTESTED; no healed-trust/childlike/adult-competence grade. Links CLM-0039–0041/0044–0045.
+
+### CAST-0038 — Boys' evidence checkpoints are asymmetrical, no new observed T/F state
+
+All NTR-JP-LW 24 images: T absent entirely, F retrospectively named S0006. FEV-17/F-LW update reader-visible attribution, not present F knowledge, remorse or behavior; last observed F-V06 persists. T-LW records NOT_OBSERVED and five NDO decisions, retaining T-V06 as last observed state. No new literary essay or behavioral rule for either, and no automatic H/F or T/F ending. Links INF-0038/0041, AGY-0037, CLM-0042/0044/0046.
+
+### CAST-0039 — 葉々/砂羽子 are named supporting speakers, not new major models
+
+NTR-JP-LW S0022 identifies 葉々 (short hair) and 砂羽子 (dark hair), visually matching S0007–0008. Invitation, inferred relation, liberty rhetoric, partner dislike and rebuttal justify bounded ensemble treatment; source gives no full biography or reliable conditional model. Exact extra/visit ordering uncertain. Included foreword/footer/colophon route to paratext, not extra character knowledge. No global enrollment/grade/curation follows. Links REL-0043, INF-0040, VIS-0039–0040, JPS-0033/0036–0037.
