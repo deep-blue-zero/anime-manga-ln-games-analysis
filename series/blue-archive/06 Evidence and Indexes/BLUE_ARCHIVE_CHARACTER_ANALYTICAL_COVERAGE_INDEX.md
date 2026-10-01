@@ -3,9 +3,9 @@ series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
 scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_C003_CHECKPOINTS_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_C002_CHECKPOINTS_PLUS_V005_C001_C002_PLUS_V006_C001_C002_C003_CHECKPOINTS_PLUS_V100_C001_C002_CHECKPOINTS_PLUS_V100_C003_CHECKPOINT_PLUS_V100_C004_CHECKPOINT_PLUS_S2_V000_C001_CHECKPOINT_PLUS_S2_V001_C001_CHECKPOINT_PLUS_S2_V002_C001_CHECKPOINT_PLUS_S2_V002_C002_CHECKPOINT_PLUS_S2_V003_C001_CHECKPOINT
 generation: V1
-version: "5.59"
+version: "5.60"
 status: canonical
-source_boundary: "All 480 canonical main units through S2 V003 C001 and V001 C003 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in snapshot; 69 supplemental objects admitted with limits"
+source_boundary: "All 480 canonical main units through S2 V003 C001 and V001 C003 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in snapshot; 100 supplemental objects admitted with limits"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -55,7 +55,7 @@ Readiness uses the project-local specification:
 - `OPERATIONAL_CANDIDATE`;
 - `BOUNDED_VALIDATED`.
 
-All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means that canonical checkpoint/ledger analysis already supports at least one conditional mechanism, not that a finished model exists. Current combined census: **23 partial /354 unmodeled /377 total**; models `NONE`. Supplemental authority: [contextual coverage](BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md). §464 is the main-only audit.
+All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means that canonical checkpoint/ledger analysis already supports at least one conditional mechanism, not that a finished model exists. Current combined census: **23 partial /394 unmodeled /417 total**; models `NONE`. Supplemental authority: [contextual coverage](BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md). §464 is the main-only audit.
 
 ## 2. Shared corpus boundary
 
@@ -70,7 +70,7 @@ All rows inherit:
 
 The historical V1 source lock reports 53 group, 490 event, 694 bond, 920 MomoTalk, 244 character-data objects and 128 character packages. The active DB generation instead reports 65 group, 1,010 event, 1,161 bond, 1,161 MomoTalk, 511 character-data objects and 151 character packages. These are retrieval inventories, not character-specific analysis or side-source admission.
 
-**Snapshot boundary:** §§3–5 tables retain the 2026-09-28 main-only rows (352 subjects). [Contextual coverage](BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md) overrides38 rows and adds25 subjects; the other314 rows inherit unchanged.
+**Snapshot boundary:** §§3–5 tables retain the 2026-09-28 main-only rows (352 subjects). [Contextual coverage](BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md) overrides74 rows and adds65 subjects; the other278 rows inherit unchanged.
 
 ## 3. Source availability versus analyzed coverage
 
@@ -1506,7 +1506,7 @@ C1/C2 below mean `MAIN_V001_C001` / `MAIN_V001_C002`; P means the Prologue. Thes
 | middle-school student B (E041 role actor) | `UNMODELED` | `NONE` | worries about future and recalls high school option | Narrow rumor sample; identity, chronology and independent range absent. |
 | middle-school student A (E041 role actor) | `UNMODELED` | `NONE` | reports school closure/council dissolution and doubts heiress presence | Narrow rumor sample; identity, chronology and independent range absent. |
 
-**Historical V002 C001/C002 census and promotion basis:** The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Momoi, Midori, Alice, Yuzu and Yuuka—to distributed `PARTIAL_MODEL`. C002 E001 added Rio/Himari, E004 Sumire/Kirara/Erika, E009 Toki, E012 Noa, E016 Eimi/Chihiro and E022 Key as `UNMODELED`, yielding **twenty-one partial / twenty-six unmodeled** across 47 tracked subjects. Key is a provisional speaking entity separate from Alice, not an ontology judgment. These are not runnable models: independent ordinary/private contexts, future responses and several origin/institutional facts remain missing. All literary monographs and standalone reconstruction models are `NONE`; no schema-filled prototype is implied. No row is `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED`. Current combined census: **23 partial /354 unmodeled /377 total**, models `NONE`; contextual companion is current. Tables retain the main-only snapshot.
+**Historical V002 C001/C002 census and promotion basis:** The V002 C001 checkpoint promoted five narrowly bounded Millennium subjects—Momoi, Midori, Alice, Yuzu and Yuuka—to distributed `PARTIAL_MODEL`. C002 E001 added Rio/Himari, E004 Sumire/Kirara/Erika, E009 Toki, E012 Noa, E016 Eimi/Chihiro and E022 Key as `UNMODELED`, yielding **twenty-one partial / twenty-six unmodeled** across 47 tracked subjects. Key is a provisional speaking entity separate from Alice, not an ontology judgment. These are not runnable models: independent ordinary/private contexts, future responses and several origin/institutional facts remain missing. All literary monographs and standalone reconstruction models are `NONE`; no schema-filled prototype is implied. No row is `OPERATIONAL_CANDIDATE` or `BOUNDED_VALIDATED`. Current combined census: **23 partial /394 unmodeled /417 total**, models `NONE`; contextual companion is current. Tables retain the main-only snapshot.
 
 ### 5.1 Domain-specific readiness
 

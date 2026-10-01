@@ -3,9 +3,9 @@ series: BLUE_ARCHIVE
 artifact_type: synthesis_architecture
 scope: Analytical corpus architecture for Japanese-primary Blue Archive interpretation
 generation: V1
-version: "1.6"
+version: "1.7"
 status: canonical
-source_boundary: "Designed at the historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86; current production boundary is all 480 canonical main units in electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z; 69 supplemental objects admitted with limits in Phase2 cycles001–002"
+source_boundary: "Designed at the historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86; current production boundary is all 480 canonical main units in electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z; 100 supplemental objects admitted with limits in Phase2 cycles001–003"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -568,7 +568,7 @@ After each major main-story arc:
 
 This phase turns a plot reading into a social-world reading.
 
-**Current status: IN PROGRESS.** [Cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) admits 8 group and 26 event objects with limits. The [Phase 2 acceptance audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md) owns all 12 arc obligations and the full supplemental baseline; the [object crosswalk](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv) records exact review/admission states. Ordinary pleasure has intrinsic value, and priority determines review order. No arc is complete merely because a pilot could succeed.
+**Current status: IN PROGRESS.** [Cycle 003](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_003_CHECKPOINT.md) brings scoped admission to 100 objects: 43 group, 26 event, 13 bond, 13 full MomoTalk and 5 character-data objects, all with limits. The [Phase 2 acceptance audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md) owns all 12 arc obligations and the full supplemental baseline; the [object crosswalk](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv) records exact review/admission states. Ordinary pleasure has intrinsic value, and priority determines review order. No arc is complete merely because a pilot could succeed.
 
 ## Phase 3 — Character / relationship / institution packages
 
@@ -609,7 +609,7 @@ The [source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE
 1. retain the source-facing readings, chapter checkpoints, and seven cumulative ledgers with their local information boundaries; choose the checkpoint appropriate to the subject and story state rather than treating the last backfill as a universal chronological endpoint;
 2. use the [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) and [bootstrap audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md) and its linked contextual companion for current evidence readiness and any bounded pilot recommendation;
 3. use the materialized event-priority index, source-class crosswalk, and source-gap impact register to select complete supplemental story sequences by character, relationship, institution and ordinary-life questions; verify source class, chronology, relevance, and claim-specific gap effects before admitting selected group, event, bond/MomoTalk, or character-data sources;
-4. preserve the earlier checkpoint `DEFER` decisions as history; cycles001–002's69 supplemental objects have scoped admission; all other side sources require their own reasoned decision naming exact sources, question and limits;
+4. preserve the earlier checkpoint `DEFER` decisions as history; cycles001–003's100 supplemental objects have scoped admission; all other side sources require their own reasoned decision naming exact sources, question and limits;
 5. create a monograph or standalone reconstruction pilot only when its distinct evidence, state/domain, and responsibility gates pass; full main-story coverage alone does not certify readiness;
 6. freeze any intended prospective test before genuinely unexposed diagnostic source material is opened; comparisons against the completed main corpus are retrospective and must retain known prior exposure;
 7. continue method §10.5 for later chapter checkpoints and update affected coverage/readiness rows, preserving previous bases, counterevidence, failed tests, and promotion or demotion reasons;
@@ -779,3 +779,7 @@ The coverage index first checks whether that model/domain exists; the specificat
 If no current model or eligible domain exists, stop at the coverage index and answer from literary evidence without presenting the result as reconstruction capability.
 
 This is the desired end state: **one analytical responsibility per artifact, one current authority path, and no loss of reversibility back to the Japanese source.**
+
+## Phase2 cycle003 production boundary — 2026-10-01
+
+[31 group objects](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_003_CHECKPOINT.md) bring scoped supplemental admission to100 while every whole-arc row remains incomplete. Ordinary enjoyment, personal wishes, fallible care, recipient objections and routine work enter the seven ledgers with exact evidence modes. Readiness remains23 partial/394 unmodeled/417, standalone NONE. The next major architectural phase is **Phase3 — Character / relationship / institution packages**, after Phase2 obligations are fulfilled; this tranche does not certify that transition.

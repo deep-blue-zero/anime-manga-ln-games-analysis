@@ -3,9 +3,9 @@ series: BLUE_ARCHIVE
 artifact_type: analytical_method
 scope: 'Japanese Blue Archive game narrative corpus: main, group, event, bond, mini, MomoTalk, character/profile/contextual dialogue'
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
-source_boundary: "Current promoted Japanese main-story snapshot: electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z, all 480 main units read; historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 remains attached to its readings; HePudding/ba-storybook@main 6c4091603ca76d7d8c3cdb9104933f52cd8cab8e remains the independent reference; 69 supplemental objects admitted with limits in Phase2 cycles001–002"
+source_boundary: "Current promoted Japanese main-story snapshot: electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z, all 480 main units read; historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 remains attached to its readings; HePudding/ba-storybook@main 6c4091603ca76d7d8c3cdb9104933f52cd8cab8e remains the independent reference; 100 supplemental objects admitted with limits in Phase2 cycles001–003"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -771,6 +771,10 @@ That order preserves literary causality while exploiting the unusual richness of
 
 ## Current Phase 2 admission boundary — 2026-10-01
 
-Architecture **Phase 2 — Arc contextualization** is the active production phase; older method workflow numbering remains historical method organization. [Cycle 001](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md) accepts exactly eight group and 26 event objects with limits, alongside all 480 main units. The [Phase 2 audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md) and supplemental object crosswalk own the full completion scope and source-level progress. New contextual repertoire does not change main-story chronology, admit unread private sources or certify Phase 3 monographs/models. Written language remains distinct from performance.
+Architecture **Phase 2 — Arc contextualization** is the active production phase; older method workflow numbering remains historical method organization. [Cycle003](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_003_CHECKPOINT.md) brings scoped supplemental admission to100 objects:43 group/26 event/13 bond/13 MomoTalk/5 data, alongside all480 main units. Earlier cycles retain their exact dated admissions. The [Phase 2 audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md) and supplemental object crosswalk own the full completion scope and source-level progress. New contextual repertoire does not change main-story chronology, admit unread private sources or certify Phase 3 monographs/models. Written language remains distinct from performance.
 
 Current supplemental character coverage is maintained in the [contextual companion](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md), read together with the inherited 480-main coverage/history.
+
+## Phase2 cycle003 production boundary — 2026-10-01
+
+[31 group objects](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_003_CHECKPOINT.md) bring scoped supplemental admission to100 while every whole-arc row remains incomplete. Ordinary enjoyment, personal wishes, fallible care, recipient objections and routine work enter the seven ledgers with exact evidence modes. Readiness remains23 partial/394 unmodeled/417, standalone NONE. The next major architectural phase is **Phase3 — Character / relationship / institution packages**, after Phase2 obligations are fulfilled; this tranche does not certify that transition.

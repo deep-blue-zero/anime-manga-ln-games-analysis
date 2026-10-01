@@ -2,9 +2,9 @@
 series: BLUE_ARCHIVE
 artifact_type: contextualization_audit
 scope: Phase 2 arc contextualization across all 12 main-story groupings at the pinned Japanese snapshot
-version: "1.2"
+version: "1.3"
 status: canonical
-source_boundary: "electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; generation BA_REFRESH_20260928T032248159554Z; 480 admitted main readings; 69 supplemental objects admitted with limits; Phase 2 in progress and completion unproven"
+source_boundary: "electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; generation BA_REFRESH_20260928T032248159554Z; 480 admitted main readings; 100 supplemental objects admitted with limits; Phase 2 in progress and completion unproven"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -17,7 +17,7 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 
 ## 0. Responsibility and present result
 
-**Phase 2 is NOT COMPLETE.** This audit owns the full acceptance matrix and records what would prove completion of the user-authorized **Start and complete Phase 2 — Arc contextualization** goal. It is an operational audit, not supplemental literary evidence or a character monograph. At the inspected input snapshot the current map and three contextualization controls report zero accepted supplemental admissions. Concurrent reading candidates are not counted as accepted until the integrator verifies their content, source routes, scope and affected shared state.
+**Phase 2 is NOT COMPLETE.** This audit owns the full acceptance matrix and records what would prove completion of the user-authorized **Start and complete Phase 2 — Arc contextualization** goal. It is an operational audit, not supplemental literary evidence or a character monograph. The initial input snapshot had zero supplemental admissions. Current accepted progress is100 objects, governed by §11 and cycle003. Concurrent candidates enter neither that count nor an arc acceptance until integrator review and shared reconciliation are complete.
 
 The [synthesis architecture](../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md#phase-2--arc-contextualization) v1.4 defines five Phase 2 obligations after every major main arc: identify core related group stories; classify events by importance; read relevant bond/MomoTalk for major characters; inspect character-data written voice; update ledgers. The [method](../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md) v1.3 gives the source-class, person/variant, ordinary-life, choice, language, counterevidence and locator contracts. Its numbered phase labels differ; this goal follows the synthesis architecture Phase 2 contextualization label and the method remains the interpretive contract.
 
@@ -456,3 +456,25 @@ Combined [main coverage](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER
 | Cycle002 publication | Author/source/housekeeping/final exact head | PENDING | Separate publication gate; acceptance does not assert push completion |
 
 Current coverage23 partial/354 unmodeled/377 subjects, all standalone NONE:38 existing overrides plus25 new subjects,314 other main rows inherited. Serika private/written coverage is complete at this generation; that does not complete its events, all principal families or an arc. WholePhase2 remains IN_PROGRESS:all9 requirements and12 arc rows remain incomplete. Concurrent Yuuka/Ayane/Hoshino, group and event candidates are not yet admitted. No quiet-source removal or scope reduction.
+
+## 11. Current accepted progress — cycle003, 2026-10-01
+
+[Cycle003](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_003_CHECKPOINT.md) adds31 complete group objects. §§8–10 preserve earlier dated counts; this section and the exact object crosswalk own current progress. The mandatory3404 and all3452 tracked identities remain unchanged.
+
+| Responsibility | Required | Accepted | Remaining / state |
+|---|---|---|---|
+| Main-arc rows | 12 | 0 | All five duties per arc remain incomplete |
+| Group | 65 | 43 | 22 |
+| Event packages / objects | 61 /1010 | 2 /26 | 59 /984 |
+| Principal bond | 968 | 13 | 955 |
+| Principal MomoTalk | 968 | 13 | 955 |
+| Principal character_data | 393 | 5 | 388 |
+| Kei identity | 19 | 0 | 19 |
+| Mini leads | 29 | 0 | 29 |
+| Mandatory objects | 3404 | 100 | 3304 |
+| All tracked objects | 3452 | 100 | 3352 |
+| Seven-ledger integration | Every accepted cycle | 3 cycles | All seven reconciled with source limits |
+| Cycle002 publication | Exact261480352b5bdf9cedf126e740677d464b8312a8 | PASS | Final audit36910133310 success |
+| Cycle003 publication | Author/source/housekeeping/final exact head | PENDING | Separate gate; semantic acceptance does not certify publication |
+
+Combined coverage23 partial/394 unmodeled/417 subjects: 74 existing overrides,65 new source-local subjects,278 inherited main rows. Model states are unchanged and all standalone NONE. All9 whole-Phase2 requirements and all12 arc rows remain incomplete. Serika private/written admission and earlier event admissions remain intact; queued private/event/group candidates are not counted. Ordinary-source eligibility is protected without reducing the full scope.
