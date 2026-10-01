@@ -46,7 +46,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analytical coverage:
   - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package and qualified later semantic context. Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
-  - [`reviewed-dedicated-analysis` — Aemeath dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Aemeath/WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+  - [`reviewed-dedicated-analysis` — Aemeath dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Aemeath/01%20Evidence%20and%20Source-Facing/WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
 
 ### Airi
 
@@ -884,10 +884,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analytical coverage:
   - `cartethyia-reviewed-corpus`: GAME QUEST: Current provisional Cartethyia pre-AV rebuild and retained V0.2 analytical corpus over the pinned Wuthering Waves 3.6.0/3.6.6 semantic view and its explicitly qualified multilingual, voice, relationship, and ordinary-life evidence.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
-  - [`wuwa-cartethyia-character-monograph` — WUWA CARTETHYIA CHARACTER MONOGRAPH](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
-  - [`wuwa-cartethyia-ordinary-life-and-preferences-profile` — WUWA CARTETHYIA ORDINARY LIFE AND PREFERENCES PROFILE](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md) — **active provisional authority**
-  - [`wuwa-cartethyia-relationship-and-state-ledger` — WUWA CARTETHYIA RELATIONSHIP AND STATE LEDGER](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md) — **active provisional authority**
-  - [`wuwa-cartethyia-speech-voice-and-performance-profile` — WUWA CARTETHYIA SPEECH VOICE AND PERFORMANCE PROFILE](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md) — **active provisional authority**
+  - [`wuwa-cartethyia-character-monograph` — WUWA CARTETHYIA CHARACTER MONOGRAPH](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/05%20Integrated%20Synthesis/WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+  - [`wuwa-cartethyia-ordinary-life-and-preferences-profile` — WUWA CARTETHYIA ORDINARY LIFE AND PREFERENCES PROFILE](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md) — **active provisional authority**
+  - [`wuwa-cartethyia-relationship-and-state-ledger` — WUWA CARTETHYIA RELATIONSHIP AND STATE LEDGER](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md) — **active provisional authority**
+  - [`wuwa-cartethyia-speech-voice-and-performance-profile` — WUWA CARTETHYIA SPEECH VOICE AND PERFORMANCE PROFILE](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md) — **active provisional authority**
 
 ### Cha Hae-In
 
@@ -949,7 +949,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analytical coverage:
   - `commit-pinned-textual-scope`: GAME QUEST: Reviewed current active-provisional character profile over the declared 3.6.0 semantic source commit 353f2eaed119bc9f680eab92807d20ac75a79b40. Chinese is primary; localization witnesses and optional branches retain their stated limits. No unrestricted full-game coverage, future-patch update or new primary-source inspection is claimed.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
-  - [`reviewed-dedicated-profile` — Chisa bounded reconstructive profile](series/wuthering-waves/04%20Character%20Analysis/Chisa/WUWA_CHISA_RECONSTRUCTIVE_PROFILE_PRE_AV.md) — **active provisional authority**
+  - [`reviewed-dedicated-profile` — Chisa bounded reconstructive profile](series/wuthering-waves/04%20Character%20Analysis/Chisa/02%20Reconstruction/WUWA_CHISA_RECONSTRUCTIVE_PROFILE_PRE_AV.md) — **active provisional authority**
 
 ### Chisaki / Overhaul
 
@@ -1154,7 +1154,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analytical coverage:
   - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package and qualified later semantic context. Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
-  - [`reviewed-dedicated-analysis` — Denia dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Denia/WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+  - [`reviewed-dedicated-analysis` — Denia dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Denia/01%20Evidence%20and%20Source-Facing/WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
 
 ### Dragon Boy
 
@@ -3958,7 +3958,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analytical coverage:
   - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package and qualified later semantic context. Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
-  - [`reviewed-dedicated-analysis` — Lynae dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Lynae/WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+  - [`reviewed-dedicated-analysis` — Lynae dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Lynae/01%20Evidence%20and%20Source-Facing/WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
 
 ### Mafuyu
 
@@ -6181,7 +6181,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analytical coverage:
   - `commit-pinned-textual-scope`: GAME QUEST: Reviewed current active-provisional character profile over the declared 3.6.0 semantic source commit 353f2eaed119bc9f680eab92807d20ac75a79b40. Chinese is primary; localization witnesses and optional branches retain their stated limits. No unrestricted full-game coverage, future-patch update or new primary-source inspection is claimed.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
-  - [`reviewed-dedicated-profile` — Sigrika bounded reconstructive profile](series/wuthering-waves/04%20Character%20Analysis/Sigrika/WUWA_SIGRIKA_RECONSTRUCTIVE_PROFILE_PRE_AV.md) — **active provisional authority**
+  - [`reviewed-dedicated-profile` — Sigrika bounded reconstructive profile](series/wuthering-waves/04%20Character%20Analysis/Sigrika/02%20Reconstruction/WUWA_SIGRIKA_RECONSTRUCTIVE_PROFILE_PRE_AV.md) — **active provisional authority**
 
 ### Sir Nighteye
 
