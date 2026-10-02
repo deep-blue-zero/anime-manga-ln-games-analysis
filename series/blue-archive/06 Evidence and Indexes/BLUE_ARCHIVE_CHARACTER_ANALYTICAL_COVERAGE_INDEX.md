@@ -4750,4 +4750,4 @@ Routing: [V001 C003 E043 reading](../02%20Sequential%20Readings/MAIN/VOLUME_001_
 
 ## 465. Phase 2 contextual coverage — 2026-10-01
 
-[Current companion](BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md): 34 objects admitted with limits; 23 partial/345 unmodeled/368 subjects. Historical rows and deltas remain intact.
+[Current companion](BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md): 180 objects admitted with limits; 23 partial/482 unmodeled/505 subjects. Historical rows and deltas remain intact.
