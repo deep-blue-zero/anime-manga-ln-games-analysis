@@ -374,11 +374,11 @@
       "repository_path": "series/ntr-netsuzou-trap/",
       "canonical_entrypoint": "series/ntr-netsuzou-trap/CURRENT_STATE_AND_CORPUS_MAP.md",
       "canonical_entrypoint_status": "PRESENT_VERIFIED",
-      "materialization_status": "PRESENT_UNREVIEWED",
+      "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_NTR_BOOTSTRAP_20260928",
       "authority_status": "GIT_PRIMARY",
       "project_initiation_gate": "REQUIRED",
-      "catalog_note": "Provisional Japanese manga bootstrap awaiting owner audit; V01–V06 EPUBs inventoried in Drive, no narrative volume admitted or inspected, supplements quarantined, sequential lock CLOSED."
+      "catalog_note": "Frozen complete Japanese V01–V06 mainline retains its six freezes, four character monographs, six specialists and full-series argument. Separately admitted NTR-JP-LW has complete 24-image reading, sealed original-rule adjudication, appended current states/ledgers, scoped character and relationship extensions, supplemental integration and a justified broader-continuity synthesis. Other supplements remain quarantined; bounded final acceptance and exact-head publication verification follow the single canonical entrypoint and repository contract."
     },
     {
       "series_id": "one-punch-man",
