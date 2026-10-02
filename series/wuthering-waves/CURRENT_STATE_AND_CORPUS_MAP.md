@@ -39,7 +39,7 @@ The character layer now also includes a **V0.2 static visual-design generation**
 
 ### Title-wide character visual layer
 
-Start with each character's `CHARACTER_VISUAL_DESIGN_PROFILE.md`; use `CHARACTER_VISUAL_DESIGN_PROFILE.json` for structured claims and `CHARACTER_VISUAL_REFERENCE_MANIFEST.json` for evidence identity and reverse provenance. Direct visual observations are separated from design–narrative interpretation, counterreadings, and open questions. All profiles remain `active_provisional` because the evidence set is intentionally narrow even where the observed details are high-confidence.
+Start with each character's `03 Audiovisual and Voice/CHARACTER_VISUAL_DESIGN_PROFILE.md`; use the adjacent `CHARACTER_VISUAL_DESIGN_PROFILE.json` for structured claims and `CHARACTER_VISUAL_REFERENCE_MANIFEST.json` for evidence identity and reverse provenance. Sigrika's triplet is one layer deeper, in `03 Audiovisual and Voice/Profiles and Plans/`. Direct visual observations are separated from design–narrative interpretation, counterreadings, and open questions. All profiles remain `active_provisional` because the evidence set is intentionally narrow even where the observed details are high-confidence.
 
 The [V0.2 visual-profile publication record](08%20Audits%20and%20Manifests/WUWA_CHARACTER_VISUAL_PROFILE_V0_2_IMPORT.md) binds the 54 Git artifacts to the read-only extraction receipt and documents the raw-media boundary.
 
@@ -60,7 +60,7 @@ The imported prose/model artifacts were written against the pinned 3.6.0 semanti
 
 `04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CURRENT_STATE.md`
 
-Cartethyia also has an owner-adopted current twelve-document pre-AV rebuild under `active_provisional`. Its newer ordinary-life draft remains at `WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md`. The owner-retired older profile is preserved under `04 Character Analysis/Cartethyia/90 Legacy and Superseded/`; the newer profile is current and the archived profile is noncurrent. The newer packet is the current text/audio first read; the V0.2 artifacts retain their earlier-generation scopes.
+Cartethyia also has an owner-adopted current twelve-document pre-AV rebuild under `active_provisional`. Its newer ordinary-life draft is in `04 Character Analysis/Cartethyia/01 Evidence and Source-Facing/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md`. The owner-retired older profile is preserved under `04 Character Analysis/Cartethyia/90 Legacy and Superseded/`; the newer profile is current and the archived profile is noncurrent. The newer packet is the current text/audio first read; the V0.2 artifacts retain their earlier-generation scopes.
 
 ### Chisa
 
