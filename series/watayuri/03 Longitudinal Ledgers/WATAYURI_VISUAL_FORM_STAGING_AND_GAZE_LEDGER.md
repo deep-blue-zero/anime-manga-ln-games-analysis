@@ -4,14 +4,14 @@ artifact_id: WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.7"
+version: "0.8"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V06 mainline through V06 Shift 31/i154, also latest depicted present; packaged half-chapters separately bounded; V06 Shift 31.5 does not advance the endpoint; V07–V14 inventory only"
+source_boundary: "Japanese V01–V07 mainline through V07 Shift 36/i150, also latest depicted present; packaged shorts separately bounded; V08–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STA
 
 **Update and revision rule.** Update for repeated visual constructions or a diagnostically consequential scene. Record the visible fact separately from inferred psychology and identify when a later composition revises an earlier inference. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V06 mainline through V06 Shift 31/i154, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5 and 31.5 remain separately bounded; V04 EX is promotional. V01–V05 sections retain their earlier states; dated V06 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V07 mainline through V07 Shift 36/i150, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1 and 36.2 remain separately bounded; V04 EX is promotional. V01–V06 sections retain their earlier states; dated V07 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -247,3 +247,43 @@ Ending Shift 29 with Mitsuki’s face rather than a reciprocal declaration creat
 #### Objects keep their practical identity
 
 The letter is a message that can be prepared and read; the anklet is the previously refused wearable gift; the refrigerator contains supplies from an actual visit; the cast presents a factual bodily condition; the birthday schedule requires staffing decisions. Their symbolic importance grows from their practical uses. The evidence record should not turn the three-person design into three identical accessories, the cast into proof of original fraud, or the birthday exception into a completed event. [O03/O09/O10/O19/O24; inherited WY5-INF09.]
+
+
+<a id="v07"></a>
+## V07 — Current additions and transitions — 2026-09-30
+
+**V07 evidence key:** source-map key `V07`, Japanese witness `1xzDrNl-HlgiL5K_E0r_qp5nZiI_QdrUi`, SHA-256 `a56f8d1404a80bc1d006307371ceb8f50392cb85ccc30674fe5ab2735336f9b9`. The [frozen V07 reading](../02%20Sequential%20Readings/WATAYURI_V07_DEEP_READING.md#visual-form) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V07; WY1–WY6 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 36/i150. Shift 36.1/i152–157 is an intervention-period supplement, not a post-rejection scene; Shift 36.2/i158–159 is a managerial-work explainer. Afterword, profiles and edition matter at i160–168 do not advance the mainline endpoint.
+
+### Manga form, staging and gaze
+
+The following separates visible configuration from proposed effect. No camera motion, continuous animation or unique hidden emotion is inferred from a still panel.
+
+| ID | Observable configuration and locator | Interpretive effect and live limitation |
+| --- | --- | --- |
+| **WY7-VIS01** | Group reactions around composed Hime at i001, i005–009. | The same statement is distributed among distinct affected people. Composition supports multiple stakes, not a single consensus that Hime must stay. |
+| **WY7-VIS02** | Continuing café activity, missing Hime and disrupted Mitsuki performance at i010–016. | Absence is rendered through ordinary work and attention. It is neither total business collapse nor a visually neutral substitution. |
+| **WY7-VIS03** | Phone photographs/accessory and Kanoko’s changing expression at i015–024. | Material tokens of familiarity coexist with recognition that the present Hime differs from the desired image. Possession of images is not present access. |
+| **WY7-VIS04** | Monitor switched off and observers excluded at i027–029. | A normally visible theatrical space gains a deliberate privacy boundary. The object’s use, rather than a symbolic guess alone, establishes the change. |
+| **WY7-VIS05** | Table-separated confrontation, rising agitation and intervention at i036–054. | Formal separation and intrusion stage incompatible accounts becoming physical conflict. Do not infer the force of the blow or every overheard word from a grid. |
+| **WY7-VIS06** | Displayed anklet and Kanoko’s worn matching item at i050–051. | One design is read through different bodies and expectations. Visual similarity does not make the objects identical or their relational meanings equal. |
+| **WY7-VIS07** | Ordinary-school peer grouping at i058–064, outside the café costume system. | The source broadens the setting of Mitsuki’s available social support. It does not imply that the café is uniquely harmful or school universally supportive. |
+| **WY7-VIS08** | Role-composed conversation and watching guests at i070–075. | The public scene contains both audience incentive and genuine interpersonal inquiry. Applause cannot settle the private argument. |
+| **WY7-VIS09** | Cleaning-stage exchange and unprompted apology at i076–084. | Private uptake follows the performance. The change of activity supports, but does not alone prove, increased sincerity; explicit wording and response do the evidential work. |
+| **WY7-VIS10** | Hime’s bag accessory within the school sequence at i088. | Her own connection to the matching design remains present while others dispute specialness. It is not proof that she has resolved the dispute. |
+| **WY7-VIS11** | Re-presented contact and later recoil through Hime’s account at i097–112. | Repetition changes available perspective rather than adding another occurrence. The reader now receives meaning previously withheld. |
+| **WY7-VIS12** | Present arrival followed by the marked earlier neutral-café meeting at i119–128. | Spatial and temporal relocation separates management’s preparation from the actual private encounter. Package order alone would misdate the interview. |
+| **WY7-VIS13** | Hime in ordinary clothing and Mitsuki in café uniform in the staffroom at i129–149. | Their current relation to the workplace is visibly unequal. Costume is context, not proof that one feeling is more real or that ordinary work has resumed. |
+| **WY7-VIS14** | Clenched hands, standing/seated changes, startled interruption and strained faces at i132–140. | Speaking directly is shown as effortful and pressuring, not merely fluent truth replacing effortless lies. Exact physiological state remains unmeasured. |
+| **WY7-VIS15** | i140–141 facing pair culminates in Hime’s explicit answer; i141 includes close face/balloons and Mitsuki’s lowered body position. | Categorical clarity and bodily distress occur together. Emotional impact is not evidence that the answer is secretly affirmative. |
+| **WY7-VIS16** | Close contact, pleading and Hime’s refusal of the impossible promise at i144–148. | Physical nearness does not resolve the contested future. Hime’s specific words prevent interpreting the image alone as romantic reconciliation. |
+| **WY7-VIS17** | Limited comforting gesture at i149, then i150 separates Mitsuki inside from Hime on the stairs. | The final page gives the reader access to both hurt participants without making their desires equivalent. A threshold produces partial mutual knowledge rather than a single shared emotional tableau. |
+| **WY7-VIS18** | Sumika’s interrupted supportive posture and Kanoko’s puzzled response in the office-chair short, i152–157. | The helper’s intended scene does not match the recipient’s topic. Self-surprise and guilt are supported by internal text, not deduced from one blush alone. |
+| **WY7-VIS19** | Crying cover portrait, profile pairs and edition/bonus assemblies. | These frame themes and identify roles; they do not show a later party, a returned employee or reconciled couple. Keep paratext and mainline continuity separate. |
+
+#### Why the final page is not a romantic equivalence
+
+Both characters cry, but the manga has just given a direct statement that their feelings differ. The final images must be read with that statement, not against it merely because shared tears are a familiar sign of romantic intensity. Hime’s solitary position makes the cost of refusing visible. Mitsuki’s interior pain remains visible too. The interpretive gain is an account of unequal desire with real attachment on both sides, not a coded cancellation of the refusal. [VIS15–VIS17; i141–150.]
+
+#### The page-turn discipline matters
+
+The inspection grids are not spreads. Claims about adjacency use the EPUB’s page assignments: even-right and following odd-left. In the ending, i140–141 and i148–149 are facing pairs, whereas i149→i150 crosses a page turn. The last turn shifts from a limited promise and small comfort to the separate stairwell grief. That shift can support an account of withheld private aftermath without inventing what happens beyond the next uninspected volume. [i148–150.]
