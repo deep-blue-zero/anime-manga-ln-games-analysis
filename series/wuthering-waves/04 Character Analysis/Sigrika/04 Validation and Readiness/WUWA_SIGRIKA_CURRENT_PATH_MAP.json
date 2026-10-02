@@ -1,0 +1,553 @@
+{
+  "schema_version": "wuwa.sigrika.current-topology-map.v1",
+  "artifact_type": "character_topology_routing_and_integrity_map",
+  "analytical_responsibility": "Resolve original packet members to current homes while retaining historical delivery and actual pre-migration identities.",
+  "status": "active_provisional",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "canonical_home": "series/wuthering-waves/04 Character Analysis/Sigrika/04 Validation and Readiness/WUWA_SIGRIKA_CURRENT_PATH_MAP.json",
+  "scope": "Repository topology only; no analytical, source, AV, or human-listening authority promotion.",
+  "source_repository_commit": "1f55c632c0bf19db3b8364520d0d1b786c499888",
+  "path_base": "series/wuthering-waves/04 Character Analysis/Sigrika/",
+  "self_excluded_from_member_hashes": true,
+  "historical_records_unchanged": [
+    "04 Validation and Readiness/DELIVERY_INVENTORY.json",
+    "04 Validation and Readiness/SHA256SUMS.txt",
+    "04 Validation and Readiness/LOCAL_REVISION_REVIEW.json",
+    "04 Validation and Readiness/AUDIO_PRIOR_CLAIM_SNAPSHOT.json"
+  ],
+  "known_preexisting_historical_mismatch": "The original delivery inventory hash for WUWA_SIGRIKA_CURRENT_STATE.md already differs from the actual pre-migration router. Both hashes remain explicit; topology migration does not claim to repair the past delivery.",
+  "members": [
+    {
+      "original_repository_path": "AUDIO_ACQUISITION_MANIFEST.json",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Machine Evidence and Manifests/AUDIO_ACQUISITION_MANIFEST.json",
+      "artifact_class": "03",
+      "original_delivery_sha256": "0ee306d37e7d21d2c92a63493d8ba44c5e643784b8bc2b68ed10f3f26d66987c",
+      "pre_migration_sha256": "0ee306d37e7d21d2c92a63493d8ba44c5e643784b8bc2b68ed10f3f26d66987c",
+      "current_sha256": "0ee306d37e7d21d2c92a63493d8ba44c5e643784b8bc2b68ed10f3f26d66987c",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "AUDIO_CLUSTER_RESULTS.json",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Machine Evidence and Manifests/AUDIO_CLUSTER_RESULTS.json",
+      "artifact_class": "03",
+      "original_delivery_sha256": "a9a85da75a97fd5f73931819a9b5502ed51fbf4a5e5958dad013e3d94b307c56",
+      "pre_migration_sha256": "a9a85da75a97fd5f73931819a9b5502ed51fbf4a5e5958dad013e3d94b307c56",
+      "current_sha256": "a9a85da75a97fd5f73931819a9b5502ed51fbf4a5e5958dad013e3d94b307c56",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "AUDIO_CONTEXT_COHORTS.json",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Machine Evidence and Manifests/AUDIO_CONTEXT_COHORTS.json",
+      "artifact_class": "03",
+      "original_delivery_sha256": "f0d4a05f9f8fb96636be681294af9f99d1bc16a406f6fa62bbe4e8d9a09130ce",
+      "pre_migration_sha256": "f0d4a05f9f8fb96636be681294af9f99d1bc16a406f6fa62bbe4e8d9a09130ce",
+      "current_sha256": "f0d4a05f9f8fb96636be681294af9f99d1bc16a406f6fa62bbe4e8d9a09130ce",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "AUDIO_FIDELITY_PROBES.json",
+      "current_character_root_relative_path": "04 Validation and Readiness/AUDIO_FIDELITY_PROBES.json",
+      "artifact_class": "04",
+      "original_delivery_sha256": "ee7370e771402fff63014427aa710d6995c89b5435757d1b503b7b87ac92d144",
+      "pre_migration_sha256": "ee7370e771402fff63014427aa710d6995c89b5435757d1b503b7b87ac92d144",
+      "current_sha256": "ee7370e771402fff63014427aa710d6995c89b5435757d1b503b7b87ac92d144",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "AUDIO_FINDING_INDEX.json",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Machine Evidence and Manifests/AUDIO_FINDING_INDEX.json",
+      "artifact_class": "03",
+      "original_delivery_sha256": "c0e5eb74fccbaf77b8c049e6f3fef89c64d8f6b261585da9e81fa1b1bd630718",
+      "pre_migration_sha256": "c0e5eb74fccbaf77b8c049e6f3fef89c64d8f6b261585da9e81fa1b1bd630718",
+      "current_sha256": "c0e5eb74fccbaf77b8c049e6f3fef89c64d8f6b261585da9e81fa1b1bd630718",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "AUDIO_MATCHED_SEMANTIC_CASES.json",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Machine Evidence and Manifests/AUDIO_MATCHED_SEMANTIC_CASES.json",
+      "artifact_class": "03",
+      "original_delivery_sha256": "c5230a5d628f93aa04c1ff26e7943f43b77792e3fd98d49cabbad90cbe67d3d5",
+      "pre_migration_sha256": "c5230a5d628f93aa04c1ff26e7943f43b77792e3fd98d49cabbad90cbe67d3d5",
+      "current_sha256": "c5230a5d628f93aa04c1ff26e7943f43b77792e3fd98d49cabbad90cbe67d3d5",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "AUDIO_METHOD_PARAMETERS.json",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Tooling and Reproduction/AUDIO_METHOD_PARAMETERS.json",
+      "artifact_class": "03",
+      "original_delivery_sha256": "b0ac9aac4c9548c6e319b4e3718cd61132040494a886ca7ddd9d6057826cb1af",
+      "pre_migration_sha256": "b0ac9aac4c9548c6e319b4e3718cd61132040494a886ca7ddd9d6057826cb1af",
+      "current_sha256": "b0ac9aac4c9548c6e319b4e3718cd61132040494a886ca7ddd9d6057826cb1af",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "AUDIO_OUTLIER_REVIEW_COHORT.json",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Machine Evidence and Manifests/AUDIO_OUTLIER_REVIEW_COHORT.json",
+      "artifact_class": "03",
+      "original_delivery_sha256": "92693364c9dee96259f3a2791ae81ed4500abab441a7ab427952e7a180e4081e",
+      "pre_migration_sha256": "92693364c9dee96259f3a2791ae81ed4500abab441a7ab427952e7a180e4081e",
+      "current_sha256": "92693364c9dee96259f3a2791ae81ed4500abab441a7ab427952e7a180e4081e",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "AUDIO_PRIOR_CLAIM_SNAPSHOT.json",
+      "current_character_root_relative_path": "04 Validation and Readiness/AUDIO_PRIOR_CLAIM_SNAPSHOT.json",
+      "artifact_class": "04",
+      "original_delivery_sha256": "4d7e82edd97f5252e99b0dc7c3bd894d496bc949fe677dd2b4fd0a224cc5ffb6",
+      "pre_migration_sha256": "4d7e82edd97f5252e99b0dc7c3bd894d496bc949fe677dd2b4fd0a224cc5ffb6",
+      "current_sha256": "4d7e82edd97f5252e99b0dc7c3bd894d496bc949fe677dd2b4fd0a224cc5ffb6",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "AUDIO_REPRODUCTION_CHECK.json",
+      "current_character_root_relative_path": "04 Validation and Readiness/AUDIO_REPRODUCTION_CHECK.json",
+      "artifact_class": "04",
+      "original_delivery_sha256": "8494c9f95b81cc0349f3fba49bbf4bf68a2da3843ca813a04c23705a15f4b24f",
+      "pre_migration_sha256": "8494c9f95b81cc0349f3fba49bbf4bf68a2da3843ca813a04c23705a15f4b24f",
+      "current_sha256": "8494c9f95b81cc0349f3fba49bbf4bf68a2da3843ca813a04c23705a15f4b24f",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "AUDIO_REPRODUCTION_INSTRUCTIONS.txt",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Tooling and Reproduction/AUDIO_REPRODUCTION_INSTRUCTIONS.txt",
+      "artifact_class": "03",
+      "original_delivery_sha256": "d321f7bd30b2900240231cf349789073680e58d0f3d596c14438b2def466a63b",
+      "pre_migration_sha256": "d321f7bd30b2900240231cf349789073680e58d0f3d596c14438b2def466a63b",
+      "current_sha256": "a7bb9ad1f35a930ca9d1a9da80e082261717baf1f1c665e2beb107747d3fa436",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "AUDIO_RETRIEVAL_QC_COHORT.json",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Machine Evidence and Manifests/AUDIO_RETRIEVAL_QC_COHORT.json",
+      "artifact_class": "03",
+      "original_delivery_sha256": "d176a8f2ea701813185111a0840b3159643775b27d8db89eec310dbf4452a601",
+      "pre_migration_sha256": "d176a8f2ea701813185111a0840b3159643775b27d8db89eec310dbf4452a601",
+      "current_sha256": "d176a8f2ea701813185111a0840b3159643775b27d8db89eec310dbf4452a601",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "AUDIO_SOURCE_INPUT_MANIFEST.json",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Machine Evidence and Manifests/AUDIO_SOURCE_INPUT_MANIFEST.json",
+      "artifact_class": "03",
+      "original_delivery_sha256": "6de9404a777a29a6ad8df8d42a73e309d8abad5aaeff0339d97970272a6612a3",
+      "pre_migration_sha256": "6de9404a777a29a6ad8df8d42a73e309d8abad5aaeff0339d97970272a6612a3",
+      "current_sha256": "6de9404a777a29a6ad8df8d42a73e309d8abad5aaeff0339d97970272a6612a3",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "AUDIO_STAGE_VALIDATION_REPORT.json",
+      "current_character_root_relative_path": "04 Validation and Readiness/AUDIO_STAGE_VALIDATION_REPORT.json",
+      "artifact_class": "04",
+      "original_delivery_sha256": "58986b04a35da8dfce4349f0fdc5c7a38eb12dbb027db3ce5f3396477dfd7953",
+      "pre_migration_sha256": "58986b04a35da8dfce4349f0fdc5c7a38eb12dbb027db3ce5f3396477dfd7953",
+      "current_sha256": "58986b04a35da8dfce4349f0fdc5c7a38eb12dbb027db3ce5f3396477dfd7953",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "AUDIO_TO_VIDEO_TARGET_JOIN.json",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Machine Evidence and Manifests/AUDIO_TO_VIDEO_TARGET_JOIN.json",
+      "artifact_class": "03",
+      "original_delivery_sha256": "6fdd32b747bdbc8293fd33a91b508af8601c1b1ad0a5bce3d773ae01350be4ee",
+      "pre_migration_sha256": "6fdd32b747bdbc8293fd33a91b508af8601c1b1ad0a5bce3d773ae01350be4ee",
+      "current_sha256": "6fdd32b747bdbc8293fd33a91b508af8601c1b1ad0a5bce3d773ae01350be4ee",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "AUDIO_WAVEFORM_ANALYSIS_SUMMARY.json",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Machine Evidence and Manifests/AUDIO_WAVEFORM_ANALYSIS_SUMMARY.json",
+      "artifact_class": "03",
+      "original_delivery_sha256": "92bec5cce3099f435011b7219ad4b8d528e5d1270653b62061ab51aa77bbd849",
+      "pre_migration_sha256": "92bec5cce3099f435011b7219ad4b8d528e5d1270653b62061ab51aa77bbd849",
+      "current_sha256": "92bec5cce3099f435011b7219ad4b8d528e5d1270653b62061ab51aa77bbd849",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "AV_RETRIEVAL_TARGETS.json",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Machine Evidence and Manifests/AV_RETRIEVAL_TARGETS.json",
+      "artifact_class": "03",
+      "original_delivery_sha256": "d0c3ccb5500f54e5ad050143c935f063880405859bc1dc71dca8e51491e10026",
+      "pre_migration_sha256": "d0c3ccb5500f54e5ad050143c935f063880405859bc1dc71dca8e51491e10026",
+      "current_sha256": "d0c3ccb5500f54e5ad050143c935f063880405859bc1dc71dca8e51491e10026",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Profiles and Plans/CHARACTER_VISUAL_DESIGN_PROFILE.json",
+      "artifact_class": "03",
+      "original_delivery_sha256": null,
+      "pre_migration_sha256": "53647feea6623bf827f1fe61e843f4885a61f036bcd36564d4cbdf5fdc46b5f7",
+      "current_sha256": "53647feea6623bf827f1fe61e843f4885a61f036bcd36564d4cbdf5fdc46b5f7",
+      "historical_delivery_matches_pre_migration": null,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Profiles and Plans/CHARACTER_VISUAL_DESIGN_PROFILE.md",
+      "artifact_class": "03",
+      "original_delivery_sha256": null,
+      "pre_migration_sha256": "32fc0c73cc583dee6bf2b7b2f2c1edd8f74c44229846402d2144362e98a926bf",
+      "current_sha256": "32fc0c73cc583dee6bf2b7b2f2c1edd8f74c44229846402d2144362e98a926bf",
+      "historical_delivery_matches_pre_migration": null,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Profiles and Plans/CHARACTER_VISUAL_REFERENCE_MANIFEST.json",
+      "artifact_class": "03",
+      "original_delivery_sha256": null,
+      "pre_migration_sha256": "d308179641ee5e9d91a8fc0c4315c3cf8f0cf56988ddfd288e6867663f6aafe8",
+      "current_sha256": "d308179641ee5e9d91a8fc0c4315c3cf8f0cf56988ddfd288e6867663f6aafe8",
+      "historical_delivery_matches_pre_migration": null,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "CLAIM_INDEX.json",
+      "current_character_root_relative_path": "01 Evidence and Source-Facing/CLAIM_INDEX.json",
+      "artifact_class": "01",
+      "original_delivery_sha256": "a013aa2172e9204258eb1fbe6fa733cc95369092c6cd626c67bcae2718360c5b",
+      "pre_migration_sha256": "a013aa2172e9204258eb1fbe6fa733cc95369092c6cd626c67bcae2718360c5b",
+      "current_sha256": "a013aa2172e9204258eb1fbe6fa733cc95369092c6cd626c67bcae2718360c5b",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "DELIVERY_INVENTORY.json",
+      "current_character_root_relative_path": "04 Validation and Readiness/DELIVERY_INVENTORY.json",
+      "artifact_class": "04",
+      "original_delivery_sha256": null,
+      "pre_migration_sha256": "81298c63201a08d5decabf5eb7a19ca8e73aa48fa23b9d016f538647d74de174",
+      "current_sha256": "81298c63201a08d5decabf5eb7a19ca8e73aa48fa23b9d016f538647d74de174",
+      "historical_delivery_matches_pre_migration": null,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "EVIDENCE_BUNDLE_INDEX.json",
+      "current_character_root_relative_path": "01 Evidence and Source-Facing/EVIDENCE_BUNDLE_INDEX.json",
+      "artifact_class": "01",
+      "original_delivery_sha256": "80b250dd013576ae8351f488faa82e17288ca13c64f18ff5ac4c245193633814",
+      "pre_migration_sha256": "80b250dd013576ae8351f488faa82e17288ca13c64f18ff5ac4c245193633814",
+      "current_sha256": "80b250dd013576ae8351f488faa82e17288ca13c64f18ff5ac4c245193633814",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "FIDELITY_PROBE_INDEX.json",
+      "current_character_root_relative_path": "04 Validation and Readiness/FIDELITY_PROBE_INDEX.json",
+      "artifact_class": "04",
+      "original_delivery_sha256": "0034f0684e1ca008ccf6f6ef62decbb1844225ca110e7cc31c55d8ffe79e2457",
+      "pre_migration_sha256": "0034f0684e1ca008ccf6f6ef62decbb1844225ca110e7cc31c55d8ffe79e2457",
+      "current_sha256": "0034f0684e1ca008ccf6f6ef62decbb1844225ca110e7cc31c55d8ffe79e2457",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "LOCAL_REVISION_REVIEW.json",
+      "current_character_root_relative_path": "04 Validation and Readiness/LOCAL_REVISION_REVIEW.json",
+      "artifact_class": "04",
+      "original_delivery_sha256": "27a253d8002d4e6e33312f25b805a60af6812c7ff794c16639c73b0f673214eb",
+      "pre_migration_sha256": "27a253d8002d4e6e33312f25b805a60af6812c7ff794c16639c73b0f673214eb",
+      "current_sha256": "27a253d8002d4e6e33312f25b805a60af6812c7ff794c16639c73b0f673214eb",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "SHA256SUMS.txt",
+      "current_character_root_relative_path": "04 Validation and Readiness/SHA256SUMS.txt",
+      "artifact_class": "04",
+      "original_delivery_sha256": null,
+      "pre_migration_sha256": "340d1f60355defc21c25a807bca95bb47422f04f2dd76cedbf95ac975fa6b2a9",
+      "current_sha256": "340d1f60355defc21c25a807bca95bb47422f04f2dd76cedbf95ac975fa6b2a9",
+      "historical_delivery_matches_pre_migration": null,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "SHARD_ACQUISITION_AUDIT.json",
+      "current_character_root_relative_path": "04 Validation and Readiness/SHARD_ACQUISITION_AUDIT.json",
+      "artifact_class": "04",
+      "original_delivery_sha256": "c3728c89c86dd6bd1e96131e6fbfe21647e56e438bd1612bbc3e75caecfb770b",
+      "pre_migration_sha256": "c3728c89c86dd6bd1e96131e6fbfe21647e56e438bd1612bbc3e75caecfb770b",
+      "current_sha256": "c3728c89c86dd6bd1e96131e6fbfe21647e56e438bd1612bbc3e75caecfb770b",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "SOURCE_AND_AUDIO_AUDIT.json",
+      "current_character_root_relative_path": "04 Validation and Readiness/SOURCE_AND_AUDIO_AUDIT.json",
+      "artifact_class": "04",
+      "original_delivery_sha256": "01c43fb452d1a3285bccc775c2746a1cae150f15d6ebff3f0b29c63202b27827",
+      "pre_migration_sha256": "01c43fb452d1a3285bccc775c2746a1cae150f15d6ebff3f0b29c63202b27827",
+      "current_sha256": "01c43fb452d1a3285bccc775c2746a1cae150f15d6ebff3f0b29c63202b27827",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "SOURCE_INPUT_MANIFEST.json",
+      "current_character_root_relative_path": "04 Validation and Readiness/SOURCE_INPUT_MANIFEST.json",
+      "artifact_class": "04",
+      "original_delivery_sha256": "9438f82cfdf1df7e21159d67a24573d3e99a6c0d4249b7467c70f9b2aecdc5df",
+      "pre_migration_sha256": "9438f82cfdf1df7e21159d67a24573d3e99a6c0d4249b7467c70f9b2aecdc5df",
+      "current_sha256": "9438f82cfdf1df7e21159d67a24573d3e99a6c0d4249b7467c70f9b2aecdc5df",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "TOOLKIT_CAPABILITY_CHECK.json",
+      "current_character_root_relative_path": "04 Validation and Readiness/TOOLKIT_CAPABILITY_CHECK.json",
+      "artifact_class": "04",
+      "original_delivery_sha256": "001592a8f269f6b9abe4c359ad9d9d961122117bb60da2a67bc5c8d1a94ad67f",
+      "pre_migration_sha256": "001592a8f269f6b9abe4c359ad9d9d961122117bb60da2a67bc5c8d1a94ad67f",
+      "current_sha256": "001592a8f269f6b9abe4c359ad9d9d961122117bb60da2a67bc5c8d1a94ad67f",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "VALIDATION_REPORT.json",
+      "current_character_root_relative_path": "04 Validation and Readiness/VALIDATION_REPORT.json",
+      "artifact_class": "04",
+      "original_delivery_sha256": "737a75849eabd82973e353394df70023af979bf38125d9519f3e13c6a87f1eff",
+      "pre_migration_sha256": "737a75849eabd82973e353394df70023af979bf38125d9519f3e13c6a87f1eff",
+      "current_sha256": "737a75849eabd82973e353394df70023af979bf38125d9519f3e13c6a87f1eff",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "WUWA_SIGRIKA_ANALYSIS_PACKET_README.md",
+      "current_character_root_relative_path": "WUWA_SIGRIKA_ANALYSIS_PACKET_README.md",
+      "artifact_class": "root",
+      "original_delivery_sha256": "5aa2c5b764857c75f6d85bdb3de0b053882ac2f22ed2618c1678f1d665dac7c9",
+      "pre_migration_sha256": "5aa2c5b764857c75f6d85bdb3de0b053882ac2f22ed2618c1678f1d665dac7c9",
+      "current_sha256": "dbab820a393991dc8f2540a3f21464fb782d8d6389cd5b75c0d50a5dd42ccb90",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "WUWA_SIGRIKA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Profiles and Plans/WUWA_SIGRIKA_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md",
+      "artifact_class": "03",
+      "original_delivery_sha256": "a13432a0ba2449fc242b26fdc896d02f998d375b803e16c93855a2b92ca039c4",
+      "pre_migration_sha256": "a13432a0ba2449fc242b26fdc896d02f998d375b803e16c93855a2b92ca039c4",
+      "current_sha256": "ffd36eb94190333fe272072eb81d974908f72559f7dee42886baaee19e952a55",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "WUWA_SIGRIKA_AUDIO_METHOD_AND_RESULTS.md",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Profiles and Plans/WUWA_SIGRIKA_AUDIO_METHOD_AND_RESULTS.md",
+      "artifact_class": "03",
+      "original_delivery_sha256": "e6d57c4541588d9f0c90abd8f0fdcb6f7b5f614842a90d271c84f5dcf8636ca8",
+      "pre_migration_sha256": "e6d57c4541588d9f0c90abd8f0fdcb6f7b5f614842a90d271c84f5dcf8636ca8",
+      "current_sha256": "34c9f8dda57fd524e91980bef08d2f203d0ea7265ab1057235c50aaaf63620d9",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "WUWA_SIGRIKA_AUDIO_REVISION_LEDGER.md",
+      "current_character_root_relative_path": "04 Validation and Readiness/WUWA_SIGRIKA_AUDIO_REVISION_LEDGER.md",
+      "artifact_class": "04",
+      "original_delivery_sha256": "990ec4af8363405e2b1e36542bfb1b166170ce152fa5ab00e24a0dbc5bf81f2f",
+      "pre_migration_sha256": "990ec4af8363405e2b1e36542bfb1b166170ce152fa5ab00e24a0dbc5bf81f2f",
+      "current_sha256": "bf21870bca28ee8d818a9ceac577e5faaa0fbe48079273f41ea936d742fd66c9",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "WUWA_SIGRIKA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Profiles and Plans/WUWA_SIGRIKA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
+      "artifact_class": "03",
+      "original_delivery_sha256": "620bc4274c535c740ec1c5ea41c0c9b90fc1c00e6fc2111511b336eaea7cd648",
+      "pre_migration_sha256": "620bc4274c535c740ec1c5ea41c0c9b90fc1c00e6fc2111511b336eaea7cd648",
+      "current_sha256": "881000ee443cfb23ef10aadf140b36a87599d7a9461c4121ef250e9e3f296469",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "WUWA_SIGRIKA_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "current_character_root_relative_path": "01 Evidence and Source-Facing/WUWA_SIGRIKA_CHARACTER_DEEP_DIVE_PRE_AV.md",
+      "artifact_class": "01",
+      "original_delivery_sha256": "b14c45a857f9960ffe7e713bada486bba1311700e8f95210a772e79270e15f8d",
+      "pre_migration_sha256": "b14c45a857f9960ffe7e713bada486bba1311700e8f95210a772e79270e15f8d",
+      "current_sha256": "1bbb75db133b350b1665ac95cbff2c48df40a27a858241ac97b417b309006b13",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "WUWA_SIGRIKA_CHARACTER_MODEL_PACKAGE.json",
+      "current_character_root_relative_path": "02 Reconstruction/WUWA_SIGRIKA_CHARACTER_MODEL_PACKAGE.json",
+      "artifact_class": "02",
+      "original_delivery_sha256": "993062019f2ec0cc07da1b695557030dee57d6e2f3e3b680b4498277db11a87d",
+      "pre_migration_sha256": "993062019f2ec0cc07da1b695557030dee57d6e2f3e3b680b4498277db11a87d",
+      "current_sha256": "869cbaf6555d842f1da66ce0243f96e91cbf82c71d2637b2e0734336b4daa5d5",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "WUWA_SIGRIKA_CURRENT_STATE.md",
+      "current_character_root_relative_path": "WUWA_SIGRIKA_CURRENT_STATE.md",
+      "artifact_class": "root",
+      "original_delivery_sha256": "5e106f6de14cfd28e5110b289d17a5d60a845d13e6b097133617898e770ed590",
+      "pre_migration_sha256": "0bdc023541786281637365cc9ff2daf47bbdb3af6c3536278a3969a8d3673fe0",
+      "current_sha256": "8731ec1c0847113dfead8b8849f228161d8fda45aa56d3a731d7d8e86f039fa7",
+      "historical_delivery_matches_pre_migration": false,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "WUWA_SIGRIKA_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "current_character_root_relative_path": "01 Evidence and Source-Facing/WUWA_SIGRIKA_EVIDENCE_AND_FALSIFICATION_MATRIX.md",
+      "artifact_class": "01",
+      "original_delivery_sha256": "55d68c6f974e1ee42c3ea0e77fdff64b1c24ef61e995f72659b072a693d37dcb",
+      "pre_migration_sha256": "55d68c6f974e1ee42c3ea0e77fdff64b1c24ef61e995f72659b072a693d37dcb",
+      "current_sha256": "fdbdafc708e5d2cd37972c671dfa92c95869464ef21f5bea43f729ae90426b38",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "WUWA_SIGRIKA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "current_character_root_relative_path": "04 Validation and Readiness/WUWA_SIGRIKA_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md",
+      "artifact_class": "04",
+      "original_delivery_sha256": "680abd268726b74aef2f80b83412aa35f7c49b05c4c708027a6bac63bed0da2c",
+      "pre_migration_sha256": "680abd268726b74aef2f80b83412aa35f7c49b05c4c708027a6bac63bed0da2c",
+      "current_sha256": "261bc89be92c336bf6d9a743d641a928f433ce6bb8dfc0e31ed17d53f6b53799",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "WUWA_SIGRIKA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "current_character_root_relative_path": "01 Evidence and Source-Facing/WUWA_SIGRIKA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md",
+      "artifact_class": "01",
+      "original_delivery_sha256": "8bfdc7b48c2573111a56d4c77e25872cd97c34815db4ce65d2c991a7b178b1a1",
+      "pre_migration_sha256": "8bfdc7b48c2573111a56d4c77e25872cd97c34815db4ce65d2c991a7b178b1a1",
+      "current_sha256": "e787274171f0a403cd5710e921e42fe33d463513c9ae1638db40f3ea8031afab",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "WUWA_SIGRIKA_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "current_character_root_relative_path": "02 Reconstruction/WUWA_SIGRIKA_RECONSTRUCTIVE_PROFILE_PRE_AV.md",
+      "artifact_class": "02",
+      "original_delivery_sha256": "3c3bc0ed834f58dfd6ee00d13b779aaa5624995aac0409aff48674779c27a2ce",
+      "pre_migration_sha256": "3c3bc0ed834f58dfd6ee00d13b779aaa5624995aac0409aff48674779c27a2ce",
+      "current_sha256": "cfecf01f23070dda11ff2a20a83de8a9014faf96579f910b0b57937add5d79fb",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "WUWA_SIGRIKA_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "current_character_root_relative_path": "01 Evidence and Source-Facing/WUWA_SIGRIKA_RELATIONSHIP_AND_STATE_PROFILE.md",
+      "artifact_class": "01",
+      "original_delivery_sha256": "4b7bf0e5354329421d527de9db55e473dbe05c52dbda856da0d7749ef2192477",
+      "pre_migration_sha256": "4b7bf0e5354329421d527de9db55e473dbe05c52dbda856da0d7749ef2192477",
+      "current_sha256": "de3c9bfc510e3add5d7abfce193c5345c8bdfacba742cbb29368b6faee5e6286",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "WUWA_SIGRIKA_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md",
+      "current_character_root_relative_path": "04 Validation and Readiness/WUWA_SIGRIKA_SOURCE_CENSUS_CHRONOLOGY_AND_IDENTITY_AUDIT.md",
+      "artifact_class": "04",
+      "original_delivery_sha256": "9594d4fbf0ccd29ca56a5cb1d5688845476a8f493697b20a781eea1e14b55b8a",
+      "pre_migration_sha256": "9594d4fbf0ccd29ca56a5cb1d5688845476a8f493697b20a781eea1e14b55b8a",
+      "current_sha256": "1b926ddc3d1d3772ef3a9aaa3517cbbbe4fadb8863b0122b51dcf5e5e260e1ea",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "WUWA_SIGRIKA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Profiles and Plans/WUWA_SIGRIKA_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md",
+      "artifact_class": "03",
+      "original_delivery_sha256": "be96026c392c2a7e7c77a899200db88ddf98ca85f29cf7079150f9e034046460",
+      "pre_migration_sha256": "be96026c392c2a7e7c77a899200db88ddf98ca85f29cf7079150f9e034046460",
+      "current_sha256": "9dd04b4f25c93695d2c62ec6daecc0c1f0d807237681f4e567a7414de99e9ad7",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "WUWA_SIGRIKA_TALENT_EXPECTATION_AND_INTERPRETIVE_AGENCY_PROFILE.md",
+      "current_character_root_relative_path": "01 Evidence and Source-Facing/WUWA_SIGRIKA_TALENT_EXPECTATION_AND_INTERPRETIVE_AGENCY_PROFILE.md",
+      "artifact_class": "01",
+      "original_delivery_sha256": "8a1c1e5e4af4945f042ac969c9c6cdca418362e879f8ee6ad2ac364cac5fa5b2",
+      "pre_migration_sha256": "8a1c1e5e4af4945f042ac969c9c6cdca418362e879f8ee6ad2ac364cac5fa5b2",
+      "current_sha256": "04c16c4242bbb46f382a257f15a619c7f2f485803a1feddb897f788123714ddc",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "audio_tools/analyze_audio.py",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Tooling and Reproduction/audio_tools/analyze_audio.py",
+      "artifact_class": "03",
+      "original_delivery_sha256": "73c2904c38d06440a86a572d05fa3fe200e23055e68f0aeaec3be75313d3c4a2",
+      "pre_migration_sha256": "73c2904c38d06440a86a572d05fa3fe200e23055e68f0aeaec3be75313d3c4a2",
+      "current_sha256": "73c2904c38d06440a86a572d05fa3fe200e23055e68f0aeaec3be75313d3c4a2",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "audio_tools/check_audio_reproduction.py",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Tooling and Reproduction/audio_tools/check_audio_reproduction.py",
+      "artifact_class": "03",
+      "original_delivery_sha256": "2f44a0be1af782c243e11c8e5d0cdc8d64ae7863b543d500d755b55183656996",
+      "pre_migration_sha256": "2f44a0be1af782c243e11c8e5d0cdc8d64ae7863b543d500d755b55183656996",
+      "current_sha256": "2f44a0be1af782c243e11c8e5d0cdc8d64ae7863b543d500d755b55183656996",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "audio_tools/requirements-audio.txt",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Tooling and Reproduction/audio_tools/requirements-audio.txt",
+      "artifact_class": "03",
+      "original_delivery_sha256": "a25afede73daea74f4c3408b57304dd25628e6fdd1829380805a7c18ff258ac1",
+      "pre_migration_sha256": "a25afede73daea74f4c3408b57304dd25628e6fdd1829380805a7c18ff258ac1",
+      "current_sha256": "a25afede73daea74f4c3408b57304dd25628e6fdd1829380805a7c18ff258ac1",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "audio_tools/summarize_audio.py",
+      "current_character_root_relative_path": "03 Audiovisual and Voice/Tooling and Reproduction/audio_tools/summarize_audio.py",
+      "artifact_class": "03",
+      "original_delivery_sha256": "3f36fe1e99c5b79832064ac0d1517afbcf492fb1d132b387e033cca53c5c7a58",
+      "pre_migration_sha256": "3f36fe1e99c5b79832064ac0d1517afbcf492fb1d132b387e033cca53c5c7a58",
+      "current_sha256": "3f36fe1e99c5b79832064ac0d1517afbcf492fb1d132b387e033cca53c5c7a58",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": false
+    },
+    {
+      "original_repository_path": "reproduce_validation.py",
+      "current_character_root_relative_path": "04 Validation and Readiness/reproduce_validation.py",
+      "artifact_class": "04",
+      "original_delivery_sha256": "033b9cf96f55ba31b4968a4a502fbf59c01e0bebdeab57c8d1113c8bd6edbb9f",
+      "pre_migration_sha256": "033b9cf96f55ba31b4968a4a502fbf59c01e0bebdeab57c8d1113c8bd6edbb9f",
+      "current_sha256": "0ac45ce0aa36596ac2c98ee5da29b58de51040ed64daadd22e9b578e477ade82",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    },
+    {
+      "original_repository_path": "validate_audio_stage.py",
+      "current_character_root_relative_path": "04 Validation and Readiness/validate_audio_stage.py",
+      "artifact_class": "04",
+      "original_delivery_sha256": "f79018172d11b4ecf2c777a98d4ffca936a39c4789f217e07e31cf8b8d6c174c",
+      "pre_migration_sha256": "f79018172d11b4ecf2c777a98d4ffca936a39c4789f217e07e31cf8b8d6c174c",
+      "current_sha256": "f175c5578818652d0140e432f3e9cc6c3321d14dc5c767306d6bcc3f3fc0b30b",
+      "historical_delivery_matches_pre_migration": true,
+      "content_changed_for_current_routing": true
+    }
+  ]
+}
