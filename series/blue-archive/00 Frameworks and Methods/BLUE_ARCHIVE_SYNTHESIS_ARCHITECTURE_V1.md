@@ -109,6 +109,10 @@ It must answer:
 
 Update this file in place whenever project state materially changes.
 
+Keep this entrypoint focused on current authority, source boundary, accepted progress, unresolved duties and the next valid operation. Its compact readiness section is a manually maintained routing projection of the main coverage index plus the contextual companion's overrides; those indexes retain detailed coverage authority, and the bootstrap audit retains pilot assessment. Update the projection with accepted changes to its owners; resolve disagreements at those owners, never by promoting a summary row.
+
+The complete pre-refactor map through cycle 005 is retained in [the historical current-state archive](../90%20Legacy%20and%20Superseded/BLUE_ARCHIVE_CURRENT_STATE_HISTORY_THROUGH_CYCLE_005.md). That artifact is `historical_legacy` and cannot issue present instructions. Its creation supplies actual historical content for the existing legacy-home rule. Keep future detailed unit/cycle history in the established readings, checkpoints and ledgers, with concise current links here; do not accumulate another sequential rollup in the entrypoint. The [routing responsibility audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ROUTING_RESPONSIBILITY_AUDIT_20261001.md) records this bounded separation without changing analytical methods or phases.
+
 ---
 
 # 3. `00 Frameworks and Methods`
