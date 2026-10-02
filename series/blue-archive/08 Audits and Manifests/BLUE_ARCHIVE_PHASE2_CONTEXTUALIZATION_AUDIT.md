@@ -228,31 +228,31 @@ All group sequences below are required. The sequence key is metadata navigation 
 | Group source sequence key | Exact required story IDs | Current full content review |
 |---|---|---|
 | 11 | `BA:group:1101`, `BA:group:1102`, `BA:group:1103`, `BA:group:1104` | ACCEPTED_WITH_LIMITS cycle002 |
-| 12 | `BA:group:1201`, `BA:group:1202`, `BA:group:1203` | PENDING |
-| 13 | `BA:group:1301`, `BA:group:1302`, `BA:group:1303` | PENDING |
-| 14 | `BA:group:1401`, `BA:group:1402`, `BA:group:1403` | PENDING |
-| 15 | `BA:group:1501`, `BA:group:1502`, `BA:group:1503` | PENDING |
-| 16 | `BA:group:1601`, `BA:group:1602` | PENDING |
-| 17 | `BA:group:1701`, `BA:group:1702`, `BA:group:1703` | PENDING |
-| 18 | `BA:group:1801`, `BA:group:1802` | PENDING |
-| 19 | `BA:group:1901`, `BA:group:1902` | PENDING |
-| 20 | `BA:group:2001`, `BA:group:2002` | PENDING |
-| 21 | `BA:group:2101`, `BA:group:2102` | PENDING |
-| 22 | `BA:group:2201` | PENDING |
-| 23 | `BA:group:2301`, `BA:group:2302` | PENDING |
-| 24 | `BA:group:2401`, `BA:group:2402`, `BA:group:2403`, `BA:group:2404` | PENDING |
-| 25 | `BA:group:2501`, `BA:group:2502` | PENDING |
-| 26 | `BA:group:2601`, `BA:group:2602` | PENDING |
-| 27 | `BA:group:2701`, `BA:group:2702` | PENDING |
-| 28 | `BA:group:2801`, `BA:group:2802` | PENDING |
-| 29 | `BA:group:2901`, `BA:group:2902` | PENDING |
-| 30 | `BA:group:3001`, `BA:group:3002`, `BA:group:3003` | PENDING |
-| 31 | `BA:group:3101`, `BA:group:3102`, `BA:group:3103` | PENDING |
-| 32 | `BA:group:3201`, `BA:group:3202` | PENDING |
-| 33 | `BA:group:3301`, `BA:group:3302`, `BA:group:3303` | PENDING |
-| 34 | `BA:group:3401`, `BA:group:3402`, `BA:group:3403` | PENDING |
-| 35 | `BA:group:3501`, `BA:group:3502` | PENDING |
-| 36 | `BA:group:3601`, `BA:group:3602`, `BA:group:3603` | PENDING |
+| 12 | `BA:group:1201`, `BA:group:1202`, `BA:group:1203` | ACCEPTED_WITH_LIMITS cycle001 |
+| 13 | `BA:group:1301`, `BA:group:1302`, `BA:group:1303` | ACCEPTED_WITH_LIMITS cycle003 |
+| 14 | `BA:group:1401`, `BA:group:1402`, `BA:group:1403` | ACCEPTED_WITH_LIMITS cycle003 |
+| 15 | `BA:group:1501`, `BA:group:1502`, `BA:group:1503` | ACCEPTED_WITH_LIMITS cycle001 |
+| 16 | `BA:group:1601`, `BA:group:1602` | ACCEPTED_WITH_LIMITS cycle003 |
+| 17 | `BA:group:1701`, `BA:group:1702`, `BA:group:1703` | ACCEPTED_WITH_LIMITS cycle003 |
+| 18 | `BA:group:1801`, `BA:group:1802` | ACCEPTED_WITH_LIMITS cycle003 |
+| 19 | `BA:group:1901`, `BA:group:1902` | ACCEPTED_WITH_LIMITS cycle003 |
+| 20 | `BA:group:2001`, `BA:group:2002` | ACCEPTED_WITH_LIMITS cycle003 |
+| 21 | `BA:group:2101`, `BA:group:2102` | ACCEPTED_WITH_LIMITS cycle001 |
+| 22 | `BA:group:2201` | ACCEPTED_WITH_LIMITS cycle003 |
+| 23 | `BA:group:2301`, `BA:group:2302` | ACCEPTED_WITH_LIMITS cycle003 |
+| 24 | `BA:group:2401`, `BA:group:2402`, `BA:group:2403`, `BA:group:2404` | ACCEPTED_WITH_LIMITS cycle003 |
+| 25 | `BA:group:2501`, `BA:group:2502` | ACCEPTED_WITH_LIMITS cycle003 |
+| 26 | `BA:group:2601`, `BA:group:2602` | ACCEPTED_WITH_LIMITS cycle003 |
+| 27 | `BA:group:2701`, `BA:group:2702` | ACCEPTED_WITH_LIMITS cycle004 |
+| 28 | `BA:group:2801`, `BA:group:2802` | ACCEPTED_WITH_LIMITS cycle004 |
+| 29 | `BA:group:2901`, `BA:group:2902` | ACCEPTED_WITH_LIMITS cycle004 |
+| 30 | `BA:group:3001`, `BA:group:3002`, `BA:group:3003` | ACCEPTED_WITH_LIMITS cycle004 |
+| 31 | `BA:group:3101`, `BA:group:3102`, `BA:group:3103` | ACCEPTED_WITH_LIMITS cycle003 |
+| 32 | `BA:group:3201`, `BA:group:3202` | ACCEPTED_WITH_LIMITS cycle004 |
+| 33 | `BA:group:3301`, `BA:group:3302`, `BA:group:3303` | ACCEPTED_WITH_LIMITS cycle004 |
+| 34 | `BA:group:3401`, `BA:group:3402`, `BA:group:3403` | ACCEPTED_WITH_LIMITS cycle004 |
+| 35 | `BA:group:3501`, `BA:group:3502` | ACCEPTED_WITH_LIMITS cycle004 |
+| 36 | `BA:group:3601`, `BA:group:3602`, `BA:group:3603` | ACCEPTED_WITH_LIMITS cycle004 |
 
 
 All 61 event packages are required for complete content review. Each includes every canonical story ID named under that `event_content_id` in `stories.jsonl` and the [event index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_EVENT_ANALYTICAL_PRIORITY_INDEX.md#3-complete-event-object-inventory). The nine `EVENT_80000` stories and sixteen `EVENT_80001` stories are separate person contexts and may require separate readings; no synthetic anthology plot is invented. The 28 objects with two event contexts are each read once while both contexts remain in provenance.
@@ -265,16 +265,16 @@ All 61 event packages are required for complete content review. Each includes ev
 | `EVENT_804` | 13 | PENDING |
 | `EVENT_805` | 9 | PENDING |
 | `EVENT_806` | 11 | PENDING |
-| `EVENT_807` | 1 | PENDING |
+| `EVENT_807` | 1 | ACCEPTED_WITH_LIMITS cycle005 |
 | `EVENT_808` | 12 | PENDING |
 | `EVENT_809` | 20 | PENDING |
 | `EVENT_810` | 102 | PENDING |
 | `EVENT_811` | 12 | PENDING |
 | `EVENT_812` | 15 | PENDING |
 | `EVENT_813` | 19 | PENDING |
-| `EVENT_814` | 16 | PENDING |
+| `EVENT_814` | 16 | ACCEPTED_WITH_LIMITS cycle005 |
 | `EVENT_815` | 13 | PENDING |
-| `EVENT_816` | 17 | PENDING |
+| `EVENT_816` | 17 | ACCEPTED_WITH_LIMITS cycle001 |
 | `EVENT_817` | 11 | PENDING |
 | `EVENT_818` | 19 | PENDING |
 | `EVENT_819` | 11 | PENDING |
@@ -318,7 +318,7 @@ All 61 event packages are required for complete content review. Each includes ev
 | `EVENT_860` | 27 | PENDING |
 | `EVENT_861` | 13 | PENDING |
 | `EVENT_862` | 15 | PENDING |
-| `EVENT_80000` | 9 | PENDING |
+| `EVENT_80000` | 9 | ACCEPTED_WITH_LIMITS cycle001 |
 | `EVENT_80001` | 16 | PENDING |
 
 
