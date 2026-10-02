@@ -5,12 +5,12 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
-source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; side-source classes unadmitted"
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 180 supplemental objects admitted with limits in cycles001–005; other supplemental sources unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # BLUE ARCHIVE SENSEI ROLE AND ETHICS LEDGER
@@ -19,7 +19,7 @@ updated: 2026-09-28
 
 All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
 
-Group, event, bond, MomoTalk, mini, character-data and other side-source classes remain unadmitted. Performed voice is also unadmitted. The [coverage index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) records 21 `PARTIAL_MODEL` and 331 `UNMODELED` subjects across 352, with no standalone reconstruction model. Completion of the main-story readings does not establish reconstruction readiness.
+Cycles001–005 admit exactly **180 supplemental objects with limits:65 group,43 event,30 bond,30 MomoTalk and12 character_data**. [Cycle005](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_005_CHECKPOINT.md) and the exact object crosswalk own admission. Current combined coverage is **23 PARTIAL_MODEL /482 UNMODELED /505 analytical subjects**, every standalone model NONE. All65 group objects have complete accepted readings; Serika/Reijo/Rei/Ayane private/written pools have scoped acceptance; other private and mini obligations remain unadmitted. Main chronology, performed voice and unresolved outcomes retain their limits.
 
 ## Historical baselines and sequential deltas
 
@@ -2426,3 +2426,89 @@ Ayane briefs Sensei on daily Committee life, Hoshino's accepted presidency, lega
 ## V001 C003 E043 backfill Sensei ethics delta
 
 Sensei follows local Shiroko toward a theft call and distinguishes her from the counterpart speaker in the encounter (scene:001:u:0019-0033; choice:001-003). He asks counterpart Shiroko about food, invites ramen, accepts refusal, avoids forcing a painful past account and offers later timing (u:0034-0048; choice:004-008). He chooses to help despite her one-per-world concern, gives her a smartphone and invites contact within reach; she agrees without an on-page later call (u:0058-0074; choice:010-014). His assertion that change remains possible is a supportive judgment, not proof of guaranteed cure or Binah victory (u:0071-0113).
+
+## Phase 2 cycle 001 contextual delta — 2026-10-01
+
+[Accepted cycle and exact admission](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md). Witness a038020f, generation BA_REFRESH_20260928T032248159554Z; all 34 objects completely inspected. Main480 remains unchanged. Internal relative sequence only; no cross-source timeline, performed voice or prospective test.
+
+| Packet | Accepted adult-role evidence | Firewall / exact route |
+|---|---|---|
+| Abydos2101–2102 / C&C1201–1203 | No direct material Sensei act or relationship delta. Student work, desires, care and mistakes have their own authors. | No printed adult appearance, choices, inward thought, instruction or knowledge; zero player branches. Mentioned or implied offscreen adults are not assigned acts. |
+| Veritas1501–1503 | Maki invokes an imagined favorable teacher audience while persuading Kotama; Kotama denies that motive. | GROUP1501 u0031–0033 only. Sensei is not present, proven to view records or authorize conduct; imagined attraction is not fact. |
+| EVENT816 consultation | Welcomes initiated help, considers a nonpunitive problem, uses a peer contact and allows Reisa thinking time. | E001–005 choice/label limits; exact Suzumi disclosure contents unprinted. Helpful intention does not establish omniscience. |
+| EVENT816 errors and boundaries | Photograph loss and teasing coexist with assistance; Kazusa criticizes help and corrects intent-based reassurance. Reisa resists no-blame comfort and marks her complaint private. | E006 u0063–0073;E007 choice005;E008 choices003–004;E009 u0026–0033;E011 choice002/u0011–0012/u0027. No amalgamated options. |
+| EVENT816 aid / return | Suggestive visit precedes Kazusa's own inquiry; coordinated protection and meal offers return to ordinary relations. Later gratitude retains criticism and three alternative explanations of watchful help. | E012 u0021–0046 (u0030 inward);E013–015;E016 choice003/u0010–0026;E017 continued teasing. No medical guarantee or universal autonomy claim. |
+| EVENT80000 gift recipients | Praise, tasting, shared play and gratitude have person-specific responses. The Shiroko visitor actively reassures Sensei and Rio's joy intensifies through reception. | E117–125 independent choices/inward forms retained;E119 u0027–0042;E125 u0056–0079. Gratitude is not endorsement of hypnosis, undisclosed ingredients, fake contracts or public-policy repair. |
+
+The exact object crosswalk, packet readings and cycle checkpoint preserve all branch, label and identity warnings. Ordinary pleasure is affirmative evidence; it does not substitute for unprinted outcomes. No new durable claim/rule ID or standalone model is created.
+
+## Phase 2 cycle 002 contextual delta — 2026-10-01
+
+[Exact35-object acceptance](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_002_CHECKPOINT.md); pinned a038020f witness.17 scenes,893 structured utterances,102 choices,177 full-thread messages,3 profiles and229 written records (228 nonempty). Main480 and all historical knowledge boundaries remain unchanged.
+
+| Observed role | Accepted consequence | Witness / qualification |
+|---|---|---|
+| Serika work / rest / repair / leisure partner | Actual helpful acts and articulated responsibility coexist with mistaken expertise and mismatched play. Affection does not make instruction accurate or later objections insincere. | [Serika §§1–5](../02%20Sequential%20Readings/BOND/SERIKA/BLUE_ARCHIVE_SERIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md);96 bond choice groups and177 full-thread messages remain conditional alternatives. |
+| Privacy and reciprocity recipient | Separate nonviewing/deletion answers leave compliance unresolved; boat role switch is requested but adult departure is printed; classroom clothing request is refused and ramen promise withdrawn. | Momo130080170:266/267; swim003 u0023–0057 and full aftermath; swim005 u0034–0060. No injury, clothing compliance or later meal invented. |
+| Gourmet detainee / participant | Teacher joins a shared aroma encounter under alternate acceptance/refusal and explanation routes. Hina admits haste over a pool report, then renews suspicion. | GROUP1102 §§2/4/10; no direct teacher action in1101/1103/1104. This is not a complete adult corrective-role test. |
+
+No new durable claim/rule ID, model artifact, held-out test or forecast. Ordinary pleasure is affirmative evidence. Source/branch/chronology/identity and outcome limits remain in the linked complete readings.
+
+## Phase 2 cycle 003 contextual delta — 2026-10-01
+
+[31 complete group objects](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_003_CHECKPOINT.md) at the pinned a038020f witness. Ordinary tastes, chosen leisure, work, belonging, pleasure and objections have affirmative standing. Every effect is contextual and source-specific; no unproved main chronology or readiness promotion follows.
+
+| Complete packet | Accepted scoped contribution | Canonical argument |
+|---|---|---|
+| GROUP1301–1303 | **No material observed Sensei action or choice.** Cherino's reported Schale visit is not evidence that Sensei sold the doll, endorsed enrollment or intervened. Preserve main adult states. | [Full argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1301_1303_DEEP_READING.md) |
+| GROUP1401–1403 | **No material effect:** no Sensei presence, action, choice or report of intervention. Student problem-solving and accountability remain student directed. | [Full argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md) |
+| GROUP1601–1602 | **No material addition:** no teacher, adult instruction, player choice or adult response. Preserve prior Sensei ethics. | [Full argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1601_1602_DEEP_READING.md) |
+| GROUP1701–1703 | **No material Sensei effect:** no adult player intervention/choice. Care and harmful action belong to the represented students and intruder, not a teacher-authored plan. | [Full argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1701_1703_DEEP_READING.md) |
+| GROUP1801–1802 | **No material effect:** no Sensei action/choice. The student leader's imposed lesson must not be attributed to adult teacher policy. | [Full argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md) |
+| GROUP1901–1902 | **No material addition:** no Sensei actions/choices. Makoto's troop allegation is not a present adult ethics adjudication or authorial re-verdict of a main incident. | [Full argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md) |
+| GROUP2001–2002 | Explicit no material observed Sensei delta: neither object has Sensei or choices. Student coordination, disagreement and rescue are autonomous peer evidence. BA-C005/C006 remain rejected; absence does not establish a counterfactual outcome with a teacher present. | [Full argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md) |
+| GROUP2201 | Explicit no material observed Sensei delta: adult/teacher absence is source-bounded. Student detection and fallible restraint do not revive BA-C005/C006 or prove a teacher's hypothetical prevention. | [Full argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_2201_DEEP_READING.md) |
+| GROUP2301–2302 | No observed Sensei delta. Autonomous student criticism/planning provides bounded agency evidence; no counterfactual teacher necessity, authored choice or C005/C006 revival. | [Full argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_2301_2302_DEEP_READING.md) |
+| GROUP2401–2402 | Eleven groups/fourteen options, with three paired alternative sites and six conditional response records. Guidance does not dictate implementation. Inward concern not delivered warning; `自業自得` is a specific authored reply. C005/C006 rejected dispositions unchanged; no constant omnipotence or abandonment doctrine. | [Full argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_2401_2402_DEEP_READING.md) |
+| GROUP2403–2404 | Record33groups38options, four inward units and ns9/ns10 exception. Teacher supports anxious student but concerns do not guarantee safety or acceptance of advice. Mimori's guilt allegation/teacher denial remains a disagreement. C005/C006 stay rejected; no universal permissiveness or rescue theorem. | [Full argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_2403_2404_DEEP_READING.md) |
+| GROUP2501–2502 | Explicit no observed Sensei delta/no choices. Students have autonomous varied motives and capacities; C005/C006 stay rejected. Absence does not prove a hypothetical teacher could or should force an outcome. | [Full argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_2501_2502_DEEP_READING.md) |
+| GROUP2601–2602 | Thirteen groups/seventeen options. Teacher guesses without secure contents knowledge, later asks/listens and qualifies source disclosure. Distinguish C005/C006 rejected omnipotence/dependence from bounded contribution; no sole-source rumor causation or absolute secrecy doctrine. | [Full argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_2601_2602_DEEP_READING.md) |
+| GROUP3101–3103 | **No material Sensei action, choice or ethical adjudication.** Preserve existing states. Record only the limited mention in `3103 u:0021-0024` if needed to prevent an erroneous reciprocal-romance or adult-intervention claim. There are zero formal choices. | [Full argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md) |
+
+All previous main and cycle001–002 entries retain their dated information boundary. These complete outcomes were already exposed: `NO_DIAGNOSTIC_OPPORTUNITY`. BA-C005/C006 rejected dispositions remain; comparisons qualify situated claims rather than introducing a new universal law or frozen forecast.
+
+## Phase 2 cycle 004 contextual delta — 2026-10-01
+
+[22 complete group objects](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_004_CHECKPOINT.md) closes complete group-content intake at65/65, with per-arc contextual duties still governed by the whole-phase audit. [Fourteen additional principal retrieval families](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md) expand the required private scope; metadata availability does not supply new private evidence. Quiet wishes, craft, tastes, chosen rest, companionship and contrary recipient experience retain affirmative standing.
+
+| Complete packet | Accepted scoped contribution | Canonical argument |
+|---|---|---|
+| GROUP2701–2702 | No material observed Sensei delta, no player choices. Student coordination and failure remain autonomous; C005/C006 rejected dispositions unchanged. No teacher-absence counterfactual claim. | [Complete argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_2701_2702_DEEP_READING.md) |
+| GROUP2801–2802 | No observed Sensei delta or choices. Students create, object, help and fail independently; C005/C006 remain rejected. No teacher-absence explanation for every failure. | [Complete argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_2801_2802_DEEP_READING.md) |
+| GROUP2901–2902 | No direct Sensei action/choices. Izuna credits prior teacher-linked help `u0130–u0143`; narrator places other peers' meeting later. Preserve report/chronology boundary; C005/C006 remain rejected and autonomous peer admission is observed. | [Complete argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_2901_2902_DEEP_READING.md) |
+| GROUP3001–3003 | Explicit no direct Sensei action or choice; student-led competence, kindness and failure belong to students. Limit: Do not invent off-screen advice or infer adult absence as a judgment of adult duty. | [Complete argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_3001_3003_DEEP_READING.md) |
+| GROUP3201–3202 | Final listening/affirming alternatives only (3202 choices001–002), after student-owned work. Limit: No backstage command, solved peer boundary or sole cause of affection. | [Complete argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_3201_3202_DEEP_READING.md) |
+| GROUP3301–3303 | Explicit no material new Sensei action, choice or reported instruction. Credit teacher-like student mentoring to Sumire and choices/objections to Rei. Limit: No off-screen author of the repair or cause of the outing. | [Complete argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_3301_3303_DEEP_READING.md) |
+| GROUP3401–3403 | Visits/rest talk, rumor-probing/teasing exchange, broad crowd-expectation suggestion that Kisaki limits, qualified comfort/address repair and reluctant participation (3402 choices;3403 choices001–004/u0114). Limit: No sole-cause conflict solution, demonstrated catching/medical rescue or guaranteed audible inward-tagged prompts. | [Complete argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md) |
+| GROUP3501–3502 | Explicit no material new teacher action or choice. Student care, peer enabling and Hina's institutional boundary have their own actors. Limit: Do not turn analogy into a Schale intervention or gift rule for Sensei. | [Complete argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_3501_3502_DEEP_READING.md) |
+| GROUP3601–3603 | Explicit no new teacher action, response or report. The friends own this care and its limits. Limit: No off-screen therapeutic direction or sole adult repair. | [Complete argument and exact locators](../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_3601_3603_DEEP_READING.md) |
+
+All previous main and cycle001–003 entries retain their dated information boundaries. No global generic-role merge, main-state chronology transfer, silence-as-consent, cure, technical/legal closure or model promotion follows. These already exposed outcomes provide `NO_DIAGNOSTIC_OPPORTUNITY`; BA-C005/C006 rejected dispositions and all existing claim IDs remain intact.
+
+## Phase2 cycle005 contextual delta — 2026-10-01
+
+[Cycle005](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_005_CHECKPOINT.md) adds exactly58 reviewed objects:17 bond/17 full MomoTalk/7 written-data and17 event. Current total180 (65G/43E/30B/30M/12D); all480-main and earlier cycle histories remain intact. This section is contextual evidence, with no release-based main-state edge or model promotion.
+
+| Context | Accepted conduct and student authorship | Boundary / contrary evidence |
+|---|---|---|
+| Reijo | Desired company, giving/receiving care and protection wishes extend the adult/student relation beyond task completion. | Recognition wishes do not prove adult competence, right to inspect or general romantic consent; literal written stop is retained. |
+| Baseball Rei; Tsukuyo/Junko | Solicited practice help, student technical critique and giving encouragement qualify adult service. Tsukuyo requests company and Junko wants to treat the adult; ordinary pleasure is sufficient evidence. | Rei's transfer fails; pressure and praise/touch boundaries remain. Art/vendor raw actors are not Rei. No universal successful teacher or completed private repair. |
+| Ayane | Declared expertise limit, apology after a pose joke, requested navigation, shared maintenance/work substitution and validation of chosen treasure play are actually situated. |23005E005scene002u0036–0037 withholds injury reassurance.26007E003 continued entry/shaking after sleep protests is adverse evidence; later outing/privacy assent does not repair it. Photo-purpose misunderstanding and resource-limited return offer remain conditions, not arbitrary adult entitlement. |
+| EVENT814 | Adult participation and event-local help are distributed among students and practical resources; aspirations remain student-specific. | E004 expressed gaze discomfort survives the joint-cleaning agreement. Peer pressure and Wakamo force/coerced return are not licensed by intended help or later warmth. No sole repair author or general infallibility. |
+| EVENT807 | No direct Sensei actor/choice is printed. | Miku's public invitation creates no attendance, reply, teacher decision or ethical adjudication. Preserve an explicit no-direct-effect result alongside positive Miku ordinary evidence. |
+
+Complete arguments, canonical hashes and precise ownership are routed by the cycle checkpoint and object crosswalk. Ordinary pleasure, care, rest, work, friction and negative constraints remain evidence. WholePhase2 remains active; all12 arc acceptance rows are incomplete.
+
+### Accepted group relevance route
+
+The [65-group/12-arc relevance audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_GROUP_ARC_RELEVANCE_AUDIT.md) closes P2-R01 with limits in Cycle005 and supplies a cross-arc route for the already appended group evidence. Its §3 distinguishes actual direct people/community contexts, bounded comparisons and inspected absence for every arc; §5 identifies this ledger’s contribution. No source count, chronology edge, model promotion or new outcome is added. All prior raw actor, recipient, quiet pleasure, contrary and refusal constraints stay attached to their owning group arguments. Other wholePhase2 and full-arc duties remain incomplete.
