@@ -1593,6 +1593,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Fujita Kotone dedicated analysis](series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_COMPLETE_AUDIOVISUAL_BASELINE.md)
 
+### Fujiwara
+
+- Entity ID: `ntr-netsuzou-trap:fujiwara`
+- Entity aliases:
+  - _None._
+
+#### Subject: Japanese manga mainline
+
+- Analysis subject ID: `ntr-netsuzou-trap:fujiwara@manga`
+- Series: `ntr-netsuzou-trap`
+- Continuity: `ntr-netsuzou-trap-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `mainline-v01-v06`: MANGA VOLUME 1–6 (inclusive); continuity `ntr-netsuzou-trap-manga`
+- Reviewed current evidence:
+  - [`reviewed-mainline-monograph` — Mainline character monograph (V01–V06)](series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_FUJIWARA_MONOGRAPH.md) — **active provisional authority**
+
 ### Furina
 
 - Entity ID: `genshin-impact:furina`
@@ -6467,6 +6487,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `takao-reviewed-corpus`: GAME OTHER: Reviewed character monograph over the pinned Azur Lane multilingual extracted corpus, with CN semantic authority and explicitly bounded regional, relationship, memory, and performed-voice evidence.; continuity `azur-lane-mobile-game`
 - Reviewed current evidence:
   - [`azur-lane-takao-character-monograph` — AZUR LANE TAKAO CHARACTER MONOGRAPH](series/azur-lane/03%20Character%20Reconstruction/TAKAO_30311/AZUR_LANE_TAKAO_CHARACTER_MONOGRAPH.md)
+
+### Takeda
+
+- Entity ID: `ntr-netsuzou-trap:takeda`
+- Entity aliases:
+  - _None._
+
+#### Subject: Japanese manga mainline
+
+- Analysis subject ID: `ntr-netsuzou-trap:takeda@manga`
+- Series: `ntr-netsuzou-trap`
+- Continuity: `ntr-netsuzou-trap-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `mainline-v01-v06`: MANGA VOLUME 1–6 (inclusive); continuity `ntr-netsuzou-trap-manga`
+- Reviewed current evidence:
+  - [`reviewed-mainline-monograph` — Mainline character monograph (V01–V06)](series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_TAKEDA_MONOGRAPH.md) — **active provisional authority**
 
 ### Takeda Miho
 
