@@ -5,12 +5,12 @@ scope: SCHOOL_CLUB_INSTITUTION
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
-source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 180 supplemental objects admitted with limits in cycles001–005; other supplemental sources unadmitted"
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 213 supplemental objects admitted with limits in cycles001–006; other supplemental sources unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # BLUE ARCHIVE SCHOOL / CLUB / INSTITUTION LEDGER
@@ -19,7 +19,7 @@ updated: 2026-10-01
 
 All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
 
-Cycles001–005 admit exactly **180 supplemental objects with limits:65 group,43 event,30 bond,30 MomoTalk and12 character_data**. [Cycle005](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_005_CHECKPOINT.md) and the exact object crosswalk own admission. Current combined coverage is **23 PARTIAL_MODEL /482 UNMODELED /505 analytical subjects**, every standalone model NONE. All65 group objects have complete accepted readings; Serika/Reijo/Rei/Ayane private/written pools have scoped acceptance; other private and mini obligations remain unadmitted. Main chronology, performed voice and unresolved outcomes retain their limits.
+Cycles001–006 admit exactly **213 supplemental objects with limits:65 group,59 event,37 bond,37 MomoTalk and15 character_data**. [Cycle006](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_006_CHECKPOINT.md) and the exact object crosswalk own admission. Current combined coverage is **23 PARTIAL_MODEL /493 UNMODELED /516 analytical subjects**, every standalone model NONE. All65 group objects have complete accepted readings; Serika/Reijo/Rei/Ayane/Serina private/written pools have scoped acceptance; other private and mini obligations remain unadmitted. Main chronology, performed voice and unresolved outcomes retain their limits.
 
 ## Historical baselines and sequential deltas
 
@@ -2422,3 +2422,17 @@ Complete arguments, canonical hashes and precise ownership are routed by the cyc
 ### Accepted group relevance route
 
 The [65-group/12-arc relevance audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_GROUP_ARC_RELEVANCE_AUDIT.md) closes P2-R01 with limits in Cycle005 and supplies a cross-arc route for the already appended group evidence. Its §3 distinguishes actual direct people/community contexts, bounded comparisons and inspected absence for every arc; §5 identifies this ledger’s contribution. No source count, chronology edge, model promotion or new outcome is added. All prior raw actor, recipient, quiet pleasure, contrary and refusal constraints stay attached to their owning group arguments. Other wholePhase2 and full-arc duties remain incomplete.
+
+## Cycle006 contextual delta — 2026-10-02
+
+[Cycle006](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_006_CHECKPOINT.md) accepts exactly33 new objects: Serina7 bonds/7 full linked MomoTalk/3 written-data, plus16 independent EVENT80001 encounters. The following are source-located contextual additions, not ordered main-state transitions. [Serina complete17-source checkpoint](../02%20Sequential%20Readings/BOND/SERINA/BLUE_ARCHIVE_SERINA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) and [EVENT80001 complete16-source checkpoint](../02%20Sequential%20Readings/EVENTS/EVENT_80001/BLUE_ARCHIVE_EVENT_80001_CONTEXTUALIZATION_CHECKPOINT.md) own complete arguments, every source ID, choice/recipient controls and remaining limits. All prior historical deltas remain intact. Event suffixes below mean `BA:event:80001:<episode>:scene:001` unless scene002 is specified; Serina bond locators retain exact variant/episode/scene. The eleven newly recorded analytical routes include eight joined named people, one unresolved event-Kei actor and two explicitly local animal/voice buckets; they are not eleven certified human biographies. No readiness promotion, standalone model, audio inspection or global gap closure occurs.
+
+| Institution / work context | Accepted act or report | Remaining outcome debt |
+|---|---|---|
+| Serina / Knights / Schale | Ordinary charity, liked school/work and local patient-gift logistics coexist with explicit non-formal-nurse testimony26003E003u0020. | No clinical credential, clinical efficacy, lasting ward repair, security-access explanation or audited charity/accounting. Group1701–1703 and main ambulance/discharge witnesses retain their prior limits. |
+| Conditioned Serina written roles | Two profiles and all117 written records;48 costume contexts819/10819/900819 retain exact gates, repetition and shop/lobby distinction. | RawClub=None does not erase Japanese Knights membership. Shop closing/charity wording is not an audited financial or diegetic institutional outcome. No third unprinted shop set. |
+| Aoba / Nagusa / Niya | :129u0018 overtime/shop closure testimony; :130u0012 Ebisu-origin dairy in coating; :131u0001–0007 represented Onmyou-head invitation and local response time. | No employer audit, cookie manufacturer, independently authenticated charter/transfer or order against Hyakka succession. |
+| Wild Hunt / Fuyu / Ritsu | :134 narrated check timing and reported temporary outings rules; :135u0020–0024 tooth/prohibition/demand reports; :136u0033–0035 entry report and actual narrated security review. | No complete rulebook, violation adjudication, safe shot/commodity certification, transport route or full durable Schale repair. Registry club labels remain routes. |
+| Subaru / Arius | :138u0032–0033 reported salvaged-yolk practice andu0049 borrowed oven; bodily craft and ordinary work have literary value. | No observed children feeding, resource/enrollment audit, representative mandate, exam completion or institutional restoration. |
+| Yakumo / printshop / café | :140u0026 work setting andu0040–0043 reported advertisement/sample negotiation; actual departure toward the caféu0059. | No inspected contract, payment, delivered ad, actual café service or legal certification. Favorite cake and work metaphors remain distinct from those debts. |
+| Other encounters / local Kei | Gift ceremonies and actor-reported settings are accepted in their actual scope; no direct new governance result for Rei, Hikari, Nozomi, Eri, Kanoe, Takane or event-Kei. | Magic, mana, past-life memory, registry affiliations and body continuity are not institutionally certified. Animal and unknown forms create no new office. |
