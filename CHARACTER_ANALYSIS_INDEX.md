@@ -2520,6 +2520,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`character-state-ledger` — Cumulative character-state ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md) — **active provisional authority**
   - [`voice-address-ledger` — Cumulative Japanese voice and address ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md) — **active provisional authority**
 
+### Hotaru Mizushina
+
+- Entity ID: `ntr-netsuzou-trap:hotaru-mizushina`
+- Entity aliases:
+  - _None._
+
+#### Subject: Japanese manga mainline
+
+- Analysis subject ID: `ntr-netsuzou-trap:hotaru-mizushina@manga`
+- Series: `ntr-netsuzou-trap`
+- Continuity: `ntr-netsuzou-trap-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `mainline-v01-v06`: MANGA VOLUME 1–6 (inclusive); continuity `ntr-netsuzou-trap-manga`
+- Reviewed current evidence:
+  - [`reviewed-mainline-monograph` — Mainline character monograph (V01–V06)](series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_HOTARU_MONOGRAPH.md) — **active provisional authority**
+
 ### Hyodo Shizuku
 
 - Entity ID: `idoly-pride:hyodo-shizuku`
@@ -7354,6 +7374,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
   - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### Yuma Okazaki
+
+- Entity ID: `ntr-netsuzou-trap:yuma-okazaki`
+- Entity aliases:
+  - _None._
+
+#### Subject: Japanese manga mainline
+
+- Analysis subject ID: `ntr-netsuzou-trap:yuma-okazaki@manga`
+- Series: `ntr-netsuzou-trap`
+- Continuity: `ntr-netsuzou-trap-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `mainline-v01-v06`: MANGA VOLUME 1–6 (inclusive); continuity `ntr-netsuzou-trap-manga`
+- Reviewed current evidence:
+  - [`reviewed-mainline-monograph` — Mainline character monograph (V01–V06)](series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_YUMA_MONOGRAPH.md) — **active provisional authority**
 
 ### Yuuka
 
