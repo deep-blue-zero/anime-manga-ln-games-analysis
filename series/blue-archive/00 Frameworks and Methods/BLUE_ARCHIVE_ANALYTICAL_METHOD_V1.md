@@ -5,12 +5,12 @@ scope: 'Japanese Blue Archive game narrative corpus: main, group, event, bond, m
 generation: V1
 version: "1.8"
 status: canonical
-source_boundary: "Current promoted Japanese main-story snapshot: electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z, all 480 main units read; historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 remains attached to its readings; HePudding/ba-storybook@main 6c4091603ca76d7d8c3cdb9104933f52cd8cab8e remains the independent reference; 180 supplemental objects admitted with limits in Phase2 cycles001–005"
+source_boundary: "Current promoted Japanese main-story snapshot: electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z, all 480 main units read; historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 remains attached to its readings; HePudding/ba-storybook@main 6c4091603ca76d7d8c3cdb9104933f52cd8cab8e remains the independent reference; 213 supplemental objects admitted with limits in Phase2 cycles001–006"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # BLUE ARCHIVE ANALYTICAL METHOD V1
@@ -769,9 +769,9 @@ The strongest method is therefore:
 
 That order preserves literary causality while exploiting the unusual richness of the extracted corpus: public crises, institutional routines, private bond scenes, messaging behavior, voice/register data, and a reversible path back to the exact Japanese source record.
 
-## Current Phase 2 admission boundary — 2026-10-01
+## Current Phase 2 admission boundary — 2026-10-02
 
-Architecture **Phase 2 — Arc contextualization** is the active production phase; older method workflow numbering remains historical method organization. [Cycle005](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_005_CHECKPOINT.md) brings scoped supplemental admission to180 objects:65 group/43 event/30 bond/30 MomoTalk/12 data, alongside all480 main units. Complete group-content intake is closed; Reijo/Rei/Ayane available private pools and EVENT807/814 now have scoped content acceptance; [scope extension001](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md) adds227 private obligations and three mini relevance leads without admitting their unread content. Earlier cycles retain their exact dated admissions. The [Phase 2 audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md) and supplemental object crosswalk own the full completion scope and source-level progress. New contextual repertoire does not change main-story chronology, admit unread private sources or certify Phase 3 monographs/models. Written language remains distinct from performance.
+Architecture **Phase 2 — Arc contextualization** is the active production phase; older method workflow numbering remains historical method organization. [Cycle006](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_006_CHECKPOINT.md) brings scoped supplemental admission to213 objects:65 group/59 event/37 bond/37 MomoTalk/15 data, alongside all480 main units. Complete group-content intake is closed; Reijo/Rei/Ayane/Serina available private pools and EVENT807/814/80001 now have scoped content acceptance; [scope extension001](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md) adds227 private obligations and three mini relevance leads without admitting their unread content. Earlier cycles retain their exact dated admissions. The [Phase 2 audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md) and supplemental object crosswalk own the full completion scope and source-level progress. New contextual repertoire does not change main-story chronology, admit unread private sources or certify Phase 3 monographs/models. Written language remains distinct from performance.
 
 Current supplemental character coverage is maintained in the [contextual companion](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md), read together with the inherited 480-main coverage/history.
 
@@ -790,3 +790,11 @@ Current supplemental character coverage is maintained in the [contextual compani
 The full scope remains3631 mandatory/3682 tracked, with3451 mandatory/3502 tracked objects unaccepted. Required private remainders1031B/1031M/422D;57 event packages/967 objects remain. All12 arc rows remain incomplete. Phase3 — Character / relationship / institution packages follows the architecture evidence gates; full-pool intake is distinct from broad transfer or a finished model. Chronology, actual recipients, raw actors, consent conditions and unprinted outcomes retain their limits. No stakes threshold excludes quiet character evidence.
 
 The [complete65-group/12-arc relevance audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_GROUP_ARC_RELEVANCE_AUDIT.md) is parent-accepted as P2-R01 PASS_WITH_LIMITS with no additional source admission. Direct person/community core, bounded comparisons and inspected absence are grounded in the full accepted arguments. P2-R02–R09 and all12 full-arc rows remain incomplete; each source retains intrinsic ordinary value and its original knowledge/identity/chronology limits.
+
+## Phase2 cycle006 production boundary — 2026-10-02
+
+[The33-object acceptance](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_006_CHECKPOINT.md) admits Serina’s complete17-source private/written pool and all16 independent EVENT80001 encounters. Cumulative admission is213:65 group/59 event/37 bond/37 full MomoTalk/15 written-data. Ordinary preferences, receiving care, making, gifts, desired time, work and disappointment retain intrinsic literary value. Fake adult summons, refusal pressure, painful care, failed reception and explicit objections remain contrary evidence; a pleasant ending does not authorize an earlier objection. Exact source modes and mutually exclusive alternatives survive integration.
+
+All seven ledgers and five current coverage tables reconcile those accepted effects. The companion has262 rows:98 main-row overrides and164 added analytical subjects;254 main-only rows inherit unchanged. Combined readiness is23 PARTIAL_MODEL /493 UNMODELED /516 subjects, all standaloneNONE. The eleven new routes comprise eight joined named people, one unresolved event-local Kei actor and two local animal/voice buckets, not eleven certified human biographies. Existing baseball Rei receives the E126 addition; diving Rei, Nozomi/Nonomi and the unresolved main-Key/event-Kei identity boundaries remain separate.
+
+Full Phase2 scope remains3631 mandatory/3682 tracked. There are3418 mandatory/3469 tracked objects unaccepted:951 events in56 packages,1024 bond/1024 full MomoTalk/419 written-data. P2-R01 remains PASS_WITH_LIMITS; P2-R02–R09 and all12 arc rows remain incomplete. EVENT801 is the next independent rotation candidate, without an unread literary priority judgment. Later Phase3 — Character / relationship / institution packages and any reconstruction pilot retain their separate source/state/domain gates. Written Japanese does not admit performed voice or unprinted clinical, technical, legal, financial or institutional outcomes.

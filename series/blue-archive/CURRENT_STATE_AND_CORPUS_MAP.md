@@ -9,7 +9,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-10-01
+updated: 2026-10-02
 canonical_home: series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md
 ---
 
@@ -19,9 +19,9 @@ canonical_home: series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md
 
 This is the **single canonical current entrypoint** for the Japanese-primary Blue Archive analytical project in `deep-blue-zero/anime-manga-ln-games-analysis`, branch **`series/blue-archive`**, root **`series/blue-archive/`**. It routes literary analysis from complete source units through longitudinal state and checkpoints toward later specialist synthesis. Repository authority and publication remain governed by [AGENTS.md](../../AGENTS.md) and the [live integration checklist](../../governance/policies/CHANGE_INTEGRATION_CHECKLIST.md).
 
-**Phase 1 is complete at 480 / 480 canonical main units and 26 chapter checkpoints. Architecture Phase 2 — Arc contextualization is IN_PROGRESS through cycle 005: 180 supplemental objects admitted with limits. All 12 arc-completion rows remain incomplete. No standalone character model exists.**
+**Phase 1 is complete at 480 / 480 canonical main units and 26 chapter checkpoints. Architecture Phase 2 — Arc contextualization is IN_PROGRESS through cycle 006: 213 supplemental objects admitted with limits. All 12 arc-completion rows remain incomplete. No standalone character model exists.**
 
-Start with this file. For active work, descend into the [Phase 2 acceptance audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md#13-current-accepted-progress--cycle005-2026-10-01) and the exact selected source/reading routes; the [historical map](90%20Legacy%20and%20Superseded/BLUE_ARCHIVE_CURRENT_STATE_HISTORY_THROUGH_CYCLE_005.md) is unnecessary for routine startup. The audit owns acceptance criteria; this summary does not independently admit evidence or change readiness.
+Start with this file. For active work, descend into the [Phase 2 acceptance audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md#14-current-accepted-progress--cycle006-2026-10-02) and the exact selected source/reading routes; the [historical map](90%20Legacy%20and%20Superseded/BLUE_ARCHIVE_CURRENT_STATE_HISTORY_THROUGH_CYCLE_005.md) is unnecessary for routine startup. The audit owns acceptance criteria; this summary does not independently admit evidence or change readiness.
 
 ## 2. Current source boundary
 
@@ -37,40 +37,40 @@ The promoted source inventory has **4,864 objects in nine classes**. Availabilit
 
 ## 3. Accepted progress and unfinished work
 
-The [cycle 005 checkpoint](02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_005_CHECKPOINT.md) owns the latest accepted transaction; earlier cycles retain their exact scopes and limits.
+The [cycle 006 checkpoint](02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_006_CHECKPOINT.md) owns the latest accepted transaction; earlier cycles retain their exact scopes and limits.
 
 | Responsibility | Current state | Detailed owner |
 |---|---|---|
 | Main-story pass | **480 / 480**, 26 checkpoints, no unopened unit in the audited snapshot | [Main crosswalk](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_MAIN_STORY_TO_ANALYSIS_CROSSWALK.csv) and its readings/checkpoints |
-| Supplemental acceptance | **180**: 65 group / 43 event / 30 bond / 30 MomoTalk / 12 written character-data | [Supplemental object crosswalk](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv), exact IDs, hashes, claims and admission routes |
+| Supplemental acceptance | **213**: 65 group / 59 event / 37 bond / 37 MomoTalk / 15 written character-data | [Supplemental object crosswalk](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv), exact IDs, hashes, claims and admission routes |
 | Group duty | All **65 / 65** complete objects accepted; P2-R01 **PASS_WITH_LIMITS** for all 12 group-relevance questions | [Group/arc relevance audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_GROUP_ARC_RELEVANCE_AUDIT.md) |
 | Whole Phase 2 | All **12 arc rows incomplete**; P2-R02–R09 **IN_PROGRESS** | [Completion requirements and arc matrix](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md#2-completion-requirements) |
-| Remaining required intake | 967 event objects in 57 packages; 1,031 principal bond / 1,031 MomoTalk / 422 written-data objects | [Current acceptance table](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md#13-current-accepted-progress--cycle005-2026-10-01) |
-| Full tracked scope | 3,631 mandatory + 19 separate Kei identity objects + 32 mini leads = **3,682 tracked**; **3,451 mandatory / 3,502 tracked** still unaccepted | [Scope extension 001](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md), 125 retrieval families / 128 preserved raw keys |
-| Longitudinal integration | Seven ledgers retain all 480-main deltas and accepted cycles 001–005 | Ledger routes in §5 |
-| Later analytical layers | No standalone reconstruction model, monograph, adjudicated relationship/institutional synthesis, Sensei full synthesis, current-era synthesis, frozen release or prospective/adjudication register | [Architecture](00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md) and [bootstrap audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md#current-disposition--2026-10-01) |
+| Remaining required intake | 951 event objects in 56 packages; 1,024 principal bond / 1,024 MomoTalk / 419 written-data objects | [Current acceptance table](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md#14-current-accepted-progress--cycle006-2026-10-02) |
+| Full tracked scope | 3,631 mandatory + 19 separate Kei identity objects + 32 mini leads = **3,682 tracked**; **3,418 mandatory / 3,469 tracked** still unaccepted | [Scope extension 001](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md), 125 retrieval families / 128 preserved raw keys |
+| Longitudinal integration | Seven ledgers retain all 480-main deltas and accepted cycles 001–006 | Ledger routes in §5 |
+| Later analytical layers | No standalone reconstruction model, monograph, adjudicated relationship/institutional synthesis, Sensei full synthesis, current-era synthesis, frozen release or prospective/adjudication register | [Architecture](00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md) and [bootstrap audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md#current-disposition--2026-10-02) |
 
-Serika's complete available 31-object private/written packet remains accepted. Cycle 005 also accepts Reijo/Rei/Ayane available private/written pools, two separately interpreted Tsukuyo/Junko pairs, and complete EVENT807/814. Rei inquiry joins do not establish baseball-Rei appearances. Accepted event packages are EVENT816, EVENT80000, EVENT807 and EVENT814. Other delivered drafts remain unadmitted until review and shared reconciliation. Mini, special-operation, unclassified scenario and performed voice remain unadmitted.
+Serika's complete available 31-object private/written packet remains accepted. Cycle 005 also accepts Reijo/Rei/Ayane available private/written pools, two separately interpreted Tsukuyo/Junko pairs, and complete EVENT807/814. Rei inquiry joins do not establish baseball-Rei appearances. Cycle 006 adds Serina’s complete 17-object private/written pool and all 16 independent EVENT80001 encounters. Accepted event packages are EVENT816, EVENT80000, EVENT807, EVENT814 and EVENT80001. Other delivered drafts remain unadmitted until review and shared reconciliation. Mini, special-operation, unclassified scenario and performed voice remain unadmitted.
 
 These are scoped analytical acceptance states. Historical publication rows in cycle audits record their then-known checks; the repository checklist and exact GitHub commit status govern publication and integration.
 
 ## 4. Compact readiness routing
 
-This section is a **manually maintained routing summary**, not another coverage authority or generated database. Detailed canonical truth is the [main coverage index](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md#5-project-local-readiness-and-artifact-state) **plus** the [contextual companion](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md#4-project-local-readiness-and-artifact-state). Apply the companion's subject overrides first: its 247 rows override 94 of the 352 main-only rows and add 153 subjects; 258 main-only rows inherit unchanged. Count each subject once.
+This section is a **manually maintained routing summary**, not another coverage authority or generated database. Detailed canonical truth is the [main coverage index](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md#5-project-local-readiness-and-artifact-state) **plus** the [contextual companion](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md#4-project-local-readiness-and-artifact-state). Apply the companion's subject overrides first: its 262 rows override 98 of the 352 main-only rows and add 164 analytical subjects; 254 main-only rows inherit unchanged. Count each subject once.
 
 | Readiness | Current count |
 |---|---:|
 | `PARTIAL_MODEL` | **23** |
-| `UNMODELED` | **482** |
+| `UNMODELED` | **493** |
 | `OPERATIONAL_CANDIDATE` | **0** |
 | `BOUNDED_VALIDATED` | **0** |
-| Total analytical subjects | **505** |
+| Total analytical subjects | **516** |
 
 All 23 `PARTIAL_MODEL` subjects, retaining the owners' identity labels: **Sensei; Reisa; Momoi; Midori; Alice / `AL-1S` (provisional); Yuzu; Yuuka; Ayane; Shiroko; Nonomi; Serika; Hoshino; Aru; Mutsuki; Kayoko; Haruka; Hifumi; Ako; Hina; Black Suit (role actor); Kaiser director (role actor); Shiba Seki master (role actor); Kazusa.** All standalone model fields are `NONE`; partial readiness denotes distributed supported mechanisms, not completed models or whole-person simulation capability.
 
-Latest readiness transitions: **Kazusa and Reisa, `UNMODELED` → distributed `PARTIAL_MODEL` in [cycle 001 §4](02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md#4-readiness-adjudication)**, limited to the accepted event-local domains. Cycles 002–005 add coverage and subjects without further readiness promotions. Source-local role/voice buckets are not certified distinct biographies.
+Latest readiness transitions: **Kazusa and Reisa, `UNMODELED` → distributed `PARTIAL_MODEL` in [cycle 001 §4](02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_001_CHECKPOINT.md#4-readiness-adjudication)**, limited to the accepted event-local domains. Cycles 002–006 add coverage and subjects without further readiness promotions. Source-local role/voice buckets are not certified distinct biographies.
 
-Bounded **design leads**, not active operational models: Yuuka's named Pavane council/club decision contract and Serika's familiar service/reciprocity alternative. The [bootstrap pilot assessment](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md#24-pilot-reassessment), qualified by its [cycle 005 reassessment](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md#33-current-cycle005-readiness-reassessment--2026-10-01), owns those choices. Hoshino/Hina require substantial state reconciliation; Sensei requires separate choice-space treatment. The [reconstruction specification](00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md) governs construction and validation, not a competing live admission census.
+Bounded **design leads**, not active operational models: Yuuka's named Pavane council/club decision contract and Serika's familiar service/reciprocity alternative. The [bootstrap pilot assessment](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md#24-pilot-reassessment), qualified by its [cycle 006 reassessment](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md#34-current-cycle006-readiness-reassessment--2026-10-02), owns those choices. Hoshino/Hina require substantial state reconciliation; Sensei requires separate choice-space treatment. The [reconstruction specification](00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md) governs construction and validation, not a competing live admission census.
 
 Update this summary only with accepted changes to its owners; reconcile discrepancies there before changing the summary. Do not append detailed coverage rows or sequential history here.
 
@@ -104,7 +104,7 @@ For a substantive question: this map → coverage or relevant checkpoint → app
 
 ## 6. Active gaps and next valid operation
 
-Continue **Phase 2 contextualization**: select the next unaccepted complete event or private/written family packet under the [Phase 2 audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md) and [object crosswalk](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv), review the complete argument and consequential source evidence, then accept only its supported scope and reconcile affected ledgers, coverage and controls. Preserve full-source event rotation alongside inquiry-led selection. Existing drafts are review candidates, not accepted progress. The event index currently routes EVENT80001 as the next independent rotation packet and EVENT806 as a Yuuka/C&C inquiry; neither is admitted.
+Continue **Phase 2 contextualization**: select the next unaccepted complete event or private/written family packet under the [Phase 2 audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md) and [object crosswalk](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv), review the complete argument and consequential source evidence, then accept only its supported scope and reconcile affected ledgers, coverage and controls. Preserve full-source event rotation alongside inquiry-led selection. Existing drafts are review candidates, not accepted progress. The event index currently routes EVENT801 as the next independent rotation packet and EVENT806 as a Yuuka/C&C inquiry; neither is admitted. This queue order is distinct from a literary priority judgment on unread material.
 
 Major unresolved responsibilities are the remaining event/private/written and per-arc duties in §3; [G01–G06](01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md#1-current-material-gaps-and-claim-effects) distinguish ordinary/private breadth, Yuuka transfer, Serika's remaining event range, Hina accountability, Arius/PS68 aftermath, and cross-school contexts. G11 retains Hoshino's Yume-record and office-state limits; G07–G10 and G12 retain chronology, naming, attribution, performance and identity constraints. Kaguya's private route remains unresolved; the [scope extension](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md#3-exact-identity-and-overlap-decisions) owns that inquiry. Unprinted legal, medical or technical outcomes cannot be closed by unrelated ordinary scenes.
 
@@ -120,4 +120,4 @@ Do not extend main-story dialogue until release status, source provenance and ad
 
 The [historical current-state archive through cycle 005](90%20Legacy%20and%20Superseded/BLUE_ARCHIVE_CURRENT_STATE_HISTORY_THROUGH_CYCLE_005.md) preserves the complete former map, including earlier rollups, V1 build/retrieval counts, Drive provenance IDs, unit-level cautions, historical readiness and obsolete next-unit instructions. It is **historical_legacy**, never a second current entrypoint. Detailed readings, checkpoints and ledgers remain in their existing canonical homes. The [maintenance audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ROUTING_RESPONSIBILITY_AUDIT_20261001.md) records the responsibility assessment, preservation proof and cold-start check.
 
-Keep future updates here limited to current routing and accepted state. Preserve detailed historical developments in their existing analytical owners. Resume substantive Phase 2 work after this bounded maintenance pass.
+Keep future updates here limited to current routing and accepted state. Preserve detailed historical developments in their existing analytical owners. Continue substantive Phase 2 work through the accepted-state owners and source-facing routes above.
