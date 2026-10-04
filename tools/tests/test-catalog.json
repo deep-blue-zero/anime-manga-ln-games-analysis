@@ -2041,6 +2041,106 @@
       ],
       "purpose": "untyped sequential directory artifact fails closed"
     },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_preserves_only_reviewed_completed_readings": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "terminal closure preserves only reviewed completed readings"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_rejects_added_changed_missing_and_renamed_readings": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "terminal closure rejects added changed missing renamed retyped and untracked readings"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_requires_closed_completed_consistent_routing_and_foundation": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "terminal closure requires closed completed consistent routing and current initialized foundation"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_control_fails_closed_on_malformed_or_unregistered_records": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "terminal closure control fails closed on malformed or unregistered records"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_resolves_commit_objects_offline": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Resolve local historical commit objects and reject missing, noncommit, or mismatched completion provenance."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_rejects_joint_reading_and_digest_replacement": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Reject coordinated replacement of candidate reading bytes and control digest against the recorded historical tree."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_rejects_missing_or_nonregular_historical_reading": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Reject seals whose historical path is missing or is not a regular evidence blob."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_requires_declared_supplemental_lane": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Reject absent, malformed, incomplete, or reopened supplemental execution when the closure requires the lane."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_without_required_lane_remains_valid_and_checks_present_lane": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Permit a reviewed closure without a required supplemental lane while validating any lane present."
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_validates_staged_snapshot_against_recorded_history": {
+      "group": "regression",
+      "smoke": false,
+      "inputs": [
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/validate_repository.py",
+        "tools/character_index_core.py"
+      ],
+      "purpose": "Accept an offline staged closure against the recorded historical commit independently of a different HEAD."
+    },
     "test_project_initiation_gate.ProjectInitiationGateTests.test_current_repository_examples_remain_compatible": {
       "group": "live_corpus",
       "smoke": false,
