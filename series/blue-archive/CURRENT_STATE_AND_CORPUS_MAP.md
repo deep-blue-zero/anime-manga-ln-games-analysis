@@ -9,7 +9,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-10-02
+updated: 2026-10-03
 canonical_home: series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md
 ---
 
@@ -104,7 +104,7 @@ For a substantive question: this map → coverage or relevant checkpoint → app
 
 ## 6. Active gaps and next valid operation
 
-Continue **Phase 2 contextualization**: select the next unaccepted complete event or private/written family packet under the [Phase 2 audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md) and [object crosswalk](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv), review the complete argument and consequential source evidence, then accept only its supported scope and reconcile affected ledgers, coverage and controls. Preserve full-source event rotation alongside inquiry-led selection. Existing drafts are review candidates, not accepted progress. The event index currently routes EVENT801 as the next independent rotation packet and EVENT806 as a Yuuka/C&C inquiry; neither is admitted. This queue order is distinct from a literary priority judgment on unread material.
+Continue **Phase 2 contextualization**: select the next unaccepted complete event or private/written family packet under the [Phase 2 audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md) and [object crosswalk](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv), review the complete argument and consequential source evidence, then accept only its supported scope and reconcile affected ledgers, coverage and controls. Preserve full-source event rotation alongside inquiry-led selection. Existing drafts are review candidates, not accepted progress. The [2026-10-03 review-draft snapshot](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_REVIEW_DRAFT_PUBLICATION_20261003.md) routes completed unadmitted arguments and their pending checks; publication of those drafts does not change this accepted-state summary. The event index currently routes EVENT801 as the next independent rotation packet and EVENT806 as a Yuuka/C&C inquiry; neither is admitted. This queue order is distinct from a literary priority judgment on unread material.
 
 Major unresolved responsibilities are the remaining event/private/written and per-arc duties in §3; [G01–G06](01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md#1-current-material-gaps-and-claim-effects) distinguish ordinary/private breadth, Yuuka transfer, Serika's remaining event range, Hina accountability, Arius/PS68 aftermath, and cross-school contexts. G11 retains Hoshino's Yume-record and office-state limits; G07–G10 and G12 retain chronology, naming, attribution, performance and identity constraints. Kaguya's private route remains unresolved; the [scope extension](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md#3-exact-identity-and-overlap-decisions) owns that inquiry. Unprinted legal, medical or technical outcomes cannot be closed by unrelated ordinary scenes.
 
