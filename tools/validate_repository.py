@@ -1291,13 +1291,16 @@ def _load_project_initiation_gate(
                 errors.append(f"{label}: invalid project root")
                 continue
             if not isinstance(closure, Mapping) or set(closure) != {
-                "canonical_entrypoint", "completion_commit", "frozen_sequential_artifacts"
+                "canonical_entrypoint", "completion_commit", "frozen_sequential_artifacts",
+                "supplemental_execution_required",
             }:
                 errors.append(f"{label}: invalid terminal closure fields")
                 continue
             commit = closure["completion_commit"]
             if not isinstance(commit, str) or re.fullmatch(r"[0-9a-f]{40}", commit) is None:
                 errors.append(f"{label}: completion_commit must be a full commit ID")
+            if not isinstance(closure["supplemental_execution_required"], bool):
+                errors.append(f"{label}: supplemental_execution_required must be a boolean")
             frozen = closure["frozen_sequential_artifacts"]
             if not isinstance(frozen, Mapping) or not frozen:
                 errors.append(f"{label}: frozen_sequential_artifacts must be a nonempty object")
@@ -1668,6 +1671,24 @@ def _validate_terminal_corpus(
     if entrypoint_path != closure["canonical_entrypoint"]:
         errors.append(f"{entrypoint_path}: terminal closure canonical entrypoint changed")
     frozen = closure["frozen_sequential_artifacts"]
+    # Use immutable local Git objects, independent of HEAD and the candidate
+    # index/worktree. Missing history is a failure, never a network lookup or
+    # permission to substitute the candidate bytes for the historical seal.
+    try:
+        completion = GitSnapshot.from_commit(snapshot.root, closure["completion_commit"])
+    except DomainError as exc:
+        errors.append(f"{entrypoint_path}: terminal completion_commit cannot be resolved: {exc}")
+    else:
+        for path, digest in frozen.items():
+            historical = completion.get(path)
+            if (
+                historical is None
+                or not historical.qualifies_as_evidence
+                or hashlib.sha256(historical.data).hexdigest() != digest
+            ):
+                errors.append(
+                    f"{path}: terminal frozen seal does not match completion_commit tree"
+                )
     if set(frozen) != sequential_paths:
         errors.append(
             f"{entrypoint_path}: terminal sequential corpus differs from reviewed closure "
@@ -1700,8 +1721,8 @@ def _validate_terminal_corpus(
             errors.append(f"{entrypoint_path}: terminal closure requires {field} NONE")
     if not isinstance(execution, Mapping) or execution.get("run_state") != "complete":
         errors.append(f"{entrypoint_path}: terminal closure requires run_state complete")
-    if "supplemental_execution" in front:
-        supplemental = front["supplemental_execution"]
+    if closure["supplemental_execution_required"] or "supplemental_execution" in front:
+        supplemental = front.get("supplemental_execution")
         current = (
             supplemental.get("current_state")
             if isinstance(supplemental, Mapping) else None

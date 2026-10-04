@@ -4,6 +4,7 @@ import hashlib
 import json
 import re
 import sys
+import tempfile
 import unittest
 from pathlib import Path
 
@@ -13,7 +14,7 @@ ROOT = TOOLS.parent
 sys.path.insert(0, str(TOOLS))
 
 from analytical_preflight import ROUTING_OUTPUTS, routing_preflight  # noqa: E402
-from character_index_core import GitSnapshot, SnapshotEntry  # noqa: E402
+from character_index_core import GitSnapshot, SnapshotEntry, run_git  # noqa: E402
 from validate_repository import (  # noqa: E402
     PROJECT_INITIATION_GATE_PATH,
     _load_project_initiation_gate,
@@ -44,6 +45,30 @@ class ProjectInitiationGateTests(unittest.TestCase):
     architecture = prefix + "ARCHITECTURE.md"
     infrastructure = prefix + "LEDGER.md"
     sequential = prefix + "SOURCE_UNIT_01.md"
+
+    @classmethod
+    def setUpClass(cls) -> None:
+        cls.history_directory = tempfile.TemporaryDirectory(prefix="terminal-gate-history-")
+        cls.addClassCleanup(cls.history_directory.cleanup)
+        cls.history_root = Path(cls.history_directory.name)
+        run_git(cls.history_root, "init", "--quiet")
+        run_git(cls.history_root, "config", "user.name", "Gate fixture")
+        run_git(cls.history_root, "config", "user.email", "fixture@example.invalid")
+        run_git(cls.history_root, "config", "core.autocrlf", "false")
+        reading = cls.history_root / cls.sequential
+        reading.parent.mkdir(parents=True)
+        reading.write_bytes(authority_markdown("volume_deep_reading"))
+        run_git(cls.history_root, "add", "--", cls.sequential)
+        run_git(cls.history_root, "commit", "--quiet", "-m", "Accepted reading")
+        cls.completion_commit = run_git(cls.history_root, "rev-parse", "HEAD").decode().strip()
+        cls.reading_blob = run_git(cls.history_root, "rev-parse", f"HEAD:{cls.sequential}").decode().strip()
+        reading.write_bytes(authority_markdown("volume_deep_reading", "Changed"))
+        run_git(cls.history_root, "add", "--", cls.sequential)
+        run_git(cls.history_root, "commit", "--quiet", "-m", "Different historical reading")
+        cls.different_commit = run_git(cls.history_root, "rev-parse", "HEAD").decode().strip()
+        run_git(cls.history_root, "update-index", "--cacheinfo", f"120000,{cls.reading_blob},{cls.sequential}")
+        run_git(cls.history_root, "commit", "--quiet", "-m", "Nonregular historical reading")
+        cls.nonregular_commit = run_git(cls.history_root, "rev-parse", "HEAD").decode().strip()
 
     @staticmethod
     def control() -> dict:
@@ -397,12 +422,15 @@ class ProjectInitiationGateTests(unittest.TestCase):
 
     def terminal_snapshot(self) -> GitSnapshot:
         snapshot = self.snapshot(state="")
+        snapshot.root = self.history_root
         declarations = (
             self.state(lock="CLOSED", infrastructure=["LEDGER.md"])
             .removeprefix("```yaml\n").removesuffix("\n```")
             + "\n  next_permitted_operation: NONE_ADMITTED_BOUNDARIES_COMPLETE\n"
             + "sequential_execution:\n  run_state: complete\n"
             + "  next_candidate_operation: NONE_TERMINAL_BOUNDARY_COMPLETE\n"
+            + "supplemental_execution:\n  current_state: CLOSED_BOUNDARY_COMPLETE\n"
+            + "  other_narrative_admission: NOT_AUTHORIZED\n"
         )
         entry = snapshot.entries[self.entrypoint]
         snapshot.entries[self.entrypoint] = SnapshotEntry(
@@ -413,7 +441,8 @@ class ProjectInitiationGateTests(unittest.TestCase):
         control = self.control()
         control["terminal_closures"] = {self.prefix: {
             "canonical_entrypoint": self.entrypoint,
-            "completion_commit": "b" * 40,
+            "completion_commit": self.completion_commit,
+            "supplemental_execution_required": True,
             "frozen_sequential_artifacts": {
                 self.sequential: hashlib.sha256(snapshot.entries[self.sequential].data).hexdigest()
             },
@@ -462,7 +491,7 @@ class ProjectInitiationGateTests(unittest.TestCase):
             (b"required_day_one_infrastructure_initialized: true", b"required_day_one_infrastructure_initialized: false", "infrastructure must be explicitly initialized"),
             (b"governing_method: METHOD.md", b"governing_method: MISSING.md", "governing analytical method is missing"),
             (b"synthesis_architecture: ARCHITECTURE.md", b"synthesis_architecture: MISSING.md", "governing synthesis architecture is missing"),
-            (b"---\n\n", b"supplemental_execution:\n  current_state: OPEN\n  other_narrative_admission: AUTHORIZED\n---\n\n", "terminal supplemental execution must be CLOSED"),
+            (b"current_state: CLOSED_BOUNDARY_COMPLETE", b"current_state: OPEN", "terminal supplemental execution must be CLOSED"),
         ):
             with self.subTest(expected=expected):
                 snapshot = self.terminal_snapshot()
@@ -475,7 +504,7 @@ class ProjectInitiationGateTests(unittest.TestCase):
         self.assert_failure_contains(self.failures(snapshot), "governing analytical method is not current-eligible")
 
     def test_terminal_closure_control_fails_closed_on_malformed_or_unregistered_records(self) -> None:
-        for mutation in ("root", "fields", "commit", "entrypoint", "outside", "hash", "empty", "unregistered"):
+        for mutation in ("root", "fields", "commit", "entrypoint", "outside", "hash", "empty", "unregistered", "supplemental_required", "supplemental_missing"):
             with self.subTest(mutation=mutation):
                 snapshot = self.terminal_snapshot()
                 control = json.loads(snapshot.entries[PROJECT_INITIATION_GATE_PATH].data)
@@ -494,10 +523,104 @@ class ProjectInitiationGateTests(unittest.TestCase):
                     closure["frozen_sequential_artifacts"][self.sequential] = "not-a-digest"
                 elif mutation == "empty":
                     closure["frozen_sequential_artifacts"] = {}
+                elif mutation == "supplemental_required":
+                    closure["supplemental_execution_required"] = "true"
+                elif mutation == "supplemental_missing":
+                    del closure["supplemental_execution_required"]
                 else:
                     snapshot.entries["series/registry.json"] = SnapshotEntry("series/registry.json", "100644", b'{"series":[]}\n')
                 snapshot.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(PROJECT_INITIATION_GATE_PATH, "100644", json.dumps(control).encode())
                 self.assert_failure_contains(self.failures(snapshot), "terminal")
+
+    def test_terminal_closure_resolves_commit_objects_offline(self) -> None:
+        for commit in ("0" * 40, self.reading_blob, self.different_commit):
+            with self.subTest(commit=commit):
+                snapshot = self.terminal_snapshot()
+                control = json.loads(snapshot.entries[PROJECT_INITIATION_GATE_PATH].data)
+                control["terminal_closures"][self.prefix]["completion_commit"] = commit
+                snapshot.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+                    PROJECT_INITIATION_GATE_PATH, "100644", json.dumps(control).encode()
+                )
+                self.assert_failure_contains(self.failures(snapshot), "completion_commit")
+
+    def test_terminal_closure_rejects_joint_reading_and_digest_replacement(self) -> None:
+        snapshot = self.terminal_snapshot()
+        entry = snapshot.entries[self.sequential]
+        replacement = entry.data + b"Unreviewed replacement\n"
+        snapshot.entries[self.sequential] = SnapshotEntry(entry.path, entry.mode, replacement)
+        control = json.loads(snapshot.entries[PROJECT_INITIATION_GATE_PATH].data)
+        control["terminal_closures"][self.prefix]["frozen_sequential_artifacts"][self.sequential] = hashlib.sha256(replacement).hexdigest()
+        snapshot.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+            PROJECT_INITIATION_GATE_PATH, "100644", json.dumps(control).encode()
+        )
+        self.assert_failure_contains(self.failures(snapshot), "seal does not match completion_commit tree")
+
+    def test_terminal_closure_rejects_missing_or_nonregular_historical_reading(self) -> None:
+        for mutation in ("missing", "nonregular"):
+            with self.subTest(mutation=mutation):
+                snapshot = self.terminal_snapshot()
+                control = json.loads(snapshot.entries[PROJECT_INITIATION_GATE_PATH].data)
+                closure = control["terminal_closures"][self.prefix]
+                if mutation == "missing":
+                    path = self.prefix + "NOT_IN_HISTORY.md"
+                    entry = snapshot.entries.pop(self.sequential)
+                    snapshot.entries[path] = SnapshotEntry(path, entry.mode, entry.data)
+                    closure["frozen_sequential_artifacts"] = {path: hashlib.sha256(entry.data).hexdigest()}
+                else:
+                    closure["completion_commit"] = self.nonregular_commit
+                snapshot.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+                    PROJECT_INITIATION_GATE_PATH, "100644", json.dumps(control).encode()
+                )
+                self.assert_failure_contains(self.failures(snapshot), "seal does not match completion_commit tree")
+
+    def test_terminal_closure_requires_declared_supplemental_lane(self) -> None:
+        lane = (
+            b"supplemental_execution:\n  current_state: CLOSED_BOUNDARY_COMPLETE\n"
+            b"  other_narrative_admission: NOT_AUTHORIZED\n"
+        )
+        for replacement in (
+            b"", b"supplemental_execution: null\n", b"supplemental_execution: []\n",
+            b"supplemental_execution:\n  current_state: CLOSED\n",
+            lane.replace(b"NOT_AUTHORIZED", b"AUTHORIZED"),
+        ):
+            with self.subTest(replacement=replacement):
+                snapshot = self.terminal_snapshot()
+                entry = snapshot.entries[self.entrypoint]
+                self.assertEqual(entry.data.count(lane), 1)
+                snapshot.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, entry.data.replace(lane, replacement, 1))
+                self.assert_failure_contains(self.failures(snapshot), "terminal supplemental execution must be CLOSED")
+
+    def test_terminal_closure_without_required_lane_remains_valid_and_checks_present_lane(self) -> None:
+        snapshot = self.terminal_snapshot()
+        control = json.loads(snapshot.entries[PROJECT_INITIATION_GATE_PATH].data)
+        control["terminal_closures"][self.prefix]["supplemental_execution_required"] = False
+        snapshot.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+            PROJECT_INITIATION_GATE_PATH, "100644", json.dumps(control).encode()
+        )
+        entry = snapshot.entries[self.entrypoint]
+        snapshot.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, entry.data.replace(b"current_state: CLOSED_BOUNDARY_COMPLETE", b"current_state: OPEN"))
+        self.assert_failure_contains(self.failures(snapshot), "terminal supplemental execution must be CLOSED")
+        snapshot.entries[entry.path] = SnapshotEntry(entry.path, entry.mode, entry.data.replace(
+            b"supplemental_execution:\n  current_state: CLOSED_BOUNDARY_COMPLETE\n  other_narrative_admission: NOT_AUTHORIZED\n", b""
+        ))
+        self.assertEqual(self.failures(snapshot), [])
+
+    def test_terminal_closure_validates_staged_snapshot_against_recorded_history(self) -> None:
+        # HEAD deliberately differs from completion_commit. The staged candidate
+        # retains the accepted bytes and needs neither a network nor a commit.
+        snapshot = self.terminal_snapshot()
+        with tempfile.TemporaryDirectory(prefix="terminal-gate-index-") as directory:
+            root = Path(directory)
+            run_git(root, "clone", "--quiet", "--no-checkout", "--no-hardlinks", str(self.history_root), ".")
+            run_git(root, "config", "core.autocrlf", "false")
+            for path, entry in snapshot.entries.items():
+                full = root / path
+                full.parent.mkdir(parents=True, exist_ok=True)
+                full.write_bytes(entry.data)
+            run_git(root, "add", "--", *sorted(snapshot.entries))
+            staged = GitSnapshot.from_index(root)
+            self.assertEqual(self.failures(staged), [])
+            self.assertNotEqual(run_git(root, "rev-parse", "HEAD").decode().strip(), self.completion_commit)
 
     def test_current_repository_examples_remain_compatible(self) -> None:
         snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))

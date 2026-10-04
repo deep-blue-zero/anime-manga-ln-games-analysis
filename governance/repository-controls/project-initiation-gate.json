@@ -34,6 +34,7 @@
     "series/ntr-netsuzou-trap/": {
       "canonical_entrypoint": "series/ntr-netsuzou-trap/CURRENT_STATE_AND_CORPUS_MAP.md",
       "completion_commit": "b5d0b44dbd50f588cdc3f9ce8357dae1605c246b",
+      "supplemental_execution_required": true,
       "frozen_sequential_artifacts": {
         "series/ntr-netsuzou-trap/01 Sequential Readings/NTR_V01_DEEP_READING.md": "38a89a55968536be446df0c8e0a54edf95230ae8e7dad77ab462607276d0d4db",
         "series/ntr-netsuzou-trap/01 Sequential Readings/NTR_V02_DEEP_READING.md": "5f03a2bb9215bcdd8d27d545dc8996f548d3c546a275f9d8e35a0ce60e87016f",
