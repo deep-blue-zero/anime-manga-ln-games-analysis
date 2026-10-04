@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 import sys
@@ -393,6 +394,110 @@ class ProjectInitiationGateTests(unittest.TestCase):
             )
         )
         self.assert_failure_contains(failures, "requires a structured artifact_type")
+
+    def terminal_snapshot(self) -> GitSnapshot:
+        snapshot = self.snapshot(state="")
+        declarations = (
+            self.state(lock="CLOSED", infrastructure=["LEDGER.md"])
+            .removeprefix("```yaml\n").removesuffix("\n```")
+            + "\n  next_permitted_operation: NONE_ADMITTED_BOUNDARIES_COMPLETE\n"
+            + "sequential_execution:\n  run_state: complete\n"
+            + "  next_candidate_operation: NONE_TERMINAL_BOUNDARY_COMPLETE\n"
+        )
+        entry = snapshot.entries[self.entrypoint]
+        snapshot.entries[self.entrypoint] = SnapshotEntry(
+            self.entrypoint, entry.mode,
+            entry.data.replace(b"---\n\n", declarations.encode() + b"---\n\n", 1)
+            + b"SEQUENTIAL_ANALYSIS_LOCK = CLOSED\n",
+        )
+        control = self.control()
+        control["terminal_closures"] = {self.prefix: {
+            "canonical_entrypoint": self.entrypoint,
+            "completion_commit": "b" * 40,
+            "frozen_sequential_artifacts": {
+                self.sequential: hashlib.sha256(snapshot.entries[self.sequential].data).hexdigest()
+            },
+        }}
+        snapshot.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(
+            PROJECT_INITIATION_GATE_PATH, "100644", json.dumps(control).encode()
+        )
+        return snapshot
+
+    def test_terminal_closure_preserves_only_reviewed_completed_readings(self) -> None:
+        snapshot = self.terminal_snapshot()
+        for baseline in (set(), set(snapshot.entries)):
+            with self.subTest(baseline=bool(baseline)):
+                self.assertEqual(self.failures(snapshot, baseline), [])
+        # Completion metadata alone is never an exemption from the OPEN gate.
+        snapshot.entries[PROJECT_INITIATION_GATE_PATH] = self.snapshot().entries[PROJECT_INITIATION_GATE_PATH]
+        self.assert_failure_contains(self.failures(snapshot), "requires sequential_analysis_lock OPEN")
+
+    def test_terminal_closure_rejects_added_changed_missing_and_renamed_readings(self) -> None:
+        for mutation in ("added", "changed", "missing", "renamed", "retyped", "untracked"):
+            for baseline_contains_reading in (False, True):
+                with self.subTest(mutation=mutation, baseline=baseline_contains_reading):
+                    snapshot = self.terminal_snapshot()
+                    baseline = set(snapshot.entries) if baseline_contains_reading else set()
+                    entry = snapshot.entries[self.sequential]
+                    if mutation in {"added", "renamed"}:
+                        path = self.prefix + "ANOTHER_SOURCE.md"
+                        snapshot.entries[path] = SnapshotEntry(path, entry.mode, entry.data)
+                    if mutation in {"missing", "renamed"}:
+                        del snapshot.entries[self.sequential]
+                    if mutation == "changed":
+                        snapshot.entries[self.sequential] = SnapshotEntry(entry.path, entry.mode, entry.data + b"Changed\n")
+                    if mutation == "retyped":
+                        snapshot.entries[self.sequential] = SnapshotEntry(entry.path, entry.mode, authority_markdown("essay"))
+                    if mutation == "untracked":
+                        snapshot.entries[self.sequential] = SnapshotEntry(entry.path, entry.mode, entry.data, tracked=False)
+                    self.assert_failure_contains(self.failures(snapshot, baseline), "terminal")
+
+    def test_terminal_closure_requires_closed_completed_consistent_routing_and_foundation(self) -> None:
+        for old, new, expected in (
+            (b"sequential_analysis_lock: CLOSED", b"sequential_analysis_lock: OPEN", "requires sequential_analysis_lock CLOSED"),
+            (b"SEQUENTIAL_ANALYSIS_LOCK = CLOSED", b"SEQUENTIAL_ANALYSIS_LOCK = OPEN", "contradicts prose lock OPEN"),
+            (b"run_state: complete", b"run_state: running", "requires run_state complete"),
+            (b"next_permitted_operation: NONE_ADMITTED_BOUNDARIES_COMPLETE", b"next_permitted_operation: READ_NEXT", "requires next_permitted_operation NONE"),
+            (b"next_candidate_operation: NONE_TERMINAL_BOUNDARY_COMPLETE", b"next_candidate_operation: READ_NEXT", "requires next_candidate_operation NONE"),
+            (b"required_day_one_infrastructure_initialized: true", b"required_day_one_infrastructure_initialized: false", "infrastructure must be explicitly initialized"),
+            (b"governing_method: METHOD.md", b"governing_method: MISSING.md", "governing analytical method is missing"),
+            (b"synthesis_architecture: ARCHITECTURE.md", b"synthesis_architecture: MISSING.md", "governing synthesis architecture is missing"),
+            (b"---\n\n", b"supplemental_execution:\n  current_state: OPEN\n  other_narrative_admission: AUTHORIZED\n---\n\n", "terminal supplemental execution must be CLOSED"),
+        ):
+            with self.subTest(expected=expected):
+                snapshot = self.terminal_snapshot()
+                entry = snapshot.entries[self.entrypoint]
+                self.assertEqual(entry.data.count(old), 1)
+                snapshot.entries[self.entrypoint] = SnapshotEntry(entry.path, entry.mode, entry.data.replace(old, new, 1))
+                self.assert_failure_contains(self.failures(snapshot), expected)
+        snapshot = self.terminal_snapshot()
+        snapshot.entries[self.method] = SnapshotEntry(self.method, "100644", authority_markdown("analytical_method").replace(b"status: canonical", b"status: draft_noncurrent"))
+        self.assert_failure_contains(self.failures(snapshot), "governing analytical method is not current-eligible")
+
+    def test_terminal_closure_control_fails_closed_on_malformed_or_unregistered_records(self) -> None:
+        for mutation in ("root", "fields", "commit", "entrypoint", "outside", "hash", "empty", "unregistered"):
+            with self.subTest(mutation=mutation):
+                snapshot = self.terminal_snapshot()
+                control = json.loads(snapshot.entries[PROJECT_INITIATION_GATE_PATH].data)
+                closure = control["terminal_closures"][self.prefix]
+                if mutation == "root":
+                    control["terminal_closures"] = {"../example/": closure}
+                elif mutation == "fields":
+                    closure["unreviewed_bypass"] = True
+                elif mutation == "commit":
+                    closure["completion_commit"] = "main"
+                elif mutation == "entrypoint":
+                    closure["canonical_entrypoint"] = None
+                elif mutation == "outside":
+                    closure["frozen_sequential_artifacts"] = {"series/other/READING.md": "a" * 64}
+                elif mutation == "hash":
+                    closure["frozen_sequential_artifacts"][self.sequential] = "not-a-digest"
+                elif mutation == "empty":
+                    closure["frozen_sequential_artifacts"] = {}
+                else:
+                    snapshot.entries["series/registry.json"] = SnapshotEntry("series/registry.json", "100644", b'{"series":[]}\n')
+                snapshot.entries[PROJECT_INITIATION_GATE_PATH] = SnapshotEntry(PROJECT_INITIATION_GATE_PATH, "100644", json.dumps(control).encode())
+                self.assert_failure_contains(self.failures(snapshot), "terminal")
 
     def test_current_repository_examples_remain_compatible(self) -> None:
         snapshot = worktree_snapshot(ROOT, worktree_paths(ROOT))

@@ -219,6 +219,8 @@ Before that point:
 
 This is an operational gate, not a claim about source completeness. Preliminary source auditing and architecture work can proceed while the lock is closed.
 
+At a completed authorized terminal boundary, close the current lock and record completion and no next permitted/candidate source operation. Historical OPEN authorization remains in its original receipts; it does not authorize another source at handoff. A reviewed `terminal_closures` record in `governance/repository-controls/project-initiation-gate.json` may preserve the exact paths and SHA-256 bytes of accepted sequential readings behind the CLOSED lock without moving the activation baseline. The validator still requires the current method, architecture and initialized infrastructure, and rejects missing, altered or additional readings, an OPEN current lock, or resumed execution. A new source scope requires separate owner authorization and a reviewed closure-control amendment; source completion or unresolved analytical questions do not reopen the gate.
+
 ---
 
 # 4. Paired-foundation responsibility split

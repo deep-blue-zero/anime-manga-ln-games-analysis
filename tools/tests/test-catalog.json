@@ -2041,6 +2041,46 @@
       ],
       "purpose": "untyped sequential directory artifact fails closed"
     },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_preserves_only_reviewed_completed_readings": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "terminal closure preserves only reviewed completed readings"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_rejects_added_changed_missing_and_renamed_readings": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "terminal closure rejects added changed missing renamed retyped and untracked readings"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_requires_closed_completed_consistent_routing_and_foundation": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "terminal closure requires closed completed consistent routing and current initialized foundation"
+    },
+    "test_project_initiation_gate.ProjectInitiationGateTests.test_terminal_closure_control_fails_closed_on_malformed_or_unregistered_records": {
+      "group": "live_corpus",
+      "smoke": false,
+      "inputs": [
+        "candidate corpus",
+        "tools/tests/test_project_initiation_gate.py",
+        "tools/*.py"
+      ],
+      "purpose": "terminal closure control fails closed on malformed or unregistered records"
+    },
     "test_project_initiation_gate.ProjectInitiationGateTests.test_current_repository_examples_remain_compatible": {
       "group": "live_corpus",
       "smoke": false,

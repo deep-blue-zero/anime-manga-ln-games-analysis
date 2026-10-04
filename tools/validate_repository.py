@@ -1279,6 +1279,43 @@ def _load_project_initiation_gate(
                     f"project-initiation artifact classifier {field} must be a "
                     "nonempty sorted unique string array"
                 )
+    closures = control.get("terminal_closures", {})
+    if not isinstance(closures, Mapping):
+        errors.append("project-initiation terminal_closures must be an object")
+    else:
+        for prefix, closure in closures.items():
+            label = f"project-initiation terminal_closures[{prefix!r}]"
+            if not isinstance(prefix, str) or re.fullmatch(
+                r"(?:series|studies)/[a-z0-9][a-z0-9-]*/", prefix
+            ) is None:
+                errors.append(f"{label}: invalid project root")
+                continue
+            if not isinstance(closure, Mapping) or set(closure) != {
+                "canonical_entrypoint", "completion_commit", "frozen_sequential_artifacts"
+            }:
+                errors.append(f"{label}: invalid terminal closure fields")
+                continue
+            commit = closure["completion_commit"]
+            if not isinstance(commit, str) or re.fullmatch(r"[0-9a-f]{40}", commit) is None:
+                errors.append(f"{label}: completion_commit must be a full commit ID")
+            frozen = closure["frozen_sequential_artifacts"]
+            if not isinstance(frozen, Mapping) or not frozen:
+                errors.append(f"{label}: frozen_sequential_artifacts must be a nonempty object")
+                continue
+            for path in [closure["canonical_entrypoint"], *frozen]:
+                if not isinstance(path, str):
+                    errors.append(f"{label}: artifact path must be a string")
+                    continue
+                try:
+                    validate_repository_path(path)
+                except DomainError as exc:
+                    errors.append(f"{label}: invalid artifact path: {exc}")
+                    continue
+                if not path.startswith(prefix) or not path.endswith(".md"):
+                    errors.append(f"{label}: artifact must be Markdown inside its project: {path}")
+            for path, digest in frozen.items():
+                if not isinstance(digest, str) or SHA256_RE.fullmatch(digest) is None:
+                    errors.append(f"{label}: invalid frozen SHA-256 for {path}")
     return (None if errors else control), errors
 
 
@@ -1514,6 +1551,7 @@ def _validate_initialization_contract(
     entrypoint_path: Any,
     *,
     require_open: bool,
+    terminal: bool = False,
 ) -> list[str]:
     if not _valid_nonempty_string(entrypoint_path):
         return [
@@ -1549,8 +1587,10 @@ def _validate_initialization_contract(
             f"{entrypoint_path}: substantive sequential analysis requires "
             "sequential_analysis_lock OPEN"
         )
+    if terminal and normalized_lock != "closed":
+        errors.append(f"{entrypoint_path}: terminal closure requires sequential_analysis_lock CLOSED")
 
-    full_gate_claimed = require_open or normalized_lock == "open"
+    full_gate_claimed = require_open or normalized_lock == "open" or terminal
     if full_gate_claimed:
         for semantic, label in (
             ("method", "governing analytical method"),
@@ -1585,7 +1625,7 @@ def _validate_initialization_contract(
                 not isinstance(state[semantic], str)
                 or state[semantic].casefold() not in current_statuses
             ):
-                errors.append(f"{entrypoint_path}: {label} contradicts an OPEN gate")
+                errors.append(f"{entrypoint_path}: {label} contradicts the initialized gate")
         if state.get("infrastructure_initialized") is not True:
             errors.append(
                 f"{entrypoint_path}: required day-one infrastructure must be explicitly "
@@ -1613,6 +1653,70 @@ def _validate_initialization_contract(
                     "required day-one infrastructure",
                 )
                 errors.extend(reference_errors)
+    return errors
+
+
+def _validate_terminal_corpus(
+    snapshot: GitSnapshot,
+    entrypoint_path: str,
+    closure: Mapping[str, Any],
+    sequential_paths: set[str],
+) -> list[str]:
+    """Retain only reviewed reading bytes; closure never admits another source."""
+
+    errors: list[str] = []
+    if entrypoint_path != closure["canonical_entrypoint"]:
+        errors.append(f"{entrypoint_path}: terminal closure canonical entrypoint changed")
+    frozen = closure["frozen_sequential_artifacts"]
+    if set(frozen) != sequential_paths:
+        errors.append(
+            f"{entrypoint_path}: terminal sequential corpus differs from reviewed closure "
+            f"(added={sorted(sequential_paths - set(frozen))}, "
+            f"missing={sorted(set(frozen) - sequential_paths)})"
+        )
+    for path, digest in frozen.items():
+        entry = snapshot.get(path)
+        if (
+            entry is None
+            or not entry.qualifies_as_evidence
+            or hashlib.sha256(entry.data).hexdigest() != digest
+        ):
+            errors.append(f"{path}: terminal frozen reading bytes changed or are missing")
+    entry = snapshot.get(entrypoint_path)
+    if entry is None or not entry.qualifies_as_evidence:
+        return errors  # The initialization contract reports the missing entrypoint.
+    try:
+        front = _yaml_front_matter(entry.data, entrypoint_path) or {}
+    except DomainError as exc:
+        return errors + [str(exc)]
+    initialization = front.get("project_initialization", {})
+    execution = front.get("sequential_execution", {})
+    for mapping, field in (
+        (initialization, "next_permitted_operation"),
+        (execution, "next_candidate_operation"),
+    ):
+        value = mapping.get(field) if isinstance(mapping, Mapping) else None
+        if not isinstance(value, str) or re.fullmatch(r"NONE(?:_[A-Z0-9]+)*", value) is None:
+            errors.append(f"{entrypoint_path}: terminal closure requires {field} NONE")
+    if not isinstance(execution, Mapping) or execution.get("run_state") != "complete":
+        errors.append(f"{entrypoint_path}: terminal closure requires run_state complete")
+    if "supplemental_execution" in front:
+        supplemental = front["supplemental_execution"]
+        current = (
+            supplemental.get("current_state")
+            if isinstance(supplemental, Mapping) else None
+        )
+        if (
+            not isinstance(current, str)
+            or re.fullmatch(r"CLOSED(?:_[A-Z0-9]+)*", current) is None
+            or supplemental.get("other_narrative_admission") != "NOT_AUTHORIZED"
+        ):
+            errors.append(
+                f"{entrypoint_path}: terminal supplemental execution must be CLOSED "
+                "with no other admission"
+            )
+    if re.search(r"SEQUENTIAL_ANALYSIS_LOCK\s*=\s*OPEN\b", entry.data.decode("utf-8"), re.I):
+        errors.append(f"{entrypoint_path}: terminal closure contradicts prose lock OPEN")
     return errors
 
 
@@ -1721,6 +1825,8 @@ def validate_project_initiation_gate(
     marker_value = marker["required_value"]
     git_native_prefix = compatibility["git_native_migration_scope_prefix"]
     authority = AuthorityGraph(snapshot)
+    closures = control.get("terminal_closures", {})
+    registered_prefixes: set[str] = set()
 
     rows: list[tuple[str, Mapping[str, Any]]] = []
     for registry_path, collection in (
@@ -1749,6 +1855,8 @@ def validate_project_initiation_gate(
             project_prefix
         ) or not project_prefix.endswith("/"):
             continue
+        registered_prefixes.add(project_prefix)
+        closure = closures.get(project_prefix)
         baseline_present = any(path.startswith(project_prefix) for path in baseline_paths)
         explicit_marker = row.get(marker_field)
         if explicit_marker is not None and explicit_marker != marker_value:
@@ -1762,9 +1870,10 @@ def validate_project_initiation_gate(
             )
 
         new_sequential: list[str] = []
+        terminal_sequential: set[str] = set()
         for path, candidate in snapshot.entries.items():
             if (
-                path in baseline_paths
+                (path in baseline_paths and closure is None)
                 or not path.startswith(project_prefix)
                 or not path.endswith(".md")
                 or not candidate.qualifies_as_evidence
@@ -1775,7 +1884,9 @@ def validate_project_initiation_gate(
             )
             errors.extend(artifact_errors)
             if classified:
-                new_sequential.append(path)
+                if path not in baseline_paths:
+                    new_sequential.append(path)
+                terminal_sequential.add(path)
                 if fallback:
                     errors.append(
                         f"{path}: sequential-reading directory artifact requires a structured "
@@ -1785,10 +1896,17 @@ def validate_project_initiation_gate(
         git_native = isinstance(row.get("migration_scope"), str) and row[
             "migration_scope"
         ].startswith(git_native_prefix)
-        strict = not baseline_present or explicit_marker == marker_value or git_native
+        strict = (
+            not baseline_present or explicit_marker == marker_value
+            or git_native or closure is not None
+        )
         entrypoint = row.get("canonical_entrypoint")
+        if closure is not None:
+            errors.extend(
+                _validate_terminal_corpus(snapshot, entrypoint, closure, terminal_sequential)
+            )
         if strict and (
-            not baseline_present or explicit_marker == marker_value or new_sequential
+            not baseline_present or explicit_marker == marker_value or new_sequential or closure is not None
         ):
             errors.extend(
                 _validate_initialization_contract(
@@ -1796,7 +1914,8 @@ def validate_project_initiation_gate(
                     authority,
                     project_prefix,
                     entrypoint,
-                    require_open=bool(new_sequential),
+                    require_open=bool(new_sequential) and closure is None,
+                    terminal=closure is not None,
                 )
             )
         elif new_sequential:
@@ -1805,6 +1924,8 @@ def validate_project_initiation_gate(
                     snapshot, authority, project_prefix, entrypoint
                 )
             )
+    for prefix in set(closures) - registered_prefixes:
+        errors.append(f"project-initiation terminal closure has no registered project: {prefix}")
     return errors
 
 
