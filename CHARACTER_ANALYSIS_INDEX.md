@@ -2526,7 +2526,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Entity aliases:
   - _None._
 
-#### Subject: Japanese manga mainline
+#### Subject: Japanese manga continuity
 
 - Analysis subject ID: `ntr-netsuzou-trap:hotaru-mizushina@manga`
 - Series: `ntr-netsuzou-trap`
@@ -2536,8 +2536,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `latewinter-afterstory`: MANGA OTHER: Reviewed substantial character argument in the separately admitted NTR-JP-LW afterstory, principally S0005-S0020/I01: Autonomous social refusal, direct selective interest and changed speech, ordinary coat hospitality and childhood/father testimony; no diagnosis, universal permission, household mastery or completed repair. Not V07, an adult parallel continuity, or continuous numbered-volume expansion; not exhaustive character/corpus coverage.; continuity `ntr-netsuzou-trap-manga`
   - `mainline-v01-v06`: MANGA VOLUME 1–6 (inclusive); continuity `ntr-netsuzou-trap-manga`
 - Reviewed current evidence:
+  - [`reviewed-latewinter-addendum` — LateWinter scoped character addendum (NTR-JP-LW)](series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_LATEWINTER_CHARACTER_ADDENDA.md)
   - [`reviewed-mainline-monograph` — Mainline character monograph (V01–V06)](series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_HOTARU_MONOGRAPH.md) — **active provisional authority**
 
 ### Hyodo Shizuku
@@ -7381,7 +7383,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Entity aliases:
   - _None._
 
-#### Subject: Japanese manga mainline
+#### Subject: Japanese manga continuity
 
 - Analysis subject ID: `ntr-netsuzou-trap:yuma-okazaki@manga`
 - Series: `ntr-netsuzou-trap`
@@ -7391,8 +7393,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `latewinter-afterstory`: MANGA OTHER: Reviewed substantial character argument in the separately admitted NTR-JP-LW afterstory, principally S0005-S0020/I01: Ordinary friends/care disagreement, wider-welfare wish qualified by loneliness, withheld concern and later partial-recognition testimony; no retroactive complete knowledge or consent. Not V07, an adult parallel continuity, or continuous numbered-volume expansion; not exhaustive character/corpus coverage.; continuity `ntr-netsuzou-trap-manga`
   - `mainline-v01-v06`: MANGA VOLUME 1–6 (inclusive); continuity `ntr-netsuzou-trap-manga`
 - Reviewed current evidence:
+  - [`reviewed-latewinter-addendum` — LateWinter scoped character addendum (NTR-JP-LW)](series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_LATEWINTER_CHARACTER_ADDENDA.md)
   - [`reviewed-mainline-monograph` — Mainline character monograph (V01–V06)](series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_YUMA_MONOGRAPH.md) — **active provisional authority**
 
 ### Yuuka
