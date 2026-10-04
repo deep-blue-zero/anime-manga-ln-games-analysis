@@ -121,3 +121,20 @@ Do not extend main-story dialogue until release status, source provenance and ad
 The [historical current-state archive through cycle 005](90%20Legacy%20and%20Superseded/BLUE_ARCHIVE_CURRENT_STATE_HISTORY_THROUGH_CYCLE_005.md) preserves the complete former map, including earlier rollups, V1 build/retrieval counts, Drive provenance IDs, unit-level cautions, historical readiness and obsolete next-unit instructions. It is **historical_legacy**, never a second current entrypoint. Detailed readings, checkpoints and ledgers remain in their existing canonical homes. The [maintenance audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ROUTING_RESPONSIBILITY_AUDIT_20261001.md) records the responsibility assessment, preservation proof and cold-start check.
 
 Keep future updates here limited to current routing and accepted state. Preserve detailed historical developments in their existing analytical owners. Continue substantive Phase 2 work through the accepted-state owners and source-facing routes above.
+
+
+## External conditional MAIN S2 V002 integration component — 2026-10-04
+
+A partial mini/G01 contextual extension is prepared for review, with existing histories preserved and source admission unchanged. It is not current authority and does not settle the remaining family, main-only or EVENT reconciliation. The authority frontier remains 480 MAIN, 213 admissions, 516 subjects, 23 PARTIAL_MODEL, 493 UNMODELED and no standalone model.
+
+
+## External conditional selected-arc integration candidate
+
+A concrete external MAIN S2 V002 candidate now composes preserved original/mini/G01 history with accepted private-family, G06/G26 and D02 scene functions. It broadens the analytical repertoire while retaining source-specific admission, actor/mode/locale distinctions, ordinary pleasure/care/refusals and unresolved outcomes. This is a prepared analytical afterimage, not installed authority, a new model or complete Phase2. Event functions remain a separate overlay; final measured capacity and reasoned admission controls remain necessary before shared application.
+
+
+## Additional external conditional event functions: CF08 and CF10
+
+The earlier pending-event wording is historical candidate scope. This successor incorporates only the accepted precise CF08 and CF10 functions; other event payloads are not inferred. All original history, source-specific 397 UNADMITTED/two existing ADMITTED Junko statuses and authority codes remain unchanged.
+
+Every changed output above 1 MiB requires a fresh named path/bytes/SHA256 storage review of these final bytes. Earlier storage tuples cover only their own candidates; this candidate remains external pending governed whole-effect review and application.

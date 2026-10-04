@@ -119,6 +119,18 @@
       "rights_basis": "Owner-approved analytical and provenance metadata within the repository's narrow original-content license scope.",
       "review_decision": "OWNER_APPROVED_G4_P02_LARGE_STRUCTURED_BOUNDARY",
       "external_reference_insufficient": "An external-only reference would remove the directly queryable provenance relationships needed to interpret and audit the migrated analysis."
+    },
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md",
+      "bytes": 1134497,
+      "sha256": "a869fcd4ba7b84e51a176dc5659fc3aec37698ff35748bf68d8578d019c9ff2c",
+      "exception_id": "BLUE_ARCHIVE_MAIN_COVERAGE_20261004_A869FCD4",
+      "allow_utf8_bom": false,
+      "allow_carriage_returns": false,
+      "purpose": "Preserve a directly queryable coverage index for the existing516-subject analytical census, with bounded authored supplemental contextualization annotations in existing fields.",
+      "rights_basis": "Repository-authored original analysis, source identifiers, analytical pointers and bounded paraphrases; the candidate is not a bulk story, raw transcript, canonical dump or media copy.",
+      "review_decision": "APPROVED by ROOT 2026-10-04 for exact final coherent V4 authored coverage additions and guarded continuity; named extent in ACTUAL_ROOT_EXACT_FINAL1134497_A869FCD4_STORAGE_DECISION_V1.json.",
+      "external_reference_insufficient": "Keeping only an external reference would remove these authored field-level annotations from ordinary repository lookup and break the reviewed index-to-ledger relationships."
     }
   ],
   "named_whitespace_exceptions": [
