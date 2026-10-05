@@ -270,7 +270,13 @@ class PhaseValidationTests(unittest.TestCase):
             "crosswalk/materialization-results.jsonl",
             "crosswalk/path-plan.jsonl",
         }
-        self.assertEqual(set(by_path), {*crosswalk_paths, idoly_path})
+        blue_archive_path = (
+            "series/blue-archive/06 Evidence and Indexes/"
+            "BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md"
+        )
+        self.assertEqual(
+            set(by_path), {*crosswalk_paths, idoly_path, blue_archive_path}
+        )
         for path, row in by_path.items():
             with self.subTest(path=path):
                 data = (ROOT / path).read_bytes()
@@ -290,6 +296,23 @@ class PhaseValidationTests(unittest.TestCase):
                     by_path[path]["review_decision"],
                     "OWNER_AUTHORIZED_G7_AGGREGATE_PROVENANCE_CLOSURE",
                 )
+        blue_archive_row = by_path[blue_archive_path]
+        self.assertEqual(blue_archive_row["bytes"], 1134497)
+        self.assertEqual(
+            blue_archive_row["sha256"],
+            "a869fcd4ba7b84e51a176dc5659fc3aec37698ff35748bf68d8578d019c9ff2c",
+        )
+        self.assertEqual(
+            blue_archive_row["exception_id"],
+            "BLUE_ARCHIVE_MAIN_COVERAGE_20261004_A869FCD4",
+        )
+        self.assertFalse(blue_archive_row["allow_utf8_bom"])
+        self.assertFalse(blue_archive_row["allow_carriage_returns"])
+        external_reason = blue_archive_row["external_reference_insufficient"]
+        self.assertIsInstance(external_reason, str)
+        self.assertTrue(external_reason.strip())
+        self.assertNotIn("\n", external_reason)
+        self.assertNotIn("\r", external_reason)
 
     def test_production_furina_commonmark_exception_is_exactly_bound(self) -> None:
         policy = json.loads(
