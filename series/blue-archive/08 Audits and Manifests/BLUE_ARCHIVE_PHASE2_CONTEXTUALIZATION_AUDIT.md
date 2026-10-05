@@ -558,3 +558,20 @@ The combined coverage census is **516 subjects =23 PARTIAL_MODEL/493 UNMODELED**
 Current requirements remain **P2-R01 PASS_WITH_LIMITS; P2-R02–P2-R09 IN_PROGRESS**. No arc passes all five duties and Phase2 is not complete. Complete group intake does not pass event/private/written duties, and a bounded pilot or ordinary scene is not a coverage ceiling. NO_DIAGNOSTIC_OPPORTUNITY records retrospective exposure, not a newly prospective result. Written language remains the only voice channel; no audiovisual evidence, model, monograph or prediction is admitted. Publication stays PENDING until all required exact-head source, housekeeping and final integration gates actually succeed.
 
 **Next independent rotation:** EVENT801 all13, stillUNASSESSED. All remaining complete event packages and principal private/written pools remain required under the current scope; no literary priority is assigned to unread routes. After source intake, every arc still needs its own evidence-grounded contextual synthesis and explicit acceptance.
+
+
+## External conditional MAIN S2 V002 partial reconciliation — 2026-10-04
+
+The proposed mini/G01 component adds fourteen ledger functions, new annotations in four existing logical coverage families and a reasoned no-material source-availability disposition in the fifth, with no admission or readiness promotion. It retains all ordinary preference, play, hesitation, refusal, failed assistance and contrary institutional means. The twenty-family combined row reconciliation, four main-only subjects and exact twenty-five EVENT relevance/omission functions remain separate pending components. MAIN S2 V002 and all twelve arcs/five duties are not complete.
+
+
+## External coherent conditional MAIN S2 V002 function package
+
+This external candidate combines preserved original histories, sealed mini/G01 functions, twenty accepted private-family functions, contextual G06/G26 functions and ordered disjoint D02 scene annotations. It retains ordinary evidence and explicit contrary pressure, all existing source/model/readiness codes, and missing-outcome/chronology constraints. Source availability receives class-based no mutation; eight existing group-only atoms are retained without duplicate append. Complete rendered field and append intervals, component identities, inverse restoration and actual measurements are recorded in the companion preparation manifest. Shared application, new admission, later exact storage approval, event overlay and all12/all5 completion remain pending.
+
+
+## Additional external conditional event functions: CF08 and CF10
+
+The earlier pending-event wording is historical candidate scope. This successor incorporates only the accepted precise CF08 and CF10 functions; other event payloads are not inferred. All original history, source-specific 397 UNADMITTED/two existing ADMITTED Junko statuses and authority codes remain unchanged.
+
+The final external sixteen-surface candidate now includes the two precise accepted event functions after mini/G01, private/group and disjoint D02 annotations. Before-cell guards, exact append mappings and restoration routes preserve full prior histories. Source availability remains class-based no mutation, group-only duplicate atoms remain retained, and no source admission/model/readiness rating or new coverage row is introduced.
