@@ -138,3 +138,7 @@ A concrete external MAIN S2 V002 candidate now composes preserved original/mini/
 The earlier pending-event wording is historical candidate scope. This successor incorporates only the accepted precise CF08 and CF10 functions; other event payloads are not inferred. All original history, source-specific 397 UNADMITTED/two existing ADMITTED Junko statuses and authority codes remain unchanged.
 
 Every changed output above 1 MiB requires a fresh named path/bytes/SHA256 storage review of these final bytes. Earlier storage tuples cover only their own candidates; this candidate remains external pending governed whole-effect review and application.
+
+## Completed review draft published 2026-10-06
+
+Event 820 Episode 13 has a [completed author and sole distinct independent review package](02%20Sequential%20Readings/EVENTS/EVENT_820/REVIEW_DRAFT_20261006_EPISODE_013/README.md), with a [byte-bound publication manifest](02%20Sequential%20Readings/EVENTS/EVENT_820/REVIEW_DRAFT_20261006_EPISODE_013/PUBLICATION_MANIFEST.json). Its publication status is `draft_noncurrent`; its source admission remains `UNADMITTED`. Publication metadata preserves all analytical bodies, with each exact precision delta ordered after its four immutable bases. Accepted intake remains 213; coverage remains 516 subjects, 23 partial models and 493 unmodeled subjects, with no standalone model. All 12 arc rows and all five architectural duties remain incomplete.

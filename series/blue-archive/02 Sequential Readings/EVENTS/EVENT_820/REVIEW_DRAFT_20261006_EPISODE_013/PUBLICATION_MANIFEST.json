@@ -1,0 +1,379 @@
+{
+  "schema": "blue-archive-review-draft-publication-v1",
+  "publication_snapshot": "20261006_EVENT820013",
+  "status": "draft_noncurrent",
+  "source_admission": "UNADMITTED",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": true,
+  "source_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+  "source_generation": "BA_REFRESH_20260928T032248159554Z",
+  "artifact_count": 10,
+  "analytical_bytes": 276136,
+  "accepted_baseline": {
+    "admitted_supplemental_objects": 213,
+    "analytical_subjects": 516,
+    "partial_models": 23,
+    "unmodeled": 493,
+    "standalone_models": "NONE",
+    "phase1_main_units_complete": 480,
+    "phase2": "INCOMPLETE",
+    "phase2_arc_rows_incomplete": 12,
+    "all_five_architectural_duties": "INCOMPLETE"
+  },
+  "family_counts": {
+    "Event820Episode013Author": 5,
+    "Event820Episode013IndependentSecond": 5
+  },
+  "publication_does_not_apply_shared_effects": true,
+  "records": [
+    {
+      "family": "Event820",
+      "active_version": "20261006_EVENT820013_REVIEW_DRAFT",
+      "artifact_kind": "EPISODE_SOURCE_BOUNDED_AUTHOR_ANALYSIS",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_820/REVIEW_DRAFT_20261006_EPISODE_013/01_NEW_ROOT820013_COMPLETE_ARGUMENT_V2.md",
+      "bytes": 6342,
+      "sha256": "663b3119efc0eec9b779eff4a9ae73ef637ae7903d11d1052d3643b803be4b95",
+      "source_sha256": "c9f44b1ef7f56e5d459a157bf2dc7680436c80b653473cf325d6c5581d933ee5",
+      "source_bytes": 5697,
+      "body_prose_preserved": true,
+      "authority_transformation": "publication metadata prefix only; complete original analytical bytes reconstructed exactly",
+      "source_fingerprint_class": "SOURCE_ANALYTICAL_ARGUMENT",
+      "status": "draft_noncurrent",
+      "source_admission": "UNADMITTED",
+      "source_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "source_generation": "BA_REFRESH_20260928T032248159554Z",
+      "publication_role": "author",
+      "publication_order": 1,
+      "inverse": {
+        "published_unchanged_run0_halfopen": [
+          645,
+          6342
+        ],
+        "original_prefix_utf8": "",
+        "original_sha256": "c9f44b1ef7f56e5d459a157bf2dc7680436c80b653473cf325d6c5581d933ee5",
+        "complete_original_unchanged": true
+      }
+    },
+    {
+      "family": "Event820",
+      "active_version": "20261006_EVENT820013_REVIEW_DRAFT",
+      "artifact_kind": "EPISODE_SOURCE_BOUNDED_AUTHOR_ANALYSIS",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_820/REVIEW_DRAFT_20261006_EPISODE_013/02_NEW_ROOT820013_ALL129_NATIVE_CHOICES_STORY_SCENE_PAIRED_FINDINGS_V2.json",
+      "bytes": 32158,
+      "sha256": "1a8e1f33a8104006ab1ff73ded20b520f926743d80e4fdcb028b8c28644dc294",
+      "source_sha256": "70b14c8f1b9f85d3cada29092858162e006a0e164d8db8779d2d5f3dab0f4194",
+      "source_bytes": 31586,
+      "body_prose_preserved": true,
+      "authority_transformation": "publication metadata prefix only; complete original analytical bytes reconstructed exactly",
+      "source_fingerprint_class": "SOURCE_ANALYTICAL_ARGUMENT",
+      "status": "draft_noncurrent",
+      "source_admission": "UNADMITTED",
+      "source_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "source_generation": "BA_REFRESH_20260928T032248159554Z",
+      "publication_role": "author",
+      "publication_order": 2,
+      "inverse": {
+        "published_unchanged_run0_halfopen": [
+          573,
+          32158
+        ],
+        "original_prefix_utf8": "{",
+        "original_sha256": "70b14c8f1b9f85d3cada29092858162e006a0e164d8db8779d2d5f3dab0f4194",
+        "complete_original_unchanged": true
+      }
+    },
+    {
+      "family": "Event820",
+      "active_version": "20261006_EVENT820013_REVIEW_DRAFT",
+      "artifact_kind": "EPISODE_SOURCE_BOUNDED_AUTHOR_ANALYSIS",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_820/REVIEW_DRAFT_20261006_EPISODE_013/03_NEW_ROOT820013_ALL270_RAW2970_EVERY485_AND18JP_FINDINGS_V2.json",
+      "bytes": 26639,
+      "sha256": "d92ce408594972d1a0ff4fb946ec3c5dc4f08fb431e61e451b2fb6e6b113833a",
+      "source_sha256": "0d6ff8c927bcd5062b5c12891a5313e093f8204b62fee5a06dd0059991524159",
+      "source_bytes": 26067,
+      "body_prose_preserved": true,
+      "authority_transformation": "publication metadata prefix only; complete original analytical bytes reconstructed exactly",
+      "source_fingerprint_class": "SOURCE_ANALYTICAL_ARGUMENT",
+      "status": "draft_noncurrent",
+      "source_admission": "UNADMITTED",
+      "source_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "source_generation": "BA_REFRESH_20260928T032248159554Z",
+      "publication_role": "author",
+      "publication_order": 3,
+      "inverse": {
+        "published_unchanged_run0_halfopen": [
+          573,
+          26639
+        ],
+        "original_prefix_utf8": "{",
+        "original_sha256": "0d6ff8c927bcd5062b5c12891a5313e093f8204b62fee5a06dd0059991524159",
+        "complete_original_unchanged": true
+      }
+    },
+    {
+      "family": "Event820",
+      "active_version": "20261006_EVENT820013_REVIEW_DRAFT",
+      "artifact_kind": "EPISODE_SOURCE_BOUNDED_AUTHOR_ANALYSIS",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_820/REVIEW_DRAFT_20261006_EPISODE_013/04_NEW_ROOT820013_COMPLETE_FINITE_SCOPED_JUDGMENT_V2.json",
+      "bytes": 11296,
+      "sha256": "5a8a0f5a9fac02a0d1dabc64d93781807dc81df7b628589418c7c769204ae6b4",
+      "source_sha256": "10569c47f9cac4844ff26e0ec8ad8ac68400bc51423dfb61f67d9119ae19df93",
+      "source_bytes": 10724,
+      "body_prose_preserved": true,
+      "authority_transformation": "publication metadata prefix only; complete original analytical bytes reconstructed exactly",
+      "source_fingerprint_class": "SOURCE_ANALYTICAL_ARGUMENT",
+      "status": "draft_noncurrent",
+      "source_admission": "UNADMITTED",
+      "source_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "source_generation": "BA_REFRESH_20260928T032248159554Z",
+      "publication_role": "author",
+      "publication_order": 4,
+      "inverse": {
+        "published_unchanged_run0_halfopen": [
+          573,
+          11296
+        ],
+        "original_prefix_utf8": "{",
+        "original_sha256": "10569c47f9cac4844ff26e0ec8ad8ac68400bc51423dfb61f67d9119ae19df93",
+        "complete_original_unchanged": true
+      }
+    },
+    {
+      "family": "Event820",
+      "active_version": "20261006_EVENT820013_REVIEW_DRAFT",
+      "artifact_kind": "EPISODE_SOURCE_BOUNDED_AUTHOR_ANALYSIS",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_820/REVIEW_DRAFT_20261006_EPISODE_013/05_NEW_ROOT820013_MANDATORY_D01_C16_CURRENT_KR_DRYING_PRECISION_V1.json",
+      "bytes": 4957,
+      "sha256": "0a3cf24b75983de4ca6c636feb9f25ec81fc5de5143d85204d23e52f73de3fc7",
+      "source_sha256": "e58d8ab06d0321c9eb6b10890a4e0bc527bba62c5bec637b6df083eb829348eb",
+      "source_bytes": 4385,
+      "body_prose_preserved": true,
+      "authority_transformation": "publication metadata prefix only; complete original analytical bytes reconstructed exactly",
+      "source_fingerprint_class": "SOURCE_ANALYTICAL_ARGUMENT",
+      "status": "draft_noncurrent",
+      "source_admission": "UNADMITTED",
+      "source_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "source_generation": "BA_REFRESH_20260928T032248159554Z",
+      "publication_role": "author",
+      "publication_order": 5,
+      "inverse": {
+        "published_unchanged_run0_halfopen": [
+          573,
+          4957
+        ],
+        "original_prefix_utf8": "{",
+        "original_sha256": "e58d8ab06d0321c9eb6b10890a4e0bc527bba62c5bec637b6df083eb829348eb",
+        "complete_original_unchanged": true
+      }
+    },
+    {
+      "family": "Event820",
+      "active_version": "20261006_EVENT820013_REVIEW_DRAFT",
+      "artifact_kind": "EPISODE_SOLE_DISTINCT_SECOND_ANALYSIS",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_820/REVIEW_DRAFT_20261006_EPISODE_013/01_NEW_EVENT820013_COMPLETE_INDEPENDENT_ARGUMENT_V1.md",
+      "bytes": 7823,
+      "sha256": "fdeff2832fef074b7c4fa0521fc36b0cd7666261bc771e8856ffa3fc562de0f9",
+      "source_sha256": "d6070e9b6b475e6bdf4df497c4f99045054ff5f9702d6dff2b3bde52fe186927",
+      "source_bytes": 7166,
+      "body_prose_preserved": true,
+      "authority_transformation": "publication metadata prefix only; complete original analytical bytes reconstructed exactly",
+      "source_fingerprint_class": "SOURCE_ANALYTICAL_ARGUMENT",
+      "status": "draft_noncurrent",
+      "source_admission": "UNADMITTED",
+      "source_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "source_generation": "BA_REFRESH_20260928T032248159554Z",
+      "publication_role": "independent_second",
+      "publication_order": 1,
+      "inverse": {
+        "published_unchanged_run0_halfopen": [
+          657,
+          7823
+        ],
+        "original_prefix_utf8": "",
+        "original_sha256": "d6070e9b6b475e6bdf4df497c4f99045054ff5f9702d6dff2b3bde52fe186927",
+        "complete_original_unchanged": true
+      }
+    },
+    {
+      "family": "Event820",
+      "active_version": "20261006_EVENT820013_REVIEW_DRAFT",
+      "artifact_kind": "EPISODE_SOLE_DISTINCT_SECOND_ANALYSIS",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_820/REVIEW_DRAFT_20261006_EPISODE_013/02_NEW_EVENT820013_ALL129_NATIVE_CHOICES_STORY_SCENE_INDEPENDENT_FINDINGS_V1.json",
+      "bytes": 45282,
+      "sha256": "eea84ad08223b3893429929cf72e5c8ce44ba4af3b7cb9b03385b43151be20f4",
+      "source_sha256": "74c6220b1e90569461d4721a361c4c3931bd04ab6a39418f35d0bc3bea819cd0",
+      "source_bytes": 44698,
+      "body_prose_preserved": true,
+      "authority_transformation": "publication metadata prefix only; complete original analytical bytes reconstructed exactly",
+      "source_fingerprint_class": "SOURCE_ANALYTICAL_ARGUMENT",
+      "status": "draft_noncurrent",
+      "source_admission": "UNADMITTED",
+      "source_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "source_generation": "BA_REFRESH_20260928T032248159554Z",
+      "publication_role": "independent_second",
+      "publication_order": 2,
+      "inverse": {
+        "published_unchanged_run0_halfopen": [
+          585,
+          45282
+        ],
+        "original_prefix_utf8": "{",
+        "original_sha256": "74c6220b1e90569461d4721a361c4c3931bd04ab6a39418f35d0bc3bea819cd0",
+        "complete_original_unchanged": true
+      }
+    },
+    {
+      "family": "Event820",
+      "active_version": "20261006_EVENT820013_REVIEW_DRAFT",
+      "artifact_kind": "EPISODE_SOLE_DISTINCT_SECOND_ANALYSIS",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_820/REVIEW_DRAFT_20261006_EPISODE_013/03_NEW_EVENT820013_ALL270_RAW_EVERY485_INLINE_INDEPENDENT_FINDINGS_V1.json",
+      "bytes": 107444,
+      "sha256": "2755574851252f57bf90dc5799c422c81142f3605222c2d99084d408b5b76be4",
+      "source_sha256": "7255b4ee111084db407b1426ccef51ae6e1e22d8932d0eba7a7e7e5f45a4f64b",
+      "source_bytes": 106860,
+      "body_prose_preserved": true,
+      "authority_transformation": "publication metadata prefix only; complete original analytical bytes reconstructed exactly",
+      "source_fingerprint_class": "SOURCE_ANALYTICAL_ARGUMENT",
+      "status": "draft_noncurrent",
+      "source_admission": "UNADMITTED",
+      "source_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "source_generation": "BA_REFRESH_20260928T032248159554Z",
+      "publication_role": "independent_second",
+      "publication_order": 3,
+      "inverse": {
+        "published_unchanged_run0_halfopen": [
+          585,
+          107444
+        ],
+        "original_prefix_utf8": "{",
+        "original_sha256": "7255b4ee111084db407b1426ccef51ae6e1e22d8932d0eba7a7e7e5f45a4f64b",
+        "complete_original_unchanged": true
+      }
+    },
+    {
+      "family": "Event820",
+      "active_version": "20261006_EVENT820013_REVIEW_DRAFT",
+      "artifact_kind": "EPISODE_SOLE_DISTINCT_SECOND_ANALYSIS",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_820/REVIEW_DRAFT_20261006_EPISODE_013/04_NEW_EVENT820013_COMPLETE_FINITE_INDEPENDENT_JUDGMENT_V1.json",
+      "bytes": 34759,
+      "sha256": "6df02564d633f9ecb05dd55f8d0979573a895c6f0611eaa94244fcbee7d859b0",
+      "source_sha256": "0811552e876f844307e677a9e49cd3d2e82d127593d3873aee44f28ff5c3c9a8",
+      "source_bytes": 34175,
+      "body_prose_preserved": true,
+      "authority_transformation": "publication metadata prefix only; complete original analytical bytes reconstructed exactly",
+      "source_fingerprint_class": "SOURCE_ANALYTICAL_ARGUMENT",
+      "status": "draft_noncurrent",
+      "source_admission": "UNADMITTED",
+      "source_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "source_generation": "BA_REFRESH_20260928T032248159554Z",
+      "publication_role": "independent_second",
+      "publication_order": 4,
+      "inverse": {
+        "published_unchanged_run0_halfopen": [
+          585,
+          34759
+        ],
+        "original_prefix_utf8": "{",
+        "original_sha256": "0811552e876f844307e677a9e49cd3d2e82d127593d3873aee44f28ff5c3c9a8",
+        "complete_original_unchanged": true
+      }
+    },
+    {
+      "family": "Event820",
+      "active_version": "20261006_EVENT820013_REVIEW_DRAFT",
+      "artifact_kind": "EPISODE_SOLE_DISTINCT_SECOND_ANALYSIS",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_820/REVIEW_DRAFT_20261006_EPISODE_013/05_NEW_EVENT820013_OWN_R01_BRANCH_EFFECT_ROLE_PRECISION_V1.json",
+      "bytes": 5362,
+      "sha256": "0fadad80214c0186ff3e3f0bc247318447ae163ab4df6091e18e7ba71ff803ff",
+      "source_sha256": "3cc54060be47aa002af3c73dc26f07f812022d02d4b69f3c62278f78fbe319ea",
+      "source_bytes": 4778,
+      "body_prose_preserved": true,
+      "authority_transformation": "publication metadata prefix only; complete original analytical bytes reconstructed exactly",
+      "source_fingerprint_class": "SOURCE_ANALYTICAL_ARGUMENT",
+      "status": "draft_noncurrent",
+      "source_admission": "UNADMITTED",
+      "source_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "source_generation": "BA_REFRESH_20260928T032248159554Z",
+      "publication_role": "independent_second",
+      "publication_order": 5,
+      "inverse": {
+        "published_unchanged_run0_halfopen": [
+          585,
+          5362
+        ],
+        "original_prefix_utf8": "{",
+        "original_sha256": "3cc54060be47aa002af3c73dc26f07f812022d02d4b69f3c62278f78fbe319ea",
+        "complete_original_unchanged": true
+      }
+    }
+  ],
+  "external_records": [
+    {
+      "external_record_id": "external-record:BA-PHASE2-20261006-820013-author_original_index",
+      "record_kind": "original_read_index",
+      "filename": "EXACT_ROOT_EVENT820013_ALL_TRUE_ORIGINAL_SOURCE_SELECTORS_METADATA_V1.json",
+      "bytes": 1118427,
+      "sha256": "dd7a96ec5c648126ff7403081e2c718c55eb00526302199d22c020f49c56ec67",
+      "storage": "external_private_process_storage",
+      "republication": false
+    },
+    {
+      "external_record_id": "external-record:BA-PHASE2-20261006-820013-author_effective_route",
+      "record_kind": "analytical_route",
+      "filename": "NEW_ROOT820013_ALL5_EFFECTIVE_BASE4_D01_LAST_COMPLETE_ORDERED_SOLE_SECOND_ROUTES_V3.json",
+      "bytes": 29796,
+      "sha256": "ae590257e1e1c57355f92e4b4fdd81b32c45d92cd57e96bfac632eb563f173e0",
+      "storage": "external_private_process_storage",
+      "republication": false
+    },
+    {
+      "external_record_id": "external-record:BA-PHASE2-20261006-820013-author_receipt",
+      "record_kind": "process_read_receipt",
+      "filename": "ACTUAL_ROOT820013_ORIGINAL305_EFFECTIVE_AUTHOR5_ALL19_COMPLETE_PERSONAL_CLOSURE_RECEIPT_V1.json",
+      "bytes": 31535,
+      "sha256": "2a8f61b99e793f6528036720c421b92dcd79e7822f73364fed75b6a7612d7eac",
+      "storage": "external_private_process_storage",
+      "republication": false
+    },
+    {
+      "external_record_id": "external-record:BA-PHASE2-20261006-820013-second_effective_route",
+      "record_kind": "analytical_route",
+      "filename": "NEW_EVENT820013_ALL5_OWN_BASE4_R01_LAST_COMPLETE_ORDERED_LITERAL_ROUTES_V2.json",
+      "bytes": 57800,
+      "sha256": "9eb1ca6229c64b5622e7f201684cad62d93383f0707b7d08aeb955b753e6c7e8",
+      "storage": "external_private_process_storage",
+      "republication": false
+    },
+    {
+      "external_record_id": "external-record:BA-PHASE2-20261006-820013-second_receipt",
+      "record_kind": "process_read_receipt",
+      "filename": "ACTUAL_EVENT820013_SOLE_DISTINCT_SECOND_COMPLETE_INPUT19_OWN41_RECEIPT_V1.json",
+      "bytes": 46783,
+      "sha256": "3146777c059a7262fd29ee55091597f102619910d995996ee34c2acd7a1f7287",
+      "storage": "external_private_process_storage",
+      "republication": false
+    }
+  ],
+  "declared_corrective_transformations": {
+    "analytical_body_changes": 0,
+    "publication_metadata_prefixes": 10,
+    "exact_inverse_preservation_verified": true
+  },
+  "review_closure": {
+    "author_original_parts": 305,
+    "author_effective_own_parts": 19,
+    "independent_input_parts": 19,
+    "independent_effective_own_parts": 41,
+    "producer_corrections": 0,
+    "resolved_independent_own_precision": 1,
+    "remaining_semantic_display_debt": 0,
+    "independent_receipt_physical_identifiers": "null when unavailable; no fabricated retrieval identifiers"
+  },
+  "navigation": {
+    "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_820/REVIEW_DRAFT_20261006_EPISODE_013/README.md",
+    "bytes": 2802,
+    "sha256": "3c1b5d28f33648ee6abe4508fdc41b5d00890379212b750da068e1bd484172c9"
+  },
+  "publication_boundary": "Immutable analytical arguments and findings only. No original-source, private process receipt, transport or cache payload is included."
+}

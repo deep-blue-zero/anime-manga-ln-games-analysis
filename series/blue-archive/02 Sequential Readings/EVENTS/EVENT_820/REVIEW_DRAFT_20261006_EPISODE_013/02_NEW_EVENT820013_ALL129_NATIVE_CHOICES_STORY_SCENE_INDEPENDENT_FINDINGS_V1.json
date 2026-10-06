@@ -1,0 +1,1252 @@
+{
+  "series": "Blue Archive",
+  "status": "draft_noncurrent",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": true,
+  "source_admission": "UNADMITTED",
+  "publication_review_state": "author_and_sole_distinct_second_complete_supported_with_limits",
+  "publication_snapshot": "20261006_EVENT820013",
+  "artifact_type": "source_bounded_analytical_review_draft",
+  "source_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+  "source_generation": "BA_REFRESH_20260928T032248159554Z",
+  "publication_role": "independent_second",
+  "publication_order": 2
+,
+
+  "scope": {
+    "episode": "BA:event:820:013",
+    "reviewer": "/root/shun_root_unread_plan",
+    "judgment": "SUPPORTED_WITH_LIMITS",
+    "input_author": "/root",
+    "original_native_raw_AV_current_credit": 0,
+    "dependency": {
+      "path": "H:\\Anime Media Extraction\\Mobile games\\Blue_Archive\\_phase2_work\\ROOT_EVENT820013_first_original_complete_read_and_new_argument_20261006_v1\\02_NEW_ROOT820013_ALL129_NATIVE_CHOICES_STORY_SCENE_PAIRED_FINDINGS_V2.json",
+      "bytes": 31586,
+      "sha256": "70b14c8f1b9f85d3cada29092858162e006a0e164d8db8779d2d5f3dab0f4194"
+    },
+    "no_source_body_reading": true
+  },
+  "coverage_grammar": {
+    "version": "OWN_EXPLICIT_POSITION_INVERSE_V1",
+    "native_rows129_fields23_positions2967": "For each /all129_independent_rows[i], all23 field names in /every_native_field_judgment apply to the corresponding allocated author's /all129_native2967_positions[i] and /native_field_position_binding. Semantic, actor and mode exceptions are the row's own judgment and /all3_seam_judgments. This is complete analytical coverage, not primary-field inspection.",
+    "story26": "Every own story field below binds the same-name /story26 field in allocated body2.",
+    "scene9": "Every own scene field below binds the same-name /scene9 field in allocated body2.",
+    "choices216_options26": "Each of12 rows below applies every18 choice-role judgment, and both option-role judgments to each of its printed nested alternatives, exactly13 total. G2 option1/2 remain distinct.",
+    "types_and_order": "Preserve native physical ordinal and source-local literal/type lane; EMPTY, mode and locale differences are never silently repaired."
+  },
+  "all26_story_field_judgments": [
+    {
+      "field": "story_id",
+      "author_pointer": "/story26/story_id",
+      "judgment": "BA:event:820:013 is this selected episode's identity."
+    },
+    {
+      "field": "source_type",
+      "author_pointer": "/story26/source_type",
+      "judgment": "The event classification is navigation, not admission or an arc-completion claim."
+    },
+    {
+      "field": "raw_group_ids",
+      "author_pointer": "/story26/raw_group_ids",
+      "judgment": "The raw group relation stays local to the selected episode."
+    },
+    {
+      "field": "title_jp",
+      "author_pointer": "/story26/title_jp",
+      "judgment": "The Japanese title is a written navigation title; KR title differs, and neither is an outcome certificate."
+    },
+    {
+      "field": "record_count",
+      "author_pointer": "/story26/record_count",
+      "judgment": "The asserted source count is attributed to the author, not original credit for this reviewer."
+    },
+    {
+      "field": "utterance_count",
+      "author_pointer": "/story26/utterance_count",
+      "judgment": "All129 analytical native rows are covered through the independent position grammar."
+    },
+    {
+      "field": "choice_group_count",
+      "author_pointer": "/story26/choice_group_count",
+      "judgment": "All12 printed groups and13 nested options are covered; runtime behavior is uninspected."
+    },
+    {
+      "field": "scene_count",
+      "author_pointer": "/story26/scene_count",
+      "judgment": "The single native scene differs from13 thematic encounter blocks."
+    },
+    {
+      "field": "person_ids",
+      "author_pointer": "/story26/person_ids",
+      "judgment": "The native roster remains distinct from raw Akari speech and other raw labels."
+    },
+    {
+      "field": "artifact_type",
+      "author_pointer": "/story26/artifact_type",
+      "judgment": "An analytical dependency is not a new source intake."
+    },
+    {
+      "field": "status",
+      "author_pointer": "/story26/status",
+      "judgment": "Availability/status metadata is not source-specific admission or a reset of reading history."
+    },
+    {
+      "field": "event_content_id",
+      "author_pointer": "/story26/event_content_id",
+      "judgment": "The event relation remains documentary, not a MAIN chronological join."
+    },
+    {
+      "field": "original_event_content_id",
+      "author_pointer": "/story26/original_event_content_id",
+      "judgment": "Original-event metadata does not create a chronological or person merge."
+    },
+    {
+      "field": "event_contexts",
+      "author_pointer": "/story26/event_contexts",
+      "judgment": "Context metadata supplies navigation with actual joins still unestablished."
+    },
+    {
+      "field": "episode",
+      "author_pointer": "/story26/episode",
+      "judgment": "Native episode13 and preparation13 match here, without a rule equating ordinal and episode globally."
+    },
+    {
+      "field": "release_date",
+      "author_pointer": "/story26/release_date",
+      "judgment": "The release timestamp is publication navigation, not an in-world year or calendar date."
+    },
+    {
+      "field": "event_title_jp",
+      "author_pointer": "/story26/event_title_jp",
+      "judgment": "The event title does not determine stakes eligibility or completion."
+    },
+    {
+      "field": "event_title_source",
+      "author_pointer": "/story26/event_title_source",
+      "judgment": "The title-source attribution remains documentary."
+    },
+    {
+      "field": "event_title_confidence",
+      "author_pointer": "/story26/event_title_confidence",
+      "judgment": "Title confidence is not confidence in every narrative claim."
+    },
+    {
+      "field": "canonical_path",
+      "author_pointer": "/story26/canonical_path",
+      "judgment": "The canonical locator is attributed only; no canonical original is read by the second reviewer."
+    },
+    {
+      "field": "source_repo",
+      "author_pointer": "/story26/source_repo",
+      "judgment": "This provenance position is retained as an attributed documentary coordinate. It supplies no original/native/raw reading credit or runtime certification."
+    },
+    {
+      "field": "source_commit",
+      "author_pointer": "/story26/source_commit",
+      "judgment": "This provenance position is retained as an attributed documentary coordinate. It supplies no original/native/raw reading credit or runtime certification."
+    },
+    {
+      "field": "source_path",
+      "author_pointer": "/story26/source_path",
+      "judgment": "This provenance position is retained as an attributed documentary coordinate. It supplies no original/native/raw reading credit or runtime certification."
+    },
+    {
+      "field": "source_paths",
+      "author_pointer": "/story26/source_paths",
+      "judgment": "This provenance position is retained as an attributed documentary coordinate. It supplies no original/native/raw reading credit or runtime certification."
+    },
+    {
+      "field": "source_sha256",
+      "author_pointer": "/story26/source_sha256",
+      "judgment": "This provenance position is retained as an attributed documentary coordinate. It supplies no original/native/raw reading credit or runtime certification."
+    },
+    {
+      "field": "parser_version",
+      "author_pointer": "/story26/parser_version",
+      "judgment": "This provenance position is retained as an attributed documentary coordinate. It supplies no original/native/raw reading credit or runtime certification."
+    }
+  ],
+  "all9_scene_field_judgments": [
+    {
+      "field": "scene_id",
+      "author_pointer": "/scene9/scene_id",
+      "judgment": "The native scene identity stays source-local."
+    },
+    {
+      "field": "story_id",
+      "author_pointer": "/scene9/story_id",
+      "judgment": "The scene-to-story documentary relation is retained."
+    },
+    {
+      "field": "scene_no",
+      "author_pointer": "/scene9/scene_no",
+      "judgment": "The one native scene is not replaced by thematic encounters."
+    },
+    {
+      "field": "location_jp",
+      "author_pointer": "/scene9/location_jp",
+      "judgment": "EMPTY remains EMPTY; descriptions of roof, kitchen or factory do not repair this native field."
+    },
+    {
+      "field": "participant_person_ids",
+      "author_pointer": "/scene9/participant_person_ids",
+      "judgment": "Participant references remain native claimed associations and do not add raw Akari to the native roster."
+    },
+    {
+      "field": "speaker_ids",
+      "author_pointer": "/scene9/speaker_ids",
+      "judgment": "The speaker roster keeps native/raw seams without identity normalization."
+    },
+    {
+      "field": "boundary_method",
+      "author_pointer": "/scene9/boundary_method",
+      "judgment": "The native story-start boundary is retained; conceptual segmentation is a separate analytical layer."
+    },
+    {
+      "field": "raw_group_id",
+      "author_pointer": "/scene9/raw_group_id",
+      "judgment": "The local raw group relation supplies no global chronology."
+    },
+    {
+      "field": "source_record_keys",
+      "author_pointer": "/scene9/source_record_keys",
+      "judgment": "Record-key membership is a documentary provenance route, not source credit for this reviewer."
+    }
+  ],
+  "every_native_field_judgment": {
+    "utterance_id": "A record address is source-local; it does not identify a real person or calendar event.",
+    "story_id": "The episode key binds this selected analytical dependency only, with no established MAIN chronological join.",
+    "scene_id": "The native scene relation is retained without replacing it with the thematic encounter blocks.",
+    "seq": "Physical native order is retained; do not reorder on another numeric field.",
+    "speaker_id": "The native speaker reference stays separate from raw stage and spoken headings, including all three seams.",
+    "person_id": "A populated reference is an attributed native association, not an independently verified real-person identity; empties remain empty.",
+    "student_variant_id": "All variants are EMPTY here; costume or variant identity must not be supplied from another source.",
+    "speaker_label_raw": "The raw-label lane remains distinct from normalized/native and JP labels.",
+    "speaker_label_jp": "The Japanese-label lane is kept locally without repairing raw speaking seams.",
+    "utterance_type": "Dialogue, internal perspective and character narration keep their separate testimonial strengths.",
+    "text_jp": "The new per-row judgment supplies the paired semantic assessment, preserving the exact locale difference rather than translation equivalence.",
+    "text_jp_raw": "Written tags and original Japanese wording are interpreted as text; no engine or audio execution is supplied.",
+    "ruby_spans": "All native ruby arrays are empty in this dependency; this certifies the observed local array state, not absent schema inspection.",
+    "selection_group": "Native selection metadata relates to printed alternatives, not inspected runtime exclusivity or delivery.",
+    "raw_group_id": "The raw group is a documentary local relation, not a chronological or causal guarantee.",
+    "source_repo": "Repository provenance identifies the claimed source lane and supplies no original reading credit to this reviewer.",
+    "source_commit": "The pinned revision is a provenance coordinate, not current runtime behavior.",
+    "source_path": "The native claimed path remains a documentary locator, not a newly read primary body.",
+    "source_record_key": "The raw key is a local evidence pointer and does not merge speaker identities.",
+    "source_record_index": "The physical source index stays exact and distinct from utterance ordinal.",
+    "source_field": "The referenced field supplies the claimed provenance lane without upgrading analytical review to source inspection.",
+    "source_sha256": "The source fingerprint is an attributed provenance binding, not proof of semantic truth.",
+    "normalized_sha256": "A normalized fingerprint is a documentary identity check; no decoded or repaired text is claimed."
+  },
+  "all129_independent_rows": [
+    [
+      1,
+      4210,
+      "dialogue",
+      "Fuuka's sigh is a represented pause. It supports a tired or burdened tone here without establishing illness or an exact work limit."
+    ],
+    [
+      2,
+      4215,
+      "dialogue",
+      "Teacher acknowledges the pause. This is positive ordinary attention rather than an unshown intervention."
+    ],
+    [
+      3,
+      4216,
+      "dialogue",
+      "Fuuka says she is all right and that work remains. Her self-description coexists with Haruna's later concern; neither cancels the other."
+    ],
+    [
+      4,
+      4222,
+      "dialogue",
+      "JP accepts rest with an elliptical reply; KR adds an apology. Both remain courteous local responses."
+    ],
+    [
+      5,
+      4226,
+      "dialogue",
+      "JP proposes a short walk and accepts kindness; KR frames going out for air. Intent is positive, with departure separately reported later."
+    ],
+    [
+      6,
+      4231,
+      "dialogue",
+      "Haruna's pause is represented dialogue, not an explicit disclosure of everything she is thinking."
+    ],
+    [
+      7,
+      4233,
+      "dialogue",
+      "Haruna says she has not yet spoken. Teacher's ensuing inference is not her prior confession."
+    ],
+    [
+      8,
+      4238,
+      "dialogue",
+      "Haruna recognizes Teacher's familiarity with her. The recognition supports trust, not literal mind reading."
+    ],
+    [
+      9,
+      4239,
+      "dialogue",
+      "Haruna assesses Fuuka's condition as strained; JP appearance and KR stronger situation wording retain their different strengths."
+    ],
+    [
+      10,
+      4240,
+      "dialogue",
+      "JP says the content of Fuuka's worry is unknown; KR says its cause is unknown. This preserves an information limit alongside concern."
+    ],
+    [
+      11,
+      4242,
+      "dialogue",
+      "Haruna is surprised by the feelings question and intends to ask. The intention does not complete consultation."
+    ],
+    [
+      12,
+      4243,
+      "dialogue",
+      "Haruna reacts to Teacher's approach with surprise. No motive or wider relationship label is supplied by the reaction alone."
+    ],
+    [
+      13,
+      4247,
+      "dialogue",
+      "The move from not wanting to lose to feeling she must not lose is an expressed resolve, not a victory."
+    ],
+    [
+      14,
+      4248,
+      "dialogue",
+      "Haruna identifies many hopes placed on Suzume. The statement is attributed support and expectation, not a survey of every person."
+    ],
+    [
+      15,
+      4249,
+      "dialogue",
+      "Haruna assesses that her own power is not what is needed now. This is a role assessment, not proof that she can never help."
+    ],
+    [
+      16,
+      4250,
+      "dialogue",
+      "Her frustration is represented and material to the character response, without a clinical inference."
+    ],
+    [
+      17,
+      4252,
+      "dialogue",
+      "Haruna asks what useful work she can do. The question is positive willingness, with its proposed answer still to come."
+    ],
+    [
+      18,
+      4261,
+      "dialogue",
+      "She requests guidance. A request for direction is distinct from free agreement to every future task."
+    ],
+    [
+      19,
+      4262,
+      "sensei_internal",
+      "Teacher's internal decision to begin is private perspective in this source. It is not public dialogue or omniscient narration."
+    ],
+    [
+      20,
+      4268,
+      "dialogue",
+      "Juri expresses concern. Ordinary concern remains substantive evidence even before an eventual result."
+    ],
+    [
+      21,
+      4270,
+      "dialogue",
+      "JP qualifies Fuuka's scooter departure as seeming so; KR reports the recent departure more directly. The departure testimony remains positive."
+    ],
+    [
+      22,
+      4273,
+      "dialogue",
+      "Juri interprets Fuuka's departure as refreshment or relief. The intervening explanation is not printed as a separate completed conversation."
+    ],
+    [
+      23,
+      4278,
+      "dialogue",
+      "Juri offers a tentative location. Tentativeness remains attached to this useful information."
+    ],
+    [
+      24,
+      4282,
+      "dialogue",
+      "Haruna asks where Fuuka is. Asking is a local information act, not completed locating by itself."
+    ],
+    [
+      25,
+      4284,
+      "dialogue",
+      "Haruna trusts Juri's information. The trust is positive interpersonal evidence, not independent confirmation of every detail."
+    ],
+    [
+      26,
+      4285,
+      "dialogue",
+      "Haruna finds the proposed rooftop location unexpected for refreshment. Her surprise does not invalidate Fuuka's preference."
+    ],
+    [
+      27,
+      4290,
+      "dialogue",
+      "Haruna positively reports finding Fuuka. This achieved local report is retained, with physical playback uninspected."
+    ],
+    [
+      28,
+      4295,
+      "dialogue",
+      "Haruna asks about Teacher's delegation or suitability. Her question remains distinct from the eventual acceptance."
+    ],
+    [
+      29,
+      4300,
+      "dialogue",
+      "She asks for the reason. An invitation to explain is not evidence that every explanation has already occurred."
+    ],
+    [
+      30,
+      4301,
+      "sensei_internal",
+      "Teacher's internal assessment of a shared student view in JP differs from KR's better-understanding framing. Both are perspective."
+    ],
+    [
+      31,
+      4303,
+      "sensei_internal",
+      "Teacher internally identifies who can understand Fuuka, with the JP expectation and KR identification of Haruna retained separately."
+    ],
+    [
+      32,
+      4304,
+      "dialogue",
+      "JP's hesitant gratitude differs from KR's conditional courteous thanks. Neither should be silently standardized."
+    ],
+    [
+      33,
+      4305,
+      "dialogue",
+      "JP uses cooking and eating roles as an analogy; KR speaks more generally of suitable people for tasks. The useful role argument differs in formulation."
+    ],
+    [
+      34,
+      4306,
+      "dialogue",
+      "Haruna asks why she is the suitable person. This is an explicit question about assignment, not automatic consent to an unspecified role."
+    ],
+    [
+      35,
+      4307,
+      "dialogue",
+      "Her dialogue pause remains textually represented; deliberate withholding or a hidden motive is not established."
+    ],
+    [
+      36,
+      4308,
+      "dialogue",
+      "Haruna accepts the assignment locally. The positive agreement is not a guarantee of its later success."
+    ],
+    [
+      37,
+      4309,
+      "dialogue",
+      "The acceptance is qualified by Teacher's insistence. Preserve that condition rather than labeling the exchange unconditionally voluntary."
+    ],
+    [
+      38,
+      4314,
+      "dialogue",
+      "JP reports hearing the climb and recognizing Haruna; KR mentions unusual commotion. Hearing testimony is positive without measured sensory ability or AV proof."
+    ],
+    [
+      39,
+      4315,
+      "dialogue",
+      "The courteous entry request supports respectful local coordination. Entry execution is not separately inferred from the request."
+    ],
+    [
+      40,
+      4316,
+      "dialogue",
+      "Fuuka asks whether Juri supplied the information. The question preserves the information chain rather than inventing a new witness."
+    ],
+    [
+      41,
+      4317,
+      "dialogue",
+      "Haruna confirms Juri as the source and asks whether she is unwelcome. Confirmation and the welcome question are distinct local acts."
+    ],
+    [
+      42,
+      4318,
+      "dialogue",
+      "Fuuka promises to return to work soon. The promise is positive but does not show the return completed."
+    ],
+    [
+      43,
+      4319,
+      "dialogue",
+      "The request to rest longer is positive care, with no forced interpretation that Fuuka obeys it indefinitely."
+    ],
+    [
+      44,
+      4320,
+      "dialogue",
+      "Fuuka states her preference for the rooftop. This calming place is ordinary characterization, not merely background to the contest."
+    ],
+    [
+      45,
+      4321,
+      "dialogue",
+      "Fuuka describes work and travel constraints. The description is local testimony rather than an externally measured work schedule."
+    ],
+    [
+      46,
+      4322,
+      "dialogue",
+      "The rooftop is described as a calming routine. Comfort and habit are retained without diagnosing the speaker."
+    ],
+    [
+      47,
+      4323,
+      "dialogue",
+      "JP contests a specific suggestion of mental complication; KR is more general. The denial must keep its locale scope."
+    ],
+    [
+      48,
+      4324,
+      "dialogue",
+      "JP expresses dislike directly; KR says denial would be a lie. Aversion is positive evidence without being a refusal to help."
+    ],
+    [
+      49,
+      4325,
+      "dialogue",
+      "Fuuka asks what they are fighting. The question opens the disagreement rather than concluding every issue."
+    ],
+    [
+      50,
+      4326,
+      "dialogue",
+      "Haruna evaluates Nyao as deceitful and opposed to gourmet values. This is attributed evaluation, not an independent finding of fraud."
+    ],
+    [
+      51,
+      4327,
+      "dialogue",
+      "Fuuka reports acquired information about a gourmet and helmet conversation. Keep the report as the source of knowledge here."
+    ],
+    [
+      52,
+      4331,
+      "dialogue",
+      "Haruna asks whether Akari was involved. A named-person query is not an additional native speaking row for Akari."
+    ],
+    [
+      53,
+      4332,
+      "dialogue",
+      "Fuuka assents, completing the represented information chain. It does not independently prove every earlier reported detail."
+    ],
+    [
+      54,
+      4333,
+      "dialogue",
+      "JP explains the worry while KR says Haruna already knows. The different knowledge claims remain attributed and local."
+    ],
+    [
+      55,
+      4334,
+      "dialogue",
+      "Fuuka asks whether victory would cost employees their jobs. The threatened consequence is conditional, not a completed dismissal."
+    ],
+    [
+      56,
+      4335,
+      "dialogue",
+      "Haruna accepts that possibility. A possibility acknowledgment does not establish the economic outcome."
+    ],
+    [
+      57,
+      4336,
+      "dialogue",
+      "JP describes Suzume repelling company pressure; KR describes an end to company interference. The conditional future remedy remains differentiated."
+    ],
+    [
+      58,
+      4337,
+      "dialogue",
+      "JP foregrounds neighbors' perseverance; KR foregrounds Suzume rallying shopkeepers. Both are the speaker's account of collective support."
+    ],
+    [
+      59,
+      4338,
+      "dialogue",
+      "JP anticipates worsening business; KR anticipates narrower distribution. The projected mechanisms are distinct."
+    ],
+    [
+      60,
+      4339,
+      "dialogue",
+      "JP links reduced work to dismissals; KR describes austerity and reduced service. These are contingent projections, not present completion."
+    ],
+    [
+      61,
+      4340,
+      "dialogue",
+      "Fuuka's concern is explicit ordinary care. It need not be dramatic or successful to be eligible evidence."
+    ],
+    [
+      62,
+      4341,
+      "dialogue",
+      "JP reports some merchants supporting Nyao; KR reports their desire for favor. Neither makes all merchants unanimous."
+    ],
+    [
+      63,
+      4342,
+      "dialogue",
+      "JP describes felt disapproving looks and no direct words; KR describes a signal of unnecessary trouble. Do not invent spoken accusations."
+    ],
+    [
+      64,
+      4343,
+      "dialogue",
+      "Haruna allows that some people may prefer the status quo. This acknowledges counterpressure without certifying everyone's motive."
+    ],
+    [
+      65,
+      4344,
+      "dialogue",
+      "Haruna states a preference for change. The preference does not by itself show institutional change."
+    ],
+    [
+      66,
+      4345,
+      "dialogue",
+      "JP refers to frequent work burdens with laughter; KR says sometimes burdensome. Banter and frequency must remain separate."
+    ],
+    [
+      67,
+      4346,
+      "dialogue",
+      "Fuuka's surprise is represented. It does not establish malice or an unspoken intentional affront."
+    ],
+    [
+      68,
+      4347,
+      "dialogue",
+      "Fuuka says she wanted to help Suzume. That positive care motive remains distinct from every later effect."
+    ],
+    [
+      69,
+      4348,
+      "dialogue",
+      "Fuuka perceives escalation. Her assessment is retained as perspective rather than a complete external chronology."
+    ],
+    [
+      70,
+      4349,
+      "dialogue",
+      "Haruna asks which concern is greatest. The question is part of the actual exchange."
+    ],
+    [
+      71,
+      4350,
+      "dialogue",
+      "JP conditions loss on victory; KR conditions it on doing one's best. The changed condition must remain explicit."
+    ],
+    [
+      72,
+      4351,
+      "dialogue",
+      "JP partly grounds cafeteria work in dislike of suffering; KR gives a more direct cause. The testimony preserves care without external biography certification."
+    ],
+    [
+      73,
+      4355,
+      "dialogue",
+      "Haruna asks whether the group is included in Fuuka's concern. It is a local clarification, not universal solidarity already assumed."
+    ],
+    [
+      74,
+      4356,
+      "dialogue",
+      "Fuuka includes Haruna's group among cafeteria students she cares about. Ordinary care for obstructive peers is positive."
+    ],
+    [
+      75,
+      4357,
+      "dialogue",
+      "JP compares the helmet group as similar; KR says they became similar. Comparison and becoming are not the same temporal claim."
+    ],
+    [
+      76,
+      4358,
+      "dialogue",
+      "Fuuka explicitly cares for opponents even when obstructed. This positive ethical concern does not prove that the conflict is resolved."
+    ],
+    [
+      77,
+      4363,
+      "dialogue",
+      "The address to Fuuka is a represented relational response. No new action or person identity follows from address alone."
+    ],
+    [
+      78,
+      4365,
+      "dialogue",
+      "The answering address remains a local acknowledgment. It is positive communication without a wider outcome certificate."
+    ],
+    [
+      79,
+      4367,
+      "dialogue",
+      "Native Fuuka and raw spoken Haruna differ at r4367. Preserve the sacrifice hesitation and store-loss assessment with this actor seam, never repairing it."
+    ],
+    [
+      80,
+      4368,
+      "dialogue",
+      "Haruna says she cannot watch stores disappear and gives that as her reason to fight. It is resolve toward a threatened loss, not completed destruction."
+    ],
+    [
+      81,
+      4369,
+      "dialogue",
+      "Fuuka assents locally. Assent is positive agreement without implying agreement to every claim or future action."
+    ],
+    [
+      82,
+      4370,
+      "dialogue",
+      "JP expects that restraint will not be applied; KR expresses an intent not to spare. Expectation and intention remain prospective."
+    ],
+    [
+      83,
+      4374,
+      "character_narration",
+      "Haruna's character-narration intent to crush the adversary is attributed thought, not objective narration of achieved destruction."
+    ],
+    [
+      84,
+      4375,
+      "character_narration",
+      "Haruna compares smaller losses under defeat. Keep the conditional comparison and character-narration mode."
+    ],
+    [
+      85,
+      4376,
+      "character_narration",
+      "JP treats dismissals as possibilities; KR says austerity may or may not happen. Both preserve contingency rather than asserting certainty."
+    ],
+    [
+      86,
+      4379,
+      "character_narration",
+      "JP says the proprietor loses everything if defeated; KR is stronger within the surrounding defeat discussion. Keep the condition and locale strength."
+    ],
+    [
+      87,
+      4380,
+      "character_narration",
+      "The speaker expresses certainty about the conditional consequence. Certainty does not remove the defeat condition."
+    ],
+    [
+      88,
+      4381,
+      "character_narration",
+      "Fuuka's character-narration assent remains attributed. It does not turn the surrounding forecasts into an objective result."
+    ],
+    [
+      89,
+      4384,
+      "dialogue",
+      "The concern is widened beyond the proprietor. The statement is an attributed scope claim."
+    ],
+    [
+      90,
+      4385,
+      "dialogue",
+      "JP classifies current district victims; KR frames potential victims. The source does not independently certify universal harm."
+    ],
+    [
+      91,
+      4386,
+      "dialogue",
+      "Fuuka asks why. The question remains part of explanation, with no automatic acceptance beyond the printed exchange."
+    ],
+    [
+      92,
+      4392,
+      "dialogue",
+      "JP concerns inability to taste true gourmet; KR concerns losing that right. This is Haruna's food-based evaluation, not an objective food rating."
+    ],
+    [
+      93,
+      4398,
+      "dialogue",
+      "Written laughter is positive ordinary reaction. Playback, sound realization and motive remain uninspected."
+    ],
+    [
+      94,
+      4399,
+      "dialogue",
+      "Haruna asks why Fuuka laughs. Asking preserves the open interpretation of that reaction."
+    ],
+    [
+      95,
+      4400,
+      "dialogue",
+      "Fuuka recognizes Haruna as characteristic of herself. This warmth and familiarity do not establish a new romance or institutional label."
+    ],
+    [
+      96,
+      4401,
+      "dialogue",
+      "Written throat clearing is a positive cue. It is not a measured or played-back bodily action here."
+    ],
+    [
+      97,
+      4402,
+      "dialogue",
+      "Haruna expresses gourmet resolve. It remains commitment rather than an already won contest."
+    ],
+    [
+      98,
+      4403,
+      "dialogue",
+      "Haruna recognizes Fuuka's seriousness as similar. Recognition is positive relational testimony."
+    ],
+    [
+      99,
+      4404,
+      "dialogue",
+      "Fuuka asks for clarification. The question does not negate the positive recognition."
+    ],
+    [
+      100,
+      4405,
+      "dialogue",
+      "JP says true skill is seldom shown; KR adds that Haruna knows Fuuka. These attributed assessments are not calibrated maximum capacity."
+    ],
+    [
+      101,
+      4406,
+      "dialogue",
+      "JP qualifies the lack of opportunity; KR asserts it more directly. Opportunity history remains testimony within the source."
+    ],
+    [
+      102,
+      4408,
+      "dialogue",
+      "Haruna identifies a present opportunity. The assessment is positive without being a completed capability demonstration."
+    ],
+    [
+      103,
+      4410,
+      "dialogue",
+      "Native Haruna and raw spoken Fuuka differ at r4410. Keep the assent positive with its unresolved speaking attribution."
+    ],
+    [
+      104,
+      4411,
+      "dialogue",
+      "Fuuka pledges effort. The achieved pledge is positive, while the later win remains unshown."
+    ],
+    [
+      105,
+      4412,
+      "dialogue",
+      "Fuuka says they have come this far. Local progression remains represented without a global timeline or guaranteed endpoint."
+    ],
+    [
+      106,
+      4413,
+      "dialogue",
+      "JP credits the nearby hidden Teacher; KR leaves someone unnamed. Keep the different specificity of recognition."
+    ],
+    [
+      107,
+      4418,
+      "dialogue",
+      "JP requests that Teacher come out; KR asks whether they shall go. Neither supplies completed emergence by itself."
+    ],
+    [
+      108,
+      4419,
+      "dialogue",
+      "Haruna asks whether Teacher is there. The question preserves her information position."
+    ],
+    [
+      109,
+      4422,
+      "dialogue",
+      "JP reports feeling Teacher nearby; KR says she somehow thought so. Recognition is positive without a supernatural or causal proof."
+    ],
+    [
+      110,
+      4427,
+      "dialogue",
+      "Fuuka is mixing egg and dashi, with KR specifying bonito dashi. Ongoing craft is positive, not completion of the entire dish."
+    ],
+    [
+      111,
+      4431,
+      "dialogue",
+      "JP names soy, mirin and sugar; KR also includes ground fish flesh. Preserve the ingredient difference."
+    ],
+    [
+      112,
+      4432,
+      "dialogue",
+      "JP asks general roe status; KR asks whether roe was removed. The task question is not an invented completed procedure."
+    ],
+    [
+      113,
+      4433,
+      "dialogue",
+      "At r4433 JP reports completed pickling; KR says drying is going well now. KR specifies yellowtail and sea bream for future grilling. Keep current drying distinct from completed pickling."
+    ],
+    [
+      114,
+      4434,
+      "dialogue",
+      "JP describes plump finished shrimp; KR describes successful boiling. Both preserve a positive achieved food result."
+    ],
+    [
+      115,
+      4439,
+      "dialogue",
+      "JP instructs leaving food in broth until before eating; KR instructs drying as is. Different handling instructions are not completed serving."
+    ],
+    [
+      116,
+      4443,
+      "dialogue",
+      "Juri reports completed carrot cutting. This ordinary achieved craft remains positive without a broader skill ranking."
+    ],
+    [
+      117,
+      4444,
+      "dialogue",
+      "Fuuka thanks Juri. Gratitude is positive relationship and work evidence."
+    ],
+    [
+      118,
+      4445,
+      "dialogue",
+      "The forgotten taro is a specific lapse. It does not establish general incompetence or failed cooking."
+    ],
+    [
+      119,
+      4451,
+      "dialogue",
+      "Haruna appreciates the kitchen scene. Ordinary pleasure and appreciation remain substantive evidence."
+    ],
+    [
+      120,
+      4452,
+      "dialogue",
+      "Proprietor, cafeteria and gourmet groups are jointly making osechi now. Cooperative work is positive, with 100 boxes not thereby shown complete."
+    ],
+    [
+      121,
+      4454,
+      "dialogue",
+      "Native Izumi and raw spoken Akari differ at r4454. Preserve the tasting-as-work eating joke with its unresolved actor seam."
+    ],
+    [
+      122,
+      4455,
+      "dialogue",
+      "Junko describes tasting as work and plans hauling afterward. Present appetite or work talk remains distinct from completed later hauling."
+    ],
+    [
+      123,
+      4456,
+      "dialogue",
+      "Izumi expresses present happiness. JP imagines eating daily; KR imagines every day like today. Wishes remain separate from the achieved happy moment."
+    ],
+    [
+      124,
+      4466,
+      "dialogue",
+      "Kan asks for a production-process or line report. This is workplace coordination, not proof of every underlying machine state."
+    ],
+    [
+      125,
+      4467,
+      "dialogue",
+      "Helmet E reports all boiling, pickling and grilling lines operating well. The achieved operating report remains positive and attributed."
+    ],
+    [
+      126,
+      4468,
+      "dialogue",
+      "Kan celebrates mass production, mass consumption and conveyors. Enthusiasm and values are not numeric capacity measurements."
+    ],
+    [
+      127,
+      4469,
+      "dialogue",
+      "JP names factory Nyao identity; KR emphasizes its process strengths. These claims remain attributed rhetoric without identity or world-state repair."
+    ],
+    [
+      128,
+      4471,
+      "dialogue",
+      "Kan issues a work order and praises life through work. Work authority is represented; worker consent, pay or legal conditions are not certified."
+    ],
+    [
+      129,
+      4476,
+      "dialogue",
+      "Helmet E reports everyone already doing overtime. This is a positive current-work report, without an exact hours, wages or consent finding."
+    ]
+  ],
+  "all3_seam_judgments": [
+    {
+      "U": 79,
+      "raw": 4367,
+      "native": "Fuuka",
+      "raw_spoken": "Haruna",
+      "judgment": "Sacrifice discussion remains positive but its actor lane differs. Neither lane is silently selected as the real speaker."
+    },
+    {
+      "U": 103,
+      "raw": 4410,
+      "native": "Haruna",
+      "raw_spoken": "Fuuka",
+      "judgment": "The local assent is retained with unresolved speaking attribution."
+    },
+    {
+      "U": 121,
+      "raw": 4454,
+      "native": "Izumi",
+      "raw_spoken": "Akari",
+      "judgment": "The eating/tasting-as-work joke is retained. Raw Akari speech does not create an added native person binding."
+    }
+  ],
+  "every_choice_field_judgment": {
+    "choice_group_id": "This source-local choice address and order is preserved without chronological or runtime merge.",
+    "story_id": "This source-local choice address and order is preserved without chronological or runtime merge.",
+    "scene_id": "This source-local choice address and order is preserved without chronological or runtime merge.",
+    "sequence": "This source-local choice address and order is preserved without chronological or runtime merge.",
+    "speaker_id": "The formal speaker/person lane is documentary and remains separate from dialogue and raw staging.",
+    "speaker": "The formal speaker/person lane is documentary and remains separate from dialogue and raw staging.",
+    "options": "Nested alternatives remain in printed order; G2 has two alternatives, not two certified delivered lines.",
+    "selection_group": "This source-local choice address and order is preserved without chronological or runtime merge.",
+    "raw_group_id": "This source-local choice address and order is preserved without chronological or runtime merge.",
+    "branch_effect_known": "This claimed provenance position is retained for all12 groups, with original reading credit0.",
+    "source_repo": "This claimed provenance position is retained for all12 groups, with original reading credit0.",
+    "source_commit": "This claimed provenance position is retained for all12 groups, with original reading credit0.",
+    "source_path": "This claimed provenance position is retained for all12 groups, with original reading credit0.",
+    "source_record_key": "This claimed provenance position is retained for all12 groups, with original reading credit0.",
+    "source_record_index": "This claimed provenance position is retained for all12 groups, with original reading credit0.",
+    "source_field": "This claimed provenance position is retained for all12 groups, with original reading credit0.",
+    "source_sha256": "This claimed provenance position is retained for all12 groups, with original reading credit0.",
+    "normalized_sha256": "This claimed provenance position is retained for all12 groups, with original reading credit0."
+  },
+  "every_option_field_judgment": {
+    "option_id": "The option identifier/order is a local documentary address, not proof of execution.",
+    "text_jp": "Each printed alternative retains its own Japanese wording and paired meaning; no exclusivity/delivery is inspected."
+  },
+  "all12_groups13_option_judgments": [
+    [
+      1,
+      4211,
+      1,
+      "Teacher's caring question is a positive printed utterance. No response or later intervention is inserted.",
+      [
+        {
+          "option_ordinal1": 1,
+          "judgment": "This printed local alternative carries the group's attributed meaning; actual delivery is uninspected."
+        }
+      ]
+    ],
+    [
+      2,
+      4217,
+      2,
+      "Two printed Teacher alternatives offer rest or caution against overwork. Each is meaningful ordinary care; runtime exclusive selection and delivery are uninspected.",
+      [
+        {
+          "option_ordinal1": 1,
+          "judgment": "Rest suggestion remains a printed caring alternative."
+        },
+        {
+          "option_ordinal1": 2,
+          "judgment": "Overwork caution remains a distinct printed caring alternative."
+        }
+      ]
+    ],
+    [
+      3,
+      4232,
+      1,
+      "JP infers Haruna's worry about burdening Fuuka; KR asks whether Fuuka looks burdened. Inference and question remain separate.",
+      [
+        {
+          "option_ordinal1": 1,
+          "judgment": "This printed local alternative carries the group's attributed meaning; actual delivery is uninspected."
+        }
+      ]
+    ],
+    [
+      4,
+      4234,
+      1,
+      "Teacher says Haruna was seen watching Fuuka. This positive knowledge claim is attributed, with no independent surveillance or duration proof.",
+      [
+        {
+          "option_ordinal1": 1,
+          "judgment": "This printed local alternative carries the group's attributed meaning; actual delivery is uninspected."
+        }
+      ]
+    ],
+    [
+      5,
+      4241,
+      1,
+      "JP asks about feelings; KR asks for Haruna's perspective or wants. The difference remains meaningful.",
+      [
+        {
+          "option_ordinal1": 1,
+          "judgment": "This printed local alternative carries the group's attributed meaning; actual delivery is uninspected."
+        }
+      ]
+    ],
+    [
+      6,
+      4251,
+      1,
+      "JP confidently offers useful work; KR asks whether such work exists. Neither is completed task performance.",
+      [
+        {
+          "option_ordinal1": 1,
+          "judgment": "This printed local alternative carries the group's attributed meaning; actual delivery is uninspected."
+        }
+      ]
+    ],
+    [
+      7,
+      4253,
+      1,
+      "Teacher believes there is useful work. Belief does not establish later success.",
+      [
+        {
+          "option_ordinal1": 1,
+          "judgment": "This printed local alternative carries the group's attributed meaning; actual delivery is uninspected."
+        }
+      ]
+    ],
+    [
+      8,
+      4274,
+      1,
+      "Teacher asks for Fuuka's location. The query supports coordination without independently locating her.",
+      [
+        {
+          "option_ordinal1": 1,
+          "judgment": "This printed local alternative carries the group's attributed meaning; actual delivery is uninspected."
+        }
+      ]
+    ],
+    [
+      9,
+      4283,
+      1,
+      "Teacher trusts Juri. Trust is positive relationship evidence, not certainty about every factual claim.",
+      [
+        {
+          "option_ordinal1": 1,
+          "judgment": "This printed local alternative carries the group's attributed meaning; actual delivery is uninspected."
+        }
+      ]
+    ],
+    [
+      10,
+      4291,
+      1,
+      "Teacher delegates the exchange; KR adds that it is her time. Printed assignment is not unrestricted consent.",
+      [
+        {
+          "option_ordinal1": 1,
+          "judgment": "This printed local alternative carries the group's attributed meaning; actual delivery is uninspected."
+        }
+      ]
+    ],
+    [
+      11,
+      4296,
+      1,
+      "JP suggests going today; KR suggests stepping forward now. Publication timing and in-world calendar are not supplied.",
+      [
+        {
+          "option_ordinal1": 1,
+          "judgment": "This printed local alternative carries the group's attributed meaning; actual delivery is uninspected."
+        }
+      ]
+    ],
+    [
+      12,
+      4420,
+      1,
+      "Teacher asks whether the hidden presence was discovered. It is positive ordinary humor, with no supernatural knowledge inference.",
+      [
+        {
+          "option_ordinal1": 1,
+          "judgment": "This printed local alternative carries the group's attributed meaning; actual delivery is uninspected."
+        }
+      ]
+    ]
+  ],
+  "counts": {
+    "U": 129,
+    "native_fields": 23,
+    "native_positions": 2967,
+    "story_fields": 26,
+    "scene_fields": 9,
+    "dialogue": 120,
+    "sensei_internal": 3,
+    "character_narration": 6,
+    "G": 12,
+    "G_fields": 18,
+    "G_positions": 216,
+    "options": 13,
+    "option_fields": 2,
+    "option_positions": 26,
+    "ruby_spans": 0,
+    "native_variants": "ALL_EMPTY",
+    "seams": 3
+  },
+  "positive_and_limit": "All ordinary work, rest, care, requests, gratitude, trust, humor, appetite and achieved or attributed craft/work reports remain intrinsically eligible. Local nonestablishment does not prove wider absence or failure.",
+  "producer_changes_requested": 0,
+  "unresolved_semantic_debt": 0,
+  "native_row_columns": [
+    "U_ordinal1",
+    "DataList0",
+    "author_mode_claim",
+    "paired_actor_mode_judgment"
+  ],
+  "native_table_inverse": "Row i binds allocated body2 /all129_native2967_positions/i. Columns preserve ordinal,raw address,authored mode claim and a new own paired judgment. All23 field rules apply to every row; all3 seam rules override any temptation to normalize actors. Speaker/person/variant labels remain the attributed native lane, with no primary-field reading credit.",
+  "choice_row_columns": [
+    "G_ordinal1",
+    "DataList0",
+    "printed_options",
+    "own_judgment",
+    "each_option_scope"
+  ],
+  "choice_inverse": "Choice row i binds allocated body2 /all12_groups216_positions_and13_options26_positions/i. Every18 choice role and both nested-option roles apply to every printed alternative exactly13. No group, option, field or alternative is omitted."
+}
