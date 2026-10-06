@@ -128,6 +128,8 @@ The method should govern **how the source will be read**. Depending on medium an
 - contradiction handling within a sequential reading;
 - what each sequential artifact must update before it can be considered complete.
 
+For a new anime project with no existing analytical method, the [Generic Source-Bounded Anime Episode Analytical Method](../analytical-methods/GENERIC_ANIME_EPISODE_ANALYTICAL_METHOD.md) may be used as an optional bootstrap/design reference. It does not itself satisfy the project-local governing-method requirement. The project must adapt or author a series-specific method after source reconnaissance, include only analytically justified modules, pair it with a synthesis/corpus architecture, and expose both through the canonical project entrypoint before sequential analysis is unlocked.
+
 ## 3.4 Governing synthesis/corpus architecture established
 
 A canonical architecture must exist before sequential analysis begins.

@@ -13,6 +13,7 @@ governance/
   AUTHORITY_SCOPE.json
   MANGA_ANIME_CORPUS_INDEX.md
   CHATGPT_AUTHORITY_AND_ROUTING.md
+  analytical-methods/
   policies/
   repository-controls/
     public-activation-bindings.json
@@ -33,6 +34,8 @@ studies/
 tools/
   tests/
 ```
+
+`governance/analytical-methods/` is the canonical home for reusable corpus-level analytical reference methods. These opt-in references are not automatically project-local governing methods.
 
 `characters/registry.jsonl` contains discovery metadata only. Substantive character monographs belong in the canonical series or study tree. Future reconstruction assessments, if separately authorized, use `characters/reconstruction_capabilities.jsonl`; that production registry is deliberately absent from this bootstrap-hardening candidate. Series-local reconstruction manifests and empty symmetry folders are not required.
 
