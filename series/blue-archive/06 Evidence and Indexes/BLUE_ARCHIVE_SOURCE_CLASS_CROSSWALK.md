@@ -102,3 +102,18 @@ EVENT80001 preserves16 canonical objects/19 scenes/780 units,113 formal groups/1
 Within each story, reported preparation, immediate encounter, later narration and explicit recollection have only their actual local/relative anchors. The2026-02-18 to2026-03-04 event window (timezone unspecified), source ordering, costume gates and episode numbers remain documentary metadata. The anthology does not acquire a shared plot or main chronology. E141 raw`케이 교복` remains without a person/variant join; candidate CH0335/CHAR_101350001 is retained as metadata rather than merged into Alice/Key/Kei.sav. Baseball-Rei, diving-team Rei, Nozomi/Nonomi and Subaru/FOX Niko remain separate. The E133 crow and black cat are two encounter-local animal/voice routes, not additional named humans or a cross-event identity.
 
 All654 Serina bond and1525 EVENT80001 raw VoiceId fields are0; written voice IDs, sound/shot control names and timed text are not an inspected audiovisual witness. Pleasure, gratitude, ordinary wishes, gifts, play, work, humor, refusal and pressure enter together as bounded repertoire. Unprinted outcomes, clinical efficacy, credentials, authorization, security repair and total chronology remain open. Next independent rotation EVENT801 all13 is`UNASSESSED`; no literary verdict is assigned before content review.
+
+
+## External conditional MAIN S2 V002 mini/G01 source-class note — 2026-10-04
+
+MINI70002010/70002020 supply complete draft mini evidence and accepted bounded contextual functions; they remain UNADMITTED and do not become MAIN, BOND or GROUP sources. GROUP1101–1104 retain their existing admission and owner. This component changes no source-class census, release chronology, primary reader allocation or performed-voice coverage.
+
+
+## External conditional analytical-class reconciliation for MAIN S2 V002
+
+Twenty accepted private-family functions, the G06/G26 analytical comparisons and the accepted four-main-only scene functions provide bounded additional analytical context. This package preserves all source-class distinctions and existing intake/admission records. Among the selected 399 private units, 397 remain UNADMITTED and the existing Junko BOND16012:E003 / MM160120060 pair remains ADMITTED. Group/MAIN summaries convey analytical context without newly acquired primary/native/AV credit. Event claim functions remain a separate pending overlay in this candidate.
+
+
+## Additional external conditional event functions: CF08 and CF10
+
+The earlier pending-event wording is historical candidate scope. This successor incorporates only the accepted precise CF08 and CF10 functions; other event payloads are not inferred. All original history, source-specific 397 UNADMITTED/two existing ADMITTED Junko statuses and authority codes remain unchanged.

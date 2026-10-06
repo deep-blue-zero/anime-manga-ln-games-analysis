@@ -9,7 +9,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-10-02
+updated: 2026-10-03
 canonical_home: series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md
 ---
 
@@ -104,7 +104,7 @@ For a substantive question: this map → coverage or relevant checkpoint → app
 
 ## 6. Active gaps and next valid operation
 
-Continue **Phase 2 contextualization**: select the next unaccepted complete event or private/written family packet under the [Phase 2 audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md) and [object crosswalk](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv), review the complete argument and consequential source evidence, then accept only its supported scope and reconcile affected ledgers, coverage and controls. Preserve full-source event rotation alongside inquiry-led selection. Existing drafts are review candidates, not accepted progress. The event index currently routes EVENT801 as the next independent rotation packet and EVENT806 as a Yuuka/C&C inquiry; neither is admitted. This queue order is distinct from a literary priority judgment on unread material.
+Continue **Phase 2 contextualization**: select the next unaccepted complete event or private/written family packet under the [Phase 2 audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md) and [object crosswalk](06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv), review the complete argument and consequential source evidence, then accept only its supported scope and reconcile affected ledgers, coverage and controls. Preserve full-source event rotation alongside inquiry-led selection. Existing drafts are review candidates, not accepted progress. The [2026-10-03 review-draft snapshot](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_REVIEW_DRAFT_PUBLICATION_20261003.md) routes completed unadmitted arguments and their pending checks; publication of those drafts does not change this accepted-state summary. The [PR135 terminal-LF transformation record](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PR135_TERMINAL_LF_TRANSFORMATION_V1.json) binds the seventy normalized derivatives and their exact inverse; the dated publication manifest retains its original historical tuples. The event index currently routes EVENT801 as the next independent rotation packet and EVENT806 as a Yuuka/C&C inquiry; neither is admitted. This queue order is distinct from a literary priority judgment on unread material.
 
 Major unresolved responsibilities are the remaining event/private/written and per-arc duties in §3; [G01–G06](01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md#1-current-material-gaps-and-claim-effects) distinguish ordinary/private breadth, Yuuka transfer, Serika's remaining event range, Hina accountability, Arius/PS68 aftermath, and cross-school contexts. G11 retains Hoshino's Yume-record and office-state limits; G07–G10 and G12 retain chronology, naming, attribution, performance and identity constraints. Kaguya's private route remains unresolved; the [scope extension](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md#3-exact-identity-and-overlap-decisions) owns that inquiry. Unprinted legal, medical or technical outcomes cannot be closed by unrelated ordinary scenes.
 
@@ -121,3 +121,20 @@ Do not extend main-story dialogue until release status, source provenance and ad
 The [historical current-state archive through cycle 005](90%20Legacy%20and%20Superseded/BLUE_ARCHIVE_CURRENT_STATE_HISTORY_THROUGH_CYCLE_005.md) preserves the complete former map, including earlier rollups, V1 build/retrieval counts, Drive provenance IDs, unit-level cautions, historical readiness and obsolete next-unit instructions. It is **historical_legacy**, never a second current entrypoint. Detailed readings, checkpoints and ledgers remain in their existing canonical homes. The [maintenance audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ROUTING_RESPONSIBILITY_AUDIT_20261001.md) records the responsibility assessment, preservation proof and cold-start check.
 
 Keep future updates here limited to current routing and accepted state. Preserve detailed historical developments in their existing analytical owners. Continue substantive Phase 2 work through the accepted-state owners and source-facing routes above.
+
+
+## External conditional MAIN S2 V002 integration component — 2026-10-04
+
+A partial mini/G01 contextual extension is prepared for review, with existing histories preserved and source admission unchanged. It is not current authority and does not settle the remaining family, main-only or EVENT reconciliation. The authority frontier remains 480 MAIN, 213 admissions, 516 subjects, 23 PARTIAL_MODEL, 493 UNMODELED and no standalone model.
+
+
+## External conditional selected-arc integration candidate
+
+A concrete external MAIN S2 V002 candidate now composes preserved original/mini/G01 history with accepted private-family, G06/G26 and D02 scene functions. It broadens the analytical repertoire while retaining source-specific admission, actor/mode/locale distinctions, ordinary pleasure/care/refusals and unresolved outcomes. This is a prepared analytical afterimage, not installed authority, a new model or complete Phase2. Event functions remain a separate overlay; final measured capacity and reasoned admission controls remain necessary before shared application.
+
+
+## Additional external conditional event functions: CF08 and CF10
+
+The earlier pending-event wording is historical candidate scope. This successor incorporates only the accepted precise CF08 and CF10 functions; other event payloads are not inferred. All original history, source-specific 397 UNADMITTED/two existing ADMITTED Junko statuses and authority codes remain unchanged.
+
+Every changed output above 1 MiB requires a fresh named path/bytes/SHA256 storage review of these final bytes. Earlier storage tuples cover only their own candidates; this candidate remains external pending governed whole-effect review and application.
