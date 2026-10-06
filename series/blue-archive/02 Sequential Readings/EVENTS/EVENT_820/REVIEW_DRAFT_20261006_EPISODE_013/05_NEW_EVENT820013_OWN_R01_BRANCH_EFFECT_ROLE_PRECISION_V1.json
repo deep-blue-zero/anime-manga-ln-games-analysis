@@ -18,7 +18,7 @@
   "scope": "ONLY own native body2 /every_choice_field_judgment/branch_effect_known after all40 base own firsts; no producer or source change.",
   "reason": "Own base wording used a generic provenance description for this branch-effect field. Replace only that role description with its specific runtime-evidence boundary.",
   "base": {
-    "path": "H:/Anime Media Extraction/Mobile games/Blue_Archive/_phase2_work/EVENT820013_sole_distinct_complete_new_analytical_review_20261006_v1/02_NEW_EVENT820013_ALL129_NATIVE_CHOICES_STORY_SCENE_INDEPENDENT_FINDINGS_V1.json",
+    "path": "external-record:BA-PHASE2-20261006-820013-URI-3ab911bf4820062e",
     "bytes": 44698,
     "sha256": "74c6220b1e90569461d4721a361c4c3931bd04ab6a39418f35d0bc3bea819cd0"
   },
@@ -41,7 +41,7 @@
     {
       "body_ordinal1": 1,
       "whole": {
-        "path": "H:/Anime Media Extraction/Mobile games/Blue_Archive/_phase2_work/EVENT820013_sole_distinct_complete_new_analytical_review_20261006_v1/01_NEW_EVENT820013_COMPLETE_INDEPENDENT_ARGUMENT_V1.md",
+        "path": "external-record:BA-PHASE2-20261006-820013-URI-89afb22388259b68",
         "bytes": 7166,
         "sha256": "d6070e9b6b475e6bdf4df497c4f99045054ff5f9702d6dff2b3bde52fe186927"
       },
@@ -59,7 +59,7 @@
     {
       "body_ordinal1": 2,
       "whole": {
-        "path": "H:/Anime Media Extraction/Mobile games/Blue_Archive/_phase2_work/EVENT820013_sole_distinct_complete_new_analytical_review_20261006_v1/02_NEW_EVENT820013_ALL129_NATIVE_CHOICES_STORY_SCENE_INDEPENDENT_FINDINGS_V1.json",
+        "path": "external-record:BA-PHASE2-20261006-820013-URI-3ab911bf4820062e",
         "bytes": 44698,
         "sha256": "74c6220b1e90569461d4721a361c4c3931bd04ab6a39418f35d0bc3bea819cd0"
       },
@@ -85,7 +85,7 @@
     {
       "body_ordinal1": 3,
       "whole": {
-        "path": "H:/Anime Media Extraction/Mobile games/Blue_Archive/_phase2_work/EVENT820013_sole_distinct_complete_new_analytical_review_20261006_v1/03_NEW_EVENT820013_ALL270_RAW_EVERY485_INLINE_INDEPENDENT_FINDINGS_V1.json",
+        "path": "external-record:BA-PHASE2-20261006-820013-URI-aa72e242656de3bf",
         "bytes": 106860,
         "sha256": "7255b4ee111084db407b1426ccef51ae6e1e22d8932d0eba7a7e7e5f45a4f64b"
       },
@@ -103,7 +103,7 @@
     {
       "body_ordinal1": 4,
       "whole": {
-        "path": "H:/Anime Media Extraction/Mobile games/Blue_Archive/_phase2_work/EVENT820013_sole_distinct_complete_new_analytical_review_20261006_v1/04_NEW_EVENT820013_COMPLETE_FINITE_INDEPENDENT_JUDGMENT_V1.json",
+        "path": "external-record:BA-PHASE2-20261006-820013-URI-dfbe50e263fce18c",
         "bytes": 34175,
         "sha256": "0811552e876f844307e677a9e49cd3d2e82d127593d3873aee44f28ff5c3c9a8"
       },

@@ -938,7 +938,7 @@
   ],
   "mandatory_D01": {
     "dependency": {
-      "path": "H:\\Anime Media Extraction\\Mobile games\\Blue_Archive\\_phase2_work\\ROOT_EVENT820013_first_original_complete_read_and_new_argument_20261006_v1\\05_NEW_ROOT820013_MANDATORY_D01_C16_CURRENT_KR_DRYING_PRECISION_V1.json",
+      "path": "external-record:BA-PHASE2-20261006-820013-URI-7034f8d24c90933a",
       "bytes": 4385,
       "sha256": "e58d8ab06d0321c9eb6b10890a4e0bc527bba62c5bec637b6df083eb829348eb"
     },

@@ -18,7 +18,7 @@
     "episode": "BA:event:820:013",
     "reviewer": "/root/shun_root_unread_plan",
     "dependency": {
-      "path": "H:\\Anime Media Extraction\\Mobile games\\Blue_Archive\\_phase2_work\\ROOT_EVENT820013_first_original_complete_read_and_new_argument_20261006_v1\\03_NEW_ROOT820013_ALL270_RAW2970_EVERY485_AND18JP_FINDINGS_V2.json",
+      "path": "external-record:BA-PHASE2-20261006-820013-URI-f31e2f39e7ddeb4d",
       "bytes": 26067,
       "sha256": "0d6ff8c927bcd5062b5c12891a5313e093f8204b62fee5a06dd0059991524159"
     },
