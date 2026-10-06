@@ -297,14 +297,14 @@ class PhaseValidationTests(unittest.TestCase):
                     "OWNER_AUTHORIZED_G7_AGGREGATE_PROVENANCE_CLOSURE",
                 )
         blue_archive_row = by_path[blue_archive_path]
-        self.assertEqual(blue_archive_row["bytes"], 1134497)
+        self.assertEqual(blue_archive_row["bytes"], 1134605)
         self.assertEqual(
             blue_archive_row["sha256"],
-            "a869fcd4ba7b84e51a176dc5659fc3aec37698ff35748bf68d8578d019c9ff2c",
+            "9d256b9bb40c89d09a3d0cd7e1f9294e59f8b82eb4231b8e041b8034668044bc",
         )
         self.assertEqual(
             blue_archive_row["exception_id"],
-            "BLUE_ARCHIVE_MAIN_COVERAGE_20261004_A869FCD4",
+            "BLUE_ARCHIVE_MAIN_COVERAGE_PR135_9D256B9B",
         )
         self.assertFalse(blue_archive_row["allow_utf8_bom"])
         self.assertFalse(blue_archive_row["allow_carriage_returns"])
