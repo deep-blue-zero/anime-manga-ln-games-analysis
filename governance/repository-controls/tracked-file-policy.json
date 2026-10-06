@@ -119,6 +119,18 @@
       "rights_basis": "Owner-approved analytical and provenance metadata within the repository's narrow original-content license scope.",
       "review_decision": "OWNER_APPROVED_G4_P02_LARGE_STRUCTURED_BOUNDARY",
       "external_reference_insufficient": "An external-only reference would remove the directly queryable provenance relationships needed to interpret and audit the migrated analysis."
+    },
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md",
+      "bytes": 1134605,
+      "sha256": "9d256b9bb40c89d09a3d0cd7e1f9294e59f8b82eb4231b8e041b8034668044bc",
+      "exception_id": "BLUE_ARCHIVE_MAIN_COVERAGE_PR135_9D256B9B",
+      "allow_utf8_bom": false,
+      "allow_carriage_returns": false,
+      "purpose": "Preserve a directly queryable coverage index for the existing516-subject analytical census, with bounded authored supplemental contextualization annotations in existing fields.",
+      "rights_basis": "Repository-authored original analysis, source identifiers, analytical pointers and bounded paraphrases; the candidate is not a bulk story, raw transcript, canonical dump or media copy.",
+      "review_decision": "Owner-authorized PR135 mechanical separator repair for review only; exact inverse preserves the historical ROOT-reviewed predecessor; derivative bound in BLUE_ARCHIVE_PR135_COVERAGE_SEPARATOR_REPAIR_V1.json; merge approval reserved.",
+      "external_reference_insufficient": "Keeping only an external reference would remove these authored field-level annotations from ordinary repository lookup and break the reviewed index-to-ledger relationships."
     }
   ],
   "named_whitespace_exceptions": [

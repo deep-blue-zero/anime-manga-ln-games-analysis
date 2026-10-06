@@ -104,3 +104,82 @@ The [accepted group relevance audit](../08%20Audits%20and%20Manifests/BLUE_ARCHI
 | G13 | Serina's self-disclaimed formal-nurse role, painful-joke/denied-refusal pressure, adult false-pain summons, missing access account and qualified enjoyment remain visible. Event gifts retain reported ingredient provenance, dietary/physiological claims, prohibition/access/café reports and narrated security review. | Care or pleasure does not erase coercion, establish clinical efficacy, credentials, authorization, legal repair or safety. Ebisu-produced dairy does not certify the cookie manufacturer; simulated baseball commentary is not a match/performance outcome; desired remembering does not recover a prior life; proposed shared tasting or future calls/visits are not accomplished outcomes. |
 
 G02/G03/G04/G11/G14 receive no new claim closure from this cycle. Prior Serika acceptance remains its own evidence boundary; Serina's separate pool is not substituted for it. All14 stable gap IDs, allowed-claim limits and closure conditions are preserved. Current complete-source remainder is0G/951E/1124B/1124M/496D, with principal-required1024B/1024M/419D and mandatory/tracked3418/3469. All12 arcs and wholePhase2 remain incomplete. The next independent EVENT801 rotation is still`UNASSESSED`, and no source or gap is dropped because it is quiet or comic.
+
+
+## External conditional MAIN S2 V002 mini/G01 claim limits — 2026-10-04
+
+These source-specific limits constrain the proposed contextual extension. They do not remove ordinary interests, preferences, requests, refusals, play, care or failed help from the analysis. They do not declare new global source absence or settle selected event/main-only duties.
+
+| Gap / scoped constraint | Claim-specific impact | Retained boundary |
+| --- | --- | --- |
+| MINI2: Private/mini/MAIN chronology unresolved | Blocks development sequence and causal backfill. Does not block retaining locally observed ordinary interests and interactions. | No new admission, model promotion or chronological bridge. |
+| MINI2: Contact transmission, club registration and purchases unshown | Blocks formal membership, completed contact exchange and consumption claims. Retain permission, refusal, naming and declared activity. | No new admission, model promotion or chronological bridge. |
+| MINI2: Anesthesia administration, consent, recovery and efficacy unshown | Blocks clinical success and procedural validation. Retain precisely attributed reports, shot/collapse staging and recipient refusals. | No new admission, model promotion or chronological bridge. |
+| MINI2: Typed/raw actor and JP/KR wording seams | Blocks silent harmonization and secure attribution at the named seams. Retain locale-specific game wording and all unaffected ordinary evidence. | No new admission, model promotion or chronological bridge. |
+| G01: Apology repair, universal inclusion and private-MAIN chronology unproved | Blocks generalized reconciliation/development claims. Retain bounded apology, renewed accusation, desired inclusion and adverse treatment. | No new admission, model promotion or chronological bridge. |
+
+Reader provenance is a separate limit: the new G01 comparison uses the admitted analytical owner and does not confer underlying primary/native/AV reading on an analytical-only reviewer. This is not evidence that G01 primary material is globally absent. Existing contributor attribution and Cycle002 admission remain intact.
+
+
+## External conditional selected-arc private, group and scene omission functions
+
+The following functions qualify the selected analytical repertoire while retaining source limitations. Ordinary preference, company, care, refusal, failure, interruption and prospective wishes remain intrinsically eligible. A reader-provenance limitation is not a globally absent primary source, and a source-gap annotation is not an admission decision.
+
+- Hina: Omitting rest, musical effort, recipient ambiguity or refusal would bias the account toward crisis competence and erase agency and ordinary pleasure.; A private care baseline can qualify an exclusively crisis-shaped account without legitimizing Prefect custody or converting chapter aftermath into cure. Private-to-MAIN chronology and causal transfer remain unknown.
+
+- Ako: Losing preferred company, dress autonomy, refusals or ordinary consolation would produce a misleadingly professional or uniformly submissive account.; Hina-oriented care and administrative self-presentation coexist with local dissent and requests. Neither boasts nor private accommodation establish a general mandate, engineering cause or institution-wide recovery.
+
+- Iori: Omitting ordinary preference, practical care, interrupted purchase or refusal would privilege enforcement stakes over the person and weaken the seven source-bounded propositions.; C001/E001/E011/E017 analytical context can qualify workload and restraint claims without supplying new main primary evidence. The frozen null current-owner boundary and global history UNKNOWN remain explicit.
+
+- Chinatsu: Discarding preference, receiving, refusals or ordinary rest would overidentify Chinatsu with duty and erase the private contrast that the accepted checkpoint actually supplies.; Procedure and recipient concern can support a qualified role comparison while coercion, command channels, actual medical outcomes and chronology remain unresolved.
+
+- Makoto: Omitting shopping, comfort, appreciation, failed plans and explicit refusals would flatten ambition into a single political motive and remove contrary agency.; Private accommodation disproves neither institutional misconduct nor every possible capacity for care. Claimed forecasts and recognition do not complete a debut, reform, alliance or public legitimacy.
+
+- Iroha: Omitting reading, chosen company, quiet time or refusal would bias the account toward a reluctant subordinate and hide the decisions that remain local.; Private rest and preferences qualify a work-only interpretation without proving discretionary authority, knowledge accuracy or a private/main causal sequence.
+
+- Ibuki: Removing play, ordinary help, effort, future wishes or actor uncertainty would replace the child’s particular acts with a convenient group symbol.; Private pleasure and effort can counter a purely passive institutional representation without proving safety in every later scene, consent to group acts or private/main chronology.
+
+- Satsuki: Omitting mundane company or accomplished comfort would erase positive care; omitting refusals and continued opportunism would turn that care into unsupported reform.; Specific comfort and cooperation qualify, but do not grant general authority, cure, efficacy or legal force to protection and contract language.
+
+- Chiaki: Removing a welcome, fatigue, failed preservation, consolation or quiet discovery would conceal the motives and counterpressure that make work intelligible.; Work and readership qualify a professional caricature without proving editorial independence, official funding, publicity reach, finished duty or a private/main causal bridge.
+
+- Fuuka: Omitting quiet food, fatigue, refusal or unsuccessful care would overidentify Fuuka with useful labor and conceal her recipient-specific choices.; G06 workload/resource and recipient-control contrasts can be compared with the private baseline without proving shared relief, all safe meals, actual release or private/main chronology.
+
+- Juri: Omitting warmth, actual café attention, ordinary offers or failed attempts would erase care and effort; omitting adverse outcomes would wrongly certify it.; G06 School Lunch contextual work and warnings remain distinct from private care and attempted cooking. No chronology, collective relief or causal transfer follows from thematic similarity.
+
+- Haruna: Excluding ordinary preference, chosen company, privacy or refusal would turn food into a technical appetite and erase the relation-dependent evidence.; Private food pleasure and reciprocal care can qualify a solely destructive institutional picture without legitimizing captive treatment or demonstrating lasting discipline and repair.
+
+- Akari: Omitting play, preference, local help or contrary recipient evidence would reduce Akari to appetite or useful group participation.; G01 and G09 are analytical contexts rather than Akari speech. Ordinary food/company evidence qualifies a collective label without establishing main chronology, shared relief or institutional legitimacy.
+
+- Junko: Removing quiet food and practical care would subordinate Junko’s character to an identity inquiry; removing failure or report alternatives would inflate completion.; G01 collective procedure can be contrasted with ordinary preference without turning thematic overlap into shared capture, reunion, outcome or ethical reform.
+
+- Izumi: Omitting inclusion, preference, ordinary company or an unfinished endpoint would distort the person toward food utility and collapse evidence degrees.; G01/G09 comparison provides source-class contrast rather than a direct private/main sequence or collective cure. Printed biography or participant claims remain attributed.
+
+- Kasumi: Omitting reading, quiet company, refusal or unfulfilled compensation would make development rationale exhaustive and remove local agency.; G26 rest rhetoric, gift inducement and warning reception can be compared with private chosen work and company without proving permanent reform, safety or private/main chronology.
+
+- Meg: Removing quiet learning, ordinary reciprocal care, failed purchase or reported rather than witnessed acts would bias confidence and success in opposite directions.; G26 wanted work, bath pleasure and peer-reported title/handover can qualify a crisis-only picture without inventing disappointment, coercion, permanent resources or lasting cure.
+
+- Sena: Omitting company, practical care, laundry, refusal or branch-specific non-uptake would turn Sena into an institutional service and exaggerate medical completion.; The private baseline qualifies a purely macabre or emergency-role account without independently proving clinical validity, disposition, shared relief or a main chronology bridge.
+
+- Erika: Omitting quiet study, ordinary care, boundary setting or endpoint precision would replace the person with an incidental group function.; The accepted family and comparator add an ordinary contrast without authorizing an unprinted institutional outcome or conflating the separate mini raw/typed actor seam.
+
+- Kirara: Omitting failure, resumed effort, modest preference or uncertain memory would distort both agency and limits of the recovered notebook.; Private sociality and learning qualify incidental main/mini representation without proving a recognized club, governing authority, private/main chronology or general consent.
+
+- D02: Technical installation, collaborators and exposure remain unverified; retain actual confession and dissent.
+
+- D02: Local recovery, confinement inference and warnings do not settle permanent clearance, custody, hearing or sanction.
+
+- D02: Actor/address seams, designed choices and inward representations do not supply runtime or AV credit.
+
+- D02: Log identity/date/fidelity and Arashi/Bodensatz relationship remain unresolved; preserve testimony and recognition.
+
+- D02: Ordinary care does not settle recantation, rehabilitation, release or lasting repair; preserve it as positive characterization.
+
+
+## Additional external conditional event functions: CF08 and CF10
+
+The earlier pending-event wording is historical candidate scope. This successor incorporates only the accepted precise CF08 and CF10 functions; other event payloads are not inferred. All original history, source-specific 397 UNADMITTED/two existing ADMITTED Junko statuses and authority codes remain unchanged.
+
+- CF10: Retain the precise institutional-correction/unmet-rest relation. An accepted packet or reported workload improvement does not by itself account for Iori’s ordinary holiday desire; this is an analytical omission function, not absent primary evidence.
+
+- CF08: Preserve the named giver/recipient, craft account, locale quantity and fulfilled coffee/listening endpoint. Deleting this ordinary exchange would erase consequential characterization; private reader provenance is not globally absent source evidence.
