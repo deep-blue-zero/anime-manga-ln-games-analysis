@@ -187,4 +187,3 @@ Executive reports weakening and difficulty standing; preserve complaint identity
 2. Diet drug’s actual effect is bounded by user reports and the scene; no broad pharmacological claim.
 3. Ordinary apology, habitual meal choice and renewed invitation remain meaningful even amid harm.
 4. Preserve raw and typed representations; analytical attribution qualification does not rewrite upstream records.
-

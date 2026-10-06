@@ -59,4 +59,3 @@ Every dialogue unit has one nonempty text-bearing numbered command, and no actor
 ## Proposed cumulative deltas
 
 Character: Tsubaki's revised rest expectation, Kaede's continuing energy, Mimori's encouragement; no direct Izuna sample from the ruby title. Relationship: three-person shared protective work and separate collective opposition. Institution: narrator-supported stopped plan with residual finale protection. Sensei: no choice/inward/direct turn. Voice: ruby and differentiated short registers. Motif: visible victory leaves ordinary work. Claim: STRENGTHEN bounded plot outcome; REVISE complete closure; OPEN pursuit completion/accountability. SUPPORTING continuity function with HIGH omission-risk priority; mandatory object retained. G06 narrows, G07/G09/G10/G13 remain.
-

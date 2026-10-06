@@ -74,4 +74,3 @@ A read-only comparison found 2 differing first-selected versus text-bearing acto
 - **Motif/theme/callback:** Track recovery without restitution, respectability masking incentive fraud and labor cost.
 - **Sensei role/ethics:** Preserve four choice groups plus Aru's reported command credit; do not assign the exposure only to Sensei.
 - **Claim revision:** Strengthen the specific false-reward claim with admission while narrowing financial/legal proof and any completed-restoration claim.
-

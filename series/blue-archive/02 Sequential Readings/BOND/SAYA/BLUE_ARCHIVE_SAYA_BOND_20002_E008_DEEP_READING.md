@@ -110,4 +110,3 @@ Actorless #st serial text is typed narration; first-person proximity and cheese-
 3. No complete drug-induced amnesia diagnosis from her dream account and injury question.
 4. No audio listened to; raw VoiceId0 and #st timing control written presentation only.
 5. References to prior gold/fur effects establish local recurrence, not a universal timeline.
-

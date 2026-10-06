@@ -55,4 +55,3 @@ Every dialogue unit has one nonempty text-bearing numbered command, and no actor
 ## Proposed cumulative deltas
 
 Character: ADD differentiated disappointed Gourmet/Meg desires and Hina's summons. Relationship: preserve Junko's critique of Akari's enjoyment and Ako's chastened answer. Institution: suppression reported versus still-future arrests; mandatory review, u:0011–0023. Sensei: no direct/choice turn. Voice: local B roles, ★/playful retreat, silence and professional warning. Motif: victory neither supplies every desired outcome nor finishes accountability. Claim revision: NARROW all captured, corn transformed, project completed and review already successful.
-

@@ -88,4 +88,3 @@ CostumeUniqueId1900901401 and OriginalCharacterId20006 match positively througho
 4. JP almost-everything assertion is not KR universal assertion.
 5. 805 shop Day6/11/13;10805 Day3/5/6; both Close0;900805 has lobby7 only. Do not unify day values or infer missing permanent shop prose.
 6. No event story admission or chronological relationship to bond stories is established by these resources.
-

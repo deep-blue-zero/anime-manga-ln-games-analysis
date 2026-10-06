@@ -77,4 +77,3 @@ A read-only comparison found 9 differing first-selected versus text-bearing acto
 ## Proposed cumulative deltas
 
 Character: ADD Ako's admitted envy/chosen support, Iori's rights/risk objections, Chinatsu's proposed reporting, Hina's tactical intervention; differentiated Gourmet and Meg aims. Relationship: preserve refused support, forgotten meeting and delayed review. Institution: alliance reports and uncontrolled coastal operation; no legal/geological audit. Sensei: three groups plus forgotten promise/inward discovery. Voice: R012–R020, three narrative team channels and local A/B reports. Motif: protection objective crowds out the person's requested activity. Claim revision: NARROW Ako self-objection, Iori/Chinatsu self-rejection, proved volcano, completed swim, all-knowing chair and independently validated tactics.
-

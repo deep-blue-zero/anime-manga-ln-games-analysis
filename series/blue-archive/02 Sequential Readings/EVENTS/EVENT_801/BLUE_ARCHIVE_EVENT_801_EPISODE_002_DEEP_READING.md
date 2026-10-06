@@ -67,4 +67,3 @@ A read-only comparison found 1 differing first-selected versus text-bearing acto
 ## Proposed cumulative deltas
 
 Character: Shizuko's chosen charming welcome, candid ambition, hospitality pleasure and anger; Fina's honor/service script. Relationship: requested grand greeting meets correction; local customers value food and smile. Institution: committee/café planning and tourism roles remain self-description. Sensei: seven choices and one inward quip with a responding denial. Voice: full name, cute service, blunt irritation, 任侠 and English/katakana mixing. Motif: ordinary entertainment is a positive social object. Claim: REVISE hospitality-as-only-deceit or pure solitary production; OPEN sponsorship, attack outcome and charter. CONTEXTUAL_REPERTOIRE_ONLY; G01/G06 gain, chronology/performance/legal limits remain.
-

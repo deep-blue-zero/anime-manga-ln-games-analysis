@@ -74,4 +74,3 @@ A read-only comparison found 6 differing first-selected versus text-bearing acto
 - **Motif/theme/callback:** Add New Year reset, rental/display and money as social language; this is source-local repertoire, not an established main callback.
 - **Sensei role/ethics:** No direct Sensei scene here; retain that absence rather than attributing the outing to adult initiation.
 - **Claim revision:** Narrow Kayoko-as-only-tactical-containment using raw u:0066; leave wish efficacy, finances, performed voice and main chronology open.
-

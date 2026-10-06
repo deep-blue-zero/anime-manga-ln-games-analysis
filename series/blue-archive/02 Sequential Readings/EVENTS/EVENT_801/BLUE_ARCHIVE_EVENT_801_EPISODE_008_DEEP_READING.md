@@ -69,4 +69,3 @@ A read-only comparison found 1 differing first-selected versus text-bearing acto
 ## Proposed cumulative deltas
 
 Character: Izuna's food love, companionship, stubborn code and conflicting wish; Fina's duty tradeoff; Shizuko's cold-drink recovery; differentiated peer concern. Relationship: offered food, respected refusal and continued opposition; delegated protection has limits. Institution: seller defense and ongoing staff work; abduction encounter shown without its later explanation. Sensei: twelve alternatives, one inward unit, pursuit permission and refusal respect. Voice: relocated u0094 and raw troupe actor; affection/destiny registers. Motif: pleasure persists before allegiance changes. Claim: STRENGTHEN local enjoyment/choice; OPEN message, employer and guard outcome. Repertoire plus candidate rule; G01/G06 gain, chronology/safety remain.
-

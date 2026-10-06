@@ -67,4 +67,3 @@ Every dialogue unit has one nonempty text-bearing numbered command, and no actor
 - **Motif/theme/callback:** Track publicity reversal and interdependence against grandiose self-credit.
 - **Sensei role/ethics:** Preserve one choice group in the forward movement; adult participation is one part of a distributed response.
 - **Claim revision:** Narrow all-captured, all-Aru and institutional-omniscience claims; wage/cash/tactic outcomes remain future evidence.
-

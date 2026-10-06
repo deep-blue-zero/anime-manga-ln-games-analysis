@@ -67,4 +67,3 @@ A read-only comparison found 1 differing first-selected versus text-bearing acto
 ## Proposed cumulative deltas
 
 Character: ADD Shun's rum-raisin reward, beauty/rest wish, uneven duty/play and chosen deception; Kokona's diet interpretation, apology and carrot dislike; Saya's experimental pride/uncertainty. Relationship: differentiated sister duties, Sensei schedule unease and adopted シュエリン role. Institution: trial/antidote promises and shifted snack labour, not medical assurance. Sensei: five groups plus inward greeting and mistaken role. Voice: R001, untranslated actor, parenthetical reasoning, 多分 and surname-free aliases. Motif: a desired reprieve becomes an age/body role with continuing knowledge. Claim revision: NARROW intentional ice-cream theft, exact age, scientific rejuvenation proof, informed safety and new human/variant identity.
-

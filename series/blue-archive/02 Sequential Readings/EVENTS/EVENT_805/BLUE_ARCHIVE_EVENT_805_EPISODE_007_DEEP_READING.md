@@ -67,4 +67,3 @@ A read-only comparison found 1 differing first-selected versus text-bearing acto
 ## Proposed cumulative deltas
 
 Character: ADD Shun's refusal, remembered safety teaching/skill and trust rupture; Saya's escalating/genius/research excuses; Kirino's actual intervention. Relationship: supportive intention versus violated boundary, u:0071–0085. Institution: enacted detention/lecture only, not adjudicated conviction or clinical safety. Sensei: nineteen groups and inward greeting, actual restraint and regret-limited excuses. Voice: R005, unnamed entrance channel, repeated refusal, 多分 and research slip. Motif: help without listening fails and produces its own harm. Claim revision: NARROW irresistible child appetite, harmless candy/trap, necessary force, willing cure and no teacher knowledge retained.
-

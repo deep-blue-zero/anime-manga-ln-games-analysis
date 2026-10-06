@@ -75,4 +75,3 @@ A read-only comparison found 3 differing first-selected versus text-bearing acto
 - **Motif/theme/callback:** Add toy ritual as accessible shared meaning, food/hunger and a new-year wish with no magical or financial cure.
 - **Sensei role/ethics:** Preserve all seven displayed choice responses, invitation conditions and unshared firm prayer; no inspected meal or universal consent.
 - **Claim revision:** Narrow renewed ritual to symbolic/relational value; cash, wage repair, exact wishes, null title and chronology remain open.
-

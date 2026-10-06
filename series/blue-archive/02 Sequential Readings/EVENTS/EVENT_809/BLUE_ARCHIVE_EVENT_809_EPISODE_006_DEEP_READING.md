@@ -71,4 +71,3 @@ A read-only comparison found 3 differing first-selected versus text-bearing acto
 - **Motif/theme/callback:** Retain first-year aspiration, new-firearm interest and interruption as affirmative repertoire alongside wrongdoing.
 - **Sensei role/ethics:** No direct Sensei line or choices in the object; no invented tactical mediation.
 - **Claim revision:** Narrow parser-only roster completeness and any claimed battle performance; information source remains unanswered here.
-

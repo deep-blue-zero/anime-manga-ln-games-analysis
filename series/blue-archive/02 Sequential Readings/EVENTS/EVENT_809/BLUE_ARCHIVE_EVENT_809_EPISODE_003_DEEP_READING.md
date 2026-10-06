@@ -77,4 +77,3 @@ A read-only comparison found 5 differing first-selected versus text-bearing acto
 - **Motif/theme/callback:** Track dreams/offerings versus performance pay and mixed motive; no pure-altruism or curse proof.
 - **Sensei role/ethics:** Preserve four choice groups, including competing recognition histories and conditional adult participation; do not make both histories fact.
 - **Claim revision:** Narrow single-motive, automatic-subordination and repeated-witness counts; preserve actual theft versus unproven recovery.
-

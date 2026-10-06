@@ -67,4 +67,3 @@ A read-only comparison found 1 differing first-selected versus text-bearing acto
 - **Motif/theme/callback:** Track a good-year aspiration after defeat and the first information-route anomaly.
 - **Sensei role/ethics:** No adult line or choices; absence is not filled from prior participation.
 - **Claim revision:** Open the transmission question at u:0004–0005; forbid backdated knowledge of the later broadcast explanation.
-

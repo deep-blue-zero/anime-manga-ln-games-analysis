@@ -65,4 +65,3 @@ A read-only comparison found 3 differing first-selected versus text-bearing acto
 ## Proposed cumulative deltas
 
 Character: ADD Shun's tea/confection taste and deliberate attention monopoly, Kirino's duty/recognition aim, corrected response and restraint; local actors' menu wants/work. Relationship: generous help misused then real appeal answered. Institution: secondhand faction/weapon reports, claimed offence and actual service disturbance stay distinct. Sensei: ten groups and confidentiality/recklessness alternatives. Voice: R002–R004; 本官, claimed-age performance and local A/B/clerk channels. Motif: false alarms can undermine a true request without extinguishing care. Claim revision: NARROW self-misleading Kirino, certified legal/medical/geopolitical claims and all-poor police judgment.
-

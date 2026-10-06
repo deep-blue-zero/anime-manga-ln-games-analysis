@@ -65,4 +65,3 @@ A read-only comparison found 1 differing first-selected versus text-bearing acto
 ## Proposed cumulative deltas
 
 Character: chairman's defeated control expectation; Shizuko's anger/service self-description; Tsubaki's sleep need; troupe desire for ordinary pleasure reported. Relationship: raw Shizuko surrender request, rejected erasure of debt and remaining members' flight. Institution: claimed use of funds available to him as chairman and paid force fail to secure attendance. Sensei: no new choice, one inward tentative victory. Voice: raw Shizuko at u0012, alias return and explicit genre anger. Motif: enjoyment has agency and material consequences. Claim: REVISE money-as-guaranteed-control and completed accountability; STRENGTHEN local defeat, OPEN punch/contact and resources. Event-local RESOURCE_CHANGE and repertoire; no generalized moral conversion.
-

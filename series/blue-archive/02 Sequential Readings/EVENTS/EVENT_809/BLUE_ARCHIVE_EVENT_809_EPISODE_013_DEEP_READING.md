@@ -71,4 +71,3 @@ A read-only comparison found 1 differing first-selected versus text-bearing acto
 - **Motif/theme/callback:** Track mutual aid with impure expectations, mask repertoire and resentment-driven publicity.
 - **Sensei role/ethics:** Preserve four choice groups and adult inward guess; the students' separate choices remain the rescue's observed origin.
 - **Claim revision:** Narrow pure-rescuer motives, adult-only rescue and blanket approval; no secure Meg appearance or global generic-NPC merge.
-

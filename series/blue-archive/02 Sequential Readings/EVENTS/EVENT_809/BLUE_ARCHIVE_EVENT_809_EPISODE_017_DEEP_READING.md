@@ -70,4 +70,3 @@ A read-only comparison found 2 differing first-selected versus text-bearing acto
 - **Motif/theme/callback:** Track competing sincere wishes and the asymmetry of paying with others' offerings.
 - **Sensei role/ethics:** Preserve all three groups, especially incompatible recognition/history branches; no merged adult past.
 - **Claim revision:** Strengthen only reported use of funds; narrow exact chronology, actual robot capability, rightful entitlement and restitution.
-

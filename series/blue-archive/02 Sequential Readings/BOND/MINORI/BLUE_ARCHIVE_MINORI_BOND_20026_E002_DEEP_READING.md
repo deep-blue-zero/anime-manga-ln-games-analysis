@@ -86,4 +86,3 @@ These are argument anchors within a complete reading, not an excerpt-only owners
 | `BA:bond:20026:002:scene:001:u:0102` | しかし……どうして我々工務部は、これだけ優秀な部員がいて納期に遅れるのだろうか。不思議なものだ。 | Renewed puzzle; `ScenarioScriptExcelTable1.json:DataList[184814]` |
 | `BA:bond:20026:002:scene:001:u:0103` | （その疑問に対する答えは明らかだったが、余計な言葉は慎むことにした……） | Narratorial irony; `ScenarioScriptExcelTable1.json:DataList[184819]` |
 | `BA:bond:20026:002:scene:001:u:0104` | （……その後、ミノリ行きつけのカツ丼屋で、工務部のみんなと熱々のカツ丼を食べてから、シャーレに戻った） | Actual hot meal and return; `ScenarioScriptExcelTable1.json:DataList[184821]` |
-

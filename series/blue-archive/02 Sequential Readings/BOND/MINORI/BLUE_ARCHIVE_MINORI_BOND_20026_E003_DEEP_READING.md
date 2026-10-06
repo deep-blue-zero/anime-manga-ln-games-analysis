@@ -84,4 +84,3 @@ These are argument anchors within a complete reading, not an excerpt-only owners
 | `BA:bond:20026:003:scene:001:u:0034` | 児童向けの文学だから、演出の都合で仕方なかったのだろう。 | Attributed children’s-literature presentation constraint; `ScenarioScriptExcelTable1.json:DataList[184886]` |
 | `BA:bond:20026:003:scene:001:u:0037` | この話から学べる教訓は、労働者たるもの常に油断してはならないという―― | Attributed divided-workers interpretation; `ScenarioScriptExcelTable1.json:DataList[184890]` |
 | `BA:bond:20026:003:scene:001:u:0038` | （その後も、ミノリから少し変わった童話の感想を聞き続けた) | Actual continued listening; `ScenarioScriptExcelTable1.json:DataList[184892]` |
-

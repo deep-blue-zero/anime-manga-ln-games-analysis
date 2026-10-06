@@ -69,4 +69,3 @@ A read-only comparison found 11 differing first-selected versus text-bearing act
 ## Proposed cumulative deltas
 
 Character: Kaede's entrance craft and ladyhood ideal, Tsubaki's sleep wish, Mimori's hesitation/support, Izuna's recognition/conflict. Relationship: playful staging, peer correction and differing goals; hostile dream mockery remains attributed. Institution: Training Club public-safety rationale and local intervention. Sensei: two choices, command efficacy reported, adult position alarmed. Voice: entrance modes and source seams resolved by declared text actors. Motif: self-chosen ideal differs from uniform assigned club function. Claim: REVISE common Training Club goal or sleepy-as-fearless-certainty; OPEN technique/outcome. Repertoire and candidate differences; G01/G06 gain, performance/chronology/safety stay open.
-

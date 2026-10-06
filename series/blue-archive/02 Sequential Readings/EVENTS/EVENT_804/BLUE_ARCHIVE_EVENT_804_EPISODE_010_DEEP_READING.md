@@ -53,4 +53,3 @@ Every dialogue unit has one nonempty text-bearing numbered command, and no actor
 ## Proposed cumulative deltas
 
 Character: ADD Hina's terse launch and local opponents' competing confidence/fear. Relationship: no new named dyad or stable generic biography. Institution: preserve numerical claim as actor judgment, not combat theorem. Sensei: no direct/choice turn. Voice: both A role channels and professional brevity; no discovered token seam. Motif: reputation defeats a shared assumption of absence before the battle result. Claim revision: NARROW completed fight, uniform enemy view and absolute invincibility.
-

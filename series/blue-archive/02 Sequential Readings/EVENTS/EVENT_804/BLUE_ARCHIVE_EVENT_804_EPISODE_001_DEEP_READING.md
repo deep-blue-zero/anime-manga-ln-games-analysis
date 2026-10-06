@@ -69,4 +69,3 @@ A read-only comparison found 6 differing first-selected versus text-bearing acto
 ## Proposed cumulative deltas
 
 Character: ADD Ako's detailed coffee care, escalation and planning; Hina's taste and reasoned delegation; Iori/Chinatsu's different doubts. Relationship: ADD appreciation and entrusted administration, u:0043/u:0153–0164. Institution: retain claimed advisory authority and predicted collapse, not universal law/outcome. Sensei: all five branches plus intrusive swimsuit turn and inward seams. Voice: preserve R001–R006, ホカンス/幽閉, italic flashback interruptions and video. Motif: CREATE misreading a pleasant ordinary change as crisis; rest versus compulsory idleness. Claim revision: NARROW stress diagnosis, pure care, invariant institutional dependence and forced-only Hina compliance.
-

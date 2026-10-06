@@ -55,4 +55,3 @@ Every dialogue unit has one nonempty text-bearing numbered command, and no actor
 ## Proposed cumulative deltas
 
 Character: ADD Shun's nuanced tall/small comparison, skilful guidance and continued indulgence wish; local children's envy and apologies. Relationship: response to appearance harm and actual lingering companionship. Institution: return to teaching without workload-reform proof. Sensei: two groups and inward similarity speculation, not causal diagnosis. Voice: “個性,” “なんて,” invitation, unresolved secret and exact closing. Motif: adult/child aspirations cross; restored responsibility retains wanting care. Claim revision: NARROW total self-denial, repeated dose, universal growth verdict, completed long-term repair and official metadata title replacement.
-

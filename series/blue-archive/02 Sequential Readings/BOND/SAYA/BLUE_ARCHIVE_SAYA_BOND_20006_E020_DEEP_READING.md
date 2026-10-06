@@ -168,4 +168,3 @@ Wishing visitors a pleasant scent, anticipation of acknowledgement, practical tr
 ## Attribution witnesses
 
 Empty list.
-

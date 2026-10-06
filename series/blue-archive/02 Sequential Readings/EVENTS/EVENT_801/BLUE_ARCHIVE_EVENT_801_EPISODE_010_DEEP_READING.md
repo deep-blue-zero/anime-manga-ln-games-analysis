@@ -69,4 +69,3 @@ A read-only comparison found 3 differing first-selected versus text-bearing acto
 ## Proposed cumulative deltas
 
 Character: Izuna's persistent yet insufficient defense, Shizuko's practical inquiry, Fina's role/media enthusiasm, differentiated Training Club resolve. Relationship: committee/peers arrive to aid adult and student; chairman's conditional return offer is rejected. Institution: reported earlier message and ordinary eyewitness route; mass recruitment remains claimed. Sensei: two choices, one inward reaction, earlier quoted request but no separate MomoTalk admission. Voice: raw Fina/chairman/troupe actor distinctions. Motif: conviction and investigation need cooperative support. Claim: REVISE phone seizure as complete isolation and solitary salvation; OPEN battle outcome, actor counts and complete plan. Local resource/relationship effects plus repertoire.
-

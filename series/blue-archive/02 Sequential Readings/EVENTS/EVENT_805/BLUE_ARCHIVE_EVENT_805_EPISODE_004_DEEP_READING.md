@@ -61,4 +61,3 @@ Every dialogue unit has one nonempty text-bearing numbered command, and no actor
 ## Proposed cumulative deltas
 
 Character: ADD Shun's park/swing wish, loneliness/free-speech relief and admitted excess; Kokona's dignity/taste/height vulnerability. Relationship: sister familiarity, disputed duties and privacy breached; apology promised, not completed here. Institution: reported Kisaki/exercise has no direct admission. Sensei: eight groups, role doubt and teasing boundary. Voice: unresolved role, adult-memory slips, parenthetical knowledge and “レディー” dispute. Motif: freedom offers play and also permission to wound. Claim revision: NARROW harmless revenge, actual swing ride, assured growth/exercise and complete reconciliation.
-

@@ -71,4 +71,3 @@ A read-only comparison found 8 differing first-selected versus text-bearing acto
 ## Proposed cumulative deltas
 
 Character: Izuna's obedience/retreat rule; Shizuko's revised view of peers and coercive proposal; Kaede's admiration, Mimori's caution, Tsubaki's purpose/sleepy reply. Relationship: injury check, corrected assumptions and differentiated responses to pressure. Institution: patrol purpose and employer rumor versus prospective interrogation. Sensei: eight choices and one inward connection; reproduced Izuna is recall. Voice: raw rotated actors and blunt/cute switching. Motif: enjoyment makes a shared protective object without settling methods. Claim: REVISE uniform motives and known employer motive; OPEN lawful custody and future conduct. Repertoire plus candidate rule; G01/G06 gain, G07/G09/G12/G13 remain.
-

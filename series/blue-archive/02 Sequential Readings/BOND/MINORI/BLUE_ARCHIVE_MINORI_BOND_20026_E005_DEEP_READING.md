@@ -88,4 +88,3 @@ These are argument anchors within a complete reading, not an excerpt-only owners
 | `BA:bond:20026:005:scene:001:u:0049` | [wa:1200]― [log=미노리]あたしは、[wa:1500]先生と共有したかった。[/log] | Desire to share with teacher; `ScenarioScriptExcelTable1.json:DataList[185000]` |
 | `BA:bond:20026:005:scene:001:u:0052` | ……いや、前に聞いたことがあるな。#n人は高層ビルよりも、高さを実感しやすい11m程度のほうが、恐怖を感じると。 | Reported height threshold; `ScenarioScriptExcelTable1.json:DataList[185008]` |
 | `BA:bond:20026:005:scene:001:u:0056` | （その後、さらに上の足場へ連れて行こうとするミノリを阻止するのに苦労した) | Actual prevented further climb; `ScenarioScriptExcelTable1.json:DataList[185013]` |
-

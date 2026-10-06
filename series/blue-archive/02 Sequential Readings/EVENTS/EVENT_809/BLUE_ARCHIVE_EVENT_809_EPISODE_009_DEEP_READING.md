@@ -74,4 +74,3 @@ A read-only comparison found 2 differing first-selected versus text-bearing acto
 - **Motif/theme/callback:** Track work/rest asymmetry, money camouflage and unverified hero interpretation rather than resolved moral categories.
 - **Sensei role/ethics:** Record narrated briefing, praise alternatives and warning about good nature; do not ratify Ako's hedged righteous-bandit suggestion.
 - **Claim revision:** Narrow curse disproof and verified-law claims; exact actor ownership and disclosure timing are maintained.
-

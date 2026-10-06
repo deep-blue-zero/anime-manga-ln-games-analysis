@@ -86,4 +86,3 @@ These are argument anchors within a complete reading, not an excerpt-only owners
 | `BA:bond:20026:006:scene:001:u:0030` | それこそ可能なら、毎日現場に先生を連れていきた―― | Conditional, interrupted wish to bring Sensei to the worksite daily; `ScenarioScriptExcelTable1.json:DataList[185062]` |
 | `BA:bond:20026:006:scene:001:u:0036` | そこに座って、よく聞いていてくれ！#nなにか誤りがあれば、厳しく指摘を頼むぞ！！ | Requested correction; `ScenarioScriptExcelTable1.json:DataList[185075]` |
 | `BA:bond:20026:006:scene:001:u:0038` | （その後、ミノリの反省という名の自己批判を聞き留めた） | Actual listening; broader reform absent; `ScenarioScriptExcelTable1.json:DataList[185079]` |
-

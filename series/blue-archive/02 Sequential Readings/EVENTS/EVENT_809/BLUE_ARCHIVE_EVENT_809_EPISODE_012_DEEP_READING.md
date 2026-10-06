@@ -73,4 +73,3 @@ A read-only comparison found 4 differing first-selected versus text-bearing acto
 - **Motif/theme/callback:** Track outnumbering, public distraction and future fraud versus familiar junior care.
 - **Sensei role/ethics:** Retain two formal single-option groups, the separate numbered inward wordings at raw u:0036 and raw Serika u:0035; no multiple performed assurances or conflation with the Hoshino greeting.
 - **Claim revision:** Exclude direct Meg/Hot Springs coverage here; retain gang-role ownership, report/plan distinctions and unverified cash/wage recovery.
-

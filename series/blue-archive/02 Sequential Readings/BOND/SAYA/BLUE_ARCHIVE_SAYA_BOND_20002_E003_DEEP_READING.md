@@ -94,4 +94,3 @@ Ingredient recollection, admitted mistake, proposed razor and fear are distinct.
 2. Apparent fear is narrative phrasing, not direct access to Nezusuke’s mind.
 3. An apology and noodle promise do not prove lasting reform.
 4. Safety assurance appears in parallel branch rows; retain conditional routing from prior complete source review.
-

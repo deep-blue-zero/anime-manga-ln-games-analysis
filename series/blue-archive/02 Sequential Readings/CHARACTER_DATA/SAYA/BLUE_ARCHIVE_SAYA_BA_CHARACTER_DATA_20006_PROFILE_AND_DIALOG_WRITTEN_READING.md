@@ -117,4 +117,3 @@ Eight timed Special rows in five groups: strong smell, difficult eating, intende
 3. Food sharing and holiday wishes are offers/statements; completed joint activities are not shown.
 4. No successful Special meal, safe ingredients or ingestion verified.
 5. Self-confidence and ordinary fashion/rest remain analytically eligible without a dramatic consequence.
-

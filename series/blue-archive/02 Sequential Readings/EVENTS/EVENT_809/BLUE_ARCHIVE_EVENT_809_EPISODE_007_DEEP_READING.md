@@ -72,4 +72,3 @@ A read-only comparison found 5 differing first-selected versus text-bearing acto
 - **Motif/theme/callback:** Track cash incentive versus returning wishes intact, scoop excitement and remembered curse pressure.
 - **Sensei role/ethics:** Preserve two choice groups and Serika's prior initiative; no adult-only rescue origin or reward guarantee.
 - **Claim revision:** Resolve the source-local information-route question provisionally through the phone/broadcast sequence; leave truth, payment and main chronology unresolved.
-

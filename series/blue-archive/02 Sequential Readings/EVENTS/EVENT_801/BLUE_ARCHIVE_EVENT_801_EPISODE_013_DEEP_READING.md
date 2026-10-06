@@ -63,4 +63,3 @@ Every dialogue unit has one nonempty text-bearing numbered command, and no actor
 ## Proposed cumulative deltas
 
 Character: Izuna's planning, crowd concern, shared-view pleasure, apology, loyalty and independently chosen club approach; committee's final work persists. Relationship: calming and accepting trouble, aesthetic companionship and prospective continued contact; romance unproved. Institution: prepared collaboration succeeds as viewed spectacle; club sign/entrance, enrollment absent. Sensei: five choices and one inward-form movement unit. Voice: 主殿 correction, courteous entry, recruitment boundary and system footer retained. Motif: dreams need ordinary shared time and prospective peers. Claim: STRENGTHEN viewed finale/desired continuation; OPEN contract, membership, autonomy scope and global chronology. Event-local relationship change plus repertoire; G01/G06 gain, G07/G08/G10/G12/G13 persist.
-

@@ -92,4 +92,3 @@ Success label, alchemy rationale and one-day reversion are attributed claims; pe
 2. One-day reversal not observed in these selected afterword witnesses.
 3. Formal branch alternatives in the prior completed source must remain alternatives; no inference that all Sensei options were uttered.
 4. Sustained research desire and desire for praise are stated motives, not an exhaustive diagnosis.
-

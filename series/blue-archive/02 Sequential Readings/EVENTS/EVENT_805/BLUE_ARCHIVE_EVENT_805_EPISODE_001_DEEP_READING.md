@@ -59,4 +59,3 @@ Every dialogue unit has one nonempty text-bearing numbered command, and no actor
 ## Proposed cumulative deltas
 
 Character: ADD Shun's guidance/apology and fatigue-relevant competing demands; Nekota's craft/future value and local children’s differentiated curiosity/needs. Relationship: preserve host/instructor/children support and damage, u:0007/u:0014–0028. Institution: local educational visit and unclosed workshop loss. Sensei: no printed turn. Voice: artisan 儂, individual A–I/collective forms and video control. Motif: joy/learning can have worth without practical payoff, alongside real burden. Claim revision: NARROW harmless play, verified best artisan, completed restitution and globally merged child/artisan identities.
-

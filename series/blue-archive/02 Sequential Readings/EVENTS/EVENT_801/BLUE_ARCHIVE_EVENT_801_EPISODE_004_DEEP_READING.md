@@ -67,4 +67,3 @@ A read-only comparison found 1 differing first-selected versus text-bearing acto
 ## Proposed cumulative deltas
 
 Character: Shizuko's impatience, instrumental adult expectation, choice to approach peers; Chise's verse, associative reply and conveyed referral; Fina's needy-person principle. Relationship: tests and corrections, requested later contact, mediated club coordination. Institution: Onmyou/Hyakka roles and absence are reports; written-procedure complaint unverified. Sensei: nine choices including explanation and permission for candor. Voice: divided poetry and cute/blunt switches with raw Shizuko receipt. Motif: different kinds of help need coordination. Claim: DOWNGRADE omniscience, rumored abilities and guaranteed Schale authority; OPEN formal powers and absence. Repertoire plus local inquiry route; G01/G06 gain, G07/G09/G10/G13 remain.
-

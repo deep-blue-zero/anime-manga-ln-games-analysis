@@ -63,4 +63,3 @@ Every dialogue unit has one nonempty text-bearing numbered command, and no actor
 - **Motif/theme/callback:** Track ordinary rest/material wishes after public exposure; closure does not equal repair.
 - **Sensei role/ethics:** Retain one apology/encouragement group with no proof of paid wages or relieved customer burden.
 - **Claim revision:** Narrow permanent institutional eradication and completed justice claims; retain continuing bodily/material/work costs.
-

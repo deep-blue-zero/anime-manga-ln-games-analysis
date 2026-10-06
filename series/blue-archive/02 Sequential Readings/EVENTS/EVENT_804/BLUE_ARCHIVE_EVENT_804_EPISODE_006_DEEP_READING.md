@@ -59,4 +59,3 @@ A read-only comparison found 1 differing first-selected versus text-bearing acto
 ## Proposed cumulative deltas
 
 Character: ADD Haruna's situated taste hypothesis/persistence, Junko's labour/sales criterion, Izumi's leftovers enthusiasm and Akari's playful opportunity. Relationship: ADD differentiated club roles and Prefect opposition. Institution: perceived absent chair and local enforcement escalation, u:0021–0029. Sensei: no printed choice/direct contribution in this object. Voice: R010 raw Haruna laugh; italic-to-dialogue transition, ★ and collective acknowledgment. Motif: culinary curiosity coexists with opportunistic disturbance. Claim revision: NARROW uniform eating-only motive, proved experimental result, benign-only visit and amused Iori inference.
-

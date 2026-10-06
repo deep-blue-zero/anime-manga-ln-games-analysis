@@ -174,4 +174,3 @@ The primary attribution witness is retained externally. This public draft preser
 | Typed source path | `DB/ScenarioScriptExcelTable1.json` |
 | Typed source sha256 | `aaa9e2e5d7e2551af2c7db3109b5132507a0df4596470e03e6945168b73e6303` |
 | Primary source path | `DB/ScenarioScriptExcelTable1.json` |
-

@@ -106,4 +106,3 @@ Promise to win contrasts with renewed attraction to appearance/texture and anoth
 2. Game wish, company and hand observation remain eligible despite low stakes.
 3. No romance diagnosis from warmth or touch comparison alone.
 4. Future rematch does not license a later outcome or precise story date.
-

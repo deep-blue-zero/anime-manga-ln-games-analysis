@@ -55,4 +55,3 @@ Every dialogue unit has one nonempty text-bearing numbered command, and no actor
 ## Proposed cumulative deltas
 
 Character: ADD Iori's pursuit/regret, Chinatsu's containment rationale and tired responses, Ako's continued insistence. Relationship: preserve asymmetric rest and bodily cost, u:0014. Institution: temporary retreat rather than capture and actual painful walking session. Sensei: relief versus corn-interest alternatives remain separate. Voice: empty official title and mild reproach/assent. Motif: a holiday's enabling labour can defeat shared enjoyment. Claim revision: NARROW completed happy stroll, restored team, tasted corn and general mercy; protect this short CORE object.
-

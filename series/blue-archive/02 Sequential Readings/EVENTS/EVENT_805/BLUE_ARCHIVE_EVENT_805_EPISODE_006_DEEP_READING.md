@@ -55,4 +55,3 @@ Every dialogue unit has one nonempty text-bearing numbered command, and no actor
 ## Proposed cumulative deltas
 
 Character: ADD Shun's continuing play/tea request and denial; Saya's self-praise, unknown mechanism and urgency. Relationship: Sensei's identity questioning and explicit briefing. Institution: medicine/antidote claims remain fictional actor reports, not audited safety. Sensei: nine groups plus inward inference. Voice: name call, unresolved role token, speculative “かもしれない” and heart. Motif: recognition distinguishes who acts from why they act. Claim revision: NARROW separate Shuerin person, verified amnesia/pharmacological personality causation and proven antidote outcome.
-

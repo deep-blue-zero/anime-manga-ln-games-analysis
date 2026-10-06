@@ -69,4 +69,3 @@ A read-only comparison found 1 differing first-selected versus text-bearing acto
 ## Proposed cumulative deltas
 
 Character: ADD Hina's chosen sensory pleasure, Iori/Chinatsu's risk doubts and Ako's intelligence/pressure. Relationship: ADD invitation versus confinement and peer support cost, u:0068–0088. Institution: preserve reported gangs/month-prior defeat without cross-event identity; containment plan and breached line. Sensei: all17 groups, preference branches, secrecy and practical coordination. Voice: R009, inward distinction, tentative 初めて/かもしれない and incomplete closing. Motif: ordinary sea sensations open chosen rest but work interrupts. Claim revision: NARROW uninterrupted holiday, lifetime first, event chronology, invented confession and uniformly benign support.
-

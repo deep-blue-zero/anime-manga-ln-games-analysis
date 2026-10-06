@@ -67,4 +67,3 @@ A read-only comparison found 1 differing first-selected versus text-bearing acto
 - **Motif/theme/callback:** Track interrupted holiday, object/intent confusion and escalation pleasure as local motifs.
 - **Sensei role/ethics:** Preserve four formal single-option choice groups and an unsuccessful calming attempt; no guaranteed adult pacification.
 - **Claim revision:** Narrow guilt by association and uniform fight enthusiasm; leave clock harmonization, fight outcome and chronology open.
-

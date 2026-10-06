@@ -71,4 +71,3 @@ A read-only comparison found 2 differing first-selected versus text-bearing acto
 - **Motif/theme/callback:** Track interrupted homecoming and container recovery without contents.
 - **Sensei role/ethics:** Retain inward sound recognition and displayed farewell/empty-box replies; no inspected robot or executed battle.
 - **Claim revision:** Narrow recovered-safe to an empty-container result; no returned cash, completed theft by Aru or proven damage mechanism.
-

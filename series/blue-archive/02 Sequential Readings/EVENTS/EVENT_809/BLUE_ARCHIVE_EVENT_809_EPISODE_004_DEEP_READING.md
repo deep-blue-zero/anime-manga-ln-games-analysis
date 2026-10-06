@@ -72,4 +72,3 @@ A read-only comparison found 2 differing first-selected versus text-bearing acto
 - **Motif/theme/callback:** Track publicity/comparison, chase play and frustration release as local motifs; no established main callback.
 - **Sensei role/ethics:** No new adult utterance or choice group; do not fill a tactical-command role from earlier presence.
 - **Claim revision:** Narrow role absorption and hardware claims; fight completion is pending the next object.
-

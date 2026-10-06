@@ -57,4 +57,3 @@ Every dialogue unit has one nonempty text-bearing numbered command, and no actor
 ## Proposed cumulative deltas
 
 Character: ADD Iori's instructional concern and hesitant compliance; Ako's demonstration rationale and haste; junior acknowledgments. Relationship: preserve instructor/deputy asymmetry and removed refusal, u:0017–0020. Institution: acting-chair claim remains scoped, not universal authority. Sensei: no printed turn. Voice: exact title/omnibus context, short commands and irritated assent. Motif: teaching by showing versus compelling a demonstration. Claim revision: NARROW shown mastery/improvement, willing compliance, unlimited deputy mandate and automatic placement after E012.
-

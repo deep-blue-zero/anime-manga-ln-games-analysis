@@ -67,4 +67,3 @@ A read-only comparison found 7 differing first-selected versus text-bearing acto
 ## Proposed cumulative deltas
 
 Character: Izuna's independent surveillance, hurt, interpretation, rescue and new address; chairman's admitted budget/control motive and instrumental mockery. Relationship: conditional employer praise versus non-mocking dream support; explicit chosen lord pledge retains asymmetry. Institution: phone seizure and sabotage admissions; takeover legality/profit unknown. Sensei: thirteen choices and five inward units, personal responsibility and affirmative ninja taste. Voice: alias/self-name and seven raw chairman contrasts; 主殿 transition exact. Motif: recognition of a dream differs from extracting labor. Claim: REVISE tradition as main motive and blame transfer; OPEN absolute allegiance safety, combat result and finances. Local RELATIONSHIP_CHANGE and candidate rule; no dated main upgrade.
-

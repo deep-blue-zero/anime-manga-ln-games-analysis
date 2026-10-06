@@ -162,4 +162,3 @@ What labor rules governed the reported penalty? Did she implement any presidenti
 | BA:bond:10037:005:scene:001:choice:004 | 2 | マリナのこと、あらためて見直したよ。 | 158206 | Responses retain their own SelectionGroup; do not combine alternatives |
 
 Raw scenario controls use `ScenarioScriptExcelTable1.json`, SHA256 `aaa9e2e5d7e2551af2c7db3109b5132507a0df4596470e03e6945168b73e6303`; Momo controls use `AcademyMessangerExcelTable.json`, SHA256 `32caad956e1433030960838a10b28b2a799a5ee06685128ae6da51a54978000a`. All inspected bond raw VoiceId values are0; Momo message timing is a control, not elapsed narrative time or heard performance. The342 alternate scenario records are full-field identical to the342 primary occurrences, and table2 has none; those duplicates create no additional story or actor. Stable source IDs are retained even where current raw row indexes differ.
-

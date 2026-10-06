@@ -90,4 +90,3 @@ These are argument anchors within a complete reading, not an excerpt-only owners
 | `BA:character_data:20026:WeaponGet:5987` | 丈夫で信頼できる装備こそ、<br>現場のベストパートナーだ。<br>そういう意味で……<br>こいつはあたしを<br>失望させたことがない。 | Attributed reliable equipment; `CharacterDialogExcelTable.json:DataList[6026]` |
 | `BA:character_data:20026:UILobbySpecial:5997` | 足場から見下ろすこの景色が、<br>あたしは一番好きだ。 | Favorite view; `CharacterDialogExcelTable.json:DataList[6036]` |
 | `BA:character_data:20026:UILobbySpecial:6001` | あたしは、<br>先生と共有したかった。 | Desired shared view; `CharacterDialogExcelTable.json:DataList[6040]` |
-

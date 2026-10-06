@@ -82,4 +82,3 @@ A read-only comparison found 14 differing first-selected versus text-bearing act
 - **Motif/theme/callback:** Add offerings as unequal social symbols, toy money and wish sincerity; do not infer magic or an explosion caused by the toy.
 - **Sensei role/ethics:** Add invitation and thirteen formal choice groups / fourteen displayed options with inward money action; no explicit adult endorsement of Haruka's exhaustion or proof all branches occurred.
 - **Claim revision:** Narrow shared-knowledge and consent claims; retain null event title, uninspected video/performance, unaudited income and unknown attack cause.
-

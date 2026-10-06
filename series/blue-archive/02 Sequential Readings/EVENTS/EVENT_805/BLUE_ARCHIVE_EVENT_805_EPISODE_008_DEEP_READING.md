@@ -61,4 +61,3 @@ Every dialogue unit has one nonempty text-bearing numbered command, and no actor
 ## Proposed cumulative deltas
 
 Character: ADD Shun's detailed burden, smile-value reflection, chosen return and continuing exact preferences; Saya's noodle/outing wish; Kokona's work distress/forgiveness. Relationship: concrete remorse/apology/forgiveness, meal defence and explicit Shuerin alias, u:0059–0084. Institution: privileges/missed classes reported; workload redesign absent. Sensei:13 groups, first acknowledgment of coercion, listening and inward handover. Voice: unresolved→restored label, useful/irreplaceable smile debate and farewell bridge. Motif: intrinsic pleasure and duty can coexist through chosen action, without cancelling burden. Claim revision: NARROW biological causation, all desire selfishness, only caregiver, completed gifts/cure audit and durable workload repair.
-

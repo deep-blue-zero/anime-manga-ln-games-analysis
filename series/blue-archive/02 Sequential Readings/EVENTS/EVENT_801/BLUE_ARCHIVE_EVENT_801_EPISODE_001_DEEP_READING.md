@@ -61,4 +61,3 @@ Every dialogue unit has one nonempty text-bearing numbered command, and no actor
 ## Proposed cumulative deltas
 
 Character: Shizuko's nervous service pride, Fina's coaching, Izuna's named food/view tastes and unusual aspiration. Relationship: invitation, assistance, volunteered guiding and explicit dream recognition are directed local acts. Institution: committee/café roles and festival innovation are actor reports; Schale reputation is hearsay. Sensei: fifteen alternatives across three scenes, including two jokes and support; three inward units retain their source types. Voice: name-self-reference, hospitality and ninja enthusiasm are written samples. Motif: a loved place sustains a dream. Claim: STRENGTHEN affirmative aspiration/taste; OPEN employer, pursuit purpose, competence and reception history. CONTEXTUAL_REPERTOIRE_ONLY plus local relationship opening; G01/G06 gain, G07/G08/G09/G10/G12/G13 remain.
-

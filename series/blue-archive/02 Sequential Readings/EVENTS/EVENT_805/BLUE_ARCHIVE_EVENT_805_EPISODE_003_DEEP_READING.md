@@ -59,4 +59,3 @@ Every dialogue unit has one nonempty text-bearing numbered command, and no actor
 ## Proposed cumulative deltas
 
 Character: ADD Shun's mandarin/sensory/seasonal pleasure, acknowledged role exploitation, peace wish and age-sensitive compliment reception. Relationship: shared tasting and concealed knowledge with Sensei. Institution: Rumi/menu/faction reports retain uncertainty/no direct attendance. Sensei: six choices and inward purchase seam. Voice: unresolved 꼬마 슌ND, 梅花え… self-correction and qualified rivalry. Motif: ordinary appetite carries professional knowledge through a role. Claim revision: NARROW uniform child wish, universal food ranking, witnessed war and fulfilled identity confession.
-
