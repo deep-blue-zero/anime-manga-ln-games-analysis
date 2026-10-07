@@ -1,0 +1,103 @@
+{
+  "series": "blue-archive",
+  "status": "draft_noncurrent",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": true,
+  "source_admission": "UNADMITTED",
+  "artifact_type": "source_bounded_analytical_review_draft",
+  "publication_role": "ROOT_PRECISION_LAYER",
+  "publication_scope": "COMPLETE_ROOT_ARGUMENT_ONLY; author and independent bodies are deferred external records; not a recoverable publication of all role bodies",
+  "original_analytical_bytes": 4206,
+  "original_analytical_sha256": "d15eddb27e5ecf0111b592bfc567dfe8ff14dd7d620a82c56fdada72244e7dd6",
+  "source_credit_delta": 0,
+  "admission_delta": 0,
+  "schema": "ROOT_EVENT834103_P01_U31_JP_ADVERBIAL_PRECISION_V1",
+  "actor": "/root",
+  "role": "INTEGRATOR_NARROW_CORRECTION_NO_NEW_SECOND_OR_THIRD",
+  "episode": "BA:event:834:103",
+  "order": "Immutable complete independent B1–B4, full B5 R01 endpoint0–7 then linecount, then ROOT P01 LAST",
+  "category": "U31 JP この場で is the adverbial here/on the spot, not the object this place",
+  "immutable_base": {
+    "path": "external-record:INDEP834103.02",
+    "bytes": 8999,
+    "sha256": "8b67a013370cd8506b152f6ad5b78967193728e2e1e49dd38a32ff64f58a675e"
+  },
+  "effective_after_supplied_R01_before_ROOT_P01_metadata_only": {
+    "file": "02_NEW_INDEPENDENT_EVENT834103_ALL43_NATIVE_MODE_FORMAL_FINDINGS_V1.json",
+    "bytes": 9124,
+    "sha256": "557d6bbcb7c230b492c0b489e092168c1734246f5b2bfbe8be54c32e9b4e22fe"
+  },
+  "reason": "Current JP （この場で忘れていただいても、構いません。） permits forgetting here/on the spot. The independent review incorrectly glosses forget this place. The current author finding already says forgetting here. Correct only this located gloss after the supplied R01; preserve the permission and prior gifting, selected-evidence nonestablishment and wider UNKNOWN. No exhaustive referent is supplied.",
+  "evidence": {
+    "U": 31,
+    "raw_DataList0": 19030,
+    "current_utterance_line_one": 99023,
+    "current_JP": "……この場で忘れていただいても、構いません。",
+    "current_KR": "3;나기사 스탠딩;99;받고 바로 잊어 주셔도 좋고, 누구에게도 말씀하지 않으셔도 좋습니다.",
+    "current_primary_ROOT_read_receipt": "67898b",
+    "located_current_author_ROOT_read_receipt": "277fbf",
+    "complete_argument_read_receipts": [
+      {
+        "parts": [
+          1,
+          2
+        ],
+        "receipt": "8ac8c5"
+      },
+      {
+        "parts": [
+          3,
+          4
+        ],
+        "receipt": "d4a257"
+      },
+      {
+        "parts": [
+          5,
+          6
+        ],
+        "receipt": "fdd8a8"
+      },
+      {
+        "parts": [
+          7
+        ],
+        "receipt": "59913e"
+      }
+    ]
+  },
+  "operation": {
+    "pointer": "/all43/30/5",
+    "old_complete_value": "JP permission to forget this place versus KR forget after receiving and tell nobody permission. Actual forgetting or sustained secrecy is not established by this selected episode; wider outcome UNKNOWN. The permission and prior gifting remain positive.",
+    "new_complete_value": "JP permits forgetting here/on the spot; KR permits forgetting immediately after receiving and telling nobody. Actual forgetting or sustained secrecy is not established by this selected episode; wider outcome UNKNOWN. The permission and prior gifting remain positive.",
+    "old_serialized_byte_interval": [
+      6166,
+      6420
+    ],
+    "old_serialized_value_sha256": "3f2e77c358a149fd8fcbf66770dc472c3468cb764d0e9f85ab16b38160d811db",
+    "new_serialized_value_bytes": 268,
+    "new_serialized_value_sha256": "049e36b91f123cc27a082cf858918ac024a449ee1d13f500aba7667b658d11d8",
+    "unchanged_prefix_sha256": "6c0f9168bb41932d2f10c1917377654228de06664a174a44d2236b81a1a17207",
+    "unchanged_suffix_sha256": "87bfe3b537005cb15ca6b33d052680065f3c4a4f0bfe8f554dba08dfb6876c8c"
+  },
+  "virtual_effective_metadata_only": {
+    "file": "02_NEW_INDEPENDENT_EVENT834103_ALL43_NATIVE_MODE_FORMAL_FINDINGS_V1.json",
+    "bytes": 9138,
+    "sha256": "537f092dcbee5766742cad5d1b0442c67ab3796e17f35a041266ca83128abedd"
+  },
+  "scope": {
+    "categories": 1,
+    "locations": 1,
+    "all_other_values_types_identifiers_arrays_and_R01_operations_preserved": true,
+    "dependent_row_function_and_claim_refs_inherit_corrected_U31_scope": true,
+    "producer_correction_required": false,
+    "immutable_bases_changed": false,
+    "duplicate_full_successor": false,
+    "source_FIRST_SECOND_third_credit": 0,
+    "shared_effects": 0,
+    "all12_arcs_complete": false,
+    "Phase2_complete": false,
+    "merge": "RESERVED"
+  }
+}
