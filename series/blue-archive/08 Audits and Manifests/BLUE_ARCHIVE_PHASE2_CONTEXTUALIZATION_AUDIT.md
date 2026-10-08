@@ -2,14 +2,14 @@
 series: BLUE_ARCHIVE
 artifact_type: contextualization_audit
 scope: Phase 2 arc contextualization across all 12 main-story groupings at the pinned Japanese snapshot
-version: "1.6"
+version: "1.8"
 status: canonical
-source_boundary: "electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; generation BA_REFRESH_20260928T032248159554Z; 480 admitted main readings; 213 supplemental objects admitted with limits; Phase 2 in progress and completion unproven"
+source_boundary: "electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; generation BA_REFRESH_20260928T032248159554Z; 480 admitted main readings; 266 supplemental objects admitted with limits; Phase 2 in progress and completion unproven"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-10-01
-updated: 2026-10-02
+updated: 2026-10-07
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -17,7 +17,7 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 
 ## 0. Responsibility and present result
 
-**Phase 2 is NOT COMPLETE.** This audit owns the full acceptance matrix and records what would prove completion of the user-authorized **Start and complete Phase 2 — Arc contextualization** goal. It is an operational audit, not supplemental literary evidence or a character monograph. The initial input snapshot had zero supplemental admissions. Current accepted progress is213 objects, governed by §14 and cycle006; [scope extension001](BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md) owns the enlarged private-source denominator. Concurrent candidates enter neither that count nor an arc acceptance until integrator review and shared reconciliation are complete.
+**Phase 2 is NOT COMPLETE.** This audit owns the full acceptance matrix and records what would prove completion of the user-authorized **Start and complete Phase 2 — Arc contextualization** goal. It is an operational audit, not supplemental literary evidence or a character monograph. The initial input snapshot had zero supplemental admissions. Current accepted progress is266 objects, governed by §15 and cycle007; [scope extension001](BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md) owns the enlarged private-source denominator. Concurrent candidates enter neither that count nor an arc acceptance until integrator review and shared reconciliation are complete.
 
 The [synthesis architecture](../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md#phase-2--arc-contextualization) v1.9 defines five Phase 2 obligations after every major main arc: identify core related group stories; classify events by importance; read relevant bond/MomoTalk for major characters; inspect character-data written voice; update ledgers. The [method](../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md) v1.8 gives the source-class, person/variant, ordinary-life, choice, language, counterevidence and locator contracts. Its numbered phase labels differ; this goal follows the synthesis architecture Phase 2 contextualization label and the method remains the interpretive contract.
 
@@ -53,15 +53,15 @@ The operational metadata dispatch is retained outside analytical Git in the titl
 
 | ID | Requirement | Evidence that passes | Current state |
 |---|---|---|---|
-| P2-R01 | Related group and ordinary institution coverage | All 65 complete group objects read in coherent sequences, per-sequence source/admission/chronology record, and evidence-grounded relevance for all 12 arc rows. | PASS_WITH_LIMITS; [group relevance audit](BLUE_ARCHIVE_PHASE2_GROUP_ARC_RELEVANCE_AUDIT.md); see §14 |
-| P2-R02 | Fair event importance classification | All 61 packages / 1,010 objects receive complete content review and grounded priority, evidence-function and workflow decisions. Preserve every episode ID and all repeat contexts. No unread metadata verdict or quiet-material deferral. | IN_PROGRESS; see §14 |
-| P2-R03 | Major-character bond and MomoTalk | All required1061 bond and1061 MomoTalk objects read for the125 verified retrieval families with linked preface/scene, message boundaries, alternatives, variant/source context and public/peer/private comparison. New major subjects identified by reading add required routes. | IN_PROGRESS; see §14 |
-| P2-R04 | Written linguistic baseline | All required434 character-data objects inspected as contextual written language, compared with story/texting language and variant conditions. The 27 unresolved data routes receive identity review where relevant; performed voice remains unverified. | IN_PROGRESS; see §14 |
-| P2-R05 | Ledger and coverage integration | Each accepted coherent reading transaction closes applicable deltas to character, relationship, institution, Sensei, voice, motif and claim ledgers; coverage, source gaps and admission controls agree. Negative/no-material deltas are truthful, not fabricated rows. | IN_PROGRESS; see §14 |
-| P2-R06 | Every main arc contextualized | All 12 rows in §3 pass the five architecture obligations. Cross-arc reused readings are explicit and claim-specific. Main-only/identity-special people receive real retrieval review and named limits, not an invented private persona. | IN_PROGRESS; see §14 |
-| P2-R07 | Provenance, chronology and attribution | All consequential claims recover exact source IDs, scene/utterance/choice/message locators and raw witnesses; documentary dates remain separate from narrative anchors. Unordered repertoire does not become a state edge. | IN_PROGRESS; see §14 |
-| P2-R08 | Contrary evidence and ordinary breadth | Readings preserve pleasures, humor, play, minor disputes, work and uneventful relations with competing interpretations; no crisis-only essence, universal Sensei route or one-scene coverage ceiling. | IN_PROGRESS; see §14 |
-| P2-R09 | Semantic acceptance and publication | Integrator reads delivered analyses, tests consequential quotations/locators and cross-document effects, resolves material contradictions, updates current state and verifies required source/housekeeping/final exact-commit repository gates. A green validator is not literary completeness. | IN_PROGRESS; see §14 |
+| P2-R01 | Related group and ordinary institution coverage | All 65 complete group objects read in coherent sequences, per-sequence source/admission/chronology record, and evidence-grounded relevance for all 12 arc rows. | PASS_WITH_LIMITS; [group relevance audit](BLUE_ARCHIVE_PHASE2_GROUP_ARC_RELEVANCE_AUDIT.md); see §15 |
+| P2-R02 | Fair event importance classification | All 61 packages / 1,010 objects receive complete content review and grounded priority, evidence-function and workflow decisions. Preserve every episode ID and all repeat contexts. No unread metadata verdict or quiet-material deferral. | IN_PROGRESS; see §15 |
+| P2-R03 | Major-character bond and MomoTalk | All required1061 bond and1061 MomoTalk objects read for the125 verified retrieval families with linked preface/scene, message boundaries, alternatives, variant/source context and public/peer/private comparison. New major subjects identified by reading add required routes. | IN_PROGRESS; see §15 |
+| P2-R04 | Written linguistic baseline | All required434 character-data objects inspected as contextual written language, compared with story/texting language and variant conditions. The 27 unresolved data routes receive identity review where relevant; performed voice remains unverified. | IN_PROGRESS; see §15 |
+| P2-R05 | Ledger and coverage integration | Each accepted coherent reading transaction closes applicable deltas to character, relationship, institution, Sensei, voice, motif and claim ledgers; coverage, source gaps and admission controls agree. Negative/no-material deltas are truthful, not fabricated rows. | IN_PROGRESS; see §15 |
+| P2-R06 | Every main arc contextualized | All 12 rows in §3 pass the five architecture obligations. Cross-arc reused readings are explicit and claim-specific. Main-only/identity-special people receive real retrieval review and named limits, not an invented private persona. | IN_PROGRESS; see §15 |
+| P2-R07 | Provenance, chronology and attribution | All consequential claims recover exact source IDs, scene/utterance/choice/message locators and raw witnesses; documentary dates remain separate from narrative anchors. Unordered repertoire does not become a state edge. | IN_PROGRESS; see §15 |
+| P2-R08 | Contrary evidence and ordinary breadth | Readings preserve pleasures, humor, play, minor disputes, work and uneventful relations with competing interpretations; no crisis-only essence, universal Sensei route or one-scene coverage ceiling. | IN_PROGRESS; see §15 |
+| P2-R09 | Semantic acceptance and publication | Integrator reads delivered analyses, tests consequential quotations/locators and cross-document effects, resolves material contradictions, updates current state and verifies required source/housekeeping/final exact-commit repository gates. A green validator is not literary completeness. | IN_PROGRESS; see §15 |
 
 Readiness or model promotion is a separate gate. Phase 2 completion does not require manufacturing a monograph/model, resolving unprinted legal/medical outcomes, authenticating every historical record, constructing a total timeline or inspecting performed voice. It does require honest claim limits for those debts and complete assigned textual contextualization. A required unread source cannot be relabeled optional to declare completion.
 
@@ -140,8 +140,8 @@ This section preserves the initial111-family/113-key roster and its individual r
 | Sakurako | `SAKURAKO` | `MAIN_V003`, `MAIN_V006`, `MAIN_V100` | 9 | 9 | 3 | Named SisterHood / Trinity role requiring an independent ordinary/private account. Current admitted-main coverage basis: Analyzed through V100 C002 E015; claims historical ceremonial attire and vows to break hatred. |
 | Marie | `MARI` | `MAIN_V003`, `MAIN_V006`, `MAIN_V100` | 12 | 12 | 5 | Named SisterHood / Trinity role requiring an independent ordinary/private account. Current admitted-main coverage basis: Analyzed through V100 C002 E015; reacts to attire and remains uncertain at launch. |
 | Hinata | `HINATA` | `MAIN_V003`, `MAIN_V006`, `MAIN_V100` | 8 | 8 | 4 | Named SisterHood / Trinity role requiring an independent ordinary/private account. Current admitted-main coverage basis: Analyzed through V100 C002 E004; reports Sisterhood catacomb standby. |
-| Mine | `CH0152` | `MAIN_V003`, `MAIN_V006`, `MAIN_V100` | 8 | 8 | 3 | Force/care and finite medical responsibility require baseline work/ordinary/private contrast without inventing clinical repair. |
-| Hanae | `HANAE` | `MAIN_V003`, `MAIN_V006`, `MAIN_V100` | 9 | 9 | 3 | Named KnightsHospitaller / Trinity role requiring an independent ordinary/private account. Current admitted-main coverage basis: Analyzed through V006 C003 E007; holds Arius patients until Mine approves discharge. |
+| Mine | `CH0152` | `MAIN_V003`, `MAIN_V006`, `MAIN_V100` | 8 | 8 | 3 | Force/care and finite medical responsibility require baseline work/ordinary/private contrast without inventing clinical repair. COMPLETE_AVAILABLE_PRIVATE19 accepted with limits in cycle007:8 bond/8 full MomoTalk/3 written-data; collecting, tea, clothes, gifts, night rest and wanted company remain intrinsic, with costs, stopped self-wounding, failed search, caller/boat outcomes and medical/authority limits. |
+| Hanae | `HANAE` | `MAIN_V003`, `MAIN_V006`, `MAIN_V100` | 9 | 9 | 3 | Named KnightsHospitaller / Trinity role requiring an independent ordinary/private account. Current admitted-main coverage basis: Analyzed through V006 C003 E007; holds Arius patients until Mine approves discharge. COMPLETE_AVAILABLE_PRIVATE21 accepted with limits in cycle007:9 bond/9 full MomoTalk/3 written-data; gardening, knitting, exercise, valued holiday rest, gifts, Christmas imagination and peers retain intrinsic value, with refusals, excessive treatment claims, knowledge and clinical/access limits. |
 | Serina | `SERINA` | `MAIN_V003`, `MAIN_V006`, `MAIN_V100` | 7 | 7 | 3 | Named KnightsHospitaller / Trinity role requiring an independent ordinary/private account. Current admitted-main coverage basis: Analyzed through V006 C003 E007; checks Subaru and asks about Arius distrust. COMPLETE_AVAILABLE_PRIVATE17 accepted with limits in cycle006:7 bond/7 full MomoTalk/3 written-data; care of children, reported pre-enrollment Santa belief, normal/Christmas audiences, refusal/pressure and credentials/access/clinical limits remain bounded. |
 | Ui | `CH0169` | `MAIN_V003`, `MAIN_V006`, `MAIN_V100` | 7 | 7 | 4 | Named BookClub / Trinity role requiring an independent ordinary/private account. Current admitted-main coverage basis: Analyzed through V100 C002 E013; laments opening her library to evacuees. |
 | Shimiko | `SHIMIKO` | `MAIN_V003`, `MAIN_V006`, `MAIN_V100` | 5 | 5 | 1 | Named BookClub / Trinity role requiring an independent ordinary/private account. Current admitted-main coverage basis: Analyzed through V100 C002 E013; opens old library as estimated safer shelter. |
@@ -259,7 +259,7 @@ All 61 event packages are required for complete content review. Each includes ev
 
 | Event package | Required canonical objects | Complete review |
 |---|---:|---|
-| `EVENT_801` | 13 | PENDING |
+| `EVENT_801` | 13 | ACCEPTED_WITH_LIMITS cycle007 |
 | `EVENT_802` | 11 | PENDING |
 | `EVENT_803` | 21 | PENDING |
 | `EVENT_804` | 13 | PENDING |
@@ -575,3 +575,63 @@ This external candidate combines preserved original histories, sealed mini/G01 f
 The earlier pending-event wording is historical candidate scope. This successor incorporates only the accepted precise CF08 and CF10 functions; other event payloads are not inferred. All original history, source-specific 397 UNADMITTED/two existing ADMITTED Junko statuses and authority codes remain unchanged.
 
 The final external sixteen-surface candidate now includes the two precise accepted event functions after mini/G01, private/group and disjoint D02 annotations. Before-cell guards, exact append mappings and restoration routes preserve full prior histories. Source availability remains class-based no mutation, group-only duplicate atoms remain retained, and no source admission/model/readiness rating or new coverage row is introduced.
+
+## 15. Current accepted progress — cycle007, 2026-10-07
+
+[Cycle007](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_007_CHECKPOINT.md) accepts53 complete additional objects: Hanae21 (9 bond/9 full linked MomoTalk/3 written-data), Mine19 (8/8/3), and EVENT801 all13. The parent reviewed all39 complete source-facing arguments/checkpoints and the declared full Japanese/primary controls, corrected agency/qualification/knowledge details, and reconciled shared owners. Every earlier213 admission, all3682 tracked identities and canonical hashes, the full3631-mandatory denominator,125 retrieval families/128 raw keys and all12 arc obligations survive. §§8–14 preserve their dated progress and then-known publication states.
+
+| Responsibility | Required | Accepted | Remaining / state |
+|---|---|---|---|
+| Main-arc rows |12 |0 |All12 remain NOT_COMPLETE; all five architecture duties must pass per arc |
+| Group |65 |65 |P2-R01 PASS_WITH_LIMITS; all12 group-relevance routes preserved |
+| Event packages / objects |61 /1010 |6 /72 |55 /938 |
+| Principal bond |1061 |54 |1007 |
+| Principal MomoTalk |1061 |54 |1007 |
+| Principal character_data |434 |21 |413 |
+| Kei identity |19 |0 |19; no event-local actor closes this inquiry |
+| Mini leads |32 |0 |32 |
+| Mandatory objects |3631 |266 |3365 |
+| All tracked objects |3682 |266 |3416 |
+| Verified retrieval families / raw keys |125 /128 |Serika/Reijo/Rei/Ayane/Serina/Hanae/Mine available pools; twoTsukuyo/Junko inquiry pairs |Other complete pools remain pending; inquiry joins do not establish appearances |
+| Seven-ledger integration |Every accepted cycle |7 cycles |Ordinary/contrary/no-material deltas remain source-scoped |
+| Cycle007 publication |Author/source/housekeeping/final exact head |PENDING |No future publication, review approval or exact-head success is invented |
+
+Cumulative admission is266 =65G/72E/54B/54M/21D. Full-class unadmitted totals are0G/938E/1107B/1107M/490D, distinct from the principal-required remainders. Hanae retains289 bond units/10 scenes/548 raw records,54 formal groups/64 options,102 full messages, two profiles and143 written records. Mine retains547 bond units/8 scenes/1390 raw records,49 formal groups/70 options,116 messages (88 student/28 Sensei), two profiles and103 written records. All17 message joins and written-context gates are positive and source-bounded; neither person receives a clinical, permission, access or model certification. Ordinary preferences and giving/receiving remain substantive evidence, alongside refusal, pressure, concrete costs and unfinished outcomes.
+
+EVENT801 preserves895 units/18 scenes,88 formal groups/105 options,1332 raw records and43 attribution contrasts. All13 objects are admitted independently of stakes:12CORE/1HIGH. Food, views, unusual dreams, hospitality, theatrical entrance, sleep, differing peer motives, chosen company and apology remain intrinsic. Private employer scenes preserve reader knowledge before the adult’s E009 discovery. Explicit alias and troupe/delinquent continuity are bounded; separate passers, recurring staff labels and masked channels do not create automatic biographies. Plans, reports, source modes, inward seams, mutual alternatives, nonmonotone IDs, release contexts and missing titles stay distinct from actions, main chronology or audiovisual inspection.
+
+Combined coverage is540 subjects =23 PARTIAL_MODEL/517 UNMODELED, allstandaloneNONE. The287-row companion retains99 inherited-main overrides/188 additions and253 unchanged inherited main subjects; all five tables agree. New routes are two Hanae retail opponents, nine Mine local people/voice or role buckets and thirteen EVENT801 local routes. Mine’s new override adds private/ordinary/written breadth without changing her UNMODELED/NONE state. [§35 readiness reassessment](BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md#35-current-cycle007-readiness-reassessment--2026-10-07) owns these limits.
+
+The preceding Cycle006 was actually published at23a9e01beb210d23883e841c478ee58a40b6cf0e: source audit37017786980, housekeeping37018479437 and final exact-head audit37018514673 all succeeded for that source SHA; the final audit passed5707 tree paths. These closed prior receipts do not certify Cycle007. Current requirements remain P2-R01 PASS_WITH_LIMITS and P2-R02–R09 IN_PROGRESS. All12 full arcs and Phase2 remain incomplete; Phase3 packages and reconstruction/prediction gates are unchanged. Receiving review and shared reconciliation of existing complete unadmitted event packets remain the rotation lane. Existing complete-declared EVENT812 all15 saved arguments now have COMPLETE_PROVISIONAL_RECEIVING_ADOPTION_WITH_MANDATORY_QUALIFICATIONS through ROOT's completed provisional receiving decision. All eight required qualifications below govern affected downstream use; original contributor, prior distinct independent-review allocation and publication rights remain UNKNOWN. EVENT812 remains UNADMITTED and outside cycle007 full53; this disposition supplies no FIRST, SECOND, certified distinct original-author independence, new global source completion or original-body refinement. Resolve EVENT861 all13 owner/private-allocation state before any FIRST assignment; allocation is UNKNOWN and FIRST is false. Preserve EVENT806 as the closed/delivered Yuuka/C&C inquiry awaiting its actual receiving disposition, and EVENT802 as existing completed unadmitted work. These responsibilities are separate from literary priority and retain every required quiet episode. Every remaining complete required source and evidence-grounded per-arc synthesis remains an obligation.
+
+
+### Current cycle007 authority qualification — 2026-10-07
+
+The earlier dated acceptance and conditional appendices retain their exact input boundaries, including213 admitted objects/516 subjects where recorded. The current cycle007 checkpoint and current boundary above govern266 admitted objects/540 subjects after this coherent transaction; those historical numbers are not competing live censuses. Later mini/G01,20-family,G06/G26,D02 and CF08/CF10 observations retain their existing conditional admission, actor/mode/locale, ordinary-value and contrary-case limits. All twelve full-arc rows and all five architectural duties as a complete Phase2 responsibility remain incomplete; P2-R01 is PASS_WITH_LIMITS only for its group-relevance scope, and P2-R02–R09 remain IN_PROGRESS. No standalone/operational/validated model, monograph, forecast or performed-voice admission is created.
+
+
+### Receiving review and allocation queue — 2026-10-07
+
+Receiving review and shared reconciliation of existing complete unadmitted event packets remain the rotation lane. Existing complete-declared EVENT812 all15 saved arguments now have COMPLETE_PROVISIONAL_RECEIVING_ADOPTION_WITH_MANDATORY_QUALIFICATIONS through ROOT's completed provisional receiving decision. All eight required qualifications below govern affected downstream use; original contributor, prior distinct independent-review allocation and publication rights remain UNKNOWN. EVENT812 remains UNADMITTED and outside cycle007 full53; this disposition supplies no FIRST, SECOND, certified distinct original-author independence, new global source completion or original-body refinement. Resolve EVENT861 all13 owner/private-allocation state before any FIRST assignment; allocation is UNKNOWN and FIRST is false. Preserve EVENT806 as the closed/delivered Yuuka/C&C inquiry awaiting its actual receiving disposition, and EVENT802 as existing completed unadmitted work. These responsibilities are separate from literary priority and retain every required quiet episode.
+
+
+### Event812 completed provisional receiving — successor qualification,2026-10-07
+
+Current receiving state: **COMPLETE_PROVISIONAL_RECEIVING_ADOPTION_WITH_MANDATORY_QUALIFICATIONS**. ROOT completed its qualified receiving judgment for all15 saved Event812 arguments and their union checkpoint. The complete14,734-byte ROOT judgment is bound by SHA256 `03fafb6c72984ff3dc03848522ae6e62192ba34db23ad79dabbb0b69a149e2e0`; its2,583-byte decision is bound by SHA256 `122379c75b1597f1412681e8cca2238b78ff0a24e5a4c83d4562e408c23df7a4`. This control qualification carries that decision; it applies no original-body precision operation or analytical admission.
+
+The following eight requirements govern any affected downstream claim:
+
+1. **001 inward alternative:** the relic-like adult thought belongs to designed `[ns3]/[ns4]` alternatives, not a securely observed single selected inward line. ROOT001 Q01 remains an unapplied exact guard.
+2. **001 causal condition:** possible prior fragility remains unresolved at001. Gentle-handling testimony, sincere preparation and actual failure establish no cause, blame or innocence proof. ROOT001 Q02 remains unapplied.
+3. **014 collective attribution:** retain the Kazusa-and-Natsu collective reply as one named collective unit, not Kazusa-exclusive agency. Exclusive individual subtotal868 plus one collective; Kazusa-exclusive routing21 total/4 in014; eleven named people and1019 total units unchanged; actor-bearing partition868+1+107+17=993. Do not count two units or silently call869 an exclusive subtotal.
+4. **Preference revision:**003's cake demand and008's gratitude retain value beside011's mischief and015's actual taste. Neither cake nor lemon smoothie is Ui's established favorite; iced Americano is self-chosen. Future coffee delivery remains unobserved.
+5. **007 offer and recipient situation:** no wages, possible shelter/food and conditional later recommendation remain distinct; Japanese supplies no fixed one-month term. Constrained recipients' cinema/café/arcade desires are their ends. Offer and B's acceptance establish no universal trust, unpressured consent, adequate provision or fulfilled paid job.
+6. **Accomplished local benefits:** retain009's narrated medicine discovery/bright return,012's expressed enjoyable fatigue,013's completion report/handoff and014's strong immediate replacement inference/resumed ceremony. Broader treatment, authority, technical equivalence, consent, costs and covert steps stay open without erasing achieved local benefits.
+7. **Documentary boundaries:** preserve actual actors, `#na`, silence, inward/narration/system modes, Japanese wording, guards, encountered alternatives/order, generic local contexts and internal chronology. The collective is not a74th dialogue seam. Closing text does not repair null event-title metadata; performed voice, animation and runtime remain uninspected.
+8. **Provisional origins and rights:** original contributor, prior distinct independent-review allocation and publication rights remain UNKNOWN. This completed receiving work certifies no distinct origins, retroactive source-work authorization or publication entitlement. Event812 all15 remain UNADMITTED outside cycle007 full53; no FIRST, SECOND or new global source-completion credit is created.
+
+**Retained planning history:** the original sealed current58 proposal recorded the following earlier state accurately before this completed ROOT decision:
+
+> Existing complete-declared EVENT812 all15 saved arguments now have provisional receiving review IN_PROGRESS; original contributor and prior distinct independent-review allocation remain UNKNOWN. This current receiving allocation certifies neither distinct original-author independence nor publication rights, and EVENT812 remains outside the cycle007 full53 admission.
+
+The current completed qualified receiving decision qualifies the earlier queue state as dated planning history. It preserves the sealed snapshot, the53-source admission union, all earlier source/owner/closure/model limits and other receiving duties. Formal intake/admission states do not assert that no historical COMPLETE declaration or qualified provisional receiving assessment exists. All12 whole arcs and all five Phase2 duties remain incomplete; merge approval remains RESERVED.
