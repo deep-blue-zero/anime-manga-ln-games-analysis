@@ -128,6 +128,8 @@ The method should govern **how the source will be read**. Depending on medium an
 - contradiction handling within a sequential reading;
 - what each sequential artifact must update before it can be considered complete.
 
+For a new anime project with no existing analytical method, the [Generic Source-Bounded Anime Episode Analytical Method](../analytical-methods/GENERIC_ANIME_EPISODE_ANALYTICAL_METHOD.md) may be used as an optional bootstrap/design reference. It does not itself satisfy the project-local governing-method requirement. The project must adapt or author a series-specific method after source reconnaissance, include only analytically justified modules, pair it with a synthesis/corpus architecture, and expose both through the canonical project entrypoint before sequential analysis is unlocked.
+
 ## 3.4 Governing synthesis/corpus architecture established
 
 A canonical architecture must exist before sequential analysis begins.
@@ -218,6 +220,8 @@ Before that point:
 `SEQUENTIAL_ANALYSIS_LOCK = CLOSED`
 
 This is an operational gate, not a claim about source completeness. Preliminary source auditing and architecture work can proceed while the lock is closed.
+
+At a completed authorized terminal boundary, close the current lock and record completion and no next permitted/candidate source operation. Historical OPEN authorization remains in its original receipts; it does not authorize another source at handoff. A reviewed `terminal_closures` record in `governance/repository-controls/project-initiation-gate.json` may preserve the exact paths and SHA-256 bytes of accepted sequential readings behind the CLOSED lock without moving the activation baseline. The recorded `completion_commit` must resolve to a commit in the local Git validation context; every frozen seal must match a regular evidence blob in that historical tree. Missing history fails closed without fetching or substituting staged/current bytes. Each closure explicitly declares the boolean `supplemental_execution_required`; when true, the current entrypoint must retain a structured supplemental lane that is CLOSED with `other_narrative_admission: NOT_AUTHORIZED`. A present supplemental lane is checked even when not required. The validator still requires the current method, architecture and initialized infrastructure, and rejects missing, altered or additional readings, an OPEN current lock, or resumed execution. A new source scope requires separate owner authorization and a reviewed closure-control amendment; source completion or unresolved analytical questions do not reopen the gate.
 
 ---
 

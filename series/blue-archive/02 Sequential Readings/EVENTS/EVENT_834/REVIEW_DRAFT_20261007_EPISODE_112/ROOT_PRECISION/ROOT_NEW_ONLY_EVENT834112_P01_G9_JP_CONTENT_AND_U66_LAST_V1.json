@@ -1,0 +1,73 @@
+{
+  "series": "blue-archive",
+  "status": "draft_noncurrent",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": true,
+  "source_admission": "UNADMITTED",
+  "artifact_type": "source_bounded_analytical_review_draft",
+  "publication_role": "ROOT_PRECISION_LAYER",
+  "publication_scope": "COMPLETE_ROOT_ARGUMENT_ONLY; author and independent bodies are deferred external records; not a recoverable publication of all role bodies",
+  "original_analytical_bytes": 4475,
+  "original_analytical_sha256": "65977db3a219923d6018158f469f1c41a631f49a4ecc750d3d260cd5f14ec731",
+  "source_credit_delta": 0,
+  "admission_delta": 0,
+  "schema": "ROOT_EVENT834112_P01_ONLY_G9_JP_POSITIVE_CONTENT_AND_U66_PROPAGATION_LAST_V1",
+  "actor": "ROOT",
+  "story": "BA:event:834:112",
+  "effective_order": "Author four bases then D01; independent four bases then R01; only this ROOT P01 last in ROOT judgment. No rewritten closed body.",
+  "operations": [
+    {
+      "parent_whole": {
+        "path": "external-record:INDEP834112.05",
+        "bytes": 7773,
+        "sha256": "085d89c9e86c57b269ab7472ede647cb0a1ad5400d0d17b3bc29a6766080e1a4"
+      },
+      "parent_pointer": "/only6_changes/4/new_complete_value",
+      "effective_paired_selector": "/ALL17_NEW_G_JUDGMENTS/8/2",
+      "old_complete_value": "JP questions whether the preceding words express his feelings; KR supplies hesitant interrogative wording. Preserve both questions without promoting the KR wording to an affirmative confirmation; runtime selection/delivery UNKNOWN.",
+      "old_literal_sha256": "8a8535856482a9e9a4762e3bb823d8174f0f5cdee5e75671cc287d466c37ed88",
+      "old_serialized_interval": [
+        5918,
+        6151
+      ],
+      "old_serialized_sha256": "f1c83302ab3f2ea9e5decc0589a5ebaaa15e1010b75f07dc60ef4cdef4eff12d",
+      "new_complete_value": "JP explicitly describes the preceding words as Sensei's feelings, with hesitant opening and question-mark punctuation; KR supplies hesitant interrogative wording. Preserve the positive JP self-description and the KR hesitation without inventing a shared affirmative response; actual runtime selection/delivery UNKNOWN.",
+      "basis": "Current primary G9/raw19987 and U66/raw19988, actual complete targeted display b3f271; retain Japanese positive propositional content plus punctuation and Korean hesitation."
+    },
+    {
+      "parent_whole": {
+        "path": "external-record:INDEP834112.05",
+        "bytes": 7773,
+        "sha256": "085d89c9e86c57b269ab7472ede647cb0a1ad5400d0d17b3bc29a6766080e1a4"
+      },
+      "parent_pointer": "/only6_changes/5/new_complete_value",
+      "effective_paired_selector": "/ALL113_NEW_U_JUDGMENTS/65/2",
+      "old_complete_value": "Her acknowledgment follows G9's formal interrogative/hesitant exchange. It is a positive local spoken acknowledgment, not comprehensive satisfaction or a certified prior affirmative confirmation.",
+      "old_literal_sha256": "17766eb1bbcb05f412b6ba9cd2035b2850b7d43a291b552812da7e574c66b708",
+      "old_serialized_interval": [
+        7042,
+        7239
+      ],
+      "old_serialized_sha256": "5e90dde25ec1176aa0e7fdaa8c92d5dbb4d59c1bd19095776de672189f5892ac",
+      "new_complete_value": "Her positive local acknowledgment follows G9: JP describes the preceding words as Sensei's feelings with questioning punctuation, whereas KR is hesitant interrogative. This acknowledgment does not establish comprehensive satisfaction, a shared affirmative endpoint across both locales, or observed runtime delivery.",
+      "basis": "Current primary G9/raw19987 and U66/raw19988, actual complete targeted display b3f271; retain Japanese positive propositional content plus punctuation and Korean hesitation."
+    }
+  ],
+  "current_primary_proof": {
+    "path": "external-record:EVENT834112-METHOD-WITNESS-01",
+    "bytes": 27635,
+    "sha256": "2c08ecda411c71814d10fd3ca98d6c1149ee6ac738a0a600c780acb341c14bf2"
+  },
+  "complete_inverse_proof": {
+    "path": "external-record:EVENT834112-METHOD-WITNESS-02",
+    "bytes": 22502,
+    "sha256": "10527f63f234d4c378b0234255278691f358000524a32f5db64d6237a5f2b79a"
+  },
+  "targeted_current_actual_read_receipt": "b3f271",
+  "original_FIRST_SECOND_third_credit": 0,
+  "shared_admission_delta": 0,
+  "runtime_AV_credit": 0,
+  "remaining_precision_debt": 0,
+  "merge": "RESERVED"
+}

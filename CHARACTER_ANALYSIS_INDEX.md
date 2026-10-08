@@ -46,7 +46,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analytical coverage:
   - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package and qualified later semantic context. Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
-  - [`reviewed-dedicated-analysis` — Aemeath dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Aemeath/WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+  - [`reviewed-dedicated-analysis` — Aemeath dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Aemeath/01%20Evidence%20and%20Source-Facing/WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
 
 ### Airi
 
@@ -884,10 +884,10 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analytical coverage:
   - `cartethyia-reviewed-corpus`: GAME QUEST: Current provisional Cartethyia pre-AV rebuild and retained V0.2 analytical corpus over the pinned Wuthering Waves 3.6.0/3.6.6 semantic view and its explicitly qualified multilingual, voice, relationship, and ordinary-life evidence.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
-  - [`wuwa-cartethyia-character-monograph` — WUWA CARTETHYIA CHARACTER MONOGRAPH](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
-  - [`wuwa-cartethyia-ordinary-life-and-preferences-profile` — WUWA CARTETHYIA ORDINARY LIFE AND PREFERENCES PROFILE](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md) — **active provisional authority**
-  - [`wuwa-cartethyia-relationship-and-state-ledger` — WUWA CARTETHYIA RELATIONSHIP AND STATE LEDGER](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md) — **active provisional authority**
-  - [`wuwa-cartethyia-speech-voice-and-performance-profile` — WUWA CARTETHYIA SPEECH VOICE AND PERFORMANCE PROFILE](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md) — **active provisional authority**
+  - [`wuwa-cartethyia-character-monograph` — WUWA CARTETHYIA CHARACTER MONOGRAPH](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/05%20Integrated%20Synthesis/WUWA_CARTETHYIA_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+  - [`wuwa-cartethyia-ordinary-life-and-preferences-profile` — WUWA CARTETHYIA ORDINARY LIFE AND PREFERENCES PROFILE](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md) — **active provisional authority**
+  - [`wuwa-cartethyia-relationship-and-state-ledger` — WUWA CARTETHYIA RELATIONSHIP AND STATE LEDGER](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/01%20Evidence%20and%20Source-Facing/WUWA_CARTETHYIA_RELATIONSHIP_AND_STATE_LEDGER.md) — **active provisional authority**
+  - [`wuwa-cartethyia-speech-voice-and-performance-profile` — WUWA CARTETHYIA SPEECH VOICE AND PERFORMANCE PROFILE](series/wuthering-waves/04%20Character%20Analysis/Cartethyia/03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md) — **active provisional authority**
 
 ### Cha Hae-In
 
@@ -949,7 +949,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analytical coverage:
   - `commit-pinned-textual-scope`: GAME QUEST: Reviewed current active-provisional character profile over the declared 3.6.0 semantic source commit 353f2eaed119bc9f680eab92807d20ac75a79b40. Chinese is primary; localization witnesses and optional branches retain their stated limits. No unrestricted full-game coverage, future-patch update or new primary-source inspection is claimed.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
-  - [`reviewed-dedicated-profile` — Chisa bounded reconstructive profile](series/wuthering-waves/04%20Character%20Analysis/Chisa/WUWA_CHISA_RECONSTRUCTIVE_PROFILE_PRE_AV.md) — **active provisional authority**
+  - [`reviewed-dedicated-profile` — Chisa bounded reconstructive profile](series/wuthering-waves/04%20Character%20Analysis/Chisa/02%20Reconstruction/WUWA_CHISA_RECONSTRUCTIVE_PROFILE_PRE_AV.md) — **active provisional authority**
 
 ### Chisaki / Overhaul
 
@@ -1154,7 +1154,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analytical coverage:
   - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package and qualified later semantic context. Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
-  - [`reviewed-dedicated-analysis` — Denia dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Denia/WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+  - [`reviewed-dedicated-analysis` — Denia dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Denia/01%20Evidence%20and%20Source-Facing/WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
 
 ### Dragon Boy
 
@@ -1593,6 +1593,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Reviewed current evidence:
   - [`reviewed-dedicated-analysis` — Fujita Kotone dedicated analysis](series/gakuen-idolmaster/05_AUDIOVISUAL_ANALYSIS/03_FUJITA_KOTONE/GKM_KOTONE_COMPLETE_AUDIOVISUAL_BASELINE.md)
 
+### Fujiwara
+
+- Entity ID: `ntr-netsuzou-trap:fujiwara`
+- Entity aliases:
+  - _None._
+
+#### Subject: Japanese manga mainline
+
+- Analysis subject ID: `ntr-netsuzou-trap:fujiwara@manga`
+- Series: `ntr-netsuzou-trap`
+- Continuity: `ntr-netsuzou-trap-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `mainline-v01-v06`: MANGA VOLUME 1–6 (inclusive); continuity `ntr-netsuzou-trap-manga`
+- Reviewed current evidence:
+  - [`reviewed-mainline-monograph` — Mainline character monograph (V01–V06)](series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_FUJIWARA_MONOGRAPH.md) — **active provisional authority**
+
 ### Furina
 
 - Entity ID: `genshin-impact:furina`
@@ -1777,6 +1797,27 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `go-gunhee-reviewed-corpus`: LIGHT_NOVEL OTHER: Reviewed character analysis over the complete original Korean novel, including the main story, admitted side stories, and postscripts; manhwa evidence is excluded by the reconstruction artifacts.; continuity `solo-leveling-original-korean-novel`
 - Reviewed current evidence:
   - [`go-gunhee-character-reconstruction-model` — GO GUNHEE CHARACTER RECONSTRUCTION MODEL](series/solo-leveling/04%20Specialist%20Synthesis/GO_GUNHEE_CHARACTER_RECONSTRUCTION_MODEL.md) — **active provisional authority**
+
+### Goeidō
+
+- Entity ID: `watayuri:goeido`
+- Entity aliases:
+  - _None._
+
+#### Subject: Japanese manga continuity
+
+- Analysis subject ID: `watayuri:goeido@manga`
+- Series: `watayuri`
+- Continuity: `watayuri-manga`
+- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - 五影堂 (ja, ORIGINAL_SCRIPT) — Source-used name explicitly identified at V04/i009; no separate ordinary/legal-versus-cafe surname is inferred.
+  - 葉子 (ja, ORIGINAL_SCRIPT, ambiguous) — Given-name address in the V04 retrospective sequence, identified in section15 as the same Goeido subject. Given name alone is not globally unique; no full legal name or biography is supplied.
+- Analytical coverage:
+  - `v04-earlier-cafe`: MANGA CHAPTER: Separately bounded V04 Shift17/i009-027 earlier cafe relationship and sister-role rupture as represented through Sumika's involved retrospective account. Present narration does not make these present-day events or backdate later self-accounts. Excludes later V04 present scenes, Shift21.5, illustration and V05+; fine relationship-onset timing and full Goeido motives remain unresolved.; continuity `watayuri-manga`
+- Reviewed current evidence:
+  - [`reviewed-v04-earlier-cafe` — V04 earlier cafe: approaches, changing explanations and departure](series/watayuri/02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#close-reading)
 
 ### Gokō Ruri
 
@@ -2499,6 +2540,28 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`chapter-1-checkpoint` — Countermeasures Committee Arc Chapter 1 canonical checkpoint](series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md)
   - [`character-state-ledger` — Cumulative character-state ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md) — **active provisional authority**
   - [`voice-address-ledger` — Cumulative Japanese voice and address ledger](series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md) — **active provisional authority**
+
+### Hotaru Mizushina
+
+- Entity ID: `ntr-netsuzou-trap:hotaru-mizushina`
+- Entity aliases:
+  - _None._
+
+#### Subject: Japanese manga continuity
+
+- Analysis subject ID: `ntr-netsuzou-trap:hotaru-mizushina@manga`
+- Series: `ntr-netsuzou-trap`
+- Continuity: `ntr-netsuzou-trap-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `latewinter-afterstory`: MANGA OTHER: Reviewed substantial character argument in the separately admitted NTR-JP-LW afterstory, principally S0005-S0020/I01: Autonomous social refusal, direct selective interest and changed speech, ordinary coat hospitality and childhood/father testimony; no diagnosis, universal permission, household mastery or completed repair. Not V07, an adult parallel continuity, or continuous numbered-volume expansion; not exhaustive character/corpus coverage.; continuity `ntr-netsuzou-trap-manga`
+  - `mainline-v01-v06`: MANGA VOLUME 1–6 (inclusive); continuity `ntr-netsuzou-trap-manga`
+- Reviewed current evidence:
+  - [`reviewed-latewinter-addendum` — LateWinter scoped character addendum (NTR-JP-LW)](series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_LATEWINTER_CHARACTER_ADDENDA.md)
+  - [`reviewed-mainline-monograph` — Mainline character monograph (V01–V06)](series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_HOTARU_MONOGRAPH.md) — **active provisional authority**
 
 ### Hyodo Shizuku
 
@@ -3958,7 +4021,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analytical coverage:
   - `reviewed-dedicated-corpus`: GAME QUEST: Reviewed active-provisional pre-AV character deep dive over the explicitly pinned Wuthering Waves 3.6.0 source package and qualified later semantic context. Coverage is limited to admitted text and source-linked evidence; no direct audiovisual performance validation or unrestricted full-game coverage is claimed.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
-  - [`reviewed-dedicated-analysis` — Lynae dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Lynae/WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
+  - [`reviewed-dedicated-analysis` — Lynae dedicated analysis](series/wuthering-waves/04%20Character%20Analysis/Lynae/01%20Evidence%20and%20Source-Facing/WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md) — **active provisional authority**
 
 ### Mafuyu
 
@@ -4072,15 +4135,25 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `watayuri`
 - Continuity: `watayuri-manga`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
   - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
   - `v02-mainline`: MANGA VOLUME: Substantial character-specific analysis within V02 mainline Shifts 07-11 through image i156, including retrospective childhood and present states without backdating knowledge. This is an analytical horizon, not appearances in every scene. Separately packaged Shift 11.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+  - `v03-present`: MANGA CHAPTER: V03 mainline present-day material in Shifts12-16 throughi118, including character-specific argument and its distributed retrieval sections. Excludes school retrospectivei119-156, separate Shift16.5, edition paratext and V04+; no continuous V01-V07 coverage is implied.; continuity `watayuri-manga`
+  - `v03-school-retrospective`: MANGA CHAPTER: V03 Shift16 school retrospectivei119-156: earlier refuge, sign incident and friendship origin. This source-new earlier episode is not present-day continuation or a post-V02 recurrence. Excludes Shift16.5 and later source units.; continuity `watayuri-manga`
+  - `v03-school-short`: MANGA CHAPTER: Separately bounded V03 Shift16.5/i158-161 school-period follow-through after the sign episode, not post-i118 present-day action. One Hime-initiated photograph is permitted; no blanket permission for later photography, inspection or sleeping intimacy follows. Edition paratext excluded.; continuity `watayuri-manga`
+  - `v04-present`: MANGA CHAPTER: Substantial character-specific V04 present-day analysis within Shifts17-21 throughi152. Embedded earlier cafe historyi009-027 is separately scoped; recalled school imageryi101-103 is not a current Hime arrival. Excludes EX/i154-157, Shift21.5/i158-161, paratext and V05+; no continuous V01-V07 coverage is implied.; continuity `watayuri-manga`
+  - `v07-mainline`: MANGA VOLUME: Substantial character-specific analysis within Japanese V07 mainline Shifts 32-36 through image i150. Retrospectively presented V06 events retain V07 reception/knowledge status rather than becoming repeated events or backdated consent. This describes the analytical horizon, not appearances in every scene. Unenrolled V05/V06 scopes remain gaps; V04 coverage is limited to its separately enrolled scopes; separately packaged shorts and edition witnesses are outside this mainline scope. No V08+, completed birthday performance, ordinary-work resumption, reciprocal romance or reconstruction capability is inferred.; continuity `watayuri-manga`
 - Reviewed current evidence:
   - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
   - [`reviewed-v02-mainline` — V02 frozen mainline character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md)
+  - [`reviewed-v03-present` — V03 present: romantic self-application, revisable judgment and exclusion strategy](series/watayuri/02%20Sequential%20Readings/WATAYURI_V03_DEEP_READING.md#close-reading)
+  - [`reviewed-v03-school-retrospective` — V03 earlier school: solitude, damage, confession and acknowledged special friendship](series/watayuri/02%20Sequential%20Readings/WATAYURI_V03_DEEP_READING.md#close-reading)
+  - [`reviewed-v03-school-short` — V03 Shift16.5: conditional social learning, reciprocation and photo encouragement](series/watayuri/02%20Sequential%20Readings/WATAYURI_V03_DEEP_READING.md#supplement)
+  - [`reviewed-v04-present` — V04 present: strategic refusal, chosen listener and conditional sister pact](series/watayuri/02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#close-reading)
+  - [`reviewed-v07-mainline` — Kanoko: changed care goal, harmful intervention and chosen repair](series/watayuri/02%20Sequential%20Readings/WATAYURI_V07_DEEP_READING.md#close-reading)
 
 ### Mari Otsu
 
@@ -4206,15 +4279,22 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `watayuri`
 - Continuity: `watayuri-manga`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
-  - _None._
+  - Koshiba Mai (en, TRANSLITERATION) — Ordinary name of the same Japanese manga subject as cafe-role Mikoshiba Mai, explicitly distinguished in V07 Shift36.2/i158 and profile i162; first identity verification here, not backdated into V01.
+  - 小柴舞 (ja, ORIGINAL_SCRIPT) — Written ordinary name, read こしばまい in V07 profile i162; cafe identity 御子柴舞 remains the same person.
 - Analytical coverage:
   - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
   - `v02-mainline`: MANGA VOLUME: Substantial character-specific analysis within V02 mainline Shifts 07-11 through image i156, including retrospective childhood and present states without backdating knowledge. This is an analytical horizon, not appearances in every scene. Separately packaged Shift 11.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+  - `v04-institutional`: MANGA CHAPTER: V04 present-day distributed institutional/interpersonal analysis in Shifts19-21: contest administration and actual ballot i061-063, coworker exchange i098-099, and uniform introduction/choice/accommodation i127-140,i150. Earlier cafe cast mentions, EX, tea-stock mention in Shift21.5, paratext and V05+ are outside this enrollment.; continuity `watayuri-manga`
+  - `v07-mainline`: MANGA VOLUME: Substantial character-specific analysis within Japanese V07 mainline Shifts 32-36 through image i150. Retrospectively presented V06 events retain V07 reception/knowledge status rather than becoming repeated events or backdated consent. This describes the analytical horizon, not appearances in every scene. Unenrolled V03/V05/V06 scopes remain gaps; separately packaged shorts and edition witnesses are outside this mainline scope. No V08+, completed birthday performance, ordinary-work resumption, reciprocal romance or reconstruction capability is inferred.; continuity `watayuri-manga`
+  - `v07-shift36-2`: MANGA CHAPTER: Separately bounded V07 Shift 36.2, images i158-i159: expository managerial duties and stated autonomy policy. Neither a dated post-ending workday nor a completed vacation. Ordinary/role-name identification is additionally confirmed by edition profile i162; profile evaluations do not certify conduct.; continuity `watayuri-manga`
 - Reviewed current evidence:
   - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
   - [`reviewed-v02-mainline` — V02 frozen mainline character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md)
+  - [`reviewed-v04-institutional` — V04 present: actual ballot and practical accommodation without forced shame](series/watayuri/02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#close-reading)
+  - [`reviewed-v07-mainline` — Mai: reconsideration and a requested meeting under managerial limits](series/watayuri/02%20Sequential%20Readings/WATAYURI_V07_DEEP_READING.md#close-reading)
+  - [`reviewed-v07-manager-short` — Mai: managerial work and ordinary/role-name distinction](series/watayuri/02%20Sequential%20Readings/WATAYURI_V07_DEEP_READING.md#supplements)
 
 ### Mimimi
 
@@ -4801,10 +4881,17 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analytical dimensions: `BEHAVIOR`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - Saionji (en, ALTERNATIVE) — Former cafe role name, explicitly identified with Nene at V04/i055; not an established ordinary surname.
-  - 西園寺 (ja, ORIGINAL_SCRIPT) — Written former cafe role name corresponding to Saionji; ordinary surname remains unverified.
+  - Nishidera Nene (en, TRANSLITERATION) — Ordinary name of the existing Japanese manga Nene subject, explicitly distinguished from former cafe-role Saionji Nene by V07 profile i163; no new identity or backdated V04 name verification.
+  - Saionji Nene (en, TRANSLITERATION) — Full former cafe-role name of the same subject, explicitly distinguished from ordinary Nishidera Nene in V07 profile i163.
+  - 西園寺 (ja, ORIGINAL_SCRIPT) — Written former cafe role name corresponding to Saionji; the ordinary surname was unverified at the V04 identity boundary and is now identified as Nishidera by V07 profile i163.
+  - 西園寺寧々 (ja, ORIGINAL_SCRIPT) — Full written former cafe-role name in V07 profile i163; no ordinary-surname claim is made for Saionji.
+  - 西寺寧々 (ja, ORIGINAL_SCRIPT) — Written ordinary name, read にしでらねね in V07 profile i163; the prior V04 surname-unknown boundary remains historical.
 - Analytical coverage:
-  - `v04-shifts17-18-bounded`: MANGA CHAPTER: V04 Shifts 17-18: the former Saionji sister role, represented earlier cafe relationship and role rupture (i009-i027), and Nene’s present kitchen self-account and advice (i052-i057). Sumika’s recollection and Nene’s own account remain distinct. No V03, later V04 chapters, packaged supplement or V05+ coverage is enrolled.; continuity `watayuri-manga`
+  - `v04-shifts17-18-bounded`: MANGA CHAPTER: V04 Shifts 17-18: the former Saionji sister role, represented earlier cafe relationship and role rupture (i009-i027), and Nene’s present kitchen self-account and advice (i052-i057). Sumika’s recollection and Nene’s own account remain distinct. This entry excludes V03, later V04 chapters, packaged supplement and V05+; the separately enrolled Shift21.5 has its own scope.; continuity `watayuri-manga`
+  - `v04-tea-supplement`: MANGA CHAPTER: Separately bounded V04 Shift21.5/i158-161: current kitchen use of former sister tea and a memory of earlier Tachibana-Saionji selection. Current frame follows dissolution of the old role, but exact placement relative to Shift21/i152 remains OPEN. This does not restore the former pact or advance the mainline endpoint; excludes EX, edition illustration and V05+.; continuity `watayuri-manga`
 - Reviewed current evidence:
+  - [`reviewed-v04-tea-supplement` — V04 Shift21.5: former sister tea, current work and bounded continuing care](series/watayuri/02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#supplements)
+  - [`reviewed-v07-name-witness` — Nene: edition-profile ordinary and former role names only](series/watayuri/02%20Sequential%20Readings/WATAYURI_V07_DEEP_READING.md#supplements)
   - [`v04-bounded-history-and-self-account` — Volume 4: Nene’s historical role, chosen relationship and response to protective control](series/watayuri/02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#close-reading)
 
 ### Nene
@@ -6045,15 +6132,25 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `watayuri`
 - Continuity: `watayuri-manga`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
   - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
   - `v02-mainline`: MANGA VOLUME: Substantial character-specific analysis within V02 mainline Shifts 07-11 through image i156, including retrospective childhood and present states without backdating knowledge. This is an analytical horizon, not appearances in every scene. Separately packaged Shift 11.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+  - `v03-present`: MANGA CHAPTER: V03 mainline present-day material in Shifts12-16 throughi118, including character-specific argument and its distributed retrieval sections. Excludes school retrospectivei119-156, separate Shift16.5, edition paratext and V04+; no continuous V01-V07 coverage is implied.; continuity `watayuri-manga`
+  - `v03-school-retrospective`: MANGA CHAPTER: V03 Shift16 school retrospectivei119-156: earlier refuge, sign incident and friendship origin. This source-new earlier episode is not present-day continuation or a post-V02 recurrence. Excludes Shift16.5 and later source units.; continuity `watayuri-manga`
+  - `v03-school-short`: MANGA CHAPTER: Separately bounded V03 Shift16.5/i158-161 school-period follow-through after the sign episode, not post-i118 present-day action. One Hime-initiated photograph is permitted; no blanket permission for later photography, inspection or sleeping intimacy follows. Edition paratext excluded.; continuity `watayuri-manga`
+  - `v04-present`: MANGA CHAPTER: Substantial character-specific V04 present-day analysis within Shifts17-21 throughi152. Embedded earlier cafe historyi009-027 is separately scoped; recalled school imageryi101-103 is not a current Hime arrival. Excludes EX/i154-157, Shift21.5/i158-161, paratext and V05+; no continuous V01-V07 coverage is implied.; continuity `watayuri-manga`
+  - `v07-mainline`: MANGA VOLUME: Substantial character-specific analysis within Japanese V07 mainline Shifts 32-36 through image i150. Retrospectively presented V06 events retain V07 reception/knowledge status rather than becoming repeated events or backdated consent. This describes the analytical horizon, not appearances in every scene. Unenrolled V05/V06 scopes remain gaps; V04 coverage is limited to its separately enrolled scopes; separately packaged shorts and edition witnesses are outside this mainline scope. No V08+, completed birthday performance, ordinary-work resumption, reciprocal romance or reconstruction capability is inferred.; continuity `watayuri-manga`
 - Reviewed current evidence:
   - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
   - [`reviewed-v02-mainline` — V02 frozen mainline character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md)
+  - [`reviewed-v03-present` — V03 present: particular endorsement, shared joy and willing participation](series/watayuri/02%20Sequential%20Readings/WATAYURI_V03_DEEP_READING.md#close-reading)
+  - [`reviewed-v03-school-retrospective` — V03 earlier school: protective deception and chosen private disclosure](series/watayuri/02%20Sequential%20Readings/WATAYURI_V03_DEEP_READING.md#close-reading)
+  - [`reviewed-v03-school-short` — V03 Shift16.5: practiced response and specifically permitted photograph](series/watayuri/02%20Sequential%20Readings/WATAYURI_V03_DEEP_READING.md#supplement)
+  - [`reviewed-v04-present` — V04 present: incompletely informed care and corrected clothing intervention](series/watayuri/02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#close-reading)
+  - [`reviewed-v07-mainline` — Hime: nonromantic liking, truthful refusal and continuing costs](series/watayuri/02%20Sequential%20Readings/WATAYURI_V07_DEEP_READING.md#close-reading)
 
 ### Shiratori Tomoe
 
@@ -6181,7 +6278,7 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Analytical coverage:
   - `commit-pinned-textual-scope`: GAME QUEST: Reviewed current active-provisional character profile over the declared 3.6.0 semantic source commit 353f2eaed119bc9f680eab92807d20ac75a79b40. Chinese is primary; localization witnesses and optional branches retain their stated limits. No unrestricted full-game coverage, future-patch update or new primary-source inspection is claimed.; continuity `wuthering-waves-game`
 - Reviewed current evidence:
-  - [`reviewed-dedicated-profile` — Sigrika bounded reconstructive profile](series/wuthering-waves/04%20Character%20Analysis/Sigrika/WUWA_SIGRIKA_RECONSTRUCTIVE_PROFILE_PRE_AV.md) — **active provisional authority**
+  - [`reviewed-dedicated-profile` — Sigrika bounded reconstructive profile](series/wuthering-waves/04%20Character%20Analysis/Sigrika/02%20Reconstruction/WUWA_SIGRIKA_RECONSTRUCTIVE_PROFILE_PRE_AV.md) — **active provisional authority**
 
 ### Sir Nighteye
 
@@ -6377,15 +6474,28 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `watayuri`
 - Continuity: `watayuri-manga`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
-  - _None._
+  - Chibana Sumika (en, TRANSLITERATION) — Verified ordinary name of the same manga subject, first eligible in V03/i058 (sections3.2,8INF03,11JP05 and15); Tachibana Sumika is the cafe identity. Do not backdate the ordinary-name verification into V01/V02.
+  - 知花純加 (ja, ORIGINAL_SCRIPT) — Verified ordinary written name at V03/i058; the cafe surname is 橘. Same subject, not a second character or an inferred cross-continuity identity.
 - Analytical coverage:
   - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
   - `v02-mainline`: MANGA VOLUME: Substantial character-specific analysis within V02 mainline Shifts 07-11 through image i156, including retrospective childhood and present states without backdating knowledge. This is an analytical horizon, not appearances in every scene. Separately packaged Shift 11.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+  - `v03-present`: MANGA CHAPTER: V03 mainline present-day material in Shifts12-16 throughi118, including character-specific argument and its distributed retrieval sections. Excludes school retrospectivei119-156, separate Shift16.5, edition paratext and V04+; no continuous V01-V07 coverage is implied.; continuity `watayuri-manga`
+  - `v04-earlier-cafe`: MANGA CHAPTER: Separately bounded V04 Shift17/i009-027 earlier cafe relationship and sister-role rupture as represented through Sumika's involved retrospective account. Present narration does not make these present-day events or backdate later self-accounts. Excludes later V04 present scenes, Shift21.5, illustration and V05+; fine relationship-onset timing and full Goeido motives remain unresolved.; continuity `watayuri-manga`
+  - `v04-present`: MANGA CHAPTER: Substantial character-specific V04 present-day analysis within Shifts17-21 throughi152. Embedded earlier cafe historyi009-027 is separately scoped; recalled school imageryi101-103 is not a current Hime arrival. Excludes EX/i154-157, Shift21.5/i158-161, paratext and V05+; no continuous V01-V07 coverage is implied.; continuity `watayuri-manga`
+  - `v04-tea-supplement`: MANGA CHAPTER: Separately bounded V04 Shift21.5/i158-161: current kitchen use of former sister tea and a memory of earlier Tachibana-Saionji selection. Current frame follows dissolution of the old role, but exact placement relative to Shift21/i152 remains OPEN. This does not restore the former pact or advance the mainline endpoint; excludes EX, edition illustration and V05+.; continuity `watayuri-manga`
+  - `v07-mainline`: MANGA VOLUME: Substantial character-specific analysis within Japanese V07 mainline Shifts 32-36 through image i150. Retrospectively presented V06 events retain V07 reception/knowledge status rather than becoming repeated events or backdated consent. This describes the analytical horizon, not appearances in every scene. Unenrolled V05/V06 scopes remain gaps; V04 coverage is limited to its separately enrolled scopes; separately packaged shorts and edition witnesses are outside this mainline scope. No V08+, completed birthday performance, ordinary-work resumption, reciprocal romance or reconstruction capability is inferred.; continuity `watayuri-manga`
+  - `v07-shift36-1`: MANGA CHAPTER: Separately bounded V07 Shift 36.1, images i152-i157: Sumika and Kanoko during unresolved confession/intervention period. Exact insertion is open; this is not a post-i150 scene, reciprocal-romance declaration or resolved support outcome.; continuity `watayuri-manga`
 - Reviewed current evidence:
   - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
   - [`reviewed-v02-mainline` — V02 frozen mainline character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md)
+  - [`reviewed-v03-present` — V03 present: genuine reading, remembered loss and fallible protective intervention](series/watayuri/02%20Sequential%20Readings/WATAYURI_V03_DEEP_READING.md#close-reading)
+  - [`reviewed-v04-earlier-cafe` — V04 earlier cafe: situated loss account and attempted assent](series/watayuri/02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#close-reading)
+  - [`reviewed-v04-present` — V04 present: corrected prohibition, bounded companionship and a different public rule](series/watayuri/02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#close-reading)
+  - [`reviewed-v04-tea-supplement` — V04 Shift21.5: earlier elder-sister role and current received attention](series/watayuri/02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#supplements)
+  - [`reviewed-v07-mainline` — Sumika: bounded support, privacy and intervention limits](series/watayuri/02%20Sequential%20Readings/WATAYURI_V07_DEEP_READING.md#close-reading)
+  - [`reviewed-v07-sumika-short` — Sumika: assumptions within the listener role](series/watayuri/02%20Sequential%20Readings/WATAYURI_V07_DEEP_READING.md#supplements)
 
 ### Tadokoro Megumi
 
@@ -6467,6 +6577,26 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - `takao-reviewed-corpus`: GAME OTHER: Reviewed character monograph over the pinned Azur Lane multilingual extracted corpus, with CN semantic authority and explicitly bounded regional, relationship, memory, and performed-voice evidence.; continuity `azur-lane-mobile-game`
 - Reviewed current evidence:
   - [`azur-lane-takao-character-monograph` — AZUR LANE TAKAO CHARACTER MONOGRAPH](series/azur-lane/03%20Character%20Reconstruction/TAKAO_30311/AZUR_LANE_TAKAO_CHARACTER_MONOGRAPH.md)
+
+### Takeda
+
+- Entity ID: `ntr-netsuzou-trap:takeda`
+- Entity aliases:
+  - _None._
+
+#### Subject: Japanese manga mainline
+
+- Analysis subject ID: `ntr-netsuzou-trap:takeda@manga`
+- Series: `ntr-netsuzou-trap`
+- Continuity: `ntr-netsuzou-trap-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `mainline-v01-v06`: MANGA VOLUME 1–6 (inclusive); continuity `ntr-netsuzou-trap-manga`
+- Reviewed current evidence:
+  - [`reviewed-mainline-monograph` — Mainline character monograph (V01–V06)](series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_TAKEDA_MONOGRAPH.md) — **active provisional authority**
 
 ### Takeda Miho
 
@@ -7111,15 +7241,21 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
 - Series: `watayuri`
 - Continuity: `watayuri-manga`
 - Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
   - `v01-mainline`: MANGA VOLUME: Substantial character-specific analysis within V01 mainline Shifts 01–06 through image i156. This describes the analytical horizon, not appearances in every scene. Childhood material retains Hime-focalized memory status; cafe roles and private relations remain distinct. Packaged Shift 6.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
   - `v02-mainline`: MANGA VOLUME: Substantial character-specific analysis within V02 mainline Shifts 07-11 through image i156, including retrospective childhood and present states without backdating knowledge. This is an analytical horizon, not appearances in every scene. Separately packaged Shift 11.5, paratext, later volumes and adaptation performance are outside this enrolled scope.; continuity `watayuri-manga`
+  - `v03-present`: MANGA CHAPTER: V03 mainline present-day material in Shifts12-16 throughi118, including character-specific argument and its distributed retrieval sections. Excludes school retrospectivei119-156, separate Shift16.5, edition paratext and V04+; no continuous V01-V07 coverage is implied.; continuity `watayuri-manga`
+  - `v04-present`: MANGA CHAPTER: V04 character-specific current analysis in Shift19/i063 (actual ballot) and Shift21/i130-152 (summer presentation, service and speech repair). This is not appearance coverage for every intervening chapter. Earlier cafe history, EX, Shift21.5, paratext and V05+ are excluded.; continuity `watayuri-manga`
+  - `v07-mainline`: MANGA VOLUME: Substantial character-specific analysis within Japanese V07 mainline Shifts 32-36 through image i150. Retrospectively presented V06 events retain V07 reception/knowledge status rather than becoming repeated events or backdated consent. This describes the analytical horizon, not appearances in every scene. Unenrolled V05/V06 scopes remain gaps; V04 coverage is limited to its separately enrolled scopes; separately packaged shorts and edition witnesses are outside this mainline scope. No V08+, completed birthday performance, ordinary-work resumption, reciprocal romance or reconstruction capability is inferred.; continuity `watayuri-manga`
 - Reviewed current evidence:
   - [`reviewed-v01` — V01 frozen character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md)
   - [`reviewed-v02-mainline` — V02 frozen mainline character analysis](series/watayuri/02%20Sequential%20Readings/WATAYURI_V02_DEEP_READING.md)
+  - [`reviewed-v03-present` — V03 present: role criteria and less explicit attachment explanation](series/watayuri/02%20Sequential%20Readings/WATAYURI_V03_DEEP_READING.md#close-reading)
+  - [`reviewed-v04-present` — V04 present: reciprocal ballot, presentation preference and unequal pragmatic understanding](series/watayuri/02%20Sequential%20Readings/WATAYURI_V04_DEEP_READING.md#close-reading)
+  - [`reviewed-v07-mainline` — Mitsuki: seeking an answer without controlling its consequences](series/watayuri/02%20Sequential%20Readings/WATAYURI_V07_DEEP_READING.md#close-reading)
 
 ### Yaoyorozu Momo
 
@@ -7314,6 +7450,28 @@ This discovery surface answers: “Where is substantial, reviewed analysis of th
   - [`causal-state-ledger` — Character decisions, causal transitions and chronology limits](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md)
   - [`claim-evidence-ledger` — Bounded individual interpretations, counterevidence and unresolved obligations](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md)
   - [`entity-state-ledger` — Individual identity, character, knowledge and directional relationship states](series/tokyo-7th-sisters/03%20Longitudinal%20Ledgers/T7S_ENTITY_STATE_LEDGER.md)
+
+### Yuma Okazaki
+
+- Entity ID: `ntr-netsuzou-trap:yuma-okazaki`
+- Entity aliases:
+  - _None._
+
+#### Subject: Japanese manga continuity
+
+- Analysis subject ID: `ntr-netsuzou-trap:yuma-okazaki@manga`
+- Series: `ntr-netsuzou-trap`
+- Continuity: `ntr-netsuzou-trap-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `latewinter-afterstory`: MANGA OTHER: Reviewed substantial character argument in the separately admitted NTR-JP-LW afterstory, principally S0005-S0020/I01: Ordinary friends/care disagreement, wider-welfare wish qualified by loneliness, withheld concern and later partial-recognition testimony; no retroactive complete knowledge or consent. Not V07, an adult parallel continuity, or continuous numbered-volume expansion; not exhaustive character/corpus coverage.; continuity `ntr-netsuzou-trap-manga`
+  - `mainline-v01-v06`: MANGA VOLUME 1–6 (inclusive); continuity `ntr-netsuzou-trap-manga`
+- Reviewed current evidence:
+  - [`reviewed-latewinter-addendum` — LateWinter scoped character addendum (NTR-JP-LW)](series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_LATEWINTER_CHARACTER_ADDENDA.md)
+  - [`reviewed-mainline-monograph` — Mainline character monograph (V01–V06)](series/ntr-netsuzou-trap/04%20Character%20Analysis/NTR_YUMA_MONOGRAPH.md) — **active provisional authority**
 
 ### Yuuka
 

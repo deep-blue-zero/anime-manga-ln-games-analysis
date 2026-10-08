@@ -29,5 +29,21 @@
       "sequential reading",
       "source facing reading"
     ]
+  },
+  "terminal_closures": {
+    "series/ntr-netsuzou-trap/": {
+      "canonical_entrypoint": "series/ntr-netsuzou-trap/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "completion_commit": "b5d0b44dbd50f588cdc3f9ce8357dae1605c246b",
+      "supplemental_execution_required": true,
+      "frozen_sequential_artifacts": {
+        "series/ntr-netsuzou-trap/01 Sequential Readings/NTR_V01_DEEP_READING.md": "38a89a55968536be446df0c8e0a54edf95230ae8e7dad77ab462607276d0d4db",
+        "series/ntr-netsuzou-trap/01 Sequential Readings/NTR_V02_DEEP_READING.md": "5f03a2bb9215bcdd8d27d545dc8996f548d3c546a275f9d8e35a0ce60e87016f",
+        "series/ntr-netsuzou-trap/01 Sequential Readings/NTR_V03_DEEP_READING.md": "d972cd06b8126ee75c0e177ee903f08926ad0c42c6664ff779a145a2380cee53",
+        "series/ntr-netsuzou-trap/01 Sequential Readings/NTR_V04_DEEP_READING.md": "7dc9cd7b0a5decf29644a5916f79d0e50eed50eda321775c669d8644db72188a",
+        "series/ntr-netsuzou-trap/01 Sequential Readings/NTR_V05_DEEP_READING.md": "d706251f42101c3f0c811fd19e495203ff8a24798cc083510cef5110ea4779a7",
+        "series/ntr-netsuzou-trap/01 Sequential Readings/NTR_V06_DEEP_READING.md": "fdff17454ecd965c329f919cc126be37cfbd69818f260d43869412ddaa3c6503",
+        "series/ntr-netsuzou-trap/02 Supplemental Readings/NTR_LATEWINTER_DEEP_READING.md": "f43851e86a2d289b047fbef17279a45b0562d75d9cd167c5591b96530d8b267d"
+      }
+    }
   }
 }
