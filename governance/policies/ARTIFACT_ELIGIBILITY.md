@@ -27,6 +27,17 @@ The following single exception is approved for the G4 P02 large-structured bound
 
 The ledger is retained because its source-to-bundle relationships are directly queryable analytical provenance; an external-only pointer would make the migrated analyses materially harder to interpret and audit. This is not a general CSV, Idoly Pride, BOM, CRLF, or size-threshold exception.
 
+## Blue Archive Cycle007 exact text derivatives
+
+The separate [ROOT exact size/content review record](../reports/storage-decisions/BLUE_ARCHIVE_CYCLE007_EXACT_TWO_TEXT_DERIVATIVE_SIZE_CONTENT_REVIEW_V1.json) records review decision `ROOT_CYCLE007_EXACT_MAIN_CSV_REVIEW_20261007_V1` for these two scoped derivatives. ROOT actually read every changed semantic literal and verified every final byte; unchanged incumbent content is inherited through verified beforeimages and historical review boundaries. This records the exact content/size disposition; installation, source admission, publication and merge remain separate.
+
+| Repository path | Bytes | SHA-256 | Review decision | Encoding allowance |
+|---|---:|---|---|---|
+| `series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md` | 1,135,497 | `396168a919bab2e2f7dfc865c29d10a107ea0e5ac045230ec16f3943ca915059` | `ROOT_CYCLE007_EXACT_MAIN_CSV_REVIEW_20261007_V1` | Strict UTF-8/LF; `allow_utf8_bom=false`, `allow_carriage_returns=false`. |
+| `series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv` | 1,076,962 | `0b4c0034e9c9b0bb1f7c3298c54df3735841b614cf1871b755c9633fd2ab6bcf` | `ROOT_CYCLE007_EXACT_MAIN_CSV_REVIEW_20261007_V1` | Strict UTF-8/LF; `allow_utf8_bom=false`, `allow_carriage_returns=false`. |
+
+Both are size-only exceptions. A one-byte or one-bit change revokes the corresponding exact exception. They retain locally queryable authored coverage and source-to-analysis/admission relationships that an external-only pointer would remove. The review grants no upstream rights or rights to unadmitted Event812 bodies; third-party exclusions remain governing. No source-media, bulk primary narrative, raw-transcript, general CSV, directory-wide or path-wide permission is created. Secret, publication-hazard, NUL and strict UTF-8 validation remain mandatory. The 1 MiB review, 10 MiB generated-structured default-external and 25 MiB hard-exception thresholds remain unchanged. The G4 Idoly Pride tuple and its narrow BOM/CR allowances above remain unchanged.
+
 ## Native Google Sheet representation contract
 
 Native Google Sheets remain controlled Drive authoring surfaces. Under the approved X1 disposition, a reviewed revision may be represented in Git by UTF-8/LF TSV projections plus a machine-readable structure manifest after source revision, workbook structure, tab dimensions, and exact committed bytes are verified. The proprietary XLSX export remains `REFERENCE_DRIVE`; Git LFS is not used for it.

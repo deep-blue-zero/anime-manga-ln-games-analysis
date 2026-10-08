@@ -1,0 +1,64 @@
+{
+  "schema": "BLUE_ARCHIVE_CYCLE007_EXACT_TWO_TEXT_DERIVATIVE_SIZE_CONTENT_REVIEW_V1",
+  "review_id": "ROOT_CYCLE007_EXACT_MAIN_CSV_REVIEW_20261007_V1",
+  "date": "2026-10-07",
+  "reviewer": "ROOT receiving analytical integrator, owner-authorized Codex Phase2 task",
+  "decision": "ROOT_APPROVED_EXACT_TWO_SCOPED_TEXT_DERIVATIVES_CONTENT_AND_SIZE_REVIEW; MAINTENANCE_ACTIVATION_PENDING",
+  "scope": "Exactly the two path/length/SHA256/Git-blob tuples below; no path-wide allowance or future-version approval",
+  "current_repository_basis": "eabe3c8b29067eacc77b32aa4b98230ed0220112",
+  "final58_proposal_seal_sha256": "0e2faf44bce5345a0c41017a92430304b56c53433dc9ff8eb925bf3f33da8c03",
+  "final58_manifest_sha256": "7467855fbe27a075af22141ba03f89d43d226b22b50f7bee4cca0782daf55772",
+  "review_extent": {
+    "semantic": "Every actual changed analytical literal in original current58 and separate control delta, completely read; every changed MAIN/CSV literal and all53 complete changed CSV rows included. Unchanged incumbent content inherited through exact verified beforeimages and its historical review boundary, not claimed as newly human-read in full.",
+    "integrity": "Actual complete final bytes, lengths, SHA256/Git blobs, strictUTF8LF/noBOM/NUL, exact source-copy composition and all681 forward/inverse operations checked;17-column3682-row CSV,53 changed and3629 unchanged raw records.",
+    "rights_content": "The reviewed new content is repository-authored analysis, bounded paraphrase, source identifiers, analytical routes and structural provenance. No new bulk primary narrative transcript, source-media object or acquisition evidence is introduced in these two derivatives. Quoted source words, franchises, names/marks and all third-party material remain excluded from the repository license. This decision grants no upstream source rights or rights to unadmitted original Event812 bodies."
+  },
+  "artifacts": [
+    {
+      "ordinal": 16,
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md",
+      "bytes": 1135497,
+      "sha256": "396168a919bab2e2f7dfc865c29d10a107ea0e5ac045230ec16f3943ca915059",
+      "git_blob_sha1": "9c5092b9acef2be98c72850e7f55d52ca5a7033a",
+      "exception_id": "BLUE_ARCHIVE_CYCLE007_MAIN_COVERAGE_396168A9",
+      "allow_utf8_bom": false,
+      "allow_carriage_returns": false,
+      "purpose": "Directly queryable authored coverage index with scoped supplemental source annotations and keyed subject readiness.",
+      "rights_basis": "Repository-authored analysis, bounded paraphrase, source identifiers, analytical routing and structural provenance; upstream quoted/source/asset/mark rights excluded and not newly granted.",
+      "review_decision": "ROOT_CYCLE007_EXACT_MAIN_CSV_REVIEW_20261007_V1",
+      "external_reference_insufficient": "An external pointer omits the locally queryable subject/source relationships, conditional coverage boundaries and readiness routes required to inspect and audit the analysis."
+    },
+    {
+      "ordinal": 19,
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv",
+      "bytes": 1076962,
+      "sha256": "0b4c0034e9c9b0bb1f7c3298c54df3735841b614cf1871b755c9633fd2ab6bcf",
+      "git_blob_sha1": "58fdd0bdabe6928213d93ce64e48c807edd7f7d5",
+      "exception_id": "BLUE_ARCHIVE_CYCLE007_SUPPLEMENTAL_CROSSWALK_0B4C0034",
+      "allow_utf8_bom": false,
+      "allow_carriage_returns": false,
+      "purpose": "Directly queryable supplemental source-to-analysis and admission crosswalk with exact scoped Cycle007 joins.",
+      "rights_basis": "Repository-authored analysis, bounded paraphrase, source identifiers, analytical routing and structural provenance; upstream quoted/source/asset/mark rights excluded and not newly granted.",
+      "review_decision": "ROOT_CYCLE007_EXACT_MAIN_CSV_REVIEW_20261007_V1",
+      "external_reference_insufficient": "An external pointer removes local source identity, owner, admission, chronology, attribution and priority joins needed for ordinary repository queries and reproducible audits."
+    }
+  ],
+  "preserved_caps_bytes": {
+    "review_threshold": 1048576,
+    "generated_structured_default_external": 10485760,
+    "hard_exception_threshold": 26214400
+  },
+  "activation_contract": "Maintenance must bind these exact bytes in the four reserved controls and its actual separate review receipt; synchronized policy/test/artifact tuples and applicable full control validation required. One-byte/one-bit drift revokes each exact exception. No cap or non-Blue-Archive control relaxation.",
+  "current_admissions_subjects": [
+    213,
+    516
+  ],
+  "prospective_admissions_subjects": [
+    266,
+    540
+  ],
+  "actual_installation_or_source_admission_delta": 0,
+  "Event812": "All15 UNADMITTED/outside53; original contributor, prior distinct allocation and rights UNKNOWN; receiving completion creates no publication entitlement.",
+  "merge_approval": "RESERVED",
+  "public_candidate_record_only": true
+}

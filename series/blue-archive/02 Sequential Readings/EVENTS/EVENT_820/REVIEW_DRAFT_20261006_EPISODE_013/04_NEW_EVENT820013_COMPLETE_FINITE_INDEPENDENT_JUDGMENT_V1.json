@@ -1,0 +1,1000 @@
+{
+  "series": "Blue Archive",
+  "status": "draft_noncurrent",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": true,
+  "source_admission": "UNADMITTED",
+  "publication_review_state": "author_and_sole_distinct_second_complete_supported_with_limits",
+  "publication_snapshot": "20261006_EVENT820013",
+  "artifact_type": "source_bounded_analytical_review_draft",
+  "source_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+  "source_generation": "BA_REFRESH_20260928T032248159554Z",
+  "publication_role": "independent_second",
+  "publication_order": 4
+,
+
+  "scope": {
+    "episode": "BA:event:820:013",
+    "reviewer": "/root/shun_root_unread_plan",
+    "sole_distinct_second": true,
+    "judgment": "SUPPORTED_WITH_LIMITS",
+    "source_native_raw_AV_current_credit": 0,
+    "original_author": "/root"
+  },
+  "category_names": {
+    "C": "Source-local substantive claims with positive scope and counterpressure.",
+    "E": "Thematic encounters in represented native order, separate from native scene count.",
+    "P": "Presentation, provenance and positional interpretation judgments.",
+    "F": "Positive locally fulfilled/achieved or explicitly attributed outcomes.",
+    "O": "Selected-source nonestablishment and omission boundaries, without global absence claims.",
+    "Q": "Prospective claim-specific questions, not an executed new allocation.",
+    "L": "Finite limits on attribution, locale, mode, runtime, chronology and authority."
+  },
+  "C": [
+    {
+      "id": "C01",
+      "U": [
+        1,
+        10
+      ],
+      "positive": "Fuuka's self-assurance and Haruna's strain assessment coexist.",
+      "counterpressure": "Fuuka saying she is all right does not erase the attributed appearance of burden; that appearance is not clinical diagnosis.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C02",
+      "U": [
+        4,
+        5,
+        21,
+        23,
+        27
+      ],
+      "positive": "Rest is accepted or proposed, departure is reported, and finding Fuuka is reported achieved.",
+      "counterpressure": "JP departure qualification remains weaker than KR; rest duration, completed return and wider recovery are not shown.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C03",
+      "U": [
+        18,
+        28,
+        34,
+        36,
+        37
+      ],
+      "positive": "Guidance, questions and accepted delegation are positive local coordination.",
+      "counterpressure": "Acceptance qualified by Teacher's insistence is not unrestricted free consent or completed success.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C04",
+      "U": [
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "positive": "Fuuka's rooftop comfort and care through a rest request are intrinsic ordinary evidence.",
+      "counterpressure": "Native location remains EMPTY, and promised return to work is not completed here.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C05",
+      "U": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "positive": "Akari is named in a represented information chain, with assent completing the local explanation.",
+      "counterpressure": "Raw naming does not add an Akari native speaking binding or independently prove the reported prior conversation.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C06",
+      "U": [
+        55,
+        61,
+        68,
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "positive": "Fuuka positively cares about workers, cafeteria students and opponents.",
+      "counterpressure": "Care remains eligible without successful intervention; broad solidarity or resolved conflict is not inferred.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C07",
+      "U": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        71
+      ],
+      "positive": "Employment, distribution and service consequences are contemplated conditionally.",
+      "counterpressure": "No dismissal, austerity trigger, confirmed job loss or measured economic remedy is shown.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C08",
+      "U": [
+        62,
+        63,
+        64
+      ],
+      "positive": "Different merchant attitudes and perceived pressure are explicitly acknowledged.",
+      "counterpressure": "Some merchants are not every merchant; felt looks or signals are not invented spoken accusations.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C09",
+      "U": [
+        65,
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "positive": "Haruna prefers change; burden-themed banter and Fuuka's care motive remain positive.",
+      "counterpressure": "JP frequent versus KR occasional burden differs; laughter does not establish malice, pretense or a clinical response.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C10",
+      "U": [
+        79,
+        80,
+        81,
+        82
+      ],
+      "positive": "Sacrifice reasoning and resolve are represented alongside assent.",
+      "counterpressure": "N079 native Fuuka/raw spoken Haruna remains a speaking seam; prospective sacrifice is not performed destruction.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C11",
+      "U": [
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89
+      ],
+      "positive": "Character-narration compares unequal contingent losses.",
+      "counterpressure": "Attributed thoughts and conditional certainty do not remove defeat conditions or prove objective universal stakes.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C12",
+      "U": [
+        90,
+        91,
+        92
+      ],
+      "positive": "Haruna uses food-based concern to widen the threatened loss beyond the proprietor.",
+      "counterpressure": "JP current-victim and KR potential-victim wording differ; gourmet/right evaluation is not an objective rating.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C13",
+      "U": [
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99
+      ],
+      "positive": "Laughter, familiarity, courtesy and recognized seriousness are positive relationship evidence.",
+      "counterpressure": "No romance label, hidden intention, measured sound or guaranteed agreement is supplied.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C14",
+      "U": [
+        100,
+        101,
+        102,
+        103,
+        104,
+        105
+      ],
+      "positive": "Haruna assesses Fuuka's opportunity, and Fuuka pledges effort.",
+      "counterpressure": "Capacity remains attributed and uncalibrated; N103 speaker seam and later victory remain unresolved.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C15",
+      "U": [
+        106,
+        107,
+        108,
+        109
+      ],
+      "positive": "The hidden Teacher is recognized or queried, with a printed Teacher response supporting humor.",
+      "counterpressure": "JP names Teacher more specifically than KR; no completed emergence, supernatural sensing or wider causality is proven.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C16",
+      "U": [
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ],
+      "positive": "Cooking, completed JP pickling, ongoing KR drying, successful shrimp and completed carrot cutting are positive craft/work evidence.",
+      "counterpressure": "Ingredient and handling instructions differ; KR drying is not completed drying, and no complete 100-box result is supplied.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C17",
+      "U": [
+        121,
+        122,
+        123
+      ],
+      "positive": "Tasting/work jokes, appetite, cooperative support and present happiness are intrinsic positives.",
+      "counterpressure": "N121 native Izumi/raw Akari remains unresolved; hauling and daily-eating wishes are future or counterfactual.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "C18",
+      "U": [
+        124,
+        125,
+        126,
+        127,
+        128,
+        129
+      ],
+      "positive": "Operating lines and overtime are positively reported in workplace coordination.",
+      "counterpressure": "Reports and Kan's production values do not measure capacity, pay, consent, lawful conditions or delivered outputs.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    }
+  ],
+  "E": [
+    {
+      "id": "E01",
+      "U_range": [
+        1,
+        5
+      ],
+      "title": "Fuuka's burden and a caring rest proposal",
+      "limit": "The accepted or proposed respite remains distinct from completed recovery.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "E02",
+      "U_range": [
+        6,
+        19
+      ],
+      "title": "Teacher and Haruna discuss useful support",
+      "limit": "Questions, interpretation and resolve do not certify the later intervention.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "E03",
+      "U_range": [
+        20,
+        27
+      ],
+      "title": "Juri's information leads to reported locating",
+      "limit": "Tentative location and qualified departure are retained alongside positive finding.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "E04",
+      "U_range": [
+        28,
+        41
+      ],
+      "title": "Assignment and respectful rooftop approach",
+      "limit": "Acceptance and information confirmation remain local, with no generalized consent inference.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "E05",
+      "U_range": [
+        42,
+        46
+      ],
+      "title": "Rest request and rooftop routine",
+      "limit": "Fuuka's calming ordinary preference stays substantive, and promised return stays prospective.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "E06",
+      "U_range": [
+        47,
+        54
+      ],
+      "title": "Aversion and the acquired information chain",
+      "limit": "Knowledge claims are attributed; disagreement is not silently normalized across locales.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "E07",
+      "U_range": [
+        55,
+        64
+      ],
+      "title": "Conditional worker and merchant consequences",
+      "limit": "Projected losses differ by JP/KR and are not completed economic effects.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "E08",
+      "U_range": [
+        65,
+        82
+      ],
+      "title": "Care motive, change preference and sacrifice reasoning",
+      "limit": "Care and resolve are positive despite the unresolved N079 speaking seam.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "E09",
+      "U_range": [
+        83,
+        92
+      ],
+      "title": "Attributed unequal stakes and food-based concern",
+      "limit": "Character-narration and defeat conditions remain distinct from completed universal harm.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "E10",
+      "U_range": [
+        93,
+        109
+      ],
+      "title": "Warmth, recognized skill, resolve and hidden Teacher",
+      "limit": "Familiarity and humor remain ordinary positives; capacity, identity seams and later victory remain bounded.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "E11",
+      "U_range": [
+        110,
+        120
+      ],
+      "title": "Kitchen craft, gratitude and collective support",
+      "limit": "Completed pickling is JP; KR drying remains ongoing. Specific food achievements do not complete all boxes.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "E12",
+      "U_range": [
+        121,
+        123
+      ],
+      "title": "Appetite, work jokes and happiness",
+      "limit": "Raw/native speaker difference, planned hauling and imagined daily life remain explicit.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "E13",
+      "U_range": [
+        124,
+        129
+      ],
+      "title": "Factory reporting and work authority",
+      "limit": "Achieved operating/overtime reports remain positive without engine, pay, consent or capacity certification.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    }
+  ],
+  "P": [
+    {
+      "id": "P01",
+      "judgment": "Represented dialogue keeps public local speech separate from private/internal and character-narration lanes.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P02",
+      "judgment": "The single native scene is retained;13 thematic encounters are analytical segments rather than new scenes.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P03",
+      "judgment": "All129 source-local addresses are retained with native EMPTY variants and all-empty ruby arrays.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P04",
+      "judgment": "All12 printed groups/all13 options remain complete; G2's alternatives are never merged into one delivered response.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P05",
+      "judgment": "All270 raw eleven-field rows remain covered, including every empty/default position and JP-empty controller.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P06",
+      "judgment": "Every485 ScriptKr line carries an exact decoded UTF8 interval and an independent rule plus row-context target.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P07",
+      "judgment": "Every18 TextJp lexical occurrence remains a written token with a local mode or option role, not runtime evidence.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P08",
+      "judgment": "Written BGM, sound, transition, background and effect cues are positive presentation with no claimed AV execution.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P09",
+      "judgment": "Native Fuuka/raw Haruna at N079 is preserved without selecting a repaired actor.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P10",
+      "judgment": "Native Haruna/raw Fuuka at N103 is preserved while keeping the assent positive.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P11",
+      "judgment": "Native Izumi/raw Akari at N121 is preserved without adding an Akari native person row.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P12",
+      "judgment": "Stage headings and spoken headings have different roles; composite labels do not imply normalized identity.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P13",
+      "judgment": "Publication title/release navigation cannot establish world-year, holiday timing or MAIN chronology.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P14",
+      "judgment": "JP completed pickling and KR current drying are separately positive. Mandatory D01 corrects only the completed-drying implication.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P15",
+      "judgment": "Native EMPTY location is not repaired by dialogue about a roof, kitchen or factory.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P16",
+      "judgment": "Empty voice/popup fields certify local metadata state only, not global absence or heard silence.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P17",
+      "judgment": "Teacher's internal perspectives remain private and fallible, rather than omniscient scene facts.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P18",
+      "judgment": "Haruna/Fuuka character-narration retains attributed reasoning and conditional forecasts.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P19",
+      "judgment": "Repeated raw presentation values need not be fresh changes; written waits do not measure elapsed world time.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P20",
+      "judgment": "Raw selection1/2 at r4218/r4219 is written control metadata with delivery, exclusivity and execution uninspected.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    },
+    {
+      "id": "P21",
+      "judgment": "The exact mandatory D01 follows all18 immutable base parts and preserves every complete unchanged run; no rewritten virtual whole is credited.",
+      "verdict": "SUPPORTED_WITH_LIMITS"
+    }
+  ],
+  "F": [
+    {
+      "id": "F01",
+      "positive": "Reported scooter departure and locating Fuuka are achieved local testimony; JP qualification and physical observation bounds stay attached.",
+      "verdict": "SUPPORTED_AT_REPRESENTED_OR_ATTRIBUTED_SCOPE"
+    },
+    {
+      "id": "F02",
+      "positive": "Haruna's acceptance of delegated support is a fulfilled local agreement, with the printed qualification by Teacher's insistence.",
+      "verdict": "SUPPORTED_AT_REPRESENTED_OR_ATTRIBUTED_SCOPE"
+    },
+    {
+      "id": "F03",
+      "positive": "The information chain names Akari and is acknowledged. It is a fulfilled represented explanation, not independent verification of its earlier event.",
+      "verdict": "SUPPORTED_AT_REPRESENTED_OR_ATTRIBUTED_SCOPE"
+    },
+    {
+      "id": "F04",
+      "positive": "Fuuka's explicit care includes workers and obstructive peers; concern is a positive communicative achievement without needing a later rescue.",
+      "verdict": "SUPPORTED_AT_REPRESENTED_OR_ATTRIBUTED_SCOPE"
+    },
+    {
+      "id": "F05",
+      "positive": "Laughter, familiarity, recognized seriousness and the effort pledge are positive ordinary relationship acts.",
+      "verdict": "SUPPORTED_AT_REPRESENTED_OR_ATTRIBUTED_SCOPE"
+    },
+    {
+      "id": "F06",
+      "positive": "JP completed pickling and both locales' finished shrimp are positive achieved craft; KR current drying is ongoing work.",
+      "verdict": "SUPPORTED_AT_REPRESENTED_OR_ATTRIBUTED_SCOPE"
+    },
+    {
+      "id": "F07",
+      "positive": "Juri's completed carrot cutting and Fuuka's thanks are positive work and gratitude, without a broad skill ranking.",
+      "verdict": "SUPPORTED_AT_REPRESENTED_OR_ATTRIBUTED_SCOPE"
+    },
+    {
+      "id": "F08",
+      "positive": "Current cooperative osechi making is positive support by several groups; tasting humor and present happiness remain positive.",
+      "verdict": "SUPPORTED_AT_REPRESENTED_OR_ATTRIBUTED_SCOPE"
+    },
+    {
+      "id": "F09",
+      "positive": "All operating production lines are positively reported by Helmet E; the report is not a machine inspection by this reviewer.",
+      "verdict": "SUPPORTED_AT_REPRESENTED_OR_ATTRIBUTED_SCOPE"
+    },
+    {
+      "id": "F10",
+      "positive": "Everyone already doing overtime is positively reported, distinct from exact hours, wages, consent or future production completion.",
+      "verdict": "SUPPORTED_AT_REPRESENTED_OR_ATTRIBUTED_SCOPE"
+    }
+  ],
+  "O": [
+    {
+      "id": "O01",
+      "limit": "Later victory is not shown in the selected episode; wider results remain UNKNOWN.",
+      "verdict": "LOCAL_NONESTABLISHMENT_WIDER_UNKNOWN"
+    },
+    {
+      "id": "O02",
+      "limit": "Dismissals, austerity and distribution loss remain projected or possible, not locally completed.",
+      "verdict": "LOCAL_NONESTABLISHMENT_WIDER_UNKNOWN"
+    },
+    {
+      "id": "O03",
+      "limit": "A completed economic remedy or restoration of every threatened store is not supplied.",
+      "verdict": "LOCAL_NONESTABLISHMENT_WIDER_UNKNOWN"
+    },
+    {
+      "id": "O04",
+      "limit": "Consultation's later effect and broad persuasion are not established beyond the actual exchange.",
+      "verdict": "LOCAL_NONESTABLISHMENT_WIDER_UNKNOWN"
+    },
+    {
+      "id": "O05",
+      "limit": "A completed return from rest or a measured recovery is not supplied.",
+      "verdict": "LOCAL_NONESTABLISHMENT_WIDER_UNKNOWN"
+    },
+    {
+      "id": "O06",
+      "limit": "KR drying completion is not supplied; current drying is positive ongoing work, while JP pickling completion is supplied.",
+      "verdict": "LOCAL_NONESTABLISHMENT_WIDER_UNKNOWN"
+    },
+    {
+      "id": "O07",
+      "limit": "Future grilling and differing handling instructions are not completed serving.",
+      "verdict": "LOCAL_NONESTABLISHMENT_WIDER_UNKNOWN"
+    },
+    {
+      "id": "O08",
+      "limit": "All100 boxes are not shown finished merely by current cooperative cooking.",
+      "verdict": "LOCAL_NONESTABLISHMENT_WIDER_UNKNOWN"
+    },
+    {
+      "id": "O09",
+      "limit": "Junko's planned later hauling is not shown completed here.",
+      "verdict": "LOCAL_NONESTABLISHMENT_WIDER_UNKNOWN"
+    },
+    {
+      "id": "O10",
+      "limit": "Daily-eating or every-day-like-today wishes are not fulfilled general living conditions.",
+      "verdict": "LOCAL_NONESTABLISHMENT_WIDER_UNKNOWN"
+    },
+    {
+      "id": "O11",
+      "limit": "Factory capacity, pay, consent, legal conditions and actual delivery are not independently established.",
+      "verdict": "LOCAL_NONESTABLISHMENT_WIDER_UNKNOWN"
+    },
+    {
+      "id": "O12",
+      "limit": "Global chronology, actual MAIN join, AV playback and runtime selection remain UNKNOWN or uninspected; this is not evidence that they never exist.",
+      "verdict": "LOCAL_NONESTABLISHMENT_WIDER_UNKNOWN"
+    }
+  ],
+  "Q": [
+    {
+      "id": "Q01",
+      "question": "What later consequence follows the local pledge or operating report? This selected episode does not supply the wider endpoint.",
+      "status": "PROSPECTIVE_NO_EFFECT"
+    },
+    {
+      "id": "Q02",
+      "question": "Which conditional economic forecasts later occur? Keep the printed conditions until a separately allocated source establishes them.",
+      "status": "PROSPECTIVE_NO_EFFECT"
+    },
+    {
+      "id": "Q03",
+      "question": "Can a specific supporting MAIN claim use this ordinary care, workplace or food-work evidence? Conceptual relevance alone does not establish a literal field effect.",
+      "status": "PROSPECTIVE_NO_EFFECT"
+    },
+    {
+      "id": "Q04",
+      "question": "Which native/raw speaker lane is correct at each of three seams? This review preserves the seam rather than silently repairing it.",
+      "status": "PROSPECTIVE_NO_EFFECT"
+    },
+    {
+      "id": "Q05",
+      "question": "What actual option delivery or runtime execution occurred? Written choices and controls provide no inspected answer.",
+      "status": "PROSPECTIVE_NO_EFFECT"
+    },
+    {
+      "id": "Q06",
+      "question": "Does the KR drying later complete, and are the boxes finished? Current craft and specific completed food reports are already positive; broader outcomes are unresolved.",
+      "status": "PROSPECTIVE_NO_EFFECT"
+    },
+    {
+      "id": "Q07",
+      "question": "How should the JP/KR conditional employment and food-right differences pressure a future claim? They require locale-specific support rather than a flattened translation.",
+      "status": "PROSPECTIVE_NO_EFFECT"
+    },
+    {
+      "id": "Q08",
+      "question": "Which exact future omission-audit obligation this episode addresses remains prospective; no shared model or source-admission change is made.",
+      "status": "PROSPECTIVE_NO_EFFECT"
+    }
+  ],
+  "L": [
+    {
+      "id": "L01",
+      "limit": "Analytical input only: ROOT original305/260238 and native/raw reading credits are attributed, never transferred.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L02",
+      "limit": "All5 unions derive solely from the19 personally displayed analytical caches, not original or fallback files.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L03",
+      "limit": "All4 immutable bases remain byte-identical and precede the mandatory one-part D01.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L04",
+      "limit": "Source intake remains UNADMITTED, with no authority or model promotion.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L05",
+      "limit": "Global/MAIN chronology and actual cross-source lead joins remain UNKNOWN.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L06",
+      "limit": "Publication timestamp and written title cannot establish an in-world year.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L07",
+      "limit": "Native/raw speaking seams are not silently normalized or numerically merged.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L08",
+      "limit": "All EMPTY person/variant/location or voice/popup observations keep their exact local strength.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L09",
+      "limit": "Dialogue, sensei_internal and character_narration retain their separate modes.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L10",
+      "limit": "Questions, requests, possibilities, intent and pledges remain distinct from performed future outcomes.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L11",
+      "limit": "Positive achieved or attributed departure, finding, assent, craft and work reports remain positive at their represented scope.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L12",
+      "limit": "Economic losses and remedies keep their conditions; no objective unemployment or legal conclusion is invented.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L13",
+      "limit": "Skill, emotional strain, sensory recognition and gourmet rating remain testimony or interpretation, not clinical or numerical capacity findings.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L14",
+      "limit": "No AV playback, rendering, engine opcode decoding or causal execution is established.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L15",
+      "limit": "Printed G2 alternatives and raw selection controls supply no inspected exclusivity or delivery.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L16",
+      "limit": "Food ingredients, handling, pickling/drying and future grilling stay locale-specific.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L17",
+      "limit": "Ordinary care, rest, comfort, humor, work, gratitude and appetite have intrinsic eligibility without a stakes threshold.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L18",
+      "limit": "Local nonestablishment of a later endpoint is not objective absence, failure or a reset of older/global history.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L19",
+      "limit": "Current813/815 remain HELD, all12 arcs/all5 duties remain INCOMPLETE, merge RESERVED and all shared/repo/remote effects0.",
+      "verdict": "RETAINED"
+    },
+    {
+      "id": "L20",
+      "limit": "This sole second stops at the sealed small; no later source, synthesis or third review is allocated.",
+      "verdict": "RETAINED"
+    }
+  ],
+  "all9_conceptual_conditional_functions": [
+    {
+      "id": "M01",
+      "label": "Routine work and a calming place",
+      "U": [
+        1,
+        3,
+        42,
+        44,
+        45,
+        46
+      ],
+      "support": "Support a claim about Fuuka's work/rest routine and preferred rooftop comfort.",
+      "counterpressure": "Do not turn self-assurance or strain appearance into a diagnosis, a completed recovery or an added native location.",
+      "status": "CONCEPTUAL_CONDITIONAL_NO_SHARED_FIELD_EFFECT",
+      "actual_MAIN_join": "UNKNOWN"
+    },
+    {
+      "id": "M02",
+      "label": "Peer recognition and delegated support",
+      "U": [
+        8,
+        18,
+        24,
+        25,
+        28,
+        34,
+        36,
+        37,
+        39,
+        41
+      ],
+      "support": "Support local trust, coordination, questions and accepted assignment.",
+      "counterpressure": "Keep Teacher's insistence qualification and printed option/runtime boundary; later success is unestablished.",
+      "status": "CONCEPTUAL_CONDITIONAL_NO_SHARED_FIELD_EFFECT",
+      "actual_MAIN_join": "UNKNOWN"
+    },
+    {
+      "id": "M03",
+      "label": "Information and care across opposition",
+      "U": [
+        51,
+        52,
+        53,
+        55,
+        61,
+        72,
+        74,
+        76
+      ],
+      "support": "Support the represented information chain and Fuuka's positive concern for opponents and workers.",
+      "counterpressure": "The earlier reported conversation and later intervention are not independently verified or completed by this episode.",
+      "status": "CONCEPTUAL_CONDITIONAL_NO_SHARED_FIELD_EFFECT",
+      "actual_MAIN_join": "UNKNOWN"
+    },
+    {
+      "id": "M04",
+      "label": "Conditional employment consequences",
+      "U": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        62,
+        63,
+        71
+      ],
+      "support": "Pressure claims about competing worker/merchant concerns with the explicit conditional and locale-specific forecasts.",
+      "counterpressure": "No completed dismissal, economic remedy, universal merchant stance or spoken accusation is supplied.",
+      "status": "CONCEPTUAL_CONDITIONAL_NO_SHARED_FIELD_EFFECT",
+      "actual_MAIN_join": "UNKNOWN"
+    },
+    {
+      "id": "M05",
+      "label": "Sacrifice and unequal stakes",
+      "U": [
+        79,
+        80,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        90,
+        92
+      ],
+      "support": "Support attributed reasons for resolve and unequal contingent loss.",
+      "counterpressure": "Retain N079 actor seam, character-narration mode, defeat conditions and JP/KR current/potential wording.",
+      "status": "CONCEPTUAL_CONDITIONAL_NO_SHARED_FIELD_EFFECT",
+      "actual_MAIN_join": "UNKNOWN"
+    },
+    {
+      "id": "M06",
+      "label": "Humor, recognition and resolve",
+      "U": [
+        93,
+        95,
+        98,
+        100,
+        101,
+        102,
+        103,
+        104,
+        106,
+        107,
+        109
+      ],
+      "support": "Support ordinary familiarity, skill/opportunity assessments, pledged effort and hidden-Teacher humor.",
+      "counterpressure": "No romance upgrade, calibrated capacity, N103 repair, completed emergence or later victory.",
+      "status": "CONCEPTUAL_CONDITIONAL_NO_SHARED_FIELD_EFFECT",
+      "actual_MAIN_join": "UNKNOWN"
+    },
+    {
+      "id": "M07",
+      "label": "Food craft and cooperative labor",
+      "U": [
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ],
+      "support": "Support ongoing cooking plus specific achieved pickling/shrimp/carrot work, gratitude and collective support.",
+      "counterpressure": "Keep JP completed pickling versus KR current drying, ingredients/instructions and uncompleted100-box scope.",
+      "status": "CONCEPTUAL_CONDITIONAL_NO_SHARED_FIELD_EFFECT",
+      "actual_MAIN_join": "UNKNOWN"
+    },
+    {
+      "id": "M08",
+      "label": "Appetite and support",
+      "U": [
+        121,
+        122,
+        123
+      ],
+      "support": "Support tasting/work jokes, group appetite, present happiness and planned practical support.",
+      "counterpressure": "Retain N121 seam; future hauling and daily-life wishes are not completed endpoints.",
+      "status": "CONCEPTUAL_CONDITIONAL_NO_SHARED_FIELD_EFFECT",
+      "actual_MAIN_join": "UNKNOWN"
+    },
+    {
+      "id": "M09",
+      "label": "Factory operation and work authority",
+      "U": [
+        124,
+        125,
+        126,
+        127,
+        128,
+        129
+      ],
+      "support": "Support attributed line-operation/overtime achievements, workplace coordination and Kan's production values.",
+      "counterpressure": "No direct machine inspection, numerical capacity, worker consent/pay/legal certificate or delivered-output inference.",
+      "status": "CONCEPTUAL_CONDITIONAL_NO_SHARED_FIELD_EFFECT",
+      "actual_MAIN_join": "UNKNOWN"
+    }
+  ],
+  "mandatory_D01": {
+    "dependency": {
+      "path": "external-record:BA-PHASE2-20261006-820013-URI-7034f8d24c90933a",
+      "bytes": 4385,
+      "sha256": "e58d8ab06d0321c9eb6b10890a4e0bc527bba62c5bec637b6df083eb829348eb"
+    },
+    "field": "body4 /C/15/1",
+    "judgment": "SUPPORTED_WITH_LIMITS. Completed pickling is JP; KR current drying is positive ongoing work. The replacement narrows only the completed-drying implication without erasing any positive craft.",
+    "cache_inverse_verification": {
+      "old_bytes": 112,
+      "old_sha256": "976c1d119cc3b3c62855d42e55047ea7fd4ada980bcd4c224dbf1995e31627db",
+      "prefix_bytes": 2086,
+      "prefix_sha256": "28fe0e2aa6cc6fd0a4e5e3f72b549089c8b112518589cdd6fc316ca3f5ef0588",
+      "suffix_bytes": 8526,
+      "suffix_sha256": "7e1f18f798aa0255139bb6f79e388ec2cdfd03a694d4eaaf9083e7af3138e27a",
+      "replacement_bytes": 130,
+      "replacement_sha256": "3454fa6c8c5713d07f3aa0c4657049bb671ef669926c5e806f498c6f3b564373",
+      "all4_base_union_exact": true
+    },
+    "all4_bases_unchanged": true,
+    "virtual_rewritten_whole": false,
+    "read_last_after18_bases": true
+  },
+  "counts": {
+    "C": 18,
+    "E": 13,
+    "P": 21,
+    "F": 10,
+    "O": 12,
+    "Q": 8,
+    "L": 20,
+    "conceptual_functions": 9,
+    "native": 129,
+    "native_positions": 2967,
+    "story26": 26,
+    "scene9": 9,
+    "G": 12,
+    "G_positions": 216,
+    "options": 13,
+    "option_positions": 26,
+    "raw": 270,
+    "raw_positions": 2970,
+    "ScriptKr_lines": 485,
+    "JP_lexical_occurrences": 18,
+    "seams": 3
+  },
+  "author_scope_assessment": "The complete argument, paired/native, raw/presentation and finite functions are supported in their selected analytical scope. No additional producer change or consequential unsupported semantic claim is identified.",
+  "producer_corrections_requested": 0,
+  "remaining_semantic_or_display_debt": 0,
+  "authority": {
+    "intake": "UNADMITTED",
+    "chronology": "UNKNOWN",
+    "authority_counts": "480/213/516/23/493/NONE_UNCHANGED",
+    "all12_all5": "INCOMPLETE",
+    "current813815": "HELD",
+    "merge": "RESERVED",
+    "repo_remote_model_admission_runtime_AV_effects": 0,
+    "older_other_global_history": "UNKNOWN_PRESERVED",
+    "all_prior_positive_personal_closures": "CLOSED_UNALLOCATED_FOR_REPLAY"
+  },
+  "closure_policy": "Only actual first displays confer this analytical credit. Preparation, hashes, transport and foreign author closures confer0 source credit. This sole second ends after its new bounded seal."
+}

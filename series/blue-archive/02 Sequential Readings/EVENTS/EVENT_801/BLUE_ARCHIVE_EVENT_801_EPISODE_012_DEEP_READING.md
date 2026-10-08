@@ -4,21 +4,25 @@ artifact_type: sequential_deep_reading
 scope: EVENT_801_EPISODE_012
 source_story_ids: ["BA:event:801:012"]
 generation: V1
-status: draft_noncurrent
+status: canonical
 source_boundary: "Complete Japanese BA:event:801:012; electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; corpus BA_REFRESH_20260928T032248159554Z; text and declared raw command witnesses; main chronology unresolved"
 source_reading_state: COMPLETE
-supplemental_admission_state: UNADMITTED
+supplemental_admission_state: ADMITTED_WITH_LIMITS
 analytical_priority_proposal: HIGH
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 created: 2026-10-01
-updated: 2026-10-02
-source_admission: UNADMITTED
+updated: 2026-10-07
+source_admission: ADMITTED
 publication_review_state: COMPLETE_WITH_LIMITS
 publication_snapshot: BA_PHASE2_REVIEW_DRAFTS_20261003
 source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8
 source_generation: BA_REFRESH_20260928T032248159554Z
+admission_record: "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_007_CHECKPOINT.md"
+admission_decision_date: 2026-10-07
+admission_scope_qualification: "Exactly the source_story_ids and supported written-source claims of cycle007; chronology, attribution, recipient, contrary evidence and unprinted-outcome limits retained; no model or performed voice"
+historical_body_status_labels: "Retained authoring/review history; current admission is governed by this frontmatter and the cycle007 checkpoint"
 ---
 
 > Review draft — UNADMITTED. The reviewed argument is preserved with its authoring-stage descriptions; current review and publication status are routed through the draft snapshot manifest. Shared admission effects remain pending.

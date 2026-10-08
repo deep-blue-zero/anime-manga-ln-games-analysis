@@ -1,0 +1,201 @@
+{
+  "series": "blue-archive",
+  "status": "draft_noncurrent",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": true,
+  "source_admission": "UNADMITTED",
+  "artifact_type": "source_bounded_analytical_review_draft",
+  "publication_role": "ROOT_PRECISION_LAYER",
+  "publication_scope": "COMPLETE_ROOT_ARGUMENT_ONLY; author and independent bodies are deferred external records; not a recoverable publication of all role bodies",
+  "original_analytical_bytes": 10198,
+  "original_analytical_sha256": "726ab9b7bc6e6b0b421afd7f8d4ee10b551ad1036b4191b5f64a57ca5d83c5af",
+  "source_credit_delta": 0,
+  "admission_delta": 0,
+  "schema": "ROOT_EVENT834102_P01_LOCATED_PAIRED_JUDGMENT_PRECISION_V1",
+  "actor": "/root",
+  "role": "INTEGRATOR_NARROW_CORRECTION_NO_NEW_SECOND_OR_THIRD",
+  "episode": "BA:event:834:102",
+  "order": "Supplied complete independent immutable base and M01 metadata disposition, then this ROOT P01 LAST",
+  "category": "U8–11 and U13–14 local judgment attribution",
+  "base": {
+    "path": "external-record:INDEP834102.01",
+    "bytes": 92732,
+    "sha256": "173a55d85979f6b88dd62ce9a3b19a33b6a7275239d9b3076a03891962862193"
+  },
+  "reason": "Current consequential JP/KR checks found misplaced glosses although native identifiers and the author findings were correct. U8 imported U9 contrast; U9 imported U10 purposes; U10 imported U11 wrapping; U11 invented urgency clarification; U14 mislocated opening, which both locales narrate in U13. U13 is made explicit to preserve the achieved receipt and opening.",
+  "evidence": {
+    "consequential_current_primary_ROOT_read_receipt": "6c100b",
+    "targeted_current_author_findings_ROOT_read_receipt": "1fde76",
+    "complete_supplied_independent_reading_root_receipts": [
+      {
+        "parts": [
+          1,
+          2
+        ],
+        "receipt": "e9ba44"
+      },
+      {
+        "parts": [
+          3,
+          4
+        ],
+        "receipt": "617d6f"
+      },
+      {
+        "parts": [
+          5,
+          6
+        ],
+        "receipt": "41ade2"
+      },
+      {
+        "parts": [
+          7,
+          8
+        ],
+        "receipt": "ce370b"
+      },
+      {
+        "parts": [
+          9,
+          10
+        ],
+        "receipt": "ea436b"
+      },
+      {
+        "parts": [
+          11,
+          12
+        ],
+        "receipt": "61863f"
+      },
+      {
+        "parts": [
+          13
+        ],
+        "receipt": "a74af8"
+      }
+    ],
+    "source_first_credit": 0
+  },
+  "operations": [
+    {
+      "pointer": "/all50_paired_native/7/14",
+      "U": 8,
+      "raw_DataList0": 18925,
+      "current_utterance_line_one": 98950,
+      "old_complete_value": "The three-copy report is meaningful collecting evidence. Korean explicitly denies volumes one/two/three; do not replace repeated copies with different installments.",
+      "new_complete_value": "Momiji reports successfully obtaining three copies despite difficulty in both locales. This is positive collecting/acquisition evidence. The explicit KR contrast with volumes one, two and three belongs to the following U9, not U8; no separately witnessed purchase or exclusive inventory is inferred.",
+      "old_serialized_byte_interval": [
+        7449,
+        7615
+      ],
+      "old_serialized_value_sha256": "67b047c55cf05424459628eff2903258ad540992ff92f3e54c5d715a57a66958",
+      "new_serialized_value_bytes": 301,
+      "new_serialized_value_sha256": "d928375035f58e4d1c98b96b034858be4b9b6ae9f087b07e654730c292983f09",
+      "unchanged_prefix_sha256": "3b48f514805b64682c4ee5d74ecf8179166f18f6d4ad77875269a59c8a21c1d6",
+      "unchanged_suffix_sha256": "4bbc74a9223b4d5c86efd9ccc9df79473f5e248a099a70d9c74368c318366197"
+    },
+    {
+      "pointer": "/all50_paired_native/8/14",
+      "U": 9,
+      "raw_DataList0": 18926,
+      "current_utterance_line_one": 98951,
+      "old_complete_value": "Preservation, reading and evangelizing copies are distinct stated purposes. The joking explanation remains eligible character evidence without a stakes test.",
+      "new_complete_value": "Momiji echoes the observation that the books look identical: JP asks whether they all look like the same book, while KR explicitly contrasts volumes one, two and three with three identical copies. This is a represented exchange, not another native Sensei utterance. The three stated copy purposes occur in U10.",
+      "old_serialized_byte_interval": [
+        7877,
+        8036
+      ],
+      "old_serialized_value_sha256": "ca78aad946d824d211f135f054c7268bcd400b233df062a1986cc575239def14",
+      "new_serialized_value_bytes": 312,
+      "new_serialized_value_sha256": "edd818231c72420c94333be364981fa2600c730e8d1be9c5387523293502f8eb",
+      "unchanged_prefix_sha256": "802a49297437c2a4db72e4aa6672f624971aafe8375e10bbc5b109e1eb3b6951",
+      "unchanged_suffix_sha256": "a4aaa5aa712fea3b7b5e71e8c4315cc31da35b4c230feb7e9db74193f6e812f1"
+    },
+    {
+      "pointer": "/all50_paired_native/9/14",
+      "U": 10,
+      "raw_DataList0": 18927,
+      "current_utterance_line_one": 98952,
+      "old_complete_value": "The preservation status/instruction seam matters: Japanese describes wrapping, Korean cautions against unwrapping. They cannot be merged into one performed act.",
+      "new_complete_value": "Momiji states three distinct purposes for the copies: preservation, reading/appreciation and spreading the work. JP 保存用/観賞用/布教用 and KR 소장용/감상용/포교용 remain ordinary collecting evidence without a stakes threshold. Wrapping status and the unwrapping instruction belong to U11, not U10.",
+      "old_serialized_byte_interval": [
+        8299,
+        8461
+      ],
+      "old_serialized_value_sha256": "40345727443038c538725ae0066e2dfda522058f8af94d5c7b6f838e7f851e66",
+      "new_serialized_value_bytes": 319,
+      "new_serialized_value_sha256": "8add9fadec93e78a6e7d5fb8c7bd25085366ef5c13069a6ba15e849845fa3515",
+      "unchanged_prefix_sha256": "682a617dd0b8947d5d842abf494cd006ed2580000f80be14cc1f53e828810e8c",
+      "unchanged_suffix_sha256": "5c2817b9a7403d0fcea2b16f91720271296a8894eaf732bef86f321a8c64e17d"
+    },
+    {
+      "pointer": "/all50_paired_native/10/14",
+      "U": 11,
+      "raw_DataList0": 18928,
+      "current_utterance_line_one": 98953,
+      "old_complete_value": "The clarification about avoiding misunderstood urgency qualifies her account; it supports communication style, not proof of a hidden motive.",
+      "new_complete_value": "JP states that the preservation copy still has its shrink wrap; KR instructs not to unwrap the preservation copy and calls it important. Preserve reported wrapping status versus an instruction without merging them into a performed unwrapping act. This record does not contain a clarification about misunderstood urgency.",
+      "old_serialized_byte_interval": [
+        8724,
+        8866
+      ],
+      "old_serialized_value_sha256": "cb7b1d7f0183fdb0d1cd19110d4cef6918aa7c2a9290307aaf4938a0162dff9c",
+      "new_serialized_value_bytes": 322,
+      "new_serialized_value_sha256": "324c7d9afd7f07e1231c200567233182e175db183b3c0e3c8d5328de2dc598a0",
+      "unchanged_prefix_sha256": "78258efaa542910fb956ae1c6e59e1043d4f3de79712b8714e7d74a525ee1eee",
+      "unchanged_suffix_sha256": "dd0cc7e95f62d6a81011186a01c1f85bbff793283bd713fcfd81dfa30c897a3b"
+    },
+    {
+      "pointer": "/all50_paired_native/12/14",
+      "U": 13,
+      "raw_DataList0": 18934,
+      "current_utterance_line_one": 98955,
+      "old_complete_value": "Receiving the offered manga from smiling Momiji is positively narrated. The narrator establishes receipt, not a legal ownership ruling or observed game animation.",
+      "new_complete_value": "Both locales positively narrate receiving and opening the manga offered by smiling Momiji in this one record. Receipt and opening are achieved represented acts here; permanent ownership is not a bilingual common conclusion, and no whole-volume reading, legal ruling or observed animation follows.",
+      "old_serialized_byte_interval": [
+        9517,
+        9681
+      ],
+      "old_serialized_value_sha256": "8a040cb35c9bcede669425aa5c2dd5d63c169a57087d1ca4b272bc4e6c9fbdb3",
+      "new_serialized_value_bytes": 298,
+      "new_serialized_value_sha256": "74d166fc8af5a58b352d576b681f14042ddd9dd8e5d20d8dd71a65b334be5744",
+      "unchanged_prefix_sha256": "fb6cfde84e4e402f89b90b8df4834fc774e21032e8ad09033c1fe07b9f336825",
+      "unchanged_suffix_sha256": "086199ab5228700813ff85175bc828919d70dfac76e0e879ad45ded92cc2ca5d"
+    },
+    {
+      "pointer": "/all50_paired_native/13/14",
+      "U": 14,
+      "raw_DataList0": 18935,
+      "current_utterance_line_one": 98956,
+      "old_complete_value": "Opening the book is positively narrated. It does not certify finishing the volume, operating a popup or finding every enclosed object.",
+      "new_complete_value": "This narration contains JP （……！） and KR #na;(그때……!), a limited startled or temporal reaction. It does not separately narrate opening the book: receipt and opening are already positively narrated in U13. Retain this reaction without inventing an additional speaker or act.",
+      "old_serialized_byte_interval": [
+        9903,
+        10039
+      ],
+      "old_serialized_value_sha256": "15f7d085b53b16f06429feb7b060988cdd0ff274d02fe9eb3789a7d2eb89a798",
+      "new_serialized_value_bytes": 291,
+      "new_serialized_value_sha256": "1f7184bd0dee75f3c3ef3e164059c63cb760eea7e2d46e7c7abc393f289d50d2",
+      "unchanged_prefix_sha256": "342d3321d043529c92c7e56b58594d923a5735cb03c0b8bd98f6452b47a740f0",
+      "unchanged_suffix_sha256": "2c682ef52f86b4858b744fa685c425a3c5eab41839c7404f1f784cd8d2fcf13e"
+    }
+  ],
+  "scope": {
+    "categories": 1,
+    "locations": 6,
+    "no_producer_correction_required": true,
+    "all_ids_modes_person_bindings_literal_fields_and_other_judgments_preserved": true,
+    "dependent_raw_and_inline_scopes_inherit_corrected_U_judgments": true,
+    "no_new_original_reading_SECOND_third_credit": true,
+    "shared_effects": 0,
+    "merge": "RESERVED"
+  },
+  "virtual_effective_analysis_metadata_only": {
+    "bytes": 93646,
+    "sha256": "b93096649533617a9eb1dc06a9b175a776e0c117deab0e46e7ce9fa3ee1f5798"
+  },
+  "limits": "No immutable author or independent base is changed. This is necessary located integration precision, not a new whole successor, replay or original/source transfer. The complete underlying argument, ordinary collecting and sharing, narrated endpoints, locale differences and all other limits remain. All12 arcs/Phase2 incomplete; Event834 UNADMITTED; merge reserved."
+}
