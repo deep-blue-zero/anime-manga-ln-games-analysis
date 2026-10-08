@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V08
+scope: V01-V09
 ledger_role: seriousness_override
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V08 main narrative
+source_boundary: Japanese main-series light novels through V09 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Seriousness Override Ledger — Through V07
+# KONOSUBA Seriousness Override Ledger — Through V09
 
 ## Purpose
 
@@ -259,3 +259,72 @@ Protector duty and belonging are high-order. Masochistic reward can coexist with
 
 ## General V08 rule
 V08 strongly confirms: `serious trigger -> authoritative role/identity -> relationship/audience -> register/behavior`. The output may be formal, plain, theatrical, aggressive, or quietly supportive depending on the role.
+
+
+# V09 Update
+
+**Evidence boundary:** Japanese V09 main narrative, OEBPS/Text/part0009.xhtml–part0016.xhtml. The entries identify changes in priority rather than an assumed morally improved “serious personality.”
+
+## SO-V09-01 — Care can interrupt shameful play without permanently controlling it
+
+Hearing Megumin assign the most sturdily made protective charm to Darkness stops Darkness's immediate movement and makes both concealed listeners concerned about disappointing her. Her stated wish to preserve every member of the household is meaningful counterpressure. Yet Kazuma and Darkness soon resume their petty quarrel. The intervention is real and temporary; it is not evidence that attachment now suppresses all retaliatory behavior. (part0010.xhtml P0343–0350, P0370–0394.)
+
+## SO-V09-02 — Explicit vulnerability reaches Kazuma where offered rewards do not
+
+Megumin first appeals to Iris, offers private time, and joins a recognition appeal; Kazuma resists while remembering prior frustration and danger. After the Chomusuke problem is disclosed, her apology, bow, and hesitant request activate acceptance despite his continued wish not to go. His later preparation is therefore downstream of a reluctant relational commitment, not proof that danger itself became attractive. (part0011.xhtml P0314–0372, P0478–0486, P0621–0643.)
+
+The same mechanism recurs when he is ready to leave the fortress: Megumin asks for one opportunity, and he volunteers the concealment and perception abilities that increase its chance of success. **STRENGTHEN** concrete entrusted/relational responsiveness; do not treat every earlier refusal as a falsification when the precise vulnerability and feasible role have not yet been established. (part0013.xhtml P0146–0171.)
+
+## SO-V09-03 — Cooperative seriousness is vulnerable to a different member's active reward
+
+During the goblin encounter, Aqua supplies support, Darkness advances to hold enemies, and Kazuma explicitly acknowledges complementary roles and promises to rely on her. Megumin's attack then interrupts the cooperative display because conspicuous victory and the strongest-member claim attract her. This is not universal ensemble maturation: three members' restored seriousness does not ensure the fourth shares its priority. The resulting harm to allies remains counterevidence to an unconditional companion-safety model. (part0011.xhtml P0220–0271.)
+
+## SO-V09-04 — Darkness protects under a real capacity limit
+
+The dragon zombie produces visible alarm even in Darkness, yet she adopts the holy-knight role and interposes herself while Aqua remains difficult to wake. She is injured and incapacitated; Aqua then heals her and the group redistributes transport and equipment. Protection is established through timing and accepted bodily risk, not invulnerability or the absence of fear. (part0012.xhtml P0193–0272.)
+
+Her later willingness to serve as bait against Explosion is rejected by Kazuma because the earlier attack destroyed her armor. An established past survival does not supply an unconditional defense guarantee. **STRENGTHEN** duty; **PRESERVE** equipment-, threat-, and role-conditioned competence. (part0013.xhtml P0073–0077.)
+
+## SO-V09-05 — Aqua's active identity can damage or stabilize the same operation
+
+Initially, the confrontation with Wolbach activates rivalry over rightful divine status and follower legitimacy. Aqua abandons the intended holding action and floods the area, damaging the fortress as well as forcing the enemy away. This is serious identity investment with poor task discipline. (part0013.xhtml P0256–0300; part0014.xhtml P0016–0022.)
+
+Repair subsequently recruits a different version of that investment. Aqua knows the craft, becomes proud of the assignment, accepts a title, and persists while her work restores strategic safety. Her enjoyment does not invalidate the contribution. **REVISE overly broad status-displacement formulations:** status reward undermines the task when the reward selects a competing output, but can support it when recognition is tied to its successful completion. (part0014.xhtml P0047–0110.)
+
+The repeated repair is not a clean falsification of MG02-A04: the job becomes high-salience and socially rewarding, and no easy destructive one-step alternative is presented as an equivalent repair method. Keep that frozen targeted test distinct.
+
+## SO-V09-06 — Megumin's prior relationship inhibits action before technical ability does
+
+Megumin speaks confidently about beating another Explosion user, including a reported victory over Wiz and repeated practice. Once Wolbach's identity becomes personally concrete, she fails to perform the planned attack and later again does not begin casting when threatened. She rejects Kazuma's initial suggestion that generic humanoid appearance explains the inhibition. (part0013.xhtml P0081–0103, P0215–0243; part0014.xhtml P0007–0024, P0368–0389.)
+
+Her later account identifies Wolbach as the rescuer and teacher she had wanted to thank and show her achievement. The action block is therefore attached to a particular history, with guilt continuing after the fight. **New V09 boundary:** personally incurred gratitude can inhibit the use of her most practiced identity expression. This is adjacent to M04's relational inhibition mechanism, but Wolbach is the enemy target, not a valued companion caught in the best tactical shot. (part0014.xhtml P0766–0780.)
+
+Do not erase the contrasting unhesitating attack on her party's surroundings or the repeated attacks despite enemy pleading. A general rule that Megumin cannot harm familiar-looking or speaking opponents is contradicted within V09. (part0011.xhtml P0256–0271; part0014.xhtml P0286–0304.)
+
+## SO-V09-07 — Kazuma restores her decision before he knows her history
+
+Kazuma initially has no effective response when his question causes visible distress. He then asks what Megumin wants and offers help if she wishes to settle the encounter herself. He preserves his stated practical boundary: allowing the defenders to stop a continuing threat is acceptable to him. This is supported choice within a dangerous situation, not a claim that her preferred outcome would automatically be safe or right. (part0014.xhtml P0412–0427, P0473–0484.)
+
+The familiar outing tone and existing Crimson Demon script make action speakable again. He does not require a complete disclosure before helping, and the eventual autobiographical account comes later. **STRENGTHEN** responsive support under incomplete interpersonal knowledge.
+
+## SO-V09-08 — Yunyun's duty frame does not erase reluctance
+
+Yunyun names Wolbach as an enemy officer, invokes the Crimson Demons' anti-Demon-King origin, and tries to accept personal responsibility for confronting someone whose small kindness mattered greatly to her. Her attempted composure falters, with no completed attack shown. The attempt shows competing affiliation and duty; trembling is not proof that the duty was insincere. (part0014.xhtml P0459–0467.)
+
+Kazuma explicitly wonders whether she knows the identities of Wiz and Vanir. That uncertainty prevents treating her stated refusal to associate with officers as a fully tested, consistently applied categorical ethic. (part0014.xhtml P0463–0464.)
+
+## SO-V09-09 — Technical mastery resolves the action problem, not the emotional debt
+
+Megumin's recognition inference allows her to address Wolbach as the remembered teacher. She offers thanks and demonstrates incantation-free control before the voiced spell name. The result defeats the opponent, but subsequent withdrawal, tears, and an explicit self-accusation of ingratitude show that successful action has not completed emotional reconciliation. (part0014.xhtml P0534–0551, P0752–0783.)
+
+The seriousness rule therefore needs two timescales: the role commitment that enables the act, and the later appraisal that may make the same act painful. **STRENGTHEN** role-conditioned seriousness; **OPEN** the durability and eventual resolution of the guilt.
+
+## SO-V09-10 — Tears change the immediate intimacy decision; desire remains active
+
+Kazuma repeatedly recognizes that Megumin's state differs from normal and worries about effects on the shared household, yet these thoughts alone do not reliably stop his participation. Her visible tears do. He asks whether she is forcing herself and offers to wait, then finally asks why she came. After hearing her history, he comforts her through awkward self-disclosure and declines her renewed invitation while treating guilt as a relevant condition. (part0014.xhtml P0612–0642, P0685–0719, P0752–0815.)
+
+His later regret and continued desire are explicit, so the episode does not imply disappearance of sexual motivation. Nor does it retrospectively erase the earlier threatening bath fantasy or the reputation-protective mistreatment of Darkness. Epilogue 2 adds a later counterexample: he retrieves his letter from inside Darkness's clothing and narrates the intrusion as a victory for his newly unrestrained identity. The supported boundary is a demonstrated ability to stop and redirect under perceived distress in this relationship and state, not universally reliable restraint. (part0012.xhtml P0336–0386; part0010.xhtml P0324–0341; part0014.xhtml P0818–0833; part0016.xhtml P0016–0034.)
+
+## General V09 refinement
+
+Seriousness reorders priorities through particular people, roles, histories, and perceived stakes. It may restore cooperation, recruit pride into competent labor, prevent an action, make a painful action possible, or redirect intimacy into care. It does not erase competing impulses, guarantee sound procedure, or finish the emotional work at the same instant as the practical problem.
