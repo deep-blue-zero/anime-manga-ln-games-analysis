@@ -4,14 +4,14 @@ artifact_id: WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.8"
+version: "0.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V07 mainline through V07 Shift 36/i150, also latest depicted present; packaged shorts separately bounded; V08–V14 inventory only"
+source_boundary: "Japanese V01–V08 mainline through V08 Shift 41/i158, also latest depicted present; packaged shorts separately bounded; V09–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY_RUPTURE_AND_REPAIR_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_AGENCY_BOUNDARY
 
 **Update and revision rule.** Update when choices or boundary/repair trajectory materially change. Do not close a rupture merely because an apology occurred. Link later behavior as a dated continuation and retain the earlier prospective assessment. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V07 mainline through V07 Shift 36/i150, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1 and 36.2 remain separately bounded; V04 EX is promotional. V01–V06 sections retain their earlier states; dated V07 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V08 mainline through V08 Shift 41/i158, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2 and 41.5 remain separately bounded; V04 EX is promotional. V01–V07 sections retain their earlier states; dated V08 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -270,3 +270,50 @@ The HM sequence likewise contains more than a binary choice between communicatio
 #### Agency is not possession of a painless option
 
 Hime’s right not to reciprocate does not provide a way to make Mitsuki feel unhurt. Mitsuki’s ability to ask does not provide control over the answer or the other person’s continued work. Kanoko’s concern does not authorize force, and Sumika’s sincere support does not eliminate her own assumptions. This is an interpretation of the depicted options and costs, not a claim that every participant has equal responsibility for every injury. [i052–054, i137–150; S36.1/i154–157.]
+
+
+<a id="v08"></a>
+## V08 — Current additions and transitions — 2026-10-08
+
+**V08 evidence key:** source-map key `V08`, Japanese witness `1bP7VtpkHkHaxxZiJ_O1Eae723HmX3JQ1`, SHA-256 `345c8e407a32a9453299ae564e50dd844d96a8d79623da3027f440b7de54cf1b`. The [frozen V08 reading](../02%20Sequential%20Readings/WATAYURI_V08_DEEP_READING.md#agency) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V08; WY1–WY7 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 41/i158. Shift 41.5/i160–161 is a post-return clothing supplement with finer chronology OPEN. Afterword/edition matter i162–167 and bonus waking skit i168 do not advance the mainline endpoint. The receiving correction to i109 is incorporated throughout; original prior-volume findings remain intact.
+
+### Agency, boundaries, rupture and repair
+
+The operative question is not simply who cares most. It is who initiates an act, what alternatives are actually available, what another person accepts or refuses, and whether the subsequent behavior changes.
+
+| ID | Concrete act and actors | Option, boundary or constraint | Observed consequence and limit | Locator |
+| --- | --- | --- | --- | --- |
+| **WY8-AG01** | Mai offers a different event-work position if Mitsuki cannot manage the birthday role. | Public commitment and private distress coexist; backstage is an actual proposed alternative. | Mitsuki chooses to participate; no claim of unrestricted freedom from every social cost. | i008–011 |
+| **WY8-AG02** | Sumika removes distressed Mitsuki from the immediate salon situation through role speech. | Disclosure of the complete private cause is not required to offer a break. | Practical relief occurs without guests becoming fully informed. | i015–016 |
+| **WY8-AG03** | Kanoko requests an intervention encouraging Hime’s own choice. | Her desired return outcome remains, but the requested language is not a command to remain for Kanoko. | The message reaches Hime; its pressure and its support are both relevant. | i018–026 |
+| **WY8-AG04** | Hime gives future-facing assurances while still planning departure. | She could state uncertainty or maintain the birthday-only boundary; she instead protects the public scene. | Event coherence is maintained at the cost of misleading projected continuation. | i034–036 |
+| **WY8-AG05** | Hime voluntarily embraces Mitsuki during the birthday. | This particular act is initiated, not inferred from the sister label. | Real contact does not authorize later embraces, kissing or employment resumption. | i035–036 |
+| **WY8-AG06** | Mitsuki asks Hime to stop repeatedly naming the rejection. | A truthful fact can still be painfully reiterated. | Hime accepts the local request; her romantic answer is unchanged. | i045–046 |
+| **WY8-AG07** | Hime agrees to another conversation, then attempts to leave. | The promised discussion and actual departure diverge. | Others seek her; avoidance postpones rather than settles the conflict. | i047–054 |
+| **WY8-AG08** | Kanoko grips Mitsuki’s clothing during demands and blame. | Emotional urgency does not supply permission for force. | Mitsuki is confronted; the act is distinct from V07’s strike and subsequent specific apology. | i055–060 |
+| **WY8-AG09** | Coworkers delay Hime and Mitsuki asks her to remain. | An announced wish to leave is met with renewed pressure and questioning. | No mutual return exists until Hime later affirms it; successful outcome alone does not vindicate every means. | i069–082 |
+| **WY8-AG10** | Hime exposes her façade and falsely denies all care. | Truthful self-information is used as a separation tactic. | Coworkers are hurt; Mitsuki challenges the denial using particular contrary evidence. | i077–087 |
+| **WY8-AG11** | Mitsuki distinguishes denied care from the romantic no and asks for a real wish. | She rejects unilateral sacrifice, not the lack of romantic reciprocity. | Hime admits the lie and fear of hatred; future endurance remains untested. | i084–095 |
+| **WY8-AG12** | Hime receives the hand, states she wants to stay and initiates a hug. | This supplies her affirmative agency rather than another person’s inference. | Return is mutually articulated and later followed by work; the contact remains particular. | i096–102 |
+| **WY8-AG13** | Mitsuki states a desire to kiss while refraining. | Desire, disclosure and action are explicitly separated. | No kiss occurs; the disclosure still affects Hime and does not settle timing or permission. | i101 |
+| **WY8-AG14** | Mitsuki takes Hime’s hand, releases it when addressed and apologizes with a luggage explanation. | Hime’s private reading of greater candor is distinct from Mitsuki’s stated explanation. | Contact and immediate response are depicted; neither practical help from Hime nor general contact permission is established. | i109 |
+| **WY8-AG15** | Sister-pair rooms are proposed and accepted. | The accepted object is lodging arrangement, not every act within the room. | Changing and bath concerns subsequently require their own negotiation. | i110–113 |
+| **WY8-AG16** | Mitsuki refuses a photograph’s requested embrace; Mai withdraws and apologizes. | Production goals are limited by a participant’s refusal. | The assignment continues without forcing that pose. Hime’s protective-motive interpretation is separate. | i117–121 |
+| **WY8-AG17** | Hime invents an existing bath appointment with Kanoko. | A direct discomfort statement is avoided through a scheduling explanation. | The alternative becomes available, but the real limit stays unshared. | i122–125 |
+| **WY8-AG18** | Mai corrects Sumika’s bodily comment; Sumika accepts. | Familiarity does not entail permission for every evaluative remark. | Local correction occurs; no independent legal determination is asserted. | i137–139 |
+| **WY8-AG19** | Mitsuki approaches amid Hime’s withdrawal; later apologizes; Hime initiates clarification. | Requesting explicit words cannot make nonverbal discomfort irrelevant. | The feared later approach is not enacted; both contribute to a more specific account. | i140–153 |
+| **WY8-AG20** | Hime specifies contact/privacy limits and then a timing limit; Mitsuki accepts the latter after questioning. | Handholding, occasional hugs, bath privacy, changing privacy and timing are distinct. | A locally usable agreement and one immediate uptake are shown; repeated validation remains open. | i154–157 |
+
+#### Return is an affirmative decision, not a victory over refusal
+
+The birthday continuation cannot be justified solely by saying that Hime secretly wanted to stay. The reader receives that wish before the coworkers do; the gap is part of the story. The defensible claim of mutual continuation rests on i098–099, where Hime says what she wants and acts on it. Earlier pressure remains earlier pressure. The episode is not a general lesson that sufficiently determined friends may decide which refusals deserve respect.
+
+At the same time, treating Hime’s first announced departure as the only possible authentic expression would erase her later agency. People can revise decisions after another participant supplies a different account of what costs they are willing to bear. The source’s ethical distinction is not between never questioning and always persisting. It is between clarification that eventually receives an actual new choice, and a claim that one person’s interpretation itself grants control over another’s future.
+
+#### Specific permissions are not transferable goods
+
+Hime’s birthday embrace, her return embrace and her later handholding do not create a cumulative entitlement to more intimate acts. Nor does sharing a room transfer decision-making over bathing or changing. Each event has an actor, setting and immediate meaning. The final list improves their coordination because it does not require one total answer to every possible manifestation of affection. Mitsuki’s refusal of a posed hug also belongs in this account: the person with romantic feelings can have limits rather than always being the requester.
+
+#### An apology changes the available next action, not the preceding event
+
+Mitsuki’s room apology is important because it contradicts Hime’s feared next encounter and permits a new conversation. It does not make the earlier approach harmless, prove deliberate wrongdoing or replace the missing details with a complete confession of motive. Similarly, Kanoko’s V07 apology for a strike remains a real local act despite V08’s new clothing grip. Repair must be evaluated in terms of its stated object and subsequent behavior, not used as either an all-purpose absolution or a promise whose imperfection makes it retroactively unreal.

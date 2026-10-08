@@ -4,14 +4,14 @@ artifact_id: WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.8"
+version: "0.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V07 mainline through V07 Shift 36/i150, also latest depicted present; packaged shorts separately bounded; V08–V14 inventory only"
+source_boundary: "Japanese V01–V08 mainline through V08 Shift 41/i158, also latest depicted present; packaged shorts separately bounded; V09–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMO
 
 **Update and revision rule.** Append retrospective records that link to earlier event IDs; revise the mature ordering if warranted while preserving original VNN presentation and uncertainty. Mark apparent contradiction OPEN when order or witness cannot be settled. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V07 mainline through V07 Shift 36/i150, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1 and 36.2 remain separately bounded; V04 EX is promotional. V01–V06 sections retain their earlier states; dated V07 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V08 mainline through V08 Shift 41/i158, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2 and 41.5 remain separately bounded; V04 EX is promotional. V01–V07 sections retain their earlier states; dated V08 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -203,3 +203,30 @@ Keep event order separate from presentation order and confidence about motive se
 **Retained V06 chronology limit:** the mainline “yesterday” castless-work statement and the supplementary first-removal recollection remain distinct. V07’s recalled Sunday does not explicitly reconcile them. Preserve the accepted correction rather than using the new volume as an excuse to overwrite either source expression.
 
 The V07 freeze has no dual endpoint of the V03/V05 kind: both mainline reading and latest depicted present stop at **Shift 36/i150**. Its internal retrospectives and later packaged shorts nevertheless require separate event-time fields. A single last-page number is not enough to recover what happened next and what was merely learned next.
+
+
+<a id="v08"></a>
+## V08 — Current additions and transitions — 2026-10-08
+
+**V08 evidence key:** source-map key `V08`, Japanese witness `1bP7VtpkHkHaxxZiJ_O1Eae723HmX3JQ1`, SHA-256 `345c8e407a32a9453299ae564e50dd844d96a8d79623da3027f440b7de54cf1b`. The [frozen V08 reading](../02%20Sequential%20Readings/WATAYURI_V08_DEEP_READING.md#chronology) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V08; WY1–WY7 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 41/i158. Shift 41.5/i160–161 is a post-return clothing supplement with finer chronology OPEN. Afterword/edition matter i162–167 and bonus waking skit i168 do not advance the mainline endpoint. The receiving correction to i109 is incorporated throughout; original prior-volume findings remain intact.
+
+### Chronology, memory and retrospection
+
+Narrative order, event order and later knowledge are not interchangeable.
+
+| ID | Event and presentation | Temporal placement / certainty | Interpretive limit and linkage |
+| --- | --- | --- | --- |
+| **WY8-T01** | The opening reprises the V07 refusal before its immediate aftermath. | Same continuing birthday-day sequence; high. | Not a second romantic rejection event merely because the line is presented again. |
+| **WY8-T02** | Joint birthday preparation and performance, ending with guests leaving and the closed shop. | i005–044; event completion established; high. | Completion precedes chosen ordinary return; public performance is not proof of private repair. |
+| **WY8-T03** | The prior birthday letter is read again under changed knowledge. | i027–036 reuses an earlier object; high; recalled episodes retain prior dates. | Its initial composition is not moved to after Hime’s full knowledge of romantic interest. |
+| **WY8-T04** | Kanoko’s criticism, Mitsuki’s memories of offered hands and Hime’s childhood counterfactual. | i050–067 contains present intervention, remembered earlier care and a hypothetical past alternative; high for distinctions. | Counterfactual is not a new past fact; memory supplies present motivation without certifying a complete causal account. |
+| **WY8-T05** | The renewed return negotiation and affirmative sister continuation. | i069–102 after the party; high. | Earlier birthday participation does not already rescind departure. The clear positive decision occurs within this sequence. |
+| **WY8-T06** | Hotel arrival followed by the earlier proposal and arrangements for a one-night/two-day work trip. | i103–108 presents arrival before planning; high for relative order, exact calendar dates unestablished. | One trip, not two; financial statements remain in-story arrangements rather than independently audited transactions. |
+| **WY8-T07** | Photo assignment, room/bath plans and retrospectively supplied Kanoko preparation. | i109–125; i125 supplies an earlier preparatory moment; high for relative distinction. | A real later invitation does not make Hime’s earlier invented prior plan true. |
+| **WY8-T08** | Bath conflict, room apology, contact list and timing request. | i127–157 during the outing; high. | Anticipated action in the upper part of i149 and actual apology beginning below it and continuing at i150 are distinct representations, not a completed feared act. |
+| **WY8-T09** | Café review of the recent trip’s photographs. | i158 after the represented trip material; high. | Latest clearly depicted mainline present. The intervening journey and every hour of the trip are not reconstructed. |
+| **WY8-T10** | Clothing short, afterword, edition components and waking skit. | i160–161 after Hime’s return, finer placement OPEN; i162–168 paratext/separately bounded material. | These components do not automatically occur after i158. No post-ending romantic or domestic state is supplied. |
+
+The mainline endpoint and latest-present endpoint coincide at **V08/41/i158**. This differs from V03 and V05, whose readings ended in substantial retrospection. The distinction must be checked afresh for each volume rather than inherited as a fixed structural assumption. V08 has retrospective insertions but ultimately returns to later café activity.
+
+No new evidence settles V06’s fine cast-removal chronology. That earlier discrepancy remains exactly where the accepted review left it. The V08 statement that the staff travel together cannot be used to harmonize an unrelated earlier “yesterday” expression.
