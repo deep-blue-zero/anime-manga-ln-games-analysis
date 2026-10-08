@@ -4,22 +4,26 @@ artifact_type: arc_contextualization_checkpoint
 scope: EVENT_801 complete source package and bounded dream hospitality festival and work context
 source_story_ids: ["BA:event:801:001", "BA:event:801:002", "BA:event:801:003", "BA:event:801:004", "BA:event:801:005", "BA:event:801:006", "BA:event:801:007", "BA:event:801:008", "BA:event:801:009", "BA:event:801:010", "BA:event:801:011", "BA:event:801:012", "BA:event:801:013"]
 generation: V1
-version: "1.0"
-status: draft_noncurrent
+version: "1.1"
+status: canonical
 source_boundary: "Complete Japanese BA:event:801:001–013; electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; game v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1; corpus BA_REFRESH_20260928T032248159554Z; text and declared raw actor witnesses; main chronology unresolved"
 source_reading_state: COMPLETE
-supplemental_admission_state: UNADMITTED
+supplemental_admission_state: ADMITTED_WITH_LIMITS
 analytical_priority_proposal: CORE
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: true
+do_not_use_as_current_authority: false
 created: 2026-10-01
-updated: 2026-10-02
-source_admission: UNADMITTED
+updated: 2026-10-07
+source_admission: ADMITTED
 publication_review_state: COMPLETE_WITH_LIMITS
 publication_snapshot: BA_PHASE2_REVIEW_DRAFTS_20261003
 source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8
 source_generation: BA_REFRESH_20260928T032248159554Z
+admission_record: "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_007_CHECKPOINT.md"
+admission_decision_date: 2026-10-07
+admission_scope_qualification: "Exactly the source_story_ids and supported written-source claims of cycle007; chronology, attribution, recipient, contrary evidence and unprinted-outcome limits retained; no model or performed voice"
+historical_body_status_labels: "Retained authoring/review history; current admission is governed by this frontmatter and the cycle007 checkpoint"
 ---
 
 > Review draft — UNADMITTED. The reviewed argument is preserved with its authoring-stage descriptions; current review and publication status are routed through the draft snapshot manifest. Shared admission effects remain pending.

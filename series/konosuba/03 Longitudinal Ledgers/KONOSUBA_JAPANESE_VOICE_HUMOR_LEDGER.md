@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V08
+scope: V01-V09
 ledger_role: japanese_voice_humor
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V08 main narrative
+source_boundary: Japanese main-series light novels through V09 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Japanese Voice and Humor Ledger — Through V07
+# KONOSUBA Japanese Voice and Humor Ledger — Through V09
 
 ## Method caution
 
@@ -342,3 +342,149 @@ V06's most important linguistic effects are L1-L2: honorific/address systems, co
 - Most V08 humor: L0-L1 situation/causal reversal.
 - Relationship/role differentiation: often L2 because honorifics, register and pragmatic implication matter.
 - L3 Japanese-form-only material remains secondary rather than structurally dominant.
+
+
+# V09 Update
+
+**Evidence boundary:** Japanese V09 main narrative only. All paragraph locators resolve inside OEBPS/Text in the verified V09 EPUB. Short anchors preserve wording without reproducing speeches. “Voice” here means textual register and interaction, not an inspected audio performance.
+
+## JV-V09-01 — The Explosion appraisal is a shared relationship register
+
+- **Source:** part0009.xhtml P0009–0025.
+- **Speaker/addressee and state:** Kazuma and Megumin, during their familiar post-casting evaluation and carry home.
+- **Anchor/basic gloss:** 「精進します！」 — “I'll keep improving.”
+- **Form and pragmatics:** Megumin's earnest, deferential acceptance follows Kazuma's elaborate expert evaluation. Both inhabit an evaluative routine, then move immediately into ordinary complaint and teasing about the continuing transport burden.
+- **Channel/class:** dialogue, with Kazuma's narrative framing; **L1–L2** for register contrast, **L0** for the underlying inconvenience.
+- **Model implication:** shared stylized language can be genuine affiliation as well as performance. It does not make her practical claim about needing to be carried innocent of self-interest. **Confidence: HIGH** for the interaction; no claim that the entire technical appraisal is independently measured.
+
+## JV-V09-02 — The same written object becomes “babysitting”
+
+- **Source:** part0010.xhtml P0061, P0081–0083, P0116–0118.
+- **Speaker/addressee and state:** Megumin first gives Kazuma a protective charm, then leaves Darkness to occupy him.
+- **Anchor/basic gloss:** 「カズマのお守り」 — “looking after/babysitting Kazuma,” in the second occurrence.
+- **Form and pragmatics:** the earlier お守り means an amulet. At P0116, the preserved ruby explicitly reads 守 as も, selecting おもり in the babysitting expression. The written resemblance lets protective care pivot into teasingly treating the recipient as someone who needs supervision; Kazuma immediately objects to the assigned direction of care.
+- **Channel/class:** dialogue; a local **L3** written reading contrast, embedded in portable relationship comedy.
+- **Model implication:** affection and patronizing teasing coexist in the same domestic sequence. This is a local effect, not evidence that form-dependent wordplay dominates the volume. **Confidence: HIGH** for the ruby/form distinction; **MODERATE-HIGH** for its deliberate callback function.
+
+## JV-V09-03 — Preference repair and reluctant deference reveal distinct states
+
+- **Source:** part0010.xhtml P0184–0191, P0398–0410.
+- **Speaker/addressee and state:** Darkness to Kazuma, first seeking the particular restraint she wants, later returning to ask for practical help after their quarrel.
+- **Anchors/basic glosses:** 「それがいい」 / 「それでいい」 — “that is what I want” repaired into “that will do”; 「カズマ……さん……」 — a hesitant respectful address.
+- **Form and pragmatics:** the immediate が→で repair attempts to disguise specific desire as mere acceptance, but the subsequent insistence exposes the preference. The later さん and polite request mark constrained dependence on the very person she has just challenged.
+- **Channel/class:** dialogue; **L2** for stance and interpersonal repositioning, with **L1** repair timing.
+- **Model implication:** neither “formal noble” nor “eager masochist” suffices as a fixed voice. Request, embarrassment, anger, and dependence select different outputs. **Confidence: HIGH**; the comic situation's exact intensity should not be generalized.
+
+## JV-V09-04 — A plain vulnerable request succeeds where inducements fail
+
+- **Source:** part0011.xhtml P0314–0350, P0353–0372, P0478–0486.
+- **Speaker/addressee and state:** Megumin asks Kazuma to accompany her; earlier appeals use Iris, promised private time, and recognition, while the later request acknowledges her need and concern for Chomusuke.
+- **Anchors/basic glosses:** 「……ダメですか？」 — “Is that too much to ask?”; 「しょうがねえなあー！」 — roughly “All right, I can't leave it at that.”
+- **Form and pragmatics:** bowing, an apology for the request, and the tentative final question expose vulnerability rather than insisting that Kazuma should find the reward attractive. His outward complaint remains while his decision changes.
+- **Channel/class:** dialogue plus contemporaneous internal narration; **L1–L2**.
+- **Model implication:** receptive care does not require polite or heroic outward self-presentation. Do not reduce the result to a universal “ask gently” rule; their history and his recognition of her uncertainty are material conditions. **Confidence: HIGH** for this contrast.
+
+## JV-V09-05 — A truth device tests wording, not whole relationships
+
+- **Source:** part0011.xhtml P0451–0476.
+- **Speaker/addressee and state:** Aqua questions a constrained Megumin, then addresses Kazuma while checking whether the lie-detecting device works.
+- **Anchor/basic gloss:** 「この魔道具は正常よ」 — “This device is working properly.”
+- **Form and pragmatics:** Aqua first exploits the device to expose the inadequacy of Megumin's simple rejection of the Axis followers. She then supplies exaggerated praise of Kazuma, allows the device to reject it, and reframes the insult as a practical calibration.
+- **Channel/class:** dialogue and narrated device response; **L0–L1**, with pragmatic stance relevant at **L2**.
+- **Model implication:** Aqua can originate an effective social/inferential maneuver and occupy the corrective role. A rejected bundle of praise does not establish that every positive attitude within it is absent. **Confidence: HIGH** for the exchange; deliberately limited inference about individual motives.
+
+## JV-V09-06 — Imported authority language can serve petty retaliation
+
+- **Source:** part0012.xhtml P0512–0544.
+- **Speaker/addressee and state:** Kazuma addresses hostile fortress knights while identifying Darkness's rank; Megumin and Aqua join after the hierarchy reverses.
+- **Anchor/basic gloss:** 「この御方をどなたと心得る！」 — “Do you know who this person is?”
+- **Form and pragmatics:** an elevated authority-announcement script changes the social situation immediately. Kazuma then adopts injured, insinuating politeness to obtain accommodation, while Megumin converts the role reversal into mock-servant indignation.
+- **Channel/class:** dialogue; **L2**, with **L1** staged timing.
+- **Model implication:** formal competence and noble-role language are usable for grievance and bargaining, not only morally elevated duty. Darkness's embarrassment remains separate from the efficacy of the maneuver. **Confidence: HIGH**.
+
+## JV-V09-07 — Divine self-presentation can escalate rather than dignify
+
+- **Source:** part0013.xhtml P0256–0300.
+- **Speaker/addressee and state:** Aqua and Wolbach in their first direct confrontation, with the party attempting to hold the enemy in place.
+- **Anchor/basic gloss:** 「謝って！」 — “Apologize!”
+- **Form and pragmatics:** Aqua repeatedly substitutes status demands, classification disputes, and follower rivalry for the intended delay. Wolbach answers from an expectation of respect toward divinity, then also shifts into insults and petty threats. Aqua's self-announcement is true, yet initially fails to secure the expected recognition.
+- **Channel/class:** dialogue; **L1–L2**, with **L0** for the conflicting stakes and later flood.
+- **Model implication:** the active authoritative identity can produce aggressive, childish-sounding escalation. MG02-J01 does not predict calmness or tactical improvement. **Confidence: HIGH**; Wolbach's wider religious history remains her reported account here.
+
+## JV-V09-08 — The repair captain's title rewards the desired behavior
+
+- **Source:** part0014.xhtml P0048–0072, P0083–0110.
+- **Speaker/addressee and state:** Aqua instructs the repair workers; Darkness and the workers address her in the role she has been assigned.
+- **Anchor/basic gloss:** 「補修隊長」 — “repair captain.”
+- **Form and pragmatics:** practical sequential instruction becomes confident leadership; repeated title-address supplies recognition exactly when she undertakes useful work. She accepts Darkness as commander while enjoying her own subordinate captain identity.
+- **Channel/class:** dialogue and repeated narrated action; **L2** for role/address, **L0** for incentive alignment.
+- **Model implication:** status language can stabilize effort rather than displace the task. The role has no reported special powers or pay; its social meaning is enough in this setting. **Confidence: HIGH**, with portability limited to tasks in which competence and recognition actually align.
+
+## JV-V09-09 — The additive particle makes recognition inferable
+
+- **Source:** part0014.xhtml P0176–0189, P0368–0381, P0513–0544.
+- **Speaker/addressee and state:** Wolbach answers Yunyun, repeatedly denies remembering Megumin, and later faces Megumin's final recognition claim.
+- **Anchor/basic gloss:** 「あなたのそれ〝も〟」 — “that of yours, too.”
+- **Form and pragmatics:** the earlier P0179 question contains ordinary も when Wolbach asks whether Yunyun's name is also not a nickname. At P0537, Megumin repeats it with 〝も〟 explicitly marked. The additive item implies another name already treated in the same way, which she uses against Wolbach's repeated denial of remembered acquaintance.
+- **Channel/class:** dialogue recalled and reinterpreted in dialogue; chiefly **L2** for the additive presupposition and its conflict with performed nonrecognition, with **L1** exact-phrasing sensitivity. English “your name isn't a nickname either, is it?” can retain the inference and later emphasize “either.” No specifically Japanese reconstruction is required, so the particle's importance alone does not justify L3. A narrower L1 classification is also defensible if the preserved additive inference is treated as readily portable rather than as a difficult pragmatic stance.
+- **Model implication:** a consequential relationship inference depends on attending to small wording rather than accepting explicit denial alone. This supports Megumin's realization; it is not an omniscient transcript of Wolbach's intentions or proof of why she denied recognition. Kazuma's hoped-for final smile remains a separately qualified observation at P0564–0565. **Confidence: HIGH** for the wording and inference the narrative assigns Megumin; lower for any motive behind concealment.
+
+## JV-V09-10 — Gratitude and technical mastery occupy the same final utterance sequence
+
+- **Source:** part0014.xhtml P0534–0544; retrospective disclosed history at P0766–0780.
+- **Speaker/addressee and state:** Megumin to Wolbach, after inferring that her former rescuer and teacher remembers her.
+- **Anchor/basic gloss:** 「ありがとう」 — “Thank you.”
+- **Form and pragmatics:** she states what she has wanted to show, explains control without incantation, and quietly gives thanks before the voiced spell name. The scene combines personal acknowledgment with the specialist action it made possible; it does not switch cleanly from sincerity to an unrelated combat persona.
+- **Channel/class:** direct speech and narrator-reported whispered word; **L1–L2**. The decisive technique omits the incantation; the text still voices エクスプロージョン, so “silent casting” would be inaccurate.
+- **Model implication:** role commitment can remain central while its display is stripped down to a personally directed acknowledgment. Mastery enables the timing, but does not eliminate subsequent guilt. **Confidence: HIGH** for sequence; no claim that Megumin is emotionally reconciled at the moment of casting.
+
+## JV-V09-11 — Casual language restores choice under an unfamiliar burden
+
+- **Source:** part0014.xhtml P0412–0427, P0473–0484.
+- **Speaker/addressee and state:** Kazuma to Megumin after she cannot explain her inhibition and Yunyun struggles with her own obligation.
+- **Anchor/basic gloss:** 「……どうしたい？」 — “What do you want to do?”
+- **Form and pragmatics:** Kazuma lacks the history and initially panics at her distress. He then asks in the familiar tone of inviting her out and reuses the Crimson Demon “take the best part” formula to offer help with her own decision.
+- **Channel/class:** dialogue, with explicit narration comparing its tone to an ordinary outing; **L1–L2**.
+- **Model implication:** an established playful script can become usable support. This is an invitation with a stated practical boundary—he will not stop the other defenders merely to preserve Wolbach—not a promise to endorse any outcome. **Confidence: HIGH**.
+
+## JV-V09-12 — Generic praise fails; particularized affection preserves flaws
+
+- **Source:** part0014.xhtml P0719–0740.
+- **Speaker/addressee and state:** Kazuma and Megumin during direct reciprocal disclosure.
+- **Anchor/basic gloss:** 「三枚目」 — the comic/unimpressive role rather than the conventionally dashing lead.
+- **Form and pragmatics:** Kazuma's hesitant answer defaults to her specialty, which she identifies as a formula. Her own explanation builds through unflattering particulars—limits, variable effort, mixed conduct, poor timing—before articulating why this imperfect person is loved.
+- **Channel/class:** dialogue with Kazuma's successive internal misreadings; **L1–L2**.
+- **Model implication:** “likes Explosion” cannot substitute for a contextual voice grammar or a specific account of affection. Her speech does not demand that his habitual flaws be revealed as secretly admirable in every case. **Confidence: HIGH** for her avowed preference; her charitable final interpretation remains her interpretation.
+
+## JV-V09-13 — Embarrassing self-disclosure becomes an unconventional comforting register
+
+- **Source:** part0014.xhtml P0752–0815.
+- **Speaker/addressee and state:** Kazuma to a tearful Megumin, then reciprocal teasing after she explains her guilt.
+- **Anchor/basic gloss:** 「恩知らず度」 — a deliberately makeshift “degree of ingratitude.”
+- **Form and pragmatics:** early flustered boasts give way to a detailed account of his own failures and a comic comparison that attempts to loosen her totalizing self-blame. The self-description is socially costly rather than a heroic résumé. Megumin laughs and replies directly; this return of teasing does not mean her history was never serious.
+- **Channel/class:** dialogue, autobiographical report, and immediate narration; chiefly **L1–L2**. The productive 度 formation is transparent and portable enough that this entry does not require an L3 classification.
+- **Model implication:** the same capacity for framing can be used to care as well as self-exonerate. His “manufactured problem” analogy is a consoling interpretation, not proof that Wolbach engineered the original attack. **Confidence: HIGH** for the exchange and immediate change; unresolved longer-term grief.
+
+## JV-V09-14 — A second narrator makes romantic knowledge boundaries visible
+
+- **Source:** part0015.xhtml P0003–0016, P0029–0062, P0074.
+- **Speaker/addressee and state:** Megumin's first-person epilogue narration and her conversation with Kazuma the following morning.
+- **Anchor/basic gloss:** 「確認できてはいません」 — “we have not confirmed it.”
+- **Form and pragmatics:** inward certainty of affection coexists with explicit uncertainty about whether they have become a couple. She withholds an assumed entitlement to object, asks about his preference, and privately decides to grow her hair. Her internal knowledge of his planned outing is incomplete.
+- **Channel/class:** chiefly Megumin narration, with direct dialogue; **L1–L2**.
+- **Model implication:** do not attribute these observations to Kazuma or turn mutual liking into a confirmed relationship agreement. Nor should her restraint be read as absence of jealousy. **Confidence: HIGH** within the epilogue's stated perspective.
+
+## JV-V09-15 — A letter supplies intimacy within formal obligation
+
+- **Source:** part0016.xhtml P0036–0040.
+- **Speaker/addressee and state:** Iris writes to Kazuma about his reported service and a requested escort connected to an arranged meeting.
+- **Anchor/basic gloss:** 「お兄様へ」 — “to elder brother,” in respectful affectionate address.
+- **Form and pragmatics:** a formal letter opening and indirect request coexist with the established brother-address relation. Kazuma's response belongs to his narration and action, not to Iris's unspoken feelings.
+- **Channel/class:** quoted written communication; **L2**.
+- **Model implication:** this is a small new sample of role-conditioned address. It does not supply the private deliberation required to resolve all Iris predictions. **Confidence: HIGH** for wording; limited scope.
+
+## V09 language-model disposition
+
+**MG02-J01: STRENGTHEN with explicit non-circular application.** Independent roles and stakes precede the observed shifts: caretaker/partner, dependent requester, noble intermediary, divine claimant, repair captain, former pupil, and familiar companion. Their registers differ; neutral or hesitant language remains part of each repertoire.
+
+**MG02-J02: PRESERVE / STRENGTHEN at V09 level.** Major comic sequences remain L0–L2 dominated qualitatively. The charm/babysitting reading supplies a local L3 effect that requires reconstruction or annotation; the recognition particle supplies an exact-wording-sensitive L1/L2 inference that can survive ordinary additive wording in translation. The latter carries a serious relational payoff and is not a major comic sequence, so “mostly portable humor” must never become “Japanese micro-language does not matter.”

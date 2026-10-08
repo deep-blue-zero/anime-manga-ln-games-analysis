@@ -4,14 +4,14 @@ artifact_id: WATAYURI_INFORMATION_DISCLOSURE_AND_MISREADING_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.8"
+version: "0.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V07 mainline through V07 Shift 36/i150, also latest depicted present; packaged shorts separately bounded; V08–V14 inventory only"
+source_boundary: "Japanese V01–V08 mainline through V08 Shift 41/i158, also latest depicted present; packaged shorts separately bounded; V09–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_INFORMATION_DISCLOSURE_AND_MISREADING_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_INFORMATION_DIS
 
 **Update and revision rule.** Update when disclosure, false belief, correction or materially altered higher-order belief affects behavior. Append a new dated epistemic state; preserve what each party and reader could know at the earlier VNN. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V07 mainline through V07 Shift 36/i150, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1 and 36.2 remain separately bounded; V04 EX is promotional. V01–V06 sections retain their earlier states; dated V07 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V08 mainline through V08 Shift 41/i158, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2 and 41.5 remain separately bounded; V04 EX is promotional. V01–V07 sections retain their earlier states; dated V08 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -331,3 +331,55 @@ Preserve prior holder states. Do not duplicate an entire relationship summary wh
 **A statement can identify a real bond and still overpredict its viability.** Kanoko’s special-friend correction is better supported than the initial ordinary-suitor comparison. Mitsuki’s inference that the answer therefore restores the past is not established by it. [INF08/INF13/INF14.]
 
 **The final comfort is not a new romantic or employment answer.** The previously specified no remains in force. An invitation to the salon within the promised event exception does not supply an unspoken return to regular shifts. [INF12/INF15.]
+
+
+<a id="v08"></a>
+## V08 — Current additions and transitions — 2026-10-08
+
+**V08 evidence key:** source-map key `V08`, Japanese witness `1bP7VtpkHkHaxxZiJ_O1Eae723HmX3JQ1`, SHA-256 `345c8e407a32a9453299ae564e50dd844d96a8d79623da3027f440b7de54cf1b`. The [frozen V08 reading](../02%20Sequential%20Readings/WATAYURI_V08_DEEP_READING.md#information) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V08; WY1–WY7 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 41/i158. Shift 41.5/i160–161 is a post-return clothing supplement with finer chronology OPEN. Afterword/edition matter i162–167 and bonus waking skit i168 do not advance the mainline endpoint. The receiving correction to i109 is incorporated throughout; original prior-volume findings remain intact.
+
+### Information, disclosure and misreading increments
+
+Each consequential proposition needs its own knowledge distribution. A character’s inner panel is not automatically information available to another character in the room. V08 adds knowledge selectively and leaves several inherited asymmetries untouched.
+
+#### Inherited proposition continuations
+
+| Inherited proposition / source responsibility | V08 current disposition | Knowledge and routing constraint |
+| --- | --- | --- |
+| **Hime’s romantic answer**, established in V07’s HM clarification | **PRESERVE.** The answer remains nonromantic even after return. | Mitsuki hears the retained distinction; coworkers’ knowledge of a conflict does not imply full knowledge of every private clause. Link WY7-C14/C15/C19 and WY8-INF08. |
+| **Hime’s ordinary-work departure versus birthday exception** | **REVISE current state.** The birthday completes; ordinary continuation is then explicitly chosen and later enacted. | Do not backdate return into V06’s announcement or V07’s birthday-only attendance. Link WY7-C01/C20/C24 and INF09. |
+| **Positive personal attachment despite rejection** | **STRENGTHEN**, then change its distribution. | The reader sees Hime’s wish at i031–038 before Mitsuki receives the explicit wish at i098. Earlier secret knowledge must remain time-indexed. |
+| **Kanoko’s earlier abolition/exclusivity project** | **PRESERVE as undisclosed to Hime in the inspected evidence.** | Current supportive advice does not supply the missing disclosure. WY3-PR02 remains untriggered. |
+| **Kanoko’s romantic interest and the meaning of her selective attention** | **PRESERVE the unequal distribution.** | Hime’s bath comfort is not evidence that she has learned and accepted this classification. Link V03/V04 attachment records and INF11. |
+| **Confession knowledge versus knowledge of the kiss** | **PRESERVE as separate propositions.** | No universal coworker briefing is invented. A new discussion of restrained desire on i101 is not proof of who knows the earlier act. |
+| **Mai’s recovery and continued injury pretence** | **PRESERVE established deception and prior disclosure.** | No new explicit Hime trust grievance or blanket forgiveness occurs. The adverse state of WY5-PR01 remains. |
+| **Mitsuki’s desired kind self and Hime’s recognition of it** | **STRENGTHEN as a shared interpretive resource.** | The i094–095 exchange explicitly uses the earlier recognition; it does not give Hime every detail of Mitsuki’s school history. |
+| **A sister pact’s public label and its private permissions** | **REVISE current practical account.** | Continuing sisters now coexists with differentiated contact/privacy rules. Do not apply those rules retrospectively to every earlier act. |
+| **Goeidō/Nene history and other sparse biographies** | **PRESERVE.** | No new mainline historical disclosure in V08 resolves their earlier unknowns. |
+
+#### Eighteen new consequential proposition records
+
+| ID | Proposition / represented status | Knower, believer or audience | Behavioral consequence / later correction | Evidence and confidence |
+| --- | --- | --- | --- | --- |
+| **WY8-INF01** | Hime thinks an honest rejection plus continued friendship will keep hurting Mitsuki. | Hime states the account to Kanoko; it is her prospective judgment, not an independently guaranteed future. | Supports continued departure intention despite a completed answer. | i005–007; high for account, future outcome open. |
+| **WY8-INF02** | The birthday message was requested to help Hime choose for herself. | Kanoko and Sumika know the request; Hime hears the delivered intervention; guests hear the role-compatible form. | Advice addresses Hime indirectly without giving every audience the same context. | i018–025; high. |
+| **WY8-INF03** | Kanoko now enjoys working at Liebe independently of her original reason for joining. | Kanoko says it; Hime and the immediate birthday audience receive the statement. | Changes Hime’s model of why Kanoko remains. It does not prove every motive is independent. | i023; high for statement, supported by participation. |
+| **WY8-INF04** | Hime wants comparable personal liking but recognizes a mismatch in kind. | Hime’s interior narration and reader; not yet a shared declaration to Mitsuki at this point. | Makes positive attachment secure while blocking a romantic reading of isolated wording. | i027–033; high. |
+| **WY8-INF05** | Hime’s public continuation assurance does not match her still-current plan to leave. | Hime and reader know the discrepancy; the public performance does not disclose it to guests. | Intensifies the private cost of an apparently successful sister scene. | i034–036; high. |
+| **WY8-INF06** | Hime privately does not want to leave Yano. | Reader gains the wish at the piano sequence; Mitsuki cannot simply be assigned it. | Provides counterevidence to later total indifference; becomes openly stated at i098. | i037–038, i098; high. |
+| **WY8-INF07** | Hime’s façade is real, but her claim of no care is false in light of the supplied inner evidence. | Coworkers hear the façade account; Mitsuki challenges its totalizing use; reader can compare earlier thought. | Hime later admits the distancing lie. | i077–093; high for this denial, not every Hime utterance. |
+| **WY8-INF08** | The challenged lie concerns all-care denial, not the nonromantic answer. | The subsequent HM discussion explicitly retains unequal feelings. | Permits continuation without demanding that Hime reclassify herself romantically. | i084–102; high. |
+| **WY8-INF09** | Hime wants to continue as a sister and not leave; subsequent participation occurs. | Hime says it to Mitsuki in the shared workplace context; later staff activity provides follow-through. | Changes ordinary-work state from departure to return. | i096–109, i158; high, administrative details unshown. |
+| **WY8-INF10** | A wanted kiss is not being enacted. | Mitsuki says so; Hime hears it. | Establishes a separation between desire, disclosure and action, while the disclosure itself still alarms Hime. | i101; high; no new kiss. |
+| **WY8-INF11** | Hime’s comparative ease with Kanoko rests partly on a less informed model of her interest. | Hime’s assessment differs from Kanoko/Sumika/reader knowledge. | Makes a bath alternative seem simpler than a complete-information comparison would establish. | i125, i135–136; high for asymmetry, future reaction open. |
+| **WY8-INF12** | Hime thinks Mitsuki declined the photo embrace to protect her. | Hime’s interpretation; Mitsuki’s complete reason is not independently specified by it. | Encourages Hime to expect that Mitsuki will recognize other limits without further explanation. | i118–121; moderate motive inference. |
+| **WY8-INF13** | Hime’s claimed pre-existing Kanoko bath plan precedes the real invitation. | Hime knows the convenience claim; subsequent invitation supplies the alternative. | Avoids a direct limit temporarily; later events expose the unresolved issue. | i122–125; high. |
+| **WY8-INF14** | Hime suspects a deliberate motive behind the uncomfortable bath interaction. | Hime’s hypothesis, not an independently shown decision by Mitsuki. | Shapes apprehension about the next room encounter. | i146–150; high for suspicion, motive open. |
+| **WY8-INF15** | The feared renewed approach is not the act Mitsuki actually performs; she apologizes. | Hime’s anticipation is contrasted with the reader’s and Hime’s observation of the apology. | Enables Hime to initiate clarification. | i149–153; high. |
+| **WY8-INF16** | Hime accepts handholding and occasional hugs but not shared bathing, and asks for changing privacy. | Explicitly shared between Hime and Mitsuki. | Provides an act/context-specific basis for later conduct; no new kissing clause is spoken here. | i154–155; high. |
+| **WY8-INF17** | Hime does not want the affectionate declaration at this moment. | Hime says “not now”; Mitsuki questions, then accepts. | Establishes a timing limit rather than a new whole-relationship refusal. | i156–157; high. |
+| **WY8-INF18** | Kanoko’s photographed smile becomes newly salient in the later café review. | Mai points it out; Sumika reacts; reader links it to the prior photographic scene. | Opens a question about attention and feeling without a settled romantic classification. | i114–116, i158; high for reaction, interpretation open. |
+
+The distinction between INF07 and INF08 is a preservation requirement. “Hime was lying” is too imprecise to be safe cumulative knowledge. Her all-care denial is false, her practiced façade is real, and her romantic refusal is retained. The three propositions have different truth states even when they are discussed in the same confrontation.
+
+Similarly, INF12 and INF16 must not be merged. Hime’s belief that Mitsuki is protecting her can make silence feel sufficient, while the later direct list reveals the need for more precise shared information. The later list is not evidence that Mitsuki had possessed the same list earlier and deliberately ignored it; visible earlier discomfort nevertheless remains relevant to judging her approach.

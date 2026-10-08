@@ -3,14 +3,14 @@ series: BLUE_ARCHIVE
 artifact_type: character_analytical_coverage_index
 scope: PROLOGUE_PLUS_MAIN_V001_C001_C002_C003_CHECKPOINTS_PLUS_V002_C001_C002_PLUS_V003_C001_C002_C003_C004_CHECKPOINTS_PLUS_V004_C001_C002_CHECKPOINTS_PLUS_V005_C001_C002_PLUS_V006_C001_C002_C003_CHECKPOINTS_PLUS_V100_C001_C002_CHECKPOINTS_PLUS_V100_C003_CHECKPOINT_PLUS_V100_C004_CHECKPOINT_PLUS_S2_V000_C001_CHECKPOINT_PLUS_S2_V001_C001_CHECKPOINT_PLUS_S2_V002_C001_CHECKPOINT_PLUS_S2_V002_C002_CHECKPOINT_PLUS_S2_V003_C001_CHECKPOINT
 generation: V1
-version: "5.63"
+version: "5.64"
 status: canonical
-source_boundary: "All 480 canonical main units through S2 V003 C001 and V001 C003 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in snapshot; 213 supplemental objects admitted with limits"
+source_boundary: "All 480 canonical main units through S2 V003 C001 and V001 C003 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in snapshot; 266 supplemental objects admitted with limits"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-09-25
-updated: 2026-10-02
+updated: 2026-10-07
 governing_specification: "../00 Frameworks and Methods/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_SPEC_V1.md"
 current_checkpoint: "../02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md"
 next_unopened_main_unit: none_at_audited_snapshot
@@ -55,7 +55,7 @@ Readiness uses the project-local specification:
 - `OPERATIONAL_CANDIDATE`;
 - `BOUNDED_VALIDATED`.
 
-All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means that canonical checkpoint/ledger analysis already supports at least one conditional mechanism, not that a finished model exists. Current combined census: **23 partial /493 unmodeled /516 total**; models `NONE`. Supplemental authority: [contextual coverage](BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md). §464 is the main-only audit.
+All standalone model artifacts are currently `NONE`. A `PARTIAL_MODEL` row means that canonical checkpoint/ledger analysis already supports at least one conditional mechanism, not that a finished model exists. Current combined census: **23 partial /517 unmodeled /540 total**; models `NONE`. Supplemental authority: [contextual coverage](BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md). §464 is the main-only audit.
 
 ## 2. Shared corpus boundary
 
@@ -64,13 +64,13 @@ All rows inherit:
 - analyzed main-story basis: all 480 canonical main units in the [current source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md), with Chapter 3 Abydos backfill separately read and checkpointed after the latest forward S2 V003 C001 unit;
 - current backfill checkpoint: `MAIN_V001_C003`; latest forward checkpoint: `MAIN_S2_V003_C001`; all earlier chapter checkpoints remain lineage;
 - main-story coverage: `480 / 480` canonical units, with no unopened main unit in this audited snapshot;
-- current supplemental state:65 group/59 event/37 bond/37 MomoTalk/15 data admitted; see contextual coverage;
+- current supplemental state:65 group/72 event/54 bond/54 MomoTalk/21 data admitted; see contextual coverage;
 - performed voice: `NOT_ADMITTED` for every subject;
 - next unopened main unit: none in the audited snapshot; recheck release and source provenance before extending it.
 
 The historical V1 source lock reports 53 group, 490 event, 694 bond, 920 MomoTalk, 244 character-data objects and 128 character packages. The active DB generation instead reports 65 group, 1,010 event, 1,161 bond, 1,161 MomoTalk, 511 character-data objects and 151 character packages. These are retrieval inventories, not character-specific analysis or side-source admission.
 
-**Snapshot boundary:** §§3–5 tables retain the 2026-09-28 main-only rows (352 subjects). [Contextual coverage](BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md) overrides98 rows and adds164 subjects; the other254 rows inherit unchanged.
+**Snapshot boundary:** §§3–5 tables retain the 2026-09-28 main-only rows (352 subjects). [Contextual coverage](BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md) overrides99 rows and adds188 subjects; the other253 rows inherit unchanged.
 
 ## 3. Source availability versus analyzed coverage
 
@@ -4751,3 +4751,8 @@ Routing: [V001 C003 E043 reading](../02%20Sequential%20Readings/MAIN/VOLUME_001_
 ## 465. Phase 2 contextual coverage — 2026-10-01
 
 [Current companion](BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md): 180 objects admitted with limits; 23 partial/482 unmodeled/505 subjects. Historical rows and deltas remain intact.
+
+
+### Current cycle007 authority qualification — 2026-10-07
+
+The earlier dated acceptance and conditional appendices retain their exact input boundaries, including213 admitted objects/516 subjects where recorded. The current cycle007 checkpoint and current boundary above govern266 admitted objects/540 subjects after this coherent transaction; those historical numbers are not competing live censuses. Later mini/G01,20-family,G06/G26,D02 and CF08/CF10 observations retain their existing conditional admission, actor/mode/locale, ordinary-value and contrary-case limits. All twelve full-arc rows and all five architectural duties as a complete Phase2 responsibility remain incomplete; P2-R01 is PASS_WITH_LIMITS only for its group-relevance scope, and P2-R02–R09 remain IN_PROGRESS. No standalone/operational/validated model, monograph, forecast or performed-voice admission is created.
