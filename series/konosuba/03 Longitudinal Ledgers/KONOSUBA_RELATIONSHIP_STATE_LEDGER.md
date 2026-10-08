@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V08
+scope: V01-V09
 ledger_role: relationship_state
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V08 main narrative
+source_boundary: Japanese main-series light novels through V09 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Relationship State Ledger — Through V07
+# KONOSUBA Relationship State Ledger — Through V09
 
 ## Purpose
 
@@ -426,3 +426,67 @@ This supports a mature formulation of affection without idealization:
 - Kazuma/Darkness attraction is also real and behaviorally consequential.
 - Neither relationship has cleanly converted the party into an exclusive couple structure.
 - Aqua remains outside the demonstrated romantic rivalry and continues to function primarily as family/sibling-like attachment.
+
+
+# V09 Update
+
+**Source:** V09 main narrative, `OEBPS/Text/part0009.xhtml`–`part0016.xhtml`; P#### counts all body paragraphs. Epilogue 1 is Megumin's first-person account, not another segment of Kazuma's narration.
+
+## Kazuma ↔ Megumin
+
+**State change: direct reciprocal affection, emotionally consequential intimacy, and an explicitly unresolved couple label.** The two independently wonder whether they are now dating. This agreement between their separate viewpoints is stronger than a narrator's guess, but it agrees on uncertainty. (`part0014.xhtml`, P0719–0740, P0827–0847; `part0015.xhtml`, P0003–0007, P0051–0052; anchors `俺もめぐみんの事が好きだと思う`, `恋人に昇格したのかまでは確認できてはいません`.)
+
+- The shared Explosion appraisal/carry routine combines informed complicity, practical dependence and affection. Kazuma learns that the dependence is deliberately being maintained through skill-point allocation; Megumin explicitly values physical closeness and the change from self-sufficient isolation to companionship. Do not recast every support cost as an accidental temporary limitation. (`part0009.xhtml`, P0009–0044; anchors `ずっとこうですよ`, `仲間とのスキンシップ`.)
+- Private opportunities expose reciprocal awkwardness rather than a stable seducer/victim arrangement. Megumin can tease confidently in ordinary space, become unable to deliver the intended disclosure when pressed, and retreat by invoking the Darkness incident. Kazuma overstates what she has previously said and she corrects him. Publicly accepting the innocent explanation earlier does not mean she was unaffected by it. (`part0010.xhtml`, P0093–0118, P0476–0485, P0499–0543; anchors `拡大解釈しないで`, `節操がない`.)
+- Romantic inducement is neither sufficient nor necessary to recruit Kazuma's dangerous help. He rejects admiration, fame and an offered private reward, then accepts a candid, bowed request concerning Chomusuke and later volunteers his relevant skills for her renewed attempt. Their bond is increasingly expressed through responding to a specifically entrusted need. (`part0011.xhtml`, P0062–0081, P0310–0373, P0478–0486; `part0013.xhtml`, P0165–0171; anchors `飼い主としては`, `一緒にいてやる`.)
+- Knowledge of the other's defining value enables both care and gratuitous injury. Kazuma's imitation-Explosion performance provokes Megumin even after she explicitly reacts; he repeats it to needle her. She discards his work despite explicit money and labor cost, then maintains rejection after he explains its mission purpose and she acknowledges possible usefulness. Kazuma later detonates the discarded item. The relationship has not become free of coercive humor or material costs merely because affection is now explicit. (`part0011.xhtml`, P0559–0617; anchors `まがい物`, `役に立つかもしれませんが`.)
+- During the Wolbach crisis, Kazuma's most useful relational move is asking `どうしたい` and offering help before requiring the whole history. He secures space for Megumin's chosen confrontation. Later, visible tears redirect his attention from his own romantic hopes toward her condition; she then tells him why the encounter hurts. This is a developing ability to respond to vulnerability, with an observable trigger and a substantial cost to his immediate wishes. (`part0014.xhtml`, P0456–0494, P0752–0815; anchors `自分の手で決着付けたいのなら`, `お前無理してないか`.)
+- Megumin's account of attraction is deliberately nonidealizing: she describes his limited strength, inconsistency, occasional unkindness, practical intelligence and foolishness before returning to his reliable pattern of helping companions despite complaint. Her speech is evidence for what *she* values and notices; it is not an infallible neutral audit of every prior action. (`part0014.xhtml`, P0724–0740; anchors `善くも悪くもない`, `そんなあなたが好き`.)
+- The final care boundary must preserve its route. Kazuma alternates between concern for trust/household continuity and renewed willingness to ignore those concerns; he ultimately refuses to continue while grief drives Megumin's approach, and leaves a future possibility contingent on her own unburdened desire. Her gratitude, laughter and departure show immediate relief, not completed long-term recovery. (`part0012.xhtml`, P0336–0366; `part0014.xhtml`, P0685–0719, P0752–0818; anchors `人が弱ってるところに付け込む`, `負い目を感じなくなって`.)
+- Epilogue 1 preserves jealousy and a quiet prospective adjustment: Megumin does not know the full nature of Kazuma's proposed café visit, reasons that unconfirmed couple status limits her standing to object, asks his stated type, and decides to grow her hair. No agreement on exclusivity is shown; neither her jealousy nor his ordinary opportunism erases the explicit affection. (`part0015.xhtml`, P0029–0074; anchors `まだ私が怒る筋合いなどない`, `髪を伸ばそう`.)
+
+## Kazuma ↔ Darkness
+
+- Their familiarity includes precise erotic, status and reputation vulnerabilities, but neither can infer that every form of embarrassment is welcome. A requested restraint scene turns into unwanted bodily distress and concealment. Both initially fear Megumin's interpretation; shared embarrassment and grievance then keep them fighting after the original reason to hide has passed. The eventual understanding comes from disclosure, not the concealment strategy. (`part0010.xhtml`, P0177–0208, P0248–0255, P0295–0394, P0476–0485.)
+- Explicit distress and apology can produce reciprocal repair. Darkness's direct request for forgiveness prompts Kazuma's apology early in the chapter; later her actual tear stops his petty leverage, while a threat to seek the others' judgment reverses the immediate power relation. The scene contains genuine mistreatment as well as rapid repair; relationship durability is not proof that each action is harmless. (`part0010.xhtml`, P0154–0165, P0417–0433; anchors `そろそろ許してください`, `俺が悪かった`.)
+- Serious protection continues beneath contempt. Darkness absorbs the Dragon Zombie attack; Kazuma organizes her evacuation and warns Aqua not to repeat a comment about her muscle/weight insecurity. His later description of Darkness as not useful is contradicted by those actions and by the party's dependence on her shield. (`part0012.xhtml`, P0223–0272; `part0015.xhtml`, P0019–0024; anchors `間違ってもそれを言うな`, `役に立たなかった`.)
+- Noble authority remains a shared resource with unequal costs. Kazuma invokes the family name to defeat a threat and obtain lodging; Darkness must then carry the command role attached to that public identity. Her accusation that his display helped create the obligation is an explicit causal correction to his initial complaint. (`part0012.xhtml`, P0512–0544; `part0013.xhtml`, P0146–0152; anchor `お前が私の名前を出して`.)
+- Darkness's anxiety over Kazuma/Megumin and her later attempt to hide Iris's letter are separate observed acts. The latter shows control of access to a relationship, but neither the text nor Kazuma's successful sender inference supplies a complete motive. Do not declare an exclusive romance or reduce every protective act to jealousy. (`part0010.xhtml`, P0122–0143, P0295–0298; `part0016.xhtml`, P0013–0034.)
+- After the consolation scene, Kazuma recovers his concealed letter through an intrusive bodily search despite Darkness's objection, then celebrates his newly unrestrained self-description. Her concealment and his method of retrieval are distinct boundary violations; the earlier care scene does not erase this later conduct. (`part0016.xhtml`, P0016–0034; anchors `断る`, `遠慮などしない男`.)
+
+## Kazuma ↔ Aqua
+
+- Shared appetite and mischief remain rapidly self-reinforcing: Aqua moves from criticizing his idle luxury to joining it, and the two encourage forbidden button-pushing at the fortress. Their mutuality can degrade judgment as readily as improve comfort. (`part0011.xhtml`, P0006–0027; `part0013.xhtml`, P0009–0021.)
+- Both accurately know several of the other's capabilities and weaknesses. Aqua's prediction that he would turn the chicken shelter into a joke is privately confirmed by him; their boast contest names real defenses and skill asymmetries. This is intimate knowledge used competitively, not a global inability to understand one another. (`part0010.xhtml`, P0108–0115; `part0011.xhtml`, P0090–0111.)
+- Kazuma holds Aqua responsible for late waking and the flood but still routes her strength, healing and repair rather than abandoning her. She heals/carries Darkness and later sustains fortress repair while still enjoying recognition and protesting ordinary costs. Fault, capability and attachment are co-present. (`part0012.xhtml`, P0238–0278; `part0014.xhtml`, P0016–0019, P0043–0110.)
+- Her repeated interruptions of Kazuma/Megumin arise through visible social-game or celebration requests. V09 does not establish deliberate romantic sabotage or a new romantic motive for Aqua. (`part0010.xhtml`, P0017–0046, P0052–0055; `part0014.xhtml`, P0681–0710.)
+
+## Megumin ↔ Darkness
+
+- Megumin expressly makes Darkness the most sturdily made protective charm because she shields the others. Overhearing this makes Darkness's concern about disappointing her immediately more acute. Their bond is therefore not reducible to competition over Kazuma. (`part0010.xhtml`, P0343–0348; anchor `いつもその身を盾にして`.)
+- They have private discussions about Kazuma whose full content remains unavailable. Megumin's quick acceptance of an innocent explanation and later admission of resentment can both be true; the information does not establish a secret agreement or its terms. (`part0010.xhtml`, P0295–0298, P0476–0485, P0540–0543.)
+- Megumin explicitly supports a surprise attack on Wolbach to reduce the chance of Darkness absorbing Explosion. This is a high-stakes protective preference, distinct from the later moment when Wolbach's personal identity inhibits her own action. (`part0013.xhtml`, P0206–0208; anchor `ダクネスには出来るだけ`.)
+
+## Megumin ↔ Yunyun
+
+- Familiarity supports care and competitive injury simultaneously: Megumin notices Yunyun's sleepless excitement and blocks an additional watch shift; she also invalidates Yunyun's cherished rival position and pressures her about adopting Explosion. Yunyun resists that life-defining demand. (`part0012.xhtml`, P0152–0160; `part0013.xhtml`, P0082–0091.)
+- Yunyun directly challenges Megumin's concealment when Chomusuke's history matters. During the later moral crisis she articulates her own attachment to Wolbach, tries to assume the painful task and fails to sustain composure. Neither is merely the other's foil or subordinate conscience. (`part0011.xhtml`, P0389–0448; `part0014.xhtml`, P0458–0468.)
+- The two react differently to the same teacher/benefactor figure: Wolbach explicitly remembers inviting Yunyun, while Megumin must infer her own recognition from linguistic detail. Do not transfer one girl's history or emotional burden to the other. (`part0014.xhtml`, P0176–0189, P0534–0544, P0766–0780.)
+
+## Kazuma / Megumin / Yunyun ↔ Wolbach
+
+These are three distinct personal relations crossing an active military conflict. Kazuma experiences a considerate and unusually familiar conversational partner; Yunyun treasures an invitation to companionship; Megumin owes rescue, teaching and the origin of her chosen life. Wolbach simultaneously names obligations to her subordinates and a need to recover her divided power. Negotiation fails because the proposed conditions do not reconcile those commitments, especially the threat to Chomusuke. (`part0012.xhtml`, P0390–0433; `part0014.xhtml`, P0155–0189, P0331–0374, P0499–0544, P0766–0780.)
+
+Megumin's gratitude and Wolbach's possible final smile do not authorize claiming reconciliation or forgiveness as a settled bilateral fact. Megumin's recognition inference is textually specified; Wolbach's interior reasons remain withheld, and Kazuma explicitly doubts his perception of the smile. (`part0014.xhtml`, P0534–0544, P0561–0565.)
+
+## Darkness ↔ Aqua / fortress community
+
+Darkness's nominal command role becomes useful through matching Aqua's pride to real responsibility. Aqua's repair-captain status is socially maintained by helpers, she reciprocates with work and shared drink, and the fortress's restored confidence attracts supplies and reinforcements. This is a new, durable-for-the-operation cooperative script, not merely Kazuma controlling a passive specialist. (`part0014.xhtml`, P0080–0110.)
+
+## Party ↔ home / Yunyun
+
+Megumin's amulets explicitly wish for everyone's continued presence; she welcomes the party's ordinary chaos. After the victory, the group leaves the celebration because she is distressed. At homecoming they insist Yunyun join the party rather than leaving her outside their temporary shared life. Her delighted response confirms the invitation's value without proving permanent party membership. (`part0010.xhtml`, P0343–0374, P0476–0485; `part0014.xhtml`, P0549–0551; `part0015.xhtml`, P0017–0026.)
+
+## Kazuma ↔ Iris — letter boundary
+
+Iris writes as `お兄様`, voices concern, recognizes Kazuma's public achievements and asks for escort to a meeting with her fiancé. Kazuma first warms to the letter and then tears it when that information appears. This is a sharp reaction to relationship/reputation meaning, but V09 supplies neither his settled explanation nor Iris's private decision process or the next journey. (`part0016.xhtml`, P0035–0041.)

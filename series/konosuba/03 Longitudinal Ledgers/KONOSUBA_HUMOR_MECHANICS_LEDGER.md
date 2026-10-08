@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V08
+scope: V01-V09
 ledger_role: humor_mechanics
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V08 main narrative
+source_boundary: Japanese main-series light novels through V09 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Humor Mechanics Ledger — Through V07
+# KONOSUBA Humor Mechanics Ledger — Through V09
 
 ## Core V01 mechanisms
 
@@ -311,3 +311,62 @@ The dominant engine is **successful local optimization producing a system-level 
 
 ## Translation dependence
 V08 remains overwhelmingly L0-L2. Japanese register/pragmatics sharpen character voice, but central jokes survive as causal/status/role structures rather than script-only L3 devices.
+
+
+# V09 Update
+
+**Evidence boundary:** Japanese V09 main narrative only. Locators below identify OEBPS/Text/part00XX.xhtml and its ordinal body paragraph P####, including blank/image-only paragraphs in the count. These findings add V09 evidence without rewriting earlier model history.
+
+## HM-V09-01 — A shared specialty creates both care and inconvenience
+
+The opening Explosion appraisal presents Kazuma and Megumin as participants in an established evaluative ritual. He awards a score, she accepts it as feedback, and he carries her home; she then explains that each improvement is being reinvested into greater spell expenditure, so level growth will not remove the transport burden. Her claim that shared contact matters is simultaneously affectionate and convenient for her. The joke does not require either the attachment or the imposed inconvenience to be false. **H1** for the investment choice, continuing transport, and stated relational valuation; **H2** for the grandiose sommelier/audience presentation. **L0–L2.** (part0009.xhtml P0009–0028.)
+
+The charm-making sequence similarly places sincere protective care beside abrasive household behavior. Megumin makes charms for everyone and identifies the most durable one with Darkness's protective work. Kazuma keeps his gift close rather than casually putting it in his luggage. The private quarrel occurring while the others discuss lasting companionship gives the reader two simultaneous versions of the same household: real care and ridiculous conduct. **H1** for gifts and response; **H2** for the staged juxtaposition. (part0010.xhtml P0061–0088, P0343–0348, P0370–0394.)
+
+## HM-V09-02 — Successful restraint produces a chain of mundane failures
+
+The Bind sequence begins with Darkness's genuine request, but successful binding creates practical dependence that neither participant manages well. Concealment to protect appearances worsens those appearances; attempts to solve the resulting inconvenience become another occasion for score-settling. Kazuma repeatedly understands a local problem while allowing grievance or anticipated embarrassment to obstruct the remedy. The eventual explanation is accepted rapidly by Megumin, which exposes how much of the escalation depended on their predictions about being seen. (part0010.xhtml P0184–0227, P0248–0281, P0295–0341, P0395–0485.)
+
+**H1:** Darkness's specific preference, changing distress, explicit refusals, requests for help, and Kazuma's choices to delay or intervene. **H2:** the prolonged escalation and polarized embarrassment. **H3:** the exact bodily/comic timing; it should not become a general simulation script. Darkness's earlier participation does not make every later inconvenience or exposure welcome. Her own distinctions, including the rejection of the proposed bottle solution and the statement that she cannot currently enjoy the situation, control that inference. (part0010.xhtml P0363–0365, P0417–0433.) Predominantly **L0–L2**, with a small written-language effect in the charm/babysitting wording recorded in the voice ledger.
+
+## HM-V09-03 — Competition rewards the person who ignores the competition's frame
+
+Kazuma wins the nominal contest by taking targets before Aqua can reach them; the resulting pursuit makes all three lose attention to the surrounding enemies. A sincere recovery of complementary party roles follows. Megumin then overrides her referee role, takes the whole target, and claims the strongest-member position, blowing away allies along with enemies. The punchline interrupts Kazuma's cooperative speech rather than simply confirming it. (part0011.xhtml P0172–0198, P0214–0271.)
+
+**H1:** incentives, target choices, role abandonment, and the explicit claim to take the conspicuous success. **H2/H3:** the spectacular interruption and exact injury/recovery presentation. Darkness is left unconscious in the immediate scene; this consequence must remain visible. No inference of uniformly harmless slapstick is justified. The scene limits any rule that growing affection automatically makes Megumin cautious about companions. It is not a clean substitute for the frozen M04 test of the best tactical use directly causing serious companion harm, but it is counterevidence to a broader automatic inhibition rule. **L0–L1.**
+
+## HM-V09-04 — Valuable expertise is hidden by the job's prestige
+
+Aqua's construction work stops the siege from unfolding as a simple duel narrative. Skilled repair, accelerated drying, an organized team, and a satisfying title make the wall grow stronger despite repeated bombardment. The threatened fortress becomes confident enough for celebration, while Megumin and Yunyun are left with personal conflicts that the military problem no longer requires them to resolve immediately. (part0014.xhtml P0047–0110.)
+
+**H1:** demonstrated repair, persistence across days, role assignment, and strategic effect. **H2:** the exuberant captain chorus and the enemy's indignant inspection of the improved wall. **L0–L2.** Recognition is productive here because it rewards the task itself. Aqua's pride need not compete with useful performance; the relevant question is what earns the pride. Her decorative work is reported only after repair and extension have restored safety, so it should not automatically be scored as loss of the main objective. (part0014.xhtml P0083–0110, P0116–0127.)
+
+## HM-V09-05 — Mirrored tactics turn ordinary practice into frightening power
+
+The enemy's Explosion-and-Teleport tactic is adopted against its own encampment. What resembles Megumin's familiar daily activity becomes a coordinated military operation through Kazuma's concealment/reconnaissance and Yunyun's extraction, while defenders handle the resulting counterattack. Repetition then changes the enemy's reactions from confidence to panic and pleading. Yunyun explicitly questions which side now resembles the Demon King's army. (part0014.xhtml P0199–0217, P0228–0258, P0260–0316.)
+
+**H1:** successful role coordination and Megumin's increasing attention to efficient experience gain; her final complaint and Kazuma's correction directly establish goal drift. **H2:** the accumulating chorus of enemy excuses, pleas, and expectations. The enemies' speech provides individualizing cues within the comedy; do not erase these cues by reducing the sequence to a mechanically neutral level-gain montage. The passage does not establish the truth of Kazuma's speculation about why the surviving army cannot withdraw. **L0–L2.** (part0014.xhtml P0286–0321.)
+
+## HM-V09-06 — The rejected prop becomes the emergency resource
+
+Kazuma's mock Explosion performance provokes Megumin because it appropriates the identity and prestige of her specialty, even though she recognizes the device might be useful. Aqua's unsolicited miniaturization initially appears to ruin preparation; the small item that remains in Kazuma's pocket later creates the interruption needed for escape. The payoff preserves both the earlier apparent defect and the later contingent utility. (part0011.xhtml P0520–0536, P0569–0617; part0014.xhtml P0383–0390, P0402–0410.)
+
+**H1:** identity defense, possession, and eventual use. **H2:** performance escalation and the delayed usefulness reversal. **L0–L2.** The source does not establish that shrinking increased the item's explosive force, nor that Aqua foresaw its eventual use; neither should be credited retrospectively.
+
+## HM-V09-07 — Recognized roles fail to command the expected respect
+
+Bandits are treated as a rare encounter worth admiring, while Darkness's proud announcement of noble identity frightens them away before her desired script can proceed. Their retreat is explained through recognized danger, not a victory in direct combat. (part0012.xhtml P0099–0138.) Later, the noble-title performance that secures entry to the fortress simultaneously embarrasses Darkness and lets her companions retaliate against their earlier mistreatment. (part0012.xhtml P0512–0544.) **H1/H2, L0–L2.**
+
+The divine dispute likewise turns on the mismatch between true standing and persuasive self-presentation: Aqua can perceive divinity while refusing Wolbach's preferred classification, and Wolbach doubts Aqua's claim until power is displayed. Threatened punishments are deflated by the target's ordinary habits. The subsequent flood has real tactical costs, so the comic dispute cannot be detached from the failed operation. (part0013.xhtml P0256–0300; part0014.xhtml P0016–0022.) **H1/H2, L0–L2.**
+
+## HM-V09-08 — Romantic competence fails at the level of particulars
+
+Kazuma's confidence as an observer of romantic fiction does not supply confidence when affection is directed at him. His attempt to name what he likes defaults to Explosion, and Megumin recognizes the formula instead of accepting it as adequate personal understanding. Her own explanation of attraction is detailed, unidealized, and funny partly because he initially hears the listed flaws as criticism rather than affection. (part0014.xhtml P0616–0624, P0719–0740.)
+
+The sequence does not end solely through an external interruption: after the interruption fails to separate them, Megumin's tears change Kazuma's behavior and the scene becomes disclosure and consolation. Humor then returns through his embarrassing self-comparison and continued desire. **H1** for disclosures, distress response, and deferred escalation; **H2/H3** for romantic pacing and performative self-description. **L0–L2.** (part0014.xhtml P0685–0719, P0752–0815.)
+
+## H4 and translation calibration
+
+No load-bearing V09 motive claim above requires an event to be classified as wholly nonliteral H4. Supernatural repair, restraint, and destructive magic operate as causal facts within this novel. Exact comic magnitude and bodily timing receive H2/H3 limits where appropriate; their fantasy status alone is not grounds for discarding them.
+
+Major comic sequences remain predominantly situational, causal, status-based, and pragmatic. Two local form-sensitive effects deserve explicit preservation: the different readings of the written charm/babysitting term, and the additive particle used in the recognition inference. The latter is especially consequential to the emotional resolution, but is not a major comic sequence and therefore does not by itself overturn MG02-J02's narrower prediction about humor. (part0010.xhtml P0061, P0116; part0014.xhtml P0179, P0537.)

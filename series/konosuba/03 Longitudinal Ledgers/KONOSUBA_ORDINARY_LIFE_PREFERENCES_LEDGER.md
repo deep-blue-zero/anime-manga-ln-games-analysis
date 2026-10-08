@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V08
+scope: V01-V09
 ledger_role: ordinary_life_preferences
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V08 main narrative
+source_boundary: Japanese main-series light novels through V09 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Ordinary-Life and Preferences Ledger — Through V07
+# KONOSUBA Ordinary-Life and Preferences Ledger — Through V09
 
 ## Purpose
 
@@ -333,3 +333,56 @@ The return to Axel ends in immediate restoration of the party's ordinary ecology
 
 ## Household state after V08
 The mansion remains a high-friction home: romantic ambiguity increases, but ordinary food, money, festival, work, teasing and caretaking routines continue rather than being replaced by formal courtship structures.
+
+
+# V09 Update
+
+**Evidence boundary:** Japanese V09 main narrative only; locators resolve inside OEBPS/Text of the verified EPUB. Preferences are distinguished from temporary impulses, self-reports, and future intentions.
+
+## Kazuma
+
+- **Food and drink:** kamo-negi hotpot is explicitly identified as a favorite, and later discussion corroborates his repeated purchase of experience-rich kamo-negi. He also requests a rich evening meal. Expensive alcohol is rewarding as a sign of leisure and success, while he explicitly says he does not understand what makes its taste good. Preserve the difference between liking the consumption situation and possessing connoisseurship. (part0010.xhtml P0036–0044; part0011.xhtml P0012–0027, P0033, P0077.)
+- **Leisure and daily rhythm:** the current wealthy, post-festival state includes long sleep, nighttime wakefulness, magically cooled rest, and newspaper comic reading. His claim to monitor world affairs is immediately narrowed by the admission that he came downstairs for the serial comic. These are current routines, not proof that he never works intensely under other incentives. (part0010.xhtml P0029–0031; part0011.xhtml P0275–0291.)
+- **Media preferences:** he directly identifies manga, light novels, games, and anime as things he enjoys. V09 also exposes a limit of this familiarity: imagined competence while judging fictional romance does not transfer automatically to his own relationship. (part0014.xhtml P0616–0624.)
+- **Gifts and attachment:** he puts the protective charm in his clothing close to him rather than following the suggestion to toss it into his luggage. The action supports valuing the gift even while subsequent speech jokes about Aqua's contribution. (part0010.xhtml P0081–0088.)
+- **Craft and preparation:** he invests in stronger equipment and restraint materials and prepares tools once the trip is accepted. This extends the autonomy/means-sensitive work model: leisure preference coexists with concentrated preparation when a personally consequential problem becomes active. (part0010.xhtml P0163–0186; part0011.xhtml P0490–0519, P0621–0643.)
+- **Bathing and caregiving:** companions identify him as a long bather; later he makes a safe small bath for Chomusuke and enjoys the cat's proximity. He explicitly calls himself a cat lover, and his care continues even after the ordinary-cat interpretation fails. Extra feeding in epilogue 2 is partly motivated by hope about Wolbach and forgiveness, so it should not be generalized simply as a stable feeding habit. (part0012.xhtml P0318–0319; part0011.xhtml P0468–0469; part0014.xhtml P0507–0511, P0568–0581, P0841–0868; part0016.xhtml P0003–0008.)
+- **Stated attraction preference:** when asked, he gives long straight hair, a large bust, and an indulgent attitude as an approximate preference. This is a stated type, not an exclusive condition for actual affection: the same volume establishes attraction to and care for Megumin. (part0015.xhtml P0053–0059; part0014.xhtml P0719–0740.)
+
+## Aqua
+
+- **Social leisure and caretaking:** post-festival nights are repeatedly filled with parties, games, and a proposed girls' gathering. Zel remains a major object of care, training, housing plans, and reunion desire; she entrusts him to Wiz before traveling. Do not interpret every interruption of Kazuma's private plan as intentional romantic sabotage: the narrative supplies activity choices and his frustration, not verified knowledge of that purpose. (part0010.xhtml P0017–0046, P0050–0059, P0086–0114; part0011.xhtml P0360, P0628–0630; part0015.xhtml P0017.)
+- **Drink and hospitality:** she enjoys sharing a surplus high-quality drink, brings considerable alcohol on the trip, and later distributes it in celebration with the repair team. She names an inexpensive tea as a current favorite, though the served cup is accidentally purified into plain water. The scene establishes her stated preference and failed service; it does not establish that she cannot perceive taste differences generally. (part0010.xhtml P0017–0022; part0011.xhtml P0380–0388; part0013.xhtml P0020–0022; part0014.xhtml P0096–0109.)
+- **Construction and laundry:** V09 directly demonstrates practiced construction skill, enjoyment of its recognition, and sustained participation across days. She explains that water control also accelerates drying and connects this to her laundry turns. The historical labor preference becomes operationally important, while the laundry comparison is her reported account in this passage. (part0014.xhtml P0047–0073, P0083–0110.)
+- **Ordinary aspiration after conflict:** she wants to return to Zel and celebrate with the household. Promotional “dragon egg” letters continue to exploit the prestigious-owner identity; receipt of the letters is not evidence she makes another purchase. (part0015.xhtml P0017–0027; part0016.xhtml P0011–0019.)
+
+## Megumin
+
+- **Daily practice:** Explosion continues as a shared routine and an identity investment rather than a training phase expected to end once travel becomes easier. She reports rehearsing its incantation on sleepless nights and having challenged Wiz again; the final fight independently demonstrates advanced control, but not every detail of the prior comparison. (part0009.xhtml P0009–0027; part0013.xhtml P0098–0104; part0014.xhtml P0539–0544.)
+- **Domestic contribution:** she cooks and serves meals, sews protective gifts, helps with Zel's housing after Darkness proves unsuitable for that task, and enjoys the idea of taking a packed lunch when everyone accompanies her outing. These are concrete ordinary capacities beyond magical specialization. (part0010.xhtml P0034–0037, P0061–0083, P0108–0118; part0011.xhtml P0541–0547.)
+- **Whole-household attachment:** the charms are a wish for no member to be lost, and she gives particular attention to Darkness's protective role. After the embarrassing household incident, she explicitly values the familiar commotion rather than demanding a newly tranquil home. (part0010.xhtml P0343–0348, P0370–0374, P0476–0485.)
+- **Private relationship:** she seeks time with Kazuma, but guilt, embarrassment, desire, and concern about status overlap. The independent epilogue records her wish to know whether mutual liking has changed the relationship, not an already settled agreement. (part0010.xhtml P0493–0541; part0014.xhtml P0752–0815; part0015.xhtml P0003–0007, P0051–0059.)
+- **Appearance and preference learning:** after hearing Kazuma's stated type, she privately decides to grow her hair. This is a new intention conditioned by affection; V09 does not yet show the later appearance or whether the plan persists. (part0015.xhtml P0056–0074.)
+
+## Darkness
+
+- **Practical competence is domain specific:** tea preparation remains positively recognized, but her contribution to the small building task fails badly enough that Aqua requests Megumin instead. Neither observation justifies calling all domestic work either competent or incompetent. (part0010.xhtml P0058, P0064–0080, P0108–0114.)
+- **Contribution as a daily obligation:** she argues that sufficient wealth does not remove responsibility to contribute and proposes helping people rather than working only for money. Later she values successful voluntary participation in the expedition. These are direct avowed commitments; Kazuma's accusations about noble idleness do not independently refute them. (part0011.xhtml P0043–0059; part0015.xhtml P0019–0024.)
+- **Cute objects and protected embarrassment:** Aqua invokes Darkness's interest in cute stuffed-animal-like things; Darkness begins a denial she does not complete. This is supportive continuation of V08 evidence, not a wholly new categorical preference established by a complete self-report. (part0014.xhtml P0133–0135.)
+- **Body and equipment:** the dragon attack destroys her armor and changes feasible protective roles. Kazuma also warns Aqua that Darkness is sensitive about her muscularity; that particular sensitivity is his report here, whereas injury and damaged equipment are observed. (part0012.xhtml P0256–0272, P0451; part0013.xhtml P0075–0077.)
+- **Preference boundaries:** her enjoyment of chosen restraint coexists with acute dislike of particular practical humiliation and exposure. Her requests and refusals change with circumstances, so the earlier preference cannot be used as blanket acceptance of every later condition. (part0010.xhtml P0184–0191, P0278–0301, P0363–0365, P0417–0433.)
+
+## Yunyun
+
+- **Affiliation through small opportunities:** she notices the newspaper's correspondence section and wants to keep it. She brings extensive games for the trip, offers practical help, and is visibly excited about shared travel and an overnight invitation. The evidence supports strong value placed on inclusion; Kazuma's suggestion that such a planned trip may be her first remains his inference. (part0011.xhtml P0397–0398, P0639–0655; part0012.xhtml P0074–0077, P0153–0159; part0015.xhtml P0025–0027.)
+- **Memory and reassurance:** she reports recording Wolbach's invitation in her diary and rereading it, later adding that declining it had troubled her. The small invitation mattered independently of any future combat role. (part0014.xhtml P0176–0182, P0459–0467.)
+
+## Wolbach and Chomusuke — bounded preference evidence
+
+Wolbach describes hot springs as a reward she loves after work. This supplies a mundane preference within the same source that establishes her hostile military role; neither dimension cancels the other. (part0012.xhtml P0390–0405.)
+
+Chomusuke's changed bathing behavior and apparent growth follow the confrontation, while Kazuma treats them as possible clues to identity continuity. Record the behavioral changes, but keep his proposed transformation or restoration unresolved. The source does not supply Chomusuke's inner explanation. (part0014.xhtml P0835–0868; part0016.xhtml P0003–0008.)
+
+## Household state after V09
+
+Shared membership continues through conflict, gifts, games, food, care, teasing, attraction, and unresolved boundaries. Mutual Kazuma/Megumin affection is clearer, but their own separate perspectives leave the couple label unconfirmed. The return-home state is therefore an altered relationship within a continuing household, with grief and future expectations still active—not a completed conversion of the ensemble into a settled courtship arrangement. (part0014.xhtml P0827–0847; part0015.xhtml P0003–0007, P0051–0062; part0016.xhtml P0003–0009.)

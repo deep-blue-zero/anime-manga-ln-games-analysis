@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V08
+scope: V01-V09
 ledger_role: decision_error
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V08 main narrative
+source_boundary: Japanese main-series light novels through V09 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Decision and Error Ledger — Through V07
+# KONOSUBA Decision and Error Ledger — Through V09
 
 ## Purpose
 
@@ -488,3 +488,193 @@ Classification: environment-limited experience rather than low social cognition.
 - **Behavior:** keeps accepting requests as crowd density becomes dangerous.
 - **Outcome:** requires Kazuma/Aigis to create escape structure.
 - **Class:** prosocial duty + insufficient refusal threshold.
+
+
+# V09 Update
+
+**Locator convention:** `part####.xhtml` means `OEBPS/Text/part####.xhtml` in the verified V09 Japanese EPUB; P#### counts all body paragraphs. These are causal evidence entries, not substitutions for final prospective-prediction adjudications. H1 identifies directly usable behavior; H2 marks amplified magnitude or presentation.
+
+## DE-V09-01 — Kazuma and Darkness: concealment manufactures a worse problem
+
+- **Locator:** `part0010.xhtml`, P0235–0255, P0295–0394, P0476–0485; anchors `なぜ俺は隠れてしまった`, `早めに出て`, `誤解なんてしません`.
+- **Trigger/appraisal:** an innocently initiated but compromising-looking situation meets fear of being misread. Kazuma admits attraction contributes to his instinct to hide; Darkness anticipates Megumin's response through private relationship knowledge.
+- **Decision/outcome:** the initial hiding is followed by repeated postponement, worsening discomfort and appearances. Mutual insults then displace the escape goal even after the others leave. Megumin later accepts an accurate explanation promptly.
+- **Mechanism/update:** anticipated social judgment, concealment escalation and grievance-based attention capture; negative evidence against assuming their sophisticated interpersonal knowledge always yields good decisions. The resolution demonstrates that the feared misunderstanding was not inevitable.
+- **Class/confidence:** H1 mechanism, H2 farcical intensity; HIGH for the local causal sequence, MODERATE for generalizing its exact severity.
+
+## DE-V09-02 — Darkness: distress, meaning and relational leverage change the same stimulus
+
+- **Locator:** `part0010.xhtml`, P0177–0208, P0274–0281, P0340–0366, P0417–0453; anchors `女としてのプライド`, `悪かった`, `スティールだ`.
+- **Trigger/appraisal:** a desired experience becomes physically inconvenient and threatens personal dignity. She can partially enjoy one aspect without consenting to every proposed consequence.
+- **Decision/outcome:** she requests help and rejects a humiliating solution. She invokes social accountability when Kazuma exploits her predicament (P0431–0433), then later proposes a skill-based privacy solution (P0448–0453); that solution fails because he has expended the necessary resource.
+- **Mechanism/update:** content-sensitive reward and aversion, followed by active problem solving; not a single pleasure/pain scale. Noticing actual tears first prompts Kazuma to help; her subsequent threat of disclosure to companions changes his bargaining position.
+- **Class/confidence:** H1 conditional preference and strategy; H2 magnitude. HIGH for the need to keep meaning, agency and audience separate.
+
+## DE-V09-03 — Kazuma: comfort resists moral and romantic incentives, but status insult recruits competition
+
+- **Locator:** `part0011.xhtml`, P0021–0111, P0120–0144; anchors `もう働く意味がない`, `そんな格好良いとこ`, `最弱職`, `リベンジ`.
+- **Trigger/appraisal:** wealth removes the need for paid work; Darkness urges public contribution and Megumin requests an admirable display. Neither defeats his preferred leisure schedule. Aqua then challenges his personal strength.
+- **Decision/outcome:** he enters a kill-count contest and chooses a previously feared enemy as proof of veteran status.
+- **Mechanism/update:** within-scene contrast isolates grievance/status as an effective activation cue in a state where duty rhetoric and flattery fail. This does not prove all status cues overpower fear; he later resists the much more dangerous ranking-to-frontline invitation.
+- **Class/confidence:** H1; HIGH, with `part0011.xhtml`, P0353–0373 as the explicit limit.
+
+## DE-V09-04 — Kazuma, Aqua and Darkness: a competitive metric undermines cooperation
+
+- **Locator:** `part0011.xhtml`, P0172–0248; anchors `絶対に負けない作戦`, `囲まれてるぞ`, `誰が一番かなんて`.
+- **Trigger/appraisal:** the agreed metric rewards taking a kill before a teammate, regardless of how that teammate creates the opening.
+- **Decision/outcome:** Kazuma exploits this perfectly, taunts his pursuers and uses improvised terrain control against them; Aqua and Darkness change targets from monsters to him. Noise and distraction allow encirclement.
+- **Correction:** at the real threat, Kazuma recognizes the noncomparability of their roles, Aqua supplies buffs despite the quarrel, and Darkness promises protection.
+- **Mechanism/update:** locally rational metric exploitation produces a bad shared state. Explicit organization is insufficient if its reward structure is misaligned. The correction is real even though Megumin immediately disrupts it.
+- **Class/confidence:** H1 sequence with H2 slapstick; HIGH.
+
+## DE-V09-05 — Megumin: scene-stealing overrides the referee role and ally separation
+
+- **Locator:** `part0011.xhtml`, P0254–0271; anchors `美味しいところは持っていく`, `一番強い`, `お前審判じゃなかったのか`.
+- **Trigger/appraisal:** the others are about to demonstrate cooperative competence while she occupies the excluded observer/referee role.
+- **Decision/outcome:** she casts Explosion, destroys the enemy group and blasts companions down, including an unconscious Darkness, then claims victory in the strength comparison.
+- **Mechanism/update:** contribution/status appropriation and signature-action salience defeat assigned role and collateral control. This is counterevidence to unrestricted companion-safety generalizations and adverse collateral evidence relevant to MG02-M04. Its unchanged trigger is that best tactical Explosion use would directly subject a valued companion to serious harm; the exact match remains unresolved. What Megumin anticipated is explanatory uncertainty, not an additional scoring conjunct. A narrower prior-knowledge or grave-harm trigger belongs to a distinct Gen 0.3 prediction.
+- **Class/confidence:** H1 motive and unsafe deployment; H2 consequence presentation. HIGH for the local violation, qualified scope for exact serious-friendly-fire predictions.
+
+## DE-V09-06 — Megumin: protective disclosure arrives after face-saving distortion
+
+- **Locator:** `part0011.xhtml`, P0389–0486; anchors `紅魔族の恥`, `チリーン`, `飼い主としては`.
+- **Trigger/appraisal:** Yunyun's information threatens the respectable account of the village, Chomusuke and Megumin's family.
+- **Decision/outcome:** Megumin attempts concealment, supplies heroic historical framing and an incomplete account of the broken seals; the detector exposes defects. She eventually makes a specific candid request for accompaniment, which Kazuma accepts.
+- **Mechanism/update:** group/family face-saving and selective causal attribution coexist with sincere protective intent. The detector's findings and her later admission should not be treated as a license to assume every unstated historical proposition is settled.
+- **Class/confidence:** H1; HIGH for the observed disclosure sequence.
+
+## DE-V09-07 — Kazuma: specific entrusted need changes the intervention decision
+
+- **Locator:** `part0011.xhtml`, P0310–0373, P0478–0486, P0631–0643; `part0013.xhtml`, P0165–0171; anchors `しょうがねえなあー`, `結構勝率が高い`, `一緒にいてやる`.
+- **Trigger/appraisal:** familiar inducements are distrusted or outweighed by risk; a bowed request concerning a threatened dependent makes the companion's need concrete.
+- **Decision/outcome:** Kazuma accepts, then actively reduces expected risk through preparation, allied capacity and escape planning. When the original plan fails, another sincere request produces a tailored contribution rather than unconditional fearlessness.
+- **Mechanism/update:** loyalty recruits optimization rather than replacing it. A willingness to help can coexist with initial refusal, complaint and sensitivity to whether the plan is viable.
+- **Class/confidence:** H1; HIGH.
+
+## DE-V09-08 — Megumin and Kazuma: identity provocation defeats known practical utility
+
+- **Locator:** `part0011.xhtml`, P0559–0617; anchors `まがい物`, `役に立つかもしれませんが、それでもダメです`.
+- **Trigger/appraisal:** Kazuma labels a manufactured attack device as Explosion, performing Megumin's identity before an impressed audience. He continues the provocation after her reaction becomes evident.
+- **Decision/outcome:** she discards the item despite stated money and labor cost and threatens to discard future examples. After he explains its purpose in her expedition, she acknowledges possible utility but maintains rejection. He plans concealment rather than agreement, ignites the discarded item and repeats the taunt; she withholds conversation until dinner.
+- **Mechanism/update:** technically informed identity protection, not ignorance of utility. Concrete companion cost fails to inhibit this response; retain as a real boundary/counterexample to a broad relational-restraint rule. His provocation also has an intelligible retaliatory reward despite its predictable cost.
+- **Class/confidence:** H1 causal choices, H2 amplification of outrage; HIGH.
+
+## DE-V09-09 — Aqua: unrequested transformation and a later accidental rescue
+
+- **Locator:** `part0011.xhtml`, P0519–0536; `part0014.xhtml`, P0383–0409; anchors `小っちゃくなっちゃった`, `戻せるわけない`, `ポケットに入ってた`.
+- **Trigger/appraisal:** an unfamiliar prepared object offers a performance opportunity.
+- **Decision/outcome:** Aqua miniaturizes it without consulting its maker and states that she cannot reverse the change. Kazuma retains it because discarding it is impractical; that retained item later creates the interruption needed for escape.
+- **Mechanism/update:** original task-insensitive intervention and favorable unforeseen consequence must remain separate. Later usefulness neither proves Aqua planned the rescue nor proves her object alteration destroyed functionality.
+- **Class/confidence:** H1 action/lineage, H2 impossible-scale trick as a genre capability; HIGH for the causal chain, OPEN on the transformation's unshown technical mechanism.
+
+## DE-V09-10 — Kazuma: face-saving recruitment becomes public commitment
+
+- **Locator:** `part0012.xhtml`, P0011–0068; anchors `道案内`, `護衛してもらう`, `お願いします`.
+- **Trigger/appraisal:** he wants safer travel through additional companions while appearing to offer protection himself.
+- **Decision/outcome:** the escort plan fails because fighters are retreating, and new information makes him wish to reconsider. The guards instead publicly acclaim/report his intended expedition, making retreat more socially costly. He reports the acquired maps to his party while suppressing the failed objective.
+- **Mechanism/update:** useful reconnaissance plus image management can narrow later choices. Praise does not here merely increase enthusiasm; it also creates an obligation trap.
+- **Class/confidence:** H1; HIGH.
+
+## DE-V09-11 — Darkness: imagined danger captures the protector role
+
+- **Locator:** `part0012.xhtml`, P0124–0165; anchors `騎士団なんていない`, `中継地点にたどり着けなかった`, `見張りなら私が`.
+- **Trigger/appraisal:** rare bandits match a desired knightly-danger script.
+- **Decision/outcome:** her open noble identification helps scare them away, but she repeatedly pursues the opportunity, delaying the journey until the group must camp. She then accepts fault and offers compensatory watch duty.
+- **Mechanism/update:** protector language can rationalize an appetitive detour, but accountability remains available after its concrete cost appears. Do not interpret every offered danger as either wholly selfless or wholly erotic.
+- **Class/confidence:** H1 detour/accountability; H2 desired scenario elaboration. HIGH.
+
+## DE-V09-12 — Kazuma and Aqua: correct threat analysis still depends on readiness
+
+- **Locator:** `part0012.xhtml`, P0168–0288; anchors `アンデッド`, `大き過ぎただけ`, `とっとと起きろ`, `支援がないとちとキツイ`.
+- **Trigger/appraisal:** concealment does not stop an approaching night threat; Kazuma correctly infers undead attraction, then initially underestimates scale.
+- **Decision/outcome:** he updates from sound and failed visual outline, wakes allies and calls for the relevant specialist. Aqua's delayed waking allows Darkness to be injured, after which purification/healing succeeds. Kazuma then anticipates further light-attracted threats and distributes carrying, buffs and night guidance.
+- **Mechanism/update:** successful diagnosis, actual specialist latency, damage absorption and adaptive evacuation are distinct links. Aqua's subsequent healing is remediation; her resource-defense quarrel does not erase it.
+- **Class/confidence:** H1 with comic speech around the danger; HIGH.
+
+## DE-V09-13 — Kazuma and Wolbach: warm familiarity distorts identification in different ways
+
+- **Locator:** `part0012.xhtml`, P0387–0437, P0453–0462; `part0013.xhtml`, P0238–0255; anchors `怠惰なつもりはありません`, `私が探していた相手とは違う`, `敵だと認めたくなかった`.
+- **Trigger/appraisal:** two people who feel familiar exchange personal details without treating each other as immediate threats.
+- **Decision/outcome:** Kazuma underweights known military affiliation; Wolbach rejects a promising identification because his self-description and the cat's current behavior do not match her model. He later acknowledges possible motivated nonrecognition.
+- **Mechanism/update:** accurate observations can be combined with biased self-report and an outdated state model to yield a wrong conclusion. Their unexplained mutual familiarity is an observed relation, not independent proof of its supernatural cause.
+- **Class/confidence:** H1; HIGH for the explicit reasoning failures, OPEN for the underlying familiarity mechanism.
+
+## DE-V09-14 — Aqua: status combat destroys the tactical assignment
+
+- **Locator:** `part0013.xhtml`, P0225–0300; `part0014.xhtml`, P0016–0022; anchors `足止めするって目的を忘れ`, `セイクリッド・クリエイト・ウォーター`.
+- **Trigger/appraisal:** fear of an Explosion opponent competes with affronts to goddess status and followers.
+- **Decision/outcome:** she recognizes genuine divinity but turns a delaying exchange into a personal status fight and mass-water deployment. Wolbach escapes; the fortress wall takes additional damage; the ambush becomes unusable.
+- **Mechanism/update:** sacred diagnosis can be right while active goal discipline is wrong. The episode directly links the reward shift to an institutional consequence rather than merely labeling Aqua foolish.
+- **Class/confidence:** H1 mechanism, H2 amplification of quarrel; HIGH.
+
+## DE-V09-15 — Aqua and Darkness: recognition becomes an effective maintenance incentive
+
+- **Locator:** `part0014.xhtml`, P0043–0110; anchors `補修隊長`, `なんの権限もなければ金銭も発生しない`, `日に日に分厚く`.
+- **Trigger/appraisal:** assigned remediation activates a skill Aqua already enjoys; Darkness and the workers attach recognition to doing that work well.
+- **Decision/outcome:** Aqua sustains repeated repairs, improves the wall beyond its initial condition, shares resources with the workers and supports restored morale. Reinforcements become viable once collapse is no longer imminent.
+- **Mechanism/update:** recognition and the instrumental objective align. This refines goal-substitution models: the same reward sensitivity can stabilize a useful duty. No attractive high-power alternative to the actual repair work is presented, and the title also changes its low-status meaning; do not pretend this is a clean maintenance-shortcut experiment.
+- **Class/confidence:** H1 process with extraordinary magical execution; HIGH.
+
+## DE-V09-16 — Kazuma: reverse the enemy's method and hand off the next phase
+
+- **Locator:** `part0013.xhtml`, P0117–0144; `part0014.xhtml`, P0193–0276; anchors `今まで相手がやってきた戦法`, `後の事はお願いします`.
+- **Trigger/appraisal:** directly pursuing the general fails against teleportation and protective forces, while repaired defenses allow a different arrangement.
+- **Decision/outcome:** a small stealth/Explosion/Teleport team raids the enemy camp and withdraws; anger draws enemies into the prepared fortress's superior defensive conditions. Conventional fighters handle that phase.
+- **Mechanism/update:** observed enemy tactics become transferable tools. Kazuma recognizes the limits of his own role rather than treating one successful plan as proof of universal battlefield superiority.
+- **Class/confidence:** H1; HIGH. Operational efficacy does not decide the separate moral assessment of subsequent attacks.
+
+## DE-V09-17 — Megumin: successful contribution becomes personal reward capture
+
+- **Locator:** `part0014.xhtml`, P0278–0321; anchors `降参だ`, `武器を捨てたぞ`, `効率の良いレベルアップ`, `目的を違えて`.
+- **Trigger/appraisal:** repeated successful raids produce rapid level and output gains.
+- **Decision/outcome:** Megumin pursues more targets and becomes frustrated when dispersal reduces efficient returns. Enemy pleas and claims of surrender/disarmament do not interrupt the montage's attacks. Yunyun objects; Kazuma explicitly identifies the displaced objective and calls a stop for the day.
+- **Mechanism/update:** mastery/identity reward can capture even a correctly routed mission. Do not assume hostility-coded targets have no personhood cues, nor invent evidence that every plea was a ruse. The stylized montage limits individual-case judgments but not the observed presence of those cues and the companions' response.
+- **Class/confidence:** H1 goal shift and ethical counterevidence; H2 montage escalation. HIGH for the goal-substitution finding, bounded interpretation of individual enemy intentions.
+
+## DE-V09-18 — Megumin: target meaning disables an available skill
+
+- **Locator:** `part0014.xhtml`, P0007–0015, P0365–0419, P0766–0783; anchors `覚えてないわ`, `魔法を撃てず`, `恩人`.
+- **Trigger/appraisal:** the opponent is the person she has long sought to thank, not simply an anonymous human-shaped enemy or an impressive rival.
+- **Decision/outcome:** she fails to cast twice despite preparation and declared confidence. She apologizes but cannot immediately explain; Kazuma's retained tool and Yunyun's Teleport prevent disaster in the second encounter.
+- **Mechanism/update:** intact capacity plus incompatible gratitude/relational meaning, not low skill. The case broadens the target-meaning inhibition mechanism beyond established party membership, while remaining different from directly harming a valued companion as unavoidable collateral.
+- **Class/confidence:** H1; HIGH for inhibited action and the later supplied history.
+
+## DE-V09-19 — Kazuma and Megumin: restoring choice allows action but does not settle its emotional cost
+
+- **Locator:** `part0014.xhtml`, P0456–0494, P0513–0544, P0561–0565, P0780–0783; anchors `どうしたい`, `あなたのそれも`, `詠唱がなくても`, `恩知らず`.
+- **Trigger/appraisal:** other adventurers are about to settle a personally significant conflict while Megumin remains withdrawn.
+- **Decision/outcome:** Kazuma offers her a choice and secures the opportunity. Megumin infers remembered recognition from a prior particle, speaks her thanks, omits the preparatory incantation and voices the spell name before the opponent finishes. She then experiences profound self-reproach.
+- **Mechanism/update:** recovered agency and a linguistic interpretation enable action; successful performance does not imply uncomplicated desire for the outcome. The recognition inference is her own; Wolbach's possible smile is an explicitly uncertain narrator observation.
+- **Class/confidence:** H1; HIGH for speech/action, MODERATE for inferred remembered recognition, OPEN for Wolbach's unspoken intentions.
+
+## DE-V09-20 — Kazuma: visible distress interrupts desire and prompts a different form of help
+
+- **Locator:** `part0012.xhtml`, P0336–0366; `part0014.xhtml`, P0612–0639, P0685–0719, P0752–0818; anchors `お前無理してないか`, `誰にも言わなかった`, `人が弱ってるところに付け込む`.
+- **Trigger/appraisal:** mutual affection, inexperience, concern for the household and personal desire compete. His earlier private resolve is not consistently principled, and an external interruption produces only temporary restraint.
+- **Decision/outcome:** Megumin's tear finally creates an unambiguous distress cue; he stops, asks, offers to wait, listens to her account and shares a shameful personal history. Once he understands the grief, he refuses to exploit it, despite continued desire and regret afterward.
+- **Mechanism/update:** a genuine seriousness override is activated by specific perceived vulnerability. Preserve both the earlier ethically troubling intent and the later enacted care. His consoling `マッチポンプ` account is an interpersonal reframing, not an established historical explanation.
+- **Class/confidence:** H1 care/decision sequence; some comic self-description H2. HIGH for the observed boundary, qualified generalization to other states.
+
+## DE-V09-21 — Yunyun: duty mobilizes action without erasing attachment
+
+- **Locator:** `part0014.xhtml`, P0176–0182, P0305–0313, P0458–0468; anchors `日記にちゃんと書いて`, `どっちが魔王軍`, `私が`.
+- **Trigger/appraisal:** someone whose invitation deeply mattered must now be confronted as an enemy commander.
+- **Decision/outcome:** Yunyun states her cultural duty and attempts to take responsibility rather than watch strangers do it, but begins trembling and nearly crying. Her earlier protest against the raids shows that duty is not equivalent to unlimited enthusiasm for violence.
+- **Mechanism/update:** strong belonging memory, moral identification and emotional limits operate together. A performed decisive register does not prove low emotional cost or successful completion of the intended action.
+- **Class/confidence:** H1; HIGH.
+
+## DE-V09-22 — Megumin and Kazuma: affection does not automatically produce an agreed relationship rule
+
+- **Locator:** `part0014.xhtml`, P0827–0847; `part0015.xhtml`, P0003–0007, P0029–0074; anchors `明日からのめぐみんの態度`, `確認できてはいません`, `髪を伸ばそう`.
+- **Trigger/appraisal:** reciprocal liking has been said, but neither directly establishes the relationship's status afterward.
+- **Decision/outcome:** Kazuma waits for behavioral cues; Megumin questions her right to object to his proposed outing, asks about his preferences and privately resolves to change her hair. The pair continue ordinary teasing instead of completing the status conversation.
+- **Mechanism/update:** fear of rejection, indirect inference and private adjustment preserve ambiguity despite genuine progress. Megumin's first-person epilogue independently verifies her own uncertainty and limited knowledge of the planned outing.
+- **Class/confidence:** H1; HIGH. No later outcome is inferred.
+
+## DE-V09-23 — Darkness and Kazuma: access control and abrupt reaction to Iris's letter
+
+- **Locator:** `part0016.xhtml`, P0013–0041; anchors `断る`, `アイリスか`, `許嫁`, `真っ二つ`.
+- **Trigger/appraisal:** Darkness recognizes the royal envelope and tries to conceal it; Kazuma recognizes her recurring behavior and correctly infers the sender.
+- **Decision/outcome:** he overrides the concealment, initially enjoys the familiar address and praise, then tears the letter when it requests escort to the fiancé meeting.
+- **Mechanism/update:** accurate relational inference does not establish a wise or fair response. The abrupt reaction is observed; the relative roles of jealousy, protective older-brother identification, frustration and obligation are not resolved by V09. Iris's private preference and the future escort decision remain outside this entry.
+- **Class/confidence:** H1 action, H2 abrupt comic presentation; HIGH for sequence, OPEN for complete motive attribution.
