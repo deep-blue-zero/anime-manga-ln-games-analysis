@@ -4,14 +4,14 @@ artifact_id: WATAYURI_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.8"
+version: "0.9"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V07 mainline through V07 Shift 36/i150, also latest depicted present; packaged shorts separately bounded; V08–V14 inventory only"
+source_boundary: "Japanese V01–V08 mainline through V08 Shift 41/i158, also latest depicted present; packaged shorts separately bounded; V09–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_JAPANESE_SPEECH_ADDRESS_AND_REGISTER_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_JAPANESE_SPEECH
 
 **Update and revision rule.** Update when a feature recurs, switches under meaningful conditions or contradicts a working speech model. Preserve original wording/locator and distinguish observation from claim; cross-link performance when a script appears to condition register. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V07 mainline through V07 Shift 36/i150, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1 and 36.2 remain separately bounded; V04 EX is promotional. V01–V06 sections retain their earlier states; dated V07 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V08 mainline through V08 Shift 41/i158, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2 and 41.5 remain separately bounded; V04 EX is promotional. V01–V07 sections retain their earlier states; dated V08 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -333,3 +333,34 @@ Across the earlier volumes, the question “does she like me?” often concerned
 #### Speech models remain state-bounded
 
 Mitsuki can be blunt, hesitant, grateful, apologetic and pleading within this volume. Kanoko can be inhibited, interrogative, aggressive, reflective and voluntarily apologetic. Hime’s polished social refusal and broken private answer are both evidenced repertoires. These observations support conditional speech models keyed to audience, relationship and stakes; they do not justify a single catchphrase-based imitation or claims about stable vocal sound. [i036–084, i085–095, i129–150.]
+
+
+<a id="v08"></a>
+## V08 — Current additions and transitions — 2026-10-08
+
+**V08 evidence key:** source-map key `V08`, Japanese witness `1bP7VtpkHkHaxxZiJ_O1Eae723HmX3JQ1`, SHA-256 `345c8e407a32a9453299ae564e50dd844d96a8d79623da3027f440b7de54cf1b`. The [frozen V08 reading](../02%20Sequential%20Readings/WATAYURI_V08_DEEP_READING.md#speech) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V08; WY1–WY7 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 41/i158. Shift 41.5/i160–161 is a post-return clothing supplement with finer chronology OPEN. Afterword/edition matter i162–167 and bonus waking skit i168 do not advance the mainline endpoint. The receiving correction to i109 is incorporated throughout; original prior-volume findings remain intact.
+
+### Written Japanese speech, address and register
+
+Excerpts are deliberately minimal and serve specific interpretive distinctions. The analysis concerns written forms, not imagined vocal delivery.
+
+| ID | Speaker / audience / context | Form or written-language feature | Interpretation, alternative and scope | Locator |
+| --- | --- | --- | --- | --- |
+| **WY8-JP01** | Hime to Kanoko after the answer | The account of answering properly is followed by continued departure, not a changed romantic yes. | The causal connection concerns what staying will do, not uncertainty that she uttered a refusal. | i005–007 |
+| **WY8-JP02** | Sumika/Kanoko in public sister roles | Future-path and personal-choice language carries the real work decision through fictional-school register. | Role speech can convey genuine advice without giving guests its full referent. | i018–025 |
+| **WY8-JP03** | Hime’s interior narration during the letter | **両想い** occurs amid a distinction between the kinds of liking. | The isolated word cannot overrule its qualification or become an affirmative romantic confession. | i031–033 |
+| **WY8-JP04** | Hime to the public and Mitsuki | Future-facing sister language contrasts with a private last-day intention. | The contrast concerns projected continuation; it does not make every affectionate word meaningless. | i034–036 |
+| **WY8-JP05** | Mitsuki to Hime after the event | A request stops repeated verbal rehearsal of having rejected her. | A known truth and the tolerability of repeating it are separate. | i045–046 |
+| **WY8-JP06** | Kanoko to Mitsuki in confrontation | Direct accusations and demands replace the hesitant or ceremonially polite register used elsewhere. | Intensity is situation-specific; it is not an exhaustive stable idiolect or evidence of acoustic loudness. | i055–060 |
+| **WY8-JP07** | Hime before coworkers | Disclosure of acting is followed by totalizing indifference claims. | Register exposure is not automatically epistemic transparency. | i077–082 |
+| **WY8-JP08** | Mitsuki addressing Hime’s denial | The ordinary name **白木陽芽** identifies the person whose care she defends. | Name use joins role kindness to an ordinary subject; it does not identify a hidden romantic yes. | i084–087 |
+| **WY8-JP09** | Hime to Mitsuki | Fear of eventual hatred makes the earlier protective account more personally vulnerable. | Concern for another’s pain and fear for one’s own standing coexist; neither needs to be declared the sole motive. | i088–093 |
+| **WY8-JP10** | HM at renewed agreement | Sister terminology is retained alongside an explicit distinction from a lover relation. | A local relational description, not a universal taxonomy or permanent contract. | i098–102 |
+| **WY8-JP11** | Mitsuki to Hime | Wanted kissing is verbally separated from actually doing it. | Honest desire is not itself permission; disclosure can still require timing limits. | i101 |
+| **WY8-JP12** | Hime during bath planning | A purported existing appointment supplies an indirect refusal without naming discomfort. | Later convenience does not erase the original chronology of the lie. | i122–124 |
+| **WY8-JP13** | Hime and Mitsuki in the room | The list qualifies hugs with **たまになら** and the changing request with **できたら**. | “Occasionally” is not merely uncertain probability; the softer request is still meaningful. Handholding, bath privacy and changing are differentiated. No newly quoted kissing clause appears here. | i154–155 |
+| **WY8-JP14** | Hime answering a declaration | **今** makes the immediate response a timing limit; Mitsuki questions and then accepts it. | “Not now” is not an unqualified denial of all liking or withdrawal of their return agreement. | i156–157 |
+
+The volume’s speech development is not simply from lying to truth. Hime can reveal something true about herself while using it to support a false conclusion; Mitsuki can speak a true desire at an unwelcome moment; a softer request can carry a real boundary; and role language can express an ordinary commitment. A written-speech model must preserve the proposition and interactional function of a line, not merely classify it by politeness or by whether the character is wearing a costume.
+
+The useful comparative pattern for Hime is a movement from indirect scheduling and global refusal toward a specific list. For Mitsuki, it is a movement from asking for a legible overall answer toward accepting that a legible answer may distinguish acts and times. Neither pattern proves that the character will henceforth speak explicitly under every stress condition.
