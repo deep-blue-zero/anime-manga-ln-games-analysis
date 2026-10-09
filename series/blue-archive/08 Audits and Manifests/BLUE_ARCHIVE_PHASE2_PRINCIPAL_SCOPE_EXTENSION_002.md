@@ -8,6 +8,8 @@ source_boundary: "a038020f1f5ac02dcfe76962426d38f86414cdd8; BA_REFRESH_20260928T
 do_not_use_as_current_authority: false
 created: 2026-10-09
 updated: 2026-10-09
+supersedes: []
+superseded_by: []
 ---
 
 # Phase2 scope extension002 — contextual obligations revealed by complete readings
