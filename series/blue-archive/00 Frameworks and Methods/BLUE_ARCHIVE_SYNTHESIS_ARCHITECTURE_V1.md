@@ -5,7 +5,7 @@ scope: Analytical corpus architecture for Japanese-primary Blue Archive interpre
 generation: V1
 version: "1.11"
 status: canonical
-source_boundary: "Designed at the historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86; current production boundary is all 480 canonical main units in electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z; 3940 supplemental objects admitted with limits in Phase2 cycles001–008; contextual content PASS_WITH_LIMITS, publication pending"
+source_boundary: "Designed at the historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86; current production boundary is all 480 canonical main units in electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z; 3940 supplemental objects admitted with limits in Phase2 cycles001–008; contextual content CONTENT_COMPLETE / PASS_WITH_LIMITS; Phase2 PHASE2_COMPLETE_WITH_LIMITS with verified publication receipts governed centrally by Cycle008"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false

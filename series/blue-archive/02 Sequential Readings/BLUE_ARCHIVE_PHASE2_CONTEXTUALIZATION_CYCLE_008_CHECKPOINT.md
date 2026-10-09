@@ -7,7 +7,18 @@ status: canonical
 source_boundary: "480 admitted main units retained; 3674 new supplemental admissions, cumulative3940; a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; written Japanese only"
 supplemental_admission_state: ADMITTED_WITH_LIMITS
 contextual_content_acceptance: PASS_WITH_LIMITS
-publication_state: PENDING_SOURCE_HOUSEKEEPING_FINAL_EXACT_HEAD_AUDIT
+content_state: CONTENT_COMPLETE
+publication_state: PHASE2_COMPLETE_WITH_LIMITS
+first_published_source_content_sha: "f733f9d2e1dad809353844e8b87d35496f8e6240"
+source_audit_run_id: "37881159850"
+source_audit_conclusion: SUCCESS
+housekeeping_run_id: "37882243814"
+housekeeping_conclusion: SUCCESS
+proven_final_source_or_housekeeping_child_sha: "f733f9d2e1dad809353844e8b87d35496f8e6240"
+final_source_integration_audit_run_id: "37882264588"
+final_source_integration_audit_conclusion: SUCCESS
+publication_verified_at_utc: "2026-10-09T04:20:22.346836+00:00"
+closure_revision_ci_receipt: EXTERNAL_FINAL_REPORT_ONLY
 do_not_use_as_current_authority: false
 created: 2026-10-09
 updated: 2026-10-09
@@ -85,9 +96,9 @@ All fourteen stable gaps remain OPEN with updated claim effects. G01/G06 now hav
 
 ## 6. Publication and phase closure
 
-**Contextual content/admission reconciliation: PASS_WITH_LIMITS. Whole Phase2 closure: PENDING the required publication gates.** The Phase2 audit owns P2-R01–R09 and the current entrypoint. R09 requires complete candidate diff and link/storage/publication checks, the authorized normal branch push, source audit, completed housekeeping and successful Repository integration audit on the exact final source/child head. Local preflight or a pending status cannot close it. The publication record will be updated only from actual results. Merge approval remains RESERVED. No Phase3 package or ongoing source expansion is created by this transaction.
+**Contextual content/admission reconciliation: CONTENT_COMPLETE / PASS_WITH_LIMITS. Current whole Phase2: PHASE2_COMPLETE_WITH_LIMITS under the verified source-content publication record.** The Phase2 audit owns P2-R01–R09 and the current entrypoint. R09 requires complete candidate diff and link/storage/publication checks, the authorized normal branch push, source audit, completed housekeeping and successful Repository integration audit on the exact final source/child head. Local preflight or a pending status cannot close it. The publication record will be updated only from actual results. Merge approval remains RESERVED. No Phase3 package or ongoing source expansion is created by this transaction.
 
-Current publication facts: fetched branch ca965165a640f322ba0e478a8fbc0195f1404221; fetched main b17ad47b3d0d9c418398bd2eca2927c1336afb5d already contained. Author commit, source audit, housekeeping and final exact-head audit are PENDING. The four maintenance-owned repair/control files remain outside this analytical writer's scope. Primary/raw/native source files and working receipts remain outside analytical Git; only eligible literary artifacts and current controls are intended for publication.
+Dated publication input history: fetched branch ca965165a640f322ba0e478a8fbc0195f1404221; fetched main b17ad47b3d0d9c418398bd2eca2927c1336afb5d already contained. Verified first published source-content commit: f733f9d2e1dad809353844e8b87d35496f8e6240; source audit run 37881159850 SUCCESS; housekeeping run 37882243814 SUCCESS; proven final source or housekeeping child head f733f9d2e1dad809353844e8b87d35496f8e6240; Repository integration audit run 37882264588 SUCCESS on that proven head. Verification time: 2026-10-09T04:20:22.346836+00:00. This closure revision's own commit/run receipt remains external in the final report and is not self-bound here. The four maintenance-owned repair/control files remain outside this analytical writer's scope. Primary/raw/native source files and working receipts remain outside analytical Git; only eligible literary artifacts and current controls are intended for publication.
 
 ## Publication derivative and format boundary — 2026-10-09
 
