@@ -5,12 +5,12 @@ scope: SENSEI_ROLE_AND_ETHICS
 generation: V1
 status: active_provisional
 checkpoint_boundary: MAIN_V001_C003 checkpoint canonical; latest forward MAIN_S2_V003_C001 checkpoint canonical
-source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 266 supplementals admitted with limits in cycles001–007; other supplemental sources unadmitted"
+source_boundary: "All 480 canonical main units through BA:main:series2:003:001:014 plus BA:main:001:003:043 backfill at audited electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; no unopened main unit in pinned snapshot; 3940 selected supplementals admitted with limits in cycles001–008; broader unselected classes remain unadmitted"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # BLUE ARCHIVE SENSEI ROLE AND ETHICS LEDGER
@@ -19,7 +19,7 @@ updated: 2026-10-07
 
 All **480 / 480** canonical main units inventoried in the [2026-09-28 source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) at `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8` now have admitted readings. Earlier completed readings retain their declared V1 witness; this reconciliation does not substitute source text. The final backfill reading is `MAIN_V001_C003 E043` / `BA:main:001:003:043`, governed by the [V001 C003 checkpoint](../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md). The latest forward released unit in this pinned snapshot remains `MAIN_S2_V003_C001 E014` / `BA:main:series2:003:001:014`, governed by the [S2 V003 C001 checkpoint](../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md). No unopened main unit remains in the pinned snapshot; extending it requires a release and provenance recheck.
 
-Cycles001–007 admit exactly **266 supplemental objects with limits:65 group,72 event,54 bond,54 MomoTalk and21 character_data**. [Cycle007](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_007_CHECKPOINT.md) and the exact object crosswalk own admission. Current combined coverage is **23 PARTIAL_MODEL /517 UNMODELED /540 analytical subjects**, every standalone model NONE. All65 group objects have complete accepted readings; Serika/Reijo/Rei/Ayane/Serina/Hanae/Mine private/written pools have scoped acceptance; other private and mini obligations remain unadmitted. Main chronology, performed voice and unresolved outcomes retain their limits. Mandatory/tracked remaining is **3365/3416**. All12 full arcs and whole Phase2 remain incomplete; no chronology, model/prediction readiness or global outcome debt is closed by these counts.
+Cycles001–008 admit exactly **3940 supplemental objects with limits:65 group,1010 event,1161 bond,1161 whole MomoTalk,511 written character_data and32 selected MINI**. [Cycle008](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md) and the six current class crosswalks own exact admission. All148 typed retrieval responsibilities and27 unjoined written routes have qualified current textual accounts; all12 main arcs have current five-duty contextual content acceptance. The prior assessed model-route census remains23 PARTIAL_MODEL/517 UNMODELED/540 analytical routes, every standalone model NONE; it is not an exhaustive new actor census. Required unaccepted intake is0. Current Phase2 is CONTENT_COMPLETE / PHASE2_COMPLETE_WITH_LIMITS; verified publication receipts are governed centrally by Cycle008. All14 claim-specific gaps remainOPEN; global chronology, performed voice and unprinted outcomes retain their limits.
 
 ## Historical baselines and sequential deltas
 
@@ -2645,3 +2645,66 @@ The accepted reassessment retains every actual result/report/plan/refusal distin
 ### Current cycle007 authority qualification — 2026-10-07
 
 The earlier dated acceptance and conditional appendices retain their exact input boundaries, including213 admitted objects/516 subjects where recorded. The current cycle007 checkpoint and current boundary above govern266 admitted objects/540 subjects after this coherent transaction; those historical numbers are not competing live censuses. Later mini/G01,20-family,G06/G26,D02 and CF08/CF10 observations retain their existing conditional admission, actor/mode/locale, ordinary-value and contrary-case limits. All twelve full-arc rows and all five architectural duties as a complete Phase2 responsibility remain incomplete; P2-R01 is PASS_WITH_LIMITS only for its group-relevance scope, and P2-R02–R09 remain IN_PROGRESS. No standalone/operational/validated model, monograph, forecast or performed-voice admission is created.
+
+
+## Phase 2 contextual reconciliation of admitted ordinary evidence — 2026-10-08
+
+**APPLIED comparative reconciliation; no new source admission.** This section reuses the complete admitted [EVENT816 checkpoint](../02%20Sequential%20Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md), the accepted GROUP1701–1703/1801–1802/2001–2002/3601–3603 sequences, and the accepted Hanae/Mine private and written scopes owned by [cycle007](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_007_CHECKPOINT.md). ROOT has received the complete current EVENT816 literary comparison. Exact event shorthand below resolves to `BA:event:816:NNN:scene:001:u:NNNN`; alternatives, literal actor anomalies and reports retain the checkpoint's qualifications. High confidence applies to located expressions/actions, moderate confidence to the comparison.
+
+Quiet preferences, everyday company and minor disagreements have intrinsic literary value. All prior accepted evidence and chronology remain preserved. The newly qualified unadmitted family/event accounts do not enter this section as newly admitted evidence. Admission stays266, combined subjects540, readiness23 PARTIAL_MODEL/517 UNMODELED, standalone modelsNONE, all14 original gapsOPEN; this partial application does not pass the whole Phase2 gate.
+
+| Adult / student authorship | Applied finding | Contrary case and limit |
+|---|---|---|
+| EVENT816 consultation and rescue | Available time, contact, listening, protection and meal help matter. Kazusa's earlier change and the students' concern, withdrawal and rescue choices remain their own authorship. E012 u0021–0046 and E014 u0011–0022 are not evidence of exclusive adult causality. | The E006 u0063–0073 photograph/privacy lapse and recipient criticism qualify respectful-care generalizations. Apology alternatives remain alternatives; no ideal omniscient plan or durable cure is inferred. |
+| Ordinary company and accepted care | Student-defined projects, particular preferences and finite acts of assistance supply real adult roles without needing a dramatic rescue. Existing Hanae/Mine company, teaching/help and refusal evidence remain intact. | A beneficial endpoint does not retrospectively authorize unwanted means. Broken limits, teasing, incomplete understanding and unprinted repair retain their own warrants. |
+| GROUP1701–1703/1801–1802/2001–2002/3601–3603 | **PRESERVE the existing no-Sensei-effect dispositions** for their actual peer sequences. Student care, preference and conflict are independently meaningful. | No adult act, presence, thought or causal credit is invented from a related private/event encounter. |
+
+
+
+## Phase 2 RABBIT and Valkyrie comparison from admitted MAIN/GROUP — 2026-10-08
+
+Applied comparison authority: accepted MAIN_V004 C001/C002 checkpoints and accepted GROUP2701/2702/3001/3002/3003 relevance. No new private/written/event admission is made.
+
+Apply a distributed-work comparison: student-led Clover retrieval, Kanna/Life Safety access, Decartes’s imperfect diversion, RABBIT’s civilian-safety refusal/voluntary return and adult device recovery all contribute at exact scope. MAIN C001 bathing privacy breach, false bento lure, failed repair appeals and uncompleted follow-through remain contrary evidence. G18/G21 establish ordinary peer activity without Sensei; no adult effect is assigned to those group sequences. E022 accountable-future language is represented support, not automatic absolution or universal authority.
+
+The four newly preserved private/written family accounts89 remain qualified unadmitted proposals. Full10-family/whole-arc/Phase2 completion and final coverage/admission reconciliation remain unfinished.
+
+## Phase 2 comparison of admitted gift encounters — 2026-10-08
+
+The complete qualified comparisons reuse the existing admitted BA:event:80000:117–125 and BA:event:80001:126–141 scopes. ROOT received each whole substantive current argument and installs this bounded cumulative comparison. Existing Cycle001/Cycle006 source admission and exact prior claim owners remain; this creates no new source/person/admission, model, readiness grade or global chronology. Quiet craft, taste, rest, company and refusal have intrinsic analytical value. Source-local reports, inward texts, alternative replies, written interface/mode seams and actual endpoints retain their distinctions. The new unadmitted family/event clauses remain separately UNAPPLIED. See the maintained EVENT80000 and EVENT80001 Phase2 contextual comparison accounts for every exact stable source/locator and qualification.
+
+The adult helps with craft, accepts care/expertise, offers rest and receives student-to-adult reassurance; students initiate and value these acts independently of crisis repair. Appreciation can coexist with insensitive or pressured means. Preserve skepticism/alternatives in80000E120/E122–125; E124 has no formal choices, so player-selection consent is not invented. In80001, Niya’s finite-human theoryE131u0035–0054 is a character assertion while the mistaken shared-making quantityu0060–0062 is a narrated failure. E129’s apology and E132’s off-ramp are positive; LoveE137’s lost shared-tasting intent and KeiE141’s ignored return request remain contrary cases. Later allowance/pleasure is not retroactive consent. No general perfect-adult, omniscient diagnosis, legal supremacy or always-stay/always-leave rule is installed. Existing C005/C006 rejected dispositions and other bounded claim IDs remain.
+
+## Phase 2 comparison of admitted Tsukuyo art work and whole-message care — 2026-10-08
+
+Existing source authority: BA:bond:10132:003 plus BA:momotalk:10132:thread:101320080, cycle005 admitted current art-class/whole-thread argument, preserved in the complete Ninja contextual account. No new source admission or primary replay.
+
+The adult’s useful role is accompaniment and requested reassurance, followed by a whole-message meal treat. The result is finite care alongside Tsukuyo’s own trained contribution and a lecturer’s pressured extension. Participant thanks or a delicious meal does not prove every bodily/work condition harmless; the adult’s inner question about quitting modeling remains written private framing, not uttered knowledge shared by all.
+
+This is an actual bounded application of already-admitted meanings. Other60 Ninja and other new unadmitted family/event proposals remain UNAPPLIED. Formal266/3631/3682 and540/23/517/standaloneNONE remain; all14 original gapsOPEN and full twelve-arc Phase2 incomplete.
+
+## Cycle008 complete contextual literary reconciliation — 2026-10-09
+
+Actual current adoption under [Cycle008](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md), with all3940 selected supplemental objects admitted with limits. The following connected cumulative clauses reconcile complete qualified arguments and their source-located meanings; they add no new primary-read credit or invented individual claim IDs. Earlier sequential/draft statements retain their dated input boundaries. All12 contextual content accounts pass with limits; current overall Phase2 status is CONTENT_COMPLETE / PHASE2_COMPLETE_WITH_LIMITS, with verified publication receipts governed centrally by Cycle008.
+
+Strengthen enacted recipient-sensitive service while retaining power/fallibility/vulnerability and independent students. Prologue exceptional access is real but Rin/students/Arona supply needed competence; chosen transfer is evidence of restraint, not permanent virtue. V001 following Serika after refusal is not justified by later rescue, nor successful records acquisition by coerced bank/pressure on Hifumi. V100 explicitly gives Miyako field command; coalition members/OSs/distinct releases do not become adult-only achievements. [V000§§2–4;V001C001E005–007/E013–15;V100C001E011–13/C004E002–04.] Company/help have value without omniscience or unrestricted jurisdiction.
+
+Positive care has recipients and finite accomplishment. Momoi's cleaning/bought food, Noa's porridge/reading, Rio's actual cooling/recovery, Shun supporting the floating adult's head, Mimori's self-authored embroidery/recipe correction, Kirino rescue/listening and Konoka's shelter/taste matter. Rin's actual outing/chess rest is not just restored productivity; Arona/Plana's waking recommendations do not print ingestion/checkup/cure. Kokoro chamber recovery and Kotone reported letter answer cannot prove Sammy's treatability or a universal communication mechanism. [V002§4.4;Shanhaijing§6.1;V005§11;V004;S2V000/V001/S2V003.] Student-authored reciprocal care and ordinary wants need no emergency utility.
+
+Preserve adult error/coercive collaboration at its actual stakes. Yuuka receives offloaded work and pressures declined training; observation/teasing/delayed explanation/forced roles/surprise touch coexist with local gratitude. Takane's imposed princess role ends in displeasure and appreciated photography; Mel's imagined intimacy does not authenticate peers or excuse arm-pulling; Miyo's route knowledge stays unexplained.845008 localization time costs actual batter ejection;853011 deceptive security recruitment receives Michiru's objection;862005 forced praise is opposed,011 apologies change conversation without cure,012 adult boarding choice supplies no Elina informed assent. [V002§3.3;regional accounts;exact event episodes.] Structural comparisons do not equate tea, photo, prank, detention and armed violence in severity or institutional consequence.
+
+Teacher limits and absence matter. GROUP2101–02 works/fails without the adult; autonomous Tea Party trips/snacks and student rescue remain theirs. Rescue/protection labels cannot normalize MINI060 Fuuka captivity,814 Wakamo imposed rescue,817 qualified care or827 prevented collateral attack. MINI050 actually celebrates a birthday yet leaves adult pain. Gratitude is no bodily/professional exemption. [V000§4;V003§4;event owners;MINI§§16/18.] Inward/persona options are authored possibilities, not all players' actions or communicated consensus. Fictional teacher permission gives an analyst no authority to admit sources or close gaps.
+
+Anna's refused initial technique and refusal of further holds create real local limits; later silent/inward replies are not a calibrated pain meter. Her chosen archival exposure/private award is meaningful encouragement, not compelled therapy or a cure. Erina's alarmed meal, hold-release request and later punishment costs preserve the particular recipient even when the adult admires scientific resilience; his happiness does not approve deceptive reporting. [ANNA_ERINA§§2–3.] The teacher can support work and recognition without certifying every method or taking responsibility from the actual maker.
+
+### Love and Aoba: recipient-specific company, craft and continuing limits
+
+The adult offers real welcome, local material help and company, yet repeated running, overstatement and guesses can miss the student's wish. Love's ordinary tour request/piggyback refusal, bottle-related privacy and final rescue disclosure demand remain consequential (L-B002:choice008/u27–28; L-B005:u40–43; L-MM160180470:960–970). Her assailant's “stop” is also refused during violent defense (L-B003:u34–36); generosity does not acquit force.
+
+Aoba directs actual shift assistance, and the adult acknowledges fallibility rather than perfect answering (A-B003:choice007; A-B006:u10–17). Leaving the duty room is a printed privacy response (A-B006:u40), not consent to unrestricted bodily access. The public846 argument preserves Aoba's refusal of repeated back-patting, concern over cargo responsibility and refusal to repeat the explosive stopping strategy. Adult responsibility is represented ethical support, not carrier-law advice or a clinical treatment guarantee.
+
+### Collaboration guests and Shuerin: ordinary agency and source-specific afterstates
+
+Requested support beyond resident students and Miku effort-credit returned to the maker broaden care. Mikoto10079E003 neglected following concerns, Misaki10080E003 pulling past objections and E005 constrained silence, and Miku20007E006 imposed practical production control remain contrary evidence. Successful refund, improvement or performance matters without acquitting every method. Shuerin gratitude values ordinary company without authorizing intrusive identity inquiry.
+
+Exact source/scene/message and written-condition recovery is in the current collaboration39 and Shuerin1 normal accounts, together with the Love10/Aoba10 and Anna/Erina20 accounts. No performed audio, universal calendar, authenticated secret identity, clinical/legal/technical certification or model promotion follows. All14 original gaps remainOPEN.

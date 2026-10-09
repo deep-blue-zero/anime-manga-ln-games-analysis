@@ -2,19 +2,19 @@
 series: BLUE_ARCHIVE
 artifact_type: source_class_crosswalk
 scope: Current Japanese source classes, provenance, chronology, and analytical admission
-version: "1.8"
+version: "1.10"
 status: canonical
-source_boundary: "Pinned electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; corpus generation BA_REFRESH_20260928T032248159554Z; 480 main units plus266 supplemental objects admitted with limits in cycles001–007"
+source_boundary: "Pinned a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z;480 main units plus3940 selected supplementals admitted with limits through cycle008"
 do_not_use_as_current_authority: false
 created: 2026-09-28
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Blue Archive source-class crosswalk
 
 ## 0. Authority and exact route
 
-This crosswalk distinguishes **available**, **inspected**, and **admitted** evidence. The analytical repository contains the 480 completed main-story readings and the266 supplemental objects accepted in cycles001–007; [cycle007](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_007_CHECKPOINT.md) supplies the latest scoped addition. The source/ingestion workspace contains the pinned Japanese generation `blue-archive-corpus-pipeline/corpus/GENERATIONS/BA_REFRESH_20260928T032248159554Z/`, built from `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8`, recorded game version `v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1`. The [source reconciliation](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) preserves the earlier V1 witness for its completed readings. This crosswalk is analytical routing; it does not copy source transcripts into Git or substitute the refreshed source wording into V1 readings.
+This crosswalk distinguishes available, inspected and admitted evidence. The repository now admits480 main readings and3940 admitted selected supplemental objects with limits:65 GROUP/1010 EVENT/1161 BOND/1161 whole MomoTalk/511 written character_data/32 MINI. [Cycle008](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md) owns the current coherent transaction. The pinned generation remains BA_REFRESH_20260928T032248159554Z at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, game v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1. The source reconciliation preserves original V1 witnesses; no refreshed wording substitutes into earlier readings.
 
 For any new source-facing claim, follow `story_id` → `<canonical_path>` relative to the pinned generation (the value already begins with `02_CANONICAL_STORIES/`) → scene/utterance/choice or message ID → `03_STRUCTURED_DATA/*.jsonl` → the record's `raw_group_ids`, `source_paths`, `source_sha256` and source commit → the immutable raw upstream snapshot recorded by `00_MANIFESTS/SOURCE_MANIFEST.json`. `03_STRUCTURED_DATA/stories.jsonl` supplies the authoritative per-object source class and canonical path for this generation. The supplemental CSV records the global witness once through this document rather than repeating it in every row. Its `canonical_path` and SHA-256 preserve exact per-object recovery; `stories.jsonl` at the pinned generation retains raw group IDs, raw table paths/hashes, person/variant joins and release metadata. The whole-phase audit records that inventory hash and selection scope. Removing repeated columns changes neither an object ID nor an admission decision. The `10_READING_INDEXES/STORIES/<CLASS>.md` files are navigation only. A derived person/relationship bundle is a reversible projection, not another primary story witness. The [event index](BLUE_ARCHIVE_EVENT_ANALYTICAL_PRIORITY_INDEX.md) carries all 1,010 event story IDs.
 
@@ -26,11 +26,11 @@ Counts are canonical **story objects**, not raw rows, distinct people or complet
 |---|---:|---|---:|---|
 | `main` | 480 | `MAIN/` | 0 | 480 admitted readings, 26 checkpoints; institutional/crisis and some ordinary evidence. Older readings retain their declared V1 text witness. |
 | `group` | 65 | `GROUP/` | 0 | 65 ADMITTED with limits; complete group-content intake closed; club routine, peer hierarchy, work and ordinary disagreements. |
-| `event` | 1,010 | `EVENT/EVENT_*/` | 1,010 | 72 ADMITTED with limits,938 AVAILABLE_NOT_REVIEWED; this retained enum/count is formal crosswalk admission/intake state, not a claim that no historical COMPLETE declaration or qualified provisional receiving assessment exists. Continuity, cross-school, seasonal, comic and ordinary contexts remain eligible for reading. |
-| `bond` | 1,161 | `BOND/` | 1,161 | 54 ADMITTED with limits,1107 unadmitted; bounded private/Sensei dyads, ordinary preferences, and relationship-specific self-presentation. |
-| `momotalk` | 1,161 | `MOMOTALK/` | 1,161 | 54 ADMITTED with limits,1107 unadmitted; message rhythm, initiation, alternate replies and bond prefaces. |
-| `character_data` | 511 | `CHARACTER_DATA/` | 283 | 21 ADMITTED with limits,490 unadmitted; contextual written language, profile and variant conditions; no performed-voice claim. |
-| `mini` | 46 | `MINI/` | 0 | Available, unadmitted; short scenes require their own continuity and speaker check. |
+| `event` | 1,010 | `EVENT/EVENT_*/` | 1,010 | 1010 ADMITTED with limits; full61-package content and exact current priority/function review complete; chronology/performance and contrary endpoints qualified. |
+| `bond` | 1,161 | `BOND/` | 1,161 | 1161 ADMITTED with limits; complete selected private encounters and all alternatives; no universal relational or clinical generalization. |
+| `momotalk` | 1,161 | `MOMOTALK/` | 1,161 | 1161 ADMITTED with limits; complete positively joined whole threads, including prefaces/codas and alternate replies;1189 Schedule edges retained. |
+| `character_data` | 511 | `CHARACTER_DATA/` | 283 | 511 ADMITTED with limits;484 typed-family objects plus27 unjoined contextual envelopes; written register/profile/variant conditions, not performed voice. |
+| `mini` | 46 | `MINI/` | 0 | 32 selected ADMITTED with limits;14 other objects remain unadmitted source-mode/continuity questions; no substitute for private families. |
 | `special_operation` | 96 | `SPECIAL_OPERATION/` | 0 | Available, unadmitted; classify mode and continuity before claim use. |
 | `unclassified_scenario` | 334 | `UNCLASSIFIED_SCENARIO/` | 0 | Available, unadmitted; source-class identity remains unresolved, so no automatic narrative use. |
 
@@ -152,3 +152,124 @@ The following eight requirements govern any affected downstream claim:
 > Existing complete-declared EVENT812 all15 saved arguments now have provisional receiving review IN_PROGRESS; original contributor and prior distinct independent-review allocation remain UNKNOWN. This current receiving allocation certifies neither distinct original-author independence nor publication rights, and EVENT812 remains outside the cycle007 full53 admission.
 
 The current completed qualified receiving decision qualifies the earlier queue state as dated planning history. It preserves the sealed snapshot, the53-source admission union, all earlier source/owner/closure/model limits and other receiving duties. Formal intake/admission states do not assert that no historical COMPLETE declaration or qualified provisional receiving assessment exists. All12 whole arcs and all five Phase2 duties remain incomplete; merge approval remains RESERVED.
+
+
+## Qualified Trinity/Arius contextual receiving — 2026-10-08
+
+All30 selected private/written families have complete qualified ROOT analytical accounts:596 objects=248BOND248 wholeMomoTalk100written. All have normal source-facing checkpoint homes. The accepted Serina17/Hanae21/Mine19 pool57 stays admitted; the other539 objects stay UNADMITTED. The exact CSV's retained AVAILABLE_NOT_REVIEWED formal enum is not a declaration that these literary readings are absent. No per-object admission, canonical hash, source identity, release chronology or existing accepted claim owner is changed.
+
+| Subject / preserved raw retrieval key | Complete selected BOND / whole MomoTalk / written | Normal analytical account | Formal admission and coverage |
+|---|---:|---|---|
+| Hifumi /`BA_PERSON_HIHUMI` | 11 /11 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/HIFUMI/BLUE_ARCHIVE_HIFUMI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Azusa /`BA_PERSON_AZUSA` | 8 /8 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/AZUSA/BLUE_ARCHIVE_AZUSA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Hanako /`BA_PERSON_HANAKO` | 8 /8 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/HANAKO/BLUE_ARCHIVE_HANAKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Koharu /`BA_PERSON_KOHARU` | 7 /7 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/KOHARU/BLUE_ARCHIVE_KOHARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Mika /`BA_PERSON_CH0069` | 10 /10 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/MIKA/BLUE_ARCHIVE_MIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Seia /`BA_PERSON_CH0070` | 8 /8 /4 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/SEIA/BLUE_ARCHIVE_SEIA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Nagisa /`BA_PERSON_NAGISA` | 8 /8 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/NAGISA/BLUE_ARCHIVE_NAGISA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Hasumi /`BA_PERSON_HASUMI` | 14 /14 /5 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HASUMI_TSURUGI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Tsurugi /`BA_PERSON_TSURUGI` | 7 /7 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HASUMI_TSURUGI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Mashiro /`BA_PERSON_MASHIRO` | 11 /11 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/MASHIRO/BLUE_ARCHIVE_MASHIRO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Sakurako /`BA_PERSON_SAKURAKO` | 9 /9 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SAKURAKO_MARI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Marie /`BA_PERSON_MARI` | 12 /12 /5 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SAKURAKO_MARI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Hinata /`BA_PERSON_HINATA` | 8 /8 /4 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Mine /`BA_PERSON_CH0152` | 8 /8 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/MINE/BLUE_ARCHIVE_MINE_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Existing ADMITTED_WITH_LIMITS; accepted coverage preserved |
+| Hanae /`BA_PERSON_HANAE` | 9 /9 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/HANAE/BLUE_ARCHIVE_HANAE_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Existing ADMITTED_WITH_LIMITS; accepted coverage preserved |
+| Serina /`BA_PERSON_SERINA` | 7 /7 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/SERINA/BLUE_ARCHIVE_SERINA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Existing ADMITTED_WITH_LIMITS; accepted coverage preserved |
+| Ui /`BA_PERSON_CH0169` | 7 /7 /4 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Shimiko /`BA_PERSON_SHIMIKO` | 5 /5 /1 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Suzumi /`BA_PERSON_SUZUMI` | 9 /9 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Reisa /`BA_PERSON_CH0167` | 8 /8 /4 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Ichika /`BA_PERSON_CH0071` | 8 /8 /4 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Airi /`BA_PERSON_AIRI` | 7 /7 /4 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Kazusa /`BA_PERSON_KAZUSA` | 8 /8 /4 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Yoshimi /`BA_PERSON_YOSHIMI` | 8 /8 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Natsu /`BA_PERSON_CH0155` | 8 /8 /4 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Saori /`BA_PERSON_SAORI` | 10 /10 /5 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SAORI_ATSUKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Misaki /`BA_PERSON_MISAKI` | 7 /7 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Hiyori /`BA_PERSON_HIYORI` | 6 /6 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Atsuko /`BA_PERSON_ATSUKO` | 7 /7 /3 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SAORI_ATSUKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+| Subaru /`BA_PERSON_CH0309` | 5 /5 /1 | [Complete checkpoint](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) | Qualified complete analytical account; UNADMITTED; no new ANALYZED coverage |
+
+61 current selected whole event arguments1010 objects have qualified ROOT receiving:801/802/803/804/805/806/807/808/809/810/811/812/813/814/815/816/817/818/819/820/821/822/823/824/825/826/827/828/829/830/831/832/833/834/835/836/837/838/839/840/841/842/843/844/845/846/847/848/849/850/851/852/853/854/856/859/860/861/862/80000/80001. The [event priority index](BLUE_ARCHIVE_EVENT_ANALYTICAL_PRIORITY_INDEX.md) records their exact priority/functions and qualified-review workflow; the maintained arguments retain local chronology, literal actor/choice/mode limits, provisional-origin qualifications and contrary endpoints. This closes qualified whole-content availability for all61 selected packages. Per-object priority reconciliation, cumulative admission/application and full Phase2 completion remain separate gates.
+
+The actual dated seven-ledger comparison installs only already admitted EVENT816/GROUP/Hanae/Mine meanings. Newly reviewed unadmitted claims remain proposals, and the exact object CSV remains the admission owner. There is no new effective CSV-override convention. Every original gap stays OPEN; source-local success does not establish unprinted outcomes, a total calendar, performed voice, or a model. All12 whole arcs and Phase2 remain incomplete.
+
+
+## Qualified RABBIT private accounts and actual admitted arc comparison — 2026-10-08
+
+Four previously qualified complete RABBIT families89=37BOND/37wholeMomoTalk/15written now have maintained branch homes. Original producer noncurrent/veto and historical custody assertions remain attributed; these current availability records create no source admission or public/model authority. The exact object CSV retains all89 unadmitted.
+
+| Family | Selected BOND /whole MomoTalk /written | Qualified account |
+|---|---:|---|
+| MIYAKO | 10/10/3 | [Complete account](../02%20Sequential%20Readings/BOND/MIYAKO/BLUE_ARCHIVE_MIYAKO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md); UNADMITTED |
+| SAKI | 9/9/3 | [Complete account](../02%20Sequential%20Readings/BOND/SAKI/BLUE_ARCHIVE_SAKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md); UNADMITTED |
+| MOE | 9/9/6 | [Complete account](../02%20Sequential%20Readings/BOND/MOE/BLUE_ARCHIVE_MOE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md); UNADMITTED |
+| MIYU | 9/9/3 | [Complete account](../02%20Sequential%20Readings/BOND/MIYU/BLUE_ARCHIVE_MIYU_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md); UNADMITTED |
+
+The MAIN_V004 working account joins accepted44 MAIN units/five GROUP objects with those qualified private accounts. Its dated comparison from already admitted MAIN/GROUP is actually applied in all seven ledgers. All ten V004 required families177 now have complete qualified accounts; remaining event/identity routes and new-private admission/coverage effects remain unfinished. Formal125/3631/266 admissions and540subjects/23PARTIAL_MODEL/517UNMODELED/standaloneNONE are unchanged. Quiet pleasures and recipient boundaries remain intrinsic. All14 original gapsOPEN; whole Phase2 incomplete.
+
+## Qualified current Hyakka and police-family extension — 2026-10-08
+
+Yukari19/Nagusa19/Kikyou19/Renge21 supply complete qualified78=33BOND33wholeMomoTalk12written. Their exact source-facing [cluster account](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HYAKKA_YUKARI_NAGUSA_KIKYOU_RENGE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) retains every variant, W15 launch/tail, conditioned847/10847 stream, positive outcome, contrary endpoint and actor/mode limit. This is four of17 selected Hyakkiyako families, not301-object or MAIN_V005 completion. Kirino17 plus Niko12 now extend the V004 private pool from89 to118, six of ten mandatory families; remaining four59 continue. All107 new extension objects remain UNADMITTED, not absent literary reading. Their seven-ledger clauses remain UNAPPLIED; formal source rows,125-family/3631 mandatory/3682tracked denominators and266 admissions are unchanged.
+
+## Qualified complete Valkyrie/FOX and YinYang family comparisons — 2026-10-08
+
+The ten required V004 family accounts are now complete qualified literary arguments177=73BOND73wholeMomoTalk31written. Kurumi12/Otogi12/Kanna17/Fubuki18 add59 to the previously maintained118. All have normal source-facing homes, preserving exact inherited CSV IDs/routes/hash metadata and substantive whole accounts. No new source hash, primary credit, admission or model follows. The current V004 working account applies their meanings comparatively and records EVENT82714 complete qualified review; whole837/846/856 and final scoped admission/D5/identity gates remain.
+
+| Family | BOND /whole MomoTalk /written | Current qualified normal account |
+|---|---:|---|
+| Kurumi /BA_PERSON_CH0173 |5/5/2| [Complete argument](../02%20Sequential%20Readings/BOND/KURUMI/BLUE_ARCHIVE_KURUMI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) |
+| Otogi /BA_PERSON_CH0174 |5/5/2| [Complete argument](../02%20Sequential%20Readings/BOND/OTOGI/BLUE_ARCHIVE_OTOGI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) |
+| Kanna /BA_PERSON_CH0170 |7/7/3| [Complete argument](../02%20Sequential%20Readings/BOND/KANNA/BLUE_ARCHIVE_KANNA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) |
+| Fubuki /BA_PERSON_CH0141 |7/7/4| [Complete argument](../02%20Sequential%20Readings/BOND/FUBUKI/BLUE_ARCHIVE_FUBUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) |
+| Niya /20046 registered family |5/5/1| [YinYang complete argument](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_YINYANG_NIYA_KAHO_CHISE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) |
+| Kaho /10065 registered family |5/5/1| [YinYang complete argument](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_YINYANG_NIYA_KAHO_CHISE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) |
+| Chise /13001+10047 registered family |8/8/3| [YinYang complete argument](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_YINYANG_NIYA_KAHO_CHISE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) |
+| Michiru /BA_PERSON_CH0113 |9/9/4| [Ninja complete argument](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_NINJA_MICHIRU_IZUNA_TSUKUYO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) |
+| Izuna /BA_PERSON_IZUNA |8/8/4| [Ninja complete argument](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_NINJA_MICHIRU_IZUNA_TSUKUYO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) |
+| Tsukuyo /BA_PERSON_CH0114 |8/8/4| [Ninja complete argument](../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_NINJA_MICHIRU_IZUNA_TSUKUYO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md);2 prioradmitted/18UNADMITTED |
+
+YinYang41 plus Hyakka78 plus Ninja62 supply ten of17 selected Hyakkiyako families181=76BOND76wholeMomoTalk29written. Seven120 remain;2 existing Tsukuyo objects retain cycle005 admission and179 remain UNADMITTED. The new V005 working account uses both accepted whole54-MAIN chapter arguments and the five accepted GROUP-packet relevance projections at their actual scope. Chise remains poem author and Kaho recipient; covert following remains unconsented and Sensei the late listener. Niya's whole-message reopening, payment promise rather than transfer, Kaho's achieved tour/tea with interrupted wishes, and Chise's achieved private poem/quiet company with unfinished display/search survive.
+
+Kanna's chosen oden/swimsuit/spa, Kurumi's protected craft, Otogi's wanted garment/coffee/night company and Fubuki's returned hairpin/donuts/whole-tail icecream are intrinsically important. Refused food/ride/touch, misplaced agency, missed suspect, failed automation, unwanted cucumber and mistaken exemplar praise retain contrary force. Public harm/accountability is not erased. Nagusa's still-incomplete private arm restoration is not silently placed after accepted public C002 arm return. Release metadata supplies no universal calendar.
+
+All177V004 and179 new unadmitted Hyakkiyako objects remain UNADMITTED/UNAPPLIED;2 prior Tsukuyo admissions retain their current bounded source scopes; existing source rows and readiness letters are not overridden. Formal125/128/3631/3682/266 and540subjects/23PARTIAL_MODEL/517UNMODELED/standaloneNONE remain. All14original gapsOPEN; all12 whole arcs and Phase2 remain incomplete. External handoffs are cancelled; merge approval remains reserved.
+
+The complete Ninja argument preserves Michiru’s genuine failed tape backup/covered-lens upload alongside actual dress repair; Izuna’s actual media/taste/boat/smaller-castle pleasures alongside explicit consent guidance and continuing pressure/contact limits; and Tsukuyo’s actual show/meal/modest advertisement response alongside renewed fear, refused wider return and unprinted icecream/payment in other objects. Whole-message codas and exact generic-employee/lecturer corrections survive. This materially extends ordinary coverage availability; it does not grant all181 admissions or model readiness. ROOT's dated Tsukuyo comparison below applies only the2 previously admitted art-class/wholeMM meanings in all seven ledgers.
+
+### Qualified festival-family availability — 2026-10-08
+
+The normal Festival51 complete argument adds Shizuko20/Fina19/Umika12 to the MAIN_V005 working comparison: thirteen families232=97BOND97wholeMomoTalk38written,2 existing ADMITTED/230 UNADMITTED. Four remaining families69 stay mandatory. This is qualified literary availability, not a new accepted source/claim/readiness count or performed-voice credit. All14 original gaps remain OPEN; no model or Phase2 completion.
+
+### Qualified training-family availability — 2026-10-08
+
+Kaede12/Mimori19/Tsubaki17 add48 complete effective private/written objects in a normal account. Current V00516/280=117BOND117wholeMM46written,2 existing ADMITTED/278UNADMITTED; Wakamo21 remains mandatory. This supersedes earlier13/232 current private availability only; accepted source/claim/540-subject/readiness scope is unchanged. All14 original gaps OPEN, no model/performed voice/Phase2 completion.
+
+## Current qualified Hyakki private scope — 2026-10-08
+
+All17 selected families301=126BOND126wholeMomoTalk49written now have qualified complete private/written arguments and normal homes; Wakamo21 is ROOT-whole-received9debb5/f217bf. Two Tsukuyo sources remain ADMITTED;299UNADMITTED/newclausesUNAPPLIED. EVENT83516 is a separate complete event account; no shared theme or conditional costume becomes duplicate source credit or calendar identity. MAIN/group/private/event/written modes remain distinct; all14 gapsOPEN and full arc/application gates incomplete.
+
+## Qualified Gehenna20 current normal scope — 2026-10-08
+
+All20 selected399 private/written sources164BOND164wholeMomoTalk71written have positive adequate completed authority and a normal connected account. ROOT whole literary receiving802fab/48a19f retains corrected clauses/attributed reuse; it does not transfer399 primary credit. Junko16012E003/wholeMM160120060 retain2 prior admissions;397UNADMITTED/new effectsUNAPPLIED. MAIN38, five core GROUP packets and EVENT83516 remain separately located modes; event-routing leads are not appearances or chronology.
+
+### Current complete contextual-content availability — 2026-10-08
+
+All61 selected event packages1010 objects now have qualified whole-content arguments and normal analytical homes;72 event objects remain admitted and938 remain reviewed-unadmitted. The exact1010 priority/function reconciliation is active, so content completeness is not a claim that every per-object grade is installed.
+
+The complete selected125-family private/written distribution2556=1061BOND1061wholeMomoTalk434written is now positively available as qualified source-bounded analytical meaning: Millennium23/577; Trinity-Arius30/596; Gehenna20/399; Abydos-PS68nine/255; V004ten/177; Hyakkiyakoseventeen/301; RedWinterseven/121; Shanhaijingsix/96; Highlandertwo/24; baseballReione/10. This is received analytical-authority reuse and necessary present reading at their recorded bounds, not2556 new ROOT primary displays, source admission, appearance credit or model promotion. Exact source-to-current-owner reconciliation is active.
+
+New substantial principals have151 locally required objects across13 additional families: Kotone/Kokoro20, Saya25, Takane/Yakumo20, Konoka/Rena22, Eri/Kanoe/Miyo/Fuyu/Ritsu52 and Momiji12. All151 additional objects now have complete qualified analytical meaning and normal homes, including Momiji12. Selected MINI32 also has a complete normal account:30 necessary present primary readings plus2 positive effective003V3 analytical reuses. Exact current normal-owner reconciliation for baseline families and three mini-principal route dispositions remain active. Kei19, already tracked separately, now has a complete qualified normal account, preserving its two person keys. The27 unjoined-written account and actual43 main-only identity disposition are complete at their bounded source-local scopes; identity uncertainty is retained rather than repaired from names.
+
+Ten normal MAIN contextual accounts now cover395 accepted comparator units. The five newly materialized homes are V00389/V00633/V10064/S2V000four/S2V001ten; Prologue2/Abydos83 remain the separately delegated normal-arc convergence lane. S2V002's complete EVENT833ten argument adds actual music/party restart, desired cocoa/play/dress and distributed work beside manipulation, projected costs and unprinted financial repair. V002/V100 now reuse Kei19's chosen school company, adornment, care-work criticism and objections without authenticating earlier Key/Kei.sav mechanics.
+
+Formal125/128/3631/3682/266 admission and540 subjects23PARTIAL_MODEL/517UNMODELED/standaloneNONE remain unchanged at this receiving boundary. The actual scope extension, source admission, seven-ledger/coverage/gap synchronization, all12 five-duty semantic acceptance and final publication gates remain. All14 original source gaps stay OPEN. Quiet pleasures, taskless company, creative work and minor friction remain intrinsically eligible.
+
+## Cycle008 current composite crosswalk and admission — 2026-10-09
+
+[Cycle008](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md) admits3674 new objects, preserving266 prior admissions. 3940 admitted selected supplemental objects with limits:65 GROUP/1010 EVENT/1161 BOND/1161 whole MomoTalk/511 written character_data/32 MINI. The six BLUE_ARCHIVE_PHASE2_CURRENT_<CLASS>_SOURCE_CROSSWALK.csv files in this directory are the current composite object crosswalk. Each has the inherited ordered17-field schema; all3940 rows areADMITTED with source-specific limits and normal owners. REF keys resolve in BLUE_ARCHIVE_REQUIRED3940_COMMON_METADATA_RECORDS.json; REF:EVENT:<story_id> resolves to the exact current event-priority CSV. The common record retains all1189 positive whole-thread Schedule witness edges and original compacted historical field values.
+
+The old BLUE_ARCHIVE_SUPPLEMENTAL_SOURCE_TO_ANALYSIS_CROSSWALK.csv remains its exact approved3682-row Cycle007 snapshot. Its AVAILABLE_NOT_REVIEWED values are historical intake, not present unreadness. New tables inherit3682 original canonical digests plus258 unique frozen-manifest bindings; no canonical/raw source hash was recomputed. Current private coverage is148 responsibilities/152 keys/2806 family objects plus27 unjoined written. All12 current MAIN contextual accounts and all7 ledger extensions are reconciled. All12 contextual arc accounts and five duties have content acceptance with limits; required intake/admission remaining0. Current Phase2 is CONTENT_COMPLETE / PHASE2_COMPLETE_WITH_LIMITS under the verified source-content publication and gate receipts recorded centrally in Cycle008; the closure revision's own exact-head CI receipt remains in the final report. Merge approval remains RESERVED.
+
+All4864 canonical objects remain visible:480 MAIN+3940 accepted supplemental+444 outside this selection (14MINI/96special_operation/334unclassified). G14 retains their mode/continuity inquiry; no low-stakes exclusion or source-class substitution is implied. Release chronology, titles, actor/choice/locale modes and absent AV retain the existing claim-specific limits.
