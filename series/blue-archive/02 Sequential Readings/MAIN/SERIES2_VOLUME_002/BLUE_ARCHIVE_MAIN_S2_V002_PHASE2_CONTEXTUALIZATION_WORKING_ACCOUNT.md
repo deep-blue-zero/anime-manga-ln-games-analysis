@@ -466,6 +466,9 @@ updated: 2026-10-09
 cycle008_contextual_adoption: PASS_WITH_LIMITS
 cycle008_publication_state: FOLLOW_CANONICAL_CYCLE008_CHECKPOINT
 cycle008_admission_authority: "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md"
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
 ---
 
 ## Cycle008 current contextual adoption — 2026-10-09
