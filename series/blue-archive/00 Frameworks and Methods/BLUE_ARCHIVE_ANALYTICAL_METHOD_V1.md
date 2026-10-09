@@ -5,12 +5,12 @@ scope: 'Japanese Blue Archive game narrative corpus: main, group, event, bond, m
 generation: V1
 version: "1.10"
 status: canonical
-source_boundary: "Current promoted Japanese main-story snapshot: electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z, all 480 main units read; historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 remains attached to its readings; HePudding/ba-storybook@main 6c4091603ca76d7d8c3cdb9104933f52cd8cab8e remains the independent reference; 266 supplemental objects admitted with limits in Phase2 cycles001–007"
+source_boundary: "Current promoted Japanese main-story snapshot: electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generation BA_REFRESH_20260928T032248159554Z, all 480 main units read; historical V1 witness cbe3fd623c2aab9e781ba0ce0483bc77c68bff86 remains attached to its readings; HePudding/ba-storybook@main 6c4091603ca76d7d8c3cdb9104933f52cd8cab8e remains the independent reference; 3940 supplemental objects admitted with limits in Phase2 cycles001–008; contextual content PASS_WITH_LIMITS, publication pending"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # BLUE ARCHIVE ANALYTICAL METHOD V1
@@ -769,9 +769,9 @@ The strongest method is therefore:
 
 That order preserves literary causality while exploiting the unusual richness of the extracted corpus: public crises, institutional routines, private bond scenes, messaging behavior, voice/register data, and a reversible path back to the exact Japanese source record.
 
-## Current Phase 2 admission boundary — 2026-10-07
+## Current Phase 2 admission boundary — 2026-10-09
 
-Architecture **Phase 2 — Arc contextualization** is the active production phase; older method workflow numbering remains historical method organization. [Cycle007](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_007_CHECKPOINT.md) brings scoped supplemental admission to266 objects:65 group/72 event/54 bond/54 MomoTalk/21 data, alongside all480 main units. Complete group-content intake is closed; Reijo/Rei/Ayane/Serina/Hanae/Mine available private pools and EVENT807/814/80001/801 now have scoped content acceptance; [scope extension001](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_001.md) adds227 private obligations and three mini relevance leads without admitting their unread content. Earlier cycles retain their exact dated admissions. The [Phase 2 audit](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_AUDIT.md) and supplemental object crosswalk own the full completion scope and source-level progress. New contextual repertoire does not change main-story chronology, admit unread private sources or certify Phase 3 monographs/models. Written language remains distinct from performance.
+Architecture **Phase2 — Arc contextualization** follows its own phase labels; older numbered method phases remain historical organization. [Cycle008](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md) accepts3674 new complete objects, cumulative3940:65 GROUP/1010 EVENT/1161 BOND/1161 whole MomoTalk/511 written/32 MINI. All12 sustained contextual accounts and seven cumulative domains have current content/admission/control acceptance with limits. Scope extension002 and six current class crosswalks own exact responsibilities and states. R09 publication gates remain pending before whole-phase closure. Ordinary repertoire and contrary endpoints have intrinsic value; written language is distinct from performed voice, source dates from global chronology, and textual breadth from model readiness. Later Phase3 packages and pilots require separate claim/state/domain adjudication; no models are certified here.
 
 Current supplemental character coverage is maintained in the [contextual companion](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md), read together with the inherited 480-main coverage/history.
 

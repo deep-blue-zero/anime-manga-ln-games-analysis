@@ -2,25 +2,25 @@
 series: BLUE_ARCHIVE
 artifact_type: source_gap_impact_register
 scope: Current Japanese evidence availability, admission debts, and claim-specific limits
-version: "1.7"
+version: "1.9"
 status: canonical
-source_boundary: "480/480 admitted main readings at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; 266 supplemental objects admitted with limits through cycle007; remaining debts retained"
+source_boundary: "480 main readings plus3940 selected supplementals admitted with limits through cycle008; all14 stronger claim-specific gaps remainOPEN"
 do_not_use_as_current_authority: false
 created: 2026-09-28
-updated: 2026-10-07
+updated: 2026-10-09
 ---
 
 # Blue Archive source-gap impact register
 
 ## 0. Boundary and use
 
-The [source reconciliation](BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) and [current map](../CURRENT_STATE_AND_CORPUS_MAP.md) establish **480 / 480** main readings and 26 chapter checkpoints in the pinned Japanese generation `BA_REFRESH_20260928T032248159554Z`. The [source-class crosswalk](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md) inventories all **4,864** canonical story objects. Exactly **266 supplemental objects are admitted with limits** through [cycle007](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_007_CHECKPOINT.md):65 group,72 event,54 bond,54 MomoTalk and21 character_data. All65 group objects have complete admitted readings; 938 event/1107 bond/1107 MomoTalk/490 data remain unadmitted. Mini, special-operation and unclassified remain unadmitted. This register identifies how each evidence debt limits a particular claim. It does not treat unread material as absent or imply that every possible source class is mandatory for a narrow claim.
+The source reconciliation and current map retain480/480 MAIN readings/26 checkpoints at the pinned generation. 3940 admitted selected supplemental objects with limits:65 GROUP/1010 EVENT/1161 BOND/1161 whole MomoTalk/511 written character_data/32 MINI. [Cycle008](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md) preserves266 prior admissions and accepts3674 additional objects. Required selected intake is complete;444 outside-selection objects remain visible (14MINI/96special_operation/334unclassified). This register records claim-specific missing warrants, not a claim that completed sources are globally unread.
 
-Cycle007 accepts Hanae21+Mine19+EVENT80113, leaving **3365 mandatory/3416 tracked** objects. Current combined coverage is **23 PARTIAL_MODEL /517 UNMODELED /540 analytical subjects**, all standalone NONE. All12 full arcs stay incomplete; no chronology, model/prediction readiness or global outcome debt is closed by these counts. The stable gap definitions/table and all earlier dated decisions below retain their exact pre-Cycle007 input; the appended Cycle007 reassessment owns the current claim-specific effects and remaining debts.
+Current textual coverage is complete under Cycle008; all12 contextual content accounts pass with limits and all7 ledgers are reconciled. The prior assessed model-route census23 PARTIAL_MODEL/517 UNMODELED/540 remains dated, all standaloneNONE. Older gap tables and cycles retain their exact historical inputs; the current reassessment below separates fulfilled textual intake from unresolved stronger claims.
 
 Status meanings: `AVAILABLE_UNREAD` means a canonical source route exists but has not been inspected for the stated question; `SOURCE_METADATA_UNRESOLVED` means current metadata cannot establish the proposed identity/title/order; `PRIMARY_TEXT_LIMIT` means the admitted text does not show the needed event or record; `ATTRIBUTION_LIMIT` means a source label, perspective or choice boundary narrows the reading; `SOURCE_CLASS_UNADMITTED` means no approved use of the identified class for the stated subject/question has occurred; it does not erase accepted uses elsewhere. A gap can carry more than one status. Resolve only the claim-specific effect after an exact source-facing reading; a new inventory count alone is not closure.
 
-The [readiness audit §35](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHARACTER_RECONSTRUCTION_BOOTSTRAP_AUDIT.md#35-current-cycle007-readiness-reassessment--2026-10-07) records the current Cycle007 evidence distinctions; earlier dated reassessments retain their input boundaries. The [event index](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_EVENT_ANALYTICAL_PRIORITY_INDEX.md) schedules event review without ranking quiet material down. The following gap IDs remain stable claim-specific routes. The preserved table and earlier decisions record their pre-Cycle007 inputs; the current scoped acceptance and remaining debt are recorded in the Cycle007 section below, without inventing model-rule IDs.
+The readiness audit’s Cycle008 reassessment owns the current coverage-versus-model distinction; earlier sections retain their boundaries. Event priority orders review without discarding quiet evidence. Stable gap IDs remain unchanged; no new model-rule IDs or gap closures are invented.
 
 <a id="1-current-material-gaps-and-claim-effects"></a>
 
@@ -264,3 +264,91 @@ After this scoped53-object acceptance, the complete-source unadmitted remainder 
 ### Current cycle007 authority qualification — 2026-10-07
 
 The earlier dated acceptance and conditional appendices retain their exact input boundaries, including213 admitted objects/516 subjects where recorded. The current cycle007 checkpoint and current boundary above govern266 admitted objects/540 subjects after this coherent transaction; those historical numbers are not competing live censuses. Later mini/G01,20-family,G06/G26,D02 and CF08/CF10 observations retain their existing conditional admission, actor/mode/locale, ordinary-value and contrary-case limits. All twelve full-arc rows and all five architectural duties as a complete Phase2 responsibility remain incomplete; P2-R01 is PASS_WITH_LIMITS only for its group-relevance scope, and P2-R02–R09 remain IN_PROGRESS. No standalone/operational/validated model, monograph, forecast or performed-voice admission is created.
+
+
+## Qualified contextual accounts and retained gap effects — 2026-10-08
+
+All14 original gaps remain OPEN. The exact object crosswalk still owns266 admissions/3365 mandatory and3416 tracked unaccepted objects; these are admission obligations, not unread-source counts. Complete qualified accounts are now available for all30 selected Trinity/Arius families596 and 61 selected whole-event arguments1010. Newly reviewed objects are not silently admitted. See the source-class crosswalk and maintained normal checkpoints for exact identities, chronology, qualifications and excluded claims.
+
+| Gap family | Concrete new analytical value or applied comparison | Claim that remains unavailable |
+|---|---|---|
+| G01/G06 ordinary breadth and comparison | Wanted books, food, music, photographs, taskless company, play, craft and rest remain intrinsically central. Actual seven-ledger application preserves admitted816 cafe belonging, directed care and recipient differences; complete new accounts add proposed situated range. | Whole125-family/61-event/12-arc coverage; universal shared enjoyment, crisis essence or a one-scene ceiling. |
+| G02/G03/G04/G05/G11 situated principal/aftermath duties | New event accounts retain actual named roles and only their source-local success, ordinary wants and continued work. | No broad Yuuka transfer, Serika work completeness, Hina causation, Arius/PS68 repair, Hoshino/Yume history or unrelated identity closure by analogy. |
+| G07/G08 chronology and event contexts | Complete alternatives, quiet afterstories, recollections and documentary contexts are preserved; normal/hidden endings and after-show games are not forced into file-order chronology. | No absolute series calendar, main-event causal edge, duplicated rerun, repaired null overarching title or completed future week/gift. |
+| G09/G12/G14 attribution, identity and mode | Literal speaker seams, collective replies, inward/response limits, private joins and written conditions remain recoverable; main-only retrieval limits stay named. | No silent actor repair, invented private persona, complete unclassified-mode continuity or similarly named-person merger. |
+| G10 performance | Written singing/stage descriptions and video tokens are explicitly limited. | No audio, animation, pixels, acoustic delivery or performed-voice admission. |
+| G13 accountability / outcome | Positive local rescue, treatment/recovery reports, received gifts, selection, game/photo production and negotiated agreement remain legible alongside objection, harm and unfinished work. | No unprinted wages recovered, restitution, legal/clinical/technical certification, machine destruction, custody, durable cure or uniform ethical acquittal. |
+
+Reading and writing a coherent account do not alone close these wider obligations. The dated already-admitted comparison is actually applied; new unadmitted meanings remain pending scoped admission/coverage reconciliation. External artifact handoffs are no longer a dependency. Whole-arc completion and required final publication gates remain unfinished.
+
+
+MAIN_V004 now also has a coherent partial44-MAIN/five-GROUP/four-private-family comparison. The actually applied admitted MAIN/GROUP meanings retain differentiated tastes, rest, peer labor, voluntary return, civilian refusal and unfinished institutional/legal restoration. Complete89 private/written objects add qualified proposed breadth with recipient limits; they remain unadmitted. No gap closes, no unrelated principal duty is filled by analogy, and no written/performed or local-success/global-repair distinction is removed.
+
+### Qualified Hyakka and police extension — 2026-10-08
+
+Four Hyakka families78 and current Kirino17/Niko12 add complete ordinary/linguistic accounts: wanted company/rest/craft, chosen inclusion, actual meals/participation/local rescue and recipient objections. G01/G06 gain this precise repertoire; G07/G08 retain unordered private/public placement and conditioned repeat limits; G09/G12/G14 retain actors, local roles, exact identities and whole-thread/written distinctions; G10 has no performance; G13 preserves actual local benefit beside harm and unprinted legal/clinical/repair outcomes. No analogy closes G02/G03/G04/G05/G11. All14 original gaps remain OPEN. Complete literary receiving is not new source admission or all125/12-arc completion.
+
+## Current complete V004 and seven-family V005 comparative impact — 2026-10-08
+
+All ten selected V004 private families177 and seven of17 Hyakkiyako families119 now have complete qualified normal arguments and coherent MAIN_V004/V005 comparisons. This materially broadens G01/G06 ordinary/cross-school evidence: actual personally wanted craft, clothes, food, rest, company and quiet creativity, alongside recipient limits, failed methods and uneven burdens. G07 retains local thread tails and unplaced private/public chronology; Nagusa’s incomplete private arm restoration cannot annul the later accepted public arm return. G08/G14 retain costume/reissue/conditioned modes without whole-event or enacted repetition credit. G09/G12 preserve automated messages, unknown chiefs/captions, mixed Ayame modes and exact variant joins; G10 has no performed source. G13 keeps actual care/pleasure and finite success separate from legal, clinical, technical and public-accountability closure. Existing rejectedC005/C006 and boundedC011/C016/C017 remain.
+
+Every one of14 original gaps remains OPEN; qualified literary receiving is not automatic source admission or final gap closure. New177/119 objects remain UNADMITTED/newseven-ledgerclausesUNAPPLIED, formal125/128/3631/3682/266 and540/23/517 unchanged. Required remaining event, private, identity, actual cumulative application and twelve whole-arc gates continue; no model or Phase3 promotion.
+
+### Qualified festival-family availability — 2026-10-08
+
+The normal Festival51 complete argument adds Shizuko20/Fina19/Umika12 to the MAIN_V005 working comparison: thirteen families232=97BOND97wholeMomoTalk38written,2 existing ADMITTED/230 UNADMITTED. Four remaining families69 stay mandatory. This is qualified literary availability, not a new accepted source/claim/readiness count or performed-voice credit. All14 original gaps remain OPEN; no model or Phase2 completion.
+
+### Qualified training-family availability — 2026-10-08
+
+Kaede12/Mimori19/Tsubaki17 add48 complete effective private/written objects in a normal account. Current V00516/280=117BOND117wholeMM46written,2 existing ADMITTED/278UNADMITTED; Wakamo21 remains mandatory. This supersedes earlier13/232 current private availability only; accepted source/claim/540-subject/readiness scope is unchanged. All14 original gaps OPEN, no model/performed voice/Phase2 completion.
+
+## Qualified current Hyakki17/301 and festival16 availability — 2026-10-08
+
+Wakamo21 completes the selected17-family301 private/written literary scope. Actual quiet warmth, cat care and company coexist with harmful intrusion, refusals, stopped threats and unprinted legal outcomes. EVENT83516 preserves wanted craft/food/scenery/peer company alongside Umika’s error, strategic concealment and unfinished accountability. These qualify local ordinary/mode/person context; all14 original rows remain OPEN and no unadmitted proposition is applied to the seven ledgers. G07/G09/G10/G12/G13 retain chronological, actor/performance, identity and outcome limits.
+
+## Qualified Gehenna20/399 normal comparison — 2026-10-08
+
+Twenty selected families399 now have positive complete ordinary/private/written analytical authority and a normal connected comparison. Actual care/pleasure/refusal is retained beside intrusion, failed aid, uneven recipients and unfinished public accountability. This locally qualifies ordinary and mode/person comparison; all14 original gaps remain OPEN. Main-only Restoration Committee identities, further event/special scope, chronology, performance and institutional restitution remain bounded. Two prior Junko admissions remain;397UNADMITTED/new proposalsUNAPPLIED, with no model promotion.
+
+## Current complete contextual readings and claim-specific remaining gaps — 2026-10-08
+
+All61 selected EVENT packages1010 objects, the125-family baseline2556 private/written objects, newly required13-family151 objects, tracked Kei19 and selected MINI32 now have complete qualified analytical meaning. The27 unjoined-written and43 main-only dispositions are complete at their bounded source/identity scopes. Exact normal-owner reconciliation is active, including missing current family links; three newly substantial mini principals receive a separate bounded typed-private-route inquiry. This is current reading availability, not new admission, actor census, performance, model promotion or final Phase2 acceptance. Earlier AVAILABLE_UNREAD labels in the preserved pre-Cycle007 table are historical input states.
+
+| Stable gap | Current inspected contribution | Why the gap remains OPEN |
+|---|---|---|
+| G01/G06 | Complete selected ordinary repertoires include art/craft, music, books, particular taste, rest, play, work, doing nothing, wanted/refused company and minor friction across schools. MINI32 adds actual gifts, a completed birthday party, broadcast, cookies, dinner and flowering weed, with contrary endpoints. | Selected coverage supports source-bounded interpretation; it is not a whole-person generalization, all-franchise exhaustion or a crisis-only essence. Exact admission/coverage application remains pending at this receiving boundary. |
+| G02 | Complete Yuuka private/written argument and Millennium/event/mini comparisons preserve negotiation, office boundaries, privacy, ordinary play, local charging failure and limited judgment. | No arbitrary-state transfer, infallible calculation, complete security or generalized political/legal authority is demonstrated. |
+| G03 | Serika's already admitted31 private/written sources, complete814 and current selected event arguments broaden particular service, pleasure, gifts and peer reciprocity. | Familiar work or a positive outing does not establish all unfamiliar customer/private responses; chronology and recipient conditions remain local. |
+| G04 | Gehenna private and full selected event accounts,833 actual music/party restart and05030 completed birthday occasion add wanted rest, songs, peers and fallible work. | NK Ultra coercion allocation, affected-student repair, restitution and durable public accountability remain unprinted. Ordinary pleasure cannot close those distinct debts. |
+| G05 | Complete Arius/PS68 private accounts and809/834/838 plus mini130/150 preserve livelihood, peer choices, actual rescue/arrest/dinner, reciprocal care and rejection of endless repayment. | No universal trauma cure, permanent home/job/security, legal absolution or dated causal path from private scenes to MAIN follows. |
+| G07 | Whole linked MomoTalk tails, event sequences, local before/after markers and mini flashbacks/dates without years retain their actual order. | Documentary release dates and numbered IDs still do not supply a global story calendar or backdate knowledge. |
+| G08 | Every selected event identity and preserved rerun/condition context remains in its complete account. | Missing overarching titles are not filled from memory; repeat release contexts and written costume codes do not multiply enacted stories. |
+| G09 | Current accounts preserve source IDs, scene/unit/choice/message modes and named actor seams, including Momiji003's handover labels and mini dialogues. | A consequential stronger actor/knowledge claim would need its own narrow raw witness; familiarity or expected personality cannot silently repair labels. |
+| G10 | Complete contextual written registers distinguish profile, UI triggers, texting, narrated singing and video/sound tokens. | No inspected audio/video performance has been admitted; pitch, acting, acoustic continuity and pixels remain unverified. |
+| G11 | Corrected Hoshino/Yume MAIN states and available private contexts broaden wants and situated care. | Notebook/death-record provenance, full causality and durable stabilization are still not authenticated; later knowledge cannot erase earlier uncertainty. |
+| G12 | Kei19 supplies positive present identity narrative at two literal keys; other-axis Shiroko10100 remains distinct from base/cycling/swimsuit scopes.27 unjoined sources and43 main-only subjects have explicit bounded routes. | Modern profile continuity does not authenticate Kei.sav or every body/system mechanism. Baseball/diver Rei, Mai/Maia, unnamed voices and separate counterparts remain unmerged. |
+| G13 | Local completed outcomes are precise: drawings/repairs/returns, prototype removal after ignored stop, cookies with captive cook, actual rescue/arrest and requested work/refusal. | No unprinted clinical recovery, paid wage/contract, durable technical safety, lawful tenure, final sentence, fiscal audit or systemic reform is supplied. Positive pleasure and unfinished accountability coexist. |
+| G14 | All32 selected mini objects have complete qualified review with source-class and mode limits; other selected classes remain explicit. | The broader46 mini inventory,334 unclassified scenarios and96 special operations are not silently admitted or declared disposable. They require justified future claim-specific scope; this selection does not fill MAIN gaps by category resemblance. |
+
+All14 stable gaps remain OPEN for these specific claim limits. A qualified complete contextual phase can retain evidentiary uncertainty; closure requires the missing warrant for the particular claim. Newly unadmitted cumulative effects and final source/current-state/publication reconciliation remain separate unfinished duties. No model, forecast or performed-voice capability is created.
+
+## Cycle008 current claim-specific effects — 2026-10-09
+
+| Gap | Current effect after complete selected textual intake | Status |
+|---|---|---|
+| G01 | Required ordinary/private textual breadth complete; situated preferences and local actions do not establish a universal psychology. | OPEN |
+| G02 | Yuuka games/art/gifts/reciprocity and contrary control broaden repertoire; arbitrary-state transfer remains untested. | OPEN |
+| G03 | Serika work/taste/holiday/privacy and unfamiliar service are complete at their sources; no fixed romantic essence or general transfer. | OPEN |
+| G04 | Hina private piano/rest/support broadens public duty; victim/redress, custody and unprinted clinical/legal outcomes remain. | OPEN |
+| G05 | Arius/PS68 private/peer/ordinary afterstates complete; undated enjoyment does not certify durable reform, debt release or all restitution. | OPEN |
+| G06 | All12 arc/ensemble comparisons complete, including regional/guest agency; no cross-school universal norm or automatic mechanism. | OPEN |
+| G07 | Exact local anchors retained; release and retrieval ordering do not establish universal story chronology. | OPEN |
+| G08 | Stable event IDs and28 repeat contexts retained; missing overarching titles remain missing. | OPEN |
+| G09 | All choices/whole-message tails and written conditions retained; consequential actor/log/locale seams stay qualified. | OPEN |
+| G10 | No performed audio, pixels, animation or runtime branches inspected; textual music/touch claims remain textual. | OPEN |
+| G11 | Hoshino/Yume memory, intelligence, records and separate presidency states remain provenance-qualified; grief and unprinted records not cured. | OPEN |
+| G12 | Counterpart/software/guest/alias and literal raw keys retained; local self-name/disguise does not merge biographies. | OPEN |
+| G13 | Actual benefit is distinguished from missing clinical/legal/financial/institutional/technical aftermath: Anna hospital failure, Erina rejection, Aoba unchanged workload and Miku constrained controls remain concrete limits. | OPEN |
+| G14 | Selected MINI32/all511 written complete;14 other MINI/96special/334unclassified retain visible mode/continuity questions. Sparse sources remain intrinsically eligible. | OPEN |
+
+[Cycle008](../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md) owns exact current admission and consequential source qualifications. Unprinted outcomes and omitted source modes do not become facts through counts, metadata or positive company. All12 contextual arc accounts and five duties have content acceptance with limits; required intake/admission remaining0. Whole Phase2 closure remains pending the source audit, completed housekeeping and successful Repository integration audit on the exact final head. Merge approval remains RESERVED.
