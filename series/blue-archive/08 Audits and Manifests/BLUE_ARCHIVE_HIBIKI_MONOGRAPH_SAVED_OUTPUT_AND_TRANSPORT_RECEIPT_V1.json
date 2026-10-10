@@ -1,0 +1,1096 @@
+{
+  "original_exact_tuple": {
+    "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md",
+    "bytes": 52132,
+    "sha256": "b5e924e7e4a67cde5454c8e3e0e256c37aa90556902acadf0c8ce3dee32a492a",
+    "git_blob_oid_of_actual_bytes": "4acf0ec5752c70a3697ad8f086fdc4fd0e3d096d",
+    "lines": 160,
+    "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md"
+  },
+  "canonical_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md",
+    "bytes": 54023,
+    "sha256": "0b6becfbfbfe7d371be0cac8d63193386abf458296ccb2d29ae13cd7b86f462a",
+    "git_blob_oid_of_actual_bytes": "e8caa7a34cfec2e5cf21245dcdc673e8ef36d524",
+    "lines": 172
+  },
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "a24ba4ca940c73448a66df982e9cf97b6de16c09d72104261ad9cbd873131b24",
+      "line_text": "series: \"BLUE_ARCHIVE\""
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 3,
+      "line_sha256": "9eb9ff4aed6bec9c1b311b97a1eea75334ffd76e4ed44664ae96c31b11a38177",
+      "line_text": "character: \"Hibiki / 猫塚ヒビキ\""
+    },
+    {
+      "frozen_line": 6,
+      "canonical_line": 4,
+      "line_sha256": "44717fa3e89c538482bf62ebca1b06ab56881bc005ac9c39293048a241c09155",
+      "line_text": "required_home: \"P3-CHAR-HIBIKI\""
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 5,
+      "line_sha256": "45be84ce31fbfbc037783976f7e94bd95f5b82c3a01138f53991cb0b0feac33b",
+      "line_text": "typed_family: \"P3-F092\""
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 6,
+      "line_sha256": "3d9da0bb5f647614b5126efb90a9ef19ab90ac55e65a0b4e4dc926b5216de86f",
+      "line_text": "dated_route: \"P3-A069\""
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 7,
+      "line_sha256": "2efb9b2005f0022c9b8ba1fc4db7d29828e3e50e6236ccdc91f703b62b41c332",
+      "line_text": "person_key: \"BA_PERSON_HIBIKI\""
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 8,
+      "line_sha256": "7202248901ea01da662a646e428f0c047d1af30bbc398517b4705dd68338d8e2",
+      "line_text": "source_variants: [16010, 20000]"
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 9,
+      "line_sha256": "3f7a022a665cbc87606777a04e2f710513e0280af6b1f4a7f7537273e119d148",
+      "line_text": "selected_costume: \"1900906601:character:16010\""
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 10,
+      "line_sha256": "5f812903c9938bd3fe5b141f9e318d5b1e62e7be4703f65763be9a19b21a17e7",
+      "line_text": "method_version: \"1.10\""
+    },
+    {
+      "frozen_line": 13,
+      "canonical_line": 11,
+      "line_sha256": "1208a13c31757e626a9744e6ef0eda631482c3de1906c955f31cc31d890b9740",
+      "line_text": "architecture_version: \"1.12\""
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 12,
+      "line_sha256": "18d199c0420f5bf9ef5ef2b33e0ef6223d375ee99584e96d7756197a94ccc633",
+      "line_text": "analytical_source_snapshot: \"92184703994a1950a5660654ce52d8516dbe9bf5\""
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 13,
+      "line_sha256": "de96f7fd7d9601fb7eabe8eae2d253df14931af682020a35f47e5880c213f8e5",
+      "line_text": "source_admission: \"ADMITTED_WITH_LIMITS_CYCLE008_FOR_REGISTERED_SCOPE\""
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 14,
+      "line_sha256": "89f62f1c2bc71ab4c1ad9e3bb78e68558d61d24c5d2d6ac5e76a9faf148cae67",
+      "line_text": "original_gaps: \"14_OPEN\""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 15,
+      "line_sha256": "f982b9cfdc72e8d1760ce356bd997f5d1eeb4572d25f87a1ebf53adb2d6a3c9b",
+      "line_text": "performed_voice: \"UNRECEIVED_NOT_ESTABLISHED\""
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 29,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 30,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 31,
+      "line_sha256": "d51ce087fc201b527a7bdc13d4e606bb06b40ceaae1b57ae78cdd670eaca031e",
+      "line_text": "# Hibiki — helping, being helped, and the thing she wants to keep"
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 34,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 35,
+      "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+      "line_text": "## 1. Core thesis"
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 36,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 37,
+      "line_sha256": "86d9940545f78ac6610cdccd683ae48a69ecd5e577e2f53a1c691fd499d3c384",
+      "line_text": "Hibiki makes helping into a personal practice. She repairs, invents, sews, studies, asks for opinions, gives encouragement and wants the result to matter to another person. Yet the measure of help is repeatedly contested. The client can want ordinary coffee instead of a new extractor, a bicycle repaired without weapons, or a plain umbrella instead of a transformed concept. Hibiki herself can want applause, recognition, rest, a beautiful view and company without producing another technical benefit. The joined argument is therefore about the unstable relation between useful work and wanted life: she often understands herself through what she can make, while the archive gives her pleasures and reciprocal needs that exceed that account. This is an interpretation of the complete selected private repertoire and its public comparisons, not a claim that she believes she deserves affection only when useful. [H25:complete private and written account](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 38,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 39,
+      "line_sha256": "edde45a4684a58c6d7591afe494d3a12a564c5d2c5c15d63e82eea34d5f42be6",
+      "line_text": "Her technical imagination is neither uniformly beneficial nor merely a comic incapacity. An encouragement performance actually distracts from work; a subsequent processor produces a rapid completed report through threatened loss and ends confiscated. A personally recorded lullaby accompanies locally narrated deep sleep, while the preceding message thread retains her pride in the rejected device and unanswered questions about self-destruction. These outcomes distinguish responsiveness from complete reform. Similarly, a restored power station supplies a real illuminated occasion and an explicit further-maintenance debt. The treasured goggles have no self-destruct mechanism, and the lack becomes a tentative attachment insight; it does not erase her continuing appetite for unwanted bicycle modifications. Her better responses need their exact achievements, and her worse choices need their actual recipients and limits. [16010:003u0033–0048;005u0011–0044;006u0015–0033;20000:009scene002u0025–0038;015u0006–0016/0041–0062](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 40,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 41,
+      "line_sha256": "a431d0d353f9851dfb123afe7a943bcad9eff9c8d27e726044c8d3a955451f5d",
+      "line_text": "This makes ordinary evidence explanatory without requiring an importance contest. Fabric touch, inhabiting a fictional role, shopping, the mild aftertaste of cheese, the wish to wear cheer clothes, a psychology book, a private dream and a long-used design tell us what she wants and how she responds to others. None has to become a cause of a major rescue to remain in the argument. Nor does ordinary warmth automatically absolve an imposed mechanism or public damage. The question changes with the recipient: helping a tired adult, preserving a personal object, collaborating with peers, accepting an owner's repair request and contributing to a coalition are different relations. The interpretation remains bounded to those differences rather than turning every encounter into one personality law."
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 42,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 43,
+      "line_sha256": "babd9490973a03a21768174bc0cbc24038fbf05723fb29a4ca02ea8ef74c6e94",
+      "line_text": "## 2. Longitudinal arc and legitimate ordering"
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 44,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 45,
+      "line_sha256": "dd1a66a5ef010ca693c8df2c8c18436aa0898ecc19a2857063dc31401916682c",
+      "line_text": "The two variants belong to the literal selected person family, but their release dates and episode numbers do not supply a universal developmental schedule. The hardware-repair encounter preserves a missing-reply inquiry, permission to visit, a repair report with a tentative durability assurance, and the remembered senior ban on casually adding self-destruction. The whole message thread includes an explosive household-appliance offer and its final joke. That joke qualifies its own address; it cannot retrospectively turn the later coercive processor into a harmless unexecuted proposal. Conversely, the processor does not authorize inserting a detonation into the phone story. What repeats is a problem of supplementing another person's need, with differing degrees of permission, action and restraint. [20000:002u0008–0037 and wholethread200000010, including200000080:1310](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 46,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 47,
+      "line_sha256": "7587dbb06fa26561ce1c09bdc3b0e1a750965bf381b17bc68cd05e38287a4c05",
+      "line_text": "The clearest connected private sequence is the desk-work support comparison. The complete lost-data thread reports Veritas's difficult recovery assessment and asks how Hibiki can otherwise help; the adult requests encouragement. Her late visit attempts a role she has made tangible through clothing, then acknowledges that cheering has reduced concentration. Reassurance and an explicit ordinary-coffee request redirect the encounter. The final narration credits quicker recovery of all the data and adds a socially consequential rumor. The next prototype's message and bond explicitly refer to the previous distraction. Hibiki responds to one defect by avoiding spectacle but introduces coercive urgency instead. Rapid report completion and confiscation are the joined ending. The subsequent rest aid refers to prior client feedback without pretending she has entirely repudiated the processor. Local callbacks establish this comparison; they do not establish a calendar for every outfit, MAIN scene or holiday. [16010:003whole160100090/u0018–0048;005whole160100160/u0011–0044;006whole160100210/u0002–0033](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 48,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 49,
+      "line_sha256": "b99b8f3874532be6ac8a836b1fd3d553c6ea806debe76cb23fba3c0a764b04fa",
+      "line_text": "Another linked comparison joins promised spectacle to the night-view repair. The fireworks scene gives an aesthetic debate about fleetingness, chemistry and testing limits, a warning, an adult switch action, a launch and a Tower-impact ending. The full post-launch thread retains Hibiki's no-injury report, mixed responses and renewed wish to show something better. The power-station story explicitly recalls the fireworks promise, yet offers something differently constituted: restored surroundings and a familiar view made precious through company. The moment does not become merely a more efficient replacement product. Its technical and social accomplishments remain local, with favorable remaining cores, parallel senior work and temporary repairs all material to success. [20000:003scene002u0024–0051/whole200000090;009scene001u0015–0019/scene002u0025–0059 and whole200000440](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 50,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 51,
+      "line_sha256": "9cc9034348ca45eeb7eae53faf94c123e7b8aa991585348a52da5e751278401b",
+      "line_text": "The umbrella and goggles scenes complicate any smooth growth ladder. Psychology is an explicit attempt to consider feelings alongside rationality, but repeated ordinary-umbrella requests are still needed after her stated wish to respect an order. Goggles invite an attachment interpretation, yet the already repaired bicycle remains accompanied by resentment at the repair-only constraint and further upgrade desire. These are meaningful local changes and self-recognitions, not proof of a permanently client-centered later Hibiki. Likewise, the fabric story's older-costume recollection, the written profile's remade outfit and CharacterGet's first-making claim retain a textual scope tension. There is no need to manufacture one hidden chronology to let sewing, embarrassment and desired improvement matter. [20000:008u0012–0038 and full1367–1370 coda;015u0006–0016/0049–0062;16010:002u0027–0034;D16010:ProfileIntroductionJp/CharacterGet4682](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 52,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 53,
+      "line_sha256": "1cb51f2d4ee5cef21d45f6bd07fba2acff7457b769bfd83d21453357f3cc81a9",
+      "line_text": "Public time is ordered only where its sources supply it: the Engineering group sequence goes from lunch inspiration to modified-gun collection and its adverse use; festival preparation differs from its later event and aftermath; Pavane moves from weapon acquisition to a separate rescue coalition; Final follows its own crisis and collective ending. None fixes the private stories' exact placement or proves that a costume is a moral stage. Longitudinal reading means holding these recurring questions and specific callbacks together while preserving the documentary boundary of each occurrence."
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 54,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 55,
+      "line_sha256": "c5a9c7eb1f30b8449954edceee12c518fa13a4de873f92d57f62aadf78024ff2",
+      "line_text": "## 3. Public self, private self, and interpretation"
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 56,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 57,
+      "line_sha256": "ca6b7d2c52c9c20412bd1eb22f2ed3b590de4c324e61fc05b56ebc6718e869d3",
+      "line_text": "The written profile's nearly faultless masterpieces and inevitably strange feature create a recognizable public characterization, but the enacted private sources give a more demanding test. A harmful feature can restrict a user's exit, rather than merely surprise them. A device can fail its emotional occasion despite an ingenious substitution. A repair can succeed locally without eliminating maintenance. The profile remains an attributed generalization; it neither overrules these scenes nor becomes worthless because it idealizes her skill. The same written repertoire names making a way of life, delights in a mechanical heart restarting, solicits equipment feedback and imposes demanding time-and-budget ideals. Public mastery and personal investment are thus connected without being identical to a stable measured competence score. [D20000:ProfileIntroductionJp;Cafe1685–1686;UILobby1694/1696–1699](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 58,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 59,
+      "line_sha256": "554bcd9f3797a1c7162b69b1094d1a586f0e4a3d3c0f770561625acb1bfd1491",
+      "line_text": "In private, an inadequate response can become a question about being a true Meister. After the failed cheer, she apologizes and doubts herself. After discovering that her goggles lack an allegedly necessary feature, she initially doubts her maker preparedness. Those evaluations show how deeply craft identity enters self-understanding, but they are hers to examine, not the analyst's certification that she is deficient. Reassurance can help, and a tentative attachment explanation can give a personally kept thing value outside maximum functionality. Neither licenses ignoring the different person whose request she has missed. Her subjective fear and her recipient's practical preference are simultaneously legible. [16010:003u0035–0040;20000:015u0041–0056](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 60,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 61,
+      "line_sha256": "68386ba9441a3517c2ecf277543ef10a073d65e49b9de0f4dd28e6b55191f3b1",
+      "line_text": "Clothing gives this distinction an ordinary form. Hibiki explains cosplay as the pleasure of inhabiting a role, with touch and material fidelity important to the imagined world. This is not evidence that she despises her own identity. She also asks not to be teased, remembers the limited quality of an earlier cheer costume, and wants another conditional opportunity to use it. Her selected cheer writing wants to help beyond technology while also wishing, on her birthday, to receive encouragement. The repertoire gives reciprocal need a direct place. Contextual discomfort and parenthesized self-questions about Sensei do not establish romance, performed embarrassment or permission to replace her craft interest with adult desire. [16010:002u0013/0020–0034/0036–0048;D16010:UILobby4691/4694–4700](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 62,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 63,
+      "line_sha256": "7e5f8c106be25b0acdf957a3d276041ef93bce4ce5055fba7a9c1abc15f1f905",
+      "line_text": "The secret dream is especially resistant to completing her interior for her. She says she dreamed about Sensei, withholds the contents and wants to meet. The later sleeping-face observation can support affectionate attention without revealing that dream or fixing an exclusive relationship. Similarly, public rumor after the cheer visit is an actual narrative afterstate, not a reliable report of an unprinted sexual or romantic event. The source lets personal warmth and other people's interpretation diverge. An adequate account receives the rumor's cost while retaining the work, encouragement and data recovery that the scene actually depicts. [20000:006whole200000260/messages1341–1343/u0052;16010:003u0047–0048](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 64,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 65,
+      "line_sha256": "6d11996766fa4bd38720a43bf0d8ad55755c8fba75305900d7b75549dcee5f16",
+      "line_text": "## 4. Millennium and Engineering: standards, resources and ownership"
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 66,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 67,
+      "line_sha256": "c7c80eb10db6b499767409d3154b78d749c99f98f879fb07e49d910405d0c03a",
+      "line_text": "Engineering is a craft community with tasks and constraints, not merely the background for solitary eccentricity. Hibiki reports hardware specialization and nearby council work, while explicitly admitting that much council machinery remains obscure even to engineers. Remembered seniors restrict indiscriminate self-destruction additions; she is disappointed but also recognizes accumulated verification as a possible basis for that judgment. The institution therefore supplies both pride and a real check on her authority. A Meister title is a valued self-designation within this account, not a trade license, right to modify someone else's property or complete club constitution. Her time-and-budget ideals likewise belong to her written self-demand, rather than a rule allowing us to reject evidence whenever she needs resources or help. [20000:002u0005–0024;D20000:Cafe1685–1686](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 68,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 69,
+      "line_sha256": "dd88d5f9e686c3b3237d7442e67003249ee37d7448a4f386a703a889449cfcdb",
+      "line_text": "The ordinary group lunch shows differentiated belonging. Hibiki considers food that can be shared without dirtying hands and likes plain cheese's mild aftertaste; Kotori wants richer ham-and-cheese fast food, while Utaha finds excess cheese greasy and wants the fictional sauce. Their project begins with an avowedly pointless convenience idea and is nevertheless enjoyable. Hibiki later notices barrel cleaning and hygiene difficulties, and invokes failure as success's mother; the claimed one-liter-per-second output remains her specification rather than a calibrated measurement. This makes her participation more precise than either the uniformly reckless club member or the passive junior. Taste, practical criticism, shared experimentation and hoped-for learning coexist. [G1401u0007–0019/0044–0055;G1402u0002–0025, with current actor qualifications](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 70,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 71,
+      "line_sha256": "330f7308e7890d0b49934a758649e27c2e8c56dcecb937a23ffb5d24606dd0ff",
+      "line_text": "Ownership then changes what their achievement means. They only ask whose gun it is after the modification; Neru comes to collect a repair and is not told its new sauce function. Her acceptance of supposed repair completion is not assent to their experiment. Hibiki and Kotori fear retaliation, follow the concealment-oriented plan and attempt to prevent trigger use. A console-repair promise and a local nonviolent door solution can be genuinely useful while serving that concealed purpose. After the spray repels attackers, Hibiki and Kotori try to recast the result as proof of usefulness and protection of Neru's undefeated story. The closing distress and retaliation prevent utility from settling the owner's different claim. No death, restored gun, apology or settled liability is shown. The club's separate institution package must join that ownership problem; this character account cannot count it complete through three named participants. [G1402u0026–0055/0063–0064;G1403u0013–0023/0031–0045/0063–0079](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 72,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 73,
+      "line_sha256": "894de61ef1d2893c88ff47261ba4000ed55576d1ace923582a23bb2641d23480",
+      "line_text": "The power station gives a contrasting institutional responsibility. Reported senior internal repairs run alongside Hibiki's external task; the remaining cores' unexpectedly better condition matters alongside persistence and the adult's help. The restart and lit occasion are real represented achievements. The source also explicitly says much repair is temporary. A school dependent on electricity and a student looking forward to the night view are linked publics, but neither all-school safety nor permanent infrastructure integrity is certified. The distinction prevents both dismissing maintenance as anticlimax and inflating the beautiful endpoint into total office closure. [20000:009scene001u0013–0019/scene002u0025–0038/0056–0059](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 74,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 75,
+      "line_sha256": "963e17328bc2b08105434140d1b426cfa3033ae21892c2a7ce861112243719fb",
+      "line_text": "## 5. Ordinary life: making, imagination, rest and reciprocal pleasure"
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 76,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 77,
+      "line_sha256": "a8159987dc800b04152abdd82a58dfb264c3bd860bfb99d3e83b733690465168",
+      "line_text": "Hibiki's hobby has sensory and imaginative substance. At the fabric market, color and online material information are insufficient because skin contact requires touch. She wants to inhabit a fictional scientist heroine's role and considers the fibers appropriate to its imagined setting. Those textile conjectures remain hers, not a verified history of materials. Refusing an approximate color is a situated standard of design fidelity, while considering the adult's curtains keeps another ordinary purpose present. The achieved ending is enjoyable joint selection; completed costume and curtains remain unprinted. Shopping and cosplay have value before they supply useful clothing to a festival or combat optics. [16010:002u0005–0013/0020–0026/0036–0048 and whole160100010](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 78,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 79,
+      "line_sha256": "afcf0eb1848854340dc6c7b478a7805228765a002f0c7e4e5af7c8882ee86c98",
+      "line_text": "Sewing and design also constitute the treasured goggles. She describes the stitching visibility a costume requires and the design she originally liked. Long use and labor give the object accumulated meaning. Its many advertised capabilities are actor claims, but its explicit lack of self-destruction and her tentative wish not to lose it are clear distinctions. Attachment is not a faulty feature to optimize away. The source lets preservation have a positive value without making an emotional exception proof of a general safety policy. Meanwhile, the birthday wish to receive cheering, holiday enjoyment, received-gift address and an unscientific but exciting Halloween give her more than the giver's role. These contextual lines are a repertoire, not a continuous year of events actually witnessed. [20000:015u0027–0037/0041–0056;D16010:UILobby4699–4700;D20000:UILobby1700–1706](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 80,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 81,
+      "line_sha256": "2113eb26f6df92b9da3e4820ba55ca868a484ea013b512dab20e1cc28fb89586",
+      "line_text": "Rain changes what she wants to do with a day: a library visit replaces work, sentimentality matters and a beginner psychology book offers another vocabulary for feeling. Adult guesses about BL, science journals or poetry are not her tastes. Her ripple analogy puts unfamiliar affect beside familiar physical explanation and explicitly values feeling alongside rationality, rather than abolishing reason. The subsequent renewed extraordinary-umbrella offer keeps the old novelty habit present. Shared plain shelter and the full later message coda achieve something more ordinary: she notices his wet shoulder, thanks him and reflects that two umbrellas would have left this aspect of him unknown to her. This is her directed observation and interpretation, not a clinical empathy score, proof of romance or completed reading of the book. [20000:008u0007–0020/0024–0038 and whole200000360/messages1367–1370](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 82,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 83,
+      "line_sha256": "825744070902d4233cfe708649aa7ca237fc4f261a0666843a7816ad9bb0f1fd",
+      "line_text": "Sleep likewise has meaning beyond increasing tomorrow's output. The dream can remain private; wanting company precedes the device test. The first fainting pillow is rejected, and the next pipe's described Bluetooth function expressly excludes hitting the adult's head. Her report of near-immediate unconsciousness, later sales and fashion reports and an imagined student pipe trend do not certify a clinical remedy or universal adoption. In the separate lullaby encounter, her own recorded singing adds personal effort and happiness when it is liked; the narrator supplies a locally achieved deep sleep. Those are different epistemic and relational endpoints. The analysis retains wanted rest and warmth without turning either fiction into treatment advice or assuming its sound was actually heard by the analyst. [20000:006u0021–0052 and complete1345–1354 coda;16010:006u0015–0033 and complete160100210](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 84,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 85,
+      "line_sha256": "8c3cc0f04e34f67c7dcfe8114d315405bb8363be35a57dd612788e3ef2046c52",
+      "line_text": "The night view is not merely the trophy for a finished repair. Hibiki wanted the occasion too, and the whole subsequent thread calls it a precious memory. A familiar landscape can be beautiful in company; lingering together has an immediate value even where a timed narrator-associated passage complicates exact speaker assignment. Similarly, her shy cheer role, mild cheese preference, garment-recognition hope and permission to postpone cheering while busy retain distinct ordinary boundaries. We need not convert every pleasure into reciprocal service to admit it. Making can be a way of life, while the life also includes receiving, looking, remembering, keeping and declining."
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 86,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 87,
+      "line_sha256": "75c7bece4f9631faf33f72c844f3b8f75361428d2156b2116eaa4927fd2d88fb",
+      "line_text": "Her chocolate gift makes the difference between memorable invention and wanted reception especially clear. She enlarges a holiday commission into a sixty-millimeter projectile that, by her description, processes cacao during flight and creates a chocolate-filled impact. The adult's vulnerability revises where she proposes to try it; a further objection preserves danger or interschool trouble as alternative reasons to refuse, rather than a completed Trinity consultation or institutional incident. The ending is a shell offered as chocolate, a wish to be remembered, a confident power guarantee alongside qualified taste. Neither firing nor eating is shown, and her earlier admission that the field power is untested prevents the guarantee from certifying it. The Japanese consultation and remembrance wording and Korean more immediate location switch and future-use emphasis remain distinct. Craft, gift pleasure and disappointment are intrinsically meaningful here; they also leave the recipient free to want a smaller, safer offering. [810:023u0002–0017/0018–0026;JP/KR limits and complete ending](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_023_80000023_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 88,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 89,
+      "line_sha256": "fa58dd8071ebc4f9b6205968e56f9449872efbbfc3d99141ef8bc93c3d8e8bd2",
+      "line_text": "## 6. Crisis behavior: limits, responsibility and actual endings"
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 90,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 91,
+      "line_sha256": "c04e24a79b62b2b808bbd67e6b5f51048479e9d914d3aaa20c65aba8ca28ab1b",
+      "line_text": "The fireworks project is the most concentrated private example of design and dangerous spectacle. Hibiki admits limited chemistry after an initial blast, proposes a display-based alternative and debates its emotional fleetingness with the adult. She accepts his opinion but offers a less-tested explosive alternative and cites a reported criminal-hideout burning as a previous success. The source's screams cannot be equated with pleasurable festival reactions merely because both are intense. She wants to look cool and receives reassurance; that ordinary recognition does not resolve the safety issue. Her warning about the switch is followed by two different adult-action options, launch and the Tower-impact ending. The full thread's no-injury statement is her report, rather than an independent all-recipient audit. No completed commissioned delivery, repaired Tower, spectator consent, disciplinary result or legal verdict follows. [20000:003scene002u0003/0013–0037/0039–0051;whole200000090/messages1317–1323](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 92,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 93,
+      "line_sha256": "56ce7e566245c5294368873549ee9a42ebcc6c2b56c06e825a7ed0b4a0b45f6c",
+      "line_text": "The processor exposes a different kind of power without needing bodily injury to matter. It is presented as a desk-work solution; the self-destruct warning and threatened loss emerge after use begins. Hibiki explicitly reasons that even an unwilling worker must move their hands under fear of losing already written work. Machine rejection of filler supplies a local constraint, while the supposed semantic intelligence remains her explanation. The rapid completed report is an actual positive result at its narrow task; confiscation to prevent misuse is the actual limiting ending. Coercive means cannot be decided by output speed alone, and the familiar joke does not remove the client's narrowed exit. No triggered explosion, later deployment, apology or safe redesign is printed. [16010:005u0011–0017/0024–0039/0043–0044 and whole160100160](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 94,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 95,
+      "line_sha256": "a9a744ab280a9c6f7050010745c4918155b3eda32bbe996a3c2af145ecc73bbe",
+      "line_text": "By contrast, the night repair has concrete work, distress, persistence, collaboration and contingency. Suspected delinquents and an inferred earlier battle remain hypotheses; no revenge or arrest is attributed to Hibiki. The adult's encouragement can help but does not manufacture repaired cores by itself. Favorable intact cores, a raw system restart message, senior work and explicit temporary-maintenance recognition all belong to the successful endpoint. This is evidence of useful competence under pressure with a substantial achieved occasion, not proof that her severe ideal of perfect work within time and budget is an adequate universal standard. Its ordinary wanted sight remains part of what was at risk. [20000:009scene001u0006/0015–0019;scene002u0015–0038](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 96,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 97,
+      "line_sha256": "fb65745f4d1d2dadf17813bd7d6bcfc7b8f409590c5ae9b854850bf4bcd719da",
+      "line_text": "Pavane places Engineering within distributed action. The accepted rescue arguments retain the conditional freight-route plan, its later actual arrival, Veritas's remote work, C&C's diversion and the Engineering weapon intervention. At the intervention's local end, Utaha, Kotori and Hibiki are exhausted and cannot continue; others thank them and carry the task forward. A later Engineering return with a modified Mk2 belongs to renewed exterior help, not proof that all remaining followers were contained by this team or that one unnamed emergency item caused an escape. Hibiki's membership and contribution matter, but collective attribution is not permission to assign every specification, design decision or outcome to her. The complete joined Pavane account receives the rescue's subsequent resolution without converting this bounded contribution into sole authorship. [PavaneC002E012u0047–0082](../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md), [E013u0036–0055](../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E013_DEEP_READING.md), [E017scene002u0001–0052](../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md), [E023u0018–0047](../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md), [PW:complete normal contextual ending](../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md)"
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 98,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 99,
+      "line_sha256": "996f5b5a528cb179262c434c6902beccc80c0d0f5ddae9cb18cc54182d0340c0",
+      "line_text": "Final continues that distinction. Hibiki's overload analysis and defense occur beside Utaha's announced defense and departure; apparently helpful AMAS activity does not identify its operator through a guessed universal Rio link. Engineering's vessel assessment declares a propulsion-design understanding limit and proposes a restricted input-output manual. Later damage and uncertainty permit only an at-least-restart hope alongside offered help and another actor's one-use contingency. The full accepted Final ending retains collective survival, interruption of the threat and return toward ordinary life. It does not certify immediate completion of every repair or every person's physical and office afterstate. Competent action, candid limits and dependence on others can coexist with Hibiki's craft pride and desired continued life. [FinalC002E016u0001–0014](../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E016_DEEP_READING.md), [C003E007u0001–0019](../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E007_DEEP_READING.md), [C003E015u0027–0076](../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E015_DEEP_READING.md), [F00:complete accepted contextual ending](../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md)"
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 100,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 101,
+      "line_sha256": "579f9e49e8e24969c5afc2df08aa3bb16e757f6609c016c22e384d80549e0da9",
+      "line_text": "Festival Engineering has still another scope. The corrected preparation argument preserves Hibiki wanting gakuran for all three but completing only Utaha's; the two other cheer garments were sewn earlier and embarrass her. Wanting the costume is not every peer's identical assent. The later festival argument retains her reluctance when Utaha encourages the unfamiliar cheering role, alongside Hanae's independent care. The robot incident's activation, reports of disabled tracks and engine, evacuation and injured care belong to specific ensuing sources; no complete technical safety redesign or unanimous enjoyment is inferred. The afterstory's cleanup burden, Utaha's pleasure and Chihiro's refusal keep other recipients' different experiences intact. A civic occasion can be meaningful and still generate work that enthusiasm does not discharge. [817:corrected006/008–011](../../02%20Sequential%20Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md), [818:007u0019–0040](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md), [009u0079–0140](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md), [010u0001–0018](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md), [017u0017–0061](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_017_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 102,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 103,
+      "line_sha256": "ebd4bcc3d7b3e7d946a0191ba86a3b2d38acb5367aa49ef2dac7ef4688bd6610",
+      "line_text": "## 7. Relationship with Sensei: requests, feedback and reciprocity"
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 104,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 105,
+      "line_sha256": "68d3efc5ef80fb93271ac0c580398b336db9c5b4e31727ccc4f55d04fd46dee8",
+      "line_text": "Sensei is not just the adult who approves every invention. The finite printed alternatives include repair-only requests, ordinary-equipment demands, concern, skepticism, praise and hazardous participation. None is an exhaustive agency menu or a single selected biography. In the fabric encounter he has his own curtain need; in the umbrella encounter he repeatedly wants an ordinary object; in the bicycle encounter repeated repair-only requests are locally honored while resisted. Those needs shape what help can mean. Her invitation, greeting or expert offer is not automatic access, and his willingness to test a device is not informed consent to subsequently disclosed hazards. [16010:002choice001/u0005–0008;20000:008choice004–005;015u0006–0016/choice014](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 106,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 107,
+      "line_sha256": "ce8a37d31db9a4e92f76930a7d9c6d96e49dcaf832028262e0d1fb9c5f1cb699",
+      "line_text": "His support can nevertheless matter positively without becoming total moral arbitration. After the failed cheer, communicated feeling is recognized and practical feedback leads toward coffee; the data recovery ending explicitly retains the benefit. During power repair, help and encouragement accompany her own decisions and favorable material circumstances. In the goggles scene an offered attachment interpretation helps her tentatively articulate why a thing should remain, rather than maximizing features. The source does not say she would have no such values without him. Her own design history, accumulated use, desire not to lose the object and work community precede the adult analogy. Warmth is a concrete directed response, not a universal authentication of his guesses. [16010:003choice003–004/u0045–0048;20000:009scene002choice001–002/u0021–0038;015choice012–014/u0049–0062](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 108,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 109,
+      "line_sha256": "66774d7846280fbef5c847452987d406ddb8298516a17d6dff3a8639dc6c48b1",
+      "line_text": "Reciprocity is visible in her wish to be encouraged, holiday acknowledgment, guarded requests for an opinion, the secret dream, help-seeking, recognition of a wet shoulder and pleasure in a wanted view. These should not be compressed into a one-way service role or teacher dependency. The personal lullaby adds an effort that cannot be replaced analytically with any generic sleep apparatus; her happiness at the recipient liking it is part of the ending. Equally, the constrained affirmative choices and adult/student setting limit a romance claim. Company can be valued at its actual scope, without asserting exclusivity, undisclosed sexuality or a fixed rank in affection. [D16010:UILobby4699–4700;16010:006u0023–0033;20000:006messages1341–1343;008messages1367–1370;009messages1380–1382](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 110,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 111,
+      "line_sha256": "77341d1fc572e54a822900b982560a8c31b64ee8bba16e20a1ada31e0013ab08",
+      "line_text": "The adult also contributes to adverse outcomes. The fireworks switch alternatives differ in intention, but both occur after a warning; the narrated launch and impact cannot be placed wholly on student expertise while treating him as a detached evaluator. Conversely, terminal confiscation supplies a meaningful restraint in the processor story. His inwardly printed words and incomplete branch presentation must remain their actual source modes, rather than heard propositions that Hibiki perfectly understands. Adult authority, student technical power, affection and recipient refusal are different dimensions of this relation. Its adequate literary account preserves these differences instead of turning praise into consent or criticism into a total personality verdict."
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 112,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 113,
+      "line_sha256": "86243e1070612ce87b42023e0d693cbbf8e8cb5f17f8d1a38bbf4094605d0ddb",
+      "line_text": "## 8. Major peers and independent recipients"
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 114,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 115,
+      "line_sha256": "42c04eb8a1770ce4c9660d1b7fcadf66315a96de3b880888ddb753571bcdac19",
+      "line_text": "Utaha and Kotori share craft pleasure with Hibiki but do not supply identical wanted lives. The pizza preferences differ, and the sauce project distributes proposals, evaluation, hygiene concerns and feared retaliation. Utaha can value process, Kotori can pursue learned spraying know-how, and Hibiki can invoke failure as learning while also noticing the inconvenience of cleaning. Each proposition has its own actor qualifications. The group's subsequent console help, wire-opening assistance and self-protective interference do not make their norms wholly false; neither do those helpful acts settle Neru's undisclosed property alteration. Neru is an owner with her own requested repair and response, not a device for illustrating the engineers' learning. Asuna, Momoi, the unnamed student and local Helmet Gang recipients retain their different roles and limits. [G1401–1403:complete argument and actual actor seams](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 116,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 117,
+      "line_sha256": "1b49873ed614c99d29bd7bcefa101bb66c3bd792caa968d91d0997f0473fbb19",
+      "line_text": "Hibiki's sewing relation to the other engineers is specifically uneven. A wish to outfit all three is not a completed matching set: corrected event817 differentiates Utaha's gakuran from the two earlier cheer outfits that embarrass Hibiki. The festival's independent Hanae care and Chihiro criticism likewise cannot be absorbed into an Engineering consensus. Chihiro's all-night work and final refusal remain hers; the evidence need not prove Hibiki individually caused every part of that labor in order for an institution comparison to retain its cost. Relational analysis starts with the actual directed claims and recipients, rather than multiplying pair packages from co-occurrence. The separate Engineering company, labor and ownership questions remain required. [817:006 and current correction scope](../../02%20Sequential%20Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md), [818:007 independent care](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md), [017 independent afterstory responses](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_017_DEEP_READING.md)"
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 118,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 119,
+      "line_sha256": "083d54f4ec4e33e60a2afe124669aca85f61445f87f7547b18101ef05517939c",
+      "line_text": "The baseball club has a local ambition, not a blank permission for every proposed optimization. Hibiki's first-sports-request statement and limited baseball knowledge remain her account. She wants useful making and briefly wants to try cheer clothes; the proposed Mach2 pitch, unconventional balls, electrical hazard and machine taunts test the difference between maximizing a technical capability and fitting a game, player and rule. The adult's foul objection leads to promised improvement, while the final apparent inter-high entry gives a positive contextual result without proving machine-only causality. No actual Mach2 test, injury, completed handover or regulatory approval is narrated. The unnamed clients remain local recipients with their own aim rather than silently becoming the event-local Rei or another baseball family. [20000:005u0003–0017/0031–0055/0063–0072 and whole200000180/messages1336–1337](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 120,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 121,
+      "line_sha256": "df2c4fe116d4555c22aee01e553d5a6f48ff4ce8062f00d9d664badd00cf3a36",
+      "line_text": "Pavane's GDD members, C&C, Veritas, Alice and the rescue recipient have agency independent of Hibiki and the adult. Engineering assistance is one part of their sustained action; grateful receipt, continuation after exhausted helpers stop and renewed outside aid remain joined to what those peers choose. Final's coalition likewise makes others' understanding, decisions and contingencies material. This preserves Hibiki's public contribution without allowing technical assistance to certify every ally's assent, hidden motive or completed future. Small local figures also retain their scope: seniors are reported constraints rather than invented named speakers, the fireworks commissioner is unjoined, and suspected delinquents remain suspected. No global person registry is repaired by a compelling interpretation."
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 122,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 123,
+      "line_sha256": "ee1a47cb624ca528f8e88aa5105e4157c488c60e2294d7d70a2e9637c9b6d3e4",
+      "line_text": "## 9. Japanese written voice and source-mode limits"
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 124,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 125,
+      "line_sha256": "4d46bcfb250cb6854f5f26b16bdf70c02fead49f4c7300ca559ad57fa95cc156",
+      "line_text": "Hibiki's written register links earnest craft names, technical lists, qualification, hesitation and ordinary address. “マイスター” and “生き様” make expertise and making personally meaningful; a mechanical “heart” restarting gives repair an affective image. “ロマン” can name technical or performance passion without being a romantic declaration. “なりきる” and “手触り” distinguish inhabiting a role and sensing a material from simple functional manufacture. “からかわないで” retains a relational boundary. Severe time-and-budget claims, “true Meister” self-questions and tentative “probably” attachment reasoning are different written acts. None is an analyst's grade or a heard delivery. [16010:002u0013/0022–0023/0027;20000:002u0013;015u0014/0049–0056;D20000:UILobby1696–1699](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 126,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 127,
+      "line_sha256": "40c92324a2a5547d971daf8f9afd4cf6c20a8f3b89632003f277b80eb7e5c582",
+      "line_text": "Technical vocabulary also marks the failure of a transfer. Fire becomes pitching through a correction; “fireworks, rather, missile” revises the spectacular object's name at its consequence. The “fainting” vocabulary remains troubling without being turned into a clinical description or proof of a head strike expressly denied by the source. The processor's self-destruction and its intended lack of alternative preserve pressure rather than euphemizing it as ordinary scheduling. “普通” in coffee and umbrella requests is a scale chosen by the recipient. These lexical contrasts support an argument about purpose, means and preference, while rates, speeds, electronics and medical effects remain fictionally attributed claims rather than externally validated specifications. [20000:003scene002u0051;005u0024–0025;006u0028–0039;16010:005u0028–0033;003choice004;20000:008choice004–005](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 128,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 129,
+      "line_sha256": "7c2c9636283f394a6ba0cdf0b3e5df364cfaed02e86ae109832641efca6b8abe",
+      "line_text": "Modes matter particularly in the care scenes. Fifteen timed ナレーション units in the cheer attempt include dialogue-like and interior-like wording; their printed label does not authorize assigning every cheer to performed Hibiki speech. The night-repair raw **시스템** line remains system-attributed; its timed narration-associated ending differs from named italic Hibiki lines and from parallel UILobbySpecial records. The latter permit textual comparison without rewriting the former's canonical actor. Inward adult lines can resemble spoken questions, but following responses do not prove the exact thought was heard. Machine taunts belong to the named pitching machine, duplicated lines are not two separately chosen approvals, and choices retain alternatives rather than a universal selected route. [16010:003u0018–0032/0041;20000:009scene002u0031–0034/0045–0059;D20000:UILobbySpecial1708–1715;20000:005u0063–0065](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 130,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 131,
+      "line_sha256": "983f51f3b4104757e0bcc0c77e8ee7605fb15d99f64dfac90fa6a99abdad9c99",
+      "line_text": "The selected costume has an empty Profile and fifty-three lobby/shop contextual records, with different event/version modes and no shop representation for900817 in this object. Repeated wording is documentary recurrence, not three independent festivals. Nearly completed preparation, hoped-for recipient pleasure, deferred clothing structure and postponed cheering while busy are contextual states, not completed transactions or a later explanation actually received. No voice, singing audio, animation, body rendering, gesture, native branching or executed pause was inspected for this monograph. Its Japanese analysis is written and source-specific; it cannot diagnose a performed personality from punctuation. [Costume1900906601:16010:UIEventLobby000001–000035/UIEventShop000001–000018](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 132,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 133,
+      "line_sha256": "9619f76ce855ae907bcb52ebbd78b51e3321069c833bd29042df733aed297aee",
+      "line_text": "## 10. Competing readings and evidential judgment"
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 134,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 135,
+      "line_sha256": "3f74c0ca9377a81085ee5a511373406cd5329197773be1535d52438620f9f454",
+      "line_text": "A brilliant benevolent-helper reading has substantial evidence: repair, requested encouragement, changed practical responses, actual data recovery, a personally given song, locally honored repair-only work and a restarted power station. Its weakness is making helpful intent or an achieved result settle the means. The processor withholds a consequential feature and applies explicit pressure; the fireworks alternative is less tested; a gun modification lacks its owner's informed receipt; temporary maintenance remains owed. A joined account keeps each success and each contradiction at its own scale rather than pronouncing technical value harmless or morally void."
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 136,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 137,
+      "line_sha256": "06be20615ebac663ea74c352838cfafb7c2d00676260f11bd45a10ea0dc9953d",
+      "line_text": "An incompetent or invariably dangerous comic reading captures memorable failures and proposals but cannot accommodate material selection, acknowledged knowledge limits, ordinary coffee acceptance, senior restraint, genuine infrastructure work, the goggles' explicit absence of self-destruction or differentiated positive endings. Jokes and actor capabilities are not always executed harms; the pipe expressly denies the striking mechanism its name suggests, and the baseball source does not narrate a Mach2 pitch. Conversely, an “odd feature” profile summary is inadequate to the processor's coercion. The literary judgment follows complete endpoints and attributed mode rather than a universal all-devices rule."
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 138,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 139,
+      "line_sha256": "f278d7414f8a9a435c73668a3886bea6b9ce78ec39087e83e76420b9a9bffe99",
+      "line_text": "A developmental reform reading is supported by explicit feedback, changed forms of support, psychology study, recognized attachment and ordinary-shelter gratitude. It becomes too strong if it treats those moments as a fixed later safety stage. Continued processor pride, unanswered safety questions, renewed umbrella novelty, desired bicycle upgrades and lack of an actually shown safer redesign remain. A no-learning reading loses the same concrete responses. Selective local revision is the supported middle claim: Hibiki can learn a particular mismatch while carrying another assumption into the next task, and a preserved personal object can reveal value without generating a universal rule."
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 140,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 141,
+      "line_sha256": "9a9cfa8e0d9f5d00323c694881cb7f580cf84b37246db2bcd0ac40132d5f52f2",
+      "line_text": "A pure self-sacrifice or usefulness-dependency reading notices her limited “only through my skill” language and severe Meister ideals. The actual repertoire also gives her positive hobbies, insistence on material taste, wanted recognition, a secret dream, hoped-for company, holiday pleasure and a direct wish to receive encouragement. It does not print an absolute law of worth or a diagnosis. A pure self-expression reading loses the genuine recipient-directed wants and responsibilities. The thesis retains craft as an enjoyed identity alongside reciprocal needs and another person's independent measure of help."
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 142,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 143,
+      "line_sha256": "c2fced287f8067973fe1f0cd45b85c68041c4481d7a75a7f432127c3592fec55",
+      "line_text": "A romance reading can notice personalized singing, night beauty, guarded address and affectionate sleeping-face observation. It cannot complete the secret dream, turn rumors into facts, make context self-questions a performed declaration or assume every gratitude is exclusive. A teacher-centered rescue reading likewise overstates his agency: peers impose constraints, clients have their own purposes, favorable cores matter and the adult can participate in a hazard. Familiarity supports specific company and feedback without eliminating power, branch or consent limits."
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 144,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 145,
+      "line_sha256": "a9b8e7cbf690b51d730a4ab5104c59ad3205095361c5553f1cacf1f14cdeafb4",
+      "line_text": "A wholly disciplinary institutional reading can use bans, confiscation and the gun owner's anger to make Engineering just a source of danger. It misses differentiated taste, useful local action, aesthetic thought, substantive collaboration and the legitimacy of learning through apparently pointless projects. The opposite celebratory reading makes process joy or accidental tactical usefulness settle ownership and bodily distress. Both narrow the archive. The sustained judgment is that Hibiki's lived making connects help, play, recognition and preservation, while recipients, circumstances and actual endings keep deciding different questions. Neither stakes nor model grade determines whether a quiet wanted life belongs in that judgment."
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 146,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 147,
+      "line_sha256": "1968cecd91cbacd885c1d740ae1897e26aa40726e7ab442c74277d9f8b26dd72",
+      "line_text": "## 11. Evidence route, open gaps and completeness"
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 148,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 149,
+      "line_sha256": "1092cc05cfe413394c04ed213e9629418644410862afe2c812d2484058afdb34",
+      "line_text": "The private backbone is the complete current twenty-five-object normal account: eleven full bond/whole-MomoTalk pairs and three written objects, with fourteen original sole analytical owners personally received through EOF for this synthesis. Their producer headers retain historical pending/admission language; current Cycle008 qualified normal authority governs the registered scope. Original source pins, real pair edges, comments, alternatives and endings remain attributed. Receiving those accepted analytical arguments adds no new primary, raw, native, performed, original-author-independence or model credit. Historical FIRST/SECOND and earlier custody remain unknown. The current normal body, rather than its source-object count, supplies the joined meaning. [H25:current whole normal authority and complete argument](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)"
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 150,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 151,
+      "line_sha256": "e7724ea46e6b0e535413f0d15cd1ade4f3dd1c1c5ba32481d17b0ccacfe26499",
+      "line_text": "Public comparison uses the personally complete current Engineering group argument, adequate complete corrected817 meaning, complete818007/009/010/017 small arguments at their declared actor scope, complete810023 gift argument, and complete necessary Pavane/Final individual analytical owners alongside adequate prior whole normal PW/F00 endings. The current810 normal comparison and Cycle008 govern the gift owner's preserved historical intake status. No navigation row becomes an appearance, no group attribution supplies undisclosed individual authorship, and no historical producer's “next unread” text forces a primary replay after current admission. The selected required home is P3-CHAR-HIBIKI/P3-F092, not the separate Engineering institution or directed relationship homes. Source and saved-output receipts distinguish exact current921 bytes, historical dbabb/c1/main2e comparands, original C analytical owners and mutable ROOT progress. Public links resolve from the proposed canonical character home; the author working directory grants no integration status."
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 152,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 154,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 155,
+      "line_sha256": "1cc6e1f8187fa411c7508278d481a4e36cbed7292408d62674f858c1ae6b7544",
+      "line_text": "| Original gap | Contribution here | Remaining claim-specific limit; state OPEN |"
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 156,
+      "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+      "line_text": "|---|---|---|"
+    },
+    {
+      "frozen_line": 159,
+      "canonical_line": 171,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        4
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: \"character_monograph\"",
+        "generation: \"AUTHOR_V1\""
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        16,
+        16
+      ],
+      "canonical_lines": [
+        14,
+        13
+      ],
+      "frozen_text": [
+        "status: \"AUTHOR_COMPLETE_BOUNDARY_ROOT_REVIEW_PENDING\""
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        19,
+        18
+      ],
+      "canonical_lines": [
+        16,
+        28
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "canonical_publication_base: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        22,
+        21
+      ],
+      "canonical_lines": [
+        32,
+        33
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HIBIKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HIBIKI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative after complete ROOT installation. All fourteen original gaps remain OPEN at their claim-specific boundaries. The355-package/29-section scope and existing responsibilities are unchanged. The prior54-package source publication is `5f0a24b56557f308e9cef31c7d1c2d58406ef49a`; ROOT’s successful actual exact-head source/housekeeping/final chain is preserved separately as predecessor proof. This preparation supplies no successor adoption, publication, main integration, quarter, model or performed evidence before complete ROOT installation. Frozen author/control/progress snapshots retain their dated meaning."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        141,
+        141
+      ],
+      "canonical_lines": [
+        153,
+        153
+      ],
+      "frozen_text": [
+        "All eleven architecture dimensions have substantive joined prose, serious contrary readings and actual ending comparisons. This is an author-complete bounded literary synthesis awaiting ROOT's independent receiving and adjudication. Architecture1.12 differs from main1.11 while retaining these eleven requirements; method1.10 and Cycle008 control the source boundary. Drafting or required-home allocation creates no accepted character completion, named-section completion, institution/relation completion, reconstruction model or milestone credit. The original gap IDs retain their literal topic meanings, with the following claim-specific contributions and remaining limits."
+      ],
+      "canonical_text": [
+        "All eleven architecture dimensions have substantive joined prose, serious contrary readings and actual ending comparisons. ROOT independently received and accepted this author-complete bounded literary character synthesis WITH LIMITS; canonical persistence follows complete ROOT installation. Architecture1.12 differs from main1.11 while retaining these eleven requirements; method1.10 and Cycle008 control the source boundary. Drafting or required-home allocation creates no accepted character completion, named-section completion, institution/relation completion, reconstruction model or milestone credit. The original gap IDs retain their literal topic meanings, with the following claim-specific contributions and remaining limits."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        145,
+        158
+      ],
+      "canonical_lines": [
+        157,
+        170
+      ],
+      "frozen_text": [
+        "| G01 ordinary/private breadth | Full selected hobbies, material taste, company, rest, reciprocity, failed plans and codas are retained. | Selected Hibiki repertoire is not all possible private experience or full-cast completion. |",
+        "| G02 Yuuka council/club transfer | Reported council work, senior restraint and festival authority are differentiated. | No Yuuka decision transfer, attack order, certified council regime or completed office repair. |",
+        "| G03 Serika service/reciprocity | Clients' different preferred purposes and festival accusation keep recipient direction visible. | No Serika-specific livelihood/service afterstate, settled repair contract or universal reciprocity. |",
+        "| G04 Hina accountability/ordinary contrast | Technical success, adverse methods, responsibility and ordinary warmth are compared. | No transferred Hina casualty, restitution, causal or named-section completion. |",
+        "| G05 Arius/PS68 aftermath | Public coalition assistance and wanted lives remain distinct questions. | No Arius/PS68 legal, clinical, employment, livelihood or aftermath repair by analogy. |",
+        "| G06 cross-school ordinary | Peers, clients and recipients have different tastes, limits and kinds of company. | No unanimous pleasure, universal temperament or complete cross-school private census. |",
+        "| G07 chronology | Explicit local support callbacks, paired codas and owned public sequences are preserved. | No release/outfit growth ladder, complete global timeline or inferred private-to-MAIN causation. |",
+        "| G08 event names/repeats | Literal810/817/818 references and817/10817/900817 written contexts remain source-bound. | No fused title/event, multiplied world occurrence, complete repeat-event identity or uninspected route. |",
+        "| G09 actor/choice attribution | Inward, narrator, system, named italic, machine, UI and option seams are retained. | No silent speaker repair, native branch selection, heard inward wording or universal actor knowledge. |",
+        "| G10 performed voice | Japanese written hesitations, craft vocabulary and recording descriptions are analyzable. | No heard lullaby, spoken tone, animation, gesture, rendering or executed pause. |",
+        "| G11 Hoshino/Yume record/office | Attachment and memory preserve metaphor without certifying another person's record. | Grief, notebook provenance, death cause and office afterstates remain separate. |",
+        "| G12 identity/system/variants | Literal person/variants/costume, unnamed clients, seniors and AMAS uncertainty are bounded. | No guessed client-to-Rei join, independent costume taxonomy, system personhood or registry repair. |",
+        "| G13 office/contract/safety/technical outcomes | Actual recovery/confiscation, narrated or reported sleep, repair-only restraint, restart/debt and ownership disagreement remain distinct. | No clinical or technical audit, completed safer redesign, tested all-capabilities, permanent restoration, settled liability or all-device permission. |",
+        "| G14 unclassified/mode continuity | Written contextual repertoires, complete messages, narrative, reports and reuse retain their roles. | No unreceived mini/special/asset meaning, native/global reconciliation or new source admission. |"
+      ],
+      "canonical_text": [
+        "| G01 — Ordinary and private breadth | Full selected hobbies, material taste, company, rest, reciprocity, failed plans and codas are retained. | Selected Hibiki repertoire is not all possible private experience or full-cast completion. |",
+        "| G02 — Yuuka council/club decision transfer | Reported council work, senior restraint and festival authority are differentiated. | No Yuuka decision transfer, attack order, certified council regime or completed office repair. |",
+        "| G03 — Serika service, peer and reciprocity range | Clients' different preferred purposes and festival accusation keep recipient direction visible. | No Serika-specific livelihood/service afterstate, settled repair contract or universal reciprocity. |",
+        "| G04 — Hina crisis causality, accountability and ordinary contrast | Technical success, adverse methods, responsibility and ordinary warmth are compared. | No transferred Hina casualty, restitution, causal or named-section completion. |",
+        "| G05 — Arius and PS68 ordinary/aftermath transfer | Public coalition assistance and wanted lives remain distinct questions. | No Arius/PS68 legal, clinical, employment, livelihood or aftermath repair by analogy. |",
+        "| G06 — Cross-school ordinary repertoire | Peers, clients and recipients have different tastes, limits and kinds of company. | No unanimous pleasure, universal temperament or complete cross-school private census. |",
+        "| G07 — Story-world chronology | Explicit local support callbacks, paired codas and owned public sequences are preserved. | No release/outfit growth ladder, complete global timeline or inferred private-to-MAIN causation. |",
+        "| G08 — Event naming and repeat contexts | Literal810/817/818 references and817/10817/900817 written contexts remain source-bound. | No fused title/event, multiplied world occurrence, complete repeat-event identity or uninspected route. |",
+        "| G09 — Written speaker/choice attribution | Inward, narrator, system, named italic, machine, UI and option seams are retained. | No silent speaker repair, native branch selection, heard inward wording or universal actor knowledge. |",
+        "| G10 — Performed voice | Japanese written hesitations, craft vocabulary and recording descriptions are analyzable. | No heard lullaby, spoken tone, animation, gesture, rendering or executed pause. |",
+        "| G11 — Hoshino's Yume record and office states | Attachment and memory preserve metaphor without certifying another person's record. | Grief, notebook provenance, death cause and office afterstates remain separate. |",
+        "| G12 — Counterpart, system and variant identity | Literal person/variants/costume, unnamed clients, seniors and AMAS uncertainty are bounded. | No guessed client-to-Rei join, independent costume taxonomy, system personhood or registry repair. |",
+        "| G13 — Office, contract, safety and technical outcomes | Actual recovery/confiscation, narrated or reported sleep, repair-only restraint, restart/debt and ownership disagreement remain distinct. | No clinical or technical audit, completed safer redesign, tested all-capabilities, permanent restoration, settled liability or all-device permission. |",
+        "| G14 — Unclassified/mode continuity | Written contextual repertoires, complete messages, narrative, reports and reuse retain their roles. | No unreceived mini/special/asset meaning, native/global reconciliation or new source admission. |"
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        160,
+        160
+      ],
+      "canonical_lines": [
+        172,
+        172
+      ],
+      "frozen_text": [
+        "Hibiki's complete bounded argument preserves useful making as a lived pleasure, the unequal power of an imposed feature, the value of being encouraged and the meaning of keeping something she likes. Another person's need can revise her offer; her own wants can exceed usefulness. Actual success, sustained pride, selected learning and unfinished costs remain together. All fourteen gaps stay OPEN. ROOT's literary acceptance and canonical adoption remain pending, and no scope denominator or quarter changes with this author candidate."
+      ],
+      "canonical_text": [
+        "Hibiki's complete bounded argument preserves useful making as a lived pleasure, the unequal power of an imposed feature, the value of being encouraged and the meaning of keeping something she likes. Another person's need can revise her offer; her own wants can exceed usefulness. Actual success, sustained pride, selected learning and unfinished costs remain together. All fourteen gaps stay OPEN. ROOT independently accepted this complete character boundary WITH LIMITS; canonical persistence follows complete ROOT installation. No scope denominator or quarter changes with the original author candidate or this derivative."
+      ]
+    }
+  ],
+  "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+  "terminal_LF_preserved": true,
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-HIBIKI",
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md",
+      "bytes": 52132,
+      "sha256": "b5e924e7e4a67cde5454c8e3e0e256c37aa90556902acadf0c8ce3dee32a492a",
+      "git_blob_oid_of_actual_bytes": "4acf0ec5752c70a3697ad8f086fdc4fd0e3d096d",
+      "lines": 160,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "ROOT_HIBIKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 13110,
+      "sha256": "2e1979d07ac52e4dd80c181ccf173d25f676f045a2a2d626d8e7f01830d65eac",
+      "git_blob_oid_of_actual_bytes": "df496dd135d6db8abec2b09fc8a6f7c60b4a55a9",
+      "lines": 194,
+      "immutable_transport_path": "immutable_originals/ROOT_HIBIKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 85340,
+      "sha256": "d2c57833a6964ff79163124cdb67f160ed5fa5e896509adf83e3347fdb0bb1eb",
+      "git_blob_oid_of_actual_bytes": "d36074b9eb73cbeadb8950f146d8db45af7017a5",
+      "lines": 1584,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 51519,
+      "sha256": "1e8402d124304fa6efb6a9743a55480cf31bf6afc5d25493476abcb43ecb4c26",
+      "git_blob_oid_of_actual_bytes": "19601edb504649d9432490eb541d4580f6df9c5d",
+      "lines": 1163,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 2319,
+      "sha256": "7f88419113a4c70fbdf61ecd480d99a600ecd9af5162dc9bb42d9c24e9975466",
+      "git_blob_oid_of_actual_bytes": "d0b03c0c9871898dfa6740a7cf9bf7736a42f2f8",
+      "lines": 67,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+      "bytes": 8525,
+      "sha256": "104e47aceb6e4a9a6eac628764367903cccfa5d787477fd508d9e6a3b214bcae",
+      "git_blob_oid_of_actual_bytes": "0457eb8709ed87ba62c60cb0ae030054039bf1a7",
+      "lines": 190,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIBIKI_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIBIKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only current authority framing/frontmatter, full stable original-gap alignment where necessary and optional retrieval H1 change. All literary claims, original source boundaries, wants, recipient ends and contrary evidence remain. Every frozen original line/byte is recoverable exactly.",
+  "stable_original_gap_alignment": null,
+  "immutable_ROOT_count_cause_qualification": null,
+  "mandatory_private_semantic_erratum_public_projection": null,
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "section_parent_homes": 18,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_primary_performance_or_independent_literary_credit": 0,
+  "other_required_package_completion": false
+}

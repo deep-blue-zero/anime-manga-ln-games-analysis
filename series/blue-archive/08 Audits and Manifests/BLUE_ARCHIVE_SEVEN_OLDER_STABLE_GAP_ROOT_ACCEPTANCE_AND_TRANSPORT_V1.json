@@ -1,0 +1,1824 @@
+{
+  "schema": "BLUE_ARCHIVE_CURRENT_SEVEN_OLDER_STABLE_GAP_ROOT_ACCEPTANCE_AND_TRANSPORT_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE_INSTALLATION_PENDING",
+  "subject": "Seven_Older_Gap_Corrections",
+  "canonical_home": "SEVEN_EXISTING_ACCEPTED_CHARACTER_HOMES",
+  "canonical_adoption_boundary": "This preparation has no persistence or publication effect before complete ROOT installation. ROOT must verify the successful actual exact-head source/housekeeping/final chain for 5f0a24b56557f308e9cef31c7d1c2d58406ef49a, complete the final whole candidate receiving, and install all final declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The complete original payload is immutable. Its pending, C-only, historical counts and audit statuses describe its creation-time custody event, not current adoption. Current ROOT acceptance is qualified explicitly here. Current scope remains355/29; no new source, primary, performance, model, independent literary or count credit follows from transport.",
+  "original_exact_tuple": {
+    "path": "ROOT_SEVEN_OLDER_STABLE_GAP_SUPPLEMENT_ACCEPTANCE_V1.json",
+    "bytes": 8066,
+    "sha256": "fcb714e7a90eaa52007702d3d2b8e6070d75f9b10ad52e8f17964dfb3b4b53c2",
+    "git_blob_oid_of_actual_bytes": "186f7e6327eda817b2b6b6d691cad08cb19a4c37",
+    "lines": 92,
+    "immutable_transport_path": "immutable_originals/ROOT_SEVEN_OLDER_STABLE_GAP_SUPPLEMENT_ACCEPTANCE_V1.json"
+  },
+  "public_reference_translation": "Full original fields and strings survive with declared reference translation only; public provenance labels do not serve files or admit material. Original byte tuples remain original witnesses and are not claimed as derivative tuples.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "Author and ROOT complete/bounded meanings remain attributed to actual scopes. Mechanical transport adds no literary receiving."
+  },
+  "historical_author_or_root_payload": {
+    "status": "ROOT_ACCEPTED_SEVEN_STABLE_GAP_SUPPLEMENTS_WITH_EXACT_ASSOCIATION_PLACEMENT",
+    "checked_at": "2026-10-10T13:06:33.173873+00:00",
+    "manifest_sha256": "14939bae919a9077d20cc81291ba6456b2263e446f3699a3cd20a8a1d28cc6c9",
+    "freeze_sha256": "505498d671cf90991712523c7e9af0d660f06fb7bed949b35dc5f687e2b80f09",
+    "finite_files_verified": 20,
+    "new_public_candidate_targets": 8,
+    "unchanged_current_and_published_body_bindings": 7,
+    "existing_public_relative_links_resolve": 14,
+    "ROOT_actual_receiving": {
+      "whole_finite_audit_review": "002f66",
+      "whole_route": "60e35b",
+      "whole_seven_supplements": [
+        "0e8d6d",
+        "49798f",
+        "602bd6",
+        "90aab4",
+        "68bb2f",
+        "d555d4",
+        "48bdab"
+      ],
+      "proposal_receipt_controls": "1dfffd beginning/end; clipped records repaired completely246550/4168bc",
+      "whole_manifest": "aed290",
+      "whole_freeze": "3702d6"
+    },
+    "exact_canonical_association_placements": [
+      {
+        "subject": "Atsuko",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ATSUKO_CHARACTER_MONOGRAPH.md",
+        "beforeimage_sha256": "593ece130594b92f162924fa1fad7f6a955ba532f0e5c5840c4e7f9df81d8dd2",
+        "insert_after_original_line": 221,
+        "paragraph": "**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ATSUKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.",
+        "preserve_every_original_byte": true
+      },
+      {
+        "subject": "Subaru",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SUBARU_CHARACTER_MONOGRAPH.md",
+        "beforeimage_sha256": "03a633bbbf6812ca4c8aacca4f3a1ac8e4115d3ceeb57a98253d9d02efe30d9f",
+        "insert_after_original_line": 233,
+        "paragraph": "**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SUBARU_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.",
+        "preserve_every_original_byte": true
+      },
+      {
+        "subject": "Hiyori",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIYORI_CHARACTER_MONOGRAPH.md",
+        "beforeimage_sha256": "2458166488c62aba604966882325d1d708fbb8bad6349d7e987271fe4c834827",
+        "insert_after_original_line": 232,
+        "paragraph": "**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HIYORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.",
+        "preserve_every_original_byte": true
+      },
+      {
+        "subject": "Misaki",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MISAKI_CHARACTER_MONOGRAPH.md",
+        "beforeimage_sha256": "75959f195431b94b247c7dc36a0af02aa560c855170516cbda933e724a0759ff",
+        "insert_after_original_line": 218,
+        "paragraph": "**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MISAKI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.",
+        "preserve_every_original_byte": true
+      },
+      {
+        "subject": "Saori",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAORI_CHARACTER_MONOGRAPH.md",
+        "beforeimage_sha256": "a4adedf9161996c4d47b3d2cfd5dd29c33d0e4c45c0553dd327132c89cdcf13f",
+        "insert_after_original_line": 226,
+        "paragraph": "**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.",
+        "preserve_every_original_byte": true
+      },
+      {
+        "subject": "Akari",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKARI_CHARACTER_MONOGRAPH.md",
+        "beforeimage_sha256": "dff7fddab94d303a2c1c0b622ce761e96172c3c08e76bc0793297465a70da8f1",
+        "insert_after_original_line": 187,
+        "paragraph": "**Stable original G08 — Event naming and repeat contexts: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_AKARI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved actor/identity row remains a local contribution; it does not replace the event naming and repeat-context duty. No gap closure or new source, primary, literary, model or count credit follows.",
+        "preserve_every_original_byte": true
+      },
+      {
+        "subject": "Junko",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_JUNKO_CHARACTER_MONOGRAPH.md",
+        "beforeimage_sha256": "47204b7eee439308ecb3ca80e13665b0cde9af66cebd931e9a8cb0e579007ef7",
+        "insert_after_original_line": 192,
+        "paragraph": "**Stable original G08 — Event naming and repeat contexts: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_JUNKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved actor/identity row remains a local contribution; it does not replace the event naming and repeat-context duty. No gap closure or new source, primary, literary, model or count credit follows.",
+        "preserve_every_original_byte": true
+      }
+    ],
+    "canonical_derivative_requirement": "Create an exact derivative retaining all frozen original bytes and historic proposed status fields with a visible current ROOT acceptance qualification. Insert only the exact approved paragraph after the existing fourteen-row table at the recorded original G14 row, retaining all original bytes and inverse mappings. Supply an exact current acceptance/transport qualification so creation-time pending fields are not represented as current status. No installation is performed by this receipt.",
+    "semantic_decision": "The five generic record/office rows and two anonymous actor/identity rows retain their substantive local contribution. The original Hoshino-Yume provenance/office-state and event naming/repeat questions remain separately OPEN; analogy, life texture or local success does not close them.",
+    "all14_original_gap_states": "OPEN_UNCHANGED",
+    "scope": "355/29 unchanged",
+    "live_ROOT_frontier": 59,
+    "new_package_source_primary_performance_model_count_credit": 0,
+    "R_Git_provider_writes": false,
+    "nineUNBOUND": "UNREAD_UNHASHED"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ROOT_ACCEPTED_WITH_LIMITS_EXACT_SEVEN_ASSOCIATIONS_ONLY",
+  "exact_body_associations": [
+    {
+      "subject": "Atsuko",
+      "beforeimage_exact_tuple": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ATSUKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 53343,
+        "sha256": "593ece130594b92f162924fa1fad7f6a955ba532f0e5c5840c4e7f9df81d8dd2",
+        "git_blob_oid_of_actual_bytes": "09a9cd58ae2e4b66ace87e2d364cd68110c9f6a9",
+        "lines": 225
+      },
+      "current_body_exact_tuple": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ATSUKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 53833,
+        "sha256": "872b8b909356fc089e8056542b3505ec8c7dc4aad15163e9afb6be037e183be0",
+        "git_blob_oid_of_actual_bytes": "713ae3648249acb8eed526374a50ecac0a131baf",
+        "lines": 227
+      },
+      "insert_after_original_line": 221,
+      "exact_approved_paragraph": "**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ATSUKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.",
+      "public_saved_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ATSUKO_STABLE_GAP_ASSOCIATION_TRANSPORT_V1.json",
+      "only_change": "EXACT_APPROVED_PARAGRAPH_PLUS_SEPARATING_LF",
+      "new_package_credit": 0
+    },
+    {
+      "subject": "Subaru",
+      "beforeimage_exact_tuple": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SUBARU_CHARACTER_MONOGRAPH.md",
+        "bytes": 49193,
+        "sha256": "03a633bbbf6812ca4c8aacca4f3a1ac8e4115d3ceeb57a98253d9d02efe30d9f",
+        "git_blob_oid_of_actual_bytes": "1dcc9a58fad52c278cbc25ba4571c368e07a60df",
+        "lines": 237
+      },
+      "current_body_exact_tuple": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SUBARU_CHARACTER_MONOGRAPH.md",
+        "bytes": 49683,
+        "sha256": "5d7158c2b6fb50b3373e26856218bfb4839b93d7886e4f201af089b6dad357b3",
+        "git_blob_oid_of_actual_bytes": "8a4dd6ffdcf22715da0796461ebb9195138d11e0",
+        "lines": 239
+      },
+      "insert_after_original_line": 233,
+      "exact_approved_paragraph": "**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SUBARU_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.",
+      "public_saved_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUBARU_STABLE_GAP_ASSOCIATION_TRANSPORT_V1.json",
+      "only_change": "EXACT_APPROVED_PARAGRAPH_PLUS_SEPARATING_LF",
+      "new_package_credit": 0
+    },
+    {
+      "subject": "Hiyori",
+      "beforeimage_exact_tuple": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIYORI_CHARACTER_MONOGRAPH.md",
+        "bytes": 46544,
+        "sha256": "2458166488c62aba604966882325d1d708fbb8bad6349d7e987271fe4c834827",
+        "git_blob_oid_of_actual_bytes": "e7b9e8c8f627822a35162d7091b0ae1880284dea",
+        "lines": 236
+      },
+      "current_body_exact_tuple": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIYORI_CHARACTER_MONOGRAPH.md",
+        "bytes": 47034,
+        "sha256": "4af587f02e160eaa1d9f6f8face57d2a9e8a0da1dda0bb7c9fd8d446fed4dd9c",
+        "git_blob_oid_of_actual_bytes": "a14d096bd9cdf14eba5eb0e425d8915e3c79eacf",
+        "lines": 238
+      },
+      "insert_after_original_line": 232,
+      "exact_approved_paragraph": "**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HIYORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.",
+      "public_saved_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIYORI_STABLE_GAP_ASSOCIATION_TRANSPORT_V1.json",
+      "only_change": "EXACT_APPROVED_PARAGRAPH_PLUS_SEPARATING_LF",
+      "new_package_credit": 0
+    },
+    {
+      "subject": "Misaki",
+      "beforeimage_exact_tuple": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MISAKI_CHARACTER_MONOGRAPH.md",
+        "bytes": 44816,
+        "sha256": "75959f195431b94b247c7dc36a0af02aa560c855170516cbda933e724a0759ff",
+        "git_blob_oid_of_actual_bytes": "db7606139dc41c1c54f33f6daeea433bad04f16b",
+        "lines": 222
+      },
+      "current_body_exact_tuple": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MISAKI_CHARACTER_MONOGRAPH.md",
+        "bytes": 45306,
+        "sha256": "a106131f294f7fbcf2472bee26cfd1c20910069a4e548ace86fd8b16ed20e81c",
+        "git_blob_oid_of_actual_bytes": "388d729a53132c818484541d84496a75a29dbd7e",
+        "lines": 224
+      },
+      "insert_after_original_line": 218,
+      "exact_approved_paragraph": "**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MISAKI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.",
+      "public_saved_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MISAKI_STABLE_GAP_ASSOCIATION_TRANSPORT_V1.json",
+      "only_change": "EXACT_APPROVED_PARAGRAPH_PLUS_SEPARATING_LF",
+      "new_package_credit": 0
+    },
+    {
+      "subject": "Saori",
+      "beforeimage_exact_tuple": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAORI_CHARACTER_MONOGRAPH.md",
+        "bytes": 49197,
+        "sha256": "a4adedf9161996c4d47b3d2cfd5dd29c33d0e4c45c0553dd327132c89cdcf13f",
+        "git_blob_oid_of_actual_bytes": "9a65ddd7fa24f20aac6f427f94d8581ffbc06673",
+        "lines": 230
+      },
+      "current_body_exact_tuple": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAORI_CHARACTER_MONOGRAPH.md",
+        "bytes": 49686,
+        "sha256": "f813a9243387ffe68d750ba7105ea802104955b977badfe9587c36367529714b",
+        "git_blob_oid_of_actual_bytes": "47ac186f9d5f9bee786f3d5571ab257f8606f2ad",
+        "lines": 232
+      },
+      "insert_after_original_line": 226,
+      "exact_approved_paragraph": "**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.",
+      "public_saved_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAORI_STABLE_GAP_ASSOCIATION_TRANSPORT_V1.json",
+      "only_change": "EXACT_APPROVED_PARAGRAPH_PLUS_SEPARATING_LF",
+      "new_package_credit": 0
+    },
+    {
+      "subject": "Akari",
+      "beforeimage_exact_tuple": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKARI_CHARACTER_MONOGRAPH.md",
+        "bytes": 35862,
+        "sha256": "dff7fddab94d303a2c1c0b622ce761e96172c3c08e76bc0793297465a70da8f1",
+        "git_blob_oid_of_actual_bytes": "b570172b33e361706f36ee5ada88011184d4dc25",
+        "lines": 189
+      },
+      "current_body_exact_tuple": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKARI_CHARACTER_MONOGRAPH.md",
+        "bytes": 36325,
+        "sha256": "9b92654e531abe677e75cd39fcef029cfef428f4d7ebaeebcc25bb460866883f",
+        "git_blob_oid_of_actual_bytes": "c904d9bf269451b560b98171970327223b9765f0",
+        "lines": 191
+      },
+      "insert_after_original_line": 187,
+      "exact_approved_paragraph": "**Stable original G08 — Event naming and repeat contexts: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_AKARI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved actor/identity row remains a local contribution; it does not replace the event naming and repeat-context duty. No gap closure or new source, primary, literary, model or count credit follows.",
+      "public_saved_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AKARI_STABLE_GAP_ASSOCIATION_TRANSPORT_V1.json",
+      "only_change": "EXACT_APPROVED_PARAGRAPH_PLUS_SEPARATING_LF",
+      "new_package_credit": 0
+    },
+    {
+      "subject": "Junko",
+      "beforeimage_exact_tuple": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_JUNKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 36763,
+        "sha256": "47204b7eee439308ecb3ca80e13665b0cde9af66cebd931e9a8cb0e579007ef7",
+        "git_blob_oid_of_actual_bytes": "6c73a4be6d8cf3abc5a91450391ead34716ba2fe",
+        "lines": 194
+      },
+      "current_body_exact_tuple": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_JUNKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 37226,
+        "sha256": "1392122ea659640a7bdbba9cf75393fd5934b0a496b66f9bc1e92f20e4cf77d8",
+        "git_blob_oid_of_actual_bytes": "f2ec3944ae6c596b76c7cb17b47d945488fb2c47",
+        "lines": 196
+      },
+      "insert_after_original_line": 192,
+      "exact_approved_paragraph": "**Stable original G08 — Event naming and repeat contexts: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_JUNKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved actor/identity row remains a local contribution; it does not replace the event naming and repeat-context duty. No gap closure or new source, primary, literary, model or count credit follows.",
+      "public_saved_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_JUNKO_STABLE_GAP_ASSOCIATION_TRANSPORT_V1.json",
+      "only_change": "EXACT_APPROVED_PARAGRAPH_PLUS_SEPARATING_LF",
+      "new_package_credit": 0
+    }
+  ],
+  "full_seven_supplement_transports": [
+    {
+      "supplement_public_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AKARI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "original_proposed_supplement_exact_tuple": {
+        "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_AKARI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+        "bytes": 2581,
+        "sha256": "5a1a4955a63276622961e16d89add5178ed2d4a6300177711b0bff9bff750366",
+        "git_blob_oid_of_actual_bytes": "6be11153705f86575240b09f160fa84af58fabed",
+        "lines": 23,
+        "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_AKARI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+      },
+      "current_supplement_exact_tuple": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AKARI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+        "bytes": 3208,
+        "sha256": "c0c51d6ed14cebd23386bbbe5a6d6cfda601fa2fa2d04a1671f5067e5a5c3fa5",
+        "git_blob_oid_of_actual_bytes": "52623bc140480df0e89490ac47f843d4a9caf2a4",
+        "lines": 25
+      },
+      "supplement_inverse": {
+        "original_exact_tuple": {
+          "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_AKARI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+          "bytes": 2581,
+          "sha256": "5a1a4955a63276622961e16d89add5178ed2d4a6300177711b0bff9bff750366",
+          "git_blob_oid_of_actual_bytes": "6be11153705f86575240b09f160fa84af58fabed",
+          "lines": 23,
+          "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_AKARI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+        },
+        "canonical_exact_tuple": {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AKARI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+          "bytes": 3208,
+          "sha256": "c0c51d6ed14cebd23386bbbe5a6d6cfda601fa2fa2d04a1671f5067e5a5c3fa5",
+          "git_blob_oid_of_actual_bytes": "52623bc140480df0e89490ac47f843d4a9caf2a4",
+          "lines": 25
+        },
+        "exact_unchanged_saved_line_joins": [
+          {
+            "frozen_line": 1,
+            "canonical_line": 1,
+            "line_sha256": "16f4649911a71bc55b111a0d10343309a9d7151568c695a1182c18e09f7ecdfe",
+            "line_text": "# Akari: stable G08 question and preserved local limit"
+          },
+          {
+            "frozen_line": 2,
+            "canonical_line": 4,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 3,
+            "canonical_line": 5,
+            "line_sha256": "68ce80d8381d1498bae46832229221dce5bf346d687589fb3b83d501be3fae20",
+            "line_text": "**Status:** proposed exact qualification for ROOT review. Every original gap remains OPEN. This supplement adds no literary-package, source, primary, performed, model or count credit."
+          },
+          {
+            "frozen_line": 4,
+            "canonical_line": 6,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 5,
+            "canonical_line": 7,
+            "line_sha256": "eec3435ce1972b501369f19e850d0e940755a252ea85c887a22371e06c6a26d2",
+            "line_text": "## Exact bound passage"
+          },
+          {
+            "frozen_line": 6,
+            "canonical_line": 8,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 7,
+            "canonical_line": 9,
+            "line_sha256": "b50ecfaa3b98b3062c8b7ca5c1f38606538a5509a6c0c736863092c21f798079",
+            "line_text": "Published body: [Akari character monograph](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_AKARI_CHARACTER_MONOGRAPH.md), L181. Snapshot `92184703994a1950a5660654ce52d8516dbe9bf5`; 35862 bytes, SHA256 `dff7fddab94d303a2c1c0b622ce761e96172c3c08e76bc0793297465a70da8f1`, Git blob `b570172b33e361706f36ee5ada88011184d4dc25`."
+          },
+          {
+            "frozen_line": 8,
+            "canonical_line": 10,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 9,
+            "canonical_line": 11,
+            "line_sha256": "e6a21d4ffb88585dca3e03d51f3e661314eabe2459cac5dd5523fa779668beed",
+            "line_text": "The exact saved row is preserved below. Its local contribution is retained; it is not a substitute definition or a closure of the original gap."
+          },
+          {
+            "frozen_line": 10,
+            "canonical_line": 12,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 11,
+            "canonical_line": 13,
+            "line_sha256": "c39458e143035c69d37f1c50a61b45f78153af87e3fd9195a7fac7d777388888",
+            "line_text": "| G08 | OPEN | Anonymous shops, committee roles, helmet A/B and typed/native seams remain source-local; no invented global actor joins. |"
+          },
+          {
+            "frozen_line": 12,
+            "canonical_line": 14,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 13,
+            "canonical_line": 15,
+            "line_sha256": "1a07d5b6951d61ee33e28c69d8a8186fe518a63d3be6f4383fb386313d5cc6dd",
+            "line_text": "## Original stable question — G08: Event naming and repeat contexts"
+          },
+          {
+            "frozen_line": 14,
+            "canonical_line": 16,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 15,
+            "canonical_line": 17,
+            "line_sha256": "8d9233523aee043f911a9f5999e0a9cb0a49edfd9f397a1d28148fcc0cced784",
+            "line_text": "The [original source-gap register](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md), L38, defines **G08 — Event naming and repeat contexts**. The complete literal label is retained here. State: **OPEN**."
+          },
+          {
+            "frozen_line": 16,
+            "canonical_line": 18,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 17,
+            "canonical_line": 19,
+            "line_sha256": "586b9f51d512ee87bfc056a7dac2968934f13fe3a84681705fb28aa2ddb30910",
+            "line_text": "Anonymous shops, committee roles, helmet A/B and typed/native seams do not restore a missing overarching event title, authenticate event-series identity, or establish that repeat contexts are separate lived encounters. Exact recorded event/content IDs, story identities and contextual selectors remain the available naming boundaries. A stronger title/series/repeat claim needs a positively pinned authoritative title or exact context witness; release order or duplicated UI is insufficient. Existing actor-attribution and identity limits remain unchanged."
+          },
+          {
+            "frozen_line": 18,
+            "canonical_line": 20,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 19,
+            "canonical_line": 21,
+            "line_sha256": "8ea1c48f9672f5feebe767c2a879146a1f328382d1d201f0754b4ec3c8383759",
+            "line_text": "## Receiving and adoption limits"
+          },
+          {
+            "frozen_line": 20,
+            "canonical_line": 22,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 21,
+            "canonical_line": 23,
+            "line_sha256": "cead11193b53306f6b40d7af621ab7189f6455de9b47b0beb3f960887d6f0237",
+            "line_text": "This qualification is based on the exact saved gap row and original stable control definition received during the finite label/topic audit of 47 packages. It asserts no new whole-monograph literary receiving, accepted narrative, primary text replay, audiovisual witness or authority admission. Previously accepted source custody remains attributed to its actual receipts."
+          },
+          {
+            "frozen_line": 22,
+            "canonical_line": 24,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 23,
+            "canonical_line": 25,
+            "line_sha256": "f74f884de1b31bae103ba8435bf04976517e268565dc5488926168ff08603406",
+            "line_text": "The published body beforeimage and frozen author/ROOT receipts remain immutable. ROOT must receive and bind this supplement before canonical adoption and associate it explicitly with the existing character responsibility. No new required package or mandatory section is created;355/29 and all fourteen OPEN gaps are unchanged. It is separate from the fixed54 adoption batch, whose frozen manifest is unchanged."
+          }
+        ],
+        "exact_changed_saved_line_ranges": [
+          {
+            "operation": "insert",
+            "frozen_lines": [
+              2,
+              1
+            ],
+            "canonical_lines": [
+              2,
+              3
+            ],
+            "frozen_text": [],
+            "canonical_text": [
+              "",
+              "**Current ROOT acceptance and exact association:** ROOT has now received and accepted this complete supplement WITH LIMITS. Creation-time proposed/pending and prior fixed54-batch separation words below remain the unchanged historical proposal, not current acceptance or installation states. The [current ROOT acceptance and full transport qualification](BLUE_ARCHIVE_SEVEN_OLDER_STABLE_GAP_ROOT_ACCEPTANCE_AND_TRANSPORT_V1.json) binds the exact approved paragraph after the original G14 row, preserving every original body byte and the complete inverse. No original gap, source, literary or package credit is closed or added."
+            ]
+          }
+        ],
+        "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+        "terminal_LF_preserved": true
+      }
+    },
+    {
+      "supplement_public_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ATSUKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "original_proposed_supplement_exact_tuple": {
+        "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_ATSUKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+        "bytes": 2580,
+        "sha256": "850a3f3952ba380a857e3e9477fac4936ad389978dbe2f27b3c5150a8ca09455",
+        "git_blob_oid_of_actual_bytes": "8caaaf06badeead9277ac9b4f7e397b3b506e9a5",
+        "lines": 23,
+        "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_ATSUKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+      },
+      "current_supplement_exact_tuple": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ATSUKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+        "bytes": 3207,
+        "sha256": "9569aa1fb8e74d9d1de5c4637f4ef17fb6c6b4f03f7fa1aad4551aa64147e7be",
+        "git_blob_oid_of_actual_bytes": "a7991cf8f939a7ea4eeba1797ab6899380fd8b27",
+        "lines": 25
+      },
+      "supplement_inverse": {
+        "original_exact_tuple": {
+          "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_ATSUKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+          "bytes": 2580,
+          "sha256": "850a3f3952ba380a857e3e9477fac4936ad389978dbe2f27b3c5150a8ca09455",
+          "git_blob_oid_of_actual_bytes": "8caaaf06badeead9277ac9b4f7e397b3b506e9a5",
+          "lines": 23,
+          "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_ATSUKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+        },
+        "canonical_exact_tuple": {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ATSUKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+          "bytes": 3207,
+          "sha256": "9569aa1fb8e74d9d1de5c4637f4ef17fb6c6b4f03f7fa1aad4551aa64147e7be",
+          "git_blob_oid_of_actual_bytes": "a7991cf8f939a7ea4eeba1797ab6899380fd8b27",
+          "lines": 25
+        },
+        "exact_unchanged_saved_line_joins": [
+          {
+            "frozen_line": 1,
+            "canonical_line": 1,
+            "line_sha256": "4e38a0dbf6003b637925c0c1819630c3778ca86d439002cf3b5010a1569de510",
+            "line_text": "# Atsuko: stable G11 question and preserved local limit"
+          },
+          {
+            "frozen_line": 2,
+            "canonical_line": 4,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 3,
+            "canonical_line": 5,
+            "line_sha256": "68ce80d8381d1498bae46832229221dce5bf346d687589fb3b83d501be3fae20",
+            "line_text": "**Status:** proposed exact qualification for ROOT review. Every original gap remains OPEN. This supplement adds no literary-package, source, primary, performed, model or count credit."
+          },
+          {
+            "frozen_line": 4,
+            "canonical_line": 6,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 5,
+            "canonical_line": 7,
+            "line_sha256": "eec3435ce1972b501369f19e850d0e940755a252ea85c887a22371e06c6a26d2",
+            "line_text": "## Exact bound passage"
+          },
+          {
+            "frozen_line": 6,
+            "canonical_line": 8,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 7,
+            "canonical_line": 9,
+            "line_sha256": "963476613d8760dd463f76ca4acd2162243d68cb161a52646dc5291911f0db2c",
+            "line_text": "Published body: [Atsuko character monograph](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_ATSUKO_CHARACTER_MONOGRAPH.md), L218. Snapshot `92184703994a1950a5660654ce52d8516dbe9bf5`; 53343 bytes, SHA256 `593ece130594b92f162924fa1fad7f6a955ba532f0e5c5840c4e7f9df81d8dd2`, Git blob `09a9cd58ae2e4b66ace87e2d364cd68110c9f6a9`."
+          },
+          {
+            "frozen_line": 8,
+            "canonical_line": 10,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 9,
+            "canonical_line": 11,
+            "line_sha256": "e6a21d4ffb88585dca3e03d51f3e661314eabe2459cac5dd5523fa779668beed",
+            "line_text": "The exact saved row is preserved below. Its local contribution is retained; it is not a substitute definition or a closure of the original gap."
+          },
+          {
+            "frozen_line": 10,
+            "canonical_line": 12,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 11,
+            "canonical_line": 13,
+            "line_sha256": "30fbd205a1bfcdecb37fe2909431bfe1afb9ade164f3f9dd71668b313d18eea1",
+            "line_text": "| G11 records/office | Royal claims, interim presidency, reported scores and proposed historical projects lack authenticated charter, gradebook, archive and full authorization. Actual participation remains claimable. |"
+          },
+          {
+            "frozen_line": 12,
+            "canonical_line": 14,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 13,
+            "canonical_line": 15,
+            "line_sha256": "2380c527f05c9c50a5220b0b2cf67d940ec7afa5cf8024ad260ed5b4322068cf",
+            "line_text": "## Original stable question — G11: Hoshino's Yume record and office states"
+          },
+          {
+            "frozen_line": 14,
+            "canonical_line": 16,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 15,
+            "canonical_line": 17,
+            "line_sha256": "5bd15734b5f307e4f311d1ee3f4d40cf61f7b4344a008ea9baa5b5232c82f5ad",
+            "line_text": "The [original source-gap register](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md), L41, defines **G11 — Hoshino's Yume record and office states**. The complete literal label is retained here. State: **OPEN**."
+          },
+          {
+            "frozen_line": 16,
+            "canonical_line": 18,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 17,
+            "canonical_line": 19,
+            "line_sha256": "875dd82eabf8e414ea8725585a21fff983f75097635a1def8766442a0880aaac",
+            "line_text": "Royal claims, provisional presidency, reported scores and proposed historical projects do not authenticate Hoshino’s Yume-linked notebook or death record, distinguish every Hoshino office state, or establish lasting stabilization. Those distinct Hoshino–Yume claims require their own direct provenance/state witnesses. Atsuko’s represented participation and her separately qualified royal/school/report questions remain positive at their actual scope."
+          },
+          {
+            "frozen_line": 18,
+            "canonical_line": 20,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 19,
+            "canonical_line": 21,
+            "line_sha256": "8ea1c48f9672f5feebe767c2a879146a1f328382d1d201f0754b4ec3c8383759",
+            "line_text": "## Receiving and adoption limits"
+          },
+          {
+            "frozen_line": 20,
+            "canonical_line": 22,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 21,
+            "canonical_line": 23,
+            "line_sha256": "cead11193b53306f6b40d7af621ab7189f6455de9b47b0beb3f960887d6f0237",
+            "line_text": "This qualification is based on the exact saved gap row and original stable control definition received during the finite label/topic audit of 47 packages. It asserts no new whole-monograph literary receiving, accepted narrative, primary text replay, audiovisual witness or authority admission. Previously accepted source custody remains attributed to its actual receipts."
+          },
+          {
+            "frozen_line": 22,
+            "canonical_line": 24,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 23,
+            "canonical_line": 25,
+            "line_sha256": "f74f884de1b31bae103ba8435bf04976517e268565dc5488926168ff08603406",
+            "line_text": "The published body beforeimage and frozen author/ROOT receipts remain immutable. ROOT must receive and bind this supplement before canonical adoption and associate it explicitly with the existing character responsibility. No new required package or mandatory section is created;355/29 and all fourteen OPEN gaps are unchanged. It is separate from the fixed54 adoption batch, whose frozen manifest is unchanged."
+          }
+        ],
+        "exact_changed_saved_line_ranges": [
+          {
+            "operation": "insert",
+            "frozen_lines": [
+              2,
+              1
+            ],
+            "canonical_lines": [
+              2,
+              3
+            ],
+            "frozen_text": [],
+            "canonical_text": [
+              "",
+              "**Current ROOT acceptance and exact association:** ROOT has now received and accepted this complete supplement WITH LIMITS. Creation-time proposed/pending and prior fixed54-batch separation words below remain the unchanged historical proposal, not current acceptance or installation states. The [current ROOT acceptance and full transport qualification](BLUE_ARCHIVE_SEVEN_OLDER_STABLE_GAP_ROOT_ACCEPTANCE_AND_TRANSPORT_V1.json) binds the exact approved paragraph after the original G14 row, preserving every original body byte and the complete inverse. No original gap, source, literary or package credit is closed or added."
+            ]
+          }
+        ],
+        "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+        "terminal_LF_preserved": true
+      }
+    },
+    {
+      "supplement_public_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIYORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "original_proposed_supplement_exact_tuple": {
+        "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_HIYORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+        "bytes": 2470,
+        "sha256": "104987abc905cf5333572b94a49f3fc20d0e09be16180bd6a75fd34d443cd75f",
+        "git_blob_oid_of_actual_bytes": "d21b74d61c66b9a8596c67cfb26f092c1319ca40",
+        "lines": 23,
+        "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_HIYORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+      },
+      "current_supplement_exact_tuple": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIYORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+        "bytes": 3097,
+        "sha256": "a0460e91ab4b6efb0d5b3804d73deca76cfc074e1367ccb83111336c3cf1bf94",
+        "git_blob_oid_of_actual_bytes": "ee5654a0ec45bf4ccd4069089e9aae2ff5b7c036",
+        "lines": 25
+      },
+      "supplement_inverse": {
+        "original_exact_tuple": {
+          "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_HIYORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+          "bytes": 2470,
+          "sha256": "104987abc905cf5333572b94a49f3fc20d0e09be16180bd6a75fd34d443cd75f",
+          "git_blob_oid_of_actual_bytes": "d21b74d61c66b9a8596c67cfb26f092c1319ca40",
+          "lines": 23,
+          "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_HIYORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+        },
+        "canonical_exact_tuple": {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIYORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+          "bytes": 3097,
+          "sha256": "a0460e91ab4b6efb0d5b3804d73deca76cfc074e1367ccb83111336c3cf1bf94",
+          "git_blob_oid_of_actual_bytes": "ee5654a0ec45bf4ccd4069089e9aae2ff5b7c036",
+          "lines": 25
+        },
+        "exact_unchanged_saved_line_joins": [
+          {
+            "frozen_line": 1,
+            "canonical_line": 1,
+            "line_sha256": "94c2c1383e0afe76225399e68ebfa5e550ec063e1e18d398ae41018e2cd6825d",
+            "line_text": "# Hiyori: stable G11 question and preserved local limit"
+          },
+          {
+            "frozen_line": 2,
+            "canonical_line": 4,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 3,
+            "canonical_line": 5,
+            "line_sha256": "68ce80d8381d1498bae46832229221dce5bf346d687589fb3b83d501be3fae20",
+            "line_text": "**Status:** proposed exact qualification for ROOT review. Every original gap remains OPEN. This supplement adds no literary-package, source, primary, performed, model or count credit."
+          },
+          {
+            "frozen_line": 4,
+            "canonical_line": 6,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 5,
+            "canonical_line": 7,
+            "line_sha256": "eec3435ce1972b501369f19e850d0e940755a252ea85c887a22371e06c6a26d2",
+            "line_text": "## Exact bound passage"
+          },
+          {
+            "frozen_line": 6,
+            "canonical_line": 8,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 7,
+            "canonical_line": 9,
+            "line_sha256": "33450086b9acaf72d3af192e39adbf7997febfb323fe9cbc01e21fca0298052d",
+            "line_text": "Published body: [Hiyori character monograph](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_HIYORI_CHARACTER_MONOGRAPH.md), L229. Snapshot `92184703994a1950a5660654ce52d8516dbe9bf5`; 46544 bytes, SHA256 `2458166488c62aba604966882325d1d708fbb8bad6349d7e987271fe4c834827`, Git blob `e7b9e8c8f627822a35162d7091b0ae1880284dea`."
+          },
+          {
+            "frozen_line": 8,
+            "canonical_line": 10,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 9,
+            "canonical_line": 11,
+            "line_sha256": "e6a21d4ffb88585dca3e03d51f3e661314eabe2459cac5dd5523fa779668beed",
+            "line_text": "The exact saved row is preserved below. Its local contribution is retained; it is not a substitute definition or a closure of the original gap."
+          },
+          {
+            "frozen_line": 10,
+            "canonical_line": 12,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 11,
+            "canonical_line": 13,
+            "line_sha256": "4d0ae83bfb9fb28d630a4af69593cb356c2dae28c82e9081c6164d6e155f4560",
+            "line_text": "| G11 records/office | School/aid/test scenes and resource reports lack full charter, gradebook, budget, utility and archive authentication. Hiyori receives no invented office. |"
+          },
+          {
+            "frozen_line": 12,
+            "canonical_line": 14,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 13,
+            "canonical_line": 15,
+            "line_sha256": "2380c527f05c9c50a5220b0b2cf67d940ec7afa5cf8024ad260ed5b4322068cf",
+            "line_text": "## Original stable question — G11: Hoshino's Yume record and office states"
+          },
+          {
+            "frozen_line": 14,
+            "canonical_line": 16,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 15,
+            "canonical_line": 17,
+            "line_sha256": "5bd15734b5f307e4f311d1ee3f4d40cf61f7b4344a008ea9baa5b5232c82f5ad",
+            "line_text": "The [original source-gap register](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md), L41, defines **G11 — Hoshino's Yume record and office states**. The complete literal label is retained here. State: **OPEN**."
+          },
+          {
+            "frozen_line": 16,
+            "canonical_line": 18,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 17,
+            "canonical_line": 19,
+            "line_sha256": "0524cabad50ab40c2a1a1c420e07bb0c273b320ddb00dc743c1ca8edc17986db",
+            "line_text": "School/aid/test scenes and resource reports do not authenticate Hoshino’s Yume notebook/death record or settle Hoshino’s distinct office states and lasting stabilization. Direct provenance and observed-state warrants are still needed for those stronger claims. Hiyori’s local schooling, aid, budget/utility and archive limits remain exactly as saved; no office is invented for her."
+          },
+          {
+            "frozen_line": 18,
+            "canonical_line": 20,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 19,
+            "canonical_line": 21,
+            "line_sha256": "8ea1c48f9672f5feebe767c2a879146a1f328382d1d201f0754b4ec3c8383759",
+            "line_text": "## Receiving and adoption limits"
+          },
+          {
+            "frozen_line": 20,
+            "canonical_line": 22,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 21,
+            "canonical_line": 23,
+            "line_sha256": "cead11193b53306f6b40d7af621ab7189f6455de9b47b0beb3f960887d6f0237",
+            "line_text": "This qualification is based on the exact saved gap row and original stable control definition received during the finite label/topic audit of 47 packages. It asserts no new whole-monograph literary receiving, accepted narrative, primary text replay, audiovisual witness or authority admission. Previously accepted source custody remains attributed to its actual receipts."
+          },
+          {
+            "frozen_line": 22,
+            "canonical_line": 24,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 23,
+            "canonical_line": 25,
+            "line_sha256": "f74f884de1b31bae103ba8435bf04976517e268565dc5488926168ff08603406",
+            "line_text": "The published body beforeimage and frozen author/ROOT receipts remain immutable. ROOT must receive and bind this supplement before canonical adoption and associate it explicitly with the existing character responsibility. No new required package or mandatory section is created;355/29 and all fourteen OPEN gaps are unchanged. It is separate from the fixed54 adoption batch, whose frozen manifest is unchanged."
+          }
+        ],
+        "exact_changed_saved_line_ranges": [
+          {
+            "operation": "insert",
+            "frozen_lines": [
+              2,
+              1
+            ],
+            "canonical_lines": [
+              2,
+              3
+            ],
+            "frozen_text": [],
+            "canonical_text": [
+              "",
+              "**Current ROOT acceptance and exact association:** ROOT has now received and accepted this complete supplement WITH LIMITS. Creation-time proposed/pending and prior fixed54-batch separation words below remain the unchanged historical proposal, not current acceptance or installation states. The [current ROOT acceptance and full transport qualification](BLUE_ARCHIVE_SEVEN_OLDER_STABLE_GAP_ROOT_ACCEPTANCE_AND_TRANSPORT_V1.json) binds the exact approved paragraph after the original G14 row, preserving every original body byte and the complete inverse. No original gap, source, literary or package credit is closed or added."
+            ]
+          }
+        ],
+        "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+        "terminal_LF_preserved": true
+      }
+    },
+    {
+      "supplement_public_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_JUNKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "original_proposed_supplement_exact_tuple": {
+        "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_JUNKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+        "bytes": 2593,
+        "sha256": "638c31ecb6ce49295e1a1349dce316ea1b5857851c42195bf04d6e7d926926c1",
+        "git_blob_oid_of_actual_bytes": "6e6b6e02f94287026f536390c3f20eff4aafcc23",
+        "lines": 23,
+        "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_JUNKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+      },
+      "current_supplement_exact_tuple": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_JUNKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+        "bytes": 3220,
+        "sha256": "32a279efa4c7dcf1f22f294d02b6eb853d0b68c29b1941ba9b5a5293c395232d",
+        "git_blob_oid_of_actual_bytes": "e5df305db8ed01f479754ddd93c528eb3b032644",
+        "lines": 25
+      },
+      "supplement_inverse": {
+        "original_exact_tuple": {
+          "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_JUNKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+          "bytes": 2593,
+          "sha256": "638c31ecb6ce49295e1a1349dce316ea1b5857851c42195bf04d6e7d926926c1",
+          "git_blob_oid_of_actual_bytes": "6e6b6e02f94287026f536390c3f20eff4aafcc23",
+          "lines": 23,
+          "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_JUNKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+        },
+        "canonical_exact_tuple": {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_JUNKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+          "bytes": 3220,
+          "sha256": "32a279efa4c7dcf1f22f294d02b6eb853d0b68c29b1941ba9b5a5293c395232d",
+          "git_blob_oid_of_actual_bytes": "e5df305db8ed01f479754ddd93c528eb3b032644",
+          "lines": 25
+        },
+        "exact_unchanged_saved_line_joins": [
+          {
+            "frozen_line": 1,
+            "canonical_line": 1,
+            "line_sha256": "7ec446b4af257f0e6c03206cd0f2f23dd475b9634da763905f7eb5b0893263c1",
+            "line_text": "# Junko: stable G08 question and preserved local limit"
+          },
+          {
+            "frozen_line": 2,
+            "canonical_line": 4,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 3,
+            "canonical_line": 5,
+            "line_sha256": "68ce80d8381d1498bae46832229221dce5bf346d687589fb3b83d501be3fae20",
+            "line_text": "**Status:** proposed exact qualification for ROOT review. Every original gap remains OPEN. This supplement adds no literary-package, source, primary, performed, model or count credit."
+          },
+          {
+            "frozen_line": 4,
+            "canonical_line": 6,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 5,
+            "canonical_line": 7,
+            "line_sha256": "eec3435ce1972b501369f19e850d0e940755a252ea85c887a22371e06c6a26d2",
+            "line_text": "## Exact bound passage"
+          },
+          {
+            "frozen_line": 6,
+            "canonical_line": 8,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 7,
+            "canonical_line": 9,
+            "line_sha256": "e3cf096d9f8e508b2d6a2dfad516be9c09926755fe88e0500d0c3964922db7ae",
+            "line_text": "Published body: [Junko character monograph](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_JUNKO_CHARACTER_MONOGRAPH.md), L186. Snapshot `92184703994a1950a5660654ce52d8516dbe9bf5`; 36763 bytes, SHA256 `47204b7eee439308ecb3ca80e13665b0cde9af66cebd931e9a8cb0e579007ef7`, Git blob `6c73a4be6d8cf3abc5a91450391ead34716ba2fe`."
+          },
+          {
+            "frozen_line": 8,
+            "canonical_line": 10,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 9,
+            "canonical_line": 11,
+            "line_sha256": "e6a21d4ffb88585dca3e03d51f3e661314eabe2459cac5dd5523fa779668beed",
+            "line_text": "The exact saved row is preserved below. Its local contribution is retained; it is not a substitute definition or a closure of the original gap."
+          },
+          {
+            "frozen_line": 10,
+            "canonical_line": 12,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 11,
+            "canonical_line": 13,
+            "line_sha256": "be696ef39ddc33b02730e80290c56cdeb9b346a9937e6cd95ff89dfd22b34d49",
+            "line_text": "| G08 | OPEN | Merchant/Rei seam, anonymous strike actor, local helmet A/B and anonymous MINI120 letter remain qualified; resemblance is not person proof. |"
+          },
+          {
+            "frozen_line": 12,
+            "canonical_line": 14,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 13,
+            "canonical_line": 15,
+            "line_sha256": "1a07d5b6951d61ee33e28c69d8a8186fe518a63d3be6f4383fb386313d5cc6dd",
+            "line_text": "## Original stable question — G08: Event naming and repeat contexts"
+          },
+          {
+            "frozen_line": 14,
+            "canonical_line": 16,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 15,
+            "canonical_line": 17,
+            "line_sha256": "8d9233523aee043f911a9f5999e0a9cb0a49edfd9f397a1d28148fcc0cced784",
+            "line_text": "The [original source-gap register](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md), L38, defines **G08 — Event naming and repeat contexts**. The complete literal label is retained here. State: **OPEN**."
+          },
+          {
+            "frozen_line": 16,
+            "canonical_line": 18,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 17,
+            "canonical_line": 19,
+            "line_sha256": "ea0e3a8ed98f669e07a9e10d173882452e526764e38410189ca3b675d10abfae",
+            "line_text": "The Merchant/Rei seam, anonymous strike actor, helmet A/B and anonymous MINI120 letter do not restore overarching event names, authenticate an event-series join, or turn repeated contexts into new encounters. Exact story/content identities and their recorded contexts remain distinct from absent overarching titles. A stronger name/series/repeat assertion needs an explicit pinned title/context witness; thematic resemblance, release sequence and duplicated scripts cannot supply it. The existing local actor/letter identity limits remain unchanged."
+          },
+          {
+            "frozen_line": 18,
+            "canonical_line": 20,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 19,
+            "canonical_line": 21,
+            "line_sha256": "8ea1c48f9672f5feebe767c2a879146a1f328382d1d201f0754b4ec3c8383759",
+            "line_text": "## Receiving and adoption limits"
+          },
+          {
+            "frozen_line": 20,
+            "canonical_line": 22,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 21,
+            "canonical_line": 23,
+            "line_sha256": "cead11193b53306f6b40d7af621ab7189f6455de9b47b0beb3f960887d6f0237",
+            "line_text": "This qualification is based on the exact saved gap row and original stable control definition received during the finite label/topic audit of 47 packages. It asserts no new whole-monograph literary receiving, accepted narrative, primary text replay, audiovisual witness or authority admission. Previously accepted source custody remains attributed to its actual receipts."
+          },
+          {
+            "frozen_line": 22,
+            "canonical_line": 24,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 23,
+            "canonical_line": 25,
+            "line_sha256": "f74f884de1b31bae103ba8435bf04976517e268565dc5488926168ff08603406",
+            "line_text": "The published body beforeimage and frozen author/ROOT receipts remain immutable. ROOT must receive and bind this supplement before canonical adoption and associate it explicitly with the existing character responsibility. No new required package or mandatory section is created;355/29 and all fourteen OPEN gaps are unchanged. It is separate from the fixed54 adoption batch, whose frozen manifest is unchanged."
+          }
+        ],
+        "exact_changed_saved_line_ranges": [
+          {
+            "operation": "insert",
+            "frozen_lines": [
+              2,
+              1
+            ],
+            "canonical_lines": [
+              2,
+              3
+            ],
+            "frozen_text": [],
+            "canonical_text": [
+              "",
+              "**Current ROOT acceptance and exact association:** ROOT has now received and accepted this complete supplement WITH LIMITS. Creation-time proposed/pending and prior fixed54-batch separation words below remain the unchanged historical proposal, not current acceptance or installation states. The [current ROOT acceptance and full transport qualification](BLUE_ARCHIVE_SEVEN_OLDER_STABLE_GAP_ROOT_ACCEPTANCE_AND_TRANSPORT_V1.json) binds the exact approved paragraph after the original G14 row, preserving every original body byte and the complete inverse. No original gap, source, literary or package credit is closed or added."
+            ]
+          }
+        ],
+        "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+        "terminal_LF_preserved": true
+      }
+    },
+    {
+      "supplement_public_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MISAKI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "original_proposed_supplement_exact_tuple": {
+        "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_MISAKI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+        "bytes": 2455,
+        "sha256": "0fdb81cd2e86c6064ebc3a084d223b1fd42d60dd8d571242570e7f068ec770d7",
+        "git_blob_oid_of_actual_bytes": "00dab53b2364d722253c4b0ccb3124dadcb88a5f",
+        "lines": 23,
+        "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_MISAKI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+      },
+      "current_supplement_exact_tuple": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MISAKI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+        "bytes": 3082,
+        "sha256": "c63fefa2a9d725ef676c1f85424a07d825b912ac50346ebf9db0198ddf0154d3",
+        "git_blob_oid_of_actual_bytes": "0e1960fc366deaa9d08f32f1d4d845b6697b78f1",
+        "lines": 25
+      },
+      "supplement_inverse": {
+        "original_exact_tuple": {
+          "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_MISAKI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+          "bytes": 2455,
+          "sha256": "0fdb81cd2e86c6064ebc3a084d223b1fd42d60dd8d571242570e7f068ec770d7",
+          "git_blob_oid_of_actual_bytes": "00dab53b2364d722253c4b0ccb3124dadcb88a5f",
+          "lines": 23,
+          "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_MISAKI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+        },
+        "canonical_exact_tuple": {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MISAKI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+          "bytes": 3082,
+          "sha256": "c63fefa2a9d725ef676c1f85424a07d825b912ac50346ebf9db0198ddf0154d3",
+          "git_blob_oid_of_actual_bytes": "0e1960fc366deaa9d08f32f1d4d845b6697b78f1",
+          "lines": 25
+        },
+        "exact_unchanged_saved_line_joins": [
+          {
+            "frozen_line": 1,
+            "canonical_line": 1,
+            "line_sha256": "96aefe414d3a72fd7189433b06429e4bc24d925f138ec59967f5258ec91afe16",
+            "line_text": "# Misaki: stable G11 question and preserved local limit"
+          },
+          {
+            "frozen_line": 2,
+            "canonical_line": 4,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 3,
+            "canonical_line": 5,
+            "line_sha256": "68ce80d8381d1498bae46832229221dce5bf346d687589fb3b83d501be3fae20",
+            "line_text": "**Status:** proposed exact qualification for ROOT review. Every original gap remains OPEN. This supplement adds no literary-package, source, primary, performed, model or count credit."
+          },
+          {
+            "frozen_line": 4,
+            "canonical_line": 6,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 5,
+            "canonical_line": 7,
+            "line_sha256": "eec3435ce1972b501369f19e850d0e940755a252ea85c887a22371e06c6a26d2",
+            "line_text": "## Exact bound passage"
+          },
+          {
+            "frozen_line": 6,
+            "canonical_line": 8,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 7,
+            "canonical_line": 9,
+            "line_sha256": "54725dda0d43683245f15973501cf113dd4f283cb7b89da11436491ad9fb69a0",
+            "line_text": "Published body: [Misaki character monograph](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_MISAKI_CHARACTER_MONOGRAPH.md), L215. Snapshot `92184703994a1950a5660654ce52d8516dbe9bf5`; 44816 bytes, SHA256 `75959f195431b94b247c7dc36a0af02aa560c855170516cbda933e724a0759ff`, Git blob `db7606139dc41c1c54f33f6daeea433bad04f16b`."
+          },
+          {
+            "frozen_line": 8,
+            "canonical_line": 10,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 9,
+            "canonical_line": 11,
+            "line_sha256": "e6a21d4ffb88585dca3e03d51f3e661314eabe2459cac5dd5523fa779668beed",
+            "line_text": "The exact saved row is preserved below. Its local contribution is retained; it is not a substitute definition or a closure of the original gap."
+          },
+          {
+            "frozen_line": 10,
+            "canonical_line": 12,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 11,
+            "canonical_line": 13,
+            "line_sha256": "d6ae90d1705ed4f3316d738bdd43bc178911467c1286859298c48d6d5d462cfd",
+            "line_text": "| G11 records/office | Collective schooling, test reports and repair proposals lack full charter, gradebook, budget and archive authentication. Misaki receives no invented office. |"
+          },
+          {
+            "frozen_line": 12,
+            "canonical_line": 14,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 13,
+            "canonical_line": 15,
+            "line_sha256": "2380c527f05c9c50a5220b0b2cf67d940ec7afa5cf8024ad260ed5b4322068cf",
+            "line_text": "## Original stable question — G11: Hoshino's Yume record and office states"
+          },
+          {
+            "frozen_line": 14,
+            "canonical_line": 16,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 15,
+            "canonical_line": 17,
+            "line_sha256": "5bd15734b5f307e4f311d1ee3f4d40cf61f7b4344a008ea9baa5b5232c82f5ad",
+            "line_text": "The [original source-gap register](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md), L41, defines **G11 — Hoshino's Yume record and office states**. The complete literal label is retained here. State: **OPEN**."
+          },
+          {
+            "frozen_line": 16,
+            "canonical_line": 18,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 17,
+            "canonical_line": 19,
+            "line_sha256": "0972882e8d80e891060489ec83acc3397ff37a3bec32f33875614f466ed91a79",
+            "line_text": "Collective schooling, test reports and repair proposals do not establish Yume-record provenance, a complete death-causality account, or Hoshino’s full office-state sequence and lasting stabilization. Those claims require separate direct record/state evidence. Misaki’s own charter, gradebook, budget, archive and participation questions remain valuable and bounded."
+          },
+          {
+            "frozen_line": 18,
+            "canonical_line": 20,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 19,
+            "canonical_line": 21,
+            "line_sha256": "8ea1c48f9672f5feebe767c2a879146a1f328382d1d201f0754b4ec3c8383759",
+            "line_text": "## Receiving and adoption limits"
+          },
+          {
+            "frozen_line": 20,
+            "canonical_line": 22,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 21,
+            "canonical_line": 23,
+            "line_sha256": "cead11193b53306f6b40d7af621ab7189f6455de9b47b0beb3f960887d6f0237",
+            "line_text": "This qualification is based on the exact saved gap row and original stable control definition received during the finite label/topic audit of 47 packages. It asserts no new whole-monograph literary receiving, accepted narrative, primary text replay, audiovisual witness or authority admission. Previously accepted source custody remains attributed to its actual receipts."
+          },
+          {
+            "frozen_line": 22,
+            "canonical_line": 24,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 23,
+            "canonical_line": 25,
+            "line_sha256": "f74f884de1b31bae103ba8435bf04976517e268565dc5488926168ff08603406",
+            "line_text": "The published body beforeimage and frozen author/ROOT receipts remain immutable. ROOT must receive and bind this supplement before canonical adoption and associate it explicitly with the existing character responsibility. No new required package or mandatory section is created;355/29 and all fourteen OPEN gaps are unchanged. It is separate from the fixed54 adoption batch, whose frozen manifest is unchanged."
+          }
+        ],
+        "exact_changed_saved_line_ranges": [
+          {
+            "operation": "insert",
+            "frozen_lines": [
+              2,
+              1
+            ],
+            "canonical_lines": [
+              2,
+              3
+            ],
+            "frozen_text": [],
+            "canonical_text": [
+              "",
+              "**Current ROOT acceptance and exact association:** ROOT has now received and accepted this complete supplement WITH LIMITS. Creation-time proposed/pending and prior fixed54-batch separation words below remain the unchanged historical proposal, not current acceptance or installation states. The [current ROOT acceptance and full transport qualification](BLUE_ARCHIVE_SEVEN_OLDER_STABLE_GAP_ROOT_ACCEPTANCE_AND_TRANSPORT_V1.json) binds the exact approved paragraph after the original G14 row, preserving every original body byte and the complete inverse. No original gap, source, literary or package credit is closed or added."
+            ]
+          }
+        ],
+        "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+        "terminal_LF_preserved": true
+      }
+    },
+    {
+      "supplement_public_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "original_proposed_supplement_exact_tuple": {
+        "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_SAORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+        "bytes": 2470,
+        "sha256": "6f2fbc3f37d66bfce1907fa029f759c604d1499a447386f23468261d35941a5a",
+        "git_blob_oid_of_actual_bytes": "ecfc2b866904038c03dbe22b90d250a3021abb9a",
+        "lines": 23,
+        "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_SAORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+      },
+      "current_supplement_exact_tuple": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+        "bytes": 3097,
+        "sha256": "c8bc1ce72d17f469529a37de352c2fdcf98b4ff47a582ff102d00348f4f8a11a",
+        "git_blob_oid_of_actual_bytes": "5a774e3584cb192e9cdcba0b3f1fb8327a2053a0",
+        "lines": 25
+      },
+      "supplement_inverse": {
+        "original_exact_tuple": {
+          "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_SAORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+          "bytes": 2470,
+          "sha256": "6f2fbc3f37d66bfce1907fa029f759c604d1499a447386f23468261d35941a5a",
+          "git_blob_oid_of_actual_bytes": "ecfc2b866904038c03dbe22b90d250a3021abb9a",
+          "lines": 23,
+          "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_SAORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+        },
+        "canonical_exact_tuple": {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+          "bytes": 3097,
+          "sha256": "c8bc1ce72d17f469529a37de352c2fdcf98b4ff47a582ff102d00348f4f8a11a",
+          "git_blob_oid_of_actual_bytes": "5a774e3584cb192e9cdcba0b3f1fb8327a2053a0",
+          "lines": 25
+        },
+        "exact_unchanged_saved_line_joins": [
+          {
+            "frozen_line": 1,
+            "canonical_line": 1,
+            "line_sha256": "b8b93fda0f5aeaaad2df32dd97a8ab7f1f5a228fd18e55f1fd898f98b8571f03",
+            "line_text": "# Saori: stable G11 question and preserved local limit"
+          },
+          {
+            "frozen_line": 2,
+            "canonical_line": 4,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 3,
+            "canonical_line": 5,
+            "line_sha256": "68ce80d8381d1498bae46832229221dce5bf346d687589fb3b83d501be3fae20",
+            "line_text": "**Status:** proposed exact qualification for ROOT review. Every original gap remains OPEN. This supplement adds no literary-package, source, primary, performed, model or count credit."
+          },
+          {
+            "frozen_line": 4,
+            "canonical_line": 6,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 5,
+            "canonical_line": 7,
+            "line_sha256": "eec3435ce1972b501369f19e850d0e940755a252ea85c887a22371e06c6a26d2",
+            "line_text": "## Exact bound passage"
+          },
+          {
+            "frozen_line": 6,
+            "canonical_line": 8,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 7,
+            "canonical_line": 9,
+            "line_sha256": "074209897f291e7770cc996cfd25b9262271f4b563efe5a61643bd0b10077cf2",
+            "line_text": "Published body: [Saori character monograph](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_SAORI_CHARACTER_MONOGRAPH.md), L223. Snapshot `92184703994a1950a5660654ce52d8516dbe9bf5`; 49197 bytes, SHA256 `a4adedf9161996c4d47b3d2cfd5dd29c33d0e4c45c0553dd327132c89cdcf13f`, Git blob `9a65ddd7fa24f20aac6f427f94d8581ffbc06673`."
+          },
+          {
+            "frozen_line": 8,
+            "canonical_line": 10,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 9,
+            "canonical_line": 11,
+            "line_sha256": "e6a21d4ffb88585dca3e03d51f3e661314eabe2459cac5dd5523fa779668beed",
+            "line_text": "The exact saved row is preserved below. Its local contribution is retained; it is not a substitute definition or a closure of the original gap."
+          },
+          {
+            "frozen_line": 10,
+            "canonical_line": 12,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 11,
+            "canonical_line": 13,
+            "line_sha256": "5d2a657d14c87cca295e029f2b0f4bcf33cffbb376491f80f832767056a90910",
+            "line_text": "| G11 records/office | Proposed contract-review/uniform roles, reports of tests and interim structures lack an inspected charter, gradebook, budget or complete mandate. |"
+          },
+          {
+            "frozen_line": 12,
+            "canonical_line": 14,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 13,
+            "canonical_line": 15,
+            "line_sha256": "2380c527f05c9c50a5220b0b2cf67d940ec7afa5cf8024ad260ed5b4322068cf",
+            "line_text": "## Original stable question — G11: Hoshino's Yume record and office states"
+          },
+          {
+            "frozen_line": 14,
+            "canonical_line": 16,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 15,
+            "canonical_line": 17,
+            "line_sha256": "5bd15734b5f307e4f311d1ee3f4d40cf61f7b4344a008ea9baa5b5232c82f5ad",
+            "line_text": "The [original source-gap register](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md), L41, defines **G11 — Hoshino's Yume record and office states**. The complete literal label is retained here. State: **OPEN**."
+          },
+          {
+            "frozen_line": 16,
+            "canonical_line": 18,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 17,
+            "canonical_line": 19,
+            "line_sha256": "59abb0a02690e7f250023b923fd3b8d62cb2c9b43ddef2ee33acd002c489cd83",
+            "line_text": "Proposed contract-review/uniform roles, test reports and interim structures do not authenticate the Hoshino–Yume historical record, settle death causality, or establish Hoshino’s separate office states and durable stabilization. Their direct provenance/state duties remain open. Saori’s local mandate, report and role-authorization limits survive without being reassigned as a Hoshino result."
+          },
+          {
+            "frozen_line": 18,
+            "canonical_line": 20,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 19,
+            "canonical_line": 21,
+            "line_sha256": "8ea1c48f9672f5feebe767c2a879146a1f328382d1d201f0754b4ec3c8383759",
+            "line_text": "## Receiving and adoption limits"
+          },
+          {
+            "frozen_line": 20,
+            "canonical_line": 22,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 21,
+            "canonical_line": 23,
+            "line_sha256": "cead11193b53306f6b40d7af621ab7189f6455de9b47b0beb3f960887d6f0237",
+            "line_text": "This qualification is based on the exact saved gap row and original stable control definition received during the finite label/topic audit of 47 packages. It asserts no new whole-monograph literary receiving, accepted narrative, primary text replay, audiovisual witness or authority admission. Previously accepted source custody remains attributed to its actual receipts."
+          },
+          {
+            "frozen_line": 22,
+            "canonical_line": 24,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 23,
+            "canonical_line": 25,
+            "line_sha256": "f74f884de1b31bae103ba8435bf04976517e268565dc5488926168ff08603406",
+            "line_text": "The published body beforeimage and frozen author/ROOT receipts remain immutable. ROOT must receive and bind this supplement before canonical adoption and associate it explicitly with the existing character responsibility. No new required package or mandatory section is created;355/29 and all fourteen OPEN gaps are unchanged. It is separate from the fixed54 adoption batch, whose frozen manifest is unchanged."
+          }
+        ],
+        "exact_changed_saved_line_ranges": [
+          {
+            "operation": "insert",
+            "frozen_lines": [
+              2,
+              1
+            ],
+            "canonical_lines": [
+              2,
+              3
+            ],
+            "frozen_text": [],
+            "canonical_text": [
+              "",
+              "**Current ROOT acceptance and exact association:** ROOT has now received and accepted this complete supplement WITH LIMITS. Creation-time proposed/pending and prior fixed54-batch separation words below remain the unchanged historical proposal, not current acceptance or installation states. The [current ROOT acceptance and full transport qualification](BLUE_ARCHIVE_SEVEN_OLDER_STABLE_GAP_ROOT_ACCEPTANCE_AND_TRANSPORT_V1.json) binds the exact approved paragraph after the original G14 row, preserving every original body byte and the complete inverse. No original gap, source, literary or package credit is closed or added."
+            ]
+          }
+        ],
+        "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+        "terminal_LF_preserved": true
+      }
+    },
+    {
+      "supplement_public_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUBARU_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "original_proposed_supplement_exact_tuple": {
+        "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_SUBARU_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+        "bytes": 2457,
+        "sha256": "0abeff667abeb1b1e49f8a718e747fe6ed5444f158975e3d0f3fcb35d95f2ad5",
+        "git_blob_oid_of_actual_bytes": "633640708b9be3dc3c1668d88e3911fb50d8b8fa",
+        "lines": 23,
+        "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_SUBARU_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+      },
+      "current_supplement_exact_tuple": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUBARU_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+        "bytes": 3084,
+        "sha256": "9ae4c1c333f172c725cda4b29dcbf967759344c9ef917a8a0783fecdb24679d9",
+        "git_blob_oid_of_actual_bytes": "b717a02e8edec17a88e0f17d9c5966e3b7f075ad",
+        "lines": 25
+      },
+      "supplement_inverse": {
+        "original_exact_tuple": {
+          "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_SUBARU_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+          "bytes": 2457,
+          "sha256": "0abeff667abeb1b1e49f8a718e747fe6ed5444f158975e3d0f3fcb35d95f2ad5",
+          "git_blob_oid_of_actual_bytes": "633640708b9be3dc3c1668d88e3911fb50d8b8fa",
+          "lines": 23,
+          "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_SUBARU_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+        },
+        "canonical_exact_tuple": {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUBARU_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+          "bytes": 3084,
+          "sha256": "9ae4c1c333f172c725cda4b29dcbf967759344c9ef917a8a0783fecdb24679d9",
+          "git_blob_oid_of_actual_bytes": "b717a02e8edec17a88e0f17d9c5966e3b7f075ad",
+          "lines": 25
+        },
+        "exact_unchanged_saved_line_joins": [
+          {
+            "frozen_line": 1,
+            "canonical_line": 1,
+            "line_sha256": "39c55732d4be902c1e01be0387790c06336a2b74b75caf5eb3bafb71e344c738",
+            "line_text": "# Subaru: stable G11 question and preserved local limit"
+          },
+          {
+            "frozen_line": 2,
+            "canonical_line": 4,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 3,
+            "canonical_line": 5,
+            "line_sha256": "68ce80d8381d1498bae46832229221dce5bf346d687589fb3b83d501be3fae20",
+            "line_text": "**Status:** proposed exact qualification for ROOT review. Every original gap remains OPEN. This supplement adds no literary-package, source, primary, performed, model or count credit."
+          },
+          {
+            "frozen_line": 4,
+            "canonical_line": 6,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 5,
+            "canonical_line": 7,
+            "line_sha256": "eec3435ce1972b501369f19e850d0e940755a252ea85c887a22371e06c6a26d2",
+            "line_text": "## Exact bound passage"
+          },
+          {
+            "frozen_line": 6,
+            "canonical_line": 8,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 7,
+            "canonical_line": 9,
+            "line_sha256": "d81a12b2cdc22496ffc88c28e6c7c1eb99bfc31a19895b02fa233137261f9d4b",
+            "line_text": "Published body: [Subaru character monograph](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_SUBARU_CHARACTER_MONOGRAPH.md), L230. Snapshot `92184703994a1950a5660654ce52d8516dbe9bf5`; 49193 bytes, SHA256 `03a633bbbf6812ca4c8aacca4f3a1ac8e4115d3ceeb57a98253d9d02efe30d9f`, Git blob `1dcc9a58fad52c278cbc25ba4571c368e07a60df`."
+          },
+          {
+            "frozen_line": 8,
+            "canonical_line": 10,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 9,
+            "canonical_line": 11,
+            "line_sha256": "e6a21d4ffb88585dca3e03d51f3e661314eabe2459cac5dd5523fa779668beed",
+            "line_text": "The exact saved row is preserved below. Its local contribution is retained; it is not a substitute definition or a closure of the original gap."
+          },
+          {
+            "frozen_line": 10,
+            "canonical_line": 12,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 11,
+            "canonical_line": 13,
+            "line_sha256": "0a52b5ee8176682a5ebfcd3d2aadfe94d8c949aafc4e962de32553362a9dd447",
+            "line_text": "| G11 Historical and office records | Encountered apocryphon and proposed public history are not authenticated archives. No full advancement record or council charter is supplied. |"
+          },
+          {
+            "frozen_line": 12,
+            "canonical_line": 14,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 13,
+            "canonical_line": 15,
+            "line_sha256": "2380c527f05c9c50a5220b0b2cf67d940ec7afa5cf8024ad260ed5b4322068cf",
+            "line_text": "## Original stable question — G11: Hoshino's Yume record and office states"
+          },
+          {
+            "frozen_line": 14,
+            "canonical_line": 16,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 15,
+            "canonical_line": 17,
+            "line_sha256": "5bd15734b5f307e4f311d1ee3f4d40cf61f7b4344a008ea9baa5b5232c82f5ad",
+            "line_text": "The [original source-gap register](../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md), L41, defines **G11 — Hoshino's Yume record and office states**. The complete literal label is retained here. State: **OPEN**."
+          },
+          {
+            "frozen_line": 16,
+            "canonical_line": 18,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 17,
+            "canonical_line": 19,
+            "line_sha256": "db296eefb4ab755a8de98ce8431b819654ecff926358e51d4160f3c7ff921cf3",
+            "line_text": "An encountered apocryphon, proposed public history and absent advancement/council records do not authenticate the Yume notebook/death-record chain or establish Hoshino’s office-state sequence and durable stabilization. Their original G11 home remains separate. Subaru’s local history and advancement questions remain substantive without supplying that missing record."
+          },
+          {
+            "frozen_line": 18,
+            "canonical_line": 20,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 19,
+            "canonical_line": 21,
+            "line_sha256": "8ea1c48f9672f5feebe767c2a879146a1f328382d1d201f0754b4ec3c8383759",
+            "line_text": "## Receiving and adoption limits"
+          },
+          {
+            "frozen_line": 20,
+            "canonical_line": 22,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 21,
+            "canonical_line": 23,
+            "line_sha256": "cead11193b53306f6b40d7af621ab7189f6455de9b47b0beb3f960887d6f0237",
+            "line_text": "This qualification is based on the exact saved gap row and original stable control definition received during the finite label/topic audit of 47 packages. It asserts no new whole-monograph literary receiving, accepted narrative, primary text replay, audiovisual witness or authority admission. Previously accepted source custody remains attributed to its actual receipts."
+          },
+          {
+            "frozen_line": 22,
+            "canonical_line": 24,
+            "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "line_text": ""
+          },
+          {
+            "frozen_line": 23,
+            "canonical_line": 25,
+            "line_sha256": "f74f884de1b31bae103ba8435bf04976517e268565dc5488926168ff08603406",
+            "line_text": "The published body beforeimage and frozen author/ROOT receipts remain immutable. ROOT must receive and bind this supplement before canonical adoption and associate it explicitly with the existing character responsibility. No new required package or mandatory section is created;355/29 and all fourteen OPEN gaps are unchanged. It is separate from the fixed54 adoption batch, whose frozen manifest is unchanged."
+          }
+        ],
+        "exact_changed_saved_line_ranges": [
+          {
+            "operation": "insert",
+            "frozen_lines": [
+              2,
+              1
+            ],
+            "canonical_lines": [
+              2,
+              3
+            ],
+            "frozen_text": [],
+            "canonical_text": [
+              "",
+              "**Current ROOT acceptance and exact association:** ROOT has now received and accepted this complete supplement WITH LIMITS. Creation-time proposed/pending and prior fixed54-batch separation words below remain the unchanged historical proposal, not current acceptance or installation states. The [current ROOT acceptance and full transport qualification](BLUE_ARCHIVE_SEVEN_OLDER_STABLE_GAP_ROOT_ACCEPTANCE_AND_TRANSPORT_V1.json) binds the exact approved paragraph after the original G14 row, preserving every original body byte and the complete inverse. No original gap, source, literary or package credit is closed or added."
+            ]
+          }
+        ],
+        "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+        "terminal_LF_preserved": true
+      }
+    }
+  ],
+  "all_immutable_original_proposal_and_ROOT_tuples": [
+    {
+      "path": "ROOT_SEVEN_OLDER_STABLE_GAP_SUPPLEMENT_ACCEPTANCE_V1.json",
+      "bytes": 8066,
+      "sha256": "fcb714e7a90eaa52007702d3d2b8e6070d75f9b10ad52e8f17964dfb3b4b53c2",
+      "git_blob_oid_of_actual_bytes": "186f7e6327eda817b2b6b6d691cad08cb19a4c37",
+      "lines": 92,
+      "immutable_transport_path": "immutable_originals/ROOT_SEVEN_OLDER_STABLE_GAP_SUPPLEMENT_ACCEPTANCE_V1.json"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/ROOT_SEVEN_STABLE_GAP_SUPPLEMENT_REVIEW_ROUTE_V1.md",
+      "bytes": 2415,
+      "sha256": "826a71d68dc4dae20fb0894262c3e776d12c4b833f6c8d8dbdb7e813f442dc2c",
+      "git_blob_oid_of_actual_bytes": "96c6d9a472f0df0d992c090753960de4feb9f2db",
+      "lines": 27,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/ROOT_SEVEN_STABLE_GAP_SUPPLEMENT_REVIEW_ROUTE_V1.md"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/SEVEN_STABLE_GAP_SUPPLEMENT_AUTHOR_COMPLETE_RECEIVING_LIMITS_V1.json",
+      "bytes": 1541,
+      "sha256": "b5f609800934a52a7c5e532eb05c5c2c27b6b80838a95842da34983559fb69eb",
+      "git_blob_oid_of_actual_bytes": "964ab7cbab861877122d45d51150b0b9650f1d0c",
+      "lines": 12,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/SEVEN_STABLE_GAP_SUPPLEMENT_AUTHOR_COMPLETE_RECEIVING_LIMITS_V1.json"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/SEVEN_STABLE_GAP_SUPPLEMENT_EXACT_PROPOSAL_MANIFEST_V1.json",
+      "bytes": 18109,
+      "sha256": "14939bae919a9077d20cc81291ba6456b2263e446f3699a3cd20a8a1d28cc6c9",
+      "git_blob_oid_of_actual_bytes": "c953df316843bfd4bd1db04679de4302ba24dbc0",
+      "lines": 231,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/SEVEN_STABLE_GAP_SUPPLEMENT_EXACT_PROPOSAL_MANIFEST_V1.json"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/SEVEN_STABLE_GAP_SUPPLEMENT_EXACT_SELF_VERIFICATION_V1.json",
+      "bytes": 10943,
+      "sha256": "6823856bc8dcfe6a0d836927126e7826fedb86e55eab350648fa04de44c4eaac",
+      "git_blob_oid_of_actual_bytes": "51f2b132ea5380afcae215ee38e8c2973df18a16",
+      "lines": 145,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/SEVEN_STABLE_GAP_SUPPLEMENT_EXACT_SELF_VERIFICATION_V1.json"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/SEVEN_STABLE_GAP_SUPPLEMENT_FREEZE_MANIFEST_V1.json",
+      "bytes": 5863,
+      "sha256": "505498d671cf90991712523c7e9af0d660f06fb7bed949b35dc5f687e2b80f09",
+      "git_blob_oid_of_actual_bytes": "fbf2d5f38506d1e50ce1a60d660fdf964284c454",
+      "lines": 135,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/SEVEN_STABLE_GAP_SUPPLEMENT_FREEZE_MANIFEST_V1.json"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/immutable_bindings/AKARI_EXACT_PUBLISHED_BODY_BEFOREIMAGE.md",
+      "bytes": 35862,
+      "sha256": "dff7fddab94d303a2c1c0b622ce761e96172c3c08e76bc0793297465a70da8f1",
+      "git_blob_oid_of_actual_bytes": "b570172b33e361706f36ee5ada88011184d4dc25",
+      "lines": 189,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/immutable_bindings/AKARI_EXACT_PUBLISHED_BODY_BEFOREIMAGE.md"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/immutable_bindings/ATSUKO_EXACT_PUBLISHED_BODY_BEFOREIMAGE.md",
+      "bytes": 53343,
+      "sha256": "593ece130594b92f162924fa1fad7f6a955ba532f0e5c5840c4e7f9df81d8dd2",
+      "git_blob_oid_of_actual_bytes": "09a9cd58ae2e4b66ace87e2d364cd68110c9f6a9",
+      "lines": 225,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/immutable_bindings/ATSUKO_EXACT_PUBLISHED_BODY_BEFOREIMAGE.md"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/immutable_bindings/EXACT_STABLE_GAP_CONTROL_BEFOREIMAGE.md",
+      "bytes": 79178,
+      "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+      "git_blob_oid_of_actual_bytes": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+      "lines": 354,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/immutable_bindings/EXACT_STABLE_GAP_CONTROL_BEFOREIMAGE.md"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/immutable_bindings/HIYORI_EXACT_PUBLISHED_BODY_BEFOREIMAGE.md",
+      "bytes": 46544,
+      "sha256": "2458166488c62aba604966882325d1d708fbb8bad6349d7e987271fe4c834827",
+      "git_blob_oid_of_actual_bytes": "e7b9e8c8f627822a35162d7091b0ae1880284dea",
+      "lines": 236,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/immutable_bindings/HIYORI_EXACT_PUBLISHED_BODY_BEFOREIMAGE.md"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/immutable_bindings/JUNKO_EXACT_PUBLISHED_BODY_BEFOREIMAGE.md",
+      "bytes": 36763,
+      "sha256": "47204b7eee439308ecb3ca80e13665b0cde9af66cebd931e9a8cb0e579007ef7",
+      "git_blob_oid_of_actual_bytes": "6c73a4be6d8cf3abc5a91450391ead34716ba2fe",
+      "lines": 194,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/immutable_bindings/JUNKO_EXACT_PUBLISHED_BODY_BEFOREIMAGE.md"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/immutable_bindings/MISAKI_EXACT_PUBLISHED_BODY_BEFOREIMAGE.md",
+      "bytes": 44816,
+      "sha256": "75959f195431b94b247c7dc36a0af02aa560c855170516cbda933e724a0759ff",
+      "git_blob_oid_of_actual_bytes": "db7606139dc41c1c54f33f6daeea433bad04f16b",
+      "lines": 222,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/immutable_bindings/MISAKI_EXACT_PUBLISHED_BODY_BEFOREIMAGE.md"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/immutable_bindings/SAORI_EXACT_PUBLISHED_BODY_BEFOREIMAGE.md",
+      "bytes": 49197,
+      "sha256": "a4adedf9161996c4d47b3d2cfd5dd29c33d0e4c45c0553dd327132c89cdcf13f",
+      "git_blob_oid_of_actual_bytes": "9a65ddd7fa24f20aac6f427f94d8581ffbc06673",
+      "lines": 230,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/immutable_bindings/SAORI_EXACT_PUBLISHED_BODY_BEFOREIMAGE.md"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/immutable_bindings/SUBARU_EXACT_PUBLISHED_BODY_BEFOREIMAGE.md",
+      "bytes": 49193,
+      "sha256": "03a633bbbf6812ca4c8aacca4f3a1ac8e4115d3ceeb57a98253d9d02efe30d9f",
+      "git_blob_oid_of_actual_bytes": "1dcc9a58fad52c278cbc25ba4571c368e07a60df",
+      "lines": 237,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/immutable_bindings/SUBARU_EXACT_PUBLISHED_BODY_BEFOREIMAGE.md"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_AKARI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "bytes": 2581,
+      "sha256": "5a1a4955a63276622961e16d89add5178ed2d4a6300177711b0bff9bff750366",
+      "git_blob_oid_of_actual_bytes": "6be11153705f86575240b09f160fa84af58fabed",
+      "lines": 23,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_AKARI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_ATSUKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "bytes": 2580,
+      "sha256": "850a3f3952ba380a857e3e9477fac4936ad389978dbe2f27b3c5150a8ca09455",
+      "git_blob_oid_of_actual_bytes": "8caaaf06badeead9277ac9b4f7e397b3b506e9a5",
+      "lines": 23,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_ATSUKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_HIYORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "bytes": 2470,
+      "sha256": "104987abc905cf5333572b94a49f3fc20d0e09be16180bd6a75fd34d443cd75f",
+      "git_blob_oid_of_actual_bytes": "d21b74d61c66b9a8596c67cfb26f092c1319ca40",
+      "lines": 23,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_HIYORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_JUNKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "bytes": 2593,
+      "sha256": "638c31ecb6ce49295e1a1349dce316ea1b5857851c42195bf04d6e7d926926c1",
+      "git_blob_oid_of_actual_bytes": "6e6b6e02f94287026f536390c3f20eff4aafcc23",
+      "lines": 23,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_JUNKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_MISAKI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "bytes": 2455,
+      "sha256": "0fdb81cd2e86c6064ebc3a084d223b1fd42d60dd8d571242570e7f068ec770d7",
+      "git_blob_oid_of_actual_bytes": "00dab53b2364d722253c4b0ccb3124dadcb88a5f",
+      "lines": 23,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_MISAKI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_SAORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "bytes": 2470,
+      "sha256": "6f2fbc3f37d66bfce1907fa029f759c604d1499a447386f23468261d35941a5a",
+      "git_blob_oid_of_actual_bytes": "ecfc2b866904038c03dbe22b90d250a3021abb9a",
+      "lines": 23,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_SAORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_SEVEN_STABLE_GAP_ALIGNMENT_PROPOSAL_RECEIPT_V1.json",
+      "bytes": 27218,
+      "sha256": "4a91073f861ba88f82961f5afefea0dca2693c863d5d1edf05538dedbf88761e",
+      "git_blob_oid_of_actual_bytes": "3bec49f84e2462dd99ed1cbea9359b8ba982c758",
+      "lines": 238,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_SEVEN_STABLE_GAP_ALIGNMENT_PROPOSAL_RECEIPT_V1.json"
+    },
+    {
+      "path": "ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_SUBARU_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "bytes": 2457,
+      "sha256": "0abeff667abeb1b1e49f8a718e747fe6ed5444f158975e3d0f3fcb35d95f2ad5",
+      "git_blob_oid_of_actual_bytes": "633640708b9be3dc3c1668d88e3911fb50d8b8fa",
+      "lines": 23,
+      "immutable_transport_path": "immutable_originals/ROOT_CURRENT47_SEVEN_STABLE_GAP_SUPPLEMENT_PROPOSAL_V1/public_candidates/BLUE_ARCHIVE_SUBARU_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+    }
+  ],
+  "current_tuple_qualification": "All older published author/ROOT/saved byte tuples remain valid historical witnesses. These exact current body/supplement tuples and inverse maps qualify the zero-credit current associations. Creation-time proposed/pending statuses remain frozen inside historical payloads, visibly governed by the current accepted decision.",
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "scope": "355/29_UNCHANGED",
+  "new_package_source_primary_performance_model_or_count_credit": 0
+}

@@ -1,0 +1,1158 @@
+{
+  "original_exact_tuple": {
+    "path": "GEHENNA_PANDEMONIUM_MONOGRAPHS/BLUE_ARCHIVE_IROHA_CHARACTER_MONOGRAPH.md",
+    "bytes": 35273,
+    "sha256": "1d057c903ba1803b4490f598527d6d56c6e8ec1bc280fbe854bc28a41ac03f51",
+    "git_blob_oid_of_actual_bytes": "e0ff4f6bdda107208d618ab9fef6f20131a51654",
+    "lines": 153,
+    "immutable_transport_path": "immutable_originals/GEHENNA_PANDEMONIUM_MONOGRAPHS/BLUE_ARCHIVE_IROHA_CHARACTER_MONOGRAPH.md"
+  },
+  "canonical_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IROHA_CHARACTER_MONOGRAPH.md",
+    "bytes": 42295,
+    "sha256": "34bc492ffac01608e6a5bb359cb06eeceeacffa8f54d9e9ab51b4e5a5a849ff2",
+    "git_blob_oid_of_actual_bytes": "9d192c945e2056b6968fcab22c2faa376a11c8ae",
+    "lines": 185
+  },
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 3,
+      "line_sha256": "1658226d82991e821acc7363ec1375c03a4c3037e48a2a07ed6d5d89a5430ec5",
+      "line_text": "method: DEEP_SYNTHESIS"
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 4,
+      "line_sha256": "2923c66dbdf3cac7fd09c1d32e3c93a03d356dead7112227287dbfbc376eed79",
+      "line_text": "architecture: \"1.12 / section 7.1\""
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 5,
+      "line_sha256": "d881487af14799283aa0b03294564f0aad380ea4d953f1c9086bad980eecb550",
+      "line_text": "required_home: P3-CHAR-IROHA"
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 6,
+      "line_sha256": "245b2f41862c473d8aa54d9d5a3c12404e9e5d6a40f4687a1c44afb93aa05adf",
+      "line_text": "source_responsibility: P3-F050"
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 7,
+      "line_sha256": "e9c35015fb5c6f5197c312f12a4a7b4b21c2d1ee68d47aec31d8a80d86aacb87",
+      "line_text": "dated_navigation: P3-A039"
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 8,
+      "line_sha256": "dc7bec09429e6dc8635a006355730ed631f8e0098dc17c93f39247bebabe3c18",
+      "line_text": "person_scope: \"BA_PERSON_CH0156; base20016/CH0156 and swimsuit10148/CH0346\""
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 9,
+      "line_sha256": "dca433725e2113a41bd7ea1bf048c40b8cfe9ebbeefcc0997266fd1090647fa7",
+      "line_text": "analytical_base: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 10,
+      "line_sha256": "3d639a1006263fe0efb71adff7cd496284e45b46a8f9c748f161e9019134278e",
+      "line_text": "historical_source_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 12,
+      "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+      "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 13,
+      "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+      "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 14,
+      "line_sha256": "9bfcc8ddf76f45406f140d40058a7af25aaeb2dfa706a7240b21a13dce430256",
+      "line_text": "source_boundary: \"Complete fourteen effectiveV5.1 private arguments and comparatorV2; adequate complete accepted Main/GROUP/MINI/event meanings; exact action, report, option, locale, actor and retrospective dream limits\""
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 15,
+      "line_sha256": "4efc00eb15bac2aaa1416c4c159b4a5dadf8f363b2a399b9ae28d10de635a501",
+      "line_text": "authority_quartet: \"Current Cycle008 admission with limits; ROOT-qualified accepted source arguments; historical firstness/independence UNKNOWN; performed voice unreceived\""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 16,
+      "line_sha256": "abef9e120d5642fec7a7ee4983e730f875c03c166c6437b24d6da24bd0c03e54",
+      "line_text": "exposure: RETROSPECTIVE_TEXTUAL_SYNTHESIS"
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 17,
+      "line_sha256": "053d11ab47fc96cac835274ba6c83c9dac538a71508ef1181c0737f9e9530b9a",
+      "line_text": "all14_original_gaps: OPEN"
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 31,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 32,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 33,
+      "line_sha256": "137c2588f399e0aa38accebd4ca1a662d5a3d2dea38e0198772689c9f38a323c",
+      "line_text": "# Iroha — chosen refuge, selective service and the right to withhold an answer"
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 36,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 37,
+      "line_sha256": "1748c42a51ea6abd72a53eb258babedc0650b89505c5e86b17b8942e9916c412",
+      "line_text": "## 1. Core thesis: rest and competent service do not require unconditional obedience"
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 38,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 39,
+      "line_sha256": "58a26ac3e71fe37d82886ef889cf54b76544ea26b853f9c0dc370cd7c0c797ea",
+      "line_text": "Iroha's characterization gives substantial value to a life that does not have to justify every moment through work. Reading, snacks, comfortable rooms, a breeze, a quiet beach and selected company are wanted ends. She also undertakes useful work, notices other people's fatigue, helps finish an adult's tasks and coordinates a difficult public rescue. These are compatible capacities rather than evidence that one side of her life is a disguise. The defining tension is who may claim her effort and decide its purpose. She withdraws from demands she resents, chooses particular acts of help and can reject the institution she ordinarily serves. Her capacity to choose does not make every use of that capacity fair: punitive auditing, burdens imposed on others and evasive pretexts remain contrary evidence. [IR01–IR14; IR-CMP; G190; M2C2E005,E016,E018.]"
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 40,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 41,
+      "line_sha256": "3b53ff0c29707d1cb903dfd425d42a0fb85b881f2e1ca310a38721b1aa52bcf6",
+      "line_text": "The private repertoire therefore qualifies both a universal-laziness reading and a selfless-guardian reading. The first loses completed work, concern and pleasure in company. The second loses convenience, secrecy, recruitment tactics and the people who bear her or Pandemonium's demands. Her later resistance to coercive unity is a consequential choice, but it does not retrospectively convert arbitrary means into justified service. A literary account needs room for a person who wants relief, can give real help and still needs her relationships and institutional practices examined. [IR05–IR09; IR-CMP; G190; M2C2E005,E011,E016,E018,E019.]"
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 42,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 43,
+      "line_sha256": "e1fe7109ad70357fe3a34bcf5e15c393735fadd64f85ec09474e6ab914922020",
+      "line_text": "Her right to withhold an answer is also reciprocal. Sensei refuses recruitment; Ibuki chooses to stay with Makoto; Iroha refuses water play and some photographs; coworkers accept or dispute distinct assignments. Particular acceptance is neither general permission nor proof that everybody shares an institution's aims. This thesis is a retrospective textual synthesis of the accepted arguments, not a reconstruction rule predicting what Iroha must do next. [IR02,IR05; MINI120,150; E860:002,004,013; M2C2E005,E010,E011.]"
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 44,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 45,
+      "line_sha256": "7528fc5d607ededefc2783016dd3ba0e3d57d550937a62bf2337bfcc3c416aac",
+      "line_text": "## 2. Development and longitudinal states: renewed choice rather than a variant ladder"
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 46,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 47,
+      "line_sha256": "56eed1f8472cc52bfa757ba00e3bde657be1f5de0e047bec3c975d09ec18bc5c",
+      "line_text": "The bounded private family displays several states: recruitment emissary who settles into reading after a refusal; tired middle manager seeking dinner and understanding; guide to shops and a personal refuge; equipment supervisor; host of a garage break; reader sharing a remembered origin of her interest; holiday companion who prefers quiet to water play. Base20016 and swimsuit10148 supply distinct textual conditions. Their release order, unlocks and event identifiers do not establish that she became more mature, less dutiful or more intimate in a single chronological progression. The remembered beginning of reading in base015 is participant recollection, not an independently dated childhood sequence. [IR01–IR11,IR14.]"
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 48,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 49,
+      "line_sha256": "13a8be00c19785b05e8bbd8ba4a4cac8f7ced449b37c2352a99a61f9b7171200",
+      "line_text": "Where the sources print endpoints, development includes finite accomplishment. Joint cleaning ends before sunset in base015. Base005 ends with return to Schale, her help and work finished; Korean adds that it is not late. Swimsuit003 ends with shared reading until sunset, with Korean's beach posture retained separately. These moments show that she can make company and assistance part of a completed ordinary day. They do not establish a permanent cure for overwork or avoidance. Conversely, a future escape together or Korean's proposed living together in swimsuit005 is prospective; neither fulfills a new domestic state. [IR02,IR03,IR07,IR09.]"
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 50,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 51,
+      "line_sha256": "175761d378cb50ba19875dc3c7ff95cfeca508720f8e18d0639a13d76477702c",
+      "line_text": "The Main crisis has a locally printed sequence that can support a stronger public transition. In S2C2E005, Iroha tells Makoto she is leaving Pandemonium because the Makoto she knew would not speak this way. Makoto's clearly tagged verbal acceptance is real; no personnel form, roster removal or new permanent office is printed. E011 then shows her offer of a new place, hair care and reading to Ibuki, followed by Ibuki's choice to remain with lonely Makoto and Iroha's acceptance of that answer. Her own return is conditional on Makoto's recovery. E016 gives her an overall coordinating role in a coalition; E018 gives her personal appeal and a practical rapprochement. Spoken resignation, rescue work and later exchange are distinct acts rather than a formally documented cycle of employment. [BA:main:series2:002:002:005:scene:001:u:0047–0064; M2C2E011,E016,E018.]"
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 52,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 53,
+      "line_sha256": "ebf37b6f660a231c5ee58d00fe57d6d7ea2ebe8307ed6ec9c475dbc7bcd9548a",
+      "line_text": "The public transition does not have a demonstrated private-to-Main cause. A beach invitation did not produce the resignation merely because both concern freedom. Event860's disagreement about staying voluntarily offers a meaningful comparison with the Main choice; its placement relative to every private and Main scene remains unproved. Its later conquest episodes are retrospectively dream-qualified and cannot become later stages of Iroha's actual institutional career. The evidence supports recurring negotiation and a particular consequential break, with chronology gaps left visible. [IR-CMP; E860:004,016–027; M2C2E005,E011,E018.]"
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 54,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 55,
+      "line_sha256": "ef0e5c4d943979ac34cdf703a547a58994f9a3eabbf960b8f9d56f9839691142",
+      "line_text": "## 3. Public and private comparison: the refuge has independent value"
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 56,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 57,
+      "line_sha256": "c7630742c0eea4525eb29398379a61abed6e9b4ea0bf83e6edca58bc10343200",
+      "line_text": "Reading is not simply the inactivity left after the important plot. Iroha chooses it on leave, prefers it to water play, maintains books and games in a personal den and selects a different place to read with Sensei. The ordinary environment matters: cushions, shops, coffee requests, snacks and a quiet café provide textures of a wanted life. Private solitude and particular company are compatible. Her leisure need not become evidence that she secretly wants to run away from every relationship, and it need not earn its place by later improving rescue performance. [IR01–IR04,IR07–IR11.]"
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 58,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 59,
+      "line_sha256": "72067bc87680772d014e58c9053264cc051dd7520d500a1f06d7d97cc0f91425",
+      "line_text": "Base015 supplies a particularly strong corrective to a sentimental-object reading. Iroha recounts how reading began to open possibilities for her, while handling a repurchased copy roughly and declining a cover. The present book is not the original keepsake; Japanese's dismissal of disposal harm and Korean's rejection of collectible value qualify material attachment. The experience can matter without the copy being sacred. A possible future association with today's conversation remains possible, not an observed memory. This gives her ordinary interest depth while refusing a convenient material symbol stronger than the text. [BA:bond:20016:015; BA:momotalk:20016:thread:200160240; IR09.]"
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 60,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 61,
+      "line_sha256": "c731ac8268d9ac517c043a4ed6e51158a85379252293174fb181f017690fe2c9",
+      "line_text": "Public work complicates, rather than cancels, that refuge. The weekly meeting and budget contexts show information, reports and duties inside an institution. The broadcast MINI assigns Iroha work she does not welcome, while Kirara and Erika's volunteered enjoyment remains their own answer. Main E016 gives Iroha a definite, useful operational plan with acknowledged technical failure modes. These are different conditions of service: routine assignment, unwanted exposure, a chosen coalition and private assistance. No single phrase such as shirking or responsibility describes them all adequately. [G190; BA:mini:70012010/70012020; MINI120; M2C2E016.]"
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 62,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 63,
+      "line_sha256": "0c35cae1ebe84b3cd2d90ee84bedd7f21207bf87210657fdca6f2ab81f984441",
+      "line_text": "The comparison also preserves public adverse conduct. In G190's audit, Iroha performs an assignment designed to find fault and uses Ibuki's cocoa and fall in the punitive process. Private provisions for Ibuki broaden the evidence of attachment; they cannot excuse the funding threat or falsify the child's contrary reassurance. Warmth and abuse of procedure can coexist in the same character's repertoire. The monograph's analytical priority is omission impact: removing books would flatten the private life, and removing the audit would flatten responsibility. Neither is discarded because another scene has greater stakes. [IR07,IR10,IR11; IR-CMP; G190.]"
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 64,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 65,
+      "line_sha256": "5dfbac21f2be6c8baba6aa9258fcd3987716a686de3356cb540bb7d66d6b4762",
+      "line_text": "## 4. Club and institution: service under Pandemonium is a contested relationship"
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 66,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 67,
+      "line_sha256": "5a6eb8f4c34db5e1598b844cd240bb9e558b71aeef17b0226d7631bed94f935a",
+      "line_text": "Iroha's Pandemonium representation is borne by profile, written and public contexts; a swimsuit profile field marked ClubNone is not proof that she has no institutional ties. The baseline profile's complaints, calm work in Japanese and stronger avoidance language in Korean remain textual descriptions rather than a universal observation log. Written references to maintenance or reputation do not certify a technical performance or a whole campus's judgment. The institution matters through actual assignments, contested loyalties and conditions of work, not just a club label. [IR10,IR11,IR14; G190; M2C2E005,E016.]"
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 68,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 69,
+      "line_sha256": "994790be5650a9c7bcfbcb887dd158694ccbd43e420eac4eb9bb091d863d4533",
+      "line_text": "Private recruitment makes the difference between commission and assent explicit. In base002, Iroha describes the task of gaining Sensei's support; his refusal is acknowledged. A claimed reward involving half of Kivotos, Japanese ice cream and Korean outsourcing/exclusivity do not establish actual control or an agreement. In base003, her use of official work as a pretext and fatigue complaint coexist with actual dinner and return. Japanese doubt about persuasion and Korean's limited-purpose success do not become a completed institutional alliance. The institutional purpose remains contested even when the visit yields company. [BA:bond:20016:002/003; BA:momotalk:20016:thread:200160010/200160050; IR05,IR06.]"
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 70,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 71,
+      "line_sha256": "3cc9354dfe82c17a7041dee9cc1e42e2042621a1a47cc90b68a906ce37f4d534",
+      "line_text": "G190's procedure is the clearest adverse case. Iroha invokes a civil-service role while carrying out a punitive assignment reluctantly. Hospitality becomes a deduction, and an instruction to find fault frames the audit. Ibuki's statement that she is fine and will not cry conflicts with the later criterion that the Prefects made her cry. Protective concern is not thereby impartial. A procedure qualification has a typed/raw speaker seam at scene003u58; the subsequent clean Iroha u59 separately establishes the formal-processing limit. The proposed redistribution is not an approved permanent cut and transfer. Her reluctance qualifies her attitude; it does not remove her represented participation. [G190:1902:scene:003:u:0058–0059; IR-CMP.]"
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 72,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 73,
+      "line_sha256": "80bc02d99b3ce08c3eae765853e20aed7d55b960c23a2d34c729a82c9a1553dc",
+      "line_text": "The Main resignation gives institutional dissent a stronger endpoint. Mayumi and Karen reject coerced unity on their own grounds before Iroha speaks; their objections are not hers to absorb. Iroha then refuses the changed Makoto, and Makoto stops Shoko's proposed action against her. That intervention is a limit on punitive control, not proof that no coercive costs exist elsewhere: Sensei's actual confinement and Makoto's agreement are printed in E013. Iroha's later coalition work is service to a rescue purpose while her formal status remains uninspected. Institutional legitimacy therefore cannot be inferred from either loyalty or administrative competence alone. [M2C2E005:scene:001:u:0023–0045,0047–0106; M2C2E013:scene:001:u:0001–0027; M2C2E016.]"
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 74,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 75,
+      "line_sha256": "5480b1ab1af3065737d964b3dcd87cd3f64eead9a637bcb6ecb1ecaee13a79d8",
+      "line_text": "## 5. Ordinary life and private texture: specific pleasures, fatigue and unfinished chores"
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 76,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 77,
+      "line_sha256": "67c5e9578f311e2e023d0acaca488f6b949e59f49031a3d23f9fddac93bf3f7d",
+      "line_text": "The ordinary family contains positive acts whose small scale is no reason to omit them. There are two hours of reading in swimsuit002; shared beach reading until sunset in swimsuit003; shops, squid senbei and café rest in swimsuit005; a sea outing and return to Schale after lunch the next day in swimsuit006; dinner near Schale and return in base003; shopping followed by completed assistance in base005; pleasant garage company in base006; joint cleaning finished before sunset in base015. Locale clauses stay local: swimsuit002's Japanese return still in the swimsuit and Korean's all-day reading before return do not license one expanded common duration. [IR01–IR04,IR06–IR09.]"
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 78,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 79,
+      "line_sha256": "df20593e459d9653a4e42eb8e29512501a68d029ae5ed1054252dc5bcf8d679b",
+      "line_text": "The shopping episode holds together self-interest and care. Iroha notices Sensei's weak responses and guides purchases for a rest space: Gehenna-marked furnishings, a cat pillow, snacks, books and a cushion. Pride, boredom and reluctance to shirk alone coexist with practical help. Snacks and toys for a future Ibuki visit remain anticipatory, not proof that the child visited, ate or played. Japanese about an hour and Korean an hour and a half are different printed durations. The story's return and completed work are actual; shopping does not complete the reported air-conditioner repair. [BA:bond:20016:005:scene:002:u:0043/raw160426; IR07.]"
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 80,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 81,
+      "line_sha256": "1eb143bfd00a46a89e9174bf11da0482d9662dbea31acb8d3b8617bcc0171313",
+      "line_text": "Requests and small promises deserve equally exact treatment. A coffee request is not drinking; the arrival carrying coffee in base015 is stronger than remembered taste in a message. The garage break does not finish the chair's pending report. Swimsuit005's café and company do not fulfill escape or cohabitation. Swimsuit006's secrecy and actual next-day return do not establish everything that happened overnight, a completed patrol or repaired cooling equipment. Ordinary detail can supply substantial characterization without adding unprinted acts. [IR03–IR09.]"
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 82,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 83,
+      "line_sha256": "ada41171f3232f7538521d1db39168ad4d6fc6c7fa11ee6680723fcebc4c3b9e",
+      "line_text": "Written seasonal and event registers add wants at their own mode. Birthday privacy coexists with selective anticipation of Sensei. The swimsuit suitcase's Ibuki stickers are a literal attachment, not an additional visit. Japanese New Year shelter/rest differs from Korean's mildly spicy snack preference. Event860 costume lines preserve workload appraisal, thanks, privacy and an intention to be slightly kinder to Chiaki; that intention alone is not fulfilled relational change. Event813-derived written cleanup and Buy gratitude do not establish every cleanup, transaction or delivery as completed. [IR10–IR13.]"
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 84,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 85,
+      "line_sha256": "aec2dd63088b32ec31a7d03040597de41a63ab23db80a61d0e01564d8865d1bb",
+      "line_text": "## 6. Crisis behavior: substantial action without isolated technical or moral proof"
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 86,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 87,
+      "line_sha256": "ab68f69d9d7406bfbada5660869a090e5fe826702572bab17ab8b59d8c53527d",
+      "line_text": "The Eden evidence makes it necessary to distinguish Iroha's presence from Makoto's bargain. E007 explicitly represents Makoto's collusion; it does not print Iroha participating in that bargain. Speaker drift at consequential Iroha/Makoto lines prevents strengthening an uncertain attribution into her secure endorsement. The airship blast, a later member's lake-rescue report, burned hair and preparations for an unnamed response retain their actual or reported scopes. Neither comprehensive medical clearance nor completed retaliation is printed. Iroha's later urge to rest is not a settlement of the institution's earlier responsibility. [M3C3E004,E006,E007,E016,E025; M3C3 checkpoint.]"
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 88,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 89,
+      "line_sha256": "0ddcc40c36fee1d5074a31bb0c5cc4fae759e3db48cc1cb4b0846b153e456267",
+      "line_text": "The Final rescue gives an actual positive public act: Iroha deploys Toramaru with others joining the response. Makoto's claims about information and the role of pudding retain participant-motive scope. Reported clearance and lack of injury do not become a full audit, nor does the rescue establish that Pandemonium engineered the earlier encirclement. Useful aid matters without erasing the Eden adverse context. Ibuki's role is not expanded into an unprinted complete mission. [MF100C2E018; Final working account.]"
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 90,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 91,
+      "line_sha256": "8402c1c91243d683187ae1e0d2e35431f7a0003e417e4a27e8b7043191b73d8b",
+      "line_text": "S2C2E016 supplies more than vague competence. In its thirty-minute flashback, Iroha briefs combat, technical, guard-handling and escort roles, while the present shows the tunnel breach and first diversions. She names three distinct technical failure modes: a wrong frequency, failed transmission and a faulty underlying theory. Satsuki names her overall coordinator and Iroha launches the operation. The plan is definite, but at that episode's cutoff the transmission and completed handoff are not printed. This matters because acknowledging uncertainty is part of the represented work; the monograph does not turn morale or a command metaphor into a measured probability or permanent command office. [BA:main:series2:002:002:016:scene:001:u:0033–0083; IR-CMP.]"
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 92,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 93,
+      "line_sha256": "7b47c8ad89b9031013b180681ef326027bff69ca2b4139523df895fae904a3ba",
+      "line_text": "The subsequent endpoint is collective and personal. E018 represents counterbroadcast, local recovery, Iroha's appeal to Makoto and Makoto's anti-puppet response. Her appeal has force as a relationship intervention, but the signal and other actions are also present; no individual causal effect is isolated. Shoko's organizer admission does not establish every device author, installed pathway or death trigger. Iroha's reproach and warning that she will quit next time preserve a limit within the rapprochement. E019 still contains distress, property-return promises and ongoing questions of freedom. Actual incident closure does not complete restitution, remove work or promise unconditional future service. [M2C2E018:scene:001:u:0160–0222; M2C2E019; S2 working account.]"
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 94,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 95,
+      "line_sha256": "ee625cc66971b81505181002f028cd19b35efa22f2f521c9eb076d5f8b794b60",
+      "line_text": "Event860 gives a different crisis repertoire. Iroha disputes the cheap holiday's consequences, objects when Makoto trivializes her effort, conceals drift from Ibuki with a dolphin story, carries a heavy shell, saves Makoto when the adult cannot reach her and later warns the fisherman about responsibility. Real rescue and a replacement boat are finite achievements. Her judgment that old weapons should be harmless is untested and the cannon actually fires; competence is not infallibility. The later dream contests include her unwanted expendable assignment and interrupted sunset rest, retaining burden and objection without turning imagined conquest into actual government. [E860:002–014,017,021,026–027.]"
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 96,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 97,
+      "line_sha256": "9ed2f6d0ee3581d89a5deb8438a4627dafb995d89e6431db18ca0d156f5c675f",
+      "line_text": "## 7. Sensei: selected company, refused recruitment and bounded shared work"
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 98,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 99,
+      "line_sha256": "9fbd48b9f90caa79f53a459fbe771b67b8783d780ed0903992c5f69640fcebc0",
+      "line_text": "Sensei is neither only a relief service nor a recipient whose answers can be presumed. Base002's recruitment refusal remains an actual refusal, followed by Iroha's comfortable reading and his uneasy afternoon. Base003's dinner and return are completed, while persuasion remains locale-qualified. Base005 shows his fatigue and her later assistance; base015 gives joint cleaning and conversation rather than one-way provision. She can use institutional pretexts and tease a trap, but the base006 trap is explicitly retracted and genuine work remains. Chosen company and unequal burdens are both relevant to the relationship. [IR05–IR09.]"
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 100,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 101,
+      "line_sha256": "ee953cd387cca5c359fee1fa152e11ad6e58056ba3d97fbd129e130cfffc017f",
+      "line_text": "Privacy and refusal are equally concrete. Iroha declines water play in swimsuit003 and distinguishes selected access to belongings from permission for just anyone. In swimsuit002, she claims Sensei asked to see a swimsuit, but the preceding printed formal replies do not expressly make that request. A subsequent rumor about swimsuit work is not Schale policy. Named narration, adult inward records and separate formal options are not interchangeable; equal literal replies remain independent selections rather than one universally enacted response. Her invitation and his particular assent therefore cannot stand for all future activities. [IR01,IR02,IR08,IR09.]"
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 102,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 103,
+      "line_sha256": "569f1af63e8328762fb9579dfe73158d46a0d46e3161ba88e89360ebcd2c7c55",
+      "line_text": "The beach and café stories allow affection and possible intimacy as competing interpretations without certifying a relationship contract. A vendor's couple/date label is an outsider reading. Japanese's escape-together prospect and Korean's possible living together remain local prospective formulations. The linked message preserves different Japanese negative replies and Korean departure/work wording; it does not establish one harmonized refusal after the outing. The actual sea excursion and next-day Schale return do not license invented overnight intimacy. A quiet relationship can have meaning without its desired or rumored future being fulfilled. [IR03,IR04; IR-CMP.]"
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 104,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 105,
+      "line_sha256": "15ebf9e33e083cca3552dc4121ef79a181c245c2c28e4fac1ca14c89d7860eb1",
+      "line_text": "Publicly, Sensei's actual confinement is a distinct recipient cost, not merely a setting for Iroha's eventual helpfulness. The coalition's rescue plan responds to an existing loss of freedom. Her coordination and personal appeal then matter within that shared action, with Kasumi's tunnel, Prefect resistance, technical colleagues and escort duties retained independently. Private thanks and written closeness cannot establish that Sensei accepts every public method or that Iroha's account settles the adult's separate commitments. [M2C2E013,E016,E018; IR12,IR13.]"
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 106,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 107,
+      "line_sha256": "5d9ea13469fd3f46437710fcd059b019af4c50525bb8a13d99b0d9b5956b7944",
+      "line_text": "## 8. Peers: Ibuki's choice, Makoto's limits and other people's agency"
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 108,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 109,
+      "line_sha256": "af3b16a82016d4237f048c7f8f2d55193fc186081ea42f62e8983ee1ace7b46d",
+      "line_text": "Ibuki is intrinsic to Iroha's ordinary attachment: suitcase stickers, anticipated snacks and toys and written refuge language do not depend on a crisis justification. The baseline Korean profile makes Ibuki an exclusive refuge in a way the Japanese does not; exclusivity is not imported into every source. In Main E011, Iroha offers reading and care, but Ibuki chooses lonely Makoto. Iroha checks and accepts that answer while keeping her own return conditional. The child's preference does not force Iroha to remain, and Iroha's concern does not require the child to leave. [IR07,IR10,IR11; M2C2E011.]"
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 110,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 111,
+      "line_sha256": "ebe4b17fc74bec0ecf56e4d206b39bce1869aa0b59cf57554057ffa97c384cdb",
+      "line_text": "G190 prevents that attachment from becoming an automatic defense. Ibuki wants cocoa and reassures others after falling; Iroha's later punitive criterion does not simply represent the child's own judgment. MINI150 offers another useful distinction: Iroha invokes a wider principle about stolen pudding, thanks PS68, and local forgiveness occurs. Particular concern, a broader rule and finite forgiveness are separate acts. No universal campus agreement or proof that every demand is justified follows. [G190; MINI150; IR-CMP.]"
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 112,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 113,
+      "line_sha256": "4b8747f18ae95bf50e028fef9433c2d712a841590d7a4c3af560216fa5a47c97",
+      "line_text": "With Makoto, the relationship contains affection, labor friction, refusal and rescue. Event860's Makoto affirms that members should stay by their own will, rejecting an equivalence between obedience and free choice; Iroha also resists chores while seeking an apology. The Main changed Makoto then makes the institutional break explicit. In the island crisis, Iroha saves Makoto, but Makoto's private hope that Iroha will apologize after Makoto's own success is not mutual restitution. Iroha's later personal appeal and Makoto's response are meaningful; her next-time warning keeps the negotiated limit alive. No permanent consent to all assignments is restored by a rescue. [E860:004,010–011; M2C2E005,E018,E019.]"
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 114,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 115,
+      "line_sha256": "e0151766d888de1ac587a8b55e7a8953e1f4b9a668840c4719066b5a8313c521",
+      "line_text": "Chiaki has her own documentation and desires. Iroha refuses a photo and dismisses a souvenir in the holiday's early phase; a later actual apology to Chiaki is stronger than the costume's future kinder-treatment intention. Iroha declines another face photograph. The accepted photo during Odysseia hospitality includes an explicit right to refuse and particular assent, not blanket permission for all images. Chiaki's group joke about Iroha's feeling toward Makoto remains a prompt with qualified replies. Her kindness and enjoyment are not merely material through which Iroha's hidden emotions are proved. [E860:002,011–013; IR13.]"
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 116,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 117,
+      "line_sha256": "35739e9b9e46864bb092615c2275b4a37b57c003ba7a2bf91e2b7f9c00a2c790",
+      "line_text": "Satsuki and the other coalition members likewise remain independent. A difference over obedience/free will, the unperformed forced-apology suggestion and Satsuki's cannon refusal are contrary answers in Event860. Kirara and Erika voluntarily enjoy their broadcast work where Iroha resents assignment. Iori and Chinatsu accept specific combat responsibilities; Mayumi and Karen resist coercive unity before undertaking their own tasks; Kasumi has her own reason for the tunnel rescue. Iroha coordinates these efforts without becoming their sole agent or absorbing every motive. The directed relationships and ensemble require separate full Phase3 homes. [E860:004,008; MINI120; M2C2E005,E010,E016,E018.]"
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 118,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 119,
+      "line_sha256": "31fd78de070a1df0b5234e26cbc8d24ae9d27dc4dc24fdafd9c176b2598f271b",
+      "line_text": "## 9. Written register, attribution and source boundaries"
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 120,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 121,
+      "line_sha256": "071f6e20a7f91046a3079e35e6126bf227404866314c0ed21abf72eab10b1237",
+      "line_text": "The complete private scope is nine BOND/MM pairs, two profile/normal-written objects and two event-costume objects, represented by fourteen effectiveV5.1 arguments including the checkpoint. Normal written material is101 rows; event written material is73 rows. Those counts belong to the accepted producer's source extent, not this monograph's fresh native audit. Base20016/CH0156 and swimsuit10148/CH0346 remain distinct within BA_PERSON_CH0156; costume1900904101 joins20016 and costume1900957201 joins10148. A joined profile family does not create a chronology ladder or identify an unknown public actor. [IR10–IR14.]"
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 122,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 123,
+      "line_sha256": "c9dfeeff2dac938a326d7afb97ffd9ad729f2bcb6c769b4665d8633ab38d3767",
+      "line_text": "The written register places complaint, quiet competence, privacy, selected visits, birthdays, food preferences and future social intentions beside one another. It does not enact every Talk, UITalk, shop or Buy line as an independent scene. Event813/10813/900813 identities remain distinct records rather than three acted parties. Day and condition controls are source parameters, not a Main calendar. The event860 first-year/honor-student mistake is written testimony/self-presentation, not an independently observed mistaken-identity event. A Buy thank-you does not establish completed purchase, delivery or use. [IR10–IR13.]"
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 124,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 125,
+      "line_sha256": "db35ce9f06f65dbc1daf0e05e45c0900bc69efe6c3886049a28acb75e370c042",
+      "line_text": "Locale and actor seams change permissible claims. Swimsuit003u26/raw246896 projects a vendor where raw text-bearing staging has Iroha's ordering line. Base005 scene002u4/u11 andu10 differ between shopkeeper and Iroha layers. Base006's first group is Japanese formal but Korean inward; swimsuit005u69–80 and base006u45–51/u53–58 are generic timed logs with empty-person narration, not secure named performed speech. The repeated literal choices remain separate options. Public C1E001u72–74 self-reference as Makoto and G190scene003u58 similarly prevent a context-driven secure Iroha endorsement. [IR02,IR03,IR07,IR08,IR14; IR-CMP; M2C1E001; G190.]"
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 126,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 127,
+      "line_sha256": "74c044367aba9d1a318b2ac56a91aff778c5e3bb70937fde347f51fec5b4cd6f",
+      "line_text": "JP/KR differences remain local: beach posture and tube use, proposed escape versus living together, payment protest versus own-share acceptance, shopping duration, return clauses, work-completion wording and Ibuki-refuge exclusivity. Korean's explicit body-contact costume wording is not inserted into Japanese's more ambiguous wording. Neither produces an independently observed intimate act. Voice IDs, sound cues, text requests and durations add no inspected audio, animation or performed delivery. This is a literary textual synthesis; written register and performed voice retain different evidential conditions. [IR01–IR14; IR-CMP.]"
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 128,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 129,
+      "line_sha256": "e6ccf3dee9f30a21f9cbd13722a764e4a19705ebbff309a3d990859f3d41d4dc",
+      "line_text": "## 10. Competing readings and the evidence that resists them"
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 130,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 131,
+      "line_sha256": "6b524b9e2ae522e8399077d18d2b577400791d417c66bbdb334a6d738f74bc11",
+      "line_text": "A laziness-centered reading has genuine evidence: work avoidance, official pretexts, pleasure when burdens move elsewhere and resentment of assignment. Its contrary evidence is not merely a good intention. She helps finish work, cleans, directs equipment tasks and coordinates a risky coalition while naming uncertainty. It cannot explain those endpoints by treating all useful action as an exception that means nothing. A duty-centered reading makes the reverse error, treating rest as a defect eventually redeemed by productivity. The concrete pleasure of books, a breeze and selected company is sufficient reason to retain it. [IR01–IR09; MINI120; E860:019,021; M2C2E016,E018.]"
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 132,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 133,
+      "line_sha256": "9a4db408e26460be441be69dfed66c7e406d6b2a21c157f1a807bfd5e00c25aa",
+      "line_text": "A selfless protector reading draws on provision for Ibuki, fatigue recognition, practical help, Makoto's rescue and the personal appeal. G190's punitive use of cocoa and falling is a serious contrary case, as are secrecy, recruitment pretexts and shifting burdens. Concern for Ibuki has positive literary content and can still be used unfairly. Ibuki's independent decision to stay with Makoto further defeats a claim that care gives Iroha authority to determine the child's answer. The better account keeps beneficial acts and the costs of methods together, without global moral acquittal. [IR05–IR07; G190; M2C2E011; E860:010–013.]"
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 134,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 135,
+      "line_sha256": "30d223946b6f1df7af1d66cce1cbc8dbb4d030d71707ea1da3bbd624089e8c14",
+      "line_text": "A disillusionment narrative might arrange private refuge, institutional disappointment, resignation and rescue into a linear transformation. Main E005–E019 supports a local crisis sequence, but no source bridge dates every private or Event860 encounter around it. Even within the Main ending, formal personnel status, restitution and future duties are not completed. The claim of a stable conversion therefore exceeds the printed sequence. A freedom reading is defensible at the level of chosen answers and refusal, while reciprocity requires examining Iroha's own punitive and evasive acts. [IR-CMP; E860:004,016–027; M2C2E005,E011,E018,E019.]"
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 136,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 137,
+      "line_sha256": "fc16edda243274f24690457837708c5277b501b0a00861b6eade1a74293d2e58",
+      "line_text": "A romance or exclusive-dependence reading may appeal to invitations, future cohabitation wording, beach company and refuge language. Its limits are the outsider's label, prospective grammar, locale differences, particular refusals and independently wanted solitude. A pure-comedy reading may use those same limits to dismiss company or fatigue as inconsequential. Both lose actual dinner, shared reading, help, selective access and the possible new association of the repurchased book. Those ordinary acts matter even without certifying romance, lifelong dependence or a clinical explanation. [IR02–IR11; IR-CMP.]"
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 138,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 139,
+      "line_sha256": "35e7ac11a96dc9fa3e6883f42bb8abc7bbd4e7c1f8aa209c5f40ab17e684dfaf",
+      "line_text": "A competence-as-causality reading might make Iroha's coordination explain the entire recovery or treat Toramaru, a successful cannon shot and technical vocabulary as certification. E016's own three failure modes, E018's concurrent signal and personal interventions, Event860's untested weapon assumption and the independent collaborators resist that conclusion. Her represented work is substantial without a mechanism model. A harmless-subordinate reading then fails in the other direction: reluctance does not erase the punitive audit, and a public break does not complete accountability. The account remains strongest when it preserves the local power of her actions and their exact limits. [G190; E860:008–010; M2C2E016,E018,E019.]"
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 140,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 141,
+      "line_sha256": "4375d368891cf88ee093e4de81590452915ddae6340ca9ed4722ddc2ac0aa839",
+      "line_text": "## 11. Evidence register, fourteen open gaps and completion boundary"
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 142,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 143,
+      "line_sha256": "f97c66ca50204fee36fc2064ee633d7019952a0275426a9ded75301f33470244",
+      "line_text": "IR01–IR04 are the complete effective paired arguments for10148:002/003/005/006 and whole linked MM101480010/120/240/320. IR05–IR09 cover20016:002/003/005/006/015 and whole linked MM200160010/050/080/170/240. IR10/IR11 are both complete profile/normal-written arguments; IR12/IR13 are exact costume-written objects1900904101→20016 and1900957201→10148; IR14 is the complete family checkpoint. IR-CMP is the whole13,985-byte effectiveV2 private/Main/G190 comparison. Every effective private body and comparator is personally received through EOF. Their22 complete primary sources and11 auxiliaries are attributed accepted producer scope, with no new primary/native/raw/schema/execution credit for this monograph. Current G20/Cycle008 qualified admission governs historical UNADMITTED/pending wrappers and obsolete frontier language."
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 144,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 145,
+      "line_sha256": "0b45af5097089a6d72627d9a02a38c27153ac0329b6f851962bc837c44dca07c",
+      "line_text": "Complete personally received public arguments are reused at preserved exact scopes: G190, MINI32, S2 working/C1/C2, Event833/835/860, Final working, V3 working/C3/C4 and the consequential small Eden, Final and Main owners listed in the separate receipts. Fresh whole small S2C2E005/E013/E016 resolve resignation, actual confinement context and the rescue plan; E013 provides recipient/institution context without Iroha appearance credit. Event860's27 complete meanings retain actual rescue/compensation and retrospective dream qualifications. Event813 costume material is received as complete written argument, not automatic whole-event meaning. Source integrity, exact saved paragraphs, actual whole-versus-selected custody and prior immutable payload preservation are bound separately. Nine unbound large files remain untouched."
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 146,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 147,
+      "line_sha256": "af24fe7c5704b17ce3d5c9841f3b81151bd61886924f4a7078f62fc607cf2835",
+      "line_text": "| Gap | Status and claim-specific limit |"
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 148,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 163,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 152,
+      "canonical_line": 184,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 153,
+      "canonical_line": 185,
+      "line_sha256": "d1524f47986095f4e583e67c97956e73b55ec27cbd058bad85eb8eee58350acd",
+      "line_text": "Directed Iroha–Sensei/Makoto/Ibuki/Chiaki/Satsuki relationships, Pandemonium ensemble, institutional labor/permission/budget/accountability analysis, written-register work and the remaining eligible cast remain separate mandatory Phase3 responsibilities within355/29. The monograph supplies no automatic completion of those homes. Chosen refuge, independent answers and wanted ordinary company remain intrinsic objects of that later analysis."
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        3
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: character_monograph_candidate"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        6,
+        6
+      ],
+      "canonical_lines": [
+        5,
+        4
+      ],
+      "frozen_text": [
+        "status: LOCAL_CANDIDATE_ROOT_RECEIVING_ADOPTION_PENDING"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        13,
+        13
+      ],
+      "canonical_lines": [
+        11,
+        11
+      ],
+      "frozen_text": [
+        "current_control_reference: \"ROOT V3 required-home partition355/29; source branch92184703994a1950a5660654ce52d8516dbe9bf5; actual mutable metadata captured separately\""
+      ],
+      "canonical_text": [
+        "historical_author_current_control_reference: \"ROOT V3 required-home partition355/29; source branch92184703994a1950a5660654ce52d8516dbe9bf5; actual mutable metadata captured separately\""
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        20,
+        19
+      ],
+      "canonical_lines": [
+        18,
+        30
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IROHA_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "canonical_publication_base: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        23,
+        22
+      ],
+      "canonical_lines": [
+        34,
+        35
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_IROHA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_IROHA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative after complete ROOT installation. All fourteen original gaps remain OPEN at their claim-specific boundaries. The355-package/29-section scope and existing responsibilities are unchanged. The prior54-package source publication is `5f0a24b56557f308e9cef31c7d1c2d58406ef49a`; ROOT’s successful actual exact-head source/housekeeping/final chain is preserved separately as predecessor proof. This preparation supplies no successor adoption, publication, main integration, quarter, model or performed evidence before complete ROOT installation. Frozen author/control/progress snapshots retain their dated meaning."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        136,
+        149
+      ],
+      "canonical_lines": [
+        149,
+        162
+      ],
+      "frozen_text": [
+        "| G01 | OPEN — books, snacks, shops, beach rest, breeze and company are intrinsic; no exhaustive lifetime hobby inventory or frequency follows. |",
+        "| G02 | OPEN — concern, aid, refusal and particular assent retain independent recipient answers; universal permission, exclusivity and motive are unproved. |",
+        "| G03 | OPEN — Pandemonium representation, commissions and coalition coordination do not establish a full legal office, completed recruitment, approved funding transfer or permanent command charter. |",
+        "| G04 | OPEN — local Main crisis sequence is retained; variant, unlock and event order do not date a single private/public maturation or conversion ladder. |",
+        "| G05 | OPEN — vendor/shopkeeper projections, generic logs, inward/formal choices and public tag drift constrain actor claims; no secure speech promotion from context alone. |",
+        "| G06 | OPEN — JP/KR duration, posture, payment, escape/cohabitation, return, completion, contact and Ibuki-exclusivity differences remain separate. |",
+        "| G07 | OPEN —101 normal and73 event written rows retain conditions; birthday, seasonal, kinder-treatment, purchase and visit possibilities are not all acted encounters. |",
+        "| G08 | OPEN — no performed voice, music, image, animation, acoustic signal or intimate act is verified by textual cues, IDs or duration metadata. |",
+        "| G09 | OPEN — fatigue, weak responses, personal distress and participant burden claims do not certify a diagnosis, cure or a complete injury/health audit. |",
+        "| G10 | OPEN — coordination, signal, appeal and rescue retain literary force; individual causal effects, frequency, device installation and empirical Toramaru/weapon capacity remain unresolved. |",
+        "| G11 | OPEN — remembered reading origins, Emperor legacy, unknown logs and dream/participant historical deductions do not authenticate a complete chronology, staff identity or person chain. |",
+        "| G12 | OPEN — completed reading, dinner, outing/return, work, cleaning, rescue and boat compensation differ from pending patrol/AC repair/chair report, future visits, escape, universal apology and restitution. |",
+        "| G13 | OPEN — current admission and ROOT-qualified accepted arguments differ from historical firstness/independence UNKNOWN; another reader's primary and execution credit does not transfer. |",
+        "| G14 | OPEN — no model, forecast, diagnostic, denominator, milestone, source admission, capacity, installation, publication or merge promotion follows from this candidate. |"
+      ],
+      "canonical_text": [
+        "| L01 | OPEN — books, snacks, shops, beach rest, breeze and company are intrinsic; no exhaustive lifetime hobby inventory or frequency follows. |",
+        "| L02 | OPEN — concern, aid, refusal and particular assent retain independent recipient answers; universal permission, exclusivity and motive are unproved. |",
+        "| L03 | OPEN — Pandemonium representation, commissions and coalition coordination do not establish a full legal office, completed recruitment, approved funding transfer or permanent command charter. |",
+        "| L04 | OPEN — local Main crisis sequence is retained; variant, unlock and event order do not date a single private/public maturation or conversion ladder. |",
+        "| L05 | OPEN — vendor/shopkeeper projections, generic logs, inward/formal choices and public tag drift constrain actor claims; no secure speech promotion from context alone. |",
+        "| L06 | OPEN — JP/KR duration, posture, payment, escape/cohabitation, return, completion, contact and Ibuki-exclusivity differences remain separate. |",
+        "| L07 | OPEN —101 normal and73 event written rows retain conditions; birthday, seasonal, kinder-treatment, purchase and visit possibilities are not all acted encounters. |",
+        "| L08 | OPEN — no performed voice, music, image, animation, acoustic signal or intimate act is verified by textual cues, IDs or duration metadata. |",
+        "| L09 | OPEN — fatigue, weak responses, personal distress and participant burden claims do not certify a diagnosis, cure or a complete injury/health audit. |",
+        "| L10 | OPEN — coordination, signal, appeal and rescue retain literary force; individual causal effects, frequency, device installation and empirical Toramaru/weapon capacity remain unresolved. |",
+        "| L11 | OPEN — remembered reading origins, Emperor legacy, unknown logs and dream/participant historical deductions do not authenticate a complete chronology, staff identity or person chain. |",
+        "| L12 | OPEN — completed reading, dinner, outing/return, work, cleaning, rescue and boat compensation differ from pending patrol/AC repair/chair report, future visits, escape, universal apology and restitution. |",
+        "| L13 | OPEN — current admission and ROOT-qualified accepted arguments differ from historical firstness/independence UNKNOWN; another reader's primary and execution credit does not transfer. |",
+        "| L14 | OPEN — no model, forecast, diagnostic, denominator, milestone, source admission, capacity, installation, publication or merge promotion follows from this candidate. |"
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        151,
+        151
+      ],
+      "canonical_lines": [
+        164,
+        183
+      ],
+      "frozen_text": [
+        "Adequate complete accepted arguments resolve the consequential mode, direction and endpoint questions needed for the claims actually made. No fresh primary recovery is necessary at this bounded literary scope. Stronger calendar, mechanical, clinical, identity, universal-consent, romance or future-completion claims would need specific additional evidence. Independent ROOT whole saved receiving, exact source/paragraph verification and canonical adoption remain pending; the author neither accepts nor counts the candidate."
+      ],
+      "canonical_text": [
+        "The preserved table above is a **local limit index L01–L14**, retaining every original local-limit observation. It does not redefine the stable series IDs. The following complete stable original G01–G14 dispositions come from the separately ROOT-accepted [alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_IROHA_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md). All fourteen remain OPEN; relabeling and explicit alignment add no source, literary or count credit.",
+        "",
+        "| Stable original gap | Status | Claim-specific contribution and remaining warrant |",
+        "|---|---|---|",
+        "| G01 — Ordinary and private breadth | OPEN | Books, snacks, shops, beach rest, breeze and chosen company remain intrinsic ends. Actual reading, dinner, work and cleaning have local endpoints; anticipated visits and future association remain prospective. The selected family does not establish exhaustive lifetime tastes or an invariant psychology. Local L01/L12 remain. |",
+        "| G02 — Yuuka council/club decision transfer | OPEN | Pandemonium representation, commissions and coalition coordination supply no Yuuka council/club decision envelope, universal mercy, privacy rule or lasting security result. Yuuka’s own situated evidence is necessary; Iroha’s competence cannot discharge that separate stronger claim. |",
+        "| G03 — Serika service, peer and reciprocity range | OPEN | Wanted food, shopping, work and help do not establish Serika’s customer, peer, wage or private-recipient range. Iroha’s particular company supplies no Serika romance or work-afterstate by analogy. |",
+        "| G04 — Hina crisis causality, accountability and ordinary contrast | OPEN | Iroha’s coordination, rescue and refusal contribute situated public comparison. They do not settle Hina’s NK Ultra causal allocation, affected-student redress, restitution or durable institutional repair. Kind care and useful action cannot replace missing accountability outcomes. |",
+        "| G05 — Arius and PS68 ordinary/aftermath transfer | OPEN | Public collaboration and rescue have their stated literary scope. They certify no Arius or PS68 trauma cure, permanent livelihood/security, legal absolution or completed aftermath. Their independent ordinary choices and continuing costs require their own sources. |",
+        "| G06 — Cross-school ordinary repertoire | OPEN | Reading, rest, aid, refusal and selected company broaden ordinary repertoire. Particular assent and reciprocity do not establish an all-school norm, universal permission, exclusive relationship or complete peer motive. Independent recipients remain; local L02 retains its limits. |",
+        "| G07 — Story-world chronology | OPEN | The printed S2 crisis order supports a local resignation/choice/coordination/rescue sequence. Variant, unlock, release and event order do not locate every private scene around it or establish a maturation ladder. Event860’s retrospective dream conditions remain local. Local L04/L11 remain. |",
+        "| G08 — Event naming and repeat contexts | OPEN | Literal event/source IDs and written costume routes remain distinct. Event813 costume material is written evidence, not automatic whole-event meaning. Missing overarching titles, repeat identities or additional enacted reruns are not supplied from labels or release contexts. |",
+        "| G09 — Written speaker/choice attribution | OPEN | Vendor/shopkeeper projections, generic logs, inward/formal choices and public tag drift constrain individual speech and knowledge. JP/KR duration, payment, contact and prospective grammar stay distinct; no all-option runtime or silent actor repair follows. Local L05/L06 remain. |",
+        "| G10 — Performed voice | OPEN | Written voice IDs, music, photographs reported in text, duration fields and scene cues provide no heard audio, pixels, animation, acoustic continuity or performed intimacy. Local L08 remains. |",
+        "| G11 — Hoshino's Yume record and office states | OPEN | Remembered reading origins, Emperor legacy and dream/participant deductions authenticate no Hoshino/Yume notebook or death record, full causality or lasting stabilization. Their different office states remain separately sourced; local history cannot substitute for missing records. |",
+        "| G12 — Counterpart, system and variant identity | OPEN | Positive20016/10148/profile/costume joins retain their actual confidence. Unknown logs, anonymous staff, retrospective dream actors and historical deductions do not authenticate a global person/body/control chain or a new variant chronology. Local L03/L11 remain. |",
+        "| G13 — Office, contract, safety and technical outcomes | OPEN | Actual work, cleaning, rescue and boat compensation differ from approved funding transfer, legal office/command charter, permanent recruitment, patrol/AC repair/chair report, universal apology and completed restitution. Fatigue and technical coordination certify no clinical cure or empirical safe capacity. Local L03/L09/L10/L12 remain. |",
+        "| G14 — Unclassified/mode continuity | OPEN | The declared complete private/written and public analytical scopes retain their source modes. Conditional birthday, seasonal, purchase and visit language is not all enacted encounter. Unclassified, special and other mini material is neither silently admitted nor discarded; local L07/L13/L14 retain actual custody and no-promotion limits. |",
+        "",
+        "Adequate complete accepted arguments resolve the consequential mode, direction and endpoint questions needed for the claims actually made. No fresh primary recovery is necessary at this bounded literary scope. Stronger calendar, mechanical, clinical, identity, universal-consent, romance or future-completion claims would need specific additional evidence. ROOT independently received the whole saved character argument, verified its exact bindings and accepted its complete boundary WITH LIMITS. The separately accepted stable-gap alignment qualifies the historical local table; canonical persistence follows complete ROOT installation. The author did not accept or count the original candidate."
+      ]
+    }
+  ],
+  "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+  "terminal_LF_preserved": true,
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-IROHA",
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "GEHENNA_PANDEMONIUM_MONOGRAPHS/BLUE_ARCHIVE_IROHA_CHARACTER_MONOGRAPH.md",
+      "bytes": 35273,
+      "sha256": "1d057c903ba1803b4490f598527d6d56c6e8ec1bc280fbe854bc28a41ac03f51",
+      "git_blob_oid_of_actual_bytes": "e0ff4f6bdda107208d618ab9fef6f20131a51654",
+      "lines": 153,
+      "immutable_transport_path": "immutable_originals/GEHENNA_PANDEMONIUM_MONOGRAPHS/BLUE_ARCHIVE_IROHA_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "ROOT_IROHA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5954,
+      "sha256": "3a96dcba90b562214a165526627b5deb5ac743dcca06b9d26607ea232856b8d3",
+      "git_blob_oid_of_actual_bytes": "0f6d0136f6760def9b322b59aa5b430aee7dbfab",
+      "lines": 67,
+      "immutable_transport_path": "immutable_originals/ROOT_IROHA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "GEHENNA_PANDEMONIUM_MONOGRAPHS/IROHA_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 139058,
+      "sha256": "ab08b598b15a7965197dc19941b24e731c3caa8ded0a9346f9a8736f3b2736de",
+      "git_blob_oid_of_actual_bytes": "7a8485e2e627dd8135741261a9a16cc7c0c97bd7",
+      "lines": 2400,
+      "immutable_transport_path": "immutable_originals/GEHENNA_PANDEMONIUM_MONOGRAPHS/IROHA_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "GEHENNA_PANDEMONIUM_MONOGRAPHS/IROHA_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 15791,
+      "sha256": "57db1901a0fb39af5a20a417dcfacc8c6dcaf2fe58d7fdbb1415571868cb8d0e",
+      "git_blob_oid_of_actual_bytes": "da1660aa53c473e28c0f65154f2f321a2e179708",
+      "lines": 88,
+      "immutable_transport_path": "immutable_originals/GEHENNA_PANDEMONIUM_MONOGRAPHS/IROHA_MONOGRAPH_RECEIVING_RECEIPT.md"
+    },
+    {
+      "path": "GEHENNA_PANDEMONIUM_MONOGRAPHS/IROHA_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 3879,
+      "sha256": "db423cf59a999ed1338ecaf5c82f7d9fa642e4aee4ce0d4a4a358a0768616450",
+      "git_blob_oid_of_actual_bytes": "dbe1ac39b743417d231df1e5874dd8a84f70d4da",
+      "lines": 53,
+      "immutable_transport_path": "immutable_originals/GEHENNA_PANDEMONIUM_MONOGRAPHS/IROHA_CURRENT_WORKTREE_METADATA_PROBE.json"
+    },
+    {
+      "path": "GEHENNA_PANDEMONIUM_MONOGRAPHS/IROHA_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 2854,
+      "sha256": "98e7f349fd7e4698051498c243fc8563bc28591215bae6939919d61421ce0462",
+      "git_blob_oid_of_actual_bytes": "ed59695fef58d6a7d4705e575d7dbf72958f9075",
+      "lines": 61,
+      "immutable_transport_path": "immutable_originals/GEHENNA_PANDEMONIUM_MONOGRAPHS/IROHA_FROZEN_DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "ROOT_IROHA_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1/IROHA_STABLE_ORIGINAL_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "bytes": 10380,
+      "sha256": "1450d65284f3fbfe9afbf77f0715fe04fe24ef1a7debedfe802e93481d1a43cb",
+      "git_blob_oid_of_actual_bytes": "cc2404bc191a9d90ba89c2d686b36bf8b2e2afa8",
+      "lines": 59,
+      "immutable_transport_path": "immutable_originals/ROOT_IROHA_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1/IROHA_STABLE_ORIGINAL_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+    },
+    {
+      "path": "ROOT_IROHA_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1/IROHA_GAP_ALIGNMENT_FREEZE_MANIFEST_V1.json",
+      "bytes": 3273,
+      "sha256": "8ad255d261a82a77ffac4ff2a46d9e840a3f8f6b3eb89352e606a0808ea16e72",
+      "git_blob_oid_of_actual_bytes": "596a686cdf7889dd429f1b017d77b13d1b4a033e",
+      "lines": 66,
+      "immutable_transport_path": "immutable_originals/ROOT_IROHA_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1/IROHA_GAP_ALIGNMENT_FREEZE_MANIFEST_V1.json"
+    },
+    {
+      "path": "ROOT_IROHA_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1/IROHA_STABLE_ORIGINAL_GAP_ALIGNMENT_RECEIVING_AND_PROOF_V1.json",
+      "bytes": 15108,
+      "sha256": "a98bcf0ecbb8a928e75f38e811059353720b6205d458c416645f52da19561aca",
+      "git_blob_oid_of_actual_bytes": "2104d8c53c818eb596141c6151d2a5a8a4efb62a",
+      "lines": 295,
+      "immutable_transport_path": "immutable_originals/ROOT_IROHA_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1/IROHA_STABLE_ORIGINAL_GAP_ALIGNMENT_RECEIVING_AND_PROOF_V1.json"
+    },
+    {
+      "path": "ROOT_IROHA_STABLE_GAP_SUPPLEMENT_ACCEPTANCE_V1.json",
+      "bytes": 1784,
+      "sha256": "9ee2e797c2e1cb49796c5f08fdedbf569aada594f3b6860b4e96b013d535e6c1",
+      "git_blob_oid_of_actual_bytes": "13c5f18271a240fe87a85d95c4f33516bd1f87b6",
+      "lines": 26,
+      "immutable_transport_path": "immutable_originals/ROOT_IROHA_STABLE_GAP_SUPPLEMENT_ACCEPTANCE_V1.json"
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_IROHA_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_IROHA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only current authority framing/frontmatter, full stable original-gap alignment where necessary and optional retrieval H1 change. All literary claims, original source boundaries, wants, recipient ends and contrary evidence remain. Every frozen original line/byte is recoverable exactly.",
+  "stable_original_gap_alignment": {
+    "public_body": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_IROHA_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+    "public_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_IROHA_STABLE_GAP_ALIGNMENT_SUPPLEMENT_RECEIPT_V1.json",
+    "original_alignment_exact_tuple": {
+      "path": "ROOT_IROHA_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1/IROHA_STABLE_ORIGINAL_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "bytes": 10380,
+      "sha256": "1450d65284f3fbfe9afbf77f0715fe04fe24ef1a7debedfe802e93481d1a43cb",
+      "git_blob_oid_of_actual_bytes": "cc2404bc191a9d90ba89c2d686b36bf8b2e2afa8",
+      "lines": 59,
+      "immutable_transport_path": "immutable_originals/ROOT_IROHA_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1/IROHA_STABLE_ORIGINAL_GAP_ALIGNMENT_SUPPLEMENT_V1.md"
+    },
+    "current_alignment_exact_tuple": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_IROHA_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+      "bytes": 11115,
+      "sha256": "b5bab5fb1a1a4a068a5dd007ecffa08bbb7e3c36ef8288586319ab7f088bba03",
+      "git_blob_oid_of_actual_bytes": "abf4d71b9c09992198a924973fb541500b991922",
+      "lines": 61
+    },
+    "original_alignment_attachment_tuples": [
+      {
+        "path": "ROOT_IROHA_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1/IROHA_GAP_ALIGNMENT_FREEZE_MANIFEST_V1.json",
+        "bytes": 3273,
+        "sha256": "8ad255d261a82a77ffac4ff2a46d9e840a3f8f6b3eb89352e606a0808ea16e72",
+        "git_blob_oid_of_actual_bytes": "596a686cdf7889dd429f1b017d77b13d1b4a033e",
+        "lines": 66,
+        "immutable_transport_path": "immutable_originals/ROOT_IROHA_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1/IROHA_GAP_ALIGNMENT_FREEZE_MANIFEST_V1.json"
+      },
+      {
+        "path": "ROOT_IROHA_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1/IROHA_STABLE_ORIGINAL_GAP_ALIGNMENT_RECEIVING_AND_PROOF_V1.json",
+        "bytes": 15108,
+        "sha256": "a98bcf0ecbb8a928e75f38e811059353720b6205d458c416645f52da19561aca",
+        "git_blob_oid_of_actual_bytes": "2104d8c53c818eb596141c6151d2a5a8a4efb62a",
+        "lines": 295,
+        "immutable_transport_path": "immutable_originals/ROOT_IROHA_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1/IROHA_STABLE_ORIGINAL_GAP_ALIGNMENT_RECEIVING_AND_PROOF_V1.json"
+      },
+      {
+        "path": "ROOT_IROHA_STABLE_GAP_SUPPLEMENT_ACCEPTANCE_V1.json",
+        "bytes": 1784,
+        "sha256": "9ee2e797c2e1cb49796c5f08fdedbf569aada594f3b6860b4e96b013d535e6c1",
+        "git_blob_oid_of_actual_bytes": "13c5f18271a240fe87a85d95c4f33516bd1f87b6",
+        "lines": 26,
+        "immutable_transport_path": "immutable_originals/ROOT_IROHA_STABLE_GAP_SUPPLEMENT_ACCEPTANCE_V1.json"
+      }
+    ],
+    "local_limit_ids": "L01–L14",
+    "stable_series_ids": "G01–G14",
+    "all14": "OPEN_UNCHANGED",
+    "new_completion_credit": 0
+  },
+  "immutable_ROOT_count_cause_qualification": null,
+  "mandatory_private_semantic_erratum_public_projection": null,
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "section_parent_homes": 18,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_primary_performance_or_independent_literary_credit": 0,
+  "other_required_package_completion": false
+}

@@ -28,7 +28,7 @@
  ],
  "main43_retrieval_witnesses": "COMPLETE_ARGUMENT_AND_SOURCE_SCOPED_DISPOSITION_ACCEPTED_WITH_LIMITS",
  "quarter_reached": false,
- "progress_percentage": "NOT_REPORTED;54fixedsevenpackagepublicationbatchafterROOTinstallation;noquarter;laterliveROOTacceptancesseparate",
+ "progress_percentage": "NOT_REPORTED;63fixedninepackagepublicationbatchafterROOTinstallation;noquarter;laterliveROOTacceptancesseparate",
  "opening_candidate_responsibility_rows": 761,
  "new_source_local_or_non_character_headers": 27,
  "completed_owner_roster_reviews": 105,
@@ -48,7 +48,7 @@
   "P3-XMI-R001"
  ],
  "initial_761_still_pending_rows": 0,
- "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29ACCEPTED_WITH_LIMITS;54SEVEN_PACKAGE_PUBLICATION_SNAPSHOT_ONLY_AFTER_INSTALL",
+ "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29ACCEPTED_WITH_LIMITS;63NINE_PACKAGE_PUBLICATION_SNAPSHOT_ONLY_AFTER_INSTALL",
  "accepted_literary_character_packages": [
   "Asuna",
   "Toki",
@@ -102,7 +102,16 @@
   "Chinatsu",
   "Makoto",
   "Ibuki",
-  "Satsuki"
+  "Satsuki",
+  "Iroha",
+  "Maki",
+  "Sena",
+  "Chiaki",
+  "Kirara",
+  "Utaha",
+  "Hibiki",
+  "Erika",
+  "Kotori"
  ],
  "millennium_v2_eligibility_arguments_adopted": [
   "Akane",
@@ -128,9 +137,9 @@
   "P3-XMI-R004",
   "P3-XMI-R005"
  ],
- "package_tracking_rows": 85,
- "completed_literary_packages": 54,
- "completed_literary_character_packages": 53,
+ "package_tracking_rows": 90,
+ "completed_literary_packages": 63,
+ "completed_literary_character_packages": 62,
  "completed_literary_directed_relationship_packages": 1,
  "accepted_literary_directed_relationship_packages": ["Noa–Yuuka: privacy, memory and wanted company"],
  "historical_pre_full_scope_frontier": {
@@ -172,8 +181,8 @@
   "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_DISPOSITIONS_PART_02_V3.json"
  ],
  "required_package_index_rows": 355,
- "legacy_package_tracking_rows": 85,
- "canonical_persistence_qualification": "47 literary packages (46 character,1 directed relationship) and Hina named section were source-published at92184703994a1950a5660654ce52d8516dbe9bf5; ROOT verified the exact source audit, no-op housekeeping and actual final exact-head integration audit. Seven new accepted character packages (Kasumi, Meg, Kotama, Chinatsu, Makoto, Ibuki, Satsuki) receive persistence only after complete ROOT installation, producing the fixed54-package publication snapshot (53 character,1 directed) and1of29 named sections. Later live ROOT acceptances are excluded; source publication and all main integration remain separate. Kasumi includes its mandatory separate public-context supplement. Ibuki’s two named directions share one existing ensemble; broader Ibuki/Chinatsu analytical duties create no counted home.",
+ "legacy_package_tracking_rows": 90,
+ "canonical_persistence_qualification": "54 literary packages (53 character,1 directed relationship) and Hina named section are source-published at5f0a24b56557f308e9cef31c7d1c2d58406ef49a. ROOT’s successful actual source/housekeeping/final exact-head chain is preserved separately as exact predecessor proof; successor adoption and publication remain pending. Nine new already ROOT-accepted character packages (Iroha, Maki, Sena, Chiaki, Kirara, Utaha, Hibiki, Erika, Kotori) persist only after complete ROOT installation, giving the fixed63-package snapshot (62 character,1 directed) and1of29 named sections. Later live ROOT acceptances are excluded. Seven accepted older stable-gap associations add no package or source completion. Iroha/Chiaki retain the stable-original/local-limit distinction; Chiaki’s count-cause qualification and Kirara’s distinct count populations remain explicit.355/29,18section-home allocations and all14OPEN are unchanged; source publication and main integration remain separate.",
  "source_units_in_selected_public_census": 1107,
  "literal_source_local_header_routes": 8326,
  "literal_choice_routes": 742,
