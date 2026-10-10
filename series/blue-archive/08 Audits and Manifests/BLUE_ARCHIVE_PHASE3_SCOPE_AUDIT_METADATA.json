@@ -28,7 +28,7 @@
  ],
  "main43_retrieval_witnesses": "COMPLETE_ARGUMENT_AND_SOURCE_SCOPED_DISPOSITION_ACCEPTED_WITH_LIMITS",
  "quarter_reached": false,
- "progress_percentage": "NOT_REPORTED;36fixedbatchpackagesafterROOTinstallation;noquarter",
+ "progress_percentage": "NOT_REPORTED;43fixedbatchpackagesafterROOTinstallation;noquarter",
  "opening_candidate_responsibility_rows": 761,
  "new_source_local_or_non_character_headers": 27,
  "completed_owner_roster_reviews": 105,
@@ -48,7 +48,7 @@
   "P3-XMI-R001"
  ],
  "initial_761_still_pending_rows": 0,
- "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29ACCEPTED_WITH_LIMITS;36BATCHLITERARYPACKAGES_ONLY_AFTER_INSTALL",
+ "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29ACCEPTED_WITH_LIMITS;43BATCHLITERARYPACKAGES_ONLY_AFTER_INSTALL",
  "accepted_literary_character_packages": [
   "Asuna",
   "Toki",
@@ -85,7 +85,13 @@
   "Neru",
   "Haruka",
   "Noa",
-  "Fuuka"
+  "Fuuka",
+  "Juri",
+  "Ako",
+  "Haruna",
+  "Izumi",
+  "Koyuki",
+  "Iori"
  ],
  "millennium_v2_eligibility_arguments_adopted": [
   "Akane",
@@ -111,8 +117,11 @@
   "P3-XMI-R004",
   "P3-XMI-R005"
  ],
- "package_tracking_rows": 72,
- "completed_literary_packages": 36,
+ "package_tracking_rows": 77,
+ "completed_literary_packages": 43,
+ "completed_literary_character_packages": 42,
+ "completed_literary_directed_relationship_packages": 1,
+ "accepted_literary_directed_relationship_packages": ["Noa–Yuuka: privacy, memory and wanted company"],
  "historical_pre_full_scope_frontier": {
   "eligible_package_denominator": "NOT_YET_FIXED; complete census adjudication required before progress thresholds",
   "owner_census_review_state": "8_COMPLETE_SCOPED_ROSTER_RECOVERIES_WITH_LIMITS;97_PENDING;INDEPENDENT_ALLOCATION_DEBTS_RETAINED",
@@ -152,8 +161,8 @@
   "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_DISPOSITIONS_PART_02_V3.json"
  ],
  "required_package_index_rows": 355,
- "legacy_package_tracking_rows": 72,
- "canonical_persistence_qualification": "21 packages were published at7489d76d96b232609f1cd16473173b6dc4ab0eee;15new ROOTaccepted packages receive persistence only after this complete derivative installation. New source publication and all main integration remain separate.",
+ "legacy_package_tracking_rows": 77,
+ "canonical_persistence_qualification": "36 character packages and Hina named section were published at1bb97d07f51773d028d044616fbc0dc2a6051b40 with the successful exact source/housekeeping/final audit chain; six new character packages and one Noa–Yuuka directed package receive persistence only after complete ROOT installation, producing43 packages (42 character,1 directed) and1of29 named sections. New source publication and all main integration remain separate.",
  "source_units_in_selected_public_census": 1107,
  "literal_source_local_header_routes": 8326,
  "literal_choice_routes": 742,

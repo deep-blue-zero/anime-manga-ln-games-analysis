@@ -1,0 +1,124 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Juri",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_JURI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_JURI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5614,
+    "sha256": "506732eaf7e2a87f2512040f8c90ca0825f896a659f03df95dbd0bab52537bf6",
+    "git_blob_oid_of_actual_bytes": "4133087775739d12f7047fa0b50f582260b0b418",
+    "lines": 84
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_JURI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "039b43abb7e85dbaa9f3bd8b94020eb18bdee128938c594a55da332b23760d00",
+    "frozen_outputs_verified": 4,
+    "prior_frozen_outputs_preserved": 61,
+    "exact_unique_binding_pairs_verified": 124,
+    "current_public_arguments_equal_main_and_c1": 19,
+    "effective_private_arguments": 11,
+    "separate_comparison_arguments": 1,
+    "fresh_complete_public_arguments": 2,
+    "reused_complete_public_arguments": 18,
+    "selected_private_objects_exact_verified": 17,
+    "saved_nonempty_lines_exact_verified": 127,
+    "historical_metadata_bindings": [
+      {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "ref": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "purpose": "Dated exact metadata only; not current after1bb97 publication"
+      },
+      {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "ref": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+        "purpose": "Dated exact metadata only; not current after1bb97 publication"
+      },
+      {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv",
+        "ref": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+        "purpose": "Dated exact metadata only; not current after1bb97 publication"
+      }
+    ],
+    "root_actual_receiving": {
+      "whole_saved_body": [
+        "71b612 lines1–100",
+        "932688 lines101–202EOF"
+      ],
+      "whole_readable_receipt": "8e74c1 whole58linesEOF",
+      "full_consequential_receipt_fields": [
+        "9579b1 complete controls excluding explicitly named arrays",
+        "d09b89 all11 private scope fields",
+        "6e8985 both fresh public scope fields",
+        "1af0e0 all18 reuse fields",
+        "0cba2c all5 bounded refresh fields",
+        "f780ca complete output manifest",
+        "412b16 complete dated metadata49linesEOF"
+      ],
+      "fresh_complete_accepted_arguments": [
+        "461d7b wholeJ02 contest41lines",
+        "75cb73 wholeJ03 publicity/parfait41lines",
+        "4e3285 wholeJ06 corrected soup41lines",
+        "e7bc0c wholeJ07 gardening/whole message41lines",
+        "f94c6a complete83-line corrected comparisonV2",
+        "80f39d whole73-line gift040",
+        "7d3f61 whole65-line MINI02020"
+      ],
+      "adequate_ROOT_existing_meaning": "Fuuka accepted6fee08 and declared whole/qualified scopes: G1602 including repair, MINI§8, completeE844 consequential ending. Others remain author-attributed personally complete receiving, not fresh ROOT whole-source credit.",
+      "limits": "No manual whole2152-line JSON narrative reading claimed. Exact bindings and saved joins are verification; complete saved literary argument and relevant meanings are independently ROOTreceived."
+    },
+    "semantic_grounds": [
+      "Juri wants cooking, shared pleasure, recognition and cultivation. Contest award/trophy/return, actual parfait, competent service, customer good taste, useful decoy and refusal-permitted final shared pancakes have finite positive endings. They are not erased by uneven capacity.",
+      "The last-ladle change and repeated final soup attempts remain unresolved. Continued effort, hand comfort and later particular success do not certify a final soup, permanent mastery or mechanism. Gardening is chosen alongside cooking, with its whole post-Schedule apology/self-report/future invitation and unexplained wait retained.",
+      "Bought first chocolate and handmade second are separate. Juri protective withholding, report of other tasters, explicit adult acceptance and actual fading consciousness retain both agency and risk. No chemical cause, death, cure or unshown rescue.",
+      "Iori fairly passes hygiene before harmful juice; her unresponsive state, later waking and F remain distinct from Izumi enjoyment. Juri sincere mistaken interpretation is not medical authority. Fuuka concealment proposal remains Fuuka own unenacted response.",
+      "Cafe chosen waitressing becomes pressured cooking after a separate chef accident. Customer pleasure precedes actual harm; Juri chosen decoy works within collective Hina/Sensei/responders agency. Final permission to refuse and shared food are real local progress, with workload, lost rest, victims and institutional repair unfinished.",
+      "Teaching visitors, privacy needs, ordinary ingredients, recipes, clothing and company are intrinsic evidence. Unclassified833 leads remain available/unadmitted; reported public prototype/rampage is no invented physical Juri role. G09 is comparison, not committee attendance.",
+      "Literal variants, JP/KR recipes/contact/quantity/endings, anonymous narration, Think/Talk, inward selections, formal alternatives and whole message tails remain distinct. No romance, steady calendar, clinical, work-certification, performance or food-person ontology follows."
+    ],
+    "root_new_primary_or_performance_credit": 0,
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope_reference": "Accepted355/29; Juri home unchanged; scope allocation supplies no literary completion",
+    "progress": {
+      "previous_ROOTaccepted_packages": 37,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 38,
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "published_packages": 36,
+      "quarter_reached": false
+    },
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "main_integration": "NONE",
+    "nine_unbound_large": "UNREAD_UNHASHED"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-JURI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_JURI_CHARACTER_MONOGRAPH.md",
+    "bytes": 44827,
+    "sha256": "203b27f1d917106c213bad3a4852b9a07911fd2fbef25992c83cd3c53458904f",
+    "git_blob_oid_of_actual_bytes": "3ba332e1b696178b521eba4244b81345b2ae6738"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "This local candidate proposes DEEP_SYNTHESIS at the architecture's eleven dimensions, pending ROOT independent whole-body/exact-receipt review and canonical adoption.",
+      "new": "ROOT independently received and accepted this complete eleven-dimension DEEP_SYNTHESIS literary monograph with limits; canonical persistence follows the complete ROOT installation.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    }
+  ]
+}
