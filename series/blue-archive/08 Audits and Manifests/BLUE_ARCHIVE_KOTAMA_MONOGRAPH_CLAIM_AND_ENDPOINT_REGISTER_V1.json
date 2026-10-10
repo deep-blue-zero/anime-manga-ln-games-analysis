@@ -1,0 +1,1266 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOTAMA_CHARACTER_MONOGRAPH.md",
+    "bytes": 52878,
+    "sha256": "2ecd9cf880d4b28ff971e576b3bee4ccbba8b96304ad597c099d6620484584fa",
+    "git_blob_oid_of_actual_bytes": "0d63460f0ba6ccd10c238cdde3152415ea1404e4"
+  },
+  "historical_frozen_claim_and_endpoint_register": {
+    "schema": "BLUE_ARCHIVE_PHASE3_KOTAMA_CLAIM_AND_ENDPOINT_V1",
+    "status": "AUTHOR_COMPLETE_ROOT_PENDING",
+    "candidate": {
+      "working_artifact_relative_path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/BLUE_ARCHIVE_KOTAMA_CHARACTER_MONOGRAPH.md",
+      "byte_count": 51230,
+      "line_count": 156,
+      "sha256": "bf01ee1ebe3b668b0578f364edb888efe3c6be1a6385e675a456235d00f5375f",
+      "actual_byte_blob_oid": "bb85ddfc9a62f6f28db63eb9b229c451a701b929"
+    },
+    "claims": [
+      {
+        "claim_id": "KT001",
+        "section": "1. Core thesis",
+        "saved_body_line": 25,
+        "sha256_utf8_line_no_terminator": "3051cce0e23bdb369edb5114e857364c6398c97d28cd936b8b415af89ad916f3",
+        "full_saved_paragraph": "Kotama's central tension is between listening as a wanted way of living and access as a claim upon other people. She wants the texture of café conversation, winter sound, the process of making fire, food and goods, a comforting voice and company in which she can speak less fearfully. Those wants are real literary ends. Their sincerity does not decide how she may obtain them. The complete repertoire repeatedly distinguishes invited listening from interception, voluntary disclosure from concealed devices, appreciation of a gift from agreement to its hidden contents, and shared pleasure from a recipient's surrendered right to refuse. Kotama is neither exhausted by the surveillance joke nor excused by the tenderness that often accompanies it. Her listening becomes most revealing when she is also a participant: a tired body accepting a hand, a maker whose fire does not catch, a hungry recorder unable to remove herself from the environment, or someone asking that her own disclosure be forgotten. [Private:complete nineteen-object account](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "Private:complete nineteen-object account",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT002",
+        "section": "1. Core thesis",
+        "saved_body_line": 27,
+        "sha256_utf8_line_no_terminator": "8bdf9919aa74127f57d565f0e43380c586a8eb7f4dda4473d0d7ee74b072554c",
+        "full_saved_paragraph": "The sources support an unstable, differentiated relation to knowledge rather than an ethical cure or a fixed progression from detached technician to intimate outdoor enthusiast. Kotama can accurately recognize falsification while participating in it; explain a frightening radio encounter while regretting the absence of ghosts; acquire partial information and interpret it disastrously; value an echo with a particular person while explicitly maintaining her general dislike. Such distinctions preserve competence and pleasure without converting either into universal authority. The necessary judgment concerns a particular action, explanation, recipient and ending. An actually enjoyed summit does not certify recording consent; a privacy lecture does not establish durable reform; central-processor access does not mean command of the vessel. [G1501–1503:complete contrary coda](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md) [FinalC003E006:u0048–0066](../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md)",
+        "source_anchors": [
+          {
+            "label": "G1501–1503:complete contrary coda",
+            "source_id": "G15",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          },
+          {
+            "label": "FinalC003E006:u0048–0066",
+            "source_id": "F36",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT003",
+        "section": "1. Core thesis",
+        "saved_body_line": 29,
+        "sha256_utf8_line_no_terminator": "e7b663fe74ad3db6684cb6fa68f8ea6a9b0466c293b845064012f34a40aa24d3",
+        "full_saved_paragraph": "This argument also gives Kotama's peers independent standing. Maki wants a different record of herself and recruits through a specific incentive; Hare wants test data and later recognizes a public destination; Chihiro defends systems and other people's information, yet has her own disputed authority over a camp; Noa confiscates a covert recorder while elsewhere pressing another student's privacy. Sensei enjoys company, offers practical help and sometimes chooses what to reveal, but also loses sleep, receives invasive demands, and becomes vulnerable to a recording bargain through his own neglected work. These are intersecting choices, not a single teacher-centered ladder of development. The ordinary sources matter because they show what each person wants and what another's help can cost. [E832:001–010](../../02%20Sequential%20Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md) [E842:003–015](../../02%20Sequential%20Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md)",
+        "source_anchors": [
+          {
+            "label": "E832:001–010",
+            "source_id": "E32",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          },
+          {
+            "label": "E842:003–015",
+            "source_id": "E42",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT004",
+        "section": "2. Longitudinal arc and legitimate ordering",
+        "saved_body_line": 33,
+        "sha256_utf8_line_no_terminator": "388ac9ab9f448214cb491251bfca6335f14e5673c9a8321bcf19a66ce8395080",
+        "full_saved_paragraph": "There is a genuine local sequence within the 10084 mountain encounters. The first whole message thread anticipates the next weekend and extended conversation; the second invokes the prior climb and ends by converting stamina improvement into more possible eavesdropping positions. The later retry explicitly recalls the failed fire, while the summit invitation recalls a noisy recording and earlier halfway returns. These callbacks justify comparison of successive local attempts. They do not establish a release-based development ladder across 10084 and 26001, date holiday contexts against MAIN, or make every costume reuse a fresh outing. The argument follows changing problems where the sources supply continuity and leaves the rest as a repertoire of contexts. [Private:10084:002/003/005/006 and whole100840010/090/160/220](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "Private:10084:002/003/005/006 and whole100840010/090/160/220",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT005",
+        "section": "2. Longitudinal arc and legitimate ordering",
+        "saved_body_line": 35,
+        "sha256_utf8_line_no_terminator": "951dc000cf34cc49d4831960f0849b5ff21bd4275686744d9832572f82f26f31",
+        "full_saved_paragraph": "In the first climb, Kotama expects other couples' tired dependence to yield valuable conversation, then switches toward Sensei's voice after objection to overhearing. Her own fatigue and offered hand change the collector's position. Warmth, scent and proximity become explicit distinctions from listening at a distance. She recognizes herself in the formula she had proposed, asks that the embarrassing disclosure be disregarded, and leaves quickly. That ending is achieved participation with a withdrawal, not stable permission for recording or unqualified relational success. The next trip's previous-climb reference does not erase the request to forget. It shows how a person can return to a wanted activity without resolving every conflict associated with the prior one. [10084:002u0015–0049;complete message preface](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "10084:002u0015–0049;complete message preface",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT006",
+        "section": "2. Longitudinal arc and legitimate ordering",
+        "saved_body_line": 37,
+        "sha256_utf8_line_no_terminator": "d6818222d9fcf8c6f22e5f5750ae2a400bf34196a7206b2411a5452153f1d0c9",
+        "full_saved_paragraph": "The fire and winter-walk pair changes the definition of success. Kotama values producing and collecting sound through the friction process, and resists matches even after bodily discomfort. More than an hour yields no fire. Accepted ordinary ignition and shared warmth are real endings; they do not rewrite the failed method as successful or prove a finished sound asset. The retry abandons forced control in favor of receptive attention to winter's particular sounds, yet an aspiration to eliminate all artificial elements encounters her own hungry stomach. Narrated shared eating and listening are achieved. The listener cannot remove herself from the situation she wants to record, and the scene allows that embodied presence to coexist with attention rather than treating food as merely a defeat. [10084:003u0013–0048/005u0001–0044 and whole100840090/160](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "10084:003u0013–0048/005u0001–0044 and whole100840090/160",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT007",
+        "section": "2. Longitudinal arc and legitimate ordering",
+        "saved_body_line": 39,
+        "sha256_utf8_line_no_terminator": "e0c30fe64e454582b0d11af027a7bb97fefd5aa7252bb3f2e1d1166cde7a402b",
+        "full_saved_paragraph": "The summit provides a selective exception. Exhaustion remains, her childhood teasing is self-reported rather than reconstructed history, and she rejects the suggestion that environmental variation will make her like echoes. Her later choice to enjoy Sensei's voice and their mixed sound at that place does not retract the refusal. They enjoy the particular summit and descend. In the separate 26001 repertoire, chosen fear disclosure, radio investigation, mistaken interception and record-shop pleasure illuminate other limits of listening without an established order relative to those mountain scenes. The later public camp similarly has local stages—ordered attendance, withheld plan, real shared activity, a genuine late continuation choice and a one-week epilogue—but does not complete a general outdoor conversion. [10084:006u0017–0044](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [E832:002/007–010](../../02%20Sequential%20Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md)",
+        "source_anchors": [
+          {
+            "label": "10084:006u0017–0044",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "E832:002/007–010",
+            "source_id": "E32",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT008",
+        "section": "3. Public self, private self, and control over interpretation",
+        "saved_body_line": 43,
+        "sha256_utf8_line_no_terminator": "248df3cfa3a2ae6ad3bcfdf81badd12ac9dc0743d607ba7d6d71fc16b1da887b",
+        "full_saved_paragraph": "The written 26001 profile describes face-to-face reserve, habitual politeness and online talkativeness. That descriptive contrast supplies a question for actual scenes and messages; it is not a sample proving all offline speech deficient or all online behavior confident. Kotama explicitly explains an idealized adult as a barrier to ordinary conversation. Her attempt to acquire a secret others lack seeks to reduce that distance through information. The important alternative is not simply more information of any kind. Sensei's chosen height-fear disclosure allows him to select what becomes known. Kotama reports understanding him a little better. Her modest wording supports a changed local relation while leaving the continued search for covert methods unresolved. [26001:002u0031–0047;written26001 profile](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "26001:002u0031–0047;written26001 profile",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT009",
+        "section": "3. Public self, private self, and control over interpretation",
+        "saved_body_line": 45,
+        "sha256_utf8_line_no_terminator": "98400612b3509b684879728aa7f40127f6f3b7740448c46cfb21d324f12af356",
+        "full_saved_paragraph": "Kotama's own withholding complicates any rule that valued people should be fully accessible. A whole record-shop message thread moves from an earphone-related near-fall to hesitation and secrecy about what she listens to. On the mountain she asks for her embarrassing words to be forgotten. These are affirmative evidence of reserve and control over self-presentation, not empty pauses awaiting extraction. They make the asymmetry of her demands clearer: she values selective exposure for herself while repeatedly attempting access to others. That is a meaningful conflict, not proof that every secret is manipulation or that every hesitation must signal romance. The value of companionship can include a person remaining partly unknown. [26001:006 whole260010210;10084:002u0036–0049](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "26001:006 whole260010210;10084:002u0036–0049",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT010",
+        "section": "3. Public self, private self, and control over interpretation",
+        "saved_body_line": 47,
+        "sha256_utf8_line_no_terminator": "039c01647cb2bd9eaef305c6ef1899e77cc2e0c0eebec8da9e201e365fd19362",
+        "full_saved_paragraph": "Her polite euphemisms require attention to the object as well as the explanation. A bear presented as gratitude initially receives acceptance, but inspection reveals a device and triggers refusal. A clock and soup extend the attempts; a recording machine's evasive name does not turn it into an innocent gift. The Valentine gift repeats the structure with an attached bug that narration identifies independently of her denial. She then admits hiding it in food because previous device-bearing gifts were refused. Affection and inventiveness remain motives, yet the adult's appreciation of chocolate is not acceptance of the device. The encounter ends in a continuing dispute and a help call, not ingestion, rescue, recording or verified safety. [26001:002u0002–0030](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [E810:016u0002–0023](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_016_80000016_DEEP_READING.md)",
+        "source_anchors": [
+          {
+            "label": "26001:002u0002–0030",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "E810:016u0002–0023",
+            "source_id": "L16",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_016_80000016_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT011",
+        "section": "3. Public self, private self, and control over interpretation",
+        "saved_body_line": 49,
+        "sha256_utf8_line_no_terminator": "17fb9744d83a3777d3d12bdd6af294856846c65a28293b3f7791d0968c5ca051",
+        "full_saved_paragraph": "The record shop resists the opposite reduction: that pleasure must be feigned because a recording request follows it. Kotama is already absorbed before noticing Sensei. Sustained descriptions of café voices, human ambience, rain and listening without melody establish taste independently of the gambit. She invites shared attention and values his voice particularly, then seeks equipment permission and is refused. Narration preserves enjoyable time alongside continued attempts and resistance. This is neither innocence nor merely a trick. The scene distinguishes genuine pleasure from a method that still crosses a boundary, allowing a positive ending to retain unresolved conflict. [26001:006u0002–0026 and tagged0027–0042;written26001:1488–1497](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "26001:006u0002–0026 and tagged0027–0042;written26001:1488–1497",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT012",
+        "section": "4. Millennium and Veritas: information, specialist work and disputed use",
+        "saved_body_line": 53,
+        "sha256_utf8_line_no_terminator": "2e627cb91936e14022071f2b1faf15a819c927d4f38bd5769b987a749a8768cc",
+        "full_saved_paragraph": "Veritas gives Kotama a vocabulary for investigation and a setting in which knowledge can be useful. In the radio encounter she says she belongs to the club and explains why unfamiliar phenomena remain worth researching. In MAIN, technical work has finite, genuinely consequential value: Chihiro reports algorithm analysis, Kotama central-processor access and Hare an unfamiliar-language inquiry, while Himari expressly says control has not been obtained. The distinctions prevent institutional confidence from becoming a blanket inference of command. Pavane's accepted comparison likewise credits coordinated hypotheses, hacking and intervention in its specific crisis while distinguishing making, reception, membership and safety. Kotama's private tastes do not certify every access, and an institutional rescue does not absorb her into a generic hacker function. [26001:003s2u0002–0009](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [FinalC003E006u0048–0066](../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md) [Pavane complete comparison:§3.1](../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md)",
+        "source_anchors": [
+          {
+            "label": "26001:003s2u0002–0009",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "FinalC003E006u0048–0066",
+            "source_id": "F36",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md"
+          },
+          {
+            "label": "Pavane complete comparison:§3.1",
+            "source_id": "PW",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT013",
+        "section": "4. Millennium and Veritas: information, specialist work and disputed use",
+        "saved_body_line": 55,
+        "sha256_utf8_line_no_terminator": "70570fd3ff1c8d9c1bfddd59af4b8af677fdc980de631b2c37aabb3bb3ba9f1f",
+        "full_saved_paragraph": "GROUP1501–1503 demonstrates contested use inside that institution. Kotama answers Maki's bodily concern through input/output rhetoric and calls the proposed alteration falsification. She nevertheless accepts helping a junior, denies a teacher-facing motive, intercepts the office exchange and participates in unauthorized access. Recognition of a category is not refusal to act within it. Her own reason must remain separate from Hare's drone-test curiosity and Maki's desired image and revenge. Yuuka's weak security does not transfer permission to them, while her declared commitment to official fairness remains positive evidence despite the operational weakness. [G1501u0010–0016/0028–0043;G1502s2u0002–0028](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md)",
+        "source_anchors": [
+          {
+            "label": "G1501u0010–0016/0028–0043;G1502s2u0002–0028",
+            "source_id": "G15",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT014",
+        "section": "4. Millennium and Veritas: information, specialist work and disputed use",
+        "saved_body_line": 57,
+        "sha256_utf8_line_no_terminator": "e99e11b41b728cc4371944cd529f06fad341eab544bd0cf2b501d0967357e793",
+        "full_saved_paragraph": "Publication is not securely Kotama's deliberate destination choice. Maki's panic retention and copy reach the publicly visible school network; Hare identifies that destination, and Eimi and Yuuka observe the exposed records. Kotama is responsible for her situated participation and warnings, not automatically every later act. Chihiro's defense and explicit ethical rebuke show an institution capable of opposing its own members' behavior. The several-days rumor coda prevents that correction from becoming complete privacy repair or recipient reconciliation. Exact sanctions, offender disclosure to Yuuka and lasting restoration remain unprinted. The club is therefore internally disputed, with real technical work and real harms, rather than universally corrupt or universally legitimate. [G1502s2u0027–0036/s3;G1503s1u0002–0042/s2u0002–0010](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md)",
+        "source_anchors": [
+          {
+            "label": "G1502s2u0027–0036/s3;G1503s1u0002–0042/s2u0002–0010",
+            "source_id": "G15",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT015",
+        "section": "4. Millennium and Veritas: information, specialist work and disputed use",
+        "saved_body_line": 59,
+        "sha256_utf8_line_no_terminator": "074e9f0c8af237ace38d7624848647a50232c5ad19303c31f8d29bc6f03896e9",
+        "full_saved_paragraph": "The public events add separate organizational constraints. A junior's personal request for help does not reconcile absent leaders' permission in EVENT817; the local blocked-access clue does not identify a culprit or audit a roster. In EVENT832 Chihiro's claimed permission from Himari is not each student's assent to the trip, and her privacy demand is a specific protection of Sensei rather than certification of every club practice. EVENT842 has actual borrowing, security work, games and declared local maintenance, yet recorder confiscation, a pressured bargain and ongoing next-day labor retain costs. Club freedom is contested through what members do and whom they affect; neither a slogan nor a successful task determines legitimate use. [E817:003/007/010–011](../../02%20Sequential%20Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) [E832:002/005/010](../../02%20Sequential%20Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md) [E842:003/004/010/015](../../02%20Sequential%20Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md)",
+        "source_anchors": [
+          {
+            "label": "E817:003/007/010–011",
+            "source_id": "E17",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+          },
+          {
+            "label": "E832:002/005/010",
+            "source_id": "E32",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          },
+          {
+            "label": "E842:003/004/010/015",
+            "source_id": "E42",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT016",
+        "section": "5. Ordinary life: sound, making, food, warmth and company",
+        "saved_body_line": 63,
+        "sha256_utf8_line_no_terminator": "eefe4734c3e8d47bfa60f096bb3de9e834561dd9d66fafd8470d93f5179607e0",
+        "full_saved_paragraph": "Kotama's sounds are not interchangeable. The winter playlist is ordinarily made from birds, water and wind, and her wish to record for herself seeks stimulation unavailable through those familiar assets. Fire matters through an imagined chair and blanket, but also through friction and a slowly growing sound. Winter's bare trees invite a different form of attention; the represented tree explanation opposes visible stillness to continuing life. Rain and café voices carry their own textures, while the record-shop human soundscape is valued without rhythm or melody. She explicitly dislikes both certain echoes and the campsite's silence. A universal sound-loving label would erase the preferences through which listening becomes a particular life. [10084:003u0003–0016/005u0014–0036/006u0017–0034;26001:006;written costume LobbyIdle](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "10084:003u0003–0016/005u0014–0036/006u0017–0034;26001:006;written costume LobbyIdle",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT017",
+        "section": "5. Ordinary life: sound, making, food, warmth and company",
+        "saved_body_line": 65,
+        "sha256_utf8_line_no_terminator": "00650ca1998b7726f0d07ec291a4bc92a86889ab0e8e4ced980325f36b511833",
+        "full_saved_paragraph": "Making has intrinsic value even when its chosen process fails. Kotama's wooden board, stick and collected materials are an attempt to preserve the sequence by which a fire is made. More efficient ignition would produce warmth while omitting some of the wanted sound. The source permits taking that difference seriously without awarding technical success: arms lose sensation, her own voice interrupts the desired record, and no friction fire is produced. Eventually accepted assistance gives shared warmth. The point is not that efficiency is always wrong or effort sufficient; the scene allows an aesthetic goal and an actual failure to coexist. It also retains the other participant's elapsed time and exposure to cold, instead of making Sensei an unlimited resource for an artist's process. [10084:003u0020–0048](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "10084:003u0020–0048",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT018",
+        "section": "5. Ordinary life: sound, making, food, warmth and company",
+        "saved_body_line": 67,
+        "sha256_utf8_line_no_terminator": "a64fa4ac21014b2a36896f46ffd08354642e46e5585ced03cbe6c0163925e911",
+        "full_saved_paragraph": "Food is more than a vehicle for bugs. Her hungry winter ending has actually shared eating and listening; her initial response to the pickled plums admires color and craftsmanship but does not establish consumption. Written café contexts give dessert checking and a private blog upload, while MomoFriends goods elicit a markedly enthusiastic response. Furniture curiosity, an unremembered song, pumpkin decorations made because cutting sounds felt pleasant and an offered gift extend her own repertoire. A profile describing reserve cannot erase those tastes and forms of expression. Equally, their intrinsic value cannot turn every food gift into a freely accepted exchange. The Valentine attempt places chosen giving and an explicit bodily objection together, rather than making either the universal meaning of Kotama's food. [10084:005u0037–0044;26001:005s2u0020–0024;written26001:1466–1467;written10084:6983–6987/7023–7025](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [E810:016](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_016_80000016_DEEP_READING.md)",
+        "source_anchors": [
+          {
+            "label": "10084:005u0037–0044;26001:005s2u0020–0024;written26001:1466–1467;written10084:6983–6987/7023–7025",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "E810:016",
+            "source_id": "L16",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_016_80000016_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT019",
+        "section": "5. Ordinary life: sound, making, food, warmth and company",
+        "saved_body_line": 69,
+        "sha256_utf8_line_no_terminator": "9498a514c8c4fe95f33be7de6b22bba58e7f330ab9ff1d924e5d527c714bfb15",
+        "full_saved_paragraph": "Greetings and repetition carry another kind of wanted value. Written birthday contexts offer self-made ASMR for Sensei's sleep, request his congratulations again, and explicitly resist the idea that repeated birthday words lose value. These are intentions, requests and contextual statements rather than evidence of actual asset delivery, sleep improvement or every recipient's response. A pumpkin craft offer and a first NewYear greeting likewise need no later crisis utility to matter. Kotama wants certain acts to be repeated because their personal meaning persists, while she also wants some embarrassing words forgotten. The contrast distinguishes cherished repetition from unwanted retention; a record's existence cannot decide its value apart from the person and occasion. [Written10084:7011–7025;written26001:1478–1486;10084:002u0045–0049](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "Written10084:7011–7025;written26001:1478–1486;10084:002u0045–0049",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT020",
+        "section": "5. Ordinary life: sound, making, food, warmth and company",
+        "saved_body_line": 71,
+        "sha256_utf8_line_no_terminator": "6ea16b77c81705076dd24bbec029b485c1aba67aa7ac3203a5d1c5a985a0f9fb",
+        "full_saved_paragraph": "EVENT832 supplies a public ordinary context whose pleasures survive conflict. Kotama initially wants city sound and to record Sensei, hides a recorder despite inspection, and actually enjoys the environment; Chihiro demands the device for privacy. Later the club participates in enjoyable reading, an achieved dinner and narrated cleanup. Kotama and Hare's cocoa conversation preserves fatigue and the judgment that good food does not by itself justify all the work. Kotama's concealed hope to overhear a private conversation remains. The late ascent offers a real chance to stop; the trio continues for the path, not only a guaranteed sunrise. Represented beauty and thanks are achieved, while proposed breakfast is not narrated as consumed. These are differentiated ordinary outcomes, not evidence that discomfort was unreal or that outdoor conversion was permanent. [E832:003/005/007–010,especiallyE005U1–10/60–66;E007U69–107;E008U59–116](../../02%20Sequential%20Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md)",
+        "source_anchors": [
+          {
+            "label": "E832:003/005/007–010,especiallyE005U1–10/60–66;E007U69–107;E008U59–116",
+            "source_id": "E32",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT021",
+        "section": "5. Ordinary life: sound, making, food, warmth and company",
+        "saved_body_line": 73,
+        "sha256_utf8_line_no_terminator": "a1a4834f25b2688b2dc23a4b0123cee3508b9edf97af7715dcd5577c767eade6",
+        "full_saved_paragraph": "The costume baseline preserves further rest and practical learning without manufacturing staged outcomes. Its empty Profile remains empty; sixty-one contexts are twenty-six under832, twenty-six repeats under10832 and a strict nine-record lobby subset under900832. Cold, curling up, efficiency complaints, concealed equipment, a correction from editing a Sensei file to wanting rest, disliked stillness and requested setup help occupy different modes. Demonstration requests and anticipated comfort do not prove completed setup or actual comfortable sleep. The contexts allow tiredness, learning and wanted rest to count as part of the person even when no task succeeds. Documentary repetition is not a second camp, and the last subset cannot inherit every absent mission or concealment line. [Private:costume1900921001,complete61contexts](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "Private:costume1900921001,complete61contexts",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT022",
+        "section": "6. Crisis behavior: inquiry, partial knowledge and actual endpoints",
+        "saved_body_line": 77,
+        "sha256_utf8_line_no_terminator": "dd3ee1e95474244cc1de9499143c837e20b6f3dcbeec342ce99d07c354193cc6",
+        "full_saved_paragraph": "Kotama's radio explanation is useful, yet its ending is not simply reassuring for both people. The first unidentified voice and countdown keep Sensei awake all night. Kotama wants to investigate unfamiliar phenomena and record ghost sounds, and an equipment opportunity revives a boundary concern. The office radio then supplies a DJ broadcast whose wording supports her probable interference explanation. This is stronger than an arbitrary dismissal of the recipient's experience, but it is not a separately inspected circuit or durable repair. Sensei is relieved; Kotama is disappointed by the lost supernatural possibility and proposes a séance that he refuses and urgently stops. Investigative pleasure and recipient rest remain divergent, even where her interpretation works locally. [26001:003s1u0002–0008/s2u0002–0009/s3u0002–0020 and whole260010090](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "26001:003s1u0002–0008/s2u0002–0009/s3u0002–0020 and whole260010090",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT023",
+        "section": "6. Crisis behavior: inquiry, partial knowledge and actual endpoints",
+        "saved_body_line": 79,
+        "sha256_utf8_line_no_terminator": "176c15ab7a1190e5f2753e82d0c8390ac049c936fd48e6f9696722832ec38a55",
+        "full_saved_paragraph": "The pickling encounter exposes the opposite problem: access can produce less reliable understanding when the listener lacks context. Kotama describes hacking a base-station server and intercepting a call to Schale. Poor reception and phrases about handling, red clothing, weight and preservation support her crime hypothesis only within her mistaken construction. Lost sleep and a plan to intervene show genuine anxiety for a valued person; they do not authenticate crime or justify interception. Actual delivery of umeboshi changes the interpretation, and she explicitly acknowledges the error. Her admiration of the plums remains, followed by an evasion and a narrated privacy lecture. Relief ends the imagined threat, not the real breach. The source refuses both infallible protector and merely useless technician readings. [26001:005s1u0002–0016/s2u0002–0024;whole260010160](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "26001:005s1u0002–0016/s2u0002–0024;whole260010160",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT024",
+        "section": "6. Crisis behavior: inquiry, partial knowledge and actual endpoints",
+        "saved_body_line": 81,
+        "sha256_utf8_line_no_terminator": "206b3c7c668366d1fc77eaca8330ae99b1a9c8db2b2f87957f54857d4c93a7b4",
+        "full_saved_paragraph": "The institutional episodes preserve expertise at its actual scale. GROUP1503 gives an operational warning and retreat under anticipated identity exposure; it does not give every member an equal share of the technical defense or a moral awakening. In EVENT842 Kotama and Hare offer escape support, but a locked-door plan fails and the helpers are counter-hacked. Their inference of Chihiro's familiar method is initially an inference; her later arrival supplies an actual encounter. An analog route thought to avoid surveillance loses communication and then exposes drones when safety-motivated lights are requested. Their effort is useful in places and insufficient in others. The narrative does not require total technical worthlessness to preserve failure, nor does it turn their monitoring boast into independent proof of every device or legitimate surveillance. [G1503s1u0002–0020](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md) [E842:004/006–008](../../02%20Sequential%20Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md)",
+        "source_anchors": [
+          {
+            "label": "G1503s1u0002–0020",
+            "source_id": "G15",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          },
+          {
+            "label": "E842:004/006–008",
+            "source_id": "E42",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT025",
+        "section": "6. Crisis behavior: inquiry, partial knowledge and actual endpoints",
+        "saved_body_line": 83,
+        "sha256_utf8_line_no_terminator": "79486456ba501731c6e668a046c4068e50793d7eaedbdf7333d321abe027ab0e",
+        "full_saved_paragraph": "In Final, processor access is a reported contribution to shared inquiry, expressly short of control. EVENT822 separately begins with a conditional coalition plan and ends its ninth selected episode with completed operations reported by different speakers: Chihiro says four engines are destroyed, Kotama reports completed hacking and one-hundred-percent occupation, and Hare says self-destruct can now be activated. Those are differentiated reports and availability, not proof that Hare activates it or that Kotama alone accomplished the coalition's work. Control-room destruction, a represented room opening and Shiroko's accompaniment provide positive local actions; the selected continuation does not establish completed evacuation or later listening. The larger accepted Final account carries subsequent crisis and ordinary-aftermath meanings without making this local report a complete technical audit or erasing unknown outcomes. [FinalC003E006u0048–0075](../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md) [E822:001/009U1–18](../../02%20Sequential%20Readings/EVENTS/EVENT_822/BLUE_ARCHIVE_EVENT_822_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) [Complete Final contextual argument](../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md)",
+        "source_anchors": [
+          {
+            "label": "FinalC003E006u0048–0075",
+            "source_id": "F36",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md"
+          },
+          {
+            "label": "E822:001/009U1–18",
+            "source_id": "E22",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_822/BLUE_ARCHIVE_EVENT_822_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+          },
+          {
+            "label": "Complete Final contextual argument",
+            "source_id": "F00",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT026",
+        "section": "7. Relationship with Sensei: disclosure, practical help and the right to refuse",
+        "saved_body_line": 87,
+        "sha256_utf8_line_no_terminator": "46d8340db274a2830f52949a69683d297ddd4a2df458ddd905349d67f97a7dbc",
+        "full_saved_paragraph": "Sensei is a wanted person within Kotama's sound repertoire, not the explanation for every taste. His voice is soothing and useful for focus in her explicit account, while rain and café ambience have different values. His company changes a mountain experience through a hand, warmth, meal and shared summit sound. These are concrete relational ends, and her record-shop immersion before recognizing him prevents reducing all enjoyment to teacher-seeking. Her idealized-adult explanation also makes ordinary conversation a substantive wish, not a punchline. The strongest positive evidence is limited and particular: she reports a little better understanding after chosen vulnerability, accepts needed ignition, and shares actual listening and descent. It does not require a canonical romance or exclusive bond. [26001:002u0031–0047/006;10084:002/003/005/006](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "26001:002u0031–0047/006;10084:002/003/005/006",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT027",
+        "section": "7. Relationship with Sensei: disclosure, practical help and the right to refuse",
+        "saved_body_line": 89,
+        "sha256_utf8_line_no_terminator": "ffef3d638925aae99483cf8e785baf31c0dc3411829a426058f929edd11527c0",
+        "full_saved_paragraph": "Practical assistance is not identical to consenting to her plan. In the first climb the overhearing objection remains before physical help; in the fire encounter patience and offered shortcuts coexist with elapsed cold and eventual assent. In the radio story the adult's lost sleep precedes investigative cooperation, then a refusal limits the proposed séance. The mistaken crime inquiry ends in a lecture, while the record shop ends with resisted equipment installation inside pleasant company. Each endpoint distinguishes useful help and shared pleasure from an unlimited duty to remain available or recorded. Kotama's requested forgetting adds a reciprocal standard: the relationship's positive value cannot depend on extracting every private thought or retaining every disclosure against a person's wish. [10084:002u0019–0049/003u0027–0048;26001:003s3u0018–0020/005s2u0022–0024/006u0024–0026](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "10084:002u0019–0049/003u0027–0048;26001:003s3u0018–0020/005s2u0022–0024/006u0024–0026",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT028",
+        "section": "7. Relationship with Sensei: disclosure, practical help and the right to refuse",
+        "saved_body_line": 91,
+        "sha256_utf8_line_no_terminator": "0395d0fe20b2a5cf1501311a8bfcf4b652fc1ae95698235933d84b502e3dac25",
+        "full_saved_paragraph": "The office devices and Valentine gift make refusal especially concrete. Initial gift appreciation is overtaken by discovery and a no; repeatedly finding another method is not obedient compliance. In the gift episode, concern about swallowing is followed by Kotama's new interest in gastrointestinal sound, an opened-mouth request and an explicit attempt to have the device swallowed. Her ingestion-compatible and harmless-materials assertions are hers, not verified safety. The adult calls for help in Japanese; the Korean limit directly refuses swallowing. The continuing dispute is the endpoint. Neither successful forced ingestion nor a rescuer should be invented, and sincere affection must remain separate from permission for a bodily intervention. [26001:002u0002–0030](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [E810:016u0013–0023;locale qualification](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_016_80000016_DEEP_READING.md)",
+        "source_anchors": [
+          {
+            "label": "26001:002u0002–0030",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "E810:016u0013–0023;locale qualification",
+            "source_id": "L16",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_016_80000016_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT029",
+        "section": "7. Relationship with Sensei: disclosure, practical help and the right to refuse",
+        "saved_body_line": 93,
+        "sha256_utf8_line_no_terminator": "764976c271ede254c92d988fd7e18d32636a44baaaca7853cf2eb9e33d7ff752",
+        "full_saved_paragraph": "EVENT842 complicates the adult's role too. Kotama leverages his unfinished work and illicit play to demand ten scripted voice recordings in return for escape support. This is a constrained bargain, not spontaneous consent, and no delivery of the ten is printed. Sensei's own neglected responsibilities help create the vulnerability without authorizing exploitation of it. His suggestion of apology is answered by Kotama's interested account of his acts, which should not become an independently adjudicated indictment. Later shared games are genuinely enjoyable, and next-afternoon labor actually begins, but unfinished filings, compensation and all participants' assent remain unshown. Shared fun does not settle the conditions of help. [E842:004U100–128/005U99–136/009U52–65/010U72–88](../../02%20Sequential%20Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md)",
+        "source_anchors": [
+          {
+            "label": "E842:004U100–128/005U99–136/009U52–65/010U72–88",
+            "source_id": "E42",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT030",
+        "section": "8. Major peers and independent recipients",
+        "saved_body_line": 97,
+        "sha256_utf8_line_no_terminator": "d32d9c2c6bb88a0d89d476adb1e91c29f463e44bb4093bbb7eab3570c2a1d32b",
+        "full_saved_paragraph": "Maki's persuasion acts upon Kotama through a specific appeal: a more attractive record might impress Sensei. Kotama agrees as help to a junior and explicitly denies wanting that effect. The source supports the situated tension and possible affection coding; it does not prove the denied motive or make every subsequent action merely Maki's coercion. Kotama independently recognizes falsification and supplies intercepted information. Maki later proposes retaliation and makes the panic copy; those acts cannot be reassigned to Kotama through club membership. Maki's worry about record persistence has an ironic counterpart in Yuuka's false rumor, giving affected audiences standing beyond the conspirators' intentions. [G1501u0028–0043;G1502s2u0002–0036;G1503s2](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md)",
+        "source_anchors": [
+          {
+            "label": "G1501u0028–0043;G1502s2u0002–0036;G1503s2",
+            "source_id": "G15",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT031",
+        "section": "8. Major peers and independent recipients",
+        "saved_body_line": 99,
+        "sha256_utf8_line_no_terminator": "72cc31f29c083e762fd44ec09345d438f00b41d8816816f32279ece2c8a2502f",
+        "full_saved_paragraph": "Hare and Kotama collaborate without becoming one knowledge personality. Hare's drone-test reason differs from Kotama's junior-help explanation; defensive-code limits and the public-destination recognition are particular Hare contributions. Their table-game recorder seeks screams and potentially Sensei's reaction, and Noa confiscates it for privacy. Their escape support later contains leverage, actual reported unlocking and subsequent counter-hack failure. The cooperation is meaningful, as are the differing tastes and methods. Kotama's probability statement in the party afterstory is a character assertion, not recalculated truth; repeated loss is not proof of destiny. Full participant games and sleep remain ordinary ends independent of whether either helper demonstrated technical superiority. [G1501u0034–0038/G1502s2u0027–0036/G1503s1](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md) [E842:003U110–128/004/006/009/011](../../02%20Sequential%20Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md)",
+        "source_anchors": [
+          {
+            "label": "G1501u0034–0038/G1502s2u0027–0036/G1503s1",
+            "source_id": "G15",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          },
+          {
+            "label": "E842:003U110–128/004/006/009/011",
+            "source_id": "E42",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT032",
+        "section": "8. Major peers and independent recipients",
+        "saved_body_line": 101,
+        "sha256_utf8_line_no_terminator": "4dab1139002ce95926982703157bbc92f7d6389a6221c61c22f91b39621b0af1",
+        "full_saved_paragraph": "Chihiro has authority and independent wants. She rebukes the members' attempt to treat defeat by their own vice-president as preserved prestige; other people's information remains the issue. At camp she protects Sensei's privacy by demanding Kotama's concealed recorder, but she also orders attendance before disclosing the plan and prescribes activities her juniors do not initially want. Her own reading, cooking and outdoor pleasure are real; practical help and the late option to stop are positive acts. The one-week coda reverses the direction of rest concern: the juniors urge her to pause and she refuses because external work matters. No one-sided guardian model can contain all of this. Kotama's complaint and mixed enjoyment retain force without making Chihiro's food, labor or protective intervention meaningless. [G1503s1u0021–0042](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md) [E832:002/003/005/007/008/010](../../02%20Sequential%20Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md)",
+        "source_anchors": [
+          {
+            "label": "G1503s1u0021–0042",
+            "source_id": "G15",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          },
+          {
+            "label": "E832:002/003/005/007/008/010",
+            "source_id": "E32",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT033",
+        "section": "8. Major peers and independent recipients",
+        "saved_body_line": 103,
+        "sha256_utf8_line_no_terminator": "84f8f31ff8c46b500322b6cd7eeefe3f4b38ffe46ead1ac7fba090377fcedcc9",
+        "full_saved_paragraph": "Noa and Yuuka likewise require differentiated judgments. Noa confiscates the recorder, later catches Sensei, admits she cannot know his enjoyment and apologizes for possible discomfort. Elsewhere her drink-or-disclose game presses Yuuka's privacy, so the recorder intervention does not prove flawless ethics. Yuuka's role-based fairness, actual gift preparation and wanted games coexist with weak security, confinement and enforced unfinished work. Kotama's private observation of pet-like treatment is her local perception, not universal recipient agreement about Koyuki. Koyuki's accepted pyjamas, desired leisure, fear, cooperation and losses belong to her own agency. A Kotama monograph can compare these interactions without claiming to complete their separate directed relationship or institutional packages. [G1502s1/G1503s2](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md) [E842:002–005/009/010/014](../../02%20Sequential%20Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md)",
+        "source_anchors": [
+          {
+            "label": "G1502s1/G1503s2",
+            "source_id": "G15",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          },
+          {
+            "label": "E842:002–005/009/010/014",
+            "source_id": "E42",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT034",
+        "section": "8. Major peers and independent recipients",
+        "saved_body_line": 105,
+        "sha256_utf8_line_no_terminator": "ca3d3371ddd7391b530c35fe1dc47da1d1c2244c8e6deeeb63b839f86ce566a8",
+        "full_saved_paragraph": "Other recipients and roles should remain local where identity is insufficient. The first radio voice is unidentified in its initial knowledge state; the later DJ and broadcast explanation do not silently convert every earlier record into a named person. Suspicious call wording and a delivery role in the pickling encounter do not authorize a registry join. The camp's baseball Rei wants long-hit strength while rejecting parts of Sumire's training and imposed continuation; useful diversion from the bear does not override those refusals. Kotama's participation in club banter cannot become knowledge of every athlete's wish or completed training result. These peripheral actors are not discarded because their roles are brief, and they are not multiplied into independently proved persons through familiar names. [26001:003/005 source-role qualifications](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [E832:005/006/008,modes](../../02%20Sequential%20Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md)",
+        "source_anchors": [
+          {
+            "label": "26001:003/005 source-role qualifications",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "E832:005/006/008,modes",
+            "source_id": "E32",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT035",
+        "section": "9. Japanese written voice and source-mode limits",
+        "saved_body_line": 109,
+        "sha256_utf8_line_no_terminator": "01d3e40b20473edd1ae77716d69f5a97cff6a087c1155d6244e0640200167176",
+        "full_saved_paragraph": "Kotama's written register varies with what she seeks and with whom she speaks. Polite 先生 address and hesitant explanations can accompany affection, a request for help or evasion. 秘密 withholds information in the message thread; 偶然 evades accountability after interception; 勘違い acknowledges a mistaken interpretation. The enthusiastic キタコレ around goods complicates a uniform reserve, and the echo scene's 木霊/コタマ naming play relates autobiographical hurt to a particular exception without proving a healed childhood. Technical vocabulary is both a working resource and sometimes a rationalization. None of these samples supplies a universal voice specification, performed whisper, pitch or acting judgment. [Private:all eleven individual arguments;written10084/26001](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "Private:all eleven individual arguments;written10084/26001",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT036",
+        "section": "9. Japanese written voice and source-mode limits",
+        "saved_body_line": 111,
+        "sha256_utf8_line_no_terminator": "f1441c03e0cd1fbfc5b03e4de295f667a0381317510502f6e9502951bb254466",
+        "full_saved_paragraph": "Formal alternatives, message turns, inward labels, narration and tagged written forms have different evidential force. An option asking about swallowing danger is not another option asking about recording from the stomach; identical replies at the gift's u0013/u0014 remain branch receipts rather than two consecutive concessions. The two denial records in the office-device scene likewise do not prove two successive emotional stages. Serial adult messages in a whole thread cannot be silently converted into a native Answer group. Nearby responsive text around an inward-labelled teacher passage does not prove Kotama heard the thought. Narrated ascent, assistance, delivery and shared eating can establish qualified actions without such a repair. [26001:002u0035–0036;10084:002/003/005/006 modes](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [E810:016 group003 and locale limits](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_016_80000016_DEEP_READING.md)",
+        "source_anchors": [
+          {
+            "label": "26001:002u0035–0036;10084:002/003/005/006 modes",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "E810:016 group003 and locale limits",
+            "source_id": "L16",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_016_80000016_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT037",
+        "section": "9. Japanese written voice and source-mode limits",
+        "saved_body_line": 113,
+        "sha256_utf8_line_no_terminator": "6d913db3421b4d391a14c6e3e716ca51d664f3d935e59e4df70fde18d7f7e248",
+        "full_saved_paragraph": "The winter tree passage and record-shop soundscape retain narrator labels with Kotama-associated log forms. Their literary invitations to lower one's voice, attend closely and keep listening are meaningful written evidence; they do not establish measured trunk-water acoustics, exact pause execution, inspected café audio or its participants' consent. The record-shop marker order is nonmonotonic and choice002 is unprinted. The source's body remains intelligible through its narrated company and explicit subsequent requests, while those irregularities stay visible. Written special-lobby overlaps corroborate a motif rather than adding independent scenes. Costume repeats and its strict subset are documentary facts, not a performed calendar. [10084:005u0019/0021–0034;26001:006u0027–0029/0031–0042;written10084:7027–7035/26001:1488–1497;costume61](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "10084:005u0019/0021–0034;26001:006u0027–0029/0031–0042;written10084:7027–7035/26001:1488–1497;costume61",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT038",
+        "section": "9. Japanese written voice and source-mode limits",
+        "saved_body_line": 115,
+        "sha256_utf8_line_no_terminator": "606c5b6bcef782100085bba0bec01a9666bc3e2ff898509f26500b3e7a458174",
+        "full_saved_paragraph": "Public speaker seams need equally precise restraint. GROUP1503's differing registers warn against assuming a corrected swap; its secure subsequent ethical reply supplies the club-level conclusion. EVENT832's Kotama-headed self-address, bear-like growls under Rei and other drift do not license a global relabeling. EVENT842 contains a Kotama-headed answer to her own proposal and local shifts around the recorder; the grouped exchange and unambiguous outcomes remain usable, while individual quotation stays qualified. Japanese and Korean gift refusals have different forms, and EVENT822's technical descriptions and movement priorities remain locale-specific. These limits preserve written positive action rather than discarding it for lacking inspected performance. [G1503:§5](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md) [E832:modes](../../02%20Sequential%20Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md) [E842:L123–126](../../02%20Sequential%20Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md) [E822:001/009](../../02%20Sequential%20Readings/EVENTS/EVENT_822/BLUE_ARCHIVE_EVENT_822_PHASE2_CONTEXTUAL_COMPARISON_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "G1503:§5",
+            "source_id": "G15",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md"
+          },
+          {
+            "label": "E832:modes",
+            "source_id": "E32",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          },
+          {
+            "label": "E842:L123–126",
+            "source_id": "E42",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          },
+          {
+            "label": "E822:001/009",
+            "source_id": "E22",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_822/BLUE_ARCHIVE_EVENT_822_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT039",
+        "section": "10. Competing readings and evidential judgment",
+        "saved_body_line": 119,
+        "sha256_utf8_line_no_terminator": "81cf7143a23b64b2a6cc50abdbfa25de664dcf1215897f0339f871bafa55bb6d",
+        "full_saved_paragraph": "**The surveillance joke is the whole person.** Concealed gifts, intercepted calls, evasions, a swallowed-device demand and the pressured voice bargain provide serious evidence for intrusion. An adequate account must retain the adult's refusals and affected users. The complete sources also show absorption before the teacher appears, dessert blogging, goods enthusiasm, making, cold, requested forgetting, failed fire, enjoyed warmth and specific winter attention. Those ordinary wants cannot be discarded because they do not settle a public crisis. The stronger reading retains a listener's wanted life and methods whose permission is disputed. [Private:complete repertoire](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [E810:016](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_016_80000016_DEEP_READING.md) [E842:004](../../02%20Sequential%20Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md)",
+        "source_anchors": [
+          {
+            "label": "Private:complete repertoire",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "E810:016",
+            "source_id": "L16",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_016_80000016_DEEP_READING.md"
+          },
+          {
+            "label": "E842:004",
+            "source_id": "E42",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT040",
+        "section": "10. Competing readings and evidential judgment",
+        "saved_body_line": 121,
+        "sha256_utf8_line_no_terminator": "4d415835da3409f12eeed6709db65862968cf25f971deafb92a31e5a723588e6",
+        "full_saved_paragraph": "**Tender motives make every attempt harmless.** Wanting ordinary conversation, a comforting voice and a chosen gift is affirmative evidence of attachment, but those motives do not turn refusal into consent. Covert acquisition, a recipient's lost sleep, mistaken alarm, persistent equipment attempts and bodily pressure remain consequential. A pleasant record-shop ending preserves resistance; a privacy lecture does not certify changed conduct. This alternative captures sincerity and fails at the actual recipient boundary. The supported distinction is affection with answerability, not automatically legitimate care. [26001:002/003/005/006](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [E810:016 ending](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_016_80000016_DEEP_READING.md)",
+        "source_anchors": [
+          {
+            "label": "26001:002/003/005/006",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "E810:016 ending",
+            "source_id": "L16",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_016_80000016_DEEP_READING.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT041",
+        "section": "10. Competing readings and evidential judgment",
+        "saved_body_line": 123,
+        "sha256_utf8_line_no_terminator": "c5ed98570f170f5416ab47761d889440191eb686eb32a714646cf31177126b62",
+        "full_saved_paragraph": "**Technical competence guarantees correct knowledge, or every failure discredits it.** A useful probable radio explanation and real processor-access report matter. The wrong pickling hypothesis, failed friction fire, counter-hacked escape and explicit access-without-control condition prevent infallibility. Conversely, none of those failures makes investigative labor, a working local explanation or a reported completed operation worthless. Knowledge is domain-specific and partial. Its quality and the legitimacy of its acquisition are separate questions; a correct result does not prove permission, and an unethical use does not prove all expertise fictitious. [26001:003/005;10084:003](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [FinalC003E006](../../02%20Sequential%20Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md) [E842:006–008](../../02%20Sequential%20Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md)",
+        "source_anchors": [
+          {
+            "label": "26001:003/005;10084:003",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "FinalC003E006",
+            "source_id": "F36",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E006_DEEP_READING.md"
+          },
+          {
+            "label": "E842:006–008",
+            "source_id": "E42",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT042",
+        "section": "10. Competing readings and evidential judgment",
+        "saved_body_line": 125,
+        "sha256_utf8_line_no_terminator": "d157b7a0b8f5e562fc6578739658521d709abaf92069538ac5eddf8dd914511b",
+        "full_saved_paragraph": "**The outdoor arc cures reserve, echoes or privacy habits.** Actual help, food, warmth, shared summit sound and a later voluntary continuation support local change. Kotama expressly maintains echo dislike; the second whole thread makes stamina useful for more eavesdropping, and the public camp contains a hidden recorder and unresolved mixed evaluation. Its epilogue retains games and reported indoor activity. The sources warrant selective participation and exceptions, not a general healed state, a prescribed healthy life or a variant-based moral progression. Her willing return to some activities does not remove a right to refuse others. [10084:002–006 and whole threads](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [E832:005/007–010](../../02%20Sequential%20Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md)",
+        "source_anchors": [
+          {
+            "label": "10084:002–006 and whole threads",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "E832:005/007–010",
+            "source_id": "E32",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT043",
+        "section": "10. Competing readings and evidential judgment",
+        "saved_body_line": 127,
+        "sha256_utf8_line_no_terminator": "10e6454e4b939b9d161e11e74e6927b98d1efe9b2fc098dc3397a7c1fa34dbb3",
+        "full_saved_paragraph": "**Every sound preference is teacher dependence, or affection proves an exclusive romance.** The chosen person's voice and reduced distance matter; denying that dimension would underread Kotama. Yet natural sound, ambient human texture, goods, craft and food have independent value. A request to hear combined voices at one summit is not a universal relationship status, while repeated greetings and guarded secrets remain contextually meaningful without exclusive commitment. Other students' agency persists; a written proposal to ignore girls looking for Sensei does not prove they were ignored or erase their claims. The supported relationship is person-specific, selective and contested, with canonical romance unestablished. [10084:003/005/006;26001:006;written26001:1466–1497](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md)",
+        "source_anchors": [
+          {
+            "label": "10084:003/005/006;26001:006;written26001:1466–1497",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT044",
+        "section": "10. Competing readings and evidential judgment",
+        "saved_body_line": 129,
+        "sha256_utf8_line_no_terminator": "ad4d72dc4c349f9450eab2e51987cc234553bf7258fd2ec8e46ee54f2a5a5d85",
+        "full_saved_paragraph": "These competing explanations are tested by the complete endings. The first climb ends in requested forgetting and departure; friction fails before shared warmth; the purity aspiration ends in food; the echo exception retains dislike; chosen disclosure yields modest reported understanding; radio inquiry ends in opposed desires; mistaken crime anxiety ends in correction and lecture; the record shop preserves a no. Public gifts, data circulation, late continuation, games, maintenance and coalition reports have their own results and unfinished tails. This joined account can be complete as a bounded literary synthesis while technical, civic, relational and performance questions remain open.",
+        "source_anchors": [],
+        "argument_scope_if_no_inline_anchor": "Joined complete analytical thesis/provenance/end judgment; no new observation",
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT045",
+        "section": "11. Evidence route, open gaps and completeness",
+        "saved_body_line": 133,
+        "sha256_utf8_line_no_terminator": "f73c21e99ef1c8f9189c34aae87e5f58ef11fbbd94f948ff3b72139ad1bb0091",
+        "full_saved_paragraph": "The private analytical boundary is eight complete BOND/whole-MomoTalk pairs and three selected written objects, maintained under the current Cycle008 authority. The entire current normal account and all eleven existing individual analytical arguments are personally received here; their original primary custody remains attributed. Historical producer pending, veto, intake and frontier statements are preserved as dated origin, not interpreted as current unreadness. Complete GROUP1501–1503 and relevant accepted event arguments retain previously received whole meanings, with fresh consequential clauses and gift016 received where this synthesis requires precision. Pavane's complete maintained comparison and the small FinalC003E006 owner are also received through their actual endings. No ritual primary replay, raw table inspection, performed audio or model construction is credited. [Current Kotama normal owner](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) [Pavane maintained comparison](../../02%20Sequential%20Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md)",
+        "source_anchors": [
+          {
+            "label": "Current Kotama normal owner",
+            "source_id": "K19",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "label": "Pavane maintained comparison",
+            "source_id": "PW",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md"
+          }
+        ],
+        "argument_scope_if_no_inline_anchor": null,
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT046",
+        "section": "11. Evidence route, open gaps and completeness",
+        "saved_body_line": 135,
+        "sha256_utf8_line_no_terminator": "6f5186ffe4f0b0e042f51b77580c885baf87f79b712590e4801eaca63b67b72f",
+        "full_saved_paragraph": "The author uses required home P3-CHAR-KOTAMA within accepted355-package/29-named-section V3 scope. This draft creates no new home or completed package credit. Source controls distinguish the published dbabbf95 author-selection snapshot from analytical main2e and historical1bb/c1 comparands; mutable progress metadata is excluded from source equality. Architecture1.12 retains its eleven-section requirement, while older analytical owners'1.11 statements are dated custody. Saved-source and paragraph receipts expose exact byte/hash/blob joins, full local scopes, achieved endings, mode limits and competing explanations. ROOT must independently receive and adjudicate the package before adoption.",
+        "source_anchors": [],
+        "argument_scope_if_no_inline_anchor": "Joined complete analytical thesis/provenance/end judgment; no new observation",
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT047",
+        "section": "11. Evidence route, open gaps and completeness",
+        "saved_body_line": 137,
+        "sha256_utf8_line_no_terminator": "18d245a787c9a3e74f52a4b4dc66909875cd4f3db2210361522a3af477a1f8cf",
+        "full_saved_paragraph": "All fourteen inherited gaps remain OPEN at their actual claim scope. Their continued presence does not require erasing already achieved local actions, replaying adequate arguments, or excluding low-stakes evidence. It requires distinguishing what this package contributes from what that contribution cannot establish.",
+        "source_anchors": [],
+        "argument_scope_if_no_inline_anchor": "Joined complete analytical thesis/provenance/end judgment; no new observation",
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      },
+      {
+        "claim_id": "KT048",
+        "section": "11. Evidence route, open gaps and completeness",
+        "saved_body_line": 156,
+        "sha256_utf8_line_no_terminator": "5ad3b7b03748be1bd06be00404e5ffbb4d420ec1a1b34f6ee06bb22d73b847c4",
+        "full_saved_paragraph": "The bounded literary conclusion is a person for whom listening makes a life possible and can also become a way of overruling another's control over that life. Kotama's strongest scenes keep her inside the sound she values: tired, hungry, embarrassed, delighted, helped and sometimes refused. Sharing attention can yield warmth and company without possessing every secret or securing every recording. The sources give real particular pleasures and useful work, alongside real invasions and fallible interpretation. Neither side should be removed to make the other easier to summarize.",
+        "source_anchors": [],
+        "argument_scope_if_no_inline_anchor": "Joined complete analytical thesis/provenance/end judgment; no new observation",
+        "confidence": "HIGH_SOURCE_ACT_MODE;MODERATE_JOINED_INTERPRETATION;OPEN_UNPRINTED_MECHANISM",
+        "decision": "AUTHOR_SUPPORTED_WITH_LIMITS_ROOT_PENDING"
+      }
+    ],
+    "complete_source_endpoint_reviews": [
+      {
+        "endpoint_id": "EP01",
+        "source_ids": "K19",
+        "complete_scope": "10084:002+whole100840010",
+        "achieved_or_changed_endpoint": "Plannedrecording→overhearingobjection→fatigue/handassistance→sensoryproximity→requestedforgetting/quickdeparture",
+        "contrary_or_unfinished_tail": "No securedconsent/permanentintimacy/fitnessmeasurement",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP02",
+        "source_ids": "K19",
+        "complete_scope": "10084:003+whole100840090",
+        "achieved_or_changed_endpoint": "Previousclimbcallback→wantedfireprocess→failedfrictionmorethananhour→acceptedignition/sharedwarmth",
+        "contrary_or_unfinished_tail": "No finishedrecording/permissionaudit/ethicalreform",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP03",
+        "source_ids": "K19",
+        "complete_scope": "10084:005+whole100840160",
+        "achieved_or_changed_endpoint": "Priorfailureretry/purityaspiration→winterattention→hunger→actualsharedmeal/listening",
+        "contrary_or_unfinished_tail": "No verifiedtreeacoustics/cleanasset/removedlistener/generalabandonment",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP04",
+        "source_ids": "K19",
+        "complete_scope": "10084:006+whole100840220",
+        "achieved_or_changed_endpoint": "Priornoiserecord→summitfatigue→autobiographicaldislike→explicitgeneralrefusal→specificmixedsound/enjoyment/descent",
+        "contrary_or_unfinished_tail": "No childhoodcure/globalpreferencechange/romance/audio",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP05",
+        "source_ids": "K19",
+        "complete_scope": "26001:002+whole260010010",
+        "achieved_or_changed_endpoint": "Secretgiftquestions→bear/clock/soupdevicesfound/refused→wishforconversation→chosenheightfeardisclosure→littlebetterunderstanding",
+        "contrary_or_unfinished_tail": "No lastingprivacyreform/laterchronology/24hourcapture",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP06",
+        "source_ids": "K19",
+        "complete_scope": "26001:003+whole260010090",
+        "achieved_or_changed_endpoint": "Unidentifiedvoice/sleeploss→wantedinquiry→radioDJwording/probableinterference→differentrelief/disappointment→refusedstoppedséance",
+        "contrary_or_unfinished_tail": "No ghost/personjoin/circuitaudit/installpermission",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP07",
+        "source_ids": "K19",
+        "complete_scope": "26001:005+whole260010160",
+        "achieved_or_changed_endpoint": "Interception/poorcontext/crimehypothesis→anxiousattempt→actualumeboshidelivery→admittedmistake/craftadmiration→privacylecture",
+        "contrary_or_unfinished_tail": "No actualcrime/consumption/repairedsecurity/absolution",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP08",
+        "source_ids": "K19",
+        "complete_scope": "26001:006+whole260010210",
+        "achieved_or_changed_endpoint": "Earphonenearfall/secret→initialshopabsorption→invitedlistening/environmental/personspecifictaste→equipmentrefusal/continuedattempts/enjoyment",
+        "contrary_or_unfinished_tail": "No actualaudio/licensing/ethicscure/exclusiveromance",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP09",
+        "source_ids": "K19",
+        "complete_scope": "Written10084all55contexts/profile",
+        "achieved_or_changed_endpoint": "Winter/craft/coldwarning/birthdays/pumpkinmakingoffering/echoandtreerepertoire",
+        "contrary_or_unfinished_tail": "No stagedcalendar/ASMRdelivered/healthefficacy/weaponmodification",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP10",
+        "source_ids": "K19",
+        "complete_scope": "Written26001all36contexts/profile",
+        "achieved_or_changed_endpoint": "Offlineonlinedescription→dessertblog/goods/curiosity/voicegreetingvalue/recipientexclusionproposal/soundscape",
+        "contrary_or_unfinished_tail": "No universalprofile/personrule/legaldenialtruth/ignoredstudents/benchmark",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP11",
+        "source_ids": "K19",
+        "complete_scope": "Costume1900921001all61contexts",
+        "achieved_or_changed_endpoint": "26+26exactrepeat+9strictsubset, cold/rest/concealment/help/demonstration/comfortwishes",
+        "contrary_or_unfinished_tail": "No newprofile/threeevents/secondtrip/completedcamp/sleep",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP12",
+        "source_ids": "G15",
+        "complete_scope": "GROUP1501–1503whole",
+        "achieved_or_changed_endpoint": "Differentrecruitment→recognizedfalsification/interception→Makiaccess/revenge/paniccopy→publicrecords→internalrebuke→severaldaysrumor",
+        "contrary_or_unfinished_tail": "No Kotamaauthorshipallacts/actualYuukaweight/completeprivacyrepair",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP13",
+        "source_ids": "L16/E10",
+        "complete_scope": "EVENT810:016whole23units/5groups/2locales",
+        "achieved_or_changed_endpoint": "Chosenchocolate/visiblebug→denial/admission→conditionalduplicatebranches→ingestionattempt/asserteddesign→helpcall/refusal/continuingdispute",
+        "contrary_or_unfinished_tail": "No swallowing/rescuer/recording/validatedsafety/generalizedharmlessness",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP14",
+        "source_ids": "E17",
+        "complete_scope": "EVENT817all11correctedmeanings",
+        "achieved_or_changed_endpoint": "Particularclubwants/rosterandpermissionquestions→programchanges/actualmachinestop→tiredpoor-conditionopening",
+        "contrary_or_unfinished_tail": "No everyKotamaaction/allassent/auditedroster/clinicalresults",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP15",
+        "source_ids": "E32",
+        "complete_scope": "EVENT832all10means+actualL115",
+        "achieved_or_changed_endpoint": "Imposedtrip→concealedrecorder/privacydemand→reading/dinner/cleanup→mixedcocoa→latestopoption/chosensunrise→muralexplanation→oneweekgames/restrefusal",
+        "contrary_or_unfinished_tail": "No lastingconversion/everylabelrepair/breakfast/erasure/actual10kggain",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP16",
+        "source_ids": "E42",
+        "complete_scope": "EVENT842all15means",
+        "achieved_or_changed_endpoint": "Recorderconfiscation→voicebargain/unlock→counterhack/analogfailure/capture→achievedgames/cleanup→ongoingnextdaywork/afterstories/localmaintenance",
+        "contrary_or_unfinished_tail": "No delivered10recordings/fairlabor/finishedfiling/permanentsecurity/punishment",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP17",
+        "source_ids": "E22",
+        "complete_scope": "EVENT822all9means",
+        "achieved_or_changed_endpoint": "Conditionalcoalition/continuingwork→Kotamareportedhack100%/othercompletedreports→availableactivation/localdooropening/companionship",
+        "contrary_or_unfinished_tail": "No individualwholeauthorship/executedselfdestruct/evacuation/laterlistening",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP18",
+        "source_ids": "F36/F00",
+        "complete_scope": "CompleteFinalC003E006+priorwholeFinalaccount",
+        "achieved_or_changed_endpoint": "Differentalgorithm/processor/languagereports→explicitnocontrol/map/noapparentweapon/Keiwarning→largeraccountcontinuedcrisis/afterstates",
+        "contrary_or_unfinished_tail": "No omniscienttechreport/unarmedship/Keyontology/isolatedKotamafateproof",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      },
+      {
+        "endpoint_id": "EP19",
+        "source_ids": "PW",
+        "complete_scope": "WholePavane257linecontextualaccount",
+        "achieved_or_changed_endpoint": "Making/audience/membership/safety and coordinatedintervention compared with privatewants/permission/recipients",
+        "contrary_or_unfinished_tail": "No all45MAIN/all577privateprimaryreceiving/globalvariantcalendar/durableinstitutionrepair",
+        "source_primary_credit": "EXISTING_OWNER_ATTRIBUTED_ONLY"
+      }
+    ],
+    "eleven_headers": [
+      {
+        "line": 23,
+        "heading": "## 1. Core thesis"
+      },
+      {
+        "line": 31,
+        "heading": "## 2. Longitudinal arc and legitimate ordering"
+      },
+      {
+        "line": 41,
+        "heading": "## 3. Public self, private self, and control over interpretation"
+      },
+      {
+        "line": 51,
+        "heading": "## 4. Millennium and Veritas: information, specialist work and disputed use"
+      },
+      {
+        "line": 61,
+        "heading": "## 5. Ordinary life: sound, making, food, warmth and company"
+      },
+      {
+        "line": 75,
+        "heading": "## 6. Crisis behavior: inquiry, partial knowledge and actual endpoints"
+      },
+      {
+        "line": 85,
+        "heading": "## 7. Relationship with Sensei: disclosure, practical help and the right to refuse"
+      },
+      {
+        "line": 95,
+        "heading": "## 8. Major peers and independent recipients"
+      },
+      {
+        "line": 107,
+        "heading": "## 9. Japanese written voice and source-mode limits"
+      },
+      {
+        "line": 117,
+        "heading": "## 10. Competing readings and evidential judgment"
+      },
+      {
+        "line": 131,
+        "heading": "## 11. Evidence route, open gaps and completeness"
+      }
+    ],
+    "all14_gaps": [
+      {
+        "gap": "G01",
+        "state": "OPEN",
+        "saved_body_line": 141,
+        "full_contribution_and_limit": "| G01 ordinary/private breadth | Eight pairs and three written objects preserve listening, food, goods, blogging, craft, warmth, company and refusal; public peers add independent recipients. | Selected breadth is not all possible Kotama or cast-wide private completion. |"
+      },
+      {
+        "gap": "G02",
+        "state": "OPEN",
+        "saved_body_line": 142,
+        "full_contribution_and_limit": "| G02 Yuuka decision/office transfer | Fairness, weak security, rumor, gifts and party pressure remain different actions. | No universal council transfer, offender disclosure or durable privacy repair. |"
+      },
+      {
+        "gap": "G03",
+        "state": "OPEN",
+        "saved_body_line": 143,
+        "full_contribution_and_limit": "| G03 Serika service/reciprocity | Gifts, food and conditional help supply a bounded comparison. | No Serika audience, wage or work-afterstate duty discharged. |"
+      },
+      {
+        "gap": "G04",
+        "state": "OPEN",
+        "saved_body_line": 144,
+        "full_contribution_and_limit": "| G04 Hina accountability/ordinary | Device refusals and selective privacy supply comparison structure. | No Hina coercion, restitution, causality or named duty completed here. |"
+      },
+      {
+        "gap": "G05",
+        "state": "OPEN",
+        "saved_body_line": 145,
+        "full_contribution_and_limit": "| G05 Arius/PS68 aftermath | Coalition expertise does not erase other people's wants. | No livelihood, legal, clinical or group-repair outcome supplied. |"
+      },
+      {
+        "gap": "G06",
+        "state": "OPEN",
+        "saved_body_line": 146,
+        "full_contribution_and_limit": "| G06 cross-school ordinary | Particular Millennium tastes and public peer choices resist a crisis-only person. | No universal school culture or whole cross-school inference. |"
+      },
+      {
+        "gap": "G07",
+        "state": "OPEN",
+        "saved_body_line": 147,
+        "full_contribution_and_limit": "| G07 chronology | Prior climb/fire/recording, next weekend, local camp sequence and one-week epilogue remain exact. | No release/outfit growth order or global MAIN calendar. |"
+      },
+      {
+        "gap": "G08",
+        "state": "OPEN",
+        "saved_body_line": 148,
+        "full_contribution_and_limit": "| G08 event/reuse |810/817/822/832/842 are distinct; costume26+26+9 has a strict final subset. | No fused holidays, extra outings or automatically identical reruns. |"
+      },
+      {
+        "gap": "G09",
+        "state": "OPEN",
+        "saved_body_line": 149,
+        "full_contribution_and_limit": "| G09 speaker/choice/knowledge | Literal seams, alternative replies, private thoughts and local anonymous roles constrain attribution. | No invented omitted choice, silent actor correction or shared inward knowledge. |"
+      },
+      {
+        "gap": "G10",
+        "state": "OPEN",
+        "saved_body_line": 150,
+        "full_contribution_and_limit": "| G10 performance | Written polite, evasive, excited and tagged forms remain legible. | No heard audio, whisper, acting, pixels or executed pause measurement. |"
+      },
+      {
+        "gap": "G11",
+        "state": "OPEN",
+        "saved_body_line": 151,
+        "full_contribution_and_limit": "| G11 Hoshino/Yume records | Recorded sound analogy authenticates no other person's archive. | Notebook provenance, grief, death causality and office states remain separate. |"
+      },
+      {
+        "gap": "G12",
+        "state": "OPEN",
+        "saved_body_line": 152,
+        "full_contribution_and_limit": "| G12 identity/system/variants |BA_PERSON_KOTAMA/10084/26001/costume and finite system reports are kept distinct. | No generic-role joins, variant chronology, ontology or universal control certification. |"
+      },
+      {
+        "gap": "G13",
+        "state": "OPEN",
+        "saved_body_line": 153,
+        "full_contribution_and_limit": "| G13 institutions/outcomes | Found devices, broadcast comparison, failed fire, privacy objections, reported access and local operations retain actual endpoints. | No safe ingestion, validated ecology/acoustics, legal permission, durable security, completed restitution or recording asset audit. |"
+      },
+      {
+        "gap": "G14",
+        "state": "OPEN",
+        "saved_body_line": 154,
+        "full_contribution_and_limit": "| G14 unclassified/mode continuity | Written contexts and narrative owners preserve modes and local routes. | No unreceived asset/special-operation meaning or full registry/native repair. |"
+      }
+    ],
+    "rival_readings": [
+      "surveillanceonly",
+      "sinceretendernesslicensesaccess",
+      "infallibleordiscreditedtechnician",
+      "curedoutdoor/echo/privacyarc",
+      "teacherdependenceorcanonicalromance"
+    ],
+    "source_mode_limits": [
+      "inwardversusspeech",
+      "alternativeversussequentialreply",
+      "taggedwrittenversusperformed",
+      "selfreportversusmechanism",
+      "localanonymousroleversuspersonjoin",
+      "accessversuscontrol",
+      "availableversusactivated",
+      "wishedversusachieved",
+      "documentaryreuseversuschronology"
+    ],
+    "ROOT_receiving": "PENDING",
+    "new_primary_raw_performed_model_independent_credit": 0,
+    "N_quarter_scope_completion_credit": 0
+  },
+  "historical_coordinates": "Original paragraph/claim coordinates remain frozen. Complete canonical saved-line mappings govern current retrieval; explicit authority/scope framing supplies no retroactive source or other package credit.",
+  "canonical_saved_line_mapping": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOTAMA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_source_or_literary_credit": 0
+}

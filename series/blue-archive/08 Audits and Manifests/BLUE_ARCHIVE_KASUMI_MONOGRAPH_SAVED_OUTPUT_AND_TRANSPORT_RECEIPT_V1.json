@@ -1,0 +1,1151 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-KASUMI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KASUMI_CHARACTER_MONOGRAPH.md",
+    "bytes": 37639,
+    "sha256": "54f242d0bb5e2e0f631a7cd63c8f909e24dd160b28a3b5da99f0d25a5cc1be27",
+    "git_blob_oid_of_actual_bytes": "93aa65c639be295c17b9cf245e48f90c37e9ecff"
+  },
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "GEHENNA_HOTSPRING_MONOGRAPHS/BLUE_ARCHIVE_KASUMI_CHARACTER_MONOGRAPH.md",
+      "bytes": 35162,
+      "sha256": "e8b4c36930bc32387ca6d09c8e5408c29a3e52b869cbcf68fa0c2c6523025882",
+      "git_blob_oid_of_actual_bytes": "d259d2ab72efb4dd25a79445564d82d63b0be403",
+      "lines": 157
+    },
+    {
+      "path": "ROOT_KASUMI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 7251,
+      "sha256": "448c0f737d505a6d38ff06e0d54a51e7d81c2a25a75db25761147aa39c4ac513",
+      "git_blob_oid_of_actual_bytes": "f721219c7f382d01928e348698f5c61d6f4ef42b",
+      "lines": 120
+    },
+    {
+      "path": "GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 110683,
+      "sha256": "2f862f2edd4a993a64c81bfd6afcefc8b2f10216245d755c04fd34b8680ad463",
+      "git_blob_oid_of_actual_bytes": "534c3f3f267b29792533c7f4dae93430e9f0d20e",
+      "lines": 2010
+    },
+    {
+      "path": "GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 3619,
+      "sha256": "7c8fae4fbb4327ee15ef2d89d5cd2d1a35e8bba00f9d6db4c08cab2134aef088",
+      "git_blob_oid_of_actual_bytes": "956d952652745f87e0db26cad061b354a1af40bc",
+      "lines": 49
+    },
+    {
+      "path": "GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 1946,
+      "sha256": "b16777ca0db87ed17593f9f57bb7f61a5d388e38690dd5ac68a03b78a053b95e",
+      "git_blob_oid_of_actual_bytes": "49fe24a98eace90465064591a53b5f66b89daa24",
+      "lines": 34
+    },
+    {
+      "path": "GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 14689,
+      "sha256": "8ba0b439cca23512a63705fbdf2eb46bc85e883db0b72e408a77d54ab6cfadf0",
+      "git_blob_oid_of_actual_bytes": "a0ae6874e7cb25a30e47d1063148271dfb8a092f",
+      "lines": 71
+    },
+    {
+      "path": "GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_V1.md",
+      "bytes": 5470,
+      "sha256": "9972869dcbf8f7f3de540bb5244a073191bd93737c7bf8cfcfc1a6744ac4c89f",
+      "git_blob_oid_of_actual_bytes": "073368c3a34e5df2ed4966ca9bdba29e3656f724",
+      "lines": 23
+    },
+    {
+      "path": "GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_RECEIPT_V1.json",
+      "bytes": 7939,
+      "sha256": "d7a01e901837c9562781f53cb862961d5d7d2d850832e1912559af58d0884af5",
+      "git_blob_oid_of_actual_bytes": "696f3eb0521ecc10b4bc95d8a17268816e69a3cb",
+      "lines": 128
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KASUMI_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KASUMI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only frontmatter/current acceptance framing, explicit ROOT scope and stable original-gap ID qualifications and optional retrieval title change. Full unchanged literary claims, sources, recipient ends and custody extents are retained. Every original line and changed clause is recoverable through exact transport.",
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 3,
+      "line_sha256": "1658226d82991e821acc7363ec1375c03a4c3037e48a2a07ed6d5d89a5430ec5",
+      "line_text": "method: DEEP_SYNTHESIS"
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 4,
+      "line_sha256": "2923c66dbdf3cac7fd09c1d32e3c93a03d356dead7112227287dbfbc376eed79",
+      "line_text": "architecture: \"1.12 / section 7.1\""
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 5,
+      "line_sha256": "6c06b85e18adb7807703fc9a4489a920c0c5b565eebaaaa3bf389e776147657c",
+      "line_text": "required_home: P3-CHAR-KASUMI"
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 6,
+      "line_sha256": "4b32c349245a44748021d8fa0a7bd597f5631b307d168131bfa84b8f7ed35dd1",
+      "line_text": "source_responsibility: P3-F033"
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 7,
+      "line_sha256": "00f5ded9428203b0b598e0b3a1f7ea7b776b08d73bb1194969796edfc0fc4ce5",
+      "line_text": "dated_navigation: P3-A136"
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 8,
+      "line_sha256": "93903a6e8bdbc9fa221ef091372e993025d6d9fb54dcd53b9cf2b72424d666a6",
+      "line_text": "person_scope: \"鬼怒川カスミ / BA_PERSON_CH0089; literal variants 10078 and 20061\""
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 9,
+      "line_sha256": "dca433725e2113a41bd7ea1bf048c40b8cfe9ebbeefcc0997266fd1090647fa7",
+      "line_text": "analytical_base: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 10,
+      "line_sha256": "3d639a1006263fe0efb71adff7cd496284e45b46a8f9c748f161e9019134278e",
+      "line_text": "historical_source_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 12,
+      "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+      "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 13,
+      "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+      "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 14,
+      "line_sha256": "9e63cfe8487237219ab0ee673a36eec21a84e1e3ee383f36643445aaef869931",
+      "line_text": "source_boundary: \"Complete effective Kasumi014V3 private arguments and comparatorV3; complete accepted Group3501–3502, Main S2V002 chapter/selected episode arguments and Event830; unchanged personally complete public owners and precisely bounded Event848 arguments\""
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 15,
+      "line_sha256": "4efc00eb15bac2aaa1416c4c159b4a5dadf8f363b2a399b9ae28d10de635a501",
+      "line_text": "authority_quartet: \"Current Cycle008 admission with limits; ROOT-qualified accepted source arguments; historical firstness/independence UNKNOWN; performed voice unreceived\""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 16,
+      "line_sha256": "abef9e120d5642fec7a7ee4983e730f875c03c166c6437b24d6da24bd0c03e54",
+      "line_text": "exposure: RETROSPECTIVE_TEXTUAL_SYNTHESIS"
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 17,
+      "line_sha256": "053d11ab47fc96cac835274ba6c83c9dac538a71508ef1181c0737f9e9530b9a",
+      "line_text": "all14_original_gaps: OPEN"
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 31,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 32,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 33,
+      "line_sha256": "e06cb14389f8fda6fc10780e58f49a9c182791933cf666f2dc1f28c833947c97",
+      "line_text": "# Kasumi — chosen work, wanted company and the limits of enabling"
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 38,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 39,
+      "line_sha256": "1ff49f3ace80bb3d9c567f743804ee7e69152128d8f98bfecc35973e387282d0",
+      "line_text": "## 1. Core thesis: enabling a wanted life can coexist with pressure"
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 40,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 41,
+      "line_sha256": "46a2cc11a5fef964cea85393af55293a4a9933a872d905d0a54e36c8b354aa53",
+      "line_text": "Kasumi's central literary problem is how she makes a life of chosen work and companionship possible while repeatedly treating another person's resistance as something to work around. She enables Meg to pursue digging rather than office, values quiet study and reading, and appreciates people who freely return to spend time with her. She also proposes coercive transport, teaches a suspicious authority-encounter script, shifts a commissioned excavation against the client's objection, and uses leverage against Ichika. Her care is particular and real; the available evidence does not make it a universal permission for her methods. The most defensible portrait preserves both her capacity to ask what another person wants and her temptation to decide the conditions under which that person must answer. [G3501–3502; M2.6, M2.20; E830:005–009; E833:003; E848:008–011]"
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 42,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 43,
+      "line_sha256": "d77ff88cbef7154f70ddb1dd810c20fdd87b67113ac3e0cd1e80b50493e66d63",
+      "line_text": "The positive case begins with intrinsic ends. Hours of silent study beside the adult's paperwork, preparatory shopping, seaside walking, a declined redundant swimsuit and chosen reading are valuable activities in their own right. Their importance does not await a major plot consequence, a successful spring, or proof that Kasumi has become harmless. The adult's refusal to grant continuing use of Schale likewise matters independently: enjoying a visit is compatible with a boundary against future access. Ordinary company supplies evidence of a life she wants, rather than an excuse that must redeem every destructive act. [K03:P01–P03; K05:P01; K09:P01; K11; E848:011]"
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 44,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 45,
+      "line_sha256": "df1dd55cc09d9e7451bcecf57d9d3f4431116d6cdfc37b364501b8d0838cdf7c",
+      "line_text": "The strongest counterpressure is also intrinsic to her characterization. Ichika's denied similarity and denied friendship are genuine recipient positions; continued cooperation does not erase them. Meg's first-person wanted-work account is stronger evidence of her preference than a member's speculation about surrendering the director's title. Hina's refusal of the scripted bag and thanks for a separate ice pop differentiate contexts, rather than certify every gift or every enforcement act. Kasumi's monograph therefore asks where enabling leaves another person's answer open, where persuasion becomes leverage, and which outcomes are actually completed. It does not require one permanent benevolent or manipulative essence. [G3502:u0032–0065,u0079–0087; E830:007–009; E848:004,008–009]"
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 46,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 47,
+      "line_sha256": "5289550940030824d602a192b9abae1b00c529fbf8ba6d94e4bc8c73717647c5",
+      "line_text": "## 2. Longitudinal states: local reconsideration, repeated limits and finite endings"
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 48,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 49,
+      "line_sha256": "9e7fa030f1304e9e8cd74bee5b2faca13c6e1639984502fb92cd1e966fc8aecf",
+      "line_text": "The material supports source-local trajectories, not a normal-to-swimsuit improvement ladder. Literal10078 and20061 belong to the current CH0089 family, while costume1900918101 joins10078 and1900958301 joins20061. Release, edition and costume metadata do not date their private encounters against Main, Group or events. The nine paired private arguments include complete linked chats and aftermath; those local relations can be retained without placing all shopping, confinement, study and disclosure into a single biography. [K01–K14; K-CMP:Q07]"
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 50,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 51,
+      "line_sha256": "9025dad93efd1c21cdcfd0f59dbf0adfd7a5438b12d7ec2ed15d094f512d8cac",
+      "line_text": "In Main S2V002 C2E006, the warehouse order presses the club into war work. Kasumi initially challenges remit and feasibility, then accommodates Meg's emphatic present wish. Her conversation with Sensei is more interesting than an immediate declaration that she knows the real Meg perfectly. She asks whether her preferred interpretation of Meg is an unfair yardstick, while also finding the abrupt change disturbing. Following the narrated briefing, she resolves to protect her friend and the club's ordinary life. That episode ends with cooperation and discussion of policy, not restored preference or a completed rescue. C2E016 then gives a successful cell-floor tunnel and rescue contact, with strong local identification of the director despite the generic member heading. Safety, transfer and technical counterbroadcast success are not all completed by that breach. [M2.6:u0001–0109; M2.16:u0001–0021]"
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 52,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 53,
+      "line_sha256": "2da24ecedb92002288d8fe5912831ec29b26fb4800188d009e937687902ab6d3",
+      "line_text": "The aftermath in C2E020 advances the question differently. Meg remembers wanting to serve Gehenna but now chooses staying with Kasumi and the club, digging, building and eating together. Kasumi explicitly warns against obeying even Kasumi automatically and asks what Meg wants. This is an actual local articulation of agency, not a certification of complete freedom from every residual effect. Her next digging target remains future. Alone, she suspects actors from “over there” and addresses Bodensatz. That named suspicion is an endpoint of her thought, not proof of the faction's present involvement or a completed investigation. [M2.20:u0089–0139]"
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 54,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 55,
+      "line_sha256": "a35ef1a5883f5469489dfc37eb909a70e18aa86552b4f5d71d8356c715034647",
+      "line_text": "The events resist an easy redemption sequence. E830 gives useful knowledge and promises alongside patronizing praise, bag leverage and Ichika's shooting report. E848 supplies a later source-local encounter and recap, not an externally fixed interval. Kasumi agrees to help after Ichika's appeal, a replacement bathing facility is actually completed, and peers volunteer. The subsequent switch, text-supported villa explosion and ongoing cleanup prevent that useful contribution from becoming a complete cure. E848:011 nevertheless retains chosen reading and the club's freely selected return for company. A local good ending can be real while institutional duties remain unfinished. [E830:005–012; E848:001,008–012]"
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 56,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 57,
+      "line_sha256": "6885ec41b626a6d6d492c12e4919ea306bec55b54bbc485ab43636bc1e304457",
+      "line_text": "| Source-local movement | Positive actual extent | What the endpoint does not complete |"
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 58,
+      "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+      "line_text": "|---|---|---|"
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 59,
+      "line_sha256": "668407a79b9f2791dae9024adb16cd9945f50f6afd8cf1864babfa1d87d4fd8d",
+      "line_text": "| K03 quiet visit | Hours of study alongside paperwork; coffee offered; pleasure expressed | Completed shared coffee consumption, future room access or a domestic arrangement |"
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 60,
+      "line_sha256": "63b4b0c330ccea9f83cf5efc1a537be5106bc409541799db2e120e1595ad01f2",
+      "line_text": "| K04 ankle/footwear encounter | Negotiated assistance; later chat testimony that sandals were received | Independently witnessed transfer/descent, clinical recovery or generalized consent |"
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 61,
+      "line_sha256": "a655f58ce2f52439c32bbd1d95ad15c1184e55baf1d2583ada15d407aab96b7d",
+      "line_text": "| K06–K08 trips and interruption | Rescue arrival in confinement; trade discussion and shopping; actual adult departure from interrupted meeting | Full party exit, paid shipment, fulfilled compensation or removal of the unnamed threat |"
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 62,
+      "line_sha256": "39d932f150f79984bcf459c3572c7be5f5f1899c56605c5a238febf8574f3c00",
+      "line_text": "| M2.6 → M2.16 → M2.20 | Concern tested, rescue contact achieved, Meg's local choice explicitly requested and voiced | Isolated cognitive mechanism, global freedom audit, property repair or proved Bodensatz involvement |"
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 63,
+      "line_sha256": "fe19426af2b350260cecbf55b30259519b04987907866f1fa9188bf5143390ce",
+      "line_text": "| E848:008–011 | Volunteers agree; replacement facility completed; returned materials used; reading and chosen company retained | Natural hot water, legal land transfer, durable safety, complete cleanup or mutual Ichika friendship |"
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 64,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 65,
+      "line_sha256": "8d3b2e62da3832c9578facf8cd88ce90278cb02a3fdcd6db63c28092f78aca99",
+      "line_text": "## 3. Public and private self: presentation does not settle motive"
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 66,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 67,
+      "line_sha256": "ccdd3ecbe8bb088d51bb2a084c20946a6e9a6648e49ffd061dfc73e79a6ba9da",
+      "line_text": "Kasumi openly describes strategic presentation. K03's Japanese account concerns appearing unthinking or without ulterior purpose; the Korean formulation stresses avoiding questions by appearing stupid or crazy. K06 likewise differs between Japanese emphasis on how others perceive her and Korean emphasis on achieving the purpose. These are situated self-descriptions, not clinical judgments, nor proof that every laugh, kind act or pleased silence is counterfeit. Her hours of study and the adult's simultaneous paperwork are represented actions; a strategic account cannot retroactively make them unperformed. [K03:P01–P03; K06:P02; K-CMP:Q05]"
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 68,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 69,
+      "line_sha256": "9f4df837e29465a6b9a37f64bb14403465d81c2486877df434a208e294577075",
+      "line_text": "The coat story gives presentation a chosen imaginative origin. Movie-doctor admiration explains why the coat matters, while the accepted wording preserves Japanese inability to become a real doctor and Korean inability overnight. This supports a valued image and a limit on qualification, without medical capacity. The disclosure itself is narrow: one-answer permission does not grant unrestricted biography. Japanese and Korean assent, unwillingness and refusal-to-tell formulations differ, and the later confidentiality/trust exchange includes frightening or heavy adult responses before her explicit joke. Neither intimacy nor pressure should disappear. [K09:P02–P04]"
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 70,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 71,
+      "line_sha256": "7ad985ef0289dd95fa07484b12dcdd928f110b4bfc57bff4a86c0a8076a3147a",
+      "line_text": "Her public rhetoric also needs attribution. Claims that a spring will benefit others, that a site will collapse, or that a transport solution is prepared are not independent surveys. K07 gives a refusal of a profit-business proposal, whereas E848:011 initially invokes materials, development rights and contractual exchange before withholding a simpler motive. Those contexts do not establish either universal anti-commercial purity or universal concealed profit. Refusing one outside proposal can coexist with commercial calculation elsewhere, and a withheld explanation is not evidence that the hidden motive must be malicious. [K07:P01–P03; G3501:u0051–0068; E833:003; E848:003,009,011]"
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 72,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 73,
+      "line_sha256": "9ddfea10d5bc4ddaceef3eba8979c86e60639198339e5b2c16adbf2dab6ecc4d",
+      "line_text": "Private care is similarly bounded. She apologizes for imposing on a busy adult, asks about his return and describes unfulfilled thanks as uncomfortable debt. These are relational positions, not a clinical dependency diagnosis. In K08 she asks him to leave a meeting that cannot continue; the final departure is represented, while renewed contact and threat resolution remain future. A useful portrait permits Kasumi to want company and to end a particular encounter, without converting either act into abandonment or permanent safety. [K08:P01–P04]"
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 74,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 75,
+      "line_sha256": "83db0d88c98cdbcffa4b0f4ffd125c2c8411d79dc30253126c5b3a0d1439adad",
+      "line_text": "## 4. School and club: leadership measured against chosen labor and affected people"
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 76,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 77,
+      "line_sha256": "40e8cf07d8b3bcabb29742b26647bcec0933a005a8e3b2c5e38939807e47f667",
+      "line_text": "Kasumi is the written Hot Springs Department leader, but the most revealing leadership evidence is relational. G3501's member reports that Meg once held office and relinquished it when Kasumi arrived, then admits not knowing why. G3502 supplies Meg's stronger first-person account: Kasumi asked what she wanted; Meg wanted to dig; Kasumi offered to make that possible; excavation work and increased membership followed by her report. This supports a wanted division of labor at the stated scope. It does not supply a formal election, audited roster, coerced takeover or full freedom in every task. [K10:P01; G3501:u0030–0039; G3502:u0079–0083]"
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 78,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 79,
+      "line_sha256": "da691a7a5a3af5448b59dfd3e184ac94302cf8d2e477b7902a4d7077592c987f",
+      "line_text": "Leadership also includes a discrepancy between reassurance and provisioning. G3501's workers are tired and worry about access. Kasumi proposes shuttles and claims a paved road, then acknowledges the absence of buses and proposes hijacking transport. She invites rest and insists construction alone does not finish a spring; these are positive work and care distinctions. The transportation remains unfulfilled and its proposed means objectionable. Trust in a director is not proof that the logistics already exist, and a soothing bath does not authorize taking someone else's vehicle. [G3501:u0005–0012,u0051–0068]"
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 80,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 81,
+      "line_sha256": "c7ebc738a744b52ecf800e4abd496908212fd12a7f77f2ee3e4467fdb2d0fbae",
+      "line_text": "E833 tests a commissioned setting. The received account preserves reported venue and spring arrangements, then Kasumi's move from the contracted behind-hall location to the parking area against the client's objection. Her better-spring and future-satisfaction rhetoric does not substitute for consent. The Hot Springs retreat plan, damage observation and disputed causal blame remain qualified. Hina's later acceptance of a share of responsibility cannot become Kasumi's full exoneration or an audited allocation of every cost. The party eventually restarts after compressed resolution, but a successful ceremony does not certify fair budgets, repaired facilities or harmless service. [E833:003–004,008–009]"
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 82,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 83,
+      "line_sha256": "06fd5f078fc7ee4521b7de83430e3ec87549f6102c4cd7890deac658b75b0544",
+      "line_text": "The same club can act differently in E848. Kasumi asks members to volunteer because the requested task is not hot-spring work; Meg and peers agree. Returned materials are used and an actual replacement bathing facility results. Its heated water and additive must remain distinct from natural spring water. The club's later leave and freely selected return are meaningful local work and companionship outcomes. They do not discharge separate required institutional questions about land permission, contract authority, public access, cleanup, coercive methods or affected owners. [E848:008–012]"
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 84,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 85,
+      "line_sha256": "61643d2fe36a4378bf134d51818226865b51d3854763458b7dab6e960075fe30",
+      "line_text": "## 5. Ordinary life: study, bathing, reading and company are complete analytical subjects"
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 86,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 87,
+      "line_sha256": "a634b327ba9c4c158189c07ef9ee6951c554b60e882286359a6606f41869a038",
+      "line_text": "Kasumi can be read through pleasure without making pleasure a rehabilitation device. In K03 the shared quiet is sustained by actual study and actual paperwork. Coffee is offered; the Japanese preparation and Korean empty-cup motivation differ; completed shared drinking is absent. The adult refuses the proposed continuing room access. This ordinary ending provides both enjoyment and a limit, making it more informative than a generic description of her as always noisy or always calculating. Quiet concentration and wanted companionship need no combat application. [K03:P01–P04]"
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 88,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 89,
+      "line_sha256": "b74254de2faa41e76c214b6847c65d890a28ffffd28552f9a869610fe23b1ff8",
+      "line_text": "K05 gives practical preparatory shopping and thanks. Members' seaside and sandbath wishes help motivate preparation, but the camp remains future at that point. Food, vegetables, a pot, insect medicine, ointment, fireworks and a float belong to that wanted everyday project. Her refusal of another swimsuit because she already has one is an actual preference, not proof she rejects gifts generally. The represented shopping time and the later bag/fish-pastry exchange matter; returned money, consumption and a completed camp must not be inserted. Spoken explosive sound imitation is likewise not a witnessed detonation. [K05:P01–P04]"
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 90,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 91,
+      "line_sha256": "f11f81eb09dac3203d9c9f6d3a5894cd4b8132f4afd186d3e7cb648b6e310507",
+      "line_text": "K09's seaside walk, light appetite and food refusal give a quieter private encounter. Being thought of as on a date is her conjecture about onlookers, not mutual romance. One answered question and an admired coat can make the walk important without a meal, lottery prize or general right to ask about her past. The written swimsuit profile extends reading, idle pleasure, shelter and decoration difficulty, while retaining unequal seasonal invitations and jokes. These source modes make desired activities available; they do not perform every party or future contact. [K09:P01–P04; K11]"
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 92,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 93,
+      "line_sha256": "1b5c8de90d59c9d7c927fa4e93b17146f34aadf90cd083d23bc073ea159bb5c8",
+      "line_text": "G3501 gives bathing a particular remembered significance. Meg infers a snow-bath preference from their first encounter and Kasumi recognizes the episode. Their convergent conversation does not replay its cause, clinically revive her or prove an unseen political origin. Kasumi's exuberant therapeutic language is an affective claim, not medical evidence. Her warning about slipping and invitation to rest remain concrete care. E848:011 then gives chosen reading during leave, Meg's return with existing ice creams for Kasumi and Sensei, and other members' return for company. Meg's planned additional purchase is not completed. The freely chosen presence is the important outcome, without requiring an end to all disturbances. [G3501:u0069–0106; E848:011]"
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 94,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 95,
+      "line_sha256": "b619eb1a0956233eee5164746383fd35f06265f2f2cdaa436706cf4063ea3fca",
+      "line_text": "## 6. Crisis behavior: resistance to control does not authorize every counteraction"
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 96,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 97,
+      "line_sha256": "ddc19f5dcf91165fd59369085ed8af097e69adbea2b70c188518c7b86fac46c3",
+      "line_text": "M2.6 distinguishes Kasumi's concern from possession of a perfect answer. The institutional messenger demands eight warehouses in a week, threatens betrayal consequences and appropriates Meg's assent. Kasumi objects to the club being civil works, but also asks whether her account of Meg's authentic desire is too convenient. Her own autobiographical claim of once mistaking an implanted “voice” for herself gives the crisis personal resonance, while its mechanism and history remain deferred at her request. Sensei's briefing and the observed contrast make concern reasonable; they do not independently diagnose Meg or prove a repeated technology. [M2.6:u0001–0101]"
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 98,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 99,
+      "line_sha256": "4913e928ba532b8098ec9b456904b04693a789c12dd6288f4f3e8c2e98a52de9",
+      "line_text": "Her offer to cooperate becomes materially effective in M2.16: a tunnel enters the cell floor and she establishes rescue contact. That achievement must survive caution about later travel, damage and counterbroadcast. The wider chapter supplies a counter-signal, acute pain, reconsideration and local rejection of war, while retaining rival causal contributions and untested technical claims. Kasumi is not made sole rescuer of the school or author of the signal. M2.20's explicit rejection of automatic obedience is a valuable local response, while suspicion of Bodensatz remains hers. [M2.16:u0001–0021; M2.C2:E016–021; M2.20:u0096–0139]"
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 100,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 101,
+      "line_sha256": "28a62d89e572bddb3e2d93fb78e4f2bf585bfb1a03e3f2ebe51c4956aecc5e44",
+      "line_text": "Her private confrontations require equal care about endpoints. K06 stages shaking, dust and coughing, a rescuing member's arrival and unequal locale accounts of the escape conditions; diversion and main force remain pending. A typed memberA/native text-bearing memberB seam cannot be repaired from expected familiarity. Later chats carry apology and increased-debt language, not a fulfilled settlement or proof everyone exited safely. K08's threatening unfamiliar-uniformed figure remains unjoined and its institutional history unresolved; Kasumi's assurance is not a wellbeing audit. [K06:P01–P04; K08:P01–P04]"
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 102,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 103,
+      "line_sha256": "32c43bbea7c7443647fdebce56848ab8e7d00567d2c30548984a92936df884e7",
+      "line_text": "E830 is a serious adverse case. Practical knowledge, conditional promises and a possible food invitation coexist with contested accompaniment, school-qualified praise, a disclosed explosive contingency and bag leverage. Ichika rejects rhetorical similarity and wants to leave. Kasumi predicts compliance; Ichika later explicitly reports shooting and apologizes, with target and clinical outcome unprinted. The transport/custody frames positively report or stage restraints and prior harm, yet their final containment and exact causal chains remain unsettled. Neither “all threats were jokes” nor “every predicted disaster was performed” fits the received ending. [E830:004–012]"
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 104,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 105,
+      "line_sha256": "502626e12bb57d74b39229d0432394a27e85ac4002cf10af14e8036a85eabd8b",
+      "line_text": "## 7. Sensei: particular company, negotiated help and permission to withhold"
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 106,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 107,
+      "line_sha256": "e8f80d1fb0b59ff5eb0464285494f6f2e039d83d0f260c5fe3ad71a60e030dee",
+      "line_text": "Sensei's role is not exhausted by enabling access or absorbing consequences. K01 gives shared scenery and exploration despite a failed site, with later patrol/capture accounts remaining reports. K02 represents a safe-place search, discussion until dawn and Kasumi sleeping on the map; the later apology and possible reassurance do not complete a perfect site. The adult can offer companionship without guaranteeing the development project. Quiet study beside paperwork gives another form of contact in which both retain activity, followed by a refusal of continuing room use. [K01–K03]"
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 108,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 109,
+      "line_sha256": "615015fc3d60a4768170e38f0c7034dd438b9ef6ebf75b486ec61262a144ef23",
+      "line_text": "K04 distinguishes negotiated bodily help from generalized access. The ankle and sandal formulations differ across locales and are not medical findings. Carrying discussion, insistence and qualified acceptance do not establish unlimited consent. The BOND endpoint does not explicitly complete descent or footwear transfer; the linked chat positively reports that sandals were received. That testimony advances the local outcome without becoming independent observation or permanent recovery. Kasumi's remembered care and prospective careful use matter, but do not certify romance, parental status or a standing right to assistance. [K04:P01–P04]"
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 110,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 111,
+      "line_sha256": "2a7b1a54eaf9822a768d83860e902e47adc8e1e3998f2e3d3d3321769e1de38a",
+      "line_text": "Sensei's approach in M2.6 includes persistence, a narrated briefing and respect for a deferred history. Kasumi first notices his exhaustion and tries to spare him. He hears the difficulty and offers to hear her past when she wants, rather than extracting it during crisis. The alternative claims about Meg's true feeling and changed thinking remain alternatives. His support opens a question; it is not a clinical diagnosis or complete explanation of Kasumi. That contrast belongs beside K09's narrow disclosure and withheld details, where even a warm relationship does not make every question permissible. [M2.6:u0048–0101,choices001–005; K09:P02–P04]"
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 112,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 113,
+      "line_sha256": "0407bfb262307038435de0c7aeb5b4edb7c817347c782a5d877062ebd9fb859b",
+      "line_text": "The adult also remains a fallible participant in public encounters. E848:009's pressure to call Ichika a friend receives an explicit rebuke. Kasumi's and Meg's label is not rendered mutual by Sensei repeating it. In E848:011 his company and existing ice-cream gift are positive, while he cannot force her motive beyond the explanation she gives. Private chats preserve questions, reassurance, frightened/heavy responses and joke acknowledgments without certifying every Answer record delivered. These are particular relational exchanges, not a complete Sensei ethics account or a selected canonical romance route. [E848:008–011; K06–K09]"
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 114,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 115,
+      "line_sha256": "5600ab8adcc13fd93db1de252099a4b5a60baf481731e4df24ac9a0409fe2564",
+      "line_text": "## 8. Peers: Meg's own choice, Hina's distinction and Ichika's resistance"
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 116,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 117,
+      "line_sha256": "1f3a06f66c994a972db88cb521e7773554ddbfb6c364ec6a776bb0cb1039a527",
+      "line_text": "Meg supplies Kasumi's strongest enabling relationship and cannot be treated as a reward for her. She offers tired workers rest; a worker protests resting alone while she continues. Their concern grants them independent positions, rather than a director-centered labor picture. Meg's account of wanting to dig corrects a peer's motive guess about relinquished leadership. Her inferred snow preference is not Kasumi's original statement, though Kasumi recognizes the memory. Their warm rapport survives the speculative logistics and the unverified therapeutic claims. [G3501:u0016–0039,u0069–0106; G3502:u0079–0083]"
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 118,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 119,
+      "line_sha256": "a5b9d86d627133456683d9a523109333b9e8be32e9a18cf0c721c42f8395ab31",
+      "line_text": "M2.6 gives a difficult test of that rapport. Kasumi's willingness to grant a wish initially accommodates war work, while her unease includes self-criticism about deciding what Meg must really want. M2.20 then asks the question directly and warns against obeying Kasumi herself. E848's volunteered response and later chosen return extend that repertoire at their local scopes. They support neither a helpless-worker reading that deletes Meg's voiced preference nor a guarantee that the leader's influence is always transparent or harmless. [M2.6; M2.20:u0096–0126; E848:008,011]"
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 120,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 121,
+      "line_sha256": "f18e7ed570f457c470b67f5d97d704e5bbf42c167597f39633723c470bcb96a0",
+      "line_text": "Hina distinguishes a suspicious taught script from ordinary sharing. Meg tries Kasumi's bag technique for the first time by her account; Hina rejects it through a destructive signal and relayed sanction warning. Contents, exact destructive method, law and completed corrupt bargain are unprinted. Hina then accepts an ice pop with thanks and offers weather care. Meg does not understand the distinction but can faithfully transmit the warning; Kasumi's shriek establishes reception and reaction, not changed future conduct. Hina's unnamed aside about “those people” is not a Bodensatz join. [G3502:u0013–0065,u0085–0096]"
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 122,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 123,
+      "line_sha256": "590a89553dfb67864df206c3a2aba0cb4d067313ed3315c75c910f61387b686a",
+      "line_text": "Ichika is a distinct contrary recipient. E830 repeatedly preserves her objections, incomplete explanations and refusal of alignment against Kasumi's useful proposals and leverage. In E848 she still rejects their supposed closeness, independently seeks expertise for Mika's wanted rest, refuses authority to transfer land and bounds what she can promise. Kasumi's pressure for disclosure remains despite her subsequent help. Ichika's denied friendship must survive cooperation, Hasumi's thanks and the completed replacement facility. Kasumi's monograph does not complete the separate directed relationship responsibility or turn its counterpart into an illustration of her generosity. [E830:005–010; E848:001,004,008–011]"
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 124,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 125,
+      "line_sha256": "8e9d54214903d2c0dfc3d3363f0729ccd4194020b20bbaa2fc8fb3e255ef0dc8",
+      "line_text": "## 9. Language and written register: expansive claims beside pauses and precise boundaries"
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 126,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 127,
+      "line_sha256": "743113a5c70d080bf639b9f9e0296bf17ae8881cbf52f23292b98b121c0821cf",
+      "line_text": "Written Kasumi moves between expansive laughter, tactical explanation, teasing claims of similarity, quieter memory and withheld biography. G3501's exuberant bath endorsement sits beside its final personally weighted remark; G3502's immediate shriek is different from evidence of enduring reform. Main's questioning of the “real Meg” and warning against automatic obedience gives language for a concern that her broader freedom rhetoric alone would not establish. Those contrasts are literary patterns in the received text, not measured delivery, acting, pitch or voice performance. [G3501–3502; M2.6; M2.20]"
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 128,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 129,
+      "line_sha256": "da44320244ad0702efe141f694d5737da8c5b6e098f1506b38ada99db52eadbb",
+      "line_text": "Locale inequality is part of the argument. The study book differs in its technical emphasis; coffee preparation and motivation differ; the sandal account advances through later testimony; fish-pastry compensation differs; secrecy and return wording are not identical. The coat's Japanese inability to become a real doctor differs from Korean inability overnight. The two swimsuit costume editions retain Japanese explicit stopping versus Korean tickling/question/laughter at their final contact rows. None should be averaged into common consent, shared coercion or a uniform medical qualification claim. [K01–K09; K11–K13; K-CMP:Q06]"
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 130,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 131,
+      "line_sha256": "d5b12b06ef61d2b0614587f6d69cd7f3b814ad6f6aea658cb16b7843b350170f",
+      "line_text": "Attribution matters directly to the thesis. K07's generic #st/log passage is typed NARRATION with empty person fields; named written UI elsewhere does not retroactively secure it as performed Kasumi dialogue. K06 and K07 preserve the member and merchant/text-bearing seams. G3501–3502 has thirty-five display/text discrepancies, including Meg's chosen-work account under a Hina display label and Hina's withheld aside under Meg. The accepted owner supplies qualified allocations without changing locked canonical labels. Taking the wrong heading literally would delete Meg's agency or invent Hina's gift to herself. [K06:P02; K07:P04; G3501–3502:§7]"
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 132,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 133,
+      "line_sha256": "5ef53decbdafc914fba9c95d5cdb1c503e0bcd29e9622b38379c99083859f843",
+      "line_text": "The complete private register has two profiles, ninety-two normal written rows and one hundred three event rows across two distinct costume objects. Those physical records are not that many encounters. Normal and event order, repeat/mini-event absences, Talk versus ShopUITalk, conditions and literal strings remain in their owners. Forty-four MomoTalk Answers in twenty-four groups retain twenty pairs and four singletons with condition0; sequential singletons and paired alternatives must not become one runtime branch. Release metadata, raw duration/CV and written sound cues supply no new audio, performance or global chronology. [K10–K14; K-CMP:Q06–Q07]"
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 134,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 135,
+      "line_sha256": "19a4302fd156a69d71f57e29254be8e4865f0d5e6508e55795ff643b75c9fb75",
+      "line_text": "## 10. Competing readings and the claims that survive them"
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 136,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 137,
+      "line_sha256": "4bb1a34832679a764d603dc919ad77e981a4fcc2bed3eaad4515f6602933b0f0",
+      "line_text": "**The benevolent enabler.** Meg's direct wanted-work account, Kasumi's rest invitation, her request for volunteers and later appreciation of freely chosen company support this reading. It fails if it makes enabling an all-purpose authorization: no buses have been acquired when hijacking is proposed, Ichika denies friendship, a client objects to displaced excavation, and the switch/explosion leaves costs. A defensible version names particular enabling acts and keeps affected people able to object. [G3501–3502; E833:003–004; E848:008–011]"
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 138,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 139,
+      "line_sha256": "8bc4f7b94bea8691132143143e456be18a16b317b493d67a949caede6909f58d",
+      "line_text": "**The wholly calculating manipulator.** Strategic presentation, suspicious gifting, patronizing praise, bag leverage, possessive rhetoric and pressure for disclosure support serious skepticism. The totalizing version cannot account for actual quiet study, her rejection of a profit proposal, apology and concern, her self-criticism about Meg, or company explicitly chosen by peers. K07's self-as-tool formulation and hypothetical dark ending do not independently perform kidnapping, ownership transfer or injury. Generic serial-mode text cannot certify every utterance as securely voiced by her. Calculation is an available repertoire, not proof that care never occurred. [K03; K07–K09; M2.6; G3502; E830; E848:011]"
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 140,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 141,
+      "line_sha256": "3487c631034563f107e5c4f102920f24913bc32d4ec59d5ac3a5a156b9adf659",
+      "line_text": "**The anti-authoritarian liberator.** Her opposition to warehouse conscription and instruction not to obey her automatically are consequential. Her own methods also pressure clients, officials and Ichika, while development rhetoric does not prove public benefit or title. The best version preserves a locally stated commitment to chosen club life, tested against her coercive shortcuts. It does not grant an invariant ideology, lawful practice or a completed liberation of everyone affected. [M2.6,M2.20; G3501–3502; E833:003; E848:003–012]"
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 142,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 143,
+      "line_sha256": "39a54d39e86cb8c7d949a699d1cda54a9e343ba6f96506d90477053afe25f937",
+      "line_text": "**The hidden-origin explanation.** Kasumi's autobiographical “voice,” the recognized snow memory, Hina's unnamed aside, K08's threatening encounter and the Bodensatz suspicion are substantive leads. They have different sources and do not automatically name the same institution, incident or mechanism. Recognized memory supplies convergent testimony while the incident's cause remains uninspected. A monograph can explain why secrecy and remembered care matter while leaving medical condition, faction membership and technological continuity unproved. [K08–K09; G3501–3502; M2.6,M2.20]"
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 144,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 145,
+      "line_sha256": "74e8cce023654e08d9c0ee6a22a0074996b3886a548668120b87fc535bd2eb89",
+      "line_text": "**The comic harmlessness or perpetual-failure reading.** Comic register cannot erase real pressure and reported prior harm in E830, the contract objection in E833, or the villa explosion confirmed by E848:010. Yet an all-failure portrait deletes actual study, shopping, walking, rescue contact, completed replacement bathing and chosen company. The corrected reading keeps finite achievements and finite costs. No successful local ending supplies universal safety; no unresolved repair removes everything the encounter actually accomplished. [K01–K09; M2.16; E830:009–012; E833:003–009; E848:008–011]"
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 146,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 147,
+      "line_sha256": "75cba92f8f72873c2a93a75f5dc16fce9e1d50f7b40a35b6a644e997f371f7a0",
+      "line_text": "## 11. Evidence, fourteen open gaps and the completion boundary"
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 148,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 149,
+      "line_sha256": "7507894c54ae5c6e850efdfe00c1e603b13c3573f0641c6d9614967891fd3498",
+      "line_text": "Citation keys preserve exact receiving scope. **K01–K14** are the complete effective KASUMI_CURRENT_001–014 arguments selected by the active014V3 manifest; six are narrow effectiveV3 successors and eight unchanged whole bodies. **K-CMP** is the complete separate private022/current014/Main-G09 comparatorV3. The source union is nine BOND, nine whole linked MomoTalk and four written objects, not twenty-two new primary readings by this author. **G3501–3502** is the complete maintained Hot Springs group owner. **M2.6/M2.16/M2.20** are complete Main S2V002 C2 E006/E016/E020 arguments; **M2.C2** is the complete chapter checkpoint. **E830/E833** are complete maintained twelve/ten-object event accounts. **E848** means the complete thirty episode and whole-event argument spans and source limits personally received, with declared clip repair, rather than the entire2333-line historical metadata/ledger file. All exact tuples, ranges and actual readback witnesses are in the companion receipt."
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 150,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 152,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 153,
+      "line_sha256": "86e70acf5c87f6f7d379922eb04b7da5674aa8ffd06f34b3fb7a4dbd940fcb4f",
+      "line_text": "| Gap | Claim-specific OPEN disposition |"
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 154,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 155,
+      "line_sha256": "2e76759e5df06dae180d1ff8b6073e7e75a624c856594f404d4da9f64dffd929",
+      "line_text": "| G01 | Study, shopping, baths, reading and chosen company materially enrich Kasumi's ordinary repertoire. They do not close the cast's full ordinary breadth or certify all future invitations fulfilled. |"
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 156,
+      "line_sha256": "a380fe31a41a0153a52b444467c653aabcf22e4021b01a9ea1c4ae08c87451a1",
+      "line_text": "| G02 | No Yuuka workload or dyadic result follows from Kasumi's silent study, club logistics or Schale company. Yuuka's independent responsibilities remain separate. |"
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 157,
+      "line_sha256": "58995ac748e51805e919787ec77f3f6e982acfe4c751590fa51ac89040e041ef",
+      "line_text": "| G03 | No Serika employment, payment or family-work outcome is established by Kasumi's trade discussion, declined profit proposal or promised compensation. |"
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 158,
+      "line_sha256": "edb3c6f4fc3ba304d720e6333684a8c7e8352bc1edafd5606da0bd5ccbb696d8",
+      "line_text": "| G04 | Hina's bag refusal, thanks and weather care are particular non-crisis evidence. The exact destructive means, universal gift policy, public accountability and her full private repertoire remain independent. |"
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 159,
+      "line_sha256": "f3dcaf886ab9b75b0f3aad7900a3fd5877768f3e345606bf01efde25befe67b1",
+      "line_text": "| G05 | No Arius/PS68 trauma, work repair or aftermath is completed by a shared theme of freedom, debt or institutional pressure. Their actual source responsibilities are not transferred here. |"
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 160,
+      "line_sha256": "c95c9edbbeae0d0b21736d6a2559636e08b5c8e9a1f11127d3220cf39d75d9da",
+      "line_text": "| G06 | Ichika's resistance, Hasumi's thanks and Hot Springs cooperation add differentiated cross-school contact. They do not prove mutual friendship, all-school prejudice, permanent trust or completed public repair. |"
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 161,
+      "line_sha256": "f55c6a9ca51be9ea42d67348de199458e2b67b753c877de64d78349eb37210a9",
+      "line_text": "| G07 | Nine paired private joins and Main/event local sequences remain distinct. Normal/swimsuit, seasons, repeat editions and release metadata do not establish one Main calendar or a development ladder. |"
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 162,
+      "line_sha256": "0ad6ef328dee0f3162762bb060efdf8be3fad07b52a454d62c3cd3843f007fdf",
+      "line_text": "| G08 | CH0089,10078,20061 and the two literal costume IDs are retained. Nika's mistaken address and unspecified places do not create people, named factions or chronology edges. |"
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 163,
+      "line_sha256": "357db8b37b73bdaaab5302aa72063c3e56d3fac3d7545cdbfb3bed5da4f54be3",
+      "line_text": "| G09 | Private member/merchant seams, generic logs, thirty-five G350 display/text discrepancies, event seams and Answer/choice modes remain qualified. No automatic header repair, all-option delivery or exclusive runtime path is inferred. |"
+    },
+    {
+      "frozen_line": 149,
+      "canonical_line": 164,
+      "line_sha256": "81f3b0e83f627acf8d88b924d708d73b6d30202c4e5bffb4aeb22b5e41568bed",
+      "line_text": "| G10 | Written rhythm, sound cues, CV/duration fields and video directives provide zero newly inspected performed voice or audiovisual evidence. |"
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 165,
+      "line_sha256": "64a6fc112c26c77a2474cbefafa63b07c44e8696512b1727b5c0c117e514dc51",
+      "line_text": "| G11 | No Yume record, Abydos history or archived family fact is established by Kasumi's remembered snow encounter, coat explanation or unnamed origin. |"
+    },
+    {
+      "frozen_line": 151,
+      "canonical_line": 166,
+      "line_sha256": "1381ef412c133532b631b6ba9c43d2640eb2de80950d81b1d2866785b6c3ea30",
+      "line_text": "| G12 | Anonymous members remain source-local. Hina's “those people,” the K08 threatening figure, Kasumi's Bodensatz suspicion and her past “voice” do not authenticate one faction/person/mechanism chain. |"
+    },
+    {
+      "frozen_line": 152,
+      "canonical_line": 167,
+      "line_sha256": "be6659325d824fd40e74d5c331ec64f6f45957c4284994ab54418896e2164242",
+      "line_text": "| G13 | Clinical recovery, therapeutic efficacy, ordnance/engineering safety, land title, paid shipment/refund, lawful restraint, audited gift contents, complete damage and lasting reform remain unproved beyond each actual local endpoint. |"
+    },
+    {
+      "frozen_line": 153,
+      "canonical_line": 168,
+      "line_sha256": "405b84f80980eae5827b373b67277a572728397de35d31a91c7bed58ff17461b",
+      "line_text": "| G14 | BOND, whole MomoTalk, profiles, event written registers, Main, Group and event narrative retain different evidence functions. Named UI cannot retroactively name generic logs or turn written requests into performed visits. |"
+    },
+    {
+      "frozen_line": 154,
+      "canonical_line": 169,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 156,
+      "canonical_line": 171,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 157,
+      "canonical_line": 172,
+      "line_sha256": "c18847213daa07a6c3197aa7d18b92ba0b0a81e4bff79aefa6cc32146bbdd844",
+      "line_text": "The required directed Meg/Kasumi, Kasumi/Ichika, authority/recipient and Sensei relationship questions, Hot Springs ensemble and institutional labor/permission/repair questions, written-register duties and remaining eligible cast remain separate under current V3. This monograph's completion boundary does not make those packages optional. Its conclusion is literary and bounded: Kasumi can help others inhabit wanted work and company, and the most searching evidence keeps those others free to want, refuse, correct and remain owed an answer."
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        3
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: character_monograph_candidate"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        6,
+        6
+      ],
+      "canonical_lines": [
+        5,
+        4
+      ],
+      "frozen_text": [
+        "status: LOCAL_CANDIDATE_ROOT_RECEIVING_ADOPTION_PENDING"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        13,
+        13
+      ],
+      "canonical_lines": [
+        11,
+        11
+      ],
+      "frozen_text": [
+        "current_control_reference: \"ROOT V3 required-home partition; current worktree metadata captured separately; 1bb97d07 historical, ROOT reported successor dbabbf95\""
+      ],
+      "canonical_text": [
+        "historical_author_current_control_reference: \"ROOT V3 required-home partition; current worktree metadata captured separately; 1bb97d07 historical, ROOT reported successor dbabbf95\""
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        20,
+        19
+      ],
+      "canonical_lines": [
+        18,
+        30
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KASUMI_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "canonical_publication_base: 92184703994a1950a5660654ce52d8516dbe9bf5",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        23,
+        22
+      ],
+      "canonical_lines": [
+        34,
+        37
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KASUMI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KASUMI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Persistence follows complete ROOT installation; source publication, main integration and other required packages remain separate. The355-package/29-section scope is unchanged; no quarter, model or performed evidence is claimed. The prior47-package source publication base is `92184703994a1950a5660654ce52d8516dbe9bf5`; frozen author/control/progress snapshots below retain their dated meaning. Execution requires ROOT’s successful actual exact-head audit chain.",
+        "",
+        "The [unchanged separate public-context supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_V1.md) and [its qualified exact receiving receipt](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_RECEIPT_V1.json) are mandatory parts of this accepted boundary. The original two supplement files remain byte-for-byte immutable; readable reference translation does not retroactively enlarge custody or supply another package. Report-only Kasumi leadership, the unequal Japanese/Korean prior-intent testimony, Meg’s actual foundation blast, positive bounded coalition reports and the unresolved EVENT835 heading are preserved in full."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        136,
+        136
+      ],
+      "canonical_lines": [
+        151,
+        151
+      ],
+      "frozen_text": [
+        "Current Cycle008 admission and Gehenna20's accepted effective routes govern inherited UNADMITTED, author-pending and draft_noncurrent creation wrappers. That qualification grants neither this author's primary inspection nor independent firstness. Analytical owners are bound to main2e and historicalc1 separately from current ROOT worktree scope metadata; published1bb97 is historical after ROOT's reported dbabbf95 successor. The current V3 home is existing P3-CHAR-KASUMI, with F033 source responsibility and A136 dated navigation. This candidate makes no new entry, adoption, publication or milestone count. Its retrospective exposure does not create a prediction test."
+      ],
+      "canonical_text": [
+        "Current Cycle008 admission and Gehenna20's accepted effective routes govern inherited UNADMITTED, author-pending and draft_noncurrent creation wrappers. That qualification grants neither this author's primary inspection nor independent firstness. Analytical owners are bound to main2e and historicalc1 separately from current ROOT worktree scope metadata; published1bb97 is historical after ROOT's reported dbabbf95 successor. The current V3 home is existing P3-CHAR-KASUMI, with F033 source responsibility and A136 dated navigation. The original candidate writing supplied no new entry, adoption, publication or milestone count. ROOT subsequently received and accepted the complete character argument with its mandatory separate public-context supplement; persistence follows complete ROOT installation. Its retrospective exposure does not create a prediction test."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        155,
+        155
+      ],
+      "canonical_lines": [
+        170,
+        170
+      ],
+      "frozen_text": [
+        "There is no identified mandatory recovery debt for the claims actually asserted within this candidate's bounded textual scope. Stronger origin, medical, engineering, legal, chronology, runtime and enduring-repair claims remain excluded and would require their own specific evidence. ROOT must independently receive the saved whole prose and receipt, verify exact bindings, and decide canonical adoption with limits. A received monograph is not a reconstruction model, source-admission act or completed global Phase3."
+      ],
+      "canonical_text": [
+        "There is no identified mandatory recovery debt for the claims actually asserted within this candidate's bounded textual scope. Stronger origin, medical, engineering, legal, chronology, runtime and enduring-repair claims remain excluded and would require their own specific evidence. ROOT independently received the whole saved prose, receipt and mandatory separate public-context supplement and accepted the complete boundary with limits; canonical persistence follows complete ROOT installation. A received monograph is not a reconstruction model, source-admission act or completed global Phase3."
+      ]
+    }
+  ],
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_primary_performance_or_independent_literary_credit": 0,
+  "other_required_package_completion": false,
+  "mandatory_separate_public_context_supplement": {
+    "public_body": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_V1.md",
+    "public_receipt_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_RECEIPT_V1.json",
+    "exact_original_body_tuple": {
+      "path": "GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_V1.md",
+      "bytes": 5470,
+      "sha256": "9972869dcbf8f7f3de540bb5244a073191bd93737c7bf8cfcfc1a6744ac4c89f",
+      "git_blob_oid_of_actual_bytes": "073368c3a34e5df2ed4966ca9bdba29e3656f724",
+      "lines": 23
+    },
+    "exact_original_receipt_tuple": {
+      "path": "GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_RECEIPT_V1.json",
+      "bytes": 7939,
+      "sha256": "d7a01e901837c9562781f53cb862961d5d7d2d850832e1912559af58d0884af5",
+      "git_blob_oid_of_actual_bytes": "696f3eb0521ecc10b4bc95d8a17268816e69a3cb",
+      "lines": 128
+    },
+    "body_public_bytes_unchanged": true,
+    "receipt_public_change": "Declared reference translation and current authority wrapper only; exact original retained in immutable transport",
+    "extra_package_credit": 0
+  }
+}
