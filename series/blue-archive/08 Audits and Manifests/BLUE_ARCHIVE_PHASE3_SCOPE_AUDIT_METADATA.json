@@ -28,7 +28,7 @@
  ],
  "main43_retrieval_witnesses": "COMPLETE_ARGUMENT_AND_SOURCE_SCOPED_DISPOSITION_ACCEPTED_WITH_LIMITS",
  "quarter_reached": false,
- "progress_percentage": "NOT_REPORTED;63fixedninepackagepublicationbatchafterROOTinstallation;noquarter;laterliveROOTacceptancesseparate",
+ "progress_percentage": "NOT_REPORTED;73fixedtenpackagepublicationbatchafterROOTinstallation;noquarter;laterliveROOTacceptancesseparate",
  "opening_candidate_responsibility_rows": 761,
  "new_source_local_or_non_character_headers": 27,
  "completed_owner_roster_reviews": 105,
@@ -48,7 +48,7 @@
   "P3-XMI-R001"
  ],
  "initial_761_still_pending_rows": 0,
- "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29ACCEPTED_WITH_LIMITS;63NINE_PACKAGE_PUBLICATION_SNAPSHOT_ONLY_AFTER_INSTALL",
+ "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29ACCEPTED_WITH_LIMITS;73TEN_PACKAGE_PUBLICATION_SNAPSHOT_ONLY_AFTER_INSTALL",
  "accepted_literary_character_packages": [
   "Asuna",
   "Toki",
@@ -111,7 +111,15 @@
   "Utaha",
   "Hibiki",
   "Erika",
-  "Kotori"
+  "Kotori",
+  "Serina",
+  "Suzumi",
+  "Hanae",
+  "Reisa",
+  "Mine",
+  "Shimiko",
+  "Mari",
+  "Sakurako"
  ],
  "millennium_v2_eligibility_arguments_adopted": [
   "Akane",
@@ -137,11 +145,15 @@
   "P3-XMI-R004",
   "P3-XMI-R005"
  ],
- "package_tracking_rows": 90,
- "completed_literary_packages": 63,
- "completed_literary_character_packages": 62,
- "completed_literary_directed_relationship_packages": 1,
- "accepted_literary_directed_relationship_packages": ["Noa–Yuuka: privacy, memory and wanted company"],
+ "package_tracking_rows": 100,
+ "completed_literary_packages": 73,
+ "completed_literary_character_packages": 70,
+ "completed_literary_directed_relationship_packages": 3,
+ "accepted_literary_directed_relationship_packages": [
+  "Noa–Yuuka: privacy, memory and wanted company",
+  "Meg–Kasumi: craft, care and leverage",
+  "Kirara–Erika: exploration, privacy and broadcasting"
+ ],
  "historical_pre_full_scope_frontier": {
   "eligible_package_denominator": "NOT_YET_FIXED; complete census adjudication required before progress thresholds",
   "owner_census_review_state": "8_COMPLETE_SCOPED_ROSTER_RECOVERIES_WITH_LIMITS;97_PENDING;INDEPENDENT_ALLOCATION_DEBTS_RETAINED",
@@ -181,8 +193,8 @@
   "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_DISPOSITIONS_PART_02_V3.json"
  ],
  "required_package_index_rows": 355,
- "legacy_package_tracking_rows": 90,
- "canonical_persistence_qualification": "54 literary packages (53 character,1 directed relationship) and Hina named section are source-published at5f0a24b56557f308e9cef31c7d1c2d58406ef49a. ROOT’s successful actual source/housekeeping/final exact-head chain is preserved separately as exact predecessor proof; successor adoption and publication remain pending. Nine new already ROOT-accepted character packages (Iroha, Maki, Sena, Chiaki, Kirara, Utaha, Hibiki, Erika, Kotori) persist only after complete ROOT installation, giving the fixed63-package snapshot (62 character,1 directed) and1of29 named sections. Later live ROOT acceptances are excluded. Seven accepted older stable-gap associations add no package or source completion. Iroha/Chiaki retain the stable-original/local-limit distinction; Chiaki’s count-cause qualification and Kirara’s distinct count populations remain explicit.355/29,18section-home allocations and all14OPEN are unchanged; source publication and main integration remain separate.",
+ "legacy_package_tracking_rows": 100,
+ "canonical_persistence_qualification": "ROOT independently accepted eight complete character arguments (Serina, Suzumi, Hanae, Reisa, Mine, Shimiko, Mari, Sakurako) and two complete directed relationship arguments (Meg–Kasumi and Kirara–Erika) WITH LIMITS. The prior63 canonical packages (62 character,1 Noa–Yuuka directed relationship) and Hina named section are source-published at cf2fba61c9e8448acdd2677f06d5258c051a6ba4. ROOT has verified their successful actual source/housekeeping/final exact-head chain; this proof concerns the predecessor, not the successor adoption or publication. Only these ten packages64–73 receive persistence through complete ROOT installation, giving the fixed73-package publication snapshot (70 character,3 directed) and1of29 mandatory named sections. Later live ROOT acceptances, including Airi and later Sweets work, are outside this finite snapshot. The first milestone remains89; no quarter or main integration is reached.355 required packages/29 mandatory named sections across18 parent homes, all60 original tracker questions,788 heterogeneous navigation responsibilities and105 owner duties remain unchanged. Legacy tracking has100 rows, distinct from355 required packages. Original literal identities remain unchanged, including Mari/Marie navigation and Mine CH0152; the two directed responsibilities do not introduce new people or extra character completions. Relationship directions, intrinsic ordinary/private ends, recipient agency, serious contrary cases, mode/chronology boundaries and exact author/ROOT reading custody retain their accepted scopes. Every complete frozen payload and original saved-line inverse remains recoverable. Translation of analytical-copy references to current maintained owners or provenance navigation grants no new complete producer reading. Earlier stable-gap, actor, count-population and source-custody qualifications remain in force. All fourteen original gaps remain OPEN; model0,1 named section and18 parent allocations are unchanged. Mechanical transport adds zero primary, performance, independent literary, model, scope or denominator credit; publication and main integration remain separate.",
  "source_units_in_selected_public_census": 1107,
  "literal_source_local_header_routes": 8326,
  "literal_choice_routes": 742,

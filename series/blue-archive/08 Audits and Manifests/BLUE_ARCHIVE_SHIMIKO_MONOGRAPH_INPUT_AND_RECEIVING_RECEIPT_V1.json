@@ -1,0 +1,2151 @@
+{
+  "schema": "BLUE_ARCHIVE_SHIMIKO_MONOGRAPH_PUBLIC_INPUT_AND_RECEIVING_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE_INSTALLATION_PENDING",
+  "subject": "Shimiko",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This preparation has no persistence or publication effect before complete ROOT installation. ROOT must verify the successful actual exact-head source/housekeeping/final chain for cf2fba61c9e8448acdd2677f06d5258c051a6ba4, complete the final whole candidate receiving, and install all final declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The complete original payload is immutable. Its pending, C-only, historical counts and audit statuses describe its creation-time custody event, not current adoption. Current ROOT acceptance is qualified explicitly here. Current scope remains355/29; no new source, primary, performance, model, independent literary or count credit follows from transport.",
+  "original_exact_tuple": {
+    "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+    "bytes": 31071,
+    "sha256": "db79484bd10726c643bdae3f8140b191a03677f1c5fe7dc74412f238f38a4c96",
+    "git_blob_oid_of_actual_bytes": "dbd165742de66a86bf187d10ebbd6c2766f38964",
+    "lines": 608,
+    "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+  },
+  "public_reference_translation": "Full original fields and strings survive with declared reference translation only; public provenance labels do not serve files or admit material. Original byte tuples remain original witnesses and are not claimed as derivative tuples.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "Author and ROOT complete/bounded meanings remain attributed to actual scopes. Mechanical transport adds no literary receiving."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "SHIMIKO_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1",
+    "status": "AUTHOR_SOURCE_SCOPE_COMPLETE_ROOT_REVIEW_PENDING",
+    "package": "P3-CHAR-SHIMIKO",
+    "typed_family": "P3-F134",
+    "dated_route": "P3-A168",
+    "person_key": "BA_PERSON_SHIMIKO",
+    "full_name_jp": "円堂シミコ",
+    "variants": [
+      26004
+    ],
+    "body": {
+      "file": "BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md",
+      "byte_count": 57987,
+      "line_count": 179,
+      "sha256": "aaa73ac2e4817d784866e1465a5b370ff691c90594a83e2674127b0fca013ae1",
+      "actual_byte_blob_oid": "38347bcb7d3e380b5e3cd386d40519192c52220b"
+    },
+    "proposed_canonical_home": "series/blue-archive/04 Specialist Syntheses/CHARACTERS/BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md",
+    "source_snapshot": "5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+    "analytical_main_comparand": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "architecture": "1.12/method1.10; main1.11 differs with unchanged11requirements; mutableprogress excluded",
+    "inputs": [
+      {
+        "source_id": "A01",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "byte_count": 52261,
+        "line_count": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "author_receiving_scope": "Architecture1.12 required11 section meanings personally received previously fb4f2f L322–344; unchanged1.12, no full851line fresh claim",
+        "current_5f_source_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": false,
+          "historical_tuple": {
+            "byte_count": 51287,
+            "line_count": 849,
+            "sha256": "e5e0c9794fdb9664a61110eb002afc75011b75e49ab5965ad8808231455cd7cd",
+            "actual_byte_blob_oid": "685661b716fd0032997883efeb294425b0816c18"
+          }
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "A02",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+        "byte_count": 53414,
+        "line_count": 840,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+        "actual_byte_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "author_receiving_scope": "Method1.10 qualified prior required method receiving; no new full-file literary credit",
+        "current_5f_source_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "A03",
+        "repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+        "byte_count": 79178,
+        "line_count": 354,
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+        "actual_byte_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "author_receiving_scope": "Full literal original fourteen stable names personally received443d3e L25–45; allOPEN effects individually reasoned",
+        "current_5f_source_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "A04",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+        "byte_count": 19463,
+        "line_count": 113,
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+        "actual_byte_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "author_receiving_scope": "Complete prior Cycle008 current control receiving and current S04/V/E10/E11N/E12 adoption wrappers personally received; supersedes old producer intake without original credit",
+        "current_5f_source_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "C05",
+        "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "byte_count": 461112,
+        "line_count": 6514,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "actual_byte_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+        "author_receiving_scope": "Only three selected required homes Suzumi/Reisa/Shimiko personally received55140d; technical whole-byte binding not whole355 literary receiving",
+        "current_5f_source_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+        "main2e_comparison": {
+          "present": false,
+          "meaning": "Later Phase3 control; no main2e source authority implied"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "C06",
+        "repository_relative_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+        "byte_count": 21833,
+        "line_count": 289,
+        "sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+        "actual_byte_blob_oid": "195739a98c7b439b48bfd8e973282e941a45d8e1",
+        "author_receiving_scope": "Accepted355/29scope only; allocation not author/ROOTcompletion; no new denominator or quarter",
+        "current_5f_source_blob_oid": "195739a98c7b439b48bfd8e973282e941a45d8e1",
+        "main2e_comparison": {
+          "present": false,
+          "meaning": "Later Phase3 control; no main2e source authority implied"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "V",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 38628,
+        "line_count": 195,
+        "sha256": "61e628dab0ac127c946e0101225a89d1d7808a27b0f540d5d7a03fc76c36072c",
+        "actual_byte_blob_oid": "38ec4671a63ffd51f0f92b9cfd4dad0517a304e5",
+        "author_receiving_scope": "Fresh complete currentqualification38–1144acd44 and allconsequential115–195EOFdd75d4 reusedunchangedSuzumi/Reisa receiving. Prior TrinityV2 complete current argument remains scoped, no17newprimary/allindividualbodycredit. Actual sleeplessUi and material-use/actor limits retained.",
+        "current_5f_source_blob_oid": "38ec4671a63ffd51f0f92b9cfd4dad0517a304e5",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "C",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "byte_count": 46462,
+        "line_count": 316,
+        "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+        "actual_byte_blob_oid": "13b90d6ccfe8df728be0e963cfb8c62c0116f2c2",
+        "author_receiving_scope": "Fresh currentauthority123–1386a5cd1 and complete248–316EOF6dfdc8 supplies accepted gift056meaning276 and closinglimits; earlier Engineering adequate complete current comparison reused at recorded scope, not102newprimary/103individualbodycredit.",
+        "current_5f_source_blob_oid": "13b90d6ccfe8df728be0e963cfb8c62c0116f2c2",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "B",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 99877,
+        "line_count": 437,
+        "sha256": "6a6ce9b164f151fb70498bebcad0173ce39c3cb5e71653f6de1f231a27442bd6",
+        "actual_byte_blob_oid": "02d9d2f449e24008ff71e743502494ae004ebfa2",
+        "author_receiving_scope": "Fresh currentauthority1–435e47c0 and complete consequential358–397annex4e85a8; prior Ui/Hinata complete current analytical checkpoint remains adequate scoped reuse, notfresh437-linewhole or15primary/individualbody.327–350fe8147 was routingonly. Necessary small002 argument personally whole173bcd under currentB/Cycle008.",
+        "current_5f_source_blob_oid": "02d9d2f449e24008ff71e743502494ae004ebfa2",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "P",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 76346,
+        "line_count": 562,
+        "sha256": "d523094c54e611aa45cebab91ffbf2ecd1888b59f112c8f01dafeb66d274a638",
+        "actual_byte_blob_oid": "9bef56d2d1791c796b95a2eee21d4a539ee7c77f",
+        "author_receiving_scope": "Personally prior complete239–562EOF25a22d/900ff7/428f33/baa591/dde898 reused at unchanged exact scope. Fresh currentauthority239–280f49b6b, complete393–475d9ae9e supplies whole five Shimiko private/wholemessage meanings413–445 and written449–471, with Ui peer393–411; closing475–562EOF542fac. No fresh562-linewholefile/all49originalprivateprimary orindividualproducerbodycredit. Current239–241supersedes historical250/270pending. Special90101050/90101110 associations are metadata identity duties, not extra primary/joins.",
+        "current_5f_source_blob_oid": "9bef56d2d1791c796b95a2eee21d4a539ee7c77f",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "L56",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_056_80000056_DEEP_READING.md",
+        "byte_count": 7581,
+        "line_count": 71,
+        "sha256": "1b6ca141b3ff7c6a7fe879e11b903c6c9d502b9cdf06aabfad563708ae0de24d",
+        "actual_byte_blob_oid": "569d4c353181a46020a739da5db60b52c6f8da81",
+        "author_receiving_scope": "Fresh235b51whole1–71EOF complete small historicalgift argument under currentC/Cycle008. Historicaldraft_noncurrent/UNADMITTED banner notstandalonecurrent authority. Actual sharedfood/work/sleep/blanket/adultSchalereturn; no backlog/recovery/chemicalaudit. JP/KR predicate/provenance differences remain limited; no new primary/raw/native/inverse credit.",
+        "current_5f_source_blob_oid": "569d4c353181a46020a739da5db60b52c6f8da81",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "L122",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_EPISODE_002_10010010_DEEP_READING.md",
+        "byte_count": 9432,
+        "line_count": 64,
+        "sha256": "984104e0e0a243f7782d26a51b3925984c2d1287b0b60a55839025fa917d76c3",
+        "actual_byte_blob_oid": "62223930c23a55e62c157fd3c53f9402538f807b",
+        "author_receiving_scope": "Fresh173bcdwhole1–64EOF complete small historicalactive_provisional/proposed argument under currentB/Cycle008. Professional limit and actual Ui referral; feared publicreading/division notact; Hanako mentioned notvoice. Source text-bearing seamsu4/u29/u30/u41 and declared nativeDatalist controls remain inherited, no fresh raw/native repair. No fresh primary/individualproducerindependence.",
+        "current_5f_source_blob_oid": "62223930c23a55e62c157fd3c53f9402538f807b",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      },
+      {
+        "source_id": "W",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 38411,
+        "line_count": 205,
+        "sha256": "14559582a911ee118c9663a60fadaf06193733082b980495f486ed7729098e4f",
+        "actual_byte_blob_oid": "98586e8ee96bb670a38425a83a59bb41a61bbac3",
+        "author_receiving_scope": "Fresh entire205-line currentowner b59d4e1–95/54525f96–155/7dd741156–205EOF, including allten admittednormalanalytical meanings/epilogue/contraries. Current31–33 supersedes historical38/81UNADMITTED/Phase2pending. Bounded attributed headerqueryd469f9 onlylocatedpositive003/004/005/006/009/010, notreadingcredit. Full small currentmeaning receivedpersonallybeforefreeze; no tennewprimary/originalproducerbody/raw/native/performed/independent/modelcredit.",
+        "current_5f_source_blob_oid": "98586e8ee96bb670a38425a83a59bb41a61bbac3",
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true,
+          "tuple_reference": "THIS_CURRENT_INPUT"
+        },
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0
+        }
+      }
+    ],
+    "historical_C_inputs": [
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_INPUT_RECEIPTS_V2.json",
+        "byte_count": 26656,
+        "line_count": 665,
+        "sha256": "d8bb1889cd4a6804e155c8ce8fb5b29e81e7c7bbe12eac810d0f9640aaa7c942",
+        "actual_byte_blob_oid": "268ea4aea07800b844198ade4ab9aeffcf0232d6",
+        "meaning": "Declared prior bounded analytical receiving or eligibility control; no author/ROOT primary credit transfer; historical pending banners preserved"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_DECISION_REGISTER_V2.json",
+        "byte_count": 94478,
+        "line_count": 1943,
+        "sha256": "6f8607abe964b0032bda888a6d3b9f37b374a5aba8d953eca83d7f485627b6d4",
+        "actual_byte_blob_oid": "9643a0a29ebf143f506f3410bb6e55aed3666e02",
+        "meaning": "Declared prior bounded analytical receiving or eligibility control; no author/ROOT primary credit transfer; historical pending banners preserved"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/ROOT_TRINITY_V2_COMPLETE_RECEIVING_AND_EXACT_VERIFICATION.json",
+        "byte_count": 19185,
+        "line_count": 577,
+        "sha256": "e2be87c377790b9e29fb7d0bf892ffa9856341e9f2f443b10201783207af1aff",
+        "actual_byte_blob_oid": "90a608f87dfdbc6c7d12ccc8532ca3ca4f73b499",
+        "meaning": "Declared prior bounded analytical receiving or eligibility control; no author/ROOT primary credit transfer; historical pending banners preserved"
+      }
+    ],
+    "prior_frozen_payloads_preserved": [
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+        "byte_count": 50384,
+        "line_count": 154,
+        "sha256": "7345567930a555f7f9152b6f1f25d40f17ac03720a1065f0c19ba8d09184cb05",
+        "actual_byte_blob_oid": "069e67eea0c5332679383e11cd4ce089a6488ad7"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 8028,
+        "line_count": 193,
+        "sha256": "3f7b403ba76b4de5bb79ff30bcf904650b5b1aae3cc4a808036cffc58bea0d7e",
+        "actual_byte_blob_oid": "c1497a2374f73ce0287d0e8509e4e55304c139ff"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 42473,
+        "line_count": 1023,
+        "sha256": "821768e525f4b6c63acf64208be7e031a94ff6ec34c2d789d0782fe379be3acd",
+        "actual_byte_blob_oid": "d00a93c3cb03fb34c28c5115bda283c1ed3882ce"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 2332,
+        "line_count": 67,
+        "sha256": "89498c5b29248d994d5ed8b23f84242c5e1049afb1bee64f5ba40567889c3681",
+        "actual_byte_blob_oid": "f20e8acb4f86219bc99ce39a97bb381b07f68452"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/UTAHA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 92196,
+        "line_count": 1668,
+        "sha256": "1445d750de0d9f4bdba9b52e0e7330ea37ad897a1d7fe1549406eb7db47d64b7",
+        "actual_byte_blob_oid": "741ca8130aa9ff9be47b29791afcb59a27e23369"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md",
+        "byte_count": 52132,
+        "line_count": 160,
+        "sha256": "b5e924e7e4a67cde5454c8e3e0e256c37aa90556902acadf0c8ce3dee32a492a",
+        "actual_byte_blob_oid": "4acf0ec5752c70a3697ad8f086fdc4fd0e3d096d"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 8525,
+        "line_count": 190,
+        "sha256": "104e47aceb6e4a9a6eac628764367903cccfa5d787477fd508d9e6a3b214bcae",
+        "actual_byte_blob_oid": "0457eb8709ed87ba62c60cb0ae030054039bf1a7"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 51519,
+        "line_count": 1163,
+        "sha256": "1e8402d124304fa6efb6a9743a55480cf31bf6afc5d25493476abcb43ecb4c26",
+        "actual_byte_blob_oid": "19601edb504649d9432490eb541d4580f6df9c5d"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 2319,
+        "line_count": 67,
+        "sha256": "7f88419113a4c70fbdf61ecd480d99a600ecd9af5162dc9bb42d9c24e9975466",
+        "actual_byte_blob_oid": "d0b03c0c9871898dfa6740a7cf9bf7736a42f2f8"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/HIBIKI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 85340,
+        "line_count": 1584,
+        "sha256": "d2c57833a6964ff79163124cdb67f160ed5fa5e896509adf83e3347fdb0bb1eb",
+        "actual_byte_blob_oid": "d36074b9eb73cbeadb8950f146d8db45af7017a5"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+        "byte_count": 58396,
+        "line_count": 151,
+        "sha256": "6a151ab4e7d74addd9a61e337811bc2d73d7662ff808d5f1fc4c1d1edf3375e0",
+        "actual_byte_blob_oid": "ee6ff7156dc2539bd46632495315e8508f44f78e"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 11711,
+        "line_count": 232,
+        "sha256": "cb5e465ea708da2dcc71757c80f2e5dc618381edb0de00169cac0d00e6db5e1f",
+        "actual_byte_blob_oid": "bd907a85be283f7bc5963c8581216bc9708eb898"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 49355,
+        "line_count": 1088,
+        "sha256": "51de4cef1a3dd3b662267dc3d8a333708be34392760f75d078bbb272952431b9",
+        "actual_byte_blob_oid": "4639bdad7267779d6fb98dd9026e55435b5369fb"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 2406,
+        "line_count": 67,
+        "sha256": "e5e7e4d8b05f629b35d66971178fb488bd016d547ea49f1b339d947e85de9e38",
+        "actual_byte_blob_oid": "1b8e66309744135888d8d8f54f114913417358e4"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 110593,
+        "line_count": 1932,
+        "sha256": "b90b32cdf8dc31a2be5d7969fa0490fdfa87d73a5fa9f766e99bfdefcc3296bd",
+        "actual_byte_blob_oid": "5c8297acdca2d0bfb333e3b1b917ef07ba872ccd"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/BLUE_ARCHIVE_SUZUMI_CHARACTER_MONOGRAPH.md",
+        "byte_count": 56964,
+        "line_count": 169,
+        "sha256": "454b63fa52c1efa31f9bd209603dc14b447f40ee69045d41ca7394e0be0ccc82",
+        "actual_byte_blob_oid": "c906897b3ecd4fbb75f015851435cf07c320344c"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SUZUMI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 6730,
+        "line_count": 185,
+        "sha256": "83d2d0a1bca7f9b28726ed9745da4313e393f19b436b1e148174c88e84843415",
+        "actual_byte_blob_oid": "85dfc29271ea8eea5cd84613dcebc659e350e8d6"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SUZUMI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 119246,
+        "line_count": 1165,
+        "sha256": "395916434ef9f8c638e79779a8511b314f6800845a25c0c02d6d601460acc532",
+        "actual_byte_blob_oid": "cddef9e0e83f4669c46f192f99b1264b88e0b667"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SUZUMI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 32782,
+        "line_count": 508,
+        "sha256": "bde20d1e088ed11942560642800f981026fdde52b6695fd6ec907d28e890bcac",
+        "actual_byte_blob_oid": "5977499d3684e4581d4e18772f3b7e3f682dd166"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SUZUMI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 29682,
+        "line_count": 611,
+        "sha256": "08824d42739b9edb6b4072597671590bcfc6611d05ce1b370b6bc8e2b3aa7041",
+        "actual_byte_blob_oid": "b099c40c789b1a2cf5514d4485b2ef8ea40200ae"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/BLUE_ARCHIVE_REISA_CHARACTER_MONOGRAPH.md",
+        "byte_count": 51470,
+        "line_count": 160,
+        "sha256": "81ffe1fde98b4bd6922d255feeeffc72144067ce55b68971a7f57383e5a021e6",
+        "actual_byte_blob_oid": "cfac1011469a3511436dfe13335ff03f07c4f31b"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 4812,
+        "line_count": 140,
+        "sha256": "65189157a7777f62500ecdb52488f9e59530bfc4084090148872506c55afd946",
+        "actual_byte_blob_oid": "7a70b70d2bc6ec90bd01ed9d4be56f49c3944a0b"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 66516,
+        "line_count": 1111,
+        "sha256": "3d86a3b77764f0cb816e51762f8b1fca44797987a2bc85252502fd5d9e9589b7",
+        "actual_byte_blob_oid": "c2ea2929bd215c008bc63e55e23454d799dcfbdb"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 1809,
+        "line_count": 43,
+        "sha256": "69e1e7781cdaab638174b2454f3153d2cef1fb2c463647091d0fcdb1dd794e68",
+        "actual_byte_blob_oid": "0e307804e525e490e450b2b10360e75b5803353a"
+      },
+      {
+        "attachment_relative_path": "PHASE3_START_20261009/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/REISA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 27487,
+        "line_count": 555,
+        "sha256": "2aaa68e8336532785f15caff31ed789f08aba39ed5416359a131d3bfafcc8124",
+        "actual_byte_blob_oid": "a2cf8cdefeed80dea2a3e1127feaea6e6829397b"
+      }
+    ],
+    "bounded_new_source_recovery": "Attributed positive eight-shard queryd469f9 added852003/004/005/006/009/010routes; personally entire current205-lineW argument beforefreeze, alltennormalmeaning/endings, zero primarycredit. Knownpositive810056/812002smallcompleteargument personallyreceived undercurrent normalauthority. No title/identity/census join guessed.",
+    "source_custody": "Complete relevant acceptednormalprivate/public meanings and precise whole necessarygift/referral/852 recovery; originalindividualprimary/producer/native/raw/inverse assertions remain inherited or qualified, not newlyrerun orcredited.",
+    "all_fourteen_OPEN": [
+      {
+        "stable_gap_and_literal_name": "G01 — Ordinary and private breadth",
+        "state": "OPEN",
+        "specific_effect": "OPEN: all selected reading, making, food, quiet company and rest meanings are intrinsic; no other character or unreceived Shimiko context is completed here."
+      },
+      {
+        "stable_gap_and_literal_name": "G02 — Yuuka council/club decision transfer",
+        "state": "OPEN",
+        "specific_effect": "OPEN: local lending/consultation/referral does not establish Yuuka's independent decision-transfer evidence."
+      },
+      {
+        "stable_gap_and_literal_name": "G03 — Serika service, peer and reciprocity range",
+        "state": "OPEN",
+        "specific_effect": "OPEN: reader matching and shared work here provide comparison, not missing Serika receiver/service range."
+      },
+      {
+        "stable_gap_and_literal_name": "G04 — Hina crisis causality, accountability and ordinary contrast",
+        "state": "OPEN",
+        "specific_effect": "OPEN: disputed discipline and limited restoration do not settle Hina's separate causal/accountability record."
+      },
+      {
+        "stable_gap_and_literal_name": "G05 — Arius and PS68 ordinary/aftermath transfer",
+        "state": "OPEN",
+        "specific_effect": "OPEN: Library duty, gifts and craft cannot certify Arius/PS68 livelihood, safety or social repair."
+      },
+      {
+        "stable_gap_and_literal_name": "G06 — Cross-school ordinary repertoire",
+        "state": "OPEN",
+        "specific_effect": "OPEN: specific reader, visitor, child, peer and performer wants remain local; all other required ordinary lives stay independent."
+      },
+      {
+        "stable_gap_and_literal_name": "G07 — Story-world chronology",
+        "state": "OPEN",
+        "specific_effect": "OPEN: source-local work/day/dawn/preparation/reunion order is received, but release/variant/holiday/rerun metadata does not place all objects in one MAIN calendar."
+      },
+      {
+        "stable_gap_and_literal_name": "G08 — Event naming and repeat contexts",
+        "state": "OPEN",
+        "specific_effect": "OPEN: literal event/source roles and repeated Special/lobby scripts stay distinct; no missing title repair or extra historical borrowing/event follows."
+      },
+      {
+        "stable_gap_and_literal_name": "G09 — Written speaker/choice attribution",
+        "state": "OPEN",
+        "specific_effect": "OPEN: private enforcement seams,812002 inherited text-bearing corrections,851 unknown/inward role lines and852 adjacent-actor/overprotection seams retain exact scope; no new repaired native actor map is authenticated."
+      },
+      {
+        "stable_gap_and_literal_name": "G10 — Performed voice",
+        "state": "OPEN",
+        "specific_effect": "OPEN: written Japanese, Korean logs, declared voice/actor commands and role practice provide no received audiovisual acting, tone, gesture or engine result."
+      },
+      {
+        "stable_gap_and_literal_name": "G11 — Hoshino's Yume record and office states",
+        "state": "OPEN",
+        "specific_effect": "OPEN: no record authentication, death explanation or office continuity is supplied by this library/quiet-care synthesis."
+      },
+      {
+        "stable_gap_and_literal_name": "G12 — Counterpart, system and variant identity",
+        "state": "OPEN",
+        "specific_effect": "OPEN: literal Shimiko26004 and source-local roles are retained; broader special identity-review associations and unknown recipients are not new persons or universal continuity proofs."
+      },
+      {
+        "stable_gap_and_literal_name": "G13 — Office, contract, safety and technical outcomes",
+        "state": "OPEN",
+        "specific_effect": "OPEN: visitor learning/injury/proportionality, audited access/ownership/coating, loan return, alternative gift delivery, material-use permission, Ui rest and full backlog remain unsettled;852 local approval/proposed exchange/limited guarantorship establish no universal charter, liability test or justified prior punishment."
+      },
+      {
+        "stable_gap_and_literal_name": "G14 — Unclassified/mode continuity",
+        "state": "OPEN",
+        "specific_effect": "OPEN: narration, profile, direct/inward speech, report, formal alternative, whole-message tail and conditional written repetition retain different warrants; no universal consent, continuous biography or fully repaired institution follows."
+      }
+    ],
+    "ROOT_acceptance": "PENDING",
+    "canonical_adoption": "PENDING",
+    "unbound_large": "AllnineUNBOUNDunread/unhashed",
+    "source_count_is_completion": false
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "complete_author_attachments": [
+    {
+      "name": "SHIMIKO_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "original_exact_tuple": {
+        "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "bytes": 76723,
+        "sha256": "1e6414d08eff69a23dc254cf0e17dad05132d577dfd0f8fab736d8e7d008f13d",
+        "git_blob_oid_of_actual_bytes": "cf6a4d08fddbaef4aadb4a935ae414818fbc840b",
+        "lines": 1234,
+        "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "SHIMIKO_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+        "status": "AUTHOR_ARGUMENT_ROOT_REVIEW_PENDING",
+        "body": {
+          "file": "BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md",
+          "byte_count": 57987,
+          "line_count": 179,
+          "sha256": "aaa73ac2e4817d784866e1465a5b370ff691c90594a83e2674127b0fca013ae1",
+          "actual_byte_blob_oid": "38347bcb7d3e380b5e3cd386d40519192c52220b"
+        },
+        "saved_paragraph_joins": [
+          {
+            "saved_paragraph_line": 22,
+            "saved_paragraph_sha256": "7c9747af568d261b1882a32c528891379375ab85525248b39cbb8148c73463f6",
+            "claim_identifying_projection": "円堂シミコ remains the literal BA_PERSON_SHIMIKO responsibility, variant26004, P3-F134/P3-A168.",
+            "citations": [
+              {
+                "label": "P:selection and profile, L260/449/459–461",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "Required home",
+                "relative_target": "../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+                "resolved_repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 26,
+            "saved_paragraph_sha256": "fb4fbad5f3c2d8017c43f97f1cc4b56367e8b70b3e4e786a89bd709d1cb82aaa",
+            "claim_identifying_projection": "Shimiko wants reading to be a place someone can choose, inhabit comfortably and enjoy with her.",
+            "citations": [
+              {
+                "label": "P:complete Shimiko argument and written desire, L413–461/507–509",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 28,
+            "saved_paragraph_sha256": "8c3552a2441fd94a291551098e958b19711383838fee71d48a9e3329dda826f3",
+            "claim_identifying_projection": "The answer is materially mixed.",
+            "citations": [
+              {
+                "label": "P:hosting, enforcement, failed treasure and achieved ends, L415–445",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 30,
+            "saved_paragraph_sha256": "2c80b3e607b1120fb8eb66a8c22534e77b53059486f2332856bc57c49acec527",
+            "claim_identifying_projection": "Public comparisons widen this thesis without replacing the ordinary repertoire.",
+            "citations": [
+              {
+                "label": "B:E002u0031–0061/current L365–367",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "V:E002/E011/E013/E017, L115/133/137–149",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 32,
+            "saved_paragraph_sha256": "bcf8e5b0fe8d34bdb792ab0c78b8fb9d0a75a339aae4bc5794f167b230f4464a",
+            "claim_identifying_projection": "852 adds a demanding public test: a book's unapproved circulation is treated as intentional attack before its motives or contents are understood.",
+            "citations": [
+              {
+                "label": "W:E003u0028–0072/0105–0129; E009u0076–0172, L105–112/147–152",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 36,
+            "saved_paragraph_sha256": "3a02fe3414d8585d0d5759fbd85107b7febf2fbbabc6334884868d089a7ecd15",
+            "claim_identifying_projection": "The private collection supplies a repertoire rather than a forced escalation from lesser to greater virtue.",
+            "citations": [
+              {
+                "label": "P:26004E002/whole thread260040010, L415–423",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 38,
+            "saved_paragraph_sha256": "17a7772434051a6329af2ddcddde20016bb2e806a95dc909bd4918a31079bcf6",
+            "claim_identifying_projection": "E003 gives a different particular achievement.",
+            "citations": [
+              {
+                "label": "P:26004E003/whole thread260040080, L427–431",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 40,
+            "saved_paragraph_sha256": "b3373f01ec6db52f8f658a306ce584ade1514295d7bad84085a1966d4d332a34",
+            "claim_identifying_projection": "E005's closure-day treasure search fails on its announced object.",
+            "citations": [
+              {
+                "label": "P:26004E005/whole thread260040150, L433–437",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 42,
+            "saved_paragraph_sha256": "d4e2c917934a622156da9dc48ee94f231d4d2357ce49e32dc09620915c86afef",
+            "claim_identifying_projection": "E006 actually finds a different wanted book after classification and a long shelf search.",
+            "citations": [
+              {
+                "label": "P:26004E006/whole thread260040230, L439–441",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 44,
+            "saved_paragraph_sha256": "a9c58222a5a89535a3f42912dd1097e25b54fb674fc02215c7ab85e72680e890",
+            "claim_identifying_projection": "E015 gives an equally real quiet endpoint.",
+            "citations": [
+              {
+                "label": "P:26004E015/whole thread260040370, L443–445",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 46,
+            "saved_paragraph_sha256": "6b8f2b4e4b23c34a5817ad45ae4b3e46bfc451b6de4615c58738284113473e23",
+            "claim_identifying_projection": "The810056 gift has its own complete evening sequence: late-hour apology and overlapping duty, a correction of the book-return assumption, deliberate thanks, book-shaped chocolate and happy agreement to work/eat together.",
+            "citations": [
+              {
+                "label": "C:gift056/current L276",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+              },
+              {
+                "label": "B:local repair order, L365–381/397",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "V:E014/E017 and chronology, L141/149/167",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 48,
+            "saved_paragraph_sha256": "8ad93c87da08bc8d81ad1b99454776924327ec96ee2382269461c23236c57ae6",
+            "claim_identifying_projection": "852's own local sequence is equally necessary: unexpected entry and actual purchases lead to alarm, a secret commission, investigation, readers' refuge, continued criticism and new making, intensified pressure, old-library shelter, threatened confrontation, locally approved procedure and a represented exchange proposal.",
+            "citations": [
+              {
+                "label": "W:complete ten-object sequence and epilogue, L98–159/173–177",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 52,
+            "saved_paragraph_sha256": "b045c36080ab79f5cfc21182f71bc1663b920ea5a60072e986d9fe7f1f9d712b",
+            "claim_identifying_projection": "The librarian image is something Shimiko actively interprets.",
+            "citations": [
+              {
+                "label": "P:apology/praise and birthday, L421–423/459–461",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "C:810056u0001–0011, L276",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 54,
+            "saved_paragraph_sha256": "450723d5128d788ca79911b6bed9fdf521c1345c685f42459c1cf4b1c56c1535",
+            "claim_identifying_projection": "Public competence includes knowing when a book is beyond ordinary repair.",
+            "citations": [
+              {
+                "label": "B:E002u0001–0061/current L365–367",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 56,
+            "saved_paragraph_sha256": "a90cde4409cc0c831637351d7f7fcd7f09a2ae87b0d973390e6c5a0f9845216a",
+            "claim_identifying_projection": "Her851 performance likewise is purposeful role work rather than a new evil self.",
+            "citations": [
+              {
+                "label": "V:E002/E009/E011/E013/E017, L115/129/133/137/149/165",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 58,
+            "saved_paragraph_sha256": "0692c5eb2faf55342827e3fe8ac8e711c68f8f3d30389bba93935ac5161b5c70",
+            "claim_identifying_projection": "Private enthusiasm has limits too.",
+            "citations": [
+              {
+                "label": "P:written baseline, failures and rival judgment, L433–445/459–461/507",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 60,
+            "saved_paragraph_sha256": "b47f98b15dc0ccc6b014f4a2945b7979ff7bc4970416fe229da8017efec6bc05",
+            "claim_identifying_projection": "Her852 concealment is specific rather than a generic hypocrisy accusation.",
+            "citations": [
+              {
+                "label": "W:E003u0037–0038/0080–0098/0105–0129, L108–112/165",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 64,
+            "saved_paragraph_sha256": "65883bb0bb44bc19c2ebedb20535d203e49ae9ef6ac888029f5e16548fb5fea5",
+            "claim_identifying_projection": "Institutional meaning does not require an invented Library-owned GROUP packet.",
+            "citations": [
+              {
+                "label": "P:library practices and institution scope, L415–445/521–522/544–549",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 66,
+            "saved_paragraph_sha256": "a06f115bad138c021e09b3e6d9f9c97795076a811a0b91cfc33432c7b28dd0a7",
+            "claim_identifying_projection": "Keeping libraries distinct is necessary.",
+            "citations": [
+              {
+                "label": "P:public and private conditions, L415/427–441/459",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "C:gift056 practical care, L276",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 68,
+            "saved_paragraph_sha256": "c0509ed70e932e0ff714f7085cbcc885656a4bbf7ef76e52bd99b0eb3f9d003d",
+            "claim_identifying_projection": "In812consultation creates professional responsibility alongside secrecy.",
+            "citations": [
+              {
+                "label": "B:E002u0001–0046/current L365–367",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 70,
+            "saved_paragraph_sha256": "7bc2fe68209043278551f482e98429a1c81de662be07164ed7a4b9db855e1c0e",
+            "claim_identifying_projection": "Ui's specialist work and later restoration cannot be assigned to Shimiko because she made a good referral.",
+            "citations": [
+              {
+                "label": "B:E002 and final restoration/accountability, L365–367/375–387/397",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 72,
+            "saved_paragraph_sha256": "795d69dc3a7fa6c353b7461ed9b9deae01512599e3ad5e231fea4425169a76fa",
+            "claim_identifying_projection": "851adds a material/labor question rather than resolving it through success.",
+            "citations": [
+              {
+                "label": "V:E017 and comparative costs, L149/153–159",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 74,
+            "saved_paragraph_sha256": "b99f52c8d802cdcfa0b98ac4d2d14313e09e07ae538a49674c2661c605b38372",
+            "claim_identifying_projection": "852 supplies actual represented public decisions without supplying a complete institutional charter.",
+            "citations": [
+              {
+                "label": "W:E003u0047–0072/E009u0030–0172, L108/148–152",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 76,
+            "saved_paragraph_sha256": "68968589547e9561cd4e745d8f0f938b221be0ebe713c18f93d7de2252d731e3",
+            "claim_identifying_projection": "The exchange proposal widens institutional reach but retains its limits.",
+            "citations": [
+              {
+                "label": "W:E010u0001–0023/0101–0111, L155/159/187–189",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 80,
+            "saved_paragraph_sha256": "681fcbb863bccfed3dd0c673bce822760546eb1099cd2183863386511dd38de6",
+            "claim_identifying_projection": "Reader preference is part of Shimiko's pleasure, not merely a service checklist.",
+            "citations": [
+              {
+                "label": "P:preference checks, work, failed treasure and loan, L415/421/429/435–441",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 82,
+            "saved_paragraph_sha256": "dc96d41d3f98f17bc959067da3379d0f5d94b7a47f0708a67b028f91aa130bdd",
+            "claim_identifying_projection": "The well-used cushion embodies chosen duration.",
+            "citations": [
+              {
+                "label": "P:26004E015 and tail, L443–445",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 84,
+            "saved_paragraph_sha256": "b912f48a1ca10bede9a10db1c1f28e185882e68fbd4aa4c81971b8019df077ec",
+            "claim_identifying_projection": "The810056 gift connects taste and book aesthetics.",
+            "citations": [
+              {
+                "label": "C:810056u0008–0028/current L276",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 86,
+            "saved_paragraph_sha256": "caf64c47e54311598553c03c062318167a021cc61a267c0c1d033a3fa00cdedc",
+            "claim_identifying_projection": "The birthday line preserves a useful contrary desire.",
+            "citations": [
+              {
+                "label": "P:written26004, L449/459–461",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 88,
+            "saved_paragraph_sha256": "e64fe1f7ffac150dfd9b435d66c44bdd6f5e3a9c0969202b9d38ae48a115e78c",
+            "claim_identifying_projection": "Chosen genre research can extend that ordinary love into play.",
+            "citations": [
+              {
+                "label": "V:E014/E017, L141/149/153–159",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 90,
+            "saved_paragraph_sha256": "aacc325f5c56b11bcda78c79cb364f967dc5d1675a93e15d69a32b2375ad7f9e",
+            "claim_identifying_projection": "Her852 “time machine” describes the ordinary pleasure she wants to defend: a book gives room to think and answer a past writer in one's own terms.",
+            "citations": [
+              {
+                "label": "W:E005s003u0011–0020/E006s002u0017–0056/E010u0076–0089, L124/133/159/165–169",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 94,
+            "saved_paragraph_sha256": "a048b63fc3933d01768c8758964b259a9daaddb0e8df706a1a038f70d9da18fc",
+            "claim_identifying_projection": "The enforcement episode is the strongest adverse case.",
+            "citations": [
+              {
+                "label": "P:26004E002, L417–421",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 96,
+            "saved_paragraph_sha256": "64db0a6f992507148104ad54a83db97a33e2abdec86b2af1dbbaf70e8c9bea2f",
+            "claim_identifying_projection": "Actor seams narrow what can be assigned without making the affected recipient disappear.",
+            "citations": [
+              {
+                "label": "P:literal seams and aftermath, L419–423/528/558",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 98,
+            "saved_paragraph_sha256": "bce2b467ca12167dfc25a997bbf7f188103fa90e0fe7adde1ac63c9f7afa5b17",
+            "claim_identifying_projection": "The812 response contrasts by admitting a threshold of expertise.",
+            "citations": [
+              {
+                "label": "B:E002u0024–0061/current L365–367/387",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 100,
+            "saved_paragraph_sha256": "6f4d2b3a26043541f7505216611b61f6013ba435551ad699dcd3b2d11ec3eb7c",
+            "claim_identifying_projection": "The851 encounter also begins with imperfect knowledge.",
+            "citations": [
+              {
+                "label": "V:E002/E009/E011–014, L115/129/133–143",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 102,
+            "saved_paragraph_sha256": "6a16c1a28ba97d61fd8a81547fbd9b856968baa9c76125a7343a8935867d676a",
+            "claim_identifying_projection": "The light search gives children and the crowd actual participation under limited knowledge.",
+            "citations": [
+              {
+                "label": "V:E003/E009/E013/E017 and rivals, L117/129/137–149/157–159",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 104,
+            "saved_paragraph_sha256": "adabeba325833f4b67e0a40401f9211c47ba3e5a65e61c0dbb4ea6f1fdcf1edd",
+            "claim_identifying_projection": "In852 Shimiko's protection of readers is tested against force without becoming an innocence certificate.",
+            "citations": [
+              {
+                "label": "W:E003u0124–0129/E004s002u0020–0029/E006s002u0059/E009u0076–0094, L112/119/133/150/163–167",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 108,
+            "saved_paragraph_sha256": "28eade10d6958e317175a5c04234d454882d5d71219320f203dc600465ec7c6b",
+            "claim_identifying_projection": "Shimiko often authors the invitation and asks how it is received.",
+            "citations": [
+              {
+                "label": "P:26004E002/E003/E005, L415/427–437",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 110,
+            "saved_paragraph_sha256": "525af530c9f2b24883ddf99073cb7c2e1ccf0f7d75b4572672a400ec413206b9",
+            "claim_identifying_projection": "The failed treasure is a precise case of successful companionship without fulfilled service.",
+            "citations": [
+              {
+                "label": "P:26004E005/E006 whole tails, L435–441",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 112,
+            "saved_paragraph_sha256": "8467e70247c6da4b85d545627b03dfdb13b197fb4da72ddc2c0b7d0a42ecd73d",
+            "claim_identifying_projection": "Rest and giving reverse the direction of care in particular ways.",
+            "citations": [
+              {
+                "label": "P:rest, L443–445",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "C:810056 gift/current L276",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 114,
+            "saved_paragraph_sha256": "8a5bbb59b7e41cdcc7bfe6537890a6ead04fb6210c7436a44052c55f4bf4fdd9",
+            "claim_identifying_projection": "Adult support is not uniformly a permission certificate.",
+            "citations": [
+              {
+                "label": "P:enforcement praise, birthday and adult ethics, L421/461/524–525",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "B:E002u0011–0046/current L365–367",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 116,
+            "saved_paragraph_sha256": "08819f4b854efdd5619bef3e048f38d17d27f292a5c3107b413a9875d13ddb66",
+            "claim_identifying_projection": "The public relation with the adult also includes disagreement and a shared practical intervention.",
+            "citations": [
+              {
+                "label": "W:E003u0040–0046/E006s002u0059–0073/E009u0141–0172/E010u0001–0023/0101–0111, L106/133–135/152/155/159/189",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 120,
+            "saved_paragraph_sha256": "5c372f1b8867b1a86d9ee3cde27da399069c45721ea5262866903c823920f89f",
+            "claim_identifying_projection": "Ui is a specialist and a person whose space and rest matter independently.",
+            "citations": [
+              {
+                "label": "B:E002/current L365–367/375–387",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "V:E017, L149",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "P:distinct book/space practice, L489/507–509",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 122,
+            "saved_paragraph_sha256": "45b63998fe64e02628400eaf1242da36346631fbdc44b9732cc90adf96c728c1",
+            "claim_identifying_projection": "Hinata retains distress, compliance and independent later care.",
+            "citations": [
+              {
+                "label": "B:E002u0004–0046/current L365–367",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "P:Hinata/Ui/Shimiko difference, L266–268/509",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 124,
+            "saved_paragraph_sha256": "d012d915d8a01b54f7ce2e6cc474b4eee94032273e039858890fd3f00b7e6d74",
+            "claim_identifying_projection": "Suzumi and Reisa have their own reasons for the magical performance.",
+            "citations": [
+              {
+                "label": "V:E004–014 and comparisons, L119–143/151–159",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 126,
+            "saved_paragraph_sha256": "6faf5013103c6e5952509c7efa1fad458f1015b5d76207b2bcb4851313805357",
+            "claim_identifying_projection": "The noisy visitor, other readers, shelf users and cleaning labor remain relevant despite sparse labels.",
+            "citations": [
+              {
+                "label": "P:visitor, quiet, shelves and scope, L415–441/459/521–522",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 128,
+            "saved_paragraph_sha256": "e832b1e3d0ee665da142b4e58c24472777825ae5bcd6329e2ece98e4cb68c402",
+            "claim_identifying_projection": "852 makes these directed differences particularly legible.",
+            "citations": [
+              {
+                "label": "W:E006s002u0017–0082/E007u0030–0115/E009u0001–0181/E010u0076–0119, L133–140/148–159/165–169",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 132,
+            "saved_paragraph_sha256": "09dad5ba1c528e0addfc51cd65015c2a9adf6fd60b1d90ac0299f456057cab44",
+            "claim_identifying_projection": "Shimiko's address alternates invitation, preference inquiry, apology, enthusiasm, rules and playful lending language.",
+            "citations": [
+              {
+                "label": "P:language and complete tails, L433–445/527–528",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "B:E002u0031–0053/current L365–367",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 134,
+            "saved_paragraph_sha256": "85a5a85d979a129a6c042e373a01caf6d670e7a1c5acbef071438488d64e72a4",
+            "claim_identifying_projection": "The private enforcement seams remain printed; secure surrounding evidence does not authorize a repaired native turn map.",
+            "citations": [
+              {
+                "label": "P:exact private seams, L419/528",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "B:E002 exact attribution/current L365–367/393–397",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 136,
+            "saved_paragraph_sha256": "1e16d8bce79540ce3ecdda1f0d2848c31b168407fc3705d83fe860d2007893e2",
+            "claim_identifying_projection": "Gift810056keeps Japanese late-hour courtesy apart from Korean reassurance/not-homemade provenance.",
+            "citations": [
+              {
+                "label": "C:810056 current gift and source limits, L276/294–316",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 138,
+            "saved_paragraph_sha256": "88e62b3e4aba20cafd2f182cccb1c15450d95031738a76b8dfd6c3b2a7ee1f3e",
+            "claim_identifying_projection": "The nonmonotone finalu49 afteru67 in26004E006preserves a source sequence rather than a chronological sorting problem to fix.",
+            "citations": [
+              {
+                "label": "P:written/mode bounds, L441/459–471/547–558",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "V:source modes/actor/chronology, L149/161–167",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 140,
+            "saved_paragraph_sha256": "a60f5c1c110314bc5ea9e822dbe9347026529df06f7bd9f9d8c1f0448c0bc5e9",
+            "claim_identifying_projection": "In852 グレーゾーン and 非公認/公認 are disputed judgment and locally enacted procedure, not independent legal or intrinsic-harm classifications.",
+            "citations": [
+              {
+                "label": "W:E003/E006/E009 and Japanese/source-mode bounds, L108–112/133/152/171–177/191",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 144,
+            "saved_paragraph_sha256": "7ee26660b3af08638f68482b729bb4a4f9c5d8785a4cc6fad1e089d07bf38c03",
+            "claim_identifying_projection": "A universally gentle librarian account has preference checks, comfort, loans and restored rest in its favor, but fails the coercive enforcement and spoiler.",
+            "citations": [
+              {
+                "label": "P:complete rival and endpoint judgment, L415–445/459–461/507–540",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "C:gift056, L276",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 146,
+            "saved_paragraph_sha256": "190148630139808a660580c14ab5e4630d60834dadbaf929940715976fcebe2b",
+            "claim_identifying_projection": "An omniscient book expert interpretation can cite the profile's collection claim and successful wanted-book search.",
+            "citations": [
+              {
+                "label": "P:failed hunt/actual loan/rest/profile, L435–461/507–509",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "B:E002/current L365–367",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 148,
+            "saved_paragraph_sha256": "7508063397e4741fa02805fe89cf216dc58434a9fe3d23b9739b67b1cef2e7f2",
+            "claim_identifying_projection": "A secret-romance or ownership interpretation leans on private invitations, rumored closeness and “nonreturnable” play, but exceeds the printed relation.",
+            "citations": [
+              {
+                "label": "P:company/privacy/play/birthday, L427–461/507–531",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 150,
+            "saved_paragraph_sha256": "b30d47189af64870201452d3f3247aa473649d9aa9ac284e76e39f7859c62e7b",
+            "claim_identifying_projection": "A harmless-comic-craft account can cite851's fiction, audience pleasure and final cooperation.",
+            "citations": [
+              {
+                "label": "V:complete role/craft/contrary meanings, L115/129–149/153–167",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 152,
+            "saved_paragraph_sha256": "249c06122c5171483af9bf889b812b72482c213d22dfa9ec6d1fa7b607949eeb",
+            "claim_identifying_projection": "Substantial achieved ends remain: recommended reading, completed work and reading until dawn, enjoyed sorting after failed treasure, found and borrowed wanted book, actual adult sleep/regained energy, shared gift food/work and blanket care, honest referral, timed performance arrival and audience search.",
+            "citations": [
+              {
+                "label": "P:whole ending judgments, L421–445/461/534–560",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "C:gift056, L276",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+              },
+              {
+                "label": "B:E002/final limits, L365–367/387",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "V:craft/afterstories, L141–149",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 154,
+            "saved_paragraph_sha256": "8448a85dc6611237d353b750c87cb0a6333dff3f4f4a63c50aa4124da9828071",
+            "claim_identifying_projection": "A consistently open defender of interpretation is supported by852's challenge to the assumed attack, reflective book philosophy and locally successful approval.",
+            "citations": [
+              {
+                "label": "W:comparative rival/ending judgment, L152–169/195–201",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 158,
+            "saved_paragraph_sha256": "c652a008f7b85fbefb5a1831c880e44f68a41f8715eb8c41a495c7c939c4b489",
+            "claim_identifying_projection": "P is the current accepted Hinata/Ui/Shimiko private contextual account; C/B/V are current810comparison/812checkpoint/851checkpoint.",
+            "citations": [
+              {
+                "label": "P:current adoption/custody/EOF, L239–270/475–562",
+                "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "C:current authority, L123–130",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+              },
+              {
+                "label": "B:current authority, L1–37",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "V:current authority, L38–45",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md"
+              },
+              {
+                "label": "Cycle008",
+                "relative_target": "../../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 160,
+            "saved_paragraph_sha256": "c5dfbd0c3a045c784639d1a64d900b85688369d4cfb96f15155dd9f1485c1e51",
+            "claim_identifying_projection": "W is the current852 checkpoint, recovered through a bounded positive header route and personally received wholly through all ten accepted analytical meanings and the consequential epilogue.",
+            "citations": [
+              {
+                "label": "W:current authority, whole account and complete closing bounds, L1–205",
+                "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+                "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          },
+          {
+            "saved_paragraph_line": 162,
+            "saved_paragraph_sha256": "caab8d3e470520cbd8f5e2115fe572c36bbf71b4c11bcfd250a9f4ae8ac5efd9",
+            "claim_identifying_projection": "All eleven substantive architecture dimensions are joined at this bounded character responsibility.",
+            "citations": [
+              {
+                "label": "Architecture7.1",
+                "relative_target": "../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+                "resolved_repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md"
+              },
+              {
+                "label": "Method",
+                "relative_target": "../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+                "resolved_repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md"
+              },
+              {
+                "label": "355/29 scope",
+                "relative_target": "../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+                "resolved_repository_relative_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json"
+              },
+              {
+                "label": "Original gaps",
+                "relative_target": "../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+                "resolved_repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md"
+              }
+            ],
+            "projection_scope": "Identifying first sentence plus exact complete paragraph binding; not substitute for personally whole saved body/source meaning receiving"
+          }
+        ],
+        "endpoints": [
+          {
+            "endpoint_id": "SHI-E01",
+            "route": "26004E002/thread260040010",
+            "achieved_versus_unfinished": "Actual recommendedquietreading/coffee after noisyvisitor enforcement; frightenededucation/praise/apology not safe/proportionate/learned/restoredvisitor",
+            "locator": "P415–423"
+          },
+          {
+            "endpoint_id": "SHI-E02",
+            "route": "26004E003/thread260040080",
+            "achieved_versus_unfinished": "Actual adultworkcompletion/readinguntildawn; afterhoursinvitation private/possible-rumor request notgeneralaccess/romancestatus",
+            "locator": "P427–431"
+          },
+          {
+            "endpoint_id": "SHI-E03",
+            "route": "26004E005/thread260040150",
+            "achieved_versus_unfinished": "Failedunknownrarebook hunt, >1000duplicates; actualwantedsharedsorting/tailjoy; nonreturnableplay notpersonownership/shelf provenance",
+            "locator": "P433–437"
+          },
+          {
+            "endpoint_id": "SHI-E04",
+            "route": "26004E006/thread260040230",
+            "achieved_versus_unfinished": "Actualwantedbookfound/browsed/borrowed/takenSchale; literal final49after67 retained; loanreturn/futuremeet unacted",
+            "locator": "P439–441"
+          },
+          {
+            "endpoint_id": "SHI-E05",
+            "route": "26004E015/thread260040370",
+            "achieved_versus_unfinished": "Visitorcushionrepairnotimmediate; ownwornsewncushion/grammarreading actualgoodsleep/regainedenergy/tailrest; no clinicaluniversal/anatomyaudit",
+            "locator": "P443–445"
+          },
+          {
+            "endpoint_id": "SHI-E06",
+            "route": "Written26004",
+            "achieved_versus_unfinished": "Bookbudget/bookmarkgenre matching/birthdaynonbookwanted notdelivered; profilecollectionclaim notomniscience; spoileractual; repeatedSpecialloan notextraact",
+            "locator": "P449/459–471"
+          },
+          {
+            "endpoint_id": "SHI-E07",
+            "route": "810056",
+            "achieved_versus_unfinished": "Actual sidebysidesharedchocolate/work untilShimikosleep,adultblanketcare/Schalereturn; coatingpopularityreports no testedchemistry/backlogfull/recovery",
+            "locator": "C:L276; L56:L34–52"
+          },
+          {
+            "endpoint_id": "SHI-E08",
+            "route": "812002",
+            "achieved_versus_unfinished": "Actual consultation/quiet/help/professionallimit/Ui referral; substitution/guard/publicreading/division forecasts notacts, nativeactorseamsqualified",
+            "locator": "B:L365–367; L122:L22–45"
+          },
+          {
+            "endpoint_id": "SHI-E09",
+            "route": "812final",
+            "achieved_versus_unfinished": "Ui scripturehandoff/recognizedsubstitute/resumedpresentation accepted atscopednormalmeaning; notShimiko restoration/entryswap/consent/clinicalcertificate",
+            "locator": "B375–387"
+          },
+          {
+            "endpoint_id": "SHI-E10",
+            "route": "851002",
+            "achieved_versus_unfinished": "New/donatedbookwork/threatfragment/report actual; partialknowledge notomniscient fullplan",
+            "locator": "V115"
+          },
+          {
+            "endpoint_id": "SHI-E11",
+            "route": "851009/011",
+            "achieved_versus_unfinished": "Research/timedentrance explains chosenappearance; not overslept/missedduty/newevilself",
+            "locator": "V129/133"
+          },
+          {
+            "endpoint_id": "SHI-E12",
+            "route": "851013",
+            "achieved_versus_unfinished": "Audience lightsearch/cooperation actual withpartialknowledge; targetfinish atjointscope notnewguessedindividualact",
+            "locator": "V137–139"
+          },
+          {
+            "endpoint_id": "SHI-E13",
+            "route": "851014/017",
+            "achieved_versus_unfinished": "Rolepractice/bookinterest and researchedsewncraft actual; Ui sleepless, throughputinnerestimates/materialpermission unproved; unknownpractice line notnewperson",
+            "locator": "V141/149"
+          },
+          {
+            "endpoint_id": "SHI-E14",
+            "route": "852003",
+            "achieved_versus_unfinished": "Temporaryexternaladvisor/secretcommission actual; Shimiko concealedthenadmitsendreading; unsupportedattackcontested; apocryphacover noSisterhoodauthority",
+            "locator": "W105–110"
+          },
+          {
+            "endpoint_id": "SHI-E15",
+            "route": "852003/004",
+            "achieved_versus_unfinished": "Greyzone/editingphilosophy actual; whippunishment proposednotacted; bookloversharmlessclaim notuniversalethicalfinding",
+            "locator": "W112/119"
+          },
+          {
+            "endpoint_id": "SHI-E16",
+            "route": "852005/006",
+            "achieved_versus_unfinished": "Continuation sampleobtained/readerreflection philosophy; Koharuindependentfansprotection/futurereading notcompletedfullseries; metaphor notmediumlaw",
+            "locator": "W124/133–135"
+          },
+          {
+            "endpoint_id": "SHI-E17",
+            "route": "852007/008",
+            "achieved_versus_unfinished": "Ui shelterlikesbook withquietdistance/staylimits; readerswithdrawlegitimatehelp; publishersstopdecision notsecuredreturn",
+            "locator": "W138–145"
+          },
+          {
+            "endpoint_id": "SHI-E18",
+            "route": "852009",
+            "achieved_versus_unfinished": "Adult/Shimiko actuallystopimpendingclash; Ui cries/accusesbetrayal, priorhospitalization reference notnewbattle/injurycount ormethod",
+            "locator": "W148–150"
+          },
+          {
+            "endpoint_id": "SHI-E19",
+            "route": "852009",
+            "achieved_versus_unfinished": "Localapprovalresponsibility/expectedadjustment/Uiassent/Mashiroprocess andactualnewreading; no universalbanrepeal/totalremoval/policyliabilitytest",
+            "locator": "W152"
+          },
+          {
+            "endpoint_id": "SHI-E20",
+            "route": "852010",
+            "achieved_versus_unfinished": "Representedexchangeproposal/TeaPartyassent/onecaseSchaledelegation; treaty/guarantorliability notindependentlytested, Cherinonapinterpretation attributed",
+            "locator": "W155"
+          },
+          {
+            "endpoint_id": "SHI-E21",
+            "route": "852010",
+            "achieved_versus_unfinished": "Mashiroactualtaste/wantedunfinishedcontinuation; Mikacommissionstoppednotdelivered; falseprestigeburden persists/teacherlimitedoversight",
+            "locator": "W157–159"
+          }
+        ],
+        "eleven_sections": [
+          {
+            "line": 24,
+            "heading": "## 1. Core thesis"
+          },
+          {
+            "line": 34,
+            "heading": "## 2. Longitudinal arc and legitimate ordering"
+          },
+          {
+            "line": 50,
+            "heading": "## 3. Public self, private self, and interpretation"
+          },
+          {
+            "line": 62,
+            "heading": "## 4. Library practice, school and professional limits"
+          },
+          {
+            "line": 78,
+            "heading": "## 5. Ordinary life: books, repaired objects, gifts and company"
+          },
+          {
+            "line": 92,
+            "heading": "## 6. Crisis behavior: referral, discipline and consequential limits"
+          },
+          {
+            "line": 106,
+            "heading": "## 7. Relationship with Sensei: wanted presence and recipient difference"
+          },
+          {
+            "line": 118,
+            "heading": "## 8. Major peers and independent recipients"
+          },
+          {
+            "line": 130,
+            "heading": "## 9. Japanese written voice and source-mode limits"
+          },
+          {
+            "line": 142,
+            "heading": "## 10. Competing readings and evidential judgment"
+          },
+          {
+            "line": 156,
+            "heading": "## 11. Evidence route, open gaps and bounded completeness"
+          }
+        ],
+        "rival_readings": [
+          {
+            "reading": "Alwaysgentlehost",
+            "support": "Comfort/preferencechecks/loan/rest",
+            "contrary": "Coerciveeducation/spoiler/recipientdistress"
+          },
+          {
+            "reading": "Purelyviolentreturnenforcer",
+            "support": "Disputeddiscipline/whipproposal",
+            "contrary": "Giftthanks/readerreflection/preferencechecks/actualcomfort/localaccess"
+          },
+          {
+            "reading": "Omniscientexpert",
+            "support": "Profilecollectionclaim/loan",
+            "contrary": "Failedtreasure/restorationlimit/partialthreatknowledge"
+          },
+          {
+            "reading": "Failureonly",
+            "support": "No rarebook/technicallimit",
+            "contrary": "Actualcompany/loan/rest/referral"
+          },
+          {
+            "reading": "Secretromanceorownership",
+            "support": "Privateinvitations/nonreturnableplay",
+            "contrary": "No status/instrument; actualwantedcompanyvaluable withoutone"
+          },
+          {
+            "reading": "Serviceonly",
+            "support": "Adult/librarywork",
+            "contrary": "Ownreading/gift/birthdaynonbook/bookmarks/reflection"
+          },
+          {
+            "reading": "Harmlesscomiccraft",
+            "support": "Fiction/audiencepleasure",
+            "contrary": "Ui sleep/materialpermission/partialknowledgecosts"
+          },
+          {
+            "reading": "Evilvillain",
+            "support": "Rolepractice",
+            "contrary": "Researchedfiction/report/searchnotnewpersonintent"
+          },
+          {
+            "reading": "Consistentlyopendefender",
+            "support": "852counterattackclaim/reflection/localapproval",
+            "contrary": "Strategicdenial/cover/punitiveproposal/overbroadgoodness"
+          },
+          {
+            "reading": "Opportunisticcensoronly",
+            "support": "Concealment/discipline",
+            "contrary": "Realauthoritydisagreement/actualwantedaccess"
+          }
+        ],
+        "original_fourteen_gaps": [
+          {
+            "stable_gap_and_literal_name": "G01 — Ordinary and private breadth",
+            "state": "OPEN",
+            "specific_effect": "OPEN: all selected reading, making, food, quiet company and rest meanings are intrinsic; no other character or unreceived Shimiko context is completed here."
+          },
+          {
+            "stable_gap_and_literal_name": "G02 — Yuuka council/club decision transfer",
+            "state": "OPEN",
+            "specific_effect": "OPEN: local lending/consultation/referral does not establish Yuuka's independent decision-transfer evidence."
+          },
+          {
+            "stable_gap_and_literal_name": "G03 — Serika service, peer and reciprocity range",
+            "state": "OPEN",
+            "specific_effect": "OPEN: reader matching and shared work here provide comparison, not missing Serika receiver/service range."
+          },
+          {
+            "stable_gap_and_literal_name": "G04 — Hina crisis causality, accountability and ordinary contrast",
+            "state": "OPEN",
+            "specific_effect": "OPEN: disputed discipline and limited restoration do not settle Hina's separate causal/accountability record."
+          },
+          {
+            "stable_gap_and_literal_name": "G05 — Arius and PS68 ordinary/aftermath transfer",
+            "state": "OPEN",
+            "specific_effect": "OPEN: Library duty, gifts and craft cannot certify Arius/PS68 livelihood, safety or social repair."
+          },
+          {
+            "stable_gap_and_literal_name": "G06 — Cross-school ordinary repertoire",
+            "state": "OPEN",
+            "specific_effect": "OPEN: specific reader, visitor, child, peer and performer wants remain local; all other required ordinary lives stay independent."
+          },
+          {
+            "stable_gap_and_literal_name": "G07 — Story-world chronology",
+            "state": "OPEN",
+            "specific_effect": "OPEN: source-local work/day/dawn/preparation/reunion order is received, but release/variant/holiday/rerun metadata does not place all objects in one MAIN calendar."
+          },
+          {
+            "stable_gap_and_literal_name": "G08 — Event naming and repeat contexts",
+            "state": "OPEN",
+            "specific_effect": "OPEN: literal event/source roles and repeated Special/lobby scripts stay distinct; no missing title repair or extra historical borrowing/event follows."
+          },
+          {
+            "stable_gap_and_literal_name": "G09 — Written speaker/choice attribution",
+            "state": "OPEN",
+            "specific_effect": "OPEN: private enforcement seams,812002 inherited text-bearing corrections,851 unknown/inward role lines and852 adjacent-actor/overprotection seams retain exact scope; no new repaired native actor map is authenticated."
+          },
+          {
+            "stable_gap_and_literal_name": "G10 — Performed voice",
+            "state": "OPEN",
+            "specific_effect": "OPEN: written Japanese, Korean logs, declared voice/actor commands and role practice provide no received audiovisual acting, tone, gesture or engine result."
+          },
+          {
+            "stable_gap_and_literal_name": "G11 — Hoshino's Yume record and office states",
+            "state": "OPEN",
+            "specific_effect": "OPEN: no record authentication, death explanation or office continuity is supplied by this library/quiet-care synthesis."
+          },
+          {
+            "stable_gap_and_literal_name": "G12 — Counterpart, system and variant identity",
+            "state": "OPEN",
+            "specific_effect": "OPEN: literal Shimiko26004 and source-local roles are retained; broader special identity-review associations and unknown recipients are not new persons or universal continuity proofs."
+          },
+          {
+            "stable_gap_and_literal_name": "G13 — Office, contract, safety and technical outcomes",
+            "state": "OPEN",
+            "specific_effect": "OPEN: visitor learning/injury/proportionality, audited access/ownership/coating, loan return, alternative gift delivery, material-use permission, Ui rest and full backlog remain unsettled;852 local approval/proposed exchange/limited guarantorship establish no universal charter, liability test or justified prior punishment."
+          },
+          {
+            "stable_gap_and_literal_name": "G14 — Unclassified/mode continuity",
+            "state": "OPEN",
+            "specific_effect": "OPEN: narration, profile, direct/inward speech, report, formal alternative, whole-message tail and conditional written repetition retain different warrants; no universal consent, continuous biography or fully repaired institution follows."
+          }
+        ],
+        "locator_review_scope": "Complete receivednormalargument/declaredadequatepriorreuse and exactsavedparagraphbindings; no new primary/raw/native/inverse/performed/independent/bodycontrolreplay",
+        "credit_added": {
+          "primary": 0,
+          "raw": 0,
+          "native": 0,
+          "performed": 0,
+          "independent": 0,
+          "model": 0,
+          "ROOT_acceptance": 0,
+          "canonical": 0,
+          "N": 0,
+          "quarter": 0
+        }
+      }
+    },
+    {
+      "name": "SHIMIKO_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+      "original_exact_tuple": {
+        "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "bytes": 1831,
+        "sha256": "0385c5c89c14d73f8e256e34c56a0379ffecdf13cf933faa6bbdfcea588673c4",
+        "git_blob_oid_of_actual_bytes": "0026d4d643428463a4f90699a02fab35517f4e2b",
+        "lines": 43,
+        "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "SHIMIKO_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1",
+        "status": "SAVED_FINITE_ARTIFACTS_ACTUAL_COMPLETE_READBACK_REQUIRED_BEFORE_FREEZE",
+        "payloads": [
+          {
+            "file": "BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md",
+            "byte_count": 57987,
+            "line_count": 179,
+            "sha256": "aaa73ac2e4817d784866e1465a5b370ff691c90594a83e2674127b0fca013ae1",
+            "actual_byte_blob_oid": "38347bcb7d3e380b5e3cd386d40519192c52220b"
+          },
+          {
+            "file": "SHIMIKO_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+            "byte_count": 31071,
+            "line_count": 608,
+            "sha256": "db79484bd10726c643bdae3f8140b191a03677f1c5fe7dc74412f238f38a4c96",
+            "actual_byte_blob_oid": "dbd165742de66a86bf187d10ebbd6c2766f38964"
+          },
+          {
+            "file": "SHIMIKO_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+            "byte_count": 76723,
+            "line_count": 1234,
+            "sha256": "1e6414d08eff69a23dc254cf0e17dad05132d577dfd0f8fab736d8e7d008f13d",
+            "actual_byte_blob_oid": "cf6a4d08fddbaef4aadb4a935ae414818fbc840b"
+          }
+        ],
+        "format": "UTF8LF/noBOM/onefinalLF/allunder1MiB",
+        "links": {
+          "count": 86,
+          "rows_in": "SHIMIKO_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json:citationrows",
+          "verified_from": "series/blue-archive/04 Specialist Syntheses/CHARACTERS",
+          "physical_C_location_is_published": false
+        },
+        "counts": {
+          "paragraph_joins": 60,
+          "endpoints": 21,
+          "sections": 11,
+          "original_OPEN_gaps": 14,
+          "prior_frozen": 25
+        },
+        "semantic_scope": "Full sustained eleven-section argument, ordinarytaste/reading/making/company/rest intrinsic; achievedlocalpermission and contraries/unfinishedtails retained. ROOTacceptance/canonicalpending",
+        "complete_readback": "Separately actuallyemitcompletebody/source/claim/savedbeforeauthorseal; generation/exactbindings nothumanreceiving"
+      }
+    }
+  ],
+  "complete_frozen_manifest": {
+    "schema": "SHIMIKO_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1",
+    "status": "AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_FROZEN_ROOT_REVIEW_PENDING",
+    "package": "P3-CHAR-SHIMIKO",
+    "payloads": [
+      {
+        "file": "BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md",
+        "byte_count": 57987,
+        "line_count": 179,
+        "sha256": "aaa73ac2e4817d784866e1465a5b370ff691c90594a83e2674127b0fca013ae1",
+        "actual_byte_blob_oid": "38347bcb7d3e380b5e3cd386d40519192c52220b"
+      },
+      {
+        "file": "SHIMIKO_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 31071,
+        "line_count": 608,
+        "sha256": "db79484bd10726c643bdae3f8140b191a03677f1c5fe7dc74412f238f38a4c96",
+        "actual_byte_blob_oid": "dbd165742de66a86bf187d10ebbd6c2766f38964"
+      },
+      {
+        "file": "SHIMIKO_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 76723,
+        "line_count": 1234,
+        "sha256": "1e6414d08eff69a23dc254cf0e17dad05132d577dfd0f8fab736d8e7d008f13d",
+        "actual_byte_blob_oid": "cf6a4d08fddbaef4aadb4a935ae414818fbc840b"
+      },
+      {
+        "file": "SHIMIKO_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 1831,
+        "line_count": 43,
+        "sha256": "0385c5c89c14d73f8e256e34c56a0379ffecdf13cf933faa6bbdfcea588673c4",
+        "actual_byte_blob_oid": "0026d4d643428463a4f90699a02fab35517f4e2b"
+      }
+    ],
+    "actual_complete_saved_receiving": {
+      "body": {
+        "characters": 57597,
+        "spans": [
+          [
+            "380274",
+            0,
+            18000
+          ],
+          [
+            "863915",
+            18000,
+            36000
+          ],
+          [
+            "6b8517",
+            36000,
+            57597
+          ]
+        ],
+        "EOF": true
+      },
+      "source": {
+        "characters": 30987,
+        "spans": [
+          [
+            "76daca",
+            0,
+            30987
+          ]
+        ],
+        "EOF": true
+      },
+      "claims": {
+        "format": "Complete current parsed JSON fields in compact serialization; no omitted fields or values",
+        "compact_characters": 66160,
+        "spans": [
+          [
+            "b24f6d",
+            0,
+            26000
+          ],
+          [
+            "4860f3",
+            26000,
+            52000
+          ],
+          [
+            "3114d3",
+            52000,
+            66160
+          ]
+        ],
+        "EOF": true,
+        "prior_complete_raw_fields": {
+          "before_sha256": "4248492b0a27eb9080b0c3b333b16f8aa64e1e9a6981bb57996540d2755e860b",
+          "characters": 76351,
+          "spans": [
+            [
+              "7148ca",
+              0,
+              22000
+            ],
+            [
+              "ca8102",
+              22000,
+              44000
+            ],
+            [
+              "ed1858",
+              44000,
+              66000
+            ],
+            [
+              "0e0b1b",
+              66000,
+              76351
+            ]
+          ],
+          "qualification": "Two unfrozen locator fields were clarified with explicit source-ID/line separators in f57ff4, then every current exact parsed field received b24f6d/4860f3/3114d3; no body/source meaning altered"
+        }
+      },
+      "saved": {
+        "format": "Complete current parsed JSON fields, compact",
+        "compact_characters": 1584,
+        "spans": [
+          [
+            "b962b5",
+            0,
+            1584
+          ]
+        ],
+        "EOF": true,
+        "prior_raw_receiving": "3a773e whole pre-locator-clarification binding fields; current exact fields separately complete above"
+      },
+      "clipping": "No clipping in these complete saved body, source or current parsed-field outputs; generation/hashing not human receiving"
+    },
+    "finite_exact_checks": {
+      "result": "PASS",
+      "R_inputs": 13,
+      "historical_C": 3,
+      "prior_frozen": 25,
+      "payloads": 4,
+      "paragraph_joins": 60,
+      "canonical_home_links": 86,
+      "endpoints": 21,
+      "sections": 11,
+      "literal_original_OPEN_gaps": 14,
+      "format": "UTF8LF/noBOM/onefinalLF/allunder1MiB",
+      "public_machine_path_leakage": false
+    },
+    "literary_review": {
+      "thesis": "Shimiko makes reading a wanted place through reader matching, comfort, work, gifts and reflective circulation, while her discipline, concealment and imposed labor remain answerable to recipients.",
+      "ordinary": "Reading/bookmarks/genre questions/quiet paper sounds, cushions/repair, company after failed rarebook hunt, achievedwantedloan/rest, sharedchocolate/blanket and wantednonbookbirthdaydifference are intrinsic, not crisis filter.",
+      "independent_peers": "Ui distinct expertise/quietdistance/stayconditions/sleeplessness/tearfulrebuke; Hinata own distress/help; Suzumi/Reisa separatefandomwants; Mashiroactualpermission and852laterliking; Koharu independentlyfansprotection/choosesconflictapproach; readerswithdrawlegitimatehelp; Takane/Yakumo distinct taste/creation/marketing.",
+      "endings": "Allfivepairedwholemessage andonewritten complete meanings; giftsharedfood/work/sleep/blanket, referralonlyvsUi restoration,851timedarrival/search/lostsleep;852actual stoppingimpendingclash/localapproval/Mashirotaste vsunfinishedcontinuation/proposedexchange/limitedguarantorship.",
+      "rivals": "Substantial gentleonly/violentonly/omniscient/failureonly/romanceownership/serviceonly/harmlesscomiccraft/evilrole/opendefender/censoronly alternatives evaluated by actual contrary means and replies.",
+      "limits": "No justifiedforce/visitorlearning/safety/restitution, shelfownership/chemistry/clinicalaudit, extra loan/birthdaydelivery, materialpermission/restorationassignedShimiko, globalpolicy/banrepeal/treatyliability, repairednativeactormaps orperformedvoice."
+    },
+    "source_recovery": "Freshwhole currentW205lineE852 b59d4e1–95/54525f96–155/7dd741156–205EOF after attributedpositiveheaderqueryd469f9. Personalwhole smallgiftL56235b51/referralL122173bcd undernormalC/B/Cycle008; historicalproducerpendingqualified, no ritualprimaryreplay.",
+    "source_head": "5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+    "analytical_main": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "current_authority": "Cycle008supersedesproducerhistoricalpending/noncurrent status, notoriginalreadingcredit; mutableROOTprogress outside authorliteraryevidence",
+    "all_nine_unbound_large": "Unread/unhashed/unopened",
+    "credit_added": {
+      "primary": 0,
+      "raw": 0,
+      "native": 0,
+      "performed": 0,
+      "independent": 0,
+      "model": 0,
+      "ROOT_acceptance": 0,
+      "canonical": 0,
+      "N": 0,
+      "quarter": 0
+    },
+    "integration": "ROOT solely receives/adjudicates/installs; separateLibrary/directedrelationship duties stayrequired; allfrozenpayloadsimmutable"
+  },
+  "original_frozen_manifest_exact_tuple": {
+    "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+    "bytes": 6545,
+    "sha256": "b322d59cfa309f8fb2e0012e576f70f4176c69f1982fe513d1755afca94c9b63",
+    "git_blob_oid_of_actual_bytes": "a63d7bd750000baee82958cb9de406d3ee504ee6",
+    "lines": 172,
+    "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+  },
+  "all_exact_frozen_transports": [
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 57987,
+      "sha256": "aaa73ac2e4817d784866e1465a5b370ff691c90594a83e2674127b0fca013ae1",
+      "git_blob_oid_of_actual_bytes": "38347bcb7d3e380b5e3cd386d40519192c52220b",
+      "lines": 179,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/BLUE_ARCHIVE_SHIMIKO_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 31071,
+      "sha256": "db79484bd10726c643bdae3f8140b191a03677f1c5fe7dc74412f238f38a4c96",
+      "git_blob_oid_of_actual_bytes": "dbd165742de66a86bf187d10ebbd6c2766f38964",
+      "lines": 608,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+    },
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 76723,
+      "sha256": "1e6414d08eff69a23dc254cf0e17dad05132d577dfd0f8fab736d8e7d008f13d",
+      "git_blob_oid_of_actual_bytes": "cf6a4d08fddbaef4aadb4a935ae414818fbc840b",
+      "lines": 1234,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+    },
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 1831,
+      "sha256": "0385c5c89c14d73f8e256e34c56a0379ffecdf13cf933faa6bbdfcea588673c4",
+      "git_blob_oid_of_actual_bytes": "0026d4d643428463a4f90699a02fab35517f4e2b",
+      "lines": 43,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SHIMIKO_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json"
+    }
+  ],
+  "exact_body_reference_translations": [],
+  "retained_body_navigation_qualification": "Current normal owners are navigation; complete original individual argument and source scopes remain exact-bound and attributed. No producer physical receiving is retroactively added."
+}
