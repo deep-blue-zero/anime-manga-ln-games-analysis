@@ -1,0 +1,181 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Tsurugi",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_TSURUGI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5436,
+    "sha256": "22f5700ca6cdf004449d0dba08c0657efe9e553fad8b1e7d4aeb7a63791b260b",
+    "git_blob_oid_of_actual_bytes": "a57c4a1bb473c5c3eabc2dfd5679b3c3eacda22f",
+    "lines": 141
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_TSURUGI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "61d95223a1cc99e69dbbe4dd0d360511d0e1e62dfbf24f95307e8c85a18cb5a2",
+    "source_checks": [
+      {
+        "source_id": "C01",
+        "same_main": false,
+        "same_declared_snapshot": true,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286"
+      },
+      {
+        "source_id": "C02",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d"
+      },
+      {
+        "source_id": "C03",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6"
+      },
+      {
+        "source_id": "C04",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac"
+      },
+      {
+        "source_id": "M03",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9"
+      },
+      {
+        "source_id": "G01",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93"
+      },
+      {
+        "source_id": "E03",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "2e39c9ad794d9b38f9a3ea4b3b0b83031f7646a55fd689f11cc1a6fbdb4341b2"
+      },
+      {
+        "source_id": "E18",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187"
+      },
+      {
+        "source_id": "E19",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "f985eff72b00b1532d668f6e60534a05351d4cb26dbfff17d187da3e501459e2"
+      },
+      {
+        "source_id": "F00",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf"
+      },
+      {
+        "source_id": "T01",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "a21d34d7d07859c2b0ea9f9be7b75c2a0f63405e5ebb229e766e2e7e175ee360"
+      },
+      {
+        "source_id": "E41",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "1964ab85a295573b91336b3971fa833e63458b881e4391d29891cd0b2cb17b46"
+      },
+      {
+        "source_id": "E21",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38"
+      },
+      {
+        "source_id": "L70",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "163f6207e50a7510ed029c2d94263e7f5e81dd8358281c14b6ea5538c6892c15"
+      }
+    ],
+    "exact_saved_claim_paragraphs": 25,
+    "frozen_outputs_verified": 4,
+    "saved_receipt_sha256": "ac34e0618b73647bad14b43aa5a6feff11949a260dbd20762416aabd7b11456e",
+    "prior_frozen_outputs_preserved": 40,
+    "root_actual_receiving": {
+      "whole_saved_body": [
+        "f50795 lines1–73",
+        "c64c84 lines74–138EOF"
+      ],
+      "source_fields": [
+        "455e45 inputs0–6",
+        "95bdd8 inputs7–13",
+        "a3f11a all source controls"
+      ],
+      "claim_fields": [
+        "1ee1e2 claims0–7",
+        "7242bc claims8–16",
+        "fb3a96 claims17–24",
+        "6b531d complete register controls"
+      ],
+      "whole_saved_receipt": [
+        "40e167 lines1–193",
+        "b91616 lines194–383EOF"
+      ],
+      "additional_complete_accepted_argument_receiving": [
+        "3a0dac G01 lines1–80",
+        "0506e7 G01 lines81–147EOF",
+        "0f8849 L70 complete73lines",
+        "1d41ce E41 lines949–965 complete016argument",
+        "4f8468 T01 lines337–392",
+        "4177ad T01 lines393–450",
+        "3ec090 T01 lines475–516EOF"
+      ],
+      "grounds": [
+        "Tsurugi has chosen films, novels, cherished tickets, orderly belongings, craft, outings and wanted company; ordinary interests are intrinsic to the argument.",
+        "Self-appraisal, recipient experience and audience knowledge remain distinct: felt welcome does not erase coercive contact, peer anxiety or a proposed approach that never occurs.",
+        "Actual private outings, room organization, unconventional play, rest and quiet sea form finite positive endpoints alongside failed tasks, fatigue and unsettled consequences.",
+        "The Christmas party and agreed theatre performance have real participation and craft, while reported injuries, fainting and unprinted recovery remain bounded.",
+        "The inward gift response and incomplete speech do not establish heard thanks, mutual confession, taste, kiss, medical recovery, repaired train harm or a global social cure."
+      ],
+      "authority_qualification": "Historical producer headers remain historical. Reused Cycle008 meanings are distinguished from fresh ROOT primary reading; main2e and c1 source comparisons are exact only for enumerated bindings."
+    },
+    "root_new_primary_or_performance_credit": 0,
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope_reference": "ROOT_FULL_CAST_REQUIRED_HOME_PARTITION_ACCEPTED_V2.json; N353 separately adjudicated, package adoption pending",
+    "quarter_reached": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-TSURUGI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+    "bytes": 35449,
+    "sha256": "26acbb533c220d5851d815cd2099135e6bbdea2dd2a1d48f38381710fe5bd43e",
+    "git_blob_oid_of_actual_bytes": "4190dfb35425f4e60f8d8daf280bc2bb9df69ded"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "This monograph is proposed as a complete literary package at its declared accepted analytical boundary, pending ROOT's whole receiving.",
+      "new": "ROOT accepted this complete literary package with limits at its declared analytical boundary.",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    }
+  ]
+}

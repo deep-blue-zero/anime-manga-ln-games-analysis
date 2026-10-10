@@ -1,0 +1,117 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Haruna",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HARUNA_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_HARUNA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5248,
+    "sha256": "f2f3d6311974d3767231a07b3d9b09f592c29c8e9586463798847e70751bc47e",
+    "git_blob_oid_of_actual_bytes": "93a3d4917215b9804950a63c877b700327cf8c85",
+    "lines": 77
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_HARUNA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "37cfee0f88ca2f73b33c9bd24d3f2a862ac6b1f90e399d3317b50f4b222ca0de",
+    "frozen_outputs_verified": 4,
+    "prior_frozen_payloads_preserved": 65,
+    "exact_unique_binding_pairs_verified": 150,
+    "accepted_public_arguments_equal_current_main_and_c1": 28,
+    "effective_private_arguments": 17,
+    "separate_comparison_arguments": 1,
+    "selected_private_source_objects_binding_only": 27,
+    "saved_nonempty_lines_joined": 126,
+    "historical_metadata": [
+      {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "ref": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "purpose": "Historical exact metadata only"
+      }
+    ],
+    "root_actual_receiving": {
+      "whole_body": [
+        "263e5c lines1–103",
+        "f97edd lines104–205EOF"
+      ],
+      "whole_readable_receipt": "09b860 all68linesEOF",
+      "complete_receipt_controls": "794084 complete controls; repairs clipped31e5d1 with no whole clipped credit",
+      "all_private_scope_fields": "9bea9a all17 entries",
+      "all_public_scope_fields": [
+        "5f3b67 all4 fresh",
+        "f69be5 all23 reuse",
+        "eaecff all8 bounded refreshes"
+      ],
+      "whole_metadata_and_manifest": [
+        "b3d8e0 all49 metadata lines",
+        "f88db9 all38manifest lines"
+      ],
+      "fresh_complete_consequential_arguments": [
+        "779cd0 H02 noodles34lines",
+        "e2e71d H04 snack walk36lines",
+        "f874cd H09 unfinished production36lines",
+        "5d53b2 H10 candy refusal/unperformed dinner36lines",
+        "427683 H11 stopped explanation/actual tour38lines",
+        "1b07cb whole gift05173lines"
+      ],
+      "fresh_scoped_consequential_argument": "211d0d E8481124–1260 complete episodes1–7 and opening8; actual5–7 food-transfer and barbecue meanings received. No whole2333metadata or source narrative credit. Failed literal-heading searches6ee9c9/3b9a12 no absence claim.",
+      "existing_ROOT_meaning": "Fuuka/Juri accepted consequential public meanings and prior effective Haruna adoption govern at their qualified scopes. Remaining author complete receiving attributed rather than converted to new ROOT primary or whole-file credit.",
+      "limits": "No whole2605-line structured JSON narrative reading claimed. Exact binding, scope projection and saved joins are verification."
+    },
+    "semantic_grounds": [
+      "Haruna makes and appreciates occasions, including inexpensive noodles, snacks, clothes, company, mutual contact and a deliberately unfinished private meaning. These intrinsic positive acts qualify any expensive-food or destructive-only essence.",
+      "Company and preparation coexist with ordinary narrator taste and a disappointing repeat report. They establish no controlled causal taste mechanism. Production machine, dinner, final auction price, future barter and later apologies remain incomplete.",
+      "Actual surprise feeding and repeated pressure coexist with joint chocolate craft, sweeter honest appraisal and another taste. Her gratitude hypothesis and inward reflection establish no chemistry, advance permission or mutual romantic confession.",
+      "Gourmet peers have distinct wishes, tastes, objections and influence. Izumi abandonment, captive Fuuka, ignored warning, mistreated workers and unfinished restitution remain adverse alongside included pleasure, supplied resources, aid and local apology/new request.",
+      "E848 giving changes under Mika explanation and independent peer views, while a future barter condition remains. Actual transferred food and later barbecue/tea are finite outcomes; ownership recognition and Hasumi inference are not an audited criminal judgment.",
+      "Report-layer participants are not weekly-meeting attendees; typed/raw manager, employee, student and public seams remain qualified. Variant forms, source modes, locales, formal alternatives and release conditions establish no maturation calendar or performed voice.",
+      "Candy refusal, stopped ornament explanation and other recipient boundaries remain positive evidence. Warmth and later success do not grant general consent or prove durable reform. Required directed, ensemble, institution and Sensei packages remain separate."
+    ],
+    "root_new_primary_or_performance_credit": 0,
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope": "355packages/29namedsections unchanged; existing P3-CHAR-HARUNA home; scope allocation is not literary completion",
+    "metadata_probe_qualification": "CapturedHEAD7489 with V6-installed703543-byte worktree candidateCSV, never alleged to be7489 committed bytes; exact current1bb97 successor confirmed.",
+    "progress": {
+      "previous_ROOTaccepted_packages": 39,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 40,
+      "character_packages": 39,
+      "directed_relationship_packages": 1,
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "published_packages": 36,
+      "quarter_reached": false
+    },
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "main_integration": "NONE",
+    "nine_unbound_large": "UNREAD_UNHASHED"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-HARUNA",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HARUNA_CHARACTER_MONOGRAPH.md",
+    "bytes": 44553,
+    "sha256": "1539b891d0e19edf3e4501712354f731ed89748e2de408ef5946d9224c519aa8",
+    "git_blob_oid_of_actual_bytes": "9d9bb419cfa53a111e7fb0d730de9764241bc2d7"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "This complete local candidate proposes DEEP_SYNTHESIS, pending ROOT independent whole-body/receipt verification and canonical adoption.",
+      "new": "ROOT independently received and accepted this complete DEEP_SYNTHESIS literary monograph with limits; canonical persistence follows the complete ROOT installation.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    }
+  ]
+}

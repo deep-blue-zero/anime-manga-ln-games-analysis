@@ -1,0 +1,289 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1/COMMON_HOME_ALIAS_AND_SECTION_DECISION_TABLE.json",
+  "original_frozen_binding": {
+   "bytes": 15859,
+   "sha256": "ba7bd8dab930e5c9bf6a43f4404f252ee533b875676b84fb4de8b2344de09eaa",
+   "git_blob_sha1": "a65b10b76111a61d6be72df8fda1ef115332c0f0"
+  }
+ },
+ "historical_payload": {
+  "scope": {
+   "state": "C_ONLY_SEMANTIC_PARTITION_PROPOSAL_ROOT_RECEIVING_AND_ADOPTION_PENDING",
+   "N_frozen": false,
+   "monograph_completion_credit_added": 0,
+   "primary_narrative_credit_added": 0,
+   "percentage_or_quarter_claimed": false,
+   "repository_writes": false,
+   "historical_source_baseline": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+   "reported_current_publication": "dc5ae72fb4841b90ff09fd53d8ba4b0ce0cf4193",
+   "reported_current_candidate_sha256": "f8ce1729205b02498c1981b0cd67943b80bd873d3b4aa83698325863223f9523"
+  },
+  "aliases": {
+   "P3-REL-LOVE-ARATA-HELMET-RETURN-COMPANY": "P3-REL-ARATA-LOVE-HYAKKA",
+   "P3-ENSEMBLE-ARIUS-SQUAD-PLURAL-ORDINARY-LIFE": "P3-REL-ARIUS-SQUAD-PLURAL-ORDINARY-LIVES",
+   "P3-ENSEMBLE-KAITEN-ORDINARY-ENDS-UNEQUAL-WORK": "P3-REL-KAITEN-ORDINARY-ENDS-AND-UNEQUAL-LABOR",
+   "P3-INST-PRECARIOUS-WORK-ART-CREDIT-RECIPIENT-POWER": "P3-INST-PRECARIOUS-WORK-ART-CREDIT-AND-RECIPIENT-POWER",
+   "P3-INST-LIBRARY-ACCESS-OBJECT-CARE-READER": "P3-INST-LIBRARY-ACCESS-OBJECT-CARE-READER-SERVICE",
+   "P3-SECTION-HIGHLANDER-PLEASURE-SERVICE-UNEVEN-BURDEN": "P3-ENSEMBLE-HIGHLANDER-PLEASURE-SERVICE-UNEVEN-BURDEN"
+  },
+  "section_homes": [
+   {
+    "question": "P3-SECTION-FESTIVAL-CROSS-SCHOOL-CARE-RECIPIENTS",
+    "required_receiving_home": "P3-INST-PUBLIC-FESTIVAL-FAIRNESS-SPECTATORS-AUTOMATED-FORCE",
+    "literary_rationale": "Recipient-specific care under festival rules; same public mechanism with named distinct caregivers, not one reciprocal dyad"
+   },
+   {
+    "question": "P3-REL-UI-SHIMIKO-READING-CRAFT-REST",
+    "required_receiving_home": "P3-INST-LIBRARY-ACCESS-OBJECT-CARE-READER-SERVICE",
+    "literary_rationale": "Required complete directed section: referral, reading/craft/rest contrast and recipient response; independent package held until a further explanatory trajectory is adjudicated"
+   },
+   {
+    "question": "P3-SECTION-REMEDIAL-JUSTICE-ORDINARY-GRATITUDE",
+    "required_receiving_home": "P3-ENSEMBLE-REMEDIAL-STUDY-ORDINARY-WORLD",
+    "literary_rationale": "Named cross-Justice gratitude/return-wish section; particular helpers and refused/unfinished returns remain"
+   },
+   {
+    "question": "P3-SECTION-LOVE-WORK-EMPLOYER-BACKUP-PASSENGERS",
+    "required_receiving_home": "P3-ENSEMBLE-LOVE-GROUP-WORK-PLAY-RECIPIENTS",
+    "literary_rationale": "The paid-work recipient chain belongs in the already proposed Love work ensemble; preserve employer, backup and passenger agency"
+   },
+   {
+    "question": "P3-REL-KEI-SENSEI-GIFT-FRICTION",
+    "required_receiving_home": "P3-CHAR-KEI-TWO-KEY-BOUNDED",
+    "literary_rationale": "One bounded gift-friction argument and its unjoined Key form require a substantial named section, not an automatically complete longitudinal dyad"
+   },
+   {
+    "question": "P3-ENSEMBLE-PS68-BELONGING",
+    "required_receiving_home": "P3-INST-PS68-COMMAND-FINANCE-RESPONSIBILITY",
+    "literary_rationale": "Full ensemble section explaining chosen belonging and uneven command/finance, while independent character and directed Haruka questions remain"
+   },
+   {
+    "question": "P3-REL-MAKOTO-IBUKI",
+    "required_receiving_home": "P3-ENSEMBLE-PANDEMONIUM-IBUKI-DIFFERENT-DIRECTIONS",
+    "literary_rationale": "Full Makoto→Ibuki direction and recipient subsection; selective care/child wishes differ from Iroha"
+   },
+   {
+    "question": "P3-REL-IROHA-IBUKI",
+    "required_receiving_home": "P3-ENSEMBLE-PANDEMONIUM-IBUKI-DIFFERENT-DIRECTIONS",
+    "literary_rationale": "Full Iroha→Ibuki direction and recipient subsection; rest and practical care differ from Makoto"
+   },
+   {
+    "question": "P3-REL-ARU-HARUKA",
+    "required_receiving_home": "P3-REL-PS68-HARUKA-REPAYMENT-RECOGNITION",
+    "literary_rationale": "Full Aru→Haruka direction, repayment/recognition and opposite reception; no interchangeability with Mutsuki"
+   },
+   {
+    "question": "P3-REL-MUTSUKI-HARUKA",
+    "required_receiving_home": "P3-REL-PS68-HARUKA-REPAYMENT-RECOGNITION",
+    "literary_rationale": "Full Mutsuki→Haruka direction and opposite reception; same three-person recognition question with separate actors"
+   },
+   {
+    "question": "P3-SECTION-HYAKKA-JUNIOR-SENIOR-REPAIR",
+    "required_receiving_home": "P3-REL-AYAME-NAGUSA",
+    "literary_rationale": "Named junior→senior repair section with each junior distinct and Ayame forms/absent awake assent preserved"
+   },
+   {
+    "question": "P3-REL-KISAKI-RUMI",
+    "required_receiving_home": "P3-REL-SHANHAIJING-RUMI-DIFFERENT-DIRECTIONS",
+    "literary_rationale": "Full Kisaki↔Rumi direction, refused sister framing, wanted cooking and finite burdens"
+   },
+   {
+    "question": "P3-REL-REIJO-RUMI",
+    "required_receiving_home": "P3-REL-SHANHAIJING-RUMI-DIFFERENT-DIRECTIONS",
+    "literary_rationale": "Full Reijo↔Rumi direction, practical work/nicknames/refusals; differentiated reception rather than common affection"
+   },
+   {
+    "question": "P3-REL-SHANHAIJING-CRAFT-RIVALRY",
+    "required_receiving_home": "P3-REGISTER-PUBLIC-PERFORMANCE-AUDIENCE-SOURCE-FORMS",
+    "literary_rationale": "Carrier label only; actual Mina–Reijo and Reijo–Kaguya questions are separately proposed standalone relations"
+   },
+   {
+    "question": "P3-SECTION-SUIKO-NAGOMI-YOUKO-INDIVIDUAL-QUESTIONS",
+    "required_receiving_home": "P3-INST-MEIHUA-CARE-TIME-RECIPIENTS",
+    "literary_rationale": "Institutional recipient comparison must remain even when each named child has a proposed scoped independent character home"
+   },
+   {
+    "question": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+    "required_receiving_home": "P3-INST-WILDHUNT-ART-RECOGNITION-PRIVACY",
+    "literary_rationale": "Required directed recipient section comparing forced initiation/detention with later respected refusal; distinct ordinary character ends remain"
+   },
+   {
+    "question": "P3-ENSEMBLE-MIYO-FUYU-RITSU-HIROMI",
+    "required_receiving_home": "P3-INST-ART-COMMERCE-UNCHOSEN-HEADSHIP",
+    "literary_rationale": "Complete ensemble section retains unequal wants and client leverage within a coherent institutional work/allocation question"
+   },
+   {
+    "question": "P3-INST-COLLAB-HOSPITALITY-HOSTED-DEPARTURE",
+    "required_receiving_home": "P3-ENSEMBLE-COLLAB-VISITORS-NONTRANSFERABLE-CONSENT",
+    "literary_rationale": "Complete host/departure institution section, source-limited power and nontransferable consent; no automatic whole-world law"
+   },
+   {
+    "question": "P3-SECTION-GIFTS-RECIPIENT-SPECIFIC-TIME",
+    "required_receiving_home": "P3-REGISTER-GIFTS-RECIPIENT-SPECIFIC-TIME",
+    "literary_rationale": "Mandatory recipient-specific form and local time sections, not a composite person or release chronology"
+   },
+   {
+    "question": "P3-SECTION-SHUN-10144",
+    "required_receiving_home": "P3-CHAR-SHUN",
+    "literary_rationale": "Substantial written-source-form section, explicit current E805 bridge, empty raw join and conditionals retained"
+   },
+   {
+    "question": "P3-SECTION-MOE-CONFLICTED-WRITTEN-FORMS",
+    "required_receiving_home": "P3-CHAR-MOE",
+    "literary_rationale": "Three exact conflicted costumes as positive language/form sections; no secure personal delta"
+   },
+   {
+    "question": "P3-SECTION-HINA-ICE-POP-GIFT-PRIVACY",
+    "required_receiving_home": "P3-CHAR-HINA",
+    "literary_rationale": "GROUP3502 gift/privacy directed scene retains a substantial ordinary/recipient argument, not Hot Springs membership"
+   },
+   {
+    "question": "P3-SECTION-GSC-CIVIC-RECOVERY-AYUMU-REQUEST",
+    "required_receiving_home": "P3-INST-GSC-SCHALE",
+    "literary_rationale": "Full E824 civic section; Ayumu agency and separate independent reconsideration retained, recovery not assumed"
+   }
+  ],
+  "review_holds": {
+   "P3-INST-MILLENNIUM-DISTRIBUTED-AUTHORITY": "Required whole-school convergence/allocation review; already required scoped institutions cannot manufacture a second umbrella",
+   "P3-REL-HIMARI-EIMI-DIFFERENT-DEPENDENCIES": "Positive private/public lead; complete opposite-directed reception still needs consequential review before a standalone package decision",
+   "P3-INST-RED-WINTER-SCHOOL-CONVERGENCE-PENDING": "Required whole-school convergence review; Secretariat/Class227/Knowledge/Publishing/Works are preserved first",
+   "P3-CHAR-TSUMUGI-SOURCE-SCOPED-PENDING": "Trinity artist/mentor and E856 roommate routes remain separate until identity comparison; WildHunt E849 question is separately source-scoped",
+   "P3-CHAR-MIRAI-E851-SOURCE-SCOPED-PENDING": "Marketing/pseudoscience identity scope versus E856 former-club chief remains unresolved; neither is erased",
+   "P3-DISP-KAI-RIKU-LOCAL-EXAMINER": "Required bounded local examiner disposition; no unsupported identity/eleven-section person promotion",
+   "P3-CHAR-AYUMU-INDEPENDENT-RECONSIDERATION": "New E824 public agency warrants positive independent reconsideration, while complete named GSC ensemble duty remains",
+   "P3-CHAR-MISUZU-E856-ROLE-IDENTITY-REVIEW": "Correctional label/address seam requires source/role and independent feasibility adjudication, no Kanna join",
+   "P3-CHAR-COMPUTATION-SCIENCE-LEADER-MINI-REVIEW": "Anonymous maker/presenter intention requires independent feasibility review; no anonymity exclusion or guessed Millennium person"
+  },
+  "named_source_scoped_character_proposals": [
+   {
+    "home": "P3-CHAR-KAMEJIMA-GORO-E809",
+    "source": "ABYDOS_ARIUS §6.1/E809",
+    "argument": "Source-bound antagonistic authority, commercial/civic aims and actual other-directed reception; private-pool absence no exclusion"
+   },
+   {
+    "home": "P3-CHAR-KANAE-E859-SOURCE-SCOPED",
+    "source": "HYS §3.16/E859",
+    "argument": "Wanted rest/travel, internal work, expressed limits, imposed wider duty and collapse; not WildHunt Kanoe"
+   },
+   {
+    "home": "P3-CHAR-KAGUYA-SHANHAIJING-SOURCE-SCOPED",
+    "source": "HYS E826/E839/E840/G340",
+    "argument": "Craft recognition and procedural criticism coexist with imposed ends/coercion; not a wholly false critic or mere Kai puppet"
+   },
+   {
+    "home": "P3-CHAR-KAI-SHANHAIJING-SOURCE-SCOPED",
+    "source": "HYS E840/Saya comparand",
+    "argument": "Case reduction, coercive antidote dependence, rejected procedure and instrumental inquiry, with attributed medical/biographical limits"
+   },
+   {
+    "home": "P3-CHAR-NYAN-CHAIRMAN-E801-SOURCE-SCOPED",
+    "source": "Personally whole E801",
+    "argument": "Explicit local employer/Nyan/Nyate bridge, profit/labor extraction and failed direction meet others wanting festival; not global chairman identity"
+   },
+   {
+    "home": "P3-CHAR-KAN-E820-SOURCE-SCOPED",
+    "source": "Personally whole E820",
+    "argument": "Profit/extraction/punishment and subordinate reception, ordinary commercial ends and incomplete outcome; no all-Kaiser join"
+   },
+   {
+    "home": "P3-CHAR-TSUBASA-E856-SOURCE-SCOPED",
+    "source": "Own complete Gehenna/Residual E856",
+    "argument": "Wanted company and negative-result inquiry coexist with preferred alien/conspiracy explanations and former-club/reunion desire"
+   },
+   {
+    "home": "P3-CHAR-MIRAI-E856-SOURCE-SCOPED",
+    "source": "Own complete Gehenna/Residual E856",
+    "argument": "Meat pleasure/private inconvenience, former-chief dignity and wanted contact versus fraud allegation/secret nonarrest; E851 Mirai remains distinct"
+   },
+   {
+    "home": "P3-CHAR-TSUMUGI-WILDHUNT-SOURCE-SCOPED",
+    "source": "Own complete Residual E849",
+    "argument": "Actual public performance/café reunion and artistic agency versus forced/unequal art institution; Trinity artist/mentor and E856 roommate not automatically joined"
+   },
+   {
+    "home": "P3-CHAR-HIROMI-ART-COMMERCE-SOURCE-SCOPED",
+    "source": "Own complete Residual E850",
+    "argument": "Literary affection and fatigue within unwanted work/headship and commercial leverage; actual comparison success does not eliminate loss"
+   },
+   {
+    "home": "P3-CHAR-MANAMI-MEDIATED-WILDHUNT",
+    "source": "Own complete Residual E849",
+    "argument": "Mediated recognition/administrative choice affects artists and recipients; reported praise not onsite action, performance/inner motive uninspected"
+   },
+   {
+    "home": "P3-CHAR-MILIA-AKIRA-NARRATIVE-COMPARATIVE-BOUNDED",
+    "source": "Own complete Residual E850",
+    "argument": "Local Guard/thief role and Akira narrative overlap require one bounded comparative question, separate literal labels, no identity overjoin"
+   },
+   {
+    "home": "P3-CHAR-SAYURI-MARITIME-SOURCE-SCOPED",
+    "source": "Own complete Residual E861",
+    "argument": "Particular tastes, water/leisure response and community care distinguish her from school-wide enjoyment; role/agency modes source-bound"
+   },
+   {
+    "home": "P3-CHAR-MAKINA-MARITIME-SOURCE-SCOPED",
+    "source": "Own complete Residual E861",
+    "argument": "Distinct leisure/taste and represented reception retain independent wants; no academy collective mind or automatic formal office proof"
+   },
+   {
+    "home": "P3-CHAR-NANAMI-MARITIME-SOURCE-SCOPED",
+    "source": "Own complete Residual E861",
+    "argument": "Mine confession, attributed work/extraction accounts and concrete recipients versus incomplete forensics/ecology/legal outcomes"
+   },
+   {
+    "home": "P3-CHAR-LANA-RED-WINTER-SOURCE-SCOPED",
+    "source": "Own complete Residual E862",
+    "argument": "Computing friendship and punchcard pleasure versus damaged/lost records and constrained race; a person question beyond useful device essence"
+   },
+   {
+    "home": "P3-CHAR-SUIKO-E859-SOURCE-SCOPED",
+    "source": "Own complete HYS E859",
+    "argument": "Named child taste/selective comfort/curfew and arbitrary demands must be assessed as her source-local agency, not an interchangeable child"
+   },
+   {
+    "home": "P3-CHAR-NAGOMI-E859-SOURCE-SCOPED",
+    "source": "Own complete HYS E859",
+    "argument": "Named child wishes/selective reception and adult-rule/burden responses preserve a distinct constrained ordinary-life question"
+   },
+   {
+    "home": "P3-CHAR-YOUKO-E859-SOURCE-SCOPED",
+    "source": "Own complete HYS E859",
+    "argument": "Named child tastes and wealth-mediated reception/violence differences preserve particular ordinary wants and contrary action"
+   },
+   {
+    "home": "P3-CHAR-SUZUME-E820-SOURCE-SCOPED",
+    "source": "Personally whole E820",
+    "argument": "Wanted culinary work, practical care/self-blame and commercial recipients within budget/service burdens; no verified manager liability or fair-title claim"
+   },
+   {
+    "home": "P3-CHAR-RIGATONI-MINI-SOURCE-SCOPED",
+    "source": "Own complete Gehenna MINI32",
+    "argument": "Named hostage/exaction aims and recipient response, actual rescue/arrest versus incomplete conviction/repair; adversarial or sparse private evidence no exclusion"
+   }
+  ],
+  "counted_schedule": {
+   "proposed_required_standalone_packages": 350,
+   "proposed_required_standalone_by_kind": {
+    "CHARACTER": 205,
+    "SENSEI": 1,
+    "REGISTER": 4,
+    "DIRECTED_RELATIONSHIP": 71,
+    "INSTITUTION": 53,
+    "ENSEMBLE": 16
+   },
+   "required_substantial_section_homes": 23,
+   "required_scope_identity_or_allocation_review_holds": 9,
+   "section_sources_27I": "Twenty-seven original unjoined duties separately addressable inside one register; rows are not twenty-seven standalone packages",
+   "count_status": "COUNTED_PROPOSAL_FOR_ROOT_ADJUDICATION_NOT_FROZEN_N_NOT_COMPLETION",
+   "completion_added": 0,
+   "all_named_questions_and_literal_roles_retained": true
+  }
+ }
+}

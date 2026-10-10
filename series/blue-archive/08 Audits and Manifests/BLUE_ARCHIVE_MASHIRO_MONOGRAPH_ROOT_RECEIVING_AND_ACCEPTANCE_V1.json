@@ -1,0 +1,199 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Mashiro",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MASHIRO_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_MASHIRO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 6370,
+    "sha256": "6613a5b6815949524a0be8ad6abb851ceee5434ec988fd6179cf90cd7bc4eb71",
+    "git_blob_oid_of_actual_bytes": "98d16d05e619e95b24f4cdfaa94ce809fd9503e6",
+    "lines": 159
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_MASHIRO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "e5acb2adcb32cea98d6fe38db414c6287b048d1338ac55962bbd465cad957929",
+    "source_checks": [
+      {
+        "source_id": "C01",
+        "same_main": false,
+        "same_declared_snapshot": true,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286"
+      },
+      {
+        "source_id": "C02",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d"
+      },
+      {
+        "source_id": "C03",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6"
+      },
+      {
+        "source_id": "C04",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac"
+      },
+      {
+        "source_id": "M03",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9"
+      },
+      {
+        "source_id": "G01",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93"
+      },
+      {
+        "source_id": "E03",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "2e39c9ad794d9b38f9a3ea4b3b0b83031f7646a55fd689f11cc1a6fbdb4341b2"
+      },
+      {
+        "source_id": "E18",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187"
+      },
+      {
+        "source_id": "E19",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "f985eff72b00b1532d668f6e60534a05351d4cb26dbfff17d187da3e501459e2"
+      },
+      {
+        "source_id": "F00",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf"
+      },
+      {
+        "source_id": "G02",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "54bfc7a4c14e258acdfe36e28b5be1b845ad3347a2748f2bf3a0f95da5d69e43"
+      },
+      {
+        "source_id": "P01",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "4b81cbc938a9512738dac5b2dd737f296ea72ec2d174b63959efee28f46b76fb"
+      },
+      {
+        "source_id": "E48",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "ced089d38e56d2247c67d861caba5401954f42b551fbcb125823f2ca0f76b19f"
+      },
+      {
+        "source_id": "E51",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "61e628dab0ac127c946e0101225a89d1d7808a27b0f540d5d7a03fc76c36072c"
+      },
+      {
+        "source_id": "A00",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "6a6ce9b164f151fb70498bebcad0173ce39c3cb5e71653f6de1f231a27442bd6"
+      },
+      {
+        "source_id": "L06",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "e1db36d4bceab530ea175980ef905ed695e1a27ed4a56680e8f56561d1bdf161"
+      },
+      {
+        "source_id": "L13",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "e1b1d51c0042245992bfb615116c234f6a60f0d008068567ae84c5107e8b1f17"
+      }
+    ],
+    "exact_saved_claim_paragraphs": 32,
+    "frozen_outputs_verified": 4,
+    "saved_receipt_sha256": "77600686f2ffacf7e8106421aa462495a6dd6628467e32c23482a80c14d2fd21",
+    "prior_frozen_outputs_preserved": 44,
+    "root_actual_receiving": {
+      "whole_saved_body": [
+        "3ba372 lines1–74",
+        "6896a8 lines75–143",
+        "d36815 recovered final144 throughEOF; initial combined output was clipped"
+      ],
+      "source_fields": [
+        "172794 complete inputs0–8",
+        "ef0352 complete inputs9–16",
+        "525a86 all source controls",
+        "4b5123 complete claim-register controls"
+      ],
+      "claim_fields": [
+        "f37166 claims0–7",
+        "2094a6 claims8–15",
+        "487cf1 claims16–23",
+        "f557cc claims24–31"
+      ],
+      "whole_saved_receipt": [
+        "8ae52c all424linesEOF"
+      ],
+      "additional_accepted_argument_receiving": [
+        "58f8da P01 lines143–266",
+        "4f609c P01 lines267–341: all eleven private stories/full associated tails and three written contexts; later comparison/register tail not freshly credited",
+        "faa457 complete74-line gift L06",
+        "a95940 E51 lines119–170: complete consequential public support, refused fire, actual local permission/action and peer/adversary codas",
+        "b5d94e E48 complete026 at1581–1595 plus027 partial through1610; no whole027 claim",
+        "ce1192 L13 lines29–72EOF: complete venue concern/actor/relay argument, frontmatter not freshly read"
+      ],
+      "grounds": [
+        "Mashiro independently seeks books, practice, city watching, clothing advice, cool food and shared views; these interests have intrinsic value.",
+        "Purpose-limited neck-touch refusal and the adult’s later denied pause remain different directed boundaries. Comfort is not an agreed repair; exhaustion and no swimming are actual contrary results.",
+        "Camouflage success and bodily failure coexist; narrated local clinic recovery is positive evidence without clinical certification or permanent adaptation.",
+        "Wanted company, actual sunset and peer appraisal revisions remain finite successes. Literature welcome does not erase her discomfort or guarantee every recipient’s pleasure.",
+        "Refused public fire and eventual express permission are genuine local decisions. The force aftermath, relays, restitution, institutional authority and performance remain bounded."
+      ],
+      "authority_qualification": "Historical producer pending clauses remain historical under Cycle008; exact current/main/c1 comparisons cover only seventeen enumerated bindings, with architecture1.12/1.11 qualified."
+    },
+    "root_new_primary_or_performance_credit": 0,
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope_reference": "N353 separately adjudicated; this acceptance does not change the denominator",
+    "quarter_reached": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-MASHIRO",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MASHIRO_CHARACTER_MONOGRAPH.md",
+    "bytes": 37599,
+    "sha256": "e592ac7b5e8815bdba181c88db675c83a0cdd314fd5532decb13d4dc4ec78548",
+    "git_blob_oid_of_actual_bytes": "879cf4ace085c284feb3414fe135aceaf76155e1"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "This is a complete literary synthesis at the declared accepted analytical boundary, pending ROOT's whole receiving and adoption.",
+      "new": "ROOT accepted this complete literary synthesis with limits at the declared analytical boundary.",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    }
+  ]
+}

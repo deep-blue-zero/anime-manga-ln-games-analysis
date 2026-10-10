@@ -1,0 +1,1343 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-MUTSUKI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MUTSUKI_CHARACTER_MONOGRAPH.md",
+    "bytes": 44528,
+    "sha256": "7216a7d06b3ab9fc5a7db5769e92f1ed5032cf9c8e72fbec6e1c461d0746ab28",
+    "git_blob_oid_of_actual_bytes": "e0a28bf2f4044049b68f7f3621f1b766856c4d67"
+  },
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "PS68_MONOGRAPHS/BLUE_ARCHIVE_MUTSUKI_CHARACTER_MONOGRAPH.md",
+      "bytes": 43040,
+      "sha256": "017a6b4219469fcc9eb42ecd96b7a2d3eda3cd6167267bf59d1782eda7cf6ef2",
+      "git_blob_oid_of_actual_bytes": "f81481d02a60b932b5b23096608fe4f26653c0fe",
+      "lines": 197
+    },
+    {
+      "path": "ROOT_MUTSUKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 4596,
+      "sha256": "b0f31edb4fc799f46f9ee405f56d055f71dded50bef5510f52946a439af6c6e5",
+      "git_blob_oid_of_actual_bytes": "1c8d8337229cd464848148f45ceeea408ab4ce16",
+      "lines": 66
+    },
+    {
+      "path": "PS68_MONOGRAPHS/MUTSUKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 87955,
+      "sha256": "0865cf7ace827c75df8bc72c0d0eaa02c362d18c2b00ff6066421f024134bea1",
+      "git_blob_oid_of_actual_bytes": "c69d24651a8b72d772bf31b8d14bea87055243ab",
+      "lines": 1756
+    },
+    {
+      "path": "PS68_MONOGRAPHS/MUTSUKI_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 2707,
+      "sha256": "59ef711fa658aacc9d9c59f35e9908c8b0ac03f0342cc24fe1ea407a6d8e7b20",
+      "git_blob_oid_of_actual_bytes": "f48aad3baebf8f59ec2c2e40b3b21e911a970cf2",
+      "lines": 59
+    },
+    {
+      "path": "PS68_MONOGRAPHS/MUTSUKI_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 7508,
+      "sha256": "6731483aad2e06f705562708c37fe40e8e9deaaade1c9355cea4f070e1aedcab",
+      "git_blob_oid_of_actual_bytes": "b3f1e4b1ae275dbb488068a54ad0ff1a43b47c7a",
+      "lines": 48
+    },
+    {
+      "path": "PS68_MONOGRAPHS/MUTSUKI_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 2994,
+      "sha256": "d72696fe648eec466e512644bd8fb192610e152c5619c4f64a5c18acf814cd2f",
+      "git_blob_oid_of_actual_bytes": "cd9d422279088d10e7c63b82fabd7498c3dd1569",
+      "lines": 47
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MUTSUKI_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MUTSUKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only authority/frontmatter/current-scope framing, ROOT acceptance paragraph and explicitly disclosed historical-to-current status are changed. All original substantive body lines not named in the exact changed ranges are byte-equal and exhaustively mapped through EOF.",
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 3,
+      "line_sha256": "f9b69dc62df8c253fa4c34fd5eb33ad767e2e077dfd7c0dc7556f42eb6457b63",
+      "line_text": "character: \"浅黄ムツキ / Mutsuki\""
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 4,
+      "line_sha256": "d2f76b87b48fb1ad2bad590c45883982f520ae1ca8792f38c3e2d1dac8fb4cba",
+      "line_text": "person_scope: \"BA_PERSON_MUTSUKI;13006/10032/20059;costume1900902401→10032 and1900955201→20059\""
+    },
+    {
+      "frozen_line": 6,
+      "canonical_line": 5,
+      "line_sha256": "1658226d82991e821acc7363ec1375c03a4c3037e48a2a07ed6d5d89a5430ec5",
+      "line_text": "method: DEEP_SYNTHESIS"
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 6,
+      "line_sha256": "2084413932021b66232c019d7d67e81ba2cf005acb31f12c32acb13608a5283c",
+      "line_text": "architecture: \"1.12, section7.1, eleven required dimensions\""
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 7,
+      "line_sha256": "2b4c71a3936349b6920c14d8d0327b826ca56d5e7944bc878548abba1650fe54",
+      "line_text": "analytical_base: \"2e2018d0d62d91e3e0a5e7681f72a31cec08e02c\""
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 8,
+      "line_sha256": "c8ef145b6da8758b2dd4f184f0c6454d958b15d80fcfd350803c0682bf3d65dd",
+      "line_text": "historical_source_witness: \"c1f14d5120c29209ca571fea8d7cfbe111076ec5\""
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 9,
+      "line_sha256": "a7128a3b6afa054c49654fbcb14fcbdd61123b6ed5e0cac56e74d54399bb96b6",
+      "line_text": "japanese_supplemental_source: \"a038020f1f5ac02dcfe76962426d38f86414cdd8\""
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 10,
+      "line_sha256": "14e0401cbb122674957ed72090cd06063f320f5d1d77a57ec343b3b2cbe52b04",
+      "line_text": "authority_quartet: \"Current Cycle008 admission; ROOT qualified complete analytical receiving with limits; historical order/independence UNKNOWN; performed voice UNRECEIVED\""
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 11,
+      "line_sha256": "d0718320c7cea23ca3bee1a77dea20445606fa01cb1bac555388d1ce333d9ec7",
+      "line_text": "scope: \"Bounded literary synthesis; all fourteen gaps OPEN; no clinical/person model, denominator or milestone credit\""
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 12,
+      "line_sha256": "8fecbb6a3875013f0e9b08c2e80984516ba9166974308b35a91a124bb697c029",
+      "line_text": "date: \"2026-10-10\""
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 28,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 29,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 30,
+      "line_sha256": "26ea805706e41599e73fe4c3497328cc0b8ec5d31f581f867af547e110273571",
+      "line_text": "# Mutsuki: wanting play together does not confer the right to set everyone's terms"
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 33,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 34,
+      "line_sha256": "00b263e227afb5552ab161c393a02bb65cf747cb37518007c6904ebfb42066b2",
+      "line_text": "The admitted private responsibility contains twenty-seven selected objects: eleven BOND encounters, eleven whole associated MomoTalk objects and five written contexts. Ordinary13006, New Year10032 and dress20059 retain distinct circumstances and exact costume bindings. The current complete private argument, personally complete relevant public owners and necessary targeted Japanese checks govern the comparison. Neither numeric variant order nor release metadata proves a chronological reform. Two whole Japanese BOND recoveries and the whole money-message thread verify the consequential game and financial countercases; all other original primary claims remain attributed in the receipt."
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 35,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 36,
+      "line_sha256": "56d9c62b9f8c4308a0f0b19775246c340fd187b43bbc4679d10d0849b02b46b4",
+      "line_text": "## 1. Core thesis: play is a positive desire whose authorship can become a claim over another person"
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 37,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 38,
+      "line_sha256": "d8103560dfec7c3da2f7957049c4b8c527d2a07f8d437d2cea2e26fd4bb5a2c9",
+      "line_text": "Mutsuki wants company that is active, surprising and enjoyable. She prepares games, collects interesting objects, chooses food, seeks walks and later carefully selects an opera. Her pleasures are not merely devices to reveal an adult's competence or a president's embarrassment. Nearly five hours of board games, a break and drinks in13006:003 are actual ordinary enjoyment and small attentiveness.20059:006 gives engrossed viewing and enthusiasm for the music, then cheap food, café conversation and a walk. These ends deserve sustained attention whether or not a crisis follows."
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 39,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 40,
+      "line_sha256": "54006e5bc9cd8c5e49fbcb1b182b5b807733e30f589914b612a993b17bc1163e",
+      "line_text": "The tension is that she frequently authors both the activity and the information on which the other participant must choose.13006:006 reveals a self-authored commission that initially pressures the adult through teacher responsibility and client privacy. Event810038 offers a supposedly fair half-share based on package wording while the contents have been altered.10032:005 attempts to turn a rule-contested tactic into victory and continuing obedience. Wanting enjoyable company does not make the other person's refusal rights disappear, and a good taste or amused ending does not validate the earlier terms."
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 41,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 42,
+      "line_sha256": "408ac669cc4a7ca909915a0413f03db5ad5460dc6ebaa2341e9f0d727757a1cf",
+      "line_text": "She is neither omniscient nor uniformly indifferent to limits.13006:002's powered-off-device cheating is exposed and the adult still leaves. In13006:003, her own explicit bag boundary is violated by the adult's peeking and denial; she leaves without knowing it happened, and the bag's contents remain withheld. In20059:002 she herself stops a proposed escalation beyond the willing chair role-play and resumes with tea she actually likes. In20059:003 she refuses an expensive reservation because she does not want the item that much. These encounters show judgment, incomplete knowledge and different ways of setting a limit."
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 43,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 44,
+      "line_sha256": "ec34ed2ce0a304c14f99aa4c7b65d13d17f7980e2e73a0f54462fb0c3bfe9fcb",
+      "line_text": "The financial case resists idealizing her relationship to the company.20059:005u0027–0031 says retaining the funds and fully funding PS68 would be less fun, prefers the firm slightly short of money and requests secrecy from peers. Her explicit entrusting of the money and source-form trust in the adult coexist with that preference. The whole message afterword gives an adult intention to donate, not a completed charitable transfer. Trust is real as represented relation; it is not proof that her choice maximizes everyone else's welfare or that the source of seized funds is legally clean."
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 45,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 46,
+      "line_sha256": "cd2917f21a47510e0da6d9c4581b1c69be3c1294ef8670a3aeb25a1117852c4c",
+      "line_text": "The thesis is therefore not that teasing conceals a secretly dutiful person. It is that enjoyable participation becomes ethically and relationally more convincing when its participants can know, contest and limit the terms. Mutsuki can care, want culture, help, apologize and stop an escalation. She can also mislead, pressure, enjoy harmful retaliation or prefer another person's precarity as entertainment. A complete account must retain actual pleasure, actual limits and actual contrary conduct without making any one of them the hidden essence of all the others."
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 47,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 48,
+      "line_sha256": "196fbebf0277eddd35b47826a0ab3a49d6b221bac4231291edb6434ddd21dfe9",
+      "line_text": "## 2. Longitudinal repertoire: local changes of motive do not certify a final disposition"
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 49,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 50,
+      "line_sha256": "566928ab1230a68f68da124ff6f9979216de70af7b3dca01dd194c4affc57644",
+      "line_text": "MainV001 gives Mutsuki a place in a group whose contractor opposition, labor scarcity, hospitality, harm and later coalition contribution have different meanings. Haruka initiates Shiba Seki's demolition without an affirmative Aru order, and Aru ratifies it afterward. The group's different reactions are not a single unanimous motive attributed to Mutsuki. C002's rearguard assistance is a real collective contribution beside mixed gratitude, reputation and strategic interests. It does not restore every earlier loss or reveal that she always wanted only the school's welfare. [MainV001C001E009/017–020;C002E017–020.]"
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 51,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 52,
+      "line_sha256": "6007aa6dba47f0b4399956003005ee529794a3b28b6a25fd28be858f257f9686",
+      "line_text": "Ordinary private encounters repeatedly interrupt a perfect-controller reading. In13006:002 she wants the busy adult's company, promises to wait quietly, then initiates a trick; discovery and departure show the limit of that control.13006:003 gives long mutual play but an unknown intrusion into her private bag.13006:006 exposes her requester authorship and acknowledges an incomplete deception. The adult detects her design, and she wants to try again. Local failure, pleasure and persistence are each represented; none establishes either learning completed or no capacity to change."
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 53,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 54,
+      "line_sha256": "f3e3e03cdc1fd69f0e895b64527c29198710fcb3141bd6165bb4171c6ead0333",
+      "line_text": "New Year produces different configurations of help and contest.10032:002 prepares food for an overworked adult through an alarming timer/bomb frame before clarification. The osechi is store-bought, and the adult's delicious-food response is positive; the means still caused alarm.10032:003 leaves her ema initially blank while the adult writes a wish of his own.10032:005 narrates twelve adult wins in twelve counted games, followed by a neck tactic, a literal rule objection, face markings and a walk. A finite encounter does not give unlimited future authority simply because she asserts no refusal right."
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 55,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 56,
+      "line_sha256": "3943bc4820e5113e61611987edce59c83fdf26d357148d823821fba5a49a6756",
+      "line_text": "Dress broadens the repertoire rather than proving a later mature stage.20059:002 joins a willing persona game with her own halt of escalation and oolong preference.20059:003's price refusal prevents a blanket equation of collecting with limitless spending.20059:005 adds trust and financial discretion but also the firm-welfare counterpreference.20059:006 lets an initially teasing plan become an outing where the tease ceases to be the important thing. That change of local motive is significant without proving that every other kind of teasing was abandoned."
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 57,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 58,
+      "line_sha256": "9cb720664ac80398c89764d241996767dc180564a4418438f12688e5a6cd212f",
+      "line_text": "Public endings retain further qualifications. GROUP2201 has enjoyment after the pitch and an explosive proposal beside peers' brakes and Aru's secure retaliation commands. Event809 gives desired toys, useful recording and a renewed offering ritual while loss and unpaid wages persist. Event810038 ends with chocolate actually judged delicious after deception and escape, not informed fairness retrospectively achieved. Event834015 permits Haruka to stay seated and presses nonpayment/failure against the company's coping credo. Ordinary care and critical perspective enlarge the character, but do not date a global rehabilitation."
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 59,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 60,
+      "line_sha256": "8cc00ea6cd2da57cb78aa5726e516cb6934cb594c027f2c080df43189f638e1a",
+      "line_text": "FinalC003E009scene001u0025–0054 gives teasing about Aru's concern for Kayoko beside a wanted ramen-after-return promise. The promise is morale and care, not safe return guaranteed or a meal already eaten. Event821002u0009–0012 gives group uptake within a proposed coordinated plan. The longitudinal synthesis is a differentiated repertoire with some observed local changes and many unresolved ends. Chapter order, retrospective memories, whole message bindings and editorial variants supply different chronology constraints; they cannot be fused into a certified permanent psychological state."
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 61,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 62,
+      "line_sha256": "1a43ecc808edffaf7df9574a7fe0de32b0cf8993c41abc26b90b6d7606074583",
+      "line_text": "## 3. Public and private self: information control is fallible, and her own privacy matters"
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 63,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 64,
+      "line_sha256": "10685aeb4e451361be52d3558067c4ce9eda8a8288f2f714cc06c32b6ded77c3",
+      "line_text": "Mutsuki often appears publicly confident in making a situation interesting. The complete private account provides the counterweight: she can be bored, want the adult to stay, misjudge a paddle, lose repeatedly, refuse a price, become absorbed in music and remain unaware of someone else's deception. The private material does not reveal a single concealed vulnerability that explains every act. It reveals that the pleasure of controlling an exchange coexists with limits to that control and independent wants beyond it."
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 65,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 66,
+      "line_sha256": "1d88cc0b7b148b2e2790d20d4c982ba959971e64bf43e5ce08ba69451860a965",
+      "line_text": "13006:003 is the essential reversal. She explicitly tells the adult not to inspect her bag. He inspects it and denies doing so, and she leaves believing the contents went unnoticed. The source does not disclose those contents. An analysis that treats her as too clever to be intruded upon would erase the adult's adverse action; one that fills the bag with a guessed object would reproduce the intrusion at the level of interpretation. Her privacy is meaningful without requiring that she always preserve everyone else's privacy."
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 67,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 68,
+      "line_sha256": "bcf76e4635571f27208b35c146cd4029a088d6194a3686f8108b90bc5f3c07cc",
+      "line_text": "The self-authored commission in13006:006 turns public responsibility language into a means of securing private company. The adult initially does not know the requester, encounters client-secrecy rhetoric and is told a teacher has no right to refuse. Actual crepes and shared activity give enjoyment, while the red carousel horse's supposed extra speed is corrected in narration. The adult calls the proposed book inversion a nuisance. Restoration is promised rather than independently verified. Exposure at the end does not negate the actual outing, but it changes the account of how participation was obtained."
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 69,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 70,
+      "line_sha256": "dab0c08f97e503618c3770ead87774b47b5712f3f11bd9524c6bcc122ee1a815",
+      "line_text": "Dress20059:002 also uses a supposed work frame, but the role-play contains a willing adult response and an actual limit set by Mutsuki herself. Proposed whip escalation is not performed; she says she did not intend that extent and ends it. Her liking for oolong contradicts what the villainess persona rejected, letting taste interrupt the role. The full message coda says her purpose was play. The adult's later assertion that he knew is not independently verified foreknowledge, and her verdict that mutual fun settles the issue remains her judgment rather than a universal ethical rule."
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 71,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 72,
+      "line_sha256": "f91d39f277433a00cdec057dd204ffe01db8a375188073223935467e1b9727d4",
+      "line_text": "20059:005 exposes money and trust in unequal modes. The pursuit, hostage plan, demolition and seized profits are her reports. The large money bag, explicit entrusting statement, later enjoyable company, absence of local trouble and secret hotel payment are printed. u0034–0047 use narration-form/log text; they permit literary access to a trust statement and possible uses, without giving every peer knowledge of it or repairing the canonical mode to public dialogue. Hotel-lobby metadata plus room-call text does not authenticate a floor plan."
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 73,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 74,
+      "line_sha256": "4f69949503e4711ff9993a6cdcf8746f3b99fa51cf0cab3d44fca9f4b5af897d",
+      "line_text": "Her performance is therefore neither wholly false nor wholly transparent. Some deceptions are specifically exposed, some intentions are stated, some choices remain options, and some things are not known even to her. Respecting those layers lets the monograph compare public play and private company without treating reader access as a grant of omniscience to Mutsuki, Sensei or PS68."
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 75,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 76,
+      "line_sha256": "2a8f9915a8ee5a9d9880e2e8e84855ba8787112dab32d097a2808c6312e47983",
+      "line_text": "## 4. School, club and company: chosen belonging can conflict with material welfare"
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 77,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 78,
+      "line_sha256": "4b306f87239edb279b590a9e32bf4216abdc4550e698a7d2d938c44b37f685d9",
+      "line_text": "The profiles give a PS68 action-leader role and childhood familiarity with Aru as editorial descriptions. Those identify an available role and reported history, not complete witnessed childhood or a right to assign every group tactic to her. Main, GROUP and event encounters show a member who can propose, tease, contribute and object within a differentiated company. She belongs without always optimizing what the president wants."
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 79,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 80,
+      "line_sha256": "5918aa80dc082c5cf0c4ff88a43ea4e0442e9d80133b689343e810a6548b631a",
+      "line_text": "The money scene makes the conflict explicit. At20059:005u0029–0031 she says taking the funds would let them support the company's operations, judges that less interesting, prefers PS68 to be slightly strapped and asks that peers not be told. This is evidence of her own stated preference, not a peer-approved budget or the firm's audited financial state. The danger is not simply that she fails to give enough. It is that others' material insecurity can become a condition she prefers for the pleasure it generates. The monograph must let that contrary motive count beside genuine trust and assistance."
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 81,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 82,
+      "line_sha256": "62bc027711c0ea7874b3533fb72604759f299e239f7ea0490d34b0fccc38d86a",
+      "line_text": "The explicit entrusting at u0032–0033 does not erase the conflict. Narration-form trust and possible donation, activity funds or future saving at u0034–0047 differ from executed expenditure. Whole MomoTalk200590300 gives a plan to donate at message200590600, followed by her positive response and wish for more fun; no charity receipt follows. Narrated secret hotel payment at u0050 has no established source of funds. The source prints local delegation and payment acts, but does not certify lawful ownership, full restitution or a repaired market."
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 83,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 84,
+      "line_sha256": "9ed61a8e4ee5271cdd7ed9e7b4857a04b66721f3f95323d561953262516c2e48",
+      "line_text": "20059:003 earlier gives a desired rainbow mosquito-smoke item and refusal of an expensive reservation because she does not want it enough. The later wealthy-buyer charade, gathered stock and retaliatory communication differ from an ordinary purchase. Cappellini Capella is a disguise/performance within that scene, not a new authenticated person. Five actor seams retain ordinary-Mutsuki or Helmet A labels with content suggestive of other roles. A potential explosion, claimed dealer capture and a hope that the matter resolves do not establish casualties, secure custody or market repair."
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 85,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 86,
+      "line_sha256": "4af5af4915d43b3c2aece07f23e4cdd16e38353c48eb6c02a45c3ac6c0731314",
+      "line_text": "Institutional comparison also includes report layers. GROUP1901/1902's forged-notice/no-sales vignette lies in Ako's account, not a physical PS68 appearance at the meeting or conviction of each member. GROUP2201 has Mutsuki's explosion proposal, Kayoko's and Aru's brakes, later retaliation and flight, with eleven actor seams. The company can identify fraud while using damaging means. Formal institutional rivals likewise have procedures and jurisdictional limits; PS68's ambiguity cannot be settled merely by whether it uses company vocabulary or outlaw language."
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 87,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 88,
+      "line_sha256": "c1145465be051dc9033d526fcba0bd017bd10152268129c98e74de0fc3a7a2be",
+      "line_text": "Ordinary membership still matters. MINI70015030 gives chosen belonging, company and a local institutional accommodation; at Event834015 Mutsuki permits Haruka to stay seated. Event809's toys and offering, private games and cultural plans demonstrate what a shared life can include. They are not expendable decorations because the firm has unresolved ethical problems. The separate required PS68 ensemble/institution package must consider governance, labor, money, recognition and repair; the character monograph identifies Mutsuki's own contributions and conflicts within it without claiming that collective duty complete."
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 89,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 90,
+      "line_sha256": "53495822e3fc5f4a22529b3915d6f257c22743bcaf700481bc83a7573bdf22a9",
+      "line_text": "## 5. Ordinary life: pleasure can become the reason for the outing rather than bait for a trick"
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 91,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 92,
+      "line_sha256": "59a50663bd85b5844e4262646fcc943f2d42f35556ca5e499883ad4bedc3a071",
+      "line_text": "13006:003 gives nearly five hours of board games, then a break and drinks. The duration is narrated enjoyment, not time wasted unless the analyst imports that judgment. Her offer of a break is small attentiveness. The withheld bag and adult intrusion remain separate adverse evidence; keeping them does not require discounting the play.13006:005 gives bomb shopping and collection with specific smoke, flash, sticky and sparkle descriptions. Interest and procurement are positive ordinary evidence, while capabilities and safe/legal storage are not independently tested."
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 93,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 94,
+      "line_sha256": "57a2eb9475b4cafb5a105a210f9042670f5f754248e26016c55ec0556362b400",
+      "line_text": "Food also has different functions. Actual strawberry and banana crepes in13006:006 are enjoyable despite the pressured commission frame. Store-bought osechi in10032:002 provides care for the overworked adult, and his delicious response is printed; it is not her cooking achievement. Event810038's spicy chocolate is unexpectedly judged delicious at the end, yet earlier misdirection remains. Pleasant consumption and legitimate terms are different questions. The source does not require choosing between food that solves every conflict and food that means nothing unless all conflict is resolved."
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 95,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 96,
+      "line_sha256": "3be3dda0894a3e2f5ab6cae175505d1af679e4e97744dbb2f6fc40f879959480",
+      "line_text": "10032:003 gives a cute ema, seasonal company, crowd irritation, collision apologies and hand-holding. Her speculation about the adult's motive is not verified access to it. A remark about bombs meets an adult brake. Her ema is blank when the adult writes a wish about valued company; the adult's authorship does not disclose her own secret wish. His serious reply amuses her and makes her feel she lost the exchange, while he admits not knowing the victory criteria. The scene's companionship and playful uncertainty can be meaningful without recovering an unwritten confession."
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 97,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 98,
+      "line_sha256": "733a097189ec121aa8cf98a23f1c8f718b10c731844659781f668f1150d97ab1",
+      "line_text": "Seasonal sport in10032:005 is equally specific. The supposedly strongest paddle does not make her proficient; misses are narrated, explanations shift and twelve adult wins are counted. A claim that a product is defective is not an equipment test. Her eventual face-marking victory claim and wanted walk occur with literal objections to the tactic and to victory followed by flight. The final pattern is not disclosed. Seasonal enjoyment is real, but its positivity does not establish a universal power to command the loser."
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 99,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 100,
+      "line_sha256": "6add99fdb433441fe86b316a16cd6d188cb5dd1cd87b5b22bc7d26b9a3d83e1e",
+      "line_text": "Dress20059:006 is the strongest case where culture becomes an intrinsic end. She carefully chose the opera, watches engrossed and calls its music exciting. A disruption/bomb suggestion is retracted as a joke; she says she wants to watch without inconveniencing the adult today. Cheap yakitori, a café, trends and conversation, then a park walk follow. These are independent pleasures, not inferior substitutes for a glamorous meal. Late date framing surprises the adult rather than proving mutual romance had already been agreed before the outing."
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 101,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 102,
+      "line_sha256": "d5522545cf7202415586a87125f54a5c8e70f2e82f71289a8faf68e15697ee2f",
+      "line_text": "Her statement that initial teasing no longer matters changes the local motive. The outing does not have to expose a hidden scheme to justify its place in the character argument. Wanted conversation, pleasant parting and a wish to return are adequate positive endings. That conclusion is bounded to this encounter: it does not guarantee every later invitation will disclose its terms or stop being a tease. An ordinary good can be complete locally without becoming evidence of permanent reform."
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 103,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 104,
+      "line_sha256": "ad632dc1413aea7235b2f641f6b8f40d491bfcdf79b43d6b84dba3c17f81f516",
+      "line_text": "Written contexts extend the same plurality: café play, object wishes, helping finish work before play, clothes linked to PS68 memories and a post-work opera invitation. Repeated scripts make these available ways of relating; they are not all enacted outings. Event809020's actual toy offering after material loss adds a modest ritual rather than a substitute repayment. These small goods are intrinsic to the shared life she wants and must survive both moral criticism and the temptation to rank evidence by spectacle."
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 105,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 106,
+      "line_sha256": "e423fee846685a990ffe8614d73f41979ddc0bac1c95731f03bb4b39a30de2b0",
+      "line_text": "## 6. Crisis and adverse methods: amusement does not settle the effect on recipients"
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 107,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 108,
+      "line_sha256": "67a21b027e3bc98c9de801499b3871ce9a911aa948c59a6529a183a0849c8853",
+      "line_text": "The public company can inflict real damage. MainV001's restaurant demolition has the specific Haruka-initiation/Aru-ratification sequence; it must not be reassigned to Mutsuki merely because she likes explosions. GROUP2201 positively supplies her proposal and enjoyment in a sequence that ends with Aru's secure punitive commands and team flight. Detection of a suspicious seller does not authorize retaliation. No completed massacre, trial or exhaustive demolition measurement is printed, so the adverse claim stays bounded rather than being enlarged through dramatic cues."
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 109,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 110,
+      "line_sha256": "af2d5652c86548c4fe2a50d9cff5c3aa8fdf265b52e8426a99838207b9e62303",
+      "line_text": "The retrospective MINI70013020–50 supplies a different combination of care and harm. Mutsuki's weed nickname hurts Haruka and an apology follows. Later disguise/rescue participation gives actual help. Hostage rescue, coercive photographs, pledges, dealer punishment and Valkyrie arrest have different agents and ends; an arrest is not conviction or long-term safety. At the final dinner, actual enjoyment and the rejected debt-unto-death framing remain meaningful. Those ordinary completions are neither proof that earlier harm was imaginary nor a warrant to ignore the apology and help."
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 111,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 112,
+      "line_sha256": "fc9452dee3a0969d731cef44f9238bfe1cd9b7b729f742916df7ff9396372316",
+      "line_text": "Event809 demonstrates a useful communication intervention. Mutsuki's recording and posting at013u0060–0066 alter the public information/incentive field alongside Kayoko's route and broadcast work. Aru's recovery decision is not enough by itself; different people contribute. Her wanted toys, actual later offering ritual and private wish retain their own significance. Loss and unpaid wages persist, so successful communication is not successful financial restoration, and the source cannot be used as proof that all misleading theater is justified if it produces a desirable reaction."
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 113,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 114,
+      "line_sha256": "9de867bdd4077f89c182b4058f07f1f52a30f987b2a30c66d36747e6080da902",
+      "line_text": "Event834 gives work, aid, fallibility and coercion in the same company. Mutsuki's reported altered roster entry at007u0052 differs from the general claim of forgability at0051 and does not authenticate every name. Her laughter and locale-specific approval at012 differ from Kayoko's rejection and Haruka's hedged appraisal. Native/raw seams limit particular individual attributions. Reported disposal, gun/silencer cues and collapse must retain their specific scopes; the monograph neither supplies an injury technique nor turns a sound cue into safe outcome."
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 115,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 116,
+      "line_sha256": "15adac557f0a193aefb4fe07bba906b4b1f88e141792e08cb7c814d5df171fe2",
+      "line_text": "The Event834 ending nevertheless has actual shared seating and her permission that Haruka remain seated at015u0007. Her pressure about failure and nonpayment is also a substantive countervoice to Aru's professional credo. Saori's safe-escape testimony and exploitation objection are not swallowed by that company exchange. They are the recipient's own response. Local goodwill coexists with unpaid work and unresolved responsibility; helping someone can be real before every institutional problem is settled."
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 117,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 118,
+      "line_sha256": "9b2b9fcc728682cb9ceb2e0f558fbee5b8884297a6a459e02db0d01b58500b94",
+      "line_text": "The private financial report in20059:005 cannot expand into a verified offscreen operation. Mutsuki says people planned to take the adult hostage and that she destroyed them and seized all profits. A large money bag is narrated, but its presence does not independently prove every pursuit, victim, intention, source of wealth or legality. Her trust and generosity toward the adult remain available without granting the report universal authentication. The whole message's report that bombs returned to shelves supplies her sense of normalcy, not an audited market-wide outcome."
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 119,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 120,
+      "line_sha256": "5beac9c35de7d50bc1d1fbe4e637172941ac742585a4814704ef6999033578fa",
+      "line_text": "The analytical question is how her chosen fun interacts with recipients' information, safety, labor and refusal. Some interventions protect and some means cause trouble; some of those troubles remain merely reported, others are represented actions or secure commands. Keeping these distinctions prevents either harmlessness by tone or guilt by association. Coalition participation and appreciative ordinary scenes do not resolve those separate responsibilities."
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 121,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 122,
+      "line_sha256": "8ea8734621ab61443dd3e65fb631c9a31fff0df56b0dc75b0aeab03ed0d1c519",
+      "line_text": "## 7. Sensei: chosen company includes objections by both participants"
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 123,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 124,
+      "line_sha256": "417df2ce9feb1493fb5314f02675e25855089dc1a9e6869c981b09c8b3abf44b",
+      "line_text": "Sensei is not merely a helpless object of Mutsuki's games. He voices work pressure, discovers the powered-off device and leaves in13006:002, detects the requester deception in13006:006, rejects a rule-contested loss in10032:005 and responds seriously to the chocolate game in Event810038. Mutsuki can obtain a reaction without obtaining unlimited control. Those refusals and exposures belong in the relationship rather than being treated as comic noise around inevitable surrender."
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 125,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 126,
+      "line_sha256": "9017fe6121c36fdfb7a787e2ae0f5fd61dbe46a93485e11a6e2e86e5441646bc",
+      "line_text": "Nor is the adult automatically the ethical corrective. In13006:003 he violates the bag boundary, peeks and denies it; her lack of discovery is not retroactive permission. In13006:006 he proceeds despite calling the book inversion a nuisance, while full restoration stays unverified. At the blank ema in10032:003, he writes his own wish on her object. The represented seriousness can matter while authorship and informed assent to exact wording remain separate. Adult care, play and instruction need scrutiny in their own right."
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 127,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 128,
+      "line_sha256": "080ae618c717db075295e75293dd6954b16ef2ae8ea47c0b340bc6eb1b80ccee",
+      "line_text": "10032:005 makes contest authority explicit. The rule initially says the loser must hear one request from the winner. Twelve adult wins are narrated at u0048. The neck cue and her asserted loss produce choice012's literal rule-violation objection; u0065 dismisses it as sour grapes. Later an adult request for another game meets her insistence the contest is finished, and choice015 denies that he wants the neck tactic again. Her claim of continuing obedience with no refusal right at u0087 is a claim, not a new universal relationship contract. The actual walk with visible markings occurs without a disclosed design or infinite future obedience."
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 129,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 130,
+      "line_sha256": "46bcb35a79211b3fa681fbcd3110b2f79abc59e69c2e0cb192db82ce7d40b410",
+      "line_text": "Dress20059:002 supplies the converse limit: the adult willingly responds to the chair proposal, but when a suggested further escalation makes him hesitate, she states it exceeds her intention and stops. Her oolong preference breaks the persona. The full coda's mutual-fun claim permits her interpretation of the encounter; it cannot prescribe the terms of every other game. Willing participation at one stage is specific, and the two people can alter what they want next."
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 131,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 132,
+      "line_sha256": "33cebbfe970c1d9ced4e0920d177333d37e836e3d5452f81a2755cbe4dc5ba35",
+      "line_text": "In20059:005, explicitly entrusting the money is a positive act of reliance. Reader-facing trust, delegation of possible uses and the imagined shared future remain source-form statements; the whole coda's donation intent does not become executed restitution. In20059:006, wanted opera and conversation let the adult become company rather than chiefly a target. She values a good teacher while retaining her choice whether to obey; her late date statement and his eventual recognition do not establish exclusive romance or preexisting agreement."
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 133,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 134,
+      "line_sha256": "cdb6b391afed5373f4770eec9153ee817e8e22686042a813840a12888f271f71",
+      "line_text": "Event810038 is a necessary contrary case to pleasure as assent. Mutsuki planned the game and offered first pick as fairness while filling the cylinder with spicy pieces. The adult participates, tastes three, objects to deception and proposes continuing with her share. Her distracting cry and exit do not print compelled feeding or the act suggested by the alarm; two remaining boxes are left as a Japanese gift, and the chocolate is judged delicious. Enjoyment is positive at the endpoint. It does not retrospectively grant informed assent to the misleading arrangement."
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 135,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 136,
+      "line_sha256": "766cad14437dc5f380ab3e918a426f6ee00aa41bfe6cc7098cf6901351b65ac7",
+      "line_text": "The relationship is strongest as negotiated participation: wanted company, concrete attentiveness, trust, ordinary pleasure, exposed deception, refusals and adverse acts by both sides. It is not total-service ethics, an omniscient prankster winning every exchange or a provider curing her need for fun. The separate required directed Sensei relationship can develop those terms more fully; this monograph preserves their actual local tests and endings."
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 137,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 138,
+      "line_sha256": "3c9a3be7992a7bfb9dd9a93d2a2e025b74d2df8d5b3ee787adfd69b37545f3af",
+      "line_text": "## 8. Peers and recipients: their ends are not materials for her entertainment"
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 139,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 140,
+      "line_sha256": "49870c1fd29db5630eb044ed53b840e1bca1adaed3e0d851ecdf53b9f8af1aa0",
+      "line_text": "Aru's wanted presidency includes staff rewards, study, financing and a continuing company. Mutsuki's familiarity and teasing can express company within that ambition, as the Final ramen-return promise and concern for Kayoko show. Yet20059:005's secrecy about preferring scarcity is a material countercase to reading all her conduct as loyal optimization of Aru's project. The adult's knowledge of that preference does not become Aru's knowledge. Childhood familiarity in a profile likewise does not authorize the analyst to supply every motive or a synchronized life history."
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 141,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 142,
+      "line_sha256": "663dd72f2d80e2c9f07b5dd6701ac82184f2b5215ee36959eac3ee13aee144e1",
+      "line_text": "Kayoko has practical concerns and her own music, taste and belonging. GROUP2201 gives a brake on Mutsuki's proposal; Event809 gives album savings, route judgment and a broadcast contribution; Event834 gives criticism of exploitation. These are different ends and acts, not merely the straight person's reactions that make a joke work. Kayoko's troubling silencing conduct also means competence cannot be used to distribute innocence automatically. Mutsuki can rely on peers and disagree with them without their positions collapsing into a shared inward motive."
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 143,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 144,
+      "line_sha256": "44fbfdd3d6ffc821ccafe08f43d6a6eee9751c0f0e230e018d2eb5b36a7975b4",
+      "line_text": "Haruka's cultivated weeds and desire for participation make the nickname episode consequential at an ordinary scale. Mutsuki's hurtful remark and apology belong to a recipient relation, not only a demonstration that the prankster is secretly warm. The MINI sequence also gives rescue, dinner and limits on repayment. At Event834015, permission to remain seated is a concrete small kindness. It does not establish that every prior response respected Haruka or that her dangerous initiative was wholly controlled by another member. The person hurt by a joke can also want company and continue to author her own conduct."
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 145,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 146,
+      "line_sha256": "a4ccb171f7bd652b0c5cc72a12d8067c2f81e0b35e547c39a8a47aff8114fbe5",
+      "line_text": "External recipients retain independent judgment. The adult's deception objection in the chocolate encounter, the library's unverified restoration, reseller actors' uncertain custody and the city institutions' formal responses are not settled by her enjoyment. Event809's Serika refuses subordination and has unpaid work and past-worker knowledge; Hoshino can sympathize while saying the theft is wrong. Event834's Saori accepts help and reports escape while criticizing exploitation. Their outcomes must not be made subordinate to an entertaining PS68 ending."
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 147,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 148,
+      "line_sha256": "6c39221187e41c91642830f9cc5b891e8bd6a6f272477bbfc1042f4499e5b300",
+      "line_text": "Ibuki's MINI sequence supplies wanted play, snacks and company together with a declined return escort and denial of abduction. The company's involvement does not remove her own stated reason for leaving. Ako's conditional institutional boundary and a locally accepted desk refusal also retain independent actors. A child having fun is positive; it does not certify all promised pudding delivered or every method proportionate. Those small recipient distinctions make the group relationship more precise than a claim that everyone forgives PS68 because it is amusing."
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 149,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 150,
+      "line_sha256": "d0806729e69327c65268b25e60004e460bf471bf5555f4eb47b6bf9926052c1e",
+      "line_text": "The peer conclusion is a differentiated ensemble. Mutsuki contributes playful activity, practical intervention, rescue, apology and occasional care; she also proposes or enjoys means others contest and states a financial preference they are not shown approving. Recognizing her as an independent person requires recognizing those others as independent too. Their ordinary tastes, safety, work and refusal remain meaningful even when she can turn a situation into a game."
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 151,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 152,
+      "line_sha256": "5cdc992e9a43c92440b05171a9f704143db5d64072c05b6b080f6850f3d4b649",
+      "line_text": "## 9. Written register and source mode: the little-devil role does not determine every act"
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 153,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 154,
+      "line_sha256": "95deaff34031afe8c8f3a2fc54007c1f7b703ce13c4d3a9b5199dfb04fca0e08",
+      "line_text": "The exact Japanese family is浅黄ムツキ/BA_PERSON_MUTSUKI, ordinary13006, New Year10032 and dress20059, with costume1900902401→10032 and1900955201→20059. Profiles give action-leader role, childhood familiarity, bomb collection and trouble enjoyment as editorial framing. Café play, desired appearance/objects, birthday/holiday pranks, weapon liking and possible reprimand for excessive teasing broaden the repertoire. Stated maturity does not change the printed age of sixteen. Numeric keys and clothing context do not become witnessed body or calendar history."
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 155,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 156,
+      "line_sha256": "ada95d660e84de4f3bcf824774b96cda01ef59d10820f6aeffaf4950f5808a8f",
+      "line_text": "New Year lobby can offer help finishing the adult's work before play. Dress lobby likes the café, associates chosen clothes with PS68 memories and immediately retracts a blood claim as a joke. The retraction is local textual qualification, not a general license to dismiss every threatening line as joking. The costume records contain repeated lobby/box or other UI forms, Day/Close conditions, item wants, watching the adult open boxes and withholding a peer-reliance answer. Dress repeats entrance/idle lines across three UI sets and supplies an opera invitation after work. These are available scripts, not acted odds, revenue, repeated lived days or completed invitations."
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 157,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 158,
+      "line_sha256": "1cfc4b3fd751118395cf44423e743fadcf6680dd6b432deb3af9b8ea6caa9c3b",
+      "line_text": "The complete private owner reports three profiles and210 contextual records,209 nonempty and one blank, across five written objects. OrdinaryUITitle405/raw dialog444 is the retained blank. An empty title is not a lost person, suppressed motive or voice the analyst may fill. Broken ruby forms for the villainessわたくし in20059:002 remain encoding seams, not a new spoken stumble. Cappellini Capella remains a performed disguise, not an authenticated new person. Source labels in20059:003 retain five seams rather than being silently changed to shopkeeper or buyer by apparent content."
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 159,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 160,
+      "line_sha256": "eed891c12e5b0c1d8f944f626c255ce8237d2a4ea0571c73d8b1bbad57184611",
+      "line_text": "Whole message threads also have their own structures. Their prefaces, conditional answers and after-launch tails supply wishes and actual afterwords; alternative replies are not simultaneous adult statements. The private owner's152 messages and135 formal scene groups are original producer counts, not new totals earned by this monograph. Extra inward alternatives and narration/log modes stay separate from formal menus. In the newly recovered20059:005, the canonical representation has51 numbered utterance comments throughu0051 alongside an unnumbered location; the older owner declares52 utterances. This is a count/mode distinction, not a missing inventedu0052 or a changed plot ending."
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 161,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 162,
+      "line_sha256": "a418293182f486c69f9901641f813aadeb4ab54cb6f7da02d363adfd8321a420",
+      "line_text": "Teacher responsibility, refusal-right, winner/loser and good-student vocabulary matter because they attempt to define participation.10032:005's special rule, explicit objection and claim of no refusal right have different authority.20059:006's teacher regard and chosen obedience cannot be converted into a standing duty to obey every playful request. Likewise, narration-form trust at20059:005u0034–0047 permits literary comparison without declaring it public speech known by every peer."
+    },
+    {
+      "frozen_line": 149,
+      "canonical_line": 163,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 164,
+      "line_sha256": "8863313b684c5242ed384986205d2b6b5a9d7f2f0dbf9e6a863873cb30b11c88",
+      "line_text": "Only represented text and accepted cross-locale qualifications are received here. Apparent bomb framing, neck cues, laughter, timed wait tags, sound and face remarks do not certify heard performance, observed blush, precise gesture or clinical effect. The tasty-chocolate ending does not establish actual addiction; the hotel location does not provide a floor plan. The source-mode discipline makes written register useful rather than reducing it to metadata or inflating it into action the reader never received."
+    },
+    {
+      "frozen_line": 151,
+      "canonical_line": 165,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 152,
+      "canonical_line": 166,
+      "line_sha256": "28ea864f754f2bdc1e20840e3725eb402e9aca663893ab10e9fb6e24030d5078",
+      "line_text": "## 10. Serious rival readings: neither universal malice nor universal harmlessness survives"
+    },
+    {
+      "frozen_line": 153,
+      "canonical_line": 167,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 154,
+      "canonical_line": 168,
+      "line_sha256": "3e91f49c9ef30d664f8307d3679ec485a849deb3a0bcaa15c1d3ee55c3681d8c",
+      "line_text": "**The omniscient prankster who controls every exchange.** This explains planning and confidence but fails against the exposed powered-off trick and actual adult departure, requester reveal, her own ignorance of the bag intrusion, repeated paddle misses and price refusal. The money scene also contains uncertainties and reports, not omniscient access. Control is a repertoire she attempts, not a verified unlimited mechanism."
+    },
+    {
+      "frozen_line": 155,
+      "canonical_line": 169,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 156,
+      "canonical_line": 170,
+      "line_sha256": "6c8b158bbc74e7f04fffc75808999d0fc3a116da7968f40df38ab923c9d65e36",
+      "line_text": "**Every trick is harmless because both people eventually enjoy it.** The opera and real food give this reading affirmative evidence, but misleading game terms, a nuisance objection, client-pressure rhetoric, literal rule violation, adult denial of repeated neck-tactic desire and adverse adult bag intrusion defeat the inference. Enjoyment can be real without retroactively making information adequate or means legitimate. Her own halt of dress escalation shows that limits matter within play."
+    },
+    {
+      "frozen_line": 157,
+      "canonical_line": 171,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 158,
+      "canonical_line": 172,
+      "line_sha256": "62dcdd4255ee749f14cb15a4236f453d5b81ebe78a00813e11a71691bee61513",
+      "line_text": "**Malice is the essence, so positive pleasures and care are distractions.** This retains harmful proposals but cannot explain attentiveness over board games, prepared food, refusal of needless expense, apology, rescue, permission to remain seated, trusted money or independently wanted opera. Those are not automatically fake because another encounter is deceptive. Nor must a morally criticized character earn analysis of culture by first achieving permanent reform."
+    },
+    {
+      "frozen_line": 159,
+      "canonical_line": 173,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 160,
+      "canonical_line": 174,
+      "line_sha256": "761ba79504b6e491404975df56608c5dd605889e2892196f664d1a6cb48e49a5",
+      "line_text": "**A loyal action leader ultimately serves company welfare.** Actual help and chosen belonging support it, but the stated preference for slight scarcity and secrecy in20059:005 directly complicates it. A claim that she secretly invests in a common future would need an actual agreed or executed financial outcome, not one possible narration-form use or adult donation intention. The thesis must permit affection and a conflicting material preference to coexist."
+    },
+    {
+      "frozen_line": 161,
+      "canonical_line": 175,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 162,
+      "canonical_line": 176,
+      "line_sha256": "b462d47351ffe9a352283653614409c61062a0ac1505b2d657be70839067e7f0",
+      "line_text": "**The adult reliably teaches her how to relate.** Exposure and objections are important, but peeking/denial, writing on the blank ema, proceeding after a nuisance concern and unverified foreknowledge prevent an ideal corrective. Mutsuki also supplies her own restraint and a changed immediate motive at the opera. Agency in this relation is distributed; the adult can help and err, and she can choose and err."
+    },
+    {
+      "frozen_line": 163,
+      "canonical_line": 177,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 164,
+      "canonical_line": 178,
+      "line_sha256": "41458671eef3fb0135d18bd23ca5f08d9f5879c1372e5ff16019e9b752f1d71c",
+      "line_text": "**Dress proves she has become mature and benign.** The outfit's editorial maturity, opera and halted escalation support a local contrast. The same dress scope contains troubling retaliation reports, actor seams, financial counterpreferences and open market/legal ends. No global calendar puts it after every harmful scene. A meaningful changed motive in one outing is a positive result that does not require a universal developmental conclusion."
+    },
+    {
+      "frozen_line": 165,
+      "canonical_line": 179,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 166,
+      "canonical_line": 180,
+      "line_sha256": "0bb2262d63b87891e33913458fb3b484a32b081046908ddb83247db9bdd4c835",
+      "line_text": "The bounded thesis survives by being narrower and more demanding: Mutsuki values company, fun and independent culture, and the legitimacy of her authored play depends on what recipients know and may refuse. The conclusion would change with admitted evidence of repeated informed negotiation, actual restitution or stable chronological change; it would also change if new evidence contradicted the present positive acts. Unadmitted source-mode leads do not already supply that evidence."
+    },
+    {
+      "frozen_line": 167,
+      "canonical_line": 181,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 168,
+      "canonical_line": 182,
+      "line_sha256": "5bc53cd6fccbb76159b06ab286a6e934075a9c28fe4c674df72f4600a39c6ca8",
+      "line_text": "## 11. Evidence routes, finite conclusions and the fourteen open gaps"
+    },
+    {
+      "frozen_line": 169,
+      "canonical_line": 183,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 170,
+      "canonical_line": 184,
+      "line_sha256": "e733028aa0a18d3043e226f6918487a997a592fa53d949ef49ee1adaf1401635",
+      "line_text": "The character synthesis is complete at a bounded textual scope. Actual long play, care with food, desired objects, limited spending, stopped escalation, useful communication, rescue, local trust and enjoyed culture remain positive. Exposed deception, explicit objections, hurt and apology, the financial counterpreference and uncertain harm/repair remain critical. No person reconstruction, hypothetical, prediction, promotion or diagnostic opportunity follows."
+    },
+    {
+      "frozen_line": 171,
+      "canonical_line": 185,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 172,
+      "canonical_line": 186,
+      "line_sha256": "5311222f2c07d28571436a7d3eb08491dc3f694b5ae76d5fa3aeaf34f58a9f9e",
+      "line_text": "The controlling private home is [the complete Mutsuki checkpoint](../../02%20Sequential%20Readings/BOND/MUTSUKI/BLUE_ARCHIVE_MUTSUKI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md), governing27=11BOND+11wholeMomoTalk+5written at Cycle008 admission with retained historical proposal language. MainV00183, Final452/four chapters and completeFinalC003E009; GROUP2201/1901–1902; Event80920, Event810102/038, Event82116, Event83438; and selected MINI32 provide personally complete accepted public comparisons at their declared boundaries. Shared actors or a school label do not automatically establish directed interaction. Those arguments are reused without transferring original primary credit."
+    },
+    {
+      "frozen_line": 173,
+      "canonical_line": 187,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 174,
+      "canonical_line": 188,
+      "line_sha256": "016148dc6cf39d2cbe607cbb53df9f92a0d40cbcf0ea50e2678bbc25cb597e8c",
+      "line_text": "The new necessary Japanese recovery is whole10032:005, whole20059:005 and wholeMomoTalk200590300. It confirms the finite contest, literal rule objection and denial of repeated neck-tactic desire; reported pursuit/profits versus printed money bag/delegation/payment; and unexecuted donation intent. The51-numbered-versus52-declared distinction remains local and explicit. No raw/native/AV replay, global counter repair or all27 primary reread is claimed. The receipt binds every selected source, actual complete/spanned custody and saved nonempty paragraph."
+    },
+    {
+      "frozen_line": 175,
+      "canonical_line": 189,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 176,
+      "canonical_line": 190,
+      "line_sha256": "95a7080a1b3a035d7c8058c1eaf925f75d31bf563feac07474b345e47e26d3af",
+      "line_text": "All fourteen original gaps remain OPEN:"
+    },
+    {
+      "frozen_line": 177,
+      "canonical_line": 191,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 178,
+      "canonical_line": 192,
+      "line_sha256": "3ae83cb47e43f7b0ddcebec18b3c980c432b59a3dbea181c6e534e0bd61742f4",
+      "line_text": "| Gap | Available contribution | Unsupported stronger claim |"
+    },
+    {
+      "frozen_line": 179,
+      "canonical_line": 193,
+      "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+      "line_text": "|---|---|---|"
+    },
+    {
+      "frozen_line": 180,
+      "canonical_line": 194,
+      "line_sha256": "d9419f9d8bb8d4bbcfdb7cff8ff6034b5978ec6cef78d7b3deca835303585503",
+      "line_text": "| G01 — ordinary/private breadth | Complete27 supplies games, company, food, collecting, sport, taste, opera and conversation. | Exhaustive life/variant history or a permanent inner disposition. |"
+    },
+    {
+      "frozen_line": 181,
+      "canonical_line": 195,
+      "line_sha256": "d52447b59b56e410fa53dd637f954c6baefdcb6ae0b030c779fff5c5c2862a28",
+      "line_text": "| G02 — Yuuka | Work/finance and task-rest comparisons stay situated rather than inventing encounter. | Yuuka-specific transfer, causal institutional history or her completed scope. |"
+    },
+    {
+      "frozen_line": 182,
+      "canonical_line": 196,
+      "line_sha256": "b123ca95bdb5a9887a5e04212171d4b43eafa0660e210edeef4548bb15b1e4ca",
+      "line_text": "| G03 — Serika | Event809 keeps unpaid wages, refusal and worker knowledge independent. | Full wage restoration, all service outcomes or closing her own analytical duty. |"
+    },
+    {
+      "frozen_line": 183,
+      "canonical_line": 197,
+      "line_sha256": "467d5eeba5de2b2307d66afaaab84fb2310c0ee5999d0ca566d5fc456fefc7c7",
+      "line_text": "| G04 — Hina | Main and Prefect contexts distinguish assistance, report and jurisdiction. | Every Hina causal contribution or complete interschool settlement. |"
+    },
+    {
+      "frozen_line": 184,
+      "canonical_line": 198,
+      "line_sha256": "857fb299b419f2a0ddc6efcbd8ec9be7cfcec7d9632d7fc48181d6a3210481a9",
+      "line_text": "| G05 — Arius/PS68 aftermath | Event834 gives local aid, Saori thanks/escape testimony, criticism of exploitation and ordinary care. | Shiba/hotel restitution, lawful seized funds, lasting security, full wages or rehabilitation. |"
+    },
+    {
+      "frozen_line": 185,
+      "canonical_line": 199,
+      "line_sha256": "5ed84fd80a017d91acc692fffa04d1a7509a8a6dc44ccc117a11fbe2437836dd",
+      "line_text": "| G06 — cross-school breadth | Actual selected public relations preserve different recipients' ends. | Every label's appearance, reciprocal universal trust or exhaustive interaction history. |"
+    },
+    {
+      "frozen_line": 186,
+      "canonical_line": 200,
+      "line_sha256": "1757997b83213ebce6ffd5e05e02c700f41a571f8ec9e5841e732fc63e53f3b7",
+      "line_text": "| G07 — chronology | Whole message joins, local reseller recollection and opera-job memory constrain particular comparisons. | Global ordinary/New Year/dress reform sequence or an absolute year. |"
+    },
+    {
+      "frozen_line": 187,
+      "canonical_line": 201,
+      "line_sha256": "b50edfa2269f24dd1723aca03e6ac6d7020670282b2eba8d0f144d9395b8ffbd",
+      "line_text": "| G08 — event names/local IDs | Exact costume and selected event IDs survive missing titles and nonuniform numbering. | New missions, repaired metadata titles or automatic visitor/disguise person joins. |"
+    },
+    {
+      "frozen_line": 188,
+      "canonical_line": 202,
+      "line_sha256": "ac0cc6f3ad3013bfa054c91b60d9ec9ce2030608e9a2b84d477562277ac955c1",
+      "line_text": "| G09 — speakers/choices | Explicit objections, withheld bag, conditional alternatives, five dress seams and51 numbered units retain source form. | Informed assent from every menu, syntheticu0052, a universal repaired actor map or one assumed playthrough. |"
+    },
+    {
+      "frozen_line": 189,
+      "canonical_line": 203,
+      "line_sha256": "1e34f92b223299e77572cd646363eb63da2a6fdaa9566004b3353beef4232aef",
+      "line_text": "| G10 — audiovisual | Written cues, roles and script availability broaden literary register. | Heard laughter/prosody, inspected media, exact gestures or performed affect. |"
+    },
+    {
+      "frozen_line": 190,
+      "canonical_line": 204,
+      "line_sha256": "756316f23c79db8ae4137f8612fe960aab9ec425ca47daa715ff422c1df1fd07",
+      "line_text": "| G11 — records/offices | Company roles, wanted future, money delegation and surrounding institutional reports are compared. | Legal registration, signed appointments, financial audit, Yume records or settled recognition. |"
+    },
+    {
+      "frozen_line": 191,
+      "canonical_line": 205,
+      "line_sha256": "9f93b82ff232cb838fe27be4d85b0628826e42c15c3b4e3be951f8e2e4cac37f",
+      "line_text": "| G12 — identity/variants | Exact浅黄ムツキ/BA_PERSON_MUTSUKI with13006/10032/20059 and two costume bindings. | Numeric body/calendar biography, new Cappellini person or doubtful-header repair. |"
+    },
+    {
+      "frozen_line": 192,
+      "canonical_line": 206,
+      "line_sha256": "f4fdd301823ea36a80522924bd47bf8f3c9ec86707256d3f3be9251cbbbabfa8",
+      "line_text": "| G13 — technical/clinical/legal | Printed local outcomes are separated from bomb specifications, dealer reports, funds, injuries and safety. | Verified deployment, lawful seizure/custody, restored market/library, executed donation or clinical effects. |"
+    },
+    {
+      "frozen_line": 193,
+      "canonical_line": 207,
+      "line_sha256": "f4a8bd0c7d07d1b289f3a3e629f3b7a044d4670cfbcb317c992f7c7a7d3c2afb",
+      "line_text": "| G14 — modes/continuity | Editorial, repeated UI, whole messages, options, narration-form trust, reports and scene acts remain different. | Admitted unclassified92030 plot/continuity or conversion of conditional/wished use into expenditure. |"
+    },
+    {
+      "frozen_line": 194,
+      "canonical_line": 208,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 196,
+      "canonical_line": 210,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 197,
+      "canonical_line": 211,
+      "line_sha256": "2c82aaba00e6fd6708a529d9181f6d18a48062b22375ed048df63d6590df3e5e",
+      "line_text": "The complete Phase3 goal still requires justified directed relationships, differentiated PS68 ensemble/institution/labor/legitimacy/repair, Sensei/register and every eligible-cast package. Those are separate required responsibilities, not optional enrichment of this monograph. Further refinement within an adopted bounded Mutsuki monograph may be optional; global completion, integration and merge milestones are not claimed by this C-only candidate or its historical scope witness."
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        3
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: character_monograph_candidate"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        11,
+        11
+      ],
+      "canonical_lines": [
+        10,
+        9
+      ],
+      "frozen_text": [
+        "generation: \"BA_REFRESH_20260928T032248159554Z\""
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        13,
+        13
+      ],
+      "canonical_lines": [
+        11,
+        10
+      ],
+      "frozen_text": [
+        "status: \"LOCAL_CANDIDATE; ROOT whole receiving and canonical adoption pending\""
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        16,
+        15
+      ],
+      "canonical_lines": [
+        13,
+        27
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "source_generation: BA_REFRESH_20260928T032248159554Z",
+        "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+        "source_boundary: \"Accepted textual analytical meanings at main2e2018d0d62d91e3e0a5e7681f72a31cec08e02c, with qualified historical c1f14d5120c29209ca571fea8d7cfbe111076ec5 and original earlier MAIN producer pins retained at their declared scopes; current scope control355/29; performed material unreceived\"",
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MUTSUKI_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        19,
+        18
+      ],
+      "canonical_lines": [
+        31,
+        32
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MUTSUKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MUTSUKI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Source publication, main integration, separately required directed/institutional packages and full eligible-cast completion remain separate."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        195,
+        195
+      ],
+      "canonical_lines": [
+        209,
+        209
+      ],
+      "frozen_text": [
+        "No known mandatory primary recovery remains for the bounded asserted claims. The separately queued92030 lead remains available/unadmitted with unresolved mode/continuity; it is not among the admitted27 and supplies no plot here. Stronger use requires separate admission/recovery. Source counts, intentions and reports cannot be made completed outcomes by confidence alone. Independent ROOT whole receiving and canonical adoption remain pending."
+      ],
+      "canonical_text": [
+        "No known mandatory primary recovery remains for the bounded asserted claims. The separately queued92030 lead remains available/unadmitted with unresolved mode/continuity; it is not among the admitted27 and supplies no plot here. Stronger use requires separate admission/recovery. Source counts, intentions and reports cannot be made completed outcomes by confidence alone. ROOT independently received and accepted this complete bounded literary argument with limits; canonical persistence takes effect only after ROOT installation."
+      ]
+    }
+  ],
+  "source_argument_and_endpoint_credit": "Accepted original literary meanings/endings/recipient bounds and ROOT scopes retain their declared credit. Transport and public framing add zero literary, primary, performed, independent or identity-join credit.",
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "full_required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "no_separate_directed_institution_ensemble_completion": true
+}

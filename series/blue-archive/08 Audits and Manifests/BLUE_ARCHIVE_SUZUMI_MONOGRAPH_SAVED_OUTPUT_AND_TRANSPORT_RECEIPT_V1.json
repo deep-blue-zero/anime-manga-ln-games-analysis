@@ -1,0 +1,1170 @@
+{
+  "schema": "BLUE_ARCHIVE_SUZUMI_MONOGRAPH_PUBLIC_SAVED_LINE_TRANSPORT_V1",
+  "status": "EXACT_REVERSIBLE_CANONICAL_PREPARATION_ROOT_INSTALLATION_PENDING",
+  "full_saved_body_line_inverse": {
+    "original_exact_tuple": {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/BLUE_ARCHIVE_SUZUMI_CHARACTER_MONOGRAPH.md",
+      "bytes": 56964,
+      "sha256": "454b63fa52c1efa31f9bd209603dc14b447f40ee69045d41ca7394e0be0ccc82",
+      "git_blob_oid_of_actual_bytes": "c906897b3ecd4fbb75f015851435cf07c320344c",
+      "lines": 169,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/BLUE_ARCHIVE_SUZUMI_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SUZUMI_CHARACTER_MONOGRAPH.md",
+      "bytes": 59106,
+      "sha256": "77e7a3eb3bbeea5075e575760f01d34919525fcc58042b88974afe5afc26c9b1",
+      "git_blob_oid_of_actual_bytes": "ce0edbd4292018df8ffbcfecc89fe5473ec86a44",
+      "lines": 179
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "4d7984612efc019f0f91ef9745de5ffdef5ec770377d341c525822e917eeba3d",
+        "line_text": "scope: P3-CHAR-SUZUMI"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "7b5b82414204d253faffec23c582b48dbdefbca43fcb5336ec2368dcf7b736e4",
+        "line_text": "person_key: BA_PERSON_SUZUMI"
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "c98c151ffb449f26543139b75bd14d7c0fd454b248a430be43d64cc28399c8e6",
+        "line_text": "typed_family: P3-F139"
+      },
+      {
+        "frozen_line": 7,
+        "canonical_line": 7,
+        "line_sha256": "a35714748d07577ebcec0215ee85fb59906638f3074ef06df96fcc8a9fe0ba83",
+        "line_text": "dated_retrieval_route: P3-A045"
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "0946f5047ae20836f2c40c039c809b4c2a0e0f6548c9e51e4ef1342b3ede236b",
+        "line_text": "generation: V1"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "db74d51be30574f046d9416801d8b82be9ed0841a77faa66f214d5a72ade0d75",
+        "line_text": "source_snapshot: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "63fdca655365afb413a94711e2e135ff5bc79b8f19c011769ca90bab08816ce5",
+        "line_text": "source_admission: current_Cycle008_admitted_with_limits"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "15f73168ce066643fc7ddf12c01a00e7bead0667640d7a514115a3a00db2cb2b",
+        "line_text": "new_primary_raw_native_performed_model_independent_credit: 0"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "ed2e528e6315754c1403405723fcd84011f6ea85eca3bf6d98f192bf5d3300a1",
+        "line_text": "created: 2026-10-10"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 24,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 25,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 26,
+        "line_sha256": "1a1c818dd46c6403ae75f1514dc706af5b3265e8c71b612b7ab45180f8c40c67",
+        "line_text": "# Suzumi — protecting the possibility of an ordinary life"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 27,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 31,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 32,
+        "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+        "line_text": "## 1. Core thesis"
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 33,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 34,
+        "line_sha256": "f03eb0fdd58995a7a52049bbaed9ab885611cc9f63485e7e05607c29a184964a",
+        "line_text": "Suzumi wants a peaceful world in which her protection is unnecessary, while also wanting a life with music, a favorite drink, stars and particular people. That distinction makes voluntary work intelligible without converting all her wants into rewards earned through danger. Her patrol begins by her own will; the later adult's recognition helps her recover that authorship. The recurring movement is between the assumption that usefulness must justify contact and a more particular acceptance that company can be wanted for itself. An invitation without an important errand, a worn pair of headphones and the pleasure of sharing a view are substantial accomplishments in that movement. They are not lesser data because no office or power changes. [P:16003E005/E006/E020, L375–385](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 35,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 36,
+        "line_sha256": "c5d352be411792cf3b4700d0e60d7ab7c969f0bf9ae9486f1f50b93c53144c9e",
+        "line_text": "Her desire for peace does not make her methods reliably peaceful. One escort harms ordinary-looking students and a clerk/customer on a suspicion she expressly admits is uncertain. Other sources show useful protection, restraints and an intimidating response to an attempted flashbang. Event851 lets her revise an operational mistake, protect the adult and decide to continue, while preserving lost bounty, resistant targets, public misunderstanding and unsettled force consequences. The sustained question is how a person who sincerely wants safety can distinguish a received need from her own fear, a useful capacity from warranted authority, and appreciation from permission. A favorable intention and a successful local result answer different parts of that question. [P:16003E003/E005;10129E005, L371–377/397–399](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [V:E011–014, L133–143](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 27,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 38,
+        "line_sha256": "c5de9ea25ab101b9580182052119a8473c7e89eebf4d851cffae7a2b6775accf",
+        "line_text": "The public crisis of qualification has a precise personal history. Suzumi was briefly a first-year Justice Task Force member and left a collective setting she found frightening. She was not simply a failed applicant. Her opponent's accusation, her own later self-disqualification and her revised protective ethic are speech with different interests, not successive authoritative verdicts. Reisa's defense of her also contains a different measure: the shared headphones, music and conversation mattered alongside rain, injury and service. This restores a person with whom somebody wants to spend time, rather than a capacity that must win a title before becoming worth knowing. [V:E002/E008/E013, L115/127/139](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 39,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 40,
+        "line_sha256": "b1fefcb20ffc52a27068b2491fc850331cea579155a07ba7ca971ffee8fdf121",
+        "line_text": "The thesis therefore remains double. Suzumi can learn that chosen protection and wanted company are compatible, and she can still impose frightening means or unwanted exposure on others. Reisa's own enjoyment of fiction, Mashiro's independent permission refusals, Love's mixed work and leisure motives and the cleaning worker's ordinary stake prevent her perspective from absorbing everyone else's. Her renewed commitment is a real ending. It is not an institutional license, a universal cure for social difficulty or completed repair of each earlier harm. [V:thesis and comparison, L107–109/151–159](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "babd9490973a03a21768174bc0cbc24038fbf05723fb29a4ca02ea8ef74c6e94",
+        "line_text": "## 2. Longitudinal arc and legitimate ordering"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "6ed3ff5c9b1c66d490de5b7289c7f9dee14a6a112ace9d72bb1d4f8fae489f3e",
+        "line_text": "The16003 repertoire gives a local sequence of differentiated contact. After the convenience-store intervention and completed escort, the adult names Suzumi's company as the enjoyable part. She wants a gentler daytime conversation, then performs a tense daytime escort in which uncertainty becomes a basis for force. Reframing it as a walk lets her breathe and reach the destination, but her later enjoyment does not erase the affected bystanders. The next ordinary invitation explicitly allows refusal if the adult is busy and separates companion from escort. Even when disruptions multiply, a calmer departure and mutually expressed enjoyment establish a local change in how she receives company. The message tails are part of that arc: home-safety checks, arrival reports, later fun and a desired day without incidents extend the scene's last action. [P:16003E002/E003/E005 and whole threads160030010/090/160, L367–377](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "fee1d5d331c2431b5b5d842068e4e68b5ecb24cabc278695ab7aabfa042b94e4",
+        "line_text": "The star invitation makes the distinction explicit. Suzumi chooses a nearly empty amusement park that is normally her patrol endpoint, explains how leaning at the rail became sky watching, and prefers company to taking the Ferris wheel alone. She apologizes for a supposedly childish reason and again allows an exit. Their actual walk fulfills the earlier wish for relaxed conversation. Her further desire someday to express herself properly remains unfinished; the later message weighs waking the adult against wanting to thank them and actually sends gratitude. That complete ending supports received wanted time, not a diagnosis cured or a future disclosure already spoken. [P:16003E006/whole thread160030260, L379–381](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "9a0e3700a492fdbb8d44a169ea63661ae027a79353a6ee9d1d5d65271fa50ce1",
+        "line_text": "E020 places continuity in a mundane object. Fear of being judged for headphones leads to an explanation of low volume, chiefly breaks and mood changes during long patrols. The adult recognizes effort even when unseen, and Suzumi recalls that the work was her own choice. Scratches, long use and an ordinary unmodified shop item convey attachment without proving technical invulnerability. Her possible repair remains hypothetical. She first hesitates to ask a busy person for more presence, then retracts that hesitation and asks for occasional company if wanted. The whole tail removes the need for a practical pretext. It is a particular negotiated opening, not a realizable promise of endless availability. [P:16003E020/whole thread160030400, L383–385](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "03c5c5cd8d2005191fda874a1ac0d0cabcee171d820beaaf8b6e07fc346151f0",
+        "line_text": "The10129 repertoire has its own recalls and material contingencies. Duty-related costume secrecy is followed by an escape through a filmed performance and an explicit send-then-delete request; neither requested action is completed in the selected tail. A fan-event intervention yields a later acknowledged alternative to crushing a flashbang. A laundry mistake later leaves the costume as the available outfit for an actually wanted park visit, with reported advance permission. These local sequences establish recall and response, not a universal progression from gray uniform to a fully transformed magical identity. The pleasant outing neither makes the costume a Vigilance uniform nor retrospectively authorizes the changing-room entry or retained video. [P:10129E002/E003/E005/E006, L389–403](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "e377c282b4d40c941465dae893f85d8b4a520a99191f621ab0abfe77997f16b8",
+        "line_text": "Event851 has an independently given order: three-day and five-day preparation flashbacks, the park operation, prior-weekend news and a reunion three days after meeting. Filed afterstories can describe earlier preparation; remembered Sukeban words do not add new incidents. Suzumi's actual defeat, account of leaving Justice, correction about Love's operation, protection of the adult and decision to continue form a consequential local arc. Later watching through season3episode7 is an achieved new taste; the movie recommendation remains future-directed. Source numbers, costume releases and holidays do not locate this arc exactly before or after a MAIN chapter, and no such calendar is needed to compare its answers with the private repertoire. [V:E004/E007/E008/E011/E013/E014/E016/E017 and local order, L119/125–149/167](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "c5a9c7eb1f30b8449954edceee12c518fa13a4de873f92d57f62aadf78024ff2",
+        "line_text": "## 3. Public self, private self, and interpretation"
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "6a59fa14d511239bc72ed81c90b8872e759000b8b0639a1d16e171bf715f5c69",
+        "line_text": "The ordinary profile's kind-but-misread-as-cold description offers a useful interpretive hypothesis, but the profile cannot authenticate every threat judgment. Suzumi's private account of being feared coexists with actual fearful recipients. The student-phone episode represents not just a misunderstood protector but her uncertain inference about hostile photography and subsequent flash use. Her later willingness to loosen up and desire for another ordinary meeting give grounds to resist a wholly cold portrait without turning the frightened bystanders into mistaken readers of an infallible person. Public reputation, self-account and represented action must be held apart. [P:16003E003/E005 and written baseline, L371–377/405–407](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "66db65f657339824f0e38ddd60bd8110a119223e502e9426b1a751d0787adc2d",
+        "line_text": "Visibility can be desired in one respect and refused in another. In the changing room she likes a particular compliment while asking that the costume sight remain secret; asking to change is followed by the adult leaving and the light later being off. A filmed escape genuinely works, while the camera's actual recording surprises her and creates a specific deletion obligation. At the fan event other people's delight at photos is represented alongside her embarrassment. No selection authorizes the inference that a pleased inward line is the real consent beneath every outward objection. Her stated duty rationale, inward pleasure and privacy request are all part of the person. [P:10129E002/E003/E005, L389–399](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "4427c493eee7264f3ffe002c28fbe7134e7ccdaf7e25669f8e9c2a63c014e6a3",
+        "line_text": "The magical-girl public image also changes knowledge unevenly. Reisa knows and loves the fiction; Suzumi initially doubts its combat suitability and fears prominence. Reisa apologizes and offers another disguise, after which Suzumi agrees partly to comfort her and delegates the costume choice. That is a real reply within a relationship, not unlimited enthusiasm. The manager's mistaken recruitment and the adult's visibility explanation lead into a stage where Suzumi repeatedly wants time. Palm writing and tickling proceed before secured assent, words disappear in sweat, and she cannot speak at the close. The audience's applause and Reisa's skill are achieved public effects; Suzumi's fear remains a private and directly expressed cost. [V:E004/E005, L119–121](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "28f9941b86910e0afd73fcb6f38f5eb72069c187d88a81fa350dbf9635e296a3",
+        "line_text": "The public appearance of victory is especially misleading. Love actually defeats the pair and then pretends to lose because children cry, while also seeking tactical escape and cargo advantage. Later the crowd helps pursue a merchant under a show frame it does not understand as armed enforcement. News reports popularity, identity speculation, a staff privacy refusal and an unconfirmed adult rumor; it does not certify all participants' consent or legality. Suzumi can receive encouragement from public delight without that reception establishing tactical truth or absolving mistakes. Her story makes the gap between a helpful-looking performance and its material effects analytically consequential. [V:E007/E013/E014 and rivals, L125/137–143/157](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "21b59a8ad708de650137163d6d10823fb75c788a9465f6b76aa73d1a04ca0e1c",
+        "line_text": "Private text has its own access limits. The teacher's alternatives are represented possibilities, not one accumulated utterance. Suzumi's inward embarrassment, appreciation, worry and remembered words cannot automatically become knowledge held by classmates or the adult. Profile, café, lobby, special and event-shop lines preserve conditions and repetition instead of one continuous day. These modes support comparisons about recurrent wants; they do not authenticate an unbroken schedule, secretly shared romance or a performed emotional delivery. [P:local ordering and written contexts, L363/405–411/550/565–571](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [V:actor and mode limits, L161–167](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "d1b19a0c5da50f33545c832043656c8c37cbf38a803fae4fd15aa54a6038cec7",
+        "line_text": "## 4. Trinity, Justice and nonofficial Vigilance"
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "cf7b728944c922d0fb99c0feaec48ba67968e5d27598be8cfbff6f27480268e2",
+        "line_text": "Another institutional encounter has a more modest but affirmative result. In811010 reported insufficient Valkyrie capacity leads to cross-school help, and Hasumi and Suzumi directly value people enjoying the day. Her first secure speech is u44; the introduction at u42/raw268998 is a Yuuka text actor under a Suzumi display label. Chihiro independently chooses to join and peers have their own work, fatigue and teasing. These actual offers broaden Suzumi's cooperative role without a verified universal reform, uniform authority or guarantee of later containment. The protected ordinary day is a purpose participants themselves name. [W:E010u0042–0063/current L90/96–98](../../02%20Sequential%20Readings/EVENTS/EVENT_811/BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md)"
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "3179eb44a7fc5b5ca1c97dda904de275dcab4cdbec4b5849359930893244e3f9",
+        "line_text": "Suzumi's distinction between chosen patrol and official Justice appointment is explicit. After useful convenience-store protection she says Vigilance is not officially recognized; Event851 further says the vigilantes are not an organization and do not have a formal uniform. Her earlier brief Justice membership is also explicit. Leaving a collective setting because meals, silence and others' attention became frightening is neither a failed admission nor an established psychiatric finding. Her denial of fight-and-hatred rumors qualifies Mashiro's secondhand knowledge. A monograph must preserve both the actual prior membership and the present absence of a chartered Vigilance office. [P:16003E002, L367–369](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [V:E003/E004/E008 and Japanese qualification, L117/119/127/163](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "b146502aad00ca0928a95a3a58ca976adf8c49c63866bb593af51a2c015437f4",
+        "line_text": "Hasumi's request gives an actual institutional comparison. Suzumi first chooses to report the overheard plan rather than simply attack. Hasumi's initial health/engagement assumption is expressly corrected, then her jurisdiction and staffing explanation leads to reconnaissance, restraint and safety instructions. The park's divided territory is represented institutional knowledge, not an independently inspected treaty. Suzumi subsequently follows Love into Gehenna despite the narrow confirmation request and unavailable fire support. That choice has a different authority status from carrying out Hasumi's reconnaissance. Useful intent cannot flatten the distinction. [V:E002/E003/E006, L115–117/123](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "03c01e1a87c13ffa1e58fd9dca6c9eb2c79584234c130e751f48d83359147037",
+        "line_text": "Mashiro's repeated refusals enact the institutional boundary as a peer's independent decision. She lacks permission for warning fire during the actual defeat, again lacks intervention permission during the later pursuit, and refuses while the target remains in Gehenna. Only after the crossing into Trinity does she explicitly receive permission. These are specific represented decisions, not a comprehensive legal code or proof that the final action is risk-free. They make it impossible to describe every competent helper as operating under the same authorization. Suzumi's self-described protective ethic does not retroactively supply Mashiro's missing permission. [V:E004/E007/E013, L119/125/137–139](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "89d78e047ad5ea8029d73666da4fee5b79d5715ad087c1713c29af3132c96f45",
+        "line_text": "The correction about Love changes what the group is trying to do. The apparent grenade-like goods and fragmentary overheard plan supported suspicion; the later explanation identifies a paid counterfeit-catching operation rather than the assumed destruction plot. The poverty, desire for good paid work and resistant captives' humiliation remain their attributed circumstances. Suzumi's clear apology and proposed corrective action matter, as does Love's reply that enough has been said and cooperation can proceed. A correctable local error is not an institutional exoneration. Capture, tying and gagging have actor seams, and the room's battery powers disconnected electricity rather than a printed torture current. No fabricated legal hearing or universal peaceful investigation follows. [V:E009–012, L129–135](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "38f9718dd60b09bccd42adbfa0e1a72530fd523b38146b9d006c5a5425cb1d44",
+        "line_text": "The ending places a small civic duty beside unresolved force. Suzumi appeals to a cleaning worker who does not want spilled juice any more than Love does. The worker's ordinary labor has moral weight without becoming a heroic participant. Love initially intends to bin the container, but a challenge interrupts and a magical attack cry closes the scene; completed disposal and a new narrated injury are both absent. The council ordinance appears only as the beginning of a proposal in news, and the destroyed bounty is not restored by a reported meal reward. Thus renewed patrol, civic consideration, public applause, proposal, expense and unanswered accountability have distinct endings. The separately required Vigilance institution and Suzumi–Reisa relationship questions remain full obligations beyond this character synthesis. [V:E014 and institutional limits, L141–143/153–159/177](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "8c4c0618c3038f49420f7dfe881b14bdf1db3e5fdc0ffa61eb128cae5987155e",
+        "line_text": "## 5. Ordinary life: music, objects, beauty and wanted company"
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "bc2eb6080fa0af7f20ce227f392cd4cace33a08e412887f28cdc372aaa5bdecd",
+        "line_text": "Gift810054 makes a chance encounter into chosen ordinary care. Suzumi reports replenishing drinks and ammunition, notices the holiday and asks to give something if the adult does not dislike it. The on-the-spot sparkling star-shaped choice is intuitive by her own account; a flashbang comparison is an adult alternative, not her definitive motive or an explosive feature. She offers to replace it, then receives the adult's preference for the thing she chose. Asking to accompany the return is followed by explicitly narrated safe travel to Schale. The gift selection and escort are fulfilled; eating is absent. This is a particular quiet success with responsive agency and aesthetics, without an unseen threat, advance design, performed greeting, romance or universal safeguard. Japanese star/sparkle and separate Korean golden-color/familiarity details remain at their respective language scopes. [C:810054u0001–0031 and current gift054 L274](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md)"
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "a8d5884571d5407a788b733de55dade604b884a905eb291cf6446e381ff784be",
+        "line_text": "Suzumi's wanted peace is positive content, not an empty absence of work. She says she would rather live in a city that did not need Vigilance, and the whole walk tail hopes for a day without incidents while admitting doubt that it can happen soon. The favorite café latte already matters before a robbery interrupts it. Her preface permits the busy adult to decline and invites a destination choice, so the outing's value is not conditional on proving indispensability. Both later enjoying the disrupted day and still wishing for an undisturbed one can be true. Keeping the latter desire prevents successful protection from becoming the only recognizable happiness available to her. [P:16003E005/whole thread160030160, L375–377](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "396dbade183a18d497a43461c7c000bc001c93599ad33f90fa921e6d675bd977",
+        "line_text": "The headphones establish a durable ordinary attachment without an extravagant explanation. They are scratched, familiar, ordinary shop goods and unmodified. Suzumi likes listening quietly and changing mood during a long patrol; she calls them a partner alongside her gun. Their reported survival in fights is luck in her account, and repair is a future conditional. This modest object lets her speak of something that need not be spectacular or essential to operations. Her enjoyment of apparently trivial conversation and the adult's offer of presence outside patrol lead into a request for occasional contact. Attachment and talk are intrinsic purposes, while the worry that someone might see neglect of duty remains part of their conditions. [P:16003E020, L383–385](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "07d5c1e2e6d9ecc25f7bef00caac64ef8b5cd565ff48b6a6968b14644c437979",
+        "line_text": "The night park and stars are another achieved ordinary end. A patrol rail becomes a place to look upward; a Ferris wheel becomes a wish for a higher view with company. Suzumi's apology for a childish reason reveals her uncertainty about whether such a request is enough, but their actual walk and her statement that relaxed conversation is fulfilled supply a positive result. The special-mode request to remain together and unfinished future expression retain their particular written perspective. Gratitude sent despite the worry of waking the adult extends the chosen exchange. No new crisis is needed to justify including the episode, and no analyst needs to resolve its unfinished feeling into a compulsory romantic label. [P:16003E006 and its complete tail, L379–381](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "8f8a4a4f561a4541256b51fc6453edae71eeb4beaafce00c048f88756551a8a0",
+        "line_text": "Small written contexts broaden the wanted life without manufacturing lived repetitions. Café lines like a cute decoration while doubting personal fit and describe rest as part of duty; lobby language says there is no time to rest, while a birthday wants a leisurely walk. The costume's written goods can be cute, particular research can be interesting, public prominence can be disliked, prepared conversation can fail and a next-year greeting can be hoped for. Event contexts like the park's peaceful atmosphere and notice Reisa's pleasure, yet object to pulling and tickling. These tensions are analytically useful exactly because they have different circumstances and recipients. They are not errors to smooth into a uniform preference or proof that every conditional shop/card result occurred. [P:three written objects, L405–411](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "47d09333fb1ee509447f615d46b1460346982bf23236073ffbd9c26b9956f9ac",
+        "line_text": "Fiction becomes a genuine chosen interest as well as tactical cover. Reisa wanted someone to enjoy the works she loved, not just an outfit that could pass as useful evidence. Suzumi's later voluntary viewing through season3episode7 and understanding of the colors gives a concrete new pleasure, with a movie explanation still ahead. Her liking White and the Running Flash nickname does not erase embarrassment or anonymity; her wanted amusement-park outing similarly uses the available costume without turning it into a uniform. The character can acquire a local taste while keeping earlier refusal meaningful. That change has its own value apart from the successful pursuit and is one reason the sources resist either an unchanging cold-protector label or an all-encompassing costume-conversion story. [V:E004/E008/E014, L119/127/141/155](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md) [P:10129E006 and profile/lobby, L401–409](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "e98152b59dcc8c29ffb00ce7355b61d4497a75aabd140b3bda82b1ec3d389d0b",
+        "line_text": "## 6. Crisis behavior: useful action, harmful inference and correction"
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "7e06e6a34ec136f9b700e4374211ba2c2d38004d6550a5144217b5aaedf8b8d6",
+        "line_text": "The initial robbery provides real useful action. Attackers threaten the clerk/customer and claim Justice is absent at that outskirts location. Suzumi intervenes with a flashbang, recognizes the adult and completes a local escort near Schale. The attackers' service-gap claim remains speech, not a survey of institutional absence. Her proposed punishment is not enacted in that episode simply because she describes it; the later walk supplies a separate represented restraint-and-music enactment. The adult's inward choices can praise effort or question punishment. The positive result is protection and an actual arrival, with neither unanimous ethical endorsement nor all-city safety inferred. [P:16003E002/whole thread160030010, L367–369](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "00c6714d1ad3e5c51e3479647e0a892077129e16578c85cb3b7d4a98315717c7",
+        "line_text": "The daytime escort is serious contrary evidence because uncertainty is known before force. Phones held at chest height become a suspected hostile-photography explanation; Suzumi acknowledges it is merely possible and still flashbangs ordinary-looking students and other recipients. The adult doubts the interpretation, and the source represents their distress without authenticating the supposed affiliations. Her breathing, adjustment, arrival and later desire for company are actual, but they do not restore the affected people or settle their safety. An account that calls the escort uniformly protective would privilege the favored adult's result over its other recipients. Her sincerity makes the mistaken threshold more consequential rather than less. [P:16003E003/whole thread160030090, L371–373](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "708443110a4caac8daeeba5928dfb37af0b0dd47d4730c78cb47b70ca098d8e9",
+        "line_text": "The later walk and fan event qualify necessity in different ways. Two-digit flash use and repeated incidents are narrated during the walk; unconscious attackers, restraint and loud music are represented, while nobody-injured language remains Suzumi's justification or aim rather than a health assessment. At the fan event she prevents an attempted flashbang by gripping/crushing it, with pain cries and observers uncertain whether they see a prop or performance. The completed escape is useful. Her tail admits no other method came to mind, and the adult offers safety-pin reinsertion, which she takes as future reference. An acknowledged alternative is consequential evidence against necessity, but it is not a subsequently implemented procedure or technical certification. [P:16003E005;10129E005 and complete codas, L375–377/397–399](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "6f1bb80133291f15135db48f48057a0422ab4bbda10638eabfb86a328449d221",
+        "line_text": "A separate ambush shows limitation and accepted help. Depleted ammunition, estimated numbers and a twisted ankle constrain Suzumi, who initially does not want to endanger the adult. Using a changed appearance and a filmed magical introduction exploits pursuers' reported description; it is not an independently verified disguise science. The safe exit is complete and the recording creates a genuine privacy cost. Event851 likewise shows that refusal to flash a child-filled crowd, lost confidence and unavailable Mashiro fire support can lead to an actual tactical defeat. Love's later fake defeat does not replace it. Suzumi's useful capacity has resource, audience and coordination conditions; wanted help and successful rescue do not erase them. [P:10129E003, L393–395](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [V:E006/E007, L123–125](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "be06b2c4fb42fc231e3e8a3027fa367d644083d2a2b611a92d496401e0c7bc8a",
+        "line_text": "The most affirmative public correction joins knowledge, apology and action. Love's explanation revises the target, Suzumi clearly apologizes and asks how to repair the mistake, and the ensuing pursuit uses Mashiro's locating work and others' participation. Suzumi actually protects the adult from Mirai's flash and observes no apparent injury; that local observation supports her renewed confidence, with no clinical examination implied. The final flash contributes to crossing into Trinity, after which Mashiro receives permission and a joint finish occurs. Mirai's eye cries, flight and later resistant marketing, Love's lost bounty and unprinted compensation remain. The declaration that patrol is complete ends this operation's represented sequence, not every material or ethical question arising from it. [V:E011–015, L133–145](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "3b1dc49f7d484d2a0b8e971a6ccd562136e4039b6a13798993cf17a08e0cc99e",
+        "line_text": "## 7. Relationship with Sensei: recognition, wanted presence and exact permission"
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "0f8978eba3ac07ea4280eb05f3dedf4ced9290e55d04a4f05a5f0f4cae90ca75",
+        "line_text": "The adult is a useful recipient of Suzumi's protection and a participant in ordinary company. Saying that her company was the enjoyable part of the first outing makes a different offer from praising efficient security. The daytime suggestion to think of escort as a walk and the later acceptance of stars help her distinguish task from wanted contact. Recognition of unseen work in the headphones episode supports her recollection that patrol was her own choice. These responses matter without making the adult the original author of service or the sole source of self-worth. Her invitations, adjustments, thanks and occasional-company request are also her own agency. [P:16003E002/E003/E006/E020, L367–385](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "4a4a8aa42f6e09a3a6c7033f84e38d0ff82180f1483e31141ed70cd0c8ff94ea",
+        "line_text": "She repeatedly conditions contact on the adult's situation. Offering an exit for work, allowing refusal and hesitating to impose on a busy person are not simply barriers an analyst should remove. The headphones exchange has a particular retraction and renewed request, and the message tail removes a need for an errand. Such details allow a substantial reading of desired closeness without an exclusive relationship or a limitless availability agreement. Similarly, the stargazing special ends with an unfinished wish to express something properly. The silence retains a character's future, rather than permitting an interpreter to complete an unspoken confession. [P:16003E005/E006/E020 and whole tails, L375–385](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "f1e3c8d81acfc920f60bd5eef5ea8eec8e53cec3910ce7e2be3fae0d82421947",
+        "line_text": "Adult care has contrary privacy effects. The changing-room entry includes an apology and stated prior knock; Suzumi's relief that it is this person does not establish universal entry permission. The filmed escape works, but discovering an actual recording produces a precise request: send a copy for inspecting clothing defects, then delete it. The selected tail does not show either action completed. A wanted compliment, rescue gratitude and practical inspection reason cannot turn the request into permission to retain or share the film. The ethical relationship includes an outstanding obligation whose existence is certain even though its later performance is unknown. [P:10129E002/E003, L389–395](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "988908e0405434772ad3d4de41c2667ec2d2955ef7518e457300a4663cc35651",
+        "line_text": "The event places encouragement alongside unwanted performance exposure. The adult presents visibility as useful while Suzumi expresses terror; Reisa's palm-writing proceeds amid requests for time, and the inward-tagged cheer being heard locally retains a source-mode seam. Later listening and time to decide are useful responses to her account of Justice and uncertainty about continuing patrol. Suzumi then protects the adult, independently contributing to their relation rather than merely receiving validation. The resulting confidence does not certify every earlier adult choice or make the frightened student's applause-producing appearance wholly wanted. [V:E005/E008/E013, L121/127/137–139/179](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "a16f33825e250c814558fe598fd952d7f02073ad215c1656af576ea59db9dc8c",
+        "line_text": "The teacher-paid meal is a further bounded result. Love's group reports yakiniku and full stomachs, with a sad bill-paying face as their report, not a printed amount. Suzumi apologizes for the lost bounty and thanks the helpers. This acknowledges contribution and permits genuine food enjoyment without proving legal compensation, bounty restoration or settled friendship. The adult relation is strongest when the synthesis keeps helpful recognition, particular permissions, asymmetric exposure and unpaid ethical tails together. Nothing requires a universal teacher-saves-student template to explain each of these different directed exchanges. [V:E014 and afterstate qualifications, L141–143/159](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "86243e1070612ce87b42023e0d693cbbf8e8cb5f17f8d1a38bbf4094605d0ddb",
+        "line_text": "## 8. Major peers and independent recipients"
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "b48f405778d247045104c08a820b7c58e869c55b491772c890af4f9523f1df38",
+        "line_text": "Hinata offers a consequential different path of care in812006–007. Suzumi knows abandoned building materials through patrol but does not know the requested adhesive. Opponents fear an eviction she expressly denies; she apologizes for distress, offers a handkerchief and hears accounts of failed job applications, unaffordable rent and grades barring dorm access. Those are significant attributed ordinary-life accounts, not an audited universal policy. Hinata originates the concrete chapel offer before the adult's incomplete offers become a plan: no wages, proposed food/lodging, a possible later recommendation and adjustment help. One recipient still distrusts, another asks about work, cinema, cafés and games; actual future employment, lodging or leisure is not shown. Permission to use material and Suzumi's thanks are real local endpoints. Hinata's answer about somebody doing this work echoes an ethical phrase, and Suzumi accepts another caring path rather than supplying it herself. The earlier firing objection survives this exchange, and neither help nor a practical material lead certifies completely nonviolent care or full reform. [B:E007u0001–0099/current L371/395–397](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "82198dec1f098d7bc64d26c1808c49e7596dac4421febbda1431ddae862a5e21",
+        "line_text": "The preceding812006 encounter qualifies influence as well as competence. Local opponents report imitation through SNS and prior numerical losses; Suzumi says SNS does not suit her, has not met most imitators and interprets people acting by themselves positively. No inspected posts or evidence that she instructed the imitators follows. Her offer to wait and hear a grievance is real, with the new confrontation unresolved at that episode's end; the next object reports a group defeat and retains Hinata's heavy-fire objection. Suzumi's nickname can circulate and mean different things without a proven organized movement, independent combat census or sole causal responsibility for every imitator. Its later liked quality in851 is her reported taste, not a universal public verdict. [B:E006u0022–0066/E007u0001–0011 and current L371/395–397](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md) [V:E008, L127](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "7281809664a8447028f722c9be5779ad5a8c6dd8013ee6cb67c4f6d83f1a5923",
+        "line_text": "Reisa's appeal is a peer's account with independent desires. She recalls Suzumi helping through rain, wind and injury, but also shared headphones, music and chat. Those ordinary exchanges are not reducible to a protective debt. Reisa wants a companion for beloved fiction, owns the media knowledge and costume details, and later values Suzumi's grateful helping face and the town's company. Her private repertoire independently insists that play with friends matters as much as school and Vigilance. Suzumi can appreciate these wants without making Reisa merely the mechanism of a restored hero. Their joint topic is distinct from either person's monograph and remains a separately required directed package. [V:E004/E008/E014, L119/127/141](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md) [P:Reisa friendship/rest/fandom, L413–457](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "9ee9fe98bca273d85851bf8743d0a87fafb3e2352c6ad92c25abc2e02d337a18",
+        "line_text": "The pair's reciprocity has actual limits. Reisa apologizes and offers another disguise after objection, yet later palm writing, tickling and stage urgency overtake Suzumi's requests. Her expertise rescues the performance, but does not negate the affected peer's fear or inability to speak. Suzumi later voluntarily watches and likes the fiction; that new action gives neither retrospective consent nor unlimited future exposure permission. Reisa can own meaningful generosity and pressure at once, while Suzumi can assent to comfort her and remain embarrassed. This directed difference is more informative than sorting one into wholly coercive and the other into wholly enthusiastic positions. [V:E004/E005/E014 and comparisons, L119–121/141/155–157](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "33eccc620bd67927c5bfba513e91cc46881f0c61525d73e76531de4b8cfd83b0",
+        "line_text": "Hasumi, Mashiro and Shimiko bring different work. Hasumi corrects an assumption after Suzumi's reply and gives a restrained reconnaissance request. Mashiro observes, communicates, locates and refuses fire until permission is explicitly supplied. Shimiko hears a fragment while finishing new/donated-book work, seeks help, researches the fictional role and arrives at a deliberately timed entrance rather than oversleeping. She later organizes the audience's light search. Her craft has its own recipient cost: Ui loses sleep while observing rapid research and visible sewing, and material-use permission is not shown. These contributions establish capable peers with independent limits and labor, rather than interchangeable support for Suzumi's confidence. [V:E002–004/E009/E011/E013/E017, L115–119/129/133/137/149](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "011f78c8e709579547bb3127b25c7305b173a9015b02c95db6064906b1f87dcf",
+        "line_text": "Love retains a separate perspective across mistake and cooperation. Her tactical win, staged loss to spare crying children, paid-work motive, desired park leisure, destroyed bounty and reported meat reward are different events and purposes. Her explanation revises the suspicion; her acceptance of corrective cooperation matters without turning her into Suzumi's permanent subordinate or a fully acquitted altruist. Mirai similarly persists in resistant advertising after flight, rather than acquiring an invented reform after a heroine finish. The opponents' interests and replies constrain the claim that renewed self-belief completes social repair. [V:E007/E011/E014–016 and counterpoint, L125/133/141–147/159](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "7da471b16279446af2676233ca0a8bb0d0a14abfd9325bef23deb31a72a49fe2",
+        "line_text": "Anonymous recipients remain consequential even without person joins. The clerk/customer and phone-holding students receive threat or force at different encounters; the children have broken-balloon/popcorn disappointment, cheer, cry and help under partial knowledge; the park manager misrecognizes performers; an unseen cleaning worker is invoked as someone affected by litter. Distinct incidents are not merged into one public, and repeated child labels do not justify extra incident counts. Their pleasure, distress and limited knowledge are sufficient for analysis without a high-stakes filter or fabricated biography. Keeping their responses changes what counts as an achieved protective outcome. [P:16003E002/E003, L367–373](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [V:E003/E005/E007/E013/E014, L117/121/125/137–143](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "ee1a47cb624ca528f8e88aa5105e4157c488c60e2294d7d70a2e9637c9b6d3e4",
+        "line_text": "## 9. Japanese written voice and source-mode limits"
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "904b191484e02b013b52ef3597e78f9e25968b3ed2aa6b211d2d10d1586adf31",
+        "line_text": "自警団 names chosen local Vigilance rather than conferring the office of 正義実現委員会. Suzumi explicitly denies an official organization and uniform. Her public 失格 and なれなかった language must retain the earlier brief Justice membership and her inability to remain within collective routines; detaching it would falsely turn self-evaluation into failed admission. The opponent's accusation has its own interest and her revised ethic is her conclusion. None is a legal ruling supplied by a Japanese noun. This distinction also protects peer agency: Mashiro's permission is a separate event, not an implication of Suzumi deciding that correctly used protective power is enough. [V:qualification and Japanese language, L127/139/163](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "02afe40325d1089394e325af44a670c8a3111714356762e21f6cd53b7e570672",
+        "line_text": "Suzumi's companion/escort distinction and formal requests shape wanted contact. A joke about a date receives an objection; the subsequent request for ordinary company remains without being overruled by an assumed hidden label. The special star passage has written timing/log presentation and unfinished expression. Garbled messages locally explained by a dropped phone stay such messages rather than becoming silent parser repair. Korean log labels surrounding Japanese material identify a textual presentation seam; they supply neither a separate speaker nor heard delivery. The monograph interprets the printed requests, replies and modes, while leaving performance unreceived. [P:16003E003/E005/E006;10129E002, L371–391/550](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "e8485c73375b3a6b4976d6787806f4c0a78ae316db08a740c588176ccaf2edba",
+        "line_text": "Fictional names and spells retain their source class. Thermite White/Pink, Ella and Stanag are roles in media or tactical performance, not extra persons. Reisa explains colors through an in-world episode; Suzumi's later comprehension concerns that fiction. Supposed healing magic is explicitly contradicted by tracer/napalm and weapon language, and health merchandise is advertising, not clinical restoration. The closing attack cry is printed, but no extra narrated injury or completed litter disposal follows. Public audience interpretations remain actual reception with partial knowledge, not authoritative statements about tactical outcomes. [V:E004/E009/E010/E014 and form limits, L119/129–143/163](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "7dedbafbb895afc97457a3b49fae703745bbb7021b55ff1c74b5a512f95c3e70",
+        "line_text": "Consequential actor seams stay literal. Event851E010u7 addresses Thermite White under Suzumi's label before her answer; Loveu20–23 contains binding/taping dialogue that cannot reliably assign each act; E011u55 carries Love-style speech, while some apology lines also complicate actor-specific paraphrase. E013u136 asks self-named Suzumi about a finishing line. E014u76 bears the anti-litter command under Love's label and u86 carries Reisa-like speech under Suzumi. Secure surrounding actions support collective capture, clear Suzumi/Reisa apologies and joint operation without a manufactured repaired turn map. Inward-tagged cheering locally treated as heard is another mode limit, not grounds to normalize all inward speech. [V:exact seams, L121/131–143/165/181](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "07105d242f224f788bca2666314ee988fc2485068fca88a36a5374a4bcb19e39",
+        "line_text": "Written repetitions preserve evidence without inflating events. Special/lobby material can repeat the changing-room or stargazing passage, costume profiles can be empty while conditional lobby/shop/card scripts remain meaningful, and success language can report investigation completion without supplying every operational step. Positive pleasure and refusals retain value in those modes. No repeated line adds a second independent witness, no collection of Luck4–0 options supplies all realized outcomes, and no birthday/holiday fixes an absolute source-world date. These constraints are a way to keep ordinary evidence usable at its actual scope, not an excuse to discard it. [P:three written objects and mode controls, L405–411/563–571](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [V:local chronology, L167](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "9619f76ce855ae907bcb52ebbd78b51e3321069c833bd29042df733aed297aee",
+        "line_text": "## 10. Competing readings and evidential judgment"
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "869b127b0497a3399bd78e897e79233825fdffac8bea3cb064bd612908a90c6c",
+        "line_text": "A sincere-protector reading has strong support: volunteered patrol predates recognition, robberies receive useful intervention, the adult reaches local destinations, Suzumi refuses flashes in a child crowd, corrects a mistaken target and actually protects the adult in the final pursuit. Her wish for a world without necessary Vigilance is explicit. Its limit appears when sincerity is promoted into reliable safety or legitimate means. The uncertain phone inference, civilian distress, restraints, pain cries, mistaken capture and unresolved consequences defeat that stronger claim. The best favorable reading accepts specific helpful results while making threshold judgment and recipients central to the limits. [P:16003E002/E003/E005;10129E005, L367–399](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [V:E006/E011/E013 and rivals, L123/133/137–139/157](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "4cc5e0e3e5ec51a9699c73a6ac3b42d8f4e8b5f64e62b356ac7bc367cfbdb0a8",
+        "line_text": "A purely violent or cold reading notices real intimidating methods and failures, but misses actual desired peace, exit-permitting invitations, received companionship, music attachment and particular corrections. It also loses her decision not to attack further after an initial defeat of Sukeban, the refusal to flash children and her clear apology after Love's account. Those positives need not acquit other acts to defeat a universal essence. Ordinary evidence contributes directly to this rival judgment: stars and a latte articulate ends that a violence-only portrait cannot explain, while the disturbed civilians keep a gentle-private-self portrait from excusing public harm. [P:16003E005/E006/E020, L375–385](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [V:E002/E006/E011, L115/123/133](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "c68ae680392fc8e1ea591bd3342dc372214a9a5db10f16930cea2a85744f54fd",
+        "line_text": "A recognition-driven recovery reading captures how specific adult and peer replies matter. It becomes inadequate when praise is assumed to originate her patrol, Reisa is reduced to therapeutic support, or renewed commitment is treated as total social recovery. Suzumi explicitly remembers voluntary authorship; Reisa has independent wanted fiction and pleasure; and the very event that resolves continuing patrol leaves audience misunderstanding, lost bounty, library permission, resistant marketing and force questions open. The headphones and park sequences support particular wanted contact, not a universal clinical arc. Former Justice membership must remain actual rather than a failed entry conveniently repaired by becoming a different hero. [P:16003E020, L383–385](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [V:E008/E014–017 and limits, L127/141–159](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "f81e895e7eeb61058339a9a3b7377e4bdf2917ad96bd8aa599e493b8421e6580",
+        "line_text": "A mutual-fandom/fully willing transformation reading has the later viewing, delight and successful company in its favor. It fails if those outcomes retroactively convert earlier embarrassment, tickling, requests for time or deletion into consent. An uninterrupted-coercion reading conversely loses Reisa's offered alternative, Suzumi's particular assent and later voluntary watching. The sources support a changing directed relationship in which some experiences become wanted and other costs remain. Costume utility, pleasure, a laundry contingency and privacy are different meanings; no fixed variant ladder is needed to hold them together. [P:10129E002–006 and written objections, L389–411](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [V:E004/E005/E014 and peer comparison, L119–121/141/155](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "7fc925a3f816db611ff2c95d899484cdc70ad6986bab51fb534b611af094d1fb",
+        "line_text": "The achieved endings are consequently substantial but finite: local protection and arrivals, actual relaxed conversation, gratitude, an escape, enjoyed park time, clear apologies, correction and cooperation, a final joint pursuit finish, later chosen viewing and an explicit decision to continue. The unfinished tails include film sending/deletion, the next disclosure, acknowledged future force alternatives, peace without incidents, material permissions, clinical outcomes, compensation and institutional review. Counting only crises would impoverish the argument; counting warmth or applause as repair would overstate it. The evidential judgment is a person choosing protective work and an ordinary wanted life, whose methods and relationships remain responsive, fallible and answerable to specific other people. [P:whole codas and remaining questions, L369–403/580](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [V:complete ending and contrary afterstates, L139–149/157–159](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "1968cecd91cbacd885c1d740ae1897e26aa40726e7ab442c74277d9f8b26dd72",
+        "line_text": "## 11. Evidence route, open gaps and completeness"
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "267691621d52ff2cbe3681ee6f9289e2e6ff33b5c5bba3621012773946319c9f",
+        "line_text": "P denotes the current accepted Suzumi/Reisa/Ichika private checkpoint; V denotes the current Event851 checkpoint; C/W/B denote current Event810 comparison/Event811 comparison/Event812 checkpoint. This author personally receives the complete Suzumi argument, all nine paired bond/whole-message meanings and three written-object meanings in the normal account, along with current qualification and closing controls, and the complete consequential Event851 argument through its afterstories and EOF. Adequate prior TrinityV2 full analytical receiving remains reusable at its recorded scope. Fresh complete small analytical arguments810054/811010/812006/812007 resolve the additional consequential gift, aid and peer-care claims under their personally received current normal authority. The historical811 checkpoint is additionally received but its earlier noncurrent banner is not substituted for the current normal comparison. None of this claims a new reading of underlying primary objects, all original individual producer bodies, raw/native/audiovisual data or every MAIN episode. Historical producer UNADMITTED/pending statements remain dated inside accounts whose current Cycle008 authority is ADMITTED_WITH_LIMITS. [P:current adoption and exact custody, L287–318/582–592](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [V:current adoption, historical custody and EOF, L38–45/78/195](../../02%20Sequential%20Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md) [C:current adoption L123–130, gift L274, closing limits L294–316](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) [W:current adoption and received historical authority L33–70](../../02%20Sequential%20Readings/EVENTS/EVENT_811/BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) [B:current adoption L1–37 and complete literary annex L365–397](../../02%20Sequential%20Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md) [Cycle008 current authority](../../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md)"
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "203f480693e5d3477dce2ca4c5b42426f61c41b2f3e36f7c81efaff7d1f22b5c",
+        "line_text": "| Original gap | State and specific effect |"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+        "line_text": "|---|---|"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "415420587750bf38351ddbbdf3dbc0fdb1d5453c83694dfd17500126179fa448",
+        "line_text": "| G01 — Ordinary and private breadth | OPEN: the complete selected music, drink, stars, costume and company repertoire informs this synthesis; it does not complete every cast member or all future Suzumi contexts. |"
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "b62aa9c6d270382d24250f9147bc1ab7ef0bfad2eeaa3460ae69e0cd18a8228c",
+        "line_text": "| G02 — Yuuka council/club decision transfer | OPEN: Hasumi/Mashiro and nonofficial Vigilance decisions provide comparison, not evidence of Yuuka's unseen decision transfer. |"
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "a5184b429450be9a0954631258bb5f9bc761879f5f1d9989f8841fc47cea4797",
+        "line_text": "| G03 — Serika service, peer and reciprocity range | OPEN: requested company and gratitude here do not reconstruct Serika's service or recipient range. |"
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "82844dfcd16c5d221d9eab0686cb95306fe27e856aabd03517116ea50bbe1135",
+        "line_text": "| G04 — Hina crisis causality, accountability and ordinary contrast | OPEN: Suzumi's protection and uncertainty cannot repair another person's causal or accountability record. |"
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "5b00c7f5445b07724d8d0d0e9b120358088556172ed336ffedd31e9a65ecf9bf",
+        "line_text": "| G05 — Arius and PS68 ordinary/aftermath transfer | OPEN: a corrected Love operation and meal reward do not prove Arius/PS68 aftermath repair or interchangeable authority. |"
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "b108e7093804f112d7f97905fad2b3235ac34e99da3323871e9b30cca91f14e0",
+        "line_text": "| G06 — Cross-school ordinary repertoire | OPEN: particular park, fiction and work comparisons preserve different people; all unreceived cross-school lives remain outside this character's completeness. |"
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 172,
+        "line_sha256": "4a86e060b4bc6abdff162fb6e22d620279271cd7c3a4d8b96d1d68aa251799ab",
+        "line_text": "| G07 — Story-world chronology | OPEN: explicit recalls and local event flashbacks/reunion order are received; variant, release, holiday and source IDs do not supply a global calendar or exact MAIN placement. |"
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 173,
+        "line_sha256": "ca739c07534f8d6cc0ea5796a04a5d357ac6a370295ca352fe1e8efe117d7754",
+        "line_text": "| G08 — Event naming and repeat contexts | OPEN: literal851 costume/shop/card contexts and story routes retain their own modes; repeated success language is not multiple events or new title certification. |"
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 174,
+        "line_sha256": "b1b76b7c19e5493e9e05e23850a22aea8bb7fbffac71081126ea02779ddc419b",
+        "line_text": "| G09 — Written speaker/choice attribution | OPEN: specific Event851 self-address, Love-style and inward/heard seams remain literal; collective action does not repair exact tying, command or turn attribution. |"
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 175,
+        "line_sha256": "deb396a10f0478632bcfdee86e1eb45e87c76bbb231e690d1b97fcbe27b1d3a6",
+        "line_text": "| G10 — Performed voice | OPEN: Japanese written lines, Korean log labels, timing and recorded-image references supply no received acting, sound or audiovisual realization. |"
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 176,
+        "line_sha256": "1d1ab585fd1530daaa0458783b7d19e251eba8317b479c1fde238f5f03f09143",
+        "line_text": "| G11 — Hoshino's Yume record and office states | OPEN: no record, death authentication or office continuity is supplied by this synthesis or its quiet protective comparisons. |"
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 177,
+        "line_sha256": "743890f018d4c5b4dc679faf18792bf417c8e7e7828fa1f21076851907c8f794",
+        "line_text": "| G12 — Counterpart, system and variant identity | OPEN: literalSuzumi variants and costume binding are retained; show roles and other anonymous people are not new identities or universal continuity proofs. |"
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 178,
+        "line_sha256": "e9510c9c56126cef842c7f47e77845bae74004149b641449cbd5d438d9a34784",
+        "line_text": "| G13 — Office, contract, safety and technical outcomes | OPEN: no charter, clinical force result, completed video deletion, technical pin protocol, paid bounty, restitution, library-material permission or enacted council ordinance is shown beyond the stated local stages. |"
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 179,
+        "line_sha256": "77e4e5dc32390f56546cf3cfeb1733e59e4101ed088a5dedf047cd6ea731dab4",
+        "line_text": "| G14 — Unclassified/mode continuity | OPEN: inner/log/choice/profile/UI/special/flashback/report modes remain distinct; public applause and conditional scripts cannot become unanimous consent or a continuous life chronology. |"
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: phase3_character_monograph"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          9,
+          9
+        ],
+        "canonical_lines": [
+          9,
+          9
+        ],
+        "frozen_text": [
+          "status: author_complete_boundary_root_review_pending"
+        ],
+        "canonical_text": [
+          "historical_author_status: author_complete_boundary_root_review_pending"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          13,
+          14
+        ],
+        "canonical_lines": [
+          13,
+          14
+        ],
+        "frozen_text": [
+          "root_acceptance: PENDING",
+          "canonical_adoption: PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_root_acceptance: PENDING",
+          "historical_author_canonical_adoption: PENDING"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          16,
+          15
+        ],
+        "canonical_lines": [
+          16,
+          23
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SUZUMI_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUZUMI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: cf2fba61c9e8448acdd2677f06d5258c051a6ba4"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          20,
+          20
+        ],
+        "canonical_lines": [
+          28,
+          30
+        ],
+        "frozen_text": [
+          "The required home P3-CHAR-SUZUMI joins the literal 守月スズミ / BA_PERSON_SUZUMI family, variants16003 and10129 and the received costume context1900945001:character10129. Its eligibility is already accepted; that allocation supplies neither a completed argument nor a release-order development ladder. This synthesis joins her complete admitted selected private and written repertoire to the consequential complete Event851 argument, retaining recipients, pleasure, mistaken judgments and unfinished consequences. ROOT's independent receiving and canonical adoption remain pending. [P:identity and selected sources, L308–363](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [Selected required home](../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json)"
+        ],
+        "canonical_text": [
+          "**Current receiving and publication boundary.** ROOT independently accepted this complete bounded character argument WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SUZUMI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual author/ROOT source scopes and historical controls. The [saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SUZUMI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves every frozen original line and exact byte tuple with a complete inverse. Earlier author pending, local-candidate and next-work wording remains creation-time provenance where retained. The predecessor63-package source at `cf2fba61c9e8448acdd2677f06d5258c051a6ba4` has a successful exact audit chain; this successor supplies persistence only after complete ROOT installation. Publication and main integration remain separate. This fixed ten-package64–73 batch has eight character and two directed arguments; it reaches73 packages (70 character,3 directed) only after that installation. Later live ROOT reviews are outside this snapshot. Scope355/29 and18 section-home allocations, the existing1 named-section completion, all14 original OPEN gaps and model0 remain unchanged; no quarter is reached. Reference translations are navigation/provenance transformations and add no primary, performance, independent literary or scope credit.",
+          "",
+          "The required home P3-CHAR-SUZUMI joins the literal 守月スズミ / BA_PERSON_SUZUMI family, variants16003 and10129 and the received costume context1900945001:character10129. Its eligibility is already accepted; that allocation supplies neither a completed argument nor a release-order development ladder. This synthesis joins her complete admitted selected private and written repertoire to the consequential complete Event851 argument, retaining recipients, pleasure, mistaken judgments and unfinished consequences. ROOT has independently received and accepted this bounded argument WITH LIMITS; canonical persistence begins only with complete ROOT installation. [P:identity and selected sources, L308–363](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md) [Selected required home](../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json)"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          152,
+          152
+        ],
+        "canonical_lines": [
+          162,
+          162
+        ],
+        "frozen_text": [
+          "Eleven substantial dimensions are joined at this bounded author scope; separate directed relationship and institution duties remain required, and ROOT's independent review and canonical adoption remain pending. Architecture1.12 and method1.10 govern; the unchanged literary source meanings at captured5f and analytical main2e are distinguished from mutable completion metadata. No model, forecast, new source admission, independent-author credit, denominator change, named-section completion or quarter is asserted. The fourteen original stable gaps retain their literal names and claim-specific OPEN effects below. [Architecture7.1](../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md) [Method](../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md) [Original gaps](../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md) [355/29 required scope, allocation not completion](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json)"
+        ],
+        "canonical_text": [
+          "Eleven substantial dimensions are joined at this bounded author scope; separate directed relationship and institution duties remain required, and ROOT has independently received and accepted this bounded argument WITH LIMITS; canonical persistence begins only with complete ROOT installation. Architecture1.12 and method1.10 govern; the unchanged literary source meanings at captured5f and analytical main2e are distinguished from mutable completion metadata. No model, forecast, new source admission, independent-author credit, denominator change, named-section completion or quarter is asserted. The fourteen original stable gaps retain their literal names and claim-specific OPEN effects below. [Architecture7.1](../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md) [Method](../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md) [Original gaps](../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md) [355/29 required scope, allocation not completion](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json)"
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "reference_navigation_translations": [],
+  "original_full_author_and_root_transports": [
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/BLUE_ARCHIVE_SUZUMI_CHARACTER_MONOGRAPH.md",
+      "bytes": 56964,
+      "sha256": "454b63fa52c1efa31f9bd209603dc14b447f40ee69045d41ca7394e0be0ccc82",
+      "git_blob_oid_of_actual_bytes": "c906897b3ecd4fbb75f015851435cf07c320344c",
+      "lines": 169,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/BLUE_ARCHIVE_SUZUMI_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SUZUMI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 29682,
+      "sha256": "08824d42739b9edb6b4072597671590bcfc6611d05ce1b370b6bc8e2b3aa7041",
+      "git_blob_oid_of_actual_bytes": "b099c40c789b1a2cf5514d4485b2ef8ea40200ae",
+      "lines": 611,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SUZUMI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+    },
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SUZUMI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+      "bytes": 6730,
+      "sha256": "83d2d0a1bca7f9b28726ed9745da4313e393f19b436b1e148174c88e84843415",
+      "git_blob_oid_of_actual_bytes": "85dfc29271ea8eea5cd84613dcebc659e350e8d6",
+      "lines": 185,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SUZUMI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+    },
+    {
+      "path": "ROOT_SUZUMI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5107,
+      "sha256": "f9b8460700a2131a6b99f10acfb987716a457e1df27e1aeffabd86f21677e888",
+      "git_blob_oid_of_actual_bytes": "e0a59330dd285ec6e29d5cbd4a26ff92ce51c790",
+      "lines": 92,
+      "immutable_transport_path": "immutable_originals/ROOT_SUZUMI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SUZUMI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 119246,
+      "sha256": "395916434ef9f8c638e79779a8511b314f6800845a25c0c02d6d601460acc532",
+      "git_blob_oid_of_actual_bytes": "cddef9e0e83f4669c46f192f99b1264b88e0b667",
+      "lines": 1165,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SUZUMI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+    },
+    {
+      "path": "TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SUZUMI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 32782,
+      "sha256": "bde20d1e088ed11942560642800f981026fdde52b6695fd6ec907d28e890bcac",
+      "git_blob_oid_of_actual_bytes": "5977499d3684e4581d4e18772f3b7e3f682dd166",
+      "lines": 508,
+      "immutable_transport_path": "immutable_originals/TRINITY_VIGILANCE_LIBRARY_MONOGRAPHS/SUZUMI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json"
+    }
+  ],
+  "substantive_literary_change": 0,
+  "new_primary_performance_independent_model_or_count_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

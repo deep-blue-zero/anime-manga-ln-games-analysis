@@ -1,0 +1,2868 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_INPUT_AND_AUTHOR_SCOPE_RECEIPT_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Akane",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "MILLENNIUM_CNC_SEMINAR_MONOGRAPHS/AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+    "bytes": 30263,
+    "sha256": "557c5d639d971d8b804853ca6129e9285f70e768028f47184068f244b0f6d11d",
+    "git_blob_oid_of_actual_bytes": "4f4ff885754a944e4e26d165600a8c3a3dce1461",
+    "lines": 526
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_PHASE3_AKANE_SOURCE_AND_AUTHOR_SCOPE_V1",
+    "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_RECEIVING_PENDING",
+    "created": "2026-10-10",
+    "package": "P3-CHAR-AKANE",
+    "candidate": "P3-F002",
+    "dated_route": "P3-A076",
+    "literal_identity": "BA_PERSON_AKANE",
+    "variant_routes": [
+      "13000",
+      "20019",
+      "20057"
+    ],
+    "main_comparator": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "declared_source_snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+    "HEAD_at_binding": "1dc2092095ed74ee743971f1f274b30cb291d939",
+    "root_worktree_distinction": "Only enumerated small sources verified; current ROOT candidate/acceptance/355 metadata distinct, excluded from source equality. c1/main2e/DC5 historical comparands not current acceptance count.",
+    "modern_source_pin": {
+      "repository": "electricgoat/ba-data@jp",
+      "commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "generation": "BA_REFRESH_20260928T032248159554Z",
+      "parser": "0.2.0",
+      "historical_eden_checkpoint_witnesses": "Historical cbe3fd source pin retained by owners, not silently recertified by this author"
+    },
+    "original_producer_provenance": "Accepted small analytical owners retain their own historical source pins. Current byte equality does not recertify all producer fields against the modern pin.",
+    "inputs": [
+      {
+        "source_id": "C01",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "byte_count": 52261,
+        "line_count": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "worktree_content_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "declared_c1_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "main_blob_oid": "685661b716fd0032997883efeb294425b0816c18",
+        "main_sha256": "e5e0c9794fdb9664a61110eb002afc75011b75e49ab5965ad8808231455cd7cd",
+        "main_byte_count": 51287,
+        "same_c1": true,
+        "same_main": false,
+        "inspected_scope": "319–344 exact eleven-section mature character monograph architecture",
+        "receiving_records": [
+          "17488f",
+          "e06654",
+          "2c2f81"
+        ],
+        "custody_credit": "CONTROL_SCOPE_RECEIVING",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "C02",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+        "byte_count": 53414,
+        "line_count": 840,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+        "worktree_content_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "declared_c1_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "main_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "main_sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+        "main_byte_count": 53414,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "327–379,485–509,606–639 relevant complete-story, audience/choice, comparison and counterreading requirements",
+        "receiving_records": [
+          "85dec8"
+        ],
+        "custody_credit": "CONTROL_SCOPE_RECEIVING",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "C03",
+        "repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+        "byte_count": 79178,
+        "line_count": 354,
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+        "worktree_content_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "declared_c1_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "main_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "main_sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+        "main_byte_count": 79178,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "31–44 all 14 literal gap registrations and OPEN boundaries; G13–14 recovered separately",
+        "receiving_records": [
+          "757011",
+          "f0f49c",
+          "2c2f81"
+        ],
+        "custody_credit": "CONTROL_SCOPE_RECEIVING",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "C04",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+        "byte_count": 19463,
+        "line_count": 113,
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+        "worktree_content_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "declared_c1_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "main_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "main_sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+        "main_byte_count": 19463,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Previously received complete current Cycle008 argument 113 lines; current 3940 contextual admission supersedes producer pending intake without adding primary credit",
+        "receiving_records": [
+          "Frozen Trinity V1 complete control receipt"
+        ],
+        "custody_credit": "CONTROL_SCOPE_REUSE",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "A01",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_AKANE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "byte_count": 38329,
+        "line_count": 349,
+        "sha256": "af7b37302d664a2acd1286e594fe48e711dce1618269a70c130be67481aaf3d6",
+        "worktree_content_blob_oid": "7770d1ce3fca3d5f1923117027810b79626b03e5",
+        "declared_c1_blob_oid": "7770d1ce3fca3d5f1923117027810b79626b03e5",
+        "main_blob_oid": "7770d1ce3fca3d5f1923117027810b79626b03e5",
+        "main_sha256": "af7b37302d664a2acd1286e594fe48e711dce1618269a70c130be67481aaf3d6",
+        "main_byte_count": 38329,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Complete declared substantive private scope197–349EOF, personally received earlier at54ef4a and freshly atae03a6(197–274)/1fe09c(275–349EOF). All fourteen BOND/whole-MomoTalk pairs and four written objects:13000:002/003/005/006/008/009;20019:002/003/005/006;20057:002/003/005/006; three profile/context objects and1900953001:20057 costume. Complete ordinary wishes, actual and failed endings, all-day workload/early-departure/study-preparation codas, alternative and unnamed-action bounds retained. Historical primary/producer control credit attributed; front197–199 currentCycle008 supersedes pending states. Whole metadata arrays1–196 not claimed fresh literary receiving.",
+        "receiving_records": [
+          "54ef4a",
+          "ae03a6",
+          "1fe09c"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_DECLARED_PRIVATE_ARGUMENT_SCOPE",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "G12",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1201_1203_DEEP_READING.md",
+        "byte_count": 28415,
+        "line_count": 172,
+        "sha256": "7878d5a7517dfad383ffd92f175d48f4ce5052afc332956122f396dc6209b32a",
+        "worktree_content_blob_oid": "8d0422d805814d9148746b4c2f2ad9ab606b7038",
+        "declared_c1_blob_oid": "8d0422d805814d9148746b4c2f2ad9ab606b7038",
+        "main_blob_oid": "8d0422d805814d9148746b4c2f2ad9ab606b7038",
+        "main_sha256": "7878d5a7517dfad383ffd92f175d48f4ce5052afc332956122f396dc6209b32a",
+        "main_byte_count": 28415,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole172-line three-group analytical argument atf2f1eb, including complete endings/contraries/seams.1202 states Akane internal absence-delegation rule, Karin report of prior signing, Asuna acknowledgment and Neru refusal. Historical producer wording formalvalidity is qualified: no shown instrument/legalvalidity/freeNeruassent. Actual1203 jacket accommodation/hair permission, cost/invoice, report of earnings, unacted threatened refusal retained.",
+        "receiving_records": [
+          "f2f1eb"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_GROUP_ARGUMENT_WITH_PRECISE_SIGNING_QUALIFICATION",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "G31",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+        "byte_count": 40956,
+        "line_count": 226,
+        "sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6",
+        "worktree_content_blob_oid": "5bcbef776c36b70da61c168eebbc861ddda01cb6",
+        "declared_c1_blob_oid": "5bcbef776c36b70da61c168eebbc861ddda01cb6",
+        "main_blob_oid": "5bcbef776c36b70da61c168eebbc861ddda01cb6",
+        "main_sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6",
+        "main_byte_count": 40956,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole226-line three-group argument atcef870(1–115)/eb5247(116–226EOF). Akane3101u25–46 explicitly student initiative distinct from mission-fundedC&C, compressed hot gas identified as existing flamethrower and noveltyfunding refused; no devicefiring/clinical or engineering safety audit. Noa/Yuuka/Himari/Chihiro agency and genericrole/control seams retained.",
+        "receiving_records": [
+          "cef870",
+          "eb5247"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_GROUP_ANALYTICAL_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "M02",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "byte_count": 33564,
+        "line_count": 257,
+        "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+        "worktree_content_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+        "declared_c1_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+        "main_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+        "main_sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+        "main_byte_count": 33564,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole257-line contextual argument27fd0c(1–135)/971197(136–257EOF), with all relevant public/private comparisons and original source-status/provenance bounds. Whole arc mean argument is not primary replay, familycounts not new admissions; modernCycle008 supersedes earlier queue statements. No borrowing peers feats or automatic eventchronology.",
+        "receiving_records": [
+          "27fd0c",
+          "971197"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_PAVANE_CONTEXTUAL_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "M21",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md",
+        "byte_count": 23039,
+        "line_count": 137,
+        "sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+        "worktree_content_blob_oid": "4328e26cd55fbdb65935615c27e85154f7c6867a",
+        "declared_c1_blob_oid": "4328e26cd55fbdb65935615c27e85154f7c6867a",
+        "main_blob_oid": "4328e26cd55fbdb65935615c27e85154f7c6867a",
+        "main_sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+        "main_byte_count": 23039,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole137-line checkpoint at0aa121. Genuine C&C assignment, Alice detaineddecoy and coalition tacticalforecast failures, Karin fire/Akaneescape/Asunaintervention/Yuukareserves, withdrawal/report, Nerutest, repaired-body appraisal/accident report and temporaryprize outcomes retained. Historicalcbe3fd producerpin not recertifiedmodern primary; no licensed detention/noharm/fulllegalrepair invented.",
+        "receiving_records": [
+          "0aa121"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_PAVANE_C001_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "M22",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+        "byte_count": 22309,
+        "line_count": 125,
+        "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+        "worktree_content_blob_oid": "edc03f8b5d5c71d7c4914187845a20b6e0941376",
+        "declared_c1_blob_oid": "edc03f8b5d5c71d7c4914187845a20b6e0941376",
+        "main_blob_oid": "edc03f8b5d5c71d7c4914187845a20b6e0941376",
+        "main_sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+        "main_byte_count": 22309,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole125-line checkpoint300ee6. Distributed12–25 coalitionauthors, elevator21 enactment and exactAkane correction ofRio soleSenseiattribution atphysicalL44 freshly verified4808c7, consequential sourcefirewall79–103 at8e9651. Alice socialreturn/Nerudischarge/Toki uneasytolerance/Rio resignationapologydisappearance distinct from clearedcombat/fullforgiveness/accountability. Historicalcbe3fd producerpin retained, no newprimary technicaloutcomeproof.",
+        "receiving_records": [
+          "300ee6",
+          "8e9651",
+          "4808c7"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_PAVANE_C002_ARGUMENT",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "E06",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 40613,
+        "line_count": 230,
+        "sha256": "a79b9d10a02fc32e3a2b6aed115e9b0e5cbba92eee4d118ef41c1c42c28a6b82",
+        "worktree_content_blob_oid": "ccc7f310da572e77d3411dba7ca445fe6abb8646",
+        "declared_c1_blob_oid": "ccc7f310da572e77d3411dba7ca445fe6abb8646",
+        "main_blob_oid": "ccc7f310da572e77d3411dba7ca445fe6abb8646",
+        "main_sha256": "a79b9d10a02fc32e3a2b6aed115e9b0e5cbba92eee4d118ef41c1c42c28a6b82",
+        "main_byte_count": 40613,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole230-line historicalaccepted checkpoint received50de7d(1–100)/0a980e(101–230EOF). All11 literary meanings, relativechronology, fifteenactor contrasts, localroles, alternatives and fullendings received. Producerdraft_noncurrent/pendingheaders qualify throughE06Ccurrentowner/Cycle008; not standaloneadmission or newprimary/raw/performance/independent credit. C4failure/admission, changingroomprivacy, resistedcaptive/peerintervention, reportedcustody/unprintedrescue and missinguniforms retained.",
+        "receiving_records": [
+          "50de7d",
+          "0a980e"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_HISTORICAL_ANALYTICAL_ARGUMENT_PAIRED_CURRENT_OWNER",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "E06C",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "byte_count": 16448,
+        "line_count": 103,
+        "sha256": "187b924e3c750ba582de81a751ba5bd45d99e7b30d78cac38e33f80cb0ab5091",
+        "worktree_content_blob_oid": "f3884e23561ec74f020ae5d6f9cfbd8e9cd50465",
+        "declared_c1_blob_oid": "f3884e23561ec74f020ae5d6f9cfbd8e9cd50465",
+        "main_blob_oid": "f3884e23561ec74f020ae5d6f9cfbd8e9cd50465",
+        "main_sha256": "187b924e3c750ba582de81a751ba5bd45d99e7b30d78cac38e33f80cb0ab5091",
+        "main_byte_count": 16448,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole103-line current maintained eleven-object comparative owner throughEOF at50de7d. CurrentCycle008 adoptedWITHLIMITS front governs inheritedproducerpendingstates. Whole coherent progression/contraries/actorseams/endings, all14OPEN; no newprimary/independence or legal/medical custody outcome.",
+        "receiving_records": [
+          "50de7d"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_CURRENT_SHIP_ANALYTICAL_OWNER",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "L65",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_065_80000065_DEEP_READING.md",
+        "byte_count": 7806,
+        "line_count": 73,
+        "sha256": "d89f9234aaf4c6281ed15a1ba437fbd5452844be7c62ac20dcf9af21e5403c41",
+        "worktree_content_blob_oid": "596261c4b8b769ae58ac6b5ed6e9401ef8c3d73c",
+        "declared_c1_blob_oid": "596261c4b8b769ae58ac6b5ed6e9401ef8c3d73c",
+        "main_blob_oid": "596261c4b8b769ae58ac6b5ed6e9401ef8c3d73c",
+        "main_sha256": "d89f9234aaf4c6281ed15a1ba437fbd5452844be7c62ac20dcf9af21e5403c41",
+        "main_byte_count": 7806,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole73-line gift065 accepted literary argument50de7d, including all32 units/threegroups attributed sourceinspection, complete appended source/locale bounds. Craftliking/confirmedhandmade, deniesbombtoday/reportedusualcarriage/proposedfuture restraint, selectedstudentteacherframe and actual shared eating/eleganttime/localtaste retained. Historicaldraft_noncurrent pendingheaders are pairedCycle008 authority/currentassignedcontext; no standalonecurrentadmission/newprimary/rawindependence/performance.",
+        "receiving_records": [
+          "50de7d"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_HISTORICAL_GIFT_ARGUMENT_QUALIFIED_BY_CYCLE008",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "E10C",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 211962,
+        "line_count": 1501,
+        "sha256": "880f77f0a0027aabe86b4fcc556e93a96c8e2c7320ae857162aac010a771343e",
+        "worktree_content_blob_oid": "c2777a962c37b5aad4f595e61ab057dbb227f386",
+        "declared_c1_blob_oid": "c2777a962c37b5aad4f595e61ab057dbb227f386",
+        "main_blob_oid": "c2777a962c37b5aad4f595e61ab057dbb227f386",
+        "main_sha256": "880f77f0a0027aabe86b4fcc556e93a96c8e2c7320ae857162aac010a771343e",
+        "main_byte_count": 211962,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Bounded personally received context1–42,111–118,668–675 at8e9651: exact065rowL115/raw80000065 and specific craft/bombanxiety meaningL672, source suffix/choice/provenance/history controls. Historicaldraft_noncurrent qualifiedCycle008; no whole102-objectcheckpoint, wholeliteralannex or freshothergift credit.",
+        "receiving_records": [
+          "8e9651"
+        ],
+        "custody_credit": "SCOPED_GIFT_CONTEXT_ARGUMENT_AND_ROUTING_ONLY",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "E25",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_825/BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 37786,
+        "line_count": 169,
+        "sha256": "0a04a3d7913d5ff800cf97c6d3581b38999b16f05f569978eecae8b391b1c9f9",
+        "worktree_content_blob_oid": "d42104a33d911bddec431a94c5c030e2834f2e7d",
+        "declared_c1_blob_oid": "d42104a33d911bddec431a94c5c030e2834f2e7d",
+        "main_blob_oid": "d42104a33d911bddec431a94c5c030e2834f2e7d",
+        "main_sha256": "0a04a3d7913d5ff800cf97c6d3581b38999b16f05f569978eecae8b391b1c9f9",
+        "main_byte_count": 37786,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Fresh whole169-line sixteen-object currentaccepted argument641dfb(1–85)/bd66dd(86–169EOF). Used only independentpeer/institution comparison: Toki friendshipchoice, Neru praise/apology/suspects/evidence report with futureValkyrie transfer, GDDwork and actuallateplay, Akiraescape/crownreturns/fees lost. No directAkaneact from sharedclub/namecoverage; no conviction/fullrepair/purchasedfuturegame invented.",
+        "receiving_records": [
+          "641dfb",
+          "bd66dd"
+        ],
+        "custody_credit": "PERSONALLY_COMPLETE_EVENT_ARGUMENT_PEER_CONTEXT_ONLY",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      },
+      {
+        "source_id": "F00",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "byte_count": 49292,
+        "line_count": 452,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "worktree_content_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+        "declared_c1_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+        "main_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+        "main_sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "main_byte_count": 49292,
+        "same_c1": true,
+        "same_main": true,
+        "inspected_scope": "Previously personally complete Final accepted argument reused atfirstTrinitytrio scope. FreshboundedAkane query2c2f81 recovers actual ordinary contributor comparisonL227–231/L335: chosen service/pleasures/errors/refusals/unequal labor qualifies rescue roster, no newpositiveAkaneFinalact or exhaustiveabsence from routing. Tokiwork/Rio criticism not adopted as Akaneachievement.",
+        "receiving_records": [
+          "Frozen first Trinity trio complete Final receiving",
+          "2c2f81"
+        ],
+        "custody_credit": "PRIOR_COMPLETE_ANALYTICAL_ARGUMENT_WITH_FRESH_BOUNDED_AKANE_COMPARISON",
+        "whole_byte_binding_is_not_whole_receiving": true,
+        "original_primary_credit": 0,
+        "performed_credit": 0,
+        "independent_review_credit": 0
+      }
+    ],
+    "historical_scope_control": {
+      "artifact_relative_path": "ROOT_FULL_CAST_REQUIRED_HOME_PARTITION_ACCEPTED_V2.json",
+      "byte_count": 364114,
+      "sha256": "0321499803aa4c9f19c5cd8a70fd92558e83636c400dc36afb3015262ad98fe0",
+      "content_blob_oid": "61e8e7e4a9b689de31226b64a4816d8a76c8efa8",
+      "inspected_scope": "Historical accepted scope/summary and exact Akane/Neru/Noa homes only, records467366/17a19b; not whole fullcast semantic receiving",
+      "exact_selected_home": {
+        "home_key": "P3-CHAR-AKANE",
+        "kind": "CHARACTER",
+        "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+        "source_responsibility_refs": [
+          "P3-F002"
+        ],
+        "literary_rationale": [
+          "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+        ],
+        "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+        "counts_as_completed": false,
+        "proposed_denominator_entry": true
+      },
+      "current_ROOT_scope_note": "ROOT later requiresN355/29mandatorysections, unchangedAkanehome. Historical353/26bytes frozen; successor not yet used as wholecurrentauthority. No author Nfreeze/milestoneclaim."
+    },
+    "author_review": {
+      "body": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+      "whole_saved_readback": "c33ee4 saved1–84;fb82e1 saved85–140EOF",
+      "literary_verdict": "AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS",
+      "distinct_thesis": "Chosenservice makes company hospitable but usefulanswers and appreciative recipients do not settle identity, consent or appropriate means. Sincereordinary tastes coexist with unknownself, peeragency, force/error and finite achieved/failed wants.",
+      "ordinary_wants": "Tea/confectionerycraft/sharedsweets, wantedearlyconversation/firstwaking-returnface/outfitrecognition, learningbearing, actualclassmatefood/arcade/singing, writing/homework/cake/furniture/coldbirthdaycompany retained intrinsically.",
+      "rivals": "Perfectservant/emptyself, linearcostumecure, universallygentle/timelesscruel, adultcreatedliberation/allcarefailed, totalsuccess/failureinstitution confronted by concrete positiveandcontrary endings.",
+      "recipient_and_endpoint_scope": "Actualcleaning/overnightpaperwork/classmateouting/sharedsweets/elevatorvictory/peerinterruption; earlytalkfails/cafépurposemisread/outfitanswerunmet/earlydeparture/selfknowledgeunresolved. RealC4exposure/cost/hostagerisk/fearedbombending. Signature/internalrule/custody/clinicalharm/compensation/uniformreturn/lastingreform remainunproved.",
+      "signature_precision": "Akane internalrule; Karin report of prior signing; Asuna acknowledgment; Neru refusal. No showninstrument/legalvalidity/freeassent.",
+      "historical_gift_and_ship": "Fullhistorical literary arguments paired currentE06C/Cycle008 and exactgift065 context; do not independentlyadmit or recertify producerfields/primary/independence/performance.",
+      "ROOT_literary_receiving": "PENDING",
+      "ROOT_adoption": "PENDING",
+      "independent": false
+    },
+    "all_fourteen_gaps": [
+      {
+        "id": "G01",
+        "state": "OPEN",
+        "claim_specific_effect": "Fourteen private pairs and four written objects broaden ordinary breadth; lasting selfknowledge and all released contexts not universally certified, craft/tea/outing value intrinsic"
+      },
+      {
+        "id": "G02",
+        "state": "OPEN",
+        "claim_specific_effect": "Yuuka requested work/refused novelty and reported earnings do not complete her independent council/private decision-transfer duty"
+      },
+      {
+        "id": "G03",
+        "state": "OPEN",
+        "claim_specific_effect": "Akane service/reciprocity not transfer proof for Serika independent customer/private repertoire"
+      },
+      {
+        "id": "G04",
+        "state": "OPEN",
+        "claim_specific_effect": "Akane local force/intervention not Hina crisis accountability or ordinary-duty completion"
+      },
+      {
+        "id": "G05",
+        "state": "OPEN",
+        "claim_specific_effect": "Millennium rescue/group contexts do not supply Arius or PS68 ordinary/aftermath repair"
+      },
+      {
+        "id": "G06",
+        "state": "OPEN",
+        "claim_specific_effect": "Classmates/peer/captive actualresponses not universal cross-school relation or permanent friendship; ordinary own wishes preserved"
+      },
+      {
+        "id": "G07",
+        "state": "OPEN",
+        "claim_specific_effect": "Local hourly/week/event/variant/private sequence not absoluteMAINcalendar orfixedgrowth ladder"
+      },
+      {
+        "id": "G08",
+        "state": "OPEN",
+        "claim_specific_effect": "Missing overarchingevent titles and costume843/10843 repeat contexts retained; suffixgiftIDs not merged"
+      },
+      {
+        "id": "G09",
+        "state": "OPEN",
+        "claim_specific_effect": "Alternative replies/inward/narration/unnamedact andexactship/groupactorseams retain differentclaims; no personality-based repair"
+      },
+      {
+        "id": "G10",
+        "state": "OPEN",
+        "claim_specific_effect": "No performedvoice/pitch/audio/video/dressingpixels/music/physicalunnamedgesture inspected"
+      },
+      {
+        "id": "G11",
+        "state": "OPEN",
+        "claim_specific_effect": "No HoshinoYume notebook/death provenance/lasting stabilization closure"
+      },
+      {
+        "id": "G12",
+        "state": "OPEN",
+        "claim_specific_effect": "PersonlinkedAkane variants not newpersons; uniformquotedalias unjoined andblankshipvariantfields/localroles notforcedidentity"
+      },
+      {
+        "id": "G13",
+        "state": "OPEN",
+        "claim_specific_effect": "Internaldelegationreport/signingack not instrument/legalvalidity/freeNeruassent; costnotpaidrepair, survivalnotmedicalaudit/custody, captiveharm anduniforms/hostagerelease/rescue/lastingreform unprinted"
+      },
+      {
+        "id": "G14",
+        "state": "OPEN",
+        "claim_specific_effect": "Writtenjokes/servicecontext/punishmentrequest/birthdays/costumechannels/future restraint/selfreport remain their actual modes, no universalperformeddefault"
+      }
+    ],
+    "scope_recovery": "Freshwhole accepted ordinary/private scope and publicmeans/endings, consequentialfullshipmeaning/gift065; completeadequateMAIN/group/peer analytical owners, no ritualprimary replay.",
+    "original_primary_credit_added": 0,
+    "performed_credit": 0,
+    "independent_review_credit": 0,
+    "unbound_large_reads_or_hashes": 0,
+    "repository_or_global_writes": 0,
+    "N_frozen_by_author": false,
+    "quarter_claimed": false,
+    "external_handoff": false
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "current_required_home": "P3-CHAR-AKANE",
+  "root_exact_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AKANE_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "historical_author_delivery_attachments": {
+    "AKANE_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json": {
+      "schema": "BLUE_ARCHIVE_PHASE3_AKANE_CLAIM_AND_ENDPOINT_V1",
+      "status": "AUTHOR_VERIFIED_ROOT_RECEIVING_PENDING",
+      "claims": [
+        {
+          "claim_id": "AK01",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 20,
+          "joined_saved_paragraph": "Akane makes service into a way of choosing company and presenting herself, but neither successful work nor an appreciative recipient settles who she is. Her strongest continuity is the effort to make a relation hospitable: cleaning a room, preparing tea, helping a teammate dress, giving handmade sweets, trying a classmate invitation, or asking to be seen beyond an assigned usefulness. That effort has its own pleasures. It also has costs, misunderstandings, failed desired endings and forceful methods. Polished courtesy can coexist with consequential demolition, an unfulfilled conversation, or a recipient whose ability to decline is restricted. A mature account therefore asks what she wanted, whom her action answered, what they could answer back, and what actually happened. [A01:13000/20019/20057; G12; E06; L65]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "all14pairs/4written197–349",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "G12",
+              "accepted_argument_locator": "allthreegroups",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "all11",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "L65",
+              "accepted_argument_locator": "whole065",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Chosenservice not perfectusefulness/consent/settledidentity",
+          "directed_recipients_and_agency": "Akane hospitality and distinct recipients replies/costs",
+          "actual_endpoint_and_unfinished_coda": "Actual usefulwork/pleasure with force/failedwants/uncertainty",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK02",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 22,
+          "joined_saved_paragraph": "This is a continuity of questions, rather than a single transition from perfect servant to authentic student. In the uniform private sequence, she corrects the adult's assumption that a true self is waiting to be revealed: she fears others discovering that she does not know herself. That disclosure makes earlier adaptive behavior legible without converting every earlier smile into a lie. She has already enjoyed cleaning, praise, tea, company and making sweets. She can sincerely like the things she does while remaining unsure how to recognize a self apart from other people's expectations. The classmates who welcome her glasses and permit her to give no explanation supply a relation that is not founded on a successful performance of an invented ideal. [A01:20057:003/005; L65:u17–32]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "20057:003/005 wholeMM",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "L65",
+              "accepted_argument_locator": "u17–32",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Unknownself not globalinsincerity or curedessentialself",
+          "directed_recipients_and_agency": "Classmates welcome glasses/noexplanation; Akane discloses uncertainty",
+          "actual_endpoint_and_unfinished_coda": "Actual outing/listening/craft, lasting selfknowledge unproved",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK03",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 24,
+          "joined_saved_paragraph": "Nor does private uncertainty suspend public responsibility. On the ship, a familiar explosive routine breaks a changed brief, and Akane admits getting carried away. In another private operation, opponents end by seeking police protection from her while she reaffirms the use of bombs. These are serious contrary cases to automatic gentleness. Yet on the same ship she and Neru interrupt Karin's absorbed action against a resisting captive. She can identify and stop excess in another person's method while her own familiar methods remain insufficiently examined. The contradiction belongs in the character, rather than being repaired by a universally harmless comedy rule or a timeless cruelty diagnosis. [E06:004–006; A01:20057:006]",
+          "support": [
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "004–006",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "20057:006 wholeMM",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Neither harmlesscomedy nor timeless cruelty; laughter not consent",
+          "directed_recipients_and_agency": "Heldrecipient resists; Akane/Neru interrupt; frightened opponents requestprotection",
+          "actual_endpoint_and_unfinished_coda": "Actualerror/admission/interruption/bombreaffirmation, repair unknown",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK04",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 26,
+          "joined_saved_paragraph": "Her wanted life is consequently more than the avoidance of failure. It includes a freely chosen outing, a quieter early conversation, being the first face someone sees on waking or returning, an outfit properly noticed, learning a different bearing, confectionery craft, and enough proximity to feel company. Some are fulfilled locally; some remain requests or wishes. Their literary value survives whether they advance a mission. They expose the limits of reducing her to either an efficient C&C tool or an adult's desirable maid, and they also prevent the self-knowledge problem from consuming every ordinary satisfaction. [A01:13000:008/009,20019:002/005/006,20057:003/005/written; L65]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "13000:008/009,20019:002/005/006,20057:003/005/written",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "L65",
+              "accepted_argument_locator": "whole065",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Wantedlife not missionutility or everywishfulfilled",
+          "directed_recipients_and_agency": "Akane company/outfit/craft and actualpeerwelcome",
+          "actual_endpoint_and_unfinished_coda": "Some actualpleasures, earlytalk/returns/proximity permanence unfinished",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK05",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 30,
+          "joined_saved_paragraph": "The named base, bunny and uniform routes form a person-linked repertoire, not a verified calendar or growth ladder. The accepted private argument covers fourteen complete BOND/whole-MomoTalk pairs: base002/003/005/006/008/009, bunny002/003/005/006, uniform002/003/005/006. It also covers four written objects, including the uniform-linked costume's two repeated event channels. Local sequence and recollection may support particular comparisons; release dates, costume or episode numbering do not order every experience relative to Pavane, the ship or one another. Development can be discussed where the later action answers a locally preceding difficulty, without silently converting the complete pool into one smooth biography. [A01:197–349; C03:G07/G08/G12]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "197–349 exact14pairs/4written",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "C03",
+              "accepted_argument_locator": "G07/G08/G12",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "No variantcalendar or fixedgrowthladder/sourcecountcompletion",
+          "directed_recipients_and_agency": "Literal personlinkedvariants/modes retain own obligations",
+          "actual_endpoint_and_unfinished_coda": "Local sequence only, globalchronology unresolved",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK06",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 32,
+          "joined_saved_paragraph": "The base material already makes company distinct from usefulness. In005, Akane explains that she chose C&C because she was already a maid; this is her account of affiliation, not evidence of an innate vocation or every peer's motive. During an unsuccessful objective, time with the adult is happy before a chance encounter permits actual mission success. The later success cannot become the sole retrospective reason the company mattered. In002 she chooses to follow and help, enjoys the day, and leaves real ceiling damage and an alarm. In003 actual cleaning follows, but proposed ceiling repair is not completed onscreen. These endings keep participation, practical achievement and residual cost separate from the outset. [A01:13000:002/003/005]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "13000:002/003/005 wholeMM",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Chosenclub account not innatevocation, success not solevalue, repairproposed notdone",
+          "directed_recipients_and_agency": "Her help/company, adult costs andchanceobjective",
+          "actual_endpoint_and_unfinished_coda": "Actualcleaning/mission success, ceilingdamage/alarm and unprintedrepair",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK07",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 34,
+          "joined_saved_paragraph": "The bunny repertoire opens another distinction: she wants an appreciative gaze that does not end at competence. A rare day off contains many wants left unenumerated, and the adult's confusion or social-risk objection can end an encounter without a definitive favorable opinion of the outfit. Cleaning can be largely completed while an unlocked-room visit and a forced either-or outfit question remain relational pressure. A different café lesson yields real quiet handling and pleasure in learning a bearing, although the adult continues to misunderstand the purpose. When she asks to show another side in006, paperwork is actually completed overnight and praise supplies local reassurance; neither proves that her self-judged insufficiency as a maid was objectively true, nor that one productive night resolves a lasting need to be seen. [A01:20019:002/003/005/006]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "20019:002/003/005/006 wholeMM",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Teacherconfusion/pressure persist; selfjudgedinsufficiency not objectiveworthlessness",
+          "directed_recipients_and_agency": "Wantedoutfit/anotherbearing/recognition, adult socialrisk/continuingmisread",
+          "actual_endpoint_and_unfinished_coda": "Actual mostlyclean/learn/overnightpaperwork, understanding/lastingrecognition notfixed",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK08",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 36,
+          "joined_saved_paragraph": "The uniform sequence stages a more explicit search for a position among classmates. A politely refused invitation and the peers' insistence that she is not a nuisance coexist with her feeling a wall. Only when asked about her own feeling does she cautiously name a little loneliness. The adult does not have to prescribe universal sociability for that feeling to be real. The subsequent radio/avatar coaching, contact lenses and name performance do not straightforwardly succeed: peers notice the strain and make room for her glasses and for silence about its cause. She chooses to explain wanting to become closer, and actual food, arcade and singing company is enjoyable. Their independent welcome, rather than the adult's script alone, makes the local outcome possible. [A01:20057:002/003]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "20057:002/003 wholeMM",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "No imposed universal sociability or adultalonecausalcredit",
+          "directed_recipients_and_agency": "Tentative loneliness; classmates notice strain/welcome/noexplanation; sheexplains",
+          "actual_endpoint_and_unfinished_coda": "Actual food/arcade/singing outing, permanentfriendship unprinted",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK09",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 38,
+          "joined_saved_paragraph": "In005, that outward success does not end the inward question. Akane's disclosure that she does not know herself changes the object of inquiry from exposing a hidden essential personality to tolerating uncertainty without losing the possibility of a relation. Listening and thanks are actual; the suggestion that she may have only one confidant is not a global census or an obligation of exclusive dependency. A private-room claim, a narrated inability to refuse a nod, and a quieter classroom alternative preserve an adverse or uneasy permission texture beside gratitude. The sudden unnamed act is not licensed evidence of a specific kiss, hug or object. Even the whole-message tail retains the adult's loneliness at her early departure and her embarrassment. The scene leaves useful trust and unfinished company together. [A01:20057:005 and whole MomoTalk]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "20057:005 wholeMM",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Confidantmaybe not exclusivecensus; unabletorefuse/unnamedact not blanketspecificconsent",
+          "directed_recipients_and_agency": "Her chosen disclosure/thanks; adult andher earlydeparture feelings",
+          "actual_endpoint_and_unfinished_coda": "Actual trust, no namedact/cohabitation/lastingcure",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK10",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 40,
+          "joined_saved_paragraph": "Public comparison adds continuity without supplying a missing date. Pavane uses genuine C&C assignments, collective opposition and distributed authorship rather than revealing a teacher-created team. Akane explicitly corrects Rio's attribution of the students' victory to Sensei alone. The ship supplies a contrary operational error and local admission; the group café supplies financial appraisal and unresolved resistance to permanent conversion; the gift supplies a chosen student-to-teacher frame and shared eating. These contexts answer different questions. None supersedes the actual classmate outing, erases the destructive private ending, or proves a single irreversible passage out of service. [M21:013–020; M22:012–025; E06; G12; L65]",
+          "support": [
+            {
+              "source_id": "M21",
+              "accepted_argument_locator": "013–020",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "M22",
+              "accepted_argument_locator": "012–025 physicalL44",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "004–006/011",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "G12",
+              "accepted_argument_locator": "1203",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "L65",
+              "accepted_argument_locator": "whole065",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Publiccontinuity no date/teachercreation/irreversible serviceexit",
+          "directed_recipients_and_agency": "Distributedstudents authorship affirmed byAkane",
+          "actual_endpoint_and_unfinished_coda": "Actual localvictory/error/gift, accountability/reorganization unclosed",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK11",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 44,
+          "joined_saved_paragraph": "Akane's public politeness is work she can perform well and enjoy. Preparing a disguise, helping with dressing, making an environment welcoming and correcting operative vocabulary are not mere symptoms of a concealed lack of self. They are specific abilities and choices with identifiable recipients. The ship also shows her asking the adult not to stare during changing: courtesy has a boundary, and the accepted argument preserves an actual privacy request rather than treating the joke as surveillance permission. A helpful appearance does not entail limitless access to the helper. [E06:003:u49–77; G12:1203:u43–46; A01:13000:003]",
+          "support": [
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "003u49–77",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "G12",
+              "accepted_argument_locator": "1203u43–46",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "13000:003",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Politeness not lackofself or unlimitedaccess",
+          "directed_recipients_and_agency": "Akane helpfulpreparation and actual privacyrequest",
+          "actual_endpoint_and_unfinished_coda": "Actualhelp/requestrespected, no surveillancepermission",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK12",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 46,
+          "joined_saved_paragraph": "Private service can be chosen, but its direction still matters. In the base008 early-waking scene, Akane wants conversation sooner, while the adult actually goes back to sleep. Being drawn into bed produces surprise, objection and an initial misunderstanding before local warmth and preparation. Her punishment request is not permission for every unrelated contact, and no unnamed sexual act is supplied. In009 welcome, tea and rest are offered as repayment, but all-day adult labor and the whole-message workload complaint keep a recipient's cost visible. Her wish to greet waking and returning is not an established shared home or lifelong daily routine. Hospitable intention and fulfilled mutual availability are different facts. [A01:13000:008/009 including whole messages]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "13000:008/009 wholeMM",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Punishmentrequest not unrelatedcontactpermission; greetingwish not sharedhome",
+          "directed_recipients_and_agency": "Shewants earlytalk/rest/welcome;adultsleep/labor/workload objection",
+          "actual_endpoint_and_unfinished_coda": "Earlytalkfails; localwarmth/prep, lifetimeavailability unprinted",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK13",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 48,
+          "joined_saved_paragraph": "Adaptive self-presentation becomes a difficulty when she cannot locate what she wants apart from what a situation asks. The uniform classmates' welcome provides one response: they notice something strained, accept the familiar glasses, and offer inclusion without demanding a confession. Akane's later explanation is her choice. The self-disclosure to the adult provides another: she names uncertainty rather than accepting the proposed answer of a concealed true self. The difference is consequential. A person can receive recognition from classmates without being solved, and a trusted conversation can matter without establishing that no peer could understand her. [A01:20057:003/005]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "20057:003/005 wholeMM",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Selfdisclosure not peerincapacity or settledessence",
+          "directed_recipients_and_agency": "Classmates independentwelcome; Akane chooses explanation/disclosure",
+          "actual_endpoint_and_unfinished_coda": "Actualoutingenjoyed/listening, selfknowledge unresolved",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK14",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 50,
+          "joined_saved_paragraph": "The strongest opposing evidence to a neat public/private division is ordinary pleasure shared across those settings. A genuine student initiative in GROUP3101 asks for technological-development funds to make carrying cleaning tools less burdensome. Yuuka identifies the proposed compressed-hot-gas device as an existing flamethrower and refuses novelty funding. The rejection does not make the initiative secretly a C&C mission request or erase Akane's curiosity and disappointment. In the gift encounter she expressly likes making sweets, confirms handmade authorship, and chooses to offer them as one student to her teacher. These are positive selves in action, not simply a softer private face underneath a single public role. [G31:3101:u25–46; L65:u17–32]",
+          "support": [
+            {
+              "source_id": "G31",
+              "accepted_argument_locator": "3101u25–46",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "L65",
+              "accepted_argument_locator": "u17–32",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Studentinitiative not missionexpense; device notfired/safetyproof",
+          "directed_recipients_and_agency": "Akane curiosity; Yuuka existingflamethrower refusal; chosen giftframe",
+          "actual_endpoint_and_unfinished_coda": "Fundingrefused, handmade/sharedsweets actual",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK15",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 54,
+          "joined_saved_paragraph": "Her C&C affiliation is both a chosen self-description and a setting in which service, force and accounting conflict. Akane reports choosing the club because she was already a maid, while the accepted public arguments show a security and task-bearing group rather than an ordinary domestic employment contract. GROUP1201 begins with humming and an invitation to clean. Asuna takes joy in dust, Neru objects to spectacle, and Karin's formulation that clearing people is not cleaning keeps the peers' judgments independent. Their machinery and dramatic methods yield costs, promises to improve, and Yuuka's further request for quiet work; a large-invoice coda defeats the accounting standard of that promise. No itemized loss, payment or full restitution is printed. [A01:13000:005; G12:1201:u2–7/47–81]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "13000:005",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "G12",
+              "accepted_argument_locator": "1201u2–7/47–81",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Affiliation not laborcontract; largeinvoice not itemizedpaidrestitution",
+          "directed_recipients_and_agency": "Akane humsinvites; Asuna/Neru/Karin independent cleaning appraisals; Yuukacost",
+          "actual_endpoint_and_unfinished_coda": "Actualwork/promises, invoicecoda defeatsquietcostpromise",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK16",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 56,
+          "joined_saved_paragraph": "GROUP1202 then turns a municipal-festival café request into an internal dispute about commitment. Karin reports prior signing and withdrawal costs, Asuna acknowledges signing, and Akane states an internal absence-delegation rule; Neru refuses. These facts establish a claimed club process and a conflict about being bound while absent. They do not display the instrument, certify legal validity or show Neru's freely given assent. Akane's calm articulation of the rule is consequential institutional conduct, rather than neutral housekeeping simply because she speaks politely. Yuuka's request and uncertain remit likewise do not establish statutory powers. [G12:1202:u20–79]",
+          "support": [
+            {
+              "source_id": "G12",
+              "accepted_argument_locator": "1202u20–79",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "No instrument/legalvalidity/freeNeruassent or statutoryYuukapower",
+          "directed_recipients_and_agency": "Akane statedinternalrule; Karin signingreport;Asunaack;Nerurefusal",
+          "actual_endpoint_and_unfinished_coda": "Disputedcommitment real, legal/permission outcome notsettled",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK17",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 58,
+          "joined_saved_paragraph": "The subsequent café supplies actual practical accommodation. Akane praises and helps arrange Neru's appearance while accepting the jacket boundary and negotiating permission for hair. She corrects slips between operative and customer vocabulary. Asuna opens before preparation is complete. A week later Yuuka reports earnings and thanks the club for coverage, but this is an actor's appraisal rather than audited transfer or paid repair. The proposal to abandon the maid form for permanent, more profitable agent work meets Neru's refusal and threatened reaction at the ending; no later enacted strike or permanent reorganization follows. The institution remains a live disagreement in which Akane can accommodate a person's appearance while defending a disputed process elsewhere. [G12:1203:u1–26/43–59/60–88]",
+          "support": [
+            {
+              "source_id": "G12",
+              "accepted_argument_locator": "1203u1–26/43–59/60–88",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Earningsreport not audit/paidrepair; threatenedstrike notenacted",
+          "directed_recipients_and_agency": "Akane acceptsjacket/negotiateshair; Asunaopens;Yuukaappraisal/Nerurefusal",
+          "actual_endpoint_and_unfinished_coda": "Actual accommodation/café/report, permanentconversion unfinished",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK18",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 60,
+          "joined_saved_paragraph": "Pavane further limits an obedience-only reading. C&C's initial security work is a genuine assignment, yet the coalition can oppose an erroneous attribution and exercise initiative when the assignment changes. The C001 checkpoint preserves tactical forecast failure, Karin's fire, Akane's escape, Asuna's intervention and Yuuka's reserves within a distributed confrontation; it does not make every detention licensed. C002 preserves students' diversion, route-making, hypotheses and enacted countermeasures. Akane's correction of Rio's teacher-only explanation insists on that distributed authorship. Her institutional role can include service, resistance to an account of service, and a claim for peer achievement at the same time. [M21:013–017; M22:012–022]",
+          "support": [
+            {
+              "source_id": "M21",
+              "accepted_argument_locator": "013–017",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "M22",
+              "accepted_argument_locator": "012–022 physicalL44",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Genuineassignment not licenseddetention; peers feats notAkanealone",
+          "directed_recipients_and_agency": "Coalition independent tactics and her correction ofsoleadultauthor",
+          "actual_endpoint_and_unfinished_coda": "Real distributed gains with costs and incomplete accountability",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK19",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 62,
+          "joined_saved_paragraph": "The C&C institution remains a separately required package. This monograph does not complete its contract, assignment, force or fiscal arguments merely by discussing Akane's part in them. Likewise, GROUP3101's student proposal is expressly distinguishable from mission-funded C&C work. The refused invention offers no demonstrated firing, burning, universal incompetence or comprehensive safety test. It is one student's wanted contribution, answered by another student's funding judgment. Treating the refusal as proof that ordinary curiosity is analytically trivial would lose the very institutional distinction the scene makes. [G31:3101:u25–46; accepted scope P3-CHAR-AKANE]",
+          "support": [
+            {
+              "source_id": "G31",
+              "accepted_argument_locator": "3101u25–46",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "G12",
+              "accepted_argument_locator": "allthreegroups",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Charactermention not institutionalpackagecompletion/device safety theorem",
+          "directed_recipients_and_agency": "Studentinitiative separatefrom C&Ctask;Yuuka ownfundingjudgment",
+          "actual_endpoint_and_unfinished_coda": "Refusedfunding, no demonstrated burn/firing or completeC&Cscope",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK20",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 66,
+          "joined_saved_paragraph": "Tea, sweets, cleaning and company are substantive desired objects. In the gift encounter Akane acknowledges the adult's bomb anxiety, apologizes for habitual behavior, denies producing a bomb today and intends restraint around the adult. She also directly confirms making the confectionery and expresses liking for the craft. The handmade object is therefore neither an actual explosive nor only camouflage for agent capacity. She qualifies the relation as a student giving to her teacher, asks for acceptance, and receives represented alternative appreciations followed by her own embarrassment and thanks. Written narration actually closes on shared eating and elegant time, with a local high-grade taste comparison. The promise of future restraint remains unverified, and local deliciousness is not an inspected market ranking. [L65:u1–32/choice1–3]",
+          "support": [
+            {
+              "source_id": "L65",
+              "accepted_argument_locator": "u1–32/choice1–3",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E10C",
+              "accepted_argument_locator": "physicalL115/L672",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "C04",
+              "accepted_argument_locator": "Cycle008",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "No shownbomb/futurereform/globaltasteaudit or settledromance",
+          "directed_recipients_and_agency": "Hercraftliking/handmade/teacherstudent choice;representedacceptance",
+          "actual_endpoint_and_unfinished_coda": "Actual shared eating/eleganttime, proposed restraint unverified",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK21",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 68,
+          "joined_saved_paragraph": "That ending matters beside the wanted conversation that fails. Base008 makes the wish to talk earlier visible before the adult goes back to sleep; its warm later texture does not retroactively supply the missing conversation. Bunny005 similarly permits real learning and satisfaction while the adult continues to misunderstand the café purpose. Uniform003 achieves the outing and welcome; uniform005 gains listening but retains an early departure. A life measured only by instrumental success would mistake these distinct endings for one generic affection event. A life measured only by failure would erase the actual eating, learning, outing and gratitude. [A01:13000:008,20019:005,20057:003/005; L65]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "13000:008,20019:005,20057:003/005 wholeMM",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "L65",
+              "accepted_argument_locator": "u31–32",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Warmth not retroactive missedconversation or allmisunderstanding solved",
+          "directed_recipients_and_agency": "Each wantedtalk/learning/outing/listening distinguished",
+          "actual_endpoint_and_unfinished_coda": "Sleep/misread/earlydeparture remain beside actualoutingsweetslearning",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK22",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 70,
+          "joined_saved_paragraph": "The complete written repertoire broadens rather than replaces these stories. Base contexts include tea, pranks, diet worries, calls and contextual terms for teacher, master or darling. Bunny contexts offer rabbit play, cherished time, cold-weather company and birthday pleasure beside infiltration and C4 wording. Uniform contexts include a to-do list, homework, cake, furniture, a preferred teacher address, ordinary class and shrine-birthday company, and the desire for enough proximity. Fireplay jokes or employment-like scripts are not demonstrated hiring, regulation, purchases or enacted explosions. Static age and school-year profile values are not measured growth between costumes. A service-facing written line can still contain a real imagined pleasure without becoming a performed action. [A01:written13000/20019/20057]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "written13000/20019/20057",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Writtencontext not enactedhire/purchase/regulation/fire/growth",
+          "directed_recipients_and_agency": "Tea/play/diet/homework/cake/birthday/company realrepertoire",
+          "actual_endpoint_and_unfinished_coda": "Staticprofiles/contextualdesires, not performedacts",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK23",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 72,
+          "joined_saved_paragraph": "The uniform-linked costume has no profile prose and forty-six contexts divided into twenty-three EVENT843 and twenty-three EVENT10843 channels. Those are two source channels for one written object, not two automatically independent events or proof of a completed exposition timeline. Guidance, food, hospitality, company, student/maid contrast and questions about tickling retain value at their written contextual scope. The named costume route does not fill an event's missing person or variant joins, and the mere recurrence of wording does not multiply biographies or establish how every recipient answered. [A01:written1900953001:20057]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "written1900953001:20057",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Twochannels not twoevents/persons/global timeline or filledjoins",
+          "directed_recipients_and_agency": "Hospitality/food/ticklequestions retain exactwritten scope",
+          "actual_endpoint_and_unfinished_coda": "46contexts/emptyprofile modebounded; no recipient blanketpermission",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK24",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 74,
+          "joined_saved_paragraph": "Her pleasure also survives peer disappointment. The proposed cleaning invention is refused, the rare day off does not receive every wanted outfit answer, and the uniform script proves strained. Yet she authored a proposal, wanted several unenumerated activities, and chose closer company. Neither the funding refusal nor the social risk means those wants were insincere. The actual classmates' welcome makes a modest but important distinction between appearing effortless and having room to be present. Her uncertain self is not an absence of tastes; it is a difficulty in organizing sincere tastes, roles and others' expectations into a self-description she can trust. [G31:3101; A01:20019:002/006,20057:002–005]",
+          "support": [
+            {
+              "source_id": "G31",
+              "accepted_argument_locator": "3101",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "20019:002/006,20057:002–005",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Refusal/strain not insincerewants or no tastes",
+          "directed_recipients_and_agency": "Herinitiative andwantclosercompany; peers independentroom",
+          "actual_endpoint_and_unfinished_coda": "Rejecteddevice/failedidealperformance, actual welcome andjoy",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK25",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 78,
+          "joined_saved_paragraph": "The ship changes the brief without automatically changing Akane's familiar method. Encouragement and praise accompany buoyancy, and the accepted argument locates her admission of getting carried away and reverting to routine. C4 produces exposure after the timer reaches zero. She admits fault, receives Neru's local support and continues toward the next task. This is a causal adverse case for an otherwise useful operative. It neither establishes timeless incompetence nor warrants describing damage as harmless because the scene is comic. Qualified later effort or reported completion leaves costs and missing resources open. [E06:004:u27–73,005:u1–19,011s2]",
+          "support": [
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "004u27–73/005u1–19/011s2",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E06C",
+              "accepted_argument_locator": "completeprogression",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Routineerror not timeless incompetence/harmlessdamage/fullreform",
+          "directed_recipients_and_agency": "Praise-linkedbuoyancy;heradmission;Nerusupport;Yuukacost",
+          "actual_endpoint_and_unfinished_coda": "C4exposure/admission/continuedtask actual, damage/uniforms stillopen",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK26",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 80,
+          "joined_saved_paragraph": "The captive scene is a second, different test. Karin proposes a method hoped to be painless and smiling; the adult permits that hope, but the held person repeatedly resists, pleads and is prevented from answering. Coerced laughter is not consent or a medical finding of no harm. Neru and Akane interrupt when Karin fails to hear calls and becomes absorbed. Akane explicitly names the violence in the alternative rather than treating the method's polite framing as decisive. That intervention deserves its full local force while remaining distinct from a global guarantee that Akane herself always respects restraint. The Japanese text does not name the physical method at the same unit where Korean does, and a mismatched Karin tag on a recipient's plea must remain a source seam. [E06:006:u73–134; checkpointL179/186]",
+          "support": [
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "006u73–134/physicalL179/L186",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E06C",
+              "accepted_argument_locator": "E006",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Painlesshope/laugh not consent/noharm; JPmethod unnamed/KRdifferent",
+          "directed_recipients_and_agency": "Captive repeatedresistance and peerorigin stopping against absorbedKarin",
+          "actual_endpoint_and_unfinished_coda": "Actualinterruption/regret, uncertainlead/clinicalrepair unshown",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK27",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 82,
+          "joined_saved_paragraph": "Base006 makes rescue costly rather than flawless. Akane initially intends delayed C&C contact, and the adult's intrusion exposes her. She appreciates the intention but worries about the explosive exit's effect on the adult and withholds a proposal. Kaiser employees order the hostage-floor explosion; the local survival and reported collective capture do not supply complete medical recovery, lawful custody or an uninjured rescue. Pain and thanks survive the outcome. The adult's involvement matters, but her own assessment and decision about risk are not reducible to a recipient passively saved by him. [A01:13000:006]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "13000:006 wholeMM",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Survival/capture report not uninjuredrescue/fullmedical/legalcustody",
+          "directed_recipients_and_agency": "Akane riskassessment/withheldproposal, adultintent, Kaiser explosionorder",
+          "actual_endpoint_and_unfinished_coda": "Localsurvival/pain/thanks/report, complete rescue/recovery unknown",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK28",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 84,
+          "joined_saved_paragraph": "Uniform006 presents a harder contrary ending. Akane tries conversation, police and a mitigation transaction; opponents refuse and make claims about policy, jurisdiction and rejection. Those claims are not verified institutional law. At the end they request surrender and police protection from Akane, who reaffirms bombs. The whole-message coda reports study preparation complete and the adult reconsidering education policy. It does not narrate civilian release, final detention, injury totals, repair or a proportionality review. Completing the preparation does not wash away the reversed fear relation, and a comic reversal does not authorize inventing hidden benign outcomes. [A01:20057:006 and whole MomoTalk]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "20057:006 wholeMM",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Antagonistpolicyclaim not law; completedstudy not release/repair/proportionality",
+          "directed_recipients_and_agency": "Shetries negotiation/police;opponentsrefuse then seekprotectionfromher",
+          "actual_endpoint_and_unfinished_coda": "Actualbombreaffirmation/studyprep/adultreconsideration, civiliantail unknown",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK29",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 86,
+          "joined_saved_paragraph": "Pavane supplies a different crisis setting in which collective authorship is an achieved action, not merely a promise. An elevator countermeasure involves Momoi's earlier idea, Yuzu's enactment, Chihiro's hypothesis and hacking, C&C participation and Neru's victory; Akane corrects Rio's attribution to Sensei alone. The checkpoint's ending distinguishes Alice's social return, Neru's discharge, Toki's uneasy tolerance and Rio's apology/resignation/disappearance. Discharge is not combat clearance, tolerance is not universal forgiveness, and apology is not completed accountability. Akane's contribution should therefore be named at its exact scope, without awarding her peers' feats or filling the arc's unfinished tails. [M22:021–025]",
+          "support": [
+            {
+              "source_id": "M22",
+              "accepted_argument_locator": "021–025 physicalL44/ending",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Localvictory not healedNel/combatclear/fullToki forgiveness/Rioaccountability",
+          "directed_recipients_and_agency": "Momoi/Yuzu/Chihiro/C&C/Neru agency; Akane correctsRio",
+          "actual_endpoint_and_unfinished_coda": "Elevatorvictory/socialreturn/discharge/apology, unfinishedtreatment/work",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK30",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 90,
+          "joined_saved_paragraph": "Service to the adult is an offered relation with several vocabularies, rather than one invariant contract. Base005 declines the substitutes of brother, sister or teacher in a particular master-name discussion; the gift chooses teacher/student wording; uniform written contexts prefer teacher. Contextual difference is evidence about address and chosen framing, not a contradiction requiring a permanent canonical title or an automatic romance. Both handmade acceptance alternatives and the narration of shared eating preserve reciprocal local appreciation without deciding a lifelong relationship. [A01:13000:005/written20057; L65:u22–32]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "13000:005/written20057",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "L65",
+              "accepted_argument_locator": "u22–32",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Differentaddress no permanenttitle/romance/contract",
+          "directed_recipients_and_agency": "Herselfchosenmastercontext andteacherstudentgift, adultalternatives",
+          "actual_endpoint_and_unfinished_coda": "Actualsharedgiftappreciation, lifelongrelation undefined",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK31",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 92,
+          "joined_saved_paragraph": "Akane sometimes gives labor, sometimes seeks attention, and sometimes receives care. Actual cleaning, tea preparation and overnight paperwork are meaningful gifts of effort. The wish to show a different side and receive an outfit opinion makes attention a wanted object in its own right. The adult can offer identity reassurance after work without having manufactured her motives. His continued misunderstanding of the café or failure to remain awake also means appreciation does not provide effortless access to her desired company. A useful and warm relation can have unequal labor, mistaken expectations and unfinished answers. [A01:13000:003/008/009,20019:002/005/006]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "13000:003/008/009,20019:002/005/006",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Praise after labor not manufacturedmotives or automatic desiredcompany",
+          "directed_recipients_and_agency": "Herlabor/attention andadultcost/misread/sleep",
+          "actual_endpoint_and_unfinished_coda": "Cleaning/tea/overnightwork actual, answers/availability uneven",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK32",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 94,
+          "joined_saved_paragraph": "The uniform confidence scene is strongest when its contrary permissions remain visible. She chooses to disclose not knowing herself, asks how others could meet a self she cannot identify, and thanks the adult for listening. This is actual trust. Yet a narrated inability to refuse a nod and an unnamed sudden act do not constitute blanket affirmative consent. The quieter alternative is not the same event as every offered adult reply. The whole-message early-departure tail retains the adult's missed company and her embarrassment. A statement that he may be her only confidant cannot be converted into a diagnosis, an exclusive claim on her, or proof that classmates' independent welcome is meaningless. [A01:20057:005 and whole MomoTalk]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "20057:005 wholeMM",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Unabletorefusenod/unnamedact not explicitblanketconsent;maybeconfidant not diagnosis",
+          "directed_recipients_and_agency": "Chosenuncertainty/disclosure/thanks, adversepermissions andearlydeparture distinct",
+          "actual_endpoint_and_unfinished_coda": "Actuallistening, selfsolution/exclusivity/company incomplete",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK33",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 96,
+          "joined_saved_paragraph": "The ship likewise refuses guaranteed adult control. The adult respects Akane's changing-room request and offers some restraint, yet a strike is excused and the supposedly painless questioning continues while the captive resists. Peers supply the stopping action. In the gift, Akane herself names the adult's anxiety and proposes a bounded adjustment before choosing the student frame. Adult gratitude has a place; so do adult silence, misunderstanding and costs, and her capacity to originate a relational correction. Her character does not depend on making every meaningful change an adult's success. [E06:003/006; L65:u1–30]",
+          "support": [
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "003/006",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "L65",
+              "accepted_argument_locator": "u1–30",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Adultcontrol not guarantee; peerstopping andheradjustment independent",
+          "directed_recipients_and_agency": "Akaneprivacy/anxietyresponse, adultexcusedstrike/silence",
+          "actual_endpoint_and_unfinished_coda": "Actualprivacy/stopping/giftchoice, no universal carecredit",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK34",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 100,
+          "joined_saved_paragraph": "Neru gives both authority and personally scoped responsiveness. Akane states the contested absence-delegation rule while Neru refuses the café commitment; later she accepts the jacket boundary and secures a narrower hair permission. On the ship, Neru supports her after the explosive error, while both interrupt Karin's excess. These acts do not establish a universally consensual command relationship or erase Neru's unwanted pursuit of Koyuki. They show that response to a person can differ across assignment, appearance, error and restraint. The same pair can care locally and remain involved in disputed coercive arrangements. [G12:1202/1203; E06:005/006/010]",
+          "support": [
+            {
+              "source_id": "G12",
+              "accepted_argument_locator": "1202/1203",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "005/006/010",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Localcare not universally consensualcommand or mutually enjoyedchase",
+          "directed_recipients_and_agency": "Nerurefuses/setsjacketlimit/supports;Akane negotiateshair/statesrule; Koyukirefuses",
+          "actual_endpoint_and_unfinished_coda": "Different localresponses, contestedcoercion andrepair unresolved",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK35",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 102,
+          "joined_saved_paragraph": "Karin and Asuna are independent peers, not two reflections of Akane's service. Karin's concern about excessive force, operative vocabulary, alleged signing and later absorbed questioning have their own different recipients and limits. Akane can correct vocabulary and interrupt her without owning Karin's remorse or proving permanent reform. Asuna can enjoy cleaning and welcome a new teammate, open the café too soon, publicize ship status, secure release and discard a valuable paper she does not understand. Those opposed consequences neither become a hidden shared maid strategy nor make one person's good result certify every other's judgment. [G12:1201–1203; E06:001–011]",
+          "support": [
+            {
+              "source_id": "G12",
+              "accepted_argument_locator": "1201–1203",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "001–011",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Distinctpeerachievements not sharedstrategy/certifiedjudgment/permanentreform",
+          "directed_recipients_and_agency": "Karin doubts/coercion/regret;Asuna welcome/status/disposal;Akane correction/intervention",
+          "actual_endpoint_and_unfinished_coda": "Realrelease andexposure/cost/missingpaper, none intersubstitutable",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK36",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 104,
+          "joined_saved_paragraph": "Yuuka answers Akane's initiative from another institutional position. She requests useful C&C work and scrutinizes cost, then refuses the student's proposed novelty device as an existing flamethrower. Akane's separate student status matters precisely because the proposal is not simply an operative expense. Public reassignment and private curiosity can meet the same accountant without being governed by one universally applicable response. Yuuka's reported earnings and cost concern are actor appraisals at named episodes, rather than an audited claim that all labor or damage has been fairly paid. Akane's own adult-directed service likewise does not complete Yuuka's independent ordinary or institutional package. [G12; G31:3101; C03:G02]",
+          "support": [
+            {
+              "source_id": "G12",
+              "accepted_argument_locator": "1201–1203",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "G31",
+              "accepted_argument_locator": "3101u25–46",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "C03",
+              "accepted_argument_locator": "G02",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Appraisal not audit/paidrepair/universaldecisiontransfer/Yuukacompletion",
+          "directed_recipients_and_agency": "Yuuka requestedwork/refusednovelty;Akane studentinitiative",
+          "actual_endpoint_and_unfinished_coda": "Specificfundingrefusal andearningsreport, independent obligation remains",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK37",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 106,
+          "joined_saved_paragraph": "The uniform classmates offer a peer relation beyond C&C. Their initial invitation, assurance that she is not troublesome, noticing of strain and welcome for the glasses are their acts. She feels a wall without proof that they intend exclusion, attempts a coached performance, and later chooses to explain the desire for closeness even after being permitted not to. The enjoyable outing is achieved; permanent friendship, every classmate's inner appraisal and complete relief of loneliness are not shown. Their welcome nevertheless resists the idea that an adult must supply every viable relation or that her uncertainty condemns her to a purely useful identity. [A01:20057:002/003]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "20057:002/003 wholeMM",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Feltwall not intendedexclusion; outing not allinnerappraisals/permanentfriendship/cure",
+          "directed_recipients_and_agency": "Classmates invite/notice/welcome/noconfession;shechoosesexplain",
+          "actual_endpoint_and_unfinished_coda": "Actual food/arcade/singingcompany, enduringloneliness relief unknown",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK38",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 108,
+          "joined_saved_paragraph": "Pavane's peers deserve the authorship Akane explicitly defends. Momoi, Yuzu, Chihiro, Yuuka, Noa, Engineering, Eimi and other coalition members act at their own scopes; a group cover report does not award Akane each shot or technical operation. EVENT825's Toki friendship choice, GDD work and late actual enjoyable play deepen this institution's range, but no direct Akane act may be imported simply because she belongs to C&C. Its suspects-and-evidence report and future Valkyrie transfer remain Neru's account, not a completed Akane custody outcome. Peers supply institutional context without becoming interchangeable achievements. [M22:012–025; E25:001–016]",
+          "support": [
+            {
+              "source_id": "M22",
+              "accepted_argument_locator": "012–025",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E25",
+              "accepted_argument_locator": "all16 meanings/016",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "C&Ccover not individualshot; EVENT825 no directAkane borrowedact/custody",
+          "directed_recipients_and_agency": "Otherstudents contribution andToki/GDD/Neru distinct ends",
+          "actual_endpoint_and_unfinished_coda": "Realpeerhelp/play; suspectsevidence report/futuretransfer remain bounded",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK39",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 112,
+          "joined_saved_paragraph": "Politeness is an expressive resource, not a certificate of gentleness. Akane's courteous invitations, apologies and small amused forms can accompany actual care, destructive routine, an intrusive outfit choice or a disputed rule. On the ship the hesitant request not to stare uses a recognizable privacy claim; the admission after C4 exposure and explicit comparison to violence give the same polite register consequential critical content. A stable written style therefore permits different appraisals and motives. It cannot be used to repair an uncertain speaker simply because a line sounds like her. [E06:003:u73–77,005:u12–16,006:u114; G12:1202]",
+          "support": [
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "003u73–77/005u12–16/006u114",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "G12",
+              "accepted_argument_locator": "1202",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Courtesy not gentleinvariant or speakerrepair from expectedpersonality",
+          "directed_recipients_and_agency": "Herprivacy/apology/criticalviolencewording and internalrule",
+          "actual_endpoint_and_unfinished_coda": "Writtenregister in differingactions, exactactorbounds retained",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK40",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 114,
+          "joined_saved_paragraph": "Address tracks a present relation. The master-name discussion, teacher/student gift, uniform preferred teacher wording and other contextual affectionate names cannot be compressed into a fixed hierarchy of increasing intimacy. In the gift the Japanese comparison that recognition was expected to take longer differs from Korean's more explicit account of drawing it out and readily achieving the objective. Both must remain located rather than being silently made identical. Shared eating closes the written scene, while the elegant, luxury-product comparison is a local Japanese sensory judgment, not a market audit or heard delivery. [A01:13000:005 and written; L65:u22–32]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "13000:005/written20057",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "L65",
+              "accepted_argument_locator": "u22–32",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Address not intimacyladder; KRexplicitintent not identicalJP/marketproof",
+          "directed_recipients_and_agency": "Chosenrelation/embarrassment andconditionalappreciation",
+          "actual_endpoint_and_unfinished_coda": "Actualsharedeating; localtastewritten, no heardperformance",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK41",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 116,
+          "joined_saved_paragraph": "The complete private argument also distinguishes self-report, narration and whole-message controls. Stated loneliness is tentative, reported companionship before mission success is not an omniscient motive census, and an unnamed sudden action remains unnamed. The adult's alternatives cannot all become one enacted reply; source-character narration or italicization does not by itself prove silent thought or communicated inward wording. The glasses outing, overnight paperwork, preparation-complete tail and early departure have actual narrated endpoints; a wish, invitation, hypothetical joke or task proposal is not automatically performed. [A01:197–349; C02; C03:G09/G14]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "197–349",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "C02",
+              "accepted_argument_locator": "audience/choice/wholeending",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "C03",
+              "accepted_argument_locator": "G09/G14",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Alternatives not oneact/inwardnot necessarilyspoken/wishesnotperformance",
+          "directed_recipients_and_agency": "Selfreport/wholeMMtails andnarration retain actualscope",
+          "actual_endpoint_and_unfinished_coda": "Outing/work/prep/earlydeparture actual; unnamedact/future desires notfilled",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK42",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 118,
+          "joined_saved_paragraph": "The ship's empty-first/text-bearing actor contrasts specifically matter to Akane. E001s2u75, E003u31 and E004u45 have text-bearing Akane after other empty portraits; E006u101 is a captive's plea under an extracted Karin label. The current accepted account preserves those seams without silently rewriting source fields or awarding every label count as a personal voice total. C&C group seams and an unjoined uniform quoted alias likewise remain local qualifications. No audio, voice acting, pitch, viewed changing-room image or performed touch is certified by these written arguments. Costume channels and voice-like character-data lines remain written evidence. [E06 checkpointL172–190; G12; A01:20057:003/written; C03:G10/G12]",
+          "support": [
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "physicalL172–190",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "G12",
+              "accepted_argument_locator": "actorseamcontrols",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "20057:003/written",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "C03",
+              "accepted_argument_locator": "G10/G12",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Emptyfirstlabels not wholesecurevoicecounts; alias noforcedjoin",
+          "directed_recipients_and_agency": "Text-bearingAkane/captiveresistance distinct; written voices separated",
+          "actual_endpoint_and_unfinished_coda": "Localizedseams preserved; no audiovisual certifying acts",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK43",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 122,
+          "joined_saved_paragraph": "The perfect-servant reading explains her hospitality and useful accomplishments but fails the error, incomplete repair, wanted attention, missed conversation and uncertain self. It also treats the students' actual agency as incidental when she explicitly defends their authorship against a teacher-only explanation. The stronger interpretation keeps service as a real choice and capability while denying that capability settles identity or guarantees an appropriate method. The converse reading that every service act masks an empty self fails the explicit pleasure in craft, learning, cleaning, company and an achieved outing. Self-uncertainty is not proof that no preference is sincere. [A01; M22:021; L65; E06]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "all14pairs/4written",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "M22",
+              "accepted_argument_locator": "021 physicalL44",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "L65",
+              "accepted_argument_locator": "whole065",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "004–006",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Perfectservant/emptyself rivals contradicted, nomechanism grade",
+          "directed_recipients_and_agency": "Chosenservice/pleasure andpeer authorship beside unmetselfneed",
+          "actual_endpoint_and_unfinished_coda": "Actualusefulwork/errors/craft/welcome, uncertainidentity persists",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK44",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 124,
+          "joined_saved_paragraph": "A simple growth ladder from base obedience through bunny self-display to uniform authenticity can organize an attractive story but outruns the chronology and misses the endpoints. Base already contains chosen affiliation and company valued before success; bunny contains both genuine learning and continued misunderstanding; uniform contains peer welcome and self-disclosure alongside bombs, pressure and unsolved company. The more defensible claim is a widened repertoire of explicit questions and available relations, with locally achieved responses and recurring unresolved limits. Neither a costume nor one listened-to disclosure certifies that the self-search has ended. [A01:all fourteen pairs/four written; C03:G07/G12]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "all14pairs/4written",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "C03",
+              "accepted_argument_locator": "G07/G12",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "No base-to-uniform cure/calendar ladder",
+          "directed_recipients_and_agency": "Local chosenaffiliation/learning/peerwelcome/force distinct",
+          "actual_endpoint_and_unfinished_coda": "Widenedrepertoire, some achievedrelations andunresolvedlimits",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK45",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 126,
+          "joined_saved_paragraph": "A universally gentle Akane is contradicted by the ship's C4 failure and uniform opponents' request for protection. A universally cruel Akane is contradicted by actual privacy negotiation, worried rescue appraisal, care in practical tasks and her intervention against resisted laughter. The contradiction should be kept as situated judgment: familiar operational habits may be damaging under a changed brief, and identifying excess in a peer does not prove adequate examination of one's own repertoire. No diagnosis or invariant behavioral mechanism follows. The captive and frightened opponents remain recipients whose adverse experience cannot be canceled by a useful or comic ending. [E06:003–006; A01:13000:006,20057:006]",
+          "support": [
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "003–006",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "13000:006/20057:006",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Neither universallygentle nor timelesscruel diagnosis/comedycancellation",
+          "directed_recipients_and_agency": "C4cost/captivefright/hostagerisk/intervention andprivacy",
+          "actual_endpoint_and_unfinished_coda": "Actual adverseandcaringconduct, proportionality/repair unknown",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK46",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 128,
+          "joined_saved_paragraph": "A teacher-created liberation story fails the classmates' welcome, Akane's independent student proposal, peer-origin stopping action and explicit defense of collective authorship. An account of entirely failed adult care fails actual listening, appreciated reassurance, shared confectionery and valued company. The relation is meaningful at finite scopes, with its own missed conversation, social-risk objections, pressure and uncertain acts. Its warmth need not become exclusivity, romance, ownership or a cure in order to matter. Her wish to be seen beyond utility remains intelligible even where praise responds to an actually completed task. [A01:13000:008,20019:002/005/006,20057:003/005; G31; M22; L65]",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "13000:008,20019:002/005/006,20057:003/005",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "G31",
+              "accepted_argument_locator": "3101",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "M22",
+              "accepted_argument_locator": "021",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "L65",
+              "accepted_argument_locator": "whole065",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Teacher-createdliberation/alladultcarefails rivals both too broad",
+          "directed_recipients_and_agency": "Peerswelcome/owninitiative/craft/company andadultactual listening/costs",
+          "actual_endpoint_and_unfinished_coda": "Finitewarmth/recognition, pressure/failedtalk/unknownact notcured",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK47",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 130,
+          "joined_saved_paragraph": "An institutional-success reading can point to earnings, local victories and reported return, but cannot close signature assent, reimbursement, harm, custody, lost uniforms or lasting reform. An institutional-failure reading can point to damage and disputed authority, but cannot erase actual useful work, finite support, coalition authorship and local accommodation. The relevant distinction is between an achieved action, an actor's report, a continuing objection and an unprinted tail. Preserving those categories permits a substantial character synthesis while leaving C&C's separate institution and every directed relationship responsibility intact. [G12; E06; M21/M22; E25]",
+          "support": [
+            {
+              "source_id": "G12",
+              "accepted_argument_locator": "allthreegroups",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "all11",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "M21",
+              "accepted_argument_locator": "013–020",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "M22",
+              "accepted_argument_locator": "012–025",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E25",
+              "accepted_argument_locator": "016",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Institutionsuccess/failure notalloutcomes/standalonehomecompleted",
+          "directed_recipients_and_agency": "Actualusefulwork/sharedagency anddisputedrule/cost/recipientrefusal",
+          "actual_endpoint_and_unfinished_coda": "Earningsreport/victory/return coexistmissinginstrument/payment/uniforms",
+          "applicable_open_gaps": [
+            "G01",
+            "G06",
+            "G07",
+            "G09",
+            "G10",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK48",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 134,
+          "joined_saved_paragraph": "The source receipt binds each small accepted analytical owner by exact bytes, SHA256 and content-blob OID against c1 and main2e. Architecture1.12 differs from main's1.11 while its eleven mature-monograph sections remain equal. Current ROOT working acceptance controls are distinct from those historical source snapshots. Historical N353 accepted V2 supplies the exact required Akane home and responsibility at scope-control level; the subsequent ROOT N355 scope adds duties elsewhere without changing this home. Neither control proves literary completion. A01 supplies all fourteen private pairs and four written objects at its complete declared substantive scope. G12/G31 supply whole group arguments; M02/M21/M22 supply whole accepted Pavane arguments; E06 and its small current comparative owner supply the complete ship meaning; L65 supplies the complete gift argument paired with current Cycle008 authority; E25 supplies whole institutional/peer comparison only. Final's already received contextual account is used only for its explicit ordinary-roster comparison, with no newly discovered Akane Final act. [source receipt; C01–C04]",
+          "support": [
+            {
+              "source_id": "C01",
+              "accepted_argument_locator": "319–344",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "C04",
+              "accepted_argument_locator": "completeCycle008",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "197–349",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "G12",
+              "accepted_argument_locator": "complete",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "G31",
+              "accepted_argument_locator": "complete",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "M02",
+              "accepted_argument_locator": "complete",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "M21",
+              "accepted_argument_locator": "complete",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "M22",
+              "accepted_argument_locator": "complete",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "complete",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E06C",
+              "accepted_argument_locator": "complete",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "L65",
+              "accepted_argument_locator": "complete",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E25",
+              "accepted_argument_locator": "completecontextonly",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "F00",
+              "accepted_argument_locator": "L227–231",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Exactbytes not wholecustody/globalsourceequal/currentNfreeze/completion",
+          "directed_recipients_and_agency": "Declaredbound scopes andunchangedAkanehome independentofnewscopehomes",
+          "actual_endpoint_and_unfinished_coda": "Currentacceptedarguments reused, ROOTwholeliteraryreview pending",
+          "applicable_open_gaps": [
+            "G01",
+            "G02",
+            "G03",
+            "G04",
+            "G05",
+            "G06",
+            "G07",
+            "G08",
+            "G09",
+            "G10",
+            "G11",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK49",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 136,
+          "joined_saved_paragraph": "The historical ship checkpoint and gift producer headers retain draft or pending admission language. Their literary arguments are reused under the current Cycle008 accepted contextual account and paired current ship comparison; this author does not grant them standalone new source-admission powers or recertify original producer, raw-field, primary, independence or audiovisual work. Complete analytical receiving is declared separately from whole-byte binding. No absent primary act is inferred from a source count, no unbound large file is read or hashed, and no ritual primary replay is claimed. The saved paragraphs and their consequential endings are individually joined to the declared accepted argument locators in the separate claim register. [C04; E06/E06C; L65; source and claim receipts]",
+          "support": [
+            {
+              "source_id": "C04",
+              "accepted_argument_locator": "completeCycle008",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "producerhistoricalstatus",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E06C",
+              "accepted_argument_locator": "currentadoptionfront",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "L65",
+              "accepted_argument_locator": "historicalgift",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E10C",
+              "accepted_argument_locator": "065L115/L672",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Historicalproducerpending not newadmission/primaryrestart/independence/performance",
+          "directed_recipients_and_agency": "Current authority separatefrom attributedproducer custody",
+          "actual_endpoint_and_unfinished_coda": "Complete analytical receiving atdeclaredscopes, no unboundlarge ornewcredit",
+          "applicable_open_gaps": [
+            "G01",
+            "G02",
+            "G03",
+            "G04",
+            "G05",
+            "G06",
+            "G07",
+            "G08",
+            "G09",
+            "G10",
+            "G11",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK50",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 138,
+          "joined_saved_paragraph": "All fourteen original gaps remain OPEN with different effects. G01 limits global ordinary breadth and enduring self-knowledge, while the received pleasures remain positive. G02 does not let Akane complete Yuuka's independent council/private transfer; G03 does not transfer her service to Serika; G04 does not close Hina's crisis accountability; G05 does not infer Arius or PS68 aftermath from Millennium. G06 limits universal cross-school and relation transfer, not the value of the actual classmates, guard and peer agency. G07 prevents a costume/event-ID calendar; G08 retains missing overarching titles and repeat channels; G09 retains choices, inward modes and exact actor seams; G10 excludes performed voice, image, music and physical staging; G11 receives no Hoshino/Yume provenance closure. G12 retains blank event joins, local roles, the quoted unjoined alias and separate variant/channel duties. G13 keeps signature instrument/free assent, compensation, safety, injury, hostage release, rescue, custody, uniform retrieval and durable change unproved. G14 keeps written jokes, wishes, preparation, future restraint and contextual costume lines at their actual modes. [C03; A01; G12; E06; L65]",
+          "support": [
+            {
+              "source_id": "C03",
+              "accepted_argument_locator": "all14literalOPEN registrations",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "197–349",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "G12",
+              "accepted_argument_locator": "1202/1203",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "all11",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "L65",
+              "accepted_argument_locator": "whole065",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Opengaps not ordinaryvalue exclusion/wholecastcompleted/global legalmedicalclosure",
+          "directed_recipients_and_agency": "Specificroles/recipients/modes retainpositive andcontraryvalue",
+          "actual_endpoint_and_unfinished_coda": "All14OPEN, exactactual endpoints distinctfrom missingtails",
+          "applicable_open_gaps": [
+            "G01",
+            "G02",
+            "G03",
+            "G04",
+            "G05",
+            "G06",
+            "G07",
+            "G08",
+            "G09",
+            "G10",
+            "G11",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        },
+        {
+          "claim_id": "AK51",
+          "saved_monograph": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "saved_line": 140,
+          "joined_saved_paragraph": "The bounded literary endpoint is substantial but finite: Akane chooses and enjoys service, seeks recognition beyond use, welcomes a student relation and a peer outing, admits a routine error, defends collective authorship and sometimes helps stop excess. She also exerts pressure, uses alarming force, receives incomplete answers and cannot yet name a settled self. Actual cleaning, paperwork, classmate leisure and shared sweets remain fulfilled; conversation, exclusive availability, lawful commitments, comprehensive repair and a lasting cure do not. This is an author-complete character candidate pending ROOT's independent whole literary receiving and adoption. It supplies no model promotion, original primary/performed credit, relationship or institution completion, new denominator freeze or milestone claim.",
+          "support": [
+            {
+              "source_id": "A01",
+              "accepted_argument_locator": "all14pairs/4written",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "G12",
+              "accepted_argument_locator": "allthreegroups",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "G31",
+              "accepted_argument_locator": "3101",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "M22",
+              "accepted_argument_locator": "021–025",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "E06",
+              "accepted_argument_locator": "004–006/011",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            },
+            {
+              "source_id": "L65",
+              "accepted_argument_locator": "whole065",
+              "exact_tuple_home": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+            }
+          ],
+          "extension_limit": "Authorcompletecandidate not ROOTaccepted/model/primary/performance/otherhome/Nmilestonecredit",
+          "directed_recipients_and_agency": "Her chosenwants/usefulwork/force/admission andindependentpeers remain joined",
+          "actual_endpoint_and_unfinished_coda": "Actualcleaning/paperwork/outing/sweets with unprintedrepair andselfcure",
+          "applicable_open_gaps": [
+            "G01",
+            "G02",
+            "G03",
+            "G04",
+            "G05",
+            "G06",
+            "G07",
+            "G08",
+            "G09",
+            "G10",
+            "G11",
+            "G12",
+            "G13",
+            "G14"
+          ],
+          "author_verification": "Complete accepted literary argument receiving at declared exactscopes; current/historical distinctions and actor/recipient/alternative limits preserved, zero producerprimary recertification.",
+          "ROOT_review": "PENDING"
+        }
+      ],
+      "eleven_headers": [
+        "## 1. Core thesis",
+        "## 2. Longitudinal arc",
+        "## 3. Public and private self",
+        "## 4. School and club role",
+        "## 5. Ordinary life",
+        "## 6. Crisis behavior",
+        "## 7. Relationship with Sensei",
+        "## 8. Major peer relationships",
+        "## 9. Language and written voice",
+        "## 10. Competing readings",
+        "## 11. Evidence route and remaining limits"
+      ],
+      "complete_saved_body_readback": "c33ee4 1–84;fb82e1 85–140EOF",
+      "all14gaps": "OPEN",
+      "counts_not_completion_proof": true,
+      "original_primary_or_performed_or_independent_credit_added": 0,
+      "ROOT_literary_review": "PENDING",
+      "N_or_quarter_claimed": false
+    },
+    "AKANE_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json": {
+      "schema": "BLUE_ARCHIVE_PHASE3_AKANE_SAVED_OUTPUT_V1",
+      "status": "FROZEN_AUTHOR_DELIVERY_ROOT_RECEIVING_PENDING",
+      "created": "2026-10-10",
+      "HEAD_at_final_recheck": "1dc2092095ed74ee743971f1f274b30cb291d939",
+      "outputs": [
+        {
+          "file": "BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+          "byte_count": 39054,
+          "line_count": 140,
+          "sha256": "7240991de4a6a46f12bbe4d88c902d3a4508be0646daf0816761700d54cd7882",
+          "worktree_content_blob_oid": "f165a3209a20825c52af8826b656ea592b6e167b",
+          "utf8_lf_no_bom": true,
+          "below_1MiB": true,
+          "public_path_scan": "PASS"
+        },
+        {
+          "file": "AKANE_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 30263,
+          "line_count": 526,
+          "sha256": "557c5d639d971d8b804853ca6129e9285f70e768028f47184068f244b0f6d11d",
+          "worktree_content_blob_oid": "4f4ff885754a944e4e26d165600a8c3a3dce1461",
+          "utf8_lf_no_bom": true,
+          "below_1MiB": true,
+          "public_path_scan": "PASS"
+        },
+        {
+          "file": "AKANE_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 111145,
+          "line_count": 1847,
+          "sha256": "f687beb8f36c333b52e21e26c113542b41484ccad0dd69d666248f8bd146b4db",
+          "worktree_content_blob_oid": "f46536c826302b3b395cb62765a80dd2b8548b82",
+          "utf8_lf_no_bom": true,
+          "below_1MiB": true,
+          "public_path_scan": "PASS"
+        }
+      ],
+      "source_rechecks": [
+        {
+          "source_id": "C01",
+          "unchanged": true,
+          "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+          "worktree_content_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+        },
+        {
+          "source_id": "C02",
+          "unchanged": true,
+          "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+          "worktree_content_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982"
+        },
+        {
+          "source_id": "C03",
+          "unchanged": true,
+          "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+          "worktree_content_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf"
+        },
+        {
+          "source_id": "C04",
+          "unchanged": true,
+          "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+          "worktree_content_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2"
+        },
+        {
+          "source_id": "A01",
+          "unchanged": true,
+          "sha256": "af7b37302d664a2acd1286e594fe48e711dce1618269a70c130be67481aaf3d6",
+          "worktree_content_blob_oid": "7770d1ce3fca3d5f1923117027810b79626b03e5"
+        },
+        {
+          "source_id": "G12",
+          "unchanged": true,
+          "sha256": "7878d5a7517dfad383ffd92f175d48f4ce5052afc332956122f396dc6209b32a",
+          "worktree_content_blob_oid": "8d0422d805814d9148746b4c2f2ad9ab606b7038"
+        },
+        {
+          "source_id": "G31",
+          "unchanged": true,
+          "sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6",
+          "worktree_content_blob_oid": "5bcbef776c36b70da61c168eebbc861ddda01cb6"
+        },
+        {
+          "source_id": "M02",
+          "unchanged": true,
+          "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+          "worktree_content_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683"
+        },
+        {
+          "source_id": "M21",
+          "unchanged": true,
+          "sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+          "worktree_content_blob_oid": "4328e26cd55fbdb65935615c27e85154f7c6867a"
+        },
+        {
+          "source_id": "M22",
+          "unchanged": true,
+          "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+          "worktree_content_blob_oid": "edc03f8b5d5c71d7c4914187845a20b6e0941376"
+        },
+        {
+          "source_id": "E06",
+          "unchanged": true,
+          "sha256": "a79b9d10a02fc32e3a2b6aed115e9b0e5cbba92eee4d118ef41c1c42c28a6b82",
+          "worktree_content_blob_oid": "ccc7f310da572e77d3411dba7ca445fe6abb8646"
+        },
+        {
+          "source_id": "E06C",
+          "unchanged": true,
+          "sha256": "187b924e3c750ba582de81a751ba5bd45d99e7b30d78cac38e33f80cb0ab5091",
+          "worktree_content_blob_oid": "f3884e23561ec74f020ae5d6f9cfbd8e9cd50465"
+        },
+        {
+          "source_id": "L65",
+          "unchanged": true,
+          "sha256": "d89f9234aaf4c6281ed15a1ba437fbd5452844be7c62ac20dcf9af21e5403c41",
+          "worktree_content_blob_oid": "596261c4b8b769ae58ac6b5ed6e9401ef8c3d73c"
+        },
+        {
+          "source_id": "E10C",
+          "unchanged": true,
+          "sha256": "880f77f0a0027aabe86b4fcc556e93a96c8e2c7320ae857162aac010a771343e",
+          "worktree_content_blob_oid": "c2777a962c37b5aad4f595e61ab057dbb227f386"
+        },
+        {
+          "source_id": "E25",
+          "unchanged": true,
+          "sha256": "0a04a3d7913d5ff800cf97c6d3581b38999b16f05f569978eecae8b391b1c9f9",
+          "worktree_content_blob_oid": "d42104a33d911bddec431a94c5c030e2834f2e7d"
+        },
+        {
+          "source_id": "F00",
+          "unchanged": true,
+          "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+          "worktree_content_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622"
+        }
+      ],
+      "prior_frozen_output_checks": [
+        {
+          "file": "CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V1.md",
+          "byte_count": 77666,
+          "sha256": "917b7e0fdd90b9a9dde2301c98e60c3e678e78ac2c9223127ea881b673f27f17",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_DECISION_REGISTER_V1.json",
+          "byte_count": 87882,
+          "sha256": "3135c48175aabf56bf1c65477d6392471b59fbf6745a2aefbeca2df2ebdbb1c9",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_INPUT_RECEIPTS_V1.json",
+          "byte_count": 27235,
+          "sha256": "433fc404fcd258871e6310039679308772c3c6702981d66ec5643849d33014ac",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 8921,
+          "sha256": "e6e962e4108efd6a7f331c06fda687b1b089921165185b78fa379804cf559cf2",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V2.md",
+          "byte_count": 83818,
+          "sha256": "46b7865841293dd2525931a85b8d28393523576368ef4d9272b5a597f5fc8cd4",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_DECISION_REGISTER_V2.json",
+          "byte_count": 94478,
+          "sha256": "6f8607abe964b0032bda888a6d3b9f37b374a5aba8d953eca83d7f485627b6d4",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_INPUT_RECEIPTS_V2.json",
+          "byte_count": 26656,
+          "sha256": "d8bb1889cd4a6804e155c8ce8fb5b29e81e7c7bbe12eac810d0f9640aaa7c942",
+          "unchanged": true
+        },
+        {
+          "file": "CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_SAVED_OUTPUT_RECEIPT_V2.json",
+          "byte_count": 14481,
+          "sha256": "8e04ba792e15583e4f9d6dc9a023b1e58ee29e7bc024e8518a50b7d515de1f0d",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/BLUE_ARCHIVE_MIKA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 24404,
+          "sha256": "bb6d1bde60acd44e539bb22a0979f7cf870b935c9f772d1229ac61bceb7cb79e",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/BLUE_ARCHIVE_NAGISA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 26279,
+          "sha256": "e5c5008d72b3bcdcf1bdba8f1a0104fd8ab6eb76c7a5701316f93fa847515318",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/BLUE_ARCHIVE_SEIA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 24049,
+          "sha256": "0fe9c7f8923138aff2fbd75daf66ab481a991fb8bacfdf13ebbdcb6fff879c3f",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/TRINITY_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+          "byte_count": 40511,
+          "sha256": "f233f90869af7eb4995d0f964d2033ba1907067e9f8186f9eb4ff3dabb82ccc4",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/TRINITY_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 36454,
+          "sha256": "fa32f44389dabf76aed4fdf6830e91725d0d84308b0c01b17349d9c72ffca28a",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/TRINITY_MONOGRAPH_AUTHOR_REVIEW_AND_CUSTODY_V1.md",
+          "byte_count": 12228,
+          "sha256": "548cf4470de5ee06354f9176086e8e50d222a663880fca6dc713fffbb9cf4751",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_FIRST_MONOGRAPHS/TRINITY_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 14042,
+          "sha256": "ae6f53fef4d15a541ffa67070e343af6fe4dc94f7509dfaa930f5503176d74da",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/BLUE_ARCHIVE_AZUSA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 25160,
+          "sha256": "02a9527df78fe53b6d10b31924028e8c0cda2b343e3d72561b27efc283bac9db",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/BLUE_ARCHIVE_HIFUMI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 26720,
+          "sha256": "0a27a92658f8bf0f4a9e70c0274ab97bf5a4b47a999bb9288fb0a0fb84a51462",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/BLUE_ARCHIVE_HANAKO_CHARACTER_MONOGRAPH.md",
+          "byte_count": 29090,
+          "sha256": "2fd4af6a25a3fb8164b13bde6dc717a6f7aee59f04829e9a8e7e7c4273d0c5cc",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/TRINITY_SECOND_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+          "byte_count": 47460,
+          "sha256": "4f98b59bb8fc25dce8fbaeac3a3e7f8515a9d34d57383c53b54ebf873a8c415d",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/TRINITY_SECOND_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 95616,
+          "sha256": "591d584bc5a6b95168f55d1802afa221e2187f9fdf0ede2951fa36db2725d1e6",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/TRINITY_SECOND_MONOGRAPH_AUTHOR_REVIEW_AND_CUSTODY_V1.md",
+          "byte_count": 11190,
+          "sha256": "8f465ab994968dee54d690f5214e233eb3575b3538da73b2ff65ddcd0a760d58",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_SECOND_MONOGRAPHS/TRINITY_SECOND_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 21437,
+          "sha256": "5c7fb5cd10f8e7acdf892a992a0eec9b78db7da7983633bd3ab43730f7cc388d",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+          "byte_count": 30854,
+          "sha256": "c73867de4766fcb800c10c541f27e74ab127407b9d3cd9d86ed2eec320ddb8a6",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/KOHARU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 20605,
+          "sha256": "7a5871eb7ccf060dcab2b4c9c3c32eb249e37eb1571d974f43917f6b2c886147",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/KOHARU_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 27109,
+          "sha256": "01028690f015dcb6d564100854dee3b77fa0e946ff0752a4cfb0b191d1affe37",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/KOHARU_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 10169,
+          "sha256": "47a69a84ada3a067a73c9141589dc9ff568a3677521651da34af977982455a10",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 31871,
+          "sha256": "4aed0693ba32f492ca3841150b18c1758d913fbc09df77f55c443541d51a14b7",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/UI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 25253,
+          "sha256": "b154ee8dae3ab7719b0008c34b7f839516e6cf8f6520c8cf8fddf3a30056513e",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/UI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 31952,
+          "sha256": "eee361704dd8e4f308240eaed193fd7f9282f387f638368e3feb8e832d2face2",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/UI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 12279,
+          "sha256": "f9106a2068bf7d5ce18816220c2be38c04c3f0a28f2b9c60540ffab500adeb4e",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 34081,
+          "sha256": "29ebde7cb854d63c0298587d796a28b4ea673f49f275f525b206b84bb0a9e964",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/HINATA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 28987,
+          "sha256": "bd2ed575f2aae0a04c584b7dd487302bf794e73b9525d538c44e579044398a36",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/HINATA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 41463,
+          "sha256": "87c28852eb1dcbed7a2eda5cea102c05fd50af5faed4926b3d629d3ac03bfa43",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_THIRD_MONOGRAPHS/HINATA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 13694,
+          "sha256": "ee9bd1d326cb1bc9afef92685b37c426c30bb10cb2e53b4f024e8bced0d7812c",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 38318,
+          "sha256": "d7f5b1178d27c30a24104d6d5230ad5e418b2dae839e65c0ff6d53f1f5d79544",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/HASUMI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 25339,
+          "sha256": "65e325109bbb8e99f870a8021ff73a788873757a69a965b10f5380032d360ced",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/HASUMI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 60777,
+          "sha256": "da817452942c545e65281d53aca8d190ea26abbb3b79f3e92797b92250784dfc",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/HASUMI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 13911,
+          "sha256": "b68907f20991c8a8aef3be4fb53556923a96de91dce2ca6cf3f1055bd9973a85",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/HASUMI_FROZEN_DELIVERY_GROUP_LOCATOR_ERRATUM_V1.md",
+          "byte_count": 1656,
+          "sha256": "4b81795f5f5a20a35e48216e80626c77b9bb0386cc74636beb2b8ce82c44a192",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/HASUMI_FROZEN_DELIVERY_CHECKPOINT_LINE_LOCATOR_ERRATUM_V1.md",
+          "byte_count": 1775,
+          "sha256": "d5221b1098b8cf874f324f262d5d47e03f9b82e7c8f7a87d15c19fd60355b289",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/BLUE_ARCHIVE_TSURUGI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 34017,
+          "sha256": "61d95223a1cc99e69dbbe4dd0d360511d0e1e62dfbf24f95307e8c85a18cb5a2",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/TSURUGI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 25180,
+          "sha256": "c5fa5b4504c436579cc7aa65d2a82a2129f6b8e54d29bebd9b0ae2a47bead185",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/TSURUGI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 48919,
+          "sha256": "841ac3f719edaabfdf74c92e638e73f5b9b105e8f24d6b117306f194f4d2729b",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/TSURUGI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 15214,
+          "sha256": "ac34e0618b73647bad14b43aa5a6feff11949a260dbd20762416aabd7b11456e",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/BLUE_ARCHIVE_MASHIRO_CHARACTER_MONOGRAPH.md",
+          "byte_count": 36158,
+          "sha256": "e5acb2adcb32cea98d6fe38db414c6287b048d1338ac55962bbd465cad957929",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/MASHIRO_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 29479,
+          "sha256": "79b98113e59c9f1982f70e7e23198493927d5e9826e5422a1c198b6543143c01",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/MASHIRO_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 61488,
+          "sha256": "88df334608f19f535fb78e71dd724ff0ee3a53e37e14a8a2b32ba1e0b650abb9",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/MASHIRO_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 16849,
+          "sha256": "77600686f2ffacf7e8106421aa462495a6dd6628467e32c23482a80c14d2fd21",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 41212,
+          "sha256": "22365fc384fde2790e328934511629b4dafb19384002b0fb583bf8781b16be9f",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/ICHIKA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 26275,
+          "sha256": "068514ea743e8d71cd393313c689a7dc8a883a652aaa4f0df357be07c2f49e01",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/ICHIKA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 104730,
+          "sha256": "8b2bc3e84e425ffdcf83afd0d265fffa30b368683e988059c640647f94dc815d",
+          "unchanged": true
+        },
+        {
+          "file": "TRINITY_JUSTICE_MONOGRAPHS/ICHIKA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 17057,
+          "sha256": "b2a8c13c1e56729cbfb5370b341f5f9788e9c82a29cbb9d128b17478977e97a9",
+          "unchanged": true
+        }
+      ],
+      "author_saved_body_receiving": "c33ee4 saved1–84;fb82e1 saved85–140EOF",
+      "author_metadata_receiving": "Allsixteeninputfields/historicalcontrol/all51claimfields/authorcontrols/finalsavedreceipt received throughEOF before frozen delivery; actual toolrecords sent separately.",
+      "checks": "Sixteen exact guarded sources/51savedparagraphjoins/fiftytwo earlier frozenfiles/11sections/UTF8LFnoBOM/publicsafe/<1MiB. Exactness/counts are not literary acceptance.",
+      "ROOT_literary_review": "PENDING",
+      "ROOT_adoption": "PENDING",
+      "all14gaps": "OPEN",
+      "original_primary_or_performed_or_independent_credit_added": 0,
+      "unbound_large_file_reads_or_hashes": 0,
+      "repository_or_global_writes": 0,
+      "N_frozen_by_author": false,
+      "quarter_claimed": false,
+      "external_handoff": false,
+      "excluded_working_notes": [
+        "build_akane_receipts_working.py"
+      ],
+      "self_binding": "External exacttuple binds thisreceipt; no embeddedselfSHA."
+    }
+  }
+}

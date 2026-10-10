@@ -1,0 +1,902 @@
+{
+  "schema": "BLUE_ARCHIVE_PHASE3_HASUMI_CLAIM_AND_ENDPOINT_V1",
+  "status": "ROOT_COMPLETE_LITERARY_RECEIVING_ACCEPTED_WITH_LIMITS",
+  "claims": [
+    {
+      "claim_id": "HA01",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 44,
+      "joined_saved_paragraph": "The source classes supply connected questions without establishing a universal growth order among three variants. Eden's early Hasumi is an access authority whom others must interpret. She states a grade-based restriction on Koharu's room entry and holds an opaque private conversation. The narrator's academic evidence, Koharu's later claim of an elite spy role and the teacher's misleading teaching-book pretext are different facts. The conversation cannot be reconstructed from the version most flattering to any participant. Later encouragement and apology reach the remedial group through a Justice member; their actual four-pass result does not prove Hasumi's direct opening of a perimeter or formal reinstatement of Koharu. Administrative presence matters, but does not grant omniscient control of the educational crisis. [M01:E004–E005/E015; M02:E018–E019]",
+      "support": [
+        {
+          "source_id": "M01",
+          "accepted_argument_locator": "E004–E005/E015;34/46/74",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "M02",
+          "accepted_argument_locator": "E018–E019;58/72",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Opaque talk, uncorroborated spy account and relayed encouragement do not establish secret task, direct perimeter intervention or formal return.",
+      "directed_recipients_and_agency": "Koharu own academic state/choices and adult misleading book pretext separate from Hasumi rule reading.",
+      "actual_endpoint_and_unfinished_coda": "Actual rule/private conversation; later four-pass result including 91 and relay, administrative remedy unshown.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 30,
+      "frozen_author_joined_saved_paragraph": "The source classes supply connected questions without establishing a universal growth order among three variants. Eden's early Hasumi is an access authority whom others must interpret. She states a grade-based restriction on Koharu's room entry and holds an opaque private conversation. The narrator's academic evidence, Koharu's later claim of an elite spy role and the teacher's misleading teaching-book pretext are different facts. The conversation cannot be reconstructed from the version most flattering to any participant. Later encouragement and apology reach the remedial group through a Justice member; their actual four-pass result does not prove Hasumi's direct opening of a perimeter or formal reinstatement of Koharu. Administrative presence matters, but does not grant omniscient control of the educational crisis. [M01:E004–E005/E015; M02:E018–E019]"
+    },
+    {
+      "claim_id": "HA02",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 46,
+      "joined_saved_paragraph": "Her larger public action is similarly finite. During the cathedral disaster, Hasumi and Tsurugi hold an evacuation rear guard while Hinata physically frees Sensei and other rescuers work. Subsequent injury reports and responsive states belong to the actual sequence; neither establishes immediate full recovery or sole authorship of rescue. In an earlier interschool incident, Hasumi seeks Schale and remedial handling of the Gourmet case to avoid an overt Trinity–Gehenna confrontation during negotiations. The visible loading for a medical handoff is achieved, whereas final custody, treatment and Izumi's location are not thereby settled. The cut-off vow which could sound like mobilization is clarified as dieting after Makoto's humiliation. Political care, personal injury and appetite coexist without requiring one to conceal another. [M02:E004–E005; M03:E006–E018]",
+      "support": [
+        {
+          "source_id": "M02",
+          "accepted_argument_locator": "E004–E005;36",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "M03",
+          "accepted_argument_locator": "E006–E018;38/46",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Visible medical-handoff loading not final custody/treatment; injury reports/responsiveness not full healing or sole rescue.",
+      "directed_recipients_and_agency": "Fuuka coercion and other medical/rescue actors retained independently; dieting clarification not war order.",
+      "actual_endpoint_and_unfinished_coda": "Actual transfer preparations/rear guard/later responsiveness, unprinted ultimate recovery.",
+      "applicable_open_gaps": [
+        "G04",
+        "G05",
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 32,
+      "frozen_author_joined_saved_paragraph": "Her larger public action is similarly finite. During the cathedral disaster, Hasumi and Tsurugi hold an evacuation rear guard while Hinata physically frees Sensei and other rescuers work. Subsequent injury reports and responsive states belong to the actual sequence; neither establishes immediate full recovery or sole authorship of rescue. In an earlier interschool incident, Hasumi seeks Schale and remedial handling of the Gourmet case to avoid an overt Trinity–Gehenna confrontation during negotiations. The visible loading for a medical handoff is achieved, whereas final custody, treatment and Izumi's location are not thereby settled. The cut-off vow which could sound like mobilization is clarified as dieting after Makoto's humiliation. Political care, personal injury and appetite coexist without requiring one to conceal another. [M02:E004–E005; M03:E006–E018]"
+    },
+    {
+      "claim_id": "HA03",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 48,
+      "joined_saved_paragraph": "The private sequence makes her finite knowledge and desires more accessible. Two early consultations fail to reach their intended subject. A misunderstanding of “big” produces conditional secrecy around a referent the adult has got wrong, then flight; another attempt yields genuinely enjoyed milk tea and varied desserts, body questions and another abrupt departure. Neither ending can be turned into completed advice or agreement. The twilight meeting instead achieves what it quietly wants: sitting with someone through a short changing sky. She can call the time wonderful even when “nothing” was done. That is a positive endpoint, not a precursor whose value must be earned by subsequent efficiency. [H01:13003:002/003/005, complete MomoTalk endings]",
+      "support": [
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "13003:002/003/005;whole130030010/080/140 and tails",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Wrong referent conditional secrecy not transferable body permission; three adult alternatives not composite order; advice not completed.",
+      "directed_recipients_and_agency": "Hasumi wants consultation/desserts/company; teacher misunderstanding and inward modes kept.",
+      "actual_endpoint_and_unfinished_coda": "Two departures unresolved; actual food and completed shared twilight positively distinct.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G13",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 34,
+      "frozen_author_joined_saved_paragraph": "The private sequence makes her finite knowledge and desires more accessible. Two early consultations fail to reach their intended subject. A misunderstanding of “big” produces conditional secrecy around a referent the adult has got wrong, then flight; another attempt yields genuinely enjoyed milk tea and varied desserts, body questions and another abrupt departure. Neither ending can be turned into completed advice or agreement. The twilight meeting instead achieves what it quietly wants: sitting with someone through a short changing sky. She can call the time wonderful even when “nothing” was done. That is a positive endpoint, not a precursor whose value must be earned by subsequent efficiency. [H01:13003:002/003/005, complete MomoTalk endings]"
+    },
+    {
+      "claim_id": "HA04",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 50,
+      "joined_saved_paragraph": "Stress, clothing and summer provide recurrence rather than a fixed cure. A headache reportedly lifts during reassurance and a shared bakery visit, but the later messages retain dieting and fear of losing to herself. A too-tight tracksuit remains troublesome even as the document consultation and escort occur. Summer shopping actually ends in her buying a barely fitting item; the subsequent beach day combines play, refused food, dizziness, a shaded awakening and an actual enjoyable meal. The last episode completes fireworks and a report of unusually enjoyable summer time, but does not retroactively finish the interrupted volleyball or prove swimming proficiency, safe dieting or next year's visit. Each actual relief is retained without making the variants stages of a single medical or romantic progression. [H01:13003:006; 16011:002; 10124:003/005/006]",
+      "support": [
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "13003:006;16011:002;10124:003/005/006",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Headache report not cure; fit/weight not measurement; dizziness not diagnosis; no completed volleyball/proficiency/next-year return.",
+      "directed_recipients_and_agency": "Her purchase/refusal/pleasure and adult concern/possible pressure separate.",
+      "actual_endpoint_and_unfinished_coda": "Actual bakery/document escort/purchase/shaded awakening/meal/fireworks; codas retain future wishes.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G13",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 36,
+      "frozen_author_joined_saved_paragraph": "Stress, clothing and summer provide recurrence rather than a fixed cure. A headache reportedly lifts during reassurance and a shared bakery visit, but the later messages retain dieting and fear of losing to herself. A too-tight tracksuit remains troublesome even as the document consultation and escort occur. Summer shopping actually ends in her buying a barely fitting item; the subsequent beach day combines play, refused food, dizziness, a shaded awakening and an actual enjoyable meal. The last episode completes fireworks and a report of unusually enjoyable summer time, but does not retroactively finish the interrupted volleyball or prove swimming proficiency, safe dieting or next year's visit. Each actual relief is retained without making the variants stages of a single medical or romantic progression. [H01:13003:006; 16011:002; 10124:003/005/006]"
+    },
+    {
+      "claim_id": "HA05",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 58,
+      "joined_saved_paragraph": "Privacy has real objects. A returned notebook is more than a generic competence symbol: three years of personal notes matter to her, and the annual books contain information about identifiable members. The adult's detached note and apology do not license a complete reading of all those records. Likewise, the late question about a matching birthday and hobby does not reveal the unprinted subject of the entry or establish a romantic identification. Her evasion and urgent pretext are part of the represented exchange; the later statement that the pretext is resolved is not an inspected emergency. Responsible interpretation can recognize intimacy without pretending to know every private referent. [H01:13003:015, whole130030330 and tail110–170]",
+      "support": [
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "13003:015;whole130030330/tail110–170",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Returned book not license for complete record reading; matched birthday/hobby unprinted subject not romance proof; pretext resolved not audited emergency.",
+      "directed_recipients_and_agency": "Member privacy, her irreplaceable notes and adult accidental-note/apology modes distinct.",
+      "actual_endpoint_and_unfinished_coda": "Notebook returned, gratitude/evasion after-state; unknown entry remains unknown.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G12",
+        "G13",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 44,
+      "frozen_author_joined_saved_paragraph": "Privacy has real objects. A returned notebook is more than a generic competence symbol: three years of personal notes matter to her, and the annual books contain information about identifiable members. The adult's detached note and apology do not license a complete reading of all those records. Likewise, the late question about a matching birthday and hobby does not reveal the unprinted subject of the entry or establish a romantic identification. Her evasion and urgent pretext are part of the represented exchange; the later statement that the pretext is resolved is not an inspected emergency. Responsible interpretation can recognize intimacy without pretending to know every private referent. [H01:13003:015, whole130030330 and tail110–170]"
+    },
+    {
+      "claim_id": "HA06",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 60,
+      "joined_saved_paragraph": "The body is both a wanted presentation and a vulnerable topic. Her wings are visibly material to presence and play, but the adult's misunderstood conditional permission is not consent for the subsequently clarified body part. At the mall, distance and prior shop inquiry serve her concern about privacy and suitable sizing. Her account of a trusted craft supplier is not an audit of its stock, and a worker's largest-size claim is not independent measurement. She chooses and pays for the item despite concerns, which preserves agency; it does not justify telling a story in which embarrassment has been cured or in which her choice makes every pressure beneficial. [H01:13003:002; 10124:003]",
+      "support": [
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "13003:002;10124:003",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Qualified conditional touch cannot extend to wings; supplier/size claims not audit or healthy fit.",
+      "directed_recipients_and_agency": "Body privacy and chosen paid purchase retained beside adult concerns.",
+      "actual_endpoint_and_unfinished_coda": "Clarification/departure and actual purchase, no body change or erased pressure.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 46,
+      "frozen_author_joined_saved_paragraph": "The body is both a wanted presentation and a vulnerable topic. Her wings are visibly material to presence and play, but the adult's misunderstood conditional permission is not consent for the subsequently clarified body part. At the mall, distance and prior shop inquiry serve her concern about privacy and suitable sizing. Her account of a trusted craft supplier is not an audit of its stock, and a worker's largest-size claim is not independent measurement. She chooses and pays for the item despite concerns, which preserves agency; it does not justify telling a story in which embarrassment has been cured or in which her choice makes every pressure beneficial. [H01:13003:002; 10124:003]"
+    },
+    {
+      "claim_id": "HA07",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 62,
+      "joined_saved_paragraph": "Food is not reducible to the body's problem. She names daily sweets as a cherished time, including when alone; the counterfactual attraction of the Sweets Club tells us what she might want, not an actual membership. She enjoys milk tea and desserts before fleeing an unresolved conversation, and later warmth, company and a beach-house meal are directly valued. The notebook's self-management principle cannot erase this wanted life. Neither an exclusively indulgent reading nor a punitive “discipline failure” reading accounts for her simultaneous attention to diet, shame, hospitality, pleasure and other people's burdens. The claims concern represented experiences and choices, not a clinical diagnosis or dietary prescription. [H01:13003:003/006; 10124:005; G01:1802]",
+      "support": [
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "13003:003/006;10124:005",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Sweets Club counterfactual not membership; appetite neither diagnosis nor discipline tribunal.",
+      "directed_recipients_and_agency": "Intrinsic food pleasure coexists with shame and wants; not all for adult benefit.",
+      "actual_endpoint_and_unfinished_coda": "Actual desserts/meal, recurrent dieting/withdrawal not erased.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 48,
+      "frozen_author_joined_saved_paragraph": "Food is not reducible to the body's problem. She names daily sweets as a cherished time, including when alone; the counterfactual attraction of the Sweets Club tells us what she might want, not an actual membership. She enjoys milk tea and desserts before fleeing an unresolved conversation, and later warmth, company and a beach-house meal are directly valued. The notebook's self-management principle cannot erase this wanted life. Neither an exclusively indulgent reading nor a punitive “discipline failure” reading accounts for her simultaneous attention to diet, shame, hospitality, pleasure and other people's burdens. The claims concern represented experiences and choices, not a clinical diagnosis or dietary prescription. [H01:13003:003/006; 10124:005; G01:1802]"
+    },
+    {
+      "claim_id": "HA08",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 66,
+      "joined_saved_paragraph": "Her most explicit institutional theory is that members were students before becoming workers for the committee, and that they chose a demanding club. The deputy's book translates that theory into practical detail: contacts, allergies, anniversaries, interests, habits and strengths or weaknesses for assignments. Such knowledge can make work humane without proving that each member enjoys every allocation or that all privacy obligations are satisfied. It is an argument for differentiated responsibility, not an inventory-based assertion of universal good management. Her own refusal to redistribute summer work because it would burden someone else exposes the unfinished part of that theory. [H01:13003:015; 10124:002]",
+      "support": [
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "13003:015;10124:002",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Differentiated records not universal enjoyable allocation/privacy audit; self-assigned schedule not nonstop work proof.",
+      "directed_recipients_and_agency": "Student members voluntarily choose club; others leisure and her burden separately valued.",
+      "actual_endpoint_and_unfinished_coda": "Actual returned planning book; refusal redistribute and leave remain unfinished.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 52,
+      "frozen_author_joined_saved_paragraph": "Her most explicit institutional theory is that members were students before becoming workers for the committee, and that they chose a demanding club. The deputy's book translates that theory into practical detail: contacts, allergies, anniversaries, interests, habits and strengths or weaknesses for assignments. Such knowledge can make work humane without proving that each member enjoys every allocation or that all privacy obligations are satisfied. It is an argument for differentiated responsibility, not an inventory-based assertion of universal good management. Her own refusal to redistribute summer work because it would burden someone else exposes the unfinished part of that theory. [H01:13003:015; 10124:002]"
+    },
+    {
+      "claim_id": "HA09",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 68,
+      "joined_saved_paragraph": "Justice work is neither assumed criminality nor automatic moral correctness. In the PS68 group account, Hasumi and Mashiro arrive in response to a report of an illegal briefing and find no one there. That is actual institutional intervention with a reported characterization, not a trial, an arrest or a completed confrontation with the business group. Eden's Gourmet handling likewise distinguishes observed coercion, contested consent claims, an intended medical route and unprinted final disposition. The institutional label supplies a responsibility to inquire and intervene; it does not replace evidence of what an intervention achieves. [G02; M02:E004–E005]",
+      "support": [
+        {
+          "source_id": "G02",
+          "accepted_argument_locator": "whole;u0118–0122",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "M02",
+          "accepted_argument_locator": "E004–E005",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Reported illegal briefing not legal verdict, arrest or completed PS68 encounter; no financial expertise inferred.",
+      "directed_recipients_and_agency": "Mashiro independent fellow responder; generic speaker labels remain local.",
+      "actual_endpoint_and_unfinished_coda": "Hasumi/Mashiro actual arrival to empty venue; medical handoff final disposition unknown.",
+      "applicable_open_gaps": [
+        "G05",
+        "G06",
+        "G07",
+        "G09",
+        "G12",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 54,
+      "frozen_author_joined_saved_paragraph": "Justice work is neither assumed criminality nor automatic moral correctness. In the PS68 group account, Hasumi and Mashiro arrive in response to a report of an illegal briefing and find no one there. That is actual institutional intervention with a reported characterization, not a trial, an arrest or a completed confrontation with the business group. Eden's Gourmet handling likewise distinguishes observed coercion, contested consent claims, an intended medical route and unprinted final disposition. The institutional label supplies a responsibility to inquire and intervene; it does not replace evidence of what an intervention achieves. [G02; M02:E004–E005]"
+    },
+    {
+      "claim_id": "HA10",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 70,
+      "joined_saved_paragraph": "The tea-party contrasts expose methods as well as purposes. In GROUP1802 she first enjoys a guest's tea, then proposes burning it after its qualified Gehenna association is revealed. No actual burning is shown, but recipients' fear and avoidance matter before any fire could occur. In Event819 she admits using Tsurugi's intimidating presence in difficult venue negotiations, while Mine calls that unfair; her warning of political escalation is prospective rather than a legal judgment. These details resist a reading in which the deputy merely offsets the commander's social difficulties with universally kind diplomacy. Hasumi can protect institutional rest through means which carry costs for outsiders and her own peers. [G01:1802; E19:007:s1:u0029–0063]",
+      "support": [
+        {
+          "source_id": "G01",
+          "accepted_argument_locator": "1802:scene:001:u:0018–0033",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E19",
+          "accepted_argument_locator": "007:s1:u0029–0063",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Proposed burning not actual destruction; political threat not legal finding; intimidation not harmless.",
+      "directed_recipients_and_agency": "Guest/tea peers actual fear and Tsurugi deployed despite social difficulty.",
+      "actual_endpoint_and_unfinished_coda": "Tea pleasure followed by proposed burn/avoidance; negotiation intimidation reported, later generosity separate.",
+      "applicable_open_gaps": [
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 56,
+      "frozen_author_joined_saved_paragraph": "The tea-party contrasts expose methods as well as purposes. In GROUP1801 she first enjoys a guest's tea, then proposes burning it after its qualified Gehenna association is revealed. No actual burning is shown, but recipients' fear and avoidance matter before any fire could occur. In Event819 she admits using Tsurugi's intimidating presence in difficult venue negotiations, while Mine calls that unfair; her warning of political escalation is prospective rather than a legal judgment. These details resist a reading in which the deputy merely offsets the commander's social difficulties with universally kind diplomacy. Hasumi can protect institutional rest through means which carry costs for outsiders and her own peers. [G01:1801; E19:007:s1:u0029–0063]"
+    },
+    {
+      "claim_id": "HA11",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 72,
+      "joined_saved_paragraph": "Her Christmas teaching offers a different practice. Novices may enjoy scones, cake and tea without mastering the cultural repertoire first, and the party recognizes their year's effort. The members actually choose relaxed enjoyment. After conflict she rejects Mine's demand for life-for-life repayment, accepts cleared misunderstanding and reported recovery as a sufficient local resolution, and invites the rescuers into an actual party. This is proportionate repair by the wronged group, not a certificate of legality, complete restitution or lasting reform. Tsurugi's reply is nonlexical and Hasumi interprets it; that distinction prevents her role as interpreter from becoming total ownership of another member's assent. [E19:006:s1:u0002–0048; 010:s1:u0033–0069; 011]",
+      "support": [
+        {
+          "source_id": "E19",
+          "accepted_argument_locator": "006:s1:u0002–0048;010:s1:u0033–0069;011",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Knowledge not eligibility gate for pleasure; Hasumi interpretation not fully verbalized Tsurugi verbal assent; local forgiveness not restitution/reform.",
+      "directed_recipients_and_agency": "Members choose enjoyment; wronged group refuses extreme repayment; Mine and juniors receive actual hospitality.",
+      "actual_endpoint_and_unfinished_coda": "Actual relaxed party and later shared party; reported recovery versus unprinted lasting repair.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 58,
+      "frozen_author_joined_saved_paragraph": "Her Christmas teaching offers a different practice. Novices may enjoy scones, cake and tea without mastering the cultural repertoire first, and the party recognizes their year's effort. The members actually choose relaxed enjoyment. After conflict she rejects Mine's demand for life-for-life repayment, accepts cleared misunderstanding and reported recovery as a sufficient local resolution, and invites the rescuers into an actual party. This is proportionate repair by the wronged group, not a certificate of legality, complete restitution or lasting reform. Tsurugi's reply is nonlexical and Hasumi interprets it; that distinction prevents her role as interpreter from becoming total ownership of another member's assent. [E19:006:s1:u0002–0048; 010:s1:u0033–0069; 011]"
+    },
+    {
+      "claim_id": "HA12",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 76,
+      "joined_saved_paragraph": "Twilight provides a precise example of pleasure that needs no crisis function. After duties she ordinarily returns toward the dorm, notices a pale-purple sky which lasts only a few minutes and accepts sitting with the adult until dark. Solitude is not thereby her only preferred life; the source expressly complicates an easy claim that she especially loves loneliness. Her later thanks value time which she describes as doing nothing. The rain episode reuses the park relationship but changes its result: overnight company, her being woken after sleep and concern about returning unnoticed. A believed dorm notification is not an audited attendance record, and intended return is not shown arrival. The wish to bathe and rest remains future, while the actual company has already occurred. [H01:13003:005/008 and their complete codas]",
+      "support": [
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "13003:005/008 whole + tails968–970/988–991",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Solitude not defining preference; reported notification not attendance audit; intended dorm return not shown arrival.",
+      "directed_recipients_and_agency": "Hasumi wants limited sky/company; adult departure/waking separate.",
+      "actual_endpoint_and_unfinished_coda": "Actual sitting until dark and overnight company; future bath/rest unshown.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G13",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 62,
+      "frozen_author_joined_saved_paragraph": "Twilight provides a precise example of pleasure that needs no crisis function. After duties she ordinarily returns toward the dorm, notices a pale-purple sky which lasts only a few minutes and accepts sitting with the adult until dark. Solitude is not thereby her only preferred life; the source expressly complicates an easy claim that she especially loves loneliness. Her later thanks value time which she describes as doing nothing. The rain episode reuses the park relationship but changes its result: overnight company, her being woken after sleep and concern about returning unnoticed. A believed dorm notification is not an audited attendance record, and intended return is not shown arrival. The wish to bathe and rest remains future, while the actual company has already occurred. [H01:13003:005/008 and their complete codas]"
+    },
+    {
+      "claim_id": "HA13",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 78,
+      "joined_saved_paragraph": "Lemon preserves are a chosen gift as well as work. She brings the adult's portion in advance because he will be busy the next day, asks about burden and is pleased by the chance to thank him. The exchange about being a manager or big sister matters because she wants to be received as a student too. Both actually bottle the committee's portion together, apparently enjoying the long task. This achieved collaboration is not unlimited availability for later calls. A subsequent early lunch scene shows how pleasure and anxiety remain entangled: she assesses her modest lunch, hears exaggerated calorie claims from unnamed participants, accepts a little of the preserved lemon and ultimately eats all the gift. Apology and a promise to remake it do not establish an accomplished replacement. [H01:16011:003/005 and full tails]",
+      "support": [
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "16011:003/005 whole and tails210–260/340–410",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Gift receipt choices not all tastings; parent/student question not settled role; exaggerated calories not nutrition; remake promise not delivered.",
+      "directed_recipients_and_agency": "Chosen thank-you/prechecked burden, committee recipients and adult company independent.",
+      "actual_endpoint_and_unfinished_coda": "Actual joint bottling and eaten whole gift; later apology/new gift future.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G13",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 64,
+      "frozen_author_joined_saved_paragraph": "Lemon preserves are a chosen gift as well as work. She brings the adult's portion in advance because he will be busy the next day, asks about burden and is pleased by the chance to thank him. The exchange about being a manager or big sister matters because she wants to be received as a student too. Both actually bottle the committee's portion together, apparently enjoying the long task. This achieved collaboration is not unlimited availability for later calls. A subsequent early lunch scene shows how pleasure and anxiety remain entangled: she assesses her modest lunch, hears exaggerated calorie claims from unnamed participants, accepts a little of the preserved lemon and ultimately eats all the gift. Apology and a promise to remake it do not establish an accomplished replacement. [H01:16011:003/005 and full tails]"
+    },
+    {
+      "claim_id": "HA14",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 80,
+      "joined_saved_paragraph": "Exercise also opens a wanted possibility without becoming a corrective regimen. She explains movements learned through operations and declines the label of professional coach. An actual set and manual correction occur; her fear about heavy pressure and the adult's inward sense of soft contact are distinct perspectives, not proof of hidden mechanical intentions. They agree to reverse roles. Later messages report a café visit and considerable dessert, treating movement as a possible enjoyable practice rather than a demonstrated weight or health intervention. The whole ending keeps both activity and food in the life she wants, with a next occasion still future. [H01:16011:006, whole scene and tail530–620]",
+      "support": [
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "16011:006 whole/tail530–620",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Operational movements not professional credential; inner contact versus fear, not intentional mechanics/clinical result.",
+      "directed_recipients_and_agency": "Her exercise choice and adult role reversal; café pleasure not weight regime.",
+      "actual_endpoint_and_unfinished_coda": "Actual set/correction/agreement; café dessert reported, next practice future.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G13",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 66,
+      "frozen_author_joined_saved_paragraph": "Exercise also opens a wanted possibility without becoming a corrective regimen. She explains movements learned through operations and declines the label of professional coach. An actual set and manual correction occur; her fear about heavy pressure and the adult's inward sense of soft contact are distinct perspectives, not proof of hidden mechanical intentions. They agree to reverse roles. Later messages report a café visit and considerable dessert, treating movement as a possible enjoyable practice rather than a demonstrated weight or health intervention. The whole ending keeps both activity and food in the life she wants, with a next occasion still future. [H01:16011:006, whole scene and tail530–620]"
+    },
+    {
+      "claim_id": "HA15",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 82,
+      "joined_saved_paragraph": "Summer does not have to end flawlessly to count as enjoyed. A schedule crowded with her name, a refusal to transfer burdens and deferred clothes shopping establish that preparation has a cost. After the actual shopping, the beach brings sandcastle and burial play, water and wing-balancing pleasure, but also food refusal and an interrupted volleyball game. She awakens in shade, with carrying reported by the adult, having eaten nothing; neither a clinical cause nor a harmlessness certificate follows. Her subsequent meal is explicitly delicious and happy. Fireworks last until they are used up, and she later describes exceptional enjoyment. The promised future visit remains unshown, as does the completion of volleyball. A conclusion which keeps only the dizziness discards her actual wanted life; one which keeps only fireworks erases the cost. [H01:10124:002–006, all MomoTalk endings]",
+      "support": [
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "10124:002–006 all BOND/MomoTalk endings",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Purchase not comfort measurement; shaded awakening not measured cause; future meal/dessert item not all consumed; next year not completed.",
+      "directed_recipients_and_agency": "Her wants/play/refusal and adult possible pressure/care/apology retained.",
+      "actual_endpoint_and_unfinished_coda": "Actual shopping, play, interruption, meal and fireworks to their end; volleyball unfinished/recurrent self-demands.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G13",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 68,
+      "frozen_author_joined_saved_paragraph": "Summer does not have to end flawlessly to count as enjoyed. A schedule crowded with her name, a refusal to transfer burdens and deferred clothes shopping establish that preparation has a cost. After the actual shopping, the beach brings sandcastle and burial play, water and wing-balancing pleasure, but also food refusal and an interrupted volleyball game. She awakens in shade, with carrying reported by the adult, having eaten nothing; neither a clinical cause nor a harmlessness certificate follows. Her subsequent meal is explicitly delicious and happy. Fireworks last until they are used up, and she later describes exceptional enjoyment. The promised future visit remains unshown, as does the completion of volleyball. A conclusion which keeps only the dizziness discards her actual wanted life; one which keeps only fireworks erases the cost. [H01:10124:002–006, all MomoTalk endings]"
+    },
+    {
+      "claim_id": "HA16",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 84,
+      "joined_saved_paragraph": "Outside the private pairs, the same ordinary interests have their own public recipients. She can enjoy corn, parfait and tea at the festival, take exhilaration in a relay result despite sixth place, and look toward another occasion. Tea at Christmas is both her interest and an accessible shared pleasure. Vacation company includes a milk-first/tea-first disagreement rather than a scientifically settled method. Her summer wish list remains an unfulfilled wish for her own leave even after successful facilitation. Ordinary life therefore includes achieved enjoyment, desire that has not been met and tastes shared without complete agreement. None is demoted because it is quiet or comic. [E18:012/019; E19:006/011; E48:007; E03:014]",
+      "support": [
+        {
+          "source_id": "E18",
+          "accepted_argument_locator": "012/019 complete meanings;207–285",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E19",
+          "accepted_argument_locator": "006/011",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E48",
+          "accepted_argument_locator": "007",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E03",
+          "accepted_argument_locator": "014",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Sixth not failure to enjoy; tea method not science; facilitator others holiday not own leave complete.",
+      "directed_recipients_and_agency": "Her wanted food/relay/company alongside each peer distinct pleasure.",
+      "actual_endpoint_and_unfinished_coda": "Actual tea/festival enjoyment and wishes, unfulfilled leave remains.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 70,
+      "frozen_author_joined_saved_paragraph": "Outside the private pairs, the same ordinary interests have their own public recipients. She can enjoy corn, parfait and tea at the festival, take exhilaration in a relay result despite sixth place, and look toward another occasion. Tea at Christmas is both her interest and an accessible shared pleasure. Vacation company includes a milk-first/tea-first disagreement rather than a scientifically settled method. Her summer wish list remains an unfulfilled wish for her own leave even after successful facilitation. Ordinary life therefore includes achieved enjoyment, desire that has not been met and tastes shared without complete agreement. None is demoted because it is quiet or comic. [E18:012/019; E19:006/011; E48:007; E03:014]"
+    },
+    {
+      "claim_id": "HA17",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 90,
+      "joined_saved_paragraph": "The vacation shows the limit of that calm. Hasumi condemns Gehenna after the Hot Spring attack, is physically affected by it, and resists dialogue. Ichika's attempt to distinguish a specific club from a whole school has independent force; Mika retains suspicion even after the correction. Hasumi's later agreement to an explanation and practical cooperation need not be invented as an ideological conversion. During the Gourmet conflict, Hasumi and Ichika move toward force while Mika seeks dialogue; Izumi and Junko have their own reasons for care and acceptance of food. Hasumi's recognition-based culprit inference is not a trial finding, and a force threat is not a shown shot. The subsequent meal, cleanup and gratitude keep a useful response visible without removing suspicion or lost play time. [E48:003/006/007/009]",
+      "support": [
+        {
+          "source_id": "E48",
+          "accepted_argument_locator": "003/006/007/009 complete arguments",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Culprit inference not trial; threat not shot; practical cooperation not ideological cure; Hot Spring affects her not clinical diagnosis.",
+      "directed_recipients_and_agency": "Ichika distinguishes club from school, Mika dialogue, Izumi and Junko care own; helper lost play time retained.",
+      "actual_endpoint_and_unfinished_coda": "Attack and dispute; actual food/shared cleanup/gratitude, suspicious attitudes unresolved.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 76,
+      "frozen_author_joined_saved_paragraph": "The vacation shows the limit of that calm. Hasumi condemns Gehenna after the Hot Spring attack, is physically affected by it, and resists dialogue. Ichika's attempt to distinguish a specific club from a whole school has independent force; Mika retains suspicion even after the correction. Hasumi's later agreement to an explanation and practical cooperation need not be invented as an ideological conversion. During the Gourmet conflict, Hasumi and Ichika move toward force while Mika seeks dialogue; Izumi and Junko have their own reasons for care and acceptance of food. Hasumi's recognition-based culprit inference is not a trial finding, and a force threat is not a shown shot. The subsequent meal, cleanup and gratitude keep a useful response visible without removing suspicion or lost play time. [E48:003/006/007/009]"
+    },
+    {
+      "claim_id": "HA18",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 92,
+      "joined_saved_paragraph": "Christmas gives the most sustained test of inquiry and proportionality. Hasumi's recovery of an item is first misread as unjust taking because Mine blocks the explanation. The delinquents' deception is real, but their pain is not therefore imaginary. Hasumi reports coercive sales and threats once the cause becomes explicit; numerical heat and chemical claims remain attributed, as do the opponents' defensive rationalizations. Mine's useful care and the juniors' treatment are preserved alongside injuries caused by premature force. The opponents ultimately escape. Hasumi refuses a dramatic life repayment which would impose another extreme demand on the wronged group, accepts local treatment and recovery reports, and returns everyone to wanted company. Listening was not the error; halted inquiry and force on an incomplete case were. [E19:003–010]",
+      "support": [
+        {
+          "source_id": "E19",
+          "accepted_argument_locator": "003–010 complete",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Deception not imaginary injury; toxicology and heat attributed; no arrest/restitution; listening not endorsement of force.",
+      "directed_recipients_and_agency": "Delinquents real pain and strategic plan; Mine intentions versus interrupted inquiry; juniors choices and treatment distinct.",
+      "actual_endpoint_and_unfinished_coda": "Opponents escape; reported local recovery/Hasumi rejects life repayment and invites the party.",
+      "applicable_open_gaps": [
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 78,
+      "frozen_author_joined_saved_paragraph": "Christmas gives the most sustained test of inquiry and proportionality. Hasumi's recovery of an item is first misread as unjust taking because Mine blocks the explanation. The delinquents' deception is real, but their pain is not therefore imaginary. Hasumi reports coercive sales and threats once the cause becomes explicit; numerical heat and chemical claims remain attributed, as do the opponents' defensive rationalizations. Mine's useful care and the juniors' treatment are preserved alongside injuries caused by premature force. The opponents ultimately escape. Hasumi refuses a dramatic life repayment which would impose another extreme demand on the wronged group, accepts local treatment and recovery reports, and returns everyone to wanted company. Listening was not the error; halted inquiry and force on an incomplete case were. [E19:003–010]"
+    },
+    {
+      "claim_id": "HA19",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 100,
+      "joined_saved_paragraph": "Adult reassurance can have a real local benefit. She reports that the headache has gone, insists on the bakery visit and later thanks him. He shares park time, wakes her after overnight sleep and helps with the practical lemon task. But her subsequent caution against pressure, her desire to meet an ideal summer presentation and his own apology after the beach episode are consequential. Her denial of blame does not establish that the encouragement had no effect. Nor can concern authorize overruling every chosen purchase or meal. The relationship is ethically mixed because reassurance, attraction, dependence, desire and self-expectation interact while the actual results remain finite. [H01:13003:006/008; 16011:003; 10124:002–006]",
+      "support": [
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "13003:006/008;16011:003;10124:002–006",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Reported relief not total cure; denied blame not proof of zero pressure; adult concern is not unlimited authority.",
+      "directed_recipients_and_agency": "Initiation, chosen company, purchase and food separate from reassurance/apology.",
+      "actual_endpoint_and_unfinished_coda": "Actual park, gift and meal; recurring diet caution and future visits unclosed.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G13",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 86,
+      "frozen_author_joined_saved_paragraph": "Adult reassurance can have a real local benefit. She reports that the headache has gone, insists on the bakery visit and later thanks him. He shares park time, wakes her after overnight sleep and helps with the practical lemon task. But her subsequent caution against pressure, her desire to meet an ideal summer presentation and his own apology after the beach episode are consequential. Her denial of blame does not establish that the encouragement had no effect. Nor can concern authorize overruling every chosen purchase or meal. The relationship is ethically mixed because reassurance, attraction, dependence, desire and self-expectation interact while the actual results remain finite. [H01:13003:006/008; 16011:003; 10124:002–006]"
+    },
+    {
+      "claim_id": "HA20",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 108,
+      "joined_saved_paragraph": "Tsurugi is neither simply an intimidating tool nor an incompetent superior for Hasumi to replace. Hasumi takes on external festival responsibilities in response to Tsurugi's difficulty, interprets some nonlexical answers and offers reassurance about tense company. Yet venue negotiations expose her willingness to use that very intimidation. Tsurugi independently chooses easier outside guard work, protects others' rare rest, accepts hospitality in some circumstances and holds a rear guard with Hasumi. GROUP1802's sweets reception can feel welcoming to Tsurugi while the reader sees peers' fear; Hasumi's relief does not make all recipients comfortable. Nor does her interpretation of Tsurugi's Christmas reply become a complete verbalized assent. The relationship combines trust, practical accommodation, asymmetrical interpretation and ethically questionable deployment. [H01:16011 written; G01:1802; M03; E19:006–011]",
+      "support": [
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "16011 written",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "G01",
+          "accepted_argument_locator": "1802 whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "M03",
+          "accepted_argument_locator": "E006–E018",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E19",
+          "accepted_argument_locator": "006–011",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Hasumi interpreter not total assent; Tsurugi felt welcome not all peer comfort; no commander replacement identity.",
+      "directed_recipients_and_agency": "Tsurugi chooses outside work, guarding and rest and actual rear guard; Hasumi accommodation/intimidation both.",
+      "actual_endpoint_and_unfinished_coda": "Actual practical reciprocity and felt welcome versus fear; later party replies qualified.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 94,
+      "frozen_author_joined_saved_paragraph": "Tsurugi is neither simply an intimidating tool nor an incompetent superior for Hasumi to replace. Hasumi takes on external festival responsibilities in response to Tsurugi's difficulty, interprets some nonlexical answers and offers reassurance about tense company. Yet venue negotiations expose her willingness to use that very intimidation. Tsurugi independently chooses easier outside guard work, protects others' rare rest, accepts hospitality in some circumstances and holds a rear guard with Hasumi. GROUP1802's sweets reception can feel welcoming to Tsurugi while the reader sees peers' fear; Hasumi's relief does not make all recipients comfortable. Nor does her interpretation of Tsurugi's Christmas reply become a complete verbalized assent. The relationship combines trust, practical accommodation, asymmetrical interpretation and ethically questionable deployment. [H01:16011 written; G01:1802; M03; E19:006–011]"
+    },
+    {
+      "claim_id": "HA21",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 110,
+      "joined_saved_paragraph": "Mashiro has her own idea of enjoyable duty. Hasumi's accessible party does not supersede Mashiro's stated pleasure in protecting others' enjoyment, and another member's invitation to try the party does not invalidate that preference. Tsurugi's offered guard shift and Mashiro's voluntary refusal to leave her senior alone are concrete reciprocal actions. The PS68 intervention puts Hasumi and Mashiro on the same actual response route without proving a completed confrontation. Their common institutional affiliation is therefore context for different responsibilities, not evidence that one person's mind or leisure can be copied into the other's package. [E19:006:s2:u0003–0059; G02]",
+      "support": [
+        {
+          "source_id": "E19",
+          "accepted_argument_locator": "006:s2:u0003–0059",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "G02",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Common institution not shared mind/preference; guard pleasure not lack of private life; reported briefing not completed confrontation.",
+      "directed_recipients_and_agency": "Mashiro own wanted guarding, member invitation, Tsurugi offer and voluntary defense.",
+      "actual_endpoint_and_unfinished_coda": "Temporary shift relief/actual defense; limits on own party pleasure kept.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 96,
+      "frozen_author_joined_saved_paragraph": "Mashiro has her own idea of enjoyable duty. Hasumi's accessible party does not supersede Mashiro's stated pleasure in protecting others' enjoyment, and another member's invitation to try the party does not invalidate that preference. Tsurugi's offered guard shift and Mashiro's voluntary refusal to leave her senior alone are concrete reciprocal actions. The PS68 intervention puts Hasumi and Mashiro on the same actual response route without proving a completed confrontation. Their common institutional affiliation is therefore context for different responsibilities, not evidence that one person's mind or leisure can be copied into the other's package. [E19:006:s2:u0003–0059; G02]"
+    },
+    {
+      "claim_id": "HA22",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 114,
+      "joined_saved_paragraph": "Ichika supplies judgment and capacity which Hasumi cannot silently appropriate. On vacation she distinguishes a club from a whole school, identifies shared cleanup needs, seeks a practical explanation from Kasumi and later agrees to a renewed cooperation request. Hasumi explicitly recalls the difficulty of managing organized groups alone, drawing on Tsurugi's experience; Ichika's aid is not proof of a finished operation. Ichika also feels the pressure of Tea Party hierarchy when she cannot comfortably refuse. Hasumi's gratitude and negotiations belong beside this peer's own time and constraints. Mika's invitation to enjoy the holiday and acknowledgment of Hasumi's company for the other two members are real affirmations without making all enforcement or social consequences complete. [E48:002–011/015–016]",
+      "support": [
+        {
+          "source_id": "E48",
+          "accepted_argument_locator": "002–011/015–016",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Requested cooperation not completed operation; gratitude not erase hierarchical refusal cost.",
+      "directed_recipients_and_agency": "Ichika judgment/cleanup/dealing time independent; Mika wanted vacation/recognition separate.",
+      "actual_endpoint_and_unfinished_coda": "Actual helper work/shared company; next cooperation agreed but enforcement unshown.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 100,
+      "frozen_author_joined_saved_paragraph": "Ichika supplies judgment and capacity which Hasumi cannot silently appropriate. On vacation she distinguishes a club from a whole school, identifies shared cleanup needs, seeks a practical explanation from Kasumi and later agrees to a renewed cooperation request. Hasumi explicitly recalls the difficulty of managing organized groups alone, drawing on Tsurugi's experience; Ichika's aid is not proof of a finished operation. Ichika also feels the pressure of Tea Party hierarchy when she cannot comfortably refuse. Hasumi's gratitude and negotiations belong beside this peer's own time and constraints. Mika's invitation to enjoy the holiday and acknowledgment of Hasumi's company for the other two members are real affirmations without making all enforcement or social consequences complete. [E48:002–011/015–016]"
+    },
+    {
+      "claim_id": "HA23",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 116,
+      "joined_saved_paragraph": "Mine is a remembered acquaintance and a genuine adversarial recipient of Hasumi's reasoning. Recollected cake and pudding incidents are not completely known historical events. Their conflict instead supplies a shown present distinction between recovery and unjust taking, interrupted explanations, injuries, disclosed deception and local forgiveness. Hasumi's refusal of Mine's life-for-life offer limits the burden that self-condemnation would place on others; Mine's actual tea expertise remains useful. Serina and Hanae independently choose forms of aid, treat wounded colleagues, apologize and receive hospitality. Their care is neither erased by the mistaken operational choice nor reassigned to Hasumi as the only author of repair. [E19:007–011]",
+      "support": [
+        {
+          "source_id": "E19",
+          "accepted_argument_locator": "007–011",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Old cake stories not complete past; treatment reports not clinical audit; forgiveness not lasting reform.",
+      "directed_recipients_and_agency": "Mine accepts bounded qualification, juniors own choices and treatment/apology, Hasumi proportionate limit.",
+      "actual_endpoint_and_unfinished_coda": "Actual shared party/tea advice/hats; peers still doubt future improvement.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 102,
+      "frozen_author_joined_saved_paragraph": "Mine is a remembered acquaintance and a genuine adversarial recipient of Hasumi's reasoning. Recollected cake and pudding incidents are not completely known historical events. Their conflict instead supplies a shown present distinction between recovery and unjust taking, interrupted explanations, injuries, disclosed deception and local forgiveness. Hasumi's refusal of Mine's life-for-life offer limits the burden that self-condemnation would place on others; Mine's actual tea expertise remains useful. Serina and Hanae independently choose forms of aid, treat wounded colleagues, apologize and receive hospitality. Their care is neither erased by the mistaken operational choice nor reassigned to Hasumi as the only author of repair. [E19:007–011]"
+    },
+    {
+      "claim_id": "HA24",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 118,
+      "joined_saved_paragraph": "At the festival, Hasumi recognizes a use for Tsukuyo's height in a formation while Tsukuyo remains the person experiencing distress about it. Chise and Izuna have their own lookout and creative contributions, and the result is a team's win, not Hasumi's solitary causal effect. Later relay exhilaration coexists with Tsurugi's rejection of monopoly and recognition of less visible workers by others. The summer wish list likewise includes Hifumi's tank and sea wishes, Azusa's first sea experience, and Tsurugi and Mashiro's different companionship and craft questions. Hasumi's facilitating position must not convert peers' fulfilled wishes into her own completed leave or erase their independent wanted lives. [E18:011–012/019; E03:001–021]",
+      "support": [
+        {
+          "source_id": "E18",
+          "accepted_argument_locator": "011–012/019 complete meanings/207–285",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E03",
+          "accepted_argument_locator": "001–021 whole comparison",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Team win is not the sole coach cause; raw Izuna/Yuuka/Noa seams not reassigned; others fulfilled wishes not Hasumi leave.",
+      "directed_recipients_and_agency": "Tsukuyo distress/height, Chise/Izuna own creativity, relay/invisible worker recognition and summer peers own wishes.",
+      "actual_endpoint_and_unfinished_coda": "Team win, relay exhilaration, sea and craft ends; Hasumi leave unfulfilled.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G08",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 104,
+      "frozen_author_joined_saved_paragraph": "At the festival, Hasumi recognizes a use for Tsukuyo's height in a formation while Tsukuyo remains the person experiencing distress about it. Chise and Izuna have their own lookout and creative contributions, and the result is a team's win, not Hasumi's solitary causal effect. Later relay exhilaration coexists with Tsurugi's rejection of monopoly and recognition of less visible workers by others. The summer wish list likewise includes Hifumi's tank and sea wishes, Azusa's first sea experience, and Tsurugi and Mashiro's different companionship and craft questions. Hasumi's facilitating position must not convert peers' fulfilled wishes into her own completed leave or erase their independent wanted lives. [E18:011–012/019; E03:001–021]"
+    },
+    {
+      "claim_id": "HA25",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 122,
+      "joined_saved_paragraph": "Hasumi's language makes an argument about the order of responsibilities: students precede workers, and voluntary club membership does not abolish enjoyment. The notebook's concrete particulars protect this from becoming a generic kindness slogan. At Christmas, knowledge is presented as enriching pleasure rather than granting permission to have it. In the dispute, admitting 回収 does not admit the stronger 奪う accusation. Justice as an institutional name cannot settle whether its own act was just, just as Mine's 救護 vocabulary cannot make every corrective attack care. These textual distinctions explain the conflicts more accurately than an English paraphrase which converts every retrieval into theft or every rescue into benign treatment. [H01:13003:015; E19:006/009; E19:checkpoint:L118]",
+      "support": [
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "13003:015",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E19",
+          "accepted_argument_locator": "episodes006/009; checkpoint physical L118",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Recovery admission not theft concession; rescue/justice words not ethical certificate for acts.",
+      "directed_recipients_and_agency": "Hasumi teaches ordinary access; Mine contested semantic extension; recipients kept.",
+      "actual_endpoint_and_unfinished_coda": "Printed lexical distinctions explain conflict, no legal judgment.",
+      "applicable_open_gaps": [
+        "G08",
+        "G09",
+        "G10",
+        "G13",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 108,
+      "frozen_author_joined_saved_paragraph": "Hasumi's language makes an argument about the order of responsibilities: students precede workers, and voluntary club membership does not abolish enjoyment. The notebook's concrete particulars protect this from becoming a generic kindness slogan. At Christmas, knowledge is presented as enriching pleasure rather than granting permission to have it. In the dispute, admitting 回収 does not admit the stronger 奪う accusation. Justice as an institutional name cannot settle whether its own act was just, just as Mine's 救護 vocabulary cannot make every corrective attack care. These textual distinctions explain the conflicts more accurately than an English paraphrase which converts every retrieval into theft or every rescue into benign treatment. [H01:13003:015; E19:006/009/118]"
+    },
+    {
+      "claim_id": "HA26",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 124,
+      "joined_saved_paragraph": "Her requests, evasions and reports have different audiences. Some teacher lines are inward or alternatives, while a later response may follow them in the representation. Private claims about size, weight, sleep, paperwork and notification are not automatically narrator measurements. A message coda records a later report or promise rather than replaying the entire meeting as a second event. The timed rain and fitting logs repeat represented situations in a written mode; they do not create another treatment, purchase or night. The meanings of wing secrecy, matching notebook entries and an urgent pretext depend on what their recipients actually know. No acoustic performance, camera response or heard laugh has been received for this monograph. [H01:13003:002/008/015; 16011:002/005; G01; E19:checkpoint:L120]",
+      "support": [
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "13003:002/008/015;16011:002/005",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "G01",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E19",
+          "accepted_argument_locator": "checkpoint physical L120",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Inward responses not telepathy/heard performance; repeated timed logs not second treatment/purchase/night.",
+      "directed_recipients_and_agency": "Recipient knowledge and referents different; reports not measurements.",
+      "actual_endpoint_and_unfinished_coda": "Printed misunderstandings/response mode preserved; no AV credit.",
+      "applicable_open_gaps": [
+        "G07",
+        "G08",
+        "G09",
+        "G10",
+        "G12",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 110,
+      "frozen_author_joined_saved_paragraph": "Her requests, evasions and reports have different audiences. Some teacher lines are inward or alternatives, while a later response may follow them in the representation. Private claims about size, weight, sleep, paperwork and notification are not automatically narrator measurements. A message coda records a later report or promise rather than replaying the entire meeting as a second event. The timed rain and fitting logs repeat represented situations in a written mode; they do not create another treatment, purchase or night. The meanings of wing secrecy, matching notebook entries and an urgent pretext depend on what their recipients actually know. No acoustic performance, camera response or heard laugh has been received for this monograph. [H01:13003:002/008/015; 16011:002/005; G01; E19:120]"
+    },
+    {
+      "claim_id": "HA27",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 126,
+      "joined_saved_paragraph": "The three profiles preserve literal metadata and different descriptions without becoming a universal age progression. Their present routes all belong to the declared Hasumi family; their school-year, age, birthday, height and interests are written fields rather than measurements of growth between stories. Base café and lobby lines include reading, rest, food resistance, work and threats; sports and summer lines anticipate movement, seasonal meetings, birthdays and protection. Such wishes and pledges are meaningful written characterization, but “never lose” or future availability is not a demonstrated invariant. The summer introduction's qualified expectation of enjoying a guard assignment is not proof that the entire holiday is carefree. [H01:449–516, five Hasumi written objects]",
+      "support": [
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "449–516 five Hasumi written objects",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Profile fields not growth measure; holidays/promises not completed visit or invariant; qualified summer introduction not carefree vacation.",
+      "directed_recipients_and_agency": "Wanted reading/rest/movement/contact/protection remain literal written addresses.",
+      "actual_endpoint_and_unfinished_coda": "Written characterization retained; future pledges unverified.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G08",
+        "G09",
+        "G10",
+        "G12",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 112,
+      "frozen_author_joined_saved_paragraph": "The three profiles preserve literal metadata and different descriptions without becoming a universal age progression. Their present routes all belong to the declared Hasumi family; their school-year, age, birthday, height and interests are written fields rather than measurements of growth between stories. Base café and lobby lines include reading, rest, food resistance, work and threats; sports and summer lines anticipate movement, seasonal meetings, birthdays and protection. Such wishes and pledges are meaningful written characterization, but “never lose” or future availability is not a demonstrated invariant. The summer introduction's qualified expectation of enjoying a guard assignment is not proof that the entire holiday is carefree. [H01:449–516, five Hasumi written objects]"
+    },
+    {
+      "claim_id": "HA28",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 128,
+      "joined_saved_paragraph": "Two costume objects retain empty profiles and event-addressed lines. Their route links to the festival and later vacation contextualize work, joy, trust and questions about other people; they do not produce two new persons or silently add complete plotted scenes. Literal mission-buy fields are not payment records. Hasumi's reference to “that child” stays qualified where the subject is not printed, and a conditional thanks to Mika does not itself replay a complete event. Cross-mode comparison can strengthen the picture of interests and obligations while preserving missing performances, unknown address conditions and unproved transactions. [H01:1900906901/1900940201 written clauses]",
+      "support": [
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "1900906901/1900940201 complete written clauses",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Empty profiles not biographies; buy field not payment; that child qualified; costume not new person/plotted event.",
+      "directed_recipients_and_agency": "Contextual joy/obligation/trust and questions directed under unknown conditions.",
+      "actual_endpoint_and_unfinished_coda": "Written address evidence only, no transaction/performance.",
+      "applicable_open_gaps": [
+        "G07",
+        "G08",
+        "G09",
+        "G10",
+        "G12",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 114,
+      "frozen_author_joined_saved_paragraph": "Two costume objects retain empty profiles and event-addressed lines. Their route links to the festival and later vacation contextualize work, joy, trust and questions about other people; they do not produce two new persons or silently add complete plotted scenes. Literal mission-buy fields are not payment records. Hasumi's reference to “that child” stays qualified where the subject is not printed, and a conditional thanks to Mika does not itself replay a complete event. Cross-mode comparison can strengthen the picture of interests and obligations while preserving missing performances, unknown address conditions and unproved transactions. [H01:1900906901/1900940201 written clauses]"
+    },
+    {
+      "claim_id": "HA29",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+      "saved_line": 140,
+      "joined_saved_paragraph": "The final rival is a success metric in which rest exists only after all duties and harms are resolved. That would exclude most of the represented life: a sixth-place relay can be exhilarating, a tiring day can offer company, Christmas can end in a real party while opponents escape, and a facilitated summer can still leave the facilitator's own holiday unfinished. The inverse metric, counting every happy ending as complete repair, is equally defective. Actual pleasure and unfinished obligation can coexist. Keeping both is the central explanatory gain of the monograph. [E18:019; E19:010–011; E03:014; H01:10124:005/006]",
+      "support": [
+        {
+          "source_id": "E18",
+          "accepted_argument_locator": "019",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E19",
+          "accepted_argument_locator": "010–011",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E03",
+          "accepted_argument_locator": "014",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "H01",
+          "accepted_argument_locator": "10124:005/006",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Pleasure not contingent on all harms being resolved; happy end not full repair/restful holiday completed.",
+      "directed_recipients_and_agency": "Every quiet want intrinsically valued, peers and her different benefits retained.",
+      "actual_endpoint_and_unfinished_coda": "Actual local good ends plus leave/volleyball/restitution/reform unfulfilled.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G09",
+        "G13",
+        "G14"
+      ],
+      "author_verification": "Complete relevant accepted analytical arguments personally received at declared scope; source and saved paragraph received, original primary custody remains attributed.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 126,
+      "frozen_author_joined_saved_paragraph": "The final rival is a success metric in which rest exists only after all duties and harms are resolved. That would exclude most of the represented life: a sixth-place relay can be exhilarating, a tiring day can offer company, Christmas can end in a real party while opponents escape, and a facilitated summer can still leave the facilitator's own holiday unfinished. The inverse metric, counting every happy ending as complete repair, is equally defective. Actual pleasure and unfinished obligation can coexist. Keeping both is the central explanatory gain of the monograph. [E18:019; E19:010–011; E03:014; H01:10124:005/006]"
+    }
+  ],
+  "eleven_headers": [
+    "## 1. Core thesis",
+    "## 2. Longitudinal arc",
+    "## 3. Public and private self",
+    "## 4. School and club role",
+    "## 5. Ordinary life",
+    "## 6. Crisis behavior",
+    "## 7. Relationship with Sensei",
+    "## 8. Major peer relationships",
+    "## 9. Language and written voice",
+    "## 10. Competing readings",
+    "## 11. Evidence route and remaining limits"
+  ],
+  "complete_saved_body_readback": "11ff20 saved1–87; a5d4c7 saved88–138EOF and final26",
+  "all14gaps": "OPEN",
+  "counts_not_completion_proof": true,
+  "original_primary_or_performed_or_independent_credit_added": 0,
+  "ROOT_literary_review": "COMPLETE_WITH_LIMITS",
+  "N_or_quarter_claimed": false,
+  "root_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json"
+}

@@ -1,0 +1,2622 @@
+{
+  "schema": "BLUE_ARCHIVE_FUBUKI_FULL_REVERSIBLE_SAVED_TRANSPORT_V1",
+  "status": "C_ONLY_PROPOSED_CANONICAL_DERIVATIVE_ROOT_REVIEW_INSTALLATION_PENDING",
+  "full_frozen_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/BLUE_ARCHIVE_FUBUKI_CHARACTER_MONOGRAPH.md",
+      "bytes": 48247,
+      "sha256": "fedbd33516601d374ca6c67ad835e3cb1f3f2fab036863fba98ec4fa8c62fece",
+      "git_blob_oid_of_actual_bytes": "bcb44d28d5264a47e041e6f5ea951ea9ac226e1e",
+      "lines": 198,
+      "immutable_transport_path": "immutable_originals/VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/BLUE_ARCHIVE_FUBUKI_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_FUBUKI_CHARACTER_MONOGRAPH.md",
+      "bytes": 50564,
+      "sha256": "4e12e332ce425e81ee564194f42ec8afa11aa87e41ff29409846dfd00ff56cab",
+      "git_blob_oid_of_actual_bytes": "11aa63cc3fccf0422cdd8de8ad6ceeea7841aa4b",
+      "lines": 208
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "aa0d3e7097393652a1e16b6e0f1e6b06aff5a1063f04a4e415b66893cd4abc2a",
+        "line_text": "scope: \"Fubuki / P3-CHAR-FUBUKI-CH0141 / P3-F045; dated P3-A011 is retrieval history\""
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "a076e7421498d443c4fc2205f76d938a5a06d9269517a760fe7cc3c606e870c9",
+        "line_text": "source_person: BA_PERSON_CH0141"
+      },
+      {
+        "frozen_line": 7,
+        "canonical_line": 7,
+        "line_sha256": "a65e4438532a5d331300b400e0c5d2a6785bb9e3b40befa30d4ac206b2194141",
+        "line_text": "source_family: CH0141"
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "d414fa6dd53ba5629978b1d3c00c0fd403d41c6a10ee6f03f4ce7b2fe41e13a0",
+        "line_text": "analytical_capture: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "7d86b06c2561ccc0d0024456ee7b8d3e0cd6dceefa12d8da76f79e23dca6f366",
+        "line_text": "source_boundary: \"Complete maintained written private argument and disclosed complete or bounded public analytical meanings; qualified prior personal argument reuse, no new primary or performed receiving\""
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "ed2e528e6315754c1403405723fcd84011f6ea85eca3bf6d98f192bf5d3300a1",
+        "line_text": "created: 2026-10-10"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "b181549213a7aae28bcc450154b6bba0d6460d8d40e1a120094d80c0eaf065d0",
+        "line_text": "model_promotion: NONE"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "f0515889f503e4c3ad756f8445eed1c83f09043c17c7494a09924e1b9c6dc502",
+        "line_text": "stable_gaps: ALL_FOURTEEN_OPEN"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 26,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 27,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 28,
+        "line_sha256": "1ab3176d911611bfec43a1c19bc70a619b2a357fd27b1765234a7693842b689d",
+        "line_text": "# Fubuki — the value of rest and the work of obtaining it"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 31,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 32,
+        "line_sha256": "601fc768f01e88b14ac174eccbe24dcdb32981a9f83656a5c547c556c4a1d746",
+        "line_text": "**F000 — Responsibility and evidence.** This candidate serves the existing Fubuki character home under architecture §7.1. Its selected private extent is seven BOND encounters, seven whole positively joined MomoTalk threads and four written objects, including both costume registers. It compares the complete maintained arguments for consequential Rabbit and Final appearances, GROUP270, water-park work, the811 public patrol, sports-festival cooperation, image work and a seasonal gift. Actual receiving extents and exact source copies are disclosed separately. Cycle008 governs present admission; older producer queue and noncurrent-draft statements remain their creation history. This author has not given ROOT acceptance or canonical completion. A taste, a wish for holiday, a painful refusal or an uneaten offered gift can matter independently of an arrest or crisis. [Architecture][R08], [method][R09], [private owner][F01], [current admission][R14]."
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 33,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 34,
+        "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+        "line_text": "## 1. Core thesis"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 35,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 36,
+        "line_sha256": "25667a6bc6dc0c07003153bd0a834d2b0d3bc18a3ab3a9d23762dd22e1b8749e",
+        "line_text": "**F001.** Fubuki wants a pleasant, unhurried life, and the literary account should take that want seriously before judging its methods. Donuts, coffee, games, radio, a cool sofa, company and time without assigned activity have specific value to her. The central problem is how she obtains those things within an institution that shares work and resources. Sometimes she shifts an obligation onto Kirino, another bureau or Sensei; sometimes she discovers that her attempted shortcut makes leisure less comfortable than an official break. She can also choose demanding care while hiding it from institutional recognition. Her character is therefore best understood through the distribution of labor, rest, knowledge and recognition rather than a single scale from laziness to redeemed industriousness. [Whole private argument][F01], [GROUP270][R16], [water park][E837]."
+      },
+      {
+        "frozen_line": 27,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 38,
+        "line_sha256": "1cf65bf210f229560a6baff84d62e6b057bf680ce27b412f9ccc6487da7bc3a4",
+        "line_text": "**F002.** The ordinary outcomes discriminate this thesis. She actually enjoys donuts at a stakeout, yet no suspect is caught there. A cherished hairpin is found and returned, followed by shared donuts. An official-tasting pretext produces completed but unwanted cucumber-donut eating. A supposed automatic patrol ends in entrapment, rescue and further work, while the whole message tail preserves actual ice-cream enjoyment and a modest openness to patrolling together. A secluded paradise becomes hot, uncomfortable solitude that misses a legitimate break and its treats. Pleasure is neither automatically achieved whenever she claims it nor meaningful only when it incentivizes useful work. [Seven complete private pairs][F01]."
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 39,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 40,
+        "line_sha256": "ee1d647e068c76f893957a37ad337e86235b822ba9263d372ce3738cf21611e1",
+        "line_text": "**F003.** Public action prevents an equally reductive account of incapacity. Fubuki executes a countersign trick during the Rabbit subdual, contributes to station access, helps free Sensei and asks that wounded Kanna rest. At the water park she actually rescues a visitor and understands something about children's enjoyment that Kanna's authority cannot supply. These are meaningful capacities. Their occurrence does not retroactively make unattended macro replies or forgotten information harmless. In the festival scene, her delegation of arrangements to Kirino and explicit wish to reduce her own work remain visible beside thanks for Mari's help. A competence must be situated and an affected peer allowed to answer. [Rabbit E002][M02], [station E018][M12], [Final E009][M16], [EVENT837][E837], [EVENT841005–006][E841]."
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "2067714b2f3f8634d476c19b87051ab8f8025b52a67cc79bcb33cfc5ab750b3c",
+        "line_text": "**F004.** Confidence is high in the local choices and outcomes identified by adequate maintained owners. It is narrower in fictional inspector rules, reimbursement claims, technical or legal explanations, an absent suspect, injury mechanisms and administrative recognition. The private hairpin search does not create a sustainable policy for every request, and a lifesaver's official praise does not certify the work actually performed. Her variant identity is positively bound: base16008 and swimsuit20037 belong to BA_PERSON_CH0141. Their releases and IDs do not supply a global development calendar. The monograph preserves those limits without treating uncertain, comic or quiet evidence as disposable. [Private identity and limits][F01], [source-class crosswalk][R11], [stable gaps][R12]."
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "f6f9a0a0790f2f4a9b267f73026f1d2134fa84fd7947d0d8570feaf0a2fd78e2",
+        "line_text": "## 2. Longitudinal arc and supported ordering"
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "4bd8764bf9edd9d662a05cb0321854a70e3490ee677ab937988f141319d7789f",
+        "line_text": "**F005.** Rabbit Chapter 1 first contrasts Fubuki's reluctance with Kanna's institutional pessimism and Kirino's service ambition. Sensei challenges an absolute distinction between elite SRT and the Life Safety students; Kanna permits their participation with support. Fubuki's assent is partly connected to possible leave. Within the operation she poses as Saki, reverses Miyu's countersign challenge and extracts the answer, crediting Sensei's psychological prediction. A shot and lost contact follow without an injury audit. The local subdual is accomplished; the future reward remains the superior's decision. That ending permits credit for her initiative without inventing awarded leave or identical tactical ability across all students. [Complete E002 argument][M02]."
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "335c166767c4d2935e92d9c4ce081eeb58308cfd1e1f28b31dc6465b44f1aa45",
+        "line_text": "**F006.** The same chapter also supplies a contrary tactical result. While grudgingly patrolling, she notices an obvious trap and reaches for a limited marshmallow donut. RABBIT's local success is reported, but the mechanism is skipped. Later Kirino finds her down under a cardboard box, and she says her memory is unclear while offering food. This is not a witnessed clinical diagnosis or proof of how the box subdued her. It is nevertheless contrary to a universally vigilant persona. The sequence does not require suppressing either the earlier countersign success or the present appetite-directed failure. [Whole E018 argument][M23], [Chapter 1 synthesis][M01]."
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "d38338b05fd37c6b095a6f295db43014f62fe4dda2ede11722c5a721b391726a",
+        "line_text": "**F007.** Final provides another local sequence, whose cross-volume placement cannot be inferred from corpus order. Fubuki and Kirino help defeat immediate pursuers and guide the cage escape toward cover. Fubuki notices Kanna's condition and asks for rest; her joking donut request accompanies help already undertaken. Subsequent movement remains materially constrained by inferior numbers, support and supplies. RABBIT's arrival, escort and other Public Security students' assistance make the escape a coalition. Fubuki does not need a solemn renunciation of pleasure to act in it. Nor does aid under crisis prove that every earlier burden-shifting choice has been repaired. [Final checkpoint and chronology qualification][M15], [E009][M16], [E010][M17], [E011][M18], [E012][M19], [E013][M20]."
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "873bbdd31e7055de11b5adad982de24f6d2220901e5f08c5717f7756f0e7707f",
+        "line_text": "**F008.** Rabbit Chapter 2 gives practiced routes another use. Fubuki joins the demand for surrender, uses station knowledge as tactical talk and obtains a promise of a cruller. The sign's fall and the escalator's exact stopping mechanism are not printed, even though a guard reacts. She briefly appreciates Decartes's ideal of no work, then objects to its demand to surrender possessions; no recruitment follows. Miyako reaches the platform and credits Life Safety, while the station's final threat resolution depends on later coalition action. The quoted legal provision and rival elite claims remain participant assertions. This sequence shows useful situated knowledge and a particular refusal rather than a general endorsement of whatever reduces work. [Station E018][M12], [Chapter 2][M10]."
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "91ed1404abe5662f67197913b50c8b64b5d3ace80bcf3e54a46944e1e5f318dc",
+        "line_text": "**F009.** The private threads establish narrower orders. A message announces a punishment patrol, with a past shirking incident as antecedent; it does not uniquely identify the macro episode as that cause. A few minutes separate the shared search from the hairpin's discovery. The summer paradise has two represented hours and a missed break that began an hour earlier. Whole post-launch messages add information after the float episode, including actual ice cream and a qualified willingness to patrol with the adult. EVENT837 has its local staffing, mistakes, rescues and reward refusal;811 retains its actual capture and failures of secure containment. None of those local relations authorizes a single ordered progression from selfishness to settled vocation across every event, outfit and private encounter. [Private whole threads][F01], [EVENT837][E837], [EVENT811][E811], [chronology rule][R11]."
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "fb338ee55c9237939aaec60d4ea1b74194068c786f3b2fe5e8fe1604ba11466e",
+        "line_text": "## 3. Public and private self"
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "5d534f1621865b766b45d5dcc446f740f434e7d12c11769a67e114b10ce827eb",
+        "line_text": "**F010.** Fubuki does not simply hide a virtuous true self behind a careless public mask. In the macro encounter she openly calls snacks and naps her preferred productive activity. She has modified a purchased Millennium program to parrot replies and redirect problems. The literal MomoTalk labels are Fubuki's, but the episode explains automated provenance and a misdirected internal channel. These messages are not personally intended assurances of normal conditions. At other moments she borrows an official identity, calling Sensei an inspector and herself a lifesaver to obtain advance tasting. The public form can actively serve the private want, rather than merely misrepresenting it accidentally. [Base16008E002 and swimsuit20037E002][F01]."
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "b1283235962b29c0256f9cdd1fd6a14c20581ffc169f9509f3bdcb15e97515ec",
+        "line_text": "**F011.** Concealment has a different direction in the hairpin search. Fubuki initially rejects the child's request, citing personnel, emergency readiness and the precedent of accepting every search. The child objects to the relation between those claims and her habitual naps. Fubuki later leaves under a donut pretext and is found searching the route. She admits that the girl's expression moved her and that a bad conscience would spoil the snack. This explanation contains real emotional movement; reducing it to a strategy for better eating would miss the child and the actual work. Wanting the result represented as an accidental lost-property receipt preserves her reluctance to become publicly available for every future demand. A particular good act does not abolish the resource problem or prove that an official false report was submitted. [Whole base16008E006 and coda][F01]."
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "cbd02f9767e6e1c5782f62a9ab290072b559b9004c9bebdd7e9abc3d7e925502",
+        "line_text": "**F012.** The summer paradise reverses the relation between recognition and conduct. She relies on poor radio reception and claims she can monitor emergencies by phone. Heat, a broken parasol, warm cola and a painful sunbed spoil the imagined leisure. In the cool room, the manager takes her claim of having fulfilled duty as evidence that she worked through the official break and calls her exemplary by name. Her confusion is the endpoint. No completed applause or newly adopted moral policy is printed. Official praise can therefore miss the actual behavior, just as the hairpin care can remain deliberately hidden. A public title or compliment cannot replace the work's represented route. [Whole swimsuit20037E005][F01]."
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "9f16da39de9219752417e33c1e7d1c8d93c198312ab8b18a5a7cff35b93466ff",
+        "line_text": "**F013.** Her self-account also contains valued modesty of aspiration. The written profile wants a comfortable civil-servant life without wealth or fame. This wish is not automatically a noble critique of ambition, but neither is it an absence of human desire. Her café sofa preference, radio and crossword interests and seasonal food anticipation give that life content. Public danger contests her claim that the bureau is basically peaceful; it does not make the desire for peace false. The character can want less demanded of her while still responding to a person whose small need she has chosen to recognize. [All four written objects][F01], [current gift comparison][E810C], [qualified historical gift detail][E810G]."
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "e09ec768446c5dbea0090145c069518f24733ee0cd91ca5c8a211d3611992a00",
+        "line_text": "## 4. School, bureau and institutional role"
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "497d3189b6a9cce5ba8166eb594bb4745046ca1df4363f2b2a87fd6ed669eb00",
+        "line_text": "**F014.** The macro's failure is a concrete institutional problem. A Security executive needs a borrowed barricade returned. The program directs Security to ask Security and agrees that the executive is being mocked. It cannot understand the recipient, role or material need. A visit, severe scolding and written explanations follow. The actual endpoint is more disciplinary work, not returned equipment, repaired software or a harmless demonstration that automation is bad. The other bureau's grievance matters independently of Fubuki's exposure, because shared tools and communication are part of public service. The unnamed executive is not automatically Kanna. [Complete base16008E002][F01]."
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "5ee41aaa34eb9d23b1634de76864e727cd47fb7a4979a66b6c3581e01dfd6fba",
+        "line_text": "**F015.** Her resource argument about lost property deserves a serious hearing even though she uses it selectively. An institution with emergency readiness cannot search every uncertain route merely because one object is precious. The child's hairpin is nevertheless unique, handmade by a grandmother for a birthday, and the child explicitly challenges the refusal. Fubuki's private search and shared help achieve this one return. They do not establish how all future requests should be handled, whether another worker covered the full delayed shift or whether her preferred concealment became an official rule. The scene contains both a real institutional constraint and a person whose need cannot be made trivial by the size of its public consequence. [Complete base16008E006][F01]."
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "521ae68c6877a7692a2af24f914155ab60e718960fb41754b4d771162efa61da",
+        "line_text": "**F016.** GROUP270 tests a shared institution through other choices. Fubuki and Kirino want rest, donuts and meaningful service in different proportions; their chief refuses deployment, yet they respond independently. Familiar patrol routes make early arrival possible. Fubuki's caution and flour plan coexist with property damage, objections about danger and the narrated suspension. Capturing a culprit does not retrospectively make the means harmless or achieve the wanted leisure. The unidentified Security chief remains source-local, not Kanna by convenient analogy. Actor seams in the two parts preserve the difference between a coherent group action and a secure individual quotation. [Whole GROUP2701–2702][R16]."
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "516b8ba8fd386ecc68c2d4d6e5515d6c724e7c6d605e739d86d51c65c7179162",
+        "line_text": "**F017.** Corporate and festival work expose a further distribution problem. The costumes in841015 are unexplained when Fubuki and Kirino receive them. Kanna supplies the advertising and equipment rationale, while avoiding Fubuki's request that she share the costume. A declared strike is not performed. Fubuki's enjoyment of a familiar donut shop and difficulty refusing it can coexist with objections and nervousness. Earlier005–006 show useful dancing during a threat and a subsequent lesson offer; Fubuki explicitly hopes more students will reduce her work and delegates arrangements to Kirino. No completed lesson or shop closure is printed. Institutional usefulness, a peer's wanted fun and a student's desire for less work are distinct ends, not one consensus validated by sales. [Complete bounded841005/006/015 meanings][E841]."
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "2e19e46946ed0e9c998ae99f4a079b01c93f4d3bd13a24e3f96bf1bf1c719b7b",
+        "line_text": "## 5. Ordinary life, humor and intrinsic ends"
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "b7eb26d778931a8ca4693535aed39105a21e857679d2ad24d9542fa7b7a4a18e",
+        "line_text": "**F018.** Donuts are a repertoire, not a generic character accessory. The base stakeout specifies Old Fashioned with coffee and later hopes for glazed donuts. The seasonal gift anticipates sprinkles, a special chocolate version, a discount and two delivered boxes. The written register jokes about whether a holeless form still counts. Familiar pleasure has texture and material conditions; the title's yearlong anticipation is a local self-report, not an audited calendar or universal inability to work. The gift ends with an offer to share, without printed acceptance or consumption. That generosity remains an act even when no snack is actually eaten. The historical detail is used under the current810 comparison and Cycle008 qualification, not promoted into independent current authority. [Private and written][F01], [current810][E810C], [historical complete031 detail][E810G], [admission][R14]."
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "e71c677a06a489224305c064236e4204e65e10938ab5c94b164402915a0ffc51",
+        "line_text": "**F019.** The stakeout makes a more achieved pleasure visible. Fubuki brings donuts, welcomes a quiet setting and actually enjoys taste and coffee on the warm bonnet while asking the adult to watch. Timed narration and written special rows preserve the mode of that enjoyment; they are not repeated dated meals or performed voice. She later says the suspect did not come, while Sensei suggests one might have been missed. Her sixth-sense assurance is not a test, and the source shows neither an arrest nor definite missing of the suspect. The food succeeds without the criminal task being completed. Keeping both results avoids making pleasure a reward that exists only through instrumental success. [Whole base16008E005 and thread][F01]."
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "e620856276609ace246e663ee62c1be85a77601fdcaf91a305c10dfc8a333de2",
+        "line_text": "**F020.** The cucumber donut disproves the idea that its category guarantees delight. Borrowed inspector authority gets advance access after the manager's initial refusal. The supplied whole cucumber with mint-wasabi sauce has an unnamed gourmet organization's reported approval; it is not securely attributed to a particular Gehenna club. Fubuki says it is not to her taste and tries to exclude it. Sensei invokes her own duty rhetoric, the manager supplies a larger cucumber and she finishes near tears. Eating is actual; wanted pleasure, a sanitation finding and a clinical reaction are not. Her misuse of office and the adult's pressure are different ethical facts. Comic reversal need not justify overriding her stated preference. [Whole swimsuit20037E002][F01]."
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "7b76a47cd650d74899aa6c5ed4a70c4676b23fab4848ed624071203312e7b32c",
+        "line_text": "**F021.** The automatic-patrol float mixes physical comedy with a meaningful limit. She hopes moving around the river can combine fun and observation; comprehensive park coverage remains a claim, not a measured safety system. Once stuck, she asks for help, fears remaining trapped, bargains about work and hoarded donuts, and objects to touch from behind. The adult actually frees her. Asking for rescue does not erase that bodily objection. She proposes another shortcut and is taken on patrol while still trying to evade it; permanent reform is not shown. The whole MomoTalk tail then preserves a positive remainder: the purchased ice cream was delicious, and occasional serious patrol together might not be bad. Omission of that tail would falsely leave only failure and compulsion. [Whole swimsuit20037E003, timed forms and aftermath][F01]."
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "196ad9322468b64cfb38a026e8629afb3e43e65b49e46df36858813627e28189",
+        "line_text": "**F022.** The paradise episode distinguishes desired rest from an unsuccessful way of obtaining it. An empty outdoor children's pool promises privacy and company; the adult is given a sunbed, while pool entry is forbidden because another observer is annoying. That invitation is not an enacted swimmer rescue. Warm drink, broken shade and a hot bed progressively defeat the comfort she claims. Refusing an ordinary work-then-break alternative leads to two hours of discomfort and missed official refreshments. Air conditioning is welcome when she finally arrives. The narrative critiques how she evades work without proving that all unproductive time must be converted into duty. Rest is valuable enough for its failed material conditions to matter. [Whole swimsuit20037E005][F01]."
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "9b8cd46cb83e9c582247c4fea02eaebcc1ee7c111437839f3632a886d1bb4b07",
+        "line_text": "**F023.** Radio, games, crossword puzzles, discounts and holiday time broaden the same ordinary world. Café text wants a bureau sofa and worries about a siren or superior reaching the café, without an actual purchase or identified visitor. Christmas discount cake, a donut box instead of osechi and wanted school leave specify hopes rather than completed holidays. The written claim that shirking produces peace is a comic reversal of “idle police reflect peace,” not a causal law. The swimsuit speculation about compulsory donut eating becoming unpleasant should be compared with the unwanted cucumber result without inventing a date between them. These are positive and contrary written contributions at their own conditioned scopes. [Whole written objects][F01]."
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "fedab4823deb0e540005b13d799eb18b86e027f68741d94e2e7a975221253342",
+        "line_text": "**F024.** Ordinary care supplies equally concrete ends. The child's hairpin returns; shared donuts follow actual collaborative searching. The gift's final offer remains unconsumed. Public patrol receives gifts and thanks, while811's retrospective Fubuki communication articulates ordinary giving without implying physical presence after jamming. She can enjoy company, respond to another person's affection for an object and joke about rewards without each act resolving the whole bureau. The character's ordinary life needs these different forms of achievement and incompletion, rather than a single consumption or productivity measure. [Private E006][F01], [gift031][E810G], [current810][E810C], [whole811][E811]."
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "b5ab0beda9de39527d8e6d06f77c3e2709c4f1297791318999ff6602a14e4b82",
+        "line_text": "## 6. Crisis behavior and contrary evidence"
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "e42c62292597a3e5eaadcf75bf1cad7ab6f8a651f685620e2887773c1dde2886",
+        "line_text": "**F025.** The public record exposes an uneven capacity rather than pure helplessness. In the initial Rabbit intervention she follows a plan with an effective countersign trick. Later appetite enters a recognized trap and she is found down, with the decisive mechanics unprinted. At the station her route knowledge and warnings aid access, but neither a sign impact nor the exact escalator stop can be credited as a directly observed injury-causing action. These outcomes distinguish performed success, tactical rhetoric and omitted mechanism. No global shooting skill or permanent vigilance follows from a local result. [Rabbit E002][M02], [E018][M23], [station][M12]."
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "cd77e8e1c3a05755154840f979f32adbfc354763c7bf3b598ad98e82d69f7545",
+        "line_text": "**F026.** Final gives explicit care that a no-concern reading cannot explain away. Fubuki helps the adult's escape under an institutional takeover and notices Kanna's wound, asking for rest. Her donut request does not nullify work already undertaken. At the same time, the group lacks numbers, support and supplies; rest and RABBIT assistance are necessary. A joking, pleasure-seeking student can participate in dangerous reciprocal care without becoming an inexhaustible hero. The coalition's success does not certify all legal immunity, complete injuries or a universal motive for every prior patrol. [Final E009–E013][M16], [M18], [M19], [M20], [checkpoint][M15]."
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "98a182bf59fe003ed4c786ffd18d275df83a992909cd780bde8dd0d1de34bf2e",
+        "line_text": "**F027.** EVENT837 supplies an actual rescue in another setting. Her attraction to a free pass and play does not prevent action when a visitor needs help. Understanding children's wish to win can support a game with them, yet her fatigue puts limits on that role. Kirino's explanations, Kanna's evacuation insistence, staff help and later technical interventions remain separate contributions. Fubuki's practical service is therefore stronger than a mere profile promise, while a whole-park safety guarantee or permanent embrace of lifeguard work remains unwarranted. Her final reward refusal is literal enough: having had sufficient experience is a reason to stop, not an obligation to enjoy the next trip. [Complete EVENT837 meanings][E837]."
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "0105451f3110c4f54a9de25844383fc362c7fc03581a2c812d487ad8960fb569",
+        "line_text": "**F028.** The811 patrol is consequential because confidence fails locally. It contains collective subdual, authentication questions, unanswered grounds, multiple masked sightings and a revealed local impostor. Threats about leave, bonuses and reflection pages are marked bravado, rather than performed sanctions. Fubuki's boredom, aesthetic attraction and food interests remain visible within that security problem. She cannot be credited with independently verified containment merely because an officer says it will hold, nor identified with every masked or generic participant. The final delivered chocolate has its own ordinary value, while interrupted communications keep retrospective giving remarks distinct from present audibility. [Whole current811 argument][E811]."
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "3d6400a7f7f2c6571c0e88e2009baa4b4984bcaeb654713b9f8d2e1a435f46fd",
+        "line_text": "**F029.** During the sports festival, a heat complaint and promise of a robot-made donut coexist with police work. The accepted raw-text-actor argument assigns several Kirino-labelled complaints to Fubuki and the rebuke of fake illness to Kirino; it is reused as attributed analytical evidence, not newly performed or raw-audited here. The following inquiry combines reports, electronic tags, records and witnesses across schools. Fubuki's forgotten-memory turns are similarly distinguished from Kirino's formal self-reproach. That contrary detail matters: useful cooperation can occur despite lapses and without everyone wanting friendship. A donor of information or a pleasant colleague does not thereby become a universally reliable narrator. [Complete818007][E818007], [complete818008][E818008]."
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "5126a5e4e8d500d9c6ae494111367b2a2cead0a8fe2cf2b1dd35bc47709b7008",
+        "line_text": "## 7. Relationship with Sensei"
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "63222d62af4784f5e2bab86080fc8e6eebc15cc0c720cfdfa6dde1845d720f9e",
+        "line_text": "**F030.** Sensei is alternately colleague, witness, desired company, labor recipient and participant in an unequal arrangement. Watching the macro fail does not become a successful intervention simply because the adult can choose a rebuke. During the punishment patrol Fubuki tries to hand over almost the entire route; the adult objects, and she agrees to work seriously because a holiday has been sacrificed. That is a specific response, not a durable reform program. Their shared heat, food and company remain a reason the relationship is wanted, even when its distribution of work is contested. [Whole baseE002/E003][F01]."
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "95142e4913263bf17b7acb892cac0931c3d748acf7942ca70696d7c7957e29ae",
+        "line_text": "**F031.** The youths' patrol response also limits the adult's interpretation. Fubuki's implausible excuses, promises not to question them and avoidance of confrontation make them feel treated without prejudgment. They say this is unusual and offer usefulness; their local knowledge and enthusiasm extend the patrol into the night. The adult's praise of her ability to draw people in has evidence in their voluntary response. It does not prove that she designed a restorative program, that every police criticism was unjust or that a lifetime rehabilitation followed. Fubuki's surprise and frustrated extra work preserve the gap between intention and received care. [Whole base16008E003][F01]."
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "87614637f552d0f2c2a51b25ec2c9a77ba9036a0b524a0afd4824d0c823d1bec",
+        "line_text": "**F032.** The hairpin encounter makes cooperation more direct. Sensei finds her failed concealment and joins the search on terms that also value delicious donuts. They divide the area; she finds the hairpin, thanks the adult and returns it in the narrated ending. Her request for an accidental-receipt account retains her wish for bounded obligations. This is reciprocal care and shared pleasure, not just adult instruction in responsibility. The successful return neither grants permission for every future burden nor makes the child's objection to the initial refusal irrelevant. [Whole base16008E006 and coda][F01]."
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "6cab2f638a63eb5b48b992ca7bd98ef1fb1f2b3e41fb8b2d4cc38a9443f9460d",
+        "line_text": "**F033.** The adult can also help enforce an unwelcome demand. In the inspector scene, participation enables Fubuki's pre-opening access; later duty language pressures her to finish an unwanted product. In the float rescue, actual help coexists with a specific behind-touch objection and continued shortcuts. A successful release does not make all contact consented, just as a comic punishment does not establish a medical or moral necessity to eat. The subsequent ice-cream and occasional-patrol statement should remain genuinely positive without retroactively licensing the earlier pressure. [Whole swimsuitE002/E003][F01]."
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "4607a9c1f266f78f221a4d88e0aa80982a10536363c2aad263845fa847f1b986",
+        "line_text": "**F034.** Intimate generosity and troubling privilege occur side by side. The seasonal gift offers sharing after a joke about the awaited counterpart; no eating or mutually agreed romance follows. A written birthday line instead offers to overlook any adult wrongdoing in lieu of a gift. That is a proposed privileged favor, not lawful immunity or proof a crime was covered up. These meanings resist a single label of harmless flirtation. A close relation can contain wanted companionship and boundary problems, with each conditional offer and actual outcome kept distinct. [Gift detail under current810 qualification][E810G], [E810C], [birthday written register][F01]."
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "27990d39d7ae9e53e346ff5f3a9035bc6a9d2c4be7fa8fb5f9fe34b52e80ecd9",
+        "line_text": "## 8. Major peer relationships and independent recipients"
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "468d23575e123b3fdfba7a62b96914e6de574be7ee2bad56086fd2b6487b6031",
+        "line_text": "**F035.** Kirino is more than the energetic opposite who makes Fubuki's comedy work. Fubuki often expects her to handle trouble or create work, and she delegates festival lesson arrangements to her. Kirino has independent service and transfer ambitions and explicitly rebukes a proposed fake illness. The pair's familiar routes and complementary tactics produce useful action, while GROUP270's damage and suspension affect the shared result. Fubuki's ease can mean an uneven peer burden; companionship cannot make Kirino infinitely available or all mistakes someone else's responsibility. [Private account][F01], [GROUP270][R16], [818007][E818007], [841006][E841]."
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "648da118dfdc78c9f0ac90cab5a8e646db4a1f107ac8ea4b031aaed995c67163",
+        "line_text": "**F036.** Kanna recognizes some capacities and initially undervalues others. Her first assessment of Life Safety is challenged by their success; Final distinguishes their help from her own compromised responsibility. Fubuki in turn notices the chief's wound and asks for rest. At the water park and festival their wants diverge: a free pass is not a service vocation, and sharing an embarrassing costume is not resolved by superior orders. Kanna's food refusals and dirty-hand concern also differ from Fubuki's appetite and stakeout leisure. Neither student's whole life is measured by the other's work ethic. The accepted Kanna private account supplies this comparator, rather than borrowing approval from a pending character draft. [Rabbit][M02], [Final][M16], [whole water park][E837], [festival][E841], [accepted Kanna private argument][R15]."
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "9e7da061d518d4063e8d5ab5620a540e50b811ba9c0ac5f93f4252130b742e4b",
+        "line_text": "**F037.** The child and youths are important because they supply responses outside the bureau's recognition system. The child explains a handmade birthday gift's uniqueness and contests the initial refusal; the ending returns the object without a fabricated quoted reaction. The youths say Fubuki did not prejudge them, then choose to help and prolong the work she hoped to avoid. These encounters have materially different stakes and outcomes. Both can revise her self-account, while neither makes every future citizen request manageable or every plea for rest selfish. Source-local recipients should retain that independence rather than serving only as tests of an invariant Fubuki trait. [BaseE003/E006][F01]."
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "b8a9c3676269c92d501bbcad0a63b17f6cd005d453423a704ce4cea80ab4f961",
+        "line_text": "**F038.** Mari's festival help likewise has an end other than Fubuki's convenience. Dancing buys time during the threat; later Mari imagines idol activity as fun. Fubuki recognizes unexpected usefulness, thanks her and proposes lessons, but also wants additional students to lessen her own work. The shop worker's appreciation and planned attendance are not completed closure or performance. Keeping these purposes separate permits real reciprocity without requiring all participants to endorse Fubuki's workload strategy. Her relief after helping Mari with the phone in015 remains a local response, not proof that her earlier objection to costumes was insincere. [Complete841005/006/015 meanings][E841]."
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "7cfeff5bc2132fa8cc8e086faca3096d21bd1274938fdc87db126b1a51b7573a",
+        "line_text": "**F039.** Other school representatives make cooperation possible without uniform affection. The818 inquiry combines Hasumi's suspicion, police sightings, Ako's workflow, Yuuka's equipment and risk concerns, a stallholder's observation and others' access records. Actor seams prevent crediting every data preparation to the printed speaker. The positive result is a located inquiry and actual cooperation, not a completed protest settlement or universal friendship. Fubuki's presence belongs to that differentiated world. The character monograph does not complete any directed relationship, ensemble or institution merely by identifying these separate purposes. Exact homes and mandatory sections remain governed responsibilities. [818007–008][E818007], [E818008], [architecture][R08]."
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "fe6d5473335695de0adf29b05dea2dd394e097acc73cf14e240ffdfee5d80c9c",
+        "line_text": "## 9. Japanese language, written voice and modes"
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "24a74329db7058a3ca5e40fe9484ea5ad47042202caed9679a232167395b709e",
+        "line_text": "**F040.** Relaxed address to Sensei differs from the borrowed監察官 role and her asserted professional detachment. The “busy” nap, paradise rhetoric and peace reversal invite laughter through disproportion between official-sounding justification and a concrete wanted comfort. But spoken-seeming automated MomoTalk must remain automation when the encounter explains it. The literal label does not guarantee a personally intended assurance. Similarly, profile complaints about insincerity need the whole hairpin episode's emotional movement as contrary evidence, rather than becoming a command to mistrust every caring act. [Whole private and written sources][F01]."
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "d11851d2591dc61bc5617672eda0ea6d578a90a46ba69ac9c1219136943170a1",
+        "line_text": "**F041.** The rhetoric of rest can reveal value without establishing a causal theory. A civil servant's unhurried life, a discount, an idle sofa and game exhaustion are different wishes. The implausible smoking-candy excuse is neither chemistry nor secure substance identification. A reported mediocre gun is not a marksmanship test. The float's hole and donut-form jokes do not confer technical knowledge, and the unrecognized musing about a mug–donut equivalence does not become a mathematical accomplishment. Their humor belongs to written reasoning and form, with ordinary wants and flawed explanations both available. [Whole selected written and private account][F01]."
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "83f57e831a19da223f384cd0f9f99d42e85a0ed827b7218f1735e8d31be4d3ec",
+        "line_text": "**F042.** Fine attribution is kept local. The base stakeout and summer float use timed narration-labelled forms and their writtenUI parallels. The summer room's “finally you came” clause is printed as Fubuki despite its apparent interlocutor position; the following manager explanation still supports the mistaken-praise outcome without silently repairing that line. RabbitE002's shooting self-praise under Fubuki labels is quarantined rather than credited as her expertise. In818007–008, the existing text-actor witnesses distinguish complaint and rebuke, forgetfulness and formality; this monograph reuses those declared analytical findings without new raw inspection. [Private][F01], [Rabbit E002][M02], [818007][E818007], [818008][E818008]."
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "30f94d7391739c9b070a0fd76d27d6ac8b3b5bf6fd39949f4ac3f1cfbda6452e",
+        "line_text": "**F043.** Written registers also carry different modes. The base costume has810/10810/900810 conditions and the swimsuit837/10837/900837 conditions; a triggered first-prize line is not an independently witnessed lottery win. The hypothetical fox stealing a vehicle is explicitly a joke, not a FOX-platoon identity route. In811, masks, an impostor, retrospective communication and alternative adult responses preserve separate knowledge. Locale differences cannot be pooled into a stronger account. All these forms support particular language and wanted states without audio, acting, runtime execution or a complete source-class calendar. [Whole four written objects][F01], [whole811 mode controls][E811], [crosswalk][R11]."
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "92c357a18131e108bca3a79a1032a08208cabf10b24d8f28508fe0b05afe2944",
+        "line_text": "## 10. Serious competing readings"
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "ce0a57809b27f09955f2d00249510fff38c7a84c0936e921ac2e9982cff98158",
+        "line_text": "**F044 — Simple laziness explains everything.** Avoiding work, naps, macro replies, forgotten information and the failed paradise give this reading substantial support. It fails on the returned hairpin, a chosen search, concern for wounded Kanna, useful station work and actual water rescue. Nor can one laziness attribute explain why the wanted cucumber novelty ends in tears or why official rest would have been more comfortable than evasion. A stronger account retains the repeated avoidance while distinguishing motive, means, recipient and achieved result. [Private][F01], [Final][M16], [station][M12], [water park][E837]."
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "f99596bf6f25d810ced86faa03dc4f29c227362949d9149cb39d6c59ba5ee99e",
+        "line_text": "**F045 — Hidden kindness excuses all evasion.** The hairpin's concealed care is powerful evidence of emotional response beneath claims of detachment. The youths' volunteered patrol and her crisis help broaden it. Yet another bureau actually needs its barricade, the program fails to understand context, Kirino is asked to absorb burdens and the suspect remains unresolved. Her small successes cannot answer those costs. The most defensible hidden-care reading concerns a particular chosen act, not immunity from criticism wherever a comic surface appears. [Whole private argument][F01], [GROUP270][R16], [festival][E841]."
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "301a881774de2902edbc580ef9a2164c52a74df896663ba7e0c5c31a9ebb3da3",
+        "line_text": "**F046 — She is an intentional restorative-policing expert.** The youths' testimony and sustained collective patrol offer serious evidence for a valuable nonprejudgment effect. Fubuki is nevertheless surprised by it after trying to avoid trouble through implausible explanations. Their help lengthens the task against her wanted outcome, and no lifetime rehabilitation or installed policy is shown. The child's search is also a particular response rather than a fully designed bureau system. Beneficial reception can be real without a false account of prior intent or universal method. [BaseE003/E006][F01]."
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "5207b24e84d93f6731d9c301d9c070995c675c92d1c3f860ff80306d012a5bc1",
+        "line_text": "**F047 — The adult permanently reforms her.** Objections during patrol, helpful searching, float rescue, purchased ice cream and occasional willingness to work together make influence visible. The next shortcut, continuing shirking, birthday privilege proposal and adult participation in the inspection fiction undermine completed reform. The adult also pressures unwanted eating and receives a touch objection. There is a developing repertoire of valued company and local correction, not a secure chronology or cure installed by one teacher. [Whole private and written account][F01]."
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "cffdc48bcd23aa13903d7c3c2f9583d14b377fed91aea7dbbedd8a830409a128",
+        "line_text": "**F048 — Every donut scene confirms reliable pleasure.** Specific appetite, repeated taste and seasonal anticipation make the motif strong. The cucumber is actually finished without enjoyment; the paradise scheme misses donuts already eaten by others; the gift only offers sharing. A donut can be an object of pleasure, a lure, a rule parody, an unwanted product or an unconsumed generous offer. Keeping that range permits stronger interpretation than converting every appearance of the object into the same emotional result. [Private][F01], [gift031 qualified detail][E810G], [current810][E810C], [Rabbit trap][M23]."
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "4bafd64b3e8367f485adae98e50934b59e70e32e20777f4c5daab9d5c90280e2",
+        "line_text": "**F049 — Rest matters only as a reward for service.** Useful help sometimes earns or accompanies food, leave promises and thanks. The reading nevertheless misses the intrinsic wanted quality of a cool room, private company, delicious taste or a holiday. A cherished hairpin also matters to the child before it becomes a service success. Fubuki's bad methods of obtaining rest can be criticized while rest itself remains legitimate. Conversely, actual pleasure does not make an uncompleted task disappear. The question is how lives and obligations are shared, rather than whether enjoyment has been morally earned in every scene. [Whole private][F01], [GROUP270][R16], [current public ordinary evidence][E811]."
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "3cfd881cc670aef7f629ab8672b1f356dcf3ee5b2e590324df87f4d61db2e76b",
+        "line_text": "**F050 — Public success or praise proves reliable institutional service.** Rabbit's subdual, station access and water rescue genuinely test competence. Official praise at the summer break, however, mistakes her claim for working through rest;811's confidence fails through insecure containment and masks; the macro produces real burdens. Source-local gratitude and a reward promise are not a full personnel, legal or safety audit. It is possible to recognize particular service without making Fubuki a universally effective officer or treating failure as her immutable essence. [Private][F01], [Rabbit][M02], [station][M12], [water park][E837], [whole811][E811]."
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "01e38ae08eba2e5cbba6497e9048eec454b27f8f0d8924f28ba8ae02141360d0",
+        "line_text": "## 11. Evidence route, stable gaps and remaining analytical responsibilities"
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "e730ab55dedc32e89e1f563c709c85599397134c718f6c6c12b7d50e3a858edf",
+        "line_text": "**F051.** The companion receipt binds every current copy and distinguishes newly received whole arguments from qualified prior personal receiving. The new complete Fubuki private18 argument, current811 comparison, small MAINE018 and sports007/008 meanings were received through their actual endings. Current810's complete bounded narrative/gift qualifications govern the historical031 detail; it is not relabeled as an independently current authority. The841005/006/015 meanings and source mode are complete at bounded normal-owner scope, without a claim to have newly read all nineteen primary objects. Earlier Kanna private and public meanings are accepted source arguments, not borrowed acceptance of a pending Kanna monograph. [Current admission][R14], [source recovery][R11]."
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "d2eb693a770661c6a6ea903d6cd141a2fc52102656188f5052422dc61a0fb6a9",
+        "line_text": "**F052.** Literal supplemental headers and maintained MAIN name queries serve retrieval. The thirty-seven literalフブキ supplemental routes do not constitute thirty-seven new primary narratives, a global absence proof or a census of all possible raw-text attribution. Actual raw-supported Fubuki turns in the818 owners exceed those literal header leads, which is why the whole adequate arguments matter. The existing positive home remains P3-CHAR-FUBUKI-CH0141, with typed F045 and dated A011 navigation kept distinct. No group chief, anonymous courier, masked figure or other person's variant is absorbed into Fubuki. No relationship or institution is counted complete from this portrait. [Private identity][F01], [GROUP boundary][R16], [818 actor witnesses][E818007], [E818008], [architecture][R08]."
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "3b59054eda39083afbb8227b200183ad63821cbb54dcafc5f1795ad83bb11729",
+        "line_text": "### Fourteen original stable gaps — all OPEN"
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "a07f5d0dc1952a1431ebb90169c1b0cf5e0fd645a41a7f5389328c353eee5c89",
+        "line_text": "The following names preserve the original register literally. Textual intake completion and a rich character argument do not close stronger claim warrants. [Original definitions][R12]."
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "9f8fe03496d4215caf63fde478539b1b49de137ff44e5365d7c2747aa875d8cb",
+        "line_text": "| Stable ID and original full name | Actual contribution here | Remaining claim-specific warrant; disposition |"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+        "line_text": "|---|---|---|"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "a963e7470c78ce98a681256be48bd728d7f94fd7dd8a1cb71d3f38a6908c6b75",
+        "line_text": "| G01 — Ordinary and private breadth | Whole18 selected objects preserve taste, rest, games, company, actual return/codas and negative pleasure results. | Universal defaults or arbitrary-context predictive transfer are not established. **OPEN**. |"
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "2c9a55966bfd2af2d2900f980514c5c3a4ecae567971785cb52b1e8b21f598e1",
+        "line_text": "| G02 — Yuuka council/club decision transfer | Public cooperation in818 and811 is kept at its represented role. | No Yuuka council/club invariant or comprehensive safety/decision transfer. **OPEN**. |"
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "d5936af71811dbf2b58c66d5ae4acb9d6a7a38ae4c6d7d8648dbd0fdde3f1043",
+        "line_text": "| G03 — Serika service, peer and reciprocity range | Fubuki offers a distinct food/service/burden comparator. | No substituted Serika private, unfamiliar-peer or romantic generalization. **OPEN**. |"
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "84d70e0e29f1f641594945b380b957d63c41d7575b2b4b1d0c9a7a66b2cec04b",
+        "line_text": "| G04 — Hina crisis causality, accountability and ordinary contrast | Rest and local service are distinguished from completed accountability. | No NK Ultra victim repair or Hina causal closure by analogy. **OPEN**. |"
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "781e6a0e722902c5f01badee557564832b2438702dd0b09f75c4536010bc25b7",
+        "line_text": "| G05 — Arius and PS68 ordinary/aftermath transfer | Ordinary intrinsic value is retained independently of crisis importance. | No Arius/PS68 afterstate, labor or legal repair is supplied. **OPEN**. |"
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "4051efb478722714db42ef2b82a579510348019d6fa47986b461e1b67a7aafe6",
+        "line_text": "| G06 — Cross-school ordinary repertoire | Gift, festival, patrol and bureau differences add inspected ordinary directions. | No all-school culture, hierarchy or universal recurrence from these settings. **OPEN**. |"
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 172,
+        "line_sha256": "ac2ff1fa4c4404565cbeb776e43bdae6cd9e2c6a93cb608646dc8aa63bf1b3ab",
+        "line_text": "| G07 — Story-world chronology | Local punishment reference, minutes, two hours, break and whole message tails remain bounded. | No universal event–private–MAIN order or variant-release maturation ladder. **OPEN**. |"
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 173,
+        "line_sha256": "f03804832d6797bcc2c25cb1b7dc7a71c5235b80b180101916339a65fc76ad4c",
+        "line_text": "| G08 — Event naming and repeat contexts |810/10810/900810 and837/10837/900837 conditions, gift suffixes and stable source IDs remain distinct. | Missing titles, runtime equivalence and repeated-context chronology stay unresolved. **OPEN**. |"
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 174,
+        "line_sha256": "9b04b81c325becc1a8baf2982998d1afab798bc94a549297e2e4d8334d3f27f4",
+        "line_text": "| G09 — Written speaker/choice attribution | Macro provenance, timed forms, actor seams, raw-supported818 distinctions and alternatives are disclosed. | No new raw repair, simultaneous replies or universal shared inward knowledge. **OPEN**. |"
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 175,
+        "line_sha256": "38db897a4cadac6c9d7b4fd7ba9e085fd739a2e563b0f958eaefa26f4a55f77b",
+        "line_text": "| G10 — Performed voice | Relaxed/formal written address and humor are interpreted as text. | No audio, animation, acting or audiovisual receiving. **OPEN**. |"
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 176,
+        "line_sha256": "8303bd5f6aefa6a0eac55d589ce2ffd097149bb32f9b038e651a3fa188cd56df",
+        "line_text": "| G11 — Hoshino's Yume record and office states | No unrelated comic rest is substituted for this record question. | No notebook provenance, death-causality, cured grief or unified office state. **OPEN**. |"
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 177,
+        "line_sha256": "a3e1bf2d70834a6100b681a0eedc0ee8f68f05f7965b9c6160e6aa57e404e507",
+        "line_text": "| G12 — Counterpart, system and variant identity | BA_PERSON_CH0141/base16008/swimsuit20037 positive identity stays distinct from generic chiefs, couriers and masks. | No uncertain alias/system/counterpart continuity or new person from outfit. **OPEN**. |"
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 178,
+        "line_sha256": "705e48c2869ade4c70522f5069c334b3c6413ca902357ee049ac7bd126272a2f",
+        "line_text": "| G13 — Office, contract, safety and technical outcomes | Actual local work, return, rescue and praise are differentiated from law, technical explanation and reports. | Barricade return, macro repair, sustainable service policy, clinical results and full safety/custody proof remain absent. **OPEN**. |"
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 179,
+        "line_sha256": "c2ed69a17f2d74227de597694e4ea7473896089499d0f9c6ce1c5a33582aaa28",
+        "line_text": "| G14 — Unclassified/mode continuity | Selected private, whole-message, conditionedUI, narrative and retrospective forms retain modes. | Outside-selection classes and broader runtime continuity are not silently admitted or excluded. **OPEN**. |"
+      },
+      {
+        "frozen_line": 170,
+        "canonical_line": 180,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 171,
+        "canonical_line": 181,
+        "line_sha256": "1c7cdbb5e3f7d5b0a142b1fbf5dd7108fa165cd5796544b97b172d05200e5c21",
+        "line_text": "**F053.** Fubuki's finished literary responsibility is to hold these directions together without turning them into a diagnosis or a permission structure. She can want an easy life, impose costs in obtaining it, discover a person's need, work effectively and enjoy something small. Hidden care should be allowed its achieved ending; public praise should be allowed its mistaken grounds. A failed paradise should not condemn rest, and a successful rescue should not abolish bodily refusal. Questions about shared labor, the institution's recognition and directed peer obligations remain distinct governed duties rather than newly invented counted packages. ROOT must receive this complete candidate and its exact limits before any adoption. No new primary, model, prediction, denominator, milestone, canonical completion or merge approval follows from the draft."
+      },
+      {
+        "frozen_line": 172,
+        "canonical_line": 182,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 173,
+        "canonical_line": 183,
+        "line_sha256": "44a34e8f52f5e7b0b08e5f441dd47c070814f44f037c01e5755294e132abcee0",
+        "line_text": "[E811]: ../../02%20Sequential%20Readings/EVENTS/EVENT_811/BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+      },
+      {
+        "frozen_line": 174,
+        "canonical_line": 184,
+        "line_sha256": "4a39cd9c374638f8d3f51ad2db0c0566d3b528010ed161d72a22248f727a4575",
+        "line_text": "[E818007]: ../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 175,
+        "canonical_line": 185,
+        "line_sha256": "e9fe98c057e0092a821b677b4da43bd888c359646e3bec3611ba829cd245bd22",
+        "line_text": "[E818008]: ../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_008_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 176,
+        "canonical_line": 186,
+        "line_sha256": "25c34a5b9d39d9651aac374af37a92efad0d6edac49ed5af76fb311a5814001d",
+        "line_text": "[E837]: ../../02%20Sequential%20Readings/EVENTS/EVENT_837/BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md"
+      },
+      {
+        "frozen_line": 177,
+        "canonical_line": 187,
+        "line_sha256": "a13fde401b11be3719a53325f55b2853335b1401ab3b28a1fdcbfc7ed9164f04",
+        "line_text": "[E841]: ../../02%20Sequential%20Readings/EVENTS/EVENT_841/BLUE_ARCHIVE_EVENT_841_CONTEXTUALIZATION_CHECKPOINT.md"
+      },
+      {
+        "frozen_line": 178,
+        "canonical_line": 188,
+        "line_sha256": "bf2c9a7b5d58313334ce3955fbad14edb257bf6dce6756f829ecf6acf36525a9",
+        "line_text": "[F01]: ../../02%20Sequential%20Readings/BOND/FUBUKI/BLUE_ARCHIVE_FUBUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+      },
+      {
+        "frozen_line": 179,
+        "canonical_line": 189,
+        "line_sha256": "2615ef49443826fd2ec088c9f34221c937edaccb88e19007a36e4d758c34c390",
+        "line_text": "[M01]: ../../02%20Sequential%20Readings/MAIN/VOLUME_004_%E3%82%AB%E3%83%AB%E3%83%90%E3%83%8E%E3%81%AE%E5%85%8E%E7%B7%A8/BLUE_ARCHIVE_MAIN_V004_C001_CHECKPOINT.md"
+      },
+      {
+        "frozen_line": 180,
+        "canonical_line": 190,
+        "line_sha256": "4d0bb5cef51dfd8638f087de00419e61644ea29e97d4a268c0215ccf6a31f17b",
+        "line_text": "[M02]: ../../02%20Sequential%20Readings/MAIN/VOLUME_004_%E3%82%AB%E3%83%AB%E3%83%90%E3%83%8E%E3%81%AE%E5%85%8E%E7%B7%A8/BLUE_ARCHIVE_MAIN_V004_C001_E002_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 181,
+        "canonical_line": 191,
+        "line_sha256": "2bfb8ebd4852480a8248187019795a1649f5ce99bab178e73459ec4bbe51f4ca",
+        "line_text": "[M10]: ../../02%20Sequential%20Readings/MAIN/VOLUME_004_%E3%82%AB%E3%83%AB%E3%83%90%E3%83%8E%E3%81%AE%E5%85%8E%E7%B7%A8/BLUE_ARCHIVE_MAIN_V004_C002_CHECKPOINT.md"
+      },
+      {
+        "frozen_line": 182,
+        "canonical_line": 192,
+        "line_sha256": "3253297c0622a3fe7d03171baa5d1128f81f0679fc95533f429c41fcb9709c46",
+        "line_text": "[M12]: ../../02%20Sequential%20Readings/MAIN/VOLUME_004_%E3%82%AB%E3%83%AB%E3%83%90%E3%83%8E%E3%81%AE%E5%85%8E%E7%B7%A8/BLUE_ARCHIVE_MAIN_V004_C002_E018_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 183,
+        "canonical_line": 193,
+        "line_sha256": "5a96507875ebf9f643bb29b5dcee974c3e8dd846aedefaee8ae090fa8a1c859f",
+        "line_text": "[M15]: ../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md"
+      },
+      {
+        "frozen_line": 184,
+        "canonical_line": 194,
+        "line_sha256": "f9cae9dc60d7dccba06eeb2888954e7fce75f18ff2d9ce7a54a21c5bbb39d23d",
+        "line_text": "[M16]: ../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C001_E009_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 185,
+        "canonical_line": 195,
+        "line_sha256": "4061ff79c34e7598f838c33e836b9cf0c1fcb10e9a522b3ee7bb3f536f578a19",
+        "line_text": "[M17]: ../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C001_E010_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 186,
+        "canonical_line": 196,
+        "line_sha256": "0963e45715015672ce80aa2668f669b590e2a611d2482b0c68e3d6dfe326f3c5",
+        "line_text": "[M18]: ../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C001_E011_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 187,
+        "canonical_line": 197,
+        "line_sha256": "65a624b25c04d22fdf27157063131fc2dd5f673428dabdc7a169106eb197857e",
+        "line_text": "[M19]: ../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C001_E012_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 188,
+        "canonical_line": 198,
+        "line_sha256": "a1ae6a2871920aeb48520ab1b9673e0db4bcf74e10b87674091621dab5978e48",
+        "line_text": "[M20]: ../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C001_E013_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 189,
+        "canonical_line": 199,
+        "line_sha256": "4da50cdc5bc79e2ac27fd0b6f11168701f680e5fa5f38e49ab107fd06f168d89",
+        "line_text": "[M23]: ../../02%20Sequential%20Readings/MAIN/VOLUME_004_%E3%82%AB%E3%83%AB%E3%83%90%E3%83%8E%E3%81%AE%E5%85%8E%E7%B7%A8/BLUE_ARCHIVE_MAIN_V004_C001_E018_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 190,
+        "canonical_line": 200,
+        "line_sha256": "1630452847c6526142bd09fca81b7191b59cd873dabe018587454f6d119a3d8f",
+        "line_text": "[R08]: ../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md"
+      },
+      {
+        "frozen_line": 191,
+        "canonical_line": 201,
+        "line_sha256": "278f573335dae33c6e38404a6bbd15d7dfdea7cd37b5cb7abe29bfa748f3da83",
+        "line_text": "[R09]: ../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md"
+      },
+      {
+        "frozen_line": 192,
+        "canonical_line": 202,
+        "line_sha256": "74b8694025e3ab456f268d8831d2e80f86eb0eb49a99ab34ee9bdf8e7d99d36b",
+        "line_text": "[R11]: ../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md"
+      },
+      {
+        "frozen_line": 193,
+        "canonical_line": 203,
+        "line_sha256": "290d118531f6d917930ea670373c9357bf1378e99ff865f0383913daddee9e15",
+        "line_text": "[R12]: ../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md"
+      },
+      {
+        "frozen_line": 194,
+        "canonical_line": 204,
+        "line_sha256": "c28befabd5d3e5c7ce033113a5a6984345d90ceead18e9396150b29e705ca0d3",
+        "line_text": "[R14]: ../../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md"
+      },
+      {
+        "frozen_line": 195,
+        "canonical_line": 205,
+        "line_sha256": "d665a2181c70dbc0a60c64b911e78a18bba36d024b236e3c285843646be68ece",
+        "line_text": "[R15]: ../../02%20Sequential%20Readings/BOND/KANNA/BLUE_ARCHIVE_KANNA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+      },
+      {
+        "frozen_line": 196,
+        "canonical_line": 206,
+        "line_sha256": "af7d5240cd6faf9140ebe63e18d0a0267971a70b0fa97108cca6842cf907120f",
+        "line_text": "[R16]: ../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_2701_2702_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 197,
+        "canonical_line": 207,
+        "line_sha256": "806de50b2602a852e1e22f6527a7ea8e4db086479d18d975b66a3812ec196593",
+        "line_text": "[E810C]: ../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+      },
+      {
+        "frozen_line": 198,
+        "canonical_line": 208,
+        "line_sha256": "9b665cc38d55239eeaa7437a0b399587e789ce241ded5987767652be54a24998",
+        "line_text": "[E810G]: ../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_031_80000031_DEEP_READING.md"
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          5,
+          5
+        ],
+        "canonical_lines": [
+          5,
+          5
+        ],
+        "frozen_text": [
+          "status: C_ONLY_COMPLETE_ARGUMENT_PENDING_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_status: C_ONLY_COMPLETE_ARGUMENT_PENDING_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          13,
+          15
+        ],
+        "canonical_lines": [
+          13,
+          15
+        ],
+        "frozen_text": [
+          "version: \"1.0\"",
+          "do_not_use_as_current_authority: true",
+          "ROOT_acceptance: PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_version: \"1.0\"",
+          "historical_author_do_not_use_as_current_authority: true",
+          "historical_author_ROOT_acceptance: PENDING"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          18,
+          17
+        ],
+        "canonical_lines": [
+          18,
+          25
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_FUBUKI_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_FUBUKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          21,
+          20
+        ],
+        "canonical_lines": [
+          29,
+          30
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded character responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_FUBUKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_FUBUKI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,25 distinct parent packages,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Character Monographs home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "full_operative_ROOTaccepted_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/BLUE_ARCHIVE_FUBUKI_CHARACTER_MONOGRAPH.md",
+      "bytes": 48247,
+      "sha256": "fedbd33516601d374ca6c67ad835e3cb1f3f2fab036863fba98ec4fa8c62fece",
+      "git_blob_oid_of_actual_bytes": "bcb44d28d5264a47e041e6f5ea951ea9ac226e1e",
+      "lines": 198,
+      "immutable_transport_path": "immutable_originals/VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/BLUE_ARCHIVE_FUBUKI_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_FUBUKI_CHARACTER_MONOGRAPH.md",
+      "bytes": 50564,
+      "sha256": "4e12e332ce425e81ee564194f42ec8afa11aa87e41ff29409846dfd00ff56cab",
+      "git_blob_oid_of_actual_bytes": "11aa63cc3fccf0422cdd8de8ad6ceeea7841aa4b",
+      "lines": 208
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "aa0d3e7097393652a1e16b6e0f1e6b06aff5a1063f04a4e415b66893cd4abc2a",
+        "line_text": "scope: \"Fubuki / P3-CHAR-FUBUKI-CH0141 / P3-F045; dated P3-A011 is retrieval history\""
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "a076e7421498d443c4fc2205f76d938a5a06d9269517a760fe7cc3c606e870c9",
+        "line_text": "source_person: BA_PERSON_CH0141"
+      },
+      {
+        "frozen_line": 7,
+        "canonical_line": 7,
+        "line_sha256": "a65e4438532a5d331300b400e0c5d2a6785bb9e3b40befa30d4ac206b2194141",
+        "line_text": "source_family: CH0141"
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "d414fa6dd53ba5629978b1d3c00c0fd403d41c6a10ee6f03f4ce7b2fe41e13a0",
+        "line_text": "analytical_capture: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "7d86b06c2561ccc0d0024456ee7b8d3e0cd6dceefa12d8da76f79e23dca6f366",
+        "line_text": "source_boundary: \"Complete maintained written private argument and disclosed complete or bounded public analytical meanings; qualified prior personal argument reuse, no new primary or performed receiving\""
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "ed2e528e6315754c1403405723fcd84011f6ea85eca3bf6d98f192bf5d3300a1",
+        "line_text": "created: 2026-10-10"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "b181549213a7aae28bcc450154b6bba0d6460d8d40e1a120094d80c0eaf065d0",
+        "line_text": "model_promotion: NONE"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "f0515889f503e4c3ad756f8445eed1c83f09043c17c7494a09924e1b9c6dc502",
+        "line_text": "stable_gaps: ALL_FOURTEEN_OPEN"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 26,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 27,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 28,
+        "line_sha256": "1ab3176d911611bfec43a1c19bc70a619b2a357fd27b1765234a7693842b689d",
+        "line_text": "# Fubuki — the value of rest and the work of obtaining it"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 31,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 32,
+        "line_sha256": "601fc768f01e88b14ac174eccbe24dcdb32981a9f83656a5c547c556c4a1d746",
+        "line_text": "**F000 — Responsibility and evidence.** This candidate serves the existing Fubuki character home under architecture §7.1. Its selected private extent is seven BOND encounters, seven whole positively joined MomoTalk threads and four written objects, including both costume registers. It compares the complete maintained arguments for consequential Rabbit and Final appearances, GROUP270, water-park work, the811 public patrol, sports-festival cooperation, image work and a seasonal gift. Actual receiving extents and exact source copies are disclosed separately. Cycle008 governs present admission; older producer queue and noncurrent-draft statements remain their creation history. This author has not given ROOT acceptance or canonical completion. A taste, a wish for holiday, a painful refusal or an uneaten offered gift can matter independently of an arrest or crisis. [Architecture][R08], [method][R09], [private owner][F01], [current admission][R14]."
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 33,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 34,
+        "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+        "line_text": "## 1. Core thesis"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 35,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 36,
+        "line_sha256": "25667a6bc6dc0c07003153bd0a834d2b0d3bc18a3ab3a9d23762dd22e1b8749e",
+        "line_text": "**F001.** Fubuki wants a pleasant, unhurried life, and the literary account should take that want seriously before judging its methods. Donuts, coffee, games, radio, a cool sofa, company and time without assigned activity have specific value to her. The central problem is how she obtains those things within an institution that shares work and resources. Sometimes she shifts an obligation onto Kirino, another bureau or Sensei; sometimes she discovers that her attempted shortcut makes leisure less comfortable than an official break. She can also choose demanding care while hiding it from institutional recognition. Her character is therefore best understood through the distribution of labor, rest, knowledge and recognition rather than a single scale from laziness to redeemed industriousness. [Whole private argument][F01], [GROUP270][R16], [water park][E837]."
+      },
+      {
+        "frozen_line": 27,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 38,
+        "line_sha256": "1cf65bf210f229560a6baff84d62e6b057bf680ce27b412f9ccc6487da7bc3a4",
+        "line_text": "**F002.** The ordinary outcomes discriminate this thesis. She actually enjoys donuts at a stakeout, yet no suspect is caught there. A cherished hairpin is found and returned, followed by shared donuts. An official-tasting pretext produces completed but unwanted cucumber-donut eating. A supposed automatic patrol ends in entrapment, rescue and further work, while the whole message tail preserves actual ice-cream enjoyment and a modest openness to patrolling together. A secluded paradise becomes hot, uncomfortable solitude that misses a legitimate break and its treats. Pleasure is neither automatically achieved whenever she claims it nor meaningful only when it incentivizes useful work. [Seven complete private pairs][F01]."
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 39,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 40,
+        "line_sha256": "ee1d647e068c76f893957a37ad337e86235b822ba9263d372ce3738cf21611e1",
+        "line_text": "**F003.** Public action prevents an equally reductive account of incapacity. Fubuki executes a countersign trick during the Rabbit subdual, contributes to station access, helps free Sensei and asks that wounded Kanna rest. At the water park she actually rescues a visitor and understands something about children's enjoyment that Kanna's authority cannot supply. These are meaningful capacities. Their occurrence does not retroactively make unattended macro replies or forgotten information harmless. In the festival scene, her delegation of arrangements to Kirino and explicit wish to reduce her own work remain visible beside thanks for Mari's help. A competence must be situated and an affected peer allowed to answer. [Rabbit E002][M02], [station E018][M12], [Final E009][M16], [EVENT837][E837], [EVENT841005–006][E841]."
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "2067714b2f3f8634d476c19b87051ab8f8025b52a67cc79bcb33cfc5ab750b3c",
+        "line_text": "**F004.** Confidence is high in the local choices and outcomes identified by adequate maintained owners. It is narrower in fictional inspector rules, reimbursement claims, technical or legal explanations, an absent suspect, injury mechanisms and administrative recognition. The private hairpin search does not create a sustainable policy for every request, and a lifesaver's official praise does not certify the work actually performed. Her variant identity is positively bound: base16008 and swimsuit20037 belong to BA_PERSON_CH0141. Their releases and IDs do not supply a global development calendar. The monograph preserves those limits without treating uncertain, comic or quiet evidence as disposable. [Private identity and limits][F01], [source-class crosswalk][R11], [stable gaps][R12]."
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "f6f9a0a0790f2f4a9b267f73026f1d2134fa84fd7947d0d8570feaf0a2fd78e2",
+        "line_text": "## 2. Longitudinal arc and supported ordering"
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "4bd8764bf9edd9d662a05cb0321854a70e3490ee677ab937988f141319d7789f",
+        "line_text": "**F005.** Rabbit Chapter 1 first contrasts Fubuki's reluctance with Kanna's institutional pessimism and Kirino's service ambition. Sensei challenges an absolute distinction between elite SRT and the Life Safety students; Kanna permits their participation with support. Fubuki's assent is partly connected to possible leave. Within the operation she poses as Saki, reverses Miyu's countersign challenge and extracts the answer, crediting Sensei's psychological prediction. A shot and lost contact follow without an injury audit. The local subdual is accomplished; the future reward remains the superior's decision. That ending permits credit for her initiative without inventing awarded leave or identical tactical ability across all students. [Complete E002 argument][M02]."
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "335c166767c4d2935e92d9c4ce081eeb58308cfd1e1f28b31dc6465b44f1aa45",
+        "line_text": "**F006.** The same chapter also supplies a contrary tactical result. While grudgingly patrolling, she notices an obvious trap and reaches for a limited marshmallow donut. RABBIT's local success is reported, but the mechanism is skipped. Later Kirino finds her down under a cardboard box, and she says her memory is unclear while offering food. This is not a witnessed clinical diagnosis or proof of how the box subdued her. It is nevertheless contrary to a universally vigilant persona. The sequence does not require suppressing either the earlier countersign success or the present appetite-directed failure. [Whole E018 argument][M23], [Chapter 1 synthesis][M01]."
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "d38338b05fd37c6b095a6f295db43014f62fe4dda2ede11722c5a721b391726a",
+        "line_text": "**F007.** Final provides another local sequence, whose cross-volume placement cannot be inferred from corpus order. Fubuki and Kirino help defeat immediate pursuers and guide the cage escape toward cover. Fubuki notices Kanna's condition and asks for rest; her joking donut request accompanies help already undertaken. Subsequent movement remains materially constrained by inferior numbers, support and supplies. RABBIT's arrival, escort and other Public Security students' assistance make the escape a coalition. Fubuki does not need a solemn renunciation of pleasure to act in it. Nor does aid under crisis prove that every earlier burden-shifting choice has been repaired. [Final checkpoint and chronology qualification][M15], [E009][M16], [E010][M17], [E011][M18], [E012][M19], [E013][M20]."
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "873bbdd31e7055de11b5adad982de24f6d2220901e5f08c5717f7756f0e7707f",
+        "line_text": "**F008.** Rabbit Chapter 2 gives practiced routes another use. Fubuki joins the demand for surrender, uses station knowledge as tactical talk and obtains a promise of a cruller. The sign's fall and the escalator's exact stopping mechanism are not printed, even though a guard reacts. She briefly appreciates Decartes's ideal of no work, then objects to its demand to surrender possessions; no recruitment follows. Miyako reaches the platform and credits Life Safety, while the station's final threat resolution depends on later coalition action. The quoted legal provision and rival elite claims remain participant assertions. This sequence shows useful situated knowledge and a particular refusal rather than a general endorsement of whatever reduces work. [Station E018][M12], [Chapter 2][M10]."
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "91ed1404abe5662f67197913b50c8b64b5d3ace80bcf3e54a46944e1e5f318dc",
+        "line_text": "**F009.** The private threads establish narrower orders. A message announces a punishment patrol, with a past shirking incident as antecedent; it does not uniquely identify the macro episode as that cause. A few minutes separate the shared search from the hairpin's discovery. The summer paradise has two represented hours and a missed break that began an hour earlier. Whole post-launch messages add information after the float episode, including actual ice cream and a qualified willingness to patrol with the adult. EVENT837 has its local staffing, mistakes, rescues and reward refusal;811 retains its actual capture and failures of secure containment. None of those local relations authorizes a single ordered progression from selfishness to settled vocation across every event, outfit and private encounter. [Private whole threads][F01], [EVENT837][E837], [EVENT811][E811], [chronology rule][R11]."
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "fb338ee55c9237939aaec60d4ea1b74194068c786f3b2fe5e8fe1604ba11466e",
+        "line_text": "## 3. Public and private self"
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "5d534f1621865b766b45d5dcc446f740f434e7d12c11769a67e114b10ce827eb",
+        "line_text": "**F010.** Fubuki does not simply hide a virtuous true self behind a careless public mask. In the macro encounter she openly calls snacks and naps her preferred productive activity. She has modified a purchased Millennium program to parrot replies and redirect problems. The literal MomoTalk labels are Fubuki's, but the episode explains automated provenance and a misdirected internal channel. These messages are not personally intended assurances of normal conditions. At other moments she borrows an official identity, calling Sensei an inspector and herself a lifesaver to obtain advance tasting. The public form can actively serve the private want, rather than merely misrepresenting it accidentally. [Base16008E002 and swimsuit20037E002][F01]."
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "b1283235962b29c0256f9cdd1fd6a14c20581ffc169f9509f3bdcb15e97515ec",
+        "line_text": "**F011.** Concealment has a different direction in the hairpin search. Fubuki initially rejects the child's request, citing personnel, emergency readiness and the precedent of accepting every search. The child objects to the relation between those claims and her habitual naps. Fubuki later leaves under a donut pretext and is found searching the route. She admits that the girl's expression moved her and that a bad conscience would spoil the snack. This explanation contains real emotional movement; reducing it to a strategy for better eating would miss the child and the actual work. Wanting the result represented as an accidental lost-property receipt preserves her reluctance to become publicly available for every future demand. A particular good act does not abolish the resource problem or prove that an official false report was submitted. [Whole base16008E006 and coda][F01]."
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "cbd02f9767e6e1c5782f62a9ab290072b559b9004c9bebdd7e9abc3d7e925502",
+        "line_text": "**F012.** The summer paradise reverses the relation between recognition and conduct. She relies on poor radio reception and claims she can monitor emergencies by phone. Heat, a broken parasol, warm cola and a painful sunbed spoil the imagined leisure. In the cool room, the manager takes her claim of having fulfilled duty as evidence that she worked through the official break and calls her exemplary by name. Her confusion is the endpoint. No completed applause or newly adopted moral policy is printed. Official praise can therefore miss the actual behavior, just as the hairpin care can remain deliberately hidden. A public title or compliment cannot replace the work's represented route. [Whole swimsuit20037E005][F01]."
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "9f16da39de9219752417e33c1e7d1c8d93c198312ab8b18a5a7cff35b93466ff",
+        "line_text": "**F013.** Her self-account also contains valued modesty of aspiration. The written profile wants a comfortable civil-servant life without wealth or fame. This wish is not automatically a noble critique of ambition, but neither is it an absence of human desire. Her café sofa preference, radio and crossword interests and seasonal food anticipation give that life content. Public danger contests her claim that the bureau is basically peaceful; it does not make the desire for peace false. The character can want less demanded of her while still responding to a person whose small need she has chosen to recognize. [All four written objects][F01], [current gift comparison][E810C], [qualified historical gift detail][E810G]."
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "e09ec768446c5dbea0090145c069518f24733ee0cd91ca5c8a211d3611992a00",
+        "line_text": "## 4. School, bureau and institutional role"
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "497d3189b6a9cce5ba8166eb594bb4745046ca1df4363f2b2a87fd6ed669eb00",
+        "line_text": "**F014.** The macro's failure is a concrete institutional problem. A Security executive needs a borrowed barricade returned. The program directs Security to ask Security and agrees that the executive is being mocked. It cannot understand the recipient, role or material need. A visit, severe scolding and written explanations follow. The actual endpoint is more disciplinary work, not returned equipment, repaired software or a harmless demonstration that automation is bad. The other bureau's grievance matters independently of Fubuki's exposure, because shared tools and communication are part of public service. The unnamed executive is not automatically Kanna. [Complete base16008E002][F01]."
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "5ee41aaa34eb9d23b1634de76864e727cd47fb7a4979a66b6c3581e01dfd6fba",
+        "line_text": "**F015.** Her resource argument about lost property deserves a serious hearing even though she uses it selectively. An institution with emergency readiness cannot search every uncertain route merely because one object is precious. The child's hairpin is nevertheless unique, handmade by a grandmother for a birthday, and the child explicitly challenges the refusal. Fubuki's private search and shared help achieve this one return. They do not establish how all future requests should be handled, whether another worker covered the full delayed shift or whether her preferred concealment became an official rule. The scene contains both a real institutional constraint and a person whose need cannot be made trivial by the size of its public consequence. [Complete base16008E006][F01]."
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "521ae68c6877a7692a2af24f914155ab60e718960fb41754b4d771162efa61da",
+        "line_text": "**F016.** GROUP270 tests a shared institution through other choices. Fubuki and Kirino want rest, donuts and meaningful service in different proportions; their chief refuses deployment, yet they respond independently. Familiar patrol routes make early arrival possible. Fubuki's caution and flour plan coexist with property damage, objections about danger and the narrated suspension. Capturing a culprit does not retrospectively make the means harmless or achieve the wanted leisure. The unidentified Security chief remains source-local, not Kanna by convenient analogy. Actor seams in the two parts preserve the difference between a coherent group action and a secure individual quotation. [Whole GROUP2701–2702][R16]."
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "516b8ba8fd386ecc68c2d4d6e5515d6c724e7c6d605e739d86d51c65c7179162",
+        "line_text": "**F017.** Corporate and festival work expose a further distribution problem. The costumes in841015 are unexplained when Fubuki and Kirino receive them. Kanna supplies the advertising and equipment rationale, while avoiding Fubuki's request that she share the costume. A declared strike is not performed. Fubuki's enjoyment of a familiar donut shop and difficulty refusing it can coexist with objections and nervousness. Earlier005–006 show useful dancing during a threat and a subsequent lesson offer; Fubuki explicitly hopes more students will reduce her work and delegates arrangements to Kirino. No completed lesson or shop closure is printed. Institutional usefulness, a peer's wanted fun and a student's desire for less work are distinct ends, not one consensus validated by sales. [Complete bounded841005/006/015 meanings][E841]."
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "2e19e46946ed0e9c998ae99f4a079b01c93f4d3bd13a24e3f96bf1bf1c719b7b",
+        "line_text": "## 5. Ordinary life, humor and intrinsic ends"
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "b7eb26d778931a8ca4693535aed39105a21e857679d2ad24d9542fa7b7a4a18e",
+        "line_text": "**F018.** Donuts are a repertoire, not a generic character accessory. The base stakeout specifies Old Fashioned with coffee and later hopes for glazed donuts. The seasonal gift anticipates sprinkles, a special chocolate version, a discount and two delivered boxes. The written register jokes about whether a holeless form still counts. Familiar pleasure has texture and material conditions; the title's yearlong anticipation is a local self-report, not an audited calendar or universal inability to work. The gift ends with an offer to share, without printed acceptance or consumption. That generosity remains an act even when no snack is actually eaten. The historical detail is used under the current810 comparison and Cycle008 qualification, not promoted into independent current authority. [Private and written][F01], [current810][E810C], [historical complete031 detail][E810G], [admission][R14]."
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "e71c677a06a489224305c064236e4204e65e10938ab5c94b164402915a0ffc51",
+        "line_text": "**F019.** The stakeout makes a more achieved pleasure visible. Fubuki brings donuts, welcomes a quiet setting and actually enjoys taste and coffee on the warm bonnet while asking the adult to watch. Timed narration and written special rows preserve the mode of that enjoyment; they are not repeated dated meals or performed voice. She later says the suspect did not come, while Sensei suggests one might have been missed. Her sixth-sense assurance is not a test, and the source shows neither an arrest nor definite missing of the suspect. The food succeeds without the criminal task being completed. Keeping both results avoids making pleasure a reward that exists only through instrumental success. [Whole base16008E005 and thread][F01]."
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "e620856276609ace246e663ee62c1be85a77601fdcaf91a305c10dfc8a333de2",
+        "line_text": "**F020.** The cucumber donut disproves the idea that its category guarantees delight. Borrowed inspector authority gets advance access after the manager's initial refusal. The supplied whole cucumber with mint-wasabi sauce has an unnamed gourmet organization's reported approval; it is not securely attributed to a particular Gehenna club. Fubuki says it is not to her taste and tries to exclude it. Sensei invokes her own duty rhetoric, the manager supplies a larger cucumber and she finishes near tears. Eating is actual; wanted pleasure, a sanitation finding and a clinical reaction are not. Her misuse of office and the adult's pressure are different ethical facts. Comic reversal need not justify overriding her stated preference. [Whole swimsuit20037E002][F01]."
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "7b76a47cd650d74899aa6c5ed4a70c4676b23fab4848ed624071203312e7b32c",
+        "line_text": "**F021.** The automatic-patrol float mixes physical comedy with a meaningful limit. She hopes moving around the river can combine fun and observation; comprehensive park coverage remains a claim, not a measured safety system. Once stuck, she asks for help, fears remaining trapped, bargains about work and hoarded donuts, and objects to touch from behind. The adult actually frees her. Asking for rescue does not erase that bodily objection. She proposes another shortcut and is taken on patrol while still trying to evade it; permanent reform is not shown. The whole MomoTalk tail then preserves a positive remainder: the purchased ice cream was delicious, and occasional serious patrol together might not be bad. Omission of that tail would falsely leave only failure and compulsion. [Whole swimsuit20037E003, timed forms and aftermath][F01]."
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "196ad9322468b64cfb38a026e8629afb3e43e65b49e46df36858813627e28189",
+        "line_text": "**F022.** The paradise episode distinguishes desired rest from an unsuccessful way of obtaining it. An empty outdoor children's pool promises privacy and company; the adult is given a sunbed, while pool entry is forbidden because another observer is annoying. That invitation is not an enacted swimmer rescue. Warm drink, broken shade and a hot bed progressively defeat the comfort she claims. Refusing an ordinary work-then-break alternative leads to two hours of discomfort and missed official refreshments. Air conditioning is welcome when she finally arrives. The narrative critiques how she evades work without proving that all unproductive time must be converted into duty. Rest is valuable enough for its failed material conditions to matter. [Whole swimsuit20037E005][F01]."
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "9b8cd46cb83e9c582247c4fea02eaebcc1ee7c111437839f3632a886d1bb4b07",
+        "line_text": "**F023.** Radio, games, crossword puzzles, discounts and holiday time broaden the same ordinary world. Café text wants a bureau sofa and worries about a siren or superior reaching the café, without an actual purchase or identified visitor. Christmas discount cake, a donut box instead of osechi and wanted school leave specify hopes rather than completed holidays. The written claim that shirking produces peace is a comic reversal of “idle police reflect peace,” not a causal law. The swimsuit speculation about compulsory donut eating becoming unpleasant should be compared with the unwanted cucumber result without inventing a date between them. These are positive and contrary written contributions at their own conditioned scopes. [Whole written objects][F01]."
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "fedab4823deb0e540005b13d799eb18b86e027f68741d94e2e7a975221253342",
+        "line_text": "**F024.** Ordinary care supplies equally concrete ends. The child's hairpin returns; shared donuts follow actual collaborative searching. The gift's final offer remains unconsumed. Public patrol receives gifts and thanks, while811's retrospective Fubuki communication articulates ordinary giving without implying physical presence after jamming. She can enjoy company, respond to another person's affection for an object and joke about rewards without each act resolving the whole bureau. The character's ordinary life needs these different forms of achievement and incompletion, rather than a single consumption or productivity measure. [Private E006][F01], [gift031][E810G], [current810][E810C], [whole811][E811]."
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "b5ab0beda9de39527d8e6d06f77c3e2709c4f1297791318999ff6602a14e4b82",
+        "line_text": "## 6. Crisis behavior and contrary evidence"
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "e42c62292597a3e5eaadcf75bf1cad7ab6f8a651f685620e2887773c1dde2886",
+        "line_text": "**F025.** The public record exposes an uneven capacity rather than pure helplessness. In the initial Rabbit intervention she follows a plan with an effective countersign trick. Later appetite enters a recognized trap and she is found down, with the decisive mechanics unprinted. At the station her route knowledge and warnings aid access, but neither a sign impact nor the exact escalator stop can be credited as a directly observed injury-causing action. These outcomes distinguish performed success, tactical rhetoric and omitted mechanism. No global shooting skill or permanent vigilance follows from a local result. [Rabbit E002][M02], [E018][M23], [station][M12]."
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "cd77e8e1c3a05755154840f979f32adbfc354763c7bf3b598ad98e82d69f7545",
+        "line_text": "**F026.** Final gives explicit care that a no-concern reading cannot explain away. Fubuki helps the adult's escape under an institutional takeover and notices Kanna's wound, asking for rest. Her donut request does not nullify work already undertaken. At the same time, the group lacks numbers, support and supplies; rest and RABBIT assistance are necessary. A joking, pleasure-seeking student can participate in dangerous reciprocal care without becoming an inexhaustible hero. The coalition's success does not certify all legal immunity, complete injuries or a universal motive for every prior patrol. [Final E009–E013][M16], [M18], [M19], [M20], [checkpoint][M15]."
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "98a182bf59fe003ed4c786ffd18d275df83a992909cd780bde8dd0d1de34bf2e",
+        "line_text": "**F027.** EVENT837 supplies an actual rescue in another setting. Her attraction to a free pass and play does not prevent action when a visitor needs help. Understanding children's wish to win can support a game with them, yet her fatigue puts limits on that role. Kirino's explanations, Kanna's evacuation insistence, staff help and later technical interventions remain separate contributions. Fubuki's practical service is therefore stronger than a mere profile promise, while a whole-park safety guarantee or permanent embrace of lifeguard work remains unwarranted. Her final reward refusal is literal enough: having had sufficient experience is a reason to stop, not an obligation to enjoy the next trip. [Complete EVENT837 meanings][E837]."
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "0105451f3110c4f54a9de25844383fc362c7fc03581a2c812d487ad8960fb569",
+        "line_text": "**F028.** The811 patrol is consequential because confidence fails locally. It contains collective subdual, authentication questions, unanswered grounds, multiple masked sightings and a revealed local impostor. Threats about leave, bonuses and reflection pages are marked bravado, rather than performed sanctions. Fubuki's boredom, aesthetic attraction and food interests remain visible within that security problem. She cannot be credited with independently verified containment merely because an officer says it will hold, nor identified with every masked or generic participant. The final delivered chocolate has its own ordinary value, while interrupted communications keep retrospective giving remarks distinct from present audibility. [Whole current811 argument][E811]."
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "3d6400a7f7f2c6571c0e88e2009baa4b4984bcaeb654713b9f8d2e1a435f46fd",
+        "line_text": "**F029.** During the sports festival, a heat complaint and promise of a robot-made donut coexist with police work. The accepted raw-text-actor argument assigns several Kirino-labelled complaints to Fubuki and the rebuke of fake illness to Kirino; it is reused as attributed analytical evidence, not newly performed or raw-audited here. The following inquiry combines reports, electronic tags, records and witnesses across schools. Fubuki's forgotten-memory turns are similarly distinguished from Kirino's formal self-reproach. That contrary detail matters: useful cooperation can occur despite lapses and without everyone wanting friendship. A donor of information or a pleasant colleague does not thereby become a universally reliable narrator. [Complete818007][E818007], [complete818008][E818008]."
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "5126a5e4e8d500d9c6ae494111367b2a2cead0a8fe2cf2b1dd35bc47709b7008",
+        "line_text": "## 7. Relationship with Sensei"
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "63222d62af4784f5e2bab86080fc8e6eebc15cc0c720cfdfa6dde1845d720f9e",
+        "line_text": "**F030.** Sensei is alternately colleague, witness, desired company, labor recipient and participant in an unequal arrangement. Watching the macro fail does not become a successful intervention simply because the adult can choose a rebuke. During the punishment patrol Fubuki tries to hand over almost the entire route; the adult objects, and she agrees to work seriously because a holiday has been sacrificed. That is a specific response, not a durable reform program. Their shared heat, food and company remain a reason the relationship is wanted, even when its distribution of work is contested. [Whole baseE002/E003][F01]."
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "95142e4913263bf17b7acb892cac0931c3d748acf7942ca70696d7c7957e29ae",
+        "line_text": "**F031.** The youths' patrol response also limits the adult's interpretation. Fubuki's implausible excuses, promises not to question them and avoidance of confrontation make them feel treated without prejudgment. They say this is unusual and offer usefulness; their local knowledge and enthusiasm extend the patrol into the night. The adult's praise of her ability to draw people in has evidence in their voluntary response. It does not prove that she designed a restorative program, that every police criticism was unjust or that a lifetime rehabilitation followed. Fubuki's surprise and frustrated extra work preserve the gap between intention and received care. [Whole base16008E003][F01]."
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "87614637f552d0f2c2a51b25ec2c9a77ba9036a0b524a0afd4824d0c823d1bec",
+        "line_text": "**F032.** The hairpin encounter makes cooperation more direct. Sensei finds her failed concealment and joins the search on terms that also value delicious donuts. They divide the area; she finds the hairpin, thanks the adult and returns it in the narrated ending. Her request for an accidental-receipt account retains her wish for bounded obligations. This is reciprocal care and shared pleasure, not just adult instruction in responsibility. The successful return neither grants permission for every future burden nor makes the child's objection to the initial refusal irrelevant. [Whole base16008E006 and coda][F01]."
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "6cab2f638a63eb5b48b992ca7bd98ef1fb1f2b3e41fb8b2d4cc38a9443f9460d",
+        "line_text": "**F033.** The adult can also help enforce an unwelcome demand. In the inspector scene, participation enables Fubuki's pre-opening access; later duty language pressures her to finish an unwanted product. In the float rescue, actual help coexists with a specific behind-touch objection and continued shortcuts. A successful release does not make all contact consented, just as a comic punishment does not establish a medical or moral necessity to eat. The subsequent ice-cream and occasional-patrol statement should remain genuinely positive without retroactively licensing the earlier pressure. [Whole swimsuitE002/E003][F01]."
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "4607a9c1f266f78f221a4d88e0aa80982a10536363c2aad263845fa847f1b986",
+        "line_text": "**F034.** Intimate generosity and troubling privilege occur side by side. The seasonal gift offers sharing after a joke about the awaited counterpart; no eating or mutually agreed romance follows. A written birthday line instead offers to overlook any adult wrongdoing in lieu of a gift. That is a proposed privileged favor, not lawful immunity or proof a crime was covered up. These meanings resist a single label of harmless flirtation. A close relation can contain wanted companionship and boundary problems, with each conditional offer and actual outcome kept distinct. [Gift detail under current810 qualification][E810G], [E810C], [birthday written register][F01]."
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "27990d39d7ae9e53e346ff5f3a9035bc6a9d2c4be7fa8fb5f9fe34b52e80ecd9",
+        "line_text": "## 8. Major peer relationships and independent recipients"
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "468d23575e123b3fdfba7a62b96914e6de574be7ee2bad56086fd2b6487b6031",
+        "line_text": "**F035.** Kirino is more than the energetic opposite who makes Fubuki's comedy work. Fubuki often expects her to handle trouble or create work, and she delegates festival lesson arrangements to her. Kirino has independent service and transfer ambitions and explicitly rebukes a proposed fake illness. The pair's familiar routes and complementary tactics produce useful action, while GROUP270's damage and suspension affect the shared result. Fubuki's ease can mean an uneven peer burden; companionship cannot make Kirino infinitely available or all mistakes someone else's responsibility. [Private account][F01], [GROUP270][R16], [818007][E818007], [841006][E841]."
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "648da118dfdc78c9f0ac90cab5a8e646db4a1f107ac8ea4b031aaed995c67163",
+        "line_text": "**F036.** Kanna recognizes some capacities and initially undervalues others. Her first assessment of Life Safety is challenged by their success; Final distinguishes their help from her own compromised responsibility. Fubuki in turn notices the chief's wound and asks for rest. At the water park and festival their wants diverge: a free pass is not a service vocation, and sharing an embarrassing costume is not resolved by superior orders. Kanna's food refusals and dirty-hand concern also differ from Fubuki's appetite and stakeout leisure. Neither student's whole life is measured by the other's work ethic. The accepted Kanna private account supplies this comparator, rather than borrowing approval from a pending character draft. [Rabbit][M02], [Final][M16], [whole water park][E837], [festival][E841], [accepted Kanna private argument][R15]."
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "9e7da061d518d4063e8d5ab5620a540e50b811ba9c0ac5f93f4252130b742e4b",
+        "line_text": "**F037.** The child and youths are important because they supply responses outside the bureau's recognition system. The child explains a handmade birthday gift's uniqueness and contests the initial refusal; the ending returns the object without a fabricated quoted reaction. The youths say Fubuki did not prejudge them, then choose to help and prolong the work she hoped to avoid. These encounters have materially different stakes and outcomes. Both can revise her self-account, while neither makes every future citizen request manageable or every plea for rest selfish. Source-local recipients should retain that independence rather than serving only as tests of an invariant Fubuki trait. [BaseE003/E006][F01]."
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "b8a9c3676269c92d501bbcad0a63b17f6cd005d453423a704ce4cea80ab4f961",
+        "line_text": "**F038.** Mari's festival help likewise has an end other than Fubuki's convenience. Dancing buys time during the threat; later Mari imagines idol activity as fun. Fubuki recognizes unexpected usefulness, thanks her and proposes lessons, but also wants additional students to lessen her own work. The shop worker's appreciation and planned attendance are not completed closure or performance. Keeping these purposes separate permits real reciprocity without requiring all participants to endorse Fubuki's workload strategy. Her relief after helping Mari with the phone in015 remains a local response, not proof that her earlier objection to costumes was insincere. [Complete841005/006/015 meanings][E841]."
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "7cfeff5bc2132fa8cc8e086faca3096d21bd1274938fdc87db126b1a51b7573a",
+        "line_text": "**F039.** Other school representatives make cooperation possible without uniform affection. The818 inquiry combines Hasumi's suspicion, police sightings, Ako's workflow, Yuuka's equipment and risk concerns, a stallholder's observation and others' access records. Actor seams prevent crediting every data preparation to the printed speaker. The positive result is a located inquiry and actual cooperation, not a completed protest settlement or universal friendship. Fubuki's presence belongs to that differentiated world. The character monograph does not complete any directed relationship, ensemble or institution merely by identifying these separate purposes. Exact homes and mandatory sections remain governed responsibilities. [818007–008][E818007], [E818008], [architecture][R08]."
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "fe6d5473335695de0adf29b05dea2dd394e097acc73cf14e240ffdfee5d80c9c",
+        "line_text": "## 9. Japanese language, written voice and modes"
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "24a74329db7058a3ca5e40fe9484ea5ad47042202caed9679a232167395b709e",
+        "line_text": "**F040.** Relaxed address to Sensei differs from the borrowed監察官 role and her asserted professional detachment. The “busy” nap, paradise rhetoric and peace reversal invite laughter through disproportion between official-sounding justification and a concrete wanted comfort. But spoken-seeming automated MomoTalk must remain automation when the encounter explains it. The literal label does not guarantee a personally intended assurance. Similarly, profile complaints about insincerity need the whole hairpin episode's emotional movement as contrary evidence, rather than becoming a command to mistrust every caring act. [Whole private and written sources][F01]."
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "d11851d2591dc61bc5617672eda0ea6d578a90a46ba69ac9c1219136943170a1",
+        "line_text": "**F041.** The rhetoric of rest can reveal value without establishing a causal theory. A civil servant's unhurried life, a discount, an idle sofa and game exhaustion are different wishes. The implausible smoking-candy excuse is neither chemistry nor secure substance identification. A reported mediocre gun is not a marksmanship test. The float's hole and donut-form jokes do not confer technical knowledge, and the unrecognized musing about a mug–donut equivalence does not become a mathematical accomplishment. Their humor belongs to written reasoning and form, with ordinary wants and flawed explanations both available. [Whole selected written and private account][F01]."
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "83f57e831a19da223f384cd0f9f99d42e85a0ed827b7218f1735e8d31be4d3ec",
+        "line_text": "**F042.** Fine attribution is kept local. The base stakeout and summer float use timed narration-labelled forms and their writtenUI parallels. The summer room's “finally you came” clause is printed as Fubuki despite its apparent interlocutor position; the following manager explanation still supports the mistaken-praise outcome without silently repairing that line. RabbitE002's shooting self-praise under Fubuki labels is quarantined rather than credited as her expertise. In818007–008, the existing text-actor witnesses distinguish complaint and rebuke, forgetfulness and formality; this monograph reuses those declared analytical findings without new raw inspection. [Private][F01], [Rabbit E002][M02], [818007][E818007], [818008][E818008]."
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "30f94d7391739c9b070a0fd76d27d6ac8b3b5bf6fd39949f4ac3f1cfbda6452e",
+        "line_text": "**F043.** Written registers also carry different modes. The base costume has810/10810/900810 conditions and the swimsuit837/10837/900837 conditions; a triggered first-prize line is not an independently witnessed lottery win. The hypothetical fox stealing a vehicle is explicitly a joke, not a FOX-platoon identity route. In811, masks, an impostor, retrospective communication and alternative adult responses preserve separate knowledge. Locale differences cannot be pooled into a stronger account. All these forms support particular language and wanted states without audio, acting, runtime execution or a complete source-class calendar. [Whole four written objects][F01], [whole811 mode controls][E811], [crosswalk][R11]."
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "92c357a18131e108bca3a79a1032a08208cabf10b24d8f28508fe0b05afe2944",
+        "line_text": "## 10. Serious competing readings"
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "ce0a57809b27f09955f2d00249510fff38c7a84c0936e921ac2e9982cff98158",
+        "line_text": "**F044 — Simple laziness explains everything.** Avoiding work, naps, macro replies, forgotten information and the failed paradise give this reading substantial support. It fails on the returned hairpin, a chosen search, concern for wounded Kanna, useful station work and actual water rescue. Nor can one laziness attribute explain why the wanted cucumber novelty ends in tears or why official rest would have been more comfortable than evasion. A stronger account retains the repeated avoidance while distinguishing motive, means, recipient and achieved result. [Private][F01], [Final][M16], [station][M12], [water park][E837]."
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "f99596bf6f25d810ced86faa03dc4f29c227362949d9149cb39d6c59ba5ee99e",
+        "line_text": "**F045 — Hidden kindness excuses all evasion.** The hairpin's concealed care is powerful evidence of emotional response beneath claims of detachment. The youths' volunteered patrol and her crisis help broaden it. Yet another bureau actually needs its barricade, the program fails to understand context, Kirino is asked to absorb burdens and the suspect remains unresolved. Her small successes cannot answer those costs. The most defensible hidden-care reading concerns a particular chosen act, not immunity from criticism wherever a comic surface appears. [Whole private argument][F01], [GROUP270][R16], [festival][E841]."
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "301a881774de2902edbc580ef9a2164c52a74df896663ba7e0c5c31a9ebb3da3",
+        "line_text": "**F046 — She is an intentional restorative-policing expert.** The youths' testimony and sustained collective patrol offer serious evidence for a valuable nonprejudgment effect. Fubuki is nevertheless surprised by it after trying to avoid trouble through implausible explanations. Their help lengthens the task against her wanted outcome, and no lifetime rehabilitation or installed policy is shown. The child's search is also a particular response rather than a fully designed bureau system. Beneficial reception can be real without a false account of prior intent or universal method. [BaseE003/E006][F01]."
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "5207b24e84d93f6731d9c301d9c070995c675c92d1c3f860ff80306d012a5bc1",
+        "line_text": "**F047 — The adult permanently reforms her.** Objections during patrol, helpful searching, float rescue, purchased ice cream and occasional willingness to work together make influence visible. The next shortcut, continuing shirking, birthday privilege proposal and adult participation in the inspection fiction undermine completed reform. The adult also pressures unwanted eating and receives a touch objection. There is a developing repertoire of valued company and local correction, not a secure chronology or cure installed by one teacher. [Whole private and written account][F01]."
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "cffdc48bcd23aa13903d7c3c2f9583d14b377fed91aea7dbbedd8a830409a128",
+        "line_text": "**F048 — Every donut scene confirms reliable pleasure.** Specific appetite, repeated taste and seasonal anticipation make the motif strong. The cucumber is actually finished without enjoyment; the paradise scheme misses donuts already eaten by others; the gift only offers sharing. A donut can be an object of pleasure, a lure, a rule parody, an unwanted product or an unconsumed generous offer. Keeping that range permits stronger interpretation than converting every appearance of the object into the same emotional result. [Private][F01], [gift031 qualified detail][E810G], [current810][E810C], [Rabbit trap][M23]."
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "4bafd64b3e8367f485adae98e50934b59e70e32e20777f4c5daab9d5c90280e2",
+        "line_text": "**F049 — Rest matters only as a reward for service.** Useful help sometimes earns or accompanies food, leave promises and thanks. The reading nevertheless misses the intrinsic wanted quality of a cool room, private company, delicious taste or a holiday. A cherished hairpin also matters to the child before it becomes a service success. Fubuki's bad methods of obtaining rest can be criticized while rest itself remains legitimate. Conversely, actual pleasure does not make an uncompleted task disappear. The question is how lives and obligations are shared, rather than whether enjoyment has been morally earned in every scene. [Whole private][F01], [GROUP270][R16], [current public ordinary evidence][E811]."
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "3cfd881cc670aef7f629ab8672b1f356dcf3ee5b2e590324df87f4d61db2e76b",
+        "line_text": "**F050 — Public success or praise proves reliable institutional service.** Rabbit's subdual, station access and water rescue genuinely test competence. Official praise at the summer break, however, mistakes her claim for working through rest;811's confidence fails through insecure containment and masks; the macro produces real burdens. Source-local gratitude and a reward promise are not a full personnel, legal or safety audit. It is possible to recognize particular service without making Fubuki a universally effective officer or treating failure as her immutable essence. [Private][F01], [Rabbit][M02], [station][M12], [water park][E837], [whole811][E811]."
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "01e38ae08eba2e5cbba6497e9048eec454b27f8f0d8924f28ba8ae02141360d0",
+        "line_text": "## 11. Evidence route, stable gaps and remaining analytical responsibilities"
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "e730ab55dedc32e89e1f563c709c85599397134c718f6c6c12b7d50e3a858edf",
+        "line_text": "**F051.** The companion receipt binds every current copy and distinguishes newly received whole arguments from qualified prior personal receiving. The new complete Fubuki private18 argument, current811 comparison, small MAINE018 and sports007/008 meanings were received through their actual endings. Current810's complete bounded narrative/gift qualifications govern the historical031 detail; it is not relabeled as an independently current authority. The841005/006/015 meanings and source mode are complete at bounded normal-owner scope, without a claim to have newly read all nineteen primary objects. Earlier Kanna private and public meanings are accepted source arguments, not borrowed acceptance of a pending Kanna monograph. [Current admission][R14], [source recovery][R11]."
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "d2eb693a770661c6a6ea903d6cd141a2fc52102656188f5052422dc61a0fb6a9",
+        "line_text": "**F052.** Literal supplemental headers and maintained MAIN name queries serve retrieval. The thirty-seven literalフブキ supplemental routes do not constitute thirty-seven new primary narratives, a global absence proof or a census of all possible raw-text attribution. Actual raw-supported Fubuki turns in the818 owners exceed those literal header leads, which is why the whole adequate arguments matter. The existing positive home remains P3-CHAR-FUBUKI-CH0141, with typed F045 and dated A011 navigation kept distinct. No group chief, anonymous courier, masked figure or other person's variant is absorbed into Fubuki. No relationship or institution is counted complete from this portrait. [Private identity][F01], [GROUP boundary][R16], [818 actor witnesses][E818007], [E818008], [architecture][R08]."
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "3b59054eda39083afbb8227b200183ad63821cbb54dcafc5f1795ad83bb11729",
+        "line_text": "### Fourteen original stable gaps — all OPEN"
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "a07f5d0dc1952a1431ebb90169c1b0cf5e0fd645a41a7f5389328c353eee5c89",
+        "line_text": "The following names preserve the original register literally. Textual intake completion and a rich character argument do not close stronger claim warrants. [Original definitions][R12]."
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "9f8fe03496d4215caf63fde478539b1b49de137ff44e5365d7c2747aa875d8cb",
+        "line_text": "| Stable ID and original full name | Actual contribution here | Remaining claim-specific warrant; disposition |"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+        "line_text": "|---|---|---|"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "a963e7470c78ce98a681256be48bd728d7f94fd7dd8a1cb71d3f38a6908c6b75",
+        "line_text": "| G01 — Ordinary and private breadth | Whole18 selected objects preserve taste, rest, games, company, actual return/codas and negative pleasure results. | Universal defaults or arbitrary-context predictive transfer are not established. **OPEN**. |"
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "2c9a55966bfd2af2d2900f980514c5c3a4ecae567971785cb52b1e8b21f598e1",
+        "line_text": "| G02 — Yuuka council/club decision transfer | Public cooperation in818 and811 is kept at its represented role. | No Yuuka council/club invariant or comprehensive safety/decision transfer. **OPEN**. |"
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "d5936af71811dbf2b58c66d5ae4acb9d6a7a38ae4c6d7d8648dbd0fdde3f1043",
+        "line_text": "| G03 — Serika service, peer and reciprocity range | Fubuki offers a distinct food/service/burden comparator. | No substituted Serika private, unfamiliar-peer or romantic generalization. **OPEN**. |"
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "84d70e0e29f1f641594945b380b957d63c41d7575b2b4b1d0c9a7a66b2cec04b",
+        "line_text": "| G04 — Hina crisis causality, accountability and ordinary contrast | Rest and local service are distinguished from completed accountability. | No NK Ultra victim repair or Hina causal closure by analogy. **OPEN**. |"
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "781e6a0e722902c5f01badee557564832b2438702dd0b09f75c4536010bc25b7",
+        "line_text": "| G05 — Arius and PS68 ordinary/aftermath transfer | Ordinary intrinsic value is retained independently of crisis importance. | No Arius/PS68 afterstate, labor or legal repair is supplied. **OPEN**. |"
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "4051efb478722714db42ef2b82a579510348019d6fa47986b461e1b67a7aafe6",
+        "line_text": "| G06 — Cross-school ordinary repertoire | Gift, festival, patrol and bureau differences add inspected ordinary directions. | No all-school culture, hierarchy or universal recurrence from these settings. **OPEN**. |"
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 172,
+        "line_sha256": "ac2ff1fa4c4404565cbeb776e43bdae6cd9e2c6a93cb608646dc8aa63bf1b3ab",
+        "line_text": "| G07 — Story-world chronology | Local punishment reference, minutes, two hours, break and whole message tails remain bounded. | No universal event–private–MAIN order or variant-release maturation ladder. **OPEN**. |"
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 173,
+        "line_sha256": "f03804832d6797bcc2c25cb1b7dc7a71c5235b80b180101916339a65fc76ad4c",
+        "line_text": "| G08 — Event naming and repeat contexts |810/10810/900810 and837/10837/900837 conditions, gift suffixes and stable source IDs remain distinct. | Missing titles, runtime equivalence and repeated-context chronology stay unresolved. **OPEN**. |"
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 174,
+        "line_sha256": "9b04b81c325becc1a8baf2982998d1afab798bc94a549297e2e4d8334d3f27f4",
+        "line_text": "| G09 — Written speaker/choice attribution | Macro provenance, timed forms, actor seams, raw-supported818 distinctions and alternatives are disclosed. | No new raw repair, simultaneous replies or universal shared inward knowledge. **OPEN**. |"
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 175,
+        "line_sha256": "38db897a4cadac6c9d7b4fd7ba9e085fd739a2e563b0f958eaefa26f4a55f77b",
+        "line_text": "| G10 — Performed voice | Relaxed/formal written address and humor are interpreted as text. | No audio, animation, acting or audiovisual receiving. **OPEN**. |"
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 176,
+        "line_sha256": "8303bd5f6aefa6a0eac55d589ce2ffd097149bb32f9b038e651a3fa188cd56df",
+        "line_text": "| G11 — Hoshino's Yume record and office states | No unrelated comic rest is substituted for this record question. | No notebook provenance, death-causality, cured grief or unified office state. **OPEN**. |"
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 177,
+        "line_sha256": "a3e1bf2d70834a6100b681a0eedc0ee8f68f05f7965b9c6160e6aa57e404e507",
+        "line_text": "| G12 — Counterpart, system and variant identity | BA_PERSON_CH0141/base16008/swimsuit20037 positive identity stays distinct from generic chiefs, couriers and masks. | No uncertain alias/system/counterpart continuity or new person from outfit. **OPEN**. |"
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 178,
+        "line_sha256": "705e48c2869ade4c70522f5069c334b3c6413ca902357ee049ac7bd126272a2f",
+        "line_text": "| G13 — Office, contract, safety and technical outcomes | Actual local work, return, rescue and praise are differentiated from law, technical explanation and reports. | Barricade return, macro repair, sustainable service policy, clinical results and full safety/custody proof remain absent. **OPEN**. |"
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 179,
+        "line_sha256": "c2ed69a17f2d74227de597694e4ea7473896089499d0f9c6ce1c5a33582aaa28",
+        "line_text": "| G14 — Unclassified/mode continuity | Selected private, whole-message, conditionedUI, narrative and retrospective forms retain modes. | Outside-selection classes and broader runtime continuity are not silently admitted or excluded. **OPEN**. |"
+      },
+      {
+        "frozen_line": 170,
+        "canonical_line": 180,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 171,
+        "canonical_line": 181,
+        "line_sha256": "1c7cdbb5e3f7d5b0a142b1fbf5dd7108fa165cd5796544b97b172d05200e5c21",
+        "line_text": "**F053.** Fubuki's finished literary responsibility is to hold these directions together without turning them into a diagnosis or a permission structure. She can want an easy life, impose costs in obtaining it, discover a person's need, work effectively and enjoy something small. Hidden care should be allowed its achieved ending; public praise should be allowed its mistaken grounds. A failed paradise should not condemn rest, and a successful rescue should not abolish bodily refusal. Questions about shared labor, the institution's recognition and directed peer obligations remain distinct governed duties rather than newly invented counted packages. ROOT must receive this complete candidate and its exact limits before any adoption. No new primary, model, prediction, denominator, milestone, canonical completion or merge approval follows from the draft."
+      },
+      {
+        "frozen_line": 172,
+        "canonical_line": 182,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 173,
+        "canonical_line": 183,
+        "line_sha256": "44a34e8f52f5e7b0b08e5f441dd47c070814f44f037c01e5755294e132abcee0",
+        "line_text": "[E811]: ../../02%20Sequential%20Readings/EVENTS/EVENT_811/BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+      },
+      {
+        "frozen_line": 174,
+        "canonical_line": 184,
+        "line_sha256": "4a39cd9c374638f8d3f51ad2db0c0566d3b528010ed161d72a22248f727a4575",
+        "line_text": "[E818007]: ../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 175,
+        "canonical_line": 185,
+        "line_sha256": "e9fe98c057e0092a821b677b4da43bd888c359646e3bec3611ba829cd245bd22",
+        "line_text": "[E818008]: ../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_008_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 176,
+        "canonical_line": 186,
+        "line_sha256": "25c34a5b9d39d9651aac374af37a92efad0d6edac49ed5af76fb311a5814001d",
+        "line_text": "[E837]: ../../02%20Sequential%20Readings/EVENTS/EVENT_837/BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md"
+      },
+      {
+        "frozen_line": 177,
+        "canonical_line": 187,
+        "line_sha256": "a13fde401b11be3719a53325f55b2853335b1401ab3b28a1fdcbfc7ed9164f04",
+        "line_text": "[E841]: ../../02%20Sequential%20Readings/EVENTS/EVENT_841/BLUE_ARCHIVE_EVENT_841_CONTEXTUALIZATION_CHECKPOINT.md"
+      },
+      {
+        "frozen_line": 178,
+        "canonical_line": 188,
+        "line_sha256": "bf2c9a7b5d58313334ce3955fbad14edb257bf6dce6756f829ecf6acf36525a9",
+        "line_text": "[F01]: ../../02%20Sequential%20Readings/BOND/FUBUKI/BLUE_ARCHIVE_FUBUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+      },
+      {
+        "frozen_line": 179,
+        "canonical_line": 189,
+        "line_sha256": "2615ef49443826fd2ec088c9f34221c937edaccb88e19007a36e4d758c34c390",
+        "line_text": "[M01]: ../../02%20Sequential%20Readings/MAIN/VOLUME_004_%E3%82%AB%E3%83%AB%E3%83%90%E3%83%8E%E3%81%AE%E5%85%8E%E7%B7%A8/BLUE_ARCHIVE_MAIN_V004_C001_CHECKPOINT.md"
+      },
+      {
+        "frozen_line": 180,
+        "canonical_line": 190,
+        "line_sha256": "4d0bb5cef51dfd8638f087de00419e61644ea29e97d4a268c0215ccf6a31f17b",
+        "line_text": "[M02]: ../../02%20Sequential%20Readings/MAIN/VOLUME_004_%E3%82%AB%E3%83%AB%E3%83%90%E3%83%8E%E3%81%AE%E5%85%8E%E7%B7%A8/BLUE_ARCHIVE_MAIN_V004_C001_E002_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 181,
+        "canonical_line": 191,
+        "line_sha256": "2bfb8ebd4852480a8248187019795a1649f5ce99bab178e73459ec4bbe51f4ca",
+        "line_text": "[M10]: ../../02%20Sequential%20Readings/MAIN/VOLUME_004_%E3%82%AB%E3%83%AB%E3%83%90%E3%83%8E%E3%81%AE%E5%85%8E%E7%B7%A8/BLUE_ARCHIVE_MAIN_V004_C002_CHECKPOINT.md"
+      },
+      {
+        "frozen_line": 182,
+        "canonical_line": 192,
+        "line_sha256": "3253297c0622a3fe7d03171baa5d1128f81f0679fc95533f429c41fcb9709c46",
+        "line_text": "[M12]: ../../02%20Sequential%20Readings/MAIN/VOLUME_004_%E3%82%AB%E3%83%AB%E3%83%90%E3%83%8E%E3%81%AE%E5%85%8E%E7%B7%A8/BLUE_ARCHIVE_MAIN_V004_C002_E018_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 183,
+        "canonical_line": 193,
+        "line_sha256": "5a96507875ebf9f643bb29b5dcee974c3e8dd846aedefaee8ae090fa8a1c859f",
+        "line_text": "[M15]: ../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md"
+      },
+      {
+        "frozen_line": 184,
+        "canonical_line": 194,
+        "line_sha256": "f9cae9dc60d7dccba06eeb2888954e7fce75f18ff2d9ce7a54a21c5bbb39d23d",
+        "line_text": "[M16]: ../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C001_E009_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 185,
+        "canonical_line": 195,
+        "line_sha256": "4061ff79c34e7598f838c33e836b9cf0c1fcb10e9a522b3ee7bb3f536f578a19",
+        "line_text": "[M17]: ../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C001_E010_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 186,
+        "canonical_line": 196,
+        "line_sha256": "0963e45715015672ce80aa2668f669b590e2a611d2482b0c68e3d6dfe326f3c5",
+        "line_text": "[M18]: ../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C001_E011_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 187,
+        "canonical_line": 197,
+        "line_sha256": "65a624b25c04d22fdf27157063131fc2dd5f673428dabdc7a169106eb197857e",
+        "line_text": "[M19]: ../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C001_E012_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 188,
+        "canonical_line": 198,
+        "line_sha256": "a1ae6a2871920aeb48520ab1b9673e0db4bcf74e10b87674091621dab5978e48",
+        "line_text": "[M20]: ../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C001_E013_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 189,
+        "canonical_line": 199,
+        "line_sha256": "4da50cdc5bc79e2ac27fd0b6f11168701f680e5fa5f38e49ab107fd06f168d89",
+        "line_text": "[M23]: ../../02%20Sequential%20Readings/MAIN/VOLUME_004_%E3%82%AB%E3%83%AB%E3%83%90%E3%83%8E%E3%81%AE%E5%85%8E%E7%B7%A8/BLUE_ARCHIVE_MAIN_V004_C001_E018_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 190,
+        "canonical_line": 200,
+        "line_sha256": "1630452847c6526142bd09fca81b7191b59cd873dabe018587454f6d119a3d8f",
+        "line_text": "[R08]: ../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md"
+      },
+      {
+        "frozen_line": 191,
+        "canonical_line": 201,
+        "line_sha256": "278f573335dae33c6e38404a6bbd15d7dfdea7cd37b5cb7abe29bfa748f3da83",
+        "line_text": "[R09]: ../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md"
+      },
+      {
+        "frozen_line": 192,
+        "canonical_line": 202,
+        "line_sha256": "74b8694025e3ab456f268d8831d2e80f86eb0eb49a99ab34ee9bdf8e7d99d36b",
+        "line_text": "[R11]: ../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md"
+      },
+      {
+        "frozen_line": 193,
+        "canonical_line": 203,
+        "line_sha256": "290d118531f6d917930ea670373c9357bf1378e99ff865f0383913daddee9e15",
+        "line_text": "[R12]: ../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md"
+      },
+      {
+        "frozen_line": 194,
+        "canonical_line": 204,
+        "line_sha256": "c28befabd5d3e5c7ce033113a5a6984345d90ceead18e9396150b29e705ca0d3",
+        "line_text": "[R14]: ../../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md"
+      },
+      {
+        "frozen_line": 195,
+        "canonical_line": 205,
+        "line_sha256": "d665a2181c70dbc0a60c64b911e78a18bba36d024b236e3c285843646be68ece",
+        "line_text": "[R15]: ../../02%20Sequential%20Readings/BOND/KANNA/BLUE_ARCHIVE_KANNA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+      },
+      {
+        "frozen_line": 196,
+        "canonical_line": 206,
+        "line_sha256": "af7d5240cd6faf9140ebe63e18d0a0267971a70b0fa97108cca6842cf907120f",
+        "line_text": "[R16]: ../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_2701_2702_DEEP_READING.md"
+      },
+      {
+        "frozen_line": 197,
+        "canonical_line": 207,
+        "line_sha256": "806de50b2602a852e1e22f6527a7ea8e4db086479d18d975b66a3812ec196593",
+        "line_text": "[E810C]: ../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+      },
+      {
+        "frozen_line": 198,
+        "canonical_line": 208,
+        "line_sha256": "9b665cc38d55239eeaa7437a0b399587e789ce241ded5987767652be54a24998",
+        "line_text": "[E810G]: ../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_031_80000031_DEEP_READING.md"
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          5,
+          5
+        ],
+        "canonical_lines": [
+          5,
+          5
+        ],
+        "frozen_text": [
+          "status: C_ONLY_COMPLETE_ARGUMENT_PENDING_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_status: C_ONLY_COMPLETE_ARGUMENT_PENDING_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          13,
+          15
+        ],
+        "canonical_lines": [
+          13,
+          15
+        ],
+        "frozen_text": [
+          "version: \"1.0\"",
+          "do_not_use_as_current_authority: true",
+          "ROOT_acceptance: PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_version: \"1.0\"",
+          "historical_author_do_not_use_as_current_authority: true",
+          "historical_author_ROOT_acceptance: PENDING"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          18,
+          17
+        ],
+        "canonical_lines": [
+          18,
+          25
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_FUBUKI_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_FUBUKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          21,
+          20
+        ],
+        "canonical_lines": [
+          29,
+          30
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded character responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_FUBUKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_FUBUKI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,25 distinct parent packages,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Character Monographs home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "original_transports": [
+    {
+      "path": "VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/BLUE_ARCHIVE_FUBUKI_CHARACTER_MONOGRAPH.md",
+      "bytes": 48247,
+      "sha256": "fedbd33516601d374ca6c67ad835e3cb1f3f2fab036863fba98ec4fa8c62fece",
+      "git_blob_oid_of_actual_bytes": "bcb44d28d5264a47e041e6f5ea951ea9ac226e1e",
+      "lines": 198,
+      "immutable_transport_path": "immutable_originals/VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/BLUE_ARCHIVE_FUBUKI_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/BLUE_ARCHIVE_FUBUKI_CHARACTER_MONOGRAPH.md",
+      "bytes": 48247,
+      "sha256": "fedbd33516601d374ca6c67ad835e3cb1f3f2fab036863fba98ec4fa8c62fece",
+      "git_blob_oid_of_actual_bytes": "bcb44d28d5264a47e041e6f5ea951ea9ac226e1e",
+      "lines": 198,
+      "immutable_transport_path": "immutable_originals/VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/BLUE_ARCHIVE_FUBUKI_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/FUBUKI_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V2.json",
+      "bytes": 91125,
+      "sha256": "d507f8ab4fc667c456aa2ad7920294e710938ba054cf7102678707282a6c98ad",
+      "git_blob_oid_of_actual_bytes": "ef63022f2b8332c1663551380afabf4f92a79218",
+      "lines": 2458,
+      "immutable_transport_path": "immutable_originals/VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/FUBUKI_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V2.json"
+    },
+    {
+      "path": "VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/FUBUKI_FROZEN_DELIVERY_MANIFEST_V1.json",
+      "bytes": 15976,
+      "sha256": "4eaeded3949dd7e1fcbae566e39eca11ccd3cfec5c694b5c64db9ee5c709f64e",
+      "git_blob_oid_of_actual_bytes": "41b5c34a5d2b5ae060569c4bbb550ca1289a69a0",
+      "lines": 377,
+      "immutable_transport_path": "immutable_originals/VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/FUBUKI_FROZEN_DELIVERY_MANIFEST_V1.json"
+    },
+    {
+      "path": "ROOT_FUBUKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5342,
+      "sha256": "b5c874806fde2496ab68375233c329ce931f870023099a1f987f2632319e9d87",
+      "git_blob_oid_of_actual_bytes": "9331674ee4d6ae2fcde70ea9ef768acd03637785",
+      "lines": 75,
+      "immutable_transport_path": "immutable_originals/ROOT_FUBUKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/FUBUKI_MONOGRAPH_CLAIM_EVIDENCE_REGISTER_V2.json",
+      "bytes": 94798,
+      "sha256": "d77dd4a9db8cfa464b6cb2c2306542ce8aff5753ac615ca15ad738471aea0a3c",
+      "git_blob_oid_of_actual_bytes": "00b7a459f62b38db22c15b87cb1dc17596828769",
+      "lines": 1646,
+      "immutable_transport_path": "immutable_originals/VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/FUBUKI_MONOGRAPH_CLAIM_EVIDENCE_REGISTER_V2.json"
+    },
+    {
+      "path": "VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/FUBUKI_MONOGRAPH_RECEIVING_RECEIPT_V2.md",
+      "bytes": 7138,
+      "sha256": "c5a9b5fc3bbe17de554e4113627c86fda8fa459e364eecbc142fe7b464909e5c",
+      "git_blob_oid_of_actual_bytes": "522ec04f15bca7560797894e51ab2003d0f43b37",
+      "lines": 63,
+      "immutable_transport_path": "immutable_originals/VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/FUBUKI_MONOGRAPH_RECEIVING_RECEIPT_V2.md"
+    },
+    {
+      "path": "VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/FUBUKI_SAVED_OUTPUT_COMPLETE_RECEIVING_AND_SELF_REVIEW_V1.json",
+      "bytes": 3445,
+      "sha256": "b3f91d595700efbaebe65f461fbbcfa62b6617703999a333fe7fe7ad73d13356",
+      "git_blob_oid_of_actual_bytes": "f504277e176e6370a236824861e28d8f03a3f2f5",
+      "lines": 75,
+      "immutable_transport_path": "immutable_originals/VALKYRIE_CHARACTER_MONOGRAPHS/FUBUKI/FUBUKI_SAVED_OUTPUT_COMPLETE_RECEIVING_AND_SELF_REVIEW_V1.json"
+    }
+  ],
+  "mandatory_canonical_qualifications": [],
+  "canonical_link_only_translations": [],
+  "new_primary_performance_independent_model_scope_or_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

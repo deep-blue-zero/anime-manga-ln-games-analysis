@@ -1,0 +1,95 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Aru",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ARU_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_ARU_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 3706,
+    "sha256": "8819bbbad42a35ccfd9511793a0b5a3165c21aa8bf026b0292bf88ca88237c44",
+    "git_blob_oid_of_actual_bytes": "2d174b4f14fd5fa25e6d13260d549a73c0505f89",
+    "lines": 55
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_ARU_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "3554ef6992f49274f2a61a96e20de5cf0602defc8a7ac532e74cefc3f9db56a1",
+    "frozen_outputs_verified": 4,
+    "prior_frozen_outputs_preserved": 41,
+    "exact_unique_binding_pairs_verified": 95,
+    "fresh_complete_arguments_equal_main_and_c1": 6,
+    "reused_complete_arguments_equal_main_and_c1": 10,
+    "selected_private_objects_exact_verified": 29,
+    "saved_nonempty_lines_exact_verified": 109,
+    "historical_metadata_bindings": [
+      {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "ref": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "purpose": "historical metadata only"
+      }
+    ],
+    "root_actual_receiving": {
+      "whole_saved_body": [
+        "32699a lines1–91",
+        "28c348 lines92–187EOF"
+      ],
+      "whole_readable_receipt": "bdde6c all49linesEOF",
+      "source_scope_fields": [
+        "0ac03a all receipt controls with arrays omitted",
+        "cab76a all6 fresh analytical binding/scope rows",
+        "ac32b3 all10 reused binding/scope rows",
+        "3d58c3 all3 Japanese recovery scope rows",
+        "0ada17 first3 inherited tuple fields; all29 independently exact-checked, no whole29 manual-field receiving claimed"
+      ],
+      "additional_complete_accepted_arguments": [
+        "4e914d private1–110 andc8d9ae111–221EOF complete accepted private argument",
+        "4dc9e5 wholeGROUP2201 all137linesEOF",
+        "9e1d70 whole historical giftE810037 all73linesEOF, qualified bya2fd7c current normalE810 L286 and prior ROOT complete current normal receiving"
+      ],
+      "limits": "Six fresh and ten reused fields refer to author whole-argument custody; ROOT does not earn fresh whole sixteen by exact checks. Necessary Japanese recoveries are author-attributed; ROOT receives their scopes and accepted meanings without inventing fresh whole3 primary receiving."
+    },
+    "semantic_grounds": [
+      "Leadership is wanted responsibility and fallible image performance: study, staff rewards, founding-wallet attachment, cinema, clothes, meals and chosen company have intrinsic value.",
+      "Post hoc Shiba demolition approval differs from initiating its blast; GROUP2201 secures Aru own retaliation commands after valid pitch rejection. Neither kind acts nor hostile criticism cancels actual means and recipients.",
+      "Aru can welcome help, refuse consolation and intimate touch, regulate continued carrying, and withhold the urgent explanation. Stop request does not prove setting-down; returned money does not grant disclosure access.",
+      "Actual dress repayment, meals, group participation and assistance are completed local endpoints. Failed funds recovery, wages, lawfulness, safety, fair labor, adviser appointment and institutional restitution retain their unprinted remainders.",
+      "PS68 peers choose, object and pursue their own pleasures; Serika, Saori, Ibuki and the proprietor remain ends beyond what they reveal about Aru.",
+      "Numerical variants, inward access, report layers, conditional scripts and retrospective material retain different chronology and knowledge authority.92030 stays available/unadmitted; no absent admitted-private debt or imported plot."
+    ],
+    "root_new_primary_or_performance_credit": 0,
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope_reference": "Accepted355 successor; historical353 receipt bindings remain historical and Aru home unchanged",
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "quarter_reached": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-ARU",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ARU_CHARACTER_MONOGRAPH.md",
+    "bytes": 45892,
+    "sha256": "3a934f723ebdbf372dcfcabc487d572c7b18048c9d867b996ed9462e6d815fb7",
+    "git_blob_oid_of_actual_bytes": "b95d06852bb795d0d561bf323cfc812ee476af12"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "Completion of this candidate does not complete the full Phase3 goal.",
+      "new": "Completion of this monograph does not complete the full Phase3 goal.",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Ako",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKO_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_AKO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 4429,
+    "sha256": "ab4c73fd1949e56d84f9517eb079456f71df4bad99d9ddb9f5f33c2a1eb09150",
+    "git_blob_oid_of_actual_bytes": "807e9757c2f1a9b40ddb355bb10b7b739879c8a1",
+    "lines": 67
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_AKO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "3ef27c47b5d40f0f9f1f52d06a72ed01b56e7b8d8a4d6738c63e55427c18978e",
+    "frozen_payloads_verified": 7,
+    "complete_analytical_inputs_and_copies_verified": 69,
+    "working_receipts_verified": 10,
+    "private_source_objects_binding_only_verified": 16,
+    "positive_public_source_objects_binding_only_verified": 67,
+    "positive_literal_headers_verified": 298,
+    "saved_blocks_exactly_joined": 106,
+    "all_nonempty_body_lines_covered": true,
+    "root_actual_receiving": {
+      "whole_body": [
+        "ada51e lines1–90",
+        "89566a lines91–185",
+        "abaf5a lines186–275EOF"
+      ],
+      "whole_delivery_receipts": [
+        "7108cf readable delivery",
+        "25e33a structured delivery48linesEOF",
+        "787708 complete output manifest"
+      ],
+      "complete_controls_and_scopes": [
+        "4c2ba7 complete receipt controls",
+        "50797d inputs0–23",
+        "1a1501 inputs23–46",
+        "68647c inputs46–69",
+        "6362c9 all10 working bindings"
+      ],
+      "fresh_complete_consequential_arguments": [
+        "572d6b A006 collar/wager35linesEOF",
+        "3ea1a3 effectiveA0117505bytes60linesEOF",
+        "d70618 G09/private comparison98linesEOF",
+        "5ff53c handmade rewards/espresso gift03571linesEOF"
+      ],
+      "existing_adequate_ROOT_meaning": "G20/G09/MINI32 and public-main/Hina/Fuuka consequential argument scopes previously received at their declared bounds. Other whole or partial antecedent readings remain author-attributed; exact verification adds no primary narrative receiving.",
+      "limits": "Clipped raw input rows3dc8f8 and490a82 supply no whole-row human receiving credit. Complete projected scope fields above govern. No whole185253-byte JSON narrative reading claimed."
+    },
+    "semantic_grounds": [
+      "Ako is a capable administrator whose reporting, practical support and decision making can help wanted life or substitute for the recipient choice. Hina attachment does not exhaust her agency or prove that all institutional responses are justified.",
+      "Dress autonomy, fatigue, desired company, particular coffee, handmade effort, wanted recognition, quiet seasonal plans and refused additions have independent character value. Their preservation does not require professional consequences or main chronology.",
+      "The locally accepted collar game and later keep request remain alongside privacy, venue, duration and public-walk objections. Local refreshed reports and goodwill do not certify absence of harm, standing consent or completed future meetings.",
+      "G09 report assembly, backlog and hostile audit show situated competence and fallible confidence. Valid papers do not control a hostile decision; hedged later collapse does not identify Hina as a witnessed attacker or establish institutional repair.",
+      "Positive work help, repeated handmade reward handovers, apology, chosen espresso and shared listening have actual finite endings. They prove no completed workload audit, quoted flavor verdict or fixed romantic arrangement.",
+      "Public power, kidnapping and incapacitation, copied cake, party privacy, adverse rights claims and recipient refusals remain consequential. Typed Ako/Iori actor seams, generic prose and positive headers with no personal argument are retained without invented character acts.",
+      "Local variants, equal alternatives, inward narration, locale differences and source settings remain distinct. No disease, exclusive loyalty mechanism, fixed release chronology, performed voice, final ethical cure or specialist institution completion follows."
+    ],
+    "root_new_primary_or_performance_credit": 0,
+    "all14_gaps": "OPEN_UNCHANGED",
+    "model_or_prediction_promotion": false,
+    "scope": "Accepted355packages/29namedsections unchanged; existing P3-CHAR-AKO home; allocation supplies no literary completion",
+    "progress": {
+      "previous_ROOTaccepted_packages": 38,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 39,
+      "character_packages": 38,
+      "directed_relationship_packages": 1,
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "published_packages": 36,
+      "quarter_reached": false
+    },
+    "nine_unbound_large": "UNREAD_UNHASHED",
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-AKO",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKO_CHARACTER_MONOGRAPH.md",
+    "bytes": 68473,
+    "sha256": "9b61b4a2a7b406a188141fed0ac4f9e9b7cfa11596e3b51ee625502d8ebd85d7",
+    "git_blob_oid_of_actual_bytes": "ccdea0a0680af29740fdd1959546d4615e154b01"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "this candidate neither changes that partition nor claims additional completed packages.",
+      "new": "this monograph neither changes that partition nor claims additional completed packages.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    }
+  ]
+}

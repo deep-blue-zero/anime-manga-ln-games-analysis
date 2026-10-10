@@ -1,0 +1,1980 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_INPUT_AND_AUTHOR_SCOPE_RECEIPT_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Misaki",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MISAKI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ARIUS_MONOGRAPHS/MISAKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+    "bytes": 86048,
+    "sha256": "09737f96b7c9854593f679b36df4955da55843da0e384a6e3fd82b1ee3bda248",
+    "git_blob_oid_of_actual_bytes": "0b1c7d5f5ab677530c184555486898cef8727bd5",
+    "lines": 1835
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "status": "FROZEN_LOCAL_CANDIDATE_ROOT_RECEIVING_AND_ADOPTION_PENDING",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/BLUE_ARCHIVE_MISAKI_CHARACTER_MONOGRAPH.md",
+      "bytes": 43400,
+      "lines": 208,
+      "sha256": "1b6745eab6d26b7d9c1682ec8e91c30439953b0f2c8d04d501796b5e1d11db1a",
+      "words": 5707,
+      "actual_saved_body_receiving": "25da77:1–109;functions.exec saved-body frame110–208 complete through EOF; minor opening wording line20 subsequently exact-read."
+    },
+    "analytical_base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "historical_source_witness": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+    "source_commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+    "source_generation": "BA_REFRESH_20260928T032248159554Z",
+    "fresh_complete_accepted_arguments": [
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_076_80000076_DEEP_READING.md",
+        "bytes": 7944,
+        "lines": 71,
+        "sha256": "2fab456d14c56d887a8486897ded0cb5a30035e3359114bd884ef177bfdc93bc",
+        "actual_scope": "COMPLETE_ACCEPTED_ARGUMENT_THROUGH_EOF",
+        "ranges": [
+          [
+            1,
+            71
+          ]
+        ],
+        "tool_chunks": [
+          "08edbf:whole through EOF"
+        ],
+        "source_bytes_equal_current_main2e_c1": true,
+        "new_primary_credit": false
+      }
+    ],
+    "complete_current_private_argument": {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 101663,
+      "lines": 826,
+      "sha256": "51466bd29658743cad03493a22c7ba5307b9c616d1a9fb2a22d78a56dc2d7de1",
+      "actual_receiving": "COMPLETE_ACCEPTED_ARGUMENT_THROUGH_EOF",
+      "ranges": [
+        [
+          1,
+          826
+        ]
+      ],
+      "tool_chunks": [
+        "82fb06:1–230,605–826",
+        "4dc038:231–355",
+        "243f99:356–475",
+        "b515b2:476–604"
+      ],
+      "source_bytes_equal_current_main2e_c1": true,
+      "new_primary_credit": false,
+      "current_actual_scope": "Unchanged complete826-line accepted current owner personally received in prior Subaru custody; fresh Misaki-focused215–357 receivedbe1dae. Fresh span adds no whole-file credit. Cycle008 admission supersedes retained historical producer clauses."
+    },
+    "reused_complete_main_arguments": [
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "read_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "analytical_source_owner": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "bytes": 22890,
+        "sha256": "96507ac2f5e534c43137b6212f66021bbd8c27292fca112b68aa2e6d6caf745c",
+        "lines": 258,
+        "actual_receiving": "COMPLETE_THROUGH_EOF_AFTER_REPAIRS_WHERE_NEEDED",
+        "emitted_ranges": [
+          [
+            1,
+            258
+          ]
+        ],
+        "source_byte_equality_at_292_and_2e": true,
+        "read_base_unchanged_reuse_check": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "same_bytes_sha256": true,
+        "new_personal_receiving_credit": false,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_receiving_credit": "UNCHANGED_PRIOR_COMPLETE_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md",
+        "read_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "analytical_source_owner": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "bytes": 18854,
+        "sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9",
+        "lines": 96,
+        "actual_receiving": "COMPLETE_THROUGH_EOF_AFTER_REPAIRS_WHERE_NEEDED",
+        "emitted_ranges": [
+          [
+            1,
+            96
+          ]
+        ],
+        "source_byte_equality_at_292_and_2e": true,
+        "read_base_unchanged_reuse_check": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "same_bytes_sha256": true,
+        "new_personal_receiving_credit": false,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_receiving_credit": "UNCHANGED_PRIOR_COMPLETE_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md",
+        "read_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "analytical_source_owner": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "bytes": 18759,
+        "sha256": "4a3cd456d3cd21d1b1b60efc6e33c930fd162a72eee1685a82fa89c1515ab59f",
+        "lines": 99,
+        "actual_receiving": "COMPLETE_THROUGH_EOF_AFTER_REPAIRS_WHERE_NEEDED",
+        "emitted_ranges": [
+          [
+            1,
+            99
+          ]
+        ],
+        "source_byte_equality_at_292_and_2e": true,
+        "read_base_unchanged_reuse_check": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "same_bytes_sha256": true,
+        "new_personal_receiving_credit": false,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_receiving_credit": "UNCHANGED_PRIOR_COMPLETE_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_006/BLUE_ARCHIVE_MAIN_V006_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "read_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "analytical_source_owner": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "bytes": 16659,
+        "sha256": "0240d95240b6e6bacc168e40f180bdeedc80d9e00caa2205dc03a6a0c3a4216e",
+        "lines": 172,
+        "actual_receiving": "COMPLETE_THROUGH_EOF_AFTER_REPAIRS_WHERE_NEEDED",
+        "emitted_ranges": [
+          [
+            1,
+            172
+          ]
+        ],
+        "source_byte_equality_at_292_and_2e": true,
+        "read_base_unchanged_reuse_check": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "same_bytes_sha256": true,
+        "new_personal_receiving_credit": false,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_receiving_credit": "UNCHANGED_PRIOR_COMPLETE_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_006/BLUE_ARCHIVE_MAIN_V006_C001_CHECKPOINT.md",
+        "read_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "analytical_source_owner": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "bytes": 15579,
+        "sha256": "babc8b71b1028d9ad1ad53084d083f739244322762cd907a26ffe49bf13c3997",
+        "lines": 76,
+        "actual_receiving": "COMPLETE_THROUGH_EOF_AFTER_REPAIRS_WHERE_NEEDED",
+        "emitted_ranges": [
+          [
+            1,
+            76
+          ]
+        ],
+        "source_byte_equality_at_292_and_2e": true,
+        "read_base_unchanged_reuse_check": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "same_bytes_sha256": true,
+        "new_personal_receiving_credit": false,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_receiving_credit": "UNCHANGED_PRIOR_COMPLETE_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_006/BLUE_ARCHIVE_MAIN_V006_C002_CHECKPOINT.md",
+        "read_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "analytical_source_owner": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "bytes": 17020,
+        "sha256": "5fbdce0b0891ec2fa324c95c23271fe9be56d4429408a400634746c15db3e111",
+        "lines": 84,
+        "actual_receiving": "COMPLETE_THROUGH_EOF_AFTER_REPAIRS_WHERE_NEEDED",
+        "emitted_ranges": [
+          [
+            1,
+            84
+          ]
+        ],
+        "source_byte_equality_at_292_and_2e": true,
+        "read_base_unchanged_reuse_check": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "same_bytes_sha256": true,
+        "new_personal_receiving_credit": false,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_receiving_credit": "UNCHANGED_PRIOR_COMPLETE_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_006/BLUE_ARCHIVE_MAIN_V006_C003_CHECKPOINT.md",
+        "read_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "analytical_source_owner": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "bytes": 17067,
+        "sha256": "81e43fb20fbb76ccb3243e562d0216839f573c08fe6e720c078614550beadb88",
+        "lines": 82,
+        "actual_receiving": "COMPLETE_THROUGH_EOF_AFTER_REPAIRS_WHERE_NEEDED",
+        "emitted_ranges": [
+          [
+            1,
+            82
+          ]
+        ],
+        "source_byte_equality_at_292_and_2e": true,
+        "read_base_unchanged_reuse_check": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "same_bytes_sha256": true,
+        "new_personal_receiving_credit": false,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_receiving_credit": "UNCHANGED_PRIOR_COMPLETE_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+        "read_base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "current_control_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "bytes": 18013,
+        "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+        "lines": 83,
+        "actual_receiving": "REUSED_PERSONALLY_COMPLETE_ARGUMENT_FROM_FROZEN_TOKI_RECEIPT",
+        "source_byte_equality_at_292_and_2e": true,
+        "read_base_unchanged_reuse_check": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "same_bytes_sha256": true,
+        "new_personal_receiving_credit": false,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_receiving_credit": "UNCHANGED_PRIOR_COMPLETE_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_CHECKPOINT.md",
+        "read_base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "current_control_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "bytes": 13519,
+        "sha256": "30ac3ba693ff56140fb8d57b5caf73352206692a17ac9628b347eb19a7bd1408",
+        "lines": 77,
+        "actual_receiving": "REUSED_PERSONALLY_COMPLETE_ARGUMENT_FROM_FROZEN_TOKI_RECEIPT",
+        "source_byte_equality_at_292_and_2e": true,
+        "read_base_unchanged_reuse_check": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "same_bytes_sha256": true,
+        "new_personal_receiving_credit": false,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_receiving_credit": "UNCHANGED_PRIOR_COMPLETE_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+        "read_base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "current_control_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "bytes": 14443,
+        "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+        "lines": 76,
+        "actual_receiving": "REUSED_PERSONALLY_COMPLETE_ARGUMENT_FROM_FROZEN_TOKI_RECEIPT",
+        "source_byte_equality_at_292_and_2e": true,
+        "read_base_unchanged_reuse_check": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "same_bytes_sha256": true,
+        "new_personal_receiving_credit": false,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_receiving_credit": "UNCHANGED_PRIOR_COMPLETE_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+        "read_base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "current_control_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "bytes": 12691,
+        "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+        "lines": 60,
+        "actual_receiving": "REUSED_PERSONALLY_COMPLETE_ARGUMENT_FROM_FROZEN_TOKI_RECEIPT",
+        "source_byte_equality_at_292_and_2e": true,
+        "read_base_unchanged_reuse_check": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "same_bytes_sha256": true,
+        "new_personal_receiving_credit": false,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_receiving_credit": "UNCHANGED_PRIOR_COMPLETE_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "read_base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "current_control_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+        "bytes": 49292,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "lines": 452,
+        "actual_receiving": "REUSED_PERSONALLY_COMPLETE_ARGUMENT_FROM_FROZEN_TOKI_RECEIPT",
+        "source_byte_equality_at_292_and_2e": true,
+        "read_base_unchanged_reuse_check": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "same_bytes_sha256": true,
+        "new_personal_receiving_credit": false,
+        "source_bytes_equal_current_main2e_c1": true,
+        "current_receiving_credit": "UNCHANGED_PRIOR_COMPLETE_ARGUMENT_REUSE",
+        "new_primary_credit": false
+      }
+    ],
+    "fresh_reused_main_span": {
+      "owner": "V003C004",
+      "range": [
+        24,
+        79
+      ],
+      "tool_chunk": "71b20b",
+      "new_whole_credit": false
+    },
+    "reused_complete_event_arguments": [
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "bytes": 46462,
+        "lines": 316,
+        "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+        "prior_actual_custody": {
+          "base": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+          "bytes": 46462,
+          "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+          "total_lines": 316,
+          "emitted_ranges": [
+            [
+              1,
+              155
+            ],
+            [
+              156,
+              316
+            ]
+          ],
+          "emitted_not_automatic_receiving": true,
+          "actual_personal_receiving": {
+            "scope": "COMPLETE_FILE_THROUGH_EOF",
+            "ranges": [
+              [
+                1,
+                155
+              ],
+              [
+                156,
+                316
+              ]
+            ]
+          }
+        },
+        "scope": "Unchanged personally complete accepted whole argument reused; fresh span is not fresh whole-owner credit.",
+        "fresh_span_ranges": [],
+        "fresh_span_tool_chunk": null,
+        "source_bytes_equal_current_main2e_c1": true,
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_838/BLUE_ARCHIVE_EVENT_838_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 33697,
+        "lines": 214,
+        "sha256": "71f39a5f1f6cc233bae8102a209b9894c5ad7bf25e6863cd3db5c995bcc6c84c",
+        "prior_actual_custody": {
+          "base": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+          "bytes": 33697,
+          "sha256": "71f39a5f1f6cc233bae8102a209b9894c5ad7bf25e6863cd3db5c995bcc6c84c",
+          "total_lines": 214,
+          "emitted_ranges": [
+            [
+              1,
+              130
+            ],
+            [
+              131,
+              214
+            ]
+          ],
+          "emitted_not_automatic_receiving": true,
+          "actual_personal_receiving": {
+            "scope": "COMPLETE_FILE_THROUGH_EOF",
+            "ranges": [
+              [
+                1,
+                130
+              ],
+              [
+                131,
+                214
+              ]
+            ]
+          }
+        },
+        "scope": "Unchanged personally complete accepted whole argument reused; fresh span is not fresh whole-owner credit.",
+        "fresh_span_ranges": [
+          [
+            79,
+            163
+          ]
+        ],
+        "fresh_span_tool_chunk": "2a696d",
+        "source_bytes_equal_current_main2e_c1": true,
+        "new_primary_credit": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_853/BLUE_ARCHIVE_EVENT_853_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 37968,
+        "lines": 181,
+        "sha256": "c3d12e358ff22edba45f5fd3e13b52d9c4422e1ce02872534f71c929163ef54c",
+        "prior_actual_custody": {
+          "base": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+          "bytes": 37968,
+          "sha256": "c3d12e358ff22edba45f5fd3e13b52d9c4422e1ce02872534f71c929163ef54c",
+          "total_lines": 181,
+          "emitted_ranges": [
+            [
+              1,
+              181
+            ]
+          ],
+          "emitted_not_automatic_receiving": true,
+          "actual_personal_receiving": {
+            "scope": "COMPLETE_FILE_THROUGH_EOF",
+            "ranges": [
+              [
+                1,
+                181
+              ]
+            ]
+          }
+        },
+        "scope": "Unchanged personally complete accepted whole argument reused; fresh span is not fresh whole-owner credit.",
+        "fresh_span_ranges": [
+          [
+            107,
+            122
+          ],
+          [
+            143,
+            152
+          ]
+        ],
+        "fresh_span_tool_chunk": "f29e4e",
+        "source_bytes_equal_current_main2e_c1": true,
+        "new_primary_credit": false
+      }
+    ],
+    "qualified_group_relevance_argument": {
+      "path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE2_GROUP_ARC_RELEVANCE_AUDIT.md",
+      "bytes": 85113,
+      "lines": 405,
+      "sha256": "9d117a7e3f63c723a6e71aadfa66cec11cadf70369f321840a49b6f12ab1c067",
+      "scope": "Prior selected accepted relevance argument V003/V00682–90 and114–122 as reused through current private owner; no new whole-file or group-primary credit.",
+      "new_primary_credit": false
+    },
+    "prior_frozen_census_receipt": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/CENSUS_ABYDOS_ARIUS/ABYDOS_ARIUS_INPUT_AND_LITERAL_ROSTER_RECEIPT.json",
+      "bytes": 997905,
+      "lines": 23516,
+      "sha256": "63feb68bddb1f4166009d8096fb0e52b8a43ee140cbf2fe8c937ce056f0a7027"
+    },
+    "prior_frozen_subaru_receipt": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SUBARU_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 47359,
+      "lines": 968,
+      "sha256": "b07db236e7932073836935763e6ccd94fbc2da4ab27b64ac4c96de09f861c8de"
+    },
+    "selected17_inherited_exact_bindings": [
+      {
+        "story_id": "BA:bond:10041:002",
+        "source_type": "bond",
+        "canonical_path": "02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_10041_EPISODE_002.md",
+        "canonical_sha256": "56fda5f890e292a131292addfc6a2716931dd07bc4f6d3dd198eaa45a500340d",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_10041_EPISODE_002.md",
+        "bytes": 12660,
+        "lines": 440,
+        "sha256": "56fda5f890e292a131292addfc6a2716931dd07bc4f6d3dd198eaa45a500340d",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      },
+      {
+        "story_id": "BA:bond:10041:003",
+        "source_type": "bond",
+        "canonical_path": "02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_10041_EPISODE_003.md",
+        "canonical_sha256": "10cd93ac8eae8374d49492559129148943780d3f0c0898b924909b7ffd5b0fb5",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_10041_EPISODE_003.md",
+        "bytes": 8532,
+        "lines": 327,
+        "sha256": "10cd93ac8eae8374d49492559129148943780d3f0c0898b924909b7ffd5b0fb5",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      },
+      {
+        "story_id": "BA:bond:10041:005",
+        "source_type": "bond",
+        "canonical_path": "02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_10041_EPISODE_005.md",
+        "canonical_sha256": "3b05d2819b1c5822b97b82da03d5004dfa8d187b07a3553c50f25218cf4e4f96",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_10041_EPISODE_005.md",
+        "bytes": 8097,
+        "lines": 291,
+        "sha256": "3b05d2819b1c5822b97b82da03d5004dfa8d187b07a3553c50f25218cf4e4f96",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      },
+      {
+        "story_id": "BA:bond:10041:015",
+        "source_type": "bond",
+        "canonical_path": "02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_10041_EPISODE_015.md",
+        "canonical_sha256": "3403d73498449deac1fbefcf8e5bc4b4cae0b0d33f442ff9c791f61e3c883a0b",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_10041_EPISODE_015.md",
+        "bytes": 6962,
+        "lines": 238,
+        "sha256": "3403d73498449deac1fbefcf8e5bc4b4cae0b0d33f442ff9c791f61e3c883a0b",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      },
+      {
+        "story_id": "BA:bond:20049:002",
+        "source_type": "bond",
+        "canonical_path": "02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_20049_EPISODE_002.md",
+        "canonical_sha256": "e814de0a8cf4d1ffb9bed2d9651042fdee8bbba7870373275722200004663311",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_20049_EPISODE_002.md",
+        "bytes": 4702,
+        "lines": 167,
+        "sha256": "e814de0a8cf4d1ffb9bed2d9651042fdee8bbba7870373275722200004663311",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      },
+      {
+        "story_id": "BA:bond:20049:003",
+        "source_type": "bond",
+        "canonical_path": "02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_20049_EPISODE_003.md",
+        "canonical_sha256": "d4aaa916196b78b5808b28fb97f8e1c32720b7494dbd5d0137840fe9764873d9",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_20049_EPISODE_003.md",
+        "bytes": 6487,
+        "lines": 220,
+        "sha256": "d4aaa916196b78b5808b28fb97f8e1c32720b7494dbd5d0137840fe9764873d9",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      },
+      {
+        "story_id": "BA:bond:20049:005",
+        "source_type": "bond",
+        "canonical_path": "02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_20049_EPISODE_005.md",
+        "canonical_sha256": "b935526b67577675d8b4ee7797f5d8102b1dfc425d47fc90de2c5d11d14a66a0",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_20049_EPISODE_005.md",
+        "bytes": 5847,
+        "lines": 219,
+        "sha256": "b935526b67577675d8b4ee7797f5d8102b1dfc425d47fc90de2c5d11d14a66a0",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      },
+      {
+        "story_id": "BA:momotalk:10041:thread:100410010",
+        "source_type": "momotalk",
+        "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/MISAKI/THREAD_100410010.md",
+        "canonical_sha256": "6a679a074c75f14fa9f1574fb16ad54267e0fe88f4f19a2aec38a90fa8de1c5d",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/MISAKI/THREAD_100410010.md",
+        "bytes": 1099,
+        "lines": 46,
+        "sha256": "6a679a074c75f14fa9f1574fb16ad54267e0fe88f4f19a2aec38a90fa8de1c5d",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      },
+      {
+        "story_id": "BA:momotalk:10041:thread:100410070",
+        "source_type": "momotalk",
+        "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/MISAKI/THREAD_100410070.md",
+        "canonical_sha256": "e3fc9a8151529558511bdbd08c3d1fa041ae3c549d23f3298a9d005f5d7555ff",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/MISAKI/THREAD_100410070.md",
+        "bytes": 977,
+        "lines": 36,
+        "sha256": "e3fc9a8151529558511bdbd08c3d1fa041ae3c549d23f3298a9d005f5d7555ff",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      },
+      {
+        "story_id": "BA:momotalk:10041:thread:100410110",
+        "source_type": "momotalk",
+        "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/MISAKI/THREAD_100410110.md",
+        "canonical_sha256": "990b4791575e22ccd98c251cd9a1620de9bd14157647ed2f3d323c7eb3d78273",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/MISAKI/THREAD_100410110.md",
+        "bytes": 1744,
+        "lines": 76,
+        "sha256": "990b4791575e22ccd98c251cd9a1620de9bd14157647ed2f3d323c7eb3d78273",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      },
+      {
+        "story_id": "BA:momotalk:10041:thread:100410230",
+        "source_type": "momotalk",
+        "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/MISAKI/THREAD_100410230.md",
+        "canonical_sha256": "1e8be2ec5e4a2194b27d7a2000544666e6795f0d6f119a13562303d07df8efbb",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/MISAKI/THREAD_100410230.md",
+        "bytes": 890,
+        "lines": 38,
+        "sha256": "1e8be2ec5e4a2194b27d7a2000544666e6795f0d6f119a13562303d07df8efbb",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      },
+      {
+        "story_id": "BA:momotalk:20049:thread:200490010",
+        "source_type": "momotalk",
+        "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/MISAKI/THREAD_200490010.md",
+        "canonical_sha256": "0b6043b35a6776a8f1e76d1345bd1e54fd9fdc46e6aeedf49227e9b43ba9a6a0",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/MISAKI/THREAD_200490010.md",
+        "bytes": 2089,
+        "lines": 89,
+        "sha256": "0b6043b35a6776a8f1e76d1345bd1e54fd9fdc46e6aeedf49227e9b43ba9a6a0",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      },
+      {
+        "story_id": "BA:momotalk:20049:thread:200490150",
+        "source_type": "momotalk",
+        "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/MISAKI/THREAD_200490150.md",
+        "canonical_sha256": "3fb6122182a361e66c9953890664b4c0c8ef7a8c69de2b5b89b1977dd9f8501c",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/MISAKI/THREAD_200490150.md",
+        "bytes": 1138,
+        "lines": 46,
+        "sha256": "3fb6122182a361e66c9953890664b4c0c8ef7a8c69de2b5b89b1977dd9f8501c",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      },
+      {
+        "story_id": "BA:momotalk:20049:thread:200490210",
+        "source_type": "momotalk",
+        "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/MISAKI/THREAD_200490210.md",
+        "canonical_sha256": "998c93a28f36cf013b30e68d93a6a927d7f3aeb5da0e1da1a6d8e61f8d27fcd5",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/MISAKI/THREAD_200490210.md",
+        "bytes": 2136,
+        "lines": 86,
+        "sha256": "998c93a28f36cf013b30e68d93a6a927d7f3aeb5da0e1da1a6d8e61f8d27fcd5",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      },
+      {
+        "story_id": "BA:character_data:10041:profile_and_dialog",
+        "source_type": "character_data",
+        "canonical_path": "02_CANONICAL_STORIES/CHARACTER_DATA/MISAKI/VARIANT_10041.md",
+        "canonical_sha256": "364bd9a00e6deccc88c2c71901fa61725d4292721bb0de7635fbfdac4949cc12",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/CHARACTER_DATA/MISAKI/VARIANT_10041.md",
+        "bytes": 9251,
+        "lines": 154,
+        "sha256": "364bd9a00e6deccc88c2c71901fa61725d4292721bb0de7635fbfdac4949cc12",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      },
+      {
+        "story_id": "BA:character_data:20049:profile_and_dialog",
+        "source_type": "character_data",
+        "canonical_path": "02_CANONICAL_STORIES/CHARACTER_DATA/MISAKI/VARIANT_20049.md",
+        "canonical_sha256": "1c1ddf5efe19ad682607d94cc5fddba263b20b0ee098f9efa0672cbd6c655652",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/CHARACTER_DATA/MISAKI/VARIANT_20049.md",
+        "bytes": 6954,
+        "lines": 122,
+        "sha256": "1c1ddf5efe19ad682607d94cc5fddba263b20b0ee098f9efa0672cbd6c655652",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      },
+      {
+        "story_id": "BA:character_data:event_costume:1900942201:character:20049",
+        "source_type": "character_data",
+        "canonical_path": "02_CANONICAL_STORIES/CHARACTER_DATA/CONTEXTUAL/BA_character_data_event_costume_1900942201_character_20049.md",
+        "canonical_sha256": "d834256c6b3b5172229461a2f09cdb0d97260a28da079862a6eb6a9dd99bbf41",
+        "analysis_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "review_state": "ADMITTED",
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/CHARACTER_DATA/CONTEXTUAL/BA_character_data_event_costume_1900942201_character_20049.md",
+        "bytes": 5984,
+        "lines": 86,
+        "sha256": "d834256c6b3b5172229461a2f09cdb0d97260a28da079862a6eb6a9dd99bbf41",
+        "actual_primary_credit": "Inherited producer selected-source custody; exact binding only, no narrative credit from hash."
+      }
+    ],
+    "necessary_primary_recovery": [
+      {
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_10041_EPISODE_005.md",
+        "bytes": 8097,
+        "lines": 291,
+        "sha256": "3b05d2819b1c5822b97b82da03d5004dfa8d187b07a3553c50f25218cf4e4f96",
+        "story_id": "BA:bond:10041:005",
+        "actual_scope": "COMPLETE_CANONICAL_JAPANESE_OBJECT_THROUGH_EOF",
+        "ranges": [
+          [
+            1,
+            291
+          ]
+        ],
+        "tool_chunk": "a2ba62",
+        "raw_native_av_replay": false
+      },
+      {
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_20049_EPISODE_003.md",
+        "bytes": 6487,
+        "lines": 220,
+        "sha256": "d4aaa916196b78b5808b28fb97f8e1c32720b7494dbd5d0137840fe9764873d9",
+        "story_id": "BA:bond:20049:003",
+        "actual_scope": "COMPLETE_CANONICAL_JAPANESE_OBJECT_THROUGH_EOF",
+        "ranges": [
+          [
+            1,
+            220
+          ]
+        ],
+        "tool_chunk": "089ba7",
+        "raw_native_av_replay": false
+      },
+      {
+        "path": "external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/MISAKI/THREAD_200490210.md",
+        "bytes": 2136,
+        "lines": 86,
+        "sha256": "998c93a28f36cf013b30e68d93a6a927d7f3aeb5da0e1da1a6d8e61f8d27fcd5",
+        "story_id": "BA:momotalk:20049:thread:200490210",
+        "actual_scope": "COMPLETE_CANONICAL_JAPANESE_OBJECT_THROUGH_EOF",
+        "ranges": [
+          [
+            1,
+            86
+          ]
+        ],
+        "tool_chunk": "08edbf",
+        "raw_native_av_replay": false
+      }
+    ],
+    "actual_new_primary_extents": {
+      "whole_bond_objects": 2,
+      "bond_utterances": 100,
+      "formal_choice_groups": 17,
+      "printed_choice_options": 20,
+      "whole_momotalk_objects": 1,
+      "message_records": 16,
+      "fresh_written_objects": 0
+    },
+    "architecture": {
+      "path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "bytes": 52261,
+      "lines": 851,
+      "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+      "actual_current_ranges": [
+        [
+          1,
+          40
+        ],
+        [
+          313,
+          390
+        ]
+      ],
+      "tool_chunks": [
+        "a3ec07",
+        "77e1e1"
+      ],
+      "whole_file_receiving": false,
+      "initial_selector_failure": "StopIteration before requested7.1 extraction; fixed bounds subsequently received"
+    },
+    "historical_metadata_boundary": {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+      "base": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+      "bytes": 443241,
+      "sha256": "e9de04192b2add837ae0130aa6e0d33b8e94843d4baca5580ff0612eb203ecf4",
+      "lines": 772
+    },
+    "present_root_worktree_metadata_probe": {
+      "head": "1dc2092095ed74ee743971f1f274b30cb291d939",
+      "scope": "Actual current ROOT worktree controls, separate from main2e analytical owners, historicalc1/346 witnesses and frozen prior staged-dc5 metadata.",
+      "controls": [
+        {
+          "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+          "bytes": 466542,
+          "lines": 789,
+          "sha256": "ec11af62bb97407a8b7eba7cf3c74bf987d156d463f94c44668625f87d853a73",
+          "rows": 788,
+          "matching_misaki_metadata_only": [
+            {
+              "candidate_unit_id": "P3-F073",
+              "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+              "subject_or_responsibility": "Subaru",
+              "raw_identity_or_source_ids": "BA_PERSON_CH0309",
+              "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+              "source_boundary": "B5/MM5/W1; variants 10130",
+              "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+              "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+              "package_target": "",
+              "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+            },
+            {
+              "candidate_unit_id": "P3-F078",
+              "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+              "subject_or_responsibility": "Misaki (collaboration)",
+              "raw_identity_or_source_ids": "BA_PERSON_CH9997",
+              "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_COLLABORATION4_PHASE2_PRIVATE_AND_MODE_CONTEXTUAL_ACCOUNT_20261009.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+              "source_boundary": "B4/MM4/W2; variants 10080",
+              "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+              "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+              "package_target": "",
+              "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+            },
+            {
+              "candidate_unit_id": "P3-F096",
+              "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+              "subject_or_responsibility": "Hiyori",
+              "raw_identity_or_source_ids": "BA_PERSON_HIYORI",
+              "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+              "source_boundary": "B6/MM6/W3; variants 10102|20017",
+              "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+              "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+              "package_target": "",
+              "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+            },
+            {
+              "candidate_unit_id": "P3-F118",
+              "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+              "subject_or_responsibility": "Misaki",
+              "raw_identity_or_source_ids": "BA_PERSON_MISAKI",
+              "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+              "source_boundary": "B7/MM7/W3; variants 10041|20049",
+              "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+              "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+              "package_target": "",
+              "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+            },
+            {
+              "candidate_unit_id": "P3-A027",
+              "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+              "subject_or_responsibility": "Misaki",
+              "raw_identity_or_source_ids": "",
+              "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md",
+              "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+              "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+              "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+              "package_target": "",
+              "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+            }
+          ]
+        },
+        {
+          "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv",
+          "bytes": 45708,
+          "lines": 106,
+          "sha256": "2d4ac2798f8d84e3dcf0c99c8101e31ee8ad5e47f823d89371b4dc48835823de",
+          "rows": 105,
+          "matching_misaki_metadata_only": []
+        }
+      ]
+    },
+    "execution": {
+      "recommendation": "DEEP_SYNTHESIS",
+      "actual_model_label": null,
+      "actual_reasoning_setting": null,
+      "setting_changes": false,
+      "local_only_exception": "Required exact local pinned corpus access and explicit separate assignment; user cancelled integration artifact handoffs",
+      "repository_provider_global_control_writes": false,
+      "external_handoff": false,
+      "paid_api_cloud_task": false,
+      "merge": "RESERVED",
+      "N_quarter": "UNFROZEN_NO_CREDIT"
+    },
+    "authority_quartet": "Current Cycle008 source admission / ROOT qualified complete with limits / historical reading order and independence UNKNOWN / performed voice unreceived",
+    "identity_scope": "戒野ミサキ/BA_PERSON_MISAKI/10041/20049;costume1900942201→20049. Comparative bounded family, not authenticated synchronized body/calendar or extra person/event.",
+    "all14_gaps": "OPEN with claim-specific table",
+    "mandatory_recovery_for_asserted_bounded_claims": [],
+    "excluded_stronger_claims": [
+      "Hotel explicit method/completed attempt, inspected wounds, diagnosis or enduring recovery",
+      "Completed photo deletion, handkerchief/doll return, rebuild or promised next meeting",
+      "Universal secretly desired interventions or retrospective unlimited permission",
+      "Stable shelter, legal settlement, utility certification or full institution repair",
+      "Every collective/ambiguous public phrase assigned to Misaki",
+      "Unified private/Main/event chronology or post-parole visit",
+      "Performed voice/image/gesture or inspected image subject"
+    ],
+    "limited_and_repaired_probes": [
+      "Shared826 owner wholly received in Subaru after truncated8022f5 repair; reused exact whole, fresh215–357 be1dae accurately bounded.",
+      "Public C004 refreshed24–79 in71b20b; prior complete99 reused, no new whole-owner credit.",
+      "Two complete BOND and one whole MomoTalk recovered for consequential ambiguity; no all17-primary/native/raw/AV replay.",
+      "Hashes and metadata selectors are binding/navigation, not narrative receiving. All nine unbound large files unopened.",
+      "Current Cycle008 supersedes retained historical UNADMITTED/UNAPPLIED/unfinishedPhase2 producer clauses."
+    ],
+    "saved_paragraph_projection": [
+      {
+        "line": 1,
+        "sha256_utf8_line_no_terminator": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 2,
+        "sha256_utf8_line_no_terminator": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 3,
+        "sha256_utf8_line_no_terminator": "d1a9abf7862eaca90931468acd65e26dff6ec306eb6d344e22bea5cd42268bad",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 4,
+        "sha256_utf8_line_no_terminator": "032ead6743fecce5b52fa7fa239a8d8b45b4cc17743bd0aff7988d51f670b629",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 5,
+        "sha256_utf8_line_no_terminator": "f212a35eee27aff4b667088d05ac7cf18160a2dc5eeb485901e28ea65ecd2f3d",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 6,
+        "sha256_utf8_line_no_terminator": "1658226d82991e821acc7363ec1375c03a4c3037e48a2a07ed6d5d89a5430ec5",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 7,
+        "sha256_utf8_line_no_terminator": "2084413932021b66232c019d7d67e81ba2cf005acb31f12c32acb13608a5283c",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 8,
+        "sha256_utf8_line_no_terminator": "2b4c71a3936349b6920c14d8d0327b826ca56d5e7944bc878548abba1650fe54",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 9,
+        "sha256_utf8_line_no_terminator": "c8ef145b6da8758b2dd4f184f0c6454d958b15d80fcfd350803c0682bf3d65dd",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 10,
+        "sha256_utf8_line_no_terminator": "a7128a3b6afa054c49654fbcb14fcbdd61123b6ed5e0cac56e74d54399bb96b6",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 11,
+        "sha256_utf8_line_no_terminator": "8f9181e3f96334279890be3035ccb3fe9e95a901e37ec06776cfd3b04ce9fd37",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 12,
+        "sha256_utf8_line_no_terminator": "14e0401cbb122674957ed72090cd06063f320f5d1d77a57ec343b3b2cbe52b04",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 13,
+        "sha256_utf8_line_no_terminator": "91d5d4df8edb864ad8db9cf1d2806fc936391907adeba2bb1ff5a2b6ec7da1c1",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 14,
+        "sha256_utf8_line_no_terminator": "ecd7362898d29a29893f280a0a16561368ca6915faaadffe5bbb792584d518ee",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 15,
+        "sha256_utf8_line_no_terminator": "8fecbb6a3875013f0e9b08c2e80984516ba9166974308b35a91a124bb697c029",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 16,
+        "sha256_utf8_line_no_terminator": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "kind": "frontmatter",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 18,
+        "sha256_utf8_line_no_terminator": "65f446d90ef1676eaf54f3ff647b3433a211baa38d09ff397af7021ab8cc9d0f",
+        "kind": "heading",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 20,
+        "sha256_utf8_line_no_terminator": "61e850b6de441450c86e47ef2b7aab46abe4aa9f7b53c16345ba3005b5df93d5",
+        "kind": "prose",
+        "actual_manual_receiving": "Exact repaired opening line20 readback"
+      },
+      {
+        "line": 22,
+        "sha256_utf8_line_no_terminator": "d98d9a2bfe8eef0335fdd96c939f21edcdf9430544ec73ec7d101a9ff13eb326",
+        "kind": "heading",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 24,
+        "sha256_utf8_line_no_terminator": "73d5a30550b96fa0521cfaf63ec7b16d0f2c1fd3d5751e58f4369852896b80a3",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 26,
+        "sha256_utf8_line_no_terminator": "b6eaf1b6f94f83c1f4085e11eaebaba498c926711cb963433bce71c3a3ede17d",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 28,
+        "sha256_utf8_line_no_terminator": "6dce6a0614a23d57186a730dd68daabf056884110f49fa87553b529f607745eb",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 30,
+        "sha256_utf8_line_no_terminator": "76c5c36149ed487bfe43f9ffb05d8eabf0027c6b76a5be3d51dc181b76742e62",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 32,
+        "sha256_utf8_line_no_terminator": "558d88842eb63c0acb860fe59fc96075f03d347abeabf2681eaefe0011918789",
+        "kind": "heading",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 34,
+        "sha256_utf8_line_no_terminator": "9156c58062e40ab5b8061fb2d11fd47c95ca06aff3f22255aab9aa9cc5920bb6",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 36,
+        "sha256_utf8_line_no_terminator": "435191829a2e58ec8b07704e2bfb5609acc1317023bfb0a4bf220e592f0bbf86",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 38,
+        "sha256_utf8_line_no_terminator": "c4ebf5c4b723c3fa42a697b210dfcd492f968a1c8d19cfdfc0ab53c52f90cee7",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 40,
+        "sha256_utf8_line_no_terminator": "989c1c7e1b153cfa0ab400f4fac47167b91faa70f140442a95c103926578f47c",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 42,
+        "sha256_utf8_line_no_terminator": "f42a9eaa3942ac085b74859136eec2f7b8da08517c61fc1f92d7d5f2dd533b2f",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 44,
+        "sha256_utf8_line_no_terminator": "a5940d8d18e707c4e21a854fc2eae3fb99c64b8632e2e090329859f8058342bf",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 46,
+        "sha256_utf8_line_no_terminator": "fa9d501f0cc95eb17f26c6608859e62520a125a2c71c8f6b01ab7e8be99e4e43",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 48,
+        "sha256_utf8_line_no_terminator": "53d3e081a74e4e82b21bccb493d0df0e84870865a8b96f04e64b1b66eae30545",
+        "kind": "heading",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 50,
+        "sha256_utf8_line_no_terminator": "dabbc82570a324e353b66beff3c7cfc36c8d2fa22d0aaa9bcb2386292d9aadae",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 52,
+        "sha256_utf8_line_no_terminator": "d5dabe11390a59cf46f39ac05ff5366f302df9a5ff607be47d1c75d83a72832b",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 54,
+        "sha256_utf8_line_no_terminator": "15c4e223bbdae5d168592abee527e988f67ce62a6c806ff9784d7d2391401b05",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 56,
+        "sha256_utf8_line_no_terminator": "97ddb6b8dab4f3bf44d99e1e156b9ba73f07f710ac06adcbabea0f2c1708ef20",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 58,
+        "sha256_utf8_line_no_terminator": "c1679b901dca9aa4fd709f2142544885a6213b13d30f988528d7667fed748b2c",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 60,
+        "sha256_utf8_line_no_terminator": "423a57771d1f7c88bce6f349a15331791061caab6d8f044517d507cfa35b3c42",
+        "kind": "heading",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 62,
+        "sha256_utf8_line_no_terminator": "cd4bd297911b481bfad90a23fd871efbf91f892fb8b3cd71e199813e13e0d05d",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 64,
+        "sha256_utf8_line_no_terminator": "d4ec936e0e7bbdfb784fef9b3f70f25f607455021ad36ec8424b58e9b56d773b",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 66,
+        "sha256_utf8_line_no_terminator": "697d4244b3f3d55e82575ebc07578c546616ff029f3712b6cd5e79e23991752b",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 68,
+        "sha256_utf8_line_no_terminator": "80a17fb7a7517d7ec1d56fb14d3907f4e939f2616f0233ac2a6629b6345f5377",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 70,
+        "sha256_utf8_line_no_terminator": "32d1de009586e4e41e6af0413fe4c4701600f66fe0ab3f755b7bf0358c0050ef",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 72,
+        "sha256_utf8_line_no_terminator": "fb77ab9301fbcc991c0f09fd848058fdeab81eba3f94f2d11473bf5a128fceb0",
+        "kind": "heading",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 74,
+        "sha256_utf8_line_no_terminator": "08011a2faf3e59e5993c99f13be5df9c688aa8ed9febc42d5625a62c73388152",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 76,
+        "sha256_utf8_line_no_terminator": "f1e6f09b70023b867336672b24d8da4cce52e739cd5184bbcfb634cc0f74af57",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 78,
+        "sha256_utf8_line_no_terminator": "81896530a5cb0255359bbaf4533c15a75accbbc14419d1cd233417e2c91dde8c",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 80,
+        "sha256_utf8_line_no_terminator": "a7e9cc70bb1a8bd4f867f36e2b4d0343246235219f6852250bb3c5b7a6c46284",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 82,
+        "sha256_utf8_line_no_terminator": "3b39140d61e2410e5e2d881a4d13170ca925ebed0646dfa0f1e1200b2d71f3d3",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 84,
+        "sha256_utf8_line_no_terminator": "5f78bedb6266fb713e12953197a60e9b8e5fa523620388bb3a9f7a811c6633da",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 86,
+        "sha256_utf8_line_no_terminator": "a677946c0860ea0accae4d33a5a32f74946063a325febda6991592855f6d1678",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 88,
+        "sha256_utf8_line_no_terminator": "7ebebdccb7549dae7d13a99ec24f1316207f5a8726e55845ea5a9ca9c851a043",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 90,
+        "sha256_utf8_line_no_terminator": "b59706a610abf3efab33e5b5bd8f36eebf5895d226f15a9af0869a4b28aea1ac",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 92,
+        "sha256_utf8_line_no_terminator": "f69487b4105c5b93d1383726fba9621fc9bc69b871f61ef52868db627c3914da",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 94,
+        "sha256_utf8_line_no_terminator": "9238878e81323563facfcc6fb75a0241aadfcfc2607af87087927bf01ef4d245",
+        "kind": "heading",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 96,
+        "sha256_utf8_line_no_terminator": "8acd63f76278fb0d8dea1902d5828c13fbbb1a4fff04f737402eed6b3aeac7a3",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 98,
+        "sha256_utf8_line_no_terminator": "d31f3e6d7129debc5185174510ae5b827ed3a358b50452e8d45dae1b93eaf2b1",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 100,
+        "sha256_utf8_line_no_terminator": "5f9abe423118dc9fcb59c387dec6ffcd56ac0d7bf0c2c657012c3a4c30801150",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 102,
+        "sha256_utf8_line_no_terminator": "6b86178b11e4d238d2ff614f76b47bb8a1098c66be824ba490715a048e5df0d1",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 104,
+        "sha256_utf8_line_no_terminator": "0111bae8fbae5545111a4e1bdf29d1d651b8a10b58a149e411fcb02c23eb4969",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 106,
+        "sha256_utf8_line_no_terminator": "b3fb6bfb0a642bca5ecbdfba3615e9a9865b38a44375160085b80c499140f434",
+        "kind": "prose",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 108,
+        "sha256_utf8_line_no_terminator": "05f0354865ffd29a918d199a8b4a7e930a088026bdf11577b4f1a3b768d0a85a",
+        "kind": "heading",
+        "actual_manual_receiving": "25da77"
+      },
+      {
+        "line": 110,
+        "sha256_utf8_line_no_terminator": "a90ed3f22962046a1d2b4cbee2addc4b8c7e9767fc30a0809f99b6c53ea4b763",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 112,
+        "sha256_utf8_line_no_terminator": "1d9c924aa64845af3c97990dfeb0abd44a6004913791ca45a765071bf111142b",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 114,
+        "sha256_utf8_line_no_terminator": "61af1d1f95eb4c2777dd4b149392a16e4f619aaf5212411e0fde814ca93ecf02",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 116,
+        "sha256_utf8_line_no_terminator": "f27a158069f5172be9ec77abc9377172625c7361661cb48f9e009153e15c39ad",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 118,
+        "sha256_utf8_line_no_terminator": "02eee1f5043d3ff84edec368a32112a8656e87e6f90b23a299e7e0c91dc28f16",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 120,
+        "sha256_utf8_line_no_terminator": "7d095d2be95c796bbda0e6ce2ac06a7839660471d46f314ca27c91fa78cad024",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 122,
+        "sha256_utf8_line_no_terminator": "49c28c1bda192206134c53a9cfa6ce6fc4c3c41ef9136c6809ccb320f6870c5c",
+        "kind": "heading",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 124,
+        "sha256_utf8_line_no_terminator": "b79194c53483e43c7bfcf1442f3a8ff10f432fbc804b2a66cff366301e764ed0",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 126,
+        "sha256_utf8_line_no_terminator": "cd55d23c364c48bfce5e63603a1678dc863954f1bc1dad97a2d00493b7b12b72",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 128,
+        "sha256_utf8_line_no_terminator": "7bd869b104d3a20fe786a180869c0257f81e669890484dd6aeca84311ddd9bb5",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 130,
+        "sha256_utf8_line_no_terminator": "e38e2d9558799812ea1775a20a4fbf7062c59171c784fdf27b994bab56831b15",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 132,
+        "sha256_utf8_line_no_terminator": "46f2021ad213b78d3b377f58b32d5858b9ce7d510ed86aef01674b31575b44e2",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 134,
+        "sha256_utf8_line_no_terminator": "28a8f8696dc78f914c4276956e9680e52ea57380fff07d6d5fcca4695330ee4f",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 136,
+        "sha256_utf8_line_no_terminator": "f657f510f854e0a7d86c394943c031d92cc3436ebe63984ffcef69546651aaa8",
+        "kind": "heading",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 138,
+        "sha256_utf8_line_no_terminator": "559b9ebec4916a09de6f3608ca504d2d03022c91ccc5099eca8e5024e9cf61ce",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 140,
+        "sha256_utf8_line_no_terminator": "ac14622da7a0efc805ef9f1c9d80abca9d9f46bcfa2bfbe4bb6ced9bfdf77141",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 142,
+        "sha256_utf8_line_no_terminator": "86f0982b3f24626ca855fec4984a5bf27448c081706fe155a279a3abb1cf1cb0",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 144,
+        "sha256_utf8_line_no_terminator": "423340fd80c390ddfcb87e42043f9a4bea38a87af4c14ea654ff30f2e46e09b7",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 146,
+        "sha256_utf8_line_no_terminator": "10d83f32b5006cbaeb34c97563e518fadd92a9cf832e07ceb0f640c2607fc976",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 148,
+        "sha256_utf8_line_no_terminator": "d22928c8a40e4126ced220fcefd4454445a36bc5a9fc49f10dab38bd2602c780",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 150,
+        "sha256_utf8_line_no_terminator": "c147dd4d12c3347819eebe4e070f6882a2d3d028e7c30d4978f94c3afa24a38d",
+        "kind": "heading",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 152,
+        "sha256_utf8_line_no_terminator": "8ea4375f042f5c08e68447e77cbb729f562cf2655d63a20d3b8b1f2c95a5d1d8",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 154,
+        "sha256_utf8_line_no_terminator": "a2d5be5a90e8c21b9f13b731dbb835f9dee14a20b82eff415c3242e201b3a626",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 156,
+        "sha256_utf8_line_no_terminator": "e9a61327278d049d25a913555f9f01b2a0f4532ca29c6278403f57976a6f7b5b",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 158,
+        "sha256_utf8_line_no_terminator": "10fe131ad919f36785cfc0f743d21baae19bebdfb1b114d38f65ca2370cca717",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 160,
+        "sha256_utf8_line_no_terminator": "5b0218cd262968dc9260c959a887f9ea3fa9d010e98b1234375aa542ac1495ca",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 162,
+        "sha256_utf8_line_no_terminator": "cbaf7e1856ecf1e8e861d7f41c48b406ee6ad0486284ac3aabad43a7d30fc534",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 164,
+        "sha256_utf8_line_no_terminator": "9981220a27b4a95fe5e4387784ef4dd14010fc5976ef0fd0dd466cbf661af941",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 166,
+        "sha256_utf8_line_no_terminator": "6c78d555d7eb530b01123cb560659863b19268653c6e3ae0fd2ae8554b7dfc49",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 168,
+        "sha256_utf8_line_no_terminator": "d470f5047c5e85905aa2b2fbd63913acd5ab4ca90c6ea7ac8bd64dde2f0019a2",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 170,
+        "sha256_utf8_line_no_terminator": "bc975ad429ca5f09919dfd2aaf8e7733fb081bc6cc2f8e4aaeca382f8f169580",
+        "kind": "heading",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 172,
+        "sha256_utf8_line_no_terminator": "c47ba07c6ac1f733c8060728741ac964a43559cf68774c9b0370711c6565274d",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 174,
+        "sha256_utf8_line_no_terminator": "227ee68edf75b00659497462197c2b47672702eff163c86fafeb40d3c524b118",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 175,
+        "sha256_utf8_line_no_terminator": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 176,
+        "sha256_utf8_line_no_terminator": "559aaed985d2b6c6ec2d098281d108f7151cd98652b34be70c25746bd401263e",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 177,
+        "sha256_utf8_line_no_terminator": "4d8b252fc91f3385c2be0e442cf53ccccb6a8a4ed55ed074ea64f4931b78b692",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 178,
+        "sha256_utf8_line_no_terminator": "51c289cf9c5b4a5ea5d4d9c85704d5a6b0619b2c39ee975dba958f26038f739b",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 179,
+        "sha256_utf8_line_no_terminator": "c16d8122b1e1b43086d0ef07ad70fac404a1b477e967bc9eea6fea3bc221cb21",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 180,
+        "sha256_utf8_line_no_terminator": "be6afc45de31c0034537d13bfb967d9fe44d691d073019e835922497a93adfe9",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 181,
+        "sha256_utf8_line_no_terminator": "61daed9adba22e35f527cb48e1a22af2014a2eec51d1a2542f6fb7a81aacdcf3",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 182,
+        "sha256_utf8_line_no_terminator": "ffb45f869fddc7b98de4e46684ba87590e167f38d71297653d29bb3301f9ff46",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 183,
+        "sha256_utf8_line_no_terminator": "73f54719a4dbc5203c720dbff3465e65550f1d1ec8cadb2b7edeef4a54a35eac",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 184,
+        "sha256_utf8_line_no_terminator": "72b3ae78fb237650f70c8da033d4b07c828c3230b5e8f637c1cbada97be1b2a4",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 185,
+        "sha256_utf8_line_no_terminator": "f3bf93c1e164e0f8d8f1a3970fbe68673befd3968053d80b4eaa0ecb94c59c60",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 187,
+        "sha256_utf8_line_no_terminator": "ba3903e5a5de34c3d67212cc028b169bc4b7504902cd5d362c134a7edccbcf0b",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 189,
+        "sha256_utf8_line_no_terminator": "2416921fe372cb665ec0dcfe7e3679c0be3bbc64f18c0b1e78c47dd052ddfc6a",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 190,
+        "sha256_utf8_line_no_terminator": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 191,
+        "sha256_utf8_line_no_terminator": "4e4c0bc214eab63d68b37df811c79be031f047d15faca89204644c49e8c439a6",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 192,
+        "sha256_utf8_line_no_terminator": "4fad5c24b800a2d4f5b8e624c02e354ae887b85c198abc7f35fd9facb1b36594",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 193,
+        "sha256_utf8_line_no_terminator": "ebf68fec4844efcd47d0b6ae274f8c37619932404be74633970798a1bcfde672",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 194,
+        "sha256_utf8_line_no_terminator": "57e28fe7435ebdc196b80f23b8218c0a3805928b1f7ee0482544abe9aa369848",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 195,
+        "sha256_utf8_line_no_terminator": "e713833d4254a6cbe44f4ff29a44fae8a14eb6f112bd71ee70d1c16504e6cdd7",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 196,
+        "sha256_utf8_line_no_terminator": "cfd254a56f1bd18d6d7741e6158b37789594c8b76fd330b642cdd98717c430a9",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 197,
+        "sha256_utf8_line_no_terminator": "03b2518ee6d752b84b07d28d6a854bdabd8579ed6e00b0e2ae83b474f40114ad",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 198,
+        "sha256_utf8_line_no_terminator": "2e6a554ce3712132f9a833aff20641f9f6185ed97118ce1ec51f63e79acf3ec9",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 199,
+        "sha256_utf8_line_no_terminator": "4cbdd80dffeeabb2e4c2da09948fcb841111041c0fd5384a122d2d0ba95d747f",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 200,
+        "sha256_utf8_line_no_terminator": "9472e149490b5951fc294b5178999ded5f874789db768d7d889312e21e1eaa9d",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 201,
+        "sha256_utf8_line_no_terminator": "d6ae90d1705ed4f3316d738bdd43bc178911467c1286859298c48d6d5d462cfd",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 202,
+        "sha256_utf8_line_no_terminator": "c53a6a9d7385f5679c34eb3bee20dc9814b6e284587afb40036e0344cf340b94",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 203,
+        "sha256_utf8_line_no_terminator": "ae29db7e6fc172b5a625df3616a05f15ad7ad42eec3b7b981cfde78c2f9ec40a",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 204,
+        "sha256_utf8_line_no_terminator": "18070b4b615816cde69a49b403813916e27f898f3fd0e340ff8c587440021697",
+        "kind": "table_row",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 206,
+        "sha256_utf8_line_no_terminator": "c1aa0ccd926df08bf19c4f87ff9238df46d64e83044881b99843cd14b0189c44",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      },
+      {
+        "line": 208,
+        "sha256_utf8_line_no_terminator": "7037e352d1e770b141ee09d514bbb513abc1a30d081ddc4035f8258654933bec",
+        "kind": "prose",
+        "actual_manual_receiving": "Complete saved-body frame110–208"
+      }
+    ],
+    "prior_frozen_payloads_exactly_preserved": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/BLUE_ARCHIVE_AYANE_CHARACTER_MONOGRAPH.md",
+        "bytes": 41706,
+        "lines": 251,
+        "sha256": "f7e00400711726fd5c820e4eb6a4648518fa20b088573da23bc2e617ed236bed"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/AYANE_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 69720,
+        "lines": 1450,
+        "sha256": "931a4a2738e9cd004f92393862b0ce8de53285948636e74aa6ed17cf7a8e5dd2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/AYANE_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 9258,
+        "lines": 50,
+        "sha256": "4b4a4516bb33d1921e7120e1926c1c4ee9404c205b7c7ff9847182dee82d7003"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/AYANE_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 4229,
+        "lines": 67,
+        "sha256": "56d7db955f22bedad6dfe33acbb2b94b7075733396666ef6b1ae614c9b6445b4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/BLUE_ARCHIVE_NONOMI_CHARACTER_MONOGRAPH.md",
+        "bytes": 43519,
+        "lines": 247,
+        "sha256": "bb97bead89b4e8b62fb801b2027b0ea699c92d09124103f548c51263a3f724a0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/NONOMI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 68234,
+        "lines": 1481,
+        "sha256": "fe513b5573023d621fb2a09cfbdbb853b2af7a0b8cab2d0108683aacb4b76536"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/NONOMI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 11242,
+        "lines": 59,
+        "sha256": "80ec11f1ebbdca381646404d55d1caf82ebac660a4760d7b060e43053c5cf18d"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/NONOMI_EXACT_PAIR_METADATA.json",
+        "bytes": 3991,
+        "lines": 90,
+        "sha256": "e58bf6f675da3c73296048de4c041981f9ebb84135898bcee9a8f97cc7c8d3ab"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/NONOMI_MM_PAIR_METADATA_PROBE.json",
+        "bytes": 1889,
+        "lines": 59,
+        "sha256": "3a8b6b507aedc82747612dd8562b858ff6a81374d9bd3f5935755ebb04bb356a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/BLUE_ARCHIVE_SERIKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 51876,
+        "lines": 252,
+        "sha256": "59fe918d81000805b7211b579851c9a5d7db72f72ed55b29365bddfc15c4f185"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/SERIKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 96649,
+        "lines": 1946,
+        "sha256": "a80bb92d777a5d7128b529f5dfae0eae7bba32abb162fb2c36d8e66c7b5718e5"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/SERIKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 10643,
+        "lines": 57,
+        "sha256": "f0c12f2dcce30dd6fbf44aaf8170990f21ae677187fb904f39d6396f3665701f"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/SERIKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 11949,
+        "lines": 167,
+        "sha256": "da77d7f2d3e103360742871182d1191184a85f4b947db44ec8e9921e981e1366"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/BLUE_ARCHIVE_HOSHINO_CHARACTER_MONOGRAPH.md",
+        "bytes": 52404,
+        "lines": 233,
+        "sha256": "391f67d25db0cfddce6930260dfe95d61de45511efaffd26fcfd045830fc194b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/HOSHINO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 115571,
+        "lines": 2502,
+        "sha256": "2748d7af6885e11994c38c5b848ed468b2b7cef020e3acc95437b9b50e342591"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/HOSHINO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 21721,
+        "lines": 82,
+        "sha256": "5524957bc8a988d2de6c3465c7690be555c04d2f47f14b2548849b3f467215be"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/HOSHINO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 2958,
+        "lines": 47,
+        "sha256": "7c6dcda486d9431cd037a9691763fcb5cdfbda0c6afe7ac2da6b971db99adf1b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/BLUE_ARCHIVE_SHIROKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 48619,
+        "lines": 229,
+        "sha256": "4aed715309bdb3bb7581bd3ab77dbbfa6d853dbca10d0232bb46bfab659ced20"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SHIROKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 139725,
+        "lines": 3099,
+        "sha256": "f5666436a1dbcf029c503c7138847bb2feadbe80c8382d51725621d02f9a7460"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SHIROKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 17252,
+        "lines": 71,
+        "sha256": "8fe7fcb0683da5dc3ed2ee4aff05516e1b043d9f6a5995d28ab2eb4b5b6871f3"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SHIROKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 5292,
+        "lines": 71,
+        "sha256": "22966ac882234f6a08d5f00f93f3735dbbb620c8dbe258f3e7b8b09a76c3b6ff"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/BLUE_ARCHIVE_SUBARU_CHARACTER_MONOGRAPH.md",
+        "bytes": 48646,
+        "lines": 234,
+        "sha256": "dd22db82ab67a6a39447a3a63ac58faad6d85ce211c3dd6cd47917891ad38b66"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SUBARU_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 47359,
+        "lines": 968,
+        "sha256": "b07db236e7932073836935763e6ccd94fbc2da4ab27b64ac4c96de09f861c8de"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SUBARU_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 9027,
+        "lines": 48,
+        "sha256": "7d578160976ed40aded7ba45a20e21bacc733b954e4c251303a3e612f25ff135"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SUBARU_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 2952,
+        "lines": 47,
+        "sha256": "3a28f8e35c69199394ac83a5cafd27faba50f853cf55c66e48ca09da879e1902"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/BLUE_ARCHIVE_ATSUKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 52227,
+        "lines": 212,
+        "sha256": "cd713fbacf902b8930f6040de6ddb38175103397297dbcf5f68c74bddc11bad4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/ATSUKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 83614,
+        "lines": 1883,
+        "sha256": "4fe98d4df3f4f1a12677cdd6717d9f4ae4bb9678aa3e52ef1fd973962ca5e1be"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/ATSUKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 8811,
+        "lines": 49,
+        "sha256": "f1d405fce4780261195bfbc91c8f083f5e536bf568e15cca02caa50f6ae1494b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/ATSUKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3788,
+        "lines": 59,
+        "sha256": "0546d1f34b5d78fb15af3d0da196c4e0ca44e5467367d779765c52236fd20627"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/BLUE_ARCHIVE_SAORI_CHARACTER_MONOGRAPH.md",
+        "bytes": 47772,
+        "lines": 216,
+        "sha256": "0b16efbad9f94c9478823ba02c4cab60ef36367a5ce2be9d3002900afeb9df65"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/SAORI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 88019,
+        "lines": 1899,
+        "sha256": "5117b604e16e65f94dc730eca16dca3a5c9cc5c631ea3a1e93770928f91501af"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/SAORI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7485,
+        "lines": 44,
+        "sha256": "c23510cb951146e1287588b4e8cacc995055699074724b75b8c7323a78dfc827"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/SAORI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3828,
+        "lines": 59,
+        "sha256": "18d0acadc34bde20cf3d0904486329010b8acaa224ae78d3c89bee2835ae86dd"
+      }
+    ],
+    "required_root_work": "Independent whole saved-prose and exact receipt receiving; semantic/canonical adoption pending.",
+    "remaining_full_phase3_work": "Justified directed relationships, differentiated Arius ensemble/institution, Sensei/register packages and full eligible-cast adjudication/integration/merge milestones remain required; no N/quarter credit.",
+    "readable_receipt_actual_receiving": "Whole42-line saved readable receipt personally received through EOF, untruncated functions.exec frame.",
+    "verification": "UTF8 LF/noBOM; JSON parse; every selected canonical SHA verified; current accepted owners exact main2e/c1;33 prior payloads verified. JSON not claimed whole manually read."
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "current_required_home": "P3-CHAR-MISAKI",
+  "root_exact_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MISAKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "historical_author_delivery_attachments": {
+    "MISAKI_FROZEN_DELIVERY_MANIFEST.json": {
+      "status": "FROZEN_C_ONLY_ROOT_RECEIVING_AND_ADOPTION_PENDING",
+      "outputs": [
+        {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/BLUE_ARCHIVE_MISAKI_CHARACTER_MONOGRAPH.md",
+          "bytes": 43400,
+          "lines": 208,
+          "sha256": "1b6745eab6d26b7d9c1682ec8e91c30439953b0f2c8d04d501796b5e1d11db1a"
+        },
+        {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/MISAKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+          "bytes": 86048,
+          "lines": 1835,
+          "sha256": "09737f96b7c9854593f679b36df4955da55843da0e384a6e3fd82b1ee3bda248"
+        },
+        {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/MISAKI_MONOGRAPH_RECEIVING_RECEIPT.md",
+          "bytes": 6701,
+          "lines": 42,
+          "sha256": "817613ed438a8c39c46e24431601a3291c8d3eb8356d9c112dfb9508445d5e06"
+        },
+        {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/MISAKI_CURRENT_WORKTREE_METADATA_PROBE.json",
+          "bytes": 5710,
+          "lines": 83,
+          "sha256": "6ad087406f3e4c80b657e89acec978da22c50d579f894a5d09a8b74dd1fc732a"
+        }
+      ],
+      "saved_prose_manual_receiving": "Complete1–10925da77,110–208 complete saved-body frame; repaired opening20 exact-read. Complete42-line readable receipt through EOF.",
+      "scope": "Eleven substantive sections;all14OPEN; no known mandatory recovery for asserted bounded claims. Stronger endpoints/performance/technical/clinical/legal/chronology require named witnesses. ROOT sole integration/adoption owner. No N/quarter.",
+      "prior33_preserved": true
+    },
+    "MISAKI_MONOGRAPH_RECEIVING_RECEIPT.md": "# Misaki monograph — complete candidate receiving receipt\n\nCandidate: 43,400 bytes / 208 lines / 5,707 words / SHA-256`1b6745eab6d26b7d9c1682ec8e91c30439953b0f2c8d04d501796b5e1d11db1a`.\n\nEleven substantive architecture1.12 sections; UTF-8 LF/no BOM. C-only local candidate; ROOT receiving/adoption pending. All14 gaps OPEN; no model, registry, denominator, quarter, publication or merge credit.\n\n## Complete saved argument and authority\n\nSaved prose wholly received1–109 in25da77 and110–208 through EOF in the subsequent complete saved-body frame. Opening line20 minor wording repair exact-read. Every nonempty line has its exact SHA and manual custody in JSON. Hashes are bindings, not automatic human receiving.\n\nCurrent Cycle008 admission; ROOT qualified complete analytical receiving with limits; historical order/independence UNKNOWN; performed voice UNRECEIVED. Exact戒野ミサキ/BA_PERSON_MISAKI/10041/20049 and1900942201→20049 remain source-bounded comparison, with no synchronized clinical/body/calendar history.\n\nSpecific care and company are positive when Misaki names them. Silences, solitude, proximity limits, refusal of debt, denied gift meanings and image deletion demand remain consequential. Public bridge crisis stays separate from the private hotel’s unprinted method. Voluntary craft collapses; cloudy-day conversation is named gain; medicine is actual, not lasting cure. Harmful public operation and independent recipients retain agency.\n\n## Accepted argument custody\n\n| Input | Bytes | SHA-256 | Actual receiving |\n|---|---:|---|---|\n| `series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_076_80000076_DEEP_READING.md` | 7944 | `2fab456d14c56d887a8486897ded0cb5a30035e3359114bd884ef177bfdc93bc` | 08edbf:whole through EOF |\n\nShared private owner`series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md`: 101663 bytes/SHA`51466bd29658743cad03493a22c7ba5307b9c616d1a9fb2a22d78a56dc2d7de1`. Personally whole826 through EOF in frozen Subaru82fb06/4dc038/243f99/b515b2, after clipped8022f5 repair; fresh Misaki215–357 inbe1dae adds no new whole credit. Misaki17=7BOND/7wholeMomoTalk/3written; Hiyori15/Subaru11 separate. Misaki has8 physical W15 witness rows for7 pairs;10041E015 alternative Teacher witnesses are one episode. Whole43-owner W15 has19 physical rows/18 distinct pairs.\n\nComplete V003 maintained/C003/C004, V006 maintained/threechapters, Final maintained/fourchapters remain exact personal whole custody reused. C00424–79 refresh71b20b is a span, not new whole99 credit. Complete currentE810102/E83821/E85313 event arguments and exact roster custody reused; prior freshE83879–163 andE853107–122/143–152 remain inherited accurately bounded. GROUP relevance82–90/114–122 supplies context, not fresh whole group-primary receiving. CompleteE810E07608edbf gives duties, deliberated chocolate, denied extra meaning and actual adult eating; no mutual-eating/full safety claim.\n\n## Necessary complete Japanese recovery\n\n| Object | Bytes | SHA-256 | Actual receiving |\n|---|---:|---|---|\n| `BA:bond:10041:005` / `external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_10041_EPISODE_005.md` | 8097 | `3b05d2819b1c5822b97b82da03d5004dfa8d187b07a3553c50f25218cf4e4f96` | Whole through EOF;a2ba62 |\n| `BA:bond:20049:003` / `external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/BOND/MISAKI/VARIANT_20049_EPISODE_003.md` | 6487 | `d4aaa916196b78b5808b28fb97f8e1c32720b7494dbd5d0137840fe9764873d9` | Whole through EOF;089ba7 |\n| `BA:momotalk:20049:thread:200490210` / `external-selected-corpus/BA_REFRESH_20260928T032248159554Z/02_CANONICAL_STORIES/MOMOTALK/MISAKI/THREAD_200490210.md` | 2136 | `998c93a28f36cf013b30e68d93a6a927d7f3aeb5da0e1da1a6d8e61f8d27fcd5` | Whole through EOF;08edbf |\n\nTwo whole BOND objects: 100 utterances/17 groups/20 options. One whole MomoTalk:16 messages. No fresh written object. Hotel10041:005 confirms requested care, loneliness, anger and actual medicine without a printed method/completed attempt. Sand20049:003 confirms voluntary craft/collapse/unasked-record indication/deletion request with no deletion endpoint. Whole200490210 retains continued cloud and the named conversational exception. Selected17 bindings checked exactly; inherited producer primary narrative custody is attributed, not awarded anew from hashes. No all17-primary/native/raw/AV replay.\n\n## Exact controls, preservation and remaining work\n\n`series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv`: 466,542 bytes/788rows/SHA`ec11af62bb97407a8b7eba7cf3c74bf987d156d463f94c44668625f87d853a73`; actual ROOT worktree HEAD`1dc2092095ed74ee743971f1f274b30cb291d939`.\n`series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv`: 45,708 bytes/105rows/SHA`2d4ac2798f8d84e3dcf0c99c8101e31ee8ad5e47f823d89371b4dc48835823de`; actual ROOT worktree HEAD`1dc2092095ed74ee743971f1f274b30cb291d939`.\n\nAll33 prior payloads across six Abydos plus Atsuko/Saori manifests remain byte-identical. Source owners equal main2e/current/c1; frozen346 and staged-dc5 control witnesses stay historical. DEEP_SYNTHESIS recommendation; model/reasoning unexposed unchanged. Necessary pinned local access and user cancellation of integration handoffs justify local-only work. No R/Git/provider/global registry/external handoff/paid API/cloud/model/publication/merge operation. Nine unbound large files unopened.\n\nNo known mandatory recovery remains for asserted bounded claims. Stronger clinical/legal/technical/chronological/performed assertions need named witnesses; future returns, deletion, rebuilding and meetings remain uncompleted. All14 gaps OPEN. ROOT independently receives/adopts. Full Phase3 directed Misaki–Sensei/Saori/Atsuko/Hiyori, Squad/stayer/cross-school relationships, differentiated Arius ensemble/institution and written-register/ethics packages remain required justified work. No N/quarter credit.\n",
+    "MISAKI_CURRENT_WORKTREE_METADATA_PROBE.json": {
+      "head": "1dc2092095ed74ee743971f1f274b30cb291d939",
+      "scope": "Actual current ROOT worktree controls, separate from main2e analytical owners, historicalc1/346 witnesses and frozen prior staged-dc5 metadata.",
+      "controls": [
+        {
+          "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+          "bytes": 466542,
+          "lines": 789,
+          "sha256": "ec11af62bb97407a8b7eba7cf3c74bf987d156d463f94c44668625f87d853a73",
+          "rows": 788,
+          "matching_misaki_metadata_only": [
+            {
+              "candidate_unit_id": "P3-F073",
+              "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+              "subject_or_responsibility": "Subaru",
+              "raw_identity_or_source_ids": "BA_PERSON_CH0309",
+              "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+              "source_boundary": "B5/MM5/W1; variants 10130",
+              "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+              "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+              "package_target": "",
+              "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+            },
+            {
+              "candidate_unit_id": "P3-F078",
+              "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+              "subject_or_responsibility": "Misaki (collaboration)",
+              "raw_identity_or_source_ids": "BA_PERSON_CH9997",
+              "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_COLLABORATION4_PHASE2_PRIVATE_AND_MODE_CONTEXTUAL_ACCOUNT_20261009.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+              "source_boundary": "B4/MM4/W2; variants 10080",
+              "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+              "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+              "package_target": "",
+              "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+            },
+            {
+              "candidate_unit_id": "P3-F096",
+              "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+              "subject_or_responsibility": "Hiyori",
+              "raw_identity_or_source_ids": "BA_PERSON_HIYORI",
+              "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+              "source_boundary": "B6/MM6/W3; variants 10102|20017",
+              "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+              "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+              "package_target": "",
+              "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+            },
+            {
+              "candidate_unit_id": "P3-F118",
+              "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+              "subject_or_responsibility": "Misaki",
+              "raw_identity_or_source_ids": "BA_PERSON_MISAKI",
+              "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+              "source_boundary": "B7/MM7/W3; variants 10041|20049",
+              "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+              "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+              "package_target": "",
+              "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+            },
+            {
+              "candidate_unit_id": "P3-A027",
+              "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+              "subject_or_responsibility": "Misaki",
+              "raw_identity_or_source_ids": "",
+              "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md",
+              "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+              "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+              "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+              "package_target": "",
+              "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+            }
+          ]
+        },
+        {
+          "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv",
+          "bytes": 45708,
+          "lines": 106,
+          "sha256": "2d4ac2798f8d84e3dcf0c99c8101e31ee8ad5e47f823d89371b4dc48835823de",
+          "rows": 105,
+          "matching_misaki_metadata_only": []
+        }
+      ]
+    }
+  }
+}

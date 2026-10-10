@@ -1,0 +1,167 @@
+{
+  "schema": "BLUE_ARCHIVE_SHIZUKO_PUBLIC_ROOT_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE_INSTALLATION_PENDING",
+  "subject": "Shizuko",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIZUKO_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This preparation has no persistence or publication effect before complete ROOT installation. ROOT must verify the successful actual exact-head source/housekeeping/final chain for 732b3f2e635d2b8e8855f4e6709354031936ebc6, complete the final whole candidate receiving, and install all final declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The complete original payload is immutable. Its pending, C-only, historical counts and audit statuses describe its creation-time custody event, not current adoption. Current ROOT acceptance is qualified explicitly here. Current scope remains355/29; no new source, primary, performance, model, independent literary or count credit follows from transport.",
+  "original_exact_tuple": {
+    "path": "ROOT_SHIZUKO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 6696,
+    "sha256": "e4f8173d2d254304ac621a221ede323fc361e782b9fd6cb1a6f1d57fad7804bf",
+    "git_blob_oid_of_actual_bytes": "2a3b092e8d5e59dd6073a08db4e59237df69af34",
+    "lines": 100,
+    "immutable_transport_path": "immutable_originals/ROOT_SHIZUKO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "public_reference_translation": "Full original fields and strings survive with declared reference translation only; public provenance labels do not serve files or admit material. Original byte tuples remain original witnesses and are not claimed as derivative tuples.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "Author and ROOT complete/bounded meanings remain attributed to actual scopes. Mechanical transport adds no literary receiving."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_SHIZUKO_SUPPLEMENTED_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "checked_at": "2026-10-10T15:40:16.017520+00:00",
+    "status": "PASS_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "existing_home": "P3-CHAR-SHIZUKO/P3-F136/BA_PERSON_SHIZUKO23006|26008",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_SHIZUKO_COMPLETE_SUPPLEMENTED_RECEIVING_V1/BLUE_ARCHIVE_SHIZUKO_CHARACTER_MONOGRAPH_SUPPLEMENTED_CANDIDATE_V1.md",
+      "bytes": 45727,
+      "lines": 166,
+      "sha256": "134c51d6088f106259995ff726fe6bf24d000a37e7f4cbf6c9c2c2ff561fcc29",
+      "actual_byte_blob_oid": "2c5a608ebe7e935fbc170f2dbbcc4f8d2dc6546a"
+    },
+    "original_body_sha256": "42110c5c9e3e4880046e5a6de85fdf6d8146b783c8af8cb815ef64813701ffe9",
+    "exact_preparation_receipt_sha256": "f03d865c4f7489f36ff744c63c58f6af4d279ad43a6ad4f8b4cb30e6e2af1531",
+    "author_original_freeze_sha256": "13fa182338ec2ba2c4458e46a848b0af753cd6f8db06dffca109b8a82e92a035",
+    "supplement_receipt_sha256": "b9a45d27d2eaff57645dbb6d97cea3c0fc5071c89a30930928f6b52602518cf9",
+    "mandatory_canonical_adoption": "Use the exact supplemented derivative, preserving all original156lines and the separately frozen supplement with its lossless inverse. ROOT acceptance is of this166line complete derivative; the original alone is not the operative adoption target. Later public wrapper framing requires separate exact review. R installation and publication remain pending.",
+    "ROOT_actual_receiving": {
+      "original_whole_body": [
+        "eda9c6 lines1–78",
+        "4857c6 lines79–156EOF"
+      ],
+      "original_semantic_source_and_control_scopes": [
+        "fe808f",
+        "c8026d",
+        "3dd6a4"
+      ],
+      "readable_probe_and_freeze_whole": "91900e37/117/55EOF",
+      "fresh_private_Shizuko_complete20_selected_meanings_and_endings": [
+        "6ec60d1–175",
+        "12c05f176–265; Shizuko131–197"
+      ],
+      "fresh_gift_and_regional_offer_whole": "a992d5 E81004771EOF/E81800363EOF",
+      "fresh_GROUP2301_2302_full_substantive_argument": "09cab4 lines54–140EOF",
+      "fresh_E847_complete_analytical_argument": [
+        "6abf06 lines1–88",
+        "b5c1d4 lines89–159EOF"
+      ],
+      "fresh_E848_scoped_argument": [
+        "b5c1d4 complete0271597–1613",
+        "6b2022 currentselection/adoption1–85; no whole2333claim"
+      ],
+      "fresh_main003_and_supplement_whole": [
+        "09cab4 Main53EOF",
+        "ac2ff5 supplement13EOF and receiptwhole"
+      ],
+      "complete_saved_derivative_changes_and_verification_controls": "4df4a4 every5insertedparagraph at65/67/79/111/147 and full meaningful reconciliationcontrols; original156line inverse mechanically exact",
+      "prior_qualified_context": "Personally adequate ROOT current Main V005/V100, E801/E813/E815/E835 and GROUP2403–2404 receive only their documented prior scoped analytical custody, no new whole primary/native/raw/QA/AV credit; no whole504-line fresh ROOT private-owner claim.",
+      "no_whole_repeated_JSON_narrative_claim": true
+    },
+    "exact_binding_unique_pairs": 184,
+    "exact_binding_occurrences": 209,
+    "original_saved_nonempty_joins": 99,
+    "all_original_lines_losslessly_preserved": 156,
+    "historical_analytical_equality_comparisons": 48,
+    "supplement_historical_equality_comparisons": 3,
+    "preserved_original_and_separate_payloads": 141,
+    "dated_navigation_current_reconciliation": [
+      {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "historical_sha256": "892f4faa1d5199bcfb6af2aa1ac65d993db66f454834a9e284e6382792fcb709",
+        "current_adopted_sha256": "37b30edcca9ee35aae6f61f21c08e63427531dc6c21fe2df154f3a5fe41ff2df",
+        "reason": "Dated cf2 navigation preserved; exact reviewed next-ten metadata update only"
+      },
+      {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+        "historical_sha256": "d887a399c0a27064e53428e3c022d369ebbdccec80873fcad17db9b80e18f431",
+        "current_adopted_sha256": "bc9b6e73aee8a3343680624c2416386607c598d27b986d8e685d31d62fdae348",
+        "reason": "Dated cf2 navigation preserved; exact reviewed next-ten metadata update only"
+      }
+    ],
+    "semantic_grounds": [
+      "Welcome, craft, remembered tea, cute bento, quiet willow strolling, sleep, company and wanted expansion have intrinsic meanings. Commercial and affectionate purposes coexist without a single hidden-motive verdict.",
+      "Corrected Ninja suspicion and public thanks preserve recipients and reported history. Hyakka refusal of private enforcement survives actual accepted dessert, sensory responses and thanks. Started sack-moving is not a finished wall, safe recovery, amended charter or achieved Ayame return.",
+      "Genuine fatigue and collapse differ from cultivated clumsiness. Particular requests for company and permitted rest do not grant unrestricted touch, memory suppression or physical force. Pain, surrender and stop requests retain their adverse force.",
+      "Custom tasting measures an important recipient’s enjoyment, not public market certification. Actual consumption, offerings and proposals stay separate; Japanese and Korean time/tasting/opening variants stay attributed.",
+      "Committee selection and business wishes coexist with distributed peer achievements, refused miko requests, retracted ancient-rite claims, contested land, sunk venue and unfinished costs. Umika’s work remains hers.",
+      "Finite help, local festival effects and actual joy survive unresolved charters, costs, injuries, coercion, privacy, performance, chronology, variant continuity and romance. Five serious competing readings and eleven dimensions remain represented."
+    ],
+    "all_fourteen_original_literal_gaps": "OPEN",
+    "new_primary_native_raw_QA_AV_model_credit": 0,
+    "nine_unbound_large": "UNOPENED_UNREAD_UNHASHED",
+    "scope_denominator": "355requiredpackages plus29mandatorynamedsections unchanged",
+    "progress": {
+      "previous_ROOTaccepted_packages": 75,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 76,
+      "character_packages": 73,
+      "directed_relationship_packages": 3,
+      "published_remote_packages": 73,
+      "published_source_commit": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+      "published_exact_bytes": "PASS independent8c110f47targets; publicationauditchainpending",
+      "canonical_Shizuko_persistence": "PENDING_NEXT_EXACT_CANONICAL_ADOPTION",
+      "first_quarter_threshold": 89,
+      "quarter_reached": false
+    },
+    "R_Git_provider_writes": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIZUKO_CHARACTER_MONOGRAPH.md",
+    "bytes": 48012,
+    "sha256": "37c6c33d3f37a668e90dc33df2cba76575b94f92eccf03f55e69f9362c421e20",
+    "git_blob_oid_of_actual_bytes": "bc816871851631cbb9db3442027c7784b20ffee3",
+    "lines": 176
+  },
+  "original_author_body_tuple": {
+    "path": "FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_SHIZUKO_CHARACTER_MONOGRAPH.md",
+    "bytes": 43021,
+    "sha256": "42110c5c9e3e4880046e5a6de85fdf6d8146b783c8af8cb815ef64813701ffe9",
+    "git_blob_oid_of_actual_bytes": "599b1ac63d20fe5005d9da367771562bb1196cc9",
+    "lines": 156,
+    "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_SHIZUKO_CHARACTER_MONOGRAPH.md"
+  },
+  "operative_ROOTaccepted_body_tuple": {
+    "path": "ROOT_SHIZUKO_COMPLETE_SUPPLEMENTED_RECEIVING_V1/BLUE_ARCHIVE_SHIZUKO_CHARACTER_MONOGRAPH_SUPPLEMENTED_CANDIDATE_V1.md",
+    "bytes": 45727,
+    "sha256": "134c51d6088f106259995ff726fe6bf24d000a37e7f4cbf6c9c2c2ff561fcc29",
+    "git_blob_oid_of_actual_bytes": "2c5a608ebe7e935fbc170f2dbbcc4f8d2dc6546a",
+    "lines": 166,
+    "immutable_transport_path": "immutable_originals/ROOT_SHIZUKO_COMPLETE_SUPPLEMENTED_RECEIVING_V1/BLUE_ARCHIVE_SHIZUKO_CHARACTER_MONOGRAPH_SUPPLEMENTED_CANDIDATE_V1.md"
+  },
+  "fixed_publication_snapshot": {
+    "prior_source_packages": 73,
+    "fixed_new_packages": 16,
+    "fixed_total_after_complete_ROOT_install": 89,
+    "characters": 84,
+    "directed_relationships": 4,
+    "ensembles": 1,
+    "goal25_milestone_complete": false,
+    "installed_literary_threshold_effective_only_after_complete_ROOT_install": true,
+    "currently_source_published_before_successor": 73,
+    "main_integration": "PENDING",
+    "required_packages": 355,
+    "mandatory_named_sections": 29,
+    "named_sections_completed": 1,
+    "later_live_reviews_separate": true
+  },
+  "mandatory_canonical_qualifications": [],
+  "canonical_link_only_translations": []
+}

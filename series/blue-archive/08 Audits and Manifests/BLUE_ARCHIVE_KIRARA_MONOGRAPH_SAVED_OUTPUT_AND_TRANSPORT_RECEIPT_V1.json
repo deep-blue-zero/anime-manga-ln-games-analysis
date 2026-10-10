@@ -1,0 +1,1094 @@
+{
+  "original_exact_tuple": {
+    "path": "GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/BLUE_ARCHIVE_KIRARA_CHARACTER_MONOGRAPH.md",
+    "bytes": 35982,
+    "sha256": "c5f96e4315e8e8a4372031dd2693d4d0ffa550d6558581e319ff8f39165e6582",
+    "git_blob_oid_of_actual_bytes": "fcbb55b564ff14a9751505b81b2292d50117a50c",
+    "lines": 154,
+    "immutable_transport_path": "immutable_originals/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/BLUE_ARCHIVE_KIRARA_CHARACTER_MONOGRAPH.md"
+  },
+  "canonical_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KIRARA_CHARACTER_MONOGRAPH.md",
+    "bytes": 38083,
+    "sha256": "23c3e5fb1a8c33e39c430c11efc992ab177bf96131424287017507db311499cc",
+    "git_blob_oid_of_actual_bytes": "fdbd1541ede7bfb078f1a55c8cef560e67404ff6",
+    "lines": 169
+  },
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 3,
+      "line_sha256": "57338e35d5d6909f3412fc48f7c6fe9548afc18ceebff2298adb041b6b7e9f2a",
+      "line_text": "required_home: P3-CHAR-KIRARA"
+    },
+    {
+      "frozen_line": 6,
+      "canonical_line": 4,
+      "line_sha256": "fc9bb4db2ed3901a5700e2490c24cc71520c59c2e20b70b3ebf67227722793be",
+      "line_text": "source_responsibility: P3-F107"
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 5,
+      "line_sha256": "413434c50c6d98b76a3f4f48ffe0833e90427d023b94df56b16ac352f1ba99b9",
+      "line_text": "dated_navigation: P3-A086"
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 6,
+      "line_sha256": "e58de2e630fe4b83ad328730ab9ec1a62c58792522faf0559a190ed51f9a0966",
+      "line_text": "person_scope: BA_PERSON_KIRARA"
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 7,
+      "line_sha256": "b1a2da56c3b215e0e30bda802bb1a201e31c417de98f59223fc33e3d6eb9d474",
+      "line_text": "variant_scope: \"10093; event costume1900924201 joins through actual event-dialog OriginalCharacterId10093\""
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 8,
+      "line_sha256": "dca433725e2113a41bd7ea1bf048c40b8cfe9ebbeefcc0997266fd1090647fa7",
+      "line_text": "analytical_base: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 9,
+      "line_sha256": "3d639a1006263fe0efb71adff7cd496284e45b46a8f9c748f161e9019134278e",
+      "line_text": "historical_source_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 10,
+      "line_sha256": "6f9081053b3ceb5c1386a6e4739a8f18f1830a91cfaa3ad7a7c3bcd33c836ca8",
+      "line_text": "published_control_witness: 92184703994a1950a5660654ce52d8516dbe9bf5"
+    },
+    {
+      "frozen_line": 13,
+      "canonical_line": 11,
+      "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+      "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 12,
+      "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+      "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 13,
+      "line_sha256": "f57a43df7f14191afc03d6f6e0596d04f05838a9652b405c2e243c6c347ef251",
+      "line_text": "architecture: \"1.12, eleven character dimensions, current required355/29 allocation at this existing home only\""
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 14,
+      "line_sha256": "a1bb9e33da35baba3224de8d61c8351a1cba1f842a7f314008d4be87ed9a047f",
+      "line_text": "execution_recommendation: DEEP_SYNTHESIS"
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 15,
+      "line_sha256": "91d9c4d2c494933eb11e8f64d495822e2a199c8e9a35456c74efb2ee0022924a",
+      "line_text": "execution_boundary: \"Local author candidate; actual model label and reasoning setting not exposed; no paid API or cloud task\""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 16,
+      "line_sha256": "a547d7013b6d218174d0d0f219b64b3165a6a303210a07b77f9395a0eafe9882",
+      "line_text": "source_boundary: \"Eight complete effectiveV2 private arguments and whole comparator; adequate complete accepted Main/GROUP/MINI/event meanings at their declared action, report, choice, locale, actor and recipient limits\""
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 17,
+      "line_sha256": "4efc00eb15bac2aaa1416c4c159b4a5dadf8f363b2a399b9ae28d10de635a501",
+      "line_text": "authority_quartet: \"Current Cycle008 admission with limits; ROOT-qualified accepted source arguments; historical firstness/independence UNKNOWN; performed voice unreceived\""
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 18,
+      "line_sha256": "c6812438edd959f0e15c94f3536759e9e9c80f79c1a33922f31db7dc1f0249ef",
+      "line_text": "chronology: \"Local study/retest, club trial and event continuations where printed; private-to-Main/calendar/edition sequence otherwise UNKNOWN\""
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 32,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 33,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 34,
+      "line_sha256": "bddef273f7440454454af02b1c516cc53e83fd6ceb8c66574d610ac15c73be68",
+      "line_text": "# Kirara: choosing an interesting life without making everyone live it"
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 39,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 40,
+      "line_sha256": "dcedb1ce2047969135b592dcd76f3c77be5a46a70c8ec13cdd9435b4d2e9e22e",
+      "line_text": "## 1. Core thesis: variety and company are ends, and their limits define the person"
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 41,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 42,
+      "line_sha256": "668864bdd467c26b5cfb89bc8fdc89c775d894d5ac70e3e49130e8e0fc156262",
+      "line_text": "Kirara's strongest through-line is the wish to make ordinary life interesting through conversation, appearance, food, new places and chosen company. That wish is neither an incidental decoration around school conflict nor a sufficient explanation of everyone else's needs. Her private scenes make room for study failure, work, fatigue and embarrassing traces of effort. Her shared club and broadcasting stories ask what form of activity she actually wants, who may decline it, and who might be displaced by her enthusiasm. The mature characterization is a person who helps turn occasions into shared pleasure while repeatedly encountering another person's independent time, preference, space or claim to a place. [K01–K08; K-CMP:Q01–Q07; MINI020/120]"
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 43,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 44,
+      "line_sha256": "72514ca62e844631a2ff95a6872ddbb5dc5c923fcb60ddd7f6c84f9f3381d60c",
+      "line_text": "The notebook is a particularly strong test of this thesis. Its recovered pages matter because they preserve labor and remembered time, not because their value depends on a plot intervention or a certified love confession. Actual finding at BOND10093:015 scene2:u29–30/raw203492–493 gives a concrete outcome. Her self-assessment does not measure intelligence, and the later snatch, red cheeks and departure do not disclose the supposed portrait's subject. The evidence supports invested effort and guarded privacy together. Reducing her to spontaneous pleasure would discard the object she searches for; reducing her to an adult's successful pupil would discard her own effort and her right to keep part of the notebook unshared. [K05:P01–P04; K08:P02/P04]"
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 45,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 46,
+      "line_sha256": "adb64a7ba8f0e6fccb52b27e633da18c647ca5d9db6b0657e41d928a9f6fad34",
+      "line_text": "The public countercase must be equally strong. Broadcasting brings pleasure and useful attention, but a mistakenly read chain letter frightens listeners; advice about streaming misfortune can turn distress into possible entertainment. At Event835 she helps translate an appeal into firefighting and rescue while falsely agreeing that the danger was planned. These are substantive ethical complications within successful cooperation. Her positive social agency is bounded by whether the recipient can state a preference and receive a truthful account. The analysis therefore retains both the pleasure she creates and the costs of inviting others into an interesting story without settling that account for them. [MINI12020:u47–55/u74–96; E835:015:u0107–0110]"
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 47,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 48,
+      "line_sha256": "3a5cc1ce3326aec7f6c53bc6ed120400524accba720ca2e4e62869158f7c6ce1",
+      "line_text": "## 2. Development and longitudinal states: local effort, chosen forms and unfinished privacy"
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 49,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 50,
+      "line_sha256": "8e0bf8355730be407c7f4b18134036cb979e9dd427d10028b36ba7f59c7a18da",
+      "line_text": "The private study sequence supports a local change without supplying a dated life history. BOND10093:003 and whole MM100930130 retain a failed-exam report, mistaken range and request for tutoring. Actual shared study finishes at u44–45/raw203169–170. BOND005 represents study, a negotiated break and a return to work; this return is contrary evidence to the suggestion that leisure simply displaces effort. BOND006/MM100930450 later reports passing and represents an outing. That report is stronger than a purely future hope, but remains participant evidence rather than an audited grade or proof that Sensei alone caused success. [K02:P01–P04; K03:P01/P03; K04:P01/P03]"
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 51,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 52,
+      "line_sha256": "8eab6f5965ce3ba25264f209aca594f54e8228c669bdcb031b3d80b08499526f",
+      "line_text": "The notebook sequence deepens the same question. Recovery is accomplished; remembered study is made tangible; self-confidence in JP and feeling special in KR remain different formulations. The snatch and embarrassed departure then prevent the recovered object from becoming fully public. Whole MM100930580 extends beyond its FavorScheduleId witness by fifteen records. Japanese retracts a forget formulation with never-mind wording, while Korean expressly says not to truly forget. Neither prints a common demand for erased memory or actual obedience. Development here means that effort and shared time become valuable enough to protect, with continuing uncertainty about what may be seen. It is not a diagnosed dependency or a completed privacy settlement. [K05:P01/P03; K08:P04]"
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 53,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 54,
+      "line_sha256": "0884f79300a0dc564b31c915404c897213952df5cf8b2d829b3a5763a7d76b2d",
+      "line_text": "The club MINI pair gives another coherent local progression: a wish and proposed trial, represented visits, then choosing none of the existing forms and agreeing on the Shiny Sparkle Club name and first activity. An unsuccessful chase and interrupted experiences can still be enjoyed. Erika observes that their familiar homegoing already offers variety, while Kirara wants an articulated club form. Their different descriptions survive the joint decision. The declaration is an actual local agreement, stronger than an unspoken aspiration and weaker than formal registration; bubble tea purchase and consumption remain unprinted. [MINI02010/02020; MINI32§3:98–104]"
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 55,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 56,
+      "line_sha256": "ce74bed9213312c0b2371dc01b7ecb4bf790658e2115c7e0406950ab7dc31ec3",
+      "line_text": "MINI120 shows a distinct realized activity: voluntary broadcasting, cable disentanglement and restoration, song cues, then a narrator's successful-broadcast endpoint. The ending refuses a permanent replacement so that the earlier host may retain a place if she returns. This is a limit chosen after enjoyment, not evidence that the work was unwanted. The returned host and delivered message remain unknown. These local sequences warrant comparison, but neither profile release, event costume, retest timing nor the broadcast label joins them into a single dated conversion from carefree student to responsible public figure. [MINI12020:u98–190; K-CMP:Q03/Q07]"
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 57,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 58,
+      "line_sha256": "57a7d00d5a27e947fc8f8056fb846b780b650122c7e0160b98190c19f5e25070",
+      "line_text": "## 3. Public and private comparison: attention can support someone or enlist them"
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 59,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 60,
+      "line_sha256": "49a7d32deba83d934ccf1f3bad92b04e78463169249d2f2970a1be388cf9ad9f",
+      "line_text": "Private company is frequently negotiated against work. The first paired story preserves the adult's professional-role joking and recipient choice, while the whole chat's JP adviser/anytime and KR conditional-adviser/walk-home invitations remain distinct. Written admiration of workload includes a counterfactual that Kirara would give up; it does not assess a whole institution's capacity. The adult has activity of his own, and Kirara's invitation is meaningful precisely because it is an offer to that independently occupied person. Neither familiarity nor teasing produces a permanent duty to accept. [K01:P01/P03; K06:P02]"
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 61,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 62,
+      "line_sha256": "cb54b1d23667942109037b28b36c91f7980d51d90620f832fbd8aad8002e346c",
+      "line_text": "Broadcasting relocates that social attention into a public setting. The anonymous lunch letter values solitude without rejecting friendship. The hosts recommend truthful preference negotiation, but the recipient's later resolution is unprinted. Advice to a different anonymous account of misfortune includes encouragement and a streaming suggestion; support and possible commodification are serious competing meanings. The latter author is not joined to Junko. An audience's welcome for a change from Pandemonium hymns supplies local reception, not a universal preference or a tested remedy for every student's distress. [MINI12020:u59–96]"
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 63,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 64,
+      "line_sha256": "3565266835d05acd601c6390d7b020bfc209a6f94d33aa3b17b2a91581d5f860",
+      "line_text": "Event835 supplies both a successful recipient answer and a deceptive public formulation. Kirara calls Umika a friend; Erika explicitly checks whether proximity is exhausting; Umika answers that it makes her happy. A handshake is accepted, and later contact is treated as accomplished. These are positive local social results. Umika's delay anxiety remains, and her wish to do better is not replaced by the visitors' gratitude. During the fire, Kirara's planned-attraction assent disguises a real danger while she and Erika give practical rescue instructions. Wanted closeness can be reciprocal; mobilization can also obscure what people are agreeing to. Neither finding cancels the other. [E835:004:u0003–0028/006:u0007–0022/011:u0041–0098/015:u0089–0110]"
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 65,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 66,
+      "line_sha256": "b4860f0a0468ab2fe73cdb69d573304bb859700c679553d8e60402971944ad46",
+      "line_text": "Her Main participation likewise need not be manufactured from private themes. In S2V002C2E015, Iroha names Erika and Kirara's broadcasting experience, but their affirmative reason includes helping friends elsewhere. Erika proposes bypassing the usual transmitter and Kirara endorses the possibility. That is a chosen response to an actual invitation, not proof of the bypass's installed or tested state at that episode's cutoff. Later coalition broadcast and recovery have their own complete accepted arguments. Public participation is warranted through those routes, while the private comparison's older warning that four context owners alone did not locate an appearance remains a valid warning against inference from a theme. [M2C2E015; M2C2E018; K-CMP:Q03]"
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 67,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 68,
+      "line_sha256": "66d8232897b9af909fcd078ca864f0a913b498f959e7a7c6d39532a97f012990",
+      "line_text": "## 4. Club and institution: a chosen activity is not a governing office"
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 69,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 70,
+      "line_sha256": "1354f69eced28d01d6adaa400cba0640faa23813328650b1d48750727c618717",
+      "line_text": "The institutional fields must remain distinct. The profile's literal Club value is None; display labels refer to a Kirakira club; the joined Character field says ShinySparkleSociety. These are actual different declarations, not a contradiction an analyst may erase by choosing the most convenient one. The MINI decision supplies a locally agreed name and activity without authenticating formal registration, office, wider membership or a budgetary power. Its value is that Kirara and Erika can say what they want to do together after refusing available forms, not that they acquire a government mandate. [K06:P01; K-CMP:Q03; MINI02020]"
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 71,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 72,
+      "line_sha256": "70031e9a3fbf7c612733550b446f22873032e98e88b1a462494252185443eb19",
+      "line_text": "The trial visits are substantive institutional comparisons. Political access does not make the offered executive prospect acceptable. Iroha's paperwork and cleanup report and actual Ibuki play coexist; cooking instruction is offered and interrupted; patient objections and force-related treatment questions remain adverse evidence. Enjoying visits and games does not require endorsing those organizations' burdens or methods. The JP otedama/KR gonggi distinction belongs to the actual accepted argument. Sena's anesthesia-complete statement with shot/collapse staging does not certify an injection, cure, consent or efficacy. A later personal-contact exception supplies particular agreement, not transmitted contact data or unlimited access. [MINI02020; MINI32§3:98–102]"
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 73,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 74,
+      "line_sha256": "e1c7b11ca4f7261b46593e51c5d017994059476ad83260b1b72f727722e5fc51",
+      "line_text": "The broadcast exposes a different use of institutional language. Makoto reportedly wants unattended announcements to count as disclosure of Prefect budget cuts, then wants the service maintained for prestige. The report does not establish enacted cuts, informed notice or an adequate public process. Kirara and Erika actually accept and enjoy the opportunity that Iroha wants to escape. Their voluntary labor is real without retrospectively making Iroha's assignment voluntary. Restoring attention does not certify governance; the desire for reach can still serve self-praise. [MINI12010:u1–78; MINI12020:u98–123]"
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 75,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 76,
+      "line_sha256": "e6d3c902eac4fcb0555912172ef7056aa197e38ffe1f3abb6443654eef7d67e4",
+      "line_text": "Their refusal to become permanent replacements is therefore an institutional limit rather than a rejection of useful work. They distinguish an enjoyable task from a right to consume an absent student's position. Permission to contact Iroha is given, while transmitted contact and later after-work company are not shown. GROUP1901/1902's professional reports, audit and budget procedures help compare evaluation with Kirara's private exam reports, but neither context turns her into an official evaluator nor establishes a completed redistribution from a proposal. The present monograph leaves the required club, ensemble, labor, publicity and accountability analyses at their actual separate homes. [MINI12020:u161–190; G190; K-CMP:Q02/Q03]"
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 77,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 78,
+      "line_sha256": "8cd95eca31dc680962332dbdb3cd668634895ec2c016f91335830f4e33a36e33",
+      "line_text": "## 5. Ordinary life and private texture: sweetness, appearance and saved effort"
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 79,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 80,
+      "line_sha256": "8e3fe622c34ebc2f5850580c54e6b48c3025553a7bade7642d6cad498e5723a4",
+      "line_text": "Fashion, crepes, conversation, karaoke, shops, new places and familiar walks are intrinsic ends. The first story's remembered food-court, shopping and karaoke activity is not a newly enacted itinerary. The written baseline's desire for selfie angles and parfait retains everyday specificity without a viewed asset or completed future cafe visit. The event-written regret that travel ends and pleasure in friends' company matter even where the line is conditional and no whole trip follows from it. A person need not be politically useful for these preferences to warrant close reading. [K01:P01; K06:P01/P02; K07:P02]"
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 81,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 82,
+      "line_sha256": "f4761aa0e2f6cc3817c9ec67245102cf282a39024a3fdcd1f2c418919218744e",
+      "line_text": "Study is ordinary texture rather than a separate test of moral worth. A wrongly selected range, an earlier pajama study-party report, tutoring, fatigue, a break and renewed work characterize how pleasure and effort are arranged. The Korean overlooked-mistake wording differs from Japanese wonder and failure to understand. Pedicure/help and embarrassment occur within a scene that explicitly returns to study. Eleven generic serial narration units do not securely identify a voiced actor; the later written Talk version secures only its own channel. These limits preserve the care represented without inventing a performed conversation or reducing work to a pretext. [K02:P01/P02; K03:P01/P02; K06:P03]"
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 83,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 84,
+      "line_sha256": "d019e26a48522449b9932e62a5bd9eb48d660cf18b49a58c887bdc9388003513",
+      "line_text": "The crepe outing is enjoyable and tiring. JP blueberry cream and KR strawberry/banana/blueberry cream remain separate appraisals, as do JP different view/new feeling and KR a different person beside her. Apology and not wanting a break belong beside the pleasure. Matching shirts are proposed with different sale formulations—two with a third bonus in JP, one-plus-one in KR—and are not purchased on the page. Arcade sounds do not establish victory. The unnamed lick at u31/raw203356 has no secure kiss or exact contact target. These uncertainties do not remove taste, companionship or eventual local return; they prevent small pleasures from becoming a standardized romance outcome. [K04:P01–P04]"
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 85,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 86,
+      "line_sha256": "e8cc24152d4c1d5d88257f120fa0a1dca1a187765a0ec3e26171d581e5d63e22",
+      "line_text": "The notebook gives this texture persistence. Dense formulas and marks of work survive the test that supposedly made the object useful; search and recovery respect that accumulated time. Privacy subsequently interrupts easy access. The childlike excitement of novelty, failed planning and modest self-account coexist with sustained effort and active refusal to expose everything. A profile's friendliness toward strangers in JP and old-friend manner in KR describes a written baseline, not evidence that every person welcomes that manner. Ordinary life here includes both delight in contact and a person's capacity to withdraw an object or question from view. [K05:P01/P04; K06:P01]"
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 87,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 88,
+      "line_sha256": "20e403867c6521ba25291ced2f0edba422541505f93515b873dcba3c47d7738b",
+      "line_text": "## 6. Crisis behavior: volunteered repertoire, shared response and truthful danger"
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 89,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 90,
+      "line_sha256": "65d7c6ad145dcb3c3c3c9fd0c579f174994440555a47329d8919e9cad0836fd2",
+      "line_text": "Kirara's public contribution has positive routes rather than stakes-based inference. MINI120 supplies actual broadcast start, cable restoration and represented success; S2V002C2E015 gives an invitation grounded in that repertoire and a choice to help friends elsewhere. The proposed technical bypass is still untested at that cutoff. The later counterbroadcast's operation and local recovery belong to a coalition involving technical repair, equipment, routes and personal appeals. The evidence supports Kirara's participation without isolating her as the sole cause or measuring a certified transmission capability. Ordinary practiced pleasure can be relevant in a crisis without being valued only for that later use. [MINI12020:u38–151; M2C2E015/E018; S2C2]"
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 91,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 92,
+      "line_sha256": "9d1a63bb7fbd8e35aea770e5c42aef9fdf83486ab7941ff2948bf252027c8686",
+      "line_text": "Event835 shows repeated practical help. Erika and Kirara assist when the polished lookout becomes dangerous and when moving craft disrupts the visit. Guide appreciation is actual, but delayed labor and unsolved timetable anxiety remain. The artisan's openness to mixture is not consent to explosives or technical proof of safety; Meg's explanation of vanished hot-spring water is not an established cause. Wanted sightseeing and craft do not make those hazards harmless. Kirara's wanted bag is a particular creative desire, not a completed fired souvenir. [E835:004:u0049–0096/005/006]"
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 93,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 94,
+      "line_sha256": "e6880e8ddf449066ab65f80cb9eb8a2534db3032d09652ddd1f015d5200f03d6",
+      "line_text": "During the fireworks emergency, Umika's request receives a collective yes, and Kirara and Erika translate the appeal into putting out fire and rescuing the shrine maiden. Kirara acknowledges real fire while falsely presenting the incident as planned. That speech may facilitate coordination and can also deprive spectators of an accurate risk account. Cooperation, rescue and a substantially extinguished fire are printed outcomes; all hazards inspected, zero injury, detailed damage settlement and compensation are not. Their quiet satisfaction after the resumed ceremony is real ordinary pleasure at the ending, neither an engineering certificate nor an erasure of the concealment. [E835:015:u0089–0163]"
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 95,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 96,
+      "line_sha256": "a88a554bcfeb74d046602b864ad9a2c7ba45aa38f41a7fb35be2b15b7756bf5a",
+      "line_text": "The counterfactual temptation is to make care harmless whenever it succeeds. The local record resists this: visitors laugh amid threats, kind support coexists with breached curfew and flight from Teacher, and “festival” can both mobilize help and disguise danger. Kirara should receive credit for actual assistance and friendship answers, while the ethical status of a method depends on its recipient, truth and consequences. The accepted trip ending is safe completion of the narrated trip, not a total cost audit or durable reform of all participants. [E835:004/011/015/016]"
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 97,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 98,
+      "line_sha256": "4d96f0ede4831e7e4a82124364b3cd2f36bb45f8c519c5384d39d61e3f78753c",
+      "line_text": "## 7. Sensei: offered company, effective help and privacy that remains her own"
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 99,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 100,
+      "line_sha256": "bcae429502b27bffb2672fe4ddbecd4b2bd41a787da2bc585a5b3ada7d8ce650",
+      "line_text": "Sensei is a partner in local study and search, not the total source of Kirara's interests or academic agency. Tutoring and completion of a study session are actual; the later thanks and passing report matter without excluding her work. The notebook's recovered pages record that work. In the first whole chat, adviser and walking-home invitations extend an available channel of company without a completed formal appointment. Conditional future contact and another outing after a next test do not automatically happen because the first outing was enjoyable. [K01:P03; K02:P01/P03; K03:P03; K04:P03; K05:P01]"
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 101,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 102,
+      "line_sha256": "26c2f9a52f56728c7223a384f6c57dd29a5ea0bdb1c1fb3e61e34be16f25102e",
+      "line_text": "Physical and appearance care requires its own local reading. JP borrowing a hand and KR permission to compare hands are not one universal consent statement. Pedicure help is bounded by the scene and its source-mode uncertainty. Written Special Talk preserves concern about face and breath being too close, embarrassment and finishing study; it does not retroactively name a generic Bond speaker. The adult's questions and printed choices remain actual records rather than proof that every offered response was spoken. Close care can matter without supplying blanket access, exclusivity or mutual-romance status. [K02:P01/P02; K03:P02; K06:P03]"
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 103,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 104,
+      "line_sha256": "fcabddf6254d719c2c33c184fcd1fd16d88419d66110ac2d9a610f04d8b4b983",
+      "line_text": "The notebook ending makes autonomy especially concrete. Searching together need not entitle the adult to reveal the supposed portrait. A snatch and departure intervene; the chat's different withdrawal formulations leave actual privacy compliance unresolved. The Japanese and Korean formulations should not be forced into either an erasure order or an invitation to remember a settled confession. Embarrassment is evidence of an occasion's difficulty, not a diagnosis or an analyst's warrant to disclose a hidden subject. [K05:P01/P03/P04; K-CMP:Q06]"
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 105,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 106,
+      "line_sha256": "f0af4c27b63e41a43584d00470e635c7523b7019fbbe1e46a0fda76a997b8835",
+      "line_text": "Sensei also remains a public participant with limits. At Event835 he permits Umika's simultaneous wish to improve and to have Shizuko return, while the visitors' support does not remove breached curfew or his supervisory difficulty. The monograph may compare that scene's request for help with private tutoring, but it cannot backdate one into the other or make his availability indefinite. The teacher's methods, the particular student's agency and the independent peer ties remain distinct. [E835:011/015; K-CMP:Q04]"
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 107,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 108,
+      "line_sha256": "0f15975bb0157c6f0e628c1ea919c49daf53958045771294fd9e5251012f719c",
+      "line_text": "## 8. Peers: Erika's disagreement and each recipient's own answer"
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 109,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 110,
+      "line_sha256": "4e257bd9751df4bd224f69c32d69e45804cd7605913cc1a5ced1f68c9f30e550",
+      "line_text": "Erika is a companion with different judgments, not a duplicate Kirara. In the club pair she questions whether a new form is needed when homegoing already gives them variety; their final agreement preserves that earlier difference. During broadcasting Kirara encourages singing, while the respondent distinguishes karaoke from public service and notes that the listener did not request her voice. Particular assent follows. Actor shifts around u137–147 constrain exact turn assignment; Erika's explicit announcement and singing cues at u148–150 warrant the local represented role, not my acoustic inspection. Their mutual enjoyment therefore includes criticism of the proposed way to make a task interesting. [MINI02020; MINI12020:u124–151]"
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 111,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 112,
+      "line_sha256": "066419afdd963efd68f3cd2e510276cd89da043e558102929a9e78b12ee6116f",
+      "line_text": "The absent host is another independent claimant. Kirara and Erika decline permanent replacement because a returning student could be hurt by losing a place. They enjoy useful work, decline material thanks, and request contact permission. These are actual decisions whose value does not depend on certifying selfless motives everywhere. The earlier student's return and the message's actual delivery remain unprinted. Their care concerns a person whose response is unavailable, so it cannot be enlarged into a completed repair for her. [MINI12020:u161–190]"
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 113,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 114,
+      "line_sha256": "21be5ef09815e84983c2b5bb5277cf7ac658187b106849ce8e80e6d997d046f9",
+      "line_text": "Umika answers Kirara's friendship overture positively, while Erika provides a way to say if proximity is too much. Kaede asks to join the handshake and Fina describes shared hardship as friendship. The group does not become a universal consent machine: Umika still has delay anxiety, labor, a wish to improve and an actual mistaken timetable intervention. Erika and Kirara's statement that they genuinely enjoyed the scenery, craft and food is an independent visitor judgment, not polite fiction, but it is not an order for Umika to abandon her own standards. Their later practical help respects the existence of those burdens even where the public danger description is compromised. [E835:004/006/011/015]"
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 115,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 116,
+      "line_sha256": "0386234b35417ff35ee91dba4596a8f0a50f6da35c2a257c90326040e6c3ec7b",
+      "line_text": "Other recipients must stay literal. The first Bond's farewell has typed Kirara against native text-bearing Gehenna Student A; the notebook story has nineteen local actor seams. Anonymous broadcast listeners, a lunch-letter writer, a misfortune-letter writer, caretakers and trial-visit patients are not merged into named principals because a profile or later context makes that tempting. Patients' objections and a listener's solitude deserve analytical attention even when they do not drive a major arc. Kirara's positive sociality can be judged only if these independent people remain capable of an answer, refusal or unknown outcome. [K01:P02; K05:P02; MINI02020/12020]"
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 117,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 118,
+      "line_sha256": "3785b16a3a0053ef5eb66e50d96eedc9a2564add217f715a97e4adf0c2265fa6",
+      "line_text": "## 9. Written register, source modes and what a printed occasion can establish"
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 119,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 120,
+      "line_sha256": "92e7e3bda8be2bd6470b26f24e228e11668503fca63ff9b1177215b3a82822bf",
+      "line_text": "The normal written object contains thirty-six Talk rows; the event costume has fifty-four physical Talk rows across Event835/10835/900835 as23+23+8. Conditions, copied editions and physical order do not describe ninety acted meetings. The event-dialog OriginalCharacterId10093 supplies its exact join; the full Costume lacks that field and cannot be silently amended. Typed unlock-favor null and raw ScenarioCharacterShapes literal None remain different values. Neither source order nor event edition creates a private-to-Main chronology. [K06:P02/P03; K07:P01/P03]"
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 121,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 122,
+      "line_sha256": "ca3464cf01f4de0513f5a7e6b41d7c949e4509da1c87037bbd775f7dc318592a",
+      "line_text": "Written friendship, candy, birthday company, rest, selfies, wallpaper, rare/good/common CardShop responses and a tree-photo proposal preserve desires and conditions. They do not show ingestion, an installed image, an acted whole birthday, inspected pixels, every reward or completion of a trip. Concern about closeness in secure Talk mode cannot repair eleven generic Bond narration units. A profile's age, year, birthday, height, weapon decoration and favorite-crepe naming are written declarations, not empirical measurement or a received combat performance. CV and voice fields supply metadata; performed voice, music, duration and animation remain unreceived. [K06; K07]"
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 123,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 124,
+      "line_sha256": "b32a2137450bf913a8121ddebf1ae267ae496d9018b6efb0c79a94764763f665",
+      "line_text": "Whole chats are important because schedule witnesses are not endpoints. Their extents17/19/23/18/24 retain4/8/14/8/15 post-witness records and actual FavorScheduleIds100932/100933/100935/100936/1009315. Nineteen Answer records form eighteen groups: the first thread's080 has two records and the others are singleton groups. ConditionValue0 and next-group fields establish the printed structure, not exclusive runtime delivery or proof both answers were spoken. Answer540/550 in MM100930450 are sequential singleton groups. All101 messages are Text with empty ImagePath. [K01–K05; K08:P05]"
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 125,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 126,
+      "line_sha256": "153d33f58d50e6f47f7cda9eaaa0cfa2521932a9d931f4e0c63ba452a74710b7",
+      "line_text": "Formal Bond options, inward ns, named narration, generic serial narration, participant reports and narrator endpoints require different claims. JP/KR differences in study wording, contact permission, early arrival interval, creams, shirt offers, return and forget withdrawal remain visible. Nineteen notebook actor seams and the first farewell seam are local source findings, not a global actor repair rule. Event835 likewise retains labels that contradict self-address and the 004:u0009 literal Erika label whose speaker names herself Kirara; functional argument is qualified and does not merge the people or certify voice. The mature literary object can use these complete accepted findings without inheriting another author's primary/native/AV inspection. [K01–K08; E835:source seam register]"
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 127,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 128,
+      "line_sha256": "6b133b87616919efadd151873c0ac0753c06a4abc023bd816ce07550b6a7219a",
+      "line_text": "## 10. Competing readings and their strongest contrary cases"
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 129,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 130,
+      "line_sha256": "c2a428e6afb081ef5d9d6c02edf2428eb28cad68b944c22446bc0b1d83e76b47",
+      "line_text": "**A uniformly carefree socializer.** Fashion, conversation, novelty and an enjoyed tiring outing make this initially plausible. Failed study planning, resumed work, dense notebook formulas and actual search are strong contrary cases; so is her wish to keep part of that notebook private. The better bounded reading includes enjoyment and invested effort, with a local reported pass rather than a carefree essence or an objectively ranked academic transformation. [K01–K06]"
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 131,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 132,
+      "line_sha256": "dbbc8c74e3a232d5918985abb112f0dce5f1640d417888a590ca7c88280c41b4",
+      "line_text": "**A pupil whose improvement and affection are wholly supplied by Sensei.** Tutoring, gratitude, hand and appearance care, and the notebook's remembered time support a significant adult relationship. Kirara's own work, negotiated breaks, future conditions, snatch and unresolved privacy are equally consequential. Erika's independent companionship, chosen club form and public work are not derivatives of that relationship. The sources warrant local help and meaningful company without total dependence, romance or the adult as sole cause of passing. [K02–K05; MINI020/120; E835]"
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 133,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 134,
+      "line_sha256": "474b50007b1a7ba0d3bd448df8fb39e18f638d5ad2a767e2206aaf2bcb02bd34",
+      "line_text": "**A spontaneous egalitarian whose social ease always respects others.** The absent-host refusal, material-thanks refusal, Umika's happy answer and particular singing assent are genuine positive evidence. The frightened chain-letter listeners, streaming suggestion, pressure implicit in proximity, breached curfew and false planned-fire assent are serious contrary cases. An adequate conclusion evaluates particular invitations and truthful information rather than certifying universal harmless friendliness. Recipient agency is a criterion of the argument, not an optional qualification added after praise. [MINI12020; E835:004/006/011/015]"
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 135,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 136,
+      "line_sha256": "89739ec94ab3bd009b8cb48fb1aea9a27d13069132b8cd1030ec1c73101766b0",
+      "line_text": "**A useful public worker whose ordinary life matters mainly as preparation for crisis.** Actual broadcast success and later chosen Main cooperation make repertoire relevant. This cannot explain away crepes, wanted clothes, a bag, games, a tree-photo proposal, failed pursuit, rest and quiet satisfaction. The refusal to displace the host limits permanent public usefulness, and choosing none of the available clubs resists an organization consuming every desire. Ordinary ends remain positive evidence in their own right while specific later actions may also have public effects. [K01/K04/K06/K07; MINI020/120; M2C2E015; E835]"
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 137,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 138,
+      "line_sha256": "3fa29922292b212ed02058be1a87247bcc3f275bd5793f80a763319842f3559d",
+      "line_text": "**A settled romance or formally registered club hidden behind ambiguous records.** Embarrassment, cared-for appearance, remembered time and an agreed club name support those as reader hypotheses. The unnamed lick, uncertain portrait subject, different forget withdrawals, local permissions, mixed institutional fields and absent registration prevent their promotion into established status. Secure Talk or contextual actor function in one object cannot complete another object's missing identity, consent, image or endpoint. The bounded thesis remains strong without selecting that stronger hypothesis. [K04–K08; K-CMP:Q03/Q05/Q06]"
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 139,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 140,
+      "line_sha256": "4375d368891cf88ee093e4de81590452915ddae6340ca9ed4722ddc2ac0aa839",
+      "line_text": "## 11. Evidence register, fourteen open gaps and completion boundary"
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 141,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 142,
+      "line_sha256": "5f539be3ed196bd6dbd22e3956a25c71cc57087fa6845400c2fe0225819a8eba",
+      "line_text": "K01–K05 are complete effectiveV2 paired arguments for BA:bond:10093:002/003/005/006/015 and whole MM threads100930010/130/290/450/580; K06 is complete normal profile/dialog10093; K07 is complete event costume1900924201; K08 is the complete family checkpoint. K-CMP is the whole effective successor private/Main/G190 comparison. These eight owners cover12 primary objects=5Bond5wholeMM2written, not eight new primary readings. Producer-attributed6scenes268typed609raw37formal44options101chat36normal54event and auxiliary7 remain attributed extents; this author newly receives complete adequate analytical bodies and gains zero primary/native/QA/AV credit."
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 143,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 144,
+      "line_sha256": "1b15f6e03f2bf681d167fb386de89a7f6193560167cc6e10f16c42b16785a8ed",
+      "line_text": "MINI020 and MINI120 refer to the personally complete accepted MINI32 owner, specifically its complete §3 and §12 arguments. E835 refers to the whole accepted event checkpoint and its printed episode/unit scopes; G190 to the complete accepted GROUP1901/1902 argument; M2C2E015/E018 and S2C2 to the complete accepted small Main and checkpoint meanings. Prior adequate complete meanings are reused unchanged; exact tuples, fresh bounded refreshes, queries, saved-line joins, current narrow homes and frozen prior payloads are recorded separately. No complete Main arc replay, inferred actor appearance, extra source credit or automatic other-home completion occurs."
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 145,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 147,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 148,
+      "line_sha256": "cab216b617bc2386c40c03aa71b1c6be73001da02ab74f603c5b662e8e0e5288",
+      "line_text": "The table preserves the exact original stable series IDs and names from the source-gap register§1, qualified by its current Cycle008 effects. A Kirara contribution does not substitute for an unrelated principal's warrant; every stable gap remains OPEN."
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 149,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 150,
+      "line_sha256": "5fe80a810d67a643235aa1a3cd53b212bc686bd2b0869b1672207a91ab1e03cc",
+      "line_text": "| Stable gap and original name | Situated contribution and remaining warrant |"
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 151,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 152,
+      "line_sha256": "d81be777009eb8d76f08dc2be755d088a0ebc4bb1cba1cc786d3f576180eeea0",
+      "line_text": "| G01 — Ordinary and private breadth | OPEN — conversation, fashion, sweets, games, novelty, study, solitude and company remain intrinsic; complete selected arguments do not give exhaustive lifetime psychology or frequency. |"
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 153,
+      "line_sha256": "1c2f658709003b098f5359052ab9bc0e86a9e030206222278dc55e3273b2ba30",
+      "line_text": "| G02 — Yuuka council/club decision transfer | OPEN — Kirara's chosen club, local permissions and refusal to displace a host provide no new Yuuka decision/state route, security audit or arbitrary-state transfer warrant. |"
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 154,
+      "line_sha256": "ff03eed26f6f583ddc6d258477bdd7502b55e18b8e39ebdf96a54acca7382e8c",
+      "line_text": "| G03 — Serika service, peer and reciprocity range | OPEN — Kirara's study, taste and company remain her own evidence; no Serika source/recipient route, universal service response or fixed romantic essence follows by analogy. |"
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 155,
+      "line_sha256": "b5f22a1ad1036f67fc834081faf671a0ac6d31f49cc99a99c7156dd2b5431383",
+      "line_text": "| G04 — Hina crisis causality, accountability and ordinary contrast | OPEN — S2 coalition and Event835 help retain actual recipients and ordinary contrast; broadcast success and safe trip do not supply Hina's full coercion allocation, affected-student redress or restitution. |"
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 156,
+      "line_sha256": "21b1c7a49397fe339a835dd64a64ee8709bf3cfa0f1d04398fbce1c498c87714",
+      "line_text": "| G05 — Arius and PS68 ordinary/aftermath transfer | OPEN — this monograph adds no Arius/PS68 transition or repair warrant; enjoyed company cannot certify durable reform, legal absolution, debt release or home/job/security. |"
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 157,
+      "line_sha256": "504ca522e86e0fdd380f7018feb5c8d6f6f10348a96159e567010c3aeb6302d7",
+      "line_text": "| G06 — Cross-school ordinary repertoire | OPEN — wanted travel, games, craft, company, reciprocal Umika friendship and contrary timetable/curfew/danger contexts broaden situated comparison, not a universal school norm or shared enjoyment. |"
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 158,
+      "line_sha256": "d2ea4d22fc2473eea66b678cc744521de1ea3818022e1a3f89635dc765db17c3",
+      "line_text": "| G07 — Story-world chronology | OPEN — local study/retest, trial visits and event continuations are retained; release, numbered IDs, costume, editions and unlocks do not date a private-to-Main ladder or backdate knowledge. |"
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 159,
+      "line_sha256": "226af9279bf862244070f0f0d94f4b47d1baa8f8fdf24c089ee113ddb4cef91d",
+      "line_text": "| G08 — Event naming and repeat contexts | OPEN — exact Event835/10835/900835 written contexts and stable story IDs remain separate; no missing overarching title is invented and no repeat is an additional enacted trip. |"
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 160,
+      "line_sha256": "238329f0b12e807d60de4e9745ab3f34a2311f3e1c125c8b9742c3e8e3119db7",
+      "line_text": "| G09 — Written speaker/choice attribution | OPEN — nineteen notebook seams, farewell seam, event-label shifts, generic/inward/formal records and whole-chat choices constrain actor/knowledge claims; ConditionValue0 does not prove exclusivity or both-delivery. |"
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 161,
+      "line_sha256": "184a8f532b566c62188396abf878fb10337ef550f8b9a2a888a28b6079702049",
+      "line_text": "| G10 — Performed voice | OPEN — sound/song cues, voice fields, selfies and photo narration supply no inspected pixels, acoustic signal, measured wait, animation or performed voice;36normal54event rows remain written conditions. |"
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 162,
+      "line_sha256": "7244ef88f80e19b4e7914dc542555eddcd0e57bc590a7c7dbde2585c102843d7",
+      "line_text": "| G11 — Hoshino's Yume record and office states | OPEN — Kirara's recovered notebook and confidence are no Hoshino/Yume provenance, death-causality or office-state warrant; no cure or lasting stabilization transfers between people. |"
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 163,
+      "line_sha256": "54a54303a0631b78e0250c97a32aa5d7790b02481d8441d3adafd9234a10f22b",
+      "line_text": "| G12 — Counterpart, system and variant identity | OPEN — BA_PERSON_KIRARA/10093 and the actual event-dialog costume join remain positive local scope; anonymous letters, caretaker/student seams, club fields and friend names create no global identity merger or software/counterpart authentication. |"
+    },
+    {
+      "frozen_line": 149,
+      "canonical_line": 164,
+      "line_sha256": "826c180fcff79d3252c6e3db5c0388aa9313e7d04ca244c39a726445d51aa040",
+      "line_text": "| G13 — Office, contract, safety and technical outcomes | OPEN — actual study/recovery/broadcast/handshake/contact-as-accomplished/safe trip differ from audited grade, sole-cause tutoring, formal club office, bought shirts, drunk bubble tea, disclosed portrait, returned host, delivered message, tested bypass and settled clinical/technical/damage outcomes. |"
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 165,
+      "line_sha256": "ebcaab177144f019fb4c22e17e213e36618fee30d333ad54686abfc2aa5a34e8",
+      "line_text": "| G14 — Unclassified/mode continuity | OPEN — selected MINI32 and written meanings retain source/condition/locale limits;14otherMINI/96special/334unclassified remain visible without new admission, automatic continuity or stakes-based exclusion. |"
+    },
+    {
+      "frozen_line": 151,
+      "canonical_line": 166,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 153,
+      "canonical_line": 168,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 154,
+      "canonical_line": 169,
+      "line_sha256": "8a16681526fa0d2684f74f19a5784a1c3607a54bffefc006d4ffcbd17edf35db",
+      "line_text": "Directed peer/adult relationships, shared club/broadcast and school institutions, ensemble/accountability work, written registers and the remaining eligible cast remain separate mandatory355/29 responsibilities at their actual allocated homes and sections. This character monograph creates no additional required home and completes none of those duties automatically. Kirara's desired ordinary life and each recipient's distinct preference remain intrinsic to that further work."
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        4
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: character_monograph_candidate",
+        "status: LOCAL_CANDIDATE_ROOT_RECEIVING_ADOPTION_PENDING"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        21,
+        20
+      ],
+      "canonical_lines": [
+        19,
+        31
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KIRARA_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "canonical_publication_base: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        24,
+        23
+      ],
+      "canonical_lines": [
+        35,
+        38
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KIRARA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KIRARA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative after complete ROOT installation. All fourteen original gaps remain OPEN at their claim-specific boundaries. The355-package/29-section scope and existing responsibilities are unchanged. The prior54-package source publication is `5f0a24b56557f308e9cef31c7d1c2d58406ef49a`; ROOT’s successful actual exact-head source/housekeeping/final chain is preserved separately as predecessor proof. This preparation supplies no successor adoption, publication, main integration, quarter, model or performed evidence before complete ROOT installation. Frozen author/control/progress snapshots retain their dated meaning.",
+        "",
+        "Kirara’s159 unique absolute author-dictionary bindings,160 four-output-union bindings and ROOT’s160 resolved dictionary bindings are distinct populations. The output union adds the source receipt itself; ROOT’s resolved dictionary adds one separate repository-relative historical metadata witness. Equal counts do not merge these predicates or enlarge custody."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        131,
+        131
+      ],
+      "canonical_lines": [
+        146,
+        146
+      ],
+      "frozen_text": [
+        "Current G20 explicitly retains Kirara8effectiveV2/comparatorV2 and the later accepted private argument state. Historical UNADMITTED/draft_noncurrent/pending and earlier frontiers in producer wrappers are dated creation records qualified by the current maintained owner and Cycle008 admission with limits. ROOT-qualified accepted argument meaning, current admission, historical firstness/independence UNKNOWN and unreceived performance remain four different authorities. Current publication/live progress is mutable metadata, separate from main2e/c1 literary tuples and the captured921 witness. Exact current P3-CHAR-KIRARA/F107/A086 is the existing355/29 allocation; this candidate grants no acceptance or count."
+      ],
+      "canonical_text": [
+        "Current G20 explicitly retains Kirara8effectiveV2/comparatorV2 and the later accepted private argument state. Historical UNADMITTED/draft_noncurrent/pending and earlier frontiers in producer wrappers are dated creation records qualified by the current maintained owner and Cycle008 admission with limits. ROOT-qualified accepted argument meaning, current admission, historical firstness/independence UNKNOWN and unreceived performance remain four different authorities. Current publication/live progress is mutable metadata, separate from main2e/c1 literary tuples and the captured921 witness. Exact current P3-CHAR-KIRARA/F107/A086 is the existing355/29 allocation; the original candidate granted no acceptance or count; ROOT subsequently received and accepted this complete character boundary WITH LIMITS."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        152,
+        152
+      ],
+      "canonical_lines": [
+        167,
+        167
+      ],
+      "frozen_text": [
+        "The actual bounded claims require no fresh primary recovery: adequate complete accepted arguments retain the consequential actors, modes, local outcomes and contrary cases. Stronger technical, clinical, academic-causality, chronology, club-authority, romance, universal-consent, unidentified-letter, image, future-fulfillment or whole-cost claims need specific further evidence. Independent ROOT whole saved receiving, exact source/paragraph verification and canonical adoption remain pending. The author does not accept or count the draft."
+      ],
+      "canonical_text": [
+        "The actual bounded claims require no fresh primary recovery: adequate complete accepted arguments retain the consequential actors, modes, local outcomes and contrary cases. Stronger technical, clinical, academic-causality, chronology, club-authority, romance, universal-consent, unidentified-letter, image, future-fulfillment or whole-cost claims need specific further evidence. ROOT independently received the whole saved character argument, verified its exact bindings and accepted its complete boundary WITH LIMITS; canonical persistence follows complete ROOT installation. The author did not accept or count the original draft."
+      ]
+    }
+  ],
+  "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+  "terminal_LF_preserved": true,
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-KIRARA",
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/BLUE_ARCHIVE_KIRARA_CHARACTER_MONOGRAPH.md",
+      "bytes": 35982,
+      "sha256": "c5f96e4315e8e8a4372031dd2693d4d0ffa550d6558581e319ff8f39165e6582",
+      "git_blob_oid_of_actual_bytes": "fcbb55b564ff14a9751505b81b2292d50117a50c",
+      "lines": 154,
+      "immutable_transport_path": "immutable_originals/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/BLUE_ARCHIVE_KIRARA_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "ROOT_KIRARA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5040,
+      "sha256": "1549d482a63a97223383522476d9946ef5cb72e3479fc9b48492e0633c3e5ce4",
+      "git_blob_oid_of_actual_bytes": "1e8c79320a66d142eded8a530588df93eedd800b",
+      "lines": 85,
+      "immutable_transport_path": "immutable_originals/ROOT_KIRARA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/KIRARA_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 110370,
+      "sha256": "40b13fd64ae528f9768e4ed7b91727e8ecf1e9430acffb4a395fefeecdf81df4",
+      "git_blob_oid_of_actual_bytes": "679b1df99b8049f4ff534f24f48fb2b3dc4c0223",
+      "lines": 2068,
+      "immutable_transport_path": "immutable_originals/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/KIRARA_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/KIRARA_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 9525,
+      "sha256": "1b5e6e3226dbd18001a7202e4d9efe15f749c1254184969c959af669b9c8caa3",
+      "git_blob_oid_of_actual_bytes": "3b296ec6fd33305f0e21a54da10d47324403f839",
+      "lines": 57,
+      "immutable_transport_path": "immutable_originals/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/KIRARA_MONOGRAPH_RECEIVING_RECEIPT.md"
+    },
+    {
+      "path": "GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/KIRARA_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 3849,
+      "sha256": "3a14b4f7b8f1a71d16f459e86fc942aac890e4836853e523f5224818a78e01d6",
+      "git_blob_oid_of_actual_bytes": "823fccda5e83a15b891c972134c9cb75c1b49f10",
+      "lines": 53,
+      "immutable_transport_path": "immutable_originals/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/KIRARA_CURRENT_WORKTREE_METADATA_PROBE.json"
+    },
+    {
+      "path": "GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/KIRARA_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 3394,
+      "sha256": "ee0e5b231ca55483ce73c43eefd37420092a9dfbd98f8c41648b605cfa9d38e3",
+      "git_blob_oid_of_actual_bytes": "078f14cca7a7e4957bee559bdbe572c5058885ef",
+      "lines": 63,
+      "immutable_transport_path": "immutable_originals/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/KIRARA_FROZEN_DELIVERY_MANIFEST.json"
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KIRARA_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KIRARA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only current authority framing/frontmatter, full stable original-gap alignment where necessary and optional retrieval H1 change. All literary claims, original source boundaries, wants, recipient ends and contrary evidence remain. Every frozen original line/byte is recoverable exactly.",
+  "stable_original_gap_alignment": null,
+  "immutable_ROOT_count_cause_qualification": null,
+  "mandatory_private_semantic_erratum_public_projection": null,
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "section_parent_homes": 25,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_primary_performance_or_independent_literary_credit": 0,
+  "other_required_package_completion": false
+}

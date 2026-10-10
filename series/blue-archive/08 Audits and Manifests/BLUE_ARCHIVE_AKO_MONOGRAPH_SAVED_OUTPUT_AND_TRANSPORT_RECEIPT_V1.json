@@ -1,0 +1,1815 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-AKO",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKO_CHARACTER_MONOGRAPH.md",
+    "bytes": 68473,
+    "sha256": "9b61b4a2a7b406a188141fed0ac4f9e9b7cfa11596e3b51ee625502d8ebd85d7",
+    "git_blob_oid_of_actual_bytes": "ccdea0a0680af29740fdd1959546d4615e154b01"
+  },
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/AKO/BLUE_ARCHIVE_AKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 67336,
+      "sha256": "3ef27c47b5d40f0f9f1f52d06a72ed01b56e7b8d8a4d6738c63e55427c18978e",
+      "git_blob_oid_of_actual_bytes": "71a150233d8fe05eca294da75e184d7b589fd336",
+      "lines": 275
+    },
+    {
+      "path": "ROOT_AKO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 4429,
+      "sha256": "ab4c73fd1949e56d84f9517eb079456f71df4bad99d9ddb9f5f33c2a1eb09150",
+      "git_blob_oid_of_actual_bytes": "807e9757c2f1a9b40ddb355bb10b7b739879c8a1",
+      "lines": 67
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/AKO/AKO_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "bytes": 185253,
+      "sha256": "4791462e27e1ba81a90a4e65473af1f6e4b5191cea3a80511e90374fd0da45de",
+      "git_blob_oid_of_actual_bytes": "bc2313bfefc28c83f7b109b4b872939c2e2b0084",
+      "lines": 1464
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/AKO/AKO_COMPLETE_DELIVERY_RECEIPT.md",
+      "bytes": 2594,
+      "sha256": "4597892a9a0e68dca60d03562b2cdf946f04873447ca24e45bdead9d4073ccd8",
+      "git_blob_oid_of_actual_bytes": "27d1abe11a56c2dd794197201f8e99296224be86",
+      "lines": 21
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/AKO/AKO_COMPLETE_DELIVERY_RECEIPT_V1.json",
+      "bytes": 3010,
+      "sha256": "1b63a667cced43ca8adef261d3f7446c18536751ebf58bd348917a649c8a12f2",
+      "git_blob_oid_of_actual_bytes": "769b111a9f3514cd2aae06f30e361b1835fb636b",
+      "lines": 48
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/AKO/AKO_EXACT_OUTPUT_MANIFEST_V1.json",
+      "bytes": 3673,
+      "sha256": "038e5b29eb9dc635211da82e0cf6f44baf84bd293207a2615cc8e3deb09d8583",
+      "git_blob_oid_of_actual_bytes": "fb3ed2df50bbed0f1e25052d4797431a46eda682",
+      "lines": 58
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/AKO/AKO_POSITIVE_LITERAL_APPEARANCE_RETRIEVAL_V1.json",
+      "bytes": 123628,
+      "sha256": "b8fa10cdb5f9330cfec631ea235f406b13a13fc113db7a05f65f2b5b5963e3df",
+      "git_blob_oid_of_actual_bytes": "e51738a9d059d3f69f3cb6b78812dddf9b90a31c",
+      "lines": 3162
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/AKO/AKO_PRIVATE16_EXACT_SOURCE_BINDINGS_V1.json",
+      "bytes": 12951,
+      "sha256": "adb321861f95b62fd79a4d23cf043dd0aa57c2a90bb08a2d0332f04d7ea960de",
+      "git_blob_oid_of_actual_bytes": "3f8054ddda9ca52f8a023c38053322339620d87b",
+      "lines": 169
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/AKO/AKO_SAVED_SECTION_AND_PARAGRAPH_RECEIVING_INDEX_V1.json",
+      "bytes": 109080,
+      "sha256": "5673d9aef718e80148e3c0833976a79bbb9d39a39f7e215165c625e76e88d082",
+      "git_blob_oid_of_actual_bytes": "d65f6b2bf4e3ff627e1fda9c5651466b94bf9270",
+      "lines": 1288
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AKO_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AKO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only frontmatter authority, ROOT acceptance paragraph and declared authority-framing sentences change; no literary meaning, source endpoint, recipient boundary, source credit or identity route changes. Exhaustive saved line joins and changed ranges bind every line through EOF.",
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 3,
+      "line_sha256": "d767b7dbea10c2473779fcf6d13927f8b6c0231f881faca23b8c8df8c749df55",
+      "line_text": "scope: AKO_F004_PUBLIC_PRIVATE_COMPARATIVE_CHARACTER_RESPONSIBILITY"
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 4,
+      "line_sha256": "1363e2fe089979094bfe98d01e296edfacf35d466510285a5ddbbffc3971f6aa",
+      "line_text": "responsibility: P3-F004"
+    },
+    {
+      "frozen_line": 6,
+      "canonical_line": 5,
+      "line_sha256": "fa840d9c7724db1dce1e3daa9b5def701acd472d284e7be0b13292505bce4843",
+      "line_text": "required_home: P3-CHAR-AKO"
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 6,
+      "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+      "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 7,
+      "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+      "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 8,
+      "line_sha256": "5bd4bc3c4d452b8177912b100c86eec01c2795675e16c362318209e665203b0a",
+      "line_text": "parser_version: \"0.2.0\""
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 9,
+      "line_sha256": "1d7ba6e0fd300bd51418e2a5f53153f1d784370947082db87c63404708c05444",
+      "line_text": "architecture: \"1.12\""
+    },
+    {
+      "frozen_line": 13,
+      "canonical_line": 10,
+      "line_sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9",
+      "line_text": "method: \"1.10\""
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 11,
+      "line_sha256": "67029f901b5ef61b5105c93557732dd541bf3d91be35195edc94fdad9d141695",
+      "line_text": "source_reading_credit: \"Accepted arguments personally received at recorded whole or scoped receiving; antecedent primary custody attributed; exact binding and header checks add no primary narrative credit\""
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 12,
+      "line_sha256": "b181549213a7aae28bcc450154b6bba0d6460d8d40e1a120094d80c0eaf065d0",
+      "line_text": "model_promotion: NONE"
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 13,
+      "line_sha256": "2dd08367d419b58d5d13c5d86c65ac5dd27d7a2690d9a299e049936028c5b0fb",
+      "line_text": "merge_approval: RESERVED"
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 26,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 27,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 28,
+      "line_sha256": "4a3fb1bc4ae35056a94ecd9bea6cad28b955163f77a13ce265ec7e1c38c80bce",
+      "line_text": "# Ako — administration, wanted life and the limits of protective control"
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 31,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 32,
+      "line_sha256": "89335f358a8ac28aac13363da05f7335ec25fa542e4d1753fb0cc4b09a837c9d",
+      "line_text": "## 1. Core thesis: a capable administrator whose care must leave room for other people"
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 33,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 34,
+      "line_sha256": "939606bdbd0461a6ac81dbd02565153a4a1b6eaa286036a1b5f60cb8d2abdd9d",
+      "line_text": "Ako's central character question is how care becomes administration, and what happens when administration mistakes its ability to organize people for permission to decide what they want. Her work is substantial: she collects information, coordinates responses, prepares supplies, recognizes risks, supports an injured chairwoman and joins cooperation beyond Gehenna. She also conceals an operation, overestimates her knowledge, treats other students as usable parts and can make protection depend on removing a recipient's choice. These are connected possibilities within her practiced role, rather than evidence that every competent action is secretly fraudulent. Her most persuasive successes occur when useful work can coexist with another person's independent purpose. [V001; EDEN; FINAL; S2; E804; E818]"
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 35,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 36,
+      "line_sha256": "7ec1588c44552451a3b93f61889638d6ba7b9bd5ee14ccc956e17285294fc223",
+      "line_text": "Her own wanted life is equally important. Clothes selected partly for her own pleasure, comfortable movement, warmth, black coffee, a handmade chocolate whose reception matters, a quiet year, complaints someone will hear and company she can decline are not minor decorations around Hina. They show a student with particular ends. Some are achieved; some fail; some survive only as proposed or conditional written encounters. The significance of these differences does not depend on whether they avert a catastrophe. A coffee break can be a complete ordinary good while a mobilization remains an unfinished institutional act. [A01–A10; E810; MINI]"
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 37,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 38,
+      "line_sha256": "6e65ed16e936ab362afc8f16814a976c8745885e63bc4b288abe89f0d4085a4d",
+      "line_text": "A useful account keeps three forms of agency visible. Ako acts and can be held responsible for her own orders. Hina, Iori, Chinatsu, Kayoko, Ibuki and other recipients retain purposes that do not reduce to Ako's conception of care. Ako herself can set limits on an adult's conduct, reject a public performance, request a different next activity or refuse an unwanted disclosure. Her capacity to override others does not invalidate those limits; her vulnerability does not excuse overriding others. The relation between the two is a literary contradiction to examine, not a reason to deny either set of choices. [V001C002; G09; E804; E844; A03; A06; MINI]"
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 39,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 40,
+      "line_sha256": "ec856e7749522707ab04cad47c51d1bd7ac0bdc4e16357152d735f242bbd4051",
+      "line_text": "Loyalty to Hina organizes much of this tension but cannot explain the whole person. Ako can correctly recognize that Hina needs assistance, wrongly interpret Hina's pleasant coffee as a symptom of distress, enjoy hearing her piano, resent transferred work and welcome a particular invitation. Hina can thank her, critique her methods, apologize for work left to her and choose company. The strongest evidence supports a changing relation between two students with different access to information and different wishes. It does not establish a diagnosis, a universal hierarchy of affection or a rule that everything Ako wants is displaced desire for her chairwoman. [E804; E818016; E833; A06]"
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 41,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 42,
+      "line_sha256": "8c1d4a1152443eb2b226b2edef6f58d7880b1fddc2bc62bb761c6cb0d88d8517",
+      "line_text": "Nor is the public trajectory a completed moral conversion. Her suspended Abydos custody operation, later useful intelligence, cooperation during Eden and a voluntary Final assignment are real differences in conduct. Later contextual stories retain control, mistaken inference, rivalry and uncompleted accountability. Without an established calendar across every private, event and MINI scene, these cannot be arranged into a smooth sequence in which a dress, an adult's kindness or one happy gathering permanently reforms her. The argument is longitudinal where the story supplies an order and comparative where it does not. [V001; EDEN; FINAL; E804; E844; A11]"
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 43,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 44,
+      "line_sha256": "ba573fd390ca17612ec02b07473588aa67193319721f373ccf4d2e8efed6b110",
+      "line_text": "This monograph treats Ako as a fallible participant in shared life whose administrative intelligence can support that life or narrow it. Her institutional rank, sharp comedy and personal embarrassment matter because they help distinguish those outcomes. They do not replace the particular act, refusal, report, pleasure or cost that establishes them. Separate institutional and relationship responsibilities remain necessary: the character argument cannot by itself complete the Prefect institution, the Hina–Ako relation or the Kayoko–Ako boundary question. [G09; SCOPE]"
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 45,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 46,
+      "line_sha256": "5750360825d7dab57372df665dbf44dc8a43fe51b94c85fe38b2f1be6a43d613",
+      "line_text": "## 2. Longitudinal arc: local sequences of overreach, correction and cooperation"
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 47,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 48,
+      "line_sha256": "6bf083c4006c5bccc5a310e18e769cf743ad28f96a334daf0b55e8ca7e318b77",
+      "line_text": "Her early Abydos appearance presents a polished administrator entering a conflict already shaped by Iori's force and Chinatsu's different understanding of their mandate. Ako's apparently modest description of a secretary-like position sits beside other students' anticipation of discipline and reflection forms. The disparity reveals practical authority without making the title a legal charter. In the next confrontation she orders weapons lowered and offers an apology. That is a meaningful interruption of escalation. It is also compatible with preserving the operation that the apology helps her explain. [V001C001E020; V001C002E001]"
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 49,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 50,
+      "line_sha256": "894ce39148b0df187731f4436fbaf5324e2c99d457215b3d26db195d84b074f7",
+      "line_text": "Ako claims that Gehenna has protective interests because of intelligence, treaty uncertainty and the teacher's involvement with other schools. She can disclose enough information to make the danger intelligible while treating Sensei's location as something to secure. Her order to keep him safe and uninjured narrows the intended harm; it does not secure his freedom to remain with Abydos or decline custody. Kayoko's response limits the picture of an all-knowing planner: parts of her explanation are recognized while the supposed exact convergence is contested. Good information about a risk does not settle who is entitled to decide the response. [V001C002E001]"
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 51,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 52,
+      "line_sha256": "be5457212d48af00f465a92375a7b5ee02abdd177faa5fa1b00fb6790f72f88a",
+      "line_text": "When resistance exposes the inadequacy of her plan, Ako escalates toward reserve force beyond her own authority and conceals the operation's location in a report to Hina. The subsequent secure call, suspension, withdrawal and apology establish a bounded institutional correction. Hina identifies the political scope as belonging elsewhere rather than allowing the Prefects' force to determine it. Information management and command have enabled an unauthorized choice, and a superior interrupts it. Particular corrupted lower-order speaker clusters remain quarantined rather than converted into a more exact culpability finding than the witness supports. [V001C002E001–002]"
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 53,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 54,
+      "line_sha256": "ae13cbf897944fcdd0daa2fa63c438c22ad5684be3dd9ccbadcd44d8ea5fd056",
+      "line_text": "The following evidence complicates a simple incompetence verdict. Ako's stale Hoshino information misses discontinued activity and history; later disciplinary work makes administrative accountability tangible. A reflection-page quantity need not become an audited measure of educational value, and one stale profile does not prove that every file is wrong. Subsequent rescue participation places Ako, Hina, Iori and Chinatsu in cooperation with those they had threatened. The formation's stated number and visible speaking roster do not justify inventing an extra person or resolving every tactical position. After the crisis Ako expresses concern about Hina's treatment and hears that Sensei left hospital. Concern is real without being a medical clearance or a precise timetable of communications. [V001C002E011,017; V001C003E041]"
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 55,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 56,
+      "line_sha256": "a119c6ffffb9852d8add6f047ca2451b8444c4ab333b4476e0e144697cca1db9",
+      "line_text": "Eden brings another public sequence. Ako is surprised that the teacher came to Trinity and reproaches herself; she anticipates that a treaty could reduce Hina's burden. Hina's private wish to retire is not thereby knowledge available to Ako. Asking about Hina's future does not supply the answer that Hina defers. When violence injures them, Ako's anger identifies Trinity as the source of Hina's plight even though that accusation does not establish the missile's culprit. Her partisan explanation and valuable rescue coordination coexist. Preserving both prevents either the good act or the mistaken blame from swallowing the other. [V003C003E004,006,010]"
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 57,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 58,
+      "line_sha256": "c0d5e6fa5e43ab00d48c4d2c8f597a1984f41beab2cad3314ffb1518bc8b82b6",
+      "line_text": "The search for Hina remains uncertain rather than completed simply because Ako asks where she is. An earlier report of unconsciousness and a later empty infirmary bed are different observations. Failed contact and searches of expected places establish effort, not abandonment by the missing student. Hina's return and recognition of having leaned briefly on others change what the team can do. Later Ako offers analyzed opponent information to Ayane, who responds with familiarity. An offered handoff is an opening toward cooperative practice; the accepted account does not display the dataset's receipt, completeness or eventual effect. [V003C003E016,018–019,021]"
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 59,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 60,
+      "line_sha256": "f5c6b1e7ab9b49504b2e3550a313b8ff5431ff18d618f4ab9ed928e1dd9e4aff",
+      "line_text": "In the Final sequence Ako participates in Schale's coordinating meeting and the Prefects' work without Hina immediately present. Her rebuke against relying on Hina expresses a wish to demonstrate that the force can act independently. Chinatsu's inward counterview—that Hina's exceptional strength need not mean the others are weak—keeps the task from becoming proof that any dependence was shameful. Satsuki's suspicious approach is qualified by Sena's corroboration of actual evacuation help. The scene tests judgments of cooperation while defense is beginning, not after a narrated universal victory. [V100C002E002,011]"
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 61,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 62,
+      "line_sha256": "6bd68bca76b530d38cab623808cb979c928a1068e2cc7d4daf9cbbf48451e3f8",
+      "line_text": "Ako subsequently volunteers for a ship role after the stated learning interval. That plan shows initiative and willingness to carry an assignment. It does not verify mastery of the manual or every safety calculation. Hina chooses to remain available for ground emergencies and sends Ako with care. The separation gives the aide a function that is not merely standing beside her chairwoman, while retaining their connection. The episode with a positive Ako literal header but no character-specific account in its maintained analytical paragraphs remains a retrieval route, not a license to fabricate a new turning point. [V100C003E003,008–009]"
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 63,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 64,
+      "line_sha256": "828005ba4156f321c0abd9fc70782bbe6e47c648bfd7cbf97d07335e0db85c78",
+      "line_text": "Series 2 Volume 2 supplies its own ordered transformation and aftermath. In the opening chapters Ako reports inventory and intended ammunition surrender, recognizes that replacing Makoto leaves unresolved questions about what follows, and participates in ordinary disciplinary guidance. A quieter interval makes Hina's sleep and the possibility of retirement visible through staff assessments. These reports do not establish a dissolved office or audited reductions in every injury. After the transmitted change, Ako aligns with an outward conquest project. Iori and Chinatsu oppose that direction by defending the ordinary lives it endangers. Their differences remain choices rather than defects in loyalty. [S2C001E001–002,011,016–017]"
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 65,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 66,
+      "line_sha256": "13bc9d49a82dbfccd21a2b68b236a9f779a8f881ff9d21d488c05dd83dd9e285",
+      "line_text": "The next chapter turns administrative planning into military logistics. A forty-eight-hour bombardment calculation and estimates of supply durability are conditional forecasts; ration shortages and a halved production report expose limits within that planning. Ako faults the lack of alternatives and welcomes an outside enemy as a means of relieving Hina. A world where Hina can be happy is offered as a justification, not shown to be the necessary or shared end of the war. Acute pain, a counterbroadcast, local recovery and Ako's apology mark a real reversal. They neither isolate the intervention's mechanism nor complete reconstruction, disciplinary repair or compensation. [S2C002E004,014,017–019]"
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 67,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 68,
+      "line_sha256": "17237df12d171428d015afcffdc7b8595a782a1bfe43159ca996244a53ce204a",
+      "line_text": "These sequences support change without a single final direction. Within a dress sequence Ako can move from uncertainty to choice, receive a delivered garment, seek company and encounter an accidental tear. Within other private scenes she can accuse, hear a correction, apologize and still forget the initial paperwork request. The keys 10087 and 20008 organize distinct recorded forms; they do not date all public and private encounters or manufacture two people. Local order permits comparison of repeated tensions. It does not establish that one costume or one embarrassing game caused later public cooperation. [A01–A06; A11]"
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 69,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 70,
+      "line_sha256": "c7ae879cbd0cfd0ffa8bdca3ba627c46a4548504327eead5983949dafeb7fb43",
+      "line_text": "## 3. Public and private self: expertise, display and the visibility of a wish"
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 71,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 72,
+      "line_sha256": "96f9f27e70da682ee917c2afc94ad11325d1ac69da8760f802c9d4e163a1cc31",
+      "line_text": "Ako's formal presentation can make contested action appear orderly. She knows how to explain an operation, identify a risk, request reports and speak as an administrator. The early custody confrontation shows the power of that presentation: a courteous explanation and protective vocabulary can accompany coercion. The teacher and Abydos students are not obliged to accept her arrangement because it is articulated fluently. Yet fluency is not empty. The same habits later make medical coordination, useful briefings and cross-school information offers possible. The ethical difference lies partly in whether those forms admit recipients as participants. [V001C002E001; EDEN; FINAL]"
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 73,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 74,
+      "line_sha256": "078179b3753da405a2a37e83e26c3c4cfcb14975f7b114b81565774482cca827",
+      "line_text": "Private self-presentation also requires discrimination. The elegant agent or spy figure in clothing-associated written material belongs to Ako's imaginative account of herself. Cold, movement, appearance and another person's recognition matter within it. A stylized ideal is evidence of what she likes and how she wants to appear; it is not proof that she possesses every capability claimed by the ideal. It should not be reduced to concealment of an allegedly more authentic embarrassed student. The fantasy, practical constraints and uncertain reception all belong to her. [A07; A10]"
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 75,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 76,
+      "line_sha256": "68f155c1832d2c332f594b16346e8d5a7103e8914cbb3277d1c247e1926a4906",
+      "line_text": "Her dress choice brings two motives into one action. She does not simply accept an imposed outfit: the maintained account retains her own choice and the teacher's taste. In the following encounter she objects to unexpected exposure or fit and receives a practical response. Differences between Japanese fit and Korean length cannot be fused into one more precise garment problem. A later delivery is acknowledged, with thanks and a refusal of the extra item. The refusal is part of the encounter's positive character definition, not an obstacle that gratitude secretly eliminates. [A01–A02]"
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 77,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 78,
+      "line_sha256": "5a25d0a3c5b6fa4dcfb90f2fc38c363dba98f4777472dbd202d02227838d1e58",
+      "line_text": "Outward aggression and inward desire also differ by channel. The elaborate twenty-thousand-character report imagined in a private scene is an internal demand, not a spoken obligation communicated to the teacher. A written cafe thought is not necessarily heard by another person. Conversely, a spoken threat or complaint cannot be softened merely by finding an inward affection elsewhere. An account of Ako's private self must preserve who could know the wish, what the other person actually receives and which expression remains unavailable to them. [A04; A07; A08]"
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 79,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 80,
+      "line_sha256": "4803c08e4e6eed57415dfebf49e9eee27abb83b49142fc0e59d0a7b87e2eb0b1",
+      "line_text": "Her objections sometimes protect her against becoming an image someone else enjoys. During the dress outing, support after a near fall and an accidental tear do not become chosen exposure. Limited permission to inspect a practical problem does not authorize general bodily access. In the collar scene, agreeing to a local game is followed by objections to an expanded public walk and other terms. In the creature incident, capture, inversion, gagging and later unwanted commentary remain distress and privacy problems. The comic framing does not make the recipient's refusal inaudible. [A03; A06; E844]"
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 81,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 82,
+      "line_sha256": "a3fcc3ba74089f4f7c06e161d3ca9c121923a39dab050593f7ea6e599f080a21",
+      "line_text": "There is no clean split between a false official Ako and a true private one. Confidence, calculation, pride, pleasure, fatigue, embarrassment and wanting acknowledgment appear in both domains. She can resent labor while doing it, enjoy a compliment after denying its importance and request a review of chocolate she has minimized. These contradictions make her self-presentation negotiable. They do not entitle the reader to replace every denial with a presumed hidden yes. Specific choices and replies remain the means of determining what happens in each encounter. [A02; A07; A10; E810; E833]"
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 83,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 84,
+      "line_sha256": "b3b3489948caef3d20a6ff4bb3553e1ddfd676e6b8ed2ba9a8a39f623393d77a",
+      "line_text": "## 4. School and club role: information, hierarchy and the distribution of cost"
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 85,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 86,
+      "line_sha256": "7e118e26a757672038e6c80d79b02f0abfb17da37e323a19092343cc90eb2952",
+      "line_text": "Ako's institutional place is defined by situated authority. She has access to reports and can make practical decisions, but early Abydos establishes that her authority does not extend indefinitely into political action and mobilization. Hina's intervention matters because an administrative chain can contain unauthorized use of its resources. The corrective event also reveals a vulnerability: if the aide conceals location and anticipated discipline, rank alone does not guarantee that the chairwoman knows what the force is doing. Accountability depends on how information is transmitted as well as who holds the title. [V001C002E001–002]"
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 87,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 88,
+      "line_sha256": "9a37a3172b2ec269d1ff7c6d1f97d8bd91bce24b090295555d8a7de8bc17a71d",
+      "line_text": "The weekly Prefect reports in GROUP1901–1902 show the office's ordinary burden through an assembled meeting. Ako brings reports of Hot Spring activity, School Lunch trouble and PS68. The represented speakers inside those reports are not all present in the room. Eighteen reported items and delayed information describe a backlog and its handling, not an incidence census for all Gehenna. A damage report can be requested without roads repaired, costs paid or meals restored. Distinguishing administration from completion is essential to seeing both her labor and its limits. [G09]"
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 89,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 90,
+      "line_sha256": "90e65170676aa1211fc7833005ad8c3b8af229f3d456d9de69601e9903f4c708",
+      "line_text": "Food preferences make that workload more than an abstract queue. The lemon debate retains questions of coating, sauce and taste alongside the work of delivering meals. Fuuka's inward wish for rescue is not assent to the demands surrounding her. Ako can report the dispute without becoming its only affected person or resolving it through a report. Ordinary food has its own recipients, labor and pleasures; the scene's administrative form cannot absorb the School Lunch argument into a joke about Gehenna being difficult. [G09; S2]"
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 91,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 92,
+      "line_sha256": "14e772f3a460dd619207542200ecd6e4dbdd8b1c9fcdc247e3188e6eaa038a1e",
+      "line_text": "Pandemonium's response to training resources separates a valid request from a completed institutional result. Makoto acknowledges a lack of substantive problem while rejecting the request through a preselected punitive posture. The suggested ninety-five-percent reduction and zero allocation in a future year remain proposals; the witness's procedure must not be silently replaced with an approved budget. Iroha's later procedural response is a distinct act, and Ibuki's cocoa wish does not make her the architect of the punishment. Neither the alleged troop deployment nor the figures identify a particular MAIN event or establish an audited account balance. [G09]"
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 93,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 94,
+      "line_sha256": "495a006de95b3fd19e5e486bfc7ad956ac6537ea65e2a5af9e40244216450463",
+      "line_text": "Ako herself does not escape this friction with perfect professionalism. An intended diplomatic phrase and an audible insult misalign, and her forecast of colleagues' innocence is contradicted by subsequent testimony. The defects are local evidence of imperfect communication and knowledge. A diagnosis inferred from one comic misdelivery would add little and claim too much. Locked raw-speaker witnesses require particular care: printed Makoto/Ako, Chinatsu/Iori and Makoto/Iroha seams cannot all be resolved by selecting whichever attribution fits an assumed institutional pattern. [G09]"
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 95,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 96,
+      "line_sha256": "4d932318d87214b9dc14d93dc3f963cc30000d7127345b05c9cca9b9a21ce896",
+      "line_text": "Series 2 intensifies the resource question. Ammunition reporting, replacement-government uncertainty, food production, training failures and proposed revised plans make governance material. Ako's frustration with insufficient alternatives is not solved by saying that she loves Hina enough to try harder. Fuuka's indispensable work cannot be treated as freely available because the force needs meals. Chemical-weapon and bombardment plans remain proposed means with unverified construction and effects. Ako's ability to organize reveals a dependency on other workers and supplies that her protective rhetoric can overlook. [S2C001E001; S2C002E004,014]"
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 97,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 98,
+      "line_sha256": "3b65ea913cb9be7f2aa76c3a23ba810f9d275d2c5a90d6ef0d17fb2c41470e6d",
+      "line_text": "The Prefect institution requires its own account of protection, information and force. The Pandemonium resource and role mechanism also remains independently necessary. Ako supplies important evidence to both, but her personal embarrassment or apology cannot settle their staffing, delegation, punishment, repair and consultation questions. A character monograph can explain why the aide acts as she does while leaving the institution answerable for what its arrangements allow. [G09; S2; SCOPE]"
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 99,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 100,
+      "line_sha256": "c54f3d7448afbe04be3f00bce07c21324cde20bdfdb02b165ae8ab96663e153f",
+      "line_text": "## 5. Ordinary life: pleasure, failed plans and reciprocal attention"
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 101,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 102,
+      "line_sha256": "c50370bfc4d8cc219b65f3ff4e5175789374abf80d7ac57c7b20e9cd2518b63a",
+      "line_text": "The dress encounters make an ordinary end unusually explicit. Ako wants to select clothing, have it fit, move comfortably and spend wanted time with someone. Her first uncertainty does not cancel the later decision to choose. A store's hold and proposed purchase tomorrow are not a completed arrival in the outfit, while the later delivery acknowledgment is a real event. This distinction prevents imagined success being granted to a plan while preserving the value of planning itself. Wanting a dress is part of the character before every practical problem is solved. [A01–A02]"
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 103,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 104,
+      "line_sha256": "9a390ecd4d937c146e3b625045f910e653d8d50afa4b3c708e2497b6e837129d",
+      "line_text": "The outing continues that ordinary sequence rather than converting it into evidence of general rescue. Her desire for comfort and company meets a near fall and an accidental tear. Support is given; the garment's condition and possible repair become concerns. Assurances about a repair or party do not certify the fabric or establish every later occasion. The return to Gehenna and Schale bounds the shared time. A promise to treasure the relation or a future gift remains prospective, with the Japanese and Korean formulations preserving different degrees of explicitness. The incomplete wish is still a wish the monograph must carry. [A03]"
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 105,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 106,
+      "line_sha256": "d7e48f32b7fafe8df10b4723891cd3fda5ca26e940bafdfe6a99ab15786d6c4b",
+      "line_text": "Coffee provides another register of particular pleasure. In the gift encounter, document help and chocolate rewards are represented, but a Japanese indefinite quantity and Korean six do not establish one universal labor policy. Ako acknowledges that the chocolate is handmade. She minimizes the matter and then asks for a reaction, exposing a wanted reception rather than proving that the gift was worthless to her. Requested espresso becomes a narrated slow coffee-and-chocolate break with complaint listening. This ordinary result is substantial without a declaration that all paperwork is finished or all distress cured. [E810035]"
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 107,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 108,
+      "line_sha256": "a96824acac4b2172682122d54532db071f448b9d4627a9aa8dcd0e6970f15819",
+      "line_text": "Coffee has comic and relational functions without becoming a secret code. At PS68, Ako requests black coffee. Aru wants the coolness she associates with bitterness and then coughs when she actually drinks it; Kayoko suggests milk. The suggested milk is not shown to be consumed. The contrast allows different people to have different tastes and self-images in one encounter. Ako's taste need not be borrowed from Hina to matter, and the scene's small discomfort should not disappear merely because it changes no public crisis. [MINI15030]"
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 109,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 110,
+      "line_sha256": "f462a3826b1445e87e23407a72449348bb5b67e2bb510a035ac3f91340fd5512",
+      "line_text": "Her bad-luck account is a more unsuccessful ordinary day. Elevator trouble, a long climb, lost food, rain and a detour are her reported experiences; the account does not measure each distance or supply an independent record of every event. The teacher's counterexample involving bread and harm complicates the assignment of fault. Ako leaves somewhat refreshed, which is a represented change in the encounter. It does not transform the day into good luck or establish permanent emotional recovery. An unclothed wager is refused and not performed; the next meeting is not a standing appointment simply because another meeting is proposed. [A05]"
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 111,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 112,
+      "line_sha256": "6bfa3a58666647a5056c9dabfff91e09311fd21ef25bacddb38331593c8d5102",
+      "line_text": "Written conditional wants extend the portrait beyond achieved scenes. An all-night crossword birthday and a Christmas walk may be desired or proposed without a separately displayed adult assent. A perfect birthday plan, sweets, assistance after work and a quiet year retain future or conditional form. Event shop lines request supplies and support within UI conditions; repeated text across controllers is not repeated historical transactions. The exhausted wish for coffee after event work is not automatically a consumed cup. These distinctions keep failed, imagined and conditioned pleasure legible rather than admitting only narrated successes. [A07–A10]"
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 113,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 114,
+      "line_sha256": "ed86cd9ddf7dae86834f7f0841675df50c7c087e60fd1db0ce8edab5c08417ce",
+      "line_text": "The MINI birthday story supplies a different degree of completion. Budget anxiety, a dorayaki order, delivery expectation and cake crossing form a local February 18–19 sequence without fixing a year or its position in MAIN. Hina initially mistakes the outing for a cover for leave and apologizes when Rumi explains. Staged familiarity does not prove a long earlier friendship. The cakes are exchanged, leaders grant local first-name familiarity and the narrator represents the party as successful. Proposed karaoke and food present should not be embellished into every song completed or every item eaten. A completed party is an actual ordinary result, not merely preparation for another crisis. [MINI05010–05030]"
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 115,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 116,
+      "line_sha256": "3544b67f0160e051bf44f442c65ef17de96d7914c33f71f2c400c7ab3f23dca2",
+      "line_text": "Ako's participation in that result belongs to distributed care. Chinatsu's medical contact and Saya's mediation are not automatically a formal international protocol. Mina asks for help; Ako and Mina volunteer toward the gathering's play; Sensei arrives later rather than causing every preceding act. Reijo can correct an assessment of the atmosphere. Kisaki's explicit thanks to Mina and Ako anchors the invitation even where nearby speaker seams require caution. The pleasure is jointly produced, with local familiarity and a wanted celebration as ends in themselves. It neither settles institutional accounts nor establishes universal cross-school friendship. [MINI05020–05030]"
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 117,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 118,
+      "line_sha256": "7c66ed666c5f0c90bb481ff9b1e46c594d024e44d8d0fae6a8b29483691fdde2",
+      "line_text": "A cafe emergency sketch shows why ordinary evidence includes relinquished ideas. The written source-local declaration of constant emergency is set beside the corrected G09 comparison, where the proposed use of that burden is incomplete or set aside because it would burden Hina. It is not an executed injury or a care benefit. Failure to complete a scheme matters to what Ako actually does; it also leaves intact the comedy of finding ordinary life difficult to recognize outside the office. Retaining that abandoned possibility prevents a lurid phrase from becoming an event the source never depicts. [A08; G09-C]"
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 119,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 120,
+      "line_sha256": "077d316802fedeee46a3a8ced9362fc0dff51015f88959e41fae5133bf831b10",
+      "line_text": "Ordinary life is not an interval in which the analysis waits for the real character to resume. Choice of dress, unfinished games, delivered thanks, cocoa, handmade food, quiet company and coffee preference change the range of ends attributable to these students. Ako can be a burdened worker and a person who likes things. Her work may shape access to those things without exhausting their value. Sparse conditional records belong with their actual scope: lack of a crisis consequence is no reason to discard them. [A01–A10; E810; MINI]"
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 121,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 122,
+      "line_sha256": "4566f576018762b428ca561adfd8640a72f404a824ea483757e36286c13b15fd",
+      "line_text": "## 6. Crisis behavior: useful protection, coercive methods and adverse cases"
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 123,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 124,
+      "line_sha256": "a619af192f1aee2c452922dc784c397c2dde66bc2eb0a188e8d2d158961ab7dd",
+      "line_text": "The Abydos operation is a decisive adverse case because protection narrows rather than preserves another person's agency. Ordering the teacher secured safely and without injury indicates a limited intention about bodily harm. It does not make custody wanted, render the threatened suppression of his companions voluntary or validate the concealed escalation. Ako's ability to lower weapons momentarily and explain her concerns is real; subsequent limits on choice remain real as well. A reader need not choose between acknowledging those competent acts and recognizing an unauthorized operation. [V001C002E001–002]"
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 125,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 126,
+      "line_sha256": "24466923c7aec38a6e15c3cd64a85391f78d61f33d81252fd47a204fe76e7201",
+      "line_text": "The summer rest event develops a quieter version of the mechanism. Ako begins from an overinterpretation of Hina's coffee and converts worry into an arrangement of people as pieces or gears. Hidden danger and suppression of contrary wishes help create the chairwoman's experience. Iori's objection and Chinatsu's different preparation cannot be merged into uniform approval. Hina's good coffee and enjoyment correct the initial stress inference, and her recognition of the attempt at rest does not endorse every means. Fatigued peers and a prolonged training order remain costs, not consent inferred from a happy superior. [E804001–012]"
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 127,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 128,
+      "line_sha256": "7e3804515be320ff8d74bffdfcad3668f44974f214e3bf16277ed01feef0fcc6",
+      "line_text": "The instructor question is more mixed. Ako wants Hina's chosen instruction to succeed and can offer useful support, while envy and pressure shape how the work is allocated. A conspicuous rights objection printed under Ako is anchored by the retained raw witness to Iori; it cannot be cited as Ako's self-critical declaration. The acting-chair rhythm demonstration explicitly restricts refusal. The written mini-game prologue has its own source identity and cannot be placed after the previous ending merely because its number is higher. Protection, task design and denial of choice remain linked without a fabricated calendar. [E804009,013]"
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 129,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 130,
+      "line_sha256": "e460324925f6ffd88191ea7174266f12024fb5c60c98cb08ee947a96c14f0ab0",
+      "line_text": "Eden provides an adverse case in judgment rather than the desire to help. Ako's blame of Trinity is not an established causal finding about the attack. At the same time, she participates in search and coordination amid injury and broken communications. These actions have recipients and practical value. Turning her partisan error into proof that she contributed nothing would erase that value; using the contribution to validate the accusation would erase the error. Her emotional allegiance helps explain the response without settling the truth of the explanation she gives. [V003C003E010,016,018–019]"
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 131,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 132,
+      "line_sha256": "baa7e671aa80265de4bb0c7646253c78eb6ebe93d3d833d059ccd1d5e4b16273",
+      "line_text": "The creature incident supplies important contrary evidence against an invariant of indiscriminate damage. Ako admits an ulterior motive for inconveniencing the adult while exercising restraint toward collateral effects. A mobilized weapon and invoked Schale request do not establish that a charge was paid. Capture, inversion, gagging and a request for help interrupt her command capacity. Hina's exact delegation to the teacher is a local response to incapacitation, not a universal grant of command. Juri's decoy, slowing and the firing sequence distribute the solution across people rather than attributing it to Ako's will. [E844005,008–009]"
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 133,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 134,
+      "line_sha256": "5d94d116773809e96c099fa08f2e7add31de0c2992fe1548333877825baa3955",
+      "line_text": "Ako's attempted revenge exposes her to another attack, and ensuing commentary raises a distinct recipient boundary. Discomfort and requests to stop cannot be converted into approval of the joke. The narrative rejects a literal death interpretation and closes the immediate incident, while leaving building repair, compensation, showers and medical outcomes unestablished. Later shared cooking and pancake eating are positive ordinary acts after explicit room to refuse; Fuuka's workload is not thereby relieved. A crisis ending can be locally complete and leave work or dignity questions open. [E844010]"
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 135,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 136,
+      "line_sha256": "d18b96429cbb0e1b9978fcbb635014a56786c85c465c91faf6a3930220bf6517",
+      "line_text": "Series 2 makes the protective failure much greater in scale. Ako's relief at having an enemy against whom Hina can act directs a public world toward one person's supposed happiness. That claim is neither shared consensus nor proof that war is necessary for Hina. Ration shortages, production reports and conditional military projections show that the imagined world has material recipients and constraints. Altered experience and a transmitted intervention qualify psychological attribution, but they do not make the visible proposals harmless. The later apology recognizes a rupture; repair, discipline and equipment recovery remain ahead. [S2C002E004,014,017–019]"
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 137,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 138,
+      "line_sha256": "8d8e069c545491ff94f4fedfac2870ad55bc4fec87d075b7c0e10d68e24f97fd",
+      "line_text": "The strongest conclusion is comparative: Ako's work is protective when it supports an actual, bounded need while allowing the person concerned to remain a participant; it becomes coercive when her account of safety or loyalty substitutes for that person's decision. This is a character judgment, not an operational reconstruction model or prediction rule. It has countercases, distributed causes and unresolved consequences. Its value lies in making the opposing outcomes retrievable in one account. [V001; E804; E818; E844; S2]"
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 139,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 140,
+      "line_sha256": "b8a538cb9b28d3c13808b013285be49db7f957f903b4dc98fd6af71e8a796af6",
+      "line_text": "## 7. Sensei relationship: negotiated company, reciprocal care and durable refusals"
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 141,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 142,
+      "line_sha256": "b5babaec1bcc9205b92fedce246f5a759db37d7cf53c0dcd5ff77e8c780de230",
+      "line_text": "The teacher first appears to Ako as a politically consequential recipient of protection she believes she can arrange. Early custody makes that belief contestable. Later private encounters give both people more particular positions: one can ask for paperwork help, offer or withhold a wager, listen to complaints, receive a gift or decline a public activity. These changes in the kind of encounter matter without proving that every private meeting came after the public correction or caused it. Institutional and ordinary relations are comparable but not interchangeable. [V001C002; A01–A06; E810]"
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 143,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 144,
+      "line_sha256": "d9bd26f51d2f555ded6ee21236162d37cfe3f1a99aab4a1c93487accd57a6198",
+      "line_text": "The paperwork encounter demonstrates reciprocal fallibility. Ako requests document help, objects to an apparent interruption and makes accusations about sabotage that are countered by coincidence. Her internally imagined report is not a communicated demand. Proposed cameras and conditional physical penalties are not completed surveillance or agreed exercise; a refusal matters. When she reports construction information, that report is not an independently certified engineering finding. Apology and excitement can restore the local exchange while she departs having forgotten the initial work request. The teacher has not completed the paperwork merely by being forgiven. [A04]"
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 145,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 146,
+      "line_sha256": "f794d814ac4caebbe4aea0ccde2526c320e11a47fc26878a3fbe8753ca94a079",
+      "line_text": "In the bad-luck scene the teacher can introduce contrary experience rather than functioning only as an absorber of Ako's frustration. Bread and harm complicate her attribution of the day's difficulties. Represented partial refreshment is a limited result of conversation, not a treatment outcome. The rejected wager and uncertain next meeting mean that continued attention has a boundary. These ordinary failures help explain a relation in which neither party has to perform flawless wisdom or gratitude to remain a participant. [A05]"
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 147,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 148,
+      "line_sha256": "e154e53c6e1291f7c58a6ce3bc11a49588867dc69651c7fdf799933e7ef995b0",
+      "line_text": "The collar scene demands careful local reading. Ako brings stress and hostility toward a situation; the adult's alleged responsibility for an outage is contested. A particular collar-and-barking game is accepted within stated circumstances. Alternate loss branches and a later rules dispute remain alternatives and disputes, not one cumulative performance. Japanese rule language and Korean lying-down language do not justify a combined expanded action. A public walk is refused. The agreed local game cannot become authorization for a public display, indefinite duration or any humiliating extension another person proposes. [A06]"
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 149,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 150,
+      "line_sha256": "df81bb428266e31bba7a06e44f5a7b34c8eb2494d97c976f4557c3fc3dae526d",
+      "line_text": "The ending does not dissolve these distinctions. An apology and represented refreshment permit local reconciliation and a return to Schale. The collar's accidental location at the teacher's home leads to a return offer and a changed request that it be kept. The new request is a real choice; it does not retroactively authorize the refused walk or certify future use. At the consequential next-activity seam, Japanese asks what Ako wants next while Korean asks what to do next. The recipient's wanted next action is explicit in the former; both readings remain in the record without transforming the second into identical wording. [A06]"
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 151,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 152,
+      "line_sha256": "79843b7144cdcff89436f79929bb49348a33e6b90b8f4719ecee81f8ab187151",
+      "line_text": "Dress-related company gives gratitude a specific object. Receiving a delivered garment, accepting practical support and thanking someone do not produce unlimited access to her body or every future outing. Her refusal of an extra item and the limits of practical inspection shape the relationship as much as the compliment does. A promise to treasure the relation can coexist with uncertainty about repair or the next gift. The teacher's support is useful insofar as it answers the particular problem and leaves room for the student to say what follows. [A02–A03]"
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 153,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 154,
+      "line_sha256": "202d34d156874dfd07e2b69ac3dc5ef484b08e5f88e0e3f7a8adc023509e1c07",
+      "line_text": "The handmade chocolate encounter gives the adult something to receive rather than only something to fix. Ako wants a reaction, requests espresso and participates in a narrated slow break with conversation. Her denial that the handmade detail matters is followed by behavior that gives reception importance. This supports a reading of pride and tentative acknowledgment seeking. It does not establish that every denial in every scene means the opposite, that the adult gives an unprinted flavor verdict or that romance is the sole explanation. A gift and an attentive break have a complete ordinary significance. [E810035]"
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 155,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 156,
+      "line_sha256": "7f66eec3d3c0ebbdadb968b6360b73b27590a48626aa6f919d0209d99b378f3e",
+      "line_text": "Nor is the adult the unique origin of Ako's care or change. Peer cooperation at the festival, Hina's apology and invitation, cross-school preparation for the birthday and Ibuki's chosen PS68 company all have their own actors. In the party, the teacher arrives after important work and invitations are underway. The adult can join and contribute without appropriating those earlier choices. The relationship with Sensei is one meaningful direction within Ako's life, not the route through which every other bond must receive its value. [E818016; MINI05030; MINI15020–15030]"
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 157,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 158,
+      "line_sha256": "2b38a9c874d988279c64fb1982aaac4d5b30c818f015762481ec865075023caf",
+      "line_text": "## 8. Major peer relationships: loyalty alongside differentiated ends"
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 159,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 149,
+      "canonical_line": 160,
+      "line_sha256": "27270aa870b91f79337cf71a9050bf4b5471f7b57f104f45277d5fa487c5c7db",
+      "line_text": "Hina is a central peer, superior and recipient of Ako's attention. The rest event shows how loyalty can misread her: good coffee is interpreted as stress, and a scheme for rest comes with concealed risks and demands on juniors. Hina corrects the inference, recognizes the wished-for rest and criticizes the means. That combination matters. Ako's care has something genuinely wanted at its center, but Hina's pleasure cannot retrospectively speak for every person used to provide it. The relation becomes more intelligible when appreciation and accountability coexist. [E804]"
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 161,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 151,
+      "canonical_line": 162,
+      "line_sha256": "47a8f1c878f5bae79fdfaf7793202a14b7f0194d2e39192ededde0b8473fad7f",
+      "line_text": "The festival coda supplies a reciprocal arrangement. Ako worries about Hina's absence without doubting her strength, handles reported trouble and replacement-athlete work, and encounters colleagues' practical help. Hina apologizes for unexplained absence and work shifted onto the aide. A medical-rest report is not a complete cure, and an inward warning or lie is not automatically known to Ako. Hina's appraisal of having previously acted alone and now experienced change is local to this event. The campfire invitation gives Ako an opportunity to ask if participation is allowed and to accept; the scene does not display the entire subsequent attendance. [E818016]"
+    },
+    {
+      "frozen_line": 152,
+      "canonical_line": 163,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 153,
+      "canonical_line": 164,
+      "line_sha256": "a2fb99461798a07957f84fe763e498e03326323a4e4e52da41ae76d9a1f478ea",
+      "line_text": "Music and clothes differentiate their wishes. Ako wants to hear Hina's piano while objecting to an unreasonable demand. Hina can choose a performance after an adult explicitly makes refusal possible. Later Ako resents biased publicity and extra work, welcomes trust, objects to the burden and enjoys differentiated praise of her clothing. Hina's performance is textually represented and receives public recognition, including Ako's particular response, without the analysis inspecting its audio or technique. The wished-for experience is neither a labor invoice nor proof that all institutional pressure has disappeared. [E833004,008–009]"
+    },
+    {
+      "frozen_line": 154,
+      "canonical_line": 165,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 155,
+      "canonical_line": 166,
+      "line_sha256": "17fa5cb12d4251b5414e07c85beb01fcc1239b906ad8bcb91fd36e44096aad1f",
+      "line_text": "Iori and Chinatsu are not interchangeable extensions of Ako. Early custody places them in different understandings of mandate; G09 exposes fallible expectations and effects of reports. Iori's holiday work objection persists even when Ako correctly stops a fight at Schale. In the rest event, rights objections and different preparations must be attributed to the actual witness rather than pooled as one subordinate voice. In Series 2, both reject outward conquest, and Chinatsu's reflection on Hina's exceptional ability supplies a separate interpretation of team dependence. Their resistance is a substantive peer position. [V001; G09; E809009; E804009; S2; V100C002E011]"
+    },
+    {
+      "frozen_line": 156,
+      "canonical_line": 167,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 157,
+      "canonical_line": 168,
+      "line_sha256": "fc097f99eb58d89bc658f4310b805d652762e6a25970f8de6921b5e38377301c",
+      "line_text": "Kayoko makes information asymmetry visible. Early Abydos recognizes parts of Ako's account while contesting its completeness. In the later briefing, formal barbs coexist with attempts to understand fraud, financial movement and an unknown adversary. A hedged righteous-bandit label is not acquittal, and unknown purpose remains unknown. Ako's temporary allowance of a fight and order to detain everyone do not show every detention completed. Their interaction supports a directed question about administrative boundaries and PS68, not a simple transition from enemy to unconditional ally. [V001C002E001; E809009,015]"
+    },
+    {
+      "frozen_line": 158,
+      "canonical_line": 169,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 159,
+      "canonical_line": 170,
+      "line_sha256": "ca34cc6d2af173792dcf2326b917465a7341b2952c3ba5589be62d388954b628",
+      "line_text": "The Ibuki visit gives that direction an ordinary setting. Ako initially mistakes voluntary departure and chosen PS68 play for kidnapping, then receives contrary evidence from the child herself. Ibuki wants to stay with Haruka and continue company. Ako's criticism of a cramped office and distractions coexists with finding it acceptable under conditions. Conditional tolerance and a threat of future arrest do not amount to immunity. Kayoko's business-registration statement is not an external audit, and Aru's objection to disclosure of their address does not vanish because Ako claims official knowledge. Their boundaries remain different even during coffee together. [MINI15020–15030]"
+    },
+    {
+      "frozen_line": 160,
+      "canonical_line": 171,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 161,
+      "canonical_line": 172,
+      "line_sha256": "fa9260cdd56bf1cd7a3b37dfe9b38531f070ed876b05fdbc2bbbafb05e71dba0",
+      "line_text": "Ibuki's own direction changes the response to Pandemonium. The original offense concerns pudding and an unwanted constraint on the child's pleasure. Refusal to return is not proof of kidnapping; later forgiveness follows Makoto's apology and a specific finger promise about pudding. That forgiveness does not prove every future promise kept or ten additional puddings delivered. Ako can help locate the child without receiving authority to overwrite the child's account of where she wanted to be. Her protective position is corrected by the person she intends to protect. [MINI15010–15030]"
+    },
+    {
+      "frozen_line": 162,
+      "canonical_line": 173,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 163,
+      "canonical_line": 174,
+      "line_sha256": "afd793ebd2709a285298a30d3d37d18e9d88c58ff35d5632b47d28c1948188f7",
+      "line_text": "The birthday crossing makes room for cooperation across school rank. Hina's misreading of leave is corrected by Rumi, Kisaki's thanks recognizes invitations, and Mina, Chinatsu, Saya and Reijo contribute different knowledge and action. Ako belongs to this differentiated arrangement. Local first-name permission and a successful gathering are evidence of chosen familiarity in the encounter. They do not establish a universal interschool agreement, a long friendship between every participant or a complete protocol governing future care. [MINI05010–05030]"
+    },
+    {
+      "frozen_line": 164,
+      "canonical_line": 175,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 165,
+      "canonical_line": 176,
+      "line_sha256": "6ab3a19fc096e27dad4a8dc4632e2ad38a098a6493af17f769ae8466c096cb38",
+      "line_text": "Other recipients keep administrative action from being narrated only as exchanges among named leaders. School Lunch workers, injured students, trainees, people whose premises are damaged and those threatened during detention each give protection a cost and perspective. Reports and anonymous roles must stay source-local rather than become convenient merged people. Peer and institution homes named below preserve questions that this account can identify but cannot finish merely by discussing them. A comprehensive Ako monograph is compatible with continuing independent work on those directed relations. [G09; E804; E844; SCOPE]"
+    },
+    {
+      "frozen_line": 166,
+      "canonical_line": 177,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 167,
+      "canonical_line": 178,
+      "line_sha256": "276c381a38b0cd2d66310f8232345a597f719fa7daaf337307e81912516c963b",
+      "line_text": "## 9. Language and voice: authority, intimacy and written channels"
+    },
+    {
+      "frozen_line": 168,
+      "canonical_line": 179,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 169,
+      "canonical_line": 180,
+      "line_sha256": "a19e1d0002fb5af4dce73d3535715306513b82a2f633b2efe887a66b63415e29",
+      "line_text": "Ako's official language turns situations into reports, permissions, forecasts and tasks. The movement between a secretary-like self-description and practical command makes administrative modesty unstable. Protective custody and safe securing can describe intended bodily limits while concealing a decision about the recipient's location. The reader must ask what the words allow the speaker to do, not simply whether their tone appears polite. The orders to lower weapons, conceal an operation and mobilize force have different consequences even within one composed persona. [V001C002E001–002]"
+    },
+    {
+      "frozen_line": 170,
+      "canonical_line": 181,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 171,
+      "canonical_line": 182,
+      "line_sha256": "31182ad15419703806d225858ec91a28cd9e69e7982e6b61a6c123ee1cba6cca",
+      "line_text": "The rest event sharpens that vocabulary through pieces, gears and refusal rights. Figurative administration becomes a way of assigning people to produce another person's rest. The rhetoric can be funny and still carry a choice removed from a junior. Particular raw-speaker correction is crucial: the rights objection printed under Ako belongs to an Iori witness. Giving Ako that objection would invent self-criticism precisely where the comparison needs a contrary peer. The mechanism of care and the person objecting to it must both survive retrieval. [E804002,009,013]"
+    },
+    {
+      "frozen_line": 172,
+      "canonical_line": 183,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 173,
+      "canonical_line": 184,
+      "line_sha256": "4e6c1236a9dce55a883dc418d9414b7e30c85f554bd576e953922cfcb5a3677c",
+      "line_text": "Private language introduces uncertain forms of self-display. Denial followed by a request for a chocolate reaction or a compliment accepted after reluctance can support embarrassment and wanting acknowledgment. It does not supply a rule that all denials are false. An inward twenty-thousand-character demand is not a spoken order, and cafe thought is not publicly available dialogue. Conditional written greetings, event lines and shop messages are not one continuous conversation. Distinct channels are part of the character's representation, rather than technical clutter to remove from an allegedly cleaner narrative. [A04; A07–A10; E810035; E833008]"
+    },
+    {
+      "frozen_line": 174,
+      "canonical_line": 185,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 175,
+      "canonical_line": 186,
+      "line_sha256": "4781459c22c600c128a0f25d6aa00639d9065975434164dbb003c98c2d4ee44f",
+      "line_text": "Locale differences have interpretive force. Fit and length, taking a hand and an escort, the next wanted action and the next thing to do, rule language and a lying-down direction are adjacent but nonidentical formulations. The accepted comparison preserves Japanese difficulty in seeing Hina alongside a Korean busy formulation; neither proves objective absence of institutional care. The differences support bounded descriptions, not a composite sentence with every implication intensified. No performed voice, intonation or body position is inferred merely because a written line seems vivid. [A02–A03; A06]"
+    },
+    {
+      "frozen_line": 176,
+      "canonical_line": 187,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 177,
+      "canonical_line": 188,
+      "line_sha256": "e6486eddf628069af1cee8e3cd09329efae1c9bde44ab46700e25b9a519d653c",
+      "line_text": "Public raw-speaker seams require a particular method. G09 includes retained Makoto/Ako, Chinatsu/Iori and Makoto/Iroha mismatches. The festival coda contains lines printed as Ako whose Hina witness secures the invitation direction. MINI shifts and assembled reports can change who is represented without changing who is physically present. These are not grounds for declaring every source unusable. They are reasons to cite the inspected witness for a consequential attribution and leave fine attribution bounded where it does not support a claim. [G09; E818016; MINI]"
+    },
+    {
+      "frozen_line": 178,
+      "canonical_line": 189,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 179,
+      "canonical_line": 190,
+      "line_sha256": "ab65afae2108be7bfe9a7ad79625413b57b723e238ae0f9a514bd69bc136caa1",
+      "line_text": "The resulting voice is plural in setting while remaining a retrievable character direction. Ako can be formal, cutting, proud, flustered, apologetic and particular about pleasure. Written praise does not verify competence; written irritation does not eliminate affection; affectionate address does not dissolve refusal. This account examines those differences through words and channels. It does not claim an invariant idiolect, an inspected performance or an automatic mapping from every recorded speaker token to one biological person. [A01–A10; V001; E833; MINI]"
+    },
+    {
+      "frozen_line": 180,
+      "canonical_line": 191,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 181,
+      "canonical_line": 192,
+      "line_sha256": "d12eba2d05f0c6cb772f2c93b425711777824c62e2f0e4a49152a25027f2e3fb",
+      "line_text": "## 10. Competing readings: alternatives tested against adverse evidence"
+    },
+    {
+      "frozen_line": 182,
+      "canonical_line": 193,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 183,
+      "canonical_line": 194,
+      "line_sha256": "cba0a3713f6de38ab4e84f6190d81902622629e78d947a432c7dc69a15f22922",
+      "line_text": "**The flawless, selfless aide.** The best case is sustained workload, concern for Hina, practical festival work, search under injury and later coalition assistance. Those acts warrant taking competence and loyalty seriously. The reading fails when selflessness makes another person's choice irrelevant: unauthorized custody, junior manipulation, false stress inference and resentment over transferred work remain. Clothes, coffee, gifts and quiet wishes make the claim of having no personal ends descriptively wrong. The stronger account is capable care that remains answerable for its methods and permits independent pleasure. [V001; E804; E818; A01–A10]"
+    },
+    {
+      "frozen_line": 184,
+      "canonical_line": 195,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 185,
+      "canonical_line": 196,
+      "line_sha256": "2020a686d9918539556f97ee1385fb4f3d3019f9019e8de9706ff7f8c3ed817d",
+      "line_text": "**The controller whose care is only a pretext.** Early concealment and pieces-and-gears arrangements provide substantial control evidence. Series 2's prioritization of Hina's imagined happiness over other lives makes the risk severe. Yet actual help, a reciprocal coffee break, collateral restraint, another person's invitation and a corrected response to Ibuki cannot all be reduced to identical domination without evidence. The alternative retains a real failure mode but turns it into a universal motive. Specific recipient choices distinguish when care is practiced from when it is imposed. [S2; E844; E818016; E810; MINI15020–15030]"
+    },
+    {
+      "frozen_line": 186,
+      "canonical_line": 197,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 187,
+      "canonical_line": 198,
+      "line_sha256": "79912a06f07c49117e38b05d3fad30a7b7b2753f6917c4bf16d7ce20753b406d",
+      "line_text": "**A clinical or exclusive fixation on Hina.** Frequency and intensity of Hina-related speech, pride in service, worry and envy make concentrated loyalty a plausible organizing reading. They do not establish a diagnosis or total inability to value other things. Ako's wanted dress, spy self-image, ordinary company, handmade gift and coffee preference have independent content. Hina remains a peer who can change interpretation of an event. The literary claim can be that loyalty often narrows Ako's attention; the clinical or exclusive explanation adds claims the selected written evidence cannot adjudicate. [E804; E833; A01–A10; E810]"
+    },
+    {
+      "frozen_line": 188,
+      "canonical_line": 199,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 189,
+      "canonical_line": 200,
+      "line_sha256": "4e44fd9b944eb2cb27b14760396fa26dbfbdf91b9aa2f8b584559b603ae2426a",
+      "line_text": "**An official identity redeemed through a linear private romance.** Adult assistance, apologies, gifts and acknowledged company offer coherent local movements toward trust. They do not date every source form or explain the cause of subsequent public behavior. Private correction can end with forgotten work; an agreed game can retain refusal; later comparisons show coercive schemes. The reading mistakes a thematic connection for an established calendar and causal chain. Ordinary reciprocity remains significant without being the cure that organizes the whole series around the teacher. [A01–A06; V001; E804; E844]"
+    },
+    {
+      "frozen_line": 190,
+      "canonical_line": 201,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 191,
+      "canonical_line": 202,
+      "line_sha256": "426404e7d11378998c56fe39d2f8b2323100af4041d4a9ee084065ba74008384",
+      "line_text": "**The comic body or humiliating game is outside serious character evidence.** Accident, collar play, inversion and another attack are presented with comedy, and exaggeration warns against inventing literal death. Excluding them nevertheless removes clear boundaries over public display, rule changes, duration, privacy and practical inspection. The same principle applies to coffee tastes and failed games: low consequence does not mean low value for a person's wanted life. A serious account preserves comic form and recipient agency without demanding that every joke conceal trauma. [A03; A06; E844; MINI]"
+    },
+    {
+      "frozen_line": 192,
+      "canonical_line": 203,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 193,
+      "canonical_line": 204,
+      "line_sha256": "70c5906f25b6e2491926b1e02c5daad2f6dab3e5c7bee0a44fd2966870f6a07e",
+      "line_text": "**A happy outcome or gratitude validates the means.** Hina enjoys rest, Ako thanks the adult, a party succeeds and Ibuki forgives a pudding offense. Each response establishes something about a particular encounter. It cannot answer for fatigued juniors, authorize an unwanted walk, certify future promise keeping or settle institutional costs. This reading is tempting because warmth often follows friction. Its error is to give one person's pleasure jurisdiction over another person's refusal, or make a local assent durable beyond its stated object. [E804; A02–A03; A06; MINI05030,15030]"
+    },
+    {
+      "frozen_line": 194,
+      "canonical_line": 205,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 195,
+      "canonical_line": 206,
+      "line_sha256": "0321d465014a69d43bfe84725c4293611964f93f94fbf89816e66f5aa18c543f",
+      "line_text": "**Series 2 reveals Ako's essence, or exempts all her choices.** The altered conquest alignment and logistical proposals cannot be erased; Iori and Chinatsu supply contrary positions. Abrupt intervention, local pain and recovery also prevent an unqualified claim that the episode removes a mask and exposes an unchanged personality. The opposing reading that altered conditions mean complete exoneration erases the visible rupture and subsequent apology. The adequate account retains acts, adverse recipients, uncertain mechanism and uncompleted repair without diagnosing an authentic inner self or adjudicating every degree of responsibility. [S2C001E016–017; S2C002E004,014,017–019]"
+    },
+    {
+      "frozen_line": 196,
+      "canonical_line": 207,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 197,
+      "canonical_line": 208,
+      "line_sha256": "fc8e38e1d769ac86d778422d752d2ab195ec5e4039c77ee31b7acb428f17239d",
+      "line_text": "**Every denial is coy agreement.** Wanting a chocolate reaction after minimizing its importance and accepting a compliment give this interpretation limited local support. It fails on explicit refusals of extra items, public walking, unagreed expansions and unwanted commentary. The reader must distinguish embarrassed self-description from an actual decision about another person's next act. Otherwise the interpretation destroys the evidence by translating every possible objection into assent. Hesitation, desire, refusal and changed choice must each appear where the source gives them. [E810035; E833008; A02; A06; E844010]"
+    },
+    {
+      "frozen_line": 198,
+      "canonical_line": 209,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 199,
+      "canonical_line": 210,
+      "line_sha256": "cd54311a7f6392ef37256e7d0af32816280851b7dc4a4d684e9b0c43fa7e07a7",
+      "line_text": "**A rational institution makes her forecasts true by definition.** Inventory, budget, time estimates and intelligence offer apparent measurable certainty. The evidence includes stale information, backlog, conditional projections, unknown adversary purpose and pending procedure. A report can be sincere and useful without verifying every quantity or completing every transaction. Ako's expertise is situated within these limitations. This rival fails because administrative fallibility is part of the character's responsibility and the institution's dependence on others. [V001C002E011; G09; E809009; S2C002E004,014]"
+    },
+    {
+      "frozen_line": 200,
+      "canonical_line": 211,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 201,
+      "canonical_line": 212,
+      "line_sha256": "83ca141de057d3f834bd6cd9f5a7bc5ae6d9f898dba93753174fe0e606a4afb5",
+      "line_text": "Together these tests leave a character with neither a perfected moral endpoint nor an exhausted list of faults. Ako's value as an analytical object comes from the interaction of effective public practice, its dangerous substitutions for consent, and particular ordinary wishes that continue to require their own hearing. Contrary evidence is part of the argument's density, rather than material to discard so a preferred characterization can remain simple. [A11; G09-C; V001; EDEN; FINAL; S2; E804; E818; E833; E844; MINI]"
+    },
+    {
+      "frozen_line": 202,
+      "canonical_line": 213,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 203,
+      "canonical_line": 214,
+      "line_sha256": "15790973690e5d3a0f4507c3e35b24b96db7f7ea16164644568da03893d0949c",
+      "line_text": "## 11. Evidence route, independent responsibilities and open limits"
+    },
+    {
+      "frozen_line": 204,
+      "canonical_line": 215,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 205,
+      "canonical_line": 216,
+      "line_sha256": "94bed0381f194c894ed1ba81f4cc4a22fe0fa5723cb8c228e22b2f67b032d39f",
+      "line_text": "The maintained Gehenna20 contextual account is the current normal owner for the complete sixteen-object private family. Its adopted meaning carries the effective eleven detailed argument bodies, including the V5.1 collar ending and G09 comparative correction. Those complete small bodies were personally received through EOF for this candidate; the source generation's primary receiving remains attributed to accepted upstream work. Creation-time unadmitted or draft labels in detailed antecedents are historical, not a new current-authority promotion. The distinct noncurrent repository private checkpoint is not substituted for the effective 7,505-byte A11 checkpoint. [G20; A11; G09-C]"
+    },
+    {
+      "frozen_line": 206,
+      "canonical_line": 217,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 207,
+      "canonical_line": 218,
+      "line_sha256": "85113d45c6e290ede3e0388c4a26a770b0686b4d5755ea50dc6c45f3d0ea9026",
+      "line_text": "The private family comprises six formal BOND scenes, six complete MomoTalk threads and four written profile/dialogue or event-costume objects. All selected formal tails, threads and written conditional lines are retained. Constituent utterances, groups and options do not become additional meetings; alternative choices are not all performed. Source identities below preserve the two actual variant keys without dating them by release or converting them into independent people. Immutable byte, hash and blob tuples, receiving scope and paragraph bindings accompany the candidate separately. [A11]"
+    },
+    {
+      "frozen_line": 208,
+      "canonical_line": 219,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 209,
+      "canonical_line": 220,
+      "line_sha256": "828d743ece456fcb2b8defc36073ecd7a80384f5ea83a9149547b02f7a1bb369",
+      "line_text": "| Code | Complete private argument and selected source responsibility | Interpretive boundary retained |"
+    },
+    {
+      "frozen_line": 210,
+      "canonical_line": 221,
+      "line_sha256": "b8ec48555607bc6202126c5db642f11cf898151fb6f2aa19d2e28aea19d7e532",
+      "line_text": "| --- | --- | --- |"
+    },
+    {
+      "frozen_line": 211,
+      "canonical_line": 222,
+      "line_sha256": "cc518a06e84da871296f70e5f5945c54630a16f725172172988d5f0235a25a9e",
+      "line_text": "| A01 | BOND 10087:002; MomoTalk 10087 thread 100870010 | Chosen dress, planned hold/purchase, punctuality and locale metrics; not completed arrival or mutual romance |"
+    },
+    {
+      "frozen_line": 212,
+      "canonical_line": 223,
+      "line_sha256": "8739d203cdf7d94ddeefda919a4eee3ab1236827b3258d5ecc7289feafc6acc0",
+      "line_text": "| A02 | BOND 10087:003; MomoTalk 10087 thread 100870250 | Fit/exposure, actual later delivery, thanks and extra-item refusal; no unlimited access |"
+    },
+    {
+      "frozen_line": 213,
+      "canonical_line": 224,
+      "line_sha256": "9137da6923a273cab1c427292a808214daeabb88877b2ee9a2d12413ae5ff515",
+      "line_text": "| A03 | BOND 10087:005; MomoTalk 10087 thread 100870450 | Wanted company, accidental tear, limited inspection, return and prospective relation/gift |"
+    },
+    {
+      "frozen_line": 214,
+      "canonical_line": 225,
+      "line_sha256": "eca3a238513520d0e211f94c0f18fe0e025de8cd9f133155e2bdf3bcef3b3de0",
+      "line_text": "| A04 | BOND 20008:002; MomoTalk 20008 thread 200080010 | Internal report, accusations, refusal, apology and forgotten paperwork; no completed surveillance or work |"
+    },
+    {
+      "frozen_line": 215,
+      "canonical_line": 226,
+      "line_sha256": "fcbf43a74424e6351d50dab5b4e69606659aa0485d43cb56f7999bf200a4b65d",
+      "line_text": "| A05 | BOND 20008:003; MomoTalk 20008 thread 200080100 | Bad-luck report, adult counterexample, refused wager, partial refreshment and uncertain next meeting |"
+    },
+    {
+      "frozen_line": 216,
+      "canonical_line": 227,
+      "line_sha256": "8914a4953873d1b5892b9e1be2b632f1e152bd11038ce1129c3da12158132a00",
+      "line_text": "| A06 | BOND 20008:005; MomoTalk 20008 thread 200080190 | Local agreed game, disputed terms, public-walk refusal, apology, JP wanted next action and changed collar request |"
+    },
+    {
+      "frozen_line": 217,
+      "canonical_line": 228,
+      "line_sha256": "2f03f2f9835dcb3bd6f64c38d36d80c39924f66a11e5d1fa42b795c07c93cd38",
+      "line_text": "| A07 | Character data 10087 profile and normal dialogue | Spy self-image, movement, cold, ordinary wishes, thought/response channels; no performance or global chronology |"
+    },
+    {
+      "frozen_line": 218,
+      "canonical_line": 229,
+      "line_sha256": "655cace0baa01c7d631ae9ced414ff0e54acab61cde431f51e0ee7b61ffc2d87",
+      "line_text": "| A08 | Character data 20008 profile and normal dialogue | Care/fatigue and conditional wishes; incomplete cafe scheme and continuing refusals |"
+    },
+    {
+      "frozen_line": 219,
+      "canonical_line": 230,
+      "line_sha256": "0589a3a4fe82471f9bca596de67b31d28ff07a806ce94ea69dd6131f2ce22c24",
+      "line_text": "| A09 | Event-costume 1900906301, character 20008 | All six written 804/10804 Enter, Idle and Buy lines; requests are not fulfilled transactions |"
+    },
+    {
+      "frozen_line": 220,
+      "canonical_line": 231,
+      "line_sha256": "97da4e881d72f17bcf044fd7a84dec6b8e32aae133c88a33b0385fecfefe9c45",
+      "line_text": "| A10 | Event-costume 1900922101, character 10087 | All ninety-six written 833/10833/900833 lines; work/leisure pressure, clothing pleasure, quiet wish and mode differences |"
+    },
+    {
+      "frozen_line": 221,
+      "canonical_line": 232,
+      "line_sha256": "c154a36ce0b277c5ffb2eb90534efa731e4c05d2b3f70a68d15e0396e272d06b",
+      "line_text": "| A11 | Effective complete sixteen-object private checkpoint | Whole family counts, source identities and limits; not the separate noncurrent repository checkpoint |"
+    },
+    {
+      "frozen_line": 222,
+      "canonical_line": 233,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 223,
+      "canonical_line": 234,
+      "line_sha256": "0bca456febd9591e9643b0f62fd7cbd4422d031e19c185ac63e2beee59292c11",
+      "line_text": "Fresh retrieval checked all 480 admitted MAIN source units for literal Ako headers and found twenty-nine positive units. Their maintained arguments' complete Ako-containing paragraphs were personally received, with consequential chapter contexts received whole or at the precise scopes in the receipt. This is not a claim to have newly read every primary body. The positive list includes V100C003E003 even though its complete maintained argument does not supply a distinct Ako claim: the source route is retained without invented character meaning. Quoted headers and choice channels remain source evidence, not automatic actor or person equivalence."
+    },
+    {
+      "frozen_line": 224,
+      "canonical_line": 235,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 225,
+      "canonical_line": 236,
+      "line_sha256": "e72c3e0f052d03a730f00e038a88e504467caf96549423c1fc831ea5d93b31a1",
+      "line_text": "| MAIN argument family | Positive source units retained | Adequate analytical context used |"
+    },
+    {
+      "frozen_line": 226,
+      "canonical_line": 237,
+      "line_sha256": "b8ec48555607bc6202126c5db642f11cf898151fb6f2aa19d2e28aea19d7e532",
+      "line_text": "| --- | --- | --- |"
+    },
+    {
+      "frozen_line": 227,
+      "canonical_line": 238,
+      "line_sha256": "880927522a74aed49b8bdb15c4651055cfaacea34f056c0b589406c4f1ef31fa",
+      "line_text": "| V001 | C001E020; C002E001,002,006,011,017; C003E041 | Current V001 account, relevant chapter sections and complete positive character paragraphs; recollection distinguished from physical presence |"
+    },
+    {
+      "frozen_line": 228,
+      "canonical_line": 239,
+      "line_sha256": "a384c5783d6a368c2d52e840245fcbe0d0f5770daed851f0e9aaf366836efc7a",
+      "line_text": "| V003 / EDEN | C003E004,006,010,016,018,019,021 | Whole C003 checkpoint and current arc account at stated scope; injury, missing whereabouts, return and proposed data transfer bounded |"
+    },
+    {
+      "frozen_line": 229,
+      "canonical_line": 240,
+      "line_sha256": "9090c665376437c06fd7521d864d838df0b1c44a0ff4ec2d96692e1ed53922be",
+      "line_text": "| V100 / FINAL | C002E002,011; C003E003,008,009 | Whole C002/C003 checkpoints, positive character paragraphs and whole E003 argument; pledges and training plans not automatic outcomes |"
+    },
+    {
+      "frozen_line": 230,
+      "canonical_line": 241,
+      "line_sha256": "a53d0ea1b3b6efc80be0b24b2680d9b5bd493e1b8ede3740f91e2a955404a6c8",
+      "line_text": "| S2 Volume 2 | C001E001,002,011,016,017; C002E004,014,017,018,019 | Whole C001/C002 checkpoints and current contextual Ako argument; altered state, contrary juniors and unfinished restoration retained |"
+    },
+    {
+      "frozen_line": 231,
+      "canonical_line": 242,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 232,
+      "canonical_line": 243,
+      "line_sha256": "281a73a0ad4ad6108592dde8c113bdee8141e6723e16148c0138bccaa1cba266",
+      "line_text": "The selected-public literal projection supplies thirty-nine Ako header routes across thirty-eight distinct supplemental source units. These are EVENT804001,002,004,005,007,008,009,011,012,013; EVENT809009,015; gift EVENT810035; EVENT818002,005,008,009,010,012,013,016; EVENT833004,008,009; EVENT835016; EVENT844004,005,008,009,010; GROUP1901 and 1902; MINI70000020, 05010, 05020, 05030, 15020 and 15030. The additional combined Ako–Iori header in MINI05020 is a separate literal route within the same unit. Complete current public meanings and scoped detailed supports, rather than header counts, support the argument. Historical mechanical pending flags do not undo subsequent ROOT acceptance of the complete public union."
+    },
+    {
+      "frozen_line": 233,
+      "canonical_line": 244,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 234,
+      "canonical_line": 245,
+      "line_sha256": "471dbaaccc0217e0b88352ab8ec987b9ad0ca8ce7fa96faabaa884846dc59e65",
+      "line_text": "The current-route table below makes authority retrievable. E809009/015 and E810035 detailed repository arguments explicitly marked noncurrent are qualified antecedent supports under their current adopted event normal owners; no link below presents them as new current authority. G09-C supplies a whole received comparison maintained by G20. Source objects, reading custody, source form and literary acceptance are different fields in the accompanying receipt."
+    },
+    {
+      "frozen_line": 235,
+      "canonical_line": 246,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 236,
+      "canonical_line": 247,
+      "line_sha256": "9513f607e2c9c77458525e8b7c80f3b857c4ede1ed864bdb2766848a6d0593db",
+      "line_text": "| Code | Current normal-owner route | Actual argumentative scope |"
+    },
+    {
+      "frozen_line": 237,
+      "canonical_line": 248,
+      "line_sha256": "b8ec48555607bc6202126c5db642f11cf898151fb6f2aa19d2e28aea19d7e532",
+      "line_text": "| --- | --- | --- |"
+    },
+    {
+      "frozen_line": 238,
+      "canonical_line": 249,
+      "line_sha256": "3242ba57db1dc6f89f88c770a691e12b1188fc6611558f2de5d30f3a3a832bb3",
+      "line_text": "| G20; A01–A11; G09-C | [BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) | Complete adopted private meaning; detailed eleven bodies and G09 comparison separately received |"
+    },
+    {
+      "frozen_line": 239,
+      "canonical_line": 250,
+      "line_sha256": "c1559ae2834fc5252bf928429b06a80d700a754720ebff45ac28a0f0dc5d8a33",
+      "line_text": "| G09 | [BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md) | Whole GROUP1901/1902 argument, assembled reports and raw actor witnesses |"
+    },
+    {
+      "frozen_line": 240,
+      "canonical_line": 251,
+      "line_sha256": "4a44757da07bc9f0bef86499a2cbe04df7eaf245962410d5982310365672c7e3",
+      "line_text": "| MINI | [BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md](../../02%20Sequential%20Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md) | Prior whole meaning; fresh statue, birthday and Ibuki/PS68 sections |"
+    },
+    {
+      "frozen_line": 241,
+      "canonical_line": 252,
+      "line_sha256": "8dc8e4211b95ffeb99352b09aee47e0a11a4765d34f3b415c75dd847c0315584",
+      "line_text": "| V001 | [BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md](../../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md) | Current public arc plus positive argument paragraphs and chapter scopes |"
+    },
+    {
+      "frozen_line": 242,
+      "canonical_line": 253,
+      "line_sha256": "8a1bad0b7170fac87b00c1fcbee25373234d106761c373ba81fcb6430d1e994d",
+      "line_text": "| EDEN | [BLUE_ARCHIVE_MAIN_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md](../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md) | Current public arc, whole C003 checkpoint and positive argument paragraphs |"
+    },
+    {
+      "frozen_line": 243,
+      "canonical_line": 254,
+      "line_sha256": "65b16d64b84932db2f22dae62335ea33863c4dc1a7b7712440e635402e6248f4",
+      "line_text": "| FINAL | [BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md](../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md) | Qualified current public arc, whole C002/C003 checkpoints and positive argument paragraphs |"
+    },
+    {
+      "frozen_line": 244,
+      "canonical_line": 255,
+      "line_sha256": "e1aa328823a2be36f272e5a3a3c7c3f87648fb9f7839a00e061ef9aed0c0ec85",
+      "line_text": "| S2 | [BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md) | Prior whole meaning; fresh Ako section and whole C001/C002 checkpoints |"
+    },
+    {
+      "frozen_line": 245,
+      "canonical_line": 256,
+      "line_sha256": "50d4ea9dde36ee94c2d6a42a52b73ab74925fc577ba3cc3d3abc19a144be34d1",
+      "line_text": "| E804 | [BLUE_ARCHIVE_EVENT_804_PHASE2_CONTEXTUAL_COMPARISON_20261008.md](../../02%20Sequential%20Readings/EVENTS/EVENT_804/BLUE_ARCHIVE_EVENT_804_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) | Current accepted complete event meaning at stated whole/prior whole/fresh scoped custody; individual actor and ending limits retained |"
+    },
+    {
+      "frozen_line": 246,
+      "canonical_line": 257,
+      "line_sha256": "463a97093d363c9f98932f5e172e4e916bfe90b9b137aba000af2561447c7451",
+      "line_text": "| E809 | [BLUE_ARCHIVE_EVENT_809_PHASE2_CONTEXTUAL_COMPARISON_20261008.md](../../02%20Sequential%20Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) | Current accepted complete event meaning at stated whole/prior whole/fresh scoped custody; individual actor and ending limits retained |"
+    },
+    {
+      "frozen_line": 247,
+      "canonical_line": 258,
+      "line_sha256": "7d3e3c30da914a9ef56794a53a616d43f586e0e2a0baa3b4b26baf71da81209b",
+      "line_text": "| E810 | [BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) | Current accepted complete event meaning at stated whole/prior whole/fresh scoped custody; individual actor and ending limits retained |"
+    },
+    {
+      "frozen_line": 248,
+      "canonical_line": 259,
+      "line_sha256": "06dbfd23ab9cce69ff6a1faa6c49e538b9d08957ff96fe43bd6d83baace4fe99",
+      "line_text": "| E818 | [BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md](../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md) | Current accepted complete event meaning at stated whole/prior whole/fresh scoped custody; individual actor and ending limits retained |"
+    },
+    {
+      "frozen_line": 249,
+      "canonical_line": 260,
+      "line_sha256": "50d5303cf95f4d21d98ea09838541331d25718c8a5caf765625497e3291648bc",
+      "line_text": "| E833 | [BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md](../../02%20Sequential%20Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md) | Current accepted complete event meaning at stated whole/prior whole/fresh scoped custody; individual actor and ending limits retained |"
+    },
+    {
+      "frozen_line": 250,
+      "canonical_line": 261,
+      "line_sha256": "57251c2b64b2bfa73e926ab0a3b72d76ea569372c1f19a5c39a3e560cfe3df0b",
+      "line_text": "| E835 | [BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md](../../02%20Sequential%20Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md) | Current accepted complete event meaning at stated whole/prior whole/fresh scoped custody; individual actor and ending limits retained |"
+    },
+    {
+      "frozen_line": 251,
+      "canonical_line": 262,
+      "line_sha256": "e3ab741283f92f955bfd11bbbb03b19dd6f3ba3e603e0ce5417dca63a0220a57",
+      "line_text": "| E844 | [BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md](../../02%20Sequential%20Readings/EVENTS/EVENT_844/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md) | Current accepted complete event meaning at stated whole/prior whole/fresh scoped custody; individual actor and ending limits retained |"
+    },
+    {
+      "frozen_line": 252,
+      "canonical_line": 263,
+      "line_sha256": "2afab76a57fed4c17c651b43ce2863178de3b78479ffb69ab2d67fe187ef098a",
+      "line_text": "| SCOPE | [ROOT accepted required-home partition V3](../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json) | Separate required character, directed relationship, ensemble and institution responsibilities; no added completion credit |"
+    },
+    {
+      "frozen_line": 253,
+      "canonical_line": 264,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 255,
+      "canonical_line": 266,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 256,
+      "canonical_line": 267,
+      "line_sha256": "70ef437fe8d47548acdd47de3e5e08f898b4ec282632167c703f0dae9b11e251",
+      "line_text": "All fourteen maintained claim-specific gaps remain OPEN. Adequate existing arguments allow a substantial character account without turning an off-scope source, conditional wish or uninspected performance into nonexistent evidence or a universal block. The dispositions state what is available and what this account cannot establish."
+    },
+    {
+      "frozen_line": 257,
+      "canonical_line": 268,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 258,
+      "canonical_line": 269,
+      "line_sha256": "4cf046bfd1374875b665fddeeeb954bd14fd7157eaad3d5e3d40e092b0f4bde3",
+      "line_text": "| Gap | Available Ako meaning and remaining claim limit | Status |"
+    },
+    {
+      "frozen_line": 259,
+      "canonical_line": 270,
+      "line_sha256": "b8ec48555607bc6202126c5db642f11cf898151fb6f2aa19d2e28aea19d7e532",
+      "line_text": "| --- | --- | --- |"
+    },
+    {
+      "frozen_line": 260,
+      "canonical_line": 271,
+      "line_sha256": "5dd343909481d37b90b677b1a56c7c673974e817db23731ffc2b69273106cb4c",
+      "line_text": "| G01 Ordinary/private breadth | Complete private sixteen-object family, clothes, coffee, complaints, failures and refusals are intrinsic evidence; not receipt of every cast member's private life | OPEN |"
+    },
+    {
+      "frozen_line": 261,
+      "canonical_line": 272,
+      "line_sha256": "1fbe539bc67733347b9f4ced954a87b33dfc32a31e3029c55e1a48204428cc9d",
+      "line_text": "| G02 Yuuka transfer | Reports and conditional resource planning do not establish Yuuka's institutional strategy or transfer its conclusions across schools | OPEN |"
+    },
+    {
+      "frozen_line": 262,
+      "canonical_line": 273,
+      "line_sha256": "ea9f14f33e4a2e2e8ab068420f851d33bc427fd9eb129ce91c98d141021607f0",
+      "line_text": "| G03 Serika reciprocity | Chocolate rewards and listening breaks do not prove Serika's wages, restitution or the unpaid labor questions in EVENT809 settled | OPEN |"
+    },
+    {
+      "frozen_line": 263,
+      "canonical_line": 274,
+      "line_sha256": "e17ae6616b95b1f27e21fe9f34f65b60f66c20203c7d737422bba6e24cb7a18f",
+      "line_text": "| G04 Hina accountability | Rest, reliance, apology and coffee have local meanings; signal causation, consultation, discipline and public-property restoration remain unproved | OPEN |"
+    },
+    {
+      "frozen_line": 264,
+      "canonical_line": 275,
+      "line_sha256": "c0af6f3b6ec6675f9de5823573bee43afd3c809b6eedfd506d91b6be66f375ab",
+      "line_text": "| G05 Arius/PS68 aftermath | Conditional PS68 tolerance, Ibuki's company and offered information do not restore housing, employment or legal status for every affected student | OPEN |"
+    },
+    {
+      "frozen_line": 265,
+      "canonical_line": 276,
+      "line_sha256": "aa720ec662580333af29195a5cdee00f87f66ceb0ed744cf6858256d68e211f8",
+      "line_text": "| G06 Cross-school ordinary | A successful birthday and local first-name familiarity are real; universal friendships, future protocol and treaty outcomes are not established | OPEN |"
+    },
+    {
+      "frozen_line": 266,
+      "canonical_line": 277,
+      "line_sha256": "19648530caca95a91e4ddbfb38313449c3f80368bfd6db16db713f0c87013147",
+      "line_text": "| G07 Chronology | Actual MAIN and source-local sequences are used; costume keys and release order do not locate every formal, event, MINI or UI encounter | OPEN |"
+    },
+    {
+      "frozen_line": 267,
+      "canonical_line": 278,
+      "line_sha256": "e6fac0e5af953b06b859ccc83c6581cfbb8a8dc232c55f6d4f7858a4f526e940",
+      "line_text": "| G08 Event names/repeats | Literal identities remain; EVENT804013 is not automatically after 012, and repeated UI lines are not repeated historical meetings | OPEN |"
+    },
+    {
+      "frozen_line": 268,
+      "canonical_line": 279,
+      "line_sha256": "4cb2f0fecb1a64a07002eeb0df2669c6d5ef6772d465359244779586a1af90d0",
+      "line_text": "| G09 Actors/choices | Raw seams, quoted choices and channels qualify attribution; rights objections, invitations and mixed headers cannot be silently reassigned or all branches performed | OPEN |"
+    },
+    {
+      "frozen_line": 269,
+      "canonical_line": 280,
+      "line_sha256": "cb569fa096e9e58d59b67f2612cc107857007c20c981abc0126673a4bc7bcaf5",
+      "line_text": "| G10 Performed voice | Written dialogue and represented piano/party acts support meaning; audio, images, animation, videos and runtime performance are unreceived | OPEN |"
+    },
+    {
+      "frozen_line": 270,
+      "canonical_line": 281,
+      "line_sha256": "c3345bf4b1a7ff481a355ec4140a5c6d21d9af39cdcb8cbfbea6ea8274b14d28",
+      "line_text": "| G11 Hoshino/Yume record | The stale-profile error is meaningful; complete record history, Yume-related knowledge and grief outcomes are not supplied by that mistake | OPEN |"
+    },
+    {
+      "frozen_line": 271,
+      "canonical_line": 282,
+      "line_sha256": "f9a7d94103a6df47d774ef4462542dee4287bed3b8790872926f3fbd60ec1ed0",
+      "line_text": "| G12 Systems/variant identity | Actual keys and local forms are retained without extra-person joins; unknown mechanisms or nonhuman actors do not become human identities by header alone | OPEN |"
+    },
+    {
+      "frozen_line": 272,
+      "canonical_line": 283,
+      "line_sha256": "122e6b4978e840c535b633c977e11f8b1e42c7b4d211560ed0030a89c8a317e7",
+      "line_text": "| G13 Technical/legal/safety | Forecasts, reports, command limits and complaints are not audited budgets, legal judgments, chemical construction, certified safety or clinical recovery | OPEN |"
+    },
+    {
+      "frozen_line": 273,
+      "canonical_line": 284,
+      "line_sha256": "6b38bf904a0e343fb974131b4f4a3c1102122c4ea83fac60a59161ee5ab2d129",
+      "line_text": "| G14 Unclassified/mode boundary | The positive E003 header, conditional encounters and noncurrent antecedents remain scoped; no invented claim, quiet-evidence exclusion or ritual whole-primary debt follows | OPEN |"
+    },
+    {
+      "frozen_line": 274,
+      "canonical_line": 285,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 275,
+      "canonical_line": 286,
+      "line_sha256": "fab8f3257919a187e783da9171a982ded43600607d3476a424a79bd38ee539bb",
+      "line_text": "These limits preserve accountability and ordinary life together. Ako can complete a small exchange, enjoy a wanted gathering and leave a refusal intact while an institution still owes repair. She can contribute effectively during a crisis while misjudging its cause. She can want Hina to be happy while needing to hear what Hina, a junior, a child or an adult actually wants next. That continuing tension is the whole character responsibility proposed here: administration remains part of Ako's capacity for care, and another person's independent direction remains the measure of what that care has allowed. [A06; E804; E818; E844; S2; MINI]"
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        3
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: character_monograph_candidate"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        7,
+        8
+      ],
+      "canonical_lines": [
+        6,
+        5
+      ],
+      "frozen_text": [
+        "generation: V1",
+        "status: C_ONLY_AUTHOR_COMPLETE_ROOT_RECEIVING_PENDING"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        17,
+        16
+      ],
+      "canonical_lines": [
+        14,
+        25
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKO_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        20,
+        19
+      ],
+      "canonical_lines": [
+        29,
+        30
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_AKO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_AKO_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Canonical persistence follows complete ROOT installation; source publication, main integration and other required packages remain separate. The adopted355-package/29-section scope is unchanged; no quarter, model or performed evidence is claimed."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        254,
+        254
+      ],
+      "canonical_lines": [
+        265,
+        265
+      ],
+      "frozen_text": [
+        "The required character home is P3-CHAR-AKO / responsibility P3-F004. The independently required Hina–Ako service and wanted-life direction, Kayoko–Ako PS68/Pandemonium boundary direction, Prefect protection/information/force institution, Pandemonium roles/resources/selective-care institution, and differentiated Pandemonium ensemble remain separate responsibilities. Hina's invitation, Kayoko's conditional cooperation and Ibuki's refusal are not automatically completed relationship packages because they are discussed here. The sealed full-cast partition and ROOT acceptance govern their homes; this candidate neither changes that partition nor claims additional completed packages. [SCOPE]"
+      ],
+      "canonical_text": [
+        "The required character home is P3-CHAR-AKO / responsibility P3-F004. The independently required Hina–Ako service and wanted-life direction, Kayoko–Ako PS68/Pandemonium boundary direction, Prefect protection/information/force institution, Pandemonium roles/resources/selective-care institution, and differentiated Pandemonium ensemble remain separate responsibilities. Hina's invitation, Kayoko's conditional cooperation and Ibuki's refusal are not automatically completed relationship packages because they are discussed here. The sealed full-cast partition and ROOT acceptance govern their homes; this monograph neither changes that partition nor claims additional completed packages. [SCOPE]"
+      ]
+    }
+  ],
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_primary_performance_or_independent_literary_credit": 0,
+  "other_required_package_completion": false
+}

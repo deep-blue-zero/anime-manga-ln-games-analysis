@@ -1,0 +1,1472 @@
+{
+  "original_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIYORI_CHARACTER_MONOGRAPH.md",
+    "bytes": 46544,
+    "sha256": "2458166488c62aba604966882325d1d708fbb8bad6349d7e987271fe4c834827",
+    "git_blob_oid_of_actual_bytes": "e7b9e8c8f627822a35162d7091b0ae1880284dea",
+    "lines": 236
+  },
+  "canonical_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIYORI_CHARACTER_MONOGRAPH.md",
+    "bytes": 47034,
+    "sha256": "4af587f02e160eaa1d9f6f8face57d2a9e8a0da1dda0bb7c9fd8d446fed4dd9c",
+    "git_blob_oid_of_actual_bytes": "a14d096bd9cdf14eba5eb0e425d8915e3c79eacf",
+    "lines": 238
+  },
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 3,
+      "canonical_line": 3,
+      "line_sha256": "e38f8583fb2bd57b984a8b4ca2e945019c2a52ed4308169f96ea0eb947730bd3",
+      "line_text": "character: \"槌永ヒヨリ / Hiyori\""
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 4,
+      "line_sha256": "542fc63937b673de70845e42be20bcf3f213cf0e9c4ab2c94bcde4fd01816375",
+      "line_text": "person_scope: \"BA_PERSON_HIYORI;20017/10102;costume1900928101→10102\""
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 5,
+      "line_sha256": "1658226d82991e821acc7363ec1375c03a4c3037e48a2a07ed6d5d89a5430ec5",
+      "line_text": "method: DEEP_SYNTHESIS"
+    },
+    {
+      "frozen_line": 6,
+      "canonical_line": 6,
+      "line_sha256": "2084413932021b66232c019d7d67e81ba2cf005acb31f12c32acb13608a5283c",
+      "line_text": "architecture: \"1.12, section7.1, eleven required dimensions\""
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 7,
+      "line_sha256": "2b4c71a3936349b6920c14d8d0327b826ca56d5e7944bc878548abba1650fe54",
+      "line_text": "analytical_base: \"2e2018d0d62d91e3e0a5e7681f72a31cec08e02c\""
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 8,
+      "line_sha256": "c8ef145b6da8758b2dd4f184f0c6454d958b15d80fcfd350803c0682bf3d65dd",
+      "line_text": "historical_source_witness: \"c1f14d5120c29209ca571fea8d7cfbe111076ec5\""
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 9,
+      "line_sha256": "a7128a3b6afa054c49654fbcb14fcbdd61123b6ed5e0cac56e74d54399bb96b6",
+      "line_text": "japanese_supplemental_source: \"a038020f1f5ac02dcfe76962426d38f86414cdd8\""
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 10,
+      "line_sha256": "14e0401cbb122674957ed72090cd06063f320f5d1d77a57ec343b3b2cbe52b04",
+      "line_text": "authority_quartet: \"Current Cycle008 admission; ROOT qualified complete analytical receiving with limits; historical order/independence UNKNOWN; performed voice UNRECEIVED\""
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 11,
+      "line_sha256": "d0718320c7cea23ca3bee1a77dea20445606fa01cb1bac555388d1ce333d9ec7",
+      "line_text": "scope: \"Bounded literary synthesis; all fourteen gaps OPEN; no clinical/person model, denominator or milestone credit\""
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 12,
+      "line_sha256": "8fecbb6a3875013f0e9b08c2e80984516ba9166974308b35a91a124bb697c029",
+      "line_text": "date: \"2026-10-10\""
+    },
+    {
+      "frozen_line": 13,
+      "canonical_line": 13,
+      "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+      "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 14,
+      "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+      "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 15,
+      "line_sha256": "a78d001b78a3d7ff6c2a969a79a9161ba91d13f66ae5395214eac9606ef46e38",
+      "line_text": "source_boundary: \"Accepted textual analytical meanings at main2e2018d0d62d91e3e0a5e7681f72a31cec08e02c, with qualified historical c1f14d5120c29209ca571fea8d7cfbe111076ec5 and original earlier MAIN producer pins retained at their declared scopes; current scope control355/29; performed material unreceived\""
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 16,
+      "line_sha256": "bb914669cd55a7b273c7c953cc13af9416c336d813c7209977fd932f34e35a82",
+      "line_text": "artifact_type: character_monograph"
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 17,
+      "line_sha256": "0946f5047ae20836f2c40c039c809b4c2a0e0f6548c9e51e4ef1342b3ede236b",
+      "line_text": "generation: V1"
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 18,
+      "line_sha256": "8878f2140aa69d1a5d1e7162cae938d4568edf7cc2db8f4c81d48d2db480cf77",
+      "line_text": "version: \"1.0\""
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 19,
+      "line_sha256": "65f8c9418b8c955845bfd8af0a0e28e9f96ba9d6a85f33432dc3d945b3077a79",
+      "line_text": "status: canonical"
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 20,
+      "line_sha256": "5f8f531e4042b21b5d0d2716b65c580c988d1279922c0f27c4f1a2b150d75d9c",
+      "line_text": "do_not_use_as_current_authority: false"
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 21,
+      "line_sha256": "5f3de5cd62914e8b50aba41aa786768ca8a14a091ce52bd15bd6dad0892c5ca2",
+      "line_text": "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIYORI_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 22,
+      "line_sha256": "00e49c1496cb4da04454581ee29d5ff7dc030e3a4cab5f5b254e6304d75cf82e",
+      "line_text": "review_state: ROOT_ACCEPTED_WITH_LIMITS"
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 23,
+      "line_sha256": "baafbc7f33f97a3d4f99bc6fda0ac9e6726b8352ad2cf997040603fe01df044c",
+      "line_text": "ROOT_literary_acceptance: ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS"
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 24,
+      "line_sha256": "86708701dc67d223d34105f2386d6a73fd185db1ab2c5daedb78ffbd2699277f",
+      "line_text": "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL"
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 25,
+      "line_sha256": "7c725a9641b79d6b64eec622760fa9fc218446a8d9a5e3dbdd9a384c2740f25f",
+      "line_text": "updated: 2026-10-10"
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 26,
+      "line_sha256": "376685b1669772602a00ad4af1f358c52d2115e97392e2af8fd98676192e219d",
+      "line_text": "supersedes: []"
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 27,
+      "line_sha256": "45cbca5ff920f29b0ebe746007487b320c6715a0daa81e8655ae97c53482fcd3",
+      "line_text": "superseded_by: []"
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 28,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 29,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 30,
+      "line_sha256": "53d978f09cbb59310712b7cbfc7e87cf740425e402ae82289511cd7b78afe558",
+      "line_text": "# Hiyori: a life may contain pleasure before it stops being difficult"
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 31,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 32,
+      "line_sha256": "fdbd44c6ad8373ff634474972fc2b74c83740697a7bbbfcc1a3ae810020906da",
+      "line_text": "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HIYORI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HIYORI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Source publication, main integration, separately required directed/institutional packages and full eligible-cast completion remain separate."
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 33,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 34,
+      "line_sha256": "68fc09e6869f37c9fa5b1441491b7da9f88fa8bd238d3f199f1b104e95f59ad0",
+      "line_text": "Hiyori’s fifteen selected objects comprise six BOND episodes, six whole associated MomoTalk objects and three complete written contexts. The personally complete current private owner also contains Misaki17 and Subaru11; their distinct responsibilities remain separate. This monograph receives Hiyori through that accepted argument and complete relevant Main, Final and event arguments. Necessary Japanese recovery checks the bought swimsuit’s false contest explanation and the fireworks’ actual ending and whole message afterword. Documentary release order does not supply a global calendar of recovery. The receipt records actual whole and refreshed custody, source identities and saved paragraph hashes."
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 35,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 36,
+      "line_sha256": "a10690e2627553d0bbe9d6ab140ec3483f1d134e098de578438a2f8221065dea",
+      "line_text": "## 1. Core thesis: pleasure and giving do not need to wait for a completed rescue"
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 37,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 38,
+      "line_sha256": "802efb6287d11d94077078e8953d67174167e57dc5137052bf9cf7ee61379f8e",
+      "line_text": "Hiyori is often legible through the things she lacks: a reliable address, power, water, money, safe accommodation and an expectation of welcome. Yet her private argument is just as specifically about what she wants to do with access once it is available. She wants to read with the screen bright, look at fashion, collect magazines, see the sea, wear a cute swimsuit, taste something cold and give another person a pleasant experience. These are intrinsic ends. They need not become training, useful labor or proof of rehabilitation before they matter. [20017:002/003/005;10102:002/003/005;written20017/10102.]"
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 39,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 40,
+      "line_sha256": "ba13f921825c6b02552f4d077209dad9b544c2569688a6603c482063a76331de",
+      "line_text": "The strongest change is a change in participation rather than an uninterrupted rise in confidence. Hiyori can receive batteries or magazines, ask for company and bodily care, initiate a thank-you outing, insist that a gift be accepted and choose a photograph over a replaceable magazine. That is a repertoire of preference, request and reciprocity. Fear, low self-appraisal, mistakes and scarcity remain inside it. The person who asks for help can also want to contribute something without proving that all help has become unnecessary. [Complete private15;EVENT810E075;EVENT838E021.]"
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 41,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 42,
+      "line_sha256": "5929f1222b544cb7154849bfffbb8f480f476be9dc05c5865f0de41da43110ec",
+      "line_text": "Care has a double task in this argument: preserve the wanted experience and remain answerable for its means. A new swimsuit really brings joy, but presenting an adult purchase as a contest victory deceives the recipient. Staying at a hospital answers a request for company, while announced confiscation of the unfinished magazine remains a contested intervention. A gift’s acceptance answers her own request; the ensuing unrequested head pat is a different act. An affirmative ending need not certify everything that led to it. [20017:005;10102:002;EVENT810E075.]"
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 43,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 44,
+      "line_sha256": "f0a8e82fa7f6ad3803256b5a49ff5c24b18be87e55b2eecc23fecce70d198711",
+      "line_text": "Her characteristic mistake is to convert a local difficulty into a judgment about what her whole life is allowed to contain. A failed display can mean fireworks are unnecessary in her life; another person’s expression can become evidence that she is useless; pleasure can seem forbidden or destined to disappear. Those formulations are serious self-appraisals, not the narrator’s moral law. The text’s positive answer is often small and completed: magazines bought, a first taste, fireworks actually played together, a gift accepted, photographs taken. Its scale does not reduce its analytical weight. [20017:003;10102:003/005;EVENT810E075;EVENT838.]"
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 45,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 46,
+      "line_sha256": "4f995d8754b4685240e8c7ca74f180524d740b92bd54a0cae0a531a1ae91ae42",
+      "line_text": "The governing claim is therefore finite: particular pleasures and relationships become available without making hardship unreal. A monograph that waits for total recovery before recognizing them would reproduce Hiyori’s own tendency to deny that her life may have such things. Conversely, treating each pleasure as permanent rescue would erase the conditions that give the choice its weight."
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 47,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 48,
+      "line_sha256": "3d93ee4ff877143dddb217e19339bc0793f175862725c105e640845dc9e1d598",
+      "line_text": "## 2. Longitudinal states: access, requested company and authored reciprocity"
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 49,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 50,
+      "line_sha256": "1950982172f24de2251762800583b232f5b3a396c2c25cd8a701675e3c4d9045",
+      "line_text": "MainV003 establishes a coercive public context rather than an origin story for every private feeling. Squad participates in a harmful operation under Beatrice’s project. Later Hiyori rejects a reported betrayal-for-return offer and continues toward Atsuko’s rescue with the companions. Local rescue is real; permanent safety, medical settlement and legal immunity are not granted by it. The aftermath separates Saori’s search for a life from the companions’ continued insecurity. These public changes make a future possible without determining every private episode’s placement within it. [Complete V003 maintained account;C003/C004E008–027.]"
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 51,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 52,
+      "line_sha256": "8c34d7c5bb4a5b6878f52c573e9ca9f4ae1baccdf5e2c26bb7807ec149b50e74",
+      "line_text": "The base private sequence supplies linked problems of access and interpretation. A disrupted connection initially appears to mean abandonment, then is revised when Wi-Fi failure is recognized. Pole charging is attempted under reported power scarcity; three batteries are actually purchased. Later failed photo transmission leads to an in-person meeting, where Hiyori wants to share a salvaged magazine “harvest.” Latest magazines and medicine are bought. Reading plans and secrecy continue in the whole afterword, while reported fear of others’ anger remains. None of these endings abolishes scarcity. [20017:002/003;wholeMM200170010/120.]"
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 53,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 54,
+      "line_sha256": "b660c36c47465cdcc185f1224e5d13569f394f5923453b5d87f46866ee19889e",
+      "line_text": "The hospital episode changes the degree of help. Collapse is printed and hospital transport occurs. An in-world doctor’s stomach-upset account and rest forecast remain different from an independently verified discharge. Hiyori wants to return to the companions, but she also expressly requests company; the adult decides to stay overnight. Waking beside an empty bed prompts his fear that she fled, whereas she reappears crying. This is not a completed escape. The scene supplies reliance, body-comparison anxiety and a dispute over magazines rather than a cured endpoint. [20017:005;wholeMM200170250.]"
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 55,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 56,
+      "line_sha256": "b4b4f2c84fdfb1de019cbaa4246025ab1861c3eecd2ce8b251f97f4d0567b4d8",
+      "line_text": "The summer swimsuit encounter begins from Hiyori’s own dream of the sea and a cute swimsuit. The requested mailing-address permission is finite; Schale does not thereby become her residence. The expired card is brought back rather than posted, and the adult buys a swimsuit. His alternatives then falsely present the result as a contest win. Hiyori accepts an item unlike the requested VIP prize and expresses happiness, before planning more contests. The whole messages retain her report that it is tight, her size explanation, wearable judgment and renewed wish for the sea. Joy is actual; proper fit, bodily change and a genuine contest victory are not. [10102:002;wholeMM101020010.]"
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 57,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 58,
+      "line_sha256": "25c9e844989c440e8d01ef3338797f9daa4e59edcecd6a3b0df79259d043564a",
+      "line_text": "The next summer encounter gives local bodily relief and actual taste alongside renewed discomfort and lost ice cream. Hiyori requests cold care for her belly, takes a first bite and praises it, returns to the sun, hurts again and loses the bar in sand. Shaved ice is subsequently bought, with thanks and local energy. Her imagined two-bar result and repayment ideas remain counterfactual or future. The character can enjoy and remain distressed within one afternoon. [10102:003;wholeMM101020170.]"
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 59,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 60,
+      "line_sha256": "be54cafd3933676f1971dbf616ca83630ebf5c65573083ecbe3a6d616ce52074",
+      "line_text": "The fireworks episode is an important affirmative endpoint. Hiyori invites the adult to thank him and make him happy, collects discarded fireworks and lights her display. An unidentified mixed-in object and an impact extinguish it. She interprets the failure against her whole life; nevertheless the narrator explicitly buys a new set and plays fireworks with her. This is completed shared play, rather than another invitation. The whole afterword names both parties’ enjoyment and her unforgettable-memory claim. It does not measure lifelong retention, but it must not be reduced to an unfulfilled plan. [10102:005:u:0013–0042;wholeMM101020230:messages450–520.]"
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 61,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 62,
+      "line_sha256": "9ae36cd304dc1a222c247901dc40ec3eacb49cdceffab080636e250edebfd27d",
+      "line_text": "EVENT810 and838 widen that repertoire through different documentary conditions. A deliberately funded gift is accepted in the former; photographs are chosen and distributed in the latter. EVENT853 retains a model wish and fashion interest. MainV006 adds collective learning, aid and an unfinished school future with independent stayers’ grievances. These are comparisons across received source conditions, not a synchronized ladder from broken dependent to fully restored student. [EVENT810E075;EVENT838E021;EVENT853E008;completeV006.]"
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 63,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 64,
+      "line_sha256": "368544824d1bcabe18ae2813c456e36ff4796899377a33be98e9d001ddec0940",
+      "line_text": "## 3. Public and private: the recipient of care remains a responsible actor"
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 65,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 66,
+      "line_sha256": "5a69dd01dc478871e6b5a8a84cb919110405f63b240fd3587d7cc5106fd9a2cf",
+      "line_text": "The public Squad context cannot be dissolved into private deprivation. MainV003’s harmful operation has independently situated recipients, including Azusa and Trinity students. Coercion helps explain action; it does not make the action harmless or make every injured person owe reconciliation. Hiyori’s later needs remain real without becoming exoneration. The monograph keeps the public operation and the possibility of care together. [V003 maintained/C003/C004.]"
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 67,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 68,
+      "line_sha256": "4fd1f04cb6ef1e87dca837c0408d3a90c0bc1bb0e1c5ec5c40948223fc51ef95",
+      "line_text": "Hiyori’s refusal of a betrayal-for-return offer is positive agency under pressure. It is not simply a leader’s command repeated by an interchangeable subordinate. Yet other chapter passages contain literal Hiyori/register or anonymous attribution tensions. Where the secure witness is Squad’s collective reaction or continued action, the account remains at that degree rather than assigning every phrase to Hiyori. The serious independent refusal survives without using doubtful lines to construct a complete interior monologue. [V003C004E008–016;C004 attribution controls.]"
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 69,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 70,
+      "line_sha256": "5f72065c1e45f9bb795cb0acfaba272a2bee1e4a50b76280eb9e82d27147dd8a",
+      "line_text": "Private self-description supplies another scale. No electricity or water, rejected charging, coldness from others and only-teacher availability are reported conditions. A promise of total obedience belongs to an anxious scene; it cannot constitute unrestricted permission. A leader’s warning against dependence is Hiyori’s report, not a uniform rule authenticated by interviews with Saori and every companion. Distinguishing these modes leaves her experience intelligible while preserving other people’s possible positions. [20017:002/003/005.]"
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 71,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 72,
+      "line_sha256": "376172f7591ffd09214c51a65aee6efe73168a674c9ebe6d840b49abf47a5520",
+      "line_text": "The contrast is especially productive around suffering. In private and written contexts she describes life through pain, punishment or worthlessness. Public wrongdoing does not validate that self-condemnation as a moral sentence. Nor must the analyst show that she is innocent before recognizing the value of a magazine or shared time. The future offered by accountable care is a future for someone who can have made harmful choices and still have wants that deserve to be heard. [V003;20017:005;written20017.]"
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 73,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 74,
+      "line_sha256": "4f4dd8d1943d5a102f71ce935a19b9e63cc09f67c82f0ccafa6ff8bfb9d3baaa",
+      "line_text": "EVENT838 resists an equally simple private/public split. Hiyori supplies a shoulder-ride request and photo-prize preference, but also participates in collective protection and fires during the confrontation. Wanted pleasure and force occur within one event. Its coercive peer interventions are not made consensual by their protective purpose. The character’s ordinary life is part of that public narrative rather than an external reward that cancels it. [EVENT838E004–014/021.]"
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 75,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 76,
+      "line_sha256": "3e679b74273e337bcaed89f4b16ed8e97e0ae935c8713ad3a07d9f1d79efab77",
+      "line_text": "## 4. School and companions: material repair is not the same as permission to want"
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 77,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 78,
+      "line_sha256": "dbc121205a587c5dd3c4fba3e69fbe2f536ee9d08edc249334806c1d7cf31298",
+      "line_text": "Arius gives Hiyori a social predicament, companions and an inherited discipline of deprivation. It does not provide a complete audited history of every present practice. Sugar-ration or austerity comparisons remain attributed, while MainV003 establishes coercive teaching and exploitation. These conditions help explain why enjoyment can seem illicit. Explanation is different from endorsing a rule that pleasure is wrong. [V003C004;EVENT838 accepted comparison.]"
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 79,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 80,
+      "line_sha256": "ea9a26affcb4aadf95f669595f53c9aeed85e1d7b21c7a4985889269256e6703",
+      "line_text": "School repair matters because individual generosity is finite. Batteries address emergency access, a mailing address enables a particular request, medicine and books can be purchased. None supplies permanent electricity, safe water, housing, work, a full budget or a school charter. Hiyori’s account of funding magazines through scrap and shells is explicitly corrected by Misaki: the adult paid the other half. A material support structure is present, but its exact durability and sufficiency remain open. [20017:002/003;10102:002;EVENT853E008:u:0004–0006.]"
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 81,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 82,
+      "line_sha256": "cb9e978c33c2803f17ef594c92071c67973f59b4bc6ba1b0c6e27bf36313292b",
+      "line_text": "MainV006 offers more than private rescue: received collective class, aid, test and school scenes provide an actual repertoire of learning. Their existence does not authenticate every legal condition, grade, office or future governance result. Subaru and Maia’s staying-side positions retain their own grievance and repair questions. A returned Squad’s help and wishes cannot substitute for each resident’s assent. Hiyori receives no invented office or a certified right to speak for all Arius. [Complete V006 maintained/C001–003.]"
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 83,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 84,
+      "line_sha256": "dcd00c076b5cdad3e59d1b305751d81d5ecada7369de56a11b23794779eeb5ff",
+      "line_text": "The group’s ordinary preferences should remain differentiated. Hiyori wants fashion and modelling; Misaki corrects a funding account and keeps solitude and activity limits; Atsuko names effort and gardening; Saori seeks a self-directed life and labour. Scarcity makes these desires difficult without arranging them on a ladder from noble practicality to frivolity. A magazine can be intrinsically valuable, as can a flower or a quiet afternoon. [EVENT853E008;complete selected private comparisons.]"
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 85,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 86,
+      "line_sha256": "ec5707efc7d7041d5232b3b41f9a37117a2726bc594c3219959cfc4b5b6ac999",
+      "line_text": "GROUP relevance supplies surrounding care and interschool context, with actual accepted route limits. It does not supply a fictitious Squad-owned GROUP sequence, direct membership in every helpful institution or a replacement for Hiyori’s private argument. The institutional responsibility is to keep the finite means of ordinary life visible, rather than claiming a resolved institution from a warm meeting. [Accepted V003/V006 GROUP relevance scopes.]"
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 87,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 88,
+      "line_sha256": "ffb092c1c78f1518d49c983994348f027997b95aa65c77f0eb84ccd99cf006d8",
+      "line_text": "## 5. Ordinary life: reading, looking, tasting and making memories"
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 89,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 90,
+      "line_sha256": "c070367afda1a9f4163bf9ae7b93d109c271c853ec2dab9b26f597128c1cfa2a",
+      "line_text": "Reading is not an interchangeable symptom of need. Hiyori wants novels at full brightness, notices the interesting oddness of fashion and wants to share what she found. Burning unread magazines for warmth is a conflict between two valuable uses under poor conditions. The unread articles’ loss matters precisely because they were worth reading. Finding a rusty medicine box does not transform the encounter into a story in which only medical supplies count. [20017:002:u:0028;20017:003:u:0006–0021/0027–0046.]"
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 91,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 92,
+      "line_sha256": "7f1978151f082bf91bc4e8791c70da970ca0a0259c41ada7e63938d59347ff43",
+      "line_text": "The adult’s latest-magazine purchase has a concrete endpoint: two are bought at Hiyori’s request. It does not narrate their complete reading. The whole message afterword retains thanks and secrecy. Fear that others would be angry may constrain enjoyment without proving an actual punishment. Keeping both desire and constraint protects the text from a false story of either complete freedom or entirely joyless deprivation. [20017:003;wholeMM200170120:messages340–360.]"
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 93,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 94,
+      "line_sha256": "6a36e9801443b6499e967e4d4f6403ff3fcbe17d0f6d9d97e1d272a0708c4ca4",
+      "line_text": "Magazine collecting also mediates fantasy and mistaken information. It supplies fashion, contest hopes, body comparisons, a sun-care idea, fireworks expectations and repayment suggestions. The common object does not give all that information equal reliability. Hiyori’s interests may deserve access while particular advice is wrong. A responsible adult can challenge a dangerous inference without treating the desire to know or collect as the thing that needs elimination. [20017:005;10102:002/003/005.]"
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 95,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 96,
+      "line_sha256": "e06acd9393953889800edd5b28ad8381259f8037eda2f0a21f17d988c3ccef56",
+      "line_text": "The swimsuit is wanted clothing and access to the sea, not evidence whose value depends on inspected pixels or bodily growth. A pleasant fit appraisal comes from the adult’s formal choice; the message tail retains Hiyori’s small/tight report. Her happiness can be accepted at the same time as fit remains qualified and the contest explanation remains false. This is a recipient with an experience and a limited information position, not an objective garment test. [10102:002;wholeMM101020010.]"
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 97,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 98,
+      "line_sha256": "feebef11f25c1cd7b8cb4cb5c4db1439caf70260682e1e41d573be3d56cbeb0a",
+      "line_text": "Taste and looking are similarly modest, complete goods. A first ice-cream bite is actual; the lost bar is a separate loss; later shaved ice and energy are local positives. Costume Shop close wording explicitly says looking was fun although she could not buy. That unpurchased pleasure has standing. There need be no covert purchase, commercial role or future fashion achievement for the observation to matter. [10102:003:u:0034/0041/0053–0055;costume1900928101:Shop5.]"
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 99,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 100,
+      "line_sha256": "00f04248fe72bc1b50ef61e515c56183c644d9bac41b8d415486e621995e602a",
+      "line_text": "Hiyori also wants to become a model. The EVENT853 conversation neither launches a career nor demonstrates talent; Atsuko points out effort and that talent does not guarantee happiness. This does not prove the wish foolish. It is a meaningful possible future held alongside present magazine reading and a peer’s different hobby. Clothes and imaginative aspiration retain value before any work, income or public success is produced. [EVENT853E008:u:0012–0013/0023–0028.]"
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 101,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 102,
+      "line_sha256": "f597563cf95524295bf1e32ffa642db3664294297d66ca76f05ffd30e0bb1324",
+      "line_text": "The fireworks ending makes reciprocal pleasure actual. The failed display is not repaired; another set is purchased and used together. Hiyori’s initiative remains part of the resulting good, as the adult’s whole-message response attributes his enjoyment to her. The new material does not erase her intention or turn her into a passive spectator at his successful rescue. [10102:005:u:0041–0042;wholeMM101020230:messages450–520.]"
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 103,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 104,
+      "line_sha256": "47cad9a3d44e7d1aef142ba2cb96d7a2b6fd98879be5ef7860ad43d99b724e6b",
+      "line_text": "Finally, the photo choice at EVENT838 is not a rejection of magazines as childish or selfish. Hiyori selects this occasion’s shared photographs over a replaceable latest issue, and Saori explicitly says she need not accommodate the others. The delivered pictures follow a real preference and a chance to choose differently. Both the book habit and the particular memory remain valuable. [EVENT838E018–021.]"
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 105,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 106,
+      "line_sha256": "3791193e58a03c524054a3cd0d050a2fb7e3244e73308ece493d934a3d940028",
+      "line_text": "## 6. Crisis and adverse cases: finite help, mistaken strategies and unfinished repair"
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 107,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 108,
+      "line_sha256": "e5385f44612436e7e94c2186083c7a10542809817254bccad1ef615a5d4a3c31",
+      "line_text": "Hiyori’s material improvisations can put her at risk. Pole charging, salvaged medicine, the imagined combination of rotten food and medicine, poor water and discarded fireworks occur under reported scarcity. Recognizing that constraint does not certify the strategy. Her magazine interest explains how she finds an idea; it does not prove the information reliable or her whole judgment incapable. The distinction permits both critique of a specific means and respect for the wanted end. [20017:002/003/005;10102:005.]"
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 109,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 110,
+      "line_sha256": "edb2a26786150cc6b6b6a4da59b80246e629381a9148484edb7e6e324696783f",
+      "line_text": "The hospital is a consequential intervention rather than a metaphorical rescue. Hiyori collapses and is transported. The doctor’s local account is that the stomach problem is not a major illness, with a forecast of two or three days’ rest; apparent undernutrition is qualified. A ruin-water explanation and punishment belief belong to Hiyori. No laboratory findings, completed stay or lasting recovery are supplied. Her body need not be reconstructed from the magazine comparison or the adult’s inward appraisal. [20017:005:u:0007–0021.]"
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 111,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 112,
+      "line_sha256": "906849c34bf5c513c46e93aeec847bd9c93aefea0b99c2c27e9c85bbb539dd4b",
+      "line_text": "The requested overnight presence is positive, but it does not settle every intervention in the room. Hiyori wants to return to the others and is diverted by magazines. She requests company and later protests announced confiscation because reading is unfinished. The scene prints no completed taking. Treating both kinds of request as legible is better supported than a universal claim that the adult’s intervention necessarily matches her preferences. Her anxious promise to obey everything cannot erase the subsequent protest. [20017:005:u:0023–0036/0059–0064.]"
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 113,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 114,
+      "line_sha256": "840c41377a2f38d4632aec0f2ae50e9e3f01609eb7eed13353cace59ef368e9b",
+      "line_text": "The sun-care encounter gives several distinct degrees of bodily result. Pain and redness, reported sesame-oil use and advice belong to particular witnesses. Shade and ice supply local relief, with discomfort still present. Returning to sun leads to hurt again. The belly-care request is actual recipient-specific permission; it is not permission for all future touch. The two-bar idea after losing the ice cream is counterfactual, while shaved ice really is purchased. Her guilt and gratitude need not be flattened into a purely happy recovery. [10102:003:u:0005–0023/0030–0063.]"
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 115,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 116,
+      "line_sha256": "6e81568c5718e0745237dde9bc3924eaa81b509bcfa7c09ce945805cf5a1d68a",
+      "line_text": "The fireworks failure should remain a failure with a different subsequent good. The source identifies something odd mixed into the bucket, not a securely identified grenade or a tested explosive mechanism. The display is extinguished. A new set and actual joint play follow, with local energy restored in narration. This is a new experience after loss, not proof that the improvised display was safe or that every disappointment will be repaired by adult purchase. [10102:005:u:0034–0042.]"
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 117,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 118,
+      "line_sha256": "4b5e31f7b032a30a88ad87b6472cf657d3191ec92b84dc48ae976bad54e6071b",
+      "line_text": "Public crisis also preserves distributed action. Hiyori’s rejection of betrayal is consequential, as are the companions’ movement toward rescue, Mika’s delay and the wider Trinity care mobilization. Neither adult care nor Squad solidarity acts alone. The chapter does not erase the earlier harmful operation, guarantee no pursuit or make every participant clinically stable. Hiyori’s insecurity afterward is compatible with genuine rescue. [V003C004E008–027.]"
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 119,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 120,
+      "line_sha256": "33935751148905c91c8bed1fc10db94b8ac8edcc3fd3e58642e6ba87179bf433",
+      "line_text": "EVENT838 introduces protective violence inside leisure. Hiyori’s shot during confrontation belongs to that printed event; it does not yield a death, general combat ranking or an innocence ruling. Peer coercion against the DJ is a serious contrary case to care-as-consent, even where its aim is to keep Saori’s stage available. The later photograph and shared play cannot retrospectively authorize every means. Enjoyment and accountability coexist. [EVENT838E004–014/021.]"
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 121,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 122,
+      "line_sha256": "0e80f936b95f696b0c77cb39fdf0f7a66dcad81ce9589229a6dcce682b003486",
+      "line_text": "The monograph therefore refuses two totalizations. Hardship does not make pleasure meaningless, and pleasure does not certify enduring repair. What remains open is not a reason to delete the positive outcomes; it identifies the exact stronger witnesses still needed."
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 123,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 124,
+      "line_sha256": "7b2a09ec5621f11743f8c993594b04596292a6a18f1a4e4995c67423e8fe8bda",
+      "line_text": "## 7. Sensei: receiving the recipient’s preferences includes receiving her wish to give"
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 125,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 126,
+      "line_sha256": "f30a9984f515afab48aabe2cfd6cf77c79a81d922c8308f0d0c0dd72d1f9a2c8",
+      "line_text": "Some of the clearest care is material and finite: batteries for access, magazines requested, a swimsuit purchased, hospital transport, requested overnight company, cold relief and actual shared fireworks. These acts matter. Their value does not require Sensei to have created Hiyori’s interests or solved every structural condition. Hiyori supplies many of the desired ends and determines what some help is for. [Complete private15.]"
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 127,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 128,
+      "line_sha256": "bf9d2c40619059c6f77a23bf475f4e00262a1c816adc1e6899b602e5ec3d98d1",
+      "line_text": "The swimsuit is a strong test of the adult’s interpretive authority. Sensei has access to the expired date and knows he bought the item, while Hiyori understands it as a win. The printed alternatives sustain the false explanation. Her relief and partial-reward formulation are sincere responses to a misdescribed event. The resulting plans for further contests show why the deception matters beyond an isolated white lie: it may reinforce a route to hoped-for access that has not actually succeeded. No later successful prize is printed. [10102:002:u:0014–0030/choice005/u:0034–0047.]"
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 129,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 130,
+      "line_sha256": "5f0612d1fd7e1927bb01f185e5e4dc3f7fa848ff6d7654ce1f8bab6033e84b03",
+      "line_text": "The scene need not be reduced to cruelty to recognize that adverse fact. Sensei spends money on a wanted item, and Hiyori accepts its difference from the exact prize. Nor does material generosity make honest explanation irrelevant. The character is a participant whose plans depend on what she is told. The positive gift and unequal information are two parts of the same relationship, not competing versions from which the analyst must select one."
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 131,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 132,
+      "line_sha256": "42f13b08dac1b917660419683780bc99bfcd8c05c1bd50dd0cc9ed1b1c59b33c",
+      "line_text": "Requested presence also has a finite form. Hiyori asks the adult to remain at hospital, to come to the beach, to attend her thank-you encounter and to receive a present. A belly-care request is specific to a source-located condition. Other actions, including announced magazine confiscation and a surprise head pat, have different permission conditions. The account should keep those distinctions rather than transform gratitude or an obedience promise into blanket consent. [20017:005;10102:003/005;EVENT810E075.]"
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 133,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 134,
+      "line_sha256": "f658fd5d439625e83796ce33a52f1abf8c7924b0f61413ea4ab07c536fd41eff",
+      "line_text": "Her attempts to give are not merely symptoms to be treated away. In the fireworks scene, Sensei says repayment is unnecessary, but Hiyori says the relation would otherwise feel unfinished to her and asks for reception. In EVENT810 she sold valued magazines, hesitated and wanted once to give something. She believes magazines can be collected again; successful recollection is not shown. The adult’s acceptance answers a preference that cannot be met simply by declaring she has no debt. [10102:005:u:0013–0016;EVENT810E075:u:0022–0034.]"
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 135,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 136,
+      "line_sha256": "acc4e85ace1bc49aeaa157034b87d94af0a98fa14197559b6e3410eaaf2c7f58",
+      "line_text": "That reciprocity has real cost and ambiguity. The gift scene does not quantify how many magazines were sold or the price, and it does not say the whole collection vanished. Fear of further sacrifice and of uselessness remains Hiyori’s misunderstanding or self-appraisal, explicitly corrected or reassured through alternatives. Sensei makes no demand for her body, heart or other property. The ethical issue is the difference between her chosen tradeoff and a feared compulsory exchange. [EVENT810E075:u:0002–0034/choices001–007.]"
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 137,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 138,
+      "line_sha256": "ee3092060e6d42b90bc5d278437a36cc0842b3f28f971c1e27bac89d36b05c66",
+      "line_text": "Acceptance is a completed endpoint; eating the gift is not printed. At the ending Hiyori reports sudden head patting and expresses surprise and embarrassment. Japanese does not supply the Korean addition of pleasant feeling in the same way. A literary reading may retain affection while refusing to make either embarrassment or another language’s addition a fixed romance, a cure or advance consent. The recipient’s request concerned the gift; the next act has its own boundary. [EVENT810E075:u:0035–0037.]"
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 139,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 140,
+      "line_sha256": "64325575aaad8f02bf265717d0e24ce8af7dfe1f622b05e498b650ca994be7be",
+      "line_text": "The relation’s strongest affirmations are consequently local and two-sided. Hiyori chooses what to ask for and offers an experience; the adult’s whole-message response credits her with his enjoyment. He can help materially while being answerable for deception or pressure. She can value company without promising unlimited access or becoming permanently confident. This is a relation in which reception itself is part of care. [WholeMM101020230:messages450–520;complete private15.]"
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 141,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 142,
+      "line_sha256": "51843c8b26312e5743d583ff54273621e726e864bbc7fd5e86ecb3802c04a5a0",
+      "line_text": "## 8. Peers: solidarity contains differentiated wants and contrary accounts"
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 143,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 144,
+      "line_sha256": "79f62d0f9aad081de145b43a80027300f12118c20fd5e4f1751becf95160ad89",
+      "line_text": "Saori is a companion and an authority in Hiyori’s reported private world, but those roles must remain source-located. The warning not to depend on the adult is reported by Hiyori. Her own secrecy and fear that others will be angry do not constitute interviews with all peers or an actual punishment scene. Written “nee-san” address supplies a relationship idiom, not biological kinship. Publicly, Hiyori can reject betrayal and continue the rescue; she is more than a command receiver with no separate preference. [20017:002/003;written10102;V003C004E008–016.]"
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 145,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 146,
+      "line_sha256": "153c7ff4fd92055ea2fea50fb962e8fab559bc4afe168d7cd646d17c94658737",
+      "line_text": "The festival adds a consequential correction to dependency. Hiyori wants a magazine at first, then genuinely chooses photographs after the joint games. Saori explicitly says she need not accommodate the others. This makes the choice meaningful as Hiyori’s own comparative valuation rather than a mandatory sacrifice for group happiness. Real pictures are taken and distributed; permanent security or the ending of wage conflict does not follow. [EVENT838E018–021.]"
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 147,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 148,
+      "line_sha256": "487051f317cfbe987dac284fc626888b44b6b02fcd048c700e6ffb83838d52a7",
+      "line_text": "Misaki’s correction of the magazine-funding story protects a different truth. Hiyori values a hard-won purchase, but Misaki names the adult’s half contribution. The correction complicates self-reliance without invalidating the interest in fashion or the joy of reading. Misaki’s activity limits and solitude also do not become proof that Hiyori’s model wish is excessive. Their shared material predicament leaves room for distinct ordinary ends. [EVENT853E008:u:0004–0006/0012–0013;complete selected Misaki argument.]"
+    },
+    {
+      "frozen_line": 149,
+      "canonical_line": 149,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 150,
+      "line_sha256": "d53b8d5650831460b7d51cc6161e9c5dbfd783a46e3b069f8eddd82cb70ff150",
+      "line_text": "Atsuko gives another response to the model wish: talent does not guarantee happiness and work remains. Her gardening alternative is her own desired activity. Hiyori need not adopt it, and Atsuko need not be made a cynical opponent of fashion. Their short exchange is valuable because neither scarcity nor group identity produces a single preference. Herb leaves and a reported marinade discussion do not prove that someone actually ate spoiled meat. [EVENT853E008:u:0023–0028.]"
+    },
+    {
+      "frozen_line": 151,
+      "canonical_line": 151,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 152,
+      "canonical_line": 152,
+      "line_sha256": "14b750c1de40e09b2f23385968b41310ab868ce210c788697d64967d846b62a0",
+      "line_text": "The companions’ festival protection of Saori is both attentive and coercive. Shared interest in the stage explains their intervention; threats and confinement remain means with their own ethical consequences. Actual reunion and disclosed mutual support are positive without making everyone’s limits disappear. The same group can cooperate in danger, supply different prize desires and encounter leisure differently. Hiyori’s requests need not become the emotional register of every companion. [EVENT838E004–014/018–021.]"
+    },
+    {
+      "frozen_line": 153,
+      "canonical_line": 153,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 154,
+      "canonical_line": 154,
+      "line_sha256": "26ae2ba1ba82e5d3136160c9abac2a289261281f71c4a5555c7b17b5b06eca99",
+      "line_text": "Azusa’s separate life and Trinity’s independent recipients are equally important to the public comparison. Final’s Hanako accepts a conditional coalition at C002E015, not a universal absolution, and the later companion scene belongs to C004E010. Hiyori’s continued participation can widen her world without declaring Azusa’s relation resolved or every injured party reconciled. [Complete V003;FinalC002E015/C004E010.]"
+    },
+    {
+      "frozen_line": 155,
+      "canonical_line": 155,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 156,
+      "canonical_line": 156,
+      "line_sha256": "b22321d3e7df4ea63f5503ba4e5bff225f99655c3055c7b7d71014cb844f404b",
+      "line_text": "Maia and Subaru preserve Arius positions outside the returned Squad’s immediate private circle. Their wishes and grievances are not solved because a class or aid scene exists. The accepted MainV006 arguments allow a future of repair while keeping school legitimacy, resident assent and offices incomplete. Hiyori’s agency should therefore be read in directed relations and actual shared actions, not through an invented unanimous school voice. [V006C001–003.]"
+    },
+    {
+      "frozen_line": 157,
+      "canonical_line": 157,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 158,
+      "canonical_line": 158,
+      "line_sha256": "4c0d5714ab4aa6855c34a5943fd046bf31d03f8fb1e9d3f91a79f50aacac1eac",
+      "line_text": "Anonymous students, shop and hotel roles, doctor, festival organizers and local labels remain actual surrounding recipients and actors. Their narrative functions need not be globally joined to count. The school affiliation or a repeated letter supplies no automatic identity chain. Hiyori’s positive preferences can be received without converting everyone nearby into members of a single support system."
+    },
+    {
+      "frozen_line": 159,
+      "canonical_line": 159,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 160,
+      "canonical_line": 160,
+      "line_sha256": "439976868fe88c63ddda7aaee2122746b7e51595f3f3538b8b3cb837fee89cca",
+      "line_text": "## 9. Written register: self-deprecation is a perspective, not a final judgment"
+    },
+    {
+      "frozen_line": 161,
+      "canonical_line": 161,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 162,
+      "canonical_line": 162,
+      "line_sha256": "a435eadf4e0f8d9e3a09e6f54bed60ff846e304e6976eb7bc99c964fde4291af",
+      "line_text": "Both profiles name槌永ヒヨリ, second-year status, sixteen, January8,155cm and magazine collecting. The base third-person negativity and low-esteem account, including the heavy bag, remains profile narration. It is not a performed observation or a clinical diagnosis. The native identity anchors a bounded comparison of20017 and10102; it does not independently synchronize every private, public and written moment. [Complete selected written20017/10102 arguments.]"
+    },
+    {
+      "frozen_line": 163,
+      "canonical_line": 163,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 164,
+      "canonical_line": 164,
+      "line_sha256": "ccf62d0ca04a3ffed6aeb50daad3be2451f88ff0cad0250cbb6a733646b43e46",
+      "line_text": "Base20017 containsUITitle3979,CharacterGet3980,Cafe3981–3985,UILobby3986–4009,WeaponGet4010 andUILobbySpecial4011–4021, with noUILobby2. The work request while with the teacher asks whether mere presence can suffice. Work pain and born-to-suffer language remain self-talk; tentative “perhaps different” is not a narrator-certified cure. The navel Special parallels the hospital’s anxiety without producing another illness or recovery episode. Weapon exploitation rhetoric is Hiyori’s account, not an inspected contract. [Written20017:UILobby3990–4003;Special4011–4021.]"
+    },
+    {
+      "frozen_line": 165,
+      "canonical_line": 165,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 166,
+      "canonical_line": 166,
+      "line_sha256": "713e7eca4d2fa7ed12042704dc07af2148b1d9684a61953210132c26c6a9d6ab",
+      "line_text": "Summer10102 hasUITitle1,CharacterGet1,Cafe1–5,UILobby1–24,WeaponGet1 andUILobbySpecial1–10, again no duplicateLobby2. The profile’s apparent difficulty enjoying one hundred percent is qualified description, not a measurement. Ice wishes and thanks, old-magazine and shortage complaints, photo reports and offers retain their predicates. A reported photograph does not supply received pixels; a Squad invitation is prospective rather than all companions already present. [Complete written10102 argument.]"
+    },
+    {
+      "frozen_line": 167,
+      "canonical_line": 167,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 168,
+      "canonical_line": 168,
+      "line_sha256": "3b059bdbb5dcc4190912aefa54608ef702314b0ea0d5f5c109afc7a8f1b1fd6d",
+      "line_text": "Birthday lack-of-interest language and becoming special coexist. The New-Year wish to keep living is meaningful without certifying permanent recovery. Christmas bought-gift wording is an actor report; the recipient offer is not a narrator-confirmed exchange. The weapon refusal to give back later is an explicit local boundary, not a contradiction that deletes all her wanted reciprocity. A person may want to give in one situation and decline a future obligation in another. [Written10102:Lobby16–21;WeaponGet1.]"
+    },
+    {
+      "frozen_line": 169,
+      "canonical_line": 169,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 170,
+      "canonical_line": 170,
+      "line_sha256": "ed130fba41a8db4413ee1458b6fa8d7891e046b6478645e7cc5a40cfdb9060e4",
+      "line_text": "Costume1900928101 binds10102 and has an emptyProfile. The printed contexts areUIEventLobby838:1–20,10838:21–40,900838:41–51, andUIEventShop838:1–13/10838:14–26. There is noShop900838 orMission class. The possible highest point and first-experience formulations are personal modal history, not readerFIRST labels. Fear the enjoyment will never recur, a return promise and a future resort hotel do not establish another trip. Looking without buying is expressly fun; conditional purchase gratitude supplies no securely identified bought item. Seaweed edibility is a question rather than eating. The difficulty of returning to ordinary life keeps unequal resources present. [Complete selected costume argument.]"
+    },
+    {
+      "frozen_line": 171,
+      "canonical_line": 171,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 172,
+      "canonical_line": 172,
+      "line_sha256": "496792629366d956e1f6fb717ff4742dfad511f78d9cfe708faa1584fcecaec4",
+      "line_text": "The repeated pattern of hesitation, broken message openings, self-deprecating escalation, laughter wording and sudden panic supports a written register. It does not certify performed pitch, timing or diagnosis. Apparent failure to receive a message can be Wi-Fi-related; image, video and coupon placeholders are printed tokens rather than inspected media. Adult inward speech and formal alternatives remain different from externally heard statements or an independently observed player decision. [WholeMM200170010/101020230;complete private15.]"
+    },
+    {
+      "frozen_line": 173,
+      "canonical_line": 173,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 174,
+      "canonical_line": 174,
+      "line_sha256": "06fb2c08429f1d5d0a8362810534f8056c00d7be15c2e3f3bf76a009a879a21a",
+      "line_text": "This register gives Hiyori a capacity to reinterpret events, not simply a fixed pessimistic label. A Wi-Fi explanation revises abandonment; an unexpected failure is named beside actual fun; gift acceptance allows happiness without erasing prior fear. “I will never forget” names her present valuation rather than a longitudinal memory test. The literary significance lies in the changing local appraisal and the things it values, even where performance remains unreceived."
+    },
+    {
+      "frozen_line": 175,
+      "canonical_line": 175,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 176,
+      "canonical_line": 176,
+      "line_sha256": "c147dd4d12c3347819eebe4e070f6882a2d3d028e7c30d4978f94c3afa24a38d",
+      "line_text": "## 10. Competing readings and their strongest tests"
+    },
+    {
+      "frozen_line": 177,
+      "canonical_line": 177,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 178,
+      "canonical_line": 178,
+      "line_sha256": "ded7db11f8c3c6a2623ba8fbb358be9ee440db385e016373a4f70782cef7e11b",
+      "line_text": "**“Magazines matter only because they reveal poverty.”** Burning unread pages for warmth, limited buying power and unsafe information give this reading substantial material evidence. Fashion interest, shared harvest joy, novels at full brightness and looking without buying require a broader account. A hobby can also be a resource, a cost and a medium of imagination. Its value is not exhausted by survival or a later model career. [20017:002/003;EVENT853E008;costumeShop5.]"
+    },
+    {
+      "frozen_line": 179,
+      "canonical_line": 179,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 180,
+      "canonical_line": 180,
+      "line_sha256": "5cc18b7dd2f07203350e56d00ab0dce26a1517c7c0d4a0310fd849c2db2423cd",
+      "line_text": "**“Hiyori has no agency because she depends on Sensei.”** Purchased goods, hospital transport and reliance are real. Her own requests, initiated thank-you meeting, valued-magazine tradeoff, desired reception, model wish and photograph choice are equally real. Dependence constrains available means without removing all preference or authorship. The adult does not create the sea wish merely by buying the swimsuit. [Complete private15;EVENT810E075;EVENT838E021.]"
+    },
+    {
+      "frozen_line": 181,
+      "canonical_line": 181,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 182,
+      "canonical_line": 182,
+      "line_sha256": "3e3cb6f4dde2fb56579e7160a6e62e9d9d04599cdfb2fba97bca89e3cdd97246",
+      "line_text": "**“The happy swimsuit gift makes the false explanation harmless.”** Wanted clothing, happiness and partial reward are strong positive evidence. The expired contest, adult purchase, false alternatives and new contest plans are contrary evidence. No subsequent prize validates the misleading lesson. The monograph can affirm generosity while preserving the recipient’s unequal information and ability to plan. [10102:002;wholeMM101020010.]"
+    },
+    {
+      "frozen_line": 183,
+      "canonical_line": 183,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 184,
+      "canonical_line": 184,
+      "line_sha256": "6a5049235a5381927685ad0b4c42531f753cb27f3934e3a26778ea3422398396",
+      "line_text": "**“Giving proves she has escaped dependency.”** The gift and fireworks invitations show initiative and a desired reciprocal role. Their costs, salvaged means, mistaken sacrifice belief and the adult’s replacement set keep material inequality present. Reception grants a local experience rather than certifying economic independence, total confidence or a debt fully paid. [10102:005;EVENT810E075.]"
+    },
+    {
+      "frozen_line": 185,
+      "canonical_line": 185,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 186,
+      "canonical_line": 186,
+      "line_sha256": "efc0588934ae7b74e41929d65e2f925a0f6c536a03faea07341fa0103fa64154",
+      "line_text": "**“Her obedience and gratitude authorize all adult intervention.”** Hospital reliance and explicit bodily-care request make some interventions well supported. Magazine protest, the source-specific scope of belly care and surprise at a head pat keep their limits visible. No conceivable future treatment follows from an anxious promise. Distinct requests and acts require distinct conditions. [20017:005;10102:003;EVENT810E075.]"
+    },
+    {
+      "frozen_line": 187,
+      "canonical_line": 187,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 188,
+      "canonical_line": 188,
+      "line_sha256": "72f208ab62399eb49f7191fd2c32320d01667f02b9f2efbb4e6f8d20ad20305c",
+      "line_text": "**“A photograph replaces her magazine habit with mature group feeling.”** The genuine preference for this shared occasion’s pictures is positive, and Saori’s no-accommodation statement gives it unusual weight. Hiyori’s continuing magazine interest and the comparison with a replaceable issue prevent a universal conversion. The choice is meaningful because both goods have standing. [EVENT838E018–021;complete written/private arguments.]"
+    },
+    {
+      "frozen_line": 189,
+      "canonical_line": 189,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 190,
+      "canonical_line": 190,
+      "line_sha256": "4c8e107b189f5d04e7be018c9178deab146d4481f0428c72ad7ade44102f0c66",
+      "line_text": "**“Recurring bad outcomes confirm that pleasure is forbidden to her.”** Loss, hurt, scarcity and fear supply the pattern Hiyori sometimes proposes. Actual books, taste, bought clothing, accepted gift, shared fireworks and photographs contradict the total verdict. Those successes need not be permanent or spectacular to count. Her own joy and wanted futures are positive witnesses rather than mistakes the analyst must correct. [Complete private15;EVENT810/838/853.]"
+    },
+    {
+      "frozen_line": 191,
+      "canonical_line": 191,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 192,
+      "canonical_line": 192,
+      "line_sha256": "2198a557070bd241f9582a7473cb0fef7befdef1bbcbc61f14fd45300ee139bc",
+      "line_text": "**“Coercion makes the public Squad operation irrelevant, or public harm makes care undeserved.”** Both positions erase a consequential side of the accepted Main argument. Coercion, present harm, an independent refusal of betrayal, collective rescue and accountability remain together. Other recipients can retain grievances, while Hiyori still has a claim to an answerable future and ordinary wants. Neither innocence nor permanent reconciliation is supplied by private pleasure. [V003C003/C004;V006;Final.]"
+    },
+    {
+      "frozen_line": 193,
+      "canonical_line": 193,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 194,
+      "canonical_line": 194,
+      "line_sha256": "062c3757d60a5ee2661f59d447fbde91d7ab62b4e4dc74bbc0216001f28057b2",
+      "line_text": "**“Shared fireworks certify lifelong recovery.”** The narrator completes a new set and joint play, with local energy returned; whole messages name fun and unforgettable memory. Earlier danger, continuing insecurity and the absence of long-term verification limit the stronger reading. A completed afternoon is still a completed afternoon. Respecting its degree protects the affirmative ending from being lost or inflated. [10102:005;wholeMM101020230.]"
+    },
+    {
+      "frozen_line": 195,
+      "canonical_line": 195,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 196,
+      "canonical_line": 196,
+      "line_sha256": "7bdd7530bd740c2152eaa00fcfb39f744e63c5eb368430269adb8e7b2f87b3af",
+      "line_text": "The central thesis survives these rivals because it gives finite goods their actual scale. Hiyori may remain vulnerable, mistaken or self-doubting while genuinely wanting, receiving, choosing and giving. Those acts have standing before the world around her is fully repaired."
+    },
+    {
+      "frozen_line": 197,
+      "canonical_line": 197,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 198,
+      "canonical_line": 198,
+      "line_sha256": "bc975ad429ca5f09919dfd2aaf8e7733fb081bc6cc2f8e4aaeca382f8f169580",
+      "line_text": "## 11. Evidence routes, fourteen open gaps and completion boundary"
+    },
+    {
+      "frozen_line": 199,
+      "canonical_line": 199,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 200,
+      "canonical_line": 200,
+      "line_sha256": "95c50ae13a55ee62b8bde8d6a940e86fcf5a579831ade3745b4855bbc0f76c75",
+      "line_text": "Canonical target:`series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIYORI_CHARACTER_MONOGRAPH.md`. ROOT independently received and accepted the complete bounded literary argument with limits. The receipt binds current accepted whole arguments, accurately refreshed spans, three necessary complete Japanese objects and exact saved paragraph custody. Hashes and metadata selectors give no automatic reading credit."
+    },
+    {
+      "frozen_line": 201,
+      "canonical_line": 201,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 202,
+      "canonical_line": 202,
+      "line_sha256": "8cbf4d41bc736e2a1c40dafe95020b713d08a3909af48e5ac5b6a4e52ee3172d",
+      "line_text": "| Responsibility | Exact owners or IDs | Argument and boundary |"
+    },
+    {
+      "frozen_line": 203,
+      "canonical_line": 203,
+      "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+      "line_text": "|---|---|---|"
+    },
+    {
+      "frozen_line": 204,
+      "canonical_line": 204,
+      "line_sha256": "8b66814634361505fd7d29ac5d8cf6d82608d6eb96c22e191d25b887c04983f1",
+      "line_text": "| Private15 | `02 Sequential Readings/BOND/BLUE_ARCHIVE_MISAKI_HIYORI_SUBARU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md` | Personally complete826-line current owner reused; Hiyori6BOND+6wholeMomoTalk+3written. Misaki17/Subaru11 remain separate. Cycle008 supersedes retained historical producer clauses. |"
+    },
+    {
+      "frozen_line": 205,
+      "canonical_line": 205,
+      "line_sha256": "7bf8ed04d5ad52bf0e99b45b505def34b8b2501e53a8c790cc8c7b0ab68fcdff",
+      "line_text": "| Base20017 | BOND002/003/005;wholeMM200170010/120/250 | Finite access, wanted reading/fashion, actual magazines/medicine purchases, hospital transport/requested presence/unfinished reading protest. No blanket safety or completed discharge. |"
+    },
+    {
+      "frozen_line": 206,
+      "canonical_line": 206,
+      "line_sha256": "41cbeb7e47851361274a2df2b05bd8978735d94b8afacb4d9f432265cd75c8af",
+      "line_text": "| Summer10102 | BOND002/003/005;wholeMM101020010/170/230 | Own sea/clothing wish, false contest explanation, local relief/taste/loss, initiated reciprocity and actual shared fireworks. Whole tails retained. |"
+    },
+    {
+      "frozen_line": 207,
+      "canonical_line": 207,
+      "line_sha256": "c68b970da2ccea43e51099df9d2e5ec3ec6f136b45cef31783aadb96d2f6643e",
+      "line_text": "| Written3 | character_data20017/10102;costume1900928101→10102 | Native identity, magazine hobby, self-talk, contextual wants and unpurchased looking pleasure. No performed or extra narrative-event credit. |"
+    },
+    {
+      "frozen_line": 208,
+      "canonical_line": 208,
+      "line_sha256": "01bb2aeaea6e1a8ef60491871c34810c8bf0bb9924f634d2e269eb2a220e568c",
+      "line_text": "| MainV003 | Complete maintained account andC003/C004 | Harmful operation, coercion, refusal of betrayal, collective rescue and insecure aftermath with attribution limits. |"
+    },
+    {
+      "frozen_line": 209,
+      "canonical_line": 209,
+      "line_sha256": "dee30ca48819052b9baaeecacab3ce7eadbe394e6c809c832b0298dd27613465",
+      "line_text": "| MainV006 | Complete maintained account andthreechapters | Real learning/aid alongside independent stayer grievances and unfinished legal/institutional future. |"
+    },
+    {
+      "frozen_line": 210,
+      "canonical_line": 210,
+      "line_sha256": "3ecb3f4b7b92b7a15c21dd91055ce4985165fff4cf4c283534553e2a400d98f5",
+      "line_text": "| Final | Complete maintained account/fourchapters;C002E015/C004E010 | Conditional coalition and later companion scene, not universal absolution or employment settlement. |"
+    },
+    {
+      "frozen_line": 211,
+      "canonical_line": 211,
+      "line_sha256": "1b734ef2dd9594a5095717dcafe3ea81525295b4e83d8a1540c16d3cf3e27f74",
+      "line_text": "| EVENT810 | Complete102-object current owner reused;wholeE075 deep argument | Deliberate magazine-funded gift, false sacrifice belief corrected, requested acceptance and unrequested head pat; no eating or entire collection loss. |"
+    },
+    {
+      "frozen_line": 212,
+      "canonical_line": 212,
+      "line_sha256": "2c05d0b4a91a3f4ee75e6ccb61bd0d9e25b83a62f3446d397b8432afe12993fa",
+      "line_text": "| EVENT838/853 | Complete21/13-object current owners and exact rosters reused | Joint leisure/protection, actual photo choice/delivery, differentiated fashion/model/effort/gardening positions. |"
+    },
+    {
+      "frozen_line": 213,
+      "canonical_line": 213,
+      "line_sha256": "f2bfe6e238af2990b1ba6c3ace6c06c6179e0389206ee7925a05595cf8943827",
+      "line_text": "| GROUP context | Accepted V003/V006 relevance scopes | Surrounding care and schools, without invented Squad sequence, membership or substituted private scope. |"
+    },
+    {
+      "frozen_line": 214,
+      "canonical_line": 214,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 215,
+      "canonical_line": 215,
+      "line_sha256": "220cc58725a7413c193098d98887bebd52fdfb340bc17cb7130f5ade1797dc5c",
+      "line_text": "All fourteen original gaps remain **OPEN**, constraining the following stronger propositions."
+    },
+    {
+      "frozen_line": 216,
+      "canonical_line": 216,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 217,
+      "canonical_line": 217,
+      "line_sha256": "851f2dbecb543c892097f9aef02b0fdc564678fdbb9b2b596c6c3d7e02894265",
+      "line_text": "| Gap | Claim-specific limit and witness still required |"
+    },
+    {
+      "frozen_line": 218,
+      "canonical_line": 218,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 219,
+      "canonical_line": 219,
+      "line_sha256": "1c2a4e9a45a2acf4ca54d2f624bbdc0cddf1a9d34a3da9560eb809841a1ed894",
+      "line_text": "| G01 ordinary/private | Complete15 establishes particular desires and outcomes. Complete reading, later collected replacements, future modelling, resort trip and durable memory require their own endpoints. |"
+    },
+    {
+      "frozen_line": 220,
+      "canonical_line": 220,
+      "line_sha256": "d884ad119aadb10d7bbdfaf7f3230788572f1dcb620724826d7d9e0e2e5513d5",
+      "line_text": "| G02 Yuuka | Financial/access analogy creates no direct Hiyori–Yuuka relation, budget responsibility or transferred complete private scope. |"
+    },
+    {
+      "frozen_line": 221,
+      "canonical_line": 221,
+      "line_sha256": "11156635579d9499f987bc55dfd758011436d99775a9e7726c0663f2b425edf8",
+      "line_text": "| G03 Serika | Material scarcity and work language do not authenticate a common employment regime, Serika’s labor or a shared remedy. |"
+    },
+    {
+      "frozen_line": 222,
+      "canonical_line": 222,
+      "line_sha256": "eb5fcdf5fc1331dda4f7d595bd92a0afdc5b5c02c29249b85df4a840e2f68d1e",
+      "line_text": "| G04 Hina | Distress, duty or summer comparison supplies no exact causal link, synchronized private state or common recovery mechanism. |"
+    },
+    {
+      "frozen_line": 223,
+      "canonical_line": 223,
+      "line_sha256": "7c01b796f17181a2aecdabfb0f635af9cc107a4d13267f250a18e2590125b94e",
+      "line_text": "| G05 Arius/PS68 | Companion care and Hiyori’s independent choices are received. Permanent shelter, Saori’s full livelihood, every peer’s private response and directed PS68 ties remain separate required duties. |"
+    },
+    {
+      "frozen_line": 224,
+      "canonical_line": 224,
+      "line_sha256": "164971ec2f3fbf2d1d14a8003beb1579df0708b944e8027a43442ef4af8fa414",
+      "line_text": "| G06 cross-school | Actual rescue, coalition and surrounding GROUP context do not establish universal affiliation, unanimous acceptance or each recipient’s reconciliation. |"
+    },
+    {
+      "frozen_line": 225,
+      "canonical_line": 225,
+      "line_sha256": "65bd53bebfa0ab4146da0768f87f745d04f807648ad2539efe4fbce1b2a951b4",
+      "line_text": "| G07 chronology | Printed within-object and local event links count. Release/variant order does not date every visit, post-parole gift or global confidence trajectory. |"
+    },
+    {
+      "frozen_line": 226,
+      "canonical_line": 226,
+      "line_sha256": "db24f47f501dbd8bef6dd603b1b364888b1bbd31a98e68bc91fb8905d718abf1",
+      "line_text": "| G08 names/local IDs | Costume838/10838/900838 aliases and scene-local labels give no extra trips, years, people or cross-event identity joins. |"
+    },
+    {
+      "frozen_line": 227,
+      "canonical_line": 227,
+      "line_sha256": "5791ca15df182181d9e6e29fad4364ae8456e0eab5a44f5b8c1ff54c9e3f065e",
+      "line_text": "| G09 attribution/choices | Formal alternatives and whole message tails are retained. Main/event speaker seams restrict individual phrase ownership; inward responses do not prove universal audibility. |"
+    },
+    {
+      "frozen_line": 228,
+      "canonical_line": 228,
+      "line_sha256": "9d8f12667b37c37b0f125d04504200c067f1436ec54335a5538109242c5ba2f7",
+      "line_text": "| G10 audiovisual | Magazine bodies, swimsuit fit, photos, placeholders, blush and stage tokens are not inspected image/performed evidence or clinical observations. |"
+    },
+    {
+      "frozen_line": 229,
+      "canonical_line": 229,
+      "line_sha256": "4d0ae83bfb9fb28d630a4af69593cb356c2dae28c82e9081c6164d6e155f4560",
+      "line_text": "| G11 records/office | School/aid/test scenes and resource reports lack full charter, gradebook, budget, utility and archive authentication. Hiyori receives no invented office. |"
+    },
+    {
+      "frozen_line": 230,
+      "canonical_line": 230,
+      "line_sha256": "a0bbc97545d606fabc4c986833da8c99bb1e8ae173d3f6255be08c9d83334b96",
+      "line_text": "| G12 identity/variants | Exact槌永ヒヨリ/personkey20017/10102 and costume bind bounded comparison, not synchronized body growth, global calendar or another person. |"
+    },
+    {
+      "frozen_line": 231,
+      "canonical_line": 231,
+      "line_sha256": "c4176e259e5f01d1e61881fc1843a8d5728738e66937d0960a5916e323ffa42c",
+      "line_text": "| G13 technical/clinical/legal | Doctor speech, apparent undernutrition, local relief, ruined-water explanation, power use and fireworks failure remain different witnesses. Lasting recovery, lawful utility use, safe inventory and complete custody require explicit evidence. |"
+    },
+    {
+      "frozen_line": 232,
+      "canonical_line": 232,
+      "line_sha256": "ca24b8b68370382b8064a19eed0f7e8cc828fb3dd1082a951e2f512bfdf05d3a",
+      "line_text": "| G14 modes | Wish, fear, self-talk, report, inward narration, formal option and completed act remain distinct. False contest explanation does not become a win; costume purchase language does not identify an actual bought item. |"
+    },
+    {
+      "frozen_line": 233,
+      "canonical_line": 233,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 234,
+      "canonical_line": 236,
+      "line_sha256": "17382fb5206ea870de30ee01d0a9f8caefe0a2cce28e225855e0e5b323e8d01d",
+      "line_text": "No known mandatory recovery remains for the bounded claims asserted here. Complete Japanese10102:002 confirms the expired contest, actual adult purchase and false explanation; complete10102:005 confirms the unidentified mixed object, failed first display and actual new-set joint play; its whole message confirms mutual fun and present memory valuation. Stronger legal, clinical, technical, visual, chronological and institutional claims need the witnesses named above. An unfinished wish or promise remains meaningful without being promoted to an action."
+    },
+    {
+      "frozen_line": 235,
+      "canonical_line": 237,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 236,
+      "canonical_line": 238,
+      "line_sha256": "e44a90dee7f1c781163baca6fccd5aff36a9d3f097fcc26cfee1941caaee1e36",
+      "line_text": "This monograph’s completion is distinct from full Phase3 completion. Directed Hiyori–Sensei/Saori/Misaki/Atsuko relations, Squad/stayer/cross-school relations, differentiated Arius ensemble and institution, livelihood/access and written-register/ethics packages remain required justified specialist work. ROOT alone receives/adopts, reconciles full eligible-cast responsibilities and determines integration/merge milestones. This monograph grants no global registry, model, new denominator, quarter, remote publication or merge result."
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        234,
+        233
+      ],
+      "canonical_lines": [
+        234,
+        235
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HIYORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.",
+        ""
+      ]
+    }
+  ],
+  "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+  "terminal_LF_preserved": true,
+  "schema": "BLUE_ARCHIVE_EXACT_OLDER_STABLE_GAP_ASSOCIATION_TRANSPORT_V1",
+  "status": "ROOT_ACCEPTED_EXACT_ASSOCIATION_INSTALLATION_PENDING",
+  "original_source": "5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+  "earlier_original_source": "92184703994a1950a5660654ce52d8516dbe9bf5",
+  "original_G14_line": 232,
+  "exact_added_paragraph": "**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HIYORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.",
+  "complete_byte_inverse": {
+    "unchanged_prefix_bytes": 45446,
+    "exact_inserted_UTF8_text": "\n**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HIYORI_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.\n",
+    "exact_inserted_bytes": 490,
+    "unchanged_suffix_bytes": 1098,
+    "inverse": "Remove precisely the inserted span beginning at the unchanged prefix byte length; entire original bytes/hash/blob are recovered."
+  },
+  "original_local_gap_rows_unchanged": true,
+  "current_ROOT_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_OLDER_STABLE_GAP_ROOT_ACCEPTANCE_AND_TRANSPORT_V1.json",
+  "older_public_saved_and_ROOT_tuple_qualification": "Earlier immutable author/ROOT/saved-output records bind their exact pre-association derivative, not the new current derivative. This exact transport controls only the approved zero-credit gap association; prior literary/source custody is unchanged.",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "new_credit": 0
+}

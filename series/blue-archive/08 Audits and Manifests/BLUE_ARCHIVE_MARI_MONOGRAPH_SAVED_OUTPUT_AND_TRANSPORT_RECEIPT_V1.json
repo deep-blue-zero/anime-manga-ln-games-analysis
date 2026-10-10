@@ -1,0 +1,1166 @@
+{
+  "schema": "BLUE_ARCHIVE_MARI_MONOGRAPH_PUBLIC_SAVED_LINE_TRANSPORT_V1",
+  "status": "EXACT_REVERSIBLE_CANONICAL_PREPARATION_ROOT_INSTALLATION_PENDING",
+  "full_saved_body_line_inverse": {
+    "original_exact_tuple": {
+      "path": "SISTERHOOD_MONOGRAPHS/BLUE_ARCHIVE_MARI_CHARACTER_MONOGRAPH.md",
+      "bytes": 42287,
+      "sha256": "e471bdba456f2ed878cb4019a01f0095bc92a81cff501c9944812a7023d9540c",
+      "git_blob_oid_of_actual_bytes": "f6c75bd0b936ed451c332c95b1f47e9502398699",
+      "lines": 172,
+      "immutable_transport_path": "immutable_originals/SISTERHOOD_MONOGRAPHS/BLUE_ARCHIVE_MARI_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MARI_CHARACTER_MONOGRAPH.md",
+      "bytes": 44257,
+      "sha256": "862efe3228fc4fc5b13a5c385d5d6ec801f485ee4440ff7ff818509b7e750306",
+      "git_blob_oid_of_actual_bytes": "ab0b0512b98037874e72c028d098f623e9562935",
+      "lines": 182
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "03fe149b82c93b871918c5832cb35833bdb456339aa3be96360999cb67ef0371",
+        "line_text": "scope: P3-CHAR-MARI"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "64eebb5efa0885227d6d5bf34eb64f3d302d5c1c43e5d0ec005841d974ac74ce",
+        "line_text": "responsibility: P3-F113"
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "a4b5ff6543a6356e61ee90d04f3c4f97b380d09d31c9861377455180c1858c65",
+        "line_text": "person_identity: BA_PERSON_MARI"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "32c0fa71b215caefd0b90909c902edf19a0f5d095690f1aac8e7f96d48efb2ce",
+        "line_text": "execution_class: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "e56c8909f82aefa5a6fa144f7f673def93639529b2890137672003de0881c71c",
+        "line_text": "architecture: \"1.12 / section7.1 eleven dimensions\""
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "fc99ed1294c51b7a55e21c3d80c5000d0c8bcf96a11c809f7f317733444f2fe1",
+        "line_text": "dated_navigation_head: cf2fba61c9e8448acdd2677f06d5258c051a6ba4"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "94489301a0c3d2991e8ecfcabd0b0d0e5bfdf5ea65c0afe9e081f4238fcafc1e",
+        "line_text": "game_version: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "b9f24d7a3836087902179eab2d2e4e497eee1d8460537a33a21e4d77e8fc3e9e",
+        "line_text": "canonical_parser_version: \"0.2.0\""
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "8a463ffcc1a0e189d09b7514ae8081c83424f55f400a2d920c0e38d9d9760fce",
+        "line_text": "source_boundary: \"Complete adequate accepted Sisterhood private analytical checkpoint: Mari29 and Sakurako21 as comparison, not fifty newly inspected primaries. Mari ordinary23008, athletic10054 and idol10105; costume1900906801→10054 and1900931001→10105. Consequential accepted Main, sporting, idol and gift arguments at the exact whole/reused/scoped boundaries in the companion receipt.\""
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "243e7d62dbf6199f5c80771caffbfa13683ca0c0a974005a078fbe3d833c8ce7",
+        "line_text": "authority_quartet: \"Current Cycle008 admission; personally complete adequate accepted arguments; attributed historical source-reading/exposure/independence; performed voice unreceived\""
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "15e21190c90dfeb13a6a7dc79c144686098f8651e9a8228db1c349bff80e2b5a",
+        "line_text": "source_reading_state: NO_NEW_PRIMARY_NATIVE_RAW_QA_AUDIO_OR_CONTINUOUS_AV"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "d94d869b6867b8c20bd533adc8cb09f4fbab0204bcf0c3b32f308b1bc9246e0f",
+        "line_text": "historical_original_author_exposure_custody_independence: UNKNOWN_WHERE_UNDECLARED"
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "82c34386bb6a84898ea4dab870d11bf9e554b90810fd586899c6935b44669ced",
+        "line_text": "reconstruction_state: RETROSPECTIVE_TEXTUAL_SYNTHESIS_NO_OPERATIONAL_MODEL_OR_PREDICTION_PROMOTION"
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "6c61856351846388fd9768e8218fb297d4761132baba343351af99538066667b",
+        "line_text": "original_source_gaps: ALL14_OPEN"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 33,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 34,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 27,
+        "canonical_line": 35,
+        "line_sha256": "68a6edc442d373786d2ec2bbbf542784cc07d84aa4487ecde39d322da698b893",
+        "line_text": "# Mari — receiving a life without surrendering a vocation"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 38,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 39,
+        "line_sha256": "22c638a11353ba5e0a44999420024a5298ac185048356341e20fdb2af63eba67",
+        "line_text": "Mari is 伊落マリー / BA_PERSON_MARI. The current candidate row's English label “Marie” and the selected arguments' “Mari” designate this bounded registered person; neither authorizes a MARIE rekey. Her ordinary written/story context is23008, athletic10054 and idol10105. Their numerical order is not her developmental chronology. In citations below, B23008E006 means BA:bond:23008:006; T230080340 means BA:momotalk:23008:thread:230080340. Equivalent B/T abbreviations preserve the exact other variants. Event and Main identifiers retain their printed classes and episode suffixes. The evidence routes in§11 distinguish present admission from the older account's preserved intake warnings, whole accepted analytical reading from original primary inspection, and local textual outcomes from performed evidence."
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 40,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+        "line_text": "## 1. Core thesis"
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "ba05372db313b23e235b6932e836a624f31b201e8ec244df5320a8f697d867b4",
+        "line_text": "**Mari's characteristic difficulty is finding language in which receiving rest, attention and enjoyment can belong to her life without disqualifying her from the vocation she wants. Her strongest changes occur when she names a particular wish, receives a particular answer and retains the ability to decide its form.** This is a literary argument about the selected repertoire, not a diagnosis of compulsive self-denial. She already finds pleasure in prayer, enjoys company and makes effective practical decisions. The material repeatedly gives her reasons to accept something for herself; it also gives her reasons to say no. A monograph that equated growth with accepting every offered gift or every protective intervention would reproduce the pressure it was supposed to understand."
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "bf839df39c2a345b80cab8811fcb43f38dc4ddf0dd3db1931d7ff714e2963614",
+        "line_text": "In B23008E006 she wants occasional undemanding time near Sensei. In E015 she admits buying a white corsage because it was cute, keeps its pledge meaning and declines another purchase. AthleticE003 contains genuine festival pleasure despite exhaustion; E005 establishes a continued exercise habit. IdolE003 preserves her objection to excessive protection alongside a freely accepted escort. Event841 ends with her own happy leadership assent, a genuinely enjoyable week, a chosen return to ordinary Sister work and an emphatic limit on circulating photographs. Those are compatible decisions. None needs to be translated into a hidden rejection of faith, a permanent idol identity or an unlimited willingness to receive care. [B23008E006 u31–58/T230080340; E015 u29–58/T230080460; B10054E003 u30–42/E005 u16–58; B10105E003 u17–49; BA:event:841:010–011.]"
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "ecd95ff682274a7028f78861dae8ab2721b82abc4499488e82a10946b17f5308",
+        "line_text": "Her listening practice provides a useful starting distinction. She describes sharing pain as sometimes enabling people to recover for themselves and declines the grander title of adviser. That formulation gives the recipient a process of their own. Her own experience increasingly tests whether this permission can include the listener: someone may rest, enjoy a meal or sing because they want it, without first producing a benefit for everybody else. Yet the sources offer actual limits rather than guaranteed reciprocity. A proposed future prayer is not completed recovery; an escort she accepts now does not make earlier overprotection welcome; gratitude for reassurance does not turn a photograph into public property. [B23008E002 u14–21; E005/T230080250; B10105E003/E006; BA:event:841:011.]"
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "7f7c6f4a80bacf8de0ceba9fcd371222785093e1a8177a4cd041beed06e316ef",
+        "line_text": "## 2. Longitudinal arc and developmental states"
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "2831117ff084d27f772d2aadf9efd9746da38a521485e855a2b9a1108da97b1a",
+        "line_text": "The ordinary23008 packet supplies explicit local connections. E002 presents the embarrassment attached to answering “Sister,” an assumption that a visitor must have a problem and reluctance to rest. Sensei says he has only come to greet her. Straight praise and repeated title teasing are different adult alternatives; her request to stop survives the playful continuation. A decoration falls and the adult briefly loses consciousness, then returns without a large injury reported. The whole thread identifies the decoration and offers medical attention if pain appears. This ending establishes concern after an accident, not a narrator-certified punishment for the teacher's words. [B23008E002 u23–55/T230080010 messages230080120–190.]"
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "839c33beced441654b4cf7dd174f87cf5450ea645b0341961a8e9f6c23b68221",
+        "line_text": "E003 explicitly responds to that earlier injury. Prayer cleans her own mind as well as wishing peace for his paths; she considers it potentially “for us.” The whole thread records her comfort and renewed concern that personal benefit might make the motive impure. Sensei's report of calm gives the exchange two recipients. It does not abolish the standard she is struggling with. E005 moves the issue into bed rest: having wanted a day off, she fears illness may be punishment. Sensei offers a practical rival account, which she accepts as possible; she chooses rest and falls asleep. The coda records thanks after waking, not observed next-day full recovery. [B23008E003 u4–40/T230080130 messages230080300–390; E005 u25–46/T230080250 messages230080400–560.]"
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "c61943a70b61de413e7260c8c97bab1ab1fe8e7f7baca39daf510aaa5989b6a0",
+        "line_text": "E006 then recalls the rest episode and other Sisters' advice that serving herself sometimes matters. She names a wish for occasional company without a problem or special activity. The two adult responses explain acceptance through the student/teacher relation or through not being a Sister24hours a day. She keeps her aspiration and chooses also to relate as an individual student; they actually pray for each other. The thread's last call of “Sensei” has no instrumental demand: she simply wanted to call him. This very small completed contact is a developmental endpoint in its own right. E015 adds no guaranteed cure from guilt. She becomes calmer after admitting the corsage's cute appeal but remains unsure where every normal/abnormal line lies. Her chosen sufficiency—keeping this flower and declining another accessory—persists through the thread's follow-up question. [B23008E006 u23–58/T230080340 messages230080650–730; E015 u29–58/T230080460 messages230080850–910.]"
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "4817b18551a05cab5cf316772dfc15de532fae452ff5a43d8efaadf6c8bcbd6d",
+        "line_text": "The athletic packet has a different explicit sequence. E002 anticipates the festival and changes a possible withdrawal into renewed participation while exposure discomfort remains. E003 takes place at the festival: rest helps her regain energy, and she proposes relying on organizers or Sensei next time after acknowledging extra helping work between her own contests. She nonetheless says it is very enjoyable. E005 explicitly follows the festival and establishes exercise she has actually continued, a wish to participate again and a conditional invitation for the adult to exercise with her. The endpoint is an existing habit plus proposed company, not a narrated next competition or a scheduled shared workout. [B10054E002 u13–62/T100540010; E003 u10–60/T100540110; E005 u16–58/T100540230 messages100540410–480.]"
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "6ae364b4e428d737d2126a8ccaa28e01b12081b337daca8cb5f6b0497b21852c",
+        "line_text": "IdolE002, E003, E005 and E006 give practiced craft, contested protection, actual solo performance and a completed private live. Event841 provides its own exploration and decision sequence: the internal48hours-earlier return, the tour, a next-day report of chosen engrossment, confused leadership invitations, explicit assent and a week she enjoyed. Its temporal anchors are real; placement of the entire event against ordinary/athletic/private/Main material is unproved. IdolE006 intends a return to Sister work tomorrow, while event841E011 chooses to end the interval today. They are distinct local statements, not automatically one continuous farewell or evidence for a permanent discontinuity. [B10105E002–006 and whole threads; BA:event:841:002/007/010/011.]"
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "a0d53186a88aa5b4a4a361894dd329f3fd3aea1ac4594304a13741bbb01b5462",
+        "line_text": "## 3. Public and private selves"
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "82002c7352f9dabf3ef0b8e2c6fe760518514548bc1d8358dc557af5dd85c916",
+        "line_text": "Mari's private self is not a concealed opposite of a false public nun. Prayer and quiet are personally liked; her ordinary profile names prayer and thinking as hobbies. The shooting range in B23008E006 matters because it is quiet enough for reflection, and she explicitly denies that this conversation concerns guns. The scene relocates a familiar institutional space into a personally useful one without proving hidden militancy. Her hand-holding preference in E003 similarly describes a wanted shared practice and requires an invitation, rather than certifying protection through touch. Religious meaning is part of what she wants, not simply the obstacle from which she must be rescued. [B23008E003 u29–40; E006 u8–19; BA:character_data:23008:profile_and_dialog.]"
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "80113edebb10161b00928a1d42727a589e0ae1af6bbed31f5a88c97a6f684e48",
+        "line_text": "The corsage scene is a correction of an incomplete explanation. She first says the white flower reminds her of the Sisterhood pledge, then admits she bought it because it was cute. Both meanings remain. The teacher's reassurance makes it easier to admit ordinary student taste, yet she refuses the extra accessory and accepts a meal instead. The whole thread confirms that she cherishes the existing object more and finds it enough for now. Her relationship to a material object therefore becomes more freely expressed through choosing not to buy. A liberation narrative organized around accepting the adult's gift would miss the most precise evidence of agency in the ending. [B23008E015 u29–58/T230080460.]"
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "a23565cd5ab128913fd6528e2616cf5078137cf7fb103b14035f65e29b446d58",
+        "line_text": "Athletic dress confronts exposure and visibility, not a condemnation of bodily activity. She is uneasy without the veil and considers helping in ordinary clothing, then chooses participation after discussing what she enjoys. Her profile/lobby wording allows athlete and Sister roles to differ without making clothes determine prayer. Idol dress expands another possible public address: unfamiliar fan rituals, song offers, playful forms and a request for continued company. Those written conditions neither cancel ordinary boundaries nor create a second person. [B10054E002; BA:character_data:10054:profile_and_dialog UILobby4824–25/4831; BA:character_data:10105:profile_and_dialog.]"
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "0200e816411281a6c55e005e1bced8eceda2639fda4e009cb4c1cc29bf11a2bd",
+        "line_text": "Event841's ending supplies the strongest test of public/private distinction. Mari removes a mask for wanted face-to-face company, says the week was fun and then asks that performance photographs be disposed of. Sakurako agrees; actual destruction is not narrated. Mari privately gives Sensei one retained photograph. An explicit choice to perform and a later circulation limit concern different permissions. She does not owe the community every use of her image because it enjoyed her performance, and her selected private gift does not make the public request insincere. [BA:event:841:011 u1–110; current accepted episode meaning and limit.]"
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "694da85f33689bcb72b641656f9ed63c873b4bf08e6d4c0f9e0a5ad65b8ba3bc",
+        "line_text": "## 4. School and club context"
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "1b26354c3bbf5240bdd44f7d3d298d42de48b84c62ba99f40c9e0de74ff5cc1b",
+        "line_text": "The Sisterhood contains schedules, ordinary substitutions, task rotation, advice, shared taste and conflicting preferences. When Mari is ill, she asks Sensei to use other Sisters; the rest scene does not require the organization to cease functioning. At the supply errand, a rotation exists even though she often takes the task because others are busy and nobody else could come today. Peers advise her to serve herself sometimes. These points defeat a claim that the institution uniformly commands self-denial, while leaving room to examine whether frequent volunteering creates practical burdens. No audited schedule or charter follows from her description. [T230080250; B23008E006 u23–28; E015 u2–9.]"
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "c6309a08d6fe783d74333c1219f1e3022e1566d2df036c1062e71fa35c3c15c1",
+        "line_text": "Her relationship to Sakurako is neither interchangeable faith nor simple obedience. Sakurako has an office and public-image concerns; Mari describes learning to deserve the title and working through how to listen. Event841 places her between the leaders' different idol projects, where she fears affirming one means rejecting the other. Mine later acknowledges that a junior may struggle to refuse leaders. This asymmetry is consequential evidence, even though Mari genuinely becomes interested. The leaders' release from further research work, thanks and apologies are concrete local acts; their subsequent ignored contacts and incomplete explanations generate a different institutional problem. [BA:event:841:002/007/008.]"
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "476dc703c611df464818d73ceabc9de24c94c1cdb87854c3defe6d33cc1f2bd0",
+        "line_text": "Antique Seraphim leadership belongs to Mari's idol profile and explicit event choice. It is not Sakurako's Sisterhood office, Mine's Rescue captaincy or Tea PartyHOST authority. When Mari asks for lowered guns and dialogue, the leaders explain that they meant an idol group and apologize for overlooking her feelings. She then says she wanted to try and accepts. Immediate de-escalation is a positive endpoint; Nagisa's unfinished answer and promised later discussion leave formal accountability open. The distinctions between offices are part of how the misunderstanding works, not proof that an idol costume dissolves school power. [BA:character_data:10105:profile_and_dialog; BA:event:841:009–010.]"
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "799a7b0ebee146047aa03e6f86d4884b356dabb5fbf09ea3df4a605809a58cc0",
+        "line_text": "The accepted private account finds no directly Sisterhood-owned sequence within the admitted GROUP class. Actual peers, anonymous Sisters, club practice and public institutional scenes provide meaningful context; a Tea PartyGROUP story cannot be installed as Mari's own club account just to fill that category. The sporting committee gives a different cross-school role she gladly undertakes. Its design of shared fairness and school-specific response is articulated while the delegates still argue. Mari's mediation and personal-name invitation do not prove that every participant assents or that the adult's reassurance ends the disagreement. [Accepted private checkpoint§8; BA:event:818:002 u19–27/u85–92, declared text-actor qualifications.]"
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "4787c35d261222c09d1bbe5c5a77dc5cd9dcdc1958b5e6ed5ac7998c2100b193",
+        "line_text": "## 5. Ordinary life, pleasure and wanted futures"
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "cf8bd9ca13508a1732380e63b2a45da3a92d3fd9c7c13f36fd31042ebc34acdd",
+        "line_text": "Listening is not the whole inventory of Mari's ordinary life. Quiet, prayer, thinking, cute accessories, plush toys and clothing at the mall, table tennis, stretching, jogging, unfamiliar food, song and company are positively represented objects. Some are reported interests; others are enacted pleasures; others remain invitations. Their value does not depend on producing a future rescue capacity. Table tennis is enjoyable even though she reports repeatedly losing while Sisters kindly teach her. Her continued exercise matters before Sensei enjoys watching it. [B23008E003/E006/E015; B10054E002 u34–41/E005 u16–58.]"
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "730f48daa8b0a439b15f5fc059219393b4d06e23700e007abfe82eded38df723",
+        "line_text": "Event818E006 makes taste unusually specific. She begins by distributing drinks and responding to heterogeneous requests: athletes, a non-athlete, staff, a lost child, a visitor needing directions and a Justice member asking a different question. She knows useful directions but admits limits in training advice. Time passes, and she initially delays lunch partly to protect the teacher's own chance to eat. An invitation to guide him gives them a practical route to shared time; narration establishes that he helps finish her work. She finds roadside eating novel, a little improper-feeling, genuinely delicious and stimulating without tiring the eater. The actual meal and flavor pleasure survive the subsequent burned clerk emergency. [BA:event:818:006 u1–60.]"
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "91cf72bbe8ed3476f4f2cfb86fb5e3dcc927810e94567f1f6c984d25e786440c",
+        "line_text": "Her response to the burn need not choose total sacrifice over leisure. She firmly rejects the clerk's minimization, offers to remain at the stall and explain to customers, and asks Sensei to escort the worker. Those are divided tasks, not unlimited personal capacity. The medics' later statements about a concealed severe patient or a recovery timetable are not her clinical demonstration. The chapter gives Mari actual food and an assertive practical intervention, with treatment closure still absent. Reducing the episode to self-neglect would discard what she has enjoyed; reducing it to a lovely lunch would discard another worker's injury and refusal to leave. [BA:event:818:006 u63–98.]"
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "29369891d84873a447cd37952250f10b5ff711808a3ade34ef9cb26dc84f6475",
+        "line_text": "Gift810055 also protects an ordinary endpoint that usefulness alone cannot measure. Mari purchases an unusual chocolate representation after lengthy deliberation and feels relief at conveying gratitude. The adult reassurances have duplicate replies, but remain alternatives. They cannot decide an acceptable part to eat and spend hours discussing it, then choose to keep and display it. Japanese qualifies her as apparently satisfied. No subsequent installation, eating or permanent preservation is depicted. The represented figure is not named in Japanese, and the stronger Korean statue/blasphemy framing is not silently imported as her doctrine. A valued uneaten gift is a positive outcome rather than failed utility. [BA:event:810:055 u1–33/choice001, current complete argument§8.]"
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "b4704ba00b39717ac93bc1203cc97d8025447c5046b50af43434803efd82910c",
+        "line_text": "Idol practice and performance likewise have craft and enjoyment independent of service. In B10105E002 she has learned choreography and song yet stays to practice for a better performance; the thread reports progress. E005 supplies actual solo-stage work, wanting to see smiles and receive support, and the afterglow of a live she treasures. E006 supplies a completed private performance, arranged with colleagues, for an audience she chooses. Tomorrow's return and conditional future shows are wishes/plans at their own grades. Her future need not be a permanent entertainment career for this work to have been hers. [B10105E002 u11–14/T101050010; E005/T101050290; E006/T101050400.]"
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "0912877254b873e90861d10f83479fe33d4b68d6c262408ee5785fb6299490c6",
+        "line_text": "## 6. Crisis behavior and causal responsibility"
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "2c8343adb94cb5e1220ac3847009293bce6836573fd356b7df7764a1c4ec8147",
+        "line_text": "Mari has useful judgment without omniscience or an invulnerable caring body. AthleticE003 shows depletion and haziness after combining her contests with extra helping work. She accepts rest and a future plan to rely on others; genuine enjoyment remains. After she leaves, a ball hits Sensei's face. Her thread asks about the sound, the adult minimizes it, and she remains unsure. This is not an all-knowing nurse who prevents every mishap, a clinical injury record or malicious agency attributed to the ball. The useful response consists in recognizing limits in this situation, not achieving a permanently reformed workload. [B10054E003 u10–60/T100540110 messages100540230–290.]"
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "8380de6be7affbfb94404c47c8419e6bf3091b2c5fc6c177b97b954e62685077",
+        "line_text": "In the Eden chapter, Azusa's traps catch benign Sisterhood visitor Marie. The event directly limits the assurance that only malicious people would be caught. Later the Sisterhood intervenes; Mari and Hinata have secure narrow speech, but the custody declaration is Marie-labelled while Mika addresses Sakurako. The monograph preserves that seam rather than selecting the actor whose personality fits an official order. A registered private identity does not repair the public declaration, and the chapter's surrender and successful exam do not grant Mari sole authorship of rescue, lawful custody or treaty repair. [BA:main:003:002:001–004 and018; current V003C002 checkpoint§§2/4.]"
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "bc1ae15f4af1c68349f3fe31eb9aec5bf07f425ef5512e61acb933d2fbbd5621",
+        "line_text": "Event841 offers a more sustained exercise of her agency. At the donut robbery she deliberately attracts attention through a dance to buy time; the distraction leads to escape/secure instructions. Police and the shop worker subsequently thank her. Fubuki offers shared lessons, with her own hope that additional students will reduce work, and the worker plans to attend a live. Those gratitude and offers are positive; complete custody, future lessons and attendance are not printed. Mari begins imagining idol work as fun. Its utility in this emergency does not exhaust that desire. [BA:event:841:005 u1–109;006 u1–27.]"
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "0aa0fbe9597ac11caa7c77c4143c376eec0256a7c36c1e6779433c17445f325d",
+        "line_text": "She is also a participant in a morally awkward tour. In E003 she agrees to help with the Abydos outfit problem after the teacher invokes an earlier promise. E004 retains the pair's surprise, shame, gaze objections and reluctant agreement, alongside Mari's own wish to try the clothing. Her interest is not evidence that Serika and Ayane secretly wanted it; accepting the request to help is not proof that Mari herself performed every coercive act. This is a serious contrary case to an invariably recipient-led care formula. A promising clothing experience for one person can involve unwelcome pressure for another. [BA:event:841:003 u26–83/004 u1–59 and literal actor limits.]"
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "c7b363486c9a9b4f86c844e0d6fb952727e88dec5b014e8bb2cc5ce9651d7397",
+        "line_text": "Finally she calls Sensei with incomplete knowledge, rides with him by motorcycle, asks the armed gathering to stop and requests dialogue. The actual mobilization is dangerous enough to matter, but a completed civil war is unprinted. The prologue's saving-Trinity language and guilt are her framing; they do not establish criminal culpability or a verified political diagnosis. Explanation, apology and explicit assent resolve the immediate leadership misunderstanding. No legal or institutional process, fully repaired contact practice or guaranteed future non-escalation is narrated. [BA:event:841:001/008–010.]"
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "5126a5e4e8d500d9c6ae494111367b2a2cead0a8fe2cf2b1dd35bc47709b7008",
+        "line_text": "## 7. Relationship with Sensei"
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "98b5476094706f13e5057017f84d7de08f6d1f79fdf00f74f5815e31322deb29",
+        "line_text": "The relation develops through receiving and reciprocating particular experiences rather than an adult who possesses every solution. In ordinaryE002 the adult comes only to greet her, contradicting her assumption that a visit needs trouble. In E003 he becomes a participant in a prayer she likes; in E005 he accompanies rest; in E006 he receives a plain wish for company. Student/teacher acceptance and the permission not to be a Sister24hours a day are alternate justifications. Both can support the continuation without becoming a promise of constant availability or a settled romantic status. [B23008E002/E003/E005/E006 and complete linked threads.]"
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "f55b780761a79b35c354e4516ad4ae13e48da0a588c391ecc59d60510b888093",
+        "line_text": "His helpful answers have limits. Repeated title teasing continues after her stop request; the decoration accident need not be interpreted as justified punishment. In the mall, he offers reassurance and an accessory she still declines. Her chosen meal is not proof that the initial refusal was merely coyness. He later asks whether she truly was fine without the purchase, and she confirms the existing corsage's sufficiency. The adult here can receive an answer that differs from his preferred gift. That respect belongs to the represented exchange and should not erase other scenes where affectionate explanation leaves her objection unchanged. [B23008E002 u49–55; E015/T230080460.]"
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "c3712bf537af9d61839002128af60a6c7814d6104420a8c3a50e035b80943563",
+        "line_text": "IdolE002 begins with his declined lunch and her discomfort eating alone. She chooses a smaller offer of one omelet piece. The BOND ends at feeding offered; the whole thread supplies Sensei's reported deliciousness and her reported progress afterward. The precise food outcome matters: not an enforced whole meal, not mere unacted offering, and not a nutritional test. He becomes a beneficiary while she has her own practical reason to arrange the exchange. [B10105E002 u41–57/T101050010 messages101050090–190.]"
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "2f056354e91c9cb553cb3fa6c224f70558ee6037a9747bae221b9af1538c2088",
+        "line_text": "IdolE003 refuses a simpler gratitude script. She has said the guardian is unnecessary and asks whether she seems unreliable; Sensei's affectionate account does not immediately change that view. She nevertheless accepts his escort in this particular setting. E006 later revisits a different escort: she initially says he should rest, recognizes reciprocal consideration, and the thread thanks him for actually seeing her off. Those endings are not contradictory. She may reject excessive protection while wanting chosen company, just as she may sing privately and reject indiscriminate image circulation. [B10105E003 u17–49/T101050140; E006 u36–59/T101050400.]"
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "465eefb2c079d8bb28dea910c6c6dec97c9f95d09ab4bdcfb476771add5b9d8f",
+        "line_text": "The adult supports event841 exploration and eventual decision; he does not author her every motive. The teachers' and peers' guesses about hidden idol interest precede her own stronger explicit assent. The tour includes pressure on other students, and public encouragement leaves Mari embarrassed. Her ending gives him one chosen photograph rather than granting all image use. This relation's warmth is meaningful precisely because the participants remain different people with different wants, knowledge and permissions. [BA:event:841:003/007/010–011.]"
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "226fb5fd9bbe569597ff09193121ff16e1d43adbdec4aba4e263883eacb7daf7",
+        "line_text": "## 8. Major peer and recipient relations"
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "f937f6c9cfe7d8c2ba2d48045b07effcfcad2e779b0e4a5b8ce33e85b430ad4e",
+        "line_text": "Anonymous Sisters are substantial actors at the exact scope supplied. They teach table tennis, offer self-care advice, provide illness substitution, assist the secret live and share performance preparation. They are not a single universal voice approving every choice. Sakurako's adjacent private account shows colleagues can support a poster while stopping its cathedral display, and can approve individual idol contact while rejecting a mass outfit plan. That comparison gives a community capable of practical help and dissent without transferring every Sakurako recipient's response to Mari. [B10054E002; B23008E005/E006; B10105E006; comparative B10106E002/E005 and threads.]"
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "af78e69b76ea804aad866de7eece59eb1f0c9d26766e11d78b44f87309bdbc99",
+        "line_text": "Sakurako, Mine and Hinata have distinguishable relations to Mari. The leaders request image-project judgment and later idol leadership; Hinata completes work with Mari and subsequently reports much cathedral work done. Mine names unequal refusal costs. Mari gains rare leave but retains an unresolved feeling after choosing to work late. She describes lack of sleep as her own engrossment; that testimony is evidence against assuming every hour was coerced, without erasing hierarchy or fatigue. In E010 the leaders apologize and Mari gives her own answer. Her preference is the stronger witness to what she wants; it does not make the earlier assignment costless. [BA:event:841:002/007/008/010.]"
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "6d2718c79a98d598fc32a5cf2ed19d4b35489611065ec31eb851cb419f65e048",
+        "line_text": "Utaha interprets her interest and offers confidence in her suitability after her own musical disagreements and solo ambitions. Mari has said she is only supporting the research, so Utaha's private reading remains a person's reading, not a completed consent event. The heard-songs/karaoke narration is a written report of action, not this analyst's hearing. Kirino, Fubuki and the shop worker supply more grounded reciprocal help after the robbery. Later police help Mari when she is stuck retrieving her phone; her thanks and Fubuki's reduced tension coexist with sponsor pressure, embarrassed costumes and Fubuki's felt difficulty refusing the familiar shop. Similar idol participation does not mean identical freedom or purpose. [BA:event:841:006/007/015.]"
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "810a3f73dda9958473ea91682d6d3ee3290a7df311e72e1a34a046ac1d72bef3",
+        "line_text": "The Peroro-costumed guardian remains unjoined. Some printed lines appear contextually to recount Mari's view but carry the costume label; later securely tagged Mari statements say Sakurako and Mine know the person, suggest possible Sisterhood membership and apparent Sakurako instructions. These are report and possibility. They do not identify Hifumi, an existing named Sister or an authenticated permanent bodyguard. The relation still supports a precise critical point: Mari says protection is unnecessary and worries about how she is perceived. A sender's wish to support cannot decide the recipient's preferred amount of protection. [B10105E003 u4–6/u13–29.]"
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "0e392b9d886b9737baf72eaa56fcaeeea176d06cb047c28e25ecc374429235bb",
+        "line_text": "The burned Genbu clerk and the Abydos pair prevent all recipients from becoming backdrop for her self-development. The worker minimizes a real incident because leaving the stall has costs; Mari divides the work so he can seek assessment. Serika and Ayane insist on clothing and gaze objections even while the tour creates Mari's own enthusiasm. Her care is most defensible when it makes room for the particular other's situation; the corpus also preserves cases in which she accepts a request organized around another person's promise. No positive ending grants a general right to decide others' feelings. [BA:event:818:006 u63–73; BA:event:841:003–004.]"
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "449c02255ee80149ddbea550eae85d62b78d61740a8d22e07d2b21ebd88a040e",
+        "line_text": "## 9. Language and written formal registers"
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "fabf2c1fd07b5444ad46c4e89ce368dd4e9b6a3d8a7f42c61c883272beb5a81a",
+        "line_text": "“Sister,” “student,” “athlete” and “idol” name different capacities without replacing BA_PERSON_MARI. In ordinaryE002 she hopes to answer the title without embarrassment, a personal standard rather than literal exclusion from the organization. E006 accepts being an individual student alongside the vocation. Athletic UILobby states she is there as an athlete and that dress does not determine prayer; idolE006 asks that the usual Mari be welcomed afterward. These passages make roles available for negotiation, not a numerical variant ladder or a diagnosis of separate selves. [B23008E002/E006; written10054 UILobby4824–25/4831; B10105E006.]"
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "6939376df950bf0681a30e3257da84a594086ab0d86a218519d809c7a1261747",
+        "line_text": "Requests to stop, hesitation, apparent satisfaction and conditional invitations have semantic weight. The existing corsage is enough “for now”; the private wish concerns occasional time; a later concert happens only if an opportunity arises; the festival workout invitation depends on the adult's schedule. Ordinary written lobby2882 forbids improper conduct while2884 offers help. The coexistence defeats both universal openness and universal withdrawal. Birthday happiness/worry about later punishment, Christmas observance and attraction to candy moderated at Halloween belong to different triggered forms. They are not one uninterrupted conversation or a calendar proving all subsequent states. [B23008E015/T230080460; T230080340; T100540230; T101050400; BA:character_data:23008:profile_and_dialog.]"
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "8424dd57100dfe83b66885881d88a48b2d286249151625d819b26d6f3ff34d21",
+        "line_text": "The five Mari written objects remain separate: three variant profile/dialog owners and costume1900906801→10054 plus1900931001→10105. Athletic costume forms print Event818/10818/900818; idol forms print841/10841. Post-event merchandise, cleanup requests, autograph unpreparedness, sweat and a request to wait contribute actual wording and conditions. They do not prove every transaction, signature, unbounded attention, two concerts or completed cleanup. Repeated special passages are not independent rest, prayer or live witnesses. WeaponGet statements and offered continued company are conditional text, not enacted bilateral contracts. [BA:character_data:10054/10105/23008:profile_and_dialog; exact two event-costume source IDs.]"
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "aed6f453d835ee6b0a4a087a758c9c6f08f87162a959e2066bc9496bd940ee66",
+        "line_text": "Source modes matter at the scenes' argumentative hinges. Gift055's adult reactions include inward ns forms, not extra formal groups; Japanese leaves the represented figure unnamed while Korean supplies stronger statue/blasphemy language. The Peroro-labelled private passage remains unresolved at its local seam. Event818 uses declared text-bearing actor witnesses to qualify first-display mislabels: mediation atE002, the stallholder atE008u52, Mari's injured-athlete report atE010u6, her evening question atE013u47 and the Yuuka tea line misprinted under Mari atE019u1. No new raw command inspection is claimed here, and no role is awarded simply because a printed header or personality seems plausible. [Current accepted gift055§8; private checkpoint§7; E818 checkpoint§6 exact witnesses.]"
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "eb05955eb32e00c546936f7b5daf02d56b7f0f34f937218993fe18c14cae3efc",
+        "line_text": "All performed claims remain unavailable. Narration supplies completed performances, learned choreography, song-associated pleasure and the teacher's represented view of a live. This author has not heard pitch, timbre, acoustic skill or melody, inspected the photo/video assets or seen the enacted movement. A written event can establish that a performance happened while leaving its actual performance qualities unreceived. This distinction preserves craft as meaningful evidence without inventing an audiovisual baseline. [B10105E002/E005/E006; BA:event:841:011 video limit; all written objects.]"
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "daf0995c894a2d93b298fcb24850b0e0c65300187113870fa966df8428a4193c",
+        "line_text": "## 10. Competing readings"
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "34c9b1020569505858e23c82dcaabdd828bbd984b15fe7d5a17b2e039dca7dde",
+        "line_text": "**“Mari is only a selfless helper.”** Her concern for people, readiness to take supplies, listening and guilt give this reading real evidence. It fails as an exhaustive claim because prayer comforts her, the mall is fun, the existing flower is cute, exercise is enjoyable, she wants occasional company and idol work becomes a chosen pleasure. Nor is every personal interest merely a means to improve service: the thread's unnecessary call and declined extra purchase are particularly clear contrary endpoints. The bounded reading keeps vocation and a wanted personal life together. [B23008E003/E006/E015; B10054E003/E005; BA:event:841:006–011.]"
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "78efe4ea968ed12001acf0bbbfa2eee7be31495d64ed3ed9e9ce880c1310e046",
+        "line_text": "**“She cannot assert herself.”** Title embarrassment, illness apologies and junior refusal costs support caution about asymmetry. Yet she asks teasing to stop, denies the need for protection, declines an accessory, directs a burned worker's task split, asks guns to be lowered, chooses leadership and later refuses public photograph circulation. Those are not interchangeable degrees of power, and some are more effective than others. A person-wide incapacity thesis would erase actual contrary actions. [B23008E002/E015; B10105E003; BA:event:818:006;841:010–011.]"
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "9f51370b7dca53209c7d37d05917430ee09fc7f47d09f5fabe5186e5471a175b",
+        "line_text": "**“The adult liberates her by persuading her to enjoy things.”** Reassurance, rest company, festival advice and touring are materially helpful. She also arrives with liked prayer, a cute flower, peer advice, table-tennis enjoyment and her own continued exercise; colleagues support the secret live. Some adult explanations leave objections in place, and the outfit tour pressures other recipients. Her final choices belong to her testimony, not an omniscient adult interpretation. This relation can help without monopolizing authorship or guaranteeing the means. [B23008E003/E006/E015; B10054E002/E005; B10105E003/E006; BA:event:841:003/010.]"
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "a053ae393d4f5a26ea4de3503e0226f131a1fb62d1e5255c866e480262c713a3",
+        "line_text": "**“Idolhood is either coercion or a complete emancipation.”** The institutional assignment, competing leaders and ignored contacts make pressure a serious part of the sequence. Exploration also gives Mari fun she explicitly wants; her later happy assent is stronger than others' earlier guesses. She then ends the interval without disliking it and imposes image limits. Neither a pure captivity reading nor a permanent-liberation story can contain all three decisions. [BA:event:841:002/007–011.]"
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "c8cded47822b23dd86e0236d799569c855e55e2845c754072ebedf950279b47a",
+        "line_text": "**“Faith makes her ordinary wishes false or guilty.”** Her own worry about purity and punishment supplies the difficult language. The scripts also give liked prayer, mutual comfort, Sisters' self-care advice and a corsage with aesthetic and pledge meanings together. The adult's rival illness explanation is possible reassurance, not a clinical or theological verdict. The warranted account is a negotiation within a vocation she values, with no proof that departure from faith is the necessary end. [B23008E003/E005/E006/E015 and written23008.]"
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "54fb56c3151ad20d9734aeac0ab2443a7e7191e4f91eead7d323d031917d72b5",
+        "line_text": "**“Good care means a solved outcome.”** Actual help with a stall, a chosen meal, rest, reported omelet enjoyment, completed private/live performances and de-escalation are positives that an all-failure thesis misses. None proves all injury cured, protected people pleased, photographs destroyed, public pressure repaired or a next prayer effective. The value of a local good and its outcome boundary must both survive. [BA:event:818:006; B23008E005; B10105E002/E005/E006; BA:event:841:010–011;810055.]"
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "9f7326906089d9bb3960be559d120ef68934535c017e048afbbf97d49c04f978",
+        "line_text": "**“Only crisis evidence establishes the mature character.”** The political chapter contains consequential agency and attribution limits, but it cannot supply the chosen sufficiency of the corsage, a taste she may favor, table-tennis losses she enjoys, a spontaneous call or an uneaten gift she values. These are not lower-grade facts because their stakes are smaller. They change the set of ends a character can intelligibly want. Conversely, ordinary warmth does not acquit public coercion or authenticate unresolved offices. This monograph needs the different scales together and keeps their different warrants. [All exact private29; BA:event:818:002/006;810055;841; V003C002.]"
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "6d0f9ba6cd371d91c12238be1c038f12da2f2df1c7f9a0064a6e7359a66aa7a2",
+        "line_text": "## 11. Evidence route and unresolved warrants"
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "4eb9c6d0fadbf93dfa11f3ad8c49320d6fcff214a25c401b42d2820d2e9d639f",
+        "line_text": "The adequate private authority is the current canonical BLUE_ARCHIVE_SAKURAKO_MARI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md,83,728 bytes/475 lines. This author received it through EOF in six contiguous frames, including its complete preserved literary argument, alternatives, twelve whole Mari threads, five Mari written objects and Sakurako's comparative21-source meanings. Current Cycle008 adoption supersedes retained earlier UNADMITTED/UNAPPLIED/Phase2-incomplete wording as status history; original source inspection remains attributed to its producer. The monograph contributes no new canonical/native/raw/QA/audio/AV reading, source admission, model grade or independent historical first/second exposure claim."
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "eb163b700dcb9e49b09705c3f30603ed6ea578573a8fc3fba85fa7c5bf6cb0c9",
+        "line_text": "Private duties are exactly B23008E002/E003/E005/E006/E015 with T230080010/130/250/340/460; B10054E002/E003/E005 with T100540010/110/230; B10105E002/E003/E005/E006 with T101050010/140/290/400; three profile/dialog objects and the two literal event-costume objects. Twenty-nine responsibilities do not mean29 newly opened primary files. The shared private checkpoint is one analytical owner with a second person's comparative scope; no duplicate mature Sakurako completion is claimed. Local thread endings distinguish narrated acts, participants' reports and intentions, including the omelet report and actual-escort thanks that move beyond BOND EOF."
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "dfae6ab6acfc5c90b9401062dec8675a74f90c394279302875e7573c672f1c80",
+        "line_text": "Public authority consists of the complete fresh accepted gift055 argument, complete small V003C002 checkpoint and complete sportingE002/E006/E013 arguments; prior personally complete E818 checkpoint and current E810 comparison reused at unchanged exact tuples; personally complete accepted V003C003/C004 and V006C002/C003 checkpoint meanings at their prior declared boundaries; the adequate E841 substantive argument665–1040/current40–74 already received for Mine, with consequential Mari portions refreshed. The companion receipt gives actual frames and extents rather than implying a fresh whole1656-line E841 annex or a new primary event reading. Current maintained Main route navigation finds Mari's private/idol reconciliation in V003; the Final hit is a family metadata row, not a newly discovered Mari act. No affiliation-based Final appearance or clinical/mechanical credit follows."
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "6f9c22837298e33b3a4af9608d73bca4cf80221fa137e6b16d553aea944099fe",
+        "line_text": "| Original stable gap | Mari contribution and missing warrant | Disposition |"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+        "line_text": "|---|---|---|"
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "c69179aa1797ce536473aadf8e369784a10a998730aea62f4d5ed6ff20d2fcef",
+        "line_text": "| G01 Ordinary and private breadth | Complete private29 plus food, work, taste, chosen company and performance broaden the repertoire. Whole-person invariance or exhaustive future coverage is unproved. | OPEN |"
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "29f1e7dcc23f9a3d76ae0338ceed95c7bdea3833e0753ecef81d69c3024cef56",
+        "line_text": "| G02 Yuuka council/club decision transfer | Sporting committee comparison preserves independent roles. Mari's decisions do not complete Yuuka's own transfer responsibility. | OPEN |"
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "2059bbecaa95806f49bfd927d1cf1f267f1ee5023285f606f1fbe25bf2878274",
+        "line_text": "| G03 Serika service, peer and reciprocity range | Serika/Ayane clothing objections remain meaningful contrary evidence; no complete Serika service or durable reciprocity follows from Mari's tour. | OPEN |"
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "f1859647b96dd92d6716dad86edd611aaa5068680ab8bc4ad593182c84536f0a",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Cross-school work supplies no NK Ultra cause, Hina restitution or completed accountability. | OPEN |"
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "e16b525afdef2a7c1b04552d35bc8a96ccf4698cd0b50c089f3ea4a4ca04a695",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | Adequate public/contextual comparison keeps aid, schooling and repair at their actual grades; no Mari authorship or lasting Arius/PS68 settlement is inferred. | OPEN |"
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 172,
+        "line_sha256": "f617aedceb828420925fcd9a60c69541d4204cf25a61a1c9b9292e00c62bd690",
+        "line_text": "| G06 Cross-school ordinary repertoire | Portable food, shared work, gift care, sports and wanted entertainment have intrinsic value. One successful occasion does not prove universal interschool welcome. | OPEN |"
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 173,
+        "line_sha256": "c03304139c508fc907c1900441f6f4f30d2e8db5841a9f43f70c6e42343318a1",
+        "line_text": "| G07 Story-world chronology | Injury/rest references, festival before/during/after, next-day tour and local idol return are positive anchors. Variants, release IDs and costumes supply no global calendar. | OPEN |"
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 174,
+        "line_sha256": "78ebce0e2ee65f4675b25b72e1099e06e31a2284cb22e8929a9a6328443920f4",
+        "line_text": "| G08 Event naming and repeat contexts |810055,818/10818/900818 and841/10841 retain exact contexts and source modes, without another performance/event inferred from repetition. | OPEN |"
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 175,
+        "line_sha256": "ce701ac671928e81ea7815850f525c48a4a297ad916a70df6e93afec56ee482d",
+        "line_text": "| G09 Written speaker/choice attribution | Whole codas, duplicated alternative replies, inward forms, Peroro seam, public custody seam and accepted sporting text-actor qualifications remain distinct. | OPEN |"
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 176,
+        "line_sha256": "452bd8cda540539b31a511a1840efd73fd753526798b28076be55bad15bff647",
+        "line_text": "| G10 Performed voice | Written practiced/completed singing is retained. No acoustic quality, acting, tune, inspected video/photo or performed movement was received. | OPEN |"
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 177,
+        "line_sha256": "ac42c0927638e5e85474ab96324421f365a9ab96d740f4fc68ea976113d89528",
+        "line_text": "| G11 Hoshino's Yume record and office states | Mari's vocation and record-related context supply no authentication of that distinct death/office responsibility. | OPEN |"
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 178,
+        "line_sha256": "c0285583751e0dcc452ede17fa8ed99372deaf8bf452c835bd15e041036d5576",
+        "line_text": "| G12 Counterpart, system and variant identity | BA_PERSON_MARI and exact23008/10054/10105/costume routes support person comparison, not a chronology, named guardian or repaired public actor seam. | OPEN |"
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 179,
+        "line_sha256": "9d08a590bf68ab6104eec556191e02078fd323e420715c5bd7ca11461f51e32c",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | No clinical cure, prayer/accident mechanism, complete treatment, charter, protected-photo destruction, total consent, durable role balance or formal accountability is certified. | OPEN |"
+      },
+      {
+        "frozen_line": 170,
+        "canonical_line": 180,
+        "line_sha256": "a889e309bec921a16c4481c5fc1d98ae4c1893a50d524772a519348f08615f08",
+        "line_text": "| G14 Unclassified/mode continuity | No unadmitted class, repeated trigger, prop or video command is promoted into narrative/performance continuity. | OPEN |"
+      },
+      {
+        "frozen_line": 171,
+        "canonical_line": 181,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 172,
+        "canonical_line": 182,
+        "line_sha256": "84ccaa2cce145baae0c4f470c7c046f9670fde0352f9965bfbc573e9604c5635",
+        "line_text": "No mandatory primary recovery remains for the conclusions actually asserted at these limits. Stronger claims would require evidence about the guardian, the public custody speaker, injury/clinical outcomes, global dates, later photographs, contracts/offices, lasting institutional repair or performed assets; the present account does not substitute intention or affinity for it. ROOT's independent whole-body and receipt receiving, exact verification and canonical adoption remain required. Mari's relationship with Sensei, directed peer relations and Sisterhood/Antique Seraphim institutional questions also retain their distinct full-Phase3 homes. A complete bounded monograph is one responsibility within that architecture, with no author-awarded denominator, quarter milestone, merge or prediction credit."
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          7,
+          8
+        ],
+        "canonical_lines": [
+          7,
+          8
+        ],
+        "frozen_text": [
+          "version: \"1.0\"",
+          "status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_version: \"1.0\"",
+          "historical_author_status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          24,
+          24
+        ],
+        "canonical_lines": [
+          24,
+          32
+        ],
+        "frozen_text": [
+          "publication_state: LOCAL_CANDIDATE_ONLY_ROOT_ADOPTION_REQUIRED"
+        ],
+        "canonical_text": [
+          "historical_author_publication_state: LOCAL_CANDIDATE_ONLY_ROOT_ADOPTION_REQUIRED",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MARI_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MARI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: cf2fba61c9e8448acdd2677f06d5258c051a6ba4"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          28,
+          27
+        ],
+        "canonical_lines": [
+          36,
+          37
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current receiving and publication boundary.** ROOT independently accepted this complete bounded character argument WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MARI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual author/ROOT source scopes and historical controls. The [saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MARI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves every frozen original line and exact byte tuple with a complete inverse. Earlier author pending, local-candidate and next-work wording remains creation-time provenance where retained. The predecessor63-package source at `cf2fba61c9e8448acdd2677f06d5258c051a6ba4` has a successful exact audit chain; this successor supplies persistence only after complete ROOT installation. Publication and main integration remain separate. This fixed ten-package64–73 batch has eight character and two directed arguments; it reaches73 packages (70 character,3 directed) only after that installation. Later live ROOT reviews are outside this snapshot. Scope355/29 and18 section-home allocations, the existing1 named-section completion, all14 original OPEN gaps and model0 remain unchanged; no quarter is reached. Reference translations are navigation/provenance transformations and add no primary, performance, independent literary or scope credit."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "reference_navigation_translations": [],
+  "original_full_author_and_root_transports": [
+    {
+      "path": "SISTERHOOD_MONOGRAPHS/BLUE_ARCHIVE_MARI_CHARACTER_MONOGRAPH.md",
+      "bytes": 42287,
+      "sha256": "e471bdba456f2ed878cb4019a01f0095bc92a81cff501c9944812a7023d9540c",
+      "git_blob_oid_of_actual_bytes": "f6c75bd0b936ed451c332c95b1f47e9502398699",
+      "lines": 172,
+      "immutable_transport_path": "immutable_originals/SISTERHOOD_MONOGRAPHS/BLUE_ARCHIVE_MARI_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "SISTERHOOD_MONOGRAPHS/MARI_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 110783,
+      "sha256": "14571c5ba2cbc9d0ad52d5e12d39b9147ee8c060978cc3a66724fe0cb1cb5835",
+      "git_blob_oid_of_actual_bytes": "f1762fb40805fad1d5347f883036c75bfe77b9dd",
+      "lines": 2258,
+      "immutable_transport_path": "immutable_originals/SISTERHOOD_MONOGRAPHS/MARI_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "SISTERHOOD_MONOGRAPHS/MARI_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 4252,
+      "sha256": "aee8ac3ebd5954080346506f077979fccf12b9dc347a4655061e67cf27a4b333",
+      "git_blob_oid_of_actual_bytes": "c1441de4ad24d90caf13205e7ad54c1be32a3296",
+      "lines": 75,
+      "immutable_transport_path": "immutable_originals/SISTERHOOD_MONOGRAPHS/MARI_FROZEN_DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "ROOT_MARI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5973,
+      "sha256": "5732d11a0b1590bed058f5b056a17ee3b75e9a23661de3dd489b2cb73a8737c1",
+      "git_blob_oid_of_actual_bytes": "42550c22108cefaea93ba80d32e67d660b86060b",
+      "lines": 99,
+      "immutable_transport_path": "immutable_originals/ROOT_MARI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "SISTERHOOD_MONOGRAPHS/MARI_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 7248,
+      "sha256": "cf80995017b17db0c974ff577e35569f13b707e3caa39527a659f1996c47fcd0",
+      "git_blob_oid_of_actual_bytes": "2ad4c45a0f9c57ff15de4b8469d791d7fb3fe149",
+      "lines": 41,
+      "immutable_transport_path": "immutable_originals/SISTERHOOD_MONOGRAPHS/MARI_MONOGRAPH_RECEIVING_RECEIPT.md"
+    },
+    {
+      "path": "SISTERHOOD_MONOGRAPHS/MARI_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 6222,
+      "sha256": "69361df3fdb0101c64b689cf684a3ee960ba09a27fcf2be33dd0f4861c547788",
+      "git_blob_oid_of_actual_bytes": "41791816de735da5526f3d47f06e84d15ee6d651",
+      "lines": 111,
+      "immutable_transport_path": "immutable_originals/SISTERHOOD_MONOGRAPHS/MARI_CURRENT_WORKTREE_METADATA_PROBE.json"
+    }
+  ],
+  "substantive_literary_change": 0,
+  "new_primary_performance_independent_model_or_count_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

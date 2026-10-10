@@ -1,0 +1,1038 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_INSTALLATION_PENDING",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+    "bytes": 52353,
+    "sha256": "8e745b32576150a955781600502a7fc643c23828dded7b1be5bb8394a80c68e6",
+    "git_blob_oid_of_actual_bytes": "2cca6fb3eff91cf0e11e013cb9bae6ba522e749a",
+    "lines": 167
+  },
+  "historical_frozen_claim_and_endpoint_register": {
+    "schema": "UTAHA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+    "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_REVIEW_PENDING",
+    "body": {
+      "file": "BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+      "byte_count": 50384,
+      "line_count": 154,
+      "sha256": "7345567930a555f7f9152b6f1f25d40f17ac03720a1065f0c19ba8d09184cb05",
+      "actual_byte_blob_oid": "069e67eea0c5332679383e11cd4ce089a6488ad7"
+    },
+    "all_eleven_sections": [
+      {
+        "line": 23,
+        "heading": "## 1. Core thesis"
+      },
+      {
+        "line": 31,
+        "heading": "## 2. Longitudinal arc and legitimate ordering"
+      },
+      {
+        "line": 41,
+        "heading": "## 3. Public self, private self, and the control of interpretation"
+      },
+      {
+        "line": 51,
+        "heading": "## 4. Millennium and Engineering: belonging, standards and resources"
+      },
+      {
+        "line": 63,
+        "heading": "## 5. Ordinary life: texture, tools, food, music and company"
+      },
+      {
+        "line": 75,
+        "heading": "## 6. Crisis behavior: practical inference, excessive design and actual endpoints"
+      },
+      {
+        "line": 87,
+        "heading": "## 7. Relationship with Sensei: shared practice, influence and retained refusal"
+      },
+      {
+        "line": 97,
+        "heading": "## 8. Major peers and independent recipients"
+      },
+      {
+        "line": 107,
+        "heading": "## 9. Japanese written voice and source-mode limits"
+      },
+      {
+        "line": 117,
+        "heading": "## 10. Competing readings and evidential judgment"
+      },
+      {
+        "line": 129,
+        "heading": "## 11. Evidence route, open gaps and completeness"
+      }
+    ],
+    "complete_saved_paragraph_joins": [
+      {
+        "saved_paragraph_id": "UTAHA-P001",
+        "saved_line": 25,
+        "section": "## 1. Core thesis",
+        "paragraph_sha256": "0df9b59999d2af4c0daa1e4fb05c7cf60521a28f0e4723d85e087dc4bf392058",
+        "source_ids": [
+          "U23"
+        ],
+        "inline_locators": [
+          "Private:complete twenty-three-object repertoire"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P002",
+        "saved_line": 27,
+        "section": "## 1. Core thesis",
+        "paragraph_sha256": "c65c5fa03d87db8a9391da84e8419416c05906f392f140d30df7d18fcd978391",
+        "source_ids": [
+          "E18017",
+          "U23"
+        ],
+        "inline_locators": [
+          "Private:pen holder, tools, song and puppy owners",
+          "818:017u0031–0061"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P003",
+        "saved_line": 29,
+        "section": "## 1. Core thesis",
+        "paragraph_sha256": "faade8d8498dd371035a8329f1aac21d4d5ab21a82ea49dfcfdfe07d8aa310c1",
+        "source_ids": [
+          "E17",
+          "E18009",
+          "F00",
+          "G14",
+          "PW",
+          "U23"
+        ],
+        "inline_locators": [],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P004",
+        "saved_line": 33,
+        "section": "## 2. Longitudinal arc and legitimate ordering",
+        "paragraph_sha256": "97fda1ad13be3ca99ad5525974672de834bdd92d4fc49c01440bafffe77e67d3",
+        "source_ids": [
+          "U23"
+        ],
+        "inline_locators": [
+          "10051:002u0010–0041;003u0011–0019;whole100510010 and100510080"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P005",
+        "saved_line": 35,
+        "section": "## 2. Longitudinal arc and legitimate ordering",
+        "paragraph_sha256": "c3a0a27ca40d48ee96c11432a7c9ee4c5885a20ed8434b181ecd22cd27255844",
+        "source_ids": [
+          "U23"
+        ],
+        "inline_locators": [
+          "10051:003u0047–0059;005u0084–0093 and whole100510170messages350–420;006u0043–0044"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P006",
+        "saved_line": 37,
+        "section": "## 2. Longitudinal arc and legitimate ordering",
+        "paragraph_sha256": "8d71814f5e58946101195d3fae4dcf0950d80c843fd189c407ed5132c9b64e75",
+        "source_ids": [
+          "U23"
+        ],
+        "inline_locators": [
+          "23004:006scene001u0007–0031;scene002u0002–0009;whole230040240messages1609–1622"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P007",
+        "saved_line": 39,
+        "section": "## 2. Longitudinal arc and legitimate ordering",
+        "paragraph_sha256": "f6b19d099db04266234325e0d469dfaea94375d9cedff04ac80af900dd955ae1",
+        "source_ids": [
+          "E17",
+          "E18017",
+          "F00",
+          "G14",
+          "PW",
+          "U23"
+        ],
+        "inline_locators": [],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P008",
+        "saved_line": 43,
+        "section": "## 3. Public self, private self, and the control of interpretation",
+        "paragraph_sha256": "3cc45c50ddf12154d0601b5fdc382471808ad2b9da72b3f59ccf0e2f2f409de8",
+        "source_ids": [
+          "U23"
+        ],
+        "inline_locators": [
+          "23004:020u0009–0043 and whole230040400"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P009",
+        "saved_line": 45,
+        "section": "## 3. Public self, private self, and the control of interpretation",
+        "paragraph_sha256": "cb0583215979c25c1d28e91bb0473b4bbb462649d902c4b1295c126ce345df8e",
+        "source_ids": [
+          "U23"
+        ],
+        "inline_locators": [
+          "23004:006scene001u0017–0022;scene002u0006–0009;008u0010–0030"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P010",
+        "saved_line": 47,
+        "section": "## 3. Public self, private self, and the control of interpretation",
+        "paragraph_sha256": "54f033ee18178ff926da461bd40182d19cea5682e6100ff4ad6554ba02c8b812",
+        "source_ids": [
+          "U23"
+        ],
+        "inline_locators": [
+          "D23004:Introduction;1837–1884;D10051:Introduction;4594–4633"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P011",
+        "saved_line": 49,
+        "section": "## 3. Public self, private self, and the control of interpretation",
+        "paragraph_sha256": "44dbcf40a33e862767cebf8ec69cc61d9fd8ec287651f9b79267f2644d68b414",
+        "source_ids": [
+          "E18017",
+          "P212"
+        ],
+        "inline_locators": [
+          "PavaneC002E012u0047–0082",
+          "818:017u0017–0061"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P012",
+        "saved_line": 53,
+        "section": "## 4. Millennium and Engineering: belonging, standards and resources",
+        "paragraph_sha256": "52af223aff579299cabbfa4cefe58545f643728fdd6d20bbdd1e7d16e01e3efe",
+        "source_ids": [
+          "G14"
+        ],
+        "inline_locators": [
+          "G1401:complete ordinary-food and making argument"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P013",
+        "saved_line": 55,
+        "section": "## 4. Millennium and Engineering: belonging, standards and resources",
+        "paragraph_sha256": "c4af7360c0da430ad58979869b003edadd7c2073352749778686bcf023affea6",
+        "source_ids": [
+          "G14"
+        ],
+        "inline_locators": [
+          "G1402–1403:ownership discovery and complete contrary ending"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P014",
+        "saved_line": 57,
+        "section": "## 4. Millennium and Engineering: belonging, standards and resources",
+        "paragraph_sha256": "02029c20b31c7ac12f8faa7090026b9c9aef948ada03b4270615bce25e3bd4f9",
+        "source_ids": [
+          "U23"
+        ],
+        "inline_locators": [
+          "23004:002u0012–0027;003wholemessages1591–1598 andu0003–0022"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P015",
+        "saved_line": 59,
+        "section": "## 4. Millennium and Engineering: belonging, standards and resources",
+        "paragraph_sha256": "20ea0808c4f4a4f335191b2cdb8c82446047fdc807d4cd20786e180f4548bcab",
+        "source_ids": [
+          "P107"
+        ],
+        "inline_locators": [
+          "PavaneC001E007scene002u0073–0148;scene003u0001–0014"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P016",
+        "saved_line": 61,
+        "section": "## 4. Millennium and Engineering: belonging, standards and resources",
+        "paragraph_sha256": "1c2e65cdf6e62f1c0447265358702588fd129e332eb0930513e3173cdef48510",
+        "source_ids": [
+          "E17",
+          "E18007"
+        ],
+        "inline_locators": [
+          "817:corrected006/008 and achieved011",
+          "818:007u0019–0040"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P017",
+        "saved_line": 65,
+        "section": "## 5. Ordinary life: texture, tools, food, music and company",
+        "paragraph_sha256": "cb8872620b70a08a44513157a4f5dafaba90daa9bbdbe1687511a64b37a0677b",
+        "source_ids": [
+          "U23"
+        ],
+        "inline_locators": [
+          "Private:coat, pen holder, shop, panels and nail owners"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P018",
+        "saved_line": 67,
+        "section": "## 5. Ordinary life: texture, tools, food, music and company",
+        "paragraph_sha256": "f84e1f0441c08651c7ff91044ec6262d292e3398638f7de2380309ccd599e2ad",
+        "source_ids": [
+          "L24"
+        ],
+        "inline_locators": [
+          "810:024u0009–0026"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P019",
+        "saved_line": 69,
+        "section": "## 5. Ordinary life: texture, tools, food, music and company",
+        "paragraph_sha256": "3bc631267a3011214e227495f03c70008462cc01c4cd8cb09900834a65ec8101",
+        "source_ids": [
+          "U23"
+        ],
+        "inline_locators": [
+          "10051:006u0009–0018;0022–0044"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P020",
+        "saved_line": 71,
+        "section": "## 5. Ordinary life: texture, tools, food, music and company",
+        "paragraph_sha256": "ee47460d911d5a3a32c2b89b7e7f4e380777b713414b3beacd272162868bf534",
+        "source_ids": [
+          "U23"
+        ],
+        "inline_locators": [
+          "23004:005u0012–0044 and whole230040150messages1599–1608"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P021",
+        "saved_line": 73,
+        "section": "## 5. Ordinary life: texture, tools, food, music and company",
+        "paragraph_sha256": "645f40ca16fa882cf84fab313fc1e0ba6f16d22b031a5dead55bd9f24a9faca5",
+        "source_ids": [
+          "E17",
+          "E18017",
+          "F00",
+          "G14",
+          "PW",
+          "U23"
+        ],
+        "inline_locators": [],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P022",
+        "saved_line": 77,
+        "section": "## 6. Crisis behavior: practical inference, excessive design and actual endpoints",
+        "paragraph_sha256": "d8327096a302502433bf398a3c02ff2cf2f84b65f5cc0d11c27f99b578765789",
+        "source_ids": [
+          "P212",
+          "P213"
+        ],
+        "inline_locators": [
+          "PavaneC002E012u0047–0082",
+          "C002E013u0036–0055"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P023",
+        "saved_line": 79,
+        "section": "## 6. Crisis behavior: practical inference, excessive design and actual endpoints",
+        "paragraph_sha256": "d16da8078947d7b6e5c6ba76ee15d03e0333f06d8908beabdeb2a81c67c074d6",
+        "source_ids": [
+          "P217",
+          "P219",
+          "P223"
+        ],
+        "inline_locators": [
+          "PavaneC002E017scene002u0001–0052",
+          "C002E019u0078–0084",
+          "C002E023u0018–0047"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P024",
+        "saved_line": 81,
+        "section": "## 6. Crisis behavior: practical inference, excessive design and actual endpoints",
+        "paragraph_sha256": "82137544d999c360c3923b12aa7b7d7883db8f8d2a8df4dc6f42f0de6065199d",
+        "source_ids": [
+          "E17",
+          "E18009",
+          "E18010"
+        ],
+        "inline_locators": [
+          "817:008–011",
+          "818:009u0079–0140",
+          "818:010u0001–0018"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P025",
+        "saved_line": 83,
+        "section": "## 6. Crisis behavior: practical inference, excessive design and actual endpoints",
+        "paragraph_sha256": "3571dbb70077ab5bf5ca765fe8d3c1406b5588c0c269cced1054faa5b157aff8",
+        "source_ids": [
+          "E18017"
+        ],
+        "inline_locators": [
+          "818:017u0017–0061"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P026",
+        "saved_line": 85,
+        "section": "## 6. Crisis behavior: practical inference, excessive design and actual endpoints",
+        "paragraph_sha256": "3ae8b3c6c17eb5c0cf012c48281538b2014157cb1ebaa7573a31d83268c9b9c0",
+        "source_ids": [
+          "F00",
+          "F216",
+          "F307",
+          "F315"
+        ],
+        "inline_locators": [
+          "FinalC002E016u0001–0014",
+          "C003E007u0001–0019",
+          "C003E015u0027–0076",
+          "Final:whole contextual ending"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P027",
+        "saved_line": 89,
+        "section": "## 7. Relationship with Sensei: shared practice, influence and retained refusal",
+        "paragraph_sha256": "bbdf44c467f33bf6807e7e1263bb19c1486f17904172070e9727388db873328e",
+        "source_ids": [
+          "U23"
+        ],
+        "inline_locators": [
+          "23004:003whole1591–1598;u0007–0022;choice001–003"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P028",
+        "saved_line": 91,
+        "section": "## 7. Relationship with Sensei: shared practice, influence and retained refusal",
+        "paragraph_sha256": "95b38dee2e89b651b2b6fba1befb23871d170cdd3d7255e726446971fc1ced61",
+        "source_ids": [
+          "U23"
+        ],
+        "inline_locators": [
+          "23004:002u0012–0027;choice003–008;whole1582–1590"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P029",
+        "saved_line": 93,
+        "section": "## 7. Relationship with Sensei: shared practice, influence and retained refusal",
+        "paragraph_sha256": "d325e6b0377fff3f19448e33284e3f7a2d668bb34d0383ea19d4a9723c502331",
+        "source_ids": [
+          "U23"
+        ],
+        "inline_locators": [
+          "23004:008choice002–003;u0017–0030;006scene001u0009–0031"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P030",
+        "saved_line": 95,
+        "section": "## 7. Relationship with Sensei: shared practice, influence and retained refusal",
+        "paragraph_sha256": "12652b30cefc32b9f0b7fee4789f88c52d71dd6a374a85e422dc9a8429144088",
+        "source_ids": [
+          "E17",
+          "E18017",
+          "F00",
+          "G14",
+          "PW",
+          "U23"
+        ],
+        "inline_locators": [],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P031",
+        "saved_line": 99,
+        "section": "## 8. Major peers and independent recipients",
+        "paragraph_sha256": "001ed705d402a4a849c443899eeb02ccf0ad9089913b376553c2d97b090fa7a2",
+        "source_ids": [
+          "E17",
+          "G14"
+        ],
+        "inline_locators": [
+          "G1401–1403",
+          "817:corrected006"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P032",
+        "saved_line": 101,
+        "section": "## 8. Major peers and independent recipients",
+        "paragraph_sha256": "903d90ad8304eaae8bd34c1a1494bc3920b3c3c155ba04b46046f87ce9cee8dc",
+        "source_ids": [
+          "E18017"
+        ],
+        "inline_locators": [
+          "818:017complete afterstory"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P033",
+        "saved_line": 103,
+        "section": "## 8. Major peers and independent recipients",
+        "paragraph_sha256": "2ea1156996a3bd802765efa5ee23f02fb4530f8d9c3eb5760268dbfd49d12cae",
+        "source_ids": [
+          "P107",
+          "PW"
+        ],
+        "inline_locators": [
+          "PavaneC001E007",
+          "Pavane:complete current contextual account"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P034",
+        "saved_line": 105,
+        "section": "## 8. Major peers and independent recipients",
+        "paragraph_sha256": "ccfdd907cf90e08fc262b8983f3d2dc03880eae541b7efdb7ab57e5434fae4da",
+        "source_ids": [
+          "G14",
+          "U23"
+        ],
+        "inline_locators": [
+          "10051:005whole client sequence and messages;23004:005/008/020",
+          "G1401–1403:local actors and ownership"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P035",
+        "saved_line": 109,
+        "section": "## 9. Japanese written voice and source-mode limits",
+        "paragraph_sha256": "b9e7a9af0f944377c74c9c5dc247ce8956433ea3ca43d24d5f698ae212bd02a4",
+        "source_ids": [
+          "E17",
+          "E18009",
+          "F00",
+          "G14",
+          "PW",
+          "U23"
+        ],
+        "inline_locators": [],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P036",
+        "saved_line": 111,
+        "section": "## 9. Japanese written voice and source-mode limits",
+        "paragraph_sha256": "22a7ebdf77d366c6cae2ed49f0dce753665a39e499e86e36ebd6d3746319c016",
+        "source_ids": [
+          "E17",
+          "E18009",
+          "F00",
+          "G14",
+          "PW",
+          "U23"
+        ],
+        "inline_locators": [],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P037",
+        "saved_line": 113,
+        "section": "## 9. Japanese written voice and source-mode limits",
+        "paragraph_sha256": "9c445bd7bf2a9e8ecbca6576708bc373d50a6636713207b254a994eb4f65f016",
+        "source_ids": [
+          "E17",
+          "E18009",
+          "F00",
+          "G14",
+          "PW",
+          "U23"
+        ],
+        "inline_locators": [],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P038",
+        "saved_line": 115,
+        "section": "## 9. Japanese written voice and source-mode limits",
+        "paragraph_sha256": "9a4266aa182f8d9d93a83da4c2a373d4f81afcca63f5e48ec8e69924ab8b3a3e",
+        "source_ids": [
+          "E18",
+          "L24"
+        ],
+        "inline_locators": [
+          "E818:current checkpoint actor controls",
+          "810:024locale limits"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P039",
+        "saved_line": 119,
+        "section": "## 10. Competing readings and evidential judgment",
+        "paragraph_sha256": "519688979aac7f28e69e633eb990cf56d2435cfad70fc522a751878b15e13ad5",
+        "source_ids": [
+          "E17",
+          "E18009",
+          "F00",
+          "G14",
+          "PW",
+          "U23"
+        ],
+        "inline_locators": [],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P040",
+        "saved_line": 121,
+        "section": "## 10. Competing readings and evidential judgment",
+        "paragraph_sha256": "29cc9743dc94d0e1d30708b1e02a27b1d588965bd9f035a8206eaf29547d57b4",
+        "source_ids": [
+          "E17",
+          "E18017",
+          "F00",
+          "G14",
+          "PW",
+          "U23"
+        ],
+        "inline_locators": [],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P041",
+        "saved_line": 123,
+        "section": "## 10. Competing readings and evidential judgment",
+        "paragraph_sha256": "300a77641ed868bc452e3173f605db5b34bd3df08db5ffcec2a499bc348ca27d",
+        "source_ids": [
+          "E17",
+          "E18009",
+          "F00",
+          "G14",
+          "PW",
+          "U23"
+        ],
+        "inline_locators": [],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P042",
+        "saved_line": 125,
+        "section": "## 10. Competing readings and evidential judgment",
+        "paragraph_sha256": "9c4ff44f33ca01607f7abaf4d1f5a5abd7bbe08aa9f7e038667cd40fa65a277c",
+        "source_ids": [
+          "E17",
+          "E18009",
+          "F00",
+          "G14",
+          "PW",
+          "U23"
+        ],
+        "inline_locators": [],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P043",
+        "saved_line": 127,
+        "section": "## 10. Competing readings and evidential judgment",
+        "paragraph_sha256": "ed489eee981f94f67d56b41b4b3772d3c98e4f1d3a810ac535d572b09a46b21d",
+        "source_ids": [
+          "E17",
+          "E18009",
+          "F00",
+          "G14",
+          "PW",
+          "U23"
+        ],
+        "inline_locators": [],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P044",
+        "saved_line": 131,
+        "section": "## 11. Evidence route, open gaps and completeness",
+        "paragraph_sha256": "6399d3028dfcca72a355c3f9dd061bdde5fc9dff0a88d5a38649b80904fa572a",
+        "source_ids": [
+          "U23"
+        ],
+        "inline_locators": [
+          "Utaha current normal analytical owner"
+        ],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P045",
+        "saved_line": 133,
+        "section": "## 11. Evidence route, open gaps and completeness",
+        "paragraph_sha256": "eed8d781e730de3c3552a996bbe0d837095fcf5198b582f34dc3bdd61aeff0f2",
+        "source_ids": [
+          "A01",
+          "A02",
+          "A03",
+          "A04",
+          "C05",
+          "C06",
+          "U23"
+        ],
+        "inline_locators": [],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P046",
+        "saved_line": 135,
+        "section": "## 11. Evidence route, open gaps and completeness",
+        "paragraph_sha256": "43d31b6c12a55ef8e3e3acfbdde4a403e93dd09c2f1f10ee91b29aaa60de8e6f",
+        "source_ids": [
+          "A01",
+          "A02",
+          "A03",
+          "A04",
+          "C05",
+          "C06",
+          "U23"
+        ],
+        "inline_locators": [],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "UTAHA-P047",
+        "saved_line": 154,
+        "section": "## 11. Evidence route, open gaps and completeness",
+        "paragraph_sha256": "04bfbad43f7888e61f84aebeb76da820e6ebd00659c3d170dd2bfa62dc322235",
+        "source_ids": [
+          "A01",
+          "A02",
+          "A03",
+          "A04",
+          "C05",
+          "C06",
+          "U23"
+        ],
+        "inline_locators": [],
+        "meaning": "Full saved paragraph personally received; interpretation is qualified in its prose, literal sources do not establish unprinted mechanisms/assent/permanence",
+        "ROOT_acceptance": "PENDING"
+      }
+    ],
+    "consequential_endpoint_review": [
+      {
+        "id": "UTAHA-E01",
+        "source_id": "U01",
+        "locators": "10051:002u0028–0041;whole100510010",
+        "affirmative_ending": "Changed coat and retained futurewear/wash desire",
+        "contrary_or_unfinished_tail": "No namedjunior, secretinvitation, observedwash or safetyaudit",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E02",
+        "source_id": "U02",
+        "locators": "10051:003u0047–0059;whole100510080",
+        "affirmative_ending": "Firstframe fails; enjoyment/learning and30fps plan remain",
+        "contrary_or_unfinished_tail": "No repairedmachine, clientdelivery or verifiedfault",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E03",
+        "source_id": "U03",
+        "locators": "10051:005u0084–0093;whole100510170messages350–420",
+        "affirmative_ending": "Actualclientresponses, hoarsevoice, jointreturn and complete proposedamplifier coda",
+        "contrary_or_unfinished_tail": "No allclientsatisfied proof, lastingprofit, election, recovery or builtdevice",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E04",
+        "source_id": "U04",
+        "locators": "10051:006u0043–0044;whole100510320",
+        "affirmative_ending": "Morethanhour continuation; narratedworkshophumming cause revisesexam hypothesis",
+        "contrary_or_unfinished_tail": "No apology, revisedperformance, heardsong or restoredjuniormood",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E05",
+        "source_id": "U05",
+        "locators": "23004:002u0021–0027;whole1582–1590",
+        "affirmative_ending": "Atleasttenmoretrials leadtomakersatisfaction",
+        "contrary_or_unfinished_tail": "No finalrecipientreceipt, durabilitytest or exacttrialcount",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E06",
+        "source_id": "U06",
+        "locators": "23004:003u0021–0022;whole1591–1598",
+        "affirmative_ending": "Premiumtoolpurchase and personalbudgetoverrun",
+        "contrary_or_unfinished_tail": "No returnedlightrepair, adulttraining, tanksafetyspec verification or institutionreimbursement",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E07",
+        "source_id": "U07",
+        "locators": "23004:005u0039–0044;whole1599–1608",
+        "affirmative_ending": "Realpuppy recognized, preconceptionconceded, nearhour technicalaccount",
+        "contrary_or_unfinished_tail": "Puppyresistance remains; no dissection, injury, deliveredrobot, resignedtitle or assuredwelcome",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E08",
+        "source_id": "U08",
+        "locators": "23004:006scene002u0002–0009;whole1609–1622",
+        "affirmative_ending": "Completionreport/thanks/futurewatchpermission/sootjoke follows activehelpinvitation",
+        "contrary_or_unfinished_tail": "No independentoperationtest, unpressuredinitialassent, bicyclecollection or universalsafety",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E09",
+        "source_id": "U09",
+        "locators": "23004:008u0017–0030;whole1623–1629",
+        "affirmative_ending": "Limitedcare, recurringvisitrefusal, chosenlittlefingermemento, apparentpleasure and jointreturn",
+        "contrary_or_unfinished_tail": "No healing, whollyunpressuredtrial, habitcure or romantictoken",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E10",
+        "source_id": "U10",
+        "locators": "23004:020u0040–0043;whole230040010–070",
+        "affirmative_ending": "ConditionalMeisteraspiration and apparentlyhappy jointbrowsing",
+        "contrary_or_unfinished_tail": "Not jointreturn, toolssentience, inspectedinventory or Alice/Keyidentityproof",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E11",
+        "source_id": "U11",
+        "locators": "D10051:Introduction;4621–4633",
+        "affirmative_ending": "Reportedlampfailure/intentiondenial, spectaclepreference and purposehedge",
+        "contrary_or_unfinished_tail": "Not executedvideo, auditoryperformance, restitution or perfectchoreography",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E12",
+        "source_id": "U12",
+        "locators": "D23004:Introduction;1863–1884",
+        "affirmative_ending": "Reportedselfdestructpumpkinrefusal and finalunansweredhelprequest",
+        "contrary_or_unfinished_tail": "No explosion, certifiedcombatcapacity, finishedrepair or receivedanswer",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E13",
+        "source_id": "U13",
+        "locators": "Costume1900906401:10051:000001–000053",
+        "affirmative_ending": "53contextlines19/19/15 withpeacefulwish, roleonlyconcern and possiblefitnessrobot",
+        "contrary_or_unfinished_tail": "Not3events, Yuukadiagnosis, namedpeerappearance, builtrobot or unanimouspleasure",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E14",
+        "source_id": "G14",
+        "locators": "GROUP1401–1403;currentL95–121",
+        "affirmative_ending": "Completedpeerdevice; ownershipdiscovery, concealmentplan and laterdistress/retaliation",
+        "contrary_or_unfinished_tail": "Utahaabsent1403; no substitutecompletion, Neruassent, restoredgun, death or settledliability",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E15",
+        "source_id": "E17",
+        "locators": "817:006/008–011;currentL78–83",
+        "affirmative_ending": "Correctpartialcostumefulfillment, localmachinestop, revisedprogram and reachedopening",
+        "contrary_or_unfinished_tail": "No universallypleasedpeers, fullyrestoredrobot, performedconsultation or safetyaudit",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E16",
+        "source_id": "L24",
+        "locators": "810:024u0016–0026",
+        "affirmative_ending": "Manufacturerblamereversed toownerror, apology/offeredchocolate and screwsretrievalplan",
+        "contrary_or_unfinished_tail": "No actualreplacement, restoredpower, adultconsumption or verifiedflavor; JP/KRdetails distinct",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E17",
+        "source_id": "E18007",
+        "locators": "818:007u0019–0040",
+        "affirmative_ending": "Utahaencourages unfamiliarwork; Hibikidissent and Hanaecare remain independent",
+        "contrary_or_unfinished_tail": "Hanaecareu24–26 notUtahacreedo; no unanimousenjoyment or heardperformance",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E18",
+        "source_id": "E18009",
+        "locators": "818:009u0079–0140",
+        "affirmative_ending": "Robotactivatesafterrepresentedblast; punitiveclassification/escalation and committeecoordination",
+        "contrary_or_unfinished_tail": "No witnessedpreciserocketact, Yuukaattackorder, fullbattleoutcome or auditedalgorithm",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E19",
+        "source_id": "E18010",
+        "locators": "818:010u0001–0018",
+        "affirmative_ending": "Reportedtrack/enginedestruction, evacuation/captives/injuredcare",
+        "contrary_or_unfinished_tail": "No totalinjurycount, durabletechnicalrestoration or liabilitysettlement",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E20",
+        "source_id": "E18017",
+        "locators": "818:017u0017–0061",
+        "affirmative_ending": "Utahaenjoyment/fatigue; Chihirocriticism/burden and finalcostumerefusal",
+        "contrary_or_unfinished_tail": "No acceptedparticipation, bodyshameconfirmed, saferedesign or completedSRTinvestigation",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E21",
+        "source_id": "P107",
+        "locators": "V002C001E007scene002u0073–0148;scene003u0001–0014",
+        "affirmative_ending": "Alicechooses/lifts/fires; giftconditionschange; qualificationresult and receipt",
+        "contrary_or_unfinished_tail": "No unseenbattletactics, lawfulcredential, certifiedstrength/selfrepair or origin",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E22",
+        "source_id": "P212/P213",
+        "locators": "V002C002E012u0047–0082;E013u0036–0055",
+        "affirmative_ending": "Conditionalfreightinference followedbydirectarrival within distributedwork",
+        "contrary_or_unfinished_tail": "No numericallycalibratedforecast, allnetworkstealth or hiddenmotivecertainty",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E23",
+        "source_id": "P217/P219/P223",
+        "locators": "V002C002E017scene002u0001–0052;E019u0078–0084;E023u0018–0047",
+        "affirmative_ending": "Localweapondefeat, exhaustedhandoff, unnamedgift, laterescape and renewedexternalhelp",
+        "contrary_or_unfinished_tail": "No giftescapemechanismjoin, permanentinjury, auditedspecifications or totalcontainment",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "UTAHA-E24",
+        "source_id": "F216/F307/F315/F00",
+        "locators": "V100C002E016u0001–0014;C003E007u0001–0019;E015u0027–0076;F00L162–175",
+        "affirmative_ending": "Overloadeddefense, unknownAMASoperator, declaredvessellimits, limitedmanual/repaircontingency and collectiveending",
+        "contrary_or_unfinished_tail": "No allAMASRiojoin, immediatecompletedrestart, everypersonsrecovery or Utahasoleendingauthorship",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      }
+    ],
+    "rival_review": {
+      "whole_section": 10,
+      "readings": [
+        "flawlessinventor",
+        "incompetentcomic",
+        "utilitarian",
+        "aesthetic",
+        "dominationonly",
+        "uncomplicatedmentor",
+        "romanticgrowth",
+        "facesavingonly",
+        "humilityonly",
+        "crisisonly"
+      ],
+      "decision": "Source-specificrecipientfit thesis preserves both intrinsicordinarywants and adverse/correction/actualresult evidence; no severityequivalence or totaltraitlaw"
+    },
+    "fourteen_OPEN_gaps": {
+      "G01": "OPEN",
+      "G02": "OPEN",
+      "G03": "OPEN",
+      "G04": "OPEN",
+      "G05": "OPEN",
+      "G06": "OPEN",
+      "G07": "OPEN",
+      "G08": "OPEN",
+      "G09": "OPEN",
+      "G10": "OPEN",
+      "G11": "OPEN",
+      "G12": "OPEN",
+      "G13": "OPEN",
+      "G14": "OPEN"
+    },
+    "ROOT_acceptance": "PENDING",
+    "relation_institution_namedsection_N_quarter_credit": 0
+  },
+  "historical_coordinates": "Original coordinates stay frozen. Complete canonical saved-line mappings govern current retrieval without retroactive source or other-package credit.",
+  "canonical_saved_line_mapping": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UTAHA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_source_or_literary_credit": 0
+}

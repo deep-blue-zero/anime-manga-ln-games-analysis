@@ -1,0 +1,497 @@
+{
+  "schema": "BLUE_ARCHIVE_PHASE3_HASUMI_SOURCE_AND_AUTHOR_SCOPE_V1",
+  "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_RECEIVING_PENDING",
+  "created": "2026-10-10",
+  "package": "P3-CHAR-HASUMI",
+  "candidate": "P3-F091",
+  "dated_route": "P3-A035",
+  "literal_identity": "BA_PERSON_HASUMI",
+  "variant_routes": [
+    "13003",
+    "16011",
+    "10124"
+  ],
+  "main_comparator": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+  "declared_source_snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+  "HEAD_at_binding": "dc5ae72fb4841b90ff09fd53d8ba4b0ce0cf4193",
+  "root_worktree_distinction": "Only enumerated small source bindings verified. Current mutable ROOT acceptance/candidate metadata excluded; c1 analytical source and main2e versus later dc5 published state are distinct. No whole worktree equality or current accepted-count audit.",
+  "modern_source_pin": {
+    "repository": "electricgoat/ba-data@jp",
+    "commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+    "generation": "BA_REFRESH_20260928T032248159554Z",
+    "parser": "0.2.0",
+    "historical_eden_checkpoint_witnesses": "Historical cbe3fd source pin retained by owners, not silently recertified by this author"
+  },
+  "original_producer_provenance": "Accepted small analytical owners retain their own historical source pins. Current byte equality does not recertify all producer fields against the modern pin.",
+  "inputs": [
+    {
+      "source_id": "C01",
+      "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "byte_count": 52261,
+      "line_count": 851,
+      "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+      "worktree_content_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+      "declared_c1_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+      "main_blob_oid": "685661b716fd0032997883efeb294425b0816c18",
+      "main_sha256": "e5e0c9794fdb9664a61110eb002afc75011b75e49ab5965ad8808231455cd7cd",
+      "main_byte_count": 51287,
+      "same_c1": true,
+      "same_main": false,
+      "inspected_scope": "319–344 exact eleven-section mature character monograph architecture",
+      "receiving_records": [
+        "17488f",
+        "e06654"
+      ],
+      "custody_credit": "CONTROL_SCOPE_RECEIVING",
+      "whole_byte_binding_is_not_whole_receiving": true,
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "C02",
+      "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+      "byte_count": 53414,
+      "line_count": 840,
+      "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+      "worktree_content_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+      "declared_c1_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+      "main_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+      "main_sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+      "main_byte_count": 53414,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "327–379,485–509,606–639 relevant complete-story, audience/choice, comparison and counterreading requirements",
+      "receiving_records": [
+        "85dec8"
+      ],
+      "custody_credit": "CONTROL_SCOPE_RECEIVING",
+      "whole_byte_binding_is_not_whole_receiving": true,
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "C03",
+      "repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+      "byte_count": 79178,
+      "line_count": 354,
+      "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+      "worktree_content_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+      "declared_c1_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+      "main_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+      "main_sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+      "main_byte_count": 79178,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "31–44 all 14 literal gap registrations and OPEN boundaries; G13–14 recovered separately",
+      "receiving_records": [
+        "757011",
+        "f0f49c"
+      ],
+      "custody_credit": "CONTROL_SCOPE_RECEIVING",
+      "whole_byte_binding_is_not_whole_receiving": true,
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "C04",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+      "byte_count": 19463,
+      "line_count": 113,
+      "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+      "worktree_content_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+      "declared_c1_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+      "main_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+      "main_sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+      "main_byte_count": 19463,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Previously received complete current Cycle008 argument 113 lines; current 3940 contextual admission supersedes producer pending intake without adding primary credit",
+      "receiving_records": [
+        "Frozen Trinity V1 complete control receipt"
+      ],
+      "custody_credit": "CONTROL_SCOPE_REUSE",
+      "whole_byte_binding_is_not_whole_receiving": true,
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "M01",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md",
+      "byte_count": 14840,
+      "line_count": 95,
+      "sha256": "1884c699f3b631cbb33e299a32bc7fcc93cf9802886a4f31dd35811e5e36af2f",
+      "worktree_content_blob_oid": "311369917282e22c379544ee9c549a1120ac1cc3",
+      "declared_c1_blob_oid": "311369917282e22c379544ee9c549a1120ac1cc3",
+      "main_blob_oid": "311369917282e22c379544ee9c549a1120ac1cc3",
+      "main_sha256": "1884c699f3b631cbb33e299a32bc7fcc93cf9802886a4f31dd35811e5e36af2f",
+      "main_byte_count": 14840,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole1–95; all17 episode arguments/endpoints/attribution controls Fresh consequential exact Hasumi clauses1d98b8; no original primary credit.",
+      "receiving_records": [
+        "fbea4a",
+        "1d98b8"
+      ],
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "whole_byte_binding_is_not_whole_receiving": true,
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "M02",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md",
+      "byte_count": 18645,
+      "line_count": 104,
+      "sha256": "97133f4cf5a2c78d8f7d41828edd036be217bf729a853c6eb3a44804be316379",
+      "worktree_content_blob_oid": "4676b49e703c8c8463784a1a3f59473208693e4a",
+      "declared_c1_blob_oid": "4676b49e703c8c8463784a1a3f59473208693e4a",
+      "main_blob_oid": "4676b49e703c8c8463784a1a3f59473208693e4a",
+      "main_sha256": "97133f4cf5a2c78d8f7d41828edd036be217bf729a853c6eb3a44804be316379",
+      "main_byte_count": 18645,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole1–104; complete20 episode arguments/endpoints/attribution controls Fresh consequential exact Hasumi clauses1d98b8; no original primary credit.",
+      "receiving_records": [
+        "655502",
+        "1d98b8"
+      ],
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "whole_byte_binding_is_not_whole_receiving": true,
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "M03",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md",
+      "byte_count": 18854,
+      "line_count": 96,
+      "sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9",
+      "worktree_content_blob_oid": "908ea487500b136a1d7753b20f87e8e323acedd0",
+      "declared_c1_blob_oid": "908ea487500b136a1d7753b20f87e8e323acedd0",
+      "main_blob_oid": "908ea487500b136a1d7753b20f87e8e323acedd0",
+      "main_sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9",
+      "main_byte_count": 18854,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole1–96; complete25 episode arguments/endpoints/attribution controls Fresh30–75 consequential protection and ending98df5c. Fresh consequential exact Hasumi clauses1d98b8; no original primary credit.",
+      "receiving_records": [
+        "b84f88",
+        "98df5c",
+        "1d98b8"
+      ],
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "whole_byte_binding_is_not_whole_receiving": true,
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "H01",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HASUMI_TSURUGI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_count": 65553,
+      "line_count": 516,
+      "sha256": "a21d34d7d07859c2b0ea9f9be7b75c2a0f63405e5ebb229e766e2e7e175ee360",
+      "worktree_content_blob_oid": "6c7516adbba06bc13b715a8edd1020ea237bc3b5",
+      "declared_c1_blob_oid": "6c7516adbba06bc13b715a8edd1020ea237bc3b5",
+      "main_blob_oid": "6c7516adbba06bc13b715a8edd1020ea237bc3b5",
+      "main_sha256": "a21d34d7d07859c2b0ea9f9be7b75c2a0f63405e5ebb229e766e2e7e175ee360",
+      "main_byte_count": 65553,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Personally complete 243–516 private/written accepted arguments, fourteen Hasumi BOND/MomoTalk pairs and five written objects plus bounded Tsurugi context. Historical intake superseded only by current Cycle008, not new primary credit. Fresh243–405 and401–516 complete untruncated receiving.",
+      "receiving_records": [
+        "50704f",
+        "984050",
+        "7b96f7",
+        "41ec9d",
+        "a4eedb"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_DECLARED_ANALYTICAL_ARGUMENT_SCOPE_REUSE",
+      "whole_byte_binding_is_not_whole_receiving": true,
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "G01",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+      "byte_count": 22699,
+      "line_count": 147,
+      "sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93",
+      "worktree_content_blob_oid": "780341574297f23b2255a225fe7ad6ad20babd04",
+      "declared_c1_blob_oid": "780341574297f23b2255a225fe7ad6ad20babd04",
+      "main_blob_oid": "780341574297f23b2255a225fe7ad6ad20babd04",
+      "main_sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93",
+      "main_byte_count": 22699,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole accepted GROUP1801–1802 argument and literal roster1–147. Initial fresh display clipped; all40–104 and104–147 explicitly recovered, initial1–39 intact. Guest origin qualification, proposed but unshown burning, Tsurugi felt welcome versus peer fear, unknown laugh and caregiver/hostage reports retained.",
+      "receiving_records": [
+        "3ae5ee",
+        "0c5067",
+        "cb4dc7",
+        "4c3895",
+        "b3888b"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_DECLARED_ANALYTICAL_ARGUMENT_SCOPE_REUSE",
+      "whole_byte_binding_is_not_whole_receiving": true,
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "E18",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_count": 109502,
+      "line_count": 534,
+      "sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187",
+      "worktree_content_blob_oid": "f359d3ab6367591050eb85c4dbbfe7abec940b66",
+      "declared_c1_blob_oid": "f359d3ab6367591050eb85c4dbbfe7abec940b66",
+      "main_blob_oid": "f359d3ab6367591050eb85c4dbbfe7abec940b66",
+      "main_sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187",
+      "main_byte_count": 109502,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Prior personally complete literary meanings23–287 and cumulative/roster495–534; fresh complete207–285 argument. Full literal witness annex remains unreceived; no new raw-token audit. Exact actor seams prevent Izuna/Yuuka/Noa clauses from reassignment to Hasumi.",
+      "receiving_records": [
+        "frozen_Trinity_V1_d5dd5e",
+        "frozen_Trinity_V1_9798ab",
+        "bfbc9b"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_DECLARED_ANALYTICAL_ARGUMENT_SCOPE_REUSE",
+      "whole_byte_binding_is_not_whole_receiving": true,
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "E48",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_848/BLUE_ARCHIVE_EVENT_848_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_count": 64033,
+      "line_count": 2333,
+      "sha256": "ced089d38e56d2247c67d861caba5401954f42b551fbcb125823f2ca0f76b19f",
+      "worktree_content_blob_oid": "d6bf83c53f0632b2fbeabfe72ac242cb596dc1b6",
+      "declared_c1_blob_oid": "d6bf83c53f0632b2fbeabfe72ac242cb596dc1b6",
+      "main_blob_oid": "d6bf83c53f0632b2fbeabfe72ac242cb596dc1b6",
+      "main_sha256": "ced089d38e56d2247c67d861caba5401954f42b551fbcb125823f2ca0f76b19f",
+      "main_byte_count": 64033,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Prior personally complete all30 literary meanings/synthesis51–55,1124–1694,2117–2333; literal metadata/roster remains pending. Fresh whole consequential1134–1250,1270–1325,1381–1415 arguments preserve prejudice, practical cooperation, ordinary tea/meal/cleanup and hierarchy.",
+      "receiving_records": [
+        "b82fd8",
+        "cd6f91",
+        "ebbb1d",
+        "cdfb5b",
+        "8c71b4",
+        "bfff1d"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_DECLARED_ANALYTICAL_ARGUMENT_SCOPE_REUSE",
+      "whole_byte_binding_is_not_whole_receiving": true,
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "G02",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2201_DEEP_READING.md",
+      "byte_count": 20604,
+      "line_count": 137,
+      "sha256": "54bfc7a4c14e258acdfe36e28b5be1b845ad3347a2748f2bf3a0f95da5d69e43",
+      "worktree_content_blob_oid": "07fa89af78ca48473df3f8daaf72052003b93aaa",
+      "declared_c1_blob_oid": "07fa89af78ca48473df3f8daaf72052003b93aaa",
+      "main_blob_oid": "07fa89af78ca48473df3f8daaf72052003b93aaa",
+      "main_sha256": "54bfc7a4c14e258acdfe36e28b5be1b845ad3347a2748f2bf3a0f95da5d69e43",
+      "main_byte_count": 20604,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole accepted analytical owner through EOF. Hasumi/Mashiro intervention responds to report at118–122; no completed encounter/arrest/trial, no extra financial competence or generic identity joins.",
+      "receiving_records": [
+        "0aa88d"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_GROUP_ARGUMENT",
+      "whole_byte_binding_is_not_whole_receiving": true,
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "E03",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_803/BLUE_ARCHIVE_EVENT_803_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "byte_count": 24308,
+      "line_count": 145,
+      "sha256": "2e39c9ad794d9b38f9a3ea4b3b0b83031f7646a55fd689f11cc1a6fbdb4341b2",
+      "worktree_content_blob_oid": "65f353b920aebe20cf7eb7914cfd26d2ef36ae77",
+      "declared_c1_blob_oid": "65f353b920aebe20cf7eb7914cfd26d2ef36ae77",
+      "main_blob_oid": "65f353b920aebe20cf7eb7914cfd26d2ef36ae77",
+      "main_sha256": "2e39c9ad794d9b38f9a3ea4b3b0b83031f7646a55fd689f11cc1a6fbdb4341b2",
+      "main_byte_count": 24308,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole accepted current 145-line comparison through EOF, all21 literary object meanings, complete ordinary wishes/actual cleanup/unfinished Hasumi leave and mode/actor bounds. No primary receiving added.",
+      "receiving_records": [
+        "15f27f"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_COMPARISON_ARGUMENT",
+      "whole_byte_binding_is_not_whole_receiving": true,
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "E19",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_819/BLUE_ARCHIVE_EVENT_819_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_count": 33363,
+      "line_count": 152,
+      "sha256": "f985eff72b00b1532d668f6e60534a05351d4cb26dbfff17d187da3e501459e2",
+      "worktree_content_blob_oid": "491b6cab49552fdf4039f496b05c17cc91180b17",
+      "declared_c1_blob_oid": "491b6cab49552fdf4039f496b05c17cc91180b17",
+      "main_blob_oid": "491b6cab49552fdf4039f496b05c17cc91180b17",
+      "main_sha256": "f985eff72b00b1532d668f6e60534a05351d4cb26dbfff17d187da3e501459e2",
+      "main_byte_count": 33363,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole accepted 152-line owner through EOF in1–80 and81–152. Complete eleven-object positive and contrary argument/endpoints. Hasumi rejects life-for-life, reported treatment/recovery versus unprinted restitution, opponents escape, actual party and unproved Mine reform. Earlier producer pending states historical.",
+      "receiving_records": [
+        "419d02",
+        "153af0"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_EVENT_ARGUMENT",
+      "whole_byte_binding_is_not_whole_receiving": true,
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "F00",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "byte_count": 49292,
+      "line_count": 452,
+      "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+      "worktree_content_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+      "declared_c1_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+      "main_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+      "main_sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+      "main_byte_count": 49292,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Prior complete accepted Final argument received in first Trinity trio; current targeted Hasumi/Tsurugi/Justice query e06654 yields retrieval roster and group-routing paragraph, no new positive Final literary claim and no global absence finding. Bound whole bytes is not fresh whole receiving.",
+      "receiving_records": [
+        "Prior complete first Trinity Final receiving",
+        "e06654"
+      ],
+      "custody_credit": "PRIOR_COMPLETE_ANALYTICAL_ARGUMENT_REUSE_CURRENT_METADATA_ONLY_CHECK",
+      "whole_byte_binding_is_not_whole_receiving": true,
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    }
+  ],
+  "author_review": {
+    "body": "BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+    "whole_saved_readback": "11ff20 saved1–87, a5d4c7 saved88–138 EOF and final26.",
+    "literary_verdict": "AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "distinct_thesis": "Administrative care enables chosen student life, while self-exclusion and coercive/prejudiced means complicate its own recipient benefits.",
+    "rivals": "Manager only; comic appetite/body failure; effortless self-acceptance; universally benevolent Justice; hypocrisy only; teacher-led cure/settled romance; wholly transactional; all pleasure waits until harm is resolved. Each opposed by actual positive/counterevidence and complete endings.",
+    "ordinary_wants": "Milk tea/sweets/reading/brief sky/company/chosen clothes/lemon gift/joint task/exercise as pleasure/sand, water and meals/fireworks/festival relay and tea/Christmas repertoire; unfulfilled own leave retained intrinsic.",
+    "recipient_and_endpoint_scope": "Notebook privacy/unknown entry; wrong-referent condition; consultations unresolved; actual company/food/preparation versus recurrent diet/size worry; reported headache relief not cure; chosen purchase/possible pressure/dizziness/actual meal/fireworks; peer agency Tsurugi/Mashiro/Koharu/Ichika/Tsukuyo/Mine/juniors distinct; intimidation/prejudice costs and proportionate Christmas local repair/actual party versus escape/restitution/reform.",
+    "ROOT_literary_receiving": "PENDING",
+    "ROOT_adoption": "PENDING",
+    "independent": false
+  },
+  "all_fourteen_gaps": [
+    {
+      "id": "G01",
+      "state": "OPEN",
+      "claim_specific_effect": "Saved134/136 and per-claim register preserve distinct actual extension limits; no closure."
+    },
+    {
+      "id": "G02",
+      "state": "OPEN",
+      "claim_specific_effect": "Saved134/136 and per-claim register preserve distinct actual extension limits; no closure."
+    },
+    {
+      "id": "G03",
+      "state": "OPEN",
+      "claim_specific_effect": "Saved134/136 and per-claim register preserve distinct actual extension limits; no closure."
+    },
+    {
+      "id": "G04",
+      "state": "OPEN",
+      "claim_specific_effect": "Saved134/136 and per-claim register preserve distinct actual extension limits; no closure."
+    },
+    {
+      "id": "G05",
+      "state": "OPEN",
+      "claim_specific_effect": "Saved134/136 and per-claim register preserve distinct actual extension limits; no closure."
+    },
+    {
+      "id": "G06",
+      "state": "OPEN",
+      "claim_specific_effect": "Saved134/136 and per-claim register preserve distinct actual extension limits; no closure."
+    },
+    {
+      "id": "G07",
+      "state": "OPEN",
+      "claim_specific_effect": "Saved134/136 and per-claim register preserve distinct actual extension limits; no closure."
+    },
+    {
+      "id": "G08",
+      "state": "OPEN",
+      "claim_specific_effect": "Saved134/136 and per-claim register preserve distinct actual extension limits; no closure."
+    },
+    {
+      "id": "G09",
+      "state": "OPEN",
+      "claim_specific_effect": "Saved134/136 and per-claim register preserve distinct actual extension limits; no closure."
+    },
+    {
+      "id": "G10",
+      "state": "OPEN",
+      "claim_specific_effect": "Saved134/136 and per-claim register preserve distinct actual extension limits; no closure."
+    },
+    {
+      "id": "G11",
+      "state": "OPEN",
+      "claim_specific_effect": "Saved134/136 and per-claim register preserve distinct actual extension limits; no closure."
+    },
+    {
+      "id": "G12",
+      "state": "OPEN",
+      "claim_specific_effect": "Saved134/136 and per-claim register preserve distinct actual extension limits; no closure."
+    },
+    {
+      "id": "G13",
+      "state": "OPEN",
+      "claim_specific_effect": "Saved134/136 and per-claim register preserve distinct actual extension limits; no closure."
+    },
+    {
+      "id": "G14",
+      "state": "OPEN",
+      "claim_specific_effect": "Saved134/136 and per-claim register preserve distinct actual extension limits; no closure."
+    }
+  ],
+  "scope_recovery": "Initial fresh G180 display clipped; full middle40–104 and104–147 recovered. Complete E8191–80/81–152 personally received. Final e06654 targeted metadata only adds no positive or corpus absence claim. Literary body26 revised from attempted to proposed tea destruction before final readback, preserving unshown burning.",
+  "attributed_additional_receiving": "Existing fullcast reconciliation analyst personally whole E803/E819 with its independent custody explicitly attributed; this author additionally personally received both current owners, no extra primary or independence credit.",
+  "original_primary_credit_added": 0,
+  "performed_credit": 0,
+  "independent_review_credit": 0,
+  "unbound_large_reads_or_hashes": 0,
+  "repository_or_global_writes": 0,
+  "N_frozen": false,
+  "quarter_claimed": false,
+  "external_handoff": false,
+  "canonical_derivative_custody": {
+    "state": "ROOT_ACCEPTED_WITH_LIMITS",
+    "frozen_author_bytes": 25339,
+    "frozen_author_sha256": "65e325109bbb8e99f870a8021ff73a788873757a69a965b10f5380032d360ced",
+    "root_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HASUMI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "source_reference_translation": "Repository-relative analytical paths, external selected corpus refs and immutable local witness refs preserve exact original tuples/scopes without publishing machine paths or claiming public availability. Historical author statuses are not current acceptance."
+  }
+}

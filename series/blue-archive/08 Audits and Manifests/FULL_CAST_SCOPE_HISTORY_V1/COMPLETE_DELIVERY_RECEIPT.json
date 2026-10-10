@@ -1,0 +1,330 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1/COMPLETE_DELIVERY_RECEIPT.json",
+  "original_frozen_binding": {
+   "bytes": 17776,
+   "sha256": "55a54f46fd63ef5b2b28f4639c63d90bbe56a325ea6de51a4d715c361ae9d0f3",
+   "git_blob_sha1": "d5e090e1d18e375a696c657459f88d2da96bfdb2"
+  }
+ },
+ "historical_payload": {
+  "status": "FROZEN_COMPLETE_C_ONLY_DELIVERY_ROOT_RECEIVING_PENDING",
+  "substantive_output_bindings": [
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/CHARACTER_AND_SOURCE_FORM_PARTITION_PART_01.json",
+    "bytes": 463081,
+    "sha256": "12cdbfbd0c4afd4dedd4332501d19f5ff2062efa289117ca449b80b5c88e834e",
+    "git_blob_sha1": "7bf378f1dd5a8f9b4ab479741b57570b97fde512"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/CHARACTER_AND_SOURCE_FORM_PARTITION_PART_02.json",
+    "bytes": 590716,
+    "sha256": "985d504527984ffa2d7c9d10389ee4f56fe5ebc6c8615ec1cd11bd1fdd1b96d2",
+    "git_blob_sha1": "eb1e68e4de381bcc9365ce1489f8eadb6dd356bc"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/COMMON_HOME_ALIAS_AND_SECTION_DECISION_TABLE.json",
+    "bytes": 15859,
+    "sha256": "ba7bd8dab930e5c9bf6a43f4404f252ee533b875676b84fb4de8b2344de09eaa",
+    "git_blob_sha1": "a65b10b76111a61d6be72df8fda1ef115332c0f0"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/COUNTED_REQUIRED_HOME_PARTITION_PROPOSAL.json",
+    "bytes": 277787,
+    "sha256": "1f055c48fcc3b7de14f1faaa15ef6641998b617f535ce87682825b5ef4932e18",
+    "git_blob_sha1": "d10ec955b3b43019377f16b283b5d518cff96d4f"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/CURRENT_PUBLIC_MEANING_RECEIVING_RECEIPT.json",
+    "bytes": 28328,
+    "sha256": "56500b529f6aba0a02bc45fe119cc644bc72d5f65dbe374ceb3885f9c0c45e47",
+    "git_blob_sha1": "b27b902d9de919f433ccf1f2b5d0a7a318bd3313"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/DELIVERY_AND_RECEIVING_SCOPE.md",
+    "bytes": 2616,
+    "sha256": "86014e8cc5b9c9cb0bf307de9ff68971f862ce4ce4b3efe056c3793f34e7b860",
+    "git_blob_sha1": "6bdf7e62263c6c69a02743994077f7d628869496"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md",
+    "bytes": 55190,
+    "sha256": "581d19dca8039f1523ff6383c01949443eb7c4c750d5eab448e0a8fadaba1218",
+    "git_blob_sha1": "2212fbecd763df91ae9b43409b27f9b288985357"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/IDENTITY_SOURCE_FORM_AND_DUPLICATE_QUESTION_DECISIONS.json",
+    "bytes": 5240,
+    "sha256": "85a645e990c04f34dcb4de2e2ad79451d4ea617ce4f5e40650504582b7509600",
+    "git_blob_sha1": "7b34a324f2e1e20ca6ae8424b4ede351d2d3e92b"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/INPUT_BINDINGS_AND_RECEIVING_QUALIFICATIONS.json",
+    "bytes": 12605,
+    "sha256": "fbb58023f6622ebf87906d6f622d5fbadab15fb5fb4a0c88daadb03fd1e3bf3d",
+    "git_blob_sha1": "ebf9275fc2cd5c18e53e6824d75df57b4eb6343f"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/LOSSLESS_ORIGINAL_SHARED_AND_LOCAL_ROLE_DECLARATIONS.json",
+    "bytes": 371878,
+    "sha256": "5d37fcbb72952a21a9fb65020434e7d329f7047596917ce243eb7cae2515a163",
+    "git_blob_sha1": "b470fa44a48de5927f686bd12aa147e33174e159"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/MECHANICAL_PARTITION_INTEGRITY_REPORT.json",
+    "bytes": 1797,
+    "sha256": "fc8d1353caa09722fcdc04610938103b9efde1a9621693c97da0b37116155450",
+    "git_blob_sha1": "9293a6499352ae40373918e9bda94107606144e0"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/NEW_NAMED_AND_NONHUMAN_QUESTION_RESPONSIBILITIES.json",
+    "bytes": 58545,
+    "sha256": "d0481642b00c33724eef68dbd8f3c7a030f75487e9e8ee8104de7c693ecfef4f",
+    "git_blob_sha1": "905b5ef18a213f60c8155464c30305d5d1e03fc9"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/SELECTED_PUBLIC_PACKET_HOME_ALLOCATION_PROPOSAL.json",
+    "bytes": 283109,
+    "sha256": "5436638fd8786da53706c284ca7171752b94fc262764d5d90a60661e0fe3e591",
+    "git_blob_sha1": "c3f98b5c26abfa3c1598aa0404c1c5867bd74167"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/SHARED_QUESTION_COMMON_HOME_CATALOG.json",
+    "bytes": 175361,
+    "sha256": "06dae80bd5565557de54eb0523a09295378186f3518c5100c374008182967a41",
+    "git_blob_sha1": "07e363d8b71792be84a304dc63bb64d0e8217f16"
+   }
+  ],
+  "manifest_binding": {
+   "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/EXACT_OUTPUT_MANIFEST.json",
+   "bytes": 6944,
+   "sha256": "cef0086db53f96286622afcad244e3049af1896ba6bf3e0c72e9541c3144f92e",
+   "git_blob_sha1": "d68f259dde1aceb61abe31d19fcea1e5906cf493"
+  },
+  "exact_input_bindings_reverified": [
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_MAIN_SPECIAL/MAIN_SPECIAL_CENSUS_CANDIDATE.json",
+    "bytes": 282340,
+    "sha256": "28c1f3905bf099b10e1d09d028733b5c022769f2fc05e3ac6fa13d93298b9cae",
+    "git_blob_sha1": "76856e202f8363507e87c52a83f15dc06995f47f"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_MILLENNIUM/BLUE_ARCHIVE_PHASE3_MILLENNIUM_DECISION_REGISTER_V1.json",
+    "bytes": 26772,
+    "sha256": "cc0daad45b5dfe26e66049719271282704f419d9864daa284f9f76e33e4b4768",
+    "git_blob_sha1": "f7f8ce1c188932b885cd0529b7be84f49cc15c48"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_MILLENNIUM_V2/BLUE_ARCHIVE_PHASE3_MILLENNIUM_DECISION_REGISTER_V2.json",
+    "bytes": 34855,
+    "sha256": "41fd1078e3f7b15ec4225f6cf71dad5a623fb7cbc06778042872e5b2cabdd02a",
+    "git_blob_sha1": "f864562949adf311b201eca0de1f3dedc3813819"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_DECISION_REGISTER_V1.json",
+    "bytes": 87882,
+    "sha256": "3135c48175aabf56bf1c65477d6392471b59fbf6745a2aefbeca2df2ebdbb1c9",
+    "git_blob_sha1": "4dcab7742e689b93d72c4c0e19fea023153744f3"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_DECISION_REGISTER_V2.json",
+    "bytes": 94478,
+    "sha256": "6f8607abe964b0032bda888a6d3b9f37b374a5aba8d953eca83d7f485627b6d4",
+    "git_blob_sha1": "9643a0a29ebf143f506f3410bb6e55aed3666e02"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_ABYDOS_ARIUS/ABYDOS_ARIUS_CHARACTER_DECISIONS.json",
+    "bytes": 50413,
+    "sha256": "5bed3de0f634d68b3591080b1bbf6c1767c7ed7b1e183e6511e578475276e4ac",
+    "git_blob_sha1": "e68c9c6640caf99b663992282a3c2ced4cc06593"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/ROOT_RED_WINTER10_DECISION_REGISTER_V1.json",
+    "bytes": 11142,
+    "sha256": "5d5592dc5157c58078ca7bf76c0e426ea98964f7e50ce1009edd9e38964212ff",
+    "git_blob_sha1": "ed725598cd4bb99bb86ed54a110ff1266a768cfb"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/ROOT_VALKYRIE3_DECISION_REGISTER_V2.json",
+    "bytes": 15188,
+    "sha256": "0d3683af714e8a77255063d1a5beb9078ffc3a8320ead9821f95489e12010d9c",
+    "git_blob_sha1": "091794d08a88e462d8f0ba2fbc2a3837598d0523"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_GEHENNA/GEHENNA_PS68_CHARACTER_DECISIONS.json",
+    "bytes": 82363,
+    "sha256": "bb070ae5a9b005ae3aa9fcf5d0d1e837c434102427cb29978bf1b5dc1a463fd7",
+    "git_blob_sha1": "fd7be9487db4f4d539c1bdcc6f9929cfa5289845"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_HYAKKIYAKO_SHANHAIJING/HYAKKIYAKO_SHANHAIJING_CHARACTER_DECISIONS.json",
+    "bytes": 128815,
+    "sha256": "d74b602e7fd31c51968f416ad565648d897fa628182d314995cfad127af965cd",
+    "git_blob_sha1": "718a180e2508f4e181e1d0a771577950b2691a6c"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_RESIDUAL26/RESIDUAL26_CHARACTER_DECISIONS.json",
+    "bytes": 156748,
+    "sha256": "4306ecafa61000db5960956f4d4c7ca28789f44ab1cb76188f2a82bc09338afc",
+    "git_blob_sha1": "fed794fb1b1ff2caea864c617baa28178366bfea"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_PUBLIC_COVERAGE_V1/OWNER_COVERAGE_MATRIX.json",
+    "bytes": 407296,
+    "sha256": "3ee93c8f2ad94de8a2bb9dc12207158945a010155e1f775799317271cded497a",
+    "git_blob_sha1": "f8afc2254f5d683072c959ab84f6aafcc4913d52"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_PUBLIC_COVERAGE_V1/EXACT_OUTPUT_MANIFEST.json",
+    "bytes": 6119,
+    "sha256": "d05786e4b3ad2a500b33c01d317675c5e7e7b4ff2a802467622be35d803f895c",
+    "git_blob_sha1": "8a29a9afb00e229f05c188297f4ee09015af8f74"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_COHORT_ARGUMENTS_V1/ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md",
+    "bytes": 32751,
+    "sha256": "cb20b5b0f2e0cd757ed2a1d0495116cebe771031c969b5858ca66b647a5e89b9",
+    "git_blob_sha1": "d56786e8e2b5184c3c69056df0ede08c772b0bea"
+   },
+   {
+    "path": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1\\WORKING_ALL_CHARACTER_SOURCE_DECISIONS.json",
+    "bytes": 877121,
+    "sha256": "a7e836edc1978bd25ba73d80ab1e1a416614aba875904c39f03490acfacabcfb",
+    "git_blob_sha1": "6d12a3c49b6393d781cc0d85ccc74f1f5db02d3f"
+   },
+   {
+    "path": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1\\WORKING_C1_TYPED_DISPATCH_GAPS.json",
+    "bytes": 4389,
+    "sha256": "752354ab0628b4bfbf69a016023dc9293dd52c57767d7fa14d5f9ae33ba1a04f",
+    "git_blob_sha1": "a8cd02b04a81e0c6f51baff1838209eda235ba6a"
+   },
+   {
+    "path": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1\\WORKING_QUESTION_RECONCILIATION_VIEW.jsonl",
+    "bytes": 134231,
+    "sha256": "9977e258b0056e517227079019769e028273573e7b753c6eff1affe46f1bd0a6",
+    "git_blob_sha1": "78a525cd2f01170739f3ecbcd296367056da4b72"
+   },
+   {
+    "path": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1\\WORKING_MILLENNIUM_THESIS_AND_SHARED_ARGUMENT_VIEW.md",
+    "bytes": 74124,
+    "sha256": "8c68d1dbbc5332983e890bdd6743fcdf894d63e534b0035d53fc38097946055f",
+    "git_blob_sha1": "132dfa4cd6c95a040116f138d2104c5471b84b8a"
+   },
+   {
+    "path": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1\\WORKING_CURRENT_OWNER_RECEIVING.json",
+    "bytes": 28122,
+    "sha256": "4d7288d7f552199882096dcbd7316dc6daad2d3996b7d2c1f78d6049d9a05b5a",
+    "git_blob_sha1": "d63ff2a9ef1a2488c7ad19705d708ed476719475"
+   }
+  ],
+  "whole_argument_receiving": {
+   "scope": "WHOLE_SAVED_BODY_THROUGH_EOF_PLUS_COMPLETE_SUBSEQUENT_PRECISION_EDIT_READBACK_FINAL_BYTES_EXACTLY_VERIFIED",
+   "body_before_precision_edits_raw_characters": 55002,
+   "readback_chunks": [
+    {
+     "chunk_id": "036b5c",
+     "range": [
+      0,
+      20000
+     ]
+    },
+    {
+     "chunk_id": "41d63b",
+     "range": [
+      20000,
+      40000
+     ]
+    },
+    {
+     "chunk_id": "921246",
+     "range": [
+      40000,
+      55002
+     ]
+    }
+   ],
+   "precision_edits_readback": "600fc3: whole Highlander table row and both whole edited literary paragraphs; no substantive claim was clipped",
+   "final_body_binding": {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_HISTORY_V1/FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md",
+    "bytes": 55190,
+    "sha256": "581d19dca8039f1523ff6383c01949443eb7c4c750d5eab448e0a8fadaba1218",
+    "git_blob_sha1": "2212fbecd763df91ae9b43409b27f9b288985357"
+   }
+  },
+  "structured_receiving": "Own authored home proposals fully semantically reviewed; selected character originals and all role/owner fields mechanically preserved exactly, not a false claim of personally rereading all other authors original bodies",
+  "question_projection_receiving": {
+   "file": "WORKING_QUESTION_RECONCILIATION_VIEW.jsonl",
+   "whole_raw_characters": 133537,
+   "complete_readbacks": [
+    "f11f6a",
+    "b93428",
+    "112058",
+    "9e5a06",
+    "d95f1c",
+    "041988",
+    "968da4"
+   ]
+  },
+  "Millennium_thesis_shared_receiving": {
+   "file": "WORKING_MILLENNIUM_THESIS_AND_SHARED_ARGUMENT_VIEW.md",
+   "whole_raw_characters": 73767,
+   "complete_readbacks": [
+    "8f0939",
+    "a00640",
+    "17efae",
+    "774811"
+   ],
+   "limit": "Complete selected character-thesis/contrary/shared sections, not whole original private bodies or both full eligibility files"
+  },
+  "Red_Winter_receiving": {
+   "file": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md",
+   "whole_raw_characters": 32662,
+   "complete_readbacks": [
+    "60db09",
+    "774811",
+    "611a6f"
+   ]
+  },
+  "current_public_meaning_receiving": "CURRENT_PUBLIC_MEANING_RECEIVING_RECEIPT.json: nineteen complete analytical files, eighteen normal owners plus whole E816 checkpoint",
+  "source_credit_added": 0,
+  "repository_writes": false,
+  "Git_writes": false,
+  "provider_calls": false,
+  "global_registry_writes": false,
+  "nine_unbound_large_artifacts_read_or_hashed": false,
+  "all_prior_frozen_artifacts_unchanged": true,
+  "mechanical_partition_integrity": "MECHANICAL_PARTITION_INTEGRITY_REPORT.json",
+  "counted_schedule": {
+   "proposed_required_standalone_packages": 350,
+   "proposed_required_standalone_by_kind": {
+    "CHARACTER": 205,
+    "SENSEI": 1,
+    "REGISTER": 4,
+    "DIRECTED_RELATIONSHIP": 71,
+    "INSTITUTION": 53,
+    "ENSEMBLE": 16
+   },
+   "required_substantial_section_homes": 23,
+   "required_scope_identity_or_allocation_review_holds": 9,
+   "section_sources_27I": "Twenty-seven original unjoined duties separately addressable inside one register; rows are not twenty-seven standalone packages",
+   "count_status": "COUNTED_PROPOSAL_FOR_ROOT_ADJUDICATION_NOT_FROZEN_N_NOT_COMPLETION",
+   "completion_added": 0,
+   "all_named_questions_and_literal_roles_retained": true
+  },
+  "N_frozen": false,
+  "quarter_or_percentage_claimed": false,
+  "remaining": [
+   "ROOT complete independent receiving and semantic adjudication of proposed homes/section scopes",
+   "ROOT exact source-local role adoption and duplicate home adjudication",
+   "Visible nine identity/scope/allocation review holds and named role/collective source limits",
+   "Actual full specialist writing for every accepted required package",
+   "All fourteen claim-specific gaps remain OPEN at their actual scope"
+  ]
+ }
+}

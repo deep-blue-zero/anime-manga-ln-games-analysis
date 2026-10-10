@@ -1,0 +1,2374 @@
+{
+  "schema": "BLUE_ARCHIVE_SHIGURE_FULL_REVERSIBLE_SAVED_TRANSPORT_V1",
+  "status": "C_ONLY_PROPOSED_CANONICAL_DERIVATIVE_ROOT_REVIEW_INSTALLATION_PENDING",
+  "full_frozen_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_SHIGURE_CHARACTER_MONOGRAPH.md",
+      "bytes": 47054,
+      "sha256": "feceae4d7ac256157fda2f97d927f26cd6686e6a3acaa69eee36ecf34bc4e8d8",
+      "git_blob_oid_of_actual_bytes": "21eebe7f60b95997b36cfb5919d5b5184d2fbed6",
+      "lines": 179,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_SHIGURE_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIGURE_CHARACTER_MONOGRAPH.md",
+      "bytes": 49339,
+      "sha256": "9dd4784eb77cc219e70335a6e59e2452b7313049093cd0a11718b8f2518bc9f6",
+      "git_blob_oid_of_actual_bytes": "e2142d72a691d9175698bf12246060dd0f46241d",
+      "lines": 189
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "abf6eb03819d8cdc66762528a3246eef0970ad05834cf7bf074daca1da758d4b",
+        "line_text": "classification: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "b040a034a0c39c7fd51d765a3b3e7ce23a6cc374f8ddb31b596d48d317da6543",
+        "line_text": "architecture: \"1.12, section7.1 eleven required dimensions\""
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9",
+        "line_text": "method: \"1.10\""
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "bee878ef1c5096fb81159066bf1aabc67a7b89019f5f1aab231d50d5561f7896",
+        "line_text": "required_home: P3-CHAR-SHIGURE"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "1ba01b1797913e67cf5c297d09b84634d9dcbd9b7e5f14b856d681614823b787",
+        "line_text": "candidate_responsibility: P3-F133"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "275111e005c13e9154c0770c2bff0cdad59eacaa416a6978140a2fbba5183801",
+        "line_text": "literal_identity: BA_PERSON_SHIGURE"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "4c4a780c5877372799461ecd908801fb29fe366f253a88e3556ed14ea7afae0e",
+        "line_text": "family: SHIGURE"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "6ac81e2fddb0cdd0f3dc61b7c1f61ca318200bde14a5d4e6149df697c3e1cbfc",
+        "line_text": "display_subject: Shigure"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "2e03ce816f0fe74700b6bfd9be482a1d24c5b67f8d8ed95e6a3327dfb62ba3b1",
+        "line_text": "variants: [10055, 20031]"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "d3a7d8969d317200f2d2166ebccd40d17c4395845c643f9cbf0eedab97a1c0e5",
+        "line_text": "event_costume: 1900908001"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "6093827b8e1029194c47d430e31ea925bf9bd07fce9cd9a12541232f48f31639",
+        "line_text": "dated_navigation_witness: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "46b4a1084a10780516af311ffaf9db987e5ad1063fb62ad06bd1db031562234b",
+        "line_text": "game: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "7f883d04131c2ceb93c813788d8346734ce228b11188765b294eb7669400a5a9",
+        "line_text": "parser: \"0.2.0\""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "2f8eca71c4969b928fdbe6f8daf8b42e1259299c7cd842becd4925e35120ecad",
+        "line_text": "source_boundary: \"Nineteen selected private responsibilities: eight BOND with eight whole linked MomoTalk arguments, three written objects; adequate complete accepted public arguments and exact consequential MINI/gift scopes; zero fresh primary/native/raw/QA/AV\""
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "70cbfb274f76de9261e3db6189cbacb16a9890e44b0509e2b0026ea686d22e03",
+        "line_text": "authority_quartet: \"Current Cycle008 admission; own adequate analytical argument receiving; undeclared historical exposure/order/independence UNKNOWN; performed voice unreceived\""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 24,
+        "line_sha256": "1c8e5e32ae1d62fb5761e8c9da845a95a8072410874a22a22d82c7602bed0134",
+        "line_text": "retrospective: true"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 25,
+        "line_sha256": "9c96af10047187817acdbfcc409256b832cc1e1bec7ab02061ed095056b5e2bb",
+        "line_text": "all_original_fourteen_gaps: OPEN"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 26,
+        "line_sha256": "a650fa20652cdc365b4f6513e78c5849bf75aebef8bf1d57b62029393a6e0727",
+        "line_text": "reconstruction_model_credit: NONE"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 36,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 38,
+        "line_sha256": "473febfdae60bdbf03e0aefa1c1a1abe03e348e3dd7e7230fbd0ea46209a2f77",
+        "line_text": "# Shigure: making something enjoyable, choosing company and encountering a limit"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "6444251aa029c5204c01130afb77d2863207f35ee3facce5983704130c1e9caa",
+        "line_text": "## 1. Core thesis: a good mixture is a chosen practice, not a universal permission"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "238f431f5c6a8cfc83bc14960e6dcd3175e0ce261fb48f4ef8a39c3f5b1f383e",
+        "line_text": "Shigure's strongest continuity is an interest in making life enjoyable with available materials and other people. A cold room becomes a setting for relaxed company; foraged ingredients become an actual meal; a drink is adjusted to a customer's preference; a recipe is exchanged for classmates' winter access. These are different achieved goods. Her pleasure in the old school's company neither means the old school supplies enough warmth and food nor makes her unable to act to improve provision. The evidence supports a maker who values company and has practical knowledge, while retaining who supplies labor, who receives the result and whether the proposed arrangement actually occurs. [BA:bond:10055:002/003/006; 20031:003/005; BA:event:808:011:u:0031–0038.]"
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "9a803aedf501f1a1564cbe73588e939171c7a909706366730453aeb5870670cc",
+        "line_text": "Her teasing continually tests the difference between a proposal and its recipient's answer. Shared bathing is wanted but refused; a shared futon is imagined and offered but ends in the adult's separate floor night; an emergency proposal to force drink or a hug remains a conditional threat, whereas the actual rescue is a piggyback return to town. It would be wrong to erase those proposals because they are playful, and equally wrong to report each as an enacted bodily intervention. Later she expressly says she will not force the adult and accepts the refused arrangement. These finite outcomes allow both a serious boundary inquiry and positive company without assigning one person-wide consent virtue or flaw. [BA:bond:10055:003:u:0029–0055; 20031:002:u:0050–0058; 005:u:0062–0095; 006:u:0005–0044.]"
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "12a527c089d2c8826806a3ebb2bff628e6f076a8c5a3d25a4169592ad68af395",
+        "line_text": "The gift makes this argument unusually explicit. Shigure has widened her craft interest, actually prepares a drink, receives favorable inward tasting and chooses selective recipe disclosure. Her bartender analogy gives her own generous account of how Sensei helps students find a fit, then qualifies wording about handling toward appropriate placement. It does not turn her into an ingredient or prove a universal adult mechanism. The Japanese account and Korean self-comparison differ; the final thanks is character-narration and goodwill remains future language. Craft, confidentiality and gratitude matter as ordinary ends without becoming a theory of every student. [BA:event:810:091:u:0001–0039, especiallyu0018–0031/0033–0039.]"
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "3c5457668e2c735d711222df09cbfa010c86a53a23ceb63f78858364305604b9",
+        "line_text": "The resulting thesis is deliberately plural: Shigure can take genuine pleasure in imperfect circumstances, seek a particular person's company, negotiate for peers and make something well; she can also misread an arrangement, participate in an appropriative bargain or propose a method another person rejects. Her companions are independent interpreters. The monograph asks how those positions meet at specific endings, rather than treating laid-back style as a hidden motive that explains everything. Full directed Nodoka–Shigure, Class227 and hospitality responsibilities remain separately required. [BA:group:2801/2802; BA:event:829:011/012; BA:mini:70001010/01020/01030.]"
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "accc49fa24f7cdf9445678531bdcc46152de31595d5193975ee65c6215df744f",
+        "line_text": "## 2. Longitudinal development: local craft and relationship changes without a variant calendar"
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "df05fccb80f9247446ffc7df8c2559a767a6c094d8ff66110600fa899601c014",
+        "line_text": "The source-owned family includes10055 and20031, with distinct default-costume metadata1005501/2003101 and event costume1900908001→10055. Numbers, documented releases and a hot-spring setting do not construct a dated psychological ladder. ProfileclubNone and the character/registry Class227 route remain different source fields; their disagreement must not be silently harmonized. Both profiles describe a sixteen-year-old second-year student, but even that editorial continuity supplies no date for every public/private encounter. The current nineteen-responsibility boundary is eight BOND, eight whole linked threads and three written objects, not nineteen successive events in one known itinerary. [BA:character_data:10055/20031:profile_and_dialog; current private checkpoint73–83 and qualified identity discussion.]"
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "c4c28ece010d0d773dd9c5ff9afbf7571f7d76c5c1f15d50d54c9294bf4b256b",
+        "line_text": "Within the base scenes, the adult's encounter with cold provisions ends in actual thawed drinks and relaxed company. The next rescue story includes a whole message exchange about guidance, warning, return and rest, while its narrative ends with a safe return to Schale. Later restaurant company and gathering ingredients give another pair of local acts, but the record does not place all four episodes and their entire afterwords into a globally dated chain. A whole linked thread can state a later report or renewed wish; it is not merely a launch to be discarded after the scene. [BA:bond:10055:002/003/005/006; whole threads100550010/070/190/330.]"
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "94fc3f195b159f7f10832a8efacdcd082b5402b55e4bd8d2f5cd32bc83a5fc36",
+        "line_text": "The restaurant story gives genuine flexibility. The adult thanks her for a meal; a drink order is attempted but no serving or consumption follows. Stars and wanted company appear in an actorless log, whose written-character parallels support thematic comparison without repairing its speaker. Shigure hopes for personal company, half-jokingly deduces something from Nodoka's expected dislike, then actually accepts a group proposal. Her final happiest-place wish includes227 and Sensei. This is a wanted gathering, not an already held event or a final exclusive relationship decision. The full messages add thanks and future giving, without staging another completed outing. [BA:bond:10055:005:u:0017–0052, especiallyactorlessu0024–0039/0040–0052; whole thread100550190.]"
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "85ef09d8f8fe3ce24785fe060425c4cf0418eac75c31d94524d40e2c0be270e0",
+        "line_text": "The hot-spring stories establish local sequence with more tangible work. In002, an unused tatami offer and a remembered sweets wish frame a visit; the tatami installation is unprinted, whereas the adult's bath, draining and cleaning are actual. In003, she visits another bath, makes fruit milk and negotiates classmates' winter access instead of money; the adult then actually helps with preserved fruit. In005 she develops a voluntary recipe role and addresses different visitors; the adult then misses a train after service. The inability to obtain a room leads to an offered shared futon and the adult's actual separate floor night. These endings support learned and practiced contribution without measuring commercial growth or turning every later proposal into increased intimacy. [BA:bond:20031:002/003/005; whole threads200310010/140/220.]"
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "ce825e83dc1118c6acc118364600bb8dbb53c940944dcbaeb6c5e67979fe265a",
+        "line_text": "Public sequences complicate a smooth progress story. EVENT808 gives enjoyed work and company followed by a resort's destruction despite a real deferred-demolition decision. MINI01010–01030 gives conditional bath-inspection work, actual visits and installation, then removal and renewed confinement. Final100C002E008 gives an evacuation/search conversation without locating everyone or restoring the resort. Those different endpoints must remain alongside successful making and negotiated access. They do not establish that Shigure became permanently more responsible, that punishment ended or that every public act follows the private scenes. [BA:event:808:010–012; BA:mini:70001010/01020/01030; BA:main:100:002:008.]"
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "4a5c15b60e9da77af34655f4c4d47d7b0bad4cf3057df7815f880d1e48843ce3",
+        "line_text": "## 3. Public and private presentation: playfulness has a recipient and an evidence mode"
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "cfdcb6037628ea0867596d58a8a732b13dd1cb9dedf537c87423784b012a1c82",
+        "line_text": "Private hospitality begins with an optional invitation, not an obligation. The adult visits after work, Shigure is surprised and apologizes for having nothing to offer. Her vodka/water teasing and paraphrase of an adult norm occur among alternatives: a spit response and a question cannot both be counted as executed. Frozen provisions, electricity and refrigeration conditions are her reports. Her survival or disinfection arguments are character speech, not measured food safety. The actual thaw and shared relaxation still represent a successful small hospitality act. [BA:bond:10055:002:u:0006–0050 and whole thread100550010.]"
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "529caf373892574f1de72ce75c66727887aa48a6e306ea51257eec0bfdcab27a",
+        "line_text": "This distinction prevents two opposite errors. Treating the alcohol vocabulary as mere harmless personality would suppress objections and uncertainty. Treating every drink word as a proved harmful act would suppress the actual nonalcoholic assessment in gift091, the proposed-but-interrupted vodka step in base006 and the unresolved fermentation accounts elsewhere. The record differentiates an order attempt, a proposal, preparation, actual drinking, a person's perceived taste and a chemical assertion. Shigure's reassurance matters as her answer, while the recipient's continuing doubt also matters. Neither is a laboratory result. [BA:bond:10055:005:u:0018; 006:u:0028–0032; 20031:002:u:0037–0046; 005:u:0084–0089; BA:event:810:091:u:0002–0024.]"
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "f072cd655961b29956dca51a1322b2e400935580d90fdc28ea2040ff68fe3e0e",
+        "line_text": "Public company is equally differentiated. GROUP2801's opening scene of warmth, cocoa and affectionate conversation is Mel's fiction, later explicitly reclassified; Shigure's enjoyment of that fiction is an actual response, while Nodoka rejects its representation and suitability for a petition. A literary scene can be valuable to Shigure without becoming their observed private conduct. Her pleasure and Nodoka's factual objection are both positive evidence of judgment. The embedded voices must not be promoted into confessions, relationship chronology or completed care. [BA:group:2801:scene:001 andscene:002:u:0011–0036; adequate GROUP280 argument.]"
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "1a7606c3e1178d2a68030a76650c3919a58a4172ebcfd756a03a69e88b581e84",
+        "line_text": "Likewise, her account that the former old-building life was enjoyable because they were together does not speak for Nodoka, who has defended improved livelihood against return. The statement acknowledges the prior deprivation and values a different good within it. A complacency reading needs to answer actual guiding, food work, bath negotiation and her participation in conditional inspection; an ideal-companion reading must answer appropriation of another person's book and the recipients' refusals. Her public and private sides are not a false mask and a true self. They expose which goods become salient to her in each address and situation. [BA:event:808:011:u:0031–0038; BA:bond:10055:003/006; 20031:003; BA:event:829:011/012.]"
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "d58d5bf788f079567922d3383801879c4ecdb38eb4ac12512a0d328ea4e75bbf",
+        "line_text": "## 4. School, Class227 and hospitality: membership cannot substitute for adequate provision"
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "b4f8cecc36ec8ab88e9efa057c34a26935aafb95dc2a45d2909dd1addfc77ce4",
+        "line_text": "The baseline profile gives a reported reason for suspension—secret alcohol in ration compote—and a rumor that she deliberately followed her childhood friend Nodoka. Those are editorially qualified reports, not a newly witnessed disciplinary incident or authenticated intention. The hobby and homemade bottle imagery supply a craft context; they do not demonstrate the chemistry of every later drink. Written evasions about recollection are not an amnesia diagnosis or confirmation of the rumor. Class227 belonging is a positive social and documentary route without explaining away every institutional decision. [BA:character_data:10055:profile_and_dialog, profileintro and4965–4967; qualified private checkpoint.]"
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "46bae63a4ab6fcda8552deb29eec06d1a1fd447aae4f3c07be0c7972338839e1",
+        "line_text": "The old school gives meaningful community while making comfort unreliable. Shigure's offered food/drink, guidance and ingredient gathering are actual local contributions, but reported frozen stock and routine game allocation do not establish a stable supply system. The adult's takeover of base006 cooking uses her acquired ingredients and follows her earlier prep; it does not make the adult sole provider or prove that all her methods were sound. Her later apology and the adult's reassurance matter without licensing every future prank. [BA:bond:10055:002:u:0024–0042; 003:u:0018–0055; 006:u:0010–0054 and whole thread100550330.]"
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "29f43df53b42f059f29313d75040cc3798440cb6f745e8717a0ff03474f48c2e",
+        "line_text": "In the public petition sequence, the class seeks a representation fit for an audience. Mel's fiction gives Shigure enjoyment but fails Nodoka's requested purpose; Minori actually provides a targeted petition. Its later attention does not secure supplies or release: Tomoe classifies it as a chain letter and burns it. Shigure's positive reading of fiction is not proof of administrative naivety, and the burning does not retrospectively make Minori's work pointless or badly targeted. The comparison distinguishes expressive pleasure, advocacy work and an institution's reception of either. [BA:group:2801:scene:002; 2802:u:0026–0044/0068–0071.]"
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "ed8000573597a4488a53783381a77bf8db20e03f1d62ddc76a876469f90f94fc",
+        "line_text": "MINI01010 makes proposed service a conditional offer. Dorm complaints about narrow hot-water hours, breakdowns and privacy deficiencies are substantive ordinary grievances. Nodoka seeks release and objects to neglect; Shigure is reluctant, then participates in qualified acceptance and actual volunteering for funded visits. Medals, office and forgiveness remain conditional, while reopening the227 resort is explicitly refused. Their reported prior arrest and the MINI's listed actor drifts remain reported/local evidence, without a new disciplinary reconstruction or silent header correction. Taking this task shows action toward improved provision; it does not show consent to every later punishment. [BA:mini:70001010:scene:002:u:0018–0037/0059–0105; adequate MINI32 argument106–112.]"
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "4035baccf95009997e0e14e6e2dbb4ba91331ea653202bd726ea4cbba1cc56f1",
+        "line_text": "The visits require judgment about the actual school, users and costs. Gehenna permits testing but Nodoka rejects excessive heat followed by ice water; a manager's approximate70 degrees is not a measured burn. Trinity's welcomed tea, snacks and aromatic water give positive hospitality, but its reported maintenance and tea costs fail Red Winter's fit test. Shigure asks about cost and later regrets missing a souvenir, so genuine pleasure and economic objection coexist. The Hyakkiyako encounter is a mutual mistake, not an authoritative bath inspection or verified revolt; manju is offered/received while eating and the formal meeting remain unprinted. These are different host encounters, not a common all-school taste or completed transfer of infrastructure. [BA:mini:70001020:u:0009–0082/0090–0141.]"
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "cace9f582cc93b5dd94befe3b2d6396a08d7ef524f36ae0ba82aaf203557d7f9",
+        "line_text": "Millennium's proposed system then gives the sequence an adverse ending. Nodoka's attractive-bargain approval follows explicit unfinished-safety warnings and an operating-accident disclaimer; Shigure's suggestion to ask instead of assuming unaffordability is a local useful move, not certification. Actual installation lets Cherino test initial washing, then a system ignores objections and repeated release requests and restrains her attempted rise. Afterward Tomoe mistakes the result for enjoyment, contradicted by Cherino's anger. Narration actually removes the equipment, returns the227 students to the old school and reports slight interschool damage. No refunded contract, permanent pardon, lasting injury, clinical cure or safe-operating finding is printed. The task's real failure remains beside the wanted amenities and engineers' ingenuity. [BA:mini:70001030:scene:001:u:0011–0051; scene:002:u:0007–0038.]"
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "8b18c6062e45e0238509c36177b340c8c2f0de3d48a118a990854caaa7d93795",
+        "line_text": "## 5. Ordinary life: craft, balance, fiction and wanted company have their own worth"
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "638e62642e4e4ddf45f8ec114f92ae86a2bd3fd47732d40c6a59c16ba5d0171c",
+        "line_text": "Shigure's practical recipe scene is not merely setup for a joke. She gathers ingredients, transports them and starts preparation before the adult takes over. The fresh meat chunk is an ingredient used in a prank, not already a meal. Seasoning, butter and crispness are represented work; the Japanese vodka step remains unfinished and interrupted, while Korean's stronger instruction/sound must not silently complete a pour in Japanese. The final actual meal uses her materials. Full messages retain thanks, a suggestion about marinade and her agreement to the adult's selected limit, without proving a later experiment. Wanted taste, learning and reciprocity therefore survive the method dispute. [BA:bond:10055:006:u:0010–0054; whole thread100550330.]"
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "9ac893590b1b4819dad551f2f3e70a4a3833c13d71f418ac7d4784cc38be7a25",
+        "line_text": "Hot003 gives a more independently achieved result. She is at another bath after reported pressure trouble and delay; payment and thanks are actual. A local owner gives explicit kitchen permission, Shigure actually prepares fruit milk, and praise follows. Her explanation of balance, texture, cut fruit and preserved-fruit sweetness is craft knowledge within the story, not a chemical measurement. When the owner hopes for more customers and offers money, she asks for winter access for classmates instead. The accepted agreement is a substantial achieved exchange even though later visits, business growth and legal enforcement remain unprinted. The adult's actual preserved-fruit help also preserves labor cooperation rather than making her success solitary. [BA:bond:20031:003:u:0001–0007/0026–0058.]"
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "feac471d62fd5f72451e31eeabab72e36d79d51949f7dba206769af08fb48350",
+        "line_text": "Hot005 extends her preferred independence: voluntary unpaid work gives room to experiment with recipes rather than simply serving an assigned menu. One customer wants less sweetness; another reports milk-related pain, receives a different mix and says there is no pain now, while Shigure limits the portion. Those are represented preferences and local replies, not a diagnosed intolerance, cure or universally safe formulation. An anonymous Prefect guest's energy request remains a local guest, not Hina or Ako. The narrator's popular bar is actual; the manager's explanation that customers prolonged their stays because of drinks is a report, not measured causation or a revenue audit. Her inventiveness matters without making all its benefits empirically established. [BA:bond:20031:005:u:0008–0052, especially0018–0045.]"
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "b10976a2130e2e3f950c146eca19dca96f6aa22609a23956f37ac59756ed4e12",
+        "line_text": "Gift091 supports craft development at another local occasion. She names a newly made drink, describes time-consuming experimentation and protects the recipe before choosing to disclose it under a secrecy condition. The adult's inward moderate-sweetness/refreshing assessment supplies actual favorable tasting and perceived nonalcoholic character. It is stronger than a mere offer and narrower than a chemical assay or audible declaration. The fictional explanation involving bitter chocolate gives chosen balance and expertise but is not a complete reproducible recipe. Her knowledge has value as something she can retain, share and improve, independently of the analogy she later gives Sensei. [BA:event:810:091:u:0001–0031, seven groups/eight options inherited.]"
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "6bf1d5736b1ad66a13ea81c604555ceb79b911c0bd7255d6b4c964cd84734af7",
+        "line_text": "Comfort and company also have value outside craft. Written preferences include warmth, cute things, humming, conversation, seasonal foods and being content now; these are not all achieved encounters or my heard performance. The explicit gift exception excluding curry matters rather than dissolving into a generic acceptance of anything. A weapon's conditional wish that it be unneeded is not absolute pacifism. She enjoys Mel's imaginative opening even when it cannot perform the class's advocacy task; she values familiar darkness and stars without establishing that deprivation itself is always preferred. Her wished peer/adult gathering remains as worthwhile desire despite its unprinted fulfillment. [BA:character_data:10055:profile_and_dialog496x–4989; 20031:profile_and_dialog6661–6664/6670; BA:group:2801; BA:bond:10055:005.]"
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "17d85b7a26639bd7074886da8059cce8bbe63760ecc1531c6ed1b3ff0cd3f8b4",
+        "line_text": "## 6. Crisis action and adverse methods: actual help differs from an unperformed threat"
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "054d31f6d0ea3438ea5113ec4488a07282548c7bee5b6c12a01c71aa04662b56",
+        "line_text": "Base003 depicts the adult lost in cold conditions, with Shigure guiding him through terrain and helping reach town. Route and foraging knowledge are meaningful practical competence; her four-hour query is not a timed rescue log, and frostbite warning is not diagnosis. Liquid, hug and clothing proposals meet the adult's alternatives rather than being automatically enacted treatment. Her conditional later threat to force drink and a hug deserves attention as pressure, but the achieved method is a piggyback return and the narrator's safe Schale arrival. Full messages then ask about reaching others and rest; no injury treatment, involuntary undressing or forced dosing is printed. Care skill and questioned care methods coexist without changing the real rescue ending. [BA:bond:10055:003:u:0001–0055, especially0029–0045/0048–0055; whole thread100550070.]"
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "9e2e0733eaeda80d2d660c8b1968e9619b5d9dd8df1b0ca871f5952317bf708c",
+        "line_text": "Material emergencies do not excuse every tactic. In EVENT829, Nodoka's heating, bedding and animal/insect concerns are serious. Shigure's stove bargain nevertheless links those needs to appropriating Mel and Momiji's book for Cherino. Both recipients refuse. No stove, release or full physical battle is achieved. Their creative labor and project are independent ends, so227's hardship cannot make their refusal morally or analytically invisible. This adverse exchange qualifies a purely benign companion reading without making every Shigure exchange coercive. Her recipe-for-peer-access negotiation elsewhere demonstrates a different actual agreement. [BA:event:829:011:u:0010–0035; 012:u:0002–0016; BA:bond:20031:003:u:0050–0058.]"
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "a14b34b67212eb174b71190a15e8b2880937177cd7f4340347686954326040b5",
+        "line_text": "EVENT808 supplies a larger loss with finite intermediate achievement. Local tea, garden, rest, craft and bath pleasures are real, and not every guest response is the same. A development project's demands include unverified compensation and an absent Kasumi report, which is no Kasumi appearance. Workers are defeated; Tomoe and the adult then secure a deferred demolition/reuse correction before Meg rejects it and destroys the foundation. The correction must not disappear into an inevitable-failure recap; the blast must not disappear into a successful repair recap. Shigure's togetherness account and the final postloss company coexist with lost livelihood and absent restored housing, water or compensation. [BA:event:808:003–012, especially010–012 and011:u:0031–0038.]"
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "5eb2f8ffc9da728cc9d75776a329c0ab8ecde82108aa5bf5709b5e6459720803",
+        "line_text": "Final100C002E008 gives a useful search inquiry within evacuation, rather than a full Shigure rescue campaign. Nodoka directs people toward the old school; dialogue notes ruined/closed facilities. Shigure asks about Cherino, and Nodoka's no-arrival account is uncertain. The scene supplies neither actual Cherino whereabouts, arrival of every evacuee nor adequate shelter. Its known self-answer/actor seams limit precise voiced intention. Small inquiry and community concern remain meaningful without a trained-emergency-manager identity or the inference that all227 members acted in every evacuation. [BA:main:100:002:008:scene:001:u:0007–0018.]"
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "6b2906b3bc39dcdc56848eab5499d5a0c32f726cc93d58185451a7f645318830",
+        "line_text": "The MINI installation's refused release is another distinct crisis. Shigure's inspection participation is not proof she programmed, operated or approved every device action. Nor can an institutional safety label turn the user's explicit stop into enjoyment; the subsequent correction and removal are actual. Keeping direct and reported roles apart avoids both universalizing engineering guilt and claiming that an absence of lasting injury cancels the adverse intervention. These local outcomes support the larger question of belonging and provision without completing accountability or political repair. [BA:mini:70001030:scene:002:u:0007–0038.]"
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "14fb815d6f3a1d54382840e639c30deafeacb4441af72aaf99b2ee1097b0fc1b",
+        "line_text": "## 7. Sensei: wanted proximity, practical reciprocity and answers that remain answers"
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "964f0361cdf6ebbd2714f47c1f784193f146e7a0e23fd5905d274292b48009e4",
+        "line_text": "The relationship includes actual receptive acts: an optional visit accepted after work, a meal shared, a rescue, remembered sweets brought and joint fruit work. The sweets in hot002 answer something mentioned in passing, giving remembered preference a concrete endpoint. Sharing them with classmates remains an intention without printed full consumption. The unused tatami proposal similarly recognizes a possible Schale need without depicting transport or installation. Such finite exchanges make care reciprocal and situated; they do not prove that the adult always notices everything or that every gift is fully used. [BA:bond:10055:002/003/005/006; 20031:002:u:0001–0009; 003:u:0058.]"
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "1b3433265230bb77dc24ae6645f721601c165b953001ff5925093ee3e1bc852c",
+        "line_text": "Hot002 is particularly important because work and a refused wish end together. Shigure declines the distant Schale shower; that is a reasoned distance response, not proof she wants no care. Fruit-bath benefits are heard/claimed. The adult actually bathes in red, aromatic water; Japanese grape juice and possible fermentation remain different from Korean's stronger fortified-wine/health wording. Shigure asks for shared bathing and the adult refuses. Draining and cleaning then actually occur, without attributing sole labor, and the later headache has only a possible liquid cause. A well-prepared bath and a desired intimate arrangement are different goods; the first does not entitle her to the second. [BA:bond:20031:002:u:0023–0058 and whole thread200310010.]"
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "12d838bf27328f290ac3596d6bea6ab67be1e719993b21a8fd41a732abca9b64",
+        "line_text": "Hot005 gives the same problem through lodging. A missed train and full-room account place the adult in a constraint. Shigure proposes one shared futon; the actorless log's closeness/warmth imagery is not an authenticated speaker or completed co-sleep. A drink is actually represented at u0084, followed by the adult's fermentation assertions and her limited-day denial about sugar/yeast; that dispute does not prove intentional poisoning or chemical innocence. Most decisively, she says she will not force the arrangement and makes space available, while the adult actually spends the night alone on the floor. A possible light cold is not a diagnosed outcome. The full afterword adds reported ginger milk tea left for him and continued wished sharing; it supplies no completed cure or retroactive assent. [BA:bond:20031:005:u:0062–0095; whole thread200310220.]"
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "bf81de8bbd7222d5eced7eccfa2f0b05312fb6770d6580624ea2a93cb62a08f1",
+        "line_text": "Hot006 preserves a fresh refusal rather than reversing that ending. She wants conversation and shared bathing; Nodoka's view that baths should be solitary is Shigure's report. The adult's alternative refusals, her recognition of outside perceptions, wanted frank talk and disappointment remain distinct. She leaves for a forgotten bottle before the adult bathes. Steam, shape and printed low-voice wording are not heard audio; an adult names Shigure, a narrator misnames her and raw온천 페로로 labels remain unresolved. The likely bear reading is qualified, not a joined Peroro/Shigure/animal identity. The adult exits, Shigure returns and misses the chance; her envy is a wish. Her later bath is actually separate while the frightened adult waits. No shared bathing or secret act in the steam is supplied. [BA:bond:20031:006:u:0005–0044; whole thread200310390.]"
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "9420f4d98598bd2554c1719c5df7b47e18e16e9845d1761dbf1dc6683cd28c31",
+        "line_text": "Her gift analogy adds favorable reflection without overwriting these disputes. Japanese describes how Sensei's advice helps different students flourish and qualifies handling toward appropriate placement; Korean adds an operational-success claim and explicitly likens Shigure herself to difficult bitter chocolate. Those stronger claims remain in their language. Thanks/gift at u0038 is #na character-narration, andu0039 expresses future goodwill, with a Korean year interval absent from Japanese. Her own generous assessment can be compared with actual remembered sweets, shared work and adjusted responses. It cannot make every prior objection successful care, every student a treated ingredient, or the coming relationship already fulfilled. [BA:event:810:091:u:0033–0039/raw18183–18194.]"
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "8c56c0c340c615fb2b2351e5b4ff2343de767a14d4474c6b7b624b4a4efc977f",
+        "line_text": "## 8. Peers and recipients: togetherness does not erase disagreement"
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "e089aa84bd5c1fab62c43a949217da126c7839cc747ddd5dc0d6a4fd79b9f8cb",
+        "line_text": "Nodoka is a companion with distinct tastes, needs and judgments. Shigure enjoys Mel's fictional warmth where Nodoka rejects its factual representation and task fit. She says earlier life was enjoyable in company where Nodoka refuses return to deprivation. During inspection she asks maintenance cost and regrets an untaken souvenir where Nodoka argues economic fit; the two positions are not an automatic conflict requiring one correct person. Their exact relationship responsibility concerns shared home, togetherness and refusal, and remains required beyond this character monograph. The baseline editorial rumor about following a childhood friend is not a confirmed origin mechanism for every later action. [BA:group:2801:scene:002; BA:event:808:011:u:0031–0038; BA:mini:70001020:u:0052–0082; BA:character_data:10055:profileintro.]"
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "ad8c5e38e97ec39f9c27f41ad58f6a0bbeb29b002cf0279bba221bd72f532980",
+        "line_text": "Her negotiation for classmates gives a positive peer-directed act even where recipients do not appear using the result. She refuses money and asks winter access, with an accepted agreement. A later hoped-for group gathering and reported sweets-sharing are different unresolved ends. The monograph therefore preserves an actually achieved reciprocal arrangement, a shared work act and unfulfilled future company side by side. No testimony establishes all classmates' assent, visited baths, preferences or an enforceable collective right. It is still stronger than treating her as someone who only pursues Sensei. [BA:bond:20031:003:u:0050–0058; 002:u:0001–0009; 10055:005:u:0040–0052.]"
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "65d193130aaea85747120525ad400a3cb83a5691ccb6fae7fe75fb8af1726272",
+        "line_text": "Mel is also an independent recipient. Her fiction can be enjoyed as art without answering a factual petition; her book cannot be converted into a stove bargain merely because227 needs heat. Momiji joins refusal from her own commitment to that work. Minori's targeted petition supplies another valuable craft, and its burning is an institutional act rather than a verdict that advocacy had no meaning. These creative/provision exchanges put Shigure in different roles as audience, beneficiary and proposer. They require retaining property, purpose and refusal as well as companionship. [BA:group:2801/2802; BA:event:829:011/012.]"
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "56142349f1ada4c9d5136ea600f40dbb0ccaa13e8d286f4f2daca74b51e757ee",
+        "line_text": "Anonymous owners and customers possess their own authority and wanted experience. The local銭湯の社長 in003 is distinct from the later支配人 unless a source join is actually established. Kitchen permission, a less-sweet request, reported milk discomfort, a thanked energy drink and the manager's lodging explanation are separate evidence conditions. None gives automatic Hina/Ako appearance or a universal guest preference. Customer testimony can acknowledge a local benefit without certifying a clinical mechanism; owner expectations about future visits are not achieved growth. Shigure's expertise is strongest when the account preserves the person to whom it responds. [BA:bond:20031:003:u:0026–0058; 005:u:0018–0052.]"
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "f47b293fb830effeec204479e13a193fff4fe8568017c7f4e4a9c853aa598e9a",
+        "line_text": "Public officials and developers likewise cannot be reduced to a backdrop. Cherino's offered work, refused resort restart and angry rejected bath are distinct from Tomoe's inspection invitation and mistaken enjoyment inference. Engineering confidence and warnings coexist, and the system's refusal to release remains a direct adverse outcome. Meg's pleasure in development becomes destruction after a real local agreement; the uninspected absent Kasumi report is not shared consent or acted collaboration. These distinctions let a Shigure-centered argument retain independent institutions and recipients rather than turning all adverse results into her personal story. [BA:mini:70001010/01030; BA:event:808:009–012.]"
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "b21326c77d3f27a84280c912174379e055790eb44b723151d57d159c2d6edfc0",
+        "line_text": "## 9. Written register and attribution: hedges, jokes and inward fields retain their mode"
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "d14d0a6727fded8a461e055da70836530cfb4eac7a66b8710eaf57ac9fdc53b2",
+        "line_text": "The three written responsibilities comprise base10055, hot20031 and event costume1900908001. Their inherited row counts are41 and42 with one profile each, then16 costume records with no profile:99 written records and two profiles, as selected metadata rather than fresh inspection in this lane. The costume's808/10808 segments can repeat text with changedEventID, collection visibility and CV controls without creating sixteen lived incidents or two histories. A costume is not a new person or an external chronological marker. Written-profile, lobby, café, birthday, holiday, special, weapon and event UI functions remain separate from BOND/MM scenarios. [BA:character_data:10055/20031:profile_and_dialog; BA:character_data:10055:event_costume:1900908001.]"
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "e018fa4074ec0f84a5f6eda775cc647ef8e4b8b915c9af988dbb6f917e1b7965",
+        "line_text": "The baseline introduction'sとのこと and rumor forms do analytical work. They preserve a reported alcohol-in-ration account and the speculation about deliberate companion-following instead of giving the author privileged knowledge of intention. Evasive lobby recollection need not be a clinical deficit or proof of deception. Special star/company texts give a positive written repertoire, but do not authenticate actorless10055E005 units or secure an exclusive Sensei referent for every important-person phrase. A character can have inward or presented preferences without all of them being communicated to another participant. [BA:character_data:10055:profileintro; dialog4965–4967/4981–4989; BA:bond:10055:005:u:0024–0039.]"
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "c552a435dbf1c5f5591636cc31f533f05dad5bdb1216aa23a678babf71da0f80",
+        "line_text": "The hot profile's apparently satisfied/little prosperity interest wording is a qualified presentation, not a permanent ban on ambition. Admiration of Nodoka's effort does not prove she is idle or establish a measured labor division. ThinkCafe6643–6644 and lobby6665 remain inward cues, not audible speech; the bear-employee claim is explicitly a joke, and the mix she says she will not propose stays unproposed. Many people being sad if Sensei suffers is a character's assertion, not a census. Gift exception, future repeated bath, seasonal drink and futon/warmth preferences retain actual wording and unfinished outcomes. [BA:character_data:20031:profileintro; dialog6643–6666/6671–6682.]"
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "78664b15393de47fdfc4676088775441adb1995fa3999d7b3c5960d83b29f470",
+        "line_text": "The event-written route adds mission help, work and movement, desired bathing afterward, Nodoka admiration, fatigue concerns, popularity assessment and offers. It does not enact a mission, workout, served drink or completed bath. Base and hot weapon lines provide fictional hunting/fire or conditional avoidance language rather than tested ballistics, bear control or a verified policy. The monograph's written register concerns lexical choices, address, hedges, jokes and modal distinctions; it has no inspected voice, pitch, acting, image, animation or music credit. [BA:character_data:10055:event_costume:1900908001, eight segments/16 records; profile_and_dialog weaponfields; BA:character_data:20031:profile_and_dialog6670.]"
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "4b8869bedd9d5c0b1827765479a21ed1a6c24a2301593267ffdc0c383197c569",
+        "line_text": "Choices also remain alternatives, including spit versus question, rescue responses, shower or bath objections, marinade variants and inward tasting prompts. Repeated replies need not mean repeated actions. Four UNKNOWN opening message records remain unjoined; actorless base005 and hot005 logs are no automatic actor or inward-voice repair; ordinary#na and writtenThink are distinct. Hot006's narrator misnaming and local Peroro label are unresolved actor evidence, not another person package. Gift091u0038 character-narration andu0039 future speech cannot be collapsed into one heard completed declaration. The story remains intelligible without invented runtime repair or wholesale primary replay. [Qualified Shigure checkpoint; eight whole individual BOND/MM arguments; BA:event:810:091:u:0038–0039.]"
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "3de3fd0a6277fbe86db24370958f5979b748bf7477524e795bf6f253e4abd799",
+        "line_text": "## 10. Competing readings: each account must answer the achieved and refused ends"
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "b67e159d402e6065c1b66e7c9a10b945da0e42b6c0b580c7b02a02290f2b1032",
+        "line_text": "**The complacent pleasure-seeker reading** has evidence in enjoyment of familiar darkness, present comfort, a prosperous-setting profile's qualified little growth interest and pleasure in old-building togetherness. It fails if it ignores active route guidance, ingredient work, recipe experimentation, peer-access negotiation and participation in inspection. Enjoyment of company within deprivation does not demonstrate preference for every deprivation. This reading is useful as a question about what improvement means to her, not a complete motivation diagnosis. [BA:bond:10055:003/005/006; 20031:003/005; BA:event:808:011; written20031profile.]"
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "ff3dd585577575f493789d98812278ff34b9f2c63e6c833e77317ef7ae3962b4",
+        "line_text": "**The universally benign playful-caregiver reading** recognizes real rescue, remembered company, tailored drinks, agreed peer benefit and ginger-tea concern. It must also answer conditional force proposals, shared-bath pressure, a disputed fermentation account, appropriation of a book and independent refusals. Neither comic framing nor later pleasure retroactively establishes consent. Conversely the actual safe return, will-not-force statement, separate night/bath and accepted recipe exchange prevent converting those adverse cases into proof of an always-coercive person. [BA:bond:10055:003; 20031:002/003/005/006; BA:event:829:011/012.]"
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "ea79a7035d1d829c616a814b0a03182d34c32ca0e138c6283e2d586ddc2dd115",
+        "line_text": "**The alcohol-as-hidden-master-key reading** draws on profile report, compote imagery, repeated ingredient jokes and adult suspicion. Its strongest limitation is differential evidence: an order need not be served; the Japanese vodka step is interrupted; grape fermentation is possible or disputed; gift091 is textually assessed as nonalcoholic and pleasantly balanced. Chemistry, intent and every illness mechanism remain unestablished. The motif can organize a literary question about ambiguity and trust, but cannot authorize retrospective dosing accusations across all sources or clinical advice. [Written10055intro; BA:bond:10055:005/006; 20031:002/005; BA:event:810:091.]"
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "a8f70586a721ba94dc29df5ab609083b0737b19856954d569c6e0959e4b81f03",
+        "line_text": "**The skilled craftsperson reading** is supported by route knowledge, preparation, permission-based fruit milk, recipe research, customer adjustment and selective knowledge-sharing. It becomes too large if success for one drink certifies safety for every mixture, cures a guest, explains measured customer growth or makes the bath installation safe. The actual recipe-for-access agreement and tasted gift are achieved ends; missed train, separate floor night, system removal and returned confinement are contrary endpoints. Competence is domain- and recipient-specific, not a transferable technical credential. [BA:bond:10055:003/006; 20031:003/005; BA:mini:70001030; BA:event:810:091.]"
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "edc71f2ec2c374ee256034acb9eb82d8dc743dff7b529a2e4c94180bbafbf1e4",
+        "line_text": "**The exclusive adult-centered companion reading** retains genuine wanted personal company, repeated bath/futon wishes and everyday gratitude. It must answer actual accepted group company, a wished227 gathering, classmates' access, genuine pleasure in fiction, shared home with Nodoka and the adult's continued refusals. The editorial rumor of childhood-friend following and Korean gift self-comparison have different source conditions; neither can produce a mutually recognized romantic status or exclusive Japanese referent. Her desired company is intrinsic even when the arrangement is not granted. [BA:bond:10055:005; 20031:003/005/006; BA:group:2801; BA:event:810:091; written10055profile.]"
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "884770f55e09bea8bb2f102546021502b84be56049a9ed5e4c870439b99d9f54",
+        "line_text": "**The institutionally trapped subject reading** properly retains deprivation, conditional offers, arbitrary-seeming return sanctions, failed provision and destroyed livelihood. It must still receive her own negotiating and appropriative choices, the actual separate recipients' objections, and finite successful craft and cooperation. The individual is neither a passive consequence of the institution nor its all-knowing manager. No new evidence resolves legal proportionality, enduring rights or comprehensive restoration. [BA:group:2802; BA:mini:70001010–01030; BA:event:808:010–012; 829:011/012; BA:bond:20031:003.]"
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "27c81a2d32d7a55bafe6132ba4a8273f3c47b9004bf59f83b5ef00eee94bca02",
+        "line_text": "**The perfect-fit Sensei mechanism reading** takes her bartender analogy as a universal explanatory rule. Its warranted core is her own favorable account and actual pleasant reception. Japanese qualification of handling, Korean's stronger operation/self-comparison, the inward taste mode, her secret recipe and future goodwill all limit transfer. Remembered sweets, actual labor help and adjusted responses can support particular attentive acts; earlier objections, floor-night discomfort and refused proximity keep the theory from becoming an empirical model or unrestricted care success. This monograph has no reconstruction-rule, prediction, held-out test or model-grade claim. [BA:event:810:091:u:0018–0039; BA:bond:20031:002/003/005/006.]"
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "bb2d990f8abae978759cc0ee523346e6ae0982adc914e0a6291890d7e41dd4d0",
+        "line_text": "## 11. Source boundary, original open gaps and completion disposition"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "4cdcd27fcde795b726422456918d57a657abd7fecf978e4e76cb68cf73ed8cfc",
+        "line_text": "The selected private scope is exactly19 responsibilities: base10055E002/E003/E005/E006 and hot20031E002/E003/E005/E006; eight whole linked MomoTalk threads100550010/070/190/330 and200310010/140/220/390; written10055,20031 and costume1900908001→10055. Their complete adequate individual arguments and85-line maintained checkpoint were personally received, alongside the complete495-line seven-family account. Complete linked afterwords and source-mode qualifications belong to those arguments; no launch-only substitution is made. Inherited466 BOND units/46 groups,131 messages and99 written records/two profiles describe existing selection, not a fresh source audit. Repeated alternate extraction or costume forms do not produce two histories or added objects."
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "7b8490a9eb2065f3ebe026118a2cc1316ded7724990f95b630a108bc9b7b01b5",
+        "line_text": "Adequate public literary custody includes wholeGROUP2801–2802, the eleven selected EVENT802 meanings, twelve selected EVENT808 meanings, fifteen selected EVENT829 meanings and specific Final100C002E008. Complete relevant MINI32 section106–124 supplies the three inspection meanings, not a new whole344-line checkpoint read. Gift810091's complete73-line argument and current comparison244–316 supply its achieved craft and exact mode/locale qualifications. GROUP1301–1303 andEVENT839 are complete institutional background comparisons, without automatic Shigure act or appearance credit. ROOT's historical ten-character eligibility argument is qualified allocation/context reuse, not a mature monograph. Exact current source tuples are distinguished from main2e/c1/732 comparisons and dated mutable navigation."
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "fd9e897532d474fcc9535ecdd3710d0d93f225695687ea3068ea45be3a983f61",
+        "line_text": "Current Cycle008 qualified admission governs old producer draft_noncurrent/UNADMITTED/veto/213/516 words for this selected accepted scope while preserving attributed authorship and original source claims. Own adequate argument reading is distinct from producer primary/native/raw/control work and independent ROOT receiving. Undeclared previous exposure, order, independence and rights remain UNKNOWN; FIRST/SECOND is unassigned. No source, model, actor, locale, performance, denominator or milestone credit is added. Local source access and the user's cancellation of integration handoffs authorize C-only authoring; ROOT remains sole integration/publication owner. Nine UNBOUND large files and preserved_phase2_work bodies are unopened and unhashed."
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 172,
+        "line_sha256": "811ebd6bcefe1566981d458d6b93efc1d9d6257c02681338efa53410de2e3152",
+        "line_text": "| Original stable gap | Shigure contribution and remaining warrant; status OPEN |"
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 173,
+        "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+        "line_text": "|---|---|"
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 174,
+        "line_sha256": "960e5176548508443195c2755f8b6f8110d72ac7e97d1e5d27fb2d44ed85788a",
+        "line_text": "| G01 Ordinary and private breadth | OPEN. Full19 adequate private argument plus recipes, fiction, company, gifts and inspected amenities preserve intrinsic ordinary value. They do not enact every wished bath, gathering, later visit or unselected future. |"
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 175,
+        "line_sha256": "1ecbb7206e2da789eddcefe280977c3ce133725c0d605afb09acd7369291be45",
+        "line_text": "| G02 Yuuka council/club decision transfer | OPEN. Class227 and guest-fit comparisons supply no Yuuka council/club decision transfer or audited governance outcome. Her own directed evidence remains required. |"
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 176,
+        "line_sha256": "c999409aa9d17946d4fe7928bd885780abb5565e450bb1a04fcc34b169d1f19d",
+        "line_text": "| G03 Serika service, peer and reciprocity range | OPEN. Shigure's permission-based making and peer-access exchange permit bounded comparison, not Serika service facts, generalized wage rules or full reciprocity closure. |"
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 177,
+        "line_sha256": "ef5e525109d71b05490f62c469c2eacdee84a73b4e87a235ea5cf437829c2086",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | OPEN. An anonymous Prefect guest is not Hina; rescue, bath failure and resort loss do not establish her crisis causality or accountability. |"
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 178,
+        "line_sha256": "40d05b5b92637355e7000ecb87e5b463eede090264754bfaab9e0adb9b6007db",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | OPEN. Red Winter deprivation/company/craft cannot discharge Arius/PS68 ordinary, labor or aftermath responsibilities by analogy. |"
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 179,
+        "line_sha256": "1f5cd73ac8e216e70f32eadaa147a1594bdf1d731d9413f77192f4bd294dafae",
+        "line_text": "| G06 Cross-school ordinary repertoire | OPEN. MINI hosts, customers and guests keep distinct pleasure, cost, privacy and refusal responses. No school-wide culture or full interschool ordinary repertoire is established. |"
+      },
+      {
+        "frozen_line": 170,
+        "canonical_line": 180,
+        "line_sha256": "d276cab9a0b3498d50c41a32bbae299243d05f3e128ddee1f8b304205828c4bd",
+        "line_text": "| G07 Story-world chronology | OPEN. Explicit local visits, preparation, missed train, removal and message reports supply limited order only. Releases, variant numbers, gift season and UI conditions do not date the world. |"
+      },
+      {
+        "frozen_line": 171,
+        "canonical_line": 181,
+        "line_sha256": "6055111519e61a2cf64440e213dfe2a423e20b176ab3a6dfd5c07c9bca69d8c1",
+        "line_text": "| G08 Event naming and repeat contexts | OPEN. Exact810091,802/808/829/839 objects and costume808/10808 streams remain distinct. Null titles, repeated text or changed visibility/CV controls do not create lived repeats or one holiday route. |"
+      },
+      {
+        "frozen_line": 172,
+        "canonical_line": 182,
+        "line_sha256": "195525dbf5b8e34556c11adff2c1ba6351092a603c8915eb25723e543776e429",
+        "line_text": "| G09 Written speaker/choice attribution | OPEN. Whole messages, alternative replies, actorless logs, fiction, #na gift thanks, reports and listed MINI/Final/hot006 seams remain bounded. No silent actor repair, all-branch enactment or common inward access. |"
+      },
+      {
+        "frozen_line": 173,
+        "canonical_line": 183,
+        "line_sha256": "a9b9f44d6092f8a377be59346a4c9ff6526d352c25beff0003b47d57630f768b",
+        "line_text": "| G10 Performed voice | OPEN. Written phrasing, low-voice description, humming and system music cues are not inspected audio, pitch, acting, image, animation or performed delivery. |"
+      },
+      {
+        "frozen_line": 174,
+        "canonical_line": 184,
+        "line_sha256": "e6e85048c654301269034236873186553cb5f271e8f9e5b1be11442f746dc27e",
+        "line_text": "| G11 Hoshino's Yume record and office states | OPEN. Home, company and deprivation comparisons add no Hoshino/Yume fact, authenticated office edge or transferred grief/causality conclusion. |"
+      },
+      {
+        "frozen_line": 175,
+        "canonical_line": 185,
+        "line_sha256": "af578ed7cddbae817805cdad9a7808115efdd4fb0a2ee40787ffafc43f44d63a",
+        "line_text": "| G12 Counterpart, system and variant identity | OPEN. LiteralBA_PERSON_SHIGURE and10055/20031/costume1900908001 are routed without a variant ladder. ProfileclubNone,Class227, unknown message actors, local owners, anonymous guests and unresolved Peroro/bear labels retain distinct limits. |"
+      },
+      {
+        "frozen_line": 176,
+        "canonical_line": 186,
+        "line_sha256": "2b0efdbefbe74f08808a0cb3508af7bbd39b92969a46df899eeb65707a92f2b9",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | OPEN. Actual safe return, permission, accepted exchange, refusal, floor night, installation/removal and confinement are finite literary ends; no contract enforcement, cure, assay, durable provision, proportionality or engineering certification follows. |"
+      },
+      {
+        "frozen_line": 177,
+        "canonical_line": 187,
+        "line_sha256": "9d41ffcae88443c0d8a0858bf74d2a7f13fd68c526047f29b6b69b2a17ae3f82",
+        "line_text": "| G14 Unclassified/mode continuity | OPEN. Admitted BOND/whole MM/written/GROUP/EVENT/MINI/MAIN arguments do not admit unclassified material or authenticate another source mode through thematic similarity. No UNBOUND or preserved working body is opened or hashed. |"
+      },
+      {
+        "frozen_line": 178,
+        "canonical_line": 188,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 179,
+        "canonical_line": 189,
+        "line_sha256": "eca49972435212fef948543773d46c1946b64fe1ac25f6a16fa8d068962c885d",
+        "line_text": "No mandatory primary replay is necessary for these bounded assertions: adequate accepted arguments resolve the consequential local endings and identify uncertainty explicitly. Stronger global chronology, alcohol quantity/chemistry/intent, diagnosed illness/cure, shared bath/co-sleep, reciprocal romance, complete recipe, all-peer use/assent, audience or owner identity, enforceable agreement, commercial growth, restored livelihood, proportionate discipline or performed delivery claims are unasserted and would require new warrant. This is a complete eleven-dimensional saved literary candidate within the stated scope, pending independent ROOT whole receiving, exact verification and canonical adoption. Distinct required directed relationships, Class227/hospitality and Red Winter institution/ensemble homes, Sensei syntheses, source registers and full-cast convergence remain mandatory. No self-acceptance, source admission, model, denominator addition, milestone, publication or merge follows from this file."
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          7,
+          7
+        ],
+        "canonical_lines": [
+          7,
+          7
+        ],
+        "frozen_text": [
+          "status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          27,
+          27
+        ],
+        "canonical_lines": [
+          27,
+          35
+        ],
+        "frozen_text": [
+          "publication_acceptance_and_count: ROOT_ONLY_PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_publication_acceptance_and_count: ROOT_ONLY_PENDING",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIGURE_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHIGURE_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          31,
+          30
+        ],
+        "canonical_lines": [
+          39,
+          40
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded character responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SHIGURE_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SHIGURE_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,25 distinct parent packages,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Character Monographs home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "full_operative_ROOTaccepted_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_SHIGURE_CHARACTER_MONOGRAPH.md",
+      "bytes": 47054,
+      "sha256": "feceae4d7ac256157fda2f97d927f26cd6686e6a3acaa69eee36ecf34bc4e8d8",
+      "git_blob_oid_of_actual_bytes": "21eebe7f60b95997b36cfb5919d5b5184d2fbed6",
+      "lines": 179,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_SHIGURE_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIGURE_CHARACTER_MONOGRAPH.md",
+      "bytes": 49339,
+      "sha256": "9dd4784eb77cc219e70335a6e59e2452b7313049093cd0a11718b8f2518bc9f6",
+      "git_blob_oid_of_actual_bytes": "e2142d72a691d9175698bf12246060dd0f46241d",
+      "lines": 189
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "abf6eb03819d8cdc66762528a3246eef0970ad05834cf7bf074daca1da758d4b",
+        "line_text": "classification: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "b040a034a0c39c7fd51d765a3b3e7ce23a6cc374f8ddb31b596d48d317da6543",
+        "line_text": "architecture: \"1.12, section7.1 eleven required dimensions\""
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9",
+        "line_text": "method: \"1.10\""
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "bee878ef1c5096fb81159066bf1aabc67a7b89019f5f1aab231d50d5561f7896",
+        "line_text": "required_home: P3-CHAR-SHIGURE"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "1ba01b1797913e67cf5c297d09b84634d9dcbd9b7e5f14b856d681614823b787",
+        "line_text": "candidate_responsibility: P3-F133"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "275111e005c13e9154c0770c2bff0cdad59eacaa416a6978140a2fbba5183801",
+        "line_text": "literal_identity: BA_PERSON_SHIGURE"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "4c4a780c5877372799461ecd908801fb29fe366f253a88e3556ed14ea7afae0e",
+        "line_text": "family: SHIGURE"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "6ac81e2fddb0cdd0f3dc61b7c1f61ca318200bde14a5d4e6149df697c3e1cbfc",
+        "line_text": "display_subject: Shigure"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "2e03ce816f0fe74700b6bfd9be482a1d24c5b67f8d8ed95e6a3327dfb62ba3b1",
+        "line_text": "variants: [10055, 20031]"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "d3a7d8969d317200f2d2166ebccd40d17c4395845c643f9cbf0eedab97a1c0e5",
+        "line_text": "event_costume: 1900908001"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "6093827b8e1029194c47d430e31ea925bf9bd07fce9cd9a12541232f48f31639",
+        "line_text": "dated_navigation_witness: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "46b4a1084a10780516af311ffaf9db987e5ad1063fb62ad06bd1db031562234b",
+        "line_text": "game: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "7f883d04131c2ceb93c813788d8346734ce228b11188765b294eb7669400a5a9",
+        "line_text": "parser: \"0.2.0\""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "2f8eca71c4969b928fdbe6f8daf8b42e1259299c7cd842becd4925e35120ecad",
+        "line_text": "source_boundary: \"Nineteen selected private responsibilities: eight BOND with eight whole linked MomoTalk arguments, three written objects; adequate complete accepted public arguments and exact consequential MINI/gift scopes; zero fresh primary/native/raw/QA/AV\""
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "70cbfb274f76de9261e3db6189cbacb16a9890e44b0509e2b0026ea686d22e03",
+        "line_text": "authority_quartet: \"Current Cycle008 admission; own adequate analytical argument receiving; undeclared historical exposure/order/independence UNKNOWN; performed voice unreceived\""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 24,
+        "line_sha256": "1c8e5e32ae1d62fb5761e8c9da845a95a8072410874a22a22d82c7602bed0134",
+        "line_text": "retrospective: true"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 25,
+        "line_sha256": "9c96af10047187817acdbfcc409256b832cc1e1bec7ab02061ed095056b5e2bb",
+        "line_text": "all_original_fourteen_gaps: OPEN"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 26,
+        "line_sha256": "a650fa20652cdc365b4f6513e78c5849bf75aebef8bf1d57b62029393a6e0727",
+        "line_text": "reconstruction_model_credit: NONE"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 36,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 38,
+        "line_sha256": "473febfdae60bdbf03e0aefa1c1a1abe03e348e3dd7e7230fbd0ea46209a2f77",
+        "line_text": "# Shigure: making something enjoyable, choosing company and encountering a limit"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "6444251aa029c5204c01130afb77d2863207f35ee3facce5983704130c1e9caa",
+        "line_text": "## 1. Core thesis: a good mixture is a chosen practice, not a universal permission"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "238f431f5c6a8cfc83bc14960e6dcd3175e0ce261fb48f4ef8a39c3f5b1f383e",
+        "line_text": "Shigure's strongest continuity is an interest in making life enjoyable with available materials and other people. A cold room becomes a setting for relaxed company; foraged ingredients become an actual meal; a drink is adjusted to a customer's preference; a recipe is exchanged for classmates' winter access. These are different achieved goods. Her pleasure in the old school's company neither means the old school supplies enough warmth and food nor makes her unable to act to improve provision. The evidence supports a maker who values company and has practical knowledge, while retaining who supplies labor, who receives the result and whether the proposed arrangement actually occurs. [BA:bond:10055:002/003/006; 20031:003/005; BA:event:808:011:u:0031–0038.]"
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "9a803aedf501f1a1564cbe73588e939171c7a909706366730453aeb5870670cc",
+        "line_text": "Her teasing continually tests the difference between a proposal and its recipient's answer. Shared bathing is wanted but refused; a shared futon is imagined and offered but ends in the adult's separate floor night; an emergency proposal to force drink or a hug remains a conditional threat, whereas the actual rescue is a piggyback return to town. It would be wrong to erase those proposals because they are playful, and equally wrong to report each as an enacted bodily intervention. Later she expressly says she will not force the adult and accepts the refused arrangement. These finite outcomes allow both a serious boundary inquiry and positive company without assigning one person-wide consent virtue or flaw. [BA:bond:10055:003:u:0029–0055; 20031:002:u:0050–0058; 005:u:0062–0095; 006:u:0005–0044.]"
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "12a527c089d2c8826806a3ebb2bff628e6f076a8c5a3d25a4169592ad68af395",
+        "line_text": "The gift makes this argument unusually explicit. Shigure has widened her craft interest, actually prepares a drink, receives favorable inward tasting and chooses selective recipe disclosure. Her bartender analogy gives her own generous account of how Sensei helps students find a fit, then qualifies wording about handling toward appropriate placement. It does not turn her into an ingredient or prove a universal adult mechanism. The Japanese account and Korean self-comparison differ; the final thanks is character-narration and goodwill remains future language. Craft, confidentiality and gratitude matter as ordinary ends without becoming a theory of every student. [BA:event:810:091:u:0001–0039, especiallyu0018–0031/0033–0039.]"
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "3c5457668e2c735d711222df09cbfa010c86a53a23ceb63f78858364305604b9",
+        "line_text": "The resulting thesis is deliberately plural: Shigure can take genuine pleasure in imperfect circumstances, seek a particular person's company, negotiate for peers and make something well; she can also misread an arrangement, participate in an appropriative bargain or propose a method another person rejects. Her companions are independent interpreters. The monograph asks how those positions meet at specific endings, rather than treating laid-back style as a hidden motive that explains everything. Full directed Nodoka–Shigure, Class227 and hospitality responsibilities remain separately required. [BA:group:2801/2802; BA:event:829:011/012; BA:mini:70001010/01020/01030.]"
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "accc49fa24f7cdf9445678531bdcc46152de31595d5193975ee65c6215df744f",
+        "line_text": "## 2. Longitudinal development: local craft and relationship changes without a variant calendar"
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "df05fccb80f9247446ffc7df8c2559a767a6c094d8ff66110600fa899601c014",
+        "line_text": "The source-owned family includes10055 and20031, with distinct default-costume metadata1005501/2003101 and event costume1900908001→10055. Numbers, documented releases and a hot-spring setting do not construct a dated psychological ladder. ProfileclubNone and the character/registry Class227 route remain different source fields; their disagreement must not be silently harmonized. Both profiles describe a sixteen-year-old second-year student, but even that editorial continuity supplies no date for every public/private encounter. The current nineteen-responsibility boundary is eight BOND, eight whole linked threads and three written objects, not nineteen successive events in one known itinerary. [BA:character_data:10055/20031:profile_and_dialog; current private checkpoint73–83 and qualified identity discussion.]"
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "c4c28ece010d0d773dd9c5ff9afbf7571f7d76c5c1f15d50d54c9294bf4b256b",
+        "line_text": "Within the base scenes, the adult's encounter with cold provisions ends in actual thawed drinks and relaxed company. The next rescue story includes a whole message exchange about guidance, warning, return and rest, while its narrative ends with a safe return to Schale. Later restaurant company and gathering ingredients give another pair of local acts, but the record does not place all four episodes and their entire afterwords into a globally dated chain. A whole linked thread can state a later report or renewed wish; it is not merely a launch to be discarded after the scene. [BA:bond:10055:002/003/005/006; whole threads100550010/070/190/330.]"
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "94fc3f195b159f7f10832a8efacdcd082b5402b55e4bd8d2f5cd32bc83a5fc36",
+        "line_text": "The restaurant story gives genuine flexibility. The adult thanks her for a meal; a drink order is attempted but no serving or consumption follows. Stars and wanted company appear in an actorless log, whose written-character parallels support thematic comparison without repairing its speaker. Shigure hopes for personal company, half-jokingly deduces something from Nodoka's expected dislike, then actually accepts a group proposal. Her final happiest-place wish includes227 and Sensei. This is a wanted gathering, not an already held event or a final exclusive relationship decision. The full messages add thanks and future giving, without staging another completed outing. [BA:bond:10055:005:u:0017–0052, especiallyactorlessu0024–0039/0040–0052; whole thread100550190.]"
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "85ef09d8f8fe3ce24785fe060425c4cf0418eac75c31d94524d40e2c0be270e0",
+        "line_text": "The hot-spring stories establish local sequence with more tangible work. In002, an unused tatami offer and a remembered sweets wish frame a visit; the tatami installation is unprinted, whereas the adult's bath, draining and cleaning are actual. In003, she visits another bath, makes fruit milk and negotiates classmates' winter access instead of money; the adult then actually helps with preserved fruit. In005 she develops a voluntary recipe role and addresses different visitors; the adult then misses a train after service. The inability to obtain a room leads to an offered shared futon and the adult's actual separate floor night. These endings support learned and practiced contribution without measuring commercial growth or turning every later proposal into increased intimacy. [BA:bond:20031:002/003/005; whole threads200310010/140/220.]"
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "ce825e83dc1118c6acc118364600bb8dbb53c940944dcbaeb6c5e67979fe265a",
+        "line_text": "Public sequences complicate a smooth progress story. EVENT808 gives enjoyed work and company followed by a resort's destruction despite a real deferred-demolition decision. MINI01010–01030 gives conditional bath-inspection work, actual visits and installation, then removal and renewed confinement. Final100C002E008 gives an evacuation/search conversation without locating everyone or restoring the resort. Those different endpoints must remain alongside successful making and negotiated access. They do not establish that Shigure became permanently more responsible, that punishment ended or that every public act follows the private scenes. [BA:event:808:010–012; BA:mini:70001010/01020/01030; BA:main:100:002:008.]"
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "4a5c15b60e9da77af34655f4c4d47d7b0bad4cf3057df7815f880d1e48843ce3",
+        "line_text": "## 3. Public and private presentation: playfulness has a recipient and an evidence mode"
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "cfdcb6037628ea0867596d58a8a732b13dd1cb9dedf537c87423784b012a1c82",
+        "line_text": "Private hospitality begins with an optional invitation, not an obligation. The adult visits after work, Shigure is surprised and apologizes for having nothing to offer. Her vodka/water teasing and paraphrase of an adult norm occur among alternatives: a spit response and a question cannot both be counted as executed. Frozen provisions, electricity and refrigeration conditions are her reports. Her survival or disinfection arguments are character speech, not measured food safety. The actual thaw and shared relaxation still represent a successful small hospitality act. [BA:bond:10055:002:u:0006–0050 and whole thread100550010.]"
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "529caf373892574f1de72ce75c66727887aa48a6e306ea51257eec0bfdcab27a",
+        "line_text": "This distinction prevents two opposite errors. Treating the alcohol vocabulary as mere harmless personality would suppress objections and uncertainty. Treating every drink word as a proved harmful act would suppress the actual nonalcoholic assessment in gift091, the proposed-but-interrupted vodka step in base006 and the unresolved fermentation accounts elsewhere. The record differentiates an order attempt, a proposal, preparation, actual drinking, a person's perceived taste and a chemical assertion. Shigure's reassurance matters as her answer, while the recipient's continuing doubt also matters. Neither is a laboratory result. [BA:bond:10055:005:u:0018; 006:u:0028–0032; 20031:002:u:0037–0046; 005:u:0084–0089; BA:event:810:091:u:0002–0024.]"
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "f072cd655961b29956dca51a1322b2e400935580d90fdc28ea2040ff68fe3e0e",
+        "line_text": "Public company is equally differentiated. GROUP2801's opening scene of warmth, cocoa and affectionate conversation is Mel's fiction, later explicitly reclassified; Shigure's enjoyment of that fiction is an actual response, while Nodoka rejects its representation and suitability for a petition. A literary scene can be valuable to Shigure without becoming their observed private conduct. Her pleasure and Nodoka's factual objection are both positive evidence of judgment. The embedded voices must not be promoted into confessions, relationship chronology or completed care. [BA:group:2801:scene:001 andscene:002:u:0011–0036; adequate GROUP280 argument.]"
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "1a7606c3e1178d2a68030a76650c3919a58a4172ebcfd756a03a69e88b581e84",
+        "line_text": "Likewise, her account that the former old-building life was enjoyable because they were together does not speak for Nodoka, who has defended improved livelihood against return. The statement acknowledges the prior deprivation and values a different good within it. A complacency reading needs to answer actual guiding, food work, bath negotiation and her participation in conditional inspection; an ideal-companion reading must answer appropriation of another person's book and the recipients' refusals. Her public and private sides are not a false mask and a true self. They expose which goods become salient to her in each address and situation. [BA:event:808:011:u:0031–0038; BA:bond:10055:003/006; 20031:003; BA:event:829:011/012.]"
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "d58d5bf788f079567922d3383801879c4ecdb38eb4ac12512a0d328ea4e75bbf",
+        "line_text": "## 4. School, Class227 and hospitality: membership cannot substitute for adequate provision"
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "b4f8cecc36ec8ab88e9efa057c34a26935aafb95dc2a45d2909dd1addfc77ce4",
+        "line_text": "The baseline profile gives a reported reason for suspension—secret alcohol in ration compote—and a rumor that she deliberately followed her childhood friend Nodoka. Those are editorially qualified reports, not a newly witnessed disciplinary incident or authenticated intention. The hobby and homemade bottle imagery supply a craft context; they do not demonstrate the chemistry of every later drink. Written evasions about recollection are not an amnesia diagnosis or confirmation of the rumor. Class227 belonging is a positive social and documentary route without explaining away every institutional decision. [BA:character_data:10055:profile_and_dialog, profileintro and4965–4967; qualified private checkpoint.]"
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "46bae63a4ab6fcda8552deb29eec06d1a1fd447aae4f3c07be0c7972338839e1",
+        "line_text": "The old school gives meaningful community while making comfort unreliable. Shigure's offered food/drink, guidance and ingredient gathering are actual local contributions, but reported frozen stock and routine game allocation do not establish a stable supply system. The adult's takeover of base006 cooking uses her acquired ingredients and follows her earlier prep; it does not make the adult sole provider or prove that all her methods were sound. Her later apology and the adult's reassurance matter without licensing every future prank. [BA:bond:10055:002:u:0024–0042; 003:u:0018–0055; 006:u:0010–0054 and whole thread100550330.]"
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "29f43df53b42f059f29313d75040cc3798440cb6f745e8717a0ff03474f48c2e",
+        "line_text": "In the public petition sequence, the class seeks a representation fit for an audience. Mel's fiction gives Shigure enjoyment but fails Nodoka's requested purpose; Minori actually provides a targeted petition. Its later attention does not secure supplies or release: Tomoe classifies it as a chain letter and burns it. Shigure's positive reading of fiction is not proof of administrative naivety, and the burning does not retrospectively make Minori's work pointless or badly targeted. The comparison distinguishes expressive pleasure, advocacy work and an institution's reception of either. [BA:group:2801:scene:002; 2802:u:0026–0044/0068–0071.]"
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "ed8000573597a4488a53783381a77bf8db20e03f1d62ddc76a876469f90f94fc",
+        "line_text": "MINI01010 makes proposed service a conditional offer. Dorm complaints about narrow hot-water hours, breakdowns and privacy deficiencies are substantive ordinary grievances. Nodoka seeks release and objects to neglect; Shigure is reluctant, then participates in qualified acceptance and actual volunteering for funded visits. Medals, office and forgiveness remain conditional, while reopening the227 resort is explicitly refused. Their reported prior arrest and the MINI's listed actor drifts remain reported/local evidence, without a new disciplinary reconstruction or silent header correction. Taking this task shows action toward improved provision; it does not show consent to every later punishment. [BA:mini:70001010:scene:002:u:0018–0037/0059–0105; adequate MINI32 argument106–112.]"
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "4035baccf95009997e0e14e6e2dbb4ba91331ea653202bd726ea4cbba1cc56f1",
+        "line_text": "The visits require judgment about the actual school, users and costs. Gehenna permits testing but Nodoka rejects excessive heat followed by ice water; a manager's approximate70 degrees is not a measured burn. Trinity's welcomed tea, snacks and aromatic water give positive hospitality, but its reported maintenance and tea costs fail Red Winter's fit test. Shigure asks about cost and later regrets missing a souvenir, so genuine pleasure and economic objection coexist. The Hyakkiyako encounter is a mutual mistake, not an authoritative bath inspection or verified revolt; manju is offered/received while eating and the formal meeting remain unprinted. These are different host encounters, not a common all-school taste or completed transfer of infrastructure. [BA:mini:70001020:u:0009–0082/0090–0141.]"
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "cace9f582cc93b5dd94befe3b2d6396a08d7ef524f36ae0ba82aaf203557d7f9",
+        "line_text": "Millennium's proposed system then gives the sequence an adverse ending. Nodoka's attractive-bargain approval follows explicit unfinished-safety warnings and an operating-accident disclaimer; Shigure's suggestion to ask instead of assuming unaffordability is a local useful move, not certification. Actual installation lets Cherino test initial washing, then a system ignores objections and repeated release requests and restrains her attempted rise. Afterward Tomoe mistakes the result for enjoyment, contradicted by Cherino's anger. Narration actually removes the equipment, returns the227 students to the old school and reports slight interschool damage. No refunded contract, permanent pardon, lasting injury, clinical cure or safe-operating finding is printed. The task's real failure remains beside the wanted amenities and engineers' ingenuity. [BA:mini:70001030:scene:001:u:0011–0051; scene:002:u:0007–0038.]"
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "8b18c6062e45e0238509c36177b340c8c2f0de3d48a118a990854caaa7d93795",
+        "line_text": "## 5. Ordinary life: craft, balance, fiction and wanted company have their own worth"
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "638e62642e4e4ddf45f8ec114f92ae86a2bd3fd47732d40c6a59c16ba5d0171c",
+        "line_text": "Shigure's practical recipe scene is not merely setup for a joke. She gathers ingredients, transports them and starts preparation before the adult takes over. The fresh meat chunk is an ingredient used in a prank, not already a meal. Seasoning, butter and crispness are represented work; the Japanese vodka step remains unfinished and interrupted, while Korean's stronger instruction/sound must not silently complete a pour in Japanese. The final actual meal uses her materials. Full messages retain thanks, a suggestion about marinade and her agreement to the adult's selected limit, without proving a later experiment. Wanted taste, learning and reciprocity therefore survive the method dispute. [BA:bond:10055:006:u:0010–0054; whole thread100550330.]"
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "9ac893590b1b4819dad551f2f3e70a4a3833c13d71f418ac7d4784cc38be7a25",
+        "line_text": "Hot003 gives a more independently achieved result. She is at another bath after reported pressure trouble and delay; payment and thanks are actual. A local owner gives explicit kitchen permission, Shigure actually prepares fruit milk, and praise follows. Her explanation of balance, texture, cut fruit and preserved-fruit sweetness is craft knowledge within the story, not a chemical measurement. When the owner hopes for more customers and offers money, she asks for winter access for classmates instead. The accepted agreement is a substantial achieved exchange even though later visits, business growth and legal enforcement remain unprinted. The adult's actual preserved-fruit help also preserves labor cooperation rather than making her success solitary. [BA:bond:20031:003:u:0001–0007/0026–0058.]"
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "feac471d62fd5f72451e31eeabab72e36d79d51949f7dba206769af08fb48350",
+        "line_text": "Hot005 extends her preferred independence: voluntary unpaid work gives room to experiment with recipes rather than simply serving an assigned menu. One customer wants less sweetness; another reports milk-related pain, receives a different mix and says there is no pain now, while Shigure limits the portion. Those are represented preferences and local replies, not a diagnosed intolerance, cure or universally safe formulation. An anonymous Prefect guest's energy request remains a local guest, not Hina or Ako. The narrator's popular bar is actual; the manager's explanation that customers prolonged their stays because of drinks is a report, not measured causation or a revenue audit. Her inventiveness matters without making all its benefits empirically established. [BA:bond:20031:005:u:0008–0052, especially0018–0045.]"
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "b10976a2130e2e3f950c146eca19dca96f6aa22609a23956f37ac59756ed4e12",
+        "line_text": "Gift091 supports craft development at another local occasion. She names a newly made drink, describes time-consuming experimentation and protects the recipe before choosing to disclose it under a secrecy condition. The adult's inward moderate-sweetness/refreshing assessment supplies actual favorable tasting and perceived nonalcoholic character. It is stronger than a mere offer and narrower than a chemical assay or audible declaration. The fictional explanation involving bitter chocolate gives chosen balance and expertise but is not a complete reproducible recipe. Her knowledge has value as something she can retain, share and improve, independently of the analogy she later gives Sensei. [BA:event:810:091:u:0001–0031, seven groups/eight options inherited.]"
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "6bf1d5736b1ad66a13ea81c604555ceb79b911c0bd7255d6b4c964cd84734af7",
+        "line_text": "Comfort and company also have value outside craft. Written preferences include warmth, cute things, humming, conversation, seasonal foods and being content now; these are not all achieved encounters or my heard performance. The explicit gift exception excluding curry matters rather than dissolving into a generic acceptance of anything. A weapon's conditional wish that it be unneeded is not absolute pacifism. She enjoys Mel's imaginative opening even when it cannot perform the class's advocacy task; she values familiar darkness and stars without establishing that deprivation itself is always preferred. Her wished peer/adult gathering remains as worthwhile desire despite its unprinted fulfillment. [BA:character_data:10055:profile_and_dialog496x–4989; 20031:profile_and_dialog6661–6664/6670; BA:group:2801; BA:bond:10055:005.]"
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "17d85b7a26639bd7074886da8059cce8bbe63760ecc1531c6ed1b3ff0cd3f8b4",
+        "line_text": "## 6. Crisis action and adverse methods: actual help differs from an unperformed threat"
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "054d31f6d0ea3438ea5113ec4488a07282548c7bee5b6c12a01c71aa04662b56",
+        "line_text": "Base003 depicts the adult lost in cold conditions, with Shigure guiding him through terrain and helping reach town. Route and foraging knowledge are meaningful practical competence; her four-hour query is not a timed rescue log, and frostbite warning is not diagnosis. Liquid, hug and clothing proposals meet the adult's alternatives rather than being automatically enacted treatment. Her conditional later threat to force drink and a hug deserves attention as pressure, but the achieved method is a piggyback return and the narrator's safe Schale arrival. Full messages then ask about reaching others and rest; no injury treatment, involuntary undressing or forced dosing is printed. Care skill and questioned care methods coexist without changing the real rescue ending. [BA:bond:10055:003:u:0001–0055, especially0029–0045/0048–0055; whole thread100550070.]"
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "9e2e0733eaeda80d2d660c8b1968e9619b5d9dd8df1b0ca871f5952317bf708c",
+        "line_text": "Material emergencies do not excuse every tactic. In EVENT829, Nodoka's heating, bedding and animal/insect concerns are serious. Shigure's stove bargain nevertheless links those needs to appropriating Mel and Momiji's book for Cherino. Both recipients refuse. No stove, release or full physical battle is achieved. Their creative labor and project are independent ends, so227's hardship cannot make their refusal morally or analytically invisible. This adverse exchange qualifies a purely benign companion reading without making every Shigure exchange coercive. Her recipe-for-peer-access negotiation elsewhere demonstrates a different actual agreement. [BA:event:829:011:u:0010–0035; 012:u:0002–0016; BA:bond:20031:003:u:0050–0058.]"
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "a14b34b67212eb174b71190a15e8b2880937177cd7f4340347686954326040b5",
+        "line_text": "EVENT808 supplies a larger loss with finite intermediate achievement. Local tea, garden, rest, craft and bath pleasures are real, and not every guest response is the same. A development project's demands include unverified compensation and an absent Kasumi report, which is no Kasumi appearance. Workers are defeated; Tomoe and the adult then secure a deferred demolition/reuse correction before Meg rejects it and destroys the foundation. The correction must not disappear into an inevitable-failure recap; the blast must not disappear into a successful repair recap. Shigure's togetherness account and the final postloss company coexist with lost livelihood and absent restored housing, water or compensation. [BA:event:808:003–012, especially010–012 and011:u:0031–0038.]"
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "5eb2f8ffc9da728cc9d75776a329c0ab8ecde82108aa5bf5709b5e6459720803",
+        "line_text": "Final100C002E008 gives a useful search inquiry within evacuation, rather than a full Shigure rescue campaign. Nodoka directs people toward the old school; dialogue notes ruined/closed facilities. Shigure asks about Cherino, and Nodoka's no-arrival account is uncertain. The scene supplies neither actual Cherino whereabouts, arrival of every evacuee nor adequate shelter. Its known self-answer/actor seams limit precise voiced intention. Small inquiry and community concern remain meaningful without a trained-emergency-manager identity or the inference that all227 members acted in every evacuation. [BA:main:100:002:008:scene:001:u:0007–0018.]"
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "6b2906b3bc39dcdc56848eab5499d5a0c32f726cc93d58185451a7f645318830",
+        "line_text": "The MINI installation's refused release is another distinct crisis. Shigure's inspection participation is not proof she programmed, operated or approved every device action. Nor can an institutional safety label turn the user's explicit stop into enjoyment; the subsequent correction and removal are actual. Keeping direct and reported roles apart avoids both universalizing engineering guilt and claiming that an absence of lasting injury cancels the adverse intervention. These local outcomes support the larger question of belonging and provision without completing accountability or political repair. [BA:mini:70001030:scene:002:u:0007–0038.]"
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "14fb815d6f3a1d54382840e639c30deafeacb4441af72aaf99b2ee1097b0fc1b",
+        "line_text": "## 7. Sensei: wanted proximity, practical reciprocity and answers that remain answers"
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "964f0361cdf6ebbd2714f47c1f784193f146e7a0e23fd5905d274292b48009e4",
+        "line_text": "The relationship includes actual receptive acts: an optional visit accepted after work, a meal shared, a rescue, remembered sweets brought and joint fruit work. The sweets in hot002 answer something mentioned in passing, giving remembered preference a concrete endpoint. Sharing them with classmates remains an intention without printed full consumption. The unused tatami proposal similarly recognizes a possible Schale need without depicting transport or installation. Such finite exchanges make care reciprocal and situated; they do not prove that the adult always notices everything or that every gift is fully used. [BA:bond:10055:002/003/005/006; 20031:002:u:0001–0009; 003:u:0058.]"
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "1b3433265230bb77dc24ae6645f721601c165b953001ff5925093ee3e1bc852c",
+        "line_text": "Hot002 is particularly important because work and a refused wish end together. Shigure declines the distant Schale shower; that is a reasoned distance response, not proof she wants no care. Fruit-bath benefits are heard/claimed. The adult actually bathes in red, aromatic water; Japanese grape juice and possible fermentation remain different from Korean's stronger fortified-wine/health wording. Shigure asks for shared bathing and the adult refuses. Draining and cleaning then actually occur, without attributing sole labor, and the later headache has only a possible liquid cause. A well-prepared bath and a desired intimate arrangement are different goods; the first does not entitle her to the second. [BA:bond:20031:002:u:0023–0058 and whole thread200310010.]"
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "12d838bf27328f290ac3596d6bea6ab67be1e719993b21a8fd41a732abca9b64",
+        "line_text": "Hot005 gives the same problem through lodging. A missed train and full-room account place the adult in a constraint. Shigure proposes one shared futon; the actorless log's closeness/warmth imagery is not an authenticated speaker or completed co-sleep. A drink is actually represented at u0084, followed by the adult's fermentation assertions and her limited-day denial about sugar/yeast; that dispute does not prove intentional poisoning or chemical innocence. Most decisively, she says she will not force the arrangement and makes space available, while the adult actually spends the night alone on the floor. A possible light cold is not a diagnosed outcome. The full afterword adds reported ginger milk tea left for him and continued wished sharing; it supplies no completed cure or retroactive assent. [BA:bond:20031:005:u:0062–0095; whole thread200310220.]"
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "bf81de8bbd7222d5eced7eccfa2f0b05312fb6770d6580624ea2a93cb62a08f1",
+        "line_text": "Hot006 preserves a fresh refusal rather than reversing that ending. She wants conversation and shared bathing; Nodoka's view that baths should be solitary is Shigure's report. The adult's alternative refusals, her recognition of outside perceptions, wanted frank talk and disappointment remain distinct. She leaves for a forgotten bottle before the adult bathes. Steam, shape and printed low-voice wording are not heard audio; an adult names Shigure, a narrator misnames her and raw온천 페로로 labels remain unresolved. The likely bear reading is qualified, not a joined Peroro/Shigure/animal identity. The adult exits, Shigure returns and misses the chance; her envy is a wish. Her later bath is actually separate while the frightened adult waits. No shared bathing or secret act in the steam is supplied. [BA:bond:20031:006:u:0005–0044; whole thread200310390.]"
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "9420f4d98598bd2554c1719c5df7b47e18e16e9845d1761dbf1dc6683cd28c31",
+        "line_text": "Her gift analogy adds favorable reflection without overwriting these disputes. Japanese describes how Sensei's advice helps different students flourish and qualifies handling toward appropriate placement; Korean adds an operational-success claim and explicitly likens Shigure herself to difficult bitter chocolate. Those stronger claims remain in their language. Thanks/gift at u0038 is #na character-narration, andu0039 expresses future goodwill, with a Korean year interval absent from Japanese. Her own generous assessment can be compared with actual remembered sweets, shared work and adjusted responses. It cannot make every prior objection successful care, every student a treated ingredient, or the coming relationship already fulfilled. [BA:event:810:091:u:0033–0039/raw18183–18194.]"
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "8c56c0c340c615fb2b2351e5b4ff2343de767a14d4474c6b7b624b4a4efc977f",
+        "line_text": "## 8. Peers and recipients: togetherness does not erase disagreement"
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "e089aa84bd5c1fab62c43a949217da126c7839cc747ddd5dc0d6a4fd79b9f8cb",
+        "line_text": "Nodoka is a companion with distinct tastes, needs and judgments. Shigure enjoys Mel's fictional warmth where Nodoka rejects its factual representation and task fit. She says earlier life was enjoyable in company where Nodoka refuses return to deprivation. During inspection she asks maintenance cost and regrets an untaken souvenir where Nodoka argues economic fit; the two positions are not an automatic conflict requiring one correct person. Their exact relationship responsibility concerns shared home, togetherness and refusal, and remains required beyond this character monograph. The baseline editorial rumor about following a childhood friend is not a confirmed origin mechanism for every later action. [BA:group:2801:scene:002; BA:event:808:011:u:0031–0038; BA:mini:70001020:u:0052–0082; BA:character_data:10055:profileintro.]"
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "ad8c5e38e97ec39f9c27f41ad58f6a0bbeb29b002cf0279bba221bd72f532980",
+        "line_text": "Her negotiation for classmates gives a positive peer-directed act even where recipients do not appear using the result. She refuses money and asks winter access, with an accepted agreement. A later hoped-for group gathering and reported sweets-sharing are different unresolved ends. The monograph therefore preserves an actually achieved reciprocal arrangement, a shared work act and unfulfilled future company side by side. No testimony establishes all classmates' assent, visited baths, preferences or an enforceable collective right. It is still stronger than treating her as someone who only pursues Sensei. [BA:bond:20031:003:u:0050–0058; 002:u:0001–0009; 10055:005:u:0040–0052.]"
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "65d193130aaea85747120525ad400a3cb83a5691ccb6fae7fe75fb8af1726272",
+        "line_text": "Mel is also an independent recipient. Her fiction can be enjoyed as art without answering a factual petition; her book cannot be converted into a stove bargain merely because227 needs heat. Momiji joins refusal from her own commitment to that work. Minori's targeted petition supplies another valuable craft, and its burning is an institutional act rather than a verdict that advocacy had no meaning. These creative/provision exchanges put Shigure in different roles as audience, beneficiary and proposer. They require retaining property, purpose and refusal as well as companionship. [BA:group:2801/2802; BA:event:829:011/012.]"
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "56142349f1ada4c9d5136ea600f40dbb0ccaa13e8d286f4f2daca74b51e757ee",
+        "line_text": "Anonymous owners and customers possess their own authority and wanted experience. The local銭湯の社長 in003 is distinct from the later支配人 unless a source join is actually established. Kitchen permission, a less-sweet request, reported milk discomfort, a thanked energy drink and the manager's lodging explanation are separate evidence conditions. None gives automatic Hina/Ako appearance or a universal guest preference. Customer testimony can acknowledge a local benefit without certifying a clinical mechanism; owner expectations about future visits are not achieved growth. Shigure's expertise is strongest when the account preserves the person to whom it responds. [BA:bond:20031:003:u:0026–0058; 005:u:0018–0052.]"
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "f47b293fb830effeec204479e13a193fff4fe8568017c7f4e4a9c853aa598e9a",
+        "line_text": "Public officials and developers likewise cannot be reduced to a backdrop. Cherino's offered work, refused resort restart and angry rejected bath are distinct from Tomoe's inspection invitation and mistaken enjoyment inference. Engineering confidence and warnings coexist, and the system's refusal to release remains a direct adverse outcome. Meg's pleasure in development becomes destruction after a real local agreement; the uninspected absent Kasumi report is not shared consent or acted collaboration. These distinctions let a Shigure-centered argument retain independent institutions and recipients rather than turning all adverse results into her personal story. [BA:mini:70001010/01030; BA:event:808:009–012.]"
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "b21326c77d3f27a84280c912174379e055790eb44b723151d57d159c2d6edfc0",
+        "line_text": "## 9. Written register and attribution: hedges, jokes and inward fields retain their mode"
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "d14d0a6727fded8a461e055da70836530cfb4eac7a66b8710eaf57ac9fdc53b2",
+        "line_text": "The three written responsibilities comprise base10055, hot20031 and event costume1900908001. Their inherited row counts are41 and42 with one profile each, then16 costume records with no profile:99 written records and two profiles, as selected metadata rather than fresh inspection in this lane. The costume's808/10808 segments can repeat text with changedEventID, collection visibility and CV controls without creating sixteen lived incidents or two histories. A costume is not a new person or an external chronological marker. Written-profile, lobby, café, birthday, holiday, special, weapon and event UI functions remain separate from BOND/MM scenarios. [BA:character_data:10055/20031:profile_and_dialog; BA:character_data:10055:event_costume:1900908001.]"
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "e018fa4074ec0f84a5f6eda775cc647ef8e4b8b915c9af988dbb6f917e1b7965",
+        "line_text": "The baseline introduction'sとのこと and rumor forms do analytical work. They preserve a reported alcohol-in-ration account and the speculation about deliberate companion-following instead of giving the author privileged knowledge of intention. Evasive lobby recollection need not be a clinical deficit or proof of deception. Special star/company texts give a positive written repertoire, but do not authenticate actorless10055E005 units or secure an exclusive Sensei referent for every important-person phrase. A character can have inward or presented preferences without all of them being communicated to another participant. [BA:character_data:10055:profileintro; dialog4965–4967/4981–4989; BA:bond:10055:005:u:0024–0039.]"
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "c552a435dbf1c5f5591636cc31f533f05dad5bdb1216aa23a678babf71da0f80",
+        "line_text": "The hot profile's apparently satisfied/little prosperity interest wording is a qualified presentation, not a permanent ban on ambition. Admiration of Nodoka's effort does not prove she is idle or establish a measured labor division. ThinkCafe6643–6644 and lobby6665 remain inward cues, not audible speech; the bear-employee claim is explicitly a joke, and the mix she says she will not propose stays unproposed. Many people being sad if Sensei suffers is a character's assertion, not a census. Gift exception, future repeated bath, seasonal drink and futon/warmth preferences retain actual wording and unfinished outcomes. [BA:character_data:20031:profileintro; dialog6643–6666/6671–6682.]"
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "78664b15393de47fdfc4676088775441adb1995fa3999d7b3c5960d83b29f470",
+        "line_text": "The event-written route adds mission help, work and movement, desired bathing afterward, Nodoka admiration, fatigue concerns, popularity assessment and offers. It does not enact a mission, workout, served drink or completed bath. Base and hot weapon lines provide fictional hunting/fire or conditional avoidance language rather than tested ballistics, bear control or a verified policy. The monograph's written register concerns lexical choices, address, hedges, jokes and modal distinctions; it has no inspected voice, pitch, acting, image, animation or music credit. [BA:character_data:10055:event_costume:1900908001, eight segments/16 records; profile_and_dialog weaponfields; BA:character_data:20031:profile_and_dialog6670.]"
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "4b8869bedd9d5c0b1827765479a21ed1a6c24a2301593267ffdc0c383197c569",
+        "line_text": "Choices also remain alternatives, including spit versus question, rescue responses, shower or bath objections, marinade variants and inward tasting prompts. Repeated replies need not mean repeated actions. Four UNKNOWN opening message records remain unjoined; actorless base005 and hot005 logs are no automatic actor or inward-voice repair; ordinary#na and writtenThink are distinct. Hot006's narrator misnaming and local Peroro label are unresolved actor evidence, not another person package. Gift091u0038 character-narration andu0039 future speech cannot be collapsed into one heard completed declaration. The story remains intelligible without invented runtime repair or wholesale primary replay. [Qualified Shigure checkpoint; eight whole individual BOND/MM arguments; BA:event:810:091:u:0038–0039.]"
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "3de3fd0a6277fbe86db24370958f5979b748bf7477524e795bf6f253e4abd799",
+        "line_text": "## 10. Competing readings: each account must answer the achieved and refused ends"
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "b67e159d402e6065c1b66e7c9a10b945da0e42b6c0b580c7b02a02290f2b1032",
+        "line_text": "**The complacent pleasure-seeker reading** has evidence in enjoyment of familiar darkness, present comfort, a prosperous-setting profile's qualified little growth interest and pleasure in old-building togetherness. It fails if it ignores active route guidance, ingredient work, recipe experimentation, peer-access negotiation and participation in inspection. Enjoyment of company within deprivation does not demonstrate preference for every deprivation. This reading is useful as a question about what improvement means to her, not a complete motivation diagnosis. [BA:bond:10055:003/005/006; 20031:003/005; BA:event:808:011; written20031profile.]"
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "ff3dd585577575f493789d98812278ff34b9f2c63e6c833e77317ef7ae3962b4",
+        "line_text": "**The universally benign playful-caregiver reading** recognizes real rescue, remembered company, tailored drinks, agreed peer benefit and ginger-tea concern. It must also answer conditional force proposals, shared-bath pressure, a disputed fermentation account, appropriation of a book and independent refusals. Neither comic framing nor later pleasure retroactively establishes consent. Conversely the actual safe return, will-not-force statement, separate night/bath and accepted recipe exchange prevent converting those adverse cases into proof of an always-coercive person. [BA:bond:10055:003; 20031:002/003/005/006; BA:event:829:011/012.]"
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "ea79a7035d1d829c616a814b0a03182d34c32ca0e138c6283e2d586ddc2dd115",
+        "line_text": "**The alcohol-as-hidden-master-key reading** draws on profile report, compote imagery, repeated ingredient jokes and adult suspicion. Its strongest limitation is differential evidence: an order need not be served; the Japanese vodka step is interrupted; grape fermentation is possible or disputed; gift091 is textually assessed as nonalcoholic and pleasantly balanced. Chemistry, intent and every illness mechanism remain unestablished. The motif can organize a literary question about ambiguity and trust, but cannot authorize retrospective dosing accusations across all sources or clinical advice. [Written10055intro; BA:bond:10055:005/006; 20031:002/005; BA:event:810:091.]"
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "a8f70586a721ba94dc29df5ab609083b0737b19856954d569c6e0959e4b81f03",
+        "line_text": "**The skilled craftsperson reading** is supported by route knowledge, preparation, permission-based fruit milk, recipe research, customer adjustment and selective knowledge-sharing. It becomes too large if success for one drink certifies safety for every mixture, cures a guest, explains measured customer growth or makes the bath installation safe. The actual recipe-for-access agreement and tasted gift are achieved ends; missed train, separate floor night, system removal and returned confinement are contrary endpoints. Competence is domain- and recipient-specific, not a transferable technical credential. [BA:bond:10055:003/006; 20031:003/005; BA:mini:70001030; BA:event:810:091.]"
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "edc71f2ec2c374ee256034acb9eb82d8dc743dff7b529a2e4c94180bbafbf1e4",
+        "line_text": "**The exclusive adult-centered companion reading** retains genuine wanted personal company, repeated bath/futon wishes and everyday gratitude. It must answer actual accepted group company, a wished227 gathering, classmates' access, genuine pleasure in fiction, shared home with Nodoka and the adult's continued refusals. The editorial rumor of childhood-friend following and Korean gift self-comparison have different source conditions; neither can produce a mutually recognized romantic status or exclusive Japanese referent. Her desired company is intrinsic even when the arrangement is not granted. [BA:bond:10055:005; 20031:003/005/006; BA:group:2801; BA:event:810:091; written10055profile.]"
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "884770f55e09bea8bb2f102546021502b84be56049a9ed5e4c870439b99d9f54",
+        "line_text": "**The institutionally trapped subject reading** properly retains deprivation, conditional offers, arbitrary-seeming return sanctions, failed provision and destroyed livelihood. It must still receive her own negotiating and appropriative choices, the actual separate recipients' objections, and finite successful craft and cooperation. The individual is neither a passive consequence of the institution nor its all-knowing manager. No new evidence resolves legal proportionality, enduring rights or comprehensive restoration. [BA:group:2802; BA:mini:70001010–01030; BA:event:808:010–012; 829:011/012; BA:bond:20031:003.]"
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "27c81a2d32d7a55bafe6132ba4a8273f3c47b9004bf59f83b5ef00eee94bca02",
+        "line_text": "**The perfect-fit Sensei mechanism reading** takes her bartender analogy as a universal explanatory rule. Its warranted core is her own favorable account and actual pleasant reception. Japanese qualification of handling, Korean's stronger operation/self-comparison, the inward taste mode, her secret recipe and future goodwill all limit transfer. Remembered sweets, actual labor help and adjusted responses can support particular attentive acts; earlier objections, floor-night discomfort and refused proximity keep the theory from becoming an empirical model or unrestricted care success. This monograph has no reconstruction-rule, prediction, held-out test or model-grade claim. [BA:event:810:091:u:0018–0039; BA:bond:20031:002/003/005/006.]"
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "bb2d990f8abae978759cc0ee523346e6ae0982adc914e0a6291890d7e41dd4d0",
+        "line_text": "## 11. Source boundary, original open gaps and completion disposition"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "4cdcd27fcde795b726422456918d57a657abd7fecf978e4e76cb68cf73ed8cfc",
+        "line_text": "The selected private scope is exactly19 responsibilities: base10055E002/E003/E005/E006 and hot20031E002/E003/E005/E006; eight whole linked MomoTalk threads100550010/070/190/330 and200310010/140/220/390; written10055,20031 and costume1900908001→10055. Their complete adequate individual arguments and85-line maintained checkpoint were personally received, alongside the complete495-line seven-family account. Complete linked afterwords and source-mode qualifications belong to those arguments; no launch-only substitution is made. Inherited466 BOND units/46 groups,131 messages and99 written records/two profiles describe existing selection, not a fresh source audit. Repeated alternate extraction or costume forms do not produce two histories or added objects."
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "7b8490a9eb2065f3ebe026118a2cc1316ded7724990f95b630a108bc9b7b01b5",
+        "line_text": "Adequate public literary custody includes wholeGROUP2801–2802, the eleven selected EVENT802 meanings, twelve selected EVENT808 meanings, fifteen selected EVENT829 meanings and specific Final100C002E008. Complete relevant MINI32 section106–124 supplies the three inspection meanings, not a new whole344-line checkpoint read. Gift810091's complete73-line argument and current comparison244–316 supply its achieved craft and exact mode/locale qualifications. GROUP1301–1303 andEVENT839 are complete institutional background comparisons, without automatic Shigure act or appearance credit. ROOT's historical ten-character eligibility argument is qualified allocation/context reuse, not a mature monograph. Exact current source tuples are distinguished from main2e/c1/732 comparisons and dated mutable navigation."
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "fd9e897532d474fcc9535ecdd3710d0d93f225695687ea3068ea45be3a983f61",
+        "line_text": "Current Cycle008 qualified admission governs old producer draft_noncurrent/UNADMITTED/veto/213/516 words for this selected accepted scope while preserving attributed authorship and original source claims. Own adequate argument reading is distinct from producer primary/native/raw/control work and independent ROOT receiving. Undeclared previous exposure, order, independence and rights remain UNKNOWN; FIRST/SECOND is unassigned. No source, model, actor, locale, performance, denominator or milestone credit is added. Local source access and the user's cancellation of integration handoffs authorize C-only authoring; ROOT remains sole integration/publication owner. Nine UNBOUND large files and preserved_phase2_work bodies are unopened and unhashed."
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 172,
+        "line_sha256": "811ebd6bcefe1566981d458d6b93efc1d9d6257c02681338efa53410de2e3152",
+        "line_text": "| Original stable gap | Shigure contribution and remaining warrant; status OPEN |"
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 173,
+        "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+        "line_text": "|---|---|"
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 174,
+        "line_sha256": "960e5176548508443195c2755f8b6f8110d72ac7e97d1e5d27fb2d44ed85788a",
+        "line_text": "| G01 Ordinary and private breadth | OPEN. Full19 adequate private argument plus recipes, fiction, company, gifts and inspected amenities preserve intrinsic ordinary value. They do not enact every wished bath, gathering, later visit or unselected future. |"
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 175,
+        "line_sha256": "1ecbb7206e2da789eddcefe280977c3ce133725c0d605afb09acd7369291be45",
+        "line_text": "| G02 Yuuka council/club decision transfer | OPEN. Class227 and guest-fit comparisons supply no Yuuka council/club decision transfer or audited governance outcome. Her own directed evidence remains required. |"
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 176,
+        "line_sha256": "c999409aa9d17946d4fe7928bd885780abb5565e450bb1a04fcc34b169d1f19d",
+        "line_text": "| G03 Serika service, peer and reciprocity range | OPEN. Shigure's permission-based making and peer-access exchange permit bounded comparison, not Serika service facts, generalized wage rules or full reciprocity closure. |"
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 177,
+        "line_sha256": "ef5e525109d71b05490f62c469c2eacdee84a73b4e87a235ea5cf437829c2086",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | OPEN. An anonymous Prefect guest is not Hina; rescue, bath failure and resort loss do not establish her crisis causality or accountability. |"
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 178,
+        "line_sha256": "40d05b5b92637355e7000ecb87e5b463eede090264754bfaab9e0adb9b6007db",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | OPEN. Red Winter deprivation/company/craft cannot discharge Arius/PS68 ordinary, labor or aftermath responsibilities by analogy. |"
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 179,
+        "line_sha256": "1f5cd73ac8e216e70f32eadaa147a1594bdf1d731d9413f77192f4bd294dafae",
+        "line_text": "| G06 Cross-school ordinary repertoire | OPEN. MINI hosts, customers and guests keep distinct pleasure, cost, privacy and refusal responses. No school-wide culture or full interschool ordinary repertoire is established. |"
+      },
+      {
+        "frozen_line": 170,
+        "canonical_line": 180,
+        "line_sha256": "d276cab9a0b3498d50c41a32bbae299243d05f3e128ddee1f8b304205828c4bd",
+        "line_text": "| G07 Story-world chronology | OPEN. Explicit local visits, preparation, missed train, removal and message reports supply limited order only. Releases, variant numbers, gift season and UI conditions do not date the world. |"
+      },
+      {
+        "frozen_line": 171,
+        "canonical_line": 181,
+        "line_sha256": "6055111519e61a2cf64440e213dfe2a423e20b176ab3a6dfd5c07c9bca69d8c1",
+        "line_text": "| G08 Event naming and repeat contexts | OPEN. Exact810091,802/808/829/839 objects and costume808/10808 streams remain distinct. Null titles, repeated text or changed visibility/CV controls do not create lived repeats or one holiday route. |"
+      },
+      {
+        "frozen_line": 172,
+        "canonical_line": 182,
+        "line_sha256": "195525dbf5b8e34556c11adff2c1ba6351092a603c8915eb25723e543776e429",
+        "line_text": "| G09 Written speaker/choice attribution | OPEN. Whole messages, alternative replies, actorless logs, fiction, #na gift thanks, reports and listed MINI/Final/hot006 seams remain bounded. No silent actor repair, all-branch enactment or common inward access. |"
+      },
+      {
+        "frozen_line": 173,
+        "canonical_line": 183,
+        "line_sha256": "a9b9f44d6092f8a377be59346a4c9ff6526d352c25beff0003b47d57630f768b",
+        "line_text": "| G10 Performed voice | OPEN. Written phrasing, low-voice description, humming and system music cues are not inspected audio, pitch, acting, image, animation or performed delivery. |"
+      },
+      {
+        "frozen_line": 174,
+        "canonical_line": 184,
+        "line_sha256": "e6e85048c654301269034236873186553cb5f271e8f9e5b1be11442f746dc27e",
+        "line_text": "| G11 Hoshino's Yume record and office states | OPEN. Home, company and deprivation comparisons add no Hoshino/Yume fact, authenticated office edge or transferred grief/causality conclusion. |"
+      },
+      {
+        "frozen_line": 175,
+        "canonical_line": 185,
+        "line_sha256": "af578ed7cddbae817805cdad9a7808115efdd4fb0a2ee40787ffafc43f44d63a",
+        "line_text": "| G12 Counterpart, system and variant identity | OPEN. LiteralBA_PERSON_SHIGURE and10055/20031/costume1900908001 are routed without a variant ladder. ProfileclubNone,Class227, unknown message actors, local owners, anonymous guests and unresolved Peroro/bear labels retain distinct limits. |"
+      },
+      {
+        "frozen_line": 176,
+        "canonical_line": 186,
+        "line_sha256": "2b0efdbefbe74f08808a0cb3508af7bbd39b92969a46df899eeb65707a92f2b9",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | OPEN. Actual safe return, permission, accepted exchange, refusal, floor night, installation/removal and confinement are finite literary ends; no contract enforcement, cure, assay, durable provision, proportionality or engineering certification follows. |"
+      },
+      {
+        "frozen_line": 177,
+        "canonical_line": 187,
+        "line_sha256": "9d41ffcae88443c0d8a0858bf74d2a7f13fd68c526047f29b6b69b2a17ae3f82",
+        "line_text": "| G14 Unclassified/mode continuity | OPEN. Admitted BOND/whole MM/written/GROUP/EVENT/MINI/MAIN arguments do not admit unclassified material or authenticate another source mode through thematic similarity. No UNBOUND or preserved working body is opened or hashed. |"
+      },
+      {
+        "frozen_line": 178,
+        "canonical_line": 188,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 179,
+        "canonical_line": 189,
+        "line_sha256": "eca49972435212fef948543773d46c1946b64fe1ac25f6a16fa8d068962c885d",
+        "line_text": "No mandatory primary replay is necessary for these bounded assertions: adequate accepted arguments resolve the consequential local endings and identify uncertainty explicitly. Stronger global chronology, alcohol quantity/chemistry/intent, diagnosed illness/cure, shared bath/co-sleep, reciprocal romance, complete recipe, all-peer use/assent, audience or owner identity, enforceable agreement, commercial growth, restored livelihood, proportionate discipline or performed delivery claims are unasserted and would require new warrant. This is a complete eleven-dimensional saved literary candidate within the stated scope, pending independent ROOT whole receiving, exact verification and canonical adoption. Distinct required directed relationships, Class227/hospitality and Red Winter institution/ensemble homes, Sensei syntheses, source registers and full-cast convergence remain mandatory. No self-acceptance, source admission, model, denominator addition, milestone, publication or merge follows from this file."
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          7,
+          7
+        ],
+        "canonical_lines": [
+          7,
+          7
+        ],
+        "frozen_text": [
+          "status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          27,
+          27
+        ],
+        "canonical_lines": [
+          27,
+          35
+        ],
+        "frozen_text": [
+          "publication_acceptance_and_count: ROOT_ONLY_PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_publication_acceptance_and_count: ROOT_ONLY_PENDING",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIGURE_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHIGURE_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          31,
+          30
+        ],
+        "canonical_lines": [
+          39,
+          40
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded character responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SHIGURE_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SHIGURE_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,25 distinct parent packages,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Character Monographs home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "original_transports": [
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_SHIGURE_CHARACTER_MONOGRAPH.md",
+      "bytes": 47054,
+      "sha256": "feceae4d7ac256157fda2f97d927f26cd6686e6a3acaa69eee36ecf34bc4e8d8",
+      "git_blob_oid_of_actual_bytes": "21eebe7f60b95997b36cfb5919d5b5184d2fbed6",
+      "lines": 179,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_SHIGURE_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_SHIGURE_CHARACTER_MONOGRAPH.md",
+      "bytes": 47054,
+      "sha256": "feceae4d7ac256157fda2f97d927f26cd6686e6a3acaa69eee36ecf34bc4e8d8",
+      "git_blob_oid_of_actual_bytes": "21eebe7f60b95997b36cfb5919d5b5184d2fbed6",
+      "lines": 179,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_SHIGURE_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/SHIGURE_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 134757,
+      "sha256": "9f33461a60eb2bdc17a947873dbfb600e3c1078349e0e9bffbda92c784421d9a",
+      "git_blob_oid_of_actual_bytes": "57f11d8a29ff614b4e061fdc4e24b69c40399be8",
+      "lines": 2722,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/SHIGURE_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/SHIGURE_FROZEN_OUTPUT_MANIFEST.json",
+      "bytes": 2653,
+      "sha256": "f7daed7c304692bffbc14faf9250d32605287204fabceb05b342c7e731186ad5",
+      "git_blob_oid_of_actual_bytes": "99a8ef6eecaa756ceaf0ab836110f3a54a3b8fc0",
+      "lines": 60,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/SHIGURE_FROZEN_OUTPUT_MANIFEST.json"
+    },
+    {
+      "path": "ROOT_SHIGURE_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 6016,
+      "sha256": "5939eb29f9bf5fad305cdcf1ceb34a79a30f8b0532533c651235bb3a91e70401",
+      "git_blob_oid_of_actual_bytes": "149711b31218bbf6a0230bd061b95c19718987eb",
+      "lines": 82,
+      "immutable_transport_path": "immutable_originals/ROOT_SHIGURE_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/SHIGURE_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 7852,
+      "sha256": "05ce81b2dcc6111b198843c4d3071ea49f5bc1f59dec2bea72488d4e265037c5",
+      "git_blob_oid_of_actual_bytes": "48ad9f99e8b31c29cb7d755543d9663c95c1e568",
+      "lines": 39,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/SHIGURE_MONOGRAPH_RECEIVING_RECEIPT.md"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/SHIGURE_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 6525,
+      "sha256": "34ebfdbbf4f05f3621ff79d94ad71203d3cf651d5ce2408157c94b7407123568",
+      "git_blob_oid_of_actual_bytes": "15ec830f8333c6277438df938f982d19c8360ee7",
+      "lines": 117,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/SHIGURE_CURRENT_WORKTREE_METADATA_PROBE.json"
+    }
+  ],
+  "mandatory_canonical_qualifications": [],
+  "canonical_link_only_translations": [],
+  "new_primary_performance_independent_model_scope_or_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

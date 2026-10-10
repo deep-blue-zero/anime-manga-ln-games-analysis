@@ -1,0 +1,156 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Iori",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IORI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_IORI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5668,
+    "sha256": "282570f1a28576e2bb6f2b32ab3690311738a5ca7e765da774a1550a55a06705",
+    "git_blob_oid_of_actual_bytes": "6034e8bfdfab960249da873d58ba613aea66e7b8",
+    "lines": 102
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_IORI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "6693d9f8408d78d4d15e96b6b31f295e134ab7f43a8402edecdf1ce6f383286c",
+    "frozen_payloads_verified": 7,
+    "analytical_source_and_copy_bindings": 53,
+    "exact_current_committed_R_comparisons": 43,
+    "working_receipts": 10,
+    "selected_private_source_bindings": 23,
+    "positive_public_source_bindings": 68,
+    "positive_supplemental_header_routes": 43,
+    "saved_complete_block_joins": 164,
+    "section_bindings": 11,
+    "relative_links_resolved": 43,
+    "complete_MAIN_paragraph_joins": 120,
+    "complete_additional_public_paragraph_joins": 60,
+    "all14_gaps": "OPEN_UNCHANGED",
+    "additional_public_EOF_locator_qualifications": [
+      {
+        "file": "BLUE_ARCHIVE_EVENT_809_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "declared_projection_end": 126,
+        "actual_source_last_line": 125,
+        "text": "Exact actual finalLF preserved; terminal split delimiter is not another physical source line"
+      },
+      {
+        "file": "BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+        "declared_projection_end": 155,
+        "actual_source_last_line": 154,
+        "text": "Exact actual finalLF preserved; terminal split delimiter is not another physical source line"
+      }
+    ],
+    "ROOT_actual_receiving": {
+      "whole_body": [
+        "0b32fc lines1–75",
+        "0c6899 lines76–155",
+        "e2dc65 lines156–235",
+        "7874ce lines236–315",
+        "c57372 lines316–400EOF"
+      ],
+      "whole_delivery": [
+        "dacfe3 readable36linesEOF",
+        "402282 exact manifest58linesEOF",
+        "8ebe5b structured36linesEOF"
+      ],
+      "complete_source_scope_fields": [
+        "909bca fullcontrols",
+        "aab092 first18 with repeated fields",
+        "400cf1 first18 complete nonrepeated fields",
+        "7177d9 indices18–36 complete nonrepeated fields/allparagraph extents",
+        "306954 indices36–53 complete nonrepeated fields/allparagraph extents",
+        "cad8ae all10working bindings"
+      ],
+      "fresh_complete_private_analytical_arguments": [
+        "1be2af complete V3 reconciliation21linesEOF",
+        "a63f37 complete V2 remainder19linesEOF",
+        "055a38 V4 mappings0–3",
+        "17e845 V4 mappings3–7",
+        "e4714f complete remaining V4controls",
+        "77c833/d2258f/ca21e2/aef6b0/e50f7d/f95c21 all6inherited source-specific analytical findings through EOF"
+      ],
+      "fresh_complete_analytical_MAIN_arguments": [
+        "34fede V001C002E017144linesEOF",
+        "7f16e3 S2V002C002E01940linesEOF"
+      ],
+      "fresh_complete_already_admitted_Japanese_written_episodes": [
+        "b13c66 gift810008:125139linesEOF",
+        "0cd02c E860015245linesEOF"
+      ],
+      "existing_adequate_sources": "Retain prior ROOT admitted MAIN480 and Phase2 current normal arguments, including Fuuka/Juri G160, G1902/MINI, Hina E804/E809, Ichika E830/E848 and exact current antecedents at their declared scopes. Author fresh120MAIN/60public projections remain author-attributed; tuple/paragraph join checks add no whole reading credit.",
+      "clipping_limits": "66de1d clipped scope/paragraph output receives no whole-file credit; all nonrepeated scope fields and exact paragraph extents received7177d9/306954; no physical whole126874-byte input JSON or164115-byte saved-index semantic reading claimed."
+    },
+    "semantic_grounds": [
+      "Iori has situated capability, protective purpose and fallible attention; early official coercion is retained beside later principled resistance to her own seniors. No retrospective acquittal or causal private-to-main growth bridge.",
+      "Warmth, sleep, swimming progress, supplied sunscreen, completed rules, drink offers, mint/lemon tastes, birthday company and conditional rest remain intrinsically meaningful at their actual source modes and endpoints.",
+      "Useful completed help and bounded trust coexist with specific privacy/touch/distance conditions, unwanted photographs and unanswered repair. Gratitude and comic presentation do not erase the recipient answer.",
+      "The exact chocolate episode prints a transferred tasted object and an explicit denial of the Valentine label; inward adult interest remains different from Iori knowledge. Genre-coded ambiguity is a rival rather than a certified confession.",
+      "The E860 first generic guide remains separate from later literal Iori reception/referral. Typed costume1900901201:10023 belongs to the selected Iori family; foreign1900906301:20008 diagnostic gets zero Iori credit.",
+      "Favorable inspection and adverse drink, tactical intent and collapse, distributed opposition and later praise, institutional attachment and betrayal retain different judgments and affected recipients. No clinical/legal/technical cure, finished institution or unprinted remedy follows."
+    ],
+    "source_authority": "Cycle008 selected3940 supplemental/480MAIN; old unadmitted/none-located creation prose is qualified history",
+    "primary_credit": {
+      "new_Iori_private_primary": 0,
+      "ROOT_new_complete_already_admitted_written_episodes": 2,
+      "raw_or_AV": 0,
+      "new_source_admission": 0
+    },
+    "progress": {
+      "previous_ROOTaccepted_packages": 42,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 43,
+      "character_packages": 42,
+      "directed_relationship_packages": 1,
+      "published_packages": 36,
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "quarter_reached": false
+    },
+    "scope": "355 packages/29 named sections unchanged; existing P3-CHAR-IORI home",
+    "models_or_predictions": 0,
+    "nine_unbound_large": "UNREAD_UNHASHED",
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-IORI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IORI_CHARACTER_MONOGRAPH.md",
+    "bytes": 88521,
+    "sha256": "4f43957b43eeff454ce4b025f6ab937ef73f4b297f39c144c0abf146b3020334",
+    "git_blob_oid_of_actual_bytes": "578dcbd35a744823b4c806dac21fae385616368e"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "ROOT alone decides acceptance and counting.",
+      "new": "ROOT independently received and accepted this complete character argument with limits; ROOT alone records canonical persistence and package counting.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    }
+  ],
+  "current_source_EOF_locator_qualifications": [
+    {
+      "file": "BLUE_ARCHIVE_EVENT_809_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "declared_projection_end": 126,
+      "actual_source_last_line": 125,
+      "text": "Exact actual finalLF preserved; terminal split delimiter is not another physical source line"
+    },
+    {
+      "file": "BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+      "declared_projection_end": 155,
+      "actual_source_last_line": 154,
+      "text": "Exact actual finalLF preserved; terminal split delimiter is not another physical source line"
+    }
+  ]
+}

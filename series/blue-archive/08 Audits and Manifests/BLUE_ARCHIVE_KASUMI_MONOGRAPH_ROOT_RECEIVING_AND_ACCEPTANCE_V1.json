@@ -1,0 +1,192 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Kasumi",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KASUMI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_KASUMI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 7251,
+    "sha256": "448c0f737d505a6d38ff06e0d54a51e7d81c2a25a75db25761147aa39c4ac513",
+    "git_blob_oid_of_actual_bytes": "f721219c7f382d01928e348698f5c61d6f4ef42b",
+    "lines": 120
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_KASUMI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS_WITH_MANDATORY_SEPARATE_PUBLIC_CONTEXT_SUPPLEMENT",
+    "candidate_sha256": "e8b4c36930bc32387ca6d09c8e5408c29a3e52b869cbcf68fa0c2c6523025882",
+    "frozen_outputs_verified": 4,
+    "prior_frozen_payloads_preserved": 81,
+    "exact_unique_binding_pairs_verified": 158,
+    "public_arguments_equal_current_main_c1_and_published_source": 23,
+    "effective_private_arguments": 14,
+    "separate_comparison_arguments": 1,
+    "selected_private_objects_exactly_verified": 22,
+    "saved_nonempty_lines_joined": 99,
+    "root_actual_receiving": {
+      "whole_body": [
+        "08bbe21–60",
+        "b2151961–120",
+        "4988ad121–157EOF"
+      ],
+      "whole_readable_receipt": "76da3d71EOF",
+      "whole_frozen_manifest_and_probe": [
+        "fbc8cb34EOF",
+        "febcaa49EOF"
+      ],
+      "complete_selected_source_control_fields": [
+        "420361all14effectiveinputscopes",
+        "907161all5freshpublicscopes",
+        "5236f7all7reusedpublicscopes",
+        "c9918dallnonarraycontrols/authority/identity/currenthomes/F033/A136/probe",
+        "302fc9E848exactdeclaredspans",
+        "797ca5all4refreshscopefields",
+        "0530d6whole40sealedentry"
+      ],
+      "fresh_complete_effective_private_arguments": [
+        "1a32c9K01",
+        "a5e0c0K02",
+        "30766cK03",
+        "902f8fK04",
+        "234d04K05",
+        "6b41b5K06",
+        "899467K07",
+        "b7fb28K08",
+        "40587bK09",
+        "8324b5K10",
+        "01914fK11",
+        "597580K12",
+        "140b46K13",
+        "253e51K14",
+        "205d52comparator59EOF"
+      ],
+      "fresh_complete_public_arguments": [
+        "5676baG3501–100",
+        "f7a390G350101–201EOF",
+        "b76370M2C2E00635EOF",
+        "9a12f7M2C2E01636EOF",
+        "7e3f28M2C2E02035EOF",
+        "dd0146E8301–85",
+        "332ce4E83086–152EOF with clipped110–116 fully recovered198c4b110–118",
+        "b790a8E808comparison100EOF",
+        "6650d3E808E00190EOF",
+        "b8775cE808E00987EOF",
+        "781b68E808E01190EOF"
+      ],
+      "fresh_bounded_consequential_arguments": [
+        "6909f0E821100–137",
+        "19b69fE83590–107 with clippedL99 fully recoveredc49fe3"
+      ],
+      "whole_separate_supplement_and_receipt": [
+        "429a62supplement23EOF",
+        "ed4a34receipt128EOF"
+      ],
+      "adequate_prior_ROOT_meanings": "MAIN480/Phase2 accepted literary meanings and prior Hina/Ako/Iori/Fuuka/Gourmet public grounds reused with exact declared source/actor/locale/outcome limits. E833 actual displaced commission/damage/disputedcause/partyrestart and E848 complete thirty narrative/whole-event/gapspans remain available; no fresh ROOT whole2333metadata or historical-source/proof replay credited. Historical author/source counters stay attributed.",
+      "historical_qualification": "Creation pending/unadmitted/unapplied/frontier/model/merge-reserved descriptions are dated and governed by current Cycle008/Phase3 authority. Presentprobe is exactdbabb; separately frozen346 index witness checked in history, no oldtuple represented as current. G26 cohort shorthand is notGROUP26; negative filename probe is notsourceabsence."
+    },
+    "semantic_grounds": [
+      "Chosen work, sustained quiet study with concurrent paperwork, preparatory shopping, walking, reading, appetite and refusals, coffee offered and wanted company retain intrinsic value beyond project success or public stakes.",
+      "Enabling is particular and contested: Meg first-person wanteddigging account is stronger than peers guessed titlemotive; reciprocal worker rest concern, missingbuses/proposedhijack and suspiciousgift script remain contrary evidence, without inventing election/headcount or completefreedom.",
+      "Actual localself-doubt about authenticMeg precedes rescuecontact and a later explicit request for whatMegwants/notautomaticobedience; this supports reflection without certifying cognition, wholefreedom or universal liberation.",
+      "Study self-presentation and locale differences are attributed tactics, notdiagnosis or all-care simulation. Narrow coat disclosure andJP realdoctor inability/KR overnightinability do notprove qualification or unrestrictedbiography.",
+      "Later sandals-receipt testimony advances beyond BOND unprintedtransfer/descent, while ankleclaims, compensation/refund, shipment, all-partyexit, renewedcontact and safety remain bounded. Genericperson-emptylogs andtyped/native actorseams stayvisible.",
+      "Useful E830 knowledge/promises coexist with school-qualifiedpraise, bagleverage, refusedalignment and actualIchika shootingreport; target/clinicallegaloutcomes remain unprinted. Her subsequentcooperation doesnotcertify mutualfriendship or all consent.",
+      "Commission movedagainstclient andE848switch/explosion retain realcosts; replacementbath, volunteeredwork, returnedmaterials, chosenreading and peersreturn are real finiteachievements, withoutlandtitle/naturalspring/fullcleanup/safetycertificates.",
+      "Mandatorysupplement retains E808 absentreportedKasumi andJP probableforesight/KR specificinstruction as unequaltestimony; Megactualfoundationblast isnotKasumi directappearance/independentlyauthenticatedintent orwhole-districtblast. Nodoka/Shigure independentwantedlives remain opposed to reuseabsolutism.",
+      "E821 positive known-tower/Hod reports remain real scopedcoalition achievements despite laterrevival; prospectiveorders do notgive solo causal/technicalcapacity. E835 contraryabsence/literalheading seam isnotKasumireturn or verifiedwatercourse.",
+      "Recognizedsnowmemory, Hina unnamedaside, oldvoicehistory, uniformedthreat andBodensatzsuspicion donotauthenticate oneorigin/faction/mechanism. Writtenconditions/editions/Answers/modes remain repertoire, not enactedchronology orAV performance."
+    ],
+    "root_new_primary_extent": {
+      "complete_bond": 0,
+      "complete_whole_message": 0,
+      "complete_written": 0,
+      "canonical_partial": 0,
+      "native_raw_AV": 0
+    },
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope": "355packages/29namedsections unchanged; existingP3-CHAR-KASUMI; required directed/ensemble/institution/register duties remain",
+    "progress": {
+      "previous_ROOTaccepted_packages": 47,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 48,
+      "character_packages": 47,
+      "directed_relationship_packages": 1,
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "published_packages": 43,
+      "published_source_commit": "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1",
+      "published_source_audit_chain": "PASS_EXACT_SOURCE_HOUSEKEEPING_NOOP_FINAL",
+      "quarter_reached": false
+    },
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE_WITH_SUPPLEMENT",
+    "mandatory_canonical_derivative_supplement": {
+      "body": "KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_V1.md",
+      "body_sha256": "9972869dcbf8f7f3de540bb5244a073191bd93737c7bf8cfcfc1a6744ac4c89f",
+      "receipt": "KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_RECEIPT_V1.json",
+      "receipt_sha256": "d7a01e901837c9562781f53cb862961d5d7d2d850832e1912559af58d0884af5",
+      "originals": "IMMUTABLE_UNCHANGED",
+      "extra_package_credit": 0
+    },
+    "main_integration": "NONE",
+    "nine_unbound_large": "UNREAD_UNHASHED"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS_WITH_MANDATORY_SEPARATE_PUBLIC_CONTEXT_SUPPLEMENT",
+  "current_required_home": "P3-CHAR-KASUMI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KASUMI_CHARACTER_MONOGRAPH.md",
+    "bytes": 37639,
+    "sha256": "54f242d0bb5e2e0f631a7cd63c8f909e24dd160b28a3b5da99f0d25a5cc1be27",
+    "git_blob_oid_of_actual_bytes": "93aa65c639be295c17b9cf245e48f90c37e9ecff"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "This candidate makes no new entry, adoption, publication or milestone count.",
+      "new": "The original candidate writing supplied no new entry, adoption, publication or milestone count. ROOT subsequently received and accepted the complete character argument with its mandatory separate public-context supplement; persistence follows complete ROOT installation.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    },
+    {
+      "old": "ROOT must independently receive the saved whole prose and receipt, verify exact bindings, and decide canonical adoption with limits.",
+      "new": "ROOT independently received the whole saved prose, receipt and mandatory separate public-context supplement and accepted the complete boundary with limits; canonical persistence follows complete ROOT installation.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    }
+  ],
+  "exact_added_authority_or_custody_paragraphs": [
+    "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KASUMI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KASUMI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Persistence follows complete ROOT installation; source publication, main integration and other required packages remain separate. The355-package/29-section scope is unchanged; no quarter, model or performed evidence is claimed. The prior47-package source publication base is `92184703994a1950a5660654ce52d8516dbe9bf5`; frozen author/control/progress snapshots below retain their dated meaning. Execution requires ROOT’s successful actual exact-head audit chain.",
+    "The [unchanged separate public-context supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_V1.md) and [its qualified exact receiving receipt](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_RECEIPT_V1.json) are mandatory parts of this accepted boundary. The original two supplement files remain byte-for-byte immutable; readable reference translation does not retroactively enlarge custody or supply another package. Report-only Kasumi leadership, the unequal Japanese/Korean prior-intent testimony, Meg’s actual foundation blast, positive bounded coalition reports and the unresolved EVENT835 heading are preserved in full."
+  ],
+  "exact_added_retrieval_title": null,
+  "fixed_publication_snapshot": "Seven accepted packages48–54 only; after complete ROOT installation54=53characters+1directedrelationship; later liveROOT acceptances excluded",
+  "mandatory_separate_public_context_supplement": {
+    "public_body": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_V1.md",
+    "public_receipt_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_RECEIPT_V1.json",
+    "exact_original_body_tuple": {
+      "path": "GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_V1.md",
+      "bytes": 5470,
+      "sha256": "9972869dcbf8f7f3de540bb5244a073191bd93737c7bf8cfcfc1a6744ac4c89f",
+      "git_blob_oid_of_actual_bytes": "073368c3a34e5df2ed4966ca9bdba29e3656f724",
+      "lines": 23
+    },
+    "exact_original_receipt_tuple": {
+      "path": "GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_RECEIPT_V1.json",
+      "bytes": 7939,
+      "sha256": "d7a01e901837c9562781f53cb862961d5d7d2d850832e1912559af58d0884af5",
+      "git_blob_oid_of_actual_bytes": "696f3eb0521ecc10b4bc95d8a17268816e69a3cb",
+      "lines": 128
+    },
+    "body_public_bytes_unchanged": true,
+    "receipt_public_change": "Declared reference translation and current authority wrapper only; exact original retained in immutable transport",
+    "extra_package_credit": 0
+  }
+}

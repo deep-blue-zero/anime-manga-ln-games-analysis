@@ -1,0 +1,1356 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-JURI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_JURI_CHARACTER_MONOGRAPH.md",
+    "bytes": 44827,
+    "sha256": "203b27f1d917106c213bad3a4852b9a07911fd2fbef25992c83cd3c53458904f",
+    "git_blob_oid_of_actual_bytes": "3ba332e1b696178b521eba4244b81345b2ae6738"
+  },
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/BLUE_ARCHIVE_JURI_CHARACTER_MONOGRAPH.md",
+      "bytes": 43653,
+      "sha256": "039b43abb7e85dbaa9f3bd8b94020eb18bdee128938c594a55da332b23760d00",
+      "git_blob_oid_of_actual_bytes": "a4a908eb27a7a23fcbc7cf22e6ec910043f41bfd",
+      "lines": 202
+    },
+    {
+      "path": "ROOT_JURI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5614,
+      "sha256": "506732eaf7e2a87f2512040f8c90ca0825f896a659f03df95dbd0bab52537bf6",
+      "git_blob_oid_of_actual_bytes": "4133087775739d12f7047fa0b50f582260b0b418",
+      "lines": 84
+    },
+    {
+      "path": "GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/JURI_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 110355,
+      "sha256": "3c9352b1c7947b08a4a02e7c43a30981435464b9c074d90c5312443dac8c67da",
+      "git_blob_oid_of_actual_bytes": "29566f01a0534f20a5f7499ee69ed47b0138ce4f",
+      "lines": 2152
+    },
+    {
+      "path": "GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/JURI_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 3587,
+      "sha256": "d0ab82704a54b5e1ff67a7f746b946b690f9027b269bfc00cf298163a4eedbf0",
+      "git_blob_oid_of_actual_bytes": "9022eebb41f26441477e70b1114a03889d383e84",
+      "lines": 49
+    },
+    {
+      "path": "GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/JURI_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 1925,
+      "sha256": "3684981456f33e45509a0b9e9ec12e415606ddf7bb59a2c6910edc18ec23495d",
+      "git_blob_oid_of_actual_bytes": "03ca879a3be2fa643bb99df4b915c9ad57d1b2bc",
+      "lines": 40
+    },
+    {
+      "path": "GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/JURI_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 11269,
+      "sha256": "3bce21a5ec37526ab6436a09b3774b32a5e240cd49ceba76991f0263b39531f9",
+      "git_blob_oid_of_actual_bytes": "a63fa3c8450b3522467219a4bb59a03fda729368",
+      "lines": 58
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_JURI_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_JURI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only frontmatter authority, ROOT acceptance paragraph and declared authority-framing sentences change; no literary meaning, source endpoint, recipient boundary, source credit or identity route changes. Exhaustive saved line joins and changed ranges bind every line through EOF.",
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 3,
+      "line_sha256": "4a4d17106861e6c2a639252b176a028f908e625e83d257f37e87d15e16744209",
+      "line_text": "scope: JURI_BOUNDED_LITERARY_SYNTHESIS"
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 4,
+      "line_sha256": "d9a6c76ea462aa081ba60078be956e4c59721cf7b0bb496f4348531060ec3483",
+      "line_text": "person_key: BA_PERSON_JURI"
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 5,
+      "line_sha256": "4a4a57ba0f3c992223213b6cd439d02ca1c9e6721ad3cbac31170b982c332a36",
+      "line_text": "required_home: P3-CHAR-JURI"
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 6,
+      "line_sha256": "4d8f9733bcb3773e2804bd4fd124f9446a25d17576057927e40885462657f4da",
+      "line_text": "candidate_responsibility: P3-F101"
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 7,
+      "line_sha256": "7dac5eb5b8a95a51cf439c807fd0c11fd6a23cfd463c4f572383e3aa28449ad5",
+      "line_text": "architecture: \"1.12; section7.1 eleven dimensions\""
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 8,
+      "line_sha256": "dca433725e2113a41bd7ea1bf048c40b8cfe9ebbeefcc0997266fd1090647fa7",
+      "line_text": "analytical_base: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 9,
+      "line_sha256": "3d639a1006263fe0efb71adff7cd496284e45b46a8f9c748f161e9019134278e",
+      "line_text": "historical_source_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+    },
+    {
+      "frozen_line": 13,
+      "canonical_line": 10,
+      "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+      "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 11,
+      "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+      "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 12,
+      "line_sha256": "68081b5c8a323b47dd1d32dbd29ceccf1c818c5f7aaa3b01639c19809620148a",
+      "line_text": "source_boundary: \"Complete effective current11V3 private arguments and separate comparisonV2 for seventeen selected BOND/whole-MomoTalk/written objects, complete relevant School Lunch/Gourmet/event/MAIN/MINI accepted arguments at the exact receiving scopes in the receipt. No new primary replay or performed evidence.\""
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 13,
+      "line_sha256": "43ab1ff4f365f558a26b7a8944f8e778786295bec05754bef830648c6ec71980",
+      "line_text": "authority_quartet: \"Current Cycle008 admission; qualified complete accepted analytical meanings with limits; historical reading order/authorship independence UNKNOWN; performed voice UNRECEIVED\""
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 14,
+      "line_sha256": "2fe82b85b6143cfa939066895750da371655d8f098f6031a83eb9ce213aeefc0",
+      "line_text": "retrospective_exposure: \"Prior complete arguments and endings exposed; retrospective synthesis, no independent primary or held-out prediction credit.\""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 15,
+      "line_sha256": "ed2e528e6315754c1403405723fcd84011f6ea85eca3bf6d98f192bf5d3300a1",
+      "line_text": "created: 2026-10-10"
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 28,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 29,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 30,
+      "line_sha256": "c3730a425229c75d1ce12242c19a55fdbcad1826639d8509d0465debe2b20bf5",
+      "line_text": "# 牛牧ジュリ — wanting to cook, learning to offer"
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 33,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 34,
+      "line_sha256": "bfbca83d5768da5be341f0e964cfe99f9987dfacfb7f6e9022dc930bef25e8ed",
+      "line_text": "## 1. Core thesis: failure does not exhaust a desire, and desire does not settle its effects"
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 35,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 36,
+      "line_sha256": "4fa417472fb78715c5552affb9676ad24645c34c876d5066c5f5520cfc725dcd",
+      "line_text": "Juri wants more than permission to remain useful around a kitchen. She wants to cook food that someone enjoys, learn how to do it, experience recognition and share the result. The series makes that desire persist through failure without making failure her entire identity. She has actual achievements: a contest win, trophy and shared return; a particular parfait eaten and appraised; competent cafe service; delicious pancakes and, after harm and further practice, an actual shared meal offered with permission to refuse. Practical ordering knowledge, ingredient curiosity, gardening and work support widen her repertoire. These are valuable in themselves. They are not merely consolation for an allegedly worthless cook. [J01–J03/J05/J07–J10; E820006–008; E844001–002/010]"
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 37,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 38,
+      "line_sha256": "be8ac64904feba82dd82f81198483c4e7128dd8f61cb4e58a606d06abfa287f6",
+      "line_text": "The same sources prevent the opposite simplification. Love as seasoning is her explanation, not efficacy; shotgun tenderizing and increased heat are her theories, not culinary certification. Her curry actually fails. A last ladle changes a shared soup to bad taste, and subsequent repeated attempts leave the final result unresolved. A handmade gift is accepted after protective hesitation, then the adult's consciousness fades. Hospitality juice harms Iori after a genuine hygiene pass. Good intention, persistence, received encouragement and even explicit acceptance do not make every outcome safe or successful. [J04–J06; E810040; G1602]"
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 39,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 40,
+      "line_sha256": "8a23149dd4ff6f8eabc16d34c59f469731cb52c034cf1dcd73e73e7d636818d2",
+      "line_text": "The most substantial development is therefore not “the failed cook becomes infallible.” It is the appearance of a more answerable form of offering. In EVENT844 Juri explicitly permits refusal, reports further instruction and practice, then asks whether Fuuka and Sensei will eat. They accept, and narration actually records shared pancakes and affection. The learned accomplishment has a real endpoint without settling every future dish or repairing all preceding losses. Desire is preserved, recipients can choose, and a concrete success occurs. That conclusion should travel with the earlier fear, coercive workplace pressure, bodily harm and unchanged School Lunch workload. It should not replace them. [E844010:scene003:u0027–0047]"
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 41,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 42,
+      "line_sha256": "af5e62809b4d77ca0443c4b4ee9220d79886b26fb9d902be7d10d0291ab88d22",
+      "line_text": "Juri's quiet life is indispensable to this thesis. Cafe layout, recipes, a uniform, sweet smells, gardening, birthday words, hand warmth and wanted company explain why continuing matters to her. They also distinguish persistence she chooses from work she is pressured to attempt. The monograph treats those ordinary ends as analytical evidence even where they produce no institution-wide reform, and keeps other people's refusal and discomfort alongside them. No culinary mechanism, clinical diagnosis, model grade or universal personality rule is inferred."
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 43,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 44,
+      "line_sha256": "eb5e5b8bf8bf0d86572bec14996660051819282bbceb7a41eece8a9e59d1f7e7",
+      "line_text": "## 2. Longitudinal development: different completed and unresolved outcomes"
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 45,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 46,
+      "line_sha256": "29991382f01288bb6b2bd0699125e4996d53a222603fe01c7f139b05efd5c67a",
+      "line_text": "The seventeen-source private family has seven BOND objects, seven whole linked message threads and three written objects. Variants10114 and26002 are exact identity/retrieval conditions, not an automatically ordered before-and-after biography. Local memories, connected cafe/contest/publicity material and post-Schedule messages permit specific developments. They do not align every profile, event and MAIN scene in a global calendar. The analysis can compare a repertoire while declining to invent a steady chronological cure. [J01–J11/J-CMP]"
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 47,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 48,
+      "line_sha256": "aeac9ecb5de1dafebb3b2bd4792f0a9ad37bc30f65babe23956d18bff3ff6845",
+      "line_text": "The cafe sequence starts with a tentative invitation and an actual visit. Juri serves, orders and listens, and takes pleasure in learning. Ingredient proposals and the manager's bread account show engagement while remaining source-specific claims. The possibility of a competition is not a completed entry in this first object. The next contest object supplies something stronger: actual win, award, trophy and return, despite anxiety and requested support. A score is an organizer's judgment rather than an independent verification of a general algorithm or professional rank. The difference between proposed competition and actual achievement is a genuine local edge, without making Sensei the isolated cause. [J01–J02; `BA:bond:10114:002`; `BA:bond:10114:003`; whole threads101140010/101140110]"
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 49,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 50,
+      "line_sha256": "85dd1918cd13bed5afcacb4523d324d478b7b2476274a5b382cb55f702200ab8",
+      "line_text": "Publicity then complicates recognition. Demand and photography bring pressure, embarrassment and guilt about a senior. The message thread asks to be hidden, but the request alone does not secure protection. Denied allegations about an attack or robot suicide order remain denied allegations, not adjudicated misconduct. Later rest, conversation and voluntary parfait participation yield actual eating/appraisal. Japanese hug and continued eating differ from Korean rushing as if embracing and pleasant time followed by separate late-night return. Recognition has become both pleasure and exposure; the completed meal neither repairs the press record nor establishes quitting or a settled romance. [J03; `BA:bond:10114:005`; `BA:momotalk:10114:thread:101140220`]"
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 51,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 52,
+      "line_sha256": "551023e3845ad71d0cf6c8adb652d140f11a673f999f5da1a8b4a91d251d3840",
+      "line_text": "The ordinary cooking attempts give another, less resolved trajectory. Her first care episode includes tasting, pressure, near-blackout avoided in narration, later inward waking and continued eating. A contemplated medicine option remains recollection of availability rather than prescription or ingestion. The curry episode demonstrates ordering knowledge and bulk-work intentions alongside burned powder, floor loss, flame/overflow and sprinklers. The full message tail acknowledges danger and help, then proposes another method. That is evidence of continued learning, not completed compliance or a tested safe substitute. [J04–J05; `BA:bond:26002:002,003`; whole threads260020010/260020170]"
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 53,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 54,
+      "line_sha256": "f0e1052b34f4721959035fe3a717cdd3d76d0ddf6b338817d0bde8e1241da64f",
+      "line_text": "Repeated experimentation in the soup encounter deserves its actual endpoint. After the last ladle spoils the taste, Juri cries about wanting ordinary successful cooking and the disappointment of the visit. Recognition of effort, a specific hand request and renewed attempts matter. The finalu66/raw137641 depicts repeated joint work, with all-day duration Korean-specific. It does not certify a successful final meal; it also does not prove every subsequent attempt failed. The unresolved result is positive persistence with an unclosed practical question. Converting it into either a miracle cure or total failure would change the evidence. [J06/J-CMP Q03; `BA:bond:26002:005`; whole thread260020350]"
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 55,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 56,
+      "line_sha256": "c64d772b643ebf3aea8cdad4ab9cf56e1b1467d6310ee3b0ecf99350f0d2a4f4",
+      "line_text": "EVENT844 gives a separate ordered account with more closure. Chosen waitressing becomes pressured cooking after the chef's distinct accident; customers genuinely enjoy the pancakes before dangerous movement and attack follow. Juri chooses a real decoy role, later reports instruction/practice, grants permission to decline, and shares food actually eaten. This is stronger than another wish, yet weaker than permanent mastery or clinical safety. It need not be dated after every private attempt to qualify blanket incapacity. It adds a local learned offer and completed pleasure to a repertoire where other attempts remain unresolved. [E844001–010]"
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 57,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 58,
+      "line_sha256": "2b590016fbc8348cd7905daddfe0b4f56c8e6a9324d18e414a14a9d75e5c80f6",
+      "line_text": "## 3. Public and private: recognition can welcome and expose"
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 59,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 60,
+      "line_sha256": "6a11ff560946cc4211b45fa18051cae198b4e81baec6c868fd075771212cff09",
+      "line_text": "In public School Lunch activity, Juri is readily described through assistance, unusual dishes and effects on diners. Private material gives the producer's perspective: she likes cooking, knows some practical distinctions, wants to improve and fears the response to her work. She also chooses a part-time job, requests company and has privacy needs. Her profile reports more failures than successes while remembering rare temporary success. That is a source's qualified self-presentation, not authority to call every meal a failure. [J01–J03/J08–J09]"
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 61,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 62,
+      "line_sha256": "1b70e325069f7604c8050871df8336976f77102810dfa25d68283a032188c7b2",
+      "line_text": "The contest uses work knowledge without equating all competences. Juri refuses violence against customers and relates familiar Food Service volume and handling to the task. Japanese gives about4,000 portions per day where Korean gives unquantified daily logistics. The flag colors/rules also differ. The represented award survives those limits, but neither a shared exact capacity nor verified correctness law follows. A student can perform one difficult task successfully and still struggle to cook a particular dish; success should be described at the relevant practice rather than generalized to every domain. [J02; u47/raw217636; raw217699–217701]"
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 63,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 64,
+      "line_sha256": "61b945d6b13a557bff907c5fe95bb7dd6fb8762150c704b9ce5ce1af317a388b",
+      "line_text": "Publicity creates a cost of achievement. Demand roughly tenfold in Japanese versus over-ten/approximate Korean scaling is reported, not a traffic audit. Juri feels guilt and contemplates return, yet no actual quitting is printed. Inward thoughts and allegations from a reporter have different authority from her own denial. The eventual parfait is actually eaten and appraised, with delicious sweet/salty balance in Japanese and unexpected edibility/salt-umami in Korean. The inability to explain that success does not nullify it. Neither does a good meal prove that unwanted scrutiny has been repaired. [J03; u8,u77,u94,u96; raw217825/217865]"
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 65,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 66,
+      "line_sha256": "e31c730cd43d6ffb92943b66224a842a1e6010532681ebd5728baa71715c532c",
+      "line_text": "The gift sharpens this public/private tension. Juri contacts Sensei, withdraws because she fears burdening him, and gives a bought fallback whose taste is positively received. She had wanted handmade giving but reports earlier tasters collapsing and withholds it to protect this recipient. That is a judgment she makes, not absence of agency. Sensei validates the personal gift and explicitly accepts the handmade version; it is tasted, then consciousness fades. Her smile, craft and remembered support remain positive relational evidence, while the harm prevents a harmless-acceptance conclusion. [E810040:scene001:u0001–0006;scene002:u0002–0034]"
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 67,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 68,
+      "line_sha256": "110328647a4a3ec08df0760f8fec9233c8839a387aabcf0bdac4002b9e339fc6",
+      "line_text": "Juri can therefore want her work seen and also need protection from its public interpretation. The monograph cannot resolve this by reading publicity as deserved reward, embarrassment as hidden universal assent, or withholding as mere incapacity. Recognition is answerable to the actual person, the particular gift and the outcome. The bought first chocolate and handmade second one must stay separate; delicious first taste does not certify the second batch. [E810040:scene002:u0005–0034; J03]"
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 69,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 70,
+      "line_sha256": "f5304ea832fa9219a751742723d90c940d3cb5787505bf05fac3b85a6f63c035",
+      "line_text": "## 4. School and club: a junior's contribution exceeds a dish score"
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 71,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 72,
+      "line_sha256": "587c322ede34b75ea56de409e26a0ba3c827120ae475b7815e9c75c53152cd65",
+      "line_text": "Juri belongs to Gehenna's School Lunch Club/Food Service in the bound literary and identity evidence. She assists work, knows ingredients and order/times, reassures Fuuka, and wants to support service. The written profile attributes Fuuka's encouragement/guidance while acknowledging limited meal contribution. Gardening is partly her practical response to reported budget and supply limits. None of these statements constitutes an audited workforce plan or exact daily output. They do show that her labor cannot be described solely through failed food. [J05/J07/J09; G1601–1602; E820007–008]"
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 73,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 74,
+      "line_sha256": "a68b652b3573ffb339dd3ab383317a01baa776c2c5a69682000a5625f33959cc",
+      "line_text": "Inspection makes the distinction visible. Juri cooperates in catching the early eater, calms Fuuka and supports her hygiene defense. She interprets the test competitively, while Fuuka wonders why hygiene evaluation is turning into a contest. Iori gives genuinely favorable checks and full marks, distinguishes poor taste from hygiene and considers reconsidering the previous grade. Juri praises the fairness. This positive judgment is not fictionalized merely because a subsequent incident changes the result. Nor does it certify every welcome offered outside the checked inventory. [G1601:u0003–0082; G1602:u0001–0057]"
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 75,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 76,
+      "line_sha256": "91ab6a446775f2b8353fc17298ed7b51ff29f78eaa06fc01d074dd6f9342a90b",
+      "line_text": "Juri then supplies fresh fruit juice intended as hospitality, the same preparation reportedly offered to the former inspector. Fuuka tries to stop Iori after recognizing a possible connection, but consumption has happened. Iori becomes unresponsive and Juri interprets sleep. Narration later gives safe waking and actual F. The mechanism is not clinically established, and another budget cut is feared rather than printed. Juri's sincerity neither makes the drink harmless nor proves malicious intent. Her interpretation of Iori's state remains a consequential mistake, not medical diagnosis. Izumi's enjoyment belongs to another recipient and cannot answer Iori's experience. [G1602:u0061–0092]"
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 77,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 78,
+      "line_sha256": "438bd315d43929b31377e1b30eb7c54502cbb72587178ae75ce4c4d1df183a29",
+      "line_text": "The moving pot earlier in the assessment also has limits. Actual movement/attack is represented; Juri's selfhood explanation and training account do not authenticate a new person ontology or successful fight. The club's recurring abnormal food is narrated and reported at particular scopes, without an empirical technical model. Fuuka's brief proposed concealment is her adverse response, not Juri's enacted plan. Keeping directed acts distinct prevents institutional disorder from assigning every bad method to one junior. [G1602:u0015–0037,0084–0092]"
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 79,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 80,
+      "line_sha256": "0b4074dcb4a15bc44f392ab5c3241575c4ad4e9e9e764fda46a60fc21b19b253",
+      "line_text": "The ending of EVENT844 gives direct recognition: Fuuka says School Lunch cannot operate without Juri. Juri appreciates that yet hears the painful implication that she is not a cooking combatant. The pair actually prepare nikujaga with differentiated tasks. Continuing time shortage and lack of recognition remain visible, so indispensability is not structural relief. Juri's later accepted pancakes matter as her own desired contribution beyond being indispensable support. The Fuuka↔Juri relationship, School Lunch institution and ensemble remain separate mandatory packages that must examine unequal work and reciprocal care in greater comparative scope. [E844010:scene002;scene003:u0010–0047]"
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 81,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 82,
+      "line_sha256": "a54e09f978d15ce336f053b4d9b7ece446126aeb1c57f77b06dab42b97baa6ce",
+      "line_text": "## 5. Ordinary life: desired craft, company and cultivation"
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 83,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 84,
+      "line_sha256": "92fbbc927e38ea1347181cc98581b2980bdc1bec96f012b0362d5e780d308b7a",
+      "line_text": "Juri likes learning in a cafe, notices layout and recipes, values a uniform and considers the irony of a waitress resting. Part-time work can feel manageable against Food Service burden while still being chosen work. Her imagined customer enjoying a dish makes her happy before any such customer appears. Birthday words themselves please her; birthdays, New Year tours and holiday invitations remain particular wanted activities rather than automatically fulfilled episodes. Ordinary desire need not wait for a contest or public emergency to acquire analytical value. [J01/J08–J10]"
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 85,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 86,
+      "line_sha256": "203e72d3f626ed5bbaabc86945a9708b93353508a0bfda6a2f9edcf85fb66e67",
+      "line_text": "The successful parfait has special weight within this range. It is actually prepared, eaten and appraised; company and conversation are fulfilled. The written claim that parfait may be her strongest or only dish is a separate self-appraisal, not another enacted tasting. Even the method varies in wording: Japanese simply stacking ingredients versus Korean stacking them well. The local success does not explain all cooking, but it demonstrates a wanted practice becoming pleasant shared experience. It should not be buried beneath the more spectacular failed curry or pancake emergency. [J03/J08]"
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 87,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 88,
+      "line_sha256": "e61c1fcb7faf986b05e58da7c9483161990c0b40fa5678daf23227e0fcaf68b4",
+      "line_text": "Gardening adds another practice without replacing cooking. The episode gives a large field and actual help; supply shortage, volcanic fertility and growing ingredients to assist the club are her accounts, not a procurement or geological audit. She enjoys both activities. Sun protection, reading, exchange and embarrassment have ordinary relational value. The final wait is nevertheless unresolved: Japanese says she appears not ill and does not return during the wait; Korean gives long waiting and gardening alone. Neither establishes a common medical diagnosis, permanent disappearance or fulfilled romance. [J07; `BA:bond:26002:006`; u60–61/raw137762–137767]"
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 89,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 90,
+      "line_sha256": "b3dc4e220ab49f885db3f7e7e885c7955986e6e8feb605fa35a5717deb2a38ff",
+      "line_text": "The complete gardening thread prevents the BOND ending from becoming a total absence story. After the Schedule boundary, Juri apologizes, responds that she is fine to health/heat concern, begins or rejects an explanation depending on locale, then withdraws it. Another gardening/help invitation under weaker sun remains future. Her self-report has evidential value without adjudicating cause. The wanted next meeting matters even though its occurrence is unprinted. [J07; `BA:momotalk:26002:thread:260020490`, raw2604–2607]"
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 91,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 92,
+      "line_sha256": "25779863a21576598452b4eadd6f7749f0d8597c57ee9d8fb40fad10b065eb3a",
+      "line_text": "In EVENT820 Juri enjoys unfamiliar shopping and wants to help and study. Cabbage/pork knowledge is ordinary competence; actual merchant refusals and shortages limit its implementation. She explicitly questions a necessity defense by asking about people who refuse. This is independent practical and moral participation rather than a junior repeating an adult's lesson. Finished carrots and joint preparation have finite positive force, while the final better-cooking/peace wish does not cancel the reported sea-bream rampage. Food learning, company, contribution and imperfect results remain simultaneous. [E820006–009/013–015]"
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 93,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 94,
+      "line_sha256": "5c4aea0beec125e0941a44d2e4b0dd446d104d502cdd1ad539eed8ca0167f8c0",
+      "line_text": "Wanted hand warmth in the repeated-attempt episode also deserves its own degree. Japanese asks continued holding; Korean asks holding near her. It is a specific request amid disappointment and renewed effort, not general bodily permission, treatment or settled mutual romance. Crying does not make the wish merely a symptom, and comfort does not make the dish solved. The scene preserves effort and company without requiring success as their only justification. [J06; finalu66/raw137641]"
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 95,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 96,
+      "line_sha256": "f1e16c12cf3036ef08927588fb7856ac7b2bdfebe304f53b840419a5ee44cfcd",
+      "line_text": "## 6. Crisis conduct: chosen responsibility and its practical limits"
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 97,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 98,
+      "line_sha256": "1ad5c7f3ad35dad39757fed40a7d53180c9f17b58d3f123e8e657d5f13cb0194",
+      "line_text": "MAIN S2V002 gives Juri and Fuuka skeptical ordinary work amid war rhetoric. This is differentiated conduct, not a tested immunity or proof that kitchen staff share one biological susceptibility rule. The broader sequence includes confinement, supply coercion, counterbroadcast, pain, local reconsideration and narrative closure. Juri's ordinary contribution can illuminate the freedom claimed by institutions without assigning her control of the mechanism or committee recovery. Fuuka's ration refusal is Fuuka's act; it should not become Juri's individual resistance by shared affiliation. [S2C1E016–017; S2C2; complete S2working§8]"
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 99,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 100,
+      "line_sha256": "bdc951c9664f945970e0bd371af39a0b912d78c23f8505d963be1e2a4c1053b4",
+      "line_text": "EVENT844 gives a much fuller personal crisis. Her initial waitress shift is chosen, and she declines permanent cafe work because School Lunch matters. The chef's burner accident follows a passerby's admitted gunpowder spill; it is not Juri's cooking. The manager pressures her to cook despite her stated inability and offers to recruit Fuuka. Juri elects to try in order to protect Fuuka's rare holiday. Her desire to help is actual, but it develops under workplace pressure and fear; calling it either pure coercion or unconstrained confidence would miss the decision's conditions. [E844001:scene002:u0020–0027;scene003:u0023–0057]"
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 101,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 102,
+      "line_sha256": "9a2156d067529cea1a8c19620ed1980f0ec26fb4f09484f602f03f40d0078b08",
+      "line_text": "The pancakes' success precedes harm. Customers actually eat and call them delicious, Juri experiences disbelief and happiness, then moving food frightens/attacks people and escapes. Her wish to taste first was bypassed by serving. Fuuka chooses to help after hearing the problem, with the day off still interrupted. Later medical responders' explanations are in-world assessments; no chemical proof, universal safety or victim death is supplied. The accident deserves accountability without retroactively erasing a genuine good taste or making malicious intent its cause. [E844002–004]"
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 103,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 104,
+      "line_sha256": "41e8ed59c81c913340deb5c68882963116a363a1810ea0d38b80a83bc427c731",
+      "line_text": "Juri then makes an independent decision grounded in wanting to cook again. She recalls the genuine happiness, resolves to distract the creature and actually stops its movement as a decoy. This is more than a future bravery claim. It works within a collective operation: Ako is incapacitated, firing authority is blocked, Hina transfers control for this operation, Sensei orders fire, and responders act. Death-flag language does not cause an actual death. Her contribution is substantial without proving invulnerability or making her solely responsible for the solution. [E844008:u0061–0081;009]"
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 105,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 106,
+      "line_sha256": "7004b02014c033f047936be104937d59017dabe3a410f02c6cbce5458b822d51",
+      "line_text": "At the end, she is found with Ako and the smaller creature. Ako's revenge triggers another face attack; Fuuka actually bins the creature as unhygienic food, and Juri resists the abrupt disposal while acknowledging the concern. Later stopped movement and narrated closure do not give complete victim/cafe/city repair. The several-days-later shared pancakes supply a local learned accomplishment, which should be neither diminished to a promise nor inflated to rehabilitation of the entire kitchen. Juri's literal permission to refuse changes the offering itself. [E844010:scene001:u0052–0059;scene003:u0027–0047]"
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 107,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 108,
+      "line_sha256": "f72f759a6eb8c517b491266029d1ef3c87eefe5aa971d8f327442997f7a996d6",
+      "line_text": "The written event context keeps her self-blame, need to act and Gehenna belonging, but these remain her formulations rather than independently audited causal responsibility. Japanese closing thanks for managed matters differs from Korean optimism with Sensei present. Publicity in EVENT833 similarly has indirect supplier/prototype evidence and a later Pan-chan rampage report; neither proves Juri physically caused the earlier philosophical speech. Strong crisis claims must follow actual actions and endings, not convenient blame through a repeated food motif. [J10; E833005/008–010]"
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 109,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 110,
+      "line_sha256": "c606343b4b295955945c45e0c23550575697eb59f71d025aa8fbd0788c46ddb3",
+      "line_text": "## 7. Sensei: recognition can sustain effort and still underestimate risk"
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 111,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 112,
+      "line_sha256": "85f5cceab55e67e4d9d469c98dc197e5d3930cc7cfbb132c488ae252f85b53fc",
+      "line_text": "Sensei gives Juri particular support: an actual cafe visit, listening, contest encouragement, privacy-oriented company, voluntary parfait participation, recognition during repeated attempts and gardening help. These acts can matter even without permanent skill improvement. They should not be retold as the sole cause of her win or as all future invitations being accepted. Complete message threads retain prospective requests, sequential Answers and condition-zero pairs; printed alternatives are not a cumulative flawless adult performance. [J01–J07]"
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 113,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 114,
+      "line_sha256": "9a91cb827957e9fcdbb0e2d942d3d040ce080a5ae364bdfdef97b7ed53775bf6",
+      "line_text": "The contest is especially clear. Anxiety and a conditional hand request precede actual success, but an award does not isolate which contributor produced it. Juri's own Food Service experience and refusal of violence have independent weight. Adult bewilderment and differing closing order in the locales also qualify complete understanding. Recognition can be deserved while the adult lacks a complete account of how the task was solved. [J02; raw217699–217701]"
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 115,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 116,
+      "line_sha256": "3db0a7d0d3284c2bc5baa313f8313ecb420c03b7489f53fea90c2606da1ac6d9",
+      "line_text": "The feeding encounter supplies serious contrary evidence. Courtesy pressure and concern coexist with continued eating and unclosed recovery. Juri interprets fatigue; the adult's inward waking and final continued eating do not authenticate that explanation. The medicine option is contemplation only. The gift encounter likewise has explicit adult acceptance after Juri's protective withholding, followed by fading consciousness. Emotional validation is real, yet dismissing risk does not become good judgment merely because the gift was personal and appreciated. The adult has duties as a recipient as well as a source of reassurance. [J04; E810040]"
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 117,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 118,
+      "line_sha256": "9fe104e73b6f288fef2df2a5faba5f8ddc45743a681f0f2efc34f221791c5e51",
+      "line_text": "During the repeated soup attempts, acknowledgment of effort and the particular hand request avoid treating her only as output. They do not complete the dish or prove a therapeutic result. In the publicity episode the request to hide and unwanted scrutiny need practical outcomes, not presumed consent inferred from later gratitude or a locale-specific hug. A wanted relationship can contain comfort and privacy pressure together. [J03/J06]"
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 119,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 120,
+      "line_sha256": "9d5ddb6241a01686456a45e467ac33c1e8fe929aac43988c743dfde9840e8a3a",
+      "line_text": "EVENT844 has both a dangerous attempt and a more answerable close. Sensei coordinates help and receives operation-bound command, while Juri's real decoy and peers' independent acts remain necessary. At the final food offer, refusal is explicitly available and Sensei accepts with Fuuka; eating actually occurs. This local response respects the terms she states and recognizes further effort. It does not establish that the teacher can certify every future dish or that Juri must use him as every first taster. [E844009–010; J07/J08]"
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 121,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 122,
+      "line_sha256": "2c739c051d2cfb4ec2fd07737df18cf36335d278ebeba87a5bc82c6538f2b9b7",
+      "line_text": "The appropriate Sensei reading is therefore situated support with limits: he can sustain practice and welcome the person while misjudging risk, failing to settle a privacy problem or lacking technical understanding. Juri's desire is not created by him, and her whole ordinary life is not measured by his approval. Separate Sensei ethics remains required for the broader comparative duty and authority questions."
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 123,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 124,
+      "line_sha256": "25d3dc7a6b82b226d1a008d8f6bc0fc97cc30df1cecd6a644187c887530bab7f",
+      "line_text": "## 8. Peers and recipients: offering instruction, protecting rest and respecting refusal"
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 125,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 126,
+      "line_sha256": "15107e59fa6f1b83eb312ffa62c9c2f545e24592d2934bd2e20a54bc093820d1",
+      "line_text": "Fuuka is an encouraging senior and a working partner whose needs can differ from Juri's. Juri reassures her, assists preparation, wants her holiday protected and later appreciates recognition of indispensability. Fuuka can also question competitive escalation, warn about the juice and dispose of the creature in a way Juri resists. These are distinct directed acts, not a permanently flawless mentor/junior relation. The wish to avoid burdening Fuuka becomes concrete in the cafe crisis, but choosing to attempt the work does not guarantee that it protects her rest. [G1601–1602; E844001–002/010]"
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 127,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 128,
+      "line_sha256": "c13b9e94766f4160d012368d753d8674c85c5cb04f7ffbeaa6319d04a7266299",
+      "line_text": "The club-trial MINI gives Juri a positive teaching role. Erika reports limited ingredient experience, Kirara none; Juri offers instruction and a tour while Fuuka explains dinner pressure and the missing truck. Japanese refers to thousands of portions without Korean's daily qualification. The moving omelette and offered high-five lead to retreat and interrupted instruction. Curiosity and willingness to teach are positive even though no program, cooked meal or mastery is completed. Kirara ultimately chooses none of the visited clubs despite enjoying experiences; access and pleasure do not compel membership. [MINI70002020:u0076–0132;u0194–0256; complete effective65-line argumentP03/P06–P07]"
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 129,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 130,
+      "line_sha256": "64062231613dc313622e676644e6788eb99a9020e8455921740cea0de480d018",
+      "line_text": "Other MINI scenes put Juri in the position of a misinformed recipient. She assumes unreachable Fuuka is with the gourmets; later reassurance describes protection while concealing Fuuka's actual restraint. Her trust rests on that report, not informed consent to captivity. Fuuka's forgotten contact also matters, and the cookies are genuinely completed and enjoyed. A warm culinary encounter, parental-sounding protection language and a tremendous chase do not show release or returned lunch. Juri's concern should not be used to authorize the methods concealed from her. [MINI70006010:u0025–0071;70006020:scene003:u0064–0090]"
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 131,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 132,
+      "line_sha256": "5becb3ced76347d8f68ec1b3c6abbbb78fd22e34f111a61e9877946a03b0620d",
+      "line_text": "Iori is a recipient with a contrary bodily response. Juri praises her fair assessment then offers harmful hospitality; Iori's waking/F is the actual result. Izumi's enjoyment remains genuine without universalizing it. Cafe customers have a delicious initial meal and later fright/attack; one person's good taste is not everyone's later safety. The unnamed tasters in Juri's gift are reports, whereas Sensei's fading consciousness is narrated. Those distinctions make the costs answerable without inventing identities, diagnoses or a uniform audience. [G1602; E844002–003; E810040]"
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 133,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 134,
+      "line_sha256": "35215cc7232d281ddbb7e361ccc188812a6a0349fc6ca39dd1804dd2ec343df3",
+      "line_text": "EVENT820 gives Juri independent concern and initiative within a group often organized around Haruna. She questions the proprietor's right to decide about closure and later challenges necessity rhetoric about those who refuse. She wants to help, study and shop, shows ingredient knowledge, and contributes completed carrots. Fuuka's own new agreement and opposing workers' possible costs remain independent decisions. Juri's final peace/better-cooking wish is still a wish, while the sea-bream rampage report is contrary evidence. Neither all-purpose solidarity nor blanket chaos explains this differentiated agency. [E820002/006–009/013–015]"
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 135,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 136,
+      "line_sha256": "e29f4a3162540b4816733587c40c2484c8c38c6fae641c5a92b98ba889bb994f",
+      "line_text": "Juri's peers thus need her as more than an unsuccessful cook, while she needs them as more than an approving audience. Encouragement, practical aid, attempted teaching, gratitude, refusal, pain and misinformed trust have different recipients and endings. The separate directed and institutional packages must retain those differences rather than extract one relation-grade increase from every shared meal."
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 137,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 138,
+      "line_sha256": "f6ba7b8629c48d9631306dd0f24a5ee392ac7794a4e4556929a09c1318b3b98f",
+      "line_text": "## 9. Written Japanese, source modes and exact identity"
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 139,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 140,
+      "line_sha256": "b2230cd658f6119c137ab0ee6efb8563b41e49a8691d8c4d492238a1faa8e0e7",
+      "line_text": "The bound person is牛牧ジュリ/BA_PERSON_JURI, with variants10114/CH0286 and26002/Juri_default. Normal costumes1011401/2600201 and event1900935101→OriginalCharacterId10114 are specific metadata conditions. They do not authenticate a stage of development, a MAIN calendar placement or the actor of every anonymous passage. Seven BOND/whole-message joins are positive source dependencies; family and comparison repeat them without adding source credit. Historical draft/noncurrent wrappers and ca965 recommendation states are retained under the current Cycle008 maintained admission rather than rewritten. [J01–J11/J-CMP; current Gehenna20 account420–602]"
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 141,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 142,
+      "line_sha256": "291f19cc18a8fec00c2b9a69864189e58a235bcff27d89782fd90b0e51dd4528",
+      "line_text": "Her written repertoire has questions, hesitations, gratitude, recipe curiosity, embarrassment, emphatic resolve and particular requests. This supports literary register without acoustic claims. The10114 profile has53 normal contexts, with recipe thought9078 as Think;26002 has40, including empty UITitle806 and Think841/842. Event1900935101 has76 physical rows,38Event844 +38Event10844, not76 episodes or encounters. LobbyTalk versus Shop/MissionUITalk, null rank, edition visibility and CV differences remain written conditions. Voice/duration/animation/video fields give no inspected sound or acting here. [J08–J10]"
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 143,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 144,
+      "line_sha256": "55e7c0ace74f4775261b8ac0cd798a5615be6d3893f78ee34227f27a2220fbab",
+      "line_text": "Mode distinctions affect agency. Generic #st/log taste/gardening passages retain typed narration/person-empty, not secure named performed dialogue. Parenthetical named dialogue is not automatically inward, and inward ns selections are not extra formal options or guaranteed spoken instructions. The repeated recipe branches remain separate records. Whole messages include post-Schedule acknowledgment of danger, planned new methods, apology, claimed health and withdrawn explanation; stopping at the launch witness would omit consequential endpoints, while turning later reports into narrated acts would overstate them. [J03–J07/J11]"
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 145,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 146,
+      "line_sha256": "4c16604ab1015a79b21b1fb56be1bbd376876f885d99bc8a2241179f943e2234",
+      "line_text": "Locale distinctions are equally consequential. Japanese margarine versus Korean cream cheese, milk/lemon/cottage cheese versus cream-layer accounts, red/white versus blue/white flags, pork-miso versus doenjang soup and taste-adjusting versus separately cooking/exchanging are not one common verified method. A Japanese hug differs from a Korean as-if-embracing rush. Japanese consciousness recedes in the gift; Korean additionally gives sudden collapse from the seat. Normal profile acid comparisons differ and do not narrate actual acid use. Keeping these precise conditions supports rather than obstructs a meaningful literary comparison. [J01–J04/J06/J09; E810040]"
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 147,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 148,
+      "line_sha256": "8c33a0cddc878f215dc6401c78ce411189d71fd918255a48f6c813d815e1dacf",
+      "line_text": "Public sources retain actor seams and reported layers. G09 is an analytical context for procedure/budget comparisons, not a new Juri attendance or admission claim. G06 School Lunch is separately actual group evidence. E833's supplier/prototype history and Pan-chan report do not establish who caused altered speech. E844's literal drifts qualify precise voice assignments while strong nearby actions and narration support service, decoy and shared-food endings. No written idiom about love, miracles, selfhood or death flags is converted into romance status, chemistry, person ontology or actual death. [J-CMP; G1601–1602; E833005/008; E844]"
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 149,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 150,
+      "line_sha256": "61864aa0b07a8e879b41fd5d6f2a8330825c981ca381de9efe978cec16b883d9",
+      "line_text": "## 10. Rival readings and finite endings"
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 151,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 152,
+      "line_sha256": "80618b651d465afddbbb0ca3362d731b62ff804c2b4b9e8d63477921827f20e8",
+      "line_text": "**The permanently incapable cook.** Failed curry, last-ladle transformation, moving food, juice harm and gift distress support real practical limits. They do not erase contest success, actual parfait, customer praise, learned pancakes, ingredient knowledge, service and assistance. The private profile itself reports rare successes amid more failures. The better reading specifies which practice succeeds, which fails and which remains unresolved. Juri's desire does not need permanent professional rank to deserve analysis. [J02–J09; G1602; E844]"
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 153,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 154,
+      "line_sha256": "a55fad8b9d1b2ffdea53093905b342d879730b0fad53355035359bb3c00d8a3c",
+      "line_text": "**Persistence guarantees improvement.** Repeated research, tears, encouragement and later instruction support effort. The final repeated soup attempts remain unresolved, while a failed curry's proposed replacement is unprinted. EVENT844 gives an actual particular improvement and shared meal; it does not retrospectively close every experiment, establish a mechanism or guarantee every future offering. The moral value of continued effort and the practical success of one dish are related questions with different evidence. [J05–J06; E844010]"
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 155,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 156,
+      "line_sha256": "042b4d3ba3cea0f32dc34c1260a2078e87d1ff457265b45543d6b88e33a779c2",
+      "line_text": "**Affection makes risky food harmless.** Love-as-seasoning, handmade giving and acceptance create relational meaning, but gift consciousness loss and Iori's juice distress remain adverse. Juri's protective withholding and bought fallback show that she herself can recognize risk. Adult reassurance can override rather than answer that judgment. The final refusal-permitted offer improves the terms of interaction, without becoming a clinical safety certificate. [J04; E810040; G1602; E844010]"
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 157,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 158,
+      "line_sha256": "e9acae3f5ee56db808fabb1bbd47c91ae13caf615e7f6bf3f90cdb50760e2b05",
+      "line_text": "**Work success requires surrendering the desired craft.** Cafe service, contest skill, gardening and practical support show wider ability; they could invite the conclusion that Juri ought simply to abandon cooking. The sources instead say she enjoys cooking and wants ordinary successful food, while also enjoying the other practices. Her refusal of permanent cafe employment and later choice to distract the creature are grounded in that continuing commitment. Diversifying competence and supporting a junior do not require replacing her own desired end with an analyst's more efficient occupation. [J06–J10; E844001/008–010]"
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 159,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 149,
+      "canonical_line": 160,
+      "line_sha256": "d94f3da1848608e18a1d7334b11f2a0d21a93ea688ebae90aaa58447fc945896",
+      "line_text": "**Sensei produces all of her growth.** Particular encouragement and company are real. Work experience, research, recipient feedback, manager pressure, Fuuka's support, Juri's decoy and Hina's delegation are independently consequential. The contest score does not isolate the adult's cause; the gift shows reassurance failing to guarantee safety. Recognition can accompany effort without owning its origin or outcome. [J02/J04/J06; E810040; E844]"
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 161,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 151,
+      "canonical_line": 162,
+      "line_sha256": "744c1d15c956caed0398e2086921b700f43afa906f08e442a2092be2e0914ca7",
+      "line_text": "**Comic ending cancels accountability.** The gift's positive validation coexists with harm, the inspection ends in actual F, the MINI ends in chase without release and the curry in adverse aftermath without replacement meal. Conversely, contest trophy/return, parfait and E844 shared pancakes are actual positive endings that should not be demoted to wishes. The event's closed emergency does not compensate the cafe, repair buildings, guarantee all victims' health or relieve kitchen workload. Both finite accomplishment and unfinished accountability belong in the portrait."
+    },
+    {
+      "frozen_line": 152,
+      "canonical_line": 163,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 153,
+      "canonical_line": 164,
+      "line_sha256": "d2c46dfeb883970cf5020470ce40c981447ff5d87ac6da20dde4359ff84c42c2",
+      "line_text": "The preferred reading is a student who wants a practice and its shared pleasure, whose capacity is uneven and whose offers can change. She learns, fears, asks, refuses, misjudges, helps and sometimes succeeds. The conclusion is strongest when particular recipients and completed actions remain visible. It is retrospective deep literary synthesis, not a predictive mechanism or permanent behavioral rule."
+    },
+    {
+      "frozen_line": 154,
+      "canonical_line": 165,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 155,
+      "canonical_line": 166,
+      "line_sha256": "473556b452c5607c58da7f279e720bdeda1cbd5bbc2ae2d0db0a72e7ce6a79c7",
+      "line_text": "## 11. Evidence and claim-specific remaining limits"
+    },
+    {
+      "frozen_line": 156,
+      "canonical_line": 167,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 157,
+      "canonical_line": 168,
+      "line_sha256": "4080c6d6ff4183022332c31a53c3fe0681db49234c672c39e8cb51dfc70921a4",
+      "line_text": "J01–J11 identify the effective current11V3 accepted private bodies, with J01/J03/J06 focused successors and J11 corrected checkpointV2; J-CMP is the separate corrected comparisonV2. Exact full paths, hashes, source bindings and complete versus partial receiving frames are in the separate receipt. These references add no extra primary objects. The public map preserves adequate complete arguments and their current status instead of inferring unreadness from historical headers."
+    },
+    {
+      "frozen_line": 158,
+      "canonical_line": 169,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 159,
+      "canonical_line": 170,
+      "line_sha256": "723188e360347451dd225c6d76da90cd1897918a3cd6cf4547b3e2865e68e586",
+      "line_text": "| Reference | Exact source responsibility |"
+    },
+    {
+      "frozen_line": 160,
+      "canonical_line": 171,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 161,
+      "canonical_line": 172,
+      "line_sha256": "cabc9b4633d41fee0b3f85393743c77ddd507c94691373a6f26c06d0660007a3",
+      "line_text": "| J01 | `BA:bond:10114:002` + whole `BA:momotalk:10114:thread:101140010`: cafe visit/order/listening, conditional choices and learning. |"
+    },
+    {
+      "frozen_line": 162,
+      "canonical_line": 173,
+      "line_sha256": "3a4bafb7a7526a8cac72b97e054281375c2d7c00d9616a4e41648312dfb2d258",
+      "line_text": "| J02 | `BA:bond:10114:003` + whole `BA:momotalk:10114:thread:101140110`: actual win/award/trophy/return, u47/raw217636 and raw217699–217701. |"
+    },
+    {
+      "frozen_line": 163,
+      "canonical_line": 174,
+      "line_sha256": "78af966dc71fe5d2460c9f89b5302e870595b089cce700bbd087ed5d6b4c27fa",
+      "line_text": "| J03 | `BA:bond:10114:005` + whole `BA:momotalk:10114:thread:101140220`: privacy pressure, actual parfait/appraisal, u77/raw217825 andu94/raw217865; contact locales distinct. |"
+    },
+    {
+      "frozen_line": 164,
+      "canonical_line": 175,
+      "line_sha256": "ddf556a8e214d8f994fbff69da53257bbc189489bd399256caf950152d557303",
+      "line_text": "| J04 | `BA:bond:26002:002` + whole `BA:momotalk:26002:thread:260020010`: pressure, uncertain quantity, continued eating u68/raw137411, contemplated medicine choice21/raw137406. |"
+    },
+    {
+      "frozen_line": 165,
+      "canonical_line": 176,
+      "line_sha256": "d788f07b507ac4f2d60d94bcc079dd6bcbf5610a6b9706138d4e42af9e0232a7",
+      "line_text": "| J05 | `BA:bond:26002:003` + whole `BA:momotalk:26002:thread:260020170`: knowledge/failed curry, u57–67/raw137515–137519; post-Schedule danger acknowledgment/new plan. |"
+    },
+    {
+      "frozen_line": 166,
+      "canonical_line": 177,
+      "line_sha256": "e6670216e10f2fb0d357c2eb42cff008fc59a7ea7fc8e70c99bf7b4610fbe9c2",
+      "line_text": "| J06 | `BA:bond:26002:005` + whole `BA:momotalk:26002:thread:260020350`: failure/recognition/hand request, final repeated attempts u66/raw137641 unresolved. |"
+    },
+    {
+      "frozen_line": 167,
+      "canonical_line": 178,
+      "line_sha256": "560cc68937a7836a60ed40d91d21349a063d8bccbf02e60396a3178f4b7f8ff7",
+      "line_text": "| J07 | `BA:bond:26002:006` + whole `BA:momotalk:26002:thread:260020490`: gardening/help/wait, u60–61/raw137762–137767 and post-Schedule raw2604–2607. |"
+    },
+    {
+      "frozen_line": 168,
+      "canonical_line": 179,
+      "line_sha256": "5fc51141e0865805b71537354c513a13c354f17f761e73dd0facd9734d940a77",
+      "line_text": "| J08/J09 | `BA:character_data:10114:profile_and_dialog` /`BA:character_data:26002:profile_and_dialog`: full written profiles,53/40 normal contexts, explicit Talk/Think and empty title. |"
+    },
+    {
+      "frozen_line": 169,
+      "canonical_line": 180,
+      "line_sha256": "9cd2c12717a03af1d9f23d970a3bd56ded5e226c59119ada7588718704afd285",
+      "line_text": "| J10/J11/J-CMP | `BA:character_data:event_costume:1900935101:character:10114`,76 contextual rows; zero-extra family17 and separate comparison. |"
+    },
+    {
+      "frozen_line": 170,
+      "canonical_line": 181,
+      "line_sha256": "664bb4d08304cee900aed594f3557e94900bd0fa6eb0e2e7348eb4a030d03429",
+      "line_text": "| G06/Gourmet/G09 | Complete GROUP1601–1602,1101–1104 and1901–1902 accepted arguments; actual School Lunch roles versus separate analytical G09 context, no substitution. |"
+    },
+    {
+      "frozen_line": 171,
+      "canonical_line": 182,
+      "line_sha256": "a88470caf3ab6c9f09fd4a227a16a00ff95415fc88e1a681e42b90bdceafaa77",
+      "line_text": "| E810040 | Complete gift040/raw80000040 argument: bought first gift, withheld handmade gift, actual handmade tasting/fading consciousness; two scenes and choices remain separate. |"
+    },
+    {
+      "frozen_line": 172,
+      "canonical_line": 183,
+      "line_sha256": "caf7126734d3c44eec23814485b30a02006d7b96842a500dc99fecf61ae0ba9a",
+      "line_text": "| E820 | Complete current15-object culinary-event comparison: `BA:event:820:001–015`, ordinary work/learning/refusal/worker concerns and victory/festival limits. |"
+    },
+    {
+      "frozen_line": 173,
+      "canonical_line": 184,
+      "line_sha256": "ec5d1f1edbcda961668b01b86a9f53435fbc67c63455e44546379b3a241b8763",
+      "line_text": "| E844 | Complete current10-object checkpoint: `BA:event:844:001–010`, chosen service, actual good taste/harm/decoy and final refusal-permitted shared food. |"
+    },
+    {
+      "frozen_line": 174,
+      "canonical_line": 185,
+      "line_sha256": "0ee2a2d452ba4ad629af50dfb93b73f97bc0b6fe5f540b6db34c5ad7caf7a48a",
+      "line_text": "| E833 | Complete current10-object checkpoint: `BA:event:833:001–010`, supplier/prototype and reported rampage/cause limits; no invented physical role. |"
+    },
+    {
+      "frozen_line": 175,
+      "canonical_line": 186,
+      "line_sha256": "324fbb3d430b0b5ea9a31a3df0d1a62f7eb5c12301a12297bbbba69692453a3d",
+      "line_text": "| MINI02020 | Complete effective source argument and prior complete MINI32: `BA:mini:70002020`, actual tour/instruction offer and interrupted lesson, not mastery. |"
+    },
+    {
+      "frozen_line": 176,
+      "canonical_line": 187,
+      "line_sha256": "f532b69be564982f71c461e7005093c924cd1cadec83b59070b26370cd5fed29",
+      "line_text": "| MINI06010/06020 | Complete MINI32§8: `BA:mini:70006010` /`BA:mini:70006020`, mistaken concern/report-based trust/captive cook, actual cookies and unfinished release. |"
+    },
+    {
+      "frozen_line": 177,
+      "canonical_line": 188,
+      "line_sha256": "467d0e2a6bb568b5bcddb7b087590088ccd9a90c58cfd861637d8d3bd6162bc6",
+      "line_text": "| MAIN | Complete S2V002 C1/C2 checkpoints and prior whole705-line current working account, fresh connected531–705; actual skeptical work and separate actor/aftermath boundaries. Final is received comparison context, not automatic Juri appearance credit. |"
+    },
+    {
+      "frozen_line": 178,
+      "canonical_line": 189,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 179,
+      "canonical_line": 190,
+      "line_sha256": "c85bd87f34d70642d8c628947afc78cab450c696eea97502cfcc66da34d20148",
+      "line_text": "All fourteen original gaps remain OPEN at the following exact claim limits."
+    },
+    {
+      "frozen_line": 180,
+      "canonical_line": 191,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 181,
+      "canonical_line": 192,
+      "line_sha256": "369097d23463ae724aac45ecfc678838e4a1a68c38ff7d372c6997c1dc974e87",
+      "line_text": "| Gap | Juri-specific contribution and remaining debt |"
+    },
+    {
+      "frozen_line": 182,
+      "canonical_line": 193,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 183,
+      "canonical_line": 194,
+      "line_sha256": "f5733984183dfe2ead0543d3ff1232a1cbe5dd626de7be17879a16b700ac347f",
+      "line_text": "| G01 | Seventeen selected private/written sources and complete message tails give substantial desire, learning, failure, success, privacy and cultivation. They do not close wider unselected source modes or other characters' ordinary range. |"
+    },
+    {
+      "frozen_line": 184,
+      "canonical_line": 195,
+      "line_sha256": "b82a57cf79c8a4cdf537c89ce783546d628dead817f5d2089fd7f87fdbcf83dd",
+      "line_text": "| G02 | Comparison of practical support and consent does not finish Yuuka transfer/budget questions or supply common institutional terms. |"
+    },
+    {
+      "frozen_line": 185,
+      "canonical_line": 196,
+      "line_sha256": "689906e4756ddd3097fefa21f03f485f4c251c9de63138a924954fa039cc8ca8",
+      "line_text": "| G03 | Work pride, pressure and knowledge give a comparison for Serika, not her complete reciprocal labor history or universal employment conditions. |"
+    },
+    {
+      "frozen_line": 186,
+      "canonical_line": 197,
+      "line_sha256": "7df0075735547136840f9a42c6fdfa4ba0f7694e70e65d1ab2160971648e24ae",
+      "line_text": "| G04 | School Lunch and medical/public response preserve affected recipients and institutional work; Hina's wider crisis/repair obligations remain separate. |"
+    },
+    {
+      "frozen_line": 187,
+      "canonical_line": 198,
+      "line_sha256": "f71d87845d1247029ead153537d321fb104f274ecacdc40d951abf36a30a9462",
+      "line_text": "| G05 | Repeated effort and support are comparative terms only, not Arius/PS68 aftermath, forgiveness or restitution closure. |"
+    },
+    {
+      "frozen_line": 188,
+      "canonical_line": 199,
+      "line_sha256": "81ca260a06b8f7b0e6ff08faa248957b1cf3e4745acde259a7ada8c2e8c21e29",
+      "line_text": "| G06 | Teaching visitors, diner tastes, peer care and actual shared pancakes broaden ordinary audiences. Differing tastes, fear, refusals and misinformation forbid a uniform approving audience. |"
+    },
+    {
+      "frozen_line": 189,
+      "canonical_line": 200,
+      "line_sha256": "9bdfaa3cc976bc914bde74db4abbdba091f92a12baf81671aec77a92bfae2051",
+      "line_text": "| G07 | Local source memories/events/messages can be ordered where explicit;10114/26002, documentary dates, editions and undated comparisons do not create a universal calendar or steady cure. |"
+    },
+    {
+      "frozen_line": 190,
+      "canonical_line": 201,
+      "line_sha256": "07ea4f8d7663bb707e80f4285bd7f8a0a032f0cd1255e2dfb6368b5ee417e26b",
+      "line_text": "| G08 | Event844/10844 physical repeats and gift040/raw80000040 remain exact contexts. Inventory arc/event/mini leads are retrieval responsibilities rather than automatic actor appearances or separate encounters. |"
+    },
+    {
+      "frozen_line": 191,
+      "canonical_line": 202,
+      "line_sha256": "16463137699ad9d5f29a41df9db933cb7a62cc64968923af4d12789df6c95c07",
+      "line_text": "| G09 | Formal choices, condition-zero paired/sequential Answers, #na/ns/#st/Talk/Think and public actor seams remain separate. Repeated attempts do not reveal a final dish result or repair an anonymous actor. |"
+    },
+    {
+      "frozen_line": 192,
+      "canonical_line": 203,
+      "line_sha256": "fcec9c9b6dd7266a190e806daa72d409a09c57ebe285ea3f105e91a5e404d9dd",
+      "line_text": "| G10 | No heard voice, unseen video, taste performance, gunshot audio, animation or acoustics is received from text/resource controls. |"
+    },
+    {
+      "frozen_line": 193,
+      "canonical_line": 204,
+      "line_sha256": "59fd0340e0888662ef747355e41d2b2f5eef8d659a323f7f974a334ae565311c",
+      "line_text": "| G11 | No record, official custody/office or Yume memory is authenticated by culinary work, testimony or contextual proximity. |"
+    },
+    {
+      "frozen_line": 194,
+      "canonical_line": 205,
+      "line_sha256": "aeb43871bbed453986bea5236c38711bed81b70f3596d59068855bc818a1ac64",
+      "line_text": "| G12 | BA_PERSON_JURI,10114/26002 and costume1900935101→10114 stay exact. Generic passages, moving food, local managers/patients and edition labels do not justify global person joins. |"
+    },
+    {
+      "frozen_line": 195,
+      "canonical_line": 206,
+      "line_sha256": "838b444e69403b4a77d2a7e80e8ec017335ea6def7965b5612e22ef4373f8866",
+      "line_text": "| G13 | Awards, knowledge, narrated good taste/harm, actual decoy/shared food and reported workloads retain source scale. Chemistry, safe recipes, clinical cause/cure, capacity, payroll, repair and reproducibility remain unverified. |"
+    },
+    {
+      "frozen_line": 196,
+      "canonical_line": 207,
+      "line_sha256": "13d01babfbf7dc6095f3e0451cb80686f62f196d7fc32df140e7227b57f77421",
+      "line_text": "| G14 | BOND/whole MomoTalk/profile/costume/MAIN/group/event/embedded report/video-only modes remain different evidence conditions. No automatic continuity across private and public witnesses. |"
+    },
+    {
+      "frozen_line": 197,
+      "canonical_line": 208,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 198,
+      "canonical_line": 209,
+      "line_sha256": "49bf2860756012b8c7b6a3e6b780fa5cded913fde873f06f13fcbbd927a947ee",
+      "line_text": "The historical selection metadata also retains eleven unclassified833 scenario leads. Current source-class controls leave unclassified sources available/unadmitted with unresolved mode/continuity. They are not admitted private duties or received plot evidence here. A stronger claim based on those leads requires separate justified classification/admission and actual argument recovery, rather than inventing a missing normal owner or silently incorporating their story. Their existence is preserved without pretending to have read them."
+    },
+    {
+      "frozen_line": 199,
+      "canonical_line": 210,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 200,
+      "canonical_line": 211,
+      "line_sha256": "dbc2888623d0f2070781f441d79f77bfeda5cbc452967337d6fbc8d2e5313367",
+      "line_text": "No known consequential recovery remains necessary for the bounded asserted claims after complete effective private/public receiving and the specific MINI instructional recovery. Stronger cooking mechanism, final soup outcome, medical cause/recovery, permanent skill, fulfilled future meetings, repaired publicity, staffing relief, full cafe/city/victim repair, exact raw actor identity and performed meaning require additional evidence. These open outcomes do not make the represented contest/parfait/pancakes incomplete as local achievements or disqualify quiet gardening and company."
+    },
+    {
+      "frozen_line": 201,
+      "canonical_line": 212,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        3
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: character_monograph"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        5,
+        6
+      ],
+      "canonical_lines": [
+        4,
+        3
+      ],
+      "frozen_text": [
+        "generation: V1",
+        "status: local_candidate_root_review_pending"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        19,
+        18
+      ],
+      "canonical_lines": [
+        16,
+        27
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_JURI_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        22,
+        21
+      ],
+      "canonical_lines": [
+        31,
+        32
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_JURI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_JURI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Canonical persistence follows complete ROOT installation; source publication, main integration and other required packages remain separate. The adopted355-package/29-section scope is unchanged; no quarter, model or performed evidence is claimed."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        202,
+        202
+      ],
+      "canonical_lines": [
+        213,
+        213
+      ],
+      "frozen_text": [
+        "This local candidate proposes DEEP_SYNTHESIS at the architecture's eleven dimensions, pending ROOT independent whole-body/exact-receipt review and canonical adoption. It grants no source credit, admission, model, prediction, historical independence, denominator or milestone result. Required Fuuka↔Juri and other directed relations, School Lunch/Gourmet ensembles and institutions, work/legitimacy/repair, Sensei/register and the remaining eligible cast continue as mandatory separate Phase3 packages. A complete bounded Juri portrait is one responsibility within that phase, not its completion."
+      ],
+      "canonical_text": [
+        "ROOT independently received and accepted this complete eleven-dimension DEEP_SYNTHESIS literary monograph with limits; canonical persistence follows the complete ROOT installation. It grants no source credit, admission, model, prediction, historical independence, denominator or milestone result. Required Fuuka↔Juri and other directed relations, School Lunch/Gourmet ensembles and institutions, work/legitimacy/repair, Sensei/register and the remaining eligible cast continue as mandatory separate Phase3 packages. A complete bounded Juri portrait is one responsibility within that phase, not its completion."
+      ]
+    }
+  ],
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_primary_performance_or_independent_literary_credit": 0,
+  "other_required_package_completion": false
+}

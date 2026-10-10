@@ -1,0 +1,2110 @@
+{
+  "schema": "BLUE_ARCHIVE_FINA_FULL_REVERSIBLE_SAVED_TRANSPORT_V1",
+  "status": "C_ONLY_PROPOSED_CANONICAL_DERIVATIVE_ROOT_REVIEW_INSTALLATION_PENDING",
+  "full_frozen_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 38668,
+      "sha256": "481c169bfbf6b12c51f3305c1a63720304e384ce0bcd0959ee6f0bcafd1c3154",
+      "git_blob_oid_of_actual_bytes": "081bf0c169a0a8f47375345dfd5b40576f346b73",
+      "lines": 157,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 40941,
+      "sha256": "872cdf8dcccf0779bb27db2c0039d7d7dec365b7aa1b64ac15e92366b5999ced",
+      "git_blob_oid_of_actual_bytes": "c211471d764a78b949f554736345f489e916b381",
+      "lines": 167
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "abf6eb03819d8cdc66762528a3246eef0970ad05834cf7bf074daca1da758d4b",
+        "line_text": "classification: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "b040a034a0c39c7fd51d765a3b3e7ce23a6cc374f8ddb31b596d48d317da6543",
+        "line_text": "architecture: \"1.12, section7.1 eleven required dimensions\""
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9",
+        "line_text": "method: \"1.10\""
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "2e988e7c368bb1f0f082549c79986972a6714081e5324ecffc0bebe2fe7e9fe2",
+        "line_text": "required_home: P3-CHAR-FINA"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "79337550de26fc7e23ba9ade00854705cf6a3092d714571b9d0efeee02e431c8",
+        "line_text": "candidate_responsibility: P3-F127"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "d525456539933114adadaaac7333ef06ece6632abdef5a73ab19482f9bae6750",
+        "line_text": "literal_identity: BA_PERSON_PINA"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "b93622dee0a3ec83f0d198592cd9dca4afe6ccaa89e665ae52cbc83ad8dcb750",
+        "line_text": "family: PINA"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "07ae33d200421aed3a5bb07ceffdc29926b627aa3bfb6800e5ec45aa65cbb77c",
+        "line_text": "display_subject: Fina"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "177c0b2025d2614ec8d83dd72b4cd2e96d8e974b536cc8ded79742a77675907a",
+        "line_text": "variants: [16004, 20045]"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "1dc37b44d98fc305c40ad8ec8bd1d0bab7f7ab1394cbbbfad537663ce5c9dc9c",
+        "line_text": "costumes: [1900937301]"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "06de00c6cd60daa58732ef0b7c6e50ab66fb95b44546d625e6fc98d34b98fcc2",
+        "line_text": "dated_navigation_witness: cf2fba61c9e8448acdd2677f06d5258c051a6ba4"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "46b4a1084a10780516af311ffaf9db987e5ad1063fb62ad06bd1db031562234b",
+        "line_text": "game: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "7f883d04131c2ceb93c813788d8346734ce228b11188765b294eb7669400a5a9",
+        "line_text": "parser: \"0.2.0\""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "1fe86cd04b4662d1b227f194cf73848853416dc75e49a9c3235859a5f280fbbd",
+        "line_text": "source_boundary: \"Nineteen PINA private/written responsibilities in one wholly received adequate51-object Festival argument, plus complete accepted public meanings at declared scopes; zero fresh primary/native/raw/QA/AV.\""
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "9b555493b926626f6749f459d8a36bf8f8bd36619d2e7c14d4921c4c1d0d6930",
+        "line_text": "authority_quartet: \"Current Cycle008 admission; own complete adequate analytical argument receiving; historical exposure/order/independence UNKNOWN where undeclared; performed voice unreceived\""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 24,
+        "line_sha256": "1c8e5e32ae1d62fb5761e8c9da845a95a8072410874a22a22d82c7602bed0134",
+        "line_text": "retrospective: true"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 25,
+        "line_sha256": "9c96af10047187817acdbfcc409256b832cc1e1bec7ab02061ed095056b5e2bb",
+        "line_text": "all_original_fourteen_gaps: OPEN"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 26,
+        "line_sha256": "a650fa20652cdc365b4f6513e78c5849bf75aebef8bf1d57b62029393a6e0727",
+        "line_text": "reconstruction_model_credit: NONE"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 36,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 38,
+        "line_sha256": "03f6d778b7c01a44d33a90d4a2e1800ba39daf263610dd7ab6ada3abcdd9dff1",
+        "line_text": "# Fina: choosing an ideal and learning what company requires"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+        "line_text": "## 1. Core thesis"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "28cdc4ba9397150d00836b555c4174f47c529f29c07c64038d7aa2047b048599",
+        "line_text": "Fina's films offer an imaginative language for choosing how to live. She wants to help, keep ties, experience beautiful things and perform duties well. Those wants have their own value before any crisis tests them. Her difficulty is that a compelling script can misstate what an actual person needs or what a setting permits: a dog-sized costume, a twenty-one-film relay, theatrical betrayal, alcohol-like ceremonial language and detective suspicion each produce some mismatch. The received evidence also shows actual helping, apology, honest admission, adaptation and reciprocal pleasure. Her ideals are therefore neither empty cosplay nor a reliable procedure. They are chosen resources whose adequacy changes when other people answer. [BA:bond:16004:002/003/005/006; BA:bond:20045:002/003/005/006; BA:event:810:069; whole Festival private account.]"
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "c9d40cd72996fb0368125a14f93d810b83484d53c2c852e1c9559f0b89bf2d1b",
+        "line_text": "The best-supported local development moves from seeking the right outward form toward recognizing help and company in acts she had not initially counted as successful. She does not understand the adult's first recognition that she already practices ninkyo. Clothing disappointment ends in an actually enjoyed film with a protagonist who resembles her present clothes. A failed endurance plan receives a gentler interpretation, although the adult's authority also makes her yield a real objection. Guide mistakes later meet direct honesty and recipients' own explanations. At the end of the castle task she wants to travel with the adult as a guest, expressly distinguishing leisure from guiding work. These are particular changes and comparisons, not a global chronological ladder from ordinary16004 to guide20045 or a completed moral transformation. [16004:002:u0030–0068; :003:u0032–0072; :005:u0044–0079; 20045:003:u0035–0056; BA:momotalk:20045:thread:200450350:messages550–650.]"
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "8483a31ec90176dc2dff57a7e0974c2c5a265ecc678f7cce935571bdc06c8340",
+        "line_text": "Fina's agency includes mistakes that cause cost and choices that contribute real good. She helps several vulnerable recipients in the ordinary opening, admits a bus departure was her fault, entertains an audience through an unplanned stage interruption and contributes practical work to a festival emergency. None makes every film-inspired method benign. The adult loses sleep and apparently consciousness in the relay; punitive finger-cutting remains an expressed proposal; peers can object to imagined criminal frames; a guide's apparently perfect plan can miss a person's independent shopping. Her most persuasive ethical evidence lies in local acts and corrections, with the recipients' responses preserved, rather than a claim that sincere enthusiasm guarantees good consequences. [BA:bond:16004:002/005; :20045:003/005; GROUP2403; BA:event:801:006/007; :835:014–016.]"
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "5a407b02bfe6d4d1230781e6a1c575212a330fcb9a4530f8fb80a09fbe418cd6",
+        "line_text": "The existing required home is P3-CHAR-FINA/P3-F127. Its literal person remains BA_PERSON_PINA/familyPINA; Feena/Fina/Pina spellings route the same declared responsibility rather than create a new identity. Her exact19 duties are8BOND,8whole linked threads and3written objects, received through a complete504-line adequate comparative account also containing Shizuko20 and Umika12. Current Cycle008 admission supersedes historical intake warnings in accepted owners. This retrospective written monograph makes no new primary, performance, model, prediction, package acceptance or milestone claim."
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "7f7c6f4a80bacf8de0ceba9fcd371222785093e1a8177a4cd041beed06e316ef",
+        "line_text": "## 2. Longitudinal arc and developmental states"
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "a04b1af2d8b04109bb6e01bf18bf4f07ae537007377eb46a1f962905a8998a66",
+        "line_text": "In16004:002 Fina borrows a greeting and ideal from 任侠ニャンニャン伝, copies imperfectly and treats ninkyo as something she still needs to learn. Helping an old woman, a child, a lost student and a hungry dog provides actual local evidence of the conduct the adult recognizes. The source does not complete every reunion or feeding by implication. She remains unable to understand that recognition immediately; pleasure and the intention to keep learning are supported. This gap matters: her own chosen ideal is present before the adult's formulation, while the adult contributes a different way to evaluate her actual acts. Neither creates a fully mastered doctrine. [BA:bond:16004:002:u0030–0068; BA:momotalk:16004:thread:160040010, whole2101–2116.]"
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "0c463b1193d94ed3851fc5a9555f71389acf416760ac921f6365e8f9ab00e0bc",
+        "line_text": "16004:003 then tests the outward-image solution. Fina wants clothes appropriate to her admired film world and reports that peers avoid the invitation; the adult's choices either joke about body/style blame or reject that blame. A Shiba-sized outfit tears, apologies and compensation follow in narration, and other fitting attempts fail through the evening. Compensation is not proof the adult alone paid. A protagonist resembling Fina's current attire redirects the discussion toward the heart of the ideal. Actual film watching and a satisfied return close that encounter; future cup-sharing remains a plan. A torn costume is a failure of fit, not a judgment that her body or desire is wrong. [BA:bond:16004:003:u0032–0039/u0071–0072; BA:momotalk:16004:thread:160040080, whole2117–2127.]"
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "2ed51dbfc7bb159362e8ad844c84d5f2e8f00274b213bc4d0f9928d06049f682",
+        "line_text": "The next film project makes her sincere wish costly. Tickets are already bought, and the options preserve either adult holiday enjoyment or hooky language. The twenty-one-film relay begins with real fun, then supplies no sleep and apparent unconsciousness near the end. Fina apologizes for assuming the adult could endure and considers ceasing invitations. The adult reframes the rest as part of gentle ninkyo; she objects to the loss of consciousness before yielding to お頭 authority. The kindness of the response does not erase the bodily objection or validate the endurance plan. They actually discuss the experience, and an ordinary cinema outing is the next proposal. It is still prospective in that source and whole-message coda.16004:006 performs restaurant preparation for durable ties, but the proprietor refuses alcohol and oolong replaces it; the formal tea arrangement is supported, drinking is unprinted. The sequence permits adaptation without making every prior mistake painless. [16004:005:u0044–0079; T160040140 whole2128–2135;16004:006:u0022–0060; T160040170 whole160040010–160040100.]"
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "db60f7f56db42d463c3f0f29745d7cf317ebd66a6af067573458d84c64a83169",
+        "line_text": "The guide set tests skill and self-evaluation through different recipients.20045:002 gives an actually successful tour yet leaves the missing dog unreturned, undermining her confident assumption about its habits.20045:003 turns a missing guest into a chance to admit that the bus left through her mistake; the guest also explains losing track of time shopping. The guest is reunited on time and all tour participants are actually seen off.20045:005 changes the kind of error: her immersion in a performance generates sincere outrage, which visitors misread as planned theater. The actors enjoy and thank the unexpected participation, but she remains embarrassed and proposes future discipline.20045:006 ends with the task completed, an actual bus rest and quietly replaced shoes, alongside a wish for guest travel that is withdrawn and not performed. Success, oversight, self-blame, others' enjoyment and wanted rest coexist rather than forming a smooth progression toward perfection. [BA:bond:20045:002/003/005/006 and their whole linked threads.]"
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "a0d53186a88aa5b4a4a361894dd329f3fd3aea1ac4594304a13741bbb01b5462",
+        "line_text": "## 3. Public and private selves"
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "eff0493a38cbdcc0df656554d686e7775e0f569b273c5ec6bfaf59e2d25863d7",
+        "line_text": "Fina's public guide competence and private film immersion arise from related desires, but they do not have identical standards. The guide remembers faces, organizes a tour, prepares detailed information and worries about umbrellas, water and mistakes. Some information, including a local festival and awards, is her guide report rather than an opened authority. Actual tours and thanks still matter without certifying perfect memory or all facts. Privately, she wants clothing, viewing companionship, particular foods and meaningful ties; she can be satisfied with an event that has no public performance goal. The guide's later wish to travel as a guest makes the distinction explicit: being good at service is not the same good as having leisure company. [BA:bond:20045:002/003/005/006; BA:momotalk:20045:thread:200450350:messages550–650; ordinary16004 written/private arguments.]"
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "78f4fdaddab2aae355284be58d2a198ab63d3a39df1efe6c7895223234e2aa05",
+        "line_text": "Her imagination can make her vulnerable and can also put others under pressure. She fears a missing guest means she failed to conduct the perfect trip, becomes distressed by a missing dog and mistakes fiction's betrayal for an event to oppose. These are locally represented concerns, not a general inability to distinguish fiction from reality or a diagnosis. The relay's strain on the adult and the stage's punitive finger-cutting language remain adverse evidence even when she means to do right. Conversely, the honest admission to the guest is neither an empty apology nor a claim that she alone caused every delay. It meets the guest's own account of shopping; the material reunion and completed sendoff survive alongside shared fallibility. [20045:002:u0040–0044 and coda; :003:u0035–0056; :005:u0037–0071;16004:005.]"
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "3e06f135d9b8b4f3e386adcc573735148d204858c09f267414ee2b1889eb6d24",
+        "line_text": "She is not privately reducible to the imagined role of gang lieutenant. In the restaurant scene the durable-tie language is adopted from a film, the alcohol is refused and tea is substituted. Life-staking is expressive language, not a displayed self-harm act, marriage, criminal compact or newly joined organization. Her movement from referring to Fina in the third person toward 私 is a local written self-request; it does not convert the Teacher into an owner. A distinct gift scene then uses a chocolate cup for an ordinary experiment and scenic company. Her most-important-person valuation is actual speech, while reciprocal equivalent status and all future sharing remain open. [BA:bond:16004:006:u0022–0060; BA:event:810:069:u0001–0034.]"
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "869b50f1c30f02bc368a98f29ea0197e8bd945fadcaabaa222b3c13ac27ceba8",
+        "line_text": "Written profiles and conditional voice-like text broaden the range without authenticating a complete life. Oolong, cool drinks, okonomiyaki, desired kimono, birthday okowa, reciprocal Christmas wishes and a Setsubun/Halloween mistake have specific ordinary meanings. Okonomiyaki should not become pizza or pancakes. A gun line's 峰打ち is immediately corrected, so it cannot certify a nonlethal weapon mechanism. Guide holiday and travel registers remain conditional written occasions, and costume1900937301's empty profile and event/lobby contexts do not enact the private trip. A person can retain serious ideals and uncomplicated tastes in the same represented range. [BA:character_data:16004:profile_and_dialog, including contexts1292–1293; BA:character_data:20045:profile_and_dialog; BA:character_data:event_costume:1900937301:character:20045.]"
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "694da85f33689bcb72b641656f9ed63c873b4bf08e6d4c0f9e0a5ad65b8ba3bc",
+        "line_text": "## 4. School and club context"
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "1fa88cd2325e96b91508e73fc1fab27aadf0eb0448c222b7c6986facc1de940a",
+        "line_text": "The Festival Operations Committee gives Fina work and peers beyond the adult relationship. In GROUP2301 she presides over a serious meeting that is also intended to be enjoyable, admits troubled guests and argues that outside ideas may help. Shizuko objects to the interruption before explicitly inviting them. Those acts do not amount to Fina unilaterally appointing Training members to the committee. A cute bento and extravagant card-pack idea supply wanted ordinary contents; scarce procurement and budget remain unresolved. The planned 烏羽商店街 event has not been performed. This is collective deliberation with distinct contributions and objections, rather than a leader's speech automatically determining policy. [BA:group:2301, complete GROUP2301–2302 argument.]"
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "acf31a664ee488eb8b997f2c6d894d099ad75a351cdfe9860480e568b0931e50",
+        "line_text": "In GROUP2302 the commission is instead 狐踊り商店街. Umika's spectacular tomato-fight story and giant model meet Shizuko's cost, cleanup and injury concerns. Fina finds the quiet willow story romantic, and her response helps keep quiet strolling, leaves, wind and sweets in the field of value. The group begins work after rejecting expensive additions; it does not already revive the festival. A film-loving person's ordinary response to romance here is an aesthetic preference, not an authenticated relationship or knowledge of future events. Her input is useful without making her the sole chooser or Umika's enthusiasm an error to erase. [BA:group:2302:u0097–0139.]"
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "922184bd24265f6a65faa9df4f4bb9ea518494c669544425fe324bc4bc6baecc",
+        "line_text": "GROUP2403 shows another effect of her imaginative repertoire. Kaede's suspicion about Training seniors becomes entangled with Fina's crime-film framing and a shop encounter. Shizuko gives matcha ramune and explicitly asks that misunderstanding be avoided; Kaede continues following and Shizuko protests. A film-imagined nightly command is not observed criminal conduct at Byakuyadou. The later senior protection and invitation belong to those seniors, and Kaede's unhappy response limits the cheerful ending. This scene offers contrary peer evidence: an interesting story can intensify suspicion rather than simply create fellowship. Source actor seams remain qualified; it is not a person-wide deception verdict. [BA:group:2403:scene:002, includingu0061–0076; whole GROUP2403–2404 owner.]"
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "117197b161dbf73904641ed31a7dd640150580b7a4363d205fffa1e74b995ac8",
+        "line_text": "Her committee role also has a prospective continuity concern. In V005C002E023 she volunteers because repeated disruption threatens future festivals, after Kaho admits risk and permits departure. Shizuko and Umika have different reasons for staying, Chise performs, Ninjas help and Kaho addresses listeners. The observed local weakening of Hitotsume does not establish a permanent festival mechanism or vindicate all older authority stories; the chapter retracts Niya's ritual account. Public work is therefore a real chosen commitment within a network, not proof every duty is legal, safe or complete. A separate required ensemble/institution package must analyze those distributed permissions and costs. [BA:main:005:002:023:scene:001:u0015–0044/scene:002:u0046–0075; :028; whole C002 checkpoint.]"
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "4787c35d261222c09d1bbe5c5a77dc5cd9dcdc1958b5e6ed5ac7998c2100b193",
+        "line_text": "## 5. Ordinary life, pleasure and wanted futures"
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "20d85a9bea974ab708ba822a4ce3e11b1003fb4b6b59852b3083d3d1df45a676",
+        "line_text": "Fina wants to watch films, dress in an admired style, share food and find company that can value those experiences with her. These desires do not require a heroic payoff. The clothing shopping gives a real disappointment and later satisfying viewing; the relay begins with real fun before exceeding the adult's capacity. Correct analysis preserves both the wanted activity and the mistake in its scale. Otherwise criticism of harm turns into an implicit ban on the pleasure itself. Her later ordinary-cinema proposal is a more limited future, not proof all invitations have ceased or all recipient needs have been learned. [BA:bond:16004:003/005 and their whole threads.]"
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "002dafa3f01c35931b21c83c1edb8dfb878e1a24ce911105f61a8ede2b80db87",
+        "line_text": "Taste has similarly particular contents. Oolong is a substituted drink in the ceremonial restaurant, while written preferences supply cool tea, okonomiyaki and other everyday wants. The gift in EVENT810:069 chooses scenic weather and a good seat for atmosphere, prepares tea and uses a chocolate cup instead of a sake cup. Pouring is narrated and cup exchange is printed; flavor mixing is her expectation and it is her first actual trial. Japanese closes on atmospheric time together without explicit consumption, while Korean explicitly describes tea drinking and eating the chocolate cup. The shared time is a fulfilled good in both; eating should remain locale-qualified. Neither chemical success nor every future wonderful experience is certified. [BA:bond:16004:006; BA:event:810:069:u0001–0034, especially0024–0034; written16004 argument.]"
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "16c864ec6a6eb81a623c05fb36dc4bf8061be392e009f2023ffa83bdb138a592",
+        "line_text": "Company is reciprocal in different ways. She wants the adult to experience the chocolate-cup novelty with her, values their place in her life and asks for continued shared pleasures. In the film set, the protagonist's similarity to her present clothes helps her find satisfaction, and later discussion has actual shared extent. In the guide ending she wants to visit as a guest rather than as a worker, withdraws the request, receives the adult's appraisal that the trip was fun and ends grateful. Withdrawal is not proof the wish vanished, adult enjoyment is not an enacted future guest trip, and gratitude is not blanket agreement to further work. Those differences leave a substantive wanted future without needing to invent its fulfillment. [BA:event:810:069; BA:bond:16004:003/005; BA:momotalk:20045:thread:200450350:messages550–650.]"
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "059c8b2efc452cea177b50d84580d665cad4ebc222f4e96305dc87d07ed522e2",
+        "line_text": "Her public pleasures remain distinct from those of other members and tourists. In EVENT835 she proposes a film-village idea that does not meet the budget and fit of the job, yet enjoys covering a failed introduction and her first lead. The fact that a proposal is rejected does not make the desire unworthy. Tourists who unexpectedly enjoy her stage interruption are not thereby endorsing every confused method or punitive proposal. GROUP2302's quiet romantic story can be genuinely appealing while giant spectacle is refused. Each of these presents a valued activity under limits, which is a more informative ordinary range than a catalogue of successful service. [BA:event:835:002/003; BA:bond:20045:005; BA:group:2302.]"
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "0912877254b873e90861d10f83479fe33d4b68d6c262408ee5785fb6299490c6",
+        "line_text": "## 6. Crisis behavior and causal responsibility"
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "76b8ea4d3f6a9596bdd267736d026bd61914d0c85cfc2e2336d7c6eff6bdf8d5",
+        "line_text": "The selected public arguments show real participation without a uniform hero mechanism. V100C002E010 places Fina in a local defense launch with Tsubaki, Chise and a troupe member. Her ninkyo language is situated speech, and no local enemy, victory or permanent inter-faction alliance is printed. Shizuko reports shelter readiness, Umika answers and supplies remain prospective. The larger Final outcome cannot be assigned to Fina alone by carrying local enthusiasm forward as a completed defense tally. Her ideals can motivate a commitment without certifying its later execution or technical capacity. [BA:main:100:002:010:scene:001:u0001–0009.]"
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "ecde88f5635113e900a3de2b5e8edd17c89bc87042a04500ecc24c7c48282841",
+        "line_text": "In V005C002E023 Fina chooses to remain at the dangerous festival after being allowed to leave. Her reason includes the future of festivals, not merely obedience to the adult, who has no direct action or choice in that episode. Chise's song, listeners' movement and Azami's observation/concession establish a local change. Danger, unfinished crowd protection and temporary efficacy remain. The chapter conclusion is a report that Waraku ended amid unresolved books, escaped antagonists and a sleeping returned Ayame. An act of volunteering matters positively at its own extent, with no need to make fear-based theory or full safety a completed empirical finding. [BA:main:005:002:023/028; whole compact C002 checkpoint.]"
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "ff8469d91aa3121e97c188ba4765f10fdb91691d49dd34e932ea496496e4dd77",
+        "line_text": "EVENT835 gives practical help and a serious predictive error. Fina thinks late-arriving participants will avoid the fireworks problem, but Umika has moved the schedule forward. Her small-fire-cannot-launch reassurance is immediately undermined by the actual launch, whose unique ignition source is not certified. During the emergency she, Kaede and Tsubaki use water extinguishers; other actors translate, rescue, ask for help or carry out firefighting. The ceremony resumes and the trip safely ends at its narrated scope, without a full injury, damage, payment or fire inspection. Fina's contribution is real, and so is the failed assumption; the ending cannot turn the warning into a retrospectively sound rule. [BA:event:835:012–016, especially013/014 and016:u0057–0060.]"
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "71c210ee79c92f9c5e9e5dddb04567db85a2a5bb518f6b80bdb06150572dabb4",
+        "line_text": "Punitive methods remain a contrary strand even where no act is completed. EVENT801 preserves her finger-punishment proposal inside coercive questioning plans.20045:005 similarly gives a finger-cutting request after her stage mistake, followed by adult calming and conditional damage discussion rather than actual self-harm or paid damages. Criminal-themed language cannot authenticate criminal membership, yet its dramatic framing should not erase what was proposed or the anxiety it creates. In the film relay, apparent unconsciousness is actual adverse narrative evidence rather than a rhetorical proposal. Distinguishing these grades prevents both invented violence and a harmlessness verdict that ignores recipients' costs. [BA:event:801:006/007; BA:bond:20045:005:u0055–0067; BA:bond:16004:005:u0044–0064.]"
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "5126a5e4e8d500d9c6ae494111367b2a2cead0a8fe2cf2b1dd35bc47709b7008",
+        "line_text": "## 7. Relationship with Sensei"
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "9b7b0133f736ede97270343e79c8b43560db58a189d463a9a414612ecb4b7d26",
+        "line_text": "Fina grants the adult a strong role in evaluating her ideal. Her ordinary opening can say black and white are what Sensei says; later お頭 framing similarly gives authority to the adult's interpretation. Such deference is spoken relationship evidence, not an ethical warrant for any adult order. The relay is the decisive contrary example: Fina objects that loss of consciousness is not good, then yields when the answer is framed through the adult's role. The adult's gentle intent and her relief coexist with the persisting bodily cost. A broad Sensei synthesis must preserve the possibility that reassurance works through unequal authority, rather than equating agreement with independent confirmation. [BA:bond:16004:002:u0030–0037; :005:u0051–0064.]"
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "ec6cb602c6912cb03275d12465c60eb0500691638346594e3153e03bbb3dfb87",
+        "line_text": "The adult's contribution is also actually useful in narrower ways. They recognize her helping as a meaningful realization of ninkyo, offer an alternative to a failed outfit, calm a public misunderstanding and praise honesty after the missing-guest error. The last whole thread even allows that a student has taught the adult something. This reciprocity complicates an account where Fina is merely corrected into adulthood by an infallible teacher. She initiates help, chooses projects and directly admits responsibility; the adult meets those acts with particular observations. Praise does not create her original ideals or finish every lesson, while imperfect advice does not annul every benefit. [16004:002/003;20045:003/005; BA:momotalk:20045:thread:200450160:messages300–310.]"
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "c18fb58e72fc7d506ea69cedd19d59e2f88da11c4c0f881d78b73ab99dcc26ef",
+        "line_text": "Her chosen closeness has finite positive forms. Restaurant preparation, personal gratitude, actual viewing, actual discussion, tea pouring, cup exchange and an atmospheric shared period are supported. Life-staked rhetoric and most-important-person valuation do not establish reciprocal equivalent romance, a criminal oath or a marriage. The restaurant proprietor's alcohol refusal matters; oolong replaces it, and drinking is unprinted there. The chocolate cup is separately identified, with Japanese/Korean consumption differences retained. The two cup scenes can be compared as ways of making company meaningful without forcing one unbroken ceremonial contract or all future pleasures into the present. [BA:bond:16004:006; BA:event:810:069.]"
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "df48c9d4560a02e1d87c47fa1865066e3bfd29760a25a16c0f516471c761be69",
+        "line_text": "Care and work can also constrain her choices. During the castle guide trip, the adult tells her to rest and she says she cannot refuse; actual bus rest follows. This is not an endlessly free leisure choice or proof of coercive harm by itself. It is a specific asymmetry alongside useful rest, forgotten shoes quietly put on and completed work. The coda's wish to travel together as guests recognizes a different relationship form she wants, then withdraws it. No future trip is narrated. Her feelings should not be reduced either to dependence on permission or to autonomy so complete that the unequal roles no longer matter. [BA:bond:20045:006:u0020–0037/u0049–0051; BA:momotalk:20045:thread:200450350, whole480–650.]"
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "226fb5fd9bbe569597ff09193121ff16e1d43adbdec4aba4e263883eacb7daf7",
+        "line_text": "## 8. Major peer and recipient relations"
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "5c4e7f31d4a2d3983edfc607c79537948bf883806b69c482a8ceba2769316e3e",
+        "line_text": "Shizuko is an independent chair and worker who can accept or refuse Fina's input. Meetings contain Fina's presiding and argument for guests, Shizuko's objection followed by explicit invitation, and shared deliberation. GROUP2403 instead preserves Shizuko's protest at misunderstanding, while Fina's crime-story frame remains imagination. That contrast demonstrates variable consequences across peer settings. An analyst should not infer constant harmony from common committee work or stable hostility from one objection. Nor does a shared private account give every statement in Shizuko's20-object scope to Fina. Their evidence conditions and source keys remain distinct. [BA:group:2301/2302/2403; shared adequate Festival private argument.]"
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "3a98d178c84a53649b7b19afce3a392d64ea46bbf94670483256ef6e7f366df5",
+        "line_text": "Umika has her own ambition and fear in EVENT835. Fina enjoys covering the failed introduction, proposes a film-village idea, wears the guide costume with Kaede and shares excitement about another festival. Umika declines wearing that costume herself through embarrassment and the usual division with Shizuko. Umika also changes the fireworks schedule, makes her own error, asks for help and receives Shizuko's later recognition. Fina's help and mistaken timing assessment have specific causal positions in that distributed undertaking. They cannot turn Umika into a passive beneficiary or Fina into its sole rescuer. [BA:event:835:002/003/012–016.]"
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "a3c207dacdf59f7c839737f827122267e9ded9897e40299e545cf2043864c393",
+        "line_text": "Guests and strangers are crucial recipients of Fina's choices. The ordinary opening's old woman, child, lost student and dog supply local actual helping, with unprinted reunions and feeding kept open. The absent-tour guest admits shopping distraction alongside Fina's bus mistake. Actors thank the unexpected stage participation and say they enjoyed it; their favorable response does not make it a deliberately designed tourist experience. Other peers reportedly decline clothing invitations, while the restaurant proprietor actively refuses alcohol. Each of these people can contribute a desire, explanation, response or limit independent of Fina's ideal. The guide's worry about perfect responsibility should not be ratified by making all recipient agency disappear. [BA:bond:16004:002/003/006;20045:002/003/005.]"
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "d2e5882aaae2d12b6dda33b814e40a9abb5b00db4b300bf07cab2a650c4f31ba",
+        "line_text": "Film affinity does not justify a global group join. Mimori, Tsubaki and Kaede are guests in the meeting and independent Training members. The unnamed actors, driver, troupe roles and tourists keep their literal/local scope, especially where tags print a guide answer under a tourist or another person's response under Fina. The missing dog remains a wanted unresolved return rather than being rescued offscreen. EVENT847's broader summer context and EVENT813/815's institutional outcomes are useful comparison at the complete accepted argument's stated scope; they do not create a particular Fina act wherever her family appears in navigation. Directed relations, ensemble and institution homes remain separately required. This monograph supplies bounded evidence without awarding those completions."
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "449c02255ee80149ddbea550eae85d62b78d61740a8d22e07d2b21ebd88a040e",
+        "line_text": "## 9. Language and written formal registers"
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "17ebfff064ddb67375ae4e6f4b3ddc44b873feb72c51d609606aca7c5f0afeac",
+        "line_text": "Fina's mixed-script デス/センセイ/Oh register is written evidence. お頭, ninkyo and cinematic greetings mark chosen styles and relations in particular encounters. They should not become an inference about national origin, language ability, heard accent or a permanently childlike mind without the needed evidence. Her imperfect copying of a film, tea-cup wording and the third-person-to-私 movement have distinct source functions. The profile's editorial appraisal of help and film knowledge is not omniscient validation of every guide report. Terms that dramatize loyalty can have real affective force without certifying an institutional oath. [BA:bond:16004:002/006; BA:event:810:069; written16004/20045 profiles.]"
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "81ae10a4aa353badbe5819949d0a241003b220cee6278af7543fce57d1438c03",
+        "line_text": "Precise objects and corrections matter. 湯呑 is a cup, not automatically alcohol; the proprietor refuses alcohol and oolong is substituted. The gift's chocolate cup is explicitly not the imagined sake cup. The guide's invincible language and a movement claim about five hundred steps do not establish an empirical capability model. 峰打ち in the gun register is immediately corrected. A desire for kimono or okonomiyaki does not authorize relabeling every outfit or food. Keeping those forms specific protects the argument from making film imagery literal whenever it produces an impressive character claim. [BA:bond:16004:003/006; BA:character_data:16004:profile_and_dialog:contexts1292–1293; BA:character_data:20045:profile_and_dialog; BA:event:810:069.]"
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "62138aeca96d5df5d6aabc5560fd4e8763f4a2ccd7b9e09c9ec76c280507f55e",
+        "line_text": "Labels, inner text and codas have separate bounds. Some ordinary clothing turns and guide dialogue have actor seams, including guide answers or questions under tourist/Fina labels and stage photo requests under troupe tags.20045:006 preserves a Korean driver label and a guide log; the surrounding Fina tags do not prove she talks to herself in every turn. In the gift, inward cup questions are not additional formal groups, and leading camera commands do not displace the positive text-bearing Pina actor. Camera, assets and audio references are not inspected performances. JP atmospheric time and KR explicit tea/chocolate consumption remain different literary endpoints. [Adequate private actor qualifications; BA:event:810:069:u0013–0034.]"
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "cc1f12b277a8540cc2655a20f0af6953786b689461bc3b89ad25034522cfe8a1",
+        "line_text": "Whole linked messages prevent truncation at a BOND launch. The missing-dog wish, guidance self-evaluation, talent/discipline reflections and wanted guest travel appear in complete codas. The ordinary written profile-and-dialog Special can end with an unfinished third-person formulation; the completed BOND 私 request must not be inserted into that incomplete written object. Costume1900937301 retains an empty profile and Event835/108359/9008356 lobby contexts, not a separate registered person or a chronology bridge. The exact literal person BA_PERSON_PINA and variants16004/20045 remain the present allocation. No source spelling silently creates a different Feena, and no written voice profile substitutes for performed-voice receiving."
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "daf0995c894a2d93b298fcb24850b0e0c65300187113870fa966df8428a4193c",
+        "line_text": "## 10. Competing readings"
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "b274890bf3ecc10584be89ca4f034809df7bd200087bd7f7698835dba13e134e",
+        "line_text": "**The naive film imitator.** Bad copying, the dog-sized outfit, extended relay, theatrical outrage and detective suspicion support a reading of literal-minded misapplication. It becomes reductive when it excludes actual helping, useful meetings, honest guide responsibility, completed tours, scenic gift preparation or learning through recipient response. The source provides local errors, not a diagnostic inability to reason. She can act before she fully understands the adult's praise, and can value quiet romance as well as spectacle. A stronger bounded reading treats film as a chosen imaginative resource that works unevenly in practice."
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "c4f1b103d5f28b50c69a3a2aba7ba0e3644c9314e8cacdd9334bcca1126865ba",
+        "line_text": "**The perfect-hearted helper.** Actual assistance, apology, honest admission and collaborative work support sincere concern. Sincerity does not prove all methods are safe. Relay exhaustion and apparent unconsciousness, punitive proposals, unwanted suspicion and the erroneous fireworks reassurance remain material. The guest's shopping explanation also prevents assuming she alone caused the problem she responsibly acknowledges. Good intentions and adverse effects can coexist at specific scopes, without a verdict of universal goodness or universal danger. [16004:002/005;20045:003/005; GROUP2403; EVENT835:013/014.]"
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "08816369709becf0c00dba69d4b6d59da56609f3073c88b0f3d7038e8b7a881d",
+        "line_text": "**The dependent follower of Sensei.** Strong deference and お頭 language support asymmetry; her yielding to the adult's relay interpretation is consequential. But her original film ideal, practical helping, self-bought tickets, guide work, honest admission and self-initiated gift do not originate wholly in adult direction. The reciprocal student-taught-adult reflection and explicit wish for guest travel complicate an obedience-only portrait. Conversely, those acts do not cancel authority pressure or prove every consent unconditioned. The relevant claim is a particular relationship in which chosen affection, initiative, learning and unequal roles coexist."
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "fb59dcc86aed4519798485ac40365e97598c2a0de8de5875b4fac29d8ba6fd08",
+        "line_text": "**The skilled guide who succeeds because every mistake is entertainment.** Completed tours, guests seen off and actors' appreciation are positive. The missing dog stays missing, remembered faces are a claim, one guest was left behind, a return depended on investigation and the stage misunderstanding was not a planned method. Fina's own embarrassment and wish to improve are meaningful even when recipients enjoyed the interruption. Visitor pleasure cannot certify technical competence or erase why a mistake mattered to her. Nor should imperfection remove the actual achievements."
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "317ca80669491319b04abdae7775f17ae26a980d2693762a7a36679e98ed791d",
+        "line_text": "**The gang identity or romance ceremony.** Films, life-staking words, cups and important-person language make these tempting readings. Alcohol refusal, tea substitution, chocolate material, inward modes and missing institutional or mutual-romantic declarations keep them bounded. A shared atmosphere is actually achieved; lifelong guest travel and every future pleasure remain wanted. There is no need to make either stronger identification true before the scenic cup, ordinary taste or sincere gratitude can matter. Separate clinical, legal, performance and identity warrants stay open rather than being answered by imagery alone."
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "6d0f9ba6cd371d91c12238be1c038f12da2f2df1c7f9a0064a6e7359a66aa7a2",
+        "line_text": "## 11. Evidence route and unresolved warrants"
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "400f6fa27ada0cdda8ed1338fedcf3043ac7e26b1dd84aaafef4a3173b2ba57b",
+        "line_text": "The adequate canonical private argument is `02 Sequential Readings/BOND/BLUE_ARCHIVE_FESTIVAL_SHIZUKO_FINA_UMIKA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md`, whole504 received. Fina's exact19 source IDs comprise16004 and20045 BOND E002/E003/E005/E006, their8whole linked threads, profile-and-dialog16004/20045 and costume1900937301→20045. Whole messages include ordinary2101–2135 plus160040010–160040100 and guide10–650 at their actual thread boundaries. Shizuko20 and Umika12 were independently meaningful complete arguments in the same owner, not a new allocation or primary credit. The receipt preserves exact source ID spellings and current selection separately from old wrappers."
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "28059769b6b7c3e8eded131b3a6c56c5a7403beae90468512978e793135b12ec",
+        "line_text": "Complete adequate public arguments reused personally from the preceding Festival receiving include GROUP2301–2302 and2403–2404; whole EVENT801/813/815 comparative arguments; EVENT835149; EVENT847159; compact V005C00195/C00292, plus whole small MainV005C002E02346 andV100C002E01026. Their complete literary custody does not make every public object a Fina appearance. Fresh whole EVENT81006971 supplies the consequential scene, actual endpoints and locale distinctions. MainV005C001E003 andC002E003 are separately whole51/53 received inquiries: the first supplies generic roles and an adult inference, the second actual Shizuko/Umika food and labor. Neither authenticates a Fina appearance. No such join is asserted, and the latter's distinct argument remains available for the allocated Umika home. Exact tuples/equality and saved-body/readable/control receipts accompany the candidate."
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "9f7a8b0c6f4018a66ef992b931d69e99a0e3a8f10dc8e6db449c10efe6fd9d2e",
+        "line_text": "| Original stable gap | Fina contribution and remaining warrant — all OPEN |"
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+        "line_text": "|---|---|"
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "a7c38ea2d45a6b67f0cfb976fc50dac4c1e3e41fcfb908fcc1fe6ec4969711b5",
+        "line_text": "| G01 Ordinary and private breadth | Film, clothing, tea, taste, scenic company, guide work and wanted guest travel broaden ordinary range. They are not unlimited everyday coverage or a mastered personality mechanism. |"
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "1344ea02aa4ab1f9767396d43394393802790b1ab6614e34a6c9d1c1becb0269",
+        "line_text": "| G02 Yuuka council/club decision transfer | Meeting ideas and guide responsibility pose comparisons, not a transferred Yuuka council rule. Yuuka's independent office evidence remains governing. |"
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "e3de00b5571107de7b66005182344a1bb8670d9f89936afe9ff5d99fc4911ece",
+        "line_text": "| G03 Serika service, peer and reciprocity range | Actual tours, recipient explanations and gratitude provide service comparison. They do not complete Serika's own customers, peers or private range. |"
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "f834e113a307c6e86950ca32a370029b8d31967e9a4e69774a422163402de7aa",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Chosen risky help and finite contributions are comparison only; Hina's own causes, accountability and wanted ordinary life remain separate. |"
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "3ebbaf85271653eb29b01253f79bddd5974edf73ce54d1b6c34d8e76575a9637",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | Chosen films and company are no repair of others' coercion, aftermath or material needs. Their exact sources and required homes remain distinct. |"
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "d762c804ce84f108e8e205290978237921882383cabd71b45a49b654bb24c4f1",
+        "line_text": "| G06 Cross-school ordinary repertoire | Guest ideas, tour recipients, quiet willow taste and public help add local repertoire. No automatic club membership or universal enjoyment follows. |"
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "3a0239cfbd4b636a46779dddce41fc4c34ad5a011bd9fb3f13896c8a3afafd0e",
+        "line_text": "| G07 Story-world chronology | Local relay/guide sequences and message codas are usable; variant IDs, release dates and holidays do not establish a complete world calendar. |"
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "560f30cc49d5574283c7bcccd26bdaa13225ccfbaa6057d47ef606804b731e4b",
+        "line_text": "| G08 Event naming and repeat contexts | Exact801/810/813/815/835/847 routes and costume contexts remain separate. Blank titles or repeat contexts need exact naming, not inferred story merger. |"
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "63cfdccb9d0eb4f8ba7eacbddb98d2ffbcf5e6e722539889307e0c137a4177f5",
+        "line_text": "| G09 Written speaker/choice attribution | Actor/function seams, inward cup text, alternatives and whole codas remain qualified. Runtime enactment and universal audible inner speech are unreceived. |"
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "efa71cedcd98e9a6d31ea0fcfc8e22a7f46220c5e8c6a70d5187d21d1daf136a",
+        "line_text": "| G10 Performed voice | Mixed-script addresses and cinematic language are written samples. Heard accent, acting, audio, timing and audiovisual performance remain unreceived. |"
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "109cbb50b4e501af0888ccd2de3f85005f66f7776631a8ec73fa6ce431962891",
+        "line_text": "| G11 Hoshino's Yume record and office states | Shared public context does not supply a new Yume record or Hoshino office endpoint. Her separately bounded source and monograph duties govern. |"
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "16bca60e900c03be0b6e423cb59516bfd24dec29f570030a58a4d5fb01db29b0",
+        "line_text": "| G12 Counterpart, system and variant identity | BA_PERSON_PINA,16004/20045 and costume join remain literal; spelling variants, camera commands and roles do not authenticate a second person or global chain. |"
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "0af9d8d219a1fe023082e59520b5a5b8f8948ac26c81d3551538063edd1113cb",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | Actual helping/time/tours and narrative exhaustion are distinguished from claims. Legal ties, physiology, flavor technique, perfect memory, safety and accountability lack full certification. |"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "0f4e2e94d6dad7cc99c2e9a2936d15d3c15512e40f0c01da1986347788452612",
+        "line_text": "| G14 Unclassified/mode continuity | No unclassified narrative or preserved producer source is admitted. Cinematic/gift/costume modes do not settle unresolved mode or continuity. |"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "eb05d6618c756dcd8fe95ce4cb426797fc7bfd8c1e011042427a89c8575bdc0a",
+        "line_text": "No mandatory primary recovery remains for adequately bounded claims actually made here. Stronger biography/origin, law/oath, mutual romance, medical consequence, recipient recovery, universal consent, all factual guide accuracy, flavor/weapon mechanics, paid damage, future guest trips, returned dog, all-membership, chronology and performed-voice claims require missing evidence and remain unasserted. Independent ROOT whole receiving/exact verification/adoption is required. Full-cast characters, justified relations, ensembles/institutions, Sensei, written register and later convergence remain separate mandatory Phase3 work. This candidate creates no new home, model, count or milestone."
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          7,
+          7
+        ],
+        "canonical_lines": [
+          7,
+          7
+        ],
+        "frozen_text": [
+          "status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          27,
+          27
+        ],
+        "canonical_lines": [
+          27,
+          35
+        ],
+        "frozen_text": [
+          "publication_acceptance_and_count: ROOT_ONLY_PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_publication_acceptance_and_count: ROOT_ONLY_PENDING",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_FINA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          31,
+          30
+        ],
+        "canonical_lines": [
+          39,
+          40
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded character responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_FINA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_FINA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,25 distinct parent packages,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Character Monographs home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "full_operative_ROOTaccepted_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 38668,
+      "sha256": "481c169bfbf6b12c51f3305c1a63720304e384ce0bcd0959ee6f0bcafd1c3154",
+      "git_blob_oid_of_actual_bytes": "081bf0c169a0a8f47375345dfd5b40576f346b73",
+      "lines": 157,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 40941,
+      "sha256": "872cdf8dcccf0779bb27db2c0039d7d7dec365b7aa1b64ac15e92366b5999ced",
+      "git_blob_oid_of_actual_bytes": "c211471d764a78b949f554736345f489e916b381",
+      "lines": 167
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "abf6eb03819d8cdc66762528a3246eef0970ad05834cf7bf074daca1da758d4b",
+        "line_text": "classification: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "b040a034a0c39c7fd51d765a3b3e7ce23a6cc374f8ddb31b596d48d317da6543",
+        "line_text": "architecture: \"1.12, section7.1 eleven required dimensions\""
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9",
+        "line_text": "method: \"1.10\""
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "2e988e7c368bb1f0f082549c79986972a6714081e5324ecffc0bebe2fe7e9fe2",
+        "line_text": "required_home: P3-CHAR-FINA"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "79337550de26fc7e23ba9ade00854705cf6a3092d714571b9d0efeee02e431c8",
+        "line_text": "candidate_responsibility: P3-F127"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "d525456539933114adadaaac7333ef06ece6632abdef5a73ab19482f9bae6750",
+        "line_text": "literal_identity: BA_PERSON_PINA"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "b93622dee0a3ec83f0d198592cd9dca4afe6ccaa89e665ae52cbc83ad8dcb750",
+        "line_text": "family: PINA"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "07ae33d200421aed3a5bb07ceffdc29926b627aa3bfb6800e5ec45aa65cbb77c",
+        "line_text": "display_subject: Fina"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "177c0b2025d2614ec8d83dd72b4cd2e96d8e974b536cc8ded79742a77675907a",
+        "line_text": "variants: [16004, 20045]"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "1dc37b44d98fc305c40ad8ec8bd1d0bab7f7ab1394cbbbfad537663ce5c9dc9c",
+        "line_text": "costumes: [1900937301]"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "06de00c6cd60daa58732ef0b7c6e50ab66fb95b44546d625e6fc98d34b98fcc2",
+        "line_text": "dated_navigation_witness: cf2fba61c9e8448acdd2677f06d5258c051a6ba4"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "46b4a1084a10780516af311ffaf9db987e5ad1063fb62ad06bd1db031562234b",
+        "line_text": "game: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "7f883d04131c2ceb93c813788d8346734ce228b11188765b294eb7669400a5a9",
+        "line_text": "parser: \"0.2.0\""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "1fe86cd04b4662d1b227f194cf73848853416dc75e49a9c3235859a5f280fbbd",
+        "line_text": "source_boundary: \"Nineteen PINA private/written responsibilities in one wholly received adequate51-object Festival argument, plus complete accepted public meanings at declared scopes; zero fresh primary/native/raw/QA/AV.\""
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "9b555493b926626f6749f459d8a36bf8f8bd36619d2e7c14d4921c4c1d0d6930",
+        "line_text": "authority_quartet: \"Current Cycle008 admission; own complete adequate analytical argument receiving; historical exposure/order/independence UNKNOWN where undeclared; performed voice unreceived\""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 24,
+        "line_sha256": "1c8e5e32ae1d62fb5761e8c9da845a95a8072410874a22a22d82c7602bed0134",
+        "line_text": "retrospective: true"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 25,
+        "line_sha256": "9c96af10047187817acdbfcc409256b832cc1e1bec7ab02061ed095056b5e2bb",
+        "line_text": "all_original_fourteen_gaps: OPEN"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 26,
+        "line_sha256": "a650fa20652cdc365b4f6513e78c5849bf75aebef8bf1d57b62029393a6e0727",
+        "line_text": "reconstruction_model_credit: NONE"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 36,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 38,
+        "line_sha256": "03f6d778b7c01a44d33a90d4a2e1800ba39daf263610dd7ab6ada3abcdd9dff1",
+        "line_text": "# Fina: choosing an ideal and learning what company requires"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+        "line_text": "## 1. Core thesis"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "28cdc4ba9397150d00836b555c4174f47c529f29c07c64038d7aa2047b048599",
+        "line_text": "Fina's films offer an imaginative language for choosing how to live. She wants to help, keep ties, experience beautiful things and perform duties well. Those wants have their own value before any crisis tests them. Her difficulty is that a compelling script can misstate what an actual person needs or what a setting permits: a dog-sized costume, a twenty-one-film relay, theatrical betrayal, alcohol-like ceremonial language and detective suspicion each produce some mismatch. The received evidence also shows actual helping, apology, honest admission, adaptation and reciprocal pleasure. Her ideals are therefore neither empty cosplay nor a reliable procedure. They are chosen resources whose adequacy changes when other people answer. [BA:bond:16004:002/003/005/006; BA:bond:20045:002/003/005/006; BA:event:810:069; whole Festival private account.]"
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "c9d40cd72996fb0368125a14f93d810b83484d53c2c852e1c9559f0b89bf2d1b",
+        "line_text": "The best-supported local development moves from seeking the right outward form toward recognizing help and company in acts she had not initially counted as successful. She does not understand the adult's first recognition that she already practices ninkyo. Clothing disappointment ends in an actually enjoyed film with a protagonist who resembles her present clothes. A failed endurance plan receives a gentler interpretation, although the adult's authority also makes her yield a real objection. Guide mistakes later meet direct honesty and recipients' own explanations. At the end of the castle task she wants to travel with the adult as a guest, expressly distinguishing leisure from guiding work. These are particular changes and comparisons, not a global chronological ladder from ordinary16004 to guide20045 or a completed moral transformation. [16004:002:u0030–0068; :003:u0032–0072; :005:u0044–0079; 20045:003:u0035–0056; BA:momotalk:20045:thread:200450350:messages550–650.]"
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "8483a31ec90176dc2dff57a7e0974c2c5a265ecc678f7cce935571bdc06c8340",
+        "line_text": "Fina's agency includes mistakes that cause cost and choices that contribute real good. She helps several vulnerable recipients in the ordinary opening, admits a bus departure was her fault, entertains an audience through an unplanned stage interruption and contributes practical work to a festival emergency. None makes every film-inspired method benign. The adult loses sleep and apparently consciousness in the relay; punitive finger-cutting remains an expressed proposal; peers can object to imagined criminal frames; a guide's apparently perfect plan can miss a person's independent shopping. Her most persuasive ethical evidence lies in local acts and corrections, with the recipients' responses preserved, rather than a claim that sincere enthusiasm guarantees good consequences. [BA:bond:16004:002/005; :20045:003/005; GROUP2403; BA:event:801:006/007; :835:014–016.]"
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "5a407b02bfe6d4d1230781e6a1c575212a330fcb9a4530f8fb80a09fbe418cd6",
+        "line_text": "The existing required home is P3-CHAR-FINA/P3-F127. Its literal person remains BA_PERSON_PINA/familyPINA; Feena/Fina/Pina spellings route the same declared responsibility rather than create a new identity. Her exact19 duties are8BOND,8whole linked threads and3written objects, received through a complete504-line adequate comparative account also containing Shizuko20 and Umika12. Current Cycle008 admission supersedes historical intake warnings in accepted owners. This retrospective written monograph makes no new primary, performance, model, prediction, package acceptance or milestone claim."
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "7f7c6f4a80bacf8de0ceba9fcd371222785093e1a8177a4cd041beed06e316ef",
+        "line_text": "## 2. Longitudinal arc and developmental states"
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "a04b1af2d8b04109bb6e01bf18bf4f07ae537007377eb46a1f962905a8998a66",
+        "line_text": "In16004:002 Fina borrows a greeting and ideal from 任侠ニャンニャン伝, copies imperfectly and treats ninkyo as something she still needs to learn. Helping an old woman, a child, a lost student and a hungry dog provides actual local evidence of the conduct the adult recognizes. The source does not complete every reunion or feeding by implication. She remains unable to understand that recognition immediately; pleasure and the intention to keep learning are supported. This gap matters: her own chosen ideal is present before the adult's formulation, while the adult contributes a different way to evaluate her actual acts. Neither creates a fully mastered doctrine. [BA:bond:16004:002:u0030–0068; BA:momotalk:16004:thread:160040010, whole2101–2116.]"
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "0c463b1193d94ed3851fc5a9555f71389acf416760ac921f6365e8f9ab00e0bc",
+        "line_text": "16004:003 then tests the outward-image solution. Fina wants clothes appropriate to her admired film world and reports that peers avoid the invitation; the adult's choices either joke about body/style blame or reject that blame. A Shiba-sized outfit tears, apologies and compensation follow in narration, and other fitting attempts fail through the evening. Compensation is not proof the adult alone paid. A protagonist resembling Fina's current attire redirects the discussion toward the heart of the ideal. Actual film watching and a satisfied return close that encounter; future cup-sharing remains a plan. A torn costume is a failure of fit, not a judgment that her body or desire is wrong. [BA:bond:16004:003:u0032–0039/u0071–0072; BA:momotalk:16004:thread:160040080, whole2117–2127.]"
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "2ed51dbfc7bb159362e8ad844c84d5f2e8f00274b213bc4d0f9928d06049f682",
+        "line_text": "The next film project makes her sincere wish costly. Tickets are already bought, and the options preserve either adult holiday enjoyment or hooky language. The twenty-one-film relay begins with real fun, then supplies no sleep and apparent unconsciousness near the end. Fina apologizes for assuming the adult could endure and considers ceasing invitations. The adult reframes the rest as part of gentle ninkyo; she objects to the loss of consciousness before yielding to お頭 authority. The kindness of the response does not erase the bodily objection or validate the endurance plan. They actually discuss the experience, and an ordinary cinema outing is the next proposal. It is still prospective in that source and whole-message coda.16004:006 performs restaurant preparation for durable ties, but the proprietor refuses alcohol and oolong replaces it; the formal tea arrangement is supported, drinking is unprinted. The sequence permits adaptation without making every prior mistake painless. [16004:005:u0044–0079; T160040140 whole2128–2135;16004:006:u0022–0060; T160040170 whole160040010–160040100.]"
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "db60f7f56db42d463c3f0f29745d7cf317ebd66a6af067573458d84c64a83169",
+        "line_text": "The guide set tests skill and self-evaluation through different recipients.20045:002 gives an actually successful tour yet leaves the missing dog unreturned, undermining her confident assumption about its habits.20045:003 turns a missing guest into a chance to admit that the bus left through her mistake; the guest also explains losing track of time shopping. The guest is reunited on time and all tour participants are actually seen off.20045:005 changes the kind of error: her immersion in a performance generates sincere outrage, which visitors misread as planned theater. The actors enjoy and thank the unexpected participation, but she remains embarrassed and proposes future discipline.20045:006 ends with the task completed, an actual bus rest and quietly replaced shoes, alongside a wish for guest travel that is withdrawn and not performed. Success, oversight, self-blame, others' enjoyment and wanted rest coexist rather than forming a smooth progression toward perfection. [BA:bond:20045:002/003/005/006 and their whole linked threads.]"
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "a0d53186a88aa5b4a4a361894dd329f3fd3aea1ac4594304a13741bbb01b5462",
+        "line_text": "## 3. Public and private selves"
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "eff0493a38cbdcc0df656554d686e7775e0f569b273c5ec6bfaf59e2d25863d7",
+        "line_text": "Fina's public guide competence and private film immersion arise from related desires, but they do not have identical standards. The guide remembers faces, organizes a tour, prepares detailed information and worries about umbrellas, water and mistakes. Some information, including a local festival and awards, is her guide report rather than an opened authority. Actual tours and thanks still matter without certifying perfect memory or all facts. Privately, she wants clothing, viewing companionship, particular foods and meaningful ties; she can be satisfied with an event that has no public performance goal. The guide's later wish to travel as a guest makes the distinction explicit: being good at service is not the same good as having leisure company. [BA:bond:20045:002/003/005/006; BA:momotalk:20045:thread:200450350:messages550–650; ordinary16004 written/private arguments.]"
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "78f4fdaddab2aae355284be58d2a198ab63d3a39df1efe6c7895223234e2aa05",
+        "line_text": "Her imagination can make her vulnerable and can also put others under pressure. She fears a missing guest means she failed to conduct the perfect trip, becomes distressed by a missing dog and mistakes fiction's betrayal for an event to oppose. These are locally represented concerns, not a general inability to distinguish fiction from reality or a diagnosis. The relay's strain on the adult and the stage's punitive finger-cutting language remain adverse evidence even when she means to do right. Conversely, the honest admission to the guest is neither an empty apology nor a claim that she alone caused every delay. It meets the guest's own account of shopping; the material reunion and completed sendoff survive alongside shared fallibility. [20045:002:u0040–0044 and coda; :003:u0035–0056; :005:u0037–0071;16004:005.]"
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "3e06f135d9b8b4f3e386adcc573735148d204858c09f267414ee2b1889eb6d24",
+        "line_text": "She is not privately reducible to the imagined role of gang lieutenant. In the restaurant scene the durable-tie language is adopted from a film, the alcohol is refused and tea is substituted. Life-staking is expressive language, not a displayed self-harm act, marriage, criminal compact or newly joined organization. Her movement from referring to Fina in the third person toward 私 is a local written self-request; it does not convert the Teacher into an owner. A distinct gift scene then uses a chocolate cup for an ordinary experiment and scenic company. Her most-important-person valuation is actual speech, while reciprocal equivalent status and all future sharing remain open. [BA:bond:16004:006:u0022–0060; BA:event:810:069:u0001–0034.]"
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "869b50f1c30f02bc368a98f29ea0197e8bd945fadcaabaa222b3c13ac27ceba8",
+        "line_text": "Written profiles and conditional voice-like text broaden the range without authenticating a complete life. Oolong, cool drinks, okonomiyaki, desired kimono, birthday okowa, reciprocal Christmas wishes and a Setsubun/Halloween mistake have specific ordinary meanings. Okonomiyaki should not become pizza or pancakes. A gun line's 峰打ち is immediately corrected, so it cannot certify a nonlethal weapon mechanism. Guide holiday and travel registers remain conditional written occasions, and costume1900937301's empty profile and event/lobby contexts do not enact the private trip. A person can retain serious ideals and uncomplicated tastes in the same represented range. [BA:character_data:16004:profile_and_dialog, including contexts1292–1293; BA:character_data:20045:profile_and_dialog; BA:character_data:event_costume:1900937301:character:20045.]"
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "694da85f33689bcb72b641656f9ed63c873b4bf08e6d4c0f9e0a5ad65b8ba3bc",
+        "line_text": "## 4. School and club context"
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "1fa88cd2325e96b91508e73fc1fab27aadf0eb0448c222b7c6986facc1de940a",
+        "line_text": "The Festival Operations Committee gives Fina work and peers beyond the adult relationship. In GROUP2301 she presides over a serious meeting that is also intended to be enjoyable, admits troubled guests and argues that outside ideas may help. Shizuko objects to the interruption before explicitly inviting them. Those acts do not amount to Fina unilaterally appointing Training members to the committee. A cute bento and extravagant card-pack idea supply wanted ordinary contents; scarce procurement and budget remain unresolved. The planned 烏羽商店街 event has not been performed. This is collective deliberation with distinct contributions and objections, rather than a leader's speech automatically determining policy. [BA:group:2301, complete GROUP2301–2302 argument.]"
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "acf31a664ee488eb8b997f2c6d894d099ad75a351cdfe9860480e568b0931e50",
+        "line_text": "In GROUP2302 the commission is instead 狐踊り商店街. Umika's spectacular tomato-fight story and giant model meet Shizuko's cost, cleanup and injury concerns. Fina finds the quiet willow story romantic, and her response helps keep quiet strolling, leaves, wind and sweets in the field of value. The group begins work after rejecting expensive additions; it does not already revive the festival. A film-loving person's ordinary response to romance here is an aesthetic preference, not an authenticated relationship or knowledge of future events. Her input is useful without making her the sole chooser or Umika's enthusiasm an error to erase. [BA:group:2302:u0097–0139.]"
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "922184bd24265f6a65faa9df4f4bb9ea518494c669544425fe324bc4bc6baecc",
+        "line_text": "GROUP2403 shows another effect of her imaginative repertoire. Kaede's suspicion about Training seniors becomes entangled with Fina's crime-film framing and a shop encounter. Shizuko gives matcha ramune and explicitly asks that misunderstanding be avoided; Kaede continues following and Shizuko protests. A film-imagined nightly command is not observed criminal conduct at Byakuyadou. The later senior protection and invitation belong to those seniors, and Kaede's unhappy response limits the cheerful ending. This scene offers contrary peer evidence: an interesting story can intensify suspicion rather than simply create fellowship. Source actor seams remain qualified; it is not a person-wide deception verdict. [BA:group:2403:scene:002, includingu0061–0076; whole GROUP2403–2404 owner.]"
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "117197b161dbf73904641ed31a7dd640150580b7a4363d205fffa1e74b995ac8",
+        "line_text": "Her committee role also has a prospective continuity concern. In V005C002E023 she volunteers because repeated disruption threatens future festivals, after Kaho admits risk and permits departure. Shizuko and Umika have different reasons for staying, Chise performs, Ninjas help and Kaho addresses listeners. The observed local weakening of Hitotsume does not establish a permanent festival mechanism or vindicate all older authority stories; the chapter retracts Niya's ritual account. Public work is therefore a real chosen commitment within a network, not proof every duty is legal, safe or complete. A separate required ensemble/institution package must analyze those distributed permissions and costs. [BA:main:005:002:023:scene:001:u0015–0044/scene:002:u0046–0075; :028; whole C002 checkpoint.]"
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "4787c35d261222c09d1bbe5c5a77dc5cd9dcdc1958b5e6ed5ac7998c2100b193",
+        "line_text": "## 5. Ordinary life, pleasure and wanted futures"
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "20d85a9bea974ab708ba822a4ce3e11b1003fb4b6b59852b3083d3d1df45a676",
+        "line_text": "Fina wants to watch films, dress in an admired style, share food and find company that can value those experiences with her. These desires do not require a heroic payoff. The clothing shopping gives a real disappointment and later satisfying viewing; the relay begins with real fun before exceeding the adult's capacity. Correct analysis preserves both the wanted activity and the mistake in its scale. Otherwise criticism of harm turns into an implicit ban on the pleasure itself. Her later ordinary-cinema proposal is a more limited future, not proof all invitations have ceased or all recipient needs have been learned. [BA:bond:16004:003/005 and their whole threads.]"
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "002dafa3f01c35931b21c83c1edb8dfb878e1a24ce911105f61a8ede2b80db87",
+        "line_text": "Taste has similarly particular contents. Oolong is a substituted drink in the ceremonial restaurant, while written preferences supply cool tea, okonomiyaki and other everyday wants. The gift in EVENT810:069 chooses scenic weather and a good seat for atmosphere, prepares tea and uses a chocolate cup instead of a sake cup. Pouring is narrated and cup exchange is printed; flavor mixing is her expectation and it is her first actual trial. Japanese closes on atmospheric time together without explicit consumption, while Korean explicitly describes tea drinking and eating the chocolate cup. The shared time is a fulfilled good in both; eating should remain locale-qualified. Neither chemical success nor every future wonderful experience is certified. [BA:bond:16004:006; BA:event:810:069:u0001–0034, especially0024–0034; written16004 argument.]"
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "16c864ec6a6eb81a623c05fb36dc4bf8061be392e009f2023ffa83bdb138a592",
+        "line_text": "Company is reciprocal in different ways. She wants the adult to experience the chocolate-cup novelty with her, values their place in her life and asks for continued shared pleasures. In the film set, the protagonist's similarity to her present clothes helps her find satisfaction, and later discussion has actual shared extent. In the guide ending she wants to visit as a guest rather than as a worker, withdraws the request, receives the adult's appraisal that the trip was fun and ends grateful. Withdrawal is not proof the wish vanished, adult enjoyment is not an enacted future guest trip, and gratitude is not blanket agreement to further work. Those differences leave a substantive wanted future without needing to invent its fulfillment. [BA:event:810:069; BA:bond:16004:003/005; BA:momotalk:20045:thread:200450350:messages550–650.]"
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "059c8b2efc452cea177b50d84580d665cad4ebc222f4e96305dc87d07ed522e2",
+        "line_text": "Her public pleasures remain distinct from those of other members and tourists. In EVENT835 she proposes a film-village idea that does not meet the budget and fit of the job, yet enjoys covering a failed introduction and her first lead. The fact that a proposal is rejected does not make the desire unworthy. Tourists who unexpectedly enjoy her stage interruption are not thereby endorsing every confused method or punitive proposal. GROUP2302's quiet romantic story can be genuinely appealing while giant spectacle is refused. Each of these presents a valued activity under limits, which is a more informative ordinary range than a catalogue of successful service. [BA:event:835:002/003; BA:bond:20045:005; BA:group:2302.]"
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "0912877254b873e90861d10f83479fe33d4b68d6c262408ee5785fb6299490c6",
+        "line_text": "## 6. Crisis behavior and causal responsibility"
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "76b8ea4d3f6a9596bdd267736d026bd61914d0c85cfc2e2336d7c6eff6bdf8d5",
+        "line_text": "The selected public arguments show real participation without a uniform hero mechanism. V100C002E010 places Fina in a local defense launch with Tsubaki, Chise and a troupe member. Her ninkyo language is situated speech, and no local enemy, victory or permanent inter-faction alliance is printed. Shizuko reports shelter readiness, Umika answers and supplies remain prospective. The larger Final outcome cannot be assigned to Fina alone by carrying local enthusiasm forward as a completed defense tally. Her ideals can motivate a commitment without certifying its later execution or technical capacity. [BA:main:100:002:010:scene:001:u0001–0009.]"
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "ecde88f5635113e900a3de2b5e8edd17c89bc87042a04500ecc24c7c48282841",
+        "line_text": "In V005C002E023 Fina chooses to remain at the dangerous festival after being allowed to leave. Her reason includes the future of festivals, not merely obedience to the adult, who has no direct action or choice in that episode. Chise's song, listeners' movement and Azami's observation/concession establish a local change. Danger, unfinished crowd protection and temporary efficacy remain. The chapter conclusion is a report that Waraku ended amid unresolved books, escaped antagonists and a sleeping returned Ayame. An act of volunteering matters positively at its own extent, with no need to make fear-based theory or full safety a completed empirical finding. [BA:main:005:002:023/028; whole compact C002 checkpoint.]"
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "ff8469d91aa3121e97c188ba4765f10fdb91691d49dd34e932ea496496e4dd77",
+        "line_text": "EVENT835 gives practical help and a serious predictive error. Fina thinks late-arriving participants will avoid the fireworks problem, but Umika has moved the schedule forward. Her small-fire-cannot-launch reassurance is immediately undermined by the actual launch, whose unique ignition source is not certified. During the emergency she, Kaede and Tsubaki use water extinguishers; other actors translate, rescue, ask for help or carry out firefighting. The ceremony resumes and the trip safely ends at its narrated scope, without a full injury, damage, payment or fire inspection. Fina's contribution is real, and so is the failed assumption; the ending cannot turn the warning into a retrospectively sound rule. [BA:event:835:012–016, especially013/014 and016:u0057–0060.]"
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "71c210ee79c92f9c5e9e5dddb04567db85a2a5bb518f6b80bdb06150572dabb4",
+        "line_text": "Punitive methods remain a contrary strand even where no act is completed. EVENT801 preserves her finger-punishment proposal inside coercive questioning plans.20045:005 similarly gives a finger-cutting request after her stage mistake, followed by adult calming and conditional damage discussion rather than actual self-harm or paid damages. Criminal-themed language cannot authenticate criminal membership, yet its dramatic framing should not erase what was proposed or the anxiety it creates. In the film relay, apparent unconsciousness is actual adverse narrative evidence rather than a rhetorical proposal. Distinguishing these grades prevents both invented violence and a harmlessness verdict that ignores recipients' costs. [BA:event:801:006/007; BA:bond:20045:005:u0055–0067; BA:bond:16004:005:u0044–0064.]"
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "5126a5e4e8d500d9c6ae494111367b2a2cead0a8fe2cf2b1dd35bc47709b7008",
+        "line_text": "## 7. Relationship with Sensei"
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "9b7b0133f736ede97270343e79c8b43560db58a189d463a9a414612ecb4b7d26",
+        "line_text": "Fina grants the adult a strong role in evaluating her ideal. Her ordinary opening can say black and white are what Sensei says; later お頭 framing similarly gives authority to the adult's interpretation. Such deference is spoken relationship evidence, not an ethical warrant for any adult order. The relay is the decisive contrary example: Fina objects that loss of consciousness is not good, then yields when the answer is framed through the adult's role. The adult's gentle intent and her relief coexist with the persisting bodily cost. A broad Sensei synthesis must preserve the possibility that reassurance works through unequal authority, rather than equating agreement with independent confirmation. [BA:bond:16004:002:u0030–0037; :005:u0051–0064.]"
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "ec6cb602c6912cb03275d12465c60eb0500691638346594e3153e03bbb3dfb87",
+        "line_text": "The adult's contribution is also actually useful in narrower ways. They recognize her helping as a meaningful realization of ninkyo, offer an alternative to a failed outfit, calm a public misunderstanding and praise honesty after the missing-guest error. The last whole thread even allows that a student has taught the adult something. This reciprocity complicates an account where Fina is merely corrected into adulthood by an infallible teacher. She initiates help, chooses projects and directly admits responsibility; the adult meets those acts with particular observations. Praise does not create her original ideals or finish every lesson, while imperfect advice does not annul every benefit. [16004:002/003;20045:003/005; BA:momotalk:20045:thread:200450160:messages300–310.]"
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "c18fb58e72fc7d506ea69cedd19d59e2f88da11c4c0f881d78b73ab99dcc26ef",
+        "line_text": "Her chosen closeness has finite positive forms. Restaurant preparation, personal gratitude, actual viewing, actual discussion, tea pouring, cup exchange and an atmospheric shared period are supported. Life-staked rhetoric and most-important-person valuation do not establish reciprocal equivalent romance, a criminal oath or a marriage. The restaurant proprietor's alcohol refusal matters; oolong replaces it, and drinking is unprinted there. The chocolate cup is separately identified, with Japanese/Korean consumption differences retained. The two cup scenes can be compared as ways of making company meaningful without forcing one unbroken ceremonial contract or all future pleasures into the present. [BA:bond:16004:006; BA:event:810:069.]"
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "df48c9d4560a02e1d87c47fa1865066e3bfd29760a25a16c0f516471c761be69",
+        "line_text": "Care and work can also constrain her choices. During the castle guide trip, the adult tells her to rest and she says she cannot refuse; actual bus rest follows. This is not an endlessly free leisure choice or proof of coercive harm by itself. It is a specific asymmetry alongside useful rest, forgotten shoes quietly put on and completed work. The coda's wish to travel together as guests recognizes a different relationship form she wants, then withdraws it. No future trip is narrated. Her feelings should not be reduced either to dependence on permission or to autonomy so complete that the unequal roles no longer matter. [BA:bond:20045:006:u0020–0037/u0049–0051; BA:momotalk:20045:thread:200450350, whole480–650.]"
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "226fb5fd9bbe569597ff09193121ff16e1d43adbdec4aba4e263883eacb7daf7",
+        "line_text": "## 8. Major peer and recipient relations"
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "5c4e7f31d4a2d3983edfc607c79537948bf883806b69c482a8ceba2769316e3e",
+        "line_text": "Shizuko is an independent chair and worker who can accept or refuse Fina's input. Meetings contain Fina's presiding and argument for guests, Shizuko's objection followed by explicit invitation, and shared deliberation. GROUP2403 instead preserves Shizuko's protest at misunderstanding, while Fina's crime-story frame remains imagination. That contrast demonstrates variable consequences across peer settings. An analyst should not infer constant harmony from common committee work or stable hostility from one objection. Nor does a shared private account give every statement in Shizuko's20-object scope to Fina. Their evidence conditions and source keys remain distinct. [BA:group:2301/2302/2403; shared adequate Festival private argument.]"
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "3a98d178c84a53649b7b19afce3a392d64ea46bbf94670483256ef6e7f366df5",
+        "line_text": "Umika has her own ambition and fear in EVENT835. Fina enjoys covering the failed introduction, proposes a film-village idea, wears the guide costume with Kaede and shares excitement about another festival. Umika declines wearing that costume herself through embarrassment and the usual division with Shizuko. Umika also changes the fireworks schedule, makes her own error, asks for help and receives Shizuko's later recognition. Fina's help and mistaken timing assessment have specific causal positions in that distributed undertaking. They cannot turn Umika into a passive beneficiary or Fina into its sole rescuer. [BA:event:835:002/003/012–016.]"
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "a3c207dacdf59f7c839737f827122267e9ded9897e40299e545cf2043864c393",
+        "line_text": "Guests and strangers are crucial recipients of Fina's choices. The ordinary opening's old woman, child, lost student and dog supply local actual helping, with unprinted reunions and feeding kept open. The absent-tour guest admits shopping distraction alongside Fina's bus mistake. Actors thank the unexpected stage participation and say they enjoyed it; their favorable response does not make it a deliberately designed tourist experience. Other peers reportedly decline clothing invitations, while the restaurant proprietor actively refuses alcohol. Each of these people can contribute a desire, explanation, response or limit independent of Fina's ideal. The guide's worry about perfect responsibility should not be ratified by making all recipient agency disappear. [BA:bond:16004:002/003/006;20045:002/003/005.]"
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "d2e5882aaae2d12b6dda33b814e40a9abb5b00db4b300bf07cab2a650c4f31ba",
+        "line_text": "Film affinity does not justify a global group join. Mimori, Tsubaki and Kaede are guests in the meeting and independent Training members. The unnamed actors, driver, troupe roles and tourists keep their literal/local scope, especially where tags print a guide answer under a tourist or another person's response under Fina. The missing dog remains a wanted unresolved return rather than being rescued offscreen. EVENT847's broader summer context and EVENT813/815's institutional outcomes are useful comparison at the complete accepted argument's stated scope; they do not create a particular Fina act wherever her family appears in navigation. Directed relations, ensemble and institution homes remain separately required. This monograph supplies bounded evidence without awarding those completions."
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "449c02255ee80149ddbea550eae85d62b78d61740a8d22e07d2b21ebd88a040e",
+        "line_text": "## 9. Language and written formal registers"
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "17ebfff064ddb67375ae4e6f4b3ddc44b873feb72c51d609606aca7c5f0afeac",
+        "line_text": "Fina's mixed-script デス/センセイ/Oh register is written evidence. お頭, ninkyo and cinematic greetings mark chosen styles and relations in particular encounters. They should not become an inference about national origin, language ability, heard accent or a permanently childlike mind without the needed evidence. Her imperfect copying of a film, tea-cup wording and the third-person-to-私 movement have distinct source functions. The profile's editorial appraisal of help and film knowledge is not omniscient validation of every guide report. Terms that dramatize loyalty can have real affective force without certifying an institutional oath. [BA:bond:16004:002/006; BA:event:810:069; written16004/20045 profiles.]"
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "81ae10a4aa353badbe5819949d0a241003b220cee6278af7543fce57d1438c03",
+        "line_text": "Precise objects and corrections matter. 湯呑 is a cup, not automatically alcohol; the proprietor refuses alcohol and oolong is substituted. The gift's chocolate cup is explicitly not the imagined sake cup. The guide's invincible language and a movement claim about five hundred steps do not establish an empirical capability model. 峰打ち in the gun register is immediately corrected. A desire for kimono or okonomiyaki does not authorize relabeling every outfit or food. Keeping those forms specific protects the argument from making film imagery literal whenever it produces an impressive character claim. [BA:bond:16004:003/006; BA:character_data:16004:profile_and_dialog:contexts1292–1293; BA:character_data:20045:profile_and_dialog; BA:event:810:069.]"
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "62138aeca96d5df5d6aabc5560fd4e8763f4a2ccd7b9e09c9ec76c280507f55e",
+        "line_text": "Labels, inner text and codas have separate bounds. Some ordinary clothing turns and guide dialogue have actor seams, including guide answers or questions under tourist/Fina labels and stage photo requests under troupe tags.20045:006 preserves a Korean driver label and a guide log; the surrounding Fina tags do not prove she talks to herself in every turn. In the gift, inward cup questions are not additional formal groups, and leading camera commands do not displace the positive text-bearing Pina actor. Camera, assets and audio references are not inspected performances. JP atmospheric time and KR explicit tea/chocolate consumption remain different literary endpoints. [Adequate private actor qualifications; BA:event:810:069:u0013–0034.]"
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "cc1f12b277a8540cc2655a20f0af6953786b689461bc3b89ad25034522cfe8a1",
+        "line_text": "Whole linked messages prevent truncation at a BOND launch. The missing-dog wish, guidance self-evaluation, talent/discipline reflections and wanted guest travel appear in complete codas. The ordinary written profile-and-dialog Special can end with an unfinished third-person formulation; the completed BOND 私 request must not be inserted into that incomplete written object. Costume1900937301 retains an empty profile and Event835/108359/9008356 lobby contexts, not a separate registered person or a chronology bridge. The exact literal person BA_PERSON_PINA and variants16004/20045 remain the present allocation. No source spelling silently creates a different Feena, and no written voice profile substitutes for performed-voice receiving."
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "daf0995c894a2d93b298fcb24850b0e0c65300187113870fa966df8428a4193c",
+        "line_text": "## 10. Competing readings"
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "b274890bf3ecc10584be89ca4f034809df7bd200087bd7f7698835dba13e134e",
+        "line_text": "**The naive film imitator.** Bad copying, the dog-sized outfit, extended relay, theatrical outrage and detective suspicion support a reading of literal-minded misapplication. It becomes reductive when it excludes actual helping, useful meetings, honest guide responsibility, completed tours, scenic gift preparation or learning through recipient response. The source provides local errors, not a diagnostic inability to reason. She can act before she fully understands the adult's praise, and can value quiet romance as well as spectacle. A stronger bounded reading treats film as a chosen imaginative resource that works unevenly in practice."
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "c4f1b103d5f28b50c69a3a2aba7ba0e3644c9314e8cacdd9334bcca1126865ba",
+        "line_text": "**The perfect-hearted helper.** Actual assistance, apology, honest admission and collaborative work support sincere concern. Sincerity does not prove all methods are safe. Relay exhaustion and apparent unconsciousness, punitive proposals, unwanted suspicion and the erroneous fireworks reassurance remain material. The guest's shopping explanation also prevents assuming she alone caused the problem she responsibly acknowledges. Good intentions and adverse effects can coexist at specific scopes, without a verdict of universal goodness or universal danger. [16004:002/005;20045:003/005; GROUP2403; EVENT835:013/014.]"
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "08816369709becf0c00dba69d4b6d59da56609f3073c88b0f3d7038e8b7a881d",
+        "line_text": "**The dependent follower of Sensei.** Strong deference and お頭 language support asymmetry; her yielding to the adult's relay interpretation is consequential. But her original film ideal, practical helping, self-bought tickets, guide work, honest admission and self-initiated gift do not originate wholly in adult direction. The reciprocal student-taught-adult reflection and explicit wish for guest travel complicate an obedience-only portrait. Conversely, those acts do not cancel authority pressure or prove every consent unconditioned. The relevant claim is a particular relationship in which chosen affection, initiative, learning and unequal roles coexist."
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "fb59dcc86aed4519798485ac40365e97598c2a0de8de5875b4fac29d8ba6fd08",
+        "line_text": "**The skilled guide who succeeds because every mistake is entertainment.** Completed tours, guests seen off and actors' appreciation are positive. The missing dog stays missing, remembered faces are a claim, one guest was left behind, a return depended on investigation and the stage misunderstanding was not a planned method. Fina's own embarrassment and wish to improve are meaningful even when recipients enjoyed the interruption. Visitor pleasure cannot certify technical competence or erase why a mistake mattered to her. Nor should imperfection remove the actual achievements."
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "317ca80669491319b04abdae7775f17ae26a980d2693762a7a36679e98ed791d",
+        "line_text": "**The gang identity or romance ceremony.** Films, life-staking words, cups and important-person language make these tempting readings. Alcohol refusal, tea substitution, chocolate material, inward modes and missing institutional or mutual-romantic declarations keep them bounded. A shared atmosphere is actually achieved; lifelong guest travel and every future pleasure remain wanted. There is no need to make either stronger identification true before the scenic cup, ordinary taste or sincere gratitude can matter. Separate clinical, legal, performance and identity warrants stay open rather than being answered by imagery alone."
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "6d0f9ba6cd371d91c12238be1c038f12da2f2df1c7f9a0064a6e7359a66aa7a2",
+        "line_text": "## 11. Evidence route and unresolved warrants"
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "400f6fa27ada0cdda8ed1338fedcf3043ac7e26b1dd84aaafef4a3173b2ba57b",
+        "line_text": "The adequate canonical private argument is `02 Sequential Readings/BOND/BLUE_ARCHIVE_FESTIVAL_SHIZUKO_FINA_UMIKA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md`, whole504 received. Fina's exact19 source IDs comprise16004 and20045 BOND E002/E003/E005/E006, their8whole linked threads, profile-and-dialog16004/20045 and costume1900937301→20045. Whole messages include ordinary2101–2135 plus160040010–160040100 and guide10–650 at their actual thread boundaries. Shizuko20 and Umika12 were independently meaningful complete arguments in the same owner, not a new allocation or primary credit. The receipt preserves exact source ID spellings and current selection separately from old wrappers."
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "28059769b6b7c3e8eded131b3a6c56c5a7403beae90468512978e793135b12ec",
+        "line_text": "Complete adequate public arguments reused personally from the preceding Festival receiving include GROUP2301–2302 and2403–2404; whole EVENT801/813/815 comparative arguments; EVENT835149; EVENT847159; compact V005C00195/C00292, plus whole small MainV005C002E02346 andV100C002E01026. Their complete literary custody does not make every public object a Fina appearance. Fresh whole EVENT81006971 supplies the consequential scene, actual endpoints and locale distinctions. MainV005C001E003 andC002E003 are separately whole51/53 received inquiries: the first supplies generic roles and an adult inference, the second actual Shizuko/Umika food and labor. Neither authenticates a Fina appearance. No such join is asserted, and the latter's distinct argument remains available for the allocated Umika home. Exact tuples/equality and saved-body/readable/control receipts accompany the candidate."
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "9f7a8b0c6f4018a66ef992b931d69e99a0e3a8f10dc8e6db449c10efe6fd9d2e",
+        "line_text": "| Original stable gap | Fina contribution and remaining warrant — all OPEN |"
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+        "line_text": "|---|---|"
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "a7c38ea2d45a6b67f0cfb976fc50dac4c1e3e41fcfb908fcc1fe6ec4969711b5",
+        "line_text": "| G01 Ordinary and private breadth | Film, clothing, tea, taste, scenic company, guide work and wanted guest travel broaden ordinary range. They are not unlimited everyday coverage or a mastered personality mechanism. |"
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "1344ea02aa4ab1f9767396d43394393802790b1ab6614e34a6c9d1c1becb0269",
+        "line_text": "| G02 Yuuka council/club decision transfer | Meeting ideas and guide responsibility pose comparisons, not a transferred Yuuka council rule. Yuuka's independent office evidence remains governing. |"
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "e3de00b5571107de7b66005182344a1bb8670d9f89936afe9ff5d99fc4911ece",
+        "line_text": "| G03 Serika service, peer and reciprocity range | Actual tours, recipient explanations and gratitude provide service comparison. They do not complete Serika's own customers, peers or private range. |"
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "f834e113a307c6e86950ca32a370029b8d31967e9a4e69774a422163402de7aa",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Chosen risky help and finite contributions are comparison only; Hina's own causes, accountability and wanted ordinary life remain separate. |"
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "3ebbaf85271653eb29b01253f79bddd5974edf73ce54d1b6c34d8e76575a9637",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | Chosen films and company are no repair of others' coercion, aftermath or material needs. Their exact sources and required homes remain distinct. |"
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "d762c804ce84f108e8e205290978237921882383cabd71b45a49b654bb24c4f1",
+        "line_text": "| G06 Cross-school ordinary repertoire | Guest ideas, tour recipients, quiet willow taste and public help add local repertoire. No automatic club membership or universal enjoyment follows. |"
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "3a0239cfbd4b636a46779dddce41fc4c34ad5a011bd9fb3f13896c8a3afafd0e",
+        "line_text": "| G07 Story-world chronology | Local relay/guide sequences and message codas are usable; variant IDs, release dates and holidays do not establish a complete world calendar. |"
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "560f30cc49d5574283c7bcccd26bdaa13225ccfbaa6057d47ef606804b731e4b",
+        "line_text": "| G08 Event naming and repeat contexts | Exact801/810/813/815/835/847 routes and costume contexts remain separate. Blank titles or repeat contexts need exact naming, not inferred story merger. |"
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "63cfdccb9d0eb4f8ba7eacbddb98d2ffbcf5e6e722539889307e0c137a4177f5",
+        "line_text": "| G09 Written speaker/choice attribution | Actor/function seams, inward cup text, alternatives and whole codas remain qualified. Runtime enactment and universal audible inner speech are unreceived. |"
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "efa71cedcd98e9a6d31ea0fcfc8e22a7f46220c5e8c6a70d5187d21d1daf136a",
+        "line_text": "| G10 Performed voice | Mixed-script addresses and cinematic language are written samples. Heard accent, acting, audio, timing and audiovisual performance remain unreceived. |"
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "109cbb50b4e501af0888ccd2de3f85005f66f7776631a8ec73fa6ce431962891",
+        "line_text": "| G11 Hoshino's Yume record and office states | Shared public context does not supply a new Yume record or Hoshino office endpoint. Her separately bounded source and monograph duties govern. |"
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "16bca60e900c03be0b6e423cb59516bfd24dec29f570030a58a4d5fb01db29b0",
+        "line_text": "| G12 Counterpart, system and variant identity | BA_PERSON_PINA,16004/20045 and costume join remain literal; spelling variants, camera commands and roles do not authenticate a second person or global chain. |"
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "0af9d8d219a1fe023082e59520b5a5b8f8948ac26c81d3551538063edd1113cb",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | Actual helping/time/tours and narrative exhaustion are distinguished from claims. Legal ties, physiology, flavor technique, perfect memory, safety and accountability lack full certification. |"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "0f4e2e94d6dad7cc99c2e9a2936d15d3c15512e40f0c01da1986347788452612",
+        "line_text": "| G14 Unclassified/mode continuity | No unclassified narrative or preserved producer source is admitted. Cinematic/gift/costume modes do not settle unresolved mode or continuity. |"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "eb05d6618c756dcd8fe95ce4cb426797fc7bfd8c1e011042427a89c8575bdc0a",
+        "line_text": "No mandatory primary recovery remains for adequately bounded claims actually made here. Stronger biography/origin, law/oath, mutual romance, medical consequence, recipient recovery, universal consent, all factual guide accuracy, flavor/weapon mechanics, paid damage, future guest trips, returned dog, all-membership, chronology and performed-voice claims require missing evidence and remain unasserted. Independent ROOT whole receiving/exact verification/adoption is required. Full-cast characters, justified relations, ensembles/institutions, Sensei, written register and later convergence remain separate mandatory Phase3 work. This candidate creates no new home, model, count or milestone."
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          7,
+          7
+        ],
+        "canonical_lines": [
+          7,
+          7
+        ],
+        "frozen_text": [
+          "status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          27,
+          27
+        ],
+        "canonical_lines": [
+          27,
+          35
+        ],
+        "frozen_text": [
+          "publication_acceptance_and_count: ROOT_ONLY_PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_publication_acceptance_and_count: ROOT_ONLY_PENDING",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_FINA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          31,
+          30
+        ],
+        "canonical_lines": [
+          39,
+          40
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded character responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_FINA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_FINA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,25 distinct parent packages,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Character Monographs home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "original_transports": [
+    {
+      "path": "FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 38668,
+      "sha256": "481c169bfbf6b12c51f3305c1a63720304e384ce0bcd0959ee6f0bcafd1c3154",
+      "git_blob_oid_of_actual_bytes": "081bf0c169a0a8f47375345dfd5b40576f346b73",
+      "lines": 157,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 38668,
+      "sha256": "481c169bfbf6b12c51f3305c1a63720304e384ce0bcd0959ee6f0bcafd1c3154",
+      "git_blob_oid_of_actual_bytes": "081bf0c169a0a8f47375345dfd5b40576f346b73",
+      "lines": 157,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "FESTIVAL_MONOGRAPHS/FINA_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 108422,
+      "sha256": "1c10e94c8095a5d796011f706f781dfbd658797b00b133e39a6465a18d1d8bc9",
+      "git_blob_oid_of_actual_bytes": "f959eee8b85ac0b9fa2cab1a9bc2392e611bac3e",
+      "lines": 2209,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/FINA_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "FESTIVAL_MONOGRAPHS/FINA_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 3005,
+      "sha256": "d01cab781e9c064d9e2be5e43ec5b2fa45d53d4fbaf5f3761ec045297df3fa27",
+      "git_blob_oid_of_actual_bytes": "dc35a28dd00efa80b3999222882535babd471846",
+      "lines": 63,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/FINA_FROZEN_DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "ROOT_FINA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5175,
+      "sha256": "79cd09aeb654561e1ff8338ce20912db417e54e6856a7883399ac67143c8370d",
+      "git_blob_oid_of_actual_bytes": "38dde71f37a4c349d896f813213457c48bd9d58c",
+      "lines": 80,
+      "immutable_transport_path": "immutable_originals/ROOT_FINA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "FESTIVAL_MONOGRAPHS/FINA_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 6007,
+      "sha256": "a0df914f1660b2134fc9ed367e26ee75c7f8e71f011060cdf4d9a23d274f2c05",
+      "git_blob_oid_of_actual_bytes": "dc232ab0395f19fe81af1b5eb883fea3acc8d633",
+      "lines": 29,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/FINA_MONOGRAPH_RECEIVING_RECEIPT.md"
+    },
+    {
+      "path": "FESTIVAL_MONOGRAPHS/FINA_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 6458,
+      "sha256": "0e43c33d4860a0af4a0719d9c8633a233f0aae811e3cdbeac419b0af7585dc28",
+      "git_blob_oid_of_actual_bytes": "1aefc55e6a1e1554ec42b606923b26d7c1e42f71",
+      "lines": 117,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/FINA_CURRENT_WORKTREE_METADATA_PROBE.json"
+    }
+  ],
+  "mandatory_canonical_qualifications": [],
+  "canonical_link_only_translations": [],
+  "new_primary_performance_independent_model_scope_or_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

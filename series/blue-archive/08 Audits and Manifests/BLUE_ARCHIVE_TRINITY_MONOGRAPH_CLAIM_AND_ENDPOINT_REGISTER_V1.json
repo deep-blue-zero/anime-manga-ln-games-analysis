@@ -1,0 +1,849 @@
+{
+  "schema": "BLUE_ARCHIVE_PHASE3_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+  "status": "ROOT_COMPLETE_LITERARY_RECEIVING_ACCEPTED_WITH_LIMITS",
+  "created": "2026-10-10",
+  "verification_scope": "Author semantic comparison with actually received complete analytical arguments and endpoints; fine unit claims checked at accepted episode-owner scope. No independent review, primary replay, diagnostic validation or prospective test is claimed. Mechanical route resolution is only a binding check.",
+  "input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TRINITY_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+  "packages": [
+    {
+      "package_key": "P3-CHAR-MIKA",
+      "body": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIKA_CHARACTER_MONOGRAPH.md",
+      "body_byte_count": 25016,
+      "body_sha256": "1f624e03da8e7aa8c9fe6f3ac6906f7f80bca2315784f7a7ab2090c3744e9b67",
+      "distinct_thesis": "Mika may remain a student with real responsibility, changing choices and independently valuable ordinary wants.",
+      "all_eleven_sections": [
+        {
+          "number": 1,
+          "title": "Core thesis",
+          "start_line": 14,
+          "end_line": 21
+        },
+        {
+          "number": 2,
+          "title": "Longitudinal arc",
+          "start_line": 22,
+          "end_line": 35
+        },
+        {
+          "number": 3,
+          "title": "Public and private self",
+          "start_line": 36,
+          "end_line": 45
+        },
+        {
+          "number": 4,
+          "title": "School and club role",
+          "start_line": 46,
+          "end_line": 55
+        },
+        {
+          "number": 5,
+          "title": "Ordinary life",
+          "start_line": 56,
+          "end_line": 65
+        },
+        {
+          "number": 6,
+          "title": "Crisis behavior",
+          "start_line": 66,
+          "end_line": 73
+        },
+        {
+          "number": 7,
+          "title": "Sensei relationship",
+          "start_line": 74,
+          "end_line": 81
+        },
+        {
+          "number": 8,
+          "title": "Major peer relationships",
+          "start_line": 82,
+          "end_line": 91
+        },
+        {
+          "number": 9,
+          "title": "Language and voice",
+          "start_line": 92,
+          "end_line": 99
+        },
+        {
+          "number": 10,
+          "title": "Competing readings",
+          "start_line": 100,
+          "end_line": 107
+        },
+        {
+          "number": 11,
+          "title": "Evidence route",
+          "start_line": 108,
+          "end_line": 125
+        }
+      ],
+      "serious_rivals": [
+        "Exoneration by later rescue",
+        "Total punitive identity",
+        "Exclusive teacher causation",
+        "Continuous variant redemption"
+      ],
+      "directed_peer_agency": [
+        "Koharu",
+        "Saori",
+        "Azusa",
+        "Nagisa",
+        "Seia",
+        "Ichika"
+      ],
+      "ordinary_value": "Wanted tastes, company, art/play/reading/rest and failed or refused encounters retain independent literary standing.",
+      "public_private_limit": "Different audiences and consequences; inner/choices/reports not flattened into shared knowledge; no global costume ladder.",
+      "claims": [
+        {
+          "claim_id": "MI01",
+          "claim_question": "responsibility and changing intent",
+          "monograph_evidence_route_line": 114,
+          "received_route": "M01:E003/E017; M02:E017–E020; M04:E018",
+          "retained_boundary": "Confession and retrospection are not an orders archive or earlier peer knowledge.",
+          "source_ids": [
+            "M01",
+            "M02",
+            "M04"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "MI02",
+          "claim_question": "refusal, mercy and student rescue",
+          "monograph_evidence_route_line": 115,
+          "received_route": "M03:E016; M04:E018–E027; F02:E014",
+          "retained_boundary": "Dream forgiveness is not automatically waking receipt; no clinical/combat or general social repair audit.",
+          "source_ids": [
+            "F02",
+            "M03",
+            "M04"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "MI03",
+          "claim_question": "actual hearing disposition",
+          "monograph_evidence_route_line": 116,
+          "received_route": "L01:BA:main:100:001:004:scene002:u0002–0017",
+          "retained_boundary": "Removed powers/privileges; Patar pending successor; confinement ends; academic return permitted. Implementation and successor unprinted.",
+          "source_ids": [
+            "L01"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "ACCEPTED_EPISODE_OWNER_NOT_NEW_PRIMARY",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "MI04",
+          "claim_question": "hostility and independent defense",
+          "monograph_evidence_route_line": 117,
+          "received_route": "L01:scene005:u0002–0035 and later crowd sequence",
+          "retained_boundary": "Azusa's objection and Airi confrontation are actual; final fight/arrest outcome absent.",
+          "source_ids": [
+            "L01"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "ACCEPTED_EPISODE_OWNER_NOT_NEW_PRIMARY",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "MI05",
+          "claim_question": "ordinary private relation with full tails",
+          "monograph_evidence_route_line": 118,
+          "received_route": "P01:10059:E002/E003/E005/E006;10122:E002/E003/E005/E006/E008/E009",
+          "retained_boundary": "Payment/refusals/apology/suit repair/view/failed food remain separate; no global variant chronology.",
+          "source_ids": [
+            "P01"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "MI06",
+          "claim_question": "peer-authored temporary relief",
+          "monograph_evidence_route_line": 119,
+          "received_route": "G01:3601–3603",
+          "retained_boundary": "Shared outing and thanks; workload remains, planned later visit unperformed.",
+          "source_ids": [
+            "G01"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "MI07",
+          "claim_question": "restraint with continuing concealment",
+          "monograph_evidence_route_line": 120,
+          "received_route": "E03:E002–E011/E017",
+          "retained_boundary": "Actual local restraint, cleaning, trust and play; safety/property/budget and helper costs remain.",
+          "source_ids": [
+            "E03"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "MI08",
+          "claim_question": "opposition to instrumental mobilization",
+          "monograph_evidence_route_line": 121,
+          "received_route": "E02:E008–E010",
+          "retained_boundary": "Caution and intervention; no completed civil war or formal final accountability.",
+          "source_ids": [
+            "E02"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "MI09",
+          "claim_question": "wanted fictional life",
+          "monograph_evidence_route_line": 122,
+          "received_route": "E05:E010:u0033–0075",
+          "retained_boundary": "Reading enjoyment and stopped offer; no commissioned book or autobiographical heroine.",
+          "source_ids": [
+            "E05"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "ACCEPTED_EPISODE_OWNER_NOT_NEW_PRIMARY",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "MI10",
+          "claim_question": "public comparisons still bounded",
+          "monograph_evidence_route_line": 123,
+          "received_route": "V03:E001/E008; F04:E009; E06:E023/E024",
+          "retained_boundary": "No changed treatment/test score; dream play remains dream-qualified.",
+          "source_ids": [
+            "E06",
+            "F04",
+            "V03"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        }
+      ],
+      "author_body_receiving": "COMPLETE_THROUGH_EOF_SEE_SAVED_OUTPUT_RECEIPT",
+      "root_literary_receiving": "COMPLETE_WITH_LIMITS",
+      "model_or_prospective_status": "NONE_CLAIMED",
+      "frozen_author_body": {
+        "body": "BLUE_ARCHIVE_MIKA_CHARACTER_MONOGRAPH.md",
+        "body_byte_count": 24404,
+        "body_sha256": "bb6d1bde60acd44e539bb22a0979f7cf870b935c9f772d1229ac61bceb7cb79e"
+      },
+      "author_locator_scope": "all_eleven_sections and monograph_evidence_route_line remain exact frozen author-body line references; canonical insertions are editorial only"
+    },
+    {
+      "package_key": "P3-CHAR-NAGISA",
+      "body": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NAGISA_CHARACTER_MONOGRAPH.md",
+      "body_byte_count": 26931,
+      "body_sha256": "4f2547d787261f3c2d1884c5d92584c07d14a5ec92c0bd2fd670352df7bc5bd7",
+      "distinct_thesis": "Genuine protection and wanted shared life coexist with attempts to administer uncertain motives and with recipient costs.",
+      "all_eleven_sections": [
+        {
+          "number": 1,
+          "title": "Core thesis",
+          "start_line": 14,
+          "end_line": 21
+        },
+        {
+          "number": 2,
+          "title": "Longitudinal arc",
+          "start_line": 22,
+          "end_line": 35
+        },
+        {
+          "number": 3,
+          "title": "Public and private self",
+          "start_line": 36,
+          "end_line": 45
+        },
+        {
+          "number": 4,
+          "title": "School and club role",
+          "start_line": 46,
+          "end_line": 57
+        },
+        {
+          "number": 5,
+          "title": "Ordinary life",
+          "start_line": 58,
+          "end_line": 67
+        },
+        {
+          "number": 6,
+          "title": "Crisis behavior",
+          "start_line": 68,
+          "end_line": 77
+        },
+        {
+          "number": 7,
+          "title": "Sensei relationship",
+          "start_line": 78,
+          "end_line": 85
+        },
+        {
+          "number": 8,
+          "title": "Major peer relationships",
+          "start_line": 86,
+          "end_line": 95
+        },
+        {
+          "number": 9,
+          "title": "Language and voice",
+          "start_line": 96,
+          "end_line": 103
+        },
+        {
+          "number": 10,
+          "title": "Competing readings",
+          "start_line": 104,
+          "end_line": 111
+        },
+        {
+          "number": 11,
+          "title": "Evidence route",
+          "start_line": 112,
+          "end_line": 132
+        }
+      ],
+      "serious_rivals": [
+        "Invariant controlling essence",
+        "Fully reformed safe protector",
+        "Overwork as sufficient cause",
+        "False public/true private split"
+      ],
+      "directed_peer_agency": [
+        "Hifumi",
+        "Mine",
+        "Ichika",
+        "Mashiro",
+        "Shimiko",
+        "Mika",
+        "Seia"
+      ],
+      "ordinary_value": "Wanted tastes, company, art/play/reading/rest and failed or refused encounters retain independent literary standing.",
+      "public_private_limit": "Different audiences and consequences; inner/choices/reports not flattened into shared knowledge; no global costume ladder.",
+      "claims": [
+        {
+          "claim_id": "NA01",
+          "claim_question": "suspicion converted to expulsion design",
+          "monograph_evidence_route_line": 118,
+          "received_route": "M01:E009/E012; M02:E009–E015",
+          "retained_boundary": "Real danger does not validate every suspect or prove manipulation/issuer of every later demand.",
+          "source_ids": [
+            "M01",
+            "M02"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "NA02",
+          "claim_question": "apology and trust without access to inner heart",
+          "monograph_evidence_route_line": 119,
+          "received_route": "M03:E002; V03:E008",
+          "retained_boundary": "Local apologies and agreement; no general vindication or healed institution.",
+          "source_ids": [
+            "M03",
+            "V03"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "NA03",
+          "claim_question": "real sponsorship with qualified authority",
+          "monograph_evidence_route_line": 120,
+          "received_route": "V01:E005–E007; V02:E004; V03:E008",
+          "retained_boundary": "Personal Mine request, educational offers and historical comparison; funding, handover, archive and political response unprinted.",
+          "source_ids": [
+            "V01",
+            "V02",
+            "V03"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "NA04",
+          "claim_question": "hospitality and incomplete reception",
+          "monograph_evidence_route_line": 121,
+          "received_route": "P02:20024:E002/E003/E005/E006;20048:E002/E003/E005/E006",
+          "retained_boundary": "Full endings include apology, attack-method uncertainty, failed surfing, search, task and release; no global variant calendar.",
+          "source_ids": [
+            "P02"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "NA05",
+          "claim_question": "student art and reciprocal recognition",
+          "monograph_evidence_route_line": 122,
+          "received_route": "E02:E018:scene001:u0001–0081",
+          "retained_boundary": "Reported praise, initial sparse attendance, actual thanks/narrated success and tired peers; no inspected paintings.",
+          "source_ids": [
+            "E02"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "ACCEPTED_EPISODE_OWNER_NOT_NEW_PRIMARY",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "NA06",
+          "claim_question": "friend-authored respite",
+          "monograph_evidence_route_line": 123,
+          "received_route": "G01:3601–3603",
+          "retained_boundary": "Actual outing; workload persists, future invitation unperformed.",
+          "source_ids": [
+            "G01"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "NA07",
+          "claim_question": "caution, deployment and interrupted clash",
+          "monograph_evidence_route_line": 124,
+          "received_route": "E02:E008–E010",
+          "retained_boundary": "Coup inference, clarification attempt, actual mobilization, Mari assent and unfinished accountability.",
+          "source_ids": [
+            "E02"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "NA08",
+          "claim_question": "trust and public-access costs",
+          "monograph_evidence_route_line": 125,
+          "received_route": "E03:E010–E016/E029",
+          "retained_boundary": "Actual trust/play; motives differ, review/work persist, rank burdens and independent staff criticism retained.",
+          "source_ids": [
+            "E03"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "NA09",
+          "claim_question": "attack inference and revised cultural route",
+          "monograph_evidence_route_line": 126,
+          "received_route": "E05:E002–E010",
+          "retained_boundary": "Shimiko's contrary argument, Mashiro's reception, reading and spoken proposal; no permanent repeal or signed treaty.",
+          "source_ids": [
+            "E05"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "NA10",
+          "claim_question": "considered tea-policy withdrawal",
+          "monograph_evidence_route_line": 127,
+          "received_route": "L03:BA:main:series2:001:001:006:scene003:u0002–0029",
+          "retained_boundary": "Consideration is not enactment; visitor identity and reported market consequences unaudited.",
+          "source_ids": [
+            "L03"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "ACCEPTED_EPISODE_OWNER_NOT_NEW_PRIMARY",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "NA11",
+          "claim_question": "protective restriction and self-worth distinction",
+          "monograph_evidence_route_line": 128,
+          "received_route": "E04:E002:u0109–0127 and fullE002",
+          "retained_boundary": "Nagisa's concern and compromise; Seia knows friends do not equate her worth with foresight.",
+          "source_ids": [
+            "E04"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "ACCEPTED_EPISODE_OWNER_NOT_NEW_PRIMARY",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "NA12",
+          "claim_question": "dream-role limit",
+          "monograph_evidence_route_line": 129,
+          "received_route": "E06:E023/E024",
+          "retained_boundary": "Role adopted and normal manner returns inside play; no actual pedigree or Treaty change.",
+          "source_ids": [
+            "E06"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "NA13",
+          "claim_question": "compulsory contact and plural recipient outcomes",
+          "monograph_evidence_route_line": 130,
+          "received_route": "G02:1801:scene002:u0031–0045;1802:scene001 and scene002 ending",
+          "retained_boundary": "Video mandate and actual visits; felt happiness remains beside others' unease, not a cure or reciprocal-welcome proof.",
+          "source_ids": [
+            "G02"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "ACCEPTED_EPISODE_OWNER_NOT_NEW_PRIMARY",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        }
+      ],
+      "author_body_receiving": "COMPLETE_THROUGH_EOF_SEE_SAVED_OUTPUT_RECEIPT",
+      "root_literary_receiving": "COMPLETE_WITH_LIMITS",
+      "model_or_prospective_status": "NONE_CLAIMED",
+      "frozen_author_body": {
+        "body": "BLUE_ARCHIVE_NAGISA_CHARACTER_MONOGRAPH.md",
+        "body_byte_count": 26279,
+        "body_sha256": "e5c5008d72b3bcdcf1bdba8f1a0104fd8ab6eb76c7a5701316f93fa847515318"
+      },
+      "author_locator_scope": "all_eleven_sections and monograph_evidence_route_line remain exact frozen author-body line references; canonical insertions are editorial only"
+    },
+    {
+      "package_key": "P3-CHAR-SEIA-CH0070",
+      "body": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SEIA_CHARACTER_MONOGRAPH.md",
+      "body_byte_count": 24692,
+      "body_sha256": "d37c1a6a056375952d9343c68f932423b26104c44464cdbf0e09f6dfe5772d12",
+      "distinct_thesis": "Worth and reciprocity do not require certain foresight or flawless usefulness; company retains pressure, recipient objections and independent agency.",
+      "all_eleven_sections": [
+        {
+          "number": 1,
+          "title": "Core thesis",
+          "start_line": 14,
+          "end_line": 21
+        },
+        {
+          "number": 2,
+          "title": "Longitudinal arc",
+          "start_line": 22,
+          "end_line": 35
+        },
+        {
+          "number": 3,
+          "title": "Public and private self",
+          "start_line": 36,
+          "end_line": 45
+        },
+        {
+          "number": 4,
+          "title": "School and club role",
+          "start_line": 46,
+          "end_line": 55
+        },
+        {
+          "number": 5,
+          "title": "Ordinary life",
+          "start_line": 56,
+          "end_line": 65
+        },
+        {
+          "number": 6,
+          "title": "Crisis behavior",
+          "start_line": 66,
+          "end_line": 75
+        },
+        {
+          "number": 7,
+          "title": "Sensei relationship",
+          "start_line": 76,
+          "end_line": 83
+        },
+        {
+          "number": 8,
+          "title": "Major peer relationships",
+          "start_line": 84,
+          "end_line": 93
+        },
+        {
+          "number": 9,
+          "title": "Language and voice",
+          "start_line": 94,
+          "end_line": 101
+        },
+        {
+          "number": 10,
+          "title": "Competing readings",
+          "start_line": 102,
+          "end_line": 109
+        },
+        {
+          "number": 11,
+          "title": "Evidence route",
+          "start_line": 110,
+          "end_line": 128
+        }
+      ],
+      "serious_rivals": [
+        "Every pleasure as lost-power compensation",
+        "Omniscient controller",
+        "Harmless affection",
+        "Exclusive teacher transformation",
+        "Variant maturity ladder"
+      ],
+      "directed_peer_agency": [
+        "Noa",
+        "Neru",
+        "Karin",
+        "Rio",
+        "Ichika",
+        "Mika",
+        "Nagisa"
+      ],
+      "ordinary_value": "Wanted tastes, company, art/play/reading/rest and failed or refused encounters retain independent literary standing.",
+      "public_private_limit": "Different audiences and consequences; inner/choices/reports not flattened into shared knowledge; no global costume ladder.",
+      "claims": [
+        {
+          "claim_id": "SE01",
+          "claim_question": "injury, mediated presence and revision",
+          "monograph_evidence_route_line": 116,
+          "received_route": "M01:E001; M02:E017–E020; M03:E001/E016/E020; M04:E001–E007",
+          "retained_boundary": "False-death report, sleep and dream are distinguished; no full clinical audit or automatic waking forgiveness.",
+          "source_ids": [
+            "M01",
+            "M02",
+            "M03",
+            "M04"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "SE02",
+          "claim_question": "consequential loss without verified mechanism",
+          "monograph_evidence_route_line": 117,
+          "received_route": "M04:E026/E027; F01:E002",
+          "retained_boundary": "Seia/Kuzunoha accounts, not a measured rite or universal forecasting model.",
+          "source_ids": [
+            "F01",
+            "M04"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "SE03",
+          "claim_question": "useful qualified warning with independent peers",
+          "monograph_evidence_route_line": 118,
+          "received_route": "F02:E014; L02:BA:main:100:004:005:scene001:u0036–0066",
+          "retained_boundary": "Discovery/rescue and preparation actual; foreboding not proven regained foresight, Noa's hunch retained.",
+          "source_ids": [
+            "F02",
+            "L02"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "ACCEPTED_EPISODE_OWNER_NOT_NEW_PRIMARY",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "SE04",
+          "claim_question": "firsthand talk, gifts and chosen song",
+          "monograph_evidence_route_line": 119,
+          "received_route": "P03:10110:E002/E003/E005/E006",
+          "retained_boundary": "Complete codas; profile assertions and childhood reports qualified; lyrics/performance unavailable.",
+          "source_ids": [
+            "P03"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "SE05",
+          "claim_question": "company with branch and veto limits",
+          "monograph_evidence_route_line": 120,
+          "received_route": "P03:10123:E002/E003/E005/E006",
+          "retained_boundary": "Alternatives not combined; actual return/help/rest and later objections/pleasure retained; no variant ladder.",
+          "source_ids": [
+            "P03"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "SE06",
+          "claim_question": "claimed signature and room rule",
+          "monograph_evidence_route_line": 121,
+          "received_route": "L04:BA:event:80000:124:scene001:u0011–0038",
+          "retained_boundary": "Represented signature and claims; no instrument, legal validity or rendered free-assent choice.",
+          "source_ids": [
+            "L04"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "ACCEPTED_EPISODE_OWNER_NOT_NEW_PRIMARY",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "SE07",
+          "claim_question": "practical peer authorship",
+          "monograph_evidence_route_line": 122,
+          "received_route": "G01:3601–3603",
+          "retained_boundary": "Transport/information/snacks; temporary relief and continuing work, no clinical cure.",
+          "source_ids": [
+            "G01"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "SE08",
+          "claim_question": "holiday care, pressure and unconsulted friend",
+          "monograph_evidence_route_line": 123,
+          "received_route": "E03:E002/E005/E010/E018",
+          "retained_boundary": "Actual redirected calls/tents/play; pressure, structural load and Ichika dissent retained.",
+          "source_ids": [
+            "E03"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "SE09",
+          "claim_question": "self-worth distinct from friends' doctrine",
+          "monograph_evidence_route_line": 124,
+          "received_route": "E04:E002:u0109–0127 and fullE002",
+          "retained_boundary": "Conditional-trust feeling and known friend regard coexist; no equating lost foresight with uselessness.",
+          "source_ids": [
+            "E04"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "ACCEPTED_EPISODE_OWNER_NOT_NEW_PRIMARY",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "SE10",
+          "claim_question": "Rio comparison and limited ending",
+          "monograph_evidence_route_line": 125,
+          "received_route": "E04:E003–E009; especiallyE008:u0097–0102",
+          "retained_boundary": "Hurt/objection/acceptance/invitation actual; later week, liability and sponsor hidden aims not resolved.",
+          "source_ids": [
+            "E04"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "ACCEPTED_EPISODE_OWNER_NOT_NEW_PRIMARY",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        },
+        {
+          "claim_id": "SE11",
+          "claim_question": "public role and mode continuity",
+          "monograph_evidence_route_line": 126,
+          "received_route": "V03:E001/E008; E02:E018; E06:E023/E024",
+          "retained_boundary": "Interim roles unnamed; self-report and art visit bounded; sporting role dream-qualified.",
+          "source_ids": [
+            "E02",
+            "E06",
+            "V03"
+          ],
+          "source_binding_check": "RESOLVES_TO_EXACT_INPUTS",
+          "semantic_verification": "AUTHOR_RECEIVED_ARGUMENT_AND_ENDPOINT_COMPARISON",
+          "fine_locator_scope": "COMPLETE_CHAPTER_EPISODE_OR_FAMILY_ARGUMENT",
+          "rival_and_endpoint_coverage": "SUSTAINED_PROSE_AND_CUSTODY_REVIEW_NOT_INFERRED_FROM_ROUTE_COUNT",
+          "root_receiving": "COMPLETE_BOUNDARY_CHECK_WITH_LIMITS"
+        }
+      ],
+      "author_body_receiving": "COMPLETE_THROUGH_EOF_SEE_SAVED_OUTPUT_RECEIPT",
+      "root_literary_receiving": "COMPLETE_WITH_LIMITS",
+      "model_or_prospective_status": "NONE_CLAIMED",
+      "frozen_author_body": {
+        "body": "BLUE_ARCHIVE_SEIA_CHARACTER_MONOGRAPH.md",
+        "body_byte_count": 24049,
+        "body_sha256": "0fe9c7f8923138aff2fbd75daf66ab481a991fb8bacfdf13ebbdcb6fff879c3f"
+      },
+      "author_locator_scope": "all_eleven_sections and monograph_evidence_route_line remain exact frozen author-body line references; canonical insertions are editorial only"
+    }
+  ],
+  "all_fourteen_gaps": "OPEN",
+  "N_frozen": false,
+  "quarter_claimed": false,
+  "root_adoption": "CANONICAL_DERIVATIVE_SOURCE_BRANCH"
+}

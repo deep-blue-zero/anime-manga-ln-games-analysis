@@ -1,0 +1,148 @@
+{
+ "status": "PASS_EXACT_INPUTS_AND_COMPLETE_SEMANTIC_ADJUDICATION_WITH_LIMITS",
+ "base": "1dc2092095ed74ee743971f1f274b30cb291d939",
+ "main": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+ "prior_complete_partition_receiving": {
+  "status": "PASS_EXACT_PRESERVATION_WITH_SEMANTIC_ADJUDICATION_IN_PROGRESS",
+  "frozen_delivery_files_verified": 16,
+  "exact_input_bindings_verified": 19,
+  "original_source_disposition_rows_verified": 221,
+  "typed_F_union": 148,
+  "counted_proposal_homes": 382,
+  "proposed_standalone_packages": 350,
+  "required_section_proposals": 23,
+  "review_holds_pending": 9,
+  "owner_bounds_verified": 105,
+  "literal_source_union_verified": 1107,
+  "role_fields_preserved_exactly": 3,
+  "receiving_declarations_preserved_exactly": 128,
+  "current_argument_files_exact_to_c1_and_main": 19,
+  "root_actual_receiving": {
+   "whole_prose": "4fe88b L1–85;17bbfd L86–155;ee1db8 L156–224EOF",
+   "all382_allocation_rows": "c7a856;7d3618;57dfe9;73cd2e;18a7ff plus299–301 fullclip recoverybc0c31;f64726;82c15f;3d8c40",
+   "all105_packet_allocations": "6ee987 0–34;b1a9b5 35–69;e958bb70–104; literal arrays reuse prior exact matrix scope rather than fresh human reading",
+   "alias_sections": "d95e95",
+   "original_literary_decisions": "Reuse earlier whole ROOT received census arguments at exact preserved scopes; no false fresh full reread",
+   "new19_argument_custody": "581014/824b9e fulldeclared custody fields; actualwhole author reading attributed and exact bytes verified"
+  },
+  "N_frozen": false,
+  "literary_completion_credit_added": 0,
+  "quarter_reached": false,
+  "canonical_adoption": "PENDING_ADJUDICATION_AND_PUBLIC_DERIVATIVE",
+  "source_or_performance_credit_added": 0,
+  "gaps": "ALL14_OPEN_UNCHANGED",
+  "R_or_git_writes": false
+ },
+ "supplement_outputs_exact_verified": [
+  {
+   "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_ADJUDICATION_HISTORY_V1/NINE_HOLDS_AND_SHIROKO_CONCRETE_ADJUDICATION_ARGUMENT_V1.md",
+   "bytes": 35581,
+   "sha256": "1676db3fed4fce27dea8dc345393262673847893c429a4a4a4297a5e773a7fbc",
+   "git_blob_sha1": "ae359711b965332185d5a388bc020c22a654b255"
+  },
+  {
+   "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_ADJUDICATION_HISTORY_V1/TEN_CONCRETE_HOME_DECISIONS_V1.json",
+   "bytes": 35199,
+   "sha256": "b108daf580f89833d16e32ece19b88397b9145c525c50ebbafdeee59958ba054",
+   "git_blob_sha1": "1e1b94b5bbd356ab4a23500cdf20f4f24a7dcb36"
+  },
+  {
+   "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_ADJUDICATION_HISTORY_V1/EXACT_INPUTS_AND_ACTUAL_RECEIVING_SCOPE_V1.json",
+   "bytes": 17133,
+   "sha256": "b117cab97a915a67e7a5b20251a4308120879b33aaac1dfb3b60383d231b26c3",
+   "git_blob_sha1": "3cd2aad0b003c4ecda34337013a49a5b17d21694"
+  },
+  {
+   "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_ADJUDICATION_HISTORY_V1/SAVED_ARGUMENT_SECTION_AND_PARAGRAPH_INDEX_V1.json",
+   "bytes": 26960,
+   "sha256": "3110cde3492cdbbbf4d67c33288396668d8aaf5d266897cec4170b7d62d9e75c",
+   "git_blob_sha1": "668a1198e442db5d648e1326979cdce7202de92a"
+  },
+  {
+   "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_SCOPE_ADJUDICATION_HISTORY_V1/COMPLETE_DELIVERY_RECEIPT.md",
+   "bytes": 2438,
+   "sha256": "df2f9350b2163c43b3f45f06a11733e39156f2bf791f596d6ebd90df8302edbd",
+   "git_blob_sha1": "1f48d920cd2f9f83fe9186617de65c698ce7b055"
+  },
+  {
+   "path": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_NINE_HOLDS_ADJUDICATION_V1\\EXACT_OUTPUT_MANIFEST.json",
+   "bytes": 2226,
+   "sha256": "c732bf32f33cfb835c148374ba6f68421126ae5aa5ae727aeb0f98f898e448b2",
+   "git_blob_sha1": "0ef7a18c342e47505b892417b4fcf02bf73bf456"
+  },
+  {
+   "path": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_NINE_HOLDS_ADJUDICATION_V1\\COMPLETE_DELIVERY_RECEIPT.json",
+   "bytes": 3310,
+   "sha256": "b6fe715a79cbe1b6ddccc7cb90eaca2b9038dc948adc5269acf1fb04ffa66190"
+  }
+ ],
+ "supplement_exact_analytical_inputs": 19,
+ "supplement_exact_targeted_primary_witnesses": 3,
+ "current_arguments_equal_to_main_and_c1": [
+  "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIMARI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+  "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_EIMI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+  "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+  "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+  "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+  "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+  "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_843/BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+  "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+  "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_856/BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+  "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+  "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_849/BLUE_ARCHIVE_EVENT_849_CONTEXTUALIZATION_CHECKPOINT.md",
+  "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_862/BLUE_ARCHIVE_EVENT_862_CONTEXTUALIZATION_CHECKPOINT.md"
+ ],
+ "saved_supplement_blocks_exact": 84,
+ "ROOT_actual_receiving": {
+  "supplement_whole_saved_body": "Prior5fc877 L1–120;5e1dba L121–189EOF",
+  "all10_complete_decision_fields": "8b6df4 rows0–2;5a6858 rows3–5;076f70 rows6–9",
+  "all19_plus3_scopes": "5ae210;766393;00b9c8;5f08e6 exact tuple schema",
+  "receipt_manifest_controls": "1fc850;4f6f03;08dcb0;e00629;index mechanical joining separate",
+  "Hyakka_duplicate": "e3a22d;eb7860;author concordance message; complete original HYS meaning reuse at previously declared scope"
+ },
+ "semantic_decision": "ACCEPT_FULL_REQUIRED_SCOPE_WITH_LIMITS",
+ "ten_operations_accepted": 10,
+ "duplicate_question_absorptions": 1,
+ "N_frozen": true,
+ "N": 353,
+ "kind_counts": {
+  "CHARACTER": 205,
+  "SENSEI": 1,
+  "REGISTER": 4,
+  "DIRECTED_RELATIONSHIP": 73,
+  "INSTITUTION": 54,
+  "ENSEMBLE": 16
+ },
+ "required_named_sections": 26,
+ "milestones": {
+  "25": 89,
+  "50": 177,
+  "75": 265,
+  "100": 353
+ },
+ "all_original_source_responsibilities_retained": true,
+ "new_primary_or_performance_credit": 0,
+ "new_completed_literary_packages": 0,
+ "quarter_reached": false,
+ "canonical_adoption": "PUBLIC_DERIVATIVE_PENDING_ROOT_INSTALLATION",
+ "R_Git_writes": false,
+ "nine_unbound_large_files_opened_or_hashed": false,
+ "all14gaps": "OPEN",
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_frozen_binding": {
+   "bytes": 7640,
+   "sha256": "675db9d3dab8f767b7c6afb772a45db7548019f2605693aa6b7ca285481cfba5",
+   "git_blob_sha1": "225d27321db9579a3ba50c2d1bfa80ecd92181b2"
+  }
+ },
+ "superseded_by": [
+  "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json"
+ ],
+ "current_authority_qualification": "Historical exact ROOT353/26 scope witness. The355/29 successor supersedes present membership/allocation; source/read/completion credit stays at original scope."
+}

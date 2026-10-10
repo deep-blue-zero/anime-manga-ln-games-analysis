@@ -1,0 +1,1178 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_INSTALLATION_PENDING",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md",
+    "bytes": 54023,
+    "sha256": "0b6becfbfbfe7d371be0cac8d63193386abf458296ccb2d29ae13cd7b86f462a",
+    "git_blob_oid_of_actual_bytes": "e8caa7a34cfec2e5cf21245dcdc673e8ef36d524",
+    "lines": 172
+  },
+  "historical_frozen_claim_and_endpoint_register": {
+    "schema": "HIBIKI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+    "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_REVIEW_PENDING",
+    "body": {
+      "file": "BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md",
+      "byte_count": 52132,
+      "line_count": 160,
+      "sha256": "b5e924e7e4a67cde5454c8e3e0e256c37aa90556902acadf0c8ce3dee32a492a",
+      "actual_byte_blob_oid": "4acf0ec5752c70a3697ad8f086fdc4fd0e3d096d"
+    },
+    "all_eleven_sections": [
+      {
+        "line": 23,
+        "heading": "## 1. Core thesis"
+      },
+      {
+        "line": 31,
+        "heading": "## 2. Longitudinal arc and legitimate ordering"
+      },
+      {
+        "line": 43,
+        "heading": "## 3. Public self, private self, and interpretation"
+      },
+      {
+        "line": 53,
+        "heading": "## 4. Millennium and Engineering: standards, resources and ownership"
+      },
+      {
+        "line": 63,
+        "heading": "## 5. Ordinary life: making, imagination, rest and reciprocal pleasure"
+      },
+      {
+        "line": 77,
+        "heading": "## 6. Crisis behavior: limits, responsibility and actual endings"
+      },
+      {
+        "line": 91,
+        "heading": "## 7. Relationship with Sensei: requests, feedback and reciprocity"
+      },
+      {
+        "line": 101,
+        "heading": "## 8. Major peers and independent recipients"
+      },
+      {
+        "line": 111,
+        "heading": "## 9. Japanese written voice and source-mode limits"
+      },
+      {
+        "line": 121,
+        "heading": "## 10. Competing readings and evidential judgment"
+      },
+      {
+        "line": 135,
+        "heading": "## 11. Evidence route, open gaps and completeness"
+      }
+    ],
+    "complete_saved_paragraph_joins": [
+      {
+        "saved_paragraph_id": "HIBIKI-P001",
+        "saved_line": 25,
+        "section": "## 1. Core thesis",
+        "paragraph_sha256": "86d9940545f78ac6610cdccd683ae48a69ecd5e577e2f53a1c691fd499d3c384",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "H25:complete private and written account"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P002",
+        "saved_line": 27,
+        "section": "## 1. Core thesis",
+        "paragraph_sha256": "edde45a4684a58c6d7591afe494d3a12a564c5d2c5c15d63e82eea34d5f42be6",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "16010:003u0033–0048;005u0011–0044;006u0015–0033;20000:009scene002u0025–0038;015u0006–0016/0041–0062"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P003",
+        "saved_line": 29,
+        "section": "## 1. Core thesis",
+        "paragraph_sha256": "a431d0d353f9851dfb123afe7a943bcad9eff9c8d27e726044c8d3a955451f5d",
+        "source_ids": [
+          "E17",
+          "E18007",
+          "E18009",
+          "E18010",
+          "E18017",
+          "F00",
+          "G14",
+          "H25",
+          "L23",
+          "PW"
+        ],
+        "inline_locators": [],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P004",
+        "saved_line": 33,
+        "section": "## 2. Longitudinal arc and legitimate ordering",
+        "paragraph_sha256": "dd1a66a5ef010ca693c8df2c8c18436aa0898ecc19a2857063dc31401916682c",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "20000:002u0008–0037 and wholethread200000010, including200000080:1310"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P005",
+        "saved_line": 35,
+        "section": "## 2. Longitudinal arc and legitimate ordering",
+        "paragraph_sha256": "7587dbb06fa26561ce1c09bdc3b0e1a750965bf381b17bc68cd05e38287a4c05",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "16010:003whole160100090/u0018–0048;005whole160100160/u0011–0044;006whole160100210/u0002–0033"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P006",
+        "saved_line": 37,
+        "section": "## 2. Longitudinal arc and legitimate ordering",
+        "paragraph_sha256": "b99b8f3874532be6ac8a836b1fd3d553c6ea806debe76cb23fba3c0a764b04fa",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "20000:003scene002u0024–0051/whole200000090;009scene001u0015–0019/scene002u0025–0059 and whole200000440"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P007",
+        "saved_line": 39,
+        "section": "## 2. Longitudinal arc and legitimate ordering",
+        "paragraph_sha256": "9cc9034348ca45eeb7eae53faf94c123e7b8aa991585348a52da5e751278401b",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "20000:008u0012–0038 and full1367–1370 coda;015u0006–0016/0049–0062;16010:002u0027–0034;D16010:ProfileIntroductionJp/CharacterGet4682"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P008",
+        "saved_line": 41,
+        "section": "## 2. Longitudinal arc and legitimate ordering",
+        "paragraph_sha256": "1cb51f2d4ee5cef21d45f6bd07fba2acff7457b769bfd83d21453357f3cc81a9",
+        "source_ids": [
+          "E17",
+          "E18007",
+          "E18009",
+          "E18010",
+          "E18017",
+          "F00",
+          "G14",
+          "H25",
+          "L23",
+          "PW"
+        ],
+        "inline_locators": [],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P009",
+        "saved_line": 45,
+        "section": "## 3. Public self, private self, and interpretation",
+        "paragraph_sha256": "ca6b7d2c52c9c20412bd1eb22f2ed3b590de4c324e61fc05b56ebc6718e869d3",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "D20000:ProfileIntroductionJp;Cafe1685–1686;UILobby1694/1696–1699"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P010",
+        "saved_line": 47,
+        "section": "## 3. Public self, private self, and interpretation",
+        "paragraph_sha256": "554bcd9f3797a1c7162b69b1094d1a586f0e4a3d3c0f770561625acb1bfd1491",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "16010:003u0035–0040;20000:015u0041–0056"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P011",
+        "saved_line": 49,
+        "section": "## 3. Public self, private self, and interpretation",
+        "paragraph_sha256": "68386ba9441a3517c2ecf277543ef10a073d65e49b9de0f4dd28e6b55191f3b1",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "16010:002u0013/0020–0034/0036–0048;D16010:UILobby4691/4694–4700"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P012",
+        "saved_line": 51,
+        "section": "## 3. Public self, private self, and interpretation",
+        "paragraph_sha256": "7e5f8c106be25b0acdf957a3d276041ef93bce4ce5055fba7a9c1abc15f1f905",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "20000:006whole200000260/messages1341–1343/u0052;16010:003u0047–0048"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P013",
+        "saved_line": 55,
+        "section": "## 4. Millennium and Engineering: standards, resources and ownership",
+        "paragraph_sha256": "c7c80eb10db6b499767409d3154b78d749c99f98f879fb07e49d910405d0c03a",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "20000:002u0005–0024;D20000:Cafe1685–1686"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P014",
+        "saved_line": 57,
+        "section": "## 4. Millennium and Engineering: standards, resources and ownership",
+        "paragraph_sha256": "dd88d5f9e686c3b3237d7442e67003249ee37d7448a4f386a703a889449cfcdb",
+        "source_ids": [
+          "G14"
+        ],
+        "inline_locators": [
+          "G1401u0007–0019/0044–0055;G1402u0002–0025, with current actor qualifications"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P015",
+        "saved_line": 59,
+        "section": "## 4. Millennium and Engineering: standards, resources and ownership",
+        "paragraph_sha256": "330f7308e7890d0b49934a758649e27c2e8c56dcecb937a23ffb5d24606dd0ff",
+        "source_ids": [
+          "G14"
+        ],
+        "inline_locators": [
+          "G1402u0026–0055/0063–0064;G1403u0013–0023/0031–0045/0063–0079"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P016",
+        "saved_line": 61,
+        "section": "## 4. Millennium and Engineering: standards, resources and ownership",
+        "paragraph_sha256": "894de61ef1d2893c88ff47261ba4000ed55576d1ace923582a23bb2641d23480",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "20000:009scene001u0013–0019/scene002u0025–0038/0056–0059"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P017",
+        "saved_line": 65,
+        "section": "## 5. Ordinary life: making, imagination, rest and reciprocal pleasure",
+        "paragraph_sha256": "a8159987dc800b04152abdd82a58dfb264c3bd860bfb99d3e83b733690465168",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "16010:002u0005–0013/0020–0026/0036–0048 and whole160100010"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P018",
+        "saved_line": 67,
+        "section": "## 5. Ordinary life: making, imagination, rest and reciprocal pleasure",
+        "paragraph_sha256": "afcf0eb1848854340dc6c7b478a7805228765a002f0c7e4e5af7c8882ee86c98",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "20000:015u0027–0037/0041–0056;D16010:UILobby4699–4700;D20000:UILobby1700–1706"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P019",
+        "saved_line": 69,
+        "section": "## 5. Ordinary life: making, imagination, rest and reciprocal pleasure",
+        "paragraph_sha256": "2113eb26f6df92b9da3e4820ba55ca868a484ea013b512dab20e1cc28fb89586",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "20000:008u0007–0020/0024–0038 and whole200000360/messages1367–1370"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P020",
+        "saved_line": 71,
+        "section": "## 5. Ordinary life: making, imagination, rest and reciprocal pleasure",
+        "paragraph_sha256": "825744070902d4233cfe708649aa7ca237fc4f261a0666843a7816ad9bb0f1fd",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "20000:006u0021–0052 and complete1345–1354 coda;16010:006u0015–0033 and complete160100210"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P021",
+        "saved_line": 73,
+        "section": "## 5. Ordinary life: making, imagination, rest and reciprocal pleasure",
+        "paragraph_sha256": "8c3cc0f04e34f67c7dcfe8114d315405bb8363be35a57dd612788e3ef2046c52",
+        "source_ids": [
+          "E17",
+          "E18007",
+          "E18009",
+          "E18010",
+          "E18017",
+          "F00",
+          "G14",
+          "H25",
+          "L23",
+          "PW"
+        ],
+        "inline_locators": [],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P022",
+        "saved_line": 75,
+        "section": "## 5. Ordinary life: making, imagination, rest and reciprocal pleasure",
+        "paragraph_sha256": "75c7bece4f9631faf33f72c844f3b8f75361428d2156b2116eaa4927fd2d88fb",
+        "source_ids": [
+          "L23"
+        ],
+        "inline_locators": [
+          "810:023u0002–0017/0018–0026;JP/KR limits and complete ending"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P023",
+        "saved_line": 79,
+        "section": "## 6. Crisis behavior: limits, responsibility and actual endings",
+        "paragraph_sha256": "c04e24a79b62b2b808bbd67e6b5f51048479e9d914d3aaa20c65aba8ca28ab1b",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "20000:003scene002u0003/0013–0037/0039–0051;whole200000090/messages1317–1323"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P024",
+        "saved_line": 81,
+        "section": "## 6. Crisis behavior: limits, responsibility and actual endings",
+        "paragraph_sha256": "56ce7e566245c5294368873549ee9a42ebcc6c2b56c06e825a7ed0b4a0b45f6c",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "16010:005u0011–0017/0024–0039/0043–0044 and whole160100160"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P025",
+        "saved_line": 83,
+        "section": "## 6. Crisis behavior: limits, responsibility and actual endings",
+        "paragraph_sha256": "a9a744ab280a9c6f7050010745c4918155b3eda32bbe996a3c2af145ecc73bbe",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "20000:009scene001u0006/0015–0019;scene002u0015–0038"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P026",
+        "saved_line": 85,
+        "section": "## 6. Crisis behavior: limits, responsibility and actual endings",
+        "paragraph_sha256": "fb65745f4d1d2dadf17813bd7d6bcfc7b8f409590c5ae9b854850bf4bcd719da",
+        "source_ids": [
+          "P212",
+          "P213",
+          "P217",
+          "P223",
+          "PW"
+        ],
+        "inline_locators": [
+          "PavaneC002E012u0047–0082",
+          "E013u0036–0055",
+          "E017scene002u0001–0052",
+          "E023u0018–0047",
+          "PW:complete normal contextual ending"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P027",
+        "saved_line": 87,
+        "section": "## 6. Crisis behavior: limits, responsibility and actual endings",
+        "paragraph_sha256": "996f5b5a528cb179262c434c6902beccc80c0d0f5ddae9cb18cc54182d0340c0",
+        "source_ids": [
+          "F00",
+          "F216",
+          "F307",
+          "F315"
+        ],
+        "inline_locators": [
+          "FinalC002E016u0001–0014",
+          "C003E007u0001–0019",
+          "C003E015u0027–0076",
+          "F00:complete accepted contextual ending"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P028",
+        "saved_line": 89,
+        "section": "## 6. Crisis behavior: limits, responsibility and actual endings",
+        "paragraph_sha256": "579f9e49e8e24969c5afc2df08aa3bb16e757f6609c016c22e384d80549e0da9",
+        "source_ids": [
+          "E17",
+          "E18007",
+          "E18009",
+          "E18010",
+          "E18017"
+        ],
+        "inline_locators": [
+          "817:corrected006/008–011",
+          "818:007u0019–0040",
+          "009u0079–0140",
+          "010u0001–0018",
+          "017u0017–0061"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P029",
+        "saved_line": 93,
+        "section": "## 7. Relationship with Sensei: requests, feedback and reciprocity",
+        "paragraph_sha256": "68d3efc5ef80fb93271ac0c580398b336db9c5b4e31727ccc4f55d04fd46dee8",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "16010:002choice001/u0005–0008;20000:008choice004–005;015u0006–0016/choice014"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P030",
+        "saved_line": 95,
+        "section": "## 7. Relationship with Sensei: requests, feedback and reciprocity",
+        "paragraph_sha256": "ce8a37d31db9a4e92f76930a7d9c6d96e49dcaf832028262e0d1fb9c5f1cb699",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "16010:003choice003–004/u0045–0048;20000:009scene002choice001–002/u0021–0038;015choice012–014/u0049–0062"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P031",
+        "saved_line": 97,
+        "section": "## 7. Relationship with Sensei: requests, feedback and reciprocity",
+        "paragraph_sha256": "66774d7846280fbef5c847452987d406ddb8298516a17d6dff3a8639dc6c48b1",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "D16010:UILobby4699–4700;16010:006u0023–0033;20000:006messages1341–1343;008messages1367–1370;009messages1380–1382"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P032",
+        "saved_line": 99,
+        "section": "## 7. Relationship with Sensei: requests, feedback and reciprocity",
+        "paragraph_sha256": "77341d1fc572e54a822900b982560a8c31b64ee8bba16e20a1ada31e0013ab08",
+        "source_ids": [
+          "E17",
+          "E18007",
+          "E18009",
+          "E18010",
+          "E18017",
+          "F00",
+          "G14",
+          "H25",
+          "L23",
+          "PW"
+        ],
+        "inline_locators": [],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P033",
+        "saved_line": 103,
+        "section": "## 8. Major peers and independent recipients",
+        "paragraph_sha256": "42c04eb8a1770ce4c9660d1b7fcadf66315a96de3b880888ddb753571bcdac19",
+        "source_ids": [
+          "G14"
+        ],
+        "inline_locators": [
+          "G1401–1403:complete argument and actual actor seams"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P034",
+        "saved_line": 105,
+        "section": "## 8. Major peers and independent recipients",
+        "paragraph_sha256": "1b49873ed614c99d29bd7bcefa101bb66c3bd792caa968d91d0997f0473fbb19",
+        "source_ids": [
+          "E17",
+          "E18007",
+          "E18017"
+        ],
+        "inline_locators": [
+          "817:006 and current correction scope",
+          "818:007 independent care",
+          "017 independent afterstory responses"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P035",
+        "saved_line": 107,
+        "section": "## 8. Major peers and independent recipients",
+        "paragraph_sha256": "083d54f4ec4e33e60a2afe124669aca85f61445f87f7547b18101ef05517939c",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "20000:005u0003–0017/0031–0055/0063–0072 and whole200000180/messages1336–1337"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P036",
+        "saved_line": 109,
+        "section": "## 8. Major peers and independent recipients",
+        "paragraph_sha256": "df2c4fe116d4555c22aee01e553d5a6f48ff4ce8062f00d9d664badd00cf3a36",
+        "source_ids": [
+          "E17",
+          "E18007",
+          "E18009",
+          "E18010",
+          "E18017",
+          "F00",
+          "G14",
+          "H25",
+          "L23",
+          "PW"
+        ],
+        "inline_locators": [],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P037",
+        "saved_line": 113,
+        "section": "## 9. Japanese written voice and source-mode limits",
+        "paragraph_sha256": "4d46bcfb250cb6854f5f26b16bdf70c02fead49f4c7300ca559ad57fa95cc156",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "16010:002u0013/0022–0023/0027;20000:002u0013;015u0014/0049–0056;D20000:UILobby1696–1699"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P038",
+        "saved_line": 115,
+        "section": "## 9. Japanese written voice and source-mode limits",
+        "paragraph_sha256": "40c92324a2a5547d971daf8f9afd4cf6c20a8f3b89632003f277b80eb7e5c582",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "20000:003scene002u0051;005u0024–0025;006u0028–0039;16010:005u0028–0033;003choice004;20000:008choice004–005"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P039",
+        "saved_line": 117,
+        "section": "## 9. Japanese written voice and source-mode limits",
+        "paragraph_sha256": "7c2c9636283f394a6ba0cdf0b3e5df364cfaed02e86ae109832641efca6b8abe",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "16010:003u0018–0032/0041;20000:009scene002u0031–0034/0045–0059;D20000:UILobbySpecial1708–1715;20000:005u0063–0065"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P040",
+        "saved_line": 119,
+        "section": "## 9. Japanese written voice and source-mode limits",
+        "paragraph_sha256": "983f51f3b4104757e0bcc0c77e8ee7605fb15d99f64dfac90fa6a99abdad9c99",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "Costume1900906601:16010:UIEventLobby000001–000035/UIEventShop000001–000018"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P041",
+        "saved_line": 123,
+        "section": "## 10. Competing readings and evidential judgment",
+        "paragraph_sha256": "3f74c0ca9377a81085ee5a511373406cd5329197773be1535d52438620f9f454",
+        "source_ids": [
+          "E17",
+          "E18007",
+          "E18009",
+          "E18010",
+          "E18017",
+          "F00",
+          "G14",
+          "H25",
+          "L23",
+          "PW"
+        ],
+        "inline_locators": [],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P042",
+        "saved_line": 125,
+        "section": "## 10. Competing readings and evidential judgment",
+        "paragraph_sha256": "06be20615ebac663ea74c352838cfafb7c2d00676260f11bd45a10ea0dc9953d",
+        "source_ids": [
+          "E17",
+          "E18007",
+          "E18009",
+          "E18010",
+          "E18017",
+          "F00",
+          "G14",
+          "H25",
+          "L23",
+          "PW"
+        ],
+        "inline_locators": [],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P043",
+        "saved_line": 127,
+        "section": "## 10. Competing readings and evidential judgment",
+        "paragraph_sha256": "f278d7414f8a9a435c73668a3886bea6b9ce78ec39087e83e76420b9a9bffe99",
+        "source_ids": [
+          "E17",
+          "E18007",
+          "E18009",
+          "E18010",
+          "E18017",
+          "F00",
+          "G14",
+          "H25",
+          "L23",
+          "PW"
+        ],
+        "inline_locators": [],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P044",
+        "saved_line": 129,
+        "section": "## 10. Competing readings and evidential judgment",
+        "paragraph_sha256": "9a9cfa8e0d9f5d00323c694881cb7f580cf84b37246db2bcd0ac40132d5f52f2",
+        "source_ids": [
+          "E17",
+          "E18007",
+          "E18009",
+          "E18010",
+          "E18017",
+          "F00",
+          "G14",
+          "H25",
+          "L23",
+          "PW"
+        ],
+        "inline_locators": [],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P045",
+        "saved_line": 131,
+        "section": "## 10. Competing readings and evidential judgment",
+        "paragraph_sha256": "c2fced287f8067973fe1f0cd45b85c68041c4481d7a75a7f432127c3592fec55",
+        "source_ids": [
+          "E17",
+          "E18007",
+          "E18009",
+          "E18010",
+          "E18017",
+          "F00",
+          "G14",
+          "H25",
+          "L23",
+          "PW"
+        ],
+        "inline_locators": [],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P046",
+        "saved_line": 133,
+        "section": "## 10. Competing readings and evidential judgment",
+        "paragraph_sha256": "a9b8e7cbf690b51d730a4ab5104c59ad3205095361c5553f1cacf1f14cdeafb4",
+        "source_ids": [
+          "E17",
+          "E18007",
+          "E18009",
+          "E18010",
+          "E18017",
+          "F00",
+          "G14",
+          "H25",
+          "L23",
+          "PW"
+        ],
+        "inline_locators": [],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P047",
+        "saved_line": 137,
+        "section": "## 11. Evidence route, open gaps and completeness",
+        "paragraph_sha256": "1092cc05cfe413394c04ed213e9629418644410862afe2c812d2484058afdb34",
+        "source_ids": [
+          "H25"
+        ],
+        "inline_locators": [
+          "H25:current whole normal authority and complete argument"
+        ],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P048",
+        "saved_line": 139,
+        "section": "## 11. Evidence route, open gaps and completeness",
+        "paragraph_sha256": "e7724ea46e6b0e535413f0d15cd1ade4f3dd1c1c5ba32481d17b0ccacfe26499",
+        "source_ids": [
+          "A01",
+          "A02",
+          "A03",
+          "A04",
+          "C05",
+          "C06",
+          "H25",
+          "L23"
+        ],
+        "inline_locators": [],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P049",
+        "saved_line": 141,
+        "section": "## 11. Evidence route, open gaps and completeness",
+        "paragraph_sha256": "8bde135f9ed535c44fea5da8cc447f8b215b3964c9ab7fa807d6d629e10deece",
+        "source_ids": [
+          "A01",
+          "A02",
+          "A03",
+          "A04",
+          "C05",
+          "C06",
+          "H25",
+          "L23"
+        ],
+        "inline_locators": [],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      },
+      {
+        "saved_paragraph_id": "HIBIKI-P050",
+        "saved_line": 160,
+        "section": "## 11. Evidence route, open gaps and completeness",
+        "paragraph_sha256": "f2b0573dd0c7881bcdc428e3d2386b547318a89127804ef5016fa5318004a4f7",
+        "source_ids": [
+          "A01",
+          "A02",
+          "A03",
+          "A04",
+          "C05",
+          "C06",
+          "H25",
+          "L23"
+        ],
+        "inline_locators": [],
+        "qualification": "Full saved paragraph actually received; source IDs are evidence routes, not an automated atom-by-atom semantic proof. Interpretation, contrary outcomes and source-specific limits are stated in the actual prose.",
+        "ROOT_acceptance": "PENDING"
+      }
+    ],
+    "consequential_endpoint_review": [
+      {
+        "id": "HIBIKI-E01",
+        "source_id": "H01",
+        "locators": "16010:002u0036–0048;complete160100010",
+        "affirmative_ending": "Joint material/curtain selection and wanted role/costume",
+        "contrary_or_unfinished_tail": "No finished coat/curtains, verified fictional fibers or heard inward42",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E02",
+        "source_id": "H02",
+        "locators": "16010:003u0041–0048;complete160100090",
+        "affirmative_ending": "Apology and ordinary coffee followed by actual narrated faster full data recovery and rumor",
+        "contrary_or_unfinished_tail": "No rumor truth, special uniform causal experiment or resolved public misunderstanding",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E03",
+        "source_id": "H03",
+        "locators": "16010:005u0027–0044;complete160100160",
+        "affirmative_ending": "Stated fear-based deadline scheme; actually rapid completed report and confiscation",
+        "contrary_or_unfinished_tail": "No explosion, verified timing mechanism, safer redesign or universal motive",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E04",
+        "source_id": "H04",
+        "locators": "16010:006u0015–0033;complete160100210",
+        "affirmative_ending": "Own recorded lullaby, personal happiness and narrator-supplied deep sleep",
+        "contrary_or_unfinished_tail": "No heard singing, clinical remedy, answered total safety questions or universal reform",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E05",
+        "source_id": "H05",
+        "locators": "20000:002u0019–0035;complete200000010",
+        "affirmative_ending": "Repair report qualified for a while and future help invitation",
+        "contrary_or_unfinished_tail": "No approved self-destruct addition, permanent fix, verified senior rule or later explosion",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E06",
+        "source_id": "H06",
+        "locators": "20000:003u0037–0051;complete200000090",
+        "affirmative_ending": "Choice-qualified launching, represented blast/Tower impact and complete later mixed report coda",
+        "contrary_or_unfinished_tail": "No actual client delivery, all observers assent, property repair, audited harm count or settled liability",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E07",
+        "source_id": "H07",
+        "locators": "20000:005u0044–0072;complete200000180messages1336–1337",
+        "affirmative_ending": "Foul objection and improvement promise; future test/delivery, qualified actual club acceptance and useful-making joy",
+        "contrary_or_unfinished_tail": "No acted Mach2/fire/splitting/electrical attack, anonymous club join to Rei or proven sole cause",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E08",
+        "source_id": "H08",
+        "locators": "20000:006u0021–0052;complete200000260messages1345–1354",
+        "affirmative_ending": "Rejected pillow, non-striking Bluetooth pipe, Hibiki report of near-immediate sleep and later sales/fashion reports",
+        "contrary_or_unfinished_tail": "No clinical endpoint, dream contents, universal adoption or factual imagined whole-school pipe trend",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E09",
+        "source_id": "H09",
+        "locators": "20000:008u0024–0038;complete200000360messages1367–1370",
+        "affirmative_ending": "Actual plain shared shelter followed by wet-shoulder thanks and two-umbrella reflection",
+        "contrary_or_unfinished_tail": "No completed book, certified empathy law, abandoned novel umbrella habit or exclusive romance",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E10",
+        "source_id": "H10",
+        "locators": "20000:009scene002u0025–0059;complete200000440messages1380–1382",
+        "affirmative_ending": "System all13-core connection/restart, temporary maintenance, achieved night view and wanted memory",
+        "contrary_or_unfinished_tail": "No solitary total authorship, permanent integrity, automatic narrator-to-Hibiki actor rewrite or performed sound",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E11",
+        "source_id": "H11",
+        "locators": "20000:015u0027–0056;complete200000510",
+        "affirmative_ending": "Explicit no-self-destruct goggles, tentative attachment and wanted preservation",
+        "contrary_or_unfinished_tail": "No repair/upgrade enactment, adult final analogy as action, object ownership-to-person consent or fixed variant stage",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E12",
+        "source_id": "H12",
+        "locators": "D16010:Introduction;4681–4713",
+        "affirmative_ending": "Wanted receiving of birthday cheering, nontechnical help and concentration hedge within eight written fields",
+        "contrary_or_unfinished_tail": "Not continuous enacted annual diary, heard tone, performed teasing or harmonized old-profile chronology",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E13",
+        "source_id": "H13",
+        "locators": "D20000:Introduction;1684–1715",
+        "affirmative_ending": "Making-as-life, feedback, company, received gifts and mechanical-metaphor repertoire",
+        "contrary_or_unfinished_tail": "No factual perfect engineering, acted Mach4, invented special-scene placement or native actor repair",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E14",
+        "source_id": "H14",
+        "locators": "Costume1900906601:16010:000001–000053",
+        "affirmative_ending": "53 written contexts with recognition hope, unfinished practice, busy-shop postponement and reciprocal thanks",
+        "contrary_or_unfinished_tail": "Not three world events, completed costume/training schedule, guaranteed leftovers or coerced participation",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E15",
+        "source_id": "G14",
+        "locators": "GROUP1401–1403;currentL70–125",
+        "affirmative_ending": "Differentiated tastes, completed sauce device, ownership discovery/concealment and later distress/retaliation",
+        "contrary_or_unfinished_tail": "No early knowing choice of owner gun, Neru informed assent, restored property, death or settled liability; exact actor seams retained",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E16",
+        "source_id": "E17",
+        "locators": "817:006/008–011;currentL78–83",
+        "affirmative_ending": "Partial costume fulfillment, local machine stop, revised program and reached festival opening",
+        "contrary_or_unfinished_tail": "No all students pleased, complete robot restoration or performed hearing",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E17",
+        "source_id": "E18007",
+        "locators": "818:007u0019–0040",
+        "affirmative_ending": "Utaha encouragement, Hibiki question about fun for everyone and independent Hanae useful-care reply",
+        "contrary_or_unfinished_tail": "Hanae care is not Utaha/Hibiki doctrine; no unanimous festival pleasure",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E18",
+        "source_id": "E18009",
+        "locators": "818:009u0079–0140",
+        "affirmative_ending": "Robot active after represented blast; Hibiki technical conditions/prediction, punitive detection and committee response",
+        "contrary_or_unfinished_tail": "No witnessed individual rocket firing, Yuuka attack order, proven designed motive or full battle endpoint",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E19",
+        "source_id": "E18010",
+        "locators": "818:010u0001–0018",
+        "affirmative_ending": "Track/engine destruction report, actual evacuation/captives and injured care",
+        "contrary_or_unfinished_tail": "No total injury count, permanent technical repair or fulfilled liability",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E20",
+        "source_id": "E18017",
+        "locators": "818:017u0017–0061",
+        "affirmative_ending": "Hibiki task for Chihiro, peer criticism and actual refusal ending",
+        "contrary_or_unfinished_tail": "No accepted costume, total participation, resolved SRT investigation or imposed body judgment truth",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E21",
+        "source_id": "L23",
+        "locators": "810:023u0002–0017/0018–0026",
+        "affirmative_ending": "Recipient vulnerability and danger/interschool alternatives revise proposal; offered shell, wanted remembrance and qualified taste",
+        "contrary_or_unfinished_tail": "No firing, eating, Trinity consultation, tested power or harmonized JP/KR particulars",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E22",
+        "source_id": "P212/P213",
+        "locators": "V002C002E012u0047–0082;E013u0036–0055",
+        "affirmative_ending": "Conditional freight inference within distributed work followed by direct arrival",
+        "contrary_or_unfinished_tail": "No calibrated hidden-route forecast, proved solitary authorship or all-system invisibility",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E23",
+        "source_id": "P217/P219/P223",
+        "locators": "V002C002E017scene002u0001–0052;E019u0078–0084;E023u0018–0047",
+        "affirmative_ending": "Local weapon defeat and exhausted handoff; unnamed gift remains distinct; later escape and renewed help",
+        "contrary_or_unfinished_tail": "No invented gift-caused escape, permanent injury, audited device specs or total containment",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      },
+      {
+        "id": "HIBIKI-E24",
+        "source_id": "F216/F307/F315/F00",
+        "locators": "V100C002E016u0001–0014;C003E007u0001–0019;E015u0027–0076;F00L162–175",
+        "affirmative_ending": "Overloaded defenses, unidentified AMAS operator, stated vessel limits and limited manual/repair contingency within collective ending",
+        "contrary_or_unfinished_tail": "No all-AMAS-to-Rio join, immediately achieved restart, Hibiki sole rescue authorship or every person recovered",
+        "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+      }
+    ],
+    "rival_review": {
+      "whole_section": 10,
+      "readings": [
+        "perfectengineering",
+        "incompetentcomic",
+        "benevolenthelper",
+        "dominationonly",
+        "completefixedreform",
+        "nolearning",
+        "selfsacrificeonly",
+        "selfexpressiononly",
+        "romance",
+        "teacherrescue",
+        "disciplineonly",
+        "celebrationonly"
+      ],
+      "judgment": "Useful making as enjoyed identity and reciprocal needs, with uneven revision and independent recipients. Full serious contrary cases and actual ends are joined in the prose; sourcecounts, school, model grade and stakes supply no verdict."
+    },
+    "all_fourteen_OPEN_gaps": {
+      "G01": {
+        "original_topic": "ordinary/private breadth",
+        "state": "OPEN",
+        "saved_table_line": 145
+      },
+      "G02": {
+        "original_topic": "Yuuka council/club transfer",
+        "state": "OPEN",
+        "saved_table_line": 146
+      },
+      "G03": {
+        "original_topic": "Serika service/reciprocity",
+        "state": "OPEN",
+        "saved_table_line": 147
+      },
+      "G04": {
+        "original_topic": "Hina accountability/ordinary contrast",
+        "state": "OPEN",
+        "saved_table_line": 148
+      },
+      "G05": {
+        "original_topic": "Arius/PS68 aftermath",
+        "state": "OPEN",
+        "saved_table_line": 149
+      },
+      "G06": {
+        "original_topic": "cross-school ordinary",
+        "state": "OPEN",
+        "saved_table_line": 150
+      },
+      "G07": {
+        "original_topic": "chronology",
+        "state": "OPEN",
+        "saved_table_line": 151
+      },
+      "G08": {
+        "original_topic": "event names/repeats",
+        "state": "OPEN",
+        "saved_table_line": 152
+      },
+      "G09": {
+        "original_topic": "actor/choice attribution",
+        "state": "OPEN",
+        "saved_table_line": 153
+      },
+      "G10": {
+        "original_topic": "performed voice",
+        "state": "OPEN",
+        "saved_table_line": 154
+      },
+      "G11": {
+        "original_topic": "Hoshino/Yume record/office",
+        "state": "OPEN",
+        "saved_table_line": 155
+      },
+      "G12": {
+        "original_topic": "identity/system/variants",
+        "state": "OPEN",
+        "saved_table_line": 156
+      },
+      "G13": {
+        "original_topic": "office/contract/safety/technical outcomes",
+        "state": "OPEN",
+        "saved_table_line": 157
+      },
+      "G14": {
+        "original_topic": "unclassified/mode continuity",
+        "state": "OPEN",
+        "saved_table_line": 158
+      }
+    },
+    "ROOT_acceptance": "PENDING",
+    "relation_institution_namedsection_N_quarter_credit": 0
+  },
+  "historical_coordinates": "Original coordinates stay frozen. Complete canonical saved-line mappings govern current retrieval without retroactive source or other-package credit.",
+  "canonical_saved_line_mapping": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HIBIKI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_source_or_literary_credit": 0
+}

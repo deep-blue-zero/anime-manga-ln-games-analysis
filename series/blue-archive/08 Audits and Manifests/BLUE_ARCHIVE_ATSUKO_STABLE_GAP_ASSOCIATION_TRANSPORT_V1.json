@@ -1,0 +1,1406 @@
+{
+  "original_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ATSUKO_CHARACTER_MONOGRAPH.md",
+    "bytes": 53343,
+    "sha256": "593ece130594b92f162924fa1fad7f6a955ba532f0e5c5840c4e7f9df81d8dd2",
+    "git_blob_oid_of_actual_bytes": "09a9cd58ae2e4b66ace87e2d364cd68110c9f6a9",
+    "lines": 225
+  },
+  "canonical_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ATSUKO_CHARACTER_MONOGRAPH.md",
+    "bytes": 53833,
+    "sha256": "872b8b909356fc089e8056542b3505ec8c7dc4aad15163e9afb6be037e183be0",
+    "git_blob_oid_of_actual_bytes": "713ae3648249acb8eed526374a50ecac0a131baf",
+    "lines": 227
+  },
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 3,
+      "canonical_line": 3,
+      "line_sha256": "bb914669cd55a7b273c7c953cc13af9416c336d813c7209977fd932f34e35a82",
+      "line_text": "artifact_type: character_monograph"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 4,
+      "line_sha256": "83d65b6f962bf19f41f004d0f1f9cb98f093ea3ffbda6d88f65bee0c301cdad9",
+      "line_text": "character: \"秤アツコ / Atsuko\""
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 5,
+      "line_sha256": "a973fdacb68827adf941bd9b068b0f0bf07c36b7b94f7ee9690272c6c7f3cadc",
+      "line_text": "person_scope: \"BA_PERSON_ATSUKO; BA_VARIANT_10042 and BA_VARIANT_26013; costume1900928201 is written context for26013\""
+    },
+    {
+      "frozen_line": 6,
+      "canonical_line": 6,
+      "line_sha256": "1658226d82991e821acc7363ec1375c03a4c3037e48a2a07ed6d5d89a5430ec5",
+      "line_text": "method: DEEP_SYNTHESIS"
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 7,
+      "line_sha256": "2084413932021b66232c019d7d67e81ba2cf005acb31f12c32acb13608a5283c",
+      "line_text": "architecture: \"1.12, section7.1, eleven required dimensions\""
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 8,
+      "line_sha256": "2b4c71a3936349b6920c14d8d0327b826ca56d5e7944bc878548abba1650fe54",
+      "line_text": "analytical_base: \"2e2018d0d62d91e3e0a5e7681f72a31cec08e02c\""
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 9,
+      "line_sha256": "c8ef145b6da8758b2dd4f184f0c6454d958b15d80fcfd350803c0682bf3d65dd",
+      "line_text": "historical_source_witness: \"c1f14d5120c29209ca571fea8d7cfbe111076ec5\""
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 10,
+      "line_sha256": "a7128a3b6afa054c49654fbcb14fcbdd61123b6ed5e0cac56e74d54399bb96b6",
+      "line_text": "japanese_supplemental_source: \"a038020f1f5ac02dcfe76962426d38f86414cdd8\""
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 11,
+      "line_sha256": "0946f5047ae20836f2c40c039c809b4c2a0e0f6548c9e51e4ef1342b3ede236b",
+      "line_text": "generation: V1"
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 12,
+      "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+      "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+    },
+    {
+      "frozen_line": 13,
+      "canonical_line": 13,
+      "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+      "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 14,
+      "line_sha256": "48b66a9d24020958b02e958217d285e95533cdaa5708c203efee8a314a557eb3",
+      "line_text": "source_boundary: \"Accepted analytical meanings at main2e2018d0d62d91e3e0a5e7681f72a31cec08e02c; historical c1 witness and explicit receiving scopes retained; selected Japanese BA_REFRESH_20260928T032248159554Z\""
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 15,
+      "line_sha256": "376685b1669772602a00ad4af1f358c52d2115e97392e2af8fd98676192e219d",
+      "line_text": "supersedes: []"
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 16,
+      "line_sha256": "45cbca5ff920f29b0ebe746007487b320c6715a0daa81e8655ae97c53482fcd3",
+      "line_text": "superseded_by: []"
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 17,
+      "line_sha256": "2cfb174c46544c22f498955b4bf04ae21a741feb521e643281b52b5ae649ec2d",
+      "line_text": "authority_quartet: \"Current Cycle008 source admission; ROOT qualified complete analytical receiving with limits; historical reading order and independence UNKNOWN; performed voice UNRECEIVED\""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 18,
+      "line_sha256": "8878f2140aa69d1a5d1e7162cae938d4568edf7cc2db8f4c81d48d2db480cf77",
+      "line_text": "version: \"1.0\""
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 19,
+      "line_sha256": "65f8c9418b8c955845bfd8af0a0e28e9f96ba9d6a85f33432dc3d945b3077a79",
+      "line_text": "status: canonical"
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 20,
+      "line_sha256": "5f8f531e4042b21b5d0d2716b65c580c988d1279922c0f27c4f1a2b150d75d9c",
+      "line_text": "do_not_use_as_current_authority: false"
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 21,
+      "line_sha256": "4f4ec485af3ba7738f6e5ebfeef6dd576bf35f137cb1407822df2833f884eb3b",
+      "line_text": "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ATSUKO_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 22,
+      "line_sha256": "00e49c1496cb4da04454581ee29d5ff7dc030e3a4cab5f5b254e6304d75cf82e",
+      "line_text": "review_state: ROOT_ACCEPTED_WITH_LIMITS"
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 23,
+      "line_sha256": "ed2e528e6315754c1403405723fcd84011f6ea85eca3bf6d98f192bf5d3300a1",
+      "line_text": "created: 2026-10-10"
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 24,
+      "line_sha256": "7c725a9641b79d6b64eec622760fa9fc218446a8d9a5e3dbdd9a384c2740f25f",
+      "line_text": "updated: 2026-10-10"
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 25,
+      "line_sha256": "589ffe10ac35e5dfeca1f94941347a2446dd6e1c1330df481212cba0687c6cd5",
+      "line_text": "scope: \"Bounded literary synthesis; all14 source gaps OPEN; no operational person model, denominator or milestone credit\""
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 26,
+      "line_sha256": "8fecbb6a3875013f0e9b08c2e80984516ba9166974308b35a91a124bb697c029",
+      "line_text": "date: \"2026-10-10\""
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 27,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 28,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 29,
+      "line_sha256": "157191b818b239c2d5f4348834cee340eeeaf07c7eacb4bcd89fb71be1a61f0e",
+      "line_text": "# Atsuko: choosing subjects, company and an unfinished future"
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 30,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 31,
+      "line_sha256": "b1fc495b6f6a8b7af0b9b73c2861df29394a84b9eee7aaaa85dcde6e0ec4ebfa",
+      "line_text": "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md) and [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ATSUKO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Source publication, main integration and full eligible-cast completion remain separate."
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 32,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 33,
+      "line_sha256": "2e11449d8bb0731c13a56d77ff5ce32604d013303cf9804fbe3e9646b92819b1",
+      "line_text": "This monograph compares the complete accepted Atsuko private argument—seven BOND objects, seven whole associated MomoTalk objects and three written objects—with the personally received relevant Main, Final and event arguments. The shared private owner also contains Saori’s twenty-five objects; they remain Saori’s evidence, not additional Atsuko objects. Main witnesses retain their historical source commits. The two Japanese endings recovered for this synthesis use the pinned supplemental commit above. Their relation is an explicit literary comparison, not a single authenticated calendar, source-file history or performed scene. The exact receiving receipt distinguishes whole prior arguments, fresh complete arguments, refreshed spans and necessary primary recovery."
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 34,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 35,
+      "line_sha256": "605dce655dce3c7f30d3b7af4a11a52355423f6656c82a9ec60c0498ace795ae",
+      "line_text": "## 1. Core thesis: a person may want, fail, and keep something to herself"
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 36,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 37,
+      "line_sha256": "c2e69b93dac13417f6077a49198a41299bc173cc641537e284dcdf4e6855e38f",
+      "line_text": "Atsuko’s development concerns the right to select a life’s contents, including contents whose completion is uncertain and whose meaning she does not owe to an observer. Beatrice assigns value to her blood and a sacrificial purpose to her body. Companions preserve the familiar address “princess.” Atsuko nevertheless repeatedly authors particular activities: an improvised school day, a garden, a beach trip, an escape from a demand, and the subject of a last photograph. Her desires are not merely signs that rescue has worked. They provide the actual things for which a future is worth having. [BA:main:V003:C004; BA:bond:10042:002/003/005/006; BA:bond:26013:002/003/005; BA:event:838:001–003.]"
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 38,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 39,
+      "line_sha256": "e404363553af10a5ae07f1d7d15245f8a3925a7b4e743ff8f40dce1043a94161",
+      "line_text": "The outcomes differ. Her first play is interrupted; her midnight school adventure ends in flight; she reports transplanted flowers but later says they all died. A beach walk occurs although its photographic record is empty. A later picture is valued, and the final picture is explicitly withheld. These differences matter to the thesis. A monograph that turns every ordinary object into successful healing would lose her admitted ignorance, disappointment and privacy. A monograph that values only survival would lose the walk, a wanted plant, and an image valuable to its owner. [BA:bond:10042:002:u:0029;003:u:0043–0044;005;006:u:0003–0009; BA:bond:26013:002:u:0040–0048;003;005:u:0038–0043.]"
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 40,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 41,
+      "line_sha256": "d55bd7f9372712d1a6436708c0989a8e59e042b2205787270b7df189e05fe3e7",
+      "line_text": "Her influence also has adverse possibilities. The Squad’s festival protection can restrict other people, and warm insistence that Saori rest with them does not establish universal prior assent. Atsuko can initiate flight and propose social arrangements; initiative is not synonymous with correct judgment. The serious claim is that her judgment becomes available for negotiation alongside the judgments of other people. The text never supplies a general rule that she is always gentle, always wise, or constitutionally entitled to decide for Arius. [BA:event:838:004–015/017–021; BA:main:V006:C003:E009–010.]"
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 42,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 43,
+      "line_sha256": "3b4f6856aa3fd5efc445f60d08f9c8620acfe79e1d7723ad25364a9d3a88b6cb",
+      "line_text": "The trajectory therefore holds three things together: an imposed public use of a person, concrete self-authored wants, and other people’s rights within those wants. The withheld photograph is particularly instructive. It ends positively without becoming fully accessible to Sensei or to this analysis. Atsuko’s ownership of that meaning is evidence; the undisclosed pixels are not an invitation to invent what she photographed. [BA:bond:26013:005:u:0036–0043.]"
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 44,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 45,
+      "line_sha256": "97045fe4042c4d1d7a716212216b981837d44be3a7c5f6f9f1fe44c80bf4de48",
+      "line_text": "## 2. Longitudinal development: from imposed purpose to proposals that remain answerable"
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 46,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 47,
+      "line_sha256": "53e530f7190186e3902beaf4ce8e7cd0ad41080f34eb13f7a70deb0e32f27155",
+      "line_text": "The public chapter establishes the gravity of an assigned role. Beatrice’s account of royal blood and sacrifice is an interested explanation offered within coercion. Atsuko’s surrender to preserve the Squad cannot be treated as evidence of free acceptance of all its conditions. Beatrice breaks the promised reprieve. Saori’s eventual refusal of the bargain and rescue effort, Mika’s consequential delay and mercy, and the wider coalition prevent this sequence from becoming a story in which a single adult alone returns Atsuko’s agency. When she is awake and speaking, there is an actual changed outcome: the proposed sacrifice has not exhausted her future. There is no equivalent proof of every medical consequence or every mechanism attributed to the mask. [BA:main:V003:C004, complete chapter checkpoint, especially rescue andE025–027 aftermath.]"
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 48,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 49,
+      "line_sha256": "c21d4a875adca9dafcfbba2ee21fe97d115aa5c93b57ff4b84b14715970f358a",
+      "line_text": "The aftermath does not simply place a restored princess among restored companions. Questions about what each person wants displace the old claim that nothing matters; Saori subsequently departs. Atsuko’s invocation of Azusa’s flower in concrete sustains hope of reunion across separation. It does not certify permanent reunion, stable housing, an institution already repaired, or the later survival of a particular private flowerbed. Keeping those endpoints distinct allows the public flower to remain a meaningful answer to fatalism while the garden can still fail. [BA:main:V003:C004:E025/027; BA:bond:10042:006.]"
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 50,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 51,
+      "line_sha256": "0a1fad0ec7ac8810820780808f3edbf06c38f1af6b18cc480dabeb49778a6c48",
+      "line_text": "MainV006 extends the field of participation. Atsuko joins the Squad’s demand for adult engagement, takes part in learning, and addresses Maia as a possible first-year peer. Maia’s grievance and attachment remain her own, rather than proof that Atsuko’s friendliness has already satisfied her. Atsuko challenges Subaru’s exclusive judgment and contributes an explanation of the relation between feeling and the trumpet. That explanation is a consequential in-world position; it is not an authenticated mechanism supplied by this monograph. The later classroom, meeting and tests give her new activities, with incomplete institutional settlements. [BA:main:V006:C001–003, complete maintained account and three chapter checkpoints.]"
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 52,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 53,
+      "line_sha256": "f9efaad2a7359cc6f42226f74b057e07ade4d62c405f4ca4788ad9f04783535f",
+      "line_text": "The last public scenes are strongest when separated by mode. Actual class attendance and friendly greeting are concrete. A proposed historical project, a new nest or club, and offices discussed around an interim presidency remain proposals or locally expressed arrangements. The reported score average is a report, not a gradebook inspection, and the exam vocabulary does not settle a formal qualification. Atsuko’s capacity to imagine and organize gains substance here without requiring a full charter, archive authentication or permanent government. Those missing witnesses restrict strong institutional claims; they do not nullify the activities actually shown. [BA:main:V006:C003:E007–010.]"
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 54,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 55,
+      "line_sha256": "40fae7c6b7e6126078a1ecd00eb29acd742ebd228c99a70d80ca18b0c49f535a",
+      "line_text": "The private sources contribute another developmental sequence, but not a universal dating system for those public scenes. Base10042 moves from interrupted play to an improvised school visit, planting and loss, then a commitment to learn. Summer26013 distinguishes an empty camera outing, a flight leading to a wanted picture, and a final private treasure. The continuity is in the questions these sequences make concrete: how does she choose, ask, revise, and retain a meaning? Neither costume order nor database numbering proves their place relative to each Main episode. [BA:bond:10042:002/003/005/006; BA:bond:26013:002/003/005; associated whole MomoTalk threads.]"
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 56,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 57,
+      "line_sha256": "a1df487796739dc6aa21e08b37b73f74ad02ebb24475f35bdbce2d61d2824cdc",
+      "line_text": "The event sequence has its own explicit order. EVENT838’s later-numberedE017–021 follow the stage and precedeE016’s following morning. The enjoyable after-stage activity and the later unpaid-wage pursuit can coexist. Their coexistence prevents leisure from erasing labor problems and prevents a labor problem from making every enjoyable act false. Final’s rear-guard cooperation and later contact wishes similarly widen participation without proving amnesty or completed employment reform. [BA:event:838:015–021; BA:main:V100:C002:E015;C004:E010.]"
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 58,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 59,
+      "line_sha256": "366e2e7d3916892a7afdd05ecdeb6a7a8ac3da1df29b498fb8cf188dc47f1203",
+      "line_text": "## 3. Public and private characterization: speech, concealment and the observer’s limits"
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 60,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 61,
+      "line_sha256": "2d294b02ceced0ecd7b210b1228b319614bea557838233ddb8fd35b221496dc7",
+      "line_text": "Public Atsuko is often seen through urgent roles: hostage, sacrifice, Squad companion, interlocutor in an institutional conflict. Those roles expose real danger and meaningful loyalties. Private Atsuko is more frequently the initiator who has already decided what kind of meeting she wants. In the ruined shelter she is bored while the others are away; food and drink supplied by companions have not supplied the company she wants. Her first attempt at greeting is shaped by a familiar mask and signing, but she restarts a spoken greeting. The episode establishes effort at communication, not a verified complete sign vocabulary or a permanent inability to speak. [BA:bond:10042:002:u:0001–0010; written10042 profile/dialog.]"
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 62,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 63,
+      "line_sha256": "9176f378eb80c12b029668ad24f4543f3ecd7b82e9d12a904d8e450dd4c166a9",
+      "line_text": "Secrecy has several distinct purposes. The secret friend in the first meeting, the unpublicized flower gift and the withheld final image are not one uniform pathology. The first reflects anticipated companion disapproval within a small play arrangement; the text does not print the feared punishment. The second allows a gift to have a privately valued relation. The third explicitly excludes an immediate observer from viewing an owned treasure. Treating them all as evidence of coercive concealment would erase a positive boundary. Treating them all as carefree intimacy would erase the first episode’s anxiety. [BA:bond:10042:002;005:u:0015–0016 and whole message tail; BA:bond:26013:005:u:0041–0043.]"
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 64,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 65,
+      "line_sha256": "6b569ae1a18d0c089ccc4d99e3198b7dd3f88345e03a3088a7663438f6637f96",
+      "line_text": "The gas-mask profile supplies an additional control. Its description of habitual wear, exceptions for eating and sleeping, and lack of an intention to hide her face should not be turned into a clinical diagnosis or an absolute visual description of every scene. Her awkwardness in conversation is explicitly distinguishable from disliking it. Inward Sensei clauses, narrator descriptions and her direct statements each disclose different things. Sensei’s thought that the final picture is of fireworks is his interpretation; her hesitation and emphasized gratitude do not deliver a replacement visual record. [BA:character_data:10042:profile_and_dialog; BA:bond:26013:005:u:0036–0042.]"
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 66,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 67,
+      "line_sha256": "b3e521a091eee47e3a5168f7bb44367ce0619966af2b7395cc13ef3c0f64460b",
+      "line_text": "Public recovery also does not eliminate private sadness or failed play. The disappointed face when Sensei leaves the ruined shelter is an ending worth retaining. A teacher’s presence can be wanted and nevertheless insufficiently sustained. Conversely, the first beach outing is not simply spoiled because the camera is empty. The narrated walk and the pair’s positive memory language preserve actual company while her intended record fails. Public and private judgments acquire depth through these different outcomes, rather than through a single crisis-to-happiness scale. [BA:bond:10042:002:u:0029; BA:bond:26013:002:u:0031/0040–0057.]"
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 68,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 69,
+      "line_sha256": "b196f938f26595bd518b7c39d3f00b1e5392f23555a831321cc7d002352cd0d0",
+      "line_text": "The boundary is reciprocal. Atsuko may want Sensei’s company and take initiative, while Sensei retains distinct advice and possible objections. Saori may be wanted at the beach and still articulate that a companion need not always accommodate someone else. Hiyori may prefer the photo opportunity to the magazine alternative. Misaki’s difficulty with crowds, light and noise does not disappear because Atsuko enjoys a group activity. These differences are positive characterization of separate recipients, not noise to remove from an Atsuko-centered view. [BA:event:838:017–021; BA:bond:10042:003, formal choice4; BA:bond:26013:005, formal alternatives.]"
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 70,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 71,
+      "line_sha256": "a77b3e65ab5f62caab70802c106c05fb6ed1eec5ba66d404616f1d624154b875",
+      "line_text": "## 4. School, club and institution: wanting school does not establish its settlement"
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 72,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 73,
+      "line_sha256": "a8c0681b5f5655a2e315e8d49bfb95b372614a6f99234c5f3b91974938846574",
+      "line_text": "The two base school-play scenes make education desirable before they establish education as a functioning institutional service. In the ruined shelter Atsuko’s account of never having had a lesson leads to an attempted school arrangement with inadequate seats. The play is abandoned. It is not a completed lesson retrospectively certified by the teacher’s visit. The midnight episode takes the wish into an unnamed school through an open route, seats the pair at the front, and makes a joking biology session possible. It does not supply the school’s permission, admission records or a completed curriculum. Sensei’s objection is preserved among the choices. [BA:bond:10042:002:u:0022–0029;003:u:0002–0048/choice:004.]"
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 74,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 75,
+      "line_sha256": "8e8c05814223113294a17f29d6d5e8ce4d6407a37e678131607c6a0fd6db76b3",
+      "line_text": "Club play has a related distinction. An improvised sign in pebbles can make a named common activity imaginable without registering a club. The whole MomoTalk afterword supplies flowers and a prospective one-person gardening club after the interrupted hobby conversation and escape. This is an authored aspiration, not a charter or proof of membership. Its smallness has no bearing on analytical eligibility: the object tells us what she would choose to do with a place and some time. [BA:bond:10042:003:u:0043–0044; BA:momotalk:10042:thread:100420140, whole tail after the W15 launch, units190–230/messages270–330.]"
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 76,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 77,
+      "line_sha256": "65c23b0dc5ec3d917c2de2d29d654be2fd9512e31ed276c6e416b6cbe473fe77",
+      "line_text": "The public return to Arius schooling gives a different kind of evidence. MainV006 provides actual learning and a real classroom, with peers negotiating both conflict and affiliation. It also retains armed cost, accountability, parole and disputed histories. The comparison is valuable precisely because the private fantasy and the later public school are not administratively interchangeable. A wish to sit at the front does not itself prove the eventual classroom is authorized, and the classroom’s existence does not prove that an earlier unauthorized school visit was harmless. [BA:main:V006:C001;C003:E009–010; BA:bond:10042:003.]"
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 78,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 79,
+      "line_sha256": "542a327168594d715c7d59fa853ae7775cf060d733f9742fa85665f6574bfe0f",
+      "line_text": "Her relation to leadership remains provisional. She may address juniors and speak an interim presidential role into view, but a monograph cannot derive a full mandate from one self-description or a reported test performance. The peers’ conversations and classroom activity allow a literary conclusion about participation: a person formerly assigned a sacrificial function can help propose how a group will live. Budget, representative structure, records and institutional permanence need their own witnesses and their own specialist analysis. [BA:main:V006:C003:E007–010.]"
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 80,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 81,
+      "line_sha256": "419912318cd77c68b039319de8aac5a56c67b3593bc1234836be6a5590595c39",
+      "line_text": "There is no directly routed Squad-owned GROUP sequence that supplies all these people’s ordinary histories. The accepted relevance argument instead requires surrounding Trinity care and sponsorship contexts without substituting their perspectives for Atsuko’s. Rescue Knights and Tea Party material help articulate the institutional environment; co-presence or shared public conflict does not authorize an invented Atsuko membership. Nor does the absence of her own group route make her personal school play or gardening dispensable. [Accepted Phase2 GROUP relevance audit, V003/V006 scopes; current private owner dutiesD1/D2.]"
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 82,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 83,
+      "line_sha256": "8af07271aea484f51cdd873ab9190888088640933079821d472078db6a2839cc",
+      "line_text": "Festival organization adds economic friction rather than completing it. The stage’s success and companions’ enjoyable time do not certify Saori’s wage payment, legality or fair contract. Costume mission language is a written operational address and cannot settle the outcome of the event. Atsuko can make use of a festival while its public order and work relations remain disputable. This prevents the school-and-club dimension from becoming a vague assertion that every shared activity is a healthy institution. [BA:event:838:015–021; BA:character_data:event_costume:1900928201:character:26013.]"
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 84,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 85,
+      "line_sha256": "04e31339742afd3768f95760630e99ba7eb37b21b0e4bb4a95480607c8db1148",
+      "line_text": "## 5. Ordinary life: wants have value before they become symbols"
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 86,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 87,
+      "line_sha256": "73ef68bb2b2995e6777cc45f02cf69733a94bbf06328dd49be97604a424771bf",
+      "line_text": "In the ruined shelter Atsuko first wants company and school play. That is an intrinsic want, not an indirect request for a tactical resource. The others’ provisions do not answer it, and Sensei’s eventual departure leaves visible disappointment. The interrupted session is an adverse outcome of an ordinary need; it deserves the same precision as an interrupted rescue. The whole message tail also matters: a proposed stay of a week is not a narrated week, and subsequent contact elsewhere does not retroactively give the play its missing duration. [BA:bond:10042:002:u:0022–0029; BA:momotalk:10042:thread:100420010, units120–130/messages170–190.]"
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 88,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 89,
+      "line_sha256": "58f120c9c60b6254271bdf950e452cc52b03f41e8a004f0d7fa24f85917e5b63",
+      "line_text": "At the midnight school, she creates the setting and takes the adult along. The front seats, invented classroom and imagined theatrical audience allow her to try a relation to learning and attention. The communal-shower recollection supplies a particular pleasant social memory; it is not a claim that every Arius practice is benign. Discovery interrupts the hobby discussion and sends them away. The continuation into flower care in the whole message object has a future orientation, but no future completion is printed. Wanted school, enjoyable memory and unauthorized entry remain simultaneous aspects of the encounter. [BA:bond:10042:003; BA:momotalk:10042:thread:100420140.]"
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 90,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 91,
+      "line_sha256": "22d9e71a42384b2e554f23047f7754312a1c0b7239720157984fae12214f28f0",
+      "line_text": "The flower sequence clarifies a mismatch between an adult’s good gift and a student’s actual purpose. Sensei assumes an arrangement of cut flowers will answer her interest. Atsuko wants to grow flowers. The cut stems cannot be planted, yet she still calls the gift special. Gratitude does not certify that the gift met her original need. She identifies a street bed, looks for sunlight and seeks wild plants to transplant; the later whole message reports that she transplanted many. The report establishes work undertaken, not inspection of successful rooting or a permanent blooming garden. [BA:bond:10042:005:u:0015–0033; BA:momotalk:10042:thread:100420240, whole tail units330–370/messages480–530.]"
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 92,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 93,
+      "line_sha256": "29f632fb82b3b74c2f9896cd743b439c9e41cb5e18ff3cc3ffcfa21b27a1c8ab",
+      "line_text": "The next ending is unequivocally difficult. Narration establishes disturbed soil after heavy rain, and Atsuko says the flowers all died. Her speculation about inadequate roots and her own uninformed transplanting is an account of possible causes, not authenticated horticultural causation. It includes a painful distinction between wanting to help a living thing and knowing how. Sensei’s proposal to learn together creates an answer she can accept. The planned topics atu0012–0013 are inward Sensei text; they do not become a delivered lesson. Atsuko’s commitment to learning and applying it is actual speech. A restored garden, a later planting and trained mastery are not shown. [BA:bond:10042:006:u:0001–0027, complete Japanese object recovered for this synthesis; whole associated100420380 MomoTalk.]"
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 94,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 95,
+      "line_sha256": "fe760d5b014ea4be2aea83c2e5d31361733f7d4edc3c1a9324ae5208aa2f77a5",
+      "line_text": "That outcome complicates the public flower motif without invalidating it. The flower against vanitas supports a livable future; the dead private bed shows that a livable future still includes failed care, uncertainty and continued learning. Calling the garden a certificate that Arius has found roots would erase the very loss that makes learning meaningful. Calling its death proof that hope was fraudulent would erase her chosen response. No exact public/private chronological callback is asserted where the text does not supply one. [BA:main:V003:C004:E027; BA:bond:10042:006.]"
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 96,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 97,
+      "line_sha256": "0d1baadd1b88e753cec715743ca08c00d9caa30550518558a1af87086cb2fb90",
+      "line_text": "The first summer outing offers an analogous distinction between an act and a record. A used camera associates sensory impressions with memory; it does not literally capture smell. Atsuko avoids disturbing a small creature, and the narrated walk happens. When the absent battery leaves the camera blank, she has taken no pictures. The pair’s recognition that the experience can remain matters, but neither a future battery nor a future return supplies the missing photographic record. The scene lets actual pleasure and failed documentation coexist. [BA:bond:26013:002:u:0031/0040–0057; BA:momotalk:26013:thread:260130010.]"
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 98,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 99,
+      "line_sha256": "a3cec89ffc01ead502c3810a3a4675a88ed6b0ba02c3e054c5440a0504eb27b7",
+      "line_text": "The next summer outing gives Atsuko stronger practical initiative. The staged flower photo provokes an exorbitant demand, represented by an antagonist’s claims rather than a verified legal fee. Raw-looking actor reversals in the canonical story are preserved: the fee dialogue is not silently reassigned to Atsuko. She asks for the adult’s hand and initiates their escape. Afterward she judges rooted wildflowers healthier and prettier and requests a picture of Sensei. The wish, request, exchange and positive appraisal support a wanted image; the analysis has not inspected its pixels. The hidden antagonist aside is visible to the reader, not knowledge the pair automatically possesses. [BA:bond:26013:003:u:0023/0029/0038–0039 and ending; BA:momotalk:26013:thread:260130080.]"
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 100,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 101,
+      "line_sha256": "ffb8e4cec763efcc2e4ad002e3d06f8222fba26f591c3f37649ce0dfe81cf85b",
+      "line_text": "The final photograph is an exercise in choosing under scarcity. Goldfish, a dance stage and a sandcastle are attractive, but none is yet the desired last subject. The narrated search fails to find a satisfactory opportunity before dusk; the old camera’s flash is broken. Fireworks then supply an opportunity. Sensei inwardly assumes that fireworks are what she chose. Atsuko says the picture is good and refuses his request to see it: it is her own treasure. Her promise that she may someday show it remains future. The completion is her successful valuation and boundary, not our discovery of the image’s subject. [BA:bond:26013:005:u:0011–0043, complete Japanese object recovered for this synthesis; whole260130130 message object.]"
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 102,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 103,
+      "line_sha256": "88f453cb72129f4b51cc4f3a5af6e7070f5745b2e87ada6baf56829492bf79a1",
+      "line_text": "Other ordinary sources should not be reduced to illustrations of deprivation. EVENT853 gives Hiyori a genuine fashion and model interest, Misaki a corrective statement about funding, and Atsuko a warning that talent does not guarantee happiness and still requires effort. Gardening is her chosen alternative. It is not proof that she has become an expert after the private garden’s failure. EVENT810’s gift scene ends in actual shared chocolate and flowerbed viewing. The explanation of dried flowers is delivered, while drying and lifelong preservation remain future; possible handmade manufacture remains secret rather than confirmed. The Japanese Hiyori/prince advice is kept distinct from the Korean friends wording. [BA:event:853:008:scene:001:u:0004–0006/0012–0013/0023–0028; BA:event:810:077:u:0034–0039 and complete accepted deep argument.]"
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 104,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 105,
+      "line_sha256": "94102b1cf7b1429fb9432e5e2706188e0567088506ab9834573b4f78eefe72d9",
+      "line_text": "Written birthdays supply a particularly compact priority control: the summer dialogue declines a gift and prefers a walk. The walk preference is evidence in its own right, not a low-stakes substitute to discard when a rescue arc is available. Similarly, learning Christmas customs or wondering about candy records an interest rather than a completed holiday event. Each of these objects makes the person’s wanted world more exact. [BA:character_data:26013:profile_and_dialog, Lobby11–12 and holiday contexts; BA:character_data:10042:profile_and_dialog.]"
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 106,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 107,
+      "line_sha256": "fa90094b3100ca2dfff45575d02cca336683164e78716fb50c2828c60ad51ce9",
+      "line_text": "## 6. Crisis behavior: an assigned sacrifice, real recovery and contested care"
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 108,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 109,
+      "line_sha256": "e2908601338cef04d5296e97106f48db4fe86b4f95dad384246855ec7d96dfe9",
+      "line_text": "Atsuko’s surrender demonstrates a capacity to act for companions within a coercive choice structure. It does not transfer responsibility for Beatrice’s broken promise to the hostage. Royal-blood language is part of Beatrice’s justification, and the chapter makes the cost of that justification visible. Misaki’s report of severe injury and blood loss, the companions’ decisions, and the rescue coalition deserve distinct ownership. The later conscious conversation is a real endpoint. Its reality does not require an invented halo inspection, clinical all-clear or authentication of the tentatively described protective switch. [BA:main:V003:C004, complete chapter checkpoint.]"
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 110,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 111,
+      "line_sha256": "073a4aedcef79075de01e76933b27717548f9fb4ea9eba33a8661bd8efffc9ad",
+      "line_text": "The difference between rescue and possession matters here. Saori’s break with the bargain changes the possibility of Atsuko’s future; the subsequent discussion asks what the living person wants. Mika’s actions and eventual restraint remain a separate contrary and enabling force. The adult’s presence contributes to the coalition and the turn toward a future, but Atsuko is neither his manufactured answer nor a result he can exclusively own. The public conclusion leaves distinct persons with difficult onward decisions. Saori’s departure particularly prevents “Squad survives” from becoming “all members settle into permanent reunion.” [BA:main:V003:C004:E025–027.]"
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 112,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 113,
+      "line_sha256": "701cf4d1b7c9924f61902b0644cc9b42ec6f02aa20cefa36a79873c51874abcc",
+      "line_text": "MainV006 places Atsuko among people who must now decide what care and participation mean inside Arius. Her explanation of feeling and the trumpet opposes a destructive conclusion, but the story’s mechanism remains reported and contested. Maia’s hurt is not cured merely because Atsuko proposes friendship. Subaru’s commitment to repair cannot make her judgments automatically acceptable. The wake-up proposal atE005 and the omitted intervention before the roughly estimated waking interval atE006 leave an important limit: later relief is shown, whereas the complete method and permanent recovery are not. [BA:main:V006:C002;C003:E005–009.]"
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 114,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 115,
+      "line_sha256": "018f6df3e8907686f5b29ef8ea374ad893f9e1145f8118da4d135b4a9aff21ea",
+      "line_text": "Final supplies a narrower but positive military cooperation. The Squad’s arrival and rear-guard offer inC002E015 are actual participation; Hanako’s acceptance recognizes a shared important person in a conditional coalition. The sequence does not show every subsequent battle result or a blanket legal pardon. Later support for Saori’s travel and wishes for contact are again relational acts, while the employer’s hours and unpaid work remain an unresolved threat rather than a completed confrontation. Atsuko’s public participation extends beyond being rescued, without making her the author of every collective outcome. [BA:main:V100:C002:E015;C004:E010.]"
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 116,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 117,
+      "line_sha256": "81f874f7f1558092fe83652fda6746d11c6179f66e8d46b7a43ac606f2b36f0d",
+      "line_text": "EVENT838 introduces a more uncomfortable protection. The Squad helps shield Saori’s opportunity, yet covert threats, restriction, gagging or confinement cannot be redescribed as universally benign care. The accepted current argument identifies actor seams; the firm level of attribution is sometimes the group action rather than a securely isolated Atsuko line. This monograph therefore retains the adverse collective involvement and refuses the stronger claim that Atsuko personally performed each violent act. Her wish to play with Saori is valuable; it does not license every means taken around that wish. [BA:event:838:004–015, whole accepted argument and literal-roster boundaries.]"
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 118,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 119,
+      "line_sha256": "6bf8656e7795cc567730eb13048eaa9b69ce532f171212f38cab846a21a65193",
+      "line_text": "The beach escape also combines initiative and uncertainty. Atsuko’s hand request and flight are positively attributable; the antagonists’ charge and hidden greed do not become certified law or knowledge available to the pair. The narrated move away resolves the immediate encounter. It does not prove completed compensation, universal permission for future photographs, or every bystander’s approval. The scene gives a concrete crisis-sized action inside an ordinary outing, with a local endpoint rather than a generalized strategy. [BA:bond:26013:003:u:0038–0039 and ending.]"
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 120,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 121,
+      "line_sha256": "93a11c5d4ba5c2486f46111c0e04a0b3a6eb54a578b612eab47a274b5663479f",
+      "line_text": "EVENT821 requires a further attribution restraint. An apparent Atsuko continuation in the native/canonical arrangement is associated in the accepted source discussion with raw text masked as Saori and a textless Atsuko placement. The scene can contribute to the question of moving beyond reluctant defense, while exact speech ownership stays unresolved. Neither a convenient name nor a speaker-count total can settle that seam. This is a claim-specific G09 boundary, not grounds for pretending the event or its cooperation contains no meaningful evidence. [BA:event:821:008, accepted checkpoint attribution discussion.]"
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 122,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 123,
+      "line_sha256": "360c0a18721350e3b104ea0ff40a83c697b8a244c2fc8ea15f41cbb4a8260075",
+      "line_text": "## 7. Sensei relationship: accompaniment may help without taking the choice"
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 124,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 125,
+      "line_sha256": "f82c02dfa54a1051f1cee6e3b8c364cccbd18160a8686443482de9f47963e70f",
+      "line_text": "Atsuko’s private requests make the adult answerable to a purpose she has supplied. She initiates a meeting, chooses a school setting, seeks help after the garden’s loss, takes his hand in escape, and asks for advice about the final shot. These are distinct transactions, not proof of universal dependence. Advice can be requested while the choice remains hers. Company can be wanted while a particular object remains private. The adult contributes time, material help and proposals; none of those creates a right to inspect the final photograph. [BA:bond:10042:002/003/005/006; BA:bond:26013:003/005.]"
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 126,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 127,
+      "line_sha256": "a6f1c1d0d762647acb3ed575d4c419bae1a1809ff22d0161f343fcf0f3142d01",
+      "line_text": "The cut-flower gift is an especially useful case of accountable intention. A kind gesture does not meet the intended growing project, and Atsuko’s gratitude does not eliminate the mismatch. Her later appeal after loss invites a better response: learning together rather than asserting that she already knows. The actual accepted response is a commitment to learn. The inward list of botanical topics remains the adult’s thought, and the monograph does not quietly convert it into an enacted curriculum. This is a modest but consequential form of adult responsibility: continued availability without claiming a success not yet achieved. [BA:bond:10042:005:u:0015–0016;006:u:0011–0027.]"
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 128,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 129,
+      "line_sha256": "d474d77f267c3326335252d7a4683f82cc5bcd13a998513e07243cb6ef6ecfd2",
+      "line_text": "The relationship also has disappointed and adverse edges. The adult leaves before the first wished-for school play has become a satisfying lesson. The midnight visit includes unauthorized entry and a formal possible objection. A camera request can occur after or alongside hesitation, so permission must remain local to the particular exchange. The final refusal remains a refusal despite the adult’s contribution to the outing. A later positive ending cannot backdate consent for every preceding act. [BA:bond:10042:002:u:0029;003:choice:004; BA:bond:26013:003 opening and photograph exchange;005:u:0040–0043.]"
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 130,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 131,
+      "line_sha256": "4b4f53a6e7bfabb1671631b594def0267e4d5a4b5741dab320cc3159fac631cb",
+      "line_text": "The narrator’s and Sensei’s inward texts make unequal knowledge particularly clear. Sensei thinks the final photograph is fireworks; the reader sees Atsuko’s hesitation but no photograph. The adult may be the possible subject, yet possibility does not identify the subject. An interpretation of affectionate privacy is available, and an exclusive romantic relationship is not established. The scene’s force survives uncertainty because the chosen treasure and withheld access are explicit. A mature analysis need not solve privacy to recognize its value. [BA:bond:26013:005:u:0036–0043.]"
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 132,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 133,
+      "line_sha256": "e87ad4b8f5ca7e1fc19af98638ddd1153826631cc8253795ce030250e12f24ab",
+      "line_text": "EVENT810 grants another positive encounter whose uncertainty is not destructive. Atsuko brings a flower she has worked to raise; the adult’s explanation offers a way to preserve it, and shared chocolate and viewing actually follow. The hypothetical handmade-gift question and her guarded answer preserve a secret. Dry preservation remains future. Her statement that she is no longer a princess supports an altered local self-relation; it does not abolish all uses of the address or establish a political abdication. The scene can be playful and meaningful without a manufactured craft history, final romantic classification or permanent material preservation. [BA:event:810:077, complete accepted episode argument.]"
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 134,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 135,
+      "line_sha256": "93c21efa8b60345d7a63ff4842cfea51eb5715a777e94b01089dd6200d2ae315",
+      "line_text": "In Main, the adult is one accountable actor among student-authored answers. That distinction is essential to the relationship. Atsuko and peers formulate what they want, reject an adult’s exclusive blame, and participate in choosing company and schooling. Support should not be measured only by dramatic rescue; a walk preference or a willing companion after horticultural loss can make its purpose more exact. Yet ordinary presence is not a signed protection contract, amnesty or institutional budget. The ethical argument remains literary and source bounded, with a separate full Phase3 Sensei responsibility still required. [BA:main:V003:C004:E025–027; BA:main:V006:C001–003; written26013 Lobby11–12.]"
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 136,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 137,
+      "line_sha256": "cb5be041950783a978ca8e82e8b886d821402c7831fc90d3f297020a80ee9238",
+      "line_text": "## 8. Peers: company without merging four lives"
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 138,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 139,
+      "line_sha256": "f4667996c2d6e3d1ed2d44952c2c2eeb9c9ce05532c348815f1adf68b06c4557",
+      "line_text": "Saori’s relation to Atsuko includes the familiar princess address, protective duty, a broken bargain and separation. Those are substantial, but the address cannot authenticate hereditary office and protection cannot replace Atsuko’s own desires. Saori’s independent work and stage pleasure matter to the festival conflict. Atsuko wants her company; Saori can want work, a newly discovered performance feeling and the others’ happiness. Later company gains substance because these interests are distinguishable, not because one has no will outside the other. [Written10042 profile; BA:main:V003:C004; BA:event:838:009/015–021; accepted Saori25 private argument as qualified peer comparison.]"
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 140,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 141,
+      "line_sha256": "a6f57c4d77ed0245b0b795f88ef36ad62907d10aba3a49d11d7df23e539b6119",
+      "line_text": "The festival ending adds a reciprocal limit. Atsuko’s insistence that Saori rest with them helps create time together, but an imperative is not evidence of every participant’s unpressured agreement. Saori’s statement that a companion need not always accommodate another person gives the relationship an explicit corrective. Hiyori’s chosen photo opportunity and Misaki’s limits on crowd, lights and sound stay present. The narrated pictures and their distribution are actual outcomes; they do not repair all wage issues or make every future group outing comfortable. [BA:event:838:017–021, with local order beforeE016.]"
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 142,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 143,
+      "line_sha256": "1b4f3cac2c7819d4115f3dca404af8df96e6507fd3051a9e8af2640a079eeed0",
+      "line_text": "Misaki corrects a flattering or incomplete account when Hiyori describes funding magazines. The adult supplied half; this matters to a material history without negating Hiyori’s work or her enthusiasm. Atsuko’s warning about effort answers a model aspiration without deciding that fashion is worthless or that gardening guarantees a better life. Three distinct peer positions occupy the same short event bridge. A source-sensitive account keeps all three rather than rephrasing the scene as a homogeneous Arius preference for humble hobbies. [BA:event:853:008:scene:001:u:0004–0006/0012–0013/0023–0028.]"
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 144,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 145,
+      "line_sha256": "284afb9e6710c36ba29800df543fd0d5926b50f6517509f852525379e2b8c8c9",
+      "line_text": "Azusa supplies a consequential public comparison. Her flower makes a future imaginable within concrete, and Atsuko invokes it across separation. That invocation does not establish that Azusa planted Atsuko’s later private bed, that either flower represents all residents, or that the two sources share a recoverable day. Its strength is the usable meaning carried between people. Hanako’s Final acceptance likewise recognizes shared concern without making all alliances unconditional or all past actions legally resolved. [BA:main:V003:C004:E027; BA:main:V100:C002:E015.]"
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 146,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 147,
+      "line_sha256": "1b12152fd22b4fc54c6d1ac8e9f53cfa70a660ab528ddaa48f2f9a5de5973a77",
+      "line_text": "Maia is not simply a grateful recipient of an offer of friendship. Her grievance, historical relation and chosen attachment pressure the Squadron and adult answers. Atsuko’s question about being first-year peers and her willingness to address the conflict are positive, but the independent recipient may remain difficult. Subaru also retains a project of repair, exclusionary judgment and subsequent accountability distinct from Atsuko’s proposed participation. MainV006 gives all of them consequential positions; no generic Arius identity can replace those positions. [BA:main:V006:C002–003, complete accepted chapter arguments.]"
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 148,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 149,
+      "canonical_line": 149,
+      "line_sha256": "6d14f8e7b9c7204f7344b01c4ddce9d269b4db3fdae963c4f4322381dfa20f27",
+      "line_text": "Private written references have narrower reach. A reported two-shot with Misaki is not an inspected picture. Possible vouchers for Hiyori and an assumption about her taste are not completed gifts or a complete Hiyori preference account. The printedサッちゃん work/company reference is retained at its literal scope rather than automatically joined by an unnecessary alias inference. A monograph can describe what Atsuko says about companions without claiming to possess their whole histories. The remaining Misaki and Hiyori monographs and directed relationship packages are required separate work. [BA:character_data:26013:profile_and_dialog; current Saori/Atsuko private owner written-register discussion.]"
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 150,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 151,
+      "canonical_line": 151,
+      "line_sha256": "3fd0bbbf50f892ead4db66e33580d63495ae5b2b14edb692ede7b4f7bec4fd0e",
+      "line_text": "## 9. Written register: quiet interaction is not inspected performed voice"
+    },
+    {
+      "frozen_line": 152,
+      "canonical_line": 152,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 153,
+      "canonical_line": 153,
+      "line_sha256": "9b622c56e773a13027dd4b2e7a0e5e00bf3ee9d3b2f6a904615531805870b241",
+      "line_text": "The profile supplies an exact native identity, first-year age and physical metadata, and花のお手入れ as a hobby. Those fields are source conditions, not a full biography or a standard for judging competence. The baseStatus emphasis on flower language and the summerStatus interest in portrait practice can be compared as selected textual interests; practice is not mastery. No source-mode argument allows the monograph to certify a voice’s timbre, delivery, facial performance or the composition of an unseen portrait. [BA:character_data:10042:profile_and_dialog;26013:profile_and_dialog.]"
+    },
+    {
+      "frozen_line": 154,
+      "canonical_line": 154,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 155,
+      "canonical_line": 155,
+      "line_sha256": "0c740eac19c6006d8ed750516e0ec41ce19ef54b182ee0f63efbcfdcbaa8166e",
+      "line_text": "Base10042’s written contexts spanUITitle4022,CharacterGet4023,Cafe4024–4028,Lobby4029–4043,Lobby24044–4059,Weapon4060 andSpecial4061–4066. The second Lobby block includes additional face context at4049 and is not simply an identical duplicate. Signs, conversational unease, flowers, wanted duty and learning customary celebrations supply different addresses. The mask description and the familiar姫 do not certify mutism, genealogy or a medical condition. Weapon language distinguishes an unchangeable past from a selectable future as her self-understanding, not a prediction engine. Special flower wording may echo BOND concerns without becoming another independent event. [BA:character_data:10042:profile_and_dialog, complete accepted written argument.]"
+    },
+    {
+      "frozen_line": 156,
+      "canonical_line": 156,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 157,
+      "canonical_line": 157,
+      "line_sha256": "eb0cbdbd838affcc7e4fe050837d64a616da2e13c25baececdb2c672ec96062a",
+      "line_text": "Summer26013’sUITitle,CharacterGet,Cafe1–5,Lobby1–18,Weapon1 andSpecial1–7 add camera, company and a walk over a gift. The address that she will listen to anything is not blanket physical or photographic consent. Future Christmas photography, Halloween learning and later use remain promises or interests where no completion is printed. Reported photos and inferred tastes are correspondingly qualified. Similar flower-image phrasing across registers supports a motif, but duplication does not multiply events, subjects or witnessed pictures. [BA:character_data:26013:profile_and_dialog, complete accepted written argument.]"
+    },
+    {
+      "frozen_line": 158,
+      "canonical_line": 158,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 159,
+      "canonical_line": 159,
+      "line_sha256": "11320c2e071c3e9127613b66e67f5c578e5c8e31c6e2be5e310eeb0ad46611bd",
+      "line_text": "Costume1900928201 is attached to character26013 and has an empty Profile. Its actual contexts areUIEventLobby andUIEventMission:838Lobby1–17/Mission1–7;10838Lobby18–34/Mission8–14;900838Lobby35–44, limited to initial/Idle material. These repeated address blocks do not establish three actual festivals. No missing900838 ending, midpoint or mission is invented. Sea, sand, waves, inclusive company and sadness at an ending disclose a wanted experience; a wish for no trouble cannot certify a safe festival. [BA:character_data:event_costume:1900928201:character:26013.]"
+    },
+    {
+      "frozen_line": 160,
+      "canonical_line": 160,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 161,
+      "canonical_line": 161,
+      "line_sha256": "51a73c6ceb7da0edfcfe37df6d87daa81970a651a86101ceba2e32c2bbda9a3e",
+      "line_text": "Narrative attribution supplies a related control. The garden’s proposed botanical syllabus and the fireworks interpretation are inward Sensei text. The photographed image and smell associations are represented in words, not pixels or recorded scent. EVENT838’s embedded and replayed performances are written representations; no fresh performed voice follows. EVENT821’s Atsuko/Saori seam and EVENT838’s role-like actor reversals remain qualified. Where collective attribution is firmer than an isolated printed label, the argument stays at the collective level. [BA:bond:10042:006:u:0012–0013; BA:bond:26013:005:u:0036; BA:event:821:008;838 accepted mode discussion.]"
+    },
+    {
+      "frozen_line": 162,
+      "canonical_line": 162,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 163,
+      "canonical_line": 163,
+      "line_sha256": "478ceb98d25fa4181b1a60171f5655743d0ad06c0c6a2aac162066904be206f2",
+      "line_text": "Her register consequently supports an interpretation of careful, tentative, sometimes playful and privately assertive interaction at these textual sites. It does not support a single guaranteed reaction in future situations. Signing and pauses can matter without decoded gestures; affectionate phrasing can matter without authenticating an exclusive romance. The meaningful continuity is a willingness to seek communication and exercise boundaries, not a voice model derived from unperformed text. [Current complete selected written/private argument; no performed audiovisual admission.]"
+    },
+    {
+      "frozen_line": 164,
+      "canonical_line": 164,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 165,
+      "canonical_line": 165,
+      "line_sha256": "456275bf6fd179376a24d1e13b6d1df52354fc550e565f10b21a2ac939df66a3",
+      "line_text": "## 10. Competing readings and the strongest contrary cases"
+    },
+    {
+      "frozen_line": 166,
+      "canonical_line": 166,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 167,
+      "canonical_line": 167,
+      "line_sha256": "25b2df096c9753b48f1c07fbed20b712a1ad5ad4ec70982e67df46871cf4f1dc",
+      "line_text": "**“Atsuko is chiefly a passive princess who is saved.”** The hostage position and others’ protective acts make this a serious public reading, not a foolish alternative. It becomes inadequate when it assigns no interpretive weight to authored outings, hand-led flight, selected hobbies, classroom participation and a refused image request. Rescue changes the field in which she can choose; it does not generate all her choices. Conversely, her initiative cannot erase the coercion that restricted the surrender or the contributions of Saori, Mika and the coalition. [V003C004; base and summer BOND; V006.]"
+    },
+    {
+      "frozen_line": 168,
+      "canonical_line": 168,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 169,
+      "canonical_line": 169,
+      "line_sha256": "94e2f25f8f7496e779ebf023762f131df733c793e7f0144346e7698a260c3d03",
+      "line_text": "**“The flowers show a fully healed, rooted Arius.”** The public flower’s answer to vanitas and the later enthusiasm for growing plants support a hopeful thematic relation. The garden dies. The subsequent lesson is a commitment, not a completed restoration. A persuasive motif must contain failed care and continued possibility. Garden death neither certifies a permanently hopeless person nor establishes that her hope was fulfilled. [V003C004E027;10042:005/006.]"
+    },
+    {
+      "frozen_line": 170,
+      "canonical_line": 170,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 171,
+      "canonical_line": 171,
+      "line_sha256": "5fee0fdbc19505120de0bc609d303b97cf8f1fcbf63abaf6ca503c1ad05d9856",
+      "line_text": "**“She is the Squad’s naturally wise, gentle moral center.”** Her warning about effort, friendships and rejection of a single destructive judgment support thoughtfulness. Unknown horticultural causes, a risky school visit, pressured care and the Squad’s coercive festival protection support contrary judgments. They make wisdom situational and subject to recipients’ responses. The title-like address or a reported exam average cannot make her a universal authority. [EVENT853E008;10042:003/006;EVENT838;V006C003.]"
+    },
+    {
+      "frozen_line": 172,
+      "canonical_line": 172,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 173,
+      "canonical_line": 173,
+      "line_sha256": "e032ce23ad0995dda0ca3b42fdeabb9709428e895ca5062efa3ac82a980e0f53",
+      "line_text": "**“All privacy encodes a solved romantic revelation.”** The valued gift, teacher-directed emphasis and private treasure allow affectionate readings. They do not show the final image, confirm handmade manufacture, or settle exclusivity. The strongest positive conclusion is not silence about affection: Atsuko values company and personal tokens. The strongest boundary is that ownership and permission remain with her when the image is withheld. [EVENT810E077;26013:005.]"
+    },
+    {
+      "frozen_line": 174,
+      "canonical_line": 174,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 175,
+      "canonical_line": 175,
+      "line_sha256": "b5336731ab1e0fd16ace8ae49b163df68ed86392490e7dd6db05d79096a0da7d",
+      "line_text": "**“The adult always identifies the correct object of care.”** Rescue, accompaniment and the proposal to learn are substantial positive evidence. The cut-flower mismatch, disappointed interrupted play, possible objections to school entry and an unsuccessful search expose limits. Atsuko’s gratitude is not a universal endorsement. A more defensible relation allows correction, local consent and incomplete results alongside real help. [10042:002/003/005/006;26013:005.]"
+    },
+    {
+      "frozen_line": 176,
+      "canonical_line": 176,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 177,
+      "canonical_line": 177,
+      "line_sha256": "7cc3c553702bbec02e0b991460c8852604c2c4dd4cbf9fd3a602038d7b9521d7",
+      "line_text": "**“Ordinary stories merely prove that crisis damage has been repaired.”** This interpretation notices a legitimate relation between safety and opportunity. It cannot explain why an unplanted gift is still special, why an image-free walk can be wanted, why a failed bed warrants learning, or why Hiyori’s fashion wish survives Atsuko’s caution. Ordinary ends supply particular purposes whose value precedes their service to a recovery narrative. Their priority follows the analytical question they answer, not the height of the stakes. [Complete Atsuko17;EVENT853E008.]"
+    },
+    {
+      "frozen_line": 178,
+      "canonical_line": 178,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 179,
+      "canonical_line": 179,
+      "line_sha256": "d4fe75f2a709d35225b8be0a25ec5e639da11fc1dc922736d24b2cabae496e9a",
+      "line_text": "**“Strong attribution limits mean the public change cannot be claimed.”** EVENT821 and some festival lines do have consequential seams, while clinical, historical and supernatural claims need distinct witnesses. Those limitations do not undo attributable speech, narrated activities, awake conversation, actual classroom attendance or distributed photos. The correct response is to adjust the proposition to the witness: group protection where individual labeling is unstable, relief where clinical closure is unproved, participation where a charter is absent. [V003C004;V006C003;EVENT821/838.]"
+    },
+    {
+      "frozen_line": 180,
+      "canonical_line": 180,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 181,
+      "canonical_line": 181,
+      "line_sha256": "7d3d549914533cbea073fffb0d72ec189071cac49d4c1f5c3360a6b0a0fc0262",
+      "line_text": "**“A pleasant festival ending absolves the Squad’s means.”** The actual pictures and Saori’s newfound stage pleasure are positive. Pressure, confinement and unpaid work are adverse and remain. Keeping both judgments avoids making joy fraudulent while refusing to make it a universal ethical receipt. Recipients’ independent preferences and the following-morning wage issue make the contradiction part of the character analysis. [EVENT838E004–021, with explicit local ordering.]"
+    },
+    {
+      "frozen_line": 182,
+      "canonical_line": 182,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 183,
+      "canonical_line": 183,
+      "line_sha256": "a6b22aa31c2cfd13aeb1ab927695a77207ed03c3dcdc3cfab85380fb00b4ab12",
+      "line_text": "These rivals leave the core thesis narrower and stronger. Atsuko authors meaningful contents of a life while knowledge, results and other people’s assent remain limited. She is neither reducible to the assigned sacrifice nor immune to judgment because she survived it. The right to keep a treasured photograph inaccessible provides one completed boundary inside an otherwise unfinished future."
+    },
+    {
+      "frozen_line": 184,
+      "canonical_line": 184,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 185,
+      "canonical_line": 185,
+      "line_sha256": "c9d5e5b0913e07f3beb07d4082c4fe558430a62bffc3312de67bfbfb23d07b5b",
+      "line_text": "## 11. Evidence routes, open gaps and the completion boundary"
+    },
+    {
+      "frozen_line": 186,
+      "canonical_line": 186,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 187,
+      "canonical_line": 187,
+      "line_sha256": "e1aefd8368c8c697b63270c1de6359c96021c9169d6eba46708450a2ef8b8f6a",
+      "line_text": "The canonical destination accepted by ROOT is`series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ATSUKO_CHARACTER_MONOGRAPH.md`. This saved canonical derivative records ROOT's completed whole-body receiving and exact adoption review WITH LIMITS. The accompanying exact receiving receipt binds its whole saved body, private source routes, actual refreshed ranges and two complete Japanese recoveries. It does not confer a person model, a denominator freeze or a Phase3 milestone."
+    },
+    {
+      "frozen_line": 188,
+      "canonical_line": 188,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 189,
+      "canonical_line": 189,
+      "line_sha256": "8fe9c6a9ffbb7605dbd862bfd6b0c0df779e6fa4eea8a1a39b4cf4cd060f7a78",
+      "line_text": "| Evidence responsibility | Exact owner or source IDs | Analytical contribution and boundary |"
+    },
+    {
+      "frozen_line": 190,
+      "canonical_line": 190,
+      "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+      "line_text": "|---|---|---|"
+    },
+    {
+      "frozen_line": 191,
+      "canonical_line": 191,
+      "line_sha256": "88b2944d69b54d54c0151b2aa09a4447650254d4c3a308e6d6e4e85713a4b79e",
+      "line_text": "| Atsuko private17 | `02 Sequential Readings/BOND/BLUE_ARCHIVE_SAORI_ATSUKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md`; Atsuko7B+7 wholeMM+3written | Current semantic body211–660 personally complete; frontmatter partial. Seven real W15 links, not seven truncated launch excerpts. Saori25 remains separate. |"
+    },
+    {
+      "frozen_line": 192,
+      "canonical_line": 192,
+      "line_sha256": "d533d2120324040a74ded2b54a89abc4ddd0ec586db24052db69fe230f4c8797",
+      "line_text": "| Base10042 | BOND002/003/005/006; wholeMM100420010/140/240/380 | Interrupted play, unauthorized school wish, gift mismatch/transplant report, actual garden loss and future learning. No completed charter/lesson/restored bed. |"
+    },
+    {
+      "frozen_line": 193,
+      "canonical_line": 193,
+      "line_sha256": "a3c78eb7961554de89e3dfdc9d1773d51a4620efb0830f4dc140d1d3985c112a",
+      "line_text": "| Summer26013 | BOND002/003/005; wholeMM260130010/080/130 | Walk without pictures; initiated escape and valued photo; selected final private treasure with unknown subject. |"
+    },
+    {
+      "frozen_line": 194,
+      "canonical_line": 194,
+      "line_sha256": "793173faf5f8a82482c9a94d8f57d9229b7985f0b4c9c6499c18949f225dd46d",
+      "line_text": "| Written baseline | character_data10042/26013; costume1900928201→26013 | Exact context blocks, profile conditions and repeated addresses; no performed voice, image inspection or extra event count. |"
+    },
+    {
+      "frozen_line": 195,
+      "canonical_line": 195,
+      "line_sha256": "bb9606dd3e428c4c079b02a1b9150ed8046f0ce67da6d5e0fa334acd70cc1f84",
+      "line_text": "| V003 | Complete maintained V003 account and completeC003/C004 checkpoints; especiallyC004E025–027 | Assigned use, broken bargain, coalition, actual waking speech, future and separation. No clinical/mechanism/royal-law certification. |"
+    },
+    {
+      "frozen_line": 196,
+      "canonical_line": 196,
+      "line_sha256": "5fc76a82e570ef5333fef7064eb9e6337ddf9019baf37bcfd2729504dd0f8809",
+      "line_text": "| V006 | Complete maintained account andC001/C002/C003 checkpoints | Learning, Maia/Subaru independent positions, collective relief and provisional school participation. Proposed historical work, offices and final repair remain incomplete. |"
+    },
+    {
+      "frozen_line": 197,
+      "canonical_line": 197,
+      "line_sha256": "03191d504a24510cef9a5856f0d6616113dd8c87bdfa21cb4d0858a3962f5c56",
+      "line_text": "| Final | Complete maintained account and four chapter checkpoints; C002E015,C004E010 | Conditional rear-guard cooperation and contact across Saori’s independent future; no universal battle-result or employment/amnesty conclusion. |"
+    },
+    {
+      "frozen_line": 198,
+      "canonical_line": 198,
+      "line_sha256": "09743247d55c46fc069684dcaafcb8e8bbde64d1a2393afeb98087d3174c09c1",
+      "line_text": "| EVENT810 | Complete current102-object contextual argument reused; completeE077 deep argument freshly received | Wanted flower/gift/company, actual shared chocolate/viewing; manufacture secret and drying future. No new whole102-primary credit. |"
+    },
+    {
+      "frozen_line": 199,
+      "canonical_line": 199,
+      "line_sha256": "3caeba872163af7c36b3f18ac4738475e579445431b00cba4348ee3bbed6baf6",
+      "line_text": "| EVENT821 | Complete current owner reused; current85–124 attribution/contribution span refreshed | Operational cooperation context with E008 masked Saori/Atsuko seam retained. |"
+    },
+    {
+      "frozen_line": 200,
+      "canonical_line": 200,
+      "line_sha256": "b8314093a8c3da6b8442305a8eef430fb393d518fa6171a3f6a0d619b06ca790",
+      "line_text": "| EVENT838 | Complete21-object current owner and exact literal roster reused;79–163 refreshed | Trip, protection, stage and after-stage distinct recipients; photos actual, wage pursuit unfinished, local order explicit. |"
+    },
+    {
+      "frozen_line": 201,
+      "canonical_line": 201,
+      "line_sha256": "6327143d08e4710ae69813f0c0e37c16691c2b91b6b111bf8e4c901529019cc3",
+      "line_text": "| EVENT853 | Complete13-object current owner/literal roster reused;107–122 and143–152 refreshed | E008 three separate Arius positions, fashion wants, effort and gardening; no spoiled-meat consumption invented. |"
+    },
+    {
+      "frozen_line": 202,
+      "canonical_line": 202,
+      "line_sha256": "8b4b30507aa348429ef41508fae7903b088e04ff8fc2b7d2ff05ea605f827a03",
+      "line_text": "| GROUP context | Accepted V003/V006 relevance argument at declared scope | Surrounding care/sponsorship context; no fictitious Squad group membership or whole primary replay. |"
+    },
+    {
+      "frozen_line": 203,
+      "canonical_line": 203,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 204,
+      "canonical_line": 204,
+      "line_sha256": "ecb1ad46e4012aca9c74f1adb7494cdb71c54e3fe9b2f6a28ac5a8c80e7beef5",
+      "line_text": "All fourteen original source gaps remain **OPEN**. The gaps restrict particular propositions; they do not erase the positive meanings received above."
+    },
+    {
+      "frozen_line": 205,
+      "canonical_line": 205,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 206,
+      "canonical_line": 206,
+      "line_sha256": "953856106b30ece7f8fa2c1f8c924296ad70127e23a142215887e00df30b88f8",
+      "line_text": "| Gap | Claim-specific limit and required witness for a stronger claim |"
+    },
+    {
+      "frozen_line": 207,
+      "canonical_line": 207,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 208,
+      "canonical_line": 208,
+      "line_sha256": "f3b95f4007ccebede7b9505c09171760e7b91b487e335643750e28c7edb70f10",
+      "line_text": "| G01 ordinary/private | Selected17 objects give substantial wanted ends and adverse outcomes. Later plantings, garden recovery, photographed subjects and fulfilled holiday plans require their own printed endpoints; a withheld picture remains a legitimate boundary. |"
+    },
+    {
+      "frozen_line": 209,
+      "canonical_line": 209,
+      "line_sha256": "3cc620f5d4adc8d9eddc998e05d2d7ed7189ddd27bd567d0eeddd73fd2785060",
+      "line_text": "| G02 Yuuka | No Atsuko/Yuuka direct relation or common school preference is manufactured from a shared setting or full-cast need. A positive routed encounter and independent arguments would be needed. |"
+    },
+    {
+      "frozen_line": 210,
+      "canonical_line": 210,
+      "line_sha256": "0c4f1230cfd10a47491bb40d89c6dc45015b0be3098cb680713943359f888908",
+      "line_text": "| G03 Serika | Her economic comparisons do not authenticate Serika’s labor history or a shared solution. Separate current character and directed relational evidence remain necessary. |"
+    },
+    {
+      "frozen_line": 211,
+      "canonical_line": 211,
+      "line_sha256": "bfdbcc2dbf7760b64385afcaaa0ff4d7c06554c2cda14923299542aed564c52d",
+      "line_text": "| G04 Hina | Crisis or festival analogies establish no Hina/Atsuko interaction, shared consent or joined timetable. A source-located encounter must precede such a claim. |"
+    },
+    {
+      "frozen_line": 212,
+      "canonical_line": 212,
+      "line_sha256": "919c8f6455e1fb4c449799cdf9c9558dff487e542fcb69af54e4abd709f196af",
+      "line_text": "| G05 Arius/PS68 | Atsuko’s wants and peers’ separate agency are received. Saori’s unresolved employment, each remaining private account, actual directed PS68 ties and residents’ differences require their own scope; no blanket Arius outcome follows. |"
+    },
+    {
+      "frozen_line": 213,
+      "canonical_line": 213,
+      "line_sha256": "b26b50f1e2c016314700e3ad5b7108063ce264c9c1fc13bcb7ffd97b1a9ad221",
+      "line_text": "| G06 cross-school | Actual Azusa/Hanako and public coalition relations are bounded positive bridges. Fashion readership or surrounding GROUP relevance gives no universal affiliation or common stance. |"
+    },
+    {
+      "frozen_line": 214,
+      "canonical_line": 214,
+      "line_sha256": "553484915b14f2465a10933ab68f3f4d7584820af01c8c07b62bd80d4a56b9c9",
+      "line_text": "| G07 chronology | Private local sequences and EVENT838 after-stage ordering are retained. No universal Main/Final/BOND/MM/event calendar is installed; explicit common-date evidence would be needed. |"
+    },
+    {
+      "frozen_line": 215,
+      "canonical_line": 215,
+      "line_sha256": "e552472c5f77fd468d427abd917593c25a98b8c2921defb9b6f21f31da1d9bdc",
+      "line_text": "| G08 names/local IDs | Event numbers, costume aliases and literal groups stay local. A repeated lobby block is not a second festival; local Helmet labels are not globally joined individuals. |"
+    },
+    {
+      "frozen_line": 216,
+      "canonical_line": 216,
+      "line_sha256": "d8e94a0f290cab2df7baeefc43bf1846a7c92d987caef2e9dc01846ee5e5d5b9",
+      "line_text": "| G09 speakers/choices | Every formal private alternative and whole message tail remains represented. EVENT821’s masked Saori seam and EVENT838’s actor reversals restrict isolated speech/action ownership; native/raw reconciliation would be needed for stronger exact attribution. |"
+    },
+    {
+      "frozen_line": 217,
+      "canonical_line": 217,
+      "line_sha256": "86b5c4302bed0b6019ca20b75e9470788277b3146a9162d84c3bfbfe1de504e8",
+      "line_text": "| G10 audiovisual | Written pauses, signs, images, fireworks and stage descriptions are not inspected performance. Gesture decoding, voice, composition and sensory quality need admitted performed/image witnesses. |"
+    },
+    {
+      "frozen_line": 218,
+      "canonical_line": 218,
+      "line_sha256": "30fbd205a1bfcdecb37fe2909431bfe1afb9ade164f3f9dd71668b313d18eea1",
+      "line_text": "| G11 records/office | Royal claims, interim presidency, reported scores and proposed historical projects lack authenticated charter, gradebook, archive and full authorization. Actual participation remains claimable. |"
+    },
+    {
+      "frozen_line": 219,
+      "canonical_line": 219,
+      "line_sha256": "d50cbccc26d2181d1691618778a495f0a1cbe7950f4084e2e1713e3519f29b5d",
+      "line_text": "| G12 identity/variants | Native秤アツコ, person key,10042/26013 and costume relation are exact selected scopes. Clothing and event aliases are not additional persons, and cross-source calendars/body histories are not authenticated. |"
+    },
+    {
+      "frozen_line": 220,
+      "canonical_line": 220,
+      "line_sha256": "4e55ac21f6e4b32c2cd6d834d2a8e3586e42dc5b3f14971a01beb77c7ac32e0c",
+      "line_text": "| G13 technical/clinical/legal | Waking speech, garden death, camera failure and escape are literary outcomes. Causal botany, mask/halo mechanisms, full health, fees, photo law, parole and wages require appropriate explicit witnesses for stronger certification. |"
+    },
+    {
+      "frozen_line": 221,
+      "canonical_line": 221,
+      "line_sha256": "22fff3e4a134c038fb2df1a2a4682fe8f01c269aed7d39009eeb91215a44bfaa",
+      "line_text": "| G14 modes | Requests, plans, reports, narrator endpoints, inward text and antagonist asides stay different modes. Future display/drying/learning does not become completion; hidden information does not become shared knowledge. |"
+    },
+    {
+      "frozen_line": 222,
+      "canonical_line": 222,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 223,
+      "canonical_line": 225,
+      "line_sha256": "c1b68855117d2a0ad683db8818b59eb0d29b658520ef3d2687c871594399e581",
+      "line_text": "No mandatory recovery is known to remain for the **bounded propositions asserted in this candidate**. The complete two recovered Japanese endings confirm the garden’s loss, future learning, selection under a last-frame limit and actual privacy refusal. They resolve consequential wording without replaying all seventeen accepted objects. The stronger claims excluded in the table remain debts if later work chooses to assert them. Not knowing the final photograph’s subject is not a missing witness this monograph must override to finish."
+    },
+    {
+      "frozen_line": 224,
+      "canonical_line": 226,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 225,
+      "canonical_line": 227,
+      "line_sha256": "329fd839fdae8d7c7b3bcf54303a2cb915536cd577443c4f0bd22f04785bbf1f",
+      "line_text": "Completion of this canonical monograph is separate from completion of full Phase3. Justified directed relations among Atsuko, Saori, Misaki, Hiyori, Maia, Subaru, Azusa and Sensei; the differentiated Arius ensemble; institutional repair; and written-register/Sensei responsibilities remain required specialist work under the full eligible-cast architecture. ROOT has received the whole saved prose and exact receipt and accepted this canonical derivative WITH LIMITS; the distinct relationship, ensemble and institutional responsibilities remain required. This monograph claims no global registry, model, denominator, quarter, merge or publication result."
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        223,
+        222
+      ],
+      "canonical_lines": [
+        223,
+        224
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ATSUKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.",
+        ""
+      ]
+    }
+  ],
+  "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+  "terminal_LF_preserved": true,
+  "schema": "BLUE_ARCHIVE_EXACT_OLDER_STABLE_GAP_ASSOCIATION_TRANSPORT_V1",
+  "status": "ROOT_ACCEPTED_EXACT_ASSOCIATION_INSTALLATION_PENDING",
+  "original_source": "5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+  "earlier_original_source": "92184703994a1950a5660654ce52d8516dbe9bf5",
+  "original_G14_line": 221,
+  "exact_added_paragraph": "**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ATSUKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.",
+  "complete_byte_inverse": {
+    "unchanged_prefix_bytes": 52142,
+    "exact_inserted_UTF8_text": "\n**Stable original G11 — Hoshino's Yume record and office states: OPEN.** The [exact gap-alignment supplement](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_ATSUKO_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md) retains the saved local row and the original stable question. The saved records/office row remains a local contribution; it does not replace the independent Hoshino–Yume record and office-state duty. No gap closure or new source, primary, literary, model or count credit follows.\n",
+    "exact_inserted_bytes": 490,
+    "unchanged_suffix_bytes": 1201,
+    "inverse": "Remove precisely the inserted span beginning at the unchanged prefix byte length; entire original bytes/hash/blob are recovered."
+  },
+  "original_local_gap_rows_unchanged": true,
+  "current_ROOT_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_OLDER_STABLE_GAP_ROOT_ACCEPTANCE_AND_TRANSPORT_V1.json",
+  "older_public_saved_and_ROOT_tuple_qualification": "Earlier immutable author/ROOT/saved-output records bind their exact pre-association derivative, not the new current derivative. This exact transport controls only the approved zero-credit gap association; prior literary/source custody is unchanged.",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "new_credit": 0
+}

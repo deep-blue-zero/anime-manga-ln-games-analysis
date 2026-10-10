@@ -1,0 +1,373 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE_INSTALLATION_PENDING",
+  "subject": "Utaha",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This preparation has no persistence or publication effect before complete ROOT installation. ROOT must verify the successful actual exact-head source/housekeeping/final chain for 5f0a24b56557f308e9cef31c7d1c2d58406ef49a, complete the final whole candidate receiving, and install all final declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The complete original payload is immutable. Its pending, C-only, historical counts and audit statuses describe its creation-time custody event, not current adoption. Current ROOT acceptance is qualified explicitly here. Current scope remains355/29; no new source, primary, performance, model, independent literary or count credit follows from transport.",
+  "original_exact_tuple": {
+    "path": "ROOT_UTAHA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 13285,
+    "sha256": "2fbd0b58904f5a4bc3de62ea5bf6aeaeceeba0b7e5fd1f8b7ba6358165ab6dfb",
+    "git_blob_oid_of_actual_bytes": "6b3638686adbb67e1824e3960111be9fcc7ecff8",
+    "lines": 208,
+    "immutable_transport_path": "immutable_originals/ROOT_UTAHA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "public_reference_translation": "Full original fields and strings survive with declared reference translation only; public provenance labels do not serve files or admit material. Original byte tuples remain original witnesses and are not claimed as derivative tuples.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "Author and ROOT complete/bounded meanings remain attributed to actual scopes. Mechanical transport adds no literary receiving."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_UTAHA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "checked_at": "2026-10-10T13:19:30.289267+00:00",
+    "candidate_sha256": "7345567930a555f7f9152b6f1f25d40f17ac03720a1065f0c19ba8d09184cb05",
+    "frozen_payloads": 4,
+    "freeze_manifest_separately_verified": true,
+    "R_input_bindings": 27,
+    "original_private_analytical_owners": 13,
+    "registry_binding_verified": true,
+    "prior_owner_progress_proof": {
+      "sha256": "695f4b400271b4a9f8c75324b094300886a777572842e1e33b22e6643020774e",
+      "whole_ROOT_control_receiving": "32f9db265EOF",
+      "meaning": "Existing exact prior ROOT whole analytical/source custody reused; the receipt is a dated production statement, qualified by the current accepted U23 account and Cycle008. No fresh primary or independence credit."
+    },
+    "dated_mutable_controls": [
+      {
+        "source_id": "C06",
+        "historical_commit": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "historical_sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+        "current_sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+        "current_equality_claimed": false
+      }
+    ],
+    "historical_comparisons_verified": 77,
+    "explicit_historical_absences_verified": 4,
+    "prior_complete_normal_account_receiving": {
+      "control_sha256": "64ac4a7de73537ca74131eb4e9ec3aedb1c98cccc0c35e1c97345bf5f727ea81",
+      "selected_control_fields_received": "7a78bb94–109",
+      "prior_actual_scope": {
+        "from_line": 152,
+        "through_line": 286,
+        "meaning": "COMPLETE_CURRENT_QUALIFICATION_AND_ATTRIBUTED_ARGUMENT_THROUGH_EOF; preceding binding arrays metadata-only",
+        "actual_tool_receipts": [
+          "fcfca3"
+        ]
+      },
+      "original_source_credit": 0
+    },
+    "previous_Maki_frozen_payloads_preserved": 5,
+    "substantial_sections": 11,
+    "saved_paragraph_joins": 47,
+    "relative_links_at_actual_canonical_home": 47,
+    "endpoint_reviews": 24,
+    "original_gap_question_status": "ALL14_OPEN; frozen labels are correct-topic abbreviations, not literal full original names",
+    "required_canonical_gap_label_qualification": [
+      {
+        "stable_id": "G01",
+        "literal_original_name": "Ordinary and private breadth",
+        "frozen_author_line": 139,
+        "frozen_abbreviated_row": "| G01 ordinary/private breadth | Complete selected pairs and written objects retain craft, clothes, tools, food, song, curiosity, grooming, company, refusal and failed plans. | Selected Utaha breadth is not all possible private experience or full-cast completion. |",
+        "canonical_requirement": "Full original name, unchanged OPEN content and reversible original-row mapping"
+      },
+      {
+        "stable_id": "G02",
+        "literal_original_name": "Yuuka council/club decision transfer",
+        "frozen_author_line": 140,
+        "frozen_abbreviated_row": "| G02 Yuuka council/club transfer | Festival algorithm speculation and divided authority are separated from actual orders and recipient permission. | No proved Yuuka order to attack, certified council regime, absent-accountant identity or durable office repair. |",
+        "canonical_requirement": "Full original name, unchanged OPEN content and reversible original-row mapping"
+      },
+      {
+        "stable_id": "G03",
+        "literal_original_name": "Serika service, peer and reciprocity range",
+        "frozen_author_line": 141,
+        "frozen_abbreviated_row": "| G03 Serika service/reciprocity | Restaurant and gift recipients have specific needs;818 keeps Serika's rocket accusation within its sequence. | No Serika livelihood/service afterstate, complete launcher observation or universal reciprocity rule. |",
+        "canonical_requirement": "Full original name, unchanged OPEN content and reversible original-row mapping"
+      },
+      {
+        "stable_id": "G04",
+        "literal_original_name": "Hina crisis causality, accountability and ordinary contrast",
+        "frozen_author_line": 142,
+        "frozen_abbreviated_row": "| G04 Hina accountability/ordinary contrast | Responsibility, warning, local acceptance and unfinished costs remain distinct. | No transferred Hina casualty, restitution, causal or named-section completion. |",
+        "canonical_requirement": "Full original name, unchanged OPEN content and reversible original-row mapping"
+      },
+      {
+        "stable_id": "G05",
+        "literal_original_name": "Arius and PS68 ordinary/aftermath transfer",
+        "frozen_author_line": 143,
+        "frozen_abbreviated_row": "| G05 Arius/PS68 aftermath | Coalition labor and intrinsic wanted lives are not reduced to crisis utility. | No group livelihood, legal, clinical, employment or completed aftermath repair by analogy. |",
+        "canonical_requirement": "Full original name, unchanged OPEN content and reversible original-row mapping"
+      },
+      {
+        "stable_id": "G06",
+        "literal_original_name": "Cross-school ordinary repertoire",
+        "frozen_author_line": 144,
+        "frozen_abbreviated_row": "| G06 cross-school ordinary | Food, festival tastes, independent Hanae/Chihiro/recipients and wanted company supply differentiated breadth. | No universal temperament, unanimous pleasure or complete cross-school private census. |",
+        "canonical_requirement": "Full original name, unchanged OPEN content and reversible original-row mapping"
+      },
+      {
+        "stable_id": "G07",
+        "literal_original_name": "Story-world chronology",
+        "frozen_author_line": 145,
+        "frozen_abbreviated_row": "| G07 chronology | Whole documentary pairs, local coat washing report, group sequence and festival preparation/afterstory order are retained. | No global release/outfit maturation ladder, fused holiday calendar or inferred private-to-MAIN causation. |",
+        "canonical_requirement": "Full original name, unchanged OPEN content and reversible original-row mapping"
+      },
+      {
+        "stable_id": "G08",
+        "literal_original_name": "Event naming and repeat contexts",
+        "frozen_author_line": 146,
+        "frozen_abbreviated_row": "| G08 event naming/reuse | 810/817/818 and 53 costume contexts remain literal owned identities and modes. | No renamed title, fused event, repeated-experience multiplication or completed uninspected route. |",
+        "canonical_requirement": "Full original name, unchanged OPEN content and reversible original-row mapping"
+      },
+      {
+        "stable_id": "G09",
+        "literal_original_name": "Written speaker/choice attribution",
+        "frozen_author_line": 147,
+        "frozen_abbreviated_row": "| G09 actor/choice/knowledge | Inward, lyric, log, animal, local actor, raw-text corrections and alternative choices remain distinct. | No silent actor repair, all-options performance, shared inward thought or secure hidden rescue motive. |",
+        "canonical_requirement": "Full original name, unchanged OPEN content and reversible original-row mapping"
+      },
+      {
+        "stable_id": "G10",
+        "literal_original_name": "Performed voice",
+        "frozen_author_line": 148,
+        "frozen_abbreviated_row": "| G10 performed voice | Japanese written register, modal language and qualified locale contrasts are analyzable. | No heard singing/voice, acted hesitation, rendering, gesture, audio timing or executed script pause. |",
+        "canonical_requirement": "Full original name, unchanged OPEN content and reversible original-row mapping"
+      },
+      {
+        "stable_id": "G11",
+        "literal_original_name": "Hoshino's Yume record and office states",
+        "frozen_author_line": 149,
+        "frozen_abbreviated_row": "| G11 Hoshino/Yume record/office | Tool continuity and memory metaphors provide no authentication of another person's record. | Grief, notebook provenance, death cause and office afterstates remain separate and open. |",
+        "canonical_requirement": "Full original name, unchanged OPEN content and reversible original-row mapping"
+      },
+      {
+        "stable_id": "G12",
+        "literal_original_name": "Counterpart, system and variant identity",
+        "frozen_author_line": 150,
+        "frozen_abbreviated_row": "| G12 identity/system/variants | Literal Utaha variants/costume, puppy, mechanic, courier, weapon owner and AMAS uncertainty are bounded. | No guessed junior/accountant join, system personhood, Alice/Key continuity or registry repair. |",
+        "canonical_requirement": "Full original name, unchanged OPEN content and reversible original-row mapping"
+      },
+      {
+        "stable_id": "G13",
+        "literal_original_name": "Office, contract, safety and technical outcomes",
+        "frozen_author_line": 151,
+        "frozen_abbreviated_row": "| G13 office/contract/safety/technical outcomes | Actual gift conditions, maker/recipient disagreement, correction, successful freight arrival and reported incident results are separated from forecasts. | No broad technical/clinical audit, tested protection, completed replacement/delivery, settled liability, all-device permission or safe-return guarantee. |",
+        "canonical_requirement": "Full original name, unchanged OPEN content and reversible original-row mapping"
+      },
+      {
+        "stable_id": "G14",
+        "literal_original_name": "Unclassified/mode continuity",
+        "frozen_author_line": 152,
+        "frozen_abbreviated_row": "| G14 unclassified/mode continuity | Narrative, whole messages, contextual writing, technical testimony and reuse retain their source roles. | No unreceived special-operation or asset meaning, native/global reconciliation or new source admission. |",
+        "canonical_requirement": "Full original name, unchanged OPEN content and reversible original-row mapping"
+      }
+    ],
+    "canonical_route_qualification": {
+      "author_proposed_navigation_home": "series/blue-archive/04 Specialist Syntheses/CHARACTERS/BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+      "actual_existing_series_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+      "requirement": "Preserve frozen transports; declare full reversible route normalization. Required package scope remains the same."
+    },
+    "ROOT_actual_receiving": {
+      "whole_final_body": [
+        "4237bd1–40",
+        "16864841–80",
+        "a8e3a781–120",
+        "335f7d121–154EOF"
+      ],
+      "all_input_fields": [
+        "284537",
+        "0ccb1f",
+        "04fc16",
+        "75531d18–26EOF"
+      ],
+      "all_private_owner_custody_fields": "bc93e6all13",
+      "all_24_endpoint_fields": [
+        "1893020–11",
+        "7f5ccb12–23EOF"
+      ],
+      "controls_sections_saved_and_freeze": [
+        "adee7a",
+        "9dde89",
+        "db983b67EOF",
+        "a3c06d193EOF"
+      ],
+      "current_complete_accepted_private_account": [
+        "6d3fc51–145",
+        "4c5ab5146–286EOF"
+      ],
+      "prior_meanings": "Exact earlier ROOT complete thirteen private analytical owners are supported by 32f9db and current accepted U23. MAIN480, selected admitted Phase2 contexts, PW/F00/E10/E17 and their complete endpoints are reused within actual prior scopes. No new source/native/raw/schema/QA/AV or historical independence credit.",
+      "fresh_thirteen_original_body_receiving_claimed": false
+    },
+    "semantic_grounds": [
+      "Sensory preferences, favorite tools and places, clothing, music, gifts, nails, making and chosen company have intrinsic value. No crisis-utility threshold removes them.",
+      "Maker satisfaction differs from final delivery, recipient suitability, beginner skill and budget. Experiments and remedies retain their failed or unfinished endpoints.",
+      "The puppy correction, workshop humming cause, personal overrun and task-purpose drift constrain flawless-inventor and uniformly incompetent readings without inventing diagnoses.",
+      "Sensei, Alice, Neru, Hibiki, Kotori, Chihiro, anonymous juniors and clients keep their distinct responses and decision roles. Later help and pleasure do not erase initial constraints or refusal.",
+      "Technical inference, arrived freight, local defense, reported damage, evacuation and the collective Final ending remain distinguishable from audited mechanisms, universal rescue and individual sole causation.",
+      "Whole private codas and written modes retain alternatives, uncertainty, reported versus actual outcomes, source-local speaker seams and limits on chronology, romance, performance and institution-wide claims.",
+      "The existing character package is complete with declared source limits; separate relationship, ensemble, institution, Sensei and register duties receive no automatic credit."
+    ],
+    "progress": {
+      "previous_ROOTaccepted_packages": 59,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 60,
+      "character_packages": 59,
+      "directed_relationship_packages": 1,
+      "published_remote_packages": 54,
+      "published_source_commit": "5f0a24b56557f308e9cef31c7d1c2d58406ef49a",
+      "canonical_Utaha_persistence": "PENDING_EXACT_ADOPTION",
+      "quarter_reached": false
+    },
+    "scope": "355 packages and 29 mandatory named sections unchanged; existing P3-CHAR-UTAHA/P3-F143/P3-A068 only",
+    "new_primary_native_raw_schema_QA_AV_or_model_credit": 0,
+    "nine_unbound_large": "UNREAD_UNHASHED",
+    "R_Git_provider_writes": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-UTAHA",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+    "bytes": 52353,
+    "sha256": "8e745b32576150a955781600502a7fc643c23828dded7b1be5bb8394a80c68e6",
+    "git_blob_oid_of_actual_bytes": "2cca6fb3eff91cf0e11e013cb9bae6ba522e749a",
+    "lines": 167
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "ROOT's independent complete literary and exact review is required before acceptance or canonical adoption.",
+      "new": "ROOT independently received and accepted this complete literary character argument WITH LIMITS and verified its exact source and saved-paragraph bindings. Canonical persistence follows complete ROOT installation.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    },
+    {
+      "old": "ROOT's independent review and canonical adoption remain pending; no independently accepted character, completed relation/institution, reconstruction model or quarter follows from this candidate.",
+      "new": "ROOT independently reviewed and accepted this complete character boundary WITH LIMITS. Canonical persistence follows complete ROOT installation; no other relationship/institution, reconstruction model or quarter follows from the original candidate or this derivative.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    },
+    {
+      "kind": "ROOT_REQUIRED_FULL_ORIGINAL_GAP_NAMES_ONLY",
+      "fourteen_complete_inverse_row_mappings": [
+        {
+          "stable_id": "G01",
+          "literal_original_name": "Ordinary and private breadth",
+          "frozen_original_row": "| G01 ordinary/private breadth | Complete selected pairs and written objects retain craft, clothes, tools, food, song, curiosity, grooming, company, refusal and failed plans. | Selected Utaha breadth is not all possible private experience or full-cast completion. |",
+          "canonical_full_name_row": "| G01 — Ordinary and private breadth | Complete selected pairs and written objects retain craft, clothes, tools, food, song, curiosity, grooming, company, refusal and failed plans. | Selected Utaha breadth is not all possible private experience or full-cast completion. |",
+          "all_remaining_cell_text_unchanged": true
+        },
+        {
+          "stable_id": "G02",
+          "literal_original_name": "Yuuka council/club decision transfer",
+          "frozen_original_row": "| G02 Yuuka council/club transfer | Festival algorithm speculation and divided authority are separated from actual orders and recipient permission. | No proved Yuuka order to attack, certified council regime, absent-accountant identity or durable office repair. |",
+          "canonical_full_name_row": "| G02 — Yuuka council/club decision transfer | Festival algorithm speculation and divided authority are separated from actual orders and recipient permission. | No proved Yuuka order to attack, certified council regime, absent-accountant identity or durable office repair. |",
+          "all_remaining_cell_text_unchanged": true
+        },
+        {
+          "stable_id": "G03",
+          "literal_original_name": "Serika service, peer and reciprocity range",
+          "frozen_original_row": "| G03 Serika service/reciprocity | Restaurant and gift recipients have specific needs;818 keeps Serika's rocket accusation within its sequence. | No Serika livelihood/service afterstate, complete launcher observation or universal reciprocity rule. |",
+          "canonical_full_name_row": "| G03 — Serika service, peer and reciprocity range | Restaurant and gift recipients have specific needs;818 keeps Serika's rocket accusation within its sequence. | No Serika livelihood/service afterstate, complete launcher observation or universal reciprocity rule. |",
+          "all_remaining_cell_text_unchanged": true
+        },
+        {
+          "stable_id": "G04",
+          "literal_original_name": "Hina crisis causality, accountability and ordinary contrast",
+          "frozen_original_row": "| G04 Hina accountability/ordinary contrast | Responsibility, warning, local acceptance and unfinished costs remain distinct. | No transferred Hina casualty, restitution, causal or named-section completion. |",
+          "canonical_full_name_row": "| G04 — Hina crisis causality, accountability and ordinary contrast | Responsibility, warning, local acceptance and unfinished costs remain distinct. | No transferred Hina casualty, restitution, causal or named-section completion. |",
+          "all_remaining_cell_text_unchanged": true
+        },
+        {
+          "stable_id": "G05",
+          "literal_original_name": "Arius and PS68 ordinary/aftermath transfer",
+          "frozen_original_row": "| G05 Arius/PS68 aftermath | Coalition labor and intrinsic wanted lives are not reduced to crisis utility. | No group livelihood, legal, clinical, employment or completed aftermath repair by analogy. |",
+          "canonical_full_name_row": "| G05 — Arius and PS68 ordinary/aftermath transfer | Coalition labor and intrinsic wanted lives are not reduced to crisis utility. | No group livelihood, legal, clinical, employment or completed aftermath repair by analogy. |",
+          "all_remaining_cell_text_unchanged": true
+        },
+        {
+          "stable_id": "G06",
+          "literal_original_name": "Cross-school ordinary repertoire",
+          "frozen_original_row": "| G06 cross-school ordinary | Food, festival tastes, independent Hanae/Chihiro/recipients and wanted company supply differentiated breadth. | No universal temperament, unanimous pleasure or complete cross-school private census. |",
+          "canonical_full_name_row": "| G06 — Cross-school ordinary repertoire | Food, festival tastes, independent Hanae/Chihiro/recipients and wanted company supply differentiated breadth. | No universal temperament, unanimous pleasure or complete cross-school private census. |",
+          "all_remaining_cell_text_unchanged": true
+        },
+        {
+          "stable_id": "G07",
+          "literal_original_name": "Story-world chronology",
+          "frozen_original_row": "| G07 chronology | Whole documentary pairs, local coat washing report, group sequence and festival preparation/afterstory order are retained. | No global release/outfit maturation ladder, fused holiday calendar or inferred private-to-MAIN causation. |",
+          "canonical_full_name_row": "| G07 — Story-world chronology | Whole documentary pairs, local coat washing report, group sequence and festival preparation/afterstory order are retained. | No global release/outfit maturation ladder, fused holiday calendar or inferred private-to-MAIN causation. |",
+          "all_remaining_cell_text_unchanged": true
+        },
+        {
+          "stable_id": "G08",
+          "literal_original_name": "Event naming and repeat contexts",
+          "frozen_original_row": "| G08 event naming/reuse | 810/817/818 and 53 costume contexts remain literal owned identities and modes. | No renamed title, fused event, repeated-experience multiplication or completed uninspected route. |",
+          "canonical_full_name_row": "| G08 — Event naming and repeat contexts | 810/817/818 and 53 costume contexts remain literal owned identities and modes. | No renamed title, fused event, repeated-experience multiplication or completed uninspected route. |",
+          "all_remaining_cell_text_unchanged": true
+        },
+        {
+          "stable_id": "G09",
+          "literal_original_name": "Written speaker/choice attribution",
+          "frozen_original_row": "| G09 actor/choice/knowledge | Inward, lyric, log, animal, local actor, raw-text corrections and alternative choices remain distinct. | No silent actor repair, all-options performance, shared inward thought or secure hidden rescue motive. |",
+          "canonical_full_name_row": "| G09 — Written speaker/choice attribution | Inward, lyric, log, animal, local actor, raw-text corrections and alternative choices remain distinct. | No silent actor repair, all-options performance, shared inward thought or secure hidden rescue motive. |",
+          "all_remaining_cell_text_unchanged": true
+        },
+        {
+          "stable_id": "G10",
+          "literal_original_name": "Performed voice",
+          "frozen_original_row": "| G10 performed voice | Japanese written register, modal language and qualified locale contrasts are analyzable. | No heard singing/voice, acted hesitation, rendering, gesture, audio timing or executed script pause. |",
+          "canonical_full_name_row": "| G10 — Performed voice | Japanese written register, modal language and qualified locale contrasts are analyzable. | No heard singing/voice, acted hesitation, rendering, gesture, audio timing or executed script pause. |",
+          "all_remaining_cell_text_unchanged": true
+        },
+        {
+          "stable_id": "G11",
+          "literal_original_name": "Hoshino's Yume record and office states",
+          "frozen_original_row": "| G11 Hoshino/Yume record/office | Tool continuity and memory metaphors provide no authentication of another person's record. | Grief, notebook provenance, death cause and office afterstates remain separate and open. |",
+          "canonical_full_name_row": "| G11 — Hoshino's Yume record and office states | Tool continuity and memory metaphors provide no authentication of another person's record. | Grief, notebook provenance, death cause and office afterstates remain separate and open. |",
+          "all_remaining_cell_text_unchanged": true
+        },
+        {
+          "stable_id": "G12",
+          "literal_original_name": "Counterpart, system and variant identity",
+          "frozen_original_row": "| G12 identity/system/variants | Literal Utaha variants/costume, puppy, mechanic, courier, weapon owner and AMAS uncertainty are bounded. | No guessed junior/accountant join, system personhood, Alice/Key continuity or registry repair. |",
+          "canonical_full_name_row": "| G12 — Counterpart, system and variant identity | Literal Utaha variants/costume, puppy, mechanic, courier, weapon owner and AMAS uncertainty are bounded. | No guessed junior/accountant join, system personhood, Alice/Key continuity or registry repair. |",
+          "all_remaining_cell_text_unchanged": true
+        },
+        {
+          "stable_id": "G13",
+          "literal_original_name": "Office, contract, safety and technical outcomes",
+          "frozen_original_row": "| G13 office/contract/safety/technical outcomes | Actual gift conditions, maker/recipient disagreement, correction, successful freight arrival and reported incident results are separated from forecasts. | No broad technical/clinical audit, tested protection, completed replacement/delivery, settled liability, all-device permission or safe-return guarantee. |",
+          "canonical_full_name_row": "| G13 — Office, contract, safety and technical outcomes | Actual gift conditions, maker/recipient disagreement, correction, successful freight arrival and reported incident results are separated from forecasts. | No broad technical/clinical audit, tested protection, completed replacement/delivery, settled liability, all-device permission or safe-return guarantee. |",
+          "all_remaining_cell_text_unchanged": true
+        },
+        {
+          "stable_id": "G14",
+          "literal_original_name": "Unclassified/mode continuity",
+          "frozen_original_row": "| G14 unclassified/mode continuity | Narrative, whole messages, contextual writing, technical testimony and reuse retain their source roles. | No unreceived special-operation or asset meaning, native/global reconciliation or new source admission. |",
+          "canonical_full_name_row": "| G14 — Unclassified/mode continuity | Narrative, whole messages, contextual writing, technical testimony and reuse retain their source roles. | No unreceived special-operation or asset meaning, native/global reconciliation or new source admission. |",
+          "all_remaining_cell_text_unchanged": true
+        }
+      ],
+      "all14": "OPEN_UNCHANGED",
+      "new_credit": 0
+    }
+  ],
+  "exact_added_authority_or_custody_paragraphs": [
+    "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_UTAHA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_UTAHA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative after complete ROOT installation. All fourteen original gaps remain OPEN at their claim-specific boundaries. The355-package/29-section scope and existing responsibilities are unchanged. The prior54-package source publication is `5f0a24b56557f308e9cef31c7d1c2d58406ef49a`; ROOT’s successful actual exact-head source/housekeeping/final chain is preserved separately as predecessor proof. This preparation supplies no successor adoption, publication, main integration, quarter, model or performed evidence before complete ROOT installation. Frozen author/control/progress snapshots retain their dated meaning."
+  ],
+  "exact_added_retrieval_title": "# Utaha — the pleasure of making and the recipient's different answer",
+  "stable_original_gap_alignment": null,
+  "immutable_ROOT_count_cause_qualification": null,
+  "mandatory_private_semantic_erratum_public_projection": null,
+  "fixed_publication_snapshot": "Nine packages55–63 only;63aftercompleteROOTinstallation,54already source-published; later live ROOT acceptances excluded.",
+  "canonical_route_normalization": {
+    "author_proposed_navigation_home": "series/blue-archive/04 Specialist Syntheses/CHARACTERS/BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+    "actual_existing_series_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+    "requirement": "Preserve frozen transports; declare full reversible route normalization. Required package scope remains the same."
+  }
+}
