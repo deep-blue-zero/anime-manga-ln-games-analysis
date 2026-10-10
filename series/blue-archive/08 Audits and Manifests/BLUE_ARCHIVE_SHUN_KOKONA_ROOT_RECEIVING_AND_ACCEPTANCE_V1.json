@@ -1,0 +1,264 @@
+{
+  "schema": "BLUE_ARCHIVE_SHUN_KOKONA_ROOT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHUN_KOKONA_RELATIONSHIP_SYNTHESIS.md",
+  "current_scope": "355required/29 mandatory non-denominator duties/25distinctparents/384homes unchanged",
+  "dated_current_source_beforeimage_witness": "afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+  "dated_current_source_tree": "8564fbd3afb822096dec0984b5be597f39bddc9b",
+  "accepted_first_milestone_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "fixed_preparation_snapshot": {
+    "accepted_package_sequence": [
+      109,
+      114
+    ],
+    "new_packages": 6,
+    "after_complete_ROOT_install": 114,
+    "characters": 94,
+    "directed_relationships": 10,
+    "ensembles": 4,
+    "institutions": 6,
+    "named_duties_after_complete_ROOT_install": 10,
+    "published_before_successor": 108,
+    "merged_main": 89,
+    "next_milestone": 178,
+    "later115plus": "EXCLUDED_FROM_FIXED_CANONICAL_PROPOSAL",
+    "automatic_chain_at_capture": "PENDING_SOURCE_RUN38088131512; no current-head final audit claimed by assembler"
+  },
+  "current_source108_normal_push_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIXED102_TO108_INSTALLATION_AND_STAGING_V1/NORMAL_PUSH_EXACT_REMOTE_READBACK_V1.json",
+      "bytes": 4922,
+      "sha256": "a55fc9943ff45172f26549ed152eec6fe580598bb9a2e1aaca15cc8a880df6f6",
+      "git_blob_oid_of_actual_bytes": "db0d144911893dd58b5f9a6e81454e2130274f35",
+      "immutable_transport_path": "immutable_originals/ROOT_FIXED102_TO108_INSTALLATION_AND_STAGING_V1/NORMAL_PUSH_EXACT_REMOTE_READBACK_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_SOURCE108_NORMAL_PUSH_REMOTE_READBACK_V1",
+      "status": "PASS_NORMAL_PUSH_EXACT_REMOTE_SOURCE_TREE_PARENT_AND36_PATHS",
+      "checked_UTC": "2026-10-10T21:38:15.536917+00:00",
+      "remote_refs": {
+        "series/blue-archive": "afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+        "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128"
+      },
+      "source_tree": "8564fbd3afb822096dec0984b5be597f39bddc9b",
+      "source_parents": [
+        "bf5ded30464ab39f78f71e79ecc7494654c25faa"
+      ],
+      "changed_paths": [
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOKONA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAYA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+        "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VALKYRIE_INSTITUTIONAL_SYNTHESIS.md",
+        "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_MANDATORY_NAMED_SECTION_INDEX_V3.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_PACKAGE_ACCEPTANCE_INDEX.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SCOPE_AUDIT_METADATA.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md"
+      ],
+      "tracked_and_index_clean": true,
+      "untracked39_stats_preserved": true,
+      "untracked_and_UNBOUND_contents": "UNREAD_UNHASHED",
+      "ROOTaccepted_packages": 113,
+      "published_packages": 108,
+      "merged_packages": 89,
+      "next_merge_milestone": 178,
+      "automatic_chain": "PENDING_SOURCE_RUN38088131512",
+      "new_analytical_credit": 0,
+      "full_goal_status": "ACTIVE_INCOMPLETE"
+    }
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "All original pending/local/bf5/source101/source113/count/custody/receiving fields retain creation-time meanings. Exact complete operative ROOT acceptance governs literary judgment; current source108afb and merged89 are separately bound. Later115+ acceptance is outside this fixed snapshot. No retroactive author/provider/source or independent-reading credit.",
+  "original_exact_tuple": {
+    "path": "ROOT_SHUN_KOKONA_COMPLETE_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1.json",
+    "bytes": 5338,
+    "sha256": "2b15bb74f16d19248f17b583c2b34f2842bd2f42aaad7b31fd5ba6d92c7387c8",
+    "git_blob_oid_of_actual_bytes": "783ee3cb2f2315c990baf95fe8972c9af3bd51c7",
+    "immutable_transport_path": "immutable_originals/ROOT_SHUN_KOKONA_COMPLETE_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_SHUN_KOKONA_COMPLETE_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1",
+    "checked_UTC": "2026-10-10T21:18:48.554503+00:00",
+    "decision": "ACCEPT_COMPLETE_BIDIRECTIONAL_RELATIONSHIP_WITH_LIMITS",
+    "existing_home": "P3-REL-SHUN-KOKONA",
+    "source_responsibility": "HYS::significant_responsibilities::13",
+    "mandatory_named_duties": [],
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_SHUN_KOKONA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 27597,
+      "lines": 144,
+      "sha256": "509402345175025a5a7a09a094f587f5bb27fd379584c5ec16f8910a915f1607"
+    },
+    "canonical_target": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHUN_KOKONA_RELATIONSHIP_SYNTHESIS.md",
+    "immutable_author_freeze": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/SHUN_KOKONA_DIRECTED_SYNTHESIS_FROZEN_OUTPUT_MANIFEST_V1.json",
+      "bytes": 4285,
+      "sha256": "2d9c2ffe8c2bf9b967bb39a3827ed3d7155701a6baa639ab5c277848ab0efe4c"
+    },
+    "ROOT_actual_receiving": {
+      "whole_body": "46de101–74/73881975–144EOF complete operative144 lines, both full directed sections, all7serious rival arguments and14originalOPEN effects.",
+      "companions": "f9ec89 whole62seal/c3b1e6whole25readable/4d5fcawhole96frozenallocation probe.13f274 complete actual8finiteends/directions/rivals/debt/dependencies.733ebc0–5/14140b6–11 all12actual source scopes;4e72420–9/0b477210–18 all19exact wholeMM carriers and mode-boundaries.",
+      "source_credit": "Reused adequate previously ROOT received Shun36/Kokona9 meanings at exact current qualifications, accepted character110/108.12boundnormal analytical routes expose actual own prior and necessary fresh consequential scopes; no new45primary or whole560source/body credit. Finalcorrect order source and whole810071/029 gift meanings remain adequate."
+    },
+    "semantic_grounds": [
+      "A chosen teaching vocation supplies useful work and pride while frustrating Kokona’s wanted closeness because both sisters become busier. This tension gives the dyad a distinct responsibility beyond the two portraits or Meihua institution.",
+      "Shun’s pride, protective refusal support and request for inclusion coexist with disclosure, unspecified threat, deceptive cover and supervision transfer. Kokona’s concern, fear, fabrication/relay, qualified forgiveness and permissioned exception retain independent answers.",
+      "Listening/chosen return/restoration/apology/qualified forgiveness, real banquet and permitted walking/swinging/fireworks are actual scoped achievements; rumor reception, consultation, future trap apologies, staffing, child retrieval and lasting trust remain unfinished.",
+      "Private tea, beauty, sweets, coffee curiosity, picture books, gifts, recognition and company matter intrinsically. Individual gift dyads are not invented sister-to-sister encounters.",
+      "FinalShunissuesdefense/evacuationorders;Kokonaaccepts assigned evacuation alone; no completion of evacuation or receipt of defense order by Shun. Source-local Shuerin representations do not settle global biological age/identity or medicine efficacy.",
+      "Seven serious competing readings, eleven organizing dimensions, distinct independent recipients and all14 original OPEN limits permit complete bounded literature without universal consent, cure, completed repair, model or prediction."
+    ],
+    "finite_checks": {
+      "dictionary_binding_occurrences": 291,
+      "unique_dictionary_bindings": 281,
+      "prior_frozen_files_preserved": 247,
+      "bound_normal_sources_current_bf5_exact": 12,
+      "bound_control_copies": 6,
+      "private_adequate_duties": 45,
+      "wholeMM_carriers": 19,
+      "written_duties": 7,
+      "saved_nonempty_joins": 91,
+      "rivals": 7,
+      "finite_endpoint_cases": 8,
+      "original_OPEN_gap_effects": 14,
+      "required355_home384": true,
+      "new_named_duty": 0
+    },
+    "canonical_preservation_requirement": "Retain all144 operative lines, both directions,8finite ending cases,7whole rival readings,45adequate private responsibilities/19wholeMM/7written mode conditions and all14 original gap effects. Preserve frozen source/character dependencies and qualified authority/status fields with exact source transports and fullinverse. Separate10144/Meihua/threechildren/institution duties remain independently accepted or required; their mentioning here grants no extra count.",
+    "progress": {
+      "previous_ROOTaccepted_packages": 112,
+      "new_directed_relationship_package": 1,
+      "total_ROOTaccepted_packages": 113,
+      "character_packages": 94,
+      "directed_relationship_packages": 9,
+      "ensemble_packages": 4,
+      "institution_packages": 6,
+      "ROOTaccepted_named_duties": 10,
+      "published_source_packages": 101,
+      "published_and_merged_packages": 89,
+      "goal25_milestone_complete": true,
+      "next_merge_milestone": 178,
+      "canonical_adoption": "PENDING_SUCCESSOR_AFTER_FIXED102_TO108"
+    },
+    "all14_original_gaps": "OPEN",
+    "R_Git_provider_writes": false,
+    "new_primary_native_raw_QA_AV_model_identity_credit": 0,
+    "full_goal_status": "ACTIVE_INCOMPLETE"
+  },
+  "public_reference_translation": "All fields survive exact reference translation with full literal inverses and immutable C originals. Original tuples bind original bytes, not this derivative. Complete attachment parts are explicit finite public fields, not omitted content.",
+  "assembler_receiving_credit": {
+    "new_primary_native_raw_QA_AV_model_identity": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHUN_KOKONA_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 30286,
+    "sha256": "699a3d50f7260d1ff89531935abe156cdc51a967e046695e1e79b7ae0eb28284",
+    "git_blob_oid_of_actual_bytes": "adbb97434351496b4bba3f6e8de35549726fc5a6"
+  },
+  "authority_framing_changes": {
+    "historical_frontmatter_fields": [
+      "ROOT_acceptance",
+      "artifact_type",
+      "canonical_adoption",
+      "canonical_completion_credit",
+      "canonical_home",
+      "canonical_target",
+      "counts_as_ROOT_accepted_completed",
+      "do_not_use_as_current_authority",
+      "generation",
+      "publication_state",
+      "root_acceptance",
+      "stage_state",
+      "status",
+      "version"
+    ],
+    "inserted_current_boundary": "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS at the disclosed author/peer/ROOT scopes. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SHUN_KOKONA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SHUN_KOKONA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending, local, bf5/source101 and count statements remain creation-time history. Current published108 source `afb38a20d3714cb0ed7d22013cd7dfc86ad3226b`/tree `8564fbd3afb822096dec0984b5be597f39bddc9b` has an exact ROOT normal-push remote readback; its source→housekeeping→final automatic chain is pending at this capture, and this assembler grants no exact-head integration readiness. Merged89/main `b76b4373e6d0526bc78ce00bb673dba9e536c128` and the completed first25% milestone are separately bound. This fixed six-package109–114 proposal takes effect only through complete ROOT installation, yielding114 (94 character,10 directed relationship,4 ensemble,6 institution) and10 completed non-denominator named duties. Later115+ review/acceptance is excluded from this snapshot. Required355 packages/29 duties across25parents/384homes, next178 milestone, all14 original OPEN gaps and model0 remain unchanged. Mechanical transport supplies no new literary, source, primary, native, raw, QA, performed, independent, identity, scope or model credit. **Package-specific operative qualification:** Both actual directions and45 adequate private duties/19 wholeMM/7 written mode conditions retain recipient refusal, costs and achieved ordinary company. Individual gifts do not manufacture sister-to-sister encounters. Correct Final order/acceptance remains bounded;10144, Meihua and three-child duties are independently governed rather than discharged again here.",
+    "all_original_literary_paragraphs_unchanged_except_exact_link_translation": true
+  },
+  "mandatory_operative_qualification": "Both actual directions and45 adequate private duties/19 wholeMM/7 written mode conditions retain recipient refusal, costs and achieved ordinary company. Individual gifts do not manufacture sister-to-sister encounters. Correct Final order/acceptance remains bounded;10144, Meihua and three-child duties are independently governed rather than discharged again here."
+}

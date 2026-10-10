@@ -28,7 +28,7 @@
  ],
  "main43_retrieval_witnesses": "COMPLETE_ARGUMENT_AND_SOURCE_SCOPED_DISPOSITION_ACCEPTED_WITH_LIMITS",
  "quarter_reached": true,
- "progress_percentage": "NOT_REPORTED;fixed108afterROOTinstallation;published101;merged89first25complete;next178;laterliveROOTreviewsseparate",
+ "progress_percentage": "NOT_REPORTED;fixed114afterROOTinstallation;published108afb;chainpending;merged89first25complete;next178;later115plusseparate",
  "opening_candidate_responsibility_rows": 761,
  "new_source_local_or_non_character_headers": 27,
  "completed_owner_roster_reviews": 105,
@@ -48,7 +48,7 @@
   "P3-XMI-R001"
  ],
  "initial_761_still_pending_rows": 0,
- "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29_25PARENTS_ACCEPTED_WITH_LIMITS;FIRST25_MILESTONE_COMPLETE_AT_MERGED89;108_FIXED_SEVEN_SUCCESSOR_AFTER_ROOT_INSTALL",
+ "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29_25PARENTS_ACCEPTED_WITH_LIMITS;FIRST25_MILESTONE_COMPLETE_AT_MERGED89;114_FIXED_SIX_SUCCESSOR_AFTER_ROOT_INSTALL",
  "accepted_literary_character_packages": [
   "Asuna",
   "Toki",
@@ -142,7 +142,8 @@
   "Reijo",
   "Saya",
   "Mina",
-  "Kokona"
+  "Kokona",
+  "Shun"
  ],
  "millennium_v2_eligibility_arguments_adopted": [
   "Akane",
@@ -168,10 +169,10 @@
   "P3-XMI-R004",
   "P3-XMI-R005"
  ],
- "package_tracking_rows": 132,
- "completed_literary_packages": 108,
- "completed_literary_character_packages": 93,
- "completed_literary_directed_relationship_packages": 7,
+ "package_tracking_rows": 138,
+ "completed_literary_packages": 114,
+ "completed_literary_character_packages": 94,
+ "completed_literary_directed_relationship_packages": 10,
  "accepted_literary_directed_relationship_packages": [
   "Noa–Yuuka: privacy, memory and wanted company",
   "Meg–Kasumi: craft, care and leverage",
@@ -179,7 +180,10 @@
   "Kazusa–Reisa: company, refusal and directed boundaries",
   "Sora–customers–Sensei: recognition within paid routine",
   "Mel–Momiji: craft, privacy and reciprocal correction",
-  "Shanhaijing Rumi: particular care and different answers"
+  "Shanhaijing Rumi: particular care and different answers",
+  "Mina–Reijo: craft, accusations and incomplete correction",
+  "Shun–Kokona: wanted closeness and unequal care",
+  "Reijo–Kaguya: rival crafts and answering recipients"
  ],
  "historical_pre_full_scope_frontier": {
   "eligible_package_denominator": "NOT_YET_FIXED; complete census adjudication required before progress thresholds",
@@ -194,14 +198,18 @@
  },
  "N_frozen": true,
  "required_named_sections": 29,
- "completed_required_named_sections_after_ROOT_install": 6,
+ "completed_required_named_sections_after_ROOT_install": 10,
  "completed_named_section_ids": [
   "P3-SECTION-HINA-ICE-POP-GIFT-PRIVACY",
   "P3-SECTION-YUUKA-CC-FISCAL-CHOSEN-OCCUPATION",
   "P3-SECTION-AKANE-NERU-APPEARANCE-RECIPIENT-BOUNDARY",
   "P3-SECTION-MISUZU-CORRECTIONAL-GUEST-WORK-RECOGNITION",
   "P3-REL-KISAKI-RUMI",
-  "P3-REL-REIJO-RUMI"
+  "P3-REL-REIJO-RUMI",
+  "P3-SECTION-SHUN-10144",
+  "P3-SECTION-SUIKO-NAGOMI-YOUKO-INDIVIDUAL-QUESTIONS",
+  "P3-REL-MAKOTO-IBUKI",
+  "P3-REL-IROHA-IBUKI"
  ],
  "required_scope_authority": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
  "ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
@@ -227,8 +235,8 @@
   "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_DISPOSITIONS_PART_02_V3.json"
  ],
  "required_package_index_rows": 355,
- "legacy_package_tracking_rows": 132,
- "canonical_persistence_qualification": "ROOT independently accepted the fixed seven existing responsibilities102–108 WITH LIMITS: Reijo, Valkyrie institution with substantial Misuzu duty, the different-direction Rumi parent with substantial Kisaki–Rumi and Reijo–Rumi duties, Saya, Mina, Genryumon institution and Kokona. Complete ROOT installation persists108 packages (93 character,7 directed relationship,3 ensemble,5 institution) and6 completed non-denominator named duties. Current published source101 is bf5ded30464ab39f78f71e79ecc7494654c25faa/tree f84fb33df77dfcef9fb7270cb4d1064f6ec9c898; its actual source38083519002→housekeeping38084477394 NOOP→final38084498788 exact-head full292-test audit chain is ROOT-accepted. Automatic workflow metadatahead mainb76 is not the audited source; requested shadow actually executed full with selectiondisabled and zero skips. Merged main b76b4373e6d0526bc78ce00bb673dba9e536c128 contains89 packages, and the first25% goal milestone is independently complete after the exact full postmerge audit. The source7546/mainb76/ordinary local2714 histories retain distinct equal-e9 custody; later bf5 progress is not a new literary source meaning. Required355/29 across25 distinct parents (18 literal SECTION,9 DIRECTED_RELATIONSHIP,2 ENSEMBLE), milestones89/178/267/355,788 heterogeneous navigation rows,105 owner duties,1107 admitted literal source units and all60 original tracker questions remain unchanged. Legacy tracking has132 rows, distinct from the required denominator. Three new named duties persist within two existing counted parents; two earlier C&C discharge-index flags are synchronized to their already accepted substantial ROOT98 arguments and add no literary or package credit. Genryumon uses the existing Institutional Syntheses directory with a complete inverse for the old proposed spelling; its staged C05 qualifier, Saya historical pending-audit and Kokona2714-versus-bf5 custody remain visible. All original bodies/receipts and mandatory qualifications survive exact public-safe translations and full byte inverses; all14 original gaps stay OPEN and model0 unchanged. Later109+ reviews remain excluded from this fixed snapshot. No new source, primary, performed, independent literary, scope, denominator, model or milestone credit comes from this mechanical preparation. Phase3 remains ACTIVE and incomplete; next integration threshold178. No installation, publication or merge is performed by this proposal. All prior dated snapshots remain preserved as history.",
+ "legacy_package_tracking_rows": 138,
+ "canonical_persistence_qualification": "ROOT independently adjudicated the fixed six existing responsibilities109–114 WITH LIMITS: Mina–Reijo after separate critical receiving; precisely corrected Shun with substantial10144 duty; Meihua care institution with the substantial three-child question; Pandemonium–Ibuki ensemble with full Makoto→Ibuki and Iroha→Ibuki directions; Shun–Kokona; and Reijo–Kaguya. Complete ROOT installation persists114 packages (94 character,10 directed relationship,4 ensemble,6 institution) and10 completed non-denominator named duties. Four new named duties occur within three existing counted parents; they add no extra packages. Current published108 source is afb38a20d3714cb0ed7d22013cd7dfc86ad3226b/tree 8564fbd3afb822096dec0984b5be597f39bddc9b, with exact ROOT normal-push remote readback; its source→housekeeping→final automatic chain remains pending at this capture, so this proposal asserts no current-head integration readiness. Merged main b76b4373e6d0526bc78ce00bb673dba9e536c128 contains89 packages and the first25% milestone is independently complete after the exact full postmerge audit. Historical bf5/101 and producer113 counters remain dated custody. Required355 packages/29 duties across25distinctparents/384homes (18 literal SECTION/9 DIRECTED_RELATIONSHIP/2 ENSEMBLE), thresholds89/178/267/355,788 heterogeneous navigation rows,105 owner duties,1107 admitted literal source units and all60 original tracker questions are unchanged. Legacy tracking is138 rows, with all132 prior rows/fields unchanged and six appended; it is not the required denominator. All operative original literary lines, complete semantic companions, exact source/claim/endpoints/rivals, Shun V2→V1 two-line inverse and Pandemonium29 preseal inverses survive public-safe translations with full literal/body inverses. Every ordinary desire, achieved ending, independent recipient/refusal and unfinished care/accountability remains intrinsic. All14 original gaps stay OPEN and model0 remains unchanged. Later115+ acceptances, including Saya recipients, and pending Prefect/Kaguya proposals are excluded from this fixed snapshot. Mechanical preparation grants no primary/native/raw/QA/AV, identity, independent literary, source admission, model, denominator or milestone credit. Phase3 stays ACTIVE and incomplete toward178; no installation, staging, commit, publication or merge is performed. Prior dated snapshots remain immutable history.",
  "source_units_in_selected_public_census": 1107,
  "literal_source_local_header_routes": 8326,
  "literal_choice_routes": 742,
@@ -236,24 +244,26 @@
  "verbatim_attributed_argument_receiving_declarations": 128,
  "all14_gaps": "OPEN;claim-specific",
  "primary_performance_or_model_credit_added": 0,
- "completed_literary_ensemble_packages": 3,
+ "completed_literary_ensemble_packages": 4,
  "accepted_literary_ensemble_packages": [
   "Sweets belonging: unequal knowledge, wanted company and recipient boundaries",
   "Sweets temporary band: unequal making and recipient audience",
-  "C&C differentiated company: contested belonging and ordinary company"
+  "C&C differentiated company: contested belonging and ordinary company",
+  "Pandemonium–Ibuki: different directions of company and care"
  ],
- "quarter_reached_qualification": "First89 milestone is independently complete after merge and exact full postmerge audit; published101 successor complete chain; fixed102–108 not yet installed or published.",
+ "quarter_reached_qualification": "First89 milestone is independently complete after merge/exact full postmerge audit; source108afb remote readback passed; actual current-head automatic chain pending; fixed109–114 proposal not installed/published.",
  "goal_quarter_milestone_complete": true,
  "goal_quarter_milestone_remaining_prerequisites": [],
- "currently_source_published_packages_before_successor_publication": 101,
- "main_integration": "FIRST89_MERGED_b76b4373e6d0526bc78ce00bb673dba9e536c128_POSTMERGE_AUDIT_ROOT_ACCEPTED;SOURCE101_PUBLISHED_BF5;SUCCESSOR102_TO108_NOT_YET_INTEGRATED",
- "completed_literary_institution_packages": 5,
+ "currently_source_published_packages_before_successor_publication": 108,
+ "main_integration": "FIRST89_MERGED_b76b4373e6d0526bc78ce00bb673dba9e536c128_POSTMERGE_AUDIT_ROOT_ACCEPTED;SOURCE108_PUBLISHED_AFB_REMOTE_READBACK_PASS_CHAIN_PENDING;SUCCESSOR109_TO114_NOT_YET_INTEGRATED",
+ "completed_literary_institution_packages": 6,
  "accepted_literary_institution_packages": [
   "Justice Task Force: work, leisure and answerability",
   "Engineering: craft, clients and recipient constraints",
   "C&C: student operative labor and chosen occupation",
   "Valkyrie: duty, rest and independent recipients; substantial Misuzu role",
-  "Genryumon: tradition and unchosen office"
+  "Genryumon: tradition and unchosen office",
+  "Meihua: care, time and independent recipients"
  ],
  "goal_quarter_milestone_ROOT_control": {
   "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
@@ -500,5 +510,75 @@
    }
   ],
   "literary_credit_added": 0
+ },
+ "current_source108_publication_ROOT_control": {
+  "original_exact_tuple": {
+   "path": "ROOT_FIXED102_TO108_INSTALLATION_AND_STAGING_V1/NORMAL_PUSH_EXACT_REMOTE_READBACK_V1.json",
+   "bytes": 4922,
+   "sha256": "a55fc9943ff45172f26549ed152eec6fe580598bb9a2e1aaca15cc8a880df6f6",
+   "git_blob_oid_of_actual_bytes": "db0d144911893dd58b5f9a6e81454e2130274f35",
+   "immutable_transport_path": "immutable_originals/ROOT_FIXED102_TO108_INSTALLATION_AND_STAGING_V1/NORMAL_PUSH_EXACT_REMOTE_READBACK_V1.json"
+  },
+  "complete_ROOTaccepted_payload": {
+   "schema": "BLUE_ARCHIVE_ROOT_SOURCE108_NORMAL_PUSH_REMOTE_READBACK_V1",
+   "status": "PASS_NORMAL_PUSH_EXACT_REMOTE_SOURCE_TREE_PARENT_AND36_PATHS",
+   "checked_UTC": "2026-10-10T21:38:15.536917+00:00",
+   "remote_refs": {
+    "series/blue-archive": "afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+    "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128"
+   },
+   "source_tree": "8564fbd3afb822096dec0984b5be597f39bddc9b",
+   "source_parents": [
+    "bf5ded30464ab39f78f71e79ecc7494654c25faa"
+   ],
+   "changed_paths": [
+    "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOKONA_CHARACTER_MONOGRAPH.md",
+    "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+    "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+    "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAYA_CHARACTER_MONOGRAPH.md",
+    "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+    "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VALKYRIE_INSTITUTIONAL_SYNTHESIS.md",
+    "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+    "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+    "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_MANDATORY_NAMED_SECTION_INDEX_V3.csv",
+    "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_PACKAGE_ACCEPTANCE_INDEX.csv",
+    "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SCOPE_AUDIT_METADATA.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+    "series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md"
+   ],
+   "tracked_and_index_clean": true,
+   "untracked39_stats_preserved": true,
+   "untracked_and_UNBOUND_contents": "UNREAD_UNHASHED",
+   "ROOTaccepted_packages": 113,
+   "published_packages": 108,
+   "merged_packages": 89,
+   "next_merge_milestone": 178,
+   "automatic_chain": "PENDING_SOURCE_RUN38088131512",
+   "new_analytical_credit": 0,
+   "full_goal_status": "ACTIVE_INCOMPLETE"
+  }
  }
 }

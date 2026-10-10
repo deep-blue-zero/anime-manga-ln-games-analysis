@@ -1,0 +1,601 @@
+{
+  "schema": "BLUE_ARCHIVE_MINA_REIJO_INPUT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_MINA_REIJO_RELATIONSHIP_SYNTHESIS.md",
+  "current_scope": "355required/29 mandatory non-denominator duties/25distinctparents/384homes unchanged",
+  "dated_current_source_beforeimage_witness": "afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+  "dated_current_source_tree": "8564fbd3afb822096dec0984b5be597f39bddc9b",
+  "accepted_first_milestone_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "fixed_preparation_snapshot": {
+    "accepted_package_sequence": [
+      109,
+      114
+    ],
+    "new_packages": 6,
+    "after_complete_ROOT_install": 114,
+    "characters": 94,
+    "directed_relationships": 10,
+    "ensembles": 4,
+    "institutions": 6,
+    "named_duties_after_complete_ROOT_install": 10,
+    "published_before_successor": 108,
+    "merged_main": 89,
+    "next_milestone": 178,
+    "later115plus": "EXCLUDED_FROM_FIXED_CANONICAL_PROPOSAL",
+    "automatic_chain_at_capture": "PENDING_SOURCE_RUN38088131512; no current-head final audit claimed by assembler"
+  },
+  "current_source108_normal_push_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIXED102_TO108_INSTALLATION_AND_STAGING_V1/NORMAL_PUSH_EXACT_REMOTE_READBACK_V1.json",
+      "bytes": 4922,
+      "sha256": "a55fc9943ff45172f26549ed152eec6fe580598bb9a2e1aaca15cc8a880df6f6",
+      "git_blob_oid_of_actual_bytes": "db0d144911893dd58b5f9a6e81454e2130274f35",
+      "immutable_transport_path": "immutable_originals/ROOT_FIXED102_TO108_INSTALLATION_AND_STAGING_V1/NORMAL_PUSH_EXACT_REMOTE_READBACK_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_SOURCE108_NORMAL_PUSH_REMOTE_READBACK_V1",
+      "status": "PASS_NORMAL_PUSH_EXACT_REMOTE_SOURCE_TREE_PARENT_AND36_PATHS",
+      "checked_UTC": "2026-10-10T21:38:15.536917+00:00",
+      "remote_refs": {
+        "series/blue-archive": "afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+        "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128"
+      },
+      "source_tree": "8564fbd3afb822096dec0984b5be597f39bddc9b",
+      "source_parents": [
+        "bf5ded30464ab39f78f71e79ecc7494654c25faa"
+      ],
+      "changed_paths": [
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOKONA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAYA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+        "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VALKYRIE_INSTITUTIONAL_SYNTHESIS.md",
+        "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_MANDATORY_NAMED_SECTION_INDEX_V3.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_PACKAGE_ACCEPTANCE_INDEX.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SCOPE_AUDIT_METADATA.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md"
+      ],
+      "tracked_and_index_clean": true,
+      "untracked39_stats_preserved": true,
+      "untracked_and_UNBOUND_contents": "UNREAD_UNHASHED",
+      "ROOTaccepted_packages": 113,
+      "published_packages": 108,
+      "merged_packages": 89,
+      "next_merge_milestone": 178,
+      "automatic_chain": "PENDING_SOURCE_RUN38088131512",
+      "new_analytical_credit": 0,
+      "full_goal_status": "ACTIVE_INCOMPLETE"
+    }
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "All original pending/local/bf5/source101/source113/count/custody/receiving fields retain creation-time meanings. Exact complete operative ROOT acceptance governs literary judgment; current source108afb and merged89 are separately bound. Later115+ acceptance is outside this fixed snapshot. No retroactive author/provider/source or independent-reading credit.",
+  "original_exact_tuple": {
+    "path": "MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+    "bytes": 17595,
+    "sha256": "7b628b47373d80230486680f4dc714131850bf9d5ce0b7b0afe5db77836b6c88",
+    "git_blob_oid_of_actual_bytes": "35ea0026de5657361029fa7a20df0b57de071a8a",
+    "immutable_transport_path": "immutable_originals/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_MINA_REIJO_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1",
+    "status": "AUTHOR_COMPLETE_WITH_LIMITS_SEPARATE_CRITICAL_REVIEW_AND_ROOT_ACCEPTANCE_PENDING",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_MINA_REIJO_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 22320,
+      "lines": 124,
+      "sha256": "fbbcb711c7e9b7bdb5a4d5be1e441e714c75e48a32cce3d88dccd3a8349e9fa9"
+    },
+    "required_home": "P3-REL-MINA-REIJO",
+    "kind": "DIRECTED_RELATIONSHIP",
+    "source_responsibility": "HYS::significant_responsibilities::12",
+    "mandatory_named_duties": [],
+    "allocation": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_POSITIVE_EXISTING_HOME_AND_SOURCE_ALLOCATION_V1.json",
+      "bytes": 13972,
+      "lines": 229,
+      "sha256": "b8050b198ee7ff1fb2fdc04e65a18cb3f907c5a61c2d3d5188ffdc6e2c3c6486"
+    },
+    "complete_allocation_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_MINA_REIJO_POSITIVE_EXISTING_HOME_AND_SOURCE_ALLOCATION_V1",
+      "created_UTC": "2026-10-10T20:43:33.594287+00:00",
+      "decision": "ALLOCATE_EXISTING_DIRECTED_RELATIONSHIP_FOR_ROOT_C_ONLY_AUTHORSHIP_SEPARATE_PEER_REVIEW_REQUIRED",
+      "home": "P3-REL-MINA-REIJO",
+      "required_beforeimage": {
+        "required_package_id": "P3-REL-MINA-REIJO",
+        "kind": "DIRECTED_RELATIONSHIP",
+        "subject_or_question": "P3-REL-MINA-REIJO",
+        "source_responsibility_refs": "HYS::significant_responsibilities::12",
+        "mandatory_named_section_ids": "",
+        "scope_acceptance": "ROOT_ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+        "literary_acceptance": "PENDING_FULL_LITERARY_ARGUMENT_AND_ROOT_RECEIVING",
+        "canonical_path": "",
+        "persistence_state": "UNACCEPTED",
+        "remote_publication": "NOT_YET_PUBLISHED",
+        "main_integration": "NOT_YET_INTEGRATED",
+        "completed_after_ROOT_install": "false",
+        "required_count": "1"
+      },
+      "partition_beforeimage": {
+        "home_key": "P3-REL-MINA-REIJO",
+        "kind": "DIRECTED_RELATIONSHIP",
+        "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+        "source_responsibility_refs": [
+          "HYS::significant_responsibilities::12"
+        ],
+        "literary_rationale": [
+          "Full required semantic question named by original cohort argument and allocation prose, distinct actors/recipients/contrary evidence preserved"
+        ],
+        "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+        "counts_as_completed": false,
+        "proposed_denominator_entry": true
+      },
+      "source_responsibility": "HYS::significant_responsibilities::12",
+      "original_hys12_argument": {
+        "argument_section": "§3.12",
+        "responsibility": "Mina↔Reijo/Kaguya craft rivalry and the named unjoined critics",
+        "whole_argument": "The Mina/Reijo investigation has different cinematic ideals, challenged premature certainty, effective joint action, a deferred insufficient apology and ongoing disagreement. GROUP340's Reijo/Kaguya rivalry is a separate craft/recognition argument: projection of one movement into different expertise, actual respect, refused membership and an imposed purpose that frightens children. Kaguya is a source-local named person, not a generic opera role or inferred typed family. Her actual840 title refusal, retained remonstrance and bodily cost require an independent eligibility question after complete839/other public owner receiving. Sparse or unjoined metadata must not erase this substantial person. The final home may combine the craft argument institutionally while retaining the named Kaguya responsibility.",
+        "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+        "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+      },
+      "original_roster_metadata_tuple": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/CENSUS_HYAKKIYAKO_SHANHAIJING/HYAKKIYAKO_SHANHAIJING_PUBLIC_ROLE_ALLOCATIONS.json",
+        "bytes": 881298,
+        "lines": 1,
+        "sha256": "2a74063b808e522ae289e996e72e1068bf1536d4ff2bf46446aee36e6846c4d4"
+      },
+      "current_source_commit": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+      "merged_main_comparand": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "architecture_scope": "810838 complete343–368; architecture7.2 significant directed relationship is positively allocated by existing scope;11 substantive dimensions are organizing extension, not new architecture mandate.",
+      "control_bindings": [
+        {
+          "path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+          "bytes": 52261,
+          "lines": 851,
+          "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+          "source_id": "C01",
+          "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+          "C_bound_copy": "bound_control_inputs/C01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md"
+        },
+        {
+          "path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+          "bytes": 53414,
+          "lines": 840,
+          "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+          "source_id": "C02",
+          "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+          "C_bound_copy": "bound_control_inputs/C02_BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md"
+        },
+        {
+          "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md",
+          "bytes": 52723,
+          "lines": 275,
+          "sha256": "6a0ca0819b1cdf44d878308f5a06a68f6e44bffb7d374ee1c15a3a75a393d89e",
+          "source_id": "C03",
+          "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md",
+          "C_bound_copy": "bound_control_inputs/C03_BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md"
+        },
+        {
+          "path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+          "bytes": 79178,
+          "lines": 354,
+          "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+          "source_id": "C04",
+          "repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+          "C_bound_copy": "bound_control_inputs/C04_BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md"
+        },
+        {
+          "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+          "bytes": 461112,
+          "lines": 6514,
+          "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+          "source_id": "C05",
+          "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+          "C_bound_copy": "bound_control_inputs/C05_BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json"
+        },
+        {
+          "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+          "bytes": 101490,
+          "lines": 356,
+          "sha256": "58a0e1a40b90df7cacd2be367ff70861d6a0f1428c210a5397c30d0529a7b2d6",
+          "source_id": "C06",
+          "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+          "C_bound_copy": "bound_control_inputs/C06_BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv"
+        }
+      ],
+      "adequate_source_bindings": [
+        {
+          "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_826/BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 32334,
+          "lines": 177,
+          "sha256": "287c1549225c6c17cb398c686b87f23cc7c062a8e7dabfa4c0bcd67f9ff5361b",
+          "source_id": "A01",
+          "C_bound_copy": "bound_source_inputs/A01_BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+          "actual_ROOT_adequate_receiving": "880b4b75–132/8e880c133–177EOF; current E826 complete substantive meanings at declared scope, not whole original primary.",
+          "adequate_argument_ranges": [
+            [
+              75,
+              177
+            ]
+          ],
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_826/BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md"
+        },
+        {
+          "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+          "bytes": 31969,
+          "lines": 188,
+          "sha256": "ff1752082d3d7c96246c8c169967045cb4e20204c07ea4019eced928aaed906e",
+          "source_id": "A02",
+          "C_bound_copy": "bound_source_inputs/A02_BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+          "actual_ROOT_adequate_receiving": "39cc6e1–95/c3d86f96–188EOF; complete small GROUP340 argument, no new original primary/raw/QA/performance.",
+          "adequate_argument_ranges": [
+            [
+              1,
+              188
+            ]
+          ],
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md"
+        },
+        {
+          "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "bytes": 82988,
+          "lines": 560,
+          "sha256": "785146763dabcffa26ebd55d9e87b0d55bb3dc8d5bc2b173b548b461b6b49ba0",
+          "source_id": "A03",
+          "C_bound_copy": "bound_source_inputs/A03_BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "actual_ROOT_adequate_receiving": "866714 current142–178/a0fc0b341–397; prior ROOT Mina/Reijo adequate private scopes qualified with current Cycle008. No whole560 credit.",
+          "adequate_argument_ranges": [
+            [
+              142,
+              178
+            ],
+            [
+              241,
+              258
+            ],
+            [
+              295,
+              301
+            ],
+            [
+              341,
+              397
+            ]
+          ],
+          "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+        },
+        {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+          "bytes": 39304,
+          "lines": 174,
+          "sha256": "67bce3f4829dd1dd22d75e32b3320d4feb2d551e068fb75e38c8e600ba343da4",
+          "source_id": "A04",
+          "C_bound_copy": "bound_source_inputs/A04_BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+          "actual_ROOT_adequate_receiving": "ROOT whole6c1d7a/d97189/b461c5 and accepted106; complete bounded character argument, not a relationship proxy or original-primary replay.",
+          "adequate_argument_ranges": [
+            [
+              1,
+              174
+            ]
+          ],
+          "accepted_character_ROOT_receipt": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_MINA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+            "bytes": 5697,
+            "lines": 82,
+            "sha256": "e494d5ddfe24ed83b17774daa619e230f69f303e66cf95b2c23a68cd91f2974d"
+          }
+        },
+        {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+          "bytes": 37725,
+          "lines": 176,
+          "sha256": "97d8d5f4ade516513c5794125cc280eef09ff033cc4daa4fee46e25f8e7241fc",
+          "source_id": "A05",
+          "C_bound_copy": "bound_source_inputs/A05_BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+          "actual_ROOT_adequate_receiving": "ROOT prior whole176 and accepted102; complete bounded character argument, not a relationship proxy or new original-primary credit.",
+          "adequate_argument_ranges": [
+            [
+              1,
+              176
+            ]
+          ],
+          "accepted_character_ROOT_receipt": {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_REIJO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+            "bytes": 5371,
+            "lines": 71,
+            "sha256": "d5d8c28abdd1adfe8683598bdc3c7a1dcc7cae385b8d2dd15487ddef969f5775"
+          }
+        }
+      ],
+      "nonoverlap": "ROOT owns this separate relationship; Meihua author explicitly confirmed separate duty. Shun author retains Shun/10144; reconciliation author retains Pandemonium then fixed102–108 canonical proposal. Separate Reijo–Kaguya and institutional/ensemble homes remain required.",
+      "author_plan": [
+        "Two directed sides, film pleasures, mistaken inquiry, challenged accusation and practical joint action; prevent traits from becoming universal causal mechanisms.",
+        "Different apologies and owed repair: Mina defers; Reijo objects; Kisaki later performs official apology; neither invented Mina apology nor universal factional cure.",
+        "Kokona/Shun and other independently answering recipients remain consequential; exact actor drift constrains individual speech claims.",
+        "Whole GROUP morning is comparison only; Reijo/Kaguya craft dispute stays a separate home, and Mina loyalty to Kisaki is not automatically Mina/Reijo friendship.",
+        "Preserve positive capture, local help, actual banquet and wanted ordinary interests alongside conflict, imposed duties and unprinted repair.",
+        "Save whole bounded body, exact paragraph/source joins, endpoints, serious rivals, all14 OPEN effects, no selfacceptance or denominator change; separate critical reader must receive the complete frozen package."
+      ],
+      "mandatory_named_duties": [],
+      "scope": "355packages/29named/25parents/384homes unchanged",
+      "ROOTaccepted_packages": 108,
+      "new_primary_native_raw_QA_AV_model_identity_credit": 0,
+      "repository_Git_provider_writes": false,
+      "UNBOUND9": "UNREAD_UNHASHED",
+      "untracked39": "UNREAD_UNHASHED_STAT_ONLY",
+      "full_goal": "ACTIVE_INCOMPLETE"
+    },
+    "actual_author_receiving": {
+      "saved_whole_body": "49b65a1–80/2e8c4a81–124EOF, no later body edits. Same ROOT author and saved-reader; separate critical receiving remains required.",
+      "core_event": "880b4b75–132/8e880c133–177EOF; complete substantiveE826 meanings only, prior adequate custody separate.",
+      "group_argument": "39cc6e1–95/c3d86f96–188EOF; whole small analytical owner, not raw/canonical primary.",
+      "current_private_meanings": "2e0e6e241–258/852719295–301;866714142–178 currentCycle008; a0fc0b341–397 shared comparisons and historical status qualifications.",
+      "accepted_characters": "Complete ROOT106 Mina and102Reijo reused at admitted bounded character argument scope; no proxy completion or new whole private original credit.",
+      "scope_and_architecture": "23b92f exact two HYS12 required-home rows;ea0433 whole originalHYS12 rationale;810838 applicable7.2/7.3 through368."
+    },
+    "authority_quartet": "Current Cycle008 admission / adequate complete or scoped analytical meanings / attributed prior order and independence UNKNOWN / performed voice unreceived",
+    "execution": {
+      "classification": "DEEP_SYNTHESIS",
+      "surface": "local Codex, authorized exact-source analytical work",
+      "actual_model_or_reasoning_changes": false,
+      "new_cloud_task_or_paid_API": false,
+      "new_primary_native_raw_QA_AV_model_identity_credit": 0,
+      "repository_Git_provider_global_mutations": 0
+    },
+    "stronger_claim_debt": "Unresolved consequential turn attribution requires exact missing source witness; no full relationship biography, globally dated private links, romance, legal/clinical results, experimental verification, safety, payment, sentence, durable reform or performed voice is supplied.",
+    "mandatory_new_primary_recovery_for_actual_bounded_claims": [],
+    "all14_original_gaps": "OPEN",
+    "count_effect": 0,
+    "separate_critical_receiving": "REQUIRED_BEFORE_ROOT_CAN_ADJUDICATE_OR_COUNT",
+    "canonical_persistence": "NOT_PREPARED",
+    "full_goal": "ACTIVE_INCOMPLETE"
+  },
+  "public_reference_translation": "All fields survive exact reference translation with full literal inverses and immutable C originals. Original tuples bind original bytes, not this derivative. Complete attachment parts are explicit finite public fields, not omitted content.",
+  "assembler_receiving_credit": {
+    "new_primary_native_raw_QA_AV_model_identity": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_REIJO_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 136103,
+      "sha256": "e7d7dffa32e71938edd3053c8cc88c418e3ced07d0eb3f245e54c97528b6653a",
+      "git_blob_oid_of_actual_bytes": "d518c10d9c169b4a9ba0a667b59e62f6103f3af4",
+      "attachment_names": [
+        "MINA_REIJO_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "MINA_REIJO_POSITIVE_EXISTING_HOME_AND_SOURCE_ALLOCATION_V1.json",
+        "MINA_REIJO_SAVED_OUTPUT_RECEIPT_V1.json",
+        "SEPARATE_PEER/MINA_REIJO_INDEPENDENT_CRITICAL_RECEIVING_RECEIPT_V1.json",
+        "SEPARATE_PEER/MINA_REIJO_INDEPENDENT_CRITICAL_REVIEW_V1.md",
+        "SEPARATE_PEER/MINA_REIJO_INDEPENDENT_PEER_REVIEW_FREEZE_V1.json"
+      ]
+    }
+  ],
+  "complete_frozen_manifest": {
+    "schema": "BLUE_ARCHIVE_MINA_REIJO_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1",
+    "frozen_UTC": "2026-10-10T20:50:35.060347+00:00",
+    "status": "AUTHOR_FROZEN_COMPLETE_BOUNDARY_WITH_LIMITS_SEPARATE_CRITICAL_REVIEW_AND_ROOT_ACCEPTANCE_PENDING",
+    "required_home": "P3-REL-MINA-REIJO",
+    "outputs": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_MINA_REIJO_RELATIONSHIP_SYNTHESIS.md",
+        "bytes": 22320,
+        "lines": 124,
+        "sha256": "fbbcb711c7e9b7bdb5a4d5be1e441e714c75e48a32cce3d88dccd3a8349e9fa9"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "bytes": 17595,
+        "lines": 273,
+        "sha256": "7b628b47373d80230486680f4dc714131850bf9d5ce0b7b0afe5db77836b6c88"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "bytes": 75330,
+        "lines": 1152,
+        "sha256": "eb7c5c92d7c59c60452cd13cb2f5f117aa393a20ea52f91e762c7973897778bb"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_SAVED_OUTPUT_RECEIPT_V1.json",
+        "bytes": 1601,
+        "lines": 28,
+        "sha256": "8a70ec73f127309522a302a091f6a43f5e337295a09ed97c2f60cedb165158bc"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_POSITIVE_EXISTING_HOME_AND_SOURCE_ALLOCATION_V1.json",
+        "bytes": 13972,
+        "lines": 229,
+        "sha256": "b8050b198ee7ff1fb2fdc04e65a18cb3f907c5a61c2d3d5188ffdc6e2c3c6486"
+      }
+    ],
+    "bound_input_copies": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "bytes": 52261,
+        "lines": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C02_BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+        "bytes": 53414,
+        "lines": 840,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C03_BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md",
+        "bytes": 52723,
+        "lines": 275,
+        "sha256": "6a0ca0819b1cdf44d878308f5a06a68f6e44bffb7d374ee1c15a3a75a393d89e"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C04_BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+        "bytes": 79178,
+        "lines": 354,
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C05_BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "bytes": 461112,
+        "lines": 6514,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C06_BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+        "bytes": 101490,
+        "lines": 356,
+        "sha256": "58a0e1a40b90df7cacd2be367ff70861d6a0f1428c210a5397c30d0529a7b2d6"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A01_BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 32334,
+        "lines": 177,
+        "sha256": "287c1549225c6c17cb398c686b87f23cc7c062a8e7dabfa4c0bcd67f9ff5361b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A02_BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+        "bytes": 31969,
+        "lines": 188,
+        "sha256": "ff1752082d3d7c96246c8c169967045cb4e20204c07ea4019eced928aaed906e"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A03_BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 82988,
+        "lines": 560,
+        "sha256": "785146763dabcffa26ebd55d9e87b0d55bb3dc8d5bc2b173b548b461b6b49ba0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A04_BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+        "bytes": 39304,
+        "lines": 174,
+        "sha256": "67bce3f4829dd1dd22d75e32b3320d4feb2d551e068fb75e38c8e600ba343da4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A05_BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+        "bytes": 37725,
+        "lines": 176,
+        "sha256": "97d8d5f4ade516513c5794125cc280eef09ff033cc4daa4fee46e25f8e7241fc"
+      }
+    ],
+    "actual_saved_body_receiving": "49b65a1–80/2e8c4a81–124EOF, sameauthor savedreadback not independent adjudication.",
+    "finite_checks": {
+      "UTF8_LF_noBOM": true,
+      "whole_saved_body_lines": 124,
+      "adequate_source_bindings": 5,
+      "bound_controls": 6,
+      "nonempty_saved_line_projections": 77,
+      "dimensions": 11,
+      "serious_rivals": 7,
+      "endpoint_cases": 7,
+      "all14_original_gaps_OPEN": true,
+      "scope355_29_25_384_unchanged": true,
+      "new_completion_credit": 0
+    },
+    "receipt_meaning_readback": "New companion receipt meanings require actual readback before delivering to a separate critical reader. Exact serialization and frozen tuples supply no literary receiving.",
+    "root_own_authorship_boundary": "Root is author here; separate peer must read the complete saved argument and consequential sources. No selfacceptance, current denominator change, publication or milestone effect."
+  },
+  "original_frozen_manifest_exact_tuple": {
+    "path": "MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+    "bytes": 7375,
+    "sha256": "8ac047578d4ad50d274260301e5a25a9dfea305588ab438837abcf97cba7b21b",
+    "git_blob_oid_of_actual_bytes": "9f484165947036edb3c0388fd60952626833c17f",
+    "immutable_transport_path": "immutable_originals/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+  },
+  "original_body_exact_tuple": {
+    "path": "MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_MINA_REIJO_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 22320,
+    "sha256": "fbbcb711c7e9b7bdb5a4d5be1e441e714c75e48a32cce3d88dccd3a8349e9fa9",
+    "git_blob_oid_of_actual_bytes": "b035152268cbcc3a87278eccae7d5550c5138e7f",
+    "immutable_transport_path": "immutable_originals/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_MINA_REIJO_RELATIONSHIP_SYNTHESIS.md"
+  },
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_MINA_REIJO_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 25089,
+    "sha256": "04ec73057882adec388c3e67d0584faa55d1acedcbc426b717a8884a88f53e20",
+    "git_blob_oid_of_actual_bytes": "3562dbbc42c983aa1a8ca1ed274919b485e8af71"
+  },
+  "canonical_link_translations": [],
+  "mandatory_operative_qualification": "ROOT authored the original; actual different-agent critical receiving and subsequent ROOT adjudication, including the whole peer review and operative peer seal, establish the disclosed acceptance. Neither this assembly nor an author reread supplies independent or new primary credit. Deferred apology, rejected sufficiency, Kisaki's actual distinct apology and achieved banquet retain different recipients/endings; Reijo–Kaguya remains separate."
+}

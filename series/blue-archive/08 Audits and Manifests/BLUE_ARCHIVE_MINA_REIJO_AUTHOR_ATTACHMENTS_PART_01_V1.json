@@ -1,0 +1,1945 @@
+{
+  "schema": "BLUE_ARCHIVE_MINA_REIJO_COMPLETE_ORIGINAL_AUTHOR_ATTACHMENTS_PART_V1",
+  "status": "COMPLETE_HISTORICAL_FIELDS_CURRENT_ROOT_QUALIFICATION_IN_PARENT",
+  "complete_author_attachments": [
+    {
+      "name": "MINA_REIJO_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "original_exact_tuple": {
+        "path": "MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "bytes": 75330,
+        "sha256": "eb7c5c92d7c59c60452cd13cb2f5f117aa393a20ea52f91e762c7973897778bb",
+        "git_blob_oid_of_actual_bytes": "e840c0b847c20be72784c8d604600651aff4d6b3",
+        "immutable_transport_path": "immutable_originals/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "BLUE_ARCHIVE_MINA_REIJO_CLAIM_AND_ENDPOINT_REGISTER_V1",
+        "candidate": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_MINA_REIJO_RELATIONSHIP_SYNTHESIS.md",
+          "bytes": 22320,
+          "lines": 124,
+          "sha256": "fbbcb711c7e9b7bdb5a4d5be1e441e714c75e48a32cce3d88dccd3a8349e9fa9"
+        },
+        "saved_nonempty_lines": [
+          {
+            "saved_line": 1,
+            "sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+            "complete_saved_text": "---",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 2,
+            "sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+            "complete_saved_text": "series: BLUE_ARCHIVE",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 3,
+            "sha256": "0161982664b8580e6b78234ffaa6eba1a79364b236ac5884754e22255bc174c0",
+            "complete_saved_text": "artifact_type: directed_relationship_synthesis_candidate",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 4,
+            "sha256": "18fd440e38682ccb6ae34aa60ffa6ca6014dec6e27f7e1747508860cd8c6a783",
+            "complete_saved_text": "status: C_ONLY_COMPLETE_ARGUMENT_PENDING_SEPARATE_CRITICAL_REVIEW_AND_ROOT_ADJUDICATION",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 5,
+            "sha256": "dee2548b3f1da2e2a629753a757394a47eb599c5ac933d1b2bad1f0e53e68d64",
+            "complete_saved_text": "execution: DEEP_SYNTHESIS",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 6,
+            "sha256": "3d5fc920c2eeea1793bf29f89ff11dc601417143bc54fbd2b9e60b9dab11ce9a",
+            "complete_saved_text": "required_home: P3-REL-MINA-REIJO",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 7,
+            "sha256": "dccb733217e5a29315e007ce806b66d5ba1c1a42f3832c7e800ab03c7cf6392f",
+            "complete_saved_text": "source_responsibility: HYS::significant_responsibilities::12",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 8,
+            "sha256": "cf004839cd6742d16a0e4fae76d22c0e7898d5ffec977777713ba67bb800e2a9",
+            "complete_saved_text": "mandatory_named_sections: none",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 9,
+            "sha256": "b1513dc6ab7120e781853301d3672f5c2cefe3b600a6c7430fe564a8b0709aa7",
+            "complete_saved_text": "architecture: \"1.12 §7.2; eleven substantial organizing dimensions\"",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 10,
+            "sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9",
+            "complete_saved_text": "method: \"1.10\"",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 11,
+            "sha256": "0d13b365bb63210532bcaee5f2e685d65e8d4e7a1af83b7c09e1a210d5ad03ce",
+            "complete_saved_text": "source_custody: bf5ded30464ab39f78f71e79ecc7494654c25faa",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 12,
+            "sha256": "389b4318aa5faff7f9c7df7b4877f4de1cbb80706c1847c27bfc82d08e49bbba",
+            "complete_saved_text": "merged_main_comparand: b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 13,
+            "sha256": "fd3bddc871878ed24750fa0d5d5cf209856cfdc6ca3384755fee0ffa60ed5ba7",
+            "complete_saved_text": "literal_people: \"近衛ミナ / BA_PERSON_CH0138 /10070; 鹿山レイジョ / BA_PERSON_REIZYO /10104\"",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 14,
+            "sha256": "4c63207f0091f3555add9c321dd0bcf20bdb7f95de1267433598a5faab609ab4",
+            "complete_saved_text": "authority_boundary: \"Cycle008 current admission; actual adequate analytical meanings; historical reading order/independence UNKNOWN; performed voice unreceived\"",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 15,
+            "sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+            "complete_saved_text": "---",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 17,
+            "sha256": "df63f05e96e705fc57b87a51013faf9abee158a3b8eefba639d00af5a0772064",
+            "complete_saved_text": "# Mina and Reijo — shared action with different accounts of what is owed",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 19,
+            "sha256": "d30a1c5d576bc800e4539983cbe9158bac1e4c2a19c6b9ab172b28c29227c850",
+            "complete_saved_text": "This is the allocated existing directed relationship home. Its central shared sequence is the complete accepted EVENT826 analytical meaning, especially the confrontation, investigation, capture and aftermath. Complete GROUP340 supplies a separate ordinary comparison; adequate private meanings and the accepted character studies keep the people broader than their factional positions. Those comparisons do not invent additional encounters between them. This author has received the indicated arguments, rather than replaying their original primary sources. The frozen source allocation retains exact custody and actual ranges. Completion of this candidate requires separate critical receiving and ROOT adjudication; it adds no accepted package, admission, model or milestone.",
+            "section": 0,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 21,
+            "sha256": "4ca8e37069ed244e5174888fca8b65002aa0f9f2967a73d3116586167621c196",
+            "complete_saved_text": "## 1. Core thesis: cooperation and accountability have different endpoints",
+            "section": 1,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 23,
+            "sha256": "cc33beee7182e3a54b07e0db9b6feb1e80938a2294018964524c79cf92426164",
+            "complete_saved_text": "Mina and Reijo can help bring a local investigation to an effective conclusion while remaining opposed over culpability and repair. Their encounter starts with accusation, challenged certainty and an actual confrontation. Shared inquiry and capture change what they can do together. They do not produce an identical account of the original wrong or the adequacy of apology. Mina later concedes that deciding guilt was wrong, but defers the institutional apology; Reijo calls that insufficient. After Kisaki's actual official apology, Mina minimizes the mistake and Reijo still expresses dissatisfaction while respecting Rumi's decision for the day. The relationship has therefore changed through practical action without acquiring complete reconciliation. [A01 L103–109/L129–149; BA:event:826:006:u0016–0031; 007; 010–012.]",
+            "section": 1,
+            "explicit_adequate_source_ids": [
+              "A01"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 25,
+            "sha256": "e2421e0a21c987cf11ffa53827d8e5fec5eed118f5bbd26bdcfce990c9ad0b61",
+            "complete_saved_text": "Each participant brings a cinematic ideal that is also an ordinary pleasure. Reijo's kung-fu interest and Mina's hardboiled taste matter before their ideas cause trouble. The relation puts those styles into contact through reasoning, quotations, proposals and disappointed reactions. Treating pleasure only as a defect to be corrected would discard why they want those styles. Treating the styles as reliable investigative methods would discard contrary outcomes. These are situated interpretive repertoires, not accepted operational models of either person. [A01 L79/L103–107; A03 L243–257/L297–301; A04/A05 complete accepted bounded character arguments.]",
+            "section": 1,
+            "explicit_adequate_source_ids": [
+              "A01",
+              "A03",
+              "A04",
+              "A05"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 27,
+            "sha256": "08e79f9c0a03fbf3fa74d23cbdf05b28479a8478dba476a908ce2d099b288132",
+            "complete_saved_text": "## 2. Longitudinal movement: confrontation, inquiry and an incomplete negotiated ending",
+            "section": 2,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 29,
+            "sha256": "cc1a2a86817dd0ccfdce858478fcb9d3ad376a09d9d3edad94b3bea56c099a68",
+            "complete_saved_text": "EVENT826 supplies a printed local sequence. Mina identifies herself, withholds her orders and treats returning to the site as evidence of guilt. Reijo challenges premature certainty. Actual confrontation follows; Mina is defeated and tries a failure quotation that meets bafflement. Later inquiry distributes contributions among the adult, Rumi, Saya, Mina and Reijo. The collaborators are confronted and suppression is reported. The account then explicitly turns to insufficient apology, official apology, continuing disagreement and a real banquet. Those transitions warrant local development. [A01 L103–117/L129–149.]",
+            "section": 2,
+            "explicit_adequate_source_ids": [
+              "A01"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 31,
+            "sha256": "ae1c0a3c0ec2b9913f39d22c24d02e08e47c22f9982439e5beabd770fb78e2ad",
+            "complete_saved_text": "The two are not shown becoming permanently better investigators or ceasing factional disagreement. Mina's admission has a narrower endpoint than an executed institutional apology. Reijo's respect for Rumi's decision has a narrower endpoint than satisfaction. The final narrator leaves institutional problems unresolved. Local progression is meaningful without importing later events, forecasting future conduct or assigning the private and GROUP stories a world-calendar position. [A01 L135/L141–149/L155; A03 L341–347.]",
+            "section": 2,
+            "explicit_adequate_source_ids": [
+              "A01",
+              "A03"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 33,
+            "sha256": "727e90b8467d7ea4a83eba84cd22d29525fa5099d950205ac47c7a3ddba1b8c9",
+            "complete_saved_text": "## 3. The two directions: challenge, defensive certainty and unequal repair",
+            "section": 3,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 35,
+            "sha256": "126cc0d1d832c417d62cc4d7749905fbd1f0e72863800c7e8bd1719740f970d5",
+            "complete_saved_text": "**Mina toward Reijo and Genbu.** The initiating investigative approach carries authority, withheld information and a premature inference. Mina's assertion that her institution does not make such mistakes is challenged by the confrontation and eventual findings. Her later acknowledgement does not perform the promised institutional repair. Minimizing the episode after the official apology remains a different evaluation from Reijo's. These particular turns justify a fallible and defensive direction; they do not prove that every Mina act is hostile or that her entire institution knowingly framed Genbu. [A01 L105–109/L135/L143.]",
+            "section": 3,
+            "explicit_adequate_source_ids": [
+              "A01"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 37,
+            "sha256": "f0d2969b30e877694ca28f1293040197717d36c4ec23f72113705f539d4d7bcf",
+            "complete_saved_text": "**Reijo toward Mina and Genryumon.** Reijo calls for evidence and challenges early certainty, yet her inverse conspiracy theory is also unproved. Her demand for a sufficient apology is consequential because she refuses to treat a successful capture as settling the earlier accusation. The demand retains force after official repair, though she accepts Rumi's decision for today. Reasoning criticism and negotiated restraint coexist; neither makes her the wholly disinterested investigator or the permanent enemy of every Genryumon member. [A01 L107/L135/L143.]",
+            "section": 3,
+            "explicit_adequate_source_ids": [
+              "A01"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 39,
+            "sha256": "a8c75e03c8333d4b0f0e1aa06da47727365e8d35ebab8cba48d43f6615743e68",
+            "complete_saved_text": "This asymmetry must remain visible. The shared accusation-and-investigation argument contains material label drift, so not every printed tag secures a literal person-level utterance. The maintained complete argument supports the reasoning functions and the explicitly identified later admissions and objections at their stated scope. The relationship synthesis retains those qualifications instead of manufacturing corrected raw actors or treating functional opposition as a new registry join. [A01 L109/L115/L167; literal scope in source allocation.]",
+            "section": 3,
+            "explicit_adequate_source_ids": [
+              "A01"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 41,
+            "sha256": "6c053357655ceae8a5f885cb69f4dac804bbf163236264118c26cdef95fdcf95",
+            "complete_saved_text": "## 4. Institutions and obligations: position matters without exhausting either person",
+            "section": 4,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 43,
+            "sha256": "5252773a4112651cb57d5a40569f0517d1be23569128ea8a86d8209eafc5f269",
+            "complete_saved_text": "Mina acts within Genryumon's investigation and attachment to Kisaki; Reijo carries Genbu's work and its contested reputation. Institutional rivalry explains part of their encounter but does not make every belief an official decision. Kisaki repudiates unsupported accusation and apologizes for reputational harm and failed oversight. That achieved official speech act differs from Mina's deferral and the executives' individualizing evasions. It cannot be assigned retrospectively to Mina or treated as every member's identical apology. [A01 L85–89/L125–127/L135/L139–143.]",
+            "section": 4,
+            "explicit_adequate_source_ids": [
+              "A01"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 45,
+            "sha256": "0f9fc245e79fbbdba8cca6934ca0eb0521e8d2c5f9098769d03ccc0b7a54952e",
+            "complete_saved_text": "Reijo's responsibilities also limit freely chosen craft affiliation. In GROUP340 she welcomes martial companionship and accepts cooperation and instruction while refusing membership because of association work. Mina's theatrical loyalty to Kisaki is directly printed in a different part of that morning. These scenes show distinct obligations and aspirations. They do not establish a separate Mina–Reijo meeting, Mina's view of Reijo's refusal, or a shared membership merely because both inhabit Shanhaijing. [A02 L67–87/L105–119/L162.]",
+            "section": 4,
+            "explicit_adequate_source_ids": [
+              "A02"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 47,
+            "sha256": "475f5cff219afbc2a86089ca11c8a2cab2e999e26ca3e0e4fcd57653c5c0c81f",
+            "complete_saved_text": "Separate Genryumon, Rumi, Reijo–Kaguya, merchant/child ensemble and individual character duties remain substantial Phase3 work. This relationship owns the Mina–Reijo interpretive question. Institutional consequences and other directed ties enter as evidence about it, rather than becoming completed by this package.",
+            "section": 4,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 49,
+            "sha256": "3788d09d56557bc21ababa87f9b768864bc8eb6d5bf8956c5096f2e4369698e9",
+            "complete_saved_text": "## 5. Ordinary life: film, food, rest and recognition remain intrinsic goods",
+            "section": 5,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 51,
+            "sha256": "094924cd8250925ce5b7fdc3e74ecd8ea3fb7b390e6a1d371dff39a34749f844",
+            "complete_saved_text": "Their fiction interests have different desired forms. Reijo wants kung-fu companionship and voluntary rest; Mina wants an aesthetically fitting entrance, names, music and hardboiled company. In the investigation, her inability to carry off the quoted scene and the others' bafflement are contrary evidence about that particular performance. They do not make enjoying the genre worthless. Reijo's proposed training similarly remains a proposal; no completed program follows from connecting stamina with cooking work. No shared film viewing between the two is printed here. [A01 L105–107; A03 L245–257/L299–301.]",
+            "section": 5,
+            "explicit_adequate_source_ids": [
+              "A01",
+              "A03"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 53,
+            "sha256": "43ca0c56426b52ceeb3c14173e2a2ba9252cfe48a180ddfb05ff05d733fd90f8",
+            "complete_saved_text": "Food has differentiated recipients. Rumi's actual hospitality and the adult's delicious first taste are positive. Reijo's private dread of the promised prototypes supplies a contrary preference, rather than a universal assessment that the banquet tastes bad. The banquet becomes real; not every offered dish is shown consumed by every participant. Reijo's feared prototype taste and Saya's actual delicious eating belong to different people and moments. Ordinary pleasure and apprehension need their own endpoints even within a successful investigation. [A01 L79/L131/L135/L145–149.]",
+            "section": 5,
+            "explicit_adequate_source_ids": [
+              "A01"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 55,
+            "sha256": "238f1746f8849a1ab1b70ac019a1312fdc47f82e7c89de11752bc69040351eca",
+            "complete_saved_text": "Neither side can be reduced to a craving for dominance over the other. Their separately adequate private arguments preserve care, wanted attention, difficult work, rest, protection and recipients who refuse proposed gifts or conduct. Those meanings contextualize how much of a person the investigative role leaves out. They do not add reciprocal private intimacy to this pair, backdate a change of heart, or prove that genre taste caused each mistaken judgment. [A03 L241–258/L295–301; A04/A05.]",
+            "section": 5,
+            "explicit_adequate_source_ids": [
+              "A03",
+              "A04",
+              "A05"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 57,
+            "sha256": "776761e3271970c5b4dae6441afb9f89939ff3ff7e5168a3665c6d33dd12437e",
+            "complete_saved_text": "## 6. Shared inquiry and crisis: distributed effectiveness retains method costs",
+            "section": 6,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 59,
+            "sha256": "abeea5ac413c9d9a204ed16a3ba4d30bd4e04a9615a2b8263a5e40bf43eff81c",
+            "complete_saved_text": "The investigation succeeds through more than Mina or Reijo's preferred style. Rumi develops the exemption hypothesis concerning Meihua; the adult proposes the trap; the ordinary carrot shipment brings out collaborators; Saya makes an independently motivated intervention. The joint team genuinely confronts the transaction and suppression is reported. These positive outcomes resist an account of complete incompetence or endless conflict. They do not establish that either cinematic method was validated, that the adult authored every contribution, or that every larger planner was caught. [A01 L107–117/L129–137.]",
+            "section": 6,
+            "explicit_adequate_source_ids": [
+              "A01"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 61,
+            "sha256": "5113c05db83915887b861ac3fa6a82c699e3ab7093cd700bd9fd2171297911e6",
+            "complete_saved_text": "Kokona's role also resists uncomplicated victory. Both factions object to the exploitation of children's goodwill, yet the effective trap involves withholding its purpose from her. Rumi and Reijo explicitly acknowledge secretly involving and using Kokona; apologies to her and Shun remain future. The argument does not supply a uniquely Mina-authored trap or transfer every swapped role tag into her personal act. It does preserve the investigating group's recipient costs and Reijo's explicit involvement. Capturing collaborators does not settle those recipients' agreement. [A01 L113–117/L145/L149.]",
+            "section": 6,
+            "explicit_adequate_source_ids": [
+              "A01"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 63,
+            "sha256": "ad276853da44e636454d27ff50dcf60de83868215338481753687b2ef719e8d1",
+            "complete_saved_text": "The larger investigation remains open at the actual ending. Kai reports experimental work and announces possible future action; no received experiment, sentence, successful retrieval or completed punishment follows. This matters to the pair's cooperation: it is effective within a captured local conduit, not proof that adversaries together can guarantee every subsequent institutional result. [A01 L131–137/L149.]",
+            "section": 6,
+            "explicit_adequate_source_ids": [
+              "A01"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 65,
+            "sha256": "adf157224ae16d9c99369139951d33d9b92703bac7b24fd0665a6ecca68e30ae",
+            "complete_saved_text": "## 7. Sensei and other mediators: assistance does not erase the participants' responses",
+            "section": 7,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 67,
+            "sha256": "6c74920118928dd6b2819be6022df40976344fedb64ef397f7d303c784a5afb4",
+            "complete_saved_text": "The adult challenges misconceptions, asks disputants to calm down and helps organize investigation. Rumi's contributions and Saya's arrival remain independently consequential. Kisaki's belief that the adult's presence would prevent conflict is contradicted by the actual confrontation, so the relation cannot be narrated as a successful predetermined lesson administered by Sensei. Her interest in broadening Mina's outlook is a stated intention, not a completed educational assessment. [A01 L81/L107–109/L117/L125/L131/L153.]",
+            "section": 7,
+            "explicit_adequate_source_ids": [
+              "A01"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 69,
+            "sha256": "a297c2f98a0fbab3554307a5f3e38ea643d42ac168ebea67a75f4ac7142806e9",
+            "complete_saved_text": "Mediation has limits in the ordinary group comparison too. The adult's broad suggestion to meet the crowd's expectations receives Kisaki's specific refusal; she need not fulfill the three specialists' expectations. Her intervention interrupts conflict and draws apologies, while protective loudness itself frightens children and receives an apology. These are relevant comparisons of aspirations, evidence and independently answering recipients. The principal Reijo–Kaguya craft dispute remains its own relationship. [A02 L105–129.]",
+            "section": 7,
+            "explicit_adequate_source_ids": [
+              "A02"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 71,
+            "sha256": "28c88372209de4b2c966376c1db1913f9694aa7c2d6d462e9d5e8b9525d4ccba",
+            "complete_saved_text": "## 8. Third parties and aftermath: owed repair belongs to different recipients",
+            "section": 8,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 73,
+            "sha256": "4f5152fb63e04a7aa74b9b98dcd6de46478f2daf790d64dfe9c16d70be20ffbc",
+            "complete_saved_text": "Rumi seeks comfortable returning customers and recognizes institutional constraints. Reijo's remaining dissatisfaction is not automatically the chair's conclusion. Kisaki performs official apology; Mina's minimization does not undo the speech act, and the speech act does not erase Mina's narrower response. Executives' reputational evasions, the internal smuggling confession and future interrogation claims have different evidential strengths. Shared school membership cannot combine them into one consenting institutional voice. [A01 L131–149.]",
+            "section": 8,
+            "explicit_adequate_source_ids": [
+              "A01"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 75,
+            "sha256": "dc06a80a2a4eeb2ed1c2ae0801c51022aca866920829c8d138989d6fd92e1cbc",
+            "complete_saved_text": "Kokona and Shun are owed an apology for secret involvement at a different level from Genbu's unsupported accusation. At the banquet, Kokona again bears unequal childcare and protests its transfer. Actual food and company remain positive while recipient repair remains unprinted. Reijo's insistence on what her own side is owed therefore coexists with a method in which another recipient is used. This is a serious contrary case to a purely innocent accuser-versus-critic arrangement, without equating every wrong or proving insincerity. [A01 L117/L143–149.]",
+            "section": 8,
+            "explicit_adequate_source_ids": [
+              "A01"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 77,
+            "sha256": "932a77538b579cdd454310730a1728a46c206554108977642ede8b9a302e8b19",
+            "complete_saved_text": "Anonymous executives, members, children and collaborators remain source-local roles. Reijo's explicit identity differs from unnamed staff; Mina's explicit name differs from generic Genryumon executives. No matching office label, lettered role or contextual reasoning function creates a cross-story person. Their costs and agency matter at the represented extent even when global identity remains unresolved. [A01 L87–89/L109/L115/L155/L167; A02 L133–162.]",
+            "section": 8,
+            "explicit_adequate_source_ids": [
+              "A01",
+              "A02"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 79,
+            "sha256": "24529c984ae85170d664bb0154376abf3974462e4b54128a599160b4bcf2bedf",
+            "complete_saved_text": "## 9. Language and source modes: a genre quotation is an act with an audience",
+            "section": 9,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 81,
+            "sha256": "9f93cd9c93eead244e5448e9e0e049190194a71389927d9dae6d56cec0e41b73",
+            "complete_saved_text": "Mina's hardboiled quotations and Reijo's kung-fu interpretation are written acts with different receptions. Bafflement, correction, objections and private apprehension belong to the argument as much as the desired image. Quoted cinematic bereavement in Mina's private source is not her own biography. Reijo's fictional restaurant combat is not a demonstrated fight. No performed tone, musical sound, actor delivery, pitch or audience-visible animation was inspected for this synthesis. [A01 L79/L105–109/L135; A03 L247/L299.]",
+            "section": 9,
+            "explicit_adequate_source_ids": [
+              "A01",
+              "A03"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 83,
+            "sha256": "674fed2a61cf4ae0eb097d93d522a9ccce5a78da65caca68047f3ceb4c3c9708",
+            "complete_saved_text": "The complete GROUP argument records fifteen display/text actor seams and seven inward-tagged adult units. The Reijo–Kaguya apparent speaker reversals cannot be converted into exchanged craft beliefs; Mina's quiet order has a qualified carrier. Rumi's intervention, Kisaki's purpose and the adult's handkerchief offer have their particular mode limits. Those exact witnesses are adequate analytical comparisons, not fresh raw-control inspection or evidence that every quoted inward prompt was heard aloud. [A02 L133–162.]",
+            "section": 9,
+            "explicit_adequate_source_ids": [
+              "A02"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 85,
+            "sha256": "2b607a0687fc97a9c90e226cd89691395d3cc961a193cfb342cbe7691c6a44ac",
+            "complete_saved_text": "EVENT826's role-swapped investigation turns stay at their maintained contextual-function scope. The explicitly identified late apology dispute supports the directed pair without repairing every earlier printed label. Private variants, costume UI conditions, release metadata and generation dates do not create an expanded relational biography or world calendar. Each source ID and locale remains attached to its actual owner. [A01 L109/L115/L135/L143/L167; A03 L257/L297–301.]",
+            "section": 9,
+            "explicit_adequate_source_ids": [
+              "A01",
+              "A03"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 87,
+            "sha256": "ed0e70a5b1fb377dde701e8fff498b407e4e18b2149a5ef4ecb818871be8d0cf",
+            "complete_saved_text": "## 10. Competing readings: seven accounts meet consequential contrary cases",
+            "section": 10,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 89,
+            "sha256": "fb2d24b598d31a47b38bc48ca0841e8e2deb1f309b7ed4192a64d645aa6baf3e",
+            "complete_saved_text": "**A factional feud makes cooperation impossible.** Actual confrontation, partisan insults and continuing dissatisfaction support the conflict. Shared inquiry, joint confrontation and reported suppression resist impossibility. Cooperation is achieved locally without establishing permanent friendship or abandoning either institution.",
+            "section": 10,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "RIVAL_ARGUMENT",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 91,
+            "sha256": "288a7096b1bed9dd09e0818f1f37ac7691c21d7c8213bfe8c4fdeb06ba879f07",
+            "complete_saved_text": "**The solved case proves they have reconciled.** Capture and a real banquet support a positive endpoint. Mina's deferred apology, Reijo's insufficient-apology objection and later dissatisfaction remain explicit. Kisaki's different achieved official apology does not give the pair identical closure.",
+            "section": 10,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "RIVAL_ARGUMENT",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 93,
+            "sha256": "b0a74a5890a4b30d6a504aaa7e55462966ab5cf99ebeb99e995dc4386d916d23",
+            "complete_saved_text": "**Reijo is an unbiased corrective to Mina's incompetence.** Her early warning against certainty and demand for sufficient repair are supported. Her own unproved conspiracy theory, involved trap and private prototype dread prevent turning her into an entirely detached investigator or universal judge of the others' pleasures. Mina's useful participation remains alongside her errors.",
+            "section": 10,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "RIVAL_ARGUMENT",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 95,
+            "sha256": "c995b2ffd8a61dd92d3a1fb52cf8dacb5632d62ad6f3fbb9dd484052156411e0",
+            "complete_saved_text": "**Their film tastes are immature obstacles with no independent value.** Genre quotations and projected confidence can distort inquiry and meet bafflement. Voluntary pleasure, wanted company, rest and aesthetic experiments retain intrinsic standing. No future practical application is required to justify watching or enjoying fiction.",
+            "section": 10,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "RIVAL_ARGUMENT",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 97,
+            "sha256": "5617bb6bd1a119e141ac23a6e868437c76c43035d0c2a219db726d6d013e7062",
+            "complete_saved_text": "**Sensei successfully engineers the whole relationship.** The adult helps, interrupts insults and proposes a locally effective trap. Rumi's hypothesis, Saya's independent intervention, the actual confrontation despite Kisaki's expectation and unprinted educational outcome oppose sole authorship. The trap's disclosure cost also constrains a flawless mediation account.",
+            "section": 10,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "RIVAL_ARGUMENT",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 99,
+            "sha256": "23b4ed1f761f109c087e6f0d00215466caee6c74e96c51fba3010417e9304d00",
+            "complete_saved_text": "**The pair's joint defense is ethically complete because it protects children.** Both factions condemn exploitation and the collaborators are caught. Secretly using Kokona and leaving her and Shun's apologies future are consequential contrary cases. Reijo's insistence on her side's repair does not settle what those recipients are owed.",
+            "section": 10,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "RIVAL_ARGUMENT",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 101,
+            "sha256": "df3644682d0e35c140e67bafd73b735a8b9add7f717ed73c95dc5716ad9b4931",
+            "complete_saved_text": "**Institutional identity supplies each person's entire motive.** Work, surveillance and reputational stakes matter. Film, food, rest, craft, named attention and privately wished protection exceed those positions. Sparse direct private-pair evidence permits contextual breadth, not invented shared intimacy, romance or a global personality law.",
+            "section": 10,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "RIVAL_ARGUMENT",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 103,
+            "sha256": "11e964cf1a2a78b939121224337e382832d5c26a3ea7b6297ef461b1d709e4da",
+            "complete_saved_text": "## 11. Evidence, original gaps and finite completion boundary",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 105,
+            "sha256": "0c94fb66ec425bad326feca3a61726f631f33e32a17f81d5c7b25b834c314697",
+            "complete_saved_text": "The source allocation binds five small adequate analytical arguments and six current controls. A01 is received complete at its substantive L75–177 scope; A02 is personally received whole188; A03 has current adoption, the complete consequential Mina/Reijo private meanings and declared regional scopes. A04/A05 are previously complete ROOT-accepted character arguments. Historical primary producers, source fields, independence and current reception remain distinct. The source-custody commit is bf5, with merged-main b76 as a different comparand; subsequent publication gates are separate. No new original-primary, QA, native raw, AV, model, registry or denominator credit follows.",
+            "section": 11,
+            "explicit_adequate_source_ids": [
+              "A01",
+              "A02",
+              "A03",
+              "A04",
+              "A05"
+            ],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 107,
+            "sha256": "cbb309754f144a0c3d64d2d3804f260308582004dde55d8e8c7c5ca23a72b475",
+            "complete_saved_text": "| Original stable gap | Relationship contribution and remaining warrant | Status |",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 108,
+            "sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+            "complete_saved_text": "|---|---|---|",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 109,
+            "sha256": "ddb75a28ee5493d8efaa0942703b96be66c589d8653defa90b4880b757f10b40",
+            "complete_saved_text": "| G01 Ordinary and private breadth | Film, food, rest, craft and desired recognition broaden the pair's context; unprinted shared private encounters and other cast duties remain separate. | OPEN |",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "GAP_ROW",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 110,
+            "sha256": "b72cd46dade4aa170cbb05bf00cbd1bc43cf39cd1f08e65d5f8a5c21b8d7ae05",
+            "complete_saved_text": "| G02 Yuuka council/club decision transfer | Different obligations and negotiated repair offer comparison; no Yuuka decision or institutional transfer is established. | OPEN |",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "GAP_ROW",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 111,
+            "sha256": "d4320dab0c88ea01818754648c01db08cecab4af1f62e7cc88bc30a638942809",
+            "complete_saved_text": "| G03 Serika service, peer and reciprocity range | Work, taste and owed repair are comparative questions; Serika's own service and recipient evidence remain required. | OPEN |",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "GAP_ROW",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 112,
+            "sha256": "a0759c437a4cdf35c0fd9115a73bae3ec5856b60eb14bb5b4b0cdf5f7f51448a",
+            "complete_saved_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Joint capture versus incomplete apology adds a bounded contrast; Hina-specific causal and accountability duties remain separate. | OPEN |",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "GAP_ROW",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 113,
+            "sha256": "49edbc91646ad5590f37854517a5c306d25428240b7facbb8b829ac45338e52d",
+            "complete_saved_text": "| G05 Arius and PS68 ordinary/aftermath transfer | Positive local cooperation with unfinished aftermath permits comparison, without importing those actors or their outcomes. | OPEN |",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "GAP_ROW",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 114,
+            "sha256": "693c778afa157a1488773ebfd600ab1e1a9877c62a6c601a562f6aebeeae4502",
+            "complete_saved_text": "| G06 Cross-school ordinary repertoire | Different film ideals, food reactions and craft invitations add school-local ordinary breadth; other schools' evidence is not supplied. | OPEN |",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "GAP_ROW",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 115,
+            "sha256": "ac3fe945106ba0a2e803b7d4222b6a40aa5c52adaf0422211d75d9e98cbab6c5",
+            "complete_saved_text": "| G07 Story-world chronology | EVENT826 has a local investigation-to-banquet sequence; private/GROUP/world-calendar positions remain unestablished. | OPEN |",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "GAP_ROW",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 116,
+            "sha256": "382017be6af5e06e4be305571ba465055c6e5c41de9f34ef8995515b645c828b",
+            "complete_saved_text": "| G08 Event naming and repeat contexts | Exact826 and GROUP340 IDs remain distinct; naming, variants and replay metadata do not create repeated encounters. | OPEN |",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "GAP_ROW",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 117,
+            "sha256": "99a084788a860fbd24775d6deb98b68064a8d1717e42d4388d09dbaef28b760d",
+            "complete_saved_text": "| G09 Written speaker/choice attribution | Maintained contextual-function qualifiers, actor seams, inward modes and alternatives remain; no new raw actor repair or audible prompt is claimed. | OPEN |",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "GAP_ROW",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 118,
+            "sha256": "93ab0939e0844d36e0f6af2fa400925d6f53256ec90f95eef6cd6a00594133db",
+            "complete_saved_text": "| G10 Performed voice | Written genre, objections and reception are analytical evidence; audio, acting, pitch and visual delivery remain unreceived. | OPEN |",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "GAP_ROW",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 119,
+            "sha256": "d5e3f217422e58fb0eeef5ab8fb0b164d56df06da328d6f1c9adc2bfb2d29fa6",
+            "complete_saved_text": "| G11 Hoshino's Yume record and office states | No direct Yume/Hoshino record is added; institutional apology vocabulary does not replace that duty. | OPEN |",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "GAP_ROW",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 120,
+            "sha256": "26ed7d73116f4b099f997bbf3ac3af6dbf3294f5cf18971e6eacc70afc971e50",
+            "complete_saved_text": "| G12 Counterpart, system and variant identity | Named Mina/Reijo remain distinct from generic executives, other local roles and variants; stronger identity continuity needs its own warrant. | OPEN |",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "GAP_ROW",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 121,
+            "sha256": "358abff2bf17beceb857af947d0df0f34aa4919f3ede40cfd44c8d64c959ff5d",
+            "complete_saved_text": "| G13 Office, contract, safety and technical outcomes | Capture, admission of error and official apology have different endpoints; punishment, payment, informed agreement, durable reform and experimental results remain unprinted. | OPEN |",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "GAP_ROW",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 122,
+            "sha256": "f7bfb7f2e5fe8f634082ec2e3deb665726819f8809b63a9a6b639c12533bbb7c",
+            "complete_saved_text": "| G14 Unclassified/mode continuity | No new unclassified source or cross-mode continuity is admitted; conditional, inward and reported meanings retain their owners. | OPEN |",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "GAP_ROW",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          },
+          {
+            "saved_line": 124,
+            "sha256": "45a697d827ece941903e19715ce5f7812ae827b2b982d68dfb42baeef719ebc1",
+            "complete_saved_text": "No mandatory new primary recovery is identified for the bounded claims made here. A consequential turn-specific attribution dispute would require its exact missing witness; stronger clinical, legal, institutional, chronology or performance claims require their own evidence. Missing shared private scenes limit those claims rather than erase the significant public relationship. Separate critical review must read the complete saved argument and answer its substantive contrary cases before ROOT can adopt this existing home. Full Phase3 remains355 packages and29 mandatory named duties across25 parents. This author candidate changes none of those counts.",
+            "section": 11,
+            "explicit_adequate_source_ids": [],
+            "projection_kind": "BODY_OR_METADATA_LINE",
+            "receiving_boundary": "Exact saved line association only; metadata and reference joins do not create primary or independent literary receiving."
+          }
+        ],
+        "seven_complete_serious_rivals": [
+          {
+            "literal_argument_line": 89,
+            "full_argument": "**A factional feud makes cooperation impossible.** Actual confrontation, partisan insults and continuing dissatisfaction support the conflict. Shared inquiry, joint confrontation and reported suppression resist impossibility. Cooperation is achieved locally without establishing permanent friendship or abandoning either institution.",
+            "sha256": "fb2d24b598d31a47b38bc48ca0841e8e2deb1f309b7ed4192a64d645aa6baf3e",
+            "adequate_source_ids": [
+              "A01",
+              "A02",
+              "A03",
+              "A04",
+              "A05"
+            ],
+            "qualification": "Complete actual rival tested in saved body; source IDs refer only to the declared admitted analytical scopes, not all original sources."
+          },
+          {
+            "literal_argument_line": 91,
+            "full_argument": "**The solved case proves they have reconciled.** Capture and a real banquet support a positive endpoint. Mina's deferred apology, Reijo's insufficient-apology objection and later dissatisfaction remain explicit. Kisaki's different achieved official apology does not give the pair identical closure.",
+            "sha256": "288a7096b1bed9dd09e0818f1f37ac7691c21d7c8213bfe8c4fdeb06ba879f07",
+            "adequate_source_ids": [
+              "A01",
+              "A02",
+              "A03",
+              "A04",
+              "A05"
+            ],
+            "qualification": "Complete actual rival tested in saved body; source IDs refer only to the declared admitted analytical scopes, not all original sources."
+          },
+          {
+            "literal_argument_line": 93,
+            "full_argument": "**Reijo is an unbiased corrective to Mina's incompetence.** Her early warning against certainty and demand for sufficient repair are supported. Her own unproved conspiracy theory, involved trap and private prototype dread prevent turning her into an entirely detached investigator or universal judge of the others' pleasures. Mina's useful participation remains alongside her errors.",
+            "sha256": "b0a74a5890a4b30d6a504aaa7e55462966ab5cf99ebeb99e995dc4386d916d23",
+            "adequate_source_ids": [
+              "A01",
+              "A02",
+              "A03",
+              "A04",
+              "A05"
+            ],
+            "qualification": "Complete actual rival tested in saved body; source IDs refer only to the declared admitted analytical scopes, not all original sources."
+          },
+          {
+            "literal_argument_line": 95,
+            "full_argument": "**Their film tastes are immature obstacles with no independent value.** Genre quotations and projected confidence can distort inquiry and meet bafflement. Voluntary pleasure, wanted company, rest and aesthetic experiments retain intrinsic standing. No future practical application is required to justify watching or enjoying fiction.",
+            "sha256": "c995b2ffd8a61dd92d3a1fb52cf8dacb5632d62ad6f3fbb9dd484052156411e0",
+            "adequate_source_ids": [
+              "A01",
+              "A02",
+              "A03",
+              "A04",
+              "A05"
+            ],
+            "qualification": "Complete actual rival tested in saved body; source IDs refer only to the declared admitted analytical scopes, not all original sources."
+          },
+          {
+            "literal_argument_line": 97,
+            "full_argument": "**Sensei successfully engineers the whole relationship.** The adult helps, interrupts insults and proposes a locally effective trap. Rumi's hypothesis, Saya's independent intervention, the actual confrontation despite Kisaki's expectation and unprinted educational outcome oppose sole authorship. The trap's disclosure cost also constrains a flawless mediation account.",
+            "sha256": "5617bb6bd1a119e141ac23a6e868437c76c43035d0c2a219db726d6d013e7062",
+            "adequate_source_ids": [
+              "A01",
+              "A02",
+              "A03",
+              "A04",
+              "A05"
+            ],
+            "qualification": "Complete actual rival tested in saved body; source IDs refer only to the declared admitted analytical scopes, not all original sources."
+          },
+          {
+            "literal_argument_line": 99,
+            "full_argument": "**The pair's joint defense is ethically complete because it protects children.** Both factions condemn exploitation and the collaborators are caught. Secretly using Kokona and leaving her and Shun's apologies future are consequential contrary cases. Reijo's insistence on her side's repair does not settle what those recipients are owed.",
+            "sha256": "23b4ed1f761f109c087e6f0d00215466caee6c74e96c51fba3010417e9304d00",
+            "adequate_source_ids": [
+              "A01",
+              "A02",
+              "A03",
+              "A04",
+              "A05"
+            ],
+            "qualification": "Complete actual rival tested in saved body; source IDs refer only to the declared admitted analytical scopes, not all original sources."
+          },
+          {
+            "literal_argument_line": 101,
+            "full_argument": "**Institutional identity supplies each person's entire motive.** Work, surveillance and reputational stakes matter. Film, food, rest, craft, named attention and privately wished protection exceed those positions. Sparse direct private-pair evidence permits contextual breadth, not invented shared intimacy, romance or a global personality law.",
+            "sha256": "df3644682d0e35c140e67bafd73b735a8b9add7f717ed73c95dc5716ad9b4931",
+            "adequate_source_ids": [
+              "A01",
+              "A02",
+              "A03",
+              "A04",
+              "A05"
+            ],
+            "qualification": "Complete actual rival tested in saved body; source IDs refer only to the declared admitted analytical scopes, not all original sources."
+          }
+        ],
+        "finite_actual_endpoint_cases": [
+          {
+            "endpoint_id": "MR-E01",
+            "question": "Premature certainty and challenge",
+            "adequate_source_id": "A01",
+            "received_analytical_line_range": [
+              105,
+              109
+            ],
+            "full_achieved_and_unresolved_argument": "Mina asserts guilt and institutional certainty; Reijo challenges it. Actual confrontation and Mina defeat follow. Neither opposite conspiracy theory nor later capture validates their initial reasoning."
+          },
+          {
+            "endpoint_id": "MR-E02",
+            "question": "Distributed inquiry",
+            "adequate_source_id": "A01",
+            "received_analytical_line_range": [
+              107,
+              117
+            ],
+            "full_achieved_and_unresolved_argument": "Rumi supplies the exemption hypothesis; the adult proposes the trap; ordinary carrots expose collaborators. Different agents contribute without cinematic-method validation."
+          },
+          {
+            "endpoint_id": "MR-E03",
+            "question": "Secretly involved recipient",
+            "adequate_source_id": "A01",
+            "received_analytical_line_range": [
+              113,
+              117
+            ],
+            "full_achieved_and_unresolved_argument": "Both factions object to child exploitation. Rumi/Reijo acknowledge secretly using Kokona; promised apologies to Kokona/Shun are not printed as performed."
+          },
+          {
+            "endpoint_id": "MR-E04",
+            "question": "Captured conduit",
+            "adequate_source_id": "A01",
+            "received_analytical_line_range": [
+              129,
+              137
+            ],
+            "full_achieved_and_unresolved_argument": "The joint team confronts collaborators and suppression is reported. Saya independently intervenes; Kai reported experiments and future plans do not become verified results or a completed larger investigation."
+          },
+          {
+            "endpoint_id": "MR-E05",
+            "question": "Insufficient apology",
+            "adequate_source_id": "A01",
+            "received_analytical_line_range": [
+              135,
+              135
+            ],
+            "full_achieved_and_unresolved_argument": "Mina concedes mistaken guilt decision but defers institutional apology; Reijo says it is insufficient. Effective capture coexists with this disagreement."
+          },
+          {
+            "endpoint_id": "MR-E06",
+            "question": "Different official and personal responses",
+            "adequate_source_id": "A01",
+            "received_analytical_line_range": [
+              139,
+              149
+            ],
+            "full_achieved_and_unresolved_argument": "Kisaki actually performs official apology. Mina minimizes and Reijo remains dissatisfied while respecting Rumi for today. Actual banquet occurs; problems and other owed repair remain open."
+          },
+          {
+            "endpoint_id": "MR-E07",
+            "question": "Ordinary comparison preserves distinct ties",
+            "adequate_source_id": "A02",
+            "received_analytical_line_range": [
+              67,
+              129
+            ],
+            "full_achieved_and_unresolved_argument": "GROUP340 supports independent craft interests, refusal of membership, Mina’s named loyalty and a collective exercise start. Principal Reijo–Kaguya dispute remains its own home; no extra pair intimacy or permanent harmony follows."
+          }
+        ],
+        "fourteen_original_gap_effects": [
+          {
+            "gap_id": "G01",
+            "original_literal_name": "Ordinary and private breadth",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Film, food, rest, craft and desired recognition broaden the pair's context; unprinted shared private encounters and other cast duties remain separate.",
+            "saved_line": 109,
+            "sha256": "ddb75a28ee5493d8efaa0942703b96be66c589d8653defa90b4880b757f10b40"
+          },
+          {
+            "gap_id": "G02",
+            "original_literal_name": "Yuuka council/club decision transfer",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Different obligations and negotiated repair offer comparison; no Yuuka decision or institutional transfer is established.",
+            "saved_line": 110,
+            "sha256": "b72cd46dade4aa170cbb05bf00cbd1bc43cf39cd1f08e65d5f8a5c21b8d7ae05"
+          },
+          {
+            "gap_id": "G03",
+            "original_literal_name": "Serika service, peer and reciprocity range",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Work, taste and owed repair are comparative questions; Serika's own service and recipient evidence remain required.",
+            "saved_line": 111,
+            "sha256": "d4320dab0c88ea01818754648c01db08cecab4af1f62e7cc88bc30a638942809"
+          },
+          {
+            "gap_id": "G04",
+            "original_literal_name": "Hina crisis causality, accountability and ordinary contrast",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Joint capture versus incomplete apology adds a bounded contrast; Hina-specific causal and accountability duties remain separate.",
+            "saved_line": 112,
+            "sha256": "a0759c437a4cdf35c0fd9115a73bae3ec5856b60eb14bb5b4b0cdf5f7f51448a"
+          },
+          {
+            "gap_id": "G05",
+            "original_literal_name": "Arius and PS68 ordinary/aftermath transfer",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Positive local cooperation with unfinished aftermath permits comparison, without importing those actors or their outcomes.",
+            "saved_line": 113,
+            "sha256": "49edbc91646ad5590f37854517a5c306d25428240b7facbb8b829ac45338e52d"
+          },
+          {
+            "gap_id": "G06",
+            "original_literal_name": "Cross-school ordinary repertoire",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Different film ideals, food reactions and craft invitations add school-local ordinary breadth; other schools' evidence is not supplied.",
+            "saved_line": 114,
+            "sha256": "693c778afa157a1488773ebfd600ab1e1a9877c62a6c601a562f6aebeeae4502"
+          },
+          {
+            "gap_id": "G07",
+            "original_literal_name": "Story-world chronology",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "EVENT826 has a local investigation-to-banquet sequence; private/GROUP/world-calendar positions remain unestablished.",
+            "saved_line": 115,
+            "sha256": "ac3fe945106ba0a2e803b7d4222b6a40aa5c52adaf0422211d75d9e98cbab6c5"
+          },
+          {
+            "gap_id": "G08",
+            "original_literal_name": "Event naming and repeat contexts",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Exact826 and GROUP340 IDs remain distinct; naming, variants and replay metadata do not create repeated encounters.",
+            "saved_line": 116,
+            "sha256": "382017be6af5e06e4be305571ba465055c6e5c41de9f34ef8995515b645c828b"
+          },
+          {
+            "gap_id": "G09",
+            "original_literal_name": "Written speaker/choice attribution",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Maintained contextual-function qualifiers, actor seams, inward modes and alternatives remain; no new raw actor repair or audible prompt is claimed.",
+            "saved_line": 117,
+            "sha256": "99a084788a860fbd24775d6deb98b68064a8d1717e42d4388d09dbaef28b760d"
+          },
+          {
+            "gap_id": "G10",
+            "original_literal_name": "Performed voice",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Written genre, objections and reception are analytical evidence; audio, acting, pitch and visual delivery remain unreceived.",
+            "saved_line": 118,
+            "sha256": "93ab0939e0844d36e0f6af2fa400925d6f53256ec90f95eef6cd6a00594133db"
+          },
+          {
+            "gap_id": "G11",
+            "original_literal_name": "Hoshino's Yume record and office states",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "No direct Yume/Hoshino record is added; institutional apology vocabulary does not replace that duty.",
+            "saved_line": 119,
+            "sha256": "d5e3f217422e58fb0eeef5ab8fb0b164d56df06da328d6f1c9adc2bfb2d29fa6"
+          },
+          {
+            "gap_id": "G12",
+            "original_literal_name": "Counterpart, system and variant identity",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Named Mina/Reijo remain distinct from generic executives, other local roles and variants; stronger identity continuity needs its own warrant.",
+            "saved_line": 120,
+            "sha256": "26ed7d73116f4b099f997bbf3ac3af6dbf3294f5cf18971e6eacc70afc971e50"
+          },
+          {
+            "gap_id": "G13",
+            "original_literal_name": "Office, contract, safety and technical outcomes",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Capture, admission of error and official apology have different endpoints; punishment, payment, informed agreement, durable reform and experimental results remain unprinted.",
+            "saved_line": 121,
+            "sha256": "358abff2bf17beceb857af947d0df0f34aa4919f3ede40cfd44c8d64c959ff5d"
+          },
+          {
+            "gap_id": "G14",
+            "original_literal_name": "Unclassified/mode continuity",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "No new unclassified source or cross-mode continuity is admitted; conditional, inward and reported meanings retain their owners.",
+            "saved_line": 122,
+            "sha256": "f7bfb7f2e5fe8f634082ec2e3deb665726819f8809b63a9a6b639c12533bbb7c"
+          }
+        ],
+        "source_scopes": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_826/BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 32334,
+            "lines": 177,
+            "sha256": "287c1549225c6c17cb398c686b87f23cc7c062a8e7dabfa4c0bcd67f9ff5361b",
+            "source_id": "A01",
+            "C_bound_copy": "bound_source_inputs/A01_BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+            "actual_ROOT_adequate_receiving": "880b4b75–132/8e880c133–177EOF; current E826 complete substantive meanings at declared scope, not whole original primary.",
+            "adequate_argument_ranges": [
+              [
+                75,
+                177
+              ]
+            ],
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_826/BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md"
+          },
+          {
+            "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+            "bytes": 31969,
+            "lines": 188,
+            "sha256": "ff1752082d3d7c96246c8c169967045cb4e20204c07ea4019eced928aaed906e",
+            "source_id": "A02",
+            "C_bound_copy": "bound_source_inputs/A02_BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+            "actual_ROOT_adequate_receiving": "39cc6e1–95/c3d86f96–188EOF; complete small GROUP340 argument, no new original primary/raw/QA/performance.",
+            "adequate_argument_ranges": [
+              [
+                1,
+                188
+              ]
+            ],
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md"
+          },
+          {
+            "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+            "bytes": 82988,
+            "lines": 560,
+            "sha256": "785146763dabcffa26ebd55d9e87b0d55bb3dc8d5bc2b173b548b461b6b49ba0",
+            "source_id": "A03",
+            "C_bound_copy": "bound_source_inputs/A03_BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+            "actual_ROOT_adequate_receiving": "866714 current142–178/a0fc0b341–397; prior ROOT Mina/Reijo adequate private scopes qualified with current Cycle008. No whole560 credit.",
+            "adequate_argument_ranges": [
+              [
+                142,
+                178
+              ],
+              [
+                241,
+                258
+              ],
+              [
+                295,
+                301
+              ],
+              [
+                341,
+                397
+              ]
+            ],
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+            "bytes": 39304,
+            "lines": 174,
+            "sha256": "67bce3f4829dd1dd22d75e32b3320d4feb2d551e068fb75e38c8e600ba343da4",
+            "source_id": "A04",
+            "C_bound_copy": "bound_source_inputs/A04_BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+            "actual_ROOT_adequate_receiving": "ROOT whole6c1d7a/d97189/b461c5 and accepted106; complete bounded character argument, not a relationship proxy or original-primary replay.",
+            "adequate_argument_ranges": [
+              [
+                1,
+                174
+              ]
+            ],
+            "accepted_character_ROOT_receipt": {
+              "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_MINA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+              "bytes": 5697,
+              "lines": 82,
+              "sha256": "e494d5ddfe24ed83b17774daa619e230f69f303e66cf95b2c23a68cd91f2974d"
+            }
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+            "bytes": 37725,
+            "lines": 176,
+            "sha256": "97d8d5f4ade516513c5794125cc280eef09ff033cc4daa4fee46e25f8e7241fc",
+            "source_id": "A05",
+            "C_bound_copy": "bound_source_inputs/A05_BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+            "actual_ROOT_adequate_receiving": "ROOT prior whole176 and accepted102; complete bounded character argument, not a relationship proxy or new original-primary credit.",
+            "adequate_argument_ranges": [
+              [
+                1,
+                176
+              ]
+            ],
+            "accepted_character_ROOT_receipt": {
+              "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_REIJO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+              "bytes": 5371,
+              "lines": 71,
+              "sha256": "d5d8c28abdd1adfe8683598bdc3c7a1dcc7cae385b8d2dd15487ddef969f5775"
+            }
+          }
+        ],
+        "all_reference_only_and_metadata_joins": "Explicitly bounded; no original primary/new independence/ROOT acceptance/count credit",
+        "required_home": "P3-REL-MINA-REIJO",
+        "separate_critical_receiving": "PENDING"
+      },
+      "historical_scope": "Complete original author payload, including dated pending and unsealed-history fields; separate current ROOT receipt governs authority."
+    },
+    {
+      "name": "MINA_REIJO_POSITIVE_EXISTING_HOME_AND_SOURCE_ALLOCATION_V1.json",
+      "original_exact_tuple": {
+        "path": "MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_POSITIVE_EXISTING_HOME_AND_SOURCE_ALLOCATION_V1.json",
+        "bytes": 13972,
+        "sha256": "b8050b198ee7ff1fb2fdc04e65a18cb3f907c5a61c2d3d5188ffdc6e2c3c6486",
+        "git_blob_oid_of_actual_bytes": "de868f79d50b9ca8647a07cac7837ee7543e54a3",
+        "immutable_transport_path": "immutable_originals/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_POSITIVE_EXISTING_HOME_AND_SOURCE_ALLOCATION_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "BLUE_ARCHIVE_ROOT_MINA_REIJO_POSITIVE_EXISTING_HOME_AND_SOURCE_ALLOCATION_V1",
+        "created_UTC": "2026-10-10T20:43:33.594287+00:00",
+        "decision": "ALLOCATE_EXISTING_DIRECTED_RELATIONSHIP_FOR_ROOT_C_ONLY_AUTHORSHIP_SEPARATE_PEER_REVIEW_REQUIRED",
+        "home": "P3-REL-MINA-REIJO",
+        "required_beforeimage": {
+          "required_package_id": "P3-REL-MINA-REIJO",
+          "kind": "DIRECTED_RELATIONSHIP",
+          "subject_or_question": "P3-REL-MINA-REIJO",
+          "source_responsibility_refs": "HYS::significant_responsibilities::12",
+          "mandatory_named_section_ids": "",
+          "scope_acceptance": "ROOT_ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+          "literary_acceptance": "PENDING_FULL_LITERARY_ARGUMENT_AND_ROOT_RECEIVING",
+          "canonical_path": "",
+          "persistence_state": "UNACCEPTED",
+          "remote_publication": "NOT_YET_PUBLISHED",
+          "main_integration": "NOT_YET_INTEGRATED",
+          "completed_after_ROOT_install": "false",
+          "required_count": "1"
+        },
+        "partition_beforeimage": {
+          "home_key": "P3-REL-MINA-REIJO",
+          "kind": "DIRECTED_RELATIONSHIP",
+          "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+          "source_responsibility_refs": [
+            "HYS::significant_responsibilities::12"
+          ],
+          "literary_rationale": [
+            "Full required semantic question named by original cohort argument and allocation prose, distinct actors/recipients/contrary evidence preserved"
+          ],
+          "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+          "counts_as_completed": false,
+          "proposed_denominator_entry": true
+        },
+        "source_responsibility": "HYS::significant_responsibilities::12",
+        "original_hys12_argument": {
+          "argument_section": "§3.12",
+          "responsibility": "Mina↔Reijo/Kaguya craft rivalry and the named unjoined critics",
+          "whole_argument": "The Mina/Reijo investigation has different cinematic ideals, challenged premature certainty, effective joint action, a deferred insufficient apology and ongoing disagreement. GROUP340's Reijo/Kaguya rivalry is a separate craft/recognition argument: projection of one movement into different expertise, actual respect, refused membership and an imposed purpose that frightens children. Kaguya is a source-local named person, not a generic opera role or inferred typed family. Her actual840 title refusal, retained remonstrance and bodily cost require an independent eligibility question after complete839/other public owner receiving. Sparse or unjoined metadata must not erase this substantial person. The final home may combine the craft argument institutionally while retaining the named Kaguya responsibility.",
+          "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+          "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+        },
+        "original_roster_metadata_tuple": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/CENSUS_HYAKKIYAKO_SHANHAIJING/HYAKKIYAKO_SHANHAIJING_PUBLIC_ROLE_ALLOCATIONS.json",
+          "bytes": 881298,
+          "lines": 1,
+          "sha256": "2a74063b808e522ae289e996e72e1068bf1536d4ff2bf46446aee36e6846c4d4"
+        },
+        "current_source_commit": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+        "merged_main_comparand": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+        "architecture_scope": "810838 complete343–368; architecture7.2 significant directed relationship is positively allocated by existing scope;11 substantive dimensions are organizing extension, not new architecture mandate.",
+        "control_bindings": [
+          {
+            "path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+            "bytes": 52261,
+            "lines": 851,
+            "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+            "source_id": "C01",
+            "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+            "C_bound_copy": "bound_control_inputs/C01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md"
+          },
+          {
+            "path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+            "bytes": 53414,
+            "lines": 840,
+            "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+            "source_id": "C02",
+            "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+            "C_bound_copy": "bound_control_inputs/C02_BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md"
+          },
+          {
+            "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md",
+            "bytes": 52723,
+            "lines": 275,
+            "sha256": "6a0ca0819b1cdf44d878308f5a06a68f6e44bffb7d374ee1c15a3a75a393d89e",
+            "source_id": "C03",
+            "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md",
+            "C_bound_copy": "bound_control_inputs/C03_BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md"
+          },
+          {
+            "path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+            "bytes": 79178,
+            "lines": 354,
+            "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+            "source_id": "C04",
+            "repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+            "C_bound_copy": "bound_control_inputs/C04_BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md"
+          },
+          {
+            "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+            "bytes": 461112,
+            "lines": 6514,
+            "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+            "source_id": "C05",
+            "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+            "C_bound_copy": "bound_control_inputs/C05_BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json"
+          },
+          {
+            "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+            "bytes": 101490,
+            "lines": 356,
+            "sha256": "58a0e1a40b90df7cacd2be367ff70861d6a0f1428c210a5397c30d0529a7b2d6",
+            "source_id": "C06",
+            "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+            "C_bound_copy": "bound_control_inputs/C06_BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv"
+          }
+        ],
+        "adequate_source_bindings": [
+          {
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_826/BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 32334,
+            "lines": 177,
+            "sha256": "287c1549225c6c17cb398c686b87f23cc7c062a8e7dabfa4c0bcd67f9ff5361b",
+            "source_id": "A01",
+            "C_bound_copy": "bound_source_inputs/A01_BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+            "actual_ROOT_adequate_receiving": "880b4b75–132/8e880c133–177EOF; current E826 complete substantive meanings at declared scope, not whole original primary.",
+            "adequate_argument_ranges": [
+              [
+                75,
+                177
+              ]
+            ],
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_826/BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md"
+          },
+          {
+            "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+            "bytes": 31969,
+            "lines": 188,
+            "sha256": "ff1752082d3d7c96246c8c169967045cb4e20204c07ea4019eced928aaed906e",
+            "source_id": "A02",
+            "C_bound_copy": "bound_source_inputs/A02_BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+            "actual_ROOT_adequate_receiving": "39cc6e1–95/c3d86f96–188EOF; complete small GROUP340 argument, no new original primary/raw/QA/performance.",
+            "adequate_argument_ranges": [
+              [
+                1,
+                188
+              ]
+            ],
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md"
+          },
+          {
+            "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+            "bytes": 82988,
+            "lines": 560,
+            "sha256": "785146763dabcffa26ebd55d9e87b0d55bb3dc8d5bc2b173b548b461b6b49ba0",
+            "source_id": "A03",
+            "C_bound_copy": "bound_source_inputs/A03_BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+            "actual_ROOT_adequate_receiving": "866714 current142–178/a0fc0b341–397; prior ROOT Mina/Reijo adequate private scopes qualified with current Cycle008. No whole560 credit.",
+            "adequate_argument_ranges": [
+              [
+                142,
+                178
+              ],
+              [
+                241,
+                258
+              ],
+              [
+                295,
+                301
+              ],
+              [
+                341,
+                397
+              ]
+            ],
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+            "bytes": 39304,
+            "lines": 174,
+            "sha256": "67bce3f4829dd1dd22d75e32b3320d4feb2d551e068fb75e38c8e600ba343da4",
+            "source_id": "A04",
+            "C_bound_copy": "bound_source_inputs/A04_BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+            "actual_ROOT_adequate_receiving": "ROOT whole6c1d7a/d97189/b461c5 and accepted106; complete bounded character argument, not a relationship proxy or original-primary replay.",
+            "adequate_argument_ranges": [
+              [
+                1,
+                174
+              ]
+            ],
+            "accepted_character_ROOT_receipt": {
+              "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_MINA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+              "bytes": 5697,
+              "lines": 82,
+              "sha256": "e494d5ddfe24ed83b17774daa619e230f69f303e66cf95b2c23a68cd91f2974d"
+            }
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+            "bytes": 37725,
+            "lines": 176,
+            "sha256": "97d8d5f4ade516513c5794125cc280eef09ff033cc4daa4fee46e25f8e7241fc",
+            "source_id": "A05",
+            "C_bound_copy": "bound_source_inputs/A05_BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+            "actual_ROOT_adequate_receiving": "ROOT prior whole176 and accepted102; complete bounded character argument, not a relationship proxy or new original-primary credit.",
+            "adequate_argument_ranges": [
+              [
+                1,
+                176
+              ]
+            ],
+            "accepted_character_ROOT_receipt": {
+              "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_REIJO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+              "bytes": 5371,
+              "lines": 71,
+              "sha256": "d5d8c28abdd1adfe8683598bdc3c7a1dcc7cae385b8d2dd15487ddef969f5775"
+            }
+          }
+        ],
+        "nonoverlap": "ROOT owns this separate relationship; Meihua author explicitly confirmed separate duty. Shun author retains Shun/10144; reconciliation author retains Pandemonium then fixed102–108 canonical proposal. Separate Reijo–Kaguya and institutional/ensemble homes remain required.",
+        "author_plan": [
+          "Two directed sides, film pleasures, mistaken inquiry, challenged accusation and practical joint action; prevent traits from becoming universal causal mechanisms.",
+          "Different apologies and owed repair: Mina defers; Reijo objects; Kisaki later performs official apology; neither invented Mina apology nor universal factional cure.",
+          "Kokona/Shun and other independently answering recipients remain consequential; exact actor drift constrains individual speech claims.",
+          "Whole GROUP morning is comparison only; Reijo/Kaguya craft dispute stays a separate home, and Mina loyalty to Kisaki is not automatically Mina/Reijo friendship.",
+          "Preserve positive capture, local help, actual banquet and wanted ordinary interests alongside conflict, imposed duties and unprinted repair.",
+          "Save whole bounded body, exact paragraph/source joins, endpoints, serious rivals, all14 OPEN effects, no selfacceptance or denominator change; separate critical reader must receive the complete frozen package."
+        ],
+        "mandatory_named_duties": [],
+        "scope": "355packages/29named/25parents/384homes unchanged",
+        "ROOTaccepted_packages": 108,
+        "new_primary_native_raw_QA_AV_model_identity_credit": 0,
+        "repository_Git_provider_writes": false,
+        "UNBOUND9": "UNREAD_UNHASHED",
+        "untracked39": "UNREAD_UNHASHED_STAT_ONLY",
+        "full_goal": "ACTIVE_INCOMPLETE"
+      },
+      "historical_scope": "Complete original author payload, including dated pending and unsealed-history fields; separate current ROOT receipt governs authority."
+    },
+    {
+      "name": "MINA_REIJO_SAVED_OUTPUT_RECEIPT_V1.json",
+      "original_exact_tuple": {
+        "path": "MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_SAVED_OUTPUT_RECEIPT_V1.json",
+        "bytes": 1601,
+        "sha256": "8a70ec73f127309522a302a091f6a43f5e337295a09ed97c2f60cedb165158bc",
+        "git_blob_oid_of_actual_bytes": "d731eb25304cc983397d390390df91f2b49fe94a",
+        "immutable_transport_path": "immutable_originals/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_SAVED_OUTPUT_RECEIPT_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "BLUE_ARCHIVE_MINA_REIJO_SAVED_OUTPUT_RECEIPT_V1",
+        "whole_actual_body_receiving": "49b65a1–80/2e8c4a81–124EOF; no subsequent body edit",
+        "candidate": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_MINA_REIJO_RELATIONSHIP_SYNTHESIS.md",
+          "bytes": 22320,
+          "lines": 124,
+          "sha256": "fbbcb711c7e9b7bdb5a4d5be1e441e714c75e48a32cce3d88dccd3a8349e9fa9"
+        },
+        "source_receipt": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "bytes": 17595,
+          "lines": 273,
+          "sha256": "7b628b47373d80230486680f4dc714131850bf9d5ce0b7b0afe5db77836b6c88"
+        },
+        "claim_register": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "bytes": 75330,
+          "lines": 1152,
+          "sha256": "eb7c5c92d7c59c60452cd13cb2f5f117aa393a20ea52f91e762c7973897778bb"
+        },
+        "source_input_scope": "Fiveadequateanalytical bindings/sixcurrentcontrols; independent original producer credit not transferred.",
+        "dimensions": 11,
+        "serious_rivals": 7,
+        "endpoint_cases": 7,
+        "original_OPEN_gap_effects": 14,
+        "acceptance_and_count": "PENDING_SEPARATE_CRITICAL_REVIEW_AND_ROOT_ADJUDICATION_NO_SELF_CREDIT"
+      },
+      "historical_scope": "Complete original author payload, including dated pending and unsealed-history fields; separate current ROOT receipt governs authority."
+    },
+    {
+      "name": "SEPARATE_PEER/MINA_REIJO_INDEPENDENT_CRITICAL_RECEIVING_RECEIPT_V1.json",
+      "original_exact_tuple": {
+        "path": "MINA_REIJO_PEER_CRITICAL_REVIEW_V1/MINA_REIJO_INDEPENDENT_CRITICAL_RECEIVING_RECEIPT_V1.json",
+        "bytes": 20386,
+        "sha256": "77033da7bd00fa48b55d7388a686f1acf99540d4bb414a743ea9225b4123651f",
+        "git_blob_oid_of_actual_bytes": "3385739e5d9c337ef3812f5508db7f55798844f5",
+        "immutable_transport_path": "immutable_originals/MINA_REIJO_PEER_CRITICAL_REVIEW_V1/MINA_REIJO_INDEPENDENT_CRITICAL_RECEIVING_RECEIPT_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "BLUE_ARCHIVE_MINA_REIJO_INDEPENDENT_CRITICAL_REVIEW_V1",
+        "created_UTC": "2026-10-10T20:58:53.560052+00:00",
+        "reviewer": "/root/phase3_toki_monograph",
+        "author": "/root",
+        "verdict": "SUBSTANTIVELY_ADEQUATE_COMPLETE_BOUNDARY_WITH_LIMITS_RECOMMEND_ROOT_ADJUDICATION",
+        "mandatory_corrections": [],
+        "independence": "Different agent; first candidate reception, prior authored Mina/Reijo and exposed adequate analytical sources; not blind, no new primary credit.",
+        "review": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_PEER_CRITICAL_REVIEW_V1/MINA_REIJO_INDEPENDENT_CRITICAL_REVIEW_V1.md",
+          "bytes": 9827,
+          "lines": 47,
+          "sha256": "46d08bc6b020782ef66bcad441a8a76695c2af75fd322cbe5851c1e6b4055736"
+        },
+        "candidate": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_MINA_REIJO_RELATIONSHIP_SYNTHESIS.md",
+          "bytes": 22320,
+          "lines": 124,
+          "sha256": "fbbcb711c7e9b7bdb5a4d5be1e441e714c75e48a32cce3d88dccd3a8349e9fa9"
+        },
+        "existing_home": "P3-REL-MINA-REIJO",
+        "source_responsibility": "HYS::significant_responsibilities::12",
+        "mandatory_named_duties": [],
+        "source_scopes": {
+          "A01": {
+            "fresh_ranges": [
+              [
+                75,
+                125
+              ],
+              [
+                126,
+                177
+              ]
+            ],
+            "actual_readbacks": [
+              "59efed",
+              "bd8fa6"
+            ],
+            "whole_original_primary": false
+          },
+          "A02": {
+            "fresh_ranges": [
+              [
+                67,
+                87
+              ],
+              [
+                105,
+                162
+              ]
+            ],
+            "actual_readback": "7565ad",
+            "reuse": "prior personal whole adequate argument unchanged; no new whole primary"
+          },
+          "A03": {
+            "fresh_ranges": [
+              [
+                142,
+                144
+              ],
+              [
+                241,
+                258
+              ],
+              [
+                295,
+                301
+              ],
+              [
+                341,
+                347
+              ]
+            ],
+            "actual_readback": "7565ad",
+            "whole560_received": false
+          },
+          "A04_A05": {
+            "reuse": "reviewer authored and actually received complete bounded Mina174/Reijo176 arguments; copied tuple equality verified; no fresh blind/primary credit"
+          }
+        },
+        "controls": {
+          "fresh_actual_readback": "ad9c0f",
+          "C01_ranges": [
+            [
+              343,
+              368
+            ]
+          ],
+          "C04_ranges": [
+            [
+              15,
+              45
+            ],
+            [
+              335,
+              354
+            ]
+          ],
+          "C05_C06": "only exact existing P3-REL-MINA-REIJO allocation rows; full small-file hash equality is not whole prose reading",
+          "C02_C03": "prior adequate same-byte method/crosswalk authority reused, no fresh whole reading"
+        },
+        "companion_meanings": {
+          "allocation_source_saved": "0b06f4 complete meaningful fields",
+          "claim_rivals_endpoints_gaps_sources": "bd8fa6",
+          "saved_register": "77 projections verified against previously personally received whole body; not whole1152 serialization reception"
+        },
+        "endpoint_review": [
+          {
+            "endpoint_id": "MR-E01",
+            "question": "Premature certainty and challenge",
+            "adequate_source_id": "A01",
+            "received_analytical_line_range": [
+              105,
+              109
+            ],
+            "full_achieved_and_unresolved_argument": "Mina asserts guilt and institutional certainty; Reijo challenges it. Actual confrontation and Mina defeat follow. Neither opposite conspiracy theory nor later capture validates their initial reasoning."
+          },
+          {
+            "endpoint_id": "MR-E02",
+            "question": "Distributed inquiry",
+            "adequate_source_id": "A01",
+            "received_analytical_line_range": [
+              107,
+              117
+            ],
+            "full_achieved_and_unresolved_argument": "Rumi supplies the exemption hypothesis; the adult proposes the trap; ordinary carrots expose collaborators. Different agents contribute without cinematic-method validation."
+          },
+          {
+            "endpoint_id": "MR-E03",
+            "question": "Secretly involved recipient",
+            "adequate_source_id": "A01",
+            "received_analytical_line_range": [
+              113,
+              117
+            ],
+            "full_achieved_and_unresolved_argument": "Both factions object to child exploitation. Rumi/Reijo acknowledge secretly using Kokona; promised apologies to Kokona/Shun are not printed as performed."
+          },
+          {
+            "endpoint_id": "MR-E04",
+            "question": "Captured conduit",
+            "adequate_source_id": "A01",
+            "received_analytical_line_range": [
+              129,
+              137
+            ],
+            "full_achieved_and_unresolved_argument": "The joint team confronts collaborators and suppression is reported. Saya independently intervenes; Kai reported experiments and future plans do not become verified results or a completed larger investigation."
+          },
+          {
+            "endpoint_id": "MR-E05",
+            "question": "Insufficient apology",
+            "adequate_source_id": "A01",
+            "received_analytical_line_range": [
+              135,
+              135
+            ],
+            "full_achieved_and_unresolved_argument": "Mina concedes mistaken guilt decision but defers institutional apology; Reijo says it is insufficient. Effective capture coexists with this disagreement."
+          },
+          {
+            "endpoint_id": "MR-E06",
+            "question": "Different official and personal responses",
+            "adequate_source_id": "A01",
+            "received_analytical_line_range": [
+              139,
+              149
+            ],
+            "full_achieved_and_unresolved_argument": "Kisaki actually performs official apology. Mina minimizes and Reijo remains dissatisfied while respecting Rumi for today. Actual banquet occurs; problems and other owed repair remain open."
+          },
+          {
+            "endpoint_id": "MR-E07",
+            "question": "Ordinary comparison preserves distinct ties",
+            "adequate_source_id": "A02",
+            "received_analytical_line_range": [
+              67,
+              129
+            ],
+            "full_achieved_and_unresolved_argument": "GROUP340 supports independent craft interests, refusal of membership, Mina’s named loyalty and a collective exercise start. Principal Reijo–Kaguya dispute remains its own home; no extra pair intimacy or permanent harmony follows."
+          }
+        ],
+        "gap_review": [
+          {
+            "gap_id": "G01",
+            "original_literal_name": "Ordinary and private breadth",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Film, food, rest, craft and desired recognition broaden the pair's context; unprinted shared private encounters and other cast duties remain separate.",
+            "saved_line": 109,
+            "sha256": "ddb75a28ee5493d8efaa0942703b96be66c589d8653defa90b4880b757f10b40"
+          },
+          {
+            "gap_id": "G02",
+            "original_literal_name": "Yuuka council/club decision transfer",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Different obligations and negotiated repair offer comparison; no Yuuka decision or institutional transfer is established.",
+            "saved_line": 110,
+            "sha256": "b72cd46dade4aa170cbb05bf00cbd1bc43cf39cd1f08e65d5f8a5c21b8d7ae05"
+          },
+          {
+            "gap_id": "G03",
+            "original_literal_name": "Serika service, peer and reciprocity range",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Work, taste and owed repair are comparative questions; Serika's own service and recipient evidence remain required.",
+            "saved_line": 111,
+            "sha256": "d4320dab0c88ea01818754648c01db08cecab4af1f62e7cc88bc30a638942809"
+          },
+          {
+            "gap_id": "G04",
+            "original_literal_name": "Hina crisis causality, accountability and ordinary contrast",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Joint capture versus incomplete apology adds a bounded contrast; Hina-specific causal and accountability duties remain separate.",
+            "saved_line": 112,
+            "sha256": "a0759c437a4cdf35c0fd9115a73bae3ec5856b60eb14bb5b4b0cdf5f7f51448a"
+          },
+          {
+            "gap_id": "G05",
+            "original_literal_name": "Arius and PS68 ordinary/aftermath transfer",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Positive local cooperation with unfinished aftermath permits comparison, without importing those actors or their outcomes.",
+            "saved_line": 113,
+            "sha256": "49edbc91646ad5590f37854517a5c306d25428240b7facbb8b829ac45338e52d"
+          },
+          {
+            "gap_id": "G06",
+            "original_literal_name": "Cross-school ordinary repertoire",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Different film ideals, food reactions and craft invitations add school-local ordinary breadth; other schools' evidence is not supplied.",
+            "saved_line": 114,
+            "sha256": "693c778afa157a1488773ebfd600ab1e1a9877c62a6c601a562f6aebeeae4502"
+          },
+          {
+            "gap_id": "G07",
+            "original_literal_name": "Story-world chronology",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "EVENT826 has a local investigation-to-banquet sequence; private/GROUP/world-calendar positions remain unestablished.",
+            "saved_line": 115,
+            "sha256": "ac3fe945106ba0a2e803b7d4222b6a40aa5c52adaf0422211d75d9e98cbab6c5"
+          },
+          {
+            "gap_id": "G08",
+            "original_literal_name": "Event naming and repeat contexts",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Exact826 and GROUP340 IDs remain distinct; naming, variants and replay metadata do not create repeated encounters.",
+            "saved_line": 116,
+            "sha256": "382017be6af5e06e4be305571ba465055c6e5c41de9f34ef8995515b645c828b"
+          },
+          {
+            "gap_id": "G09",
+            "original_literal_name": "Written speaker/choice attribution",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Maintained contextual-function qualifiers, actor seams, inward modes and alternatives remain; no new raw actor repair or audible prompt is claimed.",
+            "saved_line": 117,
+            "sha256": "99a084788a860fbd24775d6deb98b68064a8d1717e42d4388d09dbaef28b760d"
+          },
+          {
+            "gap_id": "G10",
+            "original_literal_name": "Performed voice",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Written genre, objections and reception are analytical evidence; audio, acting, pitch and visual delivery remain unreceived.",
+            "saved_line": 118,
+            "sha256": "93ab0939e0844d36e0f6af2fa400925d6f53256ec90f95eef6cd6a00594133db"
+          },
+          {
+            "gap_id": "G11",
+            "original_literal_name": "Hoshino's Yume record and office states",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "No direct Yume/Hoshino record is added; institutional apology vocabulary does not replace that duty.",
+            "saved_line": 119,
+            "sha256": "d5e3f217422e58fb0eeef5ab8fb0b164d56df06da328d6f1c9adc2bfb2d29fa6"
+          },
+          {
+            "gap_id": "G12",
+            "original_literal_name": "Counterpart, system and variant identity",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Named Mina/Reijo remain distinct from generic executives, other local roles and variants; stronger identity continuity needs its own warrant.",
+            "saved_line": 120,
+            "sha256": "26ed7d73116f4b099f997bbf3ac3af6dbf3294f5cf18971e6eacc70afc971e50"
+          },
+          {
+            "gap_id": "G13",
+            "original_literal_name": "Office, contract, safety and technical outcomes",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "Capture, admission of error and official apology have different endpoints; punishment, payment, informed agreement, durable reform and experimental results remain unprinted.",
+            "saved_line": 121,
+            "sha256": "358abff2bf17beceb857af947d0df0f34aa4919f3ede40cfd44c8d64c959ff5d"
+          },
+          {
+            "gap_id": "G14",
+            "original_literal_name": "Unclassified/mode continuity",
+            "status": "OPEN",
+            "relationship_contribution_and_remaining_warrant": "No new unclassified source or cross-mode continuity is admitted; conditional, inward and reported meanings retain their owners.",
+            "saved_line": 122,
+            "sha256": "f7bfb7f2e5fe8f634082ec2e3deb665726819f8809b63a9a6b639c12533bbb7c"
+          }
+        ],
+        "finite_exact_checks": {
+          "bound_source_controls": 11,
+          "sealed_outputs": 5,
+          "author_seal": 1,
+          "total_physical_preserved_inputs": 17,
+          "saved_nonempty_exact_joins": 77,
+          "rival_exact_joins": 7,
+          "gap_exact_joins": 14,
+          "endpoint_cases": 7,
+          "actual_tool": "bd8e1d",
+          "PASS": true
+        },
+        "preserved_input_bindings": [
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_MINA_REIJO_RELATIONSHIP_SYNTHESIS.md",
+            "bytes": 22320,
+            "lines": 124,
+            "sha256": "fbbcb711c7e9b7bdb5a4d5be1e441e714c75e48a32cce3d88dccd3a8349e9fa9"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+            "bytes": 17595,
+            "lines": 273,
+            "sha256": "7b628b47373d80230486680f4dc714131850bf9d5ce0b7b0afe5db77836b6c88"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+            "bytes": 75330,
+            "lines": 1152,
+            "sha256": "eb7c5c92d7c59c60452cd13cb2f5f117aa393a20ea52f91e762c7973897778bb"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_SAVED_OUTPUT_RECEIPT_V1.json",
+            "bytes": 1601,
+            "lines": 28,
+            "sha256": "8a70ec73f127309522a302a091f6a43f5e337295a09ed97c2f60cedb165158bc"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_POSITIVE_EXISTING_HOME_AND_SOURCE_ALLOCATION_V1.json",
+            "bytes": 13972,
+            "lines": 229,
+            "sha256": "b8050b198ee7ff1fb2fdc04e65a18cb3f907c5a61c2d3d5188ffdc6e2c3c6486"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+            "bytes": 52261,
+            "lines": 851,
+            "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C02_BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+            "bytes": 53414,
+            "lines": 840,
+            "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C03_BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md",
+            "bytes": 52723,
+            "lines": 275,
+            "sha256": "6a0ca0819b1cdf44d878308f5a06a68f6e44bffb7d374ee1c15a3a75a393d89e"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C04_BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+            "bytes": 79178,
+            "lines": 354,
+            "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C05_BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+            "bytes": 461112,
+            "lines": 6514,
+            "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C06_BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+            "bytes": 101490,
+            "lines": 356,
+            "sha256": "58a0e1a40b90df7cacd2be367ff70861d6a0f1428c210a5397c30d0529a7b2d6"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A01_BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 32334,
+            "lines": 177,
+            "sha256": "287c1549225c6c17cb398c686b87f23cc7c062a8e7dabfa4c0bcd67f9ff5361b"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A02_BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+            "bytes": 31969,
+            "lines": 188,
+            "sha256": "ff1752082d3d7c96246c8c169967045cb4e20204c07ea4019eced928aaed906e"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A03_BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+            "bytes": 82988,
+            "lines": 560,
+            "sha256": "785146763dabcffa26ebd55d9e87b0d55bb3dc8d5bc2b173b548b461b6b49ba0"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A04_BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+            "bytes": 39304,
+            "lines": 174,
+            "sha256": "67bce3f4829dd1dd22d75e32b3320d4feb2d551e068fb75e38c8e600ba343da4"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/A05_BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+            "bytes": 37725,
+            "lines": 176,
+            "sha256": "97d8d5f4ade516513c5794125cc280eef09ff033cc4daa4fee46e25f8e7241fc"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_DIRECTED_RELATIONSHIP_SYNTHESIS/MINA_REIJO_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+            "bytes": 7375,
+            "lines": 122,
+            "sha256": "8ac047578d4ad50d274260301e5a25a9dfea305588ab438837abcf97cba7b21b"
+          }
+        ],
+        "mandatory_derivative_preservation": [
+          "Mina admission/deferred apology versus Reijo insufficient-repair objection",
+          "Kisaki different achieved official apology and real banquet",
+          "Kokona/Shun unperformed apologies and childcare refusal",
+          "Rumi hypothesis, adult trap, Saya independent intervention, reported suppression",
+          "intrinsic film/rest/taste/craft/company and distinct private recipients",
+          "contextual actor/choice/inward/mode and chronology limits",
+          "separate uncompleted Reijo–Kaguya duty",
+          "all14 stable literal names OPEN"
+        ],
+        "stronger_claim_debt": "No mandatory new primary for actual bounded claims. Stronger exact disputed-turn attribution, shared private intimacy, durable reform, universal consent, technical/legal/payment outcomes need separate witnesses.",
+        "scope_unchanged": "355packages/29named/25parents/384homes",
+        "credit": {
+          "ROOT_acceptance": false,
+          "new_count": 0,
+          "new_named_duties": 0,
+          "new_primary_native_raw_QA_AV_model_identity": 0,
+          "repository_provider_operations": 0,
+          "UNBOUND9": "UNREAD_UNHASHED",
+          "phase2_work": "UNREAD_UNHASHED"
+        },
+        "review_saved_whole_readback": "PENDING_NEW_SAVED_REVIEW_READBACK_BEFORE_FREEZE"
+      },
+      "historical_scope": "Disclosed separate complete critical receiving. Final peer seal supersedes dated pending readback in earlier receipt, as ROOT adjudication states."
+    },
+    {
+      "name": "SEPARATE_PEER/MINA_REIJO_INDEPENDENT_CRITICAL_REVIEW_V1.md",
+      "original_exact_tuple": {
+        "path": "MINA_REIJO_PEER_CRITICAL_REVIEW_V1/MINA_REIJO_INDEPENDENT_CRITICAL_REVIEW_V1.md",
+        "bytes": 9827,
+        "sha256": "46d08bc6b020782ef66bcad441a8a76695c2af75fd322cbe5851c1e6b4055736",
+        "git_blob_oid_of_actual_bytes": "772fcffc998bff35477d3ea1531a9023962c312d",
+        "immutable_transport_path": "immutable_originals/MINA_REIJO_PEER_CRITICAL_REVIEW_V1/MINA_REIJO_INDEPENDENT_CRITICAL_REVIEW_V1.md"
+      },
+      "complete_original_payload": "# Mina–Reijo: independent bounded critical receiving V1\n\n**Verdict:** substantively adequate complete directed relationship argument WITH LIMITS; no mandatory literary correction identified. This is a peer recommendation to ROOT, not ROOT acceptance, repository persistence, a count change or completion of other homes.\n\n**Reviewed candidate:** `P3-REL-MINA-REIJO`, HYS::significant_responsibilities::12, 22,320 bytes / 124 lines, SHA256 `fbbcb711c7e9b7bdb5a4d5be1e441e714c75e48a32cce3d88dccd3a8349e9fa9`. Whole saved body through EOF personally received in `2bdeb8`. Its eleven dimensions and seven rivals are arguments with evidence and adverse cases. The frozen allocation and exact C05/C06 rows establish one existing directed parent with no mandatory named duties. Reijo–Kaguya remains a separate uncompleted responsibility; no child or institutional package is supplied by this review.\n\n## 1. Independence and source boundary\n\nThe reviewer is a different agent from ROOT, who authored this candidate. This is the reviewer's first whole reception of this candidate, not a blind review: the reviewer previously authored the bounded Mina and Reijo character arguments and personally received adequate public/private analytical meanings. Those exposures are disclosed, not turned into new primary reading. Fresh consequential checks use the immutable bound analytical copies, not the Japanese canonical stories, raw database, performed audio or a presumed identity repair.\n\nThe actual fresh source scope is A01 substantive lines75–177 (`59efed` and `bd8fa6`); A02 lines67–87 and105–162 (`7565ad`); A03 current adoption142–144, complete Mina241–258 and Reijo295–301 meanings, and regional comparison341–347 (`7565ad`). Prior personally complete A02 and complete reviewer-authored A04/A05 are reused only at their actual unchanged argument scopes. No whole560-line A03 reception is asserted. Architecture7.2/7.3 lines343–368, original/current gap definitions15–45/335–354 and exact frozen index/partition rows were received in `ad9c0f`. The identical already received method/crosswalk controls remain authority, without a fresh whole-policy reading claim.\n\nThe allocation229 and source receipt273 meaningful fields were personally received in `0b06f4`; the saved-output28 meanings were received there. Seven rivals, seven endpoint cases, fourteen gap effects and source-scope meanings were received in `bd8fa6`. All77 saved nonempty projections were compared exactly to the personally received body in `bd8e1d`. Parsing or binding the 1,152-line register does not mean every serialization line was displayed and read. ROOT's author readback is distinct from this peer receiving.\n\n## 2. Thesis and each direction\n\nThe central argument is supported: successful shared action changes the pair's practical relation without making culpability, self-understanding or owed repair identical. A01 105–109 explicitly differentiates Mina's withheld orders, unsupported return-to-site inference, confrontation and defeat from Reijo's warning, then also qualifies Reijo's inverse conspiracy hypothesis. The candidate resists both a permanently impossible feud and a superior, wholly neutral Reijo. Mina is allowed useful participation without vindicating the initial inference; Reijo is allowed a justified repair demand without erasing her own involvement and institutional attachments.\n\nA01 131–143 establishes the critical asymmetry. Joint confrontation and reported suppression are positive local outcomes. Mina concedes the mistaken guilt decision but defers institutional apology; Reijo says that is insufficient. Kisaki's later actual formal apology is a different act. Mina's minimization and Reijo's dissatisfaction persist while Reijo respects Rumi's decision for today. The candidate therefore makes neither solved case nor banquet a substitute for pair reconciliation. This distinction is a sustained relational thesis, not a recap of separate character traits.\n\n## 3. Ordinary value and relevant comparison\n\nThe film argument earns its place independently of the investigation's stakes. A01 107 expressly affirms Mina's hardboiled taste beside the failed dramatic quotation. A03 245–257 supplies chosen style, embarrassing failure, actual rainy pleasure and bodily aftermath, children's preferences, uncertain tea expertise and wanted name/company. A03 299–301 gives Reijo voluntary rest, genre pleasure, retained logistics responsibility, adverse audit encounters and desired protection with adult hesitation. The candidate correctly uses these as each person's breadth; it does not infer shared viewing, reciprocal private intimacy, romance or a single dated private development ladder.\n\nA02 79–87 and105–129 supports Reijo's wanted craft companionship, refusal of club membership because of work, and Mina's differently directed loyalty. The candidate keeps the morning's Reijo–Kaguya dispute separate from this pair and does not treat coattendance as a new Mina–Reijo dyadic scene. Actual collective exercise begins, but neither lasting harmony nor the final hedged attendance trend is certified. Food has similarly distinct recipients: first taste and Saya's actual eating coexist with Reijo's private prototype dread. A prototype promise is not universal completed consumption.\n\n## 4. Recipients, methods and finite endings\n\nThe inquiry distributes agency accurately at adequate analytical scope: Rumi's exemption hypothesis, the adult's trap proposal, ordinary carrot shipment, joint confrontation and Saya's unexpected independent intervention. The candidate does not supply Mina sole trap authorship, omniscient teacher mediation or everyone seeing Kai's inward information. A01 113–117 makes the child's undisclosed involvement consequential: both factions object to exploitation, yet Rumi/Reijo acknowledge secretly using Kokona and apologies to her and Shun remain future. Reijo's insistence on repair for her side does not pay those other recipients' debt.\n\nAll seven endpoint cases survive this check. E01: challenged certainty and actual confrontation, without validated inference. E02: distributed inquiry and effective carrot ruse, without cinematic-method certification. E03: secret involvement and unperformed apologies. E04: captured conduit/reported suppression, without completed larger investigation or verified Kai experiment. E05: Mina's admission of error and insufficient deferred apology. E06: achieved official apology and actual banquet, with continuing disagreement, payment and reform unprinted. E07: distinct ordinary commitments and actual exercise start, with Reijo–Kaguya allocation and chronology preserved.\n\nA01 125 contradicts Kisaki's expectation that the adult's presence would prevent conflict; her desired expansion of Mina's outlook is not a measured educational result. A01 145–149 preserves the real banquet beside Kokona's childcare protest, Shun's shifted burden, future ice cream and the narrator's explicit continuing institutional problems. The candidate retains those independent recipient endings instead of declaring a universally successful protective team.\n\n## 5. Attribution, rivals, gaps and mandatory preservation\n\nWritten actor seams constrain exact single-turn person attribution. A01 109/115/141–147 and A02 133–162 positively warrant the candidate's contextual-function qualifiers; no hypothetical raw repair, spoken rendition of inward adult text, global generic executive join or institutional mind is asserted. Explicit Mina/Reijo names and current admitted private scopes supply the bounded people, not an outfit ladder or new registry identity.\n\nEach rival has real supporting evidence and a specific contrary endpoint: feud versus cooperation; solved case versus insufficient repair; neutral Reijo versus inverse conspiracy and trap; worthless genre versus independently valuable pleasure; sole adult authorship versus distributed contribution and cost; child protection versus secret use; total institutional motive versus wanted ordinary life. All fourteen stable original gap names are correctly retained OPEN, with contribution and remaining warrant particular to this relationship. The body does not make a global gap closure from local completeness.\n\n**Mandatory correction:** none for the bounded candidate. **Mandatory preservation in any later derivative:** retain the two different repair responses, actual capture and banquet, unperformed Kokona/Shun apology, independent Rumi/Saya contributions, ordinary tastes, contextual actor/choice/mode limits, source-local chronology, the separate Reijo–Kaguya duty and all fourteen OPEN dispositions. Stronger assertions of durable reform, shared private intimacy, universal consent, experimental results or exact disputed turns would require their own missing witnesses; they are not requirements created by this review.\n\n## 6. Exact verification and conclusion\n\nThe eleven bound control/source copies match the author's exact tuples. All five sealed outputs and the author seal remain unchanged:17 physical immutable inputs, all guarded below1MiB. Independent exact checks found77 nonempty saved projections,7 exact rival joins,14 exact gap joins and7 source-bounded endpoint cases; these are separate universes, not original-source counts. Scope355 packages/29 named duties/25 distinct parents is unchanged. No unbound large file, preserved Phase2 working file, primary/native/raw/QA/AV witness, provider or repository operation was used.\n\nThe candidate is adequate for ROOT's subsequent independent adoption decision at its declared textual boundary. Peer recommendation creates zero acceptance, publication, denominator, named-section or milestone credit. The reviewer's separate Shun attribution correction remains an independent unfinished task.\n",
+      "historical_scope": "Disclosed separate complete critical receiving. Final peer seal supersedes dated pending readback in earlier receipt, as ROOT adjudication states."
+    },
+    {
+      "name": "SEPARATE_PEER/MINA_REIJO_INDEPENDENT_PEER_REVIEW_FREEZE_V1.json",
+      "original_exact_tuple": {
+        "path": "MINA_REIJO_PEER_CRITICAL_REVIEW_V1/MINA_REIJO_INDEPENDENT_PEER_REVIEW_FREEZE_V1.json",
+        "bytes": 2288,
+        "sha256": "c08e9b39935c12a1c9b4afe1cfebc01bedb0fa85502b5583a557669641cefcc7",
+        "git_blob_oid_of_actual_bytes": "b143905985c7259af3109e258474e93c462cc0ff",
+        "immutable_transport_path": "immutable_originals/MINA_REIJO_PEER_CRITICAL_REVIEW_V1/MINA_REIJO_INDEPENDENT_PEER_REVIEW_FREEZE_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "BLUE_ARCHIVE_MINA_REIJO_INDEPENDENT_PEER_REVIEW_FREEZE_V1",
+        "frozen_UTC": "2026-10-10T20:59:17.976862+00:00",
+        "status": "INDEPENDENT_BOUNDED_PEER_RECOMMENDATION_COMPLETE_WITH_LIMITS_ROOT_ADJUDICATION_PENDING",
+        "verdict": "SUBSTANTIVELY_ADEQUATE_COMPLETE_BOUNDARY_WITH_LIMITS_RECOMMEND_ROOT_ADJUDICATION",
+        "mandatory_corrections": [],
+        "outputs": [
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_PEER_CRITICAL_REVIEW_V1/MINA_REIJO_INDEPENDENT_CRITICAL_REVIEW_V1.md",
+            "bytes": 9827,
+            "lines": 47,
+            "sha256": "46d08bc6b020782ef66bcad441a8a76695c2af75fd322cbe5851c1e6b4055736"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/MINA_REIJO_PEER_CRITICAL_REVIEW_V1/MINA_REIJO_INDEPENDENT_CRITICAL_RECEIVING_RECEIPT_V1.json",
+            "bytes": 20386,
+            "lines": 432,
+            "sha256": "77033da7bd00fa48b55d7388a686f1acf99540d4bb414a743ea9225b4123651f"
+          }
+        ],
+        "actual_complete_saved_review_readback": "ee8aed whole47 lines through EOF and complete selected receipt meanings; seven endpoints/fourteen gaps already personally received bd8fa6 and exact copied",
+        "dated_receipt_pending_field_qualification": "Receipt was saved before ee8aed readback; its PENDING_NEW_SAVED_REVIEW_READBACK_BEFORE_FREEZE field is superseded only by actual completed readback recorded here. No original candidate or author payload changed.",
+        "exact_preservation": "All17 original physical bound inputs still exact; five author outputs, eleven bound copies and author seal.",
+        "independence": "Different agent from ROOT; first candidate reception disclosed prior source/character exposures, not blind. No primary/native/raw/QA/AV/identity/operational credit.",
+        "completion_count_effect": 0,
+        "ROOT_acceptance": false,
+        "saved_JSON_reception_boundary": "Whole47-line review and semantic receipt fields received, not all432 serialized receipt lines. Exact binding is separate.",
+        "scope": "355packages/29named/25parents unchanged",
+        "separate_pending_task": "Shun V2 attribution correction and separate Shun–Kokona positive allocation remain outside this review."
+      },
+      "historical_scope": "Disclosed separate complete critical receiving. Final peer seal supersedes dated pending readback in earlier receipt, as ROOT adjudication states."
+    }
+  ],
+  "no_new_literary_or_source_credit": 0
+}
