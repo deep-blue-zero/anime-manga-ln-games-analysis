@@ -1,0 +1,2158 @@
+{
+  "schema": "BLUE_ARCHIVE_MOMIJI_FULL_REVERSIBLE_SAVED_TRANSPORT_V1",
+  "status": "C_ONLY_PROPOSED_CANONICAL_DERIVATIVE_ROOT_REVIEW_INSTALLATION_PENDING",
+  "full_frozen_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MOMIJI_CHARACTER_MONOGRAPH.md",
+      "bytes": 39210,
+      "sha256": "721310746653bb6c5c5faf91fa8dda615187c5d4c1d4eaefb2946755eb988c9b",
+      "git_blob_oid_of_actual_bytes": "4d586d38e2a23891c4e47cc293f49f5739b84e56",
+      "lines": 161,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MOMIJI_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MOMIJI_CHARACTER_MONOGRAPH.md",
+      "bytes": 41493,
+      "sha256": "451d7958aeeb7e1657ae01fd48591ecbdf52bdc1c7e5eb62569983c77f582a1d",
+      "git_blob_oid_of_actual_bytes": "a62f111564c76b4709ba7afb3eb7cd90b449965e",
+      "lines": 171
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "abf6eb03819d8cdc66762528a3246eef0970ad05834cf7bf074daca1da758d4b",
+        "line_text": "classification: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "b040a034a0c39c7fd51d765a3b3e7ce23a6cc374f8ddb31b596d48d317da6543",
+        "line_text": "architecture: \"1.12, section7.1 eleven required dimensions\""
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9",
+        "line_text": "method: \"1.10\""
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "565975504478c07077005a7ff48dfb281eea3f4bfe87f548dc0b04d8aed3ae62",
+        "line_text": "required_home: P3-CHAR-MOMIJI"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "104c87602c691f87c74d262913b5c8b4c46ccdffc99f92dbf3bb8d7808c57677",
+        "line_text": "candidate_responsibility: P3-F022"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "e38a8548ce16dff6a06b845a72c7f7aead8def3d51f338edc62539742713eaa0",
+        "line_text": "literal_identity: BA_PERSON_MOMIJI"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "a4bd2c18813c0a4cbf4e66209a2bcb25caf64ff73dc238369623a3f03bd87f1b",
+        "line_text": "family: BA_PERSON_MOMIJI"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "39a9075c624153ddc85e90714c6b41c684af19a90ab8c348169ff758868feca2",
+        "line_text": "display_subject: Momiji / 秋泉モミジ"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "54fbcd827efec9917fa8d0f9272e1e666c7f9cfa7c31e5978a23ff7fc2a46757",
+        "line_text": "variant: 13013"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "c12af814da3a5cdd2f9d0fa8db5267a96b53ddc176864f20f042c52780f9e6df",
+        "line_text": "event_costume: 1900917101"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "6093827b8e1029194c47d430e31ea925bf9bd07fce9cd9a12541232f48f31639",
+        "line_text": "dated_navigation_witness: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "46b4a1084a10780516af311ffaf9db987e5ad1063fb62ad06bd1db031562234b",
+        "line_text": "game: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "7f883d04131c2ceb93c813788d8346734ce228b11188765b294eb7669400a5a9",
+        "line_text": "parser: \"0.2.0\""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "5bda13b80fb6531bc18b5b3035a5ef389265cf60b17468547b0081e5972949a3",
+        "line_text": "source_boundary: \"Twelve selected private responsibilities: five BOND with five whole linked MomoTalk arguments and two written objects, through complete adequate accepted307-line normal account; complete accepted EVENT829, EVENT852, EVENT834 and specific Final arguments; zero fresh primary/native/raw/QA/AV\""
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "70cbfb274f76de9261e3db6189cbacb16a9890e44b0509e2b0026ea686d22e03",
+        "line_text": "authority_quartet: \"Current Cycle008 admission; own adequate analytical argument receiving; undeclared historical exposure/order/independence UNKNOWN; performed voice unreceived\""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 24,
+        "line_sha256": "1c8e5e32ae1d62fb5761e8c9da845a95a8072410874a22a22d82c7602bed0134",
+        "line_text": "retrospective: true"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 25,
+        "line_sha256": "9c96af10047187817acdbfcc409256b832cc1e1bec7ab02061ed095056b5e2bb",
+        "line_text": "all_original_fourteen_gaps: OPEN"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 26,
+        "line_sha256": "a650fa20652cdc365b4f6513e78c5849bf75aebef8bf1d57b62029393a6e0727",
+        "line_text": "reconstruction_model_credit: NONE"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 36,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 38,
+        "line_sha256": "e63b2ee2fffdb82a4d3e515f0fde2601ae7a5227f043cd71cea0aa57d57c51f4",
+        "line_text": "# Momiji: reading, keeping, sharing and finding a place to rest"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "852b84ad4c5079983804ad95b0dbcfd018e706d5034041e23f0c033e78300764",
+        "line_text": "## 1. Core thesis: books have several kinds of value, and care has several recipients"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "42186960cd11a79a19efd0b6d2d04d4d0cfd139d3ba2fb9a3ce21bfde78751a7",
+        "line_text": "Momiji's love of books is not adequately described by a single command to read, preserve or distribute everything. A rough unfinished booklet connects her to earlier club members and gives courage; a worn non-first edition bears traces of previous readers; a pristine volume and an unopened first collection have wanted intactness; a shared manga offers actual reading pleasure. She cannot simply rank reading against collecting in the written baseline. Her chosen holdings and wanted company are intrinsic ends, and pudding and library rest belong to the same person rather than contradicting a supposedly pure book identity. These differences give the character a substantive ordinary repertoire (`BA:bond:13013:002/003/005/006/015`; `BA:character_data:13013:profile_and_dialog`,6438–6441; `BA:event:834:102`)."
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "3783ef9b25a99cbab369144db7b179c21f4a3129d3b2bc26d220c390f072fb55",
+        "line_text": "The same plurality creates concrete limits. Personal collection can be proposed as public acquisition, a wanted nap is pursued by privately closing a shared facility, and knowledge can be invoked to press a friend to read a particular work. Momiji sometimes acknowledges these tensions and sometimes retains the wanted action. A general accusation of selfishness would miss voluntary help, concern for fatigue, actual shared pleasure and refusal of imposed artistic demands. A general celebration of protecting knowledge would miss private acquisition, unequal access and other people's tastes. The useful thesis concerns the changing relation among her wants, the objects and the people affected, without appointing one motive the truth behind all scenes (`BA:bond:13013:003:u45–59/006:s2u3–43`; `BA:event:829:001/009–015`)."
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "790c79e6c322d6526b2c517df93387834385c7068e7beaeb258049ec2eca44f8",
+        "line_text": "Her strongest positive changes are bounded and real: she lowers the claim that a legendary book can solve the club, finds it and values its history despite incompleteness; she chooses to retain a valuable first collection while enjoying pudding; she recognizes that Mel's criticism could be reasonable, calls to reconcile, apologizes and actually returns to collaboration. Those outcomes do not amount to financial repair, approved library closure, completed conservation or permanent harmony. The public ending especially retains her independent judgment of labor after reconciliation. Sensei saying the work was fine does not make it fine for her. Care is consequently not one verdict granted by an adult; it is a relationship among people who can be grateful, willing, tired, pleased and still entitled to object (`BA:bond:13013:002:u42–79/015:u49–69`; `BA:event:829:008:s2u13–64/009:s3u5–70/015:u55–79`)."
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "4fa3ac32a2d928a30ced57a12be259dfae9c13e018469ed4c40e40ccbb66548e",
+        "line_text": "## 2. Longitudinal development: finding, reconsidering and leaving wishes unfinished"
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "dfb684fba9bb37f412f378954fe6b133585b7f8b8627fbbb3008bdf7b7100eb3",
+        "line_text": "E002 begins with the hope that finding a legendary graduate's doujin could answer the club's problems. The search fails through dowsing rods, pendulum and other proposed methods; an RPG blast is wanted but stopped. Momiji's tears and effort remain meaningful without certifying an effective supernatural procedure. She then distinguishes a possibly unremarkable work from the history of other people's attempts that is worth finding. The remembered storeroom yields an actual rough, incomplete booklet. Its find gives joy, courage and a wish to draw, while the scene expressly says it does not solve the club's problems. The development is a revision in what the object can mean, not the conversion of feeling into institutional cure (`BA:bond:13013:002:s1u4–79`)."
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "0bdbb1cf5491186c5214c540609c9767305f697f9f55506aa1e736ed2db364fc",
+        "line_text": "The complete linkedMM010 continues beyond the launch to concern for the adult's safe return, the adult's stated enjoyment and her wish to preserve the booklet. The pair therefore has three different ends: actual recovery, positive company and prospective conservation. E005 likewise has an actual festival walk, books and an intact bonus find, then a substantial whole-thread afterword that asks about fatigue and still wants another day. The desired second-day tour and every-booth completion are unprinted. Reading the launch as EOF would erase her ongoing request and the adult's surprise; reading every request as a completed outing would erase the difference between that enjoyment and the new burden (`BA:momotalk:13013:thread:130130010`,through130130110; `BA:bond:13013:005`; whole `BA:momotalk:13013:thread:130130170`,through130130430)."
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "bcc87722a56231160bc1c6a7ee65d7c9b5844e5bc5408086afc966f565eb7edd",
+        "line_text": "E006 supplies a different revision through bodily comfort. Having reportedly corrected or removed earlier library nappers, Momiji tries resting there and finds it comfortable. She privately closes the facility and admits it, prepares a partition and apologizes. The adult actually falls asleep; her own sleep is not expressly narrated. Reconsidering the experience of rest is affirmative without proving that her changed preference is a fair access policy. E015 then revises an apparent universal reading ethic: the first collection is found unopened, and she chooses to keep it as her own treasure. The temptation of a premium price returns as pudding boxes even after she refuses to sell. Her ability to keep the book and enjoy actual shared pudding gives a finite resolution without making desire perfectly consistent (`BA:bond:13013:006:s2u3–43/015:s1u10–69`)."
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "14a8e801f76743f950c43c92e7cf620e8f92ed5f89369a9071509c0112b73d92",
+        "line_text": "EVENT829 provides a local peer sequence rather than a dated successor to every private episode. Momiji first defends Luna and shifts from the work to a demand that its critic produce a masterpiece, leaves during a broader property/resource quarrel, later independently calls to reconcile and recognizes the reasonableness of an author's perspective. Actual apologies precede manuscript completion. Her help resumes, and she eventually objects to the four-day burden even as the friendship continues. EVENT852 adds food need, assistance, readers and a received settlement; it is not automatically proof that Luna became a profitable later career. Event labels, variant IDs, release metadata and costume conditions do not establish a global MAIN/private chronology (`BA:event:829:001/008/009/015`; `BA:event:852:001–004/010`)."
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "0f075b8f5a3ec096193faf578ec830d1d181cf13a50605c7510500461afdc472",
+        "line_text": "## 3. Public and private presentation: devotion includes personal appetite and independent judgment"
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "c5062c58cafc3e41c83aca40be663f1ec771e502010709117723ff3fa4586a40",
+        "line_text": "The permanent profile locates Momiji in the Knowledge Liberation Front and contrasts book collecting with the food-oriented conflicts around her. It also admits repeated personal acquisition applications and their rejection. That concise presentation cannot overrule E015's imagined pudding and actual snack. Nor can its admission establish that every application is illegitimate or that persistence eventually secures approval. The person who describes books as made for reading also keeps an unread first collection and likes pristine and worn volumes. Those printed tensions preserve a living repertoire rather than an analyst's perfectly consistent institutional mascot (`BA:character_data:13013:profile_and_dialog`; `BA:bond:13013:003:u37–55/015:u25–69`)."
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "08211faaa8aa717ce7bf6ebc92094bb50754e88fc531389e5a8fec56e5cdaef9",
+        "line_text": "In private she readily downplays how important a lost object might look to another person, while calling it her treasure and accepting volunteered help. At the Black Market she has a specific out-of-print work, admits intrusion and denies illegal trade. Her hand-taking and accomplice address provide real local company without proving legal exoneration or making secrecy universally ethical. Her enjoyment of a collection need not be laundered into public service to count, even though using a public-ordering rationale for personal acquisition creates a different question. Separating those warrants permits both a serious want and a serious resource problem (`BA:bond:13013:003:s1u18–59/015:s1u10–23`; wholeMM130130400550–650)."
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "69f25847b1117cd99458f4684cca9eea85868d81a84d80af0b7a112d918d7d6c",
+        "line_text": "Her public peer role is especially assertive. She defends a work's memorable characters, objects to taken food, acknowledges emotional conduct, refuses demanded revolutionary content and chooses help with a manuscript. The last complaint about imposed labor is not an ungrateful reversal of a positive ending. It is a perspective the narrator's comfort and the adult's approval cannot replace. Her happiness returning to the library and her concern for the gift coexist with the fact that immediate work interrupts wanted rest. A shy-devotee-versus-bold-protector mask theory adds little unless it can retain those precise changes in audience, request and cost (`BA:event:829:001/008/009/011/015`)."
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "a7a82a0861506d3f681b724052f71e63829a9906fd8ada41b2bd63e005306931",
+        "line_text": "EVENT852's material need and reception add public conditions that are not captured by her profile's book-versus-food shorthand. Delayed funds and her unsuccessful hurried book-based funding effort coexist with Mel's hunger; actual food and later settlement matter. The authors' gratitude is positive, but adjacent actor/style seams limit assigning each utterance cleanly. These collective outcomes do not authenticate every funding cause, payment amount or private motivation. They do show that books, eating, livelihood and readership can belong in one account without making one the mere disguise of another (`BA:event:852:001:s1u2–51/004:s1u34–69`)."
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "70bd0f559e31d2db2e138c1f3df232b97c20962d99c7a020fbba3f8c588f921d",
+        "line_text": "## 4. Knowledge Liberation Front and library: protecting access also tests her own uses"
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "082ae7cc51b07180f6bd0555ce5c510370e65f7d827b11bb9d2d2b71dac226ac",
+        "line_text": "Club history is valuable before it becomes administrative success. E002's recovered rough booklet gives contact with earlier members' attempts and courage to draw, while leaving club problems unresolved. The old object is not reducible to its literary greatness, price or utility as a repair instrument. Momiji's public reminder, remembered by Mel, that an old book is new for a reader new to it supplies another basis of access. A library can transmit this kind of relation across time without acquiring a newly published edition. The history and discovery have their own affirmative ends (`BA:bond:13013:002:u42–79`; `BA:event:829:005:s1u2–16`)."
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "2e1c878ff66990b88ff5ad9fb894fc1d6e044434586928a0536fc81412fc1cb6",
+        "line_text": "The private ordering scenes nevertheless expose how public access can be entangled with her collection. E003 wants public holdings while admitting personal acquisitions; the profile confirms repeated applications. Rejections and a reported ban in EVENT829 are not fiscal audits. They do not warrant saying either that the institution always obstructs legitimate learning or that every purchase is properly public. Mel's complaint about duplicate limited-edition ordering is a substantive contrary claim beside Momiji's interest in preservation and dissemination. The character can sincerely want broad knowledge and privately want possessions, with no universal equation between those purposes (`BA:bond:13013:003:u45–55`; `BA:character_data:13013:profile_and_dialog`; `BA:event:829:001:u67–92`)."
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "0399aa8e950f5bba8888b9c57c8762bb1df7205b92b19e0d2e22b24255878549",
+        "line_text": "Library closure makes the distinction sharper because it affects use rather than only acquisitions. Momiji first presents a closed day, then admits she arranged a temporary closure privately. She reports earlier nap enforcement, values the comfort herself, prepares a partition and apologizes. The adult's actual sleep makes the rest a real benefit; hearsay about other schools' nap rooms gives no authorization. No later access repair or compensation to other users is printed. The monograph should neither dismiss quiet care as insignificant nor endorse the closure simply because one recipient rests successfully (`BA:bond:13013:006:s2u3–43`)."
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "8cbffb6ac9323cc539734644175ca32a9bbb531524f6c9434d1b5cf0633069c9",
+        "line_text": "Public institutional resistance is also local and directed. Momiji affirms protecting knowledge beside Mel's refusal of a Cherino-centered medal bargain. She appreciates Works Club help and library visits while refusing Minori's demanded theme. Gratitude does not entail editorial obedience, and liberation vocabulary does not merge clubs into an actual alliance. The handled encounters do not supply every battle mechanism or lasting freedom from censorship. Yakumo's contract and manuscript pressure belongs to a further unequal relationship, whose this-manuscript claim is withdrawn while a future demand remains. Resisting those demands gives the club's independence a concrete test; it does not settle their own internal acquisition or access questions (`BA:event:829:010–015`)."
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "50fb71d0ced41c05b08f85377d0d3bcaf34b8ade7d2bcf39410f8ab66ec56845",
+        "line_text": "## 5. Ordinary life: the pleasures of owning, reading, browsing, resting and eating"
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "460473e8dd9c6d78defb64425e93baac4cb3180884f3476e259c8941f09c8559",
+        "line_text": "Momiji likes books at different stages of their material lives. A worn non-first edition can be loved for use, a pristine book for intactness, an unfinished old booklet for attempts and history, and an unopened first collection for possession. Written6440–6441 leaves her unable to choose between reading and collecting. This is positive evidence against a hierarchy in which only consumed information counts as worthwhile. The still-unread treasure is not fraudulent devotion, and the imperfect historical work does not require a masterpiece designation. Their distinct material relations are ordinary reasons to care (`BA:bond:13013:002/005/015`; `BA:character_data:13013:profile_and_dialog`,6438–6441)."
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "36e2d17a4c042d93a9b0e6dcd53de8e2b1100135927c83a9cbc4de2f7c4fe5ec",
+        "line_text": "The festival is meaningful as a day rather than only an acquisition pipeline. Other students want food and allow her browsing; the account does not demote their taste. A full-booth plan is acknowledged as impossible, several possible purchases remain intentions, and an intact limited-edition bonus is actually found. The adult's supposed luck is her interpretation of that joy, not a guaranteed collection power. Actual walking, many books and happiness coexist with concern about fatigue and a wanted second day. Her wish for occasional rather than daily library visits also gives company a chosen rhythm without printing an enacted schedule (`BA:bond:13013:005:s1u4–17/s2u4–36`; wholeMM130130170210–430)."
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "0cde91b02028fb7d978a889e19473492971a8fe196b2d7c72cb2241e05a2fe56",
+        "line_text": "Pudding is an especially clear ordinary end. Selling the recovered limited collection could, in Momiji's imagination, fund new books, heaters, an annex and unlimited pudding. No money or those goods are acquired. She refuses the sale, keeps her first collection and still imagines pudding boxes; then the adult offers pudding and the narrator gives actual pleasant snack time. The scene allows a treasure, a decision and appetite to coexist without converting the snack into proof of fiscal reform. Its quiet completion deserves the same analytical precision as an institutional victory (`BA:bond:13013:015:s1u28–69`)."
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "3e66a179a821414c8d2231c50bc935abcaa1b67594db1957607798b6b434b3e5",
+        "line_text": "Gift834102 adds an actual shared practice: the adult receives and opens a copy, Momiji later opens her own, and the ending gives joint manga reading, chocolate eating and positive affect. Her preservation, reading and dissemination copies are distinct at u8–11. The Japanese u12 frames a disseminating-copy gift, while Korean emphasizes first-reading access; permanent ownership is not a common warranted result. Her offered return, refusal, unfinished explanation and paired display request must stay separate from an installed desk display. The shared reading/eating is genuinely achieved without proof that the full volume is finished, every gift explanation is supplied or the relationship becomes romantic (`BA:event:834:102:u8–13/u26/u50`, complete adequate current meaning)."
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "bfb114e26bcbe768921fa504da94b6dbbcf16a8c60f3cc0e953d147076f7ea85",
+        "line_text": "## 6. Crisis and difficult situations: practical outcomes are neither miracles nor total failures"
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "cb59595a7c7e07df4c88eb2f88f2724d5603078f7af7565b31c6b4afa3d79c20",
+        "line_text": "The legendary-book search illustrates the difference between valued persistence and effective method. Rods, pendulum, magnetic-phone and divination suggestions do not find the object; the desired RPG blast is stopped. Actual restraint avoids inventing damage that never occurs. The remembered storeroom yields the booklet, and the adult's heart joke functions as a turn in thinking rather than a magical locator. Momiji's lowered claim then makes the achieved find more defensible: it gives history and courage but does not cure the club. A failure-of-miracle reading can retain the affirmative discovery instead of declaring the whole day pointless (`BA:bond:13013:002:s1u15–79`)."
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "f5af0b1d08e141753f841b90c3553e340ecc41dac48a97a0bbc26a3bd339d3e5",
+        "line_text": "The Black Market encounter contains a local danger and a source-attribution limit. Momiji's possible two-weeks-or-more toilet-cleaning consequence is a reported counterfactual, not an actual sentence or national law. The handover content at u11–14 conflicts with literalMOMIJI labels; the account cannot confidently ascribe the entrusting dialogue to her or repair it into a named police actor. The actual purchase and hand-taking return remain stronger bounded endpoints than legal acquittal. Her desired old book and admitted budget overrun are real motivations, while deterrence, print-run history and the justice of school discipline remain attributed or unverified (`BA:bond:13013:003:s1u2–59`)."
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "fc82c8d9d5402a1c9ff3f8bf1250b9617651417f1bdb7ee6dd24afaa0147fbc2",
+        "line_text": "EVENT829's four-day effort supplies another difficult situation which she judges independently. Momiji recognizes the reasonableness of criticism, calls because she wants reconciliation and says no one asked for elaborate production. She chooses to help once the relationship repairs, yet the immediate work interrupts her return to comfort. Her final insistence on costs prevents both total exploitation and effortless volunteerism from being adequate summaries. Mel's exhaustion and narrated loss of consciousness, coffee and adult forced movement belong to the actual event, with no diagnosis or universal labor standard; none grants Momiji's consent by proxy (`BA:event:829:007–009/015:u55–79`)."
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "e4112ebb5b694e7af5ecca2cba69ab82d4740a7967e5357a4f56270116fb145e",
+        "line_text": "Final's evacuation context preserves Mel/Momiji comic plans at a specific textual extent. No published book or complete safe arrival is supplied by that small scene. E852's need for food, pressure around funds and later actual payment likewise distinguishes acute provision from lasting security. Their ordinary interests continue under difficult circumstances without becoming proof that their shelter, finances or club have been restored. A character account can treat those plans and benefits as meaningful while leaving the greater repair open (`BA:main:100:002:008`; `BA:event:852:001/004`)."
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "8883797b283dff1a00c19d91c17cc0e9788b1adf85b453ccc58df6301c36a30c",
+        "line_text": "## 7. Sensei: volunteered company, mutual care and situated ethical problems"
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "94b6395c34ec58b47c1d9e8def39946be3bb99e56577514ea9f76aa5b858e283",
+        "line_text": "E002 permits the adult to leave before choice007 volunteers continued searching. The found booklet and the afterword's enjoyment give that choice an affirmative local outcome. E015 changes an earlier meeting plan because Momiji loses her treasure; Sensei volunteers in response to that need, and the scene ends with shared pudding. These particular choices refute an account in which she only consumes obligatory adult attention. They also refute a universal limitless-Sensei explanation: one continued search and one volunteered visit are not a rule that the adult must always provide time or that every future request has been met (`BA:bond:13013:002:u48–69/015:u10–69`; wholeMM130130010/400)."
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "d68ef13d80fb3827044b64d00b4f289064463ea7bc9961f1b7730e1fc8ab12ae",
+        "line_text": "Momiji takes a caring direction in the festival afterword and library scene. She checks walking fatigue, receives the adult's “okay,” and still requests another day, preserving both concern and continued desire. In the nap scene she provides a partition, asks whether the response is more than indulgence, receives agreement, notices breathing and offers thanks and goodnight after the adult actually sleeps. Care is performed at a quiet endpoint, though her own sleep remains unprinted and the privately closed facility retains its access problem. The positive beneficiary outcome cannot certify every surrounding use of institutional resources (`BA:momotalk:13013:thread:130130170`,320–430; `BA:bond:13013:006:s2u25–43`)."
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "0e777130b1f5eb36bd24ea5dfeb0832f7e8a19bc8c750c3dc129fa3b04ec0d25",
+        "line_text": "Secrecy and luck are more ambivalent relational forms. E003's adult secrecy option and accomplice address can express warmth without establishing universal ethical propriety or a completed legal finding. E005's adult luck language follows a real find without proving supernatural power. Written gift reciprocity worry and receipt-only allowance do not supply an already exchanged annual gift; EVENT834102 supplies its own actual sharing at a separate event. Keeping each frame source-local avoids making favorable attention a blanket authorization for acquisitions, closure or demands (`BA:bond:13013:003:choice009/u58–59/005:s2u20–36`; `BA:character_data:13013:profile_and_dialog`,6453–6454; `BA:event:834:102`)."
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "c95e3ef6186d7102d5b6558e1bf6aa5e32fcfe350b68a2c6617586b81a09fd28",
+        "line_text": "The public ending preserves the adult as limited rather than the final arbiter of her experience. Sensei helps reconciliation and the manuscript, recognizes some limits and can say the effort was fine. Momiji says that this answer is not her answer. She has also already chosen help and enjoyed reunion, so her objection cannot be discarded as proof that no affection exists. No reciprocal romantic agreement, clinical recovery or institution-wide success is warranted from those caring and pleasurable acts. Her independent judgment is part of the relationship's substance (`BA:event:829:008/009/015:u55–79`)."
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "738e9ef974cc0008a73a9592b8d0400ea32fbbbd9312245b1428c7f346521352",
+        "line_text": "## 8. Mel, other peers and recipients: being together does not require the same taste"
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "e5be24b6ecf1997721ae03d78e37e06aa52893856c07a47494e8a6fa2f824326",
+        "line_text": "Momiji's defense of Luna is a serious literary response and a flawed argument. Memorable characters matter to her; Mel's criticisms concern structure, convenience, contradictions and unresolved threads after actually finishing the work. Requiring a masterpiece from the critic shifts from the work to personal qualification and does not answer those objections. The full fictional Luna is unprovided, so neither opinion becomes an independent analyst's verdict. Her later acknowledgment that an author's perspective could reasonably produce that criticism is a genuine correction without proving that every earlier preference was wrong (`BA:event:829:001:u4–64/008:s2u13–19`)."
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "a46b564c6b4e4cc84e7fd9c5c42823ae256e99d96f38882d1adf4530e8982553",
+        "line_text": "Property disagreement needs the same precision. Momiji objects to Mel's consumption of her pancake tempura; Mel admits consuming it and suggests labeling, while Momiji insists that not buying it should suffice. Mel's duplicate-ordering and reported application-ban complaint is separate contrary evidence concerning Momiji's resource habits. The current public account's actor drift remains qualified, but those represented competing claims cannot be reduced to an innocent difference in taste or erased by later gift making. Actual separation and subsequent reconciliation have meaning because the material disagreement was real (`BA:event:829:001:u67–92`)."
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "3a10678c5651edaac3e46d91a155f2cc47804146efff35f8a86f6232bff39315",
+        "line_text": "Repair proceeds through independent initiative and chosen work. Momiji's call is her action; she accepts that she became emotional and does not demand an elaborate finished product as the price of reconciliation. The actual apologies include unfulfilled promises about food and book ordering. Mel then still wants to make and give, and Momiji asks why its recipient must help before actually agreeing. Their renewed characterization/page/time/printing debate restores a shared practice, not unanimous judgment. The final protest about four days prevents Mel's all's-well interruption from being the only account of their end. They remain together with an obligation to listen, not a certified permanently repaired friendship (`BA:event:829:008:s2u13–64/009:s3u5–70/s4u2–20/015:u55–79`)."
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "2f940f14990965e0121153319e280d4da711ac27b63244daba4c13984b8a1ad2",
+        "line_text": "Other actors also have their own purposes. Nodoka wants heating and bedding; Shigure proposes a stove bargain; Minori values literary help while demanding political content; Yakumo handles production and wants future work; Takane critiques and wants an ending. Their public roles must not be collapsed into automatic friends, enemies or club members. Momiji can appreciate prior assistance and refuse a new demand. Readers in EVENT852 want circulation, discussion and continuation, while actual purchase and settlement give the authors material benefit. Shared “knowledge” or interest in a book does not certify every reader's permanent affiliation, every payment's fairness or every future publication (`BA:event:829:010–015`; `BA:event:852:002–006/010`)."
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "fc43590155de4e6ea49aabd553629e1e4996920fc9ea563a2986a9aebc5104d7",
+        "line_text": "## 9. Written register and attribution: conditional language remains conditional"
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "09bca162489f69b163ba0a753483dec01ab32e1913ec5952e5f3c1a06fe85ada",
+        "line_text": "The permanent13013 written object has eight profile fields and47 contextual records6428–6474: Title1,Get1,Cafe5,Lobby28,Weapon1,Special11. The name秋泉モミジ and Knowledge Liberation Front location govern the present literal scope; it is not an identity authenticated by a title shared with another person. Rejected ordering and determination, pristine/worn preferences, the unresolved read-or-collect question, dreamlike stories against hard reality, birthday recommendations and wanted reading are meaningful linguistic conditions. New Year company and the Christmas first-edition wish remain wanted futures rather than completed events. Weapon quiet language can carry a conditional threat without an actual attack in this account (`BA:character_data:13013:profile_and_dialog`)."
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "dacd8d157f2d462514bdf1cbabebc8f60e6232f0ea46b930b81d22b955991aba",
+        "line_text": "Costume1900917101 routes to13013 with an empty profile and99 records:829 and10829 each have15Lobby/14Shop/13Card,900829 has15Lobby only. The absent Shop/Card conditions are not missing scenes to invent. Picture-and-text interests and written concern for Mel contribute a peer orientation without placing her into a new encounter. Shop confidence, rare-book wishes, veteran-style language and Buy/selling conditions do not prove enacted earnings, fraud or a merchant biography. Card favorable luck, unfavorable crying and support after disappointment remain different alternatives; their repetition does not turn into guaranteed wins (`BA:character_data:event_costume:1900917101:character:13013`)."
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "3f3a9734473480479b1907af3b4134c2217be54af7b8aa03c3a28fa192ff2efc",
+        "line_text": "The two written objects supply146 contextual records and eight normal fields, not146 consecutively enacted conversations. Their echoes of the festival's rare find, luck and visits support a contextual baseline rather than another tour. The complete MomoTalk extents distinguish thread IDs from message endpoints: thread130130010 has messages130130010–110, launch060; thread130130100 has messages130130120–200, launch200 at EOF; thread130130170 has messages130130210–430 after its310 launch; thread130130320 has messages130130440–540, launch540 at EOF; thread130130400 has messages130130550–650, launch650 at EOF. The shortened endpoint suffixes retain their130130 prefix. Those are actual endpoint ranges, not a claim that every intervening integer is a message. The absent separateThread150 heading is a segmentation limit, not an invented lost object."
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "141a904392f426182ea401469642176b514ecd3770d18cac0df0f829b1d5a143",
+        "line_text": "Written actors and locale details stay at their separate warrants. E003u11–14's handover content conflicts withMOMIJI labels; E829 actor drift and literal모메지 are not new people; E852 gratitude/style seams prevent universal clean speaker assignment. Gift834102u12 Japanese dissemination gift versus Korean first-reading access cannot be flattened into certified permanent ownership. Choice alternatives, inward reactions, narration and heard text are not automatically one mode or one executed history. Names, knowledge-protection language, accomplice address, luck, questions, apology and thanks have been received as writing. No pitch, cadence, gesture, native-actor repair, performed voice or audiovisual receiving is claimed."
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "451311191eac879dc0bce66c9c393400d9102ce9bc0556673dcac95c43cc6919",
+        "line_text": "## 10. Competing readings: seven accounts tested against plural value and finite ends"
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "327cef6bb463f93c730a793837f11c22a15d7457cacffdb2b9f2525a3886a707",
+        "line_text": "**The pure public custodian whose wants are all institutional.** History, protection of knowledge, public collection and refusal of imposed themes strongly support public orientation. Personal ordering admissions, unopened possession, pudding temptation and privately closed rest-space are substantive contrary evidence. Neither set cancels the other. Her public rationale can be sincere and still fail to authorize a particular private use. This reading is strongest as one purpose among several, weakest as the explanation of every purchase or act (`BA:bond:13013:002/003/006/015`; `BA:event:829:010–015`)."
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "5b1c41857640fce876a9644b4f79abb966130c8d077bf19f06500a3b3d31ec6a",
+        "line_text": "**The selfish collector whose knowledge language is only an excuse.** Budget overrun, personal acquisition and the access asymmetry make this a real critical possibility. The actual lowered claim about a rough historical work, voluntary release from searching obligation, concern for fatigue, provided rest, shared reading and independent reconciliation call prevent universal pretext. Some actions are materially disputed while other caring acts actually occur. A person-wide flaw thesis would remove the very differences that make the criticism justified (`BA:bond:13013:002/003/005/006`; `BA:event:829:008`; `BA:event:834:102`)."
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "fc367cfcc4b17eb316e2d9926a0d6de0d49d7bea567fc6d61462e219044a41d9",
+        "line_text": "**The reading absolutist whose collecting is a contradiction to repair.** E003's reading ethic is printed and significant, but an unopened first collection remains her treasure and written6440–6441 declines to rank reading against collecting. Wear and pristine condition are both valued. This is a plurality of relations to objects, not merely a failure to obey the analyst's selected slogan. The contradiction can remain funny and meaningful without eliminating her genuine desire for public access (`BA:bond:13013:003/005/015`; `BA:character_data:13013:profile_and_dialog`)."
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "8deda33c761f0a33c1c57cf6bfc20a45955dc349392748eadb720fb63182c570",
+        "line_text": "**The devotion that eventually fixes the club.** Actual recovery of the legendary booklet, courage, protected knowledge, reader reception and settlement supply positive evidence of effective action. E002 expressly denies that the find solves club problems, while applications, conservation, access authorization, shelter and durable budgets remain unfinished or unverified. Care and determination produce specific goods, not a miracle transition. A fair argument retains both the gains and their exact lack of administrative closure (`BA:bond:13013:002/003/006`; `BA:event:852:001/004`; `BA:main:100:002:008`)."
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "3f69ccfd9b37d737003499bd124710becb1265ad10a48016ec03ef7eb497a124",
+        "line_text": "**The uniformly considerate companion whose good care establishes consent.** Permitting departure, checking fatigue, caring for a sleeping adult and voluntarily collaborating support genuine attention. Further outing requests, private closure, taste pressure and the public production burden are concrete contrary conditions. A positive nap or reconciliation does not authorize every use of other people's time, facility access or preferences. Care remains valuable because it can be actual and local, not because it certifies uniformly unobjectionable methods (`BA:bond:13013:002/005/006`; `BA:event:829:001/009/015`)."
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "4d3cd462d2ddb1777a45321cb8ff9914a6b7445721697ffbbadd0b9cc041f237",
+        "line_text": "**The helpless recipient whose adult must supply all correction.** Adult search companionship, remembered storeroom, volunteers and pudding give this account genuine support. Momiji also changes the value assigned to the old booklet, provides rest, checks exhaustion, initiates reconciliation, judges Mel's criticism and refuses political demands. Her final labor objection supplies a perspective Sensei does not replace. The relationship is reciprocal in specific acts without proving symmetrical authority or inexhaustible availability (`BA:bond:13013:002/005/006/015`; `BA:event:829:008/011/015`)."
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "a38e7542b330a2ebc36aad370a8550604ec4e014b04b665a14cc92bc79d72569",
+        "line_text": "**The harmonious friendship or romantic completion that settles everything.** Actual reunited company, shared work, pleasant snacks, quiet breathing, thanks and joint gift reading/eating are strong positive ends. Unfulfilled restitution, interrupted rest, lingering pudding temptation, access problems, different criticism and the last labor objection keep those ends finite. No completed romance, clinical cure, permanent resource agreement or conflict-free friendship is supplied. The stronger account allows people to enjoy being together while retaining different tastes, property and judgments about care (`BA:bond:13013:006/015`; `BA:event:829:009/015`; `BA:event:834:102`)."
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "bb2d990f8abae978759cc0ee523346e6ae0982adc914e0a6291890d7e41dd4d0",
+        "line_text": "## 11. Source boundary, original open gaps and completion disposition"
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "dd500d30b412f270fe10bbbc9b67efa4938e5abce833e23a5330549fa08788d1",
+        "line_text": "The existing required homeP3-CHAR-MOMIJI/P3-F022 is grounded in presentBA_PERSON_MOMIJI/variant13013, not a new denominator entry. Current small coverage explicitly gives12 selected responsibilities5BOND/5wholeMM/2written with qualified currentCycle008 complete admission; its historicalPROPOSED13_UNINSTALLED151 pool label and frozen_selected_scope_count0 are distinct fields and do not mean that the present normal account is unread or unaccepted. The complete307-line adequate Momiji normal argument was personally received1–140/141–240/241–307EOF. Its producer's12 whole primaries/five link proofs are attributed, not new source credit. Exact responsibilities are BOND13013E002/003/005/006/015, wholethreads130130010/100/170/320/400, permanent13013profile/dialog and costume1900917101→13013."
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "24fed346c6fcba07503ccb7ef877651d87590c16a0a72c2ddd9efd781a63a700",
+        "line_text": "The current complete public arguments actually received are EVENT829160/fifteen selected objects, EVENT852205/ten, EVENT834268/38 and Final100C002E00829. Gift834102 is one of the38, not an additional whole primary. E829's full current account controls public endpoints and actor qualifications where the private producer reused older local analytical line numbers or paraphrases. In particular the current food objection concerns not buying what belongs to another person; it must not be turned into a claim that Momiji only failed to buy enough. WholeRedWinter7 provides the independent Mel private comparand. G280,G130,E808,E802 andE839 are complete regional background/comparison arguments; no Momiji appearance or GROUP duty completion is inferred from school, library, shared actors or number matches. Current crosswalk and owner routes supply admitted scope, not automatic cast credit."
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "c5cc0ce345a6118a68be8e686915826bad5278ccfd74b9a71aed6d4ae711ee9a",
+        "line_text": "CurrentCycle008 supersedes the normal owner's historical outside-frozen-pool/uninstalled/admission and Phase3-unestablished language for present qualified status, while preserving it as producer history. The author's new synthesis remains pending independentROOT reception and canonical adoption. SourceJapanesea038020f1f5ac02dcfe76962426d38f86414cdd8/generationBA_REFRESH_20260928T032248159554Z/gamev1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1/parser0.2.0 is distinct from analyticalmain2e/c1, dated732 navigation and present mutable controls. Exact unchanged literary file equality, when verified, is binding rather than fresh prose/primary reception. Undeclared exposure/order/independence UNKNOWN, FIRST/SECOND unassigned; native/raw/QA/primary/voice/image/AV0. AllnineUNBOUND and preserved_phase2_work bodies remain unopened/unhashed."
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "f0cc3507ecc1be9c1ac2733c10d6db5883018f326e7223ccece4f5eb60cb1561",
+        "line_text": "| Original stable gap | Momiji's contribution and remaining warrant; status OPEN |"
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+        "line_text": "|---|---|"
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "0b4090aa66d899b2e7d0a6fed468d5afc25116b322bb079ab39b9427e9e8f1d1",
+        "line_text": "| G01 Ordinary and private breadth | Twelve whole private responsibilities give reading/keeping, incomplete history, taste, fatigue, rest, pudding and company distinct actual/wanted ends. All future/private repertoire remains unestablished. OPEN. |"
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "804b59507c104a70a97a7545c18d943f339bb90ff0eda8c738dc26a51a905c73",
+        "line_text": "| G02 Yuuka council/club decision transfer | Momiji's acquisition/access/refusal questions do not complete Yuuka's council authority, club transfer or decisions. OPEN. |"
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "784a8e7ff9430071b746b1397e96f2a9234aa0d53e7cef69528c0fea9783ba3e",
+        "line_text": "| G03 Serika service, peer and reciprocity range | Local reciprocal care, gift sharing and distinct burden judgments offer comparisons without filling Serika's service/peer source scope. OPEN. |"
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "fd0745287af9cec03a92469e003edd7d41999ad86257df1b9dc67690f1a3c728",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Search restraint, material need and public editorial conflict do not supply Hina's causal/accountability/ordinary evidence. OPEN. |"
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "b1636fc8a5d8f418385023b0ea08d64f3c9e5031566339dada3a2bd40c7df868",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | Books, eating and wanted quiet remain intrinsically eligible; otherE834 objects do not establish Momiji appearances or closure of Arius/PS68 duties. OPEN. |"
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "e5cda0b0f751c09bd87a1f08d8653c055f4e700d42d146d9a3f7061a4a9e1b9f",
+        "line_text": "| G06 Cross-school ordinary repertoire | Readers, actual gift sharing and source-local public interactions broaden ordinary comparison, without inventing attendance, memberships or uniform tastes. OPEN. |"
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "6012f0d7dedfc7e80dd02ec8c94208044d4aaa6c6df052898769a6e03fb0eebf",
+        "line_text": "| G07 Story-world chronology | WholeMM link/endpoints and localfour-day sequence retained; release, episodes, event/variant/condition codes do not date every private or MAIN scene. OPEN. |"
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "9a18fbd34e1dc34f6e3bdb202f97665d865e31b45c5ace693f4aa55ffd27dbeb",
+        "line_text": "| G08 Event naming and repeat contexts | ExactE829/E852/E834102/Final homes and costume829/10829/900829 modes retained; repeated books/festivals do not create extra enacted events or editions. OPEN. |"
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "697352182669054b53c91fd29ba7c9dc6dae4df68ef6b8b98f12af0d6b69dfab",
+        "line_text": "| G09 Written speaker/choice attribution | E003handoverlabel/content conflict, E829literal모메지, E852style seams, alternative replies and narration remain qualified; no universal actor repair. OPEN. |"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "a583d172614de63978820ce3f5812c1912a85d29a05b34176dc0589d80f82fa6",
+        "line_text": "| G10 Performed voice |146 contextual written records/profile/addresses received as adequate argument, not audio, gesture, actor, pitch or performed delivery. OPEN. |"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "943d56f2906b56c96402d46213d2f40d0684586750b83394c8660e72b86e9e75",
+        "line_text": "| G11 Hoshino's Yume record and office states | Finalcomicplans and shelter limits do not adjudicate Hoshino/Yume memory, causes or office states. OPEN. |"
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "6600b47e4ce67ed23373dda1e23d2edf96f1c8dca2d6d7fb702835f0ef91b729",
+        "line_text": "| G12 Counterpart, system and variant identity | LiteralBA_PERSON_MOMIJI/13013/1900917101 distinct from mode/condition labels; emptycostumeprofile and segmentation limits do not create another person. OPEN. |"
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "ee7a96347add99ce9be5d29076633b689b05933b268180cdd88c3492b9a61279",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | Actualfound/purchased/kept objects, adultsleep, snacks, reading and settlement retained; no club cure, conservation, authority-to-close, fiscal audit, legal sentence, medical or fair-contract certificate. OPEN. |"
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "058f6691f9fc26a25c4e2f8a5b8d5a05b3edfca4f720572eec2cd84c8137bf14",
+        "line_text": "| G14 Unclassified/mode continuity | Currentadmitted BOND/fullMM/written/event/MAIN and regionalGROUP comparands stay distinct; no unclassified source admission or mode join. OPEN. |"
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "f901b5ca6e021c286f6785dfb0a9186ad66bbc1e04617d5fa01b22b8051a0b8d",
+        "line_text": "No mandatory primary recovery remains for these actually bounded claims. Stronger assertions about the literalE003 police speaker, authorized closure/access repair, fiscal justice, market prices, legal exoneration/punishment, completed preservation, every-booth/second-day tours, future schedules, delivered printing/commissions, restored shelter, diagnosis/cure, permanent gift ownership across locales, finished volumes, installed displays, reciprocal romance, universal consent or performance would require specific further warrants and are unasserted. The full saved body and exact receiving/freeze packet are prepared for independentROOT review. There is no author-granted acceptance, model, source-count, canonical, publication, merge or milestone credit. The distinct required Mel–Momiji directed synthesis and applicable library/club/publishing/institution/Sensei/register responsibilities remain mandatory alongside fullcast355/29 completion. This monograph's bounded completion is separate from those duties."
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          7,
+          7
+        ],
+        "canonical_lines": [
+          7,
+          7
+        ],
+        "frozen_text": [
+          "status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          27,
+          27
+        ],
+        "canonical_lines": [
+          27,
+          35
+        ],
+        "frozen_text": [
+          "publication_acceptance_and_count: ROOT_ONLY_PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_publication_acceptance_and_count: ROOT_ONLY_PENDING",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MOMIJI_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMIJI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          31,
+          30
+        ],
+        "canonical_lines": [
+          39,
+          40
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded character responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MOMIJI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MOMIJI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,18 section-parent allocations,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Character Monographs home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "full_operative_ROOTaccepted_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MOMIJI_CHARACTER_MONOGRAPH.md",
+      "bytes": 39210,
+      "sha256": "721310746653bb6c5c5faf91fa8dda615187c5d4c1d4eaefb2946755eb988c9b",
+      "git_blob_oid_of_actual_bytes": "4d586d38e2a23891c4e47cc293f49f5739b84e56",
+      "lines": 161,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MOMIJI_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MOMIJI_CHARACTER_MONOGRAPH.md",
+      "bytes": 41493,
+      "sha256": "451d7958aeeb7e1657ae01fd48591ecbdf52bdc1c7e5eb62569983c77f582a1d",
+      "git_blob_oid_of_actual_bytes": "a62f111564c76b4709ba7afb3eb7cd90b449965e",
+      "lines": 171
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "abf6eb03819d8cdc66762528a3246eef0970ad05834cf7bf074daca1da758d4b",
+        "line_text": "classification: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "b040a034a0c39c7fd51d765a3b3e7ce23a6cc374f8ddb31b596d48d317da6543",
+        "line_text": "architecture: \"1.12, section7.1 eleven required dimensions\""
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9",
+        "line_text": "method: \"1.10\""
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "565975504478c07077005a7ff48dfb281eea3f4bfe87f548dc0b04d8aed3ae62",
+        "line_text": "required_home: P3-CHAR-MOMIJI"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "104c87602c691f87c74d262913b5c8b4c46ccdffc99f92dbf3bb8d7808c57677",
+        "line_text": "candidate_responsibility: P3-F022"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "e38a8548ce16dff6a06b845a72c7f7aead8def3d51f338edc62539742713eaa0",
+        "line_text": "literal_identity: BA_PERSON_MOMIJI"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "a4bd2c18813c0a4cbf4e66209a2bcb25caf64ff73dc238369623a3f03bd87f1b",
+        "line_text": "family: BA_PERSON_MOMIJI"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "39a9075c624153ddc85e90714c6b41c684af19a90ab8c348169ff758868feca2",
+        "line_text": "display_subject: Momiji / 秋泉モミジ"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "54fbcd827efec9917fa8d0f9272e1e666c7f9cfa7c31e5978a23ff7fc2a46757",
+        "line_text": "variant: 13013"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "c12af814da3a5cdd2f9d0fa8db5267a96b53ddc176864f20f042c52780f9e6df",
+        "line_text": "event_costume: 1900917101"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "6093827b8e1029194c47d430e31ea925bf9bd07fce9cd9a12541232f48f31639",
+        "line_text": "dated_navigation_witness: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "46b4a1084a10780516af311ffaf9db987e5ad1063fb62ad06bd1db031562234b",
+        "line_text": "game: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "7f883d04131c2ceb93c813788d8346734ce228b11188765b294eb7669400a5a9",
+        "line_text": "parser: \"0.2.0\""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "5bda13b80fb6531bc18b5b3035a5ef389265cf60b17468547b0081e5972949a3",
+        "line_text": "source_boundary: \"Twelve selected private responsibilities: five BOND with five whole linked MomoTalk arguments and two written objects, through complete adequate accepted307-line normal account; complete accepted EVENT829, EVENT852, EVENT834 and specific Final arguments; zero fresh primary/native/raw/QA/AV\""
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "70cbfb274f76de9261e3db6189cbacb16a9890e44b0509e2b0026ea686d22e03",
+        "line_text": "authority_quartet: \"Current Cycle008 admission; own adequate analytical argument receiving; undeclared historical exposure/order/independence UNKNOWN; performed voice unreceived\""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 24,
+        "line_sha256": "1c8e5e32ae1d62fb5761e8c9da845a95a8072410874a22a22d82c7602bed0134",
+        "line_text": "retrospective: true"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 25,
+        "line_sha256": "9c96af10047187817acdbfcc409256b832cc1e1bec7ab02061ed095056b5e2bb",
+        "line_text": "all_original_fourteen_gaps: OPEN"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 26,
+        "line_sha256": "a650fa20652cdc365b4f6513e78c5849bf75aebef8bf1d57b62029393a6e0727",
+        "line_text": "reconstruction_model_credit: NONE"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 36,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 38,
+        "line_sha256": "e63b2ee2fffdb82a4d3e515f0fde2601ae7a5227f043cd71cea0aa57d57c51f4",
+        "line_text": "# Momiji: reading, keeping, sharing and finding a place to rest"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "852b84ad4c5079983804ad95b0dbcfd018e706d5034041e23f0c033e78300764",
+        "line_text": "## 1. Core thesis: books have several kinds of value, and care has several recipients"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "42186960cd11a79a19efd0b6d2d04d4d0cfd139d3ba2fb9a3ce21bfde78751a7",
+        "line_text": "Momiji's love of books is not adequately described by a single command to read, preserve or distribute everything. A rough unfinished booklet connects her to earlier club members and gives courage; a worn non-first edition bears traces of previous readers; a pristine volume and an unopened first collection have wanted intactness; a shared manga offers actual reading pleasure. She cannot simply rank reading against collecting in the written baseline. Her chosen holdings and wanted company are intrinsic ends, and pudding and library rest belong to the same person rather than contradicting a supposedly pure book identity. These differences give the character a substantive ordinary repertoire (`BA:bond:13013:002/003/005/006/015`; `BA:character_data:13013:profile_and_dialog`,6438–6441; `BA:event:834:102`)."
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "3783ef9b25a99cbab369144db7b179c21f4a3129d3b2bc26d220c390f072fb55",
+        "line_text": "The same plurality creates concrete limits. Personal collection can be proposed as public acquisition, a wanted nap is pursued by privately closing a shared facility, and knowledge can be invoked to press a friend to read a particular work. Momiji sometimes acknowledges these tensions and sometimes retains the wanted action. A general accusation of selfishness would miss voluntary help, concern for fatigue, actual shared pleasure and refusal of imposed artistic demands. A general celebration of protecting knowledge would miss private acquisition, unequal access and other people's tastes. The useful thesis concerns the changing relation among her wants, the objects and the people affected, without appointing one motive the truth behind all scenes (`BA:bond:13013:003:u45–59/006:s2u3–43`; `BA:event:829:001/009–015`)."
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "790c79e6c322d6526b2c517df93387834385c7068e7beaeb258049ec2eca44f8",
+        "line_text": "Her strongest positive changes are bounded and real: she lowers the claim that a legendary book can solve the club, finds it and values its history despite incompleteness; she chooses to retain a valuable first collection while enjoying pudding; she recognizes that Mel's criticism could be reasonable, calls to reconcile, apologizes and actually returns to collaboration. Those outcomes do not amount to financial repair, approved library closure, completed conservation or permanent harmony. The public ending especially retains her independent judgment of labor after reconciliation. Sensei saying the work was fine does not make it fine for her. Care is consequently not one verdict granted by an adult; it is a relationship among people who can be grateful, willing, tired, pleased and still entitled to object (`BA:bond:13013:002:u42–79/015:u49–69`; `BA:event:829:008:s2u13–64/009:s3u5–70/015:u55–79`)."
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "4fa3ac32a2d928a30ced57a12be259dfae9c13e018469ed4c40e40ccbb66548e",
+        "line_text": "## 2. Longitudinal development: finding, reconsidering and leaving wishes unfinished"
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "dfb684fba9bb37f412f378954fe6b133585b7f8b8627fbbb3008bdf7b7100eb3",
+        "line_text": "E002 begins with the hope that finding a legendary graduate's doujin could answer the club's problems. The search fails through dowsing rods, pendulum and other proposed methods; an RPG blast is wanted but stopped. Momiji's tears and effort remain meaningful without certifying an effective supernatural procedure. She then distinguishes a possibly unremarkable work from the history of other people's attempts that is worth finding. The remembered storeroom yields an actual rough, incomplete booklet. Its find gives joy, courage and a wish to draw, while the scene expressly says it does not solve the club's problems. The development is a revision in what the object can mean, not the conversion of feeling into institutional cure (`BA:bond:13013:002:s1u4–79`)."
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "0bdbb1cf5491186c5214c540609c9767305f697f9f55506aa1e736ed2db364fc",
+        "line_text": "The complete linkedMM010 continues beyond the launch to concern for the adult's safe return, the adult's stated enjoyment and her wish to preserve the booklet. The pair therefore has three different ends: actual recovery, positive company and prospective conservation. E005 likewise has an actual festival walk, books and an intact bonus find, then a substantial whole-thread afterword that asks about fatigue and still wants another day. The desired second-day tour and every-booth completion are unprinted. Reading the launch as EOF would erase her ongoing request and the adult's surprise; reading every request as a completed outing would erase the difference between that enjoyment and the new burden (`BA:momotalk:13013:thread:130130010`,through130130110; `BA:bond:13013:005`; whole `BA:momotalk:13013:thread:130130170`,through130130430)."
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "bcc87722a56231160bc1c6a7ee65d7c9b5844e5bc5408086afc966f565eb7edd",
+        "line_text": "E006 supplies a different revision through bodily comfort. Having reportedly corrected or removed earlier library nappers, Momiji tries resting there and finds it comfortable. She privately closes the facility and admits it, prepares a partition and apologizes. The adult actually falls asleep; her own sleep is not expressly narrated. Reconsidering the experience of rest is affirmative without proving that her changed preference is a fair access policy. E015 then revises an apparent universal reading ethic: the first collection is found unopened, and she chooses to keep it as her own treasure. The temptation of a premium price returns as pudding boxes even after she refuses to sell. Her ability to keep the book and enjoy actual shared pudding gives a finite resolution without making desire perfectly consistent (`BA:bond:13013:006:s2u3–43/015:s1u10–69`)."
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "14a8e801f76743f950c43c92e7cf620e8f92ed5f89369a9071509c0112b73d92",
+        "line_text": "EVENT829 provides a local peer sequence rather than a dated successor to every private episode. Momiji first defends Luna and shifts from the work to a demand that its critic produce a masterpiece, leaves during a broader property/resource quarrel, later independently calls to reconcile and recognizes the reasonableness of an author's perspective. Actual apologies precede manuscript completion. Her help resumes, and she eventually objects to the four-day burden even as the friendship continues. EVENT852 adds food need, assistance, readers and a received settlement; it is not automatically proof that Luna became a profitable later career. Event labels, variant IDs, release metadata and costume conditions do not establish a global MAIN/private chronology (`BA:event:829:001/008/009/015`; `BA:event:852:001–004/010`)."
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "0f075b8f5a3ec096193faf578ec830d1d181cf13a50605c7510500461afdc472",
+        "line_text": "## 3. Public and private presentation: devotion includes personal appetite and independent judgment"
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "c5062c58cafc3e41c83aca40be663f1ec771e502010709117723ff3fa4586a40",
+        "line_text": "The permanent profile locates Momiji in the Knowledge Liberation Front and contrasts book collecting with the food-oriented conflicts around her. It also admits repeated personal acquisition applications and their rejection. That concise presentation cannot overrule E015's imagined pudding and actual snack. Nor can its admission establish that every application is illegitimate or that persistence eventually secures approval. The person who describes books as made for reading also keeps an unread first collection and likes pristine and worn volumes. Those printed tensions preserve a living repertoire rather than an analyst's perfectly consistent institutional mascot (`BA:character_data:13013:profile_and_dialog`; `BA:bond:13013:003:u37–55/015:u25–69`)."
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "08211faaa8aa717ce7bf6ebc92094bb50754e88fc531389e5a8fec56e5cdaef9",
+        "line_text": "In private she readily downplays how important a lost object might look to another person, while calling it her treasure and accepting volunteered help. At the Black Market she has a specific out-of-print work, admits intrusion and denies illegal trade. Her hand-taking and accomplice address provide real local company without proving legal exoneration or making secrecy universally ethical. Her enjoyment of a collection need not be laundered into public service to count, even though using a public-ordering rationale for personal acquisition creates a different question. Separating those warrants permits both a serious want and a serious resource problem (`BA:bond:13013:003:s1u18–59/015:s1u10–23`; wholeMM130130400550–650)."
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "69f25847b1117cd99458f4684cca9eea85868d81a84d80af0b7a112d918d7d6c",
+        "line_text": "Her public peer role is especially assertive. She defends a work's memorable characters, objects to taken food, acknowledges emotional conduct, refuses demanded revolutionary content and chooses help with a manuscript. The last complaint about imposed labor is not an ungrateful reversal of a positive ending. It is a perspective the narrator's comfort and the adult's approval cannot replace. Her happiness returning to the library and her concern for the gift coexist with the fact that immediate work interrupts wanted rest. A shy-devotee-versus-bold-protector mask theory adds little unless it can retain those precise changes in audience, request and cost (`BA:event:829:001/008/009/011/015`)."
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "a7a82a0861506d3f681b724052f71e63829a9906fd8ada41b2bd63e005306931",
+        "line_text": "EVENT852's material need and reception add public conditions that are not captured by her profile's book-versus-food shorthand. Delayed funds and her unsuccessful hurried book-based funding effort coexist with Mel's hunger; actual food and later settlement matter. The authors' gratitude is positive, but adjacent actor/style seams limit assigning each utterance cleanly. These collective outcomes do not authenticate every funding cause, payment amount or private motivation. They do show that books, eating, livelihood and readership can belong in one account without making one the mere disguise of another (`BA:event:852:001:s1u2–51/004:s1u34–69`)."
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "70bd0f559e31d2db2e138c1f3df232b97c20962d99c7a020fbba3f8c588f921d",
+        "line_text": "## 4. Knowledge Liberation Front and library: protecting access also tests her own uses"
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "082ae7cc51b07180f6bd0555ce5c510370e65f7d827b11bb9d2d2b71dac226ac",
+        "line_text": "Club history is valuable before it becomes administrative success. E002's recovered rough booklet gives contact with earlier members' attempts and courage to draw, while leaving club problems unresolved. The old object is not reducible to its literary greatness, price or utility as a repair instrument. Momiji's public reminder, remembered by Mel, that an old book is new for a reader new to it supplies another basis of access. A library can transmit this kind of relation across time without acquiring a newly published edition. The history and discovery have their own affirmative ends (`BA:bond:13013:002:u42–79`; `BA:event:829:005:s1u2–16`)."
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "2e1c878ff66990b88ff5ad9fb894fc1d6e044434586928a0536fc81412fc1cb6",
+        "line_text": "The private ordering scenes nevertheless expose how public access can be entangled with her collection. E003 wants public holdings while admitting personal acquisitions; the profile confirms repeated applications. Rejections and a reported ban in EVENT829 are not fiscal audits. They do not warrant saying either that the institution always obstructs legitimate learning or that every purchase is properly public. Mel's complaint about duplicate limited-edition ordering is a substantive contrary claim beside Momiji's interest in preservation and dissemination. The character can sincerely want broad knowledge and privately want possessions, with no universal equation between those purposes (`BA:bond:13013:003:u45–55`; `BA:character_data:13013:profile_and_dialog`; `BA:event:829:001:u67–92`)."
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "0399aa8e950f5bba8888b9c57c8762bb1df7205b92b19e0d2e22b24255878549",
+        "line_text": "Library closure makes the distinction sharper because it affects use rather than only acquisitions. Momiji first presents a closed day, then admits she arranged a temporary closure privately. She reports earlier nap enforcement, values the comfort herself, prepares a partition and apologizes. The adult's actual sleep makes the rest a real benefit; hearsay about other schools' nap rooms gives no authorization. No later access repair or compensation to other users is printed. The monograph should neither dismiss quiet care as insignificant nor endorse the closure simply because one recipient rests successfully (`BA:bond:13013:006:s2u3–43`)."
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "8cbffb6ac9323cc539734644175ca32a9bbb531524f6c9434d1b5cf0633069c9",
+        "line_text": "Public institutional resistance is also local and directed. Momiji affirms protecting knowledge beside Mel's refusal of a Cherino-centered medal bargain. She appreciates Works Club help and library visits while refusing Minori's demanded theme. Gratitude does not entail editorial obedience, and liberation vocabulary does not merge clubs into an actual alliance. The handled encounters do not supply every battle mechanism or lasting freedom from censorship. Yakumo's contract and manuscript pressure belongs to a further unequal relationship, whose this-manuscript claim is withdrawn while a future demand remains. Resisting those demands gives the club's independence a concrete test; it does not settle their own internal acquisition or access questions (`BA:event:829:010–015`)."
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "50fb71d0ced41c05b08f85377d0d3bcaf34b8ade7d2bcf39410f8ab66ec56845",
+        "line_text": "## 5. Ordinary life: the pleasures of owning, reading, browsing, resting and eating"
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "460473e8dd9c6d78defb64425e93baac4cb3180884f3476e259c8941f09c8559",
+        "line_text": "Momiji likes books at different stages of their material lives. A worn non-first edition can be loved for use, a pristine book for intactness, an unfinished old booklet for attempts and history, and an unopened first collection for possession. Written6440–6441 leaves her unable to choose between reading and collecting. This is positive evidence against a hierarchy in which only consumed information counts as worthwhile. The still-unread treasure is not fraudulent devotion, and the imperfect historical work does not require a masterpiece designation. Their distinct material relations are ordinary reasons to care (`BA:bond:13013:002/005/015`; `BA:character_data:13013:profile_and_dialog`,6438–6441)."
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "36e2d17a4c042d93a9b0e6dcd53de8e2b1100135927c83a9cbc4de2f7c4fe5ec",
+        "line_text": "The festival is meaningful as a day rather than only an acquisition pipeline. Other students want food and allow her browsing; the account does not demote their taste. A full-booth plan is acknowledged as impossible, several possible purchases remain intentions, and an intact limited-edition bonus is actually found. The adult's supposed luck is her interpretation of that joy, not a guaranteed collection power. Actual walking, many books and happiness coexist with concern about fatigue and a wanted second day. Her wish for occasional rather than daily library visits also gives company a chosen rhythm without printing an enacted schedule (`BA:bond:13013:005:s1u4–17/s2u4–36`; wholeMM130130170210–430)."
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "0cde91b02028fb7d978a889e19473492971a8fe196b2d7c72cb2241e05a2fe56",
+        "line_text": "Pudding is an especially clear ordinary end. Selling the recovered limited collection could, in Momiji's imagination, fund new books, heaters, an annex and unlimited pudding. No money or those goods are acquired. She refuses the sale, keeps her first collection and still imagines pudding boxes; then the adult offers pudding and the narrator gives actual pleasant snack time. The scene allows a treasure, a decision and appetite to coexist without converting the snack into proof of fiscal reform. Its quiet completion deserves the same analytical precision as an institutional victory (`BA:bond:13013:015:s1u28–69`)."
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "3e66a179a821414c8d2231c50bc935abcaa1b67594db1957607798b6b434b3e5",
+        "line_text": "Gift834102 adds an actual shared practice: the adult receives and opens a copy, Momiji later opens her own, and the ending gives joint manga reading, chocolate eating and positive affect. Her preservation, reading and dissemination copies are distinct at u8–11. The Japanese u12 frames a disseminating-copy gift, while Korean emphasizes first-reading access; permanent ownership is not a common warranted result. Her offered return, refusal, unfinished explanation and paired display request must stay separate from an installed desk display. The shared reading/eating is genuinely achieved without proof that the full volume is finished, every gift explanation is supplied or the relationship becomes romantic (`BA:event:834:102:u8–13/u26/u50`, complete adequate current meaning)."
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "bfb114e26bcbe768921fa504da94b6dbbcf16a8c60f3cc0e953d147076f7ea85",
+        "line_text": "## 6. Crisis and difficult situations: practical outcomes are neither miracles nor total failures"
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "cb59595a7c7e07df4c88eb2f88f2724d5603078f7af7565b31c6b4afa3d79c20",
+        "line_text": "The legendary-book search illustrates the difference between valued persistence and effective method. Rods, pendulum, magnetic-phone and divination suggestions do not find the object; the desired RPG blast is stopped. Actual restraint avoids inventing damage that never occurs. The remembered storeroom yields the booklet, and the adult's heart joke functions as a turn in thinking rather than a magical locator. Momiji's lowered claim then makes the achieved find more defensible: it gives history and courage but does not cure the club. A failure-of-miracle reading can retain the affirmative discovery instead of declaring the whole day pointless (`BA:bond:13013:002:s1u15–79`)."
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "f5af0b1d08e141753f841b90c3553e340ecc41dac48a97a0bbc26a3bd339d3e5",
+        "line_text": "The Black Market encounter contains a local danger and a source-attribution limit. Momiji's possible two-weeks-or-more toilet-cleaning consequence is a reported counterfactual, not an actual sentence or national law. The handover content at u11–14 conflicts with literalMOMIJI labels; the account cannot confidently ascribe the entrusting dialogue to her or repair it into a named police actor. The actual purchase and hand-taking return remain stronger bounded endpoints than legal acquittal. Her desired old book and admitted budget overrun are real motivations, while deterrence, print-run history and the justice of school discipline remain attributed or unverified (`BA:bond:13013:003:s1u2–59`)."
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "fc82c8d9d5402a1c9ff3f8bf1250b9617651417f1bdb7ee6dd24afaa0147fbc2",
+        "line_text": "EVENT829's four-day effort supplies another difficult situation which she judges independently. Momiji recognizes the reasonableness of criticism, calls because she wants reconciliation and says no one asked for elaborate production. She chooses to help once the relationship repairs, yet the immediate work interrupts her return to comfort. Her final insistence on costs prevents both total exploitation and effortless volunteerism from being adequate summaries. Mel's exhaustion and narrated loss of consciousness, coffee and adult forced movement belong to the actual event, with no diagnosis or universal labor standard; none grants Momiji's consent by proxy (`BA:event:829:007–009/015:u55–79`)."
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "e4112ebb5b694e7af5ecca2cba69ab82d4740a7967e5357a4f56270116fb145e",
+        "line_text": "Final's evacuation context preserves Mel/Momiji comic plans at a specific textual extent. No published book or complete safe arrival is supplied by that small scene. E852's need for food, pressure around funds and later actual payment likewise distinguishes acute provision from lasting security. Their ordinary interests continue under difficult circumstances without becoming proof that their shelter, finances or club have been restored. A character account can treat those plans and benefits as meaningful while leaving the greater repair open (`BA:main:100:002:008`; `BA:event:852:001/004`)."
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "8883797b283dff1a00c19d91c17cc0e9788b1adf85b453ccc58df6301c36a30c",
+        "line_text": "## 7. Sensei: volunteered company, mutual care and situated ethical problems"
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "94b6395c34ec58b47c1d9e8def39946be3bb99e56577514ea9f76aa5b858e283",
+        "line_text": "E002 permits the adult to leave before choice007 volunteers continued searching. The found booklet and the afterword's enjoyment give that choice an affirmative local outcome. E015 changes an earlier meeting plan because Momiji loses her treasure; Sensei volunteers in response to that need, and the scene ends with shared pudding. These particular choices refute an account in which she only consumes obligatory adult attention. They also refute a universal limitless-Sensei explanation: one continued search and one volunteered visit are not a rule that the adult must always provide time or that every future request has been met (`BA:bond:13013:002:u48–69/015:u10–69`; wholeMM130130010/400)."
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "d68ef13d80fb3827044b64d00b4f289064463ea7bc9961f1b7730e1fc8ab12ae",
+        "line_text": "Momiji takes a caring direction in the festival afterword and library scene. She checks walking fatigue, receives the adult's “okay,” and still requests another day, preserving both concern and continued desire. In the nap scene she provides a partition, asks whether the response is more than indulgence, receives agreement, notices breathing and offers thanks and goodnight after the adult actually sleeps. Care is performed at a quiet endpoint, though her own sleep remains unprinted and the privately closed facility retains its access problem. The positive beneficiary outcome cannot certify every surrounding use of institutional resources (`BA:momotalk:13013:thread:130130170`,320–430; `BA:bond:13013:006:s2u25–43`)."
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "0e777130b1f5eb36bd24ea5dfeb0832f7e8a19bc8c750c3dc129fa3b04ec0d25",
+        "line_text": "Secrecy and luck are more ambivalent relational forms. E003's adult secrecy option and accomplice address can express warmth without establishing universal ethical propriety or a completed legal finding. E005's adult luck language follows a real find without proving supernatural power. Written gift reciprocity worry and receipt-only allowance do not supply an already exchanged annual gift; EVENT834102 supplies its own actual sharing at a separate event. Keeping each frame source-local avoids making favorable attention a blanket authorization for acquisitions, closure or demands (`BA:bond:13013:003:choice009/u58–59/005:s2u20–36`; `BA:character_data:13013:profile_and_dialog`,6453–6454; `BA:event:834:102`)."
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "c95e3ef6186d7102d5b6558e1bf6aa5e32fcfe350b68a2c6617586b81a09fd28",
+        "line_text": "The public ending preserves the adult as limited rather than the final arbiter of her experience. Sensei helps reconciliation and the manuscript, recognizes some limits and can say the effort was fine. Momiji says that this answer is not her answer. She has also already chosen help and enjoyed reunion, so her objection cannot be discarded as proof that no affection exists. No reciprocal romantic agreement, clinical recovery or institution-wide success is warranted from those caring and pleasurable acts. Her independent judgment is part of the relationship's substance (`BA:event:829:008/009/015:u55–79`)."
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "738e9ef974cc0008a73a9592b8d0400ea32fbbbd9312245b1428c7f346521352",
+        "line_text": "## 8. Mel, other peers and recipients: being together does not require the same taste"
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "e5be24b6ecf1997721ae03d78e37e06aa52893856c07a47494e8a6fa2f824326",
+        "line_text": "Momiji's defense of Luna is a serious literary response and a flawed argument. Memorable characters matter to her; Mel's criticisms concern structure, convenience, contradictions and unresolved threads after actually finishing the work. Requiring a masterpiece from the critic shifts from the work to personal qualification and does not answer those objections. The full fictional Luna is unprovided, so neither opinion becomes an independent analyst's verdict. Her later acknowledgment that an author's perspective could reasonably produce that criticism is a genuine correction without proving that every earlier preference was wrong (`BA:event:829:001:u4–64/008:s2u13–19`)."
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "a46b564c6b4e4cc84e7fd9c5c42823ae256e99d96f38882d1adf4530e8982553",
+        "line_text": "Property disagreement needs the same precision. Momiji objects to Mel's consumption of her pancake tempura; Mel admits consuming it and suggests labeling, while Momiji insists that not buying it should suffice. Mel's duplicate-ordering and reported application-ban complaint is separate contrary evidence concerning Momiji's resource habits. The current public account's actor drift remains qualified, but those represented competing claims cannot be reduced to an innocent difference in taste or erased by later gift making. Actual separation and subsequent reconciliation have meaning because the material disagreement was real (`BA:event:829:001:u67–92`)."
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "3a10678c5651edaac3e46d91a155f2cc47804146efff35f8a86f6232bff39315",
+        "line_text": "Repair proceeds through independent initiative and chosen work. Momiji's call is her action; she accepts that she became emotional and does not demand an elaborate finished product as the price of reconciliation. The actual apologies include unfulfilled promises about food and book ordering. Mel then still wants to make and give, and Momiji asks why its recipient must help before actually agreeing. Their renewed characterization/page/time/printing debate restores a shared practice, not unanimous judgment. The final protest about four days prevents Mel's all's-well interruption from being the only account of their end. They remain together with an obligation to listen, not a certified permanently repaired friendship (`BA:event:829:008:s2u13–64/009:s3u5–70/s4u2–20/015:u55–79`)."
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "2f940f14990965e0121153319e280d4da711ac27b63244daba4c13984b8a1ad2",
+        "line_text": "Other actors also have their own purposes. Nodoka wants heating and bedding; Shigure proposes a stove bargain; Minori values literary help while demanding political content; Yakumo handles production and wants future work; Takane critiques and wants an ending. Their public roles must not be collapsed into automatic friends, enemies or club members. Momiji can appreciate prior assistance and refuse a new demand. Readers in EVENT852 want circulation, discussion and continuation, while actual purchase and settlement give the authors material benefit. Shared “knowledge” or interest in a book does not certify every reader's permanent affiliation, every payment's fairness or every future publication (`BA:event:829:010–015`; `BA:event:852:002–006/010`)."
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "fc43590155de4e6ea49aabd553629e1e4996920fc9ea563a2986a9aebc5104d7",
+        "line_text": "## 9. Written register and attribution: conditional language remains conditional"
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "09bca162489f69b163ba0a753483dec01ab32e1913ec5952e5f3c1a06fe85ada",
+        "line_text": "The permanent13013 written object has eight profile fields and47 contextual records6428–6474: Title1,Get1,Cafe5,Lobby28,Weapon1,Special11. The name秋泉モミジ and Knowledge Liberation Front location govern the present literal scope; it is not an identity authenticated by a title shared with another person. Rejected ordering and determination, pristine/worn preferences, the unresolved read-or-collect question, dreamlike stories against hard reality, birthday recommendations and wanted reading are meaningful linguistic conditions. New Year company and the Christmas first-edition wish remain wanted futures rather than completed events. Weapon quiet language can carry a conditional threat without an actual attack in this account (`BA:character_data:13013:profile_and_dialog`)."
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "dacd8d157f2d462514bdf1cbabebc8f60e6232f0ea46b930b81d22b955991aba",
+        "line_text": "Costume1900917101 routes to13013 with an empty profile and99 records:829 and10829 each have15Lobby/14Shop/13Card,900829 has15Lobby only. The absent Shop/Card conditions are not missing scenes to invent. Picture-and-text interests and written concern for Mel contribute a peer orientation without placing her into a new encounter. Shop confidence, rare-book wishes, veteran-style language and Buy/selling conditions do not prove enacted earnings, fraud or a merchant biography. Card favorable luck, unfavorable crying and support after disappointment remain different alternatives; their repetition does not turn into guaranteed wins (`BA:character_data:event_costume:1900917101:character:13013`)."
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "3f3a9734473480479b1907af3b4134c2217be54af7b8aa03c3a28fa192ff2efc",
+        "line_text": "The two written objects supply146 contextual records and eight normal fields, not146 consecutively enacted conversations. Their echoes of the festival's rare find, luck and visits support a contextual baseline rather than another tour. The complete MomoTalk extents distinguish thread IDs from message endpoints: thread130130010 has messages130130010–110, launch060; thread130130100 has messages130130120–200, launch200 at EOF; thread130130170 has messages130130210–430 after its310 launch; thread130130320 has messages130130440–540, launch540 at EOF; thread130130400 has messages130130550–650, launch650 at EOF. The shortened endpoint suffixes retain their130130 prefix. Those are actual endpoint ranges, not a claim that every intervening integer is a message. The absent separateThread150 heading is a segmentation limit, not an invented lost object."
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "141a904392f426182ea401469642176b514ecd3770d18cac0df0f829b1d5a143",
+        "line_text": "Written actors and locale details stay at their separate warrants. E003u11–14's handover content conflicts withMOMIJI labels; E829 actor drift and literal모메지 are not new people; E852 gratitude/style seams prevent universal clean speaker assignment. Gift834102u12 Japanese dissemination gift versus Korean first-reading access cannot be flattened into certified permanent ownership. Choice alternatives, inward reactions, narration and heard text are not automatically one mode or one executed history. Names, knowledge-protection language, accomplice address, luck, questions, apology and thanks have been received as writing. No pitch, cadence, gesture, native-actor repair, performed voice or audiovisual receiving is claimed."
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "451311191eac879dc0bce66c9c393400d9102ce9bc0556673dcac95c43cc6919",
+        "line_text": "## 10. Competing readings: seven accounts tested against plural value and finite ends"
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "327cef6bb463f93c730a793837f11c22a15d7457cacffdb2b9f2525a3886a707",
+        "line_text": "**The pure public custodian whose wants are all institutional.** History, protection of knowledge, public collection and refusal of imposed themes strongly support public orientation. Personal ordering admissions, unopened possession, pudding temptation and privately closed rest-space are substantive contrary evidence. Neither set cancels the other. Her public rationale can be sincere and still fail to authorize a particular private use. This reading is strongest as one purpose among several, weakest as the explanation of every purchase or act (`BA:bond:13013:002/003/006/015`; `BA:event:829:010–015`)."
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "5b1c41857640fce876a9644b4f79abb966130c8d077bf19f06500a3b3d31ec6a",
+        "line_text": "**The selfish collector whose knowledge language is only an excuse.** Budget overrun, personal acquisition and the access asymmetry make this a real critical possibility. The actual lowered claim about a rough historical work, voluntary release from searching obligation, concern for fatigue, provided rest, shared reading and independent reconciliation call prevent universal pretext. Some actions are materially disputed while other caring acts actually occur. A person-wide flaw thesis would remove the very differences that make the criticism justified (`BA:bond:13013:002/003/005/006`; `BA:event:829:008`; `BA:event:834:102`)."
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "fc367cfcc4b17eb316e2d9926a0d6de0d49d7bea567fc6d61462e219044a41d9",
+        "line_text": "**The reading absolutist whose collecting is a contradiction to repair.** E003's reading ethic is printed and significant, but an unopened first collection remains her treasure and written6440–6441 declines to rank reading against collecting. Wear and pristine condition are both valued. This is a plurality of relations to objects, not merely a failure to obey the analyst's selected slogan. The contradiction can remain funny and meaningful without eliminating her genuine desire for public access (`BA:bond:13013:003/005/015`; `BA:character_data:13013:profile_and_dialog`)."
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "8deda33c761f0a33c1c57cf6bfc20a45955dc349392748eadb720fb63182c570",
+        "line_text": "**The devotion that eventually fixes the club.** Actual recovery of the legendary booklet, courage, protected knowledge, reader reception and settlement supply positive evidence of effective action. E002 expressly denies that the find solves club problems, while applications, conservation, access authorization, shelter and durable budgets remain unfinished or unverified. Care and determination produce specific goods, not a miracle transition. A fair argument retains both the gains and their exact lack of administrative closure (`BA:bond:13013:002/003/006`; `BA:event:852:001/004`; `BA:main:100:002:008`)."
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "3f69ccfd9b37d737003499bd124710becb1265ad10a48016ec03ef7eb497a124",
+        "line_text": "**The uniformly considerate companion whose good care establishes consent.** Permitting departure, checking fatigue, caring for a sleeping adult and voluntarily collaborating support genuine attention. Further outing requests, private closure, taste pressure and the public production burden are concrete contrary conditions. A positive nap or reconciliation does not authorize every use of other people's time, facility access or preferences. Care remains valuable because it can be actual and local, not because it certifies uniformly unobjectionable methods (`BA:bond:13013:002/005/006`; `BA:event:829:001/009/015`)."
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "4d3cd462d2ddb1777a45321cb8ff9914a6b7445721697ffbbadd0b9cc041f237",
+        "line_text": "**The helpless recipient whose adult must supply all correction.** Adult search companionship, remembered storeroom, volunteers and pudding give this account genuine support. Momiji also changes the value assigned to the old booklet, provides rest, checks exhaustion, initiates reconciliation, judges Mel's criticism and refuses political demands. Her final labor objection supplies a perspective Sensei does not replace. The relationship is reciprocal in specific acts without proving symmetrical authority or inexhaustible availability (`BA:bond:13013:002/005/006/015`; `BA:event:829:008/011/015`)."
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "a38e7542b330a2ebc36aad370a8550604ec4e014b04b665a14cc92bc79d72569",
+        "line_text": "**The harmonious friendship or romantic completion that settles everything.** Actual reunited company, shared work, pleasant snacks, quiet breathing, thanks and joint gift reading/eating are strong positive ends. Unfulfilled restitution, interrupted rest, lingering pudding temptation, access problems, different criticism and the last labor objection keep those ends finite. No completed romance, clinical cure, permanent resource agreement or conflict-free friendship is supplied. The stronger account allows people to enjoy being together while retaining different tastes, property and judgments about care (`BA:bond:13013:006/015`; `BA:event:829:009/015`; `BA:event:834:102`)."
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "bb2d990f8abae978759cc0ee523346e6ae0982adc914e0a6291890d7e41dd4d0",
+        "line_text": "## 11. Source boundary, original open gaps and completion disposition"
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "dd500d30b412f270fe10bbbc9b67efa4938e5abce833e23a5330549fa08788d1",
+        "line_text": "The existing required homeP3-CHAR-MOMIJI/P3-F022 is grounded in presentBA_PERSON_MOMIJI/variant13013, not a new denominator entry. Current small coverage explicitly gives12 selected responsibilities5BOND/5wholeMM/2written with qualified currentCycle008 complete admission; its historicalPROPOSED13_UNINSTALLED151 pool label and frozen_selected_scope_count0 are distinct fields and do not mean that the present normal account is unread or unaccepted. The complete307-line adequate Momiji normal argument was personally received1–140/141–240/241–307EOF. Its producer's12 whole primaries/five link proofs are attributed, not new source credit. Exact responsibilities are BOND13013E002/003/005/006/015, wholethreads130130010/100/170/320/400, permanent13013profile/dialog and costume1900917101→13013."
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "24fed346c6fcba07503ccb7ef877651d87590c16a0a72c2ddd9efd781a63a700",
+        "line_text": "The current complete public arguments actually received are EVENT829160/fifteen selected objects, EVENT852205/ten, EVENT834268/38 and Final100C002E00829. Gift834102 is one of the38, not an additional whole primary. E829's full current account controls public endpoints and actor qualifications where the private producer reused older local analytical line numbers or paraphrases. In particular the current food objection concerns not buying what belongs to another person; it must not be turned into a claim that Momiji only failed to buy enough. WholeRedWinter7 provides the independent Mel private comparand. G280,G130,E808,E802 andE839 are complete regional background/comparison arguments; no Momiji appearance or GROUP duty completion is inferred from school, library, shared actors or number matches. Current crosswalk and owner routes supply admitted scope, not automatic cast credit."
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "c5cc0ce345a6118a68be8e686915826bad5278ccfd74b9a71aed6d4ae711ee9a",
+        "line_text": "CurrentCycle008 supersedes the normal owner's historical outside-frozen-pool/uninstalled/admission and Phase3-unestablished language for present qualified status, while preserving it as producer history. The author's new synthesis remains pending independentROOT reception and canonical adoption. SourceJapanesea038020f1f5ac02dcfe76962426d38f86414cdd8/generationBA_REFRESH_20260928T032248159554Z/gamev1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1/parser0.2.0 is distinct from analyticalmain2e/c1, dated732 navigation and present mutable controls. Exact unchanged literary file equality, when verified, is binding rather than fresh prose/primary reception. Undeclared exposure/order/independence UNKNOWN, FIRST/SECOND unassigned; native/raw/QA/primary/voice/image/AV0. AllnineUNBOUND and preserved_phase2_work bodies remain unopened/unhashed."
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "f0cc3507ecc1be9c1ac2733c10d6db5883018f326e7223ccece4f5eb60cb1561",
+        "line_text": "| Original stable gap | Momiji's contribution and remaining warrant; status OPEN |"
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+        "line_text": "|---|---|"
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "0b4090aa66d899b2e7d0a6fed468d5afc25116b322bb079ab39b9427e9e8f1d1",
+        "line_text": "| G01 Ordinary and private breadth | Twelve whole private responsibilities give reading/keeping, incomplete history, taste, fatigue, rest, pudding and company distinct actual/wanted ends. All future/private repertoire remains unestablished. OPEN. |"
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "804b59507c104a70a97a7545c18d943f339bb90ff0eda8c738dc26a51a905c73",
+        "line_text": "| G02 Yuuka council/club decision transfer | Momiji's acquisition/access/refusal questions do not complete Yuuka's council authority, club transfer or decisions. OPEN. |"
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "784a8e7ff9430071b746b1397e96f2a9234aa0d53e7cef69528c0fea9783ba3e",
+        "line_text": "| G03 Serika service, peer and reciprocity range | Local reciprocal care, gift sharing and distinct burden judgments offer comparisons without filling Serika's service/peer source scope. OPEN. |"
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "fd0745287af9cec03a92469e003edd7d41999ad86257df1b9dc67690f1a3c728",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Search restraint, material need and public editorial conflict do not supply Hina's causal/accountability/ordinary evidence. OPEN. |"
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "b1636fc8a5d8f418385023b0ea08d64f3c9e5031566339dada3a2bd40c7df868",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | Books, eating and wanted quiet remain intrinsically eligible; otherE834 objects do not establish Momiji appearances or closure of Arius/PS68 duties. OPEN. |"
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "e5cda0b0f751c09bd87a1f08d8653c055f4e700d42d146d9a3f7061a4a9e1b9f",
+        "line_text": "| G06 Cross-school ordinary repertoire | Readers, actual gift sharing and source-local public interactions broaden ordinary comparison, without inventing attendance, memberships or uniform tastes. OPEN. |"
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "6012f0d7dedfc7e80dd02ec8c94208044d4aaa6c6df052898769a6e03fb0eebf",
+        "line_text": "| G07 Story-world chronology | WholeMM link/endpoints and localfour-day sequence retained; release, episodes, event/variant/condition codes do not date every private or MAIN scene. OPEN. |"
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "9a18fbd34e1dc34f6e3bdb202f97665d865e31b45c5ace693f4aa55ffd27dbeb",
+        "line_text": "| G08 Event naming and repeat contexts | ExactE829/E852/E834102/Final homes and costume829/10829/900829 modes retained; repeated books/festivals do not create extra enacted events or editions. OPEN. |"
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "697352182669054b53c91fd29ba7c9dc6dae4df68ef6b8b98f12af0d6b69dfab",
+        "line_text": "| G09 Written speaker/choice attribution | E003handoverlabel/content conflict, E829literal모메지, E852style seams, alternative replies and narration remain qualified; no universal actor repair. OPEN. |"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "a583d172614de63978820ce3f5812c1912a85d29a05b34176dc0589d80f82fa6",
+        "line_text": "| G10 Performed voice |146 contextual written records/profile/addresses received as adequate argument, not audio, gesture, actor, pitch or performed delivery. OPEN. |"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "943d56f2906b56c96402d46213d2f40d0684586750b83394c8660e72b86e9e75",
+        "line_text": "| G11 Hoshino's Yume record and office states | Finalcomicplans and shelter limits do not adjudicate Hoshino/Yume memory, causes or office states. OPEN. |"
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "6600b47e4ce67ed23373dda1e23d2edf96f1c8dca2d6d7fb702835f0ef91b729",
+        "line_text": "| G12 Counterpart, system and variant identity | LiteralBA_PERSON_MOMIJI/13013/1900917101 distinct from mode/condition labels; emptycostumeprofile and segmentation limits do not create another person. OPEN. |"
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "ee7a96347add99ce9be5d29076633b689b05933b268180cdd88c3492b9a61279",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | Actualfound/purchased/kept objects, adultsleep, snacks, reading and settlement retained; no club cure, conservation, authority-to-close, fiscal audit, legal sentence, medical or fair-contract certificate. OPEN. |"
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "058f6691f9fc26a25c4e2f8a5b8d5a05b3edfca4f720572eec2cd84c8137bf14",
+        "line_text": "| G14 Unclassified/mode continuity | Currentadmitted BOND/fullMM/written/event/MAIN and regionalGROUP comparands stay distinct; no unclassified source admission or mode join. OPEN. |"
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "f901b5ca6e021c286f6785dfb0a9186ad66bbc1e04617d5fa01b22b8051a0b8d",
+        "line_text": "No mandatory primary recovery remains for these actually bounded claims. Stronger assertions about the literalE003 police speaker, authorized closure/access repair, fiscal justice, market prices, legal exoneration/punishment, completed preservation, every-booth/second-day tours, future schedules, delivered printing/commissions, restored shelter, diagnosis/cure, permanent gift ownership across locales, finished volumes, installed displays, reciprocal romance, universal consent or performance would require specific further warrants and are unasserted. The full saved body and exact receiving/freeze packet are prepared for independentROOT review. There is no author-granted acceptance, model, source-count, canonical, publication, merge or milestone credit. The distinct required Mel–Momiji directed synthesis and applicable library/club/publishing/institution/Sensei/register responsibilities remain mandatory alongside fullcast355/29 completion. This monograph's bounded completion is separate from those duties."
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          7,
+          7
+        ],
+        "canonical_lines": [
+          7,
+          7
+        ],
+        "frozen_text": [
+          "status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          27,
+          27
+        ],
+        "canonical_lines": [
+          27,
+          35
+        ],
+        "frozen_text": [
+          "publication_acceptance_and_count: ROOT_ONLY_PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_publication_acceptance_and_count: ROOT_ONLY_PENDING",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MOMIJI_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMIJI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          31,
+          30
+        ],
+        "canonical_lines": [
+          39,
+          40
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded character responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MOMIJI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MOMIJI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,18 section-parent allocations,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Character Monographs home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "original_transports": [
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MOMIJI_CHARACTER_MONOGRAPH.md",
+      "bytes": 39210,
+      "sha256": "721310746653bb6c5c5faf91fa8dda615187c5d4c1d4eaefb2946755eb988c9b",
+      "git_blob_oid_of_actual_bytes": "4d586d38e2a23891c4e47cc293f49f5739b84e56",
+      "lines": 161,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MOMIJI_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MOMIJI_CHARACTER_MONOGRAPH.md",
+      "bytes": 39210,
+      "sha256": "721310746653bb6c5c5faf91fa8dda615187c5d4c1d4eaefb2946755eb988c9b",
+      "git_blob_oid_of_actual_bytes": "4d586d38e2a23891c4e47cc293f49f5739b84e56",
+      "lines": 161,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MOMIJI_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/MOMIJI_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 114229,
+      "sha256": "5e6043fec10babd8e65f73aea851a645db6d6b0259f80cd48e1495e9070f0336",
+      "git_blob_oid_of_actual_bytes": "ec2898c3876c709a88a3e4e77ab19a19841bc756",
+      "lines": 2294,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/MOMIJI_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/MOMIJI_FROZEN_OUTPUT_MANIFEST.json",
+      "bytes": 2698,
+      "sha256": "c1b5216ae26af61c72b9eb97a7a124f9877981cdcdf04c553839d6367b6adf04",
+      "git_blob_oid_of_actual_bytes": "02eaee8ef2155395018ce4643c370770fb0379fa",
+      "lines": 53,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/MOMIJI_FROZEN_OUTPUT_MANIFEST.json"
+    },
+    {
+      "path": "ROOT_MOMIJI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 6255,
+      "sha256": "4264400fc11fca1e55ee7c8fecd941014427303f625e2e81c42e85349494cdcd",
+      "git_blob_oid_of_actual_bytes": "c7b26a9ad124331da07ecbd3a2a15b0dd0ead3a3",
+      "lines": 80,
+      "immutable_transport_path": "immutable_originals/ROOT_MOMIJI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/MOMIJI_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 7481,
+      "sha256": "1446003879a856365fe8f6a03a5e8a8e02a3e68f431b5fc08198245d4f24c3b7",
+      "git_blob_oid_of_actual_bytes": "cd666275dcdb21df7f7f287bdb0707fc41425c2d",
+      "lines": 37,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/MOMIJI_MONOGRAPH_RECEIVING_RECEIPT.md"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/MOMIJI_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 6785,
+      "sha256": "4a2d4e178070aa3611bd147fd6494f27f55305c963960500783b749503ea3762",
+      "git_blob_oid_of_actual_bytes": "01e9734abde02e4cac62aa6b699c76f79af46112",
+      "lines": 118,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/MOMIJI_CURRENT_WORKTREE_METADATA_PROBE.json"
+    }
+  ],
+  "mandatory_canonical_qualifications": [],
+  "canonical_link_only_translations": [],
+  "new_primary_performance_independent_model_scope_or_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

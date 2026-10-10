@@ -1,0 +1,140 @@
+{
+  "schema": "BLUE_ARCHIVE_UMIKA_PUBLIC_ROOT_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE_INSTALLATION_PENDING",
+  "subject": "Umika",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This preparation has no persistence or publication effect before complete ROOT installation. ROOT must verify the successful actual exact-head source/housekeeping/final chain for 732b3f2e635d2b8e8855f4e6709354031936ebc6, complete the final whole candidate receiving, and install all final declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The complete original payload is immutable. Its pending, C-only, historical counts and audit statuses describe its creation-time custody event, not current adoption. Current ROOT acceptance is qualified explicitly here. Current scope remains355/29; no new source, primary, performance, model, independent literary or count credit follows from transport.",
+  "original_exact_tuple": {
+    "path": "ROOT_UMIKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 4327,
+    "sha256": "3d9c5bd5bd4ec42d6dc63758ae2d86ff3ebe19d0362e51f231c31ccd1031d500",
+    "git_blob_oid_of_actual_bytes": "0b4e4a7a3e8f0783754c939c2f942540786cea1e",
+    "lines": 73,
+    "immutable_transport_path": "immutable_originals/ROOT_UMIKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "public_reference_translation": "Full original fields and strings survive with declared reference translation only; public provenance labels do not serve files or admit material. Original byte tuples remain original witnesses and are not claimed as derivative tuples.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "Author and ROOT complete/bounded meanings remain attributed to actual scopes. Mechanical transport adds no literary receiving."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_UMIKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "checked_at": "2026-10-10T15:55:12.178180+00:00",
+    "status": "PASS_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "decision": "ACCEPT_CORRECTED_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_UMIKA_CORRECTED_OPERATIVE_CANDIDATE_V1/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH_CORRECTED_CANDIDATE_V1.md",
+      "bytes": 39757,
+      "lines": 169,
+      "sha256": "b381617e873307ea9f0c0fc9bfdbd1c1037ec6ff3ee312ab9038b1275d50788b",
+      "actual_byte_blob_oid": "f57cfb0e8868f520abb19a883764000c3ea38f20"
+    },
+    "existing_home": "P3-CHAR-UMIKA/P3-F037/BA_PERSON_CH0110/10090",
+    "exact_verification_receipt": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_UMIKA_CORRECTED_OPERATIVE_CANDIDATE_V1/ROOT_UMIKA_EXACT_CORRECTION_VERIFICATION_V1.json",
+      "sha256": "821ab75b2303ae9eb2dc4467727ba5a8fae98e14b770329232fd73ae35bfaec4"
+    },
+    "exact_binding_unique_pairs": 192,
+    "exact_binding_occurrences": 221,
+    "saved_nonempty_line_joins": 106,
+    "historical_analytical_equality_comparisons": 51,
+    "original_and_supplement_payloads_preserved": 151,
+    "dated_navigation_reconciliation": [],
+    "ROOT_actual_receiving": {
+      "whole_original_saved_body": [
+        "a01e80 lines1–84",
+        "6ae4f2 lines85–169EOF"
+      ],
+      "all12_private_meanings_and_endings": "91cb02 lines273–331;5B5MM2W",
+      "comparative_argument_and_terminal_limits": "d90af4 and54972d; bounded analytical custody, no whole504 fresh ROOT claim",
+      "whole_E80000_comparison": "0221d2 lines1–95;dcdbdd lines96–178EOF",
+      "whole_gift117": "dcdbdd44EOF",
+      "meaningful_receipt_controls_readable_freeze": "88aa50 all39 readable/all62 freeze",
+      "whole_erratum_and_receipt": "8ce5be all19/all66EOF",
+      "complete_corrected_paragraph_and_lossless_inverse": "d42f76; reaffirmed c7ec55",
+      "whole_repeated_JSON_narrative_claim": false
+    },
+    "semantic_grounds": [
+      "Ordinary travel, food, photographs, work and wanted company retain intrinsic analytical value. The account preserves embarrassment, accommodation, successful greetings and finite improvement alongside missed transport and schedule errors.",
+      "Adult paying and returning in BOND003 are actual actions; they do not show every offered food eaten. BOND005 requests to forget or avoid discussing the encounter remain unresolved after repeated questioning.",
+      "Achievement and future aspiration remain distinct. Distributed event work, her own costume refusal, mistaken timing and later cooperation preserve other characters’ choices and unfinished costs.",
+      "Written wording, literal CH0110/costume joins and complete supplied codas support bounded characterization; reciprocal romance, heard performance, universal consent, institutional guarantees and world chronology remain unproved."
+    ],
+    "mandatory_canonical_adoption": {
+      "use_corrected_operative_candidate": true,
+      "original_body_sha256": "f58f3688785308ad8157262285ab46590233ef75aaac8a0e853c8152564d3465",
+      "erratum_receipt_sha256": "22f9b05aa305658b5a1a59b697aadc6aca8b6546a51a90bb2af5f98138dfa918",
+      "single_changed_line": 104,
+      "all_other168_lines_unchanged": true,
+      "complete_reverse_exact_original_bytes": true,
+      "preserve_originals_erratum_and_inverse": true
+    },
+    "eleven_dimensions": 11,
+    "serious_competing_readings": 7,
+    "all14_original_literal_gaps": "OPEN",
+    "new_primary_native_raw_QA_AV_model_credit": 0,
+    "nine_unbound_large": "UNOPENED_UNREAD_UNHASHED",
+    "scope_denominator": "355requiredpackages plus29mandatorynamedsections unchanged",
+    "progress": {
+      "previous_ROOTaccepted_packages": 77,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 78,
+      "character_packages": 75,
+      "directed_relationship_packages": 3,
+      "published_remote_packages": 73,
+      "published_source_commit": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+      "canonical_Umika_persistence": "PENDING_NEXT_EXACT_CANONICAL_ADOPTION",
+      "first_quarter_threshold": 89,
+      "quarter_reached": false
+    },
+    "R_Git_provider_writes": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+    "bytes": 42036,
+    "sha256": "81af4f3dfcdf8a5a76719ecae548cd2359de14c749b892115106339232a57e54",
+    "git_blob_oid_of_actual_bytes": "5efc58aea7fb2604cf821917723e18247aeeb9d3",
+    "lines": 179
+  },
+  "original_author_body_tuple": {
+    "path": "FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+    "bytes": 39767,
+    "sha256": "f58f3688785308ad8157262285ab46590233ef75aaac8a0e853c8152564d3465",
+    "git_blob_oid_of_actual_bytes": "3931276c8f68895fc930574caf3a4627c900d8dc",
+    "lines": 169,
+    "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md"
+  },
+  "operative_ROOTaccepted_body_tuple": {
+    "path": "ROOT_UMIKA_CORRECTED_OPERATIVE_CANDIDATE_V1/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH_CORRECTED_CANDIDATE_V1.md",
+    "bytes": 39757,
+    "sha256": "b381617e873307ea9f0c0fc9bfdbd1c1037ec6ff3ee312ab9038b1275d50788b",
+    "git_blob_oid_of_actual_bytes": "f57cfb0e8868f520abb19a883764000c3ea38f20",
+    "lines": 169,
+    "immutable_transport_path": "immutable_originals/ROOT_UMIKA_CORRECTED_OPERATIVE_CANDIDATE_V1/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH_CORRECTED_CANDIDATE_V1.md"
+  },
+  "fixed_publication_snapshot": {
+    "prior_source_packages": 73,
+    "fixed_new_packages": 16,
+    "fixed_total_after_complete_ROOT_install": 89,
+    "characters": 84,
+    "directed_relationships": 4,
+    "ensembles": 1,
+    "goal25_milestone_complete": false,
+    "installed_literary_threshold_effective_only_after_complete_ROOT_install": true,
+    "currently_source_published_before_successor": 73,
+    "main_integration": "PENDING",
+    "required_packages": 355,
+    "mandatory_named_sections": 29,
+    "named_sections_completed": 1,
+    "later_live_reviews_separate": true
+  },
+  "mandatory_canonical_qualifications": [],
+  "canonical_link_only_translations": []
+}

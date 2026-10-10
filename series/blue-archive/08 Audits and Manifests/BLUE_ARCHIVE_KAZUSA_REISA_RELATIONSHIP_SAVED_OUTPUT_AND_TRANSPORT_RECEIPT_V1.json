@@ -1,0 +1,2482 @@
+{
+  "schema": "BLUE_ARCHIVE_KAZUSA_REISA_FULL_REVERSIBLE_SAVED_TRANSPORT_V1",
+  "status": "C_ONLY_PROPOSED_CANONICAL_DERIVATIVE_ROOT_REVIEW_INSTALLATION_PENDING",
+  "full_frozen_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 45862,
+      "sha256": "fad7b7ec91c38cdd3e5ddb92e7daf759215567f081581dda4ffa98fdc9c7ed72",
+      "git_blob_oid_of_actual_bytes": "258a4ff04a77d0066133b3859361c7b10bda802e",
+      "lines": 187,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SYNTHESIS.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 48396,
+      "sha256": "6e67f94b233eea129b8f4c6ea0aa4e28092d65390afd6fec4c579d1a7ac4b03b",
+      "git_blob_oid_of_actual_bytes": "15e7f2433aa397981bca720bfe701b593a898678",
+      "lines": 197
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 3,
+        "canonical_line": 3,
+        "line_sha256": "003bab63e90a4253e81450e8d5d21014c699563308d11bc55a90c03f086fc248",
+        "line_text": "artifact_type: directed_relationship_synthesis"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "78e9ee28f4f1a59b7d61abd880edda6288ab7520e8ba2d5758a13a3d5274e18d",
+        "line_text": "required_home: P3-REL-KAZUSA-REISA-DIRECTED-BOUNDARIES"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "3a730a7eb421659dc31facc10b7bf54a4797f1514dd0fd4d0e0981a09274af7d",
+        "line_text": "source_responsibility_ref: P3-REL-KAZUSA-REISA-DIRECTED-BOUNDARIES"
+      },
+      {
+        "frozen_line": 7,
+        "canonical_line": 7,
+        "line_sha256": "0712892b3c49eb8ca56f4e1ee92bb5703f1c8b6f9992fc1794f00586f5664b5b",
+        "line_text": "source_HEAD: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "b591e17938ae279c5bc8ddf2f756a509efa25d68c66b86bd2dcbb7722e822216",
+        "line_text": "source_mode: accepted_written_analytical_meanings_with_limits"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "72463417ab9dae5af07e8fab02ea3b73a477349b985fd53ca74444c68095fc6a",
+        "line_text": "denominator_or_completion_credit_added: 0"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 18,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 19,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 20,
+        "line_sha256": "25ccf8c33db13b957402129826c88d2eb66ac577277f89f56443080f09c13e80",
+        "line_text": "# Kazusa and Reisa: company without a right to define the other"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 23,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 24,
+        "line_sha256": "b87415b65a7c756815d8c82f96710a70771abde3432dd072c8dbcae9cb7c2d16",
+        "line_text": "The directions in this synthesis are Kazusa → Reisa and Reisa → Kazusa. The argument joins their represented interaction with their independently wanted lives; it does not infer a mutually accepted relationship title from the fact that their paths intersect. Public event meanings, paired private bond/whole-message meanings, written conditional modes and a locale-qualified gift argument remain distinct. K, L06/L07/L09/L16/L17, P, R, A and G below name the exact maintained analytical owners in §11. A locator of the form K:L111 is a checkpoint line; E012:s001:u0035–0046 is a separate underlying event locator. Those two kinds are never interchangeable."
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 25,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 26,
+        "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+        "line_text": "## 1. Core thesis"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 27,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 28,
+        "line_sha256": "f6cb5d403ca6a7143a70cd4f1ba1159744b63f57984d73d67315458efea44ea4",
+        "line_text": "Kazusa and Reisa can become important to one another without agreeing on the terms by which they are important. Reisa's rediscovery of the legendary rival supplies an available way to keep a valued person within reach. Kazusa wants an ordinary life in which that legend does not dictate every encounter. Her irritation is therefore more than a disguise for attachment, while her choice to seek and help Reisa is more than reluctant compliance with a teacher's moral script. The most sustained account is a relationship capable of particular company and care, repeatedly endangered by treating one person's desired meaning as the other's obligation. The directed difference, rather than an agreed friendship or romance label, is the analytical object. [K:L109–115,L124,L138–139]"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 29,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 30,
+        "line_sha256": "3a7b733588189a8d36522590547a3d3dadd14dc374555ceb91f10b4ba93c1d1f",
+        "line_text": "There are strong positives. Reisa listens to Kazusa's correction, withdraws from pursuit and acts protectively; Kazusa becomes concerned when the familiar nuisance disappears, seeks her and returns the challenge letter. A separate public context gives this relation a small, concrete form: Kazusa anticipates Reisa's presence and actually buys an extra ice cream, while Airi welcomes her even without Kazusa. These are achieved choices and hospitality. They do not license suppressing the final renewed challenge in EVENT816, Kazusa's anger at misinformation or the difference between wanting someone present and accepting every version of that presence. [K:L111,L123–124,L138–139; E010–015; A:L201/E020:s001:u0003–0024; L17:L26–28]"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 31,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 32,
+        "line_sha256": "6c9c2aca096a1af711a40361442f69f3276f259b7471ac2c92005a6c71c17d51",
+        "line_text": "The quiet evidence makes the distinction intelligible. A café's warm laughter and shared food were Kazusa's positive reasons for changing her life before the present teacher consultation. Reisa's private repertoire, separately, values friends' play as much as school and patrol; she does not want rest to require deleting pleasure from life. Neither person's ordinary ends can be reduced to the other, but those ends make company worth choosing. The relation is not valuable only because it produces a rescue. The ice cream, the wanted café, the possibility of talking and the wish to be heard are themselves its stakes. [L16:L28–32/E016:s001:u0036–0049; R:L420–425]"
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 33,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 34,
+        "line_sha256": "11582d03d09c502c7eb47e594ae45254847c0afcacc0faf270dd666e48b4ef99",
+        "line_text": "This thesis has a limiting contrary: the represented ending does not show durable reciprocal agreement. Reisa can respond to correction and later revive the old challenge under a distorted account of the rescue. Kazusa can help her and still refuse sentimental labels, just as the club can affirm belonging and mishandle privacy or consent. The synthesis therefore treats capacity for revision and accomplished company as local achievements, with unfinished transmission, repetition and relationship repair kept visible. It adds no prediction, model grade or executable rule. [K:L124,L139–142; L17:L26–36]"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 35,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 36,
+        "line_sha256": "6a7cca62c7a19662dc5b986a42d8a30205730b60f6cdc0d4516e4c792949adcc",
+        "line_text": "## 2. Longitudinal arc"
+      },
+      {
+        "frozen_line": 27,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 38,
+        "line_sha256": "a447375d06ebf1798466e817743c4bdee2ba1ec5ef0a0f753a28e24c3cf68ea7",
+        "line_text": "The event begins with a practical problem of being pursued through a familiar challenge pattern. Kazusa initiates help while preferring reciprocity and a solution that does not simply punish Reisa. Her disclosure changes the teacher's understanding of the nuisance: a generic threatening pursuer becomes a known student organized around the old rival story. That correction matters in both directions. Kazusa's complaint remains legitimate after the pursuer becomes intelligible; recognizing familiarity does not invalidate her wish to stop. Reisa's motive becomes more than interchangeable delinquent aggression, but being known does not confer permission. [K:L123–124,L129; E001:s001:u0014–0023; E002:s001:u0013–0019; E003:s001:u0018–0043]"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 39,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 40,
+        "line_sha256": "bdc0fa8004100f8a6eb086d6e4fd3cfacb285e321957dfc8e0f0bdf2934d3fd6",
+        "line_text": "Reisa's heroic schema meets trusted correction and apparently incompatible evidence. The complete event argument preserves her reluctance to accept ordinary Kazusa alongside willingness to think when Suzumi and Sensei speak. The club's subsequent costume solidarity then looks like corroboration of the legend. The relapse is not a purely internal failure occurring in a sealed mind: other people supply an image and public language that make the familiar interpretation available again. Yet social explanation is not exoneration. Reisa's wanted connection and justice language still become exhausting challenges for their recipient. [K:L111,L139; E005:s001:u0063–0078; E008:s001:u0043–0052]"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "94229610b21f32fa87498b42014e33c248215344e6b2178fb072311ac658242b",
+        "line_text": "The intervention that matters most is not another superior fighter defeating the misunderstanding. Kazusa interrupts the friends and adult, acknowledges that the intention makes her happy, asks whether she requested the act and tells them to consider why she had not disclosed the past. She asks for future noninterference and leaves tired. Reisa listens, but no reply in that scene supplies her completed interpretation. Later consultation and protective withdrawal show a consequential response; the source keeps hearing, subsequent self-account and action as different witnesses. Gratitude and refusal occupy the same speech without cancelling one another. [L09:L24–36/E009:s001:u0026–0053; K:L67,L111,L124]"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "32a3c153f8b735c99690ca8641b2077e924a3647473e0b1c40b6ed1f49ebbaf0",
+        "line_text": "Withdrawal then creates another problem. The nuisance ends, but Kazusa notices the late letter delivery and asks about Reisa. She states that the absence bothers her, initiates inquiry and seeks her location, while maintaining aversion and resisting the labels proposed by others. Those acts make care legible without requiring an analyst to decode every protest as its opposite. The letter can be returned through action before a mutually accepted name for the relation exists. Sensei arranges a suggestive meeting, but Kazusa's ensuing choices are not reducible to that arrangement. [K:L138; E012:s001:u0021–0046; E013; E015:s001:u0035–0046]"
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "213f1830b0719b61296340e7720b4c702e257ec531a0d7765605b15619de5bff",
+        "line_text": "The rescue's aftermath changes Kazusa's account of herself as well as her options with Reisa. Earlier she described ending delinquency through shame at childish self-importance; later she tells of seeing another form of happiness in a café and gradually copying it. The two accounts are preserved as self-explanation and revision, not ranked by an omniscient narrator into a complete psychological cause. She now says the wish to erase the old self went too far and she did not need exact sameness with those girls. That loosening permits an earlier history to belong to her without making the rival legend the mandatory present. [L07:L28–34/E007:s001:u0049–0067; L16:L28–38/E016:s001:u0036–0049]"
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "e3c2b070c94aa73130f75bb3cb8e5d6923cd579c89474498a22533fadc58b4c4",
+        "line_text": "The actual final scene refuses a clean cure. Food ordering and ordinary preferences are represented before Reisa appears again. Reisa repeats the legend, believing Kazusa defeated everyone alone; the rescue was collective. Kazusa demands accurate explanation because Reisa believes the jokes. A renewed challenge and anger close the interaction; no further fight, injury, agreed title or lasting cessation is printed. This is not evidence that the prior restraint and rescue never mattered. It is evidence that a local revision can remain vulnerable to other people's descriptions and that the next encounter still has to respect a recipient. [L17:L24–36/E017:s001:u0001–0047]"
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "eb4be0b69db5ea01ad767889274c4cf3bfe8325c6dd4ca02680dcc6029f280a0",
+        "line_text": "EVENT836 provides an independent public comparison rather than an automatically dated later stage. Its named Reisa hospitality object represents her concern that she should leave because she is not a club member, Airi's invitation to come even without Kazusa and to rest/eat after work, her acceptance and Kazusa's return with purchased extra ice cream. This particular welcome is a strong positive, and Airi's agency broadens the available company beyond a single dyad. The unnamed accuser in a different EVENT836 object is not securely Reisa. Release order, repeated event modes and the band episode do not fill a global chronology or make every renewed conflict an identified Reisa incident. [A:L188/E012:s001:u0020–0035; A:L201/E020:s001:u0003–0024; A:L237,L239]"
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "fb338ee55c9237939aaec60d4ea1b74194068c786f3b2fe5e8fe1604ba11466e",
+        "line_text": "## 3. Public and private self"
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "7f2ae48628ac2c064f72d76ba4ad12de9cada1417e0c7e75654d7f17a8945151",
+        "line_text": "In the public event, Reisa invokes a legendary Kazusa and heroic rivalry; Kazusa strips the legend of grandeur and wants it erased. The publicity is part of the conflict. A photograph escapes the teacher's attempted control, names circulate and costumes supply apparent evidence. What threatens Kazusa is not merely knowledge that someone can win fights. It is losing authority over which history is made relevant to present company. Her own disclosure can be necessary to solve the nuisance while unwanted exposure through the photograph and theatrical imitation remains a mistake. Voluntary disclosure is not an unlimited publicity waiver. [L06:L24–30; L07:L24–34; K:L127–128,L137]"
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "85bc90d3eb09386dc0d7a2dfd01a68b5523c1231cf9f07ad3dc76de0388ed940",
+        "line_text": "Kazusa's private repertoire gives concrete content to the self she is protecting. She wants serious review before a resit, objects to pity and insists on paying for drinks so guilt will not disrupt concentration. She chooses a slower bus because quiet and room for snacks matter, while attending to a companion's different sweet preferences. A requested deletion of a safe-arrival photograph gives a separate privacy condition whose compliance is not narrated. These are independent wants and acts of competence. They prevent the public conflict from swallowing her into either an embarrassed ex-delinquent or a recipient waiting to be improved by others. [P:L415–419; BA:bond:10049:002–003 and whole threads100490010/100490150]"
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "6a40a2d221cb2bcaa92eea422b65a9b6b05b4bf66af203b5dcd146fb0c696083",
+        "line_text": "Reisa's private account, equally, does not support a student universally rejected by classmates and saved from isolation only through Kazusa. She says classmates are kind and invite her; the difficulty is overthinking replies, not sending them or reacting too greatly. A whole-message tail reports that trying the advice led to great fun. Another complete sequence represents friends offering changed plans and Vigilance offering patrol cover, initially refused, followed by reported easy resolution after speaking to everyone. Her ordinary social life contains offered care and achieved pleasure as well as anxiety about change. An attachment to Kazusa can be important without being the sole available human connection. [R:L415–421; BA:bond:10068:002–003 and whole T100680010/T100680170]"
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "d5252092a069208ba139750a72a7283c9b5168518f8de2e71117986850681f7c",
+        "line_text": "The parallel is not identity. Kazusa's no-makeup encounter represents an explicit bodily-distance objection, a shop worker's rebuke and provisional trust followed by departure; considering a possible gift does not retract the boundary. Reisa expressly loves her magical-girl costume and dislikes imposed visibility before she feels ready. A zipper is locally freed and a jacket permits departure, while planned return of the jacket remains unperformed in the tail. Both accounts distinguish chosen pleasure from the form of another person's attention, but their particular recipients, discomforts and solutions differ. No common diagnostic essence or universal avoidance mechanism follows. [P:L421–425; R:L433–439]"
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "c03388985c0c34156d76a45045182d384392a01898f67ea03f213ef50a36256c",
+        "line_text": "Privacy also modifies the relation's asymmetry. Reisa tells Sensei of complaint and sadness and asks that the disclosure not be passed on. Kazusa's reactions must not be supplied with every piece of privileged adult information simply because the reader has heard it. Separately, Reisa's gift argument represents effort in decorating a letter, refusal of immediate reading and an actual completed later reading alongside shared chocolate and return. The JP and KR conditions differ, and verified solitude and the letter's words remain unprinted. That case is a comparative recipient boundary, not a hidden message to Kazusa. [K:L124–126/E011:s001:u0027–0032; G:L177/E098:u0016–0031]"
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "a464dc16efe53cdb8254b9a6bccee7c69e4d66ea049fa15029f72fee93517830",
+        "line_text": "Nor does Kazusa reject every shared role or name. In a private shopping sequence she analyzes closing times and successfully guides an unusual route; a proprietor's singer/exclusive-manager description is first met with hesitation, then adopted by her and pressed for confirmation. The adult's provisional agreement and actual purchase make that locally borrowed role different from a completed exclusive contract. The whole-message aftermath retains disrupted typing, an interrupted threat fragment withdrawn, apology and reassurance. The relevant comparison is choice over how an offered description is used, not a universal prohibition on naming intimacy or a right acquired by winning a fight. [P:L433–434/BA:bond:10091:005 and whole T100910290]"
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "67351f6906d9d0cb2212cd65a2d724d9d93b3a7adc218bca04fc2619717c5efd",
+        "line_text": "## 4. School and club role"
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "ffbbcb32b255d802be21f198ae22b58137d9d5e746ce8de16af83c3e3209f3d8",
+        "line_text": "Reisa's challenge vocabulary and protective mission cannot be treated as the same authority. Suzumi describes voluntary local protection and incomplete membership/activity oversight. In her private repertoire Reisa chooses a patrol from worry rather than obeying a teacher mandate, and an incident-free dawn is welcomed; a quoted respected person's desire for peace is not automatically assigned to a named speaker. Public pursuit may use heroic language without being shown as authorized institutional enforcement. The distinction permits recognition of useful protection while keeping the recipient's right to reject rivalry. [K:L125; E004:s001:u0056–0058; R:L427–429]"
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "6e20f8723a7244c4f6e5ca1a7232715b16a78afcf41e1d319cd4b938a2b40d3e",
+        "line_text": "The Sweets Club offers another form of belonging. Airi says Kazusa remains Kazusa without full knowledge of the old history; Natsu makes differing materials compatible with sweets together. That is a genuine proposition of continued membership before confession, not proof that the group always knows the right form of help. Costume imitation then intrudes, Yoshimi gives Kazusa's speech priority and Kazusa names the noninterference condition. Institutions here are small practices of speaking, listening, ordering food and making room, with failures occurring inside affection. Formal hierarchy, complete charter or universal consent is not established. [L06:L24–36; L09:L26–36; K:L125,L140]"
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "bb50ae05204440e59157249dd0710f6d05d16d949157b2d7436b69d1864bbcb4",
+        "line_text": "Reisa's EVENT836 welcome has a precise institutional significance: being Kazusa's friend is not the only admission route to wanted company. Airi independently invites her during Kazusa's absence and after vigilante work; Reisa accepts. Kazusa's anticipated ice cream makes the dyad's welcome concrete without cancelling the wider club's agency. The guest need not abandon a different affiliation or become the designated rival in order to be present. The playful “Sweets Gang” oath does not certify registry membership, a criminal institution or a binding duty to fight. [A:L201/E020:s001:u0003–0024; K:L125]"
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "4e1e28782f25eda3783845b7296a8fa3dc9163a217dd31f5e8ef477e7888a33e",
+        "line_text": "The companion band account contains role assignments, representation, security reports, selection and alternative endings whose questions belong chiefly to the separate temporary-band ensemble. It can qualify an attempted shortcut here: Kazusa's public competence does not identify every unnamed accuser, and achieved selection does not settle the terms of the Reisa relation. Using the same public owner for a narrowly located hospitality claim adds no completed ensemble, club charter or person census entry. Scope is attached to the distinct question and received meanings, not to a school or group label. [A:L188,L201,L204–205,L268]"
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "2383968aabd16f4ef1bae373f95c32ca45391dda36dc5bc2c36b4a346caeb41c",
+        "line_text": "## 5. Ordinary life"
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "b15185d62fa99a9a3c8c1ca144878b3019dba4d21fd16e86350755664ab4144e",
+        "line_text": "The relation's positive object is the possibility of a wanted life together without exact sameness. Kazusa's café memory involves cake, parfait, bewildering chocolate mint, laughter and a warm smile. Those ordinary particulars are causally substantial because she explicitly wanted that different happiness and gradually copied it. The remembered girl's identity is not printed; a plausible Airi association cannot be made certain through shared chocolate-mint preference. Nor should choosing sweets be dismissed as a shallow cover for the supposedly more serious delinquent past. Kazusa revises exact conformity while retaining the life she wanted. [L16:L28–38/E016:s001:u0036–0049]"
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "487542c989df9c6609f90c4972808aced294747fbc480a8c0581c335b0405655",
+        "line_text": "Reisa's day of gratitude offers a counterpart without copying the café memory's meaning. She saves money, wants to give something, leads the teacher through food, games and rides, then fears that familiar places and being guided herself made the gift worthless. She acknowledges a habit of assuming what others will like. The recipient values first coming together and learning her likes, and she accepts that valuation while payment refusal remains. This whole private sequence supplies an alternative to connection through competition: authored company can be appreciated for its particular shared experience rather than novelty, victory or total payment. It is a comparison, not proof that Kazusa received or shared that teacher outing. [R:L423–425/BA:bond:10068:005]"
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "cae5b67fc0bb0ce448907e2db3b9dd45653774ca8d33557ef0c72942071167c0",
+        "line_text": "This is not a remedy requiring Reisa to stop wanting play. Her fatigue sequence explicitly objects that time with friends matters as much as school and Vigilance. Actual sleep, reported conversation with others and improved accommodation are achieved endpoints. The subsequent night patrol's repeated exhaustion does not erase them, and neither sequence supplies a durable timetable or universal cure. In the directed relation, therefore, declining the duel frame should not be translated into demanding that Reisa extinguish her interests or become an endlessly available worker. Peace, rest and wanted company can have positive content. [R:L419–429]"
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "686e3b8a2ce547310dbc117c5ebdff6ee7c45c68c49a1bd161477bd19cea8c35",
+        "line_text": "Kazusa's music gives another example of accepting an activity without accepting every imposed term. She says she did not choose the vocalist role, but refuses abandonment, seeks a reliable private rehearsal partner, asks for protection against teasing and then distinguishes practice from desired karaoke. A record later preserves an imperfect first complete ensemble performance because those mistakes belong to the memory. She includes the teacher's contribution, but no prior recording/distribution permission or professional album release is proved. Chosen continuation and preservation can coexist with qualified consent and imperfect competence. They make the blanket proposition that every reluctant participation secretly means unlimited enjoyment untenable. [P:L427–439]"
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "b929fb78cf4c9bf1ae7c5f7c199d01a54c75fc08d05bd6ed916042d422f4d433",
+        "line_text": "The extra ice cream in EVENT836 is small enough to be revealing. Kazusa does not merely say she tolerates Reisa in the abstract: she anticipated her and brought something. Airi's invitation, Reisa's acceptance and the actual purchase make the scene a completed hospitality outcome. It is legitimate to take that ordinary thoughtfulness seriously while leaving the EVENT816 challenge boundary unresolved. Neither the other relation's difficulty nor the object's low danger is a reason to discard it. At the same time, no witnessed consumption, formal membership or universal schedule of future visits is supplied by the purchased item alone. [A:L201/E020:s001:u0003–0024]"
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "522a1407c1341c25d0d3b1b36266e9fc8c93b5f4537b6adf5f97e5ed81a50f55",
+        "line_text": "Reisa's ordinary making also gives heroic symbols a wanted meaning of her own. The written costume account says she decorates a personally owned wand because official goods were expensive, alongside rehearsed poses, souvenir pleasure and awareness of acquaintances watching. The gift argument similarly values effort in modifying a commercial present and decorating a letter, rather than measuring care only by manufacture from nothing. These are bounded written or gift meanings, not financial competence or performed magic. They prevent the directed boundary argument from declaring that every grand name, costume or crafted symbol must be false consciousness to be discarded; the question remains whose pleasure and whose reception a particular use serves. [R:L453–457; G:L177/E098:u0016–0031]"
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "fcf42308e73257a761a3c94e20b290b83a1a1f8d0e22b57cb83b4cc94961361e",
+        "line_text": "## 6. Crisis behavior"
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "548ed47886ca34c8933aa259b1d5542c931fde66fcbf16aab74802d01ebb09cf",
+        "line_text": "When Reisa hears Kazusa's correction, the following public actions are more than embarrassed talk. She promises cessation, assumes responsibility and protects Kazusa from demands for information. Her private self-account links the legend to happiness at rediscovery and sadness at losing contact. The explanation permits the pursuit to be read as a bid for connection and justice, while the action shows that restraint is available. It does not make the earlier challenge wanted by Kazusa or prove a lasting ability to refrain under every future cue. [K:L111,L123–124,L139; E010:s001:u0009–0025; E011:s001:u0011–0032; E014:s001:u0011]"
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "7b4c1c276c2a923462d0a221d3283d8d6c9b47f432f27cf7c1b89e39a9068627",
+        "line_text": "Kazusa's response to the disappearance is correspondingly specific. Having obtained an end to pursuit, she could have treated the problem as finished; instead she inquires and approaches with allies. Her aversion and refusal of sentimental labels persist, so the action should not be redescribed as proof that the complaint was false. A person can owe consideration, feel concern or value a familiar presence without consenting to the conduct that made relief desirable. The distinction is a serious explanation of simultaneous annoyance and care, not an attempt to remove the comedy's ambiguity. [K:L111,L138/E012:s001:u0035–0046; E013; E015:s001:u0035–0046]"
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "4655729b1b71204b5fdc6e949fad6757ac4f925e005c298d820ea397d5553427",
+        "line_text": "The help is collective. Airi qualifies the earlier defeat of Reisa by noting four friends plus Sensei, and the event's actor account preserves anonymous and collective roles without multiplying independent individuals. The rescue includes a blast, unconsciousness and reported lack of apparent injury. That testimony is narrower than harmlessness, clinical clearance or a safe care protocol. Police intervention is anticipated, not represented as an accomplished arrival or arrest. Neither heroic boasting nor the absence of a narrated catastrophe establishes technical safety or institutional authorization. [L09:L24; K:L95–105,L146–148; E014:choice001; E015:s001:u0029–0036]"
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "ab544524ed59ddc2bc847a10b298a7d7b3ce7342b4ac79ac920a763a42588ba6",
+        "line_text": "The ending's distorted solo-victory report directly tests how crisis becomes reputation. Reisa says the “Sweets Gang” told her Kazusa defeated everyone alone. The source permits identifying the report as distorted because the rescue was collective; it does not print the sent message or certify its exact sender. Kazusa accuses Yoshimi and Natsu and asks for accurate explanation because Reisa believes such jokes. Her demand is about the consequences of representation, not a request to enjoy the old legend more convincingly. Reisa's capacity to revise remains real and vulnerable to the social evidence she trusts. [L17:L26–36/E017:s001:u0025–0047; K:L139–140]"
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "86d17ec81ef5002e2820135daeeda9b774488f8a0766f291cd26b2d1caeb5145",
+        "line_text": "The private patrol and costume sequences are relevant contrary comparisons, not further Kazusa–Reisa rescues. Reisa welcomes an uneventful dawn and values a child's crafted kite enough to retrieve it, then receives practical shower/rest care. The repaired zipper has an implemented change followed by an unanswered usability problem, and extortion-scene labels remain unstable at exact sites. Those cases prevent a diagnosis of pure battle addiction or infallible heroic competence. They do not retrospectively certify the explosion in EVENT816, supply Kazusa's consent or transform every useful act into an approved institutional rule. [R:L427–429,L445–447]"
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "e18ddbc33e681b1888a4059ab48f4c58ab3bfe379d7e15d2e3e196393804c50d",
+        "line_text": "## 7. Sensei relationship"
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "e032463e7cdf6bc536707e6da1240b84e3683acf91b9f9b4b3bb2080e10f4dbc",
+        "line_text": "Sensei gives each participant an audience and practical assistance, but their purposes are not created entirely by that attention. Kazusa's earlier desire for the café life precedes the present consultation. Reisa has kind classmates, offered patrol cover, loved works and independently chosen play. The teacher's help acts within these lives, not upon blank recipients waiting for their first wish. A public explanation should therefore begin with their direct reasons and choices, including Kazusa's criticism and Reisa's responsibility, rather than treat the adult as the single cause of connection. [L16:L28–38; R:L415–429; K:L111,L126]"
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "7427f0b802bc0ffe71c80d815ed8c37d9fa09dc74061154b12f275bcaf4afc32",
+        "line_text": "The adult also makes errors whose costs matter. The photograph falls into circulation, and apology alternatives acknowledge the failure. Teasing and costume accommodation contribute to the recipient's correction; the teacher's attempt to explain a benevolent intention meets the question of whether the act was requested. Later gratitude does not retrospectively make the method flawless. Kazusa arrives early to test and reciprocate the adult's waiting habit, says consulting was right, and admits that parts were unreliable or irritating. This mixed judgment is more exact than an infallible rescue narrative. [L06:L30; L07:L26,L34; L09:L26–36; L16:L24–26]"
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "4e62c39181b6cd5aa281e9739589b60156de556a01dd7852a6382227caa10bea",
+        "line_text": "Reisa's private confidence in Sensei creates a disclosure boundary. She asks that her complaint not be shared; the adult's no-blame comfort is resisted when she insists on responsibility. The privileged conversation can help a reader understand why withdrawal hurts, but cannot be silently put into Kazusa's knowledge or made evidence of her accepted reciprocal title. A teacher-assisted meeting is an arrangement; the students' separate decisions to seek, protect, listen or object remain theirs. [K:L124,L126,L138; E011:s001:u0011–0032; E012:s001:u0021–0046]"
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "946099d99238896341201fd66057fe4ca056b24ae75240db9d85603063c55225",
+        "line_text": "The adult comparison in Reisa's gratitude outing and letter gift reinforces this distinction. Familiar company and learning her tastes are valued, payment is declined, and she accepts the recipient's positive appraisal. In the gift case, refusal of immediate letter reading precedes accomplished later reading, with locale-specific conditions and unverified solitude retained. These are actual ways a recipient responds to her authored attention; they are not proof that another person must receive the same attention in the same way. An analyst cannot export Sensei's welcome as Kazusa's permission. [R:L423–425; G:L177/E098:u0016–0031]"
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "9a07de2976538e3341f3d32f3d74ac0eb8e52418a11d94fe56c6755435abe923",
+        "line_text": "## 8. Major peer relationships"
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "e21720d1cd910dd107b71b8eb4e683a5281f7247af2563819ac450be33e754e9",
+        "line_text": "Suzumi's presence keeps Reisa from becoming either an isolated obsession or a generic enemy. Her qualified judgment recognizes good intention while acknowledging social concerns, and her nickname boundary gives another small case in which familiarity does not let Reisa choose every form of address. Voluntary Vigilance and incomplete oversight remain reported scope. The private patrol account's “respected person” quotation stays unnamed; it is not automatically a second Suzumi instruction. Useful influence and exact attribution must be kept together. [K:L123–127; E004; R:L427–429]"
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "f45c90baa87f9305bceac543e22f8872d4888563740ec9675984033755b760a9",
+        "line_text": "The Sweets peers make the relation possible and also harder. Airi's pre-disclosure acceptance and later invitation to Reisa are direct acts, not just extensions of teacher kindness. Yoshimi's insistence on hearing Kazusa counters her earlier dismissal of the fuss, while delight in Kazusa's frustration and the final accusation prevent a uniformly gentle portrait. Natsu's material analogy gives genuine value to heterogeneity and her continuing grand rhetoric gives her personal pleasure; costume solidarity can nevertheless become insistence. A peer does not have to be malicious for an act to overstep, and a useful correction need not cleanse all other behavior. [L06:L24–36; L09:L26–36; K:L113,L140; A:L201; L17:L26–34]"
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "f7bbdb520257d32190f55c89ab947711d18972e6fa7e4336e24c61e3bdb2c5d7",
+        "line_text": "The challenge to the dyad is partly a challenge to this wider audience. Kazusa does not simply order Reisa to stop; she asks the friends to explain accurately because Reisa believes the jokes. The represented social network supplies both corrective testimony and misleading corroboration. This means the relation's repair cannot be evaluated solely by a private good intention inside Reisa. It also matters which statements others circulate and whose objections they prioritize. Yet the final message is not printed, so this network account must not become an invented documentary record of a sender or an agreed manipulation plot. [K:L139–140; L17:L26–36]"
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "2369ad94fd5a6ece69afaab1d99d6f47d34b5894a3b7fcb27627f49cddb6c3e1",
+        "line_text": "The EVENT836 welcome supplies a contrasting network action. Airi offers company independent of Kazusa, Reisa accepts it, and Kazusa's purchase acknowledges an anticipated guest. That is an alternative to making the only bridge an endless challenge. It also protects Reisa's independent agency: she is not merely delivered into a room by the teacher or accepted as Kazusa's accessory. The distinct belonging ensemble owns the full distribution of taste, rest and unequal knowledge; this relationship owns how that distribution changes the terms on which these two can be present. [A:L201/E020:s001:u0003–0024]"
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "a8a6de23110fe05ecb646704705a2f45179504a1ed3601a69e1c8ff526622136",
+        "line_text": "A separate continuity duty must remain visible. The operative Kazusa erratum removes only an ignored-imitation clause wrongly attached to Natsu in a prior character paragraph; GROUP2001 assigns that act to Yoshimi, with Natsu absent/mention-only. This synthesis does not inherit the wrong act or treat source reuse as a reason to preserve it. It also does not expand the correction into denying the independently located EVENT816 rhetoric and costume play. Exact actor scope is necessary for a directed relationship argument, even when the error concerns a different club scene. [ROOT operative qualification; K:L113,L140]"
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "ed3b6b158471eb11577319dda7adfeb5b46ad9c58d1329625950ecc14becba32",
+        "line_text": "## 9. Language and voice"
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "91f81c9bfc7e82f9dbedbec120c5ecc36ec2963c6621c3b357c7fce882277a03",
+        "line_text": "The rival relation is partly carried by public names. Reisa's full-name introduction and heroic `宿敵` language offer a way to place Kazusa inside a story; Kazusa's self-account cuts that story down to a child who won fights and thought herself special. Neither form is a transparent objective title. Kazusa's direct request to consider why she had not disclosed the past and question whether she asked for the act restore a speaking recipient to the scene. The semantic contrast is recoverable in the accepted written argument; no pitch, acting, timing, vocal affect or visual performance has been received. [K:L127–128; L07:L28–32; L09:L34]"
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "dd7ce0791d84d2e8c0017731dd8223b23ac6115d529305af114199f9a5609795",
+        "line_text": "Kazusa's register is also varied rather than uniformly detached. Early apology and formal thanks, angry casual protest and later relaxed `やっほ` occur in different relational circumstances. Her whole-message repertoire explicitly discusses sometimes wanting polite language with the teacher. The relaxed waiting experiment and direct criticism can therefore support local easing without erasing the no-makeup, cat comparison, teasing and publicity objections elsewhere. The interpretation must retain the meaning of a refusal instead of assuming that a stereotyped tone always makes it flirtation. [K:L127; L16:L24,L36; P:L416,L422,L425,L428]"
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "44798ef2cbb940adadfd6eaaefffff5cdfe574de711bbbe1079e7d07db4a31a2",
+        "line_text": "Reisa's language shifts between public heroic self-titling, polite uncertainty and private sadness or responsibility. Her written profile lists duel challenges and self-introductions, but the source also represents difficulty replying to friendly invitations, loved magical-girl works, wanted games and play, gratitude and bodily need for rest. The same theatrical repertoire can serve personal taste, protective purpose and an unwanted relation. A pose or named “Supreme Magical Vigilance” is play, not a separately registered person or magic certificate. Written repetitions of a patrol or rescue add neither new incidents nor independent performed evidence. [K:L127; R:L416–417,L434–439,L451–457]"
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "8a666b716e1dd60f3bedffec4514b9a13b4e013d4af41137332634095010d503",
+        "line_text": "Exact label seams constrain personal assignment. EVENT816's checkpoint lists anomalies and unknown voices rather than repairing them into expected speakers. The final `u0038` cannot securely be used as Reisa questioning her own prior report; Kazusa's secure correction at `u0040–0042` and the adjacent scene still carry the principal claim. EVENT836's unnamed accuser cannot become Reisa through the later named hospitality object. Reisa's private recipient-owner or costume-compliment lines also retain printed drift. The broad interactions remain legible while the contested exact utterance remains qualified. [K:L105,L146; L17:L34; A:L188,L239; R:L438,L446–447]"
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "f61e811c03f4e93f80e3e69256fa26de19626979e16e70d965524f07923fac40",
+        "line_text": "The public closing phrase of EVENT816 is attested narrator wording, whereas the overarching event-title field remains missing. Repeated816/10816/900816 modes or836 variants preserve conditional script contexts; they do not prove three historical repetitions of the same challenge or a growth ladder. The written names, mood changes and jokes support literary interpretation at their actual source scale, with identity, chronology and performance debt still open. [K:L150; L17:L30; P:L444; R:L455–457]"
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "daf0995c894a2d93b298fcb24850b0e0c65300187113870fa966df8428a4193c",
+        "line_text": "## 10. Competing readings"
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "2c310245595b5466db89a0632f93e7843f2191bbd3ab525dd7ea3b8ecf4f947f",
+        "line_text": "**“The irritation is only a disguise for affection.”** The inquiry after withdrawal, returned letter and anticipated ice cream make a hidden-attachment interpretation plausible. It remains an interpretation rather than a mutually accepted label. Kazusa states aversion, asks for noninterference, refuses sentimental names and ends angry at another challenge. The stronger synthesis preserves care and refusal as compatible rather than requiring the latter to be false. No romance claim or global “tsundere” rule is needed to explain these local choices. [K:L111,L124,L138; A:L201; L17:L28]"
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "035a79eb6c5156eea9811451e07d512628167bbf197b21947dc4494518d20ca5",
+        "line_text": "**“Reisa pursues only justice.”** Her public heroic purpose, voluntary protection, responsibility and actual restraint give that reading serious evidence. Her explicit happiness at rediscovery, sadness over exclusion and ordinary need for friends complicate a solely mission-based explanation. Connection and justice can motivate the same approach, while neither guarantees adequacy to Kazusa. Conversely, the personal element cannot justify replacing every useful patrol or kite rescue with a story of obsession. [K:L111,L139; R:L416–429,L447]"
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "eec55f810d1595338d9a1dc1d07489167b74206c9f304c8171b125b885ac85a8",
+        "line_text": "**“Kazusa needs to suppress the old self completely.”** Her erasure language and embarrassment support this as an earlier self-appraisal. Her later café account says exact imitation and total forgetting went too far. She can refuse legend publicity without denying that a history belongs to her; the important distinction is who decides when and how that history enters company. The remembered girl's identity and a complete psychological cause remain unresolved. [L07:L28–34; L16:L28–38]"
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "0e23e8cb44ef103ae924614049abb9464112bc772cb6ad2e5d5053019f215f1b",
+        "line_text": "**“The adult produces a benevolent reconciliation.”** Sensei gives time, inquiry, command help and an audience; Kazusa explicitly values consulting. But the photograph lapse, apologies, teasing alternatives, partial understanding and Reisa's privacy condition prevent an omniscient-plan account. Three represented explanations of watching over Kazusa are alternatives, not one secretly completed masterplan. Peer and student actions remain independently causal. [L06:L30; L07:L26,L34; L16:L24–26,L38; K:L126]"
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "d51a7a5cbc769935ec791079a9b14b81f1ba71842d02c43c12c7a95f342864d4",
+        "line_text": "**“A later welcome repairs all earlier consent.”** The purchased ice cream, expanded invitation and acceptance are strong achieved positives. They establish that Reisa can be welcomed in a particular setting. They do not retrospectively retract the request for noninterference, identify the unnamed accuser in another object or narrate future duel consent. The public contexts are independently compared without a fabricated global later date. [A:L188,L201,L237; L09:L28; L17:L28]"
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "d08979c87de7d9047901d6509708fde19d8b5446b205a458a2b3d7aff9ff2071",
+        "line_text": "**“A boundary account drains the comedy of its point.”** The source does contain delighted rhetoric, appetite jokes, grand names, embarrassment and the frustration of a renewed challenge. Those pleasures belong to their actors; an analysis that discards them would be incomplete. It is equally incomplete to treat comic presentation as proof that every recipient enjoyed the act or every blast was harmless. The coexistence of play, actual care, gratitude, consent limits and renewed irritation is part of the narrative construction. [K:L113,L146–148; L17:L24–36]"
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "618dd92e4dc7dbc42c852c4797c8353fe3c39eb407cc205ff63d9663865937c9",
+        "line_text": "**“The failed ending cancels the withdrawal and rescue.”** Reisa's resumed challenge is decisive contrary evidence to permanent cessation. It does not make heard boundaries, protective withdrawal, Kazusa's concern or returned company unreal. The stronger causal claim is local capacity for revision under available evidence, vulnerable to distorted transmission, rather than either complete cure or complete inability to change. This is retrospective literary explanation, not a validated prediction about the next encounter. [K:L111,L138–142; L17:L26–36]"
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "ea9f637b1c554ebf2883b402f76c92c1844de0305050814c4c27f89880922994",
+        "line_text": "**“The private variants prove a simple developmental ladder.”** Written magical-girl pleasure, practical interventions, ordinary music and chosen memory broaden the repertoire. They do not date every costume against the event, make conditional UI lines enacted incidents or turn repeated special passages into independent corroboration. The comparison concerns differences of wanted activity and recipient response, while actual sequence is confined to supported local anchors. [R:L431–457; P:L427–444; K:L60–72]"
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "72cae7d92c5d8fb68b5f3e019a68aa201c85c4aba137e39a5e993928dde1bf55",
+        "line_text": "**“Reisa is isolated; Kazusa is the necessary cure.”** The challenge and loss can be read as a concentrated bid for contact. Reisa explicitly reports kind classmates and invitations, others' offers of adjustment and successful fun after trying advice. Kazusa's private independent life is also broader than this relation. Their importance to one another is more exact when neither is made the other's total social world or treatment. [R:L416–425; P:L413–444; K:L111]"
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "6eb7c83d47bb8f5472fb6a88af263e512ab1489914bb5eaea38e9db8f37985cd",
+        "line_text": "**“Quiet food and leisure are merely decorative after the real crisis.”** Kazusa locates an earlier motive for life change in the café's warmth; Reisa treats friends' play as indispensable; private authored company is received positively; the band hospitality contains actual initiative and welcome. Those are explanatory and achieved ends. Keeping them does not erase failed publicity, fatigue or danger; it lets the argument specify what the participants hope protection and correction make possible. [L16:L28–38; R:L420–425; A:L201]"
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "01bf9f1234ae3d353f30587c5c9c91a73cf26415be30eddf7391853a5c901a66",
+        "line_text": "## 11. Evidence route and limits"
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "d88f56544d97612fff28d3d5ba2569286b52a99e804298dae5a194f653029cd9",
+        "line_text": "This is a full bounded literary candidate for the already required directed home. All eleven architecture dimensions are joined above, with source-type distinctions and sustained contrary readings. It neither replaces the two character monographs nor completes the separate Sweets belonging, temporary-band, Vigilance or Sora responsibilities. ROOT's allocation established the existing scope; independent ROOT receiving and canonical adoption remain pending. The fixed 355/29 scope is unchanged and this author package adds zero completed packages, primary/raw/native/performed/model/independent credit or milestone credit."
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "ea8e900638592c10e85cdb50b43002771a952d70c264eea1a44d3cf2d2b2f30b",
+        "line_text": "The exact current analytical input bytes were bound at 732b3f2e635d2b8e8855f4e6709354031936ebc6. The accepted normal literary owners used here equal their historical cf2/main2e analytical bytes; current architecture 1.12 differs from main's earlier source but preserves the received eleven-section duty. Earlier producer intake or model proposals remain history under current normal/Cycle008 authority. Adequate prior complete normal receiving is reused, while the receipt separately records fresh bounded complete meanings and five small whole episode arguments. No whole primary corpus or performed material was reopened to inflate custody."
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "d899250bf6b176416929a0d5041884bb3d687f82e6e44457692605fed805ff5e",
+        "line_text": "| Route | Maintained analytical owner and exact usable scope |"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "831f11e7d7026bc2402e464ae6714a93218f622321805bfb5339d48bd550dfde",
+        "line_text": "| --- | --- |"
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 177,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 178,
+        "line_sha256": "291d56d50ab98e9b638bf00a2d8c360d092187478cae31730f48445e352797d1",
+        "line_text": "The source and saved-output receipts bind actual bytes/SHA/blob, author scopes, current versus historical source comparisons, paragraph claims, endings and rival routes. Local bound-copy links are readable from this saved candidate; their exact public canonical translations are recorded for ROOT. The intended public home is the existing `04 Specialist Synthesis/Relationship Syntheses` route, not an invented parallel directory. The operative Kazusa omission qualification and every original frozen payload remain unchanged."
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 179,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 170,
+        "canonical_line": 180,
+        "line_sha256": "3c70f86ff3422fba3728afdaac0db6e2ecae1b7c03760c20f4f442af00a13ab1",
+        "line_text": "All fourteen original gaps remain **OPEN**, with the following claim-specific effects:"
+      },
+      {
+        "frozen_line": 171,
+        "canonical_line": 181,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 172,
+        "canonical_line": 182,
+        "line_sha256": "fa72bada60048b569aa8d6acc815be1ac73d5aaaedfbe7de5fff3de2ee3750c9",
+        "line_text": "- **G01 — Ordinary and private breadth:** both complete selected private repertoires and actual company broaden this relation; they do not complete every unreceived private context or make all other people equivalent."
+      },
+      {
+        "frozen_line": 173,
+        "canonical_line": 183,
+        "line_sha256": "135573ab97442dded767f1d29b399ba292f8fb196829164b3ff5a7aa87f0b988",
+        "line_text": "- **G02 — Yuuka council/club decision transfer:** this dyad supplies no missing Yuuka governance argument or transfer; small club hospitality is not council authority."
+      },
+      {
+        "frozen_line": 174,
+        "canonical_line": 184,
+        "line_sha256": "ece675bda1d7be369da2ccd848817692d9f39c7fcb4e53f77f2ddc02f96d131b",
+        "line_text": "- **G03 — Serika service, peer and reciprocity range:** mutuality compared here cannot fill Serika's separate service and recipient contexts."
+      },
+      {
+        "frozen_line": 175,
+        "canonical_line": 185,
+        "line_sha256": "a72edc225b289673c36924610f775f4478387316cf9fdac611844def33b92dba",
+        "line_text": "- **G04 — Hina crisis causality, accountability and ordinary contrast:** this event's rescue and quieter life do not settle Hina's missing causal or accountability questions."
+      },
+      {
+        "frozen_line": 176,
+        "canonical_line": 186,
+        "line_sha256": "a58a252ed9454cbe4fae9490f432855aa63a9a56608ad8e427b18acbefc71cb4",
+        "line_text": "- **G05 — Arius and PS68 ordinary/aftermath transfer:** local withdrawal, care and renewed challenge give no Arius/PS68 aftermath completion or universal repair mechanism."
+      },
+      {
+        "frozen_line": 177,
+        "canonical_line": 187,
+        "line_sha256": "5e35c7419d072fdfed92adaccb3ac5787945714056b4ea805ab8acc8ddcfcc2c",
+        "line_text": "- **G06 — Cross-school ordinary repertoire:** the represented Trinity/company contexts remain substantial particular evidence; they cannot establish every school's repertoire or erase independently required outsiders."
+      },
+      {
+        "frozen_line": 178,
+        "canonical_line": 188,
+        "line_sha256": "952d102accc1b28db53677a718c2b82b3f0de1845535c160696d57e2928a4d90",
+        "line_text": "- **G07 — Story-world chronology:** EVENT816's local sequence is supported; EVENT836 hospitality, gifts and private variants are comparative, without a fabricated global date or universal later stage."
+      },
+      {
+        "frozen_line": 179,
+        "canonical_line": 189,
+        "line_sha256": "a80aa19c243074648b6ce8db2b07c1d4b7cd363725236516144977a4572c6f97",
+        "line_text": "- **G08 — Event naming and repeat contexts:** attested EVENT816 closing wording does not repair the missing overarching title; repeated mode codes do not create historical repetitions."
+      },
+      {
+        "frozen_line": 180,
+        "canonical_line": 190,
+        "line_sha256": "7ece81e5a5a76d3f3d6f3b0ce43d39dd169e95d21ffcd77f7965426fdc1a8176",
+        "line_text": "- **G09 — Written speaker/choice attribution:** every exact actor seam, unknown label, unprinted message and alternative choice is qualified; secure adjacent scene meanings do not certify a disputed personal utterance."
+      },
+      {
+        "frozen_line": 181,
+        "canonical_line": 191,
+        "line_sha256": "e97d11569717d14fa9036c2ad5a3133ee0ed16f362acefe5ce42ef6b10755fda",
+        "line_text": "- **G10 — Performed voice:** the language analysis concerns written representation; no audio, pitch, acting, movement, pixels or performance comparison was inspected."
+      },
+      {
+        "frozen_line": 182,
+        "canonical_line": 192,
+        "line_sha256": "06697d4b48fae9cf8ba71fcdb662e8815da8088c8b16c5a1093460047ba289f2",
+        "line_text": "- **G11 — Hoshino's Yume record and office states:** no Hoshino/Yume or office-state evidence is supplied by the dyad or its monster legend."
+      },
+      {
+        "frozen_line": 183,
+        "canonical_line": 193,
+        "line_sha256": "8f56d5cec0b2b3f77621d5ffddb41ef5a6ef9e4eb838dab376be52d9b2d6c0e2",
+        "line_text": "- **G12 — Counterpart, system and variant identity:** literal Kazusa and ReisaCH0167 boundaries are retained; the unnamed café girl/accuser and repeated UI modes do not manufacture identity joins or new people."
+      },
+      {
+        "frozen_line": 184,
+        "canonical_line": 194,
+        "line_sha256": "077ef0e789348006a1d7b5a2b6d630c810c27540ecdd954b20abbbfb8fdb372b",
+        "line_text": "- **G13 — Office, contract, safety and technical outcomes:** reported apparent lack of injury, anticipated police, playful oaths, privacy requests and gift conditions do not establish clinical safety, lawful mandate, binding agreement, verified deletion or durable technical repair."
+      },
+      {
+        "frozen_line": 185,
+        "canonical_line": 195,
+        "line_sha256": "f3c3ee95e9660254a35b79e84faf3cfa90fa172471b15509ae1f6855f9d1a304",
+        "line_text": "- **G14 — Unclassified/mode continuity:** conditional written modes and source-local endings remain distinct; they cannot unify every unclassified mode or make all branches simultaneously experienced."
+      },
+      {
+        "frozen_line": 186,
+        "canonical_line": 196,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 187,
+        "canonical_line": 197,
+        "line_sha256": "d7ae6865ae301258851be496aabbaeb7021d21393c873f58242aa75add8f67d5",
+        "line_text": "The achieved relation is therefore precise: Kazusa can choose concern, anticipate a guest and want ordinary company while rejecting the old legend's compulsory terms; Reisa can listen, protect, accept hospitality and value connection while still reviving an unwanted challenge. The actual ending leaves them with both a place together and renewed work of listening. Neither side has an analyst-granted right to define the other."
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          6,
+          6
+        ],
+        "canonical_lines": [
+          6,
+          6
+        ],
+        "frozen_text": [
+          "status: C_ONLY_AUTHOR_COMPLETE_CANDIDATE_ROOT_RECEIVING_PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_status: C_ONLY_AUTHOR_COMPLETE_CANDIDATE_ROOT_RECEIVING_PENDING"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          10,
+          9
+        ],
+        "canonical_lines": [
+          10,
+          17
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          13,
+          12
+        ],
+        "canonical_lines": [
+          21,
+          22
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded directed relationship responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,18 section-parent allocations,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Relationship Syntheses home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          156,
+          166
+        ],
+        "canonical_lines": [
+          166,
+          176
+        ],
+        "frozen_text": [
+          "| K | [EVENT816 checkpoint](bound_source_inputs/K_BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md): complete prior normal argument, fresh current literary/end/actor meanings through L180; underlying E001–017 scene001 locators retained |",
+          "| L06 | [EVENT816006](bound_source_inputs/K006_BLUE_ARCHIVE_EVENT_816_EPISODE_006_DEEP_READING.md): whole40-line accepted argument; acceptance before disclosure and privacy lapse |",
+          "| L07 | [EVENT816007](bound_source_inputs/K007_BLUE_ARCHIVE_EVENT_816_EPISODE_007_DEEP_READING.md): whole42-line accepted argument; public embarrassment, strained conversation and causal self-account |",
+          "| L09 | [EVENT816009](bound_source_inputs/K009_BLUE_ARCHIVE_EVENT_816_EPISODE_009_DEEP_READING.md): whole40-line accepted argument; gratitude/refusal, heard boundary and unfinished listener response |",
+          "| L16 | [EVENT816016](bound_source_inputs/K016_BLUE_ARCHIVE_EVENT_816_EPISODE_016_DEEP_READING.md): whole46-line accepted argument; ordinary warmth, qualified imitation and partial adult understanding |",
+          "| L17 | [EVENT816017](bound_source_inputs/K017_BLUE_ARCHIVE_EVENT_816_EPISODE_017_DEEP_READING.md): whole40-line accepted argument; actual routine, distorted report and renewed challenge |",
+          "| P | [Sweets private checkpoint](bound_source_inputs/P_BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md): complete Kazusa paired eight bond/whole-message meanings and four written meanings L413–444; broader prior normal meanings retained at actual received scope |",
+          "| R | [Suzumi/Reisa/Ichika private checkpoint](bound_source_inputs/RP_BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md): complete Reisa paired eight bond/whole-message meanings and four written meanings L413–457; not a fresh whole592-line or all-original-body claim |",
+          "| A | [EVENT836 checkpoint](bound_source_inputs/A_BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md): complete prior47 normal meanings and endings; exact current named hospitality L201/E020, unnamed-accuser boundary L188/E012, alternative-ending and actor/chronology limits |",
+          "| G | [EVENT834 checkpoint](bound_source_inputs/RJ_BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md): complete Reisa098 normal meaning L177, current authority and prior bounded ending custody; no fresh whole38-object owner claim |",
+          "| Architecture | [Architecture1.12](bound_source_inputs/A01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md): required eleven-section meanings L328–344, not a fresh whole851-line reading |"
+        ],
+        "canonical_text": [
+          "| K | [EVENT816 checkpoint](../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md): complete prior normal argument, fresh current literary/end/actor meanings through L180; underlying E001–017 scene001 locators retained |",
+          "| L06 | [EVENT816006](../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_006_DEEP_READING.md): whole40-line accepted argument; acceptance before disclosure and privacy lapse |",
+          "| L07 | [EVENT816007](../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_007_DEEP_READING.md): whole42-line accepted argument; public embarrassment, strained conversation and causal self-account |",
+          "| L09 | [EVENT816009](../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_009_DEEP_READING.md): whole40-line accepted argument; gratitude/refusal, heard boundary and unfinished listener response |",
+          "| L16 | [EVENT816016](../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_016_DEEP_READING.md): whole46-line accepted argument; ordinary warmth, qualified imitation and partial adult understanding |",
+          "| L17 | [EVENT816017](../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_017_DEEP_READING.md): whole40-line accepted argument; actual routine, distorted report and renewed challenge |",
+          "| P | [Sweets private checkpoint](../../02 Sequential Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md): complete Kazusa paired eight bond/whole-message meanings and four written meanings L413–444; broader prior normal meanings retained at actual received scope |",
+          "| R | [Suzumi/Reisa/Ichika private checkpoint](../../02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md): complete Reisa paired eight bond/whole-message meanings and four written meanings L413–457; not a fresh whole592-line or all-original-body claim |",
+          "| A | [EVENT836 checkpoint](../../02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md): complete prior47 normal meanings and endings; exact current named hospitality L201/E020, unnamed-accuser boundary L188/E012, alternative-ending and actor/chronology limits |",
+          "| G | [EVENT834 checkpoint](../../02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md): complete Reisa098 normal meaning L177, current authority and prior bounded ending custody; no fresh whole38-object owner claim |",
+          "| Architecture | [Architecture1.12](../../00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md): required eleven-section meanings L328–344, not a fresh whole851-line reading |"
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "full_operative_ROOTaccepted_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 45862,
+      "sha256": "fad7b7ec91c38cdd3e5ddb92e7daf759215567f081581dda4ffa98fdc9c7ed72",
+      "git_blob_oid_of_actual_bytes": "258a4ff04a77d0066133b3859361c7b10bda802e",
+      "lines": 187,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SYNTHESIS.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 48396,
+      "sha256": "6e67f94b233eea129b8f4c6ea0aa4e28092d65390afd6fec4c579d1a7ac4b03b",
+      "git_blob_oid_of_actual_bytes": "15e7f2433aa397981bca720bfe701b593a898678",
+      "lines": 197
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 3,
+        "canonical_line": 3,
+        "line_sha256": "003bab63e90a4253e81450e8d5d21014c699563308d11bc55a90c03f086fc248",
+        "line_text": "artifact_type: directed_relationship_synthesis"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "78e9ee28f4f1a59b7d61abd880edda6288ab7520e8ba2d5758a13a3d5274e18d",
+        "line_text": "required_home: P3-REL-KAZUSA-REISA-DIRECTED-BOUNDARIES"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "3a730a7eb421659dc31facc10b7bf54a4797f1514dd0fd4d0e0981a09274af7d",
+        "line_text": "source_responsibility_ref: P3-REL-KAZUSA-REISA-DIRECTED-BOUNDARIES"
+      },
+      {
+        "frozen_line": 7,
+        "canonical_line": 7,
+        "line_sha256": "0712892b3c49eb8ca56f4e1ee92bb5703f1c8b6f9992fc1794f00586f5664b5b",
+        "line_text": "source_HEAD: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "b591e17938ae279c5bc8ddf2f756a509efa25d68c66b86bd2dcbb7722e822216",
+        "line_text": "source_mode: accepted_written_analytical_meanings_with_limits"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "72463417ab9dae5af07e8fab02ea3b73a477349b985fd53ca74444c68095fc6a",
+        "line_text": "denominator_or_completion_credit_added: 0"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 18,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 19,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 20,
+        "line_sha256": "25ccf8c33db13b957402129826c88d2eb66ac577277f89f56443080f09c13e80",
+        "line_text": "# Kazusa and Reisa: company without a right to define the other"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 23,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 24,
+        "line_sha256": "b87415b65a7c756815d8c82f96710a70771abde3432dd072c8dbcae9cb7c2d16",
+        "line_text": "The directions in this synthesis are Kazusa → Reisa and Reisa → Kazusa. The argument joins their represented interaction with their independently wanted lives; it does not infer a mutually accepted relationship title from the fact that their paths intersect. Public event meanings, paired private bond/whole-message meanings, written conditional modes and a locale-qualified gift argument remain distinct. K, L06/L07/L09/L16/L17, P, R, A and G below name the exact maintained analytical owners in §11. A locator of the form K:L111 is a checkpoint line; E012:s001:u0035–0046 is a separate underlying event locator. Those two kinds are never interchangeable."
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 25,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 26,
+        "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+        "line_text": "## 1. Core thesis"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 27,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 28,
+        "line_sha256": "f6cb5d403ca6a7143a70cd4f1ba1159744b63f57984d73d67315458efea44ea4",
+        "line_text": "Kazusa and Reisa can become important to one another without agreeing on the terms by which they are important. Reisa's rediscovery of the legendary rival supplies an available way to keep a valued person within reach. Kazusa wants an ordinary life in which that legend does not dictate every encounter. Her irritation is therefore more than a disguise for attachment, while her choice to seek and help Reisa is more than reluctant compliance with a teacher's moral script. The most sustained account is a relationship capable of particular company and care, repeatedly endangered by treating one person's desired meaning as the other's obligation. The directed difference, rather than an agreed friendship or romance label, is the analytical object. [K:L109–115,L124,L138–139]"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 29,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 30,
+        "line_sha256": "3a7b733588189a8d36522590547a3d3dadd14dc374555ceb91f10b4ba93c1d1f",
+        "line_text": "There are strong positives. Reisa listens to Kazusa's correction, withdraws from pursuit and acts protectively; Kazusa becomes concerned when the familiar nuisance disappears, seeks her and returns the challenge letter. A separate public context gives this relation a small, concrete form: Kazusa anticipates Reisa's presence and actually buys an extra ice cream, while Airi welcomes her even without Kazusa. These are achieved choices and hospitality. They do not license suppressing the final renewed challenge in EVENT816, Kazusa's anger at misinformation or the difference between wanting someone present and accepting every version of that presence. [K:L111,L123–124,L138–139; E010–015; A:L201/E020:s001:u0003–0024; L17:L26–28]"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 31,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 32,
+        "line_sha256": "6c9c2aca096a1af711a40361442f69f3276f259b7471ac2c92005a6c71c17d51",
+        "line_text": "The quiet evidence makes the distinction intelligible. A café's warm laughter and shared food were Kazusa's positive reasons for changing her life before the present teacher consultation. Reisa's private repertoire, separately, values friends' play as much as school and patrol; she does not want rest to require deleting pleasure from life. Neither person's ordinary ends can be reduced to the other, but those ends make company worth choosing. The relation is not valuable only because it produces a rescue. The ice cream, the wanted café, the possibility of talking and the wish to be heard are themselves its stakes. [L16:L28–32/E016:s001:u0036–0049; R:L420–425]"
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 33,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 34,
+        "line_sha256": "11582d03d09c502c7eb47e594ae45254847c0afcacc0faf270dd666e48b4ef99",
+        "line_text": "This thesis has a limiting contrary: the represented ending does not show durable reciprocal agreement. Reisa can respond to correction and later revive the old challenge under a distorted account of the rescue. Kazusa can help her and still refuse sentimental labels, just as the club can affirm belonging and mishandle privacy or consent. The synthesis therefore treats capacity for revision and accomplished company as local achievements, with unfinished transmission, repetition and relationship repair kept visible. It adds no prediction, model grade or executable rule. [K:L124,L139–142; L17:L26–36]"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 35,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 36,
+        "line_sha256": "6a7cca62c7a19662dc5b986a42d8a30205730b60f6cdc0d4516e4c792949adcc",
+        "line_text": "## 2. Longitudinal arc"
+      },
+      {
+        "frozen_line": 27,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 38,
+        "line_sha256": "a447375d06ebf1798466e817743c4bdee2ba1ec5ef0a0f753a28e24c3cf68ea7",
+        "line_text": "The event begins with a practical problem of being pursued through a familiar challenge pattern. Kazusa initiates help while preferring reciprocity and a solution that does not simply punish Reisa. Her disclosure changes the teacher's understanding of the nuisance: a generic threatening pursuer becomes a known student organized around the old rival story. That correction matters in both directions. Kazusa's complaint remains legitimate after the pursuer becomes intelligible; recognizing familiarity does not invalidate her wish to stop. Reisa's motive becomes more than interchangeable delinquent aggression, but being known does not confer permission. [K:L123–124,L129; E001:s001:u0014–0023; E002:s001:u0013–0019; E003:s001:u0018–0043]"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 39,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 40,
+        "line_sha256": "bdc0fa8004100f8a6eb086d6e4fd3cfacb285e321957dfc8e0f0bdf2934d3fd6",
+        "line_text": "Reisa's heroic schema meets trusted correction and apparently incompatible evidence. The complete event argument preserves her reluctance to accept ordinary Kazusa alongside willingness to think when Suzumi and Sensei speak. The club's subsequent costume solidarity then looks like corroboration of the legend. The relapse is not a purely internal failure occurring in a sealed mind: other people supply an image and public language that make the familiar interpretation available again. Yet social explanation is not exoneration. Reisa's wanted connection and justice language still become exhausting challenges for their recipient. [K:L111,L139; E005:s001:u0063–0078; E008:s001:u0043–0052]"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "94229610b21f32fa87498b42014e33c248215344e6b2178fb072311ac658242b",
+        "line_text": "The intervention that matters most is not another superior fighter defeating the misunderstanding. Kazusa interrupts the friends and adult, acknowledges that the intention makes her happy, asks whether she requested the act and tells them to consider why she had not disclosed the past. She asks for future noninterference and leaves tired. Reisa listens, but no reply in that scene supplies her completed interpretation. Later consultation and protective withdrawal show a consequential response; the source keeps hearing, subsequent self-account and action as different witnesses. Gratitude and refusal occupy the same speech without cancelling one another. [L09:L24–36/E009:s001:u0026–0053; K:L67,L111,L124]"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "32a3c153f8b735c99690ca8641b2077e924a3647473e0b1c40b6ed1f49ebbaf0",
+        "line_text": "Withdrawal then creates another problem. The nuisance ends, but Kazusa notices the late letter delivery and asks about Reisa. She states that the absence bothers her, initiates inquiry and seeks her location, while maintaining aversion and resisting the labels proposed by others. Those acts make care legible without requiring an analyst to decode every protest as its opposite. The letter can be returned through action before a mutually accepted name for the relation exists. Sensei arranges a suggestive meeting, but Kazusa's ensuing choices are not reducible to that arrangement. [K:L138; E012:s001:u0021–0046; E013; E015:s001:u0035–0046]"
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "213f1830b0719b61296340e7720b4c702e257ec531a0d7765605b15619de5bff",
+        "line_text": "The rescue's aftermath changes Kazusa's account of herself as well as her options with Reisa. Earlier she described ending delinquency through shame at childish self-importance; later she tells of seeing another form of happiness in a café and gradually copying it. The two accounts are preserved as self-explanation and revision, not ranked by an omniscient narrator into a complete psychological cause. She now says the wish to erase the old self went too far and she did not need exact sameness with those girls. That loosening permits an earlier history to belong to her without making the rival legend the mandatory present. [L07:L28–34/E007:s001:u0049–0067; L16:L28–38/E016:s001:u0036–0049]"
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "e3c2b070c94aa73130f75bb3cb8e5d6923cd579c89474498a22533fadc58b4c4",
+        "line_text": "The actual final scene refuses a clean cure. Food ordering and ordinary preferences are represented before Reisa appears again. Reisa repeats the legend, believing Kazusa defeated everyone alone; the rescue was collective. Kazusa demands accurate explanation because Reisa believes the jokes. A renewed challenge and anger close the interaction; no further fight, injury, agreed title or lasting cessation is printed. This is not evidence that the prior restraint and rescue never mattered. It is evidence that a local revision can remain vulnerable to other people's descriptions and that the next encounter still has to respect a recipient. [L17:L24–36/E017:s001:u0001–0047]"
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "eb4be0b69db5ea01ad767889274c4cf3bfe8325c6dd4ca02680dcc6029f280a0",
+        "line_text": "EVENT836 provides an independent public comparison rather than an automatically dated later stage. Its named Reisa hospitality object represents her concern that she should leave because she is not a club member, Airi's invitation to come even without Kazusa and to rest/eat after work, her acceptance and Kazusa's return with purchased extra ice cream. This particular welcome is a strong positive, and Airi's agency broadens the available company beyond a single dyad. The unnamed accuser in a different EVENT836 object is not securely Reisa. Release order, repeated event modes and the band episode do not fill a global chronology or make every renewed conflict an identified Reisa incident. [A:L188/E012:s001:u0020–0035; A:L201/E020:s001:u0003–0024; A:L237,L239]"
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "fb338ee55c9237939aaec60d4ea1b74194068c786f3b2fe5e8fe1604ba11466e",
+        "line_text": "## 3. Public and private self"
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "7f2ae48628ac2c064f72d76ba4ad12de9cada1417e0c7e75654d7f17a8945151",
+        "line_text": "In the public event, Reisa invokes a legendary Kazusa and heroic rivalry; Kazusa strips the legend of grandeur and wants it erased. The publicity is part of the conflict. A photograph escapes the teacher's attempted control, names circulate and costumes supply apparent evidence. What threatens Kazusa is not merely knowledge that someone can win fights. It is losing authority over which history is made relevant to present company. Her own disclosure can be necessary to solve the nuisance while unwanted exposure through the photograph and theatrical imitation remains a mistake. Voluntary disclosure is not an unlimited publicity waiver. [L06:L24–30; L07:L24–34; K:L127–128,L137]"
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "85bc90d3eb09386dc0d7a2dfd01a68b5523c1231cf9f07ad3dc76de0388ed940",
+        "line_text": "Kazusa's private repertoire gives concrete content to the self she is protecting. She wants serious review before a resit, objects to pity and insists on paying for drinks so guilt will not disrupt concentration. She chooses a slower bus because quiet and room for snacks matter, while attending to a companion's different sweet preferences. A requested deletion of a safe-arrival photograph gives a separate privacy condition whose compliance is not narrated. These are independent wants and acts of competence. They prevent the public conflict from swallowing her into either an embarrassed ex-delinquent or a recipient waiting to be improved by others. [P:L415–419; BA:bond:10049:002–003 and whole threads100490010/100490150]"
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "6a40a2d221cb2bcaa92eea422b65a9b6b05b4bf66af203b5dcd146fb0c696083",
+        "line_text": "Reisa's private account, equally, does not support a student universally rejected by classmates and saved from isolation only through Kazusa. She says classmates are kind and invite her; the difficulty is overthinking replies, not sending them or reacting too greatly. A whole-message tail reports that trying the advice led to great fun. Another complete sequence represents friends offering changed plans and Vigilance offering patrol cover, initially refused, followed by reported easy resolution after speaking to everyone. Her ordinary social life contains offered care and achieved pleasure as well as anxiety about change. An attachment to Kazusa can be important without being the sole available human connection. [R:L415–421; BA:bond:10068:002–003 and whole T100680010/T100680170]"
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "d5252092a069208ba139750a72a7283c9b5168518f8de2e71117986850681f7c",
+        "line_text": "The parallel is not identity. Kazusa's no-makeup encounter represents an explicit bodily-distance objection, a shop worker's rebuke and provisional trust followed by departure; considering a possible gift does not retract the boundary. Reisa expressly loves her magical-girl costume and dislikes imposed visibility before she feels ready. A zipper is locally freed and a jacket permits departure, while planned return of the jacket remains unperformed in the tail. Both accounts distinguish chosen pleasure from the form of another person's attention, but their particular recipients, discomforts and solutions differ. No common diagnostic essence or universal avoidance mechanism follows. [P:L421–425; R:L433–439]"
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "c03388985c0c34156d76a45045182d384392a01898f67ea03f213ef50a36256c",
+        "line_text": "Privacy also modifies the relation's asymmetry. Reisa tells Sensei of complaint and sadness and asks that the disclosure not be passed on. Kazusa's reactions must not be supplied with every piece of privileged adult information simply because the reader has heard it. Separately, Reisa's gift argument represents effort in decorating a letter, refusal of immediate reading and an actual completed later reading alongside shared chocolate and return. The JP and KR conditions differ, and verified solitude and the letter's words remain unprinted. That case is a comparative recipient boundary, not a hidden message to Kazusa. [K:L124–126/E011:s001:u0027–0032; G:L177/E098:u0016–0031]"
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "a464dc16efe53cdb8254b9a6bccee7c69e4d66ea049fa15029f72fee93517830",
+        "line_text": "Nor does Kazusa reject every shared role or name. In a private shopping sequence she analyzes closing times and successfully guides an unusual route; a proprietor's singer/exclusive-manager description is first met with hesitation, then adopted by her and pressed for confirmation. The adult's provisional agreement and actual purchase make that locally borrowed role different from a completed exclusive contract. The whole-message aftermath retains disrupted typing, an interrupted threat fragment withdrawn, apology and reassurance. The relevant comparison is choice over how an offered description is used, not a universal prohibition on naming intimacy or a right acquired by winning a fight. [P:L433–434/BA:bond:10091:005 and whole T100910290]"
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "67351f6906d9d0cb2212cd65a2d724d9d93b3a7adc218bca04fc2619717c5efd",
+        "line_text": "## 4. School and club role"
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "ffbbcb32b255d802be21f198ae22b58137d9d5e746ce8de16af83c3e3209f3d8",
+        "line_text": "Reisa's challenge vocabulary and protective mission cannot be treated as the same authority. Suzumi describes voluntary local protection and incomplete membership/activity oversight. In her private repertoire Reisa chooses a patrol from worry rather than obeying a teacher mandate, and an incident-free dawn is welcomed; a quoted respected person's desire for peace is not automatically assigned to a named speaker. Public pursuit may use heroic language without being shown as authorized institutional enforcement. The distinction permits recognition of useful protection while keeping the recipient's right to reject rivalry. [K:L125; E004:s001:u0056–0058; R:L427–429]"
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "6e20f8723a7244c4f6e5ca1a7232715b16a78afcf41e1d319cd4b938a2b40d3e",
+        "line_text": "The Sweets Club offers another form of belonging. Airi says Kazusa remains Kazusa without full knowledge of the old history; Natsu makes differing materials compatible with sweets together. That is a genuine proposition of continued membership before confession, not proof that the group always knows the right form of help. Costume imitation then intrudes, Yoshimi gives Kazusa's speech priority and Kazusa names the noninterference condition. Institutions here are small practices of speaking, listening, ordering food and making room, with failures occurring inside affection. Formal hierarchy, complete charter or universal consent is not established. [L06:L24–36; L09:L26–36; K:L125,L140]"
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "bb50ae05204440e59157249dd0710f6d05d16d949157b2d7436b69d1864bbcb4",
+        "line_text": "Reisa's EVENT836 welcome has a precise institutional significance: being Kazusa's friend is not the only admission route to wanted company. Airi independently invites her during Kazusa's absence and after vigilante work; Reisa accepts. Kazusa's anticipated ice cream makes the dyad's welcome concrete without cancelling the wider club's agency. The guest need not abandon a different affiliation or become the designated rival in order to be present. The playful “Sweets Gang” oath does not certify registry membership, a criminal institution or a binding duty to fight. [A:L201/E020:s001:u0003–0024; K:L125]"
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "4e1e28782f25eda3783845b7296a8fa3dc9163a217dd31f5e8ef477e7888a33e",
+        "line_text": "The companion band account contains role assignments, representation, security reports, selection and alternative endings whose questions belong chiefly to the separate temporary-band ensemble. It can qualify an attempted shortcut here: Kazusa's public competence does not identify every unnamed accuser, and achieved selection does not settle the terms of the Reisa relation. Using the same public owner for a narrowly located hospitality claim adds no completed ensemble, club charter or person census entry. Scope is attached to the distinct question and received meanings, not to a school or group label. [A:L188,L201,L204–205,L268]"
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "2383968aabd16f4ef1bae373f95c32ca45391dda36dc5bc2c36b4a346caeb41c",
+        "line_text": "## 5. Ordinary life"
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "b15185d62fa99a9a3c8c1ca144878b3019dba4d21fd16e86350755664ab4144e",
+        "line_text": "The relation's positive object is the possibility of a wanted life together without exact sameness. Kazusa's café memory involves cake, parfait, bewildering chocolate mint, laughter and a warm smile. Those ordinary particulars are causally substantial because she explicitly wanted that different happiness and gradually copied it. The remembered girl's identity is not printed; a plausible Airi association cannot be made certain through shared chocolate-mint preference. Nor should choosing sweets be dismissed as a shallow cover for the supposedly more serious delinquent past. Kazusa revises exact conformity while retaining the life she wanted. [L16:L28–38/E016:s001:u0036–0049]"
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "487542c989df9c6609f90c4972808aced294747fbc480a8c0581c335b0405655",
+        "line_text": "Reisa's day of gratitude offers a counterpart without copying the café memory's meaning. She saves money, wants to give something, leads the teacher through food, games and rides, then fears that familiar places and being guided herself made the gift worthless. She acknowledges a habit of assuming what others will like. The recipient values first coming together and learning her likes, and she accepts that valuation while payment refusal remains. This whole private sequence supplies an alternative to connection through competition: authored company can be appreciated for its particular shared experience rather than novelty, victory or total payment. It is a comparison, not proof that Kazusa received or shared that teacher outing. [R:L423–425/BA:bond:10068:005]"
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "cae5b67fc0bb0ce448907e2db3b9dd45653774ca8d33557ef0c72942071167c0",
+        "line_text": "This is not a remedy requiring Reisa to stop wanting play. Her fatigue sequence explicitly objects that time with friends matters as much as school and Vigilance. Actual sleep, reported conversation with others and improved accommodation are achieved endpoints. The subsequent night patrol's repeated exhaustion does not erase them, and neither sequence supplies a durable timetable or universal cure. In the directed relation, therefore, declining the duel frame should not be translated into demanding that Reisa extinguish her interests or become an endlessly available worker. Peace, rest and wanted company can have positive content. [R:L419–429]"
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "686e3b8a2ce547310dbc117c5ebdff6ee7c45c68c49a1bd161477bd19cea8c35",
+        "line_text": "Kazusa's music gives another example of accepting an activity without accepting every imposed term. She says she did not choose the vocalist role, but refuses abandonment, seeks a reliable private rehearsal partner, asks for protection against teasing and then distinguishes practice from desired karaoke. A record later preserves an imperfect first complete ensemble performance because those mistakes belong to the memory. She includes the teacher's contribution, but no prior recording/distribution permission or professional album release is proved. Chosen continuation and preservation can coexist with qualified consent and imperfect competence. They make the blanket proposition that every reluctant participation secretly means unlimited enjoyment untenable. [P:L427–439]"
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "b929fb78cf4c9bf1ae7c5f7c199d01a54c75fc08d05bd6ed916042d422f4d433",
+        "line_text": "The extra ice cream in EVENT836 is small enough to be revealing. Kazusa does not merely say she tolerates Reisa in the abstract: she anticipated her and brought something. Airi's invitation, Reisa's acceptance and the actual purchase make the scene a completed hospitality outcome. It is legitimate to take that ordinary thoughtfulness seriously while leaving the EVENT816 challenge boundary unresolved. Neither the other relation's difficulty nor the object's low danger is a reason to discard it. At the same time, no witnessed consumption, formal membership or universal schedule of future visits is supplied by the purchased item alone. [A:L201/E020:s001:u0003–0024]"
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "522a1407c1341c25d0d3b1b36266e9fc8c93b5f4537b6adf5f97e5ed81a50f55",
+        "line_text": "Reisa's ordinary making also gives heroic symbols a wanted meaning of her own. The written costume account says she decorates a personally owned wand because official goods were expensive, alongside rehearsed poses, souvenir pleasure and awareness of acquaintances watching. The gift argument similarly values effort in modifying a commercial present and decorating a letter, rather than measuring care only by manufacture from nothing. These are bounded written or gift meanings, not financial competence or performed magic. They prevent the directed boundary argument from declaring that every grand name, costume or crafted symbol must be false consciousness to be discarded; the question remains whose pleasure and whose reception a particular use serves. [R:L453–457; G:L177/E098:u0016–0031]"
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "fcf42308e73257a761a3c94e20b290b83a1a1f8d0e22b57cb83b4cc94961361e",
+        "line_text": "## 6. Crisis behavior"
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "548ed47886ca34c8933aa259b1d5542c931fde66fcbf16aab74802d01ebb09cf",
+        "line_text": "When Reisa hears Kazusa's correction, the following public actions are more than embarrassed talk. She promises cessation, assumes responsibility and protects Kazusa from demands for information. Her private self-account links the legend to happiness at rediscovery and sadness at losing contact. The explanation permits the pursuit to be read as a bid for connection and justice, while the action shows that restraint is available. It does not make the earlier challenge wanted by Kazusa or prove a lasting ability to refrain under every future cue. [K:L111,L123–124,L139; E010:s001:u0009–0025; E011:s001:u0011–0032; E014:s001:u0011]"
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "7b4c1c276c2a923462d0a221d3283d8d6c9b47f432f27cf7c1b89e39a9068627",
+        "line_text": "Kazusa's response to the disappearance is correspondingly specific. Having obtained an end to pursuit, she could have treated the problem as finished; instead she inquires and approaches with allies. Her aversion and refusal of sentimental labels persist, so the action should not be redescribed as proof that the complaint was false. A person can owe consideration, feel concern or value a familiar presence without consenting to the conduct that made relief desirable. The distinction is a serious explanation of simultaneous annoyance and care, not an attempt to remove the comedy's ambiguity. [K:L111,L138/E012:s001:u0035–0046; E013; E015:s001:u0035–0046]"
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "4655729b1b71204b5fdc6e949fad6757ac4f925e005c298d820ea397d5553427",
+        "line_text": "The help is collective. Airi qualifies the earlier defeat of Reisa by noting four friends plus Sensei, and the event's actor account preserves anonymous and collective roles without multiplying independent individuals. The rescue includes a blast, unconsciousness and reported lack of apparent injury. That testimony is narrower than harmlessness, clinical clearance or a safe care protocol. Police intervention is anticipated, not represented as an accomplished arrival or arrest. Neither heroic boasting nor the absence of a narrated catastrophe establishes technical safety or institutional authorization. [L09:L24; K:L95–105,L146–148; E014:choice001; E015:s001:u0029–0036]"
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "ab544524ed59ddc2bc847a10b298a7d7b3ce7342b4ac79ac920a763a42588ba6",
+        "line_text": "The ending's distorted solo-victory report directly tests how crisis becomes reputation. Reisa says the “Sweets Gang” told her Kazusa defeated everyone alone. The source permits identifying the report as distorted because the rescue was collective; it does not print the sent message or certify its exact sender. Kazusa accuses Yoshimi and Natsu and asks for accurate explanation because Reisa believes such jokes. Her demand is about the consequences of representation, not a request to enjoy the old legend more convincingly. Reisa's capacity to revise remains real and vulnerable to the social evidence she trusts. [L17:L26–36/E017:s001:u0025–0047; K:L139–140]"
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "86d17ec81ef5002e2820135daeeda9b774488f8a0766f291cd26b2d1caeb5145",
+        "line_text": "The private patrol and costume sequences are relevant contrary comparisons, not further Kazusa–Reisa rescues. Reisa welcomes an uneventful dawn and values a child's crafted kite enough to retrieve it, then receives practical shower/rest care. The repaired zipper has an implemented change followed by an unanswered usability problem, and extortion-scene labels remain unstable at exact sites. Those cases prevent a diagnosis of pure battle addiction or infallible heroic competence. They do not retrospectively certify the explosion in EVENT816, supply Kazusa's consent or transform every useful act into an approved institutional rule. [R:L427–429,L445–447]"
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "e18ddbc33e681b1888a4059ab48f4c58ab3bfe379d7e15d2e3e196393804c50d",
+        "line_text": "## 7. Sensei relationship"
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "e032463e7cdf6bc536707e6da1240b84e3683acf91b9f9b4b3bb2080e10f4dbc",
+        "line_text": "Sensei gives each participant an audience and practical assistance, but their purposes are not created entirely by that attention. Kazusa's earlier desire for the café life precedes the present consultation. Reisa has kind classmates, offered patrol cover, loved works and independently chosen play. The teacher's help acts within these lives, not upon blank recipients waiting for their first wish. A public explanation should therefore begin with their direct reasons and choices, including Kazusa's criticism and Reisa's responsibility, rather than treat the adult as the single cause of connection. [L16:L28–38; R:L415–429; K:L111,L126]"
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "7427f0b802bc0ffe71c80d815ed8c37d9fa09dc74061154b12f275bcaf4afc32",
+        "line_text": "The adult also makes errors whose costs matter. The photograph falls into circulation, and apology alternatives acknowledge the failure. Teasing and costume accommodation contribute to the recipient's correction; the teacher's attempt to explain a benevolent intention meets the question of whether the act was requested. Later gratitude does not retrospectively make the method flawless. Kazusa arrives early to test and reciprocate the adult's waiting habit, says consulting was right, and admits that parts were unreliable or irritating. This mixed judgment is more exact than an infallible rescue narrative. [L06:L30; L07:L26,L34; L09:L26–36; L16:L24–26]"
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "4e62c39181b6cd5aa281e9739589b60156de556a01dd7852a6382227caa10bea",
+        "line_text": "Reisa's private confidence in Sensei creates a disclosure boundary. She asks that her complaint not be shared; the adult's no-blame comfort is resisted when she insists on responsibility. The privileged conversation can help a reader understand why withdrawal hurts, but cannot be silently put into Kazusa's knowledge or made evidence of her accepted reciprocal title. A teacher-assisted meeting is an arrangement; the students' separate decisions to seek, protect, listen or object remain theirs. [K:L124,L126,L138; E011:s001:u0011–0032; E012:s001:u0021–0046]"
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "946099d99238896341201fd66057fe4ca056b24ae75240db9d85603063c55225",
+        "line_text": "The adult comparison in Reisa's gratitude outing and letter gift reinforces this distinction. Familiar company and learning her tastes are valued, payment is declined, and she accepts the recipient's positive appraisal. In the gift case, refusal of immediate letter reading precedes accomplished later reading, with locale-specific conditions and unverified solitude retained. These are actual ways a recipient responds to her authored attention; they are not proof that another person must receive the same attention in the same way. An analyst cannot export Sensei's welcome as Kazusa's permission. [R:L423–425; G:L177/E098:u0016–0031]"
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "9a07de2976538e3341f3d32f3d74ac0eb8e52418a11d94fe56c6755435abe923",
+        "line_text": "## 8. Major peer relationships"
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "e21720d1cd910dd107b71b8eb4e683a5281f7247af2563819ac450be33e754e9",
+        "line_text": "Suzumi's presence keeps Reisa from becoming either an isolated obsession or a generic enemy. Her qualified judgment recognizes good intention while acknowledging social concerns, and her nickname boundary gives another small case in which familiarity does not let Reisa choose every form of address. Voluntary Vigilance and incomplete oversight remain reported scope. The private patrol account's “respected person” quotation stays unnamed; it is not automatically a second Suzumi instruction. Useful influence and exact attribution must be kept together. [K:L123–127; E004; R:L427–429]"
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "f45c90baa87f9305bceac543e22f8872d4888563740ec9675984033755b760a9",
+        "line_text": "The Sweets peers make the relation possible and also harder. Airi's pre-disclosure acceptance and later invitation to Reisa are direct acts, not just extensions of teacher kindness. Yoshimi's insistence on hearing Kazusa counters her earlier dismissal of the fuss, while delight in Kazusa's frustration and the final accusation prevent a uniformly gentle portrait. Natsu's material analogy gives genuine value to heterogeneity and her continuing grand rhetoric gives her personal pleasure; costume solidarity can nevertheless become insistence. A peer does not have to be malicious for an act to overstep, and a useful correction need not cleanse all other behavior. [L06:L24–36; L09:L26–36; K:L113,L140; A:L201; L17:L26–34]"
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "f7bbdb520257d32190f55c89ab947711d18972e6fa7e4336e24c61e3bdb2c5d7",
+        "line_text": "The challenge to the dyad is partly a challenge to this wider audience. Kazusa does not simply order Reisa to stop; she asks the friends to explain accurately because Reisa believes the jokes. The represented social network supplies both corrective testimony and misleading corroboration. This means the relation's repair cannot be evaluated solely by a private good intention inside Reisa. It also matters which statements others circulate and whose objections they prioritize. Yet the final message is not printed, so this network account must not become an invented documentary record of a sender or an agreed manipulation plot. [K:L139–140; L17:L26–36]"
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "2369ad94fd5a6ece69afaab1d99d6f47d34b5894a3b7fcb27627f49cddb6c3e1",
+        "line_text": "The EVENT836 welcome supplies a contrasting network action. Airi offers company independent of Kazusa, Reisa accepts it, and Kazusa's purchase acknowledges an anticipated guest. That is an alternative to making the only bridge an endless challenge. It also protects Reisa's independent agency: she is not merely delivered into a room by the teacher or accepted as Kazusa's accessory. The distinct belonging ensemble owns the full distribution of taste, rest and unequal knowledge; this relationship owns how that distribution changes the terms on which these two can be present. [A:L201/E020:s001:u0003–0024]"
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "a8a6de23110fe05ecb646704705a2f45179504a1ed3601a69e1c8ff526622136",
+        "line_text": "A separate continuity duty must remain visible. The operative Kazusa erratum removes only an ignored-imitation clause wrongly attached to Natsu in a prior character paragraph; GROUP2001 assigns that act to Yoshimi, with Natsu absent/mention-only. This synthesis does not inherit the wrong act or treat source reuse as a reason to preserve it. It also does not expand the correction into denying the independently located EVENT816 rhetoric and costume play. Exact actor scope is necessary for a directed relationship argument, even when the error concerns a different club scene. [ROOT operative qualification; K:L113,L140]"
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "ed3b6b158471eb11577319dda7adfeb5b46ad9c58d1329625950ecc14becba32",
+        "line_text": "## 9. Language and voice"
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "91f81c9bfc7e82f9dbedbec120c5ecc36ec2963c6621c3b357c7fce882277a03",
+        "line_text": "The rival relation is partly carried by public names. Reisa's full-name introduction and heroic `宿敵` language offer a way to place Kazusa inside a story; Kazusa's self-account cuts that story down to a child who won fights and thought herself special. Neither form is a transparent objective title. Kazusa's direct request to consider why she had not disclosed the past and question whether she asked for the act restore a speaking recipient to the scene. The semantic contrast is recoverable in the accepted written argument; no pitch, acting, timing, vocal affect or visual performance has been received. [K:L127–128; L07:L28–32; L09:L34]"
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "dd7ce0791d84d2e8c0017731dd8223b23ac6115d529305af114199f9a5609795",
+        "line_text": "Kazusa's register is also varied rather than uniformly detached. Early apology and formal thanks, angry casual protest and later relaxed `やっほ` occur in different relational circumstances. Her whole-message repertoire explicitly discusses sometimes wanting polite language with the teacher. The relaxed waiting experiment and direct criticism can therefore support local easing without erasing the no-makeup, cat comparison, teasing and publicity objections elsewhere. The interpretation must retain the meaning of a refusal instead of assuming that a stereotyped tone always makes it flirtation. [K:L127; L16:L24,L36; P:L416,L422,L425,L428]"
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "44798ef2cbb940adadfd6eaaefffff5cdfe574de711bbbe1079e7d07db4a31a2",
+        "line_text": "Reisa's language shifts between public heroic self-titling, polite uncertainty and private sadness or responsibility. Her written profile lists duel challenges and self-introductions, but the source also represents difficulty replying to friendly invitations, loved magical-girl works, wanted games and play, gratitude and bodily need for rest. The same theatrical repertoire can serve personal taste, protective purpose and an unwanted relation. A pose or named “Supreme Magical Vigilance” is play, not a separately registered person or magic certificate. Written repetitions of a patrol or rescue add neither new incidents nor independent performed evidence. [K:L127; R:L416–417,L434–439,L451–457]"
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "8a666b716e1dd60f3bedffec4514b9a13b4e013d4af41137332634095010d503",
+        "line_text": "Exact label seams constrain personal assignment. EVENT816's checkpoint lists anomalies and unknown voices rather than repairing them into expected speakers. The final `u0038` cannot securely be used as Reisa questioning her own prior report; Kazusa's secure correction at `u0040–0042` and the adjacent scene still carry the principal claim. EVENT836's unnamed accuser cannot become Reisa through the later named hospitality object. Reisa's private recipient-owner or costume-compliment lines also retain printed drift. The broad interactions remain legible while the contested exact utterance remains qualified. [K:L105,L146; L17:L34; A:L188,L239; R:L438,L446–447]"
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "f61e811c03f4e93f80e3e69256fa26de19626979e16e70d965524f07923fac40",
+        "line_text": "The public closing phrase of EVENT816 is attested narrator wording, whereas the overarching event-title field remains missing. Repeated816/10816/900816 modes or836 variants preserve conditional script contexts; they do not prove three historical repetitions of the same challenge or a growth ladder. The written names, mood changes and jokes support literary interpretation at their actual source scale, with identity, chronology and performance debt still open. [K:L150; L17:L30; P:L444; R:L455–457]"
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "daf0995c894a2d93b298fcb24850b0e0c65300187113870fa966df8428a4193c",
+        "line_text": "## 10. Competing readings"
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "2c310245595b5466db89a0632f93e7843f2191bbd3ab525dd7ea3b8ecf4f947f",
+        "line_text": "**“The irritation is only a disguise for affection.”** The inquiry after withdrawal, returned letter and anticipated ice cream make a hidden-attachment interpretation plausible. It remains an interpretation rather than a mutually accepted label. Kazusa states aversion, asks for noninterference, refuses sentimental names and ends angry at another challenge. The stronger synthesis preserves care and refusal as compatible rather than requiring the latter to be false. No romance claim or global “tsundere” rule is needed to explain these local choices. [K:L111,L124,L138; A:L201; L17:L28]"
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "035a79eb6c5156eea9811451e07d512628167bbf197b21947dc4494518d20ca5",
+        "line_text": "**“Reisa pursues only justice.”** Her public heroic purpose, voluntary protection, responsibility and actual restraint give that reading serious evidence. Her explicit happiness at rediscovery, sadness over exclusion and ordinary need for friends complicate a solely mission-based explanation. Connection and justice can motivate the same approach, while neither guarantees adequacy to Kazusa. Conversely, the personal element cannot justify replacing every useful patrol or kite rescue with a story of obsession. [K:L111,L139; R:L416–429,L447]"
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "eec55f810d1595338d9a1dc1d07489167b74206c9f304c8171b125b885ac85a8",
+        "line_text": "**“Kazusa needs to suppress the old self completely.”** Her erasure language and embarrassment support this as an earlier self-appraisal. Her later café account says exact imitation and total forgetting went too far. She can refuse legend publicity without denying that a history belongs to her; the important distinction is who decides when and how that history enters company. The remembered girl's identity and a complete psychological cause remain unresolved. [L07:L28–34; L16:L28–38]"
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "0e23e8cb44ef103ae924614049abb9464112bc772cb6ad2e5d5053019f215f1b",
+        "line_text": "**“The adult produces a benevolent reconciliation.”** Sensei gives time, inquiry, command help and an audience; Kazusa explicitly values consulting. But the photograph lapse, apologies, teasing alternatives, partial understanding and Reisa's privacy condition prevent an omniscient-plan account. Three represented explanations of watching over Kazusa are alternatives, not one secretly completed masterplan. Peer and student actions remain independently causal. [L06:L30; L07:L26,L34; L16:L24–26,L38; K:L126]"
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "d51a7a5cbc769935ec791079a9b14b81f1ba71842d02c43c12c7a95f342864d4",
+        "line_text": "**“A later welcome repairs all earlier consent.”** The purchased ice cream, expanded invitation and acceptance are strong achieved positives. They establish that Reisa can be welcomed in a particular setting. They do not retrospectively retract the request for noninterference, identify the unnamed accuser in another object or narrate future duel consent. The public contexts are independently compared without a fabricated global later date. [A:L188,L201,L237; L09:L28; L17:L28]"
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "d08979c87de7d9047901d6509708fde19d8b5446b205a458a2b3d7aff9ff2071",
+        "line_text": "**“A boundary account drains the comedy of its point.”** The source does contain delighted rhetoric, appetite jokes, grand names, embarrassment and the frustration of a renewed challenge. Those pleasures belong to their actors; an analysis that discards them would be incomplete. It is equally incomplete to treat comic presentation as proof that every recipient enjoyed the act or every blast was harmless. The coexistence of play, actual care, gratitude, consent limits and renewed irritation is part of the narrative construction. [K:L113,L146–148; L17:L24–36]"
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "618dd92e4dc7dbc42c852c4797c8353fe3c39eb407cc205ff63d9663865937c9",
+        "line_text": "**“The failed ending cancels the withdrawal and rescue.”** Reisa's resumed challenge is decisive contrary evidence to permanent cessation. It does not make heard boundaries, protective withdrawal, Kazusa's concern or returned company unreal. The stronger causal claim is local capacity for revision under available evidence, vulnerable to distorted transmission, rather than either complete cure or complete inability to change. This is retrospective literary explanation, not a validated prediction about the next encounter. [K:L111,L138–142; L17:L26–36]"
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "ea9f637b1c554ebf2883b402f76c92c1844de0305050814c4c27f89880922994",
+        "line_text": "**“The private variants prove a simple developmental ladder.”** Written magical-girl pleasure, practical interventions, ordinary music and chosen memory broaden the repertoire. They do not date every costume against the event, make conditional UI lines enacted incidents or turn repeated special passages into independent corroboration. The comparison concerns differences of wanted activity and recipient response, while actual sequence is confined to supported local anchors. [R:L431–457; P:L427–444; K:L60–72]"
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "72cae7d92c5d8fb68b5f3e019a68aa201c85c4aba137e39a5e993928dde1bf55",
+        "line_text": "**“Reisa is isolated; Kazusa is the necessary cure.”** The challenge and loss can be read as a concentrated bid for contact. Reisa explicitly reports kind classmates and invitations, others' offers of adjustment and successful fun after trying advice. Kazusa's private independent life is also broader than this relation. Their importance to one another is more exact when neither is made the other's total social world or treatment. [R:L416–425; P:L413–444; K:L111]"
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "6eb7c83d47bb8f5472fb6a88af263e512ab1489914bb5eaea38e9db8f37985cd",
+        "line_text": "**“Quiet food and leisure are merely decorative after the real crisis.”** Kazusa locates an earlier motive for life change in the café's warmth; Reisa treats friends' play as indispensable; private authored company is received positively; the band hospitality contains actual initiative and welcome. Those are explanatory and achieved ends. Keeping them does not erase failed publicity, fatigue or danger; it lets the argument specify what the participants hope protection and correction make possible. [L16:L28–38; R:L420–425; A:L201]"
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "01bf9f1234ae3d353f30587c5c9c91a73cf26415be30eddf7391853a5c901a66",
+        "line_text": "## 11. Evidence route and limits"
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "d88f56544d97612fff28d3d5ba2569286b52a99e804298dae5a194f653029cd9",
+        "line_text": "This is a full bounded literary candidate for the already required directed home. All eleven architecture dimensions are joined above, with source-type distinctions and sustained contrary readings. It neither replaces the two character monographs nor completes the separate Sweets belonging, temporary-band, Vigilance or Sora responsibilities. ROOT's allocation established the existing scope; independent ROOT receiving and canonical adoption remain pending. The fixed 355/29 scope is unchanged and this author package adds zero completed packages, primary/raw/native/performed/model/independent credit or milestone credit."
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "ea8e900638592c10e85cdb50b43002771a952d70c264eea1a44d3cf2d2b2f30b",
+        "line_text": "The exact current analytical input bytes were bound at 732b3f2e635d2b8e8855f4e6709354031936ebc6. The accepted normal literary owners used here equal their historical cf2/main2e analytical bytes; current architecture 1.12 differs from main's earlier source but preserves the received eleven-section duty. Earlier producer intake or model proposals remain history under current normal/Cycle008 authority. Adequate prior complete normal receiving is reused, while the receipt separately records fresh bounded complete meanings and five small whole episode arguments. No whole primary corpus or performed material was reopened to inflate custody."
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "d899250bf6b176416929a0d5041884bb3d687f82e6e44457692605fed805ff5e",
+        "line_text": "| Route | Maintained analytical owner and exact usable scope |"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "831f11e7d7026bc2402e464ae6714a93218f622321805bfb5339d48bd550dfde",
+        "line_text": "| --- | --- |"
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 177,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 178,
+        "line_sha256": "291d56d50ab98e9b638bf00a2d8c360d092187478cae31730f48445e352797d1",
+        "line_text": "The source and saved-output receipts bind actual bytes/SHA/blob, author scopes, current versus historical source comparisons, paragraph claims, endings and rival routes. Local bound-copy links are readable from this saved candidate; their exact public canonical translations are recorded for ROOT. The intended public home is the existing `04 Specialist Synthesis/Relationship Syntheses` route, not an invented parallel directory. The operative Kazusa omission qualification and every original frozen payload remain unchanged."
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 179,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 170,
+        "canonical_line": 180,
+        "line_sha256": "3c70f86ff3422fba3728afdaac0db6e2ecae1b7c03760c20f4f442af00a13ab1",
+        "line_text": "All fourteen original gaps remain **OPEN**, with the following claim-specific effects:"
+      },
+      {
+        "frozen_line": 171,
+        "canonical_line": 181,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 172,
+        "canonical_line": 182,
+        "line_sha256": "fa72bada60048b569aa8d6acc815be1ac73d5aaaedfbe7de5fff3de2ee3750c9",
+        "line_text": "- **G01 — Ordinary and private breadth:** both complete selected private repertoires and actual company broaden this relation; they do not complete every unreceived private context or make all other people equivalent."
+      },
+      {
+        "frozen_line": 173,
+        "canonical_line": 183,
+        "line_sha256": "135573ab97442dded767f1d29b399ba292f8fb196829164b3ff5a7aa87f0b988",
+        "line_text": "- **G02 — Yuuka council/club decision transfer:** this dyad supplies no missing Yuuka governance argument or transfer; small club hospitality is not council authority."
+      },
+      {
+        "frozen_line": 174,
+        "canonical_line": 184,
+        "line_sha256": "ece675bda1d7be369da2ccd848817692d9f39c7fcb4e53f77f2ddc02f96d131b",
+        "line_text": "- **G03 — Serika service, peer and reciprocity range:** mutuality compared here cannot fill Serika's separate service and recipient contexts."
+      },
+      {
+        "frozen_line": 175,
+        "canonical_line": 185,
+        "line_sha256": "a72edc225b289673c36924610f775f4478387316cf9fdac611844def33b92dba",
+        "line_text": "- **G04 — Hina crisis causality, accountability and ordinary contrast:** this event's rescue and quieter life do not settle Hina's missing causal or accountability questions."
+      },
+      {
+        "frozen_line": 176,
+        "canonical_line": 186,
+        "line_sha256": "a58a252ed9454cbe4fae9490f432855aa63a9a56608ad8e427b18acbefc71cb4",
+        "line_text": "- **G05 — Arius and PS68 ordinary/aftermath transfer:** local withdrawal, care and renewed challenge give no Arius/PS68 aftermath completion or universal repair mechanism."
+      },
+      {
+        "frozen_line": 177,
+        "canonical_line": 187,
+        "line_sha256": "5e35c7419d072fdfed92adaccb3ac5787945714056b4ea805ab8acc8ddcfcc2c",
+        "line_text": "- **G06 — Cross-school ordinary repertoire:** the represented Trinity/company contexts remain substantial particular evidence; they cannot establish every school's repertoire or erase independently required outsiders."
+      },
+      {
+        "frozen_line": 178,
+        "canonical_line": 188,
+        "line_sha256": "952d102accc1b28db53677a718c2b82b3f0de1845535c160696d57e2928a4d90",
+        "line_text": "- **G07 — Story-world chronology:** EVENT816's local sequence is supported; EVENT836 hospitality, gifts and private variants are comparative, without a fabricated global date or universal later stage."
+      },
+      {
+        "frozen_line": 179,
+        "canonical_line": 189,
+        "line_sha256": "a80aa19c243074648b6ce8db2b07c1d4b7cd363725236516144977a4572c6f97",
+        "line_text": "- **G08 — Event naming and repeat contexts:** attested EVENT816 closing wording does not repair the missing overarching title; repeated mode codes do not create historical repetitions."
+      },
+      {
+        "frozen_line": 180,
+        "canonical_line": 190,
+        "line_sha256": "7ece81e5a5a76d3f3d6f3b0ce43d39dd169e95d21ffcd77f7965426fdc1a8176",
+        "line_text": "- **G09 — Written speaker/choice attribution:** every exact actor seam, unknown label, unprinted message and alternative choice is qualified; secure adjacent scene meanings do not certify a disputed personal utterance."
+      },
+      {
+        "frozen_line": 181,
+        "canonical_line": 191,
+        "line_sha256": "e97d11569717d14fa9036c2ad5a3133ee0ed16f362acefe5ce42ef6b10755fda",
+        "line_text": "- **G10 — Performed voice:** the language analysis concerns written representation; no audio, pitch, acting, movement, pixels or performance comparison was inspected."
+      },
+      {
+        "frozen_line": 182,
+        "canonical_line": 192,
+        "line_sha256": "06697d4b48fae9cf8ba71fcdb662e8815da8088c8b16c5a1093460047ba289f2",
+        "line_text": "- **G11 — Hoshino's Yume record and office states:** no Hoshino/Yume or office-state evidence is supplied by the dyad or its monster legend."
+      },
+      {
+        "frozen_line": 183,
+        "canonical_line": 193,
+        "line_sha256": "8f56d5cec0b2b3f77621d5ffddb41ef5a6ef9e4eb838dab376be52d9b2d6c0e2",
+        "line_text": "- **G12 — Counterpart, system and variant identity:** literal Kazusa and ReisaCH0167 boundaries are retained; the unnamed café girl/accuser and repeated UI modes do not manufacture identity joins or new people."
+      },
+      {
+        "frozen_line": 184,
+        "canonical_line": 194,
+        "line_sha256": "077ef0e789348006a1d7b5a2b6d630c810c27540ecdd954b20abbbfb8fdb372b",
+        "line_text": "- **G13 — Office, contract, safety and technical outcomes:** reported apparent lack of injury, anticipated police, playful oaths, privacy requests and gift conditions do not establish clinical safety, lawful mandate, binding agreement, verified deletion or durable technical repair."
+      },
+      {
+        "frozen_line": 185,
+        "canonical_line": 195,
+        "line_sha256": "f3c3ee95e9660254a35b79e84faf3cfa90fa172471b15509ae1f6855f9d1a304",
+        "line_text": "- **G14 — Unclassified/mode continuity:** conditional written modes and source-local endings remain distinct; they cannot unify every unclassified mode or make all branches simultaneously experienced."
+      },
+      {
+        "frozen_line": 186,
+        "canonical_line": 196,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 187,
+        "canonical_line": 197,
+        "line_sha256": "d7ae6865ae301258851be496aabbaeb7021d21393c873f58242aa75add8f67d5",
+        "line_text": "The achieved relation is therefore precise: Kazusa can choose concern, anticipate a guest and want ordinary company while rejecting the old legend's compulsory terms; Reisa can listen, protect, accept hospitality and value connection while still reviving an unwanted challenge. The actual ending leaves them with both a place together and renewed work of listening. Neither side has an analyst-granted right to define the other."
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          6,
+          6
+        ],
+        "canonical_lines": [
+          6,
+          6
+        ],
+        "frozen_text": [
+          "status: C_ONLY_AUTHOR_COMPLETE_CANDIDATE_ROOT_RECEIVING_PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_status: C_ONLY_AUTHOR_COMPLETE_CANDIDATE_ROOT_RECEIVING_PENDING"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          10,
+          9
+        ],
+        "canonical_lines": [
+          10,
+          17
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          13,
+          12
+        ],
+        "canonical_lines": [
+          21,
+          22
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded directed relationship responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,18 section-parent allocations,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Relationship Syntheses home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          156,
+          166
+        ],
+        "canonical_lines": [
+          166,
+          176
+        ],
+        "frozen_text": [
+          "| K | [EVENT816 checkpoint](bound_source_inputs/K_BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md): complete prior normal argument, fresh current literary/end/actor meanings through L180; underlying E001–017 scene001 locators retained |",
+          "| L06 | [EVENT816006](bound_source_inputs/K006_BLUE_ARCHIVE_EVENT_816_EPISODE_006_DEEP_READING.md): whole40-line accepted argument; acceptance before disclosure and privacy lapse |",
+          "| L07 | [EVENT816007](bound_source_inputs/K007_BLUE_ARCHIVE_EVENT_816_EPISODE_007_DEEP_READING.md): whole42-line accepted argument; public embarrassment, strained conversation and causal self-account |",
+          "| L09 | [EVENT816009](bound_source_inputs/K009_BLUE_ARCHIVE_EVENT_816_EPISODE_009_DEEP_READING.md): whole40-line accepted argument; gratitude/refusal, heard boundary and unfinished listener response |",
+          "| L16 | [EVENT816016](bound_source_inputs/K016_BLUE_ARCHIVE_EVENT_816_EPISODE_016_DEEP_READING.md): whole46-line accepted argument; ordinary warmth, qualified imitation and partial adult understanding |",
+          "| L17 | [EVENT816017](bound_source_inputs/K017_BLUE_ARCHIVE_EVENT_816_EPISODE_017_DEEP_READING.md): whole40-line accepted argument; actual routine, distorted report and renewed challenge |",
+          "| P | [Sweets private checkpoint](bound_source_inputs/P_BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md): complete Kazusa paired eight bond/whole-message meanings and four written meanings L413–444; broader prior normal meanings retained at actual received scope |",
+          "| R | [Suzumi/Reisa/Ichika private checkpoint](bound_source_inputs/RP_BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md): complete Reisa paired eight bond/whole-message meanings and four written meanings L413–457; not a fresh whole592-line or all-original-body claim |",
+          "| A | [EVENT836 checkpoint](bound_source_inputs/A_BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md): complete prior47 normal meanings and endings; exact current named hospitality L201/E020, unnamed-accuser boundary L188/E012, alternative-ending and actor/chronology limits |",
+          "| G | [EVENT834 checkpoint](bound_source_inputs/RJ_BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md): complete Reisa098 normal meaning L177, current authority and prior bounded ending custody; no fresh whole38-object owner claim |",
+          "| Architecture | [Architecture1.12](bound_source_inputs/A01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md): required eleven-section meanings L328–344, not a fresh whole851-line reading |"
+        ],
+        "canonical_text": [
+          "| K | [EVENT816 checkpoint](../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md): complete prior normal argument, fresh current literary/end/actor meanings through L180; underlying E001–017 scene001 locators retained |",
+          "| L06 | [EVENT816006](../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_006_DEEP_READING.md): whole40-line accepted argument; acceptance before disclosure and privacy lapse |",
+          "| L07 | [EVENT816007](../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_007_DEEP_READING.md): whole42-line accepted argument; public embarrassment, strained conversation and causal self-account |",
+          "| L09 | [EVENT816009](../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_009_DEEP_READING.md): whole40-line accepted argument; gratitude/refusal, heard boundary and unfinished listener response |",
+          "| L16 | [EVENT816016](../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_016_DEEP_READING.md): whole46-line accepted argument; ordinary warmth, qualified imitation and partial adult understanding |",
+          "| L17 | [EVENT816017](../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_017_DEEP_READING.md): whole40-line accepted argument; actual routine, distorted report and renewed challenge |",
+          "| P | [Sweets private checkpoint](../../02 Sequential Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md): complete Kazusa paired eight bond/whole-message meanings and four written meanings L413–444; broader prior normal meanings retained at actual received scope |",
+          "| R | [Suzumi/Reisa/Ichika private checkpoint](../../02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md): complete Reisa paired eight bond/whole-message meanings and four written meanings L413–457; not a fresh whole592-line or all-original-body claim |",
+          "| A | [EVENT836 checkpoint](../../02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md): complete prior47 normal meanings and endings; exact current named hospitality L201/E020, unnamed-accuser boundary L188/E012, alternative-ending and actor/chronology limits |",
+          "| G | [EVENT834 checkpoint](../../02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md): complete Reisa098 normal meaning L177, current authority and prior bounded ending custody; no fresh whole38-object owner claim |",
+          "| Architecture | [Architecture1.12](../../00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md): required eleven-section meanings L328–344, not a fresh whole851-line reading |"
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "original_transports": [
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 45862,
+      "sha256": "fad7b7ec91c38cdd3e5ddb92e7daf759215567f081581dda4ffa98fdc9c7ed72",
+      "git_blob_oid_of_actual_bytes": "258a4ff04a77d0066133b3859361c7b10bda802e",
+      "lines": 187,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SYNTHESIS.md"
+    },
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 45862,
+      "sha256": "fad7b7ec91c38cdd3e5ddb92e7daf759215567f081581dda4ffa98fdc9c7ed72",
+      "git_blob_oid_of_actual_bytes": "258a4ff04a77d0066133b3859361c7b10bda802e",
+      "lines": 187,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SYNTHESIS.md"
+    },
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_RELATIONSHIP_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 36101,
+      "sha256": "5548e7964a47305623256c6ffab6ef31c22cf915136cbb5ba506c75483d27c37",
+      "git_blob_oid_of_actual_bytes": "b661d748592899affe01b4be8a103179f3144f02",
+      "lines": 561,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_RELATIONSHIP_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+    },
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_RELATIONSHIP_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+      "bytes": 21890,
+      "sha256": "3eadbbd2ec8e611652b4649b09862d5b486678f068ad1c03cbc1a27139580ca9",
+      "git_blob_oid_of_actual_bytes": "b4628c50dc74309ed6c3b8816877c19bb724bf69",
+      "lines": 452,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_RELATIONSHIP_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+    },
+    {
+      "path": "ROOT_KAZUSA_REISA_RELATIONSHIP_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 4947,
+      "sha256": "0ee0f24bc30fe8b2c527c8207408b749251728a74d37f120e375cd208c262b64",
+      "git_blob_oid_of_actual_bytes": "9d5de1f65b53def1172a58c8ccd3a9547a60c39d",
+      "lines": 69,
+      "immutable_transport_path": "immutable_originals/ROOT_KAZUSA_REISA_RELATIONSHIP_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_RELATIONSHIP_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 89539,
+      "sha256": "5f304d2af802011eed3316624affda911345f76fb70cc620f64ca78ef4058480",
+      "git_blob_oid_of_actual_bytes": "22509d08cef0f1471c7b3d6bf4406986b979e447",
+      "lines": 2637,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_RELATIONSHIP_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+    },
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_RELATIONSHIP_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 1746,
+      "sha256": "5520fd80531bc8ee432c39ca2aa17b4ab065a6837a6ce42d041797b97a2ef3fe",
+      "git_blob_oid_of_actual_bytes": "31cbda19cb9fd791abc60eece58673b23d6ebda1",
+      "lines": 44,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_RELATIONSHIP_SAVED_OUTPUT_RECEIPT_V1.json"
+    },
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_CURRENT_INPUT_BINDINGS_WORKING.json",
+      "bytes": 21123,
+      "sha256": "dcdafd260b6aeada64f29c1605657f807209b670f3c4e10586212f1108a4bf8d",
+      "git_blob_oid_of_actual_bytes": "95fe92c7559c70b6752ec92372bdf6ad05f38e44",
+      "lines": 311,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_CURRENT_INPUT_BINDINGS_WORKING.json"
+    }
+  ],
+  "mandatory_canonical_qualifications": [],
+  "canonical_link_only_translations": [
+    {
+      "candidate_relative_href": "bound_source_inputs/K_BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+      "canonical_relative_href": "../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_sha256": "da051efeb6be56edf1a979c9941b56a117254ed06f1a608c142f702b53888e6d",
+      "transport": "LINK_ONLY_TRANSLATION; literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/K006_BLUE_ARCHIVE_EVENT_816_EPISODE_006_DEEP_READING.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_006_DEEP_READING.md",
+      "canonical_relative_href": "../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_006_DEEP_READING.md",
+      "byte_sha256": "736266c393e304e2d6eebfb02d47db3e722795baa6e4ca2d737dacce071b5c0e",
+      "transport": "LINK_ONLY_TRANSLATION; literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/K007_BLUE_ARCHIVE_EVENT_816_EPISODE_007_DEEP_READING.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_007_DEEP_READING.md",
+      "canonical_relative_href": "../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_007_DEEP_READING.md",
+      "byte_sha256": "b1dae12e7a8c6d27ba93d90ef52f2b60f04599b343ddbc39bc89ea7af3f3de2d",
+      "transport": "LINK_ONLY_TRANSLATION; literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/K009_BLUE_ARCHIVE_EVENT_816_EPISODE_009_DEEP_READING.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_009_DEEP_READING.md",
+      "canonical_relative_href": "../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_009_DEEP_READING.md",
+      "byte_sha256": "53399a894cc80068f6f87d002d16d2d6e86b77c42dfe3bf57c9f26ffa499271f",
+      "transport": "LINK_ONLY_TRANSLATION; literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/K016_BLUE_ARCHIVE_EVENT_816_EPISODE_016_DEEP_READING.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_016_DEEP_READING.md",
+      "canonical_relative_href": "../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_016_DEEP_READING.md",
+      "byte_sha256": "db30820983b6abcb0ed69d6b75d3ea57f5dd9c255ba8604e17c236622e1e3983",
+      "transport": "LINK_ONLY_TRANSLATION; literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/K017_BLUE_ARCHIVE_EVENT_816_EPISODE_017_DEEP_READING.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_017_DEEP_READING.md",
+      "canonical_relative_href": "../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_017_DEEP_READING.md",
+      "byte_sha256": "ae4b6754b47dcb6d2ceec99533cd1328435b531e5b353b5810e7ffb5ec333a37",
+      "transport": "LINK_ONLY_TRANSLATION; literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/P_BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "canonical_relative_href": "../../02 Sequential Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_sha256": "10fd498526cc67fe49e5567fdcb856392a0fe0fadd212557647efb2db8e73faa",
+      "transport": "LINK_ONLY_TRANSLATION; literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/RP_BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "canonical_relative_href": "../../02 Sequential Readings/BOND/BLUE_ARCHIVE_SUZUMI_REISA_ICHIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_sha256": "a5ca5b6efb5eaa6e641d2c03a6dad456042e7ea8653238ad08e2af27bd4a2b3a",
+      "transport": "LINK_ONLY_TRANSLATION; literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/A_BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+      "canonical_relative_href": "../../02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_sha256": "221e1398809a988693956548309259d18da8014cdbf69bcd8aac86b49cf30550",
+      "transport": "LINK_ONLY_TRANSLATION; literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/RJ_BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+      "canonical_relative_href": "../../02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_sha256": "ab779ae688f8ced967127a810180613f39b5fc23fd15976bcd2ee3cd0b863ab0",
+      "transport": "LINK_ONLY_TRANSLATION; literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/A01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "repository_relative_target": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "canonical_relative_href": "../../00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "byte_sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+      "transport": "LINK_ONLY_TRANSLATION; literary wording unchanged"
+    }
+  ],
+  "new_primary_performance_independent_model_scope_or_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

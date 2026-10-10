@@ -1,0 +1,2359 @@
+{
+  "schema": "BLUE_ARCHIVE_SWEETS_BELONGING_FULL_REVERSIBLE_SAVED_TRANSPORT_V1",
+  "status": "C_ONLY_PROPOSED_CANONICAL_DERIVATIVE_ROOT_REVIEW_INSTALLATION_PENDING",
+  "full_frozen_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+      "bytes": 45851,
+      "sha256": "eb9785a2b58a978d7e6b58c4c7d2ce312464ac7e361dc265a77143a9c81c0959",
+      "git_blob_oid_of_actual_bytes": "e75eded0103680ed40957717b645c9fb1e6b35b8",
+      "lines": 174,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+      "bytes": 48305,
+      "sha256": "853baa2eca8f893aadc6d873cc4626f031c79be84fc404218411f42c1dd6cfae",
+      "git_blob_oid_of_actual_bytes": "13a90d99d9f495cb8839c6afb13826c43b82d300",
+      "lines": 189
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 14,
+        "line_sha256": "2e8ab45f8f26eae2faeb47c5a86233dbabb96ed591dd198efc2a8ad4bc9d9bbd",
+        "line_text": "# After School Sweets Club: belonging without identical wants or complete knowledge"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 17,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 3,
+        "canonical_line": 18,
+        "line_sha256": "7ebd303b7401beb26f8a8f897d446b64af3064439c186b3713c315d0742fda21",
+        "line_text": "**Required home:** `P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE` · **Kind:** ENSEMBLE · **Author status:** complete bounded literary candidate; independent ROOT receiving and canonical adoption pending."
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 19,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 20,
+        "line_sha256": "436b562c065303757a4745e35a860396478cf6778294aa736a430edeee75f639",
+        "line_text": "This argument concerns how Airi, Kazusa, Yoshimi and Natsu sustain wanted company while differing in appetite, rest, self-disclosure, expressive style and willingness to join an activity. The club is neither a single personality nor four interchangeable examples of friendship. Complete accepted GROUP2001/2002 and GROUP1801/1802 arguments supply autonomous peer occasions and recipient endings; the accepted private checkpoint supplies each member's complete ordinary repertoire at its existing analytical scope. EVENT816 and EVENT836 provide consequential contrasts in publicity, mistaken explanation and local affirmation. The temporary band's full making/skill/memory argument and the Kazusa–Reisa directed relation remain separate required packages. No source replay, reconstruction rule, new identity or completion credit follows from this synthesis. [G:L20,L153–155; X:L20,L145–147; P:L508–529; A:L243–251]"
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 21,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 7,
+        "canonical_line": 22,
+        "line_sha256": "56be11ed5db6d2ef9aee35a30ab6288d3c888fa8e1d3e863049d03f45d92ac96",
+        "line_text": "Source routes below identify exact accepted analytical owners, not newly read primary dialogue. `P` is the four-member private checkpoint; `G` is GROUP2001/2002; `X` is GROUP1801/1802; `K` is EVENT816; `A` is EVENT836. Numeric line references point into those owners. Source and saved-output receipts bind the current published source snapshot `732b3f2e635d2b8e8855f4e6709354031936ebc6`, analytical main comparand and architecture1.12 separately. Their historical pending/proposal wording remains history where a later explicit acceptance governs. All fourteen original gap questions remain OPEN. [G:L153–155; X:L145–147; P:L510–522]"
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 23,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 24,
+        "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+        "line_text": "## 1. Core thesis"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 25,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 26,
+        "line_sha256": "ad1d7f379bcc7f747c9e69d53b0ccee7952d18ee030062c30d347a33c01ac7ba",
+        "line_text": "The Sweets Club's belonging is strongest when understood as **a wanted place for different people, with differences that can become both resources and costs**. Airi's pleasure in simply gathering and talking is not identical to Yoshimi's desire for a scarce pastry, Kazusa's wanted quiet or Natsu's wish for a romantic search. These people can share an afternoon without sharing every objective. Their care becomes visible in ways of offering food, trying conversation, making room, returning and helping; their limits become visible in imitation after a stop request, an unwanted excursion, mistaken explanations and unequal experience of a guest. The narrative asks who actually receives the desired benefit, rather than allowing the label “friends” to answer in advance. [G:L57–77,L83–105; X:L112–116]"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 27,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 28,
+        "line_sha256": "fc5a57bcbe0dd37749068f0ce4e0b522a9739f574339dc8824b309dd45b1418c",
+        "line_text": "Airi supplies a positive center without becoming the club's sole moral representative. She explicitly values the conversation even when a purchasing aim may fail, offers a snack, mediates and initiates the later rescue. She also laughs after saying the cream-covered face is not funny, apologizes for the lapse and can act on a recipient preference she has not yet asked. A synthesis that calls her merely passive misses her wanting and initiative; one that makes her perfectly responsive misses her local failures of reception. Her stated worry that she blurs her opinions is her own concern, not proof the others universally experience her as empty. [G:L61,L65,L75,L101–105; P:L397–403]"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 29,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 30,
+        "line_sha256": "5449a84728e252223fb960dded8e244a7957729a73dc7ed465f50266b9bf5e93",
+        "line_text": "Kazusa's objection does not place her outside the group. She wants quality sweets, quiet company, a longer shared bus interval and future contact; in another setting she explicitly wants to do nothing during a holiday. Those preferences coexist with irritation, boundaries on appearance and jokes, and unwillingness to follow every club adventure. Yoshimi likewise wants appreciation and reciprocity while imposing a joke after a refusal. Natsu can offer a thoughtful taste combination and protect a fragile site while pulling friends into costly help elsewhere. The thesis therefore distinguishes **valued presence from universal permission**, without treating refusal as a failure to belong. [P:L416–425,L449–470,L480–501; G:L83–105]"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 31,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 32,
+        "line_sha256": "920d123079b6e0a18e2598862346b398df4627cea5f04adb614669dd96f095ba",
+        "line_text": "Unequal knowledge is a second constitutive feature. Readers learn Airi's reason for wanting change before the friends do; their semla explanation is demonstrably mistaken, yet their wish to keep her rather than find a technically better replacement is real. Tsurugi can sincerely report an enjoyable welcome while the Sweets peers are anxious, partly through thoughts she is not shown hearing. These are not contradictions to be repaired into one true group mood. They show why care must be specified as an actor's intention, a recipient's experience and an achieved local outcome, with no automatic equivalence among the three. [A:L168–180; X:L86,L112–116]"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 33,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 34,
+        "line_sha256": "6a7cca62c7a19662dc5b986a42d8a30205730b60f6cdc0d4516e4c792949adcc",
+        "line_text": "## 2. Longitudinal arc"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 35,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 36,
+        "line_sha256": "f4dd1a96bcafc23dc0438de688385f2d58affc1e47f1954e2d803a2b79e4feea",
+        "line_text": "The accepted objects do not supply one complete calendar for the club. GROUP2001's waiting times, GROUP2002's afternoon-to-night transition and GROUP1802's visits followed by a next-day report each establish local sequences. EVENT836 supplies a festival deadline, practice countdowns and alternative endings; the private music accounts give local continuation and rental closure. Numeric retrieval order cannot turn these into a uniform progression from selfish children to mature friends. The joined arc here is a comparison of recurrent problems and actual local revisions, with a few explicit callbacks, not a new global chronology. [G:L57,L101,L127; X:L68; A:L237; P:L394,L492]"
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 38,
+        "line_sha256": "5a5995691c4c63ac3f360ec2ddef84f92cbfad36f93d7e862c002be19c1b5894",
+        "line_text": "GROUP2001 develops from waiting to snack-sharing, then to an interaction whose discomfort accumulates. Airi attempts to preserve company amid scarcity. Yoshimi's imitative joke continues after Kazusa twice asks her to stop; the offered cream puff is then damaged by gunfire from the local queue dispute, with no securely allocated shooter. Laughter and disguise jokes make Kazusa's appearance the next entertainment. Her request for a mirror and anger have those preceding causes. The reported charge into the queue and ensuing sounds do not print a complete battle, successful purchase, injury map or restitution. The narrated return as though nothing had happened closes the outing; it does not certify that nothing adverse happened. Natsu remains absent/mention-only, with apparent oversleep qualified as a report. [G:L57–77]"
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 39,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 40,
+        "line_sha256": "363756cdec77b68deaef28023638d32dd8ee6865e7742aca71bf626ed50272b1",
+        "line_text": "GROUP2002 follows a different local arc: incompatible holiday wishes, a refused cave excursion, theatrical persuasion, dispersal, an urgent nighttime plea and actual rescue. The fact that the maple icicles exist corrects Yoshimi's factual skepticism. It does not invalidate the peers' right to refuse that recreation or make the cave safe. The friends rescue Natsu and all eat the icicles, then suffer upset stomachs and a spoiled holiday. That mixed ending is the argument's indispensable completion: help succeeds and still exacts a cost. Natsu's later private reference to missing a limited parfait after the illness preserves a consequential callback without supplying a medical mechanism or date for every band scene. [G:L83–105; P:L492]"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 27,
+        "canonical_line": 42,
+        "line_sha256": "c09ed63cf91cf428c2f2195338e8f76b31b3703a9a8d3878699c917a0d1b6cee",
+        "line_text": "EVENT836 extends the question of belonging beyond convenient company. Airi wants a skill or something she can proudly name as hers, privately fears using friends and suspects she will be replaced, while knowing that her friends did not actually say the hostile words she imagines. The peers notice different amounts; they act on a wrong prize-based explanation yet reject replacement because a festival without her would not be enjoyable. The later founder revelation and equality preference make this more precise than discovery that she is “useful after all.” Their wanted participant was already Airi. Kazusa's apology for assuming she was fine is a local revision of reception, not proof everybody has learned to perceive every private fear. [A:L168–180]"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 44,
+        "line_sha256": "684abb3a872386044bbefdc6c51f6f4920bbd0702946e0e1e917a5641cf7ec81",
+        "line_text": "The closure preserves continuity and loss together. Airi later chooses her current festival plan, still refuses presidency and is voiced as liking her present self; practice and difficult feelings have not ceased. In the private rental-ending account, she loves familiar Sweets Club talk and food while mourning a temporary space's disappearance and wondering what comes next. A shared institution can remain wanted without containing every desired life. This ending prevents interpreting either the band as a cure for an empty ordinary club or the ordinary club as sufficient reason not to want change. The distinct temporary-band synthesis owns the full making/skill/record argument; here its contribution is what this local expansion and ending reveal about belonging. [A:L180,L184–186; P:L394]"
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 46,
+        "line_sha256": "35f8e0a33fadda743d0fea0076c5258f18244983167ec6ae7e79a88144362d41",
+        "line_text": "## 3. Public/private self"
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 48,
+        "line_sha256": "3e2801b76e904f7bd5aefe3feba50a9356ab7dd94b9de4843e68ab853f83377e",
+        "line_text": "The club's public ease cannot be equated with complete access to its members. Airi can sound optimistic and still struggle alone with textbook delay, finger errors and a failed full run. Her friends' offer to cover her becomes her own suspicion of departure; she explicitly knows it is not what they mean. The readers' knowledge of her confession does not make the peers deliberately neglectful, and the peers' ignorance does not make the fear causeless or clinically diagnosed. Her late private account gives her motive a depth that the semla explanation lacks. Belonging therefore involves the risk of being wanted for reasons one cannot confidently perceive. [A:L168–174]"
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 50,
+        "line_sha256": "c6f9b46c96b49990d301f0b414633bc2de5bf04f968148e3d6e770ad1a114e19",
+        "line_text": "Confidentiality remains a real boundary, including when disclosure has a helpful result. Airi requests secrecy about the initial confession. In detention she initially refuses to tell friends; Natsu says there is no choice, and Sensei leaves to explain despite her plea. The subsequent recognition, affirmation and self-liking are achieved positives. They do not turn the earlier refusal into freely volunteered disclosure or establish unlimited adult authority to disclose. Her later private festival-ending request protects an embarrassing conversation rather than licensing permanent isolation from peers. Privacy and peer support must be retained as distinct goods which can be put into tension. [A:L168,L176–180; P:L394]"
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 52,
+        "line_sha256": "e4d2fd12bb54f0d68643e3d9211108925a631eca5217956daa5d83820f248837",
+        "line_text": "Kazusa's private study, bus choice and appearance objection show different reasons for familiar reserve. She seeks resit help, insists on paying so guilt will not impede concentration, chooses a slower bus for quiet and snacks, and asks that a safe-arrival image reference be deleted after viewing. These local purposes defeat a uniform “she secretly wants all attention” account. Shared continuation is printed, as are direct distance and image limits. No pixels or deletion compliance were received. Her return to company is compatible with maintaining what she does not want publicly exposed. [P:L416–422]"
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 54,
+        "line_sha256": "f00c9e9e9064df999f63bf166f295ef29b35e9b9f58076e7ba845a12005896c8",
+        "line_text": "Yoshimi's apparent comic anger likewise has multiple objects. She wants to own clothing choices, distinguish autograph from band logo, have a genuine study request taken seriously, control when a gift is opened and avoid becoming a spectacle. Narrated musical success and hopes for a future open walk coexist with exhaustion, embarrassment and a request to stop teasing. Her inward wish is not a present partnership and cannot retrospectively cancel the objections. The private evidence allows her public expressiveness to remain lively while interpreting its recipient-specific purposes. [P:L449–470]"
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 56,
+        "line_sha256": "24a19f2525d8584f1fe4ff526b15852056aabc3f8ab58b33d629007373832d77",
+        "line_text": "Natsu can turn the ordinary into a lecture or mystery without the analysis treating her as a hidden omniscient voice. Her cookie interpretation remains partly understood after the gift; her ice-cream-and-espresso combination achieves an actual shared food experience, not universal reconciliation. At the old sweet site she changes her plan to publicize it because even ordinary tourism might damage what she values. That concrete withholding differs from the lost cave trip. She can want exchange, adventure and privacy at different times. Her schedule-management stress is explicitly denied in another account; the denial must survive the temptation to make every metaphor a symptom. [P:L480–492]"
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 58,
+        "line_sha256": "beade759a47500cb9d6acb82b9632a6df3c7c095d53a9e8046711db16870f94b",
+        "line_text": "## 4. School/club role"
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 60,
+        "line_sha256": "00e071ae6f522d3432e41474a592003bebd2d0e40b64c3aead7ca59596d1a81b",
+        "line_text": "The Sweets Club is an informal peer institution with real effects on time, places and interpretation. EVENT836 explicitly says there is no fixed leader or decision rule; later Kazusa identifies Airi as founder while explaining that she wanted equality. The invitation to become leader and Airi's refusal are not evidence that leadership was formally imposed anyway. Informality does not make practice assignment, access to a rented place or a group's theory about a missing friend inconsequential. The club provides a place to want one another without fully knowing one another, and sometimes organizes action before it has properly heard the person it hopes to help. [A:L158–172,L180,L186]"
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 62,
+        "line_sha256": "2591d0b343805d57c5a1f7106f66e717d779d722fb5ad026f5b9f62ca14b91c1",
+        "line_text": "This equality is neither absence of initiative nor sameness of labor. Airi recommends foundations to address playing errors, proposes food and asks for feedback. Kazusa notices she has monopolized a turn and gives Airi space. Yoshimi claims a clothing judgment of her own and describes the responsibility of deciding alone. Natsu's management and schedule duties coexist with physical effort and need for help. Each member can lead a particular practice, offer or refusal without acquiring permanent authority over every other's taste and pace. The full skill-allocation account remains in the temporary-band home; here these acts show how equality can be practically made and locally compromised. [A:L160,L195–198; P:L449,L498–504]"
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 64,
+        "line_sha256": "fa520bc618b2fc292c0e74f031ea2086b2bbdb9f895fe00ce199160b08fc038f",
+        "line_text": "Membership does not imply an exhaustive social boundary. In EVENT836020 Airi invites Reisa even when Kazusa is absent and offers rest and eating after vigilante work; Reisa accepts. Kazusa returns with an extra ice cream she actually purchased because she anticipated Reisa. This is achieved hospitality with multiple independent initiators, not merely a teacher claiming the peers are kind. Playful blood-oath language does not register formal membership or authorize future duels. The Kazusa–Reisa package separately preserves wanted company and her unwanted challenge; the ensemble asks how the room can be opened by people with different relations to the visitor. [A:L201]"
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 66,
+        "line_sha256": "7702ac3a17c84e45f12047be14f964feceb3b5b2d99c0fb9faa64683b2bcbc4f",
+        "line_text": "The Justice exchange tests that opening against a markedly different visitor. Nagisa's video makes a day away from usual duties and participation in other clubs compulsory. It is student institutional policy, not Sensei's plan or freely chosen rest for the Justice members. When Tsurugi visits, Airi, Yoshimi and Kazusa are not shown adopting one identical response. The visitor's actual reported pleasure matters; fear and uncertainty on the hosts' side matter too. Attendance and an apparently successful lesson cannot certify reciprocal comfort. The final question about whether the Sweets Club also enjoyed it is the appropriate institutional stopping point. [X:L66,L96,L112–116,L125]"
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 68,
+        "line_sha256": "3733b33b2cb7345855d9d1c962d15b9235e30ecaf5ce0974926903dd30a0928d",
+        "line_text": "The ordinary institution must also retain those outside its named members. GROUP2001's local Student A and B dispute queue-cutting with empty person joins; the damaged pastry interrupts hospitality. GROUP1802's literature and tea peers are interested, praising, frightened or questioning recipients in their own contexts, rather than a background against which the Sweets Club becomes uniquely healthy. No national school violence rate, JTF intervention in the queue, complete compensation, tea destruction or lasting exchange reform is printed. Local rules and adverse encounters are sufficient for this argument without promoting them into a complete institutional model. [G:L48–51,L57,L69,L77,L137; X:L102–116,L124]"
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 70,
+        "line_sha256": "2383968aabd16f4ef1bae373f95c32ca45391dda36dc5bc2c36b4a346caeb41c",
+        "line_text": "## 5. Ordinary life"
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 72,
+        "line_sha256": "655ff915aebe4b49bbe9afca0dfec6c7566eb37b5b11d1ba44544e0a511405df",
+        "line_text": "Dessert and company are related goods, with neither reducible to the other. Airi can enjoy talking while waiting and also have a particular dessert she strongly wants. Her cupcake selection distinguishes tried raspberry, banana's appealing color and an old chocolate-mint favorite. Kazusa identifies her own strawberry shortcake and macaron tastes and avoids some cheap mass products. Yoshimi's scarce-sweet rivalry and willingness to recruit another purchaser are not proof she lacks affection; Natsu can seek the history of expired sweets rather than edible food. The club name gives a common activity, while the sources supply different sensory and imaginative uses of it. [G:L61; P:L397,L419,L458,L486]"
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 74,
+        "line_sha256": "25d2dce2c5bc9425384ddf3aa6effccdfb66a903092eb1c496da45e070fe154a",
+        "line_text": "Waiting offers a precise example of nonidentical benefit. Yoshimi's restless dissatisfaction asks for expressive reception; Kazusa asks for relief from disturbance; Airi tries to sustain the gathering and supplies another sweet. Missing the original pastry would not erase Airi's conversational pleasure. It would also be wrong to use her contentment as a demand that Yoshimi and Kazusa experience the same waiting as equally pleasant. Food, successful acquisition, expression and company can be distributed differently across the same minutes. These ordinary stakes explain the interaction even before the cream puff is damaged. [G:L57–61]"
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 76,
+        "line_sha256": "508dae9755b2448947a436774c5b20202db5efdd6ca7d0820b7f68b7a84d71ff",
+        "line_text": "Doing nothing is a wanted life, not an empty state awaiting useful service. Kazusa names inactivity as her holiday plan; Airi has lessons and study; Yoshimi has no fixed plan and considers sweet-shop touring; Natsu wants a more elaborate search. The refusal of the cave expedition is therefore a choice among real activities and degrees of effort. Natsu's desired romance belongs in the record, but so do the others' preference for a holiday that does not contain it. The later rescue must not absorb those earlier wants into a general duty of enthusiasm. [G:L83–103]"
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 78,
+        "line_sha256": "5f198d56618c4d508f332d2e07e336d51333a213b8fdd673f5b2564b0a318f76",
+        "line_text": "Ordinary company also need not originate in a problem. Natsu's pie, milk, pleasant sun and wind, and wish for shared time explicitly reject the assumption that a visit must mean distress. She cuts off serious discussion because she wants to keep enjoying the interval, and the complete message tail values contact whether something has happened or nothing has happened. Airi independently walks after exams; her incidental encounter and narrated conversation until evening are not a manufactured crisis. Kazusa's continued bus time is chosen, while Yoshimi's study request is serious without needing an academic emergency. These ends preserve the ordinary as an intrinsic explanatory domain. [P:L406,L419,L464,L489]"
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 80,
+        "line_sha256": "b6823a6a025ba19af2b988647f1d4f631dcfba4d7c1243cb6f7737de5b0532d6",
+        "line_text": "Making and attention broaden the common room. Natsu's handmade cookies and changing taste combination make exchange possible without guaranteeing perfect interpretation. Kazusa wants imperfect ensemble memory on a tangible LP rather than a commercially polished album; a worker supplies the turntable help. Yoshimi wants personally selected clothing and a serious private musical audience, while Airi's keyboard practice and new-skill wish may unsettle the identity friends already value. This ensemble does not fully retell the making process, but it retains what each person's ordinary objects are for: offering, self-expression, memory, pleasure and a way of becoming something one also wants to be. [P:L388,L449–455,L480–483,L439; A:L168]"
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 82,
+        "line_sha256": "0e70ac308837972b55884080da6044156eda0606df85cdf26243ad4d8da6f0b1",
+        "line_text": "Costs remain ordinary too. Yoshimi becomes exhausted after agreeing to repeated encores. Natsu must rebuild the drum setup after a feared crawling thing proves to be moving dust. Airi's rain-running ends in a fall and a tail's limited no-injury reassurance; her wanted atmosphere is not fully achieved. These endings resist a hierarchy in which pleasant company means no labor or embarrassment matters, and also resist a hierarchy in which every activity must yield measurable competence to be worth recording. Wanted experience, practical help and a recipient's fatigue are simultaneously part of the account. [P:L391,L455,L498]"
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 84,
+        "line_sha256": "fcf42308e73257a761a3c94e20b290b83a1a1f8d0e22b57cb83b4cc94961361e",
+        "line_text": "## 6. Crisis behavior"
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 86,
+        "line_sha256": "10d0462489fa7370813d0c6c462b5f5c173b9dc41f29a0e6c7beb513d5c63074",
+        "line_text": "The most consequential peer intervention in GROUP2002 is not a reversal into universal agreement. Airi alerts the others, says they will go, Yoshimi agrees with resignation and the narrator states that the three friends leave to rescue Natsu. A friend stranded in darkness creates a different question from a friend proposing leisure. Their help shows available care, while their earlier refusal remains authentic. Natsu's later urgent plea is also different from the earlier sadness she drops as an unsuccessful act. Recognizing the performance locally must not train the argument to disbelieve every later tear. [G:L95,L101–105]"
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 88,
+        "line_sha256": "4c04e781596c47b21d6b151e71a1a717ae179d64356253483e30d9aed62a5fc3",
+        "line_text": "Its full outcome is mixed and collective. Natsu is rescued; the ice formations really exist; everyone eats and suffers an upset stomach; the holiday is spoiled. A successful rescue cannot be replaced by a claim of failure, but success cannot expunge the imposed cost or certify safety. There is no shown pathogen, treatment, clinical recovery or proportionate universal risk rule. The club's ability to act together is demonstrated at this local scope, with ordinary lost leisure included among the consequences. [G:L97,L105]"
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 90,
+        "line_sha256": "4488f60fa2b22cd70fe327ff6f0f27947ade94191dc0a503185afbd61d3ca9e0",
+        "line_text": "In EVENT836 the concern about a missing friend reveals unequal noticing and a faulty causal explanation. Kazusa and Natsu had perceived muted smiles or pressure without raising it; Yoshimi had not noticed. Their wish to protect Airi is supported by refusing a replacement and undertaking action, but the semla theory is refuted by the readers' received private confession and later recognition. The argument should neither call them wholly uncaring because they are wrong nor declare their diagnosis correct because their devotion is sincere. Collective action can express belonging while lacking adequate knowledge of what the person wants. [A:L168–172,L176,L250–251]"
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 92,
+        "line_sha256": "ae9455e6a09b5f0aae3fb27c779c24c8ceeea36c768772c48506e34f33350ee9",
+        "line_text": "Affection does not certify permissible means. The friends' theft/attack plan, retrospective combat reports, rapid defeat on JTF arrival and detention have their own source warrants; predicted dissolution or suspension is not a final ruling. Ichika's promised plausible account and hope of indulgence are not a printed pardon or completed restitution. Yoshimi's claim that a club unable to protect Airi is not worth preserving identifies a value she places on the club; it is not an automatic right to override other participants or resources. The very ordinary place worth protecting can motivate both useful care and adverse action. [A:L172–178,L188]"
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 94,
+        "line_sha256": "5c8a0059df1b1fdc14077e08d72870b7606772ffe592d19862333d594bd06a3d",
+        "line_text": "The quieter crisis is receiving another's insecurity without making worth conditional on repair. Airi's friends affirm they stay because she is Airi, while irritation and contrary judgments continue; Kazusa apologizes for assuming she was fine. The local ending that she likes her present self does not require effortless skill or future immunity to anxiety. Tsumugi's question about whether reassurance postpones insecurity and her contribution of more demanding music retain the problem rather than supplying a technical cure. Belonging can support an unfinished person and an unfinished practice, while the forced disclosure stays an ethical contrary case. [A:L174–180]"
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 96,
+        "line_sha256": "12d783fd632754e35ec6380172275c434dce4f6826b0d7d9dcac755b6d27886d",
+        "line_text": "GROUP2001 gives an adverse ordinary counterexample to smooth collective response. Familiarity does not stop the ignored imitation, damaged hospitality, humiliating jokes or reported armed escalation. Airi's apology has meaning because she has participated in a lapse, not because the scene establishes perfect mediation. The collective narrated return closes this represented occasion while leaving shot allocation, injuries, discipline and purchase unresolved. The account must not fill those tails from comic tone or assume a later rescue has repaired this separate encounter. [G:L65–77,L125–127]"
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 98,
+        "line_sha256": "e18ddbc33e681b1888a4059ab48f4c58ab3bfe379d7e15d2e3e196393804c50d",
+        "line_text": "## 7. Sensei relationship"
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 100,
+        "line_sha256": "ed0ffc8a1f023af5d311917f79193f41c3cc155a165f5399b7b01fefba16dffa",
+        "line_text": "Neither complete GROUP packet contains Sensei or formal choices. The friends' rescue, gathering, differences and apprehensive hosting are autonomous student acts; Nagisa's compulsory exchange is her video instruction. The teacher is not a concealed source of every well-organized or affectionate peer action. This absence is a positive scope control, not a counterfactual theorem about what would have happened with an adult present. [G:L109,L138; X:L84,L96,L125]"
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 102,
+        "line_sha256": "14b3227e4bdc05cd63ba7d8876943e0388a04dead53da912382b37549386dc33",
+        "line_text": "The private scenes do show chosen adult company, and the wishes differ. Airi wants a listening interval, a break or a walk; Kazusa seeks serious study, quiet continuation, private rehearsal and selective appreciation; Yoshimi seeks practical style advice, sincere recognition and educational help; Natsu seeks interpretive exchange, company without a problem and support for a fearful inquiry. Each value must be received on its own terms. The teacher's initial label of Natsu's schedule as stress is explicitly denied; affectionate reframing does not replace Yoshimi's stated study purpose or Kazusa's appearance limit. [P:L388–406,L416–439,L449–470,L480–501]"
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 104,
+        "line_sha256": "6e7f1f9f56aafd5351e4e0f7d471d1fca833f890287a18ec16785e5eef8c477b",
+        "line_text": "Teacher involvement may help without being ideally responsive. Practical work, a private audience and completed review are positive endpoints, while teasing after objections, extra encores, opened gifts against an audience condition and pressure to continue eating have contrary recipients. Some students also impose on the teacher: Yoshimi's repayment contest reaches explicit resistance, and her financial success does not make the feeding attempt comfortable. These are two directed sides of responsibility, rather than a choice between wholly beneficial adult care and wholly harmful adult presence. [P:L452–470,L498–501]"
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 106,
+        "line_sha256": "9b65c290351242ca9c7f70e1db755b1aa1a8ef1d900386a3dfd094cd92af3b0c",
+        "line_text": "EVENT836 presents a particularly consequential limit. Sensei arranges a studio and participates in searches, yet enters practice after Yoshimi explicitly says the refusal is not an invitation to do the reverse, returns secretly after expulsion and later discloses Airi's private motive against her plea. Her friends' useful recognition is not retroactive permission for those acts. The teacher offers not to force Airi back and gives meaningful support; those positives coexist with actual failures of receiving. The ensemble's stronger explanation is that care is distributed among members and helpers, and its adequacy is contestable at each recipient. [A:L166–180]"
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 108,
+        "line_sha256": "0f6f13381c10c8167b1fc7a3b283fe1f4132884439a6f0d4d2a2fac6b4819111",
+        "line_text": "Adult recognition cannot replace peer agency. Airi's invitation to Reisa, Kazusa's extra ice cream, the peers' rejection of replacement, recognition of a monopolized practice turn and continued food/rest wishes are actual peer contributions. Teacher reassurance that friends like participating is a represented support whose adequacy must be compared with their received words and acts. The club's ordinary ends are not just what students are allowed to enjoy after adults solve the important problem; they are what much of the help, struggle and refusal are about. [A:L168,L172,L197–201]"
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 110,
+        "line_sha256": "9a07de2976538e3341f3d32f3d74ac0eb8e52418a11d94fe56c6755435abe923",
+        "line_text": "## 8. Major peer relationships"
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 112,
+        "line_sha256": "74fba3b566011c1f07675767d4f20ecda0a45066ea38f63443c540124cefb5bb",
+        "line_text": "Airi offers a gathering place whose value she can articulate independently. In GROUP2001 her snack and conversation preference attempt to sustain an outing; in GROUP2002 she initiates help; in EVENT836020 she opens hospitality beyond Kazusa's personal tie. These acts give her positive direction toward others. Her concern about indistinct opinions, her request for privacy and her difficulty receiving an offer to be covered give the reverse direction its vulnerability. Founderhood explains a role, but it cannot make every member's participation hers to decide or every recipient's benefit uniform. [G:L61,L103; A:L174–180,L201; P:L403]"
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 114,
+        "line_sha256": "6fe96632ce6760b3bc8b4cba5fff1d74451ea45aa1051c17795e6525dcdbb8fa",
+        "line_text": "Kazusa and Yoshimi expose a familiar relation which includes actual boundary conflict. The restless complaint and imitative teasing are ordinary peer acts; the repeated stop request is equally ordinary and consequential. Airi's laughter and apology later complicate any division into one persecutor, one flawless mediator and one humorless victim. Yoshimi's individual taste, study, gift and appearance limits also resist treating her merely as the irritating member. She can impose on Kazusa and elsewhere be the person asking for sincere, limited reception. These different directions do not cancel one another. [G:L57–77; P:L449–470]"
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 116,
+        "line_sha256": "bc43f3a8dbbf0e58e8102f0686d17754a3d91e073eafb8cbdffd9ac8fdef0327",
+        "line_text": "Natsu's relation to the group includes both generosity of interpretation and imposition of pace. She wants others to encounter romance and can accept that disappointment belongs to inquiry; she also pushes a rejected adventure and mobilizes familiar theatrical sadness. Kazusa interprets her as enjoying correction, but that is not a certified motive. Yoshimi recognizes a repeated persuasion form and stops it, yet later joins rescue. The group can learn enough to distinguish these particular speech acts without attaining an infallible detector of Natsu's feelings. [G:L85–105; P:L486]"
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 118,
+        "line_sha256": "bb92a86a1389ffdf7ff2b9fbcd0f89fc4a101256343f68a80e2b5f125c5626a3",
+        "line_text": "The peers also encounter a genuine epistemic challenge when Natsu's improbable rumor is true. Yoshimi is wrong about the icicles' existence. That local correction does not require giving up skepticism about every mystery column, changing a preferred holiday or becoming responsible for making the proposed trip safe. It is possible to be wrong about a fact and still entitled to refuse participation. Conversely, actual later danger does not prove Natsu's wanted experience was intrinsically valueless. Those separate judgments allow the ensemble to retain both romantic desire and recipient responsibility. [G:L91–105]"
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 120,
+        "line_sha256": "54008c850d447afc3a26a0d1747932b8366af86e59fce87ca93c7973c9f1d1b6",
+        "line_text": "The guest encounter makes the direction of experience unusually clear. Airi proposes speaking despite fear, Yoshimi imagines being eaten, and Kazusa doubts that will happen. Tsurugi's sighs and laughter are printed; no threat or attack on the hosts occurs. Their parenthesized apprehension is not shown being heard by her, so her next-day statement of fun and welcome is not demonstrably a lie. Mashiro's reciprocal-experience question prevents the analysis from converting one person's relaxation into everyone's completed benefit. This is an honest asymmetry, not grounds to invalidate either side. [X:L86,L112–116]"
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 122,
+        "line_sha256": "b9fc29fdb5aa0b7b171f2a68bd80547a006abad5b2b6335636e3f31062470423",
+        "line_text": "The wider club visits prevent idealizing this asymmetry as unique dysfunction. Literature peers show interest in Mashiro's serious book while she finds explanation difficult and wants her committee back; tea peers praise Hasumi before her political-provenance reaction frightens them. Their questions and perceptions are independent recipient evidence. A successful contact for one purpose may fail for another, and friendly curiosity can feel demanding without becoming rejection. The Sweets Club is one ordinary social setting among several differentiated encounters, rather than the universal solution imposed contact should have produced. [X:L102–116]"
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 124,
+        "line_sha256": "9842753eb0385905ea6086b6feb81153d9e9adb0a83ef22001f8e4b8da915c82",
+        "line_text": "EVENT836's wrong diagnosis and true wish to retain Airi provide the most sustained internal comparison. A group may want the right person while offering the wrong explanation for her distress. They reject a superior replacement because she is part of the desired festival; later affirmation and apology make that wanting legible to her. Those acts do not remove the fact that she initially did not wish her confession disclosed. The relation becomes more adequately expressed, while the means by which knowledge spreads remain contested. No single member or teacher can be credited with sole authorship of the resulting belonging. [A:L168–180]"
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 126,
+        "line_sha256": "6261d97f3355e841e4956441f3e024ace0ec5dcd7a364f18f1dd518f590edf4d",
+        "line_text": "## 9. Language/voice"
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 128,
+        "line_sha256": "59ca3226e910aeccb96f6d38f3f7ea3e37effbb21aedc184ed0bb683753ce2f2",
+        "line_text": "The prose treats voice as written register and represented address. No native audio, acting, acoustic performance or body animation has been received here. Canonical dialogue, narration, character-narration, system, UI triggers and alternatives have different warrants; association with a portrait or variant is not sufficient to repair a text-bearing actor seam. GROUP2001's feeding replies and GROUP2002's questions/laughter/communication retain the exact conflicts in their accepted argument. A secure broad interaction can be read without assigning every unstable line to a lifelong individual style. [G:L51,L67,L111–125; X:L62,L70–86]"
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 130,
+        "line_sha256": "01e396f5479d8cc7b911d14b251106cb6958cc5f4f63c8027855985d1f9a8755",
+        "line_text": "Airi's explicit gathering-and-talk valuation and Kazusa's “doing nothing” claim carry ordinary purpose in the words themselves. The latter is not a blank for the analysis to fill, while the former is neither a universal sweet preference nor a requirement of equal cheerfulness. Yoshimi's imitative mode becomes consequential because it repeats after stop requests, not because a performed childish voice has been independently heard. Natsu's romance, mystery-column appeal and admitted unsuccessful sadness belong to locally distinguishable rhetorical acts. The nighttime communication then carries an urgent request with a different warrant. [G:L59–65,L83–105,L139]"
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 132,
+        "line_sha256": "19620390d2b713ceee28e3effe4868e578a97e4b12e793924621fd3800b2640e",
+        "line_text": "Taste language can open inquiry or foreclose it. Natsu asks about espresso preference and makes a combination; Kazusa considers Sensei's different sweets and Airi distinguishes the basis of her cupcake choices. These are particular acts of receiving, while Natsu's schoolgirl-sugar generalization is hers rather than nutritional authority. Yoshimi's stylistic opinion about friends' “wrong direction” is not an objective verdict that their tastes are defective. The analysis retains conflicting evaluations without appointing a reliable taste judge for the whole club. [P:L397,L419,L449,L483; G:L85]"
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 134,
+        "line_sha256": "5b88fecb45631a713c1fda89c3ca4b692b3cedd822a92fcb57b919047b657b02",
+        "line_text": "Written imperatives and refusals cannot be dissolved into a uniform comic idiom. Kazusa's stop requests, bodily-distance and deletion conditions; Yoshimi's requests for quiet, sincere attention and delayed gift-opening; Airi's confidentiality request; and Natsu's cookie-viewing condition each target a specific act or audience. Positive later company does not erase those words. Equally, an exaggerated threat fragment, gift chase, corpse metaphor or hostile stage lyric is not an actually completed injury simply because the rhetoric is vivid. Precision requires both recipient attention and restraint about unprinted action. [P:L419–439,L452–470,L480; A:L168,L176,L184–189]"
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 136,
+        "line_sha256": "dbd89a8bb3e11c62b26fcbce245d1054a070ba5f258109d1e0b7543b52986e02",
+        "line_text": "Repeated UI and costume contexts widen a written repertoire without providing independent enacted encounters. Blank costume profiles remain blank; progress/shop/mission triggers and repeated bond passages do not establish rerun chronology, new membership decisions or bodily consent. The four individual private arguments retain those particular source boundaries. This ensemble uses them as contrary checks on a single expressive stereotype, not as additional observations of every full gathering. [P:L409,L442–444,L473–475,L504–506]"
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 138,
+        "line_sha256": "daf0995c894a2d93b298fcb24850b0e0c65300187113870fa966df8428a4193c",
+        "line_text": "## 10. Competing readings"
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 140,
+        "line_sha256": "6f6b52f9a401ef429048430f76a425115cf1674cc086676c5e1b6cb41681ca66",
+        "line_text": "**“The club's meaning is that food is really only an excuse for friendship.”** Airi's explicit enjoyment of conversation and the peers' wish to keep her make this plausible in some moments. Kazusa's quality preferences, Yoshimi's scarce-food rivalry, Natsu's sweet-history inquiry and the fulfilled taste after a genuine purchase are serious counterevidence. Food and company are separate goods which can support, compete with or substitute locally for one another. Reducing one to a symbolic disguise loses why a spoiled pastry or missed parfait matters. [G:L57–61,L105; P:L397,L419,L458,L486,L492]"
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 142,
+        "line_sha256": "4a8bd65c4bdee23a8e616d06709477655efff3dfb6f20683b4093929dfc4589a",
+        "line_text": "**“Airi is the calm center because she has no strong desire.”** Her mediation and worry about blurred opinions support an appearance of accommodation. Her insistence on a particular visit, wanted rain-running, specific flavors, instrumental ambition and private fear of returning to a prior routine contradict absence of desire. The stronger interpretation preserves a person who can explain, insist, apologize, offer and withhold differently across settings. Local hesitation is not a whole-person void. [P:L388–409; A:L168–174]"
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 144,
+        "line_sha256": "5657d31ac67437eca871a1b6eadec581575da5d71f5f31d2a383ab97e61ed14c",
+        "line_text": "**“Friends are close enough that the stop requests need not be literal.”** Familiar teasing, cake, future invitations and gratitude make affection unmistakable. Repeated objections, the damaged cream puff, appearance distress, laughter/apology and tired private recipients make cancellation of their limits unsupported. Close company can include acts that exceed what one participant wants. The literary account gains precision by keeping that conflict rather than deciding that only affection or only harm is real. [G:L65–77; P:L422,L452–455,L470]"
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 146,
+        "line_sha256": "5481c6ca34dfc25ca5d64931e628dcf359ac72249ed165f19e027fc6aa1f3bf6",
+        "line_text": "**“Natsu's theatrical tears make the later emergency another manipulation.”** The earlier act really is exposed as an unsuccessful persuasion, and Yoshimi invokes its repetition. The later lost-trip plea and narrated actual rescue have a different witness and endpoint; the icicles really exist and the holiday is actually spoiled. This story supports distinction among particular acts, not the global credibility revocation of a person. Earlier exposure makes careful reception more necessary, not optional. [G:L95–105]"
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 148,
+        "line_sha256": "cadeae368cb3067255b218ecf0295a39cfde835504cf8f919c12586d467fc558",
+        "line_text": "**“The rescue proves the friends secretly wanted the trip.”** Their collective departure and participation in eating establish help and a shared afterstate. Their earlier diverse plans and refusals, the urgency of being lost and the spoiled holiday defeat retroactive agreement. One can decline recreation and choose inconvenient aid. The group's local capacity for care therefore does not require a myth that it shares every original want. [G:L83–105]"
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 150,
+        "line_sha256": "0b4850aa8fa27c8ce8f4b44d0d579f2de05d956e24165367d21cb7a87eb9d61f",
+        "line_text": "**“The true icicle rumor vindicates Natsu in every respect.”** Yoshimi's factual denial is corrected, and Natsu's desired discovery is not imaginary. The unshown safety conditions, loss in darkness and adverse shared ending prevent extending that correction to safe planning, reliable sources or owed companionship. The sharper account separates existence, worth, consent and consequences instead of making one factual success resolve every issue. [G:L91–105]"
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 152,
+        "line_sha256": "584f916498c599e6cb2a19174e4ebb1ca0544016dfa98d598435df654c42ec8d",
+        "line_text": "**“Tsurugi's reported happiness settles the exchange as successful.”** Her fun and relaxed appearance are substantial positive evidence, including for colleagues worried about her. The hosts' fear and differentiated attempts, and Mashiro's final question, leave reciprocity unresolved. Their unshared thoughts do not prove she knowingly lied. There can be a real one-sided benefit without either declaring total failure or completing Nagisa's intended social lesson. [X:L86,L96,L112–116]"
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 154,
+        "line_sha256": "96c913a9d388dc1dfc0217cabca0fc13962da4b1f6bfb6b4f68c9218ac4f0ea6",
+        "line_text": "**“The members' wrong explanation proves they do not really want Airi.”** They demonstrably mistake her motive and initially perceive different amounts of pressure. Their rejection of a technically better substitute, insistence on her presence, practical care and Kazusa's apology are contrary evidence to indifference. Wanted belonging and incomplete knowledge can coexist. Their care does not make the diagnosis correct, and the later beneficial recognition does not repair the forced-disclosure boundary. [A:L168–180,L250–251]"
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 155,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 156,
+        "line_sha256": "580d7cf745ebb2a79282986cb37f746424a0523cf1daad818c3791f5a00d2ab7",
+        "line_text": "**“Band success cures the ordinary club's deficits.”** Airi likes her present self locally and receives affirmation; the members gain actual practice and shared experience. Continued fatigue, recipient objections, refused leadership, rental loss and her explicit love of the ordinary club prevent a total cure or growth ladder. The band's different making question is required precisely because wanting that activity is not the same as replacing food, rest and talk with measurable achievement. [A:L180–210; P:L394,L455,L498–501]"
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 157,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 158,
+        "line_sha256": "91c97595c313120ea23004230f7247ba549ee2af9e0944d007f37912599afe97",
+        "line_text": "**“The institution should solve disagreement by making Airi the leader.”** Founderhood and active coordination provide a serious basis for others' proposal. Her equality preference and later continued refusal of presidency are actual counterevidence to the proposed solution being adopted. Informal distribution has limits, but a character's declined title cannot be counted as an enacted reform. Belonging has to retain the participant's wanted role rather than award an office as proof she has matured. [A:L158,L180,L186]"
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 159,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 160,
+        "line_sha256": "4cdc1a504770dfb569f4f2ac39b27167bb27daf5d1f50b7731deede9896c508f",
+        "line_text": "**“An attentive adult is the source of every adequate peer outcome.”** Studio help, searches, consultation and audiences are real. The complete GROUP arguments contain no Sensei; Airi's initiating rescue, peers' refusals and independent guest perspectives stand without him. In the event, adult intrusion and disclosure are themselves adverse acts. Distributed student initiative, adult support and imperfect reception explain the record more fully than a master-plan or rescue monopoly. [G:L101–109,L138; X:L84,L125; A:L166–201]"
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 161,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 162,
+        "line_sha256": "130f06e27b7ba2e1e97902816380dba450f7f6e155ee746669e558e2356ff01b",
+        "line_text": "**“Quiet taste and leisure are too slight to support an independent package.”** The queue, planned inactivity, simple midday company, interpretation of gifts and unfinished rental ending determine what members ask of each other and what the club is for. Removing dramatic danger would leave those goods and differences analytically consequential. This existing ensemble home is justified by its distinct question of shared place with unequal wants and knowledge, rather than by source counts, popularity, crisis severity or reconstruction grade. [G:L149–155; X:L134–147; P:L489,L529]"
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 163,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 164,
+        "line_sha256": "9058ef48105a0781217f9cfbd38422476e82a85b0d9d093d7ecd795882eb223d",
+        "line_text": "## 11. Evidence route"
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 165,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 166,
+        "line_sha256": "b109102f3c798267630584164cf0a5a5d4cbc05cbaa97849f793338c30271e99",
+        "line_text": "The finite source route is complete accepted analytical meaning, not a fresh claim to original-source custody. The current six literary/method owners and two small immutable scope controls are exact-bound separately; current bytes equal the declared published snapshot. The complete GROUP arguments were personally received again here through their actual endings, including current acceptance paragraphs. Complete relevant paired private meanings and written baselines are either personally recovered at the stated current line ranges or reused from the same author's adequate whole normal-meaning custody. Neither a copied file nor a ROOT-prefixed folder supplies reading credit. [G:L153–155; X:L145–147; P:L510–522]"
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 167,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 169,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 170,
+        "line_sha256": "036c6d5be2b4064c98aae3c9da1ea4c93e3e19c595374ddef791cc937e6d0bf8",
+        "line_text": "Every original gap remains OPEN at its actual scope:"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 171,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 172,
+        "line_sha256": "30a87bb6b9c3dd37c7e196ea9ef2888faf7057c07dfe7a07e4c0fc701f1991cf",
+        "line_text": "- **G01 — Ordinary and private breadth:** this received club repertoire is substantial but does not complete every private relation, taste or ordinary variation in the full cast."
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 173,
+        "line_sha256": "734a42d78d703ad7d22dc9b77aafbf9ee261a56b93c54525bf60a2e393075fb2",
+        "line_text": "- **G02 — Yuuka council/club decision transfer:** informal Sweets parity cannot validate Seminar's budget, recipient or authority decisions."
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 174,
+        "line_sha256": "6853e8ae2ba8f9b181b84cfbcbaf11f39e1d7f54a08b66cebedb9d06e504ab5e",
+        "line_text": "- **G03 — Serika service, peer and reciprocity range:** group dessert and rescue reciprocity supply a comparison, not completion of Serika's service repertoire."
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 175,
+        "line_sha256": "2e80da47ba4a7094c905728667d7222993fee30c27095e199b88ff920ea7d1a1",
+        "line_text": "- **G04 — Hina crisis causality, accountability and ordinary contrast:** no transfer from these local emergencies to Hina's force, liability, injury or wanted life is warranted."
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 176,
+        "line_sha256": "3a67993e84206c980c60d3d77b5b73ff1bec87d4a375345143f2d05656a56a38",
+        "line_text": "- **G05 — Arius and PS68 ordinary/aftermath transfer:** lively peer play and help do not settle those groups' distinct ordinary, coercive or aftermath responsibilities."
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 177,
+        "line_sha256": "a9a69722dc3b7493727a200383a545a4e91f4dec09df43c7c7d6d8b1b834a073",
+        "line_text": "- **G06 — Cross-school ordinary repertoire:** Justice guest experience broadens a located comparison; it does not generalize hosts' fear or visitors' pleasure to all schools."
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 178,
+        "line_sha256": "a77b700c6c3b7b6d09a8dbf77bee701a9de7084e3ff19fa5d40a8d0dbdb1e049",
+        "line_text": "- **G07 — Story-world chronology:** local waiting, same-day/night, tomorrow/next-day, practice countdown and the icicle callback do not place all private, event and MAIN contexts on one calendar."
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 179,
+        "line_sha256": "df010e93abb8441d5f2f6f0624c694b6d07e4b13d15bd2561e9804b4716fd781",
+        "line_text": "- **G08 — Event naming and repeat contexts:** IDs and 836/10836/900836 or 816/10816/900816 triggers are documentary associations, not new historical visits or performances."
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 180,
+        "line_sha256": "4d43906997fe6b85f31df2f4eb23d00d493f8d8d8def714a72ee88d42aae9a24",
+        "line_text": "- **G09 — Written speaker/choice attribution:** feeding replies, host asides, actor-label seams and individual-versus-collective affirmation remain qualified; no silent repaired identity or secure consent is manufactured."
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 181,
+        "line_sha256": "2e09d4be297d5d760377bf3a9a0829e191a3e4053111db7379e6471a596158ff",
+        "line_text": "- **G10 — Performed voice:** written laughter, lyrics, teacher reports and video markers are not audio, movement, acting or measured vocal evidence."
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 182,
+        "line_sha256": "99fcfdc3833493382e05a36be00401af07a40749f659e7207d61a48f66bf227b",
+        "line_text": "- **G11 — Hoshino's Yume record and office states:** nothing here resolves that historical record or office continuity."
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 183,
+        "line_sha256": "b77c931547decb38e3ed18f195a97144a23907278a8ce20a1d0c8aa89c802930",
+        "line_text": "- **G12 — Counterpart, system and variant identity:** Natsu's communication channel is not a second person; role letters, unnamed accusers and costume associations cannot establish wider identity joins."
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 184,
+        "line_sha256": "6d9f2d03ba2bfe26c0b180a1d9fab0532541ddfb5a7e4d8f110476f786b1f6c0",
+        "line_text": "- **G13 — Office, contract, safety and technical outcomes:** queue shot allocation, clinical cause/recovery, disciplinary settlement, restitution, permanent club policy, distribution permission and prize collection remain limited to actual printed outcomes."
+      },
+      {
+        "frozen_line": 170,
+        "canonical_line": 185,
+        "line_sha256": "8df66e7250d1a55d80cbedf45fba5d6e641236db16378a02e31fd07bf95d7e1e",
+        "line_text": "- **G14 — Unclassified/mode continuity:** profiles, repeated UI passages, MomoTalk tails, reader-accessible thoughts and alternative event endings retain their source modes; unreceived continuity is not inferred."
+      },
+      {
+        "frozen_line": 171,
+        "canonical_line": 186,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 172,
+        "canonical_line": 187,
+        "line_sha256": "1d39aac47519a1efc6fe9a44d42a5d34d9b8b00326c0c57127f011f45a2f361c",
+        "line_text": "The saved claim/endpoint and source receipts identify complete paragraph joins, actual achieved and unfinished ends, all twelve serious competing readings, exact beforeimages and source tuples. Independent ROOT receiving and acceptance remain pending, and publication is separate. All nine unbound large files remain unopened, unread and unhashed. No new home, denominator, quarter, model or source completion is claimed by this candidate."
+      },
+      {
+        "frozen_line": 173,
+        "canonical_line": 188,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 174,
+        "canonical_line": 189,
+        "line_sha256": "e6a2f7c7ff04a7237e71d20ed0417a50b52f3465d6ff23cd602bfd0abb24ebb6",
+        "line_text": "The resulting account preserves a club that is wanted without being effortless. Conversation may be enough for one member while another wants a particular pastry; chosen rest may be declined by an adventurer who later needs genuine help; a guest may feel welcomed while hosts are not comfortable; friends may want Airi and still fail to know her reason for withdrawing. Those differences are not debris to discard before the real plot. They are what makes the club's care, comedy, resentment, support and unfinished future intelligible. [G:L61–105; X:L112–116; A:L168–186; P:L394,L489]"
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          1,
+          0
+        ],
+        "canonical_lines": [
+          1,
+          13
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "---",
+          "series: BLUE_ARCHIVE",
+          "artifact_type: ensemble_synthesis",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6",
+          "---",
+          ""
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          2,
+          1
+        ],
+        "canonical_lines": [
+          15,
+          16
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded ensemble responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,18 section-parent allocations,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Relationship Syntheses home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          153,
+          153
+        ],
+        "canonical_lines": [
+          168,
+          168
+        ],
+        "frozen_text": [
+          "The opening and ending comparisons can be followed through [GROUP2001/2002](bound_source_inputs/G_BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md), [GROUP1801/1802](bound_source_inputs/X_BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md), [the complete four-member private checkpoint](bound_source_inputs/P_BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md), [EVENT816](bound_source_inputs/K_BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md) and [EVENT836](bound_source_inputs/A_BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md). These C-only links resolve to exact working copies; the transport receipt identifies the precise public-relative translation for later ROOT adoption. The [architecture](bound_source_inputs/A01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md) supplies the eleven-dimensional mature-argument duty, with written/source-mode limits intact. [G:L53–105; X:L98–116; P:L385–529; A:L152–251]"
+        ],
+        "canonical_text": [
+          "The opening and ending comparisons can be followed through [GROUP2001/2002](../../02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md), [GROUP1801/1802](../../02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md), [the complete four-member private checkpoint](../../02 Sequential Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md), [EVENT816](../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md) and [EVENT836](../../02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md). These C-only links resolve to exact working copies; the transport receipt identifies the precise public-relative translation for later ROOT adoption. The [architecture](../../00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md) supplies the eleven-dimensional mature-argument duty, with written/source-mode limits intact. [G:L53–105; X:L98–116; P:L385–529; A:L152–251]"
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "full_operative_ROOTaccepted_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+      "bytes": 45851,
+      "sha256": "eb9785a2b58a978d7e6b58c4c7d2ce312464ac7e361dc265a77143a9c81c0959",
+      "git_blob_oid_of_actual_bytes": "e75eded0103680ed40957717b645c9fb1e6b35b8",
+      "lines": 174,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+      "bytes": 48305,
+      "sha256": "853baa2eca8f893aadc6d873cc4626f031c79be84fc404218411f42c1dd6cfae",
+      "git_blob_oid_of_actual_bytes": "13a90d99d9f495cb8839c6afb13826c43b82d300",
+      "lines": 189
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 14,
+        "line_sha256": "2e8ab45f8f26eae2faeb47c5a86233dbabb96ed591dd198efc2a8ad4bc9d9bbd",
+        "line_text": "# After School Sweets Club: belonging without identical wants or complete knowledge"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 17,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 3,
+        "canonical_line": 18,
+        "line_sha256": "7ebd303b7401beb26f8a8f897d446b64af3064439c186b3713c315d0742fda21",
+        "line_text": "**Required home:** `P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE` · **Kind:** ENSEMBLE · **Author status:** complete bounded literary candidate; independent ROOT receiving and canonical adoption pending."
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 19,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 20,
+        "line_sha256": "436b562c065303757a4745e35a860396478cf6778294aa736a430edeee75f639",
+        "line_text": "This argument concerns how Airi, Kazusa, Yoshimi and Natsu sustain wanted company while differing in appetite, rest, self-disclosure, expressive style and willingness to join an activity. The club is neither a single personality nor four interchangeable examples of friendship. Complete accepted GROUP2001/2002 and GROUP1801/1802 arguments supply autonomous peer occasions and recipient endings; the accepted private checkpoint supplies each member's complete ordinary repertoire at its existing analytical scope. EVENT816 and EVENT836 provide consequential contrasts in publicity, mistaken explanation and local affirmation. The temporary band's full making/skill/memory argument and the Kazusa–Reisa directed relation remain separate required packages. No source replay, reconstruction rule, new identity or completion credit follows from this synthesis. [G:L20,L153–155; X:L20,L145–147; P:L508–529; A:L243–251]"
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 21,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 7,
+        "canonical_line": 22,
+        "line_sha256": "56be11ed5db6d2ef9aee35a30ab6288d3c888fa8e1d3e863049d03f45d92ac96",
+        "line_text": "Source routes below identify exact accepted analytical owners, not newly read primary dialogue. `P` is the four-member private checkpoint; `G` is GROUP2001/2002; `X` is GROUP1801/1802; `K` is EVENT816; `A` is EVENT836. Numeric line references point into those owners. Source and saved-output receipts bind the current published source snapshot `732b3f2e635d2b8e8855f4e6709354031936ebc6`, analytical main comparand and architecture1.12 separately. Their historical pending/proposal wording remains history where a later explicit acceptance governs. All fourteen original gap questions remain OPEN. [G:L153–155; X:L145–147; P:L510–522]"
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 23,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 24,
+        "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+        "line_text": "## 1. Core thesis"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 25,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 26,
+        "line_sha256": "ad1d7f379bcc7f747c9e69d53b0ccee7952d18ee030062c30d347a33c01ac7ba",
+        "line_text": "The Sweets Club's belonging is strongest when understood as **a wanted place for different people, with differences that can become both resources and costs**. Airi's pleasure in simply gathering and talking is not identical to Yoshimi's desire for a scarce pastry, Kazusa's wanted quiet or Natsu's wish for a romantic search. These people can share an afternoon without sharing every objective. Their care becomes visible in ways of offering food, trying conversation, making room, returning and helping; their limits become visible in imitation after a stop request, an unwanted excursion, mistaken explanations and unequal experience of a guest. The narrative asks who actually receives the desired benefit, rather than allowing the label “friends” to answer in advance. [G:L57–77,L83–105; X:L112–116]"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 27,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 28,
+        "line_sha256": "fc5a57bcbe0dd37749068f0ce4e0b522a9739f574339dc8824b309dd45b1418c",
+        "line_text": "Airi supplies a positive center without becoming the club's sole moral representative. She explicitly values the conversation even when a purchasing aim may fail, offers a snack, mediates and initiates the later rescue. She also laughs after saying the cream-covered face is not funny, apologizes for the lapse and can act on a recipient preference she has not yet asked. A synthesis that calls her merely passive misses her wanting and initiative; one that makes her perfectly responsive misses her local failures of reception. Her stated worry that she blurs her opinions is her own concern, not proof the others universally experience her as empty. [G:L61,L65,L75,L101–105; P:L397–403]"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 29,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 30,
+        "line_sha256": "5449a84728e252223fb960dded8e244a7957729a73dc7ed465f50266b9bf5e93",
+        "line_text": "Kazusa's objection does not place her outside the group. She wants quality sweets, quiet company, a longer shared bus interval and future contact; in another setting she explicitly wants to do nothing during a holiday. Those preferences coexist with irritation, boundaries on appearance and jokes, and unwillingness to follow every club adventure. Yoshimi likewise wants appreciation and reciprocity while imposing a joke after a refusal. Natsu can offer a thoughtful taste combination and protect a fragile site while pulling friends into costly help elsewhere. The thesis therefore distinguishes **valued presence from universal permission**, without treating refusal as a failure to belong. [P:L416–425,L449–470,L480–501; G:L83–105]"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 31,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 32,
+        "line_sha256": "920d123079b6e0a18e2598862346b398df4627cea5f04adb614669dd96f095ba",
+        "line_text": "Unequal knowledge is a second constitutive feature. Readers learn Airi's reason for wanting change before the friends do; their semla explanation is demonstrably mistaken, yet their wish to keep her rather than find a technically better replacement is real. Tsurugi can sincerely report an enjoyable welcome while the Sweets peers are anxious, partly through thoughts she is not shown hearing. These are not contradictions to be repaired into one true group mood. They show why care must be specified as an actor's intention, a recipient's experience and an achieved local outcome, with no automatic equivalence among the three. [A:L168–180; X:L86,L112–116]"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 33,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 34,
+        "line_sha256": "6a7cca62c7a19662dc5b986a42d8a30205730b60f6cdc0d4516e4c792949adcc",
+        "line_text": "## 2. Longitudinal arc"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 35,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 36,
+        "line_sha256": "f4dd1a96bcafc23dc0438de688385f2d58affc1e47f1954e2d803a2b79e4feea",
+        "line_text": "The accepted objects do not supply one complete calendar for the club. GROUP2001's waiting times, GROUP2002's afternoon-to-night transition and GROUP1802's visits followed by a next-day report each establish local sequences. EVENT836 supplies a festival deadline, practice countdowns and alternative endings; the private music accounts give local continuation and rental closure. Numeric retrieval order cannot turn these into a uniform progression from selfish children to mature friends. The joined arc here is a comparison of recurrent problems and actual local revisions, with a few explicit callbacks, not a new global chronology. [G:L57,L101,L127; X:L68; A:L237; P:L394,L492]"
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 38,
+        "line_sha256": "5a5995691c4c63ac3f360ec2ddef84f92cbfad36f93d7e862c002be19c1b5894",
+        "line_text": "GROUP2001 develops from waiting to snack-sharing, then to an interaction whose discomfort accumulates. Airi attempts to preserve company amid scarcity. Yoshimi's imitative joke continues after Kazusa twice asks her to stop; the offered cream puff is then damaged by gunfire from the local queue dispute, with no securely allocated shooter. Laughter and disguise jokes make Kazusa's appearance the next entertainment. Her request for a mirror and anger have those preceding causes. The reported charge into the queue and ensuing sounds do not print a complete battle, successful purchase, injury map or restitution. The narrated return as though nothing had happened closes the outing; it does not certify that nothing adverse happened. Natsu remains absent/mention-only, with apparent oversleep qualified as a report. [G:L57–77]"
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 39,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 40,
+        "line_sha256": "363756cdec77b68deaef28023638d32dd8ee6865e7742aca71bf626ed50272b1",
+        "line_text": "GROUP2002 follows a different local arc: incompatible holiday wishes, a refused cave excursion, theatrical persuasion, dispersal, an urgent nighttime plea and actual rescue. The fact that the maple icicles exist corrects Yoshimi's factual skepticism. It does not invalidate the peers' right to refuse that recreation or make the cave safe. The friends rescue Natsu and all eat the icicles, then suffer upset stomachs and a spoiled holiday. That mixed ending is the argument's indispensable completion: help succeeds and still exacts a cost. Natsu's later private reference to missing a limited parfait after the illness preserves a consequential callback without supplying a medical mechanism or date for every band scene. [G:L83–105; P:L492]"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 27,
+        "canonical_line": 42,
+        "line_sha256": "c09ed63cf91cf428c2f2195338e8f76b31b3703a9a8d3878699c917a0d1b6cee",
+        "line_text": "EVENT836 extends the question of belonging beyond convenient company. Airi wants a skill or something she can proudly name as hers, privately fears using friends and suspects she will be replaced, while knowing that her friends did not actually say the hostile words she imagines. The peers notice different amounts; they act on a wrong prize-based explanation yet reject replacement because a festival without her would not be enjoyable. The later founder revelation and equality preference make this more precise than discovery that she is “useful after all.” Their wanted participant was already Airi. Kazusa's apology for assuming she was fine is a local revision of reception, not proof everybody has learned to perceive every private fear. [A:L168–180]"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 44,
+        "line_sha256": "684abb3a872386044bbefdc6c51f6f4920bbd0702946e0e1e917a5641cf7ec81",
+        "line_text": "The closure preserves continuity and loss together. Airi later chooses her current festival plan, still refuses presidency and is voiced as liking her present self; practice and difficult feelings have not ceased. In the private rental-ending account, she loves familiar Sweets Club talk and food while mourning a temporary space's disappearance and wondering what comes next. A shared institution can remain wanted without containing every desired life. This ending prevents interpreting either the band as a cure for an empty ordinary club or the ordinary club as sufficient reason not to want change. The distinct temporary-band synthesis owns the full making/skill/record argument; here its contribution is what this local expansion and ending reveal about belonging. [A:L180,L184–186; P:L394]"
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 46,
+        "line_sha256": "35f8e0a33fadda743d0fea0076c5258f18244983167ec6ae7e79a88144362d41",
+        "line_text": "## 3. Public/private self"
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 48,
+        "line_sha256": "3e2801b76e904f7bd5aefe3feba50a9356ab7dd94b9de4843e68ab853f83377e",
+        "line_text": "The club's public ease cannot be equated with complete access to its members. Airi can sound optimistic and still struggle alone with textbook delay, finger errors and a failed full run. Her friends' offer to cover her becomes her own suspicion of departure; she explicitly knows it is not what they mean. The readers' knowledge of her confession does not make the peers deliberately neglectful, and the peers' ignorance does not make the fear causeless or clinically diagnosed. Her late private account gives her motive a depth that the semla explanation lacks. Belonging therefore involves the risk of being wanted for reasons one cannot confidently perceive. [A:L168–174]"
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 50,
+        "line_sha256": "c6f9b46c96b49990d301f0b414633bc2de5bf04f968148e3d6e770ad1a114e19",
+        "line_text": "Confidentiality remains a real boundary, including when disclosure has a helpful result. Airi requests secrecy about the initial confession. In detention she initially refuses to tell friends; Natsu says there is no choice, and Sensei leaves to explain despite her plea. The subsequent recognition, affirmation and self-liking are achieved positives. They do not turn the earlier refusal into freely volunteered disclosure or establish unlimited adult authority to disclose. Her later private festival-ending request protects an embarrassing conversation rather than licensing permanent isolation from peers. Privacy and peer support must be retained as distinct goods which can be put into tension. [A:L168,L176–180; P:L394]"
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 52,
+        "line_sha256": "e4d2fd12bb54f0d68643e3d9211108925a631eca5217956daa5d83820f248837",
+        "line_text": "Kazusa's private study, bus choice and appearance objection show different reasons for familiar reserve. She seeks resit help, insists on paying so guilt will not impede concentration, chooses a slower bus for quiet and snacks, and asks that a safe-arrival image reference be deleted after viewing. These local purposes defeat a uniform “she secretly wants all attention” account. Shared continuation is printed, as are direct distance and image limits. No pixels or deletion compliance were received. Her return to company is compatible with maintaining what she does not want publicly exposed. [P:L416–422]"
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 54,
+        "line_sha256": "f00c9e9e9064df999f63bf166f295ef29b35e9b9f58076e7ba845a12005896c8",
+        "line_text": "Yoshimi's apparent comic anger likewise has multiple objects. She wants to own clothing choices, distinguish autograph from band logo, have a genuine study request taken seriously, control when a gift is opened and avoid becoming a spectacle. Narrated musical success and hopes for a future open walk coexist with exhaustion, embarrassment and a request to stop teasing. Her inward wish is not a present partnership and cannot retrospectively cancel the objections. The private evidence allows her public expressiveness to remain lively while interpreting its recipient-specific purposes. [P:L449–470]"
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 56,
+        "line_sha256": "24a19f2525d8584f1fe4ff526b15852056aabc3f8ab58b33d629007373832d77",
+        "line_text": "Natsu can turn the ordinary into a lecture or mystery without the analysis treating her as a hidden omniscient voice. Her cookie interpretation remains partly understood after the gift; her ice-cream-and-espresso combination achieves an actual shared food experience, not universal reconciliation. At the old sweet site she changes her plan to publicize it because even ordinary tourism might damage what she values. That concrete withholding differs from the lost cave trip. She can want exchange, adventure and privacy at different times. Her schedule-management stress is explicitly denied in another account; the denial must survive the temptation to make every metaphor a symptom. [P:L480–492]"
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 58,
+        "line_sha256": "beade759a47500cb9d6acb82b9632a6df3c7c095d53a9e8046711db16870f94b",
+        "line_text": "## 4. School/club role"
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 60,
+        "line_sha256": "00e071ae6f522d3432e41474a592003bebd2d0e40b64c3aead7ca59596d1a81b",
+        "line_text": "The Sweets Club is an informal peer institution with real effects on time, places and interpretation. EVENT836 explicitly says there is no fixed leader or decision rule; later Kazusa identifies Airi as founder while explaining that she wanted equality. The invitation to become leader and Airi's refusal are not evidence that leadership was formally imposed anyway. Informality does not make practice assignment, access to a rented place or a group's theory about a missing friend inconsequential. The club provides a place to want one another without fully knowing one another, and sometimes organizes action before it has properly heard the person it hopes to help. [A:L158–172,L180,L186]"
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 62,
+        "line_sha256": "2591d0b343805d57c5a1f7106f66e717d779d722fb5ad026f5b9f62ca14b91c1",
+        "line_text": "This equality is neither absence of initiative nor sameness of labor. Airi recommends foundations to address playing errors, proposes food and asks for feedback. Kazusa notices she has monopolized a turn and gives Airi space. Yoshimi claims a clothing judgment of her own and describes the responsibility of deciding alone. Natsu's management and schedule duties coexist with physical effort and need for help. Each member can lead a particular practice, offer or refusal without acquiring permanent authority over every other's taste and pace. The full skill-allocation account remains in the temporary-band home; here these acts show how equality can be practically made and locally compromised. [A:L160,L195–198; P:L449,L498–504]"
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 64,
+        "line_sha256": "fa520bc618b2fc292c0e74f031ea2086b2bbdb9f895fe00ce199160b08fc038f",
+        "line_text": "Membership does not imply an exhaustive social boundary. In EVENT836020 Airi invites Reisa even when Kazusa is absent and offers rest and eating after vigilante work; Reisa accepts. Kazusa returns with an extra ice cream she actually purchased because she anticipated Reisa. This is achieved hospitality with multiple independent initiators, not merely a teacher claiming the peers are kind. Playful blood-oath language does not register formal membership or authorize future duels. The Kazusa–Reisa package separately preserves wanted company and her unwanted challenge; the ensemble asks how the room can be opened by people with different relations to the visitor. [A:L201]"
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 66,
+        "line_sha256": "7702ac3a17c84e45f12047be14f964feceb3b5b2d99c0fb9faa64683b2bcbc4f",
+        "line_text": "The Justice exchange tests that opening against a markedly different visitor. Nagisa's video makes a day away from usual duties and participation in other clubs compulsory. It is student institutional policy, not Sensei's plan or freely chosen rest for the Justice members. When Tsurugi visits, Airi, Yoshimi and Kazusa are not shown adopting one identical response. The visitor's actual reported pleasure matters; fear and uncertainty on the hosts' side matter too. Attendance and an apparently successful lesson cannot certify reciprocal comfort. The final question about whether the Sweets Club also enjoyed it is the appropriate institutional stopping point. [X:L66,L96,L112–116,L125]"
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 68,
+        "line_sha256": "3733b33b2cb7345855d9d1c962d15b9235e30ecaf5ce0974926903dd30a0928d",
+        "line_text": "The ordinary institution must also retain those outside its named members. GROUP2001's local Student A and B dispute queue-cutting with empty person joins; the damaged pastry interrupts hospitality. GROUP1802's literature and tea peers are interested, praising, frightened or questioning recipients in their own contexts, rather than a background against which the Sweets Club becomes uniquely healthy. No national school violence rate, JTF intervention in the queue, complete compensation, tea destruction or lasting exchange reform is printed. Local rules and adverse encounters are sufficient for this argument without promoting them into a complete institutional model. [G:L48–51,L57,L69,L77,L137; X:L102–116,L124]"
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 70,
+        "line_sha256": "2383968aabd16f4ef1bae373f95c32ca45391dda36dc5bc2c36b4a346caeb41c",
+        "line_text": "## 5. Ordinary life"
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 72,
+        "line_sha256": "655ff915aebe4b49bbe9afca0dfec6c7566eb37b5b11d1ba44544e0a511405df",
+        "line_text": "Dessert and company are related goods, with neither reducible to the other. Airi can enjoy talking while waiting and also have a particular dessert she strongly wants. Her cupcake selection distinguishes tried raspberry, banana's appealing color and an old chocolate-mint favorite. Kazusa identifies her own strawberry shortcake and macaron tastes and avoids some cheap mass products. Yoshimi's scarce-sweet rivalry and willingness to recruit another purchaser are not proof she lacks affection; Natsu can seek the history of expired sweets rather than edible food. The club name gives a common activity, while the sources supply different sensory and imaginative uses of it. [G:L61; P:L397,L419,L458,L486]"
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 74,
+        "line_sha256": "25d2dce2c5bc9425384ddf3aa6effccdfb66a903092eb1c496da45e070fe154a",
+        "line_text": "Waiting offers a precise example of nonidentical benefit. Yoshimi's restless dissatisfaction asks for expressive reception; Kazusa asks for relief from disturbance; Airi tries to sustain the gathering and supplies another sweet. Missing the original pastry would not erase Airi's conversational pleasure. It would also be wrong to use her contentment as a demand that Yoshimi and Kazusa experience the same waiting as equally pleasant. Food, successful acquisition, expression and company can be distributed differently across the same minutes. These ordinary stakes explain the interaction even before the cream puff is damaged. [G:L57–61]"
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 76,
+        "line_sha256": "508dae9755b2448947a436774c5b20202db5efdd6ca7d0820b7f68b7a84d71ff",
+        "line_text": "Doing nothing is a wanted life, not an empty state awaiting useful service. Kazusa names inactivity as her holiday plan; Airi has lessons and study; Yoshimi has no fixed plan and considers sweet-shop touring; Natsu wants a more elaborate search. The refusal of the cave expedition is therefore a choice among real activities and degrees of effort. Natsu's desired romance belongs in the record, but so do the others' preference for a holiday that does not contain it. The later rescue must not absorb those earlier wants into a general duty of enthusiasm. [G:L83–103]"
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 78,
+        "line_sha256": "5f198d56618c4d508f332d2e07e336d51333a213b8fdd673f5b2564b0a318f76",
+        "line_text": "Ordinary company also need not originate in a problem. Natsu's pie, milk, pleasant sun and wind, and wish for shared time explicitly reject the assumption that a visit must mean distress. She cuts off serious discussion because she wants to keep enjoying the interval, and the complete message tail values contact whether something has happened or nothing has happened. Airi independently walks after exams; her incidental encounter and narrated conversation until evening are not a manufactured crisis. Kazusa's continued bus time is chosen, while Yoshimi's study request is serious without needing an academic emergency. These ends preserve the ordinary as an intrinsic explanatory domain. [P:L406,L419,L464,L489]"
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 80,
+        "line_sha256": "b6823a6a025ba19af2b988647f1d4f631dcfba4d7c1243cb6f7737de5b0532d6",
+        "line_text": "Making and attention broaden the common room. Natsu's handmade cookies and changing taste combination make exchange possible without guaranteeing perfect interpretation. Kazusa wants imperfect ensemble memory on a tangible LP rather than a commercially polished album; a worker supplies the turntable help. Yoshimi wants personally selected clothing and a serious private musical audience, while Airi's keyboard practice and new-skill wish may unsettle the identity friends already value. This ensemble does not fully retell the making process, but it retains what each person's ordinary objects are for: offering, self-expression, memory, pleasure and a way of becoming something one also wants to be. [P:L388,L449–455,L480–483,L439; A:L168]"
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 82,
+        "line_sha256": "0e70ac308837972b55884080da6044156eda0606df85cdf26243ad4d8da6f0b1",
+        "line_text": "Costs remain ordinary too. Yoshimi becomes exhausted after agreeing to repeated encores. Natsu must rebuild the drum setup after a feared crawling thing proves to be moving dust. Airi's rain-running ends in a fall and a tail's limited no-injury reassurance; her wanted atmosphere is not fully achieved. These endings resist a hierarchy in which pleasant company means no labor or embarrassment matters, and also resist a hierarchy in which every activity must yield measurable competence to be worth recording. Wanted experience, practical help and a recipient's fatigue are simultaneously part of the account. [P:L391,L455,L498]"
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 84,
+        "line_sha256": "fcf42308e73257a761a3c94e20b290b83a1a1f8d0e22b57cb83b4cc94961361e",
+        "line_text": "## 6. Crisis behavior"
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 86,
+        "line_sha256": "10d0462489fa7370813d0c6c462b5f5c173b9dc41f29a0e6c7beb513d5c63074",
+        "line_text": "The most consequential peer intervention in GROUP2002 is not a reversal into universal agreement. Airi alerts the others, says they will go, Yoshimi agrees with resignation and the narrator states that the three friends leave to rescue Natsu. A friend stranded in darkness creates a different question from a friend proposing leisure. Their help shows available care, while their earlier refusal remains authentic. Natsu's later urgent plea is also different from the earlier sadness she drops as an unsuccessful act. Recognizing the performance locally must not train the argument to disbelieve every later tear. [G:L95,L101–105]"
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 88,
+        "line_sha256": "4c04e781596c47b21d6b151e71a1a717ae179d64356253483e30d9aed62a5fc3",
+        "line_text": "Its full outcome is mixed and collective. Natsu is rescued; the ice formations really exist; everyone eats and suffers an upset stomach; the holiday is spoiled. A successful rescue cannot be replaced by a claim of failure, but success cannot expunge the imposed cost or certify safety. There is no shown pathogen, treatment, clinical recovery or proportionate universal risk rule. The club's ability to act together is demonstrated at this local scope, with ordinary lost leisure included among the consequences. [G:L97,L105]"
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 90,
+        "line_sha256": "4488f60fa2b22cd70fe327ff6f0f27947ade94191dc0a503185afbd61d3ca9e0",
+        "line_text": "In EVENT836 the concern about a missing friend reveals unequal noticing and a faulty causal explanation. Kazusa and Natsu had perceived muted smiles or pressure without raising it; Yoshimi had not noticed. Their wish to protect Airi is supported by refusing a replacement and undertaking action, but the semla theory is refuted by the readers' received private confession and later recognition. The argument should neither call them wholly uncaring because they are wrong nor declare their diagnosis correct because their devotion is sincere. Collective action can express belonging while lacking adequate knowledge of what the person wants. [A:L168–172,L176,L250–251]"
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 92,
+        "line_sha256": "ae9455e6a09b5f0aae3fb27c779c24c8ceeea36c768772c48506e34f33350ee9",
+        "line_text": "Affection does not certify permissible means. The friends' theft/attack plan, retrospective combat reports, rapid defeat on JTF arrival and detention have their own source warrants; predicted dissolution or suspension is not a final ruling. Ichika's promised plausible account and hope of indulgence are not a printed pardon or completed restitution. Yoshimi's claim that a club unable to protect Airi is not worth preserving identifies a value she places on the club; it is not an automatic right to override other participants or resources. The very ordinary place worth protecting can motivate both useful care and adverse action. [A:L172–178,L188]"
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 94,
+        "line_sha256": "5c8a0059df1b1fdc14077e08d72870b7606772ffe592d19862333d594bd06a3d",
+        "line_text": "The quieter crisis is receiving another's insecurity without making worth conditional on repair. Airi's friends affirm they stay because she is Airi, while irritation and contrary judgments continue; Kazusa apologizes for assuming she was fine. The local ending that she likes her present self does not require effortless skill or future immunity to anxiety. Tsumugi's question about whether reassurance postpones insecurity and her contribution of more demanding music retain the problem rather than supplying a technical cure. Belonging can support an unfinished person and an unfinished practice, while the forced disclosure stays an ethical contrary case. [A:L174–180]"
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 96,
+        "line_sha256": "12d783fd632754e35ec6380172275c434dce4f6826b0d7d9dcac755b6d27886d",
+        "line_text": "GROUP2001 gives an adverse ordinary counterexample to smooth collective response. Familiarity does not stop the ignored imitation, damaged hospitality, humiliating jokes or reported armed escalation. Airi's apology has meaning because she has participated in a lapse, not because the scene establishes perfect mediation. The collective narrated return closes this represented occasion while leaving shot allocation, injuries, discipline and purchase unresolved. The account must not fill those tails from comic tone or assume a later rescue has repaired this separate encounter. [G:L65–77,L125–127]"
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 98,
+        "line_sha256": "e18ddbc33e681b1888a4059ab48f4c58ab3bfe379d7e15d2e3e196393804c50d",
+        "line_text": "## 7. Sensei relationship"
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 100,
+        "line_sha256": "ed0ffc8a1f023af5d311917f79193f41c3cc155a165f5399b7b01fefba16dffa",
+        "line_text": "Neither complete GROUP packet contains Sensei or formal choices. The friends' rescue, gathering, differences and apprehensive hosting are autonomous student acts; Nagisa's compulsory exchange is her video instruction. The teacher is not a concealed source of every well-organized or affectionate peer action. This absence is a positive scope control, not a counterfactual theorem about what would have happened with an adult present. [G:L109,L138; X:L84,L96,L125]"
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 102,
+        "line_sha256": "14b3227e4bdc05cd63ba7d8876943e0388a04dead53da912382b37549386dc33",
+        "line_text": "The private scenes do show chosen adult company, and the wishes differ. Airi wants a listening interval, a break or a walk; Kazusa seeks serious study, quiet continuation, private rehearsal and selective appreciation; Yoshimi seeks practical style advice, sincere recognition and educational help; Natsu seeks interpretive exchange, company without a problem and support for a fearful inquiry. Each value must be received on its own terms. The teacher's initial label of Natsu's schedule as stress is explicitly denied; affectionate reframing does not replace Yoshimi's stated study purpose or Kazusa's appearance limit. [P:L388–406,L416–439,L449–470,L480–501]"
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 104,
+        "line_sha256": "6e7f1f9f56aafd5351e4e0f7d471d1fca833f890287a18ec16785e5eef8c477b",
+        "line_text": "Teacher involvement may help without being ideally responsive. Practical work, a private audience and completed review are positive endpoints, while teasing after objections, extra encores, opened gifts against an audience condition and pressure to continue eating have contrary recipients. Some students also impose on the teacher: Yoshimi's repayment contest reaches explicit resistance, and her financial success does not make the feeding attempt comfortable. These are two directed sides of responsibility, rather than a choice between wholly beneficial adult care and wholly harmful adult presence. [P:L452–470,L498–501]"
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 106,
+        "line_sha256": "9b65c290351242ca9c7f70e1db755b1aa1a8ef1d900386a3dfd094cd92af3b0c",
+        "line_text": "EVENT836 presents a particularly consequential limit. Sensei arranges a studio and participates in searches, yet enters practice after Yoshimi explicitly says the refusal is not an invitation to do the reverse, returns secretly after expulsion and later discloses Airi's private motive against her plea. Her friends' useful recognition is not retroactive permission for those acts. The teacher offers not to force Airi back and gives meaningful support; those positives coexist with actual failures of receiving. The ensemble's stronger explanation is that care is distributed among members and helpers, and its adequacy is contestable at each recipient. [A:L166–180]"
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 108,
+        "line_sha256": "0f6f13381c10c8167b1fc7a3b283fe1f4132884439a6f0d4d2a2fac6b4819111",
+        "line_text": "Adult recognition cannot replace peer agency. Airi's invitation to Reisa, Kazusa's extra ice cream, the peers' rejection of replacement, recognition of a monopolized practice turn and continued food/rest wishes are actual peer contributions. Teacher reassurance that friends like participating is a represented support whose adequacy must be compared with their received words and acts. The club's ordinary ends are not just what students are allowed to enjoy after adults solve the important problem; they are what much of the help, struggle and refusal are about. [A:L168,L172,L197–201]"
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 110,
+        "line_sha256": "9a07de2976538e3341f3d32f3d74ac0eb8e52418a11d94fe56c6755435abe923",
+        "line_text": "## 8. Major peer relationships"
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 112,
+        "line_sha256": "74fba3b566011c1f07675767d4f20ecda0a45066ea38f63443c540124cefb5bb",
+        "line_text": "Airi offers a gathering place whose value she can articulate independently. In GROUP2001 her snack and conversation preference attempt to sustain an outing; in GROUP2002 she initiates help; in EVENT836020 she opens hospitality beyond Kazusa's personal tie. These acts give her positive direction toward others. Her concern about indistinct opinions, her request for privacy and her difficulty receiving an offer to be covered give the reverse direction its vulnerability. Founderhood explains a role, but it cannot make every member's participation hers to decide or every recipient's benefit uniform. [G:L61,L103; A:L174–180,L201; P:L403]"
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 114,
+        "line_sha256": "6fe96632ce6760b3bc8b4cba5fff1d74451ea45aa1051c17795e6525dcdbb8fa",
+        "line_text": "Kazusa and Yoshimi expose a familiar relation which includes actual boundary conflict. The restless complaint and imitative teasing are ordinary peer acts; the repeated stop request is equally ordinary and consequential. Airi's laughter and apology later complicate any division into one persecutor, one flawless mediator and one humorless victim. Yoshimi's individual taste, study, gift and appearance limits also resist treating her merely as the irritating member. She can impose on Kazusa and elsewhere be the person asking for sincere, limited reception. These different directions do not cancel one another. [G:L57–77; P:L449–470]"
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 116,
+        "line_sha256": "bc43f3a8dbbf0e58e8102f0686d17754a3d91e073eafb8cbdffd9ac8fdef0327",
+        "line_text": "Natsu's relation to the group includes both generosity of interpretation and imposition of pace. She wants others to encounter romance and can accept that disappointment belongs to inquiry; she also pushes a rejected adventure and mobilizes familiar theatrical sadness. Kazusa interprets her as enjoying correction, but that is not a certified motive. Yoshimi recognizes a repeated persuasion form and stops it, yet later joins rescue. The group can learn enough to distinguish these particular speech acts without attaining an infallible detector of Natsu's feelings. [G:L85–105; P:L486]"
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 118,
+        "line_sha256": "bb92a86a1389ffdf7ff2b9fbcd0f89fc4a101256343f68a80e2b5f125c5626a3",
+        "line_text": "The peers also encounter a genuine epistemic challenge when Natsu's improbable rumor is true. Yoshimi is wrong about the icicles' existence. That local correction does not require giving up skepticism about every mystery column, changing a preferred holiday or becoming responsible for making the proposed trip safe. It is possible to be wrong about a fact and still entitled to refuse participation. Conversely, actual later danger does not prove Natsu's wanted experience was intrinsically valueless. Those separate judgments allow the ensemble to retain both romantic desire and recipient responsibility. [G:L91–105]"
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 120,
+        "line_sha256": "54008c850d447afc3a26a0d1747932b8366af86e59fce87ca93c7973c9f1d1b6",
+        "line_text": "The guest encounter makes the direction of experience unusually clear. Airi proposes speaking despite fear, Yoshimi imagines being eaten, and Kazusa doubts that will happen. Tsurugi's sighs and laughter are printed; no threat or attack on the hosts occurs. Their parenthesized apprehension is not shown being heard by her, so her next-day statement of fun and welcome is not demonstrably a lie. Mashiro's reciprocal-experience question prevents the analysis from converting one person's relaxation into everyone's completed benefit. This is an honest asymmetry, not grounds to invalidate either side. [X:L86,L112–116]"
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 122,
+        "line_sha256": "b9fc29fdb5aa0b7b171f2a68bd80547a006abad5b2b6335636e3f31062470423",
+        "line_text": "The wider club visits prevent idealizing this asymmetry as unique dysfunction. Literature peers show interest in Mashiro's serious book while she finds explanation difficult and wants her committee back; tea peers praise Hasumi before her political-provenance reaction frightens them. Their questions and perceptions are independent recipient evidence. A successful contact for one purpose may fail for another, and friendly curiosity can feel demanding without becoming rejection. The Sweets Club is one ordinary social setting among several differentiated encounters, rather than the universal solution imposed contact should have produced. [X:L102–116]"
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 124,
+        "line_sha256": "9842753eb0385905ea6086b6feb81153d9e9adb0a83ef22001f8e4b8da915c82",
+        "line_text": "EVENT836's wrong diagnosis and true wish to retain Airi provide the most sustained internal comparison. A group may want the right person while offering the wrong explanation for her distress. They reject a superior replacement because she is part of the desired festival; later affirmation and apology make that wanting legible to her. Those acts do not remove the fact that she initially did not wish her confession disclosed. The relation becomes more adequately expressed, while the means by which knowledge spreads remain contested. No single member or teacher can be credited with sole authorship of the resulting belonging. [A:L168–180]"
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 126,
+        "line_sha256": "6261d97f3355e841e4956441f3e024ace0ec5dcd7a364f18f1dd518f590edf4d",
+        "line_text": "## 9. Language/voice"
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 128,
+        "line_sha256": "59ca3226e910aeccb96f6d38f3f7ea3e37effbb21aedc184ed0bb683753ce2f2",
+        "line_text": "The prose treats voice as written register and represented address. No native audio, acting, acoustic performance or body animation has been received here. Canonical dialogue, narration, character-narration, system, UI triggers and alternatives have different warrants; association with a portrait or variant is not sufficient to repair a text-bearing actor seam. GROUP2001's feeding replies and GROUP2002's questions/laughter/communication retain the exact conflicts in their accepted argument. A secure broad interaction can be read without assigning every unstable line to a lifelong individual style. [G:L51,L67,L111–125; X:L62,L70–86]"
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 130,
+        "line_sha256": "01e396f5479d8cc7b911d14b251106cb6958cc5f4f63c8027855985d1f9a8755",
+        "line_text": "Airi's explicit gathering-and-talk valuation and Kazusa's “doing nothing” claim carry ordinary purpose in the words themselves. The latter is not a blank for the analysis to fill, while the former is neither a universal sweet preference nor a requirement of equal cheerfulness. Yoshimi's imitative mode becomes consequential because it repeats after stop requests, not because a performed childish voice has been independently heard. Natsu's romance, mystery-column appeal and admitted unsuccessful sadness belong to locally distinguishable rhetorical acts. The nighttime communication then carries an urgent request with a different warrant. [G:L59–65,L83–105,L139]"
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 132,
+        "line_sha256": "19620390d2b713ceee28e3effe4868e578a97e4b12e793924621fd3800b2640e",
+        "line_text": "Taste language can open inquiry or foreclose it. Natsu asks about espresso preference and makes a combination; Kazusa considers Sensei's different sweets and Airi distinguishes the basis of her cupcake choices. These are particular acts of receiving, while Natsu's schoolgirl-sugar generalization is hers rather than nutritional authority. Yoshimi's stylistic opinion about friends' “wrong direction” is not an objective verdict that their tastes are defective. The analysis retains conflicting evaluations without appointing a reliable taste judge for the whole club. [P:L397,L419,L449,L483; G:L85]"
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 134,
+        "line_sha256": "5b88fecb45631a713c1fda89c3ca4b692b3cedd822a92fcb57b919047b657b02",
+        "line_text": "Written imperatives and refusals cannot be dissolved into a uniform comic idiom. Kazusa's stop requests, bodily-distance and deletion conditions; Yoshimi's requests for quiet, sincere attention and delayed gift-opening; Airi's confidentiality request; and Natsu's cookie-viewing condition each target a specific act or audience. Positive later company does not erase those words. Equally, an exaggerated threat fragment, gift chase, corpse metaphor or hostile stage lyric is not an actually completed injury simply because the rhetoric is vivid. Precision requires both recipient attention and restraint about unprinted action. [P:L419–439,L452–470,L480; A:L168,L176,L184–189]"
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 136,
+        "line_sha256": "dbd89a8bb3e11c62b26fcbce245d1054a070ba5f258109d1e0b7543b52986e02",
+        "line_text": "Repeated UI and costume contexts widen a written repertoire without providing independent enacted encounters. Blank costume profiles remain blank; progress/shop/mission triggers and repeated bond passages do not establish rerun chronology, new membership decisions or bodily consent. The four individual private arguments retain those particular source boundaries. This ensemble uses them as contrary checks on a single expressive stereotype, not as additional observations of every full gathering. [P:L409,L442–444,L473–475,L504–506]"
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 138,
+        "line_sha256": "daf0995c894a2d93b298fcb24850b0e0c65300187113870fa966df8428a4193c",
+        "line_text": "## 10. Competing readings"
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 140,
+        "line_sha256": "6f6b52f9a401ef429048430f76a425115cf1674cc086676c5e1b6cb41681ca66",
+        "line_text": "**“The club's meaning is that food is really only an excuse for friendship.”** Airi's explicit enjoyment of conversation and the peers' wish to keep her make this plausible in some moments. Kazusa's quality preferences, Yoshimi's scarce-food rivalry, Natsu's sweet-history inquiry and the fulfilled taste after a genuine purchase are serious counterevidence. Food and company are separate goods which can support, compete with or substitute locally for one another. Reducing one to a symbolic disguise loses why a spoiled pastry or missed parfait matters. [G:L57–61,L105; P:L397,L419,L458,L486,L492]"
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 142,
+        "line_sha256": "4a8bd65c4bdee23a8e616d06709477655efff3dfb6f20683b4093929dfc4589a",
+        "line_text": "**“Airi is the calm center because she has no strong desire.”** Her mediation and worry about blurred opinions support an appearance of accommodation. Her insistence on a particular visit, wanted rain-running, specific flavors, instrumental ambition and private fear of returning to a prior routine contradict absence of desire. The stronger interpretation preserves a person who can explain, insist, apologize, offer and withhold differently across settings. Local hesitation is not a whole-person void. [P:L388–409; A:L168–174]"
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 144,
+        "line_sha256": "5657d31ac67437eca871a1b6eadec581575da5d71f5f31d2a383ab97e61ed14c",
+        "line_text": "**“Friends are close enough that the stop requests need not be literal.”** Familiar teasing, cake, future invitations and gratitude make affection unmistakable. Repeated objections, the damaged cream puff, appearance distress, laughter/apology and tired private recipients make cancellation of their limits unsupported. Close company can include acts that exceed what one participant wants. The literary account gains precision by keeping that conflict rather than deciding that only affection or only harm is real. [G:L65–77; P:L422,L452–455,L470]"
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 146,
+        "line_sha256": "5481c6ca34dfc25ca5d64931e628dcf359ac72249ed165f19e027fc6aa1f3bf6",
+        "line_text": "**“Natsu's theatrical tears make the later emergency another manipulation.”** The earlier act really is exposed as an unsuccessful persuasion, and Yoshimi invokes its repetition. The later lost-trip plea and narrated actual rescue have a different witness and endpoint; the icicles really exist and the holiday is actually spoiled. This story supports distinction among particular acts, not the global credibility revocation of a person. Earlier exposure makes careful reception more necessary, not optional. [G:L95–105]"
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 148,
+        "line_sha256": "cadeae368cb3067255b218ecf0295a39cfde835504cf8f919c12586d467fc558",
+        "line_text": "**“The rescue proves the friends secretly wanted the trip.”** Their collective departure and participation in eating establish help and a shared afterstate. Their earlier diverse plans and refusals, the urgency of being lost and the spoiled holiday defeat retroactive agreement. One can decline recreation and choose inconvenient aid. The group's local capacity for care therefore does not require a myth that it shares every original want. [G:L83–105]"
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 150,
+        "line_sha256": "0b4850aa8fa27c8ce8f4b44d0d579f2de05d956e24165367d21cb7a87eb9d61f",
+        "line_text": "**“The true icicle rumor vindicates Natsu in every respect.”** Yoshimi's factual denial is corrected, and Natsu's desired discovery is not imaginary. The unshown safety conditions, loss in darkness and adverse shared ending prevent extending that correction to safe planning, reliable sources or owed companionship. The sharper account separates existence, worth, consent and consequences instead of making one factual success resolve every issue. [G:L91–105]"
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 152,
+        "line_sha256": "584f916498c599e6cb2a19174e4ebb1ca0544016dfa98d598435df654c42ec8d",
+        "line_text": "**“Tsurugi's reported happiness settles the exchange as successful.”** Her fun and relaxed appearance are substantial positive evidence, including for colleagues worried about her. The hosts' fear and differentiated attempts, and Mashiro's final question, leave reciprocity unresolved. Their unshared thoughts do not prove she knowingly lied. There can be a real one-sided benefit without either declaring total failure or completing Nagisa's intended social lesson. [X:L86,L96,L112–116]"
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 154,
+        "line_sha256": "96c913a9d388dc1dfc0217cabca0fc13962da4b1f6bfb6b4f68c9218ac4f0ea6",
+        "line_text": "**“The members' wrong explanation proves they do not really want Airi.”** They demonstrably mistake her motive and initially perceive different amounts of pressure. Their rejection of a technically better substitute, insistence on her presence, practical care and Kazusa's apology are contrary evidence to indifference. Wanted belonging and incomplete knowledge can coexist. Their care does not make the diagnosis correct, and the later beneficial recognition does not repair the forced-disclosure boundary. [A:L168–180,L250–251]"
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 155,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 156,
+        "line_sha256": "580d7cf745ebb2a79282986cb37f746424a0523cf1daad818c3791f5a00d2ab7",
+        "line_text": "**“Band success cures the ordinary club's deficits.”** Airi likes her present self locally and receives affirmation; the members gain actual practice and shared experience. Continued fatigue, recipient objections, refused leadership, rental loss and her explicit love of the ordinary club prevent a total cure or growth ladder. The band's different making question is required precisely because wanting that activity is not the same as replacing food, rest and talk with measurable achievement. [A:L180–210; P:L394,L455,L498–501]"
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 157,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 158,
+        "line_sha256": "91c97595c313120ea23004230f7247ba549ee2af9e0944d007f37912599afe97",
+        "line_text": "**“The institution should solve disagreement by making Airi the leader.”** Founderhood and active coordination provide a serious basis for others' proposal. Her equality preference and later continued refusal of presidency are actual counterevidence to the proposed solution being adopted. Informal distribution has limits, but a character's declined title cannot be counted as an enacted reform. Belonging has to retain the participant's wanted role rather than award an office as proof she has matured. [A:L158,L180,L186]"
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 159,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 160,
+        "line_sha256": "4cdc1a504770dfb569f4f2ac39b27167bb27daf5d1f50b7731deede9896c508f",
+        "line_text": "**“An attentive adult is the source of every adequate peer outcome.”** Studio help, searches, consultation and audiences are real. The complete GROUP arguments contain no Sensei; Airi's initiating rescue, peers' refusals and independent guest perspectives stand without him. In the event, adult intrusion and disclosure are themselves adverse acts. Distributed student initiative, adult support and imperfect reception explain the record more fully than a master-plan or rescue monopoly. [G:L101–109,L138; X:L84,L125; A:L166–201]"
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 161,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 162,
+        "line_sha256": "130f06e27b7ba2e1e97902816380dba450f7f6e155ee746669e558e2356ff01b",
+        "line_text": "**“Quiet taste and leisure are too slight to support an independent package.”** The queue, planned inactivity, simple midday company, interpretation of gifts and unfinished rental ending determine what members ask of each other and what the club is for. Removing dramatic danger would leave those goods and differences analytically consequential. This existing ensemble home is justified by its distinct question of shared place with unequal wants and knowledge, rather than by source counts, popularity, crisis severity or reconstruction grade. [G:L149–155; X:L134–147; P:L489,L529]"
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 163,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 164,
+        "line_sha256": "9058ef48105a0781217f9cfbd38422476e82a85b0d9d093d7ecd795882eb223d",
+        "line_text": "## 11. Evidence route"
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 165,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 166,
+        "line_sha256": "b109102f3c798267630584164cf0a5a5d4cbc05cbaa97849f793338c30271e99",
+        "line_text": "The finite source route is complete accepted analytical meaning, not a fresh claim to original-source custody. The current six literary/method owners and two small immutable scope controls are exact-bound separately; current bytes equal the declared published snapshot. The complete GROUP arguments were personally received again here through their actual endings, including current acceptance paragraphs. Complete relevant paired private meanings and written baselines are either personally recovered at the stated current line ranges or reused from the same author's adequate whole normal-meaning custody. Neither a copied file nor a ROOT-prefixed folder supplies reading credit. [G:L153–155; X:L145–147; P:L510–522]"
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 167,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 169,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 170,
+        "line_sha256": "036c6d5be2b4064c98aae3c9da1ea4c93e3e19c595374ddef791cc937e6d0bf8",
+        "line_text": "Every original gap remains OPEN at its actual scope:"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 171,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 172,
+        "line_sha256": "30a87bb6b9c3dd37c7e196ea9ef2888faf7057c07dfe7a07e4c0fc701f1991cf",
+        "line_text": "- **G01 — Ordinary and private breadth:** this received club repertoire is substantial but does not complete every private relation, taste or ordinary variation in the full cast."
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 173,
+        "line_sha256": "734a42d78d703ad7d22dc9b77aafbf9ee261a56b93c54525bf60a2e393075fb2",
+        "line_text": "- **G02 — Yuuka council/club decision transfer:** informal Sweets parity cannot validate Seminar's budget, recipient or authority decisions."
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 174,
+        "line_sha256": "6853e8ae2ba8f9b181b84cfbcbaf11f39e1d7f54a08b66cebedb9d06e504ab5e",
+        "line_text": "- **G03 — Serika service, peer and reciprocity range:** group dessert and rescue reciprocity supply a comparison, not completion of Serika's service repertoire."
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 175,
+        "line_sha256": "2e80da47ba4a7094c905728667d7222993fee30c27095e199b88ff920ea7d1a1",
+        "line_text": "- **G04 — Hina crisis causality, accountability and ordinary contrast:** no transfer from these local emergencies to Hina's force, liability, injury or wanted life is warranted."
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 176,
+        "line_sha256": "3a67993e84206c980c60d3d77b5b73ff1bec87d4a375345143f2d05656a56a38",
+        "line_text": "- **G05 — Arius and PS68 ordinary/aftermath transfer:** lively peer play and help do not settle those groups' distinct ordinary, coercive or aftermath responsibilities."
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 177,
+        "line_sha256": "a9a69722dc3b7493727a200383a545a4e91f4dec09df43c7c7d6d8b1b834a073",
+        "line_text": "- **G06 — Cross-school ordinary repertoire:** Justice guest experience broadens a located comparison; it does not generalize hosts' fear or visitors' pleasure to all schools."
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 178,
+        "line_sha256": "a77b700c6c3b7b6d09a8dbf77bee701a9de7084e3ff19fa5d40a8d0dbdb1e049",
+        "line_text": "- **G07 — Story-world chronology:** local waiting, same-day/night, tomorrow/next-day, practice countdown and the icicle callback do not place all private, event and MAIN contexts on one calendar."
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 179,
+        "line_sha256": "df010e93abb8441d5f2f6f0624c694b6d07e4b13d15bd2561e9804b4716fd781",
+        "line_text": "- **G08 — Event naming and repeat contexts:** IDs and 836/10836/900836 or 816/10816/900816 triggers are documentary associations, not new historical visits or performances."
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 180,
+        "line_sha256": "4d43906997fe6b85f31df2f4eb23d00d493f8d8d8def714a72ee88d42aae9a24",
+        "line_text": "- **G09 — Written speaker/choice attribution:** feeding replies, host asides, actor-label seams and individual-versus-collective affirmation remain qualified; no silent repaired identity or secure consent is manufactured."
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 181,
+        "line_sha256": "2e09d4be297d5d760377bf3a9a0829e191a3e4053111db7379e6471a596158ff",
+        "line_text": "- **G10 — Performed voice:** written laughter, lyrics, teacher reports and video markers are not audio, movement, acting or measured vocal evidence."
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 182,
+        "line_sha256": "99fcfdc3833493382e05a36be00401af07a40749f659e7207d61a48f66bf227b",
+        "line_text": "- **G11 — Hoshino's Yume record and office states:** nothing here resolves that historical record or office continuity."
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 183,
+        "line_sha256": "b77c931547decb38e3ed18f195a97144a23907278a8ce20a1d0c8aa89c802930",
+        "line_text": "- **G12 — Counterpart, system and variant identity:** Natsu's communication channel is not a second person; role letters, unnamed accusers and costume associations cannot establish wider identity joins."
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 184,
+        "line_sha256": "6d9f2d03ba2bfe26c0b180a1d9fab0532541ddfb5a7e4d8f110476f786b1f6c0",
+        "line_text": "- **G13 — Office, contract, safety and technical outcomes:** queue shot allocation, clinical cause/recovery, disciplinary settlement, restitution, permanent club policy, distribution permission and prize collection remain limited to actual printed outcomes."
+      },
+      {
+        "frozen_line": 170,
+        "canonical_line": 185,
+        "line_sha256": "8df66e7250d1a55d80cbedf45fba5d6e641236db16378a02e31fd07bf95d7e1e",
+        "line_text": "- **G14 — Unclassified/mode continuity:** profiles, repeated UI passages, MomoTalk tails, reader-accessible thoughts and alternative event endings retain their source modes; unreceived continuity is not inferred."
+      },
+      {
+        "frozen_line": 171,
+        "canonical_line": 186,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 172,
+        "canonical_line": 187,
+        "line_sha256": "1d39aac47519a1efc6fe9a44d42a5d34d9b8b00326c0c57127f011f45a2f361c",
+        "line_text": "The saved claim/endpoint and source receipts identify complete paragraph joins, actual achieved and unfinished ends, all twelve serious competing readings, exact beforeimages and source tuples. Independent ROOT receiving and acceptance remain pending, and publication is separate. All nine unbound large files remain unopened, unread and unhashed. No new home, denominator, quarter, model or source completion is claimed by this candidate."
+      },
+      {
+        "frozen_line": 173,
+        "canonical_line": 188,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 174,
+        "canonical_line": 189,
+        "line_sha256": "e6a2f7c7ff04a7237e71d20ed0417a50b52f3465d6ff23cd602bfd0abb24ebb6",
+        "line_text": "The resulting account preserves a club that is wanted without being effortless. Conversation may be enough for one member while another wants a particular pastry; chosen rest may be declined by an adventurer who later needs genuine help; a guest may feel welcomed while hosts are not comfortable; friends may want Airi and still fail to know her reason for withdrawing. Those differences are not debris to discard before the real plot. They are what makes the club's care, comedy, resentment, support and unfinished future intelligible. [G:L61–105; X:L112–116; A:L168–186; P:L394,L489]"
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          1,
+          0
+        ],
+        "canonical_lines": [
+          1,
+          13
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "---",
+          "series: BLUE_ARCHIVE",
+          "artifact_type: ensemble_synthesis",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6",
+          "---",
+          ""
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          2,
+          1
+        ],
+        "canonical_lines": [
+          15,
+          16
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded ensemble responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,18 section-parent allocations,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Relationship Syntheses home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          153,
+          153
+        ],
+        "canonical_lines": [
+          168,
+          168
+        ],
+        "frozen_text": [
+          "The opening and ending comparisons can be followed through [GROUP2001/2002](bound_source_inputs/G_BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md), [GROUP1801/1802](bound_source_inputs/X_BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md), [the complete four-member private checkpoint](bound_source_inputs/P_BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md), [EVENT816](bound_source_inputs/K_BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md) and [EVENT836](bound_source_inputs/A_BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md). These C-only links resolve to exact working copies; the transport receipt identifies the precise public-relative translation for later ROOT adoption. The [architecture](bound_source_inputs/A01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md) supplies the eleven-dimensional mature-argument duty, with written/source-mode limits intact. [G:L53–105; X:L98–116; P:L385–529; A:L152–251]"
+        ],
+        "canonical_text": [
+          "The opening and ending comparisons can be followed through [GROUP2001/2002](../../02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md), [GROUP1801/1802](../../02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md), [the complete four-member private checkpoint](../../02 Sequential Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md), [EVENT816](../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md) and [EVENT836](../../02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md). These C-only links resolve to exact working copies; the transport receipt identifies the precise public-relative translation for later ROOT adoption. The [architecture](../../00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md) supplies the eleven-dimensional mature-argument duty, with written/source-mode limits intact. [G:L53–105; X:L98–116; P:L385–529; A:L152–251]"
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "original_transports": [
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+      "bytes": 45851,
+      "sha256": "eb9785a2b58a978d7e6b58c4c7d2ce312464ac7e361dc265a77143a9c81c0959",
+      "git_blob_oid_of_actual_bytes": "e75eded0103680ed40957717b645c9fb1e6b35b8",
+      "lines": 174,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md"
+    },
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+      "bytes": 45851,
+      "sha256": "eb9785a2b58a978d7e6b58c4c7d2ce312464ac7e361dc265a77143a9c81c0959",
+      "git_blob_oid_of_actual_bytes": "e75eded0103680ed40957717b645c9fb1e6b35b8",
+      "lines": 174,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md"
+    },
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 27724,
+      "sha256": "63022435553ad2e310565c13742c4d962f27278ecd3e4a4b16484b774e7a312c",
+      "git_blob_oid_of_actual_bytes": "679f1a0ff9058b3138b9bb80a7f1166b91801ddf",
+      "lines": 432,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+    },
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+      "bytes": 21825,
+      "sha256": "d4ac2a10eb49fdec7ea40f4a7f54d0e1898f25e7202b06aa4e9a93b6a1e64d82",
+      "git_blob_oid_of_actual_bytes": "d85ff6dc5db6134c33614b2ed62353ca8dd509b7",
+      "lines": 433,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+    },
+    {
+      "path": "ROOT_SWEETS_BELONGING_ENSEMBLE_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 6143,
+      "sha256": "e79841c27c6a06b891cfa9af9b6132568c839a995b6ccb899fcbefe1db1cb2d7",
+      "git_blob_oid_of_actual_bytes": "6712d5497d3eb1705c43ac2024fc465e48701caf",
+      "lines": 77,
+      "immutable_transport_path": "immutable_originals/ROOT_SWEETS_BELONGING_ENSEMBLE_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 102615,
+      "sha256": "fe30400607774d7ec84455bbb7b5e25eee8b320ec501a495f5bf4d8eba212400",
+      "git_blob_oid_of_actual_bytes": "039d893cac726853de7e9717222f9ab1512324c7",
+      "lines": 2875,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+    },
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 1598,
+      "sha256": "28946ed34be8d33f2d90610e25ef6c48e80d1472bb8e4dd9db3c2c323bd981e9",
+      "git_blob_oid_of_actual_bytes": "106aa26fb80b1baa2ded7a26418af94620098a74",
+      "lines": 44,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_SAVED_OUTPUT_RECEIPT_V1.json"
+    },
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_CURRENT_INPUT_BINDINGS_WORKING.json",
+      "bytes": 9450,
+      "sha256": "3dc78ea97825177188e5dd2c08f2afcce787782e15a31161949fa3645afaee0a",
+      "git_blob_oid_of_actual_bytes": "bfaf1572bfcb03d987ca54729c333d1454e77550",
+      "lines": 151,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_CURRENT_INPUT_BINDINGS_WORKING.json"
+    }
+  ],
+  "mandatory_canonical_qualifications": [],
+  "canonical_link_only_translations": [
+    {
+      "candidate_relative_href": "bound_source_inputs/A01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "repository_relative_target": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "canonical_relative_href": "../../00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "byte_sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+      "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/P_BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "canonical_relative_href": "../../02 Sequential Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_sha256": "10fd498526cc67fe49e5567fdcb856392a0fe0fadd212557647efb2db8e73faa",
+      "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/K_BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+      "canonical_relative_href": "../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_sha256": "da051efeb6be56edf1a979c9941b56a117254ed06f1a608c142f702b53888e6d",
+      "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/A_BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+      "canonical_relative_href": "../../02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_sha256": "221e1398809a988693956548309259d18da8014cdbf69bcd8aac86b49cf30550",
+      "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/G_BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+      "canonical_relative_href": "../../02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+      "byte_sha256": "dc298253ed825d98abd47a3c5fd8515e54a3b3fd66d2fed47c5bd0815909cff6",
+      "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/X_BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+      "canonical_relative_href": "../../02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+      "byte_sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93",
+      "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+    }
+  ],
+  "new_primary_performance_independent_model_scope_or_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

@@ -1,0 +1,2158 @@
+{
+  "schema": "BLUE_ARCHIVE_MEL_FULL_REVERSIBLE_SAVED_TRANSPORT_V1",
+  "status": "C_ONLY_PROPOSED_CANONICAL_DERIVATIVE_ROOT_REVIEW_INSTALLATION_PENDING",
+  "full_frozen_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MEL_CHARACTER_MONOGRAPH.md",
+      "bytes": 42624,
+      "sha256": "6fe9cd61922f31d3ae2bb595dba6dd403ca57e98169b8ea67aa7a5b8618e5d5b",
+      "git_blob_oid_of_actual_bytes": "3562c75e5869842b4e328a1b8500acefcbb063ea",
+      "lines": 161,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MEL_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MEL_CHARACTER_MONOGRAPH.md",
+      "bytes": 44895,
+      "sha256": "9d0d699395f05cb6a63640270cba55f48a061db22144f8430e952664c6a29aba",
+      "git_blob_oid_of_actual_bytes": "8086337c0ea54833b8fdcf75955c7679c56f33c7",
+      "lines": 171
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "abf6eb03819d8cdc66762528a3246eef0970ad05834cf7bf074daca1da758d4b",
+        "line_text": "classification: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "b040a034a0c39c7fd51d765a3b3e7ce23a6cc374f8ddb31b596d48d317da6543",
+        "line_text": "architecture: \"1.12, section7.1 eleven required dimensions\""
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9",
+        "line_text": "method: \"1.10\""
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "2fbce7093a5fac24290ac2bb637da5abdfd6bbfa32e5d934aad31d3598748819",
+        "line_text": "required_home: P3-CHAR-MEL-CH0124"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "495f352ef1b61d7d500c6a53ebdbd8aa021b503823c9933bb5cf7c3f2431a5d4",
+        "line_text": "candidate_responsibility: P3-F040"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "92ce825089649cb3d26992e5e64a6d7f8634eb7cfe6c9355ca5ae1f38e5a2911",
+        "line_text": "literal_identity: BA_PERSON_CH0124"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "ec3e4953ba9507c2f64a986e2c527d215baa984e4508426e7b6895ab8f704ff1",
+        "line_text": "family: CH0124"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "fb264b3871a6fb849da6d0f644c2d41b71545acac8c377b5a2fc3f997e70d0c3",
+        "line_text": "display_subject: Mel / 姫木メル"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "3062c5f23c6fb3285d91b7e7a578b048216edc4c6595e822ce24e732780d76f5",
+        "line_text": "variant: 10075"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "09fec7ba58015508d05b3c9dd8f786a8b4a88ce518cd2b63d03055f3daf6d734",
+        "line_text": "event_costume: 1900917001"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "6093827b8e1029194c47d430e31ea925bf9bd07fce9cd9a12541232f48f31639",
+        "line_text": "dated_navigation_witness: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "46b4a1084a10780516af311ffaf9db987e5ad1063fb62ad06bd1db031562234b",
+        "line_text": "game: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "7f883d04131c2ceb93c813788d8346734ce228b11188765b294eb7669400a5a9",
+        "line_text": "parser: \"0.2.0\""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "f0ca7c264652b70e9b07670d7ef7b8722862379e5040c94cbdd87ca3ffb0d8ae",
+        "line_text": "source_boundary: \"Ten selected private responsibilities: four BOND with four whole linked MomoTalk arguments and two written objects, received through the adequate complete accepted RedWinter7 analytical account; complete relevant accepted public arguments, including EVENT829, EVENT852 and gift834107; zero fresh primary/native/raw/QA/AV\""
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "70cbfb274f76de9261e3db6189cbacb16a9890e44b0509e2b0026ea686d22e03",
+        "line_text": "authority_quartet: \"Current Cycle008 admission; own adequate analytical argument receiving; undeclared historical exposure/order/independence UNKNOWN; performed voice unreceived\""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 24,
+        "line_sha256": "1c8e5e32ae1d62fb5761e8c9da845a95a8072410874a22a22d82c7602bed0134",
+        "line_text": "retrospective: true"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 25,
+        "line_sha256": "9c96af10047187817acdbfcc409256b832cc1e1bec7ab02061ed095056b5e2bb",
+        "line_text": "all_original_fourteen_gaps: OPEN"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 26,
+        "line_sha256": "a650fa20652cdc365b4f6513e78c5849bf75aebef8bf1d57b62029393a6e0727",
+        "line_text": "reconstruction_model_credit: NONE"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 36,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 38,
+        "line_sha256": "327d4b3fe178e85ddfcd5e29b444b0951fa09cf9f61a805dfa796dec009ca493",
+        "line_text": "# Mel: making a work she wants, meeting readers and respecting people beyond the page"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "d594a5696524645c7638736f5489d1c805e88dda3c21b6b958dd1e07b861d610",
+        "line_text": "## 1. Core thesis: creative ownership has intrinsic value and reciprocal limits"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "853c4d134922d6c350bee1c0bb096a3bd9550f5a1ec5846d5529d9e788d20748",
+        "line_text": "Mel's central struggle is to make something she can own as a choice while accepting that other people have tastes, bodies, belongings and labor of their own. The library, a replacement pen, imagined scenes, rare merchandise, a collaboration café, an unfinished manuscript and a portrait gift are not minor evidence awaiting a political crisis. They establish what she likes doing and wants to do. Her creative interest can justify an outing or a gift without proving a successful market, institution reform or a romance. The substantive question is how that interest enters a relationship: as an invitation, a contribution, an argument, a demand or an appropriation. Each form occurs, and no flattering character essence removes the differences (`BA:bond:10075:002/003/005/006`; `BA:event:829:001–015`; `BA:event:834:107`)."
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "aa64dd9469d0decd1822c5e04ce09b08df1b8f9ce44a19aea913274b2218cb0c",
+        "line_text": "Her defense of artistic independence is strongest when she declines imposed content and recognizes creation as her own wish. EVENT829's Secretariat wants Cherino inserted into the book, Minori wants revolutionary struggle, and Yakumo wants a manuscript for another project. Mel rejects these uses and proposes that would-be commissioners make their own work or pay proper outsourcing compensation. Yet the same author pressures Sensei into a portrait or manuscript assistance and interrupts Momiji's wanted rest. Protecting her authorship does not certify that she protects every recipient's choice. The reading therefore needs two directions: institutions can exploit Mel, and Mel can impose on the people helping her. Their coexistence gives her claims to autonomy substance rather than rendering them hypocritical and worthless (`BA:event:829:010–015`; `BA:bond:10075:002:u24–33/006:u58–61`)."
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "3f049fae8a189de2de0e67d431477c1dd2a782e30911f9a6642f3c1956a06249",
+        "line_text": "The strongest positive development is reciprocal correction within specific work and relationships. She actually reads Luna, argues about its construction, is moved by fans making their own endings, chooses to create, apologizes to Momiji before the work is finished, completes and delivers a manuscript, and receives Takane's differentiated criticism. The ending restores company and collaboration while Momiji insists that the work's costs remain hers to judge. A finished gift was not necessary for forgiveness; forgiveness did not cancel unfinished printing, outstanding demands or unequal burden. EVENT852 adds actual readers, sales and settlement while preserving coercive bargaining and an unfinished commissioned work. These affirmative ends are substantial without making Mel permanently patient, commercially secure or free of obligation (`BA:event:829:005–009/013–015`; `BA:event:852:001–006/010`)."
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "d469e15761cc82d0c82a0f7bc08b5f2c6175f8a4454e01399f16c4d18db89647",
+        "line_text": "## 2. Longitudinal development: specific revisions rather than a success ladder"
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "bb9032ad42087be7981e79f7fe23ef13677d0ee9228c0842e5db674d2c138973",
+        "line_text": "The private sequence first differentiates imaginative abundance from a defective tool. In E002, the adult assumes a familiar slump and worries about injury, but Mel corrects that explanation: her pen is broken. Actually receiving the replacement and surplus samples delights her. Material conditions can obstruct making without defining an author as uninspired or ill. Her report that heavy equipment is easier to obtain than soft paper, comfortable pens, soap or rich pudding locates ordinary scarcity in her experience; it is not an audited school inventory. She also insists on reciprocation instead of accepting the adult's claim that helping her is enough. That intention leads to an unwanted portrait, so a positive disposition becomes a contested action rather than a completed beneficent exchange (`BA:bond:10075:002:u1–33`; whole `BA:momotalk:10075:thread:100750010`, preface010–160)."
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "93371797148df347ce52b083b789012c889cb14a17615d676843f246f19e7662",
+        "line_text": "E003 and E005 establish an explicit local connection between the adult-led outing and Mel's return tour. The first outing supplies actual amusement, observed students and drinks alongside invented romantic possibilities. The next visit gives her chosen figurines, rare editions, merchandise and café interests. She wants her own original work to become popular enough for a collaboration café, but that desired future is not achieved in this pool. Her changing feeling about company includes a real request to go home alone. The adult watches her leave. The entire linked thread continues beyond its launch to a report of revival and insistence that the adult bears some responsibility. Her earlier taking ownership of the problem and later assigning some responsibility are both printed; neither must be replaced by a tidy final blame settlement (`BA:bond:10075:003`, five scenes; `005:s1u2/s4u7–45`; whole `BA:momotalk:10075:thread:100750160`, through100750360)."
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "b46dff7957bac6cd6fadaf9a8edcc407939361f26497f0c7a8eca9f79625344c",
+        "line_text": "E006 makes the choice to return to work especially clear. Mel rejects reduction to an attention-seeking character, partly acknowledges wanting company, and frames the invitation as conditional on available time. Sensei visits after other business. Her account of failure, depletion and starting again belongs to the difficult practice of making; the defeated-soldier and rehabilitation expressions are not diagnoses. She reports becoming interested in worlds she previously overlooked and calls the teacher a trigger. That is consequential self-understanding, but it supplies no dated MAIN transformation or general law of adult inspiration. The actual end is help with the manuscript during the remaining time after pressure and objections, not a published book or permanent assistant (`BA:bond:10075:006:s2u8–24/u49–61`; whole `BA:momotalk:10075:thread:100750270`,370–490)."
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "773f01e82a9a9d59dc89befc89fad38ea2c7a6d61fa62f8cfb16e7992d3874b3",
+        "line_text": "EVENT829 then prints more extensive local revisions. Her initial wish to obtain a supposedly scarce final volume becomes knowledge that the original ending was never published, followed by appreciation of fan making and a chosen four-day project. She adjusts the unrealistic intention to read every purchased reference. Reconciliation occurs before completion, and after that she still wants to create and give. D-0 provides completed manuscript work, episode013 delivery and acceptance, and015 Takane's actual reading. Those are distinct achievements; printing, sale totals and widespread distribution remain unprinted. EVENT852 is a separate bounded publishing context, not automatically the later commercial realization of this Luna project. Its three-copy purchase and transmitted settlement are actual outcomes, while its eventual commission is only accepted and begun (`BA:event:829:002/005–009/013/015`; `BA:event:852:002:s1u73–92/004:s1u34–60/006:u85–117`)."
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "4ddf0c6073181ae2a7a7040736755f265026de332eddb3862fabb4ceff2d0bf2",
+        "line_text": "## 3. Public and private presentation: an author interprets without owning other lives"
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "c62dbf5c6017d35ae07da2e439752d1a05009defe0875545b94f074ec201d860",
+        "line_text": "Mel readily turns the world into proposed stories. E003's heroine makeup, lunch and intimate reactions are fiction; the two students later observed at the mall are actual people. Her shifting plots about their private intentions remain inventions. The imagined Ferris-wheel situation differs from her real pleasure on a roller coaster, just as a dropped straw and a replacement request differ from a proposed shared-straw stratagem. Treating every possibility as an actual intimacy would erase the activity that characterizes her: she tries several narratives against a world that does not certify them. Even her “full” reaction exceeds literal food and cannot prove a large meal. The scene ends with surprise at the adult's date framing, her scouting explanation, incomplete thanks, pain and departure; the cause of that pain and safe arrival are not supplied (`BA:bond:10075:003:s1u4–18/s3u4–14/s4u7–17/s5u7–28`)."
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "851f1b72ed8e49f467d6cb158b8effaef0953692fdef97c4de74170347e131fb",
+        "line_text": "GROUP2801 offers a public equivalent of this distinction. Its warm cocoa and apparent Shigure confession occur in Mel's fiction. Shigure's enjoyment of that story is actual, but it is not evidence that the depicted romance happened. Nodoka's actual needs, rejection of the representation and refusal of its proposed petition purpose interrupt Mel's use of a pleasing story. The contrast does not establish that fiction is worthless: one reader enjoys it and another rejects its fit to an immediate task. It establishes that an author's projection and a recipient's material request are not interchangeable. The later actual burning of Minori's targeted petition also belongs to an institutional delivery failure, not a proof that Mel's fictional route secretly succeeded (`BA:group:2801/2802`, complete adequate two-object argument)."
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "3356fe3dd1e6359f27dadbce4e4a345cf62ff4224d181c56b2f3aa7020cb3ba9",
+        "line_text": "Her public self-assertion is also more practical than a single shy-versus-confident contrast. In EVENT829 she makes technical criticisms, challenges an adult's apparent agreement to Yakumo's bargain, sets conditions on work she will accept, and rejects institutional revisions. In private she protects her pen name and offers a portrait, complains about not being heard, wants company and wants solitude. These are different audiences and different requests, not mutually exclusive true and false selves. The account must also preserve inconsistent methods: a library's isolation can be invoked to press an unwanted portrait, and the playful yellow-card language can make another person's remaining time feel compulsory. Her vulnerability and her pressure are both recognizable without requiring a single mask explanation (`BA:bond:10075:002/005/006`; `BA:event:829:003/004/010–015`; `BA:character_data:10075:profile_and_dialog`)."
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "e43b003d7b6546c57994c6880eb104630ef7cc2bfc92fbd17f512f604b970589",
+        "line_text": "EVENT852 makes audience reception consequential without appointing it the final authority over her work. Takane's1.5/5 criticism concerns diluted authorial taste, appeal and editing; Yakumo identifies publicity problems. These are situated evaluations and rival causal explanations, not analyst model grades or a complete account of poor sales. The first strategy sells nothing, then an actual reader likes the book and buys three copies for distinct desired uses. The reader's wish to share and invite others is independent pleasure. It supports meaningful reception, while neither the first failure nor later purchase defines Mel's artistic worth once and for all (`BA:event:852:001:u52–87/s2u6–14`; `002:u32–51/u73–113`)."
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "1128a4a20c7033b738532cbffd665d6092eecaa928a9cbd56c756688392fb200",
+        "line_text": "## 4. School, library and club: liberation is tested in concrete work"
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "5978af03c2a9db818db25c7e8bd45117d01ffc7862988201e1fb13a9e770e11b",
+        "line_text": "Mel's Knowledge Liberation Front/library setting gives reading, access and making a shared home. The two residents' first EVENT829 quarrel exposes the difference between an equal-knowledge principle and imposing personal taste: Momiji presses Luna on Mel, who identifies that pressure as a private desire dressed as collective duty. Yet Mel's later memory of Momiji calling an old book new because it is new to its reader changes her own account of value. New knowledge need not mean newly published knowledge. The institution's stated purpose is therefore contested and usable rather than either pure slogan or exhaustive description of their behavior. Actual shared reading and the later return to the comfortable library keep belonging concrete (`BA:event:829:001:u4–36/005:s1u2–16/009:s4u2–20`)."
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "b4195e3bcc6bd620a4abf4d67161489ba3a8fe529ae28ec128c899a33b5b3699",
+        "line_text": "Their club vocabulary does not erase distinctions among allies. Minori appreciates earlier literary help, but her demand that this book serve worker struggle is refused. Momiji acknowledges Works Club assistance and library visits while rejecting that demand. Nodoka's heating, bedding, insect and bear concerns are serious independent needs; Shigure's proposed stove bargain still attempts to appropriate Mel's work for Cherino and is refused. The Secretariat's conditional medal offers no substitute for chosen subject matter. Its threatened force and the subsequent reported defeat remain local conflict, without proving lasting freedom from censorship or a universal school statute. Shared “liberation” language cannot certify an alliance, and actual assistance cannot buy unrestricted editorial control (`BA:event:829:010–012`)."
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "9cbd4b0286db76924ddaa23f322efc9b81b630d5d88f9eb37114add4cec221fe",
+        "line_text": "Publishing introduces another institutional relationship rather than a seamless extension of the library. Yakumo identifies printing, binding, sales and expansion as her work and can explain why the same press sells both Cherino praise and condemnatory leaflets. Her commercial usefulness coexists with collateral, presumptive bargains and pressure. In EVENT829 a later dialogue says a contract was exchanged, but its legal validity and precise terms are uninspected. Her proposed long manuscript loan or transfer is repeatedly refused; after defeat she withdraws that manuscript claim while retaining a future demand. Mel has resisted a concrete appropriation without securing a fully rescinded obligation or institution-wide reform (`BA:event:829:004:u15–44/u63–99/014:u10–63/015:u1–16`)."
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "c90ad29c60fbd93184121d9c17a673cfef6af67d61575e751356e36479eb3217",
+        "line_text": "EVENT852 preserves a similarly mixed institutional achievement. Hunger, delayed club funds and unsuccessful funding attempts make help materially necessary; food is actually supplied. Yakumo then makes consignment the pressured alternative to payment. Mel rejects the proposed9:1 ratio favoring the publisher, and Takane challenges it; a later contract exists, but the settled ratio is unprinted. A day settlement is actually transmitted and received with gratitude, not merely promised. Yakumo's acknowledgment that a hopeless book cannot be sold by marketing alone also limits her commercial self-presentation. This is genuine beneficial mediation within unequal circumstances, not a certified fair contract, exact income, durable financial independence or free-market essence (`BA:event:852:001:u2–51/u91–113/s2u2–3`; `004:s1u34–69`)."
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "699e5da9aa205d8cbce57af31ba01d023304b6c3ac015d667815f2c3863fa420",
+        "line_text": "## 5. Ordinary life: taste, fandom, tools and company are wanted ends"
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "efe5c52037dd05e6ee8d87735d74dc093b63908db4a91c54e2679f775bb7b116",
+        "line_text": "The ordinary private scenes give Mel reasons to do things that are not reducible to improving public output. Samples and nibs are delightful; figurine form and rare editions interest her; the collaboration café offers wanted atmosphere, a meal order and a collectible placemat. Buying and carrying books in EVENT829 has a weight she calls happiness. She can admire fan artwork and emotional construction even when those works are not the missing original. A written birthday preference for delivery instead of an outing preserves convenience and personal taste, while divided New Year wishes, Christmas preferences and Halloween reference gathering remain desires in particular written contexts. Their worth does not require successful commerce or proof that every invitation was acted on (`BA:bond:10075:002/005`; `BA:event:829:005/007:s2u4–22`; `BA:character_data:10075:profile_and_dialog`, records6384–6427)."
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "fac6d78147c43bc348b4d4acf335d615d520d5656cc1700eee4c1d4c5aba0657",
+        "line_text": "Her preferred creative end is not simply “be productive.” E005 wants an original-work café; E006 returns to a manuscript for herself; EVENT829 chooses an ending moved by fans' making and a gift for Momiji after forgiveness is already possible. These activities include pleasure, difficulty and social meaning without being identical. They also answer an attention-only reading: the full invitation admits some wish for company while explicitly rejecting that reductive characterization, and the subsequent work retains a self-directed aim. Neither her declaration nor the analyst should imply that all loneliness is insincere or that needing company invalidates making (`BA:bond:10075:005:s4u7–30/006:s2u8–24`; wholeMM100750270; `BA:event:829:006:u39–81/009:s3u36–70`)."
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "47ceb8760cc5af5e8b1360fec237792b863d8f55da1868b22de6ef7d14f08146",
+        "line_text": "Gift834107 is especially important because it separates her demanding standard from the existence of an artifact. Her claim of no proper result must coexist with the inward completed-work appraisal at u22 and approach/pickup at u41–42. Repeated attempts and dissatisfaction do not mean that nothing was made. Sensei's encouragement and her reclaimed artifact at u49 reveal different evaluations and her own giving agency; an offer alone does not certify final handover. The end provides an actual lengthy discussion about where to eat the portrait gift at u63. It does not provide eating or a solved practical problem. This is an ordinary creative and relational outcome with intrinsic interest precisely at its unfinished extent (`BA:event:834:107`, complete adequate current meaning)."
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "9155fe1f023a55a11b6db0966936001615b14aac971439e1b2c3ef6709f40fa3",
+        "line_text": "Ordinary evidence also resists treating Mel's imagination as always delightful to others. In the resort comparison, a drawing/portrait interaction and hidden adult bathing context raise privacy and pretext questions; Japanese hiding and Korean disposal language cannot be merged into a single artifact history. GROUP2801's real reader enjoyment coexists with Nodoka's rejection of its use. EVENT829's admitted pancake-tempura consumption conflicts with Momiji's claim that the food was not Mel's to take. None of these costs makes café, bathing, reading or portrait-making insignificant. They show that a wanted ordinary practice can have another person's boundary at its center (`BA:event:808:004/005`, complete twelve-source adequate comparison; `BA:group:2801`; `BA:event:829:001:u67–92`)."
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "39ebe295d80697db9429c6d7f95b9f7629807ae3079b18000204aecb52081728",
+        "line_text": "## 6. Crisis, exhaustion and adverse methods: a good result cannot settle its process"
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "02f115a9da44ff48d84e82cdb38aa752de5d92596eafbb7c8d62f6755e4cd32b",
+        "line_text": "Mel's creative crisis in EVENT829 is tied to a specific four-day deadline and a chosen wish to make something she and Momiji can accept. Teacher chooses to continue after she releases the obligation. That explicit choice matters, but it does not make every later cost voluntary for every participant. The montage retains her dozing, objections to being woken, estimates of very little sleep and long continuous work, and Takane's demand that an unfinished first half be completed before sleeping. Coffee is actually made and drunk, with Mel's local claim of some wakefulness; no safe labor standard or validated stimulant mechanism follows. Her recognition of dependence on Momiji's help is a concrete revision of solitary-author fantasy (`BA:event:829:007:s1u34–63/s2u24–92`)."
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "d9a0ed1c0e7b41bbe20a61faaf20a2483147a62301f11d361883f04a36f12bea",
+        "line_text": "The next episode's actual sleep and narrated loss of consciousness are stronger endpoints than a generic report that she is tired, but they do not supply a diagnosis. Momiji independently calls because she also wants reconciliation and explicitly says nobody required this elaborate making. She can appreciate the gesture while questioning its cost. Mel overhears only part of that call. Sensei's recognition of adult limits is useful; the proposed face-to-face meeting then becomes physical removal after Mel refuses and calls it kidnapping. Successful reconciliation must be retained alongside that contrary action. A legal classification is unprovided, and a favorable outcome cannot retrospectively turn the printed refusal into agreement (`BA:event:829:008:s1u5–11/s2u13–64/009:s2u2–6`)."
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "29741c7dd54ec0ea8074de2ed21b859aa2be8a245d7a42f648afc3ec04bd25f1",
+        "line_text": "Material crisis in EVENT852 supplies another limitation on romanticizing difficulty. Mel reports roughly three days without food and lost appetite or weakness; Momiji's delayed funds and hurried book-based funding attempt contribute context. Food actually arrives, then Mel has stomach pain and Takane offers water and an explanation. The actual supply is a benefit; the explanation is not clinical validation or a certified cure. Those conditions make the publishing bargain costly to refuse. Mel's fury and contractual rejection should not be substituted for unrestricted economic choice, just as gratitude for actual income should not erase coercion (`BA:event:852:001:s1u2–51/u91–113`)."
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "86355c2d510299bf4dfa30c5274f645063b2a5ef43eb1661c1de175503b4363b",
+        "line_text": "Final's evacuation scene gives a bounded crisis contribution rather than a comprehensive MAIN role. Mel and Momiji have comic plans; the text does not show a published book. Nearby information about the ruined old building, a closed spring and uncertain locations remains reported or unanswered at its actual extent. Their ordinary creative direction persists in a threatened setting without supplying proof of safe arrival, sufficient shelter, final publication or all other characters' whereabouts. This absence of a printed completion is a source limit, not a reason to discard the plans or invent that Mel's real character only appears in crisis (`BA:main:100:002:008`, complete adequate29-line argument)."
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "0ababd1eefa48e897e817bb1f6fdeb54c83dd52a8b8941c83225f63a1aa08b0e",
+        "line_text": "## 7. Sensei: a useful companion, contested addressee and limited helper"
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "a57cbd9667f8b424e3b77790f3a1ec590896f1b171036c5fb292b687904f138f",
+        "line_text": "Sensei contributes material assistance, attention, outings and work. The bought pen and samples are actually received, the outings contain real pleasure, and the remainder of E006 is actually spent helping a manuscript. Mel notices the adult's exhaustion at EVENT829's opening and offers to end the call; later she names her own wish and releases the obligation. These are reciprocal recognitions, not merely an adult activating an inert student. The creative direction also comes from Mel, Momiji, fans and critics. Her statement that the teacher opened interest in new worlds is important as her self-report, while a universal Sensei recovery mechanism would overwrite the multiple causes and limits actually supplied (`BA:bond:10075:002/003/005/006`; `BA:event:829:002:s1/007:s1u34–63`)."
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "443eb7d0172f6e5e70482b4a8b7f12c2a8d18eeafa172133a0314fa06093d02e",
+        "line_text": "The adult has boundaries which Mel does not uniformly respect. A portrait is explicitly declined in E002, after which she presses; the pen-or-sketch bargain stops this attempt and the adult ends by evading her gaze. E006's yellow-card play follows explicit choice009/010 objections and repeated questions before an uncertain concession and actual help. A wanted portrait or valuable manuscript therefore does not establish pressure-free agreement. Written workspace permission requests remain unanswered and cannot repair these scene-level outcomes. The analysis should preserve alternative choice replies as alternatives, not concatenate them into one uniquely executed conversation (`BA:bond:10075:002:choice008/009/010/u42`; `006:choice009/010/u58–61`; `BA:character_data:10075:profile_and_dialog`)."
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "e82596025bbf4b5fccfcd3bc5090c70737278ea4b1a57d74812f2428ccea9583",
+        "line_text": "Sensei also uses objectionable methods. The adult's E003 arm pulls and Mel's objections remain actual; a later accepted escort does not retroactively answer them. The EVENT829 forced meeting similarly survives the eventual positive reconciliation. Mel later reverses the practical direction with her own arm grab in E005's faux court. Neither legal play nor the adult's benevolent intention establishes permission. The public gift and private outing can contain embarrassment, acknowledgment and wanted company without authenticating reciprocal romance, a kiss, all bodily consent or an exclusive couple (`BA:bond:10075:003:s1u18/s2u7/s3u14/005:s1u6`; `BA:event:829:009:s2u2–6`; `BA:event:834:107`)."
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "806fcfa8a11b53c732f9643e268b519dcb175530cc17368124c6b482018d685d",
+        "line_text": "Most revealingly, Sensei's view of a cost is not Momiji's view. The adult helps, jokes about avoiding work, gives incomplete advice and reports being fine with the burden. Momiji says that this does not make it fine for her. Her actual endpoint response prevents the story from being summarized as adult approval validating every part of Mel's process. A finite favorable assessment remains useful—Mel receives attention, help and encouragement—while the independent recipient supplies evidence that the helper's account cannot adjudicate everybody else's obligation (`BA:event:829:002/008/015:u55–79`)."
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "907d127198512b447be6db179318d7dfc0473c75ea8620bf7aeb0778b3d528e5",
+        "line_text": "## 8. Peers and readers: correction, affection and disagreement remain independent"
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "a2c9d241c3aee1b6dd9fc2328c8977d7bf215a38a1938064af637a6fb856c0fa",
+        "line_text": "Momiji is the indispensable contrary and affirmative peer. She loves Luna's characters, urges Mel to read, defends it and initially moves from literary disagreement to the demand that Mel make a masterpiece before criticizing. Mel's actual completed reading and objections concern represented construction; the full fictional Luna is unprovided, so neither opinion becomes the analyst's independent verdict on that work. Their quarrel also involves food ownership, duplicate orders and a reported restriction on collection applications. Mel admits consuming the food and suggests labeling it; Momiji insists that not buying it should suffice. Their conflict is consequently not reducible to misunderstood affection or one harsh review (`BA:event:829:001:u4–92`)."
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "2fc1f84fb1cd386d9ac27f4286a608c4c8d99a162fe5664b9c754d19b1e4fbc4",
+        "line_text": "Both later revise their conduct. Momiji recognizes that an author's perspective could reasonably find those problems and that she became emotional. Mel apologizes, calls the work interesting and promises to reorder the food; Momiji apologizes for duplicate ordering and promises to prioritize new books. Those promises remain unfulfilled in the printed pool, while the awkward reconciliation is actual. Mel also corrects the idea that many fans alone validate a work: fanless stories deserve respect. Momiji then actually helps with the chosen gift despite objecting to a recipient helping make it. Their restored debate can improve work, yet the final objection to imposed four-day labor is still hers. Chosen togetherness does not require equal tastes, completed restitution or agreement with every method (`BA:event:829:008:s2u13–19/009:s3u5–70/015:u55–79`)."
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "314e69573311fe6f8b49c07a7c682df2c51f4d3ab2487cf7093dccba9fdc5510",
+        "line_text": "Takane is a useful critic with limits of her own. Her account of the unpublished original final volume corrects Mel's online scarcity assumption, and real fans' making helps turn acquisition into creation. She also admits deliberately testing Mel's willingness to work for another person, maintains embarrassed fandom, gatekeeps and intensifies the deadline. Her response to the unfinished first half and eventual qualified praise recognize actual work without declaring effort universally superior. EVENT852's specific criticism and challenges to publisher advantage continue this independent role; Takane's evaluations are not equivalent to either affectionate reassurance or perfect objective judgment. Mel can learn from a critic without the critic's adverse conduct disappearing (`BA:event:829:003/006/007/015`; `BA:event:852:001/006`)."
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "92f5b4f0e8d73a1b4475945af59183e17625075791ea297c82004380030c404e",
+        "line_text": "Readers and Yakumo add other forms of independence. EVENT852's first reader likes and purchases the book; later readers shelter, circulate and want continuation for their own reasons. Their pleasure is neither evidence of actual intimate acts in the depicted fiction nor completion of every sequel. Yakumo's printing and publicity work materially helps the authors, but her publisher-centered bargaining, false-persona pressure on Takane and earlier appropriation attempts remain serious contrary evidence. Mel ultimately accepts and begins a commission when its unfixed parts offer creative freedom and her original-creation interest is addressed. Acceptance is genuine without proving completed delivery, unrestricted originality or a fair settled contract. The authors, critic, publisher and readers have intersecting ends, not one automatically harmonious collective (`BA:event:852:002/004–006/010`; `BA:event:829:004/014/015`)."
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "fa782e7bc80427e43ce3eb97d44270f5757161810320bccb65760a9f35971f75",
+        "line_text": "## 9. Written register and attribution: imagined, inward and requested are different modes"
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "f0b9b8dd9cd301fcd0830fa44fc6ed6eae6a8500c14f8d48e7733f53876315fc",
+        "line_text": "The selected permanent written object10075 carries an eight-field profile and44 contextual records6384–6427. The comics/imagination hobby and HNメルリー support the author identity; the handle is not a second person. Its real-person fan-comic interests, including antagonistic Trinity/Gehenna relationships, support Mel's interpretation of peers rather than authenticating their intimate biography. Skill wishes, pen-name privacy, blank-manuscript genius joking, portrait wishes and nineSpecial company/change/forget records keep their registered conditions. A weapon-line thanks is not a demonstration of tool-free genius, a workspace question is not permission, and an invitation or holiday remark is not automatically an enacted outing (`BA:character_data:10075:profile_and_dialog`, complete adequate written argument)."
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "5fe000b898f7b95b88ad015521df50490398fd4291ebf01e24f6f11fc5fd2e44",
+        "line_text": "Costume1900917001 routes to10075 with an empty profile. Its65 displayed units distinguish82915 Lobby plus10Mission,10829 corresponding25 and90082915 Lobby without Mission. Calling Momiji comrade/junior, allowing different tastes and wanting play are textual contributions to a peer relationship. Explicit tickling-stop language at Lobby15/30/45 has no supplied adult response or historical stop outcome. Mission/deadline claims, completion words, Buy praise and the seller smile remain written contexts; they cannot replace EVENT829's actual manuscript and criticism sequence or establish enacted commerce. Costume and permanent records provide different conditions without a proven chronological personality ladder (`BA:character_data:event_costume:1900917001:character:10075`)."
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "00e8684ffa379a4706ee365bffb6811c51709b5eb1b900e11d4e7cb59c172ed9",
+        "line_text": "Narration and inward text also stay at their specific warrants. E006's timed logs u30–44 and unusual anchoru62 are not heard dialogue simply because the writtenSpecial parallel fits Mel. E003's imagined motives do not become actual students' minds. GROUP2801's story is not Shigure's confession. E829's printed actor drift—including literal 모메지 and inward lines apparently answered—remains unresolved; content, local sequence and literal raw labels must be distinguished from a repaired registry. E852's collective gratitude, publisher-style Melu107 and adjacent actor seams similarly limit assigning each thought to a named speaker. No newly heard performance, acting intention, native screenplay validation or complete attribution repair is claimed here."
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "d792f8bb9adb191dddab73b4054b583e3b900af6385fe26a37baa7efa3fb052c",
+        "line_text": "Formal and informal self-description matter without becoming diagnosis. The trapped-sparrow, defeated-soldier and rehabilitation expressions describe making under difficulty; the faux court and yellow cards enact pressure through play rather than actual judicial authority. 姫木メル and the source-local publishing names are written identities. The allocated present typed home isCH0124/BA_PERSON_CH0124, variant10075; the dated A133Meru label remains unjoined. “Meru” in the allocation request came from ROOT's agent wording, not direct human naming authorization. No second person/package or native-name equivalence is invented. Japanese/Korean differences retain their exact accepted scopes, including E808 hiding/disposal; no general locale equivalence or performed voice is inferred."
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "add279a6ee207d809998dcbbda7d9fde4c397b432220fc90cd06b7e59550a22e",
+        "line_text": "## 10. Competing readings: seven accounts tested against concrete ends"
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "fd13293fd6d261e48ef465b555dbc7b072bfbe370f6ec67c8525efbf7ef08e8b",
+        "line_text": "**The inspired genius blocked only by circumstances.** The broken pen, material scarcity and institutional editorial demands strongly support an author's need for tools and freedom. Actual manuscript completion and meaningful reader response oppose a reading of empty pretension. Yet Mel herself revises unrealistic reference plans, needs Momiji, receives specific criticism and leaves printing or commissions unfinished. Constraints are real; they are not a complete explanation of every problem or a guarantee of artistic superiority. A stronger account treats skill as practiced and socially corrected without denying her wanted ownership of work (`BA:bond:10075:002/006`; `BA:event:829:007/015`; `BA:event:852:001/006`)."
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "80ac89b5d7fd48523035bc7d6e79360d9a5aad7cd3f8fed1c22265780e985b9e",
+        "line_text": "**The attention-seeker who uses making as a pretext.** Pressed portraits, yellow cards, embarrassment and wanted company give this interpretation genuine evidence. The fullMM270 explicitly rejects reducing her to that role while partly admitting company, and actual work, chosen gifts and publication responsibilities give positive evidence beyond the denial. The café dream and taste in fan works are intrinsic ends. Mixed motives are more defensible than either universal pretext or pure solitary vocation. Her request to leave alone also prevents every contact from being read as an unrestricted demand for proximity (`BA:bond:10075:005:s4u38–45/006`; `BA:event:834:107`)."
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "bc7278e54b2694c5d8654671ee129b8b7a630b58fc289f62876078d41820f8ab",
+        "line_text": "**The harmless fantasy maker whose comedy cannot injure.** Imagined plot alternatives, artistic joking and real amusement support comedy and experimentation. Actual unwanted arm pulls, portrait pressure, food consumption, overwork and appropriation claims are adverse evidence that cannot be absorbed into the register of a joke. Fictional intimacy remains fictional, but bodily objection and recipient cost remain actual. The absence of a diagnosis, conviction or permanent harm does not turn every method into agreeable play (`BA:bond:10075:002/003/005/006`; `BA:event:829:001/007–009/015`)."
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "c83fc6254976b781bebfcb71c3875b30b1c2f5012f50df573b13c865f84c1f2e",
+        "line_text": "**The inconsiderate roommate who never changes.** Food appropriation, argument, impatience and interrupted rest make this more than an invented hostile reading. It nevertheless fails to accommodate actual reading, careful critical distinctions, concern for Sensei's fatigue, self-acknowledged wish, apologies, corrected fan-count argument and delivered work. Momiji's eventual objection prevents permanent redemption, while their actual reconciliation prevents permanent estrangement. Change is demonstrated at particular acts and still tested by conduct at the ending (`BA:event:829:001/002/007–009/013/015`)."
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "29d9715950fc8177e020c12448165f4fca2350b2274dea8e77f63c818a750c54",
+        "line_text": "**The liberated artist whose success vindicates every demand.** Rejected censorship, local defeats of appropriation and actual reader purchases are achievements. The contrary ends include ongoing Yakumo demands, an unprinted settled ratio, involuntary meeting, unfulfilled food restitution and Momiji's independent labor objection. The completed manuscript differs from a completed print run, and a started commission differs from delivery. Success supplies neither universal authorization nor final institutional reform. A defensible liberation reading retains those outstanding responsibilities (`BA:event:829:010–015`; `BA:event:852:001/004/006`)."
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "74d1f41ccd07fc71dae506e3ac6a29faad99aae8d5a227f2bb9b0dc277966808",
+        "line_text": "**The artist whose value is wholly decided by markets or wholly untouched by readers.** Zero initial sales, harsh criticism, later purchases and an actual settlement explain why material reception matters. The work's wanted making, fanless-story correction, distinctive tastes and gift discussion refute price as an exhaustive value measure. Conversely, readers' independent pleasure, fans' actual making and Takane's critique refute a closed self-sufficient account in which reception is irrelevant. Mel's art has value as her activity and as an encounter with other judgments; those grounds need not coincide (`BA:event:829:005/009/015`; `BA:event:852:001–004`; `BA:event:834:107`)."
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "1486c16e6a02ed0eb55e677a1cc9b8387286bd746e3afb1bc33a927e59765e26",
+        "line_text": "**The romance/healing master story.** Wanted company, private embarrassment, thanks, inspiration and adult help are positive relationship evidence. Actual refusal, solitude, unknown pain, pressure, different recipient costs and unrealized future wishes are stronger limits than a generic romantic ending would allow. No completed reciprocal romantic agreement, clinical recovery or universal Sensei mechanism is supplied. Her specific relationships can be meaningful without that certification, and her world remains populated by a friend, critics, readers, publishers, material objects and her own standards (`BA:bond:10075:003/005/006`; `BA:event:829:008/015`; `BA:event:834:107/852`)."
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "bb2d990f8abae978759cc0ee523346e6ae0982adc914e0a6291890d7e41dd4d0",
+        "line_text": "## 11. Source boundary, original open gaps and completion disposition"
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "7dcc90eb32fb5b916fad8c6d827acffaceaed9149ca56fc3b5e1c6e7455e9956",
+        "line_text": "This is an adequate-argument literary synthesis within the existing required home, not new primary collection or self-acceptance. The complete accepted495-line RedWinter7 normal account represents the ten exact selected Mel responsibilities: BOND10075E002/003/005/006, wholeMMthreads100750010/120/160/270, written10075 profile/dialog and costume1900917001→10075. The full afterwords matter, particularly MM160 through100750360 andMM270370–490. Own complete analytical reception of that shared account is qualified and distinct from its producer's121-source reading claims. The fresh precise Mel section275–309 and metadata1–100 reuse rather than expand that source scope. Missing individual Mel directories in bounded filename checks supply no claim of missing global evidence or inadequate current admission."
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "aae8ca3fc9a17069c2743824aa65b5273849a9b0d7707ef1b23b2b61bfd2348e",
+        "line_text": "Complete adequate public arguments received at their actual scopes are GROUP2801–2802, EVENT808's100-line twelve-source comparison, EVENT829's160-line fifteen-object checkpoint, EVENT852's205-line ten-object checkpoint, EVENT834's268-line38-object checkpoint and specific Final100C002E00829-line reading. Gift834107 is one of the38, not a separate new primary. E808's “current13” is a historical meaning/lineage authority label, expressly not thirteen source objects. GROUP1301–1303, E802 andE839 are personally complete regional comparands; no Mel appearance is inferred from school, shared actors or filenames. MINI, E80000 andE80001 navigation did not positively establish a new Mel narrative duty here. A keyword negative is not proof of global absence. Current admitted small class routes, adequate normal owners and the source admission quartet govern claims."
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "29fa2da9dffa053a1941cde4eefd81e7162b1644e6a566d15d38ae677cbdbabf",
+        "line_text": "Current Cycle008 qualified adoption supersedes earlier producer formalUNADMITTED, unapplied and incomplete-status statements inside these arguments; those statements remain historical rather than being deleted. Analytical file equality against main2e/c1/dated732, when verified, binds unchanged arguments but grants no fresh prose, raw, native, QA or performed credit. PinnedJapanese sourcea038020f1f5ac02dcfe76962426d38f86414cdd8/generationBA_REFRESH_20260928T032248159554Z/gamev1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1/parser0.2.0 remains separate from Git publication and mutable package navigation. Exposure/order/independence is UNKNOWN where undeclared; FIRST/SECOND remains unassigned; performed voice and visual/AV evidence are unreceived. All nineUNBOUND and preserved_phase2_work bodies remain unopened/unhashed."
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "3b6e92a3f6a7448ed8324dbfd9d7aa849963e42abb574307e2bae063d8130084",
+        "line_text": "| Original stable gap | Mel's contribution and remaining warrant; status OPEN |"
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+        "line_text": "|---|---|"
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "49adc75536304396e7a3767973f02399c702eee01a31d3adb83f1e77082d4453",
+        "line_text": "| G01 Ordinary and private breadth | Ten whole private responsibilities plus tools, fandom, taste, solitude, gifts and actual making substantially broaden ordinary evidence. Claims about all future wants, all work or the fullcast remain unestablished. OPEN. |"
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "7303541d1de2c03b28878f0424cce3fae1726d404f9b8f711f42b721c12430b4",
+        "line_text": "| G02 Yuuka council/club decision transfer | Mel's rejected imposed edits and differentiated bargains offer comparison questions; they do not establish Yuuka's authority transfer, membership decisions or outcomes. OPEN. |"
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "e53713ab6986ba708ce3efd20b40136d337f60c2768c81860ff77669e6565564",
+        "line_text": "| G03 Serika service, peer and reciprocity range | Actual giving/reading and disputed assistance offer concrete comparative distinctions; no Mel analogy completes Serika's recipient/service scope. OPEN. |"
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "17c7691301d30c3b680ce47ba2bdbb39d2711d25f84676eaaae6d9ce09a13368",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Overwork, hunger and local institutional conflict do not fill Hina's causes, accountability or ordinary contrast evidence. OPEN. |"
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "2dfa22ee48a25d6126984aef0cca1721465d395f37c5357dc85e2fcada403beb",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | Food, private taste, editorial pressure and unfinished work remain intrinsically meaningful; E834's other public/gift meanings are not automatic Mel appearances or closure of Arius/PS68 duties. OPEN. |"
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "e4fad98fcf4e04a430a8d77fef8d84464dec82c07430c941924412b7fb60593b",
+        "line_text": "| G06 Cross-school ordinary repertoire | Public readers, critics, fans and material tastes broaden actual ordinary intersections. No named school attendance, membership or full reciprocal repertoire is inferred from cooccurrence. OPEN. |"
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "3ec27e7b5b860064f459782a86ef057560af5619cb6fc70fc94ebc8bf96df015",
+        "line_text": "| G07 Story-world chronology | E003→E005 and the local four-day production sequence have explicit links; E852 sales are not certified as Luna's later career, and release/variant/raw IDs do not date MAIN. OPEN. |"
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "b61b06831f1ff2b438aae0ee31b2160b27500a4e4711df11d0b1bd5b8db13776",
+        "line_text": "| G08 Event naming and repeat contexts | ExactE808/E829/E834107/E852/Final routes and blank-title endings are retained. Repeated libraries, portraits or manuscript words do not merge separate events or establish a reprint history. OPEN. |"
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "1da047244606f5c174bf037fb1d61f01247276bc4d36e22b12626770843724da",
+        "line_text": "| G09 Written speaker/choice attribution | Fiction, inward fields, narration, alternatives and actor seams remain distinct; 모메지, out-of-order locators and publisher-style Melu107 are not repaired into universal speaker certainty. OPEN. |"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "a71d608ae18dd17dfc21d2a3996c207930444d1cbb23e6cd22bf5acf07764d77",
+        "line_text": "| G10 Performed voice | Written register, addresses and metaphors received; no acting, sound, pacing, audio or AV reception. OPEN. |"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "4aca0b7e0b928c38ed48360c1556ff6f495d2a06951a24bd7ec76a5d92d5a49c",
+        "line_text": "| G11 Hoshino's Yume record and office states | Final's comic plans and uncertain shelter do not adjudicate Hoshino/Yume causality, recollection or office states. OPEN. |"
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "329f210c35fec2f647edd310e004388f09fd8ba1856eb31f3b4855d97e5513e2",
+        "line_text": "| G12 Counterpart, system and variant identity | LiteralCH0124/BA_PERSON_CH0124,10075,1900917001 and handleメルリー retained; datedA133Meru remains unjoined, no new person/package or costume chronology. OPEN. |"
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "7606284e645611d5386daac142d456f8ed0190477299e4113c9cf0758b8854ec",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | Actual manuscript delivery, purchase, settlement and begun work coexist with uninspected legal terms, unsettled ratio, overwork, hunger and unprinted cures/printing/restitution. No safety, legal or technical certification. OPEN. |"
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "0b617647742aafe2702815c5994ce1271fce2c72abc17a39aa6c01c6541004ff",
+        "line_text": "| G14 Unclassified/mode continuity | Admitted BOND/fullMM/written/GROUP/event/MAIN arguments remain separate modes; no unclassified intake or source-mode join is performed. OPEN. |"
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "fde3cb011c0bf99fe029a81828869f959133ef703d5cfc6db1feacd63e247f58",
+        "line_text": "No mandatory primary recovery remains for the bounded claims actually made. Stronger statements about wholeLuna quality, peer intimate biographies, exact income, legal ratio/enforcement, durable livelihood, medical recovery, unrestricted bodily consent, reciprocal romance, finished commissions/printing/film, completed restitution, restored shelters, repaired actors, native provenance or performance would require additional specific warrants and are unasserted. The saved full argument and exact receiving/freeze receipts are prepared for independent ROOT review. This author does not grant literary acceptance, canonical adoption, new home/denominator entries, publication, merge or milestone credit. The distinct required Mel–Momiji directed synthesis, library/club/publishing/institution/Sensei/register responsibilities and the remaining fullcast355/29 work remain mandatory separate work. Completing this bounded character argument does not complete those packages."
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          7,
+          7
+        ],
+        "canonical_lines": [
+          7,
+          7
+        ],
+        "frozen_text": [
+          "status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          27,
+          27
+        ],
+        "canonical_lines": [
+          27,
+          35
+        ],
+        "frozen_text": [
+          "publication_acceptance_and_count: ROOT_ONLY_PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_publication_acceptance_and_count: ROOT_ONLY_PENDING",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MEL_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MEL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          31,
+          30
+        ],
+        "canonical_lines": [
+          39,
+          40
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded character responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MEL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MEL_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,18 section-parent allocations,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Character Monographs home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "full_operative_ROOTaccepted_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MEL_CHARACTER_MONOGRAPH.md",
+      "bytes": 42624,
+      "sha256": "6fe9cd61922f31d3ae2bb595dba6dd403ca57e98169b8ea67aa7a5b8618e5d5b",
+      "git_blob_oid_of_actual_bytes": "3562c75e5869842b4e328a1b8500acefcbb063ea",
+      "lines": 161,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MEL_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MEL_CHARACTER_MONOGRAPH.md",
+      "bytes": 44895,
+      "sha256": "9d0d699395f05cb6a63640270cba55f48a061db22144f8430e952664c6a29aba",
+      "git_blob_oid_of_actual_bytes": "8086337c0ea54833b8fdcf75955c7679c56f33c7",
+      "lines": 171
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "abf6eb03819d8cdc66762528a3246eef0970ad05834cf7bf074daca1da758d4b",
+        "line_text": "classification: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "b040a034a0c39c7fd51d765a3b3e7ce23a6cc374f8ddb31b596d48d317da6543",
+        "line_text": "architecture: \"1.12, section7.1 eleven required dimensions\""
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9",
+        "line_text": "method: \"1.10\""
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "2fbce7093a5fac24290ac2bb637da5abdfd6bbfa32e5d934aad31d3598748819",
+        "line_text": "required_home: P3-CHAR-MEL-CH0124"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "495f352ef1b61d7d500c6a53ebdbd8aa021b503823c9933bb5cf7c3f2431a5d4",
+        "line_text": "candidate_responsibility: P3-F040"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "92ce825089649cb3d26992e5e64a6d7f8634eb7cfe6c9355ca5ae1f38e5a2911",
+        "line_text": "literal_identity: BA_PERSON_CH0124"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "ec3e4953ba9507c2f64a986e2c527d215baa984e4508426e7b6895ab8f704ff1",
+        "line_text": "family: CH0124"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "fb264b3871a6fb849da6d0f644c2d41b71545acac8c377b5a2fc3f997e70d0c3",
+        "line_text": "display_subject: Mel / 姫木メル"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "3062c5f23c6fb3285d91b7e7a578b048216edc4c6595e822ce24e732780d76f5",
+        "line_text": "variant: 10075"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "09fec7ba58015508d05b3c9dd8f786a8b4a88ce518cd2b63d03055f3daf6d734",
+        "line_text": "event_costume: 1900917001"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "6093827b8e1029194c47d430e31ea925bf9bd07fce9cd9a12541232f48f31639",
+        "line_text": "dated_navigation_witness: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "46b4a1084a10780516af311ffaf9db987e5ad1063fb62ad06bd1db031562234b",
+        "line_text": "game: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "7f883d04131c2ceb93c813788d8346734ce228b11188765b294eb7669400a5a9",
+        "line_text": "parser: \"0.2.0\""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "f0ca7c264652b70e9b07670d7ef7b8722862379e5040c94cbdd87ca3ffb0d8ae",
+        "line_text": "source_boundary: \"Ten selected private responsibilities: four BOND with four whole linked MomoTalk arguments and two written objects, received through the adequate complete accepted RedWinter7 analytical account; complete relevant accepted public arguments, including EVENT829, EVENT852 and gift834107; zero fresh primary/native/raw/QA/AV\""
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "70cbfb274f76de9261e3db6189cbacb16a9890e44b0509e2b0026ea686d22e03",
+        "line_text": "authority_quartet: \"Current Cycle008 admission; own adequate analytical argument receiving; undeclared historical exposure/order/independence UNKNOWN; performed voice unreceived\""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 24,
+        "line_sha256": "1c8e5e32ae1d62fb5761e8c9da845a95a8072410874a22a22d82c7602bed0134",
+        "line_text": "retrospective: true"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 25,
+        "line_sha256": "9c96af10047187817acdbfcc409256b832cc1e1bec7ab02061ed095056b5e2bb",
+        "line_text": "all_original_fourteen_gaps: OPEN"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 26,
+        "line_sha256": "a650fa20652cdc365b4f6513e78c5849bf75aebef8bf1d57b62029393a6e0727",
+        "line_text": "reconstruction_model_credit: NONE"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 36,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 38,
+        "line_sha256": "327d4b3fe178e85ddfcd5e29b444b0951fa09cf9f61a805dfa796dec009ca493",
+        "line_text": "# Mel: making a work she wants, meeting readers and respecting people beyond the page"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "d594a5696524645c7638736f5489d1c805e88dda3c21b6b958dd1e07b861d610",
+        "line_text": "## 1. Core thesis: creative ownership has intrinsic value and reciprocal limits"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "853c4d134922d6c350bee1c0bb096a3bd9550f5a1ec5846d5529d9e788d20748",
+        "line_text": "Mel's central struggle is to make something she can own as a choice while accepting that other people have tastes, bodies, belongings and labor of their own. The library, a replacement pen, imagined scenes, rare merchandise, a collaboration café, an unfinished manuscript and a portrait gift are not minor evidence awaiting a political crisis. They establish what she likes doing and wants to do. Her creative interest can justify an outing or a gift without proving a successful market, institution reform or a romance. The substantive question is how that interest enters a relationship: as an invitation, a contribution, an argument, a demand or an appropriation. Each form occurs, and no flattering character essence removes the differences (`BA:bond:10075:002/003/005/006`; `BA:event:829:001–015`; `BA:event:834:107`)."
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "aa64dd9469d0decd1822c5e04ce09b08df1b8f9ce44a19aea913274b2218cb0c",
+        "line_text": "Her defense of artistic independence is strongest when she declines imposed content and recognizes creation as her own wish. EVENT829's Secretariat wants Cherino inserted into the book, Minori wants revolutionary struggle, and Yakumo wants a manuscript for another project. Mel rejects these uses and proposes that would-be commissioners make their own work or pay proper outsourcing compensation. Yet the same author pressures Sensei into a portrait or manuscript assistance and interrupts Momiji's wanted rest. Protecting her authorship does not certify that she protects every recipient's choice. The reading therefore needs two directions: institutions can exploit Mel, and Mel can impose on the people helping her. Their coexistence gives her claims to autonomy substance rather than rendering them hypocritical and worthless (`BA:event:829:010–015`; `BA:bond:10075:002:u24–33/006:u58–61`)."
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "3f049fae8a189de2de0e67d431477c1dd2a782e30911f9a6642f3c1956a06249",
+        "line_text": "The strongest positive development is reciprocal correction within specific work and relationships. She actually reads Luna, argues about its construction, is moved by fans making their own endings, chooses to create, apologizes to Momiji before the work is finished, completes and delivers a manuscript, and receives Takane's differentiated criticism. The ending restores company and collaboration while Momiji insists that the work's costs remain hers to judge. A finished gift was not necessary for forgiveness; forgiveness did not cancel unfinished printing, outstanding demands or unequal burden. EVENT852 adds actual readers, sales and settlement while preserving coercive bargaining and an unfinished commissioned work. These affirmative ends are substantial without making Mel permanently patient, commercially secure or free of obligation (`BA:event:829:005–009/013–015`; `BA:event:852:001–006/010`)."
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "d469e15761cc82d0c82a0f7bc08b5f2c6175f8a4454e01399f16c4d18db89647",
+        "line_text": "## 2. Longitudinal development: specific revisions rather than a success ladder"
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "bb9032ad42087be7981e79f7fe23ef13677d0ee9228c0842e5db674d2c138973",
+        "line_text": "The private sequence first differentiates imaginative abundance from a defective tool. In E002, the adult assumes a familiar slump and worries about injury, but Mel corrects that explanation: her pen is broken. Actually receiving the replacement and surplus samples delights her. Material conditions can obstruct making without defining an author as uninspired or ill. Her report that heavy equipment is easier to obtain than soft paper, comfortable pens, soap or rich pudding locates ordinary scarcity in her experience; it is not an audited school inventory. She also insists on reciprocation instead of accepting the adult's claim that helping her is enough. That intention leads to an unwanted portrait, so a positive disposition becomes a contested action rather than a completed beneficent exchange (`BA:bond:10075:002:u1–33`; whole `BA:momotalk:10075:thread:100750010`, preface010–160)."
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "93371797148df347ce52b083b789012c889cb14a17615d676843f246f19e7662",
+        "line_text": "E003 and E005 establish an explicit local connection between the adult-led outing and Mel's return tour. The first outing supplies actual amusement, observed students and drinks alongside invented romantic possibilities. The next visit gives her chosen figurines, rare editions, merchandise and café interests. She wants her own original work to become popular enough for a collaboration café, but that desired future is not achieved in this pool. Her changing feeling about company includes a real request to go home alone. The adult watches her leave. The entire linked thread continues beyond its launch to a report of revival and insistence that the adult bears some responsibility. Her earlier taking ownership of the problem and later assigning some responsibility are both printed; neither must be replaced by a tidy final blame settlement (`BA:bond:10075:003`, five scenes; `005:s1u2/s4u7–45`; whole `BA:momotalk:10075:thread:100750160`, through100750360)."
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "b46dff7957bac6cd6fadaf9a8edcc407939361f26497f0c7a8eca9f79625344c",
+        "line_text": "E006 makes the choice to return to work especially clear. Mel rejects reduction to an attention-seeking character, partly acknowledges wanting company, and frames the invitation as conditional on available time. Sensei visits after other business. Her account of failure, depletion and starting again belongs to the difficult practice of making; the defeated-soldier and rehabilitation expressions are not diagnoses. She reports becoming interested in worlds she previously overlooked and calls the teacher a trigger. That is consequential self-understanding, but it supplies no dated MAIN transformation or general law of adult inspiration. The actual end is help with the manuscript during the remaining time after pressure and objections, not a published book or permanent assistant (`BA:bond:10075:006:s2u8–24/u49–61`; whole `BA:momotalk:10075:thread:100750270`,370–490)."
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "773f01e82a9a9d59dc89befc89fad38ea2c7a6d61fa62f8cfb16e7992d3874b3",
+        "line_text": "EVENT829 then prints more extensive local revisions. Her initial wish to obtain a supposedly scarce final volume becomes knowledge that the original ending was never published, followed by appreciation of fan making and a chosen four-day project. She adjusts the unrealistic intention to read every purchased reference. Reconciliation occurs before completion, and after that she still wants to create and give. D-0 provides completed manuscript work, episode013 delivery and acceptance, and015 Takane's actual reading. Those are distinct achievements; printing, sale totals and widespread distribution remain unprinted. EVENT852 is a separate bounded publishing context, not automatically the later commercial realization of this Luna project. Its three-copy purchase and transmitted settlement are actual outcomes, while its eventual commission is only accepted and begun (`BA:event:829:002/005–009/013/015`; `BA:event:852:002:s1u73–92/004:s1u34–60/006:u85–117`)."
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "4ddf0c6073181ae2a7a7040736755f265026de332eddb3862fabb4ceff2d0bf2",
+        "line_text": "## 3. Public and private presentation: an author interprets without owning other lives"
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "c62dbf5c6017d35ae07da2e439752d1a05009defe0875545b94f074ec201d860",
+        "line_text": "Mel readily turns the world into proposed stories. E003's heroine makeup, lunch and intimate reactions are fiction; the two students later observed at the mall are actual people. Her shifting plots about their private intentions remain inventions. The imagined Ferris-wheel situation differs from her real pleasure on a roller coaster, just as a dropped straw and a replacement request differ from a proposed shared-straw stratagem. Treating every possibility as an actual intimacy would erase the activity that characterizes her: she tries several narratives against a world that does not certify them. Even her “full” reaction exceeds literal food and cannot prove a large meal. The scene ends with surprise at the adult's date framing, her scouting explanation, incomplete thanks, pain and departure; the cause of that pain and safe arrival are not supplied (`BA:bond:10075:003:s1u4–18/s3u4–14/s4u7–17/s5u7–28`)."
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "851f1b72ed8e49f467d6cb158b8effaef0953692fdef97c4de74170347e131fb",
+        "line_text": "GROUP2801 offers a public equivalent of this distinction. Its warm cocoa and apparent Shigure confession occur in Mel's fiction. Shigure's enjoyment of that story is actual, but it is not evidence that the depicted romance happened. Nodoka's actual needs, rejection of the representation and refusal of its proposed petition purpose interrupt Mel's use of a pleasing story. The contrast does not establish that fiction is worthless: one reader enjoys it and another rejects its fit to an immediate task. It establishes that an author's projection and a recipient's material request are not interchangeable. The later actual burning of Minori's targeted petition also belongs to an institutional delivery failure, not a proof that Mel's fictional route secretly succeeded (`BA:group:2801/2802`, complete adequate two-object argument)."
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "3356fe3dd1e6359f27dadbce4e4a345cf62ff4224d181c56b2f3aa7020cb3ba9",
+        "line_text": "Her public self-assertion is also more practical than a single shy-versus-confident contrast. In EVENT829 she makes technical criticisms, challenges an adult's apparent agreement to Yakumo's bargain, sets conditions on work she will accept, and rejects institutional revisions. In private she protects her pen name and offers a portrait, complains about not being heard, wants company and wants solitude. These are different audiences and different requests, not mutually exclusive true and false selves. The account must also preserve inconsistent methods: a library's isolation can be invoked to press an unwanted portrait, and the playful yellow-card language can make another person's remaining time feel compulsory. Her vulnerability and her pressure are both recognizable without requiring a single mask explanation (`BA:bond:10075:002/005/006`; `BA:event:829:003/004/010–015`; `BA:character_data:10075:profile_and_dialog`)."
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "e43b003d7b6546c57994c6880eb104630ef7cc2bfc92fbd17f512f604b970589",
+        "line_text": "EVENT852 makes audience reception consequential without appointing it the final authority over her work. Takane's1.5/5 criticism concerns diluted authorial taste, appeal and editing; Yakumo identifies publicity problems. These are situated evaluations and rival causal explanations, not analyst model grades or a complete account of poor sales. The first strategy sells nothing, then an actual reader likes the book and buys three copies for distinct desired uses. The reader's wish to share and invite others is independent pleasure. It supports meaningful reception, while neither the first failure nor later purchase defines Mel's artistic worth once and for all (`BA:event:852:001:u52–87/s2u6–14`; `002:u32–51/u73–113`)."
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "1128a4a20c7033b738532cbffd665d6092eecaa928a9cbd56c756688392fb200",
+        "line_text": "## 4. School, library and club: liberation is tested in concrete work"
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "5978af03c2a9db818db25c7e8bd45117d01ffc7862988201e1fb13a9e770e11b",
+        "line_text": "Mel's Knowledge Liberation Front/library setting gives reading, access and making a shared home. The two residents' first EVENT829 quarrel exposes the difference between an equal-knowledge principle and imposing personal taste: Momiji presses Luna on Mel, who identifies that pressure as a private desire dressed as collective duty. Yet Mel's later memory of Momiji calling an old book new because it is new to its reader changes her own account of value. New knowledge need not mean newly published knowledge. The institution's stated purpose is therefore contested and usable rather than either pure slogan or exhaustive description of their behavior. Actual shared reading and the later return to the comfortable library keep belonging concrete (`BA:event:829:001:u4–36/005:s1u2–16/009:s4u2–20`)."
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "b4195e3bcc6bd620a4abf4d67161489ba3a8fe529ae28ec128c899a33b5b3699",
+        "line_text": "Their club vocabulary does not erase distinctions among allies. Minori appreciates earlier literary help, but her demand that this book serve worker struggle is refused. Momiji acknowledges Works Club assistance and library visits while rejecting that demand. Nodoka's heating, bedding, insect and bear concerns are serious independent needs; Shigure's proposed stove bargain still attempts to appropriate Mel's work for Cherino and is refused. The Secretariat's conditional medal offers no substitute for chosen subject matter. Its threatened force and the subsequent reported defeat remain local conflict, without proving lasting freedom from censorship or a universal school statute. Shared “liberation” language cannot certify an alliance, and actual assistance cannot buy unrestricted editorial control (`BA:event:829:010–012`)."
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "9cbd4b0286db76924ddaa23f322efc9b81b630d5d88f9eb37114add4cec221fe",
+        "line_text": "Publishing introduces another institutional relationship rather than a seamless extension of the library. Yakumo identifies printing, binding, sales and expansion as her work and can explain why the same press sells both Cherino praise and condemnatory leaflets. Her commercial usefulness coexists with collateral, presumptive bargains and pressure. In EVENT829 a later dialogue says a contract was exchanged, but its legal validity and precise terms are uninspected. Her proposed long manuscript loan or transfer is repeatedly refused; after defeat she withdraws that manuscript claim while retaining a future demand. Mel has resisted a concrete appropriation without securing a fully rescinded obligation or institution-wide reform (`BA:event:829:004:u15–44/u63–99/014:u10–63/015:u1–16`)."
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "c90ad29c60fbd93184121d9c17a673cfef6af67d61575e751356e36479eb3217",
+        "line_text": "EVENT852 preserves a similarly mixed institutional achievement. Hunger, delayed club funds and unsuccessful funding attempts make help materially necessary; food is actually supplied. Yakumo then makes consignment the pressured alternative to payment. Mel rejects the proposed9:1 ratio favoring the publisher, and Takane challenges it; a later contract exists, but the settled ratio is unprinted. A day settlement is actually transmitted and received with gratitude, not merely promised. Yakumo's acknowledgment that a hopeless book cannot be sold by marketing alone also limits her commercial self-presentation. This is genuine beneficial mediation within unequal circumstances, not a certified fair contract, exact income, durable financial independence or free-market essence (`BA:event:852:001:u2–51/u91–113/s2u2–3`; `004:s1u34–69`)."
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "699e5da9aa205d8cbce57af31ba01d023304b6c3ac015d667815f2c3863fa420",
+        "line_text": "## 5. Ordinary life: taste, fandom, tools and company are wanted ends"
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "efe5c52037dd05e6ee8d87735d74dc093b63908db4a91c54e2679f775bb7b116",
+        "line_text": "The ordinary private scenes give Mel reasons to do things that are not reducible to improving public output. Samples and nibs are delightful; figurine form and rare editions interest her; the collaboration café offers wanted atmosphere, a meal order and a collectible placemat. Buying and carrying books in EVENT829 has a weight she calls happiness. She can admire fan artwork and emotional construction even when those works are not the missing original. A written birthday preference for delivery instead of an outing preserves convenience and personal taste, while divided New Year wishes, Christmas preferences and Halloween reference gathering remain desires in particular written contexts. Their worth does not require successful commerce or proof that every invitation was acted on (`BA:bond:10075:002/005`; `BA:event:829:005/007:s2u4–22`; `BA:character_data:10075:profile_and_dialog`, records6384–6427)."
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "fac6d78147c43bc348b4d4acf335d615d520d5656cc1700eee4c1d4c5aba0657",
+        "line_text": "Her preferred creative end is not simply “be productive.” E005 wants an original-work café; E006 returns to a manuscript for herself; EVENT829 chooses an ending moved by fans' making and a gift for Momiji after forgiveness is already possible. These activities include pleasure, difficulty and social meaning without being identical. They also answer an attention-only reading: the full invitation admits some wish for company while explicitly rejecting that reductive characterization, and the subsequent work retains a self-directed aim. Neither her declaration nor the analyst should imply that all loneliness is insincere or that needing company invalidates making (`BA:bond:10075:005:s4u7–30/006:s2u8–24`; wholeMM100750270; `BA:event:829:006:u39–81/009:s3u36–70`)."
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "47ceb8760cc5af5e8b1360fec237792b863d8f55da1868b22de6ef7d14f08146",
+        "line_text": "Gift834107 is especially important because it separates her demanding standard from the existence of an artifact. Her claim of no proper result must coexist with the inward completed-work appraisal at u22 and approach/pickup at u41–42. Repeated attempts and dissatisfaction do not mean that nothing was made. Sensei's encouragement and her reclaimed artifact at u49 reveal different evaluations and her own giving agency; an offer alone does not certify final handover. The end provides an actual lengthy discussion about where to eat the portrait gift at u63. It does not provide eating or a solved practical problem. This is an ordinary creative and relational outcome with intrinsic interest precisely at its unfinished extent (`BA:event:834:107`, complete adequate current meaning)."
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "9155fe1f023a55a11b6db0966936001615b14aac971439e1b2c3ef6709f40fa3",
+        "line_text": "Ordinary evidence also resists treating Mel's imagination as always delightful to others. In the resort comparison, a drawing/portrait interaction and hidden adult bathing context raise privacy and pretext questions; Japanese hiding and Korean disposal language cannot be merged into a single artifact history. GROUP2801's real reader enjoyment coexists with Nodoka's rejection of its use. EVENT829's admitted pancake-tempura consumption conflicts with Momiji's claim that the food was not Mel's to take. None of these costs makes café, bathing, reading or portrait-making insignificant. They show that a wanted ordinary practice can have another person's boundary at its center (`BA:event:808:004/005`, complete twelve-source adequate comparison; `BA:group:2801`; `BA:event:829:001:u67–92`)."
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "39ebe295d80697db9429c6d7f95b9f7629807ae3079b18000204aecb52081728",
+        "line_text": "## 6. Crisis, exhaustion and adverse methods: a good result cannot settle its process"
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "02f115a9da44ff48d84e82cdb38aa752de5d92596eafbb7c8d62f6755e4cd32b",
+        "line_text": "Mel's creative crisis in EVENT829 is tied to a specific four-day deadline and a chosen wish to make something she and Momiji can accept. Teacher chooses to continue after she releases the obligation. That explicit choice matters, but it does not make every later cost voluntary for every participant. The montage retains her dozing, objections to being woken, estimates of very little sleep and long continuous work, and Takane's demand that an unfinished first half be completed before sleeping. Coffee is actually made and drunk, with Mel's local claim of some wakefulness; no safe labor standard or validated stimulant mechanism follows. Her recognition of dependence on Momiji's help is a concrete revision of solitary-author fantasy (`BA:event:829:007:s1u34–63/s2u24–92`)."
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "d9a0ed1c0e7b41bbe20a61faaf20a2483147a62301f11d361883f04a36f12bea",
+        "line_text": "The next episode's actual sleep and narrated loss of consciousness are stronger endpoints than a generic report that she is tired, but they do not supply a diagnosis. Momiji independently calls because she also wants reconciliation and explicitly says nobody required this elaborate making. She can appreciate the gesture while questioning its cost. Mel overhears only part of that call. Sensei's recognition of adult limits is useful; the proposed face-to-face meeting then becomes physical removal after Mel refuses and calls it kidnapping. Successful reconciliation must be retained alongside that contrary action. A legal classification is unprovided, and a favorable outcome cannot retrospectively turn the printed refusal into agreement (`BA:event:829:008:s1u5–11/s2u13–64/009:s2u2–6`)."
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "29741c7dd54ec0ea8074de2ed21b859aa2be8a245d7a42f648afc3ec04bd25f1",
+        "line_text": "Material crisis in EVENT852 supplies another limitation on romanticizing difficulty. Mel reports roughly three days without food and lost appetite or weakness; Momiji's delayed funds and hurried book-based funding attempt contribute context. Food actually arrives, then Mel has stomach pain and Takane offers water and an explanation. The actual supply is a benefit; the explanation is not clinical validation or a certified cure. Those conditions make the publishing bargain costly to refuse. Mel's fury and contractual rejection should not be substituted for unrestricted economic choice, just as gratitude for actual income should not erase coercion (`BA:event:852:001:s1u2–51/u91–113`)."
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "86355c2d510299bf4dfa30c5274f645063b2a5ef43eb1661c1de175503b4363b",
+        "line_text": "Final's evacuation scene gives a bounded crisis contribution rather than a comprehensive MAIN role. Mel and Momiji have comic plans; the text does not show a published book. Nearby information about the ruined old building, a closed spring and uncertain locations remains reported or unanswered at its actual extent. Their ordinary creative direction persists in a threatened setting without supplying proof of safe arrival, sufficient shelter, final publication or all other characters' whereabouts. This absence of a printed completion is a source limit, not a reason to discard the plans or invent that Mel's real character only appears in crisis (`BA:main:100:002:008`, complete adequate29-line argument)."
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "0ababd1eefa48e897e817bb1f6fdeb54c83dd52a8b8941c83225f63a1aa08b0e",
+        "line_text": "## 7. Sensei: a useful companion, contested addressee and limited helper"
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "a57cbd9667f8b424e3b77790f3a1ec590896f1b171036c5fb292b687904f138f",
+        "line_text": "Sensei contributes material assistance, attention, outings and work. The bought pen and samples are actually received, the outings contain real pleasure, and the remainder of E006 is actually spent helping a manuscript. Mel notices the adult's exhaustion at EVENT829's opening and offers to end the call; later she names her own wish and releases the obligation. These are reciprocal recognitions, not merely an adult activating an inert student. The creative direction also comes from Mel, Momiji, fans and critics. Her statement that the teacher opened interest in new worlds is important as her self-report, while a universal Sensei recovery mechanism would overwrite the multiple causes and limits actually supplied (`BA:bond:10075:002/003/005/006`; `BA:event:829:002:s1/007:s1u34–63`)."
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "443eb7d0172f6e5e70482b4a8b7f12c2a8d18eeafa172133a0314fa06093d02e",
+        "line_text": "The adult has boundaries which Mel does not uniformly respect. A portrait is explicitly declined in E002, after which she presses; the pen-or-sketch bargain stops this attempt and the adult ends by evading her gaze. E006's yellow-card play follows explicit choice009/010 objections and repeated questions before an uncertain concession and actual help. A wanted portrait or valuable manuscript therefore does not establish pressure-free agreement. Written workspace permission requests remain unanswered and cannot repair these scene-level outcomes. The analysis should preserve alternative choice replies as alternatives, not concatenate them into one uniquely executed conversation (`BA:bond:10075:002:choice008/009/010/u42`; `006:choice009/010/u58–61`; `BA:character_data:10075:profile_and_dialog`)."
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "e82596025bbf4b5fccfcd3bc5090c70737278ea4b1a57d74812f2428ccea9583",
+        "line_text": "Sensei also uses objectionable methods. The adult's E003 arm pulls and Mel's objections remain actual; a later accepted escort does not retroactively answer them. The EVENT829 forced meeting similarly survives the eventual positive reconciliation. Mel later reverses the practical direction with her own arm grab in E005's faux court. Neither legal play nor the adult's benevolent intention establishes permission. The public gift and private outing can contain embarrassment, acknowledgment and wanted company without authenticating reciprocal romance, a kiss, all bodily consent or an exclusive couple (`BA:bond:10075:003:s1u18/s2u7/s3u14/005:s1u6`; `BA:event:829:009:s2u2–6`; `BA:event:834:107`)."
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "806fcfa8a11b53c732f9643e268b519dcb175530cc17368124c6b482018d685d",
+        "line_text": "Most revealingly, Sensei's view of a cost is not Momiji's view. The adult helps, jokes about avoiding work, gives incomplete advice and reports being fine with the burden. Momiji says that this does not make it fine for her. Her actual endpoint response prevents the story from being summarized as adult approval validating every part of Mel's process. A finite favorable assessment remains useful—Mel receives attention, help and encouragement—while the independent recipient supplies evidence that the helper's account cannot adjudicate everybody else's obligation (`BA:event:829:002/008/015:u55–79`)."
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "907d127198512b447be6db179318d7dfc0473c75ea8620bf7aeb0778b3d528e5",
+        "line_text": "## 8. Peers and readers: correction, affection and disagreement remain independent"
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "a2c9d241c3aee1b6dd9fc2328c8977d7bf215a38a1938064af637a6fb856c0fa",
+        "line_text": "Momiji is the indispensable contrary and affirmative peer. She loves Luna's characters, urges Mel to read, defends it and initially moves from literary disagreement to the demand that Mel make a masterpiece before criticizing. Mel's actual completed reading and objections concern represented construction; the full fictional Luna is unprovided, so neither opinion becomes the analyst's independent verdict on that work. Their quarrel also involves food ownership, duplicate orders and a reported restriction on collection applications. Mel admits consuming the food and suggests labeling it; Momiji insists that not buying it should suffice. Their conflict is consequently not reducible to misunderstood affection or one harsh review (`BA:event:829:001:u4–92`)."
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "2fc1f84fb1cd386d9ac27f4286a608c4c8d99a162fe5664b9c754d19b1e4fbc4",
+        "line_text": "Both later revise their conduct. Momiji recognizes that an author's perspective could reasonably find those problems and that she became emotional. Mel apologizes, calls the work interesting and promises to reorder the food; Momiji apologizes for duplicate ordering and promises to prioritize new books. Those promises remain unfulfilled in the printed pool, while the awkward reconciliation is actual. Mel also corrects the idea that many fans alone validate a work: fanless stories deserve respect. Momiji then actually helps with the chosen gift despite objecting to a recipient helping make it. Their restored debate can improve work, yet the final objection to imposed four-day labor is still hers. Chosen togetherness does not require equal tastes, completed restitution or agreement with every method (`BA:event:829:008:s2u13–19/009:s3u5–70/015:u55–79`)."
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "314e69573311fe6f8b49c07a7c682df2c51f4d3ab2487cf7093dccba9fdc5510",
+        "line_text": "Takane is a useful critic with limits of her own. Her account of the unpublished original final volume corrects Mel's online scarcity assumption, and real fans' making helps turn acquisition into creation. She also admits deliberately testing Mel's willingness to work for another person, maintains embarrassed fandom, gatekeeps and intensifies the deadline. Her response to the unfinished first half and eventual qualified praise recognize actual work without declaring effort universally superior. EVENT852's specific criticism and challenges to publisher advantage continue this independent role; Takane's evaluations are not equivalent to either affectionate reassurance or perfect objective judgment. Mel can learn from a critic without the critic's adverse conduct disappearing (`BA:event:829:003/006/007/015`; `BA:event:852:001/006`)."
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "92f5b4f0e8d73a1b4475945af59183e17625075791ea297c82004380030c404e",
+        "line_text": "Readers and Yakumo add other forms of independence. EVENT852's first reader likes and purchases the book; later readers shelter, circulate and want continuation for their own reasons. Their pleasure is neither evidence of actual intimate acts in the depicted fiction nor completion of every sequel. Yakumo's printing and publicity work materially helps the authors, but her publisher-centered bargaining, false-persona pressure on Takane and earlier appropriation attempts remain serious contrary evidence. Mel ultimately accepts and begins a commission when its unfixed parts offer creative freedom and her original-creation interest is addressed. Acceptance is genuine without proving completed delivery, unrestricted originality or a fair settled contract. The authors, critic, publisher and readers have intersecting ends, not one automatically harmonious collective (`BA:event:852:002/004–006/010`; `BA:event:829:004/014/015`)."
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "fa782e7bc80427e43ce3eb97d44270f5757161810320bccb65760a9f35971f75",
+        "line_text": "## 9. Written register and attribution: imagined, inward and requested are different modes"
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "f0b9b8dd9cd301fcd0830fa44fc6ed6eae6a8500c14f8d48e7733f53876315fc",
+        "line_text": "The selected permanent written object10075 carries an eight-field profile and44 contextual records6384–6427. The comics/imagination hobby and HNメルリー support the author identity; the handle is not a second person. Its real-person fan-comic interests, including antagonistic Trinity/Gehenna relationships, support Mel's interpretation of peers rather than authenticating their intimate biography. Skill wishes, pen-name privacy, blank-manuscript genius joking, portrait wishes and nineSpecial company/change/forget records keep their registered conditions. A weapon-line thanks is not a demonstration of tool-free genius, a workspace question is not permission, and an invitation or holiday remark is not automatically an enacted outing (`BA:character_data:10075:profile_and_dialog`, complete adequate written argument)."
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "5fe000b898f7b95b88ad015521df50490398fd4291ebf01e24f6f11fc5fd2e44",
+        "line_text": "Costume1900917001 routes to10075 with an empty profile. Its65 displayed units distinguish82915 Lobby plus10Mission,10829 corresponding25 and90082915 Lobby without Mission. Calling Momiji comrade/junior, allowing different tastes and wanting play are textual contributions to a peer relationship. Explicit tickling-stop language at Lobby15/30/45 has no supplied adult response or historical stop outcome. Mission/deadline claims, completion words, Buy praise and the seller smile remain written contexts; they cannot replace EVENT829's actual manuscript and criticism sequence or establish enacted commerce. Costume and permanent records provide different conditions without a proven chronological personality ladder (`BA:character_data:event_costume:1900917001:character:10075`)."
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "00e8684ffa379a4706ee365bffb6811c51709b5eb1b900e11d4e7cb59c172ed9",
+        "line_text": "Narration and inward text also stay at their specific warrants. E006's timed logs u30–44 and unusual anchoru62 are not heard dialogue simply because the writtenSpecial parallel fits Mel. E003's imagined motives do not become actual students' minds. GROUP2801's story is not Shigure's confession. E829's printed actor drift—including literal 모메지 and inward lines apparently answered—remains unresolved; content, local sequence and literal raw labels must be distinguished from a repaired registry. E852's collective gratitude, publisher-style Melu107 and adjacent actor seams similarly limit assigning each thought to a named speaker. No newly heard performance, acting intention, native screenplay validation or complete attribution repair is claimed here."
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "d792f8bb9adb191dddab73b4054b583e3b900af6385fe26a37baa7efa3fb052c",
+        "line_text": "Formal and informal self-description matter without becoming diagnosis. The trapped-sparrow, defeated-soldier and rehabilitation expressions describe making under difficulty; the faux court and yellow cards enact pressure through play rather than actual judicial authority. 姫木メル and the source-local publishing names are written identities. The allocated present typed home isCH0124/BA_PERSON_CH0124, variant10075; the dated A133Meru label remains unjoined. “Meru” in the allocation request came from ROOT's agent wording, not direct human naming authorization. No second person/package or native-name equivalence is invented. Japanese/Korean differences retain their exact accepted scopes, including E808 hiding/disposal; no general locale equivalence or performed voice is inferred."
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "add279a6ee207d809998dcbbda7d9fde4c397b432220fc90cd06b7e59550a22e",
+        "line_text": "## 10. Competing readings: seven accounts tested against concrete ends"
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "fd13293fd6d261e48ef465b555dbc7b072bfbe370f6ec67c8525efbf7ef08e8b",
+        "line_text": "**The inspired genius blocked only by circumstances.** The broken pen, material scarcity and institutional editorial demands strongly support an author's need for tools and freedom. Actual manuscript completion and meaningful reader response oppose a reading of empty pretension. Yet Mel herself revises unrealistic reference plans, needs Momiji, receives specific criticism and leaves printing or commissions unfinished. Constraints are real; they are not a complete explanation of every problem or a guarantee of artistic superiority. A stronger account treats skill as practiced and socially corrected without denying her wanted ownership of work (`BA:bond:10075:002/006`; `BA:event:829:007/015`; `BA:event:852:001/006`)."
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "80ac89b5d7fd48523035bc7d6e79360d9a5aad7cd3f8fed1c22265780e985b9e",
+        "line_text": "**The attention-seeker who uses making as a pretext.** Pressed portraits, yellow cards, embarrassment and wanted company give this interpretation genuine evidence. The fullMM270 explicitly rejects reducing her to that role while partly admitting company, and actual work, chosen gifts and publication responsibilities give positive evidence beyond the denial. The café dream and taste in fan works are intrinsic ends. Mixed motives are more defensible than either universal pretext or pure solitary vocation. Her request to leave alone also prevents every contact from being read as an unrestricted demand for proximity (`BA:bond:10075:005:s4u38–45/006`; `BA:event:834:107`)."
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "bc7278e54b2694c5d8654671ee129b8b7a630b58fc289f62876078d41820f8ab",
+        "line_text": "**The harmless fantasy maker whose comedy cannot injure.** Imagined plot alternatives, artistic joking and real amusement support comedy and experimentation. Actual unwanted arm pulls, portrait pressure, food consumption, overwork and appropriation claims are adverse evidence that cannot be absorbed into the register of a joke. Fictional intimacy remains fictional, but bodily objection and recipient cost remain actual. The absence of a diagnosis, conviction or permanent harm does not turn every method into agreeable play (`BA:bond:10075:002/003/005/006`; `BA:event:829:001/007–009/015`)."
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "c83fc6254976b781bebfcb71c3875b30b1c2f5012f50df573b13c865f84c1f2e",
+        "line_text": "**The inconsiderate roommate who never changes.** Food appropriation, argument, impatience and interrupted rest make this more than an invented hostile reading. It nevertheless fails to accommodate actual reading, careful critical distinctions, concern for Sensei's fatigue, self-acknowledged wish, apologies, corrected fan-count argument and delivered work. Momiji's eventual objection prevents permanent redemption, while their actual reconciliation prevents permanent estrangement. Change is demonstrated at particular acts and still tested by conduct at the ending (`BA:event:829:001/002/007–009/013/015`)."
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "29d9715950fc8177e020c12448165f4fca2350b2274dea8e77f63c818a750c54",
+        "line_text": "**The liberated artist whose success vindicates every demand.** Rejected censorship, local defeats of appropriation and actual reader purchases are achievements. The contrary ends include ongoing Yakumo demands, an unprinted settled ratio, involuntary meeting, unfulfilled food restitution and Momiji's independent labor objection. The completed manuscript differs from a completed print run, and a started commission differs from delivery. Success supplies neither universal authorization nor final institutional reform. A defensible liberation reading retains those outstanding responsibilities (`BA:event:829:010–015`; `BA:event:852:001/004/006`)."
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "74d1f41ccd07fc71dae506e3ac6a29faad99aae8d5a227f2bb9b0dc277966808",
+        "line_text": "**The artist whose value is wholly decided by markets or wholly untouched by readers.** Zero initial sales, harsh criticism, later purchases and an actual settlement explain why material reception matters. The work's wanted making, fanless-story correction, distinctive tastes and gift discussion refute price as an exhaustive value measure. Conversely, readers' independent pleasure, fans' actual making and Takane's critique refute a closed self-sufficient account in which reception is irrelevant. Mel's art has value as her activity and as an encounter with other judgments; those grounds need not coincide (`BA:event:829:005/009/015`; `BA:event:852:001–004`; `BA:event:834:107`)."
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "1486c16e6a02ed0eb55e677a1cc9b8387286bd746e3afb1bc33a927e59765e26",
+        "line_text": "**The romance/healing master story.** Wanted company, private embarrassment, thanks, inspiration and adult help are positive relationship evidence. Actual refusal, solitude, unknown pain, pressure, different recipient costs and unrealized future wishes are stronger limits than a generic romantic ending would allow. No completed reciprocal romantic agreement, clinical recovery or universal Sensei mechanism is supplied. Her specific relationships can be meaningful without that certification, and her world remains populated by a friend, critics, readers, publishers, material objects and her own standards (`BA:bond:10075:003/005/006`; `BA:event:829:008/015`; `BA:event:834:107/852`)."
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "bb2d990f8abae978759cc0ee523346e6ae0982adc914e0a6291890d7e41dd4d0",
+        "line_text": "## 11. Source boundary, original open gaps and completion disposition"
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "7dcc90eb32fb5b916fad8c6d827acffaceaed9149ca56fc3b5e1c6e7455e9956",
+        "line_text": "This is an adequate-argument literary synthesis within the existing required home, not new primary collection or self-acceptance. The complete accepted495-line RedWinter7 normal account represents the ten exact selected Mel responsibilities: BOND10075E002/003/005/006, wholeMMthreads100750010/120/160/270, written10075 profile/dialog and costume1900917001→10075. The full afterwords matter, particularly MM160 through100750360 andMM270370–490. Own complete analytical reception of that shared account is qualified and distinct from its producer's121-source reading claims. The fresh precise Mel section275–309 and metadata1–100 reuse rather than expand that source scope. Missing individual Mel directories in bounded filename checks supply no claim of missing global evidence or inadequate current admission."
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "aae8ca3fc9a17069c2743824aa65b5273849a9b0d7707ef1b23b2b61bfd2348e",
+        "line_text": "Complete adequate public arguments received at their actual scopes are GROUP2801–2802, EVENT808's100-line twelve-source comparison, EVENT829's160-line fifteen-object checkpoint, EVENT852's205-line ten-object checkpoint, EVENT834's268-line38-object checkpoint and specific Final100C002E00829-line reading. Gift834107 is one of the38, not a separate new primary. E808's “current13” is a historical meaning/lineage authority label, expressly not thirteen source objects. GROUP1301–1303, E802 andE839 are personally complete regional comparands; no Mel appearance is inferred from school, shared actors or filenames. MINI, E80000 andE80001 navigation did not positively establish a new Mel narrative duty here. A keyword negative is not proof of global absence. Current admitted small class routes, adequate normal owners and the source admission quartet govern claims."
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "29fa2da9dffa053a1941cde4eefd81e7162b1644e6a566d15d38ae677cbdbabf",
+        "line_text": "Current Cycle008 qualified adoption supersedes earlier producer formalUNADMITTED, unapplied and incomplete-status statements inside these arguments; those statements remain historical rather than being deleted. Analytical file equality against main2e/c1/dated732, when verified, binds unchanged arguments but grants no fresh prose, raw, native, QA or performed credit. PinnedJapanese sourcea038020f1f5ac02dcfe76962426d38f86414cdd8/generationBA_REFRESH_20260928T032248159554Z/gamev1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1/parser0.2.0 remains separate from Git publication and mutable package navigation. Exposure/order/independence is UNKNOWN where undeclared; FIRST/SECOND remains unassigned; performed voice and visual/AV evidence are unreceived. All nineUNBOUND and preserved_phase2_work bodies remain unopened/unhashed."
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "3b6e92a3f6a7448ed8324dbfd9d7aa849963e42abb574307e2bae063d8130084",
+        "line_text": "| Original stable gap | Mel's contribution and remaining warrant; status OPEN |"
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+        "line_text": "|---|---|"
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "49adc75536304396e7a3767973f02399c702eee01a31d3adb83f1e77082d4453",
+        "line_text": "| G01 Ordinary and private breadth | Ten whole private responsibilities plus tools, fandom, taste, solitude, gifts and actual making substantially broaden ordinary evidence. Claims about all future wants, all work or the fullcast remain unestablished. OPEN. |"
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "7303541d1de2c03b28878f0424cce3fae1726d404f9b8f711f42b721c12430b4",
+        "line_text": "| G02 Yuuka council/club decision transfer | Mel's rejected imposed edits and differentiated bargains offer comparison questions; they do not establish Yuuka's authority transfer, membership decisions or outcomes. OPEN. |"
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "e53713ab6986ba708ce3efd20b40136d337f60c2768c81860ff77669e6565564",
+        "line_text": "| G03 Serika service, peer and reciprocity range | Actual giving/reading and disputed assistance offer concrete comparative distinctions; no Mel analogy completes Serika's recipient/service scope. OPEN. |"
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "17c7691301d30c3b680ce47ba2bdbb39d2711d25f84676eaaae6d9ce09a13368",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Overwork, hunger and local institutional conflict do not fill Hina's causes, accountability or ordinary contrast evidence. OPEN. |"
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "2dfa22ee48a25d6126984aef0cca1721465d395f37c5357dc85e2fcada403beb",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | Food, private taste, editorial pressure and unfinished work remain intrinsically meaningful; E834's other public/gift meanings are not automatic Mel appearances or closure of Arius/PS68 duties. OPEN. |"
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "e4fad98fcf4e04a430a8d77fef8d84464dec82c07430c941924412b7fb60593b",
+        "line_text": "| G06 Cross-school ordinary repertoire | Public readers, critics, fans and material tastes broaden actual ordinary intersections. No named school attendance, membership or full reciprocal repertoire is inferred from cooccurrence. OPEN. |"
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "3ec27e7b5b860064f459782a86ef057560af5619cb6fc70fc94ebc8bf96df015",
+        "line_text": "| G07 Story-world chronology | E003→E005 and the local four-day production sequence have explicit links; E852 sales are not certified as Luna's later career, and release/variant/raw IDs do not date MAIN. OPEN. |"
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "b61b06831f1ff2b438aae0ee31b2160b27500a4e4711df11d0b1bd5b8db13776",
+        "line_text": "| G08 Event naming and repeat contexts | ExactE808/E829/E834107/E852/Final routes and blank-title endings are retained. Repeated libraries, portraits or manuscript words do not merge separate events or establish a reprint history. OPEN. |"
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "1da047244606f5c174bf037fb1d61f01247276bc4d36e22b12626770843724da",
+        "line_text": "| G09 Written speaker/choice attribution | Fiction, inward fields, narration, alternatives and actor seams remain distinct; 모메지, out-of-order locators and publisher-style Melu107 are not repaired into universal speaker certainty. OPEN. |"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "a71d608ae18dd17dfc21d2a3996c207930444d1cbb23e6cd22bf5acf07764d77",
+        "line_text": "| G10 Performed voice | Written register, addresses and metaphors received; no acting, sound, pacing, audio or AV reception. OPEN. |"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "4aca0b7e0b928c38ed48360c1556ff6f495d2a06951a24bd7ec76a5d92d5a49c",
+        "line_text": "| G11 Hoshino's Yume record and office states | Final's comic plans and uncertain shelter do not adjudicate Hoshino/Yume causality, recollection or office states. OPEN. |"
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "329f210c35fec2f647edd310e004388f09fd8ba1856eb31f3b4855d97e5513e2",
+        "line_text": "| G12 Counterpart, system and variant identity | LiteralCH0124/BA_PERSON_CH0124,10075,1900917001 and handleメルリー retained; datedA133Meru remains unjoined, no new person/package or costume chronology. OPEN. |"
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "7606284e645611d5386daac142d456f8ed0190477299e4113c9cf0758b8854ec",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | Actual manuscript delivery, purchase, settlement and begun work coexist with uninspected legal terms, unsettled ratio, overwork, hunger and unprinted cures/printing/restitution. No safety, legal or technical certification. OPEN. |"
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "0b617647742aafe2702815c5994ce1271fce2c72abc17a39aa6c01c6541004ff",
+        "line_text": "| G14 Unclassified/mode continuity | Admitted BOND/fullMM/written/GROUP/event/MAIN arguments remain separate modes; no unclassified intake or source-mode join is performed. OPEN. |"
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "fde3cb011c0bf99fe029a81828869f959133ef703d5cfc6db1feacd63e247f58",
+        "line_text": "No mandatory primary recovery remains for the bounded claims actually made. Stronger statements about wholeLuna quality, peer intimate biographies, exact income, legal ratio/enforcement, durable livelihood, medical recovery, unrestricted bodily consent, reciprocal romance, finished commissions/printing/film, completed restitution, restored shelters, repaired actors, native provenance or performance would require additional specific warrants and are unasserted. The saved full argument and exact receiving/freeze receipts are prepared for independent ROOT review. This author does not grant literary acceptance, canonical adoption, new home/denominator entries, publication, merge or milestone credit. The distinct required Mel–Momiji directed synthesis, library/club/publishing/institution/Sensei/register responsibilities and the remaining fullcast355/29 work remain mandatory separate work. Completing this bounded character argument does not complete those packages."
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          7,
+          7
+        ],
+        "canonical_lines": [
+          7,
+          7
+        ],
+        "frozen_text": [
+          "status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          27,
+          27
+        ],
+        "canonical_lines": [
+          27,
+          35
+        ],
+        "frozen_text": [
+          "publication_acceptance_and_count: ROOT_ONLY_PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_publication_acceptance_and_count: ROOT_ONLY_PENDING",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MEL_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MEL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          31,
+          30
+        ],
+        "canonical_lines": [
+          39,
+          40
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded character responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MEL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MEL_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,18 section-parent allocations,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Character Monographs home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "original_transports": [
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MEL_CHARACTER_MONOGRAPH.md",
+      "bytes": 42624,
+      "sha256": "6fe9cd61922f31d3ae2bb595dba6dd403ca57e98169b8ea67aa7a5b8618e5d5b",
+      "git_blob_oid_of_actual_bytes": "3562c75e5869842b4e328a1b8500acefcbb063ea",
+      "lines": 161,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MEL_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MEL_CHARACTER_MONOGRAPH.md",
+      "bytes": 42624,
+      "sha256": "6fe9cd61922f31d3ae2bb595dba6dd403ca57e98169b8ea67aa7a5b8618e5d5b",
+      "git_blob_oid_of_actual_bytes": "3562c75e5869842b4e328a1b8500acefcbb063ea",
+      "lines": 161,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_MEL_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/MEL_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 112813,
+      "sha256": "9b7b67cedbee762d29f11add827aa4fa31ef06679ecdc13860255f9ebbf6d39a",
+      "git_blob_oid_of_actual_bytes": "ab63c73ff6f1ebe336ac876dd940d040e7051073",
+      "lines": 2255,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/MEL_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/MEL_FROZEN_OUTPUT_MANIFEST.json",
+      "bytes": 2568,
+      "sha256": "918da7aa882a165c7ae8a1ff3eed9d2d9a1fe4587ea7beff8659a5801bceafc7",
+      "git_blob_oid_of_actual_bytes": "3ab2062bda32dd3524f7e5d743209ab66f3619e3",
+      "lines": 52,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/MEL_FROZEN_OUTPUT_MANIFEST.json"
+    },
+    {
+      "path": "ROOT_MEL_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5963,
+      "sha256": "59492d071a155f337e52f084ffba2627022edef72f952f5e9a66c288c60e10f5",
+      "git_blob_oid_of_actual_bytes": "25675b2d2507f8014be313c6386e4979573aa238",
+      "lines": 71,
+      "immutable_transport_path": "immutable_originals/ROOT_MEL_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/MEL_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 7613,
+      "sha256": "1ab8a74b92eb3f1785e37d2864278b2f069c9faaa57ef43c61c2eb65a662c2db",
+      "git_blob_oid_of_actual_bytes": "e592745397ff04dcf8de7c551dd31c85d7f51da2",
+      "lines": 37,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/MEL_MONOGRAPH_RECEIVING_RECEIPT.md"
+    },
+    {
+      "path": "RED_WINTER_CHARACTER_MONOGRAPHS/MEL_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 6460,
+      "sha256": "7019fff8c39731bd941de7850600a945e1320bfa93230c34701fbdb2e51b6734",
+      "git_blob_oid_of_actual_bytes": "fc8ea0ebf33c409e94499d5fcf8792ddc150eb46",
+      "lines": 117,
+      "immutable_transport_path": "immutable_originals/RED_WINTER_CHARACTER_MONOGRAPHS/MEL_CURRENT_WORKTREE_METADATA_PROBE.json"
+    }
+  ],
+  "mandatory_canonical_qualifications": [],
+  "canonical_link_only_translations": [],
+  "new_primary_performance_independent_model_scope_or_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

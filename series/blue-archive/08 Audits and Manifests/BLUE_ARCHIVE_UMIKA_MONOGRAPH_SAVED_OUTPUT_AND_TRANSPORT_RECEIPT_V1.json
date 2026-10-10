@@ -1,0 +1,2289 @@
+{
+  "schema": "BLUE_ARCHIVE_UMIKA_FULL_REVERSIBLE_SAVED_TRANSPORT_V1",
+  "status": "C_ONLY_PROPOSED_CANONICAL_DERIVATIVE_ROOT_REVIEW_INSTALLATION_PENDING",
+  "full_frozen_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 39767,
+      "sha256": "f58f3688785308ad8157262285ab46590233ef75aaac8a0e853c8152564d3465",
+      "git_blob_oid_of_actual_bytes": "3931276c8f68895fc930574caf3a4627c900d8dc",
+      "lines": 169,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 42036,
+      "sha256": "81af4f3dfcdf8a5a76719ecae548cd2359de14c749b892115106339232a57e54",
+      "git_blob_oid_of_actual_bytes": "5efc58aea7fb2604cf821917723e18247aeeb9d3",
+      "lines": 179
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "abf6eb03819d8cdc66762528a3246eef0970ad05834cf7bf074daca1da758d4b",
+        "line_text": "classification: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "b040a034a0c39c7fd51d765a3b3e7ce23a6cc374f8ddb31b596d48d317da6543",
+        "line_text": "architecture: \"1.12, section7.1 eleven required dimensions\""
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9",
+        "line_text": "method: \"1.10\""
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "5277cd6460e293851124966fafa9139d962a9651815a89b4fe89e53b377499b4",
+        "line_text": "required_home: P3-CHAR-UMIKA"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "331e8fd4e578dc84eb10661d3bc9648c287fd8ed097ceb2966f1c9bda6e487dc",
+        "line_text": "candidate_responsibility: P3-F037"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "a259edbbd3255c7a146ab04b5c420d76609c04c8461549c0f9cbff3db4dd29de",
+        "line_text": "literal_identity: BA_PERSON_CH0110"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "90141c0add89d0fee3a3207c1d436417439455b7cb9cba53a47ef7925ad5457d",
+        "line_text": "family: CH0110"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "d8518d1dd2c629ae0b190b8111d4abd6c14c2c988e71db42d75580bfb676d42b",
+        "line_text": "display_subject: Umika"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "792a88310f7180af62ab75c08916568adf58c293c078c322fa6058acfe360d8a",
+        "line_text": "variants: [10090]"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "73df31628b0c803b10d6ee474e3dacfdf5cee982467790231e4ffaccbeb79c50",
+        "line_text": "costumes: [1900924101]"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "06de00c6cd60daa58732ef0b7c6e50ab66fb95b44546d625e6fc98d34b98fcc2",
+        "line_text": "dated_navigation_witness: cf2fba61c9e8448acdd2677f06d5258c051a6ba4"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "46b4a1084a10780516af311ffaf9db987e5ad1063fb62ad06bd1db031562234b",
+        "line_text": "game: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "7f883d04131c2ceb93c813788d8346734ce228b11188765b294eb7669400a5a9",
+        "line_text": "parser: \"0.2.0\""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "e6f33de1cdbede5423ceaefc027dc3d4bb6a2102a30db1186fc5f7b559b2d2d9",
+        "line_text": "source_boundary: \"Twelve CH0110 private/written responsibilities in one wholly received adequate51-object Festival argument; complete accepted public meanings and specifically declared scopes; zero fresh primary/native/raw/QA/AV.\""
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "70cbfb274f76de9261e3db6189cbacb16a9890e44b0509e2b0026ea686d22e03",
+        "line_text": "authority_quartet: \"Current Cycle008 admission; own adequate analytical argument receiving; undeclared historical exposure/order/independence UNKNOWN; performed voice unreceived\""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 24,
+        "line_sha256": "1c8e5e32ae1d62fb5761e8c9da845a95a8072410874a22a22d82c7602bed0134",
+        "line_text": "retrospective: true"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 25,
+        "line_sha256": "9c96af10047187817acdbfcc409256b832cc1e1bec7ab02061ed095056b5e2bb",
+        "line_text": "all_original_fourteen_gaps: OPEN"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 26,
+        "line_sha256": "a650fa20652cdc365b4f6513e78c5849bf75aebef8bf1d57b62029393a6e0727",
+        "line_text": "reconstruction_model_credit: NONE"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 36,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 38,
+        "line_sha256": "51ddf7217176d76aded72691ca1f38d899b12fd5eaa6b2aec7be091a0a2e9ad0",
+        "line_text": "# Umika: making room for celebration without mastering its recipients"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "de2fca0ca3e25887d4631cb75770d55f2f4f2d75909f051017e44d2581b00ba3",
+        "line_text": "## 1. Core thesis and the limits of a festival identity"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "eca7882fe42c91e9bf6db078018899384f2801da85343d01980b4deaaf0d7a44",
+        "line_text": "Umika makes celebration a way of paying attention. She notices preparations, saves objects, revises a personal ranking, wants other people to enjoy themselves, and gives a familiar person something deliberately made for him. These pursuits have value before they produce business success or avert a crisis. Her private café rest, the anticipation of a parade, and the pleasure of preparing a small festival cannot be treated as preliminary illustrations of a more important heroic function. The same sources also show that wanting a festival is insufficient to know what a visitor wants, to control a timetable, or to guarantee safety. Her characteristic tension is between expansive invitation and the particular people, materials and limits that invitation must accommodate."
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "e3dec1857c84978d67eec352cb05b2a125406e5fb6d776603b2d8ecbedd90a1f",
+        "line_text": "The strongest bounded thesis is therefore that Umika tries to make meaningful occasions for others while learning, locally and imperfectly, that the meaning she supplies is not the same as the reception they give. She can become carried away, overwhelm guests with hospitality, misidentify the right time to move fireworks, and ask for a boundary that Sensei does not neatly honor. She also accepts corrections, explains her own reasons, chooses to continue work, requests help, and actually shares a quiet fireworks viewing. None of those acts makes her an infallible organizer. Conversely, her failures do not render her delight, craft or achieved company an empty joke. The evidence supports different combinations in different scenes, rather than a single deficiency that defines the whole person."
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "2ceead63c14a2e8b7e2825d3b35b6b49eb297a05ee4e18aa04628e5c0b00a881",
+        "line_text": "The monograph retains literal `BA_PERSON_CH0110`, family `CH0110`, ordinary variant10090 and the written costume join1900924101→10090. A display name does not authorize a replacement registry identity. Its private foundation is the complete maintained Festival account: five BOND episodes, five whole linked MomoTalk threads and two written character-data objects, twelve responsibilities. Shared Shizuko20 and Fina19 arguments provide independent comparison within that adequate51-object analytical owner; they do not become Umika appearances or new primary reading. Public claims use the complete received GROUP2301–2302, EVENT835/847, exact MAIN arguments, Final's small defense argument, and the complete EVENT80000 gift account. Other event comparisons remain qualified contexts where no specific Umika act is printed."
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "ba311b9542ac487789bd292afcb6bcb4a0bdcf9651b3eabf8e09be92c786d9e5",
+        "line_text": "## 2. Longitudinal development: local revision and achieved occasions"
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "e724cf0dd5d648042a2d8587439ad55c5b03ffa6b7680012c6d17a57cdb4abee",
+        "line_text": "The private sequence offers a succession of locally meaningful occasions, not a calendar assembled from release order. In `BA:bond:10090:002` and whole `BA:momotalk:10090:thread:100900010` (messages10–110), Umika's changed ranking is her own judgment. She thanks Sensei's adult perspective before the relevant thought has been spoken, preserving the account's inward-response seam rather than creating an unprinted lecture that made her opinion. Her princess, lantern, bribe and contract explanations remain her guide's reports, not verified festival history or law. An actual parade and enjoyable walk occur. Food, coupons and further attractions expand what she wants; the account does not turn every offer into consumption. The organizer's request for a new doll and her admission that she is not a theme-park expert complicate a picture of complete expertise even in this enthusiastic outing."
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "e95aed0b34ada305b0ef832d6ac53a190394d19703271654dba981ade18ce110",
+        "line_text": "The café encounter changes the scale. `BA:bond:10090:003` with whole thread100900090 (messages120–220) lets a quiet day and relief for tired feet count as a successful occasion. Less-sweet and sweetest selections are alternatives. A report that the shop has slow days is not a completed business failure. Her childhood account of a rare annual festival and months of preparation explains why materials and anticipation matter to her without establishing an exact birthplace or date. Criticism makes her question whether she has become carried away and concealed another person's inconvenience. Sensei's available reassurance is a reply within that encounter; it does not erase her contrary concern. Relief is achieved there, while school, tests, work and a future Marimo obligation remain unfinished plans."
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "bbbfe200e32a8d3560e9c3cde98ab4a75f298cc0ab92f979de5b1d780a1f0519",
+        "line_text": "In `BA:bond:10090:005` and whole thread100900170 (messages230–280), she is neither only passive before a troublesome troupe nor wholly correct in her response. The troupe's disruption and prepayment create a real problem. Her rapid seating, offers of tea and towels, and repeated menu information can overwhelm; an apology follows. A comment that the food is delicious does not certify universal hospitality. The later private worry that she may have been excessively harsh survives the troupe's own conduct. Their knowledge of materials three days ahead also defeats perfect secrecy. At the ending, her request to forget the embarrassing episode or avoid discussing it meets a further question from Sensei and an evasive answer. The whole thread is important: the source has not completed an effortless mutual understanding of that boundary."
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "85fd5135b78d3ddff3d384f7ff6c1cc05bb0565d0d8688b9f884333b0a56a9e4",
+        "line_text": "`BA:bond:10090:006` and whole thread100900230 (messages290–410) achieve something different: Umika actually prepares a private festival. It is not a mere invitation at the beginning of a message thread. Saying that she invited nobody does not mean that no one knew anything, given the earlier troupe information. She offers food, games, photographs and a place to sit; the account distinguishes prepared menu items from eating and photographic invitations from pictures actually taken. Her enjoyment of preparation is explicit. The culminating seating and shared fireworks viewing are accomplished local company, not an exclusive romance or a technical inspection. The desire that this become a valued memory extends beyond the measurable ending, while the ending itself already contains real pleasure."
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "6383e13d3e7d2321397224aaf67ffb5908eaa416f60316af91ce4b1074c09be3",
+        "line_text": "The late `BA:bond:10090:015` and whole thread100900330 (messages420–550) return to her as a watcher of someone else's preparations. A new local festival contradicts a literal reading of total festival knowledge. Impulsive purchases and their later burden coexist with the value she gives their memories. The first doll's identity and her reason for choosing it remain uncertain; the vendor and a supposedly matching pair do not reveal a marriage or fixed relational destiny. Work is actually completed and she leaves. The complete thread proceeds beyond its launch to thanks, a question, and an entrustment request at message550: keeping it if the recipient likes it is not printed acceptance or lifelong keeping. These finite endings establish a person who achieves some occasions and leaves other relations, requests and meanings open."
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "eb46d29b859772fdc7dd9a95efea08f517f1e228a35b609f596a08bcf4f8244e",
+        "line_text": "Public EVENT835 gives the strongest large-scale local development. Umika chooses the first major assignment after refusal is permitted, designs and measures outfits while declining to wear one herself, enjoys another school's visitors, and encounters delays and interference. Her early fireworks movement is an actual error. Under mounting trouble she does not simply receive the adult's solution: she chooses to finish and asks for help (`BA:event:835:015`,u89–94). Firefighting and cooperation lead to a resumed ceremony; the trip safely ends. Shizuko later credits the achievement to Umika, while objecting that another festival is too soon. That recognition and objection belong together. The event supports a completed local attempt and help-seeking, not a durable state edge from helpless novice to flawless president."
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "28c63155d34858c162f9e1d968ddd22831de968968e257eebe2a130f0d6d30e8",
+        "line_text": "## 3. Public and private presentation: fluency, hesitation and wanted quiet"
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "6506e7a4b4547473ed60898e4b1fe75cb86ca6b2411adba71f78abbc47aa08e2",
+        "line_text": "Umika's public fluency makes festivals look continuously available. She explains attractions, offers hospitality, presents ambitious plans and brings substantial preparation to an occasion. Inward doubt, private hesitation and remembered criticism qualify that performance. They are not evidence that her public enthusiasm is false. They show that enjoyment and uncertainty can coexist, and that a person able to talk at length about a festival may find it harder to say what a particular gift or invitation means. The complete private account preserves her own appraisals and the adult's printed inward clauses as distinct modes; an apparently responsive next line does not make those thoughts audible conversation."
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "f91372abbd2edc85bb9537d5ba386a04a379b259c75eca3b73928003e5fbcb0b",
+        "line_text": "Her first major assignment in EVENT835 is especially useful against a simplistic public/private division. Fear appears within work, alongside an explicit chance to refuse and her own decision to participate (E002,u25–34). The outfit discussion preserves a personal refusal: she supplies design and measurements but is embarrassed at wearing the proposed clothes, and the customary division with Shizuko is part of her explanation (E003,u52–57). Fina and Kaede can enjoy the same idea without authorizing it for Umika. That preference is more specific than a claim that she is always timid, and more consequential than reducing the refusal to a comic delay before universal compliance."
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "ae32a75e42a0bacd4abfa49186bac3c1b1c2fdd12b5ca1a6c7d4ae83d0e683bf",
+        "line_text": "The private café rest and prepared festival also resist an all-public portrait. She wants help to feel unburdensome, but she does not want every moment to become an official spectacle. A person who collects pamphlets and goods can enjoy quiet looking, particular sweetness, sitting beside someone and anticipation itself. In BOND006, preparation gives her pleasure before the visitor provides praise. In BOND015, objects retain remembered occasions even when buying them was impulsive. The public management aspiration and these quieter wants have a common concern with making or keeping meaningful time; neither should replace the other."
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "19fb54cf0b60e6b61ba00217a429138367499a10a637a10bbea7d01c3dfa361b",
+        "line_text": "The EVENT80000 gift deliberately crosses the scales. Umika begins with streets full of chocolate and other people's happiness, revises an extravagant chocolate-fireworks proposal under doubt, and ends with a miniature mikoshi for one recipient (`BA:event:80000:117`,u1–11/u27–66). Private broken clauses contrast with fluent ideas. She credits Shizuko's commercial insight before aspiring to become a businessperson capable of a Kivotos-wide festival. Gratitude is therefore not an admission that Sensei created all her aims. She uses a craft she values to say something particular about his care, while conceding that her preferred order of eating may lack objective significance."
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "269c8ff28280d2e53ff977e71fb51a6c9208727fd7f27c41072f046eb8529e1e",
+        "line_text": "## 4. School, committee and work: participation without institutional mastery"
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "937db2996478143c79c8b83592c5dd680a4fa548fc6c057db1433fdfba6e0668",
+        "line_text": "The Festival Committee provides people, practical tasks and recognizable divisions of labor, rather than proof that any one member embodies Hyakkiyako. GROUP2301–2302 contains serious procurement and budget discussion as well as wanted holiday fun. The bento's attractive appearance and desired card packs matter before their utility is assessed. Umika's research absence in GROUP2301 is mention-only; it cannot count as her speaking or assenting in that meeting. In GROUP2302, her momentary president/chair correction does not authenticate a legal office change. The two shopping-street commissions retain different literal names. The later discussion is locally connected, but those names are not silently normalized into one place or contract."
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "37f77620ab5889170d41867c5765d6668b10e44d4c5c44c6571b6e9cafe1923b",
+        "line_text": "Umika's attraction to the quiet willow proposal and Fina's romantic appraisal give the committee something besides danger or revenue to consider. Shizuko's objections to a giant model include budget, injury and cleaning costs. Those costs are legitimate contrary evidence to enthusiasm, not a hostile suppression of every interesting idea. Work begins at the ending of GROUP2302; the source does not show the imagined festival performed. Reports about a paid Helmet arrangement and circulating rumors do not make every named or rumored actor a participant, nor validate the alleged origin as history. A workable institutional reading preserves deliberation and refusal without promoting them into a fully audited contract process."
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "445348e8e3c5651dadb280d6d49cdfbfe99ec99a1eed94891322ad1e0fd766ef",
+        "line_text": "MAIN `BA:main:005:002:003` adds a quieter institutional role. Umika and Shizuko actually visit to thank the Hyakka students; recurring trouble is described as history. Kikyou distinguishes private enforcement from their function while the group accepts food. Actual chestnut-cream dumpling tasting and peer discussion occur, and Umika thanks the support with food at u51. Her inadvertent reference to Ayame meets Nagusa's hope that she will return; the hope is not a verified future endpoint. Staffing shortage and material collection lead to the Hyakka students beginning sandbag labor, not completing the wall. Thus courtesy and help happen across a role boundary that remains explicit. The generic committee workers in MAIN005C001E003 are not joined to Umika merely by occupation."
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "537d4512e439b9e25bf0a688835d092e1f3e90e120dd0595483460f1a205069d",
+        "line_text": "The EVENT835 assignment shows real organizing labor: designs, contact exchanges, supplies, timing, distress and recovery. Her self-blame cannot monopolize the causes. A troupe's admitted sabotage, other visitors' disruptions and an adult's decisions belong in the account. Shizuko's later recognition of Umika's achievement is meaningful testimony from a peer with experience and costs; it is not a business credential, an office promotion or a declaration that all later work will succeed. EVENT80000 likewise makes the management aspiration explicit while leaving its mastery unperformed. School, work and pleasure support one another here, but no school-wide institutional reform is established."
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "102cf89469a9cc966006f0de82a58bdad0fc02f9132ecef746911ac62fcb38b8",
+        "line_text": "## 5. Ordinary pleasure, collecting, taste and wanted futures"
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "029713a99f09b0d428c5dd217f17c4f9782768c22ce3980f77bc0ad4b085d11d",
+        "line_text": "Umika's festival interest is expansive enough to include other people's happiness, quiet preparation and souvenirs with uncertain meaning. BOND002 shows an actual parade and enjoyable walk; BOND003 shows tired feet relieved and café time received; BOND006 shows the prepared small festival and fireworks actually watched together. These are positive endpoints with their own value. They need no redemption through a later crisis. Nor should their value require all suggested food to be eaten, all photographs to be taken, or all future memories to be confirmed. A source-bounded account can give full weight to modest accomplished pleasure while preserving the exact limit of accomplishment."
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "d06878c70e6ff45c3373e5ca852b539f0bc40f122c434458a66b6f36d89f2cdb",
+        "line_text": "Collecting is neither mere proof of commercial manipulation nor an infallible archive of the self. In BOND015 she recognizes impulsive purchases as a problem and gives objects memory value. The unknown first doll and uncertain matching significance prevent a decoder-like reading in which every item transparently expresses a fixed bond. The message request to keep it if liked allows the recipient's preference to matter. No reply completing acceptance is printed. The source can therefore stage generous entrustment and unresolved reception at once. The late coda matters as much as the object's appearance because it defines what she has actually asked and what remains unwarranted."
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "b4594b2a1b6fa9240aec558cea4897f3a3539845b998dcc7f6961bde6ac8b0f8",
+        "line_text": "Written character10090 adds pamphlets, goods, visual appreciation, preparation and many greetings. Its café hesitation about a kimono/bunny-girl idea is not the committee's consent to a costume. Lobby descriptions of too much work or preparation can be compared with the private accounts without becoming an objective workload survey. Statements that a birthday or every day is a festival are expressive ways to value occasions, not a calendar. Costume1900924101 and event835/10835/900835 shop/lobby records keep distinct source modes; blank event fields, sales talk and invitations do not generate new performed trips or completed purchases."
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "1ddb11ad9d6c38e3c0e417b6fee352bdb5bf56381aeb119817436133dab0bf1b",
+        "line_text": "EVENT80000:117 makes ordinary craft and vocation compatible. She credits the president's seasonal success and wants greater business competence so that she can bring a festival to all Kivotos (u14–26). That future is intrinsic, ambitious and unfinished. The miniature mikoshi is a particular gift already presented; the inner chocolate's priority is her chosen significance, which she expressly admits may have no objective force (u36–60). Tea preparation closes the encounter. The analytical source does not certify that every proposed item was eaten or that the recipient adopted her deity analogy. Real gratitude and an offered atmosphere can matter without reciprocal romance, formal worship or an empirical theory of flavor."
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "5866e437d1388f564688096b2b59aa51a4fe48b38862be1af6ce4cfbeaa4f1d9",
+        "line_text": "Her ordinary wants include company she can help prepare, admiration of celebrations she did not make, rest, learning and being treated as someone whose efforts count. Public errors do not make those wants frivolous. Conversely, appreciation should not become an entitlement to the adult's time or the visitor's agreement. BOND005's unresolved request not to discuss the episode and EVENT835's refusal to wear an outfit give the ordinary life its own boundaries. They distinguish desired closeness from automatic permission."
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "1333e567dcc1a27f7bcec73734219a6bc5bbbf8683f4831543b3458ffb318e00",
+        "line_text": "## 6. Crisis action, error and distributed responsibility"
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "e57f5ff402dbadf6622a0cc8d8d59114c8889046688b4d49142a4a8c0accfa8a",
+        "line_text": "The event's risk must be read through what actually happens rather than through a generic cheerful organizer label. EVENT835 includes slides, guns, bombs, falls and delay; guests and guides intervene, while some claims about causes and safety remain reports or hypotheses. Umika's visitors and contacts enjoy parts of the day, but enjoyment does not certify all attractions. Ibuki's pleasure can coexist with an unsafe attraction and unvalidated hypnosis. A licensed-product refusal is a limit; a vanished stall is not a documented capture or licensing settlement. Those distinctions keep recipient costs within the same story as wanted celebration."
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "c26e6381ea2e6832694103b25a279984595cce9075b85b3554e29f984efb938b",
+        "line_text": "The fireworks sequence decisively complicates Umika's competence. She moves them early (E012,u20–24); Fina's later assumption that she must be delayed fails. An assumption that a small fire cannot launch them is undermined by the ensuing ignition. The fighting and heat lead to a real launch, with threats to buildings. The complete accepted argument does not authenticate a unique bullet or one person as the sole ignition cause. Umika's sense of total blame is therefore a state in the scene, not the final causal verdict. Her error remains an error even when others create conditions she did not control, while the distributed causes prevent condemnation from eliminating their agency."
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "703580ad2a87983487252f04d7ed0523a7a6173b4f0c947585824b152d97666e",
+        "line_text": "At the consequential ending she chooses to finish and requests help, not because the damage becomes unreal but because the occasion remains worth completing. Erika and Kirara translate the work into a firefighting and shrine-maiden rescue framework; Kirara's claim that the crisis was planned conceals real risk. Fina, Kaede and Tsubaki use water extinguishers. Umika asks the troupe, and Arata helps. Chinatsu's report that the fire has been extinguished is not a complete structural inspection. The ceremony actually resumes with Chise's poem; cleanup imposed on others is neither rehabilitation nor evidence that every dispute has been settled. The trip's safe ending is a finite narrative result, not a proof of zero costs."
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "508c7f26120043aaa460c6bd308e186c59aed1ddfb7dd0eaf7873b9e4fdb7964",
+        "line_text": "Other public contexts support narrower distinctions. MAIN005C002E023 includes Umika staying after a prior fainting report, as Kaho admits danger and permits withdrawal. A local choice to help does not prove invulnerability or universal consent for the crowd. The observed local effect on the book is distinct from a permanent ritual law, especially because the later chapter checkpoint preserves Niya's withdrawal of an ancient-festival explanation as bluff. Final MAIN100C002E010 launches defense with Fina, Tsubaki, Chise and the troupe, while Shizuko reports readiness and Umika expresses enthusiasm. Launch and volunteered labor are actual contributions; the small argument does not supply a completed enemy outcome or certify protection of every person."
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "340eb1cb66fba11adfcd2e45c5b8792a4de7ee08c8e39372fe705e9948143901",
+        "line_text": "EVENT847's aftermath places ordinary help beside severe venue damage. The venue explodes and sinks, while an all-well framing belongs to a speaker's interpretation rather than an injury or compensation audit. Umika thanks cleanup help; peers' reported completion is not an inspected restoration. Those accounts can broaden her material and social responsibilities without making her the cause of every device or participant's choice. In particular, a denied bomb-installation suggestion is not a completed act attributable to a shop operator, and literal speaker/function seams remain qualified. The evidence permits participation, thanks and certain finite endings; the larger repair and accountability questions stay open."
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "cbcd2b0dcebe60f58c80861a0a483152e5f0e82960790f8430a4ce813cfdd771",
+        "line_text": "## 7. Sensei: particular support, choices and imperfect boundaries"
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "2b7cce331da85e061c101bd699aaa4f21e20b717f890a31246f743fdd4f8fe24",
+        "line_text": "Sensei helps Umika consider inconveniences and practical possibilities, receives her hospitality and gratitude, and sometimes provides company. The adult does not invent her festival ranking, childhood value, pleasure in preparation or business ambition. BOND002's inward adult observation and Umika's apparently responsive thanks preserve a written seam. BOND003 offers reassurance amid her fear of being a nuisance; the alternative café orders and the reassurance do not certify universal absence of burden. Giving the adult credit for everything would erase the child's prior craft and appraisals; refusing any credit would erase actual company and local help."
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "263a6cbb757236c2e02eaaf126f812f5346dfaab13bf286291e23e8a8cc10e51",
+        "line_text": "The private festival supplies one achieved direction of reciprocity. She prepares something for the adult, enjoys the work and asks him to sit; sitting and shared fireworks viewing occur. The adult's appreciation is partly printed inward, so it should not all become praise she hears. Memory wishes and invitations remain separate from that completed time. BOND015's entrustment also allows a conditional recipient preference: keeping a doll if liked is not proof that he accepted or that it occupies a later room. Her giving matters without requiring a total future fulfilled by Sensei."
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "f9ca82f36da3c4fec5a323dac87a3f2ca8bb47fc0ce7cdcf0f4519f127df3db3",
+        "line_text": "EVENT80000:117 compares the adult's care to a deity watching over festival participants. The analogy is Umika's meaning, offered through a mikoshi-shaped gift; it is not formal worship, a new institution or a compelled belief. She admits that inner-chocolate-first may have no objective significance. Choice006/007 permit encouragement or qualification, and choice010 permits different forms of thanks. These alternatives do not coexist as maximal affirmation. Sensei's printed inward recognition at u36 remains inward despite the next line's responsiveness. Her embarrassment and tea preparation support affectionate coding without an exclusive motive or reciprocal romance. The public fluency/private hesitation and the concession make the gift a personal invitation, rather than a law of how support must be returned."
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "a123e776031a7487b6a895b751ccd0aaab62ac7d622d353b11b90b1be7f69a35",
+        "line_text": "## 8. Peers, recipients and relationships beyond the adult"
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "2d76da852c4870f35cf523a5e18803a9a91dfdb4d048a45e21d338cd58d1ed60",
+        "line_text": "Shizuko supplies an experienced standard that Umika neither simply rejects nor mechanically reproduces. The private aspiration to a Shizuko-led division and the admitted commercial mentorship matter alongside current material shortages, committee budgets and recognition. EVENT835 gives Shizuko a delayed return and a real response: Umika succeeded, yet announcing another festival is too soon. The praise is neither revoked by the objection nor an instruction to exhaust everyone immediately. It is a relational appraisal from a person with her own limits. The desired future committee belongs to multiple people rather than to a single organizer's imagination."
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "43c2f0de5e50d0804e274e2ae63400532a6f5d16f067d866cae5007a7f9ce6cd",
+        "line_text": "Fina contributes ideas, pleasure in a leading performance, confused assumptions and real firefighting. Her enthusiasm for outfits does not cancel Umika's refusal to wear one. Her prediction about the fireworks is wrong while her water-extinguisher work remains real. Kaede, Tsubaki and Chise also have wanted experiences and tasks. Committee members can differ without any one of them standing outside the legitimate group. GROUP2302's quiet willow pleasure is a small but clear example: aesthetic enjoyment and concerns about budget or injury occupy the same deliberation. The later source shows begun preparation rather than a festival everyone already agreed to enjoy."
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "9dbb274a55ac3cd3b40f473d1d384b7f4e9d61d020dd6e336a2facc3a8220202",
+        "line_text": "Erika and Kirara are recipients with independently motivated participation, not props who must confirm Umika's friendliness. Actual photographs and completed contact exchange coexist with Erika's permission to opt out of closeness, different responses to attractions and practical help during the fire. Umika's surprise and joy at new company are actual, while reported Gehenna festivals fail to gain recognition from these visitors. Knowing her own repertoire does not give her exhaustive knowledge of theirs. Kirara's concealment of risk through a claim that the disaster was planned remains ethically different from effective firefighting and a happily ended trip."
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "aa76b9b4e5717005ba33ec1b2a20b3dbb8ed2506f0e352d80be3ede18188b2a5",
+        "line_text": "The troupe likewise requires a double reading. In BOND005, disruptive prepayment and their own response to food are distinct from Umika's intimidating abundance of service and subsequent self-questioning. In EVENT835, sabotage is admitted, Arata's traditionalist explanation meets subordinates who actually enjoy the new form, and later cooperation occurs. Cooperation does not erase sabotage or secure complete accountability. Umika's request for help is a concrete direction of action to others; their independent response supplies part of the ending. A character monograph cannot transform that successful recruitment of help into a rule that her festivals automatically reconcile antagonists."
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "94b872ffadaaa42993a2896c15d4d0005ed7d7e553b44040692cbc7b873596e0",
+        "line_text": "The Hyakka visit in MAIN005C002E003 is a further independent scene. Gratitude, food and ongoing labor cross a boundary while Kikyou explicitly declines private enforcement. Renge, Yukari, Kikyou and Nagusa actually taste and discuss the new dumplings with different reactions. Umika's thanks is distinct from Nagusa's hope about Ayame and from the students beginning sandbag work; it does not make Umika the author of those decisions. Such scenes warrant directed and institutional specialist work under the existing scope. They add distinct responsibilities without collapsing those future analyses into this monograph's completion."
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "68c86d0904bcd4a2a30814c6368ac3430b9332ded823c4a172bb1ed4183d5278",
+        "line_text": "## 9. Written register, self-description and attribution"
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "2114b70a92f48a3bb4e7c50289a2cded7ca1a6eb19ea05f7e544185f4f2d0c34",
+        "line_text": "The written evidence makes Umika fluent when proposing attractions and hesitant when presenting personal meaning. `私らしい`, polite forms and `恩返し` in EVENT80000:117 connect craft identity to gratitude; the broken clauses at the handover differ from the earlier chocolate-fireworks proposals. This is a context-sensitive written contrast, not an audible accent or a claim that she has one voice in public and another private personality. Her confident self-title in BOND002 is likewise a self-positioning statement, qualified by limited expertise and reported explanations. Her world-as-festival analogy in BOND015 and festivals-as-living imagery in BOND002 are interpretive language, not a literal alternate world or a diagnosis."
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "6e79e4d69b73dc350b90885176ec5b33fab147236f5a0d1a7e1d8c459aac8bb9",
+        "line_text": "The source modes preserve what can be claimed. Whole linked threads include completed work, thanks, future plans and unresolved requests beyond their launch; an opening prompt is not the thread's endpoint. Written profiles, Café/Lobby lines and event costume records offer preferences and self-presentation without giving a newly enacted scene every time. All-Kivotos breadth and claims that festival lovers cannot be bad are her statements, contradicted or limited by actual unknown festivals, disruption and receiver differences. Monster jokes do not create a nonhuman identity. Learning logistics does not establish mastery; sales language does not show every purchase."
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "4eca624a417f89eca6c1d48dfa6920289d9bd2373a657243e74a894a5895dd46",
+        "line_text": "Literal attribution is particularly necessary around the BOND005 troupeA label at u58, which has a plea consistent with Umika's function, and EVENT835's u83 self-address tag in the recognition sequence. The maintained argument marks the seams; this monograph does not authenticate runtime speakers. Source uncertainty narrows an exact-person claim rather than deleting the scene's broader event or manufacturing an utterance. Sensei's inward responsiveness, choice alternatives and local report layers remain separate. No new native, raw, parser QA, locale replay, performed voice, audio, timing or audiovisual inspection is credited."
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "17f24eb41baf32396f0b960f4e43975faad44e56f91405386011a35632cf9985",
+        "line_text": "The exact source quartet remains visible: current Cycle008 admission, personally adequate analytical receiving, historical undeclared exposure/order/independence, and performance still unreceived. The gift's documentary release window does not date a MAIN state. Costume identifiers are not a chronological ladder; variant10090 and its costume join are literal metadata with different written modes. The monograph is retrospective synthesis under architecture1.12/method1.10, with no reconstruction-model promotion, heldout test, prospective prediction or empirical certification of fire, doll, commercial or ritual mechanisms."
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "43c14cb688b4f72af54e64b53c5973a047693815cddd759c6186471ace6a997f",
+        "line_text": "## 10. Competing readings and what the endings discriminate"
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "d45470f9ed20f5db59c0ffa944ad81e34c6847df347bbec7482224f0e97ef453",
+        "line_text": "**The harmless festival enthusiast.** This reading correctly retains genuine delight, preparation, generosity and achieved company. It fails if harmlessness turns BOND005's overwhelming service, EVENT835's actual early fireworks movement, concealed risk or unfinished accountability into inconsequential comic decoration. Food praise and a safely ended trip are limited positive results. They do not retroactively supply consent or cancel material danger. The bounded thesis preserves her delight while declining universal harmlessness."
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "e557b6460c83d9028fc299182eb4cae05a2ad08d3458279f7e3f67c9097fe957",
+        "line_text": "**The incompetent organizer whose mistakes define her.** The error, new-festival surprise, limited knowledge and self-blame support fallibility. They cannot explain away private completed work, actual shared viewing, measured costume preparation, choosing the assignment, requesting help or the resumed ceremony. Shizuko's recognition is meaningful contrary testimony. Her business ambition is unfinished, but an unfinished aspiration is not a completed failure. The evidence supports specific mistakes and specific accomplishments without a general competence score."
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "aee5a2ab5b49f63c11c26d61cf394c334f8d5548c8641958099a48087a78979c",
+        "line_text": "**The solitary collector who uses recipients as an audience.** Goods and rankings can display herself, and hospitality can press her preferred form onto guests. Yet she explicitly values others' happiness, delights in preparation, concedes uncertain symbolic objectivity and conditions a keeping request on preference. Quiet rest and actual company are not explained by an audience-only motive. The ending of BOND005 nonetheless retains a difficult boundary, so neither pure selflessness nor pure self-display explains all exchanges."
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "0a3e0b07b3b6820a5f9cba9b60b6ca4c117b5acf199037f8c3da332c81b4307c",
+        "line_text": "**The dependent junior whose worth is conferred by Shizuko or Sensei.** Their mentorship, help and praise are substantial, and her doubts make recognition valuable. Her ranking, remembered childhood anticipation, decision to participate, outfit refusal, early error and request to finish are independently hers. The gift credits Shizuko's commercial idea rather than claiming its authorship; that attribution is evidence of discernment, not absence of agency. Recognition is part of a relationship, not the sole source of her aims."
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "25fa65a7f76552885fd7223aaa941ada684fd2e0271590bca1b2b8522748c36e",
+        "line_text": "**The redeemed expert at the end of EVENT835.** The completed ceremony and safe trip make a positive local arc supportable. They do not secure perfect later timing, financial repair or a lasting personality transformation. Shizuko's too-soon objection, future committee work and uninspected costs preserve the difference between a successful ending and a mastered domain. A later new festival unknown to Umika can be read alongside this achievement without forcing either scene into a chronology the sources have not fixed."
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "4c04ad123b27242461fc3884ed8ee74b806efc514c1d3abbd5e48f2f86c5f573",
+        "line_text": "**The romance or religious devotion narrative.** The private festival, doll entrustment, embarrassment and deity analogy support affective interpretation. They do not show reciprocal romance, a matching doll's fixed destiny, formal worship, exclusive motive or all future requests accepted. Her explicit concession about objective significance is strong contrary evidence to a binding symbolic rule. A serious literary reading can preserve intimacy coding and personal gratitude without installing their strongest possible institutional or relational conclusions."
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "5aabcc9381821d5bbb04fc5be53c8029d5a1bc4043f1a70d26f0a9a411218e99",
+        "line_text": "**The mere instrument of festival mythology.** MAIN's local book effect and private analogies permit thematic comparison. Niya later retracts an ancient-festival theory as bluff, and practical errors and distributed help remain actual. Treating Umika as the mechanism by which a whole school purges evil would exceed the evidence and erase her food, fatigue, pleasure and chosen work. The strongest synthesis instead keeps mythic language, local events and ordinary wants in tension, without making one certify the others."
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "bb2d990f8abae978759cc0ee523346e6ae0982adc914e0a6291890d7e41dd4d0",
+        "line_text": "## 11. Source boundary, original open gaps and completion disposition"
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "e1f8dba76bfecd6fb8ccf2077bda225683d6a5d22812aedc1cd70d3e305ed712",
+        "line_text": "The wholly received maintained private owner contains all twelve literal CH0110 duties: `BA:bond:10090:002/003/005/006/015`; `BA:momotalk:10090:thread:100900010/100900090/100900170/100900230/100900330`; `BA:character_data:10090:profile_and_dialog`; and `BA:character_data:event_costume:1900924101:character:10090`. The same adequate504-line argument contains independent Shizuko20/Fina19 comparisons. Complete personally received public meanings include GROUP2301–2302 and2403–2404, compact EVENT801/813/815, EVENT835149/847159, V005C00195/C00292, specific MAIN005C001E012/005C002E003/005C002E023, Final100C002E010, and EVENT80000's nine-object comparison plus UmikaE117. Negative-role/background inquiries and other persons' gift/food arguments provide comparison only where no Umika act is authenticated. Exact receipt scopes govern this inventory, including any retained selected rather than whole owner credit."
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "2af56f99388989d0257fae38de08736d420be34411d5be3e0a18af3f34d913eb",
+        "line_text": "No mandatory primary replay is needed to state the bounded claims above. Exact canonical/native recovery would be necessary before asserting disputed runtime attribution as settled, full event-locale identity, an accepted entrustment, objective symbolic efficacy, total history, legal duties, technical safety, bodily cure, comprehensive repair or unseen future fulfillment. Those stronger assertions are not made. Current small navigation controls locate the existing home; they do not add literary source credit or denominator entries. Main2e/c1 analytical identity is distinguished from capturedcf2f navigation and any later mutable ROOT publication state. All nine UNBOUND large bodies and preserved `_phase2_work` bodies remain unopened and unhashed."
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "b303800d0c22a4c68df61def9f2a49405bd82974385dff095f9fe3e6c383f67d",
+        "line_text": "| Original stable gap | Umika contribution and remaining warrant | Disposition |"
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+        "line_text": "|---|---|---|"
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "756aa10c47816fa46ca09448277a49b0d19060457c776650749518f993e96a82",
+        "line_text": "| G01 Ordinary and private breadth | Rest, preparation, collecting, taste, actual company and work ambition broaden ordinary range; twelve duties do not exhaust everyday life or prove a personality mechanism. | OPEN |"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "fbf71605522baa7027debe6a4713d880533cc2f48caf461c6122772f006bca80",
+        "line_text": "| G02 Yuuka council/club decision transfer | Committee budgeting and local help permit comparison, not a transferred Yuuka rule; her independent decision and office sources remain necessary. | OPEN |"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "30cfcaede9858ac627ad8792514ab99470a5b034905243fa925e492af1cf6f31",
+        "line_text": "| G03 Serika service, peer and reciprocity range | Hospitality, food reception and conditional entrustment add comparison; Serika's separate customers, labor and private relations are not completed here. | OPEN |"
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "8c103bdb347c35a1750f9c505282655f7cae353a9f71e51b32b00b33e4d98ed1",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Distributed fireworks error/help and wanted pleasure are comparison only; Hina's own causes, accountability and ordinary ends remain separate. | OPEN |"
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "dd5edf38f54388f41797668c6fe558255d9b44c0057580833b82c4e6b21009e9",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | Celebration and unfinished repair do not settle another group's material needs, coercion or aftermath; their distinct exact evidence and homes govern. | OPEN |"
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "869e0fd67a885ac9e673660ae9f99046369d80c7b60b5f4f5d1e19966e7257b7",
+        "line_text": "| G06 Cross-school ordinary repertoire | Quiet willow, visitors' choices, food, photographs and gifts expand local repertoire without universal enjoyment or automatic membership. | OPEN |"
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "4c1af926a0ee19ff898bc8cf5dbce0a6841097b767945d3d6f04b8fe212ef711",
+        "line_text": "| G07 Story-world chronology | Local preparation, messages and ceremony endpoints are usable; release windows, costumes and episode order do not fix an overarching calendar. | OPEN |"
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "f15d543dbef237bcbd20c7a2a6d3d18491f331cf7c65ee2faed10d9020180889",
+        "line_text": "| G08 Event naming and repeat contexts | Exact835/847/80000 routes, unnamed overarching gift event and separate costume contexts remain literal; no inferred merger of repeated festivals. | OPEN |"
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 172,
+        "line_sha256": "02b27c691b97a2306efc25a9699f344f21dc1e065a58500060db83ecc7c02b50",
+        "line_text": "| G09 Written speaker/choice attribution | Inward response seams, BOND005u58/E835u83, choices and reported layers remain qualified; runtime speaker authentication is unreceived. | OPEN |"
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 173,
+        "line_sha256": "78f9f9b877499e94d07c7e03b4106dd47efa5ddb5e23beb9ba7315608b167bd2",
+        "line_text": "| G10 Performed voice | Written fluency, hesitation and imagery are received; heard accent, acting, timing, audio and audiovisual performance remain unreceived. | OPEN |"
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 174,
+        "line_sha256": "696f2577e554ddece049a93cd1ce5d111d5a5af501511aea115f273444068f72",
+        "line_text": "| G11 Hoshino's Yume record and office states | Shared MAIN/Final context supplies no new Yume record or Hoshino office outcome; her separately bounded monograph and sources govern. | OPEN |"
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 175,
+        "line_sha256": "650e96f92a6ddc1d2a1f1d77b0b16f6ba84f329f7ab9d9efd7caf135811e02fd",
+        "line_text": "| G12 Counterpart, system and variant identity | CH0110/10090/costume1900924101 stay literal; dolls, jokes, generic workers and future roles do not authenticate a new person or global chain. | OPEN |"
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 176,
+        "line_sha256": "779b001d4658bba4a14c2b3eb9e08d2763f35198218a6a99bd12d0d78fb47782",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | Begun work, completed ceremony and reported cleanup are distinguished from claims; promotion, contracts, fire/ritual mechanism, inspection and repair lack full certification. | OPEN |"
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 177,
+        "line_sha256": "5941f923f2c3e23f8051265e0875d02cda26c3164a10bc5da0664823387618d7",
+        "line_text": "| G14 Unclassified/mode continuity | No unclassified source or preserved producer body is admitted or replayed; gift, written costume and BOND modes do not settle unresolved continuity. | OPEN |"
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 178,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 179,
+        "line_sha256": "7a1952e5d425053420d09e10984143b6b2901312754cca3cda4bf4b452195205",
+        "line_text": "This is a complete bounded textual monograph candidate for the existing Umika home, subject to independent ROOT whole receiving, exact verification and acceptance. Required directed relationships, ensembles, institutions, Sensei responsibilities, written-register synthesis and whole-cast convergence remain distinct duties under355/29; they are not optional polish to this character document. No self-acceptance, canonical installation, model, new primary/native/raw/QA/AV, denominator or milestone credit is claimed."
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          7,
+          7
+        ],
+        "canonical_lines": [
+          7,
+          7
+        ],
+        "frozen_text": [
+          "status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          27,
+          27
+        ],
+        "canonical_lines": [
+          27,
+          35
+        ],
+        "frozen_text": [
+          "publication_acceptance_and_count: ROOT_ONLY_PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_publication_acceptance_and_count: ROOT_ONLY_PENDING",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIKA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          31,
+          30
+        ],
+        "canonical_lines": [
+          39,
+          40
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded character responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_UMIKA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_UMIKA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,18 section-parent allocations,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Character Monographs home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          104,
+          104
+        ],
+        "canonical_lines": [
+          114,
+          114
+        ],
+        "frozen_text": [
+          "The contrary boundary in BOND005 is necessary to this relationship. She wants the embarrassing encounter forgotten or undiscussed; Sensei asks again and the ending evades resolution. Her request cannot be declared honored because the exchange is playful or generally affectionate. This is a particular mismatch, not evidence that every adult-student exchange is coercive. Likewise, her work rationale in BOND006 does not establish an administrative claim over Sensei's time, while his future commitment to pay or return in BOND003 is not a scene of all food purchased and eaten. Different outcomes belong to different exchanges."
+        ],
+        "canonical_text": [
+          "The contrary boundary in BOND005 is necessary to this relationship. She wants the embarrassing encounter forgotten or undiscussed; Sensei asks again and the ending evades resolution. Her request cannot be declared honored because the exchange is playful or generally affectionate. This is a particular mismatch, not evidence that every adult-student exchange is coercive. Likewise, her work rationale in BOND006 does not establish an administrative claim over Sensei's time, while his actual paying and returning in BOND003 does not show every offered food item eaten. Different outcomes belong to different exchanges."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "full_operative_ROOTaccepted_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "path": "ROOT_UMIKA_CORRECTED_OPERATIVE_CANDIDATE_V1/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH_CORRECTED_CANDIDATE_V1.md",
+      "bytes": 39757,
+      "sha256": "b381617e873307ea9f0c0fc9bfdbd1c1037ec6ff3ee312ab9038b1275d50788b",
+      "git_blob_oid_of_actual_bytes": "f57cfb0e8868f520abb19a883764000c3ea38f20",
+      "lines": 169,
+      "immutable_transport_path": "immutable_originals/ROOT_UMIKA_CORRECTED_OPERATIVE_CANDIDATE_V1/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH_CORRECTED_CANDIDATE_V1.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 42036,
+      "sha256": "81af4f3dfcdf8a5a76719ecae548cd2359de14c749b892115106339232a57e54",
+      "git_blob_oid_of_actual_bytes": "5efc58aea7fb2604cf821917723e18247aeeb9d3",
+      "lines": 179
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "abf6eb03819d8cdc66762528a3246eef0970ad05834cf7bf074daca1da758d4b",
+        "line_text": "classification: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "b040a034a0c39c7fd51d765a3b3e7ce23a6cc374f8ddb31b596d48d317da6543",
+        "line_text": "architecture: \"1.12, section7.1 eleven required dimensions\""
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9",
+        "line_text": "method: \"1.10\""
+      },
+      {
+        "frozen_line": 8,
+        "canonical_line": 8,
+        "line_sha256": "5277cd6460e293851124966fafa9139d962a9651815a89b4fe89e53b377499b4",
+        "line_text": "required_home: P3-CHAR-UMIKA"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "331e8fd4e578dc84eb10661d3bc9648c287fd8ed097ceb2966f1c9bda6e487dc",
+        "line_text": "candidate_responsibility: P3-F037"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "a259edbbd3255c7a146ab04b5c420d76609c04c8461549c0f9cbff3db4dd29de",
+        "line_text": "literal_identity: BA_PERSON_CH0110"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "90141c0add89d0fee3a3207c1d436417439455b7cb9cba53a47ef7925ad5457d",
+        "line_text": "family: CH0110"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "d8518d1dd2c629ae0b190b8111d4abd6c14c2c988e71db42d75580bfb676d42b",
+        "line_text": "display_subject: Umika"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "792a88310f7180af62ab75c08916568adf58c293c078c322fa6058acfe360d8a",
+        "line_text": "variants: [10090]"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "73df31628b0c803b10d6ee474e3dacfdf5cee982467790231e4ffaccbeb79c50",
+        "line_text": "costumes: [1900924101]"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "06de00c6cd60daa58732ef0b7c6e50ab66fb95b44546d625e6fc98d34b98fcc2",
+        "line_text": "dated_navigation_witness: cf2fba61c9e8448acdd2677f06d5258c051a6ba4"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "46b4a1084a10780516af311ffaf9db987e5ad1063fb62ad06bd1db031562234b",
+        "line_text": "game: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "7f883d04131c2ceb93c813788d8346734ce228b11188765b294eb7669400a5a9",
+        "line_text": "parser: \"0.2.0\""
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "e6f33de1cdbede5423ceaefc027dc3d4bb6a2102a30db1186fc5f7b559b2d2d9",
+        "line_text": "source_boundary: \"Twelve CH0110 private/written responsibilities in one wholly received adequate51-object Festival argument; complete accepted public meanings and specifically declared scopes; zero fresh primary/native/raw/QA/AV.\""
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "70cbfb274f76de9261e3db6189cbacb16a9890e44b0509e2b0026ea686d22e03",
+        "line_text": "authority_quartet: \"Current Cycle008 admission; own adequate analytical argument receiving; undeclared historical exposure/order/independence UNKNOWN; performed voice unreceived\""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 24,
+        "line_sha256": "1c8e5e32ae1d62fb5761e8c9da845a95a8072410874a22a22d82c7602bed0134",
+        "line_text": "retrospective: true"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 25,
+        "line_sha256": "9c96af10047187817acdbfcc409256b832cc1e1bec7ab02061ed095056b5e2bb",
+        "line_text": "all_original_fourteen_gaps: OPEN"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 26,
+        "line_sha256": "a650fa20652cdc365b4f6513e78c5849bf75aebef8bf1d57b62029393a6e0727",
+        "line_text": "reconstruction_model_credit: NONE"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 36,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 37,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 38,
+        "line_sha256": "51ddf7217176d76aded72691ca1f38d899b12fd5eaa6b2aec7be091a0a2e9ad0",
+        "line_text": "# Umika: making room for celebration without mastering its recipients"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "de2fca0ca3e25887d4631cb75770d55f2f4f2d75909f051017e44d2581b00ba3",
+        "line_text": "## 1. Core thesis and the limits of a festival identity"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "eca7882fe42c91e9bf6db078018899384f2801da85343d01980b4deaaf0d7a44",
+        "line_text": "Umika makes celebration a way of paying attention. She notices preparations, saves objects, revises a personal ranking, wants other people to enjoy themselves, and gives a familiar person something deliberately made for him. These pursuits have value before they produce business success or avert a crisis. Her private café rest, the anticipation of a parade, and the pleasure of preparing a small festival cannot be treated as preliminary illustrations of a more important heroic function. The same sources also show that wanting a festival is insufficient to know what a visitor wants, to control a timetable, or to guarantee safety. Her characteristic tension is between expansive invitation and the particular people, materials and limits that invitation must accommodate."
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "e3dec1857c84978d67eec352cb05b2a125406e5fb6d776603b2d8ecbedd90a1f",
+        "line_text": "The strongest bounded thesis is therefore that Umika tries to make meaningful occasions for others while learning, locally and imperfectly, that the meaning she supplies is not the same as the reception they give. She can become carried away, overwhelm guests with hospitality, misidentify the right time to move fireworks, and ask for a boundary that Sensei does not neatly honor. She also accepts corrections, explains her own reasons, chooses to continue work, requests help, and actually shares a quiet fireworks viewing. None of those acts makes her an infallible organizer. Conversely, her failures do not render her delight, craft or achieved company an empty joke. The evidence supports different combinations in different scenes, rather than a single deficiency that defines the whole person."
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "2ceead63c14a2e8b7e2825d3b35b6b49eb297a05ee4e18aa04628e5c0b00a881",
+        "line_text": "The monograph retains literal `BA_PERSON_CH0110`, family `CH0110`, ordinary variant10090 and the written costume join1900924101→10090. A display name does not authorize a replacement registry identity. Its private foundation is the complete maintained Festival account: five BOND episodes, five whole linked MomoTalk threads and two written character-data objects, twelve responsibilities. Shared Shizuko20 and Fina19 arguments provide independent comparison within that adequate51-object analytical owner; they do not become Umika appearances or new primary reading. Public claims use the complete received GROUP2301–2302, EVENT835/847, exact MAIN arguments, Final's small defense argument, and the complete EVENT80000 gift account. Other event comparisons remain qualified contexts where no specific Umika act is printed."
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "ba311b9542ac487789bd292afcb6bcb4a0bdcf9651b3eabf8e09be92c786d9e5",
+        "line_text": "## 2. Longitudinal development: local revision and achieved occasions"
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "e724cf0dd5d648042a2d8587439ad55c5b03ffa6b7680012c6d17a57cdb4abee",
+        "line_text": "The private sequence offers a succession of locally meaningful occasions, not a calendar assembled from release order. In `BA:bond:10090:002` and whole `BA:momotalk:10090:thread:100900010` (messages10–110), Umika's changed ranking is her own judgment. She thanks Sensei's adult perspective before the relevant thought has been spoken, preserving the account's inward-response seam rather than creating an unprinted lecture that made her opinion. Her princess, lantern, bribe and contract explanations remain her guide's reports, not verified festival history or law. An actual parade and enjoyable walk occur. Food, coupons and further attractions expand what she wants; the account does not turn every offer into consumption. The organizer's request for a new doll and her admission that she is not a theme-park expert complicate a picture of complete expertise even in this enthusiastic outing."
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "e95aed0b34ada305b0ef832d6ac53a190394d19703271654dba981ade18ce110",
+        "line_text": "The café encounter changes the scale. `BA:bond:10090:003` with whole thread100900090 (messages120–220) lets a quiet day and relief for tired feet count as a successful occasion. Less-sweet and sweetest selections are alternatives. A report that the shop has slow days is not a completed business failure. Her childhood account of a rare annual festival and months of preparation explains why materials and anticipation matter to her without establishing an exact birthplace or date. Criticism makes her question whether she has become carried away and concealed another person's inconvenience. Sensei's available reassurance is a reply within that encounter; it does not erase her contrary concern. Relief is achieved there, while school, tests, work and a future Marimo obligation remain unfinished plans."
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "bbbfe200e32a8d3560e9c3cde98ab4a75f298cc0ab92f979de5b1d780a1f0519",
+        "line_text": "In `BA:bond:10090:005` and whole thread100900170 (messages230–280), she is neither only passive before a troublesome troupe nor wholly correct in her response. The troupe's disruption and prepayment create a real problem. Her rapid seating, offers of tea and towels, and repeated menu information can overwhelm; an apology follows. A comment that the food is delicious does not certify universal hospitality. The later private worry that she may have been excessively harsh survives the troupe's own conduct. Their knowledge of materials three days ahead also defeats perfect secrecy. At the ending, her request to forget the embarrassing episode or avoid discussing it meets a further question from Sensei and an evasive answer. The whole thread is important: the source has not completed an effortless mutual understanding of that boundary."
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "85fd5135b78d3ddff3d384f7ff6c1cc05bb0565d0d8688b9f884333b0a56a9e4",
+        "line_text": "`BA:bond:10090:006` and whole thread100900230 (messages290–410) achieve something different: Umika actually prepares a private festival. It is not a mere invitation at the beginning of a message thread. Saying that she invited nobody does not mean that no one knew anything, given the earlier troupe information. She offers food, games, photographs and a place to sit; the account distinguishes prepared menu items from eating and photographic invitations from pictures actually taken. Her enjoyment of preparation is explicit. The culminating seating and shared fireworks viewing are accomplished local company, not an exclusive romance or a technical inspection. The desire that this become a valued memory extends beyond the measurable ending, while the ending itself already contains real pleasure."
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "6383e13d3e7d2321397224aaf67ffb5908eaa416f60316af91ce4b1074c09be3",
+        "line_text": "The late `BA:bond:10090:015` and whole thread100900330 (messages420–550) return to her as a watcher of someone else's preparations. A new local festival contradicts a literal reading of total festival knowledge. Impulsive purchases and their later burden coexist with the value she gives their memories. The first doll's identity and her reason for choosing it remain uncertain; the vendor and a supposedly matching pair do not reveal a marriage or fixed relational destiny. Work is actually completed and she leaves. The complete thread proceeds beyond its launch to thanks, a question, and an entrustment request at message550: keeping it if the recipient likes it is not printed acceptance or lifelong keeping. These finite endings establish a person who achieves some occasions and leaves other relations, requests and meanings open."
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "eb46d29b859772fdc7dd9a95efea08f517f1e228a35b609f596a08bcf4f8244e",
+        "line_text": "Public EVENT835 gives the strongest large-scale local development. Umika chooses the first major assignment after refusal is permitted, designs and measures outfits while declining to wear one herself, enjoys another school's visitors, and encounters delays and interference. Her early fireworks movement is an actual error. Under mounting trouble she does not simply receive the adult's solution: she chooses to finish and asks for help (`BA:event:835:015`,u89–94). Firefighting and cooperation lead to a resumed ceremony; the trip safely ends. Shizuko later credits the achievement to Umika, while objecting that another festival is too soon. That recognition and objection belong together. The event supports a completed local attempt and help-seeking, not a durable state edge from helpless novice to flawless president."
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "28c63155d34858c162f9e1d968ddd22831de968968e257eebe2a130f0d6d30e8",
+        "line_text": "## 3. Public and private presentation: fluency, hesitation and wanted quiet"
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "6506e7a4b4547473ed60898e4b1fe75cb86ca6b2411adba71f78abbc47aa08e2",
+        "line_text": "Umika's public fluency makes festivals look continuously available. She explains attractions, offers hospitality, presents ambitious plans and brings substantial preparation to an occasion. Inward doubt, private hesitation and remembered criticism qualify that performance. They are not evidence that her public enthusiasm is false. They show that enjoyment and uncertainty can coexist, and that a person able to talk at length about a festival may find it harder to say what a particular gift or invitation means. The complete private account preserves her own appraisals and the adult's printed inward clauses as distinct modes; an apparently responsive next line does not make those thoughts audible conversation."
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "f91372abbd2edc85bb9537d5ba386a04a379b259c75eca3b73928003e5fbcb0b",
+        "line_text": "Her first major assignment in EVENT835 is especially useful against a simplistic public/private division. Fear appears within work, alongside an explicit chance to refuse and her own decision to participate (E002,u25–34). The outfit discussion preserves a personal refusal: she supplies design and measurements but is embarrassed at wearing the proposed clothes, and the customary division with Shizuko is part of her explanation (E003,u52–57). Fina and Kaede can enjoy the same idea without authorizing it for Umika. That preference is more specific than a claim that she is always timid, and more consequential than reducing the refusal to a comic delay before universal compliance."
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "ae32a75e42a0bacd4abfa49186bac3c1b1c2fdd12b5ca1a6c7d4ae83d0e683bf",
+        "line_text": "The private café rest and prepared festival also resist an all-public portrait. She wants help to feel unburdensome, but she does not want every moment to become an official spectacle. A person who collects pamphlets and goods can enjoy quiet looking, particular sweetness, sitting beside someone and anticipation itself. In BOND006, preparation gives her pleasure before the visitor provides praise. In BOND015, objects retain remembered occasions even when buying them was impulsive. The public management aspiration and these quieter wants have a common concern with making or keeping meaningful time; neither should replace the other."
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "19fb54cf0b60e6b61ba00217a429138367499a10a637a10bbea7d01c3dfa361b",
+        "line_text": "The EVENT80000 gift deliberately crosses the scales. Umika begins with streets full of chocolate and other people's happiness, revises an extravagant chocolate-fireworks proposal under doubt, and ends with a miniature mikoshi for one recipient (`BA:event:80000:117`,u1–11/u27–66). Private broken clauses contrast with fluent ideas. She credits Shizuko's commercial insight before aspiring to become a businessperson capable of a Kivotos-wide festival. Gratitude is therefore not an admission that Sensei created all her aims. She uses a craft she values to say something particular about his care, while conceding that her preferred order of eating may lack objective significance."
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "269c8ff28280d2e53ff977e71fb51a6c9208727fd7f27c41072f046eb8529e1e",
+        "line_text": "## 4. School, committee and work: participation without institutional mastery"
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "937db2996478143c79c8b83592c5dd680a4fa548fc6c057db1433fdfba6e0668",
+        "line_text": "The Festival Committee provides people, practical tasks and recognizable divisions of labor, rather than proof that any one member embodies Hyakkiyako. GROUP2301–2302 contains serious procurement and budget discussion as well as wanted holiday fun. The bento's attractive appearance and desired card packs matter before their utility is assessed. Umika's research absence in GROUP2301 is mention-only; it cannot count as her speaking or assenting in that meeting. In GROUP2302, her momentary president/chair correction does not authenticate a legal office change. The two shopping-street commissions retain different literal names. The later discussion is locally connected, but those names are not silently normalized into one place or contract."
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "37f77620ab5889170d41867c5765d6668b10e44d4c5c44c6571b6e9cafe1923b",
+        "line_text": "Umika's attraction to the quiet willow proposal and Fina's romantic appraisal give the committee something besides danger or revenue to consider. Shizuko's objections to a giant model include budget, injury and cleaning costs. Those costs are legitimate contrary evidence to enthusiasm, not a hostile suppression of every interesting idea. Work begins at the ending of GROUP2302; the source does not show the imagined festival performed. Reports about a paid Helmet arrangement and circulating rumors do not make every named or rumored actor a participant, nor validate the alleged origin as history. A workable institutional reading preserves deliberation and refusal without promoting them into a fully audited contract process."
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "445348e8e3c5651dadb280d6d49cdfbfe99ec99a1eed94891322ad1e0fd766ef",
+        "line_text": "MAIN `BA:main:005:002:003` adds a quieter institutional role. Umika and Shizuko actually visit to thank the Hyakka students; recurring trouble is described as history. Kikyou distinguishes private enforcement from their function while the group accepts food. Actual chestnut-cream dumpling tasting and peer discussion occur, and Umika thanks the support with food at u51. Her inadvertent reference to Ayame meets Nagusa's hope that she will return; the hope is not a verified future endpoint. Staffing shortage and material collection lead to the Hyakka students beginning sandbag labor, not completing the wall. Thus courtesy and help happen across a role boundary that remains explicit. The generic committee workers in MAIN005C001E003 are not joined to Umika merely by occupation."
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "537d4512e439b9e25bf0a688835d092e1f3e90e120dd0595483460f1a205069d",
+        "line_text": "The EVENT835 assignment shows real organizing labor: designs, contact exchanges, supplies, timing, distress and recovery. Her self-blame cannot monopolize the causes. A troupe's admitted sabotage, other visitors' disruptions and an adult's decisions belong in the account. Shizuko's later recognition of Umika's achievement is meaningful testimony from a peer with experience and costs; it is not a business credential, an office promotion or a declaration that all later work will succeed. EVENT80000 likewise makes the management aspiration explicit while leaving its mastery unperformed. School, work and pleasure support one another here, but no school-wide institutional reform is established."
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "102cf89469a9cc966006f0de82a58bdad0fc02f9132ecef746911ac62fcb38b8",
+        "line_text": "## 5. Ordinary pleasure, collecting, taste and wanted futures"
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "029713a99f09b0d428c5dd217f17c4f9782768c22ce3980f77bc0ad4b085d11d",
+        "line_text": "Umika's festival interest is expansive enough to include other people's happiness, quiet preparation and souvenirs with uncertain meaning. BOND002 shows an actual parade and enjoyable walk; BOND003 shows tired feet relieved and café time received; BOND006 shows the prepared small festival and fireworks actually watched together. These are positive endpoints with their own value. They need no redemption through a later crisis. Nor should their value require all suggested food to be eaten, all photographs to be taken, or all future memories to be confirmed. A source-bounded account can give full weight to modest accomplished pleasure while preserving the exact limit of accomplishment."
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "d06878c70e6ff45c3373e5ca852b539f0bc40f122c434458a66b6f36d89f2cdb",
+        "line_text": "Collecting is neither mere proof of commercial manipulation nor an infallible archive of the self. In BOND015 she recognizes impulsive purchases as a problem and gives objects memory value. The unknown first doll and uncertain matching significance prevent a decoder-like reading in which every item transparently expresses a fixed bond. The message request to keep it if liked allows the recipient's preference to matter. No reply completing acceptance is printed. The source can therefore stage generous entrustment and unresolved reception at once. The late coda matters as much as the object's appearance because it defines what she has actually asked and what remains unwarranted."
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "b4594b2a1b6fa9240aec558cea4897f3a3539845b998dcc7f6961bde6ac8b0f8",
+        "line_text": "Written character10090 adds pamphlets, goods, visual appreciation, preparation and many greetings. Its café hesitation about a kimono/bunny-girl idea is not the committee's consent to a costume. Lobby descriptions of too much work or preparation can be compared with the private accounts without becoming an objective workload survey. Statements that a birthday or every day is a festival are expressive ways to value occasions, not a calendar. Costume1900924101 and event835/10835/900835 shop/lobby records keep distinct source modes; blank event fields, sales talk and invitations do not generate new performed trips or completed purchases."
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "1ddb11ad9d6c38e3c0e417b6fee352bdb5bf56381aeb119817436133dab0bf1b",
+        "line_text": "EVENT80000:117 makes ordinary craft and vocation compatible. She credits the president's seasonal success and wants greater business competence so that she can bring a festival to all Kivotos (u14–26). That future is intrinsic, ambitious and unfinished. The miniature mikoshi is a particular gift already presented; the inner chocolate's priority is her chosen significance, which she expressly admits may have no objective force (u36–60). Tea preparation closes the encounter. The analytical source does not certify that every proposed item was eaten or that the recipient adopted her deity analogy. Real gratitude and an offered atmosphere can matter without reciprocal romance, formal worship or an empirical theory of flavor."
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "5866e437d1388f564688096b2b59aa51a4fe48b38862be1af6ce4cfbeaa4f1d9",
+        "line_text": "Her ordinary wants include company she can help prepare, admiration of celebrations she did not make, rest, learning and being treated as someone whose efforts count. Public errors do not make those wants frivolous. Conversely, appreciation should not become an entitlement to the adult's time or the visitor's agreement. BOND005's unresolved request not to discuss the episode and EVENT835's refusal to wear an outfit give the ordinary life its own boundaries. They distinguish desired closeness from automatic permission."
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "1333e567dcc1a27f7bcec73734219a6bc5bbbf8683f4831543b3458ffb318e00",
+        "line_text": "## 6. Crisis action, error and distributed responsibility"
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "e57f5ff402dbadf6622a0cc8d8d59114c8889046688b4d49142a4a8c0accfa8a",
+        "line_text": "The event's risk must be read through what actually happens rather than through a generic cheerful organizer label. EVENT835 includes slides, guns, bombs, falls and delay; guests and guides intervene, while some claims about causes and safety remain reports or hypotheses. Umika's visitors and contacts enjoy parts of the day, but enjoyment does not certify all attractions. Ibuki's pleasure can coexist with an unsafe attraction and unvalidated hypnosis. A licensed-product refusal is a limit; a vanished stall is not a documented capture or licensing settlement. Those distinctions keep recipient costs within the same story as wanted celebration."
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "c26e6381ea2e6832694103b25a279984595cce9075b85b3554e29f984efb938b",
+        "line_text": "The fireworks sequence decisively complicates Umika's competence. She moves them early (E012,u20–24); Fina's later assumption that she must be delayed fails. An assumption that a small fire cannot launch them is undermined by the ensuing ignition. The fighting and heat lead to a real launch, with threats to buildings. The complete accepted argument does not authenticate a unique bullet or one person as the sole ignition cause. Umika's sense of total blame is therefore a state in the scene, not the final causal verdict. Her error remains an error even when others create conditions she did not control, while the distributed causes prevent condemnation from eliminating their agency."
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "703580ad2a87983487252f04d7ed0523a7a6173b4f0c947585824b152d97666e",
+        "line_text": "At the consequential ending she chooses to finish and requests help, not because the damage becomes unreal but because the occasion remains worth completing. Erika and Kirara translate the work into a firefighting and shrine-maiden rescue framework; Kirara's claim that the crisis was planned conceals real risk. Fina, Kaede and Tsubaki use water extinguishers. Umika asks the troupe, and Arata helps. Chinatsu's report that the fire has been extinguished is not a complete structural inspection. The ceremony actually resumes with Chise's poem; cleanup imposed on others is neither rehabilitation nor evidence that every dispute has been settled. The trip's safe ending is a finite narrative result, not a proof of zero costs."
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "508c7f26120043aaa460c6bd308e186c59aed1ddfb7dd0eaf7873b9e4fdb7964",
+        "line_text": "Other public contexts support narrower distinctions. MAIN005C002E023 includes Umika staying after a prior fainting report, as Kaho admits danger and permits withdrawal. A local choice to help does not prove invulnerability or universal consent for the crowd. The observed local effect on the book is distinct from a permanent ritual law, especially because the later chapter checkpoint preserves Niya's withdrawal of an ancient-festival explanation as bluff. Final MAIN100C002E010 launches defense with Fina, Tsubaki, Chise and the troupe, while Shizuko reports readiness and Umika expresses enthusiasm. Launch and volunteered labor are actual contributions; the small argument does not supply a completed enemy outcome or certify protection of every person."
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "340eb1cb66fba11adfcd2e45c5b8792a4de7ee08c8e39372fe705e9948143901",
+        "line_text": "EVENT847's aftermath places ordinary help beside severe venue damage. The venue explodes and sinks, while an all-well framing belongs to a speaker's interpretation rather than an injury or compensation audit. Umika thanks cleanup help; peers' reported completion is not an inspected restoration. Those accounts can broaden her material and social responsibilities without making her the cause of every device or participant's choice. In particular, a denied bomb-installation suggestion is not a completed act attributable to a shop operator, and literal speaker/function seams remain qualified. The evidence permits participation, thanks and certain finite endings; the larger repair and accountability questions stay open."
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "cbcd2b0dcebe60f58c80861a0a483152e5f0e82960790f8430a4ce813cfdd771",
+        "line_text": "## 7. Sensei: particular support, choices and imperfect boundaries"
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "2b7cce331da85e061c101bd699aaa4f21e20b717f890a31246f743fdd4f8fe24",
+        "line_text": "Sensei helps Umika consider inconveniences and practical possibilities, receives her hospitality and gratitude, and sometimes provides company. The adult does not invent her festival ranking, childhood value, pleasure in preparation or business ambition. BOND002's inward adult observation and Umika's apparently responsive thanks preserve a written seam. BOND003 offers reassurance amid her fear of being a nuisance; the alternative café orders and the reassurance do not certify universal absence of burden. Giving the adult credit for everything would erase the child's prior craft and appraisals; refusing any credit would erase actual company and local help."
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "263a6cbb757236c2e02eaaf126f812f5346dfaab13bf286291e23e8a8cc10e51",
+        "line_text": "The private festival supplies one achieved direction of reciprocity. She prepares something for the adult, enjoys the work and asks him to sit; sitting and shared fireworks viewing occur. The adult's appreciation is partly printed inward, so it should not all become praise she hears. Memory wishes and invitations remain separate from that completed time. BOND015's entrustment also allows a conditional recipient preference: keeping a doll if liked is not proof that he accepted or that it occupies a later room. Her giving matters without requiring a total future fulfilled by Sensei."
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "d18d7d90c6d9001b6faa90a127ad0b1fe55a5e45a5bfdcdd2619eaa57da05966",
+        "line_text": "The contrary boundary in BOND005 is necessary to this relationship. She wants the embarrassing encounter forgotten or undiscussed; Sensei asks again and the ending evades resolution. Her request cannot be declared honored because the exchange is playful or generally affectionate. This is a particular mismatch, not evidence that every adult-student exchange is coercive. Likewise, her work rationale in BOND006 does not establish an administrative claim over Sensei's time, while his actual paying and returning in BOND003 does not show every offered food item eaten. Different outcomes belong to different exchanges."
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "f9ca82f36da3c4fec5a323dac87a3f2ca8bb47fc0ce7cdcf0f4519f127df3db3",
+        "line_text": "EVENT80000:117 compares the adult's care to a deity watching over festival participants. The analogy is Umika's meaning, offered through a mikoshi-shaped gift; it is not formal worship, a new institution or a compelled belief. She admits that inner-chocolate-first may have no objective significance. Choice006/007 permit encouragement or qualification, and choice010 permits different forms of thanks. These alternatives do not coexist as maximal affirmation. Sensei's printed inward recognition at u36 remains inward despite the next line's responsiveness. Her embarrassment and tea preparation support affectionate coding without an exclusive motive or reciprocal romance. The public fluency/private hesitation and the concession make the gift a personal invitation, rather than a law of how support must be returned."
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "a123e776031a7487b6a895b751ccd0aaab62ac7d622d353b11b90b1be7f69a35",
+        "line_text": "## 8. Peers, recipients and relationships beyond the adult"
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "2d76da852c4870f35cf523a5e18803a9a91dfdb4d048a45e21d338cd58d1ed60",
+        "line_text": "Shizuko supplies an experienced standard that Umika neither simply rejects nor mechanically reproduces. The private aspiration to a Shizuko-led division and the admitted commercial mentorship matter alongside current material shortages, committee budgets and recognition. EVENT835 gives Shizuko a delayed return and a real response: Umika succeeded, yet announcing another festival is too soon. The praise is neither revoked by the objection nor an instruction to exhaust everyone immediately. It is a relational appraisal from a person with her own limits. The desired future committee belongs to multiple people rather than to a single organizer's imagination."
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "43c2f0de5e50d0804e274e2ae63400532a6f5d16f067d866cae5007a7f9ce6cd",
+        "line_text": "Fina contributes ideas, pleasure in a leading performance, confused assumptions and real firefighting. Her enthusiasm for outfits does not cancel Umika's refusal to wear one. Her prediction about the fireworks is wrong while her water-extinguisher work remains real. Kaede, Tsubaki and Chise also have wanted experiences and tasks. Committee members can differ without any one of them standing outside the legitimate group. GROUP2302's quiet willow pleasure is a small but clear example: aesthetic enjoyment and concerns about budget or injury occupy the same deliberation. The later source shows begun preparation rather than a festival everyone already agreed to enjoy."
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "9dbb274a55ac3cd3b40f473d1d384b7f4e9d61d020dd6e336a2facc3a8220202",
+        "line_text": "Erika and Kirara are recipients with independently motivated participation, not props who must confirm Umika's friendliness. Actual photographs and completed contact exchange coexist with Erika's permission to opt out of closeness, different responses to attractions and practical help during the fire. Umika's surprise and joy at new company are actual, while reported Gehenna festivals fail to gain recognition from these visitors. Knowing her own repertoire does not give her exhaustive knowledge of theirs. Kirara's concealment of risk through a claim that the disaster was planned remains ethically different from effective firefighting and a happily ended trip."
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "aa76b9b4e5717005ba33ec1b2a20b3dbb8ed2506f0e352d80be3ede18188b2a5",
+        "line_text": "The troupe likewise requires a double reading. In BOND005, disruptive prepayment and their own response to food are distinct from Umika's intimidating abundance of service and subsequent self-questioning. In EVENT835, sabotage is admitted, Arata's traditionalist explanation meets subordinates who actually enjoy the new form, and later cooperation occurs. Cooperation does not erase sabotage or secure complete accountability. Umika's request for help is a concrete direction of action to others; their independent response supplies part of the ending. A character monograph cannot transform that successful recruitment of help into a rule that her festivals automatically reconcile antagonists."
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "94b872ffadaaa42993a2896c15d4d0005ed7d7e553b44040692cbc7b873596e0",
+        "line_text": "The Hyakka visit in MAIN005C002E003 is a further independent scene. Gratitude, food and ongoing labor cross a boundary while Kikyou explicitly declines private enforcement. Renge, Yukari, Kikyou and Nagusa actually taste and discuss the new dumplings with different reactions. Umika's thanks is distinct from Nagusa's hope about Ayame and from the students beginning sandbag work; it does not make Umika the author of those decisions. Such scenes warrant directed and institutional specialist work under the existing scope. They add distinct responsibilities without collapsing those future analyses into this monograph's completion."
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "68c86d0904bcd4a2a30814c6368ac3430b9332ded823c4a172bb1ed4183d5278",
+        "line_text": "## 9. Written register, self-description and attribution"
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "2114b70a92f48a3bb4e7c50289a2cded7ca1a6eb19ea05f7e544185f4f2d0c34",
+        "line_text": "The written evidence makes Umika fluent when proposing attractions and hesitant when presenting personal meaning. `私らしい`, polite forms and `恩返し` in EVENT80000:117 connect craft identity to gratitude; the broken clauses at the handover differ from the earlier chocolate-fireworks proposals. This is a context-sensitive written contrast, not an audible accent or a claim that she has one voice in public and another private personality. Her confident self-title in BOND002 is likewise a self-positioning statement, qualified by limited expertise and reported explanations. Her world-as-festival analogy in BOND015 and festivals-as-living imagery in BOND002 are interpretive language, not a literal alternate world or a diagnosis."
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "6e79e4d69b73dc350b90885176ec5b33fab147236f5a0d1a7e1d8c459aac8bb9",
+        "line_text": "The source modes preserve what can be claimed. Whole linked threads include completed work, thanks, future plans and unresolved requests beyond their launch; an opening prompt is not the thread's endpoint. Written profiles, Café/Lobby lines and event costume records offer preferences and self-presentation without giving a newly enacted scene every time. All-Kivotos breadth and claims that festival lovers cannot be bad are her statements, contradicted or limited by actual unknown festivals, disruption and receiver differences. Monster jokes do not create a nonhuman identity. Learning logistics does not establish mastery; sales language does not show every purchase."
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "4eca624a417f89eca6c1d48dfa6920289d9bd2373a657243e74a894a5895dd46",
+        "line_text": "Literal attribution is particularly necessary around the BOND005 troupeA label at u58, which has a plea consistent with Umika's function, and EVENT835's u83 self-address tag in the recognition sequence. The maintained argument marks the seams; this monograph does not authenticate runtime speakers. Source uncertainty narrows an exact-person claim rather than deleting the scene's broader event or manufacturing an utterance. Sensei's inward responsiveness, choice alternatives and local report layers remain separate. No new native, raw, parser QA, locale replay, performed voice, audio, timing or audiovisual inspection is credited."
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "17f24eb41baf32396f0b960f4e43975faad44e56f91405386011a35632cf9985",
+        "line_text": "The exact source quartet remains visible: current Cycle008 admission, personally adequate analytical receiving, historical undeclared exposure/order/independence, and performance still unreceived. The gift's documentary release window does not date a MAIN state. Costume identifiers are not a chronological ladder; variant10090 and its costume join are literal metadata with different written modes. The monograph is retrospective synthesis under architecture1.12/method1.10, with no reconstruction-model promotion, heldout test, prospective prediction or empirical certification of fire, doll, commercial or ritual mechanisms."
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "43c14cb688b4f72af54e64b53c5973a047693815cddd759c6186471ace6a997f",
+        "line_text": "## 10. Competing readings and what the endings discriminate"
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "d45470f9ed20f5db59c0ffa944ad81e34c6847df347bbec7482224f0e97ef453",
+        "line_text": "**The harmless festival enthusiast.** This reading correctly retains genuine delight, preparation, generosity and achieved company. It fails if harmlessness turns BOND005's overwhelming service, EVENT835's actual early fireworks movement, concealed risk or unfinished accountability into inconsequential comic decoration. Food praise and a safely ended trip are limited positive results. They do not retroactively supply consent or cancel material danger. The bounded thesis preserves her delight while declining universal harmlessness."
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "e557b6460c83d9028fc299182eb4cae05a2ad08d3458279f7e3f67c9097fe957",
+        "line_text": "**The incompetent organizer whose mistakes define her.** The error, new-festival surprise, limited knowledge and self-blame support fallibility. They cannot explain away private completed work, actual shared viewing, measured costume preparation, choosing the assignment, requesting help or the resumed ceremony. Shizuko's recognition is meaningful contrary testimony. Her business ambition is unfinished, but an unfinished aspiration is not a completed failure. The evidence supports specific mistakes and specific accomplishments without a general competence score."
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "aee5a2ab5b49f63c11c26d61cf394c334f8d5548c8641958099a48087a78979c",
+        "line_text": "**The solitary collector who uses recipients as an audience.** Goods and rankings can display herself, and hospitality can press her preferred form onto guests. Yet she explicitly values others' happiness, delights in preparation, concedes uncertain symbolic objectivity and conditions a keeping request on preference. Quiet rest and actual company are not explained by an audience-only motive. The ending of BOND005 nonetheless retains a difficult boundary, so neither pure selflessness nor pure self-display explains all exchanges."
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "0a3e0b07b3b6820a5f9cba9b60b6ca4c117b5acf199037f8c3da332c81b4307c",
+        "line_text": "**The dependent junior whose worth is conferred by Shizuko or Sensei.** Their mentorship, help and praise are substantial, and her doubts make recognition valuable. Her ranking, remembered childhood anticipation, decision to participate, outfit refusal, early error and request to finish are independently hers. The gift credits Shizuko's commercial idea rather than claiming its authorship; that attribution is evidence of discernment, not absence of agency. Recognition is part of a relationship, not the sole source of her aims."
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "25fa65a7f76552885fd7223aaa941ada684fd2e0271590bca1b2b8522748c36e",
+        "line_text": "**The redeemed expert at the end of EVENT835.** The completed ceremony and safe trip make a positive local arc supportable. They do not secure perfect later timing, financial repair or a lasting personality transformation. Shizuko's too-soon objection, future committee work and uninspected costs preserve the difference between a successful ending and a mastered domain. A later new festival unknown to Umika can be read alongside this achievement without forcing either scene into a chronology the sources have not fixed."
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "4c04ad123b27242461fc3884ed8ee74b806efc514c1d3abbd5e48f2f86c5f573",
+        "line_text": "**The romance or religious devotion narrative.** The private festival, doll entrustment, embarrassment and deity analogy support affective interpretation. They do not show reciprocal romance, a matching doll's fixed destiny, formal worship, exclusive motive or all future requests accepted. Her explicit concession about objective significance is strong contrary evidence to a binding symbolic rule. A serious literary reading can preserve intimacy coding and personal gratitude without installing their strongest possible institutional or relational conclusions."
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "5aabcc9381821d5bbb04fc5be53c8029d5a1bc4043f1a70d26f0a9a411218e99",
+        "line_text": "**The mere instrument of festival mythology.** MAIN's local book effect and private analogies permit thematic comparison. Niya later retracts an ancient-festival theory as bluff, and practical errors and distributed help remain actual. Treating Umika as the mechanism by which a whole school purges evil would exceed the evidence and erase her food, fatigue, pleasure and chosen work. The strongest synthesis instead keeps mythic language, local events and ordinary wants in tension, without making one certify the others."
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "bb2d990f8abae978759cc0ee523346e6ae0982adc914e0a6291890d7e41dd4d0",
+        "line_text": "## 11. Source boundary, original open gaps and completion disposition"
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "e1f8dba76bfecd6fb8ccf2077bda225683d6a5d22812aedc1cd70d3e305ed712",
+        "line_text": "The wholly received maintained private owner contains all twelve literal CH0110 duties: `BA:bond:10090:002/003/005/006/015`; `BA:momotalk:10090:thread:100900010/100900090/100900170/100900230/100900330`; `BA:character_data:10090:profile_and_dialog`; and `BA:character_data:event_costume:1900924101:character:10090`. The same adequate504-line argument contains independent Shizuko20/Fina19 comparisons. Complete personally received public meanings include GROUP2301–2302 and2403–2404, compact EVENT801/813/815, EVENT835149/847159, V005C00195/C00292, specific MAIN005C001E012/005C002E003/005C002E023, Final100C002E010, and EVENT80000's nine-object comparison plus UmikaE117. Negative-role/background inquiries and other persons' gift/food arguments provide comparison only where no Umika act is authenticated. Exact receipt scopes govern this inventory, including any retained selected rather than whole owner credit."
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "2af56f99388989d0257fae38de08736d420be34411d5be3e0a18af3f34d913eb",
+        "line_text": "No mandatory primary replay is needed to state the bounded claims above. Exact canonical/native recovery would be necessary before asserting disputed runtime attribution as settled, full event-locale identity, an accepted entrustment, objective symbolic efficacy, total history, legal duties, technical safety, bodily cure, comprehensive repair or unseen future fulfillment. Those stronger assertions are not made. Current small navigation controls locate the existing home; they do not add literary source credit or denominator entries. Main2e/c1 analytical identity is distinguished from capturedcf2f navigation and any later mutable ROOT publication state. All nine UNBOUND large bodies and preserved `_phase2_work` bodies remain unopened and unhashed."
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "b303800d0c22a4c68df61def9f2a49405bd82974385dff095f9fe3e6c383f67d",
+        "line_text": "| Original stable gap | Umika contribution and remaining warrant | Disposition |"
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+        "line_text": "|---|---|---|"
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "756aa10c47816fa46ca09448277a49b0d19060457c776650749518f993e96a82",
+        "line_text": "| G01 Ordinary and private breadth | Rest, preparation, collecting, taste, actual company and work ambition broaden ordinary range; twelve duties do not exhaust everyday life or prove a personality mechanism. | OPEN |"
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "fbf71605522baa7027debe6a4713d880533cc2f48caf461c6122772f006bca80",
+        "line_text": "| G02 Yuuka council/club decision transfer | Committee budgeting and local help permit comparison, not a transferred Yuuka rule; her independent decision and office sources remain necessary. | OPEN |"
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "30cfcaede9858ac627ad8792514ab99470a5b034905243fa925e492af1cf6f31",
+        "line_text": "| G03 Serika service, peer and reciprocity range | Hospitality, food reception and conditional entrustment add comparison; Serika's separate customers, labor and private relations are not completed here. | OPEN |"
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "8c103bdb347c35a1750f9c505282655f7cae353a9f71e51b32b00b33e4d98ed1",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Distributed fireworks error/help and wanted pleasure are comparison only; Hina's own causes, accountability and ordinary ends remain separate. | OPEN |"
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "dd5edf38f54388f41797668c6fe558255d9b44c0057580833b82c4e6b21009e9",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | Celebration and unfinished repair do not settle another group's material needs, coercion or aftermath; their distinct exact evidence and homes govern. | OPEN |"
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "869e0fd67a885ac9e673660ae9f99046369d80c7b60b5f4f5d1e19966e7257b7",
+        "line_text": "| G06 Cross-school ordinary repertoire | Quiet willow, visitors' choices, food, photographs and gifts expand local repertoire without universal enjoyment or automatic membership. | OPEN |"
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "4c1af926a0ee19ff898bc8cf5dbce0a6841097b767945d3d6f04b8fe212ef711",
+        "line_text": "| G07 Story-world chronology | Local preparation, messages and ceremony endpoints are usable; release windows, costumes and episode order do not fix an overarching calendar. | OPEN |"
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "f15d543dbef237bcbd20c7a2a6d3d18491f331cf7c65ee2faed10d9020180889",
+        "line_text": "| G08 Event naming and repeat contexts | Exact835/847/80000 routes, unnamed overarching gift event and separate costume contexts remain literal; no inferred merger of repeated festivals. | OPEN |"
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 172,
+        "line_sha256": "02b27c691b97a2306efc25a9699f344f21dc1e065a58500060db83ecc7c02b50",
+        "line_text": "| G09 Written speaker/choice attribution | Inward response seams, BOND005u58/E835u83, choices and reported layers remain qualified; runtime speaker authentication is unreceived. | OPEN |"
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 173,
+        "line_sha256": "78f9f9b877499e94d07c7e03b4106dd47efa5ddb5e23beb9ba7315608b167bd2",
+        "line_text": "| G10 Performed voice | Written fluency, hesitation and imagery are received; heard accent, acting, timing, audio and audiovisual performance remain unreceived. | OPEN |"
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 174,
+        "line_sha256": "696f2577e554ddece049a93cd1ce5d111d5a5af501511aea115f273444068f72",
+        "line_text": "| G11 Hoshino's Yume record and office states | Shared MAIN/Final context supplies no new Yume record or Hoshino office outcome; her separately bounded monograph and sources govern. | OPEN |"
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 175,
+        "line_sha256": "650e96f92a6ddc1d2a1f1d77b0b16f6ba84f329f7ab9d9efd7caf135811e02fd",
+        "line_text": "| G12 Counterpart, system and variant identity | CH0110/10090/costume1900924101 stay literal; dolls, jokes, generic workers and future roles do not authenticate a new person or global chain. | OPEN |"
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 176,
+        "line_sha256": "779b001d4658bba4a14c2b3eb9e08d2763f35198218a6a99bd12d0d78fb47782",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | Begun work, completed ceremony and reported cleanup are distinguished from claims; promotion, contracts, fire/ritual mechanism, inspection and repair lack full certification. | OPEN |"
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 177,
+        "line_sha256": "5941f923f2c3e23f8051265e0875d02cda26c3164a10bc5da0664823387618d7",
+        "line_text": "| G14 Unclassified/mode continuity | No unclassified source or preserved producer body is admitted or replayed; gift, written costume and BOND modes do not settle unresolved continuity. | OPEN |"
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 178,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 179,
+        "line_sha256": "7a1952e5d425053420d09e10984143b6b2901312754cca3cda4bf4b452195205",
+        "line_text": "This is a complete bounded textual monograph candidate for the existing Umika home, subject to independent ROOT whole receiving, exact verification and acceptance. Required directed relationships, ensembles, institutions, Sensei responsibilities, written-register synthesis and whole-cast convergence remain distinct duties under355/29; they are not optional polish to this character document. No self-acceptance, canonical installation, model, new primary/native/raw/QA/AV, denominator or milestone credit is claimed."
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          7,
+          7
+        ],
+        "canonical_lines": [
+          7,
+          7
+        ],
+        "frozen_text": [
+          "status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          27,
+          27
+        ],
+        "canonical_lines": [
+          27,
+          35
+        ],
+        "frozen_text": [
+          "publication_acceptance_and_count: ROOT_ONLY_PENDING"
+        ],
+        "canonical_text": [
+          "historical_author_publication_acceptance_and_count: ROOT_ONLY_PENDING",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIKA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: 732b3f2e635d2b8e8855f4e6709354031936ebc6"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          31,
+          30
+        ],
+        "canonical_lines": [
+          39,
+          40
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently received and accepted the complete bounded character responsibility WITH LIMITS. The [full ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_UMIKA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual source scopes and historical author controls. The [full saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_UMIKA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves the frozen original and operative supplement/correction paths with complete exact byte inverses. All earlier author pending, local-candidate, next-work and count statements retained below describe creation-time provenance; they do not revoke this later ROOT acceptance or assert completed publication. The frozen source-capture keys remain historical; current metadata preparation is separately bound to 732b3f2e635d2b8e8855f4e6709354031936ebc6. This fixed sixteen-package74–89 successor reaches89 persisted packages (84 character,4 directed,1 ensemble) only after complete ROOT installation. Later live reviews are excluded.355/29 scope,18 section-parent allocations,1 named-section completion, all14 original OPEN gaps and model0 remain unchanged. The installed89 literary threshold is reached only after full ROOT installation; the goal25% milestone remains incomplete pending successful successor publication chain, an explicitly authorized main merge, and the exact postmerge audit. Current source-published packages remain73 before that publication; main integration remains pending. Canonical navigation uses the governed Character Monographs home, without a new literary scope. Publication and main integration remain separate."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "original_transports": [
+    {
+      "path": "FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 39767,
+      "sha256": "f58f3688785308ad8157262285ab46590233ef75aaac8a0e853c8152564d3465",
+      "git_blob_oid_of_actual_bytes": "3931276c8f68895fc930574caf3a4627c900d8dc",
+      "lines": 169,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "ROOT_UMIKA_CORRECTED_OPERATIVE_CANDIDATE_V1/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH_CORRECTED_CANDIDATE_V1.md",
+      "bytes": 39757,
+      "sha256": "b381617e873307ea9f0c0fc9bfdbd1c1037ec6ff3ee312ab9038b1275d50788b",
+      "git_blob_oid_of_actual_bytes": "f57cfb0e8868f520abb19a883764000c3ea38f20",
+      "lines": 169,
+      "immutable_transport_path": "immutable_originals/ROOT_UMIKA_CORRECTED_OPERATIVE_CANDIDATE_V1/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH_CORRECTED_CANDIDATE_V1.md"
+    },
+    {
+      "path": "FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 114688,
+      "sha256": "4e78ceb616fc39e2217b91dbcf11840f9c4386e1680b2185391227286a1e48e8",
+      "git_blob_oid_of_actual_bytes": "4e5963e37dcfdb2d6fa98b70cfb9d8dc4c1b9613",
+      "lines": 2325,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "FESTIVAL_MONOGRAPHS/UMIKA_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 3025,
+      "sha256": "5a08deb60a68c7a04a1f9461cbba206540cee8e2a720e4f8909ede3a0dc2327c",
+      "git_blob_oid_of_actual_bytes": "6ddbb540c20035b41aca397e79bacf60d95a3d1d",
+      "lines": 62,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/UMIKA_FROZEN_DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "ROOT_UMIKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 4327,
+      "sha256": "3d9c5bd5bd4ec42d6dc63758ae2d86ff3ebe19d0362e51f231c31ccd1031d500",
+      "git_blob_oid_of_actual_bytes": "0b4e4a7a3e8f0783754c939c2f942540786cea1e",
+      "lines": 73,
+      "immutable_transport_path": "immutable_originals/ROOT_UMIKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 6863,
+      "sha256": "79fb1c4b2979d100db85c897f08b849a4463d926c7b0da8cfef30ad37754b33e",
+      "git_blob_oid_of_actual_bytes": "578dc1dd9308ca0e4ae9dfae9b887f68f5bf97a7",
+      "lines": 39,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.md"
+    },
+    {
+      "path": "FESTIVAL_MONOGRAPHS/UMIKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 6499,
+      "sha256": "83331a59d3f7639783ec14b61b5aaaee2b2c96c8e3bd0c169fad07bd338bf305",
+      "git_blob_oid_of_actual_bytes": "dcf7ce6fe18d6756bdd5f6da004c26562bd5ead4",
+      "lines": 117,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/UMIKA_CURRENT_WORKTREE_METADATA_PROBE.json"
+    },
+    {
+      "path": "FESTIVAL_MONOGRAPHS/UMIKA_BOND003_ACTUAL_PAYMENT_RETURN_ERRATUM_V1.md",
+      "bytes": 2004,
+      "sha256": "9b1a938e44aac2c5ad0d246c8cc2ad44ab17a30ffe0d2893ea60c6deabfe88d4",
+      "git_blob_oid_of_actual_bytes": "388729fc9b6d3d1a224fe588c2428f2a2c041c2a",
+      "lines": 19,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/UMIKA_BOND003_ACTUAL_PAYMENT_RETURN_ERRATUM_V1.md"
+    },
+    {
+      "path": "FESTIVAL_MONOGRAPHS/UMIKA_BOND003_ACTUAL_PAYMENT_RETURN_ERRATUM_RECEIPT_V1.json",
+      "bytes": 5033,
+      "sha256": "22f9b05aa305658b5a1a59b697aadc6aca8b6546a51a90bb2af5f98138dfa918",
+      "git_blob_oid_of_actual_bytes": "84402eba80f24188dd3953892987402e48b85e15",
+      "lines": 66,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/UMIKA_BOND003_ACTUAL_PAYMENT_RETURN_ERRATUM_RECEIPT_V1.json"
+    },
+    {
+      "path": "ROOT_UMIKA_CORRECTED_OPERATIVE_CANDIDATE_V1/ROOT_UMIKA_EXACT_CORRECTION_VERIFICATION_V1.json",
+      "bytes": 2575,
+      "sha256": "821ab75b2303ae9eb2dc4467727ba5a8fae98e14b770329232fd73ae35bfaec4",
+      "git_blob_oid_of_actual_bytes": "55bac89157e26aeb1a78d49cc4da2ac672f03e64",
+      "lines": 27,
+      "immutable_transport_path": "immutable_originals/ROOT_UMIKA_CORRECTED_OPERATIVE_CANDIDATE_V1/ROOT_UMIKA_EXACT_CORRECTION_VERIFICATION_V1.json"
+    }
+  ],
+  "mandatory_canonical_qualifications": [],
+  "canonical_link_only_translations": [],
+  "new_primary_performance_independent_model_scope_or_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}
