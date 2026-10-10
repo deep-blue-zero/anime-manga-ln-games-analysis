@@ -28,7 +28,7 @@
  ],
  "main43_retrieval_witnesses": "COMPLETE_ARGUMENT_AND_SOURCE_SCOPED_DISPOSITION_ACCEPTED_WITH_LIMITS",
  "quarter_reached": true,
- "progress_percentage": "NOT_REPORTED;fixed101afterROOTinstallation;first25milestoneacceptedcompleteatmerged89;next178;laterliveROOTacceptancesseparate",
+ "progress_percentage": "NOT_REPORTED;fixed108afterROOTinstallation;published101;merged89first25complete;next178;laterliveROOTreviewsseparate",
  "opening_candidate_responsibility_rows": 761,
  "new_source_local_or_non_character_headers": 27,
  "completed_owner_roster_reviews": 105,
@@ -48,7 +48,7 @@
   "P3-XMI-R001"
  ],
  "initial_761_still_pending_rows": 0,
- "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29_25PARENTS_ACCEPTED_WITH_LIMITS;FIRST25_MILESTONE_COMPLETE_AT_MERGED89;101_FIXED_TWELVE_PACKAGE_SUCCESSOR_AFTER_ROOT_INSTALL",
+ "milestone_scope_state": "ROOT_REQUIRED_SCOPE355_29_25PARENTS_ACCEPTED_WITH_LIMITS;FIRST25_MILESTONE_COMPLETE_AT_MERGED89;108_FIXED_SEVEN_SUCCESSOR_AFTER_ROOT_INSTALL",
  "accepted_literary_character_packages": [
   "Asuna",
   "Toki",
@@ -138,7 +138,11 @@
   "Tomoe",
   "Marina",
   "Kisaki",
-  "Rumi"
+  "Rumi",
+  "Reijo",
+  "Saya",
+  "Mina",
+  "Kokona"
  ],
  "millennium_v2_eligibility_arguments_adopted": [
   "Akane",
@@ -164,17 +168,18 @@
   "P3-XMI-R004",
   "P3-XMI-R005"
  ],
- "package_tracking_rows": 125,
- "completed_literary_packages": 101,
- "completed_literary_character_packages": 89,
- "completed_literary_directed_relationship_packages": 6,
+ "package_tracking_rows": 132,
+ "completed_literary_packages": 108,
+ "completed_literary_character_packages": 93,
+ "completed_literary_directed_relationship_packages": 7,
  "accepted_literary_directed_relationship_packages": [
   "Noa–Yuuka: privacy, memory and wanted company",
   "Meg–Kasumi: craft, care and leverage",
   "Kirara–Erika: exploration, privacy and broadcasting",
   "Kazusa–Reisa: company, refusal and directed boundaries",
   "Sora–customers–Sensei: recognition within paid routine",
-  "Mel–Momiji: craft, privacy and reciprocal correction"
+  "Mel–Momiji: craft, privacy and reciprocal correction",
+  "Shanhaijing Rumi: particular care and different answers"
  ],
  "historical_pre_full_scope_frontier": {
   "eligible_package_denominator": "NOT_YET_FIXED; complete census adjudication required before progress thresholds",
@@ -189,11 +194,14 @@
  },
  "N_frozen": true,
  "required_named_sections": 29,
- "completed_required_named_sections_after_ROOT_install": 3,
+ "completed_required_named_sections_after_ROOT_install": 6,
  "completed_named_section_ids": [
   "P3-SECTION-HINA-ICE-POP-GIFT-PRIVACY",
   "P3-SECTION-YUUKA-CC-FISCAL-CHOSEN-OCCUPATION",
-  "P3-SECTION-AKANE-NERU-APPEARANCE-RECIPIENT-BOUNDARY"
+  "P3-SECTION-AKANE-NERU-APPEARANCE-RECIPIENT-BOUNDARY",
+  "P3-SECTION-MISUZU-CORRECTIONAL-GUEST-WORK-RECOGNITION",
+  "P3-REL-KISAKI-RUMI",
+  "P3-REL-REIJO-RUMI"
  ],
  "required_scope_authority": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
  "ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
@@ -219,8 +227,8 @@
   "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_DISPOSITIONS_PART_02_V3.json"
  ],
  "required_package_index_rows": 355,
- "legacy_package_tracking_rows": 125,
- "canonical_persistence_qualification": "ROOT independently accepted the fixed twelve existing responsibilities90–101 WITH LIMITS: Sweets temporary band, Sora–customers–Sensei, Mel–Momiji, Justice institution, Cherino, Engineering institution, Tomoe, Marina, C&C institution, Kisaki, Rumi and the corrected C&C company ensemble. The first89 packages were source-published at 7546a2331b3f2ca83798d54f9a2b8120c780adae, authorized-squash-merged in PR147 as main b76b4373e6d0526bc78ce00bb673dba9e536c128 with identical tree e9b01c39d750a9d12296023f0b29d04f30f3cdb5, and accepted after full exact postmerge audit38080340801 (292 tests, zero skips). The first25% goal milestone is COMPLETE under the separately accepted ROOT control; Phase3 remains ACTIVE and incomplete, with the next threshold178. This preparation does not perform local branch reconciliation, installation or publication. Only complete ROOT installation persists these twelve packages, giving101 (89 character,6 directed relationship,3 ensemble,3 institution) and3 completed non-denominator named duties. The two newly accepted named directions are Yuuka–C&C fiscal/chosen occupation and Akane–Neru appearance/recipient boundary, substantial sections in the one C&C institution; no extra denominator package is added. Reijo102 and Valkyrie institution/Misuzu103 were independently ROOTaccepted in later reviews and remain excluded from this fixed90–101 snapshot; their packages and Misuzu named duty receive no persistence in this proposal.355 required packages,29 mandatory substantial named duties across25 distinct parent packages (literal kinds18 SECTION,9 DIRECTED_RELATIONSHIP,2 ENSEMBLE),89/178/267/355 thresholds,788 heterogeneous navigation rows,105 owner duties,1107 literal source units and all60 original tracker questions remain unchanged. Legacy tracking has125 rows and is distinct from355 required packages. Corrected Sweets-band V2 and C&C-company V2 retain every prior original and inverse; band source-copy custody is governed by package90 sequence-close qualification. Justice JI048 is an evidence-route row, with only its projection classification changed from GAP_ROW to SOURCE_ROUTE_ROW; all14 actual gap rows remain OPEN. The current Cycle008 admission, source-class, source-pin, mode, chronology, report/choice/raw-label, recipient agency and actual author/ROOT receiving boundaries remain exact. All fourteen original gaps remain OPEN; model0 remains unchanged. Mechanical copying and reference/status/home normalization add no new literary, primary, performed, independent, model, scope or denominator credit. The original first-quarter and all earlier snapshots remain dated history, including their then-pending merge/audit wording.",
+ "legacy_package_tracking_rows": 132,
+ "canonical_persistence_qualification": "ROOT independently accepted the fixed seven existing responsibilities102–108 WITH LIMITS: Reijo, Valkyrie institution with substantial Misuzu duty, the different-direction Rumi parent with substantial Kisaki–Rumi and Reijo–Rumi duties, Saya, Mina, Genryumon institution and Kokona. Complete ROOT installation persists108 packages (93 character,7 directed relationship,3 ensemble,5 institution) and6 completed non-denominator named duties. Current published source101 is bf5ded30464ab39f78f71e79ecc7494654c25faa/tree f84fb33df77dfcef9fb7270cb4d1064f6ec9c898; its actual source38083519002→housekeeping38084477394 NOOP→final38084498788 exact-head full292-test audit chain is ROOT-accepted. Automatic workflow metadatahead mainb76 is not the audited source; requested shadow actually executed full with selectiondisabled and zero skips. Merged main b76b4373e6d0526bc78ce00bb673dba9e536c128 contains89 packages, and the first25% goal milestone is independently complete after the exact full postmerge audit. The source7546/mainb76/ordinary local2714 histories retain distinct equal-e9 custody; later bf5 progress is not a new literary source meaning. Required355/29 across25 distinct parents (18 literal SECTION,9 DIRECTED_RELATIONSHIP,2 ENSEMBLE), milestones89/178/267/355,788 heterogeneous navigation rows,105 owner duties,1107 admitted literal source units and all60 original tracker questions remain unchanged. Legacy tracking has132 rows, distinct from the required denominator. Three new named duties persist within two existing counted parents; two earlier C&C discharge-index flags are synchronized to their already accepted substantial ROOT98 arguments and add no literary or package credit. Genryumon uses the existing Institutional Syntheses directory with a complete inverse for the old proposed spelling; its staged C05 qualifier, Saya historical pending-audit and Kokona2714-versus-bf5 custody remain visible. All original bodies/receipts and mandatory qualifications survive exact public-safe translations and full byte inverses; all14 original gaps stay OPEN and model0 unchanged. Later109+ reviews remain excluded from this fixed snapshot. No new source, primary, performed, independent literary, scope, denominator, model or milestone credit comes from this mechanical preparation. Phase3 remains ACTIVE and incomplete; next integration threshold178. No installation, publication or merge is performed by this proposal. All prior dated snapshots remain preserved as history.",
  "source_units_in_selected_public_census": 1107,
  "literal_source_local_header_routes": 8326,
  "literal_choice_routes": 742,
@@ -234,16 +242,18 @@
   "Sweets temporary band: unequal making and recipient audience",
   "C&C differentiated company: contested belonging and ordinary company"
  ],
- "quarter_reached_qualification": "First89 packages were merged and exact postmerge full audit independently ROOTaccepted; the twelve-package successor is not yet installed or published.",
+ "quarter_reached_qualification": "First89 milestone is independently complete after merge and exact full postmerge audit; published101 successor complete chain; fixed102–108 not yet installed or published.",
  "goal_quarter_milestone_complete": true,
  "goal_quarter_milestone_remaining_prerequisites": [],
- "currently_source_published_packages_before_successor_publication": 89,
- "main_integration": "FIRST89_MERGED_b76b4373e6d0526bc78ce00bb673dba9e536c128_POSTMERGE_AUDIT_ROOT_ACCEPTED;SUCCESSOR90_TO101_NOT_YET_INTEGRATED",
- "completed_literary_institution_packages": 3,
+ "currently_source_published_packages_before_successor_publication": 101,
+ "main_integration": "FIRST89_MERGED_b76b4373e6d0526bc78ce00bb673dba9e536c128_POSTMERGE_AUDIT_ROOT_ACCEPTED;SOURCE101_PUBLISHED_BF5;SUCCESSOR102_TO108_NOT_YET_INTEGRATED",
+ "completed_literary_institution_packages": 5,
  "accepted_literary_institution_packages": [
   "Justice Task Force: work, leisure and answerability",
   "Engineering: craft, clients and recipient constraints",
-  "C&C: student operative labor and chosen occupation"
+  "C&C: student operative labor and chosen occupation",
+  "Valkyrie: duty, rest and independent recipients; substantial Misuzu role",
+  "Genryumon: tradition and unchosen office"
  ],
  "goal_quarter_milestone_ROOT_control": {
   "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
@@ -303,5 +313,192 @@
    "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
   }
  },
- "currently_main_integrated_packages_before_successor_publication": 89
+ "currently_main_integrated_packages_before_successor_publication": 89,
+ "current_source101_publication_ROOT_control": {
+  "original_exact_tuple": {
+   "path": "ROOT_BF5_SOURCE101_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+   "bytes": 6382,
+   "sha256": "743572c2bc26772af1ea96adcefc54ca816589e33f744609332fcf89e7afae93",
+   "git_blob_oid_of_actual_bytes": "d489a3694d6585608ac1b6aa5e724bbb7f50ed30",
+   "immutable_transport_path": "immutable_originals/ROOT_BF5_SOURCE101_PUBLICATION_CHAIN_ACCEPTANCE_V1.json"
+  },
+  "complete_ROOTaccepted_payload": {
+   "schema": "BLUE_ARCHIVE_ROOT_BF5_SOURCE101_PUBLICATION_CHAIN_ACCEPTANCE_V1",
+   "checked_UTC": "2026-10-10T20:49:14.806799+00:00",
+   "status": "PASS_EXACT_CURRENT_SOURCE_HOUSEKEEPING_AND_FINAL_AUTOMATIC_CHAIN",
+   "decision": "ACCEPT_SOURCE101_COMPLETE_PUBLICATION_CHAIN_ANALYSIS_AND_NEXT_PUBLICATION_PREPARATION_MAY_CONTINUE",
+   "source": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+   "tree": "f84fb33df77dfcef9fb7270cb4d1064f6ec9c898",
+   "parent": "2714c7a67a34b7d6857db0ee84f95e77db943ece",
+   "unchanged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+   "source_packages": 101,
+   "merged_packages": 89,
+   "ROOTaccepted_packages_at_receipt": 108,
+   "ROOTaccepted_named_duties": 6,
+   "scope": "355required/29named/25parents unchanged",
+   "next_merge_milestone": 178,
+   "source_housekeeping_final_runs": [
+    {
+     "id": 38083519002,
+     "name": "Repository audit",
+     "event": "push",
+     "head_sha": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+     "status": "completed",
+     "conclusion": "success",
+     "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38083519002",
+     "created_at": "2026-10-10T20:22:53Z",
+     "updated_at": "2026-10-10T20:37:35Z"
+    },
+    {
+     "id": 38084477394,
+     "name": "Global index housekeeping",
+     "event": "workflow_run",
+     "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+     "status": "completed",
+     "conclusion": "success",
+     "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38084477394",
+     "created_at": "2026-10-10T20:37:36Z",
+     "updated_at": "2026-10-10T20:37:57Z"
+    },
+    {
+     "id": 38084498788,
+     "name": "Repository audit",
+     "event": "repository_dispatch",
+     "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+     "status": "completed",
+     "conclusion": "success",
+     "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38084498788",
+     "created_at": "2026-10-10T20:37:56Z",
+     "updated_at": "2026-10-10T20:45:40Z"
+    }
+   ],
+   "exact_execution_witnesses": [
+    {
+     "role": "SOURCE",
+     "actual_audited_commit": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+     "archive_outcome": "success",
+     "requested_profile": "shadow",
+     "executed_profile": "full",
+     "tests_run": 292,
+     "skipped": 0,
+     "errors": 0,
+     "failures": 0,
+     "selection_enabled": false,
+     "archive_report_actual_log_range": [
+      284,
+      448
+     ],
+     "test_report_actual_log_range": [
+      451,
+      2053
+     ],
+     "complete_log": {
+      "path": "SOURCE_COMPLETE_EXECUTED_LOG_V1.log",
+      "bytes": 331377,
+      "lines": 2144,
+      "sha256": "124c59a764730f3d72ff1ed47b6917219966cd961f53c144388dcab34f522032",
+      "git_blob_oid_of_actual_bytes": "4b1813c87a645f07bc2f22a789b4c47a47c12069"
+     }
+    },
+    {
+     "role": "HOUSEKEEPING",
+     "actual_source": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+     "actual_dispatched_commit": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+     "source_audit_conclusion": "success",
+     "result": "NO_OP_UNCHANGED_BRANCH_BOUNDARIES_VERIFIED_NO_GENERATED_CHILD",
+     "complete_log": {
+      "path": "HOUSEKEEPING_COMPLETE_EXECUTED_LOG_V1.log",
+      "bytes": 44330,
+      "lines": 267,
+      "sha256": "70b581792c7f736b322b839dd07b13a65414d22d1dcb185585cb2ee51310d9a2",
+      "git_blob_oid_of_actual_bytes": "07ff5c7bc8275d57b089ea813d5775ba28badc3f"
+     }
+    },
+    {
+     "role": "FINAL_FULL_AUDIT",
+     "actual_audited_commit": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+     "archive_outcome": "success",
+     "requested_profile": "shadow",
+     "executed_profile": "full",
+     "tests_run": 292,
+     "skipped": 0,
+     "errors": 0,
+     "failures": 0,
+     "selection_enabled": false,
+     "archive_report_actual_log_range": [
+      284,
+      443
+     ],
+     "test_report_actual_log_range": [
+      446,
+      2048
+     ],
+     "complete_log": {
+      "path": "FINAL_FULL_AUDIT_COMPLETE_EXECUTED_LOG_V1.log",
+      "bytes": 330841,
+      "lines": 2139,
+      "sha256": "bb41ac4855043469c3a53f33f773c87d0756a90b3617d8bfa87db7c50234b706",
+      "git_blob_oid_of_actual_bytes": "83de2ae3c16e0e55b5f8b78707e705e6b85c4a73"
+     }
+    }
+   ],
+   "exact_status": {
+    "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/bf5ded30464ab39f78f71e79ecc7494654c25faa",
+    "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+    "id": 56063339987,
+    "node_id": "SC_kwDOUJ9ads8AAAANDaKt0w",
+    "state": "success",
+    "description": "Exact commit passed the repository audit",
+    "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38084498788",
+    "context": "Repository integration audit",
+    "created_at": "2026-10-10T20:45:38Z",
+    "updated_at": "2026-10-10T20:45:38Z"
+   },
+   "capture": {
+    "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_BF5_SOURCE101_COMPLETE_AUTOMATIC_CHAIN_V1/EXACT_COMPLETE_CHAIN_CAPTURE_AND_EXECUTED_WITNESSES_V1.json",
+    "bytes": 34400,
+    "sha256": "6b54917675b46d5409208c1ea86c55548a5a31adcf52807d7c1acbee467358d0"
+   },
+   "ROOT_actual_receiving": "207b19 actual remote source/main/tree/parent and all selected source+housekeeping runtime lines;68921b actual final audit/source status and selected literal292/OK/profile/skip0 lines.0e60f4 reconstructs actual complete executed archive/test reports and separates runtime values from displayed workflow code; both archive successes/full292/zero-skipped and real housekeeping source/dispatched SHA received. Broad72d0fb/afcd72/4ec729 regex output clipped and grants no additional receiving; exact bounded report reconstruction supplies needed evidence. Full complete saved logs and all selected lines byte-verified. Displayed main workflow head b76 is not the audited source commit.",
+   "first25_milestone_complete": true,
+   "new_merge_or_milestone_effect": "NONE; milestone50 at178 remains future",
+   "repository_Git_provider_mutations": 0,
+   "new_literary_source_performed_model_credit": 0,
+   "UNBOUND9": "UNREAD_UNHASHED",
+   "untracked39": "STAT_ONLY_PRESERVATION",
+   "full_goal_status": "ACTIVE_INCOMPLETE"
+  }
+ },
+ "existing_two_CC_named_index_synchronization": {
+  "original_exact_ROOT98_tuple": {
+   "path": "ROOT_CC_INSTITUTION_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+   "bytes": 6462,
+   "sha256": "09b7f7fd1d6c8e2629fc26119e249c16348f5c2ae5958d8eb82d6894af1aa8b1",
+   "git_blob_oid_of_actual_bytes": "0422e6c49ae73892f35db75c5147703fa5bbbe24",
+   "immutable_transport_path": "immutable_originals/ROOT_CC_INSTITUTION_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "actual_complete_prior_named_adjudications": [
+   {
+    "section_id": "P3-SECTION-YUUKA-CC-FISCAL-CHOSEN-OCCUPATION",
+    "decision": "ACCEPT_COMPLETE_NAMED_BOUNDARY_WITH_LIMITS",
+    "full_paragraphs": 8,
+    "saved_range": [
+     59,
+     76
+    ],
+    "grounds": "Full fiscal/municipal purpose, reported internal delegation and acknowledgment, actual Neru information gap and refusal, compressed café outcome, thanks, rejected permanent occupation and distinct Seminar comparison are substantial linked arguments. Reported commitment and internal rule do not establish a legal instrument or free earlier Neru agreement. Heading credit is not used."
+   },
+   {
+    "section_id": "P3-SECTION-AKANE-NERU-APPEARANCE-RECIPIENT-BOUNDARY",
+    "decision": "ACCEPT_COMPLETE_NAMED_BOUNDARY_WITH_LIMITS",
+    "full_paragraphs": 5,
+    "saved_range": [
+     77,
+     88
+    ],
+    "grounds": "Akane own pleasure and initiative meet Neru actual jacket refusal and separately allowed hair arrangement. Intrinsic private preferences and other members differing clothing pleasure cannot decide Neru assent. Preparation, actual opening and correction of service vocabulary retain achieved and unfinished consequences. This is the full required directed recipient argument within its institution parent, adding zero denominator package."
+   }
+  ],
+  "literary_credit_added": 0
+ }
 }
