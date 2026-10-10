@@ -1,0 +1,376 @@
+{
+  "schema": "BLUE_ARCHIVE_KISAKI_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "status": "EXACT_PREPARATION_COMPLETE_ROOT_INSTALLATION_PENDING",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 46543,
+      "sha256": "646b36e265135e21c44eed1aa289da136651af48b42a1b84c6c7631e9b57ea67",
+      "git_blob_oid_of_actual_bytes": "110d0050988fe662d18d4575518ebc71840fc2f9"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 48754,
+      "sha256": "5ed779f9e2bddd3315e6b2031cab92d28e50c94cd622811aedabc5d481f6d42b",
+      "git_blob_oid_of_actual_bytes": "1e1f22bfcc3d9495953ce0bd1009dc2a7549c78e"
+    },
+    "complete_ranges": [
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          2
+        ],
+        "canonical_lines": [
+          1,
+          2
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "series: BLUE_ARCHIVE"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "original_lines_complete_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_artifact_type: character_monograph_candidate"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          4,
+          9
+        ],
+        "canonical_lines": [
+          4,
+          9
+        ],
+        "exact_unchanged_lines": [
+          "character: Kisaki / 竜華キサキ",
+          "required_home: P3-CHAR-KISAKI",
+          "typed_responsibility: P3-F044",
+          "literal_family: CH0139",
+          "literal_person: BA_PERSON_CH0139",
+          "variants: [10145, 20039]"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          10,
+          10
+        ],
+        "canonical_lines": [
+          10,
+          10
+        ],
+        "original_lines_complete_text": [
+          "status: AUTHOR_COMPLETE_CANDIDATE_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_status: AUTHOR_COMPLETE_CANDIDATE_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          11,
+          25
+        ],
+        "canonical_lines": [
+          11,
+          25
+        ],
+        "exact_unchanged_lines": [
+          "generation: V1",
+          "governing_architecture: \"1.12 §7.1\"",
+          "governing_method: \"1.10\"",
+          "execution_class: DEEP_SYNTHESIS",
+          "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+          "source_generation: BA_REFRESH_20260928T032248159554Z",
+          "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "dated_source_branch_witness: 732b3f2e635d2b8e8855f4e6709354031936ebc6",
+          "dated_navigation_witness: 86e0c3d8071aeaa2ed09bb79d4a28fce1c117103",
+          "source_boundary: \"Adequate accepted Kisaki21 private meanings:8 BOND/8 linked whole MomoTalk/5 written objects; personally complete relevant shared-account scopes. Complete accepted public/group/Final analytical arguments at the separately receipted extents. Zero new original-source, native/raw/QA, performed-media or model credit.\"",
+          "authority_quartet: \"Current scoped admission; adequate accepted analytical meanings and actual own receiving; historical order/independence UNKNOWN where undeclared; performed voice unreceived.\"",
+          "exposure: \"Retrospective, with represented local endings already received; FIRST/SECOND and undeclared independence unassigned.\"",
+          "mandatory_named_section_ids: []",
+          "all_original_fourteen_gaps: OPEN",
+          "created: 2026-10-10"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          26,
+          25
+        ],
+        "canonical_lines": [
+          26,
+          35
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "artifact_type: character_monograph",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KISAKI_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KISAKI_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_preparation_source_witness: 7546a2331b3f2ca83798d54f9a2b8120c780adae",
+          "accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          26,
+          28
+        ],
+        "canonical_lines": [
+          36,
+          38
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "",
+          "# Kisaki — an unchosen head who wants a life she can share"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          29,
+          28
+        ],
+        "canonical_lines": [
+          39,
+          40
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently accepted this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KISAKI_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual author/ROOT source scopes and the accepted first-milestone control; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KISAKI_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the frozen original and complete byte inverse. Retained author pending, local navigation, source-capture and count wording describes creation-time custody. The first89 packages were published at source `7546a2331b3f2ca83798d54f9a2b8120c780adae`, squash-merged as main `b76b4373e6d0526bc78ce00bb673dba9e536c128` with the same `e9b01c39d750a9d12296023f0b29d04f30f3cdb5` tree, and accepted after the exact postmerge full audit. This first25% milestone does not finish Phase3. The present fixed twelve-package90–101 continuation takes effect only through complete ROOT installation:101 packages (89 character,6 directed relationship,3 ensemble,3 institution), with3 of29 mandatory named duties; later live ROOT reviews remain outside this snapshot. Required355 packages and29 non-denominator duties across25 distinct parents, the next178 milestone, all14 original OPEN gaps and model0 remain unchanged. This preparation provides no installation, publication, local source/main reconciliation or new source, primary, performed, independent literary or scope credit."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          29,
+          171
+        ],
+        "canonical_lines": [
+          41,
+          183
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "## 1. Core thesis: accepting responsibility does not make office the purpose of a life",
+          "",
+          "Kisaki's strongest sustained distinction is between being responsible for a school and being a person whose life belongs entirely to that responsibility. She says people do not live to work, finishes necessary work efficiently, enjoys exercise she believes private and sometimes wants to sleep late. She also makes actual public apologies, interrupts unsupported accusations and refuses an offered relief purchased through renewed exploitation of students. These statements and acts support a serious commitment to others without proving that she chose headship, that leadership is her only desire or that suffering is her proper reward. Her statement that she never chose to become head is especially consequential beside Rumi's chosen cooking vocation and their remembered imperfect mooncakes (BA:group:3401:u0001–0006;3402:u0001–0015;BA:event:840:004:u0091–0138;007:u0058–0077).",
+          "",
+          "The monograph's thesis is that Kisaki tries to make an inherited public position answerable to lives that exceed their functions, including her own. She can conceive tradition as protection and gratitude rather than fixed repetition, want strangers to enter the school and allow personal address outside office. Yet this is a fallible, incompletely realized practice. Her members can turn a welcome into interrogation and captivity; her confidence that Teacher's presence prevents conflict is contradicted by actual confrontation; the past she recounts includes procedural shortcuts and erased records. Her own affection can press on the adult's finite availability or bodily boundaries. Wanted company, bodily pleasure and accountable public action coexist with unequal power; neither side licenses forgetting the other (BA:event:826:009:u0059–0118;839:002:u0016–0084/003:u0021–0165;840:010:u0058–0082;859:002:u0001–0032).",
+          "",
+          "Ordinary evidence has standing here before it becomes an explanation of leadership. Tea with a friend, crepes, a roof's horizon, a boat's scenery, fingers warmed together, a chosen gift, watching water and wanting to be carried are ends represented as worth having. They need not restore health, solve factionalism or produce a crisis victory to count. Conversely, the fact that Kisaki enjoys or requests something does not establish that every other participant wants it. Her life is more legible when the analysis preserves both its pleasures and the exact recipients, objections and finite outcomes around them.",
+          "",
+          "## 2. Longitudinal arc: local changes, remembered burdens and several incomplete returns",
+          "",
+          "The evidence supports several source-local trajectories rather than a single variant ladder. The private keys20039 and10145 are exact retrieval conditions for the same bounded existing character responsibility. Their profile contrasts, summer contexts and repeated butterflies/rest motifs do not independently date every private encounter against every public event. Documentary release, numeric IDs and wardrobe pools cannot arrange a complete story-world calendar. The explicit839→840 continuation, each connected GROUP sequence and each BOND encounter with its whole linked message thread give stronger local order. A remembered あの時 in859 is insufficient to identify one unique private episode.",
+          "",
+          "GROUP3401–3403 supplies a particularly clear local movement. A personally enjoyed solitary practice becomes a public sign interpreted by Reijo and Kaguya through their own crafts. Kokona reports the rumors; Kisaki explains a different purpose and chooses participation with children. At the meeting, interested peers continue imposing their interpretation. Kisaki stops the frightening dispute, secures apologies, recognizes that her own raised voice frightened the children and apologizes. Collective exercise actually begins. Her initial solitude has been lost and a new collective moment chosen; resumed opera permission, an enduring end to rivalry and the hedged attendance increase are not achieved facts. This is meaningful adjustment with an exact finite ending, rather than proof that every intrusion was secretly welcome (BA:group:3401:u0001–0091;3402:u0026–0087;3403:u0042–0134).",
+          "",
+          "EVENT826 distinguishes a ruler's bounded judgment from a total plan. Kisaki rejects premature ideological accusation but retains surveillance and conditional dissolution. Her stated expectation that Teacher would prevent factional conflict fails against006/007.012 then gives an actual formal apology for unsupported accusation, reputational harm, confusion and oversight failure.013 gives relaxed banquet company, further food acceptance and continued institutional problems. The achieved apology is a real change from Mina's earlier deferred institutional apology; it does not establish executed compensation, corrected every procedure or absence of recurrence (BA:event:826:003:u0062–0085;009:u0059–0096;012:u0022–0065;013:u0035–0046).",
+          "",
+          "The839→840 sequence tests bodily secrecy, inherited procedure and responsibility more sharply. In839 Kisaki corrects harmful welcome twice, is brought low by a represented medicine problem, considers yielding office under lost confidence and leaves a successful farewell alongside staff doubt, Kaguya's continuing position and an unfinished insider inquiry.840 first sustains a customary festival, then restricts it in response to spreading rejuvenation. An enjoyable disguised outing and the mooncake conversation precede the crisis's full explanation. Kisaki refuses Kai's coercive cure offer, acknowledges procedural wrongdoing in her own reported past, differentiates Kai's choices from total personal blame and returns to responsibility. A temporary best bodily state is explicitly explained in-world, then she chooses community recovery despite returning to prior frailty. The incident is narrated closed and the festival actually occurs; individual assays, every affected person's recovery, confinement transport, enduring cure and completed reeducation are not printed (BA:event:839:003/007–015;840:001–004/007–017).",
+          "",
+          "859 supplies a different kind of development: theoretical confidence meets unfamiliar embodied practice. Kisaki begins with sufficient pleasure in watching water and reciting poetry, then elects to enter while Teacher holds her hand and matches her pace. She requests help after initial reassurance, actually enjoys a piggyback, initially fails at confident swimming theory and improves through practice. Later, carried away by play, she takes medication late; the actual self-report call and reprimand follow reluctant agreement. The holiday has really happened and is enjoyed, while the return shows failed orderly delegation, a collapsed Kanae, renewed factional antagonism and children outside instructions. Neither local learning nor a reprimand makes future adherence, everyone else's rest or institutional recovery complete (BA:event:859:005:u0007–0119;009:u0092–0141;013:u0108–0148;014:u0009–0030).",
+          "",
+          "## 3. Public and private self: the office remains present when its holder asks to be ordinary",
+          "",
+          "Kisaki's public role supplies both leverage and a frame other people impose. In839 she invites the Red Winter head while saying Genryumon belongs to itself, including its head. She wants visitors to see and meet Shanhaijing rather than meet an undisclosed instrumental demand. That does not make every member consent or give her command perfect execution. Staff interpretations produce actual interrogation, a cell and a threatened young panda before her corrections. Her later apology is accepted by Cherino locally; Tomoe's bargaining calculation and Marina's animal distress are different responses. An analysis of benevolent intention must retain those recipients rather than treating the head's preference as the whole encounter (BA:event:839:002:u0043–0084;003:u0021–0165;004:u0075–0169;007:u0009–0020).",
+          "",
+          "Private20039:002 turns the office's constraints into disguise and play. The claims about confinement, guards, budget and dinner are her framing, not an independent detention audit. Disguised guard/member/Kiki positions and the later claim that it was staged show playful agency; the metaphorical confinement of presidents is not proof of illegal imprisonment. Apology and compensation language acknowledge the adult's involvement, but the return includes her statement that refusal would not be stopped and the adult's unfairness appeal. Enjoying an excursion does not amount to unlimited permission for future schemes. The whole200390010 thread continues beyond its launch, reporting work experience and promising another Schale visit; that tail belongs to the encounter rather than being replaced by the launch fragment (BA:bond:20039:002:u0002–0006/0063–0091;BA:momotalk:20039:thread:200390010:messages150–240).",
+          "",
+          "Summer10145:002 deliberately asks for ordinary personal address outside office. The vacation still calls forth vigilance over tourists and local danger; Teacher actually contacts staff, and tourists are rescued from a flooding tent. Kisaki reports fatigue and finds the rest unenjoyable before warm contact and reflection on habit restore a lighter mood locally. Role is compared to fitting clothes; it is neither literally detachable clothing nor an authenticated split person. Shared walking toward an inn does not print an overnight romance. The right to be ordinary is a voiced and partly fulfilled wish, not an exemption from every responsibility (BA:bond:10145:002:u0007–0021/0031–0055/0063–0093;wholeMM101450010).",
+          "",
+          "Kiki in20039/10145 private play and840/859 represented alias/body contexts must retain each source's condition. An alias alone cannot authenticate a new person, a clinical state or a complete transformation mechanism. What the episodes do establish is the usefulness of a playful or disguised position for movement, learning and contact otherwise overinterpreted as headship. That freedom is finite. In859 the grand head announcement embarrasses Kisaki and its all-Genry credit excludes Rumi's contribution; institutional address returns alongside continued personal enjoyment, rather than simply abolishing the holiday self (BA:event:840:003–004;859:007/012:u0005–0017).",
+          "",
+          "## 4. School and club role: protection requires hearing people who are not extensions of the head",
+          "",
+          "Genryumon, Genbu, Plum Blossom Garden, Alchemy, theatre and martial research are different institutions with different work and desires. Numeric GROUP routes do not give shared membership. Kisaki's local idea that necessary work should be done efficiently permits rest rather than treating visible busyness as virtue. GROUP3402 also suggests that the head's resting can let the organization rest. This is a useful institutional possibility in her dialogue, not measured relief for every subordinate.859's inspection pretext realizes a holiday for some while assigning Reijo and Kanae to stay behind; Kanae's failed appeal and later collapse make transferred work a concrete contrary case (BA:group:3402:u0001–0015;BA:event:859:003:u0162–0183/014:u0009–0030).",
+          "",
+          "Her protective role can genuinely restrain harmful inference.826's container does not establish Genbu's knowing guilt, and she interrupts ideological accusation.3403's conditional offer protects aspirations that nourish children while prohibiting imposing a craft dispute at their expense. In840 she accepts Mina's advice to stay away from the field, relieves exhausted Mina rather than accepting a request for punishment, stops Mina's threat when an executive's words carry unequal weight and places responsibility for Saya's release under Genryumon's name. Saya is actually free in014. These are consequential acts and choices, not merely a leader announcing kindness (BA:event:826:003:u0049–0085;BA:group:3403:u0093–0113;BA:event:840:003:u0058–0130/007/013:u0010–0026/014).",
+          "",
+          "Protection nevertheless has an adverse administrative history. Kisaki's840 retrospective account admits expulsion shortcuts and erased records because she feared timely formal procedure would fail. That account lends real weight to procedural criticism; Teacher's refusal of total blame does not legally exonerate the shortcuts. In present840, Kaguya declines headship but is pressed into bounded order-maintenance work; others convert her reluctance into collective authorization. Reeducation directions are issued, not received as completed. Continued secrecy about Kaguya, factional tensions and staffing burdens prevent a claim of transparent or fully just reform (BA:event:840:009:u0131–0164;010:u0058–0082;017:u0008–0080).",
+          "",
+          "Her reinterpretation of tradition protects vulnerability, gratitude and an ethical path rather than banning influence. It is substantial that the festival becomes schoolwide and open to other schools, that actual theatre resumes and fireworks are shared. It is equally substantial that its first day still has Gehenna–Trinity quarrels and more sales require more personnel.859's rule debate over outside investment likewise has differing institutional interpretations, not an external legal ruling; the contemplated branch, monetary return and refurbishment remain uncompleted. Kisaki is better understood as negotiating an answerable office through these particulars than as a perfected modernizer or a timeless traditional essence (BA:event:840:011:u0001–0090/017:u0008–0106;859:003:u0016–0035/013:u0066–0093).",
+          "",
+          "## 5. Ordinary life: leisure, taste and touch have their own positive endings",
+          "",
+          "Her morning exercise is initially enjoyable without intending an audience. The sleep-in wish, efficient completed work and freedom from escort give a private repertoire independent of rumor, recruitment or emergency readiness.20039:005 similarly finishes the day's work before roof/window play and a farther horizon wish. The bright-eyed child comparison is a simile, not an age finding. Future places to visit remain offers; the shared view and warmth at fingertips actually occur. Discomfort with work and pleasure outside it do not establish that Mina, Rumi or every student shares one work ethic (BA:group:3401:u0001–0006;3402:u0001–0015;BA:bond:20039:005:u0004–0048;wholeMM200390390:messages450–560).",
+          "",
+          "Tea is an articulated sensory pleasure with a friend. In the anniversary80000:120 encounter, Kisaki chooses cacao-nib tea amid seasonal sweetness, invites attention to color, fragrance and flavor and joins a new custom in her office's name. The narrator's relaxation is a subjective pleasant result distinct from her health claims. She explicitly admits the mock punishment is a joke. Yet a further undisclosed addition made with Alchemy assistance and the adult's surprise leave an information asymmetry; the pleasant setting is not evidence of a known substance, therapeutic mechanism or permission for everything that might follow. Future tea exchanges and Schale visits remain future (BA:event:80000:120:u0001–0056,choices004/007).",
+          "",
+          "Food and remembered imperfect craft are equally specific.840004 realizes egg tarts, a wanted fruit-and-cream crepe, matcha pairing, walking and panda feeding, with Teacher's distance caution retained. Later Rumi recognizes the disguise and mooncakes are actually eaten in shared silence. Burnt paste, undercooked yolk, crushed walnuts and broken molding belong to the recalled first batch. These remembered failures are part of affectionate shared history, not low-value material to omit because neither person made a perfect product. Cooking's chosen vocation and headship's unchosen burden differ without making one life morally superior. The conversation matters before it contributes a deduction about danger (BA:event:840:004:u0001–0043/0091–0138).",
+          "",
+          "20039:006 gives a whole day of uneven but actual leisure: a change from disdain to theme-park enjoyment, five consecutive rollercoasters, an arcade retry without printed victory, an actual clothing gift, food and ball-pool play. The object of 好き is specified immediately as the sunset; it cannot be detached into an unconditional romantic confession. Later weakness, carried rest, head patting and sleep are represented, while actorless possibilities about feigning/test/trust do not establish that the whole illness is pretended. The full200390500 tail includes reassurance, scolding, gratitude, an image reference and secrecy request; the referenced image's pixels, exact clothing and public permission were not inspected (BA:bond:20039:006:u0023–0047/0057–0064/0065–0150;wholeMM200390500:messages570–1020).",
+          "",
+          "The summer private encounters preserve pleasure and boundaries in detail.10145:003 actually gives water play, shoulder carrying, a caught-and-released medaka, children playing, bought mountain snacks and requested company through sleep. The dangerous high throw is refused, not performed.10145:005 realizes shared boating, scenery and poetic time; an automatic boat system explains low-effort rowing, while actual hands steer the return.10145:006 realizes sunscreen, waterslide/catching, warming and wave-pool help. The adult holding a float from outside is not two people occupying it. Wanting another turn coexists with precaution; enjoyment and a joked no-regrets line do not prove immunity or a death forecast. Its whole thread's future company/butterfly remembrance wishes do not establish perpetual companionship (BA:bond:10145:003:u0015–0068/0079–0092;005:u0022–0072;006:u0015–0106;wholeMM101450080/101450160/101450210).",
+          "",
+          "## 6. Crisis behavior: choosing others' lives does not demand a myth of flawless self-sacrifice",
+          "",
+          "FinalC002E007 names Kisaki as head and shows her saying she cannot stand aside in Shanhaijing's crisis. She reports an executive dispatch and orders two Genryumon students to move. Shun and Kokona's evacuation directions and citizen alarm give concrete shared emergency work. The dispatch is offscreen testimony, evacuation is not completed in this object and some labels self-address. This supports a situated decision to participate, not proof of every battle result or a retrospective join of every anonymous executive (BA:main:100:002:007:s1u0001–0015). FinalC002E002's hoped-for wider helpers is comparison context, not new direct Kisaki attendance.",
+          "",
+          "839 makes embodied limitation and political pressure coincide. Kisaki's breathing difficulty, weakness and uncertain perception are narrated; her recalled conversation with Saya describes medicine/incense/stretching with uncertain benefit. Saya's later substitution finding and insider suspicion are professional testimony within the fiction, not personally inspected chemistry. Kisaki refuses immediate extended rest while guests remain and promises later convalescence; the promise remains unperformed. Kaguya's coercive demand, hesitant members, Mina's choice to protect Kisaki even against the school, Marina's reciprocal aid and Teacher's intervening protection are separate actions. Kisaki's claimed loss of confidence and willingness to give herself up are not an installed resignation (BA:event:839:007:u0058–0100;008:u0001–0129;010:u0006–0042;011:u0001–0020).",
+          "",
+          "840's refusal of Kai's offer is an actual ethical decision. Kai claims she caused the condition and could cure it within a month if given ownership and control. Kisaki refuses relief at others' expense; the offer's efficacy remains unverified. This must not become a claim that Kisaki has a duty to remain ill, that every offered remedy is corrupt or that pain proves authority. The meaningful choice concerns this coercive transaction and the harmed students she recalls. Her temporary bodily advantage and subsequent preference for community recovery confirm a finite priority at a particular moment, rather than a universal rule requiring every future private want to be surrendered (BA:event:840:007:u0058–0077;010:u0036–0082;015:u0042–0064;016:u0003–0047).",
+          "",
+          "Successful local interventions still have unfinished tails. Saya is freed; Kaguya requires treatment/transfer/nursing whose recovery is not printed; Kai concedes capture while saying she likely will not repent; the festival occurs and incident closes in narration. In859 merchants assent to defending their own home, local suppression occurs and the threatened party is reported safe. Kisaki hopes the children grow afterward, but escape and renewed revenge threats refute an achieved rehabilitation claim. The resort's property/engineering, every combatant's clinical outcome and the community's permanent safety remain unverified. Meaningful acts can be defended without supplying these absent achievements (BA:event:840:012–017;859:010:u0076–0084/011–013).",
+          "",
+          "## 7. Sensei relationship: wanted care, contested availability and a teacher who can say no",
+          "",
+          "Kisaki wants an adult who visits as a companion rather than only an office resource. She requests shared scenery, a hand, lap rest, head patting, remembered butterflies and future time. Her close approach, bed/rest scenes, birthday reciprocation and summer wishes carry intimacy coding in represented writing. They do not by themselves install a mutually agreed romance, sexual act or unlimited availability.859's request for several visits each week and half-joking Schale branch meets the adult's inability to promise it.826's residency offer is explicitly declined. The adult's finite life belongs inside this relationship's evidence (BA:bond:20039:003:u0046–0063/005:u0041–0048/006:u0145–0150;10145:003:u0089–0092;BA:event:826:009:choice013;859:002:u0001–0032).",
+          "",
+          "Practical care has actual positive outcomes.20039:003's work finishes before exhaustion and lap rest; the later waking narrative leaves the visit uncertain in the narrator's mind rather than proving it never occurred. In10145:002 staff are contacted, tourists rescued and shared warmth follows fatigue.859's Teacher actually keeps the requested hand, slows the pace, supports lost balance and carries Kisaki at her request.840 gives protective removal during Kai's legitimacy attack and a later actual piggyback. These acts matter without becoming a diagnostic cure or sole authorship of Kisaki's decisions (BA:bond:20039:003:u0035–0063;10145:002:u0031–0093;BA:event:840:008:u0057–0065/010:u0100–0102;859:005:u0034–0074).",
+          "",
+          "Her methods can press on the adult. Private20039:006's message promise is called a joke but later retains a price/threat formulation; the story's teacher-role boundary against an unwell student's overexertion survives her appeal to that role.20039:002's staged escape makes unfair adult involvement an explicit point.826's leap onto the adult's back is unrequested. In80000:120, the undisclosed tea modification meets surprise and branch-specific alarm or interest. These are different degrees and modes of pressure, not proof that every affectionate touch is coercive or that every joke is harmless. The difference between requested company and assumed access is consequential (BA:bond:20039:002:u0069–0091/006:u0138–0143;wholeMM200390500:messages620–750;BA:event:826:009:u0102;80000:120:u0039–0056,choice007).",
+          "",
+          "Sensei also needs scrutiny as a participant. GROUP3403 encourages satisfying the specialists' expectations until Kisaki limits that demand.826's adult-proposed trap uses Kokona without disclosed purpose; the effective capture does not backdate informed agreement.859 changes the plan after Kokona's refusal and guardians' objection, then participates in a cover story that still leaves her asking for consultation and compensation. The medicine self-report prompt produces an actual call and reprimand, not proof of permanent adherence. The relationship combines real care and valued company with imperfect adult judgment and the student’s independent correction; neither adult sovereignty nor student dependence adequately describes it (BA:group:3403:u0066–0072;BA:event:826:009:u0002/010:u0043–0044;859:006:u0144–0154/007:u0019–0043/013:u0116–0137).",
+          "",
+          "## 8. Major peers: affection is differentiated, and disagreement can be substantial care",
+          "",
+          "**Rumi** chooses cooking and customers' reactions while Kisaki says headship was never chosen. Their imperfect mooncakes and actual quiet eating support distinct remembered intimacy;826's sister-like framing meets Kisaki's explicit refusal, not an agreed kinship status. Rumi can anticipate seasonal difficulty with accessible food, create a commercially interested holiday plan and supply genuine care. Her own overfull recipients and Kisaki's requests for gentler swimming practice prevent equating hospitality with universal recipient alignment. Rumi's wanted piggyback is unfulfilled in840 but actually fulfilled in859. Those are source-local different ends, not one endlessly deferred motif (BA:event:826:013:u0031–0044;840:004:u0091–0138/010:u0100–0102;859:001:u0037–0061/005:u0097–0119;shared Rumi10 normal account§5).",
+          "",
+          "**Reijo** admires an exception in Kisaki while criticizing Genryumon's noise and self-law; she can project kung-fu purpose onto ordinary exercise and retain real craft energy. She shelters Kisaki amid crisis while recognizing Genbu's strategic debt, and argues for the institutional balance she does not entirely like.840's refused pushing and859's stay-behind labor belong beside the useful network and actual festival pleasure. Kisaki is not entitled to absorb those objections into an image of universally eager followers. The separate two-section Kisaki–Rumi/Reijo–Rumi directed parent remains required; this character discussion supplies context without completing it (BA:group:3401:u0009–0049;BA:event:840:009:u0001–0090/010:u0013–0018/017;859:003:u0162–0183).",
+          "",
+          "**Mina** chooses bodyguard devotion and has her own film/noir pleasure, fallible investigative reasoning and wanted recognition. Kisaki personally sends her in826 yet wrongly expects conflict prevention, admits inward concern about enlarging matters in839 and later accepts her remonstrance to stay off the field.840's relief from self-punishment and restriction of an executive's threat show care directed to Mina and to people affected by her authority.859's actual fireworks give Mina leisure agency beyond guarding; regretted lack of a swimsuit remains her own want. Her choice to protect Kisaki against the school is substantial and does not speak for every member (BA:event:826:006–009;839:003:u0021–0077/010:u0006–0042;840:003/007/013;859:005:u0153–0156/013:u0044–0053).",
+          "",
+          "**Kaguya** has substantive artistic pride and procedural objections; in840 she explicitly refuses the headship other members offer her.839's allegorical remonstrance becomes coercive encirclement, while840 gives an actual categorical refusal of headship, a bounded accepted duty and newly felt understanding of its burden. She retains remonstrance without regret, acknowledges greater caution and offers sacrificial public defeat; Kisaki refuses that path. The subsequent treatment orders preserve an injured recipient whose precise mechanism and recovery are unprinted. Reconciliation cannot be described as simply silencing dissent, but neither does artistic devotion establish harmless means or fully fair punishment (BA:event:839:009–010;840:009:u0131–0164/011:u0061–0090/012;BA:group:3401:u0012–0065).",
+          "",
+          "**Saya and Kai** must remain different ethical and evidential cases. Saya supplies attributed care, uncertain benefit, substitution testimony, actual intervention/freeing and affectionate scolding, alongside acknowledged experimental trouble. Kai's remembered dependency system, claimed cure, current coercive demand and refusal of repentance provide stronger contrary evidence to treating technical near-success as sufficient care. Kisaki accepts that ordinary people may not understand all their wishes and consequences without absolving Kai's choices. No account here authenticates a disease mechanism, elixir or universally safe Saya alternative (BA:event:826:005/010–013;839:007–008;840:010:u0036–0082/013–016;859:013:u0116–0137).",
+          "",
+          "**Shun, Kokona and Kanae** expose different work/private boundaries. Shun's student identity and educational doubt coexist with competence and wanted time; Kokona can request activity with children, reject head patting or dangerous infiltration and request consultation, a proper title and her own evening company. They are not merely future subjects of Kisaki's protection. Kanae is introduced as an internal counterpart to Mina with travel wishes, preferred task boundaries and an imposed stay-behind burden whose collapse closes859. Her literal name is distinct from WildHunt's Kanoe. Cherino, Tomoe, Marina, merchants, guards and unnamed children likewise retain actual local motives and responses; shared work or similar labels cannot turn them into extensions of one head or one cross-event biography (BA:group:3402–3403;BA:event:840:004:u0044–0059;859:002:u0081–0140/003/009/013–014).",
+          "",
+          "## 9. Written language and voice: a continuing register with changing audiences",
+          "",
+          "The written register uses 妾,其方,じゃ and related archaizing forms across public authority, teasing, sensory hospitality and wanted closeness. 門主 addresses office; summer personal-name requests and the deliberate Kiki repertoire change the situation of address without proving two unrelated personalities. In GROUP3402 Kisaki's tease ends in explicit apology; in80000:120 a punishment formulation is explicitly admitted as mischief. The register can support warmth or authority depending on its action and audience. No written lexical marker alone proves a stable manipulative motive, historical period, timbre, pitch or performed delivery (BA:group:3402:u0051–0060;BA:event:80000:120:u0024–0038;shared private account§3.1–3.6).",
+          "",
+          "The five written objects retain their exact scopes:20039/10145 profile-and-dialog pools,1900930001→20039,1900956201→10145 and1900956301→10145. Eight profile fields identify year3/age17/birthday2月19日/height142cm and tea/covert-outing interests. Profile descriptions of apparent authority or comparatively improved summer condition remain descriptions, not exhaustive motive, a medical history or a private-world chronological edge. The49 base and66 summer written records add curiosity, rest, birthday reciprocity, shared-time wishes, ordinary food and touch repertoire; the summer Cafe5 caffeine scolding explicitly names Saya as a report, unlike an unnamed researcher in a private plot. Written conditional wishes and allowed mission tickling do not print an enacted touch scene.",
+          "",
+          "The base costume's118 records distinguish59 EVENT840 and59 repeat10840 contexts, including not having seen all the relevant items and a future guarantee. Summer costumes have30 EVENT859 lobby and17 shop records; excitement, learning, swimming weakness, holiday/company wishes and requested head patting have their own resource/condition modes. UI prose did not substitute for complete840/859 public plot receiving. A command or safe-ending claim is not implemented policy, a clinical assurance or an observed action. The record pools are unequal and cannot create a calendar by volume (BA:character_data:20039:profile_and_dialog;10145:profile_and_dialog;BA:character_data:event_costume:1900930001:character:20039;1900956201:character:10145;1900956301:character:10145).",
+          "",
+          "The whole eight linked MomoTalk threads are not equivalent to launch fragments.200390210 includes dream uncertainty and a reported sleeping-face photograph after the work/rest scene;200390500 reaches message1020 with image reference, gratitude and secrecy.101450210 reaches460 with continued summer/future company/butterfly remembrance. These actual represented messages give additional relational information but neither inspected pixels nor photo consent. The actorless logged mirrors in20039:006/10145:005 and uncertain narrator perception in20039:003 remain their written carriers, not a secretly heard confession. The butterfly tale, immortal imagery and poetry are transmitted interpretation and motif, not authenticated metamorphosis or immortality (wholeMM200390210/200390500/101450210;BA:bond:20039:003:u0052–0063;10145:005:u0051–0072/006:u0088–0106).",
+          "",
+          "Public attribution is similarly bounded. GROUP340's fifteen display/text discrepancies, inward-tagged adult offers and alternatives retain their exact carriers; its complete admitted argument permits contextual exchange conclusions without silently replacing raw actors.826/839/840/859 contain role swaps, private/inward lines and Korean labels alongside Japanese represented text. The isolated Meg label in859011 cannot manufacture a Gehenna appearance. Choices remain alternatives, not one composite Sensei biography; a reply to an inward-tagged prompt does not establish telepathy or justify an audible rewrite. All linguistic claims in this monograph concern represented writing and exact audience/mode limits. G10 performed voice remains wholly OPEN.",
+          "",
+          "## 10. Competing interpretations: seven claims tested by serious contrary evidence",
+          "",
+          "**The flawless benevolent strategist.** Kisaki restrains accusation, apologizes publicly, protects students and seeks new perspectives, giving this reading substantial positive evidence. It fails when teacher-presence confidence meets actual factional combat, staff welcome commands become coercive hospitality, secrecy and record erasure obstruct answerability, and859's delegation ends in collapse and renewed conflict. Competence is supported by particular acts; it is neither omniscience nor a guarantee of others' conduct (826003/006–009/012;839003;840010;859014).",
+          "",
+          "**The cynical autocrat whose private softness is only a lure.** Surveillance's admitted institutional benefits, unequal office leverage, undisclosed tea addition and pressure on availability make this a necessary test. It fails as an exhaustive reading against her privately intended exercise pleasure, wanted sleep, remembered failed craft, conditional learning, actual acceptance of criticism and refusal to purchase health through students' renewed harm. Genuine private wants do not absolve power, but evidence of power does not make every want counterfeit (GROUP3401–3403;80000E120;840004/007/013;859005).",
+          "",
+          "**The captive martyr whose only real self is illness and sacrifice.** Unchosen headship, limited active hours and840's community-first remedy choice support a burdened reading. It becomes reductive when it turns every enjoyment into compensatory pathology, every problem into Kai's mechanism or every future rest into dereliction. Kisaki chooses real play, adapts theoretical mistakes and wants others' company. Seasonal fatigue is explicitly distinguished from underlying illness; actorless feigning possibilities do not prove all frailty false. The specific coercive cure refusal does not establish a universal duty to suffer (839008;840004/016;859002/005/013;20039E006).",
+          "",
+          "**The childlike leisure persona as the authentic self beneath a wholly false official role.** Kiki play, theme-park pleasure, carried rest and ordinary address make this attractive. The exact age profile, deliberate performance/aliases and continued efficient work/public choices prevent turning a comparison or changed-body context into an actual different person or psychological diagnosis. Both the duty holder and the pleasure seeker are evidenced. Play can suspend an audience's expectations without proving that every mature decision is counterfeit (written20039/10145;private20039E002/E005/E006;10145E002/E003;840004/007).",
+          "",
+          "**A romance that resolves office and bodily limitation.** Wanted touch, intimate approach, poetic company and future-time requests supply real intimacy coding. Finite adult availability, declined residency, alternative answers, unfulfilled visits, coughs after a successful walk and the distinction between requested and unrequested contact prevent a completed romantic settlement or healing mechanism. The relationship's positive acts are stronger when described precisely than when promoted to an unprinted permanent state (826009:choice013;private10145E003/E005/E006;859002/009/013).",
+          "",
+          "**Progress triumphs over a worthless tradition, or tradition uniformly vindicates the head.** The open festival, new custom, intercultural tastes and flexible debate support changes; Kisaki's protective/grateful interpretation retains a serious tradition. Kaguya's procedural criticism and title refusal, Genbu's actual contribution, continued labor burdens, coercive dependency and renewed factionalism resist either total story. No faction monopolizes insight and an enacted festival is compatible with unfinished institutional repair (80000E120;826012–013;840009/011/017;859003/014).",
+          "",
+          "**Only crisis choices justify the character's analytical depth.** Refusing a coercive cure and public answerability are consequential, but this rule would remove the very lives the decisions concern. Solitary exercise, imperfect mooncakes, crepes, shared scenery, butterflies, a river's slow pace and chosen care have directly represented value. Conversely, calling them all harmless interludes would erase pressure, bodily limits and independent refusals. The adequate reading grants quiet pleasure full standing and evaluates the actual terms of each encounter, without requiring a crisis payoff or forcing a single person-wide flaw (GROUP3401;private20039E005/10145E005;840004;859005/013).",
+          "",
+          "## 11. Evidence route, original open gaps and terminal boundary",
+          "",
+          "The exact existing CHARACTER home is P3-CHAR-KISAKI: typedP3-F044/CH0139/BA_PERSON_CH0139, variants10145|20039; datedA189 navigates to the same home and is not another person/package. Current coverage21 comprises8 BOND,8 whole linked MomoTalk and5 written objects. The adequate maintained owner is BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md. Personally complete Kisaki§3.1–3.6, relevant Rumi§5, public/debt/authority§§8–11 and exact21/whole-thread join rows are received at declared extents; this is not a claim to have freshly read all560 lines, all96 underlying family primaries or Saya25. Current Cycle008 qualification governs the retained historical UNADMITTED/pending/proposal statements. Historical architecture1.11 census text in that source is not present architecture1.12 or355/29/25parent authority.",
+          "",
+          "Complete adequate accepted public arguments personally received or reused at exact unchanged scopes are EVENT826177, prior wholeEVENT839158 with fresh complete Kisaki paragraph projection, EVENT840149, EVENT859167, GROUP3401–3403188, GROUP2601–2602133, FinalV100C002E00732, prior wholeFinalE00259 and anniversary80000E12048. GROUP260 supplies institution/recipient comparison rather than direct Kisaki speech; FinalE002 does not supply new Kisaki attendance. The anniversary checkpoint and810 checkpoint/crosswalk inquiries are bounded navigation, not whole-owner receiving or proof of global absence. Positive80000E120 alone supplies the gift argument used here. Source IDs/utterance references identify inherited analytical evidence; original-author canonical/raw/QA credit remains attributed. No primary/native/raw/QA/audio/AV or nineUNBOUND/preserved_phase2_work file was opened or hashed for this monograph.",
+          "",
+          "The source witness remains electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8, generationBA_REFRESH_20260928T032248159554Z, gamev1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1 and parser0.2.0. Adequate literary tuples are compared separately to analyticalmain2e, sourcec1 and dated732. Present mutable ROOT controls and dated86e navigation are separate witnesses, not automatically the same Git tree or new literary evidence. Current admission, source reading/argument receiving, historical exposure/independence and performed-media coverage form separate authority conditions. Retrospective endings were already exposed; no hypothetical/forecast/model was frozen or tested, and no empirical medical/legal/engineering mechanism is established.",
+          "",
+          "| Original stable gap | Kisaki contribution and remaining warrant | Disposition |",
+          "|---|---|---|",
+          "| G01 Ordinary and private breadth | Complete selected21 meaning preserves tea, covert outings, work/rest, sleep, scenery, food, company, play, gifts and rejected/unfinished ends. It does not close all-cast ordinary/private breadth or unselected later witnesses. | OPEN |",
+          "| G02 Yuuka council/club decision transfer | Kisaki's answerable-office/rest comparison cannot supply Yuuka's own missing council/club recipient decisions or transfer findings between persons. Those exact home duties remain separate. | OPEN |",
+          "| G03 Serika service, peer and reciprocity range | Kisaki–Rumi hospitality and finite adult company do not replace Serika's service/peer sources or establish shared reciprocal outcomes. Preserve subject-specific findings. | OPEN |",
+          "| G04 Hina crisis causality, accountability and ordinary contrast | Local Kisaki protection/apology/ordinary contrast does not retest Hina causality, recipient accountability or durable office effects. No cross-person closure. | OPEN |",
+          "| G05 Arius and PS68 ordinary/aftermath transfer | Kisaki's imperfect mooncakes and rest remain intrinsic; they do not supply Arius/PS68 aftermath or authorize a schoolwide ethical transfer. Their required bounded studies remain independent. | OPEN |",
+          "| G06 Cross-school ordinary repertoire | Actual exchange, banquet, gift custom, visitors' distinct theatre/food/clothing responses and wanted shared fireworks enrich comparison. They do not prove every school/actor's experience, uniform consent or permanent faction harmony. | OPEN |",
+          "| G07 Story-world chronology | GROUP local sequences, each BOND/wholeMM tail and explicit839→840 continuation support local order. Private variants, summer references, documentary dates and あの時 do not install a global calendar. | OPEN |",
+          "| G08 Event naming and repeat contexts | Exact826/839/840/859 and80000 gift scopes are distinct;1900930001's840/10840 records are conditional resource pools. Repeat UI contexts do not prove replayed plot chronology or same remembered occasion. | OPEN |",
+          "| G09 Written speaker/choice attribution | Exact source-local seams, inward/actorless/log carriers, contextually identified aliases and wholeMM messages are retained. No silent raw rekey, merged alternative reply history or assumed audible prompt. | OPEN |",
+          "| G10 Performed voice | Archaizing register, office/personal address and poetry are represented text. No acoustic/visual delivery, actor performance or locale equivalence has been received. | OPEN |",
+          "| G11 Hoshino's Yume record and office states | Unchosen Kisaki headship and reported erased records cannot fill Hoshino/Yume evidence or authenticate analogous past-office continuity. That independently bounded responsibility remains unchanged. | OPEN |",
+          "| G12 Counterpart, system and variant identity | CH0139/10145/20039 belong to the existing bounded home; Kiki/body-play conditions stay source-local. No clinical/person-chain authentication, Kanae–Kanoe join, generic-role biography or isolated-Meg appearance is inferred. | OPEN |",
+          "| G13 Office, contract, safety and technical outcomes | Actual apology, release, play, swimming improvement, call/reprimand, capture and festival are distinguished from medicine theory, legal fairness, every recovery, executed payment, transport, reeducation, investment or permanent safety. Specific stronger claims require their absent outcomes. | OPEN |",
+          "| G14 Unclassified/mode continuity | Written UI pools, preview claims, choices, theatrical allegory and actorless mirrors retain their modes. No unclassified object admission, automatic repeat continuity or model-rule promotion follows. | OPEN |",
+          "",
+          "No mandatory primary recovery remains for the bounded assertions made here: adequate admitted analytical arguments resolve the consequential actor, endpoint and meaning distinctions used. Stronger claims would require specific recipient/record/procedure evidence, clinical outcomes and substance identification, compensation/payment/transport/reeducation results, investment/property/engineering records, future medicine adherence or actual later visits, global chronology and performed media. They are not asserted. Accepted textual development and actual finite pleasures are not withheld merely because those stronger claims remain unavailable.",
+          "",
+          "This complete eleven-dimension character candidate remains C-only pending independent ROOT whole receiving, exact verification and canonical adoption. It creates no required home, admission, analytical source count or milestone credit. The separate existing Kisaki–Rumi/Reijo–Rumi parent and every other justified relationship, ensemble, institution, Sensei and register package remain required full-Phase3 work. No named duty attaches to this character home itself. All prior frozen originals are preserved; the finite receipt binds actual saved paragraphs and source scopes without substituting a hash for meaningful reading."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "all_frozen_original_transports": [
+    {
+      "path": "SHANHAIJING_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_KISAKI_CHARACTER_MONOGRAPH.md",
+      "bytes": 46543,
+      "sha256": "646b36e265135e21c44eed1aa289da136651af48b42a1b84c6c7631e9b57ea67",
+      "git_blob_oid_of_actual_bytes": "110d0050988fe662d18d4575518ebc71840fc2f9",
+      "immutable_transport_path": "immutable_originals/SHANHAIJING_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_KISAKI_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "SHANHAIJING_CHARACTER_MONOGRAPHS/KISAKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 138514,
+      "sha256": "e2d8d7489a70338fb0817825a7447f687dca4a2758caa933dbc0fabb84028eb7",
+      "git_blob_oid_of_actual_bytes": "c42d793c464be63a05641f1fc95f7ea3257bb29d",
+      "immutable_transport_path": "immutable_originals/SHANHAIJING_CHARACTER_MONOGRAPHS/KISAKI_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "SHANHAIJING_CHARACTER_MONOGRAPHS/KISAKI_FROZEN_OUTPUT_MANIFEST.json",
+      "bytes": 4301,
+      "sha256": "573efaf6b7ef9ef646fb4175d09ee0757f9ed87d7e065a99fd546580ac92cda8",
+      "git_blob_oid_of_actual_bytes": "deb24ece57980fa6aa12f05ab303bcdf9b40d02c",
+      "immutable_transport_path": "immutable_originals/SHANHAIJING_CHARACTER_MONOGRAPHS/KISAKI_FROZEN_OUTPUT_MANIFEST.json"
+    },
+    {
+      "path": "ROOT_KISAKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5142,
+      "sha256": "c5d7c02f71edabe054b65c3e08c8c3f44016fcc0ba56a8a230f59d98a95e9880",
+      "git_blob_oid_of_actual_bytes": "315f52ae9c354bd8331f724088b130be9e30a03b",
+      "immutable_transport_path": "immutable_originals/ROOT_KISAKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "SHANHAIJING_CHARACTER_MONOGRAPHS/KISAKI_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 11653,
+      "sha256": "c3e1a42c923427ef73f27e506718aa6c80ada2e10414a4ae7a9d20ed84b89cf4",
+      "git_blob_oid_of_actual_bytes": "560d8138f6e2b5aec83208a7d378e26ad730487b",
+      "immutable_transport_path": "immutable_originals/SHANHAIJING_CHARACTER_MONOGRAPHS/KISAKI_CURRENT_WORKTREE_METADATA_PROBE.json"
+    },
+    {
+      "path": "SHANHAIJING_CHARACTER_MONOGRAPHS/KISAKI_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 9816,
+      "sha256": "36c099562ae268c1c878cfae591579c8336c26b92baad53d0db8b2bcec99b5b2",
+      "git_blob_oid_of_actual_bytes": "b433e3e97a6cacc22e93c5494fb396fda3438e53",
+      "immutable_transport_path": "immutable_originals/SHANHAIJING_CHARACTER_MONOGRAPHS/KISAKI_MONOGRAPH_RECEIVING_RECEIPT.md"
+    }
+  ],
+  "mandatory_claim_metadata_inverse": null,
+  "canonical_link_translations": [],
+  "new_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

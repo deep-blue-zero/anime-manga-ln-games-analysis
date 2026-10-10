@@ -1,0 +1,176 @@
+{
+  "schema": "BLUE_ARCHIVE_MEL_MOMIJI_ROOT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_MEL_MOMIJI_RELATIONSHIP_SYNTHESIS.md",
+  "current_scope": "355 required packages;29 non-denominator mandatory substantial named duties across25 distinct parent packages; literal kinds18 SECTION/9 DIRECTED_RELATIONSHIP/2 ENSEMBLE",
+  "dated_source_beforeimage_witness": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+  "dated_source_tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+  "accepted_merged_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "commit_custody_qualification": "7546 source and b76 squash main have the same e9 tree; distinct commit and audit custody is preserved. This preparer performed no fetch, local reconciliation, merge or new remote observation.",
+  "fixed_preparation_snapshot": {
+    "packages": [
+      90,
+      101
+    ],
+    "new_packages": 12,
+    "after_complete_ROOT_install": 101,
+    "characters": 89,
+    "directed_relationships": 6,
+    "ensembles": 3,
+    "institutions": 3,
+    "named_duties_after_complete_ROOT_install": 3,
+    "previous_merged_packages": 89,
+    "next_milestone": 178,
+    "later_live_acceptances_excluded": true
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "Original pending/local/counter/source-capture/receiving fields retain creation-time meaning. The separate complete ROOT acceptance controls current literary judgment; the accepted milestone control supersedes only earlier first-milestone pending states. No author physical source receiving is inferred retrospectively.",
+  "original_exact_tuple": {
+    "path": "ROOT_MEL_MOMIJI_RELATIONSHIP_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5145,
+    "sha256": "1c768287934a29610d51210d5d8b8660d9ced1fe1be14b40c8fd8f1312c101c9",
+    "git_blob_oid_of_actual_bytes": "b96239f735570aaf2d1e93552c2dcae3f2e10e20",
+    "immutable_transport_path": "immutable_originals/ROOT_MEL_MOMIJI_RELATIONSHIP_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_MEL_MOMIJI_RELATIONSHIP_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "checked_at": "2026-10-10T17:50:51.222064+00:00",
+    "status": "PASS_COMPLETE_DIRECTED_RELATIONSHIP_BOUNDARY_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_DIRECTED_RELATIONSHIP_BOUNDARY_WITH_LIMITS",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/MEL_MOMIJI_DIRECTED_SYNTHESIS/BLUE_ARCHIVE_MEL_MOMIJI_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 32714,
+      "lines": 153,
+      "sha256": "c54047511f242e3ea13f1bcbbd0556b05eb8047ac4c28db036146cebbb7e083e"
+    },
+    "existing_home": "P3-REL-MEL-MOMIJI-CRAFT-PRIVACY-RECIPROCAL-CORRECTION",
+    "source_responsibility": "P3-XRW-R001",
+    "canonical_target": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_MEL_MOMIJI_RELATIONSHIP_SYNTHESIS.md",
+    "mandatory_operative_body": "153-line original as-is; metadata and link adoption only",
+    "finite_bindings": {
+      "unique_pairs": 213,
+      "occurrences": 226,
+      "historical_comparisons": 33,
+      "nonempty_line_joins": 101,
+      "prior_payloads_preserved": 165,
+      "separate_supplements_preserved": 12,
+      "additional_original_manifests_preserved": 4
+    },
+    "architecture": "1.12 section7.2; eleven voluntary substantive sections",
+    "six_whole_rivals": "RECEIVED",
+    "fourteen_original_literal_gaps": "OPEN",
+    "ROOT_actual_receiving": {
+      "whole_original_body": [
+        "f73bcd1–55",
+        "66ce8356–105",
+        "ae9037106–153EOF"
+      ],
+      "whole_readable_receipt": "b612c0 complete33",
+      "whole_metadata_probe": "299db5 complete155; creation-time awaits-readback is historical and superseded",
+      "whole_frozen_manifest": "7629ff complete57",
+      "complete_semantic_control_fields": "596507 all source/control/private/public/background/claim/gap/gift/debt/custody fields; no clipped prose",
+      "analytical_source_receiving": "Adequate existing accepted analytical arguments reused at attributed whole/span scopes. ROOT already personally received current Momiji307; Mel private275–309 within adequate495; complete E829160/E852205/Final29 and five background comparands. E834268 whole remains attributed adequate author reception; ROOT actual gift102/107 meanings only. No fresh whole495/268 or primary reading claimed.",
+      "no_invented_source_credit": "Exact source equalities, line joins and preserved receipts mechanically verify custody; no primary/native/raw/QA/audio/video or author independence credit."
+    },
+    "semantic_grounds": [
+      "Independent Mel-to-Momiji and Momiji-to-Mel directions retain taste, collecting, craft, food, quiet and company as intrinsic evidence. Separate private/Sensei encounters do not create additional dyadic scenes or shared knowledge.",
+      "Mel actually completes critical reading and chooses work, while property conflict, partial overhearing, refusal followed by physical removal and unequal labor remain contrary evidence. She does not purchase reconciliation through an already completed manuscript.",
+      "Momiji independently seeks reconciliation and revises criticism without erasing judgment. Actual reciprocal apologies and resumed company precede manuscript completion; her agreement to help does not cancel the later objection to work costs.",
+      "Completed manuscript, delivery, acceptance and Takane reading are real. Promised food/book restitution, full printing/distribution and universal consent remain unperformed or unasserted. Sensei reassurance does not replace Momiji assent.",
+      "E852 food, three-copy reader purchase and settlement are actual endpoints, while pain, pressured terms, rejected9:1 proposal and unprinted settled ratio prevent fair-contract or lasting financial repair claims. An accepted/begun commission is not completed.",
+      "Final comic plans do not prove publication, safe arrival or restored shelter. Separate gift102/107 outcomes and locale differences retain their exact endpoints without permanent-ownership or romance certificates.",
+      "Six serious rivals, all14 literal OPEN limits, typed identity seams and separate mandatory character/institution/Sensei/register homes remain intact."
+    ],
+    "scope_denominator": "355 required packages plus29 mandatory named sections unchanged;788 navigation identities unchanged",
+    "progress": {
+      "previous_ROOTaccepted_packages": 91,
+      "new_directed_relationship_package": 1,
+      "total_ROOTaccepted_packages": 92,
+      "character_packages": 84,
+      "directed_relationship_packages": 6,
+      "ensemble_packages": 2,
+      "published_remote_packages": 73,
+      "published_source_commit": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+      "canonical_persistence": "PENDING_NEXT_EXACT_CANONICAL_ADOPTION",
+      "fixed_first_quarter_tranche": "EXCLUDED_PACKAGE92; fixed74–89 unchanged",
+      "first_quarter_threshold": 89,
+      "literary_threshold_reached": true,
+      "goal_25_percent_milestone_complete": false
+    },
+    "new_primary_native_raw_QA_AV_model_credit": 0,
+    "nine_unbound_large": "UNOPENED_UNREAD_UNHASHED",
+    "R_Git_provider_writes": false,
+    "main_integration": "NONE"
+  },
+  "public_reference_translation": "Every original field survives exact reference translation. Original tuples bind original bytes, not derivative bytes; full immutable C transports and literal inverses are retained.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_MEL_MOMIJI_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 34958,
+    "sha256": "41d57c5ef07a467788f58ba08baa8bf8cec1a7c08b16a46c0bebec09444a5e7a",
+    "git_blob_oid_of_actual_bytes": "ce94bd1312a39c775f4612ec1f90e3c15325da59"
+  },
+  "authority_framing_changes": [],
+  "mandatory_operative_qualification": "153-line original as-is; metadata and link adoption only"
+}

@@ -1,0 +1,178 @@
+{
+  "schema": "BLUE_ARCHIVE_ENGINEERING_INSTITUTION_ROOT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ENGINEERING_CRAFT_CLIENT_INSTITUTIONAL_SYNTHESIS.md",
+  "current_scope": "355 required packages;29 non-denominator mandatory substantial named duties across25 distinct parent packages; literal kinds18 SECTION/9 DIRECTED_RELATIONSHIP/2 ENSEMBLE",
+  "dated_source_beforeimage_witness": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+  "dated_source_tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+  "accepted_merged_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "commit_custody_qualification": "7546 source and b76 squash main have the same e9 tree; distinct commit and audit custody is preserved. This preparer performed no fetch, local reconciliation, merge or new remote observation.",
+  "fixed_preparation_snapshot": {
+    "packages": [
+      90,
+      101
+    ],
+    "new_packages": 12,
+    "after_complete_ROOT_install": 101,
+    "characters": 89,
+    "directed_relationships": 6,
+    "ensembles": 3,
+    "institutions": 3,
+    "named_duties_after_complete_ROOT_install": 3,
+    "previous_merged_packages": 89,
+    "next_milestone": 178,
+    "later_live_acceptances_excluded": true
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "Original pending/local/counter/source-capture/receiving fields retain creation-time meaning. The separate complete ROOT acceptance controls current literary judgment; the accepted milestone control supersedes only earlier first-milestone pending states. No author physical source receiving is inferred retrospectively.",
+  "original_exact_tuple": {
+    "path": "ROOT_ENGINEERING_INSTITUTION_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5019,
+    "sha256": "6024009885fbaae4f22c280e58208eba8d42d02009175187f667783bb5282dbc",
+    "git_blob_oid_of_actual_bytes": "26d4f2fc24159715fbb2a6cd80996f4fa1f19cef",
+    "immutable_transport_path": "immutable_originals/ROOT_ENGINEERING_INSTITUTION_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_ENGINEERING_INSTITUTION_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "checked_UTC": "2026-10-10T18:28:58.857291+00:00",
+    "status": "PASS_COMPLETE_INSTITUTION_BOUNDARY_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_INSTITUTION_BOUNDARY_WITH_LIMITS",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/ENGINEERING_INSTITUTION_SYNTHESIS/BLUE_ARCHIVE_ENGINEERING_CRAFT_CLIENT_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 45641,
+      "lines": 169,
+      "sha256": "572edebb18a15212b7788f0883b6bec2d36a1938d032395675e3fc0d2a9972b4",
+      "git_blob_oid_of_actual_bytes": "ee146986d1b7221497d9c625e84046f3ef1ae3a1"
+    },
+    "existing_home": "P3-INST-ENGINEERING-CRAFT-CLIENT-CONSTRAINTS",
+    "canonical_target": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ENGINEERING_CRAFT_CLIENT_INSTITUTIONAL_SYNTHESIS.md",
+    "mandatory_operative_body": "169-line original as-is; metadata/link adoption only. L148 is a correctly classified literary evidence-route paragraph, not a gap row; all14 actual gap rows remain OPEN.",
+    "author_freeze_exact_sha256": "31e334322856d41dac9d1b6954b413fc766e7337660c3b2b6948207d673273a6",
+    "finite_bindings": {
+      "immutable732_and_bound_copies": 30,
+      "current_immutable_sources": 28,
+      "main_equal": 27,
+      "main_architecture_unequal": 1,
+      "main_controls_absent": 2,
+      "historical_C_inputs": 13,
+      "saved_whole_paragraph_joins": 72,
+      "source_joins": 211,
+      "endpoints": 37,
+      "whole_rivals": 8,
+      "preserved_prior_files": 90
+    },
+    "ROOT_actual_receiving": {
+      "whole_saved_body": [
+        "e641241–60",
+        "951ad061–115",
+        "6279b4116–169EOF"
+      ],
+      "all_source_controls_and30_scopes": "1859cf/684da7; b126e3 indices0–14 and50c3a4 indices15–29, unclipped",
+      "all37_complete_endpoint_arguments": "b0ddc40–17 and3c506a18–36",
+      "all8_whole_rivals": "whole body plus2d965b current register",
+      "whole_saved41_and_freeze_semantic_fields": "bfd377/774321; mechanical output/preservation inventories independently verified",
+      "fresh_whole_P107_analytical_argument": "301a14 complete84; EIE08 P107L24–40 actually includes late qualificationL36; no locator repair needed",
+      "adequate_other_source_reuse": "Previously adequately received maker private/group and public analytical meanings retain actual scopes. Event818 checkpoint authority onlyL23–40, not whole534; copies and identities do not transfer primary/author/independence credit."
+    },
+    "semantic_grounds": [
+      "The institution converts wanted making into service under client constraints. Allocation, disclosure, ownership, work, use and correction receive distinct analysis beyond the three character biographies.",
+      "Pizza, differentiated taste, fabrication, cosplay, learning, quiet, sunset, gifts and company remain intrinsically valuable. A useless invention is not discarded for lacking later tactical usefulness.",
+      "Useful rescue, actual food and gift uptake, partial costume completion and coalition contribution coexist with concealed gun modification, recipient distress, fatigue, unshown restoration and incomplete safety or liability.",
+      "Clients, wearers, juniors, audience students, Chihiro and coalition peers have independent welcome, objection and refusal. Repair-only constraints and unsuitable maintenance limit maker-centered accounts.",
+      "P107 late qualification is within the actual admitted lines. Chihiro machine testimony is not a Yuuka attack order; manual plans and return estimates are not completed technical outcomes. ModifiedMk2 is not falsely restoredMk2.",
+      "Eight substantial competing readings preserve both positive and contrary evidence; written actor/choice/locale seams, unordered private repertoire and actual versus anticipated ends remain bounded.",
+      "All eleven substantial dimensions and fourteen original OPEN gap effects remain. This existing institution home adds no named section or separate maker/client relationship completion."
+    ],
+    "scope_denominator": "355 required packages plus29 mandatory named sections unchanged; fixed74–89 unchanged",
+    "progress": {
+      "previous_ROOTaccepted_packages": 94,
+      "new_institution_package": 1,
+      "total_ROOTaccepted_packages": 95,
+      "character_packages": 85,
+      "directed_relationship_packages": 6,
+      "ensemble_packages": 2,
+      "institution_packages": 2,
+      "published_remote_packages": 89,
+      "published_source_commit": "86e0c3d8071aeaa2ed09bb79d4a28fce1c117103",
+      "canonical_persistence": "PENDING_NEXT_EXACT_CANONICAL_ADOPTION",
+      "fixed_first_quarter_tranche": "EXCLUDED_PACKAGE95",
+      "goal_25_percent_milestone_complete": false
+    },
+    "new_primary_native_raw_QA_AV_model_credit": 0,
+    "all14_original_gaps": "OPEN",
+    "nine_unbound_large": "UNOPENED_UNREAD_UNHASHED",
+    "R_Git_provider_writes": false,
+    "main_integration": "PENDING_FIRST_MILESTONE_AUTHORIZED_MERGE_AND_POSTMERGE_AUDIT"
+  },
+  "public_reference_translation": "Every original field survives exact reference translation. Original tuples bind original bytes, not derivative bytes; full immutable C transports and literal inverses are retained.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ENGINEERING_CRAFT_CLIENT_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 48026,
+    "sha256": "3604b9c2db47a59b63c6b9a31349e88c730910baa63fbca3a6d31c62b9ad4ed8",
+    "git_blob_oid_of_actual_bytes": "f668d99c8a06c38fff9ce0668868e15b08a743f8"
+  },
+  "authority_framing_changes": [],
+  "mandatory_operative_qualification": "169-line original as-is; metadata/link adoption only. L148 is a correctly classified literary evidence-route paragraph, not a gap row; all14 actual gap rows remain OPEN."
+}
