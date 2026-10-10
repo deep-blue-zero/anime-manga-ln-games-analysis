@@ -1,0 +1,1812 @@
+{
+ "required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+ "rows": [
+  {
+   "original_package_id": "P3-CHAR-YUUKA",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-YUUKA",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Yuuka",
+    "positive_person_route": "BA_PERSON_YUUKA",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUUKA_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "PUBLISHED_34685c9aa894101d176e46c26d1434e44bfd9fa4_DRAFT_PR147",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-YUUKA"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-YUUKA"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-ASUNA",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-ASUNA",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Asuna",
+    "positive_person_route": "BA_PERSON_ASUNA",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ASUNA_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "PUBLISHED_84d64c927a536f19c43f05f5d418e4e8c7713610_DRAFT_PR147",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-ASUNA"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-ASUNA"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-TOKI",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-TOKI",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Toki",
+    "positive_person_route": "BA_PERSON_CH0187",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TOKI_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "PUBLISHED_84d64c927a536f19c43f05f5d418e4e8c7713610_DRAFT_PR147",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-TOKI"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-TOKI"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-KARIN",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-KARIN",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Karin",
+    "positive_person_route": "BA_PERSON_KARIN",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KARIN_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "PUBLISHED_84d64c927a536f19c43f05f5d418e4e8c7713610_DRAFT_PR147",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-KARIN"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-KARIN"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-QUESTION-CC",
+   "original_complete_tracking_row": {
+    "package_id": "P3-QUESTION-CC",
+    "package_type": "ENSEMBLE",
+    "subject": "C&C directed ensemble",
+    "positive_person_route": "",
+    "scope_disposition": "ASSESSMENT_PENDING",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-ENSEMBLE-CC-DIFFERENTIATED-COMPANY-CONTESTED-BELONGING"
+   ],
+   "current_required_parent_refs": [
+    "P3-ENSEMBLE-CC-DIFFERENTIATED-COMPANY-CONTESTED-BELONGING"
+   ],
+   "rationale": [
+    [
+     "The existing C&C institution asks what commitments a unit/member may make under informed, answerable conditions. The ensemble’s actual explanatory mechanism is different: mixed welcome, correction and reciprocal practical support make wanted shared life possible without common emotional or consent endpoints. Karin’s complete§8 shows comfort/collective action at Neru injury, celebration, meaningful peer interruption of interrogation, and adversarial→possible collective inclusion→Final assistance to Toki without an invented Karin–Toki reconciliation. Asuna’s complete accepted§8 distinguishes her readiness to welcome Toki from Neru’s objection, Akane’s fallible procedure, Karin confidentiality, and later distributed rescue. Toki§8 differentiates Neru’s injury/grudging opening/apology, Asuna welcome/style pleasure, Akane ordinary escort work and Karin’s team critique; senior-costume imitation is desired company, not uniform approval. These are actual different recipients and ordinary valued company, not merely mandate, staffing, delegated agreement or revenue. A school-labor institution can link them but cannot certify that distinct ensemble explanation by covering governance alone."
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-QUESTION-MILLENNIUM",
+   "original_complete_tracking_row": {
+    "package_id": "P3-QUESTION-MILLENNIUM",
+    "package_type": "INSTITUTION",
+    "subject": "Millennium governance",
+    "positive_person_route": "",
+    "scope_disposition": "ASSESSMENT_PENDING",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-INST-MILLENNIUM-DISTRIBUTED-AUTHORITY"
+   ],
+   "current_required_parent_refs": [
+    "P3-INST-MILLENNIUM-DISTRIBUTED-AUTHORITY"
+   ],
+   "rationale": [
+    [
+     "Pending wider allocation; no automatic school umbrella",
+     "Required whole-school convergence/allocation review; already required scoped institutions cannot manufacture a second umbrella"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-HIMARI-CH0159",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-HIMARI-CH0159",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Himari",
+    "positive_person_route": "BA_PERSON_CH0159",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-HIMARI-CH0159"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-HIMARI-CH0159"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-CHIHIRO-CH0160",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-CHIHIRO-CH0160",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Chihiro",
+    "positive_person_route": "BA_PERSON_CH0160",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-CHIHIRO-CH0160"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-CHIHIRO-CH0160"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-NOMASA-REI-CH0245",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-NOMASA-REI-CH0245",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Rei (baseball, CH0245)",
+    "positive_person_route": "BA_PERSON_CH0245",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-NOMASA-REI-CH0245"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-NOMASA-REI-CH0245"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-EIMI-RETRIEVAL-BOUNDED",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-EIMI-RETRIEVAL-BOUNDED",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Eimi",
+    "positive_person_route": "BA_PERSON_CH0337|BA_PERSON_EIMI",
+    "scope_disposition": "ELIGIBLE_REQUIRED_LITERAL_SCOPE_ALLOCATION_PENDING",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-EIMI-RETRIEVAL-BOUNDED"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-EIMI-RETRIEVAL-BOUNDED"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-HARE",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-HARE",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Hare",
+    "positive_person_route": "BA_PERSON_HARE",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-HARE"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-HARE"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-KOTAMA",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-KOTAMA",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Kotama",
+    "positive_person_route": "BA_PERSON_KOTAMA",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-KOTAMA"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-KOTAMA"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-MAKI",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-MAKI",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Maki",
+    "positive_person_route": "BA_PERSON_MAKI",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-MAKI"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-MAKI"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-SUMIRE",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-SUMIRE",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Sumire",
+    "positive_person_route": "BA_PERSON_SUMIRE",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-SUMIRE"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-SUMIRE"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-XMI-I001",
+   "original_complete_tracking_row": {
+    "package_id": "P3-XMI-I001",
+    "package_type": "INSTITUTION",
+    "subject": "Veritas: information freedom and answerable access",
+    "positive_person_route": "",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-INST-VERITAS-TECHNICAL-CARE-RECIPIENT-PRIVACY"
+   ],
+   "current_required_parent_refs": [
+    "P3-INST-VERITAS-TECHNICAL-CARE-RECIPIENT-PRIVACY"
+   ],
+   "rationale": [
+    [
+     "Veritas technical care, practical correction and consent limits",
+     "Mandatory substantial game/art/rest ensemble section"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-XMI-R001",
+   "original_complete_tracking_row": {
+    "package_id": "P3-XMI-R001",
+    "package_type": "RELATIONSHIP",
+    "subject": "Sumire ↔ baseball Rei: chosen aim and disputed means",
+    "positive_person_route": "",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS"
+   ],
+   "current_required_parent_refs": [
+    "P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS"
+   ],
+   "rationale": [
+    [
+     "Chosen goals and intrusive training; E845 success followed by changed machine result"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-XMI-R002",
+   "original_complete_tracking_row": {
+    "package_id": "P3-XMI-R002",
+    "package_type": "RELATIONSHIP",
+    "subject": "Himari ↔ Eimi",
+    "positive_person_route": "",
+    "scope_disposition": "ASSESSMENT_PENDING",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-REL-HIMARI-EIMI-DIFFERENT-DEPENDENCIES"
+   ],
+   "current_required_parent_refs": [
+    "P3-REL-HIMARI-EIMI-DIFFERENT-DEPENDENCIES"
+   ],
+   "rationale": [
+    [
+     "Required public/private comparative reception review",
+     "Positive private/public lead; complete opposite-directed reception still needs consequential review before a standalone package decision"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-XMI-E001",
+   "original_complete_tracking_row": {
+    "package_id": "P3-XMI-E001",
+    "package_type": "ENSEMBLE",
+    "subject": "Veritas plural game/art/rest repertoire",
+    "positive_person_route": "",
+    "scope_disposition": "ASSESSMENT_PENDING",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-INST-VERITAS-TECHNICAL-CARE-RECIPIENT-PRIVACY"
+   ],
+   "current_required_parent_refs": [
+    "P3-INST-VERITAS-TECHNICAL-CARE-RECIPIENT-PRIVACY"
+   ],
+   "rationale": [
+    [
+     "Veritas technical care, practical correction and consent limits",
+     "Mandatory substantial game/art/rest ensemble section"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-XMI-I003",
+   "original_complete_tracking_row": {
+    "package_id": "P3-XMI-I003",
+    "package_type": "INSTITUTION",
+    "subject": "Training Club / baseball institutions and recipient limits",
+    "positive_person_route": "",
+    "scope_disposition": "ASSESSMENT_PENDING",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-INST-BASEBALL-TRAINING-CHOSEN-GOALS"
+   ],
+   "current_required_parent_refs": [
+    "P3-INST-BASEBALL-TRAINING-CHOSEN-GOALS"
+   ],
+   "rationale": [
+    [
+     "Required institution/ensemble scope distinct from individual training dyad"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-AKANE",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-AKANE",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Akane",
+    "positive_person_route": "BA_PERSON_AKANE",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-AKANE"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-AKANE"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-NERU-NEL",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-NERU-NEL",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Nel",
+    "positive_person_route": "BA_PERSON_NERU",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-NERU-NEL"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-NERU-NEL"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-HIBIKI",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-HIBIKI",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Hibiki",
+    "positive_person_route": "BA_PERSON_HIBIKI",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-HIBIKI"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-HIBIKI"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-KOTORI",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-KOTORI",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Kotori",
+    "positive_person_route": "BA_PERSON_KOTORI",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-KOTORI"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-KOTORI"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-UTAHA",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-UTAHA",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Utaha",
+    "positive_person_route": "BA_PERSON_UTAHA",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-UTAHA"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-UTAHA"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-NOA-CH0095",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-NOA-CH0095",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Noa",
+    "positive_person_route": "BA_PERSON_CH0095",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-NOA-CH0095"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-NOA-CH0095"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-RIO-CH0158",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-RIO-CH0158",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Rio",
+    "positive_person_route": "BA_PERSON_CH0158",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-RIO-CH0158"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-RIO-CH0158"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-KOYUKI-CH0198",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-KOYUKI-CH0198",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Koyuki",
+    "positive_person_route": "BA_PERSON_CH0198",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-KOYUKI-CH0198"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-KOYUKI-CH0198"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-ALICE-ARIS-BOUNDED",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-ALICE-ARIS-BOUNDED",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Alice / `AL-1S` (provisional)",
+    "positive_person_route": "BA_PERSON_ARIS",
+    "scope_disposition": "ELIGIBLE_REQUIRED_LITERAL_SCOPES_PRESERVED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-ALICE-ARIS-BOUNDED"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-ALICE-ARIS-BOUNDED"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-MIDORI",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-MIDORI",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Midori",
+    "positive_person_route": "BA_PERSON_MIDORI",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-MIDORI"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-MIDORI"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-MOMOI",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-MOMOI",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Momoi",
+    "positive_person_route": "BA_PERSON_MOMOI",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-MOMOI"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-MOMOI"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-YUZU-TWO-KEY-BOUNDED",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-YUZU-TWO-KEY-BOUNDED",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Yuzu",
+    "positive_person_route": "BA_PERSON_CH0336|BA_PERSON_YUZU",
+    "scope_disposition": "ELIGIBLE_REQUIRED_LITERAL_SCOPES_PRESERVED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-YUZU-TWO-KEY-BOUNDED"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-YUZU-TWO-KEY-BOUNDED"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-KEI-TWO-KEY-BOUNDED",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-KEI-TWO-KEY-BOUNDED",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "ケイ|天童ケイ",
+    "positive_person_route": "BA_PERSON_CH0335|BA_PERSON_CHAR_101350001",
+    "scope_disposition": "ELIGIBLE_REQUIRED_LITERAL_SCOPES_PRESERVED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-KEI-TWO-KEY-BOUNDED"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-KEI-TWO-KEY-BOUNDED"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-XMI-I004",
+   "original_complete_tracking_row": {
+    "package_id": "P3-XMI-I004",
+    "package_type": "INSTITUTION",
+    "subject": "C&C: enjoyed service, procedural commitment and chosen occupation",
+    "positive_person_route": "",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-INST-CC-STUDENT-OPERATIVE-LABOR"
+   ],
+   "current_required_parent_refs": [
+    "P3-INST-CC-STUDENT-OPERATIVE-LABOR"
+   ],
+   "rationale": [
+    [
+     "Reports/acknowledgment/internal delegation, not displayed signed instrument or legal validation"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-XMI-I005",
+   "original_complete_tracking_row": {
+    "package_id": "P3-XMI-I005",
+    "package_type": "INSTITUTION",
+    "subject": "Engineering Club: pleasurable invention and recipient responsibility",
+    "positive_person_route": "",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-INST-ENGINEERING-CRAFT-CLIENT-CONSTRAINTS"
+   ],
+   "current_required_parent_refs": [
+    "P3-INST-ENGINEERING-CRAFT-CLIENT-CONSTRAINTS"
+   ],
+   "rationale": [
+    [
+     "Wanted gakuran designs versus completed subset and actual cheer-costume correction"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-XMI-I006",
+   "original_complete_tracking_row": {
+    "package_id": "P3-XMI-I006",
+    "package_type": "INSTITUTION",
+    "subject": "Game Development: home, chosen participation and distributed making",
+    "positive_person_route": "",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-INST-GDD-PLAY-AUTHORSHIP-RECOGNITION"
+   ],
+   "current_required_parent_refs": [
+    "P3-INST-GDD-PLAY-AUTHORSHIP-RECOGNITION"
+   ],
+   "rationale": [
+    [
+     "Different private wants and distributed game authorship"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-XMI-I007",
+   "original_complete_tracking_row": {
+    "package_id": "P3-XMI-I007",
+    "package_type": "INSTITUTION",
+    "subject": "Seminar: finite resources, selective standards and information burdens",
+    "positive_person_route": "",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-INST-SEMINAR-RESOURCE-AUTHORITY-PRIVATE-LIFE"
+   ],
+   "current_required_parent_refs": [
+    "P3-INST-SEMINAR-RESOURCE-AUTHORITY-PRIVATE-LIFE"
+   ],
+   "rationale": [
+    [
+     "Actual gifts/company and constrained privacy/work"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-XMI-R003",
+   "original_complete_tracking_row": {
+    "package_id": "P3-XMI-R003",
+    "package_type": "RELATIONSHIP",
+    "subject": "Toki ↔ Game Development: chosen affiliation and responsibility",
+    "positive_person_route": "",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-REL-TOKI-GDD-RECOGNITION-BELONGING"
+   ],
+   "current_required_parent_refs": [
+    "P3-REL-TOKI-GDD-RECOGNITION-BELONGING"
+   ],
+   "rationale": [
+    [
+     "Distinct from Alice-Key-Kei continuity question"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-XMI-R004",
+   "original_complete_tracking_row": {
+    "package_id": "P3-XMI-R004",
+    "package_type": "RELATIONSHIP",
+    "subject": "Momoi ↔ Midori: generosity, imitation, confidence and rivalry",
+    "positive_person_route": "",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-REL-MOMOI-MIDORI-DIFFERENT-AUTHORSHIP"
+   ],
+   "current_required_parent_refs": [
+    "P3-REL-MOMOI-MIDORI-DIFFERENT-AUTHORSHIP"
+   ],
+   "rationale": [
+    [
+     "Directed sister/peer contribution without interchangeable taste"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-XMI-R005",
+   "original_complete_tracking_row": {
+    "package_id": "P3-XMI-R005",
+    "package_type": "RELATIONSHIP",
+    "subject": "Noa ↔ Yuuka: affection, dependence and selective disclosure",
+    "positive_person_route": "",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-REL-NOA-YUUKA-PRIVACY-MEMORY-COMPANY"
+   ],
+   "current_required_parent_refs": [
+    "P3-REL-NOA-YUUKA-PRIVACY-MEMORY-COMPANY"
+   ],
+   "rationale": [
+    [
+     "Full E842 contrary cases; privacy support and pressured disclosure coexist"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-XMI-R006",
+   "original_complete_tracking_row": {
+    "package_id": "P3-XMI-R006",
+    "package_type": "RELATIONSHIP",
+    "subject": "Kei ↔ Game Development labor/critique",
+    "positive_person_route": "",
+    "scope_disposition": "ASSESSMENT_PENDING",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-SECTION-KEI-GDD-CHOSEN-LABOR-SCOPE-CRITIQUE"
+   ],
+   "current_required_parent_refs": [
+    "P3-INST-GDD-PLAY-AUTHORSHIP-RECOGNITION"
+   ],
+   "rationale": [
+    [
+     "Whole private006 chosen QA, desired makers work, expansion of scope and criticism of promised compulsory overwork answer I006’s actual shared-place/distributed-making/capacity question. Kei→makers request/critique and club→Kei expectations must stay separately shown; liking a game is not agreement to every task. Alice→Key/Kei personhood relationship has different actors and explanatory duty."
+    ]
+   ],
+   "counts_as_separate_required_package": false,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-XMI-R007",
+   "original_complete_tracking_row": {
+    "package_id": "P3-XMI-R007",
+    "package_type": "RELATIONSHIP",
+    "subject": "Yuuka ↔ C&C fiscal/occupation conversion",
+    "positive_person_route": "",
+    "scope_disposition": "ASSESSMENT_PENDING",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-SECTION-YUUKA-CC-FISCAL-CHOSEN-OCCUPATION"
+   ],
+   "current_required_parent_refs": [
+    "P3-INST-CC-STUDENT-OPERATIVE-LABOR"
+   ],
+   "rationale": [
+    [
+     "Full G120 fiscal/municipal work, reported internal delegation and acknowledged café commitment, revenue/appearance proposal and Neru refusal are the institution’s informed/answerable commitment mechanism. Yuuka’s resource argument and C&C recipients different wanted work are preserved as actual directions; there is no displayed signature instrument or legal enforceability. Seminar capacity links to its separate home."
+    ]
+   ],
+   "counts_as_separate_required_package": false,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-XMI-R008",
+   "original_complete_tracking_row": {
+    "package_id": "P3-XMI-R008",
+    "package_type": "RELATIONSHIP",
+    "subject": "Akane ↔ Neru appearance/boundary negotiation",
+    "positive_person_route": "",
+    "scope_disposition": "ASSESSMENT_PENDING",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-SECTION-AKANE-NERU-APPEARANCE-RECIPIENT-BOUNDARY"
+   ],
+   "current_required_parent_refs": [
+    "P3-INST-CC-STUDENT-OPERATIVE-LABOR"
+   ],
+   "rationale": [
+    [
+     "Akane’s appearance/service initiative meets Neru’s actual limited hair agreement and jacket refusal. This supplies a directed recipient boundary within the same student/operative chosen-occupation institution question; other members’ clothing enjoyment cannot decide Neru’s assent. Retain Akane’s own pleasure/agency and Neru’s practical choice."
+    ]
+   ],
+   "counts_as_separate_required_package": false,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-XMI-I008",
+   "original_complete_tracking_row": {
+    "package_id": "P3-XMI-I008",
+    "package_type": "INSTITUTION",
+    "subject": "Art access, ownership claims and aesthetic gatekeeping",
+    "positive_person_route": "",
+    "scope_disposition": "ASSESSMENT_PENDING",
+    "semantic_acceptance": "PENDING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-INST-ART-ACCESS-OWNERSHIP-EXCLUSIVE-GATEKEEPING"
+   ],
+   "current_required_parent_refs": [
+    "P3-INST-ART-ACCESS-OWNERSHIP-EXCLUSIVE-GATEKEEPING"
+   ],
+   "rationale": [
+    [
+     "E825’s art-access principle versus exclusive management, disclosure/betrayal/continued taking and endangered commissioned labor asks who can claim access, decide participation and control an aesthetic object or audience. E850’s accepted art-commerce question instead explains unchosen club headship, labor, manufacture, clients and money with actual literary taste and failed profit. Shared art vocabulary or a source-scoped Akira/Milia comparison does not itself establish one institutional mechanism. Preserve the E825 question as distinct access/gatekeeping responsibility, with E850/other positively adequate art owners comparative evidence and explicit no title/legal/whole-market guarantee. This adds analytical responsibility, not a person join."
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PENDING"
+  },
+  {
+   "original_package_id": "P3-CHAR-MIKA",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-MIKA",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Mika",
+    "positive_person_route": "BA_PERSON_CH0069",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIKA_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "PUBLISHED_dc5ae72fb4841b90ff09fd53d8ba4b0ce0cf4193_DRAFT_PR147",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-MIKA-CH0069"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-MIKA-CH0069"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-NAGISA",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-NAGISA",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Nagisa",
+    "positive_person_route": "BA_PERSON_NAGISA",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NAGISA_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "PUBLISHED_dc5ae72fb4841b90ff09fd53d8ba4b0ce0cf4193_DRAFT_PR147",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-NAGISA"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-NAGISA"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-SEIA-CH0070",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-SEIA-CH0070",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Seia",
+    "positive_person_route": "BA_PERSON_CH0070",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SEIA_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "PUBLISHED_dc5ae72fb4841b90ff09fd53d8ba4b0ce0cf4193_DRAFT_PR147",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-SEIA-CH0070"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-SEIA-CH0070"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-NONOMI",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-NONOMI",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Nonomi",
+    "positive_person_route": "BA_PERSON_NONOMI",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NONOMI_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "PUBLISHED_1dc2092095ed74ee743971f1f274b30cb291d939_DRAFT_PR147",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-NONOMI"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-NONOMI"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-AYANE",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-AYANE",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Ayane",
+    "positive_person_route": "BA_PERSON_AYANE",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYANE_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "PUBLISHED_1dc2092095ed74ee743971f1f274b30cb291d939_DRAFT_PR147",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-AYANE"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-AYANE"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-SERIKA",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-SERIKA",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Serika",
+    "positive_person_route": "BA_PERSON_SERIKA",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SERIKA_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "PUBLISHED_1dc2092095ed74ee743971f1f274b30cb291d939_DRAFT_PR147",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-SERIKA"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-SERIKA"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-AZUSA",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-AZUSA",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Azusa",
+    "positive_person_route": "BA_PERSON_AZUSA",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AZUSA_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "PUBLISHED_1dc2092095ed74ee743971f1f274b30cb291d939_DRAFT_PR147",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-AZUSA"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-AZUSA"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-HIFUMI-HIHUMI",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-HIFUMI-HIHUMI",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Hifumi",
+    "positive_person_route": "BA_PERSON_HIHUMI",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIFUMI_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "PUBLISHED_1dc2092095ed74ee743971f1f274b30cb291d939_DRAFT_PR147",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-HIFUMI-HIHUMI"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-HIFUMI-HIHUMI"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-HANAKO",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-HANAKO",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Hanako",
+    "positive_person_route": "BA_PERSON_HANAKO",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HANAKO_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "PUBLISHED_1dc2092095ed74ee743971f1f274b30cb291d939_DRAFT_PR147",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-HANAKO"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-HANAKO"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-HOSHINO",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-HOSHINO",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Hoshino",
+    "positive_person_route": "BA_PERSON_HOSHINO",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HOSHINO_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-HOSHINO"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-HOSHINO"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-SHIROKO-TWO-LIVES-COMPARATIVE",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-SHIROKO-TWO-LIVES-COMPARATIVE",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Shiroko",
+    "positive_person_route": "BA_PERSON_SHIROKO; separate other-axis person scope retained",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIROKO_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-SHIROKO-TWO-LIVES-COMPARATIVE"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-SHIROKO-TWO-LIVES-COMPARATIVE"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter",
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-SUBARU-CH0309",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-SUBARU-CH0309",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Subaru",
+    "positive_person_route": "BA_PERSON_CH0309",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SUBARU_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-SUBARU-CH0309"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-SUBARU-CH0309"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-KOHARU",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-KOHARU",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Koharu",
+    "positive_person_route": "BA_PERSON_KOHARU",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-KOHARU"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-KOHARU"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-UI-CH0169",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-UI-CH0169",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Ui",
+    "positive_person_route": "BA_PERSON_CH0169",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-UI-CH0169"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-UI-CH0169"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-HINATA",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-HINATA",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Hinata",
+    "positive_person_route": "BA_PERSON_HINATA",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-HINATA"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-HINATA"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-HASUMI",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-HASUMI",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Hasumi",
+    "positive_person_route": "BA_PERSON_HASUMI",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HASUMI_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-HASUMI"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-HASUMI"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  },
+  {
+   "original_package_id": "P3-CHAR-ATSUKO",
+   "original_complete_tracking_row": {
+    "package_id": "P3-CHAR-ATSUKO",
+    "package_type": "CHARACTER_MONOGRAPH",
+    "subject": "Atsuko",
+    "positive_person_route": "BA_PERSON_ATSUKO",
+    "scope_disposition": "ELIGIBLE_REQUIRED",
+    "semantic_acceptance": "PASS_WITH_LIMITS",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ATSUKO_CHARACTER_MONOGRAPH.md",
+    "persistence_state": "SOURCE_BRANCH",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "acceptance_owner": "ROOT",
+    "model_grade_effect": "UNCHANGED"
+   },
+   "current_required_home_refs": [
+    "P3-CHAR-ATSUKO"
+   ],
+   "current_required_parent_refs": [
+    "P3-CHAR-ATSUKO"
+   ],
+   "rationale": [
+    [
+     "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+    ]
+   ],
+   "counts_as_separate_required_package": true,
+   "literary_acceptance_unchanged": "PASS_WITH_LIMITS"
+  }
+ ],
+ "whole_legacy_rows": 60,
+ "completion_added_by_mapping": 0
+}

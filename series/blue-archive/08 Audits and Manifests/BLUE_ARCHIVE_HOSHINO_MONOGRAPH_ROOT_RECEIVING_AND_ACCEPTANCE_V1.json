@@ -1,0 +1,68 @@
+{
+  "schema": "BLUE_ARCHIVE_ROOT_HOSHINO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+  "status": "PASS_WITH_LIMITS",
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "candidate_sha256": "391f67d25db0cfddce6930260dfe95d61de45511efaffd26fcfd045830fc194b",
+  "frozen_outputs_verified": 4,
+  "prior_frozen_outputs_preserved": 13,
+  "exact_unique_binding_pairs_verified": 110,
+  "fresh_complete_arguments_equal_main_and_c1": 44,
+  "selected_private_objects_exact_verified": 34,
+  "historical_metadata_bindings": [
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+      "ref": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+      "purpose": "historical metadata only"
+    },
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+      "ref": "dc5ae72fb4841b90ff09fd53d8ba4b0ce0cf4193",
+      "purpose": "immutable author metadata witness; current staged control is intentionally newer"
+    },
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv",
+      "ref": "dc5ae72fb4841b90ff09fd53d8ba4b0ce0cf4193",
+      "purpose": "immutable author metadata witness; current staged control is intentionally newer"
+    }
+  ],
+  "root_actual_receiving": {
+    "whole_final_body": [
+      "0cc9a3 lines1–80",
+      "83bb69 lines81–157",
+      "fea873 lines158–233EOF"
+    ],
+    "whole_readable_receipt": [
+      "03cc2f lines1–60",
+      "ea3ae2 lines61–82EOF"
+    ],
+    "source_scope_fields": "410a5b was clipped and confers no whole receipt credit; complete fresh44 fields first20 visible410a5b/restccfb65; prior27 declarations080c9d clip recovered18c23110–16; other12ee381e tiny clip recoveredf45da2; reused20complete6005f2; current2complete3cf7bc; architecture8c75f2; controlsf3300c; manifest32868a. Exact binding verification is distinct from literary receiving.",
+    "new_complete_accepted_arguments": [
+      "80e988 sea argument42linesEOF",
+      "42c6ed lateMain041argument41linesEOF"
+    ],
+    "new_full_primary_or_raw_or_performance_credit": 0
+  },
+  "semantic_grounds": [
+    "Wanted rest, marine curiosity, small unsuccessful searches and future company are substantive; explicit sea disclaimer constrains reduction of every pleasure to grief.",
+    "Exceptional solitary responsibility repeatedly excludes peers; threat to Nonomi, forced exercise and pursuit after refusal remain adverse conduct beside protection and apologies.",
+    "Yume, Nonomi, Shiroko, Ayane, Serika, Hina and counterpart act from distinct attachments; their agency supports reciprocal membership.",
+    "Notebook-shaped altered encounter and future-directed letter have literary force without ordinary physical provenance; grief expressly persists after return.",
+    "Written branches, Korean/Japanese differences, variant conditions, source-local UI wishes, qualified counterpart labels and unreceived performance remain distinct."
+  ],
+  "canonical_adoption": "CANONICAL_SOURCE_BRANCH_DERIVATIVE",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "N_frozen": false,
+  "quarter_reached": false,
+  "main_integration": "NONE",
+  "canonical_derivative": {
+    "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HOSHINO_CHARACTER_MONOGRAPH.md",
+    "bytes": 53010,
+    "sha256": "0de0b375709495532066d3f81c6cc9c1ded68d11f445541663747b98e364fcbc",
+    "frozen_author_bytes": 52404,
+    "frozen_author_sha256": "391f67d25db0cfddce6930260dfe95d61de45511efaffd26fcfd045830fc194b"
+  },
+  "public_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HOSHINO_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+  "public_claim_register": null,
+  "historical_receiving_flags_retained": "N, publication and main state refer to the dated receiving event; current full-cast scope is separately indexed."
+}

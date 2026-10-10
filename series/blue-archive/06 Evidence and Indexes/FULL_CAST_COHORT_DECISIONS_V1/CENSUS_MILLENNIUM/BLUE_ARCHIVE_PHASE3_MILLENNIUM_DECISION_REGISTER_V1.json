@@ -1,0 +1,710 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/CENSUS_MILLENNIUM/BLUE_ARCHIVE_PHASE3_MILLENNIUM_DECISION_REGISTER_V1.json",
+  "original_frozen_binding": {
+   "bytes": 26772,
+   "sha256": "cc0daad45b5dfe26e66049719271282704f419d9864daa284f9f76e33e4b4768",
+   "git_blob_sha1": "f7f8ce1c188932b885cd0529b7be84f49cc15c48"
+  }
+ },
+ "historical_payload": {
+  "schema": "phase3_bounded_semantic_eligibility_proposals_v1",
+  "review_document": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V1.md",
+  "required_typed_duties": 21,
+  "completed_argument_proposals": 8,
+  "remaining_mandatory_typed_duties": 13,
+  "root_adoption": "PENDING",
+  "denominator": "UNFROZEN_FULL_CAST_ADJUDICATION_INCOMPLETE",
+  "quarters_claimed": 0,
+  "typed_responsibilities": [
+   {
+    "candidate_unit_id": "P3-F002",
+    "family_key": "AKANE",
+    "subject_label": "Akane",
+    "literal_raw_person_keys": [
+     "BA_PERSON_AKANE"
+    ],
+    "variants": [
+     "13000",
+     "20019",
+     "20057"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_AKANE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 14,
+     "WHOLE_MOMOTALK": 14,
+     "WRITTEN": 4
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "PENDING_COMPLETE_NORMAL_ARGUMENT_REVIEW",
+    "decision": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+    "target_package_key": null,
+    "related_dated_responsibility": null,
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F005",
+    "family_key": "ARIS",
+    "subject_label": "Alice / `AL-1S` (provisional)",
+    "literal_raw_person_keys": [
+     "BA_PERSON_ARIS"
+    ],
+    "variants": [
+     "10015",
+     "10066",
+     "10134"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_ALICE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 15,
+     "WHOLE_MOMOTALK": 15,
+     "WRITTEN": 7
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "PENDING_COMPLETE_NORMAL_ARGUMENT_REVIEW",
+    "decision": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+    "target_package_key": null,
+    "related_dated_responsibility": null,
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F034",
+    "family_key": "CH0095",
+    "subject_label": "Noa",
+    "literal_raw_person_keys": [
+     "BA_PERSON_CH0095"
+    ],
+    "variants": [
+     "10052",
+     "10109"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_NOA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 8,
+     "WHOLE_MOMOTALK": 8,
+     "WRITTEN": 4
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "PENDING_COMPLETE_NORMAL_ARGUMENT_REVIEW",
+    "decision": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+    "target_package_key": null,
+    "related_dated_responsibility": null,
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F051",
+    "family_key": "CH0158",
+    "subject_label": "Rio",
+    "literal_raw_person_keys": [
+     "BA_PERSON_CH0158"
+    ],
+    "variants": [
+     "10133",
+     "20041"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_RIO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 8,
+     "WHOLE_MOMOTALK": 8,
+     "WRITTEN": 4
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "PENDING_COMPLETE_NORMAL_ARGUMENT_REVIEW",
+    "decision": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+    "target_package_key": null,
+    "related_dated_responsibility": null,
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F052",
+    "family_key": "CH0159",
+    "subject_label": "Himari",
+    "literal_raw_person_keys": [
+     "BA_PERSON_CH0159"
+    ],
+    "variants": [
+     "20020",
+     "20054"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIMARI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 8,
+     "WHOLE_MOMOTALK": 8,
+     "WRITTEN": 4
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "COMPLETE_THROUGH_EOF_WITH_CLIPPING_RECOVERY_WHERE_DECLARED",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-HIMARI-CH0159",
+    "related_dated_responsibility": "P3-A082",
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F053",
+    "family_key": "CH0160",
+    "subject_label": "Chihiro",
+    "literal_raw_person_keys": [
+     "BA_PERSON_CH0160"
+    ],
+    "variants": [
+     "20013"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 4,
+     "WHOLE_MOMOTALK": 4,
+     "WRITTEN": 1
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "COMPLETE_THROUGH_EOF_WITH_CLIPPING_RECOVERY_WHERE_DECLARED",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-CHIHIRO-CH0160",
+    "related_dated_responsibility": "P3-A084",
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F063",
+    "family_key": "CH0198",
+    "subject_label": "Koyuki",
+    "literal_raw_person_keys": [
+     "BA_PERSON_CH0198"
+    ],
+    "variants": [
+     "10063",
+     "20056"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 10,
+     "WHOLE_MOMOTALK": 10,
+     "WRITTEN": 3
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "PENDING_COMPLETE_NORMAL_ARGUMENT_REVIEW",
+    "decision": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+    "target_package_key": null,
+    "related_dated_responsibility": null,
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F071",
+    "family_key": "CH0245",
+    "subject_label": "Rei (baseball, CH0245)",
+    "literal_raw_person_keys": [
+     "BA_PERSON_CH0245"
+    ],
+    "variants": [
+     "10115"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/NOMASA_REI/BLUE_ARCHIVE_NOMASA_REI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+    "selected_private_object_domains": {
+     "BOND": 4,
+     "WHOLE_MOMOTALK": 4,
+     "WRITTEN": 2
+    },
+    "frozen_comparand_story_ids": "BA:bond:10132:003|BA:bond:16012:003",
+    "argument_read_state": "COMPLETE_THROUGH_EOF_WITH_CLIPPING_RECOVERY_WHERE_DECLARED",
+    "decision": "ELIGIBLE_SOURCE_LOCAL_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-NOMASA-REI-CH0245",
+    "related_dated_responsibility": "P3-A419",
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F084",
+    "family_key": "EIMI",
+    "subject_label": "Eimi",
+    "literal_raw_person_keys": [
+     "BA_PERSON_CH0337",
+     "BA_PERSON_EIMI"
+    ],
+    "variants": [
+     "10001",
+     "10136",
+     "20032"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_EIMI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 14,
+     "WHOLE_MOMOTALK": 14,
+     "WRITTEN": 6
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "COMPLETE_THROUGH_EOF_WITH_CLIPPING_RECOVERY_WHERE_DECLARED",
+    "decision": "ELIGIBLE_LITERAL_IDENTITY_BOUNDED_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-EIMI-RETRIEVAL-BOUNDED",
+    "related_dated_responsibility": "P3-A083",
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F088",
+    "family_key": "HARE",
+    "subject_label": "Hare",
+    "literal_raw_person_keys": [
+     "BA_PERSON_HARE"
+    ],
+    "variants": [
+     "10085",
+     "23003"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HARE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 9,
+     "WHOLE_MOMOTALK": 9,
+     "WRITTEN": 3
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "COMPLETE_THROUGH_EOF_WITH_CLIPPING_RECOVERY_WHERE_DECLARED",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-HARE",
+    "related_dated_responsibility": "P3-A073",
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F092",
+    "family_key": "HIBIKI",
+    "subject_label": "Hibiki",
+    "literal_raw_person_keys": [
+     "BA_PERSON_HIBIKI"
+    ],
+    "variants": [
+     "16010",
+     "20000"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 11,
+     "WHOLE_MOMOTALK": 11,
+     "WRITTEN": 3
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "PENDING_COMPLETE_NORMAL_ARGUMENT_REVIEW",
+    "decision": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+    "target_package_key": null,
+    "related_dated_responsibility": null,
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F106",
+    "family_key": "KEI_SEPARATE19",
+    "subject_label": "ケイ|天童ケイ",
+    "literal_raw_person_keys": [
+     "BA_PERSON_CH0335",
+     "BA_PERSON_CHAR_101350001"
+    ],
+    "variants": [
+     "10135",
+     "101350001"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KEI_PHASE2_PRIVATE_AND_SPECIAL_IDENTITY_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 6,
+     "WHOLE_MOMOTALK": 6,
+     "WRITTEN": 7
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "PENDING_COMPLETE_NORMAL_ARGUMENT_REVIEW",
+    "decision": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+    "target_package_key": null,
+    "related_dated_responsibility": null,
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F110",
+    "family_key": "KOTAMA",
+    "subject_label": "Kotama",
+    "literal_raw_person_keys": [
+     "BA_PERSON_KOTAMA"
+    ],
+    "variants": [
+     "10084",
+     "26001"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 8,
+     "WHOLE_MOMOTALK": 8,
+     "WRITTEN": 3
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "COMPLETE_THROUGH_EOF_WITH_CLIPPING_RECOVERY_WHERE_DECLARED",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-KOTAMA",
+    "related_dated_responsibility": "P3-A075",
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F111",
+    "family_key": "KOTORI",
+    "subject_label": "Kotori",
+    "literal_raw_person_keys": [
+     "BA_PERSON_KOTORI"
+    ],
+    "variants": [
+     "10076",
+     "16002"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 9,
+     "WHOLE_MOMOTALK": 9,
+     "WRITTEN": 3
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "PENDING_COMPLETE_NORMAL_ARGUMENT_REVIEW",
+    "decision": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+    "target_package_key": null,
+    "related_dated_responsibility": null,
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F112",
+    "family_key": "MAKI",
+    "subject_label": "Maki",
+    "literal_raw_person_keys": [
+     "BA_PERSON_MAKI"
+    ],
+    "variants": [
+     "10007",
+     "20042"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MAKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 9,
+     "WHOLE_MOMOTALK": 9,
+     "WRITTEN": 3
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "COMPLETE_THROUGH_EOF_WITH_CLIPPING_RECOVERY_WHERE_DECLARED",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-MAKI",
+    "related_dated_responsibility": "P3-A074",
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F116",
+    "family_key": "MIDORI",
+    "subject_label": "Midori",
+    "literal_raw_person_keys": [
+     "BA_PERSON_MIDORI"
+    ],
+    "variants": [
+     "10016",
+     "10095"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MIDORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 8,
+     "WHOLE_MOMOTALK": 8,
+     "WRITTEN": 3
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "PENDING_COMPLETE_NORMAL_ARGUMENT_REVIEW",
+    "decision": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+    "target_package_key": null,
+    "related_dated_responsibility": null,
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F121",
+    "family_key": "MOMOI",
+    "subject_label": "Momoi",
+    "literal_raw_person_keys": [
+     "BA_PERSON_MOMOI"
+    ],
+    "variants": [
+     "10094",
+     "13011"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MOMOI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 8,
+     "WHOLE_MOMOTALK": 8,
+     "WRITTEN": 3
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "PENDING_COMPLETE_NORMAL_ARGUMENT_REVIEW",
+    "decision": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+    "target_package_key": null,
+    "related_dated_responsibility": null,
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F124",
+    "family_key": "NERU",
+    "subject_label": "Nel",
+    "literal_raw_person_keys": [
+     "BA_PERSON_NERU"
+    ],
+    "variants": [
+     "10008",
+     "10026",
+     "10111"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_NERU_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 12,
+     "WHOLE_MOMOTALK": 12,
+     "WRITTEN": 5
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "PENDING_COMPLETE_NORMAL_ARGUMENT_REVIEW",
+    "decision": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+    "target_package_key": null,
+    "related_dated_responsibility": null,
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F138",
+    "family_key": "SUMIRE",
+    "subject_label": "Sumire",
+    "literal_raw_person_keys": [
+     "BA_PERSON_SUMIRE"
+    ],
+    "variants": [
+     "10012",
+     "20044"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUMIRE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 9,
+     "WHOLE_MOMOTALK": 9,
+     "WRITTEN": 3
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "COMPLETE_THROUGH_EOF_WITH_CLIPPING_RECOVERY_WHERE_DECLARED",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-SUMIRE",
+    "related_dated_responsibility": "P3-A085",
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F143",
+    "family_key": "UTAHA",
+    "subject_label": "Utaha",
+    "literal_raw_person_keys": [
+     "BA_PERSON_UTAHA"
+    ],
+    "variants": [
+     "10051",
+     "23004"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 10,
+     "WHOLE_MOMOTALK": 10,
+     "WRITTEN": 3
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "PENDING_COMPLETE_NORMAL_ARGUMENT_REVIEW",
+    "decision": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+    "target_package_key": null,
+    "related_dated_responsibility": null,
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   },
+   {
+    "candidate_unit_id": "P3-F147",
+    "family_key": "YUZU",
+    "subject_label": "Yuzu",
+    "literal_raw_person_keys": [
+     "BA_PERSON_CH0336",
+     "BA_PERSON_YUZU"
+    ],
+    "variants": [
+     "10018",
+     "20055",
+     "26009"
+    ],
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_YUZU_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "selected_private_object_domains": {
+     "BOND": 14,
+     "WHOLE_MOMOTALK": 14,
+     "WRITTEN": 7
+    },
+    "frozen_comparand_story_ids": "",
+    "argument_read_state": "PENDING_COMPLETE_NORMAL_ARGUMENT_REVIEW",
+    "decision": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+    "target_package_key": null,
+    "related_dated_responsibility": null,
+    "root_adoption": "PENDING",
+    "counting_limit": "Responsibility and package proposal; not an added person or completed monograph"
+   }
+  ],
+  "new_candidate_headers": [
+   {
+    "candidate_unit_id": "P3-XMI-I001",
+    "kind": "INSTITUTION",
+    "subject": "Veritas: information freedom and answerable access",
+    "decision": "ELIGIBLE_INSTITUTION_PACKAGE_PROPOSED",
+    "root_adoption": "PENDING",
+    "basis": "Complete G150, E832, four Veritas private normal owners and V002; distinct mandate/access/discipline/recipient argument"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-R001",
+    "kind": "RELATIONSHIP",
+    "subject": "Sumire ↔ baseball Rei: chosen aim and disputed means",
+    "decision": "ELIGIBLE_SOURCE_LOCAL_RELATIONSHIP_PACKAGE_PROPOSED",
+    "root_adoption": "PENDING",
+    "basis": "Complete G330, SUMI, REIB and E832; requested expertise, reciprocal instruction/pleasure, actual limits and disputed stopping"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-I002",
+    "kind": "INSTITUTION",
+    "subject": "Millennium authority, resources and personhood",
+    "decision": "PENDING_FULL_COHORT_AND_PUBLIC_OWNER_REVIEW",
+    "root_adoption": "PENDING"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-R002",
+    "kind": "RELATIONSHIP",
+    "subject": "Himari ↔ Eimi",
+    "decision": "PENDING_COMPLETE_DIRECTED_PEER_ARGUMENT",
+    "root_adoption": "PENDING"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-E001",
+    "kind": "ENSEMBLE",
+    "subject": "Veritas plural game/art/rest repertoire",
+    "decision": "PENDING_DISTINCT_PACKAGE_ALLOCATION",
+    "root_adoption": "PENDING"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-I003",
+    "kind": "INSTITUTION",
+    "subject": "Training Club / baseball institutions and recipient limits",
+    "decision": "PENDING_DISTINCT_INSTITUTION_PACKAGE_REVIEW",
+    "root_adoption": "PENDING"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-L001",
+    "kind": "SOURCE_LOCAL_ENSEMBLE_ROLE",
+    "subject": "EVENT832009 assembled news crew/crowd",
+    "decision": "REQUIRED_AUDIENCE_COVERAGE_PROPOSED_IN_MAKI_OR_I001; INDEPENDENT_PACKAGE_PENDING",
+    "root_adoption": "PENDING",
+    "identity_limit": "Narrated collective reception, no guessed individual roster"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-L002",
+    "kind": "SOURCE_LOCAL_NONHUMAN_ROLE",
+    "subject": "EVENT832005–006 bear encounter",
+    "decision": "REQUIRED_BOUNDED_ROLE_COVERAGE_PROPOSED_IN_R001; INDEPENDENT_PACKAGE_PENDING",
+    "root_adoption": "PENDING",
+    "identity_limit": "Do not relabel Rei growl anomalies or infer personhood"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-S001",
+    "kind": "SOURCE_LOCAL_SYSTEM_ROLE",
+    "subject": "Hare drone interlocutor23003:006/020",
+    "decision": "REQUIRED_BOUNDED_SYSTEM_ROLE_COVERAGE_PROPOSED_IN_HARE; INDEPENDENT_CHARACTER_PENDING",
+    "root_adoption": "PENDING",
+    "identity_limit": "Machine desire/lie analysis is not omniscient; no cross-drone identity"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-S002",
+    "kind": "SOURCE_LOCAL_SYSTEM_ROLE",
+    "subject": "GROUP3301 robotic referee",
+    "decision": "REQUIRED_RULE_ROLE_COVERAGE_PROPOSED_IN_REIB; INDEPENDENT_CHARACTER_PENDING",
+    "root_adoption": "PENDING",
+    "identity_limit": "Unjoined robotic rule role, not automatically human or self-aware person"
+   }
+  ],
+  "existing_role_responsibilities": [
+   {
+    "candidate_unit_id": "P3-A359",
+    "subject": "Veritas rumor student A (GROUP1503, local role)",
+    "decision": "REQUIRED_SOURCE_LOCAL_ROLE_OR_ENSEMBLE_COVERAGE_PROPOSED",
+    "target_package_key": "P3-XMI-I001",
+    "root_adoption": "PENDING",
+    "identity_limit": "Keep empty/local joins; no generic label continuity or independent person/package inflation"
+   },
+   {
+    "candidate_unit_id": "P3-A360",
+    "subject": "Veritas rumor student B (GROUP1503, local role)",
+    "decision": "REQUIRED_SOURCE_LOCAL_ROLE_OR_ENSEMBLE_COVERAGE_PROPOSED",
+    "target_package_key": "P3-XMI-I001",
+    "root_adoption": "PENDING",
+    "identity_limit": "Keep empty/local joins; no generic label continuity or independent person/package inflation"
+   },
+   {
+    "candidate_unit_id": "P3-A435",
+    "subject": "Baseball director (GROUP3301, local role)",
+    "decision": "REQUIRED_SOURCE_LOCAL_ROLE_OR_ENSEMBLE_COVERAGE_PROPOSED",
+    "target_package_key": "P3-XMI-R001 / P3-CHAR-NOMASA-REI-CH0245",
+    "root_adoption": "PENDING",
+    "identity_limit": "Keep empty/local joins; no generic label continuity or independent person/package inflation"
+   },
+   {
+    "candidate_unit_id": "P3-A436",
+    "subject": "Baseball member A (GROUP3301, local role)",
+    "decision": "REQUIRED_SOURCE_LOCAL_ROLE_OR_ENSEMBLE_COVERAGE_PROPOSED",
+    "target_package_key": "P3-XMI-R001 / P3-CHAR-NOMASA-REI-CH0245",
+    "root_adoption": "PENDING",
+    "identity_limit": "Keep empty/local joins; no generic label continuity or independent person/package inflation"
+   },
+   {
+    "candidate_unit_id": "P3-A437",
+    "subject": "Baseball member B (GROUP3301, local role)",
+    "decision": "REQUIRED_SOURCE_LOCAL_ROLE_OR_ENSEMBLE_COVERAGE_PROPOSED",
+    "target_package_key": "P3-XMI-R001 / P3-CHAR-NOMASA-REI-CH0245",
+    "root_adoption": "PENDING",
+    "identity_limit": "Keep empty/local joins; no generic label continuity or independent person/package inflation"
+   },
+   {
+    "candidate_unit_id": "P3-A438",
+    "subject": "Baseball member C (GROUP3301, local role)",
+    "decision": "REQUIRED_SOURCE_LOCAL_ROLE_OR_ENSEMBLE_COVERAGE_PROPOSED",
+    "target_package_key": "P3-XMI-R001 / P3-CHAR-NOMASA-REI-CH0245",
+    "root_adoption": "PENDING",
+    "identity_limit": "Keep empty/local joins; no generic label continuity or independent person/package inflation"
+   },
+   {
+    "candidate_unit_id": "P3-A439",
+    "subject": "Baseball member D (GROUP3301, local role)",
+    "decision": "REQUIRED_SOURCE_LOCAL_ROLE_OR_ENSEMBLE_COVERAGE_PROPOSED",
+    "target_package_key": "P3-XMI-R001 / P3-CHAR-NOMASA-REI-CH0245",
+    "root_adoption": "PENDING",
+    "identity_limit": "Keep empty/local joins; no generic label continuity or independent person/package inflation"
+   },
+   {
+    "candidate_unit_id": "P3-A440",
+    "subject": "Stadium announcer (GROUP3303, local role)",
+    "decision": "REQUIRED_SOURCE_LOCAL_ROLE_OR_ENSEMBLE_COVERAGE_PROPOSED",
+    "target_package_key": "P3-XMI-R001 / P3-CHAR-NOMASA-REI-CH0245",
+    "root_adoption": "PENDING",
+    "identity_limit": "Keep empty/local joins; no generic label continuity or independent person/package inflation"
+   }
+  ],
+  "preserved_opening_monographs": [
+   "Asuna",
+   "Toki",
+   "Karin",
+   "Yuuka"
+  ],
+  "no_exclusion_basis": "No stakes, popularity, MAIN-frequency, private-pool absence or model-grade filter"
+ }
+}

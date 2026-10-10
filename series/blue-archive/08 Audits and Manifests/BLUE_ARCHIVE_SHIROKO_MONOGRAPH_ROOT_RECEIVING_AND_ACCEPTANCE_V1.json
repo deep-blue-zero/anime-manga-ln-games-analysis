@@ -1,0 +1,78 @@
+{
+  "schema": "BLUE_ARCHIVE_ROOT_SHIROKO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+  "status": "PASS_WITH_LIMITS",
+  "decision": "ACCEPT_COMPLETE_COMPARATIVE_BOUNDARY_WITH_LIMITS",
+  "candidate_sha256": "4aed715309bdb3bb7581bd3ab77dbbfa6d853dbca10d0232bb46bfab659ced20",
+  "frozen_outputs_verified": 4,
+  "prior_frozen_outputs_preserved": 17,
+  "exact_unique_binding_pairs_verified": 135,
+  "fresh_complete_arguments_equal_main_and_c1": 30,
+  "selected_private_objects_exact_verified": 38,
+  "historical_metadata_bindings": [
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+      "ref": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+      "purpose": "historical metadata only"
+    },
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+      "ref": "dc5ae72fb4841b90ff09fd53d8ba4b0ce0cf4193",
+      "purpose": "immutable author metadata witness; current staged control is intentionally newer"
+    },
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv",
+      "ref": "dc5ae72fb4841b90ff09fd53d8ba4b0ce0cf4193",
+      "purpose": "immutable author metadata witness; current staged control is intentionally newer"
+    }
+  ],
+  "root_actual_receiving": {
+    "whole_final_body": [
+      "d5d53a lines1–80",
+      "6cdc5a lines81–156",
+      "7247a7 lines157–229EOF"
+    ],
+    "whole_readable_receipt": [
+      "c80e27 all71linesEOF"
+    ],
+    "source_scope_fields": "All fresh30 fields 81d3f9/3ea4e9; controls f6b8a9; primary recovery declarations 2d3e1b; inherited shared scope3a8452 clipped, recovered7c26e9/0af763/fda872; reused64 scopes8ee178/e7f882. Boundedrefresh eef716; immutable historical current probe a6f49c; manifest7569cd. Exact binding verification is separate from literary receiving.",
+    "new_complete_accepted_arguments": [
+      "ec5099 10024E006 all77linesEOF",
+      "e501a6 10100E003 all75linesEOF",
+      "70a1dd 10100E005 all86linesEOF"
+    ],
+    "new_full_primary_or_raw_or_performance_credit": 0
+  },
+  "semantic_grounds": [
+    "Local Shiroko chooses cycling, conversation, company and practical adventure; negotiated pace and slow bicycle-walking are substantive ordinary-life evidence.",
+    "Exercise pressure, imagined robbery and drone pressure remain adverse beside care and skill; recipient refusal does not disappear.",
+    "The counterpart has independent fears, lottery disappointment, homework, ordinary purchases, reported race defeat and unfinished rematch. No inevitable future, shared person or calendar is asserted.",
+    "Yume, Hoshino, Ayane, Nonomi, Serika and the counterpart retain independently substantial agency and attachments.",
+    "Unprinted office, unmeasured distance, unperformed rematch, unnamed goodbye object, Japanese/Korean differences and unreceived performance remain bounded."
+  ],
+  "scope_adjudication": {
+    "provisional_counted_character_packages": 1,
+    "independent_personal_trajectories_preserved": 2,
+    "responsibilities": [
+      "P3-F135",
+      "P3-M035"
+    ],
+    "final_partition_disposition": "PENDING_ROOT_ADJUDICATION_OF_SEPARATE_SUPPLEMENT",
+    "directed_local_counterpart_relationship": "REQUIRED_SEPARATE_PACKAGE_NOT_COMPLETED"
+  },
+  "canonical_adoption": "CANONICAL_SOURCE_BRANCH_DERIVATIVE",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "N_frozen": false,
+  "quarter_reached": false,
+  "main_integration": "NONE",
+  "canonical_derivative": {
+    "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIROKO_CHARACTER_MONOGRAPH.md",
+    "bytes": 49189,
+    "sha256": "b91b6ae191826d8154e9ebbea76f4a4fa7142a3a8303b53597c3c39b8730ba3f",
+    "frozen_author_bytes": 48619,
+    "frozen_author_sha256": "4aed715309bdb3bb7581bd3ab77dbbfa6d853dbca10d0232bb46bfab659ced20"
+  },
+  "public_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHIROKO_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+  "public_claim_register": null,
+  "historical_receiving_flags_retained": "N, publication and main state refer to the dated receiving event; current full-cast scope is separately indexed."
+}

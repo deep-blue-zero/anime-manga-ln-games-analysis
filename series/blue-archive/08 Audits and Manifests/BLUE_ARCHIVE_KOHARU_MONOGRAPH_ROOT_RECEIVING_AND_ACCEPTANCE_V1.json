@@ -1,0 +1,123 @@
+{
+  "schema": "BLUE_ARCHIVE_ROOT_KOHARU_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+  "status": "PASS_WITH_LIMITS",
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "candidate_sha256": "c73867de4766fcb800c10c541f27e74ab127407b9d3cd9d86ed2eec320ddb8a6",
+  "source_checks": [
+    {
+      "source_id": "M01",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "1884c699f3b631cbb33e299a32bc7fcc93cf9802886a4f31dd35811e5e36af2f"
+    },
+    {
+      "source_id": "M02",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "97133f4cf5a2c78d8f7d41828edd036be217bf729a853c6eb3a44804be316379"
+    },
+    {
+      "source_id": "M03",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9"
+    },
+    {
+      "source_id": "M04",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "4a3cd456d3cd21d1b1b60efc6e33c930fd162a72eee1685a82fa89c1515ab59f"
+    },
+    {
+      "source_id": "V03",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "81e43fb20fbb76ccb3243e562d0216839f573c08fe6e720c078614550beadb88"
+    },
+    {
+      "source_id": "L01",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "33a48dbbaaaa030c49ea30f1747969854fbf911b4ae3a69e2418f4299c3a403e"
+    },
+    {
+      "source_id": "C01",
+      "same_main": false,
+      "same_declared_snapshot": true,
+      "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286"
+    },
+    {
+      "source_id": "C02",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d"
+    },
+    {
+      "source_id": "C03",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6"
+    },
+    {
+      "source_id": "C04",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac"
+    },
+    {
+      "source_id": "K01",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "369992d3bc94361ae0b40016fc389cafcb6f7612b627c238388dffb2b363de1b"
+    },
+    {
+      "source_id": "L02",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "ed4f48559ac306d92e096e0f60af5b6ec9f925ff146e3d2cd09d7f34d549772b"
+    },
+    {
+      "source_id": "E01",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "789b6a465f259ac2d427c9d9722102b449388c278943b04e51c3ab19f1a2997d"
+    }
+  ],
+  "exact_saved_claim_paragraphs": 14,
+  "frozen_outputs_verified": 4,
+  "saved_receipt_sha256": "47a69a84ada3a067a73c9141589dc9ff568a3677521651da34af977982455a10",
+  "prior_frozen_outputs_preserved": 22,
+  "root_actual_receiving": {
+    "body": [
+      "f836d7 lines1–70",
+      "63441d lines71–132EOF"
+    ],
+    "source_fields": "cc59c9 all13 exact input/scope fields;7e0363 all control/review/gap fields",
+    "claims": "f6e030 KO01–07;c074aa KO08–14;655e05 headers/end metadata",
+    "saved_receipt": "2ba63e whole saved fields",
+    "additional_whole_accepted_arguments": "c828fe complete71-line Koharu gift argument throughEOF; prior exact accepted Trinity chapter/private/event meanings reused at declared scopes",
+    "grounds": [
+      "Vigilance is an unreliable interpretation and usable approach; real learning, apology intent, gratitude, wanted rest/scenery/stars and company remain intrinsic aims.",
+      "Official91, actual basics and public Mika/Azusa care rebut incapacity; fear, renewed suspicion, failed apology, injuries and adult intimidation rebut total growth/cure or harmless comedy.",
+      "Gift permission, material care and actual adult enjoyment coexist with incomplete understanding and recipient distress; independent peers and adult costs remain distinct.",
+      "Achievement, intended future, branches, inward labelled action, uninspected gift/book design, institutional status and performance retain exact limits."
+    ]
+  },
+  "root_new_primary_or_performance_credit": 0,
+  "canonical_adoption": "CANONICAL_SOURCE_BRANCH_DERIVATIVE",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "N_frozen": false,
+  "quarter_reached": false,
+  "main_integration": "NONE",
+  "canonical_derivative": {
+    "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOHARU_CHARACTER_MONOGRAPH.md",
+    "bytes": 32089,
+    "sha256": "1ae84243d3b335dac51a4efe4ca808efe5e68a544cd675744779e44a99798730",
+    "frozen_author_bytes": 30854,
+    "frozen_author_sha256": "c73867de4766fcb800c10c541f27e74ab127407b9d3cd9d86ed2eec320ddb8a6"
+  },
+  "public_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+  "public_claim_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOHARU_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+  "historical_receiving_flags_retained": "N, publication and main state refer to the dated receiving event; current full-cast scope is separately indexed."
+}

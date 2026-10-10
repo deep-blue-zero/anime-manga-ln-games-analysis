@@ -1,0 +1,555 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/ROOT_FULL_CAST_MECHANICAL_COVERAGE_V1/GEHENNA_CHOICE_HEADER_SUPPLEMENT_V1.json",
+  "original_frozen_binding": {
+   "bytes": 22515,
+   "sha256": "7a7e990106dc1334e446edfc1c908b2931e2ccb9da06063f27646fc873e0c9e7",
+   "git_blob_sha1": "f989aff7b12dc843b7ad5bfb3c6ddefe4811ad98"
+  }
+ },
+ "historical_payload": {
+  "status": "EXACT_GEHENNA90_CHOICE_AUDIT_PASS_ZERO_REPAIR_ROWS",
+  "frozen_input_binding": {
+   "path": "immutable-local-custody://PHASE3_START_20261009/CENSUS_GEHENNA\\GEHENNA_PS68_INPUT_AND_LITERAL_ROSTER_RECEIPT.json",
+   "bytes": 768006,
+   "sha256": "f8c99e7255377b9941861f297ee9a86baa75e7a1b2977fdc7f753bc77793bc4d",
+   "git_blob_sha1": "5c7feba15e1691e26ee3fa4d468a7126c76c4bc5"
+  },
+  "author_frozen_roster_unchanged": true,
+  "frozen_objects_tested": 90,
+  "all_frozen_header_routes_exactly_verified": 755,
+  "source_generation": "BA_REFRESH_20260928T032248159554Z",
+  "source_pin": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+  "pattern": "> **先生（選択肢）**",
+  "existing_quoted_choice_routes_exactly_verified": 32,
+  "existing_header_instances_locator_only": 132,
+  "verified_existing_choices": [
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\GROUP\\BLUE_ARCHIVE_GROUP_1101_1104_DEEP_READING.md",
+    "story_id": "BA:group:1102",
+    "canonical_path": "02_CANONICAL_STORIES/GROUP/CLUB_001_001/EPISODE_002_1102.md",
+    "source_bytes": 6770,
+    "source_sha256": "c785eed180c22e15526e0e1ef906b67f344794b60ddf11ffc3b7c8f61be86aba",
+    "source_git_blob_sha1": "3a574d73ce14c62110c9cb78922b19b09066c33d",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:group:1102:scene:001:choice:001",
+      "line": 111,
+      "header_instances_locator_only": 6
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_837\\BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:837:002",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_837/EPISODE_002_10035010.md",
+    "source_bytes": 15374,
+    "source_sha256": "bca16fba30ad59684a9c8f544a7359216cfbf86723f96ee48a5d9500d99dc698",
+    "source_git_blob_sha1": "8b691f5a2e5d212f34f3f9835ded8e49cf8f3f12",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:837:002:scene:001:choice:001",
+      "line": 413,
+      "header_instances_locator_only": 6
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_837\\BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:837:003",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_837/EPISODE_003_10035020.md",
+    "source_bytes": 16098,
+    "source_sha256": "4fb65ce131d54c3b1999bd377697e3823bcee55713645d2d980a9fa073737666",
+    "source_git_blob_sha1": "b6a76f081264de2ca704d66ed04fd21416fa517e",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:837:003:scene:001:choice:001",
+      "line": 147,
+      "header_instances_locator_only": 2
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_837\\BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:837:004",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_837/EPISODE_004_10035030.md",
+    "source_bytes": 15766,
+    "source_sha256": "99f5f2007a7f3cbb5c0f30539b72565ddc06f550ec3702ae4e4b24bc5bcd178f",
+    "source_git_blob_sha1": "0fb4b28cff9537d9ac3e54b83216f14a62b93b14",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:837:004:scene:001:choice:001",
+      "line": 40,
+      "header_instances_locator_only": 6
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_837\\BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:837:005",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_837/EPISODE_005_10035040.md",
+    "source_bytes": 12450,
+    "source_sha256": "1c6a0f9fac03d3003dc23bb343c2c0051b9771d3a158d9e0b44bc922be57db23",
+    "source_git_blob_sha1": "89966ed2d3dc15f307b4430e7812f41536cf58cf",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:837:005:scene:001:choice:001",
+      "line": 79,
+      "header_instances_locator_only": 4
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_837\\BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:837:006",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_837/EPISODE_006_10035050.md",
+    "source_bytes": 11507,
+    "source_sha256": "1ab372c4cbdfad47b0db49ab7fd8f4c2b9fe0efeb11a520a762425599a0b8096",
+    "source_git_blob_sha1": "b1bc664625d596438c906bfc408bb9e4d4dc4023",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:837:006:scene:001:choice:001",
+      "line": 217,
+      "header_instances_locator_only": 5
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_837\\BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:837:007",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_837/EPISODE_007_10035060.md",
+    "source_bytes": 11454,
+    "source_sha256": "dca7a1706ec28c2b9c9cf94b267ded702cd9afa5b15b27bf8ad10521f1bcf8af",
+    "source_git_blob_sha1": "d0c9d36dccc5cd508ed808908092f2b97fdac87d",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:837:007:scene:001:choice:001",
+      "line": 71,
+      "header_instances_locator_only": 9
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_837\\BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:837:009",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_837/EPISODE_009_10035075.md",
+    "source_bytes": 5556,
+    "source_sha256": "397f8bac494645588f0eccc4bc04af512024985413418bf1dd5c0e19e8689ef1",
+    "source_git_blob_sha1": "f1159c5f6e69895880d39b7ca120e8a8cf51735d",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:837:009:scene:001:choice:001",
+      "line": 44,
+      "header_instances_locator_only": 2
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_837\\BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:837:010",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_837/EPISODE_010_10035080.md",
+    "source_bytes": 11988,
+    "source_sha256": "a8648126330a696dbf7dbbb70343b06167826c05b18f5ab7207a0e6a53bbc4b6",
+    "source_git_blob_sha1": "9ffe352fc24109d8ddb43d0675013c16dea73e52",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:837:010:scene:001:choice:001",
+      "line": 98,
+      "header_instances_locator_only": 5
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_837\\BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:837:011",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_837/EPISODE_011_10035090.md",
+    "source_bytes": 4417,
+    "source_sha256": "3e739651b798c9fcb478594cf2c1e5e293b5b44c37d4647aec753c78466daadb",
+    "source_git_blob_sha1": "e34ad460f27aa316b991cba083872908ac0e650a",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:837:011:scene:001:choice:001",
+      "line": 117,
+      "header_instances_locator_only": 1
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_837\\BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:837:012",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_837/EPISODE_012_10035095.md",
+    "source_bytes": 7073,
+    "source_sha256": "2112cd6d185c614804c22aa51e14ffee298d32ba9a1dd48d912c2f559858d785",
+    "source_git_blob_sha1": "f45e1920e3e2d3ccde05826eec119d7fccb8755a",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:837:012:scene:001:choice:001",
+      "line": 194,
+      "header_instances_locator_only": 1
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_837\\BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:837:013",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_837/EPISODE_013_10035100.md",
+    "source_bytes": 14046,
+    "source_sha256": "70f1e99864909aaa48ebda0e72b13e8adae6c8b53a524dc30338249530aa94a2",
+    "source_git_blob_sha1": "42ae1fcdaae39f5f7b23dcd7d21919a62dc28d20",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:837:013:scene:001:choice:001",
+      "line": 24,
+      "header_instances_locator_only": 3
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_846\\BLUE_ARCHIVE_EVENT_846_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:846:003",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_846/EPISODE_003_10044020.md",
+    "source_bytes": 15142,
+    "source_sha256": "f068dad246f3880446c2f24c29a59edd8d9ad3b1cf2071c50f7c7dfb88efc850",
+    "source_git_blob_sha1": "64180f5bcc6ba5997d757aca0e61b877fdb82132",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:846:003:scene:001:choice:001",
+      "line": 106,
+      "header_instances_locator_only": 3
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_846\\BLUE_ARCHIVE_EVENT_846_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:846:004",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_846/EPISODE_004_10044030.md",
+    "source_bytes": 15646,
+    "source_sha256": "9bdfc190e3733451d51b1a405f3bf2d32c3d47d2b2c49d8ba74d3d16bdaa98f4",
+    "source_git_blob_sha1": "0ee54474c41718e456bfa53a7959bc7c4637be5d",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:846:004:scene:001:choice:001",
+      "line": 108,
+      "header_instances_locator_only": 4
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_846\\BLUE_ARCHIVE_EVENT_846_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:846:005",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_846/EPISODE_005_10044040.md",
+    "source_bytes": 11223,
+    "source_sha256": "a2771f97083f2f35251fbc3cc54b4b1542a34ae935eb3420e4970c23985b9d22",
+    "source_git_blob_sha1": "8f89ca95cdcab8132ec9fb68f063228387ea6752",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:846:005:scene:001:choice:001",
+      "line": 56,
+      "header_instances_locator_only": 3
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_846\\BLUE_ARCHIVE_EVENT_846_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:846:009",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_846/EPISODE_009_10044070.md",
+    "source_bytes": 4390,
+    "source_sha256": "1f408bfb9ab1893324f6b5af0fe0d16a7d1d5db7bcbad3592283a7e9913b5d91",
+    "source_git_blob_sha1": "87aaabf5cabfb2d41629bc8b8331681d9a5f0435",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:846:009:scene:001:choice:001",
+      "line": 48,
+      "header_instances_locator_only": 2
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_846\\BLUE_ARCHIVE_EVENT_846_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:846:010",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_846/EPISODE_010_10044075.md",
+    "source_bytes": 7345,
+    "source_sha256": "1d8dc38b7e7c4dbe6fb6b3c2dd17a0e3bc3ca46cd2b99ecbb8f39e9d86117953",
+    "source_git_blob_sha1": "8b15dd36295fc96d627b7dc38e087c261efbd40d",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:846:010:scene:001:choice:001",
+      "line": 69,
+      "header_instances_locator_only": 2
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_846\\BLUE_ARCHIVE_EVENT_846_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:846:011",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_846/EPISODE_011_10044080.md",
+    "source_bytes": 10218,
+    "source_sha256": "ee311f8f30ac7a7811987a8640b89288293171a2b2aae91be9d93edd9e137cea",
+    "source_git_blob_sha1": "93c6cf68d186e3019752b7dbb7543f83046ad7fe",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:846:011:scene:001:choice:001",
+      "line": 121,
+      "header_instances_locator_only": 3
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_846\\BLUE_ARCHIVE_EVENT_846_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:846:012",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_846/EPISODE_012_10044090.md",
+    "source_bytes": 16628,
+    "source_sha256": "7ba67a3299312cff6c4ac319b86abb740436237742dce47479d4760b7b17e172",
+    "source_git_blob_sha1": "c1461297e7055cf714e7ac8540d5c03355caa698",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:846:012:scene:001:choice:001",
+      "line": 102,
+      "header_instances_locator_only": 4
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_846\\BLUE_ARCHIVE_EVENT_846_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:846:013",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_846/EPISODE_013_10044100.md",
+    "source_bytes": 17321,
+    "source_sha256": "0ed08d9a73177725e979c27b7a128b4d13e2cddf4ee4c41f767b9e1122554ed3",
+    "source_git_blob_sha1": "abf7d7bf845de67641ec2ff2508b7d58ab311833",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:846:013:scene:001:choice:001",
+      "line": 158,
+      "header_instances_locator_only": 3
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_856\\BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:856:002",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_856/EPISODE_002_10053010.md",
+    "source_bytes": 10634,
+    "source_sha256": "e9287fbad430966a39bc84005bf093feaf53895d06da757fb3438efc796b93a4",
+    "source_git_blob_sha1": "e40bd447614c6d430e7b87fba6b02b11ca71b821",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:856:002:scene:001:choice:001",
+      "line": 62,
+      "header_instances_locator_only": 7
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_856\\BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:856:003",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_856/EPISODE_003_10053020.md",
+    "source_bytes": 17450,
+    "source_sha256": "3f06c4f707af3f15e0a4baf34019dc8e1af00607853fbf92b8b572132687e957",
+    "source_git_blob_sha1": "e69e4f4c6e3559799b78a7a4d53228b0997ede76",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:856:003:scene:001:choice:001",
+      "line": 24,
+      "header_instances_locator_only": 5
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_856\\BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:856:004",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_856/EPISODE_004_10053030.md",
+    "source_bytes": 23718,
+    "source_sha256": "181137d3c1098471f73b9eb06faf5c38b8e8a7497f556ba58bfe8450fbc7a3d0",
+    "source_git_blob_sha1": "34588f83f7aace6071df25578537921df29be7db",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:856:004:scene:001:choice:001",
+      "line": 154,
+      "header_instances_locator_only": 5
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_856\\BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:856:005",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_856/EPISODE_005_10053040.md",
+    "source_bytes": 17983,
+    "source_sha256": "a583971d673983327845b335bf6bd6dc5450bc5ce55e479531a27c553a2ee3cf",
+    "source_git_blob_sha1": "5891a43caa965f26976d58a378854843392d3b2a",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:856:005:scene:001:choice:001",
+      "line": 28,
+      "header_instances_locator_only": 4
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_856\\BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:856:006",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_856/EPISODE_006_10053050.md",
+    "source_bytes": 12462,
+    "source_sha256": "55f6eee8843452ee329363e3f6dd7c4186966cd6e039a9f001123d24e041a6ad",
+    "source_git_blob_sha1": "8e439438a9aef786aa7cd3ef385a7e507515678e",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:856:006:scene:001:choice:001",
+      "line": 152,
+      "header_instances_locator_only": 2
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_856\\BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:856:007",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_856/EPISODE_007_10053060.md",
+    "source_bytes": 21659,
+    "source_sha256": "f4db38c0a1fd76815ef343fdfb17082f80f1417083ae2d282a7c8bfb49db414f",
+    "source_git_blob_sha1": "3bc7e4aa7f3a770df53490669cda56cae46ef776",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:856:007:scene:001:choice:001",
+      "line": 124,
+      "header_instances_locator_only": 10
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_856\\BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:856:008",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_856/EPISODE_008_10053070.md",
+    "source_bytes": 15809,
+    "source_sha256": "e848ff4c14f630e72a17d28f1a9ba4482a8d59ea149c83b7e0da485430523bc0",
+    "source_git_blob_sha1": "75b4900f2860be9699e1a52af0ec066faddf9467",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:856:008:scene:001:choice:001",
+      "line": 295,
+      "header_instances_locator_only": 5
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_856\\BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:856:009",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_856/EPISODE_009_10053080.md",
+    "source_bytes": 11869,
+    "source_sha256": "3014b728e7ef6b369abd35d0c0217edb4505a2699d45e99e5dabae10bac1f72a",
+    "source_git_blob_sha1": "474dc9ddb56877715ec2916528354433ae28b4d6",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:856:009:scene:001:choice:001",
+      "line": 138,
+      "header_instances_locator_only": 1
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\EVENTS\\EVENT_856\\BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:event:856:010",
+    "canonical_path": "02_CANONICAL_STORIES/EVENT/EVENT_856/EPISODE_010_10053085.md",
+    "source_bytes": 20189,
+    "source_sha256": "d52da0466b82773c6ac2c7f43cbf25e3c3ef02ca6a2dedb157b25f209611055b",
+    "source_git_blob_sha1": "219141a37c914268496e35c69f537ce5363e602e",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:event:856:010:scene:001:choice:001",
+      "line": 194,
+      "header_instances_locator_only": 4
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MINI\\BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:mini:70004010",
+    "canonical_path": "02_CANONICAL_STORIES/MINI/MINI_70004010.md",
+    "source_bytes": 12054,
+    "source_sha256": "a14985e272580ff2c7d84f3bf6021e849a32b7065091036790c186a0dd029a03",
+    "source_git_blob_sha1": "17d25c3be4e424a85aebce55d42f67769de39c49",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:mini:70004010:scene:001:choice:001",
+      "line": 190,
+      "header_instances_locator_only": 6
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MINI\\BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:mini:70004030",
+    "canonical_path": "02_CANONICAL_STORIES/MINI/MINI_70004030.md",
+    "source_bytes": 12735,
+    "source_sha256": "a3ab3cdaad84efa2fc6eb99c0dfb617bae97e13f91005547f0e18cd9e313496c",
+    "source_git_blob_sha1": "af0f7e14b6ea1657f964729e4da347afd75305db",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:mini:70004030:scene:001:choice:001",
+      "line": 234,
+      "header_instances_locator_only": 8
+     }
+    ]
+   },
+   {
+    "owner": "series\\blue-archive\\02 Sequential Readings\\MINI\\BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+    "story_id": "BA:mini:70005030",
+    "canonical_path": "02_CANONICAL_STORIES/MINI/MINI_70005030.md",
+    "source_bytes": 14542,
+    "source_sha256": "e97331c11d18fb577c079630d8c0738a87e1f975375604ffcf25dc92cc70102f",
+    "source_git_blob_sha1": "847d5b1c3d91a4903ea263d4a31eafd0fe5893e4",
+    "headers": [
+     {
+      "literal_header": "先生（選択肢）",
+      "first_locator": "BA:mini:70005030:scene:001:choice:001",
+      "line": 410,
+      "header_instances_locator_only": 1
+     }
+    ]
+   }
+  ],
+  "objects_with_additions": 0,
+  "added_source_local_header_routes": 0,
+  "additions": [],
+  "role_limit": "Choice representation only; alternatives are not all enacted acts or extra independent people. No repair is necessary.",
+  "independent_people_added": 0,
+  "monograph_completions_added": 0,
+  "new_primary_narrative_or_argument_receiving_credit": 0,
+  "N_frozen": false
+ }
+}

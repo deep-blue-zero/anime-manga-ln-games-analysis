@@ -3,14 +3,14 @@ series: BLUE_ARCHIVE
 artifact_type: analytical_execution_plan
 scope: Phase 3 character, relationship and institution packages across the full eligible cast at the admitted Japanese boundary
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 source_boundary: "electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; BA_REFRESH_20260928T032248159554Z; 480 MAIN units and 3940 supplemental objects admitted with limits through Cycle008; written Japanese"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-10
 canonical_home: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_EXECUTION_AND_MILESTONE_PLAN.md
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
@@ -29,9 +29,9 @@ Phase 1 is complete at 480/480 MAIN units and 26 chapter checkpoints. [Cycle008]
 
 The source boundary remains pinned. There is no unread MAIN holdout inside it. New released material, the 444 outside-selection objects and performed audiovisual evidence require their own evidence/admission decisions; they are not silently counted as inspected here. All 14 claim-specific gaps remain visible. These gaps limit the claims they affect and do not collectively prohibit supported textual monographs.
 
-## 3. Census before a percentage denominator
+## 3. Complete required scope and preserved census
 
-The [Phase 3 scope/readiness audit](BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md) must reconcile the following candidate responsibilities:
+The [Phase3 scope/readiness audit](BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md) now records ROOT’s complete required-scope adjudication, preserving these original candidate populations:
 
 - 148 typed private/written retrieval families, preserving 152 literal raw person keys;
 - the dated 540 assessed model routes, including named people, roles and source-local buckets;
@@ -47,7 +47,7 @@ Eligibility means enough source-grounded material exists for a distinct sustaine
 
 ## 4. Package acceptance
 
-Every required package must have its own canonical path, exact identity/continuity scope, source routes and completion criteria. The audit freezes the package set only after the full candidate census is adjudicated.
+Every required package must have its own canonical path, exact identity/continuity scope, source routes and completion criteria. ROOT has adjudicated the complete required package set with limits:355packages/29 mandatory named sections. The [V3 partition](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json) and [ROOT receipt](BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json) own membership and explicit legacy-question allocations.
 
 For a character monograph, architecture §7.1 requires a core thesis, longitudinal arc, public/private self, school/club role, ordinary life, crisis behavior, Sensei relationship, major peers, language/voice, competing readings and evidence routes. Address absent or uncertain dimensions honestly; do not manufacture an arc, crisis, inner motive, private source or performed voice to fill a heading. A mature argument must distinguish testimony from shown action, explanation from justification, local sequence from global chronology and changed state from a newly sampled context.
 
@@ -59,16 +59,16 @@ Semantic acceptance requires full received arguments, consequential evidence che
 
 ## 5. Progress and the four merges
 
-**Progress denominator: NOT YET FROZEN. No quarter has been reached.** Candidate inventory and execution scaffolding do not count as completed literary packages.
+**Required denominator:355. Mandatory substantial named sections:29. Milestones:89/178/267/355.** No quarter has been reached. The current21-package batch has persistence only after ROOT installation; other local drafts/acceptances remain outside this publication snapshot. Inventory, source/header mechanics and indexes add no completed literary packages.
 
-After census adjudication, let `N` be the fixed number of required character, relationship and institutional packages. Each package counts once when its declared responsibility has passed semantic acceptance and its complete work is persisted on the series branch. Track drafting, acceptance, source publication and main integration separately. Package rows cannot be marked complete merely because supporting sources have been read.
+The adopted required scope fixes `N=355`, including character, directed relationship, ensemble, institutional, Sensei and register packages. Each package counts once when its declared responsibility has passed semantic acceptance and its complete work is persisted on the series branch. Track drafting, acceptance, source publication and main integration separately. Package rows cannot be marked complete merely because supporting sources have been read.
 
 | Milestone | Completed required packages | Required integration result |
 |---|---:|---|
-| 25% | `ceil(N / 4)` | First quarter's exact final source head audited, merged and post-merge audited |
-| 50% | `ceil(N / 2)` | Second quarter's cumulative work integrated and post-merge audited |
-| 75% | `ceil(3N / 4)` | Third quarter's cumulative work integrated and post-merge audited |
-| 100% | `N` | All eligible-cast packages accepted; no pending census/required package debt; final convergence and integration verified |
+| 25% | `89` | First quarter's exact final source head audited, merged and post-merge audited |
+| 50% | `178` | Second quarter's cumulative work integrated and post-merge audited |
+| 75% | `267` | Third quarter's cumulative work integrated and post-merge audited |
+| 100% | `355` | All eligible-cast packages accepted; no pending census/required package debt; final convergence and integration verified |
 
 Every quarter should preserve the architecture's structural variety and justified dependencies. A major character's difficulty is not a reason to exclude it or postpone its obligations indefinitely. Do not count an audit, manifest, index, directory or duplicated summary as a substitute for a character/relationship/institution argument.
 
@@ -80,6 +80,6 @@ The current user instruction supplies merge authorization for these four milesto
 
 The current arrangement is local Codex synthesis with bounded parallel target authors and one integration owner. Repository and pinned source files are actually accessible here; written Japanese and source structure are inspected through complete analytical owners and targeted primary recovery. The owner's instruction to focus on completion and discontinue artifact integration handoffs is preserved. No cloud task, paid API, new allowance pool or unobserved audiovisual capability is assumed. Major packages retain `DEEP_SYNTHESIS` responsibility and receive independent acceptance review; environment choice does not lower evidentiary standards.
 
-The first evidence-supported structural leads are Yuuka (public/institutional and ordinary comparison), Asuna (private/ordinary and peer comparison), Toki (role, belonging and variant-context comparison), with Karin in the same early Millennium cluster. C&C directed ensemble and Millennium governance are separately justified questions. These leads do not fix the full cast or excuse any later eligible package. The scope audit owns their final readiness adjudication; drafts are not completion credit.
+The first evidence-supported structural leads are Yuuka (public/institutional and ordinary comparison), Asuna (private/ordinary and peer comparison), Toki (role, belonging and variant-context comparison), with Karin in the same early Millennium cluster. C&C directed ensemble and Millennium governance are separately justified questions. These leads do not fix the full cast or excuse any later eligible package. The complete current scope owns their explicit required homes and unfinished literary responsibilities; drafts and census mechanics are not completion credit.
 
-Next: complete the full candidate/identity and package census, accept the first substantial monographs, and persist exact package status and evidence routes. The canonical [current map](../CURRENT_STATE_AND_CORPUS_MAP.md) remains the only series entrypoint. This plan does not extend into architecture Phases 4–6 by implication.
+Next: install/publish the exactly reviewed eight-monograph plus full-scope batch, then continue complete required literary packages and29 independently locatable mandatory sections. All788 original tracking responsibilities and their460 positive home/route dispositions or328 explicit dated-provenance limits remain preserved. No low-stakes, quiet, sparse or source-mode evidence is excluded. The canonical [current map](../CURRENT_STATE_AND_CORPUS_MAP.md) remains the only series entrypoint. This plan does not extend into architecture Phases 4–6 by implication.

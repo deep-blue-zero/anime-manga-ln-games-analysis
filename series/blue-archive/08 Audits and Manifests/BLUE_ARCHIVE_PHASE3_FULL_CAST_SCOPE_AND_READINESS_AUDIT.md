@@ -5,24 +5,32 @@ status: canonical
 source_boundary: "480 MAIN and3940 admitted selected supplemental objects; a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; Japanese textual evidence only"
 drafted_against_commit: "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-10
 generation: V1
-version: "1.0"
+version: "1.1"
 supersedes: []
 superseded_by: []
 canonical_home: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md
-review_state: CURRENT_SCOPE_PLAN_WITH_INCOMPLETE_FULL_CAST_ADJUDICATION
+review_state: ROOT_ACCEPTED_FULL_CAST_REQUIRED_SCOPE_WITH_LIMITS
 recommended_reasoning_class: DEEP_SYNTHESIS
 do_not_use_as_current_authority: false
 ---
 
 # Phase 3 full-cast scope and readiness audit
 
+## 0. Current complete scope authority — 2026-10-10
+
+ROOT accepted the complete full-cast scope with limits, including all ten original adjudications, one Hyakka duplicate absorption and all five legacy tracker allocations. The [required home partition V3](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json) and [ROOT scope acceptance](BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json) govern **355 required packages and29 mandatory substantial named sections**. Packages comprise205 character,73 directed relationship,17 ensemble,55 institution,1 Sensei and4 register responsibilities. The fixed milestone thresholds are **89/178/267/355**. Scope records, source rosters, headings and indexes add no literary completion. The prepared publication batch contains **21 accepted literary packages after ROOT installation**; later local acceptances are outside this batch. No quarter or main integration is claimed.
+
+The788 inventory rows remain heterogeneous responsibilities, including540 dated assessed navigation routes. The [individual disposition ledger](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_DISPOSITIONS_PART_01_V3.json) preserves all788 original rows across two parts:460 have explicit accepted home/retrieval routes, while328 retain an individually stated dated-source provenance boundary and positive-source revisit trigger. They are not erased, turned into people or forced into generic registers. Those navigation limits do not replace the independently preserved105 owner/1107 source duties,8,326 literal header routes,742 source-local choice routes and128 attributed receiving declarations. The complete original decisions, role projections and raw identity/mode distinctions remain recoverable. All14 claim-specific gaps stay OPEN; no primary replay, audiovisual or model credit is added.
+
+Historical inventory/continuation passages below retain the exact frontier they described. Current V3 supersedes their pending membership/roster/denominator wording, while their source/identity/read-credit limits remain active. Literary package writing and acceptance remain separate.
+
 ## 1. Authorized end state and present result
 
 The authorized goal is Phase 3 across the **full eligible cast**, with justified character, relationship and institutional packages integrated into the upstream branch and merged at 25%,50%,75% and100%. The three structural prototypes are an opening method calibration; their completion cannot be substituted for the full phase. Current primary acquisition/extraction, historical working receipts, generated source bundles and hypothetical reconstruction output remain outside analytical authority.
 
-This current audit establishes a finite **candidate-responsibility review inventory**, not a completed character eligibility adjudication, a new person registry, a fixed package denominator or25% completion. No monograph, model or forecast is created by this audit. Pending review is an outstanding responsibility; it is never an exclusion verdict. ROOT has adopted the inventory as required review work and the four opening character eligibility decisions. Full-cast adjudication and every literary package acceptance remain separate unfinished duties.
+This current audit now records the complete ROOT-adjudicated required package partition. It retains the original finite candidate inventory and every historical source decision, without creating a person registry or counting its rows as packages. The full literary phase remains unfinished; every required package and mandatory named direction must receive complete writing and independent receiving. Quiet pleasure, sparse public roles, comic evidence and source-mode uncertainty are preserved intrinsically.
 
 ## 2. Existing evidence and candidate populations
 
@@ -37,7 +45,7 @@ The governing architecture is repository path `series/blue-archive/00 Frameworks
 | Unjoined written identities |27 objects:6 empty profile envelopes,6 contextual-only and15 costume objects;535 normalized records |Route each actual voiced condition, role or identity question into an appropriate named/system/role package or explicit bounded disposition. An empty envelope is not a person or a biography. |
 | Newly represented event/group/mini actors |105 distinct accepted normal owners dispatch65 GROUP/1010 EVENT/32 MINI objects |Review the complete accepted arguments for named actors, recurring roles, ensembles and institutions absent from the dated540. Add positive candidates with exact owner/locator boundaries; no metadata co-occurrence becomes appearance proof. |
 
-The working candidate CSV contains **761 responsibility rows**, counting148+540+43+3+27 before identity reconciliation. This number is deliberately **not** a person, monograph or phase-completion denominator. The owner dispatch provides105 finite review routes; it does not assert that105 rosters have already been semantically adjudicated.
+The opening candidate CSV contained761 rows (148+540+43+3+27). The current CSV preserves788 heterogeneous responsibilities after27 recovered headers. Neither inventory total is a person/package denominator. ROOT has received and adjudicated the complete selected105-owner source/role allocation at the actual adequate argument scopes; the exact current partition, literal union and attributed receiving records remain separate layers.
 
 Current source owners: `06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv`; `08 Audits and Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_002.md` §§1,3,6; the main and contextual coverage indices; six current source-class tables; Cycle008;12 contextual arc accounts; seven cumulative ledgers. Exact source/admission states come from Cycle008 and those tables, never inherited AVAILABLE_NOT_REVIEWED words in the dated assessed route rows.
 
@@ -111,13 +119,13 @@ The14 claim-specific gaps remain OPEN unless their actual missing evidence is re
 
 ## 8. Audit evidence and remaining work
 
-The opening inventory comprised 761 heterogeneous responsibilities. Current supporting controls are the [candidate responsibility inventory](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv), [105-owner census dispatch](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv), [four opening character decisions](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_OPENING_CHARACTER_ELIGIBILITY_DECISIONS.csv), and [audit metadata](BLUE_ARCHIVE_PHASE3_SCOPE_AUDIT_METADATA.json). The four typed-family rows carry positive independent-character eligibility; overlapping dated route rows link to those decisions without asserting a new identity merge. That was the opening adoption state; the bounded Millennium continuation in §9 records subsequent eligibility and roster decisions. Every responsibility without an explicit adopted decision remains pending. Mechanical extraction supplies inspection inputs and no literary completeness claim. Duplicated historical table dumps, helpers and local receiving receipts remain outside the published analytical controls.
+The opening inventory comprised 761 heterogeneous responsibilities. Current supporting controls are the [candidate responsibility inventory](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv), [105-owner census dispatch](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv), [four opening character decisions](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_OPENING_CHARACTER_ELIGIBILITY_DECISIONS.csv), and [audit metadata](BLUE_ARCHIVE_PHASE3_SCOPE_AUDIT_METADATA.json). The four typed-family rows carry positive independent-character eligibility; overlapping dated route rows link to those decisions without asserting a new identity merge. That was the opening adoption state; the bounded Millennium continuation in §9 records subsequent eligibility and roster decisions. That passage records the earlier opening frontier; the current V3 dispositions and explicit navigation limits now govern every preserved responsibility. Mechanical extraction supplies inspection inputs and no literary completeness claim. Duplicated historical table dumps, helpers and local receiving receipts remain outside the published analytical controls.
 
-Confirmed against current fetched main: Phase 2 content/publication complete with limits; architecture575 repaired by maintenance. Architecture§12 still describes only266 scoped supplemental admissions as its live step4; the activation transaction reconciles that targeted production instruction to current3940 while preserving earlier checkpoint decisions as history. Current source boundary remains unchanged.
+Historical opening reconciliation witness: Phase2 content/publication complete with limits; architecture575 repaired by maintenance. Architecture§12 still describes only266 scoped supplemental admissions as its live step4; the activation transaction reconciles that targeted production instruction to current3940 while preserving earlier checkpoint decisions as history. Current source boundary remains unchanged.
 
-Remaining mandatory scope work: complete candidate identity/eligibility/argument adjudication, review new event/group/mini routes absent from the dated540, identify and accept every justified relationship/institution responsibility, adopt a stable required package set, then write and accept the full set through the four merge milestones. No percentage is earned by this initial audit inventory alone.
+Current mandatory work: write and independently receive the complete355 required packages and29 substantial named sections through the four merge milestones. ROOT has completed the required-scope and selected-owner/role allocation adjudication with limits. The328 individually preserved dated-navigation provenance boundaries remain explicit retrieval limits and positive revisit duties; they neither exclude represented evidence nor replace accepted source-local/home responsibilities. Scope, rosters and indexes earn no literary completion.
 
-## 9. First bounded Millennium eligibility continuation
+## 9. Historical first bounded Millennium eligibility continuation
 
 ROOT accepted the complete [Millennium eligibility review V1](BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V1.md), its structured decisions and exact input scopes. Eight further character questions are required: Himari, Eimi, Chihiro, Hare, Kotama, Maki, Sumire and baseball Rei/CH0245. Eimi retains both literal person keys and final bounded package allocation debt; baseball Rei remains distinct from the provisional diver and mislabeled employees/merchants. The Veritas institution and Sumire ↔ baseball Rei relationship arguments are independently justified required packages. Their actual writing, counterevidence convergence and semantic acceptance are unfinished.
 
@@ -125,7 +133,7 @@ The current inventory adds ten visibly recovered institution/relationship/ensemb
 
 G150, G330 and EVENT832 have complete author owner-roster recovery and ROOT acceptance of its receiving argument with source/identity limits. These three dispatch rows retain pending independent allocation debts in the candidate register; the other 102 dispatch rows remain pending. The Millennium continuation has thirteen additional typed duties unfinished. All other cast/cohort duties remain required. The four original character decisions persist, with Asuna/Toki/Karin/Yuuka monographs governed by the separate semantic acceptance audit. No complete full-cast denominator, percentage or quarter follows from this continuation.
 
-## 10. Millennium successor eligibility and distinct allocation
+## 10. Historical Millennium successor eligibility and distinct allocation
 
 ROOT accepts the complete [Millennium V2 eligibility argument](BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md), structured decisions and22 exact input tuples. Thirteen further character packages are required: Akane, Neru/Nel, Hibiki, Kotori, Utaha, Noa, Rio, Koyuki, Alice/ARIS, Midori, Momoi, Yuzu and the bounded comparative Kei question. C&C, Engineering, Game Development and Seminar have four distinct institutional questions; Toki ↔ Game Development, Momoi ↔ Midori and Noa ↔ Yuuka have three distinct directed questions. Actual package writing and semantic acceptance remain unfinished. C&C institution is distinct from the pending C&C directed ensemble, and Seminar from the pending broader Millennium governance study. The comparison of historical Key with present Kei retains separate raw/source/technical scopes and does not authenticate a global identity; Alice→Key/Kei belongs to the distinct Main/special directed question.
 
@@ -140,3 +148,13 @@ ROOT received and accepted Mika, Nagisa and Seia's complete monographs WITH LIMI
 ## Six-character literary continuation — 2026-10-10
 
 ROOT accepted Nonomi, Ayane, Serika, Azusa, Hifumi and Hanako’s complete monographs WITH LIMITS under the [semantic acceptance audit](BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md). Twelve typed/dated duties converge on six literary packages. The package index now has52 tracking rows and13 accepted monographs. Full-cast global character/shared-home partition is still under adjudication; neither count fixes N. All14 gaps remain OPEN and claim-specific. No percentage or quarter is claimed. Earlier continuation counts retain their historical scope.
+
+## Eight-character literary continuation — 2026-10-10
+
+ROOT accepted Hoshino, Shiroko, Subaru, Koharu, Ui, Hinata, Hasumi and Atsuko WITH LIMITS, separately from the full-cast scope adjudication. Eighteen typed/dated/source-local responsibilities converge on eight complete literary packages. Twenty-one character packages are accepted and persisted by this derivative; source publication and main integration remain separate. The [semantic acceptance audit](BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md) owns the exact receiving decisions.
+
+## Full-scope successor adoption — 2026-10-10
+
+ROOT accepted the complete full-cast scope with limits, including all ten original adjudications, one Hyakka duplicate absorption and all five legacy tracker allocations. The [required home partition V3](../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json) and [ROOT scope acceptance](BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json) govern **355 required packages and29 mandatory substantial named sections**. Packages comprise205 character,73 directed relationship,17 ensemble,55 institution,1 Sensei and4 register responsibilities. The fixed milestone thresholds are **89/178/267/355**. Scope records, source rosters, headings and indexes add no literary completion. The prepared publication batch contains **21 accepted literary packages after ROOT installation**; later local acceptances are outside this batch. No quarter or main integration is claimed.
+
+C&C differentiated company/contested belonging and art access/ownership/gatekeeping are separately required packages. Kei↔GDD labor/critique, Yuuka↔C&C fiscal/occupation and Akane↔Neru appearance/boundaries are complete independently locatable named directed sections in GDD/C&C. Their original keys and all60 legacy tracker questions remain recoverable; a shared institution label or short paragraph cannot discharge those duties. Earlier353/26 scope is preserved as an immutable historical witness.

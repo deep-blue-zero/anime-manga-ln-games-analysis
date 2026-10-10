@@ -1,0 +1,158 @@
+{
+  "schema": "BLUE_ARCHIVE_ROOT_HINATA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+  "status": "PASS_WITH_LIMITS",
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "candidate_sha256": "29ebde7cb854d63c0298587d796a28b4ea673f49f275f525b206b84bb0a9e964",
+  "source_checks": [
+    {
+      "source_id": "C01",
+      "same_main": false,
+      "same_declared_snapshot": true,
+      "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286"
+    },
+    {
+      "source_id": "C02",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d"
+    },
+    {
+      "source_id": "C03",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6"
+    },
+    {
+      "source_id": "C04",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac"
+    },
+    {
+      "source_id": "U01",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "d523094c54e611aa45cebab91ffbf2ecd1888b59f112c8f01dafeb66d274a638"
+    },
+    {
+      "source_id": "E03",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "43ddfe3dac8e4d2b3bcbd93e7113482780c06db222079e2d39c7ab2337668840"
+    },
+    {
+      "source_id": "E08",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "b6c852fd9a36a2ccaa47a1a9abbf468b0f452946ebe7d00980a45c3388931419"
+    },
+    {
+      "source_id": "E10",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "3c9d43cfd831875db1c7d2d6c4dd95db03e3b014ba2f9be942e88ce451d6da2f"
+    },
+    {
+      "source_id": "E11",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "a85a6e29853f0685003a4a7b9da062ddab38d761c6628a9c0708886f82855440"
+    },
+    {
+      "source_id": "E13",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "e1b1d51c0042245992bfb615116c234f6a60f0d008068567ae84c5107e8b1f17"
+    },
+    {
+      "source_id": "A00",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "6a6ce9b164f151fb70498bebcad0173ce39c3cb5e71653f6de1f231a27442bd6"
+    },
+    {
+      "source_id": "A01",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "789b6a465f259ac2d427c9d9722102b449388c278943b04e51c3ab19f1a2997d"
+    },
+    {
+      "source_id": "E01",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "cadfbfdf3bdb4896b0e99ed14134188950c1ee1e6d9665def3b7e5834ce61b73"
+    },
+    {
+      "source_id": "E02",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "984104e0e0a243f7782d26a51b3925984c2d1287b0b60a55839025fa917d76c3"
+    },
+    {
+      "source_id": "E12",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "46bd276b4c9a3f9215eedae07b6d0b91f1d9ef43a4e3b78439511f3ba6124c25"
+    },
+    {
+      "source_id": "E14",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "328e4ef9f686b157b26d47aa2fbcd669eb51604583bd0d96a84589ee85944df3"
+    },
+    {
+      "source_id": "L04",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "d1c374a07fb9cf05d11193129757d422b19ff478c2c81a336658862680fb2d27"
+    },
+    {
+      "source_id": "M03",
+      "same_main": true,
+      "same_declared_snapshot": true,
+      "sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9"
+    }
+  ],
+  "exact_saved_claim_paragraphs": 19,
+  "frozen_outputs_verified": 4,
+  "saved_receipt_sha256": "ee9bd1d326cb1bc9afef92685b37c426c30bb10cb2e53b4f024e8bced0d7812c",
+  "prior_frozen_outputs_preserved": 30,
+  "root_actual_receiving": {
+    "body": [
+      "af7a22 lines1–70",
+      "0b7f8a lines71–139EOF"
+    ],
+    "source_fields": "d67eb3 all18 exact input/scope fields;6b8ed6 all controls/review/gaps",
+    "claims": "fabaaa HI01–07;eeafad HI08–14;a212c7 HI15–19;e0ce7d headers/end metadata",
+    "saved_receipt": "73766c complete saved fields",
+    "additional_whole_accepted_arguments": [
+      "2cd96e E812012 all59linesEOF",
+      "8702a6 E812014 all71linesEOF",
+      "f04cda gift072 all73linesEOF"
+    ],
+    "grounds": [
+      "Hinata distinguishes particular skills from mistakes: careful ledger work, delicate cooking and personal chosen company rebut a uniform incapacity or usefulness-only identity.",
+      "The enjoyable day, rest, beautiful pronunciation wish, successful shared eating and improvised recipient-sensitive gift are intrinsic achievements; unfinished practice and planned confession remain unfinished.",
+      "Work pleasure, missed preparation, available chocolate, all-flavor sampling reports and a dislike check preserve ordinary care without securing an unknown opening speaker or clinical diet finding.",
+      "Book substitution is bounded inference from the handoff and return; the exact unseen exchange is unprinted, Mashiro guard duty is limited, pursuit is denied and attributed light damage does not prove harmlessness.",
+      "Mistakes, guilt, fragile handling, collapse and referral retain recipient costs; independent Ui, Shimiko, Mashiro and Sakurako duties and preferences remain separate from Hinata self-blame."
+    ]
+  },
+  "root_new_primary_or_performance_credit": 0,
+  "canonical_adoption": "CANONICAL_SOURCE_BRANCH_DERIVATIVE",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "N_frozen": false,
+  "quarter_reached": false,
+  "main_integration": "NONE",
+  "canonical_derivative": {
+    "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+    "bytes": 35322,
+    "sha256": "450a08f4c70d8da3f2986a2be782f5e6c901667ef0877cf9ce6976d39a859ab6",
+    "frozen_author_bytes": 34081,
+    "frozen_author_sha256": "29ebde7cb854d63c0298587d796a28b4ea673f49f275f525b206b84bb0a9e964"
+  },
+  "public_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+  "public_claim_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+  "historical_receiving_flags_retained": "N, publication and main state refer to the dated receiving event; current full-cast scope is separately indexed."
+}
