@@ -1,0 +1,1045 @@
+{
+  "schema": "BLUE_ARCHIVE_ROOT_ABYDOS_FIRST_MONOGRAPH_EXACT_VERIFICATION_V1",
+  "person": "SERIKA",
+  "status": "PASS_WITH_LIMITS",
+  "source_head": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+  "main_comparator": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+  "frozen_outputs": [
+    {
+      "file": "BLUE_ARCHIVE_SERIKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 51876,
+      "sha256": "59fe918d81000805b7211b579851c9a5d7db72f72ed55b29365bddfc15c4f185"
+    },
+    {
+      "file": "SERIKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 96649,
+      "sha256": "a80bb92d777a5d7128b529f5dfae0eae7bba32abb162fb2c36d8e66c7b5718e5"
+    },
+    {
+      "file": "SERIKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 10643,
+      "sha256": "f0c12f2dcce30dd6fbf44aaf8170990f21ae677187fb904f39d6396f3665701f"
+    },
+    {
+      "file": "SERIKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 11949,
+      "sha256": "da77d7f2d3e103360742871182d1191184a85f4b947db44ec8e9921e981e1366"
+    }
+  ],
+  "declared_input_checks": [
+    {
+      "field": "/candidate",
+      "file": "BLUE_ARCHIVE_SERIKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 51876,
+      "sha256": "59fe918d81000805b7211b579851c9a5d7db72f72ed55b29365bddfc15c4f185",
+      "binding_scope": "CURRENT_EXACT"
+    },
+    {
+      "field": "/fresh_complete_or_personal_refresh_arguments/0",
+      "file": "BLUE_ARCHIVE_SERIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 32558,
+      "sha256": "8929ef84f8741a0fc9ae3600ac55dfe829a43b6869b80987ab6cf2a3d2206659",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/fresh_complete_or_personal_refresh_arguments/1",
+      "file": "BLUE_ARCHIVE_SERIKA_BOND_13008_E020_DEEP_READING.md",
+      "bytes": 9281,
+      "sha256": "6859c72d8a5d895a8a65a07cb61871160c46c4e0bf7538e4ae2adbeca431c448",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/fresh_complete_or_personal_refresh_arguments/2",
+      "file": "BLUE_ARCHIVE_SERIKA_BOND_20036_E003_DEEP_READING.md",
+      "bytes": 9810,
+      "sha256": "0a1f4426529439d8aafeae7c3e86bb3697da570466688c2087e9cd710add4821",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/fresh_complete_or_personal_refresh_arguments/3",
+      "file": "BLUE_ARCHIVE_SERIKA_BOND_20036_E005_DEEP_READING.md",
+      "bytes": 9971,
+      "sha256": "979e6eb91fd4b79beafc8ecc156c171bd1c8c7a31cc906a3972c1467ba83b005",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/fresh_complete_or_personal_refresh_arguments/4",
+      "file": "BLUE_ARCHIVE_SERIKA_BOND_20011_E003_DEEP_READING.md",
+      "bytes": 10997,
+      "sha256": "d4c641cfeee360cc368f3ff0c6644f50a59bb59ac90b3c0a7ae48b6c7096781e",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/fresh_complete_or_personal_refresh_arguments/5",
+      "file": "BLUE_ARCHIVE_SERIKA_BOND_13008_E009_DEEP_READING.md",
+      "bytes": 8574,
+      "sha256": "22c22ab21ef92ac37e45efe22e8abf132531e75a06151b4d6298b9c5a2090487",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/fresh_complete_or_personal_refresh_arguments/6",
+      "file": "BLUE_ARCHIVE_SERIKA_BOND_13008_E002_DEEP_READING.md",
+      "bytes": 9285,
+      "sha256": "117fe7af0c7fe414ef25942e0b7867bc94d428e7db0389e2fcf57193c83a8bd1",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/bounded_accepted_episode_argument_spans/0",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C001_E005_DEEP_READING.md",
+      "bytes": 59507,
+      "sha256": "757aa2c0f7163a4262bdf7243e9ebae79660acf3541fb1c9aad46b796f9cf7c8",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/bounded_accepted_episode_argument_spans/1",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C001_E006_DEEP_READING.md",
+      "bytes": 52934,
+      "sha256": "b200b2ecf21144e086b0e6bf734bc3dd3e812015392dde19c38b00c5a10ad37f",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/bounded_accepted_episode_argument_spans/2",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C001_E007_DEEP_READING.md",
+      "bytes": 62710,
+      "sha256": "590fd1a3f2a962d9fde48f7a05f654a0f60119c875bf35e2295c390156140d5e",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/0",
+      "file": "BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 64540,
+      "sha256": "9745010e16ef2e7bc09b11eab784f9bf5771fe0a7e6ef48bfb3af763be7f156e",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/1",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md",
+      "bytes": 15930,
+      "sha256": "ad171481bb6a70647d7603f82b634ca89888f727aff3458fdc9d85367093fe40",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/2",
+      "file": "BLUE_ARCHIVE_SHIROKO_BOND_10100_E002_DEEP_READING.md",
+      "bytes": 6805,
+      "sha256": "35106b1781d24e6fcaefe9d646596c5af53755bb1ce5e8277f6a8be6b2b0b5b7",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/3",
+      "file": "BLUE_ARCHIVE_SHIROKO_BOND_10100_E003_DEEP_READING.md",
+      "bytes": 6456,
+      "sha256": "895c4eabe29e9f9887cc4b08a0d5867447a4f955d72223e2e0cb5fc45148b4ed",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/4",
+      "file": "BLUE_ARCHIVE_SHIROKO_BOND_10100_E005_DEEP_READING.md",
+      "bytes": 7745,
+      "sha256": "6491b0faaf7eee4abbea2e37d3fec46380fd4aae07e1ee1ceda56328e915ad76",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/5",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C001_E001_DEEP_READING.md",
+      "bytes": 3778,
+      "sha256": "17697331a1b3c374fc0b33e1d6f9597e6dd0d24ee01a6ae4cd7d60579a068539",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/6",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C001_E002_DEEP_READING.md",
+      "bytes": 9291,
+      "sha256": "2e9adb713e8f5ff269a55d34502347c6d569d7cc4f8e3b0b1ed713c58299c69b",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/7",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C001_E015_DEEP_READING.md",
+      "bytes": 9029,
+      "sha256": "86309485bf05375ceb85b6fb4cb230d0e831c56f6ab9f89cadc0251817a6f199",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/8",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C002_E001_DEEP_READING.md",
+      "bytes": 7085,
+      "sha256": "4c292bcbbcbc4558395bb2efb9bbfc43dab51b52d9f74abaff3506c5582a90f6",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/9",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C003_E002_DEEP_READING.md",
+      "bytes": 7307,
+      "sha256": "40eb32f161cbd3277d6adc4ac84ccfd7fd4c4608f97d993503ba291f758ec54c",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/10",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C004_E012_DEEP_READING.md",
+      "bytes": 4078,
+      "sha256": "4449ce94061fdbebebf3dcee54b0cf30de0297103a4650ed14761fb3e168958d",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/11",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+      "bytes": 18013,
+      "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/12",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C001_E003_DEEP_READING.md",
+      "bytes": 7726,
+      "sha256": "4ee1f214d87b88accd29ce6bb13026d74d2a1cd0f4c5d722de11258b316e0095",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/13",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C002_CHECKPOINT.md",
+      "bytes": 13519,
+      "sha256": "30ac3ba693ff56140fb8d57b5caf73352206692a17ac9628b347eb19a7bd1408",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/14",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C002_E002_DEEP_READING.md",
+      "bytes": 8889,
+      "sha256": "d630c4abc79e08951a469e0f45703bca766026750a09e433ae6b14cb1ed54d8d",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/15",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C002_E019_DEEP_READING.md",
+      "bytes": 4950,
+      "sha256": "86748d26f944073a8db67e94e42597cea02ed56f0f2e8167f7672fc0f96160f8",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/16",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+      "bytes": 14443,
+      "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/17",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C003_E007_DEEP_READING.md",
+      "bytes": 6643,
+      "sha256": "341fac9070d15a90f4d180c2402d57f43e811af5cd1a455be2afb42f4f18fe2c",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/18",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C003_E016_DEEP_READING.md",
+      "bytes": 7713,
+      "sha256": "e63d4a03696ab0d250ba75747a92de85b769a9d0e66e5f076dda0fc1fb379561",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/19",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+      "bytes": 12691,
+      "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/20",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C004_E002_DEEP_READING.md",
+      "bytes": 5605,
+      "sha256": "59978e87fce22d33108f7044976f295fe7ae9e7dc628d9677c3dcb8cea3175dd",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/21",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C004_E003_DEEP_READING.md",
+      "bytes": 4897,
+      "sha256": "64d447b6dacdc1c4bf316b2aee766a63f44ba3e18bbf393d262d2aa9702884ef",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/22",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C004_E004_DEEP_READING.md",
+      "bytes": 4196,
+      "sha256": "2c10837e9f8d228ccbc5dd10e2c5d872a25b700dd540d966769f49d6602b1238",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/23",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C004_E005_DEEP_READING.md",
+      "bytes": 5259,
+      "sha256": "a9a841059c515616b52abd72e76c58aa38f42f11d7852dacf04af144e82129ba",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/24",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C004_E006_DEEP_READING.md",
+      "bytes": 6405,
+      "sha256": "2d0ea8b7769611b6fffecaa2411bb4f1843af5bb70e507e10960d48e7b5a3e9b",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/25",
+      "file": "BLUE_ARCHIVE_MAIN_V100_C004_E009_DEEP_READING.md",
+      "bytes": 7558,
+      "sha256": "9ceb58b3110855a13a76fa3e93329558a2ae2d768cf15e6b0ad1b24c32d58520",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_complete_custody_reused_unchanged/26",
+      "file": "BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 49292,
+      "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_other_whole_or_current_semantic_spans_reused/0",
+      "file": "BLUE_ARCHIVE_AYANE_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 32396,
+      "sha256": "bcf779d591e3f5a6f245f0eb97a12ba5901cce73dd55ddf0b599b007db95b519",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_other_whole_or_current_semantic_spans_reused/1",
+      "file": "BLUE_ARCHIVE_SERIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 32558,
+      "sha256": "8929ef84f8741a0fc9ae3600ac55dfe829a43b6869b80987ab6cf2a3d2206659",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_other_whole_or_current_semantic_spans_reused/2",
+      "file": "BLUE_ARCHIVE_GROUP_2101_2102_DEEP_READING.md",
+      "bytes": 36756,
+      "sha256": "ad22e97278f7e35ec5d43e27a1dbaafb14409070468c62a7d02b6d3003af3845",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_other_whole_or_current_semantic_spans_reused/3",
+      "file": "BLUE_ARCHIVE_EVENT_809_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 20216,
+      "sha256": "04a41b534c4102c215832cce876737f0d3ff3907088cd0a7194b8ffdeb523c04",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_other_whole_or_current_semantic_spans_reused/4",
+      "file": "BLUE_ARCHIVE_EVENT_814_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 21203,
+      "sha256": "d86f83f03550a6798ff327abf1cf46b020498e3f4639165144e1c8ad2b0915b0",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_other_whole_or_current_semantic_spans_reused/5",
+      "file": "BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 20301,
+      "sha256": "c20995216bd4dc6938a49a9cdb5bcec03689f95b3154cb96231a19b4f4ce76d7",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_other_whole_or_current_semantic_spans_reused/6",
+      "file": "BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "bytes": 46462,
+      "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_other_whole_or_current_semantic_spans_reused/7",
+      "file": "BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 51286,
+      "sha256": "ab1737179cd375e8edcee8f372c92c155ca5b8f9bfb077d73af06f5ec4de6320",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_other_whole_or_current_semantic_spans_reused/8",
+      "file": "BLUE_ARCHIVE_EVENT_841_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 49903,
+      "sha256": "1964ab85a295573b91336b3971fa833e63458b881e4391d29891cd0b2cb17b46",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_other_whole_or_current_semantic_spans_reused/9",
+      "file": "BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 28870,
+      "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_other_whole_or_current_semantic_spans_reused/10",
+      "file": "BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 109502,
+      "sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/prior_other_whole_or_current_semantic_spans_reused/11",
+      "file": "BLUE_ARCHIVE_HOSHINO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 28578,
+      "sha256": "ce450a0b591bc754a48959a378ef1099875410d3ae67df1aa06f4e18b4c4e364",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/current_complete_argument_refresh/0",
+      "file": "BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 64540,
+      "sha256": "9745010e16ef2e7bc09b11eab784f9bf5771fe0a7e6ef48bfb3af763be7f156e",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/current_complete_argument_refresh/1",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_CHECKPOINT.md",
+      "bytes": 15930,
+      "sha256": "ad171481bb6a70647d7603f82b634ca89888f727aff3458fdc9d85367093fe40",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/shared_exact_prior_custody/architecture",
+      "file": "BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "bytes": 52261,
+      "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": false,
+      "current_architecture_exception": true
+    },
+    {
+      "field": "/shared_exact_prior_custody/historical_metadata_boundary",
+      "file": "BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+      "bytes": 443241,
+      "sha256": "e9de04192b2add837ae0130aa6e0d33b8e94843d4baca5580ff0612eb203ecf4",
+      "binding_scope": "HISTORICAL_ONLY"
+    },
+    {
+      "field": "/reused_complete_opening_monograph_arguments/0",
+      "file": "BLUE_ARCHIVE_NONOMI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 23116,
+      "sha256": "ab3b0c7fbc4ae7d91ebd54a0324d60aaf1cf0165e65cb655c24facec9fffbd28",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/reused_complete_opening_monograph_arguments/1",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_E011_DEEP_READING.md",
+      "bytes": 8795,
+      "sha256": "8373e5d7092d8db8704365bfe1ea33589f456057ff2b18524dcbe772889c4837",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/reused_complete_opening_monograph_arguments/2",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_E012_DEEP_READING.md",
+      "bytes": 7452,
+      "sha256": "4a25f3c09e98838678ca44dc959df335f5d170e72090e447f66ebd2cc326ca54",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/reused_complete_opening_monograph_arguments/3",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_E014_DEEP_READING.md",
+      "bytes": 4391,
+      "sha256": "966c8560fd315beceee92767632a5fb420865ad307f5b6fa32e70283477b6319",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/reused_complete_opening_monograph_arguments/4",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_E013_DEEP_READING.md",
+      "bytes": 6703,
+      "sha256": "b5542b0af0ce4f06d26999eacc1aa6510246603840018e54229a7b574228d2bb",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/reused_complete_opening_monograph_arguments/5",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_E020_DEEP_READING.md",
+      "bytes": 5085,
+      "sha256": "f27e0249b45f4b0adca6c06abf1b1add4c9d3962c2c2b9335b93e2da2b7bab93",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/reused_complete_opening_monograph_arguments/6",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_E022_DEEP_READING.md",
+      "bytes": 4386,
+      "sha256": "b3e97e8f62975a5fbfc909dfa30220f03c70bb133d9328f76a750f66d581d109",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/reused_complete_opening_monograph_arguments/7",
+      "file": "BLUE_ARCHIVE_AYANE_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 32396,
+      "sha256": "bcf779d591e3f5a6f245f0eb97a12ba5901cce73dd55ddf0b599b007db95b519",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/reused_complete_opening_monograph_arguments/8",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_E016_DEEP_READING.md",
+      "bytes": 6611,
+      "sha256": "2375e5934286311ef5328bea51e1c5914b1239fe6ecd322079d10534d63ba0f0",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/reused_complete_opening_monograph_arguments/9",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_E032_DEEP_READING.md",
+      "bytes": 4055,
+      "sha256": "e8c4bb4f8a09db8fdfd696eab74c7d4ee08a3bbeb7434fc4c16ffd755f011ca7",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/reused_complete_opening_monograph_arguments/10",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_E043_DEEP_READING.md",
+      "bytes": 5546,
+      "sha256": "6344b11c12e759890bcf88c7e2ff16d18b7e3f30fee230dfaa8757f55d64a50d",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/reused_complete_opening_monograph_arguments/11",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C002_E017_DEEP_READING.md",
+      "bytes": 10724,
+      "sha256": "383601e629ad4e50b885298c63fb12e8e2290797cbca18deb3a629f32c972b14",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/reused_complete_opening_monograph_arguments/12",
+      "file": "BLUE_ARCHIVE_MAIN_V001_C003_E042_DEEP_READING.md",
+      "bytes": 5047,
+      "sha256": "ae7ae63fae214a84c2644076007ebdfa121e963e82d55db98d9c220bc3d33e59",
+      "binding_scope": "CURRENT_EXACT",
+      "unchanged_analytical_source": true,
+      "current_architecture_exception": false
+    },
+    {
+      "field": "/primary_recovery/0",
+      "file": "VARIANT_13008_EPISODE_020.md",
+      "bytes": 12501,
+      "sha256": "84df0628f531d28c51f3331d8b9b61298a609931a32d036df75daa46f8b66b66",
+      "binding_scope": "CURRENT_EXACT"
+    },
+    {
+      "field": "/primary_recovery/1",
+      "file": "VARIANT_20036_EPISODE_003.md",
+      "bytes": 8073,
+      "sha256": "eee47b7c70cb08ee29738da479400ec4bc16e5d4f4c44b5d25bc07f15a72726a",
+      "binding_scope": "CURRENT_EXACT"
+    },
+    {
+      "field": "/primary_recovery/2",
+      "file": "VARIANT_20036_EPISODE_005.md",
+      "bytes": 8124,
+      "sha256": "7c3edb47c84dc024ddc924e4b0abf91a4d7d111c55a942e222326836673d24b1",
+      "binding_scope": "CURRENT_EXACT"
+    },
+    {
+      "field": "/primary_recovery/3",
+      "file": "THREAD_200360230.md",
+      "bytes": 2485,
+      "sha256": "5a81bd63bdfd8b0bc6fcd378579693b3f19a5ef1462a59d2aadf1025efc51455",
+      "binding_scope": "CURRENT_EXACT"
+    },
+    {
+      "field": "/present_root_worktree_metadata_probe/controls/0",
+      "file": "BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+      "bytes": 460958,
+      "sha256": "f8ce1729205b02498c1981b0cd67943b80bd873d3b4aa83698325863223f9523",
+      "binding_scope": "CURRENT_EXACT",
+      "source_scope": "CURRENT_ROOT_WORKING_METADATA_ONLY"
+    },
+    {
+      "field": "/present_root_worktree_metadata_probe/controls/1",
+      "file": "BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv",
+      "bytes": 45708,
+      "sha256": "2d4ac2798f8d84e3dcf0c99c8101e31ee8ad5e47f823d89371b4dc48835823de",
+      "binding_scope": "CURRENT_EXACT",
+      "source_scope": "CURRENT_ROOT_WORKING_METADATA_ONLY"
+    }
+  ],
+  "selected_private_checks": [
+    {
+      "story_id": "BA:bond:13008:002",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/SERIKA/VARIANT_13008_EPISODE_002.md",
+      "sha256": "a49031d67631742c8e0382f2b653102c7b16fbaed9b5cba064d1376221a022fe",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:13008:003",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/SERIKA/VARIANT_13008_EPISODE_003.md",
+      "sha256": "e79f2b662f55f0cb2ae503e78668bbfa9369dc543f689e79ab483c62ad50d549",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:13008:005",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/SERIKA/VARIANT_13008_EPISODE_005.md",
+      "sha256": "48c612063b48b40e89cd706e30b0df8bd3d2f34297b6e5f60909fe12ec2555f5",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:13008:006",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/SERIKA/VARIANT_13008_EPISODE_006.md",
+      "sha256": "caf31e30bc28d5bc7236a9863b4298646ebba2fc7c8a31b9181971ce9b434e3c",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:13008:008",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/SERIKA/VARIANT_13008_EPISODE_008.md",
+      "sha256": "151a6446b10e31e0905a143a96dbcfc9700ead2cad69acea7374c09a8f5f036c",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:13008:009",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/SERIKA/VARIANT_13008_EPISODE_009.md",
+      "sha256": "055b899c81aed5fe13daecf38aa394afa4c745755954234e47ca2360e4cc945a",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:13008:020",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/SERIKA/VARIANT_13008_EPISODE_020.md",
+      "sha256": "84df0628f531d28c51f3331d8b9b61298a609931a32d036df75daa46f8b66b66",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:20011:002",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/SERIKA/VARIANT_20011_EPISODE_002.md",
+      "sha256": "4650a29fb5c2363dad5b0364c30a3a08f75ac7dbf8c26df9de03e031b29c5015",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:20011:003",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/SERIKA/VARIANT_20011_EPISODE_003.md",
+      "sha256": "f1ce05b60734db6a36fc9f8b2cc564349c2cf2c4b274b021866f49f30cc65299",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:20011:005",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/SERIKA/VARIANT_20011_EPISODE_005.md",
+      "sha256": "37f1fe8a33d107c8f7d76024b014acaf1c939d2c28774d02f730b7e6b742c704",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:20036:002",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/SERIKA/VARIANT_20036_EPISODE_002.md",
+      "sha256": "4548f2f4637d09ed9bbd15de651af520e63487abc98e65a2ce15dc4b718d5369",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:20036:003",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/SERIKA/VARIANT_20036_EPISODE_003.md",
+      "sha256": "eee47b7c70cb08ee29738da479400ec4bc16e5d4f4c44b5d25bc07f15a72726a",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:bond:20036:005",
+      "canonical_path": "02_CANONICAL_STORIES/BOND/SERIKA/VARIANT_20036_EPISODE_005.md",
+      "sha256": "7c3edb47c84dc024ddc924e4b0abf91a4d7d111c55a942e222326836673d24b1",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:13008:thread:130080010",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/SERIKA/THREAD_130080010.md",
+      "sha256": "0cb95d1fe688d0218e3321ea3ab21a100d8396dcb6c7104c09e0becf3187b1b0",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:13008:thread:130080060",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/SERIKA/THREAD_130080060.md",
+      "sha256": "4e7380c291d6bd06fdf322a20e1461018e65cede08cfbb0b336b440a75b5a05c",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:13008:thread:130080080",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/SERIKA/THREAD_130080080.md",
+      "sha256": "a8757adeeee495398c6cdc7d44949dbae043a03473bdf398e8e3b937d4f0ad82",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:13008:thread:130080180",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/SERIKA/THREAD_130080180.md",
+      "sha256": "ca96d149e252f726b519d339b5a2746280275591afe7234b2bcd1f35f75ba8f0",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:13008:thread:130080210",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/SERIKA/THREAD_130080210.md",
+      "sha256": "22bc7c5e231a4521002199034c6eb8b3cda480cf3bcd3eac21d950f8ef6a5122",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:13008:thread:130080270",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/SERIKA/THREAD_130080270.md",
+      "sha256": "852e2ad3d33f62194842127710e4b81976e8c48018b924e87a15c5f64bd7d075",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:13008:thread:130080300",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/SERIKA/THREAD_130080300.md",
+      "sha256": "843d96468342471d2f5becaa0627486150e601928d71d4c61f18da775a749d83",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:20011:thread:200110010",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/SERIKA/THREAD_200110010.md",
+      "sha256": "7482c558e00082284202fb71a252a0bd53dda063787a24d76712aba8d73436a8",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:20011:thread:200110140",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/SERIKA/THREAD_200110140.md",
+      "sha256": "60d8e40aea97b0f4098ca4882f1b35383b87c51ad16bbbc5742eddbfda5b2a5e",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:20011:thread:200110250",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/SERIKA/THREAD_200110250.md",
+      "sha256": "d86d93a01cc631d3ebf6982ea646d7512ce8a43d6c6407fbd1421cd06cb36742",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:20036:thread:200360010",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/SERIKA/THREAD_200360010.md",
+      "sha256": "c54f2297ca2167728bcdd54c562201561dcbed563769511d00e39426be9b2b08",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:20036:thread:200360130",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/SERIKA/THREAD_200360130.md",
+      "sha256": "cfa06a1dde7504c189d9ac8f11eb42866b27ee4ed3f5607a0015cc6e5996530e",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:momotalk:20036:thread:200360230",
+      "canonical_path": "02_CANONICAL_STORIES/MOMOTALK/SERIKA/THREAD_200360230.md",
+      "sha256": "5a81bd63bdfd8b0bc6fcd378579693b3f19a5ef1462a59d2aadf1025efc51455",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:character_data:13008:profile_and_dialog",
+      "canonical_path": "02_CANONICAL_STORIES/CHARACTER_DATA/SERIKA/VARIANT_13008.md",
+      "sha256": "d2656191f4302fc26eca7cbb6ff80a8db7c4e055566e9894ac683bc1c5720198",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:character_data:20011:profile_and_dialog",
+      "canonical_path": "02_CANONICAL_STORIES/CHARACTER_DATA/SERIKA/VARIANT_20011.md",
+      "sha256": "a079c516b40ef2d4b33f5728b9b545c7611ee1f46039f093b9aa17441bbbb7fc",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:character_data:20036:profile_and_dialog",
+      "canonical_path": "02_CANONICAL_STORIES/CHARACTER_DATA/SERIKA/VARIANT_20036.md",
+      "sha256": "423797f965e025e393d0eeabcc3c0bc8b5158a20bef4ca4647027a45031251fb",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:character_data:event_costume:1900902501:character:20011",
+      "canonical_path": "02_CANONICAL_STORIES/CHARACTER_DATA/CONTEXTUAL/BA_character_data_event_costume_1900902501_character_20011.md",
+      "sha256": "9471319f534bc046c37472aad2eebfbcec34d8f417fedc1bcd04a829e83f6885",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    },
+    {
+      "story_id": "BA:character_data:event_costume:1900926201:character:20036",
+      "canonical_path": "02_CANONICAL_STORIES/CHARACTER_DATA/CONTEXTUAL/BA_character_data_event_costume_1900926201_character_20036.md",
+      "sha256": "f6350e7d8e43fcc05fb30aa1159b51481031b4c21a64b8a142dd96413878e029",
+      "receiving_scope": "INHERITED_BINDING_NOT_FRESH_WHOLE_PRIMARY"
+    }
+  ],
+  "mechanical_checks_are_semantic_receiving": false,
+  "N_frozen": false,
+  "quarter_reached": false,
+  "pair_scope": "13 unique exact manifest pairs corroborate accepted checkpoint; not new narrative or full manifest credit.",
+  "pair_bindings": {
+    "manifest_bytes": 218881,
+    "manifest_sha256": "5cf370f803c711980f1a1716b9453711cedd69836929399619d3a4f2bbddba8a",
+    "physical_selected_rows": 16,
+    "unique_thread_episode_pairs": 13,
+    "rows": [
+      {
+        "thread_id": "BA:momotalk:13008:thread:130080010",
+        "message_id": "BA:momotalk:13008:130080050:241",
+        "favor_schedule_id": "130082",
+        "bond_raw_group_id": "1300802",
+        "bond_story_id": "BA:bond:13008:002",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:13008:thread:130080010",
+        "message_id": "BA:momotalk:13008:130080050:242",
+        "favor_schedule_id": "130082",
+        "bond_raw_group_id": "1300802",
+        "bond_story_id": "BA:bond:13008:002",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:13008:thread:130080060",
+        "message_id": "BA:momotalk:13008:130080070:245",
+        "favor_schedule_id": "130083",
+        "bond_raw_group_id": "1300803",
+        "bond_story_id": "BA:bond:13008:003",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:13008:thread:130080080",
+        "message_id": "BA:momotalk:13008:130080090:248",
+        "favor_schedule_id": "130085",
+        "bond_raw_group_id": "1300805",
+        "bond_story_id": "BA:bond:13008:005",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:13008:thread:130080180",
+        "message_id": "BA:momotalk:13008:130080200:272",
+        "favor_schedule_id": "130086",
+        "bond_raw_group_id": "1300806",
+        "bond_story_id": "BA:bond:13008:006",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:13008:thread:130080210",
+        "message_id": "BA:momotalk:13008:130080230:275",
+        "favor_schedule_id": "130088",
+        "bond_raw_group_id": "1300808",
+        "bond_story_id": "BA:bond:13008:008",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:13008:thread:130080210",
+        "message_id": "BA:momotalk:13008:130080230:276",
+        "favor_schedule_id": "130088",
+        "bond_raw_group_id": "1300808",
+        "bond_story_id": "BA:bond:13008:008",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:13008:thread:130080270",
+        "message_id": "BA:momotalk:13008:130080290:286",
+        "favor_schedule_id": "130089",
+        "bond_raw_group_id": "1300809",
+        "bond_story_id": "BA:bond:13008:009",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:13008:thread:130080270",
+        "message_id": "BA:momotalk:13008:130080290:287",
+        "favor_schedule_id": "130089",
+        "bond_raw_group_id": "1300809",
+        "bond_story_id": "BA:bond:13008:009",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:13008:thread:130080300",
+        "message_id": "BA:momotalk:13008:130080360:130080400",
+        "favor_schedule_id": "1300820",
+        "bond_raw_group_id": "1300820",
+        "bond_story_id": "BA:bond:13008:020",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:20011:thread:200110010",
+        "message_id": "BA:momotalk:20011:200110090:200110150",
+        "favor_schedule_id": "200112",
+        "bond_raw_group_id": "2001102",
+        "bond_story_id": "BA:bond:20011:002",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:20011:thread:200110140",
+        "message_id": "BA:momotalk:20011:200110240:200110320",
+        "favor_schedule_id": "200113",
+        "bond_raw_group_id": "2001103",
+        "bond_story_id": "BA:bond:20011:003",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:20011:thread:200110250",
+        "message_id": "BA:momotalk:20011:200110300:200110420",
+        "favor_schedule_id": "200115",
+        "bond_raw_group_id": "2001105",
+        "bond_story_id": "BA:bond:20011:005",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:20036:thread:200360010",
+        "message_id": "BA:momotalk:20036:200360060:200360090",
+        "favor_schedule_id": "200362",
+        "bond_raw_group_id": "2003602",
+        "bond_story_id": "BA:bond:20036:002",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:20036:thread:200360130",
+        "message_id": "BA:momotalk:20036:200360180:200360270",
+        "favor_schedule_id": "200363",
+        "bond_raw_group_id": "2003603",
+        "bond_story_id": "BA:bond:20036:003",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      },
+      {
+        "thread_id": "BA:momotalk:20036:thread:200360230",
+        "message_id": "BA:momotalk:20036:200360290:200360480",
+        "favor_schedule_id": "200365",
+        "bond_raw_group_id": "2003605",
+        "bond_story_id": "BA:bond:20036:005",
+        "link_method": "AcademyMessanger.FavorScheduleId -> AcademyFavorSchedule.ScenarioSriptGroupId"
+      }
+    ]
+  },
+  "eleven_section_structure": "CONFIRMED_NOT_SUBSTANTIVE_ACCEPTANCE_BY_COUNT",
+  "root_literary_receiving": {
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "whole_body_receipts": [
+      "f252bd:1–85",
+      "c91c2f:86–170",
+      "34e371:171–252 EOF"
+    ],
+    "whole_readable_custody_receipt": "1a0b71:whole57 lines",
+    "qualified_json_scope_receiving": "1d7bc6:complete compact input/scope controls;73 exact bindings mechanically checked433549",
+    "new_root_primary_receiving": [
+      "5e4aa9:whole407-line first-wages bag B13008E020",
+      "a7a860:whole267-line boat B20036E003",
+      "71a25a:whole292-line cleanup B20036E005",
+      "ec96d8:whole101-line paired200360230 MomoTalk"
+    ],
+    "literary_grounds": "Contribution, wanted recognition and retained refusal explain Serika across school work and her own life. The first-wages bag, holiday food, rest, play, clothes and singing have intrinsic analytical standing. Captivity misrecognition, distributed rescue and specific gratitude do not confer unrestricted access. Concrete labor, service to strangers and the recovered repair matter alongside her overwork, mistaken confidence, pursuit and unilateral availability. Adult following, forceful pulling, an unfulfilled boat turn and swimwear pressure retain distinct recipient objections and powers. All eleven dimensions, eight developed alternatives, actual outcomes and fourteen claim-specific gaps have been received.",
+    "specific_limits": [
+      "The bag repairer’s question and the teacher’s nod support a bounded subsidy inference without an itemized transaction; the anomalous printed u0083 order is preserved and does not establish Serika overheard it.",
+      "Durability is promised rather than tested.",
+      "The boat ride ends without fulfilling her requested turn to pull the teacher; play does not cancel the earlier protest.",
+      "The cleanup is actually completed and clothes kept, but cute praise ends in the withdrawal of ramen and a stop to the laughter, without a respectful reconciliation.",
+      "The paired message’s brief yes is immediately retracted; future contact is not unrestricted assent.",
+      "Thirty-one exact inherited private bindings do not grant a new whole primary reading of all31 objects.",
+      "Main E005–E007 checks are bounded spans beside the inherited whole volume argument; an earlier clipped author read gives no whole deep-file credit."
+    ],
+    "mechanical_checks_are_literary_receiving": false,
+    "remaining_limits": [
+      "All14 original claim-specific source gaps remain OPEN",
+      "No performed voice/raw native AV replay, global chronology, clinical/legal certificate, model/prediction promotion",
+      "Relationship/ensemble/institution/Sensei and register duties remain separate fullPhase3 obligations"
+    ]
+  },
+  "canonical_adoption": "CANONICAL_SOURCE_BRANCH_DERIVATIVE",
+  "canonical_derivative": {
+    "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SERIKA_CHARACTER_MONOGRAPH.md",
+    "bytes": 52456,
+    "sha256": "1c199cdd02b0876c602cdccd77acfdb406dfcca2afdf0bf03c508a6b65b8e365",
+    "frozen_author_bytes": 51876,
+    "frozen_author_sha256": "59fe918d81000805b7211b579851c9a5d7db72f72ed55b29365bddfc15c4f185"
+  },
+  "public_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SERIKA_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+  "source_reference_translation": "External selected corpus and immutable local witness refs preserve exact original tuples/scopes without publishing machine paths."
+}
