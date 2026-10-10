@@ -1,0 +1,1247 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-KAYOKO",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYOKO_CHARACTER_MONOGRAPH.md",
+    "bytes": 44797,
+    "sha256": "8011e23447a250cc9458d4fb2080f08bef0cffda4251790e136c04e44c5f5de2",
+    "git_blob_oid_of_actual_bytes": "fc2c00e727605f6dfe29accde4341cd5f8d80ed7"
+  },
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "PS68_MONOGRAPHS/BLUE_ARCHIVE_KAYOKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 43395,
+      "sha256": "da38462b3841ed6e02d1ec2458749bc7e839ae0baa86822dd516c1042e0c6113",
+      "git_blob_oid_of_actual_bytes": "e79e20fbe5e08bb99a1619e6dac7e5741cc52559",
+      "lines": 181
+    },
+    {
+      "path": "ROOT_KAYOKO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 3819,
+      "sha256": "a4559e5048a45db71e9488f1c23951919df783abb808620b39d45d44a6ef590b",
+      "git_blob_oid_of_actual_bytes": "2c3a1317323366cddfc0c3e73b1054b30aa4d37d",
+      "lines": 54
+    },
+    {
+      "path": "PS68_MONOGRAPHS/KAYOKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 94382,
+      "sha256": "6071a231bdcc29cd23b7911f8e61bb59d90f9c6435cf882bc90b0463f1f6fcb0",
+      "git_blob_oid_of_actual_bytes": "0e6d2104dd0dd52365c6fc1826e5790820c191ed",
+      "lines": 1855
+    },
+    {
+      "path": "PS68_MONOGRAPHS/KAYOKO_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 2027,
+      "sha256": "00559a06787286fe4a63944f816e51829112d8d31a8c7bec95f0f251d01e161e",
+      "git_blob_oid_of_actual_bytes": "ec6884fa5f5bc5d54a4b653b665ef8aacc562d9f",
+      "lines": 37
+    },
+    {
+      "path": "PS68_MONOGRAPHS/KAYOKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 8268,
+      "sha256": "313cfa5855a4526e806a92505d333155ba134816320c1ca38a596d6b29222778",
+      "git_blob_oid_of_actual_bytes": "46db8196cd8411e6884545eb3e03a8ba05a547c6",
+      "lines": 53
+    },
+    {
+      "path": "PS68_MONOGRAPHS/KAYOKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 3551,
+      "sha256": "dcf1fae8e59fe3355a745fc2ad92b16fe087e86a281e73591b81786bd0de6819",
+      "git_blob_oid_of_actual_bytes": "5a0bf87fadf8d5e4afab22bca09b8294431c75ce",
+      "lines": 49
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KAYOKO_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KAYOKO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only authority/frontmatter/current-scope framing, ROOT acceptance paragraph and explicitly disclosed historical-to-current status are changed. All original substantive body lines not named in the exact changed ranges are byte-equal and exhaustively mapped through EOF.",
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 3,
+      "line_sha256": "cc263f869c257a4567f8cff51b868f47fd413e550245eda34ef05fda4ff2d27e",
+      "line_text": "character: \"鬼方カヨコ / Kayoko\""
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 4,
+      "line_sha256": "d72389a757f7d3aa65da8602c660bc4827078ddc2780a5fce23f6a0d5a932e2e",
+      "line_text": "person_scope: \"BA_PERSON_KAYOKO;13005/10064/10088;costume1900912001→10064 and1900923101→10088\""
+    },
+    {
+      "frozen_line": 6,
+      "canonical_line": 5,
+      "line_sha256": "1658226d82991e821acc7363ec1375c03a4c3037e48a2a07ed6d5d89a5430ec5",
+      "line_text": "method: DEEP_SYNTHESIS"
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 6,
+      "line_sha256": "2084413932021b66232c019d7d67e81ba2cf005acb31f12c32acb13608a5283c",
+      "line_text": "architecture: \"1.12, section7.1, eleven required dimensions\""
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 7,
+      "line_sha256": "2b4c71a3936349b6920c14d8d0327b826ca56d5e7944bc878548abba1650fe54",
+      "line_text": "analytical_base: \"2e2018d0d62d91e3e0a5e7681f72a31cec08e02c\""
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 8,
+      "line_sha256": "c8ef145b6da8758b2dd4f184f0c6454d958b15d80fcfd350803c0682bf3d65dd",
+      "line_text": "historical_source_witness: \"c1f14d5120c29209ca571fea8d7cfbe111076ec5\""
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 9,
+      "line_sha256": "a7128a3b6afa054c49654fbcb14fcbdd61123b6ed5e0cac56e74d54399bb96b6",
+      "line_text": "japanese_supplemental_source: \"a038020f1f5ac02dcfe76962426d38f86414cdd8\""
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 10,
+      "line_sha256": "14e0401cbb122674957ed72090cd06063f320f5d1d77a57ec343b3b2cbe52b04",
+      "line_text": "authority_quartet: \"Current Cycle008 admission; ROOT qualified complete analytical receiving with limits; historical order/independence UNKNOWN; performed voice UNRECEIVED\""
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 11,
+      "line_sha256": "d0718320c7cea23ca3bee1a77dea20445606fa01cb1bac555388d1ce333d9ec7",
+      "line_text": "scope: \"Bounded literary synthesis; all fourteen gaps OPEN; no clinical/person model, denominator or milestone credit\""
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 12,
+      "line_sha256": "8fecbb6a3875013f0e9b08c2e80984516ba9166974308b35a91a124bb697c029",
+      "line_text": "date: \"2026-10-10\""
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 28,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 29,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 30,
+      "line_sha256": "acf6a13170b1ea25fe24bb05f68dac5ff19ddc9366b71995024ed4d1a13e1eaa",
+      "line_text": "# Kayoko: quiet company with the right to set its terms"
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 33,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 34,
+      "line_sha256": "c54e15bcc1ca74c9c39beb46a480dfbaf31df395da2a20a87bbd5d2ecebc605d",
+      "line_text": "The current selected private responsibility is twenty-nine objects: twelve BOND encounters, twelve whole associated MomoTalk objects and five written contexts. Ordinary13005, New Year10064 and dress10088 remain distinct situations within the exact Kayoko family. Complete accepted private and public arguments govern this synthesis; necessary Japanese recovery verifies the music criterion and actual shared day, the reciprocal-treat refusal and its still-deferred message addition. The receipt distinguishes complete argument reuse from original producer primary credit, numbered canonical text from location headings and saved prose from uninspected performance."
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 35,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 36,
+      "line_sha256": "2706726a0865fa21c6bf459fce28d4794a9e77370743c8738da0463b35792b32",
+      "line_text": "## 1. Core thesis: connection becomes meaningful when a particular person chooses it"
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 37,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 38,
+      "line_sha256": "5f5d711e2c140d93b584f77f1eb5762ac4472cd1ad57e76a5c6f3e6cb5b14a89",
+      "line_text": "Kayoko's quietness is not an absence of wants. She wants music with stories and expressed intention, likes heavy metal and jazz, enjoys a particular band's experiment, feeds cats in reported routine, seeks a bell event, chooses understated clothing and values selected calm company. Those ends have value independently of whether they help PS68 solve a problem.13005:008 ends in an actual free day enjoying music together.10088:002 gives about ten minutes of calm sunset silence and a request to stay a little longer. An ordinary good is complete at its own scale without becoming a psychological cure."
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 39,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 40,
+      "line_sha256": "2a67973e045f28639dda54b8eda14f71ae52f8875b4b1ff2abd7d999a3052320",
+      "line_text": "The same sources repeatedly give her the right to qualify, postpone or refuse contact. She can initially keep her business private, prefer cleaning alone, defer an outfit's display, close a compliment topic, object to repeated persuasion and reject a rule that makes the adult the sole provider. These are not simply stages on the way to the analyst's preferred acceptance. Her revised acceptance in particular encounters is meaningful because the earlier condition remains legible.13005:003 moves from objections to help into assigned heavy work and an actually cleaned office.10088:005's literal no to both adult sole-provider options makes her wanted return an authored choice."
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 41,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 42,
+      "line_sha256": "f1ab60f6edcdadd934e37ef1f5bccaf998a11f88ea4e1420c8545697181dd8f7",
+      "line_text": "Her practical competence also has limits and ethical costs. GROUP2201's early doubt and brakes do not prevent all escalation. Event834's list checks remain incomplete, a hunch is not prophecy, and the threat plus silencer/fall sequence directed at Agent B raises a specific silencing concern. Naming her the company's moral center would hide those acts. Yet dismissing every reservation as cynical detachment would erase useful work, a final objection to normalizing exploitation, recipient concern and actual care for Ako during escape."
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 43,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 44,
+      "line_sha256": "d19aed2b3b463b6de2fcdd2327940123128fd56e40571bbb1224d9e7caba81eb",
+      "line_text": "The thesis is that Kayoko's relation to others is best understood through selective connection with terms she can still set. Competence, care and reciprocity do not oblige her to provide everything, explain everything or like every form of help. Trust can be deliberately chosen under uncertainty, as10088:005u0024–0025 states about the earlier compliment. It does not require an analyst to prove the other person infallible, infer a confession from a withheld addition or turn every reluctance into hidden assent."
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 45,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 46,
+      "line_sha256": "cccc497e2f9f6e8fee14ecf3fe00b806372f755dd35702e19a5b705b67ef2045",
+      "line_text": "This reading admits both positive cooperation and troubling means. The person who can help clean, find documents, share music, ask for company and aid an injured or impeded colleague can also participate in damaging work. Her ordinary preferences survive criticism; her adverse acts survive admiration. A monograph that keeps both is more complete than either an emotionally distant professional or a secretly gentle person whose competence absolves everything."
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 47,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 48,
+      "line_sha256": "88906aeeb25becb0deef219c9c2fc5ae1d4a967a79aa2c3fe7c192181833d658",
+      "line_text": "## 2. Longitudinal repertoire: real small completions coexist with failed plans and unfinished returns"
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 49,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 50,
+      "line_sha256": "b4977fc484caffcc2499b35fd24449fbe1366183816acaa8f67c276e0b595e3e",
+      "line_text": "MainV001 gives Kayoko risk monitoring, force/resource assessment and strategic decomposition inside a company with mixed motives. She supplies a partial internal brake without preventing the restaurant demolition and post hoc ratification. C002 gives actionable work within the later collective rescue. These are different public capacities, not proof that all company decisions originate with her or that assistance repairs earlier harm. [MainV001C001E009/017–020;C002E017–020;current private comparison202–204.]"
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 51,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 52,
+      "line_sha256": "a5f4f1c5958cf7d25deb06086fce726964026389316e4c83a2ba9cec4f35842f",
+      "line_text": "Ordinary private encounters expand what practical work looks like.13005:002 involves appearance-based police suspicion, local adult advocacy and narrated escort, with cat-feeding/routine stops disclosed later. No permanent policing reform or legal acquittal is printed.13005:003 gives reported late work, a chosen solo cleanup, debt objections and then actual joint cleaning.13005:005 shares metal music that causes the adult ear discomfort;13005:008 enjoys quiet jazz and a free day together. The second does not erase the first mismatch, and neither requires music to function as treatment."
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 53,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 54,
+      "line_sha256": "2fed99c5c929c113d9bc540124c3524ce28ac09f3077edd0a721364f9ef7e8bc",
+      "line_text": "New Year introduces fallible preparation and specific tastes.10064:002 chooses understated black clothing while declining immediate viewing; a clerk's underworld inference is corrected rather than authenticated.10064:003's wanted bell event is canceled. Pleasant overnight conversation and narrated sleep after returning to Schale are positive outcomes, but the bell never secretly happens.10064:005 gives warmth, a one-cup drink limit, an extended wait and affectionate cat speech followed by actual amulet shopping.10064:006 gives a wanted shared concert, an unexpectedly intense performance she enjoys, a still-tired adult and a request that he rest. Rest is unprinted at that ending."
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 55,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 56,
+      "line_sha256": "b9a6bbf56bb95123710d6ed7351ef6be819783bd2355d84e06c95723813877b8",
+      "line_text": "Dress adds work completion and specific reciprocity.10088:003 actually finds and supplies documents, explicitly permits entry and closes the compliment topic; an accepted dinner begins but finished consumption and payment remain outside the scene.10088:005 consciously trusts the earlier approval of her clothing, reports low yield from dress work without declaring aversion and wants to treat the adult herself. Both sole-provider replies receive no. The mirrored student-role appeal is her reading of what secures acceptance; attendance and payment are not narrated, and the whole message coda defers a further remark."
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 57,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 58,
+      "line_sha256": "0a74fabef0a2240ded93b8d07bc0333ad6ef3f90bbfde2560a73987fef462ac7",
+      "line_text": "Public outcomes also differ in scale. Event809's route/broadcast work and music savings matter while funds remain unrestored. Event810011 actually transports a band's chocolate bonus to Schale and decoratively displays it, with a denial of special Valentine meaning retained. FinalC004E004u0035–0047 includes Kayoko's confirmation in convergent reports of a successful local ship/Ark separation, not final escape or technical maximum. Event823003F19–F21 then gives offered/exerted help for Ako, thanks and scoped departure/escape reports. The later full group ending remains bounded."
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 59,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 60,
+      "line_sha256": "832d16b23b39d72f5091f86432193a77d6ee88bdfc2d41e6c83e98daf4e49438",
+      "line_text": "There is no global chronology in which each of these encounters demonstrates increasing openness or completed reform. Whole messages and explicit previous-dinner/phrase memories give particular relative relations; variant order and documentary releases do not place them all against Main. The defensible longitudinal conclusion is a broadened repertoire: private preference, stated limits, chosen cooperation, local completion and continuing debt. Its positive outcomes must not be downgraded to mere wishes, and its open outcomes must not be finished by analogy."
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 61,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 62,
+      "line_sha256": "b0627966004058256066bd128c9ffeaf58e34ba1a6eff196affeb4e784132cce",
+      "line_text": "## 3. Public and private self: appearance is an interpretation, and disclosure remains selective"
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 63,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 64,
+      "line_sha256": "117e1148c9f1cbbbf064f4191f04451995c6970ec04a6fba7ddf399ebbae90c2",
+      "line_text": "Appearance-based interpretation is a recurring problem for Kayoko.13005:002's police encounter gives suspicion, her concern about Gehenna/Prefect complications and local adult advocacy; none establishes a criminal past or a lasting new policy.10064:002's shop context lets a fearful underworld guess arise, then narration corrects it. The disputedu0027 label remains Kayoko despite clerk-like content, so it cannot be used as a guaranteed fear state in her. Specific secure choices of clothes survive the label seam."
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 65,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 66,
+      "line_sha256": "dd37ee8f7c78bc5c2211eee3ea093fb92732c308eb3eba0aed78383c8ca24275",
+      "line_text": "Her refusals are equally specific. Initially keeping business to herself in13005:002 is not proof of hostile intent.13005:003's preference for cleaning alone is explained through the cost or presumption of mobilizing peers; it does not prove that she cannot cooperate. The adult's offer first meets a did-you-hear-me objection and concern about debt, then revised acceptance and assigned heavy loads. Narration confirms the office is clean. This sequence lets help be genuinely useful without rewriting the original preference as insincere."
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 67,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 68,
+      "line_sha256": "d855cd2ea7cb8e3543c7b92b6b33b3152ed51924a1395d39a0529e4a7fe8cbd4",
+      "line_text": "10088:003 closes a compliment topic while later choosing appropriate attire for a rare dinner occasion. Those are compatible decisions.10088:005 says the clothes themselves are not disliked even though she thought them unsuitable, and chooses to trust the adult's prior approval. The choice is represented as her decision under uncertainty. It is not evidence that every earlier objection to cute teasing was meaningless or that praise grants permanent permission to keep discussing her appearance."
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 69,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 70,
+      "line_sha256": "f59eaeb5de1dcda22e606d6b9285671b193b05894ef67943c5f6e8c30dc6854b",
+      "line_text": "Disclosure likewise stops at an actual boundary. Whole MomoTalk100880160 begins with a request for time and a wanted return of earlier help. The final addition is introduced, questioned and then deliberately postponed to later; no further content is supplied. The analyst cannot decide it is a confession, reconstruct a second dinner or grant the adult a later answer that is not printed. A significant withheld remark can remain significant as withholding."
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 71,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 72,
+      "line_sha256": "d8eae4f57533c044a71a7ac8725e269b60aa1a8b62b6b0e9dc10c5bdf22937d7",
+      "line_text": "10088:002's quiet-company reflections and13005:006's rain passages retain narration/log, timing and inner alternatives rather than being expanded into an invented public transcript. She can say connectedness is not so unwelcome now, tentatively allow accompaniment, predict the adult would not heed a stopping attempt and value selective company. Those local formulations are not a universal intimacy contract, permanent dependency or an exhaustive account of what she tells peers."
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 73,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 74,
+      "line_sha256": "2d357d0c84ff10886f14ef1a11cabf514c430d3a35476983b2f97eb64f752eb8",
+      "line_text": "New Year10064:003's tentative report that music once may have blocked unwanted noise before PS68 remains unidentified and hedged. Saying PS68's noise is not disliked supplies chosen belonging; it does not identify a previous institution, criminal affiliation, diagnosis or recovery mechanism. Private access broadens the person rather than explaining her through a guessed trauma history. Keeping that unknown is part of respecting the actual source."
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 75,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 76,
+      "line_sha256": "85321492ba829c83c874f8f09a46189e56a8c97cd09161fad3e006e0e57f76d5",
+      "line_text": "## 4. School and club belonging: practical work does not make her the company's unerring conscience"
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 77,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 78,
+      "line_sha256": "722d864ee232ca34de2ddacce7879cd1cd5e1683e2dabb78fbb1b27bd431c732",
+      "line_text": "Gehenna is a context in which others interpret Kayoko, not a rule that settles her preferences. The quiet jazz encounter directly corrects the assumption that a student from that school must listen only to extreme music. The shop scene similarly resists an inference from appearance to underworld identity. These corrections matter because affiliation and appearance otherwise become substitutes for attending to what this particular person wants. They do not establish that all school judgments are harmless, or that she has no institutional constraints. [13005:008u0012–0015;10064:002;private145–158.]"
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 79,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 80,
+      "line_sha256": "c31647d6b5e7ad8ed78891953cedcc6089e48904da69f49b0c50599a1608cf29",
+      "line_text": "PS68 is a chosen, noisy place with work, uneven restraint and material costs. Kayoko's cleaning report says Aru and Haruka sometimes tidy their own things; the actual early cleanup is her present labor after a reported late commission. She can acknowledge faster group work while preferring not to mobilize others. That preference does not allocate all office maintenance to her or establish that other members refuse it. When she assigns the adult heavy loads and they finish, the local workplace has improved through cooperation without a complete labor or finance audit. [13005:003u0013–0022.]"
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 81,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 82,
+      "line_sha256": "ac1380d026aeb56dc52e71ac83226e374e7c9873ea17b284e3c57e95a681dacf",
+      "line_text": "MINI70015030 gives belonging a public institutional edge. Kayoko presents PS68 as a registered business but not an approved club; the statement's legal breadth remains her situated report. Ako's conditional accommodation, Aru's refusal to supply an address and the unfinished storm do not become an enduring institutional settlement. The desk ritual can be declined, and the refusal is accepted without a delivered desk. Kayoko's sense of chosen company belongs beside these unsettled forms rather than serving as proof that every requirement has been met. The child Ibuki's independent wants and finger promise remain separate from Kayoko's affiliation. [MINI32§14,70015030.]"
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 83,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 84,
+      "line_sha256": "19fff4579c0fe8a19be68b9f8203e07eb70f0b5e8e290585c35b9a25343d9831",
+      "line_text": "Her reservations can be useful without controlling her colleagues. GROUP2201 retains early doubt, objections and avoidance, but also escalation, eleven actor seams and secure Aru retaliation commands. It ends in actual flight, not an adjudicated conviction or complete repair of harm. The restaurant demolition in MainV001 likewise occurs despite a repertoire of risk monitoring; Haruka's uncommanded act and Aru's later ratification are distinct from a Kayoko order. Calling Kayoko the rational member is at most a comparative tendency under these conditions. Calling her an infallible moral brake is contradicted by what the company actually does. [GROUP2201;MainV001C001E017–020.]"
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 85,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 86,
+      "line_sha256": "1d2dd3ff723202823ccdabb7a649d8e26c89e6115183e9951790e9a88063cd76",
+      "line_text": "GROUP1901–1902 supplies another important limit: forged-notice failure and Kayoko's sigh occur within Ako's report layer. This can inform how the company is represented by a prefect, but it does not put Kayoko physically at the meeting, identify every forger or complete a legal judgment. Private disclosure about formal places before PS68 cannot be joined to these institutions merely because both passages involve rules and noise. Literary comparison can preserve tensions while leaving an old affiliation unidentified. [GROUP1901–1902;10064:003.]"
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 87,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 88,
+      "line_sha256": "f4fccc267ec46a2f41e564e832e18264c679533cd68e434fb33c9f2797f7162c",
+      "line_text": "Work is not her exhaustive identity. Written dress context explicitly places play after work, and New Year writing gives an album-money tradeoff for the president's smile, concern for Haruka and reluctance beside a nonboredom coda. Those small resource choices help explain what living in this company can mean to her. They do not certify a successful commission, permanent enthusiasm or agreed consent to every leader instruction. The company's separate ensemble and institutional duties remain necessary Phase3 work; this monograph's bounded completion supplies one participant's argument rather than completing those packages."
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 89,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 90,
+      "line_sha256": "287501989eb1422af567a182ffe4c63ca2e83054955c8f492fd337797ef0c7e8",
+      "line_text": "## 5. Ordinary life: taste, failed plans and quiet time have their own analytical ends"
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 91,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 92,
+      "line_sha256": "96088e14090d39ffcb86509197f7e35e25b021749c2c39dba2d821fd1ecfdb57",
+      "line_text": "Music is an object of attention, not merely a coded clue to an otherwise hidden self. Kayoko enjoys an anticipated metal release, distinguishes violent lyrics from her own intent and offers an interpretation of their life lessons. The adult experiences ear discomfort. In the whole message coda, his impact and avant-garde responses are interpreted by her as understanding; the next album remains a conditional offer he will consider. Their contact has occurred, but perfect mutual comprehension has not been demonstrated. The mismatch has equal analytical standing with the more comfortable jazz day. [13005:005;whole associated message coda1049–1063.]"
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 93,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 94,
+      "line_sha256": "8f071be1ce101d9d435c4492a92cebe09675f22cf26927fc555ce5d0341e86dd",
+      "line_text": "13005:008 states a wider criterion: she likes music that has stories or expresses intention. Quiet jazz is therefore not a betrayal of metal taste or evidence that the true Kayoko has finally replaced a false exterior. The adult's unfamiliar recommendation is still an expectation, while the narrator confirms a free day spent enjoying music together. That ending answers the local question of what they did, without resolving all questions of intimacy or cultural agreement. The day deserves to be counted as an ordinary completion in its own right. [13005:008u0009–0021;whole Japanese recovery.]"
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 95,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 96,
+      "line_sha256": "ce98f0be99cc6b184d649621f6cb1d813d44212798fa95207cd28553a585a01d",
+      "line_text": "Event809 makes taste consequential to finite resources: route work, broadcast, the album-directed hope and the lost money coexist. The loss cannot be erased by the pleasure of company or the apparent absurdity of the setting. Event810011 offers a different music-related end. Kayoko is curious about a favorite band's limited Valentine love-song experiment, but no performed song has been heard. A bulky cow-skull chocolate bonus is not wanted less because it is inconvenient; she does not want to discard a favorite-band object and asks the adult to take it. The ending actually transports it to Schale and displays it on a wall. A decorative solution is complete where chocolate consumption is unprinted. [EVENT809;BA:event:810:011:80000011u0025–0028.]"
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 97,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 98,
+      "line_sha256": "381980dad58fe920155a0e6b912a2d3156171d83a3e335fc787149f5247d827d",
+      "line_text": "The Valentine denial remains part of the scene rather than a challenge for the analyst to defeat. She knows the date and denies special meaning. The band's experiment, the gift object's bulk and the actual display all supply intelligible reasons for the encounter without requiring a secret romance. The source's single/album wording and Japanese/Korean differences remain attributed wording limits; they do not authenticate a discography or identify this release with the Event809 album. A small aesthetic possession can matter without being made evidence of an unstated relationship category."
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 99,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 100,
+      "line_sha256": "a003413bda7b82ecf579891026444bba101818d447f3c8b4f64eed4d2c1d8291",
+      "line_text": "Seasonal recreation also includes genuine failure. The bell event she researched is canceled. Overnight talk and shared sleep after return to Schale are positive continuations, but the wanted bell has not sounded in the narrative. That distinction lets the failed plan and the chosen continuation both retain their force. The amulet outing similarly has an actual shopping continuation after her more-than-ten-minute absence and securely named affectionate cat speech. The earlier unidentified cat voice is not joined to her, the cats are not identified with the absent rain-alley animal, and the drink explanation does not certify intoxication. [10064:003u0026–0065;10064:005u0020–0044.]"
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 101,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 102,
+      "line_sha256": "13a07d53030031aa708308579f785f2cac2c2e5736fa954bb87ff513237b4fe9",
+      "line_text": "Clothes and rest preserve equally small choices. She rejects exposure, gaudy motifs and armor in favor of an understated black design she likes; declining to show it immediately is a timing decision. The later concert is wanted and enjoyed even though its intensity was unexpected. Her concern for the adult's still-tired appearance produces a request to rest, not a printed completed rest. Dress10088:002 then gives calm silence and a little-more-time request. Quiet companionship, music, clothing preparation and a canceled outing are analytically worth retaining because they are ways she wants to live. None needs a crisis payoff to earn inclusion."
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 103,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 104,
+      "line_sha256": "5ddfe5408a7796d525049373de2f5e3248f418f6530ab3397f75a147408ea086",
+      "line_text": "## 6. Crisis and adverse work: local competence, coercion and care remain distinguishable"
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 105,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 106,
+      "line_sha256": "c94b231004f48d7b8ffb448ca75f152df2af5a84cd20057cee97187c03b6fc8a",
+      "line_text": "Kayoko's crisis competence is specific and often distributed. MainV001C002 gives actionable strategic decomposition within a collective intervention; it does not assign every idea or successful action to her. FinalC004E004 is especially clear about distributed causation: east and west release devices are destroyed, the lower terminal is struck, Chihiro reports disconnection, Kayoko confirms and Rio reports stable suppression. The local terminal cut and ship/Ark severance succeed through convergent operational reports. Kayoko's confirmation is a real role in that success, but it is not the finishing shot, an empirical test of every subsystem or proof of final escape. [BA:main:100:004:004u0011–0047.]"
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 107,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 108,
+      "line_sha256": "787578f4b200b66bf2791c5015d0d1ff14698a29bd225179ebe8a875e68449f6",
+      "line_text": "Event823003 supplies a different kind of useful action. Its F15–F18 sequence retains unstable communication, reported energy expenditure and an unfinished escape construction; capacity twenty-three is a reported figure, not a recovered complete passenger roster. In F19–F21, Ako's trapped foot elicits offered and exerted help, thanks and a wish to meet later. Kayoko's explicit Ako-escape report and the local teleport association support a positive escape boundary; Yuuka's report that two have escaped keeps the supplied language difference concerning safely. They do not establish everyone's durable safety or an actual later reunion. [BA:event:823:003,F15–F21,raw6704–6838.]"
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 109,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 110,
+      "line_sha256": "8d99d1b2a7f988e4afa5d14630a504e5ecc3e38c86fb108f7cff2e5726c41861",
+      "line_text": "Ako is consequently more than the institution that can trouble a Gehenna student. Her present impediment, thanks and future wish make her an independent recipient. Kayoko's help can be completed at the local action level while the global mechanism remains unfinished. This is stronger than treating all crisis words as mere plans, but narrower than a full evacuation audit. The distinction is consequential to the character: care is visible as action directed toward a particular peer under pressure, not a generic claim that Kayoko can always save others."
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 111,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 112,
+      "line_sha256": "59a20aefce151de561af15890d5fcf8cdb7e4b04e876ec0608aeced197112f7b",
+      "line_text": "Event834 prevents that positive account from becoming absolution. In episode005, the Agent B threat and silencer/fall sequence raises an adverse silencing concern. The earlier Agent A sequence has a different actor and condition; it cannot supply guaranteed unconsciousness for Agent B. Neither the possibility of risk nor the farcical presentation proves a clinical injury or a legal offense, but the method remains a real contrary case to an uncomplicated caretaker reading. Correct scene separation preserves the ethical question rather than deleting it. [BA:event:834:005u0060–0061;Agent A earlieru0039.]"
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 113,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 114,
+      "line_sha256": "7aaf4da06b3e60aa6f276d611d7e2d881c092936cf05e67923016b4dece0426e",
+      "line_text": "Her operational caution there is also fallible. Face comparison and checks of a compromised list remain incomplete; a warning or hunch is not omniscience. Episode009 names Saori, identifies Arius work and recalls prior contact, but knowledge of work does not establish that the present job is fully safe. The ending's cooperation with Saori is real, and Kayoko's objection when exploitation is treated as ordinary is significant. Neither retroactively prevents the earlier coercive act, pays the remaining balance or restores every affected person. [EVENT834E006–009;E015u0031,0043–0045.]"
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 115,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 116,
+      "line_sha256": "9816e94f07807dc4e021a62dbc5a453f2f7dcb08213a4a9b183fae21b4940d12",
+      "line_text": "These crisis scenes strengthen the central thesis through difference. The person who monitors risk, confirms a technical result, gives physical help and objects to exploitation can still be an agent in troubling work. Concern is not a universal guarantee of means. A sound synthesis therefore keeps competence, limits, recipient benefit, adverse methods and unfinished aftercare in separate claims. Their coexistence is the argument, not a deficiency to be repaired by making her wholly good or wholly detached."
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 117,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 118,
+      "line_sha256": "f53cba91bb8e10e5cb472d5f409ca21d7459367d757435ac44b43fcc87296708",
+      "line_text": "## 7. Sensei relationship: useful support must still answer the student's terms"
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 119,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 120,
+      "line_sha256": "9d3adb6ce235a400405b8a560442cd216703270d24edceade3644072d5a97701",
+      "line_text": "Sensei's support has concrete positives. Advocacy and escort in13005:002 answer a situated problem; actual joint cleaning in13005:003 and shared music in13005:008 are completed cooperative ends. Dress10088:003's document search and receipt occur with Kayoko's explicit entry permission. Quiet company in10088:002 is recipient-specific, and the bell trip's continuation ends in actual shared sleep. These are adequate literary outcomes without an inference of permanent office access, residence, cure or an exclusive bond. They show why she can want this adult's company."
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 121,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 122,
+      "line_sha256": "cbb55e741aa0f74e0038968c891f26bd3a8eb61cc379d60d71fac27a87acbbc3",
+      "line_text": "The adult is also correctable. He forgets her umbrella advice, makes school/genre assumptions, offers help despite her initially stated wish to clean alone and deploys adult-role persuasion after a dinner refusal. Kayoko's objections are printed as objections. Later acceptance is not a license to treat them as empty ritual, and narrated convenience does not establish that every pressure was welcome. His possible late-arrival effect on the canceled bell plan remains his own counterfactual. These limits leave the support meaningful while preventing adult infallibility. [13005:003/006/008;10064:003;10088:003.]"
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 123,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 124,
+      "line_sha256": "e6583d7051c0d36e63d9ad38a0fe2c942389b35cd93a79dadd4006577ca9758e",
+      "line_text": "10088:005's repayment offer makes the relationship's asymmetry an explicit object of negotiation. Both alternative adult replies make the adult the sole provider, and both are met by a literal no. She argues that her own purchase matters, then mirrors the earlier adult/student-role rhetoric to secure what she reads as acceptance. This is a claim to give, not proof that she is unable to receive. It also supplies a contrary case to a rule that care is ethical only when money always travels one way. The meeting and payment remain unprinted, so the source completes her articulated and locally accepted intention, not a financial transfer. [BA:bond:10088:005u0034–0048;whole Japanese recovery.]"
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 125,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 126,
+      "line_sha256": "e70deffe8d868e142e58c24bf13f463ec6de7f4d4b0f2e587fff6e11fe2459d8",
+      "line_text": "The role language is thus contested by its recipient. Kayoko asks that adult persuasion not be overused, then adapts it herself. Her answer need not validate the tactic as a universal institutional rule. It shows that she can interpret the relationship's terms and request an exception, while the adult's original line remains open to ethical criticism. Reading her only as grateful would hide this authored return; reading her only as resistant would hide the chosen praise trust and desired dinner."
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 127,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 128,
+      "line_sha256": "4ec9fa847f13b5432f7bffe7b949870bb2cbd9665067c940c8e0c0c2a46e6e48",
+      "line_text": "Alternative choices and inner forms are consequential. The dress002 message coda gives call/secrecy promises on different routes, not every promise in one conversation.13005:008's genre question and10088:005's affirmation include canonical inner mode; their conversational function does not convert them into a guaranteed public transcript. The dress005 whole coda actually withholds an addition after the adult asks. Reader curiosity supplies no permission to reconstruct its content. No relationship endpoint requires a hidden confession to make the existing company and trust matter."
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 129,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 130,
+      "line_sha256": "2bc5f3cd593e71c43042ecb89a07ef46509b4cfe07ca0bd33dfaf751819a2aa6",
+      "line_text": "13005:006 also distinguishes tentative permission, a recommendation to wait, prediction that stopping would not work and resigned do-as-you-like. This is a mixed local response, not universal consent to following or restricting her. Her wish for tomorrow's umbrella return and present not-so-unwelcome connectedness remain prospective and situated. Good adult support in this source world must be read through the actual recipient, timing, information and room to decline. This character argument supplies evidence for that ethical question; the required wider Sensei and directed relationship packages remain distinct Phase3 responsibilities."
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 131,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 132,
+      "line_sha256": "c82bdcc9637c84e7d8e0f22ca5ace786891355671949ad11a3306ffbfd6a543f",
+      "line_text": "## 8. Peers and directed relations: belonging is not the cancellation of another person's agency"
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 133,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 134,
+      "line_sha256": "f41276e678adc793cb3692fe15bdf2a569a95628e122519402d0fb9a3c5a3211",
+      "line_text": "Aru is both president and an independent actor whose aspirations, decisions and mistakes affect Kayoko. Kayoko's strategic support does not make her the hidden author of Aru's retaliation, post hoc demolition approval or refusal to provide an address. Conversely, her reservations are not all secretly aimed at removing Aru from leadership. The New Year written album-money tradeoff for the president's smile and the noise-not-disliked reflection give a reason to value this imperfect company. Their directed questions concern wanted loyalty, labor, advice and ineffective restraint. They do not become an exhaustive dyadic history through shared affiliation alone. [MainV001;GROUP2201;10064:003;written costume1900912001.]"
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 135,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 136,
+      "line_sha256": "fdb4f14cf2ffe9f64693f2cb46dcad274e30868c3fee9c4c9f17f481020f5898",
+      "line_text": "Mutsuki supplies a different relation: spontaneity and escalation can be useful or costly to colleagues, and Kayoko's reservations do not disarm them by definition. GROUP2201's proposal and brake belong beside the company's eventual flight. Event834's list alteration remains Mutsuki's reported action, not every forged entry's authenticated origin, while Kayoko's checking is still incomplete. MINI70015030's unconventional office ritual can be declined rather than delivered. The right to take part selectively is a positive feature of belonging, not evidence that she has ceased to belong. No shared cast list is treated as a completed Kayoko–Mutsuki relationship package."
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 137,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 138,
+      "line_sha256": "0e4851829817ad5e59871e1aeb80c97508cd70171e430a1662adce8d2ba2edb1",
+      "line_text": "Haruka likewise has independently authored acts and fears. Her restaurant demolition is uncommanded, with Aru's later approval separate; Kayoko's role cannot absorb its culpability by presumed supervisory responsibility. The private cleaning report says Haruka sometimes tidies her own things, and written New Year context gives concern for her rather than a certified account of all labor. MINI70013020's garden, bullying, nickname hurt and apology involve different participants' initiatives; they are not evidence that Kayoko caused a recovery whenever present in the ensemble. The company's chosen noise can include concern and friction without a finished repair for everyone."
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 139,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 140,
+      "line_sha256": "cee80dcdf51df3eb86fda0d79d6dc9896c099a4b8ec9b525923ace561e675aa0",
+      "line_text": "Saori is an independent worker whose vulnerability to exploitation and skill matter beyond a comparison with PS68. Event834009 gives Kayoko's named recognition and prior-contact statement. The ending gives cooperation, Saori's expressed view of the company and Kayoko's objection to normalizing exploitation. Saori's praise is attributed judgment, not an impartial ethical certificate for PS68. Her safer escape and the remaining unpaid balance remain distinct outcomes. This directed comparison can support further analysis of work, trust and mutual help while retaining the adverse methods and uncompleted wage questions. [EVENT834E009;E015u0019,0026,0031,0043–0045.]"
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 141,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 142,
+      "line_sha256": "234400384958d607a630abf5e56e30d012d60cedf45389bad8cd77947328819e",
+      "line_text": "Ako's rescue scene is distinct again. The prefect who can represent an institutional complication is presently trapped and asks through an impeded situation; Kayoko offers and exerts help, Ako thanks her and wants a later meeting. The local escape reports are stronger than an unfulfilled wish, but the future meeting remains unprinted. Their encounter cannot be reduced to predictable school antagonism or used to erase the institutional asymmetry. This particular act deserves a directed relationship question at its actual scope. [EVENT823003F19–F21.]"
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 143,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 144,
+      "line_sha256": "28352401f6791e2fb2763ef2c782c6837b56ec7f7ef801ed3605eeb9eb7161d4",
+      "line_text": "Other recipients remain people or local roles, not props for a gentle-side revelation. Ibuki wants play and snacks, declines escort and receives a promise whose ten puddings are not delivered. The adult experiences actual ear discomfort and tiredness. Police, a caretaker, a merchant and cats retain local identity and actor-seam limits. Agent B is the recipient of a threatening silencing sequence, not a narrative obstacle whose fall automatically proves that no harm matters. Keeping adverse as well as affectionate recipients independent is essential to judging Kayoko's selective connection."
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 145,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 146,
+      "line_sha256": "db5b2502ca6ccd631d3f1e489756b6d1fcca433cc0a55145e0773a80b87ae417",
+      "line_text": "## 9. Written register and source form: restraint is textual evidence; performed voice remains unreceived"
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 147,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 148,
+      "line_sha256": "dbb27ffe99194df4691cd7cc1c408fd4e6ec16a312aa5a734640d68745209a54",
+      "line_text": "Kayoko's written register repeatedly uses short refusals, qualified permission, timing reservations and practical debt language. The private source also supplies tentative expressions about the past, ordinary enthusiasm, affectionate cat speech, a music criterion and mirrored adult/student-role persuasion. These are different textual actions. Shortness is not itself emotional absence, and hesitation is not itself concealed consent. The literal no in dress005 is stronger than a reader's guess that gratitude will eventually win, while the chosen trust in the same encounter is stronger than a guess that every compliment remains unwelcome."
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 149,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 150,
+      "line_sha256": "69e7ab01bcd04bf60410f61e23bd4f714d471e417d6ad4ff7fcb93e5cebf383d",
+      "line_text": "The complete private account preserves forty-six formal groups and sixty-seven options, thirty-three MomoTalk Answer records in twenty-three groups and thirteen additional raw paired inner records. Six utterance-layer location records are canonical location headings rather than missing dialogue. Four actor seams remain: the New Year clothing clerk-like row and three temple/travel-context rows. Duplicate conditional responses are not repeated lived acts; inner/log and timing-tagged narrator forms are not repaired into a more convenient public transcript. The new specific recovery inspects actual numbered scope separately rather than changing the inherited producer census. [private139–158;receipt new primary scopes.]"
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 151,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 152,
+      "line_sha256": "c3d6e79d31e5693050b22ca3d8a83bc0bae4cabf17767f80286dd34d8a966d9d",
+      "line_text": "The written inventory is three complete profiles and two hundred forty contextual records, including one blank ordinary title. Editorial nonmalice, music collecting, PS68 role and appearance interpretation are source statements with their own function. They do not acquit every adverse act in admitted public stories. Café wishes, privacy requests, refusals of cute teasing, gift-return concern and occasional dress frequency extend the ordinary repertoire. A voiced worry that she may not return everything is not a prediction of permanent incapacity. Neither contextual work-after-reply timing nor a weapon description completes a clinical or technical audit. [private143,194–198.]"
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 153,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 154,
+      "line_sha256": "288a1d6de07ad1b4b75c00816fbb884fe7d9df80c71eb253c42aee7ec2d5fc4d",
+      "line_text": "All one hundred twenty costume records preserve event forms, gates and repeats. New Year809/10809 keeps Day6/13/Close distinctions; dress834 Day6/13 differs from repeat10834 Day3/5. Archive pools omit gated blocks. Their thanks, mission statements and rewards supply written context rather than proof that an entire event happened again or that every resolution was achieved. The dress line allowing teasing while asking it to stop now is especially resistant to permanent permission. Play after work is a stated ordinary end, not a promise that work never imposes cost."
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 155,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 156,
+      "line_sha256": "010557c63194d3240c4c1102e85346fefecc1058680bc9b03ac2dab65372bff0",
+      "line_text": "The relevant voice question here concerns written Japanese address, syntax, alternatives and source labels. Performed delivery, audio timing, image pixels, facial gesture and voice acting have not been inspected. The band material likewise does not admit performed music or a release catalogue. Literary conclusions can be adequately grounded in this written corpus; stronger claims about tone, gesture or acted emotion require different evidence. A future performance investigation would be a distinct evidence addition, not credit retroactively owed to the present monograph."
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 157,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 158,
+      "line_sha256": "2d9a046c40a90d6daabb40e152c93273521447fbb6829913b89979b19f51e551",
+      "line_text": "## 10. Competing readings and decisive limits"
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 159,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 160,
+      "line_sha256": "11480edfc4dadcb16a83a3a4a4a47cc621e92a0943dc10a963065fa839a80d05",
+      "line_text": "**The infallible adult of the company.** Risk monitoring, strategic decomposition, careful checking and objections strongly support a comparative competence reading. Actual cleaning, document finding, local technical confirmation and help for Ako give more than a stereotype of maturity. Against an infallibility claim stand failed bell research, incomplete list checks, ineffective restraint of peers, the group's flight and the adverse Agent B silencing sequence. The retained conclusion is practical competence with fallibility and costs. It neither distributes every colleague's act to Kayoko nor releases her from her own methods."
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 161,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 162,
+      "line_sha256": "a9e0b108e4c2870404c36994bb044f18da48e499f2a50778f8a0d2346ce562cc",
+      "line_text": "**The secretly gentle person beneath a threatening exterior.** Police and merchant misinterpretations, cat affection, music excitement and quiet company provide strong evidence that appearance does not settle character. Against the hidden-true-self version are explicit ordinary preferences that need no concealment, selectively maintained privacy and admitted troubling work. The actual cat speech and shopping matter without a diagnostic reveal, and the silhouette of an intimidating person cannot be replaced by an equally total image of innocence. Gentle actions are real parts of a wider repertoire."
+    },
+    {
+      "frozen_line": 149,
+      "canonical_line": 163,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 164,
+      "line_sha256": "55ce5b975d164a19cb7312e438daece36defc53c73f343b686fd305d32792ff3",
+      "line_text": "**A detached professional who only tolerates others.** Her initial business privacy, solo-cleaning preference, terse refusals and timing reservations make this a serious reading of particular scenes. Its total form fails at her own invitations, little-more-time request, deliberate trust, wanted return and the claim that PS68's noise is not disliked. Actual shared work and leisure contradict mere toleration as a universal explanation. Selective connection accounts for both the boundary and the positive choice without asserting that all company is equally welcome."
+    },
+    {
+      "frozen_line": 151,
+      "canonical_line": 165,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 152,
+      "canonical_line": 166,
+      "line_sha256": "f3769826e7418f44751fdef32cfa170ec091e29e3b85dc8b3124db1c381a72f2",
+      "line_text": "**The adult fixes loneliness and teaches her to accept care.** Shared calm, encouragement, advocacy and useful offers support a local account of benefit. But13005:003 begins with a preference and objections,10088:003 warns against overused persuasion,10088:005 refuses sole-provider rules and the withheld message gives no completed disclosure. Her stated wishes and recipient-specific choices cannot be converted into inability, diagnosis or inevitable romance. The better bounded account gives useful support and a student who helps define it, including her wanted ability to provide in return."
+    },
+    {
+      "frozen_line": 153,
+      "canonical_line": 167,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 154,
+      "canonical_line": 168,
+      "line_sha256": "4741912b0dc8272c8bc9b0a856c0beab037de8e3d78f6e8860cdd4a87849420b",
+      "line_text": "**Ordinary preferences are filler beside crisis competence.** This reading selects the loudest outcomes and loses the actual music day, canceled bell, modest clothing choice, wall display and quiet sunset. Those encounters explain what she values and how she sets terms in ways combat coordination alone cannot supply. Crisis stakes are useful for allocation, but they are not an evidentiary quality threshold. A printed small completion can be stronger for a particular character claim than a spectacular reported result. Serious contrary evidence remains included rather than being discarded under either priority rule."
+    },
+    {
+      "frozen_line": 155,
+      "canonical_line": 169,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 156,
+      "canonical_line": 170,
+      "line_sha256": "c41bda416ee0f6930593138c69a772a0b780369eb61af1b1432dbab8e01906b7",
+      "line_text": "The preferred thesis wins through these comparisons, not by making every uncertainty irrelevant. It explains wanted company and literal refusal together; it handles completed practical help without guaranteeing future payment; it permits criticism of coercion without erasing music or affection. A later fully admitted source could revise the allocation of acts, identify an earlier institution or print the pending treat and addition. None may be presumed now merely because a later resolution would make the story smoother."
+    },
+    {
+      "frozen_line": 157,
+      "canonical_line": 171,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 158,
+      "canonical_line": 172,
+      "line_sha256": "729cd756b5706b91834ac5608d5bcddbb038297ea4c2ae20f3f4fe42c28d8a9d",
+      "line_text": "## 11. Evidence boundary and fourteen open gaps"
+    },
+    {
+      "frozen_line": 159,
+      "canonical_line": 173,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 160,
+      "canonical_line": 174,
+      "line_sha256": "b1a3b6e1c121bc58e549984b7c1db63471284d227087179c6b6bfd8ab338145f",
+      "line_text": "The receipt binds twenty-nine selected private objects and the complete maintained private argument, the actual complete public arguments reused, four fresh complete accepted arguments and three necessary Japanese recoveries. The new recoveries cover ordinary jazz008, dress005 and its whole associated MomoTalk; they resolve the stated music criterion, actual shared day, chosen praise trust, literal reciprocal refusal and withheld addition. They do not supply new written-resource, audiovisual or unselected public-primary credit. Prior census acceptance and source rosters are retrieval custody; mature prose and whole saved receiving are recorded separately."
+    },
+    {
+      "frozen_line": 161,
+      "canonical_line": 175,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 162,
+      "canonical_line": 176,
+      "line_sha256": "86be399c5d9832d246ef0f1ce6a6037a96a1d4641478557e1ffe184cde1e7ba2",
+      "line_text": "| Gap | Present positive claim and specific remaining limit |"
+    },
+    {
+      "frozen_line": 163,
+      "canonical_line": 177,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 164,
+      "canonical_line": 178,
+      "line_sha256": "5058413dcdb377b11d93b76de2af9d9778b4b73443348ad0c5e69728a18fc722",
+      "line_text": "| G01 ordinary/private breadth | Twelve BOND, twelve whole messages and five written contexts give complete selected Kayoko breadth. Actual clean office, music day, document receipt, shared sleep, shopping and calm survive. Future umbrella return, reciprocal dinner/payment and deferred addition remain unprinted; no total reconstruction follows. |"
+    },
+    {
+      "frozen_line": 165,
+      "canonical_line": 179,
+      "line_sha256": "b4631164bdf89a0a2f8a87522b50a2ea6837d1b85eddb2dda074d068bf45f102",
+      "line_text": "| G02 Yuuka comparison | Dress role language and wanted provision provide a situated comparison with responsibility and asymmetric care. Yuuka's separate full package and all relevant directed institutional questions are not completed by this analogy. |"
+    },
+    {
+      "frozen_line": 166,
+      "canonical_line": 180,
+      "line_sha256": "d6844f4ce32ff75c6d3a2247e31c9dfbe640659a38be8482828e10e00fc3ae00",
+      "line_text": "| G03 Serika comparison | Event809 lost funds and material music hopes support a resource/care comparison. They do not restore Serika's wages, authenticate shared finance or equate the students' motives. |"
+    },
+    {
+      "frozen_line": 167,
+      "canonical_line": 181,
+      "line_sha256": "1ee2ea78c9698c3e64e9d1258df518890d307359acfb525cfc98526d71a730e8",
+      "line_text": "| G04 Hina comparison | Gehenna stereotypes and written work/play reservations complicate a duty-only account. They do not prove a Kayoko–Hina encounter, shared history or a complete Gehenna leadership analysis. |"
+    },
+    {
+      "frozen_line": 168,
+      "canonical_line": 182,
+      "line_sha256": "51c17cef5cb21093d4eb6b90320ffa6c40daa53316b79aa162c3e8863d2f84da",
+      "line_text": "| G05 Arius/PS68 | Event834 names Saori, supports cooperation and retains an exploitation objection. Threatening means, unpaid balance and unfinished aftercare remain; Saori's attributed praise cannot absolve the company. The separate required PS68 ensemble and directed packages remain due. |"
+    },
+    {
+      "frozen_line": 169,
+      "canonical_line": 183,
+      "line_sha256": "ae11bc1d8ed8893365ccbfb81287b070fe02764c57c6f29076e032d1a8b66382",
+      "line_text": "| G06 cross-school breadth | Main, Final, Ako help and Ibuki/company contexts give actual situated crossings. Shared routes and geographic contact alone do not create exhaustive dyads, full rosters or global institutions. |"
+    },
+    {
+      "frozen_line": 170,
+      "canonical_line": 184,
+      "line_sha256": "1013937828f281f0e9eef1f6837a3f9e074bea45b1933f887a8a659461aa7be8",
+      "line_text": "| G07 chronology | Whole message links, remembered prior words/dinner and explicit local continuations give relative relations. Outfit order, releases and former-place hints do not provide a global year, Main placement or inevitable progressive openness. |"
+    },
+    {
+      "frozen_line": 171,
+      "canonical_line": 185,
+      "line_sha256": "a19dc93f67b40b287f5893db3557afb8764c08c9a9bcc4a2503d8fd20cdcda85",
+      "line_text": "| G08 events and local identity | Music-object, Event809/810 and823/834 outcomes stay source-local; written809/10809 and834/10834 gates remain distinct. No discography, common album identity, full twenty-three-person escape roster or repeated lived event is recovered. |"
+    },
+    {
+      "frozen_line": 172,
+      "canonical_line": 186,
+      "line_sha256": "13da6385da538120980e5181ee0ac3ca7934e2e41106329b3215ac458f71d229",
+      "line_text": "| G09 speakers and alternatives | Six location records, thirteen raw inner pairs, four actor seams, formal options and whole withholding codas are retained. Merchant-like wording is not silently reassigned; alternatives are not all performed, and inner text is not guaranteed peer knowledge. |"
+    },
+    {
+      "frozen_line": 173,
+      "canonical_line": 187,
+      "line_sha256": "068e4e39360f657c356a97844d6f5a438064056390240b120bf22963cc7a295d",
+      "line_text": "| G10 audiovisual | Written Japanese and record modes are received. Audio, acting, timing, pixels and performed music remain unreceived; no claim of voiced emotion or gesture is necessary to this bounded thesis. |"
+    },
+    {
+      "frozen_line": 174,
+      "canonical_line": 188,
+      "line_sha256": "1e1d4de23484ca1667b423ee23a3355c768d694696af531d2bab4bf5bb1a7cb3",
+      "line_text": "| G11 records and offices | Local cleaning and document receipt are actual; permission applies to the scene. Complete provenance, finance, wages, durable access and the wider Schale/Yume office-history questions remain separate. |"
+    },
+    {
+      "frozen_line": 175,
+      "canonical_line": 189,
+      "line_sha256": "ab5f843824aed4b2a9eb4dae56bfcfe2d6fc07bac482a2d32f7afaba7c986deb",
+      "line_text": "| G12 identity and variants | Kayoko13005/10064/10088 and two costume routes are positively joined within the selected family. Police, caretaker, merchant, unknown cat voice, distinct cats and unidentified prior affiliations remain unjoined; no psychological or chronological transfer is presumed across outfits. |"
+    },
+    {
+      "frozen_line": 176,
+      "canonical_line": 190,
+      "line_sha256": "d3585142f27b041cad88aa512fe1e6b1050906ef6f718c9c9082061642e61f73",
+      "line_text": "| G13 technical, legal and clinical | Convergent reports establish a local terminal cut and link severance; scoped help/escape and police advocacy are real. Full engine/backup status, final evacuation, conviction/acquittal, Agent B injury, cat health, drink chemistry and lasting recovery are unverified where unprinted. |"
+    },
+    {
+      "frozen_line": 177,
+      "canonical_line": 191,
+      "line_sha256": "44f5b57975c968761b200a075574a3214f836ef7e7714d5bfe0a6c35aec1925b",
+      "line_text": "| G14 source modes and admission | Maintained Cycle008 admission controls historical proposed/UNADMITTED wrappers. Report, narration, inward text, wish, menu and contextual writing remain distinct. No special-operation/unclassified pool is selected for Kayoko in the dispatch; no claim of global source absence or automatic new admission follows. |"
+    },
+    {
+      "frozen_line": 178,
+      "canonical_line": 192,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 179,
+      "canonical_line": 193,
+      "line_sha256": "8a92bdae0520b8273c2456d57e27d686a511ad292b287f306efc5fb5301f0fce",
+      "line_text": "All fourteen gaps remain OPEN. The remaining gaps constrain stronger claims rather than canceling the completed bounded literary argument. A performance account, total chronology, clinical model or comprehensive legal/technical outcome claim would need further evidence and separate authorization through the architecture. The monograph itself has no unresolved mandatory ambiguity in the consequential claims it actually makes: precise recoveries retain the positive small endings and literal limits instead of substituting guessed outcomes."
+    },
+    {
+      "frozen_line": 180,
+      "canonical_line": 194,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        3
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: character_monograph_candidate"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        11,
+        11
+      ],
+      "canonical_lines": [
+        10,
+        9
+      ],
+      "frozen_text": [
+        "generation: \"BA_REFRESH_20260928T032248159554Z\""
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        13,
+        13
+      ],
+      "canonical_lines": [
+        11,
+        10
+      ],
+      "frozen_text": [
+        "status: \"LOCAL_CANDIDATE; ROOT whole receiving and canonical adoption pending\""
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        16,
+        15
+      ],
+      "canonical_lines": [
+        13,
+        27
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "source_generation: BA_REFRESH_20260928T032248159554Z",
+        "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+        "source_boundary: \"Accepted textual analytical meanings at main2e2018d0d62d91e3e0a5e7681f72a31cec08e02c, with qualified historical c1f14d5120c29209ca571fea8d7cfbe111076ec5 and original earlier MAIN producer pins retained at their declared scopes; current scope control355/29; performed material unreceived\"",
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYOKO_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        19,
+        18
+      ],
+      "canonical_lines": [
+        31,
+        32
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KAYOKO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KAYOKO_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Source publication, main integration, separately required directed/institutional packages and full eligible-cast completion remain separate."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        181,
+        181
+      ],
+      "canonical_lines": [
+        195,
+        195
+      ],
+      "frozen_text": [
+        "On independent ROOT whole receiving and exact verification, this candidate can supply the required bounded Kayoko character home with limits. That is a completion decision for one literary monograph, not a completed full-cast Phase3 denominator or milestone. Required directed relationships, PS68 ensemble/institutional synthesis, Sensei ethics and written-register specialists remain separate work under the current allocation. No standalone empirical person model, frozen analytical prediction, diagnostic success, performance credit or publication is claimed: the sources were exposed before this synthesis, so NO_DIAGNOSTIC_OPPORTUNITY remains literal."
+      ],
+      "canonical_text": [
+        "After independent whole receiving and exact verification, ROOT accepted this monograph as the required bounded Kayoko character home with limits. That is a completion decision for one literary monograph, not a completed full-cast Phase3 denominator or milestone. Required directed relationships, PS68 ensemble/institutional synthesis, Sensei ethics and written-register specialists remain separate work under the current allocation. No standalone empirical person model, frozen analytical prediction, diagnostic success, performance credit or publication is claimed: the sources were exposed before this synthesis, so NO_DIAGNOSTIC_OPPORTUNITY remains literal."
+      ]
+    }
+  ],
+  "source_argument_and_endpoint_credit": "Accepted original literary meanings/endings/recipient bounds and ROOT scopes retain their declared credit. Transport and public framing add zero literary, primary, performed, independent or identity-join credit.",
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "full_required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "no_separate_directed_institution_ensemble_completion": true
+}

@@ -1,0 +1,172 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Ichika",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_ICHIKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 6081,
+    "sha256": "034d3166d4dbe4d472e7a8e36bbe735c8cfd9745aa72c92efebae7c30ff741eb",
+    "git_blob_oid_of_actual_bytes": "2925d98b625143e5f18884b1ef397d9389bd8b09",
+    "lines": 132
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_ICHIKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "22365fc384fde2790e328934511629b4dafb19384002b0fb583bf8781b16be9f",
+    "source_checks": [
+      {
+        "source_id": "C01",
+        "same_main": false,
+        "same_declared_snapshot": true,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286"
+      },
+      {
+        "source_id": "C02",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d"
+      },
+      {
+        "source_id": "C03",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6"
+      },
+      {
+        "source_id": "C04",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac"
+      },
+      {
+        "source_id": "M03",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9"
+      },
+      {
+        "source_id": "F00",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf"
+      },
+      {
+        "source_id": "P01",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "a5ca5b6efb5eaa6e641d2c03a6dad456042e7ea8653238ad08e2af27bd4a2b3a"
+      },
+      {
+        "source_id": "E36",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "221e1398809a988693956548309259d18da8014cdbf69bcd8aac86b49cf30550"
+      },
+      {
+        "source_id": "E48",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "ced089d38e56d2247c67d861caba5401954f42b551fbcb125823f2ca0f76b19f"
+      },
+      {
+        "source_id": "E41",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "1964ab85a295573b91336b3971fa833e63458b881e4391d29891cd0b2cb17b46"
+      },
+      {
+        "source_id": "E30",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "689e38a7fabbaf78f4e35046f41d2d6484d61f801df7bf92e7dc96b3ee2f167f"
+      },
+      {
+        "source_id": "E34",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "ab779ae688f8ced967127a810180613f39b5fc23fd15976bcd2ee3cd0b863ab0"
+      },
+      {
+        "source_id": "L94",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "b4746ab89e5e13fb0650fb48b772c23250222210b8a07634c0517b4550759d42"
+      }
+    ],
+    "exact_saved_claim_paragraphs": 51,
+    "frozen_outputs_verified": 4,
+    "saved_receipt_sha256": "b2a8c13c1e56729cbfb5370b341f5f9788e9c82a29cbb9d128b17478977e97a9",
+    "prior_frozen_outputs_preserved": 48,
+    "root_actual_receiving": {
+      "whole_saved_body": [
+        "1d8024 lines1–77",
+        "89cdfe lines78–160EOF"
+      ],
+      "source_fields": [
+        "b4dc4e all source controls",
+        "450c86 inputs0–6",
+        "99dc86 inputs7–12"
+      ],
+      "claim_fields": [
+        "fb31eb all claim register controls",
+        "e0236c complete claims at saved80/82/94/122; other joined meanings received in full saved body, exact joins independently checked. No whole51-support-row manual receiving claimed."
+      ],
+      "saved_receipt": [
+        "9e2412 initial outputs and source rechecks; middle prior list clipped, no whole424-line credit",
+        "f1e307 complete48 prior output fields repairs clipped custody list",
+        "5ac895 all final saved control fields"
+      ],
+      "additional_accepted_argument_receiving": [
+        "c964f7 historical giftL94 complete substantive24–113EOF, qualified byc9ccd9 currentE34:094 argument; no new underlying primary or independent recertification",
+        "3fd8de1–83 and971f0584–152EOF complete currentE830",
+        "92ee59 private451–534 with8c5e1e491–499 repairing clipped coda; Ichika459–503 plus524 attributed theatre report complete",
+        "b370a8 E8481225–1300, complete007–009 and010 meaning; no new all30 whole receiving. Current theatre016 independently received duringTsurugi ROOT custody."
+      ],
+      "grounds": [
+        "Actual skill and useful work remain different from chosen vocation; cupboard coda, missed trophy, refused profession and advice not understood preserve genuine unfinished wants.",
+        "Temporary guitar, surfing, play, resale, taste/presentation and a wanted ordinary walk retain intrinsic value. Appreciated listening can coexist with lost walking pleasure.",
+        "Actual public shooting report and failed work remain consequential; Nagisa acknowledgment does not execute restoration or authenticate custody, lawfulness or clinical outcomes.",
+        "Changed Mika appraisal is grounded in particular work; chosen Kasumi cooperation retains refusal of friendship, pressure and rank costs. Completed bath/dinner/camping are distinct from uncompleted patrol promises.",
+        "Gift reception in Ichika perspective and formal receptive repertoire are positive; wanted maker recognition and final mouth request do not prove feeding, taste, adult blanket consent or completed repair.",
+        "Prince-role performance remains explicitly attributed parent report; current theatre argument secures surrounding Tsurugi participation/faint ending without borrowing whole external report authority."
+      ],
+      "authority_qualification": "Current Cycle008 governs admission; historical noncurrent gift and producer clauses retain their own scopes. Enumerated c1/main2e equality is not whole-tree audit or fresh primary/performance receiving."
+    },
+    "root_new_primary_or_performance_credit": 0,
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope_reference": "355 successor separately accepted for exact scope preparation; this acceptance changes no denominator",
+    "quarter_reached": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-ICHIKA-CH0071",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ICHIKA_CHARACTER_MONOGRAPH.md",
+    "bytes": 42650,
+    "sha256": "a1deb4ab608085c2ba4fa7d309c80591814a15fd3dcc4a73b4705eeb4fbdd96c",
+    "git_blob_oid_of_actual_bytes": "2d49ae5c1e1e67fe11b9e19ba7a27db2145f96ea"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "This is a complete joined literary package at the declared accepted analytical boundary, pending ROOT's whole receiving and adoption.",
+      "new": "ROOT accepted this complete joined literary package with limits at the declared analytical boundary.",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    }
+  ]
+}
