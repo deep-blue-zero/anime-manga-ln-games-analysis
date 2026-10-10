@@ -1,0 +1,489 @@
+{
+  "schema": "BLUE_ARCHIVE_TRINITY_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "PASS_WITH_LIMITS",
+  "base": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+  "main_comparator": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+  "outputs": [
+    {
+      "file": "BLUE_ARCHIVE_MIKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 24404,
+      "sha256": "bb6d1bde60acd44e539bb22a0979f7cf870b935c9f772d1229ac61bceb7cb79e",
+      "blob_oid": "71d75c24b3f96cdf98e801ba4f8b889f5925a5f9"
+    },
+    {
+      "file": "BLUE_ARCHIVE_NAGISA_CHARACTER_MONOGRAPH.md",
+      "bytes": 26279,
+      "sha256": "e5c5008d72b3bcdcf1bdba8f1a0104fd8ab6eb76c7a5701316f93fa847515318",
+      "blob_oid": "9ac256501b84f9700602aaf6a79a0d9b6b86e38f"
+    },
+    {
+      "file": "BLUE_ARCHIVE_SEIA_CHARACTER_MONOGRAPH.md",
+      "bytes": 24049,
+      "sha256": "0fe9c7f8923138aff2fbd75daf66ab481a991fb8bacfdf13ebbdcb6fff879c3f",
+      "blob_oid": "ff4af962d00b7c5391f93ace9ac5ba495119c79b"
+    },
+    {
+      "file": "TRINITY_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+      "bytes": 40511,
+      "sha256": "f233f90869af7eb4995d0f964d2033ba1907067e9f8186f9eb4ff3dabb82ccc4",
+      "blob_oid": "d0ce5864d737352efe1234ad020d1e3562fc12eb"
+    },
+    {
+      "file": "TRINITY_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 36454,
+      "sha256": "fa32f44389dabf76aed4fdf6830e91725d0d84308b0c01b17349d9c72ffca28a",
+      "blob_oid": "fbe9ed0b247e366ba65f2aaa916fe776a92b01ac"
+    },
+    {
+      "file": "TRINITY_MONOGRAPH_AUTHOR_REVIEW_AND_CUSTODY_V1.md",
+      "bytes": 12228,
+      "sha256": "548cf4470de5ee06354f9176086e8e50d222a663880fca6dc713fffbb9cf4751",
+      "blob_oid": "df38620c3f99bce440c81ca520978ea690b7322b"
+    },
+    {
+      "file": "TRINITY_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 14042,
+      "sha256": "ae6f53fef4d15a541ffa67070e343af6fe4dc94f7509dfaa930f5503176d74da"
+    }
+  ],
+  "input_checks": [
+    {
+      "source_id": "P01",
+      "path": "series/blue-archive/02 Sequential Readings/BOND/MIKA/BLUE_ARCHIVE_MIKA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 33522,
+      "sha256": "0f8d1698111fabc98d0d17f70e62b0521e39f07267606d28e538a751b1db2472",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Complete present family analytical argument reused from frozen Trinity V1 S05; fresh44–48,104–187 including all local endpoint/coda controls"
+    },
+    {
+      "source_id": "P02",
+      "path": "series/blue-archive/02 Sequential Readings/BOND/NAGISA/BLUE_ARCHIVE_NAGISA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 31632,
+      "sha256": "9b97c1bcb01a6bc3eb221fa5aa315cee9440261c6cb9f8604805e4f0db1daf81",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Complete present family analytical argument reused from frozen Trinity V1; fresh40–44,94–177; precise102–143 recheck of adult pressure/apology and own later apology"
+    },
+    {
+      "source_id": "P03",
+      "path": "series/blue-archive/02 Sequential Readings/BOND/SEIA/BLUE_ARCHIVE_SEIA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 36960,
+      "sha256": "8283599b72bc9e98be7d8af9586fee15072d12791d112c90a71a1ebc6949e354",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Complete present family analytical argument reused from frozen Trinity V1; fresh41–45,96–202, complete eight pair endpoints and whole written distinctions"
+    },
+    {
+      "source_id": "A01",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 22890,
+      "sha256": "96507ac2f5e534c43137b6212f66021bbd8c27292fca112b68aa2e6d6caf745c",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "109–258: current qualification and complete joined public/private literary account; historical producer/front-matter controls retained, not replayed"
+    },
+    {
+      "source_id": "A02",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 49292,
+      "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "BOUNDED_ACCEPTED_ACCOUNT_REUSE",
+      "inspected_scope": "84–260: current qualification, full four-chapter arc argument and bounded comparisons;261–452 not author-received in this task. Four complete chapters individually received as F01–F04"
+    },
+    {
+      "source_id": "A03",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_006/BLUE_ARCHIVE_MAIN_V006_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 16659,
+      "sha256": "0240d95240b6e6bacc168e40f180bdeedc80d9e00caa2205dc03a6a0c3a4216e",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "53–172: current contextual adoption plus complete present account through EOF; earlier historical provenance not new primary custody"
+    },
+    {
+      "source_id": "M01",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C001_CHECKPOINT.md",
+      "bytes": 14840,
+      "sha256": "1884c699f3b631cbb33e299a32bc7fcc93cf9802886a4f31dd35811e5e36af2f",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–95; all17 episode arguments/endpoints/attribution controls"
+    },
+    {
+      "source_id": "M02",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md",
+      "bytes": 18645,
+      "sha256": "97133f4cf5a2c78d8f7d41828edd036be217bf729a853c6eb3a44804be316379",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–104; complete20 episode arguments/endpoints/attribution controls"
+    },
+    {
+      "source_id": "M03",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md",
+      "bytes": 18854,
+      "sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–96; complete25 episode arguments/endpoints/attribution controls"
+    },
+    {
+      "source_id": "M04",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md",
+      "bytes": 18759,
+      "sha256": "4a3cd456d3cd21d1b1b60efc6e33c930fd162a72eee1685a82fa89c1515ab59f",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–99; complete27 episode arguments/endpoints/attribution controls"
+    },
+    {
+      "source_id": "F01",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+      "bytes": 18013,
+      "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–83; complete chapter argument/endpoints/attribution controls"
+    },
+    {
+      "source_id": "F02",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_CHECKPOINT.md",
+      "bytes": 13519,
+      "sha256": "30ac3ba693ff56140fb8d57b5caf73352206692a17ac9628b347eb19a7bd1408",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–77; complete chapter argument/endpoints/attribution controls; Koharu rescue exactE014"
+    },
+    {
+      "source_id": "F03",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+      "bytes": 14443,
+      "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–76; initial clipped22–64 recovered through65, chapter endpoint retained; no individual deployment inference from collective wording"
+    },
+    {
+      "source_id": "F04",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+      "bytes": 12691,
+      "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–60; complete chapter argument/endpoints/attribution controls"
+    },
+    {
+      "source_id": "V01",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_006/BLUE_ARCHIVE_MAIN_V006_C001_CHECKPOINT.md",
+      "bytes": 15579,
+      "sha256": "babc8b71b1028d9ad1ad53084d083f739244322762cd907a26ffe49bf13c3997",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–76; all12 chapter arguments, recipient harms and actual class/outing endpoint"
+    },
+    {
+      "source_id": "V02",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_006/BLUE_ARCHIVE_MAIN_V006_C002_CHECKPOINT.md",
+      "bytes": 17020,
+      "sha256": "5fbdce0b0891ec2fa324c95c23271fe9be56d4429408a400634746c15db3e111",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–84; all11 chapter arguments; personal Mine request and unfinished aid outcomes"
+    },
+    {
+      "source_id": "V03",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_006/BLUE_ARCHIVE_MAIN_V006_C003_CHECKPOINT.md",
+      "bytes": 17067,
+      "sha256": "81e43fb20fbb76ccb3243e562d0216839f573c08fe6e720c078614550beadb88",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–82; all10 chapter arguments; proposed building/history/political changes versus actual study/test/tea"
+    },
+    {
+      "source_id": "L01",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_E004_DEEP_READING.md",
+      "bytes": 9417,
+      "sha256": "33a48dbbaaaa030c49ea30f1747969854fbf911b4ae3a69e2418f4299c3a403e",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–57; exact three-session Mika hearing disposition, public protest and unprinted fight outcome"
+    },
+    {
+      "source_id": "L02",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E005_DEEP_READING.md",
+      "bytes": 5259,
+      "sha256": "a9a841059c515616b52abd72e76c58aa38f42f11d7852dacf04af144e82129ba",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–36; exact Noa/Seia preparedness, Noa own hunch and rescue-operation endpoint"
+    },
+    {
+      "source_id": "L03",
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_C001_E006_DEEP_READING.md",
+      "bytes": 7424,
+      "sha256": "e307043fbe4e62009dfa42a078ebfd88742bf39e4ad807c0b4b414653c82eaf7",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–42; considered tea-ordinance withdrawal, visitor identity and market reports qualified"
+    },
+    {
+      "source_id": "L04",
+      "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80000/BLUE_ARCHIVE_EVENT_80000_E124_DEEP_READING.md",
+      "bytes": 5217,
+      "sha256": "4dfd079cb90d0eca0704503d7555b699d1126ba2d7dfbfab869ca6728398d94a",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–46; signature/room-law claims, chocolate company and actual departure; legal/free-assent proof absent"
+    },
+    {
+      "source_id": "G01",
+      "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3601_3603_DEEP_READING.md",
+      "bytes": 28169,
+      "sha256": "3834b614aebd03d7999f526737512b20a8339c4230b675f1e57185d896f8fba7",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–170; complete three-object peer argument and literal-roster/mode controls, ending temporary relief/work remains"
+    },
+    {
+      "source_id": "G02",
+      "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+      "bytes": 22699,
+      "sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "inspected_scope": "Whole1–147; complete two-object peer argument and literal roster; compulsory video mandate and plural recipient outcomes"
+    },
+    {
+      "source_id": "E02",
+      "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_841/BLUE_ARCHIVE_EVENT_841_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 49903,
+      "sha256": "1964ab85a295573b91336b3971fa833e63458b881e4391d29891cd0b2cb17b46",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_MEANING_REUSE_LITERAL_ROSTER_PENDING",
+      "inspected_scope": "Frozen Trinity V1 complete19 episode meanings665–1656 including eight afterstories/current40–44; fresh805–859,985–1023 full relevant carnival argument/endpoints; exact-object metadata and literal roster not newly received whole"
+    },
+    {
+      "source_id": "E03",
+      "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_848/BLUE_ARCHIVE_EVENT_848_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 64033,
+      "sha256": "ced089d38e56d2247c67d861caba5401954f42b551fbcb125823f2ca0f76b19f",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_MEANING_REUSE_LITERAL_ROSTER_PENDING",
+      "inspected_scope": "Frozen Trinity V2 complete30 episode meanings1124–1694 and crosswalk/gap/ROOT controls2117–2333,51–55. Fresh1144–1325 with1198–1268 clipping recovered,1399–1451. Whole literal roster remains pending; no new30primary credit"
+    },
+    {
+      "source_id": "E04",
+      "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_843/BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 26925,
+      "sha256": "0c66b3db028ac9330ceee3cfd730b3969f5879f19bb459dce6ce73cd9077ec6d",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_MEANING_REUSE_LITERAL_ROSTER_PENDING",
+      "inspected_scope": "30–160 complete current qualification, nine episode meanings, locators and ending controls through EOF; no primary replay or full literal roster certification"
+    },
+    {
+      "source_id": "E05",
+      "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 38411,
+      "sha256": "14559582a911ee118c9663a60fadaf06193733082b980495f486ed7729098e4f",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "COMPLETE_MEANING_REUSE_LITERAL_ROSTER_PENDING",
+      "inspected_scope": "31–205 complete current qualification, ten episode meanings, locators and ending controls through EOF; no primary replay or full literal roster certification"
+    },
+    {
+      "source_id": "E06",
+      "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 51286,
+      "sha256": "ab1737179cd375e8edcee8f372c92c155ca5b8f9bfb077d73af06f5ec4de6320",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "BOUNDED_MEANING_REUSE_LITERAL_ROSTER_PENDING",
+      "inspected_scope": "200–252: complete relevant dream-qualifiedE023/E024 arguments, awakeningE026 and closingE027 controls, source mode and Trinity comparison. No whole event or literal-roster receiving credit from this bounded use"
+    },
+    {
+      "source_id": "C01",
+      "path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "bytes": 52261,
+      "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+      "source_head_equals_current": true,
+      "main_equals_current": false,
+      "custody_credit": "CONTROL_SCOPE_RECEIVING",
+      "inspected_scope": "319–344 exact eleven-section mature character monograph architecture"
+    },
+    {
+      "source_id": "C02",
+      "path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+      "bytes": 53414,
+      "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "CONTROL_SCOPE_RECEIVING",
+      "inspected_scope": "327–379,485–509,606–639 relevant complete-story, audience/choice, comparison and counterreading requirements"
+    },
+    {
+      "source_id": "C03",
+      "path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+      "bytes": 79178,
+      "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "CONTROL_SCOPE_RECEIVING",
+      "inspected_scope": "31–44 all14 literal gap registrations andOPEN boundaries; G13–14 recovered separately"
+    },
+    {
+      "source_id": "C04",
+      "path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+      "bytes": 19463,
+      "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+      "source_head_equals_current": true,
+      "main_equals_current": true,
+      "custody_credit": "CONTROL_SCOPE_REUSE",
+      "inspected_scope": "Previously received complete current Cycle008 argument113lines; current3940 contextual admission supersedes producer pending intake without adding primary credit"
+    }
+  ],
+  "prior_frozen_checks": [
+    {
+      "file": "CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V1.md",
+      "byte_count": 77666,
+      "sha256": "917b7e0fdd90b9a9dde2301c98e60c3e678e78ac2c9223127ea881b673f27f17",
+      "unchanged": true
+    },
+    {
+      "file": "CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_DECISION_REGISTER_V1.json",
+      "byte_count": 87882,
+      "sha256": "3135c48175aabf56bf1c65477d6392471b59fbf6745a2aefbeca2df2ebdbb1c9",
+      "unchanged": true
+    },
+    {
+      "file": "CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_INPUT_RECEIPTS_V1.json",
+      "byte_count": 27235,
+      "sha256": "433fc404fcd258871e6310039679308772c3c6702981d66ec5643849d33014ac",
+      "unchanged": true
+    },
+    {
+      "file": "CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_SAVED_OUTPUT_RECEIPT_V1.json",
+      "byte_count": 8921,
+      "sha256": "e6e962e4108efd6a7f331c06fda687b1b089921165185b78fa379804cf559cf2",
+      "unchanged": true
+    },
+    {
+      "file": "CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V2.md",
+      "byte_count": 83818,
+      "sha256": "46b7865841293dd2525931a85b8d28393523576368ef4d9272b5a597f5fc8cd4",
+      "unchanged": true
+    },
+    {
+      "file": "CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_DECISION_REGISTER_V2.json",
+      "byte_count": 94478,
+      "sha256": "6f8607abe964b0032bda888a6d3b9f37b374a5aba8d953eca83d7f485627b6d4",
+      "unchanged": true
+    },
+    {
+      "file": "CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_INPUT_RECEIPTS_V2.json",
+      "byte_count": 26656,
+      "sha256": "d8bb1889cd4a6804e155c8ce8fb5b29e81e7c7bbe12eac810d0f9640aaa7c942",
+      "unchanged": true
+    },
+    {
+      "file": "CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_SAVED_OUTPUT_RECEIPT_V2.json",
+      "byte_count": 14481,
+      "sha256": "8e04ba792e15583e4f9d6dc9a023b1e58ee29e7bc024e8518a50b7d515de1f0d",
+      "unchanged": true
+    }
+  ],
+  "mechanical_checks_are_semantic_receiving": false,
+  "N_frozen": false,
+  "quarter_reached": false,
+  "claim_binding_count": 34,
+  "literary_receiving": {
+    "root_body_receipts": {
+      "Mika": [
+        "6932f9:1-125"
+      ],
+      "Nagisa": [
+        "fe6de4:1-132"
+      ],
+      "Seia": [
+        "23cd90:whole body with clipped middle",
+        "5d713f:46-83 recovers entire clipped interval"
+      ]
+    },
+    "root_register_receipts": [
+      "265f6c:all32 input records/all fields",
+      "78868d:all3 packages/34 claims/all fields",
+      "b863a7:whole saved receipt",
+      "d7c9e7:whole64-line author custody review"
+    ],
+    "consequential_owner_receiving": "e9ebde:whole L01 hearing, L02 Toki rescue/Seia hedged warning, L03 positive consideration without repeal, L04 chocolate room-law/signature trap",
+    "literary_decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "grounds": {
+      "Mika": "Accountable studenthood and independently valuable ordinary wants; later rescue does not erase coup, war, scapegoating or sanctions. Temporary Patar authority, actual permission to return, crowd hostility, unpaid costs and unfinished repair remain distinct. Reciprocal Koharu rescue and other peer choices retain independent causality.",
+      "Nagisa": "Protective care, ordinary art/food/fishing and administrative control coexist. Her own apology, sponsorship and trust do not cancel suspicion, coercive recipient burdens or unilateral publishing. Positive consideration of ordinance withdrawal is not enacted repeal. Each audience and peer agency remains bounded.",
+      "Seia": "Worth and chosen company persist without certified foresight. Books, sweets, song and wind carry intrinsic value. Useful hedged warning joins Noa's independent hunch. Deceptive blank signature, room-law claims, pressure and other people's dissent remain contrary evidence; peers do not become advocates of her worthlessness."
+    },
+    "all_eleven_dimensions": "Substantive body arguments received, not acceptance inferred from heading or claim counts",
+    "ordinary_evidence": "Intrinsic wanted life and comic/quiet/failed encounters carry independent standing",
+    "remaining_limits": [
+      "Fourteen source gaps remain OPEN and claim specific",
+      "Written register is not performed voice",
+      "No new primary replay credit",
+      "No model grade, prediction register, denominator freeze or milestone claim"
+    ]
+  },
+  "canonical_derivative": {
+    "authority_changes": "status/version/home/review state, exact receipt link and completed receiving tail; substantive sections and evidence qualifications preserved",
+    "packages": {
+      "Mika": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 25016,
+        "sha256": "1f624e03da8e7aa8c9fe6f3ac6906f7f80bca2315784f7a7ab2090c3744e9b67",
+        "draft_bytes": 24404,
+        "draft_sha256": "bb6d1bde60acd44e539bb22a0979f7cf870b935c9f772d1229ac61bceb7cb79e"
+      },
+      "Nagisa": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NAGISA_CHARACTER_MONOGRAPH.md",
+        "bytes": 26931,
+        "sha256": "4f2547d787261f3c2d1884c5d92584c07d14a5ec92c0bd2fd670352df7bc5bd7",
+        "draft_bytes": 26279,
+        "draft_sha256": "e5c5008d72b3bcdcf1bdba8f1a0104fd8ab6eb76c7a5701316f93fa847515318"
+      },
+      "Seia": {
+        "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SEIA_CHARACTER_MONOGRAPH.md",
+        "bytes": 24692,
+        "sha256": "d37c1a6a056375952d9343c68f932423b26104c44464cdbf0e09f6dfe5772d12",
+        "draft_bytes": 24049,
+        "draft_sha256": "0fe9c7f8923138aff2fbd75daf66ab481a991fb8bacfdf13ebbdcb6fff879c3f"
+      }
+    },
+    "all14gaps": "OPEN",
+    "model_grade_effect": "UNCHANGED",
+    "main_integration": "NOT_YET_INTEGRATED"
+  }
+}

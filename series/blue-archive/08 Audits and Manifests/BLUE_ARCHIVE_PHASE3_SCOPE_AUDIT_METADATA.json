@@ -47,13 +47,16 @@
     "P3-XMI-I001",
     "P3-XMI-R001"
   ],
-  "initial_761_still_pending_rows": 692,
-  "milestone_scope_state": "FULL_CAST_CENSUS_INCOMPLETE; denominator unfrozen; four literary monographs accepted separately",
+  "initial_761_still_pending_rows": 686,
+  "milestone_scope_state": "FULL_CAST_CENSUS_INCOMPLETE; denominator unfrozen; seven literary monographs accepted separately",
   "accepted_literary_character_packages": [
     "Asuna",
     "Toki",
     "Karin",
-    "Yuuka"
+    "Yuuka",
+    "Mika",
+    "Nagisa",
+    "Seia"
   ],
   "millennium_v2_eligibility_arguments_adopted": [
     "Akane",
@@ -79,6 +82,6 @@
     "P3-XMI-R004",
     "P3-XMI-R005"
   ],
-  "package_tracking_rows": 43,
-  "completed_literary_packages": 4
+  "package_tracking_rows": 46,
+  "completed_literary_packages": 7
 }
