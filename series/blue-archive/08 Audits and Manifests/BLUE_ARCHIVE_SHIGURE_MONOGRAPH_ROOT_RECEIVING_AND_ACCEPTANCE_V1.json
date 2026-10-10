@@ -107,9 +107,9 @@
   "new_scope_or_quarter_credit": false,
   "canonical_body_exact_tuple": {
     "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIGURE_CHARACTER_MONOGRAPH.md",
-    "bytes": 49341,
-    "sha256": "388990e973bb75a3643e3e5ac5f94b793d8d1186f8b6244487b6135cc0dbc07e",
-    "git_blob_oid_of_actual_bytes": "53bc99e6863650cd46fd76ab5b0878acd17e90e3",
+    "bytes": 49339,
+    "sha256": "9dd4784eb77cc219e70335a6e59e2452b7313049093cd0a11718b8f2518bc9f6",
+    "git_blob_oid_of_actual_bytes": "e2142d72a691d9175698bf12246060dd0f46241d",
     "lines": 189
   },
   "original_author_body_tuple": {

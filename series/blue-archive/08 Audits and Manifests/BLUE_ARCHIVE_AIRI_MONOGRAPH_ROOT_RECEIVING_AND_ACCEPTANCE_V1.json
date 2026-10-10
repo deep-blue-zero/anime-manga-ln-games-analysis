@@ -103,9 +103,9 @@
   "new_scope_or_quarter_credit": false,
   "canonical_body_exact_tuple": {
     "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AIRI_CHARACTER_MONOGRAPH.md",
-    "bytes": 57480,
-    "sha256": "e74d4cafa6ce0852106a6f85916de7d6958b42150f3e6b4c0ee9dbcfa00ce152",
-    "git_blob_oid_of_actual_bytes": "8eb8ae3e6375ea868e05a868e622d15858bc84c8",
+    "bytes": 57478,
+    "sha256": "98d54ee3667f8a48b430b24f0c2987878a1b3ce81710af692a53ea771b52b252",
+    "git_blob_oid_of_actual_bytes": "29f6ac3588cca70f5f0a39226e8ec53e3bcb056b",
     "lines": 167
   },
   "original_author_body_tuple": {

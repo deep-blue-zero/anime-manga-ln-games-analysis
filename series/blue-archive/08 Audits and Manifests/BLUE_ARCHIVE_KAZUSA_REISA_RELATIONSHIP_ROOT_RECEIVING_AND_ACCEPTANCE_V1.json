@@ -94,9 +94,9 @@
   "new_scope_or_quarter_credit": false,
   "canonical_body_exact_tuple": {
     "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SYNTHESIS.md",
-    "bytes": 48396,
-    "sha256": "6e67f94b233eea129b8f4c6ea0aa4e28092d65390afd6fec4c579d1a7ac4b03b",
-    "git_blob_oid_of_actual_bytes": "15e7f2433aa397981bca720bfe701b593a898678",
+    "bytes": 48394,
+    "sha256": "829a248b7e70d7a80526c7260a8be21acdd4cff805bef2cda0f06e3445ccab54",
+    "git_blob_oid_of_actual_bytes": "b634e27dee7d749b72128913d40ba9cdd677c02e",
     "lines": 197
   },
   "original_author_body_tuple": {

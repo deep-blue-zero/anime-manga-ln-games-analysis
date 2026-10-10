@@ -96,9 +96,9 @@
   "new_scope_or_quarter_credit": false,
   "canonical_body_exact_tuple": {
     "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MEL_CHARACTER_MONOGRAPH.md",
-    "bytes": 44895,
-    "sha256": "9d0d699395f05cb6a63640270cba55f48a061db22144f8430e952664c6a29aba",
-    "git_blob_oid_of_actual_bytes": "8086337c0ea54833b8fdcf75955c7679c56f33c7",
+    "bytes": 44893,
+    "sha256": "72f041614f7343237f727296adc227be8ef2d2d49e4333c93468a43da05b9977",
+    "git_blob_oid_of_actual_bytes": "c3b7c5cfc0fef53aabf0b54827021c54b6daf45e",
     "lines": 171
   },
   "original_author_body_tuple": {

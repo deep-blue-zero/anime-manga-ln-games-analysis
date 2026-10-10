@@ -119,9 +119,9 @@
   "new_scope_or_quarter_credit": false,
   "canonical_body_exact_tuple": {
     "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KANNA_CHARACTER_MONOGRAPH.md",
-    "bytes": 58317,
-    "sha256": "bdc17da1a60ea3b62a003741b6922a1f761c6e6959a636daa7cf3a733676fd2c",
-    "git_blob_oid_of_actual_bytes": "3b54474cb6feb1a318c7cabf9f0ceb277729d831",
+    "bytes": 58315,
+    "sha256": "2289e552864e4e3c9e51e293c26dc5447c6ab84ea66f548ea01e14a8d81ebe96",
+    "git_blob_oid_of_actual_bytes": "010373ef896e99eb667dcacafb2a78b011566805",
     "lines": 228
   },
   "original_author_body_tuple": {

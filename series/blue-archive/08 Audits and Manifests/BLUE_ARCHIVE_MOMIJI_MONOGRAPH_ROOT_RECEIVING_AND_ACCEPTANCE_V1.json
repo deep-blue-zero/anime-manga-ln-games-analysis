@@ -105,9 +105,9 @@
   "new_scope_or_quarter_credit": false,
   "canonical_body_exact_tuple": {
     "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MOMIJI_CHARACTER_MONOGRAPH.md",
-    "bytes": 41493,
-    "sha256": "451d7958aeeb7e1657ae01fd48591ecbdf52bdc1c7e5eb62569983c77f582a1d",
-    "git_blob_oid_of_actual_bytes": "a62f111564c76b4709ba7afb3eb7cd90b449965e",
+    "bytes": 41491,
+    "sha256": "6dcd353a013364b98daea8795ad11dccc323d0b56eb0d80b1ade139ff0b48ffa",
+    "git_blob_oid_of_actual_bytes": "813b5ecbd448f0e93343cb68afd4d2afaddca565",
     "lines": 171
   },
   "original_author_body_tuple": {

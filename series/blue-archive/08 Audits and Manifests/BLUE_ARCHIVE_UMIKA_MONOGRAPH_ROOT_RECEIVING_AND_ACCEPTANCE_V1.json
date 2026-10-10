@@ -98,9 +98,9 @@
   "new_scope_or_quarter_credit": false,
   "canonical_body_exact_tuple": {
     "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
-    "bytes": 42036,
-    "sha256": "81af4f3dfcdf8a5a76719ecae548cd2359de14c749b892115106339232a57e54",
-    "git_blob_oid_of_actual_bytes": "5efc58aea7fb2604cf821917723e18247aeeb9d3",
+    "bytes": 42034,
+    "sha256": "d86c970f09d836271ced2fafadc95b64f59bdb2dd6390b23044a86cbd76354a7",
+    "git_blob_oid_of_actual_bytes": "3858ec169bb8ac42dd239f78b155842596415dc0",
     "lines": 179
   },
   "original_author_body_tuple": {

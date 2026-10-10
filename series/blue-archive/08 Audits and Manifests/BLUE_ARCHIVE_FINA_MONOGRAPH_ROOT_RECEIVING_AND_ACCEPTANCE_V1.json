@@ -105,9 +105,9 @@
   "new_scope_or_quarter_credit": false,
   "canonical_body_exact_tuple": {
     "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md",
-    "bytes": 40943,
-    "sha256": "db6dcc25b45cf50926c2f864fbeccd2acf3aa9029c391c22cc1f3432089d6035",
-    "git_blob_oid_of_actual_bytes": "f698cf6ba8e669fb38593f752f2a0361b01b08b4",
+    "bytes": 40941,
+    "sha256": "872cdf8dcccf0779bb27db2c0039d7d7dec365b7aa1b64ac15e92366b5999ced",
+    "git_blob_oid_of_actual_bytes": "c211471d764a78b949f554736345f489e916b381",
     "lines": 167
   },
   "original_author_body_tuple": {

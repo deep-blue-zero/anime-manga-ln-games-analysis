@@ -98,9 +98,9 @@
   "new_scope_or_quarter_credit": false,
   "canonical_body_exact_tuple": {
     "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YOSHIMI_CHARACTER_MONOGRAPH.md",
-    "bytes": 60483,
-    "sha256": "a495e3adb4fbc88dec197167d9fe3900a00134b4c3eec0bba5b0748eeb2ce9d7",
-    "git_blob_oid_of_actual_bytes": "fe5b00c1e8a16ba9c9df89a8513fbcf6d4922023",
+    "bytes": 60481,
+    "sha256": "2b794472af7b70b91c9d34f7eaa88c8ab3420014be3159275112dafb725d2d6d",
+    "git_blob_oid_of_actual_bytes": "e7059531f7124ae07c834f43ba54230f2a66af3f",
     "lines": 173
   },
   "original_author_body_tuple": {

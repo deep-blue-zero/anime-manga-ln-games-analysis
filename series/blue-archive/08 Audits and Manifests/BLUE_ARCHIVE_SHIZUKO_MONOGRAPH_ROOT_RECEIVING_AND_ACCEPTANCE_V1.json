@@ -125,9 +125,9 @@
   "new_scope_or_quarter_credit": false,
   "canonical_body_exact_tuple": {
     "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIZUKO_CHARACTER_MONOGRAPH.md",
-    "bytes": 48014,
-    "sha256": "15de2e2925266e4875680e8214ef05de5b372c4cad2271ade7887fabc85edc68",
-    "git_blob_oid_of_actual_bytes": "3b33ca4360944b4801b0b41ee17a1df82e30e507",
+    "bytes": 48012,
+    "sha256": "37c6c33d3f37a668e90dc33df2cba76575b94f92eccf03f55e69f9362c421e20",
+    "git_blob_oid_of_actual_bytes": "bc816871851631cbb9db3442027c7784b20ffee3",
     "lines": 176
   },
   "original_author_body_tuple": {

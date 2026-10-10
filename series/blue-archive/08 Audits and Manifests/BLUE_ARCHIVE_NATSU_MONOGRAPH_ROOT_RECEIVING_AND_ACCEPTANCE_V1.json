@@ -96,9 +96,9 @@
   "new_scope_or_quarter_credit": false,
   "canonical_body_exact_tuple": {
     "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NATSU_CHARACTER_MONOGRAPH.md",
-    "bytes": 58241,
-    "sha256": "e24587bf13ed8eb0318dc109507dc4bbe30e724f8f3c45e12e7836602e1df52c",
-    "git_blob_oid_of_actual_bytes": "e246c55a5db348e7380926f8219cf0c9694f6f7d",
+    "bytes": 58239,
+    "sha256": "099b247f9203f73c581973ffff4a3e39ddc9c2d5cbabc21ad733929d5f996575",
+    "git_blob_oid_of_actual_bytes": "9887b756162266195394a1aff3a9dc903b31343e",
     "lines": 161
   },
   "original_author_body_tuple": {

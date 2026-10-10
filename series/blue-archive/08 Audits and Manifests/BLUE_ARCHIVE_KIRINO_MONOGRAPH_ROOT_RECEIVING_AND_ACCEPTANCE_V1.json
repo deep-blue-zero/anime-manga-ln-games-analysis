@@ -103,9 +103,9 @@
   "new_scope_or_quarter_credit": false,
   "canonical_body_exact_tuple": {
     "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KIRINO_CHARACTER_MONOGRAPH.md",
-    "bytes": 52817,
-    "sha256": "0cab84597e04e62d415181f9da3b398bd3be8fc579d11f3e5c012352689aff5e",
-    "git_blob_oid_of_actual_bytes": "a1f6a9144c3abb5d2b2033e05cd8b19c30aeab2a",
+    "bytes": 52815,
+    "sha256": "e519b1931cb8ed6d2cc7b049776d510facf097d167dfcc7f95cc229c953e0d46",
+    "git_blob_oid_of_actual_bytes": "4d60b015d1f542e54c93ea42082f71a85b6421bd",
     "lines": 215
   },
   "original_author_body_tuple": {

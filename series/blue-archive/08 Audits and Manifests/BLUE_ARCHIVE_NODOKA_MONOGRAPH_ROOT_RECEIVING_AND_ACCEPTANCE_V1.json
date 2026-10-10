@@ -122,9 +122,9 @@
   "new_scope_or_quarter_credit": false,
   "canonical_body_exact_tuple": {
     "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NODOKA_CHARACTER_MONOGRAPH.md",
-    "bytes": 55652,
-    "sha256": "9154306f799022fed4eeea789e6a7cf601e3435a17c56d53de2f312768aa1400",
-    "git_blob_oid_of_actual_bytes": "2985b6e0b413ab467b803776beb31aa06daeeabb",
+    "bytes": 55650,
+    "sha256": "71d20533bf0ac4b8e489f265b7af3b840daf702f685e1dfeb693c762b197eddb",
+    "git_blob_oid_of_actual_bytes": "11e53544350223fb48b630924ae1fcfa3f82b354",
     "lines": 197
   },
   "original_author_body_tuple": {

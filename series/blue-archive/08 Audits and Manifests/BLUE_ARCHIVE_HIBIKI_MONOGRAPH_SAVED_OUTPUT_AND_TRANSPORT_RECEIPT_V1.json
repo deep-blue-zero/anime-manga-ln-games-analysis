@@ -1082,7 +1082,7 @@
   "required_scope": {
     "packages": 355,
     "mandatory_named_sections": 29,
-    "section_parent_homes": 18,
+    "section_parent_homes": 25,
     "thresholds": [
       89,
       178,

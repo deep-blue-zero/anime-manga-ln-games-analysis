@@ -102,9 +102,9 @@
   "new_scope_or_quarter_credit": false,
   "canonical_body_exact_tuple": {
     "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
-    "bytes": 48305,
-    "sha256": "853baa2eca8f893aadc6d873cc4626f031c79be84fc404218411f42c1dd6cfae",
-    "git_blob_oid_of_actual_bytes": "13a90d99d9f495cb8839c6afb13826c43b82d300",
+    "bytes": 48303,
+    "sha256": "1298b7f5e1b406fec44544a44ab3bfb94601a7b7f47d0ec05eeea769c2fe8e80",
+    "git_blob_oid_of_actual_bytes": "69280eeec5d17086bed25379311a73ee4877984d",
     "lines": 189
   },
   "original_author_body_tuple": {
