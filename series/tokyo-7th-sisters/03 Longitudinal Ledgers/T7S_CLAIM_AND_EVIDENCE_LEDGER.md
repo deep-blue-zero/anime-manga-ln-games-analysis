@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.62"
+version: "11.63"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 220 complete i-n-g primary documents / T7S_B0080–T7S_B0161; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 223 complete i-n-g primary documents / T7S_B0080–T7S_B0162; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-11
@@ -20,13 +20,13 @@ last_updated: 2026-10-11
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 82 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 83 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`claims = 757`; `revisions = 42`; `predictions = 7`; `AV_reviews = 108`; `literary_findings = 757`. Claims are bounded to their stated B0001 through B0161 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 82 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 764`; `revisions = 42`; `predictions = 7`; `AV_reviews = 109`; `literary_findings = 764`. Claims are bounded to their stated B0001 through B0162 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 83 complete i-n-g chapters. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -2606,3 +2606,28 @@ Owner and A/B/C locator key: [B0161](../02%20Readings/T7S_B0161_DEEP_READING.md)
 - Outcome: `REVIEWED` for selected exact static resources and complete native page-state segmentation; source-lock 12.65 binds receipts. Two hundred twenty-six dialogue-associated voice pages plus title cues, actual sound/prosody and live remain unreviewed and `BOUND_BY_CLAIM_RESTRICTION`. Audio input capability is unsupported in this analysis session, not a waiver of the performed-voice release requirement.
 
 `T7S_B0161_CLOSE-20261011`: six bounded claims and one static/native AV review. No confirmed recommendation, universal regret doctrine, successful dual career, romance, permanent trio, actually viewed live, listened voice, specialist or monograph promotion. Full 2034 release remains incomplete.
+
+## B0162 chosen fate, effort and the limits of protective interpretation
+
+Owner and A/B/C key: [B0162](../02%20Readings/T7S_B0162_DEEP_READING.md), witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.66. B0086's relational care and B0124's fatigue/reciprocal reliance are bounded comparisons, not rewritten freezes or total chronology.
+
+| ID | Class, distance, confidence | Formulation | Evidence, rivals and limits |
+| --- | --- | --- | --- |
+| `CL-B0162-001` | `BOUNDED_INFERENCE`; D1; high | Competence coexists with uncertainty; Mimi's reported labor qualifies an effortless excellent-student image and externally assumed company future. | A:P0–17; C:P48–57,90–94. Rival: incompetence or guaranteed company offer; self-account not full verified biography. |
+| `CL-B0162-002` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Well-meant inquiry/concealment can construct its own mistaken problem; disclosure corrects the dependence premise, not merely its upsetting news. | B:P1–43; C:P1–47. Rival: malicious peers or retroactive consent; care explicit, inquiry unsolicited. |
+| `CL-B0162-003` | `FORMAL_INTERPRETATION`; D1; high | Staged recollection presents Mimi's origin account and remembered coincidence, not independent prophecy verification. | C:P58–89. Rival: supernatural rescue/accurate guidance; Mimi disbelieved, forgot and judges predictions wrong. |
+| `CL-B0162-004` | `ETHICAL_THEMATIC_INTERPRETATION`; D1; high | Making someone a fated person means acting to make a relation consequential; chosen agency retains an enabling encounter rather than isolated self-sufficiency. | C:P75–91,145–146. Rival: possession/others irrelevant; Player's attitude her inference, fit/future uncertain. |
+| `CL-B0162-005` | `BOUNDED_INFERENCE`; D1; high | Search intended an explanatory report, not prediction/revenge; disclosure offers felt closure and tentative stopping, not completed reunion/categorical abandonment. | C:P35–47,95–106. Ei's contact report and Mimi's prior judgment remain distinct. |
+| `CL-B0162-006` | `FORMAL_INTERPRETATION`; D1; moderate-high | Admiration absorbs vulnerability without eliminating idealization: peers still call her adult and Player cannot picture her worry. | C:P109–146; A:P0–17. Rival: nobody learns/everyone understands; Musubi/Haru respond, hyperbole persists. |
+| `CL-B0162-007` | `FORMAL_INTERPRETATION`; D1; moderate-high | Coda's fate phrase becomes relational teasing after serious redefinition, preserving a possible affectionate wish without certifying mutual romance. | C:P137–146; B0086 comparison. Rival: couple announced/all sincerity disproved; no accepted confession/exclusive bond. |
+
+### AV-0109 — Mimi's present and recruit-suit states within a narrated recollection
+
+- Questions/claims: effortless competence, prophecy corroboration, generic-person continuity, confirmed romance, heard affect; `CL-B0162-001`–`007`.
+- Priority/modality: `AV-B` for complete native states and fourteen selected exact static resources; `AV-D` for performed voice, BGM/SFX sound, continuous gesture/timing, verified diviner whereabouts and future outcomes.
+- Selection: Mimi `adv_chara_126_01_01`–`_06`, `126_02_04` / `_05`; Tomoe `120_01_01` / `_04`; Haru `003_02_08`; Musubi `004_01_22`; Ei `131_01_02`; generic `037_01`. Registry/source/output hashes and native face offsets checked before parent contact-sheet inspection on 2026-10-11. Reading binds receipt/provenance/contact digests and native anchors.
+- Observed: Mimi's light jacket, lace-edged white top, floral shorts and shoulder bag contrast with recalled dark recruit suit/large bag, while hair/hand-near-face pose continue. Selected faces include winks/closed-eye/open-eye states. Tomoe holds a cup, Haru raises fists, Ei's bag has ornaments; none proves inner attitude, supernatural power or total character essence. Generic gray outline is not a unique identity and does not join A's passerby to B's friend.
+- Native occurrence: all 306 pages reviewed. Command-only A:P32–33,61; B:P0,12,15–18,63–66,77–78,82–85,95; C:P0,5,16,65–67,77–79,107–108,122–125,147. C:P65–79 frames narrated recall; C:P86–88 briefly returns to street during interpretation, C:P89 restores room; C:P122–125 leads to next-morning coda. Placeholder filenames are not identities; `adv_shake` is authored effect, BGM-reference absence not heard silence.
+- Outcome: `REVIEWED` for selected exact static resources and complete native segmentation; source-lock 12.66 binds receipts. Two hundred forty-seven dialogue-associated voice pages plus title cues, sound/prosody and runtime movement remain unreviewed and `BOUND_BY_CLAIM_RESTRICTION`. Audio input is unsupported in this analysis session, not a waiver of performed-voice release requirements.
+
+`T7S_B0162_CLOSE-20261011`: seven bounded claims and one static/native AV review. No verified crime/location, prophecy, completed reunion, permanent cancellation, mutual romance, actually listened voice, specialist or monograph promotion. Full 2034 release remains incomplete.

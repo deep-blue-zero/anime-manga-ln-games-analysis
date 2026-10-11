@@ -4,7 +4,7 @@ artifact_id: T7S_2034_COMPLETION_EXECUTION_RECORD
 artifact_type: analytical_execution_record
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -28,7 +28,7 @@ The owner authorizes continuous analysis of the remaining 2034 material through 
 - Reconciled base commit: `82214c26b3ccb8f23bad011e9dbbdde5e4c29508`; remote source observed at `e9644c298f744206cd015cf23ecc5347d10183f9`; incorporated main at `9cd7a70853c40806f1a16fd957e9791dd14a7789`. Reconciliation preserves the complete T7S tree.
 - Corpus alias: `c20260909-r484`; witness: `T7S_GAME_OFFLINE_JA_R484`. The immutable source bindings remain unchanged.
 - First candidate: `T7S_B0160`, native i-n-g chapter `301320`, Honoka / `TEACHING ME`, episodes `612201701`–`612201703`. The native chapter is a proposed causal boundary subject to complete source review.
-- Current run state: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0161`. Completed source units in this program: **2**; completed primary episodes: **6**. The i-n-g checkpoint is 2/22 chapters; the terminal boundary remains the complete 2034 era release.
+- Current run state: `ACTIVE`; committed high-water after this atomic commit: `T7S_B0162`. Completed source units in this program: **3**; completed primary episodes: **9**. The i-n-g checkpoint is 3/22 chapters; the terminal boundary remains the complete 2034 era release.
 
 The [B0100–B0159 record](T7S_B0100_B0159_EXECUTION_RECORD.md), its [audit](T7S_B0100_B0159_COMPLETION_AUDIT.md), and frozen readings retain their historical authorization. Their statements that chapter `301320` was outside that run remain true at that boundary. This new authorization does not rewrite those freezes.
 
@@ -51,6 +51,8 @@ All entries below have passed eligibility screening and routing; none is thereby
 | Event-navigation presentation | 7 eligible attachments | Presentation/character integration at warranted depth |
 
 The narrative remainder is 760 episodes. The 133 eligible additional scripts already audited as 131 system/presentation resources and two duplicate opening occurrences do not become a second narrative run. Inactive mixed supplemental parents remain history, not new leaf obligations. Twenty-one unresolved card identities remain excluded from load-bearing identity claims unless resolved through admissible evidence. The [portfolio index](../02%20Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md) and [eligibility audit](T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md) own the detailed routes and exclusions.
+
+Current supplemental reconciliation must enumerate active leaves by their explicit route and remaining obligation, not filter solely on `admitted_horizon`. `SUPP-solo_stage_message-ALL-v1` (196 records, route `2034`) and `SUPP-eplive_navigation-ALL-v1` (7 attachments, route `2034_PRESENTATION`) retain `admitted_horizon = null` while requiring `PORTFOLIO_INTEGRATION`. Their null horizon does not exclude them from this authorized release. Preserve the original entry counts, inactive parent history and exact memberships when binding later portfolio receipts.
 
 ## Work order and ownership
 
@@ -91,6 +93,7 @@ After interruption, recover the actual Git/source-lock/entrypoint high-water mar
 | `T7S_2034_COMPLETION_START` | Metadata audit at B0159; no new story semantics | Authorization and full release requirements recorded; source analysis pending |
 | `T7S_B0160_CLOSE` | Native chapter `301320`; `T7S_B0160`; 3 primary documents | Complete bounded text/native/static case; full 2034 release remains `IN_PROGRESS` |
 | `T7S_B0161_CLOSE` | Native chapter `301330`; `T7S_B0161`; 3 primary documents | Complete bounded text/native/static case; full 2034 release remains `IN_PROGRESS` |
+| `T7S_B0162_CLOSE` | Native chapter `301340`; `T7S_B0162`; 3 primary documents | Complete bounded text/native/static case; full 2034 release remains `IN_PROGRESS` |
 
 ## B0160 closeout receipt
 
@@ -99,3 +102,7 @@ After interruption, recover the actual Git/source-lock/entrypoint high-water mar
 ## B0161 closeout receipt
 
 [T7S_B0161](../02%20Readings/T7S_B0161_DEEP_READING.md): Rena's possible university recommendation prompts a week of indecision about athletics and idols. An optional short-notice streaming live reveals unfinished attachment to both; she conditionally chooses to attend university if recommended and pursue both as far as she can, despite likely regret. Peers and Player support the attempt; no confirmed recommendation, sustainable dual career, permanent trio, romance or listened voice is established. All 305 pages, 283 text records and 22 command-only pages are reviewed; 8 exact selected static assets/composites were inspected. Source-lock 12.65 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 226 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies outside declared current summaries. Coverage moves 3 records while preserving the other 1587 effective records. The current program has closed 2 source units / 6 primary episodes; 754 eligible story episodes plus supplemental and release obligations remain. This transaction is locally closed after required verification; publication remains separate.
+
+## B0162 closeout receipt
+
+[T7S_B0162](../02%20Readings/T7S_B0162_DEEP_READING.md): Mimi explains that her private search was to report a chosen-fate interpretation, not seek a prediction or romantic rescuer. Her account reveals effort and career unease behind an excellent-student image; meeting Player enabled an idol choice she owns without certainty of suitability. Disclosure feels like closure and she tentatively considers stopping; peers still idealize her, and Player's concern meets teasing rather than a confirmed romance. No reunion, verified diviner location or listened voice is established. All 306 pages, 270 text records and 36 command-only pages are reviewed; 14 exact selected static assets/composites were inspected. Source-lock 12.66 binds source/native/media evidence. No choices, inline movies or actually auditioned voice; the 247 voice count covers dialogue-associated pages only. Canonical ledgers hold the complete state/claim additions and preserve previous bodies outside declared current summaries. Coverage moves 3 records while preserving the other 1587 effective records. The current program has closed 3 source units / 9 primary episodes; 751 eligible story episodes plus supplemental and release obligations remain. This transaction is locally closed after required verification; publication remains separate.

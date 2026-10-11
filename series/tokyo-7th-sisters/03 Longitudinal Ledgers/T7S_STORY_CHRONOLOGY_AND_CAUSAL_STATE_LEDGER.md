@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.62"
+version: "11.63"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 220 complete i-n-g primary documents / T7S_B0080–T7S_B0161; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 223 complete i-n-g primary documents / T7S_B0080–T7S_B0162; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-11
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 727`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 859`; `last_closed_block = T7S_B0161`. The admitted horizon contains 455 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 220 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 739`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 873`; `last_closed_block = T7S_B0162`. The admitted horizon contains 458 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 223 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2587,3 +2587,41 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.65. [B0161](../02%20Readings/
 | `EDGE-0866` | `SUPPORTED_PRESENT_CHOICE_TO_FAMILIAR_BANTER` | Support/little relief in `011` precedes joking in `012`; future compatibility remains open. |
 
 `T7S_B0161_CLOSE-20261011`: twelve events and fourteen typed edges. The present decision closes; recommendation, future scheduling, performance technique and long-term outcome do not.
+
+## B0162 Mimi's search and chosen relational fate
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.66. [B0162](../02%20Readings/T7S_B0162_DEEP_READING.md) owns the complete A/B/C key and prospective committed B0161 entering boundary. Search, mistaken interpretations, disclosed origin and present reaffirmation form one causal envelope. The three-day interval belongs to Mimi's account; morning/tomorrow cues supply local order, not a total chronology. University friend, contacts and diviner remain local/attributed roles.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0162-001` | Tomoe reports and apologizes for needing Mimi's conversational cover and admires apparent ease; Mimi voices singing uncertainty and asks whether she believes in a fated person after recognizing recruit clothes. | A:P0–31; `KNOW-0503`. World-conquest praise is hyperbole; Tomoe reports vomiting, Mimi says off camera; no clinical finding. |
+| `EV-B0162-002` | Musubi reports private errand; Haru reports frequent unexplained private errands and a search-for-something sighting; Tomoe connects street/question into fate hypothesis while Musubi/Ei question intervention. | A:P34–60; `KNOW-0504`. Purpose remains unknown; no requested inquiry. |
+| `EV-B0162-003` | Musubi notes the question does not establish a target; Tomoe admits no answer; Haru/Tomoe nevertheless go to offer assistance. | B:P1–18; `KNOW-0505`. Goodwill plus admitted gap, not Mimi's assent. |
+| `EV-B0162-004` | Haru/Tomoe hesitate while watching Mimi with a woman; Musubi criticizes tail-like conduct; Mimi leaves during their argument. | B:P19–43; `KNOW-0506`. Mimi later says she noticed the crowd; exact observation duration unshown. |
+| `EV-B0162-005` | University friend recalls grades/company expectation and reports closed fortune shop plus Mimi's interest in practitioner. | B:P44–62; `KNOW-0507`. Attributed lead, not company offer/business verification; same generic art does not join A's passerby to this friend. |
+| `EV-B0162-006` | Peers conjecture romantic/vocational divination dependence and seek Ei through their association of her with spirits. | B:P67–81; `KNOW-0508`. Helpers' hypothesis, no established spiritual method. |
+| `EV-B0162-007` | Ei reports contacts' investigation: supposed amateur fraud, dangerous business and overseas flight. | B:P86–95; `KNOW-0509`. Contact-mediated hearsay; no independently verified crime, arrest or whereabouts. |
+| `EV-B0162-008` | Musubi proposes withholding bad news; Mimi notices inquiry, says she already regards diviner as bogus and rejects prediction/revenge purposes, then agrees to explain. | C:P1–47; `KNOW-0510`. Correction of premise, not a collapse of belief or confirmation of Ei's flight report. |
+| `EV-B0162-009` | Mimi reports steady study/improvisation behind excellent-student expectations, career unease and an inaccurate prediction she disbelieved/forgot. | C:P48–64; `KNOW-0511`. Retrospective account, not complete verified educational/employment biography. |
+| `EV-B0162-010` | Recalled three-days-later encounter identifies Player as manager of スリーセブン; Mimi interprets relationship through her own agency and present satisfaction with idol choice. | C:P65–94; `KNOW-0512`. Staged within testimony; Player's attitude is her inference, no supernatural proof or isolated self-sufficiency. |
+| `EV-B0162-011` | Mimi explains intended report, tentatively considers stopping, feels closure, offers Tomoe care and asks reassurance for Haru; peers say they heard and still call her adult. | C:P95–121; `KNOW-0513`. No reunion/permanent cancellation, clinical clearance or exact listening position/duration. |
+| `EV-B0162-012` | Next morning Player wants to help but cannot picture worry; Tomoe renews hyperbole; Mimi teases about reciprocal fate then affirms chosen present self. | C:P126–147; `KNOW-0514`. No confirmed romance, future regret immunity or universal understanding. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0867` | `LOCAL_CONVERSATIONAL_COVER_TO_COMPETENCE_ADMIRATION` | `001` places Tomoe's admiration beside Mimi's singing uncertainty; no effortless-superiority proof. |
+| `EDGE-0868` | `PRIVATE_ERRAND_AND_PRIOR_QUESTION_TO_FATE_HYPOTHESIS` | `002` links observations into Tomoe's conjecture, not established purpose. |
+| `EDGE-0869` | `ADMITTED_INFORMATION_GAP_WITH_UNSOLICITED_HELP_ATTEMPT` | `003` proceeds despite Musubi's warning; no consent inferred. |
+| `EDGE-0870` | `HESITANT_APPROACH_TO_CONCEALED_OBSERVATION_AND_REBUKE` | `004` turns intended help into conduct Musubi criticizes; Mimi's departure loses direct contact. |
+| `EDGE-0871` | `UNIVERSITY_FRIEND_REPORT_TO_DIVINER_LEAD` | `005` supplies shop/practitioner lead without verifying company or romantic expectations. |
+| `EDGE-0872` | `DEPENDENCE_HYPOTHESIS_TO_CONTACT_ASSISTANCE` | `006` motivates Ei inquiry and contact-mediated report in `007`; no supernatural capacity established. |
+| `EDGE-0873` | `DISTURBING_HEARSAY_TO_PROTECTIVE_CONCEALMENT_PROPOSAL` | `007` precedes `008` silence proposal on the mistaken belief that Mimi trusts the diviner. |
+| `EDGE-0874` | `NOTICED_SEARCH_ASSISTANCE_TO_PREMISE_CORRECTION_AND_DISCLOSURE` | `008` reveals prior judgment and opens explanation because peers worried. |
+| `EDGE-0875` | `EXCELLENT_STUDENT_EXPECTATIONS_TO_REPORTED_CAREER_UNEASE` | `009` distinguishes achievement from a meaningful chosen future; testimony not objectively guaranteed offer. |
+| `EDGE-0876` | `DISBELIEVED_PREDICTION_TO_RECALLED_OCCASION` | `009` enters the explicitly recalled interval in `010`; temporal coincidence not prophecy validation. |
+| `EDGE-0877` | `RECALLED_PLAYER_ENCOUNTER_TO_CHOSEN_IDOL_INTERPRETATION` | `010` interprets an enabling relation through Mimi's own action, not magical rescue. |
+| `EDGE-0878` | `SEARCH_PURPOSE_DISCLOSURE_TO_TENTATIVE_SUBSTITUTE_CLOSURE` | `011` lets telling Tomoe feel sufficient; eventual search/reunion remains unperformed. |
+| `EDGE-0879` | `DISCLOSED_EFFORT_AND_WORRY_WITH_PERSISTENT_ADULT_IDEALIZATION` | Peers' response in `011` and Tomoe/Player's `012` reactions qualify, not erase, the image. |
+| `EDGE-0880` | `SERIOUS_FATE_REDEFINITION_TO_TEASING_REUSE_AND_REAFFIRMATION` | `012` repeats relational phrase without confirming mutual romance or future certainty. |
+
+`T7S_B0162_CLOSE-20261011`: twelve events and fourteen typed edges. The search's purpose and present choice close; the diviner's whereabouts and Mimi's eventual search action do not.

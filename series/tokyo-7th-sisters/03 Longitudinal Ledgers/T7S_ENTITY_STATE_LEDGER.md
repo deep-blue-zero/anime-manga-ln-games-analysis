@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.62"
+version: "11.63"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 220 complete i-n-g primary documents / T7S_B0080–T7S_B0161; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 223 complete i-n-g primary documents / T7S_B0080–T7S_B0162; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-11
@@ -20,13 +20,13 @@ last_updated: 2026-10-11
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 82 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 83 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`identity_routes = 98`; `character_states = 80`; `epistemic_states = 502`; `directional_relationship_states = 685`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0161, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 98`; `character_states = 80`; `epistemic_states = 514`; `directional_relationship_states = 695`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0162, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3806,3 +3806,48 @@ The [B0161](../02%20Readings/T7S_B0161_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0685` | Jeda → Ferb, **responsive musical collaboration and peer coordination** | Receives song offer, affirms positive spillover, shares qualified aspirations and proposes Rena's inclusion. A:P20–34; B:P35–71,119–139; C:P17–22,64–65. Reciprocal `REL-0684`; reported chemistry not permanent unit formation. |
 
 `T7S_B0161_CLOSE-20261011`: twelve epistemic states and eight relationship directions. No stable identity or unit is added. All twenty-nine earlier readiness decisions, including Ferb's NANASUTA-bounded R2, retain their horizons; no monograph/multimodal maturity is promoted.
+
+## B0162 effort behind Mimi's competence and peers' partial understanding
+
+The [B0162](../02%20Readings/T7S_B0162_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.66, binds these additions. Existing Mimi `IDENTITY-0042` / `CHAR-0065` / `futagawa-mimi`, Tomoe `IDENTITY-0045` / `CHAR-0029` / `shiratori-tomoe`, Haru `IDENTITY-0004` / `CHAR-0004` / `kasukabe-haru`, Musubi `IDENTITY-0006` / `CHAR-0006` / `tendoji-musubi`, Ei `IDENTITY-0049` / `CHAR-0037` / `yukuhashi-ei`, Player `IDENTITY-0001` / `CHAR-0001` and Nanastar `UNIT-0002` retain their handles. Literal 逝橋エイ is not a new romanized identity. CASQUETTE'S `UNIT-0017` remains inherited context without a new membership event. The recalled unknown caller is locally revealed as Player; generic artwork/compound speakers are not new stable identities.
+
+| Existing stable ID / local role | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0065` / Mimi | Provides conversational cover according to Tomoe's report, describes uncertainty/labor/career unease, explains search and choice, notices inquiry, offers Tomoe care, reassures Haru and teases Player. | A:P0–31; C:P17–106,134–146. Retrospective biography/Player interpretation attributed; no reunion, permanent search cancellation or confirmed couple. |
+| `CHAR-0029` / Tomoe | Admires apparent ease, introduces fate conjecture, joins concealed inquiry, reports nausea, hears disclosure and renews adult/top-tier praise. | A:P0–31,47–60; B:P1–94; C:P4–146. Hyperbole not measured ability; no diagnosis or complete correction of idealization. |
+| `CHAR-0004` / Haru | Reports frequent unexplained private errands/search-for-something sighting, seeks help on conjecture, worries about bad news, hears explanation and recognizes Mimi worried about her. | A:P34–60; B:P1–94; C:P1–15,110–121. No requested investigation or exact listening duration. |
+| `CHAR-0006` / Musubi | Questions evidence and usefulness, rebukes tailing, later proposes concealment, hears account and recognizes excellent-student pressure. | A:P34–60; B:P1–81; C:P1–16,115–121. No universal privacy policy or durable reversal of her own pressure. |
+| `CHAR-0037` / Ei | Initially doubts help's usefulness; provides contacts' findings; hears disclosure and calls Mimi more adult than expected. | A:P34–60; B:P2–14,79–95; C:P110–121. Spiritual ability, crime and current diviner location unverified. |
+| `CHAR-0001` / Player | Introduces studio manager role in Mimi's recalled encounter; presently wants to help if she worries but still cannot picture it; calls fate exchange teasing. | C:P70–76,126–146. Literal スリーセブン preserved; his non-passive attitude remains Mimi's inference, no reciprocal romance. |
+| Passerby/university friend/diviner/contacts | A's recruit-suit sight prompts question; B's friend supplies lead; diviner appears only through accounts, contacts through Ei. | A:P18–31; B:P44–62,86–93; C:P35–96. Same037art does not resolve passerby/friend identity; no uniquely named diviner or verified legal history. |
+| `UNIT-0002` / Nanastar | Hosts informal peer inquiry and Mimi's disclosure/coda around ordinary work. | A:P34–60; B:P85–95; C:P126–147. No new membership, formal investigation mandate or company policy. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0503` | Tomoe reports and apologizes for needing Mimi's cover and admires apparent ease; Mimi reports singing uncertainty, recognizes recruit clothes and asks whether she believes in fate. | A:P0–31. No settled search target or measured exceptional ability. |
+| `KNOW-0504` | Haru reports frequent private errands, refusal to explain and search-for-something sighting; Musubi knows private errand but not purpose; Tomoe connects prior question into conjecture. | A:P34–60. Reader/friends do not yet have Mimi's account. |
+| `KNOW-0505` | Musubi recognizes evidentiary gap; Tomoe admits no answer; Haru/Tomoe choose help despite it. | B:P1–18. No authorization from Mimi. |
+| `KNOW-0506` | Watchers see conversation without content; Musubi recognizes tail-like conduct; Mimi later says she noticed crowd. | B:P19–43; C:P24–30. Exact observing position/duration unshown. |
+| `KNOW-0507` | University friend recalls grades/company expectation and reports shop closure/practitioner inquiry; peers receive this lead. | B:P44–62. Attributed memory/report, no company offer or independently inspected closure. |
+| `KNOW-0508` | Peers conjecture fate/divination dependence and enlist Ei on their association with spirits. | B:P67–81. Hypothesis, not Mimi's motive or established spiritual capacity. |
+| `KNOW-0509` | Ei reports acquaintances' findings of supposed incompetence, dangerous business and overseas flight; peers treat news as distressing. | B:P86–95. Contact-mediated hearsay, no verified crime/arrest/whereabouts. |
+| `KNOW-0510` | Musubi/Haru presume Mimi's belief; Mimi reveals prior bogus judgment, no future-prediction/revenge purpose, and awareness of inquiry. | C:P1–47. Mimi's judgment does not verify Ei's flight report; false premise corrected. |
+| `KNOW-0511` | Mimi reports steady effort, ad hoc learning, career unease and disbelief/forgetting of prediction; Tomoe learns older-sister worry exists. | C:P48–64. Situated self-account, no complete biography/secured company offer. |
+| `KNOW-0512` | Mimi recalls Player encounter, infers his non-passive stance and explains her own agency/satisfaction despite uncertain idol fit. | C:P65–94. Recall and interpretation distinct from independently known Player interiority. |
+| `KNOW-0513` | Mimi reveals intended report and tentative stopping/closure; Tomoe receives reassurance request; peers say they heard and Musubi recognizes pressure. | C:P95–121. No reunion/permanent cancellation, no exact overhearing duration. |
+| `KNOW-0514` | Player knows Haru's earlier worry report but cannot picture it; Tomoe admires; Mimi reuses fate phrase and asserts present chosen self. | C:P126–147. Teasing reception not accepted mutual romance or no future regret. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0686` | Mimi → Tomoe, **reported cover, disclosure and practical care** | Praises work, explains effort/choice, offers escort/staying and asks reassurance relay. A:P0–31; C:P17–106. Reciprocal `REL-0687`; no permanent caregiver obligation or clinical clearance. |
+| `REL-0687` | Tomoe → Mimi, **admiration, speculative assistance and hearing disclosure** | Joins inquiry, admits partial knowledge, hears account and renews adult praise. A:P0–31,47–60; B:P1–94; C:P17–146. Reciprocal `REL-0686`; idealization not eliminated. |
+| `REL-0688` | Haru → Mimi, **concern and unsolicited search assistance** | Notices behavior, seeks lead, worries about news and responds after hearing. A:P34–60; B:P1–94; C:P1–15,110–121. Reciprocal `REL-0689`; no inferred request/consent. |
+| `REL-0689` | Mimi → Haru, **reassurance and consideration of inquiry's cost** | Asks Tomoe to say she is okay; considers stopping if peers are troubled. C:P95–106; Haru's response P117. Reciprocal `REL-0688`; actual later relay/cancellation unshown. |
+| `REL-0690` | Musubi → Haru, **evidence caution, rebuke and proposed withholding** | Questions target inference, criticizes tailing and takes Haru away before explanation. B:P1–43; C:P6–16. Reciprocal `REL-0691`; caution does not immunize her from mistaken premise. |
+| `REL-0691` | Haru → Musubi, **help initiative and uneasy response to concealment** | Pursues assistance despite caution and hesitates at withholding suggestion. B:P1–43; C:P6–15. Reciprocal `REL-0690`; no durable agreement on investigation/privacy. |
+| `REL-0692` | Ei → Haru, **contact-mediated assistance and disturbing report** | Supplies acquaintances' inquiry results after enlistment. B:P79–95. Reciprocal `REL-0693`; no clairvoyance or independently established crime/location. |
+| `REL-0693` | Haru → Ei, **request for help and reliance on reported findings** | Enlists Ei through spirit association and reacts to contacts' report. B:P76–94; C:P1–3. Reciprocal `REL-0692`; misconception not proof of Ei's power. |
+| `REL-0694` | Mimi → Player, **chosen consequential relation and teasing wish** | Reinterprets recalled encounter through own agency, wishes reciprocal fate and affirms chosen self. C:P75–91,137–146. Reciprocal `REL-0695`; inferred attitude and wish not mutual couple/exclusivity. |
+| `REL-0695` | Player → Mimi, **recalled introduction and present concern with incomplete understanding** | Studio introduction is in Mimi's recall; present concern coexists with inability to picture worry and teasing reception. C:P75,128–143. Reciprocal `REL-0694`; no accepted romance or independently verified inner creed. |
+
+`T7S_B0162_CLOSE-20261011`: twelve epistemic states and ten relationship directions. No stable identity or unit is added. All twenty-nine earlier readiness decisions retain their horizons; Mimi has no new readiness or monograph/multimodal maturity promotion.
