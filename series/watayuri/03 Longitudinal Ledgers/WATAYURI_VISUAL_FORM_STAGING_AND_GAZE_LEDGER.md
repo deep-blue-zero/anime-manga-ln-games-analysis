@@ -4,14 +4,14 @@ artifact_id: WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.9"
+version: "0.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V08 mainline through V08 Shift 41/i158, also latest depicted present; packaged shorts separately bounded; V09–V14 inventory only"
+source_boundary: "Japanese V01–V09 mainline through V09 Shift 46/i134, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STAGING_AND_GAZE_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_VISUAL_FORM_STA
 
 **Update and revision rule.** Update for repeated visual constructions or a diagnostically consequential scene. Record the visible fact separately from inferred psychology and identify when a later composition revises an earlier inference. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V08 mainline through V08 Shift 41/i158, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2 and 41.5 remain separately bounded; V04 EX is promotional. V01–V07 sections retain their earlier states; dated V08 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V09 mainline through V09 Shift 46/i134, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5 and 46.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. V01–V08 sections retain their earlier states; dated V09 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -323,3 +323,48 @@ Each record separates visible construction from proposed effect. Source spreads 
 The strongest formal return is the change in what a remembered gesture makes possible. Offered hands first recall a history of missed reception; later, an actual received hand makes Hime’s participation visible; finally, handholding demonstrates one limited form of contact she can choose. The recurrence does not turn all three moments into the same action. Their evidentiary value depends on who initiates, who responds and what is being negotiated at each point.
 
 The photograph coda performs a different kind of return. Unlike an internal memory, it is an external work product that another person can point to. That makes the new observation shareable without making its interpretation infallible. The manga invites a future question about Sumika and Kanoko while keeping the image’s actual informational content narrower than a confession.
+
+
+<a id="v09"></a>
+## V09 — Current additions and transitions — 2026-10-10
+
+**V09 evidence key:** source-map key `V09`, Japanese witness `1ul9LBhBmBD31tMYQZG5vHs17KLlDwjrK`, SHA-256 `598985a717491a8df61d8919884e49a828fa6422ef78a925f534ec1faac491d4`. The [frozen V09 reading](../02%20Sequential%20Readings/WATAYURI_V09_DEEP_READING.md#visual-form) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V09; WY1–WY8 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 46/i134. Shift 46.5/i136–143 has finer chronology OPEN. Afterword/credits i144–146, separate one-shot i147–162 with closing page i163, and edition/bonus matter i164–168 do not advance the mainline endpoint. The one-shot’s characters remain outside Watayuri continuity. Accepted V06 and V08 corrections and all earlier frozen states remain intact.
+
+### Manga form, staging, and gaze
+
+Each row distinguishes configuration from interpretation. Page-turn claims follow verified source page sides.
+
+| ID | Observed configuration and locator | Formal work / proposed interpretation | Limit or competing reading |
+| --- | --- | --- | --- |
+| **WY9-VIS01** | Elaborate sister pose during the newcomer demonstration, followed by disengagement. i014–015. | An immediately legible pair image is qualified by the recipient’s boundary on the facing page. | Attractive composition does not establish private reciprocity. |
+| **WY9-VIS02** | Photo, gift/barrette, Sumika’s attention and Kanoko’s thanks. i018–022. | Material object links desire for recognition with actual useful care. | Object possession is not ownership of feeling. |
+| **WY9-VIS03** | Plain versus decorated autograph and personal copy. i025–028. | Character-specific performance becomes both work and desired personal trace. | No stable inability inferred from novice embarrassment. |
+| **WY9-VIS04** | Hime’s bright praise response beside Kanoko’s restrained attempt. i029–035. | The shared public scene contains unequal private stakes. | One blush cannot establish any complete attachment category. |
+| **WY9-VIS05** | Sumika’s elegant pose in an ordinary fast-food setting, followed by Kanoko’s smile. i038. | Setting/register mismatch produces shared humor and counters an absolute absence-of-response reading. | Not the same expression or addressee history as the special photograph. |
+| **WY9-VIS06** | Imagined married Hime with Kanoko nearby as maid. i041–043. | Gives a concrete image to a conditional desired future. | Neither prophecy nor agreed arrangement. |
+| **WY9-VIS07** | Nene reverses the focus of the consultation through paired reaction panels. i053–058. | The observer becomes the observed; Sumika’s self-description is tested. | Nene’s reading remains explicitly qualified. |
+| **WY9-VIS08** | Effective close public acting followed by Sumika’s startled reaction/retreat. i064–069. | Successful role performance does not contain its private effect. | Kanoko’s expression is not a confession. |
+| **WY9-VIS09** | Repeated smile and recalled photographer/Hime arrangement. i070–073. | Production history changes the apparent address of a familiar image. | Repetition is not a new photo shoot. |
+| **WY9-VIS10** | Bodily-startle notation contrasts with later painful recognition and broken/sharded framing. i066, i072–074. | Attention changes from hoped-for closeness to competitive loss. | Symbolic emphasis is not a clinical or acoustic measurement. |
+| **WY9-VIS11** | Apparent confession followed by waking image and explicit dream reference. i075–079. | Temporarily offers wished-for reciprocity, then withdraws its reality status. | No actual Kanoko speech, knowledge or permission follows. |
+| **WY9-VIS12** | Fictional Blumen pair shown as Mai explains the script. i081. | An inset relationship supplies thematic pressure about letting go. | Does not predict the actual pact’s ending. |
+| **WY9-VIS13** | Home hospitality, ambiguous statement, close Sumika reaction, then Hime-topic clarification. i087–091. | Private setting exposes divergence between desired and stated meaning. | Invitation and visit are actual; imagined romance is not. |
+| **WY9-VIS14** | Public denial followed by interior competitive account, then Kanoko’s apology for suspicion. i093–095. | Reader and interlocutor receive incompatible amounts of information about the same reassurance. | Helpful motive is not erased; full candor is not established. |
+| **WY9-VIS15** | Restrictive advice and lowered/isolated Kanoko response. i096–099. | The new limit has interpersonal cost that Sumika’s protective intention cannot cancel. | No completed pact breakup is depicted. |
+| **WY9-VIS16** | Goeidō introduced by pass and striking entrance at the end of Shift 45. i099–102. | The old explanatory figure becomes a present actor at a chapter boundary. | Entrance alone proves no scheme or advance schedule knowledge. |
+| **WY9-VIS17** | Menu, staff roster implications, kitchen separation and Nene’s phone. i107–119. | Objects and spaces distribute knowledge unevenly among visitor, staff and reader. | Seeing distress is not reading messages. |
+| **WY9-VIS18** | Pleasant visitor close-ups against Kanoko’s harmful-history reconstruction. i114–117. | Surface legibility competes with testimony in Kanoko’s judgment. | Charm neither refutes nor proves the historical account. |
+| **WY9-VIS19** | Contact slip and personal explanation, then Nene’s displayed messages. i121–126. | Separate communication routes open without a completed meeting. | An addressed request or voiced wish is not a received apology or sent reply. |
+| **WY9-VIS20** | Staff group breaks up; Kanoko isolated with the slip in hand. i133–134. | The unresolved choice survives the public end of discussion. | Crumpling is not depicted sending, disposal, or finalized refusal. |
+| **WY9-VIS21** | Supplementary definitions followed by Nene’s private comparative response. i138–143. | Different answers to one apparently simple question reveal hidden relational distinctions. | No post-mainline reconciliation inferred. |
+| **WY9-VIS22** | Separate one-shot’s named objects, internal captions and apparent ignorance. OS/i147–162. | Reader privilege exposes strategic misrecognition and the wish to be loved as a person rather than a charm’s result. | Cross-work comparison only; no Watayuri continuity import. |
+
+#### Page structure is part of the epistemic argument
+
+The i014–015 facing pair puts a compelling sister image beside the limit that qualifies it. The i072–073 pair gives the photograph’s production context and the painful recognition together. The i093 → i094 page turn moves from a spoken denial into a more compromising self-account; i094–095 then places that private recognition near the reassurance Kanoko receives. These are not claims about an anime camera or a continuous movement. They concern which information is made adjacent, withheld, or newly available in the manga’s actual page sequence. [VIS01/VIS09/VIS14.]
+
+The dream also uses page sequence to distinguish desire from event. An apparently reciprocal interaction is followed by the awakening before the next workplace scene lets Sumika explain its relevance. The analyst’s task is not to avoid describing the imagined exchange, but to retain its subjective status in every later claim. The same discipline applies to the marriage fantasy and the inset festival plot. [VIS06/VIS11/VIS12.]
+
+#### The returning object is not the completed act
+
+The contact slip does the work that the photograph did earlier in a different register. It is materially present and offers a route to a relationship, but it does not determine the relation’s meaning or outcome. Owning a print did not make the smile Sumika’s; holding the contact paper does not make Kanoko an authorized mediator or establish a future meeting. The final object preserves an actionable possibility without telling the reader which action will follow. [VIS02/VIS19/VIS20.]

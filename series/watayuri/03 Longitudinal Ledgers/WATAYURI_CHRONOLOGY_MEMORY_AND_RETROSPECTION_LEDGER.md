@@ -4,14 +4,14 @@ artifact_id: WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER
 artifact_type: longitudinal_ledger
 series: "Yuri Is My Job! / 私の百合はお仕事です！"
 generation: WATAYURI_BOOTSTRAP_V1
-version: "0.9"
+version: "0.10"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 created: "2026-09-28"
-source_boundary: "Japanese V01–V08 mainline through V08 Shift 41/i158, also latest depicted present; packaged shorts separately bounded; V09–V14 inventory only"
+source_boundary: "Japanese V01–V09 mainline through V09 Shift 46/i134, also latest depicted present; packaged shorts separately bounded; V09 one-shot separate continuity; V10–V14 inventory only"
 canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMORY_AND_RETROSPECTION_LEDGER.md
 ---
 
@@ -27,7 +27,7 @@ canonical_home: series/watayuri/03 Longitudinal Ledgers/WATAYURI_CHRONOLOGY_MEMO
 
 **Update and revision rule.** Append retrospective records that link to earlier event IDs; revise the mature ordering if warranted while preserving original VNN presentation and uncertainty. Mark apparent contradiction OPEN when order or witness cannot be settled. Make targeted edits to mutable current-state rows while preserving dated prior states, IDs and frozen prospective readings. Use the claim ledger's explicit transitions for changed interpretations; an artifact-wide supersession requires the global authority procedure. The [architecture](../00%20Frameworks%20and%20Methods/WATAYURI_SYNTHESIS_ARCHITECTURE.md) owns cross-ledger routing.
 
-**Coverage:** V01–V08 mainline through V08 Shift 41/i158, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2 and 41.5 remain separately bounded; V04 EX is promotional. V01–V07 sections retain their earlier states; dated V08 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
+**Coverage:** V01–V09 mainline through V09 Shift 46/i134, also the latest depicted present. Packaged Shifts 6.5, 11.5, 16.5, 21.5, 26.5, 31.5, 36.1, 36.2, 41.5 and 46.5 remain separately bounded; V04 EX is promotional. V09’s one-shot is a separate work, not Watayuri continuity. V01–V08 sections retain their earlier states; dated V09 additions carry the current account. The owner-approved sequential-analysis lock is OPEN.
 
 **V01 evidence key for each record below:** `V01`, exact Japanese Drive witness `14sEQcf_V-iYCgyxgXcLYN5jCZXLE2Hlc`; `V01/NN/iXXX` cites an image in the fixed-layout EPUB. [Frozen reading](../02%20Sequential%20Readings/WATAYURI_V01_DEEP_READING.md) defines observations O01–O17 and the exact image/spine convention. Mainline freeze: Shift 06/i156. Packaged Shift 6.5, i158–161 is supplementary and has no established position after that endpoint. Records without a specific panel locator cite the contextual image interval in their linked reading observation. This is the initial V01 state; no prior-volume forecasts existed.
 
@@ -230,3 +230,32 @@ Narrative order, event order and later knowledge are not interchangeable.
 The mainline endpoint and latest-present endpoint coincide at **V08/41/i158**. This differs from V03 and V05, whose readings ended in substantial retrospection. The distinction must be checked afresh for each volume rather than inherited as a fixed structural assumption. V08 has retrospective insertions but ultimately returns to later café activity.
 
 No new evidence settles V06’s fine cast-removal chronology. That earlier discrepancy remains exactly where the accepted review left it. The V08 statement that the staff travel together cannot be used to harmonize an unrelated earlier “yesterday” expression.
+
+
+<a id="v09"></a>
+## V09 — Current additions and transitions — 2026-10-10
+
+**V09 evidence key:** source-map key `V09`, Japanese witness `1ul9LBhBmBD31tMYQZG5vHs17KLlDwjrK`, SHA-256 `598985a717491a8df61d8919884e49a828fa6422ef78a925f534ec1faac491d4`. The [frozen V09 reading](../02%20Sequential%20Readings/WATAYURI_V09_DEEP_READING.md#chronology) supplies full observations, context and image/spine conventions. Unprefixed iNNN and O/REL/PER/INF/AG/T/JP/VIS/C references in this section refer to V09; WY1–WY8 identities retain their earlier meanings. Mainline and latest depicted present both end at Shift 46/i134. Shift 46.5/i136–143 has finer chronology OPEN. Afterword/credits i144–146, separate one-shot i147–162 with closing page i163, and edition/bonus matter i164–168 do not advance the mainline endpoint. The one-shot’s characters remain outside Watayuri continuity. Accepted V06 and V08 corrections and all earlier frozen states remain intact.
+
+### Chronology, memory, and prospective boundaries
+
+Temporal ordering and causal interpretation receive different confidence judgments.
+
+| ID | Presentation and event class | Recoverable ordering | Confidence and restriction |
+| --- | --- | --- | --- |
+| **WY9-T01** | Interview and non-opening workday, depicted present | After V08’s return/trip; before album promotion shown operating in Shift 43. | High relative order; no invented calendar date. i001–022. |
+| **WY9-T02** | Photo production, later recollected | The smile photographed at i047/i071–072 belongs to production before the promotion’s current use. | High relation to the same image; do not create a second new shoot. |
+| **WY9-T03** | Promotion and off-duty consultation, depicted present | Autograph work and three-person reassurance precede the private jealousy/future discussion. | High narrative order; exact intervals not specified. i023–046. |
+| **WY9-T04** | Nene consultation and affective recognition | Nene’s suggestion precedes Sumika’s later dream and home self-recognition. | High order; suggestion need not be the origin of the feeling. i049–079. |
+| **WY9-T05** | Dream, subjective event | i075–076 dream is identified by awakening/reference at i077–079. | High status; no real Kanoko confession or shared memory. |
+| **WY9-T06** | Future festival script and practice plan | Late-September event is planned; practice alternatives discussed before actual home visit. | High as plan; no finished rehearsal or performed dissolution. i080–091. |
+| **WY9-T07** | Home visit, followed by next-day café | Kanoko proposes tomorrow; visit occurs; her next-day thought explicitly refers to the prior day’s Sumika. | High local ordering. i085–100. |
+| **WY9-T08** | Goeidō visit and private messages | Visit precedes the displayed request/reaction sequence and the following-day briefing. | High sequence; no completed meeting, exact contact history remains reported. i100–128. |
+| **WY9-T09** | Older café history, remembered/reported | i101 and Kanoko’s reconstructions refer to events preceding current staff composition. | Preserve already established past; new images do not automatically provide independent historical corroboration. |
+| **WY9-T10** | Final staff dispute, depicted present | Following day after Goeidō’s visit; opening-time pause and contact paper at i134 are latest mainline present. | **High endpoint: V09/46/i134**. No unseen aftermath supplied. |
+| **WY9-T11** | Separate half-chapter | Within Haruko’s kitchen tenure and current pair structure. | Exact insertion relative to the mainline remains OPEN; not necessarily after i134. i136–143. |
+| **WY9-T12** | One-shot and edition matter | Outside Watayuri mainline chronology; bonus associates itself with interview day. | No cross-continuity timeline or post-ending inference. i144–168. |
+
+The repeated photograph and the dream require opposite forms of caution. The photograph-production scene supplies a missing earlier context for an existing object. The dream supplies a subjective event that never happened between the real pair. Treating both as ordinary current scenes would create false chronology; treating both as meaningless fantasy would discard real production history and important private evidence. [T02/T05.]
+
+Nene’s statement and later message also require a temporal model rather than forced harmonization. The reliable record is: a stated present wish not to reopen; visible distress; an actual request to meet. Whether the later act expresses a changed wish, an earlier concealed wish, or a distinct purpose remains open. This is a causal question, not uncertainty about whether the message is shown. [T08; INF14–15.]

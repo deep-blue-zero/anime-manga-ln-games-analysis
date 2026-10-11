@@ -602,7 +602,7 @@
       "occurrences": 1
     }
   ],
-  "mandatory_operative_qualification": "The operative V2 keeps165 literary lines,65 source-scoped paragraphs,49 finite endings, nine rivals and86 source qualifications. Exact four-paragraph correction assigns kitchen oil/help to Haruna, clean wrapping/friendship appeal to Akari and joining to Junko; teasing/refusal and unfinished meal/cleanup remain. All15 immutable V1 files,102 plan files and16 operative files retain complete inverses. MAIN009/019 have present7a byte equality but omitted original copy-operation references; MAIN020 was captured at7a. Source-mode and actor seams, Izumi abandonment/company and intrinsic taste/aroma remain; no invented Gourmet institution or proxy School Lunch/Gourmet→Fuuka completion.",
+  "mandatory_operative_qualification": "The operative V2 keeps165 literary lines,65 source-scoped paragraphs,49 finite endings, nine rivals and86 source qualifications. Exact four-paragraph correction assigns kitchen oil/help to Haruna, clean wrapping/friendship appeal to Akari and joining to Junko; teasing/refusal and unfinished meal/cleanup remain. All15 immutable V1 files,102 plan files and16 operative files retain complete inverses. MAIN009/019 have present7a byte equality but omitted original copy-operation references; MAIN020 was captured at7a. Source-mode and actor seams, Izumi abandonment/company and intrinsic taste/aroma remain; no invented Gourmet institution or proxy School Lunch/Gourmet→Fuuka completion. 2026-10-11 operative correction: Reported receptor categories differ from mint preferences: Haruna dislikes mint, Junko tolerates it, and Izumi enjoys it. The fictional explanation and informal results do not validate biology. Akari pressures Sensei in their private cafeteria practice before a future public chocolate contest; Sensei's objections and unfinished portion remain. See operative_source_consistency_correction and its versioned register; historical wording is retained without current endorsement of these corrected details.",
   "new_completion_credit": 0,
   "all14_original_gaps": "OPEN_UNCHANGED",
   "complete_V2_to_V1_recovery": {
@@ -937,5 +937,26 @@
       "terminal_LF": "EXACT"
     },
     "operative_source_claim_readable_saved_full_inverse": "COMPLETE_EXACT_CORRECTION_ATTACHMENT_PRESERVED"
+  },
+  "operative_source_consistency_correction": {
+    "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json",
+    "correction_ids": [
+      "BA-SC-20261011-03",
+      "BA-SC-20261011-04"
+    ],
+    "qualification": "Reported receptor categories differ from mint preferences: Haruna dislikes mint, Junko tolerates it, and Izumi enjoys it. The fictional explanation and informal results do not validate biology. Akari pressures Sensei in their private cafeteria practice before a future public chocolate contest; Sensei's objections and unfinished portion remain.",
+    "effective_canonical_body_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_GOURMET_DIFFERENTIATED_PLEASURE_ENSEMBLE_SYNTHESIS.md",
+      "bytes": 50892,
+      "sha256": "b926d3828a3bed14c0ddc904e6091eb71d1ceae850c3279283ecf8712900bfc3",
+      "git_blob_oid_of_actual_bytes": "3521906c6d54e09be561938494a7f1dd37af4f3f"
+    },
+    "prior_canonical_body_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_GOURMET_DIFFERENTIATED_PLEASURE_ENSEMBLE_SYNTHESIS.md",
+      "bytes": 50340,
+      "sha256": "b49eb46bebea34f0e47b8fe1dc23cd86a484850dce9179f26409b15946578f4a",
+      "git_blob_oid_of_actual_bytes": "8c077f4909d005bec784efd0102f0fd5053372eb"
+    },
+    "preservation": "Original author/ROOT payloads, receipt decisions, source and paragraph hashes, attachment tuples, authority-framing snapshots and complete inverse ranges remain historical and unchanged. This dated correction governs current claim/endpoint use and the effective body binding; earlier canonical tuples and exact-unchanged-line labels describe the pre-correction snapshot. It does not claim new ROOT receiving, primary/media inspection, source admission, character identity, package, model, milestone or integration credit."
   }
 }

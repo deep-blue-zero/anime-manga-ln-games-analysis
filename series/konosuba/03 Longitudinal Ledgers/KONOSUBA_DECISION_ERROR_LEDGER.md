@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V09
+scope: V01-V10
 ledger_role: decision_error
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V09 main narrative
+source_boundary: Japanese main-series light novels through V10 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Decision and Error Ledger — Through V09
+# KONOSUBA Decision and Error Ledger — Through V10
 
 ## Purpose
 
@@ -678,3 +678,263 @@ Classification: environment-limited experience rather than low social cognition.
 - **Decision/outcome:** he overrides the concealment, initially enjoys the familiar address and praise, then tears the letter when it requests escort to the fiancé meeting.
 - **Mechanism/update:** accurate relational inference does not establish a wise or fair response. The abrupt reaction is observed; the relative roles of jealousy, protective older-brother identification, frustration and obligation are not resolved by V09. Iris's private preference and the future escort decision remain outside this entry.
 - **Class/confidence:** H1 action, H2 abrupt comic presentation; HIGH for sequence, OPEN for complete motive attribution.
+
+
+# V10 Update
+
+## Evidence boundary
+
+These entries derive from the complete sequential Japanese V10 main narrative only. Pr/C1/C2/C3/C4/C5/Ep map respectively to `text/part0009.html` through `text/part0015.html`; paragraph counts include blanks/images. Plans, self-explanations, reports and observed actions are distinguished. H1 denotes literal behavioral evidence, H2 comic amplification of a supported mechanism; stronger comic framing does not cancel bodily, relational or financial costs. No Gen03 prediction is rewritten, and RC-V09-01 remains the correction governing V09 equipment disposal and later detonation by Kazuma.
+
+## DE-V10-01 — Kazuma substitutes coercive protection for inquiry into Iris's wishes
+
+- **Stimulus/appraisal:** The invitation mentions a fiancé. Kazuma treats an unfamiliar prospective husband as a threat to his sister relationship before learning the funding objective or obtaining Iris's view.
+- **Goal/choice:** Acquire Death Sentence or recruit Megumin for a falsely attributed attack that forces cancellation; when those routes prove unavailable or meet rejection, accept the escort with sabotage in mind.
+- **Result/limit:** Darkness and Megumin reject the plan, while Aqua approves the propaganda. Kazuma later gives a more conditional account—he would accept a marriage Iris wanted—but continuing jealousy prevents that account from exhausting his motive. No proposed curse or attack occurs.
+- **Recurrence/transition:** REVISE pure protective-altruism shorthand; PRESERVE anticipatory rule/resource search with distorted goal selection. H1 plan, H2 extremity; HIGH for statements, MODERATE for motive hierarchy.
+- **Source:** C1 P0017–0048; C3 P0452–0463; C5 P0478–0485 (`我々魔王軍`, `アイリスが本当に望んでいるのなら`).
+
+## DE-V10-02 — Darkness's preventive detention omits ordinary bodily requirements
+
+- **Stimulus/appraisal:** Kazuma's stated scheme makes diplomatic harm foreseeable; containment until departure appears to remove the problem.
+- **Choice/expected payoff:** Bind him for three days, personally provide comfort and care, and decline the escort on his behalf.
+- **Result:** She has not planned for toileting and says she cannot release the binding early. Kazuma combines real practical urgency with admitted harassment; the improvised care becomes distressing. Aqua later removes the binding with magic.
+- **Learning/limit:** The restraint is not globally impossible to release; it exceeds Darkness's available remedy. The later drugging plan changes method without abandoning the suppression goal. No lasting improvement in bodily-risk planning is demonstrated.
+- **Class/confidence:** H1 cause and rescue, H2 presentation; HIGH. Civic concern does not justify erasing coercion or intimacy-related embarrassment.
+- **Source:** C1 P0053–0149 (`下の世話までは想定していなかった`, `アクアの魔法で`).
+
+## DE-V10-03 — Explicit jealousy permits a negotiated escort decision
+
+- **Stimulus/appraisal:** Kazuma readily works for Iris while Megumin wants attention after their preceding closeness.
+- **Choice:** She openly names jealousy instead of merely returning his provocation. He offers another approach if she does not want the group escort; she then agrees, citing her own concern for Iris.
+- **Result:** The practical choice changes through disclosure and a credible willingness to accommodate, not through denial that jealousy exists. Kazuma is embarrassed; Megumin remains composed.
+- **Recurrence/transition:** STRENGTHEN direct relationship negotiation, without inferring exclusivity or absence of later jealousy. This is a successful decision sequence, not an error entry disguised as one.
+- **Class/confidence:** H1 with comic reversal, HIGH.
+- **Source:** C1 P0175–0204 (`妬いてるんです`, `請けましょう`).
+
+## DE-V10-04 — Trusted detoxification capacity is mistaken for guaranteed availability
+
+- **Stimulus/appraisal:** A highly desirable meal contains poison. Aqua lacks the cooking qualification but offers treatment if symptoms occur; her equipment protects her from poison.
+- **Choice:** Everyone proceeds. Kazuma checks whether the healer could be incapacitated by poison and accepts the reassurance, overlooking drunken sleep; Darkness eats especially risky portions while boasting of resistance.
+- **Result:** The three diners develop symptoms while Aqua is asleep after drinking. They reach the Eris church and survive; the near-collapse is not an adventure victory and not proof that Aqua's poison protection failed.
+- **Recurrence/transition:** STRENGTHEN distinction between skill, readiness and backup provision. Kazuma expresses a local desire to avoid the meal thereafter; no global corrected practice is shown.
+- **Class/confidence:** H1 risk/cost, H2 escalation; HIGH.
+- **Source:** C1 P0216–0279 (`有害な状態異常`, `酔いつぶれてる`, `エリス教会に駆け込んで`).
+
+## DE-V10-05 — Familiarity licenses misuse of Darkness's name; she pays the cost
+
+- **Stimulus/appraisal:** The party has access to a powerful noble friend. Each treats that relationship as useful leverage for ordinary purchases or services.
+- **Choice:** Kazuma claims authority over a teleport operator and accepts an offered fee waiver; Aqua and Megumin reveal other uses of Darkness's name. They frame reciprocity as family-like mutual help.
+- **Result:** Darkness insists on paying and rejects imposing further on commoners, though she briefly responds warmly to their declaration of belonging. Affection does not make the institutional burdens reciprocal.
+- **Recurrence/transition:** PRESERVE coexistence of attachment and exploitation; STRENGTHEN Darkness's concrete civic restraint.
+- **Class/confidence:** H1, H2 rhetorical reversal; HIGH.
+- **Source:** C1 P0293–0321 (`庶民にこれ以上の迷惑`, `持ちつ持たれつ`).
+
+## DE-V10-06 — Claire and Kazuma cooperate under a shared narrow goal
+
+- **Stimulus/appraisal:** Both oppose the engagement, though prior interactions were antagonistic. Claire interprets the foreign court as dangerous to Iris.
+- **Choice:** Claire offers poison, which Kazuma rejects as exposing him to sacrifice and punishment. They instead agree on interference backed by her family crest.
+- **Result:** A conditional alliance forms; the credential later changes how officials and casino staff respond to Kazuma. Refusal of assassination is a real boundary, but not a refusal of coercive interference generally.
+- **Recurrence/transition:** STRENGTHEN instrumental reconciliation under common goals; OPEN Claire's wider reliability. No claim that her private assessment of all foreign motives is objectively complete.
+- **Class/confidence:** H1 proposal/action; HIGH.
+- **Source:** C2 P0063–0096 (`捨て駒になる気はない`, `当家が後ろ盾`).
+
+## DE-V10-07 — Recognition recruits useful cooking and instruction
+
+- **Stimulus/appraisal:** Iris wants to participate in ordinary food preparation and admires the companions' knowledge. Kazuma first excludes her on status grounds, then recognizes the deprivation; Aqua and Megumin see a receptive audience.
+- **Choice/result:** Kazuma assigns manageable work despite his own mistake with a live cabbage. Aqua teaches genuinely convenient simple food. Megumin gathers and prepares a successful meal with practiced technique; praise makes her take over even the serving she had assigned Iris. She also uses Aqua's valued liquor without securing permission, producing later distress.
+- **Recurrence/transition:** STRENGTHEN productive effects of recognition in everyday domains, alongside task displacement and other people's costs. No universal teacher competence follows.
+- **Class/confidence:** H1 skill/outcome, H2 status comedy; HIGH.
+- **Source:** C2 P0264–0317, P0321–0359, P0395–0458 (`見とれてしまいまして`, `単に言ってみただけ`).
+
+## DE-V10-08 — Kazuma exports expected trouble to the three tourists
+
+- **Stimulus/appraisal:** Three men invite the women out. Kazuma sees relief from managing foreseeable trouble and judges the adventurers physically capable of handling these ordinary men.
+- **Choice:** He encourages the excursion, forcibly delays the men's attempted withdrawal, promotes his companions' attractions and lets a promise to pay all expenses stand.
+- **Result:** Later reports describe a near-fatal sand-bath contest, destruction of a sightseeing flock and its escort's continuing distress, and disappeared restaurant property with large bills. Kazuma and all three companions flee the request to share compensation.
+- **Recurrence/transition:** PRESERVE sharp social prediction serving selfish burden transfer. The afternoon separation is temporary; it is not a durable household-abandonment test. Tourist harms remain literal adverse evidence.
+- **Class/confidence:** H1 acts/reports, H2 escalation; HIGH for observed refusal/payment flight, MODERATE for unseen excursion details.
+- **Source:** C3 P0081–0170, P0305–0323 (`お守り`, `半額だけでも`, `耳を塞いだ俺達`).
+
+## DE-V10-09 — Gaming expertise and reward amplify overkill
+
+- **Stimulus/appraisal:** Kazuma recognizes a familiar game and sees available rare cards, purchasable resources and a rules environment that allows a notorious combination.
+- **Choice:** Buy the components, deploy the combination and continue pursuing challengers after overwhelming a pleading opponent.
+- **Result:** He wins money and enjoys dominance; the opponent refuses another game. Her distress is not a qualifying familiar-companion intimate-teasing episode for the narrow Gen03-K04, but it prevents any global claim that tears always halt him.
+- **Recurrence/transition:** STRENGTHEN transferable game knowledge plus competitive overpursuit. Wealth and unusually good draws are also resources; do not attribute everything to reasoning alone.
+- **Class/confidence:** H1 decisions/results, H2 amplification; HIGH.
+- **Source:** C3 P0174–0226 (`日本では禁じ手`, `もう勝負は付いてる`, `対戦者求む`).
+
+## DE-V10-10 — The drugging counterplan survives attraction, then becomes mutual provocation
+
+- **Stimulus/appraisal:** Kazuma already knows Darkness intends sedation. Her conciliatory visit distracts him, but the sealed bottle and resistance to switching roles redirect suspicion toward the glass.
+- **Choice:** He breaks a glass, tests her willingness to drink, insists on reversing the service and exposes the scheme. Mutual pride then carries both into an intimate challenge; he supplies Megumin a misleading account when interrupted.
+- **Result:** The drugging fails. Discussion of unwanted self-sacrifice helps Darkness revise her opposition; comparison with Claire's trust adds leverage for the crest transfer.
+- **Recurrence/transition:** STRENGTHEN situational inference; PRESERVE deception and coercive interpersonal tactics. Appreciation expressed during a ruse cannot all be classified as insincere from the ruse alone.
+- **Class/confidence:** H1, H2 escalation; HIGH for sequence.
+- **Source:** C3 P0342–0481 (`グラスの方に薬`, `当家が後ろ盾`).
+
+## DE-V10-11 — Court provocation meets specialists' status defense
+
+- **Stimulus/appraisal:** Levi disparages the escort. Megumin treats it as a challenge, begins an incantation and identifies her destructive capacity; Aqua threatens retaliation and demands respect for her sect.
+- **Result:** Courtiers persuade the prince to retreat because of the groups' reputations. The immediate insult stops, but the conduct helps produce their exclusion from later audiences and burdens Darkness's diplomacy.
+- **Recurrence/transition:** STRENGTHEN counterpart-sensitive deterrence with external costs; do not call it a successful aid negotiation. Megumin does not actually cast here.
+- **Class/confidence:** H1 threat/response, H2 extreme stakes; HIGH.
+- **Source:** C3 P0539–0578, P0698–0699 (`次はありません`, `もう紅魔族とアクシズ教徒は連れて来るな`).
+
+## DE-V10-12 — Kazuma finds a jurisdictional opening but Iris must restrain his anger
+
+- **Stimulus/appraisal:** The chancellor cites poverty, conflicting with public prosperity and the prince's retained decision authority that Kazuma overheard.
+- **Choice:** Kazuma challenges the account, takes advantage of being mistaken for a royal brother and moves to the prince. Insult then prompts an angry response until Iris explicitly asks restraint for the mission.
+- **Result:** A new interlocutor becomes available, but funding is still refused. Kazuma moderates his action at her request while retaining intimidation in his apology.
+- **Recurrence/transition:** STRENGTHEN evidence-based maneuver and concrete relationship recruitment; PRESERVE moral/strategic costs of threats and role misrepresentation.
+- **Class/confidence:** H1, HIGH.
+- **Source:** C3 P0235–0248, P0620–0675 (`王子にも政治に関する決定権`, `私のために、我慢`).
+
+## DE-V10-13 — Iris converts refusal into repeated access
+
+- **Stimulus/appraisal:** Funding is refused and the engagement cancelled. Iris explicitly separates indifference to cancellation from distress about lost aid.
+- **Choice:** Despite a distressed physical outburst that tightens the prince's collar, she declares she will return daily. She later accepts combat challenges, switches from her destructive weapon to a practice sword on Kazuma's advice and wins limited funding increments.
+- **Result:** Persistence creates access and partial gains; strength does not automatically obtain the whole objective. Kazuma's encouragement helps her treat one-tenth as progress.
+- **Recurrence/transition:** REVISE passive-princess shorthand; PRESERVE distinction between capability and political authority. Her initial outburst is not costless just because the negotiation continues.
+- **Class/confidence:** H1 with H2 combat scale; HIGH.
+- **Source:** C3 P0675–0695; C4 P0025–0108 (`婚約破棄はちっとも構いません`, `また明日`).
+
+## DE-V10-14 — An ambiguous coin rule defeats a prince's asymmetric wager
+
+- **Stimulus/appraisal:** Darkness's intelligence identifies gaming pride; the prince can erase all accumulated support with one win. Kazuma has not initially considered a counter-stake but accepts the asymmetric condition and then defines the contest through his own wording.
+- **Choice:** Ask where the coin is, display closed fists and keep the coin elsewhere. Repeated guesses at a fist must fail under that setup.
+- **Result:** Original defense funding is restored. Disclosure of the trick fails to provoke a further wager for offensive funds: Levi recognizes the changed political downside and maintains that boundary, while honoring existing losses.
+- **Recurrence/transition:** STRENGTHEN rule/framing exploitation; REVISE a simple luck explanation and a universally manipulable-prince model. The trick's revelation is not itself a successful additional-funding method.
+- **Class/confidence:** H1, HIGH.
+- **Source:** C4 P0139–0197, P0244–0284 (`どちらにあるかなんて言ってない`, `そんなみえみえの挑発`).
+
+## DE-V10-15 — Aqua renews gambling resources instead of accepting the loss boundary
+
+- **Stimulus/appraisal:** Loss of spending money conflicts with desired entertainment and purchases. Aqua treats a manufactured tea omen as favorable and later converts collected monster materials into cash.
+- **Choice:** Resist sharing proceeds, seek Kazuma's winning company, copy bets despite objections and request borrowing after another complete loss.
+- **Result:** Copying coincides with Kazuma's lost exact-number bet; Darkness removes her and offers to buy the pet's souvenir instead of lending gambling money. Causal blame on Aqua's luck remains Kazuma's interpretation.
+- **Recurrence/transition:** STRENGTHEN resource-renewal and loss-chasing mechanism; no durable budget learning appears. The collection/sale itself is practical initiative, distinct from the later spending failure.
+- **Class/confidence:** H1, H2 personified luck; HIGH for acts, OPEN for luck causality.
+- **Source:** C4 P0008–0009, P0223–0240; C5 P0279–0282, P0324–0338 (`茶柱が出てくるまで`, `勝ったら返す`).
+
+## DE-V10-16 — Experience reward defeats the sightseeing frame
+
+- **Stimulus/appraisal:** A tourist shows Megumin a flock valued for experience. She construes the opportunity as something to destroy for gain, rather than a shared viewing experience.
+- **Choice/result:** She reports annihilating the flock, with the escort still visibly distressed afterward; compensation is demanded from the men. Later she returns to hunt survivors using an allowance from Darkness.
+- **Recurrence/transition:** STRENGTHEN reward-driven pursuit component of the model. This is not a clean whole Gen03-M06 test of continued artillery after diminishing returns to an originally agreed tactical mission; preserve the missing conjunction. V09's identity-related equipment disposal is a distinct earlier mechanism.
+- **Class/confidence:** H1 reported killing/return, H2 justification; HIGH for current report and witnessed aftermath.
+- **Source:** C3 P0311–0323; C4 P0155 (`一掃するしかない`, `残党狩り`).
+
+## DE-V10-17 — A false military threat fails before its intended target is reached
+
+- **Stimulus/appraisal:** Restored defense funds do not satisfy the offensive-aid objective. Kazuma wants the neutral stance to seem unsafe; the others resent Iris's treatment.
+- **Choice:** Use distant Explosion as a diversion, infiltrate the castle and plant a knife/threat falsely attributed to the enemy. Megumin supplies the acoustic method.
+- **Result:** Before the intended infiltration, the group is found fleeing undead and arrested after alarming the city. Interrogation and eventual release do not establish that the fake threat reached Levi or changed policy.
+- **Recurrence/transition:** PRESERVE failed planning and real civil disturbance alongside later successful improvisation. Task assignment alone is not sufficient for success; the source does not isolate the precise reason undead arrived.
+- **Class/confidence:** H1, H2 criminal-comedy framing; HIGH.
+- **Source:** C4 P0286–0293, P0297–0349 (`マッチポンプ`, `アンデッドに集られて逃げ惑っていた`).
+
+## DE-V10-18 — Interrogation relies on a detector with unrecognized limits
+
+- **Stimulus/appraisal:** A magical bell seems to remove the need to segregate witnesses. Darkness's expectations of coercion, Megumin's sincerely held destructive self-conception and Aqua's divine exception defeat straightforward questioning in different ways.
+- **Choice/result:** Aqua supplies false exonerating claims without triggering the bell, then states her actual divine identity; the prosecutor concludes malfunction. Kazuma instead secures release by displaying noble authority. The later ringing during assurances about him creates an additional reputational cost.
+- **Recurrence/transition:** REVISE objective-truth-machine inference. Darkness supplies a self-belief limit; Aqua supplies an aura/feeling account with a strong-falsehood exception. Neither silence nor ringing parses every embedded assertion automatically.
+- **Class/confidence:** H1 magic/institutional response, H2 comedy; HIGH for behavior, MODERATE for untested device theory.
+- **Source:** C4 P0344–0507 (`本人が真実だと思い込んでいれば`, `邪な気を感知`).
+
+## DE-V10-19 — Iris's excessive self-blame becomes forceful personal contribution
+
+- **Stimulus/appraisal:** Her companions were arrested while she despaired over insufficient aid. She interprets this as evidence that she herself has done nothing, contrary to her prior victories.
+- **Choice:** Formally recruit Darkness, force entry into the castle, defeat guards and demand the location of the country's most damaging monster so she can earn additional support. She rejects Megumin's added threat to destroy the country.
+- **Result/limit:** A new route opens, but she has caused property damage and injury and offers a potentially lethal personal undertaking. Her proposed written disclaimer does not prove all political or relational risks would disappear.
+- **Recurrence/transition:** STRENGTHEN duty/contribution pressure producing agency; REVISE timid or globally nonviolent models. Do not endorse her inaccurate self-assessment.
+- **Class/confidence:** H1, H2 force scale; HIGH.
+- **Source:** C4 P0511–0608; C5 P0016–0029 (`私はまだ、何もしていない`, `私にそんなつもりはありません`).
+
+## DE-V10-20 — The dragon fight uses distinct capacities and a reserve attack
+
+- **Stimulus/appraisal:** A powerful dragon appears unexpectedly. Darkness steps forward and identifies her offensive limitation; Kazuma wants to preserve valuable materials if feasible.
+- **Choice:** Darkness activates Decoy, Aqua buffs defense and Iris's attack, Iris charges her finishing technique, and Megumin is instructed to prepare Explosion as a contingency if Iris cannot resolve the fight.
+- **Result:** The dragon hesitates rather than immediately attacking, and Iris kills it in one strike. Megumin does not fire; Kazuma's proposed archery is not narrated as an effective landed contribution. Darkness does not take a shown hit.
+- **Recurrence/transition:** STRENGTHEN observable role/timing coordination without asserting indispensable necessity of every participant or a durability feat that did not occur.
+- **Class/confidence:** H1 causal sequence, HIGH; dragon's inferred appraisal MODERATE.
+- **Source:** C5 P0097–0126, P0147–0157 (`私は攻撃が不得手`, `アイリスがどうにも出来なきゃ`).
+
+## DE-V10-21 — A valued friend's success provokes specialist-identity defense
+
+- **Stimulus/appraisal:** Iris receives the finishing credit using a technique whose name resembles Explosion. Megumin treats both prestige and nomenclature as challenges to her special status.
+- **Choice:** Assert her spell could have achieved the same result, claim deliberate restraint and demand that Iris not use the technique again.
+- **Result:** Iris first reassures, then distinguishes the names and rejects the copying accusation. No new Explosion build or real ban on Iris's ability is established.
+- **Recurrence/transition:** STRENGTHEN identity-threat response toward a valued companion; the full known-cost-veto branch of Gen03-M01 still needs its precise cost condition. This is not valued-target killing or grave friendly-fire inhibition.
+- **Class/confidence:** H1 statements, H2 scale; HIGH.
+- **Source:** C5 P0147–0157 (`今後二度と使わせません`, `エクスプロード`).
+
+## DE-V10-22 — Casino accumulation combines real wins, coercive access and bounded risk control
+
+- **Stimulus/appraisal:** The dragon bounty is insufficient and direct aid remains blocked. Kazuma uses the prince's own suggestion and obtains privileged casino access; Iris authorizes use of the funds despite Darkness's initial objection.
+- **Choice:** Wager with exceptional observed success and noble backing, increase the scale after repeated wins, then remove Aqua and Megumin when they disrupt betting. He refuses a proposed all-in recovery wager but continues exact-number play and repeated visits.
+- **Result:** Accumulated winnings create national financial pressure and force a renewed audience. His stated lack of interest in permanent gambling and anticipation of its dangers qualify, rather than erase, risk escalation.
+- **Recurrence/transition:** STRENGTHEN adaptive leverage; record both reward-driven increase and restraint. Eris's active intervention is hoped for, not observed.
+- **Class/confidence:** H1 results/choices, HIGH; metaphysics of luck OPEN.
+- **Source:** C5 P0207–0213, P0243–0342, P0376–0408 (`そろそろデカい勝負`, `賭けねーよ`, `王子が良いって`).
+
+## DE-V10-23 — Anticipated retaliation is prepared for, but overthreatening loses the evidence
+
+- **Stimulus/appraisal:** Kazuma expects being attacked after casino success and sees possible blackmail leverage if sponsors can be proved.
+- **Choice:** Bring armed, buffed companions, take a dark route and plan capture plus detector questioning. He threatens that even severe harm can be reversed by Resurrection.
+- **Result:** The men flee and companions react adversely. His claim that he only intended intimidation is a later explanation; the intended capture and sponsor proof do not occur. The men's flight does not establish that the casino or state hired them.
+- **Recurrence/transition:** REVISE universal retaliation-blindness; PRESERVE a locally counterproductive intimidation error within an otherwise anticipatory plan.
+- **Class/confidence:** H1, H2 threat; HIGH for sequence, OPEN for affiliation and full intent.
+- **Source:** C5 P0347–0372 (`必ず待ち伏せてる`, `裏を取る`, `相手が怯むかな`).
+
+## DE-V10-24 — Levi changes political commitment after Iris acknowledges his constraint
+
+- **Stimulus/appraisal:** Casino pressure forces disclosure of an enemy nonaggression bargain. Iris recognizes his survival concern and offers to preserve relations without blaming him personally.
+- **Choice:** Levi proposes a fresh honest wager on Belzerg defeating the Demon King. The result is compressed, followed by explicit confirmation of both continued defense funding and new offensive aid.
+- **Result/limit:** The policy changes while Ragcraft is still accepted as chancellor. His later exposure cannot explain this prior decision. The source supports a conjunction of pressure, admiration, moral/interpersonal relief and wager framing; it does not isolate a single sufficient cause.
+- **Recurrence/transition:** REVISE simple foolishness and pure personal-hostility models.
+- **Class/confidence:** H1, HIGH for order; MODERATE for motive weights.
+- **Source:** C5 P0401–0477 (`そんなに辛そうな顔`, `ベルゼルグが魔王を倒す方にベット`).
+
+## DE-V10-25 — Ragcraft's administrative success and revenge both displace strategic economy
+
+- **Stimulus/appraisal:** In his account, a spy placement becomes sustained work repairing a dysfunctional state; he only later asks whether so much success was necessary. Defeat of his political scheme then makes the party's distress a desired reward.
+- **Choice:** He identifies Iris as the valued target, reveals identity and plan to living captives and announces further impersonations before attacking her.
+- **Result:** Kazuma and Darkness escape through complementary abilities; his approaches fail to neutralize all companions, and Iris defeats him before rescuers enter. His administrative history is reported, not independently witnessed in full.
+- **Recurrence/transition:** OPEN a secondary goal-absorption/retaliatory-display mechanism; do not generalize a single confession or assume his strategic choices were inevitable.
+- **Class/confidence:** H1 reported history/action; HIGH for captivity speech, MODERATE for history.
+- **Source:** C5 P0581–0618, P0691–0707 (`ここまでやる必要`, `愉悦`).
+
+## DE-V10-26 — Intimacy expectations make a disguise effective; counterpart knowledge detects it unevenly
+
+- **Stimulus/appraisal:** An apparent Megumin invokes the kind of approach Kazuma has been waiting for. He interprets it through their V09 exchange and stops questioning identity.
+- **Choice/result:** He closes his eyes at the impostor's request and loses consciousness, later awakening bound. Darkness subsequently detects false Kazuma through incongruent calm, attention and status language, but hostage concern and fantasy still permit capture. Aqua and Megumin initially misattribute the impostor's approaches to Kazuma.
+- **Recurrence/transition:** STRENGTHEN desire-conditioned susceptibility and relationship-specific detection; PRESERVE the difference between recognizing a threat and successfully resisting it. No actual new Megumin invitation is recorded.
+- **Class/confidence:** H1, H2 intimate framing; HIGH for sequence, OPEN for exact incapacitation method.
+- **Source:** C5 P0488–0585, P0681–0695 (`返事を待たず`, `本物のカズマではない`).
+
+## DE-V10-27 — Darkness initiates an escape that Kazuma completes through resource fit
+
+- **Stimulus/appraisal:** Iris is under an explicit threat; force alone and noise fail while both captives are gagged and bound.
+- **Choice:** Darkness uses her teeth to shift Kazuma's gag. He coordinates movement, ignites and burns through his own gag despite heat and pain, then ignites her rope because her strength can break the weakened binding faster than his.
+- **Result:** They escape still handcuffed and seek the others. Their rescue effort is sincere, but Iris delivers the decisive attack as they try to open her door, before they can intervene.
+- **Recurrence/transition:** STRENGTHEN crisis initiative in both characters and independently describable skill coordination. Neither Kazuma-only ingenuity nor passive Darkness fits the sequence.
+- **Class/confidence:** H1, HIGH.
+- **Source:** C5 P0622–0663, P0699–0707 (`さるぐつわに嚙みつかれた`, `だがお前なら`).
+
+## DE-V10-28 — Alliance repair does not reinstate a cancelled engagement
+
+- **Stimulus/appraisal:** After public rescue and reconciliation, Levi speaks as if marriage will make Kazuma his brother. Kazuma explicitly recalls the cancellation.
+- **Choice/result:** Levi explains the earlier hostility as a political distancing tactic and appeals to Iris. She offers continued friendship between countries and between themselves, thereby declining restoration in this exchange.
+- **Recurrence/transition:** STRENGTHEN Iris's direct relational agency. This does not retrospectively prove she had an unwanted prior engagement, nor establish a clean conflict between a declared private wish and an unavoidable royal duty. Present alliance and marriage are separated in her response.
+- **Class/confidence:** H1 choice, H2 timing; HIGH.
+- **Source:** C5 P0736–0758 (`婚約解消したじゃん`, `ずっとお友達でいましょうね`).
+
+## DE-V10-29 — A gift's relational meaning exceeds its price
+
+- **Stimulus/appraisal:** Kazuma wants a souvenir for Iris, who missed sightseeing, and feels uneasy about retaining her earlier ring. He buys a cheap provisional substitute, then forgets to seek a costlier one.
+- **Choice/result:** Iris treasures the gift; Megumin asks for a comparable token and receives a more expensive snack. His price comparison fails to meet the expressed relational concern. Aqua accepts an interesting stone; Darkness's eventual gift is not shown.
+- **Recurrence/transition:** STRENGTHEN giver-specific ordinary-life value and limits of Kazuma's social equivalence judgments. Neither the ring nor the address shift establishes a formal adult romantic agreement.
+- **Class/confidence:** H1, H2 rivalry; HIGH.
+- **Source:** C3 P0251–0286; Ep P0034–0060; Pr P0003–0021 (`値段の問題ではありません`, `ありがとう、お兄ちゃん`).

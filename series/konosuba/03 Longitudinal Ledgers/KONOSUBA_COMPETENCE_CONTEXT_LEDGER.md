@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V09
+scope: V01-V10
 ledger_role: competence_context
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V09 main narrative
+source_boundary: Japanese main-series light novels through V10 main narrative
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Competence-in-Context Ledger — Through V09
+# KONOSUBA Competence-in-Context Ledger — Through V10
 
 ## Governing rule
 
@@ -436,3 +436,110 @@ Conventional institutions can supply target separation, role assignment, and sup
 The successful configuration is distributed: Aqua and helpers keep the defensive structure intact; Darkness supplies authority and motivational assignment; Kazuma connects changing capacities and enemy incentives; Megumin supplies specialized range/output; Yunyun supplies extraction; conventional fighters handle mass defense. Its effectiveness contrasts with the clear but counterproductive kill-count contest. Useful structure must align incentives as well as allocate roles. (`part0011.xhtml`, P0120–0271; `part0014.xhtml`, P0043–0110, P0193–0258.)
 
 Kazuma's epilogue insult that Darkness did not help must not become an assessment row. The volume directly shows shielding, injury, formal responsibility and repair-role assignment. Likewise, Megumin's spectacular victory does not absorb Yunyun's transport contribution or Aqua's strategic repair into a solitary-winner account. (`part0012.xhtml`, P0223–0272; `part0014.xhtml`, P0083–0097, P0199–0258; `part0015.xhtml`, P0019–0024.)
+
+
+# V10 Update
+
+## Source, inference and scoring boundary
+
+Complete sequential Japanese V10 main narrative only: Pr/C1/C2/C3/C4/C5/Ep correspond to `text/part0009.html`–`text/part0015.html`, with every body paragraph counted. Competence means a demonstrated capacity under stated conditions; it does not imply good goals, ethical conduct, constant availability or freedom from error. Source reports, narrator inferences and unperformed plans are labeled below. Earlier histories and RC-V09-01 remain preserved, and the entering Gen03 model/predictions are not rewritten.
+
+## Kazuma
+
+### Information, reasoning and problem construction
+
+V10 extends a recurrent ability to exploit ordinary-looking resources. Lip-reading reveals a plan discussed within sight but out of hearing, later supplies the prince's private appraisal and preserves Darkness's quietly offered promise. Its value depends on visible mouths and readable speech, not access to minds. Public restaurant conversation supplies information about the country's prosperity and the prince's political authority, which Kazuma later uses against the chancellor's presentation of fiscal impossibility. The source distinguishes information collection from inference: favorable business conditions challenge the story but do not independently amount to a full fiscal audit. C2 P0045–0056; C3 P0235–0248, P0478–0479, P0571–0578, P0620–0643 (`読唇術`, `街の噂で聞いた`).
+
+The coin contest is a particularly clear reasoning case. Darkness supplies the prince's interest and competitiveness; Kazuma supplies ambiguous framing, controls the coin's position and lets the prince assume two fists exhaust the possible answers. The result is not evidence that high luck caused every success. Once the trick is disclosed, it no longer moves the prince across a different political boundary. Kazuma's model of the opponent improves, but his attempt to provoke additional funding fails. C4 P0139–0197, P0244–0284 (`どこにあるか`, `どちらにあるかなんて言ってない`).
+
+### Planning, risk and revision
+
+Strong local planning coexists with bad designs and incomplete threat models. He suspects sedation, uses the sealed bottle and Darkness's resistance to sharing roles to identify the glass as the likely route, and prevents the attempt. Yet the opening curse/false-attack proposal begins from an unverified account of Iris's wishes, and the later nighttime diversion ends in arrest before achieving its intended palace infiltration. The party is reported found fleeing undead; the text here does not fully isolate why the undead arrived. Noble backing repairs the detention outcome, not the original plan. C1 P0017–0048; C3 P0342–0447; C4 P0297–0349, P0474–0484.
+
+The casino sequence specifically contradicts universal inability to anticipate consequences. Kazuma explains why a long-term gambling career would endanger him, secures privileged access and noble backing, brings armed/buffed allies and predicts an ambush. He then fails to secure the intended captives because his threats induce flight. He scales his wagers after success, continues exact-number play after losing, and refuses Megumin's proposed all-in bet; all three choices belong in the risk account. The narrative establishes repeated wins, not a mathematically quantified chance of winning or observed active aid from Eris. C5 P0207–0213, P0243–0372 (`今これが出来るのは`, `必ず待ち伏せてる`, `賭けねーよ`).
+
+### Technical skill and limits
+
+He combines learned gaming knowledge, purchased cards and a permissive rules environment into a dominant deck; exceptional card draws also appear in others' appraisals. In ordinary cooking he produces a successful meal and includes Iris, but first neglects the world's live-food hazard. Small spells support cooling, cleanup and the escape from restraints. The escape requires Darkness to create a speaking gap and later exploit her greater strength; his own limited strength makes the alternative slower. At the dragon he proposes rear archery, but no effective arrow strike is shown. C2 P0264–0317, P0454–0456; C3 P0174–0226, P0378–0384; C5 P0102–0108, P0644–0657 (`食材の生死の確認`, `だがお前なら`).
+
+### Social judgment and emotional regulation
+
+Kazuma can identify a specific emotional need and respond usefully: Megumin's direct disclosure causes reconsideration; Iris's appeal restrains his anger; he recognizes her contribution when she blames herself. He also manipulates strangers into absorbing costs, misrepresents Darkness's purpose, uses elite credentials coercively and retains possessive jealousy after political success. His desired intimacy makes the impersonator's approach effective. These are failures of goal selection, attention and interpersonal responsibility, not evidence that he lacks all social comprehension. C1 P0175–0204; C3 P0081–0170, P0434–0463, P0647–0664; C5 P0215–0239, P0478–0585. **STRENGTHEN** adaptive, resource-dependent practical competence; **REVISE** both universal second-order blindness and global good judgment. HIGH for capacities/actions, MODERATE for cross-context transfer.
+
+## Aqua
+
+### Established specialist capacity versus being ready when needed
+
+Aqua releases the binding that Darkness says cannot be undone early. She promises detoxification and has poison-protective equipment, yet the meal fails because she becomes asleep after drinking; the other three require an Eris church. The correct decomposition is capacity, availability and backup provision. It is not supported to claim the divine equipment failed against poison or that Aqua could not perform detoxification if engaged. At the dragon she supplies actual defensive support to Darkness and attack support to Iris despite her fear and complaints. C1 P0100–0144, P0216–0279; C5 P0032–0043, P0097–0126 (`アクアの魔法で`, `酔いつぶれてる`).
+
+### Practical/artistic range and externalities
+
+Simple food knowledge has real value for two sheltered companions and earns their admiration; convenience is demonstrated rather than falsely inferred from formal sophistication. Her reported high-end restaurant performance is technically remarkable while consuming/displacing others' property and generating compensation demands. Collecting and selling valuable monster parts shows mundane resource initiative; converting the proceeds into renewed casino exposure is a separate decision problem. No artistic or sacred capacity warrants a global competence score detached from task objective and ownership costs. C2 P0321–0359; C3 P0314–0323; C4 P0223–0240 (`一分もかからない`, `消えたグランドピアノ`).
+
+### Detection and deception
+
+Her interest in Ragcraft at first meeting is a partial signal: she reports neither a demon smell nor an undead presence and does not identify a doppelganger. She later fails to detect false Kazuma. Divine status therefore does not equal unrestricted detection of magical impersonation. In interrogation she exploits a specific detector limitation. Darkness explains that sincere belief is not registered as a lie; Aqua explains her holy aura's interaction with the malign feeling accompanying ordinary lies. A later emphatic false reassurance does ring. The observations support a bounded exception, not omnipotence or proof that everything she earlier said was sincere. C3 P0594–0602; C4 P0432–0470, P0503–0507; C5 P0681–0695 (`なんとなく`, `よほど心にも思っていない`).
+
+### Goal control
+
+Fear can delay commitment, but a personal request recruits support. Praise, luxury and gambling rewards can recruit action too, while her loss-chasing and resistance to withdrawal impose costs. Kazuma's lost roulette bet coincides with her joining it; his bad-luck account is not an isolated causal experiment. **PRESERVE** high capacity with state-specific failure, **STRENGTHEN** operational-readiness distinction, **OPEN** unvalued maintenance/available maximal shortcut and the reach of supernatural diagnosis. C5 P0032–0043, P0279–0341; Ep P0007–0021.
+
+## Megumin
+
+### Household and social competence
+
+Megumin knows how to gather and prepare the food she ate in her home village. The meal's success, her handling of several preparations and the others' eventual favorable reactions establish practical competence independent of Explosion. She explains procedure and responds to admiration by taking over work rather than withholding it. Her performance also uses Aqua's special liquor without permission, and she admits the supposed secret-clan status of the recipe was invented. Capacity, cost awareness, ownership respect and self-dramatization should remain separate axes. C2 P0369–0458 (`見事な手際`, `単に言ってみただけ`).
+
+Her direct jealousy disclosure and concern when Iris is discouraged show that emotional perception can be acute. She can defend a friend and enjoy mentorship while failing to respect the friend's independent achievement: the objection to Iris's finishing attack combines status competition with a dispute about its name. No conclusion of global social obtuseness, global companion-cost inhibition or romantic exclusivity follows. C1 P0175–0204; C5 P0147–0157, P0219; Ep P0041–0045; Pr P0007–0018.
+
+### Field knowledge, deployment and inference limits
+
+Her advice about water, fire and signs of animals is presented in contexts where party abilities alter the constraints. Enemy detection, Create Water and Concealment make several warnings less decisive; being interrupted as teacher is not itself proof that the knowledge is false. Her loud correction precedes the dragon's appearance, but the book does not supply a controlled test that isolates noise rather than fire or another cause. C5 P0048–0089 (`敵感知スキル`, `潜伏スキル`, `釈然としません`).
+
+At the dragon she is frightened, and Kazuma assigns her reserve artillery; she does not deliver the killing blow. Her counterfactual certainty that Explosion would have won is a claim, not a demonstrated V10 feat. Her acoustic expertise supplies the proposed night diversion, but the mission fails; the spell's functioning does not make the plan effective. Her repeated flock hunting supplies an experience-reward case outside an agreed tactical mission. C3 P0311–0323; C4 P0155, P0318–0337; C5 P0102–0106, P0147–0157.
+
+### Self-justification and revision boundary
+
+The detector does not certify a prior life as a destruction deity or an objectively necessary daily detonation. The later explanation explicitly allows sincere belief to pass. Her threat to destroy Elroad is rejected by Iris; her proposed all-in casino recovery is blocked by Kazuma. **STRENGTHEN** identity-sensitive competition and real ordinary competence; **PRESERVE** damaging preferences and poor inhibition under certain rewards. **OPEN** the exact build-burden, valued-target and grave-friendly-harm branches where the necessary choice is absent. C4 P0394–0433, P0593–0600; C5 P0339–0341.
+
+## Darkness / Dustiness Ford Lalatina
+
+### Civic, logistical and informational contribution
+
+Darkness supplies transport operation, the royal lodging device, knowledge of political and royal institutions, information on Levi's preferences, attempts at diplomatic containment and insistence on paying a civilian fairly. Her authority and crest materially assist Kazuma, even when his narrative calls her useless. These capacities do not require successful sword offense. Conversely, her restraint design omits bodily-care requirements, her attempt at covert sedation is readable and her emotional response to claims about trust helps Kazuma obtain a high-value credential. C1 P0053–0144, P0293–0321; C2 P0126–0129, P0254–0262, P0508–0541; C3 P0342–0481; C4 P0012–0020, P0146–0154.
+
+### Combat, strength and crisis improvisation
+
+Her dragon intervention is an actual protector action: she draws attention, names the need for Iris to attack from safety and remains in place under pressure. Aqua's defensive buff and the dragon's delay are part of the conditions. No landed attack means no new observed durability threshold. Later she initiates gag removal and supplies the strength Kazuma needs to break weakened restraints. She then moves to protect Iris rather than treating captivity solely as a desired scenario. C5 P0097–0126, P0612–0663 (`デコイ`, `だがお前なら`).
+
+### Counterpart knowledge and emotional boundaries
+
+Darkness correctly detects an impostor through deviations from Kazuma's expected behavior, including oddly fluent courtship and attention patterns; the epilogue confirms she disputes being omitted from the recognizers. Detection does not prevent capture when the impostor invokes Kazuma as hostage and the scene also activates her fantasy. The sand-bath contest injures an ordinary rival, while interrogation disappoints her because it does not supply the coercive scenario she sought. These are consequential regulation failures alongside later urgent problem-solving. C3 P0305–0309; C4 P0352–0378; C5 P0550–0579, P0612–0657; Ep P0024–0027.
+
+**STRENGTHEN** distinct defense, physical, institutional and relational capacities. **PRESERVE** finite limits and fantasy/shame interference. **OPEN:** no clean new test of a truly incompatible civic/family demand against durable party membership occurs merely because she alternates between official concern and companion trust.
+
+## Iris
+
+### Fighting skill is demonstrated; its whole causal decomposition is not
+
+Iris repeatedly defeats road monsters; destroys a knight's weapon, accepts correction and wins with a practice sword; defeats a griffin and multiple golems; and kills the golden dragon with a concentrated finishing technique. The practice-sword episode is especially useful against the claim that every success is simply the inherited artifact. Darkness's explanation attributes royal strength to selected lineage, education, rich experience-bearing food and inherited equipment; the volume does not isolate each factor experimentally. Kazuma sees the dragon's surprise and the aftermath but explicitly cannot describe the finishing technique in detail. C2 P0194–0218; C4 P0025–0073, P0112–0135, P0201–0220; C5 P0097–0126, P0147–0148 (`どういった技なのかは分からない`).
+
+### Political and emotional competence have different boundaries
+
+She makes a composed first greeting, restrains Kazuma for the mission, persists after rejection and eventually recognizes an opponent's survival concern without humiliation. That last intervention immediately precedes Levi's affirmative gamble, alongside the economic pressure Kazuma has created. Her combat superiority alone does not secure funding: the chancellor's refusal after the dragon demonstrates the limit. Her contributions also include excessive physical pressure, property destruction and inaccurate self-condemnation. Being effective under some political conditions does not erase being inexperienced or dangerously forceful under others. C3 P0520–0527, P0647–0695; C4 P0511–0608; C5 P0178–0203, P0412–0477.
+
+### Everyday learning and recognition
+
+Iris's desire to cook and gather food produces real participation and correction of Kazuma's basic food mistake. She has limited experience, not general low intelligence. She resists unwanted help, teases him and finally declines the proposed restoration of the engagement while affirming friendship. The interior encounter with Ragcraft is not shown: the source establishes the attack's result and her later confidence in judging people, but not precisely what cue exposed him or the exact order before the visible strike. C2 P0270–0317, P0369–0423, P0464–0469; C4 P0263–0274; C5 P0699–0707, P0754–0758; Ep P0024–0030. **STRENGTHEN** a highly capable, context-variable secondary model; **OPEN** unobserved cognitive mechanisms and independently matched wish–duty tests.
+
+## Levi, Ragcraft and the limits of competence labels
+
+Levi is vulnerable to an elementary framing trick and delegates heavily, but honors the result after exposure, distinguishes restoring an existing obligation from initiating offensive support, resists further provocation and later changes policy under a different interpersonal/political context. His ability to make that commitment is present before the chancellor's disguise is exposed. `バカ王子` is public reputation and later self-reproach, not a complete diagnostic category. C4 P0244–0284; C5 P0016–0029, P0185–0203, P0446–0477, P0711–0758.
+
+Ragcraft demonstrates convincing resemblance and a successful infiltration, while poor relationship modeling exposes false Kazuma to Darkness. His claim of more than thirty years of administrative recovery is partly consonant with public praise, but remains self-report in its details. Administrative skill can serve an enemy and can displace that enemy's original goal; it is not automatically wisdom. Revelation and revenge leave room for escape, and the attack on Iris fails. C3 P0235–0248; C5 P0488–0618, P0681–0707.
+
+## Ensemble comparison and prospective limits
+
+V10 supplies multiple independently describable arrangements. The pufferfish meal depends on a single specialist who becomes unavailable. The agreed diversion has roles but fails before its goal. The dragon combines attention diversion, buffs and charge time; no source-backed counterfactual proves each was strictly indispensable. Escape requires a speaking gap, ignition and stronger hands, initiated by Darkness and extended by Kazuma. Casino work improves when disruptive bettors are removed while assistance and authority remain. Iris's separate victories against knights also caution against a universal claim that every formidable obstacle requires full-party coordination. C1 P0216–0279; C4 P0025–0073, P0318–0337; C5 P0097–0126, P0334–0341, P0622–0657.
+
+These observations support comparison of constraints, resources, timing and actual providers. They do not license redefining successful performance as proof of good coordination, or treating every unsuccessful plan as an absence of coordination after the fact. Temporary task splits, sightseeing apart and the group's return together do not independently test an attractive durable exit from the household. No Gen04 is created here.
