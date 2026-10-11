@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.65"
+version: "11.66"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 229 complete i-n-g primary documents / T7S_B0080–T7S_B0164; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 232 complete i-n-g primary documents / T7S_B0080–T7S_B0165; eleven authored choice groups, all in EPISODE 1.0; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-11
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 762`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 898`; `last_closed_block = T7S_B0164`. The admitted horizon contains 464 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 229 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 774`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 911`; `last_closed_block = T7S_B0165`. The admitted horizon contains 467 primary documents comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. The first 232 admitted i-n-g episode documents are integrated; all other non-Main and every 2053 semantic state remain outside this ledger horizon. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -2697,3 +2697,40 @@ Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.68. [B0164](../02%20Readings/
 | `EDGE-0905` | `UNWARRANTED_REASSURANCE_TO_CHOSEN_BELIEF_AND_RENEWED_PARTNERSHIP` | `012` distinguishes Player's confidence, Chacha's criticism and her election to believe; it does not manufacture empirical reception. |
 
 `T7S_B0164_CLOSE-20261011`: twelve events and thirteen typed edges. The complete temporary-attendance case closes; filmed role, direct message, reunion, classmate reception, performed music and durable social transformation do not.
+
+## B0165 Miu's demanding lead and consultation before protective withdrawal
+
+Witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.69. [B0165](../02%20Readings/T7S_B0165_DEEP_READING.md) owns the complete A/B/C key and committed B0164 entering freeze. General willingness, accepted offer, disclosed demands, peer preparation, fatigue/collapse report, intended cancellation, consultation, explained trust and a reported-success coda form one causal envelope. The specific offer is accepted before A:P92–99 informs Miu of its demands; her subsequent assent is explicit but not a shown pre-acceptance detailed consultation. Cuts do not supply dates or place the case against Main. B:P7 explicitly recalls earlier cute instruction; B0143 supplies a bounded comparison, not a dated whole-portfolio order.
+
+| ID | Position and factual/causal record | State delta and evidence limit |
+| --- | --- | --- |
+| `EV-B0165-001` | At work Player considers an offer; before a planned joint stream, Miu/Monaka tease his chair fall and disorder. Asked about career direction, Miu accepts his suitability judgment but wants a new challenge. | A:P2–56; `KNOW-0538`. Prior bit-part/occupational history and upcoming recording/stream are reported context, not present performed material or specific informed contract assent. |
+| `EV-B0165-002` | After the phone exchange Player announces Miu's lead in popular-manga drama `エメラルドの弾丸`. Coney qualifies benefits and reports strict direction, English/action and limited reliance on stunt doubles; Player hopes effort/time will suffice. | A:P61–87; `KNOW-0539`. Offer/director/production claims mediated; Coney's exact concern initially remains unshared, no safety plan or guaranteed result. |
+| `EV-B0165-003` | Player explains training/English requirements to Miu. She anticipates friends' teasing, acknowledges weak English grades and commits because he judged her capable; they jointly cheer. | A:P92–99; `KNOW-0540`. Explicit challenge acceptance after the specific job is accepted, no full contract/guardianship/safeguards adjudication. |
+| `EV-B0165-004` | Xiao demands sharper action repetition, names herself master and invokes repayment for prior cute instruction; Susu teaches confident delivery and imitation rather than assessing pronunciation alone. | B:P1–19; `KNOW-0541`. Reciprocal informal peer lessons, not certified curriculum, heard English, native fluency or actually inspected choreography. |
+| `EV-B0165-005` | Monaka waits to go home with Miu because lessons reduce shared leisure. Miu is asleep; Monaka suspects fatigue and mentions tests. On waking, Miu objects to Player staring; he apologizes. | B:P24–40; `KNOW-0542`. Particular friend concern and stated boundary, not universal gender law or visually rendered prone body. |
+| `EV-B0165-006` | Player consults Susu/Xiao. Susu distinguishes plausible role-line delivery from impossible native-level fluency in the available time and rejects reducing lessons; Xiao makes action success contingent on director demands despite lacrosse coordination. | B:P45–56; `KNOW-0543`. Narrow margins by coaches' accounts; daily/no-rest language is not an endorsed safe professional plan. |
+| `EV-B0165-007` | Player doubts his earlier judgment; Xiao reports a collapse during lessons. At the hospital Miu attributes it to all-night study and sleeping deeply, reports her mother's laughter, and discusses Monaka's glucose suggestion with a nurse's contrary answer. | B:P61–86; `KNOW-0544`. Collapse reported, sleep/recovery explanations attributed; no clinical diagnosis/clearance or actual infusion administered. |
+| `EV-B0165-008` | Player proposes cancellation from concern over harm. Coney establishes Miu has not asked to quit, challenges his surface model and avoidance of knowing her, and recommends talking before deciding while allowing refusal. | B:P91–132; `KNOW-0545`. Her latent-doubt account is interpretation; concern remains legitimate, no unconditional command to persist or actual cancellation. |
+| `EV-B0165-009` | Miu self-trains after reported restorative sleep, acknowledges unusually hard work, asks for praise and says Player's confidence keeps impossibility from her mind. He asks why his word matters so much. | C:P1–15; `KNOW-0546`. Her recovery/capability confidence is stated, not medical evidence or unlimited obedience established. |
+| `EV-B0165-010` | Miu/Player recall their meeting, photo/games/latte and his awkward assistance. Miu says quick recruitment assent followed serious thought about her future: she judged him willing to look foolish for another and reports no regret. | C:P16–53; `KNOW-0547`. Recollection and motives attributed, not a replay or independently reviewed original scene; generic holocom does not show the photo's contents. |
+| `EV-B0165-011` | Miu requests renewed belief. Player apologizes for deciding alone without understanding her wishes; she distinguishes the awkward admission before accepting it, and both renew their commitment and cheer. | C:P54–65; `KNOW-0548`. Relational repair shown, no perfect safety, infallible manager or guarantee from the absolute confidence language. |
+| `EV-B0165-012` | After a cut, Monaka reports public buzz, Xiao/Susu praise drama action/English and Miu reports improved grades while aspiring to bilingualism. Player reflects on surface reading; professional future-responsibility becomes ensemble proposal teasing, which he denies. | C:P70–100; `KNOW-0549`. Mediated outcome with omitted filming interval, not viewed drama/English, measured audience, fluency, actual proposal or lasting managerial reform. |
+
+| ID | Edge type | Bounded relation |
+| --- | --- | --- |
+| `EDGE-0906` | `GENERAL_CHALLENGE_WISH_TO_ACCEPTED_SPECIFIC_OFFER` | `001` informs Player's decision in `002`; broad willingness is not prior informed acceptance of all demands. |
+| `EDGE-0907` | `ACCEPTED_OFFER_AND_REPORTED_DEMANDS_TO_DISCLOSURE_AND_ASSENT` | `002` precedes `003`; preserve the difference between his acceptance and her subsequently shown choice. |
+| `EDGE-0908` | `EXPRESSED_COMMITMENT_TO_INFORMAL_PEER_PREPARATION` | `003` is followed by `004`; lessons are preparation, not a verified performance or safety curriculum. |
+| `EDGE-0909` | `RECALLED_CUTE_INSTRUCTION_TO_RECIPROCAL_PEER_COACHING` | B:P7 in `004` explicitly names earlier teaching as repayment motive; `EV-B0143-002` supplies the closed comparison. No exact time interval or total chronology is inferred. |
+| `EDGE-0910` | `LESSON_WORKLOAD_TO_REDUCED_SHARED_LEISURE_AND_SLEEP_OBSERVATION` | Monaka in `005` relates waiting to lessons in `004`; fatigue is her inference, not a clinical finding. |
+| `EDGE-0911` | `OBSERVED_STRAIN_TO_COACH_CONSULTATION` | `005` is followed by `006`; answers delimit skill expectations and available margin rather than proving an agreed rest schedule. |
+| `EDGE-0912` | `PREPARATION_MARGIN_AND_PRIVATE_DOUBT_TO_COLLAPSE_REPORT` | `006` precedes Player's doubt/Xiao's report in `007`; no independent medical mechanism or injury severity follows. |
+| `EDGE-0913` | `COLLAPSE_CONCERN_TO_PROPOSED_WITHDRAWAL_WITHOUT_MIU_REQUEST` | `007` motivates `008`; protective intention does not supply her wish or a completed cancellation. |
+| `EDGE-0914` | `CONEY_CONSULTATION_CHALLENGE_TO_DIRECT_QUESTION` | `008` is followed by Player asking Miu in `009`; Coney allows refusal, not obligatory perseverance regardless of strain. |
+| `EDGE-0915` | `QUESTION_ABOUT_TRUST_TO_RECOLLECTED_REASONED_CHOICE` | `009` elicits `010`; Miu's account supplies her judgment, not omniscient recruitment history. |
+| `EDGE-0916` | `EXPLAINED_TRUST_AND_REASSURANCE_REQUEST_TO_APOLOGY_AND_JOINT_COMMITMENT` | `010` reaches `011`; knowledge of her reasons changes the relationship, without making his confidence infallible. |
+| `EDGE-0917` | `RECOMMITMENT_TO_LATER_PEER_REPORTED_SUCCESS_WITH_FILMING_ELLIPSIS` | `011` precedes `012` through native C:P66–69 cut; effort, teaching and disclosure remain distinct contributors, no proof reassurance alone caused success. |
+| `EDGE-0918` | `REPEATED_CHEER_AND_UNCOOL_LANGUAGE_TO_CHANGED_MEANING_NOT_PERFECT_IMAGE` | A:P39–49/99, C:P30–53/57–65/96–99 connect `001`, `003`, `010`–`012`: care/consultation becomes intelligible while awkwardness persists; not every error is virtuous. |
+
+`T7S_B0165_CLOSE-20261011`: twelve events and thirteen typed edges. The complete opportunity/preparation/consultation case closes; clinical clearance, inspected film/performed English, unlimited effort, romance and lasting policy do not.

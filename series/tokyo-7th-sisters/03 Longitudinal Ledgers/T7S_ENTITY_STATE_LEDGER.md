@@ -4,13 +4,13 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.65"
+version: "11.66"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 229 complete i-n-g primary documents / T7S_B0080–T7S_B0164; no other non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 232 complete i-n-g primary documents / T7S_B0080–T7S_B0165; no other non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-11
@@ -20,13 +20,13 @@ last_updated: 2026-10-11
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 85 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 86 complete i-n-g chapters. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`identity_routes = 98`; `character_states = 80`; `epistemic_states = 537`; `directional_relationship_states = 711`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0164, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
+`identity_routes = 98`; `character_states = 80`; `epistemic_states = 549`; `directional_relationship_states = 719`; `unit_states = 28`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA and T7S_B0080–T7S_B0165, with separate chronology-qualified intervals. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -3936,3 +3936,45 @@ The [B0164](../02%20Readings/T7S_B0164_DEEP_READING.md) A/B/C key, witness `T7S_
 | `REL-0711` | Reporter → Chacha, **attempted indirect access, insult and scandal threat before departure** | Wants classmates' view/photos, resists her challenge and invokes publicity risk before leaving. A:P79–98. Reciprocal `REL-0710`; no actual published scandal, proven industry-wide policy or completed physical violence. |
 
 `T7S_B0164_CLOSE-20261011`: twelve epistemic states and eight relationship directions. No stable identity, unit or readiness is added. All twenty-nine earlier readiness decisions retain their horizons; no monograph or multimodal maturity is promoted.
+
+## B0165 Miu's reasons for trust and actor-local preparation knowledge
+
+The [B0165](../02%20Readings/T7S_B0165_DEEP_READING.md) A/B/C key, witness `T7S_GAME_OFFLINE_JA_R484`, source-lock 12.69, binds these additions. Existing Miu `IDENTITY-0085` / `CHAR-0067` / `aihara-miu`; Monaka `IDENTITY-0086` / `CHAR-0068`; Xiao `IDENTITY-0094` / `CHAR-0076`; Susu `IDENTITY-0021` / `CHAR-0018`; Player `IDENTITY-0001` / `CHAR-0001`; Coney `IDENTITY-0003` / `CHAR-0003`; Nanastar `UNIT-0002` retain their routes. Director, mother, nurse and school friends are mediated local roles, not newly identified long-horizon subjects. Peer masters are not a new idol/clinical/production unit.
+
+| Existing stable ID / role | Added local state | Evidence and retained limit |
+| --- | --- | --- |
+| `CHAR-0067` / Miu | Wants novelty, accepts difficult work, prepares despite strain, states a waking-gaze boundary, explains trust through reasoned recollection, requests renewed belief and reports later grade improvement. | A:P7–52,92–99; B:P1–86; C:P1–100. No diagnosis, actual viewed performance, bilingual mastery, unlimited obedience or established romance. |
+| `CHAR-0001` / Player | Accepts offer from broad confidence, discloses demands, observes strain, considers withdrawal alone, hears Miu's reasons, apologizes and states revised professional responsibility. | A:P2–99; B:P24–132; C:P3–100. Local admission/repair, not proof of pre-acceptance detailed consultation, safety certification or durable institutional policy. |
+| `CHAR-0003` / Coney | Qualifies projected benefits, questions overprotection/surface knowledge, permits refusal with consultation first and adds self-trust before catching proposal-like phrasing. | A:P65–87; B:P92–131; C:P75–89. Her latent-doubt/gender accounts are attributed interpretations, not universal psychology or orders to ignore harm. |
+| `CHAR-0068` / Monaka | Waits to share Miu's return home, notices possible fatigue, accompanies hospital talk and later reports buzz while joining teasing. | A:P8–46; B:P25–38,81–85; C:P70,94. Glucose efficacy is her claim opposed by reported nurse reply, not endorsed medical advice or shown administration. |
+| `CHAR-0076` / Xiao | Coaches action as repayment for earlier cute instruction, reports conditional preparation margins and collapse, later praises action and joins future teasing. | B:P1–7,53–68; C:P71,93. Informal peer role, no choreographic viewing, accreditation, medical diagnosis or exact director demand proof. |
+| `CHAR-0018` / Susu | Teaches confident English delivery, distinguishes role lines from fluency, rejects reduced lessons in the available margin, later praises performance and teases Player. | B:P12–19,45–48; C:P72,92. No heard pronunciation evaluation, native-level competence or professional training credential inferred. |
+| `UNIT-0002` / Nanastar | Provides work mediation, peer preparation/friendship and manager consultation within this opportunity. | A/B/C. No new membership, clinical function, formal coaching team, revised workload rule or guaranteed safe production. |
+
+| ID | Actor-local epistemic state | Evidence and limit |
+| --- | --- | --- |
+| `KNOW-0538` | Player weighs an offer; Miu voices trust in fit plus a wish for novelty; Monaka/Miu have distinct appraisals of his disorder and appearance. | A:P2–56. General preference, not knowledge/assent to every specific job requirement. |
+| `KNOW-0539` | Player reports accepted lead and director/image rationale; Coney makes benefits conditional and supplies demanding production expectations; her concern is not yet understood by him. | A:P61–87. Mediated production reports and uneven knowledge, no contract or direct director testimony. |
+| `KNOW-0540` | Miu learns role requirements, names poor English grades and commits based on Player's capability judgment; both express confidence. | A:P92–99. Shown informed discussion of these demands occurs after his acceptance; confidence not guarantee. |
+| `KNOW-0541` | Xiao evaluates action procedure/sharpness and invokes teaching debt; Susu frames delivery-confidence as the English problem. | B:P1–19. Speaker-local instruction, not heard speech/verified choreography or accredited expertise. |
+| `KNOW-0542` | Monaka explains waiting/reduced play and suspects fatigue; Player sees Miu asleep; Miu articulates a waking-gaze objection and accepts leaving. | B:P24–40. No clinical assessment, shared universal rule or actual inspected prone body. |
+| `KNOW-0543` | Susu distinguishes feasible role lines from native fluency and limited lesson margin; Xiao ties action success to director requirements/time and reports lacrosse background. | B:P45–56. Conditions/claims, not actual production benchmarks or endorsed no-rest protocol. |
+| `KNOW-0544` | Player doubts judgment; Xiao reports collapse; Miu explains all-night study/sleep and mother's response. Monaka's glucose claim is contradicted by Miu's nurse report. | B:P61–86. Reports retain provenance; no clinical clearance, agreed treatment or infusion actually administered. |
+| `KNOW-0545` | Player wants to cancel but admits Miu has not asked to quit. Coney interprets his latent doubt/avoidance and recommends speaking first; he accepts the recommendation. | B:P100–132. Interpretation not unrestricted access to his mind; refusal permitted, no actual cancellation. |
+| `KNOW-0546` | Miu reports sleep recovery, recognizes hard effort, requests praise and links confidence to Player's belief; he asks why she trusts him. | C:P1–15. Self-report and question, no objective health/capability guarantee. |
+| `KNOW-0547` | Miu/Player recall their meeting and kept photo; she supplies her reading of his awkward care, serious future choice and lack of regret. | C:P16–53. Recollection/motives attributed; adult generalization is hers, voice crack unlistened and photo contents not visible. |
+| `KNOW-0548` | Miu requests reaffirmation; Player acknowledges deciding alone without her wishes; she qualifies his awkward confession, and both recommit. | C:P54–65. Local understood trust, not unlimited dependence, perfect manager or clinical safety. |
+| `KNOW-0549` | Peers report drama/action/English success; Miu reports higher grades and an aspiration. Player states surface-reading regret; proposal analogy is teased and twice denied. | C:P70–100. No viewed drama, measured reception, bilingual mastery, actual proposal or lasting policy. |
+
+| ID | Direction and local relation | Counterpart/evidence/limit |
+| --- | --- | --- |
+| `REL-0712` | Miu → Player, **reasoned professional trust, desired recognition and explicit renewed commitment** | Wants novelty, accepts demands, asks praise, explains her choice, requests belief and continues future trust. A:P33,48–52,97; C:P10,21–65,96–99. Reciprocal `REL-0713`; no blindness, infallibility, exclusivity or actual proposal. |
+| `REL-0713` | Player → Miu, **opportunity mediation, protective unilateralism and consultation-based repair** | Accepts lead, observes strain, proposes withdrawal without her request, asks her reasons, apologizes and recommits. A:P54–99; B:P24–132; C:P3–100. Reciprocal `REL-0712`; no pre-acceptance detailed consent audit, safety guarantee or permanent reform. |
+| `REL-0714` | Coney → Player, **qualified opportunity appraisal and challenge to overprotective avoidance** | Makes benefits conditional, asks whether Miu wants to quit, challenges surface model and advises conversation/self-trust. A:P73–87; B:P106–129; C:P83–89. Reciprocal `REL-0715`; latent-doubt interpretation/gender remarks attributed, not universal fact. |
+| `REL-0715` | Player → Coney, **reported decision, accepted challenge and reflective professional account** | Announces offer, proposes cancellation, accepts consultation advice and reports revised reasoning. A:P66–85; B:P98–132; C:P74–95. Reciprocal `REL-0714`; actual future policy not shown. |
+| `REL-0716` | Miu → Xiao/Susu, **chosen learner cooperation and reciprocal peer teaching history** | Repeats drills, accepts playful master address and asks questions; Xiao explicitly links coaching to prior cute instruction. B:P1–19; B:P7 with B0143. Reciprocal `REL-0717`; distinguish the two teachers, no formal team or mastery. |
+| `REL-0717` | Xiao/Susu → Miu, **distinct informal skill instruction and qualified outcome praise** | Xiao requests sharper action and reports director-dependent margins; Susu teaches confident delivery/role lines; both later praise results. B:P1–19,45–56; C:P71–72. Reciprocal `REL-0716`; no actual performance review, fluent English or safe no-rest curriculum. |
+| `REL-0718` | Monaka → Miu, **shared leisure concern, waiting and situated support** | Plans stream/play, waits to go home, suspects fatigue, joins hospital talk and reports later buzz. A:P17; B:P25–38,81–85; C:P70. Reciprocal `REL-0719`; medical suggestion not validated and audience scope not measured. |
+| `REL-0719` | Miu → Monaka, **shared plans, return-home assent and hospital conversation** | Joins planned stream, agrees to leave together and relays a nurse's response to Monaka's suggestion. A:P7–52; B:P33–38,82–85. Reciprocal `REL-0718`; no completed stream, actual infusion or generic consent to treatment. |
+
+`T7S_B0165_CLOSE-20261011`: twelve epistemic states and eight relationship directions. No stable identity, unit or readiness is added. All twenty-nine readiness decisions retain their original horizons; no monograph or multimodal maturity is promoted.
