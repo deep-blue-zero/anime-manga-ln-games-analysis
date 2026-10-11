@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import base64
+import errno
 import json
 import os
 import re
@@ -13,6 +14,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+from contextlib import contextmanager
 from pathlib import Path
 
 REPOSITORY = "deep-blue-zero/anime-manga-ln-games-analysis"
@@ -165,6 +167,9 @@ class Graph:
         self.git("init", "--bare", ".")
         self.git("remote", "add", "origin", f"https://github.com/{REPOSITORY}.git")
         self.git("config", "core.hooksPath", str(directory / "disabled-hooks"))
+        # This object store is disposable; no background writer should outlive it.
+        self.git("config", "--local", "maintenance.auto", "false")
+        self.git("config", "--local", "gc.auto", "0")
 
     def git(self, *args: str, input_text: str | None = None, extra_env: dict | None = None) -> str:
         environment = {key: value for key, value in os.environ.items() if key not in {"OWNER_TOKEN", "READ_TOKEN", "GH_TOKEN", "GITHUB_TOKEN"}}
@@ -523,6 +528,35 @@ class Integrator:
                 self.save()
 
 
+def cleanup_directory(temporary: tempfile.TemporaryDirectory) -> None:
+    # Retry disposal only: replaying integration could repeat remote mutations.
+    for attempt in range(3):
+        try:
+            temporary.cleanup()
+            return
+        except OSError as exc:
+            if exc.errno != errno.ENOTEMPTY or attempt == 2:
+                raise
+            time.sleep(1)
+
+
+@contextmanager
+def temporary_graph_directory():
+    temporary = tempfile.TemporaryDirectory(prefix="nightly-integration-")
+    try:
+        yield temporary.name
+    except BaseException as original:
+        try:
+            cleanup_directory(temporary)
+        except OSError as cleanup_error:
+            # Keep both failures, including the original traceback and cause.
+            raise BaseExceptionGroup("Integration and temporary Git cleanup failed",
+                                     [original, cleanup_error]) from None
+        raise
+    else:
+        cleanup_directory(temporary)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--mode", choices=("preview", "apply"), default="preview")
@@ -538,7 +572,7 @@ def main() -> int:
         parser.error("Configure NIGHTLY_INTEGRATION_TOKEN before enabling integration")
     controller_sha = os.environ.get("GITHUB_SHA") or subprocess.check_output(["git", "rev-parse", "HEAD"], text=True).strip()
     result = 0
-    with tempfile.TemporaryDirectory(prefix="nightly-integration-") as temporary:
+    with temporary_graph_directory() as temporary:
         worker = Integrator(GitHub(token, preview=preview), Graph(Path(temporary)), preview=preview, controller_sha=controller_sha)
         try:
             worker.run(args.branch)
