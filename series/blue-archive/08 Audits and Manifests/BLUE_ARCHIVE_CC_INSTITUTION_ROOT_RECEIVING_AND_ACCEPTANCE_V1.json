@@ -1,0 +1,204 @@
+{
+  "schema": "BLUE_ARCHIVE_CC_INSTITUTION_ROOT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_CC_STUDENT_OPERATIVE_LABOR_INSTITUTIONAL_SYNTHESIS.md",
+  "current_scope": "355 required packages;29 non-denominator mandatory substantial named duties across25 distinct parent packages; literal kinds18 SECTION/9 DIRECTED_RELATIONSHIP/2 ENSEMBLE",
+  "dated_source_beforeimage_witness": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+  "dated_source_tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+  "accepted_merged_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "commit_custody_qualification": "7546 source and b76 squash main have the same e9 tree; distinct commit and audit custody is preserved. This preparer performed no fetch, local reconciliation, merge or new remote observation.",
+  "fixed_preparation_snapshot": {
+    "packages": [
+      90,
+      101
+    ],
+    "new_packages": 12,
+    "after_complete_ROOT_install": 101,
+    "characters": 89,
+    "directed_relationships": 6,
+    "ensembles": 3,
+    "institutions": 3,
+    "named_duties_after_complete_ROOT_install": 3,
+    "previous_merged_packages": 89,
+    "next_milestone": 178,
+    "later_live_acceptances_excluded": true
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "Original pending/local/counter/source-capture/receiving fields retain creation-time meaning. The separate complete ROOT acceptance controls current literary judgment; the accepted milestone control supersedes only earlier first-milestone pending states. No author physical source receiving is inferred retrospectively.",
+  "original_exact_tuple": {
+    "path": "ROOT_CC_INSTITUTION_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 6462,
+    "sha256": "09b7f7fd1d6c8e2629fc26119e249c16348f5c2ae5958d8eb82d6894af1aa8b1",
+    "git_blob_oid_of_actual_bytes": "0422e6c49ae73892f35db75c5147703fa5bbbe24",
+    "immutable_transport_path": "immutable_originals/ROOT_CC_INSTITUTION_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_CC_INSTITUTION_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "checked_UTC": "2026-10-10T19:12:10.264981+00:00",
+    "status": "PASS_COMPLETE_INSTITUTION_AND_BOTH_NAMED_BOUNDARIES_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_EXISTING_INSTITUTION_PACKAGE_AND_TWO_SUBSTANTIAL_NAMED_DUTIES_WITH_LIMITS",
+    "candidate": {
+      "path": "BLUE_ARCHIVE_CC_STUDENT_OPERATIVE_LABOR_INSTITUTIONAL_SYNTHESIS.md",
+      "byte_count": 54962,
+      "line_count": 206,
+      "sha256": "10976dc840753666d5be54400e3983efbda89c678821f7cb8a9e709bf8a9a5a7",
+      "actual_byte_blob_oid": "855e6316d6304c6cdfb3893b9e80da6b6873a0e8"
+    },
+    "existing_home": "P3-INST-CC-STUDENT-OPERATIVE-LABOR",
+    "operative_body": "Complete206-line saved original as-is; later canonical framing and links require exact separate adoption. No frozen author bytes changed.",
+    "finite_bindings": {
+      "immutable86e_and_Ccopies": 37,
+      "current_unchanged_analytical_and_secondary": 29,
+      "snapshot_only_Ccontrols": 8,
+      "main_equal": 26,
+      "main_architecture_unequal": 1,
+      "main_absent": 10,
+      "historical_Cinputs": 10,
+      "preserved_prior": 104,
+      "saved_paragraphs": 88,
+      "source_joins": 213,
+      "endpoints": 39,
+      "rivals": 9,
+      "substantive_dimensions": 11,
+      "OPEN_gaps": 14,
+      "named_substantial_paragraphs": [
+        8,
+        5
+      ]
+    },
+    "ROOT_actual_receiving": {
+      "whole_saved_body": "dbaa331–58/57eefe59–110/dbe69e111–166/746981167–206EOF",
+      "all_source_controls_and37_actual_scopes": "f44dce controls; exploded2689a3 clipped claim withheld, repaired3453df0–9/cb3f5510–19/f3bfe020–28/b8a0fc29–36 complete",
+      "all_saved_duplicate_meanings": "Whole206body plus cb2c19 verifies all88 literal paragraph and unique nonduplicate meaning_scope",
+      "all_endpoint_nonduplicate_meanings": "37b9b40–12/475aaa13–25/946df026–38 with full duplicate argument equality",
+      "all_rivals": "Wholebody plus aa1965 complete all9 extra/source fields",
+      "two_whole_named_witnesses": "c6ac69 full first witness and3fa420 full second; body both substantial exact arguments",
+      "whole_saved_output_and_seal": "4babc6/1e7d7d prior;3daa55 fresh33 and164d33 full meaningfulseal repairs7066b0 clip",
+      "fresh_support": "1936cf+d2dde7 complete G12 172. G31 fa2ee9 only1–155 of226; nofreshwhole credit. Adequate prior complete private/public analytical scopes retained separately, including author-held scopes with no ROOTfreshwhole promotion."
+    },
+    "semantic_grounds": [
+      "Occupational capability, wanted work, delegated commitment, informed participation and recipient assent are different institutional mechanisms. Plural tactical coauthors and independent service recipients survive the synthesis.",
+      "Wanted service, cleaning, tea, clothing, toys, food, quiet conversation, company, rest, hobby uncertainty and unfinished small wishes retain intrinsic value without a tactical or stakes threshold.",
+      "Actual temporary café opening, compressed successful week, reported earnings and thanks coexist with refusal of permanent conversion, absent financial audit or transfers, no displayed signature instrument and no verified free prior leader assent.",
+      "Useful rescue and local successful work coexist with unilateral methods, coerced recipients, damage, limited correction and unfinished safety, accountability or restitution. Exact Kaiser employee explosion order is retained atL111.",
+      "Private, public, written, reported, inward, formal alternative and locale roles retain their warrants. Current admitted secondary arguments add no original-primary, performance, identity or model credit.",
+      "Nine sustained serious competing readings retain achieved and contrary evidence. All eleven institutional dimensions and fourteen original gaps are present.",
+      "Separate character, company ensemble, Seminar and directed relationship homes remain required independent arguments."
+    ],
+    "independent_substantive_named_adjudications": [
+      {
+        "section_id": "P3-SECTION-YUUKA-CC-FISCAL-CHOSEN-OCCUPATION",
+        "decision": "ACCEPT_COMPLETE_NAMED_BOUNDARY_WITH_LIMITS",
+        "full_paragraphs": 8,
+        "saved_range": [
+          59,
+          76
+        ],
+        "grounds": "Full fiscal/municipal purpose, reported internal delegation and acknowledgment, actual Neru information gap and refusal, compressed café outcome, thanks, rejected permanent occupation and distinct Seminar comparison are substantial linked arguments. Reported commitment and internal rule do not establish a legal instrument or free earlier Neru agreement. Heading credit is not used."
+      },
+      {
+        "section_id": "P3-SECTION-AKANE-NERU-APPEARANCE-RECIPIENT-BOUNDARY",
+        "decision": "ACCEPT_COMPLETE_NAMED_BOUNDARY_WITH_LIMITS",
+        "full_paragraphs": 5,
+        "saved_range": [
+          77,
+          88
+        ],
+        "grounds": "Akane own pleasure and initiative meet Neru actual jacket refusal and separately allowed hair arrangement. Intrinsic private preferences and other members differing clothing pleasure cannot decide Neru assent. Preparation, actual opening and correction of service vocabulary retain achieved and unfinished consequences. This is the full required directed recipient argument within its institution parent, adding zero denominator package."
+      }
+    ],
+    "progress": {
+      "previous_ROOTaccepted_packages": 97,
+      "new_institution_package": 1,
+      "total_ROOTaccepted_packages": 98,
+      "character_packages": 87,
+      "directed_relationship_packages": 6,
+      "ensemble_packages": 2,
+      "institution_packages": 3,
+      "ROOTaccepted_named_duties": 3,
+      "published_remote_packages": 89,
+      "published_source_commit": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "goal_25_percent_milestone_complete": false
+    },
+    "scope": "355required/29mandatoryduties/25distinctparents",
+    "all14_original_gaps": "OPEN",
+    "new_primary_native_raw_performed_model_independence_credit": 0,
+    "untracked39": "STAT_ONLY_PRESERVED_BY_PUBLICATION",
+    "UNBOUND9": "UNOPENED_UNREAD_UNHASHED",
+    "R_Git_provider_writes": false,
+    "main_integration": "PENDING_CORRECTED_SOURCE_CHAIN_AUTHORIZED_MERGE_EXACT_POSTMERGE_AUDIT",
+    "authorfreeze_status_qualification": "Frozen seal pre-reading pending field is dated provenance; actual author saved receiving separately reported. ROOTjudgment supplies only current ROOTacceptance, not retrospective author custody."
+  },
+  "public_reference_translation": "Every original field survives exact reference translation. Original tuples bind original bytes, not derivative bytes; full immutable C transports and literal inverses are retained.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_CC_STUDENT_OPERATIVE_LABOR_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 57322,
+    "sha256": "71a35f0c8cfae9b7ce56612a1855337e6ddcc087ddd3833e3bd09e92e4a04810",
+    "git_blob_oid_of_actual_bytes": "b66f2c5c4b8aee88ed5188b7076f6ab2e75420c6"
+  },
+  "authority_framing_changes": [],
+  "mandatory_operative_qualification": "Complete206-line saved original as-is; later canonical framing and links require exact separate adoption. No frozen author bytes changed."
+}

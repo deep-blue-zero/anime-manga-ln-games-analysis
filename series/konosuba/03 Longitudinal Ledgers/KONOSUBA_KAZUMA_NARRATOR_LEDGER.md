@@ -1,17 +1,17 @@
 ---
 series: KONOSUBA
 artifact_type: ledger
-scope: V01-V09
+scope: V01-V10
 ledger_role: narrator_perspective
 generation: V1
 status: active_provisional
-source_boundary: Japanese main-series light novels through V09 main narrative; Kazuma first-person narration
+source_boundary: Japanese main-series light novels through V10 main narrative; Kazuma first-person narration
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 ---
 
-# KONOSUBA Kazuma Narrator Ledger — Through V09
+# KONOSUBA Kazuma Narrator Ledger — Through V10
 
 ## Purpose
 
@@ -379,3 +379,84 @@ Darkness seizes and conceals a letter addressed to Kazuma, then refuses to retur
 - **Another person's motives:** require direct speech, subsequent action, or the independent epilogue; hypotheses remain hypotheses.
 - **Romantic status:** mutual affection is corroborated, but both perspectives preserve uncertainty about an agreed couple relationship.
 - **Moral reliability:** context dependent. Care, threatening fantasy, retaliatory behavior, and genuine restraint all occur; none authorizes erasing the others.
+
+
+# V10 Update
+
+**Evidence boundary:** all seven authorized V10 main-narrative units, consistently narrated through Kazuma. Pr/C1/C2/C3/C4/C5/Ep map to `text/part0009.html`–`text/part0015.html`. P numbers are all-body paragraph ordinals. Character quotations, reports of offscreen events and an impersonator's words remain separate from Kazuma's own speech. No illustrations, afterword, bonus, later volume or side narrative was consulted.
+
+## N-V10-01 — A necessity claim is locally contradicted by admitted enjoyment
+
+Kazuma initially insists that demanding toileting assistance is necessity rather than harassment. Once the physical problem becomes painful, he calls the preceding activity 「楽しいセクハラ」, enjoyable sexual harassment. Both facts can hold: he is genuinely restrained and needs help, while exploiting that dependency for a sexual power reversal. His later account to Aqua presents Darkness as the initiator of molestation without disclosing his own provocative conduct. (C1 P0079–0149; precise contrast P0088–0090 versus P0130 and P0149.)
+
+**Calibration:** the admission is stronger evidence about motive than the earlier blanket exoneration. It does not show that every bodily complaint is fictitious. The narrator often exposes a contradiction without fully relinquishing the advantage of his framing.
+
+## N-V10-02 — A sister-only self-description receives an immediate caveat
+
+After saying he sees Iris only as a younger sister and not sexually, Kazuma imagines accommodating a future adult request to marry him. He also says openly that he wants to obstruct the unknown fiancé and sharpens a sword before the visit. Later, real work for the aid mission temporarily takes precedence, then a successful political outcome revives his original wish to prevent the marriage. (C1 P0042–0046, P0188–0192; C5 P0478–0485.)
+
+**Calibration:** protectiveness, possessiveness, fantasy and practical care should be retained as coexisting elements. His own prospective caveat prevents a stronger purity claim; it is not evidence of Iris's future wishes or an agreed future relationship.
+
+## N-V10-03 — Private gossip skill becomes access, not omniscience
+
+Lip-reading accurately gives Kazuma usable access to Rain and Darkness's plan, the court's dismissive assessment of him and Darkness's whispered reward. The text identifies a mechanism and locates what he sees. It does not license access to unobserved thoughts, unheard conversations or hidden speaker motives elsewhere. (C2 P0046–0056; C3 P0571–0578, P0476–0481.)
+
+He initially describes the contemplated sedative scheme confidently, then her clothing unsettles his preparation. His narration's “cautious man who first suspects everyone” posture occurs inside a scene that exhibits his vulnerability to attraction. (C3 P0342–0405.) Confidence and partial success therefore remain local rather than a global reliability guarantee.
+
+## N-V10-04 — Accurate forecasts can accompany exploitation
+
+Kazuma expects his companions to create trouble during sightseeing and deliberately transfers them to strangers. The reunion corroborates the broad forecast, while showing the costs fall on those strangers. He joins his companions in fleeing a direct request for reimbursement. (C3 P0081–0104, P0125–0170, P0290–0323.)
+
+His claim of trusting the women not to be won by casual strangers later answers their complaint about abandonment; it coexists with his earlier explicit desire to escape responsibility. He also admits that his own solo outing included searching for a sexual-service establishment. (C3 P0455–0463.) A plausible favorable explanation must not erase an already stated self-serving motive.
+
+## N-V10-05 — A truthful rule description hides a deliberately misleading invitation
+
+The coin game initially lets both Iris and the reader treat his wins as evidence of extraordinary luck. He later discloses that neither fist held the coin and reuses his exact original “where” wording to justify the pocket answer. (C4 P0179–0197, P0244–0269.) This is selective disclosure and pragmatic deception, not proof that the earlier sentence was lexically false.
+
+The subsequent casino wins are presented as actual gambling success. His hope that Eris might help (C5 P0269–0277) and his attribution of a loss to Aqua's joined bet (P0324–0338) are explanations or wishes, not controlled causal demonstrations. Keep “he wins repeatedly,” “he deploys privilege to continue playing” and “his favored luck explanation is verified” as different claims.
+
+## N-V10-06 — The truth bell requires an explicit scope of inference
+
+The narrative supplies two limitations: sincere belief need not ring it (Darkness, C4 P0432), and Aqua's holy aura masks ordinary lies, with exceptions for extreme conscience-paining falsehoods (Aqua, P0466–0470). Kazuma's suspicion that the bell is broken is revised as these facts emerge. The farewell ringing is independently described, and his own partial confession follows it (P0486–0507).
+
+**Calibration:** silence does not certify Megumin's former life, Aqua's guardianship or service claims, or the objective truth of an entire self-model. The instrument can also sound during compound statements without identifying which clause supplied the falsehood. An observed bell response is evidence about this local interaction and the specified magical detection process, not unrestricted access to objective truth.
+
+## N-V10-07 — The source itself corrects the prince caricature
+
+Kazuma first treats Levi as a stupid, arrogant child. Levi later distinguishes defensive aid from aggressive funding, declines additional stakes despite provocation, objects to risking Iris's life, and finally reconsiders policy after her compassionate intervention. Kazuma registers several of those corrections while preserving the mocking “stupid prince” label. (C3 P0529–0538; C4 P0251–0284; C5 P0016–0021, P0185–0198, P0446–0473.)
+
+**Calibration:** early name-calling should not be converted into an exhaustive competence judgment. Equally, later affection or reform of one decision does not undo his initial insulting conduct. The chancellor's concealed allegiance also retrospectively changes the political explanation without proving that Kazuma knew it beforehand.
+
+## N-V10-08 — The supposedly unnecessary escort contributes specific functions
+
+Kazuma repeatedly asks why guards are needed when Iris wins fights or royal equipment supplies comfort. The joke accurately measures his frustrated desire to display useful brotherly authority, but the claim is broader than the causal record. Darkness handles transport, gathers political information and draws the dragon; Aqua supplies combat buffs; Kazuma changes the negotiation method, produces funds and joins the escape. (C2 P0126–0129, P0201–0261; C4 P0146–0154; C5 P0097–0126, P0247–0342, P0622–0657.)
+
+Keep the contributions specific. Megumin's intended Explosion remains unused against the dragon, and the final neutralization of Ragcraft belongs to Iris before the others enter. “Everyone mattered equally,” “only Kazuma mattered” and “the escort did nothing” all overstate the visible causal record (C5 P0147–0157, P0702–0707).
+
+## N-V10-09 — A presumed reunion is corrected by source-level attribution
+
+The late apparent-Megumin visit recalls the previous private encounter and produces an expectation of intimacy in Kazuma. The seductive dialogue belongs to Ragcraft, retrospectively exposed as the infiltrator; actual Megumin is subsequently encountered with Aqua. (C5 P0488–0544, P0585, P0674–0695.)
+
+**Calibration:** until the reveal, report “Kazuma believes Megumin is visiting” or “the figure speaking as Megumin.” In reconstructed character evidence, do not count its willingness, hesitation, eye-closing request or bodily proximity as Megumin's. His readiness to interpret the script, including the self-involving “victory” frame at P0517–0520, remains evidence about him.
+
+## N-V10-10 — The real man and the copied appearance receive opposed descriptions
+
+Kazuma calls his double handsome/refreshing (C5 P0581–0583), while the double calls the borrowed form ugly (P0617). Darkness identifies the impersonation through the status error, composure and lack of wandering gaze (P0550–0562). These are different kinds of evidence: narrator self-appraisal, an adversarial insult and observed interactional mismatches.
+
+The epilogue supplies a further correction. Kazuma says that everyone except Iris failed to recognize him (Ep P0024), Darkness immediately says she did recognize the fake (P0026), and he changes the complaint to what she did afterward (P0027). Preserve the whole exchange. His opening complaint is not an accurate detection census, and correcting it does not excuse Darkness's later conduct.
+
+## N-V10-11 — A sexual interpretation can be corrected by an action's practical purpose
+
+In the closet, Darkness approaches him urgently to shift his gag with her teeth. Kazuma first tracks the closeness of face and mouth, then recognizes the escape purpose and cooperates. (C5 P0629–0657.) The text therefore supplies both a habitual attention filter and its correction; her practical initiative does not begin as his plan.
+
+While running to rescue Iris, he later makes Darkness's intended thank-you a sexual accusation and concedes that his own conduct toward the false Megumin would make similar criticism applicable. (P0665–0672.) Actual danger does not suspend every preoccupation, and his self-correction need not stop the teasing immediately.
+
+## N-V10-12 — Ordinary voice of care can retain a desired audience effect
+
+His assurance that Iris has done enough and that he will take over follows visible discouragement and Megumin's request for help. Aqua identifies the pat-and-smile romantic trope, and he admits he partly aimed at it. (C5 P0216–0239.) The source supports both the concrete comfort and a flattering desired effect; neither cancels the other.
+
+Similarly, he actually buys and gives the ring, but the purchase begins partly as an uneasy substitute for the original ring he stole and still possesses (C3 P0268–0284). At the gift-giving he explains it through the pale mark on her finger (Ep P0034–0040). That account does not return the stolen item or exhaust the earlier motive. Iris's final familiar address is her observed response, not proof of every romantic inference Kazuma might prefer (Ep P0053–0060).
+
+## V10 narrator boundary
+
+Kazuma remains especially useful when he reports action, competing motives, constraints and the counterevidence to his own first description. Reliability varies by claim: quoted events and self-corrections often support a local conclusion; heroic credit, moral innocence, other people's hidden feelings and broad uniqueness claims require checks. V10 preserves his genuine work and care alongside deliberate misleading statements, omissions, invasive teasing and coercive exploitation. The ledger therefore continues to use claim-level calibration rather than “globally truthful,” “globally unreliable,” or “redeemed.”
